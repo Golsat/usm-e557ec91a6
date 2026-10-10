@@ -1,0 +1,1005 @@
+{
+ "verificato": "2026-10-10T12:39",
+ "fonti": {
+  "BBC News": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 04:38:20 GMT"
+  },
+  "The Guardian": {
+   "ok": true,
+   "voci": 45,
+   "ultima": "Fri, 09 Oct 2026 21:36:18 GMT"
+  },
+  "Financial Times": {
+   "ok": true,
+   "voci": 25,
+   "ultima": "Sat, 10 Oct 2026 09:30:07 GMT"
+  },
+  "The Telegraph": {
+   "ok": false,
+   "errore": "HTTP Error 402: Payment Required"
+  },
+  "Sky News": {
+   "ok": true,
+   "voci": 8,
+   "ultima": "Sat, 10 Oct 2026 07:57:00 +0100"
+  },
+  "ANSA": {
+   "ok": true,
+   "voci": 28,
+   "ultima": "Sat, 10 Oct 2026 11:30:24 +0200"
+  },
+  "Rai News": {
+   "ok": true,
+   "voci": 41,
+   "ultima": "Sat, 10 Oct 2026 10:30:00 GMT"
+  },
+  "la Repubblica": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 08:45:54 +0000"
+  },
+  "Il Sole 24 Ore": {
+   "ok": true,
+   "voci": 12,
+   "ultima": "Sat, 10 Oct 2026 09:28:00 GMT"
+  },
+  "Le Monde": {
+   "ok": true,
+   "voci": 16,
+   "ultima": "Sat, 10 Oct 2026 07:00:30 +0200"
+  },
+  "Le Figaro": {
+   "ok": true,
+   "voci": 19,
+   "ultima": "Sat, 10 Oct 2026 11:18:49 +0200"
+  },
+  "France 24": {
+   "ok": true,
+   "voci": 24,
+   "ultima": "Sat, 10 Oct 2026 09:58:06 GMT"
+  },
+  "Libération": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 05:31:00 +0000"
+  },
+  "Deutsche Welle": {
+   "ok": true,
+   "voci": 139,
+   "ultima": "2026-10-10T09:38:00Z"
+  },
+  "Der Spiegel": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 12:36:00 +0200"
+  },
+  "Tagesschau": {
+   "ok": true,
+   "voci": 64,
+   "ultima": "Sat, 10 Oct 2026 12:15:19 +0200"
+  },
+  "Süddeutsche Zeitung": {
+   "ok": true,
+   "voci": 15,
+   "ultima": "Sat, 10 Oct 2026 09:54:03 GMT"
+  },
+  "FAZ": {
+   "ok": true,
+   "voci": 159,
+   "ultima": "Sat, 10 Oct 2026 09:24:23 GMT"
+  },
+  "El País": {
+   "ok": true,
+   "voci": 145,
+   "ultima": "Sat, 10 Oct 2026 03:30:01 GMT"
+  },
+  "El Mundo": {
+   "ok": true,
+   "voci": 23,
+   "ultima": "Fri, 09 Oct 2026 22:41:38 +0200"
+  },
+  "RTVE": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Público": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 09:10:10 GMT"
+  },
+  "RTP": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 12:37:02 +0100"
+  },
+  "NOS": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 12:21:15 +0200"
+  },
+  "NRC": {
+   "ok": true,
+   "voci": 174,
+   "ultima": "Sat, 10 Oct 2026 09:58:12 +0200"
+  },
+  "VRT NWS": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "2026-10-10T10:34:59.000Z"
+  },
+  "The Brussels Times": {
+   "ok": false,
+   "errore": "mismatched tag: line 59, column 805"
+  },
+  "Swissinfo": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "NZZ": {
+   "ok": true,
+   "voci": 16,
+   "ultima": "Sat, 10 Oct 2026 10:35:24 GMT"
+  },
+  "Der Standard": {
+   "ok": true,
+   "voci": 156,
+   "ultima": "Sat, 10 Oct 2026 07:45:17 Z"
+  },
+  "ORF": {
+   "ok": true,
+   "voci": 25,
+   "ultima": "2026-10-10T12:25:24+02:00"
+  },
+  "SVT Nyheter": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 09:10:25 +0200"
+  },
+  "Dagens Nyheter": {
+   "ok": true,
+   "voci": 121,
+   "ultima": "Sat, 10 Oct 2026 11:26:05 +0200"
+  },
+  "NRK": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 08:51:02 GMT"
+  },
+  "DR Nyheder": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 08:21:16 GMT"
+  },
+  "Yle News": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Fri, 17 Feb 2023 12:23:31 +0200"
+  },
+  "RÚV": {
+   "ok": true,
+   "voci": 39,
+   "ultima": "Sat, 10 Oct 2026 10:00:22 +0000"
+  },
+  "RTÉ News": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 05:51:28 +0100"
+  },
+  "The Irish Times": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "TVN24": {
+   "ok": true,
+   "voci": 23,
+   "ultima": "Sat, 10 Oct 2026 10:31:40 GMT"
+  },
+  "Polskie Radio": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Radio Prague International": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Novinite": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "N1 Serbia": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 12:37:48 +0200"
+  },
+  "Kathimerini": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "Hürriyet Daily News": {
+   "ok": false,
+   "errore": "nessuna voce"
+  },
+  "TASS": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 13:26:38 +0300"
+  },
+  "Meduza": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 03:02:06 +0300"
+  },
+  "Moscow Times": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 12:45:05 +0300"
+  },
+  "The Kyiv Independent": {
+   "ok": true,
+   "voci": 15,
+   "ultima": "Sat, 10 Oct 2026 09:37:34 GMT"
+  },
+  "Ukrinform": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 13:15:00 +0300"
+  },
+  "LRT": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "ERR News": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 13:17:00 +0300"
+  },
+  "LSM": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Fri, 09 Oct 2026 13:36:00 GMT"
+  },
+  "Belsat": {
+   "ok": false,
+   "errore": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-"
+  },
+  "The New York Times": {
+   "ok": true,
+   "voci": 58,
+   "ultima": "Sat, 10 Oct 2026 09:01:24 +0000"
+  },
+  "The Wall Street Journal": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Mon, 27 Jan 2025 14:23:00 -0500"
+  },
+  "The Washington Post": {
+   "ok": true,
+   "voci": 19,
+   "ultima": "Sat, 10 Oct 2026 09:00:00 +0000"
+  },
+  "Fox News": {
+   "ok": true,
+   "voci": 25,
+   "ultima": "Sat, 10 Oct 2026 06:31:48 -0400"
+  },
+  "CNN": {
+   "ok": true,
+   "voci": 29,
+   "ultima": "Fri, 14 Apr 2023 20:00:28 GMT"
+  },
+  "NPR": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 05:00:00 -0400"
+  },
+  "PBS NewsHour": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Fri, 09 Oct 2026 18:55:07 -0400"
+  },
+  "CBC News": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Fri, 09 Oct 2026 22:39:26 EDT"
+  },
+  "The Globe and Mail": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 09:00:00 +0000"
+  },
+  "Le Devoir": {
+   "ok": false,
+   "errore": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl"
+  },
+  "La Jornada": {
+   "ok": true,
+   "voci": 94,
+   "ultima": "Sat, 10 Oct 2026 08:03:24 GMT"
+  },
+  "El Universal": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Folha de S.Paulo": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "10 Oct 2026 07:00:00 -0300"
+  },
+  "G1": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 10:18:28 -0000"
+  },
+  "Agência Brasil": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 21:36:00 -0300"
+  },
+  "Clarín": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 10:15:02 +0000"
+  },
+  "La Nación": {
+   "ok": true,
+   "voci": 93,
+   "ultima": "Sat, 10 Oct 2026 10:38:34 +0000"
+  },
+  "Página/12": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "La Tercera": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 10:30:00 +0000"
+  },
+  "El Tiempo": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "2026-10-10T05:12:24-05:00"
+  },
+  "El Comercio": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 10:25:00 +0000"
+  },
+  "El Observador": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 05:00:00 -0300"
+  },
+  "El Nacional": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 06:00:00 +0000"
+  },
+  "14ymedio": {
+   "ok": true,
+   "voci": 151,
+   "ultima": "Fri, 09 Oct 2026 17:14:07 +0000"
+  },
+  "El Deber": {
+   "ok": false,
+   "errore": "not well-formed (invalid token): line 5, column 42"
+  },
+  "La Prensa": {
+   "ok": false,
+   "errore": "not well-formed (invalid token): line 1, column 3506"
+  },
+  "La Nación CR": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 10:30:00 +0000"
+  },
+  "Mail & Guardian": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "News24": {
+   "ok": false,
+   "errore": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  "Premium Times": {
+   "ok": true,
+   "voci": 15,
+   "ultima": "Sat, 10 Oct 2026 10:18:59 +0000"
+  },
+  "The Punch": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 11:31:01 +0000"
+  },
+  "Daily Nation": {
+   "ok": true,
+   "voci": 25,
+   "ultima": "Sat, 10 Oct 2026 03:37:00 +0000"
+  },
+  "The EastAfrican": {
+   "ok": true,
+   "voci": 40,
+   "ultima": "Sat, 10 Oct 2026 04:00:00 +0000"
+  },
+  "Ahram Online": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "Egypt Independent": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 10:37:15 +0000"
+  },
+  "Morocco World News": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "Le Matin Algérie": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 07:00:55 +0000"
+  },
+  "TAP": {
+   "ok": false,
+   "errore": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl"
+  },
+  "Libya Herald": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Fri, 09 Oct 2026 18:57:00 GMT"
+  },
+  "Addis Standard": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "GhanaWeb": {
+   "ok": false,
+   "errore": "not well-formed (invalid token): line 1, column 435"
+  },
+  "Citizen Digital": {
+   "ok": false,
+   "errore": "HTTP Error 400: Bad Request"
+  },
+  "The Citizen": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "New Vision": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "The New Times": {
+   "ok": false,
+   "errore": "The read operation timed out"
+  },
+  "APA News": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "Abidjan.net": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Radio Okapi": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 10:25:12 +0100"
+  },
+  "Sudan Tribune": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "allAfrica": {
+   "ok": true,
+   "voci": 32,
+   "ultima": "Fri, 09 Oct 2026 16:18:22 GMT"
+  },
+  "Xinhua": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "2018-01-24"
+  },
+  "China Daily": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "CGTN": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Fri, 09 Oct 2026 23:00:30 GMT"
+  },
+  "South China Morning Post": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 10:39:03 +0000"
+  },
+  "NHK World": {
+   "ok": true,
+   "voci": 7,
+   "ultima": "Sat, 08 Aug 2026 21:54:30 +0900"
+  },
+  "The Japan Times": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 14:02:00 +0900"
+  },
+  "Asahi Shimbun": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Yonhap": {
+   "ok": true,
+   "voci": 101,
+   "ultima": "Sat, 10 Oct 2026 16:10:56 +0900"
+  },
+  "The Korea Herald": {
+   "ok": false,
+   "errore": "mismatched tag: line 58, column 2"
+  },
+  "The Hankyoreh": {
+   "ok": true,
+   "voci": 30,
+   "ultima": ""
+  },
+  "The Hindu": {
+   "ok": true,
+   "voci": 60,
+   "ultima": "Sat, 10 Oct 2026 16:06:09 +0530"
+  },
+  "Times of India": {
+   "ok": true,
+   "voci": 47,
+   "ultima": "Sat, 10 Oct 2026 14:55:15 +0530"
+  },
+  "The Indian Express": {
+   "ok": true,
+   "voci": 200,
+   "ultima": "Sat, 10 Oct 2026 10:32:32 +0000"
+  },
+  "NDTV": {
+   "ok": false,
+   "errore": "not well-formed (invalid token): line 48, column 124"
+  },
+  "Dawn": {
+   "ok": true,
+   "voci": 24,
+   "ultima": "Sat, 10 Oct 2026 15:38:26 +0500"
+  },
+  "The Express Tribune": {
+   "ok": true,
+   "voci": 73,
+   "ultima": "Sat, 10 Oct 26 04:58:07 +0500"
+  },
+  "The Daily Star": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 22 Jul 22 18:00:00 +0600"
+  },
+  "The Kathmandu Post": {
+   "ok": true,
+   "voci": 40,
+   "ultima": ""
+  },
+  "Daily Mirror": {
+   "ok": false,
+   "errore": "not well-formed (invalid token): line 23, column 60"
+  },
+  "TOLOnews": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sun, 04 Oct 2026 23:56:45 +0000"
+  },
+  "The Jakarta Post": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Antara": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Philippine Daily Inquirer": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Mon, 12 Oct 2026 09:00:00 +0800"
+  },
+  "Rappler": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 18:25:39 +0800"
+  },
+  "VnExpress": {
+   "ok": false,
+   "errore": "<urlopen error timed out>"
+  },
+  "Bangkok Post": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 14:30:00 +0700"
+  },
+  "The Straits Times": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 18:15:05 +0800"
+  },
+  "CNA": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 18:31:43 +0800"
+  },
+  "The Star": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Focus Taiwan (CNA)": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Taipei Times": {
+   "ok": true,
+   "voci": 45,
+   "ultima": "2026-10-10T08:00:00+08:00"
+  },
+  "The Irrawaddy": {
+   "ok": false,
+   "errore": "junk after document element: line 270, column 3"
+  },
+  "The Astana Times": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 10:38:31 +0000"
+  },
+  "Mongolia Weekly": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Al Jazeera": {
+   "ok": true,
+   "voci": 25,
+   "ultima": "Sat, 10 Oct 2026 09:45:14 +0000"
+  },
+  "The Times of Israel": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "Haaretz": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 11:55:20 +0300"
+  },
+  "The Jerusalem Post": {
+   "ok": false,
+   "errore": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-"
+  },
+  "Arab News": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "The National": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Gulf News": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Tehran Times": {
+   "ok": false,
+   "errore": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-"
+  },
+  "Iran International": {
+   "ok": false,
+   "errore": "not well-formed (invalid token): line 1, column 26638"
+  },
+  "Rudaw": {
+   "ok": false,
+   "errore": "not well-formed (invalid token): line 1, column 6946"
+  },
+  "L'Orient Today": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "The Jordan Times": {
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden"
+  },
+  "Syria Direct": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Mon, 05 Oct 2026 10:18:50 +0000"
+  },
+  "Kuwait Times": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Times of Oman": {
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
+  },
+  "Daily News Egypt": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 14:45:40 +0000"
+  },
+  "Middle East Eye": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 11:31:48 +0100"
+  },
+  "ABC News Australia": {
+   "ok": true,
+   "voci": 25,
+   "ultima": "Sat, 10 Oct 2026 08:17:31 +0000"
+  },
+  "Sydney Morning Herald": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 21:36:40 +1100"
+  },
+  "RNZ": {
+   "ok": true,
+   "voci": 34,
+   "ultima": "Sat, 10 Oct 2026 18:46:06 +1300"
+  },
+  "NZ Herald": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 07:25:30 +0000"
+  },
+  "RNZ Pacific": {
+   "ok": true,
+   "voci": 18,
+   "ultima": "Sat, 10 Oct 2026 13:27:17 +1300"
+  },
+  "Euronews": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 12:22:30 +0200"
+  },
+  "Positive News": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 12:45:19 +0000"
+  },
+  "Good News Network": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 10:00:59 +0000"
+  },
+  "Dezeen": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 09:00:41 +0000"
+  },
+  "ArchDaily": {
+   "ok": true,
+   "voci": 24,
+   "ultima": "Sat, 10 Oct 2026 02:00:00 +0000"
+  },
+  "Designboom": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 08:49:48 +0000"
+  },
+  "The Architects' Journal": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 10:39:47 +0000"
+  },
+  "New Civil Engineer": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 14:52:42 +0000"
+  },
+  "Construction Index": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Fri, 09 Oct 2026 08:30:00 +0100"
+  },
+  "Engineering News-Record": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Fri, 09 Oct 2026 19:27:38 -0400"
+  },
+  "Construction Dive": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 15:55:00 -0400"
+  },
+  "IEEE Spectrum": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Fri, 09 Oct 2026 18:00:02 +0000"
+  },
+  "Il Giornale dell'Architettura": {
+   "ok": true,
+   "voci": 3,
+   "ultima": "Tue, 06 Oct 2026 12:13:59 +0000"
+  },
+  "Il Sole 24 Ore – Casa24": {
+   "ok": true,
+   "voci": 9,
+   "ultima": "Thu, 8 Oct 2026 13:50:00 GMT"
+  },
+  "Global Construction Review": {
+   "ok": true,
+   "voci": 24,
+   "ultima": "Fri, 09 Oct 2026 07:58:00 +0000"
+  },
+  "The Architectural Review": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Thu, 08 Oct 2026 05:04:39 +0000"
+  },
+  "Wallpaper*": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 08:14:02 +0000"
+  },
+  "Railway Gazette International": {
+   "ok": true,
+   "voci": 50,
+   "ultima": "Sat, 10 Oct 2026 08:54:19 +0000"
+  },
+  "Tunnels and Tunnelling": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 09:58:34 +0000"
+  },
+  "Baunetz": {
+   "ok": true,
+   "voci": 51,
+   "ultima": "Fri, 09 Oct 2026 16:18:35 +0200"
+  },
+  "Construction Business News Middle East": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 13:02:07 +0000"
+  },
+  "Nazioni Unite (UN News)": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Fri, 09 Oct 2026 12:00:00 +0000"
+  },
+  "Consiglio dell'Unione europea": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "2026-10-10T11:35:00Z"
+  },
+  "Agenzia internazionale per l'energia atomica (Aiea)": {
+   "ok": true,
+   "voci": 15,
+   "ultima": "26-10-09  17:15"
+  },
+  "Organizzazione mondiale del commercio (Omc)": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Thu, 08 Oct 2026 00:00:00 GMT"
+  },
+  "Agenzia spaziale europea (Esa)": {
+   "ok": true,
+   "voci": 9,
+   "ultima": "Wed, 21 Jan 2026 13:54:00 +0100"
+  },
+  "Nasa": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 04:05:00 +0000"
+  },
+  "Gambero Rosso": {
+   "ok": true,
+   "voci": 500,
+   "ultima": "Sat, 10 Oct 2026 09:50:34 +0000"
+  },
+  "La Cucina Italiana": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 06:30:00 +0000"
+  },
+  "The Guardian – Cucina": {
+   "ok": true,
+   "voci": 31,
+   "ultima": "Sat, 10 Oct 2026 05:00:49 GMT"
+  },
+  "Bon Appétit": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 10:00:00 +0000"
+  },
+  "The New York Times – Cucina": {
+   "ok": true,
+   "voci": 23,
+   "ultima": "Thu, 08 Oct 2026 17:24:11 +0000"
+  },
+  "Science News Explores": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Fri, 09 Oct 2026 10:30:00 +0000"
+  },
+  "The Guardian – Istruzione": {
+   "ok": true,
+   "voci": 17,
+   "ultima": "Sat, 10 Oct 2026 05:00:47 GMT"
+  },
+  "NPR – Istruzione": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 05:00:00 -0400"
+  },
+  "Orizzonte Scuola": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 10:33:27 +0000"
+  },
+  "Focus": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Sat, 10 Oct 2026 08:00:00 +0200"
+  },
+  "MIT Technology Review": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 12:10:00 +0000"
+  },
+  "Nature": {
+   "ok": true,
+   "voci": 75,
+   "ultima": "2026-10-09"
+  },
+  "BBC Newsround": {
+   "ok": true,
+   "voci": 80,
+   "ultima": "Sat, 10 Oct 2026 07:23:48 GMT"
+  },
+  "The Guardian – Videogiochi": {
+   "ok": true,
+   "voci": 7,
+   "ultima": "Wed, 07 Oct 2026 14:00:53 GMT"
+  },
+  "The Guardian – Musica": {
+   "ok": true,
+   "voci": 26,
+   "ultima": "Fri, 09 Oct 2026 12:48:34 GMT"
+  },
+  "The Guardian – Cinema": {
+   "ok": true,
+   "voci": 32,
+   "ultima": "Sat, 10 Oct 2026 09:00:53 GMT"
+  },
+  "NPR – Musica": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 12:11:32 -0400"
+  },
+  "Rolling Stone Italia": {
+   "ok": true,
+   "voci": 20,
+   "ultima": "Sat, 10 Oct 2026 10:21:27 +0000"
+  },
+  "Wired Italia": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Wed, 01 Jul 2026 07:00:00 +0000"
+  },
+  "Pitchfork": {
+   "ok": true,
+   "voci": 30,
+   "ultima": "Fri, 09 Oct 2026 21:54:32 +0000"
+  },
+  "Billboard": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 08:25:05 +0000"
+  },
+  "NME": {
+   "ok": true,
+   "voci": 10,
+   "ultima": "Sat, 10 Oct 2026 10:04:55 +0000"
+  },
+  "OndaRock": {
+   "ok": true,
+   "voci": 100,
+   "ultima": "Sat, 10 Oct 2026 09:06:46 +0000"
+  }
+ }
+}
