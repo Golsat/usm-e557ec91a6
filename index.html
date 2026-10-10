@@ -454,6 +454,14 @@ details.dd .dd-p{position:absolute;z-index:50;top:100%;left:0;min-width:200px;ma
 details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .card.open .tg{display:inline-block;background:#c8352b;color:#fff;font-weight:800;padding:5px 14px;border-radius:99px;font-size:12.5px;letter-spacing:.02em;cursor:pointer}
 .card.open .tg:hover{background:#a82820}
+.promo-qf{margin:12px 0 4px;padding:10px 11px;border:1px solid var(--hair);border-left:5px solid #7a5ad8;background:color-mix(in srgb,#7a5ad8 10%,var(--card));font:12.5px/1.4 var(--sans)}
+.promo-qf b{font:900 15px var(--display);display:block;margin:2px 0 4px}
+.promo-qf p{margin:0 0 8px;color:var(--ink)}
+.promo-qf .qf-ad{font:600 9px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border:1px solid var(--hair);padding:0 5px;border-radius:99px;margin-left:4px;vertical-align:1px}
+.promo-qf .qf-link{display:flex;flex-direction:column;gap:5px}
+.promo-qf .qf-link a{display:block;text-decoration:none;color:var(--ink);font:700 12px var(--sans);padding:6px 9px;border:1px solid var(--ink);background:var(--card);border-radius:6px}
+.promo-qf .qf-link a:hover{background:var(--ink);color:var(--paper)}
+@media print{.promo-qf{display:none}}
 .dirbox{border:1px solid var(--hair);border-top:4px solid #c8352b;background:var(--card);padding:8px 10px;margin:10px 0;font:12.5px var(--sans)}
 .dirbox[hidden]{display:none}
 .dir-h{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
@@ -1424,6 +1432,18 @@ document.addEventListener("click",e=>{
   if(sotto) selezionaNazione(sotto.dataset.n);
 });
 
+/* ===== BOX QUESTFORGE: un po' di pubblicità del progetto editoriale (testi e link già usati nel sito QuestForge) ===== */
+function promoQuestForge(){
+  return `<div class="promo-qf"><div class="r-tit">Dal nostro progetto editoriale <span class="qf-ad">pubblicità</span></div>
+    <b>QuestForge Publishing</b>
+    <p>Libri da colorare che raccontano una storia, per bambini dai 4 agli 8 anni. Vol. 1 «Dungeon &amp; Creature»: 30 tavole da colorare e il diploma di Cavaliere dei Draghi.</p>
+    <div class="qf-link">
+      <a href="https://www.amazon.it/dp/B0HGBJ7ZVT" target="_blank" rel="noopener">📚 Amazon Italia</a>
+      <a href="https://www.amazon.com/dp/B0HGBFBQ1H" target="_blank" rel="noopener">📚 Amazon.com (EN)</a>
+      <a href="https://www.instagram.com/questforgepublishing/" target="_blank" rel="noopener">📷 Instagram</a>
+      <a href="https://www.pinterest.com/questforgepublishing/" target="_blank" rel="noopener">📌 Pinterest</a>
+    </div></div>`;
+}
 /* ===== PILLOLE DEL GIORNO: una curiosità per tema, non necessariamente «del giorno» ===== */
 let PILLOLE = [];
 function pilloleHTML(){
@@ -1442,8 +1462,8 @@ function renderRail(){
   filtroSezione = fs; filtroSub = fb;
   el.innerHTML = `<div class="r-tit">Sezioni</div><a href="#" data-sez="__tutte" class="r-tutte" style="--t:#8a8576"><span>Tutto il giornale</span><span class="n">${tot}</span></a>` + voci.map(({s,n})=>
     `<a href="#s-${s.id}" data-sez="${s.id}" style="--t:${TEMA_COL[s.id]||"#8a8576"}">${ICONA(s.id)}<span>${esc(s.nome)}</span><span class="n">${n}</span></a>`).join("") +
-    `<div class="r-sep"></div><a class="r-extra" href="#rassegna">Rassegna mondiale</a><a class="r-extra" href="#quizBox">Quiz del mattino</a><a class="r-extra" href="#prefs">Le tue scelte</a>` + pilloleHTML();
-  const pm = $("#pilloleMob"); if(pm) pm.innerHTML = pilloleHTML();
+    `<div class="r-sep"></div><a class="r-extra" href="#rassegna">Rassegna mondiale</a><a class="r-extra" href="#quizBox">Quiz del mattino</a><a class="r-extra" href="#prefs">Le tue scelte</a>` + promoQuestForge() + pilloleHTML();
+  const pm = $("#pilloleMob"); if(pm) pm.innerHTML = promoQuestForge() + pilloleHTML();
   popolaSelect(voci, tot);
   aggiornaRail();
 }
@@ -1511,6 +1531,7 @@ function aggiornaRail(){
 }
 $("#rail").addEventListener("click",e=>{
   const a = e.target.closest("a"); if(!a) return;
+  if(a.target==="_blank") return;                          // link esterni (box QuestForge): si aprono normalmente
   e.preventDefault();
   const id = a.dataset.sez;
   if(id==="__tutte"){ filtroSezione = null; render(); window.scrollTo({top:0,behavior:"smooth"}); return; }
@@ -1731,7 +1752,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1541";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1545";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1918,7 +1939,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1541";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1545";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
