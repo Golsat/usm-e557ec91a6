@@ -474,7 +474,10 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .nov-dots button[aria-selected="true"]{background:var(--accent);border-color:var(--accent);transform:scale(1.25)}
 .game.chiuso .nov-slide,.game.chiuso .nov-dots{display:none}
 @keyframes novIn{from{opacity:0;transform:translateX(34px)}to{opacity:1;transform:none}}
-.mbar,.msheet,.mnext,.ticker.tk-alto{display:none}
+.mbar,.msheet,.mnext,.mnasc,.ticker.tk-alto{display:none}
+.toast-annulla{position:fixed;left:50%;bottom:52px;transform:translateX(-50%);z-index:80;display:flex;gap:14px;align-items:center;background:var(--ink);color:var(--paper);padding:10px 14px;border-radius:99px;font:600 13px var(--sans);box-shadow:0 6px 20px rgba(0,0,0,.35)}
+.toast-annulla button{background:transparent;border:1px solid currentColor;color:inherit;padding:4px 10px;border-radius:99px;font:700 12px var(--sans);cursor:pointer}
+@media(max-width:700px){.mnasc:not([hidden]){display:block;width:100%;margin:2px 0 6px;padding:9px;border:1px dashed var(--ink);background:var(--card);color:var(--ink);font:700 13px var(--sans);border-radius:8px}}
 @media(max-width:700px){
   .wrap{padding-left:12px!important;padding-right:12px!important}
   .top{display:none}
@@ -712,6 +715,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 
 <nav class="sections" id="nav"></nav>
 <div class="mbar" id="mbar"><select id="mSez" aria-label="Scegli la sezione"></select><button id="mNext" class="mnext" hidden aria-label="Scorri alla sezione successiva"></button><button id="mMenuBtn" aria-label="Menu: passaporto, strumenti e filtri">☰ Menu</button><select id="mPaese" aria-label="Scegli il Paese"></select></div>
+<button id="mNasc" class="mnasc" type="button" hidden></button>
 <div class="msheet" id="mSheet" hidden role="dialog" aria-label="Menu"><div class="msheet-h"><b>Menu</b><button id="mSheetX" aria-label="Chiudi il menu">✕ Chiudi</button></div><div id="mSheetBody"></div></div>
 
 <div class="tools">
@@ -1268,7 +1272,8 @@ document.addEventListener("click",e=>{
 /* ===== NASCONDI / RECUPERA LE NOTIZIE GIÀ LETTE ===== */
 function aggiornaNascoste(){
   const n = [...nascoste].filter(k=>k.startsWith(K+"/")).length;
-  const b = $("#mostraNasc"), r = $("#ripristinaTutte");
+  const b = $("#mostraNasc"), r = $("#ripristinaTutte"), mn = $("#mNasc");
+  if(mn){ mn.hidden = !(n || mostraNascoste); mn.textContent = mostraNascoste ? "← Torna al giornale" : "↺ "+n+(n===1?" notizia nascosta":" notizie nascoste")+" · riprendi"; }
   if(b){ b.textContent = mostraNascoste ? "← Torna al giornale" : "Nascoste ("+n+")"; b.setAttribute("aria-pressed",String(mostraNascoste)); }
   if(r) r.hidden = !(mostraNascoste && n>0);
 }
@@ -1713,7 +1718,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1506";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1513";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1900,7 +1905,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1506";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1513";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -2050,6 +2055,15 @@ $("#shWa").addEventListener("click",()=>invia("wa",testoEdizione()));
 $("#shMail").addEventListener("click",()=>invia("mail",testoEdizione(),"Uno sguardo sul mondo — "+dataLunga));
 $("#shPdf").addEventListener("click",()=>window.print());
 
+/* avviso in basso con «Annulla» (per riprendere subito una notizia appena nascosta) */
+function avvisoAnnulla(testo, annulla){
+  document.querySelectorAll(".toast-annulla").forEach(x=>x.remove());
+  const t = document.createElement("div"); t.className = "toast-annulla"; t.setAttribute("role","status");
+  t.innerHTML = `<span>${esc(testo)}</span><button type="button">↺ Annulla</button>`;
+  t.querySelector("button").onclick = ()=>{ annulla(); t.remove(); };
+  document.body.appendChild(t); setTimeout(()=>t.remove(), 7000);
+}
+$("#mNasc").addEventListener("click",()=>$("#mostraNasc").click());
 $("#main").addEventListener("click",e=>{
   const card = e.target.closest(".card"); if(!card) return;
   const sh = e.target.closest(".sh");
@@ -2060,8 +2074,11 @@ $("#main").addEventListener("click",e=>{
   const nb = e.target.closest(".nasc");
   if(nb){
     const k = K+"/"+card.dataset.id;
-    nascoste.has(k) ? nascoste.delete(k) : nascoste.add(k);
-    store.set("usm_nascoste",[...nascoste]); render(); return;
+    const nascondendo = !nascoste.has(k);
+    nascondendo ? nascoste.add(k) : nascoste.delete(k);
+    store.set("usm_nascoste",[...nascoste]); render();
+    if(nascondendo) avvisoAnnulla("Notizia nascosta", ()=>{ nascoste.delete(k); store.set("usm_nascoste",[...nascoste]); render(); });
+    return;
   }
   const star = e.target.closest(".star");
   if(star){
