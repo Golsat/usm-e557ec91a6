@@ -698,7 +698,7 @@ window.EDIZIONI["2026-10-10"] = {
   },
   {
    "id": "frb",
-   "sez": "tech",
+   "sez": "spazio",
    "titolo": "Rilevato un misterioso lampo di energia da una galassia lontanissima",
    "orig": "Astronomers detect mysterious burst of energy from a galaxy far, far away",
    "lead": "Gli astronomi hanno captato un intenso lampo di onde radio (un fast radio burst) emesso più di dieci miliardi di anni fa. Per arrivare fino a noi ha attraversato, secondo il Guardian, circa l'80% della storia cosmica.",
