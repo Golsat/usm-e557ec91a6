@@ -1562,13 +1562,21 @@ $("#sezioniTutte").addEventListener("click",e=>{
 });
 
 /* ===== LETTURA A VOCE (sintesi vocale del browser, voce italiana naturale se disponibile) ===== */
-const TTS = {coda:[], i:0, in:false, pausa:false, rate:1, voce:"" };
-try{ TTS.voce = localStorage.getItem("usm_voce")||""; TTS.rate = parseFloat(localStorage.getItem("usm_voce_vel")||"1")||1; }catch(e){}
+const TTS = {coda:[], i:0, in:false, pausa:false, rate:0.95, voce:"" };
+try{ TTS.voce = localStorage.getItem("usm_voce")||""; TTS.rate = parseFloat(localStorage.getItem("usm_voce_vel")||"0.95")||0.95; }catch(e){}
+function consiglioVoce(){          // come avere una voce naturale sul dispositivo in uso
+  const ua = navigator.userAgent;
+  if(/iPhone|iPad/.test(ua)) return "iPhone: Impostazioni → Accessibilità → Contenuto parlato → Voci → Italiano: scarica una voce «Avanzata» o «Premium» (per esempio Alice o Luca), poi sceglila qui.";
+  if(/Android/.test(ua)) return "Android: Impostazioni → Sistema → Lingue → Sintesi vocale → Motore Google → Installa dati vocali → Italiano, e scegli una voce «di rete» o di qualità alta; poi sceglila qui.";
+  return "Computer: in Edge scegli una voce «Microsoft Elsa/Isabella/Diego Online (Natural)»; in Chrome una voce «Google italiano». Sono molto meno metalliche di quelle di base.";
+}
 const haVoce = ()=>("speechSynthesis" in window) && typeof SpeechSynthesisUtterance!=="undefined";
 function vociIt(){ try{ return speechSynthesis.getVoices().filter(v=>/^it([-_]|$)/i.test(v.lang)); }catch(e){ return []; } }
 function punteggioVoce(v){
   const n = v.name.toLowerCase(); let p = 0;
   if(/natural|neural|online/.test(n)) p += 50;        // voci neurali (per esempio quelle «Natural» di Edge): le più naturali
+  if(/premium|enhanced|migliorat|wavenet|studio|siri/.test(n)) p += 45;     // voci avanzate di iPhone/Android
+  if(v.localService === false) p += 25;               // voci «di rete»: di solito neurali, molto meno metalliche di quelle del telefono
   if(/google/.test(n)) p += 30;                       // «Google italiano» in Chrome
   if(/elsa|isabella|diego|giuseppe|lucia|alice|luca/.test(n)) p += 10;
   if(/microsoft/.test(n)) p += 5;
@@ -1642,8 +1650,9 @@ function pannelloVoce(mostra){
       <span class="tts-t">${TTS.in && corrente ? "In lettura: "+esc(corrente.titolo) : (TTS.coda.length?"Lettura terminata":"Scegli voce e velocità, poi premi 🔊 su una notizia o «Leggi tutte»")}</span><button data-t="chiudi" aria-label="Chiudi">✕</button></div>
     <div class="tts-r2"><label>Voce <select id="ttsVoce">${voci.length?voci.map(x=>`<option value="${esc(x.name)}"${v&&x.name===v.name?" selected":""}>${esc(x.name)}</option>`).join(""):'<option>Nessuna voce italiana trovata</option>'}</select></label>
       <label>Velocità <input type="range" id="ttsVel" min="0.7" max="1.4" step="0.05" value="${TTS.rate}"></label>
+      <button data-t="prova">▶ Prova la voce</button>
       <button data-t="tutte">Leggi tutte le notizie in pagina</button></div>
-    ${voci.length?"":'<p class="tts-n">In Edge e Chrome per Windows le voci italiane naturali si trovano in Impostazioni → Accessibilità → Voce; in Edge sono disponibili le voci «Online (Natural)».</p>'}`;
+    <p class="tts-n">${voci.length?"Voce in uso: <b>"+esc(v?v.name:"")+"</b>. Se suona ancora metallica, provane un'altra dall'elenco. ":"Nessuna voce italiana trovata. "}${esc(consiglioVoce())}</p>`;
   p.hidden = false;
 }
 $("#ttsPanel").addEventListener("click",e=>{
@@ -1655,6 +1664,7 @@ $("#ttsPanel").addEventListener("click",e=>{
   else if(t==="succ") saltaLettura(1);
   else if(t==="pausa"){ if(TTS.pausa){ speechSynthesis.resume(); TTS.pausa=false; } else { speechSynthesis.pause(); TTS.pausa=true; } pannelloVoce(true); }
   else if(t==="tutte") leggi(NEWS.filter(visibile));
+  else if(t==="prova"){ fermaLettura(); const u = new SpeechSynthesisUtterance("Buongiorno. Questa è la voce che leggerà per te le notizie di oggi, dal mondo, senza fretta."), v = vocePreferita(); if(v){ u.voice = v; u.lang = v.lang; } else u.lang = "it-IT"; u.rate = TTS.rate; speechSynthesis.speak(u); }
 });
 $("#ttsPanel").addEventListener("change",e=>{
   if(e.target.id==="ttsVoce"){ TTS.voce = e.target.value; try{ localStorage.setItem("usm_voce",TTS.voce); }catch(x){} }
@@ -1718,7 +1728,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1513";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1525";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1905,7 +1915,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1513";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1525";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
