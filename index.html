@@ -463,7 +463,7 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
   .mbar .mnext:not([hidden]){display:block;font:800 13px var(--sans);padding:10px 11px;border:2px solid var(--ink);background:var(--card);color:var(--ink);border-radius:8px;white-space:nowrap;max-width:34%;overflow:hidden;text-overflow:ellipsis}
   #ticker{display:none}
   .ticker.tk-alto{display:flex;position:static;height:34px;margin:6px 0 4px;box-shadow:none;border-radius:6px;overflow:hidden}
-  .pilloleMob{display:none!important}
+  .pilloleMob{display:block;margin:10px 0}
   .card .lead{font-size:15.5px}
 }
 footer .aggiorna{text-align:center;margin:8px 0 0;font:12px var(--sans);color:var(--muted)}
@@ -682,7 +682,6 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <div class="chips" id="chips"><span class="lab">Sguardo di:</span></div>
 </div>
 
-<div id="pilloleMob" class="pilloleMob"></div>
 <div id="tickerTop" class="ticker tk-alto" aria-label="Notizie in scorrimento"></div>
 <div id="nazBar" class="nazbar" hidden></div>
 <main id="main"></main>
@@ -696,6 +695,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <section class="sec" id="grafico"></section>
   <section class="sec" id="video"></section>
 </div>
+<div id="pilloleMob" class="pilloleMob"></div>
 
 <section class="sec t-mondo rassegna" id="rassegna"></section>
 
@@ -1619,7 +1619,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1418";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1419";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1804,7 +1804,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1418";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1419";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
