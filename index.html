@@ -723,9 +723,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
     <button id="onlysaved" aria-pressed="false" title="Mostra solo le notizie che hai segnato da leggere">☆ Da leggere</button>
   </span>
   <button id="mappaBtn" aria-pressed="false" title="Porta la mappa in primo piano e clicca un Paese">🌍 Mappa</button>
-  <button id="ttsBtn" title="Ascolta le notizie lette da una voce italiana">🔊 Ascolta</button>
-  <button id="direttaBtn" aria-pressed="false" title="Apre sotto le pillole del giorno il box con la diretta di Sky TG24">📺 Diretta</button>
-  <details class="dd"><summary>📖 Leggi</summary><div class="dd-p">
+  <button id="ttsBtn" title="Ascolta le notizie lette da una voce italiana">🔊 Ascolta</button>  <details class="dd"><summary>📖 Leggi</summary><div class="dd-p">
     <button id="allopen">Espandi tutto</button>
     <button id="sezioniTutte" title="Riduce o espande tutte le sezioni">Riduci le sezioni</button>
     <button id="nascondiLette" title="Toglie dallo schermo le notizie che hai già aperto">Nascondi le lette</button>
@@ -760,8 +758,6 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <section class="sec" id="video"></section>
 </div>
 <div id="pilloleMob" class="pilloleMob"></div>
-<div id="direttaBox" class="dirbox" hidden></div>
-
 <section class="sec t-mondo rassegna" id="rassegna"></section>
 
 <section class="quiz" id="quizBox"><button class="riduci" aria-label="Riduci o espandi il quiz">−</button><div id="quiz"></div></section>
@@ -1442,32 +1438,7 @@ function renderRail(){
   const pm = $("#pilloleMob"); if(pm) pm.innerHTML = pilloleHTML();
   popolaSelect(voci, tot);
   aggiornaRail();
-  posizionaDiretta();
 }
-/* ===== DIRETTA: il pulsante apre un box sotto le pillole del giorno (a sinistra sul sito, sotto il grafico sul telefono) ===== */
-const SKY_CANALE_YT = "";          // identificativo del canale YouTube di Sky TG24 (inizia con UC…); se vuoto il box mostra solo il link ufficiale
-let direttaAperta = false;
-function posizionaDiretta(){
-  const box = $("#direttaBox"), rail = $("#rail"); if(!box) return;
-  if(window.matchMedia("(min-width:1100px)").matches && rail){ if(box.parentNode!==rail) rail.appendChild(box); }
-  else { const pm = $("#pilloleMob"); if(pm && box.previousElementSibling!==pm) pm.after(box); }
-  box.hidden = !direttaAperta;
-}
-function renderDiretta(){
-  const box = $("#direttaBox"); if(!box) return;
-  box.innerHTML = `<div class="dir-h"><b>📺 Sky TG24 · diretta</b><button type="button" id="dirX" aria-label="Chiudi la diretta">✕</button></div>` +
-    (SKY_CANALE_YT ? `<div class="dir-v"><iframe src="https://www.youtube.com/embed/live_stream?channel=${SKY_CANALE_YT}&autoplay=0" title="Sky TG24 in diretta" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>` : `<p class="fn">Il video non si può incorporare in questa pagina: guardalo sul sito di Sky TG24.</p>`) +
-    `<a class="dir-link" href="https://video.sky.it/diretta/tg24" target="_blank" rel="noopener">▶ Apri la diretta su Sky TG24</a>`;
-  $("#dirX").onclick = ()=>{ direttaAperta = false; $("#direttaBtn").setAttribute("aria-pressed","false"); posizionaDiretta(); box.innerHTML = ""; };
-}
-document.addEventListener("click",e=>{
-  const b = e.target.closest("#direttaBtn"); if(!b) return;
-  direttaAperta = !direttaAperta; b.setAttribute("aria-pressed",String(direttaAperta));
-  if(direttaAperta){ renderDiretta(); } else { const bx = $("#direttaBox"); if(bx) bx.innerHTML = ""; }
-  posizionaDiretta();
-  if(direttaAperta){ const bx = $("#direttaBox"); bx.scrollIntoView({behavior:"smooth",block:"nearest"}); }
-  if(MQ.matches) $("#mSheet").hidden = true;                           // sul telefono chiude il menu per far vedere il box
-});
 /* ===== VISTA APP (telefono, fino a 700 px): barra con menu a tendina delle sezioni, si parte dalla Prima pagina; box e strumenti nel menu ===== */
 const MQ = window.matchMedia("(max-width:700px)");
 function popolaSelect(voci, tot){
@@ -1742,7 +1713,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1455";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1502";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1929,7 +1900,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1455";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1502";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
