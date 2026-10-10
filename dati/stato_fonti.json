@@ -1,10 +1,10 @@
 {
- "verificato": "2026-10-10T13:04",
+ "verificato": "2026-10-10T15:00",
  "fonti": {
   "BBC News": {
    "ok": true,
    "voci": 30,
-   "ultima": "Sat, 10 Oct 2026 04:38:20 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:29:31 GMT"
   },
   "The Guardian": {
    "ok": true,
@@ -14,7 +14,7 @@
   "Financial Times": {
    "ok": true,
    "voci": 25,
-   "ultima": "Sat, 10 Oct 2026 10:58:00 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:52:56 GMT"
   },
   "The Telegraph": {
    "ok": false,
@@ -33,22 +33,22 @@
   "Rai News": {
    "ok": true,
    "voci": 41,
-   "ultima": "Sat, 10 Oct 2026 10:30:00 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:30:00 GMT"
   },
   "la Repubblica": {
    "ok": true,
    "voci": 30,
-   "ultima": "Sat, 10 Oct 2026 08:45:54 +0000"
+   "ultima": "Sat, 10 Oct 2026 11:54:56 +0000"
   },
   "Il Sole 24 Ore": {
    "ok": true,
    "voci": 12,
-   "ultima": "Sat, 10 Oct 2026 09:28:00 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:50:00 GMT"
   },
   "Le Monde": {
    "ok": true,
    "voci": 16,
-   "ultima": "Sat, 10 Oct 2026 07:00:30 +0200"
+   "ultima": "Sat, 10 Oct 2026 06:00:34 +0200"
   },
   "Le Figaro": {
    "ok": true,
@@ -58,47 +58,47 @@
   "France 24": {
    "ok": true,
    "voci": 24,
-   "ultima": "Sat, 10 Oct 2026 10:55:30 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:31:47 GMT"
   },
   "Libération": {
    "ok": true,
    "voci": 20,
-   "ultima": "Sat, 10 Oct 2026 05:31:00 +0000"
+   "ultima": "Sat, 10 Oct 2026 07:06:20 +0000"
   },
   "Deutsche Welle": {
    "ok": true,
    "voci": 139,
-   "ultima": "2026-10-10T09:38:00Z"
+   "ultima": "2026-10-10T12:02:00Z"
   },
   "Der Spiegel": {
    "ok": true,
    "voci": 30,
-   "ultima": "Sat, 10 Oct 2026 12:57:00 +0200"
+   "ultima": "Sat, 10 Oct 2026 14:49:00 +0200"
   },
   "Tagesschau": {
    "ok": true,
-   "voci": 65,
+   "voci": 67,
    "ultima": "Sat, 10 Oct 2026 12:15:19 +0200"
   },
   "Süddeutsche Zeitung": {
    "ok": true,
    "voci": 15,
-   "ultima": "Sat, 10 Oct 2026 10:57:24 GMT"
+   "ultima": "Sat, 10 Oct 2026 11:35:51 GMT"
   },
   "FAZ": {
    "ok": true,
-   "voci": 159,
-   "ultima": "Sat, 10 Oct 2026 09:24:23 GMT"
+   "voci": 161,
+   "ultima": "Sat, 10 Oct 2026 12:01:24 GMT"
   },
   "El País": {
    "ok": true,
    "voci": 144,
-   "ultima": "Sat, 10 Oct 2026 11:00:07 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:04:09 GMT"
   },
   "El Mundo": {
    "ok": true,
-   "voci": 24,
-   "ultima": "Fri, 09 Oct 2026 22:41:38 +0200"
+   "voci": 22,
+   "ultima": "Sat, 10 Oct 2026 13:00:06 +0200"
   },
   "RTVE": {
    "ok": false,
@@ -112,22 +112,22 @@
   "RTP": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 12:57:48 +0100"
+   "ultima": "Sat, 10 Oct 2026 14:45:47 +0100"
   },
   "NOS": {
    "ok": true,
    "voci": 20,
-   "ultima": "Sat, 10 Oct 2026 12:21:15 +0200"
+   "ultima": "Sat, 10 Oct 2026 14:17:48 +0200"
   },
   "NRC": {
    "ok": true,
    "voci": 174,
-   "ultima": "Sat, 10 Oct 2026 12:50:06 +0200"
+   "ultima": "Sat, 10 Oct 2026 14:27:04 +0200"
   },
   "VRT NWS": {
    "ok": true,
    "voci": 50,
-   "ultima": "2026-10-10T10:51:44.000Z"
+   "ultima": "2026-10-10T12:54:21.000Z"
   },
   "The Brussels Times": {
    "ok": false,
@@ -140,17 +140,17 @@
   "NZZ": {
    "ok": true,
    "voci": 16,
-   "ultima": "Sat, 10 Oct 2026 10:35:24 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:53:20 GMT"
   },
   "Der Standard": {
    "ok": true,
    "voci": 156,
-   "ultima": "Sat, 10 Oct 2026 07:45:17 Z"
+   "ultima": "Sat, 10 Oct 2026 12:00:00 Z"
   },
   "ORF": {
    "ok": true,
-   "voci": 24,
-   "ultima": "2026-10-10T12:25:24+02:00"
+   "voci": 26,
+   "ultima": "2026-10-10T14:37:58+02:00"
   },
   "SVT Nyheter": {
    "ok": true,
@@ -159,27 +159,28 @@
   },
   "Dagens Nyheter": {
    "ok": true,
-   "voci": 121,
-   "ultima": "Sat, 10 Oct 2026 12:58:37 +0200"
+   "voci": 120,
+   "ultima": "Sat, 10 Oct 2026 14:55:40 +0200"
   },
   "NRK": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 08:51:02 GMT"
+   "ultima": "Sat, 10 Oct 2026 11:55:41 GMT"
   },
   "DR Nyheder": {
    "ok": true,
    "voci": 20,
-   "ultima": "Sat, 10 Oct 2026 10:48:58 GMT"
+   "ultima": "Sat, 10 Oct 2026 11:11:13 GMT"
   },
   "Yle News": {
-   "ok": false,
-   "errore": "nessuna voce"
+   "ok": true,
+   "voci": 20,
+   "ultima": "Fri, 17 Feb 2023 12:23:31 +0200"
   },
   "RÚV": {
    "ok": true,
    "voci": 39,
-   "ultima": "Sat, 10 Oct 2026 10:49:07 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:27:32 +0000"
   },
   "RTÉ News": {
    "ok": true,
@@ -193,7 +194,7 @@
   "TVN24": {
    "ok": true,
    "voci": 24,
-   "ultima": "Sat, 10 Oct 2026 10:56:44 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:49:22 GMT"
   },
   "Polskie Radio": {
    "ok": false,
@@ -201,7 +202,7 @@
   },
   "Radio Prague International": {
    "ok": false,
-   "errore": "HTTP Error 403: Forbidden"
+   "errore": "HTTP Error 404: Not Found"
   },
   "Novinite": {
    "ok": false,
@@ -210,7 +211,7 @@
   "N1 Serbia": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 12:51:04 +0200"
+   "ultima": "Sat, 10 Oct 2026 14:51:04 +0200"
   },
   "Kathimerini": {
    "ok": false,
@@ -222,8 +223,8 @@
   },
   "TASS": {
    "ok": true,
-   "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 14:02:56 +0300"
+   "voci": 84,
+   "ultima": "Sat, 10 Oct 2026 15:40:40 +0300"
   },
   "Meduza": {
    "ok": true,
@@ -233,17 +234,17 @@
   "Moscow Times": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 12:45:05 +0300"
+   "ultima": "Sat, 10 Oct 2026 14:26:07 +0300"
   },
   "The Kyiv Independent": {
    "ok": true,
    "voci": 15,
-   "ultima": "Sat, 10 Oct 2026 09:37:34 GMT"
+   "ultima": "Sat, 10 Oct 2026 11:22:55 GMT"
   },
   "Ukrinform": {
    "ok": true,
    "voci": 30,
-   "ultima": "Sat, 10 Oct 2026 13:51:00 +0300"
+   "ultima": "Sat, 10 Oct 2026 15:18:00 +0300"
   },
   "LRT": {
    "ok": false,
@@ -252,7 +253,7 @@
   "ERR News": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 13:17:00 +0300"
+   "ultima": "Sat, 10 Oct 2026 15:30:00 +0300"
   },
   "LSM": {
    "ok": true,
@@ -266,7 +267,7 @@
   "The New York Times": {
    "ok": true,
    "voci": 59,
-   "ultima": "Sat, 10 Oct 2026 07:17:04 +0000"
+   "ultima": "Sat, 10 Oct 2026 11:07:00 +0000"
   },
   "The Wall Street Journal": {
    "ok": true,
@@ -291,7 +292,7 @@
   "NPR": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 07:00:00 -0400"
+   "ultima": "Sat, 10 Oct 2026 08:00:00 -0400"
   },
   "PBS NewsHour": {
    "ok": true,
@@ -301,12 +302,12 @@
   "CBC News": {
    "ok": true,
    "voci": 20,
-   "ultima": "Fri, 09 Oct 2026 22:39:26 EDT"
+   "ultima": "Sat, 10 Oct 2026 08:28:14 EDT"
   },
   "The Globe and Mail": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 09:00:00 +0000"
+   "ultima": "Sat, 10 Oct 2026 11:44:00 +0000"
   },
   "Le Devoir": {
    "ok": false,
@@ -324,27 +325,27 @@
   "Folha de S.Paulo": {
    "ok": true,
    "voci": 100,
-   "ultima": "10 Oct 2026 08:00:00 -0300"
+   "ultima": "10 Oct 2026 09:11:00 -0300"
   },
   "G1": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 10:47:24 -0000"
+   "ultima": "Sat, 10 Oct 2026 12:50:05 -0000"
   },
   "Agência Brasil": {
    "ok": true,
    "voci": 10,
-   "ultima": "Fri, 09 Oct 2026 21:36:00 -0300"
+   "ultima": "Sat, 10 Oct 2026 08:32:00 -0300"
   },
   "Clarín": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 10:25:03 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:30:07 +0000"
   },
   "La Nación": {
    "ok": true,
-   "voci": 93,
-   "ultima": "Sat, 10 Oct 2026 11:00:49 +0000"
+   "voci": 91,
+   "ultima": "Sat, 10 Oct 2026 12:51:42 +0000"
   },
   "Página/12": {
    "ok": false,
@@ -353,7 +354,7 @@
   "La Tercera": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 10:13:55 +0000"
+   "ultima": "Sat, 10 Oct 2026 09:00:01 +0000"
   },
   "El Tiempo": {
    "ok": true,
@@ -363,7 +364,7 @@
   "El Comercio": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 11:00:01 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:57:29 +0000"
   },
   "El Observador": {
    "ok": true,
@@ -373,12 +374,12 @@
   "El Nacional": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 06:00:00 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:47:56 +0000"
   },
   "14ymedio": {
    "ok": true,
-   "voci": 151,
-   "ultima": "Fri, 09 Oct 2026 17:14:07 +0000"
+   "voci": 155,
+   "ultima": "Sat, 10 Oct 2026 11:18:21 +0000"
   },
   "El Deber": {
    "ok": false,
@@ -391,7 +392,7 @@
   "La Nación CR": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 10:30:00 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:36:16 +0000"
   },
   "Mail & Guardian": {
    "ok": false,
@@ -404,12 +405,12 @@
   "Premium Times": {
    "ok": true,
    "voci": 15,
-   "ultima": "Sat, 10 Oct 2026 10:40:36 +0000"
+   "ultima": "Sat, 10 Oct 2026 11:08:59 +0000"
   },
   "The Punch": {
    "ok": true,
    "voci": 30,
-   "ultima": "Sat, 10 Oct 2026 11:49:51 +0000"
+   "ultima": "Sat, 10 Oct 2026 13:28:02 +0000"
   },
   "Daily Nation": {
    "ok": false,
@@ -418,7 +419,7 @@
   "The EastAfrican": {
    "ok": true,
    "voci": 40,
-   "ultima": "Sat, 10 Oct 2026 06:00:00 +0000"
+   "ultima": "Sat, 10 Oct 2026 09:00:00 +0000"
   },
   "Ahram Online": {
    "ok": false,
@@ -427,7 +428,7 @@
   "Egypt Independent": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 10:47:04 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:47:08 +0000"
   },
   "Morocco World News": {
    "ok": false,
@@ -482,7 +483,7 @@
   "Radio Okapi": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 10:25:12 +0100"
+   "ultima": "Sat, 10 Oct 2026 12:45:14 +0100"
   },
   "Sudan Tribune": {
    "ok": false,
@@ -510,7 +511,7 @@
   "South China Morning Post": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 11:02:16 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:25:26 +0000"
   },
   "NHK World": {
    "ok": true,
@@ -529,7 +530,7 @@
   "Yonhap": {
    "ok": true,
    "voci": 101,
-   "ultima": "Sat, 10 Oct 2026 16:10:56 +0900"
+   "ultima": "Sat, 10 Oct 2026 21:39:26 +0900"
   },
   "The Korea Herald": {
    "ok": false,
@@ -543,17 +544,17 @@
   "The Hindu": {
    "ok": true,
    "voci": 60,
-   "ultima": "Sat, 10 Oct 2026 16:24:46 +0530"
+   "ultima": "Sat, 10 Oct 2026 18:23:22 +0530"
   },
   "Times of India": {
    "ok": true,
-   "voci": 48,
-   "ultima": "Sat, 10 Oct 2026 14:55:15 +0530"
+   "voci": 46,
+   "ultima": "Sat, 10 Oct 2026 17:36:57 +0530"
   },
   "The Indian Express": {
    "ok": true,
    "voci": 200,
-   "ultima": "Sat, 10 Oct 2026 10:58:25 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:42:14 +0000"
   },
   "NDTV": {
    "ok": false,
@@ -561,12 +562,12 @@
   },
   "Dawn": {
    "ok": true,
-   "voci": 24,
-   "ultima": "Sat, 10 Oct 2026 16:01:11 +0500"
+   "voci": 23,
+   "ultima": "Sat, 10 Oct 2026 17:36:11 +0500"
   },
   "The Express Tribune": {
    "ok": true,
-   "voci": 73,
+   "voci": 74,
    "ultima": "Sat, 10 Oct 26 06:55:31 +0500"
   },
   "The Daily Star": {
@@ -604,22 +605,21 @@
   "Rappler": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 18:25:39 +0800"
+   "ultima": "Sat, 10 Oct 2026 19:17:25 +0800"
   },
   "VnExpress": {
-   "ok": true,
-   "voci": 60,
-   "ultima": "Sat, 10 Oct 2026 16:30:00 +0700"
+   "ok": false,
+   "errore": "<urlopen error timed out>"
   },
   "Bangkok Post": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 14:30:00 +0700"
+   "ultima": "Sat, 10 Oct 2026 17:44:00 +0700"
   },
   "The Straits Times": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 18:59:53 +0800"
+   "ultima": "Sat, 10 Oct 2026 20:54:56 +0800"
   },
   "CNA": {
    "ok": true,
@@ -646,16 +646,16 @@
   "The Astana Times": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 10:38:31 +0000"
+   "ultima": "Sat, 10 Oct 2026 11:38:49 +0000"
   },
   "Mongolia Weekly": {
    "ok": false,
-   "errore": "The read operation timed out"
+   "errore": "HTTP Error 404: Not Found"
   },
   "Al Jazeera": {
    "ok": true,
    "voci": 25,
-   "ultima": "Sat, 10 Oct 2026 10:22:56 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:50:34 +0000"
   },
   "The Times of Israel": {
    "ok": false,
@@ -664,7 +664,7 @@
   "Haaretz": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 13:41:07 +0300"
+   "ultima": "Sat, 10 Oct 2026 15:35:09 +0300"
   },
   "The Jerusalem Post": {
    "ok": false,
@@ -723,7 +723,7 @@
   "Middle East Eye": {
    "ok": true,
    "voci": 20,
-   "ultima": "Sat, 10 Oct 2026 11:31:48 +0100"
+   "ultima": "Sat, 10 Oct 2026 13:55:35 +0100"
   },
   "ABC News Australia": {
    "ok": true,
@@ -733,7 +733,7 @@
   "Sydney Morning Herald": {
    "ok": true,
    "voci": 20,
-   "ultima": "Sat, 10 Oct 2026 21:51:57 +1100"
+   "ultima": "Sat, 10 Oct 2026 23:59:00 +1100"
   },
   "RNZ": {
    "ok": true,
@@ -773,7 +773,7 @@
   "ArchDaily": {
    "ok": true,
    "voci": 24,
-   "ultima": "Sat, 10 Oct 2026 02:00:00 +0000"
+   "ultima": "Sat, 10 Oct 2026 07:30:00 +0000"
   },
   "Designboom": {
    "ok": true,
@@ -781,8 +781,9 @@
    "ultima": "Sat, 10 Oct 2026 08:49:48 +0000"
   },
   "The Architects' Journal": {
-   "ok": false,
-   "errore": "HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "voci": 10,
+   "ultima": "Fri, 09 Oct 2026 10:39:47 +0000"
   },
   "New Civil Engineer": {
    "ok": true,
@@ -832,12 +833,12 @@
   "Wallpaper*": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 08:14:02 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:19:01 +0000"
   },
   "Railway Gazette International": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 08:54:19 +0000"
+   "ultima": "Sat, 10 Oct 2026 11:52:57 +0000"
   },
   "Tunnels and Tunnelling": {
    "ok": true,
@@ -927,12 +928,12 @@
   "Orizzonte Scuola": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 10:33:27 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:50:55 +0000"
   },
   "Focus": {
    "ok": true,
    "voci": 30,
-   "ultima": "Sat, 10 Oct 2026 08:00:00 +0200"
+   "ultima": "Sat, 10 Oct 2026 12:00:00 +0200"
   },
   "MIT Technology Review": {
    "ok": true,
@@ -940,9 +941,8 @@
    "ultima": "Fri, 09 Oct 2026 12:10:00 +0000"
   },
   "Nature": {
-   "ok": true,
-   "voci": 75,
-   "ultima": "2026-10-09"
+   "ok": false,
+   "errore": "not well-formed (invalid token): line 14, column 4"
   },
   "BBC Newsround": {
    "ok": true,
@@ -987,7 +987,7 @@
   "Billboard": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 08:25:05 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:45:12 +0000"
   },
   "NME": {
    "ok": true,
@@ -997,7 +997,7 @@
   "OndaRock": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 09:06:46 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:30:20 +0000"
   },
   "Notes from Poland": {
    "ok": true,
@@ -1011,8 +1011,8 @@
   },
   "La Nación (Argentina)": {
    "ok": true,
-   "voci": 93,
-   "ultima": "Sat, 10 Oct 2026 11:00:49 +0000"
+   "voci": 91,
+   "ultima": "Sat, 10 Oct 2026 12:51:42 +0000"
   },
   "Daily Maverick": {
    "ok": true,
@@ -1022,32 +1022,32 @@
   "The Standard (Kenya)": {
    "ok": true,
    "voci": 30,
-   "ultima": "Sat, 10 Oct 2026 13:10:00 +0300"
+   "ultima": "Sat, 10 Oct 2026 14:37:46 +0300"
   },
   "Hespress English": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 10:19:03 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:20:30 +0000"
   },
   "Yonhap News": {
    "ok": true,
    "voci": 101,
-   "ultima": "Sat, 10 Oct 2026 16:10:56 +0900"
+   "ultima": "Sat, 10 Oct 2026 21:39:26 +0900"
   },
   "The Times of India": {
    "ok": true,
-   "voci": 48,
-   "ultima": "Sat, 10 Oct 2026 14:55:15 +0530"
+   "voci": 46,
+   "ultima": "Sat, 10 Oct 2026 17:36:57 +0530"
   },
   "Antara News": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 17:59:19 +0700"
+   "ultima": "Sat, 10 Oct 2026 19:46:34 +0700"
   },
   "Malay Mail": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 18:42:45 +0800"
+   "ultima": "Sat, 10 Oct 2026 20:59:41 +0800"
   },
   "The Slovak Spectator": {
    "ok": true,
@@ -1057,22 +1057,22 @@
   "Civil.ge": {
    "ok": true,
    "voci": 10,
-   "ultima": "Fri, 09 Oct 2026 16:09:43 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:44:30 +0000"
   },
   "Cyprus Mail": {
    "ok": true,
    "voci": 20,
-   "ultima": "Sat, 10 Oct 2026 13:54:50 +0300"
+   "ultima": "Sat, 10 Oct 2026 16:00:00 +0300"
   },
   "El Universo": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 10:00:00 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:55:12 +0000"
   },
   "ABC Color": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 10:55:05 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:55:18 +0000"
   },
   "Diario Libre": {
    "ok": true,
@@ -1081,7 +1081,7 @@
   },
   "Jamaica Observer": {
    "ok": false,
-   "errore": "not well-formed (invalid token): line 1113, column 379"
+   "errore": "not well-formed (invalid token): line 1199, column 379"
   },
   "The Times of Central Asia": {
    "ok": true,
@@ -1096,12 +1096,12 @@
   "The Namibian": {
    "ok": true,
    "voci": 12,
-   "ultima": "Sat, 10 Oct 2026 08:45:12 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:22:39 +0000"
   },
   "Lusaka Times": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 08:34:31 +0000"
+   "ultima": "Sat, 10 Oct 2026 12:09:27 +0000"
   },
   "NewZimbabwe": {
    "ok": false,
@@ -1124,8 +1124,8 @@
   },
   "Lefaso.net": {
    "ok": true,
-   "voci": 95,
-   "ultima": "2026-10-10T10:33:09Z"
+   "voci": 98,
+   "ultima": "2026-10-10T11:14:26Z"
   },
   "Dabanga": {
    "ok": true,
@@ -1139,7 +1139,7 @@
   "The Moscow Times": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 12:45:05 +0300"
+   "ultima": "Sat, 10 Oct 2026 14:26:07 +0300"
   },
   "Meduza (inglese)": {
    "ok": true,
@@ -1149,16 +1149,17 @@
   "Luxembourg Times": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 10:30:00 GMT"
+   "ultima": "Sat, 10 Oct 2026 12:00:00 GMT"
   },
   "VnExpress International": {
-   "ok": false,
-   "errore": "<urlopen error timed out>"
+   "ok": true,
+   "voci": 60,
+   "ultima": "Sat, 10 Oct 2026 16:30:00 +0700"
   },
   "Stuff NZ": {
    "ok": true,
-   "voci": 81,
-   "ultima": "2026-10-10T10:35:17Z"
+   "voci": 83,
+   "ultima": "2026-10-10T11:50:01Z"
   }
  }
 }
