@@ -475,6 +475,14 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .tools .chips,#chips{display:none!important}          /* sostituita dalla tendina dei Paesi */
 .dpaese{display:inline-flex;align-items:center;gap:4px;font:600 12px var(--sans)}
 .dpaese select{font:600 12px var(--sans);padding:7px 8px;border:1px solid var(--ink);background:var(--card);color:var(--ink)}
+.card{position:relative}
+.xp{font:700 11px var(--sans);color:var(--muted);border:1px dashed var(--hair);border-radius:99px;padding:0 7px;white-space:nowrap}
+.xp.on{color:#fff;background:#2a8f5a;border:1px solid #2a8f5a}
+.xp-pop{position:absolute;right:14px;bottom:12px;z-index:5;pointer-events:none;font:900 22px var(--sans);color:#e0a800;text-shadow:0 1px 0 #7a5600,0 0 10px rgba(224,168,0,.6);animation:xpSu 2.1s ease-out forwards}
+@keyframes xpSu{0%{opacity:0;transform:translateY(8px) scale(.8)}15%{opacity:1;transform:translateY(0) scale(1.15)}100%{opacity:0;transform:translateY(-46px) scale(1)}}
+.toast-xp{position:fixed;left:50%;bottom:58px;transform:translateX(-50%);z-index:85;display:flex;gap:10px;align-items:baseline;background:#1f3a2c;color:#f3f0dc;padding:9px 16px;border-radius:99px;font:600 12.5px var(--sans);box-shadow:0 6px 20px rgba(0,0,0,.35)}
+.toast-xp b{font:900 17px var(--display);color:#ffd34d}
+@media print{.xp,.xp-pop,.toast-xp{display:none!important}}
 .card.sera{position:relative}
 .sera-corner{position:absolute;top:-10px;right:10px;z-index:3;font:800 10.5px var(--sans);letter-spacing:.08em;text-transform:uppercase;padding:3px 9px;border-radius:99px;background:#2b2f52;color:#f4efcf;border:1px solid #8b90c8;box-shadow:0 2px 6px rgba(0,0,0,.3)}
 @media print{.sera-corner{border-color:#000;color:#000;background:#fff}}
@@ -980,7 +988,7 @@ function cardHTML(n){
     <p class="lead">${glossa(esc(n.lead))}</p>
     <div class="more">${(CONTESTI[n.id]||CRONO[n.id])?`<div class="contesto"><b>Finora · cosa è successo nei giorni scorsi</b>${CONTESTI[n.id]?`<p>${glossa(esc(CONTESTI[n.id]))}</p>`:""}${CRONO[n.id]?`<ol class="crono">${CRONO[n.id].map(([d,t])=>`<li><b>${esc(d)}</b> ${glossa(esc(t))}</li>`).join("")}</ol>`:""}</div>`:""}${n.more.map(m=>`<p>${glossa(esc(m))}</p>`).join("")}${prisma}${filoDi(n)}${SGUARDI[n.id]?`<p class="sguardo"><b>${multi?"Il commento · uno sguardo d'insieme":"Il commento · lo sguardo di "+esc(f0.c)}</b><br><i>${esc(SGUARDI[n.id])}</i></p>`:""}</div>
     <div class="foot">Titolo originale: <i>${esc(n.orig)}</i><div class="acts">${acts}</div><div class="acts no-print"><span>Condividi:</span> <button class="btn sh" data-w="wa">WhatsApp</button> <button class="btn sh" data-w="mail">E-mail</button> <button class="btn sh" data-w="copy">Copia</button></div>Fonte: ${esc(f0.n)}, ${esc(f0.c)} (${esc(nPaese)}) · ${esc(n.data)}</div>
-    <div class="row"><span class="meta">${esc(n.data)} · <span class="tg">Apri ▾</span></span><span class="ctl"><button class="ascolta" aria-label="Ascolta questa notizia" title="Ascolta questa notizia">🔊</button><button class="nasc" aria-label="${nascoste.has(kn(n))?"Ripristina questa notizia":"Nascondi questa notizia"}" title="${nascoste.has(kn(n))?"Ripristina":"Nascondi (puoi recuperarla da «Nascoste»)"}">${nascoste.has(kn(n))?"↺ Ripristina":"✕ Nascondi"}</button><button class="star" aria-pressed="${salvati.has(n.id)}" aria-label="Da leggere" title="Da leggere">★</button></span></div>
+    <div class="row"><span class="meta">${esc(n.data)} · <span class="xp${game.aperti.includes(n.id)?" on":""}" title="Leggila con calma (resta aperta ${SECONDI_LETTURA} secondi) per guadagnare 10 XP">${game.aperti.includes(n.id)?"✓ +10 XP":"+10 XP"}</span> · <span class="tg">Apri ▾</span></span><span class="ctl"><button class="ascolta" aria-label="Ascolta questa notizia" title="Ascolta questa notizia">🔊</button><button class="nasc" aria-label="${nascoste.has(kn(n))?"Ripristina questa notizia":"Nascondi questa notizia"}" title="${nascoste.has(kn(n))?"Ripristina":"Nascondi (puoi recuperarla da «Nascoste»)"}">${nascoste.has(kn(n))?"↺ Ripristina":"✕ Nascondi"}</button><button class="star" aria-pressed="${salvati.has(n.id)}" aria-label="Da leggere" title="Da leggere">★</button></span></div>
   </article>`;
 }
 
@@ -1821,7 +1829,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2105";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2106";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1953,12 +1961,27 @@ let nota = "";
 function award(id){
   if(game.aperti.includes(id)) return;
   const n = NEWS.find(x=>x.id===id); if(!n) return;
+  const puntiPrima = game.punti;
   game.aperti.push(id); game.punti += 10; nota = "+10 punti";
   game.sez = game.sez || {}; game.sez[n.sez] = (game.sez[n.sez]||0) + 1;
   const p = n.fonti[0].p;
   if(!game.timbri.includes(p)){ game.timbri.push(p); nota += " · nuovo timbro sul passaporto: "+(PAESI[p]?PAESI[p].nome:p); }
   if(!game.giorni.includes(EDIZIONE)) game.giorni.push(EDIZIONE);
   controllaTraguardi(); saveGame(); renderGame();
+  popXP(id, game.punti - puntiPrima, nota);
+}
+/* mostra quanti XP si guadagnano: un «+10 XP» che sale dalla notizia appena letta e un avviso con il dettaglio (timbro, traguardi) */
+function popXP(id, xp, dettaglio){
+  const card = document.querySelector('.card[data-id="'+id+'"]');
+  if(card){
+    const chip = card.querySelector(".xp"); if(chip){ chip.classList.add("on"); chip.textContent = "✓ +10 XP"; }
+    const p = document.createElement("span"); p.className = "xp-pop"; p.textContent = "+" + xp + " XP"; p.setAttribute("aria-hidden","true");
+    card.appendChild(p); setTimeout(()=>p.remove(), 2200);
+  }
+  document.querySelectorAll(".toast-xp").forEach(x=>x.remove());
+  const t = document.createElement("div"); t.className = "toast-xp"; t.setAttribute("role","status");
+  t.innerHTML = `<b>+${xp} XP</b><span>${esc(dettaglio||"")} · totale ${game.punti} XP</span>`;
+  document.body.appendChild(t); setTimeout(()=>t.remove(), 4200);
 }
 function controllaTraguardi(){
   TRAGUARDI.forEach(t=>{ if(!game.badge.includes(t.id) && t.test(game)){ game.badge.push(t.id); game.punti += 25; nota = "Traguardo: "+t.nome+" (+25)"; } });
@@ -2010,7 +2033,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2105";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-2106";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -2096,7 +2119,7 @@ function renderGame(){
     <div class="g-top">
       <div><span class="g-lab">Il tuo passaporto</span><br><span class="g-medal" style="--m:${BADGE_GRADO[L][1]}" title="Grado ${L+1} di ${LIVELLI.length}" aria-hidden="true">${BADGE_GRADO[L][0]}</span><b class="g-lv">${LIVELLI[L][1]}</b> · ${game.punti} punti${prossimo?` · prossimo grado: ${prossimo[1]} a ${prossimo[0]}`:" · grado massimo"}</div>
       <div class="g-prog" role="progressbar" aria-valuenow="${perc}" aria-valuemin="0" aria-valuemax="100"><i style="width:${perc}%"></i></div>
-      <div class="g-meta">${oggiLetti} articoli letti oggi · ${game.giorni.length} edizioni lette</div>
+      <div class="g-meta">${oggiLetti} articoli letti oggi (+${oggiLetti*10} XP) · ${game.giorni.length} edizioni lette</div>
     </div>
     <div class="g-row"><span class="g-lab">Sguardi raccolti</span>${timbri}</div>
     <div class="g-row"><span class="g-lab">Traguardi ${game.badge.length}/${TRAGUARDI.length}</span>${badge}</div>
