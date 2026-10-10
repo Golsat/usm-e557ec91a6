@@ -1,6 +1,6 @@
 /* Service worker: l'edizione si legge anche senza rete.
    Strategia: rete prima (per avere sempre l'edizione più recente), copia in cache come ripiego. */
-const CACHE = "sguardo-20261010-1425";
+const CACHE = "sguardo-20261010-1432";
 const BASE = ["./", "./index.html", "./manifest.webmanifest", "./mappa.js", "./edizioni/indice.js",
               "./app/icona-192.png", "./app/icona-512.png"];
 
