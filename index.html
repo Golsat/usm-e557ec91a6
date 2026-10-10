@@ -2,7 +2,7 @@
 <html lang="it">
 <head>
 <meta name="robots" content="noindex,nofollow,noarchive">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://flagcdn.com https://i.ytimg.com; frame-src https://embed.windy.com https://www.youtube.com https://www.youtube-nocookie.com; connect-src 'self' https://api.open-meteo.com https://api.bigdatacloud.net; base-uri 'self'; form-action 'none'; object-src 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://flagcdn.com https://i.ytimg.com; frame-src https://embed.windy.com https://www.youtube.com https://www.youtube-nocookie.com; connect-src 'self' https://api.open-meteo.com https://api.bigdatacloud.net https://abacus.jasoncameron.dev; base-uri 'self'; form-action 'none'; object-src 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -780,7 +780,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 
 <footer>
   <p>I testi nei riquadri sono sintesi redazionali scritte per questa edizione a partire dai titoli e dagli occhielli pubblicati dalle testate; i fatti sono i loro. L'articolo completo si legge sul sito della fonte (pulsanti «Originale» e «Leggi tradotto»). Edizione di uso privato. <b>Sono escluse le notizie di cronaca nera</b> (omicidi, violenze, reati sessuali, incidenti mortali): quelle che le testate pubblicano non compaiono né nelle schede né nei titoli per Paese.</p>
-  <p class="legale">Progetto privato, senza scopo di lucro e non affiliato alle testate citate. I titoli, i marchi e gli articoli appartengono ai rispettivi proprietari; qui si trovano titoli tradotti, brevi sintesi redazionali e il link alla fonte. Se una testata o un autore desidera la rimozione dei propri contenuti, basta segnalarlo e verranno tolti.</p>
+  <p class="legale">Progetto privato, senza scopo di lucro e non affiliato alle testate citate. I titoli, i marchi e gli articoli appartengono ai rispettivi proprietari; qui si trovano titoli tradotti, brevi sintesi redazionali e il link alla fonte. Se una testata o un autore desidera la rimozione dei propri contenuti, basta segnalarlo e verranno tolti. Il sito conta in modo anonimo le visite e le installazioni dell'app: nessun dato personale, solo numeri.</p>
   <p class="versione" id="versione"></p>
   <p class="aggiorna"><button id="aggiorna" type="button">⟳ Cerca aggiornamento</button> <span id="aggiornaEsito" role="status" aria-live="polite"></span></p>
 </footer>
@@ -1713,7 +1713,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1502";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1506";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1900,7 +1900,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1502";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1506";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -1910,6 +1910,22 @@ document.addEventListener("click",e=>{
   const dentro = e.target.closest("details.dd");
   document.querySelectorAll("details.dd[open]").forEach(d=>{ if(d!==dentro || (e.target.closest(".dd-p button") && !MQ.matches)) d.open = false; });
 });
+/* conteggio anonimo di visite e installazioni (solo sul sito pubblicato, mai in locale): nessun dato personale, solo numeri */
+(function(){
+  if(!/github\.io$/.test(location.hostname)) return;
+  const NS = "usm-e557ec91a6", API = "https://abacus.jasoncameron.dev/hit/" + NS + "/";
+  const conta = chiave => { try{ fetch(API + chiave, {keepalive:true}).catch(()=>{}); }catch(e){} };
+  const oggi = new Date().toISOString().slice(0,10);
+  try{
+    if(!sessionStorage.getItem("usm_contata")){
+      sessionStorage.setItem("usm_contata","1");
+      conta("visite"); conta("visite-" + oggi);
+      if(!localStorage.getItem("usm_visitatore")){ localStorage.setItem("usm_visitatore","1"); conta("visitatori-nuovi"); }
+      if(window.matchMedia("(display-mode: standalone)").matches || navigator.standalone) conta("aperture-app");
+    }
+  }catch(e){}
+  window.addEventListener("appinstalled", ()=>conta("installazioni"));
+})();
 /* pulsante «Cerca aggiornamento»: confronta la versione in uso con quella online; se è cambiata svuota la copia salvata e ricarica */
 $("#aggiorna").addEventListener("click", async ()=>{
   const out = $("#aggiornaEsito"); out.textContent = "Controllo…";
