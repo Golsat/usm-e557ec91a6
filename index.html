@@ -1829,7 +1829,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2109";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2110";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2033,7 +2033,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2109";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-2110";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
