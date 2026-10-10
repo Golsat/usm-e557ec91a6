@@ -454,6 +454,7 @@ details.dd .dd-p{position:absolute;z-index:50;top:100%;left:0;min-width:200px;ma
 details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .card.open .tg{display:inline-block;background:#c8352b;color:#fff;font-weight:800;padding:5px 14px;border-radius:99px;font-size:12.5px;letter-spacing:.02em;cursor:pointer}
 .card.open .tg:hover{background:#a82820}
+.g-medal{display:inline-grid;place-items:center;width:30px;height:30px;margin-right:7px;border-radius:50%;font-size:16px;vertical-align:-6px;background:color-mix(in srgb,var(--m) 22%,var(--card));border:2px solid var(--m);box-shadow:0 0 0 3px color-mix(in srgb,var(--m) 18%,transparent)}
 .promo-qf{margin:12px 0 4px;padding:10px 11px;border:1px solid var(--hair);border-left:5px solid #7a5ad8;background:color-mix(in srgb,#7a5ad8 10%,var(--card));font:12.5px/1.4 var(--sans)}
 .promo-qf b{font:900 15px var(--display);display:block;margin:2px 0 4px}
 .promo-qf p{margin:0 0 8px;color:var(--ink)}
@@ -1752,7 +1753,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1545";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1546";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1838,6 +1839,7 @@ $("#prefs").addEventListener("click",e=>{
 
 /* ===== GAMIFICATION: il passaporto del lettore ===== */
 const LIVELLI = [[0,"Lettore"],[100,"Cronista"],[250,"Inviato"],[500,"Corrispondente"],[900,"Direttore"],[1500,"Caporedattore"],[2500,"Editore"]];
+const BADGE_GRADO = [["📖","#8a8576"],["✍️","#4f7fc0"],["🧭","#2a9db5"],["🌍","#4a9a68"],["🏛️","#c9a227"],["⭐","#e0804a"],["👑","#a86bb0"]];   // medaglia di ogni grado, accanto alla qualifica
 const nSez = (g,s)=>(g.sez&&g.sez[s])||0;
 function serieGiorni(g){                      // giorni consecutivi di lettura, contando indietro dall'ultimo
   const d = [...new Set(g.giorni.map(x=>x.slice(0,10)))].sort(); if(!d.length) return 0;
@@ -1939,7 +1941,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1545";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1546";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -2023,7 +2025,7 @@ function renderGame(){
   const oggiLetti = NEWS.filter(n=>game.aperti.includes(n.id)).length;
   $("#game").innerHTML = `
     <div class="g-top">
-      <div><span class="g-lab">Il tuo passaporto</span><br><b class="g-lv">${LIVELLI[L][1]}</b> · ${game.punti} punti${prossimo?` · prossimo grado: ${prossimo[1]} a ${prossimo[0]}`:" · grado massimo"}</div>
+      <div><span class="g-lab">Il tuo passaporto</span><br><span class="g-medal" style="--m:${BADGE_GRADO[L][1]}" title="Grado ${L+1} di ${LIVELLI.length}" aria-hidden="true">${BADGE_GRADO[L][0]}</span><b class="g-lv">${LIVELLI[L][1]}</b> · ${game.punti} punti${prossimo?` · prossimo grado: ${prossimo[1]} a ${prossimo[0]}`:" · grado massimo"}</div>
       <div class="g-prog" role="progressbar" aria-valuenow="${perc}" aria-valuemin="0" aria-valuemax="100"><i style="width:${perc}%"></i></div>
       <div class="g-meta">${oggiLetti} articoli letti oggi · ${game.giorni.length} edizioni lette</div>
     </div>
