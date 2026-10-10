@@ -676,6 +676,20 @@ section.sec.t-ingegneria,nav.sections a.t-ingegneria{--t:#b08a4a}
 section.sec.t-organizzazioni,nav.sections a.t-organizzazioni{--t:#7a86b8}
 section.sec.t-cucina,nav.sections a.t-cucina{--t:#c9a227}
 section.sec.t-musica,nav.sections a.t-musica{--t:#8b6fd1}
+section.sec.t-eventi,nav.sections a.t-eventi{--t:#d9822b}
+.ev-box{padding:10px 12px;border:1px solid var(--hair);border-top:0;background:color-mix(in srgb,var(--t) 7%,color-mix(in srgb,var(--card) 80%,transparent))}
+.ev-chips{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:8px}
+.ev-chip{font:700 11.5px var(--sans);padding:3px 10px;border-radius:99px;border:1px solid var(--t);background:var(--card);color:var(--ink);cursor:pointer}
+.ev-chip[aria-pressed="true"]{background:color-mix(in srgb,var(--t) 45%,var(--card));box-shadow:0 0 0 2px var(--t)}
+.ev-g-h{font:800 13.5px var(--sans);text-transform:capitalize;margin:12px 0 4px;padding-bottom:2px;border-bottom:2px solid var(--t)}
+.ev-g-h small{font:600 11px var(--sans);color:var(--muted);text-transform:none;margin-left:6px}
+.ev-l{list-style:none;margin:0;padding:0}
+.ev-r{display:grid;grid-template-columns:78px 1fr;gap:10px;padding:6px 0;border-bottom:1px dotted var(--hair);font:13.5px/1.35 var(--sans)}
+.ev-o{font:800 12.5px var(--sans);color:var(--t);padding-top:1px}
+.ev-r a{color:var(--ink);text-decoration:none}.ev-r a:hover b{text-decoration:underline}
+.ev-r small{display:block;color:var(--muted);font:12px/1.35 var(--sans);margin-top:1px}
+.ev-g{font:700 10px var(--sans);font-style:normal;text-transform:uppercase;letter-spacing:.05em;background:#2a8f5a;color:#fff;padding:1px 6px;border-radius:99px;vertical-align:1px}
+@media print{.ev-chips{display:none}}
 .t-musica .card{border-radius:14px 14px 14px 14px;border-left:6px solid var(--t);background-image:repeating-linear-gradient(0deg,color-mix(in srgb,var(--t) 9%,transparent) 0 1px,transparent 1px 9px)}
 .t-musica h3{font-style:italic}
 section.sec.t-adolescenti,nav.sections a.t-adolescenti{--t:#e07aa0}
@@ -833,6 +847,7 @@ const SEZIONI = [
   {id:"cucina", nome:"Cucina"},
   {id:"adolescenti", nome:"Adolescenti (13-18 anni)"},
   {id:"sport", nome:"Sport"},
+  {id:"eventi", nome:"Eventi"},
   {id:"meteo", nome:"Meteo"},
 ];
 /* Temi proposti per le prossime edizioni (nessuna notizia oggi) */
@@ -1008,6 +1023,7 @@ function render(){
   $("#nav").innerHTML = SEZIONI.filter(s=>!offTemi.has(s.id)).map(s=>`<a href="#s-${s.id}" class="t-${s.id}${s.good?" good":""}">${s.nome}</a>`).join("");
   for(const s of SEZIONI){
     if(offTemi.has(s.id)) continue;
+    if(s.id==="eventi"){ const h = eventiHTML(s); if(h) parti.push({full:filtroSezione==="eventi", html:h}); continue; }
     if(s.id==="meteo"){ const h = meteoHTML(s); if(h){ parti.push({full:filtroSezione==="meteo", html:h}); } continue; }   // il meteo è una tabella di dati, non un elenco di notizie
     const items = NEWS.filter(n=>n.sez===s.id && visibile(n));
     if(!items.length) continue; tot+=items.length;
@@ -1041,6 +1057,42 @@ function meteoHTML(s){
   return `<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}${s.nome}</span><span class="h2r"><small>${M.citta.length} città</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2><div class="grid${largo?" meteo-largo":""}"><div class="meteo-box">${largo?"":`<div class="met-sat"><div class="met-tab"><button data-ov="satellite" aria-pressed="false">🛰 Satellite (nuvole)</button><button data-ov="rain" aria-pressed="false">☔ Previsione pioggia</button><button data-ov="temp" aria-pressed="false">🌡 Previsione temperature</button><button data-ov="wind" aria-pressed="false">💨 Vento</button></div><div class="met-frame"><p class="fn">Scegli una vista: le mappe sono animate e interattive (Windy, dati dei satelliti Meteosat e dei modelli ECMWF). Si caricano solo quando le apri.</p></div></div>`}${corpo}<p class="fn">Previsioni: ${esc(M.fonte)}. Temperature minime e massime di oggi e di domani.</p></div>${largo?`<div class="meteo-qui" id="meteoQui"><p class="fn">Cerco la tua posizione…</p></div>`:""}</div></section>`;
 }
 
+/* ===== EVENTI: appuntamenti dei prossimi 7 giorni nella città (per ora Roma), presi da fonti ufficiali con il link alla scheda ===== */
+let filtroEv = "";
+const TIPI_EV = {danza:["💃","Danza"], teatro:["🎭","Teatro"], musica:["🎵","Musica"], opera:["🎼","Opera"], cinema:["🎬","Cinema"], mostra:["🖼","Mostre"], arte:["🖼","Arte"], festival:["🎪","Festival"], incontro:["🗣","Incontri"]};
+const oggiRoma = ()=>new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Rome"}).format(new Date());
+function sommaGiorni(d, n){ const x = new Date(d+"T12:00:00Z"); x.setUTCDate(x.getUTCDate()+n); return x.toISOString().slice(0,10); }
+function eventiFinestra(){
+  const C = window.EVENTI && window.EVENTI.citta && window.EVENTI.citta.roma; if(!C) return null;
+  const da = oggiRoma(), a = sommaGiorni(da,6);
+  return {C, da, a, tutti: C.eventi.filter(e=>e.df>=da && e.d<=a)};
+}
+function eventiHTML(s){
+  if(filtroSezione && filtroSezione!==s.id) return "";
+  if(soloImportanti || soloBuone || soloSalvati || query || filtroNazione || mostraNascoste) return "";
+  const W = eventiFinestra(); if(!W || !W.tutti.length) return "";
+  const ch = chiuse.has(s.id), durata = e=>(new Date(e.df)-new Date(e.d))/864e5;
+  const lungo = e=>durata(e)>3 || (durata(e)>0 && !e.o);       // più giorni senza un orario preciso: va in «In corso», non ripetuto ogni giorno
+  const lunghi = W.tutti.filter(lungo), brevi = W.tutti.filter(e=>!lungo(e));
+  const filtra = l=>filtroEv ? l.filter(e=>e.tipo===filtroEv) : l;
+  const tipi = [...new Set(W.tutti.map(e=>e.tipo))];
+  const riga = e=>{ const T = TIPI_EV[e.tipo]||["•",e.tipo]; return `<li class="ev-r"><span class="ev-o">${e.o?esc(e.o):"orari vari"}</span><div><a href="${esc(e.u)}" target="_blank" rel="noopener"><b>${esc(e.t)}</b></a>${e.g?' <em class="ev-g">gratuito</em>':""}<small>${T[0]} ${esc(T[1])} · ${esc(e.l)}${e.n?" · "+esc(e.n):""}</small></div></li>`; };
+  let corpo = "";
+  for(let i=0;i<7;i++){
+    const g = sommaGiorni(W.da,i), l = filtra(brevi.filter(e=>e.d<=g && e.df>=g)).sort((a,b)=>(a.o||"99").localeCompare(b.o||"99"));
+    if(!l.length) continue;
+    const etichetta = i===0 ? "Oggi" : i===1 ? "Domani" : new Date(g+"T12:00:00").toLocaleDateString("it-IT",{weekday:"long",day:"numeric",month:"long"});
+    corpo += `<h4 class="ev-g-h">${esc(etichetta)}${i<2?` <small>${new Date(g+"T12:00:00").toLocaleDateString("it-IT",{weekday:"long",day:"numeric",month:"long"})}</small>`:""}</h4><ul class="ev-l">${l.map(riga).join("")}</ul>`;
+  }
+  const lungh = filtra(lunghi);
+  if(lungh.length) corpo += `<h4 class="ev-g-h">In corso <small>mostre, rassegne e festival che durano più giorni</small></h4><ul class="ev-l">${lungh.map(riga).join("")}</ul>`;
+  if(!corpo) corpo = `<p class="fn">Nessun evento di questo tipo nei prossimi 7 giorni.</p>`;
+  const agg = W.C.fonti ? W.C.fonti.map(f=>`<a href="${esc(f.u)}" target="_blank" rel="noopener">${esc(f.n)}</a>`).join(" · ") : "";
+  return `<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${filtroSezione===s.id?" fullw":""}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}Eventi a ${esc(W.C.nome)}</span><span class="h2r"><small>prossimi 7 giorni · ${W.tutti.length}</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2>
+    <div class="ev-box"><div class="ev-chips" role="group" aria-label="Tipo di evento"><button type="button" class="ev-chip" data-ev="" aria-pressed="${!filtroEv}">Tutti</button>${tipi.map(t=>{ const T = TIPI_EV[t]||["•",t]; return `<button type="button" class="ev-chip" data-ev="${esc(t)}" aria-pressed="${filtroEv===t}">${T[0]} ${esc(T[1])}</button>`; }).join("")}</div>
+    ${corpo}<p class="fn">Fonti ufficiali: ${agg}. ${esc(window.EVENTI.avviso||"")} Per ora gli eventi sono solo di Roma.</p></div></section>`;
+}
+document.addEventListener("click",e=>{ const b = e.target.closest(".ev-chip"); if(!b) return; filtroEv = b.dataset.ev; render(); });
 /* ===== METEO «QUI»: scelta la sezione Meteo, a destra il box con il tempo del luogo da cui apri il sito (posizione chiesta al browser, solo con il tuo consenso) ===== */
 const windyUrl = (lat,lon,ov,z)=>`https://embed.windy.com/embed2.html?lat=${lat}&lon=${lon}&detailLat=${lat}&detailLon=${lon}&zoom=${z}&level=surface&overlay=${ov}&product=ecmwf&menu=&message=true&marker=true&calendar=now&type=map&location=coordinates&metricWind=km%2Fh&metricTemp=%C2%B0C`;
 let posMeteo = null;
@@ -1461,12 +1513,12 @@ function pilloleHTML(){
 }
 
 /* ===== ELENCO FISSO DELLE SEZIONI (a sinistra) ===== */
-const TEMA_COL = {prima:"#8a8576",italia:"#4a9a68",mondo:"#4f7fc0",economia:"#e0804a",ingegneria:"#b08a4a",organizzazioni:"#7a86b8",cucina:"#c9a227",musica:"#8b6fd1",adolescenti:"#e07aa0",meteo:"#5aa7d8",tech:"#2a9db5",ambiente:"#6aa84f",salute:"#3aa59e",cultura:"#a86bb0",sport:"#e0564b"};
+const TEMA_COL = {prima:"#8a8576",italia:"#4a9a68",mondo:"#4f7fc0",economia:"#e0804a",ingegneria:"#b08a4a",organizzazioni:"#7a86b8",cucina:"#c9a227",musica:"#8b6fd1",adolescenti:"#e07aa0",meteo:"#5aa7d8",tech:"#2a9db5",ambiente:"#6aa84f",salute:"#3aa59e",cultura:"#a86bb0",sport:"#e0564b",eventi:"#d9822b"};
 function renderRail(){
   const el = $("#rail"); if(!el) return;
   const fs = filtroSezione, fb = filtroSub; filtroSezione = null; filtroSub = null;     // i conteggi non devono dipendere dalla sezione o dall'argomento scelti
-  const voci = SEZIONI.filter(s=>!offTemi.has(s.id)).map(s=>({s, n: s.id==="meteo" ? ((((datiGiorno()||{}).meteo_citta||{}).citta)||[]).length : NEWS.filter(x=>x.sez===s.id && visibile(x)).length})).filter(v=>v.n>0);
-  const tot = voci.filter(v=>v.s.id!=="meteo").reduce((a,v)=>a+v.n,0);     // il meteo conta città, non notizie: non entra nel totale
+  const voci = SEZIONI.filter(s=>!offTemi.has(s.id)).map(s=>({s, n: s.id==="meteo" ? ((((datiGiorno()||{}).meteo_citta||{}).citta)||[]).length : s.id==="eventi" ? ((eventiFinestra()||{tutti:[]}).tutti.length) : NEWS.filter(x=>x.sez===s.id && visibile(x)).length})).filter(v=>v.n>0);
+  const tot = voci.filter(v=>v.s.id!=="meteo" && v.s.id!=="eventi").reduce((a,v)=>a+v.n,0);     // meteo (città) ed eventi non sono notizie: non entrano nel totale
   filtroSezione = fs; filtroSub = fb;
   el.innerHTML = `<div class="r-tit">Sezioni</div><a href="#" data-sez="__tutte" class="r-tutte" style="--t:#8a8576"><span>Tutto il giornale</span><span class="n">${tot}</span></a>` + voci.map(({s,n})=>
     `<a href="#s-${s.id}" data-sez="${s.id}" style="--t:${TEMA_COL[s.id]||"#8a8576"}">${ICONA(s.id)}<span>${esc(s.nome)}</span><span class="n">${n}</span></a>`).join("") +
@@ -1575,6 +1627,7 @@ const ICONE = {
   ambiente:'<path d="M5 19c0-8 5-13 14-14 0 9-5 14-13 14M5 19l7-7"/>',
   salute:'<path d="M12 19.5C5 14.5 3.5 11 3.5 8.5A4 4 0 0 1 12 7a4 4 0 0 1 8.5 1.5c0 2.5-1.500 6-8.500 11z"/>',
   cultura:'<path d="M12 6.5C9.500 5 6.500 4.800 4 5.500v12.500c2.500-.7 5.500-.5 8 1M12 6.500c2.500-1.500 5.500-1.700 8-1v12.500c-2.500-.7-5.500-.5-8 1M12 6.500V19"/>',
+  eventi:'<rect x="4" y="5.500" width="16" height="14.500" rx="1.500"/><path d="M4 10h16M8.500 3.500v4M15.500 3.500v4M8 14h3M13 14h3M8 17h3"/>',
   sport:'<circle cx="12" cy="12" r="8.5"/><path d="M12 6.500l4 2.900-1.500 4.700h-5L8 9.400zM12 3.500v3M16 9.400l4-1.300M14.500 14.100l2.500 3.500M9.500 14.100 7 17.600M8 9.400 4 8.100"/>'
 };
 function ICONA(id){ return ICONE[id] ? `<svg class="ico" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONE[id]}</svg>` : ""; }
@@ -1768,7 +1821,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2023";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2034";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1779,6 +1832,7 @@ async function avvia(){
     document.querySelectorAll(".filigrana").forEach(s=>s.setAttribute("viewBox","0 0 "+window.MAPPA.w+" "+window.MAPPA.h));
   }
   await carica("dati/catalogo.js");
+  await carica("dati/eventi.js");                         // eventi della città (per ora Roma); se manca, la sezione non compare
   if(window.CATALOGO){
     FONTI_ELENCO = window.CATALOGO.map(r=>[r[0],r[1],r[2]]);
     window.CATALOGO.forEach(r=>{ if(r[6]) ATLAS_IT[r[6]] = r[2]; });
@@ -1956,7 +2010,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2023";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-2034";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
