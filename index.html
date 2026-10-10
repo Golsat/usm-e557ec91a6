@@ -437,7 +437,7 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
 .flag-m{height:20px;width:auto;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.25)}
 .flag-r{margin:0 0 0 4px}
 /* vista app: barra a tendina delle sezioni (solo telefono) */
-.mbar,.msheet,.mnext{display:none}
+.mbar,.msheet,.mnext,.ticker.tk-alto{display:none}
 @media(max-width:700px){
   .wrap{padding-left:12px!important;padding-right:12px!important}
   .top{display:none}
@@ -446,6 +446,9 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
   nav.sections,.howto,.editionbar .rapidi,.legenda{display:none!important}
   .editionbar{font-size:12px;gap:6px}
   .mbar{display:flex;gap:8px;position:sticky;top:0;z-index:40;padding:8px 0;background:var(--paper);border-bottom:1px solid var(--hair)}
+  .desk-only{display:none}
+  .mbar{flex-wrap:wrap}
+  .mbar #mPaese{flex:1 1 100%;font:600 14px var(--sans);padding:8px 12px;border-width:1px}
   .mbar select{flex:1;min-width:0;font:700 15px var(--sans);padding:10px 12px;border:2px solid var(--ink);background:var(--card);color:var(--ink);border-radius:8px}
   .mbar button{font:700 14px var(--sans);padding:10px 14px;border:2px solid var(--ink);background:var(--ink);color:var(--paper);border-radius:8px;white-space:nowrap}
   .msheet:not([hidden]){display:block;position:fixed;inset:0;z-index:60;overflow:auto;background:var(--paper);padding:0 14px 40px}
@@ -457,8 +460,10 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
   .msec .destra .game{margin:0}
   .msec .tools{padding:0 10px 12px}
   .msec .tools button{margin:3px}
-  .mnext:not([hidden]){display:block;width:100%;margin:14px 0 10px;padding:14px;font:800 15px var(--sans);border:2px solid var(--ink);background:var(--card);color:var(--ink);border-radius:10px}
-  .ticker{display:none}
+  .mbar .mnext:not([hidden]){display:block;font:800 13px var(--sans);padding:10px 11px;border:2px solid var(--ink);background:var(--card);color:var(--ink);border-radius:8px;white-space:nowrap;max-width:34%;overflow:hidden;text-overflow:ellipsis}
+  #ticker{display:none}
+  .ticker.tk-alto{display:flex;position:static;height:34px;margin:6px 0 4px;box-shadow:none;border-radius:6px;overflow:hidden}
+  .pilloleMob{display:none!important}
   .card .lead{font-size:15.5px}
 }
 footer .aggiorna{text-align:center;margin:8px 0 0;font:12px var(--sans);color:var(--muted)}
@@ -640,7 +645,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <p>Il mondo di oggi, visto dagli occhi di chi lo racconta · senza cronaca nera</p>
 </header>
 
-<div class="editionbar"><span id="edizione"></span><div id="rapidi" class="rapidi" aria-label="Numeri e meteo del giorno"></div><span><label for="archivio">Archivio </label><select id="archivio" aria-label="Scegli l'edizione"></select> · <span id="conteggio"></span></span></div>
+<div class="editionbar"><span id="edizione"></span><div id="rapidi" class="rapidi" aria-label="Numeri e meteo del giorno"></div><span><span class="desk-only"><label for="dPaese">Paese </label><select id="dPaese" aria-label="Scegli il Paese"></select> · </span><label for="archivio">Archivio </label><select id="archivio" aria-label="Scegli l'edizione"></select> · <span id="conteggio"></span></span></div>
 <details class="howto"><summary>Un giornale, non un feed · come si legge · <span class="leg-r">★★★</span> da non perdere <span class="leg-r">★★</span> importante</summary>Un'edizione al giorno, finita, senza scroll infinito, senza video che partono da soli: si legge con calma, un articolo alla volta. <b>Come si legge.</b>Ogni notizia porta il <b>paese e la città da cui scrive la testata</b>: è il suo sguardo, non una verità neutra. Quando più testate raccontano lo stesso fatto, trovi gli <b>«sguardi a confronto»</b>. Clicca su un riquadro per aprirlo. Le stelle gialle e il bordo dorato segnalano le notizie più importanti del giorno: tre stelle da non perdere, due importanti. L'ordine delle sezioni non cambia.</details>
 
 <div class="destra">
@@ -651,7 +656,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 </div>
 
 <nav class="sections" id="nav"></nav>
-<div class="mbar" id="mbar"><select id="mSez" aria-label="Scegli la sezione"></select><button id="mMenuBtn" aria-label="Menu: passaporto, strumenti e filtri">☰ Menu</button></div>
+<div class="mbar" id="mbar"><select id="mSez" aria-label="Scegli la sezione"></select><button id="mNext" class="mnext" hidden aria-label="Scorri alla sezione successiva"></button><button id="mMenuBtn" aria-label="Menu: passaporto, strumenti e filtri">☰ Menu</button><select id="mPaese" aria-label="Scegli il Paese"></select></div>
 <div class="msheet" id="mSheet" hidden role="dialog" aria-label="Menu"><div class="msheet-h"><b>Menu</b><button id="mSheetX" aria-label="Chiudi il menu">✕ Chiudi</button></div><div id="mSheetBody"></div></div>
 
 <div class="tools">
@@ -678,9 +683,9 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 </div>
 
 <div id="pilloleMob" class="pilloleMob"></div>
+<div id="tickerTop" class="ticker tk-alto" aria-label="Notizie in scorrimento"></div>
 <div id="nazBar" class="nazbar" hidden></div>
 <main id="main"></main>
-<button id="mNext" class="mnext" hidden></button>
 
 <aside class="rail" id="rail" aria-label="Sezioni del giornale"></aside>
 <div class="tts" id="ttsPanel" hidden></div>
@@ -1146,7 +1151,14 @@ function renderTicker(){
   const el = $("#ticker"); if(!el) return;
   const vis = NEWS.filter(visibile).slice(0,24);
   if(!vis.length){ el.innerHTML = ""; return; }
-  const voci = vis.map(n=>{ const f=n.fonti.find(x=>!offFonti.has(x.n))||n.fonti[0]; return `<a href="#" ${rilievo(n)===3?'class="top3" ':''}data-tk="${esc(n.id)}"><b>${esc(f.c)}</b>${esc(n.titolo)}</a>`; }).join("");
+  const voce = n=>{ const f=n.fonti.find(x=>!offFonti.has(x.n))||n.fonti[0]; return `<a href="#" ${rilievo(n)===3?'class="top3" ':''}data-tk="${esc(n.id)}"><b>${esc(f.c)}</b>${esc(n.titolo)}</a>`; };
+  const voci = vis.map(voce).join("");
+  const alto = $("#tickerTop");                       // sul telefono: striscia in alto, notizie in ordine casuale (al posto delle pillole)
+  if(alto){
+    const mix = NEWS.filter(visibile).sort(()=>Math.random()-.5).slice(0,24).map(voce).join("");
+    alto.style.setProperty("--dur", Math.max(60, Math.round(vis.reduce((s,n)=>s+n.titolo.length+14,0)*0.11))+"s");
+    alto.innerHTML = `<div class="tk-label">Notizie</div><div class="tk-view"><div class="tk-track">${mix}${mix}</div></div>`;
+  }
   const chars = vis.reduce((s,n)=>s+n.titolo.length+14,0);
   el.style.setProperty("--dur", Math.max(60, Math.round(chars*0.11))+"s");
   el.innerHTML = `<div class="tk-label">${TIPO==="sera"?"Sera":"Ultime"}</div><div class="tk-view"><div class="tk-track">${voci}${voci}</div></div><button class="tk-pausa" aria-label="Metti in pausa o riprendi le ultime notizie" title="Pausa / riprendi">${el.classList.contains("pausa")?"▶":"❚❚"}</button>`;
@@ -1340,8 +1352,19 @@ function popolaSelect(voci, tot){
   const s = $("#mSez"); if(!s) return;
   s.innerHTML = `<option value="__tutte">Tutto il giornale (${tot})</option>` + voci.map(({s:x,n})=>`<option value="${x.id}">${esc(x.nome)} (${n})</option>`).join("");
   s.value = filtroSezione || "__tutte";
+  popolaPaesi();
   const idx = voci.findIndex(v=>v.s.id===filtroSezione), nx = $("#mNext");
-  if(nx){ const next = idx>=0 ? voci[idx+1] : null; nx.hidden = !next; if(next){ nx.dataset.sez = next.s.id; nx.textContent = "Avanti: "+next.s.nome+" →"; } }
+  if(nx){ const next = idx>=0 ? voci[idx+1] : null; nx.hidden = !next; if(next){ nx.dataset.sez = next.s.id; nx.textContent = (next.s.id==="adolescenti"?"Adolescenti":next.s.id==="organizzazioni"?"Organizz.":next.s.id==="ingegneria"?"Ingegneria":next.s.id==="tech"?"Tecnologia":next.s.nome.replace(/ \(.*/,""))+" ›"; } }
+}
+function popolaPaesi(){                                  // tendina dei Paesi: quelli con titoli oggi e quelli di cui parlano le notizie
+  const set = new Set(Object.keys(nazioniOggi()).filter(k=>!k.startsWith("~")));
+  Object.values(LUOGHI||{}).forEach(L=>(L.p||[]).forEach(p=>set.add(p)));
+  const lista = [...set].map(a=>[a,nomePaese(a)]).sort((a,b)=>a[1].localeCompare(b[1],"it"));
+  ["mPaese","dPaese"].forEach(id=>{                       // telefono (barra in alto) e sito web (accanto all'archivio)
+    const s = $("#"+id); if(!s) return;
+    s.innerHTML = `<option value="">🌍 Tutti i Paesi</option>` + lista.map(([a,n])=>`<option value="${esc(a)}">${esc(n)}</option>`).join("");
+    s.value = filtroNazione || "";
+  });
 }
 function vaiSezione(id){
   filtroSezione = (id && id!=="__tutte") ? id : null;
@@ -1349,6 +1372,12 @@ function vaiSezione(id){
   render(); window.scrollTo({top:0,behavior:"smooth"});
 }
 $("#mSez").addEventListener("change",e=>vaiSezione(e.target.value));
+["#mPaese","#dPaese"].forEach(sel=>$(sel).addEventListener("change",e=>{
+  const v = e.target.value;
+  if(!v){ if(filtroNazione) selezionaNazione(null); }
+  else { if(filtroNazione) filtroNazione = null; filtroSezione = null; selezionaNazione(v); }       // dal menu si vede il Paese con tutte le sezioni
+  window.scrollTo({top:0,behavior:"smooth"});
+}));
 $("#mNext").addEventListener("click",e=>vaiSezione(e.currentTarget.dataset.sez));
 const spostati = [];
 function modoApp(){
@@ -1590,7 +1619,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1415";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1418";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1775,7 +1804,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1415";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1418";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
