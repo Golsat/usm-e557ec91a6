@@ -456,11 +456,13 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .card.open .tg:hover{background:#a82820}
 .g-medal{display:inline-grid;place-items:center;width:30px;height:30px;margin-right:7px;border-radius:50%;font-size:16px;vertical-align:-6px;background:color-mix(in srgb,var(--m) 22%,var(--card));border:2px solid var(--m);box-shadow:0 0 0 3px color-mix(in srgb,var(--m) 18%,transparent)}
 .promo-qf{margin:12px 0 4px;padding:10px 11px;border:1px solid var(--hair);border-left:5px solid #7a5ad8;background:color-mix(in srgb,#7a5ad8 10%,var(--card));font:12.5px/1.4 var(--sans)}
-.promo-qf b{font:900 15px var(--display);display:block;margin:2px 0 4px}
-.promo-qf p{margin:0 0 8px;color:var(--ink)}
+.promo-qf b{font:900 14px/1.15 var(--display);display:block;margin:0 0 3px}
+.promo-qf p{margin:0;color:var(--ink);font-size:11.5px;line-height:1.35}
+.promo-qf .qf-top{display:flex;gap:9px;align-items:flex-start;margin:4px 0 8px}
+.promo-qf .qf-top img{display:block;width:54px;height:auto;border-radius:3px;box-shadow:0 2px 7px rgba(0,0,0,.35);flex:none}
 .promo-qf .qf-ad{font:600 9px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border:1px solid var(--hair);padding:0 5px;border-radius:99px;margin-left:4px;vertical-align:1px}
-.promo-qf .qf-link{display:flex;flex-direction:column;gap:5px}
-.promo-qf .qf-link a{display:block;text-decoration:none;color:var(--ink);font:700 12px var(--sans);padding:6px 9px;border:1px solid var(--ink);background:var(--card);border-radius:6px}
+.promo-qf .qf-link{display:grid;grid-template-columns:1fr 1fr;gap:4px}
+.promo-qf .qf-link a{display:block;text-align:center;text-decoration:none;color:var(--ink);font:700 11px var(--sans);padding:5px 4px;border:1px solid var(--ink);background:var(--card);border-radius:6px;white-space:nowrap}
 .promo-qf .qf-link a:hover{background:var(--ink);color:var(--paper)}
 @media print{.promo-qf{display:none}}
 .dirbox{border:1px solid var(--hair);border-top:4px solid #c8352b;background:var(--card);padding:8px 10px;margin:10px 0;font:12.5px var(--sans)}
@@ -1436,11 +1438,11 @@ document.addEventListener("click",e=>{
 /* ===== BOX QUESTFORGE: un po' di pubblicità del progetto editoriale (testi e link già usati nel sito QuestForge) ===== */
 function promoQuestForge(){
   return `<div class="promo-qf"><div class="r-tit">Dal nostro progetto editoriale <span class="qf-ad">pubblicità</span></div>
-    <b>QuestForge Publishing</b>
-    <p>Libri da colorare che raccontano una storia, per bambini dai 4 agli 8 anni. Vol. 1 «Dungeon &amp; Creature»: 30 tavole da colorare e il diploma di Cavaliere dei Draghi.</p>
+    <div class="qf-top"><a href="https://www.amazon.it/dp/B0HGBJ7ZVT" target="_blank" rel="noopener" title="Vol. 1 su Amazon Italia"><img src="app/copertina-vol1.jpg" width="62" height="90" alt="Copertina di «Dungeon &amp; Creature», Vol. 1" loading="lazy"></a>
+      <div><b>QuestForge Publishing</b><p>Libri da colorare che raccontano una storia, per bambini di 4-8 anni. Vol. 1 «Dungeon &amp; Creature»: 30 tavole e il diploma finale.</p></div></div>
     <div class="qf-link">
-      <a href="https://www.amazon.it/dp/B0HGBJ7ZVT" target="_blank" rel="noopener">📚 Amazon Italia</a>
-      <a href="https://www.amazon.com/dp/B0HGBFBQ1H" target="_blank" rel="noopener">📚 Amazon.com (EN)</a>
+      <a href="https://www.amazon.it/dp/B0HGBJ7ZVT" target="_blank" rel="noopener">📚 Amazon IT</a>
+      <a href="https://www.amazon.com/dp/B0HGBFBQ1H" target="_blank" rel="noopener">📚 Amazon EN</a>
       <a href="https://www.instagram.com/questforgepublishing/" target="_blank" rel="noopener">📷 Instagram</a>
       <a href="https://www.pinterest.com/questforgepublishing/" target="_blank" rel="noopener">📌 Pinterest</a>
     </div></div>`;
@@ -1753,7 +1755,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1546";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1549";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1941,7 +1943,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1546";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1549";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
