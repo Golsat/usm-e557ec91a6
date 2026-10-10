@@ -478,6 +478,9 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .card{position:relative}
 .xp{font:700 11px var(--sans);color:var(--muted);border:1px dashed var(--hair);border-radius:99px;padding:0 7px;white-space:nowrap}
 .xp.on{color:#fff;background:#2a8f5a;border:1px solid #2a8f5a}
+.xp.conta{color:#7a5600;background:#fff2c2;border:1px solid #e0a800;animation:respira 1s ease-in-out infinite}
+.xpmini{font:800 12px var(--sans);padding:6px 9px;border-radius:99px;border:2px solid var(--ink);background:#fff2c2;color:#2a1f00;white-space:nowrap;align-self:center}
+@media(min-width:701px){.xpmini{display:none}}
 .xp-pop{position:absolute;right:14px;bottom:12px;z-index:5;pointer-events:none;font:900 22px var(--sans);color:#e0a800;text-shadow:0 1px 0 #7a5600,0 0 10px rgba(224,168,0,.6);animation:xpSu 2.1s ease-out forwards}
 @keyframes xpSu{0%{opacity:0;transform:translateY(8px) scale(.8)}15%{opacity:1;transform:translateY(0) scale(1.15)}100%{opacity:0;transform:translateY(-46px) scale(1)}}
 .toast-xp{position:fixed;left:50%;bottom:58px;transform:translateX(-50%);z-index:85;display:flex;gap:10px;align-items:baseline;background:#1f3a2c;color:#f3f0dc;padding:9px 16px;border-radius:99px;font:600 12.5px var(--sans);box-shadow:0 6px 20px rgba(0,0,0,.35)}
@@ -752,7 +755,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 </div>
 
 <nav class="sections" id="nav"></nav>
-<div class="mbar" id="mbar"><select id="mSez" aria-label="Scegli la sezione"></select><button id="mNext" class="mnext" hidden aria-label="Scorri alla sezione successiva"></button><button id="mMenuBtn" aria-label="Menu: passaporto, strumenti e filtri">☰ Menu</button><select id="mPaese" aria-label="Scegli il Paese"></select></div>
+<div class="mbar" id="mbar"><select id="mSez" aria-label="Scegli la sezione"></select><button id="mNext" class="mnext" hidden aria-label="Scorri alla sezione successiva"></button><span id="xpMini" class="xpmini" title="I tuoi punti: apri una notizia e leggila per 10 secondi per guadagnare 10 XP"></span><button id="mMenuBtn" aria-label="Menu: passaporto, strumenti e filtri">☰ Menu</button><select id="mPaese" aria-label="Scegli il Paese"></select></div>
 <button id="mNasc" class="mnasc" type="button" hidden></button>
 <div class="msheet" id="mSheet" hidden role="dialog" aria-label="Menu"><div class="msheet-h"><b>Menu</b><button id="mSheetX" aria-label="Chiudi il menu">✕ Chiudi</button></div><div id="mSheetBody"></div></div>
 
@@ -1829,7 +1832,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2112";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2115";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1869,9 +1872,9 @@ async function avvia(){
 }
 
 /* punti solo se l'articolo resta aperto abbastanza da essere letto */
-const timers = {};
+const timers = {}, conti = {};
 const SECONDI_LETTURA = 10;
-function clearTimers(){ Object.keys(timers).forEach(k=>{ clearTimeout(timers[k]); delete timers[k]; }); }
+function clearTimers(){ Object.keys(timers).forEach(k=>{ clearTimeout(timers[k]); delete timers[k]; }); Object.keys(conti).forEach(k=>{ clearInterval(conti[k]); delete conti[k]; }); }
 function toggle(card, force, massivo){
   const open = force!==undefined ? force : !card.classList.contains("open");
   const id = card.dataset.id;
@@ -1879,8 +1882,18 @@ function toggle(card, force, massivo){
   card.querySelector(".tg").textContent = open?"✕ Chiudi":"Apri ▾";
   if(open){
     letti.add(id); store.set("usm_letti",[...letti]); card.classList.add("read"); evidenzia(id);
-    if(!massivo && !game.aperti.includes(id)){ timers[id]=setTimeout(()=>award(id), SECONDI_LETTURA*1000); }
-  } else if(timers[id]){ clearTimeout(timers[id]); delete timers[id]; }
+    if(!massivo && !game.aperti.includes(id)){
+      timers[id]=setTimeout(()=>award(id), SECONDI_LETTURA*1000);
+      const chip = card.querySelector(".xp"); let resto = SECONDI_LETTURA;       // conto alla rovescia visibile: «leggi ancora N s per +10 XP»
+      if(chip){ chip.classList.add("conta"); chip.textContent = "⏳ "+resto+" s → +10 XP"; }
+      clearInterval(conti[id]); conti[id] = setInterval(()=>{ resto--; if(chip && resto>0) chip.textContent = "⏳ "+resto+" s → +10 XP"; else clearInterval(conti[id]); }, 1000);
+    } else if(massivo && !game.aperti.includes(id)){ const chip = card.querySelector(".xp"); if(chip) chip.title = "Aperta con «Espandi tutto»: per i punti apri la notizia da sola e leggila per "+SECONDI_LETTURA+" secondi"; }
+  } else {
+    if(timers[id]){ clearTimeout(timers[id]); delete timers[id]; }
+    if(conti[id]){ clearInterval(conti[id]); delete conti[id]; }
+    const chip = card.querySelector(".xp");
+    if(chip && !game.aperti.includes(id)){ chip.classList.remove("conta"); chip.textContent = "chiusa troppo presto: servono "+SECONDI_LETTURA+" s"; setTimeout(()=>{ if(!game.aperti.includes(id)) chip.textContent = "+10 XP"; }, 2500); }
+  }
 }
 
 /* ===== PREFERENZE: temi e fonti ===== */
@@ -1968,6 +1981,7 @@ function award(id){
   if(!game.timbri.includes(p)){ game.timbri.push(p); nota += " · nuovo timbro sul passaporto: "+(PAESI[p]?PAESI[p].nome:p); }
   if(!game.giorni.includes(EDIZIONE)) game.giorni.push(EDIZIONE);
   controllaTraguardi(); saveGame(); renderGame();
+  if(conti[id]){ clearInterval(conti[id]); delete conti[id]; }
   popXP(id, game.punti - puntiPrima, nota);
 }
 /* mostra quanti XP si guadagnano: un «+10 XP» che sale dalla notizia appena letta e un avviso con il dettaglio (timbro, traguardi) */
@@ -2033,7 +2047,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2112";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-2115";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -2115,6 +2129,7 @@ function renderGame(){
   const timbri = Object.keys(PAESI).map(p=>`<span class="stamp${game.timbri.includes(p)?" on p-"+p:""}" title="${game.timbri.includes(p)?"Timbro ottenuto":"Leggi una notizia scritta da questo Paese"}">${PAESI[p].nome}</span>`).join("");
   const badge = TRAGUARDI.map(t=>`<span class="bdg${game.badge.includes(t.id)?" on":""}" title="${esc(t.desc)}">${esc(t.nome)}</span>`).join("");
   const oggiLetti = NEWS.filter(n=>game.aperti.includes(n.id)).length;
+  const mini = $("#xpMini"); if(mini) mini.textContent = "⭐ "+game.punti+" XP";          // sempre visibile nella barra del telefono
   $("#game").innerHTML = `
     <div class="g-top">
       <div><span class="g-lab">Il tuo passaporto</span><br><span class="g-medal" style="--m:${BADGE_GRADO[L][1]}" title="Grado ${L+1} di ${LIVELLI.length}" aria-hidden="true">${BADGE_GRADO[L][0]}</span><b class="g-lv">${LIVELLI[L][1]}</b> · ${game.punti} punti${prossimo?` · prossimo grado: ${prossimo[1]} a ${prossimo[0]}`:" · grado massimo"}</div>
