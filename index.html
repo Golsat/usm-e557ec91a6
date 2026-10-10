@@ -433,6 +433,31 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
 .nz-h b{font-size:26px}
 .flag-s{height:14px;width:auto;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.2);margin-right:7px;vertical-align:-1px}
 .nazbar .nz-t{border-top-color:var(--pc,var(--accent))}
+/* vista app: barra a tendina delle sezioni (solo telefono) */
+.mbar,.msheet,.mnext{display:none}
+@media(max-width:700px){
+  .wrap{padding-left:12px!important;padding-right:12px!important}
+  .top{display:none}
+  .masthead h1{font-size:30px;margin:6px 0 0}
+  .masthead p{font-size:12px}
+  nav.sections,.howto,.editionbar .rapidi,.legenda{display:none!important}
+  .editionbar{font-size:12px;gap:6px}
+  .mbar{display:flex;gap:8px;position:sticky;top:0;z-index:40;padding:8px 0;background:var(--paper);border-bottom:1px solid var(--hair)}
+  .mbar select{flex:1;min-width:0;font:700 15px var(--sans);padding:10px 12px;border:2px solid var(--ink);background:var(--card);color:var(--ink);border-radius:8px}
+  .mbar button{font:700 14px var(--sans);padding:10px 14px;border:2px solid var(--ink);background:var(--ink);color:var(--paper);border-radius:8px;white-space:nowrap}
+  .msheet:not([hidden]){display:block;position:fixed;inset:0;z-index:60;overflow:auto;background:var(--paper);padding:0 14px 40px}
+  .msheet-h{display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;background:var(--paper);padding:12px 0;border-bottom:1px solid var(--hair);margin-bottom:8px}
+  .msheet-h button{font:700 14px var(--sans);padding:8px 12px;border:1px solid var(--ink);background:transparent;color:var(--ink);border-radius:8px}
+  .msec{border:1px solid var(--hair);border-radius:8px;margin:0 0 10px;background:var(--card)}
+  .msec>summary{padding:12px 14px;font:700 14px var(--sans);cursor:pointer}
+  .msec .destra{display:flex;flex-direction:column;gap:10px;padding:0 10px 10px;position:static;width:auto;max-height:none;overflow:visible}
+  .msec .destra .game{margin:0}
+  .msec .tools{padding:0 10px 12px}
+  .msec .tools button{margin:3px}
+  .mnext:not([hidden]){display:block;width:100%;margin:14px 0 10px;padding:14px;font:800 15px var(--sans);border:2px solid var(--ink);background:var(--card);color:var(--ink);border-radius:10px}
+  .ticker{display:none}
+  .card .lead{font-size:15.5px}
+}
 footer .versione{font:600 11px var(--sans);letter-spacing:.04em;color:var(--muted);text-align:center;margin-top:10px}
 .met-tab{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:6px}
 .met-tab button{font-size:11.5px;padding:4px 10px;border-radius:99px}
@@ -621,6 +646,8 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 </div>
 
 <nav class="sections" id="nav"></nav>
+<div class="mbar" id="mbar"><select id="mSez" aria-label="Scegli la sezione"></select><button id="mMenuBtn" aria-label="Menu: passaporto, strumenti e filtri">☰ Menu</button></div>
+<div class="msheet" id="mSheet" hidden role="dialog" aria-label="Menu"><div class="msheet-h"><b>Menu</b><button id="mSheetX" aria-label="Chiudi il menu">✕ Chiudi</button></div><div id="mSheetBody"></div></div>
 
 <div class="tools">
   <input type="search" id="q" placeholder="Cerca per parola chiave, testata o città…" aria-label="Cerca">
@@ -648,6 +675,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 <div id="pilloleMob" class="pilloleMob"></div>
 <div id="nazBar" class="nazbar" hidden></div>
 <main id="main"></main>
+<button id="mNext" class="mnext" hidden></button>
 
 <aside class="rail" id="rail" aria-label="Sezioni del giornale"></aside>
 <div class="tts" id="ttsPanel" hidden></div>
@@ -1295,8 +1323,47 @@ function renderRail(){
     `<a href="#s-${s.id}" data-sez="${s.id}" style="--t:${TEMA_COL[s.id]||"#8a8576"}">${ICONA(s.id)}<span>${esc(s.nome)}</span><span class="n">${n}</span></a>`).join("") +
     `<div class="r-sep"></div><a class="r-extra" href="#rassegna">Rassegna mondiale</a><a class="r-extra" href="#quizBox">Quiz del mattino</a><a class="r-extra" href="#prefs">Le tue scelte</a>` + pilloleHTML();
   const pm = $("#pilloleMob"); if(pm) pm.innerHTML = pilloleHTML();
+  popolaSelect(voci, tot);
   aggiornaRail();
 }
+/* ===== VISTA APP (telefono, fino a 700 px): barra con menu a tendina delle sezioni, si parte dalla Prima pagina; box e strumenti nel menu ===== */
+const MQ = window.matchMedia("(max-width:700px)");
+function popolaSelect(voci, tot){
+  const s = $("#mSez"); if(!s) return;
+  s.innerHTML = `<option value="__tutte">Tutto il giornale (${tot})</option>` + voci.map(({s:x,n})=>`<option value="${x.id}">${esc(x.nome)} (${n})</option>`).join("");
+  s.value = filtroSezione || "__tutte";
+  const idx = voci.findIndex(v=>v.s.id===filtroSezione), nx = $("#mNext");
+  if(nx){ const next = idx>=0 ? voci[idx+1] : null; nx.hidden = !next; if(next){ nx.dataset.sez = next.s.id; nx.textContent = "Avanti: "+next.s.nome+" →"; } }
+}
+function vaiSezione(id){
+  filtroSezione = (id && id!=="__tutte") ? id : null;
+  if(filtroSezione && chiuse.has(filtroSezione)){ chiuse.delete(filtroSezione); salvaChiuse(); }
+  render(); window.scrollTo({top:0,behavior:"smooth"});
+}
+$("#mSez").addEventListener("change",e=>vaiSezione(e.target.value));
+$("#mNext").addEventListener("click",e=>vaiSezione(e.currentTarget.dataset.sez));
+const spostati = [];
+function modoApp(){
+  const body = $("#mSheetBody"); if(!body) return;
+  const gruppi = [[".destra","Il tuo passaporto, il mondo coperto e le novità",true],[".tools","Strumenti, filtri e condivisione",false]];
+  if(MQ.matches){
+    if(spostati.length) return;
+    gruppi.forEach(([sel,tit,aperto])=>{
+      const el = document.querySelector(sel); if(!el) return;
+      const ph = document.createComment("pos"); el.parentNode.insertBefore(ph, el);
+      const d = document.createElement("details"); d.className = "msec"; if(aperto) d.open = true;
+      d.innerHTML = `<summary>${tit}</summary>`; d.appendChild(el); body.appendChild(d);
+      spostati.push({el, ph, d});
+    });
+  } else {
+    spostati.splice(0).forEach(({el,ph,d})=>{ ph.parentNode.insertBefore(el, ph); ph.remove(); d.remove(); });
+    $("#mSheet").hidden = true;
+  }
+}
+$("#mMenuBtn").addEventListener("click",()=>{ $("#mSheet").hidden = !$("#mSheet").hidden; });
+$("#mSheetX").addEventListener("click",()=>{ $("#mSheet").hidden = true; });
+MQ.addEventListener("change", modoApp);
+modoApp();
 function aggiornaRail(){
   const el = $("#rail"); if(!el || !el.querySelectorAll) return;
   let attiva = null;
@@ -1515,7 +1582,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1409";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1414";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1540,6 +1607,7 @@ async function avvia(){
   }
   costruisciArchivio();
   const richiesta = new URLSearchParams(location.search).get("e");
+  if(MQ.matches && !location.hash) filtroSezione = "prima";          // sul telefono si parte dalla Prima pagina; le altre sezioni dalla tendina
   apri(richiesta && window.EDIZIONI[richiesta] ? richiesta : ultima);
   initRiduci();
   /* collegamento diretto a una notizia: index.html?e=AAAA-MM-GG#id */
@@ -1699,7 +1767,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1409";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1414";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
