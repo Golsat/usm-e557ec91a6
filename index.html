@@ -437,6 +437,18 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
 .flag-m{height:20px;width:auto;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.25)}
 .flag-r{margin:0 0 0 4px}
 /* vista app: barra a tendina delle sezioni (solo telefono) */
+.dpaese{display:inline-flex;align-items:center;gap:4px;font:600 12px var(--sans)}
+.dpaese select{font:600 12px var(--sans);padding:7px 8px;border:1px solid var(--ink);background:var(--card);color:var(--ink)}
+.nov-slide{display:flex;gap:10px;align-items:flex-start;min-height:104px;animation:novIn .5s ease}
+.nov-slide .nov-ic{font-size:28px;line-height:1;flex:none;width:40px;height:40px;display:grid;place-items:center;border-radius:10px;background:color-mix(in srgb,var(--accent) 14%,var(--card))}
+.nov-slide b{font:700 13.5px/1.25 var(--sans)}
+.nov-slide p{margin:4px 0 0;font:12.5px/1.4 var(--sans);color:var(--muted)}
+.nov-new{font:700 9.5px var(--sans);font-style:normal;letter-spacing:.06em;text-transform:uppercase;background:#e0a800;color:#2a1f00;padding:1px 6px;border-radius:99px;vertical-align:1px}
+.nov-dots{display:flex;gap:6px;justify-content:center;margin-top:8px;flex-wrap:wrap}
+.nov-dots button{width:9px;height:9px;padding:0;border-radius:50%;border:1px solid var(--muted);background:transparent;cursor:pointer}
+.nov-dots button[aria-selected="true"]{background:var(--accent);border-color:var(--accent);transform:scale(1.25)}
+.game.chiuso .nov-slide,.game.chiuso .nov-dots{display:none}
+@keyframes novIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .mbar,.msheet,.mnext,.ticker.tk-alto{display:none}
 @media(max-width:700px){
   .wrap{padding-left:12px!important;padding-right:12px!important}
@@ -645,7 +657,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <p>Il mondo di oggi, visto dagli occhi di chi lo racconta · senza cronaca nera</p>
 </header>
 
-<div class="editionbar"><span id="edizione"></span><div id="rapidi" class="rapidi" aria-label="Numeri e meteo del giorno"></div><span><span class="desk-only"><label for="dPaese">Paese </label><select id="dPaese" aria-label="Scegli il Paese"></select> · </span><label for="archivio">Archivio </label><select id="archivio" aria-label="Scegli l'edizione"></select> · <span id="conteggio"></span></span></div>
+<div class="editionbar"><span id="edizione"></span><div id="rapidi" class="rapidi" aria-label="Numeri e meteo del giorno"></div><span><label for="archivio">Archivio </label><select id="archivio" aria-label="Scegli l'edizione"></select> · <span id="conteggio"></span></span></div>
 <details class="howto"><summary>Un giornale, non un feed · come si legge · <span class="leg-r">★★★</span> da non perdere <span class="leg-r">★★</span> importante</summary>Un'edizione al giorno, finita, senza scroll infinito, senza video che partono da soli: si legge con calma, un articolo alla volta. <b>Come si legge.</b>Ogni notizia porta il <b>paese e la città da cui scrive la testata</b>: è il suo sguardo, non una verità neutra. Quando più testate raccontano lo stesso fatto, trovi gli <b>«sguardi a confronto»</b>. Clicca su un riquadro per aprirlo. Le stelle gialle e il bordo dorato segnalano le notizie più importanti del giorno: tre stelle da non perdere, due importanti. L'ordine delle sezioni non cambia.</details>
 
 <div class="destra">
@@ -679,6 +691,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <button id="shWa" title="Invia i titoli dell'edizione su WhatsApp">WhatsApp</button>
   <button id="shMail" title="Invia i titoli dell'edizione per e-mail">E-mail</button>
   <button id="shPdf" title="Apre la stampa: scegli «Salva come PDF» e allega il file">PDF / Stampa</button>
+  <span class="desk-only dpaese"><label for="dPaese">Paese: </label><select id="dPaese" aria-label="Scegli il Paese"></select></span>
   <div class="chips" id="chips"><span class="lab">Sguardo di:</span></div>
 </div>
 
@@ -1619,7 +1632,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1419";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1420";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1804,7 +1817,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1419";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1420";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -1824,21 +1837,38 @@ $("#aggiorna").addEventListener("click", async ()=>{
   }catch(e){ out.textContent = "Nessuna connessione: resta la copia salvata sul telefono."; }
 });
 /* ===== NOVITÀ E CARATTERISTICHE DEL PROGETTO, in pillole ===== */
+/* [icona, titolo, spiegazione, è una novità?] — scorrono da sole, una alla volta */
 const NOVITA = [
-  ["🌍","Sguardo di chi scrive","Ogni notizia dice da quale Paese e città scrive la testata e dove accade il fatto: lo stesso evento visto da più parti del mondo."],
-  ["🔎","Sguardo interno ed esterno","Clicca un Paese sulla mappa: vedi cosa scrive di sé e cosa ne scrivono le testate di altri Paesi."],
-  ["✔","Fonti autorevoli e notizie certe","Solo testate riconosciute e fonti ufficiali. I badge ✔ dicono quante fonti indipendenti confermano; le voci di Stato non contano come prova."],
-  ["🛡","Tre controlli","Ogni edizione passa da prima scrittura, controllo e revisione automatico, ultima stesura. Niente cronaca nera."],
-  ["🎵","Nuove sezioni","Musica, Cucina, Adolescenti (13-18, con argomenti), Meteo con mappe satellite, Organizzazioni internazionali, Ingegneria e architettura."],
-  ["🧭","Mappa Equal Earth","La proiezione raccomandata dall'Assemblea generale dell'Onu, in filigrana sotto il giornale."],
-  ["🏅","Gioco e traguardi","Passaporto del lettore, timbri, 22 traguardi, serie di giorni di lettura e quiz del mattino."],
-  ["🔊","Ascolta","Ogni notizia si può far leggere ad alta voce dal browser (meglio con voci «Natural» di Edge)."],
-  ["📱","Sul telefono","L'app si installa dalla schermata Home e funziona anche senza rete; si può condividere con WhatsApp, e-mail o PDF."],
-  ["🗂","Archivio","Ogni edizione resta consultabile; i dati sono raccolti in un database."]
+  ["🌍","Il mondo visto da chi lo racconta","Ogni notizia dice da quale Paese e città scrive la testata e dove accade il fatto: lo stesso evento raccontato da più parti del mondo.",false],
+  ["🔎","Sguardo interno ed esterno","Scegli un Paese: vedi cosa scrive di sé e cosa ne scrivono le testate di altri Paesi, con la bandiera e i titoli tradotti.",false],
+  ["✔","Solo fonti autorevoli","Testate riconosciute e fonti ufficiali. I badge ✔ dicono quante fonti indipendenti confermano; le voci di Stato valgono come sguardo, mai come prova.",false],
+  ["🛡","Tre controlli, niente cronaca nera","Ogni edizione passa da prima scrittura, controllo e revisione, ultima stesura. Omicidi, violenza e incidenti mortali restano fuori.",true],
+  ["🌐","Più di 180 testate, oltre 80 Paesi","Il catalogo cresce ogni giorno: testate di ogni continente, organizzazioni internazionali e agenzie ufficiali.",true],
+  ["🎵","Musica, cucina, adolescenti","Sezioni nuove: Musica; Cucina; Adolescenti (13-18 anni) con argomenti come videogiochi, scienza e musica; Ingegneria e architettura.",true],
+  ["🌤","Meteo con satellite","Venti città e le mappe animate di nuvole, pioggia, temperature e vento, aperte solo quando le chiedi.",true],
+  ["🗺","Mappa Equal Earth","La proiezione raccomandata dall'Assemblea generale dell'Onu, in filigrana sotto il giornale: passa su una notizia e si illumina il Paese.",false],
+  ["🏅","Gioco e traguardi","Passaporto del lettore, timbri, 27 traguardi, serie di giorni di lettura e quiz del mattino.",true],
+  ["🔊","Ascolta le notizie","Ogni notizia si può far leggere ad alta voce dal browser (meglio con le voci «Natural» di Edge).",false],
+  ["📱","Anche sul telefono","L'app si installa dalla schermata Home, parte dalla Prima pagina e ha il pulsante «Cerca aggiornamento».",true],
+  ["📰","Un'edizione al mattino e una la sera","L'edizione completa alle 7:30 e un aggiornamento serale; ogni numero resta nell'archivio e si può condividere con WhatsApp, e-mail o PDF.",false]
 ];
+let novIdx = 0, novTimer = null;
 function renderNovitaBox(){
   const el = $("#novitaBox"); if(!el) return;
-  el.innerHTML = `<div class="g-lab">Novità e caratteristiche</div><div class="nov-li">${NOVITA.map(([i,t,d])=>`<details class="pillola nov"><summary><span aria-hidden="true">${i}</span> ${esc(t)}</summary><p>${esc(d)}</p></details>`).join("")}</div>`;
+  clearInterval(novTimer);
+  el.innerHTML = `<div class="g-lab">Cosa fa questo giornale</div>
+    <div class="nov-slide" aria-live="polite"></div>
+    <div class="nov-dots" role="tablist" aria-label="Caratteristiche">${NOVITA.map((x,i)=>`<button type="button" data-i="${i}" role="tab" aria-label="${esc(x[1])}"></button>`).join("")}</div>`;
+  const slide = el.querySelector(".nov-slide"), dots = [...el.querySelectorAll(".nov-dots button")];
+  const mostra = i=>{
+    novIdx = (i + NOVITA.length) % NOVITA.length; const [ic,t,d,nuovo] = NOVITA[novIdx];
+    slide.innerHTML = `<div class="nov-ic" aria-hidden="true">${ic}</div><div><b>${esc(t)}${nuovo?` <em class="nov-new">novità</em>`:""}</b><p>${esc(d)}</p></div>`;
+    dots.forEach((b,k)=>b.setAttribute("aria-selected",String(k===novIdx)));
+  };
+  mostra(novIdx);
+  dots.forEach(b=>b.onclick = ()=>{ mostra(+b.dataset.i); });
+  const riparti = ()=>{ clearInterval(novTimer); if(!window.matchMedia("(prefers-reduced-motion: reduce)").matches) novTimer = setInterval(()=>{ if(!el.matches(":hover") && !el.classList.contains("chiuso") && !document.hidden) mostra(novIdx+1); }, 7000); };
+  riparti();
 }
 function renderGame(){
   renderMondoBox(); renderFontiBox(); renderNovitaBox();
