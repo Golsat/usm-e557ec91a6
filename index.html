@@ -437,6 +437,21 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
 .flag-m{height:20px;width:auto;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.25)}
 .flag-r{margin:0 0 0 4px}
 /* vista app: barra a tendina delle sezioni (solo telefono) */
+/* barra degli strumenti razionalizzata: ricerca, Paese, filtri, mappa, ascolto e tre menu a tendina */
+.tools{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.tools #q{flex:1 1 240px;min-width:160px}
+.tools .grp{display:inline-flex;gap:0}
+.tools .grp button{margin:0;border-radius:0}
+.tools .grp button+button{margin-left:-2px}
+details.dd{position:relative}
+details.dd>summary{list-style:none;cursor:pointer;font:600 12px var(--sans);letter-spacing:.04em;text-transform:uppercase;border:1px solid var(--ink);background:var(--card);color:var(--ink);padding:8px 12px;user-select:none}
+details.dd>summary::-webkit-details-marker{display:none}
+details.dd>summary::after{content:" ▾";font-size:10px}
+details.dd[open]>summary{background:var(--ink);color:var(--paper)}
+details.dd .dd-p{position:absolute;z-index:50;top:100%;left:0;min-width:200px;margin-top:2px;padding:6px;display:flex;flex-direction:column;gap:4px;background:var(--card);border:1px solid var(--ink);box-shadow:0 8px 22px rgba(0,0,0,.2)}
+details.dd .dd-p button{text-align:left;width:100%;margin:0}
+.card.open .tg{display:inline-block;background:#c8352b;color:#fff;font-weight:800;padding:5px 14px;border-radius:99px;font-size:12.5px;letter-spacing:.02em;cursor:pointer}
+.card.open .tg:hover{background:#a82820}
 .tools .chips,#chips{display:none!important}          /* sostituita dalla tendina dei Paesi */
 .dpaese{display:inline-flex;align-items:center;gap:4px;font:600 12px var(--sans)}
 .dpaese select{font:600 12px var(--sans);padding:7px 8px;border:1px solid var(--ink);background:var(--card);color:var(--ink)}
@@ -473,6 +488,7 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
   .msec .destra .game{margin:0}
   .msec .tools{padding:0 10px 12px}
   .msec .tools button{margin:3px}
+  .msec details.dd .dd-p{position:static;box-shadow:none;margin-top:4px}
   .mbar .mnext:not([hidden]){display:block;font:800 13px var(--sans);padding:10px 11px;border:2px solid var(--ink);background:var(--card);color:var(--ink);border-radius:8px;white-space:nowrap;max-width:34%;overflow:hidden;text-overflow:ellipsis}
   #ticker{display:none}
   .ticker.tk-alto{display:flex;position:static;height:34px;margin:6px 0 4px;box-shadow:none;border-radius:6px;overflow:hidden}
@@ -482,6 +498,22 @@ a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var
 footer .aggiorna{text-align:center;margin:8px 0 0;font:12px var(--sans);color:var(--muted)}
 footer .aggiorna button{font:700 13px var(--sans);padding:9px 16px;border:2px solid var(--ink);background:transparent;color:var(--ink);border-radius:8px;cursor:pointer}
 footer .versione{font:600 11px var(--sans);letter-spacing:.04em;color:var(--muted);text-align:center;margin-top:10px}
+.meteo-largo{display:grid!important;grid-template-columns:minmax(300px,380px) 1fr;gap:16px;align-items:start}
+.meteo-qui{border:1px solid var(--hair);border-top:4px solid #5aa7d8;background:color-mix(in srgb,#5aa7d8 12%,var(--card));padding:14px 16px;position:sticky;top:12px}
+.mq-h{display:flex;justify-content:space-between;gap:10px;align-items:flex-start;margin-bottom:10px}
+.mq-h small{display:block;font:600 10.5px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.mq-h b{font:900 24px var(--display)}
+.mq-h em{font:12px var(--sans);color:var(--muted)}
+.mq-h button{font:700 12px var(--sans);padding:7px 10px;border:1px solid var(--ink);background:var(--card);color:var(--ink);cursor:pointer;white-space:nowrap}
+.mq-now{display:flex;gap:12px;align-items:center;font:14px/1.4 var(--sans);margin-bottom:10px}
+.mq-now .big{font-size:42px;line-height:1}
+.mq-now b{font:900 46px var(--display)}
+.mq-days{display:grid;grid-template-columns:repeat(auto-fit,minmax(88px,1fr));gap:6px;margin-bottom:12px}
+.mq-days>div{background:var(--card);border:1px solid var(--hair);padding:7px 6px;text-align:center;font:600 12.5px var(--sans);display:flex;flex-direction:column;gap:2px}
+.mq-days .em{font-size:22px}
+.mq-days small{font:11px var(--sans);color:var(--muted)}
+.mq-sat .met-frame iframe{height:460px}
+@media(max-width:900px){.meteo-largo{grid-template-columns:1fr}.meteo-qui{position:static;order:-1}.mq-sat .met-frame iframe{height:340px}}
 .met-tab{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:6px}
 .met-tab button{font-size:11.5px;padding:4px 10px;border-radius:99px}
 .met-frame iframe{width:100%;height:340px;border:1px solid var(--hair);display:block}
@@ -674,25 +706,32 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 
 <div class="tools">
   <input type="search" id="q" placeholder="Cerca per parola chiave, testata o città…" aria-label="Cerca">
-  <button id="allopen">Espandi tutto</button>
-  <button id="sezioniTutte" title="Riduce o espande tutte le sezioni">Riduci le sezioni</button>
-  <button id="onlyimp" aria-pressed="false" title="Mostra solo le notizie con due o tre stelle">★★ Più importanti</button>
-  <button id="onlygood" aria-pressed="false" title="Mostra solo le buone notizie, sparse nei vari temi">☀ Buone notizie</button>
-  <button id="onlysaved" aria-pressed="false">☆ Da leggere</button>
-  <button id="nascondiLette" title="Toglie dallo schermo le notizie che hai già aperto">Nascondi le lette</button>
-  <button id="mostraNasc" aria-pressed="false" title="Mostra solo le notizie nascoste, per riprenderle">Nascoste (0)</button>
-  <button id="ripristinaTutte" hidden title="Riporta in pagina tutte le notizie nascoste">Ripristina tutte</button>
-  <button id="mappaBtn" aria-pressed="false" title="Porta la mappa in primo piano e clicca un Paese">🌍 Esplora la mappa</button>
-  <button id="theme" aria-label="Cambia tema">Tema</button>
-  <button id="ttsBtn" title="Ascolta le notizie lette da una voce italiana">🔊 Ascolta</button>
-  <button id="graficaBtn" aria-pressed="false" title="Cambia la grafica: colori per tema oppure per Paese a cui si riferisce la notizia">Grafica: per tema</button>
-  <button id="leggibile" aria-pressed="false" title="Carattere ad alta leggibilità (Atkinson Hyperlegible)">Aa Leggibile</button>
-  <span class="sep" aria-hidden="true">|</span>
-  <button id="shNative" hidden>Condividi</button>
-  <button id="shWa" title="Invia i titoli dell'edizione su WhatsApp">WhatsApp</button>
-  <button id="shMail" title="Invia i titoli dell'edizione per e-mail">E-mail</button>
-  <button id="shPdf" title="Apre la stampa: scegli «Salva come PDF» e allega il file">PDF / Stampa</button>
   <span class="desk-only dpaese"><label for="dPaese">Paese: </label><select id="dPaese" aria-label="Scegli il Paese"></select></span>
+  <span class="grp" role="group" aria-label="Filtri">
+    <button id="onlyimp" aria-pressed="false" title="Mostra solo le notizie con due o tre stelle">★★ Importanti</button>
+    <button id="onlygood" aria-pressed="false" title="Mostra solo le buone notizie, sparse nei vari temi">☀ Buone</button>
+    <button id="onlysaved" aria-pressed="false" title="Mostra solo le notizie che hai segnato da leggere">☆ Da leggere</button>
+  </span>
+  <button id="mappaBtn" aria-pressed="false" title="Porta la mappa in primo piano e clicca un Paese">🌍 Mappa</button>
+  <button id="ttsBtn" title="Ascolta le notizie lette da una voce italiana">🔊 Ascolta</button>
+  <details class="dd"><summary>📖 Leggi</summary><div class="dd-p">
+    <button id="allopen">Espandi tutto</button>
+    <button id="sezioniTutte" title="Riduce o espande tutte le sezioni">Riduci le sezioni</button>
+    <button id="nascondiLette" title="Toglie dallo schermo le notizie che hai già aperto">Nascondi le lette</button>
+    <button id="mostraNasc" aria-pressed="false" title="Mostra solo le notizie nascoste, per riprenderle">Nascoste (0)</button>
+    <button id="ripristinaTutte" hidden title="Riporta in pagina tutte le notizie nascoste">Ripristina tutte</button>
+  </div></details>
+  <details class="dd"><summary>🎨 Aspetto</summary><div class="dd-p">
+    <button id="theme" aria-label="Cambia tema">Tema chiaro / scuro</button>
+    <button id="graficaBtn" aria-pressed="false" title="Cambia la grafica: colori per tema oppure per Paese a cui si riferisce la notizia">Grafica: per tema</button>
+    <button id="leggibile" aria-pressed="false" title="Carattere ad alta leggibilità (Atkinson Hyperlegible)">Aa Leggibile</button>
+  </div></details>
+  <details class="dd"><summary>📤 Condividi</summary><div class="dd-p">
+    <button id="shNative" hidden>Condividi…</button>
+    <button id="shWa" title="Invia i titoli dell'edizione su WhatsApp">WhatsApp</button>
+    <button id="shMail" title="Invia i titoli dell'edizione per e-mail">E-mail</button>
+    <button id="shPdf" title="Apre la stampa: scegli «Salva come PDF» e allega il file">PDF / Stampa</button>
+  </div></details>
   <div class="chips" id="chips"><span class="lab">Sguardo di:</span></div>
 </div>
 
@@ -937,7 +976,7 @@ function render(){
   $("#nav").innerHTML = SEZIONI.filter(s=>!offTemi.has(s.id)).map(s=>`<a href="#s-${s.id}" class="t-${s.id}${s.good?" good":""}">${s.nome}</a>`).join("");
   for(const s of SEZIONI){
     if(offTemi.has(s.id)) continue;
-    if(s.id==="meteo"){ const h = meteoHTML(s); if(h){ parti.push({full:false, html:h}); } continue; }   // il meteo è una tabella di dati, non un elenco di notizie
+    if(s.id==="meteo"){ const h = meteoHTML(s); if(h){ parti.push({full:filtroSezione==="meteo", html:h}); } continue; }   // il meteo è una tabella di dati, non un elenco di notizie
     const items = NEWS.filter(n=>n.sez===s.id && visibile(n));
     if(!items.length) continue; tot+=items.length;
     const ch = chiuse.has(s.id);
@@ -949,6 +988,7 @@ function render(){
     chiudi(); html = out; }
   main.innerHTML = html || '<p class="empty">Nessuna notizia corrisponde ai filtri scelti.</p>';
   ordinaColonne();
+  if(document.getElementById("meteoQui")) caricaMeteoQui();
   $("#conteggio").textContent = tot+" notizie";
   if(typeof renderTicker==="function") renderTicker();
   if(typeof renderRail==="function") renderRail();
@@ -962,13 +1002,43 @@ function meteoHTML(s){
   if(!M || !M.citta || !M.citta.length) return "";
   if(filtroSezione && filtroSezione!==s.id) return "";
   if(soloImportanti || soloBuone || soloSalvati || query || filtroNazione || mostraNascoste) return "";
-  const ch = chiuse.has(s.id), gruppi = {};
+  const ch = chiuse.has(s.id), gruppi = {}, largo = filtroSezione===s.id;     // scelta la sezione Meteo: a destra il box con il meteo del luogo da cui apri il sito
   M.citta.forEach(c=>(gruppi[c.g] = gruppi[c.g] || []).push(c));
   const riga = c=>`<tr><td>${esc(c.c)}</td><td><span class="em">${EMO_METEO(c.code[0])}</span> ${Math.round(c.min[0])}°–${Math.round(c.max[0])}° <small>${METEO[c.code[0]]||""}</small></td><td>domani ${EMO_METEO(c.code[1])} ${Math.round(c.min[1])}°–${Math.round(c.max[1])}°</td></tr>`;
   const corpo = Object.keys(gruppi).map(g=>`<h4>${esc(g)}</h4><table>${gruppi[g].map(riga).join("")}</table>`).join("");
-  return `<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}${s.nome}</span><span class="h2r"><small>${M.citta.length} città</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2><div class="grid"><div class="meteo-box"><div class="met-sat"><div class="met-tab"><button data-ov="satellite" aria-pressed="false">🛰 Satellite (nuvole)</button><button data-ov="rain" aria-pressed="false">☔ Previsione pioggia</button><button data-ov="temp" aria-pressed="false">🌡 Previsione temperature</button><button data-ov="wind" aria-pressed="false">💨 Vento</button></div><div class="met-frame"><p class="fn">Scegli una vista: le mappe sono animate e interattive (Windy, dati dei satelliti Meteosat e dei modelli ECMWF). Si caricano solo quando le apri.</p></div></div>${corpo}<p class="fn">Previsioni: ${esc(M.fonte)}. Temperature minime e massime di oggi e di domani.</p></div></div></section>`;
+  return `<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}${s.nome}</span><span class="h2r"><small>${M.citta.length} città</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2><div class="grid${largo?" meteo-largo":""}"><div class="meteo-box">${largo?"":`<div class="met-sat"><div class="met-tab"><button data-ov="satellite" aria-pressed="false">🛰 Satellite (nuvole)</button><button data-ov="rain" aria-pressed="false">☔ Previsione pioggia</button><button data-ov="temp" aria-pressed="false">🌡 Previsione temperature</button><button data-ov="wind" aria-pressed="false">💨 Vento</button></div><div class="met-frame"><p class="fn">Scegli una vista: le mappe sono animate e interattive (Windy, dati dei satelliti Meteosat e dei modelli ECMWF). Si caricano solo quando le apri.</p></div></div>`}${corpo}<p class="fn">Previsioni: ${esc(M.fonte)}. Temperature minime e massime di oggi e di domani.</p></div>${largo?`<div class="meteo-qui" id="meteoQui"><p class="fn">Cerco la tua posizione…</p></div>`:""}</div></section>`;
 }
 
+/* ===== METEO «QUI»: scelta la sezione Meteo, a destra il box con il tempo del luogo da cui apri il sito (posizione chiesta al browser, solo con il tuo consenso) ===== */
+const windyUrl = (lat,lon,ov,z)=>`https://embed.windy.com/embed2.html?lat=${lat}&lon=${lon}&detailLat=${lat}&detailLon=${lon}&zoom=${z}&level=surface&overlay=${ov}&product=ecmwf&menu=&message=true&marker=true&calendar=now&type=map&location=coordinates&metricWind=km%2Fh&metricTemp=%C2%B0C`;
+let posMeteo = null;
+function posizione(forza){
+  return new Promise(res=>{
+    if(!forza && posMeteo) return res(posMeteo);
+    const roma = {lat:41.9, lon:12.5, nome:"Roma", fallback:true};
+    if(!navigator.geolocation) return res(posMeteo = roma);
+    navigator.geolocation.getCurrentPosition(
+      p=>res(posMeteo = {lat:+p.coords.latitude.toFixed(3), lon:+p.coords.longitude.toFixed(3), nome:"", fallback:false}),
+      ()=>res(posMeteo = roma), {timeout:9000, maximumAge:600000});
+  });
+}
+async function caricaMeteoQui(forza){
+  const el = $("#meteoQui"); if(!el) return;
+  el.innerHTML = '<p class="fn">Cerco la tua posizione… (il browser può chiederti il permesso; se rifiuti mostro Roma)</p>';
+  const P = await posizione(forza);
+  if(!P.nome){ try{ const j = await (await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${P.lat}&longitude=${P.lon}&localityLanguage=it`)).json(); P.nome = j.city || j.locality || j.principalSubdivision || "La tua posizione"; }catch(e){ P.nome = "La tua posizione"; } }
+  let J = null;
+  try{ J = await (await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${P.lat}&longitude=${P.lon}&timezone=auto&forecast_days=7&current=temperature_2m,apparent_temperature,relative_humidity_2m,wind_speed_10m,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum`)).json(); }catch(e){}
+  const el2 = $("#meteoQui"); if(!el2) return;
+  const c = J && J.current, d = J && J.daily;
+  const ora = c ? `<div class="mq-now"><span class="em big">${EMO_METEO(c.weather_code)}</span><b>${Math.round(c.temperature_2m)}°</b><div>${esc(METEO[c.weather_code]||"")}<br><small>Percepita ${Math.round(c.apparent_temperature)}° · umidità ${c.relative_humidity_2m}% · vento ${Math.round(c.wind_speed_10m)} km/h</small></div></div>` : `<p class="fn">Previsioni non disponibili in questo momento.</p>`;
+  const giorni = d ? `<div class="mq-days">${d.time.map((t,i)=>`<div><b>${i===0?"Oggi":new Date(t+"T12:00:00").toLocaleDateString("it-IT",{weekday:"short"})}</b><span class="em">${EMO_METEO(d.weather_code[i])}</span>${Math.round(d.temperature_2m_min[i])}°–${Math.round(d.temperature_2m_max[i])}°<small>${d.precipitation_sum[i]>0.1?"💧 "+d.precipitation_sum[i].toFixed(1)+" mm":"asciutto"}</small></div>`).join("")}</div>` : "";
+  el2.innerHTML = `<div class="mq-h"><div><small>Il tuo meteo · da dove apri il sito</small><b>📍 ${esc(P.nome)}</b>${P.fallback?" <em>(posizione non concessa: mostro Roma)</em>":""}</div><button id="mqPos" type="button">Usa la mia posizione</button></div>
+    ${ora}${giorni}
+    <div class="met-sat mq-sat" data-lat="${P.lat}" data-lon="${P.lon}" data-z="7"><div class="met-tab"><button data-ov="satellite" aria-pressed="true">🛰 Satellite</button><button data-ov="rain" aria-pressed="false">☔ Pioggia</button><button data-ov="temp" aria-pressed="false">🌡 Temperature</button><button data-ov="wind" aria-pressed="false">💨 Vento</button></div>
+    <div class="met-frame"><iframe src="${windyUrl(P.lat,P.lon,"satellite",7)}" loading="lazy" title="Satellite" referrerpolicy="no-referrer"></iframe><p class="fn">Mappe: Windy.com (satelliti Meteosat, modelli ECMWF) · previsioni: Open-Meteo. Per le immagini ufficiali: <a href="https://view.eumetsat.int/" target="_blank" rel="noopener">EUMETSAT View</a>.</p></div></div>`;
+  $("#mqPos").onclick = ()=>caricaMeteoQui(true);
+}
 /* ===== COLONNE BILANCIATE: ogni sezione resta intera in una colonna; si riempie sempre la colonna piÃ¹ corta ===== */
 function ordinaColonne(){
   document.querySelectorAll("#main .masonry").forEach(m=>{
@@ -1269,7 +1339,7 @@ document.addEventListener("click",e=>{            // mappe meteo (satellite e pr
   const b = e.target.closest(".met-tab button"); if(!b) return;
   const box = b.closest(".met-sat"); box.querySelectorAll(".met-tab button").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));
   const ov = b.dataset.ov;
-  const url = `https://embed.windy.com/embed2.html?lat=42&lon=12&detailLat=41.9&detailLon=12.5&zoom=5&level=surface&overlay=${ov}&product=ecmwf&menu=&message=true&marker=&calendar=now&type=map&location=coordinates&metricWind=km%2Fh&metricTemp=%C2%B0C`;
+  const url = windyUrl(box.dataset.lat||42, box.dataset.lon||12, ov, box.dataset.z||5);
   box.querySelector(".met-frame").innerHTML = `<iframe src="${url}" loading="lazy" title="${esc(b.textContent)}" referrerpolicy="no-referrer"></iframe><p class="fn">Mappa: Windy.com · ${esc(b.textContent)}. Per le immagini ufficiali dei satelliti: <a href="https://view.eumetsat.int/" target="_blank" rel="noopener">EUMETSAT View</a>.</p>`;
 });
 $("#rassegna").addEventListener("click",e=>{
@@ -1633,7 +1703,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1425";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1432";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1658,7 +1728,9 @@ async function avvia(){
   }
   costruisciArchivio();
   const richiesta = new URLSearchParams(location.search).get("e");
-  if(MQ.matches && !location.hash) filtroSezione = "prima";          // sul telefono si parte dalla Prima pagina; le altre sezioni dalla tendina
+  const sezUrl = new URLSearchParams(location.search).get("s");        // index.html?s=meteo apre direttamente una sezione
+  if(sezUrl) filtroSezione = sezUrl;
+  else if(MQ.matches && !location.hash) filtroSezione = "prima";          // sul telefono si parte dalla Prima pagina; le altre sezioni dalla tendina
   apri(richiesta && window.EDIZIONI[richiesta] ? richiesta : ultima);
   initRiduci();
   /* collegamento diretto a una notizia: index.html?e=AAAA-MM-GG#id */
@@ -1677,7 +1749,7 @@ function toggle(card, force, massivo){
   const open = force!==undefined ? force : !card.classList.contains("open");
   const id = card.dataset.id;
   card.classList.toggle("open",open); card.setAttribute("aria-expanded",open);
-  card.querySelector(".tg").textContent = open?"Chiudi ▴":"Apri ▾";
+  card.querySelector(".tg").textContent = open?"✕ Chiudi":"Apri ▾";
   if(open){
     letti.add(id); store.set("usm_letti",[...letti]); card.classList.add("read"); evidenzia(id);
     if(!massivo && !game.aperti.includes(id)){ timers[id]=setTimeout(()=>award(id), SECONDI_LETTURA*1000); }
@@ -1818,11 +1890,16 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1425";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1432";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
 }
+/* menu a tendina della barra degli strumenti: se ne apre uno alla volta, si chiudono con un clic fuori o dopo una scelta */
+document.addEventListener("click",e=>{
+  const dentro = e.target.closest("details.dd");
+  document.querySelectorAll("details.dd[open]").forEach(d=>{ if(d!==dentro || (e.target.closest(".dd-p button") && !MQ.matches)) d.open = false; });
+});
 /* pulsante «Cerca aggiornamento»: confronta la versione in uso con quella online; se è cambiata svuota la copia salvata e ricarica */
 $("#aggiorna").addEventListener("click", async ()=>{
   const out = $("#aggiornaEsito"); out.textContent = "Controllo…";
