@@ -3,6 +3,522 @@ window.EDIZIONI["2026-10-10-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z979a1e31",
+   "sez": "prima",
+   "titolo": "Volo FlyDubai, gli Emirati: il copilota voleva schiantare l'aereo sull'aeroporto di Tel Aviv",
+   "orig": "FlyDubai co-pilot sought to crash plane into Tel Aviv's main airport: UAE",
+   "lead": "Le autorità degli Emirati Arabi Uniti hanno dichiarato venerdì che il copilota del volo FlyDubai diretto a Tel Aviv voleva prendere il controllo dell'aereo e lanciarlo contro il terminal passeggeri dell'aeroporto Ben Gurion, il principale scalo internazionale di Israele. Il mese scorso l'uomo aveva aggredito il comandante con un'ascia. L'indagine preliminare indica che si era ispirato agli attentati dell'11 settembre e che proprio quegli attacchi lo avrebbero spinto a diventare pilota.",
+   "more": [
+    "FlyDubai è una compagnia aerea a basso costo con base a Dubai, negli Emirati Arabi Uniti. L'aeroporto Ben Gurion, vicino a Tel Aviv, è il principale scalo internazionale di Israele. I collegamenti aerei diretti tra Emirati e Israele sono diventati possibili dopo la normalizzazione dei rapporti diplomatici tra i due Paesi."
+   ],
+   "fonti": [
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/flydubai-copilot-attack-plan-tel-aviv-9.7376218?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada"
+    },
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Washington Post",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.washingtonpost.com/world/2026/10/09/flydubai-co-pilot-planned-911-style-attack-israels-main-airport-uae-says/",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/alleged-flydubai-hijacker-said-9-11-attacks-spurred-him-to-become-a-pilot-early-investigation-finds/",
+     "angolo": "",
+     "atlas": "Egypt"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:42"
+  },
+  {
+   "id": "z3fc75e52",
+   "sez": "mondo",
+   "titolo": "Cisgiordania, coloni israeliani contro i raccoglitori di olive palestinesi",
+   "orig": "Jerusalem Daily: Israeli settlers attack olive farmers",
+   "lead": "Durante la raccolta delle olive di quest'anno, coloni israeliani hanno rubato i frutti e aggredito agricoltori palestinesi in Cisgiordania. Secondo Middle East Eye, sabato a Qaffin, a nord di Tulkarem, coloni protetti dalle forze israeliane hanno sottratto raccolto e attrezzi e portato via tre contadini; altrove agli agricoltori è stato impedito l'accesso agli uliveti. Venerdì sera, durante un raid militare israeliano a Gerico, due giovani palestinesi sono stati feriti da colpi d'arma da fuoco. A Gaza, scrive The Globe and Mail, la guerra ha distrutto oltre un milione di ulivi.",
+   "more": [
+    "La raccolta delle olive è un momento centrale dell'economia e della cultura palestinese: l'ulivo è simbolo del legame con la terra. Ogni autunno, nei territori occupati della Cisgiordania, la stagione è segnata da tensioni con i coloni degli insediamenti israeliani e da limitazioni all'accesso ai campi."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-kidnap-three-palestinian-farmers-west-bethlehem",
+     "angolo": "",
+     "atlas": ""
+    },
+    {
+     "n": "Bianet English",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://bianet.org/haber/court-halts-solar-power-project-in-izmir-after-6-000-olive-trees-cut-down-324235",
+     "angolo": "",
+     "atlas": "Turkey"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-gaza-olive-harvest-trees-war/",
+     "angolo": "",
+     "atlas": "Canada"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-shot-israeli-forces-block-olive-harvest-west-bank",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:42"
+  },
+  {
+   "id": "zd5745dbe",
+   "sez": "mondo",
+   "titolo": "Capo Verde, i primi cento giorni del governo di Francisco Carvalho",
+   "orig": "Os primeiros 100 dias do Governo de Francisco Carvalho: sinais positivos, expectativas e responsabilidade",
+   "lead": "Sul settimanale A Nação di Praia, l'opinionista Estêvão Rodrigues traccia un primo bilancio dei cento giorni del governo di Francisco Carvalho a Capo Verde. Secondo l'autore è ancora presto per un giudizio definitivo, ma emergono già il metodo, le priorità e il modo in cui l'esecutivo intende affrontare i problemi del Paese. Tra i segnali positivi indica l'iniziativa di diversi ministeri, una comunicazione più diretta e la disponibilità al dialogo con i comuni, a prescindere dal loro colore politico. Il commento parla di aspettative e responsabilità.",
+   "more": [
+    "Capo Verde è un arcipelago dell'Atlantico al largo dell'Africa occidentale, ex colonia portoghese, con capitale Praia. È considerato una delle democrazie più stabili del continente africano, con alternanza regolare al governo tra i principali partiti."
+   ],
+   "fonti": [
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/10/os-primeiros-100-dias-do-governo-de-francisco-carvalho-sinais-positivos-expectativas-e-responsabilidade/",
+     "angolo": "",
+     "atlas": "Cabo Verde"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/fumaca-de-queimadas-encobre-manaus-pelo-terceiro-dia-consecutivo.shtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/am/amazonas/noticia/2026/10/10/refoco-governo-federal-queimadas-am.ghtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:42"
+  },
+  {
+   "id": "zd0e1cdbd",
+   "sez": "mondo",
+   "titolo": "Caso Marset, nuovo rapporto sulle indagini sulla sorella del narcotrafficante",
+   "orig": "¿Qué se sabe del caso Marset que se investiga en Paraguay?",
+   "lead": "La commissione di procuratori che indaga su Tatiana Marset, sorella del narcotrafficante uruguaiano Sebastián Marset, presenterà lunedì 12 ottobre un rapporto aggiornato alla nuova procuratrice dipartimentale supplente di Santa Cruz, Mabel Andrade. Lo segnala il quotidiano boliviano El Deber, che riassume ciò che si sa del caso, legato anche a indagini in Paraguay. Il passaggio di consegne alla nuova responsabile della procura dovrebbe fare il punto sullo stato dell'inchiesta. Le fonti non precisano quali accuse siano contestate alla donna.",
+   "more": [
+    "Sebastián Marset è un narcotrafficante uruguaiano considerato tra i più ricercati del Sud America, accusato di aver gestito traffici di cocaina tra più Paesi della regione. Santa Cruz de la Sierra è la città più popolosa della Bolivia e il suo principale centro economico."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/sabe-caso-marset-investiga-paraguay_1791644981",
+     "angolo": "",
+     "atlas": "Bolivia"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/se/sergipe/noticia/2026/10/10/policia-civil-investiga-caso-de-injuria-racial-contra-atleta-adolescente-na-barra-dos-coqueiros.ghtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:42"
+  },
+  {
+   "id": "z51e140db",
+   "sez": "salute",
+   "titolo": "«Interrompere la gravidanza è stata la nostra scelta più amorevole»",
+   "orig": "Baby termination was 'our most loving choice'",
+   "lead": "Rosanna Brown racconta alla BBC la decisione di interrompere la gravidanza, definita da lei la scelta più amorevole che lei e il partner potessero compiere. I medici le avevano consigliato di porre fine alla gestazione perché il bambino era affetto da una malattia che ne metteva in pericolo la vita. La testimonianza mette al centro il peso emotivo di una decisione presa dopo una diagnosi grave durante la gravidanza e il modo in cui la famiglia l'ha vissuta. Il racconto è proposto in forma di storia personale.",
+   "more": [
+    "Nel Regno Unito l'interruzione di gravidanza è consentita anche in fasi avanzate quando gli esami prenatali rivelano gravi anomalie del feto. In questi casi i medici informano i genitori sulla prognosi e sulle possibili scelte, spesso con il supporto di servizi di consulenza."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cvp8g7z95ggno",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/tech/six-new-coffee-machines-for-the-design-loving-caffeine-addict",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:42"
+  },
+  {
+   "id": "zfad40d85",
+   "sez": "viaggi",
+   "titolo": "Perché gli scandinavi non dicono «per favore»?",
+   "orig": "Why don't Scandinavians say please?",
+   "lead": "Chi visita la Scandinavia può notare che nella conversazione quotidiana manca spesso un equivalente diretto di «per favore». La BBC Travel indaga sul perché di questa abitudine linguistica e spiega che la risposta rivela un modo molto diverso di concepire la cortesia rispetto a quello di altri Paesi. L'articolo invita i viaggiatori a non scambiare per maleducazione ciò che è invece frutto di regole sociali differenti, e a capire come la gentilezza si esprima in altre forme. Lo riferisce BBC Travel.",
+   "more": [
+    "La Scandinavia comprende Danimarca, Norvegia e Svezia, Paesi con lingue affini. In queste culture la gentilezza si esprime spesso con formule di ringraziamento, toni informali e rispetto dell'uguaglianza tra le persone, più che con richieste formali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Travel",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.com/travel/article/20261008-why-is-there-no-word-for-please-in-the-nordic-languages",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:42"
+  },
+  {
+   "id": "zc89c1ee2",
+   "sez": "viaggi",
+   "titolo": "Connecticut, un percorso riscopre i dimenticati processi alle streghe",
+   "orig": "Connecticut's forgotten witch trial past",
+   "lead": "Nello Stato americano del Connecticut un nuovo itinerario dedicato alla storia «infestata» del territorio riporta alla luce un passato poco conosciuto: i processi per stregoneria che vi si svolsero in epoca coloniale. La BBC Travel racconta come il percorso valorizzi questa pagina dimenticata, offrendo a visitatori e appassionati un modo diverso per scoprire la regione e le sue vicende più cupe. L'iniziativa punta sul turismo legato alla storia e al mistero, tema particolarmente seguito nel periodo che precede Halloween. Lo riferisce BBC Travel.",
+   "more": [
+    "Il Connecticut è uno degli Stati del New England, nel nord-est degli Stati Uniti, tra le prime aree colonizzate dagli inglesi. Nel Seicento le colonie puritane del New England celebrarono diversi processi per stregoneria, il più famoso dei quali fu quello di Salem, in Massachusetts."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Travel",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.com/travel/article/20261008-connecticuts-forgotten-witch-trial-past",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:42"
+  },
+  {
+   "id": "z861d28e6",
+   "sez": "economia",
+   "titolo": "Ue e Cina d'accordo per dimezzare l'import di auto elettriche e ibride",
+   "orig": "Agreement between the EU and China regarding the reduction of electric and hybrid car imports in the community space",
+   "lead": "L'Unione europea e la Cina hanno raggiunto un'intesa per ridurre del 50 per cento, cioè della metà, le importazioni di auto elettriche e ibride nello spazio comunitario. L'accordo è stato annunciato da un commissario europeo, il cui nome non compare per esteso nel testo disponibile. L'intesa riguarda sia i veicoli completamente elettrici sia quelli ibridi provenienti dalla Cina e destinati ai Paesi dell'Unione. La notizia non precisa i tempi di applicazione della riduzione né le eventuali contropartite concordate tra le due parti. Lo riferisce IPN.",
+   "more": [
+    "La politica commerciale è una competenza esclusiva dell'Unione europea: a negoziare con i Paesi terzi è la Commissione europea, a nome di tutti gli Stati membri. Negli ultimi anni le auto elettriche costruite in Cina, spesso più economiche di quelle europee, si sono diffuse rapidamente nel mercato del continente, sollevando timori per l'industria automobilistica europea."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/agreement-between-the-eu-and-china-regarding-the-reduction-of-electric-and-hybrid-car-imports-in-the-community-space/",
+     "angolo": "",
+     "atlas": "Moldova"
+    },
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/tajikistan-fuel-imports-us-iran/",
+     "angolo": "",
+     "atlas": "Kazakhstan"
+    },
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/09/belarus-becomes-tajikistans-largest-meat-supplier/",
+     "angolo": "",
+     "atlas": "Tajikistan"
+    },
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/09/tajikistan-imported-nearly-99-million-worth-of-oils-despite-the-opening-of-new-plants/",
+     "angolo": "",
+     "atlas": "Tajikistan"
+    },
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/10/ministry-of-agriculture-signs-veterinary-health-certificate-agreement-with-romania-for-meat-and-livestock-imports/",
+     "angolo": "",
+     "atlas": "Libya"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:39"
+  },
+  {
+   "id": "z48699311",
+   "sez": "mondo",
+   "titolo": "Evasione di dodici detenuti dal carcere di Kangbayi, a Beni",
+   "orig": "12 détenus s’évadent de la prison centrale de Kangbayi à Beni",
+   "lead": "Dodici detenuti sono evasi dalla prigione centrale di Kangbayi, nella città di Beni, nella provincia del Nord Kivu, nella Repubblica democratica del Congo. La fuga è avvenuta nella notte tra venerdì e sabato 10 ottobre. Secondo le prime informazioni, le circostanze in cui i prigionieri sono riusciti a scappare sollevano numerosi interrogativi sulle condizioni di sicurezza all'interno dell'istituto penitenziario. Il carcere si trova in piena città, a Beni, che è il capoluogo provvisorio della provincia. Le fonti non forniscono per ora dettagli sull'identità dei fuggitivi.",
+   "more": [
+    "Il Nord Kivu è una provincia dell'est della Repubblica democratica del Congo, al confine con l'Uganda e il Ruanda. Da molti anni la regione è segnata dall'attività di numerosi gruppi armati e da gravi problemi di sicurezza, e l'area di Beni è tra quelle più colpite dalle violenze contro i civili."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/10/actualite/securite/12-detenus-sevadent-de-la-prison-centrale-de-kangbayi-beni",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/evasion-le-directeur-de-la-prison-davaradrano-suspendu-de-ses-fonctions-apres-la-sortie-presumee-illegale-de-11-detenus-chinois/",
+     "angolo": "",
+     "atlas": "Madagascar"
+    },
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/10/beni-12-prisonniers-sevadent-la-prison-centrale-de-kangbayi",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:39"
+  },
+  {
+   "id": "z95aa7921",
+   "sez": "mondo",
+   "titolo": "India, rilasciati Mamata Banerjee, Kejriwal e 7.000 manifestanti dopo il fermo a Delhi",
+   "orig": "Mamata, Kejriwal and 7,000 protesters released; CJP leaders still in detention",
+   "lead": "A New Delhi la polizia ha fermato diversi leader dell'opposizione indiana, tra cui gli ex capi di governo statali Mamata Banerjee, Arvind Kejriwal e Pinarayi Vijayan, prima di una manifestazione che chiedeva riforme elettorali e le dimissioni del capo della Commissione elettorale, Gyanesh Kumar. La protesta era legata alla revisione delle liste elettorali, nota come SIR. Banerjee e altri dirigenti del suo partito sono stati bloccati alla fermata dell'autobus di South Avenue mentre volevano raggiungere Jantar Mantar. In seguito Banerjee, Kejriwal e circa 7.000 manifestanti sono stati rilasciati, mentre alcuni leader del CJP restano in stato di fermo.",
+   "more": [
+    "La Commissione elettorale dell'India è l'organo costituzionale che organizza e sorveglia le elezioni nel Paese, compresa la tenuta delle liste degli elettori. Jantar Mantar è un antico osservatorio astronomico nel centro di New Delhi; la zona circostante è da anni uno dei luoghi in cui si svolgono più spesso le manifestazioni di protesta nella capitale."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/delhi-protests-mamata-kejriwal-and-7000-protesters-released-cjp-leaders-still-in-detention/articleshow/134858005.cms",
+     "angolo": "",
+     "atlas": "India"
+    },
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/mamata-banerjee-kejriwal-and-vijayan-detained-in-delhi-protest",
+     "angolo": "",
+     "atlas": "Bahrain"
+    },
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/sir-protest-former-cms-mamata-banerjee-pinarayi-vijayan-among-opposition-leaders-detained-from-delhi/articleshow/134851195.cms",
+     "angolo": "",
+     "atlas": "India"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Delhi/mamata-banerjee-other-trinamool-congress-leaders-delhi-protest-cec-gyanesh-kumar-updates/article71567576.ece",
+     "angolo": "",
+     "atlas": "India"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:39"
+  },
+  {
+   "id": "zf5069e01",
+   "sez": "cultura",
+   "titolo": "Ritrovati i dipinti di Renoir rubati a Cagnes-sur-Mer",
+   "orig": "Les tableaux de Renoir volés sur la Côte d'Azur ont été retrouvés",
+   "lead": "Sono stati ritrovati i due dipinti di Pierre-Auguste Renoir rubati a settembre dal museo Renoir di Cagnes-sur-Mer, nel dipartimento delle Alpi Marittime, sulla Costa Azzurra. Nell'ambito dell'inchiesta aperta dopo il furto sono state arrestate sei persone. La fonte non indica quali opere fossero state sottratte, quale fosse il loro valore né dove siano state recuperate. Si chiude così, almeno per quanto riguarda le tele, una vicenda che aveva colpito uno dei luoghi più legati alla memoria del pittore impressionista. Lo riferisce France 24.",
+   "more": [
+    "Pierre-Auguste Renoir è uno dei maestri dell'Impressionismo francese, celebre per le sue scene di vita all'aperto, i ritratti e i nudi femminili. Negli ultimi anni di vita si stabilì a Cagnes-sur-Mer, nella tenuta di Les Collettes, dove morì: la sua casa, circondata da un uliveto, è oggi il museo a lui dedicato."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261010-les-tableaux-de-renoir-vol%C3%A9s-sur-la-c%C3%B4te-d-azur-ont-%C3%A9t%C3%A9-retrouv%C3%A9s",
+     "angolo": "",
+     "atlas": "France"
+    },
+    {
+     "n": "Monaco Tribune",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.monaco-tribune.com/2026/10/que-faire-a-monaco-et-sur-la-cote-dazur-ce-week-end/",
+     "angolo": "",
+     "atlas": "Monaco"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:39"
+  },
+  {
+   "id": "zc2e47d29",
+   "sez": "ambiente",
+   "titolo": "Monbiot: la terza pista di Heathrow sarebbe un disastro costoso, Burnham la fermi",
+   "orig": "The expansion of Heathrow would be an expensive disaster for Britain and the world. Burnham needs to block it | George Monbiot",
+   "lead": "Sul Guardian il giornalista e ambientalista George Monbiot sostiene che una terza pista all'aeroporto londinese di Heathrow sarebbe un disastro costoso per la Gran Bretagna e per il mondo, e chiede a Burnham di bloccarla. Citando stime del ministero dei Trasporti, e non di gruppi ambientalisti, scrive che l'opera costerebbe al Paese tra 23,4 e 62,5 miliardi di sterline. Ricorda anche che Rachel Reeves, da cancelliera dello Scacchiere, aveva attribuito alla pista una crescita del Pil dello 0,43 per cento, cifra poi risultata tratta da un rapporto commissionato dall'aeroporto. Per l'autore bisogna volare meno, non di più. Lo riferisce The Guardian.",
+   "more": [
+    "Heathrow è il principale aeroporto di Londra e uno dei più trafficati d'Europa. Il progetto di costruire una terza pista è discusso da decenni nel Regno Unito: i sostenitori lo considerano necessario per l'economia, mentre ambientalisti e residenti si oppongono per l'aumento delle emissioni, del rumore e dell'inquinamento."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/commentisfree/2026/oct/03/heathrow-third-runway-climate-warnings-economic-reality",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/britains-burnham-reiterates-complete-solidarity-for-zelensky-after-trump-clash",
+     "angolo": "",
+     "atlas": "Singapore"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:39"
+  },
+  {
+   "id": "z7ecd7b7d",
+   "sez": "mondo",
+   "titolo": "Tennessee, la donna sopravvissuta a due iniezioni letali torna in prigione",
+   "orig": "Tennessee. Mulher que sobreviveu a duas injeções letais volta para a prisão",
+   "lead": "Christa Pike, cittadina statunitense condannata a morte e sopravvissuta a due iniezioni letali, ha ricevuto sabato 10 ottobre il via libera per lasciare l'ospedale ed è stata riportata in prigione. Lo hanno comunicato i suoi avvocati, spiegando che in carcere continuerà a ricevere cure mediche. Il ricovero si era reso necessario dopo il tentativo, non riuscito, di eseguire la sua condanna in Tennessee. La vicenda resta seguita con attenzione anche fuori dagli Stati Uniti, compresi i media di lingua portoghese in Europa e in Brasile.",
+   "more": [
+    "L'iniezione letale è il metodo di esecuzione più diffuso negli Stati Uniti: prevede la somministrazione per via endovenosa di uno o più farmaci destinati a causare la morte. Il Tennessee è tra gli Stati americani che applicano ancora la pena capitale, e il ricorso a questi farmaci è da anni oggetto di ricorsi e controversie."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/tennessee-mulher-que-sobreviveu-a-duas-injecoes-letais-volta-para-a-prisao_n1770909",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/mulher-que-sobreviveu-a-duas-injecoes-letais-recebe-alta-e-volta-a-prisao-nos-eua.shtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:39"
+  },
+  {
+   "id": "z942e91fb",
+   "sez": "italia",
+   "titolo": "Furto record in Toscana: rubate 30.000 bottiglie di vino rosso",
+   "orig": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+   "lead": "Una banda di uomini mascherati ha rubato circa 30.000 bottiglie di vino rosso da un magazzino in Toscana, appartenente a un'azienda vinicola con sede a Firenze. Il valore del bottino è stimato in circa 5 milioni di euro, pari a 4,2 milioni di sterline secondo i calcoli di Sky News. A dare notizia del furto è stato lo stesso produttore. Secondo la BBC, che cita resoconti di stampa, si tratterebbe di uno dei più grandi furti di questo genere mai avvenuti in Italia. Le fonti non forniscono dettagli sull'identità dei responsabili.",
+   "more": [
+    "La Toscana è una delle regioni vinicole più celebri al mondo, nota soprattutto per i suoi vini rossi, come il Chianti e il Brunello di Montalcino, ottenuti in gran parte da uve Sangiovese. Le bottiglie di pregio possono avere un valore molto alto e sono per questo esposte al rischio di furti."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/a-gang-of-masked-men-stole-42m-worth-of-red-wine-from-marchesi-antinori-italys-largest-family-run-producer-13596841",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "23:39"
+  },
+  {
    "id": "z22fad7a2",
    "sez": "sport",
    "titolo": "Gli All Blacks travolgono i Wallabies 50-19 a Eden Park e tengono la Bledisloe Cup",
@@ -143,6 +659,22 @@ window.EDIZIONI["2026-10-10-sera"] = {
      "u": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/10/diomande-sienta-a-vinicius-en-el-banquillo/",
      "angolo": "",
      "atlas": "Paraguay"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/fudbal/830814/diomande-donio-pobjedu-neubjedljivom-realu-vinisijus-obiljezio-mec-nesportskim-potezom",
+     "angolo": "",
+     "atlas": "Montenegro"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/sport/kosarka/sjajni-tayler-persons-donio-pobjedu-sirokom-brijegu-protiv-cedevita-olimpije/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz."
     }
    ],
    "data": "10 ott",
@@ -4805,6 +5337,70 @@ window.EDIZIONI["2026-10-10-sera"] = {
      "u": "https://www.vrt.be/vrtnws/nl/2026/10/10/christa-pike-van-ziekenhuis-weer-naar-de-cel.rss.xml",
      "angolo": "",
      "atlas": "Belgium"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3444704/",
+     "angolo": "",
+     "atlas": "Austria"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/christa-pike-verlaesst-nach-gescheiterter-hinrichtung-verlaesst-krankenhaus-a-a4e1bdd6-03c5-4237-a480-40f3661533df#ref=rss",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/united-states/us-lethal-injection-survivor-christa-pike-returns-to-prison",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/us-lethal-injection-survivor-returns-prison-6449676",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/pena-morte-pike-dimessa-dallospedale--731abadd-4070-4520-b6b9-db8b65ce6da9.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/christa-pike-dimessa-dallospedale-torna-in-carcere-in-usa_cb14a5e8-b258-46a0-b5e5-479d541f6567.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/10/news/christa_pike_uscita_ospedale_iniezione_letale_tennessee-425639484/",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "10 ott",
@@ -14233,7 +14829,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "spirit",
-   "sez": "viaggi",
+   "sez": "economia",
    "titolo": "Google offre 10 milioni di dollari per le email della fallita Spirit Airlines. Protestano i parlamentari Usa",
    "orig": "Spirit Airlines fallisce, Google compra 100 milioni di email: rivolta tra i parlamentari Usa",
    "lead": "Google ha offerto 10 milioni di dollari per gli archivi digitali della compagnia aerea fallita Spirit Airlines, circa 100 milioni di email che servirebbero ad addestrare sistemi di intelligenza artificiale. Oltre 120 parlamentari americani contestano la vendita: secondo loro i dipendenti non avrebbero autorizzato l'uso dei propri dati. Lo riferisce la Repubblica.",
@@ -15993,7 +16589,21 @@ window.EDIZIONI["2026-10-10-sera"] = {
   "ze00ee8f7": "Good News Network ricorda l'episodio come una delle imprese più celebri di Ty Cobb, dando risalto ai dettagli del momento.",
   "z0cc31da6": "Good News Network racconta la nascita del forno a microonde come l'esito di un'osservazione casuale fatta da un ingegnere.",
   "z8ca0b5ab": "Good News Network punta sull'invito a osservare il cielo, indicando le Orionidi come l'appuntamento di ottobre da non perdere.",
-  "z03b44620": "Good News Network presenta l'impianto solare come un caso in cui energia rinnovabile e tutela di una specie vulnerabile procedono insieme."
+  "z03b44620": "Good News Network presenta l'impianto solare come un caso in cui energia rinnovabile e tutela di una specie vulnerabile procedono insieme.",
+  "z861d28e6": "La testata moldava mette in evidenza l'entità del taglio concordato e il fatto che l'annuncio sia arrivato direttamente dalla Commissione europea.",
+  "z48699311": "Radio Okapi insiste sui dubbi che l'evasione solleva sulla sicurezza del carcere, mentre Actualite.cd sottolinea che il fatto è avvenuto in pieno centro del capoluogo provvisorio del Nord Kivu.",
+  "z95aa7921": "Il Times of India mette in evidenza il rilascio di migliaia di persone, The Hindu racconta il fermo di Banerjee alla fermata dell'autobus, il Daily Tribune insiste sulle richieste dei manifestanti.",
+  "zf5069e01": "France 24 mette in primo piano il recupero delle opere e gli arresti, senza entrare nei dettagli del furto o delle indagini.",
+  "zc2e47d29": "Il commento di Monbiot punta a smontare l'argomento della crescita economica usando i dati dello stesso governo britannico.",
+  "z7ecd7b7d": "RTP mette in evidenza la prosecuzione delle cure in carcere, mentre la Folha de S.Paulo insiste sul tentativo fallito di esecuzione e sulla fonte della notizia, gli avvocati.",
+  "z942e91fb": "La BBC sottolinea la portata eccezionale del colpo per l'Italia, mentre Sky News dà risalto alla banda di uomini mascherati e alla testimonianza del produttore.",
+  "z979a1e31": "CBC insiste sul piano contro il terminal; Sky News e Washington Post sul modello dell'11 settembre e sull'identità del sospettato; Egypt Independent sul fatto che quegli attentati lo avrebbero spinto a diventare pilota.",
+  "z3fc75e52": "Al Jazeera e Middle East Eye raccontano le aggressioni e i rapimenti in Cisgiordania; The Globe and Mail allarga lo sguardo ai danni della guerra sugli uliveti di Gaza.",
+  "zd5745dbe": "Si tratta di un commento d'opinione che sottolinea i segnali positivi del nuovo esecutivo pur invitando alla prudenza nel giudizio.",
+  "zd0e1cdbd": "El Deber si concentra sul passaggio dell'inchiesta alla nuova procuratrice e sul ruolo della sorella del narcotrafficante.",
+  "z51e140db": "La BBC privilegia la dimensione umana ed emotiva della scelta, attraverso la voce diretta della madre.",
+  "zfad40d85": "BBC Travel usa una curiosità linguistica per spiegare differenze culturali utili a chi viaggia.",
+  "zc89c1ee2": "BBC Travel mette in evidenza come una pagina oscura della storia locale diventi occasione di turismo culturale."
  },
  "contesti": {
   "riad": "La guerra civile yemenita è cominciata nel 2014; dal 2015 l'Arabia Saudita guida una coalizione a sostegno del governo riconosciuto contro gli Houthi. Il conflitto si è riacceso a luglio, nel quadro della guerra con l'Iran. All'inizio di ottobre Riad e il governo yemenita hanno lanciato un'offensiva di grande portata contro i ribelli, e gli Houthi hanno risposto con missili e droni su obiettivi sauditi. I bilanci arrivano in gran parte dalle parti e non sono verificati.",
@@ -20286,6 +20896,107 @@ window.EDIZIONI["2026-10-10-sera"] = {
     "Saudi Arabia"
    ],
    "pt": []
+  },
+  "z861d28e6": {
+   "n": "Unione europea",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z48699311": {
+   "n": "Beni",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z95aa7921": {
+   "n": "New Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zf5069e01": {
+   "n": "Cagnes-sur-Mer",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc2e47d29": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z7ecd7b7d": {
+   "n": "Tennessee",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z942e91fb": {
+   "n": "Toscana",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z979a1e31": {
+   "n": "Emirati Arabi Uniti",
+   "p": [
+    "United Arab Emirates",
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z3fc75e52": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zd5745dbe": {
+   "n": "Capo Verde",
+   "p": [
+    "Cabo Verde"
+   ],
+   "pt": []
+  },
+  "zd0e1cdbd": {
+   "n": "Santa Cruz de la Sierra",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z51e140db": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zfad40d85": {
+   "n": "Scandinavia",
+   "p": [
+    "Sweden",
+    "Norway",
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "zc89c1ee2": {
+   "n": "Connecticut",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -20743,7 +21454,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   "zcba18c70": 1,
   "z22fad7a2": 1,
   "zf06697cd": 2,
-  "zc90af138": 1,
+  "zc90af138": 2,
   "zf66f5fe0": 2,
   "z3f8156de": 1,
   "ze58d1c42": 1,
@@ -20823,7 +21534,21 @@ window.EDIZIONI["2026-10-10-sera"] = {
   "z0cc31da6": 1,
   "z8ca0b5ab": 1,
   "z03b44620": 1,
-  "uebilancio": 2
+  "uebilancio": 2,
+  "z861d28e6": 2,
+  "z48699311": 1,
+  "z95aa7921": 2,
+  "zf5069e01": 1,
+  "zc2e47d29": 1,
+  "z7ecd7b7d": 1,
+  "z942e91fb": 1,
+  "z979a1e31": 2,
+  "z3fc75e52": 1,
+  "zd5745dbe": 1,
+  "zd0e1cdbd": 1,
+  "z51e140db": 1,
+  "zfad40d85": 1,
+  "zc89c1ee2": 1
  },
  "video": {},
  "pillole": []
