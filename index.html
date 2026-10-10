@@ -475,7 +475,9 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .tools .chips,#chips{display:none!important}          /* sostituita dalla tendina dei Paesi */
 .dpaese{display:inline-flex;align-items:center;gap:4px;font:600 12px var(--sans)}
 .dpaese select{font:600 12px var(--sans);padding:7px 8px;border:1px solid var(--ink);background:var(--card);color:var(--ink)}
-.sera-tag{font:700 10.5px var(--sans);letter-spacing:.04em;text-transform:uppercase;padding:2px 8px;border-radius:99px;background:#2b2f52;color:#f2eecf;border:1px solid #6b70a8}
+.card.sera{position:relative}
+.sera-corner{position:absolute;top:-10px;right:10px;z-index:3;font:800 10.5px var(--sans);letter-spacing:.08em;text-transform:uppercase;padding:3px 9px;border-radius:99px;background:#2b2f52;color:#f4efcf;border:1px solid #8b90c8;box-shadow:0 2px 6px rgba(0,0,0,.3)}
+@media print{.sera-corner{border-color:#000;color:#000;background:#fff}}
 .nov-slide{display:flex;gap:10px;align-items:flex-start;min-height:104px;animation:novIn .5s ease}
 .nov-slide .nov-ic{font-size:28px;line-height:1;flex:none;width:40px;height:40px;display:grid;place-items:center;border-radius:10px;background:color-mix(in srgb,var(--accent) 14%,var(--card))}
 .nov-slide b{font:700 13.5px/1.25 var(--sans)}
@@ -952,9 +954,10 @@ function cardHTML(n){
     const it = x.p==="IT";
     return `<a class="btn" href="${x.u}" target="_blank" rel="noopener">Originale · ${esc(x.n)}</a>` + (it?"":` <a class="btn" href="${tradotto(x.u)}" target="_blank" rel="noopener">Leggi tradotto</a>`);
   }).join(" ");
-  return `<article style="--tn:${coloreN(nazioneDi(n).chiave)}" class="card p-${p} r${rilievo(n)}${n.good?" good":""}${letti.has(n.id)?" read":""}${nascoste.has(kn(n))?" nascosta":""}" data-id="${n.id}" data-p="${p}" tabindex="0" aria-expanded="false">
+  return `<article style="--tn:${coloreN(nazioneDi(n).chiave)}" class="card p-${p} r${rilievo(n)}${n.sera?" sera":""}${n.good?" good":""}${letti.has(n.id)?" read":""}${nascoste.has(kn(n))?" nascosta":""}" data-id="${n.id}" data-p="${p}" tabindex="0" aria-expanded="false">
     <div class="naz-big" aria-hidden="true">${bandiera(nazioneDi(n).chiave,40,"flag-s")}${esc(nazioneDi(n).nome)}</div>
-    <div class="eye">${n.sera?`<span class="sera-tag" title="Notizia aggiunta dall'aggiornamento serale">🌙 aggiunta della sera</span>`:""}${(()=>{ const L = LUOGHI[n.id], ev = L && (L.p||[])[0], atl0 = f0.atlas||CITTA_PAESE[f0.c];
+    ${n.sera?`<span class="sera-corner" title="Notizia aggiunta dall'aggiornamento serale">🌙 Sera</span>`:""}
+    <div class="eye">${(()=>{ const L = LUOGHI[n.id], ev = L && (L.p||[])[0], atl0 = f0.atlas||CITTA_PAESE[f0.c];
       const chip = ev ? bandiera(ev,80,"flag-m")+esc(nomePaese(ev)) : (L ? esc(L.n) : bandiera(atl0,80,"flag-m")+esc(nPaese));
       return `<span class="nat evento" title="Il Paese di cui si parla">${chip}</span><span class="where" title="Chi scrive: il punto di vista">${esc(f0.n)} · ${esc(f0.c)}${multi?" +"+(fa.length-1):""} ${bandiera(atl0,40,"flag-s flag-r")}</span>${L&&ev?`<span class="dove" title="Dove accade il fatto">${esc(L.n)}</span>`:""}`; })()}${n.good?`<span class="buona" title="Buona notizia">☀ Buona notizia</span>`:""}${(()=>{ const v = verificaDi(n); return `<span class="verifica ${v.cl}" title="${esc(v.t)}">${v.s}<small>${v.cl==="v0"?" fonte unica":""}</small></span>`; })()}${rilievo(n)>=2?`<span class="stelle" title="${rilievo(n)===3?"Da non perdere":"Importante"}">${"★".repeat(rilievo(n))}</span>`:""}</div>
     ${n.sub&&SUB[n.sub]?`<div class="subtag" style="--sc:${SUB[n.sub][2]}"><span aria-hidden="true">${SUB[n.sub][0]}</span> ${SUB[n.sub][1]}</div>`:""}
@@ -1765,7 +1768,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2005";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2010";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1953,7 +1956,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2005";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-2010";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
