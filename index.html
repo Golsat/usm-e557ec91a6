@@ -308,6 +308,11 @@ abbr[title]{text-decoration:underline dotted var(--muted);text-underline-offset:
   .destra .game>.g-lab,.destra .g-top .g-lab{cursor:pointer;user-select:none}
   .destra .game>.g-lab::after,.destra .g-top .g-lab::after{content:" −";float:right;font-size:14px;line-height:1}
   .destra .game.chiuso>.g-lab::after,.destra .game.chiuso .g-top .g-lab::after{content:" +"}
+  .destra .nov-li{display:flex;flex-direction:column;gap:5px}
+  .destra details.nov{--t:#8a8576;margin:0;padding:4px 8px}
+  .destra details.nov summary{font-size:12px;align-items:center}
+  .destra details.nov p{font-size:12px;line-height:1.4}
+  .destra .game.chiuso .nov-li{display:none}
   .destra .game.chiuso .g-row,.destra .game.chiuso .g-note,.destra .game.chiuso .g-prog,.destra .game.chiuso .g-meta,.destra .game.chiuso .mb-sub,.destra .game.chiuso .mb-li,.destra .game.chiuso .mb-btn{display:none}
   .game .g-top{grid-template-columns:1fr;gap:8px}
   .game .g-row{margin-top:10px}
@@ -601,6 +606,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <div class="game" id="game"></div>
   <div class="game mondo-box" id="mondoBox"></div>
   <div class="game fonti-box" id="fontiBox"></div>
+  <div class="game novita-box" id="novitaBox"></div>
 </div>
 
 <nav class="sections" id="nav"></nav>
@@ -1485,7 +1491,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1243";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1247";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1667,8 +1673,25 @@ function renderFontiBox(){
       <li><b>${nonRisp}</b> fonti oggi non raggiungibili</li>
     </ul>`;
 }
+/* ===== NOVITÀ E CARATTERISTICHE DEL PROGETTO, in pillole ===== */
+const NOVITA = [
+  ["🌍","Sguardo di chi scrive","Ogni notizia dice da quale Paese e città scrive la testata e dove accade il fatto: lo stesso evento visto da più parti del mondo."],
+  ["🔎","Sguardo interno ed esterno","Clicca un Paese sulla mappa: vedi cosa scrive di sé e cosa ne scrivono le testate di altri Paesi."],
+  ["✔","Fonti autorevoli e notizie certe","Solo testate riconosciute e fonti ufficiali. I badge ✔ dicono quante fonti indipendenti confermano; le voci di Stato non contano come prova."],
+  ["🛡","Tre controlli","Ogni edizione passa da prima scrittura, controllo e revisione automatico, ultima stesura. Niente cronaca nera."],
+  ["🎵","Nuove sezioni","Musica, Cucina, Adolescenti (13-18, con argomenti), Meteo con mappe satellite, Organizzazioni internazionali, Ingegneria e architettura."],
+  ["🧭","Mappa Equal Earth","La proiezione raccomandata dall'Assemblea generale dell'Onu, in filigrana sotto il giornale."],
+  ["🏅","Gioco e traguardi","Passaporto del lettore, timbri, 22 traguardi, serie di giorni di lettura e quiz del mattino."],
+  ["🔊","Ascolta","Ogni notizia si può far leggere ad alta voce dal browser (meglio con voci «Natural» di Edge)."],
+  ["📱","Sul telefono","L'app si installa dalla schermata Home e funziona anche senza rete; si può condividere con WhatsApp, e-mail o PDF."],
+  ["🗂","Archivio","Ogni edizione resta consultabile; i dati sono raccolti in un database."]
+];
+function renderNovitaBox(){
+  const el = $("#novitaBox"); if(!el) return;
+  el.innerHTML = `<div class="g-lab">Novità e caratteristiche</div><div class="nov-li">${NOVITA.map(([i,t,d])=>`<details class="pillola nov"><summary><span aria-hidden="true">${i}</span> ${esc(t)}</summary><p>${esc(d)}</p></details>`).join("")}</div>`;
+}
 function renderGame(){
-  renderMondoBox(); renderFontiBox();
+  renderMondoBox(); renderFontiBox(); renderNovitaBox();
   const L = livello(), prossimo = LIVELLI[L+1];
   const da = LIVELLI[L][0], a = prossimo?prossimo[0]:null;
   const perc = a ? Math.min(100, Math.round((game.punti-da)/(a-da)*100)) : 100;
