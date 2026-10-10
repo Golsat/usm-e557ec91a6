@@ -425,6 +425,9 @@ html.mappa-attiva body::after{content:"Clicca un Paese · Esc per tornare al gio
 .sub-bar small{color:var(--muted);font-weight:600}
 .nazbar{position:relative;overflow:hidden;border-left-color:var(--pc,var(--accent));background:linear-gradient(100deg,color-mix(in srgb,var(--pc,var(--accent)) 22%,var(--card)) 0%,color-mix(in srgb,var(--pc,var(--accent)) 6%,transparent) 60%)}
 .nazbar>*{position:relative}
+a.nz-go{display:block;text-decoration:none;color:var(--ink);cursor:pointer;transition:transform .15s,box-shadow .15s}
+a.nz-go:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.18)}
+a.nz-go small{display:block;margin-top:3px;font:600 10.5px var(--sans);color:var(--muted)}
 .nz-wm{position:absolute!important;right:-30px;top:-20px;width:300px;height:auto;opacity:.13;transform:rotate(-8deg);filter:saturate(.8);pointer-events:none;border-radius:6px}
 .nz-flag{height:46px;width:auto;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.28);border:1px solid rgba(0,0,0,.15);align-self:center}
 .nz-h b{font-size:26px}
@@ -677,7 +680,6 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 </section>
 
 <footer>
-  <p id="fontiPiede"><b>Fonti di questa edizione:</b> …</p>
   <p>I testi nei riquadri sono sintesi redazionali scritte per questa edizione a partire dai titoli e dagli occhielli pubblicati dalle testate; i fatti sono i loro. L'articolo completo si legge sul sito della fonte (pulsanti «Originale» e «Leggi tradotto»). Edizione di uso privato. <b>Sono escluse le notizie di cronaca nera</b> (omicidi, violenze, reati sessuali, incidenti mortali): quelle che le testate pubblicano non compaiono né nelle schede né nei titoli per Paese.</p>
   <p class="versione" id="versione"></p>
 </footer>
@@ -864,6 +866,12 @@ function subBar(s){                                   // riga di filtri per sott
   const k = Object.keys(conta); if(k.length<2) return "";
   return `<div class="sub-bar" role="group" aria-label="Argomenti">${k.map(c=>`<button data-sub="${c}" aria-pressed="${filtroSub===c}" style="--sc:${SUB[c][2]}"><span aria-hidden="true">${SUB[c][0]}</span> ${SUB[c][1]} <small>${conta[c]}</small></button>`).join("")}${filtroSub?`<button data-sub="" class="sub-tutti">Tutti gli argomenti</button>`:""}</div>`;
 }
+document.addEventListener("click",e=>{            // «In primo piano» nella pagina del Paese: porta al box della notizia, lo apre e lo evidenzia
+  const a = e.target.closest(".nz-go"); if(!a) return;
+  e.preventDefault();
+  const card = document.querySelector('#main .card[data-id="'+a.dataset.id.replace(/"/g,"")+'"]');
+  if(card){ card.scrollIntoView({behavior:"smooth",block:"center"}); toggle(card,true,true); if(typeof evidenzia==="function") evidenzia(a.dataset.id); }
+});
 document.addEventListener("click",e=>{
   const b = e.target.closest(".sub-bar button"); if(!b) return;
   filtroSub = (b.dataset.sub && b.dataset.sub!==filtroSub) ? b.dataset.sub : null; render();
@@ -1241,7 +1249,7 @@ function selezionaNazione(nome){
   bar.innerHTML = `${bandiera(filtroNazione,320,"nz-wm")}<div class="nz-h">${bandiera(filtroNazione,80,"nz-flag")}<b>${esc(nomeIt)}</b><span>${nSu} ${nSu===1?"notizia":"notizie"} che lo riguardano · ${nDa} scritte da sue testate · ${catalogo.length} ${catalogo.length===1?"testata":"testate"} nel catalogo</span>
       <span class="nz-modo"><button data-modo="su" aria-pressed="${modoNazione==="su"}">Mostra: notizie su ${esc(nomeIt)}</button><button data-modo="da" aria-pressed="${modoNazione==="da"}">Mostra: scritte da testate di ${esc(nomeIt)}</button></span>
       <button id="nzChiudi" aria-label="Chiudi">✕</button></div>`+
-    (qui.length ? `<h4 class="nz-s">In primo piano</h4><div class="nz-g">${qui.slice(0,6).map(n=>`<div class="nz-t"><b>${"★".repeat(Math.max(0,rilievo(n)-1))} ${esc(n.titolo)}</b></div>`.replace("> ",">")).join("")}</div>` : `<p class="nz-p">${modoNazione==="da"?`Nessuna notizia di questa edizione è scritta da testate di ${esc(nomeIt)}.`:`Nessuna notizia di questa edizione riguarda ${esc(nomeIt)}.`} ${catalogo.length?`Le sue testate ('${esc(catalogo.join("', '"))}') entrano nelle prossime edizioni.`:"Non ci sono ancora testate di questo Paese nel catalogo."}</p>`)+
+    (qui.length ? `<h4 class="nz-s">In primo piano</h4><div class="nz-g">${qui.slice(0,6).map(n=>`<a class="nz-t nz-go" href="#${esc(n.id)}" data-id="${esc(n.id)}" title="Apri la notizia"><b>${"★".repeat(Math.max(0,rilievo(n)-1))}${rilievo(n)>1?" ":""}${esc(n.titolo)}</b><small>${esc(n.fonti[0].n)} · ${esc(n.fonti[0].c)} — vai alla notizia ↓</small></a>`).join("")}</div>` : `<p class="nz-p">${modoNazione==="da"?`Nessuna notizia di questa edizione è scritta da testate di ${esc(nomeIt)}.`:`Nessuna notizia di questa edizione riguarda ${esc(nomeIt)}.`} ${catalogo.length?`Le sue testate ('${esc(catalogo.join("', '"))}') entrano nelle prossime edizioni.`:"Non ci sono ancora testate di questo Paese nel catalogo."}</p>`)+
     (titoli ? `<h4 class="nz-s">Sguardo interno · cosa scrive ${esc(nomeIt)} (titoli tradotti, dalle sue testate)</h4><div class="nz-g">${titoli}</div>` : "")+
     (fuori ? `<h4 class="nz-s">Sguardo esterno · cosa si scrive di ${esc(nomeIt)} dalle testate di altri Paesi</h4>${fuori}` : `<h4 class="nz-s">Sguardo esterno</h4><p class="nz-p">Oggi nessuna testata di altri Paesi, tra quelle del catalogo, ha un titolo su ${esc(nomeIt)}.</p>`)+
     `<p class="nz-avv">Le notizie di cronaca nera sono escluse da tutta la pagina.</p>`;
@@ -1507,7 +1515,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1404";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1406";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1691,10 +1699,8 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-1404";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-1406";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
-  const f = new Set(); NEWS.forEach(n=>n.fonti.forEach(x=>f.add(x.n)));
-  const el = $("#fontiPiede"); if(el) el.innerHTML = `<b>Fonti di questa edizione (${f.size}):</b> ${[...f].map(esc).join(", ")}.`;
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
 }
