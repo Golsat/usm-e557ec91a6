@@ -2007,7 +2007,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "zc0d4d8d3",
-   "sez": "cultura",
+   "sez": "manga",
    "titolo": "Marvel Zombies e le altre novità di Marvel Animation",
    "orig": "Marvel Zombies e le altre novità di Marvel Animation",
    "lead": "Marvel Animation ha annunciato tre nuovi speciali di Marvel Zombies, il filone animato in cui gli eroi dei fumetti Marvel si trasformano in zombie. Lo studio ha inoltre presentato le nuove stagioni delle serie animate dedicate agli X-Men e a Spider-Man, due dei gruppi di personaggi più noti dell'universo Marvel. Gli annunci riguardano dunque sia nuovi episodi speciali sia il proseguimento di produzioni già avviate, e interessano gli appassionati di fumetti e animazione. A darne notizia è la rivista italiana Fumettologica. Lo riferisce Fumettologica.",
@@ -2116,28 +2116,6 @@ window.EDIZIONI["2026-10-10-sera"] = {
    "ora": "23:26"
   },
   {
-   "id": "za9b60789",
-   "sez": "economia",
-   "titolo": "L'Irlanda presenta una nuova proposta per il bilancio UE 2028-2034",
-   "orig": "Irland präsentierte neuen Vorschlag",
-   "lead": "La presidenza irlandese del Consiglio dell'Unione europea ha presentato sabato una nuova proposta per il bilancio pluriennale dell'UE 2028-2034. Rispetto alla proposta della Commissione europea, il volume complessivo previsto è nettamente inferiore. La ministra austriaca per l'Europa, Claudia Bauer (ÖVP), ha già commentato il testo con una prima reazione, nella quale ha chiesto altri passi. La notizia è riportata dall'emittente pubblica austriaca ORF, che dà spazio alla posizione del governo di Vienna in una trattativa che coinvolge tutti gli Stati membri.",
-   "more": [
-    "Il bilancio pluriennale dell'UE fissa per sette anni quanto l'Unione può spendere e in quali settori. La proposta spetta alla Commissione europea, poi gli Stati membri la negoziano nel Consiglio, che è presieduto a rotazione da un Paese diverso ogni sei mesi."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3444666/",
-     "angolo": "",
-     "atlas": "Austria"
-    }
-   ],
-   "data": "10 ott",
-   "ora": "23:26"
-  },
-  {
    "id": "zbfbb1049",
    "sez": "economia",
    "titolo": "Bilancio UE più leggero di miliardi: per il governo olandese la nuova proposta non basta",
@@ -2161,7 +2139,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "z0c5735f3",
-   "sez": "cultura",
+   "sez": "medicina",
    "titolo": "Tutte le notizie e la scienza dei premi Nobel 2026: il podcast",
    "orig": "All the news and science from the 2026 Nobel prizes – podcast",
    "lead": "I premi Nobel 2026 per la chimica, la fisica e la fisiologia o medicina hanno riconosciuto lavori che hanno contribuito a sviluppare innumerevoli farmaci, che hanno permesso ai fisici di osservare una delle particelle più misteriose e che hanno fornito uno strumento capace di funzionare come interruttore per accendere e spegnere le cellule del cervello. Il Nobel per la fisica va a Francis Halzen per il lavoro sui neutrini al Polo Sud, quello per la chimica a studi sulle molecole speculari. Nel podcast del Guardian Madeleine Finlay ne parla con Ian Sample, Nicola Davis e Linda Geddes. Lo riferisce The Guardian.",
@@ -3529,7 +3507,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "z9566b995",
-   "sez": "economia",
+   "sez": "viaggi",
    "titolo": "1,4 milioni di visitatori cinesi a Hong Kong nella Golden Week",
    "orig": "HKFP Lens: 1.4 million visitors flock to Hong Kong over China’s Golden Week holiday",
    "lead": "Oltre 1,4 milioni di turisti provenienti dalla Cina continentale hanno visitato Hong Kong durante la «Golden Week», la settimana di vacanza per la Festa nazionale, secondo le statistiche ufficiali riportate da Hong Kong Free Press. La testata nota che sono finiti i tempi in cui i visitatori venivano attirati dallo shopping di fascia alta: oggi molti si riversano in quartieri un tempo tranquilli e nei parchi naturali per fare «check-in» sui social. Il South China Morning Post guarda invece al resto della Cina: le tariffe alberghiere hanno deluso le attese tra il 1° e il 7 ottobre, nonostante il boom del turismo.",
@@ -6100,7 +6078,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "z34e17de5",
-   "sez": "sport",
+   "sez": "mondo",
    "titolo": "Hackathon Future Champions 2026: Rio Tinto lancia la seconda edizione",
    "orig": "Hackathon future champions 2026 : Rio Tinto lance la deuxième édition avec TotalEnergies et Ecobank comme co-sponsors",
    "lead": "Rio Tinto lancia la seconda edizione dell'Hackathon Future Champions, organizzata con TotalEnergies Marketing Guinée ed Ecobank Guinée come co-sponsor. Il lancio ufficiale è fissato per giovedì 15 ottobre 2026 a Conakry ed è rivolto a studenti e giovani imprenditori. La notizia è riportata da due testate guineane.",
@@ -6688,7 +6666,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "z97e09194",
-   "sez": "sport",
+   "sez": "mondo",
    "titolo": "La Bosnia ed Erzegovina sta per avere un nuovo Gran Muftì",
    "orig": "Bosnia and Herzegovina will soon have a new Grand Mufti",
    "lead": "Il 10 ottobre la Comunità islamica di Bosnia ed Erzegovina sceglie il suo nuovo capo, il reis-ul-ulema. Il ruolo, spiega la testata, conta non soltanto per i musulmani del Paese, ma potrebbe essere un riferimento anche per i fedeli di altre parti d'Europa. Lo riferisce Deutsche Welle.",
@@ -6828,7 +6806,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "z0fdd4e4a",
-   "sez": "economia",
+   "sez": "viaggi",
    "titolo": "India e Mpumalanga: rafforzare gli scambi e aprire nuovi orizzonti",
    "orig": "India–Mpumalanga: Building on Trade, Opening New Frontiers",
    "lead": "Il console generale dell'India ha compiuto una visita diplomatica e d'affari nella provincia sudafricana di Mpumalanga. L'incontro mette in luce le possibilità di ampliare i legami bilaterali in settori come miniere, silvicoltura, energie rinnovabili, formazione sull'intelligenza artificiale e turismo. Lo riferisce Mail & Guardian.",
@@ -6988,7 +6966,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "za79bd7c7",
-   "sez": "spazio",
+   "sez": "mondo",
    "titolo": "Per vincere un Nobel, andare ai confini della Terra",
    "orig": "To Win A Nobel Prize, Go To The Ends Of The Earth",
    "lead": "I neutrini sono particelle schive: non si riusciva a rilevare quelli in arrivo dallo spazio profondo finché Francis Halzen non ebbe un'idea geniale, che gli è valsa il premio Nobel. La testata ripercorre la vicenda di questa intuizione. Lo riferisce Universe Today.",
@@ -7183,7 +7161,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "zc9a07659",
-   "sez": "sport",
+   "sez": "economia",
    "titolo": "Benin: la Germania annuncia 15 milioni di euro per energia e imprese",
    "orig": "Bénin : l’Allemagne annonce 15 millions d’euros pour l’énergie et les entreprises",
    "lead": "Giovedì 8 ottobre, nei locali del ministero dell'Economia, delle Finanze e della Cooperazione del Benin, si sono svolte consultazioni preliminari in vista dei negoziati intergovernativi tra Benin e Germania. In quell'occasione Berlino ha annunciato uno stanziamento di 15 milioni di euro destinato ai settori dell'energia e delle imprese, alla presenza delle delegazioni dei due Paesi. Lo riferisce La Nouvelle Tribune.",
@@ -8853,7 +8831,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "z48c55a57",
-   "sez": "sport",
+   "sez": "mondo",
    "titolo": "Kenya, l'opposizione guidata da Kalonzo accusa il governo di lentezza contro l'Ebola",
    "orig": "Kalonzo-led opposition accuses Gov't of laxity in Ebola preparedness",
    "lead": "Durante un giro a Mombasa, il leader del Wiper Party Kalonzo Musyoka e altri esponenti dell'opposizione hanno accusato il governo di essere poco pronto di fronte all'Ebola. Hanno anche chiesto agli Stati Uniti e agli altri partner di sviluppo di accertarsi che i fondi dati al Kenya siano usati correttamente a vantaggio dei cittadini. Lo riferisce Citizen Digital.",
@@ -11195,7 +11173,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "z50c837e7",
-   "sez": "tech",
+   "sez": "spazio",
    "titolo": "L’Uzbekistan e la NASA discutono di cooperazione nel settore spaziale",
    "orig": "Uzbekistan, NASA discuss prospects for cooperation in space sector.",
    "lead": "L’Uzbekistan e la NASA hanno discusso possibili ambiti di collaborazione di lungo periodo nel settore spaziale. Tra i temi indicati ci sono i dati satellitari, l’osservazione della Terra, i progetti di ricerca e la formazione di specialisti per il settore. Il confronto apre prospettive di cooperazione tra le due parti. Lo riferisce Kun.uz.",
@@ -13507,7 +13485,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "zbfdeb585",
-   "sez": "sport",
+   "sez": "mondo",
    "titolo": "Miss Grand International: l'ecuadoriana Shyare Andrade vince il premio Country's Power of the Year",
    "orig": "Ecuador wins Miss Grand Country’s Power of the Year against Tanzania’s Jihan",
    "lead": "All'edizione 2026 di Miss Grand International l'ecuadoriana Shyare Andrade ha vinto il titolo Country's Power of the Year, superando anche la tanzaniana Jihan Dimack. Nel concorso era entrata tra le prime venticinque e poi tra le prime undici, fino a diventare prima finalista. Nel suo quartiere di Portoviejo, Bellavista, la festeggiano.",
@@ -13711,7 +13689,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "zbfbfb23c",
-   "sez": "sport",
+   "sez": "economia",
    "titolo": "Centrafrica, i sindacati chiedono aumenti salariali o l'annullamento del rincaro dei carburanti",
    "orig": "Centrafrique : les syndicats exigent une hausse des salaires ou l’annulation de la hausse des carburants",
    "lead": "In Repubblica Centrafricana i dieci sindacati uniti in collettivo chiedono un aumento dei salari e una rivalutazione delle pensioni, davanti all'impennata dei prezzi dei carburanti alla pompa. Secondo i sindacati, queste misure di accompagnamento aiuterebbero a far fronte al rincaro; in alternativa chiedono di annullare l'aumento dei carburanti. Lo riferisce Radio Ndeke Luka.",
@@ -14255,7 +14233,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "spirit",
-   "sez": "economia",
+   "sez": "viaggi",
    "titolo": "Google offre 10 milioni di dollari per le email della fallita Spirit Airlines. Protestano i parlamentari Usa",
    "orig": "Spirit Airlines fallisce, Google compra 100 milioni di email: rivolta tra i parlamentari Usa",
    "lead": "Google ha offerto 10 milioni di dollari per gli archivi digitali della compagnia aerea fallita Spirit Airlines, circa 100 milioni di email che servirebbero ad addestrare sistemi di intelligenza artificiale. Oltre 120 parlamentari americani contestano la vendita: secondo loro i dipendenti non avrebbero autorizzato l'uso dei propri dati. Lo riferisce la Repubblica.",
@@ -14289,7 +14267,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "starlinkmobile",
-   "sez": "tech",
+   "sez": "spazio",
    "titolo": "SpaceX prepara il debutto come operatore di telefonia con Starlink Mobile",
    "orig": "SpaceX prepara il debutto come operatore tlc con Starlink Mobile",
    "lead": "L'acquisto di nuove frequenze permetterà a SpaceX di fornire una migliore connessione dallo spazio ai telefoni, e di presentarsi come operatore di telecomunicazioni con il marchio Starlink Mobile. Lo riferisce l'ANSA.",
@@ -14723,7 +14701,7 @@ window.EDIZIONI["2026-10-10-sera"] = {
   },
   {
    "id": "shanghai",
-   "sez": "sport",
+   "sez": "mondo",
    "titolo": "Masters di Shanghai: Alcaraz debutta con una vittoria, avanti anche Medvedev e Fils",
    "orig": "Alcaraz disfruta, gana en su estreno y se atreve hasta con el bigote en Shanghai",
    "lead": "Carlos Alcaraz ha vinto all'esordio nel Masters 1000 di Shanghai, battendo l'argentino Juan Manuel Cerúndolo per 6-3, 6-3, forte del titolo appena conquistato a Tokyo. Avanti anche Daniil Medvedev, che ha superato Jan-Lennard Struff in tre set, e Arthur Fils, vincitore su Pavel Kotov.",
@@ -15327,6 +15305,14 @@ window.EDIZIONI["2026-10-10-sera"] = {
      "u": "https://www.vrt.be/vrtnws/nl/2026/10/10/ierland-stelt-verlaging-van-budget-met-159-miljard-voor.rss.xml",
      "angolo": "",
      "atlas": "Belgium"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3444666/",
+     "angolo": "",
+     "atlas": "Austria"
     }
    ],
    "data": "10 ott"
@@ -15997,7 +15983,6 @@ window.EDIZIONI["2026-10-10-sera"] = {
   "z7297a3bf": "Premium Times accosta il calo dell'utile e dei ricavi all'aumento del dividendo intermedio per azione.",
   "z2515a38a": "Premium Times mette in evidenza il ruolo personale dell'amministratrice delegata, prima donna al vertice dell'istituto, nell'ideare il programma.",
   "zcd98b31b": "NOS insiste sulle zone d'ombra dell'accordo, dai tempi di consegna all'effetto sul prezzo, e sulle conseguenze per l'Ucraina.",
-  "za9b60789": "ORF sottolinea il volume nettamente più basso rispetto alla proposta della Commissione e riporta la prima reazione della ministra austriaca.",
   "zbfbb1049": "NOS legge la proposta irlandese dal punto di vista dei Paesi Bassi, per i quali il taglio non è ancora sufficiente.",
   "z0c5735f3": "The Guardian affida a tre suoi giornalisti scientifici il compito di spiegare in un unico podcast i tre premi scientifici dell'anno.",
   "z996e6455": "The Guardian collega la notizia clinica alla ricerca premiata dal Nobel, presentando la terapia come sicura e capace di un ripristino solo parziale della vista.",
@@ -20223,13 +20208,6 @@ window.EDIZIONI["2026-10-10-sera"] = {
    ],
    "pt": []
   },
-  "za9b60789": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "zbfbb1049": {
    "n": "Bruxelles",
    "p": [
@@ -20834,7 +20812,6 @@ window.EDIZIONI["2026-10-10-sera"] = {
   "z7297a3bf": 1,
   "z2515a38a": 1,
   "zcd98b31b": 2,
-  "za9b60789": 1,
   "zbfbb1049": 1,
   "z0c5735f3": 2,
   "z996e6455": 2,
