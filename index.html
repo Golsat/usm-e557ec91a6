@@ -724,6 +724,10 @@ section.sec.t-meteo,nav.sections a.t-meteo{--t:#5aa7d8}
 section.sec.t-tech,nav.sections a.t-tech{--t:#2a9db5}
 section.sec.t-ambiente,nav.sections a.t-ambiente{--t:#6aa84f}
 section.sec.t-salute,nav.sections a.t-salute{--t:#3aa59e}
+section.sec.t-spazio,nav.sections a.t-spazio{--t:#5b6bd6}
+section.sec.t-medicina,nav.sections a.t-medicina{--t:#d0506a}
+.t-spazio .card{border-radius:14px;border-top-width:2px;background-image:radial-gradient(circle at 12% 20%,color-mix(in srgb,var(--t) 22%,transparent) 0 1px,transparent 1.5px),radial-gradient(circle at 70% 60%,color-mix(in srgb,var(--t) 18%,transparent) 0 1px,transparent 1.5px);background-size:46px 46px,61px 61px}
+.t-medicina .card{border-radius:6px 16px 6px 16px;border-left:5px solid var(--t)}
 section.sec.t-cultura,nav.sections a.t-cultura{--t:#a86bb0}
 section.sec.t-sport,nav.sections a.t-sport{--t:#e0564b}
 /* titoli di sezione: sfondo nel colore del tema, testo sempre scuro */
@@ -851,8 +855,10 @@ const SEZIONI = [
   {id:"economia", nome:"Economia"},
   {id:"ingegneria", nome:"Ingegneria e architettura"},
   {id:"tech", nome:"Tecnologia e Scienza"},
+  {id:"spazio", nome:"Astronomia e spazio"},
   {id:"ambiente", nome:"Ambiente e natura"},
   {id:"salute", nome:"Salute"},
+  {id:"medicina", nome:"Medicina e ricerca"},
   {id:"cultura", nome:"Cultura"},
   {id:"musica", nome:"Musica"},
   {id:"cucina", nome:"Cucina"},
@@ -969,6 +975,7 @@ function verificaDi(n){
   if(uff.length) return {cl:"v1", s:"✔", t:"Fonte ufficiale"};
   return {cl:"v0", s:"◌", t:"Fonte unica: non ancora incrociata con altre testate"};
 }
+function riguardaItalia(n){ const L = LUOGHI[n.id]; if(L && L.p && L.p.length) return L.p.includes("Italy") ? 1 : 0; return (n.fonti[0] && (n.fonti[0].atlas==="Italy" || n.fonti[0].p==="IT")) ? 1 : 0; }
 function rilievo(n){ const r = RILIEVO[n.id]; return r || (n.fonti.length>=3?3:n.fonti.length===2?2:1); }
 function cardHTML(n){
   const fa = n.fonti.filter(x=>!offFonti.has(x.n));
@@ -982,7 +989,7 @@ function cardHTML(n){
   }).join(" ");
   return `<article style="--tn:${coloreN(nazioneDi(n).chiave)}" class="card p-${p} r${rilievo(n)}${n.sera?" sera":""}${n.good?" good":""}${letti.has(n.id)?" read":""}${nascoste.has(kn(n))?" nascosta":""}" data-id="${n.id}" data-p="${p}" tabindex="0" aria-expanded="false">
     <div class="naz-big" aria-hidden="true">${bandiera(nazioneDi(n).chiave,40,"flag-s")}${esc(nazioneDi(n).nome)}</div>
-    ${n.sera?`<span class="sera-corner" title="Notizia aggiunta dall'aggiornamento serale">🌙 Sera</span>`:""}
+    ${n.sera?`<span class="sera-corner" title="Notizia aggiunta dopo l'edizione del mattino">${n.ora&&n.ora<"18:30"?"↻ "+n.ora:"🌙 Sera"}</span>`:""}
     <div class="eye">${(()=>{ const L = LUOGHI[n.id], ev = L && (L.p||[])[0], atl0 = f0.atlas||CITTA_PAESE[f0.c];
       const chip = ev ? bandiera(ev,80,"flag-m")+esc(nomePaese(ev)) : (L ? esc(L.n) : bandiera(atl0,80,"flag-m")+esc(nPaese));
       return `<span class="nat evento" title="Il Paese di cui si parla">${chip}</span><span class="where" title="Chi scrive: il punto di vista">${esc(f0.n)} · ${esc(f0.c)}${multi?" +"+(fa.length-1):""} ${bandiera(atl0,40,"flag-s flag-r")}</span>${L&&ev?`<span class="dove" title="Dove accade il fatto">${esc(L.n)}</span>`:""}`; })()}${n.good?`<span class="buona" title="Buona notizia">☀ Buona notizia</span>`:""}${(()=>{ const v = verificaDi(n); return `<span class="verifica ${v.cl}" title="${esc(v.t)}">${v.s}<small>${v.cl==="v0"?" fonte unica":""}</small></span>`; })()}${rilievo(n)>=2?`<span class="stelle" title="${rilievo(n)===3?"Da non perdere":"Importante"}">${"★".repeat(rilievo(n))}</span>`:""}</div>
@@ -1037,6 +1044,7 @@ function render(){
     if(s.id==="eventi"){ const h = eventiHTML(s); if(h) parti.push({full:filtroSezione==="eventi", html:h}); continue; }
     if(s.id==="meteo"){ const h = meteoHTML(s); if(h){ parti.push({full:filtroSezione==="meteo", html:h}); } continue; }   // il meteo è una tabella di dati, non un elenco di notizie
     const items = NEWS.filter(n=>n.sez===s.id && visibile(n));
+    if(s.id!=="prima" && s.id!=="italia") items.sort((a,b)=>riguardaItalia(b)-riguardaItalia(a));      // in ogni sezione prima le notizie che riguardano l'Italia (l'ordine restante non cambia)
     if(!items.length) continue; tot+=items.length;
     const ch = chiuse.has(s.id);
     parti.push({full:!!(s.front||filtroSezione===s.id), html:`<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${s.good?" goodsec":""}${(s.front||filtroSezione===s.id)?" fullw":""}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}${s.nome}</span><span class="h2r"><small>${items.length} ${items.length===1?"notizia":"notizie"}</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2>${subBar(s)}<div class="grid${s.front?" front":""}">${items.map(cardHTML).join("")}</div></section>`});
@@ -1524,7 +1532,7 @@ function pilloleHTML(){
 }
 
 /* ===== ELENCO FISSO DELLE SEZIONI (a sinistra) ===== */
-const TEMA_COL = {prima:"#8a8576",italia:"#4a9a68",mondo:"#4f7fc0",economia:"#e0804a",ingegneria:"#b08a4a",organizzazioni:"#7a86b8",cucina:"#c9a227",musica:"#8b6fd1",adolescenti:"#e07aa0",meteo:"#5aa7d8",tech:"#2a9db5",ambiente:"#6aa84f",salute:"#3aa59e",cultura:"#a86bb0",sport:"#e0564b",eventi:"#d9822b"};
+const TEMA_COL = {prima:"#8a8576",italia:"#4a9a68",mondo:"#4f7fc0",economia:"#e0804a",ingegneria:"#b08a4a",organizzazioni:"#7a86b8",cucina:"#c9a227",musica:"#8b6fd1",adolescenti:"#e07aa0",meteo:"#5aa7d8",tech:"#2a9db5",ambiente:"#6aa84f",salute:"#3aa59e",spazio:"#5b6bd6",medicina:"#d0506a",cultura:"#a86bb0",sport:"#e0564b",eventi:"#d9822b"};
 function renderRail(){
   const el = $("#rail"); if(!el) return;
   const fs = filtroSezione, fb = filtroSub; filtroSezione = null; filtroSub = null;     // i conteggi non devono dipendere dalla sezione o dall'argomento scelti
@@ -1636,6 +1644,8 @@ const ICONE = {
   adolescenti:'<path d="M2.500 9 12 5l9.500 4-9.500 4zM6 11v5c0 1.500 3 3 6 3s6-1.500 6-3v-5"/>',
   tech:'<rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3.5v3.5M14 3.5v3.5M10 17v3.5M14 17v3.5M3.5 10H7M3.5 14H7M17 10h3.5M17 14h3.5"/>',
   ambiente:'<path d="M5 19c0-8 5-13 14-14 0 9-5 14-13 14M5 19l7-7"/>',
+  spazio:'<circle cx="12" cy="12" r="4"/><path d="M3 12c3-6 15-6 18 0M12 3v2M12 19v2M4.500 4.500 6 6M18 18l1.500 1.500"/>',
+  medicina:'<path d="M9 3h6v6h6v6h-6v6H9v-6H3V9h6z"/>',
   salute:'<path d="M12 19.5C5 14.5 3.5 11 3.5 8.5A4 4 0 0 1 12 7a4 4 0 0 1 8.5 1.5c0 2.5-1.500 6-8.500 11z"/>',
   cultura:'<path d="M12 6.5C9.500 5 6.500 4.800 4 5.500v12.500c2.500-.7 5.500-.5 8 1M12 6.500c2.500-1.500 5.500-1.700 8-1v12.500c-2.500-.7-5.500-.5-8 1M12 6.500V19"/>',
   eventi:'<rect x="4" y="5.500" width="16" height="14.500" rx="1.500"/><path d="M4 10h16M8.500 3.500v4M15.500 3.500v4M8 14h3M13 14h3M8 17h3"/>',
@@ -1832,7 +1842,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2129";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2315";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2047,7 +2057,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2129";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-2315";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -2094,14 +2104,17 @@ const NOVITA = [
   ["🔎","Sguardo interno ed esterno","Scegli un Paese: vedi cosa scrive di sé e cosa ne scrivono le testate di altri Paesi, con la bandiera e i titoli tradotti.",false],
   ["✔","Solo fonti autorevoli","Testate riconosciute e fonti ufficiali. I badge ✔ dicono quante fonti indipendenti confermano; le voci di Stato valgono come sguardo, mai come prova.",false],
   ["🛡","Tre controlli, niente cronaca nera","Ogni edizione passa da prima scrittura, controllo e revisione, ultima stesura. Omicidi, violenza e incidenti mortali restano fuori.",true],
-  ["🌐","Più di 180 testate, oltre 80 Paesi","Il catalogo cresce ogni giorno: testate di ogni continente, organizzazioni internazionali e agenzie ufficiali.",true],
-  ["🎵","Musica, cucina, adolescenti","Sezioni nuove: Musica; Cucina; Adolescenti (13-18 anni) con argomenti come videogiochi, scienza e musica; Ingegneria e architettura.",true],
+  ["🌐","Oltre 300 testate, più di 150 Paesi","Il catalogo cresce ogni giorno: testate di ogni continente (più voci da Cina, Hong Kong, Giappone e Taiwan), organizzazioni internazionali e agenzie ufficiali.",true],
+  ["🔭","Astronomia e Medicina","Due sezioni nuove: spazio e cosmo (Nasa, Esa, osservatori, riviste di astronomia) e ricerca medica (Oms, Ema, The Lancet, BMJ, Science). Solo studi e fonti ufficiali, mai consigli di cura.",true],
+  ["🎵","Musica, cucina, adolescenti","Sezioni dedicate: Musica; Cucina; Adolescenti (13-18 anni) con argomenti come videogiochi, scienza e musica; Ingegneria e architettura.",false],
+  ["↻","Più uscite al giorno","Edizione alle 7:30 e aggiornamenti alle 13, alle 17 e alle 20: si aggiungono notizie, non se ne tolgono mai. Le nuove portano il segno ↻ con l'ora, o 🌙 Sera.",true],
+  ["🧩","Una storia, una notizia","Lo stesso fatto raccontato da più testate o finito in più sezioni diventa una sola notizia con tutte le fonti. L'Italia viene sempre per prima in ogni sezione.",true],
   ["🌤","Meteo con satellite","Venti città e le mappe animate di nuvole, pioggia, temperature e vento, aperte solo quando le chiedi.",true],
   ["🗺","Mappa Equal Earth","La proiezione raccomandata dall'Assemblea generale dell'Onu, in filigrana sotto il giornale: passa su una notizia e si illumina il Paese.",false],
   ["🏅","Gioco e traguardi","Passaporto del lettore, timbri, 27 traguardi, serie di giorni di lettura e quiz del mattino.",true],
   ["🔊","Ascolta le notizie","Ogni notizia si può far leggere ad alta voce dal browser (meglio con le voci «Natural» di Edge).",false],
   ["📱","Anche sul telefono","L'app si installa dalla schermata Home, parte dalla Prima pagina e ha il pulsante «Cerca aggiornamento».",true],
-  ["📰","Un'edizione ogni mattina","L'edizione completa esce ogni mattina alle 7:30; ogni numero resta nell'archivio e si può condividere con WhatsApp, e-mail o PDF.",false]
+  ["📰","Un'edizione ogni giorno","L'edizione completa esce ogni mattina alle 7:30 e si arricchisce nel corso della giornata; ogni numero resta nell'archivio e si può condividere con WhatsApp, e-mail o PDF.",false]
 ];
 let novIdx = 0, novTimer = null;
 function renderNovitaBox(){
