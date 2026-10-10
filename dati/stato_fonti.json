@@ -1,5 +1,5 @@
 {
- "verificato": "2026-10-10T12:39",
+ "verificato": "2026-10-10T12:48",
  "fonti": {
   "BBC News": {
    "ok": true,
@@ -14,7 +14,7 @@
   "Financial Times": {
    "ok": true,
    "voci": 25,
-   "ultima": "Sat, 10 Oct 2026 09:30:07 GMT"
+   "ultima": "Sat, 10 Oct 2026 10:00:07 GMT"
   },
   "The Telegraph": {
    "ok": false,
@@ -53,12 +53,12 @@
   "Le Figaro": {
    "ok": true,
    "voci": 19,
-   "ultima": "Sat, 10 Oct 2026 11:18:49 +0200"
+   "ultima": "Sat, 10 Oct 2026 12:47:13 +0200"
   },
   "France 24": {
    "ok": true,
    "voci": 24,
-   "ultima": "Sat, 10 Oct 2026 09:58:06 GMT"
+   "ultima": "Sat, 10 Oct 2026 10:34:29 GMT"
   },
   "Libération": {
    "ok": true,
@@ -83,7 +83,7 @@
   "Süddeutsche Zeitung": {
    "ok": true,
    "voci": 15,
-   "ultima": "Sat, 10 Oct 2026 09:54:03 GMT"
+   "ultima": "Sat, 10 Oct 2026 10:28:08 GMT"
   },
   "FAZ": {
    "ok": true,
@@ -149,7 +149,7 @@
   },
   "ORF": {
    "ok": true,
-   "voci": 25,
+   "voci": 24,
    "ultima": "2026-10-10T12:25:24+02:00"
   },
   "SVT Nyheter": {
@@ -194,7 +194,7 @@
   "TVN24": {
    "ok": true,
    "voci": 23,
-   "ultima": "Sat, 10 Oct 2026 10:31:40 GMT"
+   "ultima": "Sat, 10 Oct 2026 10:44:49 GMT"
   },
   "Polskie Radio": {
    "ok": false,
@@ -202,7 +202,7 @@
   },
   "Radio Prague International": {
    "ok": false,
-   "errore": "HTTP Error 404: Not Found"
+   "errore": "HTTP Error 403: Forbidden"
   },
   "Novinite": {
    "ok": false,
@@ -211,7 +211,7 @@
   "N1 Serbia": {
    "ok": true,
    "voci": 50,
-   "ultima": "Sat, 10 Oct 2026 12:37:48 +0200"
+   "ultima": "Sat, 10 Oct 2026 12:47:02 +0200"
   },
   "Kathimerini": {
    "ok": false,
@@ -244,7 +244,7 @@
   "Ukrinform": {
    "ok": true,
    "voci": 30,
-   "ultima": "Sat, 10 Oct 2026 13:15:00 +0300"
+   "ultima": "Sat, 10 Oct 2026 13:32:00 +0300"
   },
   "LRT": {
    "ok": false,
@@ -266,8 +266,8 @@
   },
   "The New York Times": {
    "ok": true,
-   "voci": 58,
-   "ultima": "Sat, 10 Oct 2026 09:01:24 +0000"
+   "voci": 59,
+   "ultima": "Sat, 10 Oct 2026 07:17:04 +0000"
   },
   "The Wall Street Journal": {
    "ok": true,
@@ -330,7 +330,7 @@
   "G1": {
    "ok": true,
    "voci": 100,
-   "ultima": "Sat, 10 Oct 2026 10:18:28 -0000"
+   "ultima": "Sat, 10 Oct 2026 10:34:25 -0000"
   },
   "Agência Brasil": {
    "ok": true,
@@ -345,7 +345,7 @@
   "La Nación": {
    "ok": true,
    "voci": 93,
-   "ultima": "Sat, 10 Oct 2026 10:38:34 +0000"
+   "ultima": "Sat, 10 Oct 2026 10:42:21 +0000"
   },
   "Página/12": {
    "ok": false,
@@ -405,7 +405,7 @@
   "Premium Times": {
    "ok": true,
    "voci": 15,
-   "ultima": "Sat, 10 Oct 2026 10:18:59 +0000"
+   "ultima": "Sat, 10 Oct 2026 10:40:36 +0000"
   },
   "The Punch": {
    "ok": true,
@@ -413,14 +413,13 @@
    "ultima": "Sat, 10 Oct 2026 11:31:01 +0000"
   },
   "Daily Nation": {
-   "ok": true,
-   "voci": 25,
-   "ultima": "Sat, 10 Oct 2026 03:37:00 +0000"
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found"
   },
   "The EastAfrican": {
    "ok": true,
    "voci": 40,
-   "ultima": "Sat, 10 Oct 2026 04:00:00 +0000"
+   "ultima": "Sat, 10 Oct 2026 09:00:00 +0000"
   },
   "Ahram Online": {
    "ok": false,
@@ -429,7 +428,7 @@
   "Egypt Independent": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 10:37:15 +0000"
+   "ultima": "Sat, 10 Oct 2026 10:47:04 +0000"
   },
   "Morocco World News": {
    "ok": false,
@@ -471,7 +470,7 @@
   },
   "The New Times": {
    "ok": false,
-   "errore": "The read operation timed out"
+   "errore": "not well-formed (invalid token): line 2, column 17"
   },
   "APA News": {
    "ok": false,
@@ -545,7 +544,7 @@
   "The Hindu": {
    "ok": true,
    "voci": 60,
-   "ultima": "Sat, 10 Oct 2026 16:06:09 +0530"
+   "ultima": "Sat, 10 Oct 2026 16:15:58 +0530"
   },
   "Times of India": {
    "ok": true,
@@ -569,7 +568,7 @@
   "The Express Tribune": {
    "ok": true,
    "voci": 73,
-   "ultima": "Sat, 10 Oct 26 04:58:07 +0500"
+   "ultima": "Sat, 10 Oct 26 06:55:31 +0500"
   },
   "The Daily Star": {
    "ok": true,
@@ -609,8 +608,9 @@
    "ultima": "Sat, 10 Oct 2026 18:25:39 +0800"
   },
   "VnExpress": {
-   "ok": false,
-   "errore": "<urlopen error timed out>"
+   "ok": true,
+   "voci": 60,
+   "ultima": "Sat, 10 Oct 2026 16:30:00 +0700"
   },
   "Bangkok Post": {
    "ok": true,
@@ -625,7 +625,7 @@
   "CNA": {
    "ok": true,
    "voci": 20,
-   "ultima": "Sat, 10 Oct 2026 18:31:43 +0800"
+   "ultima": "Sat, 10 Oct 2026 18:31:00 +0800"
   },
   "The Star": {
    "ok": false,
@@ -656,7 +656,7 @@
   "Al Jazeera": {
    "ok": true,
    "voci": 25,
-   "ultima": "Sat, 10 Oct 2026 09:45:14 +0000"
+   "ultima": "Sat, 10 Oct 2026 10:22:56 +0000"
   },
   "The Times of Israel": {
    "ok": false,
@@ -734,7 +734,7 @@
   "Sydney Morning Herald": {
    "ok": true,
    "voci": 20,
-   "ultima": "Sat, 10 Oct 2026 21:36:40 +1100"
+   "ultima": "Sat, 10 Oct 2026 21:41:22 +1100"
   },
   "RNZ": {
    "ok": true,
@@ -994,7 +994,7 @@
   "NME": {
    "ok": true,
    "voci": 10,
-   "ultima": "Sat, 10 Oct 2026 10:04:55 +0000"
+   "ultima": "Sat, 10 Oct 2026 10:43:15 +0000"
   },
   "OndaRock": {
    "ok": true,
