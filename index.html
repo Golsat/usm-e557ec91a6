@@ -1,0 +1,1815 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta name="robots" content="noindex,nofollow,noarchive">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Uno sguardo sul mondo</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0b2f5e">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Sguardo">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" href="app/icona-180.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+:root{
+  --paper:#f7f4ee; --card:#fdfcf9; --ink:#121212; --muted:#5f5b53; --rule:#121212; --hair:#d9d3c5;
+  --accent:#0b2f5e; --flag:#b3202a; --good:#1f6a57; --good-bg:#edf4f1;
+  --uk:#2b4a7a; --us:#7a3b3b; --it:#3d6650; --de:#6e6330; --qa:#5e3f58; --xx:#555;
+  --serif:'Libre Caslon Text',Georgia,'Times New Roman',serif; --display:'Playfair Display',Georgia,serif; --sans:'Inter',system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#15140f; --card:#1c1a15; --ink:#ece8de; --muted:#a39e90; --rule:#ece8de; --hair:#37332a;
+    --accent:#8fb3e8; --flag:#e0707a; --good:#7fc4ae; --good-bg:#17231f;
+    --uk:#8fb0e0; --us:#d9a0a0; --it:#9cc7ad; --de:#cfc17a; --qa:#cfa3c4; --xx:#aaa;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#15140f; --card:#1c1a15; --ink:#ece8de; --muted:#a39e90; --rule:#ece8de; --hair:#37332a;
+  --accent:#8fb3e8; --flag:#e0707a; --good:#7fc4ae; --good-bg:#17231f;
+  --uk:#8fb0e0; --us:#d9a0a0; --it:#9cc7ad; --de:#cfc17a; --qa:#cfa3c4; --xx:#aaa;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:14.5px;line-height:1.5}
+.wrap{max-width:1920px;margin:0 auto;padding:0 clamp(12px,2vw,36px) 24px}
+a{color:inherit}
+
+/* testata */
+.top{display:flex;justify-content:space-between;font:12px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:10px 0;border-bottom:1px solid var(--hair);gap:12px;flex-wrap:wrap}
+.masthead{text-align:center;padding:10px 0 8px;border-bottom:4px double var(--rule)}
+.masthead h1{font:900 clamp(28px,4.6vw,48px)/1.05 var(--display);margin:0 0 3px;letter-spacing:-.01em}
+.masthead p{margin:0;font-style:italic;color:var(--muted)}
+.editionbar{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font:13px var(--sans);padding:8px 0;border-bottom:1px solid var(--rule)}
+.howto{font:12px/1.45 var(--sans);color:var(--muted);padding:6px 0;border-bottom:1px solid var(--hair)}
+
+/* navigazione */
+nav.sections{display:flex;gap:4px 18px;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid var(--rule);font:600 13px var(--sans);text-transform:uppercase;letter-spacing:.05em}
+nav.sections a{text-decoration:none;padding:2px 0;border-bottom:2px solid transparent}
+nav.sections a:hover{border-color:var(--accent)}
+nav.sections a.good{color:var(--good)}
+.tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding:8px 0;font:13px var(--sans)}
+.tools input[type=search]{flex:1 1 220px;padding:8px 10px;border:1px solid var(--hair);background:var(--card);color:var(--ink);font:14px var(--sans)}
+button,.btn{font:600 12px var(--sans);letter-spacing:.04em;text-transform:uppercase;border:1px solid var(--ink);background:transparent;color:var(--ink);padding:7px 11px;cursor:pointer;text-decoration:none;display:inline-block}
+button:hover,.btn:hover{background:var(--ink);color:var(--paper)}
+button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
+.chips{display:flex;gap:6px;flex-wrap:wrap;padding:0 0 10px;font:12px var(--sans)}
+.chips .lab{color:var(--muted);align-self:center;margin-right:4px;text-transform:uppercase;letter-spacing:.06em}
+.chip{border:1px solid var(--hair);border-radius:99px;padding:4px 11px;font-weight:600;letter-spacing:0;text-transform:none}
+
+/* sezioni */
+/* più temi affiancati in colonna, come in un quotidiano */
+#main{display:block}
+.masonry{display:grid;gap:0 24px;align-items:start;margin-top:4px}
+.mcol{min-width:0}
+section.sec.fullw{column-span:all}
+section.sec>h2{break-after:avoid}
+section.sec{padding-top:14px;min-width:0}
+section.sec>h2{font:900 20px var(--display);margin:0 0 2px;border-top:3px solid var(--rule);padding-top:8px;display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+section.sec>h2 small{font:12px var(--sans);color:var(--muted);font-weight:400;letter-spacing:.05em;text-transform:uppercase}
+section.sec.goodsec>h2{border-color:var(--good);color:var(--good)}
+.grid{display:block;margin-top:8px}
+.fullw .grid{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(270px,1fr))}
+.fullw .card{margin-bottom:0}
+.grid.front{grid-template-columns:2fr 1fr 1fr}
+@media(max-width:900px){.grid.front{grid-template-columns:1fr 1fr}.grid.front .card:first-child{grid-column:1/-1}}
+@media(max-width:600px){.grid.front{grid-template-columns:1fr}}
+
+/* card */
+.card{background:color-mix(in srgb,var(--card) 86%,transparent);border:1px solid var(--hair);border-top:3px solid var(--xx);padding:10px 12px 8px;display:flex;flex-direction:column;break-inside:avoid;margin-bottom:10px}
+.card.p-UK{border-top-color:var(--uk)} .card.p-US{border-top-color:var(--us)} .card.p-IT{border-top-color:var(--it)} .card.p-DE{border-top-color:var(--de)} .card.p-QA{border-top-color:var(--qa)}
+.card.good{background:var(--good-bg)}
+.card.read h3{opacity:.62}
+.eye{font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:6px}
+.eye .nat{color:#fff;padding:2px 7px;border-radius:2px;background:var(--xx)}
+.p-UK .nat{background:var(--uk)} .p-US .nat{background:var(--us)} .p-IT .nat{background:var(--it)} .p-DE .nat{background:var(--de)} .p-QA .nat{background:var(--qa)}
+:root[data-theme="dark"] .nat, :root:not([data-theme="light"]) .nat{color:#111}
+.eye .where{color:var(--muted)}
+.card h3{font:700 17px/1.22 var(--display);margin:1px 0 6px}
+.front .card:first-child h3{font-size:25px}
+.lead{margin:0;font-size:14px;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden;position:relative}
+.card.open .lead{display:block;-webkit-line-clamp:unset;overflow:visible}
+.more{display:none}
+.card.open .more{display:block}
+/* lettura lenta: la notizia aperta occupa tutta la riga, con colonna di testo comoda */
+.fullw .card.open{grid-column:1/-1;padding:16px clamp(14px,5vw,56px) 12px}
+.card.open{padding-bottom:12px}
+.card.open h3{font-size:clamp(20px,2.2vw,26px)}
+.card.open .lead,.card.open .more p,.card.open .prisma{max-width:70ch}
+.card.open .lead{font-size:15.5px;line-height:1.6}
+.card.open .more p{font-size:15.5px;line-height:1.6}
+.card.open .lead::first-letter{font:900 3.4em/.8 var(--display);float:left;padding:6px 8px 0 0;color:var(--accent)}
+.end{text-align:center;margin:44px 0 0;padding:22px 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.end b{font:700 22px var(--display);display:block;margin-bottom:4px}
+.end span{font:italic 15px var(--serif);color:var(--muted)}
+.more p{margin:8px 0 0;font-size:14px}
+.prisma{margin-top:14px;border-top:1px solid var(--rule);padding-top:8px}
+.prisma h4{font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;margin:0 0 6px;color:var(--accent)}
+.prisma .v{font-size:14px;margin:0 0 8px;padding-left:10px;border-left:3px solid var(--xx)}
+.prisma .v b{font:600 11px var(--sans);letter-spacing:.05em;text-transform:uppercase}
+.v.p-UK{border-color:var(--uk)} .v.p-US{border-color:var(--us)} .v.p-IT{border-color:var(--it)} .v.p-DE{border-color:var(--de)} .v.p-QA{border-color:var(--qa)}
+.foot{display:none;margin-top:12px;font:12.5px/1.5 var(--sans);color:var(--muted);border-top:1px solid var(--hair);padding-top:8px}
+.card.open .foot{display:block}
+.foot .acts{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0 2px}
+.row{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:auto;padding-top:10px}
+.row .meta{font:12px var(--sans);color:var(--muted)}
+.row .ctl{display:flex;gap:6px}
+.star{border-color:var(--hair);padding:6px 9px}
+.star[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.empty{font:14px var(--sans);color:var(--muted);padding:20px 0}
+.sep{color:var(--hair)}
+/* ogni tema ha un carattere proprio: colore, sfondo, bordi e titoli diversi, per non avere schede tutte uguali */
+section.sec{--t:var(--accent)}
+.t-prima{--t:var(--ink)} .t-mondo{--t:#2b4a7a} .t-italia{--t:#2e7d4f} .t-economia{--t:#c2582a} .t-tech{--t:#0e7490}
+.t-salute{--t:#2a8f8a} .t-cultura{--t:#8a4b7a} .t-sport{--t:#d1342b} .t-positive{--t:#c99700}
+section.sec>h2{color:var(--t);border-top-color:var(--t)}
+section.sec .card{background:color-mix(in srgb,var(--t) 6%,color-mix(in srgb,var(--card) 90%,transparent))}
+/* Prima pagina: sobria, titoli grandi */
+.t-prima .card{background:color-mix(in srgb,var(--card) 92%,transparent);border-top-width:4px}
+/* Mondo: filetto laterale blu */
+.t-mondo .card{border-left:4px solid var(--t)}
+.t-mondo>h2{border-top-width:5px}
+/* Italia: bordo inferiore doppio, angoli netti */
+.t-italia .card{border-bottom:4px double var(--t)}
+.t-italia>h2{letter-spacing:.02em}
+/* Economia: sfondo salmone, titoli in sans, fascia colorata */
+.t-economia .card{background:color-mix(in srgb,#f3c9a8 38%,var(--card))}
+.t-economia h3{font-family:var(--sans);font-weight:700;letter-spacing:-.01em;font-size:15.5px}
+.t-economia>h2{background:var(--t);color:#fff;padding:3px 10px;border-top:0}
+.t-economia>h2 small{color:#ffe8d8}
+/* Tecnologia e scienza: griglia tecnica e titoli monospazio */
+.t-tech .card{background-image:linear-gradient(color-mix(in srgb,var(--t) 13%,transparent) 1px,transparent 1px),linear-gradient(90deg,color-mix(in srgb,var(--t) 13%,transparent) 1px,transparent 1px);background-size:16px 16px;border-style:dashed;border-color:var(--t)}
+.t-tech h3{font-family:ui-monospace,Consolas,"Courier New",monospace;font-weight:700;font-size:15px}
+.t-tech>h2{font-family:ui-monospace,Consolas,monospace;text-transform:uppercase;letter-spacing:.08em;font-size:16px}
+/* Salute: angoli arrotondati, toni morbidi */
+.t-salute .card{border-radius:16px;border-top-width:1px;border-color:color-mix(in srgb,var(--t) 45%,var(--hair));background:color-mix(in srgb,var(--t) 9%,var(--card))}
+.t-salute>h2{border-top-width:2px;border-radius:2px}
+/* Cultura: doppio bordo, titoli corsivi */
+.t-cultura .card{border:3px double var(--t);border-top-width:3px}
+.t-cultura h3{font-style:italic;font-weight:700}
+.t-cultura>h2{font-style:italic}
+/* Sport: barra spessa, titoli in maiuscolo */
+.t-sport .card{border-top-width:7px;border-top-color:var(--t)}
+.t-sport h3{font-family:var(--sans);text-transform:uppercase;font-weight:800;font-size:14.5px;letter-spacing:.01em;line-height:1.18}
+.t-sport>h2{font-family:var(--sans);text-transform:uppercase;font-weight:900;letter-spacing:.06em;font-size:18px}
+/* Notizie positive: sfondo solare, angoli morbidi */
+.t-positive .card{border-radius:14px;background:linear-gradient(135deg,color-mix(in srgb,#ffd34d 20%,var(--card)),var(--card));border-color:#e2c25a}
+.t-positive>h2{color:var(--good);border-top-color:#e0a800}
+/* le notizie meno importanti sono più compatte delle principali */
+.card.r1 .lead{-webkit-line-clamp:3}
+.card.r2 .lead{-webkit-line-clamp:4}
+.card.r3 .lead{-webkit-line-clamp:6}
+/* parte alta più compatta: più notizie subito in vista */
+.top{display:none}
+.editionbar{align-items:center;padding:5px 0}
+.editionbar .rapidi{border:0;flex:1;justify-content:center}
+.editionbar .rapidi>div{padding:2px 14px 2px 0;margin-right:14px}
+.editionbar .rapidi .v{font-size:15px}
+details.howto{padding:4px 0}
+details.howto summary{cursor:pointer;font-weight:600;letter-spacing:.03em}
+details.howto[open] summary{margin-bottom:4px}
+nav.sections{padding:6px 0}
+.tools .chips{padding:0;margin-left:6px;display:flex;gap:5px;flex-wrap:wrap;align-items:center}
+/* importanza della notizia: stelle gialle, bordo e titolo */
+.stelle{margin-left:auto;color:#e0a800;font-size:13px;letter-spacing:1px;text-shadow:0 0 1px #7a5600,0 0 1px #7a5600;font-style:normal}
+.card.r3{border-left:5px solid #e0a800;background:color-mix(in srgb,#e0a800 7%,var(--card))}
+.card.r2{border-left:3px solid #f0c85a}
+.card.r3 h3{font-size:19px}
+.front .card.r3:first-child h3{font-size:27px}
+.leg-r{font-style:normal;color:#e0a800;text-shadow:0 0 1px #7a5600}
+.ticker a.top3 b::before{content:"★ ";color:#ffd34d}
+/* barra dei titoli scorrevole, in basso */
+body{padding-bottom:46px}
+.ticker{position:fixed;left:0;right:0;bottom:0;height:38px;z-index:30;display:flex;align-items:stretch;background:var(--ink);color:var(--paper);font:600 13.5px var(--sans);box-shadow:0 -1px 0 var(--rule)}
+.ticker .tk-label{flex:none;display:flex;align-items:center;padding:0 14px;background:var(--flag);color:#fff;letter-spacing:.09em;text-transform:uppercase;font-size:11.5px}
+.ticker .tk-view{flex:1;overflow:hidden;position:relative;display:flex;align-items:center}
+.ticker .tk-track{display:inline-flex;white-space:nowrap;will-change:transform;animation:scorri var(--dur,240s) linear infinite}
+.ticker:hover .tk-track,.ticker:focus-within .tk-track{animation-play-state:paused}
+.ticker a{color:inherit;text-decoration:none;padding:0 26px 0 0}
+.ticker a:hover{text-decoration:underline}
+.ticker a b{font-weight:700;color:#ffd7db;margin-right:7px;letter-spacing:.04em;text-transform:uppercase;font-size:11.5px}
+.ticker a::after{content:"◆";margin-left:26px;opacity:.45;font-size:9px}
+@keyframes scorri{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+/* le ultime notizie circolano sempre da sole, come in un tg; nessuna barra di scorrimento. Con il mouse sopra, o con il pulsante di pausa, si fermano. */
+.ticker .tk-view{overflow:hidden}
+.ticker .tk-view::-webkit-scrollbar{display:none}
+.ticker.pausa .tk-track{animation-play-state:paused}
+.ticker .tk-pausa{flex:none;border:0;border-left:1px solid #fff3;background:transparent;color:inherit;padding:0 12px;font:700 13px var(--sans);cursor:pointer}
+.ticker .tk-pausa:hover{background:#fff2;color:inherit}
+:root[data-theme="dark"] .ticker{background:#25221b}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .ticker{background:#25221b}}
+@media print{.ticker{display:none!important}body{padding-bottom:0}}
+.filigrana{position:fixed;left:0;top:0;width:100%;height:100vh;z-index:-1;pointer-events:none}
+.filigrana .fil-terra{fill:var(--ink);opacity:.09}
+.filigrana .paese-hi{fill:var(--c,var(--flag));fill-opacity:.10;stroke:var(--c,var(--flag));stroke-width:1;stroke-opacity:.45}
+.filigrana .paese-ev{fill:#2a8f8a;fill-opacity:.34;stroke:#1f6f6b;stroke-width:1.6;animation:respira 2.6s ease-in-out infinite}
+.filigrana .lega{fill:none;stroke:var(--c,var(--flag));stroke-width:1.6;stroke-linecap:round;stroke-dasharray:1;stroke-dashoffset:1;opacity:.85;animation:disegna 1.1s ease-out forwards}
+@keyframes disegna{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.filigrana .lega{animation:none;stroke-dashoffset:0}}
+.filigrana.alto circle.scrive{fill:var(--c,var(--flag));fill-opacity:1;stroke:var(--paper);stroke-width:1.5}
+.filigrana.alto text.t-sc{font-size:11px;font-weight:600;fill:var(--ink)}
+.legenda{position:fixed;left:12px;bottom:46px;z-index:6;font:11px var(--sans);color:var(--muted);background:color-mix(in srgb,var(--paper) 88%,transparent);border:1px solid var(--hair);padding:3px 9px;border-radius:99px}
+.legenda i{display:inline-block;vertical-align:-2px;margin:0 4px 0 8px}
+.legenda i:first-child{margin-left:0}
+.lg-ev{width:12px;height:12px;border-radius:3px;background:#2a8f8a;opacity:.7}
+.lg-sc{width:9px;height:9px;border-radius:50%;background:var(--accent)}
+@media print{.legenda{display:none!important}}
+.filigrana.alto circle.pin-ev{fill:#2a8f8a;fill-opacity:1;stroke:var(--paper);stroke-width:1.5}
+.filigrana.alto text.t-ev{fill:#1f6f6b;font-size:13px}
+.dove{color:#1f6f6b;font-weight:600;letter-spacing:.04em;text-transform:none}
+.dove::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:#2a8f8a;margin-right:5px}
+.leg{display:inline-block;width:10px;height:10px;border-radius:2px;margin:0 4px 0 8px;vertical-align:-1px}
+.filigrana.alto circle{fill:var(--c,var(--flag));fill-opacity:.9}
+.filigrana.alto text{font:700 15px var(--sans);fill:var(--ink);paint-order:stroke;stroke:var(--paper);stroke-width:4px}
+@keyframes respira{0%,100%{fill-opacity:.22}50%{fill-opacity:.5}}
+@media (prefers-reduced-motion:reduce){.filigrana .paese-hi{animation:none}}
+.mini{display:flex;align-items:center;gap:10px;margin:10px 0 2px;color:var(--flag)}
+.mini svg{width:150px;height:auto;flex:none}
+.mini .terra{fill:var(--hair)}
+.mini span{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+@media print{.filigrana,.mini{display:none!important}}
+.contesto{margin:14px 0 0;padding:10px 14px;border-left:4px solid var(--accent);background:color-mix(in srgb,var(--accent) 6%,transparent);max-width:68ch}
+.contesto b{font:600 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.crono{list-style:none;margin:8px 0 0;padding:0;font-size:14.5px;line-height:1.5}
+.crono{margin-left:6px}
+.crono li{position:relative;padding:2px 0 10px 18px;border-left:2px solid color-mix(in srgb,var(--t,var(--accent)) 55%,transparent)}
+.crono li:last-child{border-left-color:transparent;padding-bottom:2px}
+.crono li::before{content:"";position:absolute;left:-6px;top:6px;width:10px;height:10px;border-radius:50%;background:var(--card);border:2px solid var(--t,var(--accent))}
+.crono li:last-child::before{background:var(--t,var(--accent))}
+.crono li b{font:600 11px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--accent);margin-right:6px;font-style:normal}
+.contesto p{margin:4px 0 0!important;font-size:15px!important;line-height:1.6!important}
+.sguardo{margin:16px 0 0;padding:10px 0 0;border-top:1px solid var(--hair);max-width:68ch;font-size:15px;line-height:1.6;color:var(--muted)}
+.sguardo b{font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;font-style:normal}
+.card:not(.open) .sguardo{display:none}
+select{font:13px var(--sans);padding:4px 6px;background:var(--card);color:var(--ink);border:1px solid var(--hair)}
+abbr[title]{text-decoration:underline dotted var(--muted);text-underline-offset:3px;cursor:help}
+.filo{margin:0;padding-left:18px;font-size:14px}
+.rapidi{display:flex;gap:0;flex-wrap:wrap;border-bottom:1px solid var(--hair);font:13px var(--sans)}
+.rapidi>div{padding:10px 18px 10px 0;margin-right:18px;border-right:1px solid var(--hair)}
+.rapidi>div:last-child{border-right:0}
+.rapidi .k{display:block;font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.rapidi .v{font:700 18px var(--display)}
+.rapidi .dn{color:var(--us)} .rapidi .up{color:var(--good)}
+.fascia{display:flex;gap:24px;align-items:flex-start;flex-wrap:wrap;margin-top:4px}
+.fascia #grafico{flex:0 0 min(100%,380px)}
+.fascia #video{flex:1 1 480px;min-width:0}
+.chart{background:var(--card);border:1px solid var(--hair);padding:8px 10px 6px;margin-top:8px}
+.chart svg{width:100%;height:auto;display:block}
+.chart .asse{stroke:var(--hair);stroke-width:1}
+.chart .linea{fill:none;stroke:var(--accent);stroke-width:1.8;stroke-linejoin:round}
+.chart svg{max-height:130px}
+#grafico>h2,#video>h2{font-size:17px}
+.chart .area{fill:var(--accent);opacity:.08}
+.chart text{font:11px var(--sans);fill:var(--muted)}
+.chart .cap{font:12.5px/1.4 var(--serif);margin:4px 0 0;color:var(--ink)}
+.chart .src{font:12px var(--sans);color:var(--muted);margin:2px 0 0}
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px;margin-top:8px}
+@media(max-width:900px){.vgrid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.vgrid{grid-template-columns:1fr}}
+.vid{background:var(--card);border:1px solid var(--hair);border-top:3px solid var(--xx)}
+.vid.p-UK{border-top-color:var(--uk)} .vid.p-US{border-top-color:var(--us)} .vid.p-DE{border-top-color:var(--de)} .vid.p-QA{border-top-color:var(--qa)} .vid.p-INT{border-top-color:#46546b}
+.vid .frame{position:relative;aspect-ratio:16/9;background:#000;display:block;width:100%;border:0;padding:0;cursor:pointer}
+.vid .frame img{width:100%;height:100%;object-fit:cover;opacity:.9;display:block}
+.vid .frame span{position:absolute;inset:auto auto 10px 10px;background:#000c;color:#fff;font:600 12px var(--sans);padding:5px 10px;letter-spacing:.04em}
+.vid iframe{width:100%;aspect-ratio:16/9;border:0;display:block}
+.vid .cap{padding:10px 12px 12px;font:14px/1.4 var(--serif)}
+.vid .cap .orig{display:block;font:italic 11.5px/1.35 var(--sans);color:var(--muted);margin:3px 0 2px}
+.vid .cap small{display:block;font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:3px}
+/* stampa / PDF: edizione completa, aperta, a due colonne */
+@media print{
+  :root{--paper:#fff;--card:#fff;--ink:#000;--muted:#444;--hair:#bbb;--rule:#000}
+  body{background:#fff;font-size:11pt}
+  .tools,.chips,nav.sections,.game,.quiz,.prefs,.end,.howto,.no-print,.star,.row .ctl,.tg,.top span:last-child{display:none!important}
+  .wrap{max-width:none;padding:0}
+  .masonry,.mcol{display:block}
+  section.sec.fullw{column-span:none}
+  .grid,.grid.front,.fullw .grid{display:block}
+  .editionbar select,.editionbar label{display:none!important}
+  .card,.card.open{display:block;break-inside:auto;margin:0 0 12px;padding:8px 10px;border:0;border-top:2px solid #000;grid-column:auto}
+  .lead,.card.open .lead{display:block!important;-webkit-line-clamp:unset!important;overflow:visible!important;font-size:10.5pt;line-height:1.45}
+  .card.open .lead::first-letter{all:unset}
+  .more,.foot{display:block!important}
+  .more p{font-size:10.5pt;line-height:1.45}
+  .card h3,.card.open h3,.front .card:first-child h3{font-size:14pt;max-width:none}
+  section.sec{break-inside:auto;padding-top:14px}
+  .foot .acts a{border:0;padding:0;text-decoration:underline}
+  footer{margin-top:16px}
+}
+/* gamification sobria: passaporto del lettore */
+.game{border:1px solid var(--hair);background:var(--card);padding:12px 16px;margin:12px 0 4px;font:13.5px/1.5 var(--sans)}
+/* sugli schermi larghi il passaporto sta di lato, sempre in vista */
+@media(min-width:1280px){
+  .wrap{padding-right:calc(268px + clamp(12px,2vw,36px) + 16px)}
+  .destra{position:fixed;top:14px;right:clamp(12px,2vw,36px);width:268px;max-height:calc(100vh - 66px);overflow:auto;z-index:5;display:flex;flex-direction:column;gap:10px;scrollbar-width:thin}
+  .destra .game{margin:0}
+  .destra .game>.g-lab,.destra .g-top .g-lab{cursor:pointer;user-select:none}
+  .destra .game>.g-lab::after,.destra .g-top .g-lab::after{content:" −";float:right;font-size:14px;line-height:1}
+  .destra .game.chiuso>.g-lab::after,.destra .game.chiuso .g-top .g-lab::after{content:" +"}
+  .destra .game.chiuso .g-row,.destra .game.chiuso .g-note,.destra .game.chiuso .g-prog,.destra .game.chiuso .g-meta,.destra .game.chiuso .mb-sub,.destra .game.chiuso .mb-li,.destra .game.chiuso .mb-btn{display:none}
+  .game .g-top{grid-template-columns:1fr;gap:8px}
+  .game .g-row{margin-top:10px}
+  .game .g-lab{display:block;margin:0 0 4px}
+}
+.g-top{display:grid;grid-template-columns:1.3fr 1fr auto;gap:14px;align-items:center}
+@media(max-width:700px){.g-top{grid-template-columns:1fr}}
+.g-lab{font:600 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-right:8px}
+.g-lv{font:900 20px var(--display)}
+.g-prog{height:8px;background:var(--hair);border-radius:99px;overflow:hidden}
+.g-prog i{display:block;height:100%;background:var(--accent)}
+.g-meta{color:var(--muted)}
+.g-row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:8px}
+.stamp,.bdg{border:1px dashed var(--hair);color:var(--muted);padding:2px 10px;border-radius:2px;font-size:12px;background:transparent}
+.stamp.on{border-style:solid;color:#fff;background:var(--xx)}
+.stamp.on.p-UK{background:var(--uk)} .stamp.on.p-US{background:var(--us)} .stamp.on.p-IT{background:var(--it)} .stamp.on.p-DE{background:var(--de)} .stamp.on.p-QA{background:var(--qa)}
+.bdg.on{border-style:solid;border-color:var(--accent);color:var(--accent);font-weight:600}
+.g-note{margin:8px 0 0;color:var(--muted);font-style:italic}
+.quiz{margin-top:36px;border:1px solid var(--rule);padding:18px clamp(14px,3vw,28px);background:var(--card)}
+.quiz h2{font:900 24px var(--display);margin:0 0 4px}
+.quiz .sub{font:14px var(--sans);color:var(--muted);margin:0 0 12px}
+.quiz fieldset{border:0;border-top:1px solid var(--hair);margin:0;padding:10px 0}
+.quiz legend{font:700 16px var(--serif);padding:0 0 4px}
+.quiz label{display:block;font:15px var(--sans);padding:3px 0;cursor:pointer}
+.qres{font:14.5px/1.6 var(--sans);padding-left:18px}
+.qres .ok::marker{content:"✓ ";color:var(--good)} .qres .no::marker{content:"✗ ";color:var(--accent)}
+/* pannello scelte */
+.prefs{margin-top:36px;border:1px solid var(--rule);background:var(--card);padding:18px clamp(14px,3vw,28px) 20px}
+.prefs h2{font:900 24px var(--display);margin:0 0 4px}
+.prefs p.sub{font:13.5px/1.5 var(--sans);color:var(--muted);margin:0 0 14px}
+.prefs h4{font:600 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;margin:16px 0 8px;color:var(--muted)}
+.togs{display:flex;flex-wrap:wrap;gap:8px}
+.tog{border:1px solid var(--hair);background:#d9d5ca;color:#6c675b;border-radius:99px;padding:7px 14px;font:600 13px var(--sans);letter-spacing:0;text-transform:none;display:inline-flex;gap:8px;align-items:center}
+.tog:hover{background:#cbc6b8;color:#4e493e}
+.tog small{font-weight:400;opacity:.85}
+.tog[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.tog[aria-pressed=true]:hover{filter:brightness(1.08);background:var(--accent);color:#fff}
+.tog.t-good[aria-pressed=true]{background:var(--good);border-color:var(--good)}
+.tog.s-UK[aria-pressed=true]{background:var(--uk);border-color:var(--uk)}
+.tog.s-US[aria-pressed=true]{background:var(--us);border-color:var(--us)}
+.tog.s-IT[aria-pressed=true]{background:var(--it);border-color:var(--it)}
+.tog.s-DE[aria-pressed=true]{background:var(--de);border-color:var(--de)}
+.tog.s-QA[aria-pressed=true]{background:var(--qa);border-color:var(--qa)}
+.tog.s-INT[aria-pressed=true]{background:#46546b;border-color:#46546b}
+.tog{box-shadow:none}
+:root[data-theme="dark"] .tog{background:#34302a;color:#8f8878;border-color:#46413a}
+:root[data-theme="dark"] .tog[aria-pressed=true]{color:#111}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .tog{background:#34302a;color:#8f8878;border-color:#46413a}:root:not([data-theme="light"]) .tog[aria-pressed=true]{color:#111}}
+.togs .gr{display:flex;flex-wrap:wrap;gap:6px;align-items:center;flex:1 1 100%;padding:4px 0;border-top:1px solid var(--hair)}
+.togs .gr-n{flex:0 0 150px;font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.tog.s-XX[aria-pressed=true]{background:#46546b;border-color:#46546b}
+.prefs .bulk{display:flex;gap:8px;margin-top:16px;flex-wrap:wrap}
+footer{margin-top:40px;border-top:4px double var(--rule);padding-top:14px;font:12.5px/1.6 var(--sans);color:var(--muted)}
+/* sezioni riducibili, icone dei temi */
+section.sec>h2{align-items:center}
+.h2n{display:flex;align-items:center;gap:8px}
+.h2r{display:flex;align-items:center;gap:10px}
+.ico{flex:none}
+.sez-riduci{width:24px;height:24px;padding:0;border-radius:50%;font:700 15px/1 var(--sans);display:flex;align-items:center;justify-content:center;border-color:color-mix(in srgb,var(--t) 70%,transparent);background:transparent}
+section.sec.chiusa .grid{display:none}
+section.sec.chiusa>h2{margin-bottom:6px}
+@media print{.sez-riduci{display:none!important}section.sec.chiusa .grid{display:block}}
+/* box riducibili con il pulsante − */
+section.quiz,section.prefs{position:relative}
+.riduci{position:absolute;right:10px;top:10px;width:28px;height:28px;padding:0;border-radius:50%;font:700 17px/1 var(--sans);display:flex;align-items:center;justify-content:center;z-index:2}
+section.quiz.chiuso #quiz>*:not(h2){display:none}
+section.prefs.chiuso>*:not(h2):not(.riduci){display:none}
+section.quiz.chiuso,section.prefs.chiuso{padding-top:10px;padding-bottom:10px}
+section.quiz.chiuso h2,section.prefs.chiuso h2{margin:0}
+@media print{.riduci{display:none!important}}
+/* palette pastello: sfondi tenui per ogni tema, testo sempre nel colore dell'inchiostro, quindi leggibile */
+.t-prima{--t:#8a8576} .t-mondo{--t:#4f7fc0} .t-italia{--t:#4a9a68} .t-economia{--t:#e0804a} .t-tech{--t:#2a9db5}
+.t-salute{--t:#3aa59e} .t-cultura{--t:#a86bb0} .t-sport{--t:#e0564b} .t-positive{--t:#e0b020} .t-ambiente{--t:#6aa84f}
+/* buone notizie: dentro il loro tema, riconoscibili dall'etichetta e dal filetto solare */
+.buona{color:color-mix(in srgb,#e0a800 62%,var(--ink));font-weight:700;letter-spacing:.02em;text-transform:none}
+section.sec .card.good{box-shadow:inset 0 -3px 0 #e0b020}
+section.sec>h2,.t-economia>h2,.t-tech>h2,.t-positive>h2{color:var(--ink);background:color-mix(in srgb,var(--t) 17%,color-mix(in srgb,var(--card) 50%,transparent));border-top:3px solid var(--t);padding:3px 10px}
+section.sec>h2 small,.t-economia>h2 small{color:var(--muted)}
+section.sec .card{background:color-mix(in srgb,var(--t) 8%,color-mix(in srgb,var(--card) 45%,transparent));color:var(--ink)}
+.t-economia .card,.t-salute .card{background:color-mix(in srgb,var(--t) 9%,color-mix(in srgb,var(--card) 45%,transparent))}
+.t-positive .card{background:linear-gradient(135deg,color-mix(in srgb,var(--t) 26%,var(--card)),color-mix(in srgb,var(--t) 8%,var(--card)));border-color:color-mix(in srgb,var(--t) 55%,var(--hair))}
+section.sec .card.r3{background:color-mix(in srgb,#e0a800 12%,color-mix(in srgb,var(--t) 8%,color-mix(in srgb,var(--card) 55%,transparent)))}
+.card h3,.card .lead,.card .more p{color:var(--ink)}
+/* pulsanti delle sezioni in alto: ognuno con il suo colore pastello */
+nav.sections{gap:6px 8px}
+nav.sections a{display:inline-block;color:var(--ink);text-decoration:none;padding:4px 13px;border-radius:99px;border:1px solid color-mix(in srgb,var(--t) 60%,transparent);background:color-mix(in srgb,var(--t) 26%,var(--card));font-weight:700;letter-spacing:.04em}
+nav.sections a:hover{background:color-mix(in srgb,var(--t) 48%,var(--card));border-color:var(--t)}
+nav.sections a.good{color:var(--ink)}
+/* mappa cliccabile: Paese scelto, modalità «esplora», pannello del Paese */
+.filigrana .fil-terra{opacity:1}
+.filigrana .fil-terra path{fill:var(--ink);fill-opacity:.03;stroke:var(--ink);stroke-opacity:.14;stroke-width:.5;stroke-linejoin:round;pointer-events:visiblePainted;transition:fill-opacity .15s}
+html.mappa-attiva .filigrana .fil-terra path{stroke-opacity:.7;stroke-width:1}
+.filigrana .fil-terra path.sel{fill:var(--accent);fill-opacity:.32;stroke:var(--accent);stroke-width:1}
+html.mappa-attiva .filigrana:not(.alto){z-index:40;pointer-events:auto;background:color-mix(in srgb,var(--paper) 92%,transparent)}
+html.mappa-attiva .filigrana .fil-terra path{fill-opacity:.22;cursor:pointer}
+html.mappa-attiva .filigrana .fil-terra path:hover{fill:var(--accent);fill-opacity:.5}
+html.mappa-attiva .filigrana.alto{z-index:41}
+html.mappa-attiva body::after{content:"Clicca un Paese · Esc per tornare al giornale";position:fixed;left:50%;top:14px;transform:translateX(-50%);z-index:50;font:600 13px var(--sans);background:var(--ink);color:var(--paper);padding:6px 16px;border-radius:99px}
+.nazbar{margin:10px 0 4px;padding:10px 14px;border:1px solid var(--hair);border-left:5px solid var(--accent);background:color-mix(in srgb,var(--accent) 9%,color-mix(in srgb,var(--card) 60%,transparent))}
+.nz-h{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.nz-h b{font:900 20px var(--display)}
+.nz-h span{font:12.5px var(--sans);color:var(--muted)}
+.nz-h button{margin-left:auto;padding:2px 9px}
+.nz-p{margin:6px 0 0;font-size:14px}
+.nz-s{font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:10px 0 4px}
+.subtag{align-self:flex-start;display:inline-flex;align-items:center;gap:5px;margin:0 0 5px;padding:2px 9px 2px 7px;border-radius:99px;font:700 11px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--ink);background:color-mix(in srgb,var(--sc) 30%,var(--card));border:1px solid var(--sc)}
+.sub-bar{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 8px}
+.sub-bar button{font:700 11.5px var(--sans);padding:3px 10px;border-radius:99px;border:1px solid var(--sc,var(--hair));background:color-mix(in srgb,var(--sc,var(--card)) 14%,var(--card));color:var(--ink);cursor:pointer}
+.sub-bar button[aria-pressed="true"]{background:color-mix(in srgb,var(--sc) 55%,var(--card));box-shadow:0 0 0 2px var(--sc)}
+.sub-bar small{color:var(--muted);font-weight:600}
+.met-tab{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:6px}
+.met-tab button{font-size:11.5px;padding:4px 10px;border-radius:99px}
+.met-frame iframe{width:100%;height:340px;border:1px solid var(--hair);display:block}
+.met-sat{margin-bottom:10px}
+@media print{.met-sat{display:none}}
+.nz-g{columns:3 280px;column-gap:10px}
+.nz-t{break-inside:avoid;margin:0 0 10px;padding:10px 12px 8px;background:color-mix(in srgb,var(--card) 86%,transparent);border:1px solid var(--hair);border-top:3px solid var(--accent)}
+.nz-t>b{font:700 16px/1.25 var(--display)}
+.nz-t ul{margin:2px 0 0;padding-left:16px;font:13px/1.4 var(--sans)}
+.nz-t li{margin:1px 0}
+.nz-t small{color:var(--muted);font:11px var(--sans)}
+.nz-t a{color:inherit}
+.nz-t .tr{font:600 10.5px var(--sans);color:var(--accent);text-transform:uppercase;letter-spacing:.04em;margin-left:4px}
+@media print{.nazbar{display:none!important}html.mappa-attiva body::after{display:none}}
+/* verifica delle notizie: fonti indipendenti che le confermano */
+.verifica{font:700 11px var(--sans);letter-spacing:.04em;text-transform:none;border-radius:99px;padding:1px 7px;border:1px solid currentColor}
+.verifica small{font-weight:600}
+.verifica.v3,.verifica.v2{color:#1f6a57}
+.verifica.v1{color:#2b4a7a}
+.verifica.v0{color:#8a6a00;border-style:dashed}
+/* lettura a voce */
+.tts{position:fixed;left:50%;bottom:52px;transform:translateX(-50%);z-index:45;width:min(760px,94vw);background:var(--ink);color:var(--paper);border-radius:10px;padding:10px 14px;font:13px/1.4 var(--sans);box-shadow:0 6px 24px #0006}
+.tts[hidden]{display:none}
+.tts button{background:transparent;color:inherit;border:1px solid #fff5;padding:5px 10px;font-size:12px}
+.tts button:hover{background:#fff2}
+.tts-r1{display:flex;align-items:center;gap:6px}
+.tts-t{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:600;padding-left:6px}
+.tts-r2{display:flex;gap:14px;flex-wrap:wrap;align-items:center;margin-top:8px}
+.tts select{max-width:260px;background:#fff;color:#111}
+.tts-n{margin:8px 0 0;font-size:11.5px;opacity:.8}
+.ascolta{border-color:var(--hair);padding:5px 8px;font-size:12px}
+.card.in-lettura{outline:3px solid var(--accent);outline-offset:2px;box-shadow:0 0 0 6px color-mix(in srgb,var(--accent) 18%,transparent)}
+@media print{.tts{display:none!important}}
+/* grafica «per Paese»: ogni scheda prende i colori del Paese a cui si riferisce, con il nome in testa */
+.naz-big{display:none}
+html.vista-paese .naz-big{display:block;margin:-10px -12px 8px;padding:3px 12px;background:var(--tn);color:#14110c;font:800 11px var(--sans);letter-spacing:.12em;text-transform:uppercase}
+html.vista-paese section.sec .card{background:color-mix(in srgb,var(--tn) 14%,color-mix(in srgb,var(--card) 70%,transparent));border-top-color:var(--tn);border-left:0;background-image:none}
+html.vista-paese section.sec .card.r3{background:color-mix(in srgb,#e0a800 10%,color-mix(in srgb,var(--tn) 16%,color-mix(in srgb,var(--card) 70%,transparent)))}
+html.vista-paese .t-sport .card,html.vista-paese .t-tech .card,html.vista-paese .t-ingegneria .card{background-image:none;border-style:solid}
+html.vista-paese .card .eye .nat{display:none}
+/* pillole del giorno: curiosità per tema, sotto l'elenco delle sezioni */
+.pillole{margin-top:14px;padding-top:10px;border-top:1px solid var(--hair)}
+details.pillola{margin:0 0 8px;border-left:5px solid var(--t);border-radius:0 6px 6px 0;background:color-mix(in srgb,var(--t) 16%,color-mix(in srgb,var(--card) 80%,transparent));padding:6px 10px;font:12.5px/1.45 var(--sans)}
+details.pillola summary{cursor:pointer;display:flex;gap:8px;align-items:flex-start;font-weight:700}
+details.pillola summary small{display:block;font:600 10px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+details.pillola p{margin:6px 0 0;font-weight:400}
+details.pillola .pl-nota{font-style:italic;color:var(--muted);font-size:11.5px}
+.pl-ico{flex:none}
+.pilloleMob{display:none}
+@media(max-width:1099px){.pilloleMob{display:block;margin:8px 0}.pilloleMob .pillole{border-top:0;margin:0}}
+@media print{.pillole,.pilloleMob{display:none!important}}
+/* box «Il mondo coperto», sotto il passaporto */
+.mondo-box{background:color-mix(in srgb,#4a9a68 10%,var(--card))}
+.fonti-box{background:color-mix(in srgb,#4f7fc0 10%,var(--card))}
+.fonti-box .g-prog i{background:#4f7fc0}
+.mb-num b{font:900 34px/1 var(--display)}
+.mb-num span{font:600 16px var(--sans);color:var(--muted)}
+.mb-sub{font:12px/1.4 var(--sans);color:var(--muted);margin:2px 0 8px}
+.mondo-box .g-prog i{background:#4a9a68}
+.mb-li{margin:10px 0 8px;padding-left:16px;font:12.5px/1.5 var(--sans)}
+.mb-btn{font-size:11px;padding:5px 10px;margin-top:2px}
+/* notizie nascoste e recuperabili */
+.card.nascosta{opacity:.62;border-style:dashed}
+.nasc{border-color:var(--hair);padding:5px 9px;font-size:11px}
+/* rassegna mondiale raggruppata: riducibile e divisa per continente */
+section.rassegna>h2{display:flex;justify-content:space-between;align-items:center}
+section.rassegna.chiusa>*:not(h2){display:none}
+details.continente{margin:8px 0;border-top:3px solid var(--t);background:color-mix(in srgb,var(--t) 6%,transparent)}
+details.continente>summary{cursor:pointer;padding:6px 10px;font:700 15px var(--display);display:flex;justify-content:space-between;gap:10px}
+details.continente>summary small{font:12px var(--sans);color:var(--muted);font-weight:400}
+details.continente .paesi-g{padding:6px 10px 10px}
+.nz-modo{display:flex;gap:6px;flex-wrap:wrap}
+.nz-modo button{font-size:11px;padding:4px 10px;border-radius:99px}
+.chip.modo{font-weight:700}
+/* rassegna stampa mondiale e sguardo interno/esterno */
+.nz-t .orig,.nz-f .orig{display:block;font:italic 11px/1.35 var(--sans);color:var(--muted)}
+.nz-f{margin:2px 0 0;padding-left:18px;columns:2 320px;column-gap:26px;font:13px/1.4 var(--sans)}
+.nz-f li{break-inside:avoid;margin:0 0 5px}
+.nz-f .da{color:var(--muted);font-size:11px}
+.nz-avv{font:italic 12px var(--sans);color:var(--muted);margin:8px 0 0}
+.nz-intro{font:13px/1.5 var(--sans);color:var(--muted);margin:4px 0 8px}
+.paesi-g{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:8px 14px}
+details.paese{border:1px solid var(--hair);background:color-mix(in srgb,var(--card) 55%,transparent);padding:6px 10px}
+details.paese summary{cursor:pointer;display:flex;flex-direction:column;gap:1px}
+details.paese summary b{font:700 14px var(--display)}
+details.paese summary span{font:11px/1.3 var(--sans);color:var(--muted)}
+details.paese[open]{background:color-mix(in srgb,var(--t) 8%,color-mix(in srgb,var(--card) 60%,transparent))}
+.nz-apri{margin:8px 0 4px;font-size:11px;padding:4px 10px}
+.nz-nd{font:italic 12px var(--sans);color:var(--muted);margin:4px 0 0}
+details.nz-non{margin-top:10px;font:12px/1.5 var(--sans);color:var(--muted)}
+@media print{#rassegna{display:none!important}}
+/* accessibilità e telefono (ripreso dal progetto MAT&FIS): contorni di focus, font leggibile, bordi sicuri */
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible,.card:focus-visible{outline:3px solid var(--flag);outline-offset:2px}
+html.leggibile,html.leggibile *{font-family:'Atkinson Hyperlegible',system-ui,sans-serif!important}
+html.leggibile body{line-height:1.62;letter-spacing:.012em}
+.ticker{padding-bottom:env(safe-area-inset-bottom,0px);height:calc(38px + env(safe-area-inset-bottom,0px))}
+body{padding-bottom:calc(46px + env(safe-area-inset-bottom,0px))}
+.chart .cursore{stroke:var(--ink);stroke-width:1;stroke-dasharray:3 3;opacity:.6}
+.chart .punto{fill:var(--accent);stroke:var(--card);stroke-width:1.5}
+.chart .tip{font:700 11px var(--sans);fill:var(--ink);paint-order:stroke;stroke:var(--card);stroke-width:3px}
+.chart svg{touch-action:pan-y;cursor:crosshair}
+/* badge dei Paesi e timbri: fondo pastello, testo leggibile sia nel tema chiaro sia in quello scuro */
+.p-UK{--cc:var(--uk)} .p-US{--cc:var(--us)} .p-IT{--cc:var(--it)} .p-DE{--cc:var(--de)} .p-QA{--cc:var(--qa)} .p-JP{--cc:#b0425a}
+.card.p-JP{border-top-color:#b0425a}
+.card .eye .nat{color:var(--ink)!important;border:1px solid var(--cc,var(--xx));background:color-mix(in srgb,var(--cc,var(--xx)) 26%,var(--card))!important;font-weight:700}
+.stamp.on{color:var(--ink)!important;border:1px solid var(--cc,var(--xx));background:color-mix(in srgb,var(--cc,var(--xx)) 28%,var(--card))!important}
+.stamp.on.p-UK{--cc:var(--uk)} .stamp.on.p-US{--cc:var(--us)} .stamp.on.p-IT{--cc:var(--it)} .stamp.on.p-DE{--cc:var(--de)} .stamp.on.p-QA{--cc:var(--qa)}
+/* elenco delle sezioni fisso a sinistra (schermi larghi): resta visibile mentre si scorre */
+.rail{display:none}
+@media(min-width:1100px){
+  .rail{display:block;position:fixed;left:clamp(8px,1.5vw,28px);top:14px;width:196px;max-height:calc(100vh - 70px);overflow:auto;z-index:5;scrollbar-width:thin}
+  .wrap{padding-left:calc(196px + clamp(8px,1.5vw,28px) + 18px)}
+  nav.sections{display:none}
+}
+.rail .r-tit{font:600 10.5px var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 6px 4px}
+.rail a{display:flex;align-items:center;gap:7px;padding:3px 9px;margin:0 0 3px;border-left:5px solid var(--t);border-radius:0 6px 6px 0;background:color-mix(in srgb,var(--t) 22%,color-mix(in srgb,var(--card) 80%,transparent));color:var(--ink);text-decoration:none;font:700 12.5px/1.25 var(--sans);transition:background .15s,transform .15s}
+.rail a:hover{background:color-mix(in srgb,var(--t) 40%,var(--card));transform:translateX(2px)}
+.rail a.on{background:color-mix(in srgb,var(--t) 52%,var(--card));box-shadow:0 0 0 2px var(--t)}
+.rail a .n{margin-left:auto;font:600 11px var(--sans);color:var(--muted);background:color-mix(in srgb,var(--card) 70%,transparent);border-radius:99px;padding:0 7px}
+.rail a .ico{flex:none}
+.rail .r-sep{height:1px;background:var(--hair);margin:5px 0}
+.rail .pillole{margin-top:6px;padding-top:6px}
+.rail a.r-extra{border-left-color:var(--hair);background:transparent;font-weight:600}
+@media print{.rail{display:none!important}}
+/* correzione: i colori dei temi devono prevalere sulla regola generica section.sec{--t:...} (maggiore specificità) */
+section.sec.t-prima,nav.sections a.t-prima{--t:#8a8576}
+section.sec.t-mondo,nav.sections a.t-mondo{--t:#4f7fc0}
+section.sec.t-italia,nav.sections a.t-italia{--t:#4a9a68}
+section.sec.t-economia,nav.sections a.t-economia{--t:#e0804a}
+section.sec.t-ingegneria,nav.sections a.t-ingegneria{--t:#b08a4a}
+section.sec.t-organizzazioni,nav.sections a.t-organizzazioni{--t:#7a86b8}
+section.sec.t-cucina,nav.sections a.t-cucina{--t:#c9a227}
+section.sec.t-musica,nav.sections a.t-musica{--t:#8b6fd1}
+.t-musica .card{border-radius:14px 14px 14px 14px;border-left:6px solid var(--t);background-image:repeating-linear-gradient(0deg,color-mix(in srgb,var(--t) 9%,transparent) 0 1px,transparent 1px 9px)}
+.t-musica h3{font-style:italic}
+section.sec.t-adolescenti,nav.sections a.t-adolescenti{--t:#e07aa0}
+section.sec.t-meteo,nav.sections a.t-meteo{--t:#5aa7d8}
+/* Organizzazioni: filetto istituzionale · Cucina: bordo a quadretti da tovaglia · Adolescenti: angoli morbidi e fumetto · Meteo: tabella limpida */
+.t-organizzazioni .card{border-top-width:5px;border-radius:0}
+.t-cucina .card{background-image:repeating-linear-gradient(45deg,color-mix(in srgb,var(--t) 8%,transparent) 0 8px,transparent 8px 16px);border-radius:10px}
+.t-cucina h3{font-style:italic}
+.t-adolescenti .card{border-radius:18px 18px 18px 4px;border-width:2px}
+.t-adolescenti h3{font-family:var(--sans);font-weight:800;letter-spacing:-.01em}
+.meteo-box{border:1px solid var(--hair);background:color-mix(in srgb,var(--t) 8%,color-mix(in srgb,var(--card) 60%,transparent));padding:8px 10px;font:12.5px var(--sans)}
+.meteo-box h4{font:700 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:6px 0 4px}
+.meteo-box table{width:100%;border-collapse:collapse}
+.meteo-box td{padding:3px 4px;border-bottom:1px dotted var(--hair);white-space:nowrap}
+.meteo-box td:first-child{font-weight:700;white-space:normal}
+.meteo-box .em{font-size:16px}
+.meteo-box .fn{font-size:11px;color:var(--muted);margin:6px 0 0}
+/* Ingegneria e architettura: carta millimetrata, filetto bronzo, titoli in maiuscoletto */
+.t-ingegneria .card{background-image:linear-gradient(color-mix(in srgb,var(--t) 14%,transparent) 1px,transparent 1px),linear-gradient(90deg,color-mix(in srgb,var(--t) 14%,transparent) 1px,transparent 1px);background-size:14px 14px;border-left:4px solid var(--t)}
+.t-ingegneria h3{font-variant:small-caps;letter-spacing:.02em}
+section.sec.t-tech,nav.sections a.t-tech{--t:#2a9db5}
+section.sec.t-ambiente,nav.sections a.t-ambiente{--t:#6aa84f}
+section.sec.t-salute,nav.sections a.t-salute{--t:#3aa59e}
+section.sec.t-cultura,nav.sections a.t-cultura{--t:#a86bb0}
+section.sec.t-sport,nav.sections a.t-sport{--t:#e0564b}
+/* titoli di sezione: sfondo nel colore del tema, testo sempre scuro */
+section.sec>h2{background:color-mix(in srgb,var(--t) 36%,var(--paper));border-top:4px solid var(--t);color:var(--ink)}
+section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
+</style>
+</head>
+<body>
+<!-- filigrana del mondo: sullo sfondo, si accende la città da cui arriva la notizia su cui passi -->
+<svg class="filigrana" aria-hidden="true" viewBox="0 0 1000 500" preserveAspectRatio="xMidYMid meet"><g class="fil-terra" id="paesiG"></g></svg>
+<svg class="filigrana alto" id="wmHi" aria-hidden="true" viewBox="0 0 1000 500" preserveAspectRatio="xMidYMid meet"></svg>
+<div class="wrap">
+
+<div class="top"><span id="dataTop"></span><span>Edizione privata · solo fonti riconosciute · nessuna cronaca nera</span></div>
+
+<header class="masthead">
+  <h1>Uno sguardo sul mondo</h1>
+  <p>Il mondo di oggi, visto dagli occhi di chi lo racconta · senza cronaca nera</p>
+</header>
+
+<div class="editionbar"><span id="edizione"></span><div id="rapidi" class="rapidi" aria-label="Numeri e meteo del giorno"></div><span><label for="archivio">Archivio </label><select id="archivio" aria-label="Scegli l'edizione"></select> · <span id="conteggio"></span></span></div>
+<details class="howto"><summary>Un giornale, non un feed · come si legge · <span class="leg-r">★★★</span> da non perdere <span class="leg-r">★★</span> importante</summary>Un'edizione al giorno, finita, senza scroll infinito, senza video che partono da soli: si legge con calma, un articolo alla volta. <b>Come si legge.</b>Ogni notizia porta il <b>paese e la città da cui scrive la testata</b>: è il suo sguardo, non una verità neutra. Quando più testate raccontano lo stesso fatto, trovi gli <b>«sguardi a confronto»</b>. Clicca su un riquadro per aprirlo. Le stelle gialle e il bordo dorato segnalano le notizie più importanti del giorno: tre stelle da non perdere, due importanti. L'ordine delle sezioni non cambia.</details>
+
+<div class="destra">
+  <div class="game" id="game"></div>
+  <div class="game mondo-box" id="mondoBox"></div>
+  <div class="game fonti-box" id="fontiBox"></div>
+</div>
+
+<nav class="sections" id="nav"></nav>
+
+<div class="tools">
+  <input type="search" id="q" placeholder="Cerca per parola chiave, testata o città…" aria-label="Cerca">
+  <button id="allopen">Espandi tutto</button>
+  <button id="sezioniTutte" title="Riduce o espande tutte le sezioni">Riduci le sezioni</button>
+  <button id="onlyimp" aria-pressed="false" title="Mostra solo le notizie con due o tre stelle">★★ Più importanti</button>
+  <button id="onlygood" aria-pressed="false" title="Mostra solo le buone notizie, sparse nei vari temi">☀ Buone notizie</button>
+  <button id="onlysaved" aria-pressed="false">☆ Da leggere</button>
+  <button id="nascondiLette" title="Toglie dallo schermo le notizie che hai già aperto">Nascondi le lette</button>
+  <button id="mostraNasc" aria-pressed="false" title="Mostra solo le notizie nascoste, per riprenderle">Nascoste (0)</button>
+  <button id="ripristinaTutte" hidden title="Riporta in pagina tutte le notizie nascoste">Ripristina tutte</button>
+  <button id="mappaBtn" aria-pressed="false" title="Porta la mappa in primo piano e clicca un Paese">🌍 Esplora la mappa</button>
+  <button id="theme" aria-label="Cambia tema">Tema</button>
+  <button id="ttsBtn" title="Ascolta le notizie lette da una voce italiana">🔊 Ascolta</button>
+  <button id="graficaBtn" aria-pressed="false" title="Cambia la grafica: colori per tema oppure per Paese a cui si riferisce la notizia">Grafica: per tema</button>
+  <button id="leggibile" aria-pressed="false" title="Carattere ad alta leggibilità (Atkinson Hyperlegible)">Aa Leggibile</button>
+  <span class="sep" aria-hidden="true">|</span>
+  <button id="shNative" hidden>Condividi</button>
+  <button id="shWa" title="Invia i titoli dell'edizione su WhatsApp">WhatsApp</button>
+  <button id="shMail" title="Invia i titoli dell'edizione per e-mail">E-mail</button>
+  <button id="shPdf" title="Apre la stampa: scegli «Salva come PDF» e allega il file">PDF / Stampa</button>
+  <div class="chips" id="chips"><span class="lab">Sguardo di:</span></div>
+</div>
+
+<div id="pilloleMob" class="pilloleMob"></div>
+<div id="nazBar" class="nazbar" hidden></div>
+<main id="main"></main>
+
+<aside class="rail" id="rail" aria-label="Sezioni del giornale"></aside>
+<div class="tts" id="ttsPanel" hidden></div>
+<div class="legenda" aria-hidden="true"><i class="lg-ev"></i>luogo dei fatti<i class="lg-sc"></i>chi scrive (colore del Paese)</div>
+<div class="ticker" id="ticker" aria-label="Titoli del giorno"></div>
+
+<div class="fascia">
+  <section class="sec" id="grafico"></section>
+  <section class="sec" id="video"></section>
+</div>
+
+<section class="sec t-mondo rassegna" id="rassegna"></section>
+
+<section class="quiz" id="quizBox"><button class="riduci" aria-label="Riduci o espandi il quiz">−</button><div id="quiz"></div></section>
+
+<div class="end"><b>Fine dell'edizione.</b><span>Hai letto tutto ciò che conta per oggi. Il resto del mondo può aspettare domani mattina.</span></div>
+
+<section class="prefs" id="prefs" aria-labelledby="prefs-h">
+  <button class="riduci" aria-label="Riduci o espandi le tue scelte">−</button>
+  <h2 id="prefs-h">Le tue scelte</h2>
+  <p class="sub">Accendi (colorato) o spegni (grigio) i temi e le testate che vuoi leggere. La pagina si aggiorna subito e la scelta resta salvata su questo computer. I temi e le fonti con «prossima edizione» non hanno ancora notizie oggi: se li accendi, li porterò nei prossimi numeri.</p>
+  <h4>Temi</h4>
+  <div class="togs" id="togTemi"></div>
+  <h4>Fonti</h4>
+  <div class="togs" id="togFonti"></div>
+  <div class="bulk">
+    <button id="tuttiOn">Accendi tutto</button>
+    <button id="tuttiOff">Spegni tutto</button>
+  </div>
+</section>
+
+<footer>
+  <p><b>Fonti di questa edizione:</b> BBC News, The Guardian, NPR, Deutsche Welle, Al Jazeera, ANSA, Positive News, Good News Network.</p>
+  <p>I testi nei riquadri sono sintesi redazionali scritte per questa edizione a partire dai titoli e dagli occhielli pubblicati dalle testate; i fatti sono i loro. L'articolo completo si legge sul sito della fonte (pulsanti «Originale» e «Leggi tradotto»). Edizione di uso privato. <b>Sono escluse le notizie di cronaca nera</b> (omicidi, violenze, reati sessuali, incidenti mortali): quelle che le testate pubblicano non compaiono né nelle schede né nei titoli per Paese.</p>
+</footer>
+</div>
+
+<script>
+/* ===== DATI DELL'EDIZIONE ===== */
+let EDIZIONE = "", K = "", TIPO = "mattino", NEWS = [], QUIZ = [], SGUARDI = {}, CONTESTI = {}, CRONO = {}, LUOGHI = {}, RILIEVO = {}, VIDEO_IT = {};
+const PAESI = {
+  UK:{nome:"Regno Unito"}, US:{nome:"Stati Uniti"}, IT:{nome:"Italia"}, DE:{nome:"Germania"}, QA:{nome:"Qatar"}, JP:{nome:"Giappone"}, INT:{nome:"Internazionale"},
+  FR:{nome:"Francia"}, ES:{nome:"Spagna"}, AT:{nome:"Austria"}, RU:{nome:"Russia"}, UA:{nome:"Ucraina"}, KR:{nome:"Corea del Sud"}, IE:{nome:"Irlanda"},
+  CN:{nome:"Cina"}, IN:{nome:"India"}, PK:{nome:"Pakistan"}, NP:{nome:"Nepal"}, NL:{nome:"Paesi Bassi"}, CA:{nome:"Canada"}, AR:{nome:"Argentina"},
+  CH:{nome:"Svizzera"}, NG:{nome:"Nigeria"}, DZ:{nome:"Algeria"}, MX:{nome:"Messico"}, EG:{nome:"Egitto"}, BR:{nome:"Brasile"}, CO:{nome:"Colombia"},
+  AU:{nome:"Australia"}, NZ:{nome:"Nuova Zelanda"}, TR:{nome:"Turchia"}, IL:{nome:"Israele"}, SA:{nome:"Arabia Saudita"}
+};
+const SEZIONI = [
+  {id:"prima", nome:"Prima pagina", front:true},
+  {id:"italia", nome:"Italia"},
+  {id:"mondo", nome:"Mondo"},
+  {id:"organizzazioni", nome:"Organizzazioni internazionali"},
+  {id:"economia", nome:"Economia"},
+  {id:"ingegneria", nome:"Ingegneria e architettura"},
+  {id:"tech", nome:"Tecnologia e Scienza"},
+  {id:"ambiente", nome:"Ambiente e natura"},
+  {id:"salute", nome:"Salute"},
+  {id:"cultura", nome:"Cultura"},
+  {id:"musica", nome:"Musica"},
+  {id:"cucina", nome:"Cucina"},
+  {id:"adolescenti", nome:"Adolescenti (13-18 anni)"},
+  {id:"sport", nome:"Sport"},
+  {id:"meteo", nome:"Meteo"},
+];
+/* Temi proposti per le prossime edizioni (nessuna notizia oggi) */
+const TEMI_EXTRA = ["Politica","Ambiente e clima","Arte e musei","Viaggi","Cibo","Spazio","Libri","Scuola e università"];
+/* Fonti: p = paese di redazione. "oggi" si calcola dalle notizie. Le altre sono già selezionate per le prossime edizioni. */
+let FONTI_ELENCO = [
+  ["BBC News","UK"],["The Guardian","UK"],["NPR","US"],["Deutsche Welle","DE"],["Al Jazeera","QA"],["ANSA","IT"],
+  ["Positive News","UK"],["Good News Network","US"],
+  ["Rai News","IT"],["Corriere della Sera","IT"],["la Repubblica","IT"],["Il Sole 24 Ore","IT"],["Reuters","INT"],["Associated Press","US"],["The Conversation","INT"],["Global Voices","INT"],["Reasons to be Cheerful","INT"]
+];
+
+
+/* ===== LOGICA ===== */
+const $ = s=>document.querySelector(s);
+const store = {
+  get(k){ try{ return JSON.parse(localStorage.getItem(k)||"[]"); }catch(e){ return []; } },
+  set(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch(e){} }
+};
+let letti = new Set(store.get("usm_letti")), salvati = new Set(store.get("usm_salvati"));
+/* notizie nascoste dal lettore (già lette): si possono sempre recuperare */
+let nascoste = new Set(store.get("usm_nascoste")), mostraNascoste = false;
+const kn = n => K+"/"+n.id;
+/* la Rassegna mondiale parte ridotta, la prima volta */
+(function(){ let v = null; try{ v = localStorage.getItem("usm_ras"); }catch(e){}
+  if(!v){ try{ localStorage.setItem("usm_ras","1"); }catch(e){} }
+  window.__rasPrimaVolta = !v; })();
+let modoNazione = "su";   // «su» = notizie che riguardano il Paese; «da» = notizie scritte da sue testate
+/* sottotemi: l'etichetta colorata che dice a colpo d'occhio di cosa parla una notizia (per ora nella sezione Adolescenti) */
+const SUB = {musica:["🎵","Musica","#d86a9a"], cinema:["🎬","Cinema e serie","#b04a5a"], giochi:["🎮","Videogiochi","#7a6ad8"], tech:["🤖","Internet e IA","#4aa3c9"],
+  scienza:["🔬","Scienza","#3aa88a"], natura:["🌿","Natura e animali","#6aa84f"], sport:["⚽","Sport","#4a7ad8"], scuola:["🎓","Scuola","#d8a24a"], futuro:["🚀","Lavoro e futuro","#c9703a"]};
+let filtroSub = null;
+let filtroSezione = null, filtroPaese = null, filtroNazione = null, soloSalvati = false, soloImportanti = false, soloBuone = false, query = "";
+const ATLAS_IT = {};   // nome del Paese nella mappa -> nome in italiano (dal catalogo)
+/* primo avvio: tutte le fonti e tutti i temi accesi */
+let primoAvvio = false; try{ primoAvvio = !localStorage.getItem("usm_avviato"); }catch(e){}
+let offTemi = new Set(primoAvvio?[]:store.get("usm_temi_off")), offFonti = new Set(primoAvvio?[]:store.get("usm_fonti_off")), extraOn = new Set(primoAvvio?TEMI_EXTRA:store.get("usm_extra_on"));
+try{ localStorage.setItem("usm_avviato","1"); }catch(e){}
+let chiuse = new Set(store.get("usm_sez_chiuse"));   // sezioni ridotte dal lettore
+
+let dataLunga = "";
+function intestazione(){
+  const d = new Date(EDIZIONE+"T08:00:00");
+  dataLunga = d.toLocaleDateString("it-IT",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+  $("#dataTop").textContent = dataLunga;
+  $("#edizione").textContent = (TIPO==="sera"?"Edizione della sera":"Edizione del mattino")+" · "+dataLunga;
+}
+
+/* ===== GLOSSARIO: passa il mouse (o tocca) sui termini sottolineati ===== */
+const GLOSSARIO = {
+  "Houthi":"Movimento armato yemenita che controlla la capitale Sanaa e parte del Paese.",
+  "Bledisloe Cup":"Trofeo di rugby che si assegna ogni anno tra Nuova Zelanda e Australia.",
+  "Wallabies":"Soprannome della nazionale di rugby australiana.",
+  "All Blacks":"Soprannome della nazionale di rugby neozelandese.",
+  "Eden Park":"Stadio di Auckland, in Nuova Zelanda.",
+  "fast radio burst":"Lampo di onde radio brevissimo e potentissimo, di origine extragalattica.",
+  "elezioni di metà mandato":"Voto negli Stati Uniti per rinnovare il Congresso a metà del mandato presidenziale.",
+  "mudlark":"Chi cerca reperti sulle rive del Tamigi con la bassa marea.",
+  "Aldabra":"Atollo corallino delle Seychelles, nell'Oceano Indiano.",
+  "Adhd":"Disturbo da deficit di attenzione e iperattività.",
+  "Oms":"Organizzazione mondiale della sanità.",
+  "Test":"Partita internazionale ufficiale tra due nazionali.",
+  "quotazione":"Debutto di un'azienda in Borsa.",
+  "sanzioni":"Misure economiche con cui uno Stato colpisce persone, imprese o Paesi."
+};
+function glossa(htmlSicuro){
+  let out = htmlSicuro;
+  for(const [t,def] of Object.entries(GLOSSARIO)){
+    const re = new RegExp("(^|[^\\p{L}>])("+t.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")(?![\\p{L}<])","iu");
+    out = out.replace(re,(m,a,b)=>a+`<abbr title="${def.replace(/"/g,"&quot;")}">${b}</abbr>`);
+  }
+  return out;
+}
+
+/* ===== IL FILO DI UNA STORIA: le edizioni precedenti sullo stesso tema ===== */
+function filoDi(n){
+  if(!n.filo) return "";
+  const righe = [];
+  Object.keys(window.EDIZIONI||{}).sort().forEach(k=>{
+    if(k===K) return;
+    (window.EDIZIONI[k].news||[]).filter(x=>x.filo===n.filo).forEach(x=>{
+      righe.push(`<li><a href="#" data-ed="${k}">${esc(k.slice(0,10))}</a> · ${esc(x.titolo)}</li>`);
+    });
+  });
+  return righe.length ? `<div class="prisma"><h4>Il filo della storia</h4><ul class="filo">${righe.join("")}</ul></div>` : "";
+}
+
+function esc(s){ return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function tradotto(u){ return "https://translate.google.com/translate?sl=auto&tl=it&u="+encodeURIComponent(u); }
+
+/* importanza: 3 = da non perdere, 2 = importante, 1 = normale. Decisa dalla redazione; se manca, dipende da quante testate ne parlano. */
+/* Paese a cui si riferisce la notizia (non chi la scrive): serve alla grafica «per Paese» */
+function coloreN(chiave){ let h = 0; for(const ch of String(chiave||"x")) h = (h*31 + ch.charCodeAt(0)) % 360; return `hsl(${h} 52% 58%)`; }
+function nazioneDi(n){
+  const L = LUOGHI[n.id];
+  if(L && L.p && L.p.length) return {chiave:L.p[0], nome:ATLAS_IT[L.p[0]] || L.p[0]};
+  if(L && L.n) return {chiave:L.n, nome:L.n.split(",")[0]};
+  const f = n.fonti[0]; const a = f.atlas || CITTA_PAESE[f.c];
+  return {chiave:a||f.c, nome:(a && ATLAS_IT[a]) || (PAESI[f.p] && PAESI[f.p].nome) || f.c};
+}
+/* ===== VERIFICA: quante fonti indipendenti confermano la notizia (le voci di Stato non contano come conferma di un fatto) ===== */
+let NATURA_FONTE = {};
+function verificaDi(n){
+  if(!Object.keys(NATURA_FONTE).length) (window.CATALOGO||[]).forEach(r=>{ NATURA_FONTE[r[0]] = r[5]; });
+  const nomi = [...new Set(n.fonti.map(f=>f.n))];
+  const indip = nomi.filter(x=>NATURA_FONTE[x]!=="di Stato"), uff = indip.filter(x=>NATURA_FONTE[x]==="ufficiale");
+  if(indip.length>=3) return {cl:"v3", s:"✔✔✔", t:`Confermata da ${indip.length} fonti indipendenti`};
+  if(indip.length===2) return {cl:"v2", s:"✔✔", t:"Confermata da 2 fonti indipendenti"};
+  if(uff.length) return {cl:"v1", s:"✔", t:"Fonte ufficiale"};
+  return {cl:"v0", s:"◌", t:"Fonte unica: non ancora incrociata con altre testate"};
+}
+function rilievo(n){ const r = RILIEVO[n.id]; return r || (n.fonti.length>=3?3:n.fonti.length===2?2:1); }
+function cardHTML(n){
+  const fa = n.fonti.filter(x=>!offFonti.has(x.n));
+  const f0 = fa[0]||n.fonti[0], p = f0.p;
+  const multi = fa.length>1;
+  const nPaese = PAESI[p]?PAESI[p].nome:f0.c;
+  const prisma = multi ? `<div class="prisma"><h4>Sguardi a confronto</h4>${fa.filter(x=>x.angolo).map(x=>`<p class="v p-${x.p}" style="border-color:${coloreP(x.p)}"><b>${esc(x.n)} · ${esc(x.c)}</b><br>${esc(x.angolo)}</p>`).join("")}</div>` : "";
+  const acts = fa.map(x=>{
+    const it = x.p==="IT";
+    return `<a class="btn" href="${x.u}" target="_blank" rel="noopener">Originale · ${esc(x.n)}</a>` + (it?"":` <a class="btn" href="${tradotto(x.u)}" target="_blank" rel="noopener">Leggi tradotto</a>`);
+  }).join(" ");
+  return `<article style="--tn:${coloreN(nazioneDi(n).chiave)}" class="card p-${p} r${rilievo(n)}${n.good?" good":""}${letti.has(n.id)?" read":""}${nascoste.has(kn(n))?" nascosta":""}" data-id="${n.id}" data-p="${p}" tabindex="0" aria-expanded="false">
+    <div class="naz-big" aria-hidden="true">${esc(nazioneDi(n).nome)}</div>
+    <div class="eye"><span class="nat">${esc(nPaese)}</span><span class="where">Da ${esc(f0.c)} · ${esc(f0.n)}${multi?" +"+(fa.length-1):""}</span>${LUOGHI[n.id]?`<span class="dove">Accade: ${esc(LUOGHI[n.id].n)}</span>`:""}${n.good?`<span class="buona" title="Buona notizia">☀ Buona notizia</span>`:""}${(()=>{ const v = verificaDi(n); return `<span class="verifica ${v.cl}" title="${esc(v.t)}">${v.s}<small>${v.cl==="v0"?" fonte unica":""}</small></span>`; })()}${rilievo(n)>=2?`<span class="stelle" title="${rilievo(n)===3?"Da non perdere":"Importante"}">${"★".repeat(rilievo(n))}</span>`:""}</div>
+    ${n.sub&&SUB[n.sub]?`<div class="subtag" style="--sc:${SUB[n.sub][2]}"><span aria-hidden="true">${SUB[n.sub][0]}</span> ${SUB[n.sub][1]}</div>`:""}
+    <h3>${esc(n.titolo)}</h3>
+    <p class="lead">${glossa(esc(n.lead))}</p>
+    <div class="more">${(CONTESTI[n.id]||CRONO[n.id])?`<div class="contesto"><b>Finora · cosa è successo nei giorni scorsi</b>${CONTESTI[n.id]?`<p>${glossa(esc(CONTESTI[n.id]))}</p>`:""}${CRONO[n.id]?`<ol class="crono">${CRONO[n.id].map(([d,t])=>`<li><b>${esc(d)}</b> ${glossa(esc(t))}</li>`).join("")}</ol>`:""}</div>`:""}${n.more.map(m=>`<p>${glossa(esc(m))}</p>`).join("")}${prisma}${filoDi(n)}${SGUARDI[n.id]?`<p class="sguardo"><b>${multi?"Il commento · uno sguardo d'insieme":"Il commento · lo sguardo di "+esc(f0.c)}</b><br><i>${esc(SGUARDI[n.id])}</i></p>`:""}</div>
+    <div class="foot">Titolo originale: <i>${esc(n.orig)}</i><div class="acts">${acts}</div><div class="acts no-print"><span>Condividi:</span> <button class="btn sh" data-w="wa">WhatsApp</button> <button class="btn sh" data-w="mail">E-mail</button> <button class="btn sh" data-w="copy">Copia</button></div>Fonte: ${esc(f0.n)}, ${esc(f0.c)} (${esc(nPaese)}) · ${esc(n.data)}</div>
+    <div class="row"><span class="meta">${esc(n.data)} · <span class="tg">Apri ▾</span></span><span class="ctl"><button class="ascolta" aria-label="Ascolta questa notizia" title="Ascolta questa notizia">🔊</button><button class="nasc" aria-label="${nascoste.has(kn(n))?"Ripristina questa notizia":"Nascondi questa notizia"}" title="${nascoste.has(kn(n))?"Ripristina":"Nascondi (puoi recuperarla da «Nascoste»)"}">${nascoste.has(kn(n))?"↺ Ripristina":"✕ Nascondi"}</button><button class="star" aria-pressed="${salvati.has(n.id)}" aria-label="Da leggere" title="Da leggere">★</button></span></div>
+  </article>`;
+}
+
+function visibile(n){
+  { const nasc = nascoste.has(kn(n)); if(mostraNascoste ? !nasc : nasc) return false; }   // «Nascoste» mostra solo quelle nascoste
+  if(!n.fonti.some(f=>!offFonti.has(f.n))) return false;
+  if(soloImportanti && rilievo(n)<2) return false;
+  if(soloBuone && !n.good) return false;
+  if(filtroSezione && n.sez!==filtroSezione) return false;
+  if(filtroSub && n.sez==="adolescenti" && n.sub!==filtroSub) return false;
+  if(filtroNazione && !toccaPaese(n,filtroNazione)) return false;
+  if(filtroPaese && !n.fonti.some(f=>f.p===filtroPaese)) return false;
+  if(soloSalvati && !salvati.has(n.id)) return false;
+  if(query){
+    const h = (n.titolo+" "+n.lead+" "+n.more.join(" ")+" "+n.fonti.map(f=>f.n+" "+f.c).join(" ")).toLowerCase();
+    if(!h.includes(query)) return false;
+  }
+  return true;
+}
+
+function subBar(s){                                   // riga di filtri per sottotema, in testa alla sezione
+  if(s.id!=="adolescenti") return "";
+  const conta = {}; NEWS.filter(n=>n.sez===s.id && n.sub && SUB[n.sub]).forEach(n=>conta[n.sub] = (conta[n.sub]||0)+1);
+  const k = Object.keys(conta); if(k.length<2) return "";
+  return `<div class="sub-bar" role="group" aria-label="Argomenti">${k.map(c=>`<button data-sub="${c}" aria-pressed="${filtroSub===c}" style="--sc:${SUB[c][2]}"><span aria-hidden="true">${SUB[c][0]}</span> ${SUB[c][1]} <small>${conta[c]}</small></button>`).join("")}${filtroSub?`<button data-sub="" class="sub-tutti">Tutti gli argomenti</button>`:""}</div>`;
+}
+document.addEventListener("click",e=>{
+  const b = e.target.closest(".sub-bar button"); if(!b) return;
+  filtroSub = (b.dataset.sub && b.dataset.sub!==filtroSub) ? b.dataset.sub : null; render();
+});
+function render(){
+  const main = $("#main"); let tot=0, html=""; const parti=[];
+  clearTimers();
+  $("#nav").innerHTML = SEZIONI.filter(s=>!offTemi.has(s.id)).map(s=>`<a href="#s-${s.id}" class="t-${s.id}${s.good?" good":""}">${s.nome}</a>`).join("");
+  for(const s of SEZIONI){
+    if(offTemi.has(s.id)) continue;
+    if(s.id==="meteo"){ const h = meteoHTML(s); if(h){ parti.push({full:false, html:h}); } continue; }   // il meteo è una tabella di dati, non un elenco di notizie
+    const items = NEWS.filter(n=>n.sez===s.id && visibile(n));
+    if(!items.length) continue; tot+=items.length;
+    const ch = chiuse.has(s.id);
+    parti.push({full:!!(s.front||filtroSezione===s.id), html:`<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${s.good?" goodsec":""}${(s.front||filtroSezione===s.id)?" fullw":""}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}${s.nome}</span><span class="h2r"><small>${items.length} ${items.length===1?"notizia":"notizie"}</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2>${subBar(s)}<div class="grid${s.front?" front":""}">${items.map(cardHTML).join("")}</div></section>`});
+  }
+  { let out = "", gruppo = [];
+    const chiudi = ()=>{ if(gruppo.length){ out += `<div class="masonry">${gruppo.join("")}</div>`; gruppo = []; } };
+    parti.forEach(p=>{ if(p.full){ chiudi(); out += p.html; } else gruppo.push(p.html); });
+    chiudi(); html = out; }
+  main.innerHTML = html || '<p class="empty">Nessuna notizia corrisponde ai filtri scelti.</p>';
+  ordinaColonne();
+  $("#conteggio").textContent = tot+" notizie";
+  if(typeof renderTicker==="function") renderTicker();
+  if(typeof renderRail==="function") renderRail();
+  if(typeof aggiornaNascoste==="function") aggiornaNascoste();
+}
+
+/* ===== METEO: previsioni di città italiane e del mondo (dati Open-Meteo, raccolti ogni giorno) ===== */
+const EMO_METEO = c => c===0?"☀️":c<=2?"⛅":c===3?"☁️":(c===45||c===48)?"🌫️":(c>=51&&c<=57)?"🌦️":((c>=61&&c<=67)||(c>=80&&c<=82))?"🌧️":((c>=71&&c<=77)||c===85||c===86)?"❄️":c>=95?"⛈️":"🌡️";
+function meteoHTML(s){
+  const D = datiGiorno(), M = D && D.meteo_citta;
+  if(!M || !M.citta || !M.citta.length) return "";
+  if(filtroSezione && filtroSezione!==s.id) return "";
+  if(soloImportanti || soloBuone || soloSalvati || query || filtroNazione || mostraNascoste) return "";
+  const ch = chiuse.has(s.id), gruppi = {};
+  M.citta.forEach(c=>(gruppi[c.g] = gruppi[c.g] || []).push(c));
+  const riga = c=>`<tr><td>${esc(c.c)}</td><td><span class="em">${EMO_METEO(c.code[0])}</span> ${Math.round(c.min[0])}°–${Math.round(c.max[0])}° <small>${METEO[c.code[0]]||""}</small></td><td>domani ${EMO_METEO(c.code[1])} ${Math.round(c.min[1])}°–${Math.round(c.max[1])}°</td></tr>`;
+  const corpo = Object.keys(gruppi).map(g=>`<h4>${esc(g)}</h4><table>${gruppi[g].map(riga).join("")}</table>`).join("");
+  return `<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}${s.nome}</span><span class="h2r"><small>${M.citta.length} città</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2><div class="grid"><div class="meteo-box"><div class="met-sat"><div class="met-tab"><button data-ov="satellite" aria-pressed="false">🛰 Satellite (nuvole)</button><button data-ov="rain" aria-pressed="false">☔ Previsione pioggia</button><button data-ov="temp" aria-pressed="false">🌡 Previsione temperature</button><button data-ov="wind" aria-pressed="false">💨 Vento</button></div><div class="met-frame"><p class="fn">Scegli una vista: le mappe sono animate e interattive (Windy, dati dei satelliti Meteosat e dei modelli ECMWF). Si caricano solo quando le apri.</p></div></div>${corpo}<p class="fn">Previsioni: ${esc(M.fonte)}. Temperature minime e massime di oggi e di domani.</p></div></div></section>`;
+}
+
+/* ===== COLONNE BILANCIATE: ogni sezione resta intera in una colonna; si riempie sempre la colonna piÃ¹ corta ===== */
+function ordinaColonne(){
+  document.querySelectorAll("#main .masonry").forEach(m=>{
+    const n = Math.max(1, Math.min(5, Math.floor(m.clientWidth/330)));
+    const secs = [...m.querySelectorAll("section.sec")].sort((a,b)=>a.dataset.ord-b.dataset.ord);
+    m.style.gridTemplateColumns = `repeat(${n},minmax(0,1fr))`;
+    const cols = [];
+    for(let i=0;i<n;i++){ const c = document.createElement("div"); c.className = "mcol"; cols.push(c); }
+    m.innerHTML = "";
+    cols.forEach(c=>m.appendChild(c));
+    secs.forEach(s=>cols[0].appendChild(s));                      // misura: tutte alla larghezza di una colonna
+    const h = new Map(secs.map(s=>[s, s.offsetHeight]));
+    const alt = Array(n).fill(0);
+    secs.forEach(s=>{
+      let k = 0; for(let i=1;i<n;i++) if(alt[i] < alt[k]) k = i;
+      cols[k].appendChild(s); alt[k] += (h.get(s)||0) + 8;
+    });
+  });
+}
+let _rz = null;
+window.addEventListener("resize",()=>{ clearTimeout(_rz); _rz = setTimeout(ordinaColonne, 180); });
+function buildNav(){
+  $("#nav").innerHTML = SEZIONI.map(s=>`<a href="#s-${s.id}" class="t-${s.id}${s.good?" good":""}">${s.nome}</a>`).join("");
+  /* filtro per Paese: «che riguardano» (di default) oppure «scritte da» testate di quel Paese */
+  const su = {}, da = {};
+  NEWS.forEach(n=>{
+    const L = LUOGHI[n.id]; ((L && L.p) || []).forEach(a=>su[a] = (su[a]||0)+1);
+    new Set(n.fonti.map(f=>f.atlas || CITTA_PAESE[f.c]).filter(Boolean)).forEach(a=>da[a] = (da[a]||0)+1);
+  });
+  const conta = modoNazione==="da" ? da : su;
+  const chiavi = Object.keys(conta).sort((a,b)=>conta[b]-conta[a] || nomePaese(a).localeCompare(nomePaese(b),"it"));
+  const c = $("#chips");
+  c.innerHTML = `<span class="lab">Notizie</span><button class="chip modo" data-modo="su" aria-pressed="${modoNazione==="su"}">che riguardano</button><button class="chip modo" data-modo="da" aria-pressed="${modoNazione==="da"}">scritte da</button><button class="chip" data-atlas="" aria-pressed="${!filtroNazione}">Tutti i Paesi</button>`+
+    chiavi.map(a=>`<button class="chip" data-atlas="${esc(a)}" aria-pressed="${filtroNazione===a}">${esc(nomePaese(a))} (${conta[a]})</button>`).join("");
+}
+function setPaese(p){
+  filtroPaese = p||null;
+  document.querySelectorAll("#chips .chip").forEach(x=>x.setAttribute("aria-pressed", (x.dataset.p||null)===filtroPaese));
+  render();
+}
+$("#chips").addEventListener("click",e=>{
+  const b = e.target.closest(".chip"); if(!b) return;
+  if(b.dataset.modo){                                            // cambia il significato del filtro, mantenendo il Paese scelto
+    modoNazione = b.dataset.modo;
+    if(filtroNazione){ const n = filtroNazione; filtroNazione = null; selezionaNazione(n); } else { buildNav(); }
+    return;
+  }
+  if(b.dataset.atlas === "") { if(filtroNazione) selezionaNazione(filtroNazione); return; }   // «Tutti i Paesi»
+  selezionaNazione(b.dataset.atlas);
+});
+
+/* ===== BOX RAPIDI, MAPPA, GRAFICO, VIDEO (dati raccolti da strumenti/raccogli_dati.py) ===== */
+/* ===== PROVENIENZA: mini-mappa nella notizia e punti che si accendono sulla filigrana ===== */
+function xy(c){ const k = COORD[c]; return k ? pr(k[0],k[1]) : null; }
+function pr(lat,lon){
+  const k = [lat,lon], M = window.MAPPA; if(!M) return null;
+  const [A1,A2,A3,A4] = M.proj.A, SQ = Math.sqrt(3)/2;
+  const l = k[1]*Math.PI/180, th = Math.asin(SQ*Math.sin(k[0]*Math.PI/180)), t2 = th*th, t6 = t2*t2*t2;
+  const x = l*Math.cos(th)/(SQ*(A1+3*A2*t2+t6*(7*A3+9*A4*t2)));
+  const y = th*(A1+A2*t2+t6*(A3+A4*t2));
+  return [(x-M.proj.xmin)*M.proj.s, (M.proj.ymax-y)*M.proj.s];
+}/* Palette dei Paesi che raccontano: un colore per ciascuno, non solo il rosso */
+const PALETTE_P = {UK:"var(--uk)",US:"var(--us)",IT:"var(--it)",DE:"var(--de)",QA:"var(--qa)",JP:"#b0425a",INT:"#46546b"};
+function coloreP(p){
+  if(PALETTE_P[p]) return PALETTE_P[p];
+  let h = 0; for(const ch of String(p||"x")) h = (h*31 + ch.charCodeAt(0)) % 360;
+  return `hsl(${h} 48% 38%)`;
+}
+const CITTA_PAESE = {"Londra":"United Kingdom","Washington":"United States of America","New York":"United States of America","Stati Uniti":"United States of America","Roma":"Italy","Milano":"Italy","Bonn":"Germany","Doha":"Qatar","Regno Unito":"United Kingdom","Tokyo":"Japan"};
+function evidenzia(id){
+  const g = $("#wmHi"); if(!g) return;
+  const n = id && NEWS.find(x=>x.id===id), M = window.MAPPA;
+  if(!n || !M){ g.innerHTML = ""; return; }
+  const visti = new Set(); let h = "", bersaglio = null;
+  const L = LUOGHI[id];
+  /* 1) chi scrive: il Paese appena tinto, con il suo colore */
+  n.fonti.forEach(f=>{
+    const nome = f.atlas || CITTA_PAESE[f.c];
+    if(nome && M.paesi[nome] && !visti.has(nome)){ visti.add(nome); h += `<path class="paese-hi" style="--c:${coloreP(f.p)}" d="${M.paesi[nome]}"/>`; }
+  });
+  /* 2) il luogo dei fatti: l'elemento principale */
+  if(L){
+    (L.p||[]).forEach(nm=>{ if(M.paesi[nm]) h += `<path class="paese-ev" d="${M.paesi[nm]}"/>`; });
+    (L.pt||[]).forEach(([la,lo,nm],i)=>{
+      const q = pr(la,lo); if(!q) return;
+      if(i===0) bersaglio = q;
+      h += `<circle class="pin-ev" cx="${q[0].toFixed(1)}" cy="${q[1].toFixed(1)}" r="7"/><text class="t-ev" x="${(q[0]+11).toFixed(1)}" y="${(q[1]+4).toFixed(1)}">${esc(nm)}</text>`;
+    });
+    if(!bersaglio && L.p && L.p[0] && M.paesi[L.p[0]]) bersaglio = centroPath(M.paesi[L.p[0]]);
+  }
+  /* 3) chi scrive: un puntino colorato sulla città della redazione, collegato al luogo dei fatti */
+  const redazioni = new Map();
+  n.fonti.forEach(f=>{ if(!redazioni.has(f.c)) redazioni.set(f.c, f.p); });
+  redazioni.forEach((p,c)=>{
+    const q = xy(c); if(!q) return;
+    const col = coloreP(p);
+    if(bersaglio){
+      /* arco curvo che si disegna: dalla redazione al luogo dei fatti */
+      const mx=(q[0]+bersaglio[0])/2, my=(q[1]+bersaglio[1])/2, dist=Math.hypot(bersaglio[0]-q[0],bersaglio[1]-q[1]);
+      h += `<path class="lega" pathLength="1" style="--c:${col}" d="M${q[0].toFixed(1)} ${q[1].toFixed(1)} Q${mx.toFixed(1)} ${(my-dist*0.28).toFixed(1)} ${bersaglio[0].toFixed(1)} ${bersaglio[1].toFixed(1)}"/>`;
+    }
+    h += `<circle class="scrive" style="--c:${col}" cx="${q[0].toFixed(1)}" cy="${q[1].toFixed(1)}" r="4.5"/><text class="t-sc" x="${(q[0]+8).toFixed(1)}" y="${(q[1]-6).toFixed(1)}">${esc(c)}</text>`;
+  });
+  g.innerHTML = h;
+}
+function centroPath(d){
+  const v = (d.match(/-?\d+\.?\d*/g)||[]).map(Number); let x0=1e9, x1=-1e9, y0=1e9, y1=-1e9;
+  for(let i=0;i+1<v.length;i+=2){ x0=Math.min(x0,v[i]); x1=Math.max(x1,v[i]); y0=Math.min(y0,v[i+1]); y1=Math.max(y1,v[i+1]); }
+  return [(x0+x1)/2,(y0+y1)/2];
+}
+$("#main").addEventListener("mouseover",e=>{ const c=e.target.closest(".card"); evidenzia(c?c.dataset.id:null); });
+$("#main").addEventListener("mouseleave",()=>evidenzia(null));
+
+const datiGiorno = ()=> (window.DATI && window.DATI[EDIZIONE]) || null;
+const METEO = {0:"sereno",1:"poco nuvoloso",2:"parz. nuvoloso",3:"coperto",45:"nebbia",48:"nebbia",51:"pioggerella",53:"pioggerella",55:"pioggerella",61:"pioggia",63:"pioggia",65:"pioggia forte",80:"rovesci",81:"rovesci",82:"rovesci forti",95:"temporale",96:"temporale",99:"temporale"};
+const nf = (x,d=2)=>x.toLocaleString("it-IT",{minimumFractionDigits:d,maximumFractionDigits:d});
+
+function renderRapidi(){
+  const D = datiGiorno(), el = $("#rapidi"); let h = "";
+  if(D && D.meteo){
+    const g = D.meteo.giorni;
+    h += `<div><span class="k">Meteo · ${esc(D.meteo.citta)}</span><span class="v">${Math.round(g[0].min)}°–${Math.round(g[0].max)}°</span> ${METEO[g[0].code]||""}<br><small>Domani ${Math.round(g[1].min)}°–${Math.round(g[1].max)}° · ${METEO[g[1].code]||""}</small></div>`;
+  }
+  if(D && D.cambio && D.cambio.serie.length>1){
+    const s = D.cambio.serie, ult = s[s.length-1][1], prima = s[0][1], v = (ult-prima)/prima*100;
+    h += `<div><span class="k">Euro / dollaro</span><span class="v">${nf(ult,4)}</span> <span class="${v<0?"dn":"up"}">${v<0?"▼":"▲"} ${nf(Math.abs(v),1)}% in 30 gg</span></div>`;
+  }
+  const nn = NEWS.length, scrivono = new Set(); NEWS.forEach(n=>n.fonti.forEach(f=>{ const a = f.atlas || CITTA_PAESE[f.c]; if(a) scrivono.add(a); }));
+  const ps = scrivono.size;                             // Paesi le cui testate raccontano le notizie di oggi (tutte le voci, non solo la prima)
+  h += `<div><span class="k">Edizione</span><span class="v">${nn}</span> notizie · ${ps} ${ps===1?"Paese":"Paesi"} che raccontano</div>`;
+  el.innerHTML = h;
+}
+
+const COORD = {"Londra":[51.5,-0.1],"Washington":[38.9,-77.0],"Roma":[41.9,12.5],"Milano":[45.5,9.2],"Bonn":[50.7,7.1],"Doha":[25.3,51.5],"Stati Uniti":[39,-98],"New York":[40.7,-74.0],"Regno Unito":[54.0,-2.0],"Tokyo":[35.68,139.69]};
+
+function renderGrafico(){
+  const D = datiGiorno(), el = $("#grafico");
+  if(!D || !D.cambio || D.cambio.serie.length<3){ el.innerHTML = ""; return; }
+  const s = D.cambio.serie, W=360, H=120, pl=38, pr=8, pt=8, pb=18;
+  const vals = s.map(x=>x[1]), mn=Math.min(...vals), mx=Math.max(...vals), pad=(mx-mn)*.15||.01, lo=mn-pad, hi=mx+pad;
+  const X = i=>pl+i*(W-pl-pr)/(s.length-1), Y = v=>pt+(hi-v)/(hi-lo)*(H-pt-pb);
+  const pts = s.map((x,i)=>X(i).toFixed(1)+","+Y(x[1]).toFixed(1)).join(" ");
+  const area = `${X(0).toFixed(1)},${H-pb} ${pts} ${X(s.length-1).toFixed(1)},${H-pb}`;
+  const ticks = [lo+pad*0.3, (lo+hi)/2, hi-pad*0.3].map(v=>`<line class="asse" x1="${pl}" x2="${W-pr}" y1="${Y(v).toFixed(1)}" y2="${Y(v).toFixed(1)}"/><text x="${pl-6}" y="${(Y(v)+4).toFixed(1)}" text-anchor="end">${nf(v,3)}</text>`).join("");
+  const fd = d=>new Date(d+"T12:00:00").toLocaleDateString("it-IT",{day:"numeric",month:"short"});
+  const prima = s[0][1], ult = s[s.length-1][1], v=(ult-prima)/prima*100;
+  el.innerHTML = `<h2>Il grafico del giorno<small>Euro / dollaro</small></h2>
+   <div class="chart"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Andamento del cambio euro dollaro nell'ultimo mese">${ticks}<polygon class="area" points="${area}"/><polyline class="linea" points="${pts}"/><text x="${pl}" y="${H-8}">${fd(s[0][0])}</text><text x="${W-pr}" y="${H-8}" text-anchor="end">${fd(s[s.length-1][0])}</text><circle cx="${X(s.length-1).toFixed(1)}" cy="${Y(ult).toFixed(1)}" r="4" fill="var(--accent)"/></svg>
+   <p class="cap">In un mese l'euro è passato da ${nf(prima,4)} a ${nf(ult,4)} dollari: ${v<0?"ha perso":"ha guadagnato"} il ${nf(Math.abs(v),1)}%.</p>
+   <p class="src">Dati: ${esc(D.cambio.fonte)}. Grafico elaborato per questa edizione. Passa il mouse (o il dito) sulla linea per i valori.</p></div>`;
+  /* interattivo: il cursore segue il puntatore (mouse o tocco) e mostra data e valore */
+  const svg = el.querySelector("svg");
+  if(svg && svg.addEventListener){
+    const NS = "http://www.w3.org/2000/svg";
+    const cur = document.createElementNS(NS,"line"), dot = document.createElementNS(NS,"circle"), tip = document.createElementNS(NS,"text");
+    cur.setAttribute("class","cursore"); cur.setAttribute("y1",pt); cur.setAttribute("y2",H-pb);
+    dot.setAttribute("r","3.5"); dot.setAttribute("class","punto"); tip.setAttribute("class","tip");
+    [cur,dot,tip].forEach(n=>{ n.style.display="none"; svg.appendChild(n); });
+    const muovi = ev=>{
+      const r = svg.getBoundingClientRect(); if(!r.width) return;
+      const x = (ev.clientX - r.left)/r.width*W;
+      const i = Math.max(0, Math.min(s.length-1, Math.round((x-pl)/((W-pl-pr)/(s.length-1)))));
+      const cx = X(i), cy = Y(s[i][1]);
+      cur.setAttribute("x1",cx); cur.setAttribute("x2",cx); dot.setAttribute("cx",cx); dot.setAttribute("cy",cy);
+      tip.textContent = fd(s[i][0])+" · "+nf(s[i][1],4);
+      tip.setAttribute("x", Math.min(W-6, Math.max(pl+4, cx))); tip.setAttribute("y", Math.max(pt+8, cy-8));
+      tip.setAttribute("text-anchor", cx>W*0.7?"end":"start");
+      [cur,dot,tip].forEach(n=>n.style.display="");
+    };
+    svg.addEventListener("pointermove",muovi); svg.addEventListener("pointerdown",muovi);
+    svg.addEventListener("pointerleave",()=>[cur,dot,tip].forEach(n=>n.style.display="none"));
+  }
+}
+
+const NOME_FONTE_VIDEO = {"Al Jazeera English":"Al Jazeera"};
+const MOSTRA_VIDEO = false;     // «Video del giorno» tolti su richiesta: appesantivano la pagina (il codice resta, basta metterlo a true)
+function renderVideo(){
+  const D = datiGiorno(), el = $("#video");
+  if(!MOSTRA_VIDEO){ if(el) el.innerHTML = ""; return; }
+  const vs = ((D&&D.video)||[]).filter(v=>!offFonti.has(NOME_FONTE_VIDEO[v.fonte]||v.fonte));
+  if(!vs.length){ el.innerHTML = ""; return; }
+  el.innerHTML = `<h2>Video del giorno<small>dai canali ufficiali delle testate</small></h2>
+   <div class="vgrid">${vs.map(v=>`<div class="vid p-${v.paese}">
+     <button class="frame" data-v="${esc(v.id)}" aria-label="Riproduci: ${esc(VIDEO_IT[v.id]||v.titolo)}"><img loading="lazy" src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt=""><span>▶ Riproduci</span></button>
+     <div class="cap"><small>Da ${esc(v.citta)} · ${esc(v.fonte)} · ${esc(v.data)}</small>${esc(VIDEO_IT[v.id]||v.titolo)}${VIDEO_IT[v.id]?`<em class="orig">Titolo originale: ${esc(v.titolo)}</em>`:""}<br><a href="https://www.youtube.com/watch?v=${esc(v.id)}" target="_blank" rel="noopener" style="font:12px var(--sans)">Guarda su YouTube</a></div></div>`).join("")}</div>`;
+}
+$("#video").addEventListener("click",e=>{
+  const b = e.target.closest(".frame"); if(!b) return;
+  b.outerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${b.dataset.v}?autoplay=1&rel=0" title="Video" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>`;
+});
+
+/* ===== BARRA DEI TITOLI ===== */
+function renderTicker(){
+  const el = $("#ticker"); if(!el) return;
+  const vis = NEWS.filter(visibile).slice(0,24);
+  if(!vis.length){ el.innerHTML = ""; return; }
+  const voci = vis.map(n=>{ const f=n.fonti.find(x=>!offFonti.has(x.n))||n.fonti[0]; return `<a href="#" ${rilievo(n)===3?'class="top3" ':''}data-tk="${esc(n.id)}"><b>${esc(f.c)}</b>${esc(n.titolo)}</a>`; }).join("");
+  const chars = vis.reduce((s,n)=>s+n.titolo.length+14,0);
+  el.style.setProperty("--dur", Math.max(60, Math.round(chars*0.11))+"s");
+  el.innerHTML = `<div class="tk-label">${TIPO==="sera"?"Sera":"Ultime"}</div><div class="tk-view"><div class="tk-track">${voci}${voci}</div></div><button class="tk-pausa" aria-label="Metti in pausa o riprendi le ultime notizie" title="Pausa / riprendi">${el.classList.contains("pausa")?"▶":"❚❚"}</button>`;
+  const bp = el.querySelector(".tk-pausa");
+  if(bp) bp.onclick = ()=>{ el.classList.toggle("pausa"); bp.textContent = el.classList.contains("pausa") ? "▶" : "❚❚"; };
+}
+document.addEventListener("click",e=>{
+  const a = e.target.closest("a[data-tk]"); if(!a) return;
+  e.preventDefault();
+  const card = document.querySelector('.card[data-id="'+a.dataset.tk+'"]');
+  if(card){ card.scrollIntoView({behavior:"smooth",block:"center"}); if(!card.classList.contains("open")) toggle(card); evidenzia(a.dataset.tk); }
+});
+
+/* ===== NASCONDI / RECUPERA LE NOTIZIE GIÀ LETTE ===== */
+function aggiornaNascoste(){
+  const n = [...nascoste].filter(k=>k.startsWith(K+"/")).length;
+  const b = $("#mostraNasc"), r = $("#ripristinaTutte");
+  if(b){ b.textContent = mostraNascoste ? "← Torna al giornale" : "Nascoste ("+n+")"; b.setAttribute("aria-pressed",String(mostraNascoste)); }
+  if(r) r.hidden = !(mostraNascoste && n>0);
+}
+$("#nascondiLette").addEventListener("click",()=>{
+  NEWS.forEach(n=>{ if(letti.has(n.id)) nascoste.add(kn(n)); });
+  store.set("usm_nascoste",[...nascoste]); mostraNascoste = false; render();
+});
+$("#mostraNasc").addEventListener("click",()=>{ mostraNascoste = !mostraNascoste; render(); });
+$("#ripristinaTutte").addEventListener("click",()=>{
+  [...nascoste].forEach(k=>{ if(k.startsWith(K+"/")) nascoste.delete(k); });
+  store.set("usm_nascoste",[...nascoste]); mostraNascoste = false; render();
+});
+
+/* ===== TITOLI DELLE TESTATE, TRADOTTI IN ITALIANO (cronaca nera esclusa) ===== */
+function titoloIt(x){
+  const m = (window.TITOLI_IT && window.TITOLI_IT[EDIZIONE]) || {};
+  return Object.prototype.hasOwnProperty.call(m,x.h) ? m[x.h] : null;     // null = non ancora tradotto, "" = nascosto (cronaca nera)
+}
+function liTitolo(x, lingua){
+  const tr = titoloIt(x); if(tr==="") return "";
+  const straniero = (lingua && lingua!=="it") || (x.l && x.l!=="it");
+  if(tr) return `<li><a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(tr)}</a>${straniero&&tr!==x.t?`<em class="orig">Titolo originale: ${esc(x.t)}</em>`:""}</li>`;
+  return `<li><a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a>${straniero?` <a class="tr" href="${tradotto(x.u)}" target="_blank" rel="noopener">tradotto</a>`:""}</li>`;
+}
+function testataHTML(t){
+  const li = t.titoli.map(x=>liTitolo(x,t.lingua)).join("");
+  return `<div class="nz-t"><b>${esc(t.n)}</b> <small>${esc(t.citta)} · ${esc(t.natura)}</small><ul>${li||"<li><i>Nessun titolo adatto oggi (cronaca nera esclusa)</i></li>"}</ul></div>`;
+}
+function fuoriHTML(p){
+  const gr = {};                                   // un box per testata, come lo sguardo interno
+  (p.fuori||[]).forEach(x=>{ const l = liTitolo(x,x.l); if(l){ const g = gr[x.n] = gr[x.n] || {n:x.n, d:x.paese||x.citta||"", li:[]}; g.li.push(l); } });
+  const box = Object.values(gr).map(g=>`<div class="nz-t"><b>${esc(g.n)}</b> <small>${esc(g.d)}</small><ul>${g.li.join("")}</ul></div>`).join("");
+  return box ? `<div class="nz-g">${box}</div>` : "";
+}
+
+/* ===== RASSEGNA STAMPA MONDIALE: ogni Paese e ogni testata del catalogo ===== */
+const CONTINENTI = {
+  "Europa":["United Kingdom","Italy","France","Germany","Spain","Portugal","Netherlands","Belgium","Switzerland","Austria","Sweden","Norway","Denmark","Finland","Iceland","Ireland","Poland","Czechia","Hungary","Romania","Bulgaria","Serbia","Croatia","Greece","Russia","Ukraine","Lithuania","Estonia","Latvia","Belarus"],
+  "Americhe":["United States of America","Canada","Mexico","Brazil","Argentina","Chile","Colombia","Peru","Uruguay","Venezuela","Cuba","Bolivia","Panama","Costa Rica"],
+  "Africa":["South Africa","Nigeria","Kenya","Egypt","Morocco","Algeria","Tunisia","Libya","Ethiopia","Ghana","Tanzania","Uganda","Rwanda","Senegal","Côte d'Ivoire","Dem. Rep. Congo","Sudan"],
+  "Medio Oriente":["Qatar","Israel","Saudi Arabia","United Arab Emirates","Iran","Iraq","Lebanon","Jordan","Syria","Kuwait","Oman","Turkey"],
+  "Asia":["China","Japan","South Korea","North Korea","India","Pakistan","Bangladesh","Nepal","Sri Lanka","Afghanistan","Indonesia","Philippines","Vietnam","Thailand","Malaysia","Taiwan","Myanmar","Cambodia","Kazakhstan","Mongolia"],
+  "Oceania":["Australia","New Zealand","Papua New Guinea"]
+};
+const COL_CONT = {"Europa":"#4f7fc0","Americhe":"#e0564b","Africa":"#e0804a","Medio Oriente":"#a86bb0","Asia":"#4a9a68","Oceania":"#2a9db5","Internazionale e multinazionali":"#8a8576"};
+function renderRassegna(){
+  const el = $("#rassegna"); if(!el) return;
+  if(window.__rasPrimaVolta){ chiuse.add("rassegna"); salvaChiuse(); window.__rasPrimaVolta = false; }
+  const N = nazioniOggi(), gruppi = {};
+  (window.CATALOGO||[]).forEach(r=>{ const k = r[6] || ("~"+r[2]); (gruppi[k] = gruppi[k] || {nome:r[2], atlas:r[6], testate:[]}).testate.push(r[0]); });
+  const continenteDi = a=>{ for(const [c,l] of Object.entries(CONTINENTI)) if(l.includes(a)) return c; return "Internazionale e multinazionali"; };
+  const perCont = {};
+  Object.values(gruppi).forEach(g=>{ const c = continenteDi(g.atlas); (perCont[c] = perCont[c] || []).push(g); });
+  const ordine = [...Object.keys(CONTINENTI), "Internazionale e multinazionali"].filter(c=>perCont[c]);
+  let nTest = 0, nPaesi = 0;
+  const blocchi = ordine.map(c=>{
+    const gs = perCont[c].sort((a,b)=>a.nome.localeCompare(b.nome,"it"));
+    const nt = gs.reduce((s,g)=>s+g.testate.length,0); nTest += nt; nPaesi += gs.length;
+    const paesi = gs.map(g=>{
+      const dati = g.atlas ? N[g.atlas] : null, con = dati ? dati.testate : [];
+      const senza = g.testate.filter(n=>!con.some(t=>t.n===n));
+      return `<details class="paese"><summary><b>${esc(g.nome)}</b><span>${g.testate.map(esc).join(" · ")}</span></summary>
+        ${g.atlas?`<button class="nz-apri" data-atlas="${esc(g.atlas)}">Le notizie su ${esc(g.nome)} e lo sguardo dall'estero</button>`:""}
+        <div class="nz-g">${con.map(testataHTML).join("")}</div>
+        ${senza.length?`<p class="nz-nd">Nessun titolo recente da: ${senza.map(esc).join(", ")}.</p>`:""}</details>`;
+    }).join("");
+    return `<details class="continente" style="--t:${COL_CONT[c]||"#8a8576"}"><summary><span>${esc(c)}</span><small>${gs.length} ${gs.length===1?"Paese":"Paesi"} · ${nt} testate</small></summary><div class="paesi-g">${paesi}</div></details>`;
+  }).join("");
+  const non = window.NON_RAGGIUNTE || [], ch = chiuse.has("rassegna");
+  el.classList.toggle("chiusa", ch);
+  el.innerHTML = `<h2><span class="h2n">${ICONA("mondo")}Rassegna stampa mondiale</span><span class="h2r"><small>${nPaesi} Paesi · ${nTest} testate</small><button class="sez-riduci" data-ras="1" aria-label="Riduci o espandi la rassegna mondiale" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2>
+    <p class="nz-intro">Ogni Paese e ogni testata del catalogo, raggruppati per continente, con i titoli di oggi tradotti in italiano e il titolo originale sotto. Le notizie di cronaca nera sono escluse.</p>
+    ${blocchi}
+    ${non.length?`<details class="nz-non"><summary>Testate che oggi non rispondono (${non.length})</summary><p>${non.map(r=>esc(r[0])+" ("+esc(r[1])+")").join(" · ")}</p></details>`:""}`;
+}
+document.addEventListener("click",e=>{            // mappe meteo (satellite e previsioni): l'iframe si crea solo al clic
+  const b = e.target.closest(".met-tab button"); if(!b) return;
+  const box = b.closest(".met-sat"); box.querySelectorAll(".met-tab button").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));
+  const ov = b.dataset.ov;
+  const url = `https://embed.windy.com/embed2.html?lat=42&lon=12&detailLat=41.9&detailLon=12.5&zoom=5&level=surface&overlay=${ov}&product=ecmwf&menu=&message=true&marker=&calendar=now&type=map&location=coordinates&metricWind=km%2Fh&metricTemp=%C2%B0C`;
+  box.querySelector(".met-frame").innerHTML = `<iframe src="${url}" loading="lazy" title="${esc(b.textContent)}" referrerpolicy="no-referrer"></iframe><p class="fn">Mappa: Windy.com · ${esc(b.textContent)}. Per le immagini ufficiali dei satelliti: <a href="https://view.eumetsat.int/" target="_blank" rel="noopener">EUMETSAT View</a>.</p>`;
+});
+$("#rassegna").addEventListener("click",e=>{
+  const r = e.target.closest(".sez-riduci");
+  if(r){ chiuse.has("rassegna") ? chiuse.delete("rassegna") : chiuse.add("rassegna"); salvaChiuse(); renderRassegna(); return; }
+  const b = e.target.closest(".nz-apri"); if(b) selezionaNazione(b.dataset.atlas);
+});
+
+/* ===== LA MAPPA CLICCABILE: scegli un Paese, vedi le sue notizie e i titoli delle sue testate ===== */
+/* Due cose diverse: una notizia può RIGUARDARE un Paese (ci accade, ne è protagonista) oppure essere SCRITTA da testate di quel Paese.
+   Una testata italiana che racconta Trump non fa di quella notizia una «notizia sull'Italia». Di default si mostrano le notizie che riguardano il Paese. */
+function scrittaDa(n, nome){ return n.fonti.some(f=>(f.atlas||CITTA_PAESE[f.c])===nome); }
+function riguarda(n, nome){ const L = LUOGHI[n.id]; return !!(L && (L.p||[]).includes(nome)); }
+function toccaPaese(n, nome){ return modoNazione==="da" ? scrittaDa(n,nome) : riguarda(n,nome); }
+const NOMI_EXTRA = {"United States of America":"Stati Uniti","United Kingdom":"Regno Unito","Norway":"Norvegia","Netherlands":"Paesi Bassi","Thailand":"Thailandia","South Africa":"Sudafrica","New Zealand":"Nuova Zelanda","Switzerland":"Svizzera","Saudi Arabia":"Arabia Saudita","Ukraine":"Ucraina","China":"Cina","Spain":"Spagna","Germany":"Germania","France":"Francia","Italy":"Italia","Japan":"Giappone","Yemen":"Yemen","Russia":"Russia","India":"India","Taiwan":"Taiwan","Myanmar":"Myanmar","Australia":"Australia","Indonesia":"Indonesia","Qatar":"Qatar"};
+const nomePaese = a => ATLAS_IT[a] || NOMI_EXTRA[a] || a;
+function nazioniOggi(){ return (window.NAZIONI && window.NAZIONI[EDIZIONE]) || {}; }
+function selezionaNazione(nome){
+  filtroNazione = (nome && nome!==filtroNazione) ? nome : null;
+  document.querySelectorAll("#paesiG path").forEach(p=>p.classList.toggle("sel", p.dataset.n===filtroNazione));
+  uscitaMappa();
+  render(); buildNav();
+  const bar = $("#nazBar");
+  if(!filtroNazione){ bar.hidden = true; bar.innerHTML = ""; return; }
+  const nomeIt = nomePaese(filtroNazione);
+  const qui = NEWS.filter(n=>toccaPaese(n,filtroNazione)).sort((a,b)=>rilievo(b)-rilievo(a));
+  const nSu = NEWS.filter(n=>riguarda(n,filtroNazione)).length, nDa = NEWS.filter(n=>scrittaDa(n,filtroNazione)).length;
+  const dati = nazioniOggi()[filtroNazione];
+  const titoli = dati ? dati.testate.map(testataHTML).join("") : "";
+  const fuori = dati ? fuoriHTML(dati) : "";
+  const catalogo = (window.CATALOGO||[]).filter(r=>r[6]===filtroNazione).map(r=>r[0]);
+  bar.innerHTML = `<div class="nz-h"><b>${esc(nomeIt)}</b><span>${nSu} ${nSu===1?"notizia":"notizie"} che lo riguardano · ${nDa} scritte da sue testate · ${catalogo.length} ${catalogo.length===1?"testata":"testate"} nel catalogo</span>
+      <span class="nz-modo"><button data-modo="su" aria-pressed="${modoNazione==="su"}">Mostra: notizie su ${esc(nomeIt)}</button><button data-modo="da" aria-pressed="${modoNazione==="da"}">Mostra: scritte da testate di ${esc(nomeIt)}</button></span>
+      <button id="nzChiudi" aria-label="Chiudi">✕</button></div>`+
+    (qui.length ? `<h4 class="nz-s">In primo piano</h4><div class="nz-g">${qui.slice(0,6).map(n=>`<div class="nz-t"><b>${"★".repeat(Math.max(0,rilievo(n)-1))} ${esc(n.titolo)}</b></div>`.replace("> ",">")).join("")}</div>` : `<p class="nz-p">${modoNazione==="da"?`Nessuna notizia di questa edizione è scritta da testate di ${esc(nomeIt)}.`:`Nessuna notizia di questa edizione riguarda ${esc(nomeIt)}.`} ${catalogo.length?`Le sue testate ('${esc(catalogo.join("', '"))}') entrano nelle prossime edizioni.`:"Non ci sono ancora testate di questo Paese nel catalogo."}</p>`)+
+    (titoli ? `<h4 class="nz-s">Sguardo interno · cosa scrive ${esc(nomeIt)} (titoli tradotti, dalle sue testate)</h4><div class="nz-g">${titoli}</div>` : "")+
+    (fuori ? `<h4 class="nz-s">Sguardo esterno · cosa si scrive di ${esc(nomeIt)} dalle testate di altri Paesi</h4>${fuori}` : `<h4 class="nz-s">Sguardo esterno</h4><p class="nz-p">Oggi nessuna testata di altri Paesi, tra quelle del catalogo, ha un titolo su ${esc(nomeIt)}.</p>`)+
+    `<p class="nz-avv">Le notizie di cronaca nera sono escluse da tutta la pagina.</p>`;
+  bar.hidden = false;
+  $("#nzChiudi").addEventListener("click",()=>selezionaNazione(null));
+  bar.querySelectorAll(".nz-modo button").forEach(b=>b.onclick=()=>{ modoNazione = b.dataset.modo; const n = filtroNazione; filtroNazione = null; selezionaNazione(n); });
+  bar.scrollIntoView({behavior:"smooth",block:"nearest"});
+}
+function uscitaMappa(){ document.documentElement.classList.remove("mappa-attiva"); const b=$("#mappaBtn"); if(b) b.setAttribute("aria-pressed","false"); }
+$("#mappaBtn").addEventListener("click",e=>{
+  const on = !document.documentElement.classList.contains("mappa-attiva");
+  document.documentElement.classList.toggle("mappa-attiva",on);
+  e.currentTarget.setAttribute("aria-pressed",String(on));
+});
+document.addEventListener("keydown",e=>{ if(e.key==="Escape") uscitaMappa(); });
+/* clic sulla mappa (in primo piano) oppure negli spazi vuoti tra le schede */
+document.addEventListener("click",e=>{
+  const diretto = e.target.closest && e.target.closest("#paesiG path");
+  if(diretto){ selezionaNazione(diretto.dataset.n); return; }
+  if(document.documentElement.classList.contains("mappa-attiva")) return;
+  if(e.target.closest && e.target.closest(".card,button,a,input,select,summary,details,.ticker,.game,.legenda,nav,h2,section.quiz,section.prefs,.nazbar,.fascia,.tools,.editionbar")) return;
+  const sotto = (document.elementsFromPoint ? document.elementsFromPoint(e.clientX,e.clientY) : []).find(x=>x.dataset && x.dataset.n && x.tagName.toLowerCase()==="path");
+  if(sotto) selezionaNazione(sotto.dataset.n);
+});
+
+/* ===== PILLOLE DEL GIORNO: una curiosità per tema, non necessariamente «del giorno» ===== */
+let PILLOLE = [];
+function pilloleHTML(){
+  if(!PILLOLE.length) return "";
+  return `<div class="pillole"><div class="r-tit">Pillole del giorno</div>` + PILLOLE.map(p=>
+    `<details class="pillola" style="--t:${TEMA_COL[p.sez]||"#8a8576"}"><summary><span class="pl-ico" aria-hidden="true">💡</span><span><small>${esc((SEZIONI.find(s=>s.id===p.sez)||{}).nome||"")}</small>${esc(p.titolo)}</span></summary><p>${esc(p.testo)}</p>${p.nota?`<p class="pl-nota">${esc(p.nota)}</p>`:""}</details>`).join("") + `</div>`;
+}
+
+/* ===== ELENCO FISSO DELLE SEZIONI (a sinistra) ===== */
+const TEMA_COL = {prima:"#8a8576",italia:"#4a9a68",mondo:"#4f7fc0",economia:"#e0804a",ingegneria:"#b08a4a",organizzazioni:"#7a86b8",cucina:"#c9a227",musica:"#8b6fd1",adolescenti:"#e07aa0",meteo:"#5aa7d8",tech:"#2a9db5",ambiente:"#6aa84f",salute:"#3aa59e",cultura:"#a86bb0",sport:"#e0564b"};
+function renderRail(){
+  const el = $("#rail"); if(!el) return;
+  const fs = filtroSezione, fb = filtroSub; filtroSezione = null; filtroSub = null;     // i conteggi non devono dipendere dalla sezione o dall'argomento scelti
+  const voci = SEZIONI.filter(s=>!offTemi.has(s.id)).map(s=>({s, n: s.id==="meteo" ? ((((datiGiorno()||{}).meteo_citta||{}).citta)||[]).length : NEWS.filter(x=>x.sez===s.id && visibile(x)).length})).filter(v=>v.n>0);
+  const tot = voci.filter(v=>v.s.id!=="meteo").reduce((a,v)=>a+v.n,0);     // il meteo conta città, non notizie: non entra nel totale
+  filtroSezione = fs; filtroSub = fb;
+  el.innerHTML = `<div class="r-tit">Sezioni</div><a href="#" data-sez="__tutte" class="r-tutte" style="--t:#8a8576"><span>Tutto il giornale</span><span class="n">${tot}</span></a>` + voci.map(({s,n})=>
+    `<a href="#s-${s.id}" data-sez="${s.id}" style="--t:${TEMA_COL[s.id]||"#8a8576"}">${ICONA(s.id)}<span>${esc(s.nome)}</span><span class="n">${n}</span></a>`).join("") +
+    `<div class="r-sep"></div><a class="r-extra" href="#rassegna">Rassegna mondiale</a><a class="r-extra" href="#quizBox">Quiz del mattino</a><a class="r-extra" href="#prefs">Le tue scelte</a>` + pilloleHTML();
+  const pm = $("#pilloleMob"); if(pm) pm.innerHTML = pilloleHTML();
+  aggiornaRail();
+}
+function aggiornaRail(){
+  const el = $("#rail"); if(!el || !el.querySelectorAll) return;
+  let attiva = null;
+  document.querySelectorAll("section.sec").forEach(sec=>{ if(sec.getBoundingClientRect().top <= 140) attiva = sec.id.replace("s-",""); });
+  const corrente = filtroSezione || attiva || "__tutte";
+  el.querySelectorAll("a[data-sez]").forEach(a=>a.classList.toggle("on", a.dataset.sez===corrente || (!filtroSezione && a.dataset.sez==="__tutte" && !attiva)));
+}
+$("#rail").addEventListener("click",e=>{
+  const a = e.target.closest("a"); if(!a) return;
+  e.preventDefault();
+  const id = a.dataset.sez;
+  if(id==="__tutte"){ filtroSezione = null; render(); window.scrollTo({top:0,behavior:"smooth"}); return; }
+  if(id){
+    /* un clic mostra al centro solo quella sezione; un secondo clic (o «Tutto il giornale») torna all'intero giornale */
+    filtroSezione = (filtroSezione===id) ? null : id;
+    if(chiuse.has(id)){ chiuse.delete(id); salvaChiuse(); }
+    render();
+    (document.getElementById("s-"+id) || $("#main")).scrollIntoView({behavior:"smooth",block:"start"});
+    return;
+  }
+  const dest = document.getElementById(a.getAttribute("href").slice(1));
+  if(dest){
+    if(!id) { const b = dest.querySelector(".riduci"); if(b && dest.classList.contains("chiuso")) b.click(); }
+    dest.scrollIntoView({behavior:"smooth",block:"start"});
+  }
+});
+let _rt = null; window.addEventListener("scroll",()=>{ if(_rt) return; _rt = setTimeout(()=>{ _rt = null; aggiornaRail(); }, 90); }, {passive:true});
+
+/* ===== ICONE DEI TEMI (disegnate, linea sottile) ===== */
+const ICONE = {
+  prima:'<rect x="4" y="4" width="16" height="16" rx="1.5"/><path d="M7.5 8.5h9M7.5 12h9M7.5 15.5h5"/>',
+  mondo:'<circle cx="12" cy="12" r="8.5"/><ellipse cx="12" cy="12" rx="3.6" ry="8.5"/><path d="M3.5 12h17M5 7.5q7 2.4 14 0M5 16.5q7-2.4 14 0"/>',
+  italia:'<path d="M4 9.5 12 4l8 5.5M6 10v8M10 10v8M14 10v8M18 10v8M4 19h16"/>',
+  economia:'<path d="M5 19V11M10 19V6M15 19v-6M20 19V9M3.5 19.5h17"/>',
+  ingegneria:'<path d="M12 3v3M12 6 6 20M12 6l6 14M8.500 15h7M9.800 11h4.400M4 20h16"/>',
+  organizzazioni:'<path d="M6 21V4M6 5h11l-2 3.500 2 3.500H6"/>',
+  meteo:'<path d="M7 18h10a4 4 0 0 0 .5-8 5.500 5.500 0 0 0-10.600 1.500A3.300 3.300 0 0 0 7 18z"/>',
+  musica:'<path d="M9 18V6l10-2v12"/><circle cx="6.500" cy="18" r="2.500"/><circle cx="16.500" cy="16" r="2.500"/>',
+  cucina:'<path d="M7 20h10v-5H7zM7 15c-3 0-4-4-1.500-5.500C5.500 6.500 9 5 12 7c3-2 6.500-.5 6.500 2.500C21 11 20 15 17 15"/>',
+  adolescenti:'<path d="M2.500 9 12 5l9.500 4-9.500 4zM6 11v5c0 1.500 3 3 6 3s6-1.500 6-3v-5"/>',
+  tech:'<rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3.5v3.5M14 3.5v3.5M10 17v3.5M14 17v3.5M3.5 10H7M3.5 14H7M17 10h3.5M17 14h3.5"/>',
+  ambiente:'<path d="M5 19c0-8 5-13 14-14 0 9-5 14-13 14M5 19l7-7"/>',
+  salute:'<path d="M12 19.5C5 14.5 3.5 11 3.5 8.5A4 4 0 0 1 12 7a4 4 0 0 1 8.5 1.5c0 2.5-1.500 6-8.500 11z"/>',
+  cultura:'<path d="M12 6.5C9.500 5 6.500 4.800 4 5.500v12.500c2.500-.7 5.500-.5 8 1M12 6.500c2.500-1.500 5.500-1.700 8-1v12.500c-2.500-.7-5.500-.5-8 1M12 6.500V19"/>',
+  sport:'<circle cx="12" cy="12" r="8.5"/><path d="M12 6.500l4 2.900-1.500 4.700h-5L8 9.400zM12 3.500v3M16 9.400l4-1.300M14.500 14.100l2.500 3.500M9.500 14.100 7 17.600M8 9.400 4 8.100"/>'
+};
+function ICONA(id){ return ICONE[id] ? `<svg class="ico" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONE[id]}</svg>` : ""; }
+function salvaChiuse(){ store.set("usm_sez_chiuse",[...chiuse]); }
+$("#main").addEventListener("click",e=>{
+  const b = e.target.closest(".sez-riduci"); if(!b) return;
+  e.stopPropagation();
+  const id = b.dataset.sez;
+  chiuse.has(id) ? chiuse.delete(id) : chiuse.add(id);
+  salvaChiuse(); render();
+},true);
+$("#sezioniTutte").addEventListener("click",e=>{
+  const tutteChiuse = SEZIONI.every(s=>chiuse.has(s.id));
+  chiuse = tutteChiuse ? new Set() : new Set(SEZIONI.map(s=>s.id));
+  e.currentTarget.textContent = tutteChiuse ? "Riduci le sezioni" : "Espandi le sezioni";
+  salvaChiuse(); render();
+});
+
+/* ===== LETTURA A VOCE (sintesi vocale del browser, voce italiana naturale se disponibile) ===== */
+const TTS = {coda:[], i:0, in:false, pausa:false, rate:1, voce:"" };
+try{ TTS.voce = localStorage.getItem("usm_voce")||""; TTS.rate = parseFloat(localStorage.getItem("usm_voce_vel")||"1")||1; }catch(e){}
+const haVoce = ()=>("speechSynthesis" in window) && typeof SpeechSynthesisUtterance!=="undefined";
+function vociIt(){ try{ return speechSynthesis.getVoices().filter(v=>/^it([-_]|$)/i.test(v.lang)); }catch(e){ return []; } }
+function punteggioVoce(v){
+  const n = v.name.toLowerCase(); let p = 0;
+  if(/natural|neural|online/.test(n)) p += 50;        // voci neurali (per esempio quelle «Natural» di Edge): le più naturali
+  if(/google/.test(n)) p += 30;                       // «Google italiano» in Chrome
+  if(/elsa|isabella|diego|giuseppe|lucia|alice|luca/.test(n)) p += 10;
+  if(/microsoft/.test(n)) p += 5;
+  if(/compact|espeak|mbrola|festival/.test(n)) p -= 40;   // voci robotiche di base
+  return p;
+}
+function vocePreferita(){
+  const l = vociIt(); if(!l.length) return null;
+  return l.find(v=>v.name===TTS.voce) || l.slice().sort((a,b)=>punteggioVoce(b)-punteggioVoce(a))[0];
+}
+function pezziDi(testo){
+  const frasi = (testo.replace(/\s+/g," ").match(/[^.!?;:]+[.!?;:]*\s*/g)||[testo]).map(s=>s.trim()).filter(Boolean);
+  const out = []; let cur = "";
+  frasi.forEach(f=>{ if((cur+" "+f).length > 170 && cur){ out.push(cur); cur = f; } else cur = cur ? cur+" "+f : f; });
+  if(cur) out.push(cur);
+  return out;
+}
+function testoParlato(n){
+  const f = n.fonti[0], paese = (nazioneDi(n).nome);
+  const parti = [n.titolo+".", `Da ${f.c}, ${f.n}.`, n.lead, ...(n.more||[])];
+  if(SGUARDI[n.id]) parti.push("Il commento. "+SGUARDI[n.id]);
+  return parti.join(" ");
+}
+function leggi(lista){
+  if(!haVoce()){ alert("Questo browser non supporta la lettura a voce."); return; }
+  fermaLettura();
+  TTS.coda = lista.map(n=>({id:n.id, titolo:n.titolo, pezzi:pezziDi(testoParlato(n))}));
+  TTS.i = 0; TTS.in = true; TTS.pausa = false;
+  pannelloVoce(true); prossimaNotizia();
+}
+function prossimaNotizia(){
+  if(!TTS.in) return;
+  if(TTS.i >= TTS.coda.length){ fineLettura(); return; }
+  const it = TTS.coda[TTS.i++];
+  evidenziaLettura(it);
+  parlaPezzo(it.pezzi, 0, ()=>prossimaNotizia());
+}
+function parlaPezzo(pezzi, k, fine){
+  if(!TTS.in) return;
+  if(k >= pezzi.length) return fine();
+  const u = new SpeechSynthesisUtterance(pezzi[k]), v = vocePreferita();
+  if(v){ u.voice = v; u.lang = v.lang; } else u.lang = "it-IT";
+  u.rate = TTS.rate; u.pitch = 1;
+  u.onend = ()=>parlaPezzo(pezzi, k+1, fine);
+  u.onerror = e=>{ if(e && (e.error==="interrupted" || e.error==="canceled")) return; parlaPezzo(pezzi, k+1, fine); };
+  speechSynthesis.speak(u);
+}
+function evidenziaLettura(it){
+  document.querySelectorAll(".in-lettura").forEach(c=>c.classList.remove("in-lettura"));
+  const card = document.querySelector('.card[data-id="'+it.id+'"]');
+  if(card){ card.classList.add("in-lettura"); card.scrollIntoView({behavior:"smooth",block:"center"}); }
+  pannelloVoce(true);
+}
+function fermaLettura(){
+  TTS.in = false; TTS.pausa = false;
+  try{ speechSynthesis.cancel(); }catch(e){}
+  document.querySelectorAll(".in-lettura").forEach(c=>c.classList.remove("in-lettura"));
+}
+function fineLettura(){ TTS.in = false; document.querySelectorAll(".in-lettura").forEach(c=>c.classList.remove("in-lettura")); pannelloVoce(true); }
+function saltaLettura(d){
+  if(!TTS.coda.length) return;
+  TTS.i = Math.max(0, Math.min(TTS.coda.length, TTS.i - 1 + d));
+  try{ speechSynthesis.cancel(); }catch(e){}
+  TTS.in = true; TTS.pausa = false; prossimaNotizia();
+}
+function pannelloVoce(mostra){
+  const p = $("#ttsPanel"); if(!p) return;
+  if(mostra === false){ p.hidden = true; return; }
+  const voci = vociIt(), v = vocePreferita(), corrente = TTS.coda[Math.max(0,TTS.i-1)];
+  p.innerHTML = `<div class="tts-r1"><button data-t="prec" aria-label="Notizia precedente">⏮</button><button data-t="pausa" aria-label="Pausa o riprendi">${TTS.pausa?"▶":"❚❚"}</button><button data-t="stop" aria-label="Ferma">■</button><button data-t="succ" aria-label="Notizia successiva">⏭</button>
+      <span class="tts-t">${TTS.in && corrente ? "In lettura: "+esc(corrente.titolo) : (TTS.coda.length?"Lettura terminata":"Scegli voce e velocità, poi premi 🔊 su una notizia o «Leggi tutte»")}</span><button data-t="chiudi" aria-label="Chiudi">✕</button></div>
+    <div class="tts-r2"><label>Voce <select id="ttsVoce">${voci.length?voci.map(x=>`<option value="${esc(x.name)}"${v&&x.name===v.name?" selected":""}>${esc(x.name)}</option>`).join(""):'<option>Nessuna voce italiana trovata</option>'}</select></label>
+      <label>Velocità <input type="range" id="ttsVel" min="0.7" max="1.4" step="0.05" value="${TTS.rate}"></label>
+      <button data-t="tutte">Leggi tutte le notizie in pagina</button></div>
+    ${voci.length?"":'<p class="tts-n">In Edge e Chrome per Windows le voci italiane naturali si trovano in Impostazioni → Accessibilità → Voce; in Edge sono disponibili le voci «Online (Natural)».</p>'}`;
+  p.hidden = false;
+}
+$("#ttsPanel").addEventListener("click",e=>{
+  const b = e.target.closest("button"); if(!b) return;
+  const t = b.dataset.t;
+  if(t==="chiudi"){ fermaLettura(); pannelloVoce(false); }
+  else if(t==="stop"){ fermaLettura(); pannelloVoce(true); }
+  else if(t==="prec") saltaLettura(-1);
+  else if(t==="succ") saltaLettura(1);
+  else if(t==="pausa"){ if(TTS.pausa){ speechSynthesis.resume(); TTS.pausa=false; } else { speechSynthesis.pause(); TTS.pausa=true; } pannelloVoce(true); }
+  else if(t==="tutte") leggi(NEWS.filter(visibile));
+});
+$("#ttsPanel").addEventListener("change",e=>{
+  if(e.target.id==="ttsVoce"){ TTS.voce = e.target.value; try{ localStorage.setItem("usm_voce",TTS.voce); }catch(x){} }
+});
+$("#ttsPanel").addEventListener("input",e=>{
+  if(e.target.id==="ttsVel"){ TTS.rate = parseFloat(e.target.value); try{ localStorage.setItem("usm_voce_vel",String(TTS.rate)); }catch(x){} }
+});
+$("#ttsBtn").addEventListener("click",()=>{ if(!haVoce()){ alert("Questo browser non supporta la lettura a voce."); return; } pannelloVoce(true); });
+if(haVoce()){ try{ speechSynthesis.onvoiceschanged = ()=>{ if(!$("#ttsPanel").hidden) pannelloVoce(true); }; }catch(e){} }
+else { const b = $("#ttsBtn"); if(b) b.hidden = true; }
+
+/* ===== BOX RIDUCIBILI (quiz, le tue scelte): la scelta resta salvata ===== */
+/* box della colonna destra (passaporto, mondo coperto, testate): si riducono con un clic sul titolo, la scelta resta salvata */
+(function(){
+  const k = "usm_destra"; let chiusi = [];
+  try{ chiusi = JSON.parse(localStorage.getItem(k)||"[]"); }catch(e){}
+  const applica = ()=>document.querySelectorAll(".destra .game").forEach(b=>b.classList.toggle("chiuso", chiusi.includes(b.id)));
+  document.addEventListener("click",e=>{
+    const l = e.target.closest(".destra .game>.g-lab, .destra .g-top .g-lab"); if(!l) return;
+    const box = l.closest(".game"); if(!box.id) return;
+    chiusi = chiusi.includes(box.id) ? chiusi.filter(x=>x!==box.id) : [...chiusi, box.id];
+    try{ localStorage.setItem(k,JSON.stringify(chiusi)); }catch(e){}
+    applica();
+  });
+  new MutationObserver(applica).observe(document.querySelector(".destra"),{childList:true});
+  window.addEventListener("load",applica); applica();
+})();
+function initRiduci(){
+  let chiusi = null;
+  try{ chiusi = JSON.parse(localStorage.getItem("usm_chiusi")||"null"); }catch(e){}
+  if(!Array.isArray(chiusi)) chiusi = ["prefs"];
+  document.querySelectorAll(".riduci").forEach(b=>{
+    const box = b.closest("section"), k = box.id;
+    const applica = c=>{ box.classList.toggle("chiuso",c); b.textContent = c?"+":"−"; b.setAttribute("aria-expanded",String(!c)); b.title = c?"Espandi":"Riduci"; };
+    applica(chiusi.includes(k));
+    b.addEventListener("click",()=>{
+      const c = !box.classList.contains("chiuso"); applica(c);
+      chiusi = c ? [...new Set([...chiusi,k])] : chiusi.filter(x=>x!==k);
+      try{ localStorage.setItem("usm_chiusi",JSON.stringify(chiusi)); }catch(e){}
+    });
+  });
+}
+
+/* ===== ARCHIVIO ===== */
+function apri(k){
+  const e = window.EDIZIONI && window.EDIZIONI[k]; if(!e) return;
+  K = k; EDIZIONE = k.slice(0,10); TIPO = e.tipo||"mattino"; NEWS = e.news||[]; QUIZ = e.quiz||[]; SGUARDI = e.sguardi||{}; CONTESTI = e.contesti||{}; CRONO = e.cronologie||{}; LUOGHI = e.luoghi||{}; RILIEVO = e.rilievo||{}; VIDEO_IT = e.video||{}; PILLOLE = e.pillole||[];
+  filtroPaese = null; query = ""; $("#q").value = "";
+  intestazione(); buildNav(); buildPrefs(); render(); renderGame(); renderQuiz(); renderRapidi(); renderGrafico(); renderVideo(); renderTicker(); renderRassegna();
+  const sel = $("#archivio"); if(sel) sel.value = k;
+}
+function costruisciArchivio(){
+  const chiavi = Object.keys(window.EDIZIONI||{}).sort().reverse();
+  $("#archivio").innerHTML = chiavi.map(k=>{
+    const e = window.EDIZIONI[k], d = new Date(k.slice(0,10)+"T12:00:00");
+    return `<option value="${k}">${d.toLocaleDateString("it-IT",{day:"numeric",month:"long",year:"numeric"})} · ${e.tipo==="sera"?"sera":"mattino"}</option>`;
+  }).join("");
+}
+$("#archivio").addEventListener("change",e=>apri(e.target.value));
+document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
+
+/* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-1243";
+function carica(src){
+  return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
+}
+async function avvia(){
+  await carica("mappa.js");
+  if(window.MAPPA){
+    $("#paesiG").innerHTML = Object.entries(window.MAPPA.paesi).map(([n,d])=>`<path data-n="${n}" d="${d}"><title>${n}</title></path>`).join("");
+    document.querySelectorAll(".filigrana").forEach(s=>s.setAttribute("viewBox","0 0 "+window.MAPPA.w+" "+window.MAPPA.h));
+  }
+  await carica("dati/catalogo.js");
+  if(window.CATALOGO){
+    FONTI_ELENCO = window.CATALOGO.map(r=>[r[0],r[1],r[2]]);
+    window.CATALOGO.forEach(r=>{ if(r[6]) ATLAS_IT[r[6]] = r[2]; });
+  }
+  await carica("edizioni/indice.js");
+  const lista = window.INDICE||[];
+  await Promise.all(lista.map(async e=>{ await carica("edizioni/"+e.k+".js"); await carica("dati/"+e.k.slice(0,10)+".js"); await carica("dati/nazioni-"+e.k.slice(0,10)+".js"); await carica("dati/titoli-it-"+e.k.slice(0,10)+".js"); }));
+  const ultima = lista.length ? lista[lista.length-1].k : null;
+  if(!ultima || !(window.EDIZIONI&&window.EDIZIONI[ultima])){
+    $("#main").innerHTML = '<p class="empty">Nessuna edizione trovata nella cartella «edizioni».</p>'; return;
+  }
+  costruisciArchivio();
+  const richiesta = new URLSearchParams(location.search).get("e");
+  apri(richiesta && window.EDIZIONI[richiesta] ? richiesta : ultima);
+  initRiduci();
+  /* collegamento diretto a una notizia: index.html?e=AAAA-MM-GG#id */
+  const diretto = decodeURIComponent((location.hash||"").slice(1));
+  if(diretto){
+    const card = document.querySelector('.card[data-id="'+diretto.replace(/"/g,"")+'"]');
+    if(card){ card.scrollIntoView({block:"center"}); toggle(card,true,true); evidenzia(diretto); }
+  }
+}
+
+/* punti solo se l'articolo resta aperto abbastanza da essere letto */
+const timers = {};
+const SECONDI_LETTURA = 10;
+function clearTimers(){ Object.keys(timers).forEach(k=>{ clearTimeout(timers[k]); delete timers[k]; }); }
+function toggle(card, force, massivo){
+  const open = force!==undefined ? force : !card.classList.contains("open");
+  const id = card.dataset.id;
+  card.classList.toggle("open",open); card.setAttribute("aria-expanded",open);
+  card.querySelector(".tg").textContent = open?"Chiudi ▴":"Apri ▾";
+  if(open){
+    letti.add(id); store.set("usm_letti",[...letti]); card.classList.add("read"); evidenzia(id);
+    if(!massivo && !game.aperti.includes(id)){ timers[id]=setTimeout(()=>award(id), SECONDI_LETTURA*1000); }
+  } else if(timers[id]){ clearTimeout(timers[id]); delete timers[id]; }
+}
+
+/* ===== PREFERENZE: temi e fonti ===== */
+function salvaPrefs(){
+  store.set("usm_temi_off",[...offTemi]); store.set("usm_fonti_off",[...offFonti]); store.set("usm_extra_on",[...extraOn]);
+}
+function buildPrefs(){
+  const perFonte = {}; NEWS.forEach(n=>n.fonti.forEach(f=>perFonte[f.n]=(perFonte[f.n]||0)+1));
+  const perTema = {}; NEWS.forEach(n=>perTema[n.sez]=(perTema[n.sez]||0)+1);
+  $("#togTemi").innerHTML =
+    SEZIONI.map(s=>`<button class="tog${s.good?" t-good":""}" data-k="tema" data-id="${s.id}" aria-pressed="${!offTemi.has(s.id)}">${s.nome} <small>${perTema[s.id]||0}</small></button>`).join("")+
+    TEMI_EXTRA.map(t=>`<button class="tog" data-k="extra" data-id="${esc(t)}" aria-pressed="${extraOn.has(t)}">${esc(t)} <small>prossima edizione</small></button>`).join("");
+  const gruppi = {};
+  FONTI_ELENCO.forEach(([n,p,paese])=>{ (gruppi[paese||"Altre testate"] = gruppi[paese||"Altre testate"] || []).push([n,p]); });
+  $("#togFonti").innerHTML = Object.keys(gruppi).sort((a,b)=>a.localeCompare(b,"it")).map(g=>
+    `<div class="gr"><span class="gr-n">${esc(g)}</span>`+gruppi[g].map(([n,p])=>
+    `<button class="tog s-${p}" data-k="fonte" data-id="${esc(n)}" aria-pressed="${!offFonti.has(n)}">${esc(n)} <small>${perFonte[n]?("oggi "+perFonte[n]):"prossima edizione"}</small></button>`).join("")+`</div>`).join("");
+}
+$("#prefs").addEventListener("click",e=>{
+  const b = e.target.closest(".tog");
+  if(b){
+    const id=b.dataset.id, k=b.dataset.k;
+    const set = k==="tema"?offTemi : k==="fonte"?offFonti : extraOn;
+    if(k==="extra"){ set.has(id)?set.delete(id):set.add(id); }
+    else { set.has(id)?set.delete(id):set.add(id); }
+    b.setAttribute("aria-pressed", k==="extra" ? extraOn.has(id) : !set.has(id));
+    salvaPrefs(); render(); renderGame(); return;
+  }
+  if(e.target.id==="tuttiOn"){ offTemi.clear(); offFonti.clear(); TEMI_EXTRA.forEach(t=>extraOn.add(t)); }
+  if(e.target.id==="tuttiOff"){ SEZIONI.forEach(s=>offTemi.add(s.id)); FONTI_ELENCO.forEach(([n])=>offFonti.add(n)); extraOn.clear(); }
+  if(e.target.id==="tuttiOn"||e.target.id==="tuttiOff"){ salvaPrefs(); buildPrefs(); render(); }
+});
+
+/* ===== GAMIFICATION: il passaporto del lettore ===== */
+const LIVELLI = [[0,"Lettore"],[100,"Cronista"],[250,"Inviato"],[500,"Corrispondente"],[900,"Direttore"],[1500,"Caporedattore"],[2500,"Editore"]];
+const nSez = (g,s)=>(g.sez&&g.sez[s])||0;
+function serieGiorni(g){                      // giorni consecutivi di lettura, contando indietro dall'ultimo
+  const d = [...new Set(g.giorni.map(x=>x.slice(0,10)))].sort(); if(!d.length) return 0;
+  let n = 1; for(let i=d.length-1;i>0;i--){ const diff = (new Date(d[i])-new Date(d[i-1]))/864e5; if(diff===1) n++; else break; } return n;
+}
+const TRAGUARDI = [
+  {id:"p10", nome:"Dieci sguardi", desc:"Hai letto 10 articoli", test:g=>g.aperti.length>=10},
+  {id:"p25", nome:"Lettore forte", desc:"Hai letto 25 articoli", test:g=>g.aperti.length>=25},
+  {id:"p50", nome:"Maratoneta", desc:"Hai letto 50 articoli", test:g=>g.aperti.length>=50},
+  {id:"p100", nome:"Biblioteca vivente", desc:"Hai letto 100 articoli", test:g=>g.aperti.length>=100},
+  {id:"giri", nome:"Giro del mondo", desc:"Hai ottenuto tutti i timbri del passaporto", test:g=>Object.keys(PAESI).every(p=>g.timbri.includes(p))},
+  {id:"fedele", nome:"Lettore fedele", desc:"Hai letto 3 edizioni diverse", test:g=>g.giorni.length>=3},
+  {id:"assiduo", nome:"Assiduo", desc:"Hai letto 7 edizioni diverse", test:g=>g.giorni.length>=7},
+  {id:"serie3", nome:"Serie di 3 giorni", desc:"Hai letto il giornale per 3 giorni di fila", test:g=>serieGiorni(g)>=3},
+  {id:"serie7", nome:"Una settimana in prima fila", desc:"Hai letto il giornale per 7 giorni di fila", test:g=>serieGiorni(g)>=7},
+  {id:"ingegnere", nome:"Ingegnere", desc:"Hai letto 3 articoli di Ingegneria e architettura", test:g=>nSez(g,"ingegneria")>=3},
+  {id:"diplomatico", nome:"Diplomatico", desc:"Hai letto 2 articoli sulle organizzazioni internazionali", test:g=>nSez(g,"organizzazioni")>=2},
+  {id:"gourmet", nome:"Buongustaio", desc:"Hai letto 2 articoli di Cucina", test:g=>nSez(g,"cucina")>=2},
+  {id:"giovane", nome:"Giovane lettore", desc:"Hai letto 3 articoli della sezione Adolescenti", test:g=>nSez(g,"adolescenti")>=3},
+  {id:"scienziato", nome:"Scienziato", desc:"Hai letto 3 articoli tra Tecnologia e Scienza, Ambiente e Salute", test:g=>nSez(g,"tech")+nSez(g,"ambiente")+nSez(g,"salute")>=3},
+  {id:"economista", nome:"Economista", desc:"Hai letto 2 articoli di Economia", test:g=>nSez(g,"economia")>=2},
+  {id:"culturale", nome:"Animo curioso", desc:"Hai letto 3 articoli di Cultura", test:g=>nSez(g,"cultura")>=3},
+  {id:"sportivo", nome:"Sportivo", desc:"Hai letto 2 articoli di Sport", test:g=>nSez(g,"sport")>=2},
+  {id:"italia", nome:"Cronista di casa", desc:"Hai letto 3 articoli dalla sezione Italia", test:g=>nSez(g,"italia")>=3},
+  {id:"musicista", nome:"Orecchio fino", desc:"Hai letto 2 articoli di Musica", test:g=>nSez(g,"musica")>=2},
+  {id:"primoquiz", nome:"Prima risposta", desc:"Hai giocato il primo quiz", test:g=>Object.keys(g.quiz).length>=1},
+  {id:"quiz3", nome:"Campione di quiz", desc:"Hai giocato 3 quiz", test:g=>Object.keys(g.quiz).length>=3},
+  {id:"punti500", nome:"Cinquecento punti", desc:"Hai raggiunto 500 punti", test:g=>g.punti>=500},
+  {id:"mondo", nome:"Cittadino del mondo", desc:"Hai letto notizie scritte da 3 Paesi diversi", test:g=>g.timbri.length>=3},
+  {id:"prima", nome:"In prima pagina", desc:"Hai letto tutta la prima pagina", test:g=>["diesel","nobel","isaias"].every(i=>g.aperti.includes(i))},
+  {id:"ottimista", nome:"Ottimista", desc:"Hai letto 2 notizie positive", test:g=>g.aperti.filter(i=>(NEWS.find(n=>n.id===i)||{}).good).length>=2},
+  {id:"curioso", nome:"Curioso", desc:"Hai letto articoli di 5 sezioni diverse", test:g=>new Set(g.aperti.map(i=>(NEWS.find(n=>n.id===i)||{}).sez).filter(Boolean)).size>=5},
+  {id:"quiz", nome:"Memoria d'acciaio", desc:"Quiz del mattino a punteggio pieno", test:g=>Object.values(g.quiz).some(q=>q.corrette===QUIZ.length)}
+];
+let game = (()=>{
+  const base = {punti:0,aperti:[],timbri:[],giorni:[],badge:[],quiz:{},sez:{}};
+  try{ return Object.assign(base, JSON.parse(localStorage.getItem("usm_game")||"{}")); }catch(e){ return base; }
+})();
+function saveGame(){ try{ localStorage.setItem("usm_game",JSON.stringify(game)); }catch(e){} }
+function livello(){ let i=0; LIVELLI.forEach((l,k)=>{ if(game.punti>=l[0]) i=k; }); return i; }
+let nota = "";
+function award(id){
+  if(game.aperti.includes(id)) return;
+  const n = NEWS.find(x=>x.id===id); if(!n) return;
+  game.aperti.push(id); game.punti += 10; nota = "+10 punti";
+  game.sez = game.sez || {}; game.sez[n.sez] = (game.sez[n.sez]||0) + 1;
+  const p = n.fonti[0].p;
+  if(!game.timbri.includes(p)){ game.timbri.push(p); nota += " · nuovo timbro sul passaporto: "+(PAESI[p]?PAESI[p].nome:p); }
+  if(!game.giorni.includes(EDIZIONE)) game.giorni.push(EDIZIONE);
+  controllaTraguardi(); saveGame(); renderGame();
+}
+function controllaTraguardi(){
+  TRAGUARDI.forEach(t=>{ if(!game.badge.includes(t.id) && t.test(game)){ game.badge.push(t.id); game.punti += 25; nota = "Traguardo: "+t.nome+" (+25)"; } });
+}
+/* ===== IL MONDO COPERTO: Paesi da cui arrivano notizie, su tutti i Paesi del mondo ===== */
+const PAESI_ONU = 197;     // tutti i Paesi della Terra: 193 Stati membri dell'Onu + 2 osservatori (Santa Sede, Palestina) + Taiwan e Kosovo
+function renderMondoBox(){
+  const el = $("#mondoBox"); if(!el) return;
+  const N = nazioniOggi();
+  const conTitoli = Object.keys(N).filter(k=>!k.startsWith("~") && N[k].testate && N[k].testate.length).length;     // Paesi con titoli di oggi (le organizzazioni non sono Paesi)
+  const nelCatalogo = new Set((window.CATALOGO||[]).map(r=>r[6]).filter(Boolean)).size;       // Paesi con almeno una testata raggiungibile
+  const nelleSchede = new Set(); NEWS.forEach(n=>n.fonti.forEach(f=>{ const a = f.atlas || CITTA_PAESE[f.c]; if(a) nelleSchede.add(a); }));
+  const perc = Math.min(100, Math.round(conTitoli/PAESI_ONU*100));
+  el.innerHTML = `<div class="g-lab">Il mondo coperto</div>
+    <div class="mb-num"><b>${conTitoli}</b><span> / ${PAESI_ONU}</span></div>
+    <div class="mb-sub">Paesi da cui raccolgo notizie oggi, su ${PAESI_ONU} Paesi della Terra</div>
+    <div class="g-prog" role="progressbar" aria-valuenow="${perc}" aria-valuemin="0" aria-valuemax="100"><i style="width:${perc}%"></i></div>
+    <ul class="mb-li">
+      <li><b>${nelCatalogo}</b> Paesi con testate nel catalogo</li>
+      <li><b>${nelleSchede.size}</b> Paesi che raccontano nelle schede di oggi</li>
+      <li><b>${PAESI_ONU-conTitoli}</b> Paesi ancora senza testate</li>
+    </ul>
+    <button class="mb-btn" id="mbMappa">Esplora la mappa</button>`;
+  const b = $("#mbMappa"); if(b) b.onclick = ()=>$("#mappaBtn").click();
+}
+/* ===== LE TESTATE E LE FONTI ELABORATE OGGI: dei Paesi e «extra Paesi» (organizzazioni, fonti internazionali) ===== */
+function renderFontiBox(){
+  const el = $("#fontiBox"); if(!el) return;
+  const N = nazioniOggi(), D = datiGiorno() || {}, st = D.statistiche || {};
+  let tPaesi = 0, nPaesi = 0, tExtra = 0, nExtra = 0;
+  Object.keys(N).forEach(k=>{
+    const n = (N[k].testate||[]).length; if(!n) return;
+    if(k.startsWith("~")){ tExtra += n; nExtra++; } else { tPaesi += n; nPaesi++; }
+  });
+  const tit = (window.TITOLI_IT && window.TITOLI_IT[EDIZIONE]) || {};
+  const nascosti = Object.values(tit).filter(v=>v==="").length;
+  const nonRisp = (window.NON_RAGGIUNTE||[]).length, catalogo = (window.CATALOGO||[]).length + nonRisp;
+  const totale = tPaesi + tExtra;
+  el.innerHTML = `<div class="g-lab">Testate e fonti elaborate</div>
+    <div class="mb-num"><b>${totale}</b><span> / ${catalogo}</span></div>
+    <div class="mb-sub">testate e fonti che hanno dato titoli oggi, su ${catalogo} nel catalogo</div>
+    <div class="g-prog" role="progressbar" aria-valuenow="${Math.round(totale/Math.max(1,catalogo)*100)}" aria-valuemin="0" aria-valuemax="100"><i style="width:${Math.min(100,Math.round(totale/Math.max(1,catalogo)*100))}%"></i></div>
+    <ul class="mb-li">
+      <li><b>${tPaesi}</b> testate di <b>${nPaesi}</b> Paesi</li>
+      <li><b>${tExtra}</b> fonti extra Paesi (organizzazioni internazionali, fonti multinazionali)</li>
+      ${st.titoli_esaminati?`<li><b>${st.titoli_esaminati}</b> titoli esaminati</li>`:""}
+      <li><b>${nascosti}</b> titoli esclusi perché di cronaca nera</li>
+      <li><b>${nonRisp}</b> fonti oggi non raggiungibili</li>
+    </ul>`;
+}
+function renderGame(){
+  renderMondoBox(); renderFontiBox();
+  const L = livello(), prossimo = LIVELLI[L+1];
+  const da = LIVELLI[L][0], a = prossimo?prossimo[0]:null;
+  const perc = a ? Math.min(100, Math.round((game.punti-da)/(a-da)*100)) : 100;
+  const timbri = Object.keys(PAESI).map(p=>`<span class="stamp${game.timbri.includes(p)?" on p-"+p:""}" title="${game.timbri.includes(p)?"Timbro ottenuto":"Leggi una notizia scritta da questo Paese"}">${PAESI[p].nome}</span>`).join("");
+  const badge = TRAGUARDI.map(t=>`<span class="bdg${game.badge.includes(t.id)?" on":""}" title="${esc(t.desc)}">${esc(t.nome)}</span>`).join("");
+  const oggiLetti = NEWS.filter(n=>game.aperti.includes(n.id)).length;
+  $("#game").innerHTML = `
+    <div class="g-top">
+      <div><span class="g-lab">Il tuo passaporto</span><br><b class="g-lv">${LIVELLI[L][1]}</b> · ${game.punti} punti${prossimo?` · prossimo grado: ${prossimo[1]} a ${prossimo[0]}`:" · grado massimo"}</div>
+      <div class="g-prog" role="progressbar" aria-valuenow="${perc}" aria-valuemin="0" aria-valuemax="100"><i style="width:${perc}%"></i></div>
+      <div class="g-meta">${oggiLetti} articoli letti oggi · ${game.giorni.length} edizioni lette</div>
+    </div>
+    <div class="g-row"><span class="g-lab">Sguardi raccolti</span>${timbri}</div>
+    <div class="g-row"><span class="g-lab">Traguardi ${game.badge.length}/${TRAGUARDI.length}</span>${badge}</div>
+    <div class="g-meta">Serie di lettura: <b>${serieGiorni(game)}</b> ${serieGiorni(game)===1?"giorno":"giorni"} di fila · Prossimo traguardo: ${(()=>{ const t = TRAGUARDI.find(x=>!game.badge.includes(x.id)); return t?esc(t.nome)+" ("+esc(t.desc.toLowerCase())+")":"tutti ottenuti"; })()}</div>
+    <p class="g-note" aria-live="polite">${nota?esc(nota):`Un articolo vale 10 punti se lo leggi con calma (resta aperto ${SECONDI_LETTURA} secondi). Ogni Paese nuovo dà un timbro.`}</p>`;
+}
+function renderQuiz(){
+  const fatto = game.quiz[K];
+  const el = $("#quiz");
+  if(fatto){
+    el.innerHTML = `<h2>Il quiz del mattino</h2><p class="sub">Hai risposto correttamente a <b>${fatto.corrette} su ${QUIZ.length}</b> domande. Nuovo quiz domani con la prossima edizione.</p>`;
+    return;
+  }
+  el.innerHTML = `<h2>Il quiz del mattino</h2><p class="sub">Cinque domande sui fatti di oggi. Ogni risposta esatta vale 20 punti. Si gioca una volta sola per edizione, a fine lettura.</p>
+   <form id="quizForm">${QUIZ.map((d,i)=>`<fieldset><legend>${i+1}. ${esc(d.q)}</legend>${d.opts.map((o,k)=>`<label><input type="radio" name="q${i}" value="${k}" required> ${esc(o)}</label>`).join("")}</fieldset>`).join("")}
+   <button type="submit">Controlla le risposte</button></form>`;
+  $("#quizForm").addEventListener("submit",e=>{
+    e.preventDefault();
+    let ok=0, rep=[];
+    QUIZ.forEach((d,i)=>{
+      const v = +new FormData(e.target).get("q"+i);
+      const giusta = v===d.ok; if(giusta) ok++;
+      const n = NEWS.find(x=>x.id===d.rif);
+      rep.push(`<li class="${giusta?"ok":"no"}">${esc(d.q)} <b>${esc(d.opts[d.ok])}</b>${giusta?"":" (tu: "+esc(d.opts[v])+")"} — <i>${esc(n?n.titolo:"")}</i></li>`);
+    });
+    game.quiz[K] = {corrette:ok}; game.punti += ok*20;
+    if(!game.giorni.includes(EDIZIONE)) game.giorni.push(EDIZIONE);
+    nota = "Quiz: "+ok+" su "+QUIZ.length+" (+"+(ok*20)+" punti)";
+    controllaTraguardi(); saveGame(); renderGame();
+    el.innerHTML = `<h2>Il quiz del mattino</h2><p class="sub">Risposte esatte: <b>${ok} su ${QUIZ.length}</b>.</p><ul class="qres">${rep.join("")}</ul>`;
+  });
+}
+
+/* ===== CONDIVISIONE (WhatsApp, e-mail, copia, PDF) ===== */
+function testoCard(id){
+  const n = NEWS.find(x=>x.id===id), f = n.fonti.find(x=>!offFonti.has(x.n))||n.fonti[0];
+  return n.titolo+"\n\n"+n.lead+"\n\n"+f.n+" ("+f.c+"): "+f.u+"\n— Uno sguardo sul mondo, "+dataLunga;
+}
+function testoEdizione(){
+  let t = "UNO SGUARDO SUL MONDO — "+dataLunga+"\n";
+  for(const s of SEZIONI){
+    if(offTemi.has(s.id)) continue;
+    const it = NEWS.filter(n=>n.sez===s.id && visibile(n));
+    if(!it.length) continue;
+    t += "\n"+s.nome.toUpperCase()+"\n"+it.map(n=>{ const f=n.fonti.find(x=>!offFonti.has(x.n))||n.fonti[0]; return "• "+n.titolo+" ("+f.n+", "+f.c+")"; }).join("\n")+"\n";
+  }
+  return t;
+}
+function invia(come, testo, oggetto){
+  if(come==="wa") window.open("https://wa.me/?text="+encodeURIComponent(testo),"_blank","noopener");
+  else if(come==="mail") location.href = "mailto:?subject="+encodeURIComponent(oggetto)+"&body="+encodeURIComponent(testo.slice(0,1600));
+  else if(come==="share" && navigator.share) navigator.share({title:oggetto,text:testo}).catch(()=>{});
+  else if(come==="copy"){
+    const ok=()=>{ nota="Testo copiato negli appunti"; renderGame(); };
+    if(navigator.clipboard) navigator.clipboard.writeText(testo).then(ok).catch(()=>{});
+  }
+}
+if(navigator.share) $("#shNative").hidden = false;
+$("#shNative").addEventListener("click",()=>invia("share",testoEdizione(),"Uno sguardo sul mondo — "+dataLunga));
+$("#shWa").addEventListener("click",()=>invia("wa",testoEdizione()));
+$("#shMail").addEventListener("click",()=>invia("mail",testoEdizione(),"Uno sguardo sul mondo — "+dataLunga));
+$("#shPdf").addEventListener("click",()=>window.print());
+
+$("#main").addEventListener("click",e=>{
+  const card = e.target.closest(".card"); if(!card) return;
+  const sh = e.target.closest(".sh");
+  if(sh){ const t=testoCard(card.dataset.id); invia(sh.dataset.w, t, card.querySelector("h3").textContent); return; }
+  if(e.target.closest("a")) return;
+  const asc = e.target.closest(".ascolta");
+  if(asc){ const nn = NEWS.find(x=>x.id===card.dataset.id); if(nn) leggi([nn]); return; }
+  const nb = e.target.closest(".nasc");
+  if(nb){
+    const k = K+"/"+card.dataset.id;
+    nascoste.has(k) ? nascoste.delete(k) : nascoste.add(k);
+    store.set("usm_nascoste",[...nascoste]); render(); return;
+  }
+  const star = e.target.closest(".star");
+  if(star){
+    const id=card.dataset.id;
+    salvati.has(id)?salvati.delete(id):salvati.add(id);
+    store.set("usm_salvati",[...salvati]);
+    star.setAttribute("aria-pressed",salvati.has(id)); return;
+  }
+  toggle(card);
+});
+$("#main").addEventListener("keydown",e=>{
+  if((e.key==="Enter"||e.key===" ") && e.target.classList.contains("card")){ e.preventDefault(); toggle(e.target); }
+});
+let tuttoAperto=false;
+$("#allopen").addEventListener("click",()=>{
+  tuttoAperto=!tuttoAperto;
+  document.querySelectorAll(".card").forEach(c=>toggle(c,tuttoAperto,true));
+  $("#allopen").textContent = tuttoAperto?"Comprimi tutto":"Espandi tutto";
+});
+$("#onlyimp").addEventListener("click",e=>{
+  soloImportanti=!soloImportanti; e.currentTarget.setAttribute("aria-pressed",soloImportanti); render();
+});
+$("#onlygood").addEventListener("click",e=>{
+  soloBuone=!soloBuone; e.currentTarget.setAttribute("aria-pressed",soloBuone); render();
+});
+$("#onlysaved").addEventListener("click",e=>{
+  soloSalvati=!soloSalvati; e.currentTarget.setAttribute("aria-pressed",soloSalvati); render();
+});
+$("#q").addEventListener("input",e=>{ query=e.target.value.trim().toLowerCase(); render(); });
+/* grafica: «per tema» (colori delle sezioni) oppure «per Paese» (colori del Paese a cui si riferisce la notizia) */
+(function(){
+  let vista = "tema"; try{ vista = localStorage.getItem("usm_grafica")||"tema"; }catch(e){}
+  const richiesta = new URLSearchParams(location.search).get("grafica"); if(richiesta==="paese"||richiesta==="tema") vista = richiesta;   // anche da link: index.html?grafica=paese
+  const b = $("#graficaBtn"), applica = v=>{ document.documentElement.classList.toggle("vista-paese", v==="paese"); b.textContent = "Grafica: "+(v==="paese"?"per Paese":"per tema"); b.setAttribute("aria-pressed",String(v==="paese")); };
+  applica(vista);
+  b.addEventListener("click",()=>{ vista = vista==="paese" ? "tema" : "paese"; applica(vista); try{ localStorage.setItem("usm_grafica",vista); }catch(e){} });
+})();
+/* carattere ad alta leggibilità, scelta salvata */
+(function(){
+  let on = false; try{ on = localStorage.getItem("usm_leggibile")==="1"; }catch(e){}
+  const b = $("#leggibile"), applica = v=>{ document.documentElement.classList.toggle("leggibile",v); b.setAttribute("aria-pressed",String(v)); };
+  applica(on);
+  b.addEventListener("click",()=>{ on=!on; applica(on); try{ localStorage.setItem("usm_leggibile",on?"1":"0"); }catch(e){} });
+})();
+$("#theme").addEventListener("click",()=>{
+  const r=document.documentElement, cur=r.getAttribute("data-theme");
+  const dark = cur ? cur==="dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  r.setAttribute("data-theme", dark?"light":"dark");
+});
+
+avvia();
+/* installabile come app (Android: «Installa app»; iPhone: Condividi → «Aggiungi a Home»). Il service worker funziona solo su https o localhost. */
+if("serviceWorker" in navigator && (location.protocol==="https:" || location.hostname==="localhost")){
+  navigator.serviceWorker.register("sw.js").catch(()=>{});
+}
+</script>
+</body>
+</html>
