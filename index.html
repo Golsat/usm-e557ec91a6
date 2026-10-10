@@ -523,11 +523,6 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
   .pilloleMob{display:block;margin:10px 0}
   .card .lead{font-size:15.5px}
 }
-.prossimo{display:flex;justify-content:center;align-items:center;gap:6px;flex-wrap:wrap;margin:6px auto 0;padding:5px 12px;max-width:fit-content;border:1px solid var(--hair);border-radius:99px;background:color-mix(in srgb,var(--card) 80%,transparent);font:12.5px var(--sans);color:var(--ink)}
-.prossimo small{color:var(--muted)}
-.prossimo button{font:700 12.5px var(--sans);border:0;background:transparent;color:var(--ink);cursor:pointer;text-decoration:underline}
-.pr-dot{width:9px;height:9px;border-radius:50%;background:#e0a800;animation:respira 1.4s ease-in-out infinite}
-@media print{.prossimo{display:none}}
 footer .legale{font:11.5px/1.5 var(--sans);color:var(--muted);text-align:center;max-width:70ch;margin:10px auto 0}
 footer .aggiorna{text-align:center;margin:8px 0 0;font:12px var(--sans);color:var(--muted)}
 footer .aggiorna button{font:700 13px var(--sans);padding:9px 16px;border:2px solid var(--ink);background:transparent;color:var(--ink);border-radius:8px;cursor:pointer}
@@ -1759,7 +1754,7 @@ function apri(k){
     LUOGHI = Object.assign({}, s.luoghi||{}, LUOGHI); RILIEVO = Object.assign({}, s.rilievo||{}, RILIEVO);
   }
   filtroPaese = null; query = ""; $("#q").value = "";
-  intestazione(); buildNav(); buildPrefs(); render(); renderGame(); renderQuiz(); renderRapidi(); renderGrafico(); renderVideo(); renderTicker(); renderRassegna(); renderPiede(); disegnaProssimo();
+  intestazione(); buildNav(); buildPrefs(); render(); renderGame(); renderQuiz(); renderRapidi(); renderGrafico(); renderVideo(); renderTicker(); renderRassegna(); renderPiede();
   const sel = $("#archivio"); if(sel) sel.value = k;
 }
 function costruisciArchivio(){
@@ -1774,7 +1769,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2021";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2022";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1962,7 +1957,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2021";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-2022";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -1972,43 +1967,6 @@ document.addEventListener("click",e=>{
   const dentro = e.target.closest("details.dd");
   document.querySelectorAll("details.dd[open]").forEach(d=>{ if(d!==dentro || (e.target.closest(".dd-p button") && !MQ.matches)) d.open = false; });
 });
-/* ===== MINI BOX «PROSSIMO AGGIORNAMENTO»: conto alla rovescia verso le due uscite del giorno (ora italiana) e avviso quando c'è qualcosa di nuovo ===== */
-/* h:m = quando PARTE la redazione; fine = quando di solito è ONLINE (il mattino ha più lavoro della sera); riserva = quando interviene il cloud se manca */
-const USCITE = [{h:7, m:30, fine:{h:7, m:55}, riserva:"08:10", tipo:"mattino", nome:"edizione del mattino"}, {h:20, m:0, fine:{h:20, m:20}, riserva:"20:20", tipo:"sera", nome:"aggiornamento della sera"}];
-const RITARDO_MAX = 40;                           // minuti oltre l'ora prevista in cui si parla di ritardo, poi si torna al conto alla rovescia verso la prossima uscita
-let nChiaviCaricate = null, novitaPronte = false;
-function oraRoma(){
-  const p = Object.fromEntries(new Intl.DateTimeFormat("en-GB",{timeZone:"Europe/Rome",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).formatToParts(new Date()).map(x=>[x.type,x.value]));
-  return {data:`${p.year}-${p.month}-${p.day}`, min:(+p.hour)*60 + (+p.minute)};
-}
-function disegnaProssimo(){
-  const el = $("#prossimo"); if(!el) return;
-  const t = oraRoma(), chiavi = (window.INDICE||[]).map(e=>e.k);
-  const fatta = u => chiavi.includes(u.tipo==="sera" ? t.data+"-sera" : t.data);
-  const hm = (h,m)=>String(h).padStart(2,"0")+":"+String(m).padStart(2,"0");
-  let html = "";
-  const inPrep = USCITE.find(u=>{ const i = u.h*60+u.m, f = u.fine.h*60+u.fine.m; return t.min >= i && t.min < f && !fatta(u); });
-  const inRitardo = USCITE.find(u=>{ const f = u.fine.h*60+u.fine.m; return t.min >= f && t.min < f+RITARDO_MAX && !fatta(u); });
-  if(novitaPronte) html = `<button type="button" id="ricaricaNovita">↻ Novità pronte: tocca per ricaricare</button>`;
-  else if(inPrep) html = `<span class="pr-dot"></span>In preparazione: ${inPrep.nome} <small>(la redazione è partita alle ${hm(inPrep.h,inPrep.m)}, online verso le ${hm(inPrep.fine.h,inPrep.fine.m)})</small>`;
-  else if(inRitardo) html = `<span class="pr-dot"></span>${inRitardo.nome[0].toUpperCase()+inRitardo.nome.slice(1)} non ancora online <small>(la redazione sta ancora lavorando; se manca, alle ${inRitardo.riserva} interviene il cloud)</small>`;
-  else {
-    let prossimo = null, attesa = 1e9;                  // si conta verso l'ora in cui sarà ONLINE, non verso l'avvio della redazione
-    USCITE.forEach(u=>{ let d = u.fine.h*60+u.fine.m - t.min; if(d <= 0) d += 1440; if(d < attesa){ attesa = d; prossimo = u; } });
-    const ore = Math.floor(attesa/60), min = attesa%60;
-    html = `Prossimo aggiornamento: <b>${prossimo.nome}</b>, online verso le <b>${hm(prossimo.fine.h,prossimo.fine.m)}</b> · tra <b>${ore?ore+" h ":""}${min} min</b>`;
-  }
-  if(el.dataset.h !== html){ el.innerHTML = html; el.dataset.h = html; const b = $("#ricaricaNovita"); if(b) b.onclick = ()=>location.reload(); }
-}
-async function controllaNovita(){                   // ogni 2 minuti guarda se online c'è una nuova edizione o un aggiornamento
-  try{
-    const r = await fetch("edizioni/indice.js?t="+Date.now(), {cache:"no-store"}); if(!r.ok) return;
-    const trovati = (await r.text()).match(/k:"/g), n = trovati ? trovati.length : 0;
-    if(nChiaviCaricate === null) nChiaviCaricate = (window.INDICE||[]).length;
-    if(n > nChiaviCaricate){ novitaPronte = true; disegnaProssimo(); }
-  }catch(e){}
-}
-disegnaProssimo(); setInterval(disegnaProssimo, 30000); setInterval(controllaNovita, 120000);
 /* conteggio anonimo di visite e installazioni (solo sul sito pubblicato, mai in locale): nessun dato personale, solo numeri */
 (function(){
   if(!/github\.io$/.test(location.hostname)) return;
