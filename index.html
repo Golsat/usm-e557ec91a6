@@ -523,6 +523,11 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
   .pilloleMob{display:block;margin:10px 0}
   .card .lead{font-size:15.5px}
 }
+.prossimo{display:flex;justify-content:center;align-items:center;gap:6px;flex-wrap:wrap;margin:6px auto 0;padding:5px 12px;max-width:fit-content;border:1px solid var(--hair);border-radius:99px;background:color-mix(in srgb,var(--card) 80%,transparent);font:12.5px var(--sans);color:var(--ink)}
+.prossimo small{color:var(--muted)}
+.prossimo button{font:700 12.5px var(--sans);border:0;background:transparent;color:var(--ink);cursor:pointer;text-decoration:underline}
+.pr-dot{width:9px;height:9px;border-radius:50%;background:#e0a800;animation:respira 1.4s ease-in-out infinite}
+@media print{.prossimo{display:none}}
 footer .legale{font:11.5px/1.5 var(--sans);color:var(--muted);text-align:center;max-width:70ch;margin:10px auto 0}
 footer .aggiorna{text-align:center;margin:8px 0 0;font:12px var(--sans);color:var(--muted)}
 footer .aggiorna button{font:700 13px var(--sans);padding:9px 16px;border:2px solid var(--ink);background:transparent;color:var(--ink);border-radius:8px;cursor:pointer}
@@ -720,6 +725,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 </header>
 
 <div class="editionbar"><span id="edizione"></span><div id="rapidi" class="rapidi" aria-label="Numeri e meteo del giorno"></div><span><label for="archivio">Archivio </label><select id="archivio" aria-label="Scegli l'edizione"></select> · <span id="conteggio"></span></span></div>
+<div id="prossimo" class="prossimo" role="status" aria-live="polite"></div>
 <details class="howto"><summary>Un giornale, non un feed · come si legge · <span class="leg-r">★★★</span> da non perdere <span class="leg-r">★★</span> importante</summary>Un'edizione al giorno, finita, senza scroll infinito, senza video che partono da soli: si legge con calma, un articolo alla volta. <b>Come si legge.</b>Ogni notizia porta il <b>paese e la città da cui scrive la testata</b>: è il suo sguardo, non una verità neutra. Quando più testate raccontano lo stesso fatto, trovi gli <b>«sguardi a confronto»</b>. Clicca su un riquadro per aprirlo. Le stelle gialle e il bordo dorato segnalano le notizie più importanti del giorno: tre stelle da non perdere, due importanti. L'ordine delle sezioni non cambia.</details>
 
 <div class="destra">
@@ -1753,7 +1759,7 @@ function apri(k){
     LUOGHI = Object.assign({}, s.luoghi||{}, LUOGHI); RILIEVO = Object.assign({}, s.rilievo||{}, RILIEVO);
   }
   filtroPaese = null; query = ""; $("#q").value = "";
-  intestazione(); buildNav(); buildPrefs(); render(); renderGame(); renderQuiz(); renderRapidi(); renderGrafico(); renderVideo(); renderTicker(); renderRassegna(); renderPiede();
+  intestazione(); buildNav(); buildPrefs(); render(); renderGame(); renderQuiz(); renderRapidi(); renderGrafico(); renderVideo(); renderTicker(); renderRassegna(); renderPiede(); disegnaProssimo();
   const sel = $("#archivio"); if(sel) sel.value = k;
 }
 function costruisciArchivio(){
@@ -1768,7 +1774,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2011";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2019";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1956,7 +1962,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2011";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261010-2019";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -1966,6 +1972,39 @@ document.addEventListener("click",e=>{
   const dentro = e.target.closest("details.dd");
   document.querySelectorAll("details.dd[open]").forEach(d=>{ if(d!==dentro || (e.target.closest(".dd-p button") && !MQ.matches)) d.open = false; });
 });
+/* ===== MINI BOX «PROSSIMO AGGIORNAMENTO»: conto alla rovescia verso le due uscite del giorno (ora italiana) e avviso quando c'è qualcosa di nuovo ===== */
+const USCITE = [{h:7, m:30, tipo:"mattino", nome:"edizione del mattino"}, {h:20, m:0, tipo:"sera", nome:"aggiornamento della sera"}];
+const FINESTRA_PREPARAZIONE = 45;                 // minuti dopo l'orario in cui la redazione è «in preparazione» (di solito bastano 15-25)
+let nChiaviCaricate = null, novitaPronte = false;
+function oraRoma(){
+  const p = Object.fromEntries(new Intl.DateTimeFormat("en-GB",{timeZone:"Europe/Rome",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).formatToParts(new Date()).map(x=>[x.type,x.value]));
+  return {data:`${p.year}-${p.month}-${p.day}`, min:(+p.hour)*60 + (+p.minute)};
+}
+function disegnaProssimo(){
+  const el = $("#prossimo"); if(!el) return;
+  const t = oraRoma(), chiavi = (window.INDICE||[]).map(e=>e.k);
+  const fatta = u => chiavi.includes(u.tipo==="sera" ? t.data+"-sera" : t.data);
+  let html = "";
+  const inPrep = USCITE.find(u=>{ const i = u.h*60+u.m; return t.min >= i && t.min < i+FINESTRA_PREPARAZIONE && !fatta(u); });
+  if(novitaPronte) html = `<button type="button" id="ricaricaNovita">↻ Novità pronte: tocca per ricaricare</button>`;
+  else if(inPrep) html = `<span class="pr-dot"></span>In preparazione: ${inPrep.nome} <small>(di solito pronto entro 20 minuti)</small>`;
+  else {
+    let prossimo = null, attesa = 1e9;
+    USCITE.forEach(u=>{ let d = u.h*60+u.m - t.min; if(d <= 0) d += 1440; if(d < attesa){ attesa = d; prossimo = u; } });
+    const ore = Math.floor(attesa/60), min = attesa%60;
+    html = `Prossimo aggiornamento: <b>${prossimo.nome}</b> alle ${String(prossimo.h).padStart(2,"0")}:${String(prossimo.m).padStart(2,"0")} · tra <b>${ore?ore+" h ":""}${min} min</b>`;
+  }
+  if(el.dataset.h !== html){ el.innerHTML = html; el.dataset.h = html; const b = $("#ricaricaNovita"); if(b) b.onclick = ()=>location.reload(); }
+}
+async function controllaNovita(){                   // ogni 2 minuti guarda se online c'è una nuova edizione o un aggiornamento
+  try{
+    const r = await fetch("edizioni/indice.js?t="+Date.now(), {cache:"no-store"}); if(!r.ok) return;
+    const trovati = (await r.text()).match(/k:"/g), n = trovati ? trovati.length : 0;
+    if(nChiaviCaricate === null) nChiaviCaricate = (window.INDICE||[]).length;
+    if(n > nChiaviCaricate){ novitaPronte = true; disegnaProssimo(); }
+  }catch(e){}
+}
+disegnaProssimo(); setInterval(disegnaProssimo, 30000); setInterval(controllaNovita, 120000);
 /* conteggio anonimo di visite e installazioni (solo sul sito pubblicato, mai in locale): nessun dato personale, solo numeri */
 (function(){
   if(!/github\.io$/.test(location.hostname)) return;
