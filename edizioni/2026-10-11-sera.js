@@ -777,7 +777,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "n": "Agenzia internazionale per l'energia atomica (Aiea)",
      "p": "XX",
      "c": "Vienna",
-     "u": "http://www.iaea.org/newscenter/pressreleases/update-369-iaea-director-general-statement-on-situation-in-ukraine",
+     "u": "https://www.iaea.org/newscenter/pressreleases/update-369-iaea-director-general-statement-on-situation-in-ukraine",
      "angolo": "",
      "atlas": ""
     }
@@ -1693,7 +1693,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "n": "Novo Jornal",
      "p": "XX",
      "c": "Luanda",
-     "u": "http://novojornal.co.ao/opiniao/detalhe/o-ambiente-da-nacao-75261.html",
+     "u": "https://novojornal.co.ao/opiniao/detalhe/o-ambiente-da-nacao-75261.html",
      "angolo": "",
      "atlas": "Angola"
     }
@@ -2276,7 +2276,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "n": "The Baltic Times",
      "p": "XX",
      "c": "Vilnius",
-     "u": "http://www.baltictimes.com/the_estonian_health_insurance_fund_encourages_people_to_complete_an_organ_donor_declaration/",
+     "u": "https://www.baltictimes.com/the_estonian_health_insurance_fund_encourages_people_to_complete_an_organ_donor_declaration/",
      "angolo": "",
      "atlas": "Lithuania"
     }
@@ -4274,7 +4274,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "n": "The BMJ",
      "p": "UK",
      "c": "Londra",
-     "u": "http://www.bmj.com/content/395/bmj-2026-101104.short?rss=1",
+     "u": "https://www.bmj.com/content/395/bmj-2026-101104.short?rss=1",
      "angolo": "",
      "atlas": "United Kingdom"
     }
@@ -4305,7 +4305,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "n": "The BMJ",
      "p": "UK",
      "c": "Londra",
-     "u": "http://www.bmj.com/content/395/bmj-2026-101112.short?rss=1",
+     "u": "https://www.bmj.com/content/395/bmj-2026-101112.short?rss=1",
      "angolo": "",
      "atlas": "United Kingdom"
     }
@@ -8583,7 +8583,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "n": "Agenzia internazionale per l'energia atomica (Aiea)",
      "p": "XX",
      "c": "Vienna",
-     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
+     "u": "https://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
      "angolo": "",
      "atlas": ""
     }
@@ -10782,7 +10782,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "n": "Novo Jornal",
      "p": "XX",
      "c": "Luanda",
-     "u": "http://novojornal.co.ao/opiniao/detalhe/o-discurso-da-ultima-ceia-que-podera-estar-longe-de-reflectir-o-verdadeiro-estado-da-nacao-75275.html",
+     "u": "https://novojornal.co.ao/opiniao/detalhe/o-discurso-da-ultima-ceia-que-podera-estar-longe-de-reflectir-o-verdadeiro-estado-da-nacao-75275.html",
      "angolo": "",
      "atlas": "Angola"
     }
@@ -11037,7 +11037,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "sez": "economia",
    "titolo": "Zona Uemoa, dal 2 novembre il mobile money sarà più semplice e senza costi sotto i 8.000 franchi",
    "orig": "Mobile money dans l'UEMOA : transferts gratuits et plafonds relevés, ce qui change dès le 2 novembre",
-   "lead": "Dal 2 novembre 2026 i trasferimenti di mobile money effettuati attraverso la piattaforma di pagamento istantaneo della Banca centrale (Bceao) saranno gratuiti fino a 8.000 franchi Cfa al giorno negli otto Paesi dell'Unione economica e monetaria dell'Africa occidentale (Uemoa). Il saldo massimo di un conto passerà da 2 a 4 milioni di franchi Cfa.",
+   "lead": "Dal 2 novembre 2026 i trasferimenti di mobile money effettuati attraverso la piattaforma di pagamento istantaneo della Banca centrale (Bceao) saranno gratuiti fino a 8.000 franchi Cfa al giorno negli otto Paesi dell'Unione economica e monetaria dell'Africa occidentale (Uemoa). Il saldo massimo di un conto passerà da 2 a 4 milioni di franchi Cfa. Lo riferisce La Nouvelle Tribune.",
    "more": [
     "Il mobile money permette di inviare, ricevere e conservare denaro con il telefono, anche senza un conto bancario: in molti Paesi africani è lo strumento di pagamento più diffuso."
    ],
@@ -11264,7 +11264,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "sez": "cultura",
    "titolo": "Peter Jackson a Sitges: «Girare un film è un'esperienza molto stressante»",
    "orig": "Peter Jackson: \"Rodar una película es una experiencia muy estresante\"",
-   "lead": "Il regista neozelandese Peter Jackson ha ricordato il suo arrivo al festival di Sitges nel 1992 con «Braindead», quando era ancora lontano dai grandi successi come «Il Signore degli Anelli» e «Lo Hobbit». Nell'intervista racconta che girare un film è un'esperienza molto stressante.",
+   "lead": "Il regista neozelandese Peter Jackson ha ricordato il suo arrivo al festival di Sitges nel 1992 con «Braindead», quando era ancora lontano dai grandi successi come «Il Signore degli Anelli» e «Lo Hobbit». Nell'intervista racconta che girare un film è un'esperienza molto stressante. Lo riferisce El Deber.",
    "more": [],
    "fonti": [
     {
@@ -12023,14 +12023,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "atlas": "United Kingdom"
     },
     {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
-     "angolo": "",
-     "atlas": "United States of America"
-    },
-    {
      "n": "The Guardian – Viaggi",
      "p": "UK",
      "c": "Londra",
@@ -12608,7 +12600,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "sez": "ambiente",
    "titolo": "Gambia, i pescatori invitati a rispettare le regole contro la pesca illegale",
    "orig": "Fishermen Urged to Follow Fishing Rules as Illegal Practices Threaten Marine Resources",
-   "lead": "In Gambia i piccoli pescatori della costa sono stati invitati a rispettare le norme sulla pesca e a usare solo attrezzature autorizzate, mentre cresce la preoccupazione per le pratiche illegali e per la pressione sulle risorse marine del Paese. L'appello è stato lanciato durante un programma di sensibilizzazione organizzato dall'associazione Gunjur Conservation and Ecotourism insieme a un gruppo giovanile di Sanyang. L'obiettivo è proteggere il patrimonio ittico da cui dipendono molte comunità costiere.",
+   "lead": "In Gambia i piccoli pescatori della costa sono stati invitati a rispettare le norme sulla pesca e a usare solo attrezzature autorizzate, mentre cresce la preoccupazione per le pratiche illegali e per la pressione sulle risorse marine del Paese. L'appello è stato lanciato durante un programma di sensibilizzazione organizzato dall'associazione Gunjur Conservation and Ecotourism insieme a un gruppo giovanile di Sanyang. L'obiettivo è proteggere il patrimonio ittico da cui dipendono molte comunità costiere. Lo riferisce Foroyaa.",
    "more": [
     "Il Gambia è un piccolo Paese dell'Africa occidentale affacciato sull'Atlantico. La pesca è una risorsa fondamentale per l'alimentazione e il reddito delle comunità costiere, ma le acque dell'Africa occidentale soffrono da anni di sfruttamento eccessivo e pesca illegale."
    ],
@@ -12967,7 +12959,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "n": "Defimedia",
      "p": "XX",
      "c": "Port Louis",
-     "u": "http://defimedia.info/au-moins-109-migrants-morts-et-plus-de-116-portes-disparus-dans-un-naufrage-meurtrier-au-large-de",
+     "u": "https://defimedia.info/au-moins-109-migrants-morts-et-plus-de-116-portes-disparus-dans-un-naufrage-meurtrier-au-large-de",
      "angolo": "",
      "atlas": "Mauritius"
     },
@@ -13221,7 +13213,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "sez": "mondo",
    "titolo": "Bombe russe su Sloviansk: almeno sette feriti",
    "orig": "At least seven injured in Russian aerial bombing of Sloviansk",
-   "lead": "L'11 ottobre le forze russe hanno colpito Sloviansk, nella regione ucraina di Donetsk, con tre bombe aeree FAB-250. Almeno sette civili sono rimasti feriti. Il presidente Volodymyr Zelensky ha avvertito sui social che alcune persone potrebbero essere intrappolate sotto le macerie. Altre due persone sono rimaste ferite in un attacco contro il villaggio di Yasnohirka, nella comunità di Kramatorsk, e il bilancio complessivo sale così a nove feriti.",
+   "lead": "L'11 ottobre le forze russe hanno colpito Sloviansk, nella regione ucraina di Donetsk, con tre bombe aeree FAB-250. Almeno sette civili sono rimasti feriti. Il presidente Volodymyr Zelensky ha avvertito sui social che alcune persone potrebbero essere intrappolate sotto le macerie. Altre due persone sono rimaste ferite in un attacco contro il villaggio di Yasnohirka, nella comunità di Kramatorsk, e il bilancio complessivo sale così a nove feriti. Lo riferisce The Kyiv Independent.",
    "more": [
     "Sloviansk e Kramatorsk sono città della parte della regione di Donetsk ancora controllata dall'Ucraina, vicine alla linea del fronte. Le FAB sono bombe aeree russe che spesso vengono dotate di kit di planata."
    ],
@@ -15454,7 +15446,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "sez": "organizzazioni",
    "titolo": "A Tripoli l'Unione africana discute la riforma del Consiglio di sicurezza Onu",
    "orig": "Ahmed Attaf à Tripoli pour défendre la réforme du Conseil de sécurité de l’ONU",
-   "lead": "Sabato il ministro degli Esteri algerino Ahmed Attaf è arrivato a Tripoli, su richiesta del presidente Abdelmadjid Tebboune. Partecipa alla quattordicesima riunione ministeriale del Comitato dei dieci dell'Unione africana, dedicata alla riforma del Consiglio di sicurezza delle Nazioni Unite. A margine dell'incontro, Senegal e Libia hanno riaffermato attraverso i rispettivi ministri degli Esteri il loro impegno. I due Paesi lavoreranno nell'Unione africana per ottenere una rappresentanza giusta ed equa dell'Africa nel Consiglio di sicurezza.",
+   "lead": "Sabato il ministro degli Esteri algerino Ahmed Attaf è arrivato a Tripoli, su richiesta del presidente Abdelmadjid Tebboune. Partecipa alla quattordicesima riunione ministeriale del Comitato dei dieci dell'Unione africana, dedicata alla riforma del Consiglio di sicurezza delle Nazioni Unite. A margine dell'incontro, Senegal e Libia hanno riaffermato attraverso i rispettivi ministri degli Esteri il loro impegno. I due Paesi lavoreranno nell'Unione africana per ottenere una rappresentanza giusta ed equa dell'Africa nel Consiglio di sicurezza. Lo riferisce Le Matin Algérie.",
    "more": [
     "Il Comitato dei dieci è un gruppo di Stati dell'Unione africana incaricato di sostenere la posizione comune del continente sulla riforma del Consiglio di sicurezza. L'Africa chiede seggi permanenti e più seggi non permanenti, perché oggi non ha alcun membro permanente."
    ],
@@ -22482,6 +22474,112 @@ window.EDIZIONI["2026-10-11-sera"] = {
   },
   "z38258f7a": {
    "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z067c2c5c": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7d0f73b6": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5ad7e2cb": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb75bd62d": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc5eb4890": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z4e912451": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z0f1769eb": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z247f760b": {
+   "n": "San Marino",
+   "p": [
+    "San Marino"
+   ],
+   "pt": []
+  },
+  "zf09e6719": {
+   "n": "Coriano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8b1913a3": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zda88ebfd": {
+   "n": "Europa",
+   "p": [
+    "Germany",
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za453b883": {
+   "n": "Bihar",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "ze9258735": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z78d25746": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1da37df8": {
+   "n": "Regno Unito",
    "p": [
     "United Kingdom"
    ],
