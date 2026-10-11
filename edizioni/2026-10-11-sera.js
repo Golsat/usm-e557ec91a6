@@ -1823,37 +1823,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z89390561",
-   "sez": "italia",
-   "titolo": "Signa, auto travolge un gruppo di ciclisti: diversi feriti gravi",
-   "orig": "Un'auto travolge un gruppo di ciclisti, 7 in ospedale. Due in prognosi riservata",
-   "lead": "La mattina dell'11 ottobre un'automobile ha investito un gruppo di ciclisti a Signa, in provincia di Firenze. I feriti hanno tra i 60 e i 70 anni. Secondo l'ANSA sette persone sono state portate in ospedale e due sono in prognosi riservata. La Repubblica parla invece di otto feriti, tre dei quali gravi. Sul posto sono intervenuti i mezzi del 118 e l'elisoccorso. La dinamica dell'incidente è ancora da chiarire.",
-   "more": [
-    "Signa è un comune della piana fiorentina, a ovest di Firenze, lungo il corso dell'Arno. Le strade della zona sono molto frequentate dai ciclisti amatoriali."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/unauto-travolge-un-gruppo-di-ciclisti-7-in-ospedale.-due-in-prognosi-riservata_cbe6c769-1495-4c81-9e25-f1ac9d04052b.html",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://firenze.repubblica.it/cronaca/2026/10/11/news/signa_auto_abbatte_otto_ciclisti_tre_gravi-425640788/",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
    "id": "zfb1cba8d",
    "sez": "mondo",
    "titolo": "Intelligence europee: il Gru russo progetta di uccidere manager dell'industria bellica",
@@ -2724,7 +2693,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
   },
   {
    "id": "zbc73b968",
-   "sez": "cucina",
+   "sez": "viaggi",
    "titolo": "Cinque borghi italiani da scoprire a tavola",
    "orig": "Borghi belli da vedere e ancora meglio da assaggiare: 5 mete italiane per veri golosi",
    "lead": "Turisti per Caso propone cinque borghi italiani da visitare soprattutto per la loro gastronomia: Bra, Castelmagno, Norcia, Acqualagna e Pienza. Secondo la testata, in questi luoghi formaggi, salumi e tartufi raccontano il lavoro nei campi, i pascoli di montagna, i boschi dell'Appennino e antiche tecniche di conservazione. Non si tratta solo di mangiare bene, ma di conoscere davvero un territorio attraverso i suoi prodotti, in un viaggio pensato per i golosi. Lo riferisce Turisti per Caso.",
@@ -3638,7 +3607,8 @@ window.EDIZIONI["2026-10-11-sera"] = {
    ],
    "data": "11 ott",
    "ora": "13:04",
-   "uscita": "13"
+   "uscita": "13",
+   "top": true
   },
   {
    "id": "zc5d95f0c",
@@ -4031,37 +4001,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
      "angolo": "",
      "atlas": "Qatar"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "13:04",
-   "uscita": "13"
-  },
-  {
-   "id": "z75633396",
-   "sez": "mondo",
-   "titolo": "Auto contro una rotatoria a Vimmerby, tre persone in ospedale",
-   "orig": "Tre personer till sjukhus efter olycka i rondell i Vimmerby",
-   "lead": "Incidente stradale domenica mattina a Vimmerby, nel sud della Svezia. Un'automobile con a bordo il conducente e quattro passeggeri è finita dritta contro una rotatoria lungo la strada nazionale 40. L'auto non ha seguito la curva della rotonda e l'impatto ha causato diversi feriti. Tre degli occupanti sono stati trasportati in ospedale in ambulanza. Le cause dell'incidente non sono state indicate, così come le condizioni dei feriti. Lo riferisce SVT Nyheter.",
-   "more": [
-    "Vimmerby è una piccola città della Svezia meridionale. È nota soprattutto come luogo di nascita della scrittrice Astrid Lindgren, l'autrice di Pippi Calzelunghe, ed è sede di un parco a tema dedicato ai suoi personaggi."
-   ],
-   "fonti": [
-    {
-     "n": "SVT Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.svt.se/nyheter/lokalt/smaland/tre-personer-till-sjukhus-efter-krock-i-rondell-i-vimmerby",
-     "angolo": "",
-     "atlas": "Sweden"
-    },
-    {
-     "n": "DR Nyheder",
-     "p": "XX",
-     "c": "Copenaghen",
-     "u": "https://www.dr.dk/nyheder/seneste/mindst-12-personer-draebt-og-mere-end-300-saaret-efter-angreb-paa-lufthavn-i-saudi-arabien",
-     "angolo": "",
-     "atlas": "Denmark"
     }
    ],
    "data": "11 ott",
@@ -6606,7 +6545,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z1f5e2626": "Civil.ge riporta il lavoro dell'organizzazione di controllo, mentre OC Media mette in evidenza alcune delle parole vietate e le multe alle tv.",
   "z88576e89": "The Times of Central Asia guarda ai rapporti energetici con Iran e Stati Uniti, mentre Asia-Plus si concentra sulle importazioni di cibo.",
   "z66909eb4": "Tagesschau offre una lettura d'insieme della crisi regionale, mentre ORF si concentra sull'attacco statunitense a una petroliera.",
-  "z75633396": "SVT Nyheter racconta l'incidente come un fatto di cronaca locale, mettendo in primo piano la dinamica e il numero dei feriti.",
   "z276cce73": "The Guardian mette in evidenza la forza visiva dell'evento, citando i video delle trombe marine, e il bilancio dei danni.",
   "z202cebd9": "The Guardian si concentra sulla minaccia rappresentata dalle volpi, mentre Good News Network sottolinea la nascita di nuove aree protette.",
   "zcba2a524": "Times of India mette l'accento sul ripensamento personale di Gates, nato dal dialogo con la figlia.",
@@ -6749,7 +6687,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z6d26c4fe": "La FAZ e lo Spiegel parlano di un possibile tramonto di Neuer, la Süddeutsche riporta la linea prudente del club.",
   "zc79983bc": "Il Kyiv Independent riporta l'appello di Zelensky, Ukrinform aggiunge i feriti nella comunità di Kramatorsk.",
   "z323fb602": "The Guardian punta sul colpo di scena finale, Euronews riporta in parallelo i mondiali di judo a Baku.",
-  "z89390561": "Le due testate concordano sulla gravità dell'incidente ma danno bilanci leggermente diversi dei feriti.",
   "zfb1cba8d": "La Repubblica rilancia le rivelazioni del Financial Times, attribuendole a fonti d'intelligence non ufficiali.",
   "z67f827dd": "Orizzonte Scuola dà spazio alla posizione sindacale sul rapporto tra concorsi e anzianità di servizio.",
   "zb3805575": "Il Messaggero mette in evidenza il comportamento dopo l'incidente e la testimonianza raccolta sul posto.",
@@ -6958,13 +6895,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
     "Saudi Arabia",
     "Iran",
     "Oman"
-   ],
-   "pt": []
-  },
-  "z75633396": {
-   "n": "Vimmerby",
-   "p": [
-    "Sweden"
    ],
    "pt": []
   },
@@ -7929,13 +7859,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    ],
    "pt": []
   },
-  "z89390561": {
-   "n": "Signa",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zfb1cba8d": {
    "n": "Europa",
    "p": [],
@@ -8209,7 +8132,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "zdb588a93": 1,
   "za36b2f58": 1,
   "zc9407344": 1,
-  "z4f1a772a": 2,
+  "z4f1a772a": 3,
   "zc5d95f0c": 1,
   "zdfadf11c": 1,
   "zd3b9cbce": 2,
@@ -8221,7 +8144,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z1f5e2626": 1,
   "z88576e89": 1,
   "z66909eb4": 2,
-  "z75633396": 1,
   "z276cce73": 2,
   "z202cebd9": 1,
   "zcba2a524": 1,
@@ -8364,7 +8286,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z6d26c4fe": 1,
   "zc79983bc": 1,
   "z323fb602": 1,
-  "z89390561": 1,
   "zfb1cba8d": 2,
   "z67f827dd": 1,
   "zb3805575": 1,
