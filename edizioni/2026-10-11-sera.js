@@ -3,6 +3,3536 @@ window.EDIZIONI["2026-10-11-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z1240d0b9",
+   "sez": "mondo",
+   "titolo": "Khyber Pakhtunkhwa, Kundi presiede il primo Consiglio consultivo: «La nostra lotta è contro il terrorismo»",
+   "orig": "'Our fight is against terrorism': Kundi chairs first meeting of KP Advisory Council",
+   "lead": "Domenica il governatore del Khyber Pakhtunkhwa, Faisal Karim Kundi, ha guidato la prima riunione del Consiglio consultivo della provincia pachistana. L'organismo è stato creato dal governo federale dopo la proclamazione dello stato d'emergenza e del governo diretto del governatore. I membri si sono presentati illustrando le proprie deleghe. Kundi si è congratulato con loro, li ha avvertiti che le sfide saranno molte e ha annunciato che riceveranno un briefing sui rispettivi incarichi, con alcuni giorni per prenderne conoscenza. Ha chiesto tempi rapidi e «tolleranza zero» verso la corruzione. Secondo The Express Tribune, ha anche presieduto una riunione speciale sulla sicurezza e convocato il primo Comitato apicale, ribadendo la volontà dello Stato di liberare la provincia dai terroristi.",
+   "more": [
+    "Il Khyber Pakhtunkhwa è una provincia del nord-ovest del Pakistan, al confine con l'Afghanistan, con capoluogo Peshawar. Da anni è teatro di attacchi di gruppi armati. Il «governor's rule» è un regime eccezionale: il governatore, nominato dal centro, assume poteri che di norma spettano al governo provinciale eletto."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2036396/our-fight-is-against-terrorism-kundi-chairs-first-meeting-of-kp-advisory-council",
+     "angolo": "",
+     "atlas": "Pakistan"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2634248/govt-forms-advisory-council-to-run-k-p-affairs-orders-ads-in-12-districts-to-improve-law-and-order",
+     "angolo": "",
+     "atlas": "Pakistan"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/945414/president-barzani-finnish-ambassador-discuss-peshmerga-role-in-fight-against-terrorism",
+     "angolo": "",
+     "atlas": "Iraq"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z51e140db",
+   "sez": "salute",
+   "titolo": "Interrompere la gravidanza, «la nostra scelta più amorevole»",
+   "orig": "Baby termination was 'our most loving choice'",
+   "lead": "Rosanna Brown racconta la decisione più difficile della sua vita: interrompere la gravidanza. I medici le avevano consigliato di farlo perché il bambino che aspettava era affetto da una condizione che ne metteva in pericolo la vita. Nella sua testimonianza, Brown definisce quella scelta, presa insieme al partner, come la più amorevole che potessero compiere per il loro figlio. La storia dà voce all'esperienza dei genitori che si trovano davanti a una diagnosi grave durante la gestazione e devono prendere una decisione dolorosa. Lo riferisce BBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cvp8g7z95ggno",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/tech/six-new-coffee-machines-for-the-design-loving-caffeine-addict",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6b5d64da",
+   "sez": "sport",
+   "titolo": "Serie A, Cagliari-Juventus: i sardi avanti 1-0",
+   "orig": "Cagliari-Juventus 1-0 DIRETTA e FOTO",
+   "lead": "Nella sesta giornata di Serie A la Juventus allenata da Luciano Spalletti affronta una trasferta difficile in casa del Cagliari, considerato la squadra rivelazione di questo avvio di campionato. Nella cronaca in diretta della partita, il punteggio vede i rossoblù in vantaggio per 1-0 sui bianconeri. Alla vigilia la sfida era presentata come un banco di prova per la Juventus, chiamata a rimettersi in moto dopo la pausa del campionato. Le testate hanno seguito l'incontro con aggiornamenti, immagini, formazioni e informazioni sulla trasmissione televisiva.",
+   "more": [
+    "Il Cagliari è la principale squadra della Sardegna e gioca le partite casalinghe nel capoluogo dell'isola. La Juventus, club di Torino, è la squadra più titolata del calcio italiano. Luciano Spalletti è un allenatore toscano che ha guidato tra gli altri il Napoli allo scudetto e la Nazionale italiana."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-juventus-1-0-diretta-e-foto_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/cagliari_juventus_dove_vederla_tv_sky_dazn_formazioni_orario_classifica_serie_a-9814468.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcf4a7028",
+   "sez": "manga",
+   "titolo": "Debutta «Dragon Ball Super: Beerus», tra spiegazioni, novità e piattaforme in tilt",
+   "orig": "Who is Beerus? Dragon Ball Super: Beerus’ Title Character, Explained",
+   "lead": "È arrivata «Dragon Ball Super: Beerus», ricostruzione rimasterizzata della serie anime classica dedicata al dio della distruzione Beerus. Crunchyroll News spiega chi è il personaggio che dà il titolo all'opera. Secondo CBR, la prima molto attesa ha creato seri problemi ai servizi di streaming Crunchyroll e ADN. La stessa testata osserva che il trailer suggerisce come la nuova versione possa rimettere ordine in un aspetto importante della mitologia del Super Saiyan God, uno degli elementi più discussi della saga.",
+   "more": [
+    "Dragon Ball è il celebre manga di Akira Toriyama, da cui sono nate numerose serie animate. Dragon Ball Super ne è il seguito. Beerus è il dio della distruzione introdotto in quella fase, e il Super Saiyan God è la trasformazione divina che Goku ottiene per affrontarlo."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/guides/2026/10/11/dragon-ball-super-beerus-explained",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/dragon-ball-super-beerus-premiere-crunchyroll-adn-crash/",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/dragon-ball-super-beerus-fixes-super-saiyan-god/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z769fbefe",
+   "sez": "italia",
+   "titolo": "Conte: «Renzi mi depotenzia, chiedo garanzie a Schlein». La leader Pd: «Mai più l'errore del 2022»",
+   "orig": "Conte: “Renzi? Mi depotenzia. Chiedo garanzie a Schlein”. La leader Pd: “Mai più l’errore del 2022”",
+   "lead": "Alla festa di Fanpage si sono confrontati i leader del campo largo. Il presidente del Movimento 5 Stelle, Giuseppe Conte, ha detto che la presenza di Matteo Renzi nella coalizione lo indebolisce e ha chiesto garanzie alla segretaria del Pd Elly Schlein. Per Conte va definito prima il programma e solo dopo vanno fatte le primarie, altrimenti l'alleanza rischia di andare in pezzi. Schlein ha risposto che non va ripetuto l'errore del 2022 e ha difeso i gazebo, definendoli non divisivi ma una grande occasione di partecipazione. Lo riferisce la Repubblica.",
+   "more": [
+    "Il «campo largo» è l'alleanza di centrosinistra che punta a riunire Pd, Movimento 5 Stelle, Alleanza Verdi e Sinistra e forze centriste come Italia Viva di Matteo Renzi. Nel 2022 queste forze si presentarono divise alle elezioni politiche, vinte dal centrodestra."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/11/news/campo_largo_primarie_conte_renzi_schlein-425640801/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3eb50897",
+   "sez": "economia",
+   "titolo": "Adesina: i leader africani investano in tecnologia e industria",
+   "orig": "Adesina urges African leaders to invest in technology, build industries",
+   "lead": "L'ex presidente della Banca africana di sviluppo, Akinwumi Adesina, ha esortato i leader del continente a fare dell'industrializzazione e dell'innovazione tecnologica le loro priorità. Secondo Adesina, investire nella tecnologia e costruire industrie è la strada per rafforzare l'economia africana. L'appello si rivolge ai governi del continente, chiamati a scelte di sviluppo che vadano oltre l'attuale modello economico. Lo riferisce The Punch.",
+   "more": [
+    "Akinwumi Adesina è un economista nigeriano, già ministro dell'Agricoltura del suo Paese e poi presidente della Banca africana di sviluppo, l'istituzione finanziaria multilaterale che sostiene progetti di crescita nei Paesi africani."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/adesina-urges-african-leaders-to-invest-in-technology-build-industries/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z92fc39c3",
+   "sez": "ingegneria",
+   "titolo": "Barcellona, dagli interventi tattici alle politiche urbane per rinverdire la città",
+   "orig": "Designing the In-Between: From Tactical Interventions to Urban Policy in Barcelona",
+   "lead": "Le città europee devono adattare gli spazi esistenti a un clima che cambia e a estati sempre più calde, migliorando l'accesso alla natura, gli spazi pubblici e i servizi quotidiani. ReGreeneration, iniziativa del programma Horizon Europe attiva in nove città europee, affronta il problema con la rinaturalizzazione su scala di quartiere. Il progetto di Barcellona unisce quartieri completi, spazi comuni e soluzioni basate sulla natura, e studia come l'adattamento climatico possa entrare negli spazi residuali e periferici della vita di ogni giorno, passando da interventi tattici a vere politiche urbane. Lo riferisce ArchDaily.",
+   "more": [
+    "Horizon Europe è il programma quadro dell'Unione europea per la ricerca e l'innovazione. Le «soluzioni basate sulla natura» usano verde, acqua e suolo permeabile per ridurre il calore urbano, gestire la pioggia e migliorare la vivibilità."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186200/designing-the-in-between-from-tactical-interventions-to-urban-policy-in-barcelona",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7e7695e1",
+   "sez": "cucina",
+   "titolo": "Valchiavenna, il «violino di capra» che si taglia come si suona",
+   "orig": "In Valchiavenna fanno un prosciutto di capra che si taglia come si suona un violino",
+   "lead": "In Valchiavenna, in Lombardia, si produce un antico salume di montagna chiamato Violino di capra: è una sorta di prosciutto ricavato dalla carne caprina. Viene stagionato per mesi e deve il suo nome al modo in cui si affetta, tenendolo appoggiato come un violino mentre il coltello scorre come un archetto. Secondo la tradizione, a tavola il pezzo passa di mano in mano tra i commensali. Lo riferisce Gambero Rosso.",
+   "more": [
+    "La Valchiavenna è una valle alpina in provincia di Sondrio, vicino al confine svizzero, con Chiavenna come centro principale. È nota per i suoi prodotti tipici di montagna e per i crotti, cantine naturali usate per conservare cibi e vino."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/rubriche/storie/violino-capra-valchiavenna-prosciutto-come-si-taglia/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8cd13aea",
+   "sez": "musica",
+   "titolo": "Arlo Parks racconta la sua playlist sincera, dagli Arctic Monkeys a Portishead",
+   "orig": "‘I’d wander through the park all angsty listening to Arctic Monkeys’: Arlo Parks’ honest playlist",
+   "lead": "La cantautrice britannica Arlo Parks ripercorre le canzoni della sua vita. Il primo amore musicale, da bambina, è stato «Sweet Dreams (Are Made of This)» degli Eurythmics, di cui la stregava l'attacco. Verso i dieci o undici anni il suo primo acquisto digitale sull'iPod Nano fu «Fake Tales of San Francisco» degli Arctic Monkeys, che ascoltava vagando per il parco in piena inquietudine adolescenziale, attratta dalle storie e dai personaggi. Racconta anche di cantare a tutto volume Lady Gaga in auto e di commuoversi con i Portishead. Lo riferisce The Guardian.",
+   "more": [
+    "Arlo Parks è una cantautrice e poetessa londinese, apprezzata per testi intimi e un suono tra indie, soul e pop. Con il suo album d'esordio ha vinto il Mercury Prize, uno dei riconoscimenti musicali più prestigiosi del Regno Unito."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/11/arlo-parks-honest-playlist-prince-janet-jackson",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z998bc80c",
+   "sez": "mondo",
+   "titolo": "L'Ucraina colpisce un data center di Yandex, terzo attacco in una settimana",
+   "orig": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+   "lead": "L'Ucraina ha colpito un data center di Yandex, il colosso tecnologico russo, nel terzo attacco contro l'azienda nel giro di una settimana. I ripetuti raid hanno costretto la società a sospendere le proprie attività. L'azione si inserisce nella guerra tra i due Paesi e segna un'attenzione crescente di Kiev verso le infrastrutture digitali russe, oltre a quelle militari ed energetiche. Lo riferisce BBC News.",
+   "more": [
+    "Yandex è la principale azienda tecnologica russa: gestisce il motore di ricerca più usato nel Paese e offre servizi di mappe, taxi, consegne, pubblicità e cloud. I suoi data center ospitano i server che fanno funzionare questi servizi."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze1621155",
+   "sez": "viaggi",
+   "titolo": "Creta, ritrovato nella gola di Imbros il turista britannico scomparso",
+   "orig": "British tourist missing in Crete located in gorge",
+   "lead": "Si è concluso bene martedì pomeriggio l'escursione di un turista britannico di 73 anni nella gola di Imbros, nella zona di Sfakia, a Creta. L'uomo aveva deciso di percorrere la gola a piedi e l'ultimo contatto con la moglie risaliva al pomeriggio di domenica 4 ottobre. Da allora non aveva più dato notizie, finché è stato rintracciato all'interno della gola. Lo riferisce Keep Talking Greece.",
+   "more": [
+    "La gola di Imbros si trova nel sud-ovest di Creta, nell'area di Sfakia, ed è un percorso escursionistico molto frequentato, meno noto della vicina gola di Samaria. Si snoda tra pareti rocciose fino alla costa meridionale dell'isola."
+   ],
+   "fonti": [
+    {
+     "n": "Keep Talking Greece",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.keeptalkinggreece.com/2026/10/06/elderly-british-hiker-missing-located-in-gorge-crete/",
+     "angolo": "",
+     "atlas": "Greece"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za76be451",
+   "sez": "salute",
+   "titolo": "Sud Sudan, l'esercito ugandese apre nuove strutture mediche nella sua base",
+   "orig": "UPDF opens new medical facilities at South Sudan base",
+   "lead": "Le Forze di difesa del popolo ugandese (UPDF), l'esercito dell'Uganda, hanno inaugurato nuove strutture mediche presso il loro quartier generale in Sud Sudan. La notizia riguarda il contingente militare ugandese presente nel Paese vicino, che si dota così di nuovi servizi sanitari nella propria base. Non sono stati diffusi altri dettagli sulle dimensioni o sui servizi offerti. Lo riferisce Radio Tamazuj.",
+   "more": [
+    "Il Sud Sudan è il Paese più giovane del mondo, indipendente dal Sudan dal 2011, e ha attraversato una lunga guerra civile. L'Uganda, confinante a sud, è uno dei suoi principali alleati e ha schierato truppe nel Paese a sostegno del governo di Juba."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/updf-opens-new-medical-facilities-at-south-sudan-base",
+     "angolo": "",
+     "atlas": "S. Sudan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z52c8ff0e",
+   "sez": "mondo",
+   "titolo": "Sudan, lo Stato di Khartoum rinvia di una settimana la riapertura delle scuole",
+   "orig": "Khartoum state postpones school reopening by one week",
+   "lead": "Le autorità dello Stato di Khartoum, in Sudan, hanno deciso di posticipare di una settimana l'inizio dell'anno scolastico 2026-2027. Il provvedimento riguarda la riapertura delle scuole nell'area della capitale sudanese, dove studenti e famiglie dovranno quindi attendere ancora qualche giorno per il ritorno in classe. Le motivazioni del rinvio non sono indicate. Lo riferisce Radio Tamazuj.",
+   "more": [
+    "Khartoum è la capitale del Sudan, alla confluenza tra Nilo Azzurro e Nilo Bianco. Dal 2023 la città è stata duramente colpita dalla guerra tra l'esercito regolare e le Forze di supporto rapido, con gravi danni a servizi e istruzione."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/khartoum-state-postpones-school-reopening-by-one-week",
+     "angolo": "",
+     "atlas": "S. Sudan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2008ce97",
+   "sez": "medicina",
+   "titolo": "Il nodulo polmonare del Papa: come si diagnostica e quando si interviene",
+   "orig": "Il Papa e il nodulo polmonare, ecco come si diagnostica e quando si interviene",
+   "lead": "Dopo la notizia del nodulo polmonare riscontrato a Papa Leone XIV, un esperto spiega che cosa significa questa scoperta e come viene affrontata. Avere un nodulo al polmone, sottolinea, non equivale a una diagnosi di tumore. Oggi esistono tecniche mininvasive per l'eventuale intervento e percorsi di cura definiti, che guidano i medici dalla diagnosi alla decisione se e quando operare. Lo riferisce ANSA.",
+   "more": [
+    "Un nodulo polmonare è una piccola area più densa del tessuto del polmone, spesso scoperta per caso con una radiografia o una TAC. Può avere origini diverse, anche benigne; dimensioni, forma ed evoluzione aiutano i medici a decidere tra controlli periodici, biopsia o asportazione."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/11/il-papa-e-il-nodulo-polmonare-ecco-come-si-diagnostica-e-quando-si-interviene_1f66d3c3-a3cd-45c1-8f4e-6473d191f995.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z60686d2a",
+   "sez": "tech",
+   "titolo": "Giappone, le fughe di dati delle patenti diventano un problema serio",
+   "orig": "Driver’s license data breaches becoming major concern",
+   "lead": "In Giappone le violazioni dei dati legati alle patenti di guida stanno suscitando una crescente preoccupazione. Molte persone si sono affrettate a chiedere nuovi documenti, probabilmente per il timore che le informazioni personali possano essere usate in modo illecito. La polizia, però, avverte che farsi rilasciare una nuova patente servirebbe a poco per prevenire eventuali reati. Lo riferisce The Japan Times.",
+   "more": [
+    "In Giappone la patente di guida è uno dei documenti d'identità più usati nella vita quotidiana, ad esempio per aprire conti o sottoscrivere contratti. Per questo i suoi dati, se sottratti, possono interessare chi tenta frodi o furti d'identità."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/11/japan/crime-legal/japan-drivers-license-data-breach-spread/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7560f416",
+   "sez": "ingegneria",
+   "titolo": "Amsterdam, Studio Modijefsky ridisegna una casa sull'Herengracht",
+   "orig": "Home Herengracht / Studio Modijefsky",
+   "lead": "Nel centro di Amsterdam, lungo il prestigioso canale Herengracht, lo Studio Modijefsky ha rinnovato un appartamento affacciato sull'acqua e riparato dagli alberi rigogliosi che circondano la facciata. Il committente ha affidato ai progettisti il ridisegno della sequenza d'ingresso, degli spazi per gli ospiti, della cucina e della dispensa, oltre a una revisione dei percorsi che portano alle stanze private. Il risultato è un interno che unisce gesti materici decisi a un'esperienza dello spazio calma e senza tempo, pensata per durare. Lo riferisce ArchDaily.",
+   "more": [
+    "L'Herengracht è uno dei canali principali della cintura seicentesca di Amsterdam, patrimonio dell'Unesco, fiancheggiato da storiche case di mercanti. Studio Modijefsky è uno studio olandese di interior design noto per progetti di locali, negozi e abitazioni dal forte uso di colori e materiali."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186299/home-herengracht-studio-modijefsky",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb7c3a2e9",
+   "sez": "cucina",
+   "titolo": "Funghi, tartufi, castagne e nocciole: le ricette d'autunno dal bosco",
+   "orig": "Le nostre ricette autunnali con i doni del bosco.",
+   "lead": "Con l'arrivo dell'autunno il bosco offre i suoi frutti più tipici, e La Cucina Italiana propone una raccolta di ricette per portarli in tavola. Protagonisti sono funghi, tartufi, castagne e nocciole, ingredienti di stagione che la rivista suggerisce di raccogliere e trasformare in piatti diversi. L'idea è valorizzare la generosità del bosco in questo periodo dell'anno con proposte pensate per la cucina di casa, dagli antipasti ai dolci, sfruttando sapori intensi e tipicamente autunnali. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Funghi, tartufi, castagne e nocciole sono prodotti simbolo dell'autunno nella cucina italiana, soprattutto nelle zone collinari e montane. La raccolta di funghi e tartufi è regolata da norme regionali, e chi non è esperto dovrebbe far controllare i funghi raccolti prima di consumarli."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/gallery/ricette-autunnali-50-idee-per-mettere-il-bosco-nel-piatto/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z77b5179e",
+   "sez": "adolescenti",
+   "titolo": "Materia oscura, forse il primo indizio dall'esperimento LZ",
+   "orig": "Physicists may have finally glimpsed elusive dark matter",
+   "lead": "Per decenni gli scienziati hanno cercato di rilevare la materia oscura, una sostanza invisibile che riempie il cosmo ma che finora è sfuggita a ogni osservazione diretta. Secondo Science News Explores, i fisici dell'esperimento LZ potrebbero essere finalmente riusciti a scorgerne una traccia. Se il risultato fosse confermato, si tratterebbe di un passo importante per capire di che cosa sia fatta una parte enorme dell'universo, oggi nota solo per i suoi effetti gravitazionali. La cautela resta d'obbligo finché i dati non saranno verificati. Lo riferisce Science News Explores.",
+   "more": [
+    "La materia oscura non emette né riflette luce: gli astronomi ne deducono l'esistenza dagli effetti gravitazionali su galassie e ammassi. LZ (LUX-ZEPLIN) è un rivelatore installato in profondità sottoterra negli Stati Uniti, che usa xeno liquido per cercare rari urti tra particelle di materia oscura e nuclei atomici."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/lz-find-glimpse-dark-matter",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "scienza"
+  },
+  {
+   "id": "z9eda7e9f",
+   "sez": "musica",
+   "titolo": "Tame Impala a Brisbane, tra psichedelia e malinconia",
+   "orig": "Tame Impala review – Kevin Parker ricochets between musical uppers and downers in eye-popping arena show",
+   "lead": "Al Brisbane Entertainment Centre, in Australia, Kevin Parker ha portato in scena il tour Deadbeat dei Tame Impala. Il Guardian descrive uno spettacolo che alterna momenti euforici e cupi: i brani più recenti, malinconici, convivono a fatica con la psichedelia corposa e il prog-rock sognante per cui la band è conosciuta. Il recensore segnala un impianto di luci e laser spettacolare, capace di evocare l'evasione tipica della migliore psichedelia, un Parker dall'aria appena sveglia e perfino una pausa in bagno seguita dalle telecamere davanti a migliaia di spettatori. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "Tame Impala è il progetto musicale dell'australiano Kevin Parker, che in studio scrive, suona e produce quasi tutto da solo, mentre dal vivo si esibisce con una band. È uno dei nomi più noti della psichedelia contemporanea, con un suono che mescola rock, pop ed elettronica."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/10/tame-impala-review-deadbeat-tour-live-australia-kevin-parker",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb8bb0688",
+   "sez": "spazio",
+   "titolo": "Il cratere Stickney, immagine astronomica del giorno della Nasa",
+   "orig": "APOD: 2026 October 9 – Stickney Crater",
+   "lead": "La Nasa ha scelto il cratere Stickney come Astronomy Picture of the Day del 9 ottobre 2026. Il servizio APOD pubblica ogni giorno un'immagine o una fotografia diversa dell'universo, accompagnata da una breve spiegazione scritta da un astronomo professionista, con l'obiettivo di far scoprire il cosmo al grande pubblico. La scelta di questa giornata porta l'attenzione su una delle strutture più riconoscibili del sistema solare, mostrata con il consueto commento scientifico che accompagna ogni immagine dell'archivio. Lo riferisce Nasa.",
+   "more": [
+    "Stickney è il cratere più grande di Fobos, la maggiore delle due piccole lune di Marte. È così ampio rispetto alle dimensioni della luna da far pensare che l'impatto che lo ha formato abbia quasi distrutto Fobos. Astronomy Picture of the Day è un sito curato da astronomi e attivo da decenni."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4e734514",
+   "sez": "economia",
+   "titolo": "Malta, Abela promette una «sorpresa positiva» nel bilancio 2027",
+   "orig": "There will be positive surprise in Budget 2027, Robert Abela promises",
+   "lead": "Il primo ministro maltese Robert Abela ha annunciato che la prossima legge di bilancio per il 2027 conterrà una sorpresa positiva. Secondo Abela, la priorità andrà alla spesa per il welfare e per la sanità. Le sue parole arrivano dopo che il ministro delle Finanze Clyde Caruana aveva definito questo un momento di responsabilità, lasciando intendere un approccio prudente sui conti pubblici. Il governo prova così a conciliare rigore e attenzione sociale in vista della presentazione della manovra. Lo riferisce MaltaToday.",
+   "more": [
+    "Malta è il più piccolo Stato membro dell'Unione europea e fa parte dell'eurozona. Robert Abela guida il governo laburista dal 2020. La legge di bilancio maltese viene tradizionalmente presentata in autunno e fissa le principali misure fiscali e di spesa per l'anno successivo."
+   ],
+   "fonti": [
+    {
+     "n": "MaltaToday",
+     "p": "XX",
+     "c": "Valletta",
+     "u": "https://www.maltatoday.com.mt/news/national/144960/abela_promises_budget_that_will_surprise_positively",
+     "angolo": "",
+     "atlas": "Malta"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za39d8a16",
+   "sez": "salute",
+   "titolo": "Sudan, dengue e malaria mettono sotto pressione l'ospedale di Sennar",
+   "orig": "Dengue, malaria cases strain hospital in Sudan’s Sennar state",
+   "lead": "Nello Stato di Sennar, in Sudan, l'aumento dei casi di febbre dengue e di malaria sta mettendo a dura prova i servizi sanitari locali. Secondo Radio Tamazuj, l'ospedale della zona fatica a far fronte al numero crescente di pazienti colpiti dalle due malattie, entrambe trasmesse dalle zanzare. La situazione si inserisce in un contesto in cui il sistema sanitario sudanese è già fragile, e l'ondata di contagi aggrava le difficoltà nell'assistenza alla popolazione. Lo riferisce Radio Tamazuj.",
+   "more": [
+    "La dengue e la malaria sono malattie trasmesse dalle zanzare e diffuse nelle regioni tropicali, con picchi nelle stagioni delle piogge. Il Sudan è segnato da una guerra civile che ha danneggiato gravemente ospedali e servizi. Sennar è uno Stato del sud-est del Paese, lungo il Nilo Azzurro."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/dengue-malaria-cases-strain-hospital-in-sudans-sennar-state",
+     "angolo": "",
+     "atlas": "S. Sudan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd7455eee",
+   "sez": "cultura",
+   "titolo": "Sanremo, De Martino: «Festival popolare, non populista. Mi ispiro a Baudo»",
+   "orig": "De Martino: 'Non farò un Sanremo populista ma popolare, mi ispiro a Baudo'",
+   "lead": "Stefano De Martino, alla guida del prossimo Festival di Sanremo, ha spiegato che il suo sarà uno spettacolo popolare ma non populista, prendendo come modello Pippo Baudo. Alle domande su un possibile festival «pre-elettorale» ha risposto che il palco sarà aperto a tutti. Il conduttore ha raccontato di aver accettato l'incarico perché ha percepito la Rai compatta attorno al progetto. Le sue dichiarazioni definiscono il tono che intende dare alla manifestazione musicale più seguita d'Italia. Lo riferisce ANSA.",
+   "more": [
+    "Il Festival della canzone italiana di Sanremo è la principale rassegna musicale del Paese, trasmessa dalla Rai. Pippo Baudo ne è stato il conduttore più presente nella storia, simbolo di una tv popolare. Stefano De Martino, ex ballerino, è oggi uno dei volti di punta dell'intrattenimento Rai."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cultura/tv/2026/10/10/de-martino-non-faro-un-sanremo-populista-ma-popolare-mi-ispiro-a-baudo_ca35948b-b106-4e4c-9b16-23b48e08f71b.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcba18c70",
+   "sez": "medicina",
+   "titolo": "Medicina da combattimento israeliana: mortalità dimezzata, interesse dall'esercito Usa",
+   "orig": "Israeli combat medicine slashes IDF deaths after Oct 7, draws US military interest",
+   "lead": "Secondo Fox News, la medicina sul campo di battaglia delle Forze di difesa israeliane ha ridotto drasticamente la mortalità dei soldati feriti dopo il 7 ottobre: il tasso di decessi in combattimento sarebbe sceso dal 15% al 7,1%. Il risultato viene attribuito a progressi nell'evacuazione dei feriti e nella cura dei traumi. Questi miglioramenti hanno attirato l'attenzione delle forze armate statunitensi, e alcune delle tecniche sviluppate stanno già portando benefici all'esercito degli Stati Uniti. Lo riferisce Fox News.",
+   "more": [
+    "La medicina da combattimento si concentra sulle prime cure ai feriti in zona di guerra, dal controllo delle emorragie al trasporto rapido verso gli ospedali. Le esperienze maturate nei conflitti spesso vengono poi adottate anche dalla medicina d'urgenza civile, per esempio nella gestione dei grandi traumi."
+   ],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z44b901c6",
+   "sez": "tech",
+   "titolo": "Perché i giovani professionisti non sono i più bravi con l'IA",
+   "orig": "Why young professionals are not good at AI",
+   "lead": "Un commento pubblicato dal Philippine Daily Inquirer contesta l'idea diffusa che, davanti a una nuova tecnologia, siano i più giovani a dover guidare il cambiamento perché imparano in fretta. Con l'intelligenza artificiale, sostiene l'autore, questa convinzione può costare cara alle aziende: un giovane professionista può produrre un rapporto strategico impressionante senza davvero capire la strategia, e un amministratore delegato può scambiare quel risultato per competenza. Il punto è che saper usare gli strumenti non equivale a saper giudicare ciò che producono. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "Gli strumenti di intelligenza artificiale generativa producono testi e analisi dall'aspetto convincente, ma possono contenere errori o ragionamenti superficiali. Per questo molti esperti insistono sull'importanza dell'esperienza e del senso critico per valutare i risultati, oltre alla semplice abilità tecnica nell'uso dei programmi."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://business.inquirer.net/615423/why-young-professionals-are-not-good-at-ai",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf6fadd9a",
+   "sez": "ingegneria",
+   "titolo": "Biennale di architettura di Tallinn, l'installazione RESONANCE",
+   "orig": "RESONANCE - Tallinn Architecture Biennale Installation / Aru Ma- Architects",
+   "lead": "Per la Biennale di architettura di Tallinn lo studio Aru Ma- Architects ha realizzato RESONANCE, un'installazione che crea un cortile riparato e separato dal contesto urbano della capitale estone, sempre più commercializzato. L'opera vuole offrire una pausa deliberata: la brezza marina scorre tra pietre silenziose e la luce del sole si posa sulle curve ampie e calde di schermi in compensato. Secondo i progettisti è un privilegio spaziale ricavato da materiali comuni, che filtra il caos esterno per restituire un'atmosfera raccolta. Lo riferisce ArchDaily.",
+   "more": [
+    "Tallinn è la capitale dell'Estonia, affacciata sul Mar Baltico. La sua Biennale di architettura è una rassegna internazionale dedicata al progetto e alla città, che ospita installazioni temporanee. Il compensato è un materiale economico e versatile, spesso usato in architetture effimere per la facilità di taglio e curvatura."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186616/resonance-tallinn-architecture-biennale-installation-aru-ma-architects",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z92f4cbb5",
+   "sez": "cucina",
+   "titolo": "Pizzoccheri bianchi della Valchiavenna, la ricetta",
+   "orig": "Pizzoccheri bianchi, la ricetta della Valchiavenna",
+   "lead": "La Cucina Italiana presenta la ricetta dei pizzoccheri bianchi della Valchiavenna, un piatto diverso dai più noti pizzoccheri della Valtellina. Si tratta di una preparazione di recupero, nata per non sprecare il pane raffermo, che viene lavorato insieme a formaggio e burro. Il risultato è un piatto semplice e sostanzioso, legato alla tradizione contadina della valle lombarda, che la rivista ripropone come alternativa alla versione più conosciuta a base di grano saraceno. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "La Valchiavenna è una valle alpina in provincia di Sondrio, in Lombardia, vicina al confine svizzero. I pizzoccheri valtellinesi sono tagliatelle di grano saraceno con verdure e formaggio, mentre nella vicina valle la versione bianca assomiglia piuttosto a piccoli gnocchi."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/ricetta/pizzoccheri-bianchi-valchiavenna/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z63a230b1",
+   "sez": "adolescenti",
+   "titolo": "Quando l'origami ispira la scienza",
+   "orig": "Let’s learn about origami-inspired science",
+   "lead": "Science News Explores dedica uno speciale per ragazzi alla scienza ispirata all'origami, l'arte giapponese di piegare la carta. Le tecniche di piegatura, spiega la testata, hanno suggerito agli scienziati nuovi modi per progettare tecnologie leggere e capaci di cambiare forma. L'idea è che le stesse regole usate per trasformare un foglio in una figura possano servire a costruire oggetti compatti che si aprono o si modificano quando serve. Una lezione che unisce arte, geometria e ingegneria. Lo riferisce Science News Explores.",
+   "more": [
+    "L'origami è l'arte tradizionale giapponese di creare figure piegando un foglio di carta, di solito senza tagli né colla. I suoi principi sono studiati in matematica e ingegneria, per esempio per pannelli solari spaziali che si dispiegano, dispositivi medici o robot morbidi."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/lets-learn-about-origami-inspired-science",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "scienza"
+  },
+  {
+   "id": "z8ca91aac",
+   "sez": "musica",
+   "titolo": "Pushbike, il fuzz-pop esplosivo del trio di Exeter",
+   "orig": "Add to playlist: the fizzing fuzz-pop racket of Pushbike and the week’s best new tracks",
+   "lead": "Nella sua selezione settimanale di nuovi brani, il Guardian mette in luce i Pushbike, trio di Exeter, nel Regno Unito, che mescola post-hardcore, twee ed emo. Il loro EP Little Bastard, appena uscito, corre attraverso quattro canzoni in meno di dieci minuti tra ritornelli storti, urla euforiche e chitarre taglienti. Secondo la testata, la loro energia è un invito a fondare una band o a organizzare concerti, e ricorda che le scene musicali nascono soprattutto dalla voglia di esserci. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "Il twee pop è un genere indipendente nato in Gran Bretagna, fatto di melodie semplici e atmosfere ingenue. Il post-hardcore e l'emo derivano invece dal punk americano, con suoni più tesi ed emotivi. Exeter è una città universitaria del Devon, nel sud-ovest dell'Inghilterra."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/09/add-to-playlist-the-fizzing-fuzz-pop-racket-of-pushbike-and-the-weeks-best-new-tracks",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z54a1abdb",
+   "sez": "manga",
+   "titolo": "Le i☆Ris si scioglieranno alla fine del 2027",
+   "orig": "i☆Ris Voice Actress Idol Unit to Disband at End of 2027",
+   "lead": "Il gruppo idol giapponese i☆Ris, formato da doppiatrici, si scioglierà alla fine del 2027. L'annuncio arriva in vista di un traguardo importante: il prossimo anno l'unità festeggerà infatti il quindicesimo anniversario di attività. La formazione avrà dunque ancora davanti a sé un periodo di celebrazioni prima della chiusura definitiva del progetto, che ha accompagnato a lungo il mondo dell'animazione giapponese unendo attività di doppiaggio e carriera musicale. Lo riferisce Anime News Network.",
+   "more": [
+    "In Giappone molte doppiatrici di anime svolgono anche attività da idol, con concerti, dischi ed eventi dal vivo. Le i☆Ris sono un gruppo di questo tipo, legato in particolare alla serie Pretty Rhythm e alla saga Pripara, di cui hanno interpretato personaggi e sigle."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-11/i-ris-voice-actress-idol-unit-to-disband-at-end-of-2027/.242716",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z96ec5206",
+   "sez": "viaggi",
+   "titolo": "Cambogia, il viaggio inatteso nelle foreste di Siempang",
+   "orig": "Travel with Purpose: The Forest I Didn’t Know I Was Going To",
+   "lead": "In un racconto di viaggio pubblicato dal Phnom Penh Post, l'autrice, Michelle, ricorda come sia finita quasi per caso a Siempang, in Cambogia. Un'amica le aveva proposto due notti in un resort della zona durante un fine settimana libero, e lei aveva accettato senza esitare, convinta che la località fosse vicino a Siem Reap. Solo guardando l'itinerario ha scoperto che si trattava di un'altra destinazione, immersa nella foresta. Il testo fa parte della rubrica dedicata ai viaggi consapevoli. Lo riferisce Phnom Penh Post.",
+   "more": [
+    "Siempang è un distretto della provincia di Stung Treng, nel nord-est della Cambogia, regione di fiumi e foreste lontana dai principali circuiti turistici. Siem Reap, con cui l'autrice lo aveva confuso, è invece la città vicina ai templi di Angkor, la meta più visitata del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Phnom Penh Post",
+     "p": "XX",
+     "c": "Phnom Penh",
+     "u": "https://phnompenhpost.com/lifestyle/travel-with-purpose-the-forest-i-didnt-know-i-was-going-to/",
+     "angolo": "",
+     "atlas": "Cambodia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcfe6bc75",
+   "sez": "organizzazioni",
+   "titolo": "Ucraina, nuovo aggiornamento dell'Aiea sulla sicurezza nucleare",
+   "orig": "Update 369 – IAEA Director General Statement on Situation in Ukraine",
+   "lead": "L'Agenzia internazionale per l'energia atomica ha diffuso da Vienna il suo aggiornamento numero 369 sulla situazione in Ucraina, una dichiarazione del direttore generale dedicata alla sicurezza degli impianti nucleari del Paese in guerra. La serie di comunicati, giunta a questo numero, testimonia il monitoraggio costante che l'agenzia dell'Onu porta avanti sulle centrali ucraine. Il testo diffuso non riporta nella sintesi disponibile i dettagli dei singoli sviluppi segnalati. Lo riferisce Agenzia internazionale per l'energia atomica (Aiea).",
+   "more": [
+    "L'Aiea è l'organismo delle Nazioni Unite che promuove l'uso pacifico dell'energia nucleare e vigila sulla sicurezza degli impianti. Dall'inizio dell'invasione russa dell'Ucraina segue da vicino le centrali del Paese, in particolare quella di Zaporizhzhia, la più grande d'Europa, dove mantiene propri esperti."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/update-369-iaea-director-general-statement-on-situation-in-ukraine",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7648af19",
+   "sez": "sport",
+   "titolo": "Tropical Coriano-Crema finisce 0-0",
+   "orig": "Tropical Coriano e Crema si bloccano sullo 0-0",
+   "lead": "Tropical Coriano e Crema non vanno oltre lo 0-0 in una partita equilibrata, in cui nessuna delle due squadre è riuscita a prevalere. Tra gli episodi principali spiccano un intervento miracoloso del portiere Finardi su un tentativo di Iacovoni e un pallone colpito da Recino che si è stampato all'incrocio dei pali. Le occasioni non sono mancate da entrambe le parti, ma il risultato è rimasto inchiodato sul pari fino al fischio finale, con un punto a testa per le due formazioni. Lo riferisce San Marino RTV.",
+   "more": [
+    "Il Tropical Coriano è una squadra di calcio della provincia di Rimini, in Romagna, mentre il Crema rappresenta l'omonima città lombarda. Le due formazioni militano nei campionati dilettantistici nazionali, seguiti con attenzione dall'emittente pubblica di San Marino per la vicinanza al territorio."
+   ],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/calcio-c14/tropical-coriano-e-crema-si-bloccano-sullo-0-0-a297117",
+     "angolo": "",
+     "atlas": "San Marino"
+    },
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/calcio-c14/di-maio-ai-punti-avremmo-meritato-qualcosa-in-piu-piccolo-partita-equilibrata-a297120",
+     "angolo": "",
+     "atlas": "San Marino"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3421c7b2",
+   "sez": "sport",
+   "titolo": "Romania, esordio amaro per Suciu sulla panchina del Csikszereda",
+   "orig": "S-a schimbat antrenorul, nu și rezultatul! Valentin Suciu, învins de Universitatea Craiova la debutul pe banca lui Csikszereda: „Aveam așteptări”",
+   "lead": "Il debutto di Valentin Suciu come allenatore del Csikszereda si è chiuso con una sconfitta. Nella undicesima giornata della SuperLiga romena, la squadra ha perso in casa per 0-1 contro i campioni dell'Universitatea Craiova. A fine partita il nuovo tecnico ha riconosciuto la superiorità degli avversari, ammettendo di avere avuto aspettative diverse, e ha voluto rivolgere un messaggio ai suoi giocatori. Il cambio in panchina, dunque, non ha ancora prodotto la svolta sperata nei risultati. Lo riferisce HotNews.",
+   "more": [
+    "La SuperLiga è il massimo campionato di calcio della Romania. Il Csikszereda ha sede a Miercurea Ciuc, città della Transilvania con una forte comunità di lingua ungherese. L'Universitatea Craiova è uno dei club storici del calcio romeno, con un seguito molto ampio."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/s-a-schimbat-antrenorul-nu-si-rezultatul-valentin-suciu-invins-de-universitatea-craiova-la-debutul-pe-banca-lui-csikszereda-aveam-asteptari-2373124",
+     "angolo": "",
+     "atlas": "Romania"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3409f153",
+   "sez": "cultura",
+   "titolo": "Cinecittà, in mostra i costumi da Il diavolo veste Prada 2 a Barbarella",
+   "orig": "Da Il diavolo veste Prada 2 a Barbarella, a Cinecittà in mostra i costumi di scena",
+   "lead": "Negli studi di Cinecittà, a Roma, la mostra dedicata ai costumi di scena si arricchisce di nuovi abiti e racconti. Tra i pezzi esposti figurano creazioni che vanno da Il diavolo veste Prada 2 fino a Barbarella, a testimoniare il legame tra moda e cinema attraverso epoche diverse. L'esposizione, che accompagna i visitatori dietro le quinte delle produzioni cinematografiche, resterà aperta fino al 15 febbraio, offrendo l'occasione di vedere da vicino i costumi che hanno vestito i personaggi sul grande schermo. Lo riferisce ANSA.",
+   "more": [
+    "Cinecittà è il grande complesso di studi cinematografici di Roma, dove sono stati girati film italiani e internazionali celebri. Barbarella è un film di fantascienza con Jane Fonda, famoso per i costumi, mentre Il diavolo veste Prada racconta il mondo di una rivista di moda."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/canale_viaggi/regione/lazio/2026/10/10/da-il-diavolo-veste-prada-2-a-barbarella-a-cinecitta-in-mostra-i-costumi-di-scena_d0bed006-c3ff-4497-a944-03da35385627.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc9690783",
+   "sez": "mondo",
+   "titolo": "Sudafrica, Zuma ancora in ospedale tra notizie contrastanti sulla salute",
+   "orig": "South Africa: Zuma Remains in Hospital as Conflicting Reports Emerge Over His Health",
+   "lead": "L'ex presidente sudafricano Jacob Zuma resta ricoverato in un ospedale privato di Pietermaritzburg, nella provincia del KwaZulu-Natal. Dopo il suo ingresso nella struttura sono circolate versioni contrastanti sulle sue condizioni di salute, senza che emergesse un quadro chiaro. Il ricovero di una delle figure politiche più influenti e discusse del Paese continua così ad alimentare incertezza, in attesa di informazioni più precise sul suo stato. Lo riferisce allAfrica.",
+   "more": [
+    "Jacob Zuma è stato presidente del Sudafrica dal 2009 al 2018, quando si dimise sotto la pressione del suo partito, l'African National Congress, travolto da accuse di corruzione. In seguito ha fondato un nuovo partito, l'MK. Pietermaritzburg è il capoluogo del KwaZulu-Natal, la sua regione d'origine."
+   ],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610090331.html",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z34622722",
+   "sez": "cultura",
+   "titolo": "Chen Wei e la pista da ballo come palcoscenico di un'estasi immaginata",
+   "orig": "chen wei on the dance floor as a stage for imagined ecstasy",
+   "lead": "In un saggio scritto come ospite per Designboom, l'artista Chen Wei riflette sulla natura sfuggente dell'estasi. Per farlo attinge alla vita notturna, alla fotografia costruita in posa, ai propri ricordi personali e alle storie raccontate dagli amici. Al centro del testo c'è la pista da ballo, intesa come una scena su cui il piacere viene messo in scena. L'artista si chiede in che modo il piacere venga recitato, immaginato e poi ricostruito, e usa il proprio lavoro per indagare il confine tra esperienza vissuta e rappresentazione. Lo riferisce Designboom.",
+   "more": [
+    "La fotografia costruita, o messa in scena, è un approccio in cui l'artista allestisce deliberatamente ambienti, luci e figure invece di cogliere momenti spontanei. Il risultato sono immagini a metà tra documento e finzione, spesso usate per esplorare ricordi, emozioni e atmosfere collettive."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/art/chen-wei-dance-floor-stage-for-imagined-ecstasy-guest-essay/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze31acd2e",
+   "sez": "cucina",
+   "titolo": "Pollo alla Stefani, la ricetta nata alla corte dei Gonzaga",
+   "orig": "Pollo alla Stefani",
+   "lead": "La Cucina Italiana propone la ricetta del pollo alla Stefani, un piatto che, secondo la rivista, ha origine alla corte dei Gonzaga. Non si tratta di un classico secondo caldo, ma di un'insalata: la carne di pollo viene sfilacciata e poi arricchita con uvetta e cedro, ingredienti che le danno un sapore insieme dolce e profumato. La rivista accompagna la storia del piatto con le indicazioni per prepararlo a casa, riportando così in tavola una preparazione legata alla tradizione gastronomica delle corti rinascimentali. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "I Gonzaga furono la famiglia che governò Mantova per secoli e la loro corte fu un importante centro artistico e culturale. La cucina delle corti rinascimentali amava accostare carne, frutta secca e agrumi canditi, combinando sapori dolci e salati in modo oggi meno consueto."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/ricetta/pollo-alla-stefani/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2f4d5138",
+   "sez": "adolescenti",
+   "titolo": "El Niño del 2026 batte ogni record, e non è ancora finito",
+   "orig": "2026’s El Niño is record-breaking — and it’s not done yet",
+   "lead": "El Niño del 2026 sta stabilendo nuovi primati. Nella regione dell'oceano dove questo fenomeno si forma, le temperature giornaliere della superficie del mare hanno già raggiunto valori più estremi che in qualsiasi altro momento da quando esistono le misurazioni. Secondo l'articolo, l'episodio non ha ancora esaurito la sua forza, e potrebbe quindi spingersi ancora oltre. La notizia viene presentata in chiave divulgativa per un pubblico giovane, per spiegare perché gli scienziati lo seguono con tanta attenzione. Lo riferisce Science News Explores.",
+   "more": [
+    "El Niño è un fenomeno climatico naturale in cui le acque superficiali dell'Oceano Pacifico tropicale centrale e orientale diventano più calde del normale. Influisce sul clima di molte parti del mondo: può portare piogge intense in alcune regioni e siccità in altre, e tende a far salire la temperatura media globale."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/record-breaking-2026-el-nino",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "scienza"
+  },
+  {
+   "id": "z2ad1e2a2",
+   "sez": "musica",
+   "titolo": "Richard Thompson risponde ai lettori in vista del nuovo album",
+   "orig": "Post your questions for Richard Thompson",
+   "lead": "Il Guardian invita i lettori a inviare domande a Richard Thompson, figura di riferimento del folk britannico, che risponderà in vista dell'uscita del suo nuovo album, «Hippies, Thugs and Heroes». Oggi settantasettenne, Thompson ha iniziato la carriera da adolescente fondando i Fairport Convention, che scelsero di scrivere brani propri invece di limitarsi a cover e classici del folk. Dischi come «Liege and Lief» del 1969 sono così entrati a far parte del canone folk britannico. In seguito ha lavorato in coppia con l'allora moglie Linda e ha pubblicato album solisti che arrivano ancora nelle classifiche britanniche. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "Richard Thompson è un chitarrista e cantautore inglese, apprezzato per la sua tecnica alla chitarra e per testi spesso cupi e ironici. I Fairport Convention sono considerati tra i pionieri del folk rock britannico, il genere che unisce la tradizione musicale delle isole britanniche agli strumenti elettrici del rock."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/culture/2026/oct/09/post-your-questions-for-richard-thompson",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6d99a1c8",
+   "sez": "spazio",
+   "titolo": "Che cosa serve per costruire una base sulla Luna",
+   "orig": "What will it take to build a moon base?",
+   "lead": "In un nuovo episodio del suo podcast, SpaceNews riunisce un gruppo di esperti del settore per discutere di che cosa serva per costruire una base sulla Luna. Il confronto si è svolto durante un evento dal vivo al Johns Hopkins University Bloomberg Center, a Washington, e ha coinvolto dirigenti di aziende spaziali come Astrolab e Firefly. L'obiettivo è capire quali passi tecnici e industriali siano necessari per arrivare a una presenza stabile sulla superficie lunare, un traguardo al centro dei programmi di esplorazione. Lo riferisce SpaceNews.",
+   "more": [
+    "Astrolab e Firefly sono aziende private statunitensi del settore spaziale: la prima sviluppa veicoli per muoversi sulla superficie lunare, la seconda lanciatori e lander. Costruire una base sulla Luna richiede di risolvere problemi come trasporto dei materiali, produzione di energia, protezione dalle radiazioni e sopravvivenza alle notti lunari."
+   ],
+   "fonti": [
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z727016d6",
+   "sez": "viaggi",
+   "titolo": "Dopo la vittoria dei Knicks, Josh Hart vola a Bordeaux",
+   "orig": "Fresh Off the Knicks Victory, Josh Hart Beelined for Bordeaux",
+   "lead": "Josh Hart, guardia dei New York Knicks, subito dopo una vittoria della sua squadra è partito per Bordeaux, in Francia. Il viaggio non è casuale: il giocatore di basket è infatti un appassionato di vino in crescita, un enofilo sempre più esperto. Condé Nast Traveler racconta la sua trasferta nella celebre regione vinicola francese, unendo il mondo dello sport professionistico statunitense a quello delle cantine e della degustazione. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "Bordeaux è una città del sud-ovest della Francia, capoluogo di una delle regioni vinicole più famose al mondo. I suoi vini, soprattutto rossi, sono prodotti in numerose tenute chiamate châteaux, meta di un intenso turismo enologico fatto di visite alle cantine e degustazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/fresh-off-the-knicks-victory-josh-hart-beelined-for-bordeaux",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3a30256d",
+   "sez": "manga",
+   "titolo": "Il manga Ghost Fixers di Yasuki Tanaka si conclude con il prossimo capitolo",
+   "orig": "Yasuki Tanaka's Ghost Fixers Manga Ends in Next Chapter",
+   "lead": "Il manga «Ghost Fixers» di Yasuki Tanaka arriverà alla conclusione con il prossimo capitolo. La serie era partita nel marzo del 2024 ed è firmata dallo stesso autore di «Summer Time Rendering», l'opera che lo ha reso noto al pubblico. Con l'uscita del capitolo finale si chiuderà quindi un percorso durato poco più di due anni. Anime News Network dà notizia dell'imminente fine della pubblicazione, senza indicare ulteriori dettagli sulla trama o su eventuali progetti futuri dell'autore. Lo riferisce Anime News Network.",
+   "more": [
+    "Yasuki Tanaka è un mangaka giapponese noto soprattutto per «Summer Time Rendering», serie a metà tra mistero, fantascienza e orrore ambientata su un'isola giapponese, da cui è stato tratto anche un adattamento anime. Le sue opere sono spesso apprezzate per le trame intricate e la tensione costante."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-11/yasuki-tanaka-ghost-fixers-manga-ends-in-next-chapter/.242710",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-11/boichi-the-marshal-king-manga-ends-on-october-16/.242709",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5446a1cf",
+   "sez": "ambiente",
+   "titolo": "Botswana, resta valida l'offerta di animali selvatici a Serowe per la festa dell'indipendenza",
+   "orig": "Govt Wildlife Offer to Serowe Stands",
+   "lead": "Il governo del Botswana mantiene la sua offerta di animali selvatici da macellare a Serowe in occasione delle celebrazioni per l'indipendenza del Paese. La proposta resta in piedi nonostante sia stata respinta da Ian Khama, capo supremo dei Bangwato con il grado di tenente generale, che preferirebbe invece bestiame. Secondo l'esecutivo, la comunità ha tempo fino alla fine di ottobre per accettare. La vicenda mette a confronto la posizione del governo e quella dell'autorità tradizionale locale sul modo di festeggiare. Lo riferisce The Botswana Gazette.",
+   "more": [
+    "I Bangwato sono uno dei principali gruppi tswana del Botswana e Serowe è il loro centro storico. Ian Khama, che è stato anche presidente del Paese, ne è il capo tradizionale. Il Botswana è noto per la ricca fauna selvatica e per le politiche di tutela della natura."
+   ],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/news/govt-wildlife-offer-to-serowe-stands/",
+     "angolo": "",
+     "atlas": "Botswana"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z50f04961",
+   "sez": "mondo",
+   "titolo": "Kosovo, i leader si accusano a vicenda mentre si profilano nuove elezioni",
+   "orig": "Kosovo Political Leaders Trade Blame as Another Election Looms",
+   "lead": "In Kosovo si avvicina l'ipotesi di nuove elezioni, mentre i leader politici si scambiano accuse. I partiti non riescono a trovare un accordo per eleggere il presidente della Repubblica. Nel frattempo i manifestanti continuano a fare pressione per l'approvazione di una legge che limiti i poteri delle Kosovo Specialist Chambers, il tribunale che ha condannato alcuni ex comandanti della guerriglia del periodo bellico. Lo stallo istituzionale e la protesta di piazza si intrecciano, rendendo sempre più probabile un nuovo ricorso alle urne. Lo riferisce Prishtina Insight.",
+   "more": [
+    "Le Kosovo Specialist Chambers sono un tribunale con sede all'Aia, istituito per giudicare crimini commessi durante e dopo la guerra in Kosovo della fine degli anni Novanta. Sono spesso oggetto di critiche in Kosovo, perché processano ex membri dell'Esercito di liberazione del Kosovo, considerati da molti eroi della lotta per l'indipendenza."
+   ],
+   "fonti": [
+    {
+     "n": "Prishtina Insight",
+     "p": "XX",
+     "c": "Pristina",
+     "u": "https://prishtinainsight.com/kosovo-political-leaders-trade-blame-as-another-election-looms/",
+     "angolo": "",
+     "atlas": "Kosovo"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zafbaeaaa",
+   "sez": "sport",
+   "titolo": "Pallamano femminile, Bojana e Tanja infliggono all'Esbjerg la prima sconfitta",
+   "orig": "Bojana i Tanja nanijele prvi poraz Esbjergu, Podravki nije pomogla...",
+   "lead": "Nella Champions League di pallamano femminile l'Esbjerg ha subito la sua prima sconfitta della stagione, e un contributo decisivo è arrivato da due giocatrici, Bojana e Tanja, celebrate dal quotidiano montenegrino Vijesti. Nella stessa giornata di competizione, invece, il loro apporto non è bastato al Podravka, che non è riuscito a ottenere il risultato sperato. La testata segue con attenzione le giocatrici legate al Montenegro impegnate nel massimo torneo europeo per club. Lo riferisce Vijesti.",
+   "more": [
+    "La Champions League di pallamano femminile è la principale competizione europea per club, organizzata dalla federazione europea di pallamano. L'Esbjerg è una delle squadre danesi più forti, mentre il Podravka è un club croato di lunga tradizione. Il Montenegro ha una solida scuola nella pallamano femminile."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/rukomet/830946/bojana-i-tanja-nanijele-prvi-poraz-esbjergu-podravki-nije-pomogla-jos-jedna-dobra-mateina-partija",
+     "angolo": "",
+     "atlas": "Montenegro"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc992c5b7",
+   "sez": "ambiente",
+   "titolo": "Le donne che mettono le comunità al centro della tutela degli elefanti",
+   "orig": "The women putting community at the heart of elephant conservation",
+   "lead": "In diversi Paesi dell'Africa sono le donne a guidare nuovi progetti di tutela degli elefanti, mettendo le comunità locali al centro della conservazione. Il loro impegno mette in discussione vecchie convinzioni su chi debba beneficiare della protezione della fauna e su chi abbia il diritto di dirigerla. Positive News racconta come queste donne stiano cambiando il modo di intendere la conservazione, coinvolgendo chi vive accanto agli animali invece di escluderlo dalle decisioni. Lo riferisce Positive News.",
+   "more": [
+    "La convivenza tra elefanti e comunità rurali è spesso difficile, perché gli animali possono danneggiare coltivazioni e villaggi. Per questo molti approcci moderni alla conservazione puntano a coinvolgere direttamente le popolazioni locali, rendendole partecipi dei benefici e delle scelte sulla gestione della fauna."
+   ],
+   "fonti": [
+    {
+     "n": "Positive News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "good": true,
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z49569abe",
+   "sez": "cultura",
+   "titolo": "Perché le star del cinema keniano abbandonano la recitazione",
+   "orig": "Why Kenya’s film stars are quitting acting",
+   "lead": "In Kenya diversi attori del cinema stanno lasciando la professione. Alcuni raccontano di vivere alla giornata, con guadagni appena sufficienti per tirare avanti, mentre produttori e case di produzione trattengono la parte maggiore dei profitti. The EastAfrican indaga le ragioni di questo abbandono, mettendo in luce il divario economico tra chi recita davanti alla macchina da presa e chi controlla la produzione e la distribuzione dei film. Il quadro che emerge è quello di un settore in cui la notorietà non garantisce stabilità. Lo riferisce The EastAfrican.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The EastAfrican",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.theeastafrican.co.ke/tea/magazine/why-kenya-s-film-stars-are-quitting-acting-5626636",
+     "angolo": "",
+     "atlas": "Kenya"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0bb51dd0",
+   "sez": "tech",
+   "titolo": "Bussare sul legno a distanza: dispositivi sugli alberi collegati a una web app",
+   "orig": "tree-mounted machines connect to web app to let users knock on wood remotely",
+   "lead": "Si chiama «knock on wood» il progetto presentato da Designboom: si tratta di dispositivi collegati a internet e montati sugli alberi, che eseguono il classico gesto scaramantico di bussare sul legno. Gli utenti possono attivarli tramite un'applicazione web, così da rispettare la superstizione anche quando non hanno del legno a portata di mano. L'idea unisce in modo ironico una tradizione popolare e la tecnologia connessa, trasformando un gesto quotidiano in un'azione eseguita a distanza. Lo riferisce Designboom.",
+   "more": [
+    "Bussare sul legno è un gesto scaramantico diffuso soprattutto nei Paesi anglosassoni, usato per allontanare la sfortuna dopo aver espresso una speranza o un vanto. In italiano ha un equivalente nel «toccare ferro». Il progetto rientra tra gli oggetti connessi a internet, spesso usati anche in chiave artistica o ironica."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4f21ced2",
+   "sez": "cucina",
+   "titolo": "Tiramisù senza savoiardi: 7 alternative",
+   "orig": "Cosa mettere nel tiramisù al posto dei savoiardi? 7 idee",
+   "lead": "La Cucina Italiana propone sette idee per preparare il tiramisù anche senza i savoiardi, la base classica del dolce. Tra le alternative suggerite ci sono il pan di Spagna, i pavesini, gli amaretti e i cantucci, ingredienti che permettono di ottenere comunque un risultato goloso e cremoso. Il consiglio è utile per chi non ha in casa i biscotti tradizionali o vuole variare la ricetta, dando al dolce consistenze e sapori diversi pur mantenendo la sua struttura a strati. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Il tiramisù è uno dei dolci italiani più conosciuti al mondo: si prepara alternando strati di biscotti inzuppati nel caffè e una crema a base di mascarpone, uova e zucchero, completando con cacao in polvere. I savoiardi sono biscotti leggeri e porosi che assorbono bene il caffè."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/cosa-mettere-nel-tiramisu-al-posto-dei-savoiardi/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z067c2c5c",
+   "sez": "adolescenti",
+   "titolo": "Le parole della scienza: la pirolisi",
+   "orig": "Scientists Say: Pyrolysis",
+   "lead": "Science News Explores spiega ai ragazzi il significato della parola pirolisi, nella sua rubrica dedicata ai termini scientifici. Si tratta di una reazione simile a una combustione, ma che avviene in assenza di ossigeno. Proprio questo processo aiuta a capire una differenza curiosa: perché il carbone di legna è in grado di bruciare, mentre la normale fuliggine che si forma attorno a un fuoco da campo non lo è. La spiegazione usa esempi quotidiani per rendere comprensibile un concetto della chimica. Lo riferisce Science News Explores.",
+   "more": [
+    "La pirolisi è la decomposizione di un materiale, come legno o plastica, attraverso il calore in assenza di ossigeno. È usata ad esempio per produrre carbone di legna e viene studiata anche per recuperare energia o materiali dai rifiuti."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/scientists-say-pyrolysis-definition-pronunciation",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "cinema"
+  },
+  {
+   "id": "z7d0f73b6",
+   "sez": "salute",
+   "titolo": "Meno cibi ultraprocessati, più salute mentale?",
+   "orig": "Meno ultraprocessati, migliore salute mentale?",
+   "lead": "Un piccolo studio preliminare ha esplorato il legame tra la riduzione del consumo di alimenti ultraprocessati e la depressione. Secondo quanto riportato da Focus, i risultati suggeriscono che un'alimentazione più sana, meno dipendente da questo tipo di prodotti, potrebbe avere effetti positivi sul benessere mentale. Trattandosi di una ricerca di dimensioni ridotte e ancora iniziale, le conclusioni vanno considerate come un primo indizio da verificare con studi più ampi. Lo riferisce Focus.",
+   "more": [
+    "Gli alimenti ultraprocessati sono prodotti industriali ottenuti con molte lavorazioni e ingredienti come additivi, zuccheri e grassi aggiunti: ad esempio snack confezionati, bibite zuccherate e piatti pronti. Da tempo la ricerca ne studia i possibili effetti sulla salute fisica e, più di recente, anche su quella mentale."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/salute/ridurre-gli-ultraprocessati-migliora-anche-la-salute-mentale",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5ad7e2cb",
+   "sez": "medicina",
+   "titolo": "Cervello, alcune regioni invecchiano prima di altre",
+   "orig": "Cervello: alcune regioni invecchiano prima",
+   "lead": "Non tutte le parti del cervello invecchiano alla stessa velocità. È quanto emerge da una ricerca che ha impiegato un'intelligenza artificiale, addestrata su 15.000 risonanze magnetiche, per analizzare l'età delle diverse regioni cerebrali. Lo strumento ha mostrato che le aree invecchiano a ritmi differenti e che il lato destro del cervello lo fa più rapidamente di quello sinistro. I risultati offrono un quadro più dettagliato del processo di invecchiamento cerebrale. Lo riferisce Focus.",
+   "more": [
+    "La risonanza magnetica è un esame che permette di ottenere immagini dettagliate degli organi, cervello compreso, senza usare radiazioni. L'intelligenza artificiale può essere addestrata su molte immagini per riconoscere schemi difficili da individuare a occhio, ad esempio i segni dell'età nei tessuti cerebrali."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/salute/una-mappa-dell-eta-biologica-del-cervello-il-lato-destro-invecchia-prima",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaf715de1",
+   "sez": "musica",
+   "titolo": "Fontaines DC, le 20 canzoni migliori in classifica",
+   "orig": "Fierce, frantic and loaded with menace: Fontaines DC’s 20 greatest songs – ranked!",
+   "lead": "In vista del quinto album dei Fontaines DC, «Dopamine Chamber», molto atteso, il Guardian stila la classifica delle venti migliori canzoni del gruppo alternative rock irlandese, ripercorrendo un repertorio intenso e talvolta politico. Tra i brani citati c'è «It's Amazing to Be Young», singolo ispirato alla nascita della figlia del chitarrista Carlos O'Connell: un esempio del lato euforico della band, emerso solo di recente. Il cantante Grian Chatten ha commentato che a volte l'ottimismo è un'illusione necessaria. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "I Fontaines DC sono una band irlandese nata a Dublino, nota per un rock teso e incisivo, legato al post-punk, e per testi poetici spesso ispirati alla realtà irlandese. Il cantante Grian Chatten ha pubblicato anche lavori da solista. La band ha ottenuto un ampio riconoscimento internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/08/fierce-frantic-and-loaded-with-menace-fontaines-dcs-20-greatest-songs-ranked",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb75bd62d",
+   "sez": "spazio",
+   "titolo": "SpaceNews annuncia i finalisti degli Icon Awards 2026",
+   "orig": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
+   "lead": "SpaceNews ha reso noti i finalisti dell'edizione 2026 dei suoi Icon Awards, i riconoscimenti dedicati al settore spaziale. In tutto sono 43 tra leader e risultati ritenuti esemplari per l'eccellenza dimostrata nell'industria negli ultimi dodici mesi. I premi intendono mettere in luce le persone e i traguardi che hanno segnato l'anno nel comparto, dalle aziende ai programmi. La testata presenta l'elenco come una rassegna dei protagonisti del settore. Lo riferisce SpaceNews.",
+   "more": [
+    "SpaceNews è una testata statunitense specializzata nell'industria spaziale, che segue lanci, satelliti, aziende private, agenzie governative e politiche del settore. I suoi Icon Awards sono premi che la rivista assegna per riconoscere persone, imprese e risultati di rilievo nel comparto."
+   ],
+   "fonti": [
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1379245b",
+   "sez": "italia",
+   "titolo": "Sapienza, nessun rettore eletto al primo turno: si torna al voto il 13 ottobre",
+   "orig": "Roma, voto alla Sapienza: fumata nera nessun rettore al primo turno: seconda tornata il 13 ottobre",
+   "lead": "Alla Sapienza di Roma il primo turno delle elezioni per il nuovo rettore si è chiuso senza un vincitore. La corsa per guidare l'ateneo nel sessennio 2026-2032 e raccogliere l'eredità di Antonella Polimeni, rettrice uscente, non ha prodotto una maggioranza sufficiente. Sarà quindi necessaria una seconda tornata di voto, fissata per il 13 ottobre, per stabilire chi guiderà la più grande università romana nei prossimi sei anni. Lo riferisce Il Messaggero – Roma.",
+   "more": [
+    "La Sapienza è l'università pubblica di Roma ed è tra le più antiche e grandi d'Europa per numero di studenti. Il rettore è eletto dalla comunità accademica e ne è il massimo rappresentante: guida l'ateneo, lo rappresenta all'esterno e ne coordina le scelte di governo."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/metropoli/voto_rettore_sapienza_roma-9814932.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdb1766a3",
+   "sez": "viaggi",
+   "titolo": "Un viaggio tra le spa dell'isola di Vancouver",
+   "orig": "How to Plan a Spa-Hopping Trip Across Vancouver Island",
+   "lead": "La giornalista Adrienne Matei racconta un itinerario attraverso l'isola di Vancouver, nella Columbia Britannica canadese, dedicato al benessere. Il percorso tocca bagni termali galleggianti e sorgenti calde geotermiche immerse in antiche foreste pluviali. Durante il viaggio l'autrice osserva come il benessere sia parte integrante del paesaggio selvaggio della costa pacifica, e offre spunti per organizzare un tour da una spa all'altra lungo l'isola. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "L'isola di Vancouver si trova al largo della costa occidentale del Canada, nella provincia della Columbia Britannica, ed è la sede della capitale provinciale, Victoria. È nota per le foreste pluviali temperate, le coste frastagliate sul Pacifico e la ricca fauna, che ne fanno una meta per il turismo naturalistico."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/how-to-plan-a-spa-hopping-trip-across-vancouver-island",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdb881d6e",
+   "sez": "sport",
+   "titolo": "Il Manchester City travolge il Liverpool nonostante i guai extrasportivi",
+   "orig": "Manchester City deja a un lado sus graves problemas extradeportivos con una goleada en Liverpool",
+   "lead": "Il Manchester City ha battuto con un punteggio largo il Liverpool, in trasferta, mettendo da parte almeno per una partita i gravi problemi che lo riguardano fuori dal campo. La squadra ha approfittato della superiorità numerica, giocando con un uomo in più, per imporsi nettamente. La gara si è disputata in un clima ostile, legato all'indagine aperta nei confronti del club. Lo riferisce La Nación CR.",
+   "more": [
+    "Manchester City e Liverpool sono due dei club più forti e titolati della Premier League inglese e negli ultimi anni si sono spesso contesi i principali trofei. Il Manchester City è da tempo al centro di contestazioni per presunte violazioni delle regole finanziarie del campionato."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/puro-deporte/manchester-city-deja-a-un-lado-sus-graves/6XLIL7ZD5VDIBA6Q3P53QCGFJA/story/",
+     "angolo": "",
+     "atlas": "Costa Rica"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z261502af",
+   "sez": "ambiente",
+   "titolo": "Incendio di una petroliera a Sochi, i media abcasi escludono pericoli",
+   "orig": "Abkhazian media claims no danger from Sochi oil tanker fire",
+   "lead": "I media dell'Abcasia sostengono che l'incendio di una petroliera a Sochi non rappresenti un pericolo per la regione. La rassicurazione arriva dopo che, nei giorni precedenti, il servizio in lingua russa della BBC aveva riferito che la chiazza di petrolio fuoriuscita era visibile da Sukhumi, il capoluogo abcaso. Le due versioni offrono così una lettura diversa delle possibili conseguenze dell'incidente per la costa vicina. Lo riferisce OC Media.",
+   "more": [
+    "L'Abcasia è una regione sul Mar Nero che si è separata dalla Georgia ed è sostenuta dalla Russia, ma per la gran parte della comunità internazionale resta parte del territorio georgiano. Sochi è una città russa sulla stessa costa, poco a nord del confine abcaso."
+   ],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/abkhazian-media-claims-no-danger-from-sochi-oil-tanker-fire/",
+     "angolo": "",
+     "atlas": "Azerbaijan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7ca2ce6f",
+   "sez": "sport",
+   "titolo": "Un secolo di luci a San Siro: calcio e sogni a Milano",
+   "orig": "A century of lights at San Siro: football and dreams in Milan",
+   "lead": "Lo stadio di San Siro, a Milano, è destinato alla demolizione, ma per chi lo ha frequentato resta un luogo del cuore. Un articolo ripercorre cento anni di storia dell'impianto, fatti di partite, emozioni e sogni calcistici. Il testo sostiene che, anche quando la struttura non ci sarà più, il legame con quel luogo non verrà mai davvero spezzato. La riflessione arriva mentre si avvicina la fine di uno dei simboli dello sport italiano. Lo riferisce la Repubblica.",
+   "more": [
+    "San Siro, intitolato a Giuseppe Meazza, è lo stadio che ospita le partite casalinghe di Milan e Inter. È uno degli impianti calcistici più famosi d'Europa e ha accolto finali internazionali e grandi concerti. Da anni si discute del suo futuro e della costruzione di un nuovo stadio per i due club."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://europe.repubblica.it/en/sport/2026/10/11/news/a_century_of_lights_at_san_siro_the_theatre_of_football_guardian_of_dreams_and_great_deeds-425639055/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf1d960c7",
+   "sez": "cultura",
+   "titolo": "La quattordicenne che riporta alla luce la storia perduta di Londra",
+   "orig": "Meet the 14-year-old uncovering London’s lost history",
+   "lead": "Emmylou Vaxby ha solo quattordici anni, ma è già una «mudlark» esperta: da quasi dieci anni perlustra la riva del Tamigi a Londra alla ricerca di frammenti del passato della città. La sua attività consiste nel cercare, durante la bassa marea, oggetti abbandonati o perduti nei secoli e rimasti sepolti nel fango del fiume. La giovane è presentata come un esempio di passione precoce per la storia e l'archeologia urbana. Lo riferisce Positive News.",
+   "more": [
+    "Il «mudlarking» è la pratica di cercare oggetti sulle rive fangose dei fiumi durante la bassa marea. Sul Tamigi è una tradizione antica e oggi regolamentata: serve un permesso, e i reperti di interesse storico vanno segnalati alle autorità. Le sponde del fiume restituiscono spesso cocci, pipe di argilla, monete e altri oggetti quotidiani."
+   ],
+   "fonti": [
+    {
+     "n": "Positive News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.positive.news/environment/meet-the-14-year-old-uncovering-londons-lost-history/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "good": true,
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z016ef377",
+   "sez": "salute",
+   "titolo": "L'Egitto punta sull'economia sanitaria con WifOR e Roche",
+   "orig": "Egypt explores expanding health economics research with WifOR, Roche",
+   "lead": "Il ministro egiziano della Salute e della Popolazione, Khaled Abdel Ghaffar, ha discusso con l'istituto tedesco WifOR la possibilità di usare di più la ricerca economica e sociale nelle politiche sanitarie. Al centro dei colloqui, svolti a margine del World Health Summit di Berlino, c'è l'effetto che una salute migliore ha sulla produttività, sulla partecipazione al lavoro e sullo sviluppo del capitale umano. L'incontro ha fatto anche il punto sulla cooperazione già avviata, che coinvolge pure l'azienda farmaceutica Roche. Lo riferisce Daily News Egypt.",
+   "more": [
+    "Il World Health Summit è un appuntamento internazionale che si tiene a Berlino e riunisce governi, ricercatori, aziende e organizzazioni sanitarie. L'economia sanitaria studia costi e benefici degli interventi di salute, aiutando i governi a decidere come investire le risorse. Roche è una grande azienda farmaceutica svizzera."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/11/egypt-explores-expanding-health-economics-research-with-wifor-roche/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z050e823f",
+   "sez": "ingegneria",
+   "titolo": "Stefan Sagmeister ed EKN trasformano dati globali in scarpe colorate",
+   "orig": "stefan sagmeister and ekn transform global data into colorful sneakers and boots",
+   "lead": "Il designer Stefan Sagmeister ha collaborato con il marchio di calzature EKN per creare una sneaker e uno stivale in pelle ispirati a dati globali, tradotti in colori. I due modelli sono stati pensati in vista di una sua prossima mostra a Parigi. Il progetto unisce informazione e moda: i dati diventano elementi visivi applicati su oggetti di uso quotidiano, proseguendo il lavoro del designer sul rapporto tra numeri e immagine. Lo riferisce Designboom.",
+   "more": [
+    "Stefan Sagmeister è un graphic designer austriaco attivo a New York, noto per copertine di dischi e per progetti che uniscono grafica, riflessione personale e visualizzazione di dati. Negli ultimi anni ha lavorato molto sull'idea di raccontare, attraverso dati di lungo periodo, i progressi dell'umanità."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6d5477c2",
+   "sez": "cucina",
+   "titolo": "Espresso de la olla, un drink a base di caffè",
+   "orig": "Espresso de la olla, un drink a base di caffè",
+   "lead": "Giorgio Bargiani, considerato tra i migliori bartender al mondo, propone l'Espresso de la olla, un drink dal gusto morbido costruito sul caffè. La ricetta è pensata come bevanda di benvenuto per accogliere gli ospiti, ad esempio all'inizio di una serata o di una cena. Il cocktail si inserisce nella tendenza dei drink che usano il caffè come ingrediente principale, unendo l'aroma dell'espresso a una consistenza delicata. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Il nome richiama il «café de olla», bevanda tradizionale messicana preparata con caffè cotto in una pentola di terracotta, spesso con cannella e zucchero di canna. Giorgio Bargiani è un bartender italiano che ha lavorato in uno dei cocktail bar più premiati di Londra."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/ricetta/espresso-de-la-olla/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4b28ebe0",
+   "sez": "adolescenti",
+   "titolo": "Francia, gli adolescenti che devastano le loro vecchie scuole elementari",
+   "orig": "France’s other schools problem – the teens violently smashing up their old primaries: ‘They think it’s not worthy of respect – so they trash it’",
+   "lead": "In Francia si ripetono casi di ragazzi che distruggono attrezzature e appiccano incendi nelle scuole primarie che hanno frequentato. Un esempio: il 19 giugno 2024, a scuola chiusa, due tredicenni ex alunni sono entrati nella scuola Marcel Pagnol, nella periferia est di Lione, forzando la finestra della porta con un forcone da giardino, una scopa e un frangivetro. Il fenomeno precede l'attuale crisi della scuola francese. Ci si chiede se nasca dalla povertà, dalla pressione dei social o dalla noia. Lo riferisce The Guardian.",
+   "more": [
+    "In Francia molte scuole primarie restano chiuse il mercoledì, giornata tradizionalmente dedicata ad attività extrascolastiche. Le periferie delle grandi città, come quelle di Lione, sono spesso al centro del dibattito pubblico su disagio sociale, integrazione e servizi pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/11/france-violent-attacks-trashings-schools-teenagers",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "zf7bc296b",
+   "sez": "ambiente",
+   "titolo": "Scoperta una ninfea gigante già a rischio estinzione",
+   "orig": "Scoperta una ninfea gigante (a rischio estinzione)",
+   "lead": "Un ricercatore ha individuato una nuova specie di ninfea gigante, la Victoria colombiana, grazie a un dettaglio che gli è sembrato «impossibile» sullo sfondo di una foto pubblicata sui social. Dall'osservazione casuale è nata la scoperta di una pianta che risulta già minacciata di estinzione. La vicenda mostra come le immagini condivise online possano aiutare la ricerca botanica e mettere in luce specie ancora sconosciute alla scienza. Lo riferisce Focus.",
+   "more": [
+    "Il genere Victoria comprende le ninfee più grandi del mondo, con foglie galleggianti circolari dai bordi rialzati che possono sostenere pesi notevoli. Queste piante vivono nelle acque calme dei bacini fluviali del Sud America. Il nome della nuova specie richiama la Colombia."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/ambiente/natura/scoperta-su-instagram-una-nuova-specie-di-ninfea-gigante-era-mimetizzata-in-un-selfie",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1d65e79a",
+   "sez": "musica",
+   "titolo": "Dafydd Owain vince il Welsh Music Prize 2026",
+   "orig": "Dafydd Owain’s second album wins the 2026 Welsh music prize",
+   "lead": "Il cantautore Dafydd Owain ha vinto il Welsh Music Prize 2026 con il suo secondo album, Ymarfer Byw, lodato per la sua «eccellenza musicale». Il disco, di forte intensità emotiva, aveva già ottenuto ad agosto il titolo di album in lingua gallese dell'anno. Ha superato altri quattordici album, tra cui lavori di Gruff Rhys, The Royston Club e Art School Girlfriend, aggiudicandosi un premio di 10.000 sterline. Lo riferisce The Guardian.",
+   "more": [
+    "Il Welsh Music Prize è un riconoscimento annuale che premia il miglior album di artisti gallesi, indipendentemente dal genere e dalla lingua. Il Galles ha una scena musicale vivace, con una forte presenza di artisti che cantano in gallese accanto a quelli in lingua inglese."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/08/dafydd-owain-second-album-wins-welsh-music-prize-2026",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaeb8d185",
+   "sez": "cultura",
+   "titolo": "Calligrafia ispirata alla musica e contaminazioni all'Asia+ Festival di Hong Kong",
+   "orig": "Melody-inspired calligraphy and boundary-breaking mash-up headline Asia+ Festival",
+   "lead": "A Hong Kong è tornato l'Asia+ Festival, rassegna annuale dedicata alla diversità culturale della regione, in particolare dei Paesi legati alla Belt and Road Initiative, il progetto cinese di rete commerciale globale. La quarta edizione, organizzata dal dipartimento dei Servizi culturali e del tempo libero e aperta fino a fine novembre, ha per tema «Traditions Recast». Due spettacoli di punta, tra cui una calligrafia ispirata alle melodie, uniscono musica antica e arti visive. Lo riferisce South China Morning Post.",
+   "more": [
+    "La Belt and Road Initiative, nota anche come Nuova via della seta, è un vasto programma cinese di infrastrutture e accordi commerciali con Paesi di Asia, Africa ed Europa. Hong Kong, regione amministrativa speciale della Cina, ospita numerosi festival che promuovono scambi culturali internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/native/lifestyle/arts/topics/asia-and-beyonds-cultural-showcase/article/3370037/melody-inspired-calligraphy-and-boundary-breaking-mash-headline-asia-festival?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z290970ea",
+   "sez": "viaggi",
+   "titolo": "In un resort benessere in Costa Rica, alla scoperta del «Human Design»",
+   "orig": "At Costa Rican Wellness Resort, Learning About My 'Human Design'",
+   "lead": "La scrittrice Jessica Sulima racconta il suo viaggio in un resort dedicato al benessere in Costa Rica, intrapreso alle soglie di una nuova fase della sua vita. Lo scopo era calmare la mente e guardarsi dentro. Durante il soggiorno l'autrice si è avvicinata al cosiddetto «Human Design», un sistema che propone di descrivere la personalità di ciascuno. Il racconto, in prima persona, intreccia esperienza di viaggio e ricerca interiore. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "Il Costa Rica, in America centrale, è una meta molto frequentata per il turismo naturalistico e del benessere, grazie a foreste, coste e parchi protetti. Lo «Human Design» è un sistema di autoconoscenza che mescola astrologia e altre tradizioni esoteriche: non ha basi scientifiche."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/at-a-costa-rican-wellness-resort-learning-how-to-quiet-my-mind",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc5eb4890",
+   "sez": "manga",
+   "titolo": "MARVEL Tokon: Fighting Souls svela Thor (Jane Foster), Venom e Jubilee come personaggi DLC",
+   "orig": "MARVEL Tokon: Fighting Souls Reveals Thor (Jane Foster), Venom and Jubilee DLC Characters",
+   "lead": "Il picchiaduro MARVEL Tokon: Fighting Souls ha annunciato tre nuovi lottatori disponibili come contenuti scaricabili: Thor nella versione di Jane Foster, Venom e Jubilee. I tre personaggi entrano a far parte della formazione del primo anno di supporto del gioco, chiamata «Year One», ampliando il roster di eroi e antieroi a disposizione dei giocatori. L'annuncio rientra nel piano di aggiornamenti previsto dopo l'uscita del titolo. Lo riferisce Crunchyroll News.",
+   "more": [
+    "MARVEL Tokon: Fighting Souls è un picchiaduro a squadre che porta i personaggi dei fumetti Marvel in uno stile grafico ispirato all'animazione giapponese. È nato da una collaborazione tra Marvel, Sony e lo studio giapponese Arc System Works, specializzato in giochi di combattimento."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/11/marvel-tokon-fighting-souls-thor-jane-foster-venom-jubilee-dlc-characters",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2bb81d97",
+   "sez": "ambiente",
+   "titolo": "L'ambiente della Nazione: la biodiversità dell'Angola",
+   "orig": "O Ambiente da Nação",
+   "lead": "Un editoriale ricorda che l'Angola è tra i Paesi africani più ricchi di biodiversità: dalle foreste del Maiombe alle sorgenti del Moxico, fino all'altopiano che alimenta fiumi da cui dipendono milioni di persone. Sulle scarpate vivono uccelli unici e sulle spiagge depongono le uova le tartarughe marine. In vista del discorso sullo Stato della Nazione, l'ultimo prima delle elezioni, l'autore sostiene che un Paese non si misura solo da infrastrutture, barili di petrolio ed elettricità, ma anche dalla tutela della natura. Lo riferisce Novo Jornal.",
+   "more": [
+    "L'Angola, nell'Africa sudoccidentale, è uno dei principali produttori di petrolio del continente. Il suo territorio comprende foreste tropicali, savane, altopiani e deserti costieri. La foresta del Maiombe, nell'enclave di Cabinda, è una delle aree più ricche di specie del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/opiniao/detalhe/o-ambiente-da-nacao-75261.html",
+     "angolo": "",
+     "atlas": "Angola"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z60866a77",
+   "sez": "mondo",
+   "titolo": "Una spedizione cerca l'aereo di Amelia Earhart su un'isola remota",
+   "orig": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+   "lead": "Una squadra di ricerca è in viaggio verso un'isola remota dove si sospetta sia precipitato l'aereo di Amelia Earhart. L'obiettivo della spedizione è risolvere finalmente il mistero della scomparsa dell'aviatrice statunitense, avvenuta nel 1937 e mai chiarita. I membri del gruppo sperano di trovare sul posto i resti del velivolo, che confermerebbero l'ipotesi dello schianto in quel luogo. Lo riferisce BBC News.",
+   "more": [
+    "Amelia Earhart fu una pioniera dell'aviazione, prima donna a sorvolare in solitaria l'Atlantico. Scomparve con il navigatore Fred Noonan durante il tentativo di giro del mondo, sopra l'oceano Pacifico. Da allora numerose spedizioni hanno cercato tracce del suo aereo, senza risultati definitivi."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zec1d2ee2",
+   "sez": "economia",
+   "titolo": "Il parlamento controllato dalla giunta del Myanmar discute prestiti dalla Bielorussia",
+   "orig": "Belarus loans debated by Myanmar’s junta-controlled parliament",
+   "lead": "Il parlamento del Myanmar, controllato dalla giunta militare, sta discutendo una proposta di prestiti all'esportazione concessi da due banche statali della Bielorussia. Secondo quanto emerso, i finanziamenti avrebbero tassi di interesse fino al 9,33 per cento. Il dibattito riguarda quindi le condizioni economiche dell'accordo e i legami finanziari tra i due Paesi, entrambi sottoposti a forte isolamento internazionale. Lo riferisce Myanmar Now.",
+   "more": [
+    "In Myanmar i militari hanno preso il potere con un colpo di Stato nel 2021, rovesciando il governo eletto e scatenando un conflitto interno. La Bielorussia, guidata da Aleksandr Lukashenko, è stretta alleata della Russia. Entrambi i governi sono colpiti da sanzioni occidentali e cercano partner alternativi."
+   ],
+   "fonti": [
+    {
+     "n": "Myanmar Now",
+     "p": "XX",
+     "c": "Yangon",
+     "u": "https://myanmar-now.org/en/news/belarus-loans-debated-by-myanmars-junta-controlled-parliament/",
+     "angolo": "",
+     "atlas": "Myanmar"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcc8e22ea",
+   "sez": "cultura",
+   "titolo": "Che cosa si vede, in 3D, nel documentario di Wim Wenders su Peter Zumthor",
+   "orig": "what you’ll see (in 3D) in the peter zumthor documentary by wim wenders",
+   "lead": "Il regista Wim Wenders ha dedicato un documentario in 3D all'architetto Peter Zumthor, vincitore del premio Pritzker. Il film, sviluppato nell'arco di quattordici anni, ripercorre le cappelle, i memoriali e gli spazi culturali progettati da Zumthor, mostrandoli attraverso la tecnica tridimensionale. Un articolo guida il lettore tra le opere che compaiono sullo schermo, sottolineando il lungo lavoro dietro la realizzazione. Lo riferisce Designboom.",
+   "more": [
+    "Peter Zumthor è un architetto svizzero noto per edifici essenziali e molto attenti a materiali, luce e atmosfera, come le terme di Vals. Wim Wenders è un regista tedesco che aveva già usato il 3D in un documentario sulla coreografa Pina Bausch. Il Pritzker è considerato il massimo riconoscimento in architettura."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/architecture/what-youll-see-in-3d-in-the-peter-zumthor-documentary-by-wim-wenders/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z423bf8e5",
+   "sez": "cucina",
+   "titolo": "Come preparare la zuppa di zucca: la ricetta di Felicity Cloake",
+   "orig": "How to make pumpkin soup – recipe | Felicity Cloake's Masterclass",
+   "lead": "Nella sua rubrica di cucina, Felicity Cloake propone una zuppa di zucca liscia e saziante, da preparare in nove semplici passaggi. L'autrice osserva che questo piatto, in teoria dolce, vellutato e autunnale, spesso delude perché risulta povero di sapore e troppo acquoso, a causa dell'elevato contenuto d'acqua della zucca. La sua versione promette di evitare questi difetti. La preparazione richiede circa venti minuti, la cottura un'ora, e le dosi sono per quattro-sei persone. Lo riferisce The Guardian.",
+   "more": [
+    "La zucca è un ortaggio tipico dell'autunno, molto usato in zuppe, vellutate, risotti e dolci. Nei Paesi anglosassoni è legata anche alla festa di Halloween, quando viene intagliata come decorazione. Felicity Cloake è una giornalista gastronomica britannica nota per le sue ricette che confrontano diverse versioni di un piatto."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/11/how-to-make-pumpkin-soup-recipe",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zca2e9995",
+   "sez": "adolescenti",
+   "titolo": "Milburn propone un percorso di pre-apprendistato contro la disoccupazione giovanile",
+   "orig": "Create new pre-apprenticeship scheme to close youth unemployment gap, says Milburn",
+   "lead": "Alan Milburn, ex ministro britannico incaricato di una grande revisione sulla crisi del lavoro giovanile, chiederà al governo di introdurre in Inghilterra un percorso nazionale di preparazione all'apprendistato. Il piano offrirebbe ai giovani formazione continua, addestramento ed esperienze di lavoro per colmare il vuoto tra la fine della scuola e l'ingresso nel mondo del lavoro. Il rapporto avverte che servono interventi drastici, visto il forte calo degli apprendistati avviati dai giovani. Lo riferisce The Guardian.",
+   "more": [
+    "L'apprendistato è un contratto che unisce lavoro retribuito e formazione, pensato per far acquisire ai giovani competenze professionali. Nel Regno Unito il tema dei giovani che non studiano e non lavorano è al centro del dibattito politico. Alan Milburn è stato ministro della Sanità nei governi laburisti di Tony Blair."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "z21e379ae",
+   "sez": "spazio",
+   "titolo": "Un «microblazar» puntato verso la Terra",
+   "orig": "Un \"microblazar\" puntato verso di noi",
+   "lead": "A 12.000 anni luce da noi, l'oggetto celeste IRAS 18293-0941 conferma una teoria formulata trent'anni fa. Si tratta di un buco nero che sta divorando una stella compagna e lancia getti di materia a velocità vicine a quella della luce proprio nella direzione della Terra. Per questa caratteristica è stato definito un «microblazar», versione in piccolo dei blazar, i potenti nuclei galattici attivi. Lo riferisce Focus.",
+   "more": [
+    "I blazar sono galassie con un buco nero supermassiccio al centro che emette getti di materia orientati quasi esattamente verso di noi, risultando così estremamente luminosi. Un «microblazar» sarebbe l'equivalente su scala molto più piccola, all'interno della nostra galassia, con un buco nero di massa stellare."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/spazio/via-lattea-primo-microblazar-buco-nero-con-il-getto-puntato-dritto-verso-la-terra",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3aa87dd3",
+   "sez": "musica",
+   "titolo": "Max contro Gazzè: la guerra dei trent'anni",
+   "orig": "Max contro Gazzè: la guerra dei trent’anni",
+   "lead": "Max Gazzè ha inaugurato a Spoleto il suo nuovo tour, eseguendo per intero il disco «L'ornamento delle cose secondarie», registrato a 432 hertz. Sul palco, tra clessidre, alter ego e vecchie canzoni, il cantautore trasforma il concerto in una sorta di disputa filosofica con sé stesso. Lo spettacolo mette a confronto il Gazzè di oggi con quello degli esordi, in un dialogo che attraversa trent'anni di carriera. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "Max Gazzè è un cantautore e bassista romano, noto per testi ironici e ricercati e per brani di grande successo. La scelta dei 432 hertz si riferisce a un'accordatura alternativa allo standard, alla quale alcuni musicisti attribuiscono un suono più armonioso, senza conferme scientifiche."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/live/max-contro-gazze-la-guerra-dei-trentanni/1042072/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaa9be7bf",
+   "sez": "spazio",
+   "titolo": "Cresce la competizione per le risorse con l'aumento delle megacostellazioni",
+   "orig": "Resource competition intensifies with surge in megaconstellations",
+   "lead": "La corsa alle megacostellazioni di satelliti sta intensificando la competizione per le risorse orbitali. Amazon vuole portare in orbita più di 5.000 satelliti, Blue Origin ne ha proposti altri 5.400, mentre aziende cinesi hanno presentato piani per numeri molto più alti. Anche Elon Musk ha parlato di una costellazione di dimensioni enormi. La moltiplicazione dei progetti solleva il problema della condivisione di spazio in orbita e frequenze. Lo riferisce SpaceNews.",
+   "more": [
+    "Le megacostellazioni sono reti di migliaia di satelliti in orbita bassa, usate soprattutto per fornire internet a banda larga in tutto il mondo. Il caso più noto è Starlink di SpaceX. La loro crescita pone problemi di affollamento orbitale, rischio di collisioni, detriti e disturbo alle osservazioni astronomiche."
+   ],
+   "fonti": [
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4e912451",
+   "sez": "medicina",
+   "titolo": "Offline: la medicina per la pace",
+   "orig": "[Comment] Offline: Medicine for peace",
+   "lead": "Nella sua rubrica di commento, The Lancet riflette sul rapporto tra medicina e pace partendo dal filosofo Thomas Hobbes. La celebre frase del «Leviatano» sulla vita umana «solitaria, povera, sgradevole, brutale e breve» poteva valere nell'Inghilterra del Seicento, ma oggi, grazie allo sviluppo dei sistemi sanitari, non è più vera per molti, anche se non per tutti. Il testo invita però a considerare l'intero pensiero di Hobbes, secondo cui senza un potere comune la società scivola nella guerra di tutti contro tutti. Lo riferisce The Lancet.",
+   "more": [
+    "Thomas Hobbes è stato un filosofo inglese, considerato uno dei padri del pensiero politico moderno. Nel «Leviatano» sostenne che solo uno Stato forte può garantire la pace tra gli uomini. «Offline» è la rubrica di riflessione curata dal direttore di The Lancet."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02001-5/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z51c252d3",
+   "sez": "salute",
+   "titolo": "Dentro l'ospedale di medicina cinese di Hong Kong, dove Oriente e Occidente si incontrano",
+   "orig": "Inside Hong Kong’s Chinese Medicine Hospital, where Eastern and Western healthcare meet",
+   "lead": "Nell'ultima puntata di una serie in quattro parti sulla medicina tradizionale cinese, la giornalista Chloe Loung racconta il percorso di un paziente nel nuovo Chinese Medicine Hospital di Hong Kong. Qui medici di formazione occidentale e professionisti della medicina tradizionale cinese lavorano fianco a fianco per offrire un'assistenza olistica e più snella. L'autrice descrive un ambiente silenzioso e luminoso, lontano dalle sale d'attesa caotiche e dagli addetti che gridano i numeri. Lo riferisce South China Morning Post.",
+   "more": [
+    "La medicina tradizionale cinese comprende pratiche come l'agopuntura, la fitoterapia e il tuina, basate su concetti come l'equilibrio dell'energia vitale. A Hong Kong è riconosciuta e regolamentata. L'efficacia di molte sue terapie è ancora oggetto di verifica scientifica."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/health-wellness/article/3370262/inside-hong-kongs-chinese-medicine-hospital-where-eastern-and-western-healthcare-meet?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd1ad6d69",
+   "sez": "sport",
+   "titolo": "Fownes: Megastar Heart, dopo gli infortuni, può arrivare molto in alto",
+   "orig": "Caspar Fownes believes injury-plagued Megastar Heart can ‘go quite high’ after stunning return",
+   "lead": "L'allenatore Caspar Fownes ha grandi speranze per Megastar Heart dopo il convincente ritorno in pista domenica all'ippodromo di Sha Tin, a Hong Kong. Il cavallo, importato dall'Australia e frenato da continui problemi fisici, aveva corso solo tre volte in città. Ha ripagato la pazienza di Fownes e della Good Time Syndicate vincendo con due lunghezze di vantaggio il San Tin Handicap di Classe Tre sui 1.200 metri. Fownes lo definisce uno dei cavalli più difficili da allenare della sua carriera. Lo riferisce South China Morning Post.",
+   "more": [
+    "Sha Tin è uno dei due ippodromi di Hong Kong, dove le corse di cavalli sono molto popolari e gestite dall'Hong Kong Jockey Club. Le corse «handicap» assegnano pesi diversi ai cavalli per equilibrare le possibilità di vittoria."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/racing/article/3370503/caspar-fownes-hopes-injury-plagued-megastar-heart-can-go-quite-high-after-stunning-return?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z43603532",
+   "sez": "salute",
+   "titolo": "Luigi Carbone, chi è il medico personale di Papa Leone XIV",
+   "orig": "Luigi Carbone, chi è il medico personale di Papa Leone XIV: dalla cura di Francesco alla Direzione sanitaria vaticana",
+   "lead": "Luigi Carbone è il medico personale di Papa Leone XIV e guida la Direzione sanitaria vaticana. Il suo volto è diventato noto al pubblico nella primavera del 2025, durante il ricovero di Papa Francesco al Policlinico Gemelli di Roma, quando contribuiva a informare i giornalisti sulle condizioni di salute del Pontefice. Un ritratto ne ripercorre il percorso, dalla cura di Francesco fino all'attuale incarico al servizio del nuovo Papa. Lo riferisce Il Messaggero.",
+   "more": [
+    "Leone XIV è il nome scelto dal cardinale statunitense Robert Francis Prevost, eletto Papa nel 2025 dopo la morte di Francesco. La Direzione di sanità e igiene del Vaticano si occupa dell'assistenza sanitaria nello Stato della Città del Vaticano. Il Policlinico Gemelli è l'ospedale dove tradizionalmente vengono ricoverati i Papi."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/persone/luigi_carbone_chi_e_dottore_papa_leone_eta_guadagni_ricovero_gemelli_roma-9818353.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0f1769eb",
+   "sez": "manga",
+   "titolo": "Magical Explorer, pubblicati i video di sigla d'apertura e di chiusura senza titoli",
+   "orig": "Magical Explorer Anime Publishes Creditless Opening & Ending Animation Videos",
+   "lead": "L'anime Magical Explorer ha pubblicato i video della sigla d'apertura e di quella di chiusura in versione «creditless», cioè senza i titoli di testa e di coda sovrapposti. La serie è un adattamento di una saga di light novel fantasy appartenente al genere isekai ed è disponibile in streaming su Crunchyroll. I video permettono ai fan di vedere le animazioni delle sigle nella loro forma integrale. Lo riferisce Crunchyroll News.",
+   "more": [
+    "L'isekai è un genere molto diffuso nella narrativa giapponese in cui il protagonista viene trasportato o rinasce in un altro mondo, spesso fantasy. Le light novel sono romanzi brevi illustrati rivolti soprattutto ai giovani, frequentemente adattati in manga e anime. Crunchyroll è una piattaforma di streaming specializzata in anime."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/11/magical-explorer-anime-creditless-opening-ending-videos",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/11/the-vermilion-mask-anime-creditless-opening-ending",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za7bc7e48",
+   "sez": "ambiente",
+   "titolo": "Kenya, il DCP minaccia azioni legali contro il disboscamento nella foresta di Aberdare",
+   "orig": "DCP threatens court action against ongoing logging in Aberdare forest",
+   "lead": "In Kenya il partito DCP ha minacciato di ricorrere alla giustizia per fermare il disboscamento in corso nella foresta di Aberdare. La formazione politica contesta il taglio degli alberi che sta interessando l'area e annuncia la possibilità di portare la questione davanti a un tribunale se l'attività dovesse proseguire. La vicenda riporta al centro del dibattito pubblico la tutela delle foreste del Paese e lo scontro politico sulla gestione delle risorse naturali. Lo riferisce Citizen Digital.",
+   "more": [
+    "La foresta di Aberdare si trova sui monti omonimi, nel Kenya centrale, e ospita un parco nazionale. È una delle principali riserve d'acqua del Paese e un habitat per elefanti, bufali e altre specie. Il DCP è un partito di opposizione keniano."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/dcp-threatens-court-action-against-ongoing-logging-in-aberdare-forest-n391845",
+     "angolo": "",
+     "atlas": "Kenya"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd4ff4151",
+   "sez": "economia",
+   "titolo": "Il Regno Unito sanziona tre società kirghise per presunti legami con la Russia",
+   "orig": "UK sanctions three Kyrgyz companies over alleged links to Russia",
+   "lead": "Il governo britannico ha imposto sanzioni a tre aziende del Kirghizistan accusate di avere legami con la Russia. Tra i soggetti colpiti dalle restrizioni figurano l'operatore dei pagamenti che fa capo al ministero delle Finanze kirghiso e una piattaforma di scambio di criptovalute. Il provvedimento rientra nella linea con cui Londra cerca di colpire i canali finanziari ritenuti utili a Mosca, anche quando passano per Paesi terzi dell'Asia centrale. Lo riferisce Asia-Plus.",
+   "more": [
+    "Il Kirghizistan è una repubblica dell'Asia centrale ex sovietica, legata economicamente alla Russia anche attraverso l'Unione economica eurasiatica. Dopo l'invasione dell'Ucraina, i Paesi occidentali hanno più volte accusato operatori della regione di aiutare Mosca ad aggirare le sanzioni, soprattutto tramite pagamenti e scambi in criptovalute."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/09/the-united-kingdom-has-imposed-sanctions-on-three-companies-from-kyrgyzstan/",
+     "angolo": "",
+     "atlas": "Tajikistan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z02cbe352",
+   "sez": "ingegneria",
+   "titolo": "Muri di paglia disegnano anfiteatro, giardino e sentiero nell'Estremadura",
+   "orig": "straw walls shape amphitheater, experimental garden and walking path in rural spain",
+   "lead": "Lo studio paisajeencontrado ha realizzato in Estremadura, nella Spagna rurale, un'installazione di land art che trasforma un prato in un campo vivo di osservazione. Pareti di paglia danno forma a un anfiteatro, a un giardino sperimentale e a un percorso pedonale, pensati come un'esperienza sensoriale per chi li attraversa. Il progetto è collegato alla conservazione delle specie autoctone del luogo e punta a far guardare il paesaggio con occhi nuovi. Lo riferisce Designboom.",
+   "more": [
+    "La land art è una corrente artistica che usa il paesaggio e i materiali naturali come parte dell'opera. L'Estremadura è una regione dell'ovest della Spagna, al confine con il Portogallo, nota per i suoi ampi spazi rurali, i pascoli e le aree protette."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/art/straw-walls-amphitheater-experimental-garden-walking-path-rural-spain/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z38ce9b24",
+   "sez": "cucina",
+   "titolo": "Indian Cafe Racer, a Birmingham una buona notizia per la scena gastronomica",
+   "orig": "Indian Cafe Racer, Birmingham B5: ‘A good news tale for the local food scene’ – restaurant review",
+   "lead": "Il Guardian recensisce Indian Cafe Racer, ristorante di Azad Kayes in Bristol Street, a Birmingham. Il locale è nato dietro una tenda nel retro del pub Wellington, con una moto Royal Enfield, pavimenti a scacchi e musica indiana psichedelica; diventato presto un piccolo culto e sempre pieno, si è trasferito in una sede più grande poco distante. Il giudizio sulla cucina è altalenante, a volte centrata, a volte un po' approssimativa, ma sempre capace di incuriosire. Lo riferisce The Guardian – Cucina.",
+   "more": [
+    "Birmingham, seconda città d'Inghilterra, ha una grande comunità di origine sud-asiatica ed è legata al balti, piatto speciale nato nei ristoranti locali. Il cosiddetto Balti triangle, nel sud della città, è stato a lungo la zona simbolo di questa cucina."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/11/indian-cafe-racer-birmingham-grace-dent-restaurant-review",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z77ef457f",
+   "sez": "adolescenti",
+   "titolo": "Scioperi nelle università di Edimburgo, Dundee e Nottingham: un semestre senza lezioni",
+   "orig": "Tell us: have you been affected by the strikes at Edinburgh, Dundee or Nottingham universities?",
+   "lead": "Gli studenti delle università di Edimburgo, Dundee e Nottingham rischiano un intero trimestre senza lezioni a causa degli scioperi del personale, mentre l'istruzione superiore britannica affronta crescenti incertezze finanziarie. Gli iscritti al sindacato University and College Union hanno avviato l'agitazione a Edimburgo il 28 settembre; a Dundee è in corso uno sciopero di cinque settimane, mentre a Nottingham è stata annunciata una nuova ondata dal 5 ottobre fino a dicembre. Il giornale raccoglie testimonianze di studenti e personale. Lo riferisce The Guardian – Istruzione.",
+   "more": [
+    "La University and College Union è il principale sindacato del personale accademico e universitario nel Regno Unito. Negli ultimi anni molti atenei britannici hanno affrontato difficoltà di bilancio, con tagli al personale che hanno alimentato vertenze e scioperi."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/education/2026/oct/09/tell-us-affected-university-strikes-edinburgh-dundee-nottingham",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "zf9ed2d1c",
+   "sez": "tech",
+   "titolo": "Un tubo a diametro regolabile per intubare i pazienti gravi",
+   "orig": "Un tubo su misura",
+   "lead": "Due giovani italiani hanno brevettato un condotto per la ventilazione con diametro regolabile, pensato per rendere più sicura l'intubazione. Secondo quanto riportato, quasi un paziente grave su due va incontro a complicazioni serie durante il collegamento al respiratore, e il rischio cresce quando il primo tentativo non riesce. Un tubo che si adatta al paziente punta proprio ad aumentare le probabilità di successo al primo colpo e a ridurre i pericoli di questa manovra delicata. Lo riferisce Focus.",
+   "more": [
+    "L'intubazione consiste nell'inserire un tubo nella trachea per garantire la respirazione con un ventilatore meccanico. È una procedura frequente in terapia intensiva e in emergenza, e scegliere la misura giusta del tubo è importante per evitare traumi e ripetuti tentativi."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/salute/un-tubo-su-misura",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z495f2040",
+   "sez": "musica",
+   "titolo": "Alice Cooper: «Non siete più musicisti, siete politici»",
+   "orig": "Alice Cooper: «Non siete più musicisti, siete politici»",
+   "lead": "Il rocker Alice Cooper spiega in un'intervista perché si rifiuta di indicare ai fan per chi votare, sostenendo che gli artisti che lo fanno smettono di essere musicisti e diventano politici. Ripercorre le discussioni avute con John Lennon, commenta il caso tra Ed Sheeran e Macklemore e cita Springsteen, Bono e Sting. Nella sua nuova autobiografia racconta anche la paura provata dopo l'assassinio dell'ex Beatle. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "Alice Cooper è uno dei padri dello shock rock, genere che unisce hard rock e spettacoli teatrali dalle atmosfere horror. Attivo da decenni, è noto per i concerti scenografici e per una lunga carriera che lo ha reso un'icona del rock americano."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/news-musica/alice-cooper-non-siete-piu-musicisti-siete-politici/1042068/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za01eb254",
+   "sez": "economia",
+   "titolo": "Agile Space Industries rafforza il consiglio di amministrazione",
+   "orig": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+   "lead": "Agile Space Industries, azienda aerospaziale con sede a Durango, in Colorado, ha annunciato il 5 ottobre l'ingresso di Jonathan Baliff nel proprio consiglio di amministrazione. Baliff porta un'ampia esperienza nel settore aerospaziale, nella finanza e nella guida di imprese. La società presenta la nomina, insieme al rafforzamento dello sviluppo aziendale, come un passo per sostenere la propria crescita. Lo riferisce SpaceNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9bda7771",
+   "sez": "medicina",
+   "titolo": "Canada, esperti di salute mentale contro le nuove regole sui farmaci in carcere",
+   "orig": "[World Report] Mental health experts protest new Canadian prison policies",
+   "lead": "In Canada esperti di salute mentale protestano contro le nuove politiche adottate nelle carceri federali. Sotto accusa ci sono le modifiche al prontuario dei farmaci disponibili per circa 14.000 detenuti: secondo i critici, i cambiamenti non sono coerenti con le migliori pratiche cliniche e rischiano di peggiorare le cure. Il caso è raccontato nel reportage di Paul Webster. Lo riferisce The Lancet.",
+   "more": [
+    "Il prontuario, o formulario, è l'elenco dei farmaci che un sistema sanitario o un'istituzione rende disponibili e rimborsa. Nelle carceri, dove i disturbi mentali sono diffusi, le scelte sui medicinali ammessi incidono direttamente sulla qualità delle cure per i detenuti."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02039-8/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z99e38f1f",
+   "sez": "cucina",
+   "titolo": "Il tè al latte di Hong Kong conquista i caffè di Tokyo",
+   "orig": "4 Tokyo cafes that serve Hong Kong-style milk tea, from Chenputon to Victoria 1842",
+   "lead": "Il tè al latte in stile Hong Kong, tipico dei cha chaan teng, sta trovando spazio nella cultura dei caffè di Tokyo. Secondo la Japan Tea Association, il Giappone vive un «terzo boom del tè nero» e sempre più locali offrono menu dedicati. Anche i convenience store si adeguano: 7-Eleven ha esteso a circa 2.000 negozi le macchine Seven Cafe per il tè, e Suntory ha lanciato un proprio tè al latte alla hongkonghese. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Il tè al latte di Hong Kong è una bevanda forte a base di tè nero filtrato più volte e latte evaporato, eredità dell'epoca coloniale britannica. È servito nei cha chaan teng, le tavole calde popolari della città che uniscono cucina cantonese e occidentale."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/food-drink/article/3370263/4-tokyo-cafes-serve-hong-kong-style-milk-tea-chenputon-victoria-1842?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7355f7d0",
+   "sez": "sport",
+   "titolo": "Ippica, David Hall tocca quota 700 vittorie a Hong Kong",
+   "orig": "David Hall rings up 700th Hong Kong win as Ka Ying Attack spearheads Sha Tin double",
+   "lead": "L'allenatore David Hall ha conquistato la sua settecentesima vittoria a Hong Kong domenica all'ippodromo di Sha Tin, grazie a Ka Ying Attack che ha completato la sua doppietta di giornata nel Yuen Long Handicap di Classe Due sui 1.200 metri. Il cavallo, figlio di Too Darn Hot, rientrava dopo due successi in testa a fine stagione e ha superato lo svantaggio dello steccato 10, partendo dietro i favoriti Jumbo Treasure e Turquoise Velocity. Lo riferisce South China Morning Post – Sport.",
+   "more": [
+    "Sha Tin è il principale ippodromo di Hong Kong, gestito dallo Hong Kong Jockey Club. Le corse di cavalli sono tra gli sport più seguiti della città e attirano grandi volumi di scommesse e allenatori di livello internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/racing/article/3370501/david-hall-rings-700th-hong-kong-win-ka-ying-attack-spearheads-sha-tin-double?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zee0c7b11",
+   "sez": "salute",
+   "titolo": "Estonia, appello a dichiararsi donatori di organi",
+   "orig": "The Estonian Health Insurance Fund encourages people to complete an organ donor declaration - The Baltic Times",
+   "lead": "In vista della Giornata europea della donazione di organi, che cade sabato, la Cassa estone di assicurazione sanitaria e l'ospedale universitario di Tartu invitano i cittadini a compilare la dichiarazione di volontà sulla donazione. L'iniziativa punta a far sì che più persone esprimano in anticipo la propria scelta, così da facilitare il percorso dei trapianti nel Paese. Lo riferisce The Baltic Times.",
+   "more": [
+    "La Giornata europea della donazione di organi è promossa dal Consiglio d'Europa per sensibilizzare sull'importanza dei trapianti. Registrare in anticipo la propria volontà evita ai familiari di dover decidere in momenti difficili e aiuta i sistemi sanitari a organizzare le donazioni."
+   ],
+   "fonti": [
+    {
+     "n": "The Baltic Times",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "http://www.baltictimes.com/the_estonian_health_insurance_fund_encourages_people_to_complete_an_organ_donor_declaration/",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf3ac151f",
+   "sez": "mondo",
+   "titolo": "Attacchi all'aeroporto di Riad, nuovo momento pericoloso del conflitto",
+   "orig": "Riyadh airport attacks another dangerous moment in already tense conflict",
+   "lead": "Gli attacchi degli Houthi contro l'aeroporto di Riad, in Arabia Saudita, segnano un altro momento pericoloso in un conflitto già molto teso. Secondo l'analisi, i danni materiali possono essere riparati in fretta, ma a subire un duro colpo è la reputazione di stabilità su cui il regno saudita fa affidamento. L'aeroporto della capitale è infatti un simbolo dell'apertura e dei progetti del Paese. Lo riferisce BBC News.",
+   "more": [
+    "Gli Houthi sono un movimento armato yemenita che controlla ampie zone del nord dello Yemen, compresa la capitale Sanaa. Da anni sono in guerra con una coalizione guidata dall'Arabia Saudita e hanno più volte colpito il territorio saudita con missili e droni."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z60b60fba",
+   "sez": "economia",
+   "titolo": "Tagikistan, i lingotti d'oro perdono oltre il 6% in un mese",
+   "orig": "Gold bar prices in Tajikistan fall by more than 6% in a month",
+   "lead": "In Tagikistan il prezzo dei lingotti d'oro è sceso di oltre il 6% nell'arco di un mese. Il calo è avvenuto in parallelo con la discesa delle quotazioni internazionali del metallo prezioso, che all'inizio di ottobre hanno toccato il livello più basso degli ultimi due mesi. L'andamento locale riflette quindi quello dei mercati globali. Lo riferisce Asia-Plus.",
+   "more": [
+    "In Tagikistan, come in altri Paesi dell'Asia centrale, l'oro è usato da molte famiglie come forma di risparmio e di protezione contro l'inflazione e le oscillazioni della valuta nazionale, il somoni. Per questo i prezzi dei lingotti sono seguiti con attenzione."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/09/gold-bars-get-cheaper-in-tajikistan/",
+     "angolo": "",
+     "atlas": "Tajikistan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z19634e1b",
+   "sez": "mondo",
+   "titolo": "Un compito ispirato alla radio porta una ragazza a scoprire un messaggio nascosto",
+   "orig": "NPR-Inspired Homework Leads Teen to Find Hidden Message a Decade After a Stranger’s Kindness",
+   "lead": "Dalla sezione di Seattle della radio pubblica americana arriva la storia di un gesto di gentilezza custodito in una gru di origami. Pubblicata nella serie «My Unsung Hero» dell'emittente KUOW, comincia in Giappone, con Rika Matsuda, una bambina di sette anni che aveva appena ricevuto una bicicletta nuova. Dieci anni dopo, un compito scolastico ispirato al programma ha portato la ragazza a scoprire il messaggio nascosto lasciato da uno sconosciuto. Lo riferisce Good News Network.",
+   "more": [
+    "La gru di origami è uno dei soggetti più noti dell'arte giapponese della piegatura della carta ed è tradizionalmente simbolo di buon augurio e di speranza. KUOW è l'emittente di Seattle affiliata a NPR, la rete radiofonica pubblica statunitense."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "good": true,
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9962e510",
+   "sez": "ingegneria",
+   "titolo": "Placche di scarico in legno massello di noce, rovere e padauk",
+   "orig": "solid walnut, oak, and padauk give bathroom flush plates a sculptural identity",
+   "lead": "Lo studio RTY presenta una linea di placche di scarico per il bagno realizzate in legno massello. I modelli uniscono una geometria precisa al calore e alle venature uniche di tre essenze: noce americano, rovere europeo e padauk. L'obiettivo è dare a un elemento di solito anonimo dell'arredo bagno un'identità quasi scultorea. Lo riferisce Designboom.",
+   "more": [
+    "La placca di scarico è il pannello con i pulsanti che azionano la cassetta del WC incassata nel muro. Il padauk è un legno tropicale dal caratteristico colore rosso-arancio, apprezzato in falegnameria per la sua resa estetica."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/readers/solid-walnut-oak-padauk-bathroom-flush-plates-sculptural-identity-rty-studio/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z10557c4b",
+   "sez": "cucina",
+   "titolo": "La tarte Vaudoise alla crema nella ricetta di Henry Harris",
+   "orig": "Henry Harris’ recipe for tarte Vaudoise à la creme",
+   "lead": "Lo chef Henry Harris propone la ricetta della tarte Vaudoise à la crème, ispirata a una vecchia preparazione del celebre Frédy Girardet e inserita nel suo ultimo libro. Pochi ingredienti e una tecnica curiosa: il guscio di pasta viene cosparso di zucchero e panna, punteggiato di burro e spolverato di cannella, poi cotto senza precottura in forno molto caldo. Un procedimento che sembra sbagliato, ma che secondo l'autore dà un risultato straordinario. Lo riferisce The Guardian – Cucina.",
+   "more": [
+    "Frédy Girardet è uno chef svizzero considerato tra i più grandi cuochi del Novecento, attivo a Crissier, nel canton Vaud. La tarte vaudoise è un dolce tradizionale di quella regione, a base di panna e zucchero."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/10/tarte-vaudoise-a-la-creme-recipe-henry-harris",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4cb06e54",
+   "sez": "adolescenti",
+   "titolo": "Alunni con disabilità, la Cassazione: niente uscite anticipate per carenza di personale",
+   "orig": "Alunni con disabilità, diritto al tempo scuola intero e illegittimità delle uscite anticipate per carenze d’organico",
+   "lead": "Una recente pronuncia della Corte di Cassazione chiarisce che le scuole non possono chiedere ai genitori di riprendere in anticipo gli alunni con grave disabilità a causa di carenze di organico o di assistenza. Secondo i giudici, le difficoltà organizzative non giustificano in alcun modo una riduzione del tempo scuola. Il caso solleva questioni pedagogiche, organizzative e normative legate al diritto allo studio e al principio di non discriminazione. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "In Italia gli alunni con disabilità frequentano le classi comuni, con il supporto di insegnanti di sostegno e assistenti. Il diritto all'istruzione e all'inclusione è tutelato dalla Costituzione e da leggi specifiche, che vietano trattamenti meno favorevoli rispetto agli altri studenti."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/alunni-con-disabilita-diritto-al-tempo-scuola-intero-e-illegittimita-delle-uscite-anticipate-per-carenze-dorganico/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "zad2bb5f8",
+   "sez": "tech",
+   "titolo": "L'Antartide ha avuto la sua «era degli incendi»",
+   "orig": "L’Antartide ha avuto la sua “era degli incendi”",
+   "lead": "Circa 90 milioni di anni fa l'Antartide era attraversata da incendi: sono i roghi più meridionali mai scoperti finora. La scoperta racconta un continente molto diverso da quello di oggi, coperto di ghiaccio, e aiuta a ricostruire il clima e gli ambienti del passato remoto della Terra. Lo riferisce Focus.",
+   "more": [
+    "Durante il Cretaceo, l'epoca dei dinosauri, il clima terrestre era molto più caldo di oggi e l'Antartide ospitava foreste. Gli incendi antichi si riconoscono soprattutto dai resti di carbone vegetale fossile conservati nelle rocce."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/ambiente/ecologia/l-antartide-ha-avuto-la-sua-era-degli-incendi",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcf5dbf62",
+   "sez": "cultura",
+   "titolo": "Le mille facce di Kyle MacLachlan",
+   "orig": "Le mille facce di Kyle MacLachlan",
+   "lead": "Negli Stati Uniti è uscito il memoir dell'attore Kyle MacLachlan, che ripercorre la sua vita e la sua carriera. Nell'intervista l'interprete parla del rapporto con il regista David Lynch, dei ruoli nelle serie ancora molto amate dal pubblico e del suo recente approdo su TikTok, raccontandosi a cuore aperto. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "Kyle MacLachlan è un attore statunitense legato soprattutto a David Lynch, con cui ha girato «Dune», «Velluto blu» e la serie «Twin Peaks», dove interpretava l'agente Dale Cooper. È noto anche per il ruolo in «Sex and the City»."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/cinema-tv/interviste-cinema-tv/le-mille-facce-di-kyle-maclachlan/1040979/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb0b65de8",
+   "sez": "spazio",
+   "titolo": "Il cielo dal 9 al 18 ottobre: serate senza Luna",
+   "orig": "This Week's Sky at a Glance, October 9 – 18",
+   "lead": "La guida settimanale al cielo, valida dal 9 al 18 ottobre, invita a sfruttare le serate senza Luna per osservare il firmamento. Il consiglio è di cercare alcuni ammassi stellari lontani nella costellazione di Cassiopea, alta nel cielo lungo l'arco della Via Lattea. Il periodo favorevole però è breve: presto la Luna tornerà a illuminare le notti. Lo riferisce Sky & Telescope.",
+   "more": [
+    "Cassiopea è una costellazione dell'emisfero boreale riconoscibile per la forma a W, sempre visibile alle latitudini settentrionali. Attraversata dalla Via Lattea, è ricca di ammassi aperti, gruppi di stelle nate insieme, che si osservano meglio lontano dalla luce lunare."
+   ],
+   "fonti": [
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-october-9-18/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z896d9068",
+   "sez": "salute",
+   "titolo": "Steven Quay escluso dalla corsa alla guida del NIAID",
+   "orig": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
+   "lead": "Steven Quay, dirigente del settore biofarmaceutico e tra i principali sostenitori della teoria della fuga del virus da un laboratorio, non è più in lizza per la direzione del National Institute of Allergy and Infectious Diseases. Il suo nome era stato considerato per l'incarico nonostante non avesse alcuna esperienza specifica nelle malattie infettive. Lo riferisce STAT.",
+   "more": [
+    "Il NIAID è uno degli istituti dei National Institutes of Health, l'agenzia federale statunitense per la ricerca biomedica, e si occupa di malattie infettive e del sistema immunitario. Per decenni è stato diretto da Anthony Fauci, figura centrale durante la pandemia di Covid."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1010f3d0",
+   "sez": "cultura",
+   "titolo": "«Merry Berry Love», Ji Chang-wook in Giappone in una commedia romantica deludente",
+   "orig": "Disney+ K-drama Merry Berry Love: Ji Chang-wook goes to Japan in hollow romantic comedy",
+   "lead": "Il South China Morning Post recensisce «Merry Berry Love», commedia romantica ambientata in campagna con Ji Chang-wook e Mio Imada, giudicandola vuota. La serie, coprodotta dalla sudcoreana CJ ENM e dalla giapponese Nippon Television, va in onda in Giappone su Nippon TV e in streaming nel mondo su Disney+. Scritta e diretta da autori sudcoreani, è ambientata in gran parte sull'isola di Charo, nel Giappone rurale. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Le coproduzioni tra Corea del Sud e Giappone sono in crescita, spinte dal successo internazionale dei K-drama e dalle piattaforme di streaming globali. Ji Chang-wook è uno degli attori sudcoreani più noti in Asia per i ruoli in serie d'azione e sentimentali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/k-drama/k-drama/article/3370330/disney-k-drama-merry-berry-love-ji-chang-wook-goes-japan-hollow-romantic-comedy?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc5e33cae",
+   "sez": "sport",
+   "titolo": "Tennis, la Cina in delirio per Zheng: la finale anche nei cinema",
+   "orig": "China cinemas tap into Zheng tennis fever gripping country ahead of women’s final",
+   "lead": "Domenica i cinema di tutta la Cina proietteranno la finale femminile del China Open con Zheng Qinwen. La campionessa olimpica ha rotto la «maledizione» del torneo di Pechino: è la prima giocatrice di casa a raggiungere una finale di singolare, maschile o femminile, dal 1996, quando Chen Li perse contro Wang Shi-ting di Taipei Cinese. Con il National Tennis Centre esaurito, le sale hanno deciso di trasmettere il match. Lo riferisce South China Morning Post – Sport.",
+   "more": [
+    "Il China Open è uno dei principali tornei di tennis asiatici e si gioca ogni autunno a Pechino. Zheng Qinwen è la tennista cinese più forte della sua generazione e ha vinto l'oro olimpico nel singolare femminile a Parigi 2024."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/tennis/article/3370487/china-cinemas-tap-zheng-tennis-fever-gripping-country-ahead-womens-final?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdbfde0c9",
+   "sez": "viaggi",
+   "titolo": "Le città termali d'Europa per una pausa autunnale",
+   "orig": "Healing waters: 10 of the best spa towns in Europe for a restorative autumn break",
+   "lead": "Il Guardian propone una selezione di città termali europee per una vacanza autunnale rigenerante, dalle valli alpine alle località della belle époque, con piscine minerali e trattamenti di tradizione secolare. Lo spunto è il riconoscimento Unesco del 2021, che ha riunito undici storiche città termali in un unico sito patrimonio dell'umanità, tra cui Bath in Inghilterra, Spa in Belgio e il triangolo boemo di Karlovy Vary, Františkovy Lázně e Mariánské Lázně. Lo riferisce The Guardian – Viaggi.",
+   "more": [
+    "Il sito Unesco «Grandi città termali d'Europa» comprende località di diversi Paesi, tra cui Montecatini Terme in Italia. Queste città, cresciute attorno a sorgenti curative, divennero mete della nobiltà e della borghesia europea, con parchi, padiglioni e grandi alberghi."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Viaggi",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/travel/2026/oct/11/best-spa-towns-europe-autumn-wellbeing-holiday",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze4b92983",
+   "sez": "manga",
+   "titolo": "Annunciato un nuovo anime di «Dr. Stone»",
+   "orig": "New 'Dr. Stone' Anime Announced",
+   "lead": "Durante l'evento Stone Fes.2026 alla Yokohama Buntai è stato annunciato sabato un nuovo anime di «Dr. Stone», intitolato «Dr. Stone: Terraforming», ora in produzione. Il sito ufficiale ha mostrato il nuovo logo e un video promozionale, mentre la character designer Yuuko Iwasa ha firmato un'illustrazione celebrativa. La serie adatterà l'episodio autoconclusivo «Terraforming», contenuto nel volume 27 del manga e ambientato dopo la fine della storia principale. Lo riferisce MyAnimeList News.",
+   "more": [
+    "«Dr. Stone» è un manga scritto da Riichiro Inagaki e disegnato da Boichi, pubblicato su Weekly Shonen Jump. Racconta un mondo in cui l'umanità è stata pietrificata e un giovane genio prova a ricostruire la civiltà con la scienza."
+   ],
+   "fonti": [
+    {
+     "n": "MyAnimeList News",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://myanimelist.net/news/74808029?_location=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z080d5b2d",
+   "sez": "salute",
+   "titolo": "Uzbekistan, lo Stato paga parte delle rette universitarie ai figli di medici e farmacisti",
+   "orig": "State to cover part of university tuition for children of medical and pharmaceutical workers.",
+   "lead": "In Uzbekistan lo Stato ha iniziato a versare sussidi alle università per coprire una parte delle tasse d'iscrizione degli studenti figli di lavoratori del settore medico e farmaceutico. Il beneficio è riservato ai figli di chi ha lavorato per almeno quindici anni in strutture sanitarie pubbliche. Il sostegno non copre l'intera retta ma ne alleggerisce il costo per le famiglie. La misura riconosce il lungo servizio del personale nella sanità statale. Lo riferisce Kun.uz (inglese).",
+   "more": [
+    "L'Uzbekistan è una repubblica dell'Asia centrale, la più popolosa della regione, con capitale Tashkent. Il suo sistema sanitario è in gran parte pubblico. Incentivi legati all'istruzione dei figli sono uno strumento usato da diversi governi per riconoscere il lavoro del personale sanitario e trattenerlo nelle strutture statali."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/09/state-to-cover-part-of-university-tuition-for-children-of-medical-and-pharmaceutical-workers",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2d8a4dad",
+   "sez": "mondo",
+   "titolo": "Chi sono i «volontari» ucraini sotto comando russo",
+   "orig": "Who are the Ukrainian 'volunteers' under Russian command?",
+   "lead": "La Russia ha annunciato la creazione di un battaglione formato da cittadini ucraini presentati come «volontari» che combatterebbero sotto il suo comando. La versione ufficiale di Mosca viene però messa in discussione dalle testimonianze di veterani ed ex prigionieri di guerra, che raccontano una realtà molto diversa sulle modalità con cui questi uomini finiscono nelle file russe. L'inchiesta prova a ricostruire chi siano davvero questi combattenti e in quali condizioni si arruolino. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Dall'invasione su larga scala dell'Ucraina, la Russia ha impiegato formazioni di vario tipo, comprese unità composte da stranieri o da cittadini dei territori occupati. Il trattamento dei prigionieri di guerra è regolato dalle Convenzioni di Ginevra, che vietano di costringerli a combattere contro il proprio Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0e6860da",
+   "sez": "economia",
+   "titolo": "Norvegia, i giovani snobbano le microcar elettriche: l'87% va a benzina o diesel",
+   "orig": "Vil ikke ha elektriske mopedbiler: – Bensin og diesel til jeg dør",
+   "lead": "In Norvegia le microcar guidabili con patente da ciclomotore sono sempre più diffuse, ma i giovani che le scelgono preferiscono nettamente i motori tradizionali. L'87 per cento di questi veicoli circola infatti a benzina o diesel, mentre la versione elettrica resta minoritaria. Un giovane intervistato lo riassume così: benzina e diesel fino alla morte. Il dato colpisce in un Paese noto per la diffusione dell'auto elettrica. Lo riferisce NRK.",
+   "more": [
+    "La Norvegia è il Paese con la quota più alta al mondo di auto elettriche tra le nuove immatricolazioni, grazie a forti incentivi fiscali. Le microcar, piccoli veicoli a velocità limitata, possono essere guidate dai più giovani con la patente per ciclomotori e rappresentano un mercato a parte."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/vestfoldogtelemark/vil-ikke-ha-elektriske-mopedbiler_-nesten-9-av-10-gar-pa-bensin-og-diesel-1.18032499",
+     "angolo": "",
+     "atlas": "Norway"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z429b5a45",
+   "sez": "ambiente",
+   "titolo": "Conservazione della natura, il successo dipende dalle comunità locali più che dai soldi",
+   "orig": "Local Opinion and Involvement Found as Key Determinant in World’s Conservation Success Stories",
+   "lead": "Un gruppo di scienziati ha analizzato in tutto il mondo i casi di successo nella tutela di specie a rischio ed ecosistemi, per capire perché alcuni prosperano mentre altri declinano. Lo studio, condotto su una serie di esempi molto diversi tra loro, comprese le barriere coralline, indica che il fattore decisivo non è la quantità di denaro investito, ma il coinvolgimento e le azioni delle popolazioni locali, che determinano se la natura si riprende o soccombe. Lo riferisce Good News Network.",
+   "more": [
+    "La conservazione della biodiversità comprende aree protette, tutela delle specie minacciate e ripristino degli habitat. Da tempo gli esperti discutono del ruolo delle comunità che vivono a contatto con questi ambienti, spesso decisive per far rispettare le regole e gestire le risorse in modo sostenibile nel lungo periodo."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "good": true,
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z28342cc2",
+   "sez": "ingegneria",
+   "titolo": "Beam Camp 2027, concorso internazionale per un'installazione nel New Hampshire",
+   "orig": "Beam Camp 2027, United States",
+   "lead": "Beam Camp, nel New Hampshire, negli Stati Uniti, ha lanciato la sua consueta competizione internazionale annuale rivolta a progettisti e architetti. Il concorso chiede di ideare un'installazione temporanea con un budget di 15.000 dollari, da realizzare per l'edizione 2027. Le proposte vanno presentate entro il 30 novembre 2026. L'iniziativa offre ai partecipanti la possibilità di vedere costruito il proprio progetto. Lo riferisce The Architects' Journal.",
+   "more": [
+    "Beam Camp è un campo estivo statunitense in cui ogni anno i ragazzi partecipano alla costruzione di un grande progetto collettivo, spesso ideato da architetti o artisti. I concorsi di progettazione per installazioni temporanee sono un'occasione frequente per giovani studi di sperimentare forme e materiali."
+   ],
+   "fonti": [
+    {
+     "n": "The Architects' Journal",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectsjournal.co.uk/competitions/beam-camp-2027-united-states",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5db07df3",
+   "sez": "adolescenti",
+   "titolo": "Giornata delle bambine, Valditara: «Investire su di loro costruisce un futuro migliore per tutti»",
+   "orig": "Giornata internazionale delle bambine, Valditara: “Investire su di loro significa costruire un futuro migliore per tutti”",
+   "lead": "In occasione della Giornata internazionale delle bambine e delle ragazze, il ministro dell'Istruzione e del Merito Giuseppe Valditara ha diffuso un messaggio sul ruolo della scuola. Secondo il ministro, investire sulle bambine significa costruire un futuro migliore per l'intera società. Il ministero ribadisce l'impegno a garantire pari accesso all'istruzione, a valorizzare i talenti e a superare ogni forma di discriminazione di genere. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "La Giornata internazionale delle bambine e delle ragazze è stata istituita dalle Nazioni Unite e si celebra ogni anno l'11 ottobre. Ha lo scopo di richiamare l'attenzione sui diritti delle ragazze e sugli ostacoli che incontrano, a partire dall'accesso all'istruzione, dalla salute e dalla parità di opportunità."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/giornata-internazionale-delle-bambine-valditara-investire-su-di-loro-significa-costruire-un-futuro-migliore-per-tutti/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "sport"
+  },
+  {
+   "id": "z68506568",
+   "sez": "cultura",
+   "titolo": "Woke o non woke, storia di una parola usata a sproposito",
+   "orig": "Woke o non woke, questo è il dilemma",
+   "lead": "Un articolo di commento ripercorre la storia della parola «woke», nata dall'invito a restare vigili. L'espressione è stata usata da musicisti come Erykah Badu e Childish Gambino e, prima ancora, da Martin Luther King, all'interno di una comunità che sentiva il bisogno di proteggersi e di riconoscersi. Secondo l'autore si tratta di una parola bellissima, di cui però ci si è appropriati in modo improprio, svuotandola del suo significato. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "«Woke» nasce nell'inglese afroamericano come invito a essere consapevoli delle ingiustizie razziali. Negli ultimi anni il termine si è diffuso nel dibattito pubblico ed è diventato anche un'etichetta polemica, usata da critici per indicare in senso negativo un certo attivismo progressista."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/cultura/societa/woke-o-non-woke-questo-e-il-dilemma/1041829/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z82788128",
+   "sez": "spazio",
+   "titolo": "Garro 04, l'ammasso stellare che sfida le classificazioni",
+   "orig": "Meet the Star Cluster That Defies Conventions",
+   "lead": "Gli astronomi stanno studiando Garro 04, un raggruppamento di stelle che non rientra facilmente nelle categorie tradizionali. L'oggetto appartiene a un numero crescente di ammassi enigmatici che uniscono caratteristiche tipiche dei giovani ammassi aperti a quelle dei più antichi ammassi globulari. Proprio questa natura ibrida lo rende interessante per capire come si formano ed evolvono questi sistemi stellari. Lo riferisce Sky & Telescope.",
+   "more": [
+    "Gli ammassi aperti sono gruppi di stelle relativamente giovani e poco legati tra loro, che si trovano soprattutto nel disco della galassia. Gli ammassi globulari sono invece sistemi molto densi e antichi, con centinaia di migliaia di stelle. Oggetti con tratti intermedi aiutano a mettere alla prova le teorie sulla formazione stellare."
+   ],
+   "fonti": [
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/meet-the-star-cluster-that-defies-conventions/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z84076c81",
+   "sez": "medicina",
+   "titolo": "Ospedali di nuovo in tribunale contro il progetto pilota di Trump sui rimborsi 340B",
+   "orig": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
+   "lead": "L'American Hospital Association, che rappresenta gli ospedali statunitensi, ha avviato una nuova causa contro l'amministrazione Trump. Al centro della contesa c'è il piano per trasformare un programma federale di sconti sui farmaci: invece degli sconti applicati al momento dell'acquisto, gli ospedali riceverebbero rimborsi solo a posteriori. Gli ospedali chiedono di bloccare il progetto pilota, già contestato in passato. Lo riferisce STAT.",
+   "more": [
+    "Il programma 340B obbliga i produttori di farmaci a vendere a prezzo scontato agli ospedali e alle strutture che assistono molti pazienti a basso reddito. Gli ospedali sostengono che i risparmi servano a finanziare cure e servizi, mentre le aziende farmaceutiche ne contestano da tempo l'uso."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z764a80ff",
+   "sez": "tech",
+   "titolo": "Stati Uniti, 180 milioni di dollari per sequenziare il genoma delle colture",
+   "orig": "U.S. crop genome sequencing gets $180 million boost",
+   "lead": "Il Dipartimento dell'Agricoltura degli Stati Uniti ha deciso di potenziare con 180 milioni di dollari il lavoro di sequenziamento genetico delle piante coltivate. I fondi serviranno ad ampliare lo sforzo per descrivere la genetica del materiale conservato nelle banche dei semi, così da conoscere meglio il patrimonio di varietà custodito. Si tratta di un investimento significativo nella ricerca genomica applicata all'agricoltura. Lo riferisce Science (AAAS).",
+   "more": [
+    "Le banche dei semi conservano migliaia di varietà di piante coltivate e selvatiche, preziose per la biodiversità agricola. Conoscerne il genoma permette ai ricercatori di individuare caratteri utili, come la resistenza a malattie o siccità, da usare nel miglioramento delle colture."
+   ],
+   "fonti": [
+    {
+     "n": "Science (AAAS)",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.science.org/content/article/u-s-crop-genome-sequencing-gets-180-million-boost",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z14964566",
+   "sez": "cultura",
+   "titolo": "Kenneth Chow, lo stilista della Gen Z che ridefinisce il lusso",
+   "orig": "This Gen Z designer nearly left the industry. Now, he is redefining luxury fashion",
+   "lead": "Kenneth Chow, fondatore del marchio di moda indipendente Chow Chow, era stato vicino ad abbandonare il settore. Oggi il giovane stilista, della generazione Z, propone un'idea di lusso fondata su artigianato raffinato e lavorazioni a mano. Le sue creazioni, sete scure decorate con cristalli e perle cuciti a mano, giocano con la percezione di geometrie e linee. Eppure Chow dice di non sentirsi «uno della moda» e di comprare raramente vestiti nuovi. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Hong Kong ha una lunga tradizione nel tessile e nella sartoria e ospita una scena di giovani designer indipendenti. Molti di loro puntano sul lavoro artigianale e su piccole produzioni per distinguersi dai grandi marchi internazionali del lusso."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/fashion-beauty/article/3370025/gen-z-designer-nearly-left-industry-now-he-redefining-luxury-fashion?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3b487c95",
+   "sez": "sport",
+   "titolo": "Accordo tra NBA China e Shanghai Jiushi per far crescere giocatori e allenatori",
+   "orig": "NBA China and Shanghai Jiushi sign deal to drive development of players, coaches",
+   "lead": "NBA China ha firmato un accordo con lo Shanghai Jiushi, campione in carica della Chinese Basketball Association, per sostenere lo sviluppo di giocatori, allenatori e dirigenza del club. È la prima collaborazione di questo tipo. L'intesa riguarda quattro aree, tra cui la crescita dei giocatori d'élite e le opportunità di competizione. L'annuncio arriva mentre Dallas Mavericks e Houston Rockets disputano due amichevoli di preseason a Macao. Lo riferisce South China Morning Post – Sport.",
+   "more": [
+    "La Chinese Basketball Association è il principale campionato professionistico di pallacanestro in Cina, uno dei mercati più importanti per la NBA. La lega statunitense organizza da anni partite e attività in Asia per rafforzare la propria presenza tra i tifosi cinesi."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/basketball/article/3370484/nba-china-and-shanghai-jiushi-sign-deal-drive-development-players-coaches?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8dc33013",
+   "sez": "manga",
+   "titolo": "Il manga «Hotaru no Yomeiri» diventa una serie live-action nel 2027",
+   "orig": "Manga 'Hotaru no Yomeiri' Gets Live-Action Adaptation in 2027",
+   "lead": "La rete televisiva giapponese Fuji TV ha annunciato un adattamento in carne e ossa del manga web «Hotaru no Yomeiri» (Firefly Wedding) di Oreco Tachibana, diffondendo un primo video promozionale. La serie andrà in onda su Fuji TV nel 2027. Il manga, una storia d'amore in ambientazione storica, è pubblicato sulla piattaforma MangaONE dal gennaio 2023: il dodicesimo volume è uscito il 19 giugno e il tredicesimo e ultimo è previsto per il 19 ottobre. Lo riferisce MyAnimeList News.",
+   "more": [
+    "In Giappone è frequente che i manga di successo diventino anime, film o serie con attori in carne e ossa. MangaONE è un'applicazione dell'editore Shogakukan dedicata alla pubblicazione digitale di fumetti, da cui sono nati diversi titoli poi adattati per la televisione."
+   ],
+   "fonti": [
+    {
+     "n": "MyAnimeList News",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://myanimelist.net/news/74805426?_location=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z68f03f90",
+   "sez": "salute",
+   "titolo": "Ghana, appello al governo per rendere operativo il Fondo per la salute mentale",
+   "orig": "Mental Health Alliance urges government to operationalise Mental Health Fund",
+   "lead": "La Ghana Alliance for Mental Health and Development ha chiesto al governo ghanese di rendere finalmente operativo il Fondo per la salute mentale. Il fondo è previsto dalla sezione 82 del Mental Health Act del 2012 ed era stato istituito per garantire risorse stabili all'assistenza psichiatrica. Secondo l'associazione, attivarlo migliorerebbe il finanziamento delle cure per la salute mentale nel Paese. Lo riferisce MyJoyOnline.",
+   "more": [
+    "In molti Paesi la salute mentale riceve una quota limitata della spesa sanitaria, e anche in Africa occidentale i servizi psichiatrici sono spesso concentrati in pochi ospedali. Le leggi che prevedono fondi dedicati restano efficaci solo se i finanziamenti vengono effettivamente stanziati e gestiti."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/mental-health-alliance-urges-government-to-operationalise-mental-health-fund/",
+     "angolo": "",
+     "atlas": "Ghana"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1fa76a05",
+   "sez": "mondo",
+   "titolo": "Soldi, reti e pregiudizi: perché le donne faticano a farsi eleggere negli Stati Uniti",
+   "orig": "Money, networks and bias: Why women struggle to win seats in US politics",
+   "lead": "Negli Stati Uniti si vota per il Congresso e per i governatori degli Stati nelle elezioni di metà mandato del 3 novembre. A tutti i livelli della politica americana le donne restano sottorappresentate, frenate secondo l'analisi da ostacoli legati al denaro, alle reti di relazioni e ai pregiudizi. Nonostante questo, in questa tornata potrebbero ottenere alcune vittorie storiche. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Le elezioni di metà mandato si tengono a metà del mandato presidenziale e rinnovano tutta la Camera dei rappresentanti, circa un terzo del Senato e molti governatori. Le campagne elettorali americane richiedono raccolte fondi molto elevate, un fattore che incide sulle possibilità dei candidati."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5c86129d",
+   "sez": "italia",
+   "titolo": "Milano, si accende la corsa alla successione di Sala: tutti i nomi",
+   "orig": "Milano, sale nelle coalizioni lo scontro per il candidato sindaco: ecco tutti i nomi in corsa",
+   "lead": "A Milano è già entrata nel vivo la corsa per scegliere chi succederà al sindaco Giuseppe Sala, in vista delle elezioni comunali della prossima primavera. Nelle coalizioni cresce lo scontro sulla scelta del candidato. Nel centrosinistra il confronto riguarda soprattutto il metodo, tra chi vuole le primarie e chi punta su figure da individuare diversamente, mentre circolano diversi nomi. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Giuseppe Sala guida Milano dal 2016 ed è al secondo mandato consecutivo, il massimo consentito per i sindaci dei grandi comuni. Le primarie sono lo strumento con cui il centrosinistra ha spesso scelto i propri candidati alle elezioni comunali nelle grandi città."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/milano-sale-coalizioni-scontro-il-candidato-sindaco-ecco-tutti-nomi-corsa-AJVizlgB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2d8ffa16",
+   "sez": "cultura",
+   "titolo": "Norvegia, dai ghiacciai riemergono 48 frecce dell'età della pietra",
+   "orig": "World’s Largest ‘Glacial Archeology’ Expedition Recovers 48 Stone Age Arrowheads and Shafts",
+   "lead": "In una regione montuosa della Norvegia meridionale, gli scienziati che da vent'anni esplorano i ghiacciai alla ricerca di reperti antichi hanno recuperato 48 punte e aste di freccia. Gli oggetti appartengono a epoche diverse e sono realizzati con materiali differenti; alcuni appaiono sorprendentemente ben conservati. Si tratta della più grande spedizione al mondo di «archeologia glaciale», un lavoro reso possibile dallo scioglimento dei ghiacci. Lo riferisce Good News Network.",
+   "more": [
+    "L'archeologia glaciale studia i reperti conservati nel ghiaccio, che protegge materiali deperibili come legno e cuoio. In Norvegia il ritiro dei ghiacciai, legato al riscaldamento climatico, sta portando alla luce oggetti di caccia e viaggio usati per millenni, che vanno recuperati prima che si degradino."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "good": true,
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zec5ae5b9",
+   "sez": "ingegneria",
+   "titolo": "Peckham, respinto il ricorso di Berkeley sul progetto dRMM per l'Aylesham Centre",
+   "orig": "dRMM-led Peckham scheme’s bid for judicial review fails",
+   "lead": "Il costruttore Berkeley non è riuscito a ottenere una revisione giudiziaria del suo progetto di riqualificazione dell'Aylesham Centre, a Peckham, nel sud di Londra. Il piano, firmato dallo studio di architettura dRMM, era stato bocciato dal Planning Inspectorate, l'ente britannico che decide sui ricorsi urbanistici. La richiesta di portare la decisione davanti ai giudici è stata respinta. Lo riferisce The Architects' Journal.",
+   "more": [
+    "In Inghilterra la revisione giudiziaria permette di contestare in tribunale la legittimità di una decisione pubblica, non il suo merito. Il Planning Inspectorate esamina i ricorsi contro i dinieghi urbanistici. dRMM è uno studio di architettura londinese noto per progetti residenziali e per l'uso del legno."
+   ],
+   "fonti": [
+    {
+     "n": "The Architects' Journal",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectsjournal.co.uk/news/drmm-led-peckham-schemes-bid-for-judicial-review-fails",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf9f2a94a",
+   "sez": "adolescenti",
+   "titolo": "D'Eramo: l'intelligenza artificiale rischia di far sembrare inutile la scuola",
+   "orig": "D’Eramo: l’intelligenza artificiale rischia di rendere la scuola apparentemente inutile",
+   "lead": "Nel suo intervento sulla trasformazione della scuola, Marco D'Eramo ha messo in luce una contraddizione legata all'intelligenza artificiale. Da un lato questi strumenti possono rafforzare l'apprendimento; dall'altro rischiano di diffondere l'idea che studiare serva sempre meno, rendendo la scuola apparentemente inutile agli occhi degli studenti. È una delle parti più provocatorie della sua riflessione. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "La diffusione di chatbot e strumenti di intelligenza artificiale generativa sta cambiando il modo in cui gli studenti fanno compiti e ricerche. Scuole e ministeri discutono su come integrarli nella didattica senza indebolire lo sviluppo di competenze di base come scrittura e ragionamento."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/deramo-lintelligenza-artificiale-rischia-di-rendere-la-scuola-apparentemente-inutile/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "zdce0d5eb",
+   "sez": "musica",
+   "titolo": "Dragonflies, il supergruppo di Nigel Godrich e Dhani Harrison",
+   "orig": "Dragonflies, il supergruppo nato da un semi-pensionamento e da un burnout",
+   "lead": "Nigel Godrich e Dhani Harrison non avevano in programma di formare una band. Il primo era stanco del lavoro di produttore e si trovava in una sorta di semi-pensionamento, il secondo non provava più soddisfazione nel fare musica, in una condizione vicina al burnout. Poi qualcosa è cambiato e dall'incontro è nato il supergruppo Dragonflies, di cui l'articolo racconta la genesi. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "Nigel Godrich è un produttore britannico celebre soprattutto per il lungo lavoro con i Radiohead e membro degli Atoms for Peace. Dhani Harrison è un musicista e compositore, figlio di George Harrison dei Beatles. Si parla di supergruppo quando una band riunisce artisti già noti per altri progetti."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/storie-musica/dragonflies-il-supergruppo-nato-da-un-semi-pensionamento-e-da-un-burnout/1042039/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1be3d46d",
+   "sez": "medicina",
+   "titolo": "Pranzi e regali delle aziende farmaceutiche spingono le prescrizioni inappropriate",
+   "orig": "STAT+: Pharma’s free lunches for doctors boost inappropriate prescribing, analysis finds",
+   "lead": "Una nuova revisione degli studi scientifici ha concluso che i regali e i pagamenti ricevuti dai medici da parte delle aziende farmaceutiche, compresi i pasti offerti, aumentano le prescrizioni inappropriate di farmaci. Secondo gli autori, questo fenomeno contribuisce probabilmente all'aumento dei costi dell'assistenza sanitaria. L'analisi riapre il dibattito sui rapporti economici tra industria e medici. Lo riferisce STAT.",
+   "more": [
+    "Negli Stati Uniti i pagamenti delle aziende farmaceutiche ai medici, per consulenze, viaggi o pasti, sono resi pubblici attraverso un database federale. Una revisione analizza insieme i risultati di più studi già pubblicati per trarre conclusioni più solide rispetto a una singola ricerca."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd290012a",
+   "sez": "tech",
+   "titolo": "Il Dipartimento dell'Energia Usa amplia la «Genesis Mission» sull'intelligenza artificiale",
+   "orig": "Department of Energy expands ‘Genesis Mission’ to boost AI, awarding larger grants",
+   "lead": "Il Dipartimento dell'Energia degli Stati Uniti ha deciso di estendere la cosiddetta «Genesis Mission», il programma pensato per rafforzare l'uso dell'intelligenza artificiale nella ricerca, assegnando finanziamenti più consistenti. Il dipartimento avvierà inoltre un nuovo programma di borse di studio con l'obiettivo di accorciare il percorso che porta al dottorato. Lo riferisce Science (AAAS).",
+   "more": [
+    "Il Dipartimento dell'Energia gestisce la rete dei laboratori nazionali statunitensi, che dispongono di alcuni dei supercomputer più potenti al mondo. Per questo è un attore centrale nei programmi pubblici che puntano ad applicare l'intelligenza artificiale alla ricerca scientifica."
+   ],
+   "fonti": [
+    {
+     "n": "Science (AAAS)",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.science.org/content/article/department-energy-expands-genesis-mission-boost-ai-awarding-larger-grants",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbcbe1639",
+   "sez": "cultura",
+   "titolo": "Kang Myonghi, quasi ottantenne, presenta a Hong Kong «What Remains to be Seen»",
+   "orig": "Nearly 80, Korean artist Kang Myonghi talks about ‘What Remains to be Seen’",
+   "lead": "L'artista sudcoreana Kang Myonghi, vicina agli ottant'anni, conserva l'energia creativa della giovinezza e continua a lavorare nel suo studio e a progetti internazionali. Negli ultimi mesi è stata due volte a Hong Kong per preparare «What Remains to be Seen», la sua prima mostra personale in una galleria da due anni. L'unica pausa nella sua attività è arrivata con i lockdown del 2020, che però non hanno frenato la sua produzione mentre era bloccata a Jeju. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Kang Myonghi è una pittrice sudcoreana che ha vissuto a lungo in Francia ed è nota per grandi tele astratte ispirate alla natura e al paesaggio. Jeju è un'isola vulcanica a sud della penisola coreana, celebre per i suoi paesaggi e meta di molti artisti."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/arts/article/3370314/nearly-80-korean-artist-kang-myonghi-talks-about-what-remains-be-seen?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb01c3b99",
+   "sez": "viaggi",
+   "titolo": "Eindhoven, la città olandese reinventata tra design, verde e creatività",
+   "orig": "‘Vibrant, design-led and surprisingly green’: why the Dutch city of Eindhoven is perfect for a relaxed arty break",
+   "lead": "Dopo la partenza del colosso dell'elettronica Philips, la città olandese di Eindhoven, nel Brabante settentrionale, si è reinventata come polo multiculturale della creatività e dell'innovazione, sede della Dutch Design Week. Il reportage la descrive come vivace, attenta al design e sorprendentemente verde, ideale per un fine settimana artistico. Tra le tappe c'è il ristorante Radio Royaal, ospitato in un ex spazio industriale con lucernari a volta, frequentato anche da skater. Lo riferisce The Guardian – Viaggi.",
+   "more": [
+    "Eindhoven è una delle principali città dei Paesi Bassi meridionali ed è cresciuta nel Novecento attorno agli stabilimenti Philips. Molti edifici industriali dismessi sono stati trasformati in spazi culturali, uffici e locali, e la città è oggi un centro di riferimento per il design e la tecnologia."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Viaggi",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/travel/2026/oct/08/design-dutch-city-eindhoven-arty-break",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z332c1540",
+   "sez": "manga",
+   "titolo": "White Fox realizzerà l'anime di «How I Became King by Eating Monsters» nel 2027",
+   "orig": "White Fox Produces 'Monster no Niku wo Kutte Itara Oui ni Tsuita Ken' TV Anime Adaptation for 2027",
+   "lead": "La casa di produzione King Records ha aperto il sito ufficiale dell'adattamento anime della light novel «Monster no Niku wo Kutte Itara Oui ni Tsuita Ken» (How I Became King by Eating Monsters) di Daken, diffondendo una prima immagine promozionale. La serie televisiva sarà prodotta dallo studio White Fox e trasmessa nel 2027. L'opera, un fantasy d'avventura, era nata sul sito Shousetsuka ni Narou tra gennaio 2022 e gennaio 2023, prima della pubblicazione con Micro Magazine. Lo riferisce MyAnimeList News.",
+   "more": [
+    "Shousetsuka ni Narou è una popolare piattaforma giapponese dove gli autori pubblicano gratuitamente romanzi online, molti dei quali diventano poi light novel, manga e anime. White Fox è uno studio d'animazione noto per serie come «Steins;Gate» e «Re:Zero»."
+   ],
+   "fonti": [
+    {
+     "n": "MyAnimeList News",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://myanimelist.net/news/74804055?_location=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2d0b130f",
+   "sez": "salute",
+   "titolo": "Gambia, acquistati medicinali per oltre 700 milioni di dollari",
+   "orig": "Gov’t boosts health sector with over $700M worth of medicines",
+   "lead": "Il governo del Gambia ha acquistato medicinali e materiali sanitari per un valore superiore a 700 milioni di dollari nell'ambito del suo programma annuale di approvvigionamento medico. L'obiettivo è rendere i prodotti sanitari essenziali accessibili a tutti i cittadini. Le forniture arrivano in modo graduale da aprile e vengono gestite dal Central Medical Store di Kotu, che le immagazzina e poi le distribuisce alle strutture sanitarie. Di recente sono arrivati sette container e altre spedizioni sono attese. Secondo i funzionari, l'operazione è in corso dall'inizio dell'anno e mira a portare i servizi sanitari vicino a ogni cittadino. Lo riferisce The Point.",
+   "more": [
+    "Il Gambia è un piccolo Stato dell'Africa occidentale, quasi interamente circondato dal Senegal e affacciato sull'Atlantico. Un magazzino medico centrale è la struttura che riceve, conserva e smista i farmaci destinati a ospedali e centri sanitari, un anello decisivo per evitare carenze nei Paesi con risorse limitate."
+   ],
+   "fonti": [
+    {
+     "n": "The Point",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://thepoint.gm/africa/gambia/headlines/govt-boosts-health-sector-with-over-700m-worth-of-medicines",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zea2937d5",
+   "sez": "cultura",
+   "titolo": "«Ragebait» è la parola giovanile tedesca del 2026",
+   "orig": "'Ragebait' is the 2026 German Youth Word of the Year",
+   "lead": "In Germania «ragebait» è stata scelta come parola giovanile dell'anno 2026. Il termine inglese, che indica contenuti creati apposta per provocare rabbia e quindi reazioni e interazioni online, era già stato designato parola dell'anno 2025 dall'Oxford Dictionary nella forma «rage bait». Il riconoscimento tedesco conferma quanto l'espressione sia ormai entrata nel gergo dei giovani anche in lingua tedesca, segno della circolazione internazionale del vocabolario legato ai social network e alle dinamiche della rete. Lo riferisce Deutsche Welle.",
+   "more": [
+    "La parola giovanile dell'anno in Germania è un'iniziativa che raccoglie i termini più usati o rappresentativi del linguaggio dei ragazzi. Il «rage bait», letteralmente «esca per la rabbia», descrive post o video pensati per irritare il pubblico e spingerlo a commentare, aumentando così la visibilità di chi li pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6d3e0ad6",
+   "sez": "italia",
+   "titolo": "Mattarella: la Costituzione tutela la sicurezza sul lavoro, serve prevenzione",
+   "orig": "Mattarella: la Carta tutela la sicurezza sul lavoro, serve prevenzione",
+   "lead": "Il presidente della Repubblica Sergio Mattarella ha ricordato che la tutela della salute e della sicurezza nei luoghi di lavoro ha il proprio fondamento nei principi della Costituzione. Il capo dello Stato è intervenuto in occasione della 76esima edizione di una ricorrenza dedicata al tema, sottolineando la necessità di puntare sulla prevenzione per proteggere chi lavora. Il messaggio richiama istituzioni, imprese e società a un impegno costante perché il lavoro si svolga in condizioni sicure. Lo riferisce Il Sole 24 Ore.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/mattarella-garantire-sicurezza-lavoro-e-principio-costituzione-AJuwmXgB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za399b3f8",
+   "sez": "ingegneria",
+   "titolo": "Duncan Baker-Brown: «L'ARB mi ha cancellato dall'albo senza che lo sapessi»",
+   "orig": "Duncan Baker-Brown: the ARB kicked me off the register – and I had no idea",
+   "lead": "L'architetto britannico Duncan Baker-Brown, secondo classificato alle elezioni per la presidenza del RIBA, ha rivelato di essere stato tra i 270 architetti rimossi dall'albo dell'ARB, l'ente che regola la professione nel Regno Unito. La cancellazione è stata motivata dal presunto mancato rispetto del nuovo sistema di formazione professionale continua, il cosiddetto CPD. Baker-Brown sostiene però di aver rispettato le regole e di non essere stato informato del provvedimento, scoperto solo in seguito. Il caso solleva dubbi sull'applicazione del nuovo regime. Lo riferisce The Architects' Journal.",
+   "more": [
+    "Nel Regno Unito l'Architects Registration Board tiene l'albo di chi può usare legalmente il titolo di architetto, mentre il Royal Institute of British Architects è la principale associazione professionale del settore. La formazione professionale continua obbliga i professionisti ad aggiornarsi periodicamente per mantenere l'iscrizione."
+   ],
+   "fonti": [
+    {
+     "n": "The Architects' Journal",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectsjournal.co.uk/news/opinion/duncan-baker-brown-the-arb-kicked-me-off-the-register-and-i-had-no-idea",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z23a89496",
+   "sez": "adolescenti",
+   "titolo": "Assemblee studentesche d'istituto: regole, durata, esperti e vigilanza",
+   "orig": "Assemblee studentesche d’Istituto: chi le autorizza, quanto durano, esperti, vigilanza: con regolamento e 18 documenti da scaricare",
+   "lead": "Una guida dedicata alle assemblee studentesche d'istituto nelle scuole italiane spiega chi le autorizza, quanto possono durare, come si invitano esperti esterni e come viene garantita la vigilanza, con un regolamento e 18 documenti da scaricare. Il punto di partenza è l'articolo 13 del decreto legislativo 297 del 1994, che definisce l'assemblea come occasione di partecipazione democratica per approfondire i problemi della scuola e della società, in funzione della formazione culturale e civile degli studenti. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Le assemblee studentesche sono uno degli strumenti con cui gli studenti delle scuole superiori partecipano alla vita dell'istituto. Si affiancano agli organi collegiali, come il consiglio d'istituto, e permettono ai ragazzi di discutere temi scolastici e di attualità, spesso con il contributo di ospiti esterni."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/assemblee-studentesche-distituto-chi-le-autorizza-quanto-durano-esperti-vigilanza-con-regolamento-e-18-documenti-da-scaricare/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera",
+   "sub": "sport"
+  },
+  {
+   "id": "zce950239",
+   "sez": "musica",
+   "titolo": "Willie Nelson e Yo La Tengo sostengono James Talarico",
+   "orig": "Willie Nelson, Yo La Tengo Endorse James Talarico",
+   "lead": "Il cantautore country Willie Nelson e la band indie Yo La Tengo hanno espresso il loro appoggio a James Talarico, candidato al Senato degli Stati Uniti per il Texas. Gli Yo La Tengo hanno anche annunciato un concerto di beneficenza a sostegno della sua campagna, in programma ad Austin il 27 ottobre. L'iniziativa si inserisce nella tradizione degli artisti che si schierano pubblicamente durante le campagne elettorali, mettendo la propria popolarità al servizio di un candidato. Lo riferisce Pitchfork.",
+   "more": [
+    "Willie Nelson è una leggenda della musica country e una figura simbolo del Texas. Gli Yo La Tengo sono un gruppo statunitense di rock indipendente attivo da decenni. Austin, capitale del Texas, è nota per la sua vivace scena musicale dal vivo."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/willie-nelson-yo-la-tengo-endorse-james-talarico/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a2ad1e4",
+   "sez": "spazio",
+   "titolo": "La Luna occulta Giove all'alba del 6 ottobre",
+   "orig": "Rare Sight Ahead! Watch the Moon Occult Jupiter Early October 6th",
+   "lead": "Prima dell'alba del 6 ottobre la Luna è passata davanti a Giove, nascondendolo per un certo tempo: un fenomeno raro chiamato occultazione. Il pianeta è scomparso dietro il disco lunare per poi riapparire in modo spettacolare dal bordo scuro del nostro satellite. La rivista specializzata aveva invitato gli osservatori del cielo a seguire l'evento, che offre l'occasione di vedere con chiarezza il moto della Luna rispetto agli astri sullo sfondo. Lo riferisce Sky & Telescope.",
+   "more": [
+    "Si parla di occultazione quando un corpo celeste passa davanti a un altro, nascondendolo alla vista. Con la Luna accade spesso con le stelle, più raramente con i pianeti luminosi come Giove. La ricomparsa dal lato non illuminato è particolarmente suggestiva perché il pianeta sembra accendersi all'improvviso."
+   ],
+   "fonti": [
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/rare-sight-ahead-watch-the-moon-occult-jupiter-on-october-6th/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z07b7319a",
+   "sez": "salute",
+   "titolo": "Medicare Advantage, le nuove valutazioni a stelle premiano Humana",
+   "orig": "STAT+: Medicare Advantage star ratings trigger new bonuses, and uncertainty",
+   "lead": "Il governo federale degli Stati Uniti ha pubblicato le nuove valutazioni di qualità, espresse in stelle, per le assicurazioni del programma Medicare Advantage relative al 2027. Il punteggio determina l'accesso a nuovi bonus per le compagnie, ma porta con sé anche incertezza nel settore. Humana risulta la principale vincitrice di questa tornata di valutazioni. Le classifiche hanno un peso rilevante perché influenzano i ricavi degli assicuratori e le scelte degli anziani che aderiscono a questi piani. Lo riferisce STAT.",
+   "more": [
+    "Medicare è il programma sanitario pubblico statunitense rivolto soprattutto agli over 65. Con Medicare Advantage le prestazioni vengono gestite da assicurazioni private, che ricevono pagamenti federali. Il sistema di valutazione a stelle misura la qualità dei piani e premia con bonus quelli giudicati migliori."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc40fbc02",
+   "sez": "cultura",
+   "titolo": "Chiude Chronicle Heritage, grande datore di lavoro per gli archeologi",
+   "orig": "Major employer of archaeologists shuts down, leaving workers in the lurch",
+   "lead": "Chronicle Heritage, una delle principali aziende che impiegavano archeologi, ha chiuso i battenti lasciando molti lavoratori in difficoltà. L'uscita di scena della società è stata definita «poco elegante» e ha suscitato tra i ricercatori del settore forti timori per il futuro della professione. La chiusura improvvisa ha colto di sorpresa dipendenti e collaboratori, che si ritrovano senza lavoro e con poche certezze sulle prospettive. Lo riferisce Science.",
+   "more": [
+    "Una parte consistente degli archeologi lavora per società private di gestione dei beni culturali, che svolgono indagini e scavi prima della realizzazione di opere edilizie e infrastrutturali, spesso in base a obblighi di legge. Le difficoltà di queste aziende si riflettono direttamente sull'occupazione nel settore."
+   ],
+   "fonti": [
+    {
+     "n": "Science (AAAS)",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.science.org/content/article/major-employer-archaeologists-shuts-down-leaving-workers-lurch",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6ded8cf3",
+   "sez": "cultura",
+   "titolo": "Perché trasformiamo la cultura in una gara",
+   "orig": "Perché trasformiamo la cultura in una gara",
+   "lead": "Contare i film visti, dare un voto ai libri letti, confrontare quanta musica si ascolta: secondo un'analisi del quotidiano belga Le Soir, ripresa da la Repubblica, diverse applicazioni dedicate agli hobby hanno trasformato le attività culturali in una questione di statistiche. Il rischio, osserva l'articolo, è alimentare un'ossessione per le prestazioni anche nel tempo libero, facendo della fruizione di libri, film e dischi una competizione invece che un piacere personale. Lo riferisce la Repubblica.",
+   "more": [
+    "Esistono numerose app che permettono di registrare letture, visioni e ascolti, assegnare voti e condividerli con altri utenti. Questi strumenti fanno leva su meccanismi tipici dei giochi, come obiettivi, classifiche e riepiloghi annuali, che stimolano a fare di più ma possono spostare l'attenzione dalla qualità alla quantità."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/dossier/lena/2026/10/11/news/perche_hobby_app_cultura_in_gara_continental_breakfast-425640823/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf3cb9bed",
+   "sez": "viaggi",
+   "titolo": "Un weekend a piedi sulla Shropshire Way, tra paesaggi e borghi storici",
+   "orig": "Fine scenery, historic towns and great pubs: a weekend walk on the Shropshire Way",
+   "lead": "Una nuova serie di itinerari suddivide la Shropshire Way, sentiero di 185 miglia (297 chilometri) nell'Inghilterra occidentale, in tappe brevi raggiungibili in treno. Il percorso attraversa paesaggi collinari, cittadine storiche e ottimi pub, con curiosità come i castori in ambiente urbano e lo sperone roccioso del Devil's Chair, oltre a buona cucina lungo la strada. Dopo una camminata di 15 miglia, l'autore arriva al pub The Bridges, sulle rive del fiume Onny, tra le colline del sud dello Shropshire. Lo riferisce The Guardian.",
+   "more": [
+    "Lo Shropshire è una contea rurale dell'Inghilterra al confine con il Galles, nota per le colline, le campagne e i centri storici. I sentieri di lunga percorrenza britannici sono spesso divisi in tappe, e la possibilità di raggiungerle in treno li rende accessibili anche a chi viaggia senza auto."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Viaggi",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/travel/2026/oct/06/walking-the-shropshire-way",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2385e131",
+   "sez": "salute",
+   "titolo": "Sierra Leone, la ministra Haja Wurie alla Giornata mondiale della salute mentale",
+   "orig": "Education Minister Haja Wurie Joins Health Officials to Mark World Mental Health Day",
+   "lead": "Sabato 10 ottobre 2026 la ministra dell'Istruzione tecnica e superiore della Sierra Leone, Haja Ramatulai Wurie, ha partecipato insieme al ministero della Salute e ai suoi partner alle iniziative per la Giornata mondiale della salute mentale. La presenza della responsabile dell'istruzione accanto alle autorità sanitarie sottolinea il legame tra benessere psicologico e mondo della formazione, in un'occasione dedicata a sensibilizzare l'opinione pubblica sul tema. Lo riferisce Sierraloaded.",
+   "more": [
+    "La Giornata mondiale della salute mentale si celebra ogni anno il 10 ottobre per promuovere la consapevolezza sui disturbi psichici e combattere lo stigma. La Sierra Leone, Paese dell'Africa occidentale con capitale Freetown, è impegnata a rafforzare un sistema sanitario messo alla prova in passato da guerra ed epidemie."
+   ],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/haja-wurie-health-world-mental-health-day/",
+     "angolo": "",
+     "atlas": "Sierra Leone"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z01d08afa",
+   "sez": "mondo",
+   "titolo": "Francia, crisi della scuola: gli investimenti non bastano a ridare fiducia",
+   "orig": "Schools crisis in France: Investment fails to inspire confidence",
+   "lead": "Da settimane gli studenti francesi protestano contro un sistema scolastico che giudicano in crisi. Rispetto a molti altri Paesi, la Francia spende molto per l'istruzione, ma secondo i critici il problema sta nella distribuzione delle risorse, che non avverrebbe in modo equo. Le mobilitazioni mostrano come i fondi stanziati non riescano a restituire fiducia a studenti e famiglie, alimentando il dibattito sul funzionamento della scuola pubblica francese. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Il sistema scolastico francese è fortemente centralizzato e gestito dallo Stato. Da tempo il dibattito riguarda le disuguaglianze tra istituti di aree diverse, in particolare tra quartieri benestanti e periferie, e la capacità della scuola di garantire pari opportunità a tutti gli studenti."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z951cbc7e",
+   "sez": "economia",
+   "titolo": "Cala il prezzo del gasolio, si allontanano le accise mobili",
+   "orig": "Cala il prezzo del diesel, si allontana l’ipotesi delle accise mobili",
+   "lead": "Il recente calo del prezzo del gasolio in Italia allenta la pressione sul governo, che vede allontanarsi l'ipotesi di ricorrere alle accise mobili. L'esecutivo valuta di usare questo strumento solo nel caso in cui i prezzi del carburante tornino a salire entro la fine dell'anno. Il ribasso del diesel, carburante molto diffuso tra automobilisti e trasporto merci, riduce per ora la necessità di interventi sulla tassazione dei carburanti. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Le accise sono imposte fisse applicate sui carburanti e pesano in modo rilevante sul prezzo alla pompa. Il meccanismo delle accise mobili prevede di ridurle quando i prezzi salgono, compensando con le maggiori entrate dell'IVA, così da attenuare i rincari per i consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/cala-prezzo-diesel-si-allontana-l-ipotesi-accise-mobili-AJxQg4fB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z38258f7a",
+   "sez": "ingegneria",
+   "titolo": "Make Architects torna all'utile, ma il fatturato cala ancora",
+   "orig": "Make returns to profit but turnover slides again",
+   "lead": "Lo studio britannico Make Architects ha chiuso l'esercizio con un utile ante imposte per la prima volta dal 2022, segnando un ritorno alla redditività. Il fatturato, però, ha continuato a scendere, con una contrazione del 7 per cento. Il risultato mostra un miglioramento dei conti dello studio sul fronte dei margini, ma anche le difficoltà nel far crescere i ricavi, in un periodo complesso per il settore dell'architettura. Lo riferisce The Architects' Journal.",
+   "more": [
+    "Make Architects è uno studio di architettura con sede a Londra, fondato da Ken Shuttleworth, noto per progetti di edifici commerciali e residenziali. I bilanci dei grandi studi britannici sono spesso osservati come indicatori dello stato di salute del mercato delle costruzioni."
+   ],
+   "fonti": [
+    {
+     "n": "The Architects' Journal",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectsjournal.co.uk/news/make-returns-to-profit-but-turnover-slides-again",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "22:39",
+   "uscita": "sera"
+  },
+  {
    "id": "zbd5f6833",
    "sez": "prima",
    "titolo": "Uragano Simon, la presidente messicana chiede ai residenti di mettersi al riparo",
@@ -2174,27 +5704,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "p": "XX",
      "c": "San Marino",
      "u": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/under-21-un-biennio-in-crescita-ma-senza-goal-per-san-marino-a297121",
-     "angolo": "",
-     "atlas": "San Marino"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "22:24",
-   "uscita": "sera"
-  },
-  {
-   "id": "z17cf9c95",
-   "sez": "sport",
-   "titolo": "Tropical Coriano-Crema, gli allenatori: «Partita equilibrata»",
-   "orig": "Di Maio: \"Ai punti avremmo meritato qualcosa in più\". Piccolo: \"Partita equilibrata\"",
-   "lead": "Al termine della partita tra Tropical Coriano e Crema hanno parlato i due allenatori. Di Maio ritiene che la sua squadra avrebbe meritato qualcosa in più, se si considera l'andamento della gara «ai punti». Piccolo, sull'altra panchina, ha descritto invece la sfida come equilibrata. Le due letture del match riflettono quindi due punti di vista diversi su come sia andata la partita. Lo riferisce San Marino RTV.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "San Marino RTV",
-     "p": "XX",
-     "c": "San Marino",
-     "u": "https://www.sanmarinortv.sm/sport/calcio-c14/di-maio-ai-punti-avremmo-meritato-qualcosa-in-piu-piccolo-partita-equilibrata-a297120",
      "angolo": "",
      "atlas": "San Marino"
     }
@@ -5928,6 +9437,30 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://www.pbs.org/newshour/world/pope-leo-to-undergo-surgery-to-remove-nodule-on-his-lung",
      "angolo": "",
      "atlas": "United States of America"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10898726",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "MaltaToday",
+     "p": "XX",
+     "c": "Valletta",
+     "u": "https://www.maltatoday.com.mt/news/world/144962/pope_leo_to_undergo_lung_surgery_after_doctors_find_nodule",
+     "angolo": "",
+     "atlas": "Malta"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/vaticano/papa_leone_malato_sportivo_palestra_nuoto_tennis-9818192.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "11 ott",
@@ -14289,7 +17822,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z59687c01": "La testata celebra il ritorno di una gara storica e la sua nuova sede a San Marino.",
   "z247f760b": "La testata mette a confronto la soddisfazione del fratello e la delusione della sorella.",
   "z3ae75ed8": "La testata valorizza i progressi della squadra pur riconoscendo l'assenza di gol.",
-  "z17cf9c95": "La testata riporta le valutazioni diverse dei due tecnici sulla stessa partita.",
   "zf09e6719": "La testata unisce il traguardo personale del giocatore alle ambizioni della squadra.",
   "zaeb5b139": "La testata evidenzia l'intesa tra organizzatori e istituzioni sul futuro dell'evento.",
   "z61509d2a": "La testata riporta il punto di vista degli educatori, attenti alle cause e alle possibili soluzioni.",
@@ -14359,7 +17891,157 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z2d034aa7": "La testata presenta il ritiro delle banconote come una conseguenza diretta della contraffazione.",
   "z3198afcd": "La testata riporta le pressioni del ministro sui vertici della rete di ricerca e le sue critiche alla spesa pubblica.",
   "z563fa00e": "La testata collega l'elezione locale al leader dell'opposizione Péter Magyar.",
-  "z758c1b66": "La testata riporta le accuse di Magyar senza che vengano dimostrate."
+  "z758c1b66": "La testata riporta le accuse di Magyar senza che vengano dimostrate.",
+  "z1240d0b9": "Dawn si concentra sull'avvio del Consiglio e sull'impegno contro la corruzione, mentre The Express Tribune mette in primo piano la sicurezza e la lotta al terrorismo.",
+  "z51e140db": "BBC News privilegia il punto di vista personale della madre e il significato affettivo della decisione, più che gli aspetti medici o normativi.",
+  "z6b5d64da": "ANSA segue la partita in diretta sottolineando l'insidia della trasferta, mentre Il Messaggero offre una guida pratica su orari, formazioni e copertura tv.",
+  "zcf4a7028": "Crunchyroll News presenta il personaggio ai nuovi spettatori, mentre CBR si concentra sui disservizi della prima e sulle modifiche alla trama.",
+  "z769fbefe": "la Repubblica mette in risalto le tensioni nella coalizione, contrapponendo le condizioni poste da Conte alla linea inclusiva di Schlein.",
+  "z3eb50897": "The Punch dà spazio alla visione di Adesina, centrata sull'industria e sulla tecnologia come motori dello sviluppo.",
+  "z92fc39c3": "ArchDaily guarda al caso di Barcellona come esempio di come piccoli interventi locali possano diventare politica urbana.",
+  "z7e7695e1": "Gambero Rosso valorizza il salume come prodotto della tradizione, insistendo sul rito del taglio e della condivisione.",
+  "z8cd13aea": "The Guardian propone un ritratto personale dell'artista attraverso i brani che ne hanno segnato crescita ed emozioni.",
+  "z998bc80c": "BBC News sottolinea la ripetizione degli attacchi e le conseguenze concrete per l'attività dell'azienda.",
+  "ze1621155": "Keep Talking Greece mette in evidenza il lieto fine della vicenda dopo giorni senza notizie.",
+  "za76be451": "Radio Tamazuj segnala l'apertura delle strutture in modo sintetico, senza approfondirne l'impatto.",
+  "z52c8ff0e": "Radio Tamazuj riporta la decisione amministrativa in forma essenziale, segno della difficile ripresa della normalità.",
+  "z2008ce97": "ANSA sceglie un taglio divulgativo, puntando a rassicurare e a spiegare il percorso medico più che la cronaca del ricovero.",
+  "z60686d2a": "The Japan Times evidenzia lo scarto tra i timori dei cittadini e la valutazione della polizia sull'utilità di sostituire il documento.",
+  "z7560f416": "ArchDaily mette in risalto l'equilibrio tra scelte materiche audaci e atmosfera serena.",
+  "zb7c3a2e9": "La rivista punta sulla stagionalità e sulla varietà dei prodotti del bosco.",
+  "z77b5179e": "La testata per ragazzi sottolinea la lunga caccia e il carattere ancora provvisorio della scoperta.",
+  "z9eda7e9f": "Il Guardian evidenzia la spettacolarità visiva e lo scarto tra vecchio e nuovo repertorio.",
+  "zb8bb0688": "La Nasa presenta l'immagine con taglio divulgativo, come parte del suo appuntamento quotidiano.",
+  "z4e734514": "MaltaToday mette a confronto l'ottimismo del premier e la cautela del ministro delle Finanze.",
+  "za39d8a16": "La radio sudsudanese pone l'accento sulla pressione sulle strutture sanitarie.",
+  "zd7455eee": "L'ANSA mette in primo piano il richiamo a Baudo e la risposta sul rischio di uso politico del festival.",
+  "zcba18c70": "Fox News sottolinea i dati sulla mortalità e il trasferimento di competenze verso gli Stati Uniti.",
+  "z44b901c6": "Il quotidiano filippino propone un punto di vista critico sul rapporto tra età, competenza e IA nelle aziende.",
+  "zf6fadd9a": "ArchDaily mette in evidenza il contrasto tra materiali ordinari ed effetto atmosferico.",
+  "z92f4cbb5": "La rivista valorizza una variante locale e la sua origine di cucina del recupero.",
+  "z63a230b1": "La testata per ragazzi punta sul legame tra un'arte antica e la tecnologia moderna.",
+  "z8ca91aac": "Il Guardian presenta la band come esempio dell'importanza delle piccole scene locali.",
+  "z54a1abdb": "Anime News Network accosta l'annuncio dello scioglimento al prossimo anniversario.",
+  "z96ec5206": "Il quotidiano cambogiano propone un racconto personale che invita a scoprire mete meno note.",
+  "zcfe6bc75": "L'agenzia sottolinea la continuità del proprio monitoraggio sulla sicurezza nucleare in Ucraina.",
+  "z7648af19": "San Marino RTV punta sugli episodi chiave di una sfida senza reti.",
+  "z3421c7b2": "HotNews sottolinea che il cambio di allenatore non ha modificato il risultato.",
+  "z3409f153": "L'ANSA mette in risalto la varietà dei titoli rappresentati e l'ampliamento dell'esposizione.",
+  "zc9690783": "allAfrica evidenzia l'incertezza e la discordanza delle informazioni sulla salute dell'ex presidente.",
+  "z34622722": "La testata dà spazio alla voce dell'artista e mette in evidenza il legame tra vita notturna, memoria e rappresentazione fotografica.",
+  "ze31acd2e": "La testata valorizza l'origine storica del piatto e la sua natura di insalata dal gusto agrodolce.",
+  "z2f4d5138": "La testata sottolinea il carattere senza precedenti delle temperature oceaniche e il fatto che il fenomeno sia ancora in corso.",
+  "z2ad1e2a2": "La testata ripercorre la lunga carriera di Thompson e lo presenta come un'icona indiscussa del folk britannico.",
+  "z6d99a1c8": "La testata dà voce all'industria privata, mettendo in evidenza il punto di vista delle aziende sul futuro della presenza umana sulla Luna.",
+  "z727016d6": "La testata mette in evidenza il lato meno noto di un atleta, la sua passione per il vino, come spunto per raccontare una destinazione.",
+  "z3a30256d": "La testata collega la nuova serie al successo precedente dell'autore per presentarne la conclusione.",
+  "z5446a1cf": "La testata mette in evidenza il braccio di ferro tra governo e capo tradizionale sulla scelta tra selvaggina e bestiame.",
+  "z50f04961": "La testata sottolinea lo stallo politico e il legame tra la crisi istituzionale e le proteste contro il tribunale speciale.",
+  "zafbaeaaa": "La testata mette in primo piano il ruolo delle giocatrici montenegrine nei risultati delle squadre europee.",
+  "zc992c5b7": "La testata pone l'accento sul ruolo di guida delle donne e sulla dimensione comunitaria della conservazione.",
+  "z49569abe": "La testata mette in evidenza le difficoltà economiche degli attori e lo squilibrio di potere con i produttori.",
+  "z0bb51dd0": "La testata presenta il progetto come un oggetto di design curioso che rilegge una superstizione attraverso la tecnologia.",
+  "z4f21ced2": "La testata punta sulla praticità, offrendo soluzioni per variare un classico della pasticceria italiana.",
+  "z067c2c5c": "La testata usa un esempio familiare come il fuoco da campo per spiegare un concetto scientifico ai più giovani.",
+  "z7d0f73b6": "La testata presenta i risultati con prudenza, sottolineando il carattere piccolo e preliminare dello studio.",
+  "z5ad7e2cb": "La testata mette in evidenza l'uso dell'intelligenza artificiale e il dato sull'invecchiamento più rapido del lato destro.",
+  "zaf715de1": "La testata celebra la forza e la tensione della band, sottolineandone anche la recente svolta più ottimista.",
+  "zb75bd62d": "La testata valorizza l'eccellenza dell'industria spaziale attraverso i propri premi.",
+  "z1379245b": "La testata usa l'immagine della «fumata nera» per sottolineare l'esito incerto della sfida per il rettorato.",
+  "zdb1766a3": "La testata presenta il benessere come un'esperienza legata alla natura incontaminata della costa canadese.",
+  "zdb881d6e": "La testata contrappone il successo sportivo del City al clima teso creato dall'indagine nei suoi confronti.",
+  "z261502af": "La testata mette a confronto le rassicurazioni dei media abcasi con quanto riportato dalla BBC sulla visibilità della chiazza.",
+  "z7ca2ce6f": "La testata privilegia il tono affettivo e della memoria, più che gli aspetti tecnici della demolizione.",
+  "zf1d960c7": "La testata mette in evidenza la giovane età e la lunga esperienza della ragazza, in chiave positiva.",
+  "z016ef377": "La testata sottolinea il legame tra salute e crescita economica e il ruolo internazionale del ministro egiziano.",
+  "z050e823f": "La testata mette in evidenza l'incontro tra visualizzazione dei dati e design di prodotto.",
+  "z6d5477c2": "La testata punta sulla firma di un bartender di fama e sull'uso conviviale del drink.",
+  "z4b28ebe0": "La testata esplora le possibili cause del fenomeno, partendo da un caso concreto documentato.",
+  "zf7bc296b": "La testata sottolinea la casualità della scoperta e la fragilità della specie.",
+  "z1d65e79a": "La testata evidenzia il doppio successo dell'album e il prestigio degli altri candidati.",
+  "zaeb8d185": "La testata evidenzia la fusione tra tradizione e innovazione e il quadro politico della Belt and Road.",
+  "z290970ea": "La testata propone un racconto personale, centrato sull'esperienza emotiva più che sulla destinazione.",
+  "zc5eb4890": "La testata si concentra sui nuovi personaggi annunciati, con taglio informativo per gli appassionati.",
+  "z2bb81d97": "La testata usa la scadenza politica per chiedere che la tutela ambientale entri nel bilancio del Paese.",
+  "z60866a77": "La testata punta sulla speranza di chiudere uno dei grandi misteri del Novecento.",
+  "zec1d2ee2": "La testata, indipendente, mette in luce il costo elevato dei prestiti e la natura del parlamento.",
+  "zcc8e22ea": "La testata mette in evidenza le opere architettoniche raccontate e la lunga gestazione del film.",
+  "z423bf8e5": "La testata punta sulla soluzione pratica a un difetto comune della ricetta.",
+  "zca2e9995": "La testata presenta in esclusiva la proposta e sottolinea l'urgenza del calo degli apprendistati.",
+  "z21e379ae": "La testata sottolinea la conferma di una previsione teorica attesa da decenni.",
+  "z3aa87dd3": "La testata racconta il concerto come uno spettacolo teatrale e introspettivo.",
+  "zaa9be7bf": "La testata mette in evidenza la scala dei progetti e la pressione sulle risorse limitate dell'orbita.",
+  "z4e912451": "La rivista usa la filosofia politica per collegare la salute pubblica alla prevenzione dei conflitti.",
+  "z51c252d3": "La testata racconta l'ospedale dal punto di vista del paziente, sottolineando l'integrazione tra due approcci.",
+  "zd1ad6d69": "La testata punta sulla storia di riscatto del cavallo e sulla fiducia del suo allenatore.",
+  "z43603532": "La testata propone un ritratto della persona, legandolo alla visibilità ottenuta durante il ricovero di Francesco.",
+  "z0f1769eb": "La testata, legata alla piattaforma che trasmette la serie, offre un aggiornamento promozionale per i fan.",
+  "za7bc7e48": "La testata riporta l'iniziativa politica e legale dell'opposizione contro il taglio degli alberi.",
+  "zd4ff4151": "La testata sottolinea che tra i colpiti c'è un operatore legato direttamente al ministero delle Finanze kirghiso.",
+  "z02cbe352": "La testata mette in evidenza l'uso della paglia come materiale da costruzione e il legame con la tutela della biodiversità locale.",
+  "z38ce9b24": "La recensione inserisce il locale nella storia della ristorazione indiana di Birmingham, ricordando il declino del Balti triangle.",
+  "z77ef457f": "La testata mette al centro l'impatto concreto degli scioperi su studenti e lavoratori, invitandoli a raccontare la loro esperienza.",
+  "zf9ed2d1c": "La testata mette in evidenza il problema clinico delle complicazioni da intubazione e la soluzione proposta da due giovani inventori italiani.",
+  "z495f2040": "La testata mette in evidenza la posizione di Cooper contro l'impegno politico esplicito degli artisti.",
+  "za01eb254": "La testata riporta il comunicato dell'azienda, che lega la nomina ai piani di crescita.",
+  "z9bda7771": "La rivista dà voce alle critiche degli specialisti sulla distanza tra le nuove regole e le linee guida cliniche.",
+  "z99e38f1f": "La testata legge la diffusione della bevanda come segno del crescente interesse giapponese per il tè nero.",
+  "z7355f7d0": "La testata celebra il traguardo personale dell'allenatore e la prova di forza del cavallo.",
+  "zee0c7b11": "La testata riporta l'appello delle istituzioni sanitarie estoni legato alla ricorrenza europea.",
+  "zf3ac151f": "La BBC sposta l'attenzione dai danni fisici al costo d'immagine per l'Arabia Saudita.",
+  "z60b60fba": "La testata collega il calo dei prezzi locali all'andamento del mercato mondiale dell'oro.",
+  "z19634e1b": "La testata valorizza il lato emotivo della vicenda e il valore duraturo dei piccoli gesti.",
+  "z9962e510": "La testata mette in evidenza la scelta di materiali naturali per trasformare un componente tecnico in oggetto di design.",
+  "z10557c4b": "La testata sottolinea il contrasto tra la semplicità degli ingredienti e la grandezza del cuoco che ha ideato la ricetta.",
+  "z4cb06e54": "La testata mette in evidenza le ricadute pratiche della sentenza per le scuole e le famiglie.",
+  "zad2bb5f8": "La testata sottolinea il primato geografico della scoperta, gli incendi più a sud mai documentati.",
+  "zcf5dbf62": "La testata mette in evidenza il legame con Lynch e la capacità dell'attore di reinventarsi anche sui social.",
+  "zb0b65de8": "La testata offre consigli pratici di osservazione per gli appassionati nelle notti più buie.",
+  "z896d9068": "La testata evidenzia l'assenza di competenze specifiche del candidato e il suo ruolo nel dibattito sull'origine del virus.",
+  "z1010f3d0": "La testata inserisce la serie nella crescente collaborazione culturale tra Giappone e Corea, pur bocciandone la trama.",
+  "zc5e33cae": "La testata racconta la febbre popolare per Zheng più che l'aspetto tecnico della partita.",
+  "zdbfde0c9": "La testata presenta il termalismo storico come antenato del turismo del benessere.",
+  "ze4b92983": "La testata si concentra sui dettagli dell'annuncio e sulla fonte del nuovo adattamento.",
+  "z080d5b2d": "La testata mette in evidenza l'avvio concreto dei trasferimenti e il requisito dei quindici anni di servizio nella sanità pubblica.",
+  "z2d8a4dad": "La testata contrappone l'annuncio russo ai racconti di veterani ed ex prigionieri, mettendo in dubbio il carattere volontario dell'arruolamento.",
+  "z0e6860da": "La testata sottolinea il contrasto tra la crescente popolarità delle microcar e il rifiuto dell'elettrico da parte dei giovani acquirenti.",
+  "z429b5a45": "La testata mette l'accento sul lato incoraggiante: il successo non è questione di fondi ma di partecipazione locale.",
+  "z28342cc2": "La testata presenta il bando in chiave pratica, evidenziando budget, luogo e scadenza.",
+  "z5db07df3": "La testata dà spazio al messaggio istituzionale del ministero sulla parità di genere a scuola.",
+  "z68506568": "La testata rivendica il significato originario della parola e ne critica l'uso distorto.",
+  "z82788128": "La testata sottolinea il carattere anomalo dell'ammasso e la crescita di una nuova famiglia di oggetti ibridi.",
+  "z84076c81": "La testata evidenzia il ripetersi dello scontro legale e il nodo tecnico tra sconto immediato e rimborso successivo.",
+  "z764a80ff": "La testata mette in evidenza l'entità del finanziamento e il suo obiettivo: catalogare la genetica delle banche dei semi.",
+  "z14964566": "La testata gioca sul contrasto tra lo stile personale semplice dello stilista e la ricchezza artigianale delle sue creazioni.",
+  "z3b487c95": "La testata evidenzia il carattere inedito dell'intesa e la coincidenza con le partite NBA a Macao.",
+  "z8dc33013": "La testata riporta l'annuncio con i dettagli editoriali sulla conclusione imminente del manga.",
+  "z68f03f90": "La testata mette in luce il divario tra una norma già in vigore e la sua mancata attuazione.",
+  "z1fa76a05": "La testata analizza le cause strutturali della sottorappresentanza femminile, lasciando aperta la prospettiva di risultati storici.",
+  "z5c86129d": "La testata offre una panoramica dei candidati e delle tensioni interne alle coalizioni.",
+  "z2d8ffa16": "La testata sottolinea la portata della scoperta e la lunga durata del progetto di ricerca.",
+  "zec5ae5b9": "La testata evidenzia lo stop definitivo per il costruttore dopo il rifiuto dell'ente urbanistico.",
+  "zf9f2a94a": "La testata riprende il lato più provocatorio dell'intervento, centrato sul rischio di svalutare lo studio.",
+  "zdce0d5eb": "La testata racconta la nascita della band come rinascita personale di due musicisti in crisi.",
+  "z1be3d46d": "La testata evidenzia il legame tra benefici offerti dall'industria e comportamenti prescrittivi, con effetti sui costi.",
+  "zd290012a": "La testata mette in evidenza sia l'aumento dei fondi sia la novità della formazione dottorale più rapida.",
+  "zbcbe1639": "La testata dà risalto alla vitalità creativa dell'artista nonostante l'età e le restrizioni della pandemia.",
+  "zb01c3b99": "La testata racconta la città attraverso la riconversione dei luoghi industriali in spazi di cultura e ristorazione.",
+  "z332c1540": "La testata riporta l'annuncio ufficiale con il percorso editoriale dell'opera, dal web alla televisione.",
+  "z2d0b130f": "The Point mette in risalto l'entità della spesa pubblica e l'obiettivo di garantire l'accesso ai farmaci a tutta la popolazione.",
+  "zea2937d5": "Deutsche Welle sottolinea la diffusione nel tedesco di un termine nato in inglese e già premiato da Oxford.",
+  "z6d3e0ad6": "Il Sole 24 Ore mette in evidenza il richiamo ai principi costituzionali e alla prevenzione.",
+  "za399b3f8": "The Architects' Journal dà voce alla denuncia di un professionista noto, evidenziando le criticità del nuovo regime di formazione.",
+  "z23a89496": "Orizzonte Scuola punta sugli aspetti pratici e normativi, offrendo materiali operativi a scuole e studenti.",
+  "zce950239": "Pitchfork mette in evidenza l'impegno politico di musicisti di generi diversi e il concerto benefico.",
+  "z6a2ad1e4": "Sky & Telescope sottolinea la rarità e la spettacolarità del fenomeno per gli osservatori.",
+  "z07b7319a": "STAT mette in luce le ricadute economiche delle valutazioni per gli assicuratori, con Humana in testa.",
+  "zc40fbc02": "Science pone l'accento sulle conseguenze per i lavoratori e sull'incertezza dell'intera professione.",
+  "z6ded8cf3": "la Repubblica, citando Le Soir, mette in evidenza i rischi della misurazione costante delle passioni culturali.",
+  "zf3cb9bed": "The Guardian valorizza l'accessibilità in treno del percorso e i suoi piaceri, dal paesaggio ai pub.",
+  "z2385e131": "Sierraloaded mette in evidenza la collaborazione tra ministero dell'Istruzione e autorità sanitarie.",
+  "z01d08afa": "Deutsche Welle evidenzia il paradosso tra spesa elevata e malcontento, puntando sull'equità nella distribuzione dei fondi.",
+  "z951cbc7e": "Il Sole 24 Ore mette in evidenza il riflesso del calo dei prezzi sulle scelte fiscali del governo.",
+  "z38258f7a": "The Architects' Journal sottolinea il contrasto tra il ritorno all'utile e il calo continuo del fatturato."
  },
  "contesti": {},
  "cronologie": {},
@@ -17849,6 +21531,961 @@ window.EDIZIONI["2026-10-11-sera"] = {
     "Hungary"
    ],
    "pt": []
+  },
+  "z1240d0b9": {
+   "n": "Khyber Pakhtunkhwa",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z51e140db": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6b5d64da": {
+   "n": "Cagliari",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zcf4a7028": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z769fbefe": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z3eb50897": {
+   "n": "Africa",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z92fc39c3": {
+   "n": "Barcellona",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z7e7695e1": {
+   "n": "Valchiavenna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8cd13aea": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z998bc80c": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "ze1621155": {
+   "n": "Gola di Imbros, Creta",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "za76be451": {
+   "n": "Sud Sudan",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z52c8ff0e": {
+   "n": "Khartoum",
+   "p": [
+    "Sudan"
+   ],
+   "pt": []
+  },
+  "z2008ce97": {
+   "n": "Città del Vaticano",
+   "p": [
+    "Vatican"
+   ],
+   "pt": []
+  },
+  "z60686d2a": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z7560f416": {
+   "n": "Amsterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zb7c3a2e9": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z77b5179e": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9eda7e9f": {
+   "n": "Brisbane",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zb8bb0688": {
+   "n": "Fobos, Marte",
+   "p": [],
+   "pt": []
+  },
+  "z4e734514": {
+   "n": "Malta",
+   "p": [
+    "Malta"
+   ],
+   "pt": []
+  },
+  "za39d8a16": {
+   "n": "Stato di Sennar",
+   "p": [
+    "Sudan"
+   ],
+   "pt": []
+  },
+  "zd7455eee": {
+   "n": "Sanremo",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zcba18c70": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z44b901c6": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zf6fadd9a": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z92f4cbb5": {
+   "n": "Valchiavenna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z63a230b1": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z8ca91aac": {
+   "n": "Exeter",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z54a1abdb": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z96ec5206": {
+   "n": "Siempang",
+   "p": [
+    "Cambodia"
+   ],
+   "pt": []
+  },
+  "zcfe6bc75": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z7648af19": {
+   "n": "Coriano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z3421c7b2": {
+   "n": "Miercurea Ciuc",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z3409f153": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc9690783": {
+   "n": "Pietermaritzburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "ze31acd2e": {
+   "n": "Mantova",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2f4d5138": {
+   "n": "Oceano Pacifico",
+   "p": [],
+   "pt": []
+  },
+  "z2ad1e2a2": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6d99a1c8": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z727016d6": {
+   "n": "Bordeaux",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3a30256d": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z5446a1cf": {
+   "n": "Serowe",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "z50f04961": {
+   "n": "Kosovo",
+   "p": [
+    "Kosovo"
+   ],
+   "pt": []
+  },
+  "zafbaeaaa": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "zc992c5b7": {
+   "n": "Africa",
+   "p": [],
+   "pt": []
+  },
+  "z49569abe": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z4f21ced2": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zaf715de1": {
+   "n": "Irlanda",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z1379245b": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zdb1766a3": {
+   "n": "Isola di Vancouver",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "zdb881d6e": {
+   "n": "Liverpool",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z261502af": {
+   "n": "Sochi",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z7ca2ce6f": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf1d960c7": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z016ef377": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z050e823f": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z6d5477c2": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4b28ebe0": {
+   "n": "Lione",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zf7bc296b": {
+   "n": "Colombia",
+   "p": [
+    "Colombia"
+   ],
+   "pt": []
+  },
+  "z1d65e79a": {
+   "n": "Galles",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zaeb8d185": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z290970ea": {
+   "n": "Costa Rica",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z2bb81d97": {
+   "n": "Angola",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "z60866a77": {
+   "n": "Oceano Pacifico",
+   "p": [],
+   "pt": []
+  },
+  "zec1d2ee2": {
+   "n": "Naypyidaw",
+   "p": [
+    "Myanmar"
+   ],
+   "pt": []
+  },
+  "z423bf8e5": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zca2e9995": {
+   "n": "Inghilterra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z21e379ae": {
+   "n": "Via Lattea",
+   "p": [],
+   "pt": []
+  },
+  "z3aa87dd3": {
+   "n": "Spoleto",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zaa9be7bf": {
+   "n": "Orbita terrestre",
+   "p": [],
+   "pt": []
+  },
+  "z51c252d3": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zd1ad6d69": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z43603532": {
+   "n": "Città del Vaticano",
+   "p": [
+    "Vatican"
+   ],
+   "pt": []
+  },
+  "za7bc7e48": {
+   "n": "Foresta di Aberdare",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zd4ff4151": {
+   "n": "Kirghizistan",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z02cbe352": {
+   "n": "Estremadura",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z38ce9b24": {
+   "n": "Birmingham",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z77ef457f": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf9ed2d1c": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z495f2040": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za01eb254": {
+   "n": "Durango",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9bda7771": {
+   "n": "Canada",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z99e38f1f": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z7355f7d0": {
+   "n": "Sha Tin, Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zee0c7b11": {
+   "n": "Estonia",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zf3ac151f": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z60b60fba": {
+   "n": "Tagikistan",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z19634e1b": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z9962e510": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z10557c4b": {
+   "n": "Svizzera",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z4cb06e54": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zad2bb5f8": {
+   "n": "Antartide",
+   "p": [],
+   "pt": []
+  },
+  "zcf5dbf62": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb0b65de8": {
+   "n": "Cielo",
+   "p": [],
+   "pt": []
+  },
+  "z896d9068": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1010f3d0": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zc5e33cae": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zdbfde0c9": {
+   "n": "Europa",
+   "p": [
+    "United Kingdom",
+    "Belgium",
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "ze4b92983": {
+   "n": "Yokohama",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z080d5b2d": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z2d8a4dad": {
+   "n": "Russia",
+   "p": [
+    "Russia",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z0e6860da": {
+   "n": "Norvegia",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z429b5a45": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z28342cc2": {
+   "n": "New Hampshire",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5db07df3": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z68506568": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z82788128": {
+   "n": "Via Lattea",
+   "p": [],
+   "pt": []
+  },
+  "z84076c81": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z764a80ff": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z14964566": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z3b487c95": {
+   "n": "Shanghai",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z8dc33013": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z68f03f90": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z1fa76a05": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5c86129d": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2d8ffa16": {
+   "n": "Norvegia meridionale",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "zec5ae5b9": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf9f2a94a": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zdce0d5eb": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z1be3d46d": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd290012a": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbcbe1639": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zb01c3b99": {
+   "n": "Eindhoven",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z332c1540": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z2d0b130f": {
+   "n": "Kotu",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "zea2937d5": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z6d3e0ad6": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za399b3f8": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z23a89496": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zce950239": {
+   "n": "Austin",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6a2ad1e4": {
+   "n": "Cielo",
+   "p": [],
+   "pt": []
+  },
+  "z07b7319a": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc40fbc02": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6ded8cf3": {
+   "n": "Belgio",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zf3cb9bed": {
+   "n": "Shropshire",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z2385e131": {
+   "n": "Sierra Leone",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "z01d08afa": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z951cbc7e": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z38258f7a": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -18251,7 +22888,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z59687c01": 1,
   "z247f760b": 1,
   "z3ae75ed8": 1,
-  "z17cf9c95": 1,
   "zf09e6719": 1,
   "zaeb5b139": 1,
   "z61509d2a": 1,
@@ -18321,7 +22957,157 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z2d034aa7": 1,
   "z3198afcd": 1,
   "z563fa00e": 1,
-  "z758c1b66": 1
+  "z758c1b66": 1,
+  "z1240d0b9": 2,
+  "z51e140db": 1,
+  "z6b5d64da": 2,
+  "zcf4a7028": 1,
+  "z769fbefe": 2,
+  "z3eb50897": 1,
+  "z92fc39c3": 1,
+  "z7e7695e1": 1,
+  "z8cd13aea": 1,
+  "z998bc80c": 2,
+  "ze1621155": 1,
+  "za76be451": 1,
+  "z52c8ff0e": 1,
+  "z2008ce97": 2,
+  "z60686d2a": 1,
+  "z7560f416": 1,
+  "zb7c3a2e9": 1,
+  "z77b5179e": 1,
+  "z9eda7e9f": 1,
+  "zb8bb0688": 1,
+  "z4e734514": 1,
+  "za39d8a16": 1,
+  "zd7455eee": 1,
+  "zcba18c70": 1,
+  "z44b901c6": 1,
+  "zf6fadd9a": 1,
+  "z92f4cbb5": 1,
+  "z63a230b1": 1,
+  "z8ca91aac": 1,
+  "z54a1abdb": 1,
+  "z96ec5206": 1,
+  "zcfe6bc75": 1,
+  "z7648af19": 1,
+  "z3421c7b2": 1,
+  "z3409f153": 1,
+  "zc9690783": 1,
+  "z34622722": 1,
+  "ze31acd2e": 1,
+  "z2f4d5138": 1,
+  "z2ad1e2a2": 1,
+  "z6d99a1c8": 1,
+  "z727016d6": 1,
+  "z3a30256d": 1,
+  "z5446a1cf": 1,
+  "z50f04961": 1,
+  "zafbaeaaa": 1,
+  "zc992c5b7": 1,
+  "z49569abe": 1,
+  "z0bb51dd0": 1,
+  "z4f21ced2": 1,
+  "z067c2c5c": 1,
+  "z7d0f73b6": 1,
+  "z5ad7e2cb": 1,
+  "zaf715de1": 1,
+  "zb75bd62d": 1,
+  "z1379245b": 1,
+  "zdb1766a3": 1,
+  "zdb881d6e": 1,
+  "z261502af": 1,
+  "z7ca2ce6f": 1,
+  "zf1d960c7": 1,
+  "z016ef377": 1,
+  "z050e823f": 1,
+  "z6d5477c2": 1,
+  "z4b28ebe0": 1,
+  "zf7bc296b": 1,
+  "z1d65e79a": 1,
+  "zaeb8d185": 1,
+  "z290970ea": 1,
+  "zc5eb4890": 1,
+  "z2bb81d97": 1,
+  "z60866a77": 1,
+  "zec1d2ee2": 1,
+  "zcc8e22ea": 1,
+  "z423bf8e5": 1,
+  "zca2e9995": 1,
+  "z21e379ae": 1,
+  "z3aa87dd3": 1,
+  "zaa9be7bf": 1,
+  "z4e912451": 1,
+  "z51c252d3": 1,
+  "zd1ad6d69": 1,
+  "z43603532": 1,
+  "z0f1769eb": 1,
+  "za7bc7e48": 1,
+  "zd4ff4151": 1,
+  "z02cbe352": 1,
+  "z38ce9b24": 1,
+  "z77ef457f": 1,
+  "zf9ed2d1c": 1,
+  "z495f2040": 1,
+  "za01eb254": 1,
+  "z9bda7771": 1,
+  "z99e38f1f": 1,
+  "z7355f7d0": 1,
+  "zee0c7b11": 1,
+  "zf3ac151f": 2,
+  "z60b60fba": 1,
+  "z19634e1b": 1,
+  "z9962e510": 1,
+  "z10557c4b": 1,
+  "z4cb06e54": 1,
+  "zad2bb5f8": 1,
+  "zcf5dbf62": 1,
+  "zb0b65de8": 1,
+  "z896d9068": 1,
+  "z1010f3d0": 1,
+  "zc5e33cae": 1,
+  "zdbfde0c9": 1,
+  "ze4b92983": 1,
+  "z080d5b2d": 1,
+  "z2d8a4dad": 1,
+  "z0e6860da": 1,
+  "z429b5a45": 1,
+  "z28342cc2": 1,
+  "z5db07df3": 1,
+  "z68506568": 1,
+  "z82788128": 1,
+  "z84076c81": 1,
+  "z764a80ff": 1,
+  "z14964566": 1,
+  "z3b487c95": 1,
+  "z8dc33013": 1,
+  "z68f03f90": 1,
+  "z1fa76a05": 1,
+  "z5c86129d": 1,
+  "z2d8ffa16": 1,
+  "zec5ae5b9": 1,
+  "zf9f2a94a": 1,
+  "zdce0d5eb": 1,
+  "z1be3d46d": 1,
+  "zd290012a": 1,
+  "zbcbe1639": 1,
+  "zb01c3b99": 1,
+  "z332c1540": 1,
+  "z2d0b130f": 1,
+  "zea2937d5": 1,
+  "z6d3e0ad6": 1,
+  "za399b3f8": 1,
+  "z23a89496": 1,
+  "zce950239": 1,
+  "z6a2ad1e4": 1,
+  "z07b7319a": 1,
+  "zc40fbc02": 1,
+  "z6ded8cf3": 1,
+  "zf3cb9bed": 1,
+  "z2385e131": 1,
+  "z01d08afa": 1,
+  "z951cbc7e": 1,
+  "z38258f7a": 1
  },
  "video": {},
  "pillole": []
