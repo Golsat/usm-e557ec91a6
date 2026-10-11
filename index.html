@@ -488,7 +488,10 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
 @media print{.xp,.xp-pop,.toast-xp{display:none!important}}
 .card.sera{position:relative}
 .sera-corner{position:absolute;top:-10px;right:10px;z-index:3;font:800 10.5px var(--sans);letter-spacing:.08em;text-transform:uppercase;padding:3px 9px;border-radius:99px;background:#2b2f52;color:#f4efcf;border:1px solid #8b90c8;box-shadow:0 2px 6px rgba(0,0,0,.3)}
-@media print{.sera-corner{border-color:#000;color:#000;background:#fff}}
+.ora-pub{position:absolute;top:-10px;right:10px;z-index:3;font:700 10.5px var(--sans);letter-spacing:.04em;padding:3px 9px;border-radius:99px;background:var(--card);color:var(--muted);border:1px solid var(--hair);box-shadow:0 2px 6px rgba(0,0,0,.18);cursor:help}
+.eye .uscita{font:800 10px var(--sans);letter-spacing:.06em;padding:2px 7px;border-radius:99px;background:#2b2f52;color:#f4efcf;border:1px solid #8b90c8;white-space:nowrap}
+.eye .uscita.u-mattino{background:#f4e3a6;color:#4a3a00;border-color:#d8b94a}
+@media print{.sera-corner,.ora-pub,.eye .uscita{border-color:#000;color:#000;background:#fff;box-shadow:none}}
 .nov-slide{display:flex;gap:10px;align-items:flex-start;min-height:104px;animation:novIn .5s ease}
 .nov-slide .nov-ic{font-size:28px;line-height:1;flex:none;width:40px;height:40px;display:grid;place-items:center;border-radius:10px;background:color-mix(in srgb,var(--accent) 14%,var(--card))}
 .nov-slide b{font:700 13.5px/1.25 var(--sans)}
@@ -984,6 +987,22 @@ function verificaDi(n){
 }
 function riguardaItalia(n){ const L = LUOGHI[n.id]; if(L && L.p && L.p.length) return L.p.includes("Italy") ? 1 : 0; return (n.fonti[0] && (n.fonti[0].atlas==="Italy" || n.fonti[0].p==="IT")) ? 1 : 0; }
 function rilievo(n){ const r = RILIEVO[n.id]; return r || (n.fonti.length>=3?3:n.fonti.length===2?2:1); }
+/* ===== ORA DELLA TESTATA E USCITA DEL GIORNO ===== */
+const USCITE = {mattino:["☀ Mattino","Edizione del mattino"], "13":["↻ 13","Aggiornamento delle 13"], "17":["↻ 17","Aggiornamento delle 17"], sera:["🌙 Sera","Aggiornamento della sera"]};
+function uscitaDi(n){                                  // campo esplicito `uscita`; altrimenti si ricava da sera + ora
+  if(n.uscita && USCITE[n.uscita]) return n.uscita;
+  if(!n.sera) return "mattino";
+  return !n.ora ? "sera" : n.ora<"15:00" ? "13" : n.ora<"18:30" ? "17" : "sera";
+}
+const FMT_ORA = new Intl.DateTimeFormat("it-IT",{timeZone:"Europe/Rome",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",hourCycle:"h23"});
+function oraIt(d){ return FMT_ORA.format(d).replace(",","").replace(/\.\s/," ").replace(/\.$/,""); }   // «11 ott 07:42»
+function oraTestata(fonti){                            // la più recente tra le fonti; niente data o data nel futuro = nessun marcatore
+  const O = window.ORARI||{}, ora = Date.now()+10*60000, righe = [];
+  fonti.forEach(f=>{ const iso = O[f.u]; if(!iso) return; const d = new Date(iso); if(isNaN(d) || d.getTime()>ora) return; righe.push({d, n:f.n}); });
+  if(!righe.length) return null;
+  righe.sort((a,b)=>b.d-a.d);
+  return {testo:oraIt(righe[0].d), dettaglio:"Ora di pubblicazione della testata (ora italiana)\n"+righe.map(r=>r.n+": "+oraIt(r.d)).join("\n")};
+}
 function cardHTML(n){
   const fa = n.fonti.filter(x=>!offFonti.has(x.n));
   const f0 = fa[0]||n.fonti[0], p = f0.p;
@@ -996,10 +1015,10 @@ function cardHTML(n){
   }).join(" ");
   return `<article style="--tn:${coloreN(nazioneDi(n).chiave)}" class="card p-${p} r${rilievo(n)}${n.sera?" sera":""}${n.good?" good":""}${letti.has(n.id)?" read":""}${nascoste.has(kn(n))?" nascosta":""}" data-id="${n.id}" data-p="${p}" tabindex="0" aria-expanded="false">
     <div class="naz-big" aria-hidden="true">${bandiera(nazioneDi(n).chiave,40,"flag-s")}${esc(nazioneDi(n).nome)}</div>
-    ${n.sera?`<span class="sera-corner" title="Notizia aggiunta dopo l'edizione del mattino">${n.ora&&n.ora<"18:30"?"↻ "+n.ora:"🌙 Sera"}</span>`:""}
+    ${(()=>{ const o = oraTestata(fa); return o ? `<span class="ora-pub" title="${esc(o.dettaglio)}">🕒 ${esc(o.testo)}</span>` : ""; })()}
     <div class="eye">${(()=>{ const L = LUOGHI[n.id], ev = L && (L.p||[])[0], atl0 = f0.atlas||CITTA_PAESE[f0.c];
       const chip = ev ? bandiera(ev,80,"flag-m")+esc(nomePaese(ev)) : (L ? esc(L.n) : bandiera(atl0,80,"flag-m")+esc(nPaese));
-      return `<span class="nat evento" title="Il Paese di cui si parla">${chip}</span><span class="where" title="Chi scrive: il punto di vista">${esc(f0.n)} · ${esc(f0.c)}${multi?" +"+(fa.length-1):""} ${bandiera(atl0,40,"flag-s flag-r")}</span>${L&&ev?`<span class="dove" title="Dove accade il fatto">${esc(L.n)}</span>`:""}`; })()}${n.good?`<span class="buona" title="Buona notizia">☀ Buona notizia</span>`:""}${(()=>{ const v = verificaDi(n); return `<span class="verifica ${v.cl}" title="${esc(v.t)}">${v.s}<small>${v.cl==="v0"?" fonte unica":""}</small></span>`; })()}${rilievo(n)>=2?`<span class="stelle" title="${rilievo(n)===3?"Da non perdere":"Importante"}">${"★".repeat(rilievo(n))}</span>`:""}</div>
+      return `<span class="nat evento" title="Il Paese di cui si parla">${chip}</span><span class="where" title="Chi scrive: il punto di vista">${esc(f0.n)} · ${esc(f0.c)}${multi?" +"+(fa.length-1):""} ${bandiera(atl0,40,"flag-s flag-r")}</span>${(()=>{ const u = USCITE[uscitaDi(n)]; return `<span class="uscita u-${uscitaDi(n)}" title="${u[1]}">${u[0]}</span>`; })()}${L&&ev?`<span class="dove" title="Dove accade il fatto">${esc(L.n)}</span>`:""}`; })()}${n.good?`<span class="buona" title="Buona notizia">☀ Buona notizia</span>`:""}${(()=>{ const v = verificaDi(n); return `<span class="verifica ${v.cl}" title="${esc(v.t)}">${v.s}<small>${v.cl==="v0"?" fonte unica":""}</small></span>`; })()}${rilievo(n)>=2?`<span class="stelle" title="${rilievo(n)===3?"Da non perdere":"Importante"}">${"★".repeat(rilievo(n))}</span>`:""}</div>
     ${n.sub&&SUB[n.sub]?`<div class="subtag" style="--sc:${SUB[n.sub][2]}"><span aria-hidden="true">${SUB[n.sub][0]}</span> ${SUB[n.sub][1]}</div>`:""}
     <h3>${esc(n.titolo)}</h3>
     <p class="lead">${glossa(esc(n.lead))}</p>
@@ -1851,7 +1870,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261010-2345";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261011-1018";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1869,7 +1888,7 @@ async function avvia(){
   }
   await carica("edizioni/indice.js");
   const lista = window.INDICE||[];
-  await Promise.all(lista.map(async e=>{ await carica("edizioni/"+e.k+".js"); await carica("dati/"+e.k.slice(0,10)+".js"); await carica("dati/nazioni-"+e.k.slice(0,10)+".js"); await carica("dati/titoli-it-"+e.k.slice(0,10)+".js"); }));
+  await Promise.all(lista.map(async e=>{ await carica("edizioni/"+e.k+".js"); await carica("dati/"+e.k.slice(0,10)+".js"); await carica("dati/nazioni-"+e.k.slice(0,10)+".js"); await carica("dati/titoli-it-"+e.k.slice(0,10)+".js"); await carica("dati/orari-"+e.k.slice(0,10)+".js"); }));
   const mattini = lista.filter(e=>e.tipo!=="sera");       // si apre l'edizione completa del mattino; la sera (poche notizie) si sceglie dall'archivio
   const ultima = (mattini.length ? mattini[mattini.length-1] : lista[lista.length-1]||{}).k || null;
   if(!ultima || !(window.EDIZIONI&&window.EDIZIONI[ultima])){
@@ -2066,7 +2085,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261010-2345";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261011-1018";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
