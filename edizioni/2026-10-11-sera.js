@@ -3,6 +3,1369 @@ window.EDIZIONI["2026-10-11-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zd22b2c73",
+   "sez": "prima",
+   "titolo": "Nepal, nuova piena improvvisa nel centro del Paese: case e ponti spazzati via",
+   "orig": "Homes and bridges swept away as fresh floods hit Nepal",
+   "lead": "A meno di due mesi dalle alluvioni catastrofiche di agosto, una piena improvvisa del fiume Budhi Gandaki, nel centro del Nepal, ha trascinato via edifici e ponti. Secondo Al Jazeera e il NZ Herald almeno cinque persone risultano disperse; Sky News riferisce che l'inondazione, innescata da una frana, ha distrutto case lungo il fiume e che alcuni abitanti sono stati evacuati in elicottero. Il capo dell'agenzia per la gestione dei disastri, Dharmaraj Uprety, citato dal Kathmandu Post, afferma che gli avvisi via SMS hanno spinto i residenti a salire in zone più alte, evitando perdite di vite umane; danneggiati anche villaggi e impianti idroelettrici.",
+   "more": [
+    "Il Budhi Gandaki nasce sull'Himalaya e attraversa il Nepal centrale. I fiumi himalayani possono ingrossarsi in poche ore, soprattutto quando frane o detriti ne ostruiscono il corso e poi cedono di colpo: per questo i sistemi di allerta rapida, come gli SMS alla popolazione, hanno un peso decisivo."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/residents-evacuated-after-flash-flooding-destroys-homes-in-nepal-13597674",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/interviews/2026/10/11/sms-alerts-helped-avert-loss-of-life-in-budhi-gandaki-floods-says-disaster-management-chief",
+     "angolo": "",
+     "atlas": "Nepal"
+    },
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/nepal-flash-floods-sweep-away-houses-and-bridges-and-leave-five-people-missing/RFTGVN3RLVCNNIE6ZVHGFDMDZY/",
+     "angolo": "",
+     "atlas": "New Zealand"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "14:03"
+  },
+  {
+   "id": "z02157ef8",
+   "sez": "prima",
+   "titolo": "Tregua energetica annunciata da Trump, ma la Russia colpisce la centrale di Kharkiv",
+   "orig": "Russia struck Kharkiv's power plant shortly after Trump announced 'energy ceasefire'",
+   "lead": "Dopo l'annuncio di Donald Trump di una «tregua energetica» tra Russia e Ucraina, con l'impegno a fermare gli attacchi a raffinerie, centrali elettriche e altre infrastrutture, l'Ufficio del presidente ucraino ha confermato che la centrale elettrica di Kharkiv è stata colpita poco dopo. Volodymyr Zelensky, riferiscono Al Jazeera e CBC, ha detto di non aver ancora visto l'accordo («una notizia per me») ma che l'Ucraina lo sosterrebbe; aveva discusso l'ipotesi con il premier canadese Mark Carney, il presidente finlandese Alexander Stubb e il segretario generale della Nato Mark Rutte. Il Kyiv Independent racconta di nuovi attacchi russi alle infrastrutture energetiche attorno a Kiev.",
+   "more": [
+    "Le infrastrutture energetiche sono da tempo un obiettivo della guerra: la Russia colpisce centrali e reti elettriche ucraine, mentre i droni ucraini colpiscono raffinerie e depositi di carburante russi. Una tregua limitata all'energia sarebbe un primo passo parziale, ma finora non risulta una conferma ufficiale da parte di Mosca."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/russia-struck-kharkivs-power-plant-shortly-after-trump-announced-energy-ceasefire/",
+     "angolo": "",
+     "atlas": "Ukraine"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/kyiv-pushes-back-trump-call-for-new-ukraine-president-after-diesel-deal-9.7377471?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/cmv402f5j000m356qv242mked",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "19:21"
+  },
+  {
+   "id": "z840a281b",
+   "sez": "prima",
+   "titolo": "La Germania conferma il sostegno a Zelensky e respinge una richiesta di Trump",
+   "orig": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
+   "lead": "Secondo la Deutsche Welle, il ministro degli Esteri tedesco ha dichiarato che Berlino «sostiene pienamente» il presidente ucraino Volodymyr Zelensky e continuerà a fare pressione sulla Russia perché metta fine alla guerra. Il titolo della DW parla di una richiesta di Trump respinta, senza che l'occhiello ne precisi il contenuto. Nelle stesse ore, riferisce Azatutyun, Zelensky ha affermato che scegliere il proprio leader è «una questione degli ucraini», che Putin vorrebbe cambiare il capo dell'Ucraina e che, con un cessate il fuoco di 60 giorni, l'Ucraina organizzerebbe le elezioni.",
+   "more": [
+    "Il tema delle elezioni in Ucraina è tornato più volte nel dibattito: la legge marziale in vigore dal 2022 impedisce di votare, e un eventuale voto richiederebbe una tregua stabile e garanzie di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/tvek-mez-60-%d6%85rya-hradadar-ev-menk-kkazmakerpenk-yntroutyounner-zelenski/33874578.html",
+     "angolo": "",
+     "atlas": "Armenia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "11:13"
+  },
+  {
+   "id": "zee5d8068",
+   "sez": "prima",
+   "titolo": "Arabia Saudita, gli Houthi rivendicano nuovi attacchi: colpito anche l'aeroporto di Dammam",
+   "orig": "Σαουδική Αραβία: Επιθέσεις κατά των αεροδρομίων του Νταμάμ και του Ριάντ – Οι Χούθι ανέλαβαν την ευθύνη για σειρά πληγμάτων",
+   "lead": "L'autorità saudita per l'aviazione civile ha annunciato che anche domenica l'aeroporto internazionale King Fahd di Dammam, nella Provincia Orientale, è stato colpito, poco dopo che i ribelli Houthi dello Yemen avevano rivendicato l'attacco; valutazione dei danni e verifiche di sicurezza erano ancora in corso. Secondo Rai News gli Houthi promettono nuovi raid e invitano a evitare gli scali sauditi, ritenendo Riad responsabile se cercherà di fermarli. Il ministero degli Esteri estone, riferisce ERR, sconsiglia ora con forza i viaggi in Arabia Saudita e nella regione circostante a causa degli attacchi sempre più frequenti.",
+   "more": [
+    "Gli Houthi controllano gran parte dello Yemen occidentale e sono sostenuti dall'Iran; da giorni l'Arabia Saudita e il governo yemenita sono impegnati in un'offensiva contro di loro, e i ribelli rispondono con missili e droni su obiettivi sauditi. I bilanci arrivano in gran parte dalle parti in causa."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/saoudiki-aravia-epitheseis-kata-ton-aerodromion-tou-ntamam-kai-tou-riant-oi-xouthi-anelavan-tin-eythyni-gia-seira-pligmaton/",
+     "angolo": "",
+     "atlas": "Greece"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/houthi-faremo-nuovi-raid-evitare-scali-sauditi-96eb24ed-204e-4724-b0cf-ba1863e22c65.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610163412/estonian-foreign-ministry-strongly-advises-against-travel-to-saudi-arabia",
+     "angolo": "",
+     "atlas": "Estonia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:56"
+  },
+  {
+   "id": "z44277e97",
+   "sez": "mondo",
+   "titolo": "Nello Stretto di Hormuz una nave viene colpita: due marinai indiani dispersi, Nuova Delhi condanna",
+   "orig": "'Deeply concerning': India condemns attack on vessel carrying Indian crew off Oman coast",
+   "lead": "L'India ha condannato come «molto preoccupante» l'attacco a una nave con equipaggio indiano al largo della costa dell'Oman, nello Stretto di Hormuz. Secondo l'Indian Express e Gulf News due marinai indiani risultano dispersi dopo che l'imbarcazione è stata colpita da un drone. Intanto, riferisce l'agenzia russa TASS, l'Iran avverte le navi di non attraversare lo Stretto con i sistemi di navigazione spenti: in quel caso saranno «soggette a severe punizioni».",
+   "more": [
+    "Lo Stretto di Hormuz, tra Oman e Iran, è uno dei passaggi marittimi più importanti per il petrolio mondiale. Attacchi alle navi in quest'area incidono subito su assicurazioni, rotte e prezzi dell'energia."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/deeply-concerning-india-condemns-attack-on-vessel-carrying-indian-crew-off-oman-coast/articleshow/134876803.cms",
+     "angolo": "",
+     "atlas": "India"
+    },
+    {
+     "n": "The Indian Express",
+     "p": "XX",
+     "c": "Nuova Delhi",
+     "u": "https://indianexpress.com/article/india/india-condemns-strait-of-hormuz-attacks-2-indian-sailors-missing-10917154/",
+     "angolo": "",
+     "atlas": "India"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/asia/india/two-indian-seafarers-missing-after-vessel-hit-by-drone-in-strait-of-hormuz-1.500706843",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/world/2200591",
+     "angolo": "",
+     "atlas": "Russia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:20"
+  },
+  {
+   "id": "zde58ab32",
+   "sez": "mondo",
+   "titolo": "Brasile, il tribunale elettorale sospende il canale WhatsApp «Esercito di Lula», poi la misura cade",
+   "orig": "Lula afirma que PT entrará na Justiça contra suspensão de canal",
+   "lead": "In piena campagna elettorale in Brasile, il presidente del Tribunale superiore elettorale (TSE), Kassio Nunes Marques, ha ordinato a WhatsApp di sospendere il canale «Exército do Lula», gestito dal deputato André Janones e con oltre 3 milioni di iscritti, su richiesta della campagna di Flávio Bolsonaro. Lula, candidato alla rielezione, ha detto che il Partito dei Lavoratori si rivolgerà alla giustizia: «Non accetteremo ingerenze indebite nelle elezioni». Nel primo pomeriggio, riferisce la Folha de S.Paulo, il magistrato elettorale Ricardo Villas Bôas Cueva ha ripristinato il canale. La Jornada aggiunge che la campagna di Lula denuncia anche presunti blocchi di contenuti da parte di Meta.",
+   "more": [
+    "Il TSE è l'organo che organizza e controlla le elezioni in Brasile e può intervenire anche sui contenuti diffusi online durante la campagna. Le sue decisioni possono essere riviste da altri magistrati dello stesso tribunale."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/lula-afirma-que-pt-entrara-na-justica-contra-suspensao-de-canal",
+     "angolo": "",
+     "atlas": "Brazil"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/11/publico-brasil/noticia/justica-atende-pedido-flavio-bolsonaro-manda-censurar-canal-prolula-2191005",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/corregedor-do-tse-derruba-censura-de-kassio-e-libera-canal-pro-lula-criado-por-janones.shtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    },
+    {
+     "n": "La Jornada",
+     "p": "XX",
+     "c": "Città del Messico",
+     "u": "https://www.jornada.com.mx/2026/10/11/mundo/018n2mun?partner=rss",
+     "angolo": "",
+     "atlas": "Mexico"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "19:06"
+  },
+  {
+   "id": "z669a3889",
+   "sez": "mondo",
+   "titolo": "Israele, Netanyahu chiede di indagare e perseguire i militari che compaiono nel documentario «NAZA»",
+   "orig": "Netanyahu cere anchetarea penală a militarilor care apar în documentarul „NAZA”: „Crime împotriva securității statului”",
+   "lead": "Il primo ministro Benjamin Netanyahu ha ordinato di indagare e perseguire i partecipanti al documentario «NAZA», che, secondo l'agenzia EFE ripresa da HotNews, racconta le operazioni a Gaza e le loro conseguenze per i civili attraverso le testimonianze di 24 militari e funzionari dell'intelligence israeliani. Haaretz scrive che, in una lettera al capo di stato maggiore, al capo dello Shin Bet e alla procuratrice generale, Netanyahu accusa i militari di aver «rivelato informazioni riservate» e violato la sicurezza di un'unità di intelligence. Il Washington Post ricorda che il film, applaudito alla Mostra di Venezia, è stato definito da Netanyahu parte di una «istigazione antisemita globale».",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/netanyahu-cere-anchetarea-penala-a-militarilor-care-apar-in-documentarul-naza-crime-impotriva-securitatii-statului-2373129",
+     "angolo": "",
+     "atlas": "Romania"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-security/2026-10-11/ty-article/.premium/netanyahu-orders-to-uncover-identity-of-soldiers-interviewed-in-naza/000001a1-2c02-d618-adfb-be9285810000",
+     "angolo": "",
+     "atlas": "Israel"
+    },
+    {
+     "n": "The Washington Post",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.washingtonpost.com/entertainment/movies/2026/10/10/what-know-about-naza-documentary-that-looks-israeli-war-technology/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:49"
+  },
+  {
+   "id": "z26323ab2",
+   "sez": "mondo",
+   "titolo": "Francia, Glucksmann vince al primo turno le primarie della sinistra socialdemocratica",
+   "orig": "Raphaël Glucksmann ha stravinto le primarie del centrosinistra francese",
+   "lead": "Raphaël Glucksmann, eurodeputato di 46 anni e leader di Place publique, ha vinto già al primo turno le primarie del centrosinistra francese con il 66,13% dei voti. Secondo Repubblica, il socialista Olivier Faure si è fermato intorno al 14% e gli altri candidati sono rimasti sotto il 10%. Glucksmann sarà il candidato della sinistra socialdemocratica alle presidenziali del 2027: «Non lasciamo la Francia a trumpiani e putiniani», ha detto, come riporta l'ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/11/raphael-glucksmann-ha-vinto-le-primarie-del-centrosinistra-francese/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/in-francia-glucksmann-conquista-le-primarie-socialdemocratiche-gia-dal-primo-turno_f1e4eb00-07b8-4df3-8613-4b7082e28c98.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/11/glucksmann-primarie-sinistra-francia-notizie/8534690/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/11/news/primarie_sinistra_francia_eliseo_glucksmann-425640757/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "19:08"
+  },
+  {
+   "id": "z0f16f1ab",
+   "sez": "economia",
+   "titolo": "Accordo sul diesel russo, il senatore repubblicano Tillis: «Potrebbe essere illegale»",
+   "orig": "Republican senator says Trump diesel agreement with Russia may be illegal",
+   "lead": "Il senatore repubblicano Thom Tillis ha detto domenica che l'accordo di Donald Trump per acquistare diesel dalla Russia, annunciato venerdì, potrebbe essere illegale e mettere a rischio vite americane. Lo riportano Al Jazeera e il South China Morning Post: la critica, insolita all'interno del partito del presidente, si aggiunge a quelle bipartisan. L'idea di Trump è far scendere i prezzi del diesel allentando le sanzioni contro Mosca.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/united-states-canada/article/3370512/trumps-russian-diesel-deal-may-be-illegal-says-prominent-republican-senator?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:19"
+  },
+  {
+   "id": "z29b98150",
+   "sez": "mondo",
+   "titolo": "Georgia, rilasciati due cittadini georgiani detenuti vicino alla linea di Tskhinvali",
+   "orig": "Two Illegally Detained Georgian Citizens Released From Tskhinvali Custody",
+   "lead": "Due cittadini georgiani fermati il 3 settembre vicino alla linea di occupazione di Tskhinvali sono stati rilasciati e sono tornati nel territorio controllato da Tbilisi. Lo riferisce Civil.ge, citando il Servizio di sicurezza dello Stato georgiano, che il 9 ottobre non ha reso noti i nomi; l'agenzia Res, con sede a Tskhinvali, ha dato la notizia dal lato opposto.",
+   "more": [
+    "Tskhinvali è il capoluogo dell'Ossezia del Sud, regione separatista della Georgia sostenuta dalla Russia. La «linea di occupazione» è il confine amministrativo non riconosciuto da Tbilisi, dove capita che civili vengano fermati e poi rilasciati."
+   ],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/754230",
+     "angolo": "",
+     "atlas": "Georgia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "14:58"
+  },
+  {
+   "id": "z27fb5557",
+   "sez": "mondo",
+   "titolo": "Siria, le autorità annunciano altri sequestri di droga alle frontiere con Iraq e Giordania",
+   "orig": "Syria Foils Drug Smuggling on Iraq and Jordan Borders",
+   "lead": "Le autorità siriane hanno intensificato negli ultimi giorni gli annunci su operazioni contro il contrabbando di droga lungo i confini con Giordania e Iraq. Lo riferisce Enab Baladi, testata siriana indipendente. Un'operazione congiunta tra Iraq e Libia ha invece bloccato 1,2 milioni di pillole di captagon, come ha annunciato il ministero dell'Interno iracheno, citato da Iraqi News.",
+   "more": [
+    "Il captagon è una droga sintetica a base di anfetamine, prodotta soprattutto in Siria negli anni della guerra e trafficata verso i Paesi del Golfo attraverso Giordania e Iraq."
+   ],
+   "fonti": [
+    {
+     "n": "Enab Baladi (inglese)",
+     "p": "XX",
+     "c": "Damasco",
+     "u": "https://english.enabbaladi.net/archives/2026/10/syria-foils-drug-smuggling-on-iraq-and-jordan-borders/",
+     "angolo": "",
+     "atlas": "Syria"
+    },
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraq-libya-joint-operation-foils-captagon-smuggling-october-2026/",
+     "angolo": "",
+     "atlas": "Iraq"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:27"
+  },
+  {
+   "id": "z7f37efc5",
+   "sez": "economia",
+   "titolo": "Libia, in custodia cautelare dirigenti della National Commercial Bank per un credito concesso contro le regole",
+   "orig": "Several National Commercial Bank managers in pretrial detention for granting credit facility in violation of regulations",
+   "lead": "La Procura generale libica ha disposto la detenzione preventiva dell'ex direttore della National Commercial Bank e di altri dirigenti dell'istituto per aver concesso una facilitazione di credito in violazione dei regolamenti. Lo riferisce il Libya Herald, citando l'ufficio del procuratore generale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/10/several-national-commercial-bank-managers-in-pretrial-detention-for-granting-credit-facility-in-violation-of-regulations/",
+     "angolo": "",
+     "atlas": "Libya"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:51"
+  },
+  {
+   "id": "z004b6112",
+   "sez": "economia",
+   "titolo": "Egitto e Indonesia puntano a 5 miliardi di dollari di scambi entro il 2030",
+   "orig": "Egypt, Indonesia target $5bn in bilateral trade by 2030",
+   "lead": "Lo riporta il Daily News Egypt: il presidente egiziano Abdel Fattah al-Sisi ha detto, dopo i colloqui con l'omologo indonesiano Prabowo Subianto al Palazzo Merdeka di Giacarta, che i due Paesi vogliono portare gli scambi commerciali a 5 miliardi di dollari entro il 2030, ampliando la produzione congiunta e attirando più investimenti indonesiani in Egitto. Secondo Antara, i due leader hanno anche spinto per un accordo di partenariato economico.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/11/egypt-indonesia-target-5bn-in-bilateral-trade-by-2030/",
+     "angolo": "",
+     "atlas": "Egypt"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/435008/indonesia-egypt-push-for-economic-partnership-agreement",
+     "angolo": "",
+     "atlas": "Indonesia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:33"
+  },
+  {
+   "id": "z997b43d6",
+   "sez": "mondo",
+   "titolo": "Israele, Shas e Giudaismo Unito della Torah firmano un accordo sui voti residui",
+   "orig": "Shas and United Torah Judaism sign a surplus vote agreement ahead of Israel's election",
+   "lead": "A ridosso delle elezioni israeliane, i due partiti ultraortodossi Shas e Giudaismo Unito della Torah hanno firmato un accordo sui voti residui, che permette al partito più grande di ottenere un seggio in più dopo il voto. Lo riferisce Haaretz: in una dichiarazione congiunta Arye Dery e Yakov Asher parlano di «continua collaborazione tra le fazioni».",
+   "more": [
+    "Gli accordi sui voti residui permettono a due liste di sommare i resti dei voti non utilizzati nel calcolo dei seggi, a vantaggio di una delle due. In Israele, dove la soglia di sbarramento è bassa e i seggi si assegnano su base nazionale, possono fare la differenza."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/elections/2026-10-11/ty-article/.premium/shas-united-torah-judaism-sign-vote-sharing-deal-ahead-of-israeli-election/000001a1-2aea-dfa9-affd-7eeeb6ac0000",
+     "angolo": "",
+     "atlas": "Israel"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "17:12"
+  },
+  {
+   "id": "zf6b71c89",
+   "sez": "mondo",
+   "titolo": "Perù, scossa di magnitudo 5,2 nella regione di Arequipa: nessun danno segnalato",
+   "orig": "Temblor de magnitud 5,2 sacudió a Perú este domingo: epicentro, profundidad y zonas donde se sintió el sismo",
+   "lead": "Un terremoto di magnitudo 5,2 è stato avvertito domenica in Perù, con epicentro vicino a Quilca, nella regione di Arequipa. Secondo i primi rapporti, riferiti da El Tiempo e da El Comercio, che cita l'Istituto geofisico del Perù, non ci sono vittime né danni materiali.",
+   "more": [
+    "Il Perù si trova sulla «Cintura di fuoco del Pacifico», dove la placca di Nazca scivola sotto quella sudamericana: scosse di questa intensità sono frequenti, e quasi sempre senza conseguenze gravi."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/latinoamerica/temblor-de-magnitud-5-2-sacudio-a-peru-este-domingo-epicentro-profundidad-y-zonas-donde-se-sintio-el-sismo-3592905",
+     "angolo": "",
+     "atlas": "Colombia"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/peru/temblor-hoy-en-peru-en-vivo-reportes-del-igp-lugar-magnitud-y-ultimo-minuto-tdpe-noticia/",
+     "angolo": "",
+     "atlas": "Peru"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "19:09"
+  },
+  {
+   "id": "zd38c1644",
+   "sez": "mondo",
+   "titolo": "Algeria, arrestati 61 cittadini marocchini sospettati di preparare atti di sabotaggio",
+   "orig": "61 ressortissants marocains arrêtés pour un projet présumé de sabotage",
+   "lead": "I servizi di sicurezza algerini hanno annunciato domenica l'arresto di 61 cittadini marocchini, tra cui un ex militare dell'esercito del Marocco, sospettati di preparare atti di sabotaggio contro la sicurezza e l'ordine pubblico. Lo riferisce Le Matin d'Algérie, citando un comunicato della Direzione generale della Sicurezza nazionale; secondo Seneweb gli arresti risalgono all'inizio di ottobre. Le accuse non sono state verificate in modo indipendente.",
+   "more": [
+    "Algeria e Marocco hanno rapporti tesi da anni, in particolare per la questione del Sahara Occidentale; le relazioni diplomatiche sono interrotte dal 2021."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/61-ressortissants-marocains-arretes-pour-un-projet-presume-de-sabotage/",
+     "angolo": "",
+     "atlas": "Algeria"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Afrique/algerie-arrestation-de-61-marocains-soupconnes-de-preparer-des-actes-de-sabotage_n_999000377.html",
+     "angolo": "",
+     "atlas": "Senegal"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:58"
+  },
+  {
+   "id": "z2dbc8210",
+   "sez": "mondo",
+   "titolo": "Cina, l'ex sindaco di Wuhan condannato a 14 anni di carcere per corruzione",
+   "orig": "China sentences Wuhan ex-mayor to 14 years in prison for bribery conviction",
+   "lead": "Un tribunale cinese ha condannato sabato a 14 anni di carcere Zhou Xianwang, ex sindaco di Wuhan negli anni dell'inizio della pandemia di Covid-19, per aver accettato tangenti in affari commerciali. Secondo il South China Morning Post, i fatti riguardano gli incarichi ricoperti tra il 2003 e il 2025. Lo riferisce anche Hong Kong Free Press.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/10/11/china-sentences-wuhan-ex-mayor-to-14-years-in-prison-for-bribery-conviction/",
+     "angolo": "",
+     "atlas": "China"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/science/article/3370481/wuhans-covid-mayor-zhou-xianwang-jailed-14-years-corruption?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "03:07"
+  },
+  {
+   "id": "z65e88e6c",
+   "sez": "mondo",
+   "titolo": "Regno Unito, Burnham pubblicherà i dettagli dei suoi rapporti con il Manchester City",
+   "orig": "UK PM Burnham to release details of dealings with Manchester City",
+   "lead": "Il primo ministro britannico Andy Burnham ha detto che renderà pubblici tutti i dettagli dei suoi contatti con il Manchester City quando era sindaco, dopo che un suo intervento a favore dei proprietari del club aveva suscitato critiche. Lo riferiscono CNA e il South China Morning Post. La vicenda arriva nei giorni in cui, scrive Citizen Digital, il City ha scoperto che una commissione indipendente lo ha ritenuto colpevole di aver violato oltre cento regole finanziarie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/uk-pm-burnham-release-details-dealings-manchester-city-6451426",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/football/article/3370515/uk-pm-burnham-publish-manchester-city-dealings-after-intervention-draws-criticism?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/haaland-vows-troubled-man-city-will-stick-together-after-beating-liverpool-n391848",
+     "angolo": "",
+     "atlas": "Kenya"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:29"
+  },
+  {
+   "id": "z3d771551",
+   "sez": "mondo",
+   "titolo": "L'uragano Simon, ora di categoria 4, si dirige verso il Messico",
+   "orig": "Uragano Simon verso il Messico, intensificato a categoria 4",
+   "lead": "L'uragano Simon si è intensificato fino alla categoria 4 e si dirige verso il Messico, mentre negli Stati Uniti si contano i danni di Isaias, che nel Sud-Est del Paese ha causato quattro morti. Lo riferisce Rai News; l'agenzia moldava IPN conferma il bilancio di Isaias, con circa 670 mila persone senza elettricità.",
+   "more": [
+    "Gli uragani si classificano da 1 a 5 secondo la velocità del vento: la categoria 4 indica venti fortissimi, in grado di provocare danni gravi a edifici e infrastrutture."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/uragano-simon-verso-il-messico-intensificato-a-categoria-4-be43b648-a5f1-4bbb-bafe-ebb8d3d30663.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/the-hurricane-isaias-has-caused-four-deaths-in-the-usa-approximately-670-thousand-people-are-without-electricity/",
+     "angolo": "",
+     "atlas": "Moldova"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "07:40"
+  },
+  {
+   "id": "zfb45b4bb",
+   "sez": "mondo",
+   "titolo": "Guam, Trump approva lo stato di grande calamità dopo il super tifone Bavi",
+   "orig": "Trump approves major disaster declaration for Guam following Super Typhoon Bavi",
+   "lead": "Il presidente degli Stati Uniti Donald Trump ha approvato la dichiarazione di grande calamità per Guam dopo il passaggio del super tifone Bavi. Lo riferisce RNZ Pacific. La dichiarazione apre la strada agli aiuti federali per il territorio statunitense del Pacifico.",
+   "more": [
+    "Guam è un territorio statunitense nel Pacifico occidentale. La dichiarazione di «major disaster» permette di accedere a fondi e assistenza federali per la ricostruzione."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1827110/trump-approves-major-disaster-declaration-for-guam-following-super-typhoon-bavi",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "20:18"
+  },
+  {
+   "id": "zcb627b02",
+   "sez": "mondo",
+   "titolo": "Isole Salomone, traghetto senza propulsione alla deriva con oltre 70 persone a bordo",
+   "orig": "Dozens strand as ferry loses power and left drifting at sea",
+   "lead": "Le autorità delle Isole Salomone stanno valutando come soccorrere più di 70 persone a bordo del traghetto MV Awka, rimasto senza propulsione e alla deriva in mare. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1854266/solomon-islands-authorities-plan-rescue-of-dozens-stranded-at-sea",
+     "angolo": "",
+     "atlas": "New Zealand"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:17"
+  },
+  {
+   "id": "zc9308127",
+   "sez": "mondo",
+   "titolo": "Germania, come si addestra la Bundeswehr alla difesa collettiva della Nato",
+   "orig": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
+   "lead": "La Deutsche Welle spiega come si prepara l'esercito tedesco alla difesa nazionale e collettiva: il «Piano operativo Germania» è messo alla prova con grandi esercitazioni, come «Red Storm Charlie», che simulano scenari realistici. La domanda di fondo è quanto il Paese sia pronto.",
+   "more": [
+    "Il Piano operativo Germania definisce il ruolo del Paese come snodo logistico per le truppe Nato in Europa, oltre che come contributo alla difesa dell'Alleanza."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "10 ott",
+   "ora": "14:02"
+  },
+  {
+   "id": "zcd5ab243",
+   "sez": "mondo",
+   "titolo": "Germania, la popolazione calerà entro il 2045, ma non dappertutto",
+   "orig": "Germany's population is shrinking, but not everywhere",
+   "lead": "Secondo la Deutsche Welle, entro il 2045 la Germania avrà più anziani, meno lavoratori e una popolazione complessiva più piccola. Alcune regioni, però, andranno controcorrente: il loro successo dipenderà da quanto avranno da offrire a chi vive e lavora lì.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "09:21"
+  },
+  {
+   "id": "zbc75619a",
+   "sez": "salute",
+   "titolo": "Irlanda, la società «non è pronta» per chi ha insieme sindrome di Down e demenza",
+   "orig": "Ireland 'unprepared' to address Down syndrome, dementia",
+   "lead": "La società irlandese è «impreparata» ad affrontare i bisogni della popolazione sempre più numerosa di persone con sindrome di Down e demenza insieme: lo affermano alcune associazioni, come riferisce RTÉ.",
+   "more": [
+    "Le persone con sindrome di Down tendono a sviluppare segni di demenza di tipo Alzheimer più precocemente rispetto alla popolazione generale, e questo richiede servizi dedicati."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ireland/2026/1011/1594925-down-syndrome-dementia/",
+     "angolo": "",
+     "atlas": "Ireland"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "15:56"
+  },
+  {
+   "id": "za159b92c",
+   "sez": "ambiente",
+   "titolo": "Lituania, da gennaio scatta il divieto degli allevamenti di animali da pelliccia",
+   "orig": "Įsigalios kailinių žvėrelių fermų draudimas: augintojai pyksta – valstybės pagalba menka",
+   "lead": "Da gennaio in Lituania entrerà in vigore il divieto degli allevamenti di animali da pelliccia. Gli allevatori protestano per i danni e chiedono che se ne assuma la responsabilità lo Stato, ma il ministro dell'Agricoltura, riferisce LRT, dice che nel bilancio non ci sono i 64 milioni di euro necessari per compensare le attività chiuse.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3079072/isigalios-kailiniu-zvereliu-fermu-draudimas-augintojai-pyksta-valstybes-pagalba-menka",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:30"
+  },
+  {
+   "id": "z0e07d072",
+   "sez": "cultura",
+   "titolo": "Estonia, l'asta di beneficenza degli artisti raccoglie un record di 2,3 milioni di euro",
+   "orig": "Estonian Artists' Association's charity auction brings in record-breaking €2.3 million",
+   "lead": "L'asta di beneficenza dell'Associazione degli artisti estoni si è chiusa con vendite per 2,3 milioni di euro: la cifra più alta mai raggiunta in Estonia da un'asta d'arte. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610163286/estonian-artists-association-s-charity-auction-brings-in-record-breaking-2-3-million",
+     "angolo": "",
+     "atlas": "Estonia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "07:41"
+  },
+  {
+   "id": "z5afc2b03",
+   "sez": "viaggi",
+   "titolo": "Hong Kong, riqualificato il valico di Huanggang: apre al pubblico lunedì mattina",
+   "orig": "Huanggang opening to be smooth: security chief",
+   "lead": "Dopo la cerimonia di inaugurazione di domenica, il valico di Huanggang riqualificato aprirà alle 6.30 di lunedì. Il segretario alla Sicurezza, Chris Tang, ha detto che sono stati fatti più di cento test, anche di carico e sui sistemi, e si è detto fiducioso in un passaggio di frontiera «sicuro, fluido ed efficiente». Lo riferisce RTHK.",
+   "more": [
+    "Huanggang è uno dei principali punti di passaggio tra Hong Kong e Shenzhen, sul continente cinese."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1873488-20261011.htm",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "09:49"
+  },
+  {
+   "id": "z47a16f52",
+   "sez": "sport",
+   "titolo": "Serie A: la Lazio batte il Monza 3-1 e aggancia l'Inter, il Milan frenato dal Sassuolo",
+   "orig": "Lazio, il volo continua: batte 3-1 il Monza e resta in testa con l’Inter",
+   "lead": "Nella sesta giornata di campionato la Lazio ha battuto 3-1 il Monza, con i gol di Tavares, Isaksen e Pinamonti, e ha agganciato l'Inter in vetta a quota 16. Il Milan è stato fermato sull'1-1 a Sassuolo (Rabiot, poi Odenthal), il Bologna ha vinto 2-1 a Lecce e Como-Roma è finita 0-0.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/lazio_monza_gol-425641100/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/lazio_monza_pagelle_isaksen_pinamonti_tavares_classifica_serie_a-9818347.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/sport/2026/10/11/serie-a-partite-oggi-risultati-gol-highlights-video",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/lazio-keep-pace-top-10-man-roma-earn-draw-como-milan-held-sassuolo-6451376",
+     "angolo": "",
+     "atlas": "Singapore"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "17:42"
+  },
+  {
+   "id": "zea7c5a82",
+   "sez": "sport",
+   "titolo": "Basket, la Maxima Roma vince 96-95 il derby con la BC davanti a 9.312 spettatori",
+   "orig": "Roma è Maxima: 96-95 alla BC nel derby della Capitale. Esulta anche Totti",
+   "lead": "Il basket della Capitale è tornato in Serie A con un derby: al PalaEur la Maxima ha battuto 96-95 la BC in una partita decisa all'ultimo punto. Secondo il Messaggero è il primo derby cittadino della massima serie dopo 46 anni; tra chi ha esultato c'è anche Francesco Totti, consulente del club.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/sport/basket/2026/10/11/news/roma_maxima_vince_derby_96-95_bc_totti_esulta-425641397/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/basket/roma_maxima_vince_derby_bc_al_pala_eur_classifica_risultato_spettatori-9818606.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "20:23"
+  },
+  {
+   "id": "z2f537904",
+   "sez": "sport",
+   "titolo": "Tennis, Bolelli e Vavassori si separeranno dal 2027",
+   "orig": "Dal 2027 i tennisti italiani Simone Bolelli e Andrea Vavassori non giocheranno più assieme in doppio",
+   "lead": "La coppia d'oro del doppio italiano si scioglie: dal 2027 Simone Bolelli e Andrea Vavassori non giocheranno più insieme. Lo riferiscono Il Post e l'ANSA: l'ultimo obiettivo comune sono le Finals di fine stagione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/11/bolelli-vavassori-non-giocheranno-piu-insieme/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/11/bolelli-vavassori-si-separa-la-coppia-doro-del-tennis-azzurro_2703fb28-4acc-4e2a-819a-28c680157555.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "15:10"
+  },
+  {
+   "id": "ze2a2bddb",
+   "sez": "economia",
+   "titolo": "Stellantis presenta a Parigi la strategia: «Puntiamo sull'Europa»",
+   "orig": "Stellantis svela l'auto del futuro, da Citroën 2 CV elettrica a Alfa Cuorerosso",
+   "lead": "Al Salone di Parigi Stellantis ha mostrato le auto del futuro, dalla Citroën 2 CV elettrica all'Alfa Romeo Cuorerosso. John Elkann, Antonio Filosa e Cappellano hanno delineato la strategia del gruppo: «Puntiamo sull'Europa». Lo riportano l'ANSA e il Fatto Quotidiano, che parlano di ritorni dal passato e scommesse sul futuro in un salone che segna la ripartenza del settore.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/11/stellantis-svela-auto-del-futuro-da-citroen-2-cv-elettrica-a-alfa-cuorerosso_90226951-0829-428b-acbd-373cee5a3112.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/11/salone-di-parigi-stellantis-cala-tutte-le-carte-tra-ritorni-dal-passato-e-scommesse-sul-futuro-foto/8534035/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "20:43"
+  },
+  {
+   "id": "zd5626586",
+   "sez": "sport",
+   "titolo": "Liga: il Betis di Pellegrini travolge l'Osasuna 5-2 e sale al terzo posto",
+   "orig": "Con Isco como estandarte: el Betis de Manuel Pellegrini golea al Osasuna para seguir siendo escolta en LaLiga",
+   "lead": "Il Betis allenato da Manuel Pellegrini ha battuto 5-2 l'Osasuna: gol di Isco (rigore e un secondo nella ripresa), Ez Abde, un'autorete di Budimir e Morante nel recupero. Gli andalusi salgono al terzo posto, superando il Real Madrid e agganciando l'Atlético, e sono a cinque punti dal Barcellona capolista, come riportano La Tercera e El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/el-deportivo/noticia/con-isco-como-estandarte-el-betis-de-manuel-pellegrini-golea-al-osasuna-para-seguir-siendo-escolta-en-laliga/",
+     "angolo": "",
+     "atlas": "Chile"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/el-betis-goleo-5-2-a-osasuna-y-subio-a-la-tercera-plaza-de-laliga/",
+     "angolo": "",
+     "atlas": "Venezuela"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "20:33"
+  },
+  {
+   "id": "zac3f9053",
+   "sez": "sport",
+   "titolo": "Tennis, Zheng Qinwen vince il China Open: prima cinese a trionfare in casa",
+   "orig": "Tears and a song as victorious Zheng Qinwen makes China Open history",
+   "lead": "Zheng Qinwen ha battuto in finale la russa Mirra Andreeva 7-5, 6-4 e ha vinto il China Open davanti al pubblico di Pechino, il primo successo di una giocatrice di casa nel torneo. Secondo il South China Morning Post la campionessa olimpica, entrata con una wild card e scesa quest'anno fino al 122° posto dopo un'operazione al gomito, conquista il suo primo titolo in quasi due anni e il primo di livello WTA 1000.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/tennis/article/3370507/zheng-qinwen-claims-china-open-title-beats-mirra-andreeva-straight-sets?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "15:36"
+  },
+  {
+   "id": "zf1249312",
+   "sez": "sport",
+   "titolo": "Ciclismo, i Mondiali gravel UCI portano migliaia di persone a Nannup",
+   "orig": "Gravel cycling championship brings global audience to tiny town",
+   "lead": "Migliaia di ciclisti e spettatori hanno invaso Nannup, piccola cittadina dell'Australia Occidentale, che ospita per la prima volta i Mondiali gravel UCI 2026. Lo riferisce l'ABC australiana.",
+   "more": [
+    "Il gravel è una disciplina ciclistica che si corre su strade bianche e sterrati, a metà tra strada e mountain bike."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-11/nannup-uci-gravel-world-championship-cycling/107238790",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "04:49"
+  },
+  {
+   "id": "ze4cef814",
+   "sez": "sport",
+   "titolo": "Cricket, Georgia Voll firma un secolo veloce e l'Australia chiude la serie con il Bangladesh",
+   "orig": "Georgia Voll smashes quickfire ton as Aussies wrap up Bangladesh series",
+   "lead": "Georgia Voll ha segnato un rapidissimo centinaio di punti e ha guidato l'Australia a una vittoria con nove wicket sul Bangladesh all'Allan Border Field, chiudendo la serie. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-11/voll-smashes-quickfire-ton-australia-vs-bangladesh/107253844",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "13:13"
+  },
+  {
+   "id": "z3cbdebf6",
+   "sez": "ambiente",
+   "titolo": "Borneo, orangutan liberati nella foresta dopo gli incendi devastanti",
+   "orig": "Orangutans released back into Borneo forest after devastating fires",
+   "lead": "I soccorritori hanno riportato degli orangutan nella foresta del Borneo, dopo averli spostati quando i loro habitat erano minacciati dai violenti incendi dell'estate. Lo riferisce la BBC; l'agenzia indonesiana Antara parla del salvataggio di 46 orangutan del Borneo dal fuoco nel Kalimantan Occidentale, a opera dell'ente per la conservazione delle risorse naturali e della fondazione IAR Indonesia.",
+   "more": [
+    "Il Borneo ospita una delle ultime popolazioni di orangutan, specie in pericolo critico di estinzione. Gli incendi, spesso legati alla siccità e alla bonifica dei terreni, sono tra le minacce principali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/435018/46-orangutans-rescued-from-fires-in-west-kalimantan",
+     "angolo": "",
+     "atlas": "Indonesia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "21:08"
+  },
+  {
+   "id": "z239bd695",
+   "sez": "ambiente",
+   "titolo": "Brasile, incendi in Amazonas: emergenza in 36 comuni e task force federale",
+   "orig": "Governo ajudou assim que Amazonas decretou emergência, diz ministro",
+   "lead": "Il governo federale brasiliano ha attivato una task force contro gli incendi nello stato di Amazonas, dove l'emergenza è stata decretata in 36 comuni per un'ondata di roghi legata a El Niño. Il ministro Waldez Góes ha spiegato che l'operazione riunisce ministeri, vigili del fuoco, Forze armate e squadre sanitarie e dispone di 11 aerei. A Manaus la qualità dell'aria è peggiorata e gli eventi all'aperto di domenica e lunedì sono stati sospesi. Lo riferiscono Agência Brasil e G1.",
+   "more": [
+    "El Niño è un'anomalia climatica che scalda le acque del Pacifico e, in molte regioni, porta siccità e temperature più alte: in Amazzonia aumenta il rischio di incendi."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/governo-ajudou-assim-que-amazonas-decretou-emergencia-diz-ministro",
+     "angolo": "",
+     "atlas": "Brazil"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/am/amazonas/noticia/2026/10/11/aeronaves-enviadas-pelo-governo-federal-iniciam-combate-a-incendios-florestais-no-amazonas.ghtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "18:37"
+  },
+  {
+   "id": "z8b1913a3",
+   "sez": "medicina",
+   "titolo": "Artrosi del ginocchio, cambiare l'angolo del piede mentre si cammina riduce il dolore, secondo uno studio",
+   "orig": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
+   "lead": "In una sperimentazione clinica durata un anno, i ricercatori hanno osservato che modificare in modo personalizzato l'angolo del piede durante il cammino ha ridotto il dolore da artrosi del ginocchio in misura paragonabile ai farmaci, senza ricorrere a medicine o interventi. Le risonanze magnetiche hanno inoltre mostrato un deterioramento più lento di un indicatore della salute della cartilagine. Lo riferisce ScienceDaily; i risultati sono quelli di un singolo studio e non costituiscono un consiglio medico.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ScienceDaily – Medicina",
+     "p": "US",
+     "c": "Rockville",
+     "u": "https://www.sciencedaily.com/releases/2026/10/261009025434.htm",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "02:00"
+  },
+  {
+   "id": "zd732be9f",
+   "sez": "tech",
+   "titolo": "Una startup portoghese vince a San Francisco con una lampada che rileva le crisi epilettiche",
+   "orig": "Startup portuguesa vence em S. Francisco com candeeiro que deteta crises de epilepsia",
+   "lead": "Una lampada capace di rilevare le crisi epilettiche con l'aiuto dell'intelligenza artificiale ha fatto vincere una startup portoghese a San Francisco. Lo riferisce la RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/startup-portuguesa-vence-em-s-francisco-com-candeeiro-que-deteta-crises-de-epilepsia_v1771065",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "11 ott"
+  },
+  {
+   "id": "z5d897d15",
+   "sez": "adolescenti",
+   "titolo": "Un liceale vietnamita usa l'IA per decifrare la calligrafia dei medici e ottiene 35.000 dollari da Amazon",
+   "orig": "Vietnamese student uses AI to digitize doctors' cryptic handwriting, wins Amazon funding",
+   "lead": "Un ragazzo vietnamita, ancora al liceo, e i suoi amici hanno creato un sistema di intelligenza artificiale che legge la scrittura quasi illeggibile dei medici e trasforma le cartelle cliniche in testo digitale. Amazon ha messo a disposizione 35.000 dollari per continuare lo sviluppo del progetto. Lo riferisce VnExpress.",
+   "more": [
+    "Digitalizzare le cartelle cliniche aiuta a ridurre gli errori e a ritrovare più facilmente le informazioni sui pazienti."
+   ],
+   "fonti": [
+    {
+     "n": "VnExpress",
+     "p": "XX",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/news/news/education/vietnamese-student-uses-ai-to-digitize-doctors-cryptic-handwriting-wins-amazon-funding-5129915.html",
+     "angolo": "",
+     "atlas": "Vietnam"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "11:00",
+   "sub": "tech"
+  },
+  {
+   "id": "zda88ebfd",
+   "sez": "adolescenti",
+   "titolo": "I Neanderthal usavano la colla preistorica come antibiotico?",
+   "orig": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+   "lead": "Gli uomini di Neanderthal potrebbero aver curato le ferite con una sostanza appiccicosa ricavata dalla corteccia di betulla, migliaia di anni prima degli antibiotici. I ricercatori hanno ricreato le tecniche antiche per produrre il catrame di betulla e hanno scoperto che ogni campione frenava la crescita dei batteri responsabili di pericolose infezioni delle ferite. Finora era noto soprattutto come colla preistorica. Lo riferisce ScienceDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ScienceDaily – Medicina",
+     "p": "US",
+     "c": "Rockville",
+     "u": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "02:45",
+   "sub": "scienza"
+  },
+  {
+   "id": "z31930f4b",
+   "sez": "adolescenti",
+   "titolo": "Peer tutoring: insegnare a un compagno è il modo migliore per imparare",
+   "orig": "Peer tutoring: quando insegnare è il modo migliore per imparare",
+   "lead": "A scuola gli studenti devono soprattutto dimostrare ciò che sanno, con interrogazioni e verifiche; molto più raramente usano quello che hanno imparato per aiutare un compagno a capire. L'articolo di Orizzonte Scuola spiega perché il peer tutoring, cioè l'aiuto tra pari, può rendere l'apprendimento più solido.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/peer-tutoring-quando-insegnare-e-il-modo-migliore-per-imparare/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "18:54",
+   "sub": "scuola"
+  },
+  {
+   "id": "z30e27f58",
+   "sez": "adolescenti",
+   "titolo": "Arizona, il Chiricahua National Monument verso lo status di 64° parco nazionale degli Stati Uniti",
+   "orig": "Arizona’s Chiricahua poised to become 64th US National Park",
+   "lead": "Il Chiricahua National Monument, nell'angolo sud-orientale dell'Arizona, è sul punto di diventare il 64° parco nazionale degli Stati Uniti. Lo riferisce EarthSky.",
+   "more": [
+    "I parchi nazionali americani proteggono paesaggi, fauna e siti storici; il passaggio da «monumento» a «parco» richiede un atto del Congresso."
+   ],
+   "fonti": [
+    {
+     "n": "EarthSky",
+     "p": "US",
+     "c": "Austin",
+     "u": "https://earthsky.org/earth/chiricahua-national-park-64-us/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "13:52",
+   "sub": "natura"
+  },
+  {
+   "id": "z13ae28b8",
+   "sez": "organizzazioni",
+   "titolo": "Aiea: il trizio nel 24° lotto di acqua trattata di Fukushima è molto sotto il limite giapponese",
+   "orig": "Tritium Level Far Below Japan’s Operational Limit in 24th Batch of ALPS Treated Water, IAEA Confirms",
+   "lead": "L'Agenzia internazionale per l'energia atomica conferma che il livello di trizio nel 24° lotto di acqua trattata con il sistema ALPS è ben al di sotto del limite operativo fissato dal Giappone. In un rapporto distinto, l'Aiea giudica accurato e affidabile il monitoraggio giapponese dell'acqua trattata.",
+   "more": [
+    "ALPS è il sistema di trattamento che rimuove la maggior parte delle sostanze radioattive dall'acqua della centrale di Fukushima Daiichi prima dello scarico in mare; il trizio non viene eliminato e il suo livello è controllato."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-24th-batch-of-alps-treated-water-iaea-confirms",
+     "angolo": "",
+     "atlas": ""
+    },
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-report-finds-japans-monitoring-of-alps-treated-water-accurate-and-reliable",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott"
+  },
+  {
+   "id": "zcffb248c",
+   "sez": "organizzazioni",
+   "titolo": "Aiea: conclusa la revisione sulla sicurezza dell'esercizio a lungo termine della centrale svedese di Oskarshamn",
+   "orig": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
+   "lead": "L'Agenzia internazionale per l'energia atomica ha concluso la revisione della sicurezza dell'esercizio a lungo termine della centrale nucleare di Oskarshamn, in Svezia.",
+   "more": [
+    "L'esercizio a lungo termine riguarda il funzionamento di una centrale oltre la durata prevista in origine: le revisioni dell'Aiea valutano come ne vengano gestiti sicurezza e invecchiamento."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott"
+  },
+  {
+   "id": "z96e56c40",
+   "sez": "economia",
+   "titolo": "L'Uzbekistan propone un'alleanza dell'Asia centrale sui minerali critici",
+   "orig": "President of Uzbekistan proposes accelerating creation of Central Asian critical minerals alliance",
+   "lead": "Il presidente uzbeko Shavkat Mirziyoyev ha proposto di accelerare la creazione di un'alleanza dei Paesi dell'Asia centrale sui minerali critici e di realizzare una mappa digitale unica dei loro giacimenti. Ha chiesto anche di sviluppare insieme energia a basse emissioni. Lo riferisce Gazeta.uz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/11/critical-minerals/",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "09:06"
+  },
+  {
+   "id": "z83fa11db",
+   "sez": "viaggi",
+   "titolo": "Egitto, rimesso in navigazione il battello da crociera con 99 turisti incagliato sul Nilo",
+   "orig": "Authorities successfully rescue Nile cruise ship carrying 99 tourists",
+   "lead": "Le autorità egiziane hanno disincagliato la nave da crociera «Courchette», con 99 turisti di varie nazionalità a bordo, rimasta ferma sul Nilo davanti all'approdo del tempio di Kom Ombo, ad Assuan. La polizia fluviale e le unità di soccorso l'hanno riportata nel canale di navigazione garantendo la sicurezza dei passeggeri. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/authorities-successfully-rescue-nile-cruise-ship-carrying-99-tourists/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "17:37"
+  },
+  {
+   "id": "za29fb599",
+   "sez": "viaggi",
+   "titolo": "Turchia, nel sud-est curdo di Diyarbakır tornano i turisti con il processo di pace",
+   "orig": "Waar angst plaatsmaakt voor hoop: meer toeristen naar het overwegend Koerdische Diyarbakir",
+   "lead": "Nel sud-est della Turchia, dove undici anni fa si combatteva duramente tra l'esercito turco e il PKK curdo, torna la speranza: da quando è iniziato il processo di pace tra governo e PKK la regione viene promossa per il turismo, e sempre più turchi vi viaggiano per scoprire il proprio Paese. «Diyarbakır è la Parigi dell'Oriente», dice un visitatore di Istanbul. Lo riferisce la NOS, che dà voce anche a residenti e imprenditori.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2634616",
+     "angolo": "",
+     "atlas": "Netherlands"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "19:27"
+  },
+  {
+   "id": "z78b21b1f",
+   "sez": "tech",
+   "titolo": "Australia, i Verdi vogliono rafforzare la legge sul «dovere di diligenza digitale» delle piattaforme",
+   "orig": "Greens gear up for fight with Labor as Sarah Hanson-Young pushes to strengthen laws to rein in big tech",
+   "lead": "I Verdi australiani chiedono al governo laburista di cambiare in modo sostanziale le nuove norme per frenare le grandi piattaforme digitali, con il diritto per i singoli di fare causa e ottenere un risarcimento. Il governo presenterà questa settimana in Parlamento la legge sul «dovere di diligenza digitale»; i Verdi vogliono in cambio multe dell'eSafety Commissioner calcolate in percentuale sul fatturato globale delle società, invece di importi fissi. Lo riportano il Guardian Australia e il Sydney Morning Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/australia-news-live-labor-s-digital-duty-of-care-to-be-introduced-to-parliament-this-week-but-greens-will-demand-changes-frydenberg-says-liberals-need-to-do-better-20261012-p614mc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "16:00"
+  },
+  {
    "id": "z6c3cbf16",
    "sez": "mondo",
    "titolo": "«Chi ci rappresenterà?»: i palestinesi reagiscono al rinvio delle elezioni",
@@ -8823,7 +10186,28 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "uscita": "13"
   }
  ],
- "quiz": [],
+ "quiz": [
+  {
+   "q": "Quale percentuale di voti ha ottenuto Glucksmann al primo turno delle primarie della sinistra francese?",
+   "opts": [
+    "66,13%",
+    "46%",
+    "14%"
+   ],
+   "ok": 0,
+   "rif": "z26323ab2"
+  },
+  {
+   "q": "Su quale fiume del Nepal c'è stata la nuova piena improvvisa?",
+   "opts": [
+    "Budhi Gandaki",
+    "Gange",
+    "Brahmaputra"
+   ],
+   "ok": 0,
+   "rif": "zd22b2c73"
+  }
+ ],
  "sguardi": {
   "ze2fc952a": "La BBC punta sul declassamento e sui blackout, NPR sulle vittime, mentre Deutsche Welle riporta gli avvertimenti per le mareggiate sulla costa del Golfo.",
   "z62fd3e7b": "ERR News pubblica un commento sulle conseguenze morali e politiche, il Guardian mette in primo piano la reazione di Zelensky e il Washington Post spiega le ragioni dei prezzi.",
@@ -9104,7 +10488,56 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z35d8bc8c": "La testata si concentra su un dettaglio istituzionale del nuovo governo: la gerarchia tra i ministeri.",
   "zd5e9fecc": "Il settimanale guarda al discorso con scetticismo e mette in dubbio che rifletta davvero lo stato del Paese.",
   "z93bd0368": "Il quotidiano mette in luce il lato pratico dell'iniziativa: consigli utili ai consumatori su freschezza e sicurezza delle uova.",
-  "zb683bc43": "Il quotidiano taiwanese dà spazio alla posizione del governo di Taipei e al suo invito alla moderazione rivolto a Pechino."
+  "zb683bc43": "Il quotidiano taiwanese dà spazio alla posizione del governo di Taipei e al suo invito alla moderazione rivolto a Pechino.",
+  "zd22b2c73": "La BBC e Sky News parlano di case e ponti distrutti e di evacuazioni in elicottero; Al Jazeera e il NZ Herald contano i dispersi; il Kathmandu Post, giornale nepalese, dà risalto all'efficacia degli avvisi via SMS. I bilanci sono provvisori e cambiano da testata a testata.",
+  "z02157ef8": "Per la Deutsche Welle e Al Jazeera l'annuncio parte da Trump; Zelensky, citato da CBC e Ada Derana, dice di non averne ancora visto i dettagli ma di essere pronto a sostenerlo; il Kyiv Independent, giornale ucraino, sottolinea che l'attacco di Kharkiv è arrivato subito dopo l'annuncio.",
+  "z840a281b": "La DW dà voce alla posizione del governo tedesco; Azatutyun (Armenia, edizione di Radio Free Europe) riporta le parole di Zelensky sulle elezioni.",
+  "zee5d8068": "La greca ERT riporta il comunicato dell'aviazione civile saudita; Rai News riprende la minaccia degli Houthi di nuovi raid; l'estone ERR mostra come la crisi stia già cambiando i consigli di viaggio dei governi europei.",
+  "z44277e97": "I giornali indiani insistono sulla sorte dei due marinai e sulla condanna di Nuova Delhi; Gulf News, da Dubai, dà il dettaglio del drone; la russa TASS riporta l'avvertimento iraniano alle navi.",
+  "zde58ab32": "Agência Brasil, agenzia pubblica brasiliana, riporta soprattutto le dichiarazioni di Lula e Janones; il portoghese Público parla di «censura» del canale pro-Lula; la Folha dà conto del ripristino; la messicana La Jornada allarga il quadro alle accuse contro Meta.",
+  "z669a3889": "Haaretz, quotidiano israeliano, riporta i termini della lettera di Netanyahu; il Washington Post inquadra il film e la reazione del premier; la rumena HotNews riprende il comunicato dell'ufficio del primo ministro tramite EFE.",
+  "z26323ab2": "La stampa italiana (Il Post, ANSA, Il Fatto Quotidiano, Repubblica) parla di un risultato netto e di una candidatura ormai lanciata verso l'Eliseo.",
+  "z0f16f1ab": "Al Jazeera, con sede in Qatar, mette l'accento sulle rare critiche all'interno del partito repubblicano; il South China Morning Post, da Hong Kong, riporta le parole del senatore Tillis e il carattere bipartisan delle critiche.",
+  "z29b98150": "Civil.ge, testata georgiana, si basa sul comunicato del Servizio di sicurezza dello Stato di Tbilisi e cita l'agenzia Res di Tskhinvali, che dà la notizia dall'altro lato della linea.",
+  "z27fb5557": "Enab Baladi, testata siriana indipendente, sottolinea l'aumento degli annunci ufficiali sulle operazioni antidroga; Iraqi News riferisce un'operazione analoga condotta con la Libia.",
+  "z7f37efc5": "Il Libya Herald, testata libica in inglese, riporta il comunicato dell'ufficio del procuratore generale.",
+  "z004b6112": "Il Daily News Egypt riporta le parole di al-Sisi sugli scambi commerciali; l'agenzia indonesiana Antara mette in rilievo l'accordo di partenariato economico.",
+  "z997b43d6": "Haaretz presenta l'accordo come un segno di cooperazione tra i due partiti ultraortodossi, citando la loro dichiarazione congiunta.",
+  "zf6b71c89": "El Tiempo, colombiano, e El Comercio, peruviano, riportano i dati dell'Istituto geofisico del Perù: epicentro, profondità e assenza di vittime.",
+  "zd38c1644": "Le Matin d'Algérie, algerino, e Seneweb, senegalese, riportano il comunicato della sicurezza algerina; le accuse non sono state verificate in modo indipendente.",
+  "z2dbc8210": "Hong Kong Free Press e il South China Morning Post riportano la sentenza, ricordando che l'ex sindaco guidava Wuhan all'inizio della pandemia.",
+  "z65e88e6c": "CNA, da Singapore, e il South China Morning Post riportano l'impegno di Burnham alla trasparenza; Citizen Digital, kenyano, collega la vicenda alla decisione della commissione indipendente sul City.",
+  "z3d771551": "Rai News segue l'avanzata dell'uragano Simon e il bilancio di Isaias; l'agenzia moldava IPN riprende i dati sulle persone senza elettricità.",
+  "zfb45b4bb": "RNZ Pacific, servizio neozelandese dedicato al Pacifico, riporta la dichiarazione di grande calamità per Guam.",
+  "zcb627b02": "RNZ, servizio pubblico neozelandese, riferisce che le autorità delle Salomone stanno valutando le opzioni di soccorso.",
+  "zc9308127": "La Deutsche Welle racconta le esercitazioni come una verifica della prontezza della Germania alla difesa nazionale e collettiva.",
+  "zcd5ab243": "La Deutsche Welle mette l'accento sulle differenze regionali nel calo demografico.",
+  "zbc75619a": "RTÉ riporta l'allarme delle associazioni irlandesi sulla preparazione dei servizi.",
+  "za159b92c": "LRT, servizio pubblico lituano, dà spazio alle proteste degli allevatori e alla risposta del ministro dell'Agricoltura sui fondi.",
+  "z0e07d072": "ERR, servizio pubblico estone, sottolinea il record assoluto per un'asta d'arte nel Paese.",
+  "z5afc2b03": "RTHK, emittente pubblica di Hong Kong, riporta le rassicurazioni delle autorità sui test effettuati prima dell'apertura.",
+  "z47a16f52": "Repubblica e Il Messaggero puntano sulla Lazio di Gattuso; Sky TG24 riassume la giornata; CNA, da Singapore, ne dà un riepilogo in inglese.",
+  "zea7c5a82": "Repubblica e Il Messaggero raccontano un derby tornato in Serie A dopo 46 anni, con il PalaEur pieno.",
+  "z2f537904": "Il Post e l'ANSA riportano la separazione della coppia, con le Finals come ultimo obiettivo.",
+  "ze2a2bddb": "L'ANSA e il Fatto Quotidiano raccontano il Salone di Parigi come segnale di ripartenza del settore auto.",
+  "zd5626586": "La Tercera, cilena, mette in primo piano Pellegrini, allenatore cileno del Betis; El Nacional elenca i marcatori e la classifica.",
+  "zac3f9053": "Il South China Morning Post racconta la finale con l'attenzione al pubblico di casa e al ritorno al successo di Zheng.",
+  "zf1249312": "L'ABC australiana mette in rilievo l'afflusso di pubblico internazionale in un piccolo centro.",
+  "ze4cef814": "L'ABC australiana sottolinea la rapidità del secolo di Voll e il netto successo dell'Australia.",
+  "z3cbdebf6": "La BBC racconta il ritorno degli orangutan nella foresta; Antara, agenzia indonesiana, dà i numeri dei salvataggi nel Kalimantan Occidentale.",
+  "z239bd695": "Agência Brasil riporta le parole del ministro e il dispiegamento di mezzi; G1 mostra l'arrivo degli aerei a Manaus.",
+  "z8b1913a3": "ScienceDaily riassume i risultati dello studio clinico presentandoli come promettenti.",
+  "zd732be9f": "La RTP, servizio pubblico portoghese, sottolinea il successo della startup a San Francisco.",
+  "z5d897d15": "VnExpress, testata vietnamita, racconta il progetto dei liceali e il finanziamento di Amazon.",
+  "zda88ebfd": "ScienceDaily presenta la ricerca come un'ipotesi: i Neanderthal «potrebbero» aver usato il catrame come medicina.",
+  "z31930f4b": "Orizzonte Scuola, testata italiana sul mondo della scuola, propone il peer tutoring come metodo di apprendimento.",
+  "z30e27f58": "EarthSky riporta che il monumento è a un passo dal diventare parco nazionale.",
+  "z13ae28b8": "L'Aiea riporta i risultati del proprio controllo indipendente sull'acqua trattata.",
+  "zcffb248c": "L'Aiea comunica la conclusione della missione di revisione in Svezia.",
+  "z96e56c40": "Gazeta.uz, testata uzbeka, riporta la proposta del presidente come passo verso una cooperazione regionale.",
+  "z83fa11db": "Egypt Independent riporta l'operazione di soccorso e sottolinea la sicurezza dei passeggeri.",
+  "za29fb599": "La NOS olandese descrive la regione tra speranza di pace e timori di residenti e imprenditori.",
+  "z78b21b1f": "Il Guardian Australia e il Sydney Morning Herald presentano la trattativa tra Verdi e laburisti sulla legge."
  },
  "contesti": {},
  "cronologie": {},
@@ -11048,6 +12481,591 @@ window.EDIZIONI["2026-10-11-sera"] = {
     "Taiwan"
    ],
    "pt": []
+  },
+  "zd22b2c73": {
+   "n": "Valle del Budhi Gandaki, Nepal centrale",
+   "p": [
+    "Nepal"
+   ],
+   "pt": [
+    [
+     28.2,
+     84.9,
+     "Budhi Gandaki"
+    ]
+   ]
+  },
+  "z02157ef8": {
+   "n": "Kharkiv e Kiev, Ucraina",
+   "p": [
+    "Ukraine",
+    "Russia",
+    "United States of America"
+   ],
+   "pt": [
+    [
+     49.99,
+     36.23,
+     "Kharkiv"
+    ],
+    [
+     50.45,
+     30.52,
+     "Kiev"
+    ]
+   ]
+  },
+  "z840a281b": {
+   "n": "Berlino e Kiev",
+   "p": [
+    "Germany",
+    "Ukraine"
+   ],
+   "pt": [
+    [
+     52.52,
+     13.4,
+     "Berlino"
+    ],
+    [
+     50.45,
+     30.52,
+     "Kiev"
+    ]
+   ]
+  },
+  "zee5d8068": {
+   "n": "Dammam e Riad, Arabia Saudita",
+   "p": [
+    "Saudi Arabia",
+    "Yemen"
+   ],
+   "pt": [
+    [
+     26.47,
+     49.8,
+     "Aeroporto di Dammam"
+    ],
+    [
+     24.96,
+     46.7,
+     "Aeroporto di Riad"
+    ]
+   ]
+  },
+  "z44277e97": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Oman",
+    "Iran",
+    "India"
+   ],
+   "pt": [
+    [
+     26.57,
+     56.25,
+     "Stretto di Hormuz"
+    ]
+   ]
+  },
+  "zde58ab32": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": [
+    [
+     -15.79,
+     -47.88,
+     "Brasília"
+    ]
+   ]
+  },
+  "z669a3889": {
+   "n": "Israele",
+   "p": [
+    "Israel",
+    "Palestine"
+   ],
+   "pt": [
+    [
+     31.77,
+     35.21,
+     "Gerusalemme"
+    ]
+   ]
+  },
+  "z26323ab2": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": [
+    [
+     48.86,
+     2.35,
+     "Parigi"
+    ]
+   ]
+  },
+  "z0f16f1ab": {
+   "n": "Stati Uniti e Russia",
+   "p": [
+    "United States of America",
+    "Russia"
+   ],
+   "pt": [
+    [
+     38.9,
+     -77.04,
+     "Washington"
+    ]
+   ]
+  },
+  "z29b98150": {
+   "n": "Linea di Tskhinvali, Georgia",
+   "p": [
+    "Georgia"
+   ],
+   "pt": [
+    [
+     42.23,
+     43.97,
+     "Tskhinvali"
+    ]
+   ]
+  },
+  "z27fb5557": {
+   "n": "Confini della Siria con Iraq e Giordania",
+   "p": [
+    "Syria",
+    "Iraq",
+    "Jordan"
+   ],
+   "pt": []
+  },
+  "z7f37efc5": {
+   "n": "Libia",
+   "p": [
+    "Libya"
+   ],
+   "pt": [
+    [
+     32.89,
+     13.19,
+     "Tripoli"
+    ]
+   ]
+  },
+  "z004b6112": {
+   "n": "Giacarta, Indonesia",
+   "p": [
+    "Indonesia",
+    "Egypt"
+   ],
+   "pt": [
+    [
+     -6.2,
+     106.85,
+     "Giacarta"
+    ]
+   ]
+  },
+  "z997b43d6": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": [
+    [
+     31.77,
+     35.21,
+     "Gerusalemme"
+    ]
+   ]
+  },
+  "zf6b71c89": {
+   "n": "Quilca, Arequipa, Perù",
+   "p": [
+    "Peru"
+   ],
+   "pt": [
+    [
+     -16.71,
+     -72.43,
+     "Quilca"
+    ]
+   ]
+  },
+  "zd38c1644": {
+   "n": "Algeria",
+   "p": [
+    "Algeria",
+    "Morocco"
+   ],
+   "pt": [
+    [
+     36.75,
+     3.06,
+     "Algeri"
+    ]
+   ]
+  },
+  "z2dbc8210": {
+   "n": "Wuhan, Cina",
+   "p": [
+    "China"
+   ],
+   "pt": [
+    [
+     30.59,
+     114.31,
+     "Wuhan"
+    ]
+   ]
+  },
+  "z65e88e6c": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": [
+    [
+     51.5,
+     -0.13,
+     "Londra"
+    ]
+   ]
+  },
+  "z3d771551": {
+   "n": "Pacifico messicano e Sud-Est degli Stati Uniti",
+   "p": [
+    "Mexico",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zfb45b4bb": {
+   "n": "Guam",
+   "p": [
+    "Guam"
+   ],
+   "pt": [
+    [
+     13.44,
+     144.79,
+     "Guam"
+    ]
+   ]
+  },
+  "zcb627b02": {
+   "n": "Isole Salomone",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
+  },
+  "zc9308127": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": [
+    [
+     52.52,
+     13.4,
+     "Berlino"
+    ]
+   ]
+  },
+  "zcd5ab243": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zbc75619a": {
+   "n": "Irlanda",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "za159b92c": {
+   "n": "Lituania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z0e07d072": {
+   "n": "Estonia",
+   "p": [
+    "Estonia"
+   ],
+   "pt": [
+    [
+     59.44,
+     24.75,
+     "Tallinn"
+    ]
+   ]
+  },
+  "z5afc2b03": {
+   "n": "Huanggang, tra Hong Kong e Shenzhen",
+   "p": [
+    "Hong Kong",
+    "China"
+   ],
+   "pt": [
+    [
+     22.53,
+     114.07,
+     "Huanggang"
+    ]
+   ]
+  },
+  "z3cbdebf6": {
+   "n": "Kalimantan Occidentale, Borneo",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": [
+    [
+     -0.02,
+     109.34,
+     "Pontianak"
+    ]
+   ]
+  },
+  "z239bd695": {
+   "n": "Amazonas e Manaus, Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": [
+    [
+     -3.12,
+     -60.02,
+     "Manaus"
+    ]
+   ]
+  },
+  "z30e27f58": {
+   "n": "Chiricahua, Arizona",
+   "p": [
+    "United States of America"
+   ],
+   "pt": [
+    [
+     32.01,
+     -109.35,
+     "Chiricahua"
+    ]
+   ]
+  },
+  "z13ae28b8": {
+   "n": "Fukushima, Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": [
+    [
+     37.42,
+     141.03,
+     "Fukushima Daiichi"
+    ]
+   ]
+  },
+  "zcffb248c": {
+   "n": "Oskarshamn, Svezia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": [
+    [
+     57.42,
+     16.67,
+     "Oskarshamn"
+    ]
+   ]
+  },
+  "z96e56c40": {
+   "n": "Asia centrale",
+   "p": [
+    "Uzbekistan",
+    "Kazakhstan",
+    "Kyrgyzstan",
+    "Tajikistan",
+    "Turkmenistan"
+   ],
+   "pt": []
+  },
+  "z83fa11db": {
+   "n": "Kom Ombo, Assuan, Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": [
+    [
+     24.45,
+     32.93,
+     "Kom Ombo"
+    ]
+   ]
+  },
+  "za29fb599": {
+   "n": "Diyarbakır, Turchia",
+   "p": [
+    "Turkey"
+   ],
+   "pt": [
+    [
+     37.91,
+     40.24,
+     "Diyarbakır"
+    ]
+   ]
+  },
+  "z78b21b1f": {
+   "n": "Canberra, Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": [
+    [
+     -35.28,
+     149.13,
+     "Canberra"
+    ]
+   ]
+  },
+  "z47a16f52": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": [
+    [
+     41.9,
+     12.5,
+     "Roma"
+    ]
+   ]
+  },
+  "zea7c5a82": {
+   "n": "Roma, Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": [
+    [
+     41.83,
+     12.47,
+     "PalaEur"
+    ]
+   ]
+  },
+  "z2f537904": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze2a2bddb": {
+   "n": "Parigi, Francia",
+   "p": [
+    "France"
+   ],
+   "pt": [
+    [
+     48.86,
+     2.35,
+     "Parigi"
+    ]
+   ]
+  },
+  "zd5626586": {
+   "n": "Siviglia, Spagna",
+   "p": [
+    "Spain"
+   ],
+   "pt": [
+    [
+     37.36,
+     -5.98,
+     "Siviglia"
+    ]
+   ]
+  },
+  "zac3f9053": {
+   "n": "Pechino, Cina",
+   "p": [
+    "China"
+   ],
+   "pt": [
+    [
+     39.9,
+     116.4,
+     "Pechino"
+    ]
+   ]
+  },
+  "zf1249312": {
+   "n": "Nannup, Australia Occidentale",
+   "p": [
+    "Australia"
+   ],
+   "pt": [
+    [
+     -33.98,
+     115.77,
+     "Nannup"
+    ]
+   ]
+  },
+  "ze4cef814": {
+   "n": "Brisbane, Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": [
+    [
+     -27.47,
+     153.03,
+     "Brisbane"
+    ]
+   ]
+  },
+  "z5d897d15": {
+   "n": "Vietnam",
+   "p": [
+    "Vietnam"
+   ],
+   "pt": []
+  },
+  "z31930f4b": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd732be9f": {
+   "n": "San Francisco, Stati Uniti",
+   "p": [
+    "United States of America",
+    "Portugal"
+   ],
+   "pt": [
+    [
+     37.77,
+     -122.42,
+     "San Francisco"
+    ]
+   ]
   }
  },
  "rilievo": {
@@ -11330,7 +13348,56 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z35d8bc8c": 1,
   "zd5e9fecc": 1,
   "z93bd0368": 1,
-  "zb683bc43": 1
+  "zb683bc43": 1,
+  "zd22b2c73": 2,
+  "z02157ef8": 3,
+  "z840a281b": 2,
+  "zee5d8068": 3,
+  "z44277e97": 2,
+  "zde58ab32": 2,
+  "z669a3889": 2,
+  "z26323ab2": 2,
+  "z0f16f1ab": 2,
+  "z29b98150": 1,
+  "z27fb5557": 1,
+  "z7f37efc5": 1,
+  "z004b6112": 1,
+  "z997b43d6": 1,
+  "zf6b71c89": 1,
+  "zd38c1644": 1,
+  "z2dbc8210": 1,
+  "z65e88e6c": 2,
+  "z3d771551": 2,
+  "zfb45b4bb": 2,
+  "zcb627b02": 2,
+  "zc9308127": 1,
+  "zcd5ab243": 1,
+  "zbc75619a": 1,
+  "za159b92c": 1,
+  "z0e07d072": 1,
+  "z5afc2b03": 1,
+  "z47a16f52": 1,
+  "zea7c5a82": 1,
+  "z2f537904": 1,
+  "ze2a2bddb": 1,
+  "zd5626586": 1,
+  "zac3f9053": 1,
+  "zf1249312": 1,
+  "ze4cef814": 1,
+  "z3cbdebf6": 1,
+  "z239bd695": 2,
+  "z8b1913a3": 1,
+  "zd732be9f": 1,
+  "z5d897d15": 1,
+  "zda88ebfd": 1,
+  "z31930f4b": 1,
+  "z30e27f58": 1,
+  "z13ae28b8": 1,
+  "zcffb248c": 1,
+  "z96e56c40": 1,
+  "z83fa11db": 1,
+  "za29fb599": 1,
+  "z78b21b1f": 1
  },
  "video": {},
  "pillole": []
