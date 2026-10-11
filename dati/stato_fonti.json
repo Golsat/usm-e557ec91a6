@@ -2009,8 +2009,8 @@
    "ultima": "Fri, 09 Oct 2026 20:25:53 +0000"
   },
   "Foroyaa": {
-   "ok": false,
-   "errore": "The read operation timed out"
+   "ok": true,
+   "ms": 120
   },
   "Gabonactu": {
    "ok": true,
@@ -2078,8 +2078,8 @@
    "ultima": "Sat, 10 Oct 2026 10:50:57 +0000"
   },
   "La Presse de Tunisie": {
-   "ok": false,
-   "errore": "<urlopen error [Errno 11001] getaddrinfo failed>"
+   "ok": true,
+   "ms": 150
   },
   "Novo Jornal": {
    "ok": true,
@@ -2220,5 +2220,25 @@
    "voci": 30,
    "ultima": "Sun, 11 Oct 26 12:48:00 -0400"
   }
- }
+ },
+ "natura": [
+  [
+   "Foroyaa",
+   "indipendente"
+  ],
+  [
+   "La Presse de Tunisie",
+   "pubblica"
+  ]
+ ],
+ "paesiFonti": [
+  [
+   "Foroyaa",
+   "Gambia"
+  ],
+  [
+   "La Presse de Tunisie",
+   "Tunisia"
+  ]
+ ]
 }
