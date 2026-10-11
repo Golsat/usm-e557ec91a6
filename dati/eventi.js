@@ -1,8 +1,8 @@
 window.EVENTI={
- "aggiornato": "2026-10-11T09:30",
+ "aggiornato": "2026-10-10T20:50",
  "valido": [
-  "2026-10-11",
-  "2026-10-18"
+  "2026-10-10",
+  "2026-10-17"
  ],
  "avviso": "Date e orari presi dai siti ufficiali indicati; controlla sempre la scheda prima di andare.",
  "citta": {
@@ -30,6 +30,42 @@ window.EVENTI={
     }
    ],
    "eventi": [
+    {
+     "d": "2026-10-10",
+     "df": "2026-10-10",
+     "o": "19:00",
+     "t": "La Lalangue (Giacomo Luci)",
+     "l": "Mattatoio",
+     "tipo": "danza",
+     "u": "https://romaeuropa.net/festival-2026/la-lalangue/",
+     "f": "Romaeuropa Festival",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-10",
+     "df": "2026-10-10",
+     "o": "20:00",
+     "t": "Coraggio. La sfortuna non esiste (Vidavé Company)",
+     "l": "Mattatoio",
+     "tipo": "danza",
+     "u": "https://romaeuropa.net/festival-2026/coraggio-la-sfortuna-non-esiste/",
+     "f": "Romaeuropa Festival",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-10",
+     "df": "2026-10-10",
+     "o": "21:30",
+     "t": "AMAZZONI (Silvia Gribaudi)",
+     "l": "Mattatoio",
+     "tipo": "danza",
+     "u": "https://romaeuropa.net/festival-2026/amazzoni/",
+     "f": "Romaeuropa Festival",
+     "g": false,
+     "n": ""
+    },
     {
      "d": "2026-10-10",
      "df": "2026-10-11",
@@ -201,7 +237,7 @@ window.EVENTI={
     {
      "d": "2026-10-11",
      "df": "2026-11-01",
-     "o": "19:00",
+     "o": "",
      "t": "Falstaff (Verdi)",
      "l": "Teatro dell'Opera, Piazza Beniamino Gigli 7",
      "tipo": "opera",
@@ -281,6 +317,18 @@ window.EVENTI={
      "f": "Roma Capitale · Culture",
      "g": true,
      "n": "9-11 ottobre"
+    },
+    {
+     "d": "2026-10-10",
+     "df": "2026-10-10",
+     "o": "",
+     "t": "La città che ci abita 2026",
+     "l": "Teatro Patologico, Via Cassia 472",
+     "tipo": "teatro",
+     "u": "https://culture.roma.it/manifestazione/la-citta-che-ci-abita-2026/",
+     "f": "Roma Capitale · Culture",
+     "g": true,
+     "n": "9-10 ottobre"
     },
     {
      "d": "2026-10-10",
