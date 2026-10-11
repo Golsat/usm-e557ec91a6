@@ -63,6 +63,14 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/como_roma_primo_0_a_0_campionato-425640897/",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/serie-a-senza-reti-como-roma-190381a8-5832-4de4-8d5d-9529d2d8d3fc.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "11 ott",
@@ -855,37 +863,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z8b57191a",
-   "sez": "mondo",
-   "titolo": "Zelensky risponde a Trump: «Sono gli ucraini a scegliere il loro leader»",
-   "orig": "Zelensky reponde a Trump que cabe aos ucranianos escolher o líder e pede cessar fogo de 60 dias para eleições",
-   "lead": "Il presidente ucraino Volodymyr Zelensky ha respinto l'invito di Donald Trump a un cambio alla guida dell'Ucraina. In un'intervista all'emittente statunitense ABC, Zelensky ha ribadito che spetta agli ucraini scegliere il proprio presidente e ha chiesto un cessate il fuoco di 60 giorni per consentire lo svolgimento delle elezioni. La replica arriva dopo che Trump aveva sollecitato apertamente un nuovo leader a Kiev. Lo scambio si inserisce nel confronto in corso tra Washington e Kiev sul futuro della guerra con la Russia.",
-   "more": [
-    "Volodymyr Zelensky è presidente dell'Ucraina dal 2019 e ha guidato il Paese durante l'invasione russa su larga scala. Con la legge marziale in vigore, in Ucraina le elezioni sono state sospese, un tema spesso al centro del dibattito internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/mundo/zelensky-reponde-a-trump-que-cabe-aos-ucranianos-escolher-o-lider-e-pede-cessar-fogo-de-60-dias-para-eleicoes_n1771027",
-     "angolo": "",
-     "atlas": "Portugal"
-    },
-    {
-     "n": "Expresso das Ilhas",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://expressodasilhas.cv/mundo/2026/10/10/guterres-apela-a-cessar-fogo-imediato-no-norte-da-etiopia/105029",
-     "angolo": "",
-     "atlas": "Cabo Verde"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
    "id": "zc705936f",
    "sez": "salute",
    "titolo": "La tartaruga gigante Jonathan, 194 anni, svela segreti sulla longevità",
@@ -1003,35 +980,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://www.haaretz.com/israel-news/israel-politics/2026-10-11/ty-article/.premium/netanyahu-aides-alleged-whatsapp-messages-leaked-online/000001a1-2b1a-dbf1-a1f3-fbde1ebe0000",
      "angolo": "",
      "atlas": "Israel"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
-   "id": "z5c1f3fb4",
-   "sez": "mondo",
-   "titolo": "Kiev respinge l'appello di Trump per un nuovo presidente, droni su un centro dati russo",
-   "orig": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub",
-   "lead": "Domenica il presidente ucraino Volodymyr Zelensky ha ribadito che la responsabilità della guerra è soltanto della Russia, rispondendo a Donald Trump, che lo aveva accusato per l'alto prezzo del gasolio e aveva detto che è tempo per l'Ucraina di avere un nuovo leader. Zelensky ha proposto di fermare gli attacchi alle raffinerie russe se Mosca smetterà di colpire la rete energetica ucraina. Nello stesso giorno Kiev ha proseguito la campagna contro le infrastrutture in profondità nel territorio russo: un attacco con droni ha messo fuori uso un centro dati.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Korea Herald",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.koreaherald.com/article/10898725",
-     "angolo": "",
-     "atlas": "South Korea"
-    },
-    {
-     "n": "Stuff NZ",
-     "p": "XX",
-     "c": "Wellington",
-     "u": "https://www.stuff.co.nz/world-news/361045119/kyiv-pushes-back-trumps-call-new-ukrainian-presiden",
-     "angolo": "",
-     "atlas": "New Zealand"
     }
    ],
    "data": "11 ott",
@@ -1823,37 +1771,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zfb1cba8d",
-   "sez": "mondo",
-   "titolo": "Intelligence europee: il Gru russo progetta di uccidere manager dell'industria bellica",
-   "orig": "L’allarme degli 007: “Mosca vuole uccidere i manager delle aziende militari europee”",
-   "lead": "Il Financial Times ha raccolto indiscrezioni da cinque servizi segreti europei. Secondo queste fonti il Gru, il servizio di spionaggio militare russo, avrebbe messo a punto piani per assassinare dirigenti delle aziende europee della difesa che forniscono armi all'Ucraina. L'allarme delle intelligence riguarda quindi i vertici delle imprese coinvolte nel sostegno militare a Kiev. Lo riferisce la Repubblica.",
-   "more": [
-    "Il Gru è il servizio di intelligence militare della Russia. È stato accusato da diversi governi occidentali di operazioni di sabotaggio, avvelenamenti e attività clandestine all'estero."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/?rss",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
    "id": "z67f827dd",
    "sez": "italia",
    "titolo": "Scuola, Pizzo (Uil): «Il concorso apra al lavoro, ma il servizio conti»",
@@ -1994,76 +1911,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive",
      "angolo": "",
      "atlas": ""
-    }
-   ],
-   "data": "11 ott",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
-   "id": "zec69b329",
-   "sez": "mondo",
-   "titolo": "Trump annuncia una «tregua energetica» tra Russia e Ucraina",
-   "orig": "Trump announces 'energy ceasefire' between Russia and Ukraine",
-   "lead": "Il presidente degli Stati Uniti Donald Trump ha annunciato una «tregua energetica» tra Russia e Ucraina. Secondo Trump, entrambe le parti hanno accettato di smettere da subito di colpire raffinerie di petrolio, centrali elettriche e altre infrastrutture energetiche. L'intesa riguarderebbe quindi uno degli aspetti più duri della guerra, cioè gli attacchi agli impianti che forniscono elettricità, riscaldamento e carburante. Non sono stati resi noti altri dettagli sui tempi o sui controlli dell'accordo. Lo riferisce Deutsche Welle.",
-   "more": [
-    "Durante la guerra tra Russia e Ucraina gli attacchi alle infrastrutture energetiche sono stati frequenti da entrambe le parti. Colpire centrali e reti elettriche lascia la popolazione senza luce e riscaldamento, mentre gli attacchi alle raffinerie riducono la produzione di carburante e le entrate legate al petrolio."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509",
-     "angolo": "",
-     "atlas": "Germany"
-    },
-    {
-     "n": "The Kyiv Independent",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://kyivindependent.com/trump-claims-ukraine-russia-agreed-to-energy-ceasefire-kyiv-has-no-information-about-it/",
-     "angolo": "",
-     "atlas": "Ukraine"
-    },
-    {
-     "n": "Moscow Times",
-     "p": "XX",
-     "c": "Amsterdam (in esilio)",
-     "u": "https://www.themoscowtimes.com/2026/10/11/ukraine-will-stop-hitting-refineries-if-russia-halts-energy-attacks-zelensky-says-a93943",
-     "angolo": "",
-     "atlas": "Russia"
-    },
-    {
-     "n": "The Kyiv Independent",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://kyivindependent.com/ukraine-will-only-stop-attacking-russian-oil-as-part-of-an-energy-ceasefire-zelensky-says/",
-     "angolo": "",
-     "atlas": "Ukraine"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
-   "id": "z1f826122",
-   "sez": "sport",
-   "titolo": "Serie A, Como-Roma finisce 0-0",
-   "orig": "Serie A, senza reti Como-Roma",
-   "lead": "In Serie A la partita tra Como e Roma, giocata a Como, si è chiusa senza reti, 0-0. La Roma è rimasta in dieci uomini per quasi tutto il secondo tempo, ma è riuscita a resistere fino alla fine senza subire gol. Per i giallorossi si tratta quindi di un pareggio ottenuto in inferiorità numerica, mentre il Como, pur giocando con un uomo in più, non è riuscito a sbloccare il risultato davanti al proprio pubblico. Lo riferisce Rai News.",
-   "more": [
-    "La Serie A è il massimo campionato italiano di calcio. La Roma è una delle squadre storiche della capitale, mentre il Como è il club dell'omonima città lombarda, affacciata sul lago. Restare in dieci significa giocare con un calciatore in meno, di solito dopo un'espulsione."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/serie-a-senza-reti-como-roma-190381a8-5832-4de4-8d5d-9529d2d8d3fc.html",
-     "angolo": "",
-     "atlas": "Italy"
     }
    ],
    "data": "11 ott",
@@ -2250,6 +2097,14 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://ipn.md/en/the-explosive-payload-of-the-drone-that-fell-in-anenii-noi-deactivated-by-the-police-specialists/",
      "angolo": "",
      "atlas": "Moldova"
+    },
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/an-unidentified-flying-object-reportedly-fell-and-exploded-in-a-forest-in-anenii-noi-no-casualties-have-been-reported/",
+     "angolo": "",
+     "atlas": "Moldova"
     }
    ],
    "data": "11 ott",
@@ -2365,29 +2220,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://dailynews.co.tz/coop-bank-partners-with-accosca-and-sccult-to-back-this-years-sacca-congress/",
      "angolo": "",
      "atlas": "Tanzania"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
-   "id": "z14f5b9f8",
-   "sez": "mondo",
-   "titolo": "Moldavia, un oggetto volante precipita ed esplode in un bosco di Anenii Noi",
-   "orig": "An unidentified flying object reportedly fell and exploded in a forest in Anenii Noi. No casualties have been reported",
-   "lead": "Un velivolo non identificato, che si sospetta fosse un drone, sarebbe precipitato ed esploso sabato sera in un bosco vicino al villaggio di Geamana, nel distretto di Anenii Noi, in Moldavia. Secondo le prime informazioni non ci sono vittime né feriti. La notizia è stata diffusa a partire dalle comunicazioni delle autorità moldave, mentre restano da chiarire natura e provenienza dell'oggetto caduto. Lo riferisce IPN (inglese).",
-   "more": [
-    "La Moldavia confina con l'Ucraina e, dall'inizio dell'invasione russa, il suo territorio è stato più volte interessato dalla caduta di droni o di frammenti legati agli attacchi sul Paese vicino. Anenii Noi è un distretto a sud-est della capitale Chișinău."
-   ],
-   "fonti": [
-    {
-     "n": "IPN (inglese)",
-     "p": "XX",
-     "c": "Chisinau",
-     "u": "https://ipn.md/en/an-unidentified-flying-object-reportedly-fell-and-exploded-in-a-forest-in-anenii-noi-no-casualties-have-been-reported/",
-     "angolo": "",
-     "atlas": "Moldova"
     }
    ],
    "data": "11 ott",
@@ -3345,6 +3177,78 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://meduza.io/en/news/2026/10/09/trump-says-he-reached-a-deal-with-putin-to-supply-russian-diesel-to-u-s-and-global-markets-breaking-with-years-of-american-sanctions-policy",
      "angolo": "",
      "atlas": "Russia"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/trump-claims-ukraine-russia-agreed-to-energy-ceasefire-kyiv-has-no-information-about-it/",
+     "angolo": "",
+     "atlas": "Ukraine"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/11/ukraine-will-stop-hitting-refineries-if-russia-halts-energy-attacks-zelensky-says-a93943",
+     "angolo": "",
+     "atlas": "Russia"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/ukraine-will-only-stop-attacking-russian-oil-as-part-of-an-energy-ceasefire-zelensky-says/",
+     "angolo": "",
+     "atlas": "Ukraine"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10898725",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361045119/kyiv-pushes-back-trumps-call-new-ukrainian-presiden",
+     "angolo": "",
+     "atlas": "New Zealand"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/zelensky-reponde-a-trump-que-cabe-aos-ucranianos-escolher-o-lider-e-pede-cessar-fogo-de-60-dias-para-eleicoes_n1771027",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/10/10/guterres-apela-a-cessar-fogo-imediato-no-norte-da-etiopia/105029",
+     "angolo": "",
+     "atlas": "Cabo Verde"
+    },
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/donald-trump-calls-for-the-replacement-of-the-ukrainian-president-whom-he-accuses-of-raising-the-price-of-diesel-in-the-usa/",
+     "angolo": "",
+     "atlas": "Moldova"
     }
    ],
    "data": "11 ott",
@@ -4317,6 +4221,22 @@ window.EDIZIONI["2026-10-11-sera"] = {
      "u": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
      "angolo": "",
      "atlas": "United Kingdom"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/?rss",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "11 ott",
@@ -6037,29 +5957,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zc1af286d",
-   "sez": "mondo",
-   "titolo": "Trump chiede un nuovo presidente per l'Ucraina e lo accusa del caro gasolio negli Usa",
-   "orig": "Donald Trump calls for the replacement of the Ukrainian president, whom he accuses of raising the price of diesel in the USA",
-   "lead": "Il presidente degli Stati Uniti Donald Trump ha affermato sabato che l'Ucraina dovrebbe avere un nuovo leader, in grado di negoziare un accordo per porre fine alla guerra con la Russia. Nelle stesse dichiarazioni, Trump ha accusato il presidente ucraino di essere responsabile dell'aumento del prezzo del gasolio negli Stati Uniti. Le parole del capo della Casa Bianca intervengono direttamente sulla guida politica di Kiev, legando la questione del conflitto a quella dei costi del carburante per gli americani. Lo riferisce IPN (inglese).",
-   "more": [
-    "La guerra tra Russia e Ucraina è iniziata con l'invasione russa su larga scala e ha avuto forti ricadute sui mercati energetici mondiali. Gli Stati Uniti sono stati tra i principali sostenitori di Kiev, e il tema di un possibile negoziato di pace è al centro del dibattito politico internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "IPN (inglese)",
-     "p": "XX",
-     "c": "Chisinau",
-     "u": "https://ipn.md/en/donald-trump-calls-for-the-replacement-of-the-ukrainian-president-whom-he-accuses-of-raising-the-price-of-diesel-in-the-usa/",
-     "angolo": "",
-     "atlas": "Moldova"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "13:04",
-   "uscita": "13"
-  },
-  {
    "id": "zd8faa55c",
    "sez": "salute",
    "titolo": "Capire la salute mentale attraverso l'ascolto e la condivisione",
@@ -6615,7 +6512,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z19a9060c": "La testata sottolinea il doppio valore della musica del gruppo: testimonianza storica e invito al ballo.",
   "z57fe3f57": "La testata mette in evidenza l'effetto della popolarità della star sull'affluenza al museo.",
   "za997b3fd": "La testata pone l'accento sulla profondità emotiva e poetica della scrittura dell'artista.",
-  "zc1af286d": "La testata moldava mette in evidenza l'accusa sul prezzo del gasolio accanto alla richiesta di un cambio alla guida dell'Ucraina.",
   "zd8faa55c": "La testata mette in risalto l'attenzione ai giovani e il nesso tra sofferenza psichica e droghe.",
   "zcb34ef5e": "La testata vaticana mette in evidenza l'invito del Papa a condividere la gioia anche di fronte al rifiuto.",
   "z74751db4": "La testata dà spazio agli psichiatri per richiamare l'attenzione sui rischi di un mancato riconoscimento dei sintomi.",
@@ -6659,12 +6555,10 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z90ebab29": "Hong Kong Free Press mette in risalto il ritardo con cui l'arresto è stato reso pubblico, mentre l'altra voce riguarda un fatto diverso: due arresti per vandalismo in Nigeria.",
   "z94aca2a0": "OndaRock valorizza il lato umano dell'intervista a Homme, mentre Opinión mette la band nel contesto del cartellone del Lollapalooza Argentina.",
   "zf581c29d": "Tagesschau si limita alla notizia dell'esame dell'operato delle emittenti, mentre la NZZ lo inserisce in un riepilogo degli sviluppi del secondo mandato di Trump, comprese le sanzioni contro la Corte penale internazionale.",
-  "z8b57191a": "RTP mette in evidenza la richiesta di una tregua di 60 giorni per votare, mentre l'altra voce riguarda l'appello di Guterres a un cessate il fuoco nel nord dell'Etiopia.",
   "zc705936f": "The Guardian collega la scoperta all'antica ricerca per allungare la vita umana, mentre Medical Xpress mette in risalto il gruppo di ricerca di Vanderbilt Health.",
   "zdcc8c110": "The Guardian segue la giornata in diretta con attenzione al derby Southampton-Portsmouth, mentre La Tercera si concentra sul Crystal Palace del cileno Darío Osorio.",
   "z67bf461f": "Sky TG24 punta sulla rivelazione del problema al cuore, mentre Der Spiegel dà spazio alla riflessione di Messner e della moglie su vecchiaia, morte e vita di coppia.",
   "zeb3ea1cf": "Fox News ricostruisce i retroscena del piano contro Nasrallah e i rapporti con Washington, mentre Haaretz si occupa della fuga di messaggi di un collaboratore di Netanyahu.",
-  "z5c1f3fb4": "The Korea Herald affianca la replica a Trump all'attacco con droni contro infrastrutture russe, mentre Stuff si concentra sulla sola risposta politica di Zelensky.",
   "z3a89708c": "Il Times of India mette in evidenza la resistenza dei proprietari e le dispute legali, mentre l'altra voce riguarda una vicenda politica diversa, nello Stato di Ngardmau a Palau.",
   "z74458c71": "Dawn esalta la prova di Maaz Sadaqat, mentre Ada Derana riporta in modo essenziale il sorteggio e il risultato della prima partita.",
   "zb637d4d8": "Foroyaa racconta l'impegno locale con i pescatori artigianali, mentre Antara riferisce di un accordo tra Indonesia ed Egitto contro la pesca illegale.",
@@ -6687,14 +6581,11 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z6d26c4fe": "La FAZ e lo Spiegel parlano di un possibile tramonto di Neuer, la Süddeutsche riporta la linea prudente del club.",
   "zc79983bc": "Il Kyiv Independent riporta l'appello di Zelensky, Ukrinform aggiunge i feriti nella comunità di Kramatorsk.",
   "z323fb602": "The Guardian punta sul colpo di scena finale, Euronews riporta in parallelo i mondiali di judo a Baku.",
-  "zfb1cba8d": "La Repubblica rilancia le rivelazioni del Financial Times, attribuendole a fonti d'intelligence non ufficiali.",
   "z67f827dd": "Orizzonte Scuola dà spazio alla posizione sindacale sul rapporto tra concorsi e anzianità di servizio.",
   "zb3805575": "Il Messaggero mette in evidenza il comportamento dopo l'incidente e la testimonianza raccolta sul posto.",
   "zbae80750": "Le due testate specializzate si concentrano sul trailer e sulle date di uscita nelle sale.",
   "za0617239": "MyJoyOnline insiste sul legame tra istruzione e lavoro, 3News sui settori destinatari degli aiuti.",
   "z21112c8b": "L'Esa mette in evidenza il lato divulgativo della missione, raccontata come un'avventura di «detective spaziali» adatta anche ai più piccoli.",
-  "zec69b329": "Deutsche Welle riporta l'annuncio attribuendolo a Trump, senza presentare conferme dirette delle due parti.",
-  "z1f826122": "Rai News sottolinea la resistenza della Roma, rimasta in inferiorità numerica per gran parte della ripresa.",
   "z15cda0e7": "Rai News dà voce alla preoccupazione dei cittadini di Taranto per i rischi sanitari legati all'acciaieria.",
   "z8c5c95da": "Rai News evidenzia il carattere precoce e trasversale del disagio psichico e il richiamo al diritto alla cura.",
   "zc7424f7f": "RTÉ News mette in risalto il contrasto tra il primato positivo sui salumi magri e quello negativo sugli zuccheri.",
@@ -6708,7 +6599,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "zbd50000e": "San Marino RTV valorizza soprattutto il risultato del pilota sammarinese Bernardi e la sua continuità sul podio.",
   "z93953e45": "La testata si concentra sul passaggio procedurale che porta l'imputato a processo e sul ruolo della commissione anticorruzione.",
   "z2cec79a8": "L'articolo valorizza il ruolo della banca cooperativa nazionale come sostenitrice di un grande evento continentale.",
-  "z14f5b9f8": "La testata sottolinea l'assenza di vittime e l'incertezza sull'identità dell'oggetto precipitato.",
   "z0f4ef790": "La testata riporta la dichiarazione di Trump mettendo in primo piano il rapporto personale con la premier.",
   "z78d25746": "L'articolo insiste sulla rapidità dell'ascesa del pilota e sulla fiducia ripagata della Red Bull.",
   "ze7a7ef00": "La testata fa emergere la distanza tra le aspettative di pace e la cautela russa, a fronte dell'interesse per gli affari.",
@@ -7377,13 +7267,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    ],
    "pt": []
   },
-  "zc1af286d": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zd8faa55c": {
    "n": "Roma",
    "p": [
@@ -7662,13 +7545,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    ],
    "pt": []
   },
-  "z8b57191a": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "zc705936f": {
    "n": "Sant'Elena",
    "p": [
@@ -7694,13 +7570,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    "n": "Beirut",
    "p": [
     "Lebanon"
-   ],
-   "pt": []
-  },
-  "z5c1f3fb4": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -7859,11 +7728,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
    ],
    "pt": []
   },
-  "zfb1cba8d": {
-   "n": "Europa",
-   "p": [],
-   "pt": []
-  },
   "z67f827dd": {
    "n": "Italia",
    "p": [
@@ -7896,21 +7760,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z21112c8b": {
    "n": "Sistema Didymos-Dimorphos",
    "p": [],
-   "pt": []
-  },
-  "zec69b329": {
-   "n": "Ucraina e Russia",
-   "p": [
-    "Ukraine",
-    "Russia"
-   ],
-   "pt": []
-  },
-  "z1f826122": {
-   "n": "Como",
-   "p": [
-    "Italy"
-   ],
    "pt": []
   },
   "z15cda0e7": {
@@ -8001,13 +7850,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z2cec79a8": {
    "n": "Dar es Salaam",
    "p": [],
-   "pt": []
-  },
-  "z14f5b9f8": {
-   "n": "Geamana",
-   "p": [
-    "Moldova"
-   ],
    "pt": []
   },
   "z0f4ef790": {
@@ -8214,7 +8056,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z19a9060c": 1,
   "z57fe3f57": 1,
   "za997b3fd": 1,
-  "zc1af286d": 2,
   "zd8faa55c": 2,
   "zcb34ef5e": 1,
   "z74751db4": 1,
@@ -8236,7 +8077,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z26ba3b2d": 2,
   "z28b1d452": 1,
   "zcaa3c1ea": 1,
-  "z342ea6bd": 1,
+  "z342ea6bd": 2,
   "za5c62c88": 1,
   "za453b883": 1,
   "z2324efbb": 1,
@@ -8258,12 +8099,10 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z90ebab29": 1,
   "z94aca2a0": 1,
   "zf581c29d": 1,
-  "z8b57191a": 2,
   "zc705936f": 1,
   "zdcc8c110": 1,
   "z67bf461f": 1,
   "zeb3ea1cf": 1,
-  "z5c1f3fb4": 2,
   "z3a89708c": 1,
   "z74458c71": 1,
   "zb637d4d8": 1,
@@ -8286,14 +8125,11 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "z6d26c4fe": 1,
   "zc79983bc": 1,
   "z323fb602": 1,
-  "zfb1cba8d": 2,
   "z67f827dd": 1,
   "zb3805575": 1,
   "zbae80750": 1,
   "za0617239": 1,
   "z21112c8b": 1,
-  "zec69b329": 2,
-  "z1f826122": 1,
   "z15cda0e7": 1,
   "z8c5c95da": 1,
   "zc7424f7f": 1,
@@ -8307,7 +8143,6 @@ window.EDIZIONI["2026-10-11-sera"] = {
   "zbd50000e": 1,
   "z93953e45": 1,
   "z2cec79a8": 1,
-  "z14f5b9f8": 1,
   "z0f4ef790": 1,
   "z78d25746": 1,
   "ze7a7ef00": 1,
