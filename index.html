@@ -491,6 +491,9 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .ora-pub{position:absolute;top:-10px;right:10px;z-index:3;font:700 10.5px var(--sans);letter-spacing:.04em;padding:3px 9px;border-radius:99px;background:var(--card);color:var(--muted);border:1px solid var(--hair);box-shadow:0 2px 6px rgba(0,0,0,.18);cursor:help}
 .eye .uscita{font:800 10px var(--sans);letter-spacing:.06em;padding:2px 7px;border-radius:99px;background:#2b2f52;color:#f4efcf;border:1px solid #8b90c8;white-space:nowrap}
 .eye .uscita.u-mattino{background:#f4e3a6;color:#4a3a00;border-color:#d8b94a}
+.eye .uscita.u-13{background:#cfeccf;color:#134a1c;border-color:#5fae6a}
+.eye .uscita.u-17{background:#ffd9b3;color:#6a2f00;border-color:#e08a3c}
+.eye .uscita.u-sera{background:#2b2f52;color:#f4efcf;border-color:#8b90c8}
 @media print{.sera-corner,.ora-pub,.eye .uscita{border-color:#000;color:#000;background:#fff;box-shadow:none}}
 .nov-slide{display:flex;gap:10px;align-items:flex-start;min-height:104px;animation:novIn .5s ease}
 .nov-slide .nov-ic{font-size:28px;line-height:1;flex:none;width:40px;height:40px;display:grid;place-items:center;border-radius:10px;background:color-mix(in srgb,var(--accent) 14%,var(--card))}
@@ -1070,7 +1073,8 @@ function render(){
     if(s.id==="eventi"){ const h = eventiHTML(s); if(h) parti.push({full:filtroSezione==="eventi", html:h}); continue; }
     if(s.id==="meteo"){ const h = meteoHTML(s); if(h){ parti.push({full:filtroSezione==="meteo", html:h}); } continue; }   // il meteo è una tabella di dati, non un elenco di notizie
     const items = NEWS.filter(n=>n.sez===s.id && visibile(n));
-    if(s.id!=="prima" && s.id!=="italia") items.sort((a,b)=>riguardaItalia(b)-riguardaItalia(a));      // in ogni sezione prima le notizie che riguardano l'Italia (l'ordine restante non cambia)
+    const itaPrima = (s.id!=="prima" && s.id!=="italia");
+    items.sort((a,b)=> (itaPrima ? riguardaItalia(b)-riguardaItalia(a) : 0) || (b.ora||"").localeCompare(a.ora||""));   // prima le notizie che riguardano l'Italia, poi le piu recenti per ora (senza ora in fondo; a pari ora l'ordine non cambia)
     if(!items.length) continue; tot+=items.length;
     const ch = chiuse.has(s.id);
     parti.push({full:!!(s.front||filtroSezione===s.id), html:`<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${s.good?" goodsec":""}${(s.front||filtroSezione===s.id)?" fullw":""}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}${s.nome}</span><span class="h2r"><small>${items.length} ${items.length===1?"notizia":"notizie"}</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2>${subBar(s)}<div class="grid${s.front?" front":""}">${items.map(cardHTML).join("")}</div></section>`});
@@ -1870,7 +1874,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261011-1705";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261011-1730";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2085,7 +2089,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261011-1705";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261011-1730";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
