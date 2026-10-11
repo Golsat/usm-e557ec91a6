@@ -4984,7 +4984,7 @@ window.EDIZIONI["2026-10-11-sera"] = {
   },
   {
    "id": "zba8c6f39",
-   "sez": "salute",
+   "sez": "tech",
    "titolo": "Lancet: guerra nucleare e uso malevolo dell'IA minacciano l'umanità entro il 2100",
    "orig": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
    "lead": "Secondo una nuova valutazione globale dei rischi pubblicata da una commissione appena istituita da The Lancet, l'umanità potrebbe estinguersi entro il 2100 a causa dell'uso malevolo dell'intelligenza artificiale o di un conflitto nucleare. Le due minacce guidano un elenco di 17 rischi catastrofici per la salute umana nei prossimi 75 anni, che comprende anche i tagli agli aiuti da parte dei Paesi ricchi, la crisi climatica e la malnutrizione infantile. Gli esperti sostengono però che per ciascuno di questi pericoli esista una strada realistica per intervenire.",
