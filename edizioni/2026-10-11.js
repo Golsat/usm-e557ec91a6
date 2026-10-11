@@ -3,6 +3,2707 @@ window.EDIZIONI["2026-10-11"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z940d832d",
+   "sez": "prima",
+   "titolo": "Panama, dopo il terremoto di magnitudo 7,7 il Paese inizia a riprendersi",
+   "orig": "Traumatised Panamanians begin recovery after 7.7-magnitude quake",
+   "lead": "Panama prova a rialzarsi dopo il forte terremoto che venerdì, intorno a mezzogiorno, ha colpito la costa meridionale del Paese con una magnitudo di 7,7, seguito da una seconda scossa di 6,6. Da allora sono state registrate più di cento repliche, alcune vicine a magnitudo 6. Il presidente José Raúl Mulino ha dichiarato sabato lo stato di emergenza per sbloccare più rapidamente aiuti fino a 100 milioni di dollari. Le autorità parlano di alcuni feriti lievi, senza morti né dispersi, ma diversi edifici, strade, alberghi e chiese hanno subito danni. Alcune comunità sono state evacuate.",
+   "more": [
+    "Panama si trova nell'istmo che collega America centrale e meridionale, una zona dove si incontrano diverse placche tettoniche ed è quindi esposta ai terremoti. Le repliche sono scosse minori che seguono un sisma principale: possono durare giorni o settimane e indebolire ulteriormente gli edifici già danneggiati."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/panama-earthquake-77-magnitude-aftershocks-recovery-efforts-6450021",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/massive-7-7-magnitude-earthquake-strikes-panama-officials-investigate-potential-tsunami-threat",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/powerful-earthquake-shakes-panama-followed-by-large-aftershocks/",
+     "angolo": "",
+     "atlas": "Egypt"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/traumatised-panamanians-begin-recovery-from-7-7-magnitude-earthquake",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1824410/us-tsunami-warning-center-says-no-threat-to-pacific-islands-following-quake",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    },
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/provincias/la-casita-se-vino-abajo-la-impotencia-de-los-pobladores-de-la-villa-de-los-santos-tras-el",
+     "angolo": "",
+     "atlas": "Panama"
+    },
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/10/the-helplessness-of-the-residents-of-la-villa-de-los-santos-after-the-earthquake-the-little-house-collapsed/",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7836f495",
+   "sez": "prima",
+   "titolo": "Trump valuta di unirsi agli attacchi contro gli Houthi dopo l'assalto all'aeroporto di Riad",
+   "orig": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+   "lead": "Il presidente degli Stati Uniti Donald Trump ha detto che Washington «potrebbe» unirsi agli attacchi sauditi contro gli Houthi dello Yemen. La presa di posizione arriva dopo l'attacco contro l'aeroporto di Riad, che Trump ha definito «non accettabile». Nell'ultima settimana gli Houthi hanno moltiplicato le azioni contro altri aeroporti, strutture militari e impianti petroliferi sauditi. L'escalation è cominciata dopo l'avvio di una grande offensiva militare della coalizione guidata dall'Arabia Saudita contro il gruppo. In Yemen, intanto, il governo denuncia che gli ospedali della città di Taiz sono vicini al collasso a causa dell'assedio degli Houthi.",
+   "more": [
+    "Gli Houthi sono un movimento armato yemenita, sostenuto dall'Iran, che controlla la capitale Sanaa e ampie zone del nord dello Yemen. Combattono contro il governo riconosciuto a livello internazionale, appoggiato da una coalizione guidata dall'Arabia Saudita. La guerra ha provocato una delle peggiori crisi umanitarie al mondo."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/11/2003865757",
+     "angolo": "",
+     "atlas": "Taiwan"
+    },
+    {
+     "n": "The Laotian Times",
+     "p": "XX",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/11/kapsarc-to-join-25th-wpc-energy-congress-in-riyadh-as-national-partner/",
+     "angolo": "",
+     "atlas": "Laos"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z037e973c",
+   "sez": "mondo",
+   "titolo": "Golfo di Oman, gli Stati Uniti colpiscono una nave che cercava di forzare il blocco all'Iran",
+   "orig": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
+   "lead": "Un caccia statunitense ha colpito una nave commerciale nel golfo di Oman, perché, secondo il comando centrale delle forze armate americane (CENTCOM), cercava di forzare il blocco navale imposto da Washington ai porti iraniani. Sabato i militari hanno spiegato che l'equipaggio aveva ignorato gli avvertimenti e che l'attacco ha colpito la poppa, immobilizzando l'imbarcazione senza ferire chi era a bordo. Secondo il Financial Times si tratta della prima azione di questo tipo da un mese, in una fase di nuove tensioni nella regione.",
+   "more": [
+    "Il golfo di Oman collega il mare Arabico allo stretto di Hormuz, il passaggio da cui transita una parte molto rilevante del petrolio mondiale. Un blocco navale è un'operazione militare che impedisce alle navi di entrare o uscire dai porti di un Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2634194/us-military-says-it-disabled-vessel-attempting-to-violate-blockade",
+     "angolo": "",
+     "atlas": "Pakistan"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/middle-east/us-military-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade",
+     "angolo": "",
+     "atlas": "Singapore"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5a0e8a2c",
+   "sez": "ambiente",
+   "titolo": "Incendi in Indonesia, il governo accusato di «grave negligenza» in una causa collettiva",
+   "orig": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
+   "lead": "Gruppi indigeni e organizzazioni della società civile del Borneo indonesiano hanno presentato una causa collettiva contro il governo di Giacarta, accusandolo di «grave negligenza» nella gestione degli incendi. I roghi hanno avvolto ampie zone del Sud-est asiatico in una foschia tossica, facendo chiudere scuole e aumentare le malattie respiratorie. Tra i dieci convenuti ci sono il presidente Prabowo Subianto e il governatore del Kalimantan occidentale. I ricorrenti chiedono una migliore gestione degli incendi, che si ripetono ogni anno, e misure di recupero e risanamento, compresa la copertura delle spese sanitarie dei residenti.",
+   "more": [
+    "Il Borneo è una grande isola divisa tra Indonesia, Malesia e Brunei; la parte indonesiana si chiama Kalimantan. Ogni anno incendi di foreste e torbiere, spesso legati al disboscamento per le piantagioni, producono una nube di fumo che può raggiungere i Paesi vicini."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/08/indonesia-wildfires-gross-negligence-lawsuit-haze-region",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/11/asia-pacific/science-health/indonesia-fires-orangutan-released/",
+     "angolo": "",
+     "atlas": "Japan"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/434958/indonesia-explains-firefighting-efforts-to-malaysia-as-haze-spreads",
+     "angolo": "",
+     "atlas": "Indonesia"
+    },
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/11/malaysia-indonesia-in-high-level-contact-over-haze-as-jakarta-deploys-60000-to-fight-fires-says-indonesian-minister/238683",
+     "angolo": "",
+     "atlas": "Malaysia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8b4575c2",
+   "sez": "mondo",
+   "titolo": "Aeroporto di Riad ancora chiuso dopo l'attacco",
+   "orig": "Las operaciones en el aeropuerto de Riad siguen suspendidas",
+   "lead": "La chiusura dello scalo sarà prolungata di un altro giorno. Si tratta dell'attacco più letale nel Paese dal 2015 e ha colpito sia cittadini sauditi sia stranieri. L'ambasciata degli Stati Uniti ha imposto al proprio personale un'autorizzazione speciale per usare gli aeroporti di Riad, Gedda e Dammam. A Panama, intanto, l'aeroporto di Tocumen continua a funzionare dopo il terremoto, ma decolli e atterraggi vengono fermati a ogni replica per i controlli tecnici.",
+   "more": [
+    "L'aeroporto internazionale Re Khalid è il principale scalo di Riad e uno dei più importanti dell'Arabia Saudita. Il Paese è impegnato militarmente in Yemen contro gli Houthi, il movimento armato a cui viene attribuito l'attacco."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/las-operaciones-en-el-aeropuerto-de-riad-siguen-suspendidas_0_65Y4ybspnz.html",
+     "angolo": "",
+     "atlas": "Argentina"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/cancilleria-esta-contacto-uruguayos-varados-terremoto-panama-vuelos-se-cancelaron-y-otros-se-reprogramaron-n6060097",
+     "angolo": "",
+     "atlas": "Uruguay"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/presidente-de-panama-converso-con-delcy-rodriguez-sobre-el-terremoto-me-puso-a-disposicion-por-toda-la-experiencia/",
+     "angolo": "",
+     "atlas": "Venezuela"
+    },
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/suspenden-clases-y-operaciones-en-el-aeropuerto-de-tocumen-tras-el-sismo-1267296",
+     "angolo": "",
+     "atlas": "Panama"
+    },
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/aeropuerto-de-tocumen-mantiene-operaciones-pero-con-cada-replica-se-detienen-despegues-y",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf19946ce",
+   "sez": "mondo",
+   "titolo": "Christa Pike dimessa dall'ospedale e riportata in carcere",
+   "orig": "Christa Pike discharged from the hospital and back in prison",
+   "lead": "Christa Pike, la detenuta statunitense di 50 anni sopravvissuta a due iniezioni letali, è stata dimessa dall'ospedale e riportata in carcere, dove secondo i suoi avvocati continuerà a ricevere cure mediche. I legali hanno riferito che la donna è grata ai soccorritori e all'équipe sanitaria che l'ha assistita. Il suo futuro resta incerto. Dopo l'esecuzione fallita il governatore del Tennessee, Bill Lee, ha sospeso tutte le esecuzioni nello Stato per quest'anno. Il caso ha riacceso in Italia il dibattito sulla pena di morte negli Stati Uniti.",
+   "more": [
+    "Negli Stati Uniti la pena di morte è prevista in diversi Stati e a livello federale; il metodo più usato è l'iniezione letale, cioè la somministrazione di farmaci che dovrebbero provocare la morte. Le esecuzioni fallite alimentano da anni le critiche sui protocolli usati."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/christa-pike-dimessa-dallospedale-torna-in-carcere-in-usa_cb14a5e8-b258-46a0-b5e5-479d541f6567.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/11/news/pena_morte_stati_uniti_storia_patibolo-425639782/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/pena-morte-pike-dimessa-dallospedale--731abadd-4070-4520-b6b9-db8b65ce6da9.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/usa-news-liveblog-navi-pillay-sanktionen-internationaler-strafgerichtshof-li.3558046",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/11/news/pena_morte_stati_uniti_storia_patibolo-425639782/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z234504d3",
+   "sez": "sport",
+   "titolo": "MotoGP, Bezzecchi vince in Indonesia. Martin torna in testa al Mondiale",
+   "orig": "MotoGp Indonesia, trionfa Bezzecchi",
+   "lead": "Marco Bezzecchi ha vinto il Gran Premio d'Indonesia di MotoGP, diciassettesima prova del Mondiale, davanti allo spagnolo Raúl Fernández, su Aprilia Trackhouse, e all'altro spagnolo Jorge Martin, compagno di squadra nell'Aprilia ufficiale. È una tripletta per la casa di Noale. Il pilota romagnolo non vinceva dal 31 maggio al Mugello: «Bellissimo tornare in cima al podio, meritavamo un risultato così», ha detto. Con il terzo posto Martin torna al comando della classifica generale. Quinto Pedro Acosta.",
+   "more": [
+    "La MotoGP è la classe regina del motomondiale, il campionato del mondo di velocità su due ruote. L'Aprilia è una casa motociclistica italiana con sede a Noale, in provincia di Venezia; la Trackhouse è una squadra satellite che corre con le sue moto."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/motogp-indonesia-trionfa-bezzecchi--ff823ff7-d052-4002-8dbe-d95b7cb38eba.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/moto/2026/10/11/motogp-marco-bezzecchi-vince-il-gp-dindonesia_5cf08714-e0b8-49e1-82fa-ee92ad6db0f5.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/11/bezzecchi-vince-motogp-indonesia/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/11/motogp-indonesia-marquez-bezzecchi-gara-ordine-arrivo-nuova-classifica/8533952/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/moto/moto_gp_oggi_indonesia_pagelle_classifica_marco_bezzecchi_eta-9818050.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/automovilismo/2026/10/11/bezzecchi-gana-diez-grandes-premios-despues-y-martin-recupera-el-liderato-del-mundial/",
+     "angolo": "",
+     "atlas": "Paraguay"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfed4f13c",
+   "sez": "mondo",
+   "titolo": "Hong Kong, bambina costretta a portare casse di birra: appello alla prudenza",
+   "orig": "Beer-girl controversy brings call to exercise caution",
+   "lead": "Il presidente del Comitato consultivo sulla salute mentale di Hong Kong, Lam Ching-choi, ha invitato sabato i genitori a far fare attività fisica ai figli in modo sicuro e affettuoso. L'appello arriva dopo la diffusione online di un video in cui una bambina di 10 anni trasporta confezioni di birra nel complesso residenziale Fu Tai, a Tuen Mun, sotto lo sguardo del padre. I genitori, arrestati mercoledì con l'accusa di maltrattamento o trascuratezza di minore, hanno sostenuto in un'intervista che la stavano allenando. Lam ha ricordato che anche l'ambiente dell'allenamento conta.",
+   "more": [
+    "Tuen Mun è un distretto dei Nuovi Territori, nella parte nord-occidentale di Hong Kong, con molti grandi complessi di edilizia pubblica. Hong Kong è una regione amministrativa speciale della Cina con un proprio sistema giuridico."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1873421-20261010.htm",
+     "angolo": "",
+     "atlas": "China"
+    },
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/09/uzbekistan-urges-citizens-traveling-to-saudi-arabia-to-exercise-caution",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/945295/us-embassy-tightens-airport-access-for-staff-in-saudi-arabia",
+     "angolo": "",
+     "atlas": "Iraq"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf494be11",
+   "sez": "sport",
+   "titolo": "Cricket, l'Australia a caccia di wicket contro il Sudafrica a Durban",
+   "orig": "Live: Aussie attack hunting wickets on day three against South Africa",
+   "lead": "Nel primo test match tra Sudafrica e Australia, al Kingsmead di Durban, la terza giornata vede i battitori sudafricani impegnati a inseguire i 390 punti messi a segno dagli australiani nel primo inning. Il risultato australiano porta la firma di Matt Renshaw, autore di 190 punti: con la squadra in difficoltà sul 124 per 6, ha costruito partnership decisive con i battitori di coda, compresa una da 134 punti con Nathan Lyon per il nono wicket. Secondo il Times of India ha così superato un record di Virat Kohli.",
+   "more": [
+    "Il test match è la forma più lunga del cricket: una partita può durare fino a cinque giorni e ogni squadra batte due volte. Il wicket indica l'eliminazione di un battitore. Il Kingsmead è lo storico stadio di cricket di Durban, in Sudafrica."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-11/south-africa-australia-kingsmead-test-day-three-live-blog/107252970",
+     "angolo": "",
+     "atlas": "Australia"
+    },
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/sports/cricket/news/matt-renshaw-breaks-virat-kohlis-decade-old-record-with-stunning-190-in-durban/articleshow/134867121.cms",
+     "angolo": "",
+     "atlas": "India"
+    },
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-11/first-test-south-africa-australia-day-two-analysis/107251990",
+     "angolo": "",
+     "atlas": "Australia"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/sport/cricket/australia-vs-south-africa-live-proteas-resume-on-1-27-chasing-australia-s-390-as-day-three-begins-in-durban-20261011-p614ji.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze95b77dd",
+   "sez": "economia",
+   "titolo": "Tunisia, il governo vuole accelerare la nascita delle società comunitarie",
+   "orig": "Sociétés communautaires : le gouvernement veut accélérer leur création et faciliter l’accès au financement",
+   "lead": "La premier tunisina Sarra Zaafrani Zenzri ha presieduto sabato 10 ottobre, nel palazzo del governo alla Kasbah di Tunisi, un consiglio ministeriale ristretto dedicato alle società comunitarie. L'obiettivo è migliorare il loro sistema di governance, rafforzare gli strumenti di guida e accompagnamento, accelerarne la creazione e semplificare le procedure amministrative, oltre a facilitare l'accesso ai finanziamenti. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Le società comunitarie sono un modello di impresa collettiva promosso in Tunisia dal presidente Kaïs Saïed, pensato per coinvolgere gli abitanti di un territorio nella gestione di attività economiche locali. La Kasbah è il quartiere di Tunisi dove ha sede il governo."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/10/societes-communautaires-le-gouvernement-veut-accelerer-leur-creation-et-faciliter-lacces-au-financement/",
+     "angolo": "",
+     "atlas": "Tunisia"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/10/financement-agricole-le-fgpe-et-ecobank-guinee-scellent-un-partenariat-strategique-pour-faciliter-lacces-au-credit/",
+     "angolo": "",
+     "atlas": "Guinea"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/financement-agricole-le-fgpe-et-ecobank-guinee-scellent-un-partenariat-strategique-pour-faciliter-lacces-au-credit/",
+     "angolo": "",
+     "atlas": "Guinea"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1f1a1832",
+   "sez": "mondo",
+   "titolo": "India, lo youtuber Dhruv Rathee: «Non mi hanno arrestato, mi hanno rapito»",
+   "orig": "‘Mother was pushed, I wasn’t allowed to put on slippers’: Dhruv Rathee on detention",
+   "lead": "Lo youtuber indiano Dhruv Rathee racconta di essere stato portato via con la forza dalla sua casa dalla polizia il 10 ottobre e di essere stato trattenuto per quasi 23 ore senza poter contattare un avvocato né comunicare con l'esterno. Secondo la sua versione, durante l'operazione la madre è stata spintonata e a lui non è stato permesso nemmeno di mettersi le ciabatte; dice anche di essere rimasto ferito e definisce l'accaduto un rapimento. Rathee lamenta inoltre che alcuni media diffondano informazioni false sulla sua cittadinanza.",
+   "more": [
+    "Dhruv Rathee è uno dei divulgatori più seguiti dell'India su YouTube: pubblica video di analisi politica e sociale, spesso critici verso il governo, e per questo è al centro di frequenti polemiche nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/city/gurgaon/youtuber-dhruv-rathee-recounts-what-happened-inside-gurgaon-home-my-mother-was-pushed-i-wasnt-allowed-to-speak-to-lawyer-or-put-on-slippers/articleshow/134866544.cms",
+     "angolo": "",
+     "atlas": "India"
+    },
+    {
+     "n": "The Indian Express",
+     "p": "XX",
+     "c": "Nuova Delhi",
+     "u": "https://indianexpress.com/article/cities/delhi/i-was-kidnapped-youtuber-dhruv-rathee-24-hour-detention-police-raid-10916444/",
+     "angolo": "",
+     "atlas": "India"
+    },
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/cmv3gvlit000g356q77hodwsf",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z916a617e",
+   "sez": "mondo",
+   "titolo": "Taiwan aumenta la spesa militare per «scoraggiare la guerra» con la Cina",
+   "orig": "Taiwan to boost military spending to 'deter war' with China",
+   "lead": "Il presidente di Taiwan, Lai Ching-te, ha annunciato sabato, nel discorso per la festa nazionale, che l'isola aumenterà la spesa per la difesa con l'obiettivo di «scoraggiare la guerra» con la Cina. Pechino considera Taiwan parte del proprio territorio, non esclude l'uso della forza e esercita una costante pressione militare per affermare le sue rivendicazioni; i 23 milioni di taiwanesi vivono sotto la minaccia di un attacco. L'annuncio arriva dopo che il presidente statunitense Donald Trump ha chiesto a Taiwan di pagare per la protezione americana.",
+   "more": [
+    "Taiwan è un'isola governata in modo autonomo e democratico dal 1949, quando i nazionalisti sconfitti nella guerra civile cinese vi si rifugiarono. Gli Stati Uniti sono il principale fornitore di armi dell'isola, pur senza riconoscerla formalmente come Stato."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/10/10/taiwans-leader-says-increasing-defence-spending-to-deter-war/",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5a006d76",
+   "sez": "cultura",
+   "titolo": "Autore o intelligenza artificiale? La letteratura in crisi",
+   "orig": "Author or artificial intelligence? Literature in crisis",
+   "lead": "L'intelligenza artificiale è uno dei grandi temi della Fiera del libro di Francoforte di quest'anno. A spingere il dibattito è stato uno scandalo letterario internazionale, che ha sollevato interrogativi sui testi prodotti dalle macchine e sul confine tra il lavoro di un autore e quello di un sistema automatico. Il mondo editoriale si interroga su che cosa questo significhi per la letteratura. Lo riferisce Deutsche Welle.",
+   "more": [
+    "La Fiera del libro di Francoforte è la più grande rassegna editoriale del mondo e si tiene ogni autunno: è soprattutto un luogo di affari, dove editori e agenti comprano e vendono i diritti dei libri. L'intelligenza artificiale generativa è in grado di scrivere testi a partire da semplici istruzioni."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04706-x",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8421c227",
+   "sez": "salute",
+   "titolo": "Ebola si diffonde nell'est del Congo, il Kenya conferma un caso importato",
+   "orig": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+   "lead": "L'epidemia di Ebola continua ad allargarsi nell'est della Repubblica Democratica del Congo, dove si registrano nuovi casi. Il Kenya ha confermato il suo primo caso del virus, un'infezione importata dall'estero che si è rivelata fatale. I due episodi mostrano quanto sia difficile contenere la malattia. La vicina Somalia ha reagito monitorando i voli provenienti dai Paesi africani colpiti e inviando personale sanitario all'aeroporto di Mogadiscio per controllare i passeggeri in arrivo, come ha spiegato il ministro della Salute Ali Hajji Adan.",
+   "more": [
+    "Ebola è una febbre emorragica grave, spesso mortale, che si trasmette tramite il contatto diretto con sangue e liquidi corporei delle persone infette. L'est del Congo ha conosciuto diverse epidemie, rese più difficili da gestire dalla presenza di gruppi armati e dagli spostamenti di popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/kenya-ebola-case-somalia-airport-screening/",
+     "angolo": "",
+     "atlas": "Somalia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8b2e7979",
+   "sez": "mondo",
+   "titolo": "Lettonia, allerta per maltempo «grave» sulla costa occidentale",
+   "orig": "'Severe' weather alert issued along Latvia's western coast",
+   "lead": "Tutta la costa occidentale della Lettonia, nella regione della Curlandia (Kurzeme), è stata posta in stato di allerta per maltempo grave. L'avviso riguarda il pomeriggio e la sera di venerdì e invita alla prudenza gli abitanti e chi si trova nella zona affacciata sul mar Baltico. Lo riferisce la radiotelevisione pubblica lettone LSM.",
+   "more": [
+    "La Curlandia, in lettone Kurzeme, è la regione occidentale della Lettonia, affacciata sul mar Baltico e sul golfo di Riga. Le sue coste sono spesso esposte a venti forti e mareggiate, soprattutto nella stagione autunnale."
+   ],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/weather/weather/09.10.2026-severe-weather-alert-issued-along-latvias-western-coast.a666941/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia"
+    },
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/cmv3gmpvq000f356qgc58klqa",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zee65de6a",
+   "sez": "mondo",
+   "titolo": "Nuova Delhi si prepara al secondo giorno di proteste contro il capo della commissione elettorale",
+   "orig": "Indian capital braces for second day of protests against poll chief",
+   "lead": "Migliaia di agenti di polizia e paramilitari restano schierati a Nuova Delhi, che domenica 11 ottobre si prepara a un secondo giorno di proteste contro il capo della commissione elettorale indiana. I manifestanti denunciano presunte irregolarità nella registrazione degli elettori. Durante le manifestazioni di sabato la polizia ha fermato più di duemila persone, mentre un tribunale ha ordinato il rilascio di tre leader del movimento. Domenica le stazioni della metropolitana sono state riaperte e il servizio di internet mobile è tornato a funzionare.",
+   "more": [
+    "La Commissione elettorale dell'India è l'organismo che organizza e supervisiona le elezioni nella più grande democrazia del mondo per numero di elettori. La tenuta delle liste elettorali è da tempo al centro di scontri tra il governo e l'opposizione."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/asia/india-youth-protests-cockroach-party-election-commission-6450011",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/world/2026/10/11/indian-capital-braces-for-second-day-of-protests-against-poll-chief",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc8f30f23",
+   "sez": "economia",
+   "titolo": "La Polonia lancia un fondo da 114 milioni di euro per le aziende delle tecnologie spaziali",
+   "orig": "Poland launches €114m fund to support space technology firms",
+   "lead": "La Polonia ha creato un fondo da 114 milioni di euro per sostenere le aziende che lavorano nelle tecnologie spaziali. A gestirlo sarà la banca statale di sviluppo BGK, che investirà in un numero compreso tra 15 e 20 imprese. Con questa iniziativa Varsavia punta a rafforzare la propria indipendenza tecnologica in un settore considerato strategico. Lo riferisce Notes from Poland.",
+   "more": [
+    "BGK, Bank Gospodarstwa Krajowego, è la banca pubblica di sviluppo della Polonia: finanzia programmi governativi e investimenti nelle infrastrutture e nelle imprese. Il settore spaziale comprende satelliti, sistemi di osservazione della Terra e comunicazioni, sempre più importanti anche per la sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/10/08/poland-launches-e114m-fund-to-support-space-technology-firms/",
+     "angolo": "",
+     "atlas": "Poland"
+    },
+    {
+     "n": "Bianet English",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://bianet.org/haber/probe-into-investment-fund-scandal-reveals-214-people-and-firms-made-over-3-7-billion-dollars-in-profits-324270",
+     "angolo": "",
+     "atlas": "Turkey"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z36cb83bb",
+   "sez": "medicina",
+   "titolo": "Guinea-Bissau, via libera allo studio contestato sul vaccino contro l'epatite B voluto da Kennedy",
+   "orig": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+   "lead": "In Guinea-Bissau ha ottenuto questa settimana l'approvazione uno studio controverso, condotto da ricercatori danesi, che prevede di non somministrare a migliaia di neonati la dose raccomandata del vaccino contro l'epatite B. La ricerca è un elemento centrale della visione sui vaccini di Robert F. Kennedy Jr., segretario statunitense alla Salute e ai servizi umani e da lungo tempo oppositore delle vaccinazioni. Lo studio solleva forti critiche perché sottrae a una parte dei bambini africani una protezione raccomandata.",
+   "more": [
+    "L'epatite B è un'infezione virale del fegato che può diventare cronica e portare a cirrosi e tumore. Se contratta alla nascita, spesso dalla madre, tende a cronicizzare: per questo l'Organizzazione mondiale della sanità raccomanda la vaccinazione dei neonati subito dopo il parto."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Point",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://thepoint.gm/africa/gambia/headlines/guinea-bissau-junta-disarms-troops-loyal-to-former-president-embalo",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z59a5d4b4",
+   "sez": "sport",
+   "titolo": "Baseball, i Guardians rimontano i White Sox e vanno alle finali di lega",
+   "orig": "Williams strikes out 12 as Guardians blank White Sox to complete ALDS comeback",
+   "lead": "I Cleveland Guardians hanno battuto 2-0 i Chicago White Sox sabato sera nella decisiva gara 5 della serie di Division della American League, completando la rimonta dopo essere andati sotto 0-2. Il lanciatore Gavin Williams ha eliminato 12 battitori al piatto e José Ramírez ha firmato con un fuoricampo da due punti l'unica segnatura della partita. Cleveland è la quarta squadra a vincere una serie al meglio delle cinque dopo aver perso le prime due gare in casa. Lunedì affronterà i Tampa Bay Rays per un posto nelle World Series.",
+   "more": [
+    "Le World Series sono la finale del campionato professionistico di baseball nordamericano, la MLB, tra le vincitrici della American League e della National League. La franchigia di Cleveland, un tempo chiamata Indians, non vince il titolo da oltre settant'anni, il digiuno più lungo della lega."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/2026/oct/10/cleveland-guardians-chicago-white-sox-alds-game-five-gavin-williams",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/sports/2026/10/11/baseball/mlb/guardians-beats-white-sox-alds/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfcbc5794",
+   "sez": "ambiente",
+   "titolo": "Marina Silva: «Flávio Bolsonaro proverà a completare il progetto perverso del padre in Amazzonia»",
+   "orig": "Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon",
+   "lead": "L'ex ministra brasiliana dell'Ambiente Marina Silva avverte, in un'intervista esclusiva al Guardian, che se Flávio Bolsonaro diventerà presidente cercherà di portare a termine il «progetto perverso» di distruzione della foresta amazzonica avviato dal padre Jair, oggi in carcere. Il figlio dell'ex presidente di estrema destra è considerato favorito alle elezioni. Durante il mandato di Jair Bolsonaro, dal 2019 al 2022, le agenzie per l'ambiente e per la tutela dei popoli indigeni furono svuotate e i crimini ambientali dilagarono, con impennate di disboscamento e violenze.",
+   "more": [
+    "Marina Silva è un'ambientalista nata in Amazzonia, più volte ministra dell'Ambiente e figura simbolo della lotta alla deforestazione in Brasile. L'Amazzonia è la più grande foresta tropicale del pianeta ed è fondamentale per la biodiversità e per il clima globale."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/10/marina-silva-flavio-bolsonaro-the-amazon-brazil-president-far-right",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/escudo-de-flavio-bolsonaro-marcal-produz-onda-de-conteudos-e-deixa-em-aberto-convite-a-eventual-governo.shtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3276ae0d",
+   "sez": "economia",
+   "titolo": "Kenya, i lavoratori del petrolio minacciano lo sciopero alla KPC",
+   "orig": "Petroleum workers threaten strike over unresolved labour disputes at KPC",
+   "lead": "Il sindacato dei lavoratori del petrolio del Kenya, Kenya Petroleum Oil Workers Union, minaccia di proclamare uno sciopero alla Kenya Pipeline Company (KPC) per una serie di controversie di lavoro rimaste irrisolte. Il sindacato accusa l'azienda di violare il diritto dei dipendenti a essere rappresentati. Lo riferisce il quotidiano keniano Daily Nation.",
+   "more": [
+    "La Kenya Pipeline Company è l'azienda pubblica che gestisce gli oleodotti e i depositi di carburante del Kenya. Uno sciopero dei suoi lavoratori potrebbe pesare sulla distribuzione di carburante nel Paese e nei Paesi vicini che dipendono dal Kenya per gli approvvigionamenti."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/petroleum-workers-threaten-strike-over-unresolved-labour-disputes-at-kpc-5627478",
+     "angolo": "",
+     "atlas": "Kenya"
+    },
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6f57e8f4",
+   "sez": "medicina",
+   "titolo": "Tumore al fegato, la sudcoreana HLB ci riprova dopo la prima approvazione Fda",
+   "orig": "HLB&apos;s liver cancer drug push gains momentum after first FDA approval",
+   "lead": "L'azienda farmaceutica sudcoreana HLB ha ottenuto il 23 settembre la sua prima approvazione negli Stati Uniti per un farmaco antitumorale: la Food and Drug Administration ha autorizzato Lyrfigtu, sviluppato dalla controllata americana Elevar Therapeutics, per pazienti già trattati con tumore avanzato delle vie biliari che presentano fusioni o riarrangiamenti del gene FGFR2. Il risultato dà nuovo slancio al tentativo di portare sul mercato il rivoceranib, cura per il tumore al fegato attesa da tempo, per cui HLB chiede il via libera dopo tre tentativi falliti.",
+   "more": [
+    "La Fda è l'agenzia federale statunitense che autorizza la vendita dei farmaci. FGFR2 è un gene che, quando si altera, può favorire la crescita di alcuni tumori: i farmaci mirati colpiscono proprio queste alterazioni, per cui vanno usati solo nei pazienti che le presentano."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10898588",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "CGTN – Sport",
+     "p": "XX",
+     "c": "Pechino",
+     "u": "https://news.cgtn.com/news/2026-10-07/Pickleball-gains-momentum-in-China-as-participation-and-events-surge-1R2ARS2DEKk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Sports",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5927234c",
+   "sez": "mondo",
+   "titolo": "Cipro, due feriti in uno scontro frontale vicino a Tsada",
+   "orig": "Two drivers injured in head-on crash near Tsada",
+   "lead": "Due automobilisti sono stati portati in ospedale dopo uno scontro frontale avvenuto sabato sera, verso le 23, sulla strada tra Polis Chrysochous e Pafo, nei pressi di Tsada, a Cipro. L'auto guidata da un ragazzo di 20 anni, diretto verso Pafo, si è scontrata con quella di una donna di 30 anni che viaggiava in direzione opposta, verso Polis Chrysochous. Lo riferisce il Cyprus Mail.",
+   "more": [
+    "Pafo è una città sulla costa sud-occidentale di Cipro, nota per i siti archeologici e il turismo; Polis Chrysochous è una cittadina sulla costa nord-occidentale. Tsada è un villaggio collinare lungo la strada che collega le due località."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/11/two-drivers-injured-in-head-on-crash-near-tsada",
+     "angolo": "",
+     "atlas": "Cyprus"
+    },
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/10/motorcyclist-injured-in-crash-on-san-martin-road/",
+     "angolo": "",
+     "atlas": "Belize"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6e314539",
+   "sez": "sport",
+   "titolo": "F1, Gp di Singapore: Colapinto parte quindicesimo",
+   "orig": "F1 GP de Singapur con Franco Colapinto, EN VIVO: horario y dónde ver la carrera de Fórmula 1",
+   "lead": "Nel Gran Premio di Singapore di Formula 1, sul circuito cittadino di Marina Bay, il pilota argentino Franco Colapinto partirà dalla quindicesima posizione della griglia con la sua Alpine. Colapinto cerca di riscattarsi dopo un periodo difficile: in Malesia era stato protagonista di un incidente e sabato si è ritirato dalla gara Sprint. Il quotidiano argentino segue la corsa in diretta e indica orari e canali per vederla. Lo riferisce Clarín.",
+   "more": [
+    "Marina Bay è il circuito cittadino di Singapore, dove la Formula 1 corre in notturna sotto i riflettori. La Sprint è una gara breve che si disputa in alcuni weekend del campionato e assegna punti prima del Gran Premio della domenica."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/deportes/f1-gp-singapur-franco-colapinto-vivo-horario-ver-carrera-formula-1_0_1OMzWC0oV1.html",
+     "angolo": "",
+     "atlas": "Argentina"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/deporte-total/futbol-peruano/sporting-cristal-vs-utc-en-vivo-gratis-hoy-por-torneo-clausura-via-liga-1-max-lbposting-noticia/",
+     "angolo": "",
+     "atlas": "Peru"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdde57206",
+   "sez": "viaggi",
+   "titolo": "Virgin ordina treni ad alta velocità sotto la Manica e studia l'integrazione aereo-treno",
+   "orig": "Virgin Group to explore air-rail integration as it orders cross-Channel high speed train fleet",
+   "lead": "Il gruppo Virgin ha ordinato una flotta di treni ad alta velocità per i collegamenti attraverso la Manica, cioè tra la Gran Bretagna e il continente europeo attraverso il tunnel sottomarino. Contestualmente il gruppo intende valutare forme di integrazione tra trasporto aereo e ferroviario, per offrire ai passeggeri viaggi che combinino aereo e treno. Lo riferisce la rivista specializzata Railway Gazette International.",
+   "more": [
+    "Il tunnel sotto la Manica collega l'Inghilterra alla Francia ed è usato dai treni passeggeri ad alta velocità tra Londra e il continente, finora gestiti di fatto da un solo operatore, Eurostar. Il gruppo Virgin, fondato da Richard Branson, è attivo tra l'altro nel trasporto aereo."
+   ],
+   "fonti": [
+    {
+     "n": "Railway Gazette International",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.railwaygazette.com/editors-pick/2026/10/09/virgin-group-to-explore-air-rail-integration-as-it-orders-cross-channel-high-speed-train-fleet/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/logistics-news/uae-saudi-arabia-partnership-to-boost-rail-links-and-cross-border-trade/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3d91ea38",
+   "sez": "italia",
+   "titolo": "Casini lascia il Parlamento dopo 44 anni: «Non mi ricandiderò»",
+   "orig": "L’annuncio di Casini: “Dopo 44 anni dirò addio al Parlamento”",
+   "lead": "Pier Ferdinando Casini ha annunciato che non si ricandiderà alle prossime elezioni politiche e lascerà il Parlamento dopo 44 anni. L'ex presidente della Camera ha spiegato la sua scelta in una lettera pubblicata su Quotidiano Nazionale: «È giusto che il mio cammino si fermi qui», scrive, aggiungendo che è arrivato il momento di fermarsi e di lasciare spazio ad altre personalità. Si chiude così una delle carriere parlamentari più lunghe della storia repubblicana.",
+   "more": [
+    "Pier Ferdinando Casini, bolognese, è cresciuto nella Democrazia cristiana ed è stato a lungo leader dei centristi con l'Udc. È stato presidente della Camera dei deputati e negli ultimi anni è stato eletto al Senato con il centrosinistra."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/11/news/casini_lascia_parlamento_intervista-425640357/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/casini-lascio-parlamento-44-anni-non-mi-ricandido-AJWSiQgB",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/news-musica/judas-priest-ian-hill-si-ritira-quel-momento-e-arrivato/1042058/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/persone/pier_ferdinando_casini_eta_oggi_figli_moglie_partito_non_mi_ricandido-9818041.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/11/casini-non-si-ricandida/",
+     "angolo": "Dà la notizia della decisione e ne ripercorre i 43 anni di mandato parlamentare ininterrotto.",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze77764a5",
+   "sez": "medicina",
+   "titolo": "Retatrutide in chi ha obesità e diabete di tipo 2: che cosa insegna lo studio TRIUMPH-2",
+   "orig": "[Comment] Retatrutide in adults with obesity and type 2 diabetes: what have we learned from TRIUMPH-2?",
+   "lead": "Un commento pubblicato su The Lancet analizza TRIUMPH-2, studio di fase 3 guidato da Virginia Bellido e colleghi sul retatrutide, un triplo agonista dei recettori di GLP-1, GIP e glucagone, in adulti con obesità e diabete di tipo 2. Lo studio è randomizzato, in doppio cieco e controllato con placebo. La domanda di fondo è se i nuovi farmaci tripli, più efficaci nel far perdere peso, possano colmare il divario osservato con gli agonisti del GLP-1, che nei diabetici producono un calo di peso minore rispetto a chi non ha il diabete.",
+   "more": [
+    "GLP-1 e GIP sono ormoni intestinali che regolano glicemia e appetito; il glucagone favorisce il consumo di energia. Farmaci che imitano questi ormoni, come la semaglutide, hanno rivoluzionato la cura di obesità e diabete. Il retatrutide agisce contemporaneamente su tutti e tre i recettori."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01987-2/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04713-y",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc42f71c8",
+   "sez": "salute",
+   "titolo": "La Somalia vara la sua prima politica nazionale sulla salute mentale",
+   "orig": "Somalia launches first national mental health policy to expand care, tackle stigma",
+   "lead": "Il ministero della Salute somalo ha presentato sabato a Mogadiscio la prima politica nazionale dedicata alla salute mentale, che coprirà il periodo dal 2026 al 2030. Il documento definisce un nuovo quadro di riferimento con tre obiettivi principali: ampliare l'accesso alle cure, rafforzare i servizi esistenti e ridurre lo stigma che nel Paese circonda i disturbi mentali. Si tratta del primo piano di questo tipo adottato a livello nazionale, pensato per offrire una cornice comune agli interventi dei prossimi cinque anni in un settore finora privo di una strategia complessiva.",
+   "more": [
+    "La Somalia esce da decenni di conflitti e instabilità, che hanno indebolito il sistema sanitario e lasciato molte persone esposte a traumi. In contesti simili i servizi di salute mentale sono spesso scarsi e concentrati nelle città, mentre lo stigma sociale spinge molte famiglie a non chiedere aiuto. Una politica nazionale serve a coordinare governo, operatori sanitari e organizzazioni internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/news4/2026/Oct/206499/somalia_launches_first_national_mental_health_policy_to_expand_care_tackle_stigma.aspx",
+     "angolo": "",
+     "atlas": "Somalia"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/sharif-sheikh-ahmed-calls-for-united-national-front-to-save-somalia/",
+     "angolo": "",
+     "atlas": "Somalia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9d94cf65",
+   "sez": "spazio",
+   "titolo": "Dallo spazio la più grande distesa salina della Namibia",
+   "orig": "Earth from Space: Namibia’s biggest salt pan",
+   "lead": "L'Agenzia spaziale europea ha diffuso, nella sua serie dedicata alla Terra vista dall'orbita, un'immagine del Parco nazionale di Etosha, nel nord della Namibia. La fotografia è stata acquisita il 5 aprile 2026 da uno dei satelliti Sentinel-2 del programma europeo Copernicus e mostra la più grande depressione salina del Paese africano, il pan che dà il nome all'area protetta. Lo scatto permette di osservare dall'alto la vasta superficie chiara della salina e il territorio che la circonda, offrendo uno sguardo d'insieme su un ambiente difficile da cogliere da terra. Lo riferisce Agenzia spaziale europea (Esa).",
+   "more": [
+    "Copernicus è il programma di osservazione della Terra dell'Unione europea, gestito con l'Esa. I satelliti Sentinel-2 riprendono la superficie terrestre in più bande di luce e servono a monitorare vegetazione, suolo e acque. Etosha è una delle aree protette più note dell'Africa australe: la sua grande distesa salina si riempie d'acqua solo in alcuni periodi e attira molta fauna selvatica."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia spaziale europea (Esa)",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za218ecb4",
+   "sez": "spazio",
+   "titolo": "La Nasa sorvola lo stadio MetLife e incontra i tifosi della Nfl",
+   "orig": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+   "lead": "Domenica 11 ottobre l'amministratore della Nasa Jared Isaacman pilota uno dei tre caccia F-5 che sorvoleranno il MetLife Stadium di East Rutherford, nel New Jersey, per dare il via alla partita di football americano tra New York Jets e Cleveland Browns. Il sorvolo fa parte dell'Inspiration Tour, l'iniziativa con cui l'agenzia spaziale statunitense cerca di avvicinare il pubblico alle sue attività. Allo stadio i membri del personale Nasa incontreranno inoltre i tifosi in uno spazio dedicato, l'Experience Zone, allestito per l'occasione. Lo riferisce Nasa.",
+   "more": [
+    "Jared Isaacman è un imprenditore e pilota che, prima di guidare la Nasa, ha finanziato e comandato missioni spaziali private. Le partite della Nfl, la lega professionistica di football americano, richiamano un pubblico molto ampio e spesso si aprono con sorvoli di aerei militari, un'occasione che l'agenzia sfrutta per promuovere l'esplorazione spaziale."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zca4ee774",
+   "sez": "cultura",
+   "titolo": "A Seul una mostra speciale sulle mummie dell'antico Egitto",
+   "orig": "Yonhap News to co-host special exhibition on ancient Egyptian mummies",
+   "lead": "L'agenzia di stampa sudcoreana Yonhap, principale servizio di notizie del Paese, ha annunciato l'11 ottobre a Seul che sarà tra gli organizzatori di una mostra speciale dedicata alle mummie dell'antico Egitto. L'iniziativa porta in Corea del Sud un tema archeologico che suscita da sempre forte curiosità nel pubblico e vede l'agenzia impegnata direttamente come co-organizzatrice, accanto ad altri partner non indicati nell'anticipazione. Dettagli su sede, date e reperti esposti non sono riportati nel breve annuncio diffuso dall'agenzia. Lo riferisce Yonhap.",
+   "more": [
+    "Nell'antico Egitto la mummificazione serviva a preservare il corpo del defunto, considerato necessario per la vita nell'aldilà. Le mummie, insieme ai sarcofagi e agli oggetti funerari, sono tra i reperti più richiesti dai musei di tutto il mondo e le mostre itineranti che le presentano attirano spesso un grande numero di visitatori."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261011001900315",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zce06817d",
+   "sez": "mondo",
+   "titolo": "Allarme droni ucraini, gli aerei del governo russo costretti a girare su Mosca",
+   "orig": "Ukrainian drone alert disrupts Russian government flights returning from Putin’s Turkmenistan trip",
+   "lead": "La sera del 9 ottobre diversi velivoli del Rossiya Special Flight Detachment, il reparto che trasporta i vertici dello Stato russo e gli alti funzionari, hanno dovuto restare in volo in circolo sopra Mosca. La causa è stata la minaccia di un attacco con droni ucraini, scattata mentre gli aerei rientravano dalla visita del presidente Vladimir Putin in Turkmenistan. L'allarme ha quindi perturbato il ritorno delle delegazioni governative nella capitale, mostrando come la guerra con l'Ucraina incida anche sugli spostamenti dei massimi dirigenti russi. Lo riferisce Meduza.",
+   "more": [
+    "Dall'inizio dell'invasione russa, l'Ucraina usa droni a lungo raggio per colpire obiettivi in territorio russo, compresa l'area di Mosca. Quando scatta un allarme, gli aeroporti della capitale sospendono o limitano le operazioni e gli aerei in arrivo devono attendere in volo. Meduza è un giornale indipendente russo che lavora in esilio dalla Lettonia."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/09/ukrainian-drone-alert-disrupts-russian-government-flights-returning-from-putin-s-turkmenistan-trip",
+     "angolo": "",
+     "atlas": "Russia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z39ce7e77",
+   "sez": "mondo",
+   "titolo": "Tommaso in Giappone: «Se dovessi trasferirmi oggi, lo rifarei?»",
+   "orig": "SE DOVESSI TRASFERIRMI OGGI IN GIAPPONE, LO RIFAREI?",
+   "lead": "Nel suo ultimo video sul canale YouTube «Tommaso in Giappone», l'autore, italiano che vive a Tokyo da oltre quindici anni, si interroga su come siano cambiati nel tempo sia il Paese sia lui stesso. Al centro del racconto c'è una domanda rivolta a chi sogna di trasferirsi: il Giappone di oggi offre ancora le opportunità di un tempo, oppure le difficoltà superano ormai i vantaggi? Tommaso promette di raccontare la propria esperienza personale senza filtri, presentandola come una riflessione di vita più che come una guida. Lo riferisce Tommaso in Giappone (YouTube).",
+   "more": [
+    "Il Giappone attira da anni molti stranieri, italiani compresi, per lavoro, studio o passione per la sua cultura. Chi vi si trasferisce deve però fare i conti con la lingua, con regole sul visto legate al lavoro o allo studio, con un costo della vita elevato nelle grandi città e con abitudini sociali e lavorative molto diverse da quelle europee."
+   ],
+   "fonti": [
+    {
+     "n": "Tommaso in Giappone (YouTube)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.youtube.com/watch?v=PoyAkHq3BqU",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z85bd1c7b",
+   "sez": "viaggi",
+   "titolo": "Alle porte di Madrid il monastero da 4000 stanze e 8000 finestre",
+   "orig": "4000 stanze e 8000 finestre: è il monastero più grande al mondo, e si trova alle porte della Capitale",
+   "lead": "Vicino a Madrid sorge un complesso monumentale che Turisti per Caso descrive come il monastero più grande del mondo: circa 4000 stanze, 8000 finestre e 33mila metri quadrati di superficie, tanto da somigliare a una piccola città. La rivista di viaggi lo propone come una delle mete simbolo della Spagna, facilmente raggiungibile dalla capitale e adatta a chi vuole aggiungere una visita storica e architettonica a un soggiorno madrileno. L'articolo punta sulle dimensioni eccezionali dell'edificio per raccontarne il fascino. Lo riferisce Turisti per Caso.",
+   "more": [
+    "Il complesso descritto corrisponde al Real Monasterio di San Lorenzo de El Escorial, voluto dal re Filippo II e oggi patrimonio dell'umanità Unesco. Oltre al monastero ospita un palazzo reale, una basilica, una ricca biblioteca e il pantheon dove sono sepolti molti sovrani spagnoli. Si trova sulle pendici della Sierra de Guadarrama."
+   ],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/destinazioni/4000-stanze-e-8000-finestre-e-il-monastero-piu-grande-al-mondo-e-si-trova-alle-porte-della-capitale.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z497a9db3",
+   "sez": "viaggi",
+   "titolo": "Toscana d'autunno: quattro itinerari tra foglie rosse, vino novello e castelli",
+   "orig": "Foglie rosse, vino novello e castelli millenari: i 4 itinerari perfetti per scoprire la Toscana in autunno",
+   "lead": "Turisti per Caso dedica un approfondimento alla Toscana in autunno, proponendo quattro itinerari per scoprire la regione in questa stagione. Il filo conduttore sono i colori delle foglie rosse, il vino novello e i castelli di origine millenaria, insieme ai panorami, ai piccoli borghi e alla ricca tradizione enogastronomica che rendono la regione adatta a molti tipi di viaggio. Secondo la rivista, proprio questo periodo dell'anno è particolarmente indicato per visitarla, quando paesaggi e tavola offrono il meglio della stagione. Lo riferisce Turisti per Caso.",
+   "more": [
+    "In autunno la Toscana vive il periodo della vendemmia appena conclusa, della raccolta delle olive e delle castagne, con sagre e feste legate ai prodotti di stagione. Il vino novello è un vino giovane, messo in commercio poche settimane dopo la vendemmia. Colline, vigneti e borghi medievali fanno della regione una delle mete più visitate d'Italia."
+   ],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/destinazioni/foglie-rosse-vino-novello-e-castelli-millenari-i-4-itinerari-perfetti-per-scoprire-la-toscana-in-autunno.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z500d2307",
+   "sez": "viaggi",
+   "titolo": "Oltre il Monte Bianco: otto giorni sulle Alpi tra Italia, Svizzera e Francia",
+   "orig": "Oltre il Monte Bianco: 8 giorni sulle Alpi tra Italia, Svizzera e Francia per scoprire i paesaggi più belli d’Europa",
+   "lead": "Turisti per Caso propone un itinerario di otto giorni sulle Alpi a cavallo di tre Paesi, Italia, Svizzera e Francia, alla scoperta di quelli che la rivista considera tra i paesaggi più belli d'Europa. Il viaggio, che va oltre il Monte Bianco, si sviluppa per circa una settimana tra laghi, castelli e borghi nel cuore dell'Alta Savoia, la regione alpina francese al confine con gli altri due Paesi. L'articolo è pensato per chi vuole esplorare la zona con calma, unendo natura e centri storici. Lo riferisce Turisti per Caso.",
+   "more": [
+    "L'Alta Savoia è un dipartimento francese delle Alpi che confina con la Svizzera e con la Valle d'Aosta. Comprende località come Chamonix, ai piedi del Monte Bianco, e Annecy con il suo lago. Il massiccio del Monte Bianco, la vetta più alta delle Alpi, è collegato al versante italiano dal traforo stradale e da impianti a fune."
+   ],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/diari-di-viaggio/oltre-il-monte-bianco-8-giorni-sulle-alpi-tra-italia-svizzera-e-francia-per-scoprire-i-paesaggi-piu-belli-deuropa.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb5b7c632",
+   "sez": "tech",
+   "titolo": "Uno smartphone nordcoreano smette di funzionare in Corea del Sud",
+   "orig": "North Korean smartphone stops working when taken to South, Chinese blogger says",
+   "lead": "Un telefono prodotto per il mercato della Corea del Nord avrebbe smesso di funzionare dopo essere stato portato in Corea del Sud: lo schermo è diventato arancione e il dispositivo è rimasto bloccato in un ciclo infinito di riavvii. A raccontarlo è un blogger cinese, l'utente di Weibo «fenibook», seguito da circa 503mila persone, in una video-recensione dell'apparecchio. L'episodio fa sorgere interrogativi sui possibili sistemi di controllo integrati nei telefoni nordcoreani, anche se si tratta per ora della testimonianza di un singolo utente. Lo riferisce NK News.",
+   "more": [
+    "In Corea del Nord l'uso della tecnologia è strettamente sorvegliato dallo Stato. Gli smartphone venduti nel Paese non accedono a Internet ma solo a una rete interna e, secondo analisi di esperti, contengono software che limitano i file utilizzabili e registrano l'attività degli utenti. Weibo è uno dei principali social network cinesi."
+   ],
+   "fonti": [
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/north-korean-smartphone-stops-working-when-taken-to-south-chinese-blogger-says/",
+     "angolo": "",
+     "atlas": "North Korea"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z00433380",
+   "sez": "tech",
+   "titolo": "Moda decisa dagli algoritmi: l'intelligenza artificiale sceglie cosa indosseremo",
+   "orig": "Hoe AI beslist welke kleren jij straks draagt: welkom in de wereld van 'algorithmic fashion'",
+   "lead": "I capi di abbigliamento che diventano virali su TikTok arrivano nei negozi pochi giorni dopo: grazie all'intelligenza artificiale e agli algoritmi, le aziende di moda riescono a seguire le tendenze online più rapidamente che mai. È il fenomeno chiamato «algorithmic fashion», raccontato dall'emittente pubblica belga fiamminga. Gli esperti ne riconoscono alcuni vantaggi, come la riduzione delle scorte invendute, ma avvertono anche dei rischi: un aumento dei consumi, la tendenza a copiare e un'uniformità crescente dei prodotti nel settore della moda. Lo riferisce VRT NWS.",
+   "more": [
+    "La cosiddetta moda veloce si basa sulla produzione rapida di capi economici che seguono le ultime tendenze. L'analisi automatica dei dati raccolti sui social network e negli acquisti online permette di capire in anticipo che cosa piacerà ai clienti. Il modello è però criticato per l'impatto ambientale, legato a rifiuti tessili e sovrapproduzione."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/02/hoe-ai-beslist-welke-kleren-jij-straks-draagt-welkom-in-de-were.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z878d29cf",
+   "sez": "tech",
+   "titolo": "Studenti idraulici ballano su TikTok: oltre dieci milioni di visualizzazioni",
+   "orig": "VVS-elevernas succé på Tiktok – över tio miljoner visningar",
+   "lead": "Gli studenti del nuovo indirizzo per impiantisti idraulici e termotecnici del liceo Torsbergsgymnasiet di Bollnäs, in Svezia, hanno iniziato a ballare per divertimento e a pubblicare i video su TikTok. Le clip sono diventate un successo inatteso, superando i dieci milioni di visualizzazioni. Uno dei ragazzi, Konrad Whitehead, si dice incredulo davanti a numeri così alti, nati da un gioco fra compagni di classe. La storia mostra come anche un percorso di formazione professionale possa diventare visibile grazie ai social. Lo riferisce SVT Nyheter.",
+   "more": [
+    "In Svezia il gymnasium è la scuola superiore, frequentata di solito dai sedici ai diciannove anni, e offre sia percorsi teorici sia programmi professionali, come quello per gli impianti idraulici e di riscaldamento. TikTok è un social network basato su brevi video, molto usato dai giovani, dove balli e contenuti spontanei possono diffondersi rapidamente."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/lokalt/gavleborg/vvs-elevernas-succe-pa-tiktok-over-tio-miljoner-visningar",
+     "angolo": "",
+     "atlas": "Sweden"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdef6debe",
+   "sez": "organizzazioni",
+   "titolo": "Unicef: nel mondo una ragazza su cinque sposata prima dei 18 anni",
+   "orig": "Unicef, nel mondo una ragazza su cinque data in sposa prima dei 18 anni",
+   "lead": "Secondo l'Unicef, nel mondo una ragazza su cinque viene data in sposa prima di compiere diciotto anni. Ogni anno sono oltre 12 milioni le giovani costrette a un matrimonio precoce, un ritmo pari a circa una ogni tre secondi. I dati del Fondo delle Nazioni Unite per l'infanzia mostrano quanto il fenomeno resti diffuso su scala globale e quante bambine e adolescenti ne siano ancora coinvolte, con conseguenze sulla loro vita e sul loro futuro. Lo riferisce ANSA.",
+   "more": [
+    "Il matrimonio precoce è considerato dalle Nazioni Unite una violazione dei diritti dell'infanzia. Spesso costringe le ragazze ad abbandonare la scuola, le espone a gravidanze precoci e rischiose e le rende più vulnerabili alla violenza e alla povertà. È più frequente nelle aree rurali e povere, in particolare in parti dell'Africa e dell'Asia meridionale."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/unicef-nel-mondo-una-ragazza-su-cinque-data-in-sposa-prima-dei_4958d1cb-2f65-4b6e-8ff5-838860a84b89.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf3f1a7ec",
+   "sez": "ingegneria",
+   "titolo": "La Negrita, la casa di Estudio Palacios sul lago Los Molinos",
+   "orig": "La Negrita House / Estudio Palacios",
+   "lead": "Lo studio di architettura Estudio Palacios ha firmato La Negrita, un'abitazione costruita sulle rive del lago Los Molinos e circondata da un fitto bosco di eucalipti. Il progetto, presentato dalla piattaforma internazionale ArchDaily, nasce dal desiderio di creare un rifugio tranquillo immerso in un'atmosfera piacevole e giocosa. Il luogo gode inoltre di un microclima particolare, che contribuisce al carattere dell'edificio. La casa punta sul rapporto stretto con l'acqua e con la vegetazione circostante, offrendo ai suoi abitanti un luogo di quiete lontano dalla vita urbana. Lo riferisce ArchDaily.",
+   "more": [
+    "Il lago Los Molinos è un bacino artificiale nella provincia di Córdoba, in Argentina, circondato da colline e zone boscose e frequentato per il turismo e le seconde case. Gli eucalipti, alberi originari dell'Australia, sono stati piantati in molte parti del Sud America. ArchDaily è uno dei siti di architettura più consultati al mondo."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186656/la-negrita-house-estudio-palacios",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc408e42e",
+   "sez": "cucina",
+   "titolo": "Cosa mangiare nel Delta del Po: ostriche rosa, cozze e antiche ricette",
+   "orig": "Cosa mangiare nel Delta del Po, tra ristoranti sull’acqua, ostriche rosa e antiche ricette",
+   "lead": "Il Gambero Rosso propone un itinerario gastronomico nel Delta del Po alla scoperta delle specialità locali e dei luoghi dove assaggiarle, compresi ristoranti affacciati sull'acqua. Il percorso tocca le cozze di Scardovari, le ostriche rosa, gli spaghetti con il granchio blu e il riso dei cannaroli, un piatto della tradizione legato alle antiche ricette del territorio. La guida intreccia cucina e paesaggio, raccontando un'area dove la pesca e l'allevamento di molluschi segnano da sempre la tavola. Lo riferisce Gambero Rosso.",
+   "more": [
+    "Il Delta del Po, tra Veneto ed Emilia-Romagna, è una vasta area di lagune, canali e valli da pesca, in parte tutelata come parco. La Sacca di Scardovari è nota per l'allevamento di cozze e ostriche. Il granchio blu, specie arrivata dall'Atlantico, negli ultimi anni si è diffuso nelle lagune danneggiando i molluschi, ed è diventato anche ingrediente in cucina."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/rubriche/miniguide/cosa-mangiare-delta-po-ristoranti-prodotti-tipici/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8a370f88",
+   "sez": "cucina",
+   "titolo": "Il bar di Giorgio Gaber con la porta segreta che porta al teatro",
+   "orig": "Nel bar dove Giorgio Gaber tirava tardi con il proprietario c’è una porta segreta che conduce a teatro",
+   "lead": "Dal 1980 Maurilio Pepi serve caffè agli artisti del Teatro Nazionale in un bar collegato al teatro da una porta segreta. Tra i suoi clienti ci sono stati Giorgio Gaber, che nel locale si fermava fino a tardi a chiacchierare con il proprietario, e molti dei grandi attori italiani. Il Gambero Rosso racconta la storia di questo bar e della famiglia che lo gestisce: la figlia di Pepi è cresciuta letteralmente dietro le quinte, tra prove e spettacoli. Un pezzo di vita teatrale vista dal bancone. Lo riferisce Gambero Rosso.",
+   "more": [
+    "Giorgio Gaber è stato un cantautore e attore milanese, tra gli inventori del teatro canzone, una forma di spettacolo che alternava brani musicali e monologhi. I bar vicini ai teatri sono da sempre luoghi di incontro tra artisti, tecnici e pubblico, prima e dopo gli spettacoli."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/rubriche/storie/bar-viminale-roma-porta-teatro-maurilio-pepi/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4523cf68",
+   "sez": "cucina",
+   "titolo": "Pâté di funghi con tomino, un antipasto per le Feste",
+   "orig": "Pâté di funghi con tomino",
+   "lead": "La Cucina Italiana propone una ricetta di pâté di funghi con tomino, pensata come antipasto per i pranzi e le cene delle Feste. La rivista milanese ricorda che il pâté è una presenza fissa tra gli stuzzichini che aprono i menu festivi. Per questo suggerisce una versione definita contemporanea, che sostituisce le basi più classiche con i funghi e aggiunge il tomino, un formaggio dal gusto delicato. La proposta vuole offrire un'alternativa ai pâté tradizionali senza rinunciare al loro ruolo di apertura del pasto. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Il tomino è un piccolo formaggio fresco o poco stagionato tipico del Piemonte, dalla pasta morbida e dal sapore delicato. Il pâté è una preparazione cremosa e spalmabile, nata soprattutto a base di fegato o carne, ma oggi diffusa anche in versioni vegetali con funghi, legumi o verdure, servite su crostini o pane tostato."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/ricetta/pate-funghi-tomino/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcf49eb5d",
+   "sez": "cultura",
+   "titolo": "Roma, nel weekend Haring a Palazzo Braschi, Pontormo alle Scuderie e le Giornate del Fai",
+   "orig": "Roma eventi weekend. \"Haring\" a Braschi, \"Pontormo\" alle Scuderie del Quirinale, le Giornate del Fai e tanto altro",
+   "lead": "Il fine settimana romano offre numerosi appuntamenti culturali. Tra le proposte segnalate dal Messaggero ci sono la mostra dedicata a Keith Haring a Palazzo Braschi e quella su Pontormo alle Scuderie del Quirinale, oltre alle Giornate del Fai. In programma anche il concerto di Sal Da Vinci all'Auditorium Conciliazione, una performance di Sophie Calle al Cimitero Acattolico e le nuove esposizioni all'Accademia di Francia. Il quotidiano raccoglie questi e altri eventi in una guida pensata per chi vuole trascorrere il weekend tra arte, musica e iniziative speciali in città. Lo riferisce Il Messaggero – Roma.",
+   "more": [
+    "Le Scuderie del Quirinale sono uno dei principali spazi espositivi di Roma, ospitati negli antichi edifici di servizio del palazzo presidenziale. Palazzo Braschi, affacciato su piazza Navona, è sede del Museo di Roma. Il Fai, Fondo per l'Ambiente Italiano, organizza periodicamente giornate in cui apre al pubblico luoghi di interesse storico e artistico normalmente poco accessibili."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/nl/roma_weekend/roma_eventi_weekend_8_9_10_11_ottobre_da_non_perdere-9811886.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6e4dbb4f",
+   "sez": "mondo",
+   "titolo": "Slovenia alle urne per quattro referendum, primo test per il premier Janša",
+   "orig": "U Sloveniji počelo glasanje na četiri referenduma, prvi test za...",
+   "lead": "In Slovenia si vota oggi su quattro referendum, tre dei quali consultivi. I seggi, più di tremila, hanno aperto alle sette del mattino. I cittadini si esprimono sull'abolizione del canone per la radiotelevisione pubblica RTV Slovenija, sulla possibilità di legare gli aiuti sociali allo svolgimento di lavori socialmente utili e sul diritto di voto alle elezioni locali per i cittadini di Paesi terzi. Le consultazioni consultive non sono vincolanti, ma vengono lette come il primo banco di prova per il governo guidato da Janez Janša.",
+   "more": [
+    "La Slovenia è una repubblica parlamentare membro dell'Unione europea e della Nato, con capitale Lubiana. Janez Janša, leader del Partito democratico sloveno di orientamento conservatore, è una figura centrale della politica nazionale e ha già guidato il governo in passato. Lo strumento referendario è usato con una certa frequenza nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/balkan/830837/u-sloveniji-pocelo-glasanje-na-cetiri-referenduma-prvi-test-za-premijera-jansu",
+     "angolo": "",
+     "atlas": "Montenegro"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/region/u-sloveniji-pocelo-glasanje-na-cetiri-referenduma-prvi-test-za-premijera-jansu/",
+     "angolo": "",
+     "atlas": "Serbia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdc1f6bcd",
+   "sez": "mondo",
+   "titolo": "La Russia sospende l'importazione di bevande da diversi produttori georgiani",
+   "orig": "Russia Suspends Sale, Import of Drinks From Several Georgian Producers, RBC Reports",
+   "lead": "La Russia ha sospeso l'importazione e la vendita di bevande alcoliche e analcoliche provenienti da alcuni importanti produttori della Georgia. La notizia è stata diffusa dal media russo RBC, che cita un documento di Rospotrebnadzor, l'ente di Mosca per la tutela dei consumatori e la salute pubblica, oltre a fonti del mercato degli alcolici e della distribuzione. Le restrizioni riguardano vino, brandy, birra, acque minerali come Nabeghlavi e anche la Coca-Cola imbottigliata in Georgia. Non sono indicate pubblicamente le motivazioni ufficiali del provvedimento.",
+   "more": [
+    "La Georgia è un Paese del Caucaso meridionale con una lunga tradizione vinicola e numerose sorgenti di acque minerali, prodotti storicamente molto diffusi sul mercato russo. Rospotrebnadzor è l'agenzia sanitaria federale russa; in passato i suoi divieti sui prodotti georgiani sono stati spesso letti anche in chiave politica, date le tensioni tra i due Paesi."
+   ],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/754203",
+     "angolo": "",
+     "atlas": "Georgia"
+    },
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/moscow-suspends-imports-of-some-georgian-beverages-russian-media-reports/",
+     "angolo": "",
+     "atlas": "Azerbaijan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z78791d19",
+   "sez": "spazio",
+   "titolo": "Aurora boreale visibile in Olanda e Belgio, ma soprattutto con la fotocamera",
+   "orig": "Noorderlicht te zien in delen van Nederland (en alleen met camera)",
+   "lead": "Ieri sera e nella notte l'aurora boreale è comparsa nei cieli di Paesi Bassi e Belgio, approfittando delle pause tra un acquazzone e l'altro. Il fenomeno era però difficile da vedere a occhio nudo: si trattava della cosiddetta aurora fotografica, ben visibile solo attraverso l'obiettivo di una fotocamera. Nei Paesi Bassi le possibilità migliori si sono avute nella metà meridionale, meno nuvolosa, con immagini arrivate da Limburgo, Olanda Meridionale e Gheldria. In Belgio l'esperta di meteo spaziale Christine Verbeke ha parlato di condizioni favorevoli. All'origine c'è una tempesta solare.",
+   "more": [
+    "L'aurora boreale nasce quando le particelle cariche emesse dal Sole durante le tempeste solari raggiungono la Terra e interagiscono con il campo magnetico e l'atmosfera, provocando bagliori colorati. Di solito è visibile alle alte latitudini; quando l'attività solare è intensa può spingersi più a sud, ma i sensori delle fotocamere colgono colori che l'occhio umano spesso non percepisce."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2634532",
+     "angolo": "",
+     "atlas": "Netherlands"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/11/zonnestorm-noorderlicht-vlaanderen.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc75f3a6c",
+   "sez": "musica",
+   "titolo": "Senegal, Omar Pène ricorda Aziz Seck, suo compagno nel Super Diamono",
+   "orig": "Décès d’Aziz Seck : Omar Pène rend hommage à son « frère de route »",
+   "lead": "Il cantante senegalese Omar Pène ha espresso da Parigi il suo profondo dolore per la scomparsa di Aziz Seck, amico di lunga data ed ex compagno di strada nel gruppo Super Diamono. In un messaggio pubblicato sulla sua pagina Facebook, l'artista lo ha definito un «fratello di strada» e ha ricordato un legame fraterno nato e cresciuto grazie alla musica. Pène ha voluto rendere omaggio alla memoria di un uomo che, nelle sue parole, ha lasciato un segno importante. Lo riferisce Le Soleil.",
+   "more": [
+    "Omar Pène è uno dei nomi più noti della musica senegalese ed è stato a lungo la voce del Super Diamono, gruppo di Dakar che ha contribuito alla diffusione del mbalax, il genere popolare che fonde ritmi tradizionali con influenze jazz, soul e rock."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/arts-et-culture/deces-daziz-seck-omar-pene-rend-hommage-a-son-frere-de-route/",
+     "angolo": "",
+     "atlas": "Senegal"
+    },
+    {
+     "n": "La Nation (Gibuti)",
+     "p": "XX",
+     "c": "Gibuti",
+     "u": "https://www.lanation.dj/cooperation-sino-djiboutienne-ali-hassan-bahdon-rend-hommage-a-hu-bin-au-terme-de-sa-mission/",
+     "angolo": "",
+     "atlas": "Djibouti"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1c50b1e9",
+   "sez": "economia",
+   "titolo": "Ferrovie libiche al forum degli investitori, collaborazione sul corridoio di transito",
+   "orig": "Libyan Railroads participates in MFZ Investors' Forum - plans to collaborate with Committee on Libyan Transit Corridor",
+   "lead": "Le Ferrovie libiche hanno partecipato al forum degli investitori della zona franca MFZ e hanno annunciato l'intenzione di collaborare con la commissione del ministero dei Trasporti dedicata al corridoio di transito libico. L'ente ferroviario ha colto l'occasione per presentare i propri progetti e il proprio ruolo nello sviluppo di un collegamento che attraversi il Paese. La partecipazione all'incontro mira a inserire la rete ferroviaria nei piani di trasporto e di investimento legati al transito delle merci. Lo riferisce Libya Herald.",
+   "more": [
+    "La Libia, Paese nordafricano affacciato sul Mediterraneo, ha da anni progetti ferroviari che puntano a collegare la costa con l'interno e con i Paesi vicini, ma la loro realizzazione è stata rallentata dall'instabilità politica. Un corridoio di transito servirebbe a far passare sul territorio libico merci dirette verso l'Africa subsahariana e l'Europa."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/10/libyan-railroads-participates-in-mfz-investors-forum-plans-to-collaborate-with-committee-on-libyan-transit-corridor/",
+     "angolo": "",
+     "atlas": "Libya"
+    },
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/4233228.html",
+     "angolo": "",
+     "atlas": "Azerbaijan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7cb3f6ab",
+   "sez": "mondo",
+   "titolo": "Cuba, nuovo blackout parziale lascia senza luce l'est dell'isola",
+   "orig": "Una nueva desconexión parcial del SEN deja sin electricidad al oriente de Cuba",
+   "lead": "Una nuova disconnessione parziale del Sistema elettrico nazionale cubano ha lasciato senza corrente le province orientali dell'isola. All'origine c'è il distacco di una linea ad alta tensione tra Nuevitas e Las Tunas, che ha interrotto il collegamento con l'est del Paese. L'episodio aggrava una crisi energetica già pesante: quest'anno il sistema ha subito otto collassi totali, con interruzioni che hanno coinvolto l'intera Cuba. La popolazione continua così a fare i conti con lunghe ore senza elettricità. Lo riferisce 14ymedio.",
+   "more": [
+    "La rete elettrica cubana dipende in gran parte da vecchie centrali termoelettriche alimentate a petrolio, spesso soggette a guasti e a carenze di combustibile. Da anni l'isola vive interruzioni programmate e improvvise, che pesano sulla vita quotidiana e sull'economia. 14ymedio è un giornale indipendente cubano che opera dall'estero."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/nueva-desconexion-parcial-sen-deja_1_1131805.html",
+     "angolo": "",
+     "atlas": "Cuba"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/11/una-nueva-inundacion-repentina-de-un-rio-en-nepal-arrasa-un-pueblo-y-deja-5-desaparecidos/",
+     "angolo": "",
+     "atlas": "Paraguay"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf89888ad",
+   "sez": "mondo",
+   "titolo": "Madrid, cresce il Movimento socialista che attacca Sánchez e Podemos",
+   "orig": "El auge de las banderas rojas que desprecian a Sánchez, a Podemos y al Frente Amplio",
+   "lead": "Nell'accampamento di protesta in Puerta del Sol, a Madrid, sta acquistando visibilità il Movimento socialista, riconoscibile dalle bandiere rosse. Secondo El Mundo si tratta di militanti comunisti legati al GKS, con ex esponenti della sinistra indipendentista basca, già al centro di tensioni nelle università dei Paesi Baschi. Il gruppo prende le distanze dal premier Pedro Sánchez, da Podemos e dal Frente Amplio, e accusa il governo di essere responsabile della situazione attuale, compresa quella vissuta da Maricarmen Abascal. Lo riferisce El Mundo.",
+   "more": [
+    "Puerta del Sol è la piazza centrale di Madrid, storico luogo di manifestazioni e accampamenti di protesta. Con «izquierda abertzale» si indica la sinistra indipendentista basca. Podemos è un partito della sinistra spagnola nato all'inizio degli anni Dieci, mentre Pedro Sánchez guida il Partito socialista operaio spagnolo."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/cronica/2026/10/10/6ac962dfe4d4d8bc398b45a1.html",
+     "angolo": "",
+     "atlas": "Spain"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/ante-el-avance-la-derecha-el-continente-el-frente-amplio-busca-estrechar-sus-lazos-zohran-mamdani-el-alcalde-socialista-nueva-york-n6060043",
+     "angolo": "",
+     "atlas": "Uruguay"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbd6ef6c1",
+   "sez": "mondo",
+   "titolo": "Giornata internazionale delle bambine: stop ai matrimoni precoci e dibattiti a Monaco",
+   "orig": "Journée internationale de la fille : mettre fin au mariage d’enfants et investir dans les droits des filles",
+   "lead": "Domenica 11 ottobre si celebra la Giornata internazionale delle bambine e delle ragazze. Dalla Repubblica Democratica del Congo, Radio Okapi rilancia l'appello a porre fine ai matrimoni di minori e a investire nei diritti delle ragazze. Nel Principato di Monaco, invece, il Consiglio nazionale ha aperto il suo emiciclo a un dibattito tra liceali sull'uguaglianza tra ragazze e ragazzi: tre temi, squadre a favore e contro e, alla fine, il verdetto di giuria e pubblico. L'obiettivo era imparare ad argomentare su questioni di parità.",
+   "more": [
+    "La Giornata internazionale delle bambine e delle ragazze è stata istituita dalle Nazioni Unite per richiamare l'attenzione sulle discriminazioni che colpiscono le giovani nel mondo, come l'accesso limitato all'istruzione, la violenza e i matrimoni precoci, ancora diffusi in diverse aree dell'Africa e dell'Asia."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/11/actualite/societe/journee-internationale-de-la-fille-mettre-fin-au-mariage-denfants-et",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo"
+    },
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/societe/education/l-egalite-n-est-pas-un-combat-des-filles-contre-les-garcons-les-lyceens-debattent-a-l-occasion-de-la-journee-de-la-fille-a-monaco-10737623",
+     "angolo": "",
+     "atlas": "Monaco"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf58d9afe",
+   "sez": "mondo",
+   "titolo": "Pakistan, stato d'emergenza e governo del governatore in Khyber Pakhtunkhwa",
+   "orig": "Emergency, governor's rule imposed in KP as president approves cabinet decision",
+   "lead": "Il governo federale del Pakistan ha imposto domenica lo stato d'emergenza e il governo diretto del governatore nella provincia di Khyber Pakhtunkhwa, dopo il via libera del presidente alle raccomandazioni del consiglio dei ministri. Le misure si basano sugli articoli 232 e 234 della Costituzione. La decisione è arrivata dopo una riunione presieduta dal premier Shehbaz Sharif sulla sicurezza nella provincia, con l'accusa all'esecutivo locale di essersi sottratto alla lotta al terrorismo. Il primo ministro provinciale Sohail Afridi, alla guida di una marcia del PTI, aveva già definito illegale un simile provvedimento.",
+   "more": [
+    "Il Khyber Pakhtunkhwa è una provincia del nord-ovest del Pakistan, al confine con l'Afghanistan, da anni colpita da attacchi di gruppi armati. È una roccaforte del PTI, il partito dell'ex premier Imran Khan, in forte contrasto con il governo federale. Il governo del governatore sospende di fatto l'esecutivo provinciale eletto."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2036352/emergency-governors-rule-imposed-in-kp-as-president-approves-cabinet-decision",
+     "angolo": "",
+     "atlas": "Pakistan"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2036185/cm-afridi-says-will-not-accept-illegal-move-of-governors-rule-or-emergency-in-kp",
+     "angolo": "",
+     "atlas": "Pakistan"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2634200/pm-shehbaz-chairs-cabinet-meeting-to-discuss-terrorism-governance-in-k-p",
+     "angolo": "",
+     "atlas": "Pakistan"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2634151/governors-rule-or-emergency",
+     "angolo": "",
+     "atlas": "Pakistan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za30c1b99",
+   "sez": "mondo",
+   "titolo": "Gambia, i tribunali respingono i ricorsi contro l'iscrizione di elettrici",
+   "orig": "Revising Court dismisses objection of an objector in judgement",
+   "lead": "In Gambia i tribunali di revisione delle liste elettorali hanno respinto alcuni ricorsi contro l'iscrizione di cittadine nei registri degli elettori. A Kanifing la magistrata Isatou Sallah-M'Bai ha rigettato l'obiezione di Binta Nyabally contro Mariama Jallow, accusata di non essere gambiana, disponendo che resti iscritta secondo la legge elettorale del 2025. A Brusubi il magistrato Mam Samba Jallow ha respinto il ricorso di Abdul Karim Drammeh contro Maimuna Camara, ritenendo insufficienti le prove sulla sua presunta mancanza di cittadinanza.",
+   "more": [
+    "Il Gambia è il più piccolo Stato dell'Africa continentale, quasi interamente circondato dal Senegal. In vista delle elezioni, la legge consente di contestare l'iscrizione di un elettore davanti a tribunali appositi, chiamati a verificare requisiti come la cittadinanza."
+   ],
+   "fonti": [
+    {
+     "n": "The Point",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://thepoint.gm/africa/gambia/headlines/revising-court-dismisses-objection-of-an-objector-in-judgement",
+     "angolo": "",
+     "atlas": "Gambia"
+    },
+    {
+     "n": "Foroyaa",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://foroyaa.net/revising-court-rejects-abdul-karim-drammehs-objection-to-maimuna-camaras-voter-registration/",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z79be83b2",
+   "sez": "cultura",
+   "titolo": "I programmi verticali per i social sfidano i talk show",
+   "orig": "Como os programas verticais feitos para as redes sociais concorrem com talk shows",
+   "lead": "La Folha de S.Paulo analizza come i programmi brevi in formato verticale, girati per i social network, stiano diventando concorrenti dei talk show tradizionali. L'esempio citato è Subway Takes, condotto da Kareem Rahma: episodi da uno a tre minuti registrati su un vagone della metropolitana di New York. In una puntata l'attore Andrew Garfield sostiene che un vero dj debba suonare dischi in vinile, ricevendo il pieno accordo del conduttore. Il formato punta su opinioni rapide e ospiti famosi. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Il formato verticale è pensato per la visione su smartphone e domina piattaforme come TikTok, Instagram e YouTube Shorts. I talk show televisivi, basati su interviste lunghe in studio, si trovano così a competere con contenuti brevi che attirano personaggi noti e raggiungono soprattutto un pubblico giovane."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/como-os-programas-verticais-feitos-para-as-redes-sociais-concorrem-com-talk-shows.shtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/11/ceara-segue-tendencia-nacional-e-politicos-lideres-em-engajamento-nas-redes-sociais-atingem-votacao-recorde.ghtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2e3d46f7",
+   "sez": "mondo",
+   "titolo": "Guinea, anticipato al 17 ottobre il concorso per 6.000 insegnanti",
+   "orig": "Recrutement de 6 000 enseignants : la date des épreuves avancée au samedi 17 octobre 2026 sur instruction présidentielle (Communiqué)",
+   "lead": "In Guinea il ministero della Modernizzazione dell'amministrazione e della Funzione pubblica ha anticipato la data del concorso per reclutare 6.000 insegnanti: le prove, previste per mercoledì 21 ottobre 2026, si terranno sabato 17 ottobre. Il cambio di calendario dell'ultimo momento è stato deciso su indicazione presidenziale. Sabato 10 ottobre, inoltre, il ministero ha ospitato un incontro definito decisivo con il collettivo degli insegnanti a contratto, i rappresentanti sindacali e i dirigenti del dicastero per affrontare la situazione dei docenti precari.",
+   "more": [
+    "La Guinea è un Paese dell'Africa occidentale con capitale Conakry. Come in altri Stati della regione, il sistema scolastico pubblico soffre la carenza di insegnanti e fa ampio ricorso a docenti a contratto, spesso protagonisti di vertenze per ottenere la stabilizzazione e migliori condizioni."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/recrutement-de-6-000-enseignants-la-date-des-epreuves-avancee-au-samedi-17-octobre-2026-sur-instruction-presidentielle-communique/",
+     "angolo": "",
+     "atlas": "Guinea"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/enseignants-contractuels-une-rencontre-decisive-souvre-au-ministere-de-la-fonction-publique/",
+     "angolo": "",
+     "atlas": "Guinea"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc7e2c8ed",
+   "sez": "mondo",
+   "titolo": "Lituania, Matijošaitis il sindaco più apprezzato tra le grandi città",
+   "orig": "Apklausa: iš didžiųjų miestų merų geriausiai vertinamas – Matijošaitis",
+   "lead": "Tra i sindaci delle tre principali città della Lituania, il più apprezzato dai cittadini è Visvaldas Matijošaitis, primo cittadino di Kaunas. È quanto emerge da un sondaggio rappresentativo condotto ad agosto, in cui gli intervistati sono stati chiamati a giudicare il lavoro degli amministratori dei maggiori centri del Paese. Kaunas ha ottenuto i giudizi più favorevoli rispetto alle altre due grandi città. Lo riferisce LRT.",
+   "more": [
+    "Kaunas è la seconda città della Lituania per popolazione, dopo la capitale Vilnius; la terza è Klaipėda, il principale porto del Paese. Visvaldas Matijošaitis è un imprenditore entrato in politica alla guida di un movimento civico locale, e da anni amministra la città."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3079028/apklausa-is-didziuju-miestu-meru-geriausiai-vertinamas-matijosaitis",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z77eece90",
+   "sez": "musica",
+   "titolo": "Britney Spears pubblica un brano inedito scritto con Justin Timberlake",
+   "orig": "Η Μπρίτνεϊ Σπίαρς φέρνει στο φως ακυκλοφόρητο τραγούδι που έγραψε με τον Τζάστιν Τίμπερλεϊκ",
+   "lead": "Britney Spears ha diffuso una canzone mai pubblicata prima, scritta insieme all'ex compagno Justin Timberlake. L'uscita anticipa la riedizione del suo album «Britney», il terzo della carriera della popstar americana, uscito nel 2001. La nuova versione del disco è attesa per il 6 novembre, in occasione dei venticinque anni dalla prima pubblicazione. Il brano inedito rappresenta uno dei richiami per i fan in vista del ritorno dell'album. Lo riferisce ERT News.",
+   "more": [
+    "Britney Spears è una delle popstar più celebri degli anni Duemila, esplosa con «...Baby One More Time». Justin Timberlake, ex membro della boy band NSYNC e poi solista di successo, è stato a lungo il suo compagno: la loro relazione è stata tra le più seguite della cultura pop di quel periodo."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/i-mpritnei-spiars-fernei-sto-fos-akykloforito-tragoudi-pou-egrapse-me-ton-tzastin-timperleik/",
+     "angolo": "",
+     "atlas": "Greece"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z19250b86",
+   "sez": "mondo",
+   "titolo": "Macedonia del Nord, l'SDSM celebra l'11 Ottobre: «L'antifascismo è un impegno»",
+   "orig": "СДСМ го честита 11 Октовмри: Антифашизмот не е споменик, туку обврска да се живее во мир и слога, не во закани и раздор",
+   "lead": "In occasione dell'11 Ottobre, festa nazionale della Macedonia del Nord, il partito socialdemocratico SDSM ha diffuso un messaggio di auguri in cui ricorda che 85 anni fa i partigiani si mobilitarono per uno Stato libero, per la libertà e la dignità umana, contro il fascismo. Secondo il partito, l'antifascismo non è un monumento ma un obbligo a vivere in pace e concordia, e non tra minacce e divisioni. Il messaggio è stato diffuso a Skopje. Lo riferisce MIA.",
+   "more": [
+    "L'11 Ottobre in Macedonia del Nord ricorda l'inizio della lotta partigiana contro le forze di occupazione durante la Seconda guerra mondiale. L'SDSM, Unione socialdemocratica di Macedonia, è uno dei due principali partiti del Paese, erede della tradizione della sinistra jugoslava."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%81%D0%B4%D1%81%D0%BC-%D0%B3%D0%BE-%D1%87%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%B0-11-%D0%BE%D0%BA%D1%82%D0%BE%D0%B2%D0%BC%D1%80%D0%B8-%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%B0%D1%88%D0%B8%D0%B7%D0%BC%D0%BE%D1%82-%D0%BD%D0%B5-%D0%B5-%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA-%D1%82%D1%83%D0%BA%D1%83-%D0%BE%D0%B1%D0%B2%D1%80%D1%81%D0%BA%D0%B0-%D0%B4%D0%B0-%D1%81%D0%B5-%D0%B6%D0%B8%D0%B2%D0%B5%D0%B5-%D0%B2%D0%BE-%D0%BC%D0%B8%D1%80-%D0%B8-%D1%81%D0%BB%D0%BE%D0%B3%D0%B0-%D0%BD%D0%B5-%D0%B2%D0%BE-%D0%B7%D0%B0%D0%BA%D0%B0%D0%BD%D0%B8-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B4%D0%BE%D1%80",
+     "angolo": "",
+     "atlas": "Macedonia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z73632ebb",
+   "sez": "sport",
+   "titolo": "Calciatori nigeriani all'estero: gol per Arokodare, Moffi e Nwaiwu, Tella rientra",
+   "orig": "Nigerian Players Watch: Arokodare, Moffi, Nwaiwu score as Tella returns from injury",
+   "lead": "Sabato positivo per diversi nazionali nigeriani impegnati nei campionati europei. Tolu Arokodare ha continuato a segnare nei Paesi Bassi, Terem Moffi ha trovato il primo gol in Germania e Bright Nwaiwu, difensore, è andato a segno in Turchia. Buone notizie anche da Nathan Tella, tornato in campo dopo un infortunio. Victor Boniface, invece, è rimasto in panchina in attesa di un'occasione. La rassegna fa il punto sulle prestazioni dei giocatori della Nigeria all'estero. Lo riferisce Premium Times.",
+   "more": [
+    "La Nigeria è una delle nazionali più forti del calcio africano, soprannominata Super Eagles. Gran parte dei suoi giocatori milita in club europei, e i media nigeriani seguono da vicino ogni settimana le loro prestazioni nei diversi campionati."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/916079-nigerian-players-watch-arokodare-moffi-nwaiwu-score-as-tella-returns-from-injury.html",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z82505051",
+   "sez": "sport",
+   "titolo": "L'iraniano Bonyadifard arbitrerà Beijing Guoan-Jeonbuk in Champions League asiatica",
+   "orig": "بنیادی‌فرد داور دیدار بیجینگ گوان و چونبوک موتورز در لیگ نخبگان شد",
+   "lead": "La Confederazione calcistica asiatica ha designato l'arbitro iraniano Mooud Bonyadifard per dirigere la partita tra i cinesi del Beijing Guoan e i sudcoreani del Jeonbuk Motors, valida per la AFC Champions League Elite. L'incontro si giocherà a Pechino martedì 5 aban del calendario iraniano. Per il fischietto iraniano si tratta di una nuova designazione internazionale nella principale competizione per club del continente. Lo riferisce Iran International.",
+   "more": [
+    "La AFC Champions League Elite è la massima competizione per club organizzata dalla Confederazione calcistica asiatica, equivalente asiatico della Champions League europea. Il Jeonbuk è uno dei club più titolati della Corea del Sud, mentre il Beijing Guoan è tra le squadre più popolari della Cina."
+   ],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202610114551",
+     "angolo": "",
+     "atlas": "Iran"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb03ca158",
+   "sez": "mondo",
+   "titolo": "Ungheria, l'ex candidata Fidesz di Debrecen sul palco con Tóth Gabi",
+   "orig": "A Fidesz volt debreceni jelöltje márciusban Tóth Gabival lépett fel egy színpadon, később törölte a közös képüket",
+   "lead": "Diána Széles, ex candidata di Fidesz a Debrecen, a marzo, nella fase finale della campagna elettorale, aveva tenuto un discorso di saluto durante una giornata per le famiglie e si era fatta fotografare con la cantante Tóth Gabi, la cui esibizione era finanziata con fondi dell'NKA, il Fondo culturale nazionale. In seguito l'immagine comune è stata cancellata. Széles respinge l'idea che si trattasse di un evento elettorale e definisce questa ricostruzione una menzogna. Lo riferisce Telex.",
+   "more": [
+    "Fidesz è il partito conservatore guidato da Viktor Orbán, a lungo dominante nella politica ungherese. Debrecen è la seconda città del Paese. L'NKA, Fondo culturale nazionale, finanzia iniziative culturali con denaro pubblico, e il suo uso è spesso al centro di polemiche sull'intreccio tra cultura e politica."
+   ],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/belfold/2026/10/11/nka-ugy-toth-gabi-szeles-diana-debrecen-fidesz-kampanyrendezveny-molnar-aron",
+     "angolo": "",
+     "atlas": "Hungary"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8d95cc66",
+   "sez": "mondo",
+   "titolo": "Arabia Saudita, attacco all'aeroporto di Riad: è il più grave da oltre dieci anni",
+   "orig": "Mannskæðasta árás í Sádi-Arabíu í yfir áratug",
+   "lead": "Almeno dodici persone sono morte e oltre trecento sono rimaste ferite, alcune in modo grave, in un attacco compiuto ieri contro l'aeroporto internazionale di Riad, capitale dell'Arabia Saudita. Secondo un passeggero citato dall'agenzia AFP, il colpo ha raggiunto un'area d'imbarco: l'uomo ha visto molti feriti e persone in fuga. L'attività dello scalo è stata sospesa temporaneamente e numerosi voli sono stati cancellati. Diverse ambasciate straniere hanno invitato i propri cittadini a evitare l'aeroporto, mentre gli Houthi avevano avvertito i viaggiatori di non transitare dagli scali sauditi. È l'attacco più sanguinoso nel Paese da oltre un decennio. Lo riferisce RÚV.",
+   "more": [
+    "Gli Houthi sono un movimento armato yemenita che controlla ampie zone dello Yemen, compresa la capitale Sanaa. Da anni sono in conflitto con la coalizione guidata dall'Arabia Saudita e in passato hanno lanciato missili e droni contro il territorio saudita, comprese infrastrutture civili come aeroporti e impianti petroliferi."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-11-mannskaedasta-aras-i-sadi-arabiu-i-yfir-aratug-489512/",
+     "angolo": "",
+     "atlas": "Iceland"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zefde2e17",
+   "sez": "mondo",
+   "titolo": "Belgrado, in bicicletta per Čukarica: studenti e assemblee civiche sollevano il tema dell'urbanistica",
+   "orig": "Biciklom kroz Čukaricu: Studenti i zborovi danas otvaraju pitanja urbanizma i gradnje",
+   "lead": "Oggi a Belgrado studenti, assemblee cittadine (i cosiddetti «zborovi») e semplici residenti partono per un giro in bicicletta attraverso Čukarica, uno dei comuni urbani della capitale serba. Durante il percorso i partecipanti attraverseranno diversi quartieri della zona con l'obiettivo di portare all'attenzione pubblica le questioni legate all'urbanistica e all'edilizia. L'iniziativa unisce quindi una forma di mobilitazione pacifica a un confronto diretto con i luoghi interessati dalle trasformazioni del territorio, dando voce ai cittadini sulle scelte che riguardano lo sviluppo dei loro quartieri. Lo riferisce N1 Serbia.",
+   "more": [
+    "Gli «zborovi» sono assemblee di cittadini nate in Serbia come forma di partecipazione dal basso, accanto al movimento studentesco che negli ultimi tempi ha animato numerose proteste. Čukarica è uno dei comuni urbani di Belgrado, situato sulla riva destra della Sava, in un'area dove l'espansione edilizia è un tema molto sentito."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/biciklom-kroz-cukaricu-studenti-i-zborovi-danas-otvaraju-pitanja-urbanizma-i-gradnje/",
+     "angolo": "",
+     "atlas": "Serbia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbe6063e5",
+   "sez": "mondo",
+   "titolo": "Nepal, un ponte Bailey ricollega Rasuwa e Nuwakot dopo sei settimane",
+   "orig": "Bailey bridge restores road link between Rasuwa and Nuwakot after six weeks",
+   "lead": "In Nepal è tornato percorribile il collegamento stradale tra i distretti di Rasuwa e Nuwakot, interrotto dalle alluvioni di agosto. Dopo sei settimane di isolamento, la via è stata riaperta grazie a un ponte Bailey lungo 73 metri installato sul fiume Phalakhu. La struttura provvisoria consente di nuovo il transito tra le due aree, ristabilendo un legame importante per la circolazione di persone e merci nelle zone colpite dalle piene estive. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il ponte Bailey è una struttura modulare prefabbricata in acciaio, ideata originariamente per usi militari. Si monta rapidamente senza attrezzature pesanti ed è perciò molto utilizzato dopo alluvioni o frane per ripristinare in tempi brevi i collegamenti stradali, in attesa della costruzione di ponti definitivi."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/11/bailey-bridge-restores-road-link-between-rasuwa-and-nuwakot-after-six-weeks",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6093d19f",
+   "sez": "mondo",
+   "titolo": "Delta del Mekong, l'arrivo delle piene porta la stagione della pesca",
+   "orig": "Casting nets: floodwaters bring seasonal bounty to Vietnam's Mekong Delta",
+   "lead": "Nel delta del Mekong, in Vietnam, l'arrivo delle acque di piena annuali segna l'inizio di una stagione molto attesa dalla popolazione locale. Quando i campi vengono sommersi, gli abitanti si spingono nelle distese allagate per gettare le reti e pescare, approfittando dell'abbondanza portata dall'acqua. Per molte famiglie questa attività stagionale rappresenta un'importante fonte di guadagno aggiuntiva, che integra il reddito ordinario. La piena, dunque, non è vista soltanto come un fenomeno naturale, ma come un'occasione economica legata ai ritmi del fiume. Lo riferisce VnExpress.",
+   "more": [
+    "Il delta del Mekong è la vasta regione pianeggiante del sud del Vietnam dove il grande fiume del Sud-est asiatico si divide in numerosi rami prima di sfociare nel mare. È una delle aree agricole più produttive del Paese, nota per le risaie, i frutteti e una vita quotidiana scandita dai canali e dalle piene stagionali."
+   ],
+   "fonti": [
+    {
+     "n": "VnExpress",
+     "p": "XX",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/photo/environment/casting-nets-floodwaters-bring-seasonal-bounty-to-vietnams-mekong-delta-5127960.html",
+     "angolo": "",
+     "atlas": "Vietnam"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0cbbc1c0",
+   "sez": "mondo",
+   "titolo": "Cisgiordania, perché i coloni violenti hanno già vinto",
+   "orig": "Why violent settlers in the West Bank have already won",
+   "lead": "Secondo un'analisi pubblicata da Haaretz, lo Stato di Israele ha perso il controllo della situazione nei territori occupati della Cisgiordania. In questo vuoto, sostiene il quotidiano di Tel Aviv, le frange più estreme del movimento dei coloni stanno conquistando terre e stanno costruendo sul terreno una realtà destinata a diventare irreversibile. Il commento descrive quindi un processo in cui l'iniziativa dei gruppi radicali avanza mentre le istituzioni non riescono a contenerla, con conseguenze durature sull'assetto della regione. Lo riferisce Haaretz.",
+   "more": [
+    "La Cisgiordania è il territorio a ovest del fiume Giordano occupato da Israele dal 1967 e rivendicato dai palestinesi come parte di un futuro Stato. Al suo interno sorgono numerosi insediamenti israeliani, considerati illegali da gran parte della comunità internazionale, e le tensioni tra coloni e popolazione palestinese sono frequenti."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/opinion/2026-10-11/ty-article-opinion/.premium/why-violent-settlers-in-the-west-bank-have-already-won/000001a1-29a0-d0ca-a7b7-bfa2ef7e0000",
+     "angolo": "",
+     "atlas": "Israel"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z12088445",
+   "sez": "ingegneria",
+   "titolo": "Autodesk, Diana Colella alla guida della divisione architettura, ingegneria e costruzioni",
+   "orig": "Autodesk names Diana Colella to lead AEC business",
+   "lead": "Autodesk ha annunciato la nomina di Diana Colella a vicepresidente esecutiva della divisione dedicata ad architettura, ingegneria e costruzioni, nota con la sigla AEC. Colella prende il posto di Amy Bunszel, che aveva già reso noto il suo ritiro. Per facilitare il passaggio di consegne, Bunszel resterà in azienda fino al 2 novembre 2026, sostenendo la transizione alla nuova guida. Il cambio al vertice riguarda uno dei settori chiave del gruppo statunitense di software. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "Autodesk è un'azienda statunitense di software per la progettazione, conosciuta soprattutto per AutoCAD e Revit. I suoi programmi sono usati da architetti, ingegneri e imprese di costruzione per disegnare edifici e infrastrutture, gestire modelli digitali e coordinare i progetti, oltre che nei settori della manifattura e dell'intrattenimento."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/architecture-engineering-construction-autodesk-diana-colella/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze967cb3c",
+   "sez": "tech",
+   "titolo": "Malaysia, bilancio 2027: il ministero del Digitale punta a formare 200.000 esperti di IA",
+   "orig": "Budget 2027: Digital Ministry targets 200,000 AI-skilled individuals in push for AI Nation by 2030",
+   "lead": "In Malaysia il ministero del Digitale ha annunciato, nell'ambito della legge di bilancio per il 2027, l'obiettivo di formare 200.000 persone con competenze nell'intelligenza artificiale. L'iniziativa, resa nota a Putrajaya l'11 ottobre, rientra negli sforzi del governo per rafforzare l'ecosistema digitale del Paese. Il traguardo più ampio è trasformare la Malaysia in una «nazione dell'IA» entro il 2030, puntando sulla preparazione della forza lavoro come leva per lo sviluppo tecnologico ed economico. Lo riferisce Malay Mail.",
+   "more": [
+    "Putrajaya è il centro amministrativo federale della Malaysia, sede di gran parte dei ministeri, mentre Kuala Lumpur resta la capitale ufficiale. Come molti Paesi del Sud-est asiatico, la Malaysia cerca di attrarre investimenti nel settore tecnologico, in particolare nei semiconduttori e nei centri dati, e considera la formazione digitale una priorità."
+   ],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/11/budget-2027-digital-ministry-targets-200000-ai-skilled-individuals-in-push-for-ai-nation-by-2030/238688",
+     "angolo": "",
+     "atlas": "Malaysia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5bcad7d8",
+   "sez": "salute",
+   "titolo": "Dalla diagnosi di cancro a una nuova vita: la storia di Eliane Furtado",
+   "orig": "‘When I thought I was going to die, I began to live’: turning cancer shock into new life",
+   "lead": "In Lussemburgo Eliane Furtado racconta come la diagnosi di un tumore abbia cambiato la sua vita: proprio quando pensava di morire, dice, ha cominciato davvero a vivere. Durante il periodo delle cure ha dato vita a un marchio di moda femminile, «Sabibisti», e ha poi aperto un negozio a Esch-sur-Alzette. La sua esperienza mostra come lo shock della malattia possa trasformarsi in una spinta a realizzare un progetto personale e professionale. Lo riferisce Luxembourg Times.",
+   "more": [
+    "Esch-sur-Alzette è la seconda città del Lussemburgo per popolazione, situata nel sud del Paese vicino al confine con la Francia. Storicamente legata all'industria siderurgica, negli ultimi anni ha puntato su cultura, università e commercio per rinnovare la propria immagine."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/yourluxembourg/healthandwellbeing/when-i-thought-i-was-going-to-die-i-began-to-live-turning-cancer-shock-into-new-life/162660242.html",
+     "angolo": "",
+     "atlas": "Luxembourg"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z32d72547",
+   "sez": "mondo",
+   "titolo": "Bosnia ed Erzegovina, Filipović: «Gli elettori vogliono meno paura e più responsabilità»",
+   "orig": "Interview with elected Member of Presidency Filipovic: The Voters want less Politics of Fear and more Politics of Responsibility",
+   "lead": "Darijana Filipović, appena eletta membro della Presidenza della Bosnia ed Erzegovina, ha raccontato in un'intervista di aver dedicato i giorni successivi al voto a ringraziare sostenitori e collaboratori, a richiamare chi non era riuscita a sentire e a rispondere ai messaggi accumulati durante la campagna. Ora, spiega, sta analizzando i risultati e si prepara ad assumere il suo incarico. Secondo Filipović, gli elettori chiedono meno politica fondata sulla paura e più politica basata sulla responsabilità. Lo riferisce Sarajevo Times.",
+   "more": [
+    "La Presidenza della Bosnia ed Erzegovina è un organo collegiale composto da tre membri, eletti in rappresentanza dei tre popoli costitutivi: bosgnacchi, croati e serbi. È un assetto nato con gli accordi di pace di Dayton, che misero fine alla guerra degli anni Novanta, e prevede una rotazione periodica della presidenza di turno."
+   ],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/interview-with-elected-member-of-presidency-filipovic-the-voters-want-less-politics-of-fear-and-more-politics-of-responsibility/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz."
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7c4db064",
+   "sez": "mondo",
+   "titolo": "Albania, Rama: Malësia e Madhe e Përmet da luoghi senza speranza a mete della «nuova Albania»",
+   "orig": "Rama: Malësia e Madhe dhe Përmeti, nga vende pa shpresë në destinacione të Shqipërisë së re",
+   "lead": "Il primo ministro albanese Edi Rama ha scelto Malësia e Madhe e Përmet come esempi della trasformazione vissuta dal Paese nell'ultimo decennio. Nel nuovo episodio del suo podcast «Flasim», il premier ha riflettuto sul cambiamento dell'immagine e delle potenzialità delle due aree. Secondo Rama, dieci anni fa entrambe erano percepite come luoghi privi di prospettive, mentre oggi sarebbero diventate destinazioni simbolo della nuova Albania. Lo riferisce Euronews Albania.",
+   "more": [
+    "Malësia e Madhe è una regione montuosa del nord dell'Albania, al confine con il Montenegro, nota per i paesaggi alpini. Përmet si trova invece nel sud, nella valle del fiume Vjosa, ed è conosciuta per le sorgenti termali e la tradizione gastronomica. Entrambe sono sempre più frequentate dal turismo."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/rama-malesia-e-madhe-dhe-permeti-nga-vende-pa-shprese-ne-destinacione-te-shqiperise-se-re/",
+     "angolo": "",
+     "atlas": "Albania"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8e96b830",
+   "sez": "economia",
+   "titolo": "Giordania, rilanciato il progetto per ammodernare il valico di Jaber con la Siria",
+   "orig": "الاستثمار تعيد طرح مشروع تطوير معبر جابر الحدودي بين الأردن وسوريا بالشراكة مع القطاع الخاص",
+   "lead": "In Giordania il ministero degli Investimenti ha rimesso sul tavolo il progetto di sviluppo del valico di frontiera di Jaber, il punto di passaggio con la Siria, proponendone la realizzazione in partenariato con il settore privato. Oltre all'ammodernamento del valico, il piano prevede la costruzione di strutture e servizi di supporto pensati per garantire la continuità e la sostenibilità delle attività. L'obiettivo è potenziare un'infrastruttura strategica per gli scambi tra i due Paesi. Lo riferisce Roya News.",
+   "more": [
+    "Il valico di Jaber, chiamato Nassib sul versante siriano, è il principale punto di passaggio terrestre tra Giordania e Siria. Per anni è stato un'arteria fondamentale per il commercio regionale, collegando la Siria e il Libano ai mercati del Golfo, e le sue chiusure durante la guerra siriana hanno pesato sulle economie della zona."
+   ],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397327",
+     "angolo": "",
+     "atlas": "Jordan"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc47ecb22",
+   "sez": "mondo",
+   "titolo": "Sri Lanka, oltre 5.500 persone colpite dal maltempo",
+   "orig": "Over 5,500 people affected by adverse weather conditions across Sri Lanka",
+   "lead": "In Sri Lanka più di 5.500 persone hanno subito le conseguenze delle condizioni meteorologiche avverse che stanno interessando diverse zone del Paese. Il maltempo ha colpito varie aree dell'isola, con effetti sulla popolazione distribuiti in più regioni. Le informazioni disponibili non precisano ulteriori dettagli sui danni o sulle località più toccate, ma il numero delle persone coinvolte indica la portata dell'evento. La situazione resta seguita dalle autorità locali. Lo riferisce Ada Derana.",
+   "more": [
+    "Lo Sri Lanka è un'isola dell'Oceano Indiano, a sud dell'India, il cui clima è segnato dai monsoni. Le piogge stagionali portano spesso alluvioni, frane e forti venti, soprattutto nelle zone collinari e nelle pianure vicino ai fiumi, causando danni alle abitazioni e costringendo talvolta le famiglie a lasciare le proprie case."
+   ],
+   "fonti": [
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/cmv3i3l2g000h356qa77mfdwt",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z43c83c6c",
+   "sez": "mondo",
+   "titolo": "Il presidente della Sierra Leone Bio a Ginevra per il Forum per la pace",
+   "orig": "President Bio Arrives in Geneva for Peace Forum and Leadership Lecture",
+   "lead": "Il presidente della Sierra Leone, Julius Maada Bio, è arrivato a Ginevra, in Svizzera, in vista di una serie di impegni di alto livello. Il capo di Stato parteciperà al prossimo Geneva Peace Forum, appuntamento internazionale dedicato ai temi della pace, e terrà inoltre una lezione sulla leadership. L'arrivo è stato comunicato attraverso una nota diffusa su diversi canali. La missione conferma la presenza della Sierra Leone nei principali consessi diplomatici internazionali. Lo riferisce Sierraloaded.",
+   "more": [
+    "Ginevra è una delle principali capitali della diplomazia mondiale: ospita la sede europea delle Nazioni Unite e numerose organizzazioni internazionali e umanitarie. La Sierra Leone, Paese dell'Africa occidentale uscito da una lunga guerra civile, è guidata da Julius Maada Bio, al potere dal 2018."
+   ],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/president-bio-arrives-geneva-peace-forum/",
+     "angolo": "",
+     "atlas": "Sierra Leone"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb8d72e7a",
+   "sez": "mondo",
+   "titolo": "Grenada, modifiche al traffico per il comizio del New National Party",
+   "orig": "Traffic arrangements: New National Party Rally",
+   "lead": "A Grenada sono previste misure speciali per la circolazione in occasione del comizio del New National Party, in programma domenica 11 ottobre 2026 al Kirani James Athletic Stadium. Le disposizioni sul traffico entreranno in vigore dalle 17 e resteranno attive fino alla conclusione dell'evento, con l'obiettivo di agevolare lo svolgimento della manifestazione politica e l'afflusso dei partecipanti. Gli automobilisti sono quindi invitati a tenere conto delle modifiche nella zona dello stadio. Lo riferisce NOW Grenada.",
+   "more": [
+    "Il New National Party è uno dei due principali partiti politici di Grenada, piccolo Stato insulare dei Caraibi. Lo stadio dove si tiene il comizio porta il nome di Kirani James, velocista grenadino campione olimpico dei 400 metri e considerato un eroe nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "NOW Grenada",
+     "p": "XX",
+     "c": "St. George's",
+     "u": "https://nowgrenada.com/2026/10/traffic-arrangements-new-national-party-rally/",
+     "angolo": "",
+     "atlas": "Grenada"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0f2ec607",
+   "sez": "musica",
+   "titolo": "Il cantante gospel camerunese Alexis Emile pubblica «Eyingeh» il 12 ottobre",
+   "orig": "Cameroonian gospel singer Alexis Emile to release Eyingeh on 12 October",
+   "lead": "Alexis Emile, cantante gospel-soul camerunese che vive negli Stati Uniti ed è conosciuto come «The Musicman», pubblicherà lunedì 12 ottobre 2026 il brano «Eyingeh (Joy)». L'uscita è fissata alle 6 del mattino, ora del Camerun, e prosegue la campagna di lancio del progetto «I Believe». Il nuovo singolo segue «Mega Mega», uscito il 24 agosto, e fa parte del materiale che l'artista sta presentando al pubblico, registrato negli ultimi tempi. Lo riferisce Mimi Mefo Info.",
+   "more": [
+    "Il gospel è un genere musicale nato nelle comunità afroamericane e legato alla fede cristiana, che unisce testi religiosi a canto corale e ritmi intensi. Il gospel-soul ne fonde le radici con le sonorità della musica soul. In Africa il gospel è molto popolare e conta numerosi artisti di successo."
+   ],
+   "fonti": [
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/alexis-emile-eyingeh-release-12-october-2026/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z46ae13b3",
+   "sez": "economia",
+   "titolo": "Zurigo, a rischio la tripla A: Standard & Poor's porta l'outlook a «negativo»",
+   "orig": "Das AAA-Rating der Stadt Zürich ist in Gefahr: Standard&Poor's senkt den Ausblick auf «negativ»",
+   "lead": "L'agenzia di rating Standard & Poor's ha abbassato a «negativo» l'outlook della città di Zurigo, mettendo così in discussione il suo rating AAA, il massimo livello di affidabilità creditizia. Un eventuale declassamento comporterebbe per la città svizzera costi più alti per gli interessi sul debito. Il problema è considerato particolarmente rilevante perché l'indebitamento del comune sta crescendo in modo marcato, e un peggioramento del giudizio renderebbe più onerosi i finanziamenti. Lo riferisce NZZ.",
+   "more": [
+    "Le agenzie di rating come Standard & Poor's valutano la capacità di Stati, enti locali e aziende di ripagare i debiti. La tripla A è il voto più alto. L'outlook indica la probabile evoluzione del giudizio: se è «negativo», segnala il rischio di un declassamento nei mesi successivi."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/zuerich/das-aaa-rating-der-stadt-zuerich-ist-in-gefahr-standardpoor-s-senkt-den-ausblick-auf-negativ-ld.10030679",
+     "angolo": "",
+     "atlas": "Switzerland"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z828057a5",
+   "sez": "mondo",
+   "titolo": "Cile, arriva un sistema frontale: allerta per i suoli saturi nella regione di Santiago",
+   "orig": "Sistema frontal llega este domingo: advierten que suelos saturados podrían favorecer emergencias en sectores precordilleranos de la RM",
+   "lead": "In Cile è atteso per domenica l'arrivo di un sistema frontale, e le autorità avvertono che i terreni già saturi d'acqua potrebbero favorire emergenze nelle zone pedemontane della Regione Metropolitana di Santiago. Il servizio nazionale di prevenzione Senapred mantiene l'allerta gialla per tutta la regione e quella rossa per rischio di frane e smottamenti in dieci comuni: Colina, Lo Barnechea, Las Condes, Vitacura, Peñalolén, La Reina, La Florida, San José de Maipo, Puente Alto e Pirque. Lo riferisce La Tercera.",
+   "more": [
+    "Senapred è il servizio nazionale cileno per la prevenzione e la risposta ai disastri. La Regione Metropolitana comprende la capitale Santiago, che sorge ai piedi della cordigliera delle Ande: le aree a ridosso dei rilievi sono esposte a colate di fango e frane quando le piogge intense colpiscono terreni già impregnati."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/nacional/noticia/sistema-frontal-llega-este-domingo-advierten-que-suelos-saturados-podrian-favorecer-emergencias-en-sectores-precordilleranos-de-la-rm/",
+     "angolo": "",
+     "atlas": "Chile"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf4a22273",
+   "sez": "mondo",
+   "titolo": "Panama, a Tonosí dopo il terremoto: senz'acqua né luce, con le pentole comuni",
+   "orig": "Así viven los habitantes cerca del epicentro del terremoto en Tonosí, Panamá: sin agua ni luz y con ollas comunitarias mientras siguen los temblores",
+   "lead": "Nella zona di Tonosí, a Panama, vicino all'epicentro del recente terremoto, gli abitanti vivono senza acqua corrente né elettricità e si organizzano con cucine comunitarie per sfamarsi, mentre le scosse continuano a farsi sentire. Molte persone dormono all'aperto per paura. La situazione è descritta in un reportage firmato da Ana de León per l'agenzia EFE, che racconta le difficoltà quotidiane della popolazione colpita e la solidarietà nata tra i residenti. Lo riferisce El Tiempo.",
+   "more": [
+    "Tonosí si trova nel sud della penisola di Azuero, nella parte centro-meridionale di Panama, un'area prevalentemente rurale e agricola affacciata sul Pacifico. Panama si trova in una zona sismicamente attiva, vicino ai margini di diverse placche tettoniche, e le scosse di assestamento possono proseguire a lungo dopo un forte terremoto."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/latinoamerica/asi-viven-los-habitantes-cerca-del-epicentro-del-terremoto-en-tonosi-panama-sin-agua-ni-luz-y-con-ollas-comunitarias-mientras-siguen-los-temblores-3592852",
+     "angolo": "",
+     "atlas": "Colombia"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd233a559",
+   "sez": "mondo",
+   "titolo": "Miami-Dade, una borsa di circa 8.000 dollari per chi frequenta le scuole private",
+   "orig": "¿Tu hijo estudia en una escuela privada de Miami-Dade? Requisitos para solicitar una beca de unos US$8,000 y cómo se paga",
+   "lead": "Le famiglie della contea di Miami-Dade, in Florida, con figli iscritti a una scuola privata possono chiedere una borsa di studio di circa 8.000 dollari. Il giornale spiega quali requisiti servono per presentare la domanda e come viene versato il contributo. Avverte però che la cifra di circa 8.000 dollari è una media: non è un importo garantito a ogni studente, e la somma effettiva può cambiare da caso a caso. Lo riferisce El Comercio.",
+   "more": [
+    "Miami-Dade è la contea più popolosa della Florida e comprende la città di Miami. Da anni lo Stato finanzia programmi di borse di studio che permettono alle famiglie di usare fondi pubblici per pagare le rette delle scuole private. Sono strumenti molto discussi nel dibattito americano sulla scuola."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mag/usa/florida/becas-escolares-de-alrededor-de-us8000-para-pagar-una-escuela-privada-en-miami-dade-quienes-califican-y-como-reciben-los-fondos-florida-nnda-nnlt-noticia/",
+     "angolo": "",
+     "atlas": "Peru"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8cff4e88",
+   "sez": "mondo",
+   "titolo": "Uruguay, il Partito Nazionale cerca un accordo per un plebiscito sulle perquisizioni notturne",
+   "orig": "Blancos priorizan acuerdo para plebiscitar los allanamientos nocturnos pero mantienen \"arriba de la mesa\" opción de salir a juntar firmas si el FA se opone",
+   "lead": "In Uruguay i Blancos, cioè il Partito Nazionale, vogliono prima di tutto un accordo politico per sottoporre a plebiscito le perquisizioni notturne nelle abitazioni. Tengono però «sul tavolo» un'altra strada: raccogliere le firme se il Frente Amplio, la coalizione di sinistra, si opporrà. Secondo il senatore Javier García la soluzione migliore è una legge costituzionale, perché «decontamina» il dibattito e lo separa dal processo elettorale. Lo riferisce El Observador.",
+   "more": [
+    "In Uruguay le riforme della Costituzione si possono avviare con una legge costituzionale approvata dal Parlamento oppure con una raccolta di firme tra i cittadini. In entrambi i casi l'ultima parola spetta a un plebiscito. Il Partito Nazionale e il Frente Amplio sono due delle principali forze politiche del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/blancos-priorizan-acuerdo-plebiscitar-los-allanamientos-nocturnos-pero-mantienen-arriba-la-mesa-opcion-salir-juntar-firmas-si-el-fa-se-opone-n6060024",
+     "angolo": "",
+     "atlas": "Uruguay"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdd8ce56b",
+   "sez": "mondo",
+   "titolo": "Costa Rica, con il sostituto di Marta Acosta può cambiare il rapporto tra Corte dei conti e governo",
+   "orig": "Marta Acosta evitaba reunirse a solas con Presidencia. Su sustituto temporal hizo lo contrario: ¿bajará la tensión entre Contraloría y gobierno?",
+   "lead": "In Costa Rica la responsabile della Corte dei conti, Marta Acosta, evitava di incontrare da sola la Presidenza. Il subcontralor che la sostituisce temporaneamente ha fatto il contrario. Resta da capire se questo basterà a ridurre la tensione con il governo di Rodrigo Chaves. Le questioni all'origine dello scontro sono ancora aperte. La gestione ad interim, però, solleva domande su come evolverà il rapporto tra le due istituzioni. Lo riferisce La Nación.",
+   "more": [
+    "La Contraloría General de la República è l'organo che in Costa Rica controlla come viene speso il denaro pubblico, un ruolo simile a quello della Corte dei conti. Durante il mandato del presidente Rodrigo Chaves i rapporti tra il governo e questa istituzione sono stati spesso tesi."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/politica/marta-acosta-evitaba-reunirse-a-solas-con/OSDW3XSJOBHL3D35EBTE3FUF2Y/story/",
+     "angolo": "",
+     "atlas": "Costa Rica"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb9496c12",
+   "sez": "mondo",
+   "titolo": "Algeria, l'ex sindaco di Algeri Centro Abdelhakim Bettache risponde alle notizie che lo riguardano",
+   "orig": "Abdelhakim Bettache réagit aux informations relayées à son sujet",
+   "lead": "Abdelhakim Bettache, ex sindaco di Algeri Centro, ha diffuso un comunicato per rispondere alle informazioni circolate su di lui negli ultimi giorni. Nel testo ripercorre la sua carriera nell'amministrazione locale e spiega la sua posizione sulle polemiche in corso. Fa riferimento in particolare ai contenuti pubblicati sui social network e da alcuni media, che giudica dannosi per la sua immagine. Lo riferisce Le Matin d'Algérie.",
+   "more": [
+    "Algeri Centro è uno dei comuni della capitale algerina e comprende il cuore amministrativo della città. In Algeria le amministrazioni locali sono guidate da sindaci eletti a capo delle assemblee comunali."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/abdelhakim-bettache-reagit-aux-informations-relayees-a-son-sujet/",
+     "angolo": "",
+     "atlas": "Algeria"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zaa79ca44",
+   "sez": "economia",
+   "titolo": "São Tomé e Príncipe, la mancanza di carburante aggrava la crisi",
+   "orig": "Rotura de combustíveis agrava crise económica e social",
+   "lead": "A São Tomé e Príncipe la carenza di carburante, che dura da tempo, sta peggiorando la crisi economica e sociale. Claudino Sousa fa il moto-taxista da quattro anni e racconta che nei distributori la benzina manca. Per lavorare non ha altra scelta che comprarla al mercato nero, dove un litro può arrivare a costare il triplo del prezzo ufficiale. La sua testimonianza mostra il peso della crisi su chi vive del trasporto. Lo riferisce Téla Nón.",
+   "more": [
+    "São Tomé e Príncipe è un piccolo Stato insulare nel Golfo di Guinea, al largo dell'Africa centrale. Dipende dalle importazioni per gran parte dei prodotti energetici. Per questo una carenza di carburante colpisce subito i trasporti e le attività quotidiane."
+   ],
+   "fonti": [
+    {
+     "n": "Téla Nón",
+     "p": "XX",
+     "c": "São Tomé",
+     "u": "https://www.telanon.info/economia/2026/10/09/54528/rotura-de-combustiveis-agrava-crise-economica-e-social/",
+     "angolo": "",
+     "atlas": "São Tomé and Principe"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z095afaba",
+   "sez": "mondo",
+   "titolo": "Angola, dal 19 ottobre le iscrizioni per la promozione di oltre 20 mila insegnanti",
+   "orig": "MED marca para 19 de Outubro início do processo de inscrição e triagem para promoção de categorias de mais de 20 mil professores",
+   "lead": "In Angola il ministero dell'Istruzione ha annunciato le date per la promozione di categoria di oltre 20 mila insegnanti. Le iscrizioni e la verifica dei documenti si svolgeranno dal 19 ottobre al 6 novembre. È l'impegno preso dal governo con il sindacato Sinprof a settembre, nell'incontro che ha messo fine allo sciopero dei docenti. Gli uffici provinciali dovranno creare commissioni tecniche locali per controllare i dati dei candidati. In ogni commissione ci sarà un rappresentante del sindacato. Lo riferisce Novo Jornal.",
+   "more": [
+    "Il Sinprof è il principale sindacato degli insegnanti in Angola. Negli ultimi anni ha organizzato diversi scioperi per chiedere migliori condizioni di lavoro e la progressione di carriera dei docenti."
+   ],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/sociedade/detalhe/med-marca-para-19-de-outubro-inicio-do-processo-de-inscricao-e-triagem-para-promocao-de-categorias-de-mais-de-20-mil-professores-75267.html",
+     "angolo": "",
+     "atlas": "Angola"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd04f39d3",
+   "sez": "economia",
+   "titolo": "Dentro la fabbrica Zeekr di Ningbo, simbolo della crescita delle auto elettriche cinesi",
+   "orig": "Binnen in de Zeekr-fabriek in Ningbo: een kijkje in de machinekamer van de Chinese EV-opmars",
+   "lead": "Un reportage porta dentro lo stabilimento Zeekr di Ningbo, in Cina, dove si producono i modelli Zeekr 007 e Zeekr 7X. Tutto è pensato per la velocità: i robot saldano i pianali in alluminio e i carrelli automatici senza conducente, gli AGV, si muovono tra le linee di montaggio. Alcuni componenti vengono ancora montati a mano dagli operai. Non c'è odore d'olio né rumore di motori, solo il ronzio degli attrezzi elettrici. Lo riferisce De Ware Tijd.",
+   "more": [
+    "Zeekr è un marchio di auto elettriche di fascia alta che fa parte del gruppo cinese Geely. Ningbo è una grande città portuale e industriale della Cina orientale, nella provincia dello Zhejiang. La Cina è oggi uno dei principali produttori mondiali di veicoli elettrici."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/binnen-in-de-zeekr-fabriek-in-ningbo-een-kijkje-in-de-machinekamer-van-de-chinese-ev-opmars/",
+     "angolo": "",
+     "atlas": "Suriname"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z31019151",
+   "sez": "economia",
+   "titolo": "Isole Salomone, il Regno Unito consegna a Kokonut Pacific un nuovo macchinario per il cioccolato",
+   "orig": "UK hands over new Chocolate processing machine to Kokonut Pacific.",
+   "lead": "Nelle Isole Salomone il Regno Unito ha consegnato all'azienda Kokonut Pacific un nuovo macchinario per lavorare il cioccolato. La consegna è un aiuto britannico a un'impresa locale del settore agroalimentare. Il titolo della notizia non precisa il valore dell'attrezzatura, né quando entrerà in funzione o quante persone la useranno. L'iniziativa riguarda la trasformazione sul posto di un prodotto agricolo, che altrimenti verrebbe venduto come materia prima. Lo riferisce SIBC.",
+   "more": [
+    "Le Isole Salomone sono un arcipelago dell'Oceania, nel Pacifico sud-occidentale. Il cacao è una delle coltivazioni del Paese. Trasformarlo in cioccolato sul posto, invece di esportarlo come materia prima, permette di trattenere localmente una parte maggiore del suo valore."
+   ],
+   "fonti": [
+    {
+     "n": "SIBC",
+     "p": "XX",
+     "c": "Honiara",
+     "u": "https://www.sibconline.com.sb/uk-hands-over-new-chocolate-processing-machine-to-kokonut-pacific/",
+     "angolo": "",
+     "atlas": "Solomon Is."
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z944f4712",
+   "sez": "mondo",
+   "titolo": "Maldive, riaperte le domande per 150 lotti di terreno a Huraa",
+   "orig": "Applications reopen for 150 plots of 1,500 sq ft from Huraa",
+   "lead": "Nelle Maldive sono state riaperte le domande per ottenere uno dei 150 lotti di terreno disponibili a Huraa. Ogni lotto misura 1.500 piedi quadrati. La riapertura dà una nuova possibilità a chi vuole presentare richiesta. La notizia non indica le scadenze, i requisiti né chi gestisce l'assegnazione. Nell'arcipelago il terreno edificabile è scarso, e per questo le assegnazioni di lotti residenziali sono molto seguite. Lo riferisce Sun Online.",
+   "more": [
+    "Huraa è un'isola abitata dell'atollo di Kaafu, lo stesso della capitale Malé. Nelle Maldive la terra è molto limitata e lo Stato assegna periodicamente lotti residenziali ai cittadini per far fronte alla domanda di case."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109445",
+     "angolo": "",
+     "atlas": "Maldives"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3f7d3591",
+   "sez": "sport",
+   "titolo": "Motociclismo, a Mandalika vincono Bezzecchi, Guevara e Quiles, campione del mondo di Moto3",
+   "orig": "Bezzecchi, Guevara y Quiles, campeón mundial de Moto3, vencen en Mandalika",
+   "lead": "Sul circuito di Mandalika, in Indonesia, il Gran Premio di motociclismo ha avuto tre vincitori diversi nelle tre classi. Hanno vinto Marco Bezzecchi, Guevara e Quiles. Quiles si è anche laureato campione del mondo della Moto3. La notizia non specifica chi abbia vinto in quale categoria, oltre al successo di Quiles in Moto3, né riporta distacchi o classifiche. Lo riferisce ABC Color.",
+   "more": [
+    "Il circuito di Mandalika si trova sull'isola di Lombok, in Indonesia, ed è entrato da pochi anni nel calendario del Motomondiale. La Moto3 è la categoria d'ingresso del campionato mondiale, dove corrono soprattutto i piloti più giovani."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/automovilismo/2026/10/11/bezzecchi-guevara-y-quiles-campeon-mundial-de-moto3-vencen-en-mandalika/",
+     "angolo": "",
+     "atlas": "Paraguay"
+    }
+   ],
+   "data": "11 ott",
+   "ora": "10:18",
+   "uscita": "mattino"
+  },
+  {
    "id": "zef96e951",
    "sez": "mondo",
    "titolo": "L'Ue condanna le sanzioni Usa contro la Corte penale internazionale",
@@ -121,60 +2822,6 @@ window.EDIZIONI["2026-10-11"] = {
      "u": "https://www.cbc.ca/news/world/hurricane-simon-mexico-9.7377259?cmp=rss",
      "angolo": "",
      "atlas": "Canada"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "09:38"
-  },
-  {
-   "id": "z29264ec4",
-   "sez": "mondo",
-   "titolo": "Nessuna minaccia di tsunami per le isole del Pacifico dopo il sisma a Panama",
-   "orig": "US tsunami warning center says no threat to Pacific Islands following quake",
-   "lead": "Il centro statunitense di allerta tsunami per il Pacifico ha dichiarato che non vi sono minacce per le isole del Pacifico, tra cui Guam, le Isole Marianne Settentrionali e Samoa Americana, dopo il violento terremoto di magnitudo 7,7 che ha colpito Panama. Il Servizio geologico statunitense ha poi rivisto la stima della magnitudo, inizialmente indicata a 8,0.",
-   "more": [
-    "Panama si trova in una zona sismicamente attiva lungo i margini della placca caraibica e di quella di Cocos; terremoti di questa intensità possono generare tsunami locali, motivo per cui le autorità regionali monitorano costantemente le coste del Pacifico."
-   ],
-   "fonti": [
-    {
-     "n": "RNZ Pacific",
-     "p": "XX",
-     "c": "Wellington",
-     "u": "https://www.rnz.co.nz/news/pacific/1824410/us-tsunami-warning-center-says-no-threat-to-pacific-islands-following-quake",
-     "angolo": "",
-     "atlas": "Papua New Guinea"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-     "angolo": "",
-     "atlas": "United Kingdom"
-    },
-    {
-     "n": "Fox News",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.foxnews.com/world/massive-7-7-magnitude-earthquake-strikes-panama-officials-investigate-potential-tsunami-threat",
-     "angolo": "",
-     "atlas": "United States of America"
-    },
-    {
-     "n": "IPN (inglese)",
-     "p": "XX",
-     "c": "Chisinau",
-     "u": "https://ipn.md/en/earthquake-with-a-magnitude-of-7-7-in-panama-material-damages-dozens-of-aftershocks-and-tsunami-alert/",
-     "angolo": "",
-     "atlas": "Moldova"
-    },
-    {
-     "n": "Pacific Islands Report",
-     "p": "XX",
-     "c": "Yaren",
-     "u": "https://pireport.org/2026/10/08/pacific-islands-news-roundup-september-24-september-30-2026-2/",
-     "angolo": "",
-     "atlas": "Nauru"
     }
    ],
    "data": "11 ott",
@@ -1751,36 +4398,6 @@ window.EDIZIONI["2026-10-11"] = {
    "ora": "09:38"
   },
   {
-   "id": "ze9111979",
-   "sez": "mondo",
-   "titolo": "Trump e Zelensky si scontrano sull'accordo per il diesel mentre attacchi russi uccidono 21 persone",
-   "orig": "Trump and Zelenskyy clash over diesel deal as Russian strikes kill 21",
-   "lead": "Il presidente americano Donald Trump e quello ucraino Volodymyr Zelensky si sono scontrati pubblicamente su un accordo riguardante il diesel, accusandosi a vicenda di prolungare il conflitto in Ucraina. Nello stesso contesto, attacchi russi hanno causato la morte di 21 persone. Lo riferisce NZ Herald.",
-   "more": [
-    "Il conflitto tra Russia e Ucraina, iniziato nel 2022, continua a coinvolgere anche gli Stati Uniti come mediatori e fornitori di aiuti, con tensioni frequenti tra Washington e Kiev su termini e condizioni del sostegno occidentale."
-   ],
-   "fonti": [
-    {
-     "n": "NZ Herald",
-     "p": "XX",
-     "c": "Auckland",
-     "u": "https://www.nzherald.co.nz/world/trump-and-zelenskyy-clash-over-diesel-deal-as-russian-strikes-kill-21/7OI2PBK73BELNHYDVFT3VWM5NY/",
-     "angolo": "",
-     "atlas": "New Zealand"
-    },
-    {
-     "n": "Sun Online",
-     "p": "XX",
-     "c": "Malé",
-     "u": "https://see.mv/109438",
-     "angolo": "",
-     "atlas": "Maldives"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "09:38"
-  },
-  {
    "id": "z7da09263",
    "sez": "spazio",
    "titolo": "Quattro astronauti tornano sulla Terra dopo otto mesi nella Stazione Spaziale Internazionale",
@@ -2127,6 +4744,14 @@ window.EDIZIONI["2026-10-11"] = {
      "p": "IT",
      "c": "Roma",
      "u": "https://www.repubblica.it/esteri/2026/10/11/news/joe_lansdale_intervista_pena_morte_streaming_hegseth-425639671/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/podcast/la_scelta_del_direttore/2026/10/09/la-barbarie-della-morte-in-streaming_cfd4220c-748c-4efe-8a49-16035aff1da2.html",
      "angolo": "",
      "atlas": "Italy"
     }
@@ -3665,36 +6290,6 @@ window.EDIZIONI["2026-10-11"] = {
    "ora": "09:38"
   },
   {
-   "id": "z39727d32",
-   "sez": "mondo",
-   "titolo": "Il premier della Khyber Pakhtunkhwa Afridi: non accetteremo governatorato o stato d'emergenza",
-   "orig": "CM Afridi says will not accept 'illegal move' of governor's rule or emergency in KP",
-   "lead": "Il Chief Minister della provincia pachistana del Khyber Pakhtunkhwa, Sohail Afridi, ha dichiarato sabato che non accetterà alcuna mossa ritenuta \"illegale\", compresa l'imposizione del governatorato o dello stato d'emergenza nella provincia. Le parole sono arrivate durante un comizio a Mardan, nel settimo giorno della lunga marcia del PTI da lui guidata, mentre il governo federale valuta l'emergenza per divergenze sulla politica antiterrorismo. Afridi ha avvertito che, in caso di governatorato o decisioni sbagliate, la marcia si dirigerà verso Peshawar e poi verso D-Chowk a Islamabad.",
-   "more": [
-    "Il Khyber Pakhtunkhwa è una provincia pachistana governata dal partito PTI, fondato dall'ex premier Imran Khan. Il governatorato federale è uno strumento costituzionale che permette al governo centrale di assumere il controllo diretto di una provincia in circostanze eccezionali."
-   ],
-   "fonti": [
-    {
-     "n": "Dawn",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://www.dawn.com/news/2036185/cm-afridi-says-will-not-accept-illegal-move-of-governors-rule-or-emergency-in-kp",
-     "angolo": "",
-     "atlas": "Pakistan"
-    },
-    {
-     "n": "The Express Tribune",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://tribune.com.pk/story/2634151/governors-rule-or-emergency",
-     "angolo": "",
-     "atlas": "Pakistan"
-    }
-   ],
-   "data": "11 ott",
-   "ora": "09:38"
-  },
-  {
    "id": "z12ad27c3",
    "sez": "mondo",
    "titolo": "Camerun, un anno dopo il discorso di Maroua, il vuoto del settennato di Paul Biya",
@@ -4533,118 +7128,6 @@ window.EDIZIONI["2026-10-11"] = {
    "ora": "09:38"
   },
   {
-   "id": "riyadh",
-   "sez": "prima",
-   "filo": "yemen-houthi-2026",
-   "titolo": "Gli Houthi colpiscono con un missile l'aeroporto di Riad: decine di feriti",
-   "orig": "World condemns deadly Houthi attack on Saudi Arabia's Riyadh airport",
-   "lead": "Un missile lanciato dai ribelli yemeniti Houthi ha centrato lo scalo internazionale di Riad, provocando esplosioni, l'evacuazione del terminal e decine di feriti. Almeno 225 voli sono stati cancellati nelle ultime 24 ore. L'attacco arriva nella settimana in cui la coalizione a guida saudita ha lanciato una vasta offensiva contro gli Houthi, e porta la guerra yemenita a toccare per la prima volta in modo così diretto il territorio saudita.",
-   "more": [
-    "Donald Trump ha definito l'attacco «terribile» e ha detto che gli Stati Uniti stanno valutando di unirsi ai raid sauditi contro gli Houthi; lo riferisce Al Jazeera. Il presidente ha anche annunciato un colloquio con il principe ereditario saudita Mohammed bin Salman, secondo France 24.",
-    "Le compagnie aeree degli Emirati hanno cancellato rotte e modificato i voli verso l'Arabia Saudita (Gulf News) e le scuole saudite sono passate alla didattica a distanza. Il segretario generale dell'Onu António Guterres ha condannato l'attacco, riferisce la televisione pubblica danese DR.",
-    "La Deutsche Welle allarga lo sguardo alle conseguenze regionali: lo stretto di Bab el-Mandeb, conteso tra forze governative e Houthi, è vicino a Gibuti e ad altri Stati africani del Mar Rosso, che subiscono anch'essi gli effetti del conflitto. Il centro di ricerca yemenita Sana'a Center avverte che, nonostante la ripresa della guerra, l'esito resta incerto."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport",
-     "angolo": "Dà conto della condanna internazionale e riferisce che Trump valuta di unire le forze Usa ai raid sauditi contro gli Houthi.",
-     "atlas": "Qatar"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/attacco-su-scalo-riad-decine-di-feriti-23704f8a-3e92-400f-965f-5ef0465a98ec.html",
-     "angolo": "Riporta il bilancio di decine di feriti e l'ipotesi di un missile Houthi come causa dell'attacco.",
-     "atlas": "Italy"
-    },
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992",
-     "angolo": "Guarda alle ripercussioni del conflitto sui Paesi africani del Mar Rosso, vicini allo stretto di Bab el-Mandeb.",
-     "atlas": "Germany"
-    },
-    {
-     "n": "Vatican News (italiano)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/it/mondo/news/2026-10/arabiasaudita-riad-bombe-yemen-houti-guerra-medioriente.html",
-     "angolo": "Segnala l'evacuazione dello scalo e l'appello dell'Oman per una soluzione diplomatica.",
-     "atlas": "Vatican"
-    },
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2634536",
-     "angolo": "Titolo scelto dalla testata: «Ampia indignazione per l'attacco all'aeroporto di Riad: «un'escalation pericolosa»»",
-     "atlas": "Netherlands"
-    },
-    {
-     "n": "DR Nyheder",
-     "p": "XX",
-     "c": "Copenaghen",
-     "u": "https://www.dr.dk/nyheder/seneste/fn-s-generalsekretaer-fordoemmer-angreb-paa-lufthavn-i-saudi-arabien",
-     "angolo": "Titolo scelto dalla testata: «Il segretario generale dell'Onu condanna l'attacco all'aeroporto in Arabia Saudita»",
-     "atlas": "Denmark"
-    },
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/noticiario-antena1/2h-ataque-aeroporto-riade-e-inaceitavel-e-terrivel-diz-trump_a1_1770961",
-     "angolo": "Titolo scelto dalla testata: «Attacco all'aeroporto di Riad è «inaccettabile e terribile», dice Trump»",
-     "atlas": "Portugal"
-    },
-    {
-     "n": "Azatutyun (inglese)",
-     "p": "XX",
-     "c": "Erevan",
-     "u": "https://www.azatutyun.am/a/houtinery-harvatsel-en-riadi-mijazgayin-%d6%85danavakayanin/33874442.html",
-     "angolo": "Titolo scelto dalla testata: «Gli Houthi colpiscono l'aeroporto internazionale di Riad»",
-     "atlas": "Armenia"
-    },
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/moyen-orient/20261011-moyen-orient-en-direct-l-attaque-de-l-a%C3%A9roport-de-riyad-n-est-pas-acceptable-affirme-trump",
-     "angolo": "Riferisce le parole di Trump, che definisce l'attacco «non accettabile» e annuncia un colloquio con il principe saudita.",
-     "atlas": "France"
-    },
-    {
-     "n": "LRT",
-     "p": "XX",
-     "c": "Vilnius",
-     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3079024/jav-ambasada-saudo-arabijoje-riboja-darbuotoju-keliones-per-dzidos-ir-damamo-oro-uostus",
-     "angolo": "Titolo scelto dalla testata: «L'ambasciata Usa in Arabia Saudita limita gli spostamenti del personale verso gli aeroporti di Gedda e Dammam»",
-     "atlas": "Lithuania"
-    },
-    {
-     "n": "Sana'a Center",
-     "p": "XX",
-     "c": "Aden",
-     "u": "https://sanaacenter.org/publications/perspectives-and-analyses/28470",
-     "angolo": "Titolo scelto dalla testata: «La guerra in Yemen riprende, ma l'esito resta incerto»",
-     "atlas": "Yemen"
-    },
-    {
-     "n": "Gulf News",
-     "p": "XX",
-     "c": "Dubai",
-     "u": "https://gulfnews.com/business/aviation/riyadh-airport-attack-uae-airlines-announce-saudi-route-cancellations-and-flight-changes-1.500706246",
-     "angolo": "Titolo scelto dalla testata: «Attacco all'aeroporto di Riad: le compagnie aeree degli Emirati cancellano rotte sull'Arabia Saudita»",
-     "atlas": "United Arab Emirates"
-    }
-   ],
-   "data": "11 ott"
-  },
-  {
    "id": "trumpkiev",
    "sez": "prima",
    "filo": "usa-russia",
@@ -4832,60 +7315,70 @@ window.EDIZIONI["2026-10-11"] = {
      "u": "https://www.repubblica.it/esteri/2026/10/11/news/trump_zelensky_ucraina_nuovo_presidente_reazioni_unione_europea-425639917/?rss",
      "angolo": "",
      "atlas": "Italy"
-    }
-   ],
-   "data": "10 ott"
-  },
-  {
-   "id": "panama",
-   "sez": "prima",
-   "titolo": "Panama, inizia la ricostruzione dopo il terremoto di magnitudo 7,7",
-   "orig": "Traumatised Panamanians begin recovery from 7.7-magnitude earthquake",
-   "lead": "A Panama è cominciata la fase di ricostruzione dopo il terremoto di magnitudo 7,7 che venerdì ha colpito la penisola di Azuero, il più forte mai registrato nel Paese. Il presidente José Raúl Mulino ha dichiarato lo stato di emergenza per accelerare aiuti fino a 100 milioni di dollari. Secondo l'agenzia nicaraguense indipendente Confidencial, il sisma ha causato danni a impianti di potabilizzazione, chiese e abitazioni, ma finora non si registrano vittime.",
-   "more": [
-    "Il quotidiano scientifico italiano Focus spiega che la faglia della penisola di Azuero era rimasta «silenziosa» per anni prima di liberare d'un colpo la tensione accumulata.",
-    "Diversi Paesi latinoamericani hanno espresso solidarietà: l'Uruguay ha attivato un primo volo per i propri cittadini bloccati dall'aeroporto di Tocumen, riferisce El Observador, mentre le autorità di Panama hanno sospeso le lezioni in tutto il Paese per lunedì 12 ottobre, in attesa delle verifiche sugli edifici scolastici."
-   ],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/traumatised-panamanians-begin-recovery-from-7-7-magnitude-earthquake",
-     "angolo": "Dà conto dello stato di emergenza dichiarato dal presidente Mulino e degli aiuti stanziati.",
-     "atlas": "Singapore"
     },
     {
-     "n": "Confidencial",
+     "n": "France 24",
      "p": "XX",
-     "c": "Managua",
-     "u": "https://confidencial.digital/mundo/terremoto-en-panama-deja-danos-pero-aun-no-registra-victimas/",
-     "angolo": "Sottolinea che, nonostante i danni a chiese, scuole e impianti idrici, non risultano finora vittime.",
-     "atlas": "Nicaragua"
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261011-accord-diesel-entre-poutine-et-trump-bruxelles-redit-son-soutien-%C3%A0-l-ukraine",
+     "angolo": "",
+     "atlas": "France"
     },
     {
-     "n": "Focus",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.focus.it/scienza/scienze/terremoto-di-magnitudo-7-7-a-panama-perche-si-e-scatenata-la-scossa-piu-forte-mai-registrata-sulla-terraferma",
-     "angolo": "Spiega le cause geologiche del sisma, il più forte mai registrato sulla terraferma panamense.",
-     "atlas": "Italy"
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-donald-trump-affirme-que-vladimir-poutine-aimerait-voir-un-reglement-avec-kiev_6791198_3210.html",
+     "angolo": "",
+     "atlas": "France"
     },
     {
-     "n": "El Observador",
+     "n": "Le Figaro",
      "p": "XX",
-     "c": "Montevideo",
-     "u": "https://www.elobservador.com.uy/nacional/cancilleria-esta-contacto-uruguayos-varados-terremoto-panama-vuelos-se-cancelaron-y-otros-se-reprogramaron-n6060097",
-     "angolo": "Titolo scelto dalla testata: «La Cancelleria è in contatto con gli uruguaiani bloccati dal terremoto a Panama: è partito un primo volo dall'aeroporto di Tocumen»",
-     "atlas": "Uruguay"
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/international/trump-affirme-que-poutine-aimerait-voir-un-reglement-avec-l-ukraine-20261011",
+     "angolo": "",
+     "atlas": "France"
     },
     {
-     "n": "Panamá América",
+     "n": "France 24",
      "p": "XX",
-     "c": "Città di Panama",
-     "u": "https://www.panamaamerica.com.pa/sociedad/meduca-suspende-las-clases-nivel-nacional-este-lunes-12-de-octubre-tras-reciente-sismo",
-     "angolo": "Titolo scelto dalla testata: «Il Meduca sospende le lezioni in tutto il Paese lunedì 12 ottobre dopo il recente sisma»",
-     "atlas": "Panama"
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/moyen-orient/20261011-moyen-orient-en-direct-l-attaque-de-l-a%C3%A9roport-de-riyad-n-est-pas-acceptable-affirme-trump",
+     "angolo": "",
+     "atlas": "France"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/amerique/accord-washington-moscou-sur-le-diesel-cest-un-piege-tendu-par-poutine-20261011_LDMVE5ZEMVEVHF7X4XOZ4L52SY/",
+     "angolo": "",
+     "atlas": "France"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/International/trump-affirme-que-poutine-aimerait-voir-un-reglement-avec-lukraine_n_999000327.html",
+     "angolo": "",
+     "atlas": "Senegal"
+    },
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/trump-and-zelenskyy-clash-over-diesel-deal-as-russian-strikes-kill-21/7OI2PBK73BELNHYDVFT3VWM5NY/",
+     "angolo": "",
+     "atlas": "New Zealand"
+    },
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109438",
+     "angolo": "",
+     "atlas": "Maldives"
     }
    ],
    "data": "10 ott"
@@ -4968,49 +7461,6 @@ window.EDIZIONI["2026-10-11"] = {
      "u": "https://www.nzherald.co.nz/world/us-justice-department-investigating-five-tv-networks-over-white-house-pool-coverage/623ONLU46BEVHBDWLMP7QHHYYY/",
      "angolo": "Titolo scelto dalla testata: «Il dipartimento di Giustizia Usa indaga su cinque reti tv per la copertura della «pool» alla Casa Bianca»",
      "atlas": "New Zealand"
-    }
-   ],
-   "data": "10 ott"
-  },
-  {
-   "id": "gulfoman",
-   "sez": "prima",
-   "titolo": "Forze Usa bloccano una nave che tentava di forzare il blocco contro l'Iran nel Golfo di Oman",
-   "orig": "US forces disable ship 'attempting to run' Iran blockade in Gulf of Oman",
-   "lead": "Un jet militare americano ha colpito la poppa di una nave cargo commerciale nel Golfo di Oman, mettendola fuori uso mentre tentava di forzare il blocco imposto dagli Stati Uniti contro l'Iran. Il comando centrale americano (Centcom) precisa che l'operazione non ha causato danni all'equipaggio. Lo riferisce Al Jazeera.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman",
-     "angolo": "Riporta la versione del Centcom, che sottolinea l'assenza di danni all'equipaggio della nave colpita.",
-     "atlas": "Qatar"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-     "angolo": "Titolo scelto dalla testata: «Gli Usa colpiscono una petroliera commerciale nel Golfo di Oman, tensioni in aumento»",
-     "atlas": "United Kingdom"
-    },
-    {
-     "n": "The Express Tribune",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://tribune.com.pk/story/2634194/us-military-says-it-disabled-vessel-attempting-to-violate-blockade",
-     "angolo": "Titolo scelto dalla testata: «L'esercito Usa dice di aver messo fuori uso una nave che tentava di violare il blocco»",
-     "atlas": "Pakistan"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/middle-east/us-military-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade",
-     "angolo": "Titolo scelto dalla testata: «L'esercito Usa dice di aver messo fuori uso una nave cargo che tentava di forzare il blocco sull'Iran»",
-     "atlas": "Singapore"
     }
    ],
    "data": "10 ott"
@@ -5118,25 +7568,30 @@ window.EDIZIONI["2026-10-11"] = {
      "u": "https://www.abc.com.py/internacionales/2026/10/11/el-gobierno-indio-acusa-a-la-onu-de-injerencia-tras-exigir-la-liberacion-de-detenidos/",
      "angolo": "Titolo scelto dalla testata: «Il governo indiano accusa l'Onu di «ingerenza» dopo la richiesta di liberare i detenuti»",
      "atlas": "Paraguay"
-    }
-   ],
-   "data": "11 ott"
-  },
-  {
-   "id": "casini",
-   "sez": "italia",
-   "titolo": "Pier Ferdinando Casini non si ricandiderà: in Parlamento dal 1983",
-   "orig": "Pier Ferdinando Casini ha detto che non si candiderà alle prossime elezioni politiche: era in parlamento dal 1983",
-   "lead": "Pier Ferdinando Casini ha annunciato che non si presenterà alle prossime elezioni politiche, chiudendo una carriera parlamentare iniziata nel 1983. Lo riferisce Il Post.",
-   "more": [],
-   "fonti": [
+    },
     {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/11/casini-non-si-ricandida/",
-     "angolo": "Dà la notizia della decisione e ne ripercorre i 43 anni di mandato parlamentare ininterrotto.",
-     "atlas": "Italy"
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3444717/",
+     "angolo": "",
+     "atlas": "Austria"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/indien-anfuehrer-der-kakerlaken-bewegung-wieder-frei-a-7527b151-9928-4716-ac97-e13c8255eac5#ref=rss",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/justica-indiana-liberta-lideres-do-movimento-dos-baratas-que-mantem-protestos_n1770974",
+     "angolo": "",
+     "atlas": "Portugal"
     }
    ],
    "data": "11 ott"
@@ -5625,6 +8080,14 @@ window.EDIZIONI["2026-10-11"] = {
      "u": "https://kyivindependent.com/third-yandex-data-center-in-russia-shut-down-following-reported-drone-attack/",
      "angolo": "Titolo scelto dalla testata: «Terzo data center Yandex in Russia fermato dopo un presunto attacco con drone»",
      "atlas": "Ukraine"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33874452.html",
+     "angolo": "",
+     "atlas": "Armenia"
     }
    ],
    "data": "10 ott"
@@ -5780,33 +8243,6 @@ window.EDIZIONI["2026-10-11"] = {
     }
    ],
    "data": "10 ott"
-  },
-  {
-   "id": "orangutan",
-   "sez": "ambiente",
-   "titolo": "Indonesia, liberati nella foresta protetta otto oranghi salvati dagli incendi",
-   "orig": "Indonesia releases eight orangutans rescued from fires to protected forest",
-   "lead": "Le autorità indonesiane, insieme all'organizzazione Yiari, hanno liberato otto oranghi in una foresta protetta dopo averli salvati dalla minaccia degli incendi; tra agosto e la scorsa settimana gli animali soccorsi erano stati in tutto 46. Lo riferisce il Japan Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Japan Times",
-     "p": "XX",
-     "c": "Tokyo",
-     "u": "https://www.japantimes.co.jp/news/2026/10/11/asia-pacific/science-health/indonesia-fires-orangutan-released/",
-     "angolo": "Riporta il numero complessivo di oranghi salvati dagli incendi e rilasciati nella foresta protetta.",
-     "atlas": "Japan"
-    },
-    {
-     "n": "Gulf News",
-     "p": "XX",
-     "c": "Dubai",
-     "u": "https://gulfnews.com/world/asia/eight-orangutans-rescued-from-indonesia-fires-released-into-protected-forest-1.500706206",
-     "angolo": "Titolo scelto dalla testata: «Otto oranghi salvati dagli incendi in Indonesia rilasciati in una foresta protetta»",
-     "atlas": "United Arab Emirates"
-    }
-   ],
-   "data": "11 ott"
   },
   {
    "id": "croatiahome",
@@ -6407,16 +8843,6 @@ window.EDIZIONI["2026-10-11"] = {
  ],
  "quiz": [
   {
-   "q": "Cosa ha colpito il missile Houthi dell'11 ottobre?",
-   "opts": [
-    "L'aeroporto di Riad",
-    "Il porto di Aden",
-    "Una raffineria in Arabia Saudita"
-   ],
-   "ok": 0,
-   "rif": "riyadh"
-  },
-  {
    "q": "Secondo Trump, chi dovrebbe guidare l'Ucraina?",
    "opts": [
     "Zelensky, ma con più poteri",
@@ -6427,16 +8853,6 @@ window.EDIZIONI["2026-10-11"] = {
    "rif": "trumpkiev"
   },
   {
-   "q": "Quale magnitudo ha avuto il terremoto che ha colpito Panama?",
-   "opts": [
-    "5,7",
-    "6,9",
-    "7,7"
-   ],
-   "ok": 2,
-   "rif": "panama"
-  },
-  {
    "q": "Chi ha vinto la borsa «Genius» della fondazione MacArthur nel 2026 tra i musicisti citati oggi?",
    "opts": [
     "Immanuel Wilkins",
@@ -6445,29 +8861,15 @@ window.EDIZIONI["2026-10-11"] = {
    ],
    "ok": 0,
    "rif": "wilkins"
-  },
-  {
-   "q": "In quale penisola si trova la faglia del terremoto di Panama?",
-   "opts": [
-    "Azuero",
-    "Yucatán",
-    "Osa"
-   ],
-   "ok": 0,
-   "rif": "panama"
   }
  ],
  "sguardi": {
-  "riyadh": "Le testate raccontano lo stesso fatto da angolazioni diverse. Al Jazeera, da Doha, mette al centro la condanna internazionale e l'ipotesi di un coinvolgimento militare americano. La Deutsche Welle, da Bonn, allarga lo sguardo alle conseguenze per i Paesi africani del Mar Rosso. Il centro studi yemenita Sana'a Center, unica voce della regione colpita, insiste sull'incertezza dell'esito della guerra. Diverse testate europee (Paesi Bassi, Portogallo, Danimarca) sottolineano la reazione di sgomento internazionale e la condanna dell'Onu.",
   "trumpkiev": "Il Guardian, da Londra, nota l'assenza di prove dietro l'accusa di Trump e la inquadra nel contesto dei nuovi attacchi russi alle infrastrutture energetiche ucraine. Le testate nord-europee (Estonia, Irlanda) insistono invece sulla reazione critica degli alleati europei all'intesa con Mosca. L'agenzia ucraina Kyiv Independent, parte in causa, diffonde il proprio bilancio di perdite russe, non verificabile da fonti indipendenti.",
-  "panama": "Lo Straits Times, da Singapore, guarda alla risposta istituzionale e agli aiuti stanziati dal governo. L'agenzia nicaraguense Confidencial, indipendente, insiste sul fatto che non ci sono finora vittime. Le testate uruguaiana e panamense raccontano la macchina della solidarietà regionale e le misure precauzionali sulle scuole.",
   "nepal": "Al Jazeera, dal Qatar, dà la notizia dell'alluvione e delle evacuazioni. Il Kathmandu Post, testata nepalese, dà voce diretta agli sfollati, mentre l'emittente di Singapore CNA la inquadra nel contesto regionale del monsone.",
   "doj": "La BBC, da Londra, ricostruisce i fatti con attenzione alla sequenza (blocco di accesso, protesta delle reti, indagine). Le testate canadese e neozelandese riprendono la notizia inserendola nel quadro dei rapporti tesi tra l'amministrazione Trump e la stampa.",
-  "gulfoman": "Al Jazeera riporta la versione ufficiale del Centcom americano. Financial Times, Express Tribune e Straits Times riprendono la notizia da Londra, Karachi e Singapore, inquadrandola nel perimetro più largo della guerra tra Stati Uniti e Iran.",
   "eritrea": "La Deutsche Welle, da Bonn, dà conto delle accuse reciproche senza prendere posizione. Hiiraan Online, testata somala, riprende invece la versione etiope, mostrando come la tensione nel Corno d'Africa sia seguita con attenzione nella regione.",
   "baidoa": "Hiiraan Online, testata somala con sede a Mogadiscio, dà voce all'appello dell'Onu insistendo sulla somma di rischi che si accumulano sulla popolazione: scontri, carestia, sfollamento e inondazioni.",
   "delhi": "La BBC, da Londra, dà conto del rilascio e della protesta in arrivo. Dawn, dal Pakistan, precisa il ruolo del tribunale indiano. Le testate olandese e di Hong Kong seguono la vicenda come un capitolo delle tensioni politiche indiane, mentre l'agenzia paraguaiana ABC Color riprende la reazione del governo indiano all'Onu.",
-  "casini": "Il Post, testata indipendente italiana, registra la fine di una delle carriere parlamentari più lunghe della Repubblica senza commenti politici.",
   "propal": "L'ANSA, agenzia italiana, dà conto sia della portata nazionale delle manifestazioni sia degli episodi controversi, senza prendere posizione sul merito della protesta.",
   "greta": "L'ANSA registra l'evento come cronaca della mobilitazione, senza commenti sul merito politico.",
   "trentini": "La Repubblica dà conto dell'apertura dell'inchiesta italiana, parallela a quella già avviata negli Stati Uniti, riportando il contenuto dell'esposto senza esprimere un giudizio sulla fondatezza delle accuse.",
@@ -6501,7 +8903,6 @@ window.EDIZIONI["2026-10-11"] = {
   "namibiatrees": "The Namibian, testata privata namibiana, accompagna la notizia con un commento che chiede risultati concreti oltre il gesto simbolico.",
   "thailandflood": "Il Bangkok Post dà conto dell'appello del governo thailandese in chiave di gestione dell'emergenza, senza approfondire responsabilità politiche.",
   "darfurhunger": "Dabanga, testata sudanese indipendente che lavora dall'esilio ad Amsterdam, segue da anni con attenzione la situazione umanitaria in Darfur.",
-  "orangutan": "Il Japan Times racconta l'operazione di salvataggio come una storia a lieto fine nel mezzo della stagione degli incendi; Gulf News la riprende con lo stesso taglio da Dubai.",
   "croatiahome": "Croatia Week presenta i dati in modo descrittivo, come contributo alla conoscenza di un fenomeno sociale poco misurato nel Paese.",
   "andorradonazione": "Diari d'Andorra, testata privata andorrana, segue la vicenda come un passo di sanità pubblica transfrontaliera.",
   "wellnesssa": "Il Daily Maverick, quotidiano sudafricano indipendente, pubblica un'analisi di opinione da leggere come tale, non come linea guida clinica.",
@@ -6533,7 +8934,6 @@ window.EDIZIONI["2026-10-11"] = {
   "bosniapjanic": "Sarajevo Times racconta con leggerezza una classifica personale dell'ex calciatore, come contenuto di intrattenimento sportivo.",
   "zef96e951": "Le fonti mettono a confronto la condanna europea delle sanzioni Usa alla Cpi con le diverse posizioni sulle sanzioni russe e sull'accordo Trump-Putin sul diesel.",
   "z65adaf2f": "Le fonti concordano sulla pericolosità della tempesta, con enfasi sui tempi di arrivo e sulle misure di sicurezza per i residenti del Golfo.",
-  "z29264ec4": "Le testate concordano sull'assenza di gravi danni a Panama, con dettagli diversi sulle verifiche della magnitudo e sull'allerta tsunami nel Pacifico.",
   "z8e022054": "Le fonti concordano sul dominio di Verstappen, ma segnalano anche le critiche di piloti come lui stesso e Hamilton sul format sprint a Singapore.",
   "z425b3264": "Le fonti sottolineano sia il dato tecnico del record di gara sia il messaggio di Kipchoge alle nuove generazioni di atleti.",
   "z58a53f8f": "Al Jazeera si concentra sulla storia della rivalità Liverpool-City, mentre altre fonti discutono le questioni economiche e finanziarie del massimo campionato inglese.",
@@ -6632,7 +9032,6 @@ window.EDIZIONI["2026-10-11"] = {
   "z0f5c43b4": "El Universo riporta sia il risultato sportivo sia l'autocritica dell'allenatore dell'Emelec.",
   "zba5b2473": "Tchadinfos e La Nouvelle Tribune riportano in modo coerente la versione ufficiale dell'esercito, senza bilanci indipendenti.",
   "zdb2d9077": "Agência Brasil documenta gli eventi di entrambi i candidati nello stesso giorno, mentre Folha de S.Paulo guarda già alle sfide di governo del vincitore.",
-  "z39727d32": "Dawn riporta le parole di sfida di Afridi, mentre The Express Tribune analizza le implicazioni costituzionali delle due misure.",
   "z12ad27c3": "Mimi Mefo Info denuncia l'assenza di risultati concreti del mandato, mentre Actu Cameroun riporta i dubbi sulla legittimità della proclamazione.",
   "ze27cb949": "L'Express de Madagascar riporta l'appello del colonnello, mentre 2424.mg descrive lo strumento concreto lanciato dal fisco.",
   "zcbd5c694": "FBC News celebra la vittoria del Ba FC descrivendo i momenti decisivi della finale.",
@@ -6670,31 +9069,103 @@ window.EDIZIONI["2026-10-11"] = {
   "z735dae3c": "Niger Inter riporta integralmente il comunicato ufficiale del governo sulle decisioni prese nel Consiglio dei ministri.",
   "zbc92057c": "Journal du Mali descrive l'iniziativa come una risposta alla carenza di competenze locali nel settore minerario e petrolifero.",
   "z9867fe64": "La Nouvelle Tribune presenta il bilancio del fondo come prova dell'impegno finanziario del Niger nella lotta al terrorismo.",
-  "z7ef97c47": "Alakhbar propone una riflessione sul significato politico del rinnovo di fiducia al primo ministro."
+  "z7ef97c47": "Alakhbar propone una riflessione sul significato politico del rinnovo di fiducia al primo ministro.",
+  "z940d832d": "CNA e The Straits Times insistono sul trauma della popolazione e sulla ripresa, The Guardian sullo stato di emergenza, Fox News sul timore di uno tsunami, poi escluso per le isole del Pacifico secondo RNZ.",
+  "z7836f495": "NPR e Al Jazeera mettono al centro la possibile entrata in guerra degli Stati Uniti, mentre altre voci di Al Jazeera guardano agli effetti sui civili di Taiz e ai video diffusi dagli Houthi.",
+  "z037e973c": "Al Jazeera e Reuters, ripresa dallo Straits Times, riportano la versione del CENTCOM sull'equipaggio illeso, mentre il Financial Times inquadra l'episodio nel ritorno delle tensioni.",
+  "z5a0e8a2c": "The Guardian punta sulla causa legale contro il governo, mentre Antara e Malay Mail riferiscono i contatti diplomatici con la Malesia e The Japan Times il salvataggio di oranghi dalle fiamme.",
+  "z8b4575c2": "Clarín mette in evidenza la paralisi dello scalo saudita e la gravità dell'attacco, mentre le altre voci raccontano i disagi negli aeroporti di Panama dopo il sisma.",
+  "zf19946ce": "NPR riporta la gratitudine espressa tramite gli avvocati, la Süddeutsche Zeitung sottolinea la sospensione delle esecuzioni in Tennessee e Repubblica allarga lo sguardo alla storia della pena capitale in America.",
+  "z234504d3": "ANSA e Il Fatto Quotidiano insistono sul ritorno al successo di Bezzecchi e sulla tripletta Aprilia, Il Messaggero dà i voti e boccia Bagnaia, la stampa spagnola sottolinea il primato di Martin.",
+  "zfed4f13c": "RTHK dà spazio all'appello del responsabile per la salute mentale più che al procedimento contro i genitori.",
+  "zf494be11": "ABC News e il Sydney Morning Herald seguono la partita in diretta e celebrano Renshaw, mentre il Times of India sottolinea il record strappato a Kohli.",
+  "ze95b77dd": "La Presse de Tunisie riporta l'iniziativa con il punto di vista istituzionale del governo.",
+  "z1f1a1832": "Times of India e The Indian Express riportano soprattutto il racconto di Rathee sulla sua detenzione, senza una versione della polizia.",
+  "z916a617e": "Deutsche Welle lega l'annuncio alla richiesta di Trump, mentre Hong Kong Free Press insiste sulla minaccia militare cinese.",
+  "z5a006d76": "Deutsche Welle presenta l'intelligenza artificiale come una minaccia per l'identità stessa della letteratura.",
+  "z8421c227": "Al Jazeera sottolinea la difficoltà di contenere l'epidemia, mentre il Somali Guardian guarda alle misure di prevenzione prese dalla Somalia.",
+  "z8b2e7979": "LSM si limita a dare notizia dell'allerta meteo senza indicare danni.",
+  "zee65de6a": "CNA si concentra sulle misure di sicurezza e sul ritorno dei servizi, il Kathmandu Post sui fermi di massa e sulla decisione del tribunale.",
+  "zc8f30f23": "Notes from Poland mette in risalto l'obiettivo dell'indipendenza tecnologica del Paese.",
+  "z36cb83bb": "The Guardian sottolinea il carattere controverso dello studio e il legame con le posizioni antivacciniste di Kennedy.",
+  "z59a5d4b4": "The Guardian ricorda il lungo digiuno della franchigia, The Japan Times sottolinea la rarità della rimonta.",
+  "zfcbc5794": "The Guardian dà voce all'allarme ambientalista di Silva, mentre la Folha de S.Paulo guarda al ruolo dell'influencer Pablo Marçal accanto a Flávio Bolsonaro.",
+  "z3276ae0d": "Il Daily Nation riporta soprattutto le accuse del sindacato all'azienda.",
+  "z6f57e8f4": "The Korea Herald legge l'approvazione soprattutto come un rilancio delle ambizioni di HLB sul tumore al fegato.",
+  "z5927234c": "Il Cyprus Mail riporta l'incidente in modo essenziale, senza indicare la gravità delle ferite.",
+  "z6e314539": "Clarín guarda alla gara soprattutto dal punto di vista del pilota argentino e del suo riscatto.",
+  "zdde57206": "Railway Gazette International mette in evidenza l'ordine dei treni e l'idea di un'offerta combinata con l'aereo.",
+  "z3d91ea38": "Il Sole 24 Ore e Il Messaggero riprendono le parole della lettera, Repubblica presenta la scelta come addio alla politica.",
+  "ze77764a5": "The Lancet inquadra lo studio in un problema clinico noto, la minore perdita di peso nei diabetici, mentre Nature Medicine pubblica un altro studio su una nuova molecola orale per il diabete.",
+  "zc42f71c8": "Hiiraan Online mette al centro la novità sanitaria e i suoi obiettivi, mentre il Somali Guardian nella stessa giornata si concentra sulla crisi politica, con l'ex presidente Sharif Sheikh Ahmed che invoca un fronte nazionale contro i rischi di caos o autoritarismo.",
+  "z9d94cf65": "L'Esa valorizza l'immagine come esempio delle capacità di osservazione dei satelliti Copernicus.",
+  "za218ecb4": "La Nasa presenta l'evento come un'occasione di divulgazione e di contatto diretto con il grande pubblico sportivo.",
+  "zca4ee774": "Yonhap dà risalto al proprio ruolo di co-organizzatrice dell'evento culturale.",
+  "zce06817d": "Meduza sottolinea come la minaccia dei droni ucraini arrivi a toccare perfino i voli riservati ai vertici del potere russo.",
+  "z39ce7e77": "Il video è una riflessione personale dell'autore, basata sulla sua esperienza e non su dati verificati.",
+  "z85bd1c7b": "Turisti per Caso mette in evidenza i numeri record del monastero e la sua vicinanza a Madrid.",
+  "z497a9db3": "Turisti per Caso punta sugli aspetti stagionali, tra paesaggio, vino e patrimonio storico.",
+  "z500d2307": "Turisti per Caso presenta il viaggio come un percorso transfrontaliero che unisce laghi, castelli e borghi alpini.",
+  "zb5b7c632": "NK News si concentra sui possibili controlli nascosti nei dispositivi nordcoreani, basandosi sul racconto di un blogger.",
+  "z00433380": "VRT NWS bilancia i benefici per le aziende con i timori degli esperti su consumi e omologazione.",
+  "z878d29cf": "SVT Nyheter punta sul lato spontaneo e sorprendente del successo social degli studenti.",
+  "zdef6debe": "L'Ansa mette in risalto le cifre più impressionanti del rapporto per rendere la dimensione del fenomeno.",
+  "zf3f1a7ec": "ArchDaily valorizza il legame tra l'architettura della casa e il paesaggio naturale che la circonda.",
+  "zc408e42e": "Il Gambero Rosso lega le specialità gastronomiche al territorio e ai locali dove gustarle.",
+  "z8a370f88": "Il Gambero Rosso racconta il bar come luogo della memoria teatrale attraverso la storia personale del suo titolare.",
+  "z4523cf68": "La testata presenta la ricetta come una rivisitazione moderna di un classico degli antipasti festivi.",
+  "zcf49eb5d": "Il Messaggero mette in primo piano le grandi mostre d'arte, affiancandole a concerti e performance per un'offerta varia.",
+  "z6e4dbb4f": "N1 sottolinea il valore politico del voto come test per Janša, mentre Vijesti si concentra sui temi e sul carattere non vincolante dei quesiti.",
+  "zdc1f6bcd": "Civil.ge insiste sulle fonti e sul documento dell'ente russo, mentre OC Media elenca soprattutto le categorie di prodotti colpiti.",
+  "z78791d19": "NOS spiega il fenomeno e raccoglie le foto dei lettori, mentre VRT NWS dà spazio al parere di un'esperta sulle condizioni favorevoli.",
+  "zc75f3a6c": "Le Soleil mette al centro il messaggio personale di Omar Pène e il legame umano e artistico tra i due musicisti.",
+  "z1c50b1e9": "Libya Herald sottolinea la volontà delle ferrovie di coordinarsi con il ministero sul progetto di corridoio.",
+  "z7cb3f6ab": "14ymedio inserisce il guasto nel quadro di una crisi energetica cronica, evidenziando la serie di collassi dell'anno.",
+  "zf89888ad": "El Mundo mette in risalto la radicalità del gruppo e la sua ostilità verso la sinistra di governo.",
+  "zbd6ef6c1": "Radio Okapi punta sulla lotta ai matrimoni precoci, mentre Monaco Matin racconta un'iniziativa educativa sulla parità.",
+  "zf58d9afe": "Dawn e The Express Tribune riportano la versione del governo sulla sicurezza, dando spazio anche all'opposizione del premier provinciale e ai profili costituzionali.",
+  "za30c1b99": "The Point dettaglia la procedura seguita dal giudice, mentre Foroyaa insiste sulla mancanza di prove del ricorrente.",
+  "z79be83b2": "La Folha guarda al fenomeno come a una trasformazione del mondo dell'intrattenimento, usando un caso concreto e celebre.",
+  "z2e3d46f7": "Mosaïque Guinée si concentra sull'anticipo del concorso, Africaguinee sul confronto con i docenti precari.",
+  "zc7e2c8ed": "LRT mette in evidenza il primato del sindaco di Kaunas nel gradimento dei cittadini.",
+  "z77eece90": "ERT News punta sul legame con Timberlake come elemento di richiamo della riedizione.",
+  "z19250b86": "MIA riporta il messaggio del partito, che lega la memoria antifascista a un richiamo contro le divisioni attuali.",
+  "z73632ebb": "Premium Times sottolinea i segnali incoraggianti per la nazionale, tra gol e rientri dagli infortuni.",
+  "z82505051": "Iran International valorizza la designazione di un arbitro iraniano per una sfida di alto livello.",
+  "zb03ca158": "Telex pone l'accento sul possibile uso di fondi pubblici culturali in un contesto di campagna e sulla foto rimossa.",
+  "z8d95cc66": "RÚV sottolinea il bilancio delle vittime, la testimonianza di un passeggero e le conseguenze sul traffico aereo, citando l'avvertimento degli Houthi senza attribuire loro l'attacco.",
+  "zefde2e17": "N1 Serbia evidenzia il carattere civico dell'iniziativa e il legame tra mobilitazione studentesca e temi urbanistici.",
+  "zbe6063e5": "The Kathmandu Post mette in risalto il ripristino del collegamento e la durata dell'interruzione causata dalle alluvioni.",
+  "z6093d19f": "VnExpress presenta la piena come una risorsa stagionale per le comunità locali, più che come un'emergenza.",
+  "z0cbbc1c0": "Haaretz, con un taglio di opinione critico, attribuisce la responsabilità alla perdita di controllo da parte dello Stato israeliano.",
+  "z12088445": "La testata si concentra sul cambio di leadership e sulla transizione ordinata tra le due dirigenti.",
+  "ze967cb3c": "Malay Mail mette in evidenza l'obiettivo numerico e la strategia nazionale di lungo periodo sull'intelligenza artificiale.",
+  "z5bcad7d8": "Luxembourg Times privilegia il racconto umano e la rinascita personale dopo la malattia.",
+  "z32d72547": "Sarajevo Times dà spazio alla voce della neoeletta e al suo messaggio contro la politica della paura.",
+  "z7c4db064": "Euronews Albania riporta la narrazione del premier sul rilancio delle due zone, presentata attraverso il suo podcast.",
+  "z8e96b830": "Roya News evidenzia il ricorso al partenariato pubblico-privato e la costruzione di servizi di supporto.",
+  "zc47ecb22": "Ada Derana si limita a dare il bilancio complessivo delle persone colpite.",
+  "z43c83c6c": "Sierraloaded mette in evidenza il profilo internazionale del presidente e gli impegni di alto livello.",
+  "zb8d72e7a": "NOW Grenada fornisce un'informazione di servizio sugli orari delle modifiche alla viabilità.",
+  "z0f2ec607": "Mimi Mefo Info si concentra sul calendario delle uscite e sulla campagna promozionale del progetto.",
+  "z46ae13b3": "NZZ sottolinea il legame tra la crescita del debito cittadino e il possibile aumento dei costi per interessi.",
+  "z828057a5": "La Tercera mette in evidenza il rischio legato ai suoli saturi e l'elenco dei comuni in allerta rossa.",
+  "zf4a22273": "El Tiempo, riprendendo il reportage dell'EFE, dà risalto alle condizioni di vita degli sfollati più che alla cronaca del sisma.",
+  "zd233a559": "Il quotidiano peruviano punta sugli aspetti pratici, cioè requisiti e pagamento, e chiarisce che l'importo indicato non è garantito.",
+  "z8cff4e88": "Il giornale mette in evidenza la strategia dei Blancos e il loro piano alternativo in caso di opposizione del Frente Amplio.",
+  "zdd8ce56b": "Il quotidiano mette a confronto lo stile di Acosta e quello del suo sostituto, chiedendosi se il clima possa cambiare.",
+  "zb9496c12": "La testata dà spazio alla versione dell'ex sindaco senza entrare nel merito delle accuse.",
+  "zaa79ca44": "Il giornale racconta la crisi attraverso la storia di un moto-taxista.",
+  "z095afaba": "La testata collega l'annuncio all'accordo che ha chiuso lo sciopero e mette in evidenza il ruolo di controllo affidato al sindacato.",
+  "zd04f39d3": "Il quotidiano surinamese racconta la fabbrica come esempio della forte crescita delle auto elettriche cinesi.",
+  "z31019151": "L'emittente pubblica mette in evidenza la consegna del macchinario come gesto di cooperazione britannica.",
+  "z944f4712": "La testata si limita a dare l'annuncio pratico della riapertura delle domande.",
+  "z3f7d3591": "Il quotidiano paraguaiano mette in risalto il titolo mondiale conquistato in Moto3."
  },
  "contesti": {
-  "riyadh": "La guerra tra le forze yemenite sostenute dall'Arabia Saudita e i ribelli Houthi, sostenuti dall'Iran, era entrata in una fase di tregua nel 2022. Dal luglio 2026 i combattimenti sono ripresi, nel quadro più ampio della guerra tra Stati Uniti e Iran, iniziata il 28 febbraio 2026. In settembre gli Houthi avevano preso il controllo dell'intera costa yemenita sul Mar Rosso, compreso lo stretto di Bab el-Mandeb; il 5 ottobre le forze governative, con copertura aerea saudita, hanno lanciato l'offensiva «Alba dello Yemen» per riprendere il controllo dello stretto.",
   "trumpkiev": "Il 9 ottobre Donald Trump ha annunciato un'intesa con Vladimir Putin per l'acquisto di diesel russo, presentata come un modo per calmierare i prezzi dei carburanti negli Stati Uniti prima delle elezioni di metà mandato di novembre. Volodymyr Zelensky ha definito l'accordo un investimento nella prosecuzione della guerra. La guerra in Ucraina dura dal febbraio 2022; gli Stati Uniti sono inoltre in guerra con l'Iran dal 28 febbraio 2026."
  },
  "cronologie": {
-  "riyadh": [
-   [
-    "5 ottobre",
-    "Le forze governative yemenite lanciano l'offensiva «Alba dello Yemen», con copertura aerea saudita, per riprendere lo stretto di Bab el-Mandeb."
-   ],
-   [
-    "6 ottobre",
-    "Le forze sostenute da Riad dicono di aver ripreso diverse aree intorno allo stretto."
-   ],
-   [
-    "10 ottobre",
-    "La coalizione a guida saudita annuncia un'operazione ad ampio raggio contro gli Houthi."
-   ],
-   [
-    "11 ottobre",
-    "Un missile Houthi colpisce l'aeroporto internazionale di Riad: decine di feriti, oltre 225 voli cancellati ed evacuazione del terminal. Trump valuta l'ingresso Usa nei raid contro gli Houthi."
-   ]
-  ],
   "trumpkiev": [
    [
     "9 ottobre",
@@ -6707,20 +9178,6 @@ window.EDIZIONI["2026-10-11"] = {
   ]
  },
  "luoghi": {
-  "riyadh": {
-   "n": "Riad, Arabia Saudita (aeroporto internazionale)",
-   "p": [
-    "Saudi Arabia",
-    "Yemen"
-   ],
-   "pt": [
-    [
-     24.96,
-     46.7,
-     "Aeroporto di Riad"
-    ]
-   ]
-  },
   "trumpkiev": {
    "n": "Washington, Stati Uniti (e Kiev, Ucraina)",
    "p": [
@@ -6733,21 +9190,6 @@ window.EDIZIONI["2026-10-11"] = {
      38.9,
      -77.04,
      "Washington"
-    ]
-   ]
-  },
-  "panama": {
-   "n": "Penisola di Azuero, Panama",
-   "p": [
-    "Panama",
-    "Uruguay",
-    "Nicaragua"
-   ],
-   "pt": [
-    [
-     7.5,
-     -80.5,
-     "Penisola di Azuero"
     ]
    ]
   },
@@ -6774,20 +9216,6 @@ window.EDIZIONI["2026-10-11"] = {
      38.9,
      -77.04,
      "Washington"
-    ]
-   ]
-  },
-  "gulfoman": {
-   "n": "Golfo di Oman",
-   "p": [
-    "Iran",
-    "Oman"
-   ],
-   "pt": [
-    [
-     25,
-     58,
-     "Golfo di Oman"
     ]
    ]
   },
@@ -6828,19 +9256,6 @@ window.EDIZIONI["2026-10-11"] = {
      28.61,
      77.21,
      "Nuova Delhi"
-    ]
-   ]
-  },
-  "casini": {
-   "n": "Roma, Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": [
-    [
-     41.9,
-     12.5,
-     "Roma"
     ]
    ]
   },
@@ -7269,13 +9684,6 @@ window.EDIZIONI["2026-10-11"] = {
     ]
    ]
   },
-  "orangutan": {
-   "n": "Indonesia",
-   "p": [
-    "Indonesia"
-   ],
-   "pt": []
-  },
   "croatiahome": {
    "n": "Zagabria, Croazia",
    "p": [
@@ -7613,13 +10021,6 @@ window.EDIZIONI["2026-10-11"] = {
    ],
    "pt": []
   },
-  "z29264ec4": {
-   "n": "Panama",
-   "p": [
-    "Panama"
-   ],
-   "pt": []
-  },
   "z8e022054": {
    "n": "Singapore",
    "p": [
@@ -7875,13 +10276,6 @@ window.EDIZIONI["2026-10-11"] = {
    "n": "Lagos",
    "p": [
     "Nigeria"
-   ],
-   "pt": []
-  },
-  "ze9111979": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -8391,13 +10785,6 @@ window.EDIZIONI["2026-10-11"] = {
    ],
    "pt": []
   },
-  "z39727d32": {
-   "n": "Mardan",
-   "p": [
-    "Pakistan"
-   ],
-   "pt": []
-  },
   "z12ad27c3": {
    "n": "Maroua",
    "p": [
@@ -8663,15 +11050,659 @@ window.EDIZIONI["2026-10-11"] = {
     "Mauritania"
    ],
    "pt": []
+  },
+  "z940d832d": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z7836f495": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia",
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z037e973c": {
+   "n": "Golfo di Oman",
+   "p": [
+    "Iran",
+    "Oman"
+   ],
+   "pt": []
+  },
+  "z5a0e8a2c": {
+   "n": "Kalimantan occidentale",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "z8b4575c2": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zf19946ce": {
+   "n": "Tennessee",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z234504d3": {
+   "n": "Indonesia",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "zfed4f13c": {
+   "n": "Tuen Mun, Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zf494be11": {
+   "n": "Durban",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "ze95b77dd": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z1f1a1832": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z916a617e": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z5a006d76": {
+   "n": "Francoforte",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z8421c227": {
+   "n": "Repubblica Democratica del Congo orientale",
+   "p": [
+    "Dem. Rep. Congo",
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z8b2e7979": {
+   "n": "Curlandia",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "zee65de6a": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zc8f30f23": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z36cb83bb": {
+   "n": "Guinea-Bissau",
+   "p": [
+    "Guinea-Bissau"
+   ],
+   "pt": []
+  },
+  "z59a5d4b4": {
+   "n": "Cleveland",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zfcbc5794": {
+   "n": "Amazzonia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z3276ae0d": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z6f57e8f4": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5927234c": {
+   "n": "Tsada",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z6e314539": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "zdde57206": {
+   "n": "Canale della Manica",
+   "p": [
+    "United Kingdom",
+    "France"
+   ],
+   "pt": []
+  },
+  "z3d91ea38": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze77764a5": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc42f71c8": {
+   "n": "Mogadiscio",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z9d94cf65": {
+   "n": "Parco nazionale di Etosha",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "za218ecb4": {
+   "n": "East Rutherford, New Jersey",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zca4ee774": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zce06817d": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z39ce7e77": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z85bd1c7b": {
+   "n": "San Lorenzo de El Escorial",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z497a9db3": {
+   "n": "Toscana",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z500d2307": {
+   "n": "Alta Savoia",
+   "p": [
+    "France",
+    "Italy",
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zb5b7c632": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z00433380": {
+   "n": "Belgio",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z878d29cf": {
+   "n": "Bollnäs",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zdef6debe": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zf3f1a7ec": {
+   "n": "Lago Los Molinos",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zc408e42e": {
+   "n": "Delta del Po",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8a370f88": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4523cf68": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zcf49eb5d": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z6e4dbb4f": {
+   "n": "Slovenia",
+   "p": [
+    "Slovenia"
+   ],
+   "pt": []
+  },
+  "zdc1f6bcd": {
+   "n": "Russia",
+   "p": [
+    "Russia",
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "z78791d19": {
+   "n": "Paesi Bassi e Belgio",
+   "p": [
+    "Netherlands",
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zc75f3a6c": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z1c50b1e9": {
+   "n": "Libia",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "z7cb3f6ab": {
+   "n": "Cuba orientale",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "zf89888ad": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zbd6ef6c1": {
+   "n": "Repubblica Democratica del Congo e Monaco",
+   "p": [
+    "Dem. Rep. Congo",
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "zf58d9afe": {
+   "n": "Khyber Pakhtunkhwa",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "za30c1b99": {
+   "n": "Gambia",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "z79be83b2": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2e3d46f7": {
+   "n": "Guinea",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zc7e2c8ed": {
+   "n": "Lituania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z77eece90": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z19250b86": {
+   "n": "Skopje",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "z73632ebb": {
+   "n": "Europa",
+   "p": [
+    "Netherlands",
+    "Germany",
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z82505051": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zb03ca158": {
+   "n": "Debrecen",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "z8d95cc66": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zefde2e17": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zbe6063e5": {
+   "n": "Rasuwa e Nuwakot",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z6093d19f": {
+   "n": "Delta del Mekong",
+   "p": [
+    "Vietnam"
+   ],
+   "pt": []
+  },
+  "z0cbbc1c0": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z12088445": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze967cb3c": {
+   "n": "Putrajaya",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z5bcad7d8": {
+   "n": "Esch-sur-Alzette",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "z32d72547": {
+   "n": "Bosnia ed Erzegovina",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z7c4db064": {
+   "n": "Malësia e Madhe e Përmet",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z8e96b830": {
+   "n": "Valico di Jaber",
+   "p": [
+    "Jordan"
+   ],
+   "pt": []
+  },
+  "zc47ecb22": {
+   "n": "Sri Lanka",
+   "p": [
+    "Sri Lanka"
+   ],
+   "pt": []
+  },
+  "z43c83c6c": {
+   "n": "Ginevra",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zb8d72e7a": {
+   "n": "St. George's",
+   "p": [
+    "Grenada"
+   ],
+   "pt": []
+  },
+  "z0f2ec607": {
+   "n": "Camerun",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z46ae13b3": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z828057a5": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zf4a22273": {
+   "n": "Tonosí",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "zd233a559": {
+   "n": "Miami-Dade",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8cff4e88": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "zdd8ce56b": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "zb9496c12": {
+   "n": "Algeri",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "zaa79ca44": {
+   "n": "São Tomé",
+   "p": [
+    "São Tomé and Principe"
+   ],
+   "pt": []
+  },
+  "z095afaba": {
+   "n": "Luanda",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "zd04f39d3": {
+   "n": "Ningbo",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z31019151": {
+   "n": "Isole Salomone",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
+  },
+  "z944f4712": {
+   "n": "Huraa",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z3f7d3591": {
+   "n": "Mandalika",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
-  "riyadh": 3,
   "trumpkiev": 3,
-  "panama": 2,
   "nepal": 2,
   "doj": 2,
-  "gulfoman": 2,
   "eritrea": 2,
   "baidoa": 2,
   "delhi": 2,
@@ -8680,7 +11711,6 @@ window.EDIZIONI["2026-10-11"] = {
   "yandex": 2,
   "zef96e951": 1,
   "z65adaf2f": 2,
-  "z29264ec4": 1,
   "z8e022054": 1,
   "z425b3264": 1,
   "z58a53f8f": 1,
@@ -8720,7 +11750,6 @@ window.EDIZIONI["2026-10-11"] = {
   "z792fd5e5": 1,
   "z15e548d4": 1,
   "z54ee04c5": 1,
-  "ze9111979": 2,
   "z7da09263": 1,
   "zcd5e7ed0": 1,
   "zb7ed4ffc": 1,
@@ -8731,7 +11760,7 @@ window.EDIZIONI["2026-10-11"] = {
   "z051fc59c": 1,
   "z437e3487": 1,
   "zbd590530": 1,
-  "z9a477ac0": 1,
+  "z9a477ac0": 2,
   "z0a188429": 1,
   "zd3b1c91d": 1,
   "ze5a20dbd": 1,
@@ -8795,7 +11824,6 @@ window.EDIZIONI["2026-10-11"] = {
   "z0f5c43b4": 1,
   "zba5b2473": 1,
   "zdb2d9077": 1,
-  "z39727d32": 1,
   "z12ad27c3": 1,
   "ze27cb949": 1,
   "zcbd5c694": 1,
@@ -8834,7 +11862,98 @@ window.EDIZIONI["2026-10-11"] = {
   "zbc92057c": 1,
   "z9867fe64": 1,
   "z7ef97c47": 1,
-  "vinicius": 2
+  "vinicius": 2,
+  "z940d832d": 2,
+  "z7836f495": 2,
+  "z037e973c": 2,
+  "z5a0e8a2c": 1,
+  "z8b4575c2": 1,
+  "zf19946ce": 1,
+  "z234504d3": 1,
+  "zfed4f13c": 1,
+  "zf494be11": 1,
+  "ze95b77dd": 1,
+  "z1f1a1832": 1,
+  "z916a617e": 1,
+  "z5a006d76": 1,
+  "z8421c227": 2,
+  "z8b2e7979": 1,
+  "zee65de6a": 1,
+  "zc8f30f23": 1,
+  "z36cb83bb": 1,
+  "z59a5d4b4": 1,
+  "zfcbc5794": 1,
+  "z3276ae0d": 1,
+  "z6f57e8f4": 1,
+  "z5927234c": 1,
+  "z6e314539": 1,
+  "zdde57206": 1,
+  "z3d91ea38": 2,
+  "ze77764a5": 1,
+  "zc42f71c8": 2,
+  "z9d94cf65": 1,
+  "za218ecb4": 1,
+  "zca4ee774": 1,
+  "zce06817d": 2,
+  "z39ce7e77": 1,
+  "z85bd1c7b": 1,
+  "z497a9db3": 1,
+  "z500d2307": 1,
+  "zb5b7c632": 1,
+  "z00433380": 1,
+  "z878d29cf": 1,
+  "zdef6debe": 2,
+  "zf3f1a7ec": 1,
+  "zc408e42e": 1,
+  "z8a370f88": 1,
+  "z4523cf68": 1,
+  "zcf49eb5d": 1,
+  "z6e4dbb4f": 2,
+  "zdc1f6bcd": 2,
+  "z78791d19": 1,
+  "zc75f3a6c": 1,
+  "z1c50b1e9": 1,
+  "z7cb3f6ab": 1,
+  "zf89888ad": 1,
+  "zbd6ef6c1": 1,
+  "zf58d9afe": 2,
+  "za30c1b99": 1,
+  "z79be83b2": 1,
+  "z2e3d46f7": 1,
+  "zc7e2c8ed": 1,
+  "z77eece90": 1,
+  "z19250b86": 1,
+  "z73632ebb": 1,
+  "z82505051": 1,
+  "zb03ca158": 1,
+  "z8d95cc66": 2,
+  "zefde2e17": 1,
+  "zbe6063e5": 1,
+  "z6093d19f": 1,
+  "z0cbbc1c0": 1,
+  "z12088445": 1,
+  "ze967cb3c": 1,
+  "z5bcad7d8": 1,
+  "z32d72547": 1,
+  "z7c4db064": 1,
+  "z8e96b830": 1,
+  "zc47ecb22": 1,
+  "z43c83c6c": 1,
+  "zb8d72e7a": 1,
+  "z0f2ec607": 1,
+  "z46ae13b3": 1,
+  "z828057a5": 1,
+  "zf4a22273": 2,
+  "zd233a559": 1,
+  "z8cff4e88": 1,
+  "zdd8ce56b": 1,
+  "zb9496c12": 1,
+  "zaa79ca44": 1,
+  "z095afaba": 1,
+  "zd04f39d3": 1,
+  "z31019151": 1,
+  "z944f4712": 1,
+  "z3f7d3591": 1
  },
  "video": {},
  "pillole": [
