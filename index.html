@@ -491,6 +491,7 @@ details.dd .dd-p button{text-align:left;width:100%;margin:0}
 .ora-pub{position:absolute;top:-10px;right:10px;z-index:3;font:700 10.5px var(--sans);letter-spacing:.04em;padding:3px 9px;border-radius:99px;background:var(--card);color:var(--muted);border:1px solid var(--hair);box-shadow:0 2px 6px rgba(0,0,0,.18);cursor:help}
 .eye .uscita{font:800 10px var(--sans);letter-spacing:.06em;padding:2px 7px;border-radius:99px;background:#2b2f52;color:#f4efcf;border:1px solid #8b90c8;white-space:nowrap}
 .eye .uscita.u-mattino{background:#f4e3a6;color:#4a3a00;border-color:#d8b94a}
+.eye .uscita.tag-top{background:#7a1f2b;color:#fff;border-color:#b0434f}
 .eye .uscita.u-13{background:#cfeccf;color:#134a1c;border-color:#5fae6a}
 .eye .uscita.u-17{background:#ffd9b3;color:#6a2f00;border-color:#e08a3c}
 .eye .uscita.u-sera{background:#2b2f52;color:#f4efcf;border-color:#8b90c8}
@@ -1019,7 +1020,7 @@ function cardHTML(n){
   return `<article style="--tn:${coloreN(nazioneDi(n).chiave)}" class="card p-${p} r${rilievo(n)}${n.sera?" sera":""}${n.good?" good":""}${letti.has(n.id)?" read":""}${nascoste.has(kn(n))?" nascosta":""}" data-id="${n.id}" data-p="${p}" tabindex="0" aria-expanded="false">
     <div class="naz-big" aria-hidden="true">${bandiera(nazioneDi(n).chiave,40,"flag-s")}${esc(nazioneDi(n).nome)}</div>
     ${(()=>{ const o = oraTestata(fa); return o ? `<span class="ora-pub" title="${esc(o.dettaglio)}">🕒 ${esc(o.testo)}</span>` : ""; })()}
-    <div class="eye">${(()=>{ const L = LUOGHI[n.id], ev = L && (L.p||[])[0], atl0 = f0.atlas||CITTA_PAESE[f0.c];
+    <div class="eye">${n.top ? `<span class="uscita tag-top" title="Notizia da prima pagina, presente anche nella sua sezione">★ Prima pagina · ${esc((SEZIONI.find(x=>x.id===n.sez)||{}).nome||n.sez)}</span>` : ""}${(()=>{ const L = LUOGHI[n.id], ev = L && (L.p||[])[0], atl0 = f0.atlas||CITTA_PAESE[f0.c];
       const chip = ev ? bandiera(ev,80,"flag-m")+esc(nomePaese(ev)) : (L ? esc(L.n) : bandiera(atl0,80,"flag-m")+esc(nPaese));
       return `<span class="nat evento" title="Il Paese di cui si parla">${chip}</span><span class="where" title="Chi scrive: il punto di vista">${esc(f0.n)} · ${esc(f0.c)}${multi?" +"+(fa.length-1):""} ${bandiera(atl0,40,"flag-s flag-r")}</span>${(()=>{ const u = USCITE[uscitaDi(n)]; return `<span class="uscita u-${uscitaDi(n)}" title="${u[1]}">${u[0]}</span>`; })()}${L&&ev?`<span class="dove" title="Dove accade il fatto">${esc(L.n)}</span>`:""}`; })()}${n.good?`<span class="buona" title="Buona notizia">☀ Buona notizia</span>`:""}${(()=>{ const v = verificaDi(n); return `<span class="verifica ${v.cl}" title="${esc(v.t)}">${v.s}<small>${v.cl==="v0"?" fonte unica":""}</small></span>`; })()}${rilievo(n)>=2?`<span class="stelle" title="${rilievo(n)===3?"Da non perdere":"Importante"}">${"★".repeat(rilievo(n))}</span>`:""}</div>
     ${n.sub&&SUB[n.sub]?`<div class="subtag" style="--sc:${SUB[n.sub][2]}"><span aria-hidden="true">${SUB[n.sub][0]}</span> ${SUB[n.sub][1]}</div>`:""}
@@ -1036,7 +1037,7 @@ function visibile(n){
   if(!n.fonti.some(f=>!offFonti.has(f.n))) return false;
   if(soloImportanti && rilievo(n)<2) return false;
   if(soloBuone && !n.good) return false;
-  if(filtroSezione && n.sez!==filtroSezione) return false;
+  if(filtroSezione && n.sez!==filtroSezione && !(filtroSezione==="prima" && n.top)) return false;
   if(filtroSub && n.sez==="adolescenti" && n.sub!==filtroSub) return false;
   if(filtroNazione && !toccaPaese(n,filtroNazione)) return false;
   if(filtroPaese && !n.fonti.some(f=>f.p===filtroPaese)) return false;
@@ -1072,7 +1073,7 @@ function render(){
     if(offTemi.has(s.id)) continue;
     if(s.id==="eventi"){ const h = eventiHTML(s); if(h) parti.push({full:filtroSezione==="eventi", html:h}); continue; }
     if(s.id==="meteo"){ const h = meteoHTML(s); if(h){ parti.push({full:filtroSezione==="meteo", html:h}); } continue; }   // il meteo è una tabella di dati, non un elenco di notizie
-    const items = NEWS.filter(n=>n.sez===s.id && visibile(n));
+    const items = NEWS.filter(n=>(n.sez===s.id || (s.id==="prima" && n.top)) && visibile(n));      // le notizie con n.top compaiono anche in prima pagina (doppia etichetta)
     const itaPrima = (s.id!=="prima" && s.id!=="italia");
     items.sort((a,b)=> (itaPrima ? riguardaItalia(b)-riguardaItalia(a) : 0) || (b.ora||"").localeCompare(a.ora||""));   // prima le notizie che riguardano l'Italia, poi le piu recenti per ora (senza ora in fondo; a pari ora l'ordine non cambia)
     if(!items.length) continue; tot+=items.length;
@@ -1874,7 +1875,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261011-1730";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261011-1838";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2089,7 +2090,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261011-1730";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261011-1838";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
