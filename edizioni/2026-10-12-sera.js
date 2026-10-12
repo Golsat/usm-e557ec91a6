@@ -3,6 +3,1747 @@ window.EDIZIONI["2026-10-12-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "za2411032",
+   "sez": "sport",
+   "titolo": "Beach soccer: la sfida tra Burundi e Uganda a Nyabugete",
+   "orig": "Beach Soccer. Quand le sable de Nyabugete prit feu",
+   "lead": "Sabato 10 ottobre 2026, sul campo di sabbia dell'Olympe Africa a Nyabugete, si è disputata un'intensa ed emozionante partita di beach soccer tra le selezioni nazionali di due Paesi confinanti. A confrontarsi sul terreno di gioco sono state la formazione del Burundi, nota con il soprannome di Intamba Mu Rugamba ovvero le Rondini, e la rappresentativa dell'Uganda, conosciuta come i Cranes, scesa in campo con grande rigore e determinazione agonistica per contendersi la vittoria in un incontro sportivo molto sentito. Lo riferisce Iwacu.",
+   "more": [
+    "Il beach soccer è una variante del calcio giocata su campi di sabbia, caratterizzata da ritmi veloci, frequenti conclusioni a rete e acrobazie spettacolari. Le dimensioni ridotte del terreno e la superficie irregolare richiedono ai giocatori notevole resistenza fisica, equilibrio e abilità nel controllo del pallone a mezz'aria, rendendo ogni sfida particolarmente dinamica e imprevedibile."
+   ],
+   "fonti": [
+    {
+     "n": "Iwacu",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.iwacu-burundi.org/beach-soccer-quand-le-sable-de-nyabugete-prit-feu/",
+     "angolo": "",
+     "atlas": "Burundi"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3317d77c",
+   "sez": "salute",
+   "titolo": "Presentato un modello aperto di visione e linguaggio per la medicina",
+   "orig": "An open vision-language model for diverse medical applications",
+   "lead": "Sulla rivista scientifica Nature Medicine è stata presentata la realizzazione di un nuovo modello aperto basato sull'interazione tra visione artificiale e linguaggio naturale, sviluppato appositamente per rispondere a molteplici esigenze e applicazioni nel settore medico. Lo strumento informatico ad accesso libero è stato progettato per supportare varie attività in ambito clinico e sanitario, combinando l'analisi computazionale di dati visivi con l'elaborazione testuale per favorire la ricerca e la pratica medica contemporanea attraverso soluzioni tecnologiche accessibili e condivise. Lo riferisce Nature Medicine.",
+   "more": [
+    "I modelli di visione e linguaggio sono sistemi di intelligenza artificiale capaci di elaborare contemporaneamente immagini e testi, interpretando referti, fotografie o scansioni diagnostiche per generare descrizioni cliniche coerenti. La disponibilità di modelli aperti consente a medici, università e ricercatori indipendenti di studiare gli algoritmi, migliorarne l'accuratezza diagnostica e adattarli a specifici contesti terapeutici senza dipendere da piattaforme proprietarie chiuse."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04626-w",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8cdfa76a",
+   "sez": "ingegneria",
+   "titolo": "Blue Origin, PPG e altri gruppi investono in nuovi poli produttivi negli Usa",
+   "orig": "Blue Origin, PPG and more invest in manufacturing facilities",
+   "lead": "Diverse aziende tra cui Blue Origin e PPG stanno stanziando nuovi investimenti in impianti produttivi e manifatturieri negli Stati Uniti. Nel quadro di questo sviluppo industriale, Cleveland-Cliffs ha diffuso un aggiornamento sui lavori di ampliamento dello stabilimento Butler Works in Pennsylvania, mentre la società Xingyu ha annunciato la realizzazione della sua prima struttura statunitense nella Carolina del Nord e Re:Build ha avviato un piano per triplicare la propria capacità produttiva nella Carolina del Sud. Lo riferisce Construction Dive.",
+   "more": [
+    "Gli stabilimenti di produzione avanzata ospitano linee industriali complesse destinate alla lavorazione dei metalli, alla chimica applicata o all'ingegneria aerospaziale. L'ampliamento di tali impianti richiede infrastrutture specializzate, elevata capacità di fornitura energetica e rigorosi requisiti tecnici di costruzione, risultando determinante per rafforzare la catena di approvvigionamento interna e la competitività industriale di un Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/news/blue-origin-ppg-cleveland-cliffs-more-facility-investments/832728/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z163fe352",
+   "sez": "ambiente",
+   "titolo": "Il MoSE protegge Venezia ma minaccia le barene: allo studio il sistema AThOS",
+   "orig": "Il MoSE protegge Venezia, ma riduce l’inondazione delle barene: lo studio sulla laguna e il sistema AThOS",
+   "lead": "Il sistema di barriere mobili MoSE svolge un ruolo fondamentale nel proteggere Venezia dalle maree più elevate, ma le sue attivazioni riducono l'inondazione delle barene e compromettono l'apporto dei sedimenti indispensabili alla loro sopravvivenza e crescita. Uno studio scientifico ha analizzato l'impatto delle paratoie sull'equilibrio ecologico della laguna veneta, spingendo i ricercatori a vagliare strategie alternative come il sistema AThOS, ideato per limitare la frequenza delle chiusure e tutelare l'ecosistema lagunare. Lo riferisce Geopop.",
+   "more": [
+    "Le barene sono formazioni tipiche delle lagune, costituite da isolotti bassi periodicamente sommersi dalle maree che ospitano una ricca biodiversità vegetale e animale. Queste strutture naturali agiscono come barriere frangiflutto, attenuando l'energia del moto ondoso e intrappolando sedimenti e carbonio, elementi essenziali per contrastare l'erosione costiera e mantenere stabile l'intero bacino idrografico lagunare."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/il-mose-protegge-venezia-ma-riduce-linondazione-delle-barene-lo-studio-sulla-laguna-e-il-sistema-athos/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z656ed0cf",
+   "sez": "sport",
+   "titolo": "Bayern Monaco: Neuer out a Stavanger, tocca a Urbig tra i pali",
+   "orig": "FC Bayern in Stavanger: „Manu hat was am Fuß gespürt“",
+   "lead": "Il portiere del Bayern Monaco Manuel Neuer sarà costretto a saltare la sfida di Champions League in trasferta contro i norvegesi del Viking Stavanger a causa di un problema riscontrato al piede, lasciando il posto tra i pali al compagno Jonas Urbig. In vista della trasferta norvegese, la squadra bavarese si trova ad affrontare anche la particolarità del terreno di gioco in erba sintetica, un fattore che fa discutere alla vigilia ma che il club non intende usare come alibi. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "La UEFA Champions League è la principale competizione calcistica europea per squadre di club, nella quale i minimi dettagli fisici e ambientali incidono sull'esito delle partite. I campi in erba artificiale presentano caratteristiche di rimbalzo del pallone e sollecitazioni articolari differenti rispetto ai tradizionali manti erbosi naturali, richiedendo un rapido adattamento da parte degli atleti professionisti abituati a superfici classiche."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/sport/fc-bayern-muenchen-champions-league-manuel-neuer-jonas-urbig-vincent-kompany-viking-stavanger-li.3562686",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdb6c94e1",
+   "sez": "economia",
+   "titolo": "L'Iran intensifica gli attacchi nello Stretto di Hormuz e il petrolio supera i 100 dollari",
+   "orig": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping",
+   "lead": "L'Iran ha intensificato gli attacchi contro le petroliere in transito nello Stretto di Hormuz e nel Golfo Persico nel tentativo di riaffermare la propria influenza strategica su questa rotta marittima fondamentale. Dalla fine di settembre sono stati registrati oltre dodici raid contro il naviglio commerciale, una serie di assalti che ha ridotto significativamente il volume di petrolio trasportato attraverso lo stretto e spinto le quotazioni internazionali del greggio a stabilizzarsi stabilmente al di sopra dei cento dollari al barile. Lo riferisce Egypt Independent.",
+   "more": [
+    "Lo Stretto di Hormuz è uno dei nodi geografici ed energetici più strategici al mondo, attraverso cui transita circa un quinto del fabbisogno globale di greggio. La conformazione stretta del passaggio marittimo tra la penisola araba e l'Iran rende le navi commerciali particolarmente vulnerabili a sabotaggi, droni e missili, provocando immediate impennate nei costi assicurativi di navigazione e sui mercati petroliferi."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/after-oil-increasingly-left-the-gulf-iran-is-trying-to-regain-its-stranglehold-on-shipping/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8ecb5a10",
+   "sez": "ingegneria",
+   "titolo": "Al via in Texas i lavori per un cantiere navale militare da 3,2 miliardi",
+   "orig": "JE Dunn-Alberici JV breaks ground on $3.2B Texas shipyard",
+   "lead": "La joint venture formata dalle società di costruzioni JE Dunn e Alberici ha avviato i lavori per la realizzazione di un nuovo cantiere navale dal valore di 3,2 miliardi di dollari in Texas. L'infrastruttura, sviluppata su un sito completamente vergine per conto dell'appaltatore militare Saronic, rappresenta il primo stabilimento di cantieristica navale di questa tipologia costruito ex novo negli Stati Uniti dai tempi della Seconda guerra mondiale, stando a quanto dichiarato dalle aziende costruttrici. Lo riferisce Construction Dive.",
+   "more": [
+    "Un progetto greenfield indica la costruzione di un'opera su un terreno precedentemente non urbanizzato o privo di insediamenti industriali, richiedendo la realizzazione da zero di collegamenti, reti di servizio ed edifici. Nel settore navale della difesa, simili cantieri integrano bacini di carenaggio, gru pesanti e tecnologie avanzate per assemblare e collaudare scafi destinati a missioni marittime complesse."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/news/je-dunn-alberici-jv-breaks-ground-texas-shipyard/832709/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5abe92d5",
+   "sez": "viaggi",
+   "titolo": "L'Hotel Morava sui monti Tatra riapre come albergo a quattro stelle",
+   "orig": "Not everyone could holiday in the Tatras under communism. The story of Hotel Morava",
+   "lead": "L'Hotel Morava, celebre struttura ricettiva situata sui monti Tatra che durante l'epoca della Cecoslovacchia comunista operava come popolare centro di villeggiatura per i sindacati, ha ufficialmente riaperto le proprie porte al pubblico trasformato in un albergo a quattro stelle. L'edificio storico, un tempo riservato a selezionati soggiorni per lavoratori autorizzati sotto il regime, è stato completamente rinnovato per offrire un'accoglienza turistica moderna, inaugurando una nuova fase ricettiva nell'iconica catena montuosa slovacca. Lo riferisce The Slovak Spectator.",
+   "more": [
+    "I monti Tatra rappresentano la sezione più elevata dei Carpazi lungo il confine tra Slovacchia e Polonia, costituendo una primaria meta turistica per l'escursionismo e gli sport invernali. Durante il periodo socialista, molte strutture montane fungevano da case di cura o centri ricreativi gestiti direttamente dai sindacati statali, offrendo soggiorni convenzionati ai lavoratori nell'ambito delle politiche sociali del tempo."
+   ],
+   "fonti": [
+    {
+     "n": "The Slovak Spectator",
+     "p": "XX",
+     "c": "Bratislava",
+     "u": "https://spectator.sme.sk/business/c/hotel-morava-high-tatras-communist-era-holidays-renovation?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss",
+     "angolo": "",
+     "atlas": "Slovakia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf2da4a36",
+   "sez": "salute",
+   "titolo": "Celltrion presenta nuovi dati su Zymfentra per Crohn e colite ulcerosa",
+   "orig": "Celltrion to Present New Analyses of ZYMFENTRA® (infliximab-dyyb) in Crohn’s Disease and Ulcerative Colitis at ACG 2026",
+   "lead": "L'azienda farmaceutica Celltrion presenterà al congresso medico ACG 2026 nuove analisi cliniche sul farmaco Zymfentra a base di infliximab per il trattamento della malattia di Crohn e della colite ulcerosa. I nuovi dati evidenziano risultati favorevoli con la somministrazione sottocutanea di infliximab dopo l'interruzione della terapia endovenosa nei pazienti adulti affetti da forme moderate o gravi, evidenziando inoltre tassi significativamente superiori di remissione clinica e un netto miglioramento degli esiti endoscopici nei soggetti con malattia di Crohn localizzata prevalentemente all'ileo. Lo riferisce The Laotian Times.",
+   "more": [
+    "La malattia di Crohn e la colite ulcerosa sono patologie infiammatorie croniche dell'apparato digerente che provocano lesioni tissutali, dolori addominali e disturbi gastrointestinali debilitanti. L'infliximab è un farmaco biologico che agisce bloccando specifiche proteine pro-infiammatorie; la disponibilità di formulazioni somministrabili per via sottocutanea anziché endovenosa facilita le terapie domiciliari e migliora l'aderenza al trattamento a lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "The Laotian Times",
+     "p": "XX",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/12/celltrion-to-present-new-analyses-of-zymfentra-infliximab-dyyb-in-crohns-disease-and-ulcerative-colitis-at-acg-2026/",
+     "angolo": "",
+     "atlas": "Laos"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z64cfc114",
+   "sez": "cultura",
+   "titolo": "In Burkina Faso il film «Mia» di Hana Halia Lebo Traoré vince il premio della critica",
+   "orig": "Burkina/Cinéma : « Mia » de Hana Halia Lebo Traoré remporte le Prix de la critique de l'ASCRIC-B",
+   "lead": "Il cortometraggio di finzione intitolato «Mia», realizzato dalla giovane regista burkinabé Hana Halia Lebo Traoré, ha conquistato il Premio della critica cinematografica del Burkina Faso, conferito dall'Associazione dei critici di cinema del Paese (ASCRIC-B). Il riconoscimento è stato assegnato nel contesto dell'ottava edizione della Settimana della critica di cinema di Ouagadougou, una rassegna che durante la cerimonia conclusiva ha reso omaggio a tre giovani registe emergenti le cui opere erano state selezionate per concorrere nella prestigiosa competizione artistica. Lo riferisce Lefaso.net.",
+   "more": [
+    "Il Burkina Faso vanta una radicata tradizione cinematografica nell'Africa subsahariana, ospitando da decenni festival internazionali di primo piano e promovendo le nuove voci della cinematografia continentale. Le settimane della critica e le associazioni di saggisti svolgono un ruolo chiave nello scoprire talenti emergenti, favorire la produzione di cortometraggi indipendenti e diffondere il cinema d'autore presso il grande pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article149920",
+     "angolo": "",
+     "atlas": "Burkina Faso"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2cafdb56",
+   "sez": "tech",
+   "titolo": "Google offre un anno di Gemini AI Plus gratuito agli studenti in Uzbekistan",
+   "orig": "Google offers Uzbek students one year of free Gemini AI Plus access.",
+   "lead": "Gli studenti universitari in Uzbekistan hanno la possibilità di ottenere un abbonamento gratuito della durata di un anno al piano Gemini AI Plus offerto da Google. Questa iniziativa tecnologica consente agli iscritti agli atenei uzbeki di usufruire di un accesso ampliato ai vari strumenti di intelligenza artificiale sviluppati dal colosso di Mountain View, oltre a includere una quota di quattrocento gigabyte di spazio di archiviazione in cloud per facilitare lo studio e le attività accademiche. Lo riferisce Kun.uz (inglese).",
+   "more": [
+    "L'archiviazione in cloud e i modelli linguistici di intelligenza artificiale integrati consentono agli studenti di redigere testi, analizzare dati complessi ed eseguire ricerche bibliografiche avanzate da qualsiasi dispositivo connesso a Internet. L'accesso a quote estese di memoria digitale permette inoltre di conservare documenti di studio, presentazioni e materiali didattici multimediali in modo sicuro e costantemente sincronizzato."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/12/google-offers-uzbek-students-one-year-of-free-gemini-ai-plus-access",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc024d3dd",
+   "sez": "sport",
+   "titolo": "Coppa di Francia: sospesa Beausoleil contro St-Didier per mortai pirotecnici",
+   "orig": "Match de Coupe de France arrêté à Beausoleil : que s’est-il réellement passé au stade André-Vanco ce dimanche ?",
+   "lead": "La partita valida per la Coppa di Francia tra il FC Beausoleil e la formazione del St-Didier/Pernes è stata definitivamente interrotta domenica 11 ottobre 2026 allo stadio André-Vanco a causa del lancio di mortai pirotecnici. Il provvedimento arbitrale di sospendere il match ha suscitato forti proteste da parte della dirigenza e dell'allenatore della squadra di Beausoleil, che hanno espresso vivo rammarico giudicando inaccettabile lo stop e respingendo ogni tipo di responsabilità diretta per i disordini verificatisi sugli spalti. Lo riferisce Monaco Matin.",
+   "more": [
+    "La Coppa di Francia è la storica competizione calcistica a eliminazione diretta aperta sia a formazioni dilettantistiche sia a club professionistici, con incontri disputati su campi locali spesso gremiti di tifosi. I regolamenti federali impongono agli arbitri l'interruzione immediata delle partite in caso di lancio di petardi o materiale pirotecnico che metta a rischio l'incolumità fisica di giocatori, ufficiali di gara e spettatori."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/faits-divers/match-de-coupe-de-france-arrete-a-beausoleil-que-s-est-il-reellement-passe-au-stade-andre-vanco-ce-dimanche-10740006",
+     "angolo": "",
+     "atlas": "Monaco"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z318f981d",
+   "sez": "ingegneria",
+   "titolo": "Fisk Electric vince una commessa modulare da 24 milioni per un data center a Houston",
+   "orig": "Fisk Electric wins $24M modular contract for Houston data center",
+   "lead": "La società Fisk Electric, controllata del gruppo Tutor Perini, si è aggiudicata una commessa da ventiquattro milioni di dollari per la fornitura di soluzioni modulari destinate a un data center a Houston. Questo nuovo incarico commerciale riflette lo spostamento strategico delle priorità dell'appaltatore di grandi opere civili verso il settore delle infrastrutture informatiche, una transizione verso il mercato dei centri elaborazione dati che i vertici aziendali avevano evidenziato anche nel corso delle recenti comunicazioni finanziarie trimestrali. Lo riferisce Construction Dive.",
+   "more": [
+    "I data center sono complessi edilizi tecnologici dedicati all'alloggiamento di migliaia di server e apparati di rete per la memorizzazione e l'elaborazione di flussi informatici globali. La costruzione modulare prevede l'assemblaggio di componenti elettrici e di condizionamento prefabbricati, riducendo i tempi di cantiere e garantendo la continuità energetica richiesta da carichi computazionali costanti."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/news/fisk-electric-tutor-perini-data-center-modular/832658/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1dad796a",
+   "sez": "tech",
+   "titolo": "In Uzbekistan il settore delle comunicazioni e dell'IT cresce del 21,2%",
+   "orig": "Uzbekistan’s communications and IT services grow by 21.2%",
+   "lead": "I servizi di comunicazione e di tecnologia dell'informazione in Uzbekistan hanno fatto registrare un incremento del 21,2 per cento su base annua nel periodo compreso tra gennaio e agosto 2026. Secondo quanto certificato dalle statistiche ufficiali del Paese asiatico, il volume economico generato dal comparto digitale ha raggiunto la cifra complessiva di 71,4 mila miliardi di sum, confermando una fase di marcata espansione per le telecomunicazioni e i servizi informatici nell'economia nazionale uzbeka nel corso dell'anno. Lo riferisce UzDaily.",
+   "more": [
+    "Il settore delle tecnologie dell'informazione comprende servizi digitali, reti di telecomunicazione, sviluppo software e gestione delle infrastrutture informatiche aziendali. La rapida crescita di questo comparto nei mercati emergenti sostiene la modernizzazione delle amministrazioni pubbliche, attira investimenti esteri specializzati e crea opportunità occupazionali qualificate per giovani programmatori e tecnici della connettività di rete."
+   ],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistans-communications-and-it-services-grow-by-212/",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z619770f0",
+   "sez": "viaggi",
+   "titolo": "Il Gambia apre la stagione turistica invernale con il primo volo da Londra",
+   "orig": "GTBoard expects strong tourism season as Gambia Experience opens season",
+   "lead": "Il Gambia Tourism Board guarda con ottimismo alla stagione turistica invernale 2026/2027 dopo l'atterraggio del primo volo charter diretto operato da The Gambia Experience da Londra. L'aeromobile, giunto all'aeroporto internazionale di Banjul con a bordo centotrentanove passeggeri nel pomeriggio di venerdì 9 ottobre 2026, ha inaugurato ufficialmente le attività ricettive nel Paese. I visitatori sono stati accolti dal direttore generale dell'ente turistico Ida Jeng-Njie, dai funzionari dell'aviazione civile e da operatori del settore tra esibizioni culturali. Le autorità prevedono un periodo favorevole sostenuto dall'aumento dei collegamenti aerei. Lo riferisce The Point.",
+   "more": [
+    "Il Gambia Tourism Board è l'organismo governativo incaricato di promuovere e sviluppare il comparto dei viaggi nel Paese dell'Africa occidentale. Il turismo costituisce un settore chiave per l'economia nazionale, alimentato in particolare dai flussi di viaggiatori europei attratti dalle località costiere durante la stagione invernale."
+   ],
+   "fonti": [
+    {
+     "n": "The Point",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://thepoint.gm/africa/gambia/headlines/gtboard-expects-strong-tourism-season-as-gambia-experience-opens-season",
+     "angolo": "",
+     "atlas": "Gambia"
+    },
+    {
+     "n": "Foroyaa",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://foroyaa.net/gambia-welcomes-first-tourists-of-2026-27-season-as-industry-eyes-recovery-and-growth/",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "za2fca8df",
+   "sez": "sport",
+   "titolo": "Fifa, la possibile candidatura di Arsène Wenger insidia la rielezione di Infantino",
+   "orig": "La réélection de Gianni Infantino est menacée par la candidature surprise d’Arsène Wenger !",
+   "lead": "La corsa per la presidenza del calcio mondiale potrebbe registrare una svolta imprevista di fronte alla possibile discesa in campo di Arsène Wenger. L'ex allenatore francese viene indicato come una credibile alternativa in un momento in cui l'attuale presidente della Fifa, Gianni Infantino, deve fronteggiare un malcontento sempre più diffuso e una crescente opposizione all'interno del panorama calcistico internazionale, elementi che rischiano di complicare i suoi piani per una riconferma ai vertici della federazione. Lo riferisce Seneweb.",
+   "more": [
+    "La Fédération Internationale de Football Association governa il calcio mondiale e ne organizza i principali tornei, compresa la Coppa del Mondo. L'elezione presidenziale determina le linee strategiche, commerciali e regolamentari che orientano l'intero movimento sportivo e i rapporti con le federazioni continentali e nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/la-reelection-de-gianni-infantino-est-menacee-par-la-candidature-surprise-darsene-wenger_n_999000477.html",
+     "angolo": "",
+     "atlas": "Senegal"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0bc58d0b",
+   "sez": "viaggi",
+   "titolo": "A Kannur debutta il bus a due piani per i tour urbani durante il Dasara",
+   "orig": "Kannur Corporation introduces double-decker bus for sightseeing during Dasara",
+   "lead": "La Kannur Corporation, in cooperazione con l'unità per il turismo a basso costo della KSRTC, ha attivato un servizio speciale di autobus a due piani dedicato alle visite turistiche in occasione dei festeggiamenti del Dasara. L'iniziativa resterà operativa per una durata complessiva di dieci giorni, offrendo a residenti e viaggiatori la possibilità di ammirare le decorazioni festive e le luminarie scenografiche allestite lungo le vie della città. Gli organizzatori hanno precisato che un'eventuale proroga del percorso panoramico sarà valutata sulla base dell'accoglienza e della domanda del pubblico. Lo riferisce The Hindu.",
+   "more": [
+    "Il Dasara è una delle festività tradizionali più celebrate in India, caratterizzata da riti religiosi, eventi folcloristici, cortei e allestimenti luminosi urbani. Durante questo periodo molte municipalità organizzano servizi speciali di trasporto e percorsi dedicati per agevolare gli spostamenti e promuovere le attrattive locali."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/kannur-corporation-introduces-double-decker-bus-for-sightseeing-during-dasara/article71575775.ece",
+     "angolo": "",
+     "atlas": "India"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9b8f925c",
+   "sez": "tech",
+   "titolo": "Anthropic, il lavoro di Gurmeet Saran per garantire l'affidabilità di Claude",
+   "orig": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+   "lead": "Presso la sede di Anthropic a San Francisco, l'ingegnere Gurmeet Saran lavora allo sviluppo di un'infrastruttura tecnica mirata a comprendere a fondo i meccanismi di funzionamento del chatbot Claude e ad assicurarne la correttezza delle risposte. Membro senior dell'IEEE formatosi in India tra l'Università di Kalyani e il Birla Institute of Technology and Science, Saran si dedica quotidianamente a perfezionare l'architettura dei sistemi per generare risultati attendibili quando gli agenti intelligenti affrontano interrogazioni articolate in tempi estremamente rapidi. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "I modelli linguistici avanzati e gli agenti intelligenti sono progettati per elaborare testi e rispondere a domande complesse analizzando enormi moli di dati. Garantire l'affidabilità delle risposte e comprendere le dinamiche interne dei sistemi rappresenta una delle principali aree di ricerca nell'informatica contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z80bef8ce",
+   "sez": "tech",
+   "titolo": "Le redazioni di Palau adottano l'intelligenza artificiale di Google per sostenere il lavoro",
+   "orig": "Palau Newsrooms Harness Google AI to Tackle Staff Shortages and Streamline Workflows",
+   "lead": "I rappresentanti di tre organizzazioni editoriali di Palau hanno partecipato a Sydney, in Australia, a un seminario intensivo di due giorni organizzato dal Google News AI Lab insieme a professionisti dell'informazione provenienti da tutta l'area del Pacifico. L'incontro formativo si è concentrato sulle applicazioni pratiche degli strumenti basati sull'intelligenza artificiale, concepiti per supportare le piccole redazioni locali nella gestione delle attività giornaliere e dei flussi operativi, offrendo soluzioni tecnologiche concrete per fronteggiare la cronica carenza di personale e migliorare l'efficienza complessiva del settore. Lo riferisce Island Times.",
+   "more": [
+    "L'integrazione di strumenti automatizzati nell'editoria comprende funzioni di supporto alla redazione, elaborazione rapida di dati e ottimizzazione della produzione dei contenuti. Nelle testate locali e con risorse limitate, l'adozione di soluzioni informatiche mira a ridurre i carichi di lavoro ripetitivi preservando la continuità dell'informazione."
+   ],
+   "fonti": [
+    {
+     "n": "Island Times",
+     "p": "XX",
+     "c": "Ngerulmud",
+     "u": "https://islandtimes.org/palau-newsrooms-harness-google-ai-to-tackle-staff-shortages-and-streamline-workflows/",
+     "angolo": "",
+     "atlas": "Palau"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6e9c6ec8",
+   "sez": "viaggi",
+   "titolo": "Barbados lancia il Bajan Harvest Hub per collegare agricoltori e turismo",
+   "orig": "Bajan Harvest Hub to connect farmers with tourism sector",
+   "lead": "Il comparto turistico di Barbados punta a incrementare l'offerta di prodotti agricoli locali all'interno di ristoranti e strutture alberghiere grazie al debutto ufficiale del Bajan Harvest Hub. La nuova piattaforma nasce per collegare in via diretta gli agricoltori del territorio con il settore dell'ospitalità, favorendo una filiera corta che valorizzi il cibo dell'isola e integri maggiormente l'economia primaria con il flusso dei visitatori internazionali, riducendo le intermediazioni e potenziando la presenza di ingredienti autoctoni nelle cucine professionali. Lo riferisce Barbados Today.",
+   "more": [
+    "La cooperazione tra settore agricolo e comparto alberghiero consente ai territori a forte vocazione turistica di trattenere una quota maggiore della spesa economica locale, incentivando le produzioni del territorio e offrendo ai viaggiatori prodotti tipici di filiera corta."
+   ],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/11/bajan-harvest-hub-to-connect-farmers-with-tourism-sector/",
+     "angolo": "",
+     "atlas": "Barbados"
+    },
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/11/food-rum-festival-showcases-home-grown-flavours/",
+     "angolo": "",
+     "atlas": "Barbados"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbfd927f7",
+   "sez": "ingegneria",
+   "titolo": "In Utah la prima centrale geotermica avanzata commerciale avvia le forniture",
+   "orig": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
+   "lead": "La startup Fervo Energy ha avviato l'immissione di elettricità nella rete dal polo Cape Station, situato nello Utah, segnando la prima operatività mondiale su scala industriale per un impianto geotermico di nuova generazione. L'azienda texana ha attivato una prima unità da trentatré megawatt conducendo collaudi e progressivi incrementi di potenza, prima di inaugurare l'attività commerciale per rifornire di energia priva di emissioni di carbonio la società californiana Shell Energy. Il progetto complessivo ha un valore stimato di due miliardi di dollari e prevede di raggiungere una capacità di cinquecento megawatt. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "I sistemi geotermici avanzati sfruttano tecniche ingegneristiche per estrarre calore dal sottosuolo profondo anche in formazioni rocciose prive di fluidi naturali, creando permeabilità artificiale per riscaldare fluidi e alimentare turbine, fornendo energia rinnovabile continua non soggetta a intermittenza meteorologica."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zefdda147",
+   "sez": "mondo",
+   "titolo": "La Dominica celebra la Giornata della Bandiera nazionale con il ministero del Turismo",
+   "orig": "Dominica’s national flag celebrated on Flag Day by Tourism Ministry",
+   "lead": "Il ministero del Turismo della Dominica ha preso parte alle celebrazioni ufficiali della Giornata della Bandiera nazionale, svoltesi domenica 11 ottobre 2026, rendendo omaggio al vessillo dello Stato insulare come simbolo essenziale dell'identità, della tradizione e dell'orgoglio del popolo. L'iniziativa istituzionale si inserisce in un programma di appuntamenti dedicati a valorizzare le radici storiche e la consapevolezza civica del Paese, promuovendo il senso di appartenenza tra la cittadinanza e rafforzando la rappresentazione culturale della nazione caraibica. Lo riferisce Dominica News Online.",
+   "more": [
+    "La bandiera della Dominica è un simbolo ricco di riferimenti storici e naturalistici, noto in particolare per la presenza del pappagallo sisserou, emblema nazionale dell'isola. Le celebrazioni civiche nell'area caraibica accompagnano frequentemente programmi istituzionali legati alla tutela della memoria locale."
+   ],
+   "fonti": [
+    {
+     "n": "Dominica News Online",
+     "p": "XX",
+     "c": "Roseau",
+     "u": "https://dominicanewsonline.com/news/homepage/homepage-carousel/dominicas-national-flag-celebrated-on-flag-day-by-tourism-ministry/",
+     "angolo": "",
+     "atlas": "Dominica"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z93e62452",
+   "sez": "tech",
+   "titolo": "Fine del mondo nel novembre 2026: la teoria demografica formulata nel 1960",
+   "orig": "Will the world end next month? Science said so, in 1960",
+   "lead": "Uno studio scientifico pubblicato sulla rivista Science nel 1960 aveva individuato nel 13 novembre una presunta data dell'apocalisse globale, giungendo a tale previsione attraverso modelli matematici legati alla crescita esponenziale della popolazione anziché per le minacce contemporanee. L'analisi retrospettiva ricorda come gli studiosi dell'epoca avessero ipotizzato che il tasso di incremento demografico avrebbe raggiunto una densità insostenibile fino a causare il collasso della civiltà, riflettendo i timori sociologici e le formule previsionali tipici della metà del ventesimo secolo. Lo riferisce Science (AAAS).",
+   "more": [
+    "Le previsioni matematiche sulla crescita della popolazione nel Novecento cercavano di descrivere i limiti dello sviluppo umano attraverso curve di crescita esponenziali. Quei modelli stimolavano il dibattito sulla sostenibilità globale pur non potendo anticipare i successivi mutamenti nei tassi di natalità e nelle tecnologie agricole."
+   ],
+   "fonti": [
+    {
+     "n": "Science (AAAS)",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z581f98a4",
+   "sez": "mondo",
+   "titolo": "Nepal, i parlamentari interrogano i candidati ambasciatori per India, Cina, Usa e Regno Unito",
+   "orig": "Lawmakers press envoy nominees to India, China, US, and UK on challenges",
+   "lead": "I membri del parlamento nepalese hanno sottoposto a un attento esame i candidati designati alla guida delle sedi diplomatiche in India, Cina, Stati Uniti e Regno Unito. Durante le audizioni, gli aspiranti ambasciatori hanno dovuto affrontare quesiti approfonditi relativi alla gestione delle dispute confinarie ancora irrisolte, allo sviluppo dei collegamenti transfrontalieri e al rafforzamento della cooperazione economica. I parlamentari hanno inoltre insistito sulla tutela e sull'assistenza ai cittadini nepalesi residenti all'estero, considerata una priorità fondamentale della politica estera del Paese. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il Nepal intrattiene relazioni strategiche con le due grandi potenze confinanti, Cina e India, oltre a rapporti consolidati con i partner occidentali. La presenza di un'ampia diaspora e l'esigenza di salvaguardare la sovranità rendono le nomine diplomatiche un passaggio politico di rilievo istituzionale."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/12/lawmakers-press-envoy-nominees-to-india-china-us-and-uk-on-challenges",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "za467b0da",
+   "sez": "ingegneria",
+   "titolo": "Robot umanoidi, un nuovo metodo adatta i movimenti sportivi dal video al mondo reale",
+   "orig": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+   "lead": "Uno studio tecnico analizza una metodologia per riprodurre lo stile atletico professionale nei robot umanoidi impegnati in discipline con la palla, separando la pianificazione dei movimenti ad alto livello dal loro tracciamento esecutivo a basso livello. Il documento illustra come sia possibile estrarre e rielaborare dati dinamici ricavati da filmati televisivi e sessioni di cattura del movimento, impiegando controlli adattivi sensibili alla velocità per superare il divario tra simulazione digitale e funzionamento fisico reale, mantenendo l'efficacia esecutiva senza compromettere la naturalezza del gesto atletico. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "La robotica umanoide applicata alle azioni complesse richiede sistemi di controllo avanzati capaci di gestire equilibrio, coordinazione e reazioni immediate. L'analisi del movimento umano permette di trasferire su attuatori meccanici fluidità ed efficienza tipiche delle prestazioni sportive."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze831e39b",
+   "sez": "economia",
+   "titolo": "Filippine, rincari per benzina e cherosene mentre cala il prezzo del diesel",
+   "orig": "Gas, kerosene prices up, diesel down",
+   "lead": "Il Dipartimento dell'Energia delle Filippine ha annunciato un aggiornamento differenziato dei prezzi dei carburanti alla pompa con decorrenza da martedì. Secondo i dettagli diffusi da Rino Abad, direttore dell'ufficio per la gestione dell'industria petrolifera del ministero, la benzina subirà un incremento di 1,56 pesos al litro e il cherosene crescerà di 1,77 pesos al litro. Al contrario, il gasolio registrerà una sensibile riduzione pari a 3,01 pesos al litro, riflettendo le recenti oscillazioni e le condizioni registrate sui mercati petroliferi internazionali. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "Le tariffe dei combustibili per autotrazione nelle Filippine dipendono dalle quotazioni del greggio raffinato sui mercati regionali asiatici. I periodici adeguamenti decisi dalle compagnie sotto il monitoraggio ministeriale incidono direttamente sui costi del trasporto pubblico, della logistica e della spesa quotidiana delle famiglie."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://business.inquirer.net/615662/gas-kerosene-prices-up-diesel-down",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zef94c29d",
+   "sez": "tech",
+   "titolo": "Uzbekistan e Cina avviano un dialogo sulla tecnologia per batterie agli ioni di litio",
+   "orig": "Uzbekistan and China discuss cooperation on lithium-ion battery production technology",
+   "lead": "L'Istituto di chimica e tecnologia di Tashkent e l'Università agricola cinese di Tianjin hanno avviato consultazioni bilaterali dedicate alla produzione e all'innovazione tecnologica delle batterie agli ioni di litio. I colloqui, ospitati presso la sede distaccata dell'istituto a Yangiyer, si sono concentrati sul potenziamento dei processi manifatturieri, sull'espansione dei programmi congiunti di ricerca scientifica e sullo scambio di competenze tecniche. L'iniziativa mira inoltre ad attrarre nuovi investimenti strategici destinati a progetti operativi nel settore energetico uzbeko. Lo riferisce Daryo.",
+   "more": [
+    "Le batterie agli ioni di litio rappresentano una componente essenziale per l'accumulo di elettricità da fonti rinnovabili e per la mobilità sostenibile. La cooperazione scientifica tra istituti accademici mira a ottimizzare i rendimenti elettrochimici e a sviluppare filiere industriali nei mercati emergenti."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/12/uzbekistan-and-china-discuss-cooperation-on-lithium-ion-battery-production-technology/",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2758797a",
+   "sez": "ambiente",
+   "titolo": "Filippine, l'incombente El Niño minaccia l'energia idroelettrica a Mindanao",
+   "orig": "El Niño threat triggers race to save power, water in provinces",
+   "lead": "Nelle Filippine la società energetica First Gen Corporation sta predisponendo misure di risparmio idrico, fermi di manutenzione e tagli alla generazione presso la centrale idroelettrica di Agusan, a Manolo Fortich nel Bukidnon. La struttura ad acqua fluente da 1,6 megawatt, attiva da 69 anni, fornisce elettricità a circa quindicimila utenze domestiche ma non dispone di bacini di riserva per immagazzinare l'acqua. L'incombente fenomeno meteorologico di El Niño rischia di ridurre drasticamente le risorse idriche dell'isola di Mindanao, mettendo sotto pressione le forniture energetiche rinnovabili locali. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "Gli impianti idroelettrici ad acqua fluente dipendono direttamente dalla portata istantanea dei corsi d'acqua, senza la capacità di accumulare grandi scorte idriche in bacini dedicati. Questa caratteristica li rende vulnerabili alle prolungate fasi di siccità e alle alterazioni climatiche."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2322389/el-nino-threat-triggers-race-to-save-power-water-in-provinces",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1c696b8b",
+   "sez": "mondo",
+   "titolo": "Israele, l'Alta Corte sollecita un piano per il rientro dei palestinesi nei campi profughi",
+   "orig": "Israel's top court presses state to plan for return of displaced Palestinians to West Bank refugee camps",
+   "lead": "In risposta a una petizione presentata dall'Associazione per i diritti civili, l'Alta Corte di Giustizia di Israele ha ordinato allo Stato di chiarire entro il 23 novembre se sia possibile accelerare il ritorno di oltre trentatremila palestinesi sfollati dai campi profughi di Jenin, Tulkarem e Nur al-Shams, situati in Cisgiordania. L'ingiunzione dei giudici supremi impone alle autorità di presentare un piano concreto sulle condizioni e sui tempi per consentire alla popolazione evacuata di fare rientro nelle proprie abitazioni. Lo riferisce Haaretz.",
+   "more": [
+    "I campi profughi della Cisgiordania ospitano popolazioni palestinesi fin dai conflitti del Novecento e sono spesso teatro di operazioni di sicurezza e tensioni territoriali. L'Alta Corte israeliana esamina ricorsi civili per verificare la conformità delle azioni amministrative e militari con gli obblighi giuridici."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/west-bank/2026-10-12/ty-article/.premium/top-court-presses-state-on-return-of-displaced-palestinians-to-west-bank-camps/000001a1-306c-db9b-adf9-f8eca8550000",
+     "angolo": "",
+     "atlas": "Israel"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z873c41a0",
+   "sez": "tech",
+   "titolo": "Report IEEE: genetica e intelligenza artificiale guideranno le cure entro il 2028",
+   "orig": "IEEE Report Predicts Tech That Will Transform Lives",
+   "lead": "Entro il 2028 l'ingegneria genetica e la terapia genica saranno impiegate regolarmente per curare un'ampia varietà di patologie grazie ai progressi dell'intelligenza artificiale, secondo quanto delineato dal rapporto sui megatrend tecnologici al 2030 pubblicato dall'IEEE. Dejan Milojicic, esponente dell'associazione e vicepresidente presso i laboratori di Hewlett Packard Enterprise a Milpitas, ha sottolineato come la tecnologia stia vivendo una trasformazione fondamentale in cui l'elaborazione intelligente non agisce più in modo isolato, ma si intreccia profondamente con infrastrutture, energia e sistemi fisici reali. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "L'applicazione di modelli computazionali avanzati alla biologia molecolare accelera l'analisi delle sequenze di dna e la progettazione di terapie personalizzate. L'integrazione di queste tecnologie promette di ridurre i tempi di sperimentazione clinica e ottimizzare l'efficacia dei trattamenti sanitari."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://spectrum.ieee.org/ieee-report-predicts-tech",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z91e746b0",
+   "sez": "ambiente",
+   "titolo": "Mali, approvate nuove norme su etichette per elettrodomestici ed edilizia sostenibile",
+   "orig": "Énergie : de nouvelles règles pour les appareils et les bâtiments",
+   "lead": "Il Consiglio dei ministri del Mali ha varato venerdì 9 ottobre due decreti orientati all'efficienza energetica per regolamentare il consumo di elettricità nel Paese. La prima disposizione impone un'etichettatura standardizzata per lampade ed elettrodomestici nuovi, come frigoriferi e condizionatori, consentendo ai consumatori di conoscere il fabbisogno energetico prima dell'acquisto a parità di prestazioni. Il secondo provvedimento stabilisce invece standard costruttivi minimi obbligatori per i nuovi edifici, fissando requisiti stringenti per quanto riguarda l'isolamento termico, la climatizzazione interna e i sistemi di illuminazione artificiale. Lo riferisce Journal du Mali.",
+   "more": [
+    "L'introduzione di etichette energetiche mira a informare i cittadini sull'impatto dei consumi domestici e a scoraggiare la vendita di apparecchiature inefficienti. Nell'edilizia, standard termici appropriati consentono di ridurre il fabbisogno di aria condizionata nei climi caldi."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/energie-de-nouvelles-regles-pour-les-appareils-et-les-batiments/",
+     "angolo": "",
+     "atlas": "Mali"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z75867ac0",
+   "sez": "economia",
+   "titolo": "Egitto e Thailandia discutono a Bangkok il rafforzamento dei legami economici",
+   "orig": "Egypt’s FM discusses expanding economic, parliamentary ties with Thai officials",
+   "lead": "Il ministro degli Esteri egiziano Badr Abdelatty ha condotto una serie di incontri istituzionali e parlamentari a Bangkok, all'avvio della sua missione ufficiale in Thailandia, con l'obiettivo di intensificare la cooperazione politica, economica, educativa e negli investimenti tra i due Paesi. Nel corso del colloquio con il ministro dell'Industria thailandese Varawut Silpa-archa, il capo della diplomazia del Cairo ha esaminato iniziative concrete per ampliare l'interscambio commerciale e promuovere collaborazioni industriali reciproche, gettando le basi per nuovi accordi operativi tra le rispettive comunità d'affari. Lo riferisce Daily News Egypt.",
+   "more": [
+    "L'espansione dei rapporti commerciali tra nazioni africane e del Sud-est asiatico favorisce la diversificazione dei mercati per merci e investimenti manifatturieri. Le missioni diplomatiche bilaterali servono a coordinare le normative doganali e a favorire sinergie nei comparti industriali strategici."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/12/egypts-fm-discusses-expanding-economic-parliamentary-ties-with-thai-officials/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z07c49b86",
+   "sez": "economia",
+   "titolo": "Mali, via libera al piano quinquennale per l'irrigazione nel bacino di Bani-Sélingué",
+   "orig": "Bani-Sélingué : la phase II encadrée pour cinq ans",
+   "lead": "Il governo del Mali ha approvato il 9 ottobre i testi istitutivi per l'organizzazione e il funzionamento della seconda fase del Programma di sviluppo dell'irrigazione nel bacino del Bani e a Sélingué, fissandone la durata a cinque anni. Il progetto, finanziato con un investimento stimato di 47,4 miliardi di franchi cfa e lanciato originariamente nel giugno 2025, prevede la bonifica di 10.240 ettari aggiuntivi e la realizzazione di 135 chilometri di strade rurali. Gli interventi riguarderanno Sélingué, il Medio Bani e Djenné per ottimizzare la gestione idroagricola dei terreni. Lo riferisce Journal du Mali.",
+   "more": [
+    "Le infrastrutture idroagricole nei bacini fluviali dell'Africa occidentale sostengono la sicurezza alimentare attraverso la canalizzazione delle acque per la coltivazione e la viabilità rurale. L'espansione delle superfici coltivate consente di mitigare gli effetti della siccità stagionale."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/bani-selingue-la-phase-ii-encadree-pour-cinq-ans/",
+     "angolo": "",
+     "atlas": "Mali"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z47dc9e7e",
+   "sez": "economia",
+   "titolo": "Egitto, governo e Banca centrale allineano politiche fiscali e monetarie contro l'inflazione",
+   "orig": "Government, CBE coordinate fiscal, monetary policies to curb inflation, reduce debt: Minister",
+   "lead": "Il governo egiziano e la Banca centrale stanno coordinando strettamente le rispettive politiche fiscali e monetarie con l'obiettivo prioritario di frenare l'inflazione, contenere l'indebitamento pubblico e favorire uno sviluppo inclusivo. Lo ha dichiarato il ministro della Pianificazione e dello Sviluppo economico Ahmed Rostom, evidenziando il supporto diretto fornito dal primo ministro Mostafa Madbouly per garantire la piena coerenza tra le scelte del bilancio statale e gli interventi monetari dell'istituto centrale, al fine di salvaguardare la stabilità macroeconomica del Paese. Lo riferisce Daily News Egypt.",
+   "more": [
+    "Il raccordo tra la gestione del bilancio statale e la politica monetaria della banca centrale è determinante per stabilizzare i prezzi ed evitare squilibri valutari, soprattutto in economie emergenti che affrontano pressioni inflazionistiche e necessitano di riforme strutturali."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/12/government-cbe-coordinate-fiscal-monetary-policies-to-curb-inflation-reduce-debt-minister/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z102c8205",
+   "sez": "economia",
+   "titolo": "Mali, aiuti economici per duemila famiglie nel circolo di Diré",
+   "orig": "Diré : 50 000 FCFA pour 2 000 ménages",
+   "lead": "Nel circolo di Diré, in Mali, è stata avviata l’8 ottobre un’operazione di aiuti finanziari destinata a sostenere duemila nuclei familiari. Ciascun nucleo riceverà una somma di cinquantamila franchi Cfa, attinta da uno stanziamento complessivo pari a cento milioni di franchi Cfa finanziato dalla cooperazione allo sviluppo della Spagna. L'intervento è coordinato sul campo dalla Croce Rossa maliana e da quella spagnola, consentendo a ciascuna famiglia di ripartire il contributo economico tra le varie necessità domestiche. Lo riferisce Journal du Mali.",
+   "more": [
+    "I programmi di trasferimento monetario diretto rappresentano una modalità di aiuto umanitario e sviluppo che fornisce liquidità alle famiglie vulnerabili. Questo strumento consente ai beneficiari di scegliere autonomamente come soddisfare i propri bisogni essenziali sul mercato locale, sostenendo al contempo l'economia del territorio e garantendo flessibilità rispetto alla distribuzione di soli beni materiali."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/dire-50-000-fcfa-pour-2-000-menages/",
+     "angolo": "",
+     "atlas": "Mali"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z284a0405",
+   "sez": "economia",
+   "titolo": "Egitto, obbligo di dati mensili per gli istituti di credito non bancari",
+   "orig": "FRA requires non-bank financing entities to update activity data monthly",
+   "lead": "L’Autorità di regolamentazione finanziaria egiziana, guidata da Islam Azzam, ha introdotto l’obbligo per tutte le società ed entità di finanziamento non bancario di trasmettere i dati mensili sulle proprie attività. Le comunicazioni dovranno pervenire attraverso una piattaforma telematica dedicata entro i primi quindici giorni di ciascun mese, con riferimento alle operazioni del mese precedente. L'ente ha inoltre stabilito la riapertura straordinaria del portale informatico dal 12 al 29 ottobre per agevolare l'adeguamento di tutti gli operatori coinvolti. Lo riferisce Daily News Egypt.",
+   "more": [
+    "Il settore del credito e dei servizi finanziari non bancari comprende istituti come società di leasing, factoring, microfinanza e credito al consumo che operano al di fuori del circuito bancario tradizionale. Il monitoraggio sistematico di questi soggetti attraverso piattaforme di vigilanza consente alle autorità di verificare la trasparenza e prevenire rischi per la stabilità economica generale."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/12/fra-requires-non-bank-financing-entities-to-update-activity-data-monthly/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6485b6ff",
+   "sez": "economia",
+   "titolo": "Nuda proprietà, salgono quotazioni e offerta: Milano la più costosa",
+   "orig": "Nuda proprietà, crescono offerta e prezzi. La più cara è Milano",
+   "lead": "In Italia crescono sia l’offerta sia i prezzi degli immobili venduti con la formula della nuda proprietà, secondo le più recenti rilevazioni fornite da Immobiliare.it Insights. La città di Milano fa registrare i valori di mercato più elevati della penisola, attestandosi su una media di 4.276 euro al metro quadro. Nella classifica dei costi per questo particolare segmento residenziale, la capitale Roma occupa la seconda posizione subito dietro il capoluogo lombardo. Lo riferisce Il Sole 24 Ore – Casa24.",
+   "more": [
+    "La nuda proprietà è una compravendita immobiliare in cui l'acquirente compra l'immobile senza il diritto di abitarvi o disporne immediatamente, lasciando l'usufrutto al venditore per tutta la vita o per un periodo concordato. Questo schema permette all'acquirente di investire a un prezzo scontato e al venditore di monetizzare il patrimonio continuando a vivere nella propria casa."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore – Casa24",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/nuda-proprieta-crescono-offerta-e-prezzi-piu-cara-e-milano-AJwyPeaB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9348d51e",
+   "sez": "mondo",
+   "titolo": "Mali, il ruolo della partecipazione comunitaria per la pace e lo sviluppo",
+   "orig": "Moussa I. Touré : « La paix se construit avec les communautés »",
+   "lead": "Il direttore esecutivo dell’organizzazione non governativa maliana Aid-Local, Moussa I. Touré, ha sottolineato l'importanza di un coinvolgimento civico continuativo per promuovere la pace, la solidarietà e la crescita nel Paese. Intervenendo in seguito al varo della Strategia nazionale di mobilitazione cittadina, Touré ha spiegato che la partecipazione attiva deve andare oltre le mobilitazioni occasionali. Per risolvere i problemi locali occorre un dialogo costante tra comunità, leader d'opinione, società civile e autorità pubbliche, costruendo processi inclusivi e condivisi. Lo riferisce Journal du Mali.",
+   "more": [
+    "Le organizzazioni non governative attive nello sviluppo locale lavorano a stretto contatto con le comunità per promuovere percorsi di coesione sociale e partecipazione democratica. Questi progetti mirano a coinvolgere direttamente i cittadini e le istituzioni di prossimità per individuare soluzioni condivise ai problemi territoriali, rafforzando la cooperazione tra i diversi gruppi sociali e sostenendo la stabilità."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/moussa-i-toure-la-paix-se-construit-avec-les-communautes/",
+     "angolo": "",
+     "atlas": "Mali"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaf6643bb",
+   "sez": "economia",
+   "titolo": "Affitti brevi, il piano europeo rischia di colpire anche le periferie",
+   "orig": "Affitti brevi, la stretta Ue può toccare anche le periferie: 51 quartieri su 60 in stress abitativo",
+   "lead": "Nel settore delle locazioni turistiche brevi si profila una nuova stretta a livello comunitario con il dibattito attorno all'Affordable Housing Act promosso dall'Unione Europea. La proposta normativa rischia di estendere le limitazioni non soltanto ai centri storici ma anche alle zone periferiche delle città. Le analisi segnalano che una quota consistente del tessuto urbano si trova già sotto pressione, con ben cinquantuno quartieri su sessanta classificati in una condizione di conclamato stress abitativo dopo i precedenti interventi nazionali. Lo riferisce Il Sole 24 Ore – Casa24.",
+   "more": [
+    "Il fenomeno delle locazioni brevi ha modificato profondamente il mercato immobiliare delle grandi città, riducendo l'offerta di appartamenti destinati all'affitto residenziale di lungo periodo. Lo stress abitativo descrive una situazione in cui la scarsità di alloggi a prezzi accessibili rende difficoltoso per i residenti, lavoratori e studenti trovare sistemazioni adeguate, spingendo le istituzioni a studiare regolamentazioni più stringenti."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore – Casa24",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/affitti-brevi-stretta-ue-puo-toccare-anche-periferie-51-quartieri-60-stress-abitativo-AJT8xyWB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z198db3cd",
+   "sez": "cultura",
+   "titolo": "Aperta la terza Bamako Fashion Week all'insegna dello sviluppo economico",
+   "orig": "Bamako Fashion Week : la mode au service de l’économie",
+   "lead": "Il Memorial Modibo Keïta ha ospitato l’inaugurazione della terza edizione della Bamako Fashion Week, rassegna dedicata alla creatività, all'imprenditoria culturale e alla promozione delle produzioni locali. L'evento, sviluppato attorno al tema del ruolo della moda come motore di sviluppo economico, sociale, culturale e ambientale, mira a favorire la professionalizzazione del comparto. La cerimonia inaugurale ha proposto momenti celebrativi delle identità regionali, tra cui la sfilata del Sahel e l'apertura del mercato dei designer con visite istituzionali. Lo riferisce Journal du Mali.",
+   "more": [
+    "Le settimane della moda e gli eventi dedicati al settore tessile nelle capitali africane offrono una vetrina internazionale ai creativi del continente, valorizzando i materiali autoctoni e l'artigianato tradizionale. Queste manifestazioni combinano eventi di spettacolo e iniziative commerciali, stimolando la nascita di imprese locali e promuovendo l'occupazione giovanile nella filiera della moda sostenibile."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/bamako-fashion-week-la-mode-au-service-de-leconomie/",
+     "angolo": "",
+     "atlas": "Mali"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze1d0eac2",
+   "sez": "economia",
+   "titolo": "Borsa australiana in rialzo e Wall Street stabile, Meta trainata dall'AI",
+   "orig": "ASX set to edge up, Wall Street steady; Meta rises after unveiling AI model",
+   "lead": "La borsa australiana si prepara a una partenza positiva mentre i mercati azionari di Wall Street mantengono un andamento stabile, restando a ridosso dei massimi storici all'apertura di un'intensa settimana di scambi. Tra i titoli tecnologici si distingue la crescita delle azioni di Meta, sostenuta dall'annuncio del rilascio di un nuovo modello di intelligenza artificiale. L'avvio delle contrattazioni riflette un clima di cauto ottimismo tra gli investitori internazionali, attenti alle prospettive macroeconomiche e alle innovazioni tecnologiche. Lo riferisce Sydney Morning Herald.",
+   "more": [
+    "I mercati azionari rappresentano il luogo di scambio in cui investitori istituzionali e privati negoziano quote societarie, riflettendo le aspettative sull'andamento dell'economia globale. L'indice australiano e le piazze finanziarie statunitensi influenzano reciprocamente i flussi di capitale, mentre gli annunci relativi a soluzioni avanzate di intelligenza artificiale continuano a guidare l'interesse degli operatori verso i principali colossi tecnologici."
+   ],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/business/markets/asx-set-to-edge-up-wall-street-steady-20261013-p614xv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc2c8dabb",
+   "sez": "economia",
+   "titolo": "Aste immobiliari oltre quota 74mila: nasce la figura del difensore immobiliare",
+   "orig": "In un anno, oltre 74mila immobili all’asta: nasce il «difensore immobiliare»",
+   "lead": "Con oltre settantaquattromila immobili finiti all’asta nell'arco di dodici mesi in Italia, prende avvio la figura del difensore immobiliare all'interno del progetto Casa in Bonis, ideato dagli ingegneri Giulia Casadio e Filippo Marcon. Si tratta di un profilo manageriale specializzato creato con l'obiettivo di offrire consulenza e supporto operativo alle famiglie che affrontano gravi problematiche debitorie legate alla propria abitazione, per aiutarle a gestire la crisi prima che sfoci nella perdita del bene. Lo riferisce Il Sole 24 Ore – Casa24.",
+   "more": [
+    "Le aste giudiziarie rappresentano la fase finale delle procedure esecutive avviate dai creditori nei confronti dei proprietari inadempienti. In tale contesto, figure di consulenza e mediazione mirano a negoziare soluzioni stragiudiziali, come accordi a saldo e stralcio o ristrutturazioni del debito, per evitare la vendita forzata dell'immobile e permettere ai debitori di ridurre le passività residue."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore – Casa24",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/in-anno-oltre-74mila-immobili-all-asta-nasce-difensore-immobiliare-AJxeJGZB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z60f3086d",
+   "sez": "ingegneria",
+   "titolo": "Macchinari compatti da cantiere a diesel: l'impatto sulle emissioni urbane",
+   "orig": "Compact diesel machines are jumbo polluters and here’s what we can do about it",
+   "lead": "Nelle città impegnate a migliorare la qualità dell'aria, una fonte rilevante di emissioni inquinanti continua a passare inosservata: le macchine edili compatte alimentate a diesel. Pur essendo una presenza consueta nei cantieri urbani, queste attrezzature di dimensioni ridotte generano livelli sproporzionati di sostanze inquinanti rispetto alla loro stazza. Gli esperti del settore delle costruzioni sottolineano l'urgenza di prendere coscienza dell'impatto di tali veicoli e di adottare soluzioni tecnologiche mirate per abbattere le emissioni nell'edilizia cittadina. Lo riferisce Global Construction Review.",
+   "more": [
+    "I macchinari compatti da cantiere, come miniescavatori e pale caricatrici, sono ampiamente impiegati nei centri urbani per lavori stradali e ristrutturazioni edilizie. A differenza dei veicoli pesanti più regolamentati, i piccoli motori diesel possono essere soggetti a norme meno stringenti sulle emissioni, rendendo cruciale la transizione verso motorizzazioni elettriche o a carburanti alternativi per tutelare la salute pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Global Construction Review",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.globalconstructionreview.com/compact-diesel-machines-are-jumbo-polluters-and-heres-what-we-can-do-about-it/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2b9245a5",
+   "sez": "mondo",
+   "titolo": "L'Europa serra i ranghi sull'Ucraina dopo l'intesa sul diesel tra Trump e Putin",
+   "orig": "Blindsided again by Trump, Europe puts on a brave face and rallies behind Ukraine",
+   "lead": "I leader dei Paesi europei hanno serrato le fila per ribadire il proprio sostegno unitario all'Ucraina, dopo che la notizia di un'intesa sul diesel stretta tra Donald Trump e Vladimir Putin ha scosso gli equilibri dell'alleanza occidentale. Di fronte a una mossa inattesa che ha spiazzato le cancellerie continentali, i governi dell'Unione Europea cercano di mantenere una posizione compatta e determinata, manifestando preoccupazione per gli effetti geopolitici dell'accordo energetico siglato tra Washington e Mosca. Lo riferisce Euronews.",
+   "more": [
+    "I rapporti tra gli Stati Uniti, la Russia e l'Unione Europea rimangono strettamente legati alle forniture energetiche e al supporto all'Ucraina nel conflitto in corso. Eventuali accordi bilaterali sui combustibili fossili possono alterare il regime delle sanzioni internazionali e le strategie comuni di sicurezza, suscitando tensioni all'interno delle storiche alleanze diplomatiche transatlantiche e condizionando gli equilibri di potere globali."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/12/blindsided-again-by-trump-europe-puts-on-a-brave-face-and-rallies-behind-ukraine",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd1f68169",
+   "sez": "ingegneria",
+   "titolo": "Irlanda, il settore edile approva il bilancio ma teme freni su case e tasse verdi",
+   "orig": "CIOB praises Irish budget but warns of underlying constraints and a retreat on carbon taxes",
+   "lead": "Il Chartered Institute of Building ha accolto positivamente l'annuncio della legge di bilancio dell'Irlanda per il 2027, apprezzando gli stanziamenti programmati per le infrastrutture di trasporto, le reti energetiche e l'edilizia residenziale. L'organizzazione professionale ha tuttavia espresso forti perplessità riguardo ai limiti strutturali che continuano a frenare la realizzazione degli alloggi. Tra le criticità evidenziate figura inoltre un temuto arretramento sulle tasse sul carbonio, che rischia di indebolire gli obiettivi di sostenibilità prefissati nel Paese. Lo riferisce Global Construction Review.",
+   "more": [
+    "Il Chartered Institute of Building è un ente professionale internazionale dedicato alla gestione e alla promozione degli standard nell'edilizia e nelle infrastrutture. I piani di bilancio pubblico per l'edilizia e i trasporti mirano a colmare i deficit abitativi e modernizzare le reti, ma la carenza di manodopera e i costi operativi spesso creano colli di bottiglia nell'effettiva realizzazione delle opere."
+   ],
+   "fonti": [
+    {
+     "n": "Global Construction Review",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.globalconstructionreview.com/ciob-praises-irish-budget-but-warns-of-underlying-constraints-and-a-retreat-on-carbon-taxes/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdde03f54",
+   "sez": "ingegneria",
+   "titolo": "Australia, un rapporto analizza la crisi dell'edilizia residenziale",
+   "orig": "How to solve Australia’s volatile and fragmented residential building sector",
+   "lead": "La volatilità del mercato sta compromettendo la capacità del settore edile australiano di realizzare nuove abitazioni, sia per quanto riguarda le case unifamiliari sia per i grandi complessi residenziali a torre. A evidenziarlo è un rapporto pubblicato dall'Australian Housing and Urban Research Institute, che punta i riflettori sull'eccessiva frammentazione del comparto costruttivo nazionale. Lo studio analizza le cause strutturali della crisi dell'offerta e propone interventi per stabilizzare il mercato e rilanciare l'attività dei costruttori. Lo riferisce Global Construction Review.",
+   "more": [
+    "Il settore residenziale in Australia affronta periodiche fluttuazioni dovute ai tassi di interesse, alla disponibilità di manodopera qualificata e alle oscillazioni nei prezzi delle materie prime. Quando il mercato è frammentato tra molti piccoli operatori, le imprese faticano ad assorbire gli shock finanziari, determinando ritardi nei cantieri e un deficit strutturale di abitazioni disponibili per la popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "Global Construction Review",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.globalconstructionreview.com/how-to-solve-australias-volatile-and-fragmented-residential-building-sector/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdc4095a1",
+   "sez": "economia",
+   "titolo": "La Cina valuta con cautela l'accordo sul diesel tra Trump e Putin",
+   "orig": "Why China is likely to be cautious about recent Trump-Putin diesel deal",
+   "lead": "La Cina mantiene una posizione di forte cautela di fronte all'accordo energetico annunciato tra Donald Trump e Vladimir Putin, considerando l'intesa come un'operazione puramente transazionale. In base al patto reso noto dal presidente statunitense, la Russia fornirà immediatamente oltre trecentomila tonnellate di gasolio ai mercati americani e internazionali, cui seguiranno ulteriori cinquecentomila tonnellate. Gli analisti a Pechino ritengono che la leadership cinese preferirà attendere per valutare gli impatti a lungo termine, data la consueta imprevedibilità delle scelte della Casa Bianca. Lo riferisce South China Morning Post.",
+   "more": [
+    "I flussi globali di combustibili raffinati come il gasolio rivestono un valore strategico primario per il trasporto merci, l'industria e l'agricoltura. Le intese commerciali sulle risorse energetiche tra grandi potenze possono ridefinire le rotte marittime di approvvigionamento e i prezzi di riferimento mondiali, influenzando direttamente i Paesi importatori e alterando i complessi equilibri geopolitici tra Washington, Mosca e Pechino."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/article/3370620/why-china-likely-be-cautious-about-recent-trump-putin-diesel-deal?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a1598a4",
+   "sez": "ingegneria",
+   "titolo": "L'aeroporto di Schiphol affida cinque maxi-appalti per la manutenzione",
+   "orig": "Schiphol airport to get house in order with five, nine-year contracts",
+   "lead": "L’aeroporto internazionale di Schiphol ad Amsterdam ha aperto cinque gare d'appalto di primaria importanza della durata complessiva di nove anni, destinate a interventi di manutenzione, ammodernamento e realizzazione di progetti infrastrutturali. Il piano di lavori interessa direttamente i terminal passeggeri, gli impianti tecnici, i piazzali di sosta per gli aeromobili e gli edifici operativi dello scalo olandese. L'iniziativa mira a garantire la piena efficienza operativa dell'infrastruttura aeroportuale attraverso accordi contrattuali a lungo termine con aziende specializzate. Lo riferisce Global Construction Review.",
+   "more": [
+    "Gli aeroporti intercontinentali costituiscono complessi nodi logistici che richiedono manutenzioni continuative per soddisfare elevati standard di sicurezza e operatività. Gli appalti pluriennali per la gestione di piste, piazzali e terminal consentono alle società aeroportuali di pianificare gli interventi di rinnovo strutturale e tecnologico senza interrompere il flusso quotidiano di voli e passeggeri."
+   ],
+   "fonti": [
+    {
+     "n": "Global Construction Review",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.globalconstructionreview.com/schiphol-airport-to-get-house-in-order-with-five-nine-year-contracts/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a3e6ad5",
+   "sez": "economia",
+   "titolo": "Intesa Cina-Ue sulle auto ibride: export tagliato e tensioni allentate",
+   "orig": "China-EU car deal eases trade tensions for now at least",
+   "lead": "Un accordo commerciale tra Cina e Unione Europea ha consentito di allentare le tensioni bilaterali alla vigilia di un vertice tra leader europei. Pechino ha concordato un taglio consistente delle esportazioni di veicoli ibridi verso il blocco comunitario per i prossimi quattro anni, riducendo i flussi previsti della metà o più. Il responsabile del commercio europeo Maros Sefcovic ha precisato che già dal prossimo anno le spedizioni caleranno fino a settecentomila unità, per un controvalore di circa quattordici miliardi di euro. Lo riferisce South China Morning Post.",
+   "more": [
+    "Il commercio internazionale di automobili ibride ed elettriche è al centro di una contesa tariffaria tra Bruxelles e Pechino, con l'Unione Europea preoccupata per l'impatto dei sussidi statali cinesi sui produttori continentali. La definizione di quote di esportazione concordate mira a scongiurare l'imposizione di dazi punitivi e a proteggere la competitività dell'industria automobilistica europea."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/plus/economy/china-economy/article/3370591/china-eu-car-deal-eases-trade-tensions-now-least?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z12f71d45",
+   "sez": "ingegneria",
+   "titolo": "Skanska ottiene cinque commesse negli Stati Uniti per 682 milioni",
+   "orig": "Skanska wins five US contracts worth $682m",
+   "lead": "Il gruppo di costruzioni Skanska si è aggiudicato questo mese cinque nuovi contratti negli Stati Uniti per un valore complessivo di 682 milioni di dollari. Tra le commesse ottenute dall'impresa edile figura in particolare un appalto dal valore di 271 milioni di dollari per la costruzione di un nuovo molo presso una stazione navale nello stato del Rhode Island. L'aggiudicazione consolida la presenza del colosso delle infrastrutture sul mercato nordamericano attraverso progetti di ingegneria civile e militare. Lo riferisce Global Construction Review.",
+   "more": [
+    "Skanska è una multinazionale delle costruzioni e dello sviluppo immobiliare con sede in Svezia, attiva a livello globale nella realizzazione di grandi infrastrutture di trasporto, edilizia pubblica e commerciale. Il mercato statunitense rappresenta una delle sue aree operative principali, dove partecipa regolarmente ad appalti promossi sia da enti governativi sia da committenti privati."
+   ],
+   "fonti": [
+    {
+     "n": "Global Construction Review",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.globalconstructionreview.com/skanska-wins-five-us-contracts-worth-682m/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z271c42cb",
+   "sez": "economia",
+   "titolo": "Hong Kong espande derivati e prodotti in yuan per attrarre capitali",
+   "orig": "Hong Kong to expand indices, derivatives and yuan-denominated products: HKEX CEO",
+   "lead": "La società di gestione della borsa di Hong Kong, HKEX, ha in programma nuove misure per incrementare la liquidità dei mercati, attirare investitori esteri e diffondere l'impiego della valuta cinese. A illustrare i piani è stata la direttrice esecutiva dell'operatore borsistico in un intervento diffuso lunedì, anticipando l'introduzione di contratti futures sull'oro e scambi azionari denominati in yuan. L'iniziativa rientra nella strategia volta a consolidare il ruolo della città quale polo finanziario di rilievo internazionale. Lo riferisce South China Morning Post.",
+   "more": [
+    "La borsa di Hong Kong funge da principale ponte finanziario tra i mercati dei capitali cinesi e quelli globali. L'estensione di strumenti finanziari negoziabili in renminbi sostiene il processo di internazionalizzazione della valuta di Pechino, consentendo agli operatori esteri di impiegare liquidità in yuan in prodotti derivati, materie prime e titoli azionari senza esporsi al cambio valutario."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/markets/article/3370617/hong-kong-expand-indices-derivatives-and-yuan-denominated-products-hkex-ceo?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6bf34e81",
+   "sez": "ingegneria",
+   "titolo": "AR Emerging awards 2026, trofei in mattoni a basso impatto ecologico",
+   "orig": "Low-carbon trophies for AR Emerging awards 2026",
+   "lead": "I vincitori dell'edizione 2026 degli AR Emerging awards riceveranno un trofeo appositamente disegnato e prodotto dall'azienda Kenoteq, realtà specializzata nella fabbricazione di mattoni a basse emissioni di carbonio. Il riconoscimento intende unire la celebrazione dei talenti emergenti dell'architettura alla promozione di pratiche costruttive ecologiche ed ecocompatibili. La scelta dell'azienda produttrice testimonia l'attenzione della rivista promotrice verso materiali innovativi capaci di ridurre l'impronta ambientale del settore edilizio attraverso processi produttivi a ridotto impatto sul clima. Lo riferisce The Architectural Review.",
+   "more": [
+    "La produzione tradizionale di mattoni e laterizi richiede processi di cottura ad altissime temperature che comportano un ingente consumo energetico e rilevanti emissioni di anidride carbonica. L'impiego di materiali edili alternativi a basse emissioni punta a riutilizzare scarti inerti ed evitare processi termici intensivi, offrendo soluzioni costruttive all'avanguardia per la decarbonizzazione del settore edile."
+   ],
+   "fonti": [
+    {
+     "n": "The Architectural Review",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectural-review.com/awards/ar-emerging/low-carbon-trophies-for-ar-emerging-awards-2026",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbc149044",
+   "sez": "economia",
+   "titolo": "Hong Kong, fredda accoglienza per la quotazione del produttore Transsion",
+   "orig": "Few Hong Kong investors take interest in listing by Africa’s top phone maker Transsion",
+   "lead": "La società cinese Shenzhen Transsion Holdings ha registrato una tiepida accoglienza per la sua offerta pubblica di acquisto da 3,36 miliardi di dollari di Hong Kong, pari a circa 428 milioni di dollari statunitensi. Il principale produttore di smartphone venduti sul continente africano ha chiuso lunedì la raccolta ordini raccogliendo circa quattordicimila adesioni, con una domanda superiore all'offerta di sole 3,5 volte. L'esito modesto ha alimentato le preoccupazioni degli operatori finanziari sul sentiment del mercato per le nuove quotazioni del quarto trimestre. Lo riferisce South China Morning Post.",
+   "more": [
+    "Transsion Holdings è un colosso cinese dell'elettronica di consumo che ha costruito la sua leadership vendendo telefoni cellulari e smartphone a basso costo in Africa e in altri mercati emergenti con marchi come Tecno e Infinix. La quotazione secondaria a Hong Kong rappresenta un test sulla fiducia degli investitori al dettaglio rispetto alle società tecnologiche continentali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/banking-finance/article/3370604/few-hong-kong-investors-take-interest-listing-africas-top-phone-maker-transsion?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbcbd9948",
+   "sez": "ingegneria",
+   "titolo": "Germania, legno e terra battuta per il nuovo complesso di Anna Heringer",
+   "orig": "Holy ground: Dormitories and forum in Traunstein, Germany by Studio Anna Heringer",
+   "lead": "Nella città di Traunstein, in Germania, lo studio guidato dall'architetta Anna Heringer ha completato il suo primo progetto su vasta scala in Europa, realizzando un complesso destinato a dormitori e a forum d'incontro. L'intervento combina l'impiego del legno con strutture in terra battuta, fondendo le esperienze maturate dalla progettista nel sud globale con gli obiettivi di sostenibilità climatica concordati con la committenza cattolica. L'opera si distingue per l'armonizzazione di tecniche costruttive vernacolari e standard ambientali avanzati. Lo riferisce The Architectural Review.",
+   "more": [
+    "La terra battuta è un'antica tecnica costruttiva che prevede la compattazione di miscele di terra cruda, ghiaia e sabbia all'interno di casseforme, senza l'uso di leganti chimici o forni ad alta temperatura. In combinazione con il legno, questo materiale offre elevate prestazioni di isolamento termico e regolazione dell'umidità, oltre a un'impronta di carbonio estremamente ridotta rispetto al calcestruzzo."
+   ],
+   "fonti": [
+    {
+     "n": "The Architectural Review",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectural-review.com/buildings/holy-ground-dormitories-and-forum-in-traunstein-germany-by-studio-anna-heringer",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcec7f813",
+   "sez": "economia",
+   "titolo": "Ex dirigente HSBC lancia una piattaforma patrimoniale guidata da agenti AI",
+   "orig": "Former HSBC executive launches wealth platform powered by team of AI agents",
+   "lead": "Trista Sun, già managing director della divisione wealth e premier banking internazionale del gruppo bancario HSBC, ha annunciato il lancio della startup Equora, una piattaforma di gestione patrimoniale basata sull'intelligenza artificiale. L'obiettivo della fondatrice è raggiungere una valutazione societaria da un miliardo di dollari, puntando su una squadra di agenti virtuali per trasformare la gestione attiva dei risparmi e degli investimenti privati. Il nuovo servizio mira a supportare gli utenti nell'amministrazione preventiva delle proprie finanze personali. Lo riferisce South China Morning Post.",
+   "more": [
+    "Il settore del wealth management digitale comprende servizi automatizzati per la pianificazione finanziaria, l'allocazione patrimoniale e la gestione degli investimenti. L'impiego di agenti di intelligenza artificiale consente di analizzare portafogli complessi, monitorare le fluttuazioni dei mercati e formulare strategie su misura, rendendo accessibili a un pubblico più ampio consulenze che in passato erano riservate alla clientela bancaria di fascia alta."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/money/wealth/article/3370565/former-hsbc-executive-launches-wealth-platform-powered-team-ai-agents?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1850b406",
+   "sez": "economia",
+   "titolo": "Cina, guasto ai freni su un'auto elettrica di lusso: stretta sui collaudi",
+   "orig": "Brake-pedal failures in luxury EV put Chinese cars’ quality in regulatory spotlight",
+   "lead": "Il malfunzionamento del pedale del freno riscontrato durante alcuni test su un veicolo elettrico di lusso, prodotto da un marchio sostenuto da Huawei Technologies, ha spinto le autorità cinesi a rafforzare la vigilanza sulla qualità delle automobili. In seguito alla diffusione di un video sui test, il Ministero dell'Industria e dell'Information Technology, insieme ad altri tre dicasteri, ha presentato una bozza di regolamento per disciplinare le prove di collaudo sui nuovi modelli, affrontando le crescenti perplessità sull'affidabilità delle vetture nazionali. Lo riferisce South China Morning Post.",
+   "more": [
+    "L'industria automobilistica cinese dei veicoli elettrici ha conosciuto una rapida espansione globale, posizionandosi come settore di punta dell'innovazione tecnologica nazionale. I crescenti requisiti di omologazione e collaudo mirano a verificare la sicurezza dei sistemi frenanti e del software di bordo, garantendo che le prestazioni tecnologiche rispondano a rigorosi standard di affidabilità a tutela dei consumatori e della reputazione del comparto."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-evs/article/3370548/brake-pedal-failures-luxury-ev-put-chinese-cars-quality-regulatory-spotlight?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4579a0a4",
+   "sez": "ingegneria",
+   "titolo": "AR Emerging awards 2026, annunciati i candidati della rosa finale",
+   "orig": "AR Emerging awards 2026 shortlist revealed",
+   "lead": "La rivista Architectural Review ha annunciato la lista dei finalisti selezionati per l'edizione 2026 degli AR Emerging awards, prestigioso riconoscimento dedicato ai progettisti emergenti a livello internazionale. Tra i candidati inclusi figurano architetti che sperimentano l'impiego innovativo della terra battuta, riscoprono le tipologie edilizie e i materiali tradizionali delle proprie comunità locali e progettano nuovi spazi collettivi e di aggregazione. La selezione valorizza studi capaci di affrontare le esigenze sociali ed ecologiche contemporanee attraverso approcci architettonici sostenibili. Lo riferisce The Architectural Review.",
+   "more": [
+    "Gli AR Emerging awards sono considerati un punto di riferimento globale per scoprire i giovani talenti dell'architettura e della progettazione spaziale. Il premio privilegia progetti che reinterpretano le tradizioni costruttive locali in chiave contemporanea, integrando materiali naturali e favorendo la creazione di spazi pubblici inclusivi capaci di rafforzare il senso di comunità nei contesti urbani e rurali."
+   ],
+   "fonti": [
+    {
+     "n": "The Architectural Review",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectural-review.com/awards/ar-emerging/ar-emerging-awards-2026-shortlist-revealed",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z07b48f7b",
+   "sez": "economia",
+   "titolo": "Pechino, arrestati i vertici di Yiren Digital dopo insolvenze miliardarie",
+   "orig": "Beijing police detain Yiren Digital chairman after massive product defaults",
+   "lead": "Le autorità di polizia di Pechino hanno arrestato uno dei vertici di Yiren Digital, operatore cinese di credito digitale quotato sui listini statunitensi, a seguito dell'insolvenza di due piattaforme di investimento collegate che non rimborsavano i risparmiatori da oltre quattro mesi. L'Ufficio di pubblica sicurezza della capitale ha aperto un'indagine penale sulle società legate al gruppo CreditEase per presunte attività finanziarie illecite, fermando i responsabili dell'azienda, tra cui un uomo di 53 anni e una donna di 51 anni. Lo riferisce South China Morning Post.",
+   "more": [
+    "Le piattaforme di prestito digitale e intermediazione finanziaria online hanno vissuto in Cina una stagione di forte espansione, seguita da una severa stretta normativa per arginare rischi di dissesto e frodi. Quando gli strumenti di investimento non garantiti subiscono insolvenze diffuse, le autorità giudiziarie intervengono con indagini penali per tutelare i piccoli risparmiatori e accertare la corretta gestione dei capitali raccolti."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/banking-finance/article/3370569/beijing-police-detain-yiren-digital-chairman-after-massive-product-defaults?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3d2e4a4e",
+   "sez": "economia",
+   "titolo": "Adidas punta su abbigliamento outdoor e danza di strada per crescere in Cina",
+   "orig": "Adidas CEO taps outdoor sport, street dance as new China growth drivers in fierce market",
+   "lead": "Il colosso tedesco dell'abbigliamento sportivo Adidas punta sulle linee dedicate alle attività all'aperto e alla danza urbana per alimentare la propria crescita sul mercato cinese, caratterizzato da un'intensa concorrenza con marchi nazionali ed esteri. L'amministratore delegato Bjorn Gulden ha spiegato a Shanghai che nel Paese asiatico si registra un forte interesse per la corsa e le discipline outdoor. Il dirigente ha inoltre evidenziato come la danza di strada stia attirando una crescente attenzione tra gli studenti universitari, trasformandosi in una tendenza centrale per il gruppo. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "Il settore dell'abbigliamento sportivo comprende la progettazione e la commercializzazione di calzature, accessori e indumenti tecnici per l'attività fisica e il tempo libero. I grandi produttori internazionali operano a livello globale distribuendo collezioni specializzate e monitorano con attenzione i cambiamenti culturali nei mercati chiave per intercettare i gusti delle nuove generazioni e preservare la propria competitività commerciale."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-business/article/3370520/adidas-ceo-taps-outdoor-sport-street-dance-new-drivers-china-competition-heightens?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcd48587d",
+   "sez": "economia",
+   "titolo": "Bonus nido, l'INPS attiva la mappa delle strutture sul portale della famiglia",
+   "orig": "Bonus nido, trovare l?asilo diventa più semplice: ecco la mappa delle strutture sul portale della famiglia",
+   "lead": "Trovare un asilo nido diventa più semplice grazie a un nuovo strumento integrato nel Portale della Famiglia e della Genitorialità dell'INPS. Il servizio digitale dell'istituto di previdenza si arricchisce infatti di una mappa delle strutture presenti sul territorio, pensata per agevolare la ricerca e la vita quotidiana dei genitori. Oltre all'erogazione di contributi economici e del bonus per l'infanzia, l'iniziativa mira a fornire alle famiglie una panoramica diretta e funzionale per individuare le sedi disponibili in modo chiaro e immediato. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "L'INPS è il principale ente previdenziale italiano e gestisce la liquidazione delle pensioni e le prestazioni di sostegno al reddito e alla famiglia. Tra i suoi compiti rientrano la gestione di agevolazioni economiche destinate ai nuclei con minori e lo sviluppo di servizi telematici volti a facilitare l'accesso alle informazioni e alle misure di assistenza pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/bonus_nido_come_trovare_asilo_mappa_strutture-9820076.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf09e8ec9",
+   "sez": "ingegneria",
+   "titolo": "I fondatori di Le Cornichon aprono a Parigi il locale Le Poisson Volant",
+   "orig": "Le Cornichon’s founders open new Paris nightspot, Le Poisson Volant",
+   "lead": "A Parigi i ristoratori Bertrand Chauveau e Paul Henri, già noti come fondatori dell'insegna Le Cornichon, hanno inaugurato un nuovo locale notturno denominato Le Poisson Volant. Per dare forma all'iniziativa, la coppia è tornata a collaborare con lo studio Claves Architecture, guidando una trasformazione radicale degli spazi che un tempo ospitavano lo storico locale L'International. La struttura è stata completamente ripensata per unire le funzioni di ristorante e discoteca, offrendo al pubblico della capitale francese una nuova destinazione per la ristorazione e l'intrattenimento serale. Lo riferisce Wallpaper*.",
+   "more": [
+    "I progetti di riqualificazione nel settore dell'ospitalità e dell'intrattenimento combinano architettura d'interni, acustica e gestione dei flussi di pubblico. Il recupero di storici spazi serali permette di valorizzare la memoria urbana trasformando al contempo ambienti preesistenti in locali polifunzionali capaci di ospitare sia servizi di ristorazione sia eventi musicali o di svago."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/travel/restaurants/le-poisson-volant-paris-opening",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9dbd0289",
+   "sez": "economia",
+   "titolo": "Banca Monte dei Paschi convoca un consiglio straordinario sul riassetto",
+   "orig": "Mps, arriva il consiglio dopo il rilancio di Intesa e il no dei soci alle Ops",
+   "lead": "Banca Monte dei Paschi di Siena riunisce i propri vertici per fare il punto sul riassetto societario e sulle prospettive strategiche dell'istituto. Un consiglio di amministrazione straordinario è stato convocato nel primo pomeriggio con l'obiettivo di esaminare la situazione finanziaria alla luce delle ultime novità del mercato. Il vertice arriva dopo il rilancio promosso da Intesa Sanpaolo e la netta opposizione espressa dai soci nei confronti delle offerte pubbliche di scambio, delineando un passaggio cruciale per definire gli equilibri futuri della banca toscana. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "Banca Monte dei Paschi di Siena è uno dei più antichi istituti bancari in attività al mondo e rappresenta una delle principali realtà creditizie italiane. La società svolge attività di credito commerciale, retail e corporate, operando su scala nazionale attraverso una vasta rete di filiali e interagendo costantemente con i mercati finanziari e le autorità di vigilanza."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/mps_arriva_consiglio_dopo_rilancio_di_intesa_no_soci_alle_ops-9818668.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "zee7bf49a",
+   "sez": "ingegneria",
+   "titolo": "A Ojai riapre l'hotel El Roblar tra arte e architettura revival spagnolo",
+   "orig": "At El Roblar hotel, Ojai's bohemian spirit finds a new home",
+   "lead": "Nella cittadina californiana di Ojai lo spirito bohémien locale trova una nuova espressione con la riapertura dell'hotel El Roblar, storico edificio centenario costruito secondo lo stile revival spagnolo. La struttura torna ad accogliere gli ospiti presentandosi arricchita da una singolare collezione di opere d'arte, oggetti d'antiquariato e dettagli tipici della tradizione californiana. L'intervento di rinnovamento celebra l'identità del territorio valorizzando l'architettura d'epoca e offrendo un'atmosfera eccentrica che unisce il fascino del passato all'ospitalità contemporanea per chi visita la valle. Lo riferisce Wallpaper*.",
+   "more": [
+    "Lo stile revival spagnolo è una corrente architettonica sviluppatasi principalmente negli Stati Uniti tra la fine dell'Ottocento e l'inizio del Novecento. È caratterizzato da tetti in tegole di terracotta, pareti intonacate, archi a tutto sesto e cortili interni, elementi ispirati agli insediamenti coloniali e ampiamente diffusi nelle strutture ricettive storiche della California."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/travel/hotels/el-roblar-ojai-hotel-review",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z532d881d",
+   "sez": "cultura",
+   "titolo": "Nada Ghazal presenta a Londra la sua prima collezione di alta gioielleria",
+   "orig": "‘This presents a different kind of creative freedom’ – Nada Ghazal unveils first full high jewellery collection",
+   "lead": "La designer di gioielli di origine libanese Nada Ghazal ha presentato al pubblico la sua prima collezione completa di alta gioielleria, battezzata Echoes. L'esordio della nuova linea è avvenuto a Londra durante la fiera PAD, prestigioso appuntamento internazionale dedicato al design e alle arti decorative. La creatrice ha sottolineato come questo progetto rappresenti una forma differente di libertà creativa rispetto al proprio percorso precedente, traducendosi in pezzi preziosi di alto artigianato che esplorano forme scultoree e linguaggi materici inediti per il suo marchio. Lo riferisce Wallpaper*.",
+   "more": [
+    "L'alta gioielleria si distingue per l'impiego di metalli nobili, gemme rare e tecniche artigianali di altissima precisione. Le creazioni appartenenti a questa categoria sono spesso realizzate in esemplari unici o tirature estremamente limitate, posizionandosi al confine tra oreficeria e arti applicate, e vengono presentate all'interno di importanti saloni internazionali di collezionismo e design."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/watches-jewellery/nada-ghazal-echoes-debut-high-jewellery",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0e1d44a8",
+   "sez": "economia",
+   "titolo": "Corte dei Conti: debito pubblico sotto pressione, serve più avanzo primario",
+   "orig": "Corte dei Conti: «Dinamica debito in affanno, urgente irrobustire avanzo primario»",
+   "lead": "Lo scenario economico dell'Italia rimane esposto a rilevanti rischi orientati al ribasso, rendendo indispensabile un rafforzamento dell'avanzo primario per garantire la tenuta dei conti pubblici. Il monito è stato espresso da Vincenzo Palomba, intervenuto in Parlamento a nome della Corte dei Conti nell'ambito di un'audizione istituzionale. Il magistrato contabile ha evidenziato come la dinamica complessiva del debito nazionale si trovi attualmente in affanno, richiedendo interventi tempestivi e rigorosi per irrobustire il saldo di bilancio e scongiurare ulteriori tensioni sulle finanze statali. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "La Corte dei Conti è l'organo costituzionale italiano incaricato di verificare la corretta gestione delle risorse pubbliche da parte dello Stato e degli enti locali. Esercita funzioni di controllo preventivo e successivo sulla spesa e sull'andamento dei bilanci, riferendo periodicamente al Parlamento per garantire la trasparenza e l'equilibrio dei conti nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/corte_dei_conti_debito_economia_italia_avanzo_primario-9820111.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z47d72710",
+   "sez": "economia",
+   "titolo": "Del Vecchio attacca Milleri: eredità bloccata per trecento milioni",
+   "orig": "Lmdv: “Eredità bloccata per 300 milioni, Milleri dovrebbe essere teso con Essilux che perde il 50%”",
+   "lead": "Leonardo Maria Del Vecchio è intervenuto pubblicamente durante una puntata del podcast condotto da Fedez, affrontando apertamente i nodi legati alla successione familiare e alla gestione aziendale. L'erede ha rivelato che la propria quota ereditaria da trecento milioni di euro risulta attualmente bloccata e ha rivolto dure critiche a Francesco Milleri, amministratore delegato di EssilorLuxottica. Secondo Del Vecchio, il manager dovrebbe essere preoccupato per le performance del gruppo, che a suo dire avrebbe perso la metà del proprio valore in assenza della visione paterna. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "EssilorLuxottica è un gruppo multinazionale leader mondiale nella progettazione, produzione e distribuzione di lenti oftalmiche, montature per occhiali da vista e occhiali da sole. La società controlla marchi di primaria importanza globale e un'estesa rete commerciale, costituendo un punto di riferimento strategico per l'industria ottica e i mercati finanziari internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/12/news/lmdv_eredita_bloccata_per_300_milioni_milleri_dovrebbe_essere_teso_con_essilux_che_perde_il_50-425643149/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z48ebb4e2",
+   "sez": "ingegneria",
+   "titolo": "Versatile International vince il terzo contratto consecutivo per Diriyah in Arabia Saudita",
+   "orig": "Versatile International Wins Third Consecutive Diriyah Company Contract As Stone Project Management Consultant",
+   "lead": "La società Versatile International, prima società di consulenza integrata per la gestione di progetti lapidei in Medio Oriente, ha ottenuto il terzo contratto triennale consecutivo con Diriyah Company in Arabia Saudita. L'accordo prevede la prosecuzione dei servizi specialistici di consulenza per il project management nell'impiego della pietra all'interno di uno dei più imponenti sviluppi urbani e turistici dell'intero Regno saudita. La conferma testimonia il ruolo chiave dell'azienda nel garantire standard qualitativi elevati nella realizzazione delle opere monumentali e degli spazi pubblici previsti dal piano di Diriyah. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "La gestione specialistica dei progetti lapidei riguarda la selezione, la lavorazione e la posa di pietre naturali e marmi in complessi architettonici di grande scala. Questo tipo di consulenza ingegneristica assicura la durabilità dei materiali, il rispetto delle normative costruttive e l'armonia estetica in interventi monumentali o di rigenerazione urbana."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/versatile-international-third-diriyah-contract-stone-consultant/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9da345ec",
+   "sez": "ingegneria",
+   "titolo": "L'aeroporto internazionale di Noida valuta servizi di aerotaxi con ePlane Company",
+   "orig": "Noida International Airport to Explore Air Taxi, Air Ambulance Services with the ePlane Company",
+   "lead": "L'aeroporto internazionale di Noida ha avviato una collaborazione con l'azienda ePlane Company per studiare l'introduzione di servizi di mobilità aerea urbana, inclusi aerotaxi e ambulanze aeree. Questa partnership infrastrutturale si affianca a importanti progressi sul piano ingegneristico, maturati in seguito alla recente presentazione pubblica del prototipo in scala reale denominato e200X PT-01. L'iniziativa punta a integrare velivoli elettrici a decollo verticale nelle operazioni dell'aeroporto indiano, aprendo la strada a collegamenti rapidi per passeggeri e interventi sanitari d'emergenza nel bacino regionale. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "I servizi di aerotaxi e di soccorso aereo con velivoli elettrici a decollo e atterraggio verticale rappresentano una frontiera della mobilità urbana avanzata. Questi velivoli sono progettati per decongestionare il traffico stradale, ridurre le emissioni inquinanti e garantire tempi di trasporto rapidi tra nodi aeroportuali e centri urbani per passeggeri ed emergenze sanitarie."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/logistics-news/noida-international-airport-to-explore-air-taxi-air-ambulance-services-with-the-eplane-company/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "za46dbe96",
+   "sez": "economia",
+   "titolo": "Telemarketing selvaggio, l'Agcom sanziona gli operatori per mancata vigilanza sui numeri",
+   "orig": "Telemarketing, l’Autorità si muove sugli operatori Tlc: sanzione per non aver vigilato sui numeri",
+   "lead": "L'Autorità per le garanzie nelle comunicazioni è intervenuta contro il telemarketing abusivo, avviando sanzioni nei confronti delle grandi compagnie telefoniche per non aver sorvegliato adeguatamente l'uso delle proprie numerazioni. L'azione del regolatore mira a obbligare gli operatori di telecomunicazioni a vigilare sull'impiego delle linee, spesso sfruttate tramite migliaia di recapiti italiani usa e getta per chiamate promozionali moleste. Di fronte ai provvedimenti, la società Retelit ha replicato dichiarando la propria estraneità alle pratiche contestate, mentre il settore considera questo intervento un possibile punto di svolta normativo. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "L'Autorità per le garanzie nelle comunicazioni è l'organismo indipendente italiano preposto alla tutela della concorrenza e dei consumatori nei mercati delle telecomunicazioni, dell'editoria e dell'audiovisivo. Tra le sue competenze figurano la vigilanza sulla trasparenza tariffaria, la gestione del registro delle opposizioni e l'irrogazione di sanzioni per violazioni della privacy o abuso commerciale."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/12/news/telemarketing_agcom_sanzione_call_center-425642704/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze4bc57e3",
+   "sez": "economia",
+   "titolo": "Edison Energia punta a quattro milioni di contratti entro il 2030",
+   "orig": "Massimo Quaglini (Edison Energia): \"Più servizi e prossimità\"",
+   "lead": "L'amministratore delegato di Edison Energia, Massimo Quaglini, ha illustrato la strategia di crescita della società, annunciando l'obiettivo di raggiungere quota quattro milioni di contratti entro il 2030. Per centrare questo traguardo, il gruppo energetico intende rafforzare la vicinanza territoriale e incrementare i servizi offerti ai clienti. I piani dell'azienda prevedono inoltre la diversificazione delle attività commerciali e una presenza sempre più solida nei segmenti di mercato a più alto valore aggiunto, puntando su prossimità ed efficienza per espandere il portafoglio clienti nei prossimi anni. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "Edison Energia è la divisione commerciale del gruppo Edison, una delle principali aziende energetiche italiane operanti nella fornitura di elettricità e gas naturale. La società si occupa della vendita di energia a clienti residenziali, piccole medie imprese e grandi industrie, sviluppando al contempo soluzioni per l'efficienza energetica e servizi di assistenza domestica."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/10/12/news/massimo_quaglini_edison_energia_piu_servizi_e_prossimita-425642667/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5d0cede3",
+   "sez": "economia",
+   "titolo": "ADCB e ORA Developers lanciano finanziamenti per gli acquirenti del progetto BAYN",
+   "orig": "ADCB And ORA Developers Launch Off-Plan Financing For BAYN Buyers",
+   "lead": "Abu Dhabi Commercial Bank e la società immobiliare ORA Developers hanno stretto un accordo strategico per offrire soluzioni di credito ipotecario su carta destinate a chi acquista unità nel complesso BAYN. La collaborazione consente ai clienti idonei di accedere a formule di mutuo già durante la fase di costruzione dell'opera. L'accesso al finanziamento bancario è tuttavia vincolato al rispetto dei requisiti normativi, che impongono il versamento obbligatorio e regolamentato di almeno il cinquanta per cento del valore commerciale dell'immobile prima di poter beneficiare dell'erogazione. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "I finanziamenti immobiliari off-plan consentono di ottenere un mutuo per l'acquisto di proprietà ancora in fase di costruzione o progettazione. Questo strumento di credito bancario permette agli sviluppatori di assicurarsi liquidità e agli investitori di concordare piani di pagamento rateali legati allo stato di avanzamento dei cantieri nel settore immobiliare."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/adcb-and-ora-developers-launch-off-plan-financing-for-bayn-buyers/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z46e9b948",
+   "sez": "economia",
+   "titolo": "Malesia, vaccini e sterilizzazione degli animali inclusi negli sgravi fiscali della manovra 2027",
+   "orig": "Budget 2027: Pet vaccination, sterilisation eligible for tax relief",
+   "lead": "In Malesia il governo ha avanzato una proposta per estendere l'ambito delle agevolazioni fiscali previste sui redditi individuali in occasione del bilancio per il 2027. La misura presentata a Kuala Lumpur intende includere le spese veterinarie per la vaccinazione e la sterilizzazione degli animali domestici tra le detrazioni ammissibili per le spese legate allo stile di vita dei cittadini. L'iniziativa punta a sostenere economicamente i proprietari di animali da compagnia, incentivando al tempo stesso la prevenzione sanitaria veterinaria e una gestione responsabile degli animali sul territorio nazionale. Lo riferisce Malay Mail.",
+   "more": [
+    "Le detrazioni fiscali per lo stile di vita sono meccanismi tributari che consentono ai contribuenti di ridurre il reddito imponibile portando in deduzione specifiche spese personali o familiari. L'inclusione delle cure veterinarie preventive tra queste agevolazioni incentiva la profilassi sanitaria e favorisce il benessere degli animali da compagnia nelle comunità urbane."
+   ],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/12/budget-2027-pet-vaccination-sterilisation-eligible-for-tax-relief/238856",
+     "angolo": "",
+     "atlas": "Malaysia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6ca42708",
+   "sez": "economia",
+   "titolo": "Namibia, il fondo pensioni GIPF rischia 815 milioni per un contenzioso fiscale in Sudafrica",
+   "orig": "GIPF faces SARS tax storm involving N$815m",
+   "lead": "Il fondo pensionistico dei dipendenti pubblici della Namibia rischia di perdere ottocentoquindici milioni di dollari namibiani investiti in un veicolo finanziario sudafricano. A renderlo noto davanti all'Assemblea Nazionale è stata la ministra delle Finanze Ericah Shafudah, spiegando che l'ingente somma dipende dall'esito di una complessa vertenza tributaria in corso con l'agenzia delle entrate del Sudafrica. Se i giudici dovessero pronunciarsi contro la società destinataria dell'investimento, il fondo previdenziale statale subirebbe un pesante danno patrimoniale, sollevando forti preoccupazioni sulla gestione delle risorse istituzionali affidate all'estero. Lo riferisce The Namibian.",
+   "more": [
+    "I fondi pensionistici sovrani o di categoria investono i contributi dei lavoratori in strumenti finanziari nazionali e internazionali per preservarne il valore nel lungo periodo. Le controversie tributarie transfrontaliere possono tuttavia bloccare i capitali e minacciare i rendimenti, richiedendo il monitoraggio costante delle autorità governative e dei ministeri competenti."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/gipf-faces-sars-tax-storm-involving-n815m/",
+     "angolo": "",
+     "atlas": "Namibia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6de874ab",
+   "sez": "ingegneria",
+   "titolo": "A Baleshwar una casa monolitica in cemento richiama le dimore monastiche",
+   "orig": "\"Monolithic\" concrete house informed by rock-cut monastic homes",
+   "lead": "A Baleshwar lo studio di architettura Roomoor ha portato a termine la realizzazione di Monastic Field, una residenza in cemento situata all'interno del recinto di un tempio giainista. L'edificio si ispira esplicitamente alle storiche dimore scavate nella roccia dei monaci dell'altopiano del Deccan. La casa monolitica è stata progettata per la famiglia che nel 2005 aveva originariamente donato il terreno per la costruzione del luogo di culto, inserendosi con discrezione nel contesto spirituale e reinterpretando le forme sobrie e introverse dell'architettura religiosa tradizionale. Lo riferisce Dezeen.",
+   "more": [
+    "L'architettura ipogea e rupestre dell'altopiano del Deccan vanta una lunga tradizione di templi e celle monastiche intagliate direttamente nella pietra vulcanica. Questa tipologia costruttiva garantisce isolamento termico e protezione dal clima arido, offrendo un modello spaziale caratterizzato da volumi massicci, geometrie essenziali e un forte senso di raccoglimento spirituale."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5bfd57f0",
+   "sez": "economia",
+   "titolo": "Namibia, i lavoratori a basso salario intrappolati dalla povertà",
+   "orig": "Namibia’s working poor trapped by low wages",
+   "lead": "In Namibia molti lavoratori con occupazione regolare restano intrappolati in condizioni di povertà a causa di retribuzioni insufficienti a coprire il costo della vita. La vicenda della giovane Laina Kangayi riflette una condizione diffusa: assunta nel 2024 come cassiera in un negozio di Windhoek, guadagna tra mille e novecento e duemila e cinquecento dollari namibiani al mese. Nonostante un impiego stabile, la donna fatica ad acquistare beni di prima necessità e a sostenere le spese essenziali, evidenziando il dramma dei lavoratori poveri nel contesto economico della capitale namibiana. Lo riferisce The Namibian.",
+   "more": [
+    "Il fenomeno dei lavoratori poveri descrive la condizione di chi, pur svolgendo un'attività lavorativa continuativa, percepisce entrate non adeguate a superare la soglia di povertà. Nei paesi in via di sviluppo l'inflazione sui generi alimentari e la debolezza delle tutele salariali aggravano questo divario, impedendo l'emancipazione economica di ampie fasce di giovani occupati."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/namibias-working-poor-trapped-by-low-wages/",
+     "angolo": "",
+     "atlas": "Namibia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:34",
+   "uscita": "sera"
+  },
+  {
    "id": "z89befd18",
    "sez": "ingegneria",
    "titolo": "Holcim apre una rotta ferroviaria per trasportare inerti verso il porto di Sunderland",
@@ -3824,29 +5565,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z7897385b",
-   "sez": "cucina",
-   "titolo": "Barbados, il Food & Rum Festival valorizza i prodotti degli agricoltori locali",
-   "orig": "Food & Rum Festival showcases home‑grown flavours",
-   "lead": "I produttori agricoli e i pescatori locali saranno i protagonisti della nuova edizione del Food & Rum Festival a Barbados, con menu interamente incentrati sulle materie prime coltivate e pescate sul territorio caraibico. La manifestazione gastronomica punta a promuovere le ricette autentiche e la filiera corta dell'isola, valorizzando le eccellenze agricole direttamente reperite dalle comunità barbadiane. La rassegna celebra la tradizione culinaria locale attraverso creazioni culinarie d'autore e distillati artigianali. Lo riferisce Barbados Today.",
-   "more": [
-    "I festival enogastronomici caraibici coniugano la promozione del rum tradizionale con la cucina creola e locale, fungendo da traino per il turismo sostenibile e la valorizzazione della produzione agricola territoriale."
-   ],
-   "fonti": [
-    {
-     "n": "Barbados Today",
-     "p": "XX",
-     "c": "Bridgetown",
-     "u": "https://barbadostoday.bb/2026/10/11/food-rum-festival-showcases-home-grown-flavours/",
-     "angolo": "",
-     "atlas": "Barbados"
-    }
-   ],
-   "data": "12 ott",
-   "ora": "23:27",
-   "uscita": "sera"
-  },
-  {
    "id": "zf088406d",
    "sez": "tech",
    "titolo": "Tagikistan, vertici di NVIDIA e OpenAI attesi alla conferenza sull'IA a Dushanbe",
@@ -7615,6 +9333,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-llega-a-tres-partidos-sin-ganar-en-la-liga-ecuabet-nota/",
      "angolo": "",
      "atlas": "Ecuador"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/deportes/futbol/liga-de-quito-entrega-una-camiseta-personalizada-a-marcelo-gallardo-durante-su-visita-al-rodrigo-paz-delgado-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
     }
    ],
    "data": "12 ott",
@@ -8648,6 +10374,22 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://www.rainews.it/articoli/ultimora/nobel-economia-2026-a-ehall-e-woodford--0a074278-b1bf-4130-b78c-aeab93bd00fd.html",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/12/world/nobel-economics-prize/",
+     "angolo": "",
+     "atlas": "Japan"
+    },
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/i-vincitori-dei-premi-nobel-2026-chi-sono-e-perche-sono-stati-premiati/",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "12 ott",
@@ -9036,6 +10778,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://www.theglobeandmail.com/world/video-putin-does-not-read-truth-social-zelensky-says-russia-broke-energy/",
      "angolo": "",
      "atlas": "Canada"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/zelensky-says-russia-has-already-violated-trumps-surprise-energy-ceasefire/",
+     "angolo": "",
+     "atlas": "Egypt"
     }
    ],
    "data": "12 ott",
@@ -11360,29 +13110,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z7acef144",
-   "sez": "viaggi",
-   "titolo": "Gambia, accolti i primi turisti della stagione 2026/27",
-   "orig": "Gambia Welcomes First Tourists of 2026/27 Season as Industry Eyes Recovery and Growth",
-   "lead": "La stagione turistica 2026/27 in Gambia si è aperta ufficialmente venerdì all'aeroporto internazionale di Banjul, con una cerimonia di benvenuto per il primo volo charter arrivato da Londra con 139 visitatori a bordo. Le autorità si aspettano una stagione duratura per la «Costa sorridente dell'Africa», nota per le spiagge, l'ospitalità della popolazione e i luoghi per il birdwatching. Il settore guarda a questo avvio come a un'occasione di ripresa e di crescita. Lo riferisce Foroyaa.",
-   "more": [
-    "Il Gambia è il più piccolo Stato dell'Africa continentale, una stretta fascia di territorio lungo l'omonimo fiume, circondata dal Senegal tranne che sulla costa atlantica. Il turismo, legato soprattutto ai voli charter dall'Europa nei mesi invernali, è una voce importante della sua economia."
-   ],
-   "fonti": [
-    {
-     "n": "Foroyaa",
-     "p": "XX",
-     "c": "Banjul",
-     "u": "https://foroyaa.net/gambia-welcomes-first-tourists-of-2026-27-season-as-industry-eyes-recovery-and-growth/",
-     "angolo": "",
-     "atlas": "Gambia"
-    }
-   ],
-   "data": "12 ott",
-   "ora": "23:10",
-   "uscita": "sera"
-  },
-  {
    "id": "zc992c5b7",
    "sez": "ambiente",
    "titolo": "Le donne che mettono la comunità al centro della tutela degli elefanti",
@@ -11695,6 +13422,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://www.repubblica.it/tecnologia/2026/10/12/news/attacco-hacker-frigoriferi-supermercati-francia-50-gradi-425643770/?rss",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000343886/cyberangriff-st246rt-k252hlanlagen-franz246sischer-handelsketten?ref=rss",
+     "angolo": "",
+     "atlas": "Austria"
     }
    ],
    "data": "12 ott",
@@ -14752,7 +16487,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z50a2f11e": "NPR legge le nuove lauree come risposta degli atenei ai cambiamenti del lavoro.",
   "zc2de96b5": "NPR presenta Vic Mensa come voce alternativa ai modelli maschili dominanti nel rap.",
   "z0c670900": "Vatican News mette in risalto il richiamo etico alla verità nell'informazione.",
-  "z7acef144": "Foroyaa sottolinea l'ottimismo delle autorità per la ripresa del settore.",
   "zc992c5b7": "Positive News valorizza la leadership femminile e il ruolo delle comunità.",
   "z0e13358c": "La Cucina Italiana ricorda la sua capacità di rendere la cucina semplice e accessibile.",
   "z3800d641": "Hespress mette in evidenza il rischio per nuove aree del Paese.",
@@ -14992,7 +16726,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "zd88513c7": "Medical Xpress mette in rilievo le rassicurazioni cliniche offerte dai dati epidemiologici pubblicati sulla prestigiosa rivista medica.",
   "zdb6bd799": "Il quotidiano mette in evidenza la reazione immediata dell'autorità di vigilanza per contenere le ripercussioni delle tensioni commerciali con Washington.",
   "zf1b84996": "The New York Times riporta l'impatto improvviso della turbolenza, il bilancio dei passeggeri feriti e l'atterraggio imprevisto in Florida.",
-  "z7897385b": "Barbados Today sottolinea il ruolo centrale riservato alle comunità di contadini e pescatori dell'isola nei menu della kermesse.",
   "zf088406d": "Asia-Plus evidenzia la presenza senza precedenti dei colossi tecnologici statunitensi nella capitale tagika.",
   "zd83b4f1b": "New Civil Engineer mette in risalto la verifica indipendente dell'ente atomico britannico sui risultati di temperatura ottenuti dal reattore.",
   "z386e0dea": "Science sottolinea la portata scientifica dell'iniziativa, che potrebbe svelare la nascita di Phobos e contenere rocce marziane primordiali.",
@@ -15115,7 +16848,82 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z58f3bb33": "Sun Online evidenzia il traguardo professionale del giovane giornalista all'esordio come autore.",
   "z32d088f7": "The EastAfrican mette in evidenza il pragmatismo strategico dei governi africani nelle relazioni commerciali.",
   "zce199180": "Construction Dive evidenzia i vantaggi di tempo e organizzazione offerti dall'uso di moduli prefabbricati.",
-  "zfdc8cbdf": "Geopop mette in risalto il concorso tra il fattore climatico naturale di El Niño e la responsabilità delle bonifiche umane."
+  "zfdc8cbdf": "Geopop mette in risalto il concorso tra il fattore climatico naturale di El Niño e la responsabilità delle bonifiche umane.",
+  "za2411032": "La testata celebra la carica poetica e l'intensità agonistica della sfida tra le due nazionali africane.",
+  "z3317d77c": "La testata evidenzia l'utilità di un modello aperto multimodale applicabile a molteplici esigenze mediche.",
+  "z8cdfa76a": "La testata evidenzia l'ondata di investimenti industriali e l'espansione dei poli produttivi in vari Stati americani.",
+  "z163fe352": "La testata mette in luce il dilemma ecologico tra la protezione idraulica di Venezia e la salvaguardia naturale delle barene.",
+  "z656ed0cf": "La testata pone l'accento sull'indisponibilità di Neuer e sulle insidie del campo sintetico in Norvegia.",
+  "zdb6c94e1": "La testata mette in risalto il tentativo iraniano di condizionare il commercio marittimo e l'impatto sui prezzi energetici.",
+  "z8ecb5a10": "La testata sottolinea la portata storica del nuovo cantiere navale militare, il primo realizzato da zero negli Stati Uniti dal dopoguerra.",
+  "z5abe92d5": "La testata racconta la rinascita dell'Hotel Morava, da storico ritrovo sindacale socialista a moderna struttura a quattro stelle.",
+  "zf2da4a36": "La testata mette in risalto i benefici della formulazione sottocutanea di infliximab nella remissione clinica delle malattie infiammatorie intestinali.",
+  "z64cfc114": "La testata evidenzia il trionfo della giovane regista Traoré e la valorizzazione del talento femminile nel cinema burkinabé.",
+  "z2cafdb56": "La testata sottolinea l'opportunità formativa offerta agli studenti universitari uzbeki con l'accesso gratuito all'intelligenza artificiale di Google.",
+  "zc024d3dd": "La testata riporta la ricostruzione della sospensione del match e la reazione sdegnata dei dirigenti locali.",
+  "z318f981d": "La testata sottolinea l'espansione strategica del gruppo edile nelle infrastrutture per data center con l'appalto in Texas.",
+  "z1dad796a": "La testata evidenzia la sostenuta crescita a doppia cifra registrata dai servizi digitali e dalle comunicazioni in Uzbekistan.",
+  "z619770f0": "The Point sottolinea la fiducia delle autorità turistiche gambiane per la nuova stagione invernale inaugurata dall'arrivo del volo inaugurale.",
+  "za2fca8df": "Seneweb mette in risalto il profilo di Arsène Wenger quale figura capace di catalizzare il fronte di dissenso sorto contro l'attuale vertice della Fifa.",
+  "z0bc58d0b": "The Hindu evidenzia l'introduzione della corsa panoramica come soluzione per valorizzare l'atmosfera festiva e misurare l'interesse turistico locale.",
+  "z9b8f925c": "IEEE Spectrum pone l'accento sull'impegno tecnico necessario per rendere trasparente e verificabile il comportamento dei moderni modelli di intelligenza artificiale.",
+  "z80bef8ce": "Island Times mette in risalto il valore formativo del programma per contrastare la scarsità di organico nelle testate giornalistiche insulari.",
+  "z6e9c6ec8": "Barbados Today pone l'attenzione sulla cooperazione tra coltivatori e strutture ricettive per aumentare il consumo di cibo autoctono.",
+  "zbfd927f7": "IEEE Spectrum sottolinea il primato globale dell'impianto geotermico avanzato e la transizione dalle fasi di prova alla fornitura commerciale in rete.",
+  "zefdda147": "Dominica News Online pone l'accento sulla partecipazione governativa alle celebrazioni volte a valorizzare l'identità e il patrimonio nazionale.",
+  "z93e62452": "Science evidenzia le discrepanze tra le paure demografiche matematiche ipotizzate nel 1960 e le attuali percezioni delle crisi globali.",
+  "z581f98a4": "The Kathmandu Post mette in risalto le pressioni dei deputati sui temi delle frontiere e della protezione della comunità nepalese all'estero.",
+  "za467b0da": "IEEE Spectrum illustra l'efficacia della separazione tra pianificazione ed esecuzione per migliorare il controllo dinamico degli umanoidi.",
+  "ze831e39b": "Philippine Daily Inquirer evidenzia la divergenza tra i rialzi di benzina e cherosene e il marcato calo del costo del gasolio.",
+  "zef94c29d": "Daryo sottolinea l'interesse reciproco nello sviluppo industriale di accumulatori e nell'attrazione di capitali per l'energia in Uzbekistan.",
+  "z2758797a": "Philippine Daily Inquirer richiama l'urgenza di tutelare acqua ed energia di fronte alle vulnerabilità delle reti idroelettriche storiche.",
+  "z1c696b8b": "Haaretz mette in risalto il vincolo temporale imposto dalla massima istanza giudiziaria alle autorità statali per gestire l'emergenza degli sfollati.",
+  "z873c41a0": "IEEE Spectrum sottolinea l'impatto trasversale dell'intelligenza artificiale, destinata a integrarsi strettamente con medicina e infrastrutture.",
+  "z91e746b0": "Journal du Mali evidenzia l'adozione governativa di criteri vincolanti per ridurre i consumi elettrici sia nelle case sia nei nuovi edifici.",
+  "z75867ac0": "Daily News Egypt evidenzia l'attenzione posta dal vertice bilaterale sull'aumento dei flussi commerciali e degli investimenti manifatturieri.",
+  "z07c49b86": "Journal du Mali pone l'accento sulla portata finanziaria del progetto e sull'estensione delle superfici coltivabili destinate all'irrigazione.",
+  "z47dc9e7e": "Daily News Egypt valorizza l'intesa tra esecutivo e banca d'emissione quale perno per la stabilità finanziaria e il contenimento dell'inflazione.",
+  "z102c8205": "Il giornale mette in luce l'impatto dell'operazione di sostegno economico per le famiglie del circolo di Diré.",
+  "z284a0405": "La testata evidenzia le nuove direttive dell'autorità di vigilanza per rafforzare la trasparenza degli intermediari non bancari.",
+  "z6485b6ff": "La testata mette in luce la dinamica di crescita dei prezzi e della disponibilità di nude proprietà, con Milano al vertice dei costi.",
+  "z9348d51e": "La testata valorizza la visione dell'attivista sulla trasformazione della mobilitazione civica in un impegno stabile per la pace.",
+  "zaf6643bb": "La testata sottolinea l'impatto delle proposte europee sull'emergenza casa e il possibile allargamento dei vincoli alle periferie.",
+  "z198db3cd": "Il giornale pone l'accento sulla moda come strumento economico e di valorizzazione del patrimonio culturale del Sahel.",
+  "ze1d0eac2": "La testata mette a confronto l'intonazione positiva dell'azionario australiano con la tenuta di Wall Street e il balzo di Meta.",
+  "zc2c8dabb": "Il quotidiano sottolinea l'elevato volume di aste immobiliari e la nascita di un supporto professionale a tutela delle famiglie indebitate.",
+  "z60f3086d": "La testata richiama l'attenzione sulle elevate emissioni dei piccoli mezzi diesel da cantiere e sulle strategie per decarbonizzarli.",
+  "z2b9245a5": "La testata evidenzia la reazione dei vertici europei, spiazzati dall'intesa energetica tra Trump e Putin ma decisi a sostenere Kiev.",
+  "zd1f68169": "La testata sottolinea il giudizio positivo del CIOB sulla manovra irlandese unito al monito sui vincoli nell'edilizia e sulle tasse ambientali.",
+  "zdde03f54": "La rivista pone in primo piano l'analisi delle debolezze dell'edilizia australiana e le possibili vie per risolverne l'instabilità.",
+  "zdc4095a1": "Il quotidiano evidenzia il punto di vista cauto di Pechino, orientata a interpretare il patto sul carburante come un'operazione d'affari contingente.",
+  "z6a1598a4": "La testata mette in luce la strategia a lungo termine dello scalo di Schiphol attraverso maxi-appalti per il rinnovo delle strutture.",
+  "z6a3e6ad5": "Il quotidiano pone l'accento sulla tregua raggiunta tra Pechino e Bruxelles per limitare l'export di veicoli e disinnescare i dazi.",
+  "z12f71d45": "La testata evidenzia l'importante portafoglio di contratti conquistato da Skanska negli Stati Uniti, guidato dal progetto per la marina.",
+  "z271c42cb": "Il quotidiano mette in risalto il piano della borsa di Hong Kong per espandere gli strumenti denominati in yuan e attrarre capitali esteri.",
+  "z6bf34e81": "La rivista focalizza l'attenzione sulla scelta di premiare i giovani architetti con un trofeo realizzato in mattoni a basso impatto ecologico.",
+  "zbc149044": "Il quotidiano sottolinea lo scarso entusiasmo degli investitori di Hong Kong per il debutto del colosso della telefonia africana.",
+  "zbcbd9948": "La rivista esalta l'integrazione tra terra cruda, legno e sensibilità ecologica nel primo grande progetto europeo dello studio.",
+  "zcec7f813": "La testata sottolinea l'ambizioso progetto dell'ex banchiera per innovare la consulenza patrimoniale attraverso l'impiego di agenti di intelligenza artificiale.",
+  "z1850b406": "Il quotidiano evidenzia la reazione dei ministeri cinesi dopo il problema tecnico emerso sui freni di un'auto elettrica di punta.",
+  "z4579a0a4": "La rivista pone in luce i temi chiave della rosa dei candidati, dalla terra battuta agli spazi per la collettività.",
+  "z07b48f7b": "Il quotidiano sottolinea l'intervento delle autorità giudiziarie contro i vertici del gruppo finanziario dopo mesi di mancati rimborsi.",
+  "z3d2e4a4e": "La testata mette in evidenza la strategia commerciale di Adidas nel mercato cinese, concentrata sulle nuove tendenze giovanili e sulla forte competizione locale.",
+  "zcd48587d": "Il quotidiano valorizza l'introduzione della mappa interattiva sul portale dell'INPS come strumento pratico per semplificare la ricerca degli asili nido.",
+  "zf09e8ec9": "La testata mette in risalto la collaborazione tra i ristoratori e lo studio di architettura nella trasformazione dello storico club parigino.",
+  "z9dbd0289": "Il quotidiano evidenzia il momento delicato per i vertici di Mps, chiamati a valutare la strategia dopo le mosse di Intesa e la posizione dei soci.",
+  "zee7bf49a": "La testata pone l'accento sulla fusione tra il patrimonio storico centenario dell'edificio e la collezione artistica ed eccentrica che anima gli spazi.",
+  "z532d881d": "La testata mette in luce la svolta artistica della designer libanese e la sensazione di libertà creativa espressa dal suo debutto nell'alta gioielleria.",
+  "z0e1d44a8": "Il quotidiano evidenzia l'allarme lanciato dalla magistratura contabile in audizione parlamentare sulla vulnerabilità del debito e sulla necessità di risanamento.",
+  "z47d72710": "Il quotidiano mette in risalto lo scontro frontale tra l'erede Del Vecchio e l'amministratore delegato Milleri sulla gestione del gruppo dopo la scomparsa del fondatore.",
+  "z48ebb4e2": "La testata evidenzia il rinnovo della partnership triennale come conferma della posizione di rilievo della società di consulenza nel megaprogetto saudita.",
+  "z9da345ec": "La testata pone l'accento sullo sviluppo congiunto tra l'infrastruttura aeroportuale indiana e la tecnologia del prototipo di velivolo elettrico per i trasporti urbani.",
+  "za46dbe96": "Il quotidiano sottolinea la svolta regolatoria dell'Agcom e la risposta degli operatori per arginare l'uso massiccio di numerazioni usa e getta.",
+  "ze4bc57e3": "La testata mette in primo piano gli obiettivi di espansione commerciale dell'azienda e il piano dell'amministratore delegato verso il traguardo del 2030.",
+  "z5d0cede3": "La testata sottolinea la sinergia tra l'istituto bancario e il costruttore per facilitare l'acquisto di immobili prima del completamento delle opere.",
+  "z46e9b948": "Il quotidiano pone l'attenzione sulla proposta di bilancio statale che allarga le detrazioni fiscali personali alla cura degli animali domestici.",
+  "z6ca42708": "Il quotidiano mette in risalto le dichiarazioni del ministro delle Finanze in parlamento sui rischi finanziari che incombono sui risparmi pensionistici.",
+  "z6de874ab": "La rivista di architettura valorizza il richiamo alle storiche dimore monastiche rupestri dell'India e l'integrazione del cemento nel recinto templare.",
+  "z5bfd57f0": "Il giornale mette in risalto attraverso una testimonianza personale la discrepanza tra occupazione formale e reale autosufficienza economica in Namibia."
  },
  "contesti": {
   "zc3de7c78": "Ilhan Omar, deputata democratica del Minnesota eletta per la prima volta nel 2018, è da anni una delle voci più critiche nei confronti di Donald Trump, che l'ha più volte attaccata pubblicamente. Nei giorni scorsi il Dipartimento di Giustizia ha portato avanti un'indagine federale ancora in corso. Per quell'indagine è stato approvato un mandato, culminato oggi nella perquisizione della sua abitazione di Washington.",
@@ -15210,7 +17018,19 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "za2739fa4": "L'energia è da tempo un nodo centrale della guerra in Ucraina: i proventi di petrolio e gas finanziano lo sforzo bellico russo, mentre le infrastrutture energetiche sono bersaglio di attacchi reciproci. Già nel marzo 2025 Trump e Putin avevano discusso una sospensione dei raid sugli impianti energetici. La nuova proposta di tregua energetica della Casa Bianca è stata respinta da Zelensky e criticata da esperti militari.",
   "z32d088f7": "L'Africa punta da anni sull'integrazione commerciale, con l'Area di libero scambio continentale africana operativa dal 2021. Allo stesso tempo i governi diversificano i partner: la Cina ha rinnovato i propri impegni al Forum di cooperazione sino-africana del 2024, mentre gli Stati Uniti hanno introdotto nuovi dazi nel 2025 e lasciato scadere l'accordo preferenziale AGOA. Ne emerge un approccio sempre più pragmatico alle alleanze economiche.",
   "zb2474614": "Il tema delle condizioni economiche dei dottorandi è da tempo al centro del dibattito europeo. Nel dicembre 2023 il Consiglio dell'Unione europea ha adottato una raccomandazione su un quadro comune per le carriere nella ricerca, che invita gli Stati a garantire retribuzioni e tutele adeguate. Associazioni come Eurodoc denunciano da anni forti differenze tra Paesi, dalle borse esenti da contributi ai contratti di lavoro veri e propri.",
-  "z6950c019": "Il Giappone è da anni protagonista di Lucca Comics & Games, che dedica alla cultura nipponica l'area Japan Town. Intanto il turismo verso il Paese ha toccato livelli record, con oltre 36 milioni di visitatori internazionali nel 2024, e l'Expo di Osaka del 2025 ne ha accresciuto la visibilità. La sessantesima edizione del festival toscano si terrà dal 28 ottobre al 1° novembre 2026."
+  "z6950c019": "Il Giappone è da anni protagonista di Lucca Comics & Games, che dedica alla cultura nipponica l'area Japan Town. Intanto il turismo verso il Paese ha toccato livelli record, con oltre 36 milioni di visitatori internazionali nel 2024, e l'Expo di Osaka del 2025 ne ha accresciuto la visibilità. La sessantesima edizione del festival toscano si terrà dal 28 ottobre al 1° novembre 2026.",
+  "zdb6c94e1": "Le tensioni geopolitiche nel Medio Oriente hanno più volte coinvolto le rotte marittime del Golfo Persico, con sequestri di navi e attacchi a imbarcazioni mercantili. Negli ultimi mesi, le rotte alternative di approvvigionamento hanno ridotto la dipendenza dal passaggio del Golfo, spingendo Teheran a riaffermare la propria pressione strategica sulla navigazione internazionale per influenzare i mercati dell'energia.",
+  "z581f98a4": "Nelle scorse settimane le istituzioni di Kathmandu hanno avviato l'iter di selezione e approvazione parlamentare dei propri rappresentanti nelle principali capitali mondiali, in un contesto regionale caratterizzato da complesse questioni di confine e scambi commerciali da consolidare.",
+  "ze831e39b": "Nelle ultime settimane i distributori di carburante nell'arcipelago filippino hanno registrato frequenti oscillazioni dei listini, condizionati dalle variazioni internazionali delle quotazioni del petrolio greggio e dalle forniture dei prodotti raffinati nei mercati asiatici.",
+  "z2758797a": "Nelle scorse settimane le autorità meteorologiche hanno lanciato segnali di allarme per l'arrivo di El Niño, spingendo gli operatori energetici dell'arcipelago a verificare i livelli dei fiumi e a pianificare la gestione preventiva delle risorse idriche.",
+  "z1c696b8b": "Nelle scorse settimane le intense operazioni di sicurezza condotte nelle città della Cisgiordania settentrionale hanno costretto decine di migliaia di residenti ad abbandonare i campi di Jenin e Tulkarem, spingendo le organizzazioni umanitarie a ricorrere alla magistratura.",
+  "z75867ac0": "Nei giorni scorsi il ministero degli Esteri egiziano ha programmato visite diplomatiche in diversi Paesi dell'Asia orientale per rafforzare le partnership economiche e siglare memorandum di intesa con i principali partner commerciali dell'area.",
+  "z07c49b86": "Dopo il varo formale della seconda fase nel giugno 2025, le istituzioni di Bamako hanno lavorato alla definizione delle strutture amministrative e finanziarie necessarie a rendere pienamente operativo il programma di sviluppo agrario.",
+  "z47dc9e7e": "Nelle passate settimane l'esecutivo del Cairo ha intensificato i confronti con i vertici della Banca centrale d'Egitto per fronteggiare la dinamica dei prezzi e garantire una gestione sostenibile delle finanze pubbliche.",
+  "z2b9245a5": "Negli ultimi giorni la diplomazia internazionale è stata scossa da nuovi contatti diretti tra Donald Trump e Vladimir Putin volti a ridefinire le relazioni commerciali ed energetiche tra Washington e Mosca. L'annuncio di un patto sulle forniture di carburante ha colto di sorpresa i partner europei, già impegnati a coordinare il supporto politico e militare a Kiev.",
+  "zdc4095a1": "L'annuncio a sorpresa di un'intesa tra Washington e Mosca per la fornitura immediata di carburante russo ha destabilizzato il quadro delle relazioni internazionali. Mentre i governi europei hanno espresso forte apprensione per la tenuta dell'alleanza occidentale, la Cina osserva con prudenza la mossa per comprenderne la portata reale e le possibili ripercussioni sulle forniture globali.",
+  "z6a3e6ad5": "I rapporti commerciali tra Bruxelles e Pechino hanno attraversato mesi di forti frizioni a causa delle crescenti quote di mercato conquistate dai veicoli a batteria cinesi in Europa. L'avvio di indagini antidumping e la minaccia di nuovi dazi avevano alimentato il timore di una guerra tariffaria prima dell'apertura di negoziati diretti nella capitale cinese.",
+  "z619770f0": "Il Gambia, piccolo Paese dell'Africa occidentale affacciato sull'Atlantico, ha nel turismo una delle principali fonti di reddito e di valuta estera. La stagione invernale, che di norma va da ottobre ad aprile, attira soprattutto visitatori europei, in larga parte britannici, in cerca di clima mite e spiagge. The Gambia Experience, tour operator britannico specializzato nella destinazione, opera da anni voli charter diretti verso Banjul."
  },
  "cronologie": {
   "zc3de7c78": [
@@ -16317,6 +18137,134 @@ window.EDIZIONI["2026-10-12-sera"] = {
    [
     "30 settembre 2025",
     "Scade l'accordo commerciale statunitense AGOA"
+   ]
+  ],
+  "zdb6c94e1": [
+   [
+    "Fine settembre",
+    "Inizio della nuova ondata di raid contro le petroliere in transito"
+   ],
+   [
+    "Ottobre",
+    "Gli attacchi superano quota dodici, comprimendo i transiti e spingendo il greggio oltre i cento dollari"
+   ]
+  ],
+  "z581f98a4": [
+   [
+    "fine settembre",
+    "Definizione delle nomine governative per le principali sedi diplomatiche all'estero"
+   ],
+   [
+    "inizio ottobre",
+    "Avvio delle audizioni dei candidati ambasciatori davanti alle commissioni parlamentari"
+   ]
+  ],
+  "ze831e39b": [
+   [
+    "fine settembre",
+    "Primi segnali di divergenza nei prezzi all'ingrosso tra distillati medi e benzine"
+   ],
+   [
+    "inizio ottobre",
+    "Comunicazione del Dipartimento dell'Energia sull'aggiornamento settimanale delle tariffe"
+   ]
+  ],
+  "z2758797a": [
+   [
+    "fine settembre",
+    "Allerta climatica regionale sui possibili impatti di El Niño nelle province meridionali"
+   ],
+   [
+    "inizio ottobre",
+    "First Gen Corp avvia i piani operativi di riduzione per l'impianto idroelettrico di Agusan"
+   ]
+  ],
+  "z1c696b8b": [
+   [
+    "settembre",
+    "Operazioni sul campo e sfollamento di massa nei campi profughi della Cisgiordania settentrionale"
+   ],
+   [
+    "inizio ottobre",
+    "Presentazione del ricorso legale da parte dell'Associazione per i diritti civili"
+   ],
+   [
+    "metà ottobre",
+    "Ordinanza dell'Alta Corte che fissa al 23 novembre la scadenza per la risposta governativa"
+   ]
+  ],
+  "z75867ac0": [
+   [
+    "inizio ottobre",
+    "Pianificazione della missione diplomatica egiziana nel Sud-est asiatico"
+   ],
+   [
+    "lunedì",
+    "Arrivo di Abdelatty a Bangkok e incontro bilaterale con il ministro dell'Industria thailandese"
+   ]
+  ],
+  "z07c49b86": [
+   [
+    "19 giugno 2025",
+    "Lancio ufficiale della fase II del programma irriguo"
+   ],
+   [
+    "9 ottobre",
+    "Il Consiglio dei ministri adotta i decreti attuativi per il piano quinquennale"
+   ]
+  ],
+  "z47dc9e7e": [
+   [
+    "fine settembre",
+    "Consultazioni tecniche tra ministeri economici e autorità monetarie sulle proiezioni del debito"
+   ],
+   [
+    "inizio ottobre",
+    "Dichiarazioni del ministro Rostom sul consolidamento dell'asse con la Banca centrale"
+   ]
+  ],
+  "z2b9245a5": [
+   [
+    "Nei giorni scorsi",
+    "Trump e Putin definiscono un'intesa sulle forniture di diesel"
+   ],
+   [
+    "Nelle ultime ore",
+    "I leader europei si compattano a difesa dell'Ucraina"
+   ]
+  ],
+  "zdc4095a1": [
+   [
+    "Nei giorni scorsi",
+    "Trump annuncia l'intesa con Putin per l'importazione di diesel"
+   ],
+   [
+    "Nelle ultime ore",
+    "La diplomazia e gli analisti cinesi valutano con cautela l'accordo"
+   ]
+  ],
+  "z6a3e6ad5": [
+   [
+    "Nei giorni scorsi",
+    "Negoziati a Pechino tra il responsabile commerciale dell'Ue e funzionari cinesi"
+   ],
+   [
+    "Venerdì",
+    "Annuncio dell'intesa per ridurre le esportazioni di auto ibride"
+   ]
+  ],
+  "z619770f0": [
+   [
+    "Stagione 2025/2026",
+    "Si chiude il precedente ciclo turistico invernale, con flussi concentrati tra ottobre e aprile"
+   ],
+   [
+    "Settimane scorse",
+    "Il Gambia Tourism Board prepara l'avvio della nuova stagione e punta sull'aumento dei collegamenti aerei"
+   ],
+   [
+    "9 ottobre 2026",
+    "Atterra a Banjul il primo charter di The Gambia Experience da Londra con 139 passeggeri, accolto dal direttore generale Ida Jeng-Njie"
    ]
   ]
  },
@@ -17506,13 +19454,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z7acef144": {
-   "n": "Banjul",
-   "p": [
-    "Gambia"
    ],
    "pt": []
   },
@@ -19161,13 +21102,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    ],
    "pt": []
   },
-  "z7897385b": {
-   "n": "Bridgetown",
-   "p": [
-    "Barbados"
-   ],
-   "pt": []
-  },
   "zf088406d": {
    "n": "Dushanbe",
    "p": [
@@ -20020,6 +21954,532 @@ window.EDIZIONI["2026-10-12-sera"] = {
     "Indonesia"
    ],
    "pt": []
+  },
+  "za2411032": {
+   "n": "Nyabugete",
+   "p": [
+    "Burundi"
+   ],
+   "pt": []
+  },
+  "z3317d77c": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8cdfa76a": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z163fe352": {
+   "n": "Venezia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z656ed0cf": {
+   "n": "Stavanger",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "zdb6c94e1": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Iran",
+    "Oman"
+   ],
+   "pt": []
+  },
+  "z8ecb5a10": {
+   "n": "Texas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5abe92d5": {
+   "n": "Monti Tatra",
+   "p": [
+    "Slovakia"
+   ],
+   "pt": []
+  },
+  "zf2da4a36": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z64cfc114": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z2cafdb56": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zc024d3dd": {
+   "n": "Beausoleil",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z318f981d": {
+   "n": "Houston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1dad796a": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z619770f0": {
+   "n": "Banjul",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "za2fca8df": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z0bc58d0b": {
+   "n": "Kannur",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z9b8f925c": {
+   "n": "San Francisco",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z80bef8ce": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z6e9c6ec8": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "zbfd927f7": {
+   "n": "Utah",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zefdda147": {
+   "n": "Roseau",
+   "p": [
+    "Dominica"
+   ],
+   "pt": []
+  },
+  "z93e62452": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z581f98a4": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "za467b0da": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze831e39b": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zef94c29d": {
+   "n": "Yangiyer",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z2758797a": {
+   "n": "Manolo Fortich",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z1c696b8b": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z873c41a0": {
+   "n": "Milpitas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z91e746b0": {
+   "n": "Bamako",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "z75867ac0": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "z07c49b86": {
+   "n": "Bamako",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "z47dc9e7e": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z102c8205": {
+   "n": "Diré",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "z284a0405": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z6485b6ff": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9348d51e": {
+   "n": "Bamako",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "zaf6643bb": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z198db3cd": {
+   "n": "Bamako",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "ze1d0eac2": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zc2c8dabb": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z60f3086d": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z2b9245a5": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zd1f68169": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zdde03f54": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zdc4095a1": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z6a1598a4": {
+   "n": "Amsterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z6a3e6ad5": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z12f71d45": {
+   "n": "Rhode Island",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z271c42cb": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z6bf34e81": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zbc149044": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "zbcbd9948": {
+   "n": "Traunstein",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zcec7f813": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z1850b406": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z4579a0a4": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z07b48f7b": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z3d2e4a4e": {
+   "n": "Shanghai",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zcd48587d": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf09e8ec9": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9dbd0289": {
+   "n": "Siena",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zee7bf49a": {
+   "n": "Ojai",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z532d881d": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z0e1d44a8": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z47d72710": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z48ebb4e2": {
+   "n": "Diriyah",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z9da345ec": {
+   "n": "Noida",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "za46dbe96": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze4bc57e3": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5d0cede3": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z46e9b948": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z6ca42708": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z6de874ab": {
+   "n": "Baleshwar",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z5bfd57f0": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -20200,7 +22660,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z50a2f11e": 1,
   "zc2de96b5": 1,
   "z0c670900": 1,
-  "z7acef144": 1,
   "zc992c5b7": 1,
   "z0e13358c": 1,
   "z3800d641": 1,
@@ -20265,7 +22724,7 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z70f69a8a": 1,
   "zc0d266a4": 1,
   "zaa6ffa41": 1,
-  "zef90fbfc": 1,
+  "zef90fbfc": 2,
   "zd5f73ee8": 2,
   "za218ecb4": 1,
   "ze7195378": 1,
@@ -20440,7 +22899,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "zd88513c7": 1,
   "zdb6bd799": 1,
   "zf1b84996": 1,
-  "z7897385b": 1,
   "zf088406d": 1,
   "zd83b4f1b": 1,
   "z386e0dea": 1,
@@ -20563,7 +23021,82 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z58f3bb33": 1,
   "z32d088f7": 2,
   "zce199180": 1,
-  "zfdc8cbdf": 1
+  "zfdc8cbdf": 1,
+  "za2411032": 1,
+  "z3317d77c": 1,
+  "z8cdfa76a": 1,
+  "z163fe352": 1,
+  "z656ed0cf": 1,
+  "zdb6c94e1": 2,
+  "z8ecb5a10": 1,
+  "z5abe92d5": 1,
+  "zf2da4a36": 1,
+  "z64cfc114": 1,
+  "z2cafdb56": 1,
+  "zc024d3dd": 1,
+  "z318f981d": 1,
+  "z1dad796a": 1,
+  "z619770f0": 2,
+  "za2fca8df": 1,
+  "z0bc58d0b": 1,
+  "z9b8f925c": 1,
+  "z80bef8ce": 1,
+  "z6e9c6ec8": 1,
+  "zbfd927f7": 1,
+  "zefdda147": 1,
+  "z93e62452": 1,
+  "z581f98a4": 2,
+  "za467b0da": 1,
+  "ze831e39b": 2,
+  "zef94c29d": 1,
+  "z2758797a": 2,
+  "z1c696b8b": 2,
+  "z873c41a0": 1,
+  "z91e746b0": 1,
+  "z75867ac0": 2,
+  "z07c49b86": 2,
+  "z47dc9e7e": 2,
+  "z102c8205": 1,
+  "z284a0405": 1,
+  "z6485b6ff": 1,
+  "z9348d51e": 1,
+  "zaf6643bb": 1,
+  "z198db3cd": 1,
+  "ze1d0eac2": 1,
+  "zc2c8dabb": 1,
+  "z60f3086d": 1,
+  "z2b9245a5": 2,
+  "zd1f68169": 1,
+  "zdde03f54": 1,
+  "zdc4095a1": 2,
+  "z6a1598a4": 1,
+  "z6a3e6ad5": 2,
+  "z12f71d45": 1,
+  "z271c42cb": 1,
+  "z6bf34e81": 1,
+  "zbc149044": 1,
+  "zbcbd9948": 1,
+  "zcec7f813": 1,
+  "z1850b406": 1,
+  "z4579a0a4": 1,
+  "z07b48f7b": 1,
+  "z3d2e4a4e": 1,
+  "zcd48587d": 1,
+  "zf09e8ec9": 1,
+  "z9dbd0289": 1,
+  "zee7bf49a": 1,
+  "z532d881d": 1,
+  "z0e1d44a8": 1,
+  "z47d72710": 1,
+  "z48ebb4e2": 1,
+  "z9da345ec": 1,
+  "za46dbe96": 1,
+  "ze4bc57e3": 1,
+  "z5d0cede3": 1,
+  "z46e9b948": 1,
+  "z6ca42708": 1,
+  "z6de874ab": 1,
+  "z5bfd57f0": 1
  },
  "video": {},
  "pillole": []
