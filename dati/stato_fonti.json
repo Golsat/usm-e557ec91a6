@@ -781,8 +781,7 @@
   },
   "Dezeen": {
    "ok": true,
-   "voci": 50,
-   "ultima": "Sun, 11 Oct 2026 10:00:19 +0000"
+   "motivo": "ok"
   },
   "ArchDaily": {
    "ok": true,
@@ -2219,6 +2218,18 @@
    "ok": true,
    "voci": 30,
    "ultima": "Sun, 11 Oct 26 12:48:00 -0400"
+  },
+  "Domus": {
+   "ok": true,
+   "motivo": "ok"
+  },
+  "Abitare": {
+   "ok": true,
+   "motivo": "ok"
+  },
+  "The Plan": {
+   "ok": true,
+   "motivo": "ok"
   }
  },
  "natura": [
