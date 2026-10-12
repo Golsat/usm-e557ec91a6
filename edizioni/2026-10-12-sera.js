@@ -3,6 +3,1853 @@ window.EDIZIONI["2026-10-12-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "ze70cc308",
+   "sez": "mondo",
+   "titolo": "Raid russi su impianti di gas in Ucraina dopo l'annuncio di Trump",
+   "orig": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
+   "lead": "Nonostante Donald Trump abbia affermato di aver mediato una tregua a tutela delle infrastrutture energetiche in Russia e Ucraina, le forze russe hanno continuato a colpire nella notte gli impianti ucraini per l'estrazione e la distribuzione del gas. Le autorità di Kiev hanno reso noto che i bombardamenti hanno causato trentatré feriti e ingenti danni materiali, smentendo di fatto l'esistenza di un cessate il fuoco operativo sul terreno. Lo riferisce NPR.",
+   "more": [
+    "Le infrastrutture energetiche comprendono centrali elettriche, reti di distribuzione e impianti di stoccaggio del gas che alimentano il riscaldamento e l'elettricità civile, risultando bersagli critici durante i conflitti prolungati."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8ca74221",
+   "sez": "spazio",
+   "titolo": "Telescopio su pallone stratosferico osserva il Sole oltre le nuvole",
+   "orig": "Stratospheric Balloon Telescope Peeks Above The Clouds At The Sun",
+   "lead": "I risultati scientifici della missione SUNRISE III, condotta nel 2024 per studiare il Sole attraverso una serie di strumenti scientifici agganciati a una gondola sospesa sotto un pallone stratosferico, sono stati raccolti in tre distinti articoli pubblicati sulla rivista accademica Astrophysical Journal Letters. La strumentazione collocata nella stratosfera ha consentito di osservare l'attività e i dettagli solari superando la copertura nuvolosa e gran parte del disturbo atmosferico terrestre con una precisione senza precedenti. Lo riferisce Universe Today.",
+   "more": [
+    "I palloni stratosferici operano a quote molto elevate all'interno della stratosfera terrestre, offrendo una piattaforma di osservazione astronomica stabile e situata al di sopra della maggior parte del vapore acqueo atmosferico."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/stratospheric-balloon-telescope-peeks-above-the-clouds-at-the-sun",
+     "angolo": "",
+     "atlas": "Canada"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z70905767",
+   "sez": "mondo",
+   "titolo": "Giappone, le previsioni per i colori autunnali del 2026",
+   "orig": "Japan Fall Foliage Forecast for 2026 — Updated",
+   "lead": "La Japan Meteorological Corporation ha diffuso il secondo aggiornamento delle previsioni stagionali per il fenomeno del kōyō in Giappone nel 2026. Nella maggior parte del Paese i picchi delle foglie autunnali cadranno vicino alle date storiche medie. A Tokyo il culmine del fogliame giallo dei ginkgo è atteso intorno al 26 novembre, mentre il rosso degli aceri raggiungerà l'apice il 28 novembre. A Kyoto il picco delle foglie rosse slitterà invece di sei giorni rispetto alla norma, arrivando l'11 dicembre. Lo riferisce Tokyo Cheapo.",
+   "more": [
+    "Il termine kōyō identifica la tradizionale osservazione del cambio di colore delle foglie autunnali in Giappone, un fenomeno naturale che guida gli spostamenti e le prenotazioni turistiche nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Tokyo Cheapo",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://tokyocheapo.com/entertainment/outdoors/fall-foliage-forecast/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd3806377",
+   "sez": "salute",
+   "titolo": "Allarme dell'OMS per i bisogni sanitari critici in Darfur",
+   "orig": "WHO warns ‘critical’ health needs in Darfur far exceed available resources",
+   "lead": "L'Organizzazione Mondiale della Sanità ha lanciato un allarme sulla situazione in Darfur, segnalando che le necessità mediche e sanitarie della popolazione superano ampiamente le risorse disponibili sul campo. Oltre settecentomila persone sfollate hanno trovato rifugio nella località di Tawila, dove si registra una gravissima carenza di farmaci essenziali, personale qualificato e forniture mediche di base per far fronte all'emergenza umanitaria e prevenire il collasso delle strutture locali. Lo riferisce Dabanga.",
+   "more": [
+    "L'Organizzazione Mondiale della Sanità è l'agenzia speciale delle Nazioni Unite responsabile del coordinamento internazionale in materia di sanità pubblica e della gestione delle crisi sanitarie umanitarie."
+   ],
+   "fonti": [
+    {
+     "n": "Dabanga",
+     "p": "XX",
+     "c": "Amsterdam",
+     "u": "https://www.dabangasudan.org/en/all-news/article/who-warns-critical-health-needs-in-darfur-far-exceed-available-resources",
+     "angolo": "",
+     "atlas": "Sudan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3ec30fe8",
+   "sez": "mondo",
+   "titolo": "Arabia Saudita sotto attacco dopo i raid contro gli aeroporti",
+   "orig": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
+   "lead": "Le autorità saudite hanno annunciato di essere impegnate a respingere una nuova ondata di attacchi condotti con droni e missili dopo un fine settimana segnato da duri scontri con la milizia yemenita degli Houthi. Le tensioni sono aumentate in seguito ai raid che hanno colpito scali aeroportuali nel territorio saudita, mentre l'Iran, storico sostenitore dei ribelli yemeniti, si è offerto di svolgere un ruolo di mediazione diplomatica per fermare l'escalation militare. Lo riferisce The New York Times.",
+   "more": [
+    "Il conflitto tra il governo saudita e il movimento Houthi coinvolge la sicurezza delle rotte commerciali e delle infrastrutture civili nella penisola arabica e nel Mar Rosso."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2634428/pakistan-stands-shoulder-to-shoulder-with-saudi-arabia-petroleum-minister",
+     "angolo": "",
+     "atlas": "Pakistan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z564c543e",
+   "sez": "spazio",
+   "titolo": "Microbi d'alta quota viaggiano ai confini dello spazio",
+   "orig": "Some germs ride a superhighway at the edge of space",
+   "lead": "Alcune specie di microbi ampiamente diffuse sulla superficie terrestre conducono una vita inaspettata ad altissima quota, viaggiando a livelli ben superiori a quelli raggiunti dai normali aerei di linea. Secondo le ricerche scientifiche, la presenza di questi germi ai margini dello spazio aereo offre preziose indicazioni sia sulle modalità di propagazione globale delle malattie, sia sui modelli utilizzati per cercare possibili forme di vita su altri pianeti del sistema solare. Lo riferisce Science News Explores.",
+   "more": [
+    "Lo studio dei microrganismi capaci di resistere a condizioni estreme di pressione, radiazioni e temperatura rientra nell'astrobiologia e nella microbiologia dell'atmosfera."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/life-stratosphere-edge-of-space",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z85002871",
+   "sez": "musica",
+   "titolo": "La docuserie su Jay-Z e il rapporto con l'opinione pubblica",
+   "orig": "The missed opportunity of Jay-Z’s documentary series",
+   "lead": "La docuserie in otto episodi Jay-Z in 8, trasmessa da HBO sulla vita e sulla carriera del magnate dell'hip-hop, racconta il percorso dell'artista concentrandosi sul tentativo di riabilitare la propria immagine senza contraddittorio critico. Nel finale della serie, durante un confronto con il produttore Rick Rubin sul brano Family Feud, Jay-Z chiarisce i versi dedicati al leader dei diritti civili Al Sharpton e all'attore Bill Cosby, accusati di criticare costantemente il rap, arrivando a definire Sharpton un estorsore. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "Jay-Z è uno dei musicisti e produttori discografici più influenti della musica hip-hop statunitense, autore di numerosi album di successo e figura di spicco nell'industria dell'intrattenimento."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf100ac78",
+   "sez": "cultura",
+   "titolo": "Koji Yakusho protagonista della commedia sull'amnesia per Netflix",
+   "orig": "Netflix drama Did Someone Happen to Mention Me? review: Koji Yakusho leads amnesia comedy",
+   "lead": "L'attore giapponese Koji Yakusho veste i panni del protagonista nella nuova commedia di Netflix in otto episodi intitolata Did Someone Happen to Mention Me?, affiancato da Kento Kaku e Kenichi Matsuyama. La serie racconta le vicende di un celebre attore di fama mondiale che scopre all'improvviso di essere stato dimenticato dalla quasi totalità della popolazione giapponese, trovandosi costretto a ridisegnare la propria carriera, a riesaminare i legami affettivi e a ricostruire la propria esistenza dalle fondamenta. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Koji Yakusho è uno degli interpreti cinematografici e teatrali giapponesi più premiati e apprezzati a livello internazionale, noto per ruoli drammatici e commedie d'autore."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/entertainment/article/3369868/netflix-drama-did-someone-happen-mention-me-review-koji-yakusho-leads-amnesia-comedy?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z84c1cd1a",
+   "sez": "salute",
+   "titolo": "Hugh Jackman e la sensibilizzazione sui tumori della pelle",
+   "orig": "Hugh Jackman cumple 58 años: así ha sido su lucha contra el cáncer de piel que también afecta a miles de peruanos",
+   "lead": "In occasione del compimento dei cinquantotto anni dell'attore Hugh Jackman, viene richiamata l'attenzione sulla sua prolungata battaglia contro il tumore cutaneo, che ha comportato sei diverse diagnosi di carcinoma basocellulare derivate da anni di esposizione solare senza filtri protettivi. La vicenda dell'artista riaccende i riflettori sui rischi legati ai raggi solari anche in Perù, nazione nella quale si registrano oltre quattromilaquattrocento nuovi casi di cancro alla pelle ogni anno a causa della scarsa prevenzione. Lo riferisce El Comercio.",
+   "more": [
+    "Il carcinoma basocellulare è la forma più frequente di tumore maligno della pelle, originata dall'esposizione cronica e non protetta alle radiazioni ultraviolette."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/somos/estilo/hugh-jackman-cumple-58-anos-asi-ha-sido-su-lucha-contra-el-cancer-de-piel-que-tambien-afecta-a-miles-de-peruanos-noticia/",
+     "angolo": "",
+     "atlas": "Peru"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc21b3df5",
+   "sez": "sport",
+   "titolo": "Cricket, l'Inghilterra assegna un record di 39 contratti centrali",
+   "orig": "England increase central contracts to record 39",
+   "lead": "La federazione inglese di cricket ha annunciato una riorganizzazione della propria struttura tecnica maschile portando a trentanove il numero record dei contratti centrali assegnati ai giocatori. Il responsabile Rob Key ha definito il piano biennale per le squadre nazionali, confermando accordi annuali per Robinson, Duckett e Smith e inserendo Eric Simons come allenatore per il bowling veloce dei Test. La guida tecnica viene sdoppiata sotto la direzione di Stephen Fleming e Brendon McCullum per valorizzare i nuovi talenti nazionali.",
+   "more": [
+    "Nel cricket britannico, i contratti centrali vincolano i migliori atleti direttamente alla federazione nazionale per regolarne la disponibilità tra impegni internazionali e club di contea."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/england-increase-central-contracts-record-39-6453691",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/2026/oct/12/england-cricket-record-39-central-contracts-robinson-duckett-smith",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z903f14a6",
+   "sez": "spazio",
+   "titolo": "Studente scopre tre galassie e dà il proprio nome ai sistemi",
+   "orig": "A Student Finds Three Galaxies and Possibly Solves a Mystery",
+   "lead": "Julian Shapiro, studente di astrofisica presso l'Università della California a Berkeley, ha individuato tre peculiari galassie nane in prossimità della grande galassia a spirale M101 durante un progetto avviato quando frequentava ancora la scuola superiore. I corpi celesti, ora ufficialmente catalogati come Shapiro I, II e III, mostrano anomalie rispetto alle normali regole che governano i tassi di formazione stellare, offrendo nuovi elementi per risolvere un enigma cosmologico e fungendo da esempio per giovani ricercatori. Lo riferisce Universe Today.",
+   "more": [
+    "Le galassie nane sono agglomerati composti da pochi miliardi di stelle e orbitano spesso attorno a galassie a spirale più estese come M101."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/a-student-finds-three-galaxies-and-possibly-solves-a-mystery",
+     "angolo": "",
+     "atlas": "Canada"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z32f03350",
+   "sez": "mondo",
+   "titolo": "Papa Leone annulla gli eventi pubblici per un intervento polmonare",
+   "orig": "Pope Leo cancels all public events ahead of lung surgery",
+   "lead": "Papa Leone ha cancellato tutti gli impegni pubblici e le udienze in programma fino a martedì 20 ottobre in vista di un intervento chirurgico ai polmoni. L'operazione medica programmata servirà a rimuovere una piccola neoformazione individuata su uno dei suoi polmoni, richiedendo un periodo di riposo e osservazione clinica per consentire il pieno recupero delle condizioni di salute del pontefice. Lo riferisce Sky News.",
+   "more": [
+    "Gli impegni pubblici del pontefice comprendono tradizionalmente udienze generali, celebrazioni liturgiche e incontri diplomatici presso la Santa Sede."
+   ],
+   "fonti": [
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/pope-leo-cancels-all-public-events-ahead-of-lung-surgery-13598270",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaa61e2a6",
+   "sez": "mondo",
+   "titolo": "Karl Bushby torna a casa dopo una camminata intorno al mondo di 28 anni",
+   "orig": "British adventurer returns home after 28-year walk around the world",
+   "lead": "L'avventuriero britannico Karl Bushby ha concluso una storica impresa a piedi durata ventotto anni, tornando in Inghilterra dopo aver percorso circa trentamila miglia partendo dal Cile. L'uomo ha completato l'ultima tappa del tragitto attraversando a nuoto il canale della Manica per poi festeggiare il rientro in patria con un piatto di pesce e patatine fritte, ponendo fine a un cammino iniziato quasi tre decenni fa attraverso diversi continenti. Lo riferisce Fox News.",
+   "more": [
+    "Il giro del mondo a piedi rappresenta una delle sfide di esplorazione geografica più complesse, richiedendo anni di traversate su terreni estremi e frontiere multiple."
+   ],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6981184e",
+   "sez": "ingegneria",
+   "titolo": "A Nova Lima l'architettura residenziale della Casa Linho",
+   "orig": "Linho House / TETRO Arquitetura",
+   "lead": "Lo studio TETRO Arquitetura ha completato la realizzazione di Casa Linho, una residenza privata situata in un quartiere residenziale di Nova Lima, nello stato brasiliano di Minas Gerais. L'opera architettonica è stata progettata prendendo diretta ispirazione dal lavoro della proprietaria, una stilista impegnata nel cucito e nella lavorazione tessile, traducendo gli elementi materici, le forme e la sensibilità creativa della sua attività quotidiana nella struttura muraria e spaziale della casa. Lo riferisce ArchDaily.",
+   "more": [
+    "L'architettura residenziale contemporanea integra spesso le esigenze abitative con l'identità professionale e i materiali espressivi dei committenti."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1033039/linho-house-tetro-arquitetura",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbd4f5a36",
+   "sez": "cultura",
+   "titolo": "Il film Deadline di Kiwi Chow esplora l'autoritarismo scolastico",
+   "orig": "Deadline review – shocking threat sends tremors through authoritarian school",
+   "lead": "Il dramma Deadline diretto dal regista Kiwi Chow, interamente girato a Taiwan e ambientato all'interno di una prestigiosa accademia privata ad alta tecnologia, mette in scena un microcosmo sociale dominato da rigida sorveglianza e competizione sfrenata. Nella scuola distopica gli allievi si muovono con disciplina militare, mentre pannelli dotati di intelligenza artificiale controllano gli ingressi registrando posizioni accademiche e note comportamentali, fino all'esplosione di una scioccante minaccia che scuote l'intero istituto. Lo riferisce The Guardian – Istruzione.",
+   "more": [
+    "Il cinema distopico utilizza frequentemente contesti scolastici o istituzionali chiusi come metafora dei sistemi di controllo e delle tensioni politiche della società moderna."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/12/deadline-review-shocking-threat-sends-tremors-through-authoritarian-school",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zad8e6706",
+   "sez": "cultura",
+   "titolo": "Hong Kong mette in scena Cavalleria Rusticana e Pagliacci",
+   "orig": "Opera Hong Kong’s Cavalleria Rusticana and Pagliacci double bill lights up the stage",
+   "lead": "Opera Hong Kong ha debuttato con la sua prima produzione interamente allestita della celebre coppia lirica composta da Cavalleria Rusticana di Pietro Mascagni e Pagliacci di Ruggero Leoncavallo. Lo spettacolo, affidato a cantanti nei ruoli principali e al coro dell'Opera Hong Kong, fa rivivere il tradizionale dittico operistico verista nato a fine Ottocento, accomunato dall'ambientazione nell'Italia meridionale rurale e dall'esplorazione drammatica dei temi della gelosia e dell'onore. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Il dittico formato da Cavalleria Rusticana e Pagliacci costituisce il pilastro dell'opera verista italiana ed è tradizionalmente rappresentato in un'unica serata fin dal 1893."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/arts/article/3370537/opera-hong-kongs-cavalleria-rusticana-and-pagliacci-double-bill-lights-stage?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z276578a4",
+   "sez": "manga",
+   "titolo": "Crunchyroll Manga amplia l'offerta con Record Journey e Strange Pictures",
+   "orig": "Crunchyroll Manga Adds Record Journey, Strange Pictures and More",
+   "lead": "La piattaforma Crunchyroll Manga ha annunciato l'inclusione di nuove serie a fumetti giapponesi all'interno del proprio catalogo digitale, rendendo disponibili da oggi titoli come Record Journey e Strange Pictures. L'ampliamento del servizio offre agli abbonati la possibilità di leggere legalmente in formato digitale ulteriori opere inedite e serie a fumetti tradotte, continuando la strategia di rafforzamento della biblioteca online dedicata ai manga. Lo riferisce Crunchyroll News.",
+   "more": [
+    "I servizi di lettura manga in abbonamento digitale permettono l'accesso a capitoli e volumi serializzati direttamente su smartphone e piattaforme web autorizzate dagli editori nipponici."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/announcements/2026/10/12/record-journey-strange-pictures-crunchyroll-manga",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "za9329ae2",
+   "sez": "sport",
+   "titolo": "Serie A, l'Atalanta batte 3-1 il Venezia e ritrova il successo",
+   "orig": "Atalanta-Venezia 3-1, le pagelle: Krstovic (8) doppietta e assist, Elmas (5,5) si fa espellere, Kessié (7) ritrova il gol, Yeboah (6,5). Classifica Serie A",
+   "lead": "Al rientro dalla sosta per gli impegni delle nazionali, l'Atalanta ha superato il Venezia con il risultato di 3-1 nel posticipo del campionato di Serie A, interrompendo una serie negativa di tre sconfitte consecutive. I bergamaschi hanno costruito la vittoria grazie a una prestazione di alto livello di Krstovic, autore di una doppietta e di un assist, e alla rete di Kessié, mentre il Venezia è rimasto penalizzato anche dall'espulsione di Elmas.",
+   "more": [
+    "Il campionato di Serie A rappresenta la massima divisione calcistica italiana e si ferma periodicamente per consentire lo svolgimento delle partite delle selezioni nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/atalanta_venezia_pagelle_kessie_krstovic_elmas_classifica_serie_a-9820426.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-in-campo-alle-1830-atalanta-venezia-diretta-_3d5ee077-f4fc-4c18-9745-518c2c7291bb.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/atalanta_venezia_formazioni_ufficiali_dove_vederla_dazn_sky_orario_serie_a_classifica-9819683.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/il-venezia-a-bergamo-per-iniziare-a-muovere-la-classifica_3d5ee077-f4fc-4c18-9745-518c2c7291bb.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9174faf4",
+   "sez": "economia",
+   "titolo": "Crescono le critiche alla proposta irlandese sul bilancio europeo",
+   "orig": "Irish EU budget faces growing criticism",
+   "lead": "La bozza di proposta per il bilancio settennale dell'Unione Europea presentata dal governo irlandese sta affrontando un'ondata crescente di critiche da parte degli altri Stati membri, della Commissione europea e del Parlamento europeo. I diversi organi comunitari contestano l'impostazione finanziaria e l'allocazione delle risorse ipotizzata da Dublino, aprendo una fase di duro negoziato politico sulle priorità di spesa comunitarie per il prossimo ciclo pluriennale. Lo riferisce RTÉ News.",
+   "more": [
+    "Il quadro finanziario pluriennale fissa i tetti massimi di spesa dell'Unione Europea per un periodo di sette anni e richiede il consenso unanime degli Stati membri."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1012/1595077-irish-eu-budget-faces-growing-criticism/",
+     "angolo": "",
+     "atlas": "Ireland"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdaf95b03",
+   "sez": "tech",
+   "titolo": "Trump promuove la super intelligenza artificiale per il consenso pubblico",
+   "orig": "Trump really wants to make ‘super intelligence’ happen. Is it going to happen?",
+   "lead": "Di fronte alla diffusa ostilità dell'opinione pubblica americana verso la massiccia costruzione di data center dedicati all'intelligenza artificiale, Donald Trump sta puntando su una strategia di rinnovamento d'immagine presentando il settore come 'super intelligenza'. Secondo le analisi, questa operazione comunicativa non mira soltanto a rivendicare decisioni di potere politico, ma intende alterare la percezione della cittadinanza per favorire l'accettazione delle imponenti infrastrutture tecnologiche necessarie ai nuovi sistemi computazionali. Lo riferisce Egypt Independent.",
+   "more": [
+    "I centri di elaborazione dati per l'intelligenza artificiale richiedono enormi consumi energetici e idrici, generando frequenti proteste nelle comunità locali dove vengono insediati."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/trump-really-wants-to-make-super-intelligence-happen-is-it-going-to-happen/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4229cdc6",
+   "sez": "ingegneria",
+   "titolo": "Il nuovo Centro di protezione civile a Lasa firmato Roland Baldi Architects",
+   "orig": "Civil Protection Centre / Roland Baldi Architects",
+   "lead": "A Oris, frazione del comune di Lasa incastonata tra i versanti boscosi della Val Venosta, è stato completato il nuovo Centro di protezione civile ideato dallo studio Roland Baldi Architects. L'edificio è stato realizzato in calcestruzzo isolante pigmentato di verde, una soluzione che risponde alle specifiche necessità operative del corpo dei vigili del fuoco volontari attraverso un linguaggio architettonico caratteristico. La volumetria monolitica assicura alla struttura una marcata identità visiva, mentre la tonalità cromatica scelta permette di stabilire un dialogo armonioso con la natura circostante. Lo riferisce ArchDaily.",
+   "more": [
+    "I centri di protezione civile riuniscono presidi di soccorso territoriale come i vigili del fuoco volontari, richiedendo ampie rimesse per i mezzi e spazi per la gestione delle emergenze. L'impiego di calcestruzzo isolante colorato permette di combinare isolamento termico e finitura a vista in un unico getto costruttivo."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186466/civil-protection-centre-in-oris-roland-baldi-architects",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf8ce7868",
+   "sez": "spazio",
+   "titolo": "MDA Space sceglie il sensore stellare di Jena-Optronik per una missione in orbita bassa",
+   "orig": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+   "lead": "L'azienda tedesca Jena-Optronik ha stretto una collaborazione con la canadese MDA Space, attiva nel settore dei satelliti di comunicazione, dell'osservazione terrestre e delle infrastrutture spaziali. L'intesa prevede l'impiego del sensore stellare ASTRO HP a bordo di una missione destinata all'orbita terrestre bassa. Per Jena-Optronik questo accordo rappresenta un importante traguardo tecnologico e commerciale, che segna la prima missione ufficiale per il proprio dispositivo ottico di navigazione all'interno dei programmi gestiti dal gruppo aerospaziale canadese. Lo riferisce SpaceNews.",
+   "more": [
+    "I sensori stellari sono strumenti ottici fondamentali montati a bordo dei satelliti artificiali per determinarne con precisione l'orientamento nello spazio. Confrontando la posizione delle stelle osservate con una mappa celeste memorizzata nel software, il sensore calcola le coordinate esatte del satellite, garantendo il corretto puntamento delle antenne e degli strumenti scientifici verso la Terra."
+   ],
+   "fonti": [
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z98918c48",
+   "sez": "cultura",
+   "titolo": "Callina Liang interpreterà Chun-Li nel nuovo film ispirato a Street Fighter",
+   "orig": "Who is Callina Liang, the actress playing Chun-Li in the new Street Fighter movie?",
+   "lead": "L'attrice ventiseienne Callina Liang è stata scelta per interpretare Chun-Li, il celebre personaggio femminile della saga videoludica Street Fighter, nella nuova trasposizione cinematografica diretta dal regista nippo-americano Kitao Sakurai. L'interprete ha raccontato di aver accolto la notizia urlando di gioia in un parco durante una telefonata del regista. La pellicola cinematografica vedrà nel cast anche Andrew Koji nel ruolo del combattente Ryu e Noah Centineo nei panni di Ken, portando sul grande schermo uno dei franchise di picchiaduro più noti della storia dei videogiochi. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Street Fighter è una storica serie di videogiochi di combattimento nata a fine anni Ottanta, che ha definito i canoni del genere arcade. Il personaggio di Chun-Li, introdotto nel secondo capitolo, è considerato una delle prime grandi eroine femminili nel panorama videoludico globale, celebre per le sue abilità nelle arti marziali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/entertainment/article/3370287/who-callina-liang-actress-playing-chun-li-new-street-fighter-movie?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8d35ec23",
+   "sez": "manga",
+   "titolo": "Il musicista 10CM racconta il suo brano per l'adattamento anime di Junji Ito",
+   "orig": "10CM on His Creative Process, Loving Junji Ito and Which of His Songs You Should Check Out",
+   "lead": "Il cantante e compositore 10CM ha descritto i dettagli del proprio processo creativo e l'entusiasmo provato nel comporre una canzone destinata alla serie animata Strange: Junji Ito’s Tales for Sleepless Nights. L'artista ha spiegato di essersi sentito particolarmente emozionato all'idea di collaborare a un progetto legato al celebre maestro del fumetto horror giapponese, dichiarando la propria ammirazione per le sue opere. Il musicista ha inoltre condiviso riflessioni personali sulle proprie canzoni più significative consigliate al pubblico che segue l'animazione. Lo riferisce Crunchyroll News.",
+   "more": [
+    "Junji Ito è uno dei più rinomati autori giapponesi di manga horror psicologico e grottesco, autore di opere iconiche caratterizzate da atmosfere disturbanti e disegni minuziosi. Le trasposizioni animate dei suoi racconti puntano a ricreare le medesime tensioni narrative combinando animazione e colonne sonore appositamente composte."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/interviews/2026/10/12/10cm-interview-song-list",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1b41367a",
+   "sez": "economia",
+   "titolo": "Carburanti in Francia: atteso un calo dei prezzi del gasolio grazie al destoccaggio",
+   "orig": "Carburants : le prix du gazole devrait baisser d’une dizaine de centimes chez TotalEnergies grâce au déstockage",
+   "lead": "Il prezzo del gasolio in Francia si prepara a scendere di circa dieci centesimi al litro nelle stazioni di servizio TotalEnergies in seguito allo sblocco delle scorte di carburante. Il gruppo energetico, guidato da Patrick Pouyanné, ha inoltre annunciato una riduzione di venti centesimi per il gasolio non stradale impiegato nei settori agricolo e dell'edilizia. Nel frattempo, il governo guidato dal primo ministro ha incontrato i distributori per chiedere di trasferire rapidamente alla pompa il calo previsto tra dodici e diciotto centesimi al litro, con effetti attesi a partire dal primo novembre.",
+   "more": [
+    "Il destoccaggio consiste nell'immissione sul mercato di riserve strategiche di greggio o carburanti raffinati precedentemente accumulate per fronteggiare emergenze. Aumentando l'offerta disponibile sul territorio nazionale, questa misura mira a calmierare i prezzi finali alla pompa per i consumatori, le imprese di costruzione e gli operatori del comparto agricolo."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/economie/article/2026/10/12/carburants-le-prix-du-gazole-devrait-baisser-d-une-dizaine-de-centimes-chez-totalenergies-grace-au-destockage_6792695_3234.html",
+     "angolo": "",
+     "atlas": "France"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/economie/transports/prix-du-gazole-lecornu-assure-que-la-baisse-sera-visible-des-le-1er-novembre-20261012_4YWSH5SNOJBHXAZTAZBILCBLIU/",
+     "angolo": "",
+     "atlas": "France"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0f15a2e0",
+   "sez": "tech",
+   "titolo": "Il Fondo monetario internazionale mette in guardia sui rischi dell'IA per lavoro e fisco",
+   "orig": "IMF chief warns of threat from AI to jobs and taxes",
+   "lead": "La direttrice generale del Fondo monetario internazionale, Kristalina Georgieva, ha lanciato un allarme sui potenziali pericoli legati all'intelligenza artificiale per l'occupazione e le entrate fiscali. Secondo la dirigente dell'istituto finanziario globale, la tecnologia sta già riducendo la domanda di lavoratori umani in molte mansioni, sostituendoli nello svolgimento di compiti routinari e ripetitivi. Questa trasformazione rischia di penalizzare la forza lavoro e di erodere la base imponibile su cui poggiano i sistemi tributari nazionali, imponendo una riflessione globale sulle tutele e sulle politiche economiche. Lo riferisce The Japan Times.",
+   "more": [
+    "I sistemi di intelligenza artificiale generativa e di automazione avanzata sono capaci di elaborare grandi quantità di dati e svolgere attività cognitive di routine. Se da un lato aumentano la produttività aziendale, dall'altro sollevano preoccupazioni sul futuro di numerosi impieghi amministrativi e sui conseguenti gettiti fiscali generati dai salari."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/10/12/imf-kristalina-georgieva-ai-warning/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaf146197",
+   "sez": "salute",
+   "titolo": "In Nepal avviata per la prima volta la terapia CAR-T contro la leucemia",
+   "orig": "Nepal begins CAR T-cell therapy for cancer patients",
+   "lead": "Il Nepal ha iniziato a somministrare la terapia con cellule CAR-T per la cura dei pazienti oncologici. Il primo trattamento è stato effettuato presso l'ospedale universitario TU Teaching Hospital su una giovane donna di vent'anni affetta da una recidiva di leucemia. L'équipe medica sta attualmente monitorando con attenzione la risposta clinica della paziente per valutare l'efficacia della procedura immunoterapica e verificare l'assenza di complicazioni post-infusione, segnando un passaggio rilevante per la sanità del Paese asiatico. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "La terapia con cellule CAR-T è un trattamento immunoterapico avanzato che consiste nel prelevare i linfociti T del paziente, modificarli geneticamente in laboratorio per renderli capaci di riconoscere le cellule tumorali, e reinfonderli nel sangue. Viene impiegata soprattutto contro alcune forme aggressive di tumori ematologici resistenti ai trattamenti tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/health/2026/10/12/nepal-begins-car-t-cell-therapy-for-cancer-patients",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z88abbfa9",
+   "sez": "adolescenti",
+   "titolo": "Scuole britanniche: il sindacato propone di spostare esami e orari per il caldo estremo",
+   "orig": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
+   "lead": "Gli istituti scolastici del Regno Unito dovrebbero valutare modifiche agli orari di inizio e termine delle lezioni, riorganizzare il calendario delle vacanze e spostare le sessioni di esame dai mesi estivi per affrontare le ondate di calore. La richiesta arriva da Daniel Kebede, segretario generale della National Education Union, il principale sindacato degli insegnanti britannico. Kebede ha denunciato l'impatto devastante del caldo estivo, con temperature interne che hanno superato i quaranta gradi e centinaia di migliaia di studenti rimandati a casa per l'assenza di strutture adeguate. Lo riferisce The Guardian – Istruzione.",
+   "more": [
+    "Gran parte dell'edilizia scolastica britannica è stata progettata decenni fa senza sistemi di isolamento termico o ventilazione adeguati per gestire temperature elevate prolungate. L'adattamento delle infrastrutture e la revisione dei calendari scolastici rappresentano strategie di tutela per la salute di alunni e docenti di fronte all'aumento delle ondate di calore estive."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "za17f6267",
+   "sez": "sport",
+   "titolo": "Calcio: Kiribati conquista il suo primo titolo internazionale storico alle Figi",
+   "orig": "Kiribati makes history with first-ever football title win in Fiji",
+   "lead": "La nazionale maschile di calcio di Kiribati, nota con il nome di Te Eitei, ha conquistato il suo primo storico trofeo internazionale alle Figi. La squadra ha ottenuto il titolo vincendo la finale della divisione premier del torneo Fiji Inter-District Championship contro la formazione del Seaqaqa. La vittoria segna un risultato senza precedenti per il piccolo Stato insulare del Pacifico, premiando l'impegno della selezione oceanica in una prestigiosa competizione regionale che vedeva impegnate diverse formazioni locali. Lo riferisce RNZ Pacific.",
+   "more": [
+    "Kiribati è una nazione insulare dell'Oceania formata da numerosi atolli sparsi su una vasta area del Pacifico. La sua federazione calcistica, pur non essendo membro a pieno titolo di tutti i massimi organismi mondiali, partecipa a competizioni regionali dove selezioni e club oceaniani si confrontano regolarmente per promuovere lo sviluppo dello sport."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1865880/kiribati-makes-history-with-first-ever-football-title-win-in-fiji",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z89539192",
+   "sez": "economia",
+   "titolo": "Figi: l'ingresso nel patrimonio UNESCO non ha rilanciato l'economia di Levuka",
+   "orig": "UNESCO listing fails to revive Levuka economy",
+   "lead": "L'inclusione della città di Levuka nel patrimonio mondiale dell'UNESCO non è riuscita a rilanciare l'economia locale, lasciando le imprese del territorio alle prese con persistenti difficoltà finanziarie. Lo ha affermato Ben Naidu, presidente dell'amministrazione straordinaria del consiglio municipale di Levuka, durante la presentazione della relazione annuale per il periodo 2019-2021 davanti alla commissione parlamentare permanente per gli affari sociali. Secondo il responsabile, il prestigioso riconoscimento internazionale non ha prodotto i benefici economici e turistici attesi dalla comunità locale. Lo riferisce FBC News.",
+   "more": [
+    "Levuka, antica capitale delle Figi situata sull'isola di Ovalau, conserva edifici coloniali in legno che testimoniano lo sviluppo portuale del diciannovesimo secolo nel Pacifico. Il riconoscimento come patrimonio mondiale punta a tutelare i siti di rilevanza culturale e a favorire il turismo sostenibile, ma richiede investimenti per tradursi in crescita duratura."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/unesco-listing-fails-to-revive-levuka-economy/",
+     "angolo": "",
+     "atlas": "Fiji"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdd09aefc",
+   "sez": "ingegneria",
+   "titolo": "Shigeru Ban progetta il nuovo Toyota City Museum integrato nel paesaggio",
+   "orig": "Toyota City Museum / Shigeru Ban Architects",
+   "lead": "L'architetto giapponese Shigeru Ban ha completato il progetto per il nuovo Toyota City Museum, concepito per integrarsi organicamente con il vicino museo civico d'arte nella città di Toyota. La struttura museale è stata posizionata sul lato orientale dell'area per ottimizzare l'uso complessivo dello spazio, mentre il settore occidentale è stato modellato come una continuità paesaggistica e verde. Questo disegno permette di connettere armoniosamente i due complessi museali limitrofi in un unico grande polo culturale aperto ai visitatori. Lo riferisce ArchDaily.",
+   "more": [
+    "Shigeru Ban, celebre architetto insignito del prestigioso premio Pritzker, è noto a livello internazionale per le sue strutture innovative in legno, carta e materiali riciclabili, oltre che per progetti pubblici sostenibili. La progettazione del paesaggio integrato consente di creare aree pedonali e percorsi verdi continui che arricchiscono il tessuto urbano."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186423/toyota-city-museum-shigeru-ban-architects",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5ad7e2cb",
+   "sez": "salute",
+   "titolo": "Uno studio mostra che le diverse aree del cervello invecchiano a ritmi differenti",
+   "orig": "Cervello: alcune regioni invecchiano prima",
+   "lead": "Le diverse regioni del cervello umano non invecchiano alla stessa velocità e l'emisfero destro sembra mostrare un decadimento più rapido rispetto al sinistro. È quanto emerso da una ricerca condotta utilizzando un modello di intelligenza artificiale addestrato sull'analisi di oltre quindicimila risonanze magnetiche cerebrali. L'indagine scientifica ha permesso di mappare con precisione le variazioni temporali e strutturali che interessano i distinti comparti cerebrali con l'avanzare dell'età, aprendo nuove prospettive per comprendere i meccanismi dell'invecchiamento cognitivo. Lo riferisce Focus.",
+   "more": [
+    "La risonanza magnetica cerebrale è un esame diagnostico per immagini che consente di visualizzare in dettaglio la struttura anatomica del cervello senza radiazioni ionizzanti. L'applicazione di algoritmi di apprendimento automatico a grandi collezioni di scansioni permette di identificare sottili pattern di atrofia o modifiche tessutali difficilmente rilevabili a occhio nudo."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/salute/una-mappa-dell-eta-biologica-del-cervello-il-lato-destro-invecchia-prima",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9f537df5",
+   "sez": "musica",
+   "titolo": "Metallica allo Sphere di Las Vegas: James Hetfield rifiuta i discorsi politici",
+   "orig": "James Hetfield: «I Metallica non sono qui per influenzarvi con le loro stronz@te»",
+   "lead": "Durante il concerto dei Metallica presso la futuristica arena Sphere di Las Vegas, il frontman James Hetfield ha voluto ribadire chiaramente al pubblico che la storica band heavy metal non intende fare discorsi politici né influenzare gli spettatori dal palco. Il cantante e chitarrista ha spiegato che il gruppo si trova lì esclusivamente per suonare e intrattenere i fan con la propria musica, prendendo le distanze dai messaggi ideologici durante le esibizioni dal vivo del quartetto californiano. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "I Metallica sono una delle band metal di maggior successo della storia, formatasi nei primi anni Ottanta a Los Angeles e autrice di album storici che hanno venduto oltre cento milioni di copie nel mondo. Lo Sphere di Las Vegas è un'avveniristica arena coperta dotata di schermi LED avvolgenti e sistemi audio avanzati."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/news-musica/james-hetfield-i-metallica-non-sono-qui-per-influenzarvi-con-le-loro-stronzte/1042153/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z42e87dbe",
+   "sez": "cultura",
+   "titolo": "A Los Angeles inaugura il Lucas Museum of Narrative Art ricco di influenze asiatiche",
+   "orig": "From its Chinese architect to manga, how Asian influences abound in Los Angeles’ Lucas Museum",
+   "lead": "A Los Angeles è stato inaugurato il Lucas Museum of Narrative Art, fondato dal celebre regista George Lucas e dalla moglie Mellody Hobson, con una serata di apertura che ha visto la partecipazione di numerose personalità dello spettacolo e della cultura. L'istituzione museale, progettata da un architetto cinese, si distingue per la forte presenza di influenze artistiche asiatiche, che spaziano dalle linee dell'edificio fino a opere che richiamano l'universo dei manga giapponesi, arricchendo la scena culturale della metropoli californiana. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Il Lucas Museum of Narrative Art è uno spazio museale dedicato all'arte visiva narrativa, che comprende pittura, illustrazione, fumetto e cinema. Fondato dal creatore di saghe leggendarie del grande schermo, il museo nasce con l'obiettivo di esplorare il potere delle immagini nel raccontare storie e connettere culture diverse attraverso linguaggi visivi popolari."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/arts/article/3370324/its-chinese-architect-manga-how-asian-influences-abound-los-angeles-lucas-museum?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbdde8ae5",
+   "sez": "mondo",
+   "titolo": "Keiichi Sigsawa e Kouhaku Kuroboshi lanciano una nuova light novel",
+   "orig": "'Kino no Tabi' Creator Duo Begins New Light Novel",
+   "lead": "L'autore Keiichi Sigsawa e l'illustratore Kouhaku Kuroboshi, noti per la serie \"Kino no Tabi: The Beautiful World\", daranno vita a una nuova light novel intitolata \"Drifted: John Smith no Edo Hyouryuu Kitan\". Il concept originale dell'opera è attribuito allo sviluppatore di giochi per dispositivi mobili coly. La pubblicazione del primo volume è programmata per il 10 novembre sotto l'etichetta editoriale Dengeki Bunko del gruppo editoriale Kadokawa, come annunciato ufficialmente dalla stessa casa editrice. Lo riferisce MyAnimeList News.",
+   "more": [
+    "La light novel è un formato editoriale giapponese di narrativa illustrata, destinato prevalentemente a un pubblico giovane, spesso arricchito da disegni in stile manga. Queste opere rappresentano una delle basi creative più frequenti per la produzione di successivi adattamenti in serie animate, fumetti e videogiochi."
+   ],
+   "fonti": [
+    {
+     "n": "MyAnimeList News",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://myanimelist.net/news/74813800?_location=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdf39bd53",
+   "sez": "sport",
+   "titolo": "Civ Superbike, Luca Bernardi conquista due podi nel finale di Vallelunga",
+   "orig": "Civ SBK, Luca Bernardi protagonista anche a Vallelunga",
+   "lead": "Nel round conclusivo del Campionato Italiano Velocità Superbike disputato sul circuito di Vallelunga, il pilota sammarinese Luca Bernardi si è confermato tra i protagonisti assoluti della categoria. Bernardi ha chiuso la propria stagione agonistica salendo per due volte sul podio durante l'ultimo appuntamento del calendario, mettendo il sigillo su un fine settimana di gare di alto livello. Il doppio piazzamento corona un campionato affrontato con costanza nelle posizioni di vertice della classe regina del motociclismo tricolore. Lo riferisce San Marino RTV.",
+   "more": [
+    "Il Campionato Italiano Velocità rappresenta la massima competizione motociclistica su pista a livello nazionale. La categoria Superbike vede sfidarsi moto derivate da modelli di serie ad alte prestazioni ed è storicamente un banco di prova fondamentale per i piloti che puntano ai campionati mondiali delle due ruote."
+   ],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/motori-c17/civ-sbk-luca-bernardi-protagonista-anche-a-vallelunga-a297160",
+     "angolo": "",
+     "atlas": "San Marino"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z568fb773",
+   "sez": "economia",
+   "titolo": "Incendio al terminal petrolifero di Rostov per il terzo giorno consecutivo",
+   "orig": "Rostov Oil Terminal Burns for Third Day After Reported Ukrainian Drone Attack",
+   "lead": "Un vasto incendio continua a divampare per il terzo giorno consecutivo all'interno di un terminal petrolifero nella regione russa di Rostov, in seguito a un attacco condotto con droni da parte delle forze ucraine. L'impianto colpito svolge un ruolo logistico rilevante, occupandosi del trasferimento di prodotti petroliferi su petroliere marittime e fluviali destinate alle esportazioni, oltre a essere impiegato, secondo le ricostruzioni, per il rifornimento di carburante a supporto delle forze armate russe impegnate nelle operazioni militari. Lo riferisce Moscow Times.",
+   "more": [
+    "I terminal petroliferi fluviali e marittimi costituiscono nodi nevralgici per la raffinazione e la distribuzione energetica, permettendo lo stoccaggio e l'imbarco di carburanti verso i mercati esteri e garantendo al contempo le linee logistiche interne necessarie ai trasporti e alle esigenze industriali."
+   ],
+   "fonti": [
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/12/rostov-oil-terminal-burns-for-third-day-after-reported-ukrainian-drone-attack-a93955",
+     "angolo": "",
+     "atlas": "Russia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z38161fae",
+   "sez": "adolescenti",
+   "titolo": "I presidi inglesi minacciano lo sciopero per sfiducia nell'ispettorato Ofsted",
+   "orig": "Headteachers threaten strike ballots after losing confidence in Ofsted",
+   "lead": "I sindacati dei dirigenti scolastici in Inghilterra hanno espresso formale sfiducia nei confronti dell'organismo di controllo Ofsted, minacciando di indire votazioni per dichiarare lo sciopero qualora il governo non affronti le gravi problematiche di benessere psicofisico causate dal rigido regime delle ispezioni. L'Associazione dei leader scolastici e universitari, che rappresenta i vertici di numerosi istituti secondari, ha definito il sistema ispettivo un caos insostenibile, esortando l'esecutivo a sospendere i controlli per evitare che gli insegnanti abbandonino l'insegnamento. Lo riferisce The Guardian – Istruzione.",
+   "more": [
+    "Nel sistema educativo britannico le ispezioni ufficiali valutano gli standard didattici, l'organizzazione gestionale e la sicurezza delle scuole. I giudizi espressi determinano la reputazione degli istituti e possono influenzare direttamente le risorse finanziarie assegnate e la stabilità lavorativa del corpo docente."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera",
+   "sub": "musica"
+  },
+  {
+   "id": "z6d2e83c9",
+   "sez": "tech",
+   "titolo": "Banana Cavendish modificata con CRISPR per non annerirsi dopo la sbucciatura",
+   "orig": "La banana che non si annerisce mai",
+   "lead": "Una nuova varietà di banana Cavendish è stata sviluppata mediante la tecnologia di editing genetico CRISPR per restare di colore giallo brillante fino a ventiquattro ore dopo essere stata sbucciata. L'innovazione mira a contrastare lo spreco alimentare, evitando che tonnellate di frutta finiscano quotidianamente nella spazzatura soltanto a causa dell'imbrunimento visivo della polpa. L'intervento biomolecolare permette di conservare l'aspetto fresco del frutto per un'intera giornata, offrendo una soluzione concreta per prolungarne la commerciabilità e il consumo domestico. Lo riferisce Focus.",
+   "more": [
+    "La tecnica CRISPR è uno strumento biotecnologico che consente di modificare porzioni specifiche del DNA degli organismi con grande precisione. In campo agroalimentare viene impiegata per migliorare la resistenza dei raccolti, rallentare i processi naturali di deperimento e ridurre le perdite lungo la filiera distributiva."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/salute/banana-non-diventa-mai-marrone-sta-per-arrivare-nei-supermercati",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z01efa39e",
+   "sez": "musica",
+   "titolo": "Ferretti e Zamboni riflettono sul legame umano, i CCCP e il futuro dei CSI",
+   "orig": "Ferretti e Zamboni: «Le persone valgono più delle canzoni»",
+   "lead": "In una riflessione sul valore delle relazioni personali rispetto alla produzione artistica, Giovanni Lindo Ferretti e Massimo Zamboni hanno affrontato la storia dei CCCP e le prospettive future dei CSI. I due musicisti hanno ripercorso gli album realizzati insieme, il valore terapeutico della musica, i dubbi sull'uscita di materiale inedito, la chiusura verso l'esperienza dei PGR e il rapporto con la politica dentro e fuori dal palco, ribadendo che le persone contano più delle singole canzoni in un contesto storico complesso. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "I CCCP - Fedeli alla linea e la loro successiva evoluzione nei CSI hanno segnato profondamente la storia del rock alternativo e della musica d'autore italiana, fondendo sonorità d'avanguardia con testi poetici e una riflessione costante sulla memoria collettiva e le trasformazioni sociali."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/interviste-musica/ferretti-e-zamboni-le-persone-valgono-piu-delle-canzoni/1042090/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "za01eb254",
+   "sez": "spazio",
+   "titolo": "Agile Space Industries nomina Jonathan Baliff nel consiglio di amministrazione",
+   "orig": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+   "lead": "L'azienda aerospaziale Agile Space Industries ha annunciato l'ingresso di Jonathan Baliff nel proprio consiglio di amministrazione, con l'obiettivo di rafforzare la governance e lo sviluppo aziendale a supporto della continua crescita della società. Baliff mette a disposizione del gruppo una consolidata esperienza nei settori aerospaziale, della finanza e della leadership d'impresa. La nomina rientra nei piani strategici dell'azienda volti a consolidare la propria posizione di mercato e ad accelerare l'espansione dei programmi industriali legati alle tecnologie spaziali. Lo riferisce SpaceNews.",
+   "more": [
+    "L'industria spaziale commerciale comprende aziende private che sviluppano propulsori, componenti satellitari e tecnologie per missioni orbitali. Queste realtà operano spesso in sinergia sia con le agenzie governative sia con clienti commerciali per espandere le infrastrutture e i servizi nello spazio."
+   ],
+   "fonti": [
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9af22a2b",
+   "sez": "viaggi",
+   "titolo": "Negli Emirati Arabi Uniti debutta il nuovo collegamento ferroviario tra Dubai e Abu Dhabi",
+   "orig": "I Took the UAE's New Train Service From Dubai to Abu Dhabi—Here’s What It's Like",
+   "lead": "Negli Emirati Arabi Uniti è entrato in funzione il nuovo servizio ferroviario passeggeri di Etihad Rail, che collega direttamente le metropoli di Dubai e Abu Dhabi. Il tragitto a bordo dei moderni convogli ad alta efficienza offre a residenti e turisti un'alternativa di viaggio veloce e confortevole per spostarsi tra i due principali emirati, riducendo i tempi di percorrenza stradale e integrando la rete infrastrutturale nazionale con un sistema su rotaia all'avanguardia per la mobilità regionale. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "La rete ferroviaria di Etihad Rail costituisce la spina dorsale del trasporto su rotaia negli Emirati Arabi Uniti. Il progetto mira a collegare in modo capillare le principali città, i centri industriali e i porti del Paese, promuovendo una mobilità rapida, sicura e a minore impatto ambientale per merci e passeggeri."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/i-took-the-uae-new-train-service-from-dubai-to-abu-dhabi-heres-what-its-like",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9fb3ae59",
+   "sez": "mondo",
+   "titolo": "Il gruppo di idol e doppiatrici i☆Ris annuncia lo scioglimento nel 2027",
+   "orig": "Idol Group i☆Ris to End Activities in 2027",
+   "lead": "L'unità di idol e doppiatrici giapponesi i☆Ris ha annunciato ufficialmente che terminerà le proprie attività artistiche alla fine del 2027. La conclusione del progetto coinciderà con il quindicesimo anniversario della fondazione, segnando il traguardo definitivo di un percorso durato quindici anni nel mondo dell'intrattenimento. Lo staff e i cinque membri hanno comunicato che la decisione è maturata dopo lunghe discussioni avviate lo scorso anno, scusandosi con i fan per l'annuncio improvviso e ringraziando tutti i sostenitori del gruppo. Lo riferisce MyAnimeList News.",
+   "more": [
+    "Nel panorama dell'animazione giapponese, i gruppi di idol composti da doppiatrici professioniste affiancano il lavoro di doppiaggio in serie animate ed eventi tematici a tournée musicali e pubblicazioni discografiche, creando un legame molto stretto tra la musica pop e l'industria degli anime."
+   ],
+   "fonti": [
+    {
+     "n": "MyAnimeList News",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://myanimelist.net/news/74813653?_location=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z219d2ef4",
+   "sez": "sport",
+   "titolo": "Basket Serie A2, Fortitudo vince il derby con Rimini e Pesaro supera Caserta",
+   "orig": "A2: alla Fortitudo il derby con Rimini, Miniotas trascina Pesaro con Caserta",
+   "lead": "Nel campionato di Serie A2 di pallacanestro, la Fortitudo Bologna si è aggiudicata il derby contro Rimini, mentre la VL Pesaro ha superato Caserta grazie alla prova trascinante di Miniotas. Con questi successi, la formazione bolognese e quella marchigiana mantengono la testa della classifica a punteggio pieno, condividendo il primato con Livorno, Brindisi, Rieti e Avellino, reduce a sua volta dalla vittoria ottenuta contro Forlì nel corso dell'ultimo turno di campionato. Lo riferisce San Marino RTV.",
+   "more": [
+    "Il campionato di Serie A2 rappresenta la seconda divisione della pallacanestro maschile italiana. Il torneo coinvolge storiche società del panorama nazionale che competono in un calendario serrato per contendersi l'accesso ai playoff e la promozione nella massima serie cestistica."
+   ],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/basket-c18/a2-alla-fortitudo-il-derby-con-rimini-miniotas-trascina-pesaro-con-caserta-a297156",
+     "angolo": "",
+     "atlas": "San Marino"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfd16cd8d",
+   "sez": "ingegneria",
+   "titolo": "Utopian Hours 2026 torna a Torino per discutere il futuro delle città",
+   "orig": "“Cities Are Mental Weapons”: Utopian Hours 2026 Returns to Turin with Sir Peter Cook and a Program on City-Making",
+   "lead": "La seconda parte del festival internazionale di city-making \"Utopian Hours 2026\" si svolgerà a Torino il 16 e 17 ottobre, con la partecipazione dell'architetto Sir Peter Cook. Dopo una prima sessione ospitata a Rotterdam, la rassegna celebra la sua decima edizione tornando nella città d'origine. Il programma culturale intende approfondire le risposte creative che i centri urbani possono offrire alle sfide sociali, ambientali e politiche contemporanee, proseguendo il lavoro avviato nel 2017 dall'associazione no-profit Stratosferica nella condivisione di strategie urbane. Lo riferisce ArchDaily.",
+   "more": [
+    "Il concetto di city-making unisce urbanistica, architettura e innovazione sociale per ripensare la pianificazione degli spazi urbani. Questo approccio promuove strategie di rigenerazione capaci di rispondere al cambiamento climatico, favorendo la partecipazione della comunità e la creazione di ambienti cittadini inclusivi e sostenibili."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186668/cities-are-mental-weapons-utopian-hours-2026-returns-to-turin-with-sir-peter-cook-and-a-program-on-city-making",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z09855cc3",
+   "sez": "adolescenti",
+   "titolo": "Scuola e precariato, il Documento di Finanza Pubblica rilancia nodi e spese",
+   "orig": "Carta Docente e supplenze, senza fondi e riforme, burocrazia e contenziosi inghiottono i risparmi statali. Cosa dice il DPFP del governo",
+   "lead": "Con la pubblicazione del Documento Programmatico di Finanza Pubblica 2026 da parte del governo, il sistema scolastico italiano torna a confrontarsi con storiche criticità strutturali, tra cui la gestione della Carta Docente, l'assegnazione delle supplenze e la tutela del personale precario. L'assenza di adeguate risorse economiche e di riforme complessive rischia di alimentare contenziosi legali e procedure burocratiche che finiscono per erodere i risparmi statali, riaprendo il dibattito sulla spesa pubblica e sui percorsi di formazione destinati ai docenti. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Nel sistema scolastico statale la gestione delle supplenze e i contributi per la formazione professionale dei docenti rappresentano elementi cardine per la continuità educativa. Una pianificazione finanziaria efficiente è essenziale per ridurre i ricorsi amministrativi e assicurare stabilità agli istituti e agli studenti."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/carta-docente-e-supplenze-senza-fondi-e-riforme-burocrazia-e-contenziosi-inghiottono-i-risparmi-statali-cosa-dice-il-dpfp-del-governo/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "z7d4c3dec",
+   "sez": "salute",
+   "titolo": "Dormire nel letto con il proprio cane non peggiora la qualità del riposo",
+   "orig": "Dividere il letto con i cani non fa dormire peggio",
+   "lead": "Condividere il letto con il proprio cane non compromette il sonno dei padroni: è quanto emerge da evidenze che smentiscono la comune convinzione secondo cui la presenza notturna degli animali domestici disturberebbe il riposo. Contrariamente ai timori diffusi, le persone che scelgono di dormire insieme ai propri amici a quattro zampe non registrano una qualità del riposo inferiore rispetto a chi riposa da solo, confermando che la convivenza notturna non ha un impatto negativo misurabile sul benessere del sonno. Lo riferisce Focus.",
+   "more": [
+    "Il sonno è un processo biologico essenziale per il ripristino delle energie e il corretto funzionamento del sistema immunitario e cognitivo. La qualità del riposo dipende da molteplici fattori ambientali e psicologici, e la sua valutazione aiuta a prevenire disturbi cronici e affaticamento."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/ambiente/animali/dividere-il-letto-con-i-cani-non-fa-dormire-peggio",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zeb1209e3",
+   "sez": "spazio",
+   "titolo": "Nuove simulazioni riducono drasticamente l'aspettativa di vita del Sistema Solare",
+   "orig": "The Solar System Has a New Life Expectancy, and It’s a Billion Times Shorter",
+   "lead": "Nuove simulazioni orbitali indicano che l'aspettativa di vita del Sistema Solare potrebbe essere un miliardo di volte più breve di quanto stimato finora. Secondo i modelli astrofisici, le orbite dei pianeti andranno incontro a fenomeni di destabilizzazione gravitazionale ben prima che il Sole raggiunga la fase evolutiva di gigante rossa. Questa revisione teorica ridisegna i tempi dell'evoluzione planetaria, suggerendo che la stabilità dell'architettura gravitazionale interna al nostro sistema cosmico sia soggetta a limiti temporali molto più stringenti rispetto alle previsioni tradizionali. Lo riferisce Sky & Telescope.",
+   "more": [
+    "L'evoluzione stellare prevede che verso la fine del proprio ciclo una stella simile al Sole si espanda in gigante rossa, inglobando i pianeti più vicini. Lo studio della stabilità orbitale permette di comprendere l'influenza reciproca delle gravità planetarie nel lunghissimo periodo."
+   ],
+   "fonti": [
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/the-solar-system-has-a-new-life-expectancy-and-its-a-billion-times-shorter/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z03a0c496",
+   "sez": "salute",
+   "titolo": "Romaeuropa Festival, al Mattatoio torna la rassegna teatrale under 30 Anni Luce",
+   "orig": "Romaeuropa Festival: al Mattatoio torna \"Anni Luce\", la vetrina del nuovo teatro under 30 italiano",
+   "lead": "Dal 13 al 21 ottobre gli spazi del Mattatoio a Roma ospiteranno la settima edizione di \"Anni Luce\", rassegna curata da Maura Teofili e inserita nel cartellone del Romaeuropa Festival. La manifestazione si propone come una vetrina di primo piano per il nuovo teatro italiano dedicato ai talenti emergenti under 30, offrendo uno spazio di visibilità e sperimentazione alla creatività delle giovani generazioni di drammaturghi e interpreti all'interno del prestigioso contesto culturale della capitale. Lo riferisce Il Messaggero – Roma.",
+   "more": [
+    "Il Romaeuropa Festival è un'importante rassegna multidisciplinare che ospita ogni anno progetti internazionali di teatro, danza e musica contemporanea. Tra i suoi obiettivi vi è la valorizzazione dei linguaggi artistici d'avanguardia e la promozione delle nuove generazioni di autori teatrali."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/eventi/romaeuropa_festival_mattatoio_anni_luce_programma-9820696.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4d823dff",
+   "sez": "economia",
+   "titolo": "In Gambia gli agricoltori di Sabach Sanjal convertono i campi alla risicoltura",
+   "orig": "Farmers in Sabach Sanjal Turning Fields Into Upland Rice Farms",
+   "lead": "Nel distretto gambiano di Sabach Sanjal gli agricoltori stanno progressivamente convertendo le proprie coltivazioni in risaie di pianura per nutrire le loro famiglie, reagendo alle fluttuazioni dei prezzi del riso che hanno reso questo bene primario sempre meno accessibile. Nel corso di una ricognizione compiuta nelle località di Misira Mbayen, Pallen Wollof e Ngayen Sanjal, sono state documentate vaste estensioni di risaie avviate per contrastare il carovita e rafforzare la sicurezza alimentare delle comunità locali di fronte alle difficoltà di approvvigionamento. Lo riferisce Foroyaa.",
+   "more": [
+    "Il riso costituisce uno degli alimenti primari per il sostentamento di milioni di persone nell'Africa occidentale. La volatilità dei prezzi sui mercati internazionali e i costi delle importazioni spingono le comunità agricole a incrementare le coltivazioni locali per tutelare l'alimentazione familiare."
+   ],
+   "fonti": [
+    {
+     "n": "Foroyaa",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://foroyaa.net/farmers-in-sabach-sanjal-turning-fields-into-upland-rice-farms/",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z71817b6e",
+   "sez": "ingegneria",
+   "titolo": "A Seul sculture in legno e acciaio occupano un edificio prima della demolizione",
+   "orig": "sculptures made of timber and steel occupy raw concrete shell in seoul before demolition",
+   "lead": "A Seul un edificio vuoto in cemento armato destinato a essere abbattuto è diventato lo scenario dell'installazione \"ghost barstairs: temporary hypotheses\", che ha introdotto sculture, strutture in compensato e arredi sperimentali in legno e acciaio all'interno della struttura grezza. L'intervento artistico e architettonico sfrutta l'ossatura a vista del fabbricato per indagare le potenzialità spaziali che si aprono nella fase transitoria compresa tra la demolizione e il rinnovamento urbano della metropoli sudcoreana. Lo riferisce Designboom.",
+   "more": [
+    "La trasformazione urbana spesso comporta lunghi intervalli di inutilizzo per gli edifici in attesa di ristrutturazione o abbattimento. L'occupazione temporanea di questi volumi mediante installazioni consente di valorizzare le qualità architettoniche preesistenti e di riflettere sul ciclo di vita dei materiali edili."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8f646829",
+   "sez": "adolescenti",
+   "titolo": "A Roma il convegno nazionale dell'ANP sul futuro della scuola",
+   "orig": "Dirigenti scolastici, il 13 e 14 ottobre il Convegno nazionale ANP sul futuro della scuola. Interviene Valditara, diretta streaming",
+   "lead": "A Roma, presso il Cinema Barberini, si terrà il 13 e il 14 ottobre 2026 il nono convegno nazionale dell'Associazione Nazionale Presidi, intitolato “Identità in movimento”. L'appuntamento sarà dedicato a un confronto approfondito sul futuro del sistema scolastico italiano e vedrà la partecipazione con un intervento del ministro dell'Istruzione e del Merito Giuseppe Valditara. I lavori del convegno e gli interventi in programma potranno essere seguiti anche da remoto grazie alla trasmissione in diretta streaming per consentire la massima partecipazione. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "L'Associazione Nazionale Presidi rappresenta i dirigenti scolastici e le figure di coordinamento delle scuole italiane, promuovendo il dialogo con le istituzioni e offrendo momenti di formazione. I convegni nazionali dell'organizzazione costituiscono occasioni di dibattito per discutere le riforme dell'istruzione, l'evoluzione delle metodologie didattiche e la gestione amministrativa degli istituti sul territorio."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/dirigenti-scolastici-il-13-e-14-ottobre-il-convegno-nazionale-anp-sul-futuro-della-scuola-interviene-valditara-diretta-streaming/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera",
+   "sub": "cinema"
+  },
+  {
+   "id": "z7d0f73b6",
+   "sez": "salute",
+   "titolo": "Meno cibi ultraprocessati per favorire la salute mentale",
+   "orig": "Meno ultraprocessati, migliore salute mentale?",
+   "lead": "Una riduzione del consumo di alimenti ultraprocessati potrebbe favorire un miglioramento della salute mentale e aiutare a contrastare i sintomi della depressione. È quanto suggeriscono i risultati preliminari di un piccolo studio scientifico che ha indagato il legame diretto tra le abitudini alimentari e il benessere psicologico. Dalle prime osservazioni dei ricercatori emerge che adottare una dieta più sana, limitando i cibi industriali fortemente trasformati, sembra apportare benefici concreti all'umore e all'equilibrio emotivo delle persone coinvolte nell'indagine. Lo riferisce Focus.",
+   "more": [
+    "Gli alimenti ultraprocessati sono prodotti industriali che contengono additivi, conservanti, zuccheri raffinati e grassi idrogenati, spesso poveri di nutrienti essenziali e fibre. La ricerca scientifica analizza sempre più frequentemente l'asse che collega l'intestino e il cervello per comprendere come la qualità della nutrizione quotidiana possa influenzare i neurotrasmettitori e i disturbi dell'umore."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/salute/ridurre-gli-ultraprocessati-migliora-anche-la-salute-mentale",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3d17bb3d",
+   "sez": "musica",
+   "titolo": "Raffaella Carrà torna sul palco in un concerto ologramma",
+   "orig": "Raffaella Carrà diventa un ologramma",
+   "lead": "L'indimenticata cantante e conduttrice Raffaella Carrà tornerà a esibirsi sul palco sotto forma di ologramma. Dopo un annuncio iniziale riguardante il progetto tecnologico, è stata resa nota la data ufficiale per il primo concerto dal vivo basato sulla riproduzione tridimensionale dell'artista, accompagnata dalla diffusione delle prime immagini video promozionali. Lo spettacolo punta a far rivivere la presenza scenica, le coreografie e le celebri canzoni della showgirl attraverso avanzate tecniche di proiezione digitale per il pubblico. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "La tecnologia degli ologrammi applicata agli spettacoli musicali consente di ricreare digitalmente figure umane sul palco attraverso giochi di luce e proiezioni su superfici trasparenti. Questa tecnica viene impiegata per realizzare concerti postumi di grandi icone dello spettacolo, unendo registrazioni vocali originali a esibizioni visive che simulano la presenza fisica dell'artista davanti agli spettatori."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/news-musica/raffaella-carra-diventa-un-ologramma/1042126/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9bda7771",
+   "sez": "salute",
+   "titolo": "Esperti protestano contro le nuove politiche carcerarie in Canada",
+   "orig": "[World Report] Mental health experts protest new Canadian prison policies",
+   "lead": "In Canada numerosi esperti di salute mentale hanno espresso forti proteste contro le recenti modifiche apportate alle politiche sanitarie carcerarie, che riguardano circa quattordicimila detenuti nel Paese. Le critiche dei professionisti si concentrano sulla revisione del prontuario dei farmaci destinati alla popolazione penitenziaria, considerata incompatibile con le migliori pratiche cliniche e dannosa per la gestione dei pazienti più vulnerabili. Gli specialisti chiedono che le cure all'interno degli istituti di pena rispettino gli standard terapeutici applicati alla popolazione generale. Lo riferisce The Lancet.",
+   "more": [
+    "I prontuari farmaceutici nelle strutture carcerarie regolano l'elenco dei medicinali prescrivibili ai detenuti dai medici del penitenziario. Nelle carceri la gestione della salute mentale richiede terapie continuative e farmaci adeguati per prevenire crisi psicologiche e garantire che le condizioni di detenzione non compromettano l'accesso a trattamenti psichiatrici conformi alle linee guida internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02039-8/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5546d3b1",
+   "sez": "viaggi",
+   "titolo": "Birmingham in Alabama si riscopre capitale culturale e gastronomica",
+   "orig": "Birmingham, Alabama, Is Called The Magic City For Good Reason",
+   "lead": "La città di Birmingham, nello stato americano dell'Alabama, deve il suo storico soprannome di Magic City a una costante capacità di rinnovamento urbano e culturale. Nonostante un passato industriale complesso e momenti storici particolarmente difficili, la località ha saputo sviluppare una vivace scena gastronomica, musicale e artistica. Questo fermento creativo e la sua identità accogliente stanno attirando sempre più visitatori, trasformando il centro urbano in una destinazione turistica dinamica e ricca di attrazioni culturali da scoprire negli Stati Uniti. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "Birmingham è la città più popolosa dell'Alabama e fu fondata come polo industriale trainato dall'estrazione del ferro e dalla produzione di acciaio. Nel corso degli anni la città ha affiancato alle sue radici manifatturiere un vivace tessuto di quartieri artistici, teatri e ristoranti che celebrano la cultura del sud degli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/birmingham-alabama-is-called-the-magic-city-for-good-reason",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z57229165",
+   "sez": "cultura",
+   "titolo": "In Giappone cresce la popolarità degli hotel nei container navali",
+   "orig": "What’s it like to stay in a Japanese container hotel?",
+   "lead": "In Giappone si sta diffondendo una nuova formula di accoglienza per i viaggiatori rappresentata dagli hotel realizzati all'interno di container navali riadattati. A differenza dei tradizionali capsule hotel, dove gli ospiti riposano in loculi modulari inseriti in una parete, queste strutture offrono camere private ricavate da singoli moduli di carico dotati di comfort moderni. L'esperienza di pernottamento evidenzia la crescente popolarità di questo modello alberghiero innovativo e funzionale, che combina efficienza dello spazio e praticità per chi viaggia nel Paese. Lo riferisce SoraNews24.",
+   "more": [
+    "Il settore ricettivo giapponese è noto per la sperimentazione di soluzioni abitative insolite, concepite per ottimizzare gli spazi urbani e ridurre i costi di soggiorno. L'impiego di container navali riconvertiti consente di realizzare strutture alberghiere modulari e rapidamente edificabili, fornendo stanze indipendenti adatte a turisti che cercano comodità a prezzi contenuti."
+   ],
+   "fonti": [
+    {
+     "n": "SoraNews24",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://soranews24.com/2026/10/13/whats-it-like-to-stay-in-a-japanese-container-hotel/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z45a416bf",
+   "sez": "manga",
+   "titolo": "I sette Kekkei Genkai meno efficaci nella storia di Naruto",
+   "orig": "7 Weakest Kekkei Genkai in Naruto, Ranked",
+   "lead": "Una classifica stilata da esperti di animazione esamina i sette Kekkei Genkai considerati più deboli all'interno dell'universo narrativo del manga e anime Naruto. Sebbene queste abilità genetiche uniche appaiano temibili ed efficaci sulla carta, nell'opera faticano a tenere il passo con i poteri più versatili ed evoluti utilizzati dagli altri combattenti. L'approfondimento evidenzia i limiti pratici di ciascuna tecnica nelle battaglie più complesse, mostrando come non tutti i tratti ereditari garantiscano un reale vantaggio strategico durante i duelli ninja. Lo riferisce CBR – Anime.",
+   "more": [
+    "Nell'opera a fumetti Naruto, i Kekkei Genkai sono speciali abilità tramandate geneticamente all'interno di determinati clan, che consentono di manipolare contemporaneamente diversi tipi di chakra o usare tecniche oculari esclusive. Sebbene molti guerrieri d'élite debbano la propria forza a queste capacità, l'esito dei combattimenti dipende spesso dalla strategia e dall'ingegno dei ninja."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/naruto-weakest-kekkei-genkai/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zab710f3c",
+   "sez": "economia",
+   "titolo": "Il Gambia intensifica i controlli sul cibo importato via terra",
+   "orig": "IMPORTED FOOD BY LAND UNDER SCRUTINY",
+   "lead": "In Gambia le autorità chiedono una verifica rigorosa sui prodotti alimentari deperibili importati via terra, per prevenire rischi legati alla salute dei consumatori. Il ministero del Commercio, dell'Occupazione e dell'Integrazione Regionale e l'Autorità per la sicurezza e la qualità alimentare dovrebbero avviare uno studio congiunto sulle merci in ingresso nel Paese. L'obiettivo è mettere in guardia gli importatori ed evitare che sul mercato nazionale arrivino cibi deteriorati o inadatti al consumo umano a causa delle difficoltà nei controlli alle frontiere. Lo riferisce Foroyaa.",
+   "more": [
+    "La sicurezza alimentare nei Paesi in via di sviluppo dipende in gran parte dall'efficienza delle ispezioni doganali lungo le rotte terrestri. Il controllo dei cibi facilmente deperibili richiede una catena del freddo adeguata e analisi sanitarie rapide, fondamentali per scongiurare intossicazioni alimentari e garantire che le forniture soddisfino i requisiti minimi di qualità."
+   ],
+   "fonti": [
+    {
+     "n": "Foroyaa",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://foroyaa.net/imported-food-by-land-under-scrutiny/",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z082e0add",
+   "sez": "economia",
+   "titolo": "Il piano NextGenerationEU verso la scadenza per i Paesi membri",
+   "orig": "Comment le grand plan de relance européen a-t-il profité aux Vingt-Sept ?",
+   "lead": "Il piano di ripresa post-pandemia NextGenerationEU, approvato dai ventisette Stati membri dell'Unione Europea nel luglio del 2020 con un valore complessivo di settecentocinquanta miliardi di euro, si avvia alla conclusione nei prossimi mesi. La Commissione europea ha già erogato quattrocentocinquanta miliardi attraverso il suo strumento cardine per la ripresa e la resilienza, ma ora i governi nazionali devono richiedere e giustificare le risorse rimanenti prima della scadenza definitiva del programma per completare gli investimenti stabiliti. Lo riferisce France 24.",
+   "more": [
+    "NextGenerationEU è il fondo straordinario istituito dall'Unione Europea per rilanciare le economie dei Paesi membri dopo l'emergenza sanitaria causata dal Covid. Il meccanismo eroga sovvenzioni e prestiti subordinati al raggiungimento di specifici obiettivi di riforma strutturale, transizione ecologica e digitalizzazione stabiliti nei piani nazionali di ciascuno Stato."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/europe/20261012-comment-le-plan-de-plus-de-600-milliards-d-euros-a-t-il-relanc%C3%A9-l-europe",
+     "angolo": "",
+     "atlas": "France"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z52aa987a",
+   "sez": "ingegneria",
+   "titolo": "Gli occhiali di Carsten Höller che capovolgono la percezione visiva",
+   "orig": "carsten höller’s goggles turn the world upside down to challenge perception",
+   "lead": "L'artista Carsten Höller ha progettato speciali occhiali capaci di capovolgere completamente la visuale per mettere alla prova i meccanismi della percezione e del movimento. L'opera d'arte indossabile trae ispirazione da un esperimento psicologico condotto nel diciannovesimo secolo e trasforma l'ambiente circostante in un'esperienza straniante per chi la indossa. L'iniziativa esplora come il cervello umano elabori le informazioni visive e si adatti a una realtà improvvisamente invertita, sfidando l'orientamento spaziale e i consueti punti di riferimento quotidiani. Lo riferisce Designboom.",
+   "more": [
+    "Nel campo delle arti visive e del design concettuale, le opere interattive vengono utilizzate per indagare i confini della psicologia e della percezione sensoriale. Modificando artificialmente il campo visivo, gli artisti stimolano la riflessione su come la mente interpreti lo spazio, la gravità e le immagini del mondo esterno."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/art/carsten-holler-goggles-world-upside-down-perception-george-m-stratton/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z22964df2",
+   "sez": "cucina",
+   "titolo": "L'omelette di melanzane tortang talong nella tradizione filippina",
+   "orig": "Why I Can’t Stop Making Eggplant Omelets, Filipino-Style",
+   "lead": "Il tradizionale tortang talong, celebre omelette di melanzane tipica della cucina casalinga delle Filippine, continua a conquistare gli appassionati per la sua semplicità e versatilità. Questo piatto fondamentale della gastronomia filippina viene preparato arrostendo le melanzane prima di immergerle nell'uovo sbattuto e cuocerle in padella, offrendo una base saporita adatta a essere arricchita con condimenti a piacere. La pietanza viene celebrata come una ricetta accessibile e deliziosa, capace di reinterpretare ingredienti semplici con grande creatività. Lo riferisce The New York Times – Cucina.",
+   "more": [
+    "La cucina filippina combina sapori agrodolci e salati, impiegando ingredienti locali cotti con tecniche che esaltano il contrasto di consistenze. Il tortang talong rappresenta una preparazione domestica comune, servita spesso con riso bianco e intingoli a base di soia o aceto per accompagnare pasti quotidiani veloci e nutrienti."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times – Cucina",
+     "p": "US",
+     "c": "New York",
+     "u": "https://cooking.nytimes.com/article/filipino-style-eggplant-omelets",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zeac6c16a",
+   "sez": "adolescenti",
+   "titolo": "Scorrono le graduatorie dei docenti in Emilia-Romagna per il ruolo",
+   "orig": "Immissioni in ruolo docenti 2026/27, ancora nomine anche in Emilia Romagna",
+   "lead": "In Emilia-Romagna proseguono le procedure di scorrimento delle graduatorie concorsuali per le immissioni in ruolo del personale docente per l'anno scolastico 2026/2027. L'Ufficio scolastico regionale ha comunicato l'apertura della fase uno telematica, che permette ai candidati idonei di selezionare la provincia di preferenza entro le ore 10.00 di venerdì 16 ottobre 2026. Il provvedimento consente di assegnare nuove cattedre vacanti nelle scuole del territorio regionale per garantire la regolarità didattica e la stabilità degli organici. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Gli Uffici scolastici regionali gestiscono le nomine degli insegnanti nelle scuole pubbliche italiane sulla base delle graduatorie scaturite dai concorsi nazionali. Le immissioni in ruolo rappresentano l'assunzione a tempo indeterminato dei docenti, fondamentale per stabilizzare le cattedre e coprire i posti vacanti negli istituti di ogni ordine e grado."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/immissioni-in-ruolo-docenti-2026-27-ancora-nomine-anche-in-emilia-romagna/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera",
+   "sub": "sport"
+  },
+  {
+   "id": "zf7bc296b",
+   "sez": "ambiente",
+   "titolo": "Identificata sui social una rara ninfea gigante a rischio estinzione",
+   "orig": "Scoperta una ninfea gigante (a rischio estinzione)",
+   "lead": "Un ricercatore ha individuato una ninfea gigante a rischio di estinzione osservando un dettaglio insolito nello sfondo di un'immagine condivisa sui canali social. La pianta acquatica appena descritta appartiene alla specie Victoria colombiana, una rarità botanica le cui caratteristiche erano rimaste a lungo non identificate in natura. La scoperta scientifica evidenzia l'utilità inaspettata delle piattaforme digitali nello studio della biodiversità, ma richiama subito l'attenzione sulla fragilità dell'ecosistema in cui questo grande vegetale sopravvive con fatica. Lo riferisce Focus.",
+   "more": [
+    "Il genere Victoria comprende ninfee giganti originarie delle zone umide del Sud America, famose per le foglie galleggianti dalle dimensioni enormi capaci di reggere un peso notevole. La conservazione di queste specie acquatiche è costantemente minacciata dall'inquinamento delle acque, dalla frammentazione dell'habitat naturale e dalla rapida espansione delle attività umane."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/ambiente/natura/scoperta-su-instagram-una-nuova-specie-di-ninfea-gigante-era-mimetizzata-in-un-selfie",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze5928309",
+   "sez": "cultura",
+   "titolo": "I cha chaan teng raccontano la storia popolare di Hong Kong",
+   "orig": "La storia, vista da una sala da tè di Hong Kong",
+   "lead": "A Hong Kong le storiche sale da tè tradizionali, note con il nome di cha chaan teng, raccontano l'incontro culturale e la memoria storica tra Asia ed Europa. In questi locali caratterizzati da tavolini stretti e atmosfere popolari, la cucina locale recupera tradizioni occidentali riadattate con sapori orientali in un ambiente intimo e frenetico. Un viaggio attraverso questi spazi permette di riscoprire piatti popolari che riflettono l'evoluzione della società locale e la sua identità cosmopolita. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "I cha chaan teng sono caffè-ristoranti nati a Hong Kong nel dopoguerra per offrire piatti occidentali a prezzi accessibili alla popolazione locale. Con il tempo sono diventati simboli della cultura gastronomica cittadina, proponendo una miscela caratteristica di tè con latte, pane tostato e piatti veloci di ispirazione anglo-cinese."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/cultura/la-storia-vista-da-una-sala-da-te-di-hong-kong/1041922/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a2ad1e4",
+   "sez": "spazio",
+   "titolo": "La Luna occulta Giove prima dell'alba nei cieli di ottobre",
+   "orig": "Rare Sight Ahead! Watch the Moon Occult Jupiter Early October 6th",
+   "lead": "Nelle prime ore del 6 ottobre un raro fenomeno astronomico permetterà di osservare l'occultazione di Giove da parte della Luna poco prima dell'alba. Il pianeta gigante scomparirà dietro il bordo scuro del disco lunare per poi riapparire con grande luminosità al termine del transito celeste. L'evento celeste offrirà agli appassionati di astronomia un'opportunità spettacolare per assistere all'interazione prospettica tra il satellite naturale terrestre e il corpo planetario più massiccio del sistema solare. Lo riferisce Sky & Telescope.",
+   "more": [
+    "In astronomia un'occultazione si verifica quando un corpo celeste apparentemente più vicino e grande, come la Luna, transita davanti a un pianeta o a una stella lontana nascondendolo temporaneamente alla vista. Questi allineamenti offrono spettacolari occasioni di studio per calcolare con precisione le orbite e osservare i bordi lunari."
+   ],
+   "fonti": [
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/rare-sight-ahead-watch-the-moon-occult-jupiter-on-october-6th/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z07b7319a",
+   "sez": "salute",
+   "titolo": "Medicare Advantage pubblica i punteggi di qualità per il 2027",
+   "orig": "STAT+: Medicare Advantage star ratings trigger new bonuses, and uncertainty",
+   "lead": "Il governo federale degli Stati Uniti ha pubblicato le nuove valutazioni qualitative a stelle per le compagnie assicurative che gestiscono il programma sanitario Medicare Advantage per l'anno 2027. La diffusione dei punteggi ha innescato l'assegnazione di cospicui bonus finanziari ma anche forte incertezza nel comparto delle polizze private, con il gruppo Humana che si è affermato come il principale beneficiario dei risultati ottenuti. Il sistema premia gli operatori più efficienti determinando l'accesso a incentivi pubblici milionari. Lo riferisce STAT.",
+   "more": [
+    "Medicare Advantage è un programma sanitario negli Stati Uniti che consente ai cittadini anziani di ricevere l'assistenza medica pubblica attraverso piani assicurativi privati convenzionati. Il sistema di valutazione a stelle misura la qualità delle cure, la prevenzione e la soddisfazione dei pazienti, determinando rimborsi e bonus finanziari erogati dal governo."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc6d12538",
+   "sez": "salute",
+   "titolo": "A Tokyo apre una sauna progettata per ricreare il grembo materno",
+   "orig": "New Tokyo facility promises to make you feel reborn, time in the womb and all [Photos]",
+   "lead": "A Tokyo una nuova struttura dedicata al benessere, denominata Sauna Mother, propone ai suoi ospiti un'esperienza sensoriale volta a ricreare la calma e la sicurezza del grembo materno. L'impianto termale è stato ideato per consentire agli adulti di allontanare lo stress derivante dagli impegni quotidiani e sperimentare una sensazione di rinascita fisica e mentale. Gli ambienti e i trattamenti offerti combinano il relax tradizionale della sauna giapponese con atmosfere rassicuranti pensate per donare un profondo sollievo emotivo. Lo riferisce SoraNews24.",
+   "more": [
+    "Nella cultura giapponese le terme e le saune rivestono un ruolo fondamentale per la rigenerazione personale e la salute psicofisica, rappresentando luoghi di fuga dalle tensioni urbane. Molte strutture moderne integrano trattamenti innovativi e concetti olistici per attirare chi cerca ambienti rilassanti e distensivi nel cuore delle grandi metropoli."
+   ],
+   "fonti": [
+    {
+     "n": "SoraNews24",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://soranews24.com/2026/10/12/new-tokyo-facility-promises-to-make-you-feel-reborn-time-in-the-womb-and-all-photos/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbe7c5fab",
+   "sez": "manga",
+   "titolo": "L'anime di Kagurabachi debutta in anteprima mondiale anticipata",
+   "orig": "Kagurabachi Officially Arrives Early With Exclusive 2-Episode World Premiere",
+   "lead": "L'atteso adattamento animato del manga Kagurabachi, scritto e disegnato da Takeru Hokazono, debutterà in anteprima mondiale con un mese di anticipo rispetto ai piani iniziali. In Giappone verrà organizzata una proiezione speciale esclusiva dei primi due episodi della serie televisiva, permettendo al pubblico di scoprire prima del previsto la trasposizione dell'opera a fumetti molto apprezzata dalla critica. L'annuncio ha suscitato grande entusiasmo tra gli appassionati internazionali che attendono l'esordio del franchise sul piccolo schermo. Lo riferisce CBR – Anime.",
+   "more": [
+    "Kagurabachi è un manga d'azione serializzato sulla rivista giapponese Weekly Shonen Jump, che ha conquistato rapidamente una vasta popolarità internazionale grazie a disegni dinamici e una trama incentrata sulla vendetta e spade magiche. Il passaggio all'animazione costituisce un traguardo fondamentale per ampliare il pubblico e il successo commerciale del titolo."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/kagurabachi-anime-early-premiere-release-date/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z92f6bc61",
+   "sez": "economia",
+   "titolo": "Le Filippine approvano il bilancio tra i dubbi sulle spese clientelari",
+   "orig": "House passes P7.2-trillion 2027 budget amid pork barrel concerns",
+   "lead": "La Camera dei rappresentanti delle Filippine ha approvato una legge di bilancio per il 2027 pari a settemiladuecento miliardi di pesos, tra accese polemiche sull'utilizzo dei fondi pubblici discrezionali. La deputata del partito Mamamayang Liberal Leila de Lima ha duramente contestato la manovra finanziaria, dichiarando che le risorse stanziate non pongono al centro le reali esigenze dei cittadini ma rispondono piuttosto a convenienze e calcoli di natura elettorale. Lo riferisce Rappler.",
+   "more": [
+    "Nelle Filippine il dibattito sulla legge di bilancio annuale è spesso segnato da controversie riguardanti le spese discrezionali assegnate ai parlamentari per progetti locali. L'opposizione vigila affinché le imponenti risorse statali siano destinate a servizi essenziali come sanità e istruzione, evitando che vengano impiegate per consolidare il consenso politico in vista delle elezioni."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/house-representatives-passes-2027-budget-pork-barrel-concerns/",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z98f9cc4f",
+   "sez": "ingegneria",
+   "titolo": "I vincitori degli A’ Design Award puntano su grafica e packaging",
+   "orig": "A’ design award winners achieve real world impact through graphic design",
+   "lead": "L'edizione 2026 degli A’ Design Award ha premiato una selezione di progetti internazionali capaci di generare un impatto reale attraverso la grafica e le innovazioni nel settore degli imballaggi. La rassegna mette in luce il talento di designer che hanno saputo unire estetica visiva, funzionalità e sostenibilità industriale all'interno di svariati ambiti creativi. I riconoscimenti assegnati confermano come la comunicazione visiva e il confezionamento responsabile rappresentino elementi decisivi per migliorare l'esperienza quotidiana dei consumatori e l'efficienza produttiva. Lo riferisce Designboom.",
+   "more": [
+    "Gli A’ Design Award sono prestigiosi premi internazionali che celebrano annualmente l'eccellenza nella progettazione grafica, nel design industriale e nell'architettura. Le innovazioni nel packaging e nella comunicazione visiva assumono un ruolo sempre più rilevante per le aziende che intendono ridurre l'impatto ambientale dei materiali e comunicare con chiarezza ai clienti."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/design/a-design-award-winners-graphic-design/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7d6d1b5c",
+   "sez": "cucina",
+   "titolo": "Un menu ispirato alla Sicilia con pasta di pesce e caponata",
+   "orig": "Let This Dinner Menu Take You to Sicily, No Passport Needed",
+   "lead": "Uno speciale menu serale ideato dal cuoco David Tanis propone un viaggio culinario tra i profumi e i sapori tradizionali della Sicilia. La proposta gastronomica mette al centro una raffinata pasta con pesce fresco affiancata da crostoni con caponata a base di zucchine e melanzane, ricreando un'atmosfera mediterranea senza necessità di allontanarsi da casa. La combinazione di ingredienti estivi e ricette isolane offre un percorso gustoso che valorizza i prodotti tipici del territorio con preparazioni equilibrate. Lo riferisce The New York Times – Cucina.",
+   "more": [
+    "La cucina siciliana è una delle più rinomate del bacino del Mediterraneo, caratterizzata dall'uso generoso di verdure di stagione, erbe aromatiche e pesce freschissimo. La caponata è un celebre contorno agrodolce in cui melanzane e altri ortaggi vengono stufati con aceto e zucchero, rappresentando un simbolo della tradizione gastronomica dell'isola."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times – Cucina",
+     "p": "US",
+     "c": "New York",
+     "u": "https://cooking.nytimes.com/article/sicilian-inspired-dinner-menu",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z21e379ae",
+   "sez": "spazio",
+   "titolo": "Scoperto un microblazar con getti puntati verso la Terra",
+   "orig": "Un \"microblazar\" puntato verso di noi",
+   "lead": "A circa dodicimila anni luce dalla Terra gli astronomi hanno individuato la sorgente denominata IRAS 18293-0941, confermando una teoria astrofisica formulata trent'anni fa sull'esistenza dei cosiddetti microblazar. L'oggetto celeste è composto da un buco nero che sta divorando una stella vicina e scaglia violenti getti di materia quasi alla velocità della luce orientati esattamente verso la nostra direzione. La scoperta fornisce dati cruciali per comprendere i processi di accrescimento e le emissioni energetiche nello spazio profondo. Lo riferisce Focus.",
+   "more": [
+    "Un microblazar è una versione in miniatura di un blazar galattico, costituito da un sistema binario in cui un buco nero o una stella di neutroni risucchia materia dalla stella compagna. I getti relativistici di particelle espulsi lungo l'asse magnetico risultano allineati con la Terra, consentendo agli scienziati di osservare intensi bagliori di radiazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/spazio/via-lattea-primo-microblazar-buco-nero-con-il-getto-puntato-dritto-verso-la-terra",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z754aa750",
+   "sez": "spazio",
+   "titolo": "La nuova corsa alla superficie lunare tra Stati Uniti e Cina",
+   "orig": "Mars may be a hellhole, but the moon is not far behind",
+   "lead": "La nuova corsa allo spazio vede Stati Uniti e Cina impegnati in una competizione serrata per raggiungere la superficie della Luna, affiancati da altre nazioni rivali e da partner internazionali. Sebbene Marte sia spesso considerato un ambiente inospitale, anche il nostro satellite naturale presenta condizioni estreme e ostili per la presenza umana. Il rinnovato interesse geopolitico ed economico per le risorse lunari richiama le tensioni della storica sfida tra Unione Sovietica e America durante la Guerra Fredda. Lo riferisce MIT Technology Review.",
+   "more": [
+    "L'esplorazione lunare contemporanea punta allo sviluppo di missioni durature e alla costruzione di basi scientifiche stabili per sfruttare risorse minerarie e testare tecnologie avanzate. Il confronto tra le principali potenze spaziali combina ambizioni scientifiche e controllo strategico, ponendo le premesse per future spedizioni umane verso traguardi più remoti del nostro sistema solare."
+   ],
+   "fonti": [
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z40bc12bf",
+   "sez": "musica",
+   "titolo": "L'inno Rockin' in the Free World di Neil Young torna protagonista",
+   "orig": "Tutti cantano ‘Rockin’ in the Free World’ di Neil Young",
+   "lead": "Il celebre inno di protesta Rockin' in the Free World, pubblicato originariamente da Neil Young nel 1989, sta vivendo un rinnovato successo attraverso le reinterpretazioni di numerosi artisti internazionali. Il brano è stato riproposto dal vivo da musicisti di spicco come Bruce Springsteen e Roger Daltrey, oltre a fare parte da decenni del repertorio abituale dei concerti dei Pearl Jam. Il messaggio politico e sociale della canzone continua a risuonare con grande forza nel panorama musicale mondiale contemporaneo. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "Neil Young è un influente cantautore e chitarrista canadese, celebre per il suo stile folk-rock e i testi impegnati sui temi della giustizia sociale e della politica. Il suo brano del 1989 divenne un simbolo delle contraddizioni della società occidentale alla vigilia della caduta del Muro di Berlino, mantenendo intatta la propria rilevanza."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/classifiche-liste-musica/tutti-cantano-rockin-in-the-free-world-di-neil-young/1042028/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3b0cb7b7",
+   "sez": "ambiente",
+   "titolo": "L'ozono degli incendi amazzonici minaccia la cattura del carbonio",
+   "orig": "Amazon wildfires hide another threat to the rainforest",
+   "lead": "Gli incendi che colpiscono la foresta amazzonica nascondono un'ulteriore e grave minaccia per l'ecosistema vegetale, riducendo la naturale capacità della vegetazione di assorbire il carbonio dall'atmosfera. L'inquinamento da ozono generato dai roghi danneggia infatti anche gli alberi che sopravvivono all'avanzata delle fiamme, compromettendone la salute e la fotosintesi nel lungo termine. Il fenomeno rischia di accelerare i cambiamenti climatici indebolendo uno dei polmoni verdi più importanti e vulnerabili per l'equilibrio del pianeta. Lo riferisce EarthSky.",
+   "more": [
+    "La foresta amazzonica svolge un ruolo cruciale nella regolazione del clima globale assorbendo enormi quantità di anidride carbonica grazie alla fotosintesi delle sue fitte chiome. Il degrado causato da incendi e inquinanti atmosferici riduce la resilienza degli alberi, trasformando aree un tempo rigogliose in fonti nette di emissioni di gas a effetto serra."
+   ],
+   "fonti": [
+    {
+     "n": "EarthSky",
+     "p": "US",
+     "c": "Austin",
+     "u": "https://earthsky.org/earth/amazon-wildfires-hide-another-threat-to-the-rainforest/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z725c334c",
+   "sez": "salute",
+   "titolo": "Dati incoraggianti dal farmaco di riprogrammazione cellulare per il glaucoma",
+   "orig": "STAT+: Life Biosciences share glaucoma study updates for its cellular reprogramming drug",
+   "lead": "La società di biotecnologie Life Biosciences ha reso noti gli ultimi aggiornamenti clinici sulla sperimentazione di un farmaco per la riprogrammazione cellulare destinato ai pazienti affetti da glaucoma. Tre persone con questa patologia oculare hanno ricevuto una singola iniezione del trattamento sperimentale senza manifestare reazioni avverse gravi a seguito della somministrazione. I dati preliminari offrono indicazioni incoraggianti sulla sicurezza del composto, che punta a ripristinare la funzionalità delle cellule nervose della vista danneggiate dalla malattia. Lo riferisce STAT.",
+   "more": [
+    "Il glaucoma è una grave malattia degenerativa dell'occhio che provoca danni progressivi al nervo ottico, rappresentando una delle principali cause di cecità irreversibile nel mondo. La ricerca sulla riprogrammazione cellulare mira a ringiovanire i tessuti danneggiati riattivando processi biologici capaci di contrastare la degenerazione e preservare la capacità visiva delle persone colpite."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
+   "id": "z97cf972b",
+   "sez": "viaggi",
+   "titolo": "Pedalate e sentieri autunnali alla scoperta del Lago d'Iseo",
+   "orig": "A lakeside idyll: laid-back cycling and autumn hikes on Italy’s Lake Iseo",
+   "lead": "Il Lago d'Iseo si propone come una meta ideale per escursioni autunnali e percorsi in bicicletta, distinguendosi dalle destinazioni più frequentate come Como e Garda. Al centro del bacino sorge Monte Isola, un'isola lacustre priva di automobili caratterizzata da fitti boschi, borghi di pescatori come Peschiera Maraglio e sentieri panoramici raggiungibili con brevi traversate in traghetto da Sulzano. La combinazione di tranquillità e paesaggi lacustri rende il territorio una scelta suggestiva per un turismo lento e rilassante. Lo riferisce The Guardian – Viaggi.",
+   "more": [
+    "Situato tra le province di Bergamo e Brescia, il Lago d'Iseo è uno dei principali laghi prealpini italiani, rinomato per le sue acque tranquille e le colline circostanti. Monte Isola è l'isola lacustre abitata più grande dell'Europa meridionale, celebre per la conservazione delle tradizioni artigianali legate alla pesca e per l'assenza di traffico veicolare."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Viaggi",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/travel/2026/oct/12/biking-hiking-lake-iseo-italian-lakes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:22",
+   "uscita": "sera"
+  },
+  {
    "id": "z5662cf00",
    "sez": "cucina",
    "titolo": "Torino accoglie Buonissima 2026 tra alta cucina e piole tradizionali",
@@ -2458,6 +4305,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://www.timesofisrael.com/2-american-economists-win-nobel-for-work-on-managing-economic-shocks/",
      "angolo": "",
      "atlas": "Israel"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/nobel-economia-2026-a-ehall-e-woodford--0a074278-b1bf-4130-b78c-aeab93bd00fd.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "12 ott",
@@ -2822,6 +4677,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o",
      "angolo": "",
      "atlas": "United Kingdom"
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/zelenskyy-russia-violating-energy-ceasefire-9.7377881?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada"
     }
    ],
    "data": "12 ott",
@@ -6840,6 +8703,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://euronews.al/koreja-e-jugut-hap-bazen-e-pare-ushtarake-per-robotet-me-inteligjence-artificiale/",
      "angolo": "",
      "atlas": "Albania"
+    },
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/kazakhstans-startup-ecosystem-enters-new-phase-as-funding-and-ai-adoption-surge/",
+     "angolo": "",
+     "atlas": "Kazakhstan"
     }
    ],
    "data": "12 ott",
@@ -6989,7 +8860,7 @@ window.EDIZIONI["2026-10-12-sera"] = {
   },
   {
    "id": "zaacf97e0",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "L'Unione europea vara massicce sanzioni contro il complesso militare russo e la Corea del Nord",
    "orig": "DPRK: Council adds three individuals and four entities to sanctions lists over nuclear, missile programmes and Russia ties",
    "lead": "I ministri degli Esteri dell'Unione europea hanno formalmente approvato il più imponente pacchetto di sanzioni contro la Russia dall'inizio dell'aggressione all'Ucraina, inserendo nella lista restrittiva circa milleseicento soggetti, tra cui ottocentoventisei aziende del settore bellico e oltre settecento individui. Contestualmente, il Consiglio europeo ha adottato misure sanzionatorie mirate nei confronti di tre personalità e quattro organizzazioni della Corea del Nord per il supporto fornito ai programmi di armi di distruzione di massa e per la violazione delle risoluzioni internazionali legata alla cooperazione militare con Mosca. I rappresentanti europei hanno definito il provvedimento un colpo senza precedenti alle capacità belliche russe.",
@@ -7044,6 +8915,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://ipn.md/en/the-eu-sanctions-nearly-1600-individuals-and-entities-related-to-russias-military-industrial-complex/",
      "angolo": "",
      "atlas": "Moldova"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/12/eu-adopts-record-sanctions-expansion-targeting-16k-russian-defense-firms-and-executives-a93952",
+     "angolo": "",
+     "atlas": "Russia"
     }
    ],
    "data": "12 ott",
@@ -8057,29 +9936,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z78321859",
-   "sez": "economia",
-   "titolo": "Il Pakistan sostiene l'Arabia Saudita e avvia colloqui per diversificare le forniture energetiche",
-   "orig": "Pakistan stands shoulder to shoulder with Saudi Arabia: petroleum minister",
-   "lead": "Il ministro del Petrolio del Pakistan, Ali Pervaiz Malik, ha ribadito il pieno sostegno del suo Paese all'Arabia Saudita, condannando con fermezza gli attacchi condotti dai ribelli Houthi contro il territorio saudita. L'esponente del governo pakistano ha inoltre avviato colloqui bilaterali mirati a diversificare le forniture energetiche e rafforzare la sicurezza dell'approvvigionamento di idrocarburi per Islamabad. La presa di posizione consolida l'alleanza strategica ed economica tra le due nazioni in una fase delicata per gli equilibri petroliferi mediorientali. Lo riferisce The Express Tribune.",
-   "more": [
-    "Il movimento Houthi controlla vaste aree dello Yemen ed è protagonista di attacchi contro infrastrutture critiche e rotte marittime nella penisola araba. L'Arabia Saudita è uno dei massimi esportatori mondiali di greggio, mentre il Pakistan fa grande affidamento sui partner del Golfo per soddisfare il proprio fabbisogno energetico nazionale."
-   ],
-   "fonti": [
-    {
-     "n": "The Express Tribune",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://tribune.com.pk/story/2634428/pakistan-stands-shoulder-to-shoulder-with-saudi-arabia-petroleum-minister",
-     "angolo": "",
-     "atlas": "Pakistan"
-    }
-   ],
-   "data": "12 ott",
-   "ora": "17:25",
-   "uscita": "17"
-  },
-  {
    "id": "zab2e9662",
    "sez": "economia",
    "titolo": "Perdite da quattro milioni di euro per XXXLutz e Möbelix in Slovacchia",
@@ -8463,7 +10319,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z06ac7e56": "La pubblicazione evidenzia le opportunità e le resistenze applicative del nuovo piano ecologico, citando la sperimentazione senese.",
   "ze8ef75f3": "Il quotidiano keniota mette a fuoco le responsabilità del funzionario bancario e le devastanti ripercussioni economiche per l'impresa coinvolta.",
   "z9d86a998": "La testata guineana pone l'accento sul resoconto del dirigente federale in merito alle riforme della governance e del calcio dilettantistico.",
-  "z78321859": "Il quotidiano pakistano evidenzia la condanna degli attacchi Houthi e il dialogo per diversificare le fonti di rifornimento energetico.",
   "zab2e9662": "La pubblicazione slovacca pone in risalto il rosso di bilancio e le strategie di contenimento dei costi previste dall'azienda.",
   "z035b32e1": "Il giornale beninese sottolinea le tre aree critiche identificate dalla CAF per migliorare il rendimento africano verso il 2030.",
   "ze0a3c470": "Il quotidiano pakistano mette in risalto il crollo dell'indice e l'impatto delle vendite sui comparti bancario ed energetico.",
@@ -8691,7 +10546,85 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z38ce9b24": "La recensione racconta la crescita del locale come una buona notizia per la scena gastronomica della città.",
   "zcc581933": "La testata chiarisce che eventuali forme di vita scoperte sarebbero probabilmente microrganismi, non creature complesse.",
   "z16a76451": "La testata mette in evidenza il debutto in vetta del nuovo Ace Combat.",
-  "zd5bef3c5": "CNA riporta la fiducia di Carrick nella ripresa, mentre il Guardian insiste sul pessimo avvio e sulle assenze."
+  "zd5bef3c5": "CNA riporta la fiducia di Carrick nella ripresa, mentre il Guardian insiste sul pessimo avvio e sulle assenze.",
+  "ze70cc308": "NPR sottolinea la discrepanza tra le affermazioni politiche di Donald Trump e la realtà dei bombardamenti subiti dalle infrastrutture ucraine.",
+  "z8ca74221": "Universe Today evidenzia i risultati scientifici e il valore innovativo dell'osservazione solare stratosferica.",
+  "z70905767": "Tokyo Cheapo offre indicazioni pratiche ai viaggiatori evidenziando le date ottimali e il ritardo previsto a Kyoto.",
+  "zd3806377": "Dabanga pone in rilievo la sproporzione tra il numero di sfollati a Tawila e le risorse mediche minime disponibili.",
+  "z3ec30fe8": "The New York Times pone l'accento sulla vulnerabilità delle infrastrutture saudite e sulla proposta diplomatica iraniana.",
+  "z564c543e": "Science News Explores mette in risalto il valore di queste scoperte per comprendere il contagio planetario e la vita extraterrestre.",
+  "z85002871": "The Guardian evidenzia l'occasione mancata del documentario di approfondire le controversie dell'artista in modo critico.",
+  "zf100ac78": "South China Morning Post promuove la serie con un giudizio positivo, lodando il tono leggero e l'interpretazione del protagonista.",
+  "z84c1cd1a": "El Comercio collega l'esperienza personale dell'attore australiano al grave impatto epidemiologico dei tumori della pelle in Perù.",
+  "zc21b3df5": "CNA e The Guardian concordano sulla portata storica del numero di contratti, mentre The Guardian approfondisce la scissione dello staff tecnico.",
+  "z903f14a6": "Universe Today sottolinea la straordinarietà della scoperta compiuta da uno studente giovanissimo e il suo valore per l'astrofisica.",
+  "z32f03350": "Sky News mette a fuoco l'immediata sospensione dell'agenda pubblica papale per consentire la procedura chirurgica.",
+  "zaa61e2a6": "Fox News mette in luce l'eccezionale durata dell'avventura e i festeggiamenti al rientro sulle coste inglesi.",
+  "z6981184e": "ArchDaily valorizza il legame concettuale tra il design tessile e la composizione dei volumi architettonici dell'edificio.",
+  "zbd4f5a36": "The Guardian elogia la capacità del regista di trasformare la scuola in un ritratto cupo e profondo delle pressioni sociali.",
+  "zad8e6706": "South China Morning Post loda la cura scenica e la qualità vocale del coro e dei solisti nella produzione.",
+  "z276578a4": "Crunchyroll News annuncia l'arrivo immediato dei nuovi titoli a fumetti per arricchire la proposta editoriale agli utenti.",
+  "za9329ae2": "Il Messaggero si concentra sui voti dei singoli protagonisti, mentre ANSA segue la cronaca in diretta del match.",
+  "z9174faf4": "RTÉ News sottolinea l'isolamento della proposta governativa irlandese di fronte alle obiezioni delle istituzioni di Bruxelles.",
+  "zdaf95b03": "Egypt Independent analizza l'uso del marketing politico per superare le resistenze popolari ai centri dati.",
+  "z4229cdc6": "ArchDaily valorizza l'integrazione tra le esigenze pratiche dei soccorritori e il design monolitico inserito nel paesaggio alpino.",
+  "zf8ce7868": "SpaceNews pone l'accento sulla cooperazione industriale e sul debutto operativo del sensore ASTRO HP nell'orbita terrestre bassa.",
+  "z98918c48": "Il South China Morning Post si sofferma sull'entusiasmo dell'attrice per il ruolo e sulla composizione del cast principale.",
+  "z8d35ec23": "Crunchyroll News mette in luce il legame tra la musica pop di 10CM e l'universo visivo inquietante di Junji Ito.",
+  "z1b41367a": "Le Monde si sofferma sugli impegni di TotalEnergies e sulle agevolazioni per agricoltori e costruttori, mentre Libération mette in evidenza le pressioni del governo sui distributori e la data di inizio novembre per i ribassi.",
+  "z0f15a2e0": "The Japan Times evidenzia il monito di Kristalina Georgieva sull'erosione dei posti di lavoro ripetitivi e sulle conseguenze per il gettito tributario.",
+  "zaf146197": "The Kathmandu Post pone l'accento sulla novità del trattamento nel sistema sanitario nepalese e sul monitoraggio della giovane paziente trattata.",
+  "z88abbfa9": "The Guardian – Istruzione mette in risalto le criticità delle aule surriscaldate e le proposte sindacali di riforma del calendario didattico.",
+  "za17f6267": "RNZ Pacific evidenzia il traguardo storico per la squadra nazionale di Kiribati e il successo conseguito sul campo figiano.",
+  "z89539192": "FBC News mette in evidenza la discrepanza tra le speranze legate al titolo UNESCO e la persistente crisi economica delle attività locali.",
+  "zdd09aefc": "ArchDaily valorizza l'integrazione del nuovo museo con il paesaggio e con la preesistente struttura museale adiacente.",
+  "z5ad7e2cb": "Focus mette in evidenza l'uso dell'intelligenza artificiale su migliaia di risonanze e la scoperta dell'invecchiamento precoce del lato destro.",
+  "z9f537df5": "Rolling Stone Italia sottolinea la ferma volontà di James Hetfield di separare l'esibizione musicale dai messaggi politici durante lo show a Las Vegas.",
+  "z42e87dbe": "Il South China Morning Post valorizza l'impronta asiatica del progetto, dall'architettura alle collezioni, oltre al parterre di celebrità all'inaugurazione.",
+  "zbdde8ae5": "La testata sottolinea la collaborazione del celebre duo creativo e il coinvolgimento dello sviluppatore videoludico coly.",
+  "zdf39bd53": "La testata mette in evidenza i due podi conquistati dal pilota di San Marino nell'ultimo appuntamento stagionale.",
+  "z568fb773": "La testata pone l'accento sulla doppia funzione dell'infrastruttura colpita, usata sia per l'export commerciale sia per i rifornimenti militari.",
+  "z38161fae": "La testata sottolinea l'inasprimento della crisi tra i dirigenti scolastici e l'organismo ispettivo britannico, con il rischio concreto di agitazioni.",
+  "z6d2e83c9": "Focus mette in risalto il ruolo dell'editing genetico come strumento per ridurre lo spreco di tonnellate di cibo.",
+  "z01efa39e": "La testata pone l'accento sulla dimensione personale e terapeutica del sodalizio artistico rispetto alle dinamiche discografiche.",
+  "za01eb254": "SpaceNews sottolinea il rafforzamento della dirigenza e delle strategie finanziarie dell'azienda per sostenere la propria espansione.",
+  "z9af22a2b": "La testata racconta in presa diretta l'esperienza di viaggio e le caratteristiche del nuovo treno veloce che unisce Dubai e Abu Dhabi.",
+  "z9fb3ae59": "La testata sottolinea la decisione condivisa del gruppo di concludere l'attività in coincidenza con il quindicesimo anniversario di carriera.",
+  "z219d2ef4": "La testata evidenzia l'esito del derby emiliano-romagnolo e la situazione al vertice della classifica a punteggio pieno.",
+  "zfd16cd8d": "ArchDaily mette in luce il decimo anniversario del festival e il ruolo dell'urbanistica creativa nell'affrontare le sfide del ventunesimo secolo.",
+  "z09855cc3": "La testata specializzata evidenzia come la burocrazia e i contenziosi continuino ad assorbire i risparmi statali in assenza di riforme strutturali.",
+  "z7d4c3dec": "Focus mette in risalto il ribaltamento del luogo comune sui disturbi notturni legati alla presenza dei cani nel letto.",
+  "zeb1209e3": "La testata pone l'accento sulla drastica riduzione dei tempi stimati per la stabilità orbitale planetaria rispetto all'evoluzione del Sole.",
+  "z03a0c496": "Il quotidiano romano sottolinea il ritorno della rassegna quale piattaforma privilegiata per la giovane drammaturgia under 30.",
+  "z4d823dff": "La testata gambiana pone l'accento sulla reazione autonoma degli agricoltori locali all'aumento dei prezzi dei generi di prima necessità.",
+  "z71817b6e": "Designboom mette in luce la sperimentazione spaziale all'interno dello scheletro in calcestruzzo sospeso tra decadenza e rigenerazione.",
+  "z8f646829": "Orizzonte Scuola evidenzia la presenza del ministro Valditara e la possibilità di seguire l'evento per dirigenti in diretta streaming.",
+  "z7d0f73b6": "Focus sottolinea i benefici psicologici ed emotivi legati all'abbandono di una dieta basata su cibi industriali ultraprocessati.",
+  "z3d17bb3d": "Rolling Stone Italia pone l'accento sulla fissazione della data ufficiale e sull'uscita del primo video dello spettacolo con ologramma.",
+  "z9bda7771": "The Lancet pone in risalto le forti perplessità degli specialisti medici sui rischi terapeutici per quattordicimila carcerati canadesi.",
+  "z5546d3b1": "Condé Nast Traveler mette in luce il riscatto urbano di Birmingham attraverso l'evoluzione della sua offerta culinaria e musicale.",
+  "z57229165": "SoraNews24 mette a confronto il comfort dei nuovi alberghi in container rispetto alle storiche stanze a capsula giapponesi.",
+  "z45a416bf": "CBR – Anime analizza il divario tra la spettacolarità teorica di alcune tecniche ereditarie e la loro reale efficacia nei duelli.",
+  "zab710f3c": "Foroyaa sottolinea l'urgenza di una collaborazione tra ministeri per bloccare l'ingresso di merci deperibili guaste nel Paese.",
+  "z082e0add": "France 24 mette a fuoco l'imminente scadenza dei fondi europei e la necessità per gli Stati di rendicontare le quote residue.",
+  "z52aa987a": "Designboom evidenzia il legame tra l'opera d'arte indossabile di Höller e gli storici esperimenti scientifici sulla percezione umana.",
+  "z22964df2": "The New York Times – Cucina mette in risalto la versatilità e la facilità di preparazione di questo classico piatto filippino.",
+  "zeac6c16a": "Orizzonte Scuola segnala le scadenze operative per la scelta della provincia da parte degli aspiranti docenti in graduatoria.",
+  "zf7bc296b": "Focus sottolinea il ruolo decisivo di un dettaglio notato sui social per giungere alla scoperta della Victoria colombiana.",
+  "ze5928309": "Rolling Stone Italia descrive come i caffè popolari colmino storicamente le distanze culturali tra Oriente e Occidente.",
+  "z6a2ad1e4": "Sky & Telescope illustra i dettagli orari e visivi della spettacolare scomparsa di Giove dietro al bordo lunare.",
+  "z07b7319a": "STAT evidenzia il primato della compagnia Humana nei punteggi a stelle e le incertezze finanziarie per gli assicuratori.",
+  "zc6d12538": "SoraNews24 mette in evidenza la particolare formula concettuale del centro benessere incentrata sul ritorno al grembo materno.",
+  "zbe7c5fab": "CBR – Anime enfatizza la sorpresa per la proiezione speciale dei primi due episodi con un mese di anticipo sui piani.",
+  "z92f6bc61": "Rappler dà rilievo alle denunce dell'opposizione sull'impostazione elettorale dei fondi stanziati dalla Camera filippina.",
+  "z98f9cc4f": "Designboom valorizza l'efficacia concreta dei progetti premiati nelle categorie del design grafico e del confezionamento sostenibile.",
+  "z7d6d1b5c": "The New York Times – Cucina promuove l'atmosfera e i sapori siciliani ricreati attraverso il menu a base di pesce e caponata.",
+  "z21e379ae": "Focus sottolinea la conferma empirica di un'ipotesi teorica formulata trent'anni fa sui buchi neri con getti relativistici.",
+  "z754aa750": "MIT Technology Review mette a confronto l'attuale corsa verso la Luna con la storica rivalità spaziale del Novecento.",
+  "z40bc12bf": "Rolling Stone Italia analizza il rinnovato entusiasmo degli artisti rock per lo storico inno di protesta firmato da Neil Young.",
+  "z3b0cb7b7": "EarthSky punta i riflettori sui danni invisibili provocati dall'inquinamento da ozono agli alberi scampati alle fiamme.",
+  "z725c334c": "STAT rimarca l'assenza di effetti collaterali gravi nei primi tre pazienti trattati con il farmaco cellulare innovativo.",
+  "z97cf972b": "The Guardian – Viaggi esalta la quiete e il fascino privo di auto di Monte Isola rispetto ai laghi italiani più affollati."
  },
  "contesti": {
   "zc3de7c78": "Ilhan Omar, deputata democratica del Minnesota eletta per la prima volta nel 2018, è da anni una delle voci più critiche nei confronti di Donald Trump, che l'ha più volte attaccata pubblicamente. Nei giorni scorsi il Dipartimento di Giustizia ha portato avanti un'indagine federale ancora in corso. Per quell'indagine è stato approvato un mandato, culminato oggi nella perquisizione della sua abitazione di Washington.",
@@ -8763,7 +10696,16 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z202da0d0": "Il governo andorrano ha assegnato a Chalair il concorso per i voli legati all'aeroporto, escludendo l'offerta di Andorra Connected. La decisione ha sollevato discussioni, e il ministro Forné è intervenuto pubblicamente per spiegare i criteri che hanno portato alla scelta.",
   "zd5bef3c5": "Il Manchester United ha cominciato la stagione di Premier League con il peggior rendimento in quarant'anni. Nel fine settimana ha pareggiato contro il Tottenham, partita in cui Kobbie Mainoo e Luke Shaw hanno subito colpi che li hanno esclusi dalla trasferta in Spagna.",
   "zd0197089": "Come ogni anno all'inizio di ottobre, l'Assemblea Nobel del Karolinska Institutet e l'Accademia reale svedese delle scienze hanno annunciato a Stoccolma i vincitori dei tre premi scientifici: medicina, fisica e chimica. I premiati di quest'anno spaziano dallo studio del cosmo attraverso il ghiaccio, al controllo dei neuroni con la luce, fino alle molecole speculari. La cerimonia di consegna si terrà il 10 dicembre, anniversario della morte di Alfred Nobel.",
-  "za07d561e": "Marvel e Lucasfilm, entrambe di proprietà della Walt Disney Company, hanno annunciato un crossover a fumetti che farà incontrare per la prima volta gli eroi Marvel e i personaggi di Star Wars. Il progetto, intitolato Hope Assembles, è stato presentato in occasione del New York Comic Con di ottobre, dove LEGO ha lanciato anche una sfida creativa per i fan. La copertina di Alex Ross è il primo assaggio dell'opera, attesa nel 2027."
+  "za07d561e": "Marvel e Lucasfilm, entrambe di proprietà della Walt Disney Company, hanno annunciato un crossover a fumetti che farà incontrare per la prima volta gli eroi Marvel e i personaggi di Star Wars. Il progetto, intitolato Hope Assembles, è stato presentato in occasione del New York Comic Con di ottobre, dove LEGO ha lanciato anche una sfida creativa per i fan. La copertina di Alex Ross è il primo assaggio dell'opera, attesa nel 2027.",
+  "ze70cc308": "Nelle scorse settimane le reti energetiche ucraine sono state bersaglio costante di bombardamenti aerei, mentre sul piano diplomatico si sono intensificate le dichiarazioni internazionali per tentare di congelare gli attacchi a infrastrutture vitali per la popolazione civile.",
+  "z3ec30fe8": "Nei giorni scorsi le ostilità tra le forze yemenite Houthi e la coalizione a guida saudita si sono riaccese con lanci di ordigni contro scali aerei e infrastrutture strategiche saudite.",
+  "zc21b3df5": "La dirigenza del cricket inglese lavorava da mesi alla ristrutturazione delle guide tecniche e alla revisione dei contratti federali per pianificare i prossimi tornei internazionali.",
+  "za9329ae2": "Nelle settimane precedenti la pausa internazionale, la formazione bergamasca aveva incassato tre sconfitte consecutive, tra cui lo stop contro la Juventus, che avevano rallentato il cammino in classifica.",
+  "z9174faf4": "Nei mesi recenti le istituzioni europee hanno avviato le trattative sul futuro bilancio pluriennale, confrontandosi su rigore contabile, fondi di coesione e nuove priorità strategiche.",
+  "z1b41367a": "Nelle scorse settimane il governo francese ha cercato contromisure contro il rincaro dei carburanti, decidendo di mettere in vendita circa dieci milioni di barili di scorte di riserva per allentare la pressione economica sui consumatori.",
+  "z568fb773": "Negli ultimi mesi le infrastrutture energetiche e di stoccaggio del carburante in territorio russo sono state ripetutamente prese di mira da incursioni aeree e attacchi con velivoli senza pilota, volti a indebolire le linee di approvvigionamento logistico e a ridurre le entrate commerciali derivanti dall'export petrolifero.",
+  "z38161fae": "Negli ultimi mesi il sistema delle ispezioni scolastiche britanniche è finito al centro di aspre polemiche sindacali a causa della pressione psicologica esercitata sul personale docente e dirigenziale, spingendo le rappresentanze di categoria a chiedere una revisione radicale dei criteri di valutazione.",
+  "z32f03350": "Robert Francis Prevost, statunitense, è stato eletto papa l'8 maggio 2025 nel conclave seguito alla morte di Francesco, il 21 aprile, scegliendo il nome di Leone XIV. Da allora ha guidato la Chiesa con un'agenda fitta di udienze, celebrazioni e incontri. Ora, secondo Sky News, ha sospeso tutti gli impegni pubblici fino al 20 ottobre in vista di un intervento programmato per rimuovere una piccola neoformazione polmonare."
  },
  "cronologie": {
   "zc3de7c78": [
@@ -9619,6 +11561,104 @@ window.EDIZIONI["2026-10-12-sera"] = {
     "2027",
     "Uscita prevista del fumetto"
    ]
+  ],
+  "ze70cc308": [
+   [
+    "Nelle scorse settimane",
+    "Ripetuti raid russi colpiscono le reti energetiche in Ucraina."
+   ],
+   [
+    "Nelle scorse ore",
+    "Trump dichiara di aver raggiunto un'intesa per un cessate il fuoco energetico."
+   ]
+  ],
+  "z3ec30fe8": [
+   [
+    "Fine settimana",
+    "Attacchi aerei e missilistici colpiscono scali aeroportuali in Arabia Saudita."
+   ],
+   [
+    "Nelle ultime ore",
+    "Le difese saudite intercettano nuovi droni e Teheran propone una mediazione."
+   ]
+  ],
+  "zc21b3df5": [
+   [
+    "Nelle scorse settimane",
+    "Definizione degli assetti tecnici separati per le diverse specialità di cricket."
+   ],
+   [
+    "Nelle scorse ore",
+    "Annuncio ufficiale dell'estensione a trentanove contratti centrali."
+   ]
+  ],
+  "za9329ae2": [
+   [
+    "Prima della sosta",
+    "L'Atalanta subisce tre sconfitte di fila in campionato."
+   ],
+   [
+    "Nelle scorse ore",
+    "La squadra di Bergamo batte 3-1 il Venezia nel match di Serie A."
+   ]
+  ],
+  "z9174faf4": [
+   [
+    "Nelle scorse settimane",
+    "Presentazione della bozza irlandese per il bilancio europeo settennale."
+   ],
+   [
+    "Nelle ultime ore",
+    "Commissione, Parlamento e Stati membri bocciano diversi punti del piano."
+   ]
+  ],
+  "z1b41367a": [
+   [
+    "28 ottobre",
+    "Avvio della vendita di dieci milioni di barili di scorte di riserva di gasolio."
+   ],
+   [
+    "Fine ottobre",
+    "Incontro a Matignon tra il governo francese e i distributori di carburante."
+   ]
+  ],
+  "z568fb773": [
+   [
+    "Nei giorni scorsi",
+    "Attacco con droni ucraini contro l'impianto petrolifero nella regione di Rostov"
+   ],
+   [
+    "Giorno 3",
+    "L'incendio continua a bruciare senza sosta all'interno del terminal di esportazione"
+   ]
+  ],
+  "z38161fae": [
+   [
+    "Nelle scorse settimane",
+    "Crescono le denunce dei sindacati sull'impatto delle ispezioni sul benessere dei docenti"
+   ],
+   [
+    "Nelle ultime ore",
+    "I presidi dichiarano la sfiducia in Ofsted e minacciano votazioni per lo sciopero"
+   ]
+  ],
+  "z32f03350": [
+   [
+    "21 aprile 2025",
+    "Muore papa Francesco"
+   ],
+   [
+    "8 maggio 2025",
+    "Il conclave elegge Robert Francis Prevost, che sceglie il nome di Leone XIV"
+   ],
+   [
+    "18 maggio 2025",
+    "Messa di inizio pontificato in piazza San Pietro"
+   ],
+   [
+    "Ottobre 2026",
+    "Annullati gli impegni pubblici fino al 20 ottobre per un intervento ai polmoni"
+   ]
   ]
  },
  "luoghi": {
@@ -9964,13 +12004,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z9d86a998": {
    "n": "Santa Maria",
    "p": [],
-   "pt": []
-  },
-  "z78321859": {
-   "n": "Islamabad",
-   "p": [
-    "Pakistan"
-   ],
    "pt": []
   },
   "zab2e9662": {
@@ -11512,6 +13545,536 @@ window.EDIZIONI["2026-10-12-sera"] = {
     "Spain"
    ],
    "pt": []
+  },
+  "ze70cc308": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z8ca74221": {
+   "n": "Stratosfera",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z70905767": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zd3806377": {
+   "n": "Tawila",
+   "p": [
+    "Sudan"
+   ],
+   "pt": []
+  },
+  "z3ec30fe8": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z564c543e": {
+   "n": "Atmosfera terrestre",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z85002871": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf100ac78": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z84c1cd1a": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "zc21b3df5": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z903f14a6": {
+   "n": "Berkeley",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z32f03350": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "zaa61e2a6": {
+   "n": "Dover",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6981184e": {
+   "n": "Nova Lima",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zbd4f5a36": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zad8e6706": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z276578a4": {
+   "n": "San Francisco",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za9329ae2": {
+   "n": "Bergamo",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9174faf4": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zdaf95b03": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4229cdc6": {
+   "n": "Lasa",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf8ce7868": {
+   "n": "Jena",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z98918c48": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8d35ec23": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z1b41367a": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z0f15a2e0": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zaf146197": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z88abbfa9": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "za17f6267": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z89539192": {
+   "n": "Levuka",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "zdd09aefc": {
+   "n": "Toyota",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z5ad7e2cb": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9f537df5": {
+   "n": "Las Vegas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z42e87dbe": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbdde8ae5": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zdf39bd53": {
+   "n": "Vallelunga",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z568fb773": {
+   "n": "Rostov",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z38161fae": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6d2e83c9": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z01efa39e": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za01eb254": {
+   "n": "Durango",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9af22a2b": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z9fb3ae59": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z219d2ef4": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfd16cd8d": {
+   "n": "Torino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z09855cc3": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7d4c3dec": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zeb1209e3": {
+   "n": "Milwaukee",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z03a0c496": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4d823dff": {
+   "n": "Sabach Sanjal",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "z71817b6e": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z8f646829": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7d0f73b6": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z3d17bb3d": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9bda7771": {
+   "n": "Canada",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z5546d3b1": {
+   "n": "Birmingham",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z57229165": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z45a416bf": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zab710f3c": {
+   "n": "Gambia",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "z082e0add": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z52aa987a": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z22964df2": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zeac6c16a": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf7bc296b": {
+   "n": "Colombia",
+   "p": [
+    "Colombia"
+   ],
+   "pt": []
+  },
+  "ze5928309": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z6a2ad1e4": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z07b7319a": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc6d12538": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zbe7c5fab": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z92f6bc61": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z98f9cc4f": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z7d6d1b5c": {
+   "n": "Sicilia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z21e379ae": {
+   "n": "Spazio",
+   "p": [],
+   "pt": []
+  },
+  "z754aa750": {
+   "n": "Luna",
+   "p": [],
+   "pt": []
+  },
+  "z40bc12bf": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z3b0cb7b7": {
+   "n": "Amazzonia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z725c334c": {
+   "n": "Boston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z97cf972b": {
+   "n": "Lago d'Iseo",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -11565,7 +14128,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z06ac7e56": 1,
   "ze8ef75f3": 1,
   "z9d86a998": 1,
-  "z78321859": 1,
   "zab2e9662": 1,
   "z035b32e1": 1,
   "ze0a3c470": 1,
@@ -11793,7 +14355,85 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z38ce9b24": 1,
   "zcc581933": 1,
   "z16a76451": 1,
-  "zd5bef3c5": 1
+  "zd5bef3c5": 1,
+  "ze70cc308": 2,
+  "z8ca74221": 1,
+  "z70905767": 1,
+  "zd3806377": 1,
+  "z3ec30fe8": 2,
+  "z564c543e": 1,
+  "z85002871": 1,
+  "zf100ac78": 1,
+  "z84c1cd1a": 1,
+  "zc21b3df5": 1,
+  "z903f14a6": 1,
+  "z32f03350": 2,
+  "zaa61e2a6": 1,
+  "z6981184e": 1,
+  "zbd4f5a36": 1,
+  "zad8e6706": 1,
+  "z276578a4": 1,
+  "za9329ae2": 1,
+  "z9174faf4": 1,
+  "zdaf95b03": 1,
+  "z4229cdc6": 1,
+  "zf8ce7868": 1,
+  "z98918c48": 1,
+  "z8d35ec23": 1,
+  "z1b41367a": 2,
+  "z0f15a2e0": 1,
+  "zaf146197": 1,
+  "z88abbfa9": 1,
+  "za17f6267": 1,
+  "z89539192": 1,
+  "zdd09aefc": 1,
+  "z5ad7e2cb": 1,
+  "z9f537df5": 1,
+  "z42e87dbe": 1,
+  "zbdde8ae5": 1,
+  "zdf39bd53": 1,
+  "z568fb773": 2,
+  "z38161fae": 2,
+  "z6d2e83c9": 1,
+  "z01efa39e": 1,
+  "za01eb254": 1,
+  "z9af22a2b": 1,
+  "z9fb3ae59": 1,
+  "z219d2ef4": 1,
+  "zfd16cd8d": 1,
+  "z09855cc3": 1,
+  "z7d4c3dec": 1,
+  "zeb1209e3": 1,
+  "z03a0c496": 1,
+  "z4d823dff": 1,
+  "z71817b6e": 1,
+  "z8f646829": 1,
+  "z7d0f73b6": 1,
+  "z3d17bb3d": 1,
+  "z9bda7771": 1,
+  "z5546d3b1": 1,
+  "z57229165": 1,
+  "z45a416bf": 1,
+  "zab710f3c": 1,
+  "z082e0add": 1,
+  "z52aa987a": 1,
+  "z22964df2": 1,
+  "zeac6c16a": 1,
+  "zf7bc296b": 1,
+  "ze5928309": 1,
+  "z6a2ad1e4": 1,
+  "z07b7319a": 1,
+  "zc6d12538": 1,
+  "zbe7c5fab": 1,
+  "z92f6bc61": 1,
+  "z98f9cc4f": 1,
+  "z7d6d1b5c": 1,
+  "z21e379ae": 1,
+  "z754aa750": 1,
+  "z40bc12bf": 1,
+  "z3b0cb7b7": 1,
+  "z725c334c": 1,
+  "z97cf972b": 1
  },
  "video": {},
  "pillole": []
