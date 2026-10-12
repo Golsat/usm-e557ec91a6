@@ -730,16 +730,15 @@ section.sec.t-meteo,nav.sections a.t-meteo{--t:#5aa7d8}
 .t-ingegneria h3{font-variant:small-caps;letter-spacing:.02em}
 section.sec.t-tech,nav.sections a.t-tech{--t:#2a9db5}
 section.sec.t-ambiente,nav.sections a.t-ambiente{--t:#6aa84f}
-section.sec.t-salute,nav.sections a.t-salute{--t:#3aa59e}
+section.sec.t-salute,nav.sections a.t-salute,section.sec.t-medicina,nav.sections a.t-medicina{--t:#3aa59e}
 section.sec.t-spazio,nav.sections a.t-spazio{--t:#5b6bd6}
-section.sec.t-medicina,nav.sections a.t-medicina{--t:#d0506a}
 section.sec.t-viaggi,nav.sections a.t-viaggi{--t:#c4572e}
 section.sec.t-manga,nav.sections a.t-manga{--t:#d63fa1}
 .t-viaggi .card{border-radius:4px 18px 4px 18px;border-top:3px dashed var(--t)}
 .t-manga .card{border-radius:6px;border:2px solid var(--t);box-shadow:3px 3px 0 color-mix(in srgb,var(--t) 55%,transparent)}
 .t-manga h3{font-weight:800}
 .t-spazio .card{border-radius:14px;border-top-width:2px;background-image:radial-gradient(circle at 12% 20%,color-mix(in srgb,var(--t) 22%,transparent) 0 1px,transparent 1.5px),radial-gradient(circle at 70% 60%,color-mix(in srgb,var(--t) 18%,transparent) 0 1px,transparent 1.5px);background-size:46px 46px,61px 61px}
-.t-medicina .card{border-radius:6px 16px 6px 16px;border-left:5px solid var(--t)}
+.t-salute .card,.t-medicina .card{border-radius:6px 16px 6px 16px;border-left:5px solid var(--t)}
 section.sec.t-cultura,nav.sections a.t-cultura{--t:#a86bb0}
 section.sec.t-sport,nav.sections a.t-sport{--t:#e0564b}
 /* titoli di sezione: sfondo nel colore del tema, testo sempre scuro */
@@ -869,8 +868,7 @@ const SEZIONI = [
   {id:"tech", nome:"Tecnologia e Scienza"},
   {id:"spazio", nome:"Astronomia e spazio"},
   {id:"ambiente", nome:"Ambiente e natura"},
-  {id:"salute", nome:"Salute"},
-  {id:"medicina", nome:"Medicina e ricerca"},
+  {id:"salute", nome:"Salute e ricerca"},
   {id:"cultura", nome:"Cultura"},
   {id:"viaggi", nome:"Viaggi e turismo"},
   {id:"manga", nome:"Manga e anime"},
@@ -1875,7 +1873,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261011-2252";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261012-2311";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2090,7 +2088,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261011-2252";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261012-2311";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
