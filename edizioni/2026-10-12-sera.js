@@ -3,6 +3,1192 @@ window.EDIZIONI["2026-10-12-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zc3de7c78",
+   "sez": "prima",
+   "titolo": "Agenti federali perquisiscono l'abitazione della deputata Ilhan Omar",
+   "orig": "Immigration agents search Congresswoman Ilhan Omar's home",
+   "lead": "Gli agenti federali statunitensi hanno eseguito una perquisizione nell'abitazione di Washington della deputata democratica Ilhan Omar. Secondo quanto riferito da funzionari del Dipartimento di Giustizia, l'operazione fa parte di un'indagine federale in corso, per la quale è stato regolarmente approvato un mandato. La parlamentare, nota per le sue decise posizioni critiche contro Donald Trump, ha replicato denunciando l'azione come un chiaro tentativo di colpire gli avversari politici e ha dichiarato pubblicamente che non si lascerà mettere a tacere dalle autorità.",
+   "more": [
+    "Ilhan Omar è una politica statunitense appartenente all'ala progressista del Partito Democratico. Eletta alla Camera dei Rappresentanti per lo stato del Minnesota, è stata tra le prime donne musulmane a entrare nel Congresso degli Stati Uniti, distinguendosi negli anni per le sue frequenti prese di posizione in contrasto con le politiche dell'amministrazione conservatrice."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cvp8glg97393o",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-ilhan-omar/a-79643360",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/12/news/stati_uniti_raid_polizia_perquisizione_casa_deputata_democratica_ilhan_omar-425643154/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z948d3df9",
+   "sez": "mondo",
+   "titolo": "Attacco informatico ai frigoriferi dei supermercati francesi",
+   "orig": "Fridges in French supermarkets hit by cyber attack",
+   "lead": "Centinaia di supermercati in Francia sono stati colpiti durante la notte da un attacco informatico senza precedenti che ha preso di mira i sistemi di refrigerazione. L'intrusione ha manomesso gli impianti di catene come Intermarché e Coopérative U, portando in molti casi la temperatura fino a cinquanta gradi e causando incendi locali. L'episodio ha provocato lo scongelamento e il deterioramento di ingenti quantitativi di cibo fresco e surgelato per un danno stimato in milioni di euro, sollevando timori che la manomissione possa estendersi anche ad aziende nei Paesi Bassi.",
+   "more": [
+    "I sistemi di refrigerazione della grande distribuzione dipendono da software industriali connessi alla rete per regolare automaticamente le temperature e garantire la catena del freddo. Una compromissione remota di tali apparati può provocare il blocco simultaneo di centinaia di punti vendita e rendere inutilizzabili intere scorte alimentari."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5443df1b",
+   "sez": "mondo",
+   "titolo": "La Nato si dice pronta a combattere mentre Kiev denuncia violazioni della tregua",
+   "orig": "La Nato avverte: 'Se attaccati, combatteremo'. E Mosca gela la tregua",
+   "lead": "Il comando militare della Nato in Europa ha avvertito che l'Alleanza Atlantica è pronta a combattere anche immediatamente in caso di attacco contro i propri membri. L'avvertimento giunge in un momento di forte tensione diplomatica, segnato dal congelamento del cessate il fuoco energetico annunciato in precedenza da Donald Trump e dalla cancellazione della visita degli inviati statunitensi a Mosca. Da parte sua, Kiev accusa le forze russe di aver già colpito sei impianti energetici, minacciando reazioni se gli accordi di tregua non verranno rispettati.",
+   "more": [
+    "La Nato è un'alleanza difensiva intergovernativa fondata sul principio di sicurezza collettiva, secondo cui un'aggressione a uno Stato membro equivale a un attacco contro tutti i firmatari. Le tensioni lungo i confini orientali dell'Europa hanno intensificato lo stato di allerta delle forze congiunte del comando alleato."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/12/il-comandante-della-nato-non-vogliamo-la-guerra-ma-se-attaccati-combatteremo_7364761a-cbe5-4b07-9fbe-ea591f6dfa39.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/nato-se-attaccati-pronti-a-combattere-0622c7d7-db14-48e1-8c52-5b397970856d.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/kiev-mosca-rispetti-tregua-o-reagiremo-43c794c2-f050-4e51-ac15-f0e8c330812f.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z55865d50",
+   "sez": "mondo",
+   "titolo": "Migliaia di manifestanti marciano verso la Corte Suprema indiana",
+   "orig": "Thousands march to Indian Supreme Court to demand election chief resign",
+   "lead": "Migliaia di sostenitori dei partiti di opposizione hanno sfilato in corteo verso la Corte Suprema a Nuova Delhi per chiedere le dimissioni del responsabile della commissione elettorale. La mobilitazione fa seguito a un fine settimana di forti tensioni nella capitale, culminato con il fermo di migliaia di manifestanti da parte delle forze dell'ordine. Gli oppositori contestano la revisione delle liste elettorali, dalle quali sono stati cancellati oltre centotrenta milioni di nominativi, accusando le autorità di aver attuato modifiche mirate a favorire la formazione politica del primo ministro Narendra Modi.",
+   "more": [
+    "La commissione elettorale indiana è l'organo indipendente incaricato di gestire le consultazioni democratiche e di aggiornare i registri degli aventi diritto al voto nel Paese più popoloso del mondo. Le liste elettorali sono determinanti per garantire la trasparenza e l'accesso effettivo alle urne per tutti i cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2cbe3bbd",
+   "sez": "italia",
+   "titolo": "Estratto vivo lo speleologo bloccato in una grotta in Sardegna",
+   "orig": "Estratto vivo lo speleologo bloccato nella grotta in Sardegna",
+   "lead": "Si sono concluse con successo le complesse operazioni di salvataggio dello speleologo Luca Olmetto, rimasto intrappolato a circa dieci metri di profondità all'interno di una grotta in Sardegna. Le squadre dei soccorritori hanno lavorato senza sosta per oltre ventisette ore per liberare i passaggi ostruiti e rimuovere la frana di detriti che impediva all'uomo di risalire in superficie. L'escursionista è stato infine estratto sano e salvo, ponendo termine a un intervento particolarmente delicato coordinato dal personale specializzato.",
+   "more": [
+    "Il soccorso speleologico interviene per il recupero di persone infortunate o bloccate in cavità naturali e ipogei. Queste operazioni richiedono manovre complesse di disostruzione, comunicazioni dedicate e personale altamente addestrato a operare in spazi ristretti e privi di luce naturale."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/raggiunto-dai-soccorritori-speleologo-intrappolato-in-grotta-in-sardegna-_988b1426-26b0-444c-8a90-394563d38022.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/sardegna-speleologo-bloccato-in-grotta-f7c46040-e8d8-4583-9330-8040f0632f4d.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1371a1a2",
+   "sez": "mondo",
+   "titolo": "I possibili effetti della proposta di tregua energetica in Ucraina",
+   "orig": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+   "lead": "Un approfondimento da Kiev fa il punto sulle implicazioni pratiche che la tregua energetica proposta da Donald Trump potrebbe avere per la popolazione ucraina. Il Paese si trova infatti ad affrontare un altro rigido inverno segnato da frequenti e prolungate interruzioni della fornitura elettrica a causa dei danneggiamenti alle infrastrutture. L'analisi esamina le conseguenze delle dichiarazioni internazionali sulla sicurezza delle reti civili mentre i cittadini temono nuovi disservizi quotidiani. Lo riferisce BBC News.",
+   "more": [
+    "La rete elettrica ucraina è composta da centrali di generazione e infrastrutture di distribuzione ad alta tensione. Durante i mesi invernali, la stabilità dell'approvvigionamento è indispensabile non solo per l'illuminazione ma anche per alimentare il riscaldamento domestico e i sistemi idrici urbani."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcdcf117a",
+   "sez": "mondo",
+   "titolo": "Nuove proteste a Nuova Delhi contro la revisione delle liste elettorali",
+   "orig": "India’s voter list changes sparks fresh protests",
+   "lead": "Una controversa modifica dei registri dei votanti ha innescato nuove e accese manifestazioni di piazza nella capitale indiana, Nuova Delhi. I cortei e i raduni di protesta contestano la revisione delle liste elettorali approvata dalle autorità centrali, ritenuta arbitraria dalle forze politiche scese in strada per manifestare il proprio dissenso. La revisione ha riacceso la tensione politica nella metropoli, dove i manifestanti chiedono garanzie democratiche e il ripristino della correttezza delle procedure elettorali. Lo riferisce Al Jazeera.",
+   "more": [
+    "Le liste elettorali contengono i registri anagrafici dei cittadini aventi diritto di voto. La loro compilazione e verifica periodica è fondamentale per garantire la trasparenza e la legittimità democratica delle elezioni nazionali e regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests",
+     "angolo": "",
+     "atlas": "Qatar"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbdcc920d",
+   "sez": "prima",
+   "titolo": "Starlink in India e i fondi milionari di Musk per il Congresso Usa",
+   "orig": "Why Elon Musk is taking on India's richest man over Starlink",
+   "lead": "Mentre si trova impegnato in una disputa commerciale in India con il magnate Mukesh Ambani per sbloccare i servizi internet via satellite di Starlink, ancora fermi per questioni normative, Elon Musk è diventato il principale donatore noto nelle elezioni di metà mandato negli Stati Uniti. Il miliardario ha destinato oltre duecentosettantacinque milioni di dollari a sostegno dei candidati del Partito Repubblicano per aiutarli a preservare il controllo del Congresso. Al contempo, il fondatore di SpaceX e Tesla è al centro di polemiche per un documentario a lui dedicato.",
+   "more": [
+    "Starlink è una costellazione di satelliti in orbita bassa gestita da SpaceX che fornisce connettività a banda larga a livello globale. L'ingresso nei mercati esteri richiede autorizzazioni regolatorie governative e l'assegnazione di spettri radio, scontrandosi spesso con i gruppi di telecomunicazioni nazionali preesistenti."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/starlink-india-launch-why-elon-musk-is-still-waiting/a-79643043",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/us-politics/article-elon-musk-donor-midterm-elections-republicans/",
+     "angolo": "",
+     "atlas": "Canada"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/united-states-canada/article/3370645/elon-musk-becomes-biggest-known-donor-midterm-elections-bid-save-republicans?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    },
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5e075516",
+   "sez": "sport",
+   "titolo": "Alcaraz eliminato a Shanghai da Bergs, Zverev chiude l'anno al vertice",
+   "orig": "Bergs stuns Alcaraz in Shanghai as Zverev claims year’s top tennis ranking",
+   "lead": "Clamorosa sorpresa al torneo Masters 1000 di Shanghai, dove Carlos Alcaraz è stato eliminato al terzo turno dal belga Zizou Bergs con il punteggio di 7-5, 7-6. Il tennista spagnolo, reduce dal successo a Pechino ma apparso insofferente verso la velocità delle palline, non è riuscito a trovare continuità contro il rivale non testa di serie. La sconfitta dell'iberico garantisce matematicamente al tedesco Alexander Zverev la certezza di terminare la stagione in testa alla classifica mondiale dell'ATP come numero uno del ranking.",
+   "more": [
+    "I tornei Masters 1000 costituiscono la categoria più prestigiosa del circuito professionistico tennistico maschile dopo i quattro tornei del Grande Slam. I punti assegnati in questi eventi determinano la graduatoria mondiale dell'ATP, che a fine stagione premia il giocatore più continuo dell'anno."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/sport/tennis/2026/10/12/news/alcaraz_atp_shanghai_protesta_palline_cosa_e_successo-425642899/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610164348/estonian-tennis-player-elena-malogina-reaches-new-career-high-ranking",
+     "angolo": "",
+     "atlas": "Estonia"
+    },
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/tennis/article/3370638/alexander-zverev-ends-year-no-1-ranking-after-carlos-alcaraz-loss-shanghai-masters?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/tennis/alcaraz_eliminato_shanghai_ranking_atp_zverev_sinner-9820059.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/sports/alcaraz-exits-shanghai-masters-in-straight-sets-loss/",
+     "angolo": "",
+     "atlas": "Iraq"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z81574165",
+   "sez": "mondo",
+   "titolo": "Polonia: arrestati in Germania due sospetti per il rogo alla stazione Starlink",
+   "orig": "Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month",
+   "lead": "Due cittadini turchi sono stati arrestati in Germania su richiesta delle autorità polacche nell'ambito delle indagini sull'incendio che il mese scorso ha danneggiato una stazione Starlink in Polonia. Il primo ministro polacco Donald Tusk ha definito l'attacco un vero e proprio atto di guerra ibrida, indicando che i servizi segreti russi potrebbero essere i mandanti dell'operazione di sabotaggio. L'infrastruttura colpita riveste particolare importanza strategica in quanto garantisce connettività e comunicazioni via internet anche alle forze armate ucraine.",
+   "more": [
+    "La guerra ibrida combina azioni clandestine, attacchi cibernetici e sabotaggi mirati contro infrastrutture critiche per destabilizzare un avversario senza ricorrere a un aperto conflitto convenzionale. Le stazioni di telecomunicazione satellitare rappresentano nodi essenziali per la trasmissione sicura dei dati."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/poland-reports-arrests-of-2-turkish-citizens-in-germany-in-connection-with-starlink-station-fire-last-month/a-79646138",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/polen-brand-an-starlink-station-mit-moeglichem-russlandbezug-festnahmen-in-deutschland-a-61db71c8-8426-4aa9-8ca0-4b2f2e7a9e36#ref=rss",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tusk-gibt-nach-brand-an-starlink-anlage-festnahmen-in-deutschland-bekannt-faz-110683325.html",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3444884/",
+     "angolo": "",
+     "atlas": "Austria"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/poland-says-two-turkish-nationals-detained-in-germany-over-starlink-station-fire",
+     "angolo": "",
+     "atlas": "Singapore"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0773d204",
+   "sez": "economia",
+   "titolo": "Mosca esulta sull'intesa per il diesel mentre Zelensky frena sulla tregua",
+   "orig": "Kremlin relishes in U.S.-Russia diesel deal and Trump's criticism of Zelenskyy",
+   "lead": "Il Cremlino accoglie con favore l'accordo tra Stati Uniti e Russia relativo alle esportazioni di gasolio e le critiche rivolte da Donald Trump a Volodymyr Zelensky. Sebbene i volumi del combustibile siano contenuti e non alterino sensibilmente i mercati globali, gli introiti contribuiranno a rimpinguare le finanze belliche russe. Dal canto suo, il presidente ucraino ha frenato sulla tregua energetica proposta dagli americani, sottolineando che Kiev fermerà i raid sulle raffinerie nemiche soltanto se Mosca cesserà gli attacchi contro la rete elettrica ucraina.",
+   "more": [
+    "Il commercio di prodotti petroliferi raffinati come il diesel costituisce una fonte essenziale di liquidità per i Paesi esportatori. Le sanzioni e gli accordi su singole forniture energetiche influenzano le entrate statali e le dinamiche di approvvigionamento dei mercati internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/kremlin-relishes-in-u-s-russia-diesel-deal-and-trumps-criticism-of-zelenskyy",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/we-have-one-refinery-zelensky-says-energy-ceasefire-must-cover-power-grid-not-just-oil/",
+     "angolo": "",
+     "atlas": "Ukraine"
+    },
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/zelenskyy-doubtful-on-russian-acceptance-of-trumps-energy-ceasefire/4ZGBV7QZ6JEXHITAT5ULJTGKX4/",
+     "angolo": "",
+     "atlas": "New Zealand"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "za6aca81e",
+   "sez": "musica",
+   "titolo": "Remi Wolf annuncia il tour nordamericano per il 2027",
+   "orig": "Remi Wolf Announces 2027 North America Tour",
+   "lead": "La cantautrice Remi Wolf ha annunciato ufficialmente una serie di concerti in Nord America programmata per il 2027. La tournée toccherà diverse tra le principali città degli Stati Uniti e del Canada, comprese New York, Los Angeles, Chicago e Toronto. Nel panorama musicale d'oltreoceano si registra contemporaneamente la dura presa di posizione di Olivia Rodrigo, la quale ha intimato alla campagna di Donald Trump di non utilizzare i suoi brani per scopi propagandistici, mentre la band Wolf Alice ha visto Julia Cumming al basso nelle tappe statunitensi.",
+   "more": [
+    "I tour dal vivo costituiscono la principale attività promozionale ed economica per gli artisti dell'industria discografica contemporanea. Le grandi rassegne nelle arene e nei teatri nordamericani permettono ai cantanti pop e alternativi di consolidare il seguito di pubblico dopo le pubblicazioni in studio."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/remi-wolf-announces-north-america-tour/",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/olivia-rodrigo-23-anos-desafia-silencio-politico-hollywood-pronuncia-trump-usen-jamas-canciones-promover-propaganda-racista-odiosa_0_Xo3Hk28de7.html",
+     "angolo": "",
+     "atlas": "Argentina"
+    },
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/music/watch-sunflower-bean-julia-cumming-step-in-wolf-alice-olivia-rodrigo-tour-3972977?utm_source=rss&utm_medium=rss&utm_campaign=watch-sunflower-bean-julia-cumming-step-in-wolf-alice-olivia-rodrigo-tour",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdcdb1ea6",
+   "sez": "prima",
+   "titolo": "Lega, Salvini si dimette da segretario per ricandidarsi al congresso",
+   "orig": "Matteo Salvini si è dimesso da segretario della Lega, ma è un trucco",
+   "lead": "Matteo Salvini ha rassegnato le dimissioni da segretario federale della Lega in vista del congresso straordinario fissato a Milano per il 24 e 25 ottobre. Si tratta di un passaggio formale previsto dal regolamento interno per consentirgli di presentare nuovamente la propria candidatura e consolidare la leadership del partito. Nel corso dei lavori, Salvini ha anticipato l'intenzione di istituire una nuova segreteria politica, di azzerare i vice e di procedere a un aggiornamento del simbolo, mentre la gestione transitoria è stata affidata al reggente Giulio Di Rubba.",
+   "more": [
+    "La Lega è una delle forze politiche più longeve del Parlamento italiano. La figura del segretario federale ne definisce l'indirizzo strategico, mentre il congresso dei delegati rappresenta la massima assise deliberativa in cui vengono rinnovati gli statuti, gli emblemi ufficiali e le cariche di vertice."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/12/salvini-dimissioni-lega-trucco/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/10/12/la-lega-verso-il-congresso-salvini-ci-sara-una-segreteria-politica-e-aggiorneremo-il-simbolo_bdef9006-eaa9-4211-8fd7-635e42b1d1cb.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/12/news/salvini_dimissioni_segretario_lega_congresso-425643535/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/lega-salvini-si-dimette-segretario-passo-necessario-ricandidarsi-AJR1MvhB",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/lega-salvini-ci-sara-segreteria-politica-e-aggiorneremo-simbolo-AJKyihhB",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/politica/video/2026/10/12/salvini-congresso-lega-1131209",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "za07d561e",
+   "sez": "cultura",
+   "titolo": "Alex Ross disegna Spider-Man e Luke Skywalker per il crossover",
+   "orig": "Alex Ross ha disegnato Spider-Man e Luke Skywalker insieme per il crossover tra Marvel e Star Wars",
+   "lead": "Il celebre illustratore Alex Ross ha realizzato una copertina speciale che ritrae insieme Spider-Man e Luke Skywalker in vista dell'uscita del crossover a fumetti tra gli universi narrativi di Marvel e Star Wars, intitolato Hope Assembles e previsto per il 2027. L'incontro tra i due celebri franchise d'intrattenimento coinvolge anche il mondo delle costruzioni collezionabili, con LEGO che ha lanciato una sfida creativa nell'ambito di New York Comic Con invitando gli appassionati a ideare scenari congiunti tra i due mondi. Lo riferisce Fumettologica.",
+   "more": [
+    "Alex Ross è uno dei più apprezzati disegnatori di fumetti contemporanei, celebre per il suo stile pittorico fotorealistico che ha ridefinito l'immaginario dei supereroi. I progetti crossover uniscono personaggi appartenenti a saghe narrative distinte all'interno di un'unica trama condivisa per il pubblico di lettori e collezionisti."
+   ],
+   "fonti": [
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/10/alex-ross-spider-man-luke-skywalker-marvel-star-wars/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "The Laotian Times",
+     "p": "XX",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/11/the-lego-group-invites-fans-to-mash-up-star-wars-and-marvel-universes-for-the-first-time-ever-in-lego-ideas-challenge/",
+     "angolo": "",
+     "atlas": "Laos"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zedadd6a2",
+   "sez": "medicina",
+   "titolo": "La FDA approva il primo farmaco mirato contro la narcolessia",
+   "orig": "Why you've probably been thinking about narcolepsy all wrong",
+   "lead": "La Food and Drug Administration degli Stati Uniti ha approvato il primo farmaco progettato per intervenire direttamente sui meccanismi biologici della narcolessia anziché limitarsi al controllo dei sintomi. Questa innovazione terapeutica rappresenta una svolta scientifica per i pazienti affetti da questo grave disturbo del sonno, spesso sottovalutato o ridotto a stereotipo comico ma profondamente invalidante nella vita quotidiana. Le associazioni dei malati hanno accolto l'autorizzazione come un passaggio decisivo in grado di trasformare la gestione della patologia. Lo riferisce The Guardian.",
+   "more": [
+    "La narcolessia è una malattia neurologica cronica che altera i ritmi di sonno e veglia del cervello, provocando sonnolenza diurna incontrollabile e improvvisi cali del tono muscolare noti come cataplessia. I farmaci mirati puntano a correggere i deficit neurochimici alla base della disregolazione."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/lifestyle/fashion/you-re-probably-washing-your-pants-wrong-here-s-how-to-do-it-right-20261013-p5zqre.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1c863ae2",
+   "sez": "salute",
+   "titolo": "Kenya: scontro politico sulla gestione di un caso sospetto di Ebola",
+   "orig": "Muturi demands Ebola incident probe, calls on Duale to resign if he fails to account",
+   "lead": "In Kenya è scoppiata una forte polemica istituzionale in seguito a un episodio legato a un presunto caso importato di Ebola. Un esponente politico ha chiesto un'indagine formale e le dimissioni del ministro della Salute Aden Duale dopo la segnalazione secondo cui un viaggiatore proveniente dalla Repubblica Democratica del Congo sarebbe stato autorizzato a transitare in aeroporto a seguito di una telefonata prima del ricovero. Da parte sua, il ministro ha invitato a non diffondere allarmismi sulla vicenda per non compromettere il comparto turistico del Paese.",
+   "more": [
+    "Il virus Ebola causa febbri emorragiche gravi e ad altissima letalità nell'essere umano. Nei punti d'ingresso internazionali come gli aeroporti, i protocolli sanitari prevedono screening rigorosi e isolamento immediato dei passeggeri con sintomi provenienti da zone colpite da focolai attivi."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/muturi-demands-ebola-incident-probe-calls-on-duale-to-resign-if-he-fails-to-account-n391904",
+     "angolo": "",
+     "atlas": "Kenya"
+    },
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/news4/2026/Oct/206503/duale_warns_against_ebola_alarm_citing_risk_to_tourism.aspx",
+     "angolo": "",
+     "atlas": "Somalia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z30a69d45",
+   "sez": "ambiente",
+   "titolo": "Fumo da incendi nel Sudest asiatico: cancellati voli tra Singapore e Malesia",
+   "orig": "Firefly cancels Subang-Singapore flights until October 14 as haze persists",
+   "lead": "Il persistente inquinamento atmosferico provocato dai fumi e dalla caligine degli incendi boschivi ha costretto la compagnia aerea Firefly a prolungare fino al 14 ottobre la cancellazione dei voli tra lo scalo malese di Subang e Singapore. La densa coltre di fumo generata dai roghi agricoli e forestali nella regione continua a ridurre drasticamente la visibilità e a peggiorare la qualità dell'aria, causando pesanti ripercussioni sul traffico aereo anche in Indonesia, dove diversi collegamenti interni dall'aeroporto di Sentani hanno subito pesanti ritardi.",
+   "more": [
+    "Il fenomeno della caligine da fumo nel Sudest asiatico si ripete stagionalmente a causa della deforestazione e degli incendi appiccati per liberare terreni agricoli. Le polveri sottili trasportate dai venti possono estendersi per centinaia di chilometri, creando rischi respiratori e paralizzando i trasporti."
+   ],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/12/firefly-cancels-subang-singapore-flights-until-october-14-as-haze-persists/238867",
+     "angolo": "",
+     "atlas": "Malaysia"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/435157/haze-delays-flights-from-jayapura-to-papua-destinations",
+     "angolo": "",
+     "atlas": "Indonesia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z21d1aee2",
+   "sez": "organizzazioni",
+   "titolo": "Allargamento: l'Ue chiude tre capitoli negoziali con il Montenegro",
+   "orig": "Enlargement: EU and Montenegro close accession negotiations in the areas of economic and monetary policy, statistics, and social policy and employment",
+   "lead": "L'Unione Europea e il Montenegro hanno concluso in via provvisoria i negoziati di adesione relativi a tre specifici capitoli del percorso di allargamento comunitario. Le intese raggiunte a Bruxelles riguardano l'allineamento degli standard montenegrini nelle aree della politica economica e monetaria per il capitolo 17, delle statistiche per il capitolo 18, nonché delle politiche sociali e dell'occupazione per il capitolo 19, segnando un avanzamento formale nell'iter di integrazione del Paese balcanico nei quadri dell'Unione. Lo riferisce Consiglio dell'Unione europea.",
+   "more": [
+    "I negoziati per entrare nell'Unione Europea sono suddivisi in capitoli tematici che coprono l'intero corpus normativo comunitario. Ogni capitolo richiede riforme legislative e amministrative da parte dello Stato candidato e viene chiuso provvisoriamente quando le istituzioni europee ritengono soddisfatti i criteri prestabiliti."
+   ],
+   "fonti": [
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/enlargement-eu-and-montenegro-close-accession-negotiations-in-the-areas-of-economic-and-monetary-policy-statistics-and-social-policy-and-employment/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z75f295ee",
+   "sez": "spazio",
+   "titolo": "L'astronauta dell'Esa Sophie Adenot rientra dalla sua prima missione sulla Stazione Spaziale Internazionale",
+   "orig": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
+   "lead": "L'astronauta dell'Agenzia spaziale europea Sophie Adenot è rientrata in Europa, atterrando a Colonia, in Germania, al termine della sua missione denominata εpsilon sulla Stazione Spaziale Internazionale. Il rientro sulla Terra è avvenuto a bordo della capsula Crew-12 dopo una permanenza di 237 giorni, pari a quasi otto mesi di attività nello spazio orbitale. Per l'astronauta francese si è trattato della prima missione operativa a bordo dell'avamposto spaziale internazionale. Lo riferisce Agenzia spaziale europea (Esa).",
+   "more": [
+    "La Stazione Spaziale Internazionale è un laboratorio orbitale gestito congiuntamente da diverse agenzie governative, tra cui la Nasa e l'Esa. La struttura accoglie equipaggi internazionali impegnati in esperimenti scientifici in microgravità e nello sviluppo di tecnologie per l'esplorazione umana dello spazio."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia spaziale europea (Esa)",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8e9bc319",
+   "sez": "adolescenti",
+   "titolo": "Scuole pubbliche statunitensi: i dati sui diritti civili evidenziano disparità razziali",
+   "orig": "5 things civil rights data says about public schools",
+   "lead": "La raccolta federale dei dati sui diritti civili ha fornito per la prima volta dopo decenni un quadro dettagliato sul corpo docente negli Stati Uniti, evidenziando come le disparità razziali rimangano ancora marcate all'interno delle scuole pubbliche del Paese. L'indagine governativa illustra la composizione degli insegnanti e segnala la persistenza di profonde differenze che continuano a incidere sul sistema educativo nazionale e sull'esperienza quotidiana degli studenti americani. Lo riferisce NPR – Istruzione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR – Istruzione",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "zc89c1ee2",
+   "sez": "viaggi",
+   "titolo": "Un itinerario sui processi alle streghe svela la storia dimenticata del Connecticut",
+   "orig": "Connecticut's forgotten witch trial past",
+   "lead": "Uno speciale percorso turistico dedicato alla storia dei processi alle streghe è stato ideato per riportare alla luce le vicende più inquietanti e spesso trascurate del passato del Connecticut. L'iniziativa propone un tragitto guidato che attraversa i luoghi storici legati alle persecuzioni per stregoneria avvenute nello Stato americano, offrendo ai visitatori e agli appassionati di viaggi culturali la possibilità di scoprire un capitolo poco noto delle prime comunità coloniali della regione. Lo riferisce BBC Travel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC Travel",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.com/travel/article/20261008-connecticuts-forgotten-witch-trial-past",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z51b26709",
+   "sez": "salute",
+   "titolo": "Figi, presentati trentatré reclami contro medici e odontoiatri dal 2023",
+   "orig": "33 medical, dental complaints lodged since 2023",
+   "lead": "Il Segretariato medico e odontoiatrico delle Isole Figi ha registrato un totale di trentatré reclami avanzati da pazienti tra il 2023 e il settembre di quest'anno. L'organismo opera secondo rigorose procedure amministrative e di legge: una volta formalizzata la contestazione, la parte chiamata in causa dispone di quattordici giorni per presentare la propria memoria difensiva. Nel corso del 2023 erano state presentate quattro denunce formali, delle quali tre risultano tuttora in fase di gestione. Lo riferisce FBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/33-medical-dental-complaints-lodged-since-2023/",
+     "angolo": "",
+     "atlas": "Fiji"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z94159db0",
+   "sez": "salute",
+   "titolo": "La vendita dei dati sanitari tradisce la fiducia dei cittadini, avverte un esperto di intelligenza artificiale",
+   "orig": "Governments selling patient data are &#x201C;betraying&#x201D; their people, says AI expert",
+   "lead": "Qualsiasi governo che decida di vendere i dati clinici dei propri pazienti commette un tradimento della fiducia della collettività. Lo ha dichiarato Ricardo Baptista Leite, amministratore delegato dell'organizzazione non profit HealthAI, durante il suo intervento allo European Health Forum Gastein. Il medico portoghese-canadese ha invitato le autorità pubbliche a non acquistare né cedere archivi sanitari, mettendo in guardia dallo squilibrio di conoscenze e potere tra i vertici dell'industria tecnologica e la società civile, che potrebbe acuire le disuguaglianze nell'accesso alle cure. Lo riferisce The BMJ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101119.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z525b5a1f",
+   "sez": "mondo",
+   "titolo": "Il principe William presenta un kit per aiutare le comunità a fronteggiare le emergenze",
+   "orig": "Prince William launches kit to help communities prepare for emergencies",
+   "lead": "Il principe William ha promosso la diffusione di un kit pratico e gratuito ideato per aiutare le comunità locali a prepararsi ad affrontare situazioni di emergenza. La risorsa informativa fornisce indicazioni operative su come rafforzare la resilienza collettiva e gestire i momenti di crisi a livello territoriale, offrendo linee guida accessibili a cittadini e gruppi di volontari per organizzare interventi tempestivi e solidali in caso di difficoltà impreviste. Lo riferisce Positive News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Positive News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "good": true,
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc79ba1ba",
+   "sez": "ingegneria",
+   "titolo": "Completato in Australia il centro visitatori in terra battuta per i Twelve Apostles",
+   "orig": "Grimshaw completes rammed-earth visitor centre for Twelve Apostles in Australia",
+   "lead": "Lo studio di architettura Grimshaw e i paesaggisti di Aspect Studios hanno ultimato la costruzione di un centro visitatori di 3.300 metri quadrati presso i Twelve Apostles, celebre attrazione naturale situata nel parco nazionale di Port Campbell, nello stato australiano di Victoria. La struttura sorge sulla sommità dell'area panoramica ed è caratterizzata da pareti realizzate in terra battuta, una soluzione progettuale pensata per armonizzarsi visivamente con il paesaggio e accogliere i flussi turistici in arrivo sul litorale. Lo riferisce Dezeen.",
+   "more": [
+    "La terra battuta è una tecnica costruttiva che prevede la compressione di strati di terra, argilla e ghiaia all'interno di casseforme temporanee. Questo metodo consente di creare pareti solide dotate di elevata inerzia termica e di integrarsi armoniosamente nel contesto ambientale circostante."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/10/12/grimshaw-visitor-centre-twelve-apostles-australia/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcb6ca7f8",
+   "sez": "cucina",
+   "titolo": "Albert Adrià a Bologna: per la cucina creativa servono ingenti risorse economiche",
+   "orig": "“Ho aperto 12 ristoranti e ne ho chiusi 11”. Albert Adrià: “Per fare cucina creativa servono soldi, soldi e soldi”",
+   "lead": "Durante un intervento sul palco della manifestazione C'è +Gusto a Bologna, lo chef spagnolo Albert Adrià ha riflettuto apertamente sulla sostenibilità economica dell'alta gastronomia, ricordando di aver avviato dodici ristoranti e di averne chiusi undici nella sua carriera. Adrià ha sottolineato come la cucina creativa richieda costanti investimenti di denaro per poter sopravvivere. Le sue considerazioni si sono affiancate a quelle del collega Matias Perdomo su tematiche centrali del settore quali il caro affitti, i costi del personale e il futuro della ristorazione. Lo riferisce Gambero Rosso.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/attualita/albert-adria-cucina-creativa-costi-ristoranti/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8a005cd1",
+   "sez": "ambiente",
+   "titolo": "Cipro, ordinato l'abbattimento di altri duemila capi a causa dell'afta epizootica",
+   "orig": "Further 2,000 animals to be culled due to FMD",
+   "lead": "Altri duemila animali provenienti da diversi allevamenti saranno abbattuti a Cipro per contenere la diffusione dell'afta epizootica. Il provvedimento è stato annunciato dal direttore generale del ministero dell'Agricoltura e dello Sviluppo rurale Andreas Gregoriou, al termine di un vertice con gli allevatori colpiti e con il responsabile dei servizi veterinari Christodoulos Pipis. Durante l'incontro Gregoriou ha inoltre affrontato la questione dei pagamenti degli indennizzi ancora dovuti agli operatori del settore zootecnico. Lo riferisce Cyprus Mail.",
+   "more": [
+    "L'afta epizootica è una malattia virale altamente contagiosa che colpisce gli animali ungulati domestici e selvatici, in particolare bovini, suini, ovini e caprini. Per impedire il propagarsi dell'infezione nelle filiere agroalimentari, le autorità sanitarie dispongono frequentemente l'abbattimento controllato dei capi presenti nei focolai."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/12/another-2000-animals-to-be-culled-due-to-fmd",
+     "angolo": "",
+     "atlas": "Cyprus"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6cab86cb",
+   "sez": "economia",
+   "titolo": "La Banca Mondiale lancia l'allarme sull'indebitamento della Gabon Oil Company",
+   "orig": "GOC : des bénéfices, des impayés et une dette qui inquiète la Banque mondiale",
+   "lead": "Nella revisione delle finanze pubbliche del Gabon, la Banca Mondiale ha espresso forte preoccupazione per la crescente esposizione debitoria della Gabon Oil Company, la compagnia petrolifera statale. Sebbene la società abbia aumentato il controllo nazionale sulla produzione di greggio e registrato utili contabili, l'istituto finanziario sottolinea il peso dei gravosi impegni finanziari, dei ritardi nei pagamenti delle fatture e delle tensioni di liquidità che mettono sotto pressione la stabilità economica dell'azienda pubblica. Lo riferisce Gabonreview.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/goc-des-benefices-des-impayes-et-une-dette-qui-inquiete-la-banque-mondiale/",
+     "angolo": "",
+     "atlas": "Gabon"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/europe/cest-comme-jouer-a-la-loterie-a-la-frontiere-polono-ukrainienne-le-spectre-toujours-plus-menacant-des-drones-russes-20261012_HLNSNBFJKVAHPA7M2GYHFKQDSU/",
+     "angolo": "",
+     "atlas": "France"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/guinee-que-dit-le-rapport-de-la-banque-mondiale-sur-letat-reel-de-leconomie/",
+     "angolo": "",
+     "atlas": "Guinea"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/guinee-ce-que-compte-faire-le-gouvernement-apres-lalerte-de-la-banque-mondiale/",
+     "angolo": "",
+     "atlas": "Guinea"
+    },
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/recensement-plus-de-14-500-agents-attendent-toujours-leur-remuneration-la-banque-mondiale-appelle-a-accelerer-les-paiements/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    },
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/2695276405333660009/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcb0a977f",
+   "sez": "mondo",
+   "titolo": "Burundi, il partito Frodebu rinuncia alle presidenziali del 2027 per mancanza di garanzie",
+   "orig": "Présidentielle de 2027 : « Fautes de garanties démocratiques », pas de candidat du Frodebu",
+   "lead": "Il partito burundese Sahwanya-Frodebu ha annunciato la decisione di non presentare alcun candidato alle elezioni presidenziali in programma nel 2027. La scelta è stata assunta al termine della riunione del Consiglio direttivo nazionale a causa dell'assenza di adeguate garanzie democratiche per lo svolgimento della consultazione elettorale. La storica forza politica ha tuttavia rivolto un appello ai propri sostenitori e militanti affinché rimangano compatti e mobilitati in vista delle prossime scadenze politiche. Lo riferisce Iwacu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iwacu",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.iwacu-burundi.org/presidentielle-de-2027-fautes-de-garanties-democratiques-pas-de-candidat-du-frodebu/",
+     "angolo": "",
+     "atlas": "Burundi"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/budget-2027-retailleau-evoque-une-france-quasiment-en-faillite-et-griffe-philippe-et-attal-20261012_FFPR6VNG2FDTPCA3SGLTGHL5YA/",
+     "angolo": "",
+     "atlas": "France"
+    },
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/primaire-de-la-gauche-en-france-le-stagiaire-raphael-admis-segolene-recalee/",
+     "angolo": "",
+     "atlas": "Algeria"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/12/presidentielle-2027-en-france-raphael-glucksmann-designe-candidat-de-la-gauche-sociale-democrate/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4be8b441",
+   "sez": "sport",
+   "titolo": "Venduta per quattordici milioni di dollari la maglia di Michael Jordan delle finali Nba 1998",
+   "orig": "Michael Jordan Last Dance jersey bought for record $14m in private sale",
+   "lead": "Una maglia da gara indossata da Michael Jordan durante le finali Nba del 1998 è stata acquistata per quattordici milioni di dollari in una trattativa privata. L'acquirente è l'investitore immobiliare di Miami Ron Firman, come annunciato dalla casa d'aste Hunt Auctions, che ha definito la compravendita come la cifra più alta mai registrata per un cimelio sportivo della pallacanestro. Jordan aveva vestito la divisa rossa in gara due, match vinto dai Chicago Bulls contro gli Utah Jazz prima del trionfo finale per quattro a due.",
+   "more": [
+    "Le finali Nba del 1998 hanno rappresentato l'atto conclusivo dell'epoca dei Chicago Bulls guidati da Michael Jordan, culminato con la conquista del sesto titolo della franchigia. Quella celebre stagione sportiva è rimasta impressa nella cultura popolare mondiale anche grazie al successo di documentari retrospettivi."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/2026/oct/12/michael-jordan-last-dance-jersey-bought-for-record-14m-in-private-sale",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/lifestyle/lifestyle/{{slug}}-1.500707706-1.500707706",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zabe3e42f",
+   "sez": "mondo",
+   "titolo": "Sviluppato un orologio nucleare per supportare la ricerca sulla materia oscura",
+   "orig": "Scientists develop nuclear clock that could advance dark matter search",
+   "lead": "Un gruppo internazionale di ricercatori ha realizzato un orologio sperimentale funzionante che sfrutta la transizione energetica interna al nucleo atomico, superando il tradizionale meccanismo basato sugli elettroni in uso da decenni. Questa nuova generazione di strumenti ad altissima precisione permetterà di verificare con accuratezza inedita le leggi fondamentali della fisica e potrebbe rivelarsi determinante per supportare gli scienziati nella complessa caccia alla materia oscura che permea l'universo. Lo riferisce Daily News Egypt.",
+   "more": [
+    "La materia oscura costituisce la maggior parte della massa presente nell'universo, ma non emette né assorbe luce, risultando invisibile agli strumenti ottici convenzionali. La sua esistenza viene dedotta dagli effetti gravitazionali sulle galassie e richiede tecnologie di misura d'avanguardia per essere rilevata sperimentalmente."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/12/scientists-develop-nuclear-clock-that-could-advance-dark-matter-search/",
+     "angolo": "",
+     "atlas": "Egypt"
+    },
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/lz-find-glimpse-dark-matter",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1f826122",
+   "sez": "sport",
+   "titolo": "Serie A, la Roma pareggia zero a zero sul campo del Como dopo un tempo in dieci",
+   "orig": "Serie A, senza reti Como-Roma",
+   "lead": "La sfida di Serie A tra Como e Roma si è conclusa senza reti con il risultato finale di zero a zero. La formazione giallorossa ha disputato gran parte della seconda frazione di gioco con un uomo in meno a seguito di un'espulsione, riuscendo comunque a reggere la pressione offensiva dei padroni di casa e a conservare il pareggio fino al fischio finale. L'incontro ha portato così un punto a entrambe le squadre al termine di una gara molto combattuta. Lo riferisce Rai News.",
+   "more": [
+    "La Serie A è il massimo livello professionistico del campionato di calcio in Italia, in cui venti squadre si affrontano in un girone all'italiana con partite di andata e ritorno. Le gare mettono in palio punti decisivi per l'assegnazione dello scudetto, la qualificazione ai tornei europei e la permanenza nella categoria."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/serie-a-senza-reti-como-roma-190381a8-5832-4de4-8d5d-9529d2d8d3fc.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1e8a8ccf",
+   "sez": "musica",
+   "titolo": "La visione decadente e distopica del presente nel nuovo progetto dei Fontaines D.C.",
+   "orig": "Fontaines D.C.'s decadent, dystopian vision of our time",
+   "lead": "Il cantante Grian Chatten ha raccontato la visione decadente e distopica della società contemporanea che caratterizza il progetto Dopamine Chamber della band irlandese Fontaines D.C. Il musicista ha spiegato che l'obiettivo artistico del gruppo è quello di trasmettere al pubblico emozioni profonde riguardo al contesto in cui vive, definendo il lavoro musicale come un tentativo deliberato di mappare le tensioni e i disagi del nostro tempo attraverso melodie cupe e testi incisivi. Lo riferisce NPR – Musica.",
+   "more": [
+    "I Fontaines D.C. sono un gruppo rock irlandese affermatosi internazionalmente nel panorama post-punk contemporaneo. La loro produzione si contraddistingue per sonorità ruvide, ritmiche marcate e testi letterari incentrati su tematiche sociali, alienazione urbana e trasformazioni delle comunità moderne."
+   ],
+   "fonti": [
+    {
+     "n": "NPR – Musica",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/12/nx-s1-5936183/fontaines-dc-dopamine-chamber-interview",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf1393c14",
+   "sez": "cucina",
+   "titolo": "In Canada si serve il cocktail bizzarro con un alluce mummificato",
+   "orig": "Canada's bizarre mummified toe cocktail",
+   "lead": "In Canada continua a incuriosire viaggiatori e appassionati di tradizioni insolite il celebre cocktail servito con un vero alluce umano mummificato immerso nel bicchiere. La singolare bevanda, considerata tra le preparazioni alcoliche più stravaganti al mondo, attira da anni numerosi visitatori pronti a cimentarsi con questa consuetudine locale che prevede il contatto delle labbra con il reperto durante la degustazione per poter entrare a far parte di un esclusivo circolo di temerari. Lo riferisce BBC Travel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC Travel",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.com/travel/article/20261001-canadas-bizarre-mummified-toe-cocktail",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z36ffe465",
+   "sez": "salute",
+   "titolo": "Zanzibar, il ministro Mazrui richiama i vertici sanitari a una gestione professionale",
+   "orig": "Mazrui insists on professionalism in managing Zanzibar’s healthcare service",
+   "lead": "Il ministro della Salute di Zanzibar, Nassor Ahmed Mazrui, ha esortato i dirigenti e i funzionari del proprio dicastero a rafforzare la collaborazione reciproca e il senso di responsabilità nello svolgimento delle loro mansioni quotidiane. Durante una sessione di lavoro con i vertici sanitari, incentrata sullo stato di avanzamento dei programmi in corso, il ministro ha insistito sulla necessità di una gestione rigorosa e professionale per centrare gli obiettivi governativi di miglioramento dell'assistenza medica offerta ai cittadini sull'intero territorio. Lo riferisce Daily News (Tanzania).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/mazrui-insists-on-professionalism-in-managing-zanzibars-healthcare-service/",
+     "angolo": "",
+     "atlas": "Tanzania"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z09c984e3",
+   "sez": "cucina",
+   "titolo": "Il settore vinicolo brasiliano cresce ed entra nello scontro politico tra Lula e Bolsonaro",
+   "orig": "Il vino cresce in Brasile e irrompe anche nella sfida elettorale tra Lula e Bolsonaro",
+   "lead": "La produzione e il consumo di vino in Brasile registrano una crescita costante, finendo al centro del dibattito politico tra il presidente Luiz Inácio Lula da Silva e l'ex capo di Stato Jair Bolsonaro. Mentre per Lula la bevanda rappresenta una metafora dell'esperienza da tutelare e sostenere economicamente, per Bolsonaro viene indicata come un simbolo di privilegio elitario. Questo scontro di visioni, insieme alle trattative commerciali sull'accordo tra Unione Europea e Mercosur, influenzerà direttamente il futuro delle esportazioni di vino italiano nel Paese sudamericano. Lo riferisce Gambero Rosso.",
+   "more": [
+    "L'accordo commerciale tra l'Unione Europea e i Paesi del blocco Mercosur mira a ridurre i dazi doganali e ad agevolare lo scambio di beni industriali e agroalimentari. Tra i comparti più interessati dalle trattative figurano le produzioni vinicole europee, che puntano ad ampliare le quote di mercato in Sud America."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/vino-brasile-campagna-elettorale-lula-bolsonaro/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
    "id": "z084b2de9",
    "sez": "prima",
    "titolo": "Droni ucraini colpiscono tre centri dati di Yandex in Russia",
@@ -285,45 +1471,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://euronews.al/koreja-e-jugut-hap-bazen-e-pare-ushtarake-per-robotet-me-inteligjence-artificiale/",
      "angolo": "",
      "atlas": "Albania"
-    }
-   ],
-   "data": "12 ott",
-   "ora": "17:25",
-   "uscita": "17"
-  },
-  {
-   "id": "zc227b7ef",
-   "sez": "italia",
-   "titolo": "Speleologo intrappolato a Urzulei dopo una frana: proseguono i soccorsi in grotta",
-   "orig": "Sardegna, speleologo bloccato in grotta",
-   "lead": "Proseguono senza sosta le complesse operazioni per estrarre uno speleologo rimasto intrappolato a circa dieci metri di profondità nella grotta di Gorropeddu, nel territorio di Urzulei, in Ogliastra. L'incidente è stato causato da un improvviso cedimento che ha ostruito il passaggio sotterraneo, bloccando l'uomo tra i detriti. I tecnici specializzati del Corpo nazionale del Soccorso alpino e speleologico e i vigili del fuoco sono riusciti a scavare un varco nel cunicolo e a raggiungere l'infortunato, accertando che è vivo e cosciente, ma stanno ancora lavorando per liberarlo completamente e riportarlo all'esterno.",
-   "more": [
-    "La speleologia comporta l'esplorazione di cavità naturali sotterranee, ambienti che possono presentare pericoli legati a crolli improvvisi, passaggi angusti e condizioni climatiche difficili. Gli interventi di salvataggio in queste strutture geologiche richiedono squadre specializzate capaci di operare in spazi confinati, coordinando le manovre di scavo e la sicurezza medica del personale coinvolto."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/sardegna-speleologo-bloccato-in-grotta-f7c46040-e8d8-4583-9330-8040f0632f4d.html",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/cronaca/2026/10/12/frana-frotta-sardegna-speleologo-bloccato",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "Geopop",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.geopop.it/speleologo-bloccato-in-una-grotta-a-urzulei-in-sardegna-e-vivo-i-soccorsi-a-10m-di-profondita/",
-     "angolo": "",
-     "atlas": "Italy"
     }
    ],
    "data": "12 ott",
@@ -2035,7 +3182,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "zde4875a9": "La stampa specializzata del settore edile si sofferma sui limiti costituzionali posti all'azione delle forze dell'ordine nei luoghi di lavoro.",
   "z744e974d": "Le dichiarazioni istituzionali in Malawi si collegano agli allarmi diffusi in altri paesi africani sulla carenza strutturale di centri di screening nelle campagne.",
   "z12054171": "La corrispondenza da Liangzhu sottolinea il fermento imprenditoriale giovanile inquadrandolo nel saldo controllo politico esercitato dal partito di governo.",
-  "zc227b7ef": "Le testate nazionali concordano nell'evidenziare la delicatezza delle manovre di scavo per liberare l'uomo, rimasto sempre vigile e cosciente a dieci metri di profondità.",
   "z4a1e491c": "I siti specializzati nel settore dell'animazione giapponese riportano i dettagli sul cast di doppiatori, lo studio di animazione e la data di trasmissione.",
   "zbb384a39": "Il Guardian analizza l'aumento dei costi dei videogiochi come barriera economica, mentre la stampa musicale e pop segue le indiscrezioni sui video di gioco trapelati.",
   "zb1556f8e": "Il Consiglio dell'Unione europea valorizza il ruolo guida dell'Europa nella diplomazia ambientale e nel sostegno al multilateralismo.",
@@ -2097,7 +3243,43 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z01918a41": "Il Sole 24 Ore sottolinea l'inaugurazione della struttura emiliana da 138 posti letto come risposta al fabbisogno di student housing accessibile.",
   "zff883c98": "L'emittente asiatica sottolinea il divieto di affiliazione stabilito dall'European Tour per i golfisti LIV per il 2027.",
   "z0beccbad": "Mentre il Consiglio europeo documenta l'intervento di Costa sulla cooperazione regionale, le testate baltiche danno ampio risalto al giuramento presidenziale di Madise e al suo richiamo alla fiducia.",
-  "za93e9dbe": "Il quotidiano israeliano mette in evidenza il via libera della procuratrice generale alle indagini e la fuga del sospettato durante gli scontri."
+  "za93e9dbe": "Il quotidiano israeliano mette in evidenza il via libera della procuratrice generale alle indagini e la fuga del sospettato durante gli scontri.",
+  "zc3de7c78": "Mentre la BBC e NPR evidenziano le parole di protesta di Omar, Deutsche Welle pone l'accento sulla conferma del Dipartimento di Giustizia circa l'indagine in corso.",
+  "z948d3df9": "The Guardian rimarca il picco termico a cinquanta gradi e il rischio incendi, mentre BBC e Deutsche Welle mettono in risalto i danni economici e le ricadute sulla sicurezza alimentare europea.",
+  "z5443df1b": "L'ANSA evidenzia il doppio fronte della reazione Nato e dello stallo diplomatico tra Washington e Mosca, mentre Rai News concentra l'attenzione sulla prontezza militare e sull'allarme lanciato da Kiev.",
+  "z55865d50": "BBC News evidenzia i disordini e i fermi di massa a Delhi, mentre NPR spiega nel dettaglio le contestazioni dell'opposizione sulla cancellazione di oltre centotrenta milioni di elettori.",
+  "z2cbe3bbd": "L'ANSA annuncia la conclusione positiva dell'intervento dopo oltre un giorno di lavoro, mentre Rai News aveva seguito le fasi dell'operazione a dieci metri di profondità.",
+  "z1371a1a2": "La testata analizza la situazione sul campo a Kiev, focalizzandosi sulle difficoltà concrete dei cittadini alle prese con i blackout invernali.",
+  "zcdcf117a": "Al Jazeera mette in primo piano lo scoppio delle manifestazioni nella capitale indiana in reazione ai cambiamenti nelle liste elettorali.",
+  "zbdcc920d": "Mentre BBC e Deutsche Welle affrontano lo stallo normativo di Starlink in India, Financial Times, Globe and Mail e SCMP mettono l'accento sul record di finanziamenti politici di Musk ai repubblicani.",
+  "z5e075516": "Le testate internazionali evidenziano di pari passo l'impresa a sorpresa di Bergs e la matematica consacrazione di Zverev a numero uno del mondo, con Repubblica che nota anche lo sfogo di Alcaraz.",
+  "z81574165": "Deutsche Welle, FAZ e Spiegel mettono in rilievo l'accusa formale di Varsavia contro i servizi segreti russi per l'atto di sabotaggio compiuto ai danni dell'impianto.",
+  "z0773d204": "PBS punta sulle entrate economiche che andranno a Mosca, mentre Kyiv Independent e NZ Herald danno spazio ai paletti fissati da Zelensky su una tregua che deve tutelare la rete elettrica.",
+  "za6aca81e": "Pitchfork annuncia le date del tour di Remi Wolf, mentre Clarín si sofferma sull'intervento politico di Olivia Rodrigo contro l'uso della sua musica da parte di Trump.",
+  "zdcdb1ea6": "Il Post analizza la mossa come un espediente per rafforzare la leadership, Il Sole 24 Ore e Sky TG24 si concentrano sulla nuova segreteria e sul cambio di simbolo, mentre ANSA e Repubblica ne illustrano la cornice regolamentare.",
+  "za07d561e": "Fumettologica si sofferma sull'illustrazione firmata da Alex Ross, mentre la stampa estera riporta l'iniziativa parallela di LEGO annunciata al Comic Con di New York.",
+  "zedadd6a2": "The Guardian pone l'accento sulla rilevanza scientifica dell'approvazione del nuovo medicinale e sulle testimonianze delle associazioni dei pazienti.",
+  "z1c863ae2": "Citizen Digital evidenzia la richiesta di dimissioni del ministro da parte dell'opposizione, mentre Hiiraan Online riporta l'avvertimento di Duale contro il panico che danneggerebbe il turismo.",
+  "z30a69d45": "Malay Mail documenta le cancellazioni dei voli tra Malesia e Singapore, mentre Antara segnala i ritardi provocati dal fumo negli scali indonesiani.",
+  "z21d1aee2": "Il comunicato del Consiglio dell'Unione europea illustra il completamento formale delle intese su politica monetaria, statistica e mercato del lavoro.",
+  "z75f295ee": "L'Agenzia spaziale europea sottolinea il successo del rientro in Europa e la durata complessiva della missione a bordo dell'avamposto orbitale.",
+  "z8e9bc319": "NPR pone l'accento sulla pubblicazione dei dati federali inediti dopo molti decenni e sulla permanenza di profonde disuguaglianze razziali nel sistema scolastico.",
+  "zc89c1ee2": "BBC Travel evidenzia la nascita dell'itinerario a tema per valorizzare la memoria storica e il turismo legato al passato coloniale locale.",
+  "z51b26709": "La testata mette a fuoco i dati sulle segnalazioni dei pazienti e i tempi regolamentari concessi ai professionisti sanitari per rispondere.",
+  "z94159db0": "La testata evidenzia l'allarme etico sui pericoli di compravendita dei dati sanitari e i rischi di sproporzione di potere tra colossi tecnologici e cittadini.",
+  "z525b5a1f": "Positive News sottolinea la natura gratuita e l'utilità pratica dello strumento per rafforzare la capacità di reazione delle comunità locali.",
+  "zc79ba1ba": "Dezeen descrive i dettagli architettonici dell'opera e l'impiego della terra battuta per integrarsi con l'ambiente naturale protetto.",
+  "zcb6ca7f8": "Gambero Rosso punta i riflettori sul confronto tra Adrià e Perdomo attorno ai costi crescenti della creatività e alle difficoltà gestionali dei ristoranti.",
+  "z8a005cd1": "Cyprus Mail pone l'accento sulla decisione del ministero cipriota di abbattere nuovi capi e sulla discussione relativa agli indennizzi per gli allevatori.",
+  "z6cab86cb": "Gabonreview concentra l'attenzione sul paradosso tra il controllo statale sul greggio e i problemi di cassa rilevati dalla Banca Mondiale.",
+  "zcb0a977f": "Iwacu mette in rilievo la motivazione ufficiale del Frodebu, incentrata sulla totale assenza di condizioni e garanzie democratiche per il voto.",
+  "z4be8b441": "The Guardian si sofferma sul valore economico da record mondiale per un cimelio sportivo, mentre Gulf News ribadisce il primato storico dell'asta.",
+  "zabe3e42f": "Daily News Egypt valorizza il passaggio epocale della misurazione del tempo al nucleo atomico in funzione della fisica cosmica.",
+  "z1f826122": "Rai News evidenzia la resistenza difensiva mostrata dalla Roma in inferiorità numerica per quasi tutta la ripresa.",
+  "z1e8a8ccf": "NPR analizza le riflessioni del frontman Chatten e la vocazione della band nell'interpretare i malesseri del mondo contemporaneo.",
+  "zf1393c14": "BBC Travel presenta la bevanda canadese mettendone in evidenza l'eccezionalità e la natura eccentrica rispetto alle tradizionali creazioni di miscelazione.",
+  "z36ffe465": "Il quotidiano tanzaniano sottolinea l'intervento del ministro a favore della trasparenza e dell'efficienza organizzativa nella sanità pubblica.",
+  "z09c984e3": "Gambero Rosso collega la contrapposizione politica brasiliana sul vino alle ricadute per i flussi di export dell'industria enologica italiana."
  },
  "contesti": {},
  "cronologie": {},
@@ -2146,13 +3328,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "n": "Liangzhu",
    "p": [
     "China"
-   ],
-   "pt": []
-  },
-  "zc227b7ef": {
-   "n": "Urzulei",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -2583,6 +3758,266 @@ window.EDIZIONI["2026-10-12-sera"] = {
     "Israel"
    ],
    "pt": []
+  },
+  "zc3de7c78": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z948d3df9": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z5443df1b": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z55865d50": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z2cbe3bbd": {
+   "n": "Sardegna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1371a1a2": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zcdcf117a": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zbdcc920d": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5e075516": {
+   "n": "Shanghai",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z81574165": {
+   "n": "Varsavia",
+   "p": [
+    "Poland",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z0773d204": {
+   "n": "Mosca",
+   "p": [
+    "Russia",
+    "United States of America",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "za6aca81e": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdcdb1ea6": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za07d561e": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zedadd6a2": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1c863ae2": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z30a69d45": {
+   "n": "Singapore",
+   "p": [
+    "Singapore",
+    "Malaysia",
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "z21d1aee2": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z75f295ee": {
+   "n": "Colonia",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z8e9bc319": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc89c1ee2": {
+   "n": "Connecticut",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z51b26709": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z94159db0": {
+   "n": "Bad Hofgastein",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z525b5a1f": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc79ba1ba": {
+   "n": "Port Campbell",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zcb6ca7f8": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8a005cd1": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z6cab86cb": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "zcb0a977f": {
+   "n": "Gitega",
+   "p": [
+    "Burundi"
+   ],
+   "pt": []
+  },
+  "z4be8b441": {
+   "n": "Miami",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zabe3e42f": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z1f826122": {
+   "n": "Como",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1e8a8ccf": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf1393c14": {
+   "n": "Canada",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z36ffe465": {
+   "n": "Zanzibar",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z09c984e3": {
+   "n": "Brasilia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -2593,7 +4028,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "zde4875a9": 1,
   "z744e974d": 1,
   "z12054171": 2,
-  "zc227b7ef": 2,
   "z4a1e491c": 1,
   "zbb384a39": 1,
   "zb1556f8e": 1,
@@ -2655,7 +4089,43 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z01918a41": 1,
   "zff883c98": 1,
   "z0beccbad": 2,
-  "za93e9dbe": 1
+  "za93e9dbe": 1,
+  "zc3de7c78": 3,
+  "z948d3df9": 1,
+  "z5443df1b": 2,
+  "z55865d50": 2,
+  "z2cbe3bbd": 2,
+  "z1371a1a2": 1,
+  "zcdcf117a": 1,
+  "zbdcc920d": 2,
+  "z5e075516": 1,
+  "z81574165": 1,
+  "z0773d204": 2,
+  "za6aca81e": 2,
+  "zdcdb1ea6": 2,
+  "za07d561e": 1,
+  "zedadd6a2": 1,
+  "z1c863ae2": 1,
+  "z30a69d45": 1,
+  "z21d1aee2": 1,
+  "z75f295ee": 1,
+  "z8e9bc319": 1,
+  "zc89c1ee2": 1,
+  "z51b26709": 1,
+  "z94159db0": 1,
+  "z525b5a1f": 1,
+  "zc79ba1ba": 1,
+  "zcb6ca7f8": 1,
+  "z8a005cd1": 1,
+  "z6cab86cb": 1,
+  "zcb0a977f": 1,
+  "z4be8b441": 1,
+  "zabe3e42f": 1,
+  "z1f826122": 1,
+  "z1e8a8ccf": 1,
+  "zf1393c14": 1,
+  "z36ffe465": 1,
+  "z09c984e3": 1
  },
  "video": {},
  "pillole": []
