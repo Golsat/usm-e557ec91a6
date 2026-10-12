@@ -3,6 +3,2339 @@ window.EDIZIONI["2026-10-12-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z89befd18",
+   "sez": "ingegneria",
+   "titolo": "Holcim apre una rotta ferroviaria per trasportare inerti verso il porto di Sunderland",
+   "orig": "Holcim opens freight route to move 100,000t of aggregate to Port of Sunderland in first year",
+   "lead": "Holcim UK ha inaugurato un nuovo collegamento ferroviario merci destinato al porto di Sunderland, un'infrastruttura pensata per ottimizzare la logistica dei materiali da costruzione. Secondo quanto comunicato dalla società, il servizio su rotaia consentirà di movimentare circa centomila tonnellate di inerti nel corso del suo primo anno di attività, garantendo un flusso costante verso lo scalo marittimo britannico e alleggerendo al contempo il traffico su gomma per il trasporto pesante. Lo riferisce New Civil Engineer.",
+   "more": [
+    "Il trasporto ferroviario di merci e aggregati consente di trasferire grandi volumi di materiali pesanti impiegati nell'edilizia, come sabbia, ghiaia e pietrisco, direttamente verso i nodi logistici portuali. Questo modello integrato migliora l'efficienza della catena di fornitura industriale e riduce l'impatto ambientale rispetto alla movimentazione stradale."
+   ],
+   "fonti": [
+    {
+     "n": "New Civil Engineer",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.newcivilengineer.com/latest/holcim-opens-freight-route-to-move-100000t-of-aggregate-to-port-of-sunderland-in-first-year-12-10-2026/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z735f767f",
+   "sez": "cultura",
+   "titolo": "La BBC replica alle accuse di censura per la maglietta pro diritti trans di Bethany Antonia",
+   "orig": "BBC responds to “trans rights censorship” accusations over ‘House Of The Dragon’ star’s ‘Protect The Dolls’ t-shirt",
+   "lead": "L’emittente britannica BBC ha risposto pubblicamente alle polemiche che l’accusavano di aver censurato un messaggio a favore dei diritti delle persone transessuali durante la trasmissione televisiva Strictly Come Dancing. Al centro della controversia vi è l’attrice Bethany Antonia, nota per il suo ruolo nella serie House Of The Dragon, la cui maglietta recante lo slogan «Protect The Dolls» è stata modificata e tagliata durante la messa in onda del programma d’intrattenimento. Lo riferisce NME.",
+   "more": [
+    "L'espressione e la visibilità delle rivendicazioni per i diritti civili nei grandi programmi di intrattenimento radiotelevisivo pubblico sono spesso al centro di dibattiti sulle linee guida editoriali e sulla neutralità, soprattutto quando riguardano temi di rilevanza sociale e identitaria."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/tv/strictly-come-dancing-protect-the-dolls-house-dragon-trans-rights-censorship-3972946?utm_source=rss&utm_medium=rss&utm_campaign=strictly-come-dancing-protect-the-dolls-house-dragon-trans-rights-censorship",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd764ab73",
+   "sez": "spazio",
+   "titolo": "Amazon costruisce il suo millesimo satellite e prepara il servizio internet entro fine anno",
+   "orig": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+   "lead": "Il colosso statunitense Amazon ha completato la costruzione del suo millesimo satellite, segnando un passaggio determinante verso il debutto operativo della propria costellazione destinata alla connettività globale. L'azienda ha confermato l'intenzione di lanciare il servizio commerciale di internet satellitare entro la fine dell'anno, affrontando una sfida tecnologica e industriale particolarmente complessa che richiede infrastrutture avanzate e ritmi di produzione sostenuti per competere nelle comunicazioni orbitali a bassa quota. Lo riferisce Ars Technica – Spazio.",
+   "more": [
+    "Le megacostellazioni satellitari in orbita terrestre bassa sono progettate per fornire connessione a banda larga a livello globale, raggiungendo aree remote o scarsamente servite dalle reti terrestri. La fabbricazione e l'immissione in orbita di migliaia di satelliti richiedono complessi processi industriali e continui lanci spaziali."
+   ],
+   "fonti": [
+    {
+     "n": "Ars Technica – Spazio",
+     "p": "US",
+     "c": "New York",
+     "u": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2e9dc526",
+   "sez": "tech",
+   "titolo": "La Cina verso il divieto delle maniglie a scomparsa sulle auto per motivi di sicurezza",
+   "orig": "Aito, perché la Cina vieterà le maniglie a scomparsa: il dettaglio che può costare caro (anche la vita)",
+   "lead": "Le autorità cinesi si preparano a vietare l’uso delle maniglie a scomparsa sulle autovetture a causa dei gravi rischi che queste possono comportare per l'incolumità dei passeggeri. Pur essendo apprezzate per il design elegante e per la capacità di migliorare l’aerodinamica integrandosi nella carrozzeria, queste componenti rischiano di bloccarsi quando un veicolo perde alimentazione elettrica in seguito a un incidente, impedendo ai soccorritori di aprire rapidamente le portiere per estrarre le persone a bordo. Lo riferisce Il Messaggero – Tecnologia.",
+   "more": [
+    "Le maniglie a scomparsa sono dispositivi automobilistici che rimangono a filo della carrozzeria durante la marcia per ridurre la resistenza dell'aria ed emergono elettronicamente all'apertura. In caso di impatto grave e interruzione del circuito elettrico, l'assenza di sblocco meccanico immediato può ostacolare i soccorsi."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/auto_maniglie_scomparsa_divieto_cina_perche-9819861.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z335e9f9c",
+   "sez": "economia",
+   "titolo": "Fallimento di Spirit Airlines: cresce l'opposizione alla vendita dei dati dei dipendenti a Google",
+   "orig": "Fighting Spirit’s Data Sale to Google: Court Filings Show the List Getting Longer",
+   "lead": "L’accordo per la cessione di dati da parte della compagnia aerea Spirit Airlines a favore di Google continua a subire forti rallentamenti a causa di un numero crescente di opposizioni depositate in tribunale. La vicenda fallimentare mette in evidenza i limiti delle normative concorsuali nel tutelare la privacy e le informazioni personali dei dipendenti, in un contesto in cui il rapido sviluppo delle tecnologie di intelligenza artificiale accresce il valore strategico delle banche dati aziendali. Lo riferisce Skift.",
+   "more": [
+    "Nelle procedure di fallimento e ristrutturazione aziendale, gli asset digitali e i database possono essere messi in vendita per soddisfare i creditori. Tuttavia, l'uso di dati personali e lavorativi per addestrare modelli tecnologici solleva complesse questioni legali sulla riservatezza e sul consenso."
+   ],
+   "fonti": [
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/12/fighting-spirits-data-sale-to-google-court-filings-show-the-list-getting-longer/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8e075976",
+   "sez": "salute",
+   "titolo": "La Namibia rende obbligatori i reparti di salute mentale nei nuovi ospedali",
+   "orig": "Mental health units mandatory for new Namibian hospitals",
+   "lead": "Il Ministero della Salute e dei Servizi Sociali della Namibia ha stabilito che nessun nuovo ospedale pubblico o privato, a livello distrettuale o superiore, potrà essere autorizzato senza un'unità dedicata alla salute mentale. Il provvedimento rientra tra i sei impegni nazionali formali sottoscritti dalla ministra della Salute Esperance Luvindao in occasione della Giornata mondiale della salute mentale celebrata a Windhoek, con l'obiettivo di garantire cure psichiatriche diffuse su tutto il territorio. Lo riferisce The Namibian.",
+   "more": [
+    "L'integrazione di reparti psichiatrici all'interno delle strutture sanitarie generali consente di offrire assistenza specialistica tempestiva e di ridurre lo stigma sociale legato ai disturbi psicologici, garantendo percorsi di cura strutturati e un accesso equo alle terapie per i pazienti all'interno della rete medica territoriale."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/mental-health-units-mandatory-for-new-namibian-hospitals/",
+     "angolo": "",
+     "atlas": "Namibia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3f93cfb3",
+   "sez": "cultura",
+   "titolo": "Il Petit Palais di Parigi dedica una retrospettiva alla pittrice impressionista Eva Gonzalès",
+   "orig": "Au Petit Palais, Eva Gonzalès fait grande impression",
+   "lead": "Il museo Petit Palais di Parigi ospita fino al 24 gennaio un'elegante mostra retrospettiva dedicata a Eva Gonzalès, figura di spicco dell’impressionismo rimasta a lungo ingiustamente meno celebrata rispetto alle colleghe Berthe Morisot e Marie Bracquemond. L'esposizione parigina celebra il percorso dell'artista, ricordata storicamente per essere stata l'unica allieva diretta di Édouard Manet nonché una delle sue modelle predilette, restituendo pienamente il giusto valore alla sua autonoma produzione pittorica e al suo talento formale. Lo riferisce Libération.",
+   "more": [
+    "L'impressionismo è stato un movimento artistico nato in Francia nel diciannovesimo secolo, caratterizzato dall'attenzione alla luce naturale, a soggetti della vita moderna e a pennellate rapide. Le pittrici impressioniste hanno svolto un ruolo rilevante nella corrente, affrontando spesso una minore visibilità critica rispetto ai colleghi uomini."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/culture/arts/au-petit-palais-eva-gonzales-fait-grande-impression-20261012_R5M423YWAFHS3AVCFIGFQO32V4/",
+     "angolo": "",
+     "atlas": "France"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb2474614",
+   "sez": "economia",
+   "titolo": "Dottorati di ricerca in Europa: i dati evidenziano profonde disparità nei compensi",
+   "orig": "What does a PhD pay? Data reveal huge gaps across Europe",
+   "lead": "Una raccolta di dati a livello europeo mette a nudo marcate differenze nelle retribuzioni percepite dai ricercatori impegnati nei corsi di dottorato, evidenziando una forte frammentazione economica tra i diversi Paesi del continente. L'analisi documenta come i compensi per le attività di ricerca accademica avanzata varino drasticamente a seconda dell'area geografica, alimentando squilibri nelle condizioni di vita degli studiosi e incidendo sull'attrattività delle istituzioni universitarie europee per i giovani scienziati. Lo riferisce Nature.",
+   "more": [
+    "Il dottorato di ricerca rappresenta il percorso di formazione universitaria più elevato, finalizzato all'avvio alla carriera scientifica e accademica. I compensi e le borse di studio garantite ai ricercatori influenzano la mobilità internazionale, la stabilità economica e la capacità dei laboratori di trattenere talenti qualificati."
+   ],
+   "fonti": [
+    {
+     "n": "Nature",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/d41586-026-03181-1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "NPR – Istruzione",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z913f633f",
+   "sez": "economia",
+   "titolo": "Intelligenza artificiale e difesa: il Capo di Stato Maggiore Conserva rassicura sul ruolo umano",
+   "orig": "AI, il Capo di Stato Maggiore dell’Aeronautica Conserva: «Possibile influenza sulle professionalità, ma l’elemento umano non verrà sostituito»",
+   "lead": "Nel corso di un convegno tenutosi a Roma, il Capo di Stato Maggiore dell’Aeronautica Militare Conserva ha spiegato che l’intelligenza artificiale influenzerà certamente le professionalità operative senza tuttavia sostituire l’elemento umano nel settore della difesa. Durante l'evento è intervenuto anche Mariani di Leonardo, che ha evidenziato come le sfide tecnologiche strategiche non riguardino soltanto gli algoritmi, ma coinvolgano una vasta gamma di risorse tra cui reti satellitari, sensori radar, infrarossi, nuovi materiali, calcolo quantistico e laser. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "L'integrazione di sistemi avanzati di calcolo e intelligenza artificiale nelle forze aeree e nell'industria aerospaziale mira ad accelerare l'elaborazione dei dati tattici e la gestione dei velivoli, mantenendo comunque sotto controllo umano le decisioni strategiche e le operazioni più critiche."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/ai-capo-stato-maggiore-dell-aeronautica-conserva-possibile-influenza-professionalita-ma-l-elemento-umano-non-verra-sostituito-AJKfsXhB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze1d08675",
+   "sez": "ingegneria",
+   "titolo": "Lo studio Populous incaricato di guidare il piano di sviluppo attorno al London Stadium",
+   "orig": "Populous to lead re‑development study around London Stadium",
+   "lead": "La società di progettazione e architettura per lo sport e l’intrattenimento Populous è stata scelta per guidare uno studio approfondito dedicato allo sviluppo urbano e alle opportunità ricreative attorno al London Stadium. L’iniziativa mira a valorizzare gli spazi pubblici e le strutture commerciali nell'area centrale del Queen Elizabeth Olympic Park a Londra, promuovendo nuovi investimenti capaci di rivitalizzare il quartiere e integrare l'impianto con il tessuto cittadino circostante. Lo riferisce New Civil Engineer.",
+   "more": [
+    "La riqualificazione delle aree circostanti ai grandi stadi olimpici e alle arene polifunzionali consente di trasformare strutture dedicate ai grandi eventi in poli attivi tutto l'anno, integrando parchi pubblici, attività commerciali, percorsi pedonali e servizi per la comunità locale."
+   ],
+   "fonti": [
+    {
+     "n": "New Civil Engineer",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.newcivilengineer.com/latest/populous-to-lead-re%e2%80%91development-study-around-london-stadium-12-10-2026/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf9ca22cb",
+   "sez": "spazio",
+   "titolo": "Onde gravitazionali: la missione LISA si prospetta come un accordo vantaggioso tra NASA ed ESA",
+   "orig": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+   "lead": "La collaborazione scientifica tra la NASA e l’Agenzia Spaziale Europea attorno al progetto LISA rappresenta un'opportunità strategica di grande valore per gli Stati Uniti, consentendo di massimizzare i ritorni scientifici con costi condivisi. In una fase in cui le agenzie spaziali cercano accordi particolarmente vantaggiosi ed efficienti, l’osservatorio orbitale progettato per la rilevazione delle onde gravitazionali offre una cooperazione internazionale fondamentale per comprendere i fenomeni cosmici più remoti e complessi dell'universo. Lo riferisce Ars Technica – Spazio.",
+   "more": [
+    "LISA è un futuro osservatorio spaziale concepito per rilevare le onde gravitazionali tramite costellazioni di satelliti distanziati tra loro nel cosmo. Lo strumento consentirà di misurare le increspature dello spaziotempo generate da eventi cosmici violenti, come la collisione di buchi neri supermassicci."
+   ],
+   "fonti": [
+    {
+     "n": "Ars Technica – Spazio",
+     "p": "US",
+     "c": "New York",
+     "u": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "za8e5874f",
+   "sez": "tech",
+   "titolo": "La calligrafia di Michelangelo diventa il font gratuito Michelangelus su Microsoft Office",
+   "orig": "Michelangelus arriva su Microsoft Office: il Vaticano trasforma la calligrafia del genio rinascimentale in un font gratuito per tutti.",
+   "lead": "La calligrafia originale di Michelangelo Buonarroti sarà utilizzabile sui computer di tutto il mondo attraverso i programmi di Microsoft Office, trasformata in un carattere tipografico digitale gratuito denominato Michelangelus. L’iniziativa nasce grazie a una collaborazione ufficiale tra la Fabbrica di San Pietro in Vaticano e l'azienda tecnologica Microsoft, con l'obiettivo di rendere accessibile al grande pubblico lo stile di scrittura del celebre maestro rinascimentale direttamente all'interno degli strumenti di videoscrittura quotidiani. Lo riferisce Il Messaggero – Tecnologia.",
+   "more": [
+    "La digitalizzazione dei caratteri storici permette di convertire manoscritti e documenti d'archivio in font vettoriali utilizzabili sulle moderne piattaforme software. Questo processo preserva il patrimonio culturale e rende fruibili grafie d'epoca per la scrittura digitale e la progettazione grafica contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/vaticano/microsoft_calligrafia_michelangelo_michelangelus_vaticano_computer_leone_xiv-9812161.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaab0daac",
+   "sez": "sport",
+   "titolo": "Tennis, infortunio al ginocchio per Jannik Sinner: scelto l'ortopedico Herbert Schoenhuber",
+   "orig": "Sinner, scelto il nuovo ortopedico: chi è Herbert Schoenhuber, il medico del miracolo di Goggia nel 2022",
+   "lead": "Il tennista Jannik Sinner ha deciso di affidarsi allo specialista ortopedico Herbert Schoenhuber per curare il problema al ginocchio destro che lo ha costretto a interrompere anticipatamente la propria stagione agonistica. Il numero uno del tennis italiano ha scelto di rinunciare agli ultimi tornei in programma nel 2026 per concentrarsi sul recupero fisico, rivolgendosi al medico celebre nel mondo dello sport per aver seguito con successo la sciatrice Sofia Goggia durante la riabilitazione del 2022. Lo riferisce Il Messaggero – Sport.",
+   "more": [
+    "Herbert Schoenhuber è un noto medico ortopedico e traumatologo italiano con una lunga esperienza nel trattamento degli infortuni articolari di atleti professionisti, in particolare negli sport invernali e nelle discipline ad alto impatto fisico che richiedono interventi conservativi o chirurgici mirati."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/tennis/sinner_scelto_nuovo_ortopedico_herbert_schoenhuber_medico_miracolo_di_goggia_2022-9819795.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd61adad5",
+   "sez": "viaggi",
+   "titolo": "Turismo globale: i rincari sostengono i ricavi mentre la crescita dei viaggiatori rallenta",
+   "orig": "Higher Prices Are Supporting Travel Revenues While Volume Growth Slows",
+   "lead": "L'aumento generalizzato delle tariffe sta sostenendo il fatturato complessivo dell'industria dei viaggi a livello globale, compensando il progressivo rallentamento nella crescita del volume effettivo dei passeggeri. Le crescenti pressioni legate ai costi e una domanda turistica disomogenea indicano tuttavia che il settore ricettivo e dei trasporti sta generando maggiori entrate economiche senza necessariamente accogliere un numero superiore di viaggiatori, sollevando interrogativi sulla sostenibilità nel lungo termine di questo modello di spesa. Lo riferisce Skift.",
+   "more": [
+    "L'industria turistica comprende l'insieme delle attività economiche legate ai trasporti passeggeri, alle strutture alberghiere e ai servizi per le vacanze. Le variazioni dei prezzi al consumo e il potere d'acquisto influenzano direttamente la propensione a viaggiare e la durata dei soggiorni delle famiglie."
+   ],
+   "fonti": [
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/12/higher-prices-are-supporting-travel-revenues-while-volume-growth-slows/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z55a6605d",
+   "sez": "mondo",
+   "titolo": "Malawi, Brain Magoya nominato presidente del fondo per i prestiti universitari",
+   "orig": "Brain Magoya appointed chair of higher education funding board",
+   "lead": "Il governo del Malawi ha affidato a Brain Magoya la presidenza dell'organismo nazionale preposto al finanziamento degli studi universitari, l'Higher Education Students' Loans and Grants Board. La nomina, formalizzata tramite una lettera ufficiale dell'8 ottobre 2026 firmata dal vice segretario generale Christopher S., colloca Magoya al vertice del sistema incaricato di distribuire borse di studio e prestiti agli studenti, un ruolo chiave per gestire le risorse pubbliche destinate all'istruzione superiore nel Paese africano. Lo riferisce Nyasa Times.",
+   "more": [
+    "Gli enti di finanziamento per gli studenti universitari gestiscono borse di studio e prestiti agevolati per consentire ai giovani privi di risorse economiche sufficienti di accedere agli atenei, sostenendo il completamento dei percorsi accademici e lo sviluppo delle competenze professionali a livello nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/brain-magoya-appointed-chair-of-higher-education-funding-board/?utm_source=rss&utm_medium=rss&utm_campaign=brain-magoya-appointed-chair-of-higher-education-funding-board",
+     "angolo": "",
+     "atlas": "Malawi"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z891b48f8",
+   "sez": "musica",
+   "titolo": "I Decemberists pubblicano il nuovo singolo «The Better Part of Bravery» per il film Wildwood",
+   "orig": "The Decemberists Premiere First Song in Two Years",
+   "lead": "Il gruppo indie rock statunitense The Decemberists ha presentato il brano «The Better Part of Bravery», la loro prima canzone inedita pubblicata a distanza di due anni dall'ultimo lavoro in studio. La composizione è stata realizzata appositamente per la colonna sonora del film d'animazione Wildwood, pellicola cinematografica ispirata e basata sull’omonimo romanzo d’esordio scritto dal frontman della band, Colin Meloy, unendo così il percorso narrativo e letterario dell'autore con l'attività musicale della formazione. Lo riferisce Pitchfork.",
+   "more": [
+    "I Decemberists sono una band statunitense nota per il loro stile folk rock e per i testi elaborati dalle forti influenze letterarie e narrative. Il gruppo si distingue nella scena musicale indipendente per l'impiego di arrangiamenti orchestrali e racconti d'ispirazione favolistica e storica."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/the-decemberists-new-song-the-better-part-of-bravery/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8c5410c1",
+   "sez": "cultura",
+   "titolo": "Algeria: la casa editrice Koukou torna al Salone del libro di Algeri dopo tre anni di esclusione",
+   "orig": "Koukou éditions de retour au Sila après trois ans d’exclusion",
+   "lead": "La casa editrice indipendente Koukou è stata riammessa al Salone internazionale del libro di Algeri e a tutti gli eventi librari regionali dopo essere rimasta esclusa per tre anni a partire dal 2023. A darne notizia ufficiale con un comunicato diffuso il 12 ottobre è stato il direttore editoriale Arezki Aït-Larbi, confermando la partecipazione della casa editrice alla ventinovesima edizione della fiera, programmata nella capitale algerina dal 28 ottobre al 7 novembre 2026. Lo riferisce Le Matin d'Algérie.",
+   "more": [
+    "Il Salone internazionale del libro di Algeri è uno dei principali eventi editoriali del Nord Africa, punto d'incontro fondamentale per autori, editori indipendenti e lettori, dove si discutono la diffusione della cultura, la circolazione delle idee e la libertà di pubblicazione nel panorama culturale magrebino."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/koukou-editions-de-retour-au-sila-apres-trois-ans-dexclusion/",
+     "angolo": "",
+     "atlas": "Algeria"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zde7e84d7",
+   "sez": "salute",
+   "titolo": "I segnali nascosti nel sonno possono anticipare lo stato di salute futuro",
+   "orig": "Hidden signals in sleep can predict future health",
+   "lead": "Nuove evidenze scientifiche indicano che l'analisi di specifici segnali fisiologici registrati durante il sonno è in grado di prevedere le future condizioni di salute di una persona. I tracciati biometrici e le oscillazioni rilevate mentre l'organismo riposa contengono infatti indicatori predittivi precoci che possono aiutare i medici a individuare l'insorgenza di patologie ben prima della comparsa dei sintomi conclamati, aprendo prospettive innovative per la prevenzione e la medicina personalizzata. Lo riferisce Nature.",
+   "more": [
+    "Il monitoraggio del sonno consente di esaminare l'attività cerebrale, i ritmi cardiaci e la respirazione durante le diverse fasi del riposo. Alterazioni sottili in questi parametri fisiologici possono riflettere anomalie sistemiche o disturbi neurologici e metabolici in fase iniziale."
+   ],
+   "fonti": [
+    {
+     "n": "Nature",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/d41586-026-03207-8",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7e61646b",
+   "sez": "economia",
+   "titolo": "Finanza pubblica: per la Banca d'Italia il quadro economico è migliore delle stime",
+   "orig": "Dpfp, Bankitalia: quadro più favorevole rispetto alle previsioni",
+   "lead": "Il contesto macroeconomico nel quale viene definito il documento programmatico di finanza pubblica dell'Italia risulta più favorevole rispetto a quanto gli analisti e i mercati potessero prevedere pochi mesi fa. È quanto ha sottolineato la Banca d'Italia nel corso di un'audizione parlamentare dedicata all'esame dei conti statali, evidenziando una tenuta complessiva dell'economia nazionale che offre margini più stabili per le scelte di bilancio e la gestione della spesa pubblica da parte del governo. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Il documento di finanza pubblica definisce il quadro macroeconomico e gli obiettivi programmatici dello Stato per il triennio successivo. Le audizioni degli organi tecnici e di vigilanza monetaria consentono al Parlamento di verificare la sostenibilità dei conti pubblici e delle misure previste."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/dpfp-bankitalia-quadro-piu-favorevole-rispetto-previsioni-AJu83jhB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zae8e3373",
+   "sez": "spazio",
+   "titolo": "La NASA converte 7.500 dipendenti esterni in funzionari pubblici federali",
+   "orig": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
+   "lead": "L’agenzia spaziale statunitense NASA ha avviato una transizione per trasformare circa settemilacinquecento collaboratori a contratto in funzionari pubblici federali a tempo pieno. Il cambio di strategia lavorativa, sostenuto da un'apposita direttiva dell'amministratore dell'ente, viene presentato dalla dirigenza come una visione strategica coerente e indispensabile per garantire stabilità a lungo termine ai programmi di esplorazione, rafforzando le competenze interne delle istituzioni spaziali americane e riducendo l'eccessiva dipendenza da appalti esterni per attività operative critiche. Lo riferisce Ars Technica – Spazio.",
+   "more": [
+    "La gestione del personale nelle grandi agenzie governative spaziali si basa tradizionalmente su un equilibrio tra impiegati statali e aziende appaltatrici esterne. L'internalizzazione dei contratti mira a trattenere competenze tecniche strategiche direttamente all'interno delle strutture pubbliche operative per i futuri lanci e missioni scientifiche."
+   ],
+   "fonti": [
+    {
+     "n": "Ars Technica – Spazio",
+     "p": "US",
+     "c": "New York",
+     "u": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z538ec423",
+   "sez": "tech",
+   "titolo": "OpenAI: si dimette David Robinson denunciando una gestione pericolosa della sicurezza",
+   "orig": "«La cultura di OpenAI è corrotta e pericolosa»: si dimette il responsabile della sicurezza",
+   "lead": "David Robinson, uno dei principali responsabili delle politiche di sicurezza presso OpenAI, ha rassegnato le proprie dimissioni accusando l'azienda di portare avanti una cultura interna corrotta e pericolosa. Secondo quanto denunciato dall'ormai ex dirigente, la società che sviluppa ChatGPT non dedicherebbe un'attenzione sufficiente alla gestione dei rischi e alla salvaguardia legata alle tecnologie di intelligenza artificiale, privilegiando ritmi di rilascio accelerati a discapito della cautela e dei controlli operativi necessari sui modelli più avanzati. Lo riferisce Il Messaggero – Tecnologia.",
+   "more": [
+    "OpenAI è una delle principali organizzazioni al mondo dedicate allo sviluppo di modelli linguistici e sistemi di intelligenza artificiale avanzata. Negli ultimi anni il dibattito sui protocolli di sicurezza e sulla prevenzione dei rischi etici e sistemici ha provocato diverse tensioni interne tra ricercatori e vertici aziendali."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/openai_pericolosa_corrotta_chatgpt_dimissioni_david_robinson_chi_e-9803786.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdbcaef01",
+   "sez": "mondo",
+   "titolo": "La compagnia Delta rinvia al marzo 2027 il volo per Riad dopo gli attacchi all'aeroporto",
+   "orig": "Delta Delays Riyadh Service to March 2027 Following Airport Attacks",
+   "lead": "Il vettore aereo statunitense Delta ha deciso di posticipare a marzo 2027 l'inaugurazione del collegamento diretto tra Atlanta e la capitale saudita Riad, inizialmente programmato per ottobre. La decisione giunge a seguito dei recenti attacchi avvenuti contro lo scalo aeroportuale mediorientale; una tratta che stava già affrontando crescenti perplessità riguardo agli standard di sicurezza operativa e all’effettiva domanda di mercato per il traffico passeggeri, spingendo la compagnia a una revisione prudenziale della rotta. Lo riferisce Skift.",
+   "more": [
+    "I collegamenti aerei intercontinentali diretti richiedono complesse valutazioni di sicurezza geopolitica, redditività economica e accordi bilaterali tra le autorità dell'aviazione civile. In caso di minacce o tensioni militari nei pressi degli scali, le aerolinee possono sospendere o rinviare le nuove aperture."
+   ],
+   "fonti": [
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/12/delta-air-lines-delays-riyadh-service-to-march-2027/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8cd5489b",
+   "sez": "salute",
+   "titolo": "Uzbekistan: maxi ospedale da 300 milioni di dollari a Fergana con i sauditi di Vision Invest",
+   "orig": "Fergana plans $300 million hospital in partnership with Saudi company Vision Invest.",
+   "lead": "La regione uzbeka di Fergana ha annunciato la costruzione di un nuovo complesso ospedaliero multispecialistico da ottocento posti letto, con un investimento stimato in trecento milioni di dollari realizzato in collaborazione con la holding saudita Vision Invest. Il progetto prevede di riunire in un'unica struttura cinque centri medici altamente specializzati, offrendo cure avanzate alla popolazione locale; stando ai piani annunciati dalle autorità dell'Uzbekistan, l'avvio ufficiale dei cantieri per l'infrastruttura sanitaria è fissato per dicembre. Lo riferisce Kun.uz (inglese).",
+   "more": [
+    "Le strutture sanitarie multispecialistiche integrate permettono di concentrare in un unico campus ospedaliero reparti clinici differenti, laboratori diagnostici all'avanguardia e tecnologie chirurgiche complesse, migliorando notevolmente la qualità complessiva dell'assistenza medica territoriale e razionalizzando le risorse operative del sistema sanitario regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/12/fergana-plans-300-million-hospital-in-partnership-with-saudi-company-vision-invest",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z527147c6",
+   "sez": "musica",
+   "titolo": "Alanis Morissette annuncia il suo primo album natalizio per la fine dell'anno",
+   "orig": "Alanis Morissette Made a Holiday Album",
+   "lead": "La cantautrice canadese Alanis Morissette ha realizzato un nuovo progetto discografico interamente dedicato al periodo delle festività natalizie, intitolato Good Weather for Immaculate Conception. Con questa inattesa produzione musicale a tema invernale, l'artista nordamericana propone al pubblico una selezione di brani pensati per la stagione di Natale, aggiungendo una raccolta inedita alla propria discografia storica e sperimentando le atmosfere tipiche delle celebrazioni di fine anno attraverso la sua consueta sensibilità interpretativa. Lo riferisce Pitchfork.",
+   "more": [
+    "Gli album natalizi rappresentano una tradizione consolidata per molti cantautori e interpreti internazionali, che pubblicano rielaborazioni di grandi classici festivi o brani inediti dedicati al periodo di fine anno, raggiungendo un pubblico trasversale e scalando regolarmente le classifiche radiofoniche stagionali."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/alanis-morissette-made-a-holiday-album/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zac717fc2",
+   "sez": "musica",
+   "titolo": "Bogotà: Mon Laferte conquista il festival Rock al Parque davanti a 200.000 spettatori",
+   "orig": "Mon Laferte deslumbra a Bogotá en la segunda jornada de Rock al Parque con más de 200.000 asistentes",
+   "lead": "La cantante cileno-messicana Mon Laferte è stata la grande protagonista della seconda giornata del festival musicale Rock al Parque a Bogotà, radunando un pubblico entusiasta stimato in oltre duecentomila persone. L'artista ha chiuso la serata della celebre rassegna gratuita colombiana interpretando alcuni dei suoi brani più famosi, tra cui le acclamate canzoni «Si tú me quisieras», «Amor completo» e «Amárrame», confermandosi come una delle voci più amate e seguite dell'intero panorama musicale latinoamericano contemporaneo. Lo riferisce El Universo.",
+   "more": [
+    "Rock al Parque è uno dei più grandi festival musicali gratuiti dell'America Latina, organizzato annualmente a Bogotà per promuovere la musica dal vivo e l'integrazione culturale attraverso le esibizioni di artisti internazionali ed emergenti di fronte a decine di migliaia di spettatori."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/entretenimiento/musica/mon-laferte-deslumbra-a-bogota-en-la-segunda-jornada-de-rock-al-parque-con-mas-de-200000-asistentes-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z759ecc64",
+   "sez": "economia",
+   "titolo": "Sovraindebitamento: proposta di Fratelli d'Italia per sospendere i pignoramenti fino a 180 giorni",
+   "orig": "Sovraindebitamento, proposta Fdi: fino a 180 giorni di stop ai pignoramenti",
+   "lead": "Una proposta di legge presentata alla Camera dei Deputati da Fratelli d'Italia punta a concedere fino a centottanta giorni di sospensione totale dalle procedure esecutive e dai pignoramenti a favore dei cittadini alle prese con gravi difficoltà economiche. La misura intende tutelare le persone sovraindebitate che stanno cercando di risanare le proprie finanze personali, offrendo loro una moratoria temporanea dalle azioni legali per consentire una ristrutturazione ordinata dei debiti accumulati senza subire la perdita immediata dei propri beni. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Il sovraindebitamento è la condizione in cui un privato cittadino o un piccolo imprenditore non riesce a far fronte ai debiti contratti a causa di difficoltà economiche sopraggiunte. Le norme di composizione della crisi permettono di concordare piani di rientro sostenibili tutelando temporaneamente il patrimonio del debitore."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/sovraindebitamento-proposta-fdi-fino-180-giorni-stop-pignoramenti-AJtyuehB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z61064b02",
+   "sez": "spazio",
+   "titolo": "Saturno all'opposizione e alla minima distanza dalla Terra: la guida per osservarlo nel cielo",
+   "orig": "Starwatch: how to spot Saturn as it makes it closest approach to Earth this year",
+   "lead": "In questo periodo dell'anno il pianeta Saturno si trova nelle condizioni ideali per l'osservazione, avendo raggiunto l'opposizione il 4 ottobre, quando la Terra si è posizionata quasi esattamente in linea retta tra il corpo celeste e il Sole. Il pianeta gigante, situato a una distanza circa dieci volte superiore rispetto a quella tra la Terra e il Sole, appare come un oggetto moderatamente luminoso di tonalità bianco-crema, agevolmente visibile a occhio nudo. In concomitanza con il suo punto di massimo avvicinamento annuale, Saturno sorge al tramonto, resta visibile per tutta la notte e tramonta all'alba. Lo riferisce The Guardian – Spazio.",
+   "more": [
+    "L'opposizione astronomica si verifica quando un pianeta esterno si trova allineato con il Sole rispetto alla Terra, posizionandosi dal lato opposto a quello della stella. Questa geometria orbitale offre la migliore visibilità possibile, poiché la faccia del pianeta rivolta verso di noi è completamente illuminata e la distanza dal nostro pianeta è minima rispetto al resto dell'orbita."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Spazio",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/science/2026/oct/05/how-to-spot-saturn-closest-approach-earth",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z284ca9ce",
+   "sez": "tech",
+   "titolo": "Tesla, Elon Musk ammette difficoltà dei robotaxi nel distinguere i gatti grigi dall'asfalto",
+   "orig": "«Tesla, i robotaxi non riescono a distinguere i gatti grigi dall'asfalto», la dichiarazione di Musk (che ora intende rimediare)",
+   "lead": "Elon Musk ha riconosciuto pubblicamente che i robotaxi a guida autonoma sviluppati da Tesla presentano ancora criticità tecniche da superare prima della piena affidabilità. Tra i problemi segnalati spicca l'incapacità dei sensori e degli algoritmi di bordo di distinguere con precisione i gatti dal manto di pelo grigio rispetto al colore dell'asfalto stradale. L'amministratore delegato dell'azienda automobilistica statunitense ha comunque fatto sapere che il gruppo intende intervenire per rimediare al difetto visivo e perfezionare le capacità di rilevamento del sistema di intelligenza artificiale. Lo riferisce Il Messaggero – Tecnologia.",
+   "more": [
+    "I veicoli a guida autonoma impiegano telecamere, sensori avanzati e modelli di apprendimento automatico per interpretare l'ambiente circostante e riconoscere ostacoli in tempo reale. Le sfide legate alla percezione visiva, in particolare il contrasto cromatico tra oggetti e sfondo stradale in diverse condizioni di luce, rappresentano uno dei principali banchi di prova per la sicurezza della tecnologia."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/robotaxi_tesla_investono_gatti_di_notte-9805337.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9b1bb1a6",
+   "sez": "sport",
+   "titolo": "Tashkent ospiterà per la prima volta i Campionati asiatici di tennistavolo",
+   "orig": "Tashkent to host Asian Table Tennis Championships for first time.",
+   "lead": "La capitale dell'Uzbekistan, Tashkent, si prepara a ospitare per la prima volta nella sua storia i campionati asiatici di tennistavolo dedicati alla categoria senior. La competizione continentale si svolgerà dal 19 al 25 ottobre all'interno degli impianti sportivi della Città Olimpica e vedrà la partecipazione di 255 atleti in rappresentanza di 33 nazioni differenti. L'evento rappresenta una tappa di grande rilievo per il movimento sportivo uzbeko, chiamato a gestire per la prima volta l'organizzazione del prestigioso torneo tennistavolistico continentale. Lo riferisce Kun.uz (inglese).",
+   "more": [
+    "Il tennistavolo asiatico raccoglie le federazioni più competitive al mondo, con scuole storiche che dominano regolarmente i tornei olimpici e mondiali. Le strutture della Città Olimpica di Tashkent sono state concepite per accogliere manifestazioni multidisciplinari di respiro internazionale, garantendo standard tecnici idonei per competizioni che assegnano titoli continentali e punti per le graduatorie internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/12/tashkent-to-host-asian-table-tennis-championships-for-first-time",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z070c561d",
+   "sez": "salute",
+   "titolo": "Il Ghana chiede una sanità globale guidata dai singoli Paesi e respinge l'accordo con gli USA",
+   "orig": "Global health must be led by countries, not designed for them – Mintah Akandoh",
+   "lead": "Al Vertice mondiale sulla salute di Berlino, il ministro della Sanità del Ghana, Kwabena Mintah Akandoh, ha rinnovato l'appello affinché le politiche sanitarie globali siano guidate dai singoli Paesi e non imposte dall'esterno. La presa di posizione giunge dopo la decisione del governo ghanese di respingere un accordo sanitario da 109 milioni di dollari proposto dagli Stati Uniti, a causa di perplessità legate alla sovranità sui dati sanitari nazionali, agli obblighi finanziari e all'autorità di regolamentazione. Akandoh ha ribadito che i Paesi devono mantenere un ruolo centrale nelle scelte. Lo riferisce MyJoyOnline.",
+   "more": [
+    "Il Vertice mondiale sulla salute riunisce annualmente leader politici, scienziati e rappresentanti delle organizzazioni internazionali per discutere le priorità della cooperazione sanitaria. Nelle relazioni tra Stati e donatori internazionali, il controllo dei dati epidemiologici e l'autonomia decisionale sulle normative interne rappresentano questioni cruciali per la sovranità delle nazioni in via di sviluppo."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/global-health-must-be-led-by-countries-not-designed-for-them-mintah-akandoh/",
+     "angolo": "",
+     "atlas": "Ghana"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "za24b061a",
+   "sez": "cultura",
+   "titolo": "Banco BHD svela le undici premiate dell'edizione di Mujeres que Cambian el Mundo",
+   "orig": "El BHD revela la selección del Premio Mujeres que Cambian el Mundo",
+   "lead": "L'istituto Banco BHD ha annunciato i nominativi delle undici donne selezionate per l'undicesima edizione del premio Mujeres que Cambian el Mundo, il riconoscimento che celebra le figure femminili distintesi per il loro impatto e per la capacità di trasformare le comunità locali e la società. Tra le attiviste e leader comunitarie figurano María Veiga Castiñeira e Ada Alba Drullard di Santo Domingo, Camelia Ureña di Santiago, Antigua Martínez Santos di Villa Tapia, oltre ad altre personalità provenienti da diverse province della Repubblica Dominicana. Lo riferisce Diario Libre.",
+   "more": [
+    "I riconoscimenti comunitari e sociali hanno l'obiettivo di dare visibilità all'impegno civile, alle iniziative di solidarietà e alla leadership femminile a livello territoriale. Valorizzare le esperienze di donne che operano nei contesti locali permette di sostenere progetti di sviluppo, integrazione sociale e miglioramento delle condizioni di vita nelle aree urbane e rurali."
+   ],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/economia/negocios/2026/10/11/el-bhd-revela-la-seleccion-del-premio-mujeres-que-cambian-el-mundo/3685686",
+     "angolo": "",
+     "atlas": "Dominican Rep."
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z01f21f62",
+   "sez": "economia",
+   "titolo": "Sardegna, i pastori manifestano contro il prezzo del latte e i rincari di energia e mangimi",
+   "orig": "Sardegna, pastori di nuovo in piazza: dal prezzo del latte «basso» ai costi «alti» di energia e mangime",
+   "lead": "I pastori della Sardegna sono tornati a manifestare in piazza per denunciare la crisi economica che colpisce gli allevamenti dell'isola. Secondo i produttori, l'attuale remunerazione del latte ovino, fissata a 1,40 euro al litro, costringe le aziende a lavorare costantemente in perdita, rendendo insostenibile la prosecuzione dell'attività agricola. A pesare sui bilanci del settore è anche il forte rincaro delle spese vive, determinato in particolare dai costi elevati dell'energia elettrica e delle materie prime necessarie per l'acquisto dei mangimi per il bestiame. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Il comparto lattiero-caseario sardo, fondamentale per la produzione di formaggi a denominazione di origine, soffre periodicamente della volatilità dei prezzi all'origine. Quando i costi energetici e le spese per l'alimentazione degli animali salgono, la forbice tra i ricavi della vendita del latte crudo e le spese di gestione mette a rischio la tenuta delle aziende pastorali."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/sardegna-pastori-nuovo-piazza-prezzo-latte-basso-costi-alti-energia-e-mangime-AJQsUchB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7dba43cd",
+   "sez": "ingegneria",
+   "titolo": "Graham realizzerà uno studentato da 45 milioni di sterline a Stratford",
+   "orig": "Graham picked for Stratford PBSA",
+   "lead": "L'impresa di costruzioni Graham è stata selezionata dallo sviluppatore Gamuda Land UK per realizzare un nuovo complesso residenziale dedicato agli studenti universitari a Stratford, nella zona orientale di Londra. Il progetto, del valore complessivo di 45 milioni di sterline, prevede la costruzione di un edificio appositamente concepito per ospitare alloggi studenteschi dotati di moderni servizi. L'intervento edilizio mira ad ampliare la capacità ricettiva per la popolazione universitaria nella capitale britannica, inserendosi nei piani di riqualificazione e sviluppo residenziale dell'area urbana. Lo riferisce Construction Index.",
+   "more": [
+    "L'edilizia residenziale studentesca dedicata, nota in ambito anglosassone come PBSA, comprende edifici progettati esclusivamente per accogliere studenti con stanze private, spazi di studio condivisi e aree ricreative. Stratford ha vissuto negli ultimi anni una profonda rigenerazione urbana e attrae investimenti per rispondere alla costante domanda di posti letto per gli atenei londinesi."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/graham-picked-for-stratford-pbsa",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z58a50080",
+   "sez": "tech",
+   "titolo": "Jolly, l'assistente basato su intelligenza artificiale racchiuso in un peluche tascabile",
+   "orig": "Jolly, l?IA come un peluche. L?assistente ora è tascabile",
+   "lead": "Si chiama Jolly ed è un innovativo assistente tascabile basato sull'intelligenza artificiale che si presenta sotto le insolite spoglie di un morbido peluche. Caratterizzato da occhi grandi, una pelliccia soffice e un aspetto innocuo, il dispositivo richiama nell'estetica il celebre personaggio Labubu, la creatura dalle orecchie a punta divenuta un fenomeno di costume globale. Il piccolo apparecchio unisce le capacità interattive dell'assistenza virtuale a una forma fisica rassicurante e compatta, pensata per essere portata comodamente con sé nella vita quotidiana. Lo riferisce Il Messaggero – Tecnologia.",
+   "more": [
+    "L'integrazione di sistemi di intelligenza artificiale conversazionale in oggetti fisici ed empatici rappresenta un settore emergente della tecnologia di consumo. A differenza dei tradizionali altoparlanti intelligenti o degli smartphone, i dispositivi robotici o in forma di peluche puntano a creare un'interazione più affettiva e intuitiva con gli utenti, specie per fasce d'età giovanili."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/jolly_ia_un_peluche_assistente_tascabile-9788887.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8573b95c",
+   "sez": "spazio",
+   "titolo": "La NASA programma un reattore a fissione sulla Luna entro il 2030 e motori nucleari per Marte",
+   "orig": "La NASA punta sul reattore nucleare sulla Luna per le future basi ed esplorazioni entro il 2030",
+   "lead": "La NASA sta accelerando i propri programmi per lo sviluppo dell'energia nucleare nello spazio, con l'obiettivo di realizzare un reattore a fissione operativo sulla Luna entro il 2030. L'impianto sarà progettato per fornire l'energia necessaria al sostentamento delle future basi lunari permanenti e delle relative missioni scientifiche. La strategia dell'agenzia spaziale statunitense comprende inoltre lo sviluppo di un primo prototipo di propulsione nucleare elettrica previsto per il 2028, una tecnologia ritenuta fondamentale per ridurre i tempi di viaggio delle prossime esplorazioni verso Marte. Lo riferisce Geopop.",
+   "more": [
+    "La disponibilità di energia continuativa è una delle maggiori sfide per la presenza umana sulla superficie lunare, dove la notte dura circa quattordici giorni terrestri e rende discontinua l'alimentazione solare. I reattori a fissione compatti garantiscono una fornitura elettrica costante, mentre i motori a propulsione nucleare permettono spinte più efficienti per le rotte interplanetarie verso il pianeta rosso."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/la-nasa-punta-sul-reattore-nucleare-sulla-luna-per-le-future-basi-ed-esplorazioni-entro-il-2030/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zea149ca9",
+   "sez": "viaggi",
+   "titolo": "L'India diventa il primo mercato per Skyscanner, con quasi la metà delle ricerche verso l'estero",
+   "orig": "India Is Now Skyscanner’s Biggest Market, and Nearly Half Its Searches Go Abroad",
+   "lead": "L'India si è affermata come il mercato principale a livello globale per il motore di ricerca di viaggi Skyscanner, con circa la metà delle interrogazioni degli utenti orientata verso destinazioni internazionali. Secondo le analisi della piattaforma, i viaggiatori indiani mostrano un approccio attento e selettivo, rifiutando di prenotare una vacanza solo sulla base della promozione turistica della meta e richiedendo prima di verificare il reale valore dell'offerta economica. Questa dinamica evidenzia una crescente propensione ai viaggi esteri accompagnata da una forte sensibilità ai costi. Lo riferisce Skift.",
+   "more": [
+    "La crescita della classe media in Asia e la diffusione di strumenti digitali di comparazione tariffaria hanno modificato i flussi del turismo internazionale. I viaggiatori utilizzano i motori di ricerca per confrontare voli, alloggi e pacchetti, privilegiando mete che garantiscono standard qualitativi elevati in rapporto alla spesa complessiva del soggiorno all'estero."
+   ],
+   "fonti": [
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/12/india-is-now-skyscanners-biggest-market-and-nearly-half-its-searches-go-abroad/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z98c801ab",
+   "sez": "sport",
+   "titolo": "Daniel Tupou lascia il rugby professionistico dopo quindici anni e quattro titoli con i Roosters",
+   "orig": "'One of the greats': Tupou signs off on Roosters career",
+   "lead": "All'età di 35 anni, Daniel Tupou ha annunciato il proprio ritiro definitivo dalla National Rugby League dopo una carriera professionistica durata quindici stagioni, interamente vissuta con i Sydney Roosters. L'ala ha concluso il proprio percorso sul campo conquistando la vittoria nella finale di campionato disputata domenica contro i Newcastle Knights. Tupou chiude la propria militanza sportiva da leggenda del club, diventando soltanto il sesto giocatore nella storia dei Roosters a vincere quattro titoli e totalizzando 198 mete segnate in 307 partite complessive. Lo riferisce Matangi Tonga.",
+   "more": [
+    "La National Rugby League è il principale campionato professionistico di rugby a tredici in Australasia, noto per l'altissima intensità agonistica e il seguito di pubblico. Giocare l'intera carriera in un unico club di vertice è un traguardo raro, reso ancora più prestigioso dalla conquista di quattro titoli nazionali nel corso di oltre un decennio."
+   ],
+   "fonti": [
+    {
+     "n": "Matangi Tonga",
+     "p": "XX",
+     "c": "Nuku'alofa",
+     "u": "https://matangitonga.to/2026/10/07/one-greats-tupou-signs-roosters-career",
+     "angolo": "",
+     "atlas": "Tonga"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2902735a",
+   "sez": "salute",
+   "titolo": "Gli Stati Uniti mantengono le restrizioni di viaggio sull'Uganda nonostante gli appelli di OMS e Africa CDC",
+   "orig": "Ebola: US maintains travel restrictions on Uganda despite WHO, Africa CDC calls",
+   "lead": "Il governo degli Stati Uniti ha deciso di mantenere in vigore le restrizioni sui viaggi verso l'Uganda legate al virus Ebola, nonostante i ripetuti appelli contrari formulati dall'Organizzazione Mondiale della Sanità e dai Centri africani per il controllo delle malattie. Le autorità di Kampala avevano dichiarato ufficialmente la fine dell'epidemia interna già lo scorso 28 luglio, grazie a tempestive ed efficaci misure di contenimento sanitario. La decisione statunitense di prolungare i controlli sui passeggeri suscita critiche da parte delle organizzazioni sanitarie africane e internazionali. Lo riferisce Daily Monitor.",
+   "more": [
+    "La febbre emorragica da virus Ebola è una patologia grave che richiede misure rigorose di tracciamento e isolamento per essere debellata. Quando un Paese registra un periodo prolungato senza nuovi contagi, l'Organizzazione Mondiale della Sanità ne certifica la conclusione, raccomandando la rimozione delle restrizioni di viaggio per evitare ricadute negative sui collegamenti e sull'economia locale."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/news/national/ebola-us-maintains-travel-restrictions-on-uganda-despite-who-africa-cdc-calls-5629434",
+     "angolo": "",
+     "atlas": "Uganda"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z839a7b77",
+   "sez": "ingegneria",
+   "titolo": "Egis nomina Mark Docherty alla guida della divisione energia per Regno Unito e Irlanda",
+   "orig": "Egis UK & Ireland picks energy director",
+   "lead": "Egis UK & Ireland ha ufficializzato la nomina di Mark Docherty come nuovo direttore della divisione energia, affidandogli un incarico incentrato sullo sviluppo delle reti e sulle tecnologie delle fonti rinnovabili. Docherty entra a far parte del gruppo di ingegneria e consulenza infrastrutturale dopo la precedente esperienza professionale maturata presso la società Arcadis. Con questo ingresso, l'azienda intende rafforzare la propria presenza strategica nel settore della transizione energetica e nella progettazione di soluzioni per il potenziamento dei sistemi elettrici nel Regno Unito e in Irlanda. Lo riferisce Construction Index.",
+   "more": [
+    "Le società di ingegneria civile e infrastrutturale gestiscono progetti complessi legati all'adeguamento delle reti di distribuzione dell'energia elettrica e all'integrazione di impianti rinnovabili. La transizione energetica richiede figure di coordinamento capaci di guidare la pianificazione tecnica e l'espansione dei collegamenti di rete secondo gli standard ambientali e di sicurezza vigenti nel Regno Unito."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/egis-uk-ireland-picks-energy-director",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "za24f5747",
+   "sez": "tech",
+   "titolo": "Tashkent estende il sistema di riconoscimento intelligente delle presenze a oltre trecento scuole",
+   "orig": "“AI Attendance” system and smart cameras to be introduced in 302 more Tashkent schools",
+   "lead": "Il sistema di monitoraggio delle presenze basato sull'intelligenza artificiale denominato SI Davomat sarà introdotto in altre 302 scuole della città di Tashkent. La tecnologia, che impiega telecamere intelligenti per il riconoscimento e la registrazione degli studenti, è stata inizialmente sperimentata con successo in 26 istituti scolastici del distretto di Sergeli, dove sono stati installati complessivamente 446 dispositivi visivi. L'estensione del programma punta ad automatizzare la rilevazione quotidiana delle presenze e a migliorare la gestione della sicurezza all'interno degli edifici scolastici della capitale uzbeka. Lo riferisce Gazeta.uz (inglese).",
+   "more": [
+    "I sistemi di videosorveglianza intelligente integrano algoritmi di visione artificiale in grado di elaborare i flussi video per identificare volti e monitorare accessi in tempo reale. Nelle istituzioni scolastiche, queste soluzioni vengono adottate per ridurre i tempi amministrativi legati all'appello manuale e consentire una verifica immediata degli ingressi e delle uscite dagli edifici."
+   ],
+   "fonti": [
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/11/si-davomat/",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z274f53e6",
+   "sez": "sport",
+   "titolo": "Aduana FC battuto dai Young Apostles, il tecnico Boadu sollecita correttivi immediati",
+   "orig": "GPL 2026/27: ‘We have to rectify our mistakes’ – Boadu reacts to Aduana FC defeat",
+   "lead": "Nel campionato di calcio di massima divisione del Ghana, l'Aduana FC ha visto interrompersi la propria striscia positiva di tre vittorie consecutive in seguito alla sconfitta per 1-0 subita contro i Young Apostles sul campo del Wenchi Sports Stadium. Al termine della partita, l'allenatore Samuel Boadu ha commentato la prestazione della squadra sottolineando l'urgente necessità di correggere gli errori tattici commessi durante l'incontro per riprendere subito la marcia in campionato e mantenere alto il rendimento del gruppo nelle gare future. Lo riferisce MyJoyOnline.",
+   "more": [
+    "La Premier League del Ghana è il massimo torneo calcistico per club del Paese africano, caratterizzato da sfide combattute nei vari stadi regionali. Le formazioni più titolate si confrontano regolarmente per la conquista del titolo nazionale e per l'accesso alle competizioni continentali organizzate dalla Confederazione Africana di Calcio."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/gpl-2026-27-we-have-to-rectify-our-mistakes-boadu-reacts-to-aduana-fc-defeat/",
+     "angolo": "",
+     "atlas": "Ghana"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd3253518",
+   "sez": "cultura",
+   "titolo": "Caroline Margeridon debutta a teatro a Beausoleil: «Un'esperienza meglio di un antidepressivo»",
+   "orig": "« Mieux qu’un antidépresseur » : rendue célèbre par l’émission « Affaire conclue », Caroline Margeridon s’essaye au théâtre à Beausoleil",
+   "lead": "La celebre donna d'affari e volto televisivo francese Caroline Margeridon, resa nota al grande pubblico dalla trasmissione Affaire conclue, debutta come attrice a teatro con uno spettacolo in programma giovedì 15 ottobre a Beausoleil. La rappresentazione andrà in scena alle ore 20 presso il Centre culturel prince Jacques. Margeridon ha descritto con entusiasmo l'esperienza sul palcoscenico definendola migliore di un antidepressivo, affrontando una nuova prova artistica lontana dagli studi televisivi per incontrare direttamente gli spettatori all'interno della sala culturale. Lo riferisce Monaco Matin.",
+   "more": [
+    "Il passaggio dal mondo televisivo e dell'antiquariato a quello del palcoscenico teatrale rappresenta un'esperienza espressiva che richiede confronto diretto con il pubblico dal vivo. Il comune di Beausoleil, situato a ridosso del Principato di Monaco, ospita regolarmente eventi teatrali e rassegne culturali nelle proprie strutture comunali per promuovere le arti sceniche."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/culture/theatre/mieux-qu-un-antidepresseur-rendue-celebre-par-l-emission-affaire-conclue-caroline-margeridon-s-essaye-au-theatre-a-beausoleil-10740053",
+     "angolo": "",
+     "atlas": "Monaco"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf05a61e9",
+   "sez": "economia",
+   "titolo": "Pos e scontrini telematici, l'emersione di base imponibile sale a 13,5 miliardi di euro",
+   "orig": "Pos e registratori telematici per gli scontrini, l’emersione sale a 13,5 miliardi",
+   "lead": "L'adozione dei registratori telematici e dei pagamenti elettronici tramite Pos ha spinto a 13,5 miliardi di euro l'emersione di imponibile fiscale in Italia. Il dato aggiornato a fine settembre è stato illustrato dalla Corte dei conti durante l'audizione parlamentare sul Documento programmatico di finanza pubblica. Nei primi nove mesi dell'anno, la base imponibile registrata è cresciuta del 4,1% rispetto allo stesso periodo del 2025, mentre il volume complessivo dei corrispettivi telematici trasmessi è aumentato dell'1,9%, raggiungendo quota 267,5 milioni di documenti inviati. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "I registratori telematici consentono la trasmissione diretta e giornaliera dei dati fiscali delle vendite all'Agenzia delle Entrate, riducendo le possibilità di evasione sui corrispettivi al minuto. L'integrazione con i pagamenti digitali tramite terminali elettronici favorisce la tracciabilità delle transazioni commerciali, contribuendo alla progressiva emersione di basi imponibili non dichiarate."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/fisco-gli-scontrini-collegati-pos-l-emersione-sale-135-miliardi-AJSAxWhB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zff02d11f",
+   "sez": "ingegneria",
+   "titolo": "Vinci Building avanza nei lavori per il nuovo hub di interscambio trasporti a St Helens",
+   "orig": "Vinci progresses St Helens transport hub",
+   "lead": "L'impresa Vinci Building sta portando avanti i lavori per la realizzazione del nuovo nodo di trasporto intermodale di St Helens, nel Regno Unito. Il progetto infrastrutturale, disegnato dallo studio di architettura Austin-Smith:Lord, viene sviluppato su commissione del St Helens Borough Council in collaborazione con la società ECF. L'intervento prevede la costruzione di un moderno hub destinato a migliorare i collegamenti, ottimizzare i flussi di passeggeri e riqualificare l'intera rete di mobilità pubblica dell'area urbana, rappresentando un'opera strategica per i trasporti locali. Lo riferisce Construction Index.",
+   "more": [
+    "Gli hub di trasporto intermodale integrano autobus, treni e percorsi pedonali o ciclabili all'interno di un'unica struttura progettata per agevolare gli spostamenti dei pendolari. La rigenerazione dei nodi di scambio urbani consente di efficientare i collegamenti tra le città e favorire modelli di mobilità pubblica moderni e accessibili per l'intera comunità."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/vinci-progresses-st-helens-transport-hub",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z59983990",
+   "sez": "tech",
+   "titolo": "Primo smartphone a 11 anni e IA consultata come un genitore: i dati sugli adolescenti italiani",
+   "orig": "Il primo smartphone? A 11 anni. E l’IA è ormai il “terzo genitore” per gli adolescenti italiani",
+   "lead": "In Italia i ragazzi ricevono il loro primo smartphone personale a circa undici anni di età e considerano ormai l'intelligenza artificiale come una sorta di terzo genitore a cui fare costante riferimento. È quanto emerge dall'indagine condotta dall'Osservatorio di Social Warning, che ha coinvolto ventimila studenti delle scuole italiane. Quando si trovano di fronte a un dubbio, gli adolescenti interrogano gli strumenti digitali con una frequenza analoga a quella riservata ai genitori. Inoltre, oltre la metà dei giovani intervistati richiede esplicitamente agli adulti regole più severe sull'uso della tecnologia. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "La diffusione precoce dei dispositivi mobili tra i giovanissimi ha trasformato le abitudini quotidiane e l'accesso alle informazioni. Gli assistenti virtuali e i modelli linguistici generativi fungono sempre più da interlocutori immediati per compiti scolastici e questioni personali, sollevando interrogativi sul ruolo educativo delle famiglie e sulla necessità di percorsi di alfabetizzazione digitale consapevole."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/12/news/il_primo_smartphone_a_11_anni_l_ia_adolescenti_italiani_osservatorio_scientifico_sull_educazione_digitale_di_social_warning-425643191/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1f1da592",
+   "sez": "sport",
+   "titolo": "Il Sud Sudan under 17 supera il Sudan per 3-2 nel torneo zonale CECAFA",
+   "orig": "South Sudan U-17 beat Sudan 3–2 in CECAFA tournament",
+   "lead": "La nazionale under 17 del Sud Sudan ha ottenuto una preziosa vittoria per 3-2 contro i pari età del Sudan nella fase a gironi del torneo zonale CECAFA, riscattando la sconfitta per 1-0 subita contro il Ruanda lo scorso 11 ottobre. Nel corso dell'incontro, la formazione sudsudanese, nota come Young Bright Stars, ha sbloccato il risultato grazie alla rete di Samson Panuel, raddoppiando poi il vantaggio con la marcatura di Mobil A prima di difendere il punteggio finale fino al fischio di chiusura. Lo riferisce Eye Radio.",
+   "more": [
+    "Il torneo zonale organizzato dal CECAFA raccoglie le federazioni calcistiche dell'Africa centrale e orientale ed è cruciale per la crescita dei vivai giovanili dell'area. Le competizioni under 17 permettono ai giovani atleti emergenti di misurarsi sul piano internazionale e fungono da percorso di qualificazione per le massime rassegne continentali giovanili."
+   ],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/south-sudan-u-17-beat-sudan-3-2-in-cecafa-tournament/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-u-17-beat-sudan-3-2-in-cecafa-tournament",
+     "angolo": "",
+     "atlas": "S. Sudan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z625bed43",
+   "sez": "salute",
+   "titolo": "La Sierra Leone avvia colloqui con l'UNECA per riforme sostenibili sui fondi sanitari",
+   "orig": "Health Minister Demby Engages UNECA on Sustainable Health Financing Reforms",
+   "lead": "Il ministro della Sanità della Sierra Leone, Austin Demby, ha tenuto una serie di colloqui istituzionali con una delegazione di alto livello della Commissione economica delle Nazioni Unite per l'Africa per discutere di riforme strutturali sul finanziamento sostenibile del settore sanitario. Durante i colloqui, le parti hanno esaminato strategie per garantire risorse stabili ed eque ai servizi medici pubblici, con l'obiettivo di migliorare la resilienza del sistema nazionale e l'accesso alle cure essenziali per l'intera popolazione sierraleonese attraverso meccanismi economici duraturi. Lo riferisce Sierraloaded.",
+   "more": [
+    "La Commissione economica delle Nazioni Unite per l'Africa, agenzia regionale dell'ONU, affianca i governi africani nell'elaborazione di politiche economiche e sociali. Nei Paesi in via di sviluppo, la costruzione di modelli di finanziamento sanitario indipendenti dalle emergenze e dai soli aiuti esteri è fondamentale per assicurare continuità agli ospedali e alle campagne di prevenzione."
+   ],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/demby-uneca-sustainable-health-financing/",
+     "angolo": "",
+     "atlas": "Sierra Leone"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z054765a3",
+   "sez": "spazio",
+   "titolo": "Il telescopio SPHEREx individua nane brune con atmosfere ricche di acqua e metano",
+   "orig": "SPHEREx spots menagerie of brown dwarfs with atmospheric water and methane",
+   "lead": "Il telescopio spaziale SPHEREx della NASA ha individuato un ampio gruppo di nane brune caratterizzate da atmosfere ricche di acqua e metano, presentando composizioni chimiche simili a quelle dei pianeti giganti del sistema solare. Secondo i risultati di una ricerca pubblicata su The Astrophysical Journal, questi corpi celesti oscuri e coperti di nubi, che occupano una posizione intermedia tra le stelle e gli esopianeti, mostrano atmosfere complesse che offrono dati preziosi per comprendere la chimica e i processi di formazione degli oggetti stellari e planetari. Lo riferisce Phys.org – Spazio.",
+   "more": [
+    "Le nane brune sono corpi celesti con una massa superiore a quella dei pianeti più massicci ma insufficiente per innescare nel loro nucleo la fusione nucleare dell'idrogeno che caratterizza le stelle. Lo studio della loro composizione atmosferica permette agli astronomi di analizzare la presenza di molecole complesse in ambienti freddi situati al confine tra mondi gassosi e astri mancati."
+   ],
+   "fonti": [
+    {
+     "n": "Phys.org – Spazio",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://phys.org/news/2026-10-spherex-menagerie-brown-dwarfs-atmospheric.html",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8dfa409a",
+   "sez": "cultura",
+   "titolo": "A Beausoleil torna il festival dei protagonisti della televisione francese",
+   "orig": "« Il y a une dizaine d’années, regarder “Plus belle la vie” était presque un gros mot » : les stars du petit écran reviennent à Beausoleil pour les « héros de la télé »",
+   "lead": "Dal 14 al 18 ottobre 2026 la quattordicesima edizione della manifestazione dedicata ai volti del piccolo schermo animerà la cittadina di Beausoleil. Nel corso delle cinque giornate, a ingresso completamente gratuito, il pubblico potrà assistere a proiezioni inedite, seguire da vicino le serie televisive francesi e incontrare gli interpreti, celebrando un genere che nel corso degli ultimi dieci anni ha saputo conquistare una rinnovata considerazione culturale e popolare. Lo riferisce Monaco Matin.",
+   "more": [
+    "Beausoleil è un comune francese situato nella regione della Provenza-Alpi-Costa Azzurra, a ridosso del confine con il Principato di Monaco. La cittadina ospita regolarmente iniziative culturali che attirano appassionati e visitatori dalla riviera."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/loisirs/il-y-a-une-dizaine-d-annees-regarder-plus-belle-la-vie-etait-presque-un-gros-mot-les-stars-du-petit-ecran-reviennent-a-beausoleil-pour-les-heros-de-la-tele-10735418",
+     "angolo": "",
+     "atlas": "Monaco"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbc1c9044",
+   "sez": "economia",
+   "titolo": "Riad reagisce ai nuovi lanci di missili houthi mentre i vertici petroliferi disertano il congresso",
+   "orig": "Riyadh defiant as Houthis launch new missile strikes on Saudi Arabia",
+   "lead": "Il governo saudita mantiene una posizione di fermezza dopo i nuovi attacchi missilistici sferrati dal gruppo yemenita degli Houthi contro il territorio dell'Arabia Saudita. Le incursioni contro le infrastrutture aeroportuali hanno però spinto diversi amministratori delegati di grandi compagnie petrolifere internazionali a disertare l'importante congresso sull'energia organizzato nel Paese, gettando ombre sull'evento e sulla sicurezza complessiva del settore energetico regionale. Lo riferisce Financial Times.",
+   "more": [
+    "Gli Houthi sono un gruppo armato dello Yemen impegnato da anni in conflitti regionali e lanci di droni o missili contro obiettivi nella penisola araba. L'Arabia Saudita rappresenta uno dei massimi esportatori mondiali di greggio e il cuore pulsante dei mercati energetici globali."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/ad0b6e93-708c-46c6-a1f2-e6248c934faf?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z342b6bb3",
+   "sez": "ingegneria",
+   "titolo": "Wates Residential guiderà il progetto di rigenerazione urbana a Penrhys",
+   "orig": "Wates wins Penrhys regeneration work",
+   "lead": "L'associazione Trivallis ha nominato Wates Residential come partner di sviluppo per la complessa opera di rigenerazione urbana nell'area di Penrhys, nel distretto di Rhondda Cynon Taf. Il piano di riqualificazione prevede la costruzione di centinaia di nuove abitazioni residenziali, accompagnate dalla realizzazione di strutture dedicate alla comunità locale e da un radicale potenziamento delle infrastrutture di servizio nell'intera zona gallese. Lo riferisce Construction Index.",
+   "more": [
+    "Wates Residential è una divisione del gruppo britannico Wates specializzata nell'edilizia residenziale pubblica e privata, attiva nella trasformazione e riqualificazione di interi quartieri urbani nel Regno Unito."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/wates-wins-penrhys-regeneration-work",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd9f6917b",
+   "sez": "tech",
+   "titolo": "ArtCraft clona i software Adobe con l'intelligenza artificiale creando dodici programmi open source",
+   "orig": "Pacchetto Adobe clonato con l'IA, applicazioni acerbe ma gli sviluppatori dovrebbero preoccuparsi",
+   "lead": "La piattaforma ArtCraft ha reso disponibili alternative open source ai celebri programmi del pacchetto Adobe, raggiungendo un catalogo di dodici applicazioni sviluppate tramite intelligenza artificiale. Sebbene i programmi risultino ancora acerbi, incompleti e soggetti a forti limitazioni funzionali, le modalità della loro creazione rappresentano un segnale d'allarme per gli sviluppatori e delineano possibili trasformazioni nell'evoluzione futura dell'industria del software. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "Adobe è una delle aziende leader a livello mondiale nello sviluppo di programmi dedicati alla grafica digitale, al montaggio video e al fotoritocco, distribuiti prevalentemente su licenza commerciale. Il software open source prevede invece la libera consultazione e modifica del codice sorgente."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/12/news/pacchetto_adobe_ia_applicazioni_sviluppatori-425642732/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z73f44727",
+   "sez": "viaggi",
+   "titolo": "Relais & Châteaux lancia la piattaforma MyImpact per monitorare la sostenibilità",
+   "orig": "Relais & Châteaux: obiettivo sostenibilità. Presentata MyImpact",
+   "lead": "L'associazione alberghiera Relais & Châteaux ha presentato MyImpact, un nuovo strumento digitale ideato per supportare le dimore associate nella trasformazione degli impegni ecologici in interventi concreti e verificabili. La piattaforma parte dall'analisi accurata dell'impronta di carbonio di ciascuna struttura e applica una metodologia condivisa a livello internazionale, formulando raccomandazioni su misura per rendere più sostenibile la gestione delle singole proprietà ricettive. Lo riferisce Travel Quotidiano.",
+   "more": [
+    "Relais & Châteaux è una prestigiosa associazione internazionale che riunisce alberghi di charme e ristoranti gourmet indipendenti, contraddistinti da elevati standard di ospitalità, gastronomia d'eccellenza e legame con il territorio."
+   ],
+   "fonti": [
+    {
+     "n": "Travel Quotidiano",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.travelquotidiano.com/hospitality/relais-chateaux-obiettivo-sostenibilita-con-myimpact/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z46f7b14d",
+   "sez": "mondo",
+   "titolo": "In Gambia Bensouda accusa il presidente Barrow di usare il tour di Stato per fini elettorali",
+   "orig": "Bensouda accuses Barrow of turning presidential tour into political attacks",
+   "lead": "Talib Ahmed Bensouda, sindaco di Kanifing e candidato presidenziale per la coalizione dell'opposizione, ha denunciato il capo di Stato Adama Barrow per la gestione del tour istituzionale nel Paese. Secondo l'esponente politico, intervenuto a un raduno a Medina Sering Mass, il viaggio governativo, destinato ufficialmente al dialogo con agricoltori e comunità rurali, verrebbe strumentalizzato per attaccare i rivali politici anziché affrontare i problemi concreti dei cittadini. Lo riferisce The Point.",
+   "more": [
+    "Il Gambia è una repubblica dell'Africa occidentale affacciata sull'oceano Atlantico. I viaggi del presidente nelle province interne rappresentano tradizionalmente un momento di confronto istituzionale tra il governo centrale e le comunità rurali."
+   ],
+   "fonti": [
+    {
+     "n": "The Point",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://thepoint.gm/africa/gambia/headlines/bensouda-accuses-barrow-of-turning-presidential-tour-into-political-attacks",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9309dbd1",
+   "sez": "salute",
+   "titolo": "Caraibi, aumento delle diagnosi di sclerosi multipla ed esortazioni a cure tempestive",
+   "orig": "Rise in MS diagnosis drives call for early care",
+   "lead": "I medici nei Caraibi segnalano un incremento delle diagnosi di sclerosi multipla nella popolazione locale, una tendenza legata a una maggiore consapevolezza sanitaria, visite mediche più tempestive e accessi più rapidi alle visite specialistiche. Di fronte a questo quadro clinico in espansione, la comunità medica ha rinnovato l'appello a garantire percorsi di presa in carico precoce per gestire meglio il decorso della patologia. Lo riferisce Barbados Today.",
+   "more": [
+    "La sclerosi multipla è una malattia neurodegenerativa che colpisce il sistema nervoso centrale. Diagnosticarla nelle fasi iniziali consente di adottare terapie capaci di rallentare la progressione dei disturbi e migliorare la qualità della vita dei pazienti."
+   ],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/11/rise-in-ms-diagnosis-drives-call-for-early-care/",
+     "angolo": "",
+     "atlas": "Barbados"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2501453f",
+   "sez": "cultura",
+   "titolo": "Il lungometraggio andorrano 11 debutta in concorso al Festival di Sitges",
+   "orig": "Pau Riera i David de Haro: “Colar-nos a Sitges era l’objectiu, però ara que ja hi som ens toca somiar”",
+   "lead": "I registi Pau Riera e David de Haro hanno espresso la propria soddisfazione per la selezione dell'opera intitolata 11 al celebre festival cinematografico catalano. La pellicola rappresenta il primo lungometraggio realizzato con una coproduzione andorrana, firmata dalla società Contraban, a gareggiare all'interno della sezione ufficiale della rassegna, trasformando un traguardo iniziale in un'opportunità di riconoscimento internazionale per la cinematografia del piccolo Stato pirenaico. Lo riferisce Bondia.",
+   "more": [
+    "Il Festival internazionale del cinema fantastico di Sitges, in Catalogna, è una delle più rinomate manifestazioni mondiali dedicate al cinema di genere, fantastico e horror, con proiezioni e concorsi ufficiali di rilievo globale."
+   ],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/cultura/pau-riera-i-david-de-haro-colar-nos-a-sitges-era-l-objectiu-pero-ara-que-ja-hi-som-ens-toca-somiar",
+     "angolo": "",
+     "atlas": "Andorra"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z10917a54",
+   "sez": "ingegneria",
+   "titolo": "Stati Uniti, i responsabili dei trasporti puntano sul supporto locale per potenziare i progetti",
+   "orig": "Transit Leaders Look to Local Support to Bolster Programs",
+   "lead": "Durante la conferenza annuale della American Public Transportation Association i dirigenti del trasporto pubblico hanno discusso le strategie per rafforzare i programmi infrastrutturali. Tra i temi centrali emersi nel confronto figurano l'utilizzo di consultazioni e referendum locali per ottenere finanziamenti, affiancati a piani di riorganizzazione e rinnovamento interno delle agenzie di trasporto, necessari per rispondere alle crescenti esigenze di mobilità delle comunità. Lo riferisce Engineering News-Record.",
+   "more": [
+    "L'APTA è l'associazione di categoria nordamericana che raggruppa operatori del trasporto pubblico, progettisti e costruttori, impegnata nella promozione e nello sviluppo di reti ferroviarie, tranviarie e di autobus."
+   ],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/63890-transit-leaders-look-to-local-support-to-bolster-programs",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf8749807",
+   "sez": "tech",
+   "titolo": "Google rende accessibile SynthID Detector per individuare i file generati con l'intelligenza artificiale",
+   "orig": "Google lancia SynthID Detector per scovare i contenuti creati dalle IA",
+   "lead": "Google ha aperto a tutti gli utenti un portale online concepito per identificare le impronte digitali incorporate nei contenuti audiovisivi creati tramite modelli di intelligenza artificiale. Lo strumento si basa sulla tecnologia SynthID, un sistema impiegato anche da OpenAI e Anthropic per applicare marcature invisibili su testi, immagini, video e file audio, consentendo al pubblico di verificare con facilità l'origine sintetica dei materiali multimediali. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "SynthID è una tecnologia di watermarking digitale che inserisce segnali impercettibili nei file generati artificialmente, permettendo ai software di tracciarne l'origine senza degradare la qualità visiva o sonora dell'opera."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/12/news/google_synthid_detector_contenuti_ia-425642642/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1e6992e8",
+   "sez": "viaggi",
+   "titolo": "Italo e Itabus ampliano i collegamenti invernali verso le località montane e Parma",
+   "orig": "L’intermodalità Italo-Itabus si allarga: focus montagna e novità Parma",
+   "lead": "Nuovi servizi intermodali collegheranno Parma alla rete dell'Alta Velocità ferroviaria e garantiranno corse verso Cortina d'Ampezzo, Courmayeur e Aosta in vista della stagione invernale. L'accordo tra la compagnia ferroviaria Italo e i bus Itabus offre la possibilità di acquistare un unico biglietto integrato treno-bus per raggiungere le mete alpine, con due collegamenti dedicati alla tratta verso Cortina in coincidenza con i convogli ad alta velocità. Lo riferisce Travel Quotidiano.",
+   "more": [
+    "L'intermodalità nel trasporto passeggeri consente di combinare diverse modalità di viaggio, come treno e autobus, con orari coordinati e titoli di viaggio unici, semplificando gli spostamenti verso destinazioni prive di stazioni ferroviarie dirette."
+   ],
+   "fonti": [
+    {
+     "n": "Travel Quotidiano",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.travelquotidiano.com/trasporti/lintermodalita-italo-itabus-si-allarga-focus-montagna-e-novita-parma/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z00205986",
+   "sez": "salute",
+   "titolo": "A Barbados la Commissione per la salute mentale lancia la campagna nazionale This Is Me",
+   "orig": "National campaign on World Mental Health Day",
+   "lead": "In occasione della Giornata mondiale della salute mentale, la National Mental Health Commission ha avviato sull'isola di Barbados la campagna pubblica intitolata This Is Me. L'iniziativa nazionale è stata costruita raccogliendo e valorizzando le esperienze dirette e i vissuti autentici dei cittadini locali, con l'obiettivo di sensibilizzare l'opinione pubblica, ridurre lo stigma e promuovere un supporto concreto sul piano del benessere psicologico. Lo riferisce Barbados Today.",
+   "more": [
+    "La Giornata mondiale della salute mentale si celebra a livello internazionale per promuovere la tutela del benessere psicologico e favorire investimenti nei servizi di assistenza e prevenzione dei disturbi emotivi e comportamentali."
+   ],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/10/national-campaign-on-world-mental-health-day/",
+     "angolo": "",
+     "atlas": "Barbados"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9f491165",
+   "sez": "sport",
+   "titolo": "Saint Lucia, la doppietta di Reggie proietta il Dennery in vetta al campionato semiprofessionistico",
+   "orig": "Reggie fires Dennery to the top of SPFL",
+   "lead": "Dopo essere rientrato dagli impegni con la propria selezione internazionale, il calciatore Garvin Reggie ha realizzato due reti nel finale guidando il Dennery alla vittoria in rimonta contro i campioni in carica del La Clery. Il successo, maturato al Soufriere Stadium nella dodicesima giornata dopo uno svantaggio iniziale di due reti, spinge la squadra in cima alla classifica della prima serie del torneo calcistico di Saint Lucia. Lo riferisce St. Lucia Times.",
+   "more": [
+    "La Semi-Professional Football League rappresenta la massima competizione calcistica per club a Saint Lucia, articolata in divisioni con formazioni provenienti dai vari distretti dell'isola caraibica."
+   ],
+   "fonti": [
+    {
+     "n": "St. Lucia Times",
+     "p": "XX",
+     "c": "Castries",
+     "u": "https://stluciatimes.com/184871/2026/10/reggie-fires-dennery-to-the-top-of-spfl/",
+     "angolo": "",
+     "atlas": "Saint Lucia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3947ccdf",
+   "sez": "cultura",
+   "titolo": "La Seu d'Urgell, proposta per trasformare il cinema Guiu in spazio teatrale comunale",
+   "orig": "El Broadway del Pirineu",
+   "lead": "Un intervento editoriale riflette sul futuro culturale della Seu d'Urgell, suggerendo di evitare la chiusura definitiva del cinema Guiu per convertirlo in una grande struttura pubblica dedicata a spettacoli cinematografici e teatrali. Nelle intenzioni prospettate, la sala potrebbe lavorare in sinergia con lo spazio L'Única, dando vita a un polo di riferimento per le arti sceniche nei Pirenei e scongiurando l'abbandono dell'attività. Lo riferisce Bondia.",
+   "more": [
+    "La Seu d'Urgell è una cittadina spagnola situata in Catalogna, vicino al principato di Andorra, nota per il suo patrimonio storico e come centro di servizi e cultura per le valli pirenaiche."
+   ],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/opinio/el-broadway-del-pirineu",
+     "angolo": "",
+     "atlas": "Andorra"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a901141",
+   "sez": "spazio",
+   "titolo": "L'astrofisica saluta l'archivio ADS della NASA in vista della transizione a nuovi sistemi",
+   "orig": "Farewell NASA ADS",
+   "lead": "La rivista Nature Astronomy segna il congedo dal servizio bibliografico NASA Astrophysics Data System (ADS), una piattaforma che per decenni ha costituito il punto di riferimento informativo primario per ricercatori, astronomi e fisici di tutto il mondo. Il passaggio segna la conclusione di un'era per la gestione della documentazione scientifica e introduce una nuova fase nella catalogazione dei dati astrofisici internazionali. Lo riferisce Nature Astronomy.",
+   "more": [
+    "Il NASA ADS è un database digitale gestito dall'agenzia spaziale statunitense che raccoglie milioni di pubblicazioni peer-reviewed in astronomia, astrofisica e fisica, fondamentale per la ricerca accademica mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Astronomy",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41550-026-03009-y",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb964bca6",
+   "sez": "economia",
+   "titolo": "La carenza di gasolio mette alla prova la globalizzazione e la sicurezza energetica collettiva",
+   "orig": "The diesel crisis is testing the limits of globalisation",
+   "lead": "La crisi globale nelle forniture di carburante diesel sta evidenziando i limiti e le fragilità dell'interconnessione economica internazionale. Le decisioni di politica interna adottate dai singoli governi, sebbene razionali dal punto di vista nazionale, rischiano di compromettere la sicurezza energetica comune e di accelerare la frammentazione del mercato globale delle materie prime, acuendo le difficoltà nel trasporto merci e nelle catene industriali. Lo riferisce Financial Times.",
+   "more": [
+    "Il gasolio è il carburante cardine per la logistica mondiale, il trasporto su gomma, il trasporto marittimo e l'operatività dei macchinari agricoli e industriali, rendendolo un indicatore cruciale dello stato di salute dell'economia."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/076b9c64-d041-42f0-9abc-d7be75db9307",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbb2649d4",
+   "sez": "ingegneria",
+   "titolo": "Un volume di Todd Thomas analizza la gestione degli scarti per innovare l'edilizia",
+   "orig": "‘Starving for Innovation’ Finds Lessons in Construction's Waste",
+   "lead": "Nel saggio intitolato Starving for Innovation, il cofondatore della startup Woodchuck Todd Thomas analizza i successi e i fallimenti del comparto edilizio per indicare alle aziende come trasformare le nuove tecnologie in soluzioni operative concrete. L'autore si sofferma sull'ottimizzazione dei processi e sulla riduzione degli sprechi nel settore delle costruzioni, proponendo modelli pratici per superare le inefficienze storiche che caratterizzano i cantieri. Lo riferisce Engineering News-Record.",
+   "more": [
+    "La gestione dei rifiuti da costruzione e demolizione e l'ottimizzazione dei materiali sono elementi chiave dell'ingegneria edile contemporanea, volti a migliorare la sostenibilità economica e l'impatto ambientale dei cantieri."
+   ],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/63870-starving-for-innovation-finds-lessons-in-constructions-waste",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zed7ce264",
+   "sez": "viaggi",
+   "titolo": "Caldana Europe Travel svela il catalogo Magia d'inverno per le festività e l'inizio del 2027",
+   "orig": "Caldana Europe Travel propone la “Magia d’inverno”",
+   "lead": "L'operatore turistico Caldana Europe Travel ha lanciato il nuovo opuscolo d'itinerari Magia d'inverno 2026-2027, studiato per guidare i viaggiatori alla scoperta dei luoghi più suggestivi in Italia e nel continente europeo durante la stagione fredda. L'offerta comprende viaggi organizzati attorno ai mercatini di Natale, al ponte dell'Immacolata, al Capodanno, all'Epifania e al periodo di San Valentino, valorizzando le atmosfere tipiche del turismo invernale. Lo riferisce Travel Quotidiano.",
+   "more": [
+    "I viaggi legati ai mercatini di Natale e alle festività invernali costituiscono un segmento consolidato del turismo europeo, particolarmente orientato verso mete ricche di tradizioni artigianali, centri storici montani e capitali d'arte."
+   ],
+   "fonti": [
+    {
+     "n": "Travel Quotidiano",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.travelquotidiano.com/tour_operator/caldana-europe-travel-propone-la-magia-dinverno/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z55edeb31",
+   "sez": "salute",
+   "titolo": "Bahamas, allarme cadmio nelle mangrovie di Grand Bahama con valori 700 volte oltre la soglia",
+   "orig": "Cancer concern over poison in mangroves",
+   "lead": "La presenza elevatissima di cadmio, un metallo tossico associato a gravi patologie oncologiche, è stata rilevata nei sedimenti delle mangrovie a East Grand Bahama da un team dell'Università delle Bahamas. I test hanno fatto emergere concentrazioni superiori di oltre settecento volte rispetto al livello di riferimento scientifico, spingendo gli esperti a richiedere misure sanitarie urgenti a tutela della popolazione locale nei pressi delle zone inquinate. Lo riferisce The Tribune (Bahamas).",
+   "more": [
+    "Le foreste di mangrovie sono ecosistemi costieri di straordinaria importanza ecologica, capaci di proteggere le coste dall'erosione, ma vulnerabili all'accumulo di inquinanti industriali e metalli pesanti come il cadmio."
+   ],
+   "fonti": [
+    {
+     "n": "The Tribune (Bahamas)",
+     "p": "XX",
+     "c": "Nassau",
+     "u": "https://tribune242.com/news/2026/oct/09/cancer-concern-over-poison-in-mangroves/",
+     "angolo": "",
+     "atlas": "Bahamas"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z13fc8653",
+   "sez": "sport",
+   "titolo": "Cricket, le Indie Occidentali cedono per quattordici run contro l'India a Indore",
+   "orig": "Windies fall 14 runs short vs India at Indore",
+   "lead": "La selezione delle Indie Occidentali è stata battuta dall'India all'Holkar Stadium di Indore, portando la serie di cinque sfide internazionali di T20 sul parziale di 2-1 a favore dei padroni di casa. La formazione caraibica, scesa in campo con gli innesti di Keemo Paul e Quentin Sampson al posto di Shamar Springer e Romario Shepherd, si è fermata a quattordici run di distanza dall'obiettivo al termine della gara. Lo riferisce St. Lucia Times.",
+   "more": [
+    "Il Twenty20 (T20) è una variante rapida e spettacolare del cricket in cui ciascuna squadra ha a disposizione una singola frazione di venti over per realizzare il maggior punteggio possibile di run."
+   ],
+   "fonti": [
+    {
+     "n": "St. Lucia Times",
+     "p": "XX",
+     "c": "Castries",
+     "u": "https://stluciatimes.com/184852/2026/10/windies-fall-14-runs-short-vs-india-at-indore/",
+     "angolo": "",
+     "atlas": "Saint Lucia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfed4b068",
+   "sez": "mondo",
+   "titolo": "Capo Verde, la giovane Lauryn Rose Teixeira candidata al Premio Internazionale della Pace dei Bambini",
+   "orig": "​Lauryn Rose Teixeira nomeada para Prémio Internacional da Paz das Crianças 2026",
+   "lead": "L'attivista Lauryn Rose Teixeira ha ricevuto la candidatura per l'edizione 2026 dell'International Children's Peace Prize, promosso dalla fondazione olandese KidsRights per onorare i minori impegnati nella tutela dei diritti umani e nella giustizia sociale. Il riconoscimento, assegnato in passato a figure come Malala Yousafzai e Greta Thunberg, premia il lavoro della giovane nel contrasto al razzismo, nella diffusione della diversità nella letteratura infantile e nella difesa dell'infanzia. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "Il Premio Internazionale della Pace dei Bambini viene assegnato annualmente dall'organizzazione KidsRights con sede nei Paesi Bassi per dare risalto a iniziative guidate da giovanissimi a sostegno dei diritti fondamentali."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/cultura/2026/10/12/lauryn-rose-teixeira-nomeada-para-premio-internacional-da-paz-das-criancas-2026/105056",
+     "angolo": "",
+     "atlas": "Cabo Verde"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z386166b4",
+   "sez": "spazio",
+   "titolo": "La comunità scientifica prepara la transizione dal portale ADS al nuovo sistema SciX",
+   "orig": "Transitioning from ADS to SciX to serve twenty-first century astronomy",
+   "lead": "L'editoriale di Nature Astronomy illustra l'evoluzione dei servizi informativi per la ricerca scientifica attraverso il passaggio dallo storico portale Astrophysics Data System (ADS) alla piattaforma SciX. La transizione punta a soddisfare i requisiti moderni dell'astronomia del ventunesimo secolo, ampliando l'accesso alla letteratura, facilitando la consultazione incrociata dei dati scientifici e rinnovando gli strumenti informatici a disposizione degli astronomi a livello internazionale. Lo riferisce Nature Astronomy.",
+   "more": [
+    "SciX è la nuova infrastruttura informativa sviluppata per espandere il raggio d'azione del database ADS della NASA, integrando discipline scientifiche affini e migliorando la ricerca semantica delle pubblicazioni universitarie."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Astronomy",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41550-026-02997-1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1f63b4ea",
+   "sez": "economia",
+   "titolo": "Trump pianifica acquisti di diesel russo ed esercita pressioni su Kiev affinché fermi gli attacchi alle raffinerie",
+   "orig": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
+   "lead": "Il presidente Donald Trump si sta muovendo per acquistare gasolio dalla Russia, esercitando al contempo pressioni sull'Ucraina affinché sospenda le offensive con droni contro gli impianti di raffinazione di Mosca. Le decisioni dell'amministrazione statunitense rischiano di incidere pesantemente sul confronto bellico, intervenendo direttamente sul flusso di entrate petrolifere che costituisce una risorsa vitale per l'apparato militare della Federazione Russa. Lo riferisce The New York Times.",
+   "more": [
+    "Le raffinerie russe sono state bersaglio ricorrente di raid ucraini volti a ridurre la produzione interna di carburanti e tagliare i proventi energetici che alimentano il bilancio dello Stato e le operazioni militari."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z46edd1c4",
+   "sez": "ingegneria",
+   "titolo": "Riad, raid aerei danneggiano i terminal nel cantiere da sette miliardi per l'aeroporto",
+   "orig": "Riyadh Airport Attacks Damage Terminals at $7.2B Expansion Site",
+   "lead": "Una serie di ripetuti attacchi ha colpito l'aeroporto internazionale di Riad provocando danni ai terminal all'interno dell'area in cui è in corso il progetto di ampliamento da 7,2 miliardi di dollari. L'incursione ha seguito le recenti opere per la realizzazione di una terza pista di atterraggio e di nuove strutture di accoglienza, mettendo a repentaglio la prosecuzione dei cantieri strategici dello scalo della capitale saudita. Lo riferisce Engineering News-Record.",
+   "more": [
+    "Il massiccio ampliamento degli aeroporti sauditi costituisce una componente essenziale dei piani di modernizzazione infrastrutturale del Paese, mirati a raddoppiare la capacità di traffico aereo passeggeri e merci."
+   ],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/63869-riyadh-airport-attacks-damage-terminals-at-72b-expansion-site",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd5d2306f",
+   "sez": "tech",
+   "titolo": "Midnight Mimosa, scoperto malware preinstallato su smartphone Android economici con molti casi in Italia",
+   "orig": "Midnight Mimosa, il malware preinstallato su alcuni smartphone Android che colpisce anche l’Italia",
+   "lead": "Un'indagine di sicurezza condotta da Bitdefender ha portato alla luce Midnight Mimosa, un codice malevolo integrato prima della vendita nel software di diversi dispositivi mobili Android a basso costo. Il sistema nascosto genera truffe pubblicitarie e può sfruttare la connessione dati dell'utente per operazioni controllate da remoto. Tra le nazioni più colpite dall'infezione figura anche l'Italia, che registra un alto numero di riscontri. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "I malware preinstallati nei firmware dei telefoni rappresentano una minaccia complessa perché operano con privilegi di sistema avanzati, rendendo difficile la loro individuazione ed eliminazione da parte dei comuni programmi antivirus."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/12/news/midnight_mimosa_malware_android_anche_l_italia-425642519/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6950c019",
+   "sez": "viaggi",
+   "titolo": "L'Ente del turismo giapponese sarà presente con un'area tematica a Lucca Comics",
+   "orig": "Giappone: l’ente del turismo partecipa alla 60esima edizione di Lucca Comics & Games",
+   "lead": "La delegazione ufficiale dell'Ente nazionale del turismo del Giappone prenderà parte alla sessantesima edizione del festival Lucca Comics & Games, programmata dal 28 ottobre al 1° novembre 2026. La sede dell'ente troverà spazio all'interno di Japan Town presso il Polo Fiere di Lucca, dove i visitatori della fiera potranno scoprire mete, tradizioni e percorsi di viaggio per esplorare il Paese asiatico attraverso la cultura contemporanea. Lo riferisce Travel Quotidiano.",
+   "more": [
+    "Japan Town è l'area tematica allestita nell'ambito del festival toscano per celebrare la cultura, l'enogastronomia e l'artigianato nipponico, punto di ritrovo per gli appassionati di viaggi verso l'arcipelago asiatico."
+   ],
+   "fonti": [
+    {
+     "n": "Travel Quotidiano",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.travelquotidiano.com/estero/giappone-lente-del-turismo-partecipa-alla-60esima-edizione-di-lucca-comics-games/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/12/news/graphic_novel_achille__kipi__i_disconnessi_di_m1rc__mario_moroni_fumetto-425642636/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf72e9f5f",
+   "sez": "sport",
+   "titolo": "Cricket, i Beausejour Gladiators superano i Sunrisers nel torneo T20 a Gros Islet",
+   "orig": "Chicot 50 leads Gladiators past Sunrisers in Gros Islet",
+   "lead": "Nel torneo Gros Islet Battle of the Knights T20 andato in scena ai Francis Baba Lastic Grounds, i Beausejour Gladiators hanno sconfitto i Fort Rodney Sunrisers per quattro wicket con ventidue lanci rimanenti. Dopo alcune difficoltà nella fase iniziale di battuta, la squadra ha conquistato il successo grazie alla brillante prestazione del vicecapitano Tyrel Chicot, premiato come miglior giocatore dell'incontro per il suo decisivo contributo su entrambi i fronti del gioco. Lo riferisce St. Lucia Times.",
+   "more": [
+    "Il formato T20 premia la reattività e la rapidità dei giocatori, e nei tornei locali caraibici rappresenta una delle formule più diffuse per mettere in mostra talenti sportivi e attrarre le comunità isolane."
+   ],
+   "fonti": [
+    {
+     "n": "St. Lucia Times",
+     "p": "XX",
+     "c": "Castries",
+     "u": "https://stluciatimes.com/184843/2026/10/chicot-50-leads-gladiators-past-sunrisers-in-gros-islet/",
+     "angolo": "",
+     "atlas": "Saint Lucia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc39d5dad",
+   "sez": "cultura",
+   "titolo": "Ilza Amado Vaz riceve il Premio Speciale Lusofonia",
+   "orig": "Ilza Amado Vaz galardoada com o Prémio Especial Lusofonia",
+   "lead": "Ilza Amado Vaz è stata insignita del prestigioso Premio Speciale Lusofonia 2026, un riconoscimento che l'interessata ha accolto manifestando profonda commozione, gratitudine e un marcato senso di responsabilità. Nel ringraziare l'amministrazione del gala e la giuria per il premio, la vincitrice ha sottolineato di considerare questa distinzione soprattutto come un omaggio rivolto a São Tomé e Príncipe, alla sua popolazione e a tutte le persone impegnate nel servizio pubblico e nella promozione del bene comune. Lo riferisce Téla Nón.",
+   "more": [
+    "Il concetto di lusofonia riunisce la vasta comunità di popoli e culture accomunati dall'uso della lingua portoghese, diffusa storicamente attraverso diversi continenti. I riconoscimenti legati a quest'ambito mirano a celebrare le personalità che contribuiscono a rafforzare i legami culturali, istituzionali e sociali tra le nazioni dell'area."
+   ],
+   "fonti": [
+    {
+     "n": "Téla Nón",
+     "p": "XX",
+     "c": "São Tomé",
+     "u": "https://www.telanon.info/politica/2026/10/12/54538/ilza-amado-vaz-galardoada-com-o-premio-especial-lusofonia/",
+     "angolo": "",
+     "atlas": "São Tomé and Principe"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z18e4c65d",
+   "sez": "salute",
+   "titolo": "Tunisia, aperto il dibattito sulle società di esercizio professionale medico",
+   "orig": "Promouvoir les sociétés d’exercice libéral médical en Tunisie",
+   "lead": "In Tunisia si fa strada la proposta di introdurre e promuovere le società di esercizio liberale per i medici, una tipologia societaria attualmente priva di uno specifico quadro giuridico nazionale. L'assenza di norme dedicate a questo modello di associazione tra professionisti della sanità privata evidenzia la necessità di colmare una lacuna normativa, consentendo agli operatori sanitari di organizzare al meglio le proprie strutture e le proprie prestazioni sul territorio. Lo riferisce Kapitalis.",
+   "more": [
+    "Le società per l'esercizio delle professioni liberali rappresentano forme giuridiche che consentono a specialisti e professionisti sanitari di associarsi mantenendo autonomia deontologica e condividendo costi gestionali e infrastrutture operative, migliorando l'efficienza dei servizi erogati alla cittadinanza."
+   ],
+   "fonti": [
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/12/promouvoir-les-societes-dexercice-liberal-medical-en-tunisie/",
+     "angolo": "",
+     "atlas": "Tunisia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf3cda75e",
+   "sez": "spazio",
+   "titolo": "L'astrofisica promuove il trasferimento tecnologico verso l'industria",
+   "orig": "Fostering a culture of technology transfer in astrophysics",
+   "lead": "La comunità scientifica internazionale riflette sull'importanza di incoraggiare e consolidare una cultura del trasferimento tecnologico nel settore dell'astrofisica. Lo sviluppo di strumentazioni e metodologie avanzate create per l'osservazione del cosmo offre opportunità rilevanti per applicazioni pratiche in altri settori industriali e scientifici, ma richiede percorsi strutturati che favoriscano la condivisione delle scoperte e il dialogo costante tra i laboratori di ricerca astronomica e le imprese del comparto tecnologico. Lo riferisce Nature Astronomy.",
+   "more": [
+    "La ricerca astrofisica necessita di rilevatori, sensori e sistemi computazionali all'avanguardia per catturare segnali celesti debolissimi. Spesso tali innovazioni trovano impieghi imprevisti nella tecnologia quotidiana, dalle telecomunicazioni alla diagnostica per immagini."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Astronomy",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41550-026-02994-4",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb35e1929",
+   "sez": "economia",
+   "titolo": "Critiche a Trump per l'intesa sul diesel russo e gli attacchi a Zelensky",
+   "orig": "Trump’s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad",
+   "lead": "Le recenti dichiarazioni di Donald Trump contro il presidente ucraino Volodymyr Zelensky e le intese energetiche relative al diesel russo hanno scatenato forti polemiche sia all'estero sia all'interno degli Stati Uniti. Anche diversi esponenti del Partito Repubblicano hanno espresso netta contrarietà verso la linea adottata dall'ex presidente, con il senatore Thom Tillis che ha apertamente affermato come esistano validi presupposti per ritenere che Trump non stia rispettando il quadro normativo vigente. Lo riferisce The Washington Post.",
+   "more": [
+    "I mercati energetici globali rimangono fortemente sensibili alle forniture e ai flussi commerciali di idrocarburi russi, sottoposti a complesse sanzioni internazionali a seguito del conflitto in Ucraina per limitare le entrate finanziarie di Mosca."
+   ],
+   "fonti": [
+    {
+     "n": "The Washington Post",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.washingtonpost.com/world/2026/10/11/trumps-zelensky-attack-russia-diesel-deal-draw-criticism-us-abroad/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9963e319",
+   "sez": "ingegneria",
+   "titolo": "Boston progetta il primo monumento permanente ai nativi americani",
+   "orig": "Boston Plans First Permanent Indigenous Monument",
+   "lead": "La città di Boston ha avviato i piani per la realizzazione del suo primo monumento permanente dedicato alle popolazioni indigene, un'opera dal valore stimato di circa due milioni di dollari. Il progetto viene curato dallo studio SmokeSygnals, con sede a Mashpee in Massachusetts, in stretta collaborazione con la Wampanoag Consulting Alliance e con l'amministrazione municipale di Boston, con l'obiettivo di onorare la memoria e il retaggio culturale delle comunità autoctone locali. Lo riferisce Engineering News-Record.",
+   "more": [
+    "La progettazione di monumenti pubblici e installazioni commemorative richiede studi ingegneristici e architettonici mirati all'integrazione urbanistica, alla durevolezza dei materiali e alla salvaguardia del significato storico per le comunità coinvolte."
+   ],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/63868-boston-plans-first-permanent-indigenous-monument",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0fd4028f",
+   "sez": "tech",
+   "titolo": "A 24 anni insegna alle macchine a decifrare gli odori",
+   "orig": "Alistair Pernigo, 24 anni. Vuole insegnare alle macchine a sentire gli odori",
+   "lead": "Alistair Pernigo, ventiquattrenne che aveva lasciato gli studi scolastici a diciotto anni con la sola licenza media, è attualmente Research Affiliate presso il rinomato MIT Media Lab e cofondatore della startup Timeless Way. La sua impresa si occupa dello sviluppo di sensori specializzati e algoritmi di intelligenza artificiale pensati per digitalizzare e riconoscere gli odori. Il percorso professionale del giovane è iniziato dopo una bocciatura in chimica e punta ora a innovare la percezione olfattiva computerizzata. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "L'olfatto artificiale sfrutta array di sensori chimici capaci di interagire con molecole volatili, i cui segnali vengono poi analizzati da modelli informatici per classificare le impronte odorose in modo simile al naso biologico."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/12/news/alistair_pernigo_24_anni_vuole_insegnare_alle_macchine_a_sentire_gli_odori_timeless_way_startup-425642352/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf8784ab6",
+   "sez": "sport",
+   "titolo": "A Grenada parte il torneo di calcio per le scuole primarie",
+   "orig": "GFA and Beacon Insurance launch nationwide Primary Schools Football Championships",
+   "lead": "La Grenada Football Association e Beacon Insurance hanno presentato ufficialmente il campionato nazionale di calcio destinato agli alunni delle scuole primarie dell'isola. La manifestazione coinvolge oltre cinquanta istituti scolastici ed è aperta a formazioni maschili e femminili, con l'intento dichiarato di consolidare il percorso sportivo che porta dalla pratica nelle aule scolastiche allo sviluppo giovanile d'élite nel panorama calcistico locale. Lo riferisce NOW Grenada.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOW Grenada",
+     "p": "XX",
+     "c": "St. George's",
+     "u": "https://nowgrenada.com/2026/10/gfa-and-beacon-insurance-launch-nationwide-primary-schools-football-championships/",
+     "angolo": "",
+     "atlas": "Grenada"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2b3d6058",
+   "sez": "cultura",
+   "titolo": "Al via a Praia la seconda edizione del festival cinematografico Kafuka",
+   "orig": "Praia: Segunda edição do Kafuka African Film Festival arranca esta quinta-feira",
+   "lead": "Prende il via giovedì 15 e proseguirà fino al 18 la seconda edizione del Kafuka African Film Festival nella città di Praia, capitale di Capo Verde. Ospitata presso il TeckPark, la rassegna celebra la figura storica di Amílcar Cabral e rende omaggio al cinema del continente africano, accogliendo registi internazionali, pellicole già presentate in importanti rassegne estere, momenti di dibattito, conferenze, masterclass e laboratori formativi aperti a partecipanti e appassionati. Lo riferisce A Nação.",
+   "more": [
+    "Amílcar Cabral è stato un teorico e leader politico di rilievo nella lotta per l'indipendenza di Capo Verde e della Guinea-Bissau, la cui memoria storica continua a ispirare iniziative artistiche e cinematografiche in tutta la regione africana."
+   ],
+   "fonti": [
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/12/praia-segunda-edicao-do-kafuka-african-film-festival-arranca-esta-quinta-feira/",
+     "angolo": "",
+     "atlas": "Cabo Verde"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zeea6f466",
+   "sez": "salute",
+   "titolo": "Mappata la cachessia neoplastica su scala clinica multimodale",
+   "orig": "A health-system-scale, episode-resolved multimodal atlas of cancer cachexia",
+   "lead": "Un gruppo di ricercatori ha presentato un atlante multimodale risolto per singoli episodi clinici per studiare la cachessia nei pazienti oncologici su scala dell'intero sistema sanitario. Lo studio propone una mappatura approfondita della sindrome da deperimento che colpisce molte persone affette da neoplasie, offrendo nuovi strumenti analitici per comprendere l'evoluzione e i meccanismi biologici alla base di questa grave condizione di debolezza progressiva e perdita muscolare. Lo riferisce Nature Medicine.",
+   "more": [
+    "La cachessia tumorale è una complessa sindrome metabolica caratterizzata da un'involontaria e rapida perdita di massa corporea e muscolare, che non risponde al semplice supporto nutrizionale e riduce la tolleranza alle terapie oncologiche."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04689-9",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb7f34d18",
+   "sez": "spazio",
+   "titolo": "Calano i piccoli punti rossi nell'universo a basso redshift",
+   "orig": "Reduced incidence of little red dots at z &lt; 3 based on number density and halo mass evolution",
+   "lead": "Una nuova indagine astronomica documenta una sensibile riduzione nella presenza dei cosiddetti piccoli punti rossi nell'universo a redshift inferiore a tre, analizzando l'evoluzione della densità numerica e della massa degli aloni. Le osservazioni forniscono elementi utili a tracciare la transizione e l'evoluzione temporale di queste insolite strutture cosmiche compatte identificate nei dati dei telescopi, chiarendo le dinamiche di crescita e trasformazione delle galassie nel corso delle epoche cosmiche. Lo riferisce Nature Astronomy.",
+   "more": [
+    "Il parametro di redshift misura l'allungamento della lunghezza d'onda della luce provocato dall'espansione del cosmo; valori inferiori corrispondono a epoche cosmiche più vicine al tempo presente rispetto a strutture osservate a distanze primordiali."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Astronomy",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41550-026-03001-6",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "za2739fa4",
+   "sez": "economia",
+   "titolo": "L'accordo energetico di Trump sulla Russia rischia di finanziare il Cremlino",
+   "orig": "Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet'",
+   "lead": "L'ex comandante della NATO Philip Breedlove ha lanciato un avvertimento sui rischi della tregua energetica proposta da Donald Trump con la Russia, spiegando che l'intesa potrebbe garantire a Vladimir Putin nuovi proventi finanziari per alimentare il conflitto in Ucraina. La prospettiva dell'accordo ha già incontrato il netto rifiuto del presidente ucraino Volodymyr Zelensky, contrario a concessioni sul fronte energetico mentre proseguono i combattimenti e le tensioni sui mercati internazionali. Lo riferisce Fox News.",
+   "more": [
+    "Il settore dell'energia rappresenta la principale fonte di entrate fiscali e valutarie per il bilancio statale russo; le dinamiche sui prezzi e i flussi di idrocarburi incidono direttamente sulle risorse disponibili per sostenere le spese militari."
+   ],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z82e24081",
+   "sez": "ingegneria",
+   "titolo": "Nessuna esclusione rapida per l'intelligenza artificiale nelle polizze dei progettisti",
+   "orig": "AI Exclusions Won't Soon Be Popping Up in Designer Liability Insurance Policies",
+   "lead": "Le compagnie assicurative non introdurranno a breve termine specifiche clausole di esclusione per l'uso dell'intelligenza artificiale nelle polizze sulla responsabilità professionale di ingegneri e architetti. Sebbene i gruppi assicurativi siano pienamente consapevoli dei rischi emergenti legati agli strumenti digitali generativi e predittivi, le clausole di copertura per i danni da progettazione non stanno subendo modifiche repentine nei contratti del settore delle costruzioni. Lo riferisce Engineering News-Record.",
+   "more": [
+    "Le polizze di responsabilità civile per i progettisti coprono errori od omissioni nei calcoli e nei piani costruttivi; l'adozione di software complessi crea interrogativi sull'attribuzione finale della responsabilità tra operatore umano e fornitore del programma."
+   ],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/63800-ai-exclusions-wont-soon-be-popping-up-in-designer-liability-insurance-policies",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z77bcffc6",
+   "sez": "musica",
+   "titolo": "La Red Special di Brian May, la chitarra nata da un caminetto",
+   "orig": "La Red Special di Brian May, la chitarra nata da un caminetto: il leggendario suono dei Queen",
+   "lead": "La leggendaria chitarra elettrica Red Special suonata da Brian May fu costruita artigianalmente negli anni Sessanta dallo stesso musicista utilizzando parti in legno ricavate da un antico caminetto domestico. Lo strumento, progettato insieme al padre per creare una sonorità unica, custodisce il segreto del celebre timbro chitarristico dei Queen, la band guidata dal cantante Freddie Mercury, diventando uno dei modelli più iconici e imitati nella storia della musica rock. Lo riferisce Geopop.",
+   "more": [
+    "I Queen si sono affermati tra i gruppi britannici di maggiore impatto mondiale, unendo sonorità hard rock, armonie vocali elaborate ed elementi operistici, contraddistinti dal timbro inconfondibile della chitarra del loro musicista."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/la-red-special-di-brian-may-la-chitarra-nata-da-un-caminetto-il-leggendario-suono-dei-queen/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfb27c758",
+   "sez": "sport",
+   "titolo": "Il massimo campionato di calcio torna all'Antigua Recreation Grounds",
+   "orig": "Football returns to the ARG",
+   "lead": "Dopo una lunga attesa, il calcio della Premier League di Antigua e Barbuda è tornato a disputarsi sul terreno dell'Antigua Recreation Grounds con due incontri in programma. Secondo quanto comunicato dalla federazione calcistica nazionale, la manifestazione avrebbe dovuto prendere il via originariamente sabato 10 ottobre, ma un rinvio di ventiquattro ore ha fatto slittare le gare alla domenica successiva, riaccendendo l'entusiasmo degli appassionati locali per la riapertura dell'impianto storico. Lo riferisce Antigua Observer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/football-returns-to-the-arg/",
+     "angolo": "",
+     "atlas": "Antigua and Barb."
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zff1d3f2c",
+   "sez": "salute",
+   "titolo": "La transizione della menopausa rivela un netto declino fisiologico",
+   "orig": "Population-scale reconstruction of menopause dynamics reveals a physiological cliff at the final menstrual period",
+   "lead": "Uno studio su scala di popolazione dedicato alla dinamica della menopausa ha rivelato la presenza di un ripido declino fisiologico in corrispondenza dell'ultimo ciclo mestruale. La ricostruzione statistica e biologica consente di comprendere meglio le repentine modificazioni ormonali e sistemiche che accompagnano questa fase della vita femminile, aprendo prospettive inedite per la medicina preventiva e la cura dei disturbi legati alla cessazione dell'attività riproduttiva. Lo riferisce Nature Medicine.",
+   "more": [
+    "La menopausa segna la fine permanente delle mestruazioni e della fertilità femminile a causa del progressivo calo dell'attività ovarica, con impatti rilevanti sul sistema cardiovascolare, osseo e sul metabolismo complessivo."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04614-0",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4e54caae",
+   "sez": "spazio",
+   "titolo": "I buchi neri coalescenti si formano per trasferimento di massa stabile",
+   "orig": "The formation of merging black holes via stable mass transfer in massive binary stars",
+   "lead": "Uno studio astrofisico descrive i meccanismi di formazione dei buchi neri destinati a fondersi attraverso processi di trasferimento di massa stabile all'interno di sistemi binari composti da stelle massicce. L'analisi teorica e numerica dimostra come questo canale evolutivo permetta ai due corpi compatti di avvicinarsi progressivamente fino alla coalescenza finale, fornendo una spiegazione fondamentale all'origine delle onde gravitazionali registrate dai grandi rivelatori internazionali a terra. Lo riferisce Nature Astronomy.",
+   "more": [
+    "I sistemi binari massicci sono formati da due stelle ad altissima temperatura e massa che orbitano attorno a un baricentro comune; durante la loro evoluzione possono scambiarsi strati gassosi prima di collassare in oggetti densi."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Astronomy",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41550-026-03000-7",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z97fb66c2",
+   "sez": "cultura",
+   "titolo": "Presentata a Parma la ventisettesima edizione del Festival Verdi",
+   "orig": "Festival Verdi, a Parma presentata la 27ma edizione",
+   "lead": "A Parma è stata presentata ufficialmente la ventisettesima edizione del Festival Verdi, rassegna lirica dedicata alla musica e alle opere composte da Giuseppe Verdi. La manifestazione richiamerà nella città emiliana e nei teatri del territorio appassionati di musica classica e artisti di rilievo internazionale per rendere omaggio alla produzione melodrammatica del compositore, confermandosi uno degli appuntamenti teatrali e musicali più attesi del panorama operistico italiano. Lo riferisce Sky TG24.",
+   "more": [
+    "Giuseppe Verdi è tra i più celebri compositori lirici dell'Ottocento, autore di capolavori teatrali immortali fortemente radicati nelle terre parmensi dove nacque e visse, mantenendo legami stretti con le istituzioni culturali locali."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/spettacolo/video/2026/10/12/festival-verdi-a-parma-presentata-la-27ma-edizione-1131260",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z984dc845",
+   "sez": "ingegneria",
+   "titolo": "Nel Missouri al via il cantiere per un parco solare da 1,5 miliardi",
+   "orig": "Quanta Unit Blattner Starts Work on $1.5B Solar Project in Missouri",
+   "lead": "La divisione Blattner del gruppo Quanta ha avviato i lavori di costruzione per un vasto progetto fotovoltaico da 1,5 miliardi di dollari situato nello Stato del Missouri. L'impianto, denominato Swan Energy Center e sviluppato da Clearway Energy Group, avrà una capacità complessiva di 650 megawatt e sorgerà sul sito di una precedente miniera a cielo aperto nella contea di Bates, dove anche NextEra Energy intende realizzare un ulteriore impianto solare esteso su circa tremila acri. Lo riferisce Engineering News-Record.",
+   "more": [
+    "La riconversione di aree minerarie dismesse in parchi a energia solare consente di riutilizzare terreni industriali degradati, sfruttando le connessioni alla rete elettrica preesistenti e riducendo l'impatto sul consumo di suolo agricolo."
+   ],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/63819-quanta-unit-blattner-starts-work-on-15b-solar-project-in-missouri",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1ec8780e",
+   "sez": "cultura",
+   "titolo": "Il latino torna nelle scuole medie italiane dall'anno 2026/2027",
+   "orig": "Il latino torna alle scuole medie: cosa cambia e a cosa serve studiarlo nel 2026",
+   "lead": "A partire dall'anno scolastico 2026/2027 è previsto il ritorno dell'insegnamento del latino nelle scuole medie italiane. La misura ha riacceso il dibattito pubblico sul valore pedagogico e linguistico della disciplina classica, portando studiosi e pedagoghi a interrogarsi sulle reali motivazioni della riforma e su cosa dimostrino i dati scientifici in merito all'utilità dello studio delle lingue antiche per lo sviluppo logico e cognitivo degli allievi all'inizio dell'adolescenza. Lo riferisce Geopop.",
+   "more": [
+    "Il latino ha costituito per secoli la base dell'istruzione secondaria e la lingua franca accademica in Europa; la sua applicazione didattica favorisce la comprensione etimologica e la comparazione grammaticale nelle lingue neolatine."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/il-latino-torna-alle-scuole-medie-cosa-cambia-e-a-cosa-serve-studiarlo-nel-2026/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z80c7f459",
+   "sez": "sport",
+   "titolo": "Polemiche tra i tifosi per le critiche agli All Blacks neozelandesi",
+   "orig": "Why moaning All Blacks fans need to show some love",
+   "lead": "I sostenitori della nazionale neozelandese di rugby sono al centro del dibattito sportivo per le critiche insistenti rivolte alla propria squadra. L'apprezzamento espresso dal tecnico Les Kiss nei confronti degli All Blacks ha messo in luce l'atteggiamento eccessivamente severo di parte della tifoseria locale, accusata di sminuire costantemente il lavoro della selezione anziché sostenere gli atleti nei momenti di transizione e durante gli impegni internazionali del calendario agonistico. Lo riferisce Stuff NZ.",
+   "more": [
+    "Gli All Blacks rappresentano la leggendaria nazionale di rugby a 15 della Nuova Zelanda, considerata tra le formazioni più titolate e celebrate al mondo, circondata da altissime aspettative da parte dell'opinione pubblica nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361045235/mark-reason-wallabies-coach-gets-it-why-dont-all-blacks-fans",
+     "angolo": "",
+     "atlas": "New Zealand"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdafff579",
+   "sez": "salute",
+   "titolo": "Nasce la rete MAGIC per valutare l'intelligenza artificiale generativa nella salute",
+   "orig": "MAGIC: an international network for evaluating generative artificial intelligence in global health",
+   "lead": "È stata istituita la rete internazionale MAGIC, pensata per esaminare e validare in modo sistematico l'applicazione dell'intelligenza artificiale generativa nella salute globale. L'iniziativa mira a creare standard rigorosi per misurare l'efficacia, l'accuratezza e la sicurezza clinica dei nuovi modelli computazionali impiegati nei sistemi sanitari e nei programmi di cura mondiali, offrendo riferimenti condivisi a medici, istituti di ricerca e organismi di regolamentazione. Lo riferisce Nature Medicine.",
+   "more": [
+    "L'impiego dell'intelligenza artificiale generativa in ambito medico spazia dalla redazione di cartelle cliniche al supporto diagnostico, ma necessita di verifiche standardizzate per evitare bias ed errori nelle decisioni sanitarie."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04706-x",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z88d88c83",
+   "sez": "spazio",
+   "titolo": "Scoperta una nana bianca contaminata dalle sue stesse ceneri",
+   "orig": "A white dwarf polluted by its own ashes",
+   "lead": "Un'osservazione astronomica ha documentato il caso insolito di una nana bianca che risulta contaminata dalle proprie stesse ceneri nucleari. L'analisi spettroscopica della superficie stellare getta nuova luce sui complessi meccanismi di mescolamento interno e sui residui dei cicli di fusione al termine della vita delle stelle di media taglia, consentendo di perfezionare i modelli teorici relativi alla senescenza e al destino finale dei corpi celesti giunti all'esaurimento energetico. Lo riferisce Nature Astronomy.",
+   "more": [
+    "Le nane bianche sono i nuclei densi e caldi rimasti dopo la morte di stelle simili al Sole; la loro atmosfera è solitamente costituita da elementi leggeri a causa della rapida sedimentazione gravitazionale dei metalli pesanti."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Astronomy",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41550-026-02982-8",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z58f3bb33",
+   "sez": "cultura",
+   "titolo": "Il giornalista Aalim pubblica alle Maldive il suo libro d'esordio",
+   "orig": "Young journalist, Aalim, launches debut book ‘Ey Hithaaeve. Keiytherivaasheve.’",
+   "lead": "Il giovane cronista Aalim ha dato alle stampe il suo primo libro intitolato 'Ey Hithaaeve. Keiytherivaasheve.', presentato ufficialmente al pubblico delle Maldive. L'opera segna il debutto letterario dell'autore nell'arcipelago dell'Oceano Indiano, inserendosi nel panorama editoriale maldiviano contemporaneo con un lavoro di riflessione personale e narrativa che arricchisce la produzione scritta nella lingua locale. Lo riferisce Sun Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109488",
+     "angolo": "",
+     "atlas": "Maldives"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z32d088f7",
+   "sez": "economia",
+   "titolo": "L'Africa privilegia il libero commercio opportunistico e le alleanze estere",
+   "orig": "Africa favours opportunistic free trade, foreign alliances",
+   "lead": "Nel continente africano prevale una visione pragmatica verso il commercio internazionale, orientata a cogliere opportunità vantaggiose attraverso il libero scambio e la stipula di partnership estere diversificate. Sebbene la conoscenza diffusa presso l'opinione pubblica riguardo alle grandi potenze globali e alla loro influenza geopolitica possa apparire frammentaria o non sempre approfondita, le scelte economiche dei governi puntano a massimizzare i benefici derivanti dai flussi di investimento e dalle relazioni commerciali multilaterali. Lo riferisce The EastAfrican.",
+   "more": [
+    "La zona di libero scambio continentale africana punta a integrare economie emergenti in un mercato comune, favorendo al contempo accordi bilaterali e multilaterali con i principali poli economici mondiali."
+   ],
+   "fonti": [
+    {
+     "n": "The EastAfrican",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.theeastafrican.co.ke/tea/opinion/guest-blogs/africa-favours-opportunistic-free-trade-foreign-alliances-5629510",
+     "angolo": "",
+     "atlas": "Kenya"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zce199180",
+   "sez": "ingegneria",
+   "titolo": "DPR avvia in Colorado un progetto da 230 milioni per Kaiser Permanente",
+   "orig": "DPR breaks ground on $230M Kaiser Permanente project in Colorado",
+   "lead": "L'impresa di costruzioni DPR ha aperto il cantiere per un nuovo polo medico da 230 milioni di dollari destinato a Kaiser Permanente nello Stato del Colorado. L'appaltatore impiegherà metodi costruttivi prefabbricati e modulari per realizzare i nuovi uffici e le strutture sanitarie, una scelta tecnologica che consentirà di diminuire la complessità delle operazioni in loco e di abbreviare sensibilmente i tempi di consegna previsti dal cronoprogramma dei lavori. Lo riferisce Construction Dive.",
+   "more": [
+    "L'edilizia modulare e prefabbricata prevede l'assemblaggio in fabbrica di componenti strutturali completi prima della posa in cantiere, garantendo un controllo accurato della qualità e riducendo polveri e disturbi sul luogo di lavoro."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/news/dpr-breaks-ground-kaiser-permanente-project-colorado/832793/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfdc8cbdf",
+   "sez": "ambiente",
+   "titolo": "Foreste in fiamme nel Borneo: gli oranghi minacciati dalla siccità e dai roghi",
+   "orig": "Oranghi del Borneo in pericolo per gli incendi nelle foreste in Indonesia: il ruolo di El Niño",
+   "lead": "Gli incendi boschivi che continuano a devastare da settimane le foreste pluviali dell'isola del Borneo mettono in grave pericolo la sopravvivenza degli oranghi in Indonesia. Le fiamme sono alimentate dalla forte siccità legata alle anomalie meteorologiche del fenomeno El Niño, ma l'emergenza ambientale risulta aggravata dall'azione umana, in particolare dalle bonifiche con drenaggio delle torbiere e dall'uso intenzionale del fuoco impiegato per liberare nuovi terreni agricoli. Lo riferisce Geopop.",
+   "more": [
+    "L'orango del Borneo è un primate ad alto rischio di estinzione che vive sugli alberi della foresta tropicale; la perdita del suo habitat naturale dovuta a incendi e deforestazione ne riduce drasticamente le popolazioni rimaste."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/oranghi-del-borneo-in-pericolo-per-gli-incendi-nelle-foreste-in-indonesia-il-ruolo-di-el-nino/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:30",
+   "uscita": "sera"
+  },
+  {
    "id": "zd2a1a638",
    "sez": "manga",
    "titolo": "Giappone, la nuova figure anime dei giochi a gru utilizzabile come gruccia",
@@ -2136,6 +4469,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://tribune.com.pk/story/2634428/pakistan-stands-shoulder-to-shoulder-with-saudi-arabia-petroleum-minister",
      "angolo": "",
      "atlas": "Pakistan"
+    },
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/12/saudi-arabias-aviation-ambitions-meet-a-week-of-terror/",
+     "angolo": "",
+     "atlas": "United States of America"
     }
    ],
    "data": "12 ott",
@@ -6473,6 +8814,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://www.channelnewsasia.com/world/saudi-arabia-riyadh-airport-houthis-strikes-6453261",
      "angolo": "",
      "atlas": "Singapore"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
     }
    ],
    "data": "12 ott",
@@ -6677,6 +9026,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "p": "XX",
      "c": "Toronto",
      "u": "https://www.cbc.ca/news/world/zelenskyy-russia-violating-energy-ceasefire-9.7377881?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/video-putin-does-not-read-truth-social-zelensky-says-russia-broke-energy/",
      "angolo": "",
      "atlas": "Canada"
     }
@@ -9923,28 +12280,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z8e9bc319",
-   "sez": "adolescenti",
-   "titolo": "Scuole pubbliche statunitensi: i dati sui diritti civili evidenziano disparità razziali",
-   "orig": "5 things civil rights data says about public schools",
-   "lead": "La raccolta federale dei dati sui diritti civili ha fornito per la prima volta dopo decenni un quadro dettagliato sul corpo docente negli Stati Uniti, evidenziando come le disparità razziali rimangano ancora marcate all'interno delle scuole pubbliche del Paese. L'indagine governativa illustra la composizione degli insegnanti e segnala la persistenza di profonde differenze che continuano a incidere sul sistema educativo nazionale e sull'esperienza quotidiana degli studenti americani. Lo riferisce NPR – Istruzione.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NPR – Istruzione",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
-     "angolo": "",
-     "atlas": "United States of America"
-    }
-   ],
-   "data": "12 ott",
-   "ora": "20:23",
-   "uscita": "sera",
-   "sub": "scuola"
-  },
-  {
    "id": "zc89c1ee2",
    "sez": "viaggi",
    "titolo": "Un itinerario sui processi alle streghe svela la storia dimenticata del Connecticut",
@@ -12319,7 +14654,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z1c863ae2": "Citizen Digital evidenzia la richiesta di dimissioni del ministro da parte dell'opposizione, mentre Hiiraan Online riporta l'avvertimento di Duale contro il panico che danneggerebbe il turismo.",
   "z30a69d45": "Malay Mail documenta le cancellazioni dei voli tra Malesia e Singapore, mentre Antara segnala i ritardi provocati dal fumo negli scali indonesiani.",
   "z21d1aee2": "Il comunicato del Consiglio dell'Unione europea illustra il completamento formale delle intese su politica monetaria, statistica e mercato del lavoro.",
-  "z8e9bc319": "NPR pone l'accento sulla pubblicazione dei dati federali inediti dopo molti decenni e sulla permanenza di profonde disuguaglianze razziali nel sistema scolastico.",
   "zc89c1ee2": "BBC Travel evidenzia la nascita dell'itinerario a tema per valorizzare la memoria storica e il turismo legato al passato coloniale locale.",
   "z51b26709": "La testata mette a fuoco i dati sulle segnalazioni dei pazienti e i tempi regolamentari concessi ai professionisti sanitari per rispondere.",
   "z94159db0": "La testata evidenzia l'allarme etico sui pericoli di compravendita dei dati sanitari e i rischi di sproporzione di potere tra colossi tecnologici e cittadini.",
@@ -12680,7 +15014,108 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z2a6eb017": "Medical Xpress mette in evidenza il potenziale della proteina legata alla pressione come indicatore biologico di resistenza ai farmaci.",
   "z83d81af5": "Il quotidiano romano mette a fuoco il trend di risalita di Fratelli d'Italia e il testa a testa per la quarta posizione nelle preferenze.",
   "z1bb2bb8a": "Iwacu racconta con accenti vibranti l'impatto emotivo e agonistico dei risultati maturati negli impianti sportivi burundesi.",
-  "zbe4c400b": "France 24 mette in evidenza i timori di Kiev per l'abbandono da parte statunitense e i dubbi sulla sicurezza europea dinanzi alle manovre di Mosca."
+  "zbe4c400b": "France 24 mette in evidenza i timori di Kiev per l'abbandono da parte statunitense e i dubbi sulla sicurezza europea dinanzi alle manovre di Mosca.",
+  "z89befd18": "New Civil Engineer mette in risalto l'impatto quantitativo del nuovo servizio merci e l'avvio della logistica ferroviaria verso lo scalo portuale.",
+  "z735f767f": "NME sottolinea le contestazioni sollevate dal pubblico e la reazione della rete radiotelevisiva britannica in merito all'episodio.",
+  "zd764ab73": "Ars Technica – Spazio mette in luce il traguardo produttivo raggiunto da Amazon e la complessità tecnica del dispiegamento orbitale.",
+  "z2e9dc526": "Il Messaggero – Tecnologia pone l'accento sulle criticità di sicurezza emerse durante gli incidenti e sui motivi del futuro divieto normativo cinese.",
+  "z335e9f9c": "Skift mette in evidenza le controversie legali e l'allungamento della lista di oppositori alla transazione nel quadro della procedura concorsuale.",
+  "z8e075976": "The Namibian sottolinea la cogenza del vincolo ministeriale per le nuove autorizzazioni ospedaliere nel contesto degli impegni governativi sulla sanità mentale.",
+  "z3f93cfb3": "Libération valorizza la riscoperta critica della pittrice impressionista e il suo legame artistico con Édouard Manet.",
+  "zb2474614": "Nature evidenzia il forte divario retributivo esistente tra le diverse nazioni europee per i dottorandi di ricerca.",
+  "z913f633f": "Il Sole 24 Ore sottolinea la centralità del fattore umano e l'ampiezza delle tecnologie strategiche analizzate dai vertici militari e industriali.",
+  "ze1d08675": "New Civil Engineer punta l'attenzione sull'incarico affidato a Populous per ripensare l'area urbana che circonda l'impianto olimpico londinese.",
+  "zf9ca22cb": "Ars Technica – Spazio mette in rilievo la convenienza scientifica ed economica della missione LISA per la parte statunitense nel quadro della cooperazione con l'ESA.",
+  "za8e5874f": "Il Messaggero – Tecnologia pone in evidenza l'intesa tra la Fabbrica di San Pietro e Microsoft per democratizzare la calligrafia michelangiolesca.",
+  "zaab0daac": "Il Messaggero – Sport si sofferma sul profilo del nuovo medico curante e sui precedenti sportivi illustri legati alla sua attività clinica.",
+  "zd61adad5": "Skift analizza la discrepanza tra l'incremento degli incassi per via dei prezzi alti e la frenata nel numero complessivo di persone in viaggio.",
+  "z55a6605d": "Nyasa Times evidenzia il ruolo centrale assunto dal nuovo incaricato nella gestione del sistema di finanziamento universitario del Malawi.",
+  "z891b48f8": "Pitchfork rimarca il ritorno musicale della band dopo due anni e la connessione del brano con il romanzo del cantante.",
+  "z8c5410c1": "Le Matin d'Algérie evidenzia la fine del periodo di esclusione e il ripristino dei diritti di partecipazione per l'editore indipendente.",
+  "zde7e84d7": "Nature pone in risalto il valore predittivo e clinico dei dati ricavati dal monitoraggio del riposo notturno.",
+  "z7e61646b": "Il Sole 24 Ore concentra l'attenzione sul giudizio positivo espresso dall'istituto centrale sullo stato attuale dei conti pubblici.",
+  "zae8e3373": "Ars Technica – Spazio mette a fuoco la portata della riforma del personale voluta dai vertici dell'agenzia spaziale statunitense.",
+  "z538ec423": "Il Messaggero – Tecnologia punta l'attenzione sulla dura critica mossa dall'ex responsabile della sicurezza contro la gestione interna di OpenAI.",
+  "zdbcaef01": "Skift evidenzia le motivazioni di sicurezza e le incognite sulla domanda passeggeri dietro lo slittamento del collegamento aereo.",
+  "z8cd5489b": "Kun.uz evidenzia l'entità dell'investimento finanziario e la collaborazione con la holding saudita per la sanità regionale.",
+  "z527147c6": "Pitchfork sottolinea la novità dell'album a tema natalizio nella carriera artistica di Alanis Morissette.",
+  "zac717fc2": "El Universo mette in rilievo la straordinaria affluenza di pubblico per l'esibizione conclusiva dell'artista sudamericana.",
+  "z759ecc64": "Il Sole 24 Ore evidenzia i contenuti centrali della proposta legislativa a tutela di chi tenta di risanare la propria situazione debitoria.",
+  "z61064b02": "The Guardian – Spazio fornisce le indicazioni per individuare Saturno a occhio nudo durante la sua fase di opposizione.",
+  "z284ca9ce": "Il Messaggero – Tecnologia evidenzia le ammissioni di Elon Musk sui limiti attuali dei sistemi di visione dei taxi a guida autonoma.",
+  "z9b1bb1a6": "Kun.uz evidenzia il debutto storico di Tashkent nell'organizzazione della rassegna continentale asiatica di tennistavolo.",
+  "z070c561d": "MyJoyOnline pone l'accento sulla richiesta del ministro ghanese di salvaguardare la sovranità nazionale dopo il rifiuto del fondo statunitense.",
+  "za24b061a": "Diario Libre sottolinea la rosa delle undici finaliste scelte dal Banco BHD per il loro impegno di trasformazione sociale nelle comunità domenicane.",
+  "z01f21f62": "Il Sole 24 Ore mette a fuoco le ragioni economiche della mobilitazione dei pastori sardi tra compensi ritenuti insufficienti e rincari produttivi.",
+  "z7dba43cd": "Construction Index evidenzia l'assegnazione dell'appalto milionario all'impresa Graham per il nuovo complesso residenziale studentesco a Londra.",
+  "z58a50080": "Il Messaggero – Tecnologia descrive le caratteristiche di Jolly, l'assistente tascabile che adotta l'aspetto di un peluche ispirato a Labubu.",
+  "z8573b95c": "Geopop mette in evidenza la tabella di marcia della NASA per l'integrazione dell'energia nucleare nelle basi lunari e nelle missioni marziane.",
+  "zea149ca9": "Skift analizza le abitudini dei viaggiatori indiani, evidenziando il primato dell'India su Skyscanner e l'attenzione al rapporto qualità-prezzo.",
+  "z98c801ab": "Matangi Tonga celebra il ritiro trionfale di Daniel Tupou, ricordando i successi e i record ottenuti nei Sydney Roosters.",
+  "z2902735a": "Daily Monitor pone in rilievo il disaccordo tra Washington e gli organismi sanitari africani e mondiali sulla revoca delle limitazioni per l'Uganda.",
+  "z839a7b77": "Construction Index riporta l'ingresso di Mark Docherty alla guida del comparto energetico di Egis per spingere su rinnovabili e reti.",
+  "za24f5747": "Gazeta.uz pone l'accento sull'espansione della videosorveglianza con intelligenza artificiale per il controllo delle presenze a Tashkent.",
+  "z274f53e6": "MyJoyOnline riporta le dichiarazioni del tecnico Boadu dopo la fine della serie di vittorie dell'Aduana FC.",
+  "zd3253518": "Monaco Matin racconta l'esordio teatrale di Caroline Margeridon al centro culturale di Beausoleil.",
+  "zf05a61e9": "Il Sole 24 Ore evidenzia i numeri diffusi dalla Corte dei conti sulla crescita dei corrispettivi fiscali digitali e dell'imponibile emerso.",
+  "zff02d11f": "Construction Index segue lo stato di avanzamento dei lavori affidati a Vinci per il polo di mobilità di St Helens.",
+  "z59983990": "la Repubblica evidenzia la centralità dell'intelligenza artificiale tra i giovani italiani e il loro paradosso di chiedere maggiori regole agli adulti.",
+  "z1f1da592": "Eye Radio evidenzia la reazione sportiva del Sud Sudan under 17 con la vittoria nel derby contro il Sudan dopo la battuta d'arresto iniziale.",
+  "z625bed43": "Sierraloaded mette in luce il dialogo tra il ministero sierraleonese e la delegazione ONU per rinnovare i modelli finanziari della sanità pubblica.",
+  "z054765a3": "Phys.org – Spazio sottolinea la scoperta del telescopio SPHEREx riguardo alle atmosfere ricche di composti chimici nelle nane brune.",
+  "z8dfa409a": "Monaco Matin pone l'accento sul cambio di percezione delle serie tv e sull'accesso gratuito agli eventi.",
+  "zbc1c9044": "Financial Times mette in risalto il boicottaggio del vertice energetico da parte dei vertici delle multinazionali petrolifere.",
+  "z342b6bb3": "Construction Index valorizza l'assegnazione dell'appalto e l'impatto sociale della costruzione di nuove case e servizi.",
+  "zd9f6917b": "la Repubblica – Tecnologia mette in luce la rapidità di sviluppo consentita dall'IA e le implicazioni per la professione informatica.",
+  "z73f44727": "Travel Quotidiano valorizza l'adozione di parametri misurabili per la tutela ambientale nel settore dell'ospitalità di pregio.",
+  "z46f7b14d": "The Point evidenzia le accuse rivolte dal candidato dell'opposizione alla condotta del presidente uscente.",
+  "z9309dbd1": "Barbados Today sottolinea l'importanza della tempestività delle diagnosi rispetto al miglioramento della rete di specialisti.",
+  "z2501453f": "Bondia mette in luce la storica prima volta di una produzione di Andorra in concorso nella sezione ufficiale del festival.",
+  "z10917a54": "Engineering News-Record mette l'accento sulla ricerca di consenso e fondi a livello locale per modernizzare le reti di trasporto.",
+  "zf8749807": "la Repubblica – Tecnologia sottolinea l'adozione congiunta della tecnologia da parte dei principali colossi dell'IA.",
+  "z1e6992e8": "Travel Quotidiano mette in risalto il potenziamento dei tragitti verso le stazioni sciistiche e l'inclusione di Parma.",
+  "z00205986": "Barbados Today pone l'accento sulla centralità delle testimonianze dirette dei cittadini nella campagna pubblica.",
+  "z9f491165": "St. Lucia Times evidenzia la spettacolare rimonta da due gol di scarto guidata dal giocatore della nazionale.",
+  "z3947ccdf": "Bondia valorizza il dibattito sulla salvaguardia degli spazi teatrali e cinematografici cittadini.",
+  "z6a901141": "Nature Astronomy dedica una riflessione editoriale al tramonto dello storico archivio astronomico.",
+  "zb964bca6": "Financial Times analizza l'erosione del commercio aperto dovuta a politiche energetiche frammentate.",
+  "zbb2649d4": "Engineering News-Record mette in risalto l'approccio pragmatico dell'autore verso l'adozione tecnologica nei cantieri.",
+  "zed7ce264": "Travel Quotidiano si concentra sulle tappe stagionali e sulle date festive coperte dal catalogo.",
+  "z55edeb31": "The Tribune mette l'accento sui pericoli sanitari e sulla richiesta immediata di interventi pubblici di protezione.",
+  "z13fc8653": "St. Lucia Times si concentra sul distacco contenuto nel punteggio finale e sulle scelte di formazione della squadra caraibica.",
+  "zfed4b068": "Expresso das Ilhas sottolinea l'importanza della candidatura e i precedenti illustri dell'albo d'oro del premio.",
+  "z386166b4": "Nature Astronomy illustra le nuove opportunità tecnologiche offerte da SciX per la comunità astronomica contemporanea.",
+  "z1f63b4ea": "The New York Times pone l'accento sulla svolta diplomatica ed economica di Washington a vantaggio delle finanze russe.",
+  "z46edd1c4": "Engineering News-Record concentra l'attenzione sui danni materiali alle strutture in costruzione e sull'entità finanziaria del cantiere.",
+  "zd5d2306f": "la Repubblica – Tecnologia mette in evidenza l'alta incidenza di dispositivi infetti segnalati sul territorio italiano.",
+  "z6950c019": "Travel Quotidiano si sofferma sull'opportunità di promozione turistica del Giappone durante il salone lucchese.",
+  "zf72e9f5f": "St. Lucia Times evidenzia il riscatto dei Gladiators e il ruolo determinante del loro vicecapitano.",
+  "zc39d5dad": "La testata mette in evidenza la reazione della vincitrice e il valore del premio per l'arcipelago.",
+  "z18e4c65d": "Kapitalis evidenzia la mancanza di una legislazione chiara per modernizzare l'attività medica privata.",
+  "zf3cda75e": "La rivista sottolinea l'opportunità di valorizzare le innovazioni astrofisiche oltre i confini della ricerca pura.",
+  "zb35e1929": "The Washington Post sottolinea le obiezioni interne al Partito Repubblicano verso le scelte di Trump.",
+  "z9963e319": "Engineering News-Record mette in risalto il costo e la collaborazione tecnica con i rappresentanti indigeni.",
+  "z0fd4028f": "La Repubblica privilegia il profilo biografico non convenzionale del ricercatore e le sue ambizioni tecnologiche.",
+  "zf8784ab6": "NOW Grenada evidenzia la dimensione capillare della competizione e la collaborazione con lo sponsor assicurativo.",
+  "z2b3d6058": "A Nação focalizza l'attenzione sulla celebrazione del patrimonio panafricano e sul programma didattico del festival.",
+  "zeea6f466": "La rivista pone in primo piano l'ampiezza sistemica e la risoluzione dei dati clinici raccolti.",
+  "zb7f34d18": "Nature Astronomy evidenzia il calo statistico di questi oggetti celesti nelle epoche cosmiche più recenti.",
+  "za2739fa4": "Fox News concentra l'attenzione sul parere militare dell'ex generale NATO e sul secco rifiuto di Kiev.",
+  "z82e24081": "La pubblicazione analizza la cautela degli assicuratori di fronte all'adozione dell'AI in cantiere e negli studi.",
+  "z77bcffc6": "Geopop analizza l'aspetto ingegnoso e costruttivo alla base della celebre chitarra artigianale.",
+  "zfb27c758": "Antigua Observer sottolinea il ritorno delle partite nel principale impianto sportivo e il rinvio di un giorno.",
+  "zff1d3f2c": "La ricerca mette in luce il carattere improvviso della transizione corporea durante l'ultimo ciclo.",
+  "z4e54caae": "Nature Astronomy illustra la solidità del modello teorico basato sul trasferimento di massa per spiegare le fusioni.",
+  "z97fb66c2": "Sky TG24 mette in evidenza l'apertura della nuova edizione e il ruolo culturale della città emiliana.",
+  "z984dc845": "La rivista di ingegneria sottolinea l'entità economica dell'investimento e il recupero del sito minerario dismesso.",
+  "z1ec8780e": "Geopop analizza il valore scientifico e le evidenze didattiche dietro la reintroduzione scolastica della materia.",
+  "z80c7f459": "L'editoriale di Stuff critica la negatività dei supporter neozelandesi rispetto al giudizio positivo dei tecnici rivali.",
+  "zdafff579": "La rivista sottolinea la cooperazione globale per garantire la sicurezza degli strumenti algoritmici sanitari.",
+  "z88d88c83": "Nature Astronomy si concentra sull'eccezionalità chimica della composizione superficiale della stella morente.",
+  "z58f3bb33": "Sun Online evidenzia il traguardo professionale del giovane giornalista all'esordio come autore.",
+  "z32d088f7": "The EastAfrican mette in evidenza il pragmatismo strategico dei governi africani nelle relazioni commerciali.",
+  "zce199180": "Construction Dive evidenzia i vantaggi di tempo e organizzazione offerti dall'uso di moduli prefabbricati.",
+  "zfdc8cbdf": "Geopop mette in risalto il concorso tra il fattore climatico naturale di El Niño e la responsabilità delle bonifiche umane."
  },
  "contesti": {
   "zc3de7c78": "Ilhan Omar, deputata democratica del Minnesota eletta per la prima volta nel 2018, è da anni una delle voci più critiche nei confronti di Donald Trump, che l'ha più volte attaccata pubblicamente. Nei giorni scorsi il Dipartimento di Giustizia ha portato avanti un'indagine federale ancora in corso. Per quell'indagine è stato approvato un mandato, culminato oggi nella perquisizione della sua abitazione di Washington.",
@@ -12767,7 +15202,15 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "zdb6bd799": "I timori per le restrizioni commerciali e tecnologiche varate dagli Stati Uniti hanno innescato una forte volatilità sui listini cinesi, spingendo le istituzioni a valutare meccanismi di tutela per gli investimenti.",
   "zbe4c400b": "Nelle scorse settimane le iniziative diplomatiche annunciate da Donald Trump hanno cercato di delineare canali diretti di dialogo con Mosca sui rifornimenti energetici globali, suscitando le proteste del governo ucraino per l'assenza di coordinamento con Kiev.",
   "ze4665844": "Tratta dal webtoon sudcoreano di Chugong, la serie animata di Solo Leveling, prodotta dallo studio A-1 Pictures, ha debuttato su Crunchyroll nel gennaio 2024 riscuotendo subito un enorme successo internazionale. La seconda stagione, «Arise from the Shadow», è arrivata nel gennaio 2025 e ha consolidato la popolarità del titolo. Ai Crunchyroll Anime Awards 2025 la serie ha vinto il premio di Anime dell'anno, preparando il terreno per l'attuale record di permanenza in classifica.",
-  "z764a80ff": "Gli Stati Uniti custodiscono una delle maggiori collezioni pubbliche di semi al mondo. Si tratta del National Plant Germplasm System, gestito dall'Agricultural Research Service del Dipartimento dell'Agricoltura, che conserva centinaia di migliaia di varietà. Il fulcro del sistema è il laboratorio di Fort Collins, in Colorado. Con il cambiamento climatico, la caratterizzazione genetica di queste risorse è diventata strategica per selezionare colture più resistenti. Il nuovo stanziamento punta proprio ad accelerare questo lavoro."
+  "z764a80ff": "Gli Stati Uniti custodiscono una delle maggiori collezioni pubbliche di semi al mondo. Si tratta del National Plant Germplasm System, gestito dall'Agricultural Research Service del Dipartimento dell'Agricoltura, che conserva centinaia di migliaia di varietà. Il fulcro del sistema è il laboratorio di Fort Collins, in Colorado. Con il cambiamento climatico, la caratterizzazione genetica di queste risorse è diventata strategica per selezionare colture più resistenti. Il nuovo stanziamento punta proprio ad accelerare questo lavoro.",
+  "zbc1c9044": "Gli attacchi contro il territorio saudita si inseriscono in una prolungata serie di tensioni e scontri che coinvolgono le milizie yemenite e la coalizione a guida saudita, con ricorrenti minacce verso infrastrutture strategiche e nodi di trasporto aereo.",
+  "zb964bca6": "Il mercato dei raffinati soffre da mesi per strozzature nelle capacità produttive delle raffinerie e per ripercussioni legate a sanzioni, restrizioni all'export e ricalibrazione delle rotte commerciali di greggio.",
+  "z1f63b4ea": "Il conflitto sul fronte energetico ha visto Kiev intensificare i lanci contro complessi petroliferi sul territorio russo, mentre sui mercati internazionali i governi occidentali tentavano di limitare l'acquisto di derivati del petrolio da Mosca.",
+  "zb35e1929": "I rapporti tra Donald Trump e Volodymyr Zelensky sono segnati da forti tensioni almeno dallo scontro nello Studio Ovale del febbraio 2025. Washington ha alternato aperture diplomatiche verso Mosca, come il vertice in Alaska con Vladimir Putin, a misure di pressione, tra cui le sanzioni contro Rosneft e Lukoil. Le nuove intese sul diesel russo hanno ora suscitato critiche anche nel Partito Repubblicano.",
+  "za2739fa4": "L'energia è da tempo un nodo centrale della guerra in Ucraina: i proventi di petrolio e gas finanziano lo sforzo bellico russo, mentre le infrastrutture energetiche sono bersaglio di attacchi reciproci. Già nel marzo 2025 Trump e Putin avevano discusso una sospensione dei raid sugli impianti energetici. La nuova proposta di tregua energetica della Casa Bianca è stata respinta da Zelensky e criticata da esperti militari.",
+  "z32d088f7": "L'Africa punta da anni sull'integrazione commerciale, con l'Area di libero scambio continentale africana operativa dal 2021. Allo stesso tempo i governi diversificano i partner: la Cina ha rinnovato i propri impegni al Forum di cooperazione sino-africana del 2024, mentre gli Stati Uniti hanno introdotto nuovi dazi nel 2025 e lasciato scadere l'accordo preferenziale AGOA. Ne emerge un approccio sempre più pragmatico alle alleanze economiche.",
+  "zb2474614": "Il tema delle condizioni economiche dei dottorandi è da tempo al centro del dibattito europeo. Nel dicembre 2023 il Consiglio dell'Unione europea ha adottato una raccomandazione su un quadro comune per le carriere nella ricerca, che invita gli Stati a garantire retribuzioni e tutele adeguate. Associazioni come Eurodoc denunciano da anni forti differenze tra Paesi, dalle borse esenti da contributi ai contratti di lavoro veri e propri.",
+  "z6950c019": "Il Giappone è da anni protagonista di Lucca Comics & Games, che dedica alla cultura nipponica l'area Japan Town. Intanto il turismo verso il Paese ha toccato livelli record, con oltre 36 milioni di visitatori internazionali nel 2024, e l'Expo di Osaka del 2025 ne ha accresciuto la visibilità. La sessantesima edizione del festival toscano si terrà dal 28 ottobre al 1° novembre 2026."
  },
  "cronologie": {
   "zc3de7c78": [
@@ -13763,6 +16206,118 @@ window.EDIZIONI["2026-10-12-sera"] = {
     "Oggi",
     "Il Dipartimento dell'Agricoltura stanzia 180 milioni di dollari per il sequenziamento genetico delle colture"
    ]
+  ],
+  "zbc1c9044": [
+   [
+    "Nei giorni scorsi",
+    "Ripresa dei raid e delle offensive transfrontaliere nella penisola araba"
+   ],
+   [
+    "Vigilia del vertice",
+    "Attacchi mirati verso gli scali aeroportuali sauditi"
+   ]
+  ],
+  "zb964bca6": [
+   [
+    "Negli scorsi mesi",
+    "Aumento delle discrepanze tra offerta di raffinati e domanda dei trasporti"
+   ],
+   [
+    "Nelle ultime settimane",
+    "Adozione di misure protezionistiche da parte di diversi Stati esportatori"
+   ]
+  ],
+  "z1f63b4ea": [
+   [
+    "Nelle scorse settimane",
+    "Attacchi ucraini prolungati contro le raffinerie nella Russia europea"
+   ],
+   [
+    "Recenti sviluppi",
+    "Dichiarazioni della Casa Bianca su forniture di diesel e richieste a Kiev"
+   ]
+  ],
+  "zb2474614": [
+   [
+    "Luglio 2023",
+    "La Commissione europea propone un quadro comune per le carriere nella ricerca"
+   ],
+   [
+    "Dicembre 2023",
+    "Il Consiglio Ue adotta la raccomandazione sulle carriere dei ricercatori"
+   ],
+   [
+    "Ottobre 2026",
+    "Nuovi dati europei evidenziano le disparità nei compensi dei dottorandi"
+   ]
+  ],
+  "z6950c019": [
+   [
+    "2024",
+    "Il Giappone registra un record di arrivi turistici internazionali"
+   ],
+   [
+    "13 aprile - 13 ottobre 2025",
+    "Si svolge l'Expo universale di Osaka"
+   ],
+   [
+    "Ottobre 2026",
+    "Annunciata la presenza dell'Ente del turismo giapponese a Lucca Comics"
+   ]
+  ],
+  "zb35e1929": [
+   [
+    "28 febbraio 2025",
+    "Duro scontro tra Trump e Zelensky alla Casa Bianca"
+   ],
+   [
+    "15 agosto 2025",
+    "Vertice tra Trump e Putin ad Anchorage, in Alaska"
+   ],
+   [
+    "22 ottobre 2025",
+    "Gli Usa sanzionano i colossi petroliferi russi Rosneft e Lukoil"
+   ],
+   [
+    "Ottobre 2026",
+    "Polemiche bipartisan sull'intesa relativa al diesel russo"
+   ]
+  ],
+  "za2739fa4": [
+   [
+    "24 febbraio 2022",
+    "La Russia avvia l'invasione su larga scala dell'Ucraina"
+   ],
+   [
+    "18 marzo 2025",
+    "Telefonata Trump-Putin su una pausa negli attacchi alle infrastrutture energetiche"
+   ],
+   [
+    "22 ottobre 2025",
+    "Washington sanziona Rosneft e Lukoil"
+   ],
+   [
+    "Ottobre 2026",
+    "Zelensky respinge la nuova tregua energetica proposta da Trump"
+   ]
+  ],
+  "z32d088f7": [
+   [
+    "1° gennaio 2021",
+    "Avvio degli scambi nell'Area di libero scambio continentale africana"
+   ],
+   [
+    "Settembre 2024",
+    "Vertice del Forum di cooperazione Cina-Africa a Pechino"
+   ],
+   [
+    "Aprile 2025",
+    "Gli Stati Uniti annunciano nuovi dazi che colpiscono anche Paesi africani"
+   ],
+   [
+    "30 settembre 2025",
+    "Scade l'accordo commerciale statunitense AGOA"
+   ]
   ]
  },
  "luoghi": {
@@ -14314,13 +16869,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "p": [
     "Belgium",
     "Montenegro"
-   ],
-   "pt": []
-  },
-  "z8e9bc319": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -16775,6 +19323,703 @@ window.EDIZIONI["2026-10-12-sera"] = {
     "Russia"
    ],
    "pt": []
+  },
+  "z89befd18": {
+   "n": "Sunderland",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z735f767f": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zd764ab73": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2e9dc526": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z335e9f9c": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8e075976": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z3f93cfb3": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb2474614": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "z913f633f": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze1d08675": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf9ca22cb": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za8e5874f": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "zaab0daac": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd61adad5": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z55a6605d": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z891b48f8": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8c5410c1": {
+   "n": "Algeri",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "zde7e84d7": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z7e61646b": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zae8e3373": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z538ec423": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdbcaef01": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z8cd5489b": {
+   "n": "Fergana",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z527147c6": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zac717fc2": {
+   "n": "Bogotà",
+   "p": [
+    "Colombia"
+   ],
+   "pt": []
+  },
+  "z759ecc64": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z61064b02": {
+   "n": "Sistema solare",
+   "p": [],
+   "pt": []
+  },
+  "z284ca9ce": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9b1bb1a6": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z070c561d": {
+   "n": "Berlino",
+   "p": [
+    "Germany",
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "za24b061a": {
+   "n": "Santo Domingo",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "z01f21f62": {
+   "n": "Sardegna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7dba43cd": {
+   "n": "Stratford",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z58a50080": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z8573b95c": {
+   "n": "Luna",
+   "p": [],
+   "pt": []
+  },
+  "zea149ca9": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z98c801ab": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z2902735a": {
+   "n": "Kampala",
+   "p": [
+    "Uganda",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z839a7b77": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom",
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "za24f5747": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z274f53e6": {
+   "n": "Wenchi",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zd3253518": {
+   "n": "Beausoleil",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zf05a61e9": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zff02d11f": {
+   "n": "St Helens",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z59983990": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1f1da592": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan",
+    "Sudan"
+   ],
+   "pt": []
+  },
+  "z625bed43": {
+   "n": "Freetown",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "z054765a3": {
+   "n": "Spazio",
+   "p": [],
+   "pt": []
+  },
+  "z8dfa409a": {
+   "n": "Beausoleil",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zbc1c9044": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z342b6bb3": {
+   "n": "Penrhys",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zd9f6917b": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z73f44727": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z46f7b14d": {
+   "n": "Medina Sering Mass",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "z9309dbd1": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "z2501453f": {
+   "n": "Sitges",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z10917a54": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf8749807": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1e6992e8": {
+   "n": "Parma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z00205986": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "z9f491165": {
+   "n": "Soufrière",
+   "p": [
+    "Saint Lucia"
+   ],
+   "pt": []
+  },
+  "z3947ccdf": {
+   "n": "La Seu d'Urgell",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z6a901141": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb964bca6": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zbb2649d4": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zed7ce264": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z55edeb31": {
+   "n": "East Grand Bahama",
+   "p": [
+    "Bahamas"
+   ],
+   "pt": []
+  },
+  "z13fc8653": {
+   "n": "Indore",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zfed4b068": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
+  },
+  "z386166b4": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z1f63b4ea": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z46edd1c4": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zd5d2306f": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z6950c019": {
+   "n": "Lucca",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf72e9f5f": {
+   "n": "Gros Islet",
+   "p": [
+    "Saint Lucia"
+   ],
+   "pt": []
+  },
+  "zc39d5dad": {
+   "n": "São Tomé",
+   "p": [
+    "São Tomé and Principe"
+   ],
+   "pt": []
+  },
+  "z18e4c65d": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zf3cda75e": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb35e1929": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9963e319": {
+   "n": "Boston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0fd4028f": {
+   "n": "Cambridge",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf8784ab6": {
+   "n": "Grenada",
+   "p": [
+    "Grenada"
+   ],
+   "pt": []
+  },
+  "z2b3d6058": {
+   "n": "Praia",
+   "p": [
+    "Cabo Verde"
+   ],
+   "pt": []
+  },
+  "zeea6f466": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb7f34d18": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "za2739fa4": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z82e24081": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z77bcffc6": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfb27c758": {
+   "n": "St. John's",
+   "p": [
+    "Antigua and Barb."
+   ],
+   "pt": []
+  },
+  "zff1d3f2c": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z4e54caae": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z97fb66c2": {
+   "n": "Parma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z984dc845": {
+   "n": "Bates County",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1ec8780e": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z80c7f459": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zdafff579": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z88d88c83": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z58f3bb33": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z32d088f7": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zce199180": {
+   "n": "Colorado",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zfdc8cbdf": {
+   "n": "Borneo",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -16857,7 +20102,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z1c863ae2": 1,
   "z30a69d45": 1,
   "z21d1aee2": 1,
-  "z8e9bc319": 1,
   "zc89c1ee2": 1,
   "z51b26709": 1,
   "z94159db0": 1,
@@ -17218,7 +20462,108 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z2a6eb017": 1,
   "z83d81af5": 1,
   "z1bb2bb8a": 1,
-  "zbe4c400b": 2
+  "zbe4c400b": 2,
+  "z89befd18": 1,
+  "z735f767f": 1,
+  "zd764ab73": 1,
+  "z2e9dc526": 1,
+  "z335e9f9c": 1,
+  "z8e075976": 1,
+  "z3f93cfb3": 1,
+  "zb2474614": 2,
+  "z913f633f": 1,
+  "ze1d08675": 1,
+  "zf9ca22cb": 1,
+  "za8e5874f": 1,
+  "zaab0daac": 1,
+  "zd61adad5": 1,
+  "z55a6605d": 1,
+  "z891b48f8": 1,
+  "z8c5410c1": 1,
+  "zde7e84d7": 1,
+  "z7e61646b": 1,
+  "zae8e3373": 1,
+  "z538ec423": 1,
+  "zdbcaef01": 1,
+  "z8cd5489b": 1,
+  "z527147c6": 1,
+  "zac717fc2": 1,
+  "z759ecc64": 1,
+  "z61064b02": 1,
+  "z284ca9ce": 1,
+  "z9b1bb1a6": 1,
+  "z070c561d": 1,
+  "za24b061a": 1,
+  "z01f21f62": 1,
+  "z7dba43cd": 1,
+  "z58a50080": 1,
+  "z8573b95c": 1,
+  "zea149ca9": 1,
+  "z98c801ab": 1,
+  "z2902735a": 1,
+  "z839a7b77": 1,
+  "za24f5747": 1,
+  "z274f53e6": 1,
+  "zd3253518": 1,
+  "zf05a61e9": 1,
+  "zff02d11f": 1,
+  "z59983990": 1,
+  "z1f1da592": 1,
+  "z625bed43": 1,
+  "z054765a3": 1,
+  "z8dfa409a": 1,
+  "zbc1c9044": 2,
+  "z342b6bb3": 1,
+  "zd9f6917b": 1,
+  "z73f44727": 1,
+  "z46f7b14d": 1,
+  "z9309dbd1": 1,
+  "z2501453f": 1,
+  "z10917a54": 1,
+  "zf8749807": 1,
+  "z1e6992e8": 1,
+  "z00205986": 1,
+  "z9f491165": 1,
+  "z3947ccdf": 1,
+  "z6a901141": 1,
+  "zb964bca6": 2,
+  "zbb2649d4": 1,
+  "zed7ce264": 1,
+  "z55edeb31": 1,
+  "z13fc8653": 1,
+  "zfed4b068": 1,
+  "z386166b4": 1,
+  "z1f63b4ea": 2,
+  "z46edd1c4": 1,
+  "zd5d2306f": 1,
+  "z6950c019": 2,
+  "zf72e9f5f": 1,
+  "zc39d5dad": 1,
+  "z18e4c65d": 1,
+  "zf3cda75e": 1,
+  "zb35e1929": 2,
+  "z9963e319": 1,
+  "z0fd4028f": 1,
+  "zf8784ab6": 1,
+  "z2b3d6058": 1,
+  "zeea6f466": 1,
+  "zb7f34d18": 1,
+  "za2739fa4": 2,
+  "z82e24081": 1,
+  "z77bcffc6": 1,
+  "zfb27c758": 1,
+  "zff1d3f2c": 1,
+  "z4e54caae": 1,
+  "z97fb66c2": 1,
+  "z984dc845": 1,
+  "z1ec8780e": 1,
+  "z80c7f459": 1,
+  "zdafff579": 1,
+  "z88d88c83": 1,
+  "z58f3bb33": 1,
+  "z32d088f7": 2,
+  "zce199180": 1,
+  "zfdc8cbdf": 1
  },
  "video": {},
  "pillole": []
