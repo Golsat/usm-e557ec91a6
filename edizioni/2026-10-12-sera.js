@@ -3,6 +3,2249 @@ window.EDIZIONI["2026-10-12-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z5662cf00",
+   "sez": "cucina",
+   "titolo": "Torino accoglie Buonissima 2026 tra alta cucina e piole tradizionali",
+   "orig": "A Buonissima 2026 Torino serve l’arte, dalla GAM alle piole",
+   "lead": "Dal 21 al 25 ottobre la città di Torino ospita la manifestazione gastronomica Buonissima 2026, un evento che unisce alta ristorazione e tradizioni locali. Tra gli appuntamenti principali in programma spicca la partecipazione degli chef Niko Romito e Jeremy Chan, impegnati a cucinare all'interno della Galleria Civica d'Arte Moderna e Contemporanea. Oltre alla presenza dei rinomati cuochi nei musei, la rassegna coinvolge l'intera ristorazione urbana, animando i bistrot cittadini e valorizzando le tradizionali piole piemontesi per celebrare l'incontro tra cultura e convivialità. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Le piole sono le tipiche osterie piemontesi a conduzione familiare, storicamente legate alla cucina popolare e informale di Torino e dintorni. Nella cultura culinaria regionale rappresentano il punto di riferimento per i piatti tradizionali, affiancandosi nell'offerta gastronomica ai ristoranti di alta cucina e ai bistrot contemporanei."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/buonissima-2026-torino-serve-arte-dalla-gam-alle-piole/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb45a44cf",
+   "sez": "ambiente",
+   "titolo": "Inaugurato un nuovo sentiero boschivo nel Parco Nazionale Muránska Planina",
+   "orig": "New forest trail opens near Slovakia’s ground squirrel meadow",
+   "lead": "In Slovacchia è stato inaugurato un nuovo sentiero naturalistico situato nei pressi del celebre prato dei citelli, nelle vicinanze del Parco Nazionale Muránska Planina. L'itinerario, della durata stimata di circa un'ora, attraversa un'area boschiva ed è arricchito da diverse tappe informative che illustrano le caratteristiche della vegetazione forestale locale e le specie animali che popolano la riserva. Il percorso punta a valorizzare il patrimonio ambientale offrendo ai visitatori indicazioni educative sulla conservazione della fauna e degli ecosistemi boschivi del territorio slovacco. Lo riferisce The Slovak Spectator.",
+   "more": [
+    "Il citello europeo è un piccolo roditore diurno che vive in colonie all'interno di prati e pascoli aperti. Il Parco Nazionale Muránska Planina è una vasta area protetta della Slovacchia centro-meridionale, rinomata per la biodiversità, i rilievi carsici e le estese foreste che ospitano numerose specie selvatiche."
+   ],
+   "fonti": [
+    {
+     "n": "The Slovak Spectator",
+     "p": "XX",
+     "c": "Bratislava",
+     "u": "https://spectator.sme.sk/travel/c/muranska-planina-forest-trail-syslovisko?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss",
+     "angolo": "",
+     "atlas": "Slovakia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3f6bd954",
+   "sez": "organizzazioni",
+   "titolo": "Rapporto Aiea: il monitoraggio giapponese sulle acque trattate è accurato e affidabile",
+   "orig": "IAEA Report Finds Japan's Monitoring of ALPS Treated Water Accurate and Reliable",
+   "lead": "L'Agenzia internazionale per l'energia atomica ha pubblicato un nuovo rapporto ufficiale dedicato alle attività di scarico condotte in Giappone. Nel documento, gli esperti dell'organismo internazionale certificano che le procedure di monitoraggio adottate dalle autorità giapponesi per controllare l'acqua trattata attraverso il sistema ALPS risultano pienamente accurate e affidabili. Le valutazioni tecniche confermano la precisione delle misurazioni eseguite nel Paese sulle acque gestite, assicurando la trasparenza e la conformità delle verifiche relative al piano giapponese. Lo riferisce Agenzia internazionale per l'energia atomica (Aiea).",
+   "more": [
+    "Il sistema ALPS, acronimo di Advanced Liquid Processing System, è un impianto di filtraggio utilizzato in Giappone per rimuovere la maggior parte degli isotopi radioattivi dalle acque contaminate, prima del loro rilascio controllato nell'oceano sotto la supervisione tecnica e i controlli dell'Aiea."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-report-finds-japans-monitoring-of-alps-treated-water-accurate-and-reliable",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze39b1d2c",
+   "sez": "sport",
+   "titolo": "Rugby a 13: annunciate le squadre del Pacifico per i Mondiali 2026",
+   "orig": "2026 Rugby League World Cup: All Pacific Island squads and fixtures",
+   "lead": "Sono state definite le rose e i calendari di gara per le formazioni delle isole del Pacifico in vista della Coppa del Mondo di rugby a 13 del 2026. Saranno complessivamente cinque selezioni maschili e tre rappresentative femminili a difendere i colori della regione oceanica nel torneo iridato. La competizione vedrà le squadre del Pacifico impegnate nei rispettivi gironi per contendersi il titolo mondiale, consolidando la forte tradizione sportiva dell'area nel rugby a 13 a livello internazionale.",
+   "more": [
+    "Il rugby a 13, noto a livello internazionale come rugby league, è una disciplina di squadra molto diffusa nelle nazioni insulari del Pacifico e in Oceania. La Coppa del Mondo riunisce periodicamente le migliori nazionali maschili e femminili in una rassegna agonistica di vertice."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1860222/2026-rugby-league-world-cup-all-pacific-island-squads-and-fixtures",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    },
+    {
+     "n": "Pacific Islands Report",
+     "p": "XX",
+     "c": "Yaren",
+     "u": "https://pireport.org/2026/10/08/pacific-islands-news-roundup-september-24-september-30-2026-2/",
+     "angolo": "",
+     "atlas": "Nauru"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb2c17e71",
+   "sez": "spazio",
+   "titolo": "Il satellite Copernicus Sentinel-3C invia le prime immagini della Terra",
+   "orig": "Sentinel-3C returns its first views of Earth",
+   "lead": "A sole due settimane dal suo lancio in orbita, il satellite Copernicus Sentinel-3C dell'Agenzia spaziale europea ha trasmesso le sue prime immagini e misurazioni della Terra, acquisite da due dei suoi strumenti principali. Il successo della trasmissione rappresenta un traguardo fondamentale che attesta il corretto funzionamento delle apparecchiature di bordo. Il satellite è ora pronto a svolgere la sua missione operativa, mirata al monitoraggio costante dello stato di salute degli oceani terrestri, delle superfici continentali, della criosfera e dell'atmosfera del nostro pianeta. Lo riferisce Agenzia spaziale europea (Esa).",
+   "more": [
+    "Il programma Copernicus è l'iniziativa di osservazione della Terra guidata dall'Unione Europea insieme all'Esa per monitorare l'ambiente e il clima globale. I satelliti della flotta Sentinel forniscono dati satellitari continui e ad alta precisione, essenziali per studiare le variazioni climatiche, gestire le risorse naturali e prevenire le emergenze ecologiche."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia spaziale europea (Esa)",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth",
+     "angolo": "",
+     "atlas": ""
+    },
+    {
+     "n": "Agenzia spaziale europea (Esa)",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4b0863e8",
+   "sez": "salute",
+   "titolo": "Sciopero di due settimane per i dirigenti sanitari di Counties Manukau",
+   "orig": "Counties Manukau health managers to strike",
+   "lead": "I dirigenti sanitari dell'area di Counties Manukau, impiegati presso l'ente pubblico Health New Zealand, hanno proclamato uno sciopero parziale che durerà due settimane a partire dalla fine del mese. L'agitazione sindacale coinvolgerà il personale con incarichi gestionali all'interno delle strutture sanitarie della regione neozelandese, aprendo una fase di mobilitazione che potrebbe incidere sull'amministrazione ospedaliera locale. L'iniziativa di protesta dei responsabili punta a richiamare l'attenzione sulle condizioni lavorative e organizzative della sanità pubblica del Paese oceanico. Lo riferisce RNZ.",
+   "more": [
+    "Health New Zealand è l'autorità pubblica responsabile del coordinamento e dell'erogazione di tutti i servizi sanitari nazionali in Nuova Zelanda. Il distretto di Counties Manukau comprende strutture ospedaliere che servono un'ampia comunità nell'area meridionale di Auckland, rappresentando uno dei poli sanitari più rilevanti e complessi della nazione."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/health/1866882/counties-manukau-health-managers-to-strike",
+     "angolo": "",
+     "atlas": "New Zealand"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd3d16fa5",
+   "sez": "ambiente",
+   "titolo": "A Berlino un'app permette ai cittadini di innaffiare gli alberi del quartiere",
+   "orig": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
+   "lead": "A Berlino migliaia di cittadini stanno adottando e innaffiando gli alberi del proprio quartiere grazie all'applicazione open source Gieß den Kiez, espressione che significa letteralmente \"annaffia il tuo quartiere\". La piattaforma digitale mette a disposizione degli utenti una mappa interattiva che censisce circa novecentomila alberi stradali della capitale tedesca, indicandone lo stato di idratazione. L'iniziativa civica consente di tutelare il verde urbano durante le ripetute ondate di calore estivo, coinvolgendo la popolazione nella cura del patrimonio naturale come se si trattasse di animali domestici. Lo riferisce Good News Network.",
+   "more": [
+    "La gestione delle isole di calore urbane e la tutela degli alberi cittadini sono diventate prioritarie per molte metropoli europee durante le stagioni estive sempre più torride. Piattaforme basate su dati aperti permettono di coordinare l'irrigazione volontaria, garantendo la sopravvivenza della vegetazione urbana e migliorando il microclima dei quartieri cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "good": true,
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb4015361",
+   "sez": "ambiente",
+   "titolo": "La Papua Nuova Guinea chiede azioni concrete alla COP31 in Turchia",
+   "orig": "PNG calls for COP31 to deliver implementation not just commitments",
+   "lead": "La Papua Nuova Guinea ha formalmente chiesto che la conferenza sul clima COP31, prevista ad Antalya in Turchia, si concentri sull'attuazione concreta dei piani ambientali e non su semplici impegni programmatici. Il governo dello Stato oceanico sollecita azioni climatiche immediate, meccanismi di finanziamento accessibili e una transizione ecologica equa, capace di tenere conto delle reali esigenze di sviluppo dei Paesi insulari del Pacifico. La richiesta sottolinea la vulnerabilità delle nazioni oceaniche di fronte ai cambiamenti climatici e l'urgenza di passare dalle promesse ai fatti tangibili. Lo riferisce Post-Courier.",
+   "more": [
+    "Le conferenze delle Nazioni Unite sui cambiamenti climatici, note come COP, riuniscono annualmente i governi mondiali per concordare strategie globali contro il riscaldamento terrestre. Gli Stati insulari del Pacifico risultano tra i più esposti all'innalzamento del livello dei mari e agli eventi meteorologici estremi provocati dalle variazioni climatiche."
+   ],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/png-calls-for-cop31-to-deliver-implementation-not-just-commitments/",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z13ae28b8",
+   "sez": "organizzazioni",
+   "titolo": "Aiea: trizio sotto i limiti nel ventiquattresimo lotto di acqua trattata in Giappone",
+   "orig": "Tritium Level Far Below Japan’s Operational Limit in 24th Batch of ALPS Treated Water, IAEA Confirms",
+   "lead": "L'Agenzia internazionale per l'energia atomica ha confermato che la concentrazione di trizio rilevata nel ventiquattresimo lotto di acqua trattata tramite il sistema ALPS in Giappone è ampiamente inferiore al limite operativo stabilito dalle autorità. L'organismo indipendente con sede a Vienna ha verificato i campioni analitici prima dello sversamento, certificando che i parametri radiologici rispettano pienamente gli standard di sicurezza previsti per le operazioni di scarico marino. I controlli tecnici dell'agenzia assicurano un monitoraggio continuo della regolarità delle procedure ambientali in corso. Lo riferisce Agenzia internazionale per l'energia atomica (Aiea).",
+   "more": [
+    "Il trizio è un isotopo radioattivo dell'idrogeno difficile da separare con i comuni trattamenti di filtraggio, motivo per cui le acque trattate vengono diluite in grandi volumi per ridurne drasticamente la concentrazione al di sotto delle soglie di sicurezza internazionali prima del rilascio controllato nell'oceano."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-24th-batch-of-alps-treated-water-iaea-confirms",
+     "angolo": "",
+     "atlas": ""
+    },
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-led-team-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6afbabb0",
+   "sez": "economia",
+   "titolo": "Usa, gli emissari di Trump propongono intesa sul diesel russo per avviare negoziati di pace",
+   "orig": "US hopes diesel deal can 'soften' Moscow on peace talks, sources say",
+   "lead": "Gli emissari del presidente statunitense Donald Trump hanno comunicato ai funzionari ucraini che un accordo per consentire le esportazioni di diesel russo fa parte di un tentativo per riavvicinare Mosca ai negoziati di pace. La proposta è emersa a seguito del fallimento dei precedenti sforzi diplomatici volti ad avviare colloqui stabili per porre fine alla guerra in corso. Secondo quanto riferito da fonti a conoscenza dell'incontro, la Casa Bianca punta a sfruttare le concessioni commerciali sul carburante come leva per ammorbidire le posizioni del Cremlino e favorire la ripresa del dialogo.",
+   "more": [
+    "Le sanzioni internazionali sul petrolio e sui prodotti raffinati russi, come il gasolio, rappresentano uno dei principali strumenti di pressione economica adottati per limitare le entrate finanziarie di Mosca. Qualsiasi revisione o deroga su tali esportazioni incide direttamente sia sugli equilibri del mercato energetico globale sia sui negoziati diplomatici."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks-sources-say",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/12/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks",
+     "angolo": "",
+     "atlas": "Cyprus"
+    },
+    {
+     "n": "The Baltic Times",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "http://www.baltictimes.com/lithuanian_fm_says_trump-putin_diesel_deal_weakens_western_position/",
+     "angolo": "",
+     "atlas": "Lithuania"
+    },
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/three-term-amenfi-west-ndc-secretary-eyes-western-regional-deputy-secretary-position",
+     "angolo": "",
+     "atlas": "Ghana"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcc4f4a70",
+   "sez": "spazio",
+   "titolo": "La missione SpaceX CRS-35 porterà a bordo della Iss esperimenti biomedici della Nasa",
+   "orig": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+   "lead": "La missione di rifornimento commerciale SpaceX CRS-35 della NASA trasporterà sulla Stazione Spaziale Internazionale una serie di esperimenti scientifici dedicati alla salute umana, alla fisiologia vegetale e allo studio degli organismi resistenti ai farmaci. Il lancio è programmato dalla base spaziale di Cape Canaveral in Florida. Le ricerche a bordo della stazione orbitante mirano a proteggere il benessere degli astronauti durante le missioni di lunga durata nel cosmo e a raccogliere dati biomedici con ricadute benefiche per la vita sulla Terra e per l'esplorazione spaziale futura. Lo riferisce Nasa.",
+   "more": [
+    "Le missioni Commercial Resupply Services sono voli regolari di rifornimento cargo operati da aziende private per conto della NASA, destinati a trasportare rifornimenti e carichi scientifici sulla Stazione Spaziale Internazionale. L'ambiente di microgravità offre condizioni uniche per studiare le risposte cellulari, la crescita delle piante e l'efficacia dei trattamenti medici."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z57fe3f57",
+   "sez": "cultura",
+   "titolo": "RM dei BTS espone la sua collezione d'arte privata al museo SFMOMA",
+   "orig": "BTS frontman RM is showing his art collection. Fans are flocking to see it",
+   "lead": "Il cantante sudcoreano RM, leader della celebre band pop BTS, espone per la prima volta al pubblico le opere della sua collezione d'arte privata. L'iniziativa ha richiamato una straordinaria folla di appassionati e visitatori presso il Museo d'Arte Moderna di San Francisco, dove la mostra è attualmente allestita. La rassegna segna il debutto da collezionista della popstar globale nelle sale museali statunitensi, attirando un vasto pubblico eterogeneo che combina gli estimatori della musica contemporanea con gli amanti delle arti visive. Lo riferisce NPR – Musica.",
+   "more": [
+    "Il San Francisco Museum of Modern Art, noto come SFMOMA, è uno dei musei d'arte moderna e contemporanea più importanti degli Stati Uniti. Negli ultimi anni il cantante RM si è affermato come un collezionista appassionato e mecenate culturale, sostenendo artisti contemporanei e istituzioni museali a livello internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "NPR – Musica",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/07/nx-s1-5986317/bts-rm-sfmoma-korean-art-san-francisco",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3c60ee65",
+   "sez": "cultura",
+   "titolo": "Chisinau, una mostra sulla casa tradizionale del sud della Moldavia",
+   "orig": "IPN | Cultural Agenda | October 13",
+   "lead": "A Chisinau, il Museo nazionale di etnografia e storia naturale inaugura la mostra «Architettura e identità: la casa tradizionale nel sud della Repubblica di Moldavia». L'esposizione è l'appuntamento principale dell'agenda culturale del 13 ottobre, che segnala gli eventi in programma nella capitale moldava. Al centro del percorso ci sono le abitazioni tradizionali delle regioni meridionali del Paese, osservate come espressione dell'identità locale attraverso le forme dell'architettura. Gli organizzatori legano così il patrimonio costruito alla memoria e alla cultura delle comunità che lo hanno abitato. Lo riferisce IPN (inglese).",
+   "more": [
+    "La Moldavia è un piccolo Paese dell'Europa orientale, stretto tra Romania e Ucraina, con una forte tradizione rurale. Le case contadine, spesso intonacate e decorate, sono considerate una parte importante del patrimonio popolare. I musei etnografici raccolgono oggetti, abiti e testimonianze della vita quotidiana per conservarne la memoria."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/ipn-cultural-agenda-october-13-2/",
+     "angolo": "",
+     "atlas": "Moldova"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdc740185",
+   "sez": "salute",
+   "titolo": "Figi, lo stigma spinge le persone con Hiv all'isolamento",
+   "orig": "Stigma forcing HIV patients into isolation",
+   "lead": "Nelle Figi molte persone sieropositive vivono isolate a causa di una convinzione sbagliata: che il virus Hiv si trasmetta a chi sta loro vicino. Questa disinformazione alimenta lo stigma sociale, al punto che molti nascondono la propria condizione e saltano le visite di controllo programmate nelle cliniche. A lanciare l'allarme è la dottoressa Shayal Sunika, rappresentante dell'organizzazione Empower Pacific, che sottolinea come i pregiudizi finiscano per ostacolare la cura e il regolare monitoraggio dei pazienti. Lo riferisce FBC News.",
+   "more": [
+    "L'Hiv è il virus che, senza cure, porta all'Aids. Non si trasmette con i contatti quotidiani come abbracci, strette di mano o condivisione degli spazi, ma soprattutto attraverso sangue e rapporti sessuali non protetti. Le terapie antiretrovirali, se seguite con costanza e controlli regolari, permettono una vita lunga e riducono fortemente il rischio di contagio."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/stigma-forcing-hiv-patients-into-isolation/",
+     "angolo": "",
+     "atlas": "Fiji"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0b5860b1",
+   "sez": "viaggi",
+   "titolo": "Tuscia esoterica: un itinerario tra simboli templari, boschi sacri e streghe",
+   "orig": "La magia della Tuscia. Un itinerario esoterico tra simboli templari, boschi sacri, streghe e borghi sospesi",
+   "lead": "La Tuscia, terra antichissima scolpita nel tufo, viene proposta come meta di un itinerario esoterico tra simboli templari, boschi sacri, leggende di streghe e borghi sospesi. Il territorio, attraversato un tempo dalla civiltà etrusca e segnato da culti e racconti popolari, conserva secondo l'autore un fascino che la sola storia non basta a spiegare. Il percorso suggerito porta il viaggiatore nei boschi e nelle forre della zona, alla scoperta di luoghi che, più che essere visitati, sembrano chiedere di essere interpretati. Lo riferisce Turisti per Caso.",
+   "more": [
+    "La Tuscia è l'area storica che corrisponde in gran parte alla provincia di Viterbo, nel nord del Lazio. È nota per i borghi costruiti sul tufo, le necropoli etrusche, le forre scavate dai corsi d'acqua e le leggende popolari che ne alimentano l'immagine misteriosa."
+   ],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/destinazioni/la-magia-della-tuscia-un-itinerario-esoterico-tra-simboli-templari-boschi-sacri-streghe-e-borghi-sospesi.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zda512efb",
+   "sez": "cultura",
+   "titolo": "Image Comics annuncia Roam, nuova serie degli autori di Paper Girls",
+   "orig": "Image Comics annuncia Roam, la nuova serie degli autori di Paper Girls",
+   "lead": "Lo sceneggiatore Brian K. Vaughan e il disegnatore Cliff Chiang tornano a lavorare insieme: l'editore statunitense Image Comics ha annunciato Roam, una nuova serie a fumetti firmata dalla coppia che aveva già realizzato Paper Girls. L'annuncio segna il ritorno di un sodalizio creativo apprezzato dai lettori, a distanza dalla conclusione della loro opera precedente. Per ora la notizia riguarda la nascita del progetto e la sua pubblicazione presso Image Comics. Lo riferisce Fumettologica.",
+   "more": [
+    "Image Comics è una delle principali case editrici di fumetti degli Stati Uniti, nota per lasciare agli autori la proprietà delle proprie opere. Paper Girls, scritto da Vaughan e disegnato da Chiang, racconta le avventure nel tempo di un gruppo di ragazze che consegnano giornali; Vaughan è noto anche per Saga."
+   ],
+   "fonti": [
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/10/roam-vaughan-chiang/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7c954e10",
+   "sez": "ambiente",
+   "titolo": "Texas, una famiglia vende 650 acri sul lago Palestine per farne un parco statale",
+   "orig": "Family Sells 650 Acres on East Texas Lake to Become State Park, Saying Land is ‘Part of my soul’",
+   "lead": "Nel Texas orientale una famiglia proprietaria da più generazioni ha venduto 650 acri di terreno sulle rive del lago Palestine perché diventino un parco statale. Si tratta del tratto continuo di sponda più lungo rimasto sul lago, con boschi di pini, piccole scarpate, zone umide e un frutteto di noci pecan che presto saranno aperti al pubblico. Per uno dei proprietari quel terreno è «parte della mia anima»: la vendita servirà a conservarlo e a renderlo accessibile a tutti. Lo riferisce Good News Network.",
+   "more": [
+    "I parchi statali negli Stati Uniti sono aree protette gestite dai singoli Stati, che tutelano ambienti naturali e offrono spazi per escursioni, campeggio e attività all'aperto. Le zone umide, come quelle presenti nel terreno, sono habitat preziosi per molte specie e contribuiscono a regolare le acque."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "good": true,
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z74ea11cd",
+   "sez": "ingegneria",
+   "titolo": "Milano, la mostra «Sentirsi bene» racconta il comfort acustico",
+   "orig": "Viaggio nel comfort acustico",
+   "lead": "A Milano l'azienda Tecnoasfalti ha organizzato la mostra «Sentirsi bene», dedicata al comfort acustico e al ruolo del silenzio nel benessere quotidiano. L'esposizione propone un percorso sensoriale che invita i visitatori a sperimentare in prima persona l'effetto dei suoni e dei rumori sugli ambienti in cui si vive. Riprendendo il proverbio secondo cui il silenzio è d'oro, l'iniziativa vuole mostrare quanto la qualità acustica degli spazi incida sullo stare bene delle persone. Lo riferisce Abitare.",
+   "more": [
+    "Il comfort acustico riguarda la capacità di un ambiente di proteggere dai rumori esterni e di controllare quelli interni, per esempio con isolamenti e materiali fonoassorbenti. È un tema centrale dell'edilizia e del design, perché il rumore eccessivo influisce su concentrazione, riposo e salute."
+   ],
+   "fonti": [
+    {
+     "n": "Abitare",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.abitare.it/it/eventi/2026/10/06/tecnasfalti-esperienza-suono-benessere/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2f8c938d",
+   "sez": "cucina",
+   "titolo": "Tartufini al tiramisù con soli tre ingredienti",
+   "orig": "Tartufini tiramisù 3 ingredienti (video)",
+   "lead": "La Cucina Italiana propone una ricetta veloce, accompagnata da un video: i tartufini al tiramisù preparati con appena tre ingredienti. Si tratta di piccoli dolcetti pensati per la merenda o per chiudere un pasto, che si realizzano in pochissimo tempo e possono essere preparati anche il giorno prima. Il suggerimento della rivista è servirli insieme al caffè, abbinamento che richiama il sapore del dolce da cui prendono ispirazione e che, secondo la testata, li rende perfetti. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Il tiramisù è uno dei dolci italiani più conosciuti al mondo, a base di savoiardi bagnati nel caffè, crema al mascarpone e cacao. I tartufini sono piccole palline dolci, simili a praline, che reinterpretano in formato da un boccone sapori di dolci classici."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/tiramisu-facilissimo-3-ingredienti-tartufini-video/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1d445299",
+   "sez": "ambiente",
+   "titolo": "Namibia, «l'energia solare non è una soluzione di serie B»",
+   "orig": "Rural communities told solar electricity is not a second-class solution",
+   "lead": "In Namibia la viceministra dell'Industria, delle miniere e dell'energia Gaudentia Kröhne ha invitato le comunità rurali a non considerare l'elettricità solare una soluzione di seconda categoria, perché può alimentare le abitazioni proprio come quella della rete nazionale. L'appello è arrivato domenica durante la ventinovesima edizione del Tulikongwe Cultural Festival, organizzato nel villaggio di Choi, nella regione dello Zambezi, con la partecipazione delle autorità tradizionali Mashi. L'obiettivo è favorire la diffusione del solare nelle aree non raggiunte dalla rete. Lo riferisce The Namibian.",
+   "more": [
+    "La Namibia è un Paese dell'Africa australe molto soleggiato, con vaste aree rurali poco popolate dove portare la rete elettrica è costoso. Gli impianti solari domestici o di villaggio rappresentano spesso il modo più rapido per garantire l'accesso all'energia. La regione dello Zambezi si trova nel nord-est del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/rural-communities-told-solar-electricity-is-not-a-second-class-solution/",
+     "angolo": "",
+     "atlas": "Namibia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z161ebafe",
+   "sez": "sport",
+   "titolo": "Robbie Savage, esordio da allenatore del Peterborough con un 3-1 al Leicester",
+   "orig": "Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling",
+   "lead": "Robbie Savage ha debuttato in League One come nuovo allenatore del Peterborough, nel suo primo incarico in panchina nella Football League inglese, vincendo 3-1 in casa del Leicester, il club in cui si era fatto un nome da calciatore e che ora attraversa un momento difficile. Personaggio da sempre divisivo, noto da giocatore per i lunghi capelli biondi e i contrasti duri che lo resero a un certo punto il più ammonito della storia della Premier League, Savage ha mostrato con questa vittoria la sua filosofia senza paura. Lo riferisce The Guardian.",
+   "more": [
+    "Robbie Savage è un ex centrocampista gallese, diventato poi un volto noto dei media sportivi britannici come commentatore. La League One è il terzo livello del calcio professionistico inglese, sotto Premier League e Championship. Peterborough e Leicester sono due club storici del calcio inglese."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/oct/11/robbie-savage-peterborough-manager-leicester",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/meatco-puts-400-workers-on-leave-with-full-pay-amid-fmd/",
+     "angolo": "",
+     "atlas": "Namibia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9a9217f7",
+   "sez": "adolescenti",
+   "titolo": "Liverpool, alla scoperta della fauna nascosta nelle acque del porto",
+   "orig": "The slimy wildlife hidden in Liverpool docks",
+   "lead": "A Liverpool il progetto Dockwatch permette alle persone di scoprire quali creature vivono nelle acque dell'Albert Dock, lo storico bacino portuale della città. L'iniziativa è promossa dal World Museum Liverpool insieme al Canal and River Trust, l'ente che si occupa di canali e fiumi. Il giovane reporter Otis è andato a vedere da vicino come funziona il progetto e a conoscere gli animaletti, spesso viscidi e poco noti, che popolano l'ambiente acquatico del porto. Lo riferisce BBC Newsround.",
+   "more": [
+    "L'Albert Dock è un complesso di magazzini e bacini portuali dell'Ottocento, oggi tra le zone più visitate di Liverpool, con musei, negozi e locali. Anche le acque delle aree urbane ospitano molti piccoli organismi, come invertebrati e alghe, utili per capire lo stato di salute dell'ambiente."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/videos/cxnv03ylq41eo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera",
+   "sub": "scienza"
+  },
+  {
+   "id": "z6ccab54a",
+   "sez": "salute",
+   "titolo": "Nigeria, il governatore di Kaduna: la salute mentale è ormai una priorità",
+   "orig": "Kaduna has mainstreamed mental health, says Uba Sani",
+   "lead": "Il governatore dello Stato di Kaduna, in Nigeria, Uba Sani, ha dichiarato che la sua amministrazione ha integrato la salute mentale nelle politiche sanitarie dello Stato. L'annuncio è arrivato venerdì all'ospedale neuropsichiatrico federale di Barnawa, a Kaduna, durante le celebrazioni della Giornata mondiale della salute mentale 2026. Con questo intervento il governatore ha voluto presentare la salute mentale come parte stabile dell'assistenza pubblica e non più come un tema marginale. Lo riferisce Premium Times.",
+   "more": [
+    "La Giornata mondiale della salute mentale si celebra ogni anno il 10 ottobre per sensibilizzare sui disturbi psichici e sull'accesso alle cure. Kaduna è uno degli Stati del nord della Nigeria, il Paese più popoloso dell'Africa, dove i servizi per la salute mentale sono spesso insufficienti."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/promoted/916555-kaduna-has-mainstreamed-mental-health-says-uba-sani.html",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2f51e319",
+   "sez": "ingegneria",
+   "titolo": "Filippine, superato da 48 candidati su 159 l'esame di abilitazione per ingegneri navali",
+   "orig": "RESULTS: October 2026 Naval Architects Computer-Based Licensure Examination",
+   "lead": "Nelle Filippine la Professional Regulation Commission, l'ente che regola le professioni, ha reso noti i risultati dell'esame di abilitazione per architetti navali svolto al computer nell'ottobre 2026. Hanno superato la prova 48 candidati sui 159 che si erano presentati, meno di un terzo del totale. Il comunicato ufficiale ufficializza così i nuovi professionisti autorizzati a esercitare nel settore della progettazione navale nel Paese. Lo riferisce Rappler.",
+   "more": [
+    "L'architettura navale è la disciplina dell'ingegneria che si occupa di progettare navi e imbarcazioni, curandone stabilità, struttura e prestazioni. Nelle Filippine, Paese composto da migliaia di isole e con una forte tradizione marittima, molte professioni tecniche richiedono il superamento di un esame statale di abilitazione."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/bulletin-board/examination-results/naval-architects-computer-based-licensure-october-2026/",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6bb7e220",
+   "sez": "musica",
+   "titolo": "King Crimson, i brani migliori degli anni Settanta secondo la rivista Prog",
+   "orig": "King Crimson: i migliori brani degli anni 70 secondo il magazine Prog",
+   "lead": "La rivista britannica Prog ha scelto i migliori brani dei King Crimson negli anni Settanta, un decennio turbolento per la band. Quel periodo fu segnato da continui cambi di formazione, tensioni interne e profonde trasformazioni musicali, fino allo scioglimento deciso da Robert Fripp nel 1974, dopo aver completato l'album «Red». Nonostante tutto, in appena cinque anni dall'inizio del decennio il gruppo britannico riuscì a pubblicare sei album, materiale da cui è stata tratta la selezione. Lo riferisce OndaRock.",
+   "more": [
+    "I King Crimson sono tra i gruppi fondatori del rock progressivo, nati alla fine degli anni Sessanta. Il chitarrista Robert Fripp è stato l'unico membro costante nelle diverse formazioni. La band è nota per l'uso di strutture complesse, improvvisazione e influenze jazz e sperimentali."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/king-crimson-migliori-brani-anni-70-prog-louder/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8934860e",
+   "sez": "viaggi",
+   "titolo": "Cantiano, il borgo delle due rocche tra boschi e pane tipico",
+   "orig": "Incastonato tra boschi millenari: il borgo “delle 2 rocche” dove si sforna un pane introvabile altrove",
+   "lead": "Cantiano, nella provincia di Pesaro e Urbino, è conosciuto come il paese delle due rocche e viene proposto come meta per chi vuole scoprire un territorio spesso sottovalutato dal turismo. Il piccolo borgo, circondato da boschi antichissimi, custodisce una storia particolare e diversi tesori ancora poco conosciuti. Tra le sue specialità c'è anche un pane che, secondo la testata, è difficile trovare altrove e che rappresenta uno dei motivi per visitare il paese. Lo riferisce Turisti per Caso.",
+   "more": [
+    "La provincia di Pesaro e Urbino si trova nel nord delle Marche, tra la costa adriatica e l'Appennino. L'entroterra è ricco di borghi medievali, rocche e paesaggi collinari e montani, meno frequentati rispetto alle località balneari ma apprezzati da chi cerca un turismo lento."
+   ],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/destinazioni/incastonato-tra-boschi-millenari-il-borgo-delle-2-rocche-dove-si-sforna-un-pane-introvabile-altrove.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z26d7b070",
+   "sez": "mondo",
+   "titolo": "Giappone, il censimento conferma un calo della popolazione sempre più rapido",
+   "orig": "Japan Census Highlights Accelerating Population Decline",
+   "lead": "Il censimento nazionale del 2025 ha confermato che la popolazione del Giappone continua a diminuire e che il calo è più rapido rispetto a quello registrato nella rilevazione del 2020. I dati mostrano dunque un'accelerazione del declino demografico del Paese, un fenomeno che si protrae da anni e che il nuovo conteggio ufficiale rende ancora più evidente. La fonte non fornisce ulteriori dettagli sulle cifre, ma sottolinea la tendenza al peggioramento. Lo riferisce Nippon.com.",
+   "more": [
+    "Il Giappone è uno dei Paesi con la popolazione più anziana al mondo, a causa di un basso tasso di natalità e di un'elevata aspettativa di vita. Il calo demografico pone sfide al mercato del lavoro, al sistema pensionistico e alla vita delle aree rurali, sempre più spopolate."
+   ],
+   "fonti": [
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/japan-data/h02915/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z45b0089a",
+   "sez": "ambiente",
+   "titolo": "Seychelles, le tartarughe giganti di Aldabra sono circa 180mila",
+   "orig": "Giant Tortoise Population is Thriving–Survey Finds 180,000 on One Island Chain",
+   "lead": "Un censimento della più grande popolazione al mondo di tartarughe giganti libere ha mostrato che la specie, un tempo in pericolo, oggi prospera. Sull'atollo di Aldabra, nelle Seychelles, sono stati contati circa 180mila esemplari, il numero più alto mai registrato per questa specie, molto superiore alla popolazione umana dell'arcipelago. Il dato viene considerato un risultato importante per la conservazione di un animale che in passato aveva rischiato la scomparsa. Lo riferisce Good News Network.",
+   "more": [
+    "Aldabra è un atollo corallino remoto dell'oceano Indiano, appartenente alle Seychelles e patrimonio dell'umanità Unesco. Proprio l'isolamento e la scarsa presenza umana lo hanno reso un rifugio ideale per la tartaruga gigante di Aldabra, tra le testuggini terrestri più grandi esistenti."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "good": true,
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb59232f8",
+   "sez": "ingegneria",
+   "titolo": "Draga & Aurel, la resina tra design e arte",
+   "orig": "Trasparenze multicolor",
+   "lead": "Lo studio Draga & Aurel ha fatto della resina il cuore delle proprie sperimentazioni, sfruttandone la fluidità e la versatilità per creare oggetti dalle trasparenze multicolori. La rivista Abitare racconta il lavoro del duo, che utilizza questo materiale con un linguaggio capace di andare oltre il design di prodotto e di sconfinare nel campo dell'arte. Al centro dell'attenzione ci sono gli effetti di colore e luce che la resina rende possibili nelle loro creazioni. Lo riferisce Abitare.",
+   "more": [
+    "La resina è un materiale che si lavora allo stato liquido e poi indurisce, permettendo di ottenere forme diverse e di inglobare colori e pigmenti. Nel design viene usata per arredi, lampade e complementi, apprezzata per la trasparenza e per i giochi di luce che consente."
+   ],
+   "fonti": [
+    {
+     "n": "Abitare",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.abitare.it/it/design/prodotti/2026/10/05/draga-aurel-arredi-da-artisti/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4b8ca2ff",
+   "sez": "cucina",
+   "titolo": "Crostata salata di zucca e noci, una ricetta senza sprechi",
+   "orig": "Crostata salata di zucca e noci, la ricetta senza sprechi",
+   "lead": "La Cucina Italiana propone un antipasto autunnale originale: la crostata salata di zucca e noci, accompagnata da una tisana preparata con i gusci delle noci. L'idea alla base della ricetta è non buttare via nulla, utilizzando anche le parti degli ingredienti che normalmente finiscono tra gli scarti. La proposta unisce due prodotti tipici della stagione e li valorizza in un piatto pensato per aprire il pasto, all'insegna della cucina antispreco. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "La zucca e le noci sono ingredienti tipici dell'autunno e si abbinano bene in piatti dolci e salati. La cucina antispreco, sempre più diffusa, punta a riutilizzare bucce, scarti e avanzi per ridurre i rifiuti alimentari e sfruttare al meglio ogni ingrediente."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/ricetta/crostata-salata-di-zucca-e-noci-con-tisana-di-gusci/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbcc11e31",
+   "sez": "musica",
+   "titolo": "Lovebites, la band heavy metal sospende i concerti per tutto il 2027",
+   "orig": "Heavy Metal Band Lovebites Suspend Live Performances for 2027",
+   "lead": "Il gruppo heavy metal giapponese Lovebites ha annunciato che sospenderà le esibizioni dal vivo per tutto il 2027. La pausa riguarda soltanto i concerti: durante quell'anno la band continuerà infatti a lavorare a nuova musica e ad altri progetti. L'annuncio informa così i fan che il gruppo resterà lontano dai palchi senza però interrompere l'attività creativa. Lo riferisce Anime News Network.",
+   "more": [
+    "Le Lovebites sono una band heavy metal giapponese composta da musiciste, nota per uno stile potente e veloce vicino al power metal. Hanno ottenuto riconoscimenti anche all'estero e fanno parte della scena metal giapponese seguita da un pubblico internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-12/heavy-metal-band-lovebites-suspend-live-performances-for-2027/.242754",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z467f0aa7",
+   "sez": "economia",
+   "titolo": "Mozambico, il ministero dell'Agricoltura punta su riforme e finanziamenti",
+   "orig": "Mozambique: Agriculture Ministry’s first coordinating council focuses on reform, financing and transformation",
+   "lead": "Il ministero mozambicano dell'Agricoltura, dell'ambiente e della pesca ha aperto giovedì a Matola il suo primo Consiglio di coordinamento, dedicato al tema «Riformare, finanziare e trasformare: costruire un settore più produttivo, competitivo e resiliente». All'apertura dei lavori il ministro Roberto Mito Albino ha sottolineato la necessità di dotare il settore degli strumenti adeguati per crescere. L'incontro mira a definire le priorità del comparto agricolo su riforme, accesso ai finanziamenti e trasformazione produttiva. Lo riferisce Club of Mozambique.",
+   "more": [
+    "In Mozambico l'agricoltura dà lavoro a gran parte della popolazione, spesso in piccole aziende familiari esposte a siccità, alluvioni e cicloni. Migliorare produttività e accesso al credito è considerato essenziale per la sicurezza alimentare. Matola è una città vicina alla capitale Maputo."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-agriculture-ministrys-first-coordinating-council-focuses-on-reform-financing-and-transformation/",
+     "angolo": "",
+     "atlas": "Mozambique"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z83309e36",
+   "sez": "sport",
+   "titolo": "Filippine, squalificato per la stagione l'assistente allenatore della NU dopo un colpo al collega dell'UST",
+   "orig": "Alas canned a game before league slaps rest-of-season-ban on NU women’s cage assistant for hit on Santo Tomas counterpart",
+   "lead": "Doppio colpo per le Lady Bulldogs della National University nel campionato universitario filippino Uaap di basket femminile. Sabato la squadra ha perso nettamente contro la rivale University of Santo Tomas, campione in carica, e ora la lega ha squalificato per il resto della stagione 89 l'assistente allenatore Paul Du. Il provvedimento è arrivato dopo che Du ha colpito in modo scorretto il suo omologo della squadra avversaria durante la partita. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "La Uaap è la principale lega sportiva universitaria delle Filippine, dove il basket è lo sport più popolare. Le sfide tra atenei come National University e Santo Tomas sono molto seguite e alimentano rivalità sentite tra studenti e tifosi."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://sports.inquirer.net/701190/alas-canned-a-game-before-league-slaps-rest-of-season-ban-on-nu-womens-cage-assistant-for-hit-on-santo-tomas-counterpart",
+     "angolo": "",
+     "atlas": "Philippines"
+    },
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/12/a-wall-collapses-on-her-during-the-earthquake-in-macaracas-young-woman-fights-for-her-life-at-santo-tomas-hospital/",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "za032d066",
+   "sez": "economia",
+   "titolo": "Cipro e Arabia Saudita firmano un memorandum sull'energia",
+   "orig": "Cyprus and Saudi Arabia sign memorandum on energy cooperation",
+   "lead": "Cipro e Arabia Saudita hanno firmato lunedì a Riad un memorandum di cooperazione nel settore energetico. A sottoscriverlo sono stati il ministro cipriota dell'Energia Michael Damianos e il suo omologo saudita, il principe Abdulaziz bin Salman bin Abdulaziz Al Saud. Secondo il ministero cipriota, l'accordo definisce il quadro della collaborazione tra i due Paesi in settori chiave come petrolio e gas naturale. Nello stesso periodo anche Namibia e Germania hanno firmato un'intesa da 103 milioni di dollari namibiani per migliorare l'accesso all'energia e sostenere l'industrializzazione verde.",
+   "more": [
+    "Cipro, isola del Mediterraneo orientale e membro dell'Unione europea, ha scoperto negli ultimi anni giacimenti di gas nei propri fondali e cerca partner per svilupparli. L'Arabia Saudita è uno dei maggiori produttori di petrolio al mondo e guida le politiche dell'Opec."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/12/cyprus-and-saudi-arabia-sign-memorandum-on-energy-cooperation",
+     "angolo": "",
+     "atlas": "Cyprus"
+    },
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/namibia-germany-sign-n103m-energy-deal/",
+     "angolo": "",
+     "atlas": "Namibia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1b1b36c0",
+   "sez": "spazio",
+   "titolo": "Antartide, il ghiaccio marino raggiunge il massimo del 2026, tra i più bassi mai osservati",
+   "orig": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+   "lead": "Il ghiaccio marino che circonda l'Antartide ha raggiunto la sua estensione massima stagionale del 2026, ma si tratta del terzo valore massimo più basso da quando sono iniziate le osservazioni satellitari. Il dato conferma che, anche nel momento di maggiore espansione, la copertura di ghiaccio intorno al continente resta tra le più ridotte mai registrate. La rilevazione arriva dalle misurazioni dei satelliti che monitorano regolarmente i ghiacci polari. Lo riferisce Nasa.",
+   "more": [
+    "Il ghiaccio marino antartico si forma congelando l'acqua dell'oceano e cresce durante l'inverno australe, per poi ridursi in estate. La sua estensione influisce sul clima globale, perché riflette la luce solare, e sugli ecosistemi marini. I satelliti permettono di misurarla con continuità."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9ce1a5fc",
+   "sez": "musica",
+   "titolo": "Duran Duran: «Sembriamo delicati e truccati, ma siamo tosti»",
+   "orig": "Duran Duran, l’intervista al Guardian: “Sembriamo dei tipi delicati, tutti truccati, ma in realtà siamo molto tosti”",
+   "lead": "I Duran Duran si preparano a festeggiare Halloween con un nuovo spettacolo speciale il 31 ottobre alla O2 Arena di Londra, un appuntamento ormai diventato tradizione per la band britannica. In un'intervista al Guardian il gruppo racconta come negli ultimi anni abbia trasformato la ricorrenza in un'occasione per reinventare il repertorio, sperimentare travestimenti e scenografie spettacolari. I musicisti rivendicano anche il proprio carattere: dietro l'aspetto curato e il trucco, dicono, si nasconde una band molto tenace. Lo riferisce OndaRock.",
+   "more": [
+    "I Duran Duran sono una band nata a Birmingham alla fine degli anni Settanta e diventata tra le più famose della new wave e del pop degli anni Ottanta. Sono noti per l'immagine curata, i videoclip innovativi e una lunga carriera ancora attiva."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/duran-duran-intervista-sembriamo-tipi-delicati-siamo-molto-tosti-simon-le-bon/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0dcfb5ea",
+   "sez": "viaggi",
+   "titolo": "Armenia, la meta del Caucaso economica e sicura ancora poco nota agli italiani",
+   "orig": "Incastonato nel Caucaso c’è un Paese economico e sicuro che pochissimi italiani conoscono",
+   "lead": "L'Armenia viene proposta come destinazione per un turismo consapevole e alternativo, ancora poco conosciuta dai viaggiatori italiani ma descritta come economica e sicura. Incastonato nel Caucaso, il Paese è un crocevia tra cultura europea e asiatica, profondamente cristiano e legato a pagine tragiche della storia. Qui, secondo la testata, non ci sono folle, il silenzio accompagna il viaggio e la bellezza va cercata e conquistata, salendo sulle montagne caucasiche o immergendosi nei suoi paesaggi. Lo riferisce Turisti per Caso.",
+   "more": [
+    "L'Armenia è una repubblica senza sbocco sul mare del Caucaso meridionale, con capitale Erevan. Fu tra i primi Paesi ad adottare il cristianesimo come religione di Stato ed è ricca di antichi monasteri. La sua storia è segnata dal genocidio armeno all'inizio del Novecento."
+   ],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/destinazioni/incastonato-nel-caucaso-ce-un-paese-economico-e-sicuro-che-pochissimi-italiani-conoscono.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbf1bd65a",
+   "sez": "cultura",
+   "titolo": "«Look Back», Koreeda porta al cinema dal vivo il manga sui sogni di due ragazze",
+   "orig": "“Look Back”: Film Director Koreeda’s Live-Action Take on Girlhood Dreams",
+   "lead": "Il regista giapponese Koreeda Hirokazu ha realizzato un nuovo film che adatta in versione live action, cioè con attori in carne e ossa, il celebre manga «Look Back». L'opera racconta i sogni dell'adolescenza al femminile e porta sul grande schermo una storia che ha avuto grande successo tra i lettori di fumetti. Il film rappresenta l'ultima prova dietro la macchina da presa per l'autore, noto per il suo sguardo attento ai legami umani. Lo riferisce Nippon.com.",
+   "more": [
+    "Koreeda Hirokazu è uno dei registi giapponesi più apprezzati a livello internazionale, vincitore della Palma d'oro a Cannes con «Un affare di famiglia». «Look Back» è un manga di Tatsuki Fujimoto, autore di «Chainsaw Man», che racconta l'amicizia tra due ragazze unite dalla passione per il disegno."
+   ],
+   "fonti": [
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/japan-topics/c030334/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4179fa5a",
+   "sez": "tech",
+   "titolo": "Un'azienda giapponese sostiene il progetto uzbeko di data center alimentato dal nucleare",
+   "orig": "Japanese Firm Backs Uzbekistan’s Nuclear-Powered Data Center Project",
+   "lead": "Un'azienda giapponese ha deciso di appoggiare il progetto dell'Uzbekistan per un centro di elaborazione dati alimentato da energia nucleare. L'iniziativa si collega alla prima centrale atomica del Paese, attualmente in costruzione nella regione di Jizzakh. La centrale è soprattutto un progetto russo, perché la fornitura è affidata all'agenzia statale Rosatom. L'interesse giapponese si inserisce quindi in un'opera nata con un forte coinvolgimento di Mosca e punta a unire produzione di energia e infrastrutture digitali. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "I data center sono grandi strutture che ospitano server e consumano molta elettricità, soprattutto con la diffusione dell'intelligenza artificiale. Per questo diversi Paesi cercano fonti di energia stabili come il nucleare. Rosatom è la società statale russa per l'energia atomica ed è molto attiva nella costruzione di centrali all'estero."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/uzbekistan-nuclear-powered-data-center/",
+     "angolo": "",
+     "atlas": "Kazakhstan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "za1b9282e",
+   "sez": "ingegneria",
+   "titolo": "Armonia, simmetrie e tradizione classica nel nuovo concept di Liu Jo",
+   "orig": "Armonia, simmetrie, tradizione classica per il design concept di Liu Jo",
+   "lead": "Lo studio di progettazione Studio63 ha firmato il nuovo design concept del marchio di moda Liu Jo, pensato per il negozio di corso Vittorio Emanuele II a Milano. Il progetto si basa su armonia, simmetrie e richiami alla tradizione classica, che diventano la chiave per presentare il brand in uno degli assi commerciali più frequentati della città. L'intervento definisce un nuovo linguaggio per lo spazio di vendita, che potrà orientare l'identità del marchio nei punti vendita. Lo riferisce The Plan.",
+   "more": [
+    "Corso Vittorio Emanuele II è una delle vie dello shopping più note di Milano, nel centro storico vicino al Duomo. Liu Jo è un marchio italiano di abbigliamento e accessori. Un design concept è l'insieme di scelte su materiali, forme e allestimenti che rendono riconoscibili i negozi di un marchio."
+   ],
+   "fonti": [
+    {
+     "n": "The Plan",
+     "p": "IT",
+     "c": "Bologna",
+     "u": "https://www.theplan.it/whats_on/armonia-simmetrie-e-tradizione-classica-per-il-nuovo-design-concept-liu-jo",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd9a6ca42",
+   "sez": "cucina",
+   "titolo": "Pasta al forno con prosciutto, fontina e funghi",
+   "orig": "Pasta al forno al prosciutto, fontina e funghi",
+   "lead": "La Cucina Italiana propone una ricetta di pasta al forno pensata per tutta la famiglia. La preparazione usa girelle di pasta sfoglia che racchiudono un ripieno di prosciutto e fontina. Le girelle vengono poi completate con funghi e besciamella e cotte in forno, così da ottenere un piatto ricco e gratinato. È una proposta da tavola condivisa, che unisce ingredienti comuni della cucina di casa in una forma un po' diversa dalla classica teglia di pasta. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "La fontina è un formaggio di latte vaccino tipico della Valle d'Aosta, apprezzato perché fonde bene in cottura. La besciamella è una salsa a base di latte, burro e farina, molto usata nei piatti al forno come lasagne e cannelloni per dare cremosità."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/ricetta/girelle-pasta-al-forno-prosciutto-fontina/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd0197089",
+   "sez": "adolescenti",
+   "titolo": "Assegnati i Nobel scientifici 2026",
+   "orig": "And the science Nobels for 2026 go to …",
+   "lead": "Sono stati assegnati i premi Nobel scientifici per il 2026, e Science News Explores li racconta ai lettori più giovani. I riconoscimenti più prestigiosi sono andati a tre filoni di ricerca: una finestra sul cosmo aperta attraverso il ghiaccio, un interruttore a luce capace di controllare il cervello e la soluzione del mistero delle molecole speculari, cioè quelle che sono l'una l'immagine riflessa dell'altra. Tre scoperte molto diverse, che spaziano dall'astrofisica alle neuroscienze alla chimica. Lo riferisce Science News Explores.",
+   "more": [
+    "I premi Nobel per la fisica, la chimica e la medicina vengono assegnati ogni anno in Svezia e sono considerati i riconoscimenti più importanti per la scienza. Le molecole speculari, dette chirali, hanno la stessa composizione ma forma rovesciata, come le mani destra e sinistra, e possono comportarsi in modo diverso."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/science-nobel-prizes-2026",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera",
+   "sub": "scienza"
+  },
+  {
+   "id": "zb5b3176b",
+   "sez": "manga",
+   "titolo": "Il capitolo «Futuro» di Phoenix di Osamu Tezuka diventa uno spettacolo teatrale",
+   "orig": "Osamu Tezuka's Phoenix Manga's Future Arc Gets Stage Play in February",
+   "lead": "Il capitolo dedicato al futuro di «Phoenix», il celebre manga di Osamu Tezuka, sarà portato a teatro. Lo spettacolo, intitolato «Hi no Tori Mirai-hen ZEROMDISTANCE», andrà in scena a Tokyo dal 6 all'8 febbraio. L'adattamento riguarda l'arco narrativo «Mirai-hen», cioè la parte della saga ambientata in un'epoca futura, e conferma come l'opera del maestro del fumetto giapponese continui a ispirare nuove trasposizioni anche a distanza di decenni. Lo riferisce Anime News Network.",
+   "more": [
+    "Osamu Tezuka è considerato il padre del manga moderno, autore anche di Astro Boy. «Phoenix» (Hi no Tori) è una delle sue opere più ambiziose: una serie di storie ambientate in epoche diverse, dal passato remoto al futuro lontano, legate dalla figura della fenice e dal tema della vita eterna."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-12/osamu-tezuka-phoenix-manga-future-arc-gets-stage-play-in-february/.242752",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z96ec5206",
+   "sez": "viaggi",
+   "titolo": "Viaggiare con uno scopo: la foresta che non sapevo di andare a vedere",
+   "orig": "Travel with Purpose: The Forest I Didn’t Know I Was Going To",
+   "lead": "Nel suo racconto di viaggio per il Phnom Penh Post, Michelle ripercorre un fine settimana a Siempang, in Cambogia. Un'amica le aveva proposto due notti al Siempang Resort e lei, libera nel weekend, aveva accettato subito, convinta che la località fosse vicina a Siem Reap. Solo guardando l'itinerario ha scoperto che la meta era un'altra e che il viaggio l'avrebbe portata in una zona di foresta che non si aspettava. Ne nasce una riflessione sul viaggiare con uno scopo. Lo riferisce Phnom Penh Post.",
+   "more": [
+    "La Cambogia ospita ampie aree forestali, soprattutto nelle province del nord e dell'est, lontane dai principali circuiti turistici. Siem Reap, invece, è la città più visitata del Paese perché vicina ai templi di Angkor. Il turismo nelle zone naturali è spesso presentato come un'occasione per conoscere ambienti meno battuti."
+   ],
+   "fonti": [
+    {
+     "n": "Phnom Penh Post",
+     "p": "XX",
+     "c": "Phnom Penh",
+     "u": "https://phnompenhpost.com/lifestyle/travel-with-purpose-the-forest-i-didnt-know-i-was-going-to/",
+     "angolo": "",
+     "atlas": "Cambodia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf2f483eb",
+   "sez": "sport",
+   "titolo": "Pakhtakor strappa il pari all'Al Qadsiah nel finale",
+   "orig": "Pakhtakor snatch late draw against Saudi Arabia’s Al Qadsiah",
+   "lead": "Il Pakhtakor di Tashkent ha pareggiato 1-1 contro la squadra saudita dell'Al Qadsiah nella AFC Champions League Elite, il principale torneo asiatico per club. L'incontro si è giocato lunedì e la formazione uzbeka ha raggiunto il pareggio solo all'89° minuto, quando Dostonbek Khamdamov ha trasformato un calcio di rigore. Per l'Al Qadsiah si è messo in luce l'esterno ghanese Christopher Bonsu Baah, autore dell'assist per la rete saudita, ma la squadra non è riuscita a portare a casa la vittoria.",
+   "more": [
+    "La AFC Champions League Elite è la massima competizione per club organizzata dalla Confederazione calcistica asiatica. Il Pakhtakor è una delle squadre più titolate dell'Uzbekistan, mentre i club sauditi negli ultimi anni hanno investito molto per rafforzarsi, anche ingaggiando giocatori stranieri."
+   ],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/pakhtakor-snatch-late-draw-against-saudi-arabias-al-qadsiah/",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    },
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/sports/christopher-bonsu-baah-provides-assist-as-al-qadsiah-are-held-by-pakhtakor",
+     "angolo": "",
+     "atlas": "Ghana"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "za7395685",
+   "sez": "spazio",
+   "titolo": "La foto astronomica del giorno: a pesca di neutrini cosmici nel ghiaccio",
+   "orig": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+   "lead": "La NASA ha dedicato la sua Astronomy Picture of the Day dell'11 ottobre 2026 alla «pesca nel ghiaccio» dei neutrini cosmici. La rubrica, che ogni giorno presenta un'immagine o una fotografia dell'universo accompagnata da una breve spiegazione scritta da un astronomo professionista, ha scelto questa volta il tema della caccia a particelle provenienti dallo spazio attraverso il ghiaccio. L'immagine richiama un modo insolito di osservare il cosmo, usando il ghiaccio come strumento di rilevazione. Lo riferisce Nasa.",
+   "more": [
+    "I neutrini sono particelle elementari quasi prive di massa che attraversano la materia senza quasi interagire, per questo sono difficili da rilevare. Alcuni esperimenti usano enormi volumi di ghiaccio o acqua per catturare i rari lampi di luce prodotti quando un neutrino urta un atomo."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z938a3cc6",
+   "sez": "mondo",
+   "titolo": "Filippine, il processo di impeachment alla vicepresidente Sara Duterte",
+   "orig": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+   "lead": "Nelle Filippine è in corso al Senato il processo di impeachment contro la vicepresidente Sara Duterte. Il sito di informazione Rappler ha aperto una pagina di aggiornamenti in diretta per seguire passo dopo passo il procedimento, invitando i lettori a salvarla tra i preferiti per non perdere gli sviluppi. Si tratta di una vicenda politica di primo piano per il Paese, perché riguarda la seconda carica dello Stato e si svolge davanti all'assemblea chiamata a giudicarla. Lo riferisce Rappler.",
+   "more": [
+    "Sara Duterte è figlia dell'ex presidente Rodrigo Duterte ed è stata eletta vicepresidente delle Filippine. Nel sistema filippino l'impeachment viene avviato dalla Camera dei rappresentanti, mentre il Senato agisce come tribunale e decide se rimuovere il funzionario dalla carica."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+     "angolo": "",
+     "atlas": "Philippines"
+    },
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/newsbreak/inside-track/quorum-scare-stalls-sara-duterte-impeachment-trial-october-12-2026/",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8ad61f25",
+   "sez": "musica",
+   "titolo": "The Mission, Wayne Hussey annuncia il primo album dopo 12 anni",
+   "orig": "The Mission, Wayne Hussey annuncia il primo album in 12 anni – L’intervista: “Quel tè a casa di Iggy Pop”",
+   "lead": "I Mission, la band guidata da Wayne Hussey, stanno lavorando a un nuovo disco, il primo dopo dodici anni, che dovrebbe uscire tra febbraio e marzo 2027. Lo ha rivelato lo stesso Hussey in un'intervista a OndaRock, nella quale ricorda anche un tè bevuto a casa di Iggy Pop. Nel frattempo il gruppo si prepara a celebrare i quarant'anni di «God's Own Medicine», l'album d'esordio pubblicato nel 1986, guardando così al passato e al futuro. Lo riferisce OndaRock.",
+   "more": [
+    "I Mission sono una band britannica nata negli anni Ottanta, legata alla scena gothic rock. Wayne Hussey, cantante e chitarrista, in precedenza aveva fatto parte dei Sisters of Mercy. Iggy Pop è uno dei pionieri del punk rock, noto per la sua lunga carriera solista e con gli Stooges."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/the-mission-wayne-hussey-nuovo-album-12-anni-iggy-pop/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb2589505",
+   "sez": "viaggi",
+   "titolo": "Tre giorni a Budapest tra terme, Danubio e quartieri a piedi",
+   "orig": "Tre giorni a Budapest bastano per innamorarsi: terme, Danubio e quartieri da girare a piedi",
+   "lead": "Turisti per Caso propone un itinerario di tre giorni a Budapest, considerato il tempo giusto per cogliere il carattere della capitale ungherese, divisa e insieme unita. Da un lato ci sono le colline di Buda, con il castello, le chiese storiche e i belvedere sul Danubio; dall'altro Pest, pianeggiante, con grandi viali, palazzi monumentali, sinagoghe e mercati coperti. In mezzo scorre il fiume. La guida suggerisce di alternare le terme a passeggiate nei quartieri da esplorare a piedi. Lo riferisce Turisti per Caso.",
+   "more": [
+    "Budapest è nata dall'unione di Buda, Óbuda e Pest, sulle due sponde del Danubio. È famosa per i suoi stabilimenti termali, alimentati da sorgenti calde naturali, e per monumenti come il Parlamento e il quartiere del Castello, che fanno parte del patrimonio tutelato dall'Unesco."
+   ],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/destinazioni/tre-giorni-a-budapest-bastano-per-innamorarsi-terme-danubio-e-quartieri-da-girare-a-piedi.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1a6cc4f2",
+   "sez": "cultura",
+   "titolo": "Giappone, aumentano i giovani che non hanno mai avuto una relazione",
+   "orig": "Dating Decline: More Young Japanese Have Never Been in a Relationship",
+   "lead": "In Giappone cresce ancora il numero di giovani che non hanno mai avuto esperienze sentimentali. Lo indica un'indagine del governo giapponese, secondo cui la quota di ragazze e ragazzi senza alcuna relazione continua a salire. Il dato descrive un calo degli appuntamenti e dei rapporti di coppia tra le nuove generazioni, una tendenza che il Paese osserva con attenzione per le sue possibili conseguenze sociali e demografiche. Lo riferisce Nippon.com.",
+   "more": [
+    "Il Giappone affronta da anni un forte calo delle nascite e un rapido invecchiamento della popolazione. Il numero di matrimoni è diminuito e molti giovani rinviano o rinunciano alla vita di coppia, anche per ragioni economiche e lavorative. Per questo il governo segue con attenzione i dati sulle relazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/japan-data/h02910/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z619d3095",
+   "sez": "tech",
+   "titolo": "Il Kazakistan avvia la formazione militare sull'intelligenza artificiale",
+   "orig": "Kazakhstan Begins Military AI Training for 75 Personnel",
+   "lead": "Il Kazakistan ha iniziato un programma di formazione sull'intelligenza artificiale rivolto a 75 militari. L'obiettivo è insegnare al personale delle forze armate a creare software sfruttando l'IA, senza dover scrivere codice in prima persona. Si tratta di un primo passo per portare gli strumenti dell'intelligenza artificiale all'interno dell'apparato militare del Paese, rendendo più accessibile lo sviluppo di programmi anche a chi non ha competenze di programmazione. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "Gli strumenti di intelligenza artificiale generativa permettono di ottenere programmi descrivendo a parole ciò che si desidera, senza conoscere i linguaggi di programmazione. Il Kazakistan, il più grande Paese dell'Asia centrale, negli ultimi anni ha puntato sulla digitalizzazione dell'amministrazione e dell'economia."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/kazakhstan-military-ai-training/",
+     "angolo": "",
+     "atlas": "Kazakhstan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0112eed9",
+   "sez": "ingegneria",
+   "titolo": "Cersaie 2026, i nuovi linguaggi del progetto",
+   "orig": "Cersaie 2026, i nuovi linguaggi del progetto",
+   "lead": "L'edizione 2026 del Cersaie ha messo in mostra i nuovi linguaggi del progetto, giocati su materia, colore, tecnologia e tattilità. La rivista The Plan ha raccolto le principali novità presentate al salone, selezionando i prodotti e le soluzioni più significative per architetti e progettisti. Dalla rassegna emerge un'attenzione crescente per le superfici da toccare e per l'unione tra innovazione tecnica e qualità estetica dei materiali. Lo riferisce The Plan.",
+   "more": [
+    "Il Cersaie è il salone internazionale della ceramica per l'architettura e dell'arredobagno che si tiene ogni anno a Bologna. È uno degli appuntamenti più importanti del settore, dove le aziende presentano piastrelle, superfici e arredi per il bagno, e richiama progettisti da tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "The Plan",
+     "p": "IT",
+     "c": "Bologna",
+     "u": "https://www.theplan.it/whats_on/materia-colore-tecnologia-e-tattilita-definiscono-le-tendenze-emerse-dalla-43-edizione-della-fiera-d",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2a660511",
+   "sez": "cucina",
+   "titolo": "Paccheri con agnello alla turca e pasta di peperoni piccante",
+   "orig": "Gurdeep Loyal’s quick and easy recipe for Turkish lamb and hot pepper paccheri | Quick and easy",
+   "lead": "Lo chef Gurdeep Loyal propone sul Guardian una ricetta veloce ispirata alla cucina turca: paccheri con agnello speziato al cumino, insaporito con biber salçası, la pasta di peperoni rossi cotti e salati. Ne esistono una versione piccante e una dolce, e quella più forte dà al piatto un calore profondo. In Turchia la preparazione si chiama markana e si serve con salsa di yogurt all'aglio e burro al peperoncino con pul biber e sommacco. I paccheri trattengono bene il ripieno. Lo riferisce The Guardian – Cucina.",
+   "more": [
+    "La cucina turca usa spesso paste concentrate di peperoni e pomodori per dare sapore ai piatti. Il pul biber è un peperoncino in fiocchi dal gusto poco aggressivo, mentre il sommacco è una spezia rossa dal sapore acidulo. Lo yogurt all'aglio accompagna molti piatti di carne e pasta."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/12/gurdeep-loyal-quick-easy-recipe-turkish-lamb-hot-pepper-paccheri",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z70f69a8a",
+   "sez": "adolescenti",
+   "titolo": "Le parole della scienza: teropode",
+   "orig": "Scientists Say: Theropod",
+   "lead": "Science News Explores spiega ai giovani lettori il significato della parola «teropode». Con questo nome si indica un gruppo di dinosauri di cui faceva parte anche il celebre Tyrannosaurus rex. La particolarità è che il gruppo non è del tutto scomparso: secondo la scienza, oggi ne fanno parte anche gli uccelli, considerati i discendenti viventi di questi antichi animali. La rubrica aiuta così a collegare il mondo dei fossili a quello degli animali che vediamo ogni giorno. Lo riferisce Science News Explores.",
+   "more": [
+    "I teropodi erano per lo più dinosauri che camminavano su due zampe e molti di loro erano carnivori. Gli studi sui fossili hanno mostrato che diversi teropodi avevano piume, una delle prove che collegano questi dinosauri agli uccelli moderni."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/scientists-say-theropod-definition-pronunciation",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera",
+   "sub": "scienza"
+  },
+  {
+   "id": "zc0d266a4",
+   "sez": "manga",
+   "titolo": "Texas, chiude dopo cinque anni la convention Kawacon",
+   "orig": "Texas' Kawacon Anime, Gaming Convention Ends After 5 Years",
+   "lead": "Kawacon, convention dedicata ad anime e videogiochi in Texas, chiude dopo cinque anni di attività. L'ultima edizione si è svolta dal 3 al 5 luglio all'Henry B. Gonzalez Convention Center di San Antonio, che resterà quindi l'ultimo appuntamento dell'evento. La fine della manifestazione toglie agli appassionati della zona un punto di incontro dedicato alla cultura pop giapponese e al gaming. Lo riferisce Anime News Network.",
+   "more": [
+    "Le convention di anime sono raduni in cui i fan incontrano autori e doppiatori, partecipano a proiezioni, acquistano gadget e spesso si travestono dai loro personaggi preferiti, pratica nota come cosplay. Negli Stati Uniti se ne organizzano molte, di dimensioni molto diverse."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-12/texas-kawacon-anime-gaming-convention-ends-after-5-years/.242746",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaa6ffa41",
+   "sez": "ambiente",
+   "titolo": "Spartitraffico verdi: possono aiutare a rinfrescare le città?",
+   "orig": "Road Median Management: Can urban road medians help cool the cities?",
+   "lead": "Un servizio di 3News si chiede se le aiuole spartitraffico al centro delle strade urbane possano contribuire a rendere le città più fresche. Il tema riguarda la gestione di queste fasce, spesso considerate solo un elemento di arredo. Alcuni residenti, infatti, ritengono che gli spartitraffico vengano apprezzati perché abbelliscono l'ambiente, ma che non servano ad altro. L'inchiesta mette a confronto questa percezione con il possibile ruolo del verde nel contrastare il caldo in città. Lo riferisce 3News.",
+   "more": [
+    "Nelle città asfalto e cemento trattengono il calore, creando le cosiddette isole di calore urbane, più calde delle campagne circostanti. Alberi e aree verdi possono attenuare il fenomeno grazie all'ombra e all'evaporazione dell'acqua dalle foglie."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/road-median-management-can-urban-road-medians-help-cool-the-cities",
+     "angolo": "",
+     "atlas": "Ghana"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zef90fbfc",
+   "sez": "sport",
+   "titolo": "«Benvenuto a casa, profe»: la Liga de Quito saluta Gallardo alla sfida con il Barcelona SC",
+   "orig": "‘Bienvenido a su casa, profe’: Liga de Quito destacó la presencia de Marcelo Gallardo ante Barcelona SC",
+   "lead": "La Liga de Quito ha accolto con un messaggio di benvenuto Marcelo Gallardo, presente in tribuna alla partita contro il Barcelona SC nel campionato ecuadoriano. Durante il fine settimana Gallardo ha visitato diversi stadi della Liga Pro per osservare i giocatori che potrebbero essere convocati nella nazionale dell'Ecuador. Il risultato ha portato la Liga a quattro vittorie dal Barcelona negli scontri diretti di Serie A: 87 successi del Barcelona, 83 della Liga e 64 pareggi. Il Barcelona SC non vince da tre partite.",
+   "more": [
+    "Marcelo Gallardo è un allenatore argentino, famoso per i successi ottenuti alla guida del River Plate. Liga de Quito e Barcelona SC, di Guayaquil, sono due dei club più popolari e titolati dell'Ecuador e la loro sfida è una delle più sentite del calcio nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/deportes/futbol/bienvenido-a-su-casa-profe-liga-de-quito-destaco-la-presencia-de-marcelo-gallardo-ante-barcelona-sc-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/futbol-internacional/lucas-torreira-la-sensacion-extraordinaria-ser-capitan-uruguay-enfrentar-al-mejor-equipo-del-mundo-barcelona-liga-campeones-n6060204",
+     "angolo": "",
+     "atlas": "Uruguay"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/deportes/campeonato-ecuatoriano/liga-de-quito-queda-a-cuatro-victorias-de-barcelona-sc-en-el-historial-de-la-serie-a-una-diferencia-que-no-se-veia-desde-1968-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-llega-a-tres-partidos-sin-ganar-en-la-liga-ecuabet-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd5f73ee8",
+   "sez": "economia",
+   "titolo": "Lvmh, vendite del terzo trimestre sotto le attese: cala la moda",
+   "orig": "LVMH third-quarter sales below expectations as fashion and leather division shrinks",
+   "lead": "Il gruppo francese del lusso Lvmh ha presentato vendite del terzo trimestre inferiori alle attese, con la divisione moda e pelletteria in contrazione. Nei primi nove mesi i ricavi sono cresciuti dell'1% a parità di cambi e perimetro, arrivando a 58 miliardi, grazie soprattutto a champagne e gioielli. Borse e abbigliamento, invece, hanno registrato nel terzo trimestre un calo dei ricavi del 5%, attribuito alla debolezza della domanda in Cina, mercato decisivo per il settore.",
+   "more": [
+    "Lvmh è il più grande gruppo del lusso al mondo e riunisce marchi di moda, pelletteria, vini e liquori, profumi, cosmetici e gioielleria. La Cina è da anni uno dei principali mercati per i beni di lusso, per questo un rallentamento dei consumi cinesi pesa molto sui conti del settore."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/lvmh-third-quarter-sales-below-expectations-fashion-and-leather-division-shrinks-6453721",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/12/news/lvmh_trimestrale_conti_champagne_cognac_fashion_cina-425643513/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "za218ecb4",
+   "sez": "organizzazioni",
+   "titolo": "La NASA sorvola il MetLife Stadium e incontra i tifosi della NFL",
+   "orig": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+   "lead": "Nell'ambito del suo Inspiration Tour, la NASA ha organizzato un sorvolo per aprire la partita di football americano tra New York Jets e Cleveland Browns, in programma domenica 11 ottobre al MetLife Stadium di East Rutherford, nel New Jersey. L'amministratore dell'agenzia, Jared Isaacman, era previsto ai comandi di uno dei tre caccia F-5 impegnati nell'esibizione. Il personale della NASA ha inoltre incontrato i tifosi nell'Experience Zone allestita dall'agenzia vicino allo stadio. Lo riferisce Nasa.",
+   "more": [
+    "La NASA è l'agenzia spaziale degli Stati Uniti e organizza spesso iniziative per avvicinare il pubblico alle sue missioni. Jared Isaacman è un imprenditore e pilota che ha partecipato a voli spaziali privati prima di guidare l'agenzia. La NFL è il campionato professionistico di football americano."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze7195378",
+   "sez": "musica",
+   "titolo": "menomale, «Torneranno tutti gli animali»",
+   "orig": "menomale - Torneranno tutti gli animali",
+   "lead": "OndaRock recensisce «Torneranno tutti gli animali», il nuovo lavoro di menomale, progetto musicale di Leonardo Tosti. Le nuove canzoni si muovono tra metafore astronomiche e richiami alla tradizione cantautorale, riletti in chiave indie-pop. Il disco unisce così immagini legate al cielo e alle stelle a una scrittura che guarda ai cantautori, con un suono contemporaneo e leggero tipico della scena indipendente italiana. Lo riferisce OndaRock.",
+   "more": [
+    "L'indie-pop è un genere nato nella musica indipendente, che unisce melodie orecchiabili a produzioni spesso più intime e personali rispetto al pop commerciale. In Italia molti artisti di questa scena si richiamano alla canzone d'autore, valorizzando soprattutto i testi."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/recensioni/2026-menomale-torneranno-tutti-gli-animali/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2bc48564",
+   "sez": "salute",
+   "titolo": "Attacchi alla sanità: l'Associazione medica mondiale adotta una dichiarazione sulla «neutralità medica»",
+   "orig": "Attacks on healthcare: World Medical Association issues new declaration on &#x201C;medical neutrality&#x201D;",
+   "lead": "L'Associazione medica mondiale (WMA) ha ribadito che i professionisti della salute devono essere protetti dagli attacchi durante i conflitti. Lo fa con la Dichiarazione di Rotterdam, approvata nell'assemblea generale del 10 ottobre. Il testo chiede a Stati e gruppi armati di tutelare personale sanitario, pazienti e strutture in tempo di guerra. Ricorda inoltre che i medici devono curare tutti in modo imparziale e non partecipare a operazioni militari. Il presidente Jung Yul Park ha detto che l'etica medica non cambia in guerra. Lo riferisce The BMJ.",
+   "more": [
+    "La World Medical Association riunisce le associazioni mediche nazionali di molti Paesi e stabilisce principi di etica professionale, come la Dichiarazione di Helsinki sulla ricerca. La neutralità medica è un principio legato al diritto internazionale umanitario, secondo cui chi cura i feriti non deve essere bersaglio."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101124.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4fb04a0a",
+   "sez": "viaggi",
+   "titolo": "Tokyo, gli eventi della settimana: carri di Kawagoe, fuochi sulla spiaggia e jazz di strada",
+   "orig": "Tokyo Events This Week: Kawagoe Floats, Beach Fireworks, and Street Jazz",
+   "lead": "Tokyo Cheapo segnala gli appuntamenti di Tokyo e dintorni da lunedì 12 a domenica 18 ottobre 2026. Al centro ci sono fuochi d'artificio, festival e incontri, oltre a un percorso per chi ama cibi insoliti come sottaceti e uovo crudo. Tra gli eventi spiccano un drago dorato che danza ad Asakusa, i carri del Kawagoe Festival (17-18 ottobre), il festival dei fuochi di Fujisawa Enoshima (17 ottobre) e il festival di arti performative Autumn Meteorite Tokyo, aperto fino al 3 novembre. Lo riferisce Tokyo Cheapo.",
+   "more": [
+    "Kawagoe, a nord di Tokyo, è nota per il quartiere storico con magazzini in stile antico e per la sua festa autunnale con grandi carri decorati. Asakusa è il quartiere del tempio Senso-ji, uno dei luoghi più visitati della capitale. Enoshima è una piccola isola costiera vicina a Fujisawa."
+   ],
+   "fonti": [
+    {
+     "n": "Tokyo Cheapo",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://tokyocheapo.com/entertainment/event-posts/tokyo-events-this-week-kawagoe-floats-beach-fireworks-street-jazz/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z721e9df3",
+   "sez": "mondo",
+   "titolo": "Giappone, consensi stabili per Takaichi dopo il rimpasto di settembre",
+   "orig": "Approval Ratings Largely Level for Takaichi Following Limited Impact of September Cabinet Reshuffle",
+   "lead": "Il rimpasto di governo del 17 settembre ha portato alla premier giapponese Takaichi Sanae qualche segnale positivo sul fronte del sostegno pubblico, ma nel complesso il suo indice di gradimento è rimasto sostanzialmente invariato. L'effetto della riorganizzazione dell'esecutivo è stato quindi limitato. L'attenzione dell'opinione pubblica resta concentrata sull'ombra degli scandali e sulle prospettive della futura azione politica del governo. Lo riferisce Nippon.com.",
+   "more": [
+    "Takaichi Sanae è una esponente del Partito liberaldemocratico, la forza che ha governato il Giappone per gran parte del dopoguerra, ed è la prima donna a guidare il governo del Paese. Nel sistema giapponese i rimpasti sono uno strumento frequente con cui i premier cercano di rilanciare il consenso."
+   ],
+   "fonti": [
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/japan-data/h30028/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z82e99eca",
+   "sez": "tech",
+   "titolo": "Data center in Kazakistan: basteranno elettricità e clienti?",
+   "orig": "Kazakhstan Data Centers: Will There Be Enough Electricity and Customers?",
+   "lead": "Il Kazakistan vuole diventare un polo regionale per l'elaborazione dei dati e l'intelligenza artificiale, e per questo sta costruendo la cosiddetta Data Center Valley. The Times of Central Asia si chiede però se il progetto potrà contare su due condizioni essenziali: una disponibilità di energia elettrica sufficiente ad alimentare i centri dati e una domanda abbastanza ampia di clienti disposti a usarli. L'analisi mette così in dubbio la sostenibilità dell'ambizione digitale del Paese. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "I data center ospitano migliaia di server che conservano ed elaborano informazioni e richiedono grandi quantità di elettricità, anche per il raffreddamento. L'intelligenza artificiale ha fatto crescere molto questo fabbisogno. Il Kazakistan dispone di molte risorse energetiche, ma la sua rete elettrica deve sostenere anche industria e consumi domestici."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/kazakhstan-data-centers-electricty-customers/",
+     "angolo": "",
+     "atlas": "Kazakhstan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zedbb3d42",
+   "sez": "ingegneria",
+   "titolo": "Riflessi apre a Genova il suo dodicesimo negozio monomarca in Italia",
+   "orig": "Dove raccontare la cultura del progetto e la personalizzazione dell’abitare",
+   "lead": "L'azienda di arredamento Riflessi ha inaugurato a Genova il suo dodicesimo negozio monomarca in Italia. Il nuovo spazio si trova in una zona centrale della città, vicino a piazza della Vittoria, ed è pensato come luogo in cui raccontare la cultura del progetto e la possibilità di personalizzare l'abitare. L'apertura amplia la rete di punti vendita diretti del marchio sul territorio nazionale. Lo riferisce The Plan.",
+   "more": [
+    "Un negozio monomarca espone e vende i prodotti di un solo marchio, permettendo all'azienda di presentare le collezioni secondo la propria identità. Piazza della Vittoria è una delle piazze più ampie di Genova, nel centro cittadino, caratterizzata da edifici del primo Novecento."
+   ],
+   "fonti": [
+    {
+     "n": "The Plan",
+     "p": "IT",
+     "c": "Bologna",
+     "u": "https://www.theplan.it/whats_on/dove-raccontare-la-cultura-del-progetto-e-la-personalizzazione-dellabitare",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfdf9d97e",
+   "sez": "cucina",
+   "titolo": "La torta di paratha al balti con chutney verde piccante di Calum Franklin",
+   "orig": "Calum Franklin’s recipes for balti paratha pie with spicy green chutney",
+   "lead": "Lo chef Calum Franklin propone sul Guardian una torta salata ripiena di curry balti, accompagnata da un chutney verde piccante. È una delle sue preferite e lo riporta agli anni di studio allo University College Birmingham, quando con l'amico Lewis Walker, oggi a capo del dipartimento di cucina del college, finiva spesso a tarda notte nelle case del balti. La cucina balti nacque a Birmingham negli anni Settanta, con radici pakistano-kashmire, e la base contiene sempre pomodori, cipolle e peperoni. Lo riferisce The Guardian – Cucina.",
+   "more": [
+    "Il balti è uno stile di curry legato alla città di Birmingham, cotto e servito in una pentola di metallo simile a un wok. Il paratha è un pane sfogliato tipico del subcontinente indiano. Il chutney è una salsa che accompagna i piatti speziati."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/12/balti-paratha-pie-spicy-green-chutney-recipes-calum-franklin",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6f7be27f",
+   "sez": "adolescenti",
+   "titolo": "Spider-Man potrebbe davvero spegnere i suoi superpoteri?",
+   "orig": "Could Spider-Man really turn off his superpowers?",
+   "lead": "Nel nuovo film Spider-Man: Brand New Day, Peter Parker costruisce un dispositivo che inibisce i suoi superpoteri. L'idea della sceneggiatura non nasce dal nulla: si ispira alle terapie basate sull'RNA, che esistono davvero e sono oggetto di ricerca. La rivista scientifica per ragazzi parte dalla trama del film per chiedersi quanto sia plausibile, dal punto di vista della biologia, la possibilità di «spegnere» capacità legate al proprio corpo. Lo scopo è spiegare in modo accessibile come la scienza reale possa intervenire sul funzionamento delle cellule. Lo riferisce Science News Explores.",
+   "more": [
+    "L'RNA è una molecola che trasporta le istruzioni contenute nel DNA e permette alle cellule di produrre le proteine. Alcune terapie sperimentali e approvate usano piccoli frammenti di RNA per ridurre o bloccare l'attività di geni specifici. È un campo della medicina molto studiato, per esempio contro alcune malattie genetiche."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera",
+   "sub": "cinema"
+  },
+  {
+   "id": "ze05a4616",
+   "sez": "manga",
+   "titolo": "Erica Sakurazawa lancia un nuovo manga il 6 novembre",
+   "orig": "Erica Sakurazawa Launches New Manga on November 6",
+   "lead": "La mangaka Erica Sakurazawa tornerà in edicola con una nuova opera il 6 novembre. Il titolo è Watashi no Manga (Mayoi) Michi, e non sarà soltanto un fumetto: la serie conterrà anche saggi che raccontano il dietro le quinte di «quell'epoca», cioè un periodo passato della carriera dell'autrice e del mondo del manga. L'annuncio segna il debutto di un progetto a metà tra narrazione e memoria personale, pensato per mostrare come nascevano le sue storie. Lo riferisce Anime News Network.",
+   "more": [
+    "Erica Sakurazawa è un'autrice giapponese nota soprattutto per i manga josei, cioè storie rivolte a un pubblico di donne adulte, spesso centrate su sentimenti, relazioni e vita quotidiana."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-12/erica-sakurazawa-launches-new-manga-on-november-6/.242740",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-12/blue-thermal-kana-ozawa-announces-new-manga/.242718",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z501e00e2",
+   "sez": "economia",
+   "titolo": "Botswana, il fondo pensioni BPOPF sostiene il rilancio di Letshego",
+   "orig": "BPOPF Backs Letshego Reset",
+   "lead": "Il fondo pensioni dei dipendenti pubblici del Botswana, il BPOPF, garantirà l'aumento di capitale da 800 milioni di pula lanciato da Letshego Africa Holdings. Il gruppo di servizi finanziari chiede nuovi fondi agli azionisti per ridurre il debito, rafforzare il bilancio e diventare più piccolo, riducendo la sua presenza nei Paesi africani e puntando su una strategia regionale meno rischiosa. Intanto la società ha comunicato di aver rimborsato del tutto un finanziamento dello stesso BPOPF, fino a 483 milioni di pula.",
+   "more": [
+    "Letshego è un gruppo con sede in Botswana specializzato in microcredito e servizi finanziari per famiglie e piccole imprese, attivo in diversi Paesi africani. Il pula è la moneta del Botswana. Un aumento di capitale «in opzione» offre nuove azioni prima di tutto agli azionisti esistenti."
+   ],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/business-2/bpopf-backs-letshego-reset/",
+     "angolo": "",
+     "atlas": "Botswana"
+    },
+    {
+     "n": "Sunday Standard",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.sundaystandard.info/letshego-clears-p483-million-bpopf-facility/",
+     "angolo": "",
+     "atlas": "Botswana"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4a46d729",
+   "sez": "mondo",
+   "titolo": "Lettonia, il gruppo «Russi neri» sarebbe una copertura secondo gli esperti",
+   "orig": "'Black Russian' sabotage group is probably a front, experts suggest",
+   "lead": "Un gruppo poco conosciuto che si fa chiamare «Russi neri» ha rivendicato un episodio avvenuto all'inizio di ottobre al confine tra Lettonia e Bielorussia. In quell'occasione uomini armati e mascherati avevano cercato di far entrare nel Paese venti migranti irregolari e in seguito avevano danneggiato alcune infrastrutture. Secondo gli esperti sentiti dalla televisione lettone, però, il gruppo sarebbe probabilmente soltanto una facciata dietro cui si nasconde qualcun altro. Lo riferisce LSM.",
+   "more": [
+    "Il confine tra Lettonia e Bielorussia è anche una frontiera esterna dell'Unione europea e della Nato. Da anni i Paesi baltici denunciano pressioni migratorie e azioni ostili lungo questa linea, che considerano parte di una strategia di destabilizzazione."
+   ],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/society/defence/12.10.2026-black-russian-sabotage-group-is-probably-a-front-experts-suggest.a667255/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcb9951f0",
+   "sez": "musica",
+   "titolo": "Julia Jacklin, «The Gem»: un disco solido e libero",
+   "orig": "Julia Jacklin - The Gem",
+   "lead": "La cantautrice australiana Julia Jacklin pubblica The Gem, un nuovo album che la rivista musicale giudica un lavoro solido. Secondo la recensione, il disco trasmette soprattutto un senso di libertà, come se l'artista avesse scelto di seguire la propria strada senza vincoli. La testata lo presenta quindi come una prova riuscita nella carriera della musicista, capace di confermare la qualità della sua scrittura. Lo riferisce OndaRock.",
+   "more": [
+    "Julia Jacklin è una cantautrice australiana conosciuta per canzoni intime e malinconiche, tra indie rock e folk, con testi molto personali."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/recensioni/2026-julia-jacklin-the-gem/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb90e9683",
+   "sez": "salute",
+   "titolo": "Il vertice MAHA dà il palco a celebrità controverse e dimentica la sua base",
+   "orig": "MAHA Summit platformed controversial celebrities and forgot its political base",
+   "lead": "Secondo un commento pubblicato dalla rivista medica, invitarli dovrebbe screditare il movimento agli occhi di chi vuole davvero migliorare la salute degli americani. La scelta mostrerebbe una frattura: le celebrità vengono messe davanti alle preoccupazioni dei sostenitori politici. Lo riferisce The BMJ.",
+   "more": [
+    "MAHA è il movimento legato a Robert F. Kennedy Jr. che critica l'industria alimentare e farmaceutica e promuove uno stile di vita più sano, ma che è anche contestato dalla comunità medica per le sue posizioni sui vaccini."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101106.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf98d316d",
+   "sez": "cucina",
+   "titolo": "Tokyo, sei locali dove mangiare a volontà",
+   "orig": "Our 6 Favorite All-You-Can-Eat Spots in Tokyo",
+   "lead": "Tokyo è piena di ristoranti, e tra questi ci sono molti locali «a volontà», chiamati in giapponese tabehodai, dove si paga una cifra fissa e si mangia quanto si vuole. Una guida della città propone una selezione di sei indirizzi preferiti, pensati sia per chi ama il dolce sia per chi preferisce il salato. Tra le proposte compaiono pane fresco, ciambelle di Mister Donut, spaghetti di grano saraceno soba, tofu e riso con uovo crudo. Lo riferisce Tokyo Cheapo.",
+   "more": [
+    "Il tabehodai è una formula molto diffusa in Giappone: si paga un prezzo fisso e, di solito entro un tempo stabilito, si può mangiare senza limiti. Esiste anche la versione per le bevande, chiamata nomihodai."
+   ],
+   "fonti": [
+    {
+     "n": "Tokyo Cheapo",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://tokyocheapo.com/food-and-drink/all-you-can-eat-tokyo/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z00f64100",
+   "sez": "cucina",
+   "titolo": "Matsutake, il fungo re della cucina autunnale giapponese",
+   "orig": "Matsutake Reigns Over Autumn Cuisine with a Luxury Price Tag",
+   "lead": "Nella cucina giapponese si usano molti funghi, ma il matsutake è considerato il re di tutti grazie al suo profumo straordinario. È una prelibatezza tipica dell'autunno, molto ricercata nonostante nei mercati del Giappone raggiunga prezzi altissimi. L'articolo racconta perché questo fungo occupa un posto così speciale nella tradizione gastronomica del Paese e perché le persone sono disposte a spendere tanto per gustarlo nella sua stagione. Lo riferisce Nippon.com.",
+   "more": [
+    "Il matsutake cresce in simbiosi con le radici di alcuni pini ed è molto difficile da coltivare, per questo si raccoglie quasi solo in natura. In Giappone è legato all'autunno e viene cucinato in modo semplice, per esempio con il riso o in brodo, per esaltarne l'aroma."
+   ],
+   "fonti": [
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/japan-topics/c15347/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb5b7c632",
+   "sez": "tech",
+   "titolo": "Smartphone nordcoreano smette di funzionare in Corea del Sud, dice un blogger cinese",
+   "orig": "North Korean smartphone stops working when taken to South, Chinese blogger says",
+   "lead": "Uno smartphone prodotto per il mercato della Corea del Nord si è bloccato quando è stato portato in Corea del Sud. Lo racconta un blogger cinese, utente di Weibo con il nome «fenibook» e circa 503.000 follower, in una video recensione del dispositivo. Lo schermo è diventato arancione e il telefono è rimasto intrappolato in un ciclo infinito di riavvii. L'episodio fa nascere domande sui possibili sistemi di controllo inseriti nel dispositivo. Lo riferisce NK News.",
+   "more": [
+    "In Corea del Nord l'accesso a internet e alle informazioni è strettamente controllato dallo Stato. I telefoni venduti nel Paese funzionano su una rete interna e contengono software di sorveglianza e limitazioni sull'uso dei contenuti."
+   ],
+   "fonti": [
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/north-korean-smartphone-stops-working-when-taken-to-south-chinese-blogger-says/",
+     "angolo": "",
+     "atlas": "North Korea"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9ca46257",
+   "sez": "ingegneria",
+   "titolo": "Esce THE PLAN 173, sesto numero del 2026",
+   "orig": "È uscito THE PLAN 173, il sesto volume del 2026",
+   "lead": "È stato pubblicato il numero 173 di THE PLAN, la rivista di architettura edita a Bologna, sesto volume del 2026. Il fascicolo si apre con l'editoriale «Interpretare l'architettura», firmato da Ángela García. All'interno vengono presentati progetti di diverso tipo: ville, edifici a uso misto e musei, ma anche chiese e strutture dedicate all'istruzione. L'uscita offre così una panoramica su varie tipologie di costruzione contemporanea. Lo riferisce The Plan.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Plan",
+     "p": "IT",
+     "c": "Bologna",
+     "u": "https://www.theplan.it/whats_on/-uscito-the-plan-173-il-sesto-volume-del-2026",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z423bf8e5",
+   "sez": "cucina",
+   "titolo": "Come preparare la zuppa di zucca, la lezione di Felicity Cloake",
+   "orig": "How to make pumpkin soup – recipe | Felicity Cloake's Masterclass",
+   "lead": "La giornalista gastronomica Felicity Cloake propone una ricetta per la zuppa di zucca, liscia e sostanziosa, in nove passaggi semplici. Secondo l'autrice, questo piatto promette di essere dolce, vellutato e autunnale, ma spesso delude: risulta poco saporito e troppo liquido perché la zucca contiene molta acqua. La sua versione vuole evitare proprio questo problema. La preparazione richiede circa venti minuti, la cottura un'ora, e la ricetta è pensata per quattro-sei persone. Lo riferisce The Guardian – Cucina.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/11/how-to-make-pumpkin-soup-recipe",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb59e9eb4",
+   "sez": "adolescenti",
+   "titolo": "Rabbia o paura? I cani potrebbero leggerle sul nostro volto",
+   "orig": "Anger or fear? Dogs may be able to read it on your face",
+   "lead": "I cani potrebbero essere in grado di riconoscere alcune espressioni del volto umano, come la rabbia o la paura. A suggerirlo è uno studio basato su scansioni del cervello degli animali, che fornisce per la prima volta una prova di questo tipo. La ricerca aiuta a capire meglio il rapporto tra i cani e le persone con cui vivono, e quanto siano attenti alle nostre emozioni. Lo riferisce Science News Explores.",
+   "more": [
+    "Le scansioni cerebrali, come la risonanza magnetica funzionale, mostrano quali aree del cervello si attivano mentre si guarda qualcosa. Per usarle sui cani, gli animali vengono addestrati a restare fermi dentro la macchina."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera",
+   "sub": "scienza"
+  },
+  {
+   "id": "z85bf94e1",
+   "sez": "ambiente",
+   "titolo": "Centrafrica, a Sosso-Nakombo cresce l'allarme per l'acqua inquinata dalle miniere",
+   "orig": "Sosso-Nakombo : inquiétude sur la pollution des eaux par l’activité minière",
+   "lead": "A Sosso-Nakombo, nella prefettura di Mambéré-Kadéï, nella Repubblica Centrafricana, l'inquinamento delle acque causato dalle attività minerarie sta provocando forte preoccupazione. Le imprese coinvolte sono sia nazionali sia straniere. Gli abitanti e alcune autorità locali denunciano i danni all'ambiente e chiedono ai dirigenti del Paese di intervenire con misure urgenti. Il tema è stato raccontato in un reportage radiofonico. Lo riferisce Radio Ndeke Luka.",
+   "more": [
+    "La Repubblica Centrafricana è ricca di risorse minerarie come oro e diamanti, spesso estratte con controlli limitati. Le attività minerarie possono contaminare fiumi e falde con fanghi e sostanze chimiche, mettendo a rischio l'acqua da bere e l'agricoltura."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/106984-sosso-nakombo-inquietude-sur-la-pollution-des-eaux-par-lactivite-miniere",
+     "angolo": "",
+     "atlas": "Central African Rep."
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0555a9e9",
+   "sez": "sport",
+   "titolo": "Torneo Clausura, River Plate-Sarmiento si recupera mercoledì a Junín",
+   "orig": "River Plate vs. Sarmiento, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
+   "lead": "River Plate e Sarmiento giocheranno mercoledì prossimo alle 19 a Junín la partita rinviata dell'undicesima giornata del Gruppo B del Torneo Clausura 2026, campionato argentino di calcio. L'arbitro sarà Nazareno Arasa. In Perù, intanto, l'Alianza Lima ospita l'Atlético Grau nello stadio di Matute per la dodicesima giornata del Clausura della Liga 1 2026: la squadra di casa ha bisogno dei tre punti nella fase finale del torneo.",
+   "more": [
+    "Il River Plate è una delle squadre più titolate d'Argentina, con sede a Buenos Aires. L'Alianza Lima è uno dei club più popolari del Perù e gioca nello stadio del quartiere di Matute, nella capitale."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/deportes/futbol/river-plate-vs-sarmiento-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid12102026/",
+     "angolo": "",
+     "atlas": "Argentina"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/a-que-hora/a-que-hora-y-donde-ver-el-alianza-lima-vs-atletico-grau-por-la-fecha-12-del-torneo-clausura-via-liga-1-max-tdpe-noticia/",
+     "angolo": "",
+     "atlas": "Peru"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z202da0d0",
+   "sez": "economia",
+   "titolo": "Andorra, il governo difende la scelta di Chalair per l'aeroporto",
+   "orig": "El Govern defensa que Chalair ha presentat una millor oferta que Andorra Connected",
+   "lead": "Il governo di Andorra difende la decisione di affidare a Chalair il servizio legato all'aeroporto, scartando la concorrente Andorra Connected. Il ministro Forné sostiene che l'offerta vincente era migliore per prezzi dei biglietti, ore di volo e capacità di risposta dell'azienda. Secondo Forné, la proposta di Andorra Connected era «molto peggiore» e, se fosse stata l'unica in gara, il concorso sarebbe stato dichiarato deserto, cioè senza assegnazione.",
+   "more": [
+    "Andorra è un piccolo Stato tra Francia e Spagna, sui Pirenei, senza un aeroporto proprio sul territorio. Il Paese è collegato al vicino scalo di Andorra-La Seu d'Urgell, in Catalogna, e i collegamenti aerei sono un tema importante per turismo ed economia."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261012/govern-defensa-chalair-presentat-millor-oferta-andorra-connected_206322.html",
+     "angolo": "",
+     "atlas": "Andorra"
+    },
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/politica/el-concurs-de-l-aeroport-hauria-quedat-desert-si-nomes-s-hagues-presentat-andorra-connected",
+     "angolo": "",
+     "atlas": "Andorra"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z94803f24",
+   "sez": "musica",
+   "titolo": "Lemon Twigs, ritorno agli anni Sessanta",
+   "orig": "Lemon Twigs - Bentornati nei Sixties",
+   "lead": "I Lemon Twigs, la band dei fratelli D'Addario, tornano con un lavoro che guarda agli anni Sessanta. Secondo la recensione, il gruppo usa le sue chitarre a dodici corde come una macchina del tempo per rendere omaggio alla grande tradizione del pop basato sulla chitarra. Il risultato unisce melodie limpide ed energia contagiosa, e celebra un suono che appartiene a un'altra epoca musicale. Lo riferisce OndaRock.",
+   "more": [
+    "I Lemon Twigs sono un gruppo statunitense formato dai fratelli Brian e Michael D'Addario, noti per un sound ispirato al pop e al rock degli anni Sessanta e Settanta."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/livereport/2026-lemon-twigs/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0d0a678b",
+   "sez": "spazio",
+   "titolo": "Hubble individua un probabile pianeta di seconda generazione",
+   "orig": "Hubble Spots a Suspected Second-Generation Planet",
+   "lead": "Analizzando vecchi dati del telescopio spaziale Hubble della NASA, alcuni astronomi hanno risolto un «caso irrisolto» rimasto nell'archivio. In uno studio pubblicato lunedì sulla rivista Nature Astronomy, i ricercatori descrivono un indizio chimico sorprendente: suggerisce che la nana bianca HS 0209+0832 potrebbe ospitare un pianeta di seconda generazione, cioè nato dopo la trasformazione della stella. La scoperta mostra quanto possano essere preziosi i dati già raccolti. Lo riferisce Universe Today.",
+   "more": [
+    "Una nana bianca è ciò che resta di una stella simile al Sole dopo che ha esaurito il combustibile. Un pianeta di seconda generazione si formerebbe dal materiale liberato in questa fase finale, invece che insieme alla stella all'origine."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/hubble-spots-a-suspected-second-generation-planet",
+     "angolo": "",
+     "atlas": "Canada"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z98ae8e71",
+   "sez": "mondo",
+   "titolo": "Da Tokyo a Kawaguchiko in giornata",
+   "orig": "The Ultimate Tokyo to Kawaguchiko Day Trip",
+   "lead": "Kawaguchiko, il secondo per grandezza e il più facile da raggiungere dei Cinque laghi del Fuji, in Giappone, offre alcune delle viste migliori sul monte Fuji: riflesso sull'acqua o con campi di lavanda in primo piano. La zona è ricca di natura, con foglie autunnali, ciliegi in fiore e numerose feste dei fiori. Da Tokyo si arriva con collegamenti diretti, in autobus o treno, in circa due ore: per questo è una meta molto frequentata per una gita in giornata. Lo riferisce Tokyo Cheapo.",
+   "more": [
+    "I Cinque laghi del Fuji si trovano ai piedi del vulcano, nella prefettura di Yamanashi, e fanno parte di un parco nazionale. Sono tra i luoghi più fotografati del Giappone proprio per la vista sulla montagna."
+   ],
+   "fonti": [
+    {
+     "n": "Tokyo Cheapo",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://tokyocheapo.com/entertainment/tokyo-to-kawaguchiko-day-trip-guide/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd65754ff",
+   "sez": "cultura",
+   "titolo": "Festival do Rio, vincono «A Margem do Rio» ed «Elza»",
+   "orig": "A Margem do Rio e Elza vencem principais prêmios do Festival do Rio",
+   "lead": "Il cinema brasiliano è stato il grande protagonista della serata conclusiva della 28ª edizione del Festival do Rio, che dopo dieci giorni di proiezioni in sale di diverse zone di Rio de Janeiro ha assegnato i Trofei Redentor. A Margem do Rio, di Enock Carvalho e Matheus Farias, ha vinto come miglior film di finzione, mentre Elza, di Eryk Rocha, è stato premiato come miglior documentario. Secondo gli organizzatori, il festival ha richiamato oltre 150 mila persone. Lo riferisce Agência Brasil.",
+   "more": [
+    "Il Festival do Rio è una delle principali rassegne cinematografiche dell'America Latina. Il premio prende il nome dal Cristo Redentore, la grande statua simbolo della città."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/margem-do-rio-e-elza-vencem-principais-premios-do-festival-do-rio",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc298e810",
+   "sez": "ingegneria",
+   "titolo": "BeOpen Porte e Finestre arriva a Brescia il 22 ottobre",
+   "orig": "BeOpen Porte e Finestre: connettere progettazione, edilizia e produzione",
+   "lead": "Il 22 ottobre 2026 il Brixia Forum di Brescia ospiterà l'edizione lombarda di BeOpen Porte e Finestre. L'evento, rivolto agli operatori del settore, è organizzato dal Consorzio LegnoLegno, il consorzio nazionale dei serramentisti, ed è dedicato alla filiera dei serramenti. In programma ci sono formazione, aggiornamento tecnico e incontri d'affari, con l'obiettivo di collegare chi progetta, chi costruisce e chi produce porte e finestre. Lo riferisce The Plan.",
+   "more": [
+    "I serramenti, cioè porte e finestre, sono decisivi per l'isolamento termico e acustico degli edifici e quindi per il loro consumo di energia."
+   ],
+   "fonti": [
+    {
+     "n": "The Plan",
+     "p": "IT",
+     "c": "Bologna",
+     "u": "https://www.theplan.it/whats_on/beopen-porte-e-finestre-per-connettere-progettazione-edilizia-e-produzione",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z38ce9b24",
+   "sez": "cucina",
+   "titolo": "Indian Cafe Racer, a Birmingham una bella storia per la cucina locale",
+   "orig": "Indian Cafe Racer, Birmingham B5: ‘A good news tale for the local food scene’ – restaurant review",
+   "lead": "L'Indian Cafe Racer, locale di Azad Kayes a Birmingham, nel Regno Unito, ha una nuova sede in Bristol Street. All'inizio si trovava dietro una tenda nel retro del pub Wellington, poche porte più in là, con una moto Royal Enfield, pavimenti a scacchi e musica indiana psichedelica. Il piccolo ristorante è diventato un locale di culto, poi troppo richiesto, e ha avuto bisogno di più spazio. Secondo la recensione la cucina è a volte perfetta, a volte un po' approssimativa, ma sempre interessante. Lo riferisce The Guardian – Cucina.",
+   "more": [
+    "Birmingham è famosa per il «Balti triangle», una zona del sud della città con molti ristoranti di cucina sudasiatica, nata intorno al balti, un piatto cucinato in una pentola di metallo."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/11/indian-cafe-racer-birmingham-grace-dent-restaurant-review",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcc581933",
+   "sez": "adolescenti",
+   "titolo": "Gli indizi che potrebbero rivelare la vita su altri mondi",
+   "orig": "These clues might point to life on other worlds",
+   "lead": "Alcuni gas e alcuni colori osservati su pianeti lontani potrebbero essere segni dell'attività di forme di vita extraterrestri. È l'ipotesi presentata dalla rivista scientifica per ragazzi, che spiega quali tracce gli scienziati cercano per capire se un pianeta è abitato. Se questi segnali dovessero davvero indicare la presenza di vita, però, gli «extraterrestri» sarebbero molto probabilmente organismi minuscoli, fatti di una sola cellula. Lo riferisce Science News Explores.",
+   "more": [
+    "Gli scienziati chiamano «biofirme» i segnali che potrebbero indicare la vita, come certi gas nell'atmosfera di un pianeta. Si studiano analizzando la luce che arriva dai pianeti con potenti telescopi."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/clues-life-venus-mars",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera",
+   "sub": "scienza"
+  },
+  {
+   "id": "z16a76451",
+   "sez": "manga",
+   "titolo": "Classifica dei videogiochi in Giappone, debutta al primo posto Ace Combat 8",
+   "orig": "Japan's Video Game Rankings, September 28-October 4",
+   "lead": "Nella classifica delle vendite di videogiochi in Giappone relativa alla settimana dal 28 settembre al 4 ottobre, Ace Combat 8: Wings of Theve ha debuttato direttamente al primo posto. La graduatoria settimanale misura i titoli più venduti nel Paese e il nuovo capitolo della serie di combattimenti aerei è entrato subito in testa alla prima settimana di uscita. Lo riferisce Anime News Network.",
+   "more": [
+    "Ace Combat è una serie giapponese di videogiochi di combattimento aereo, pubblicata da Bandai Namco, in cui il giocatore pilota aerei da caccia in conflitti immaginari."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-12/japan-video-game-rankings-september-28-october-4/.242721",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd5bef3c5",
+   "sez": "sport",
+   "titolo": "Carrick: il Manchester United uscirà dal momento difficile, ora l'Atlético",
+   "orig": "Carrick backs Man United to emerge from rough spell ahead of Atletico test",
+   "lead": "Michael Carrick, allenatore del Manchester United, è convinto che la squadra uscirà dal periodo negativo e promette che lotterà. Lo United ha avuto il peggior avvio di campionato dalla stagione 1986-87, ma Carrick dice di «divertirsi». Martedì la squadra affronta l'Atlético Madrid in Champions League e è arrivata a Madrid senza Kobbie Mainoo e Luke Shaw, che hanno subito colpi nel pareggio contro il Tottenham del fine settimana.",
+   "more": [
+    "Michael Carrick è un ex centrocampista del Manchester United, dove ha vinto molti trofei, poi passato in panchina. L'Atlético Madrid è uno dei principali club spagnoli, noto per la sua solidità difensiva."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/carrick-backs-man-united-emerge-rough-spell-ahead-atletico-test-6454181",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/oct/12/michael-carrick-manchester-united-no-negativity-atletico-madrid",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "12 ott",
+   "ora": "23:16",
+   "uscita": "sera"
+  },
+  {
    "id": "ze0e893b6",
    "sez": "mondo",
    "titolo": "Londra accusa l'Iran per un piano contro una base aerea e sanziona due iraniani",
@@ -223,7 +2466,7 @@ window.EDIZIONI["2026-10-12-sera"] = {
   },
   {
    "id": "z622d87e3",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Sánchez: navi da guerra marocchine sono entrate nelle acque spagnole vicino a Ceuta",
    "orig": "Nave de război ale Marinei marocane au intrat în apele teritoriale ale Spaniei, afirmă Sanchez. Detalii de la începutul crizei din Ceuta",
    "lead": "Il premier spagnolo Pedro Sánchez ha confermato che navi da guerra della Marina del Marocco sono entrate nelle acque territoriali spagnole vicino a Ceuta il 30 e il 31 luglio. In quei giorni sulla città arrivava in massa un gran numero di migranti. Sánchez lo ha detto lunedì, parlando in modo informale con i giornalisti durante il ricevimento per la Festa nazionale, secondo l'agenzia Efe. Le sue parole arrivano alla vigilia della visita di re Felipe VI a Ceuta, prevista per martedì.",
@@ -278,6 +2521,14 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://en.hespress.com/147171-spanish-military-chinook-flies-over-ceuta-days-before-felipe-vi-visit.html",
      "angolo": "",
      "atlas": "Morocco"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/12/6acd1d1721efa0354d8b4589.html",
+     "angolo": "",
+     "atlas": "Spain"
     }
    ],
    "data": "12 ott",
@@ -349,6 +2600,30 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://www.dw.com/en/fact-check-viral-videos-falsely-linked-to-riyadh-airport-attacks/a-79643037",
      "angolo": "",
      "atlas": "Germany"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-saudi-arabia-riyadh-airport-houthi-strikes/",
+     "angolo": "",
+     "atlas": "Canada"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/12/2003865801",
+     "angolo": "",
+     "atlas": "Taiwan"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/saudi-arabia-riyadh-airport-houthis-strikes-6453261",
+     "angolo": "",
+     "atlas": "Singapore"
     }
    ],
    "data": "12 ott",
@@ -3111,29 +5386,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z9d94cf65",
-   "sez": "spazio",
-   "titolo": "La Terra dallo spazio: la grande salina dell'Etosha in Namibia",
-   "orig": "Earth from Space: Namibia’s biggest salt pan",
-   "lead": "Un'immagine acquisita il 5 aprile 2026 dal satellite Copernicus Sentinel-2 mostra il Parco nazionale di Etosha, nel nord della Namibia, dove si trova la più grande salina del Paese. La foto fa parte della serie «La Terra dallo spazio», che presenta luoghi del pianeta osservati dai satelliti per l'osservazione della Terra. Lo riferisce l'Agenzia spaziale europea (Esa).",
-   "more": [
-    "Sentinel-2 è una missione del programma europeo Copernicus che fotografa la superficie terrestre ad alta risoluzione, utile per monitorare territorio, vegetazione e acque. L'Etosha Pan è una vasta depressione salata, per gran parte dell'anno asciutta, che si riempie d'acqua solo dopo piogge abbondanti e attira molta fauna."
-   ],
-   "fonti": [
-    {
-     "n": "Agenzia spaziale europea (Esa)",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
-     "angolo": "",
-     "atlas": ""
-    }
-   ],
-   "data": "12 ott",
-   "ora": "23:10",
-   "uscita": "sera"
-  },
-  {
    "id": "zb19d5165",
    "sez": "salute",
    "titolo": "Nuova Zelanda, conclusa l'indagine su falle sistemiche negli ospedali",
@@ -3690,6 +5942,30 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://laotiantimes.com/2026/10/11/the-lego-group-invites-fans-to-mash-up-star-wars-and-marvel-universes-for-the-first-time-ever-in-lego-ideas-challenge/",
      "angolo": "",
      "atlas": "Laos"
+    },
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/10/spider-man-nuovi-fumetti-2027/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/10/grant-morrison-james-bond-fumetto/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/10/captain-marvel-nuova-serie-2027/",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "12 ott",
@@ -4330,6 +6606,22 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "http://www.baltictimes.com/lithuanian_pm_urges_ukraine_to_target_more_data_centres_in_russia/",
      "angolo": "",
      "atlas": "Lithuania"
+    },
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/how-ukraines-yandex-strikes-have-affected-the-caucasus/",
+     "angolo": "",
+     "atlas": "Azerbaijan"
+    },
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924379",
+     "angolo": "",
+     "atlas": "Kyrgyzstan"
     }
    ],
    "data": "12 ott",
@@ -5139,29 +7431,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zd93ea37a",
-   "sez": "organizzazioni",
-   "titolo": "Fukushima, l'Aiea preleva campioni dell'acqua trattata con ALPS secondo misure addizionali",
-   "orig": "IAEA-led Team Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
-   "lead": "Un team di esperti guidato dall'Agenzia internazionale per l'energia atomica ha effettuato una serie di campionamenti dell'acqua trattata mediante il sistema ALPS presso la centrale nucleare giapponese di Fukushima Daiichi. Le attività di prelievo e monitoraggio si sono svolte nell'ambito delle misure supplementari previste per verificare il rispetto degli standard di sicurezza radiologica durante le operazioni di rilascio controllato, garantendo una supervisione scientifica e indipendente sui processi di bonifica condotti nell'impianto. Lo riferisce Agenzia internazionale per l'energia atomica (Aiea).",
-   "more": [
-    "L'Aiea è l'agenzia autonoma delle Nazioni Unite incaricata di promuovere l'uso pacifico e sicuro dell'energia nucleare e di stabilire norme internazionali di radioprotezione. Il sistema ALPS è un complesso impianto di filtraggio chimico progettato per rimuovere la quasi totalità dei radionuclidi dalle acque contaminate raccolte nel sito giapponese prima del loro eventuale scarico in mare."
-   ],
-   "fonti": [
-    {
-     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-led-team-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
-     "angolo": "",
-     "atlas": ""
-    }
-   ],
-   "data": "12 ott",
-   "ora": "17:25",
-   "uscita": "17"
-  },
-  {
    "id": "z07ebab73",
    "sez": "mondo",
    "titolo": "L'Unione europea istituisce la missione EUSM Lebanon a supporto delle forze di sicurezza",
@@ -5365,29 +7634,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
      "u": "https://www.nippon.com/en/in-depth/d01268/",
      "angolo": "",
      "atlas": "Japan"
-    }
-   ],
-   "data": "12 ott",
-   "ora": "17:25",
-   "uscita": "17"
-  },
-  {
-   "id": "zbbb7f28b",
-   "sez": "cultura",
-   "titolo": "Marvel Comics annuncia una nuova serie su Captain Marvel scritta da G. Willow Wilson",
-   "orig": "Marvel Comics annuncia una nuova serie a fumetti di Captain Marvel",
-   "lead": "La casa editrice statunitense Marvel Comics ha ufficializzato il debutto nel 2027 di una nuova serie a fumetti dedicata alla supereroina Captain Marvel. Il nuovo ciclo di storie vedrà come sceneggiatrice la scrittrice G. Willow Wilson, mentre il comparto grafico e i disegni saranno affidati all'artista britannica Rachael Stott. L'annuncio segna una nuova fase editoriale per il popolare personaggio cosmico, che tornerà nelle edicole e nelle fumetterie con una gestione narrativa inedita. Lo riferisce Fumettologica.",
-   "more": [
-    "Nel panorama del fumetto statunitense, il rilancio periodico delle testate storiche dei supereroi rappresenta una strategia comune per rinnovare le trame e attrarre nuovi lettori attraverso cambi di autori e disegnatori. Captain Marvel è una delle figure centrali dell'universo Marvel, protagonista di lunghe saghe a tema fantascientifico e spaziale trasposte anche al cinema."
-   ],
-   "fonti": [
-    {
-     "n": "Fumettologica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://fumettologica.it/2026/10/captain-marvel-nuova-serie-2027/",
-     "angolo": "",
-     "atlas": "Italy"
     }
    ],
    "data": "12 ott",
@@ -6193,7 +8439,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z349ff564": "La Cucina Italiana mette in luce l'incontro tra la scuola gastronomica romagnola e le risorse ittiche offerte dalla costa andalusa.",
   "zec62bbe4": "Il Messaggero – Roma sottolinea l'affetto dei residenti verso uno spazio verde essenziale per la vita sociale del quartiere storico.",
   "z46e5cf8f": "Gazeta.uz riporta l'accento posto dal capo di Stato uzbeko sulla cooperazione regionale e sui costi economici derivanti dallo spreco idrico.",
-  "zd93ea37a": "L'Aiea documenta il proseguimento delle attività ispettive e di verifica tecnica indipendente all'interno della centrale giapponese.",
   "z07ebab73": "Il Consiglio UE focalizza l'attenzione sul rafforzamento istituzionale, mentre le testate regionali Naharnet e Dawn seguono rispettivamente il contesto della missione e le vicende militari pakistane.",
   "z51720f86": "Rai News e le altre grandi testate italiane mettono a confronto la fermezza della premier a Bruxelles con le richieste industriali contro il caro-energia.",
   "z2de0144a": "BBC Newsround evidenzia il massiccio coinvolgimento diretto di migliaia di giovanissimi per analizzare gli effetti reali del digitale sulle loro vite.",
@@ -6201,7 +8446,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z0a6fc961": "Foroyaa mette in evidenza la mossa geopolitica di Pechino a sostegno della cooperazione internazionale e della guida dell'organismo Onu.",
   "z15ef32de": "OndaRock analizza il tema concettuale della diciassettesima edizione, incentrato sul valore estetico dell'anomalia informatica nel suono.",
   "z7c34aace": "Nippon.com valorizza la testimonianza del segretario generale sul ruolo del Nobel nel favorire la continuità dell'attivismo antinucleare.",
-  "zbbb7f28b": "Fumettologica si concentra sugli autori scelti dalla casa editrice per rilanciare la testata editoriale del celebre personaggio.",
   "z25f07dd4": "Notes from Poland pone in risalto l'inchiesta giudiziaria sull'accesso della società estera ai dati raccolti dai servizi polacchi.",
   "z7688a6cf": "Libya Herald pone in rilievo la pubblicazione delle prestazioni sanitarie fornite dal presidio ospedaliero nella periferia della capitale.",
   "zd4372cea": "Dezeen descrive il progetto di riuso temporaneo come un'esperienza creativa che valorizza la struttura storica alla vigilia della demolizione.",
@@ -6357,8 +8601,97 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z9ddec5a3": "ABC racconta l'autocritica australiana, Stuff coinvolge i tifosi neozelandesi nella scelta della squadra.",
   "z28cf64e0": "Notes from Poland valorizza il riconoscimento statunitense alla crescita polacca.",
   "z8a7c21d6": "Il Post annuncia lo sciopero, l'ANSA ne spiega le ragioni contrattuali e il rischio per il Faust.",
-  "z9d94cf65": "L'Esa mostra il valore delle immagini satellitari per osservare i paesaggi terrestri.",
-  "zb19d5165": "RNZ mette in evidenza la mancanza di trasparenza sui risultati dell'indagine."
+  "zb19d5165": "RNZ mette in evidenza la mancanza di trasparenza sui risultati dell'indagine.",
+  "z5662cf00": "La Cucina Italiana mette a fuoco il dialogo tra arte e cucina d'autore che caratterizza l'edizione 2026 della rassegna torinese.",
+  "zb45a44cf": "The Slovak Spectator sottolinea la valenza didattica e turistica del nuovo tracciato naturalistico aperto al pubblico.",
+  "z3f6bd954": "L'Aiea pone in evidenza l'affidabilità scientifica dei dati raccolti dal Giappone sul trattamento delle acque.",
+  "ze39b1d2c": "RNZ Pacific si concentra sulla composizione delle squadre e sul calendario sportivo del torneo, mentre la rassegna di Pacific Islands Report affronta questioni istituzionali della regione.",
+  "zb2c17e71": "L'Esa sottolinea la rapidità con cui il satellite ha inviato i primi rilievi a due settimane dal decollo.",
+  "z4b0863e8": "RNZ mette in luce l'impatto organizzativo dell'azione sindacale programmata dai manager ospedalieri a fine mese.",
+  "zd3d16fa5": "Good News Network valorizza la partecipazione dal basso dei residenti berlinesi a sostegno del verde pubblico.",
+  "zb4015361": "Post-Courier pone l'accento sulla richiesta di fondi accessibili e di impegni vincolanti avanzata dalla Papua Nuova Guinea.",
+  "z13ae28b8": "L'Aiea ribadisce la conformità delle misurazioni radiometriche relative al ventiquattresimo lotto di scarico.",
+  "z6afbabb0": "The Straits Times e Cyprus Mail riportano il lancio di Reuters, evidenziando il ruolo della proposta sul carburante come possibile chiave di svolta negoziale.",
+  "zcc4f4a70": "La Nasa pone in risalto le ricadute degli studi biomedici sulla salute umana e sui futuri viaggi interplanetari.",
+  "z57fe3f57": "NPR – Musica evidenzia l'eccezionale affluenza di pubblico al museo per la prima esposizione pubblica della collezione dell'artista.",
+  "z3c60ee65": "La testata presenta la mostra come appuntamento di punta dell'agenda culturale della giornata.",
+  "zdc740185": "La testata mette in evidenza come la disinformazione e lo stigma allontanino i pazienti dalle cure.",
+  "z0b5860b1": "La testata valorizza il lato misterioso e leggendario del territorio come chiave di viaggio.",
+  "zda512efb": "La testata punta sul ritorno della coppia creativa di Paper Girls.",
+  "z7c954e10": "La testata sottolinea il legame affettivo della famiglia con la terra e il valore naturalistico dell'area.",
+  "z74ea11cd": "La testata mette in evidenza il legame tra qualità acustica degli spazi e benessere.",
+  "z2f8c938d": "La testata punta sulla semplicità e la rapidità della preparazione.",
+  "z1d445299": "La testata riporta l'impegno del governo a superare la diffidenza delle comunità rurali verso il solare.",
+  "z161ebafe": "Il Guardian racconta la vittoria come rivincita di una figura a lungo vista con scetticismo; l'altra voce collegata, sui lavoratori di Meatco in Namibia, riguarda un fatto diverso.",
+  "z9a9217f7": "La testata racconta la natura urbana attraverso gli occhi di un giovane reporter.",
+  "z6ccab54a": "La testata riporta la rivendicazione politica del governatore sul tema della salute mentale.",
+  "z2f51e319": "La testata pubblica il comunicato ufficiale con i dati sugli esiti dell'esame.",
+  "z6bb7e220": "La testata ricostruisce il contesto storico che fa da sfondo alla selezione della rivista Prog.",
+  "z8934860e": "La testata valorizza il borgo come tesoro nascosto, legando storia, natura e gastronomia.",
+  "z26d7b070": "La testata mette in risalto l'accelerazione del declino demografico rispetto al censimento precedente.",
+  "z45b0089a": "La testata presenta il censimento come una storia di successo per la conservazione.",
+  "zb59232f8": "La testata sottolinea il carattere artistico della ricerca sui materiali dello studio.",
+  "z4b8ca2ff": "La testata insiste sul valore antispreco della ricetta.",
+  "zbcc11e31": "La testata chiarisce che lo stop riguarda solo i concerti e non la produzione musicale.",
+  "z467f0aa7": "La testata riporta l'impostazione programmatica del ministero per il rilancio del settore.",
+  "z83309e36": "La testata sottolinea la doppia sconfitta della squadra, in campo e fuori; l'altra voce collegata, sul terremoto a Panama, riguarda un fatto diverso.",
+  "za032d066": "Cyprus Mail punta sulla cooperazione negli idrocarburi, mentre The Namibian racconta un accordo rivolto all'accesso all'energia e alla transizione verde.",
+  "z1b1b36c0": "La Nasa evidenzia che il massimo stagionale resta tra i più bassi della serie storica.",
+  "z9ce1a5fc": "La testata mette in evidenza il contrasto tra l'immagine glamour del gruppo e il suo carattere.",
+  "z0dcfb5ea": "La testata presenta l'Armenia come alternativa tranquilla al turismo di massa.",
+  "zbf1bd65a": "La testata sottolinea l'incontro tra un regista d'autore e un manga di successo.",
+  "z4179fa5a": "La testata sottolinea il peso della Russia nel programma nucleare uzbeko, accanto al nuovo interesse giapponese.",
+  "za1b9282e": "La testata mette in evidenza i riferimenti classici e la ricerca di equilibrio formale del progetto.",
+  "zd9a6ca42": "La testata punta su una ricetta familiare che rielabora la pasta al forno con la sfoglia.",
+  "zd0197089": "La testata presenta i Nobel in modo semplice, riassumendo ogni scoperta in un'immagine facile da capire.",
+  "zb5b3176b": "La testata si concentra sulle date e sul titolo dello spettacolo tratto dal manga.",
+  "z96ec5206": "La testata adotta un taglio personale, raccontando la scoperta inattesa di una destinazione poco nota.",
+  "zf2f483eb": "UzDaily esalta il rigore decisivo di Khamdamov per il Pakhtakor, mentre 3News si concentra sull'assist del ghanese Bonsu Baah.",
+  "za7395685": "La testata presenta l'immagine all'interno della sua rubrica divulgativa quotidiana sull'astronomia.",
+  "z938a3cc6": "La testata punta su una copertura completa e continua del processo, in formato diretta.",
+  "z8ad61f25": "La testata unisce l'annuncio del nuovo disco a un'intervista ricca di ricordi personali del frontman.",
+  "zb2589505": "La testata mette in risalto il contrasto tra Buda e Pest come chiave per scoprire la città.",
+  "z1a6cc4f2": "La testata sottolinea che si tratta di una tendenza in continua crescita, basata su dati ufficiali.",
+  "z619d3095": "La testata evidenzia l'uso dell'IA per sviluppare software senza scrivere codice.",
+  "z0112eed9": "La testata offre una selezione ragionata delle novità, letta attraverso le tendenze del progetto.",
+  "z2a660511": "La testata punta sui sapori intensi e sulla scelta di un formato di pasta adatto a raccogliere il condimento.",
+  "z70f69a8a": "La testata usa un esempio famoso come il T. rex per spiegare un termine scientifico e il legame con gli uccelli.",
+  "zc0d266a4": "La testata riporta la chiusura indicando luogo e date dell'ultima edizione.",
+  "zaa6ffa41": "La testata dà spazio allo scetticismo dei residenti sul valore degli spartitraffico oltre l'estetica.",
+  "zef90fbfc": "El Universo mette in primo piano la visita di Gallardo e i numeri dello storico, mentre El Observador parla di un altro Barcelona, quello spagnolo, attraverso le parole di Lucas Torreira.",
+  "zd5f73ee8": "CNA sottolinea il risultato sotto le attese e la contrazione della moda, mentre Repubblica evidenzia la lieve crescita complessiva trainata da champagne e gioielli e il peso della Cina.",
+  "za218ecb4": "La testata presenta l'evento come un'iniziativa per coinvolgere il grande pubblico sportivo.",
+  "ze7195378": "La testata mette in evidenza l'incontro tra immagini astronomiche e tradizione cantautorale.",
+  "z2bc48564": "La testata mette in risalto il richiamo ai doveri etici dei medici e alla protezione delle strutture sanitarie.",
+  "z4fb04a0a": "La testata privilegia gli eventi gratuiti o economici e le esperienze più curiose della settimana.",
+  "z721e9df3": "La testata sottolinea l'impatto limitato del rimpasto e il peso degli scandali sul giudizio dei cittadini.",
+  "z82e99eca": "La testata adotta un taglio critico, ponendo dubbi su energia e domanda dietro il progetto.",
+  "zedbb3d42": "La testata presenta il negozio come spazio dedicato alla progettazione e alla personalizzazione dell'arredo.",
+  "zfdf9d97e": "La testata mette in primo piano il legame personale dello chef con la ricetta e le origini del balti.",
+  "z6f7be27f": "La testata usa un film di supereroi come porta d'ingresso per spiegare ai ragazzi le terapie a RNA.",
+  "ze05a4616": "La testata mette in risalto il carattere autobiografico del progetto, con i saggi sul dietro le quinte.",
+  "z501e00e2": "The Botswana Gazette insiste sulla nuova strategia più prudente del gruppo, mentre Sunday Standard sottolinea il rimborso del debito verso il fondo pensioni.",
+  "z4a46d729": "La testata pubblica lettone evidenzia i dubbi degli esperti sull'autenticità della rivendicazione.",
+  "zcb9951f0": "La recensione sottolinea la solidità dell'opera e il senso di libertà che la attraversa.",
+  "zb90e9683": "La rivista medica britannica critica il movimento per aver privilegiato celebrità problematiche rispetto alla propria base politica.",
+  "zf98d316d": "La guida punta sulla varietà dell'offerta, dal dolce al salato, per chi visita Tokyo spendendo poco.",
+  "z00f64100": "La testata mette in evidenza il profumo del fungo e il suo prezzo da prodotto di lusso.",
+  "zb5b7c632": "La testata specializzata sulla Corea del Nord sottolinea i dubbi sui controlli nascosti nel telefono.",
+  "z9ca46257": "La rivista presenta la varietà di tipologie architettoniche raccolte nel nuovo numero.",
+  "z423bf8e5": "L'autrice insiste sul difetto più comune della zuppa di zucca, la consistenza acquosa, e su come evitarlo.",
+  "zb59e9eb4": "La testata presenta la scoperta come la prima prova cerebrale della capacità dei cani di leggere le emozioni umane.",
+  "z85bf94e1": "La radio dà voce alla popolazione locale e alla sua richiesta di interventi urgenti da parte del governo.",
+  "z0555a9e9": "La Nación si concentra su orario, arbitro e trasmissione della partita del River, mentre El Comercio sottolinea l'importanza dei punti per l'Alianza Lima.",
+  "z202da0d0": "Il Diari d'Andorra riporta i vantaggi dell'offerta vincente, mentre Bondia mette in risalto il giudizio negativo sull'offerta di Andorra Connected.",
+  "z94803f24": "La recensione celebra la fedeltà della band al pop chitarristico degli anni Sessanta.",
+  "z0d0a678b": "La testata sottolinea il valore dei dati d'archivio di Hubble nel portare a una nuova scoperta.",
+  "z98ae8e71": "La guida punta sui panorami del Fuji e sulla facilità di raggiungere il lago da Tokyo.",
+  "zd65754ff": "L'agenzia pubblica brasiliana mette in evidenza il successo del cinema nazionale e la grande affluenza di pubblico.",
+  "zc298e810": "La rivista presenta l'evento come un punto d'incontro tra progettazione, edilizia e produzione.",
+  "z38ce9b24": "La recensione racconta la crescita del locale come una buona notizia per la scena gastronomica della città.",
+  "zcc581933": "La testata chiarisce che eventuali forme di vita scoperte sarebbero probabilmente microrganismi, non creature complesse.",
+  "z16a76451": "La testata mette in evidenza il debutto in vetta del nuovo Ace Combat.",
+  "zd5bef3c5": "CNA riporta la fiducia di Carrick nella ripresa, mentre il Guardian insiste sul pessimo avvio e sulle assenze."
  },
  "contesti": {
   "zc3de7c78": "Ilhan Omar, deputata democratica del Minnesota eletta per la prima volta nel 2018, è da anni una delle voci più critiche nei confronti di Donald Trump, che l'ha più volte attaccata pubblicamente. Nei giorni scorsi il Dipartimento di Giustizia ha portato avanti un'indagine federale ancora in corso. Per quell'indagine è stato approvato un mandato, culminato oggi nella perquisizione della sua abitazione di Washington.",
@@ -6415,7 +8748,22 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z20b7aa2b": "Da alcuni anni Pechino ha riorganizzato la gestione delle segnalazioni dei cittadini attorno alla linea telefonica di servizio 12345. Le richieste vengono smistate direttamente agli uffici di quartiere, che devono rispondere in tempi rapidi. Il sistema, noto come risposta immediata ai reclami, è stato promosso dalle autorità come modello di amministrazione vicina ai residenti. Il forum di quest'anno porta il confronto su questo modello anche a interlocutori stranieri.",
   "z73e07af2": "Il Marché des Enfants-Rouges era stato aperto nel 1615 nel Marais, uno dei quartieri storici di Parigi. Dal 1982 era tutelato come monumento storico. Negli ultimi decenni era diventato una tappa fissa per residenti e turisti, grazie ai suoi banchi di cucine da tutto il mondo. Nelle prime ore di lunedì un incendio lo ha distrutto completamente. Per Parigi è la perdita di un altro luogo simbolo, dopo il rogo di Notre-Dame del 2019.",
   "z1182be59": "Ogni primavera l'Organizzazione mondiale del commercio pubblica le sue previsioni annuali sugli scambi, che poi aggiorna in autunno. Nella prima metà del 2026 il conflitto in Medio Oriente ha perturbato rotte e catene di approvvigionamento. Allo stesso tempo, i forti investimenti in intelligenza artificiale hanno sostenuto la domanda di merci. Il nuovo aggiornamento tiene conto di questa tenuta, che però non è stata uniforme: servizi e alcune regioni hanno sofferto di più.",
-  "z948d3df9": "Nella notte un attacco informatico ha colpito i sistemi di refrigerazione di centinaia di supermercati francesi, tra cui punti vendita Intermarché e Coopérative U. In molti negozi le temperature sono salite fino a cinquanta gradi e ci sono stati incendi locali. Il cibo fresco e surgelato andato perso vale milioni di euro. Si teme ora che la manomissione possa estendersi ad aziende nei Paesi Bassi."
+  "z948d3df9": "Nella notte un attacco informatico ha colpito i sistemi di refrigerazione di centinaia di supermercati francesi, tra cui punti vendita Intermarché e Coopérative U. In molti negozi le temperature sono salite fino a cinquanta gradi e ci sono stati incendi locali. Il cibo fresco e surgelato andato perso vale milioni di euro. Si teme ora che la manomissione possa estendersi ad aziende nei Paesi Bassi.",
+  "z6afbabb0": "I tentativi internazionali di aprire canali diplomatici stabili per fermare il conflitto in Ucraina si sono scontrati con continui stalli e condizioni contrastanti tra le parti. I precedenti contatti non hanno prodotto aperture significative da parte della leadership russa, spingendo gli inviati statunitensi a cercare incentivi economici nel settore dei combustibili.",
+  "z161ebafe": "Il Peterborough ha affidato la panchina a Robbie Savage, ex calciatore e commentatore, al primo incarico da allenatore nella Football League. Il calendario lo ha messo subito di fronte al Leicester, sua ex squadra, oggi in difficoltà nella stessa categoria.",
+  "z83309e36": "Sabato la National University ha perso nettamente contro Santo Tomas. Durante la gara l'assistente allenatore Paul Du ha colpito il collega della squadra avversaria, episodio che ha portato la lega a decidere la squalifica.",
+  "za032d066": "Negli ultimi anni Cipro ha cercato di rafforzare il proprio ruolo energetico nel Mediterraneo orientale, anche grazie ai giacimenti di gas offshore. La visita del ministro Damianos a Riad ha portato alla firma del memorandum con il governo saudita.",
+  "zf2f483eb": "La partita fa parte della AFC Champions League Elite, dove il Pakhtakor affrontava l'Al Qadsiah, club saudita. Le fonti non riportano i risultati delle giornate precedenti: il pareggio arrivato nei minuti finali rappresenta comunque un punto conquistato in rimonta dalla squadra uzbeka contro un avversario proveniente da un campionato molto competitivo.",
+  "z938a3cc6": "Lo scontro tra Sara Duterte, figlia dell'ex presidente Rodrigo Duterte, e il presidente Ferdinand Marcos Jr. è esploso dopo la rottura della loro alleanza politica. Nel febbraio 2025 la Camera aveva approvato un primo impeachment, che la Corte suprema dichiarò incostituzionale nel luglio 2025 per il divieto di avviare più procedimenti entro un anno. Scaduto quel termine, la vicenda è tornata in Parlamento fino all'attuale processo davanti al Senato.",
+  "zef90fbfc": "Il Barcelona SC attraversa un momento difficile: l'ultima vittoria in campionato risale al 2 settembre contro l'Independiente del Valle e da allora la squadra è arrivata a tre partite senza successi. Con l'ultima sfida la Liga de Quito ha ridotto a quattro vittorie lo svantaggio negli scontri diretti, una distanza che non si vedeva dal 1968.",
+  "zd5f73ee8": "Da oltre due anni il settore del lusso attraversa una fase di rallentamento, dopo il boom seguito alla pandemia. La frenata dei consumi in Cina, i rincari dei prezzi e le tensioni commerciali legate ai dazi statunitensi hanno pesato sui grandi gruppi. Lvmh, primo gruppo mondiale del comparto, ha chiuso il 2025 con ricavi in calo, sostenendosi soprattutto su gioielleria e alcuni marchi forti, mentre la moda e pelletteria è rimasta in difficoltà.",
+  "z721e9df3": "Il 17 settembre la premier Takaichi Sanae ha rinnovato la composizione del suo governo, nella speranza di rafforzare il sostegno dell'opinione pubblica. I sondaggi successivi hanno mostrato qualche miglioramento, ma un gradimento in gran parte stabile, mentre restano al centro dell'attenzione gli scandali e le scelte politiche attese.",
+  "z501e00e2": "Letshego ha annunciato agli azionisti di aver estinto il prestito ricevuto dal fondo pensioni BPOPF, per un importo fino a 483 milioni di pula, nell'ambito degli sforzi per rafforzare il bilancio. Ora lo stesso fondo si impegna a garantire il nuovo aumento di capitale da 800 milioni.",
+  "z0555a9e9": "Il Torneo Clausura argentino è entrato nella sua fase avanzata, ma la sfida tra River Plate e Sarmiento dell'undicesima giornata non era stata giocata ed è rimasta in sospeso. In Perù il Clausura della Liga 1 è arrivato alla dodicesima giornata, nella parte finale della stagione.",
+  "z202da0d0": "Il governo andorrano ha assegnato a Chalair il concorso per i voli legati all'aeroporto, escludendo l'offerta di Andorra Connected. La decisione ha sollevato discussioni, e il ministro Forné è intervenuto pubblicamente per spiegare i criteri che hanno portato alla scelta.",
+  "zd5bef3c5": "Il Manchester United ha cominciato la stagione di Premier League con il peggior rendimento in quarant'anni. Nel fine settimana ha pareggiato contro il Tottenham, partita in cui Kobbie Mainoo e Luke Shaw hanno subito colpi che li hanno esclusi dalla trasferta in Spagna.",
+  "zd0197089": "Come ogni anno all'inizio di ottobre, l'Assemblea Nobel del Karolinska Institutet e l'Accademia reale svedese delle scienze hanno annunciato a Stoccolma i vincitori dei tre premi scientifici: medicina, fisica e chimica. I premiati di quest'anno spaziano dallo studio del cosmo attraverso il ghiaccio, al controllo dei neuroni con la luce, fino alle molecole speculari. La cerimonia di consegna si terrà il 10 dicembre, anniversario della morte di Alfred Nobel.",
+  "za07d561e": "Marvel e Lucasfilm, entrambe di proprietà della Walt Disney Company, hanno annunciato un crossover a fumetti che farà incontrare per la prima volta gli eroi Marvel e i personaggi di Star Wars. Il progetto, intitolato Hope Assembles, è stato presentato in occasione del New York Comic Con di ottobre, dove LEGO ha lanciato anche una sfida creativa per i fan. La copertina di Alex Ross è il primo assaggio dell'opera, attesa nel 2027."
  },
  "cronologie": {
   "zc3de7c78": [
@@ -7127,6 +9475,150 @@ window.EDIZIONI["2026-10-12-sera"] = {
     "Oggi",
     "Stima dei danni in milioni di euro e timori per i Paesi Bassi"
    ]
+  ],
+  "z6afbabb0": [
+   [
+    "Nelle scorse settimane",
+    "Fallimento dei precedenti tentativi diplomatici di avviare colloqui di pace strutturati tra le parti"
+   ],
+   [
+    "Venerdì 10 ottobre",
+    "Gli emissari di Donald Trump illustrano ai rappresentanti ucraini la proposta sulle esportazioni di diesel"
+   ]
+  ],
+  "z83309e36": [
+   [
+    "Sabato",
+    "Pesante sconfitta della NU contro UST e colpo di Du all'assistente avversario"
+   ],
+   [
+    "Dopo la gara",
+    "La Uaap squalifica Du per il resto della stagione"
+   ]
+  ],
+  "za032d066": [
+   [
+    "Settimana scorsa",
+    "Namibia e Germania firmano un accordo energetico a Windhoek"
+   ],
+   [
+    "Lunedì",
+    "Cipro e Arabia Saudita firmano il memorandum a Riad"
+   ]
+  ],
+  "zef90fbfc": [
+   [
+    "2 settembre",
+    "Il Barcelona SC batte l'Independiente del Valle, ultima vittoria in campionato"
+   ],
+   [
+    "Fine settimana",
+    "Gallardo visita gli stadi della Liga Pro e assiste a Liga de Quito-Barcelona SC"
+   ]
+  ],
+  "z501e00e2": [
+   [
+    "Nei giorni scorsi",
+    "Letshego rimborsa il prestito BPOPF fino a 483 milioni di pula"
+   ],
+   [
+    "Ora",
+    "BPOPF garantisce l'aumento di capitale da 800 milioni"
+   ]
+  ],
+  "z0555a9e9": [
+   [
+    "Undicesima giornata",
+    "River Plate-Sarmiento non disputata, partita in sospeso"
+   ],
+   [
+    "Dodicesima giornata",
+    "Alianza Lima-Atlético Grau in Perù"
+   ]
+  ],
+  "z202da0d0": [
+   [
+    "Nei giorni scorsi",
+    "Concorso dell'aeroporto assegnato a Chalair"
+   ],
+   [
+    "Ora",
+    "Forné difende la scelta rispetto ad Andorra Connected"
+   ]
+  ],
+  "zd5bef3c5": [
+   [
+    "Inizio stagione",
+    "Peggior avvio di campionato dal 1986-87"
+   ],
+   [
+    "Fine settimana",
+    "Pareggio con il Tottenham, infortuni per Mainoo e Shaw"
+   ],
+   [
+    "Martedì",
+    "Trasferta di Champions con l'Atlético Madrid"
+   ]
+  ],
+  "zd0197089": [
+   [
+    "Inizio ottobre 2026",
+    "Annuncio del Nobel per la medicina"
+   ],
+   [
+    "Inizio ottobre 2026",
+    "Annunci dei Nobel per la fisica e per la chimica"
+   ],
+   [
+    "10 dicembre 2026",
+    "Cerimonia di consegna a Stoccolma"
+   ]
+  ],
+  "z938a3cc6": [
+   [
+    "5 febbraio 2025",
+    "La Camera approva il primo impeachment contro Sara Duterte"
+   ],
+   [
+    "Luglio 2025",
+    "La Corte suprema dichiara incostituzionale il procedimento"
+   ],
+   [
+    "2026",
+    "Nuovo procedimento e avvio del processo al Senato"
+   ]
+  ],
+  "zd5f73ee8": [
+   [
+    "2024",
+    "Inizia il rallentamento della domanda di lusso in Cina"
+   ],
+   [
+    "Gennaio 2026",
+    "Lvmh presenta conti 2025 in calo"
+   ],
+   [
+    "Ottobre 2026",
+    "Vendite del terzo trimestre sotto le attese, moda e pelletteria a -5%"
+   ]
+  ],
+  "za07d561e": [
+   [
+    "Ottobre 2026",
+    "Annuncio del crossover Marvel-Star Wars Hope Assembles"
+   ],
+   [
+    "Ottobre 2026",
+    "Al New York Comic Con LEGO lancia una sfida creativa per i fan"
+   ],
+   [
+    "Ottobre 2026",
+    "Presentata la copertina di Alex Ross con Spider-Man e Luke Skywalker"
+   ],
+   [
+    "2027",
+    "Uscita prevista del fumetto"
+   ]
   ]
  },
  "luoghi": {
@@ -7308,13 +9800,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    ],
    "pt": []
   },
-  "zd93ea37a": {
-   "n": "Fukushima",
-   "p": [
-    "Japan"
-   ],
-   "pt": []
-  },
   "z07ebab73": {
    "n": "Libano",
    "p": [
@@ -7361,13 +9846,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
    "n": "Tokyo",
    "p": [
     "Japan"
-   ],
-   "pt": []
-  },
-  "zbbb7f28b": {
-   "n": "New York",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -8407,17 +10885,631 @@ window.EDIZIONI["2026-10-12-sera"] = {
    ],
    "pt": []
   },
-  "z9d94cf65": {
-   "n": "Parco nazionale di Etosha",
+  "zb19d5165": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z5662cf00": {
+   "n": "Torino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb45a44cf": {
+   "n": "Muránska Planina",
+   "p": [
+    "Slovakia"
+   ],
+   "pt": []
+  },
+  "z3f6bd954": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "ze39b1d2c": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zb2c17e71": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z4b0863e8": {
+   "n": "Auckland",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zd3d16fa5": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zb4015361": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z13ae28b8": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z6afbabb0": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zcc4f4a70": {
+   "n": "Cape Canaveral",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z57fe3f57": {
+   "n": "San Francisco",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3c60ee65": {
+   "n": "Chisinau",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "zdc740185": {
+   "n": "Figi",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z0b5860b1": {
+   "n": "Tuscia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zda512efb": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7c954e10": {
+   "n": "Lago Palestine, Texas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z74ea11cd": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2f8c938d": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1d445299": {
+   "n": "Choi, regione dello Zambezi",
    "p": [
     "Namibia"
    ],
    "pt": []
   },
-  "zb19d5165": {
-   "n": "Nuova Zelanda",
+  "z161ebafe": {
+   "n": "Leicester",
    "p": [
-    "New Zealand"
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z9a9217f7": {
+   "n": "Liverpool",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6ccab54a": {
+   "n": "Kaduna",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z2f51e319": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z6bb7e220": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8934860e": {
+   "n": "Cantiano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z26d7b070": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z45b0089a": {
+   "n": "Atollo di Aldabra",
+   "p": [
+    "Seychelles"
+   ],
+   "pt": []
+  },
+  "zb59232f8": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4b8ca2ff": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbcc11e31": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z467f0aa7": {
+   "n": "Matola",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "z83309e36": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "za032d066": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z1b1b36c0": {
+   "n": "Antartide",
+   "p": [],
+   "pt": []
+  },
+  "z9ce1a5fc": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z0dcfb5ea": {
+   "n": "Armenia",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "zbf1bd65a": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z4179fa5a": {
+   "n": "Regione di Jizzakh",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "za1b9282e": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd9a6ca42": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd0197089": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zb5b3176b": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z96ec5206": {
+   "n": "Siempang",
+   "p": [
+    "Cambodia"
+   ],
+   "pt": []
+  },
+  "zf2f483eb": {
+   "n": "AFC Champions League Elite",
+   "p": [
+    "Uzbekistan",
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "za7395685": {
+   "n": "Spazio",
+   "p": [],
+   "pt": []
+  },
+  "z938a3cc6": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z8ad61f25": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb2589505": {
+   "n": "Budapest",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "z1a6cc4f2": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z619d3095": {
+   "n": "Kazakistan",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z0112eed9": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2a660511": {
+   "n": "Turchia",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z70f69a8a": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zc0d266a4": {
+   "n": "San Antonio",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zaa6ffa41": {
+   "n": "Aree urbane",
+   "p": [],
+   "pt": []
+  },
+  "zef90fbfc": {
+   "n": "Quito",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "zd5f73ee8": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "za218ecb4": {
+   "n": "East Rutherford",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze7195378": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2bc48564": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z4fb04a0a": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z721e9df3": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z82e99eca": {
+   "n": "Kazakistan",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "zedbb3d42": {
+   "n": "Genova",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfdf9d97e": {
+   "n": "Birmingham",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6f7be27f": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze05a4616": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z501e00e2": {
+   "n": "Gaborone",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "z4a46d729": {
+   "n": "Confine tra Lettonia e Bielorussia",
+   "p": [
+    "Latvia",
+    "Belarus"
+   ],
+   "pt": []
+  },
+  "zcb9951f0": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zb90e9683": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf98d316d": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z00f64100": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zb5b7c632": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z9ca46257": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z423bf8e5": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb59e9eb4": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z85bf94e1": {
+   "n": "Sosso-Nakombo, Mambéré-Kadéï",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z0555a9e9": {
+   "n": "Junín",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z202da0d0": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z94803f24": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0d0a678b": {
+   "n": "Spazio",
+   "p": [],
+   "pt": []
+  },
+  "z98ae8e71": {
+   "n": "Kawaguchiko",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zd65754ff": {
+   "n": "Rio de Janeiro",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zc298e810": {
+   "n": "Brescia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z38ce9b24": {
+   "n": "Birmingham",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zcc581933": {
+   "n": "Spazio",
+   "p": [],
+   "pt": []
+  },
+  "z16a76451": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zd5bef3c5": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
    ],
    "pt": []
   }
@@ -8449,7 +11541,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z349ff564": 1,
   "zec62bbe4": 1,
   "z46e5cf8f": 1,
-  "zd93ea37a": 1,
   "z07ebab73": 1,
   "z51720f86": 2,
   "z2de0144a": 1,
@@ -8457,7 +11548,6 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z0a6fc961": 1,
   "z15ef32de": 1,
   "z7c34aace": 1,
-  "zbbb7f28b": 1,
   "z25f07dd4": 1,
   "z7688a6cf": 1,
   "zd4372cea": 1,
@@ -8500,7 +11590,7 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z81574165": 1,
   "za6aca81e": 2,
   "zdcdb1ea6": 2,
-  "za07d561e": 1,
+  "za07d561e": 2,
   "zedadd6a2": 1,
   "z1c863ae2": 1,
   "z30a69d45": 1,
@@ -8613,8 +11703,97 @@ window.EDIZIONI["2026-10-12-sera"] = {
   "z9ddec5a3": 1,
   "z28cf64e0": 1,
   "z8a7c21d6": 2,
-  "z9d94cf65": 1,
-  "zb19d5165": 1
+  "zb19d5165": 1,
+  "z5662cf00": 1,
+  "zb45a44cf": 1,
+  "z3f6bd954": 1,
+  "ze39b1d2c": 1,
+  "zb2c17e71": 1,
+  "z4b0863e8": 1,
+  "zd3d16fa5": 1,
+  "zb4015361": 1,
+  "z13ae28b8": 1,
+  "z6afbabb0": 2,
+  "zcc4f4a70": 1,
+  "z57fe3f57": 1,
+  "z3c60ee65": 1,
+  "zdc740185": 1,
+  "z0b5860b1": 1,
+  "zda512efb": 1,
+  "z7c954e10": 1,
+  "z74ea11cd": 1,
+  "z2f8c938d": 1,
+  "z1d445299": 1,
+  "z161ebafe": 1,
+  "z9a9217f7": 1,
+  "z6ccab54a": 1,
+  "z2f51e319": 1,
+  "z6bb7e220": 1,
+  "z8934860e": 1,
+  "z26d7b070": 1,
+  "z45b0089a": 1,
+  "zb59232f8": 1,
+  "z4b8ca2ff": 1,
+  "zbcc11e31": 1,
+  "z467f0aa7": 1,
+  "z83309e36": 1,
+  "za032d066": 1,
+  "z1b1b36c0": 1,
+  "z9ce1a5fc": 1,
+  "z0dcfb5ea": 1,
+  "zbf1bd65a": 1,
+  "z4179fa5a": 1,
+  "za1b9282e": 1,
+  "zd9a6ca42": 1,
+  "zd0197089": 2,
+  "zb5b3176b": 1,
+  "z96ec5206": 1,
+  "zf2f483eb": 1,
+  "za7395685": 1,
+  "z938a3cc6": 2,
+  "z8ad61f25": 1,
+  "zb2589505": 1,
+  "z1a6cc4f2": 1,
+  "z619d3095": 1,
+  "z0112eed9": 1,
+  "z2a660511": 1,
+  "z70f69a8a": 1,
+  "zc0d266a4": 1,
+  "zaa6ffa41": 1,
+  "zef90fbfc": 1,
+  "zd5f73ee8": 2,
+  "za218ecb4": 1,
+  "ze7195378": 1,
+  "z2bc48564": 1,
+  "z4fb04a0a": 1,
+  "z721e9df3": 1,
+  "z82e99eca": 1,
+  "zedbb3d42": 1,
+  "zfdf9d97e": 1,
+  "z6f7be27f": 1,
+  "ze05a4616": 1,
+  "z501e00e2": 1,
+  "z4a46d729": 1,
+  "zcb9951f0": 1,
+  "zb90e9683": 1,
+  "zf98d316d": 1,
+  "z00f64100": 1,
+  "zb5b7c632": 1,
+  "z9ca46257": 1,
+  "z423bf8e5": 1,
+  "zb59e9eb4": 1,
+  "z85bf94e1": 1,
+  "z0555a9e9": 1,
+  "z202da0d0": 1,
+  "z94803f24": 1,
+  "z0d0a678b": 1,
+  "z98ae8e71": 1,
+  "zd65754ff": 1,
+  "zc298e810": 1,
+  "z38ce9b24": 1,
+  "zcc581933": 1,
+  "z16a76451": 1,
+  "zd5bef3c5": 1
  },
  "video": {},
  "pillole": []
