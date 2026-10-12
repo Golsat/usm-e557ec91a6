@@ -542,7 +542,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "z5fe34c4c",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "Nuovi poli produttivi: razzi in Virginia e stabilimento farmaceutico a Houston",
    "orig": "Punch List: Bechtel teams with Ted Danson, Hensel Phelps breaks ground on new HQ",
    "lead": "Il settore delle grandi costruzioni registra importanti sviluppi industriali con l'avvio di cantieri strategici negli Stati Uniti. L'impresa HITT ha dato il via ai lavori per un impianto da 500 milioni di dollari a Hurt, in Virginia, dedicato alla produzione di motori a propellente solido per missili tattici a supporto di programmi militari. Contemporaneamente, il gruppo farmaceutico Eli Lilly ha posato la prima pietra per un complesso manifatturiero da 6,5 miliardi di dollari a Houston, destinato a produrre farmaci per il diabete, mentre sono stati avviati progetti logistici anche in Kenya per il Sud Sudan.",
@@ -620,7 +620,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "z90580463",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "Studio ispirato ai modelli linguistici svela come i neuroni codificano le parole",
    "orig": "LLM-inspired study sheds light on how brain cells encode the meaning of words",
    "lead": "Uno studio neuroscientifico ispirato ai modelli linguistici di intelligenza artificiale ha chiarito i meccanismi attraverso cui le cellule cerebrali riescono a codificare il significato delle parole pronunciate. La ricerca spiega che la comprensione del linguaggio umano parlato non si limita alla semplice decodifica dei suoni acustici, ma comporta un'elaborazione complessa da parte delle reti neuronali, le quali devono estrarre il senso dei vocaboli e adattarne l'interpretazione ai diversi contesti. L'approccio computazionale apre nuove prospettive per comprendere le funzioni cerebrali legate all'elaborazione del discorso.",
@@ -651,7 +651,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "zee07e02d",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "Dolore cronico: microdispositivo e degradazione strutturale alleviano i sintomi",
    "orig": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
    "lead": "Due scoperte scientifiche aprono prospettive innovative nella cura del dolore cronico. Uno studio pubblicato su Nature dimostra che la degradazione mirata dell'impalcatura che avvolge le cellule nervose consente di alleviare il dolore cronico nei topi. Parallelamente, un'équipe medica ha sviluppato un minuscolo dispositivo iniettabile delle dimensioni di un seme che, funzionando senza fili né batterie, è capace di modulare l'attività dei nervi dall'esterno del corpo senza interventi invasivi. L'apparecchio sperimentale ha mostrato esiti incoraggianti nei primi test per il trattamento dei disturbi motori e delle sindromi dolorose.",
@@ -775,7 +775,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "z582f5fb1",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "Modificare la postura della camminata allevia il dolore da artrosi al ginocchio",
    "orig": "New Way to Relieve Arthritic Knees Without Drugs or Surgery by Changing Your Gait",
    "lead": "Un semplice aggiustamento del modo in cui si cammina può ridurre il dolore provocato dall'artrosi al ginocchio con la stessa efficacia dei farmaci da prescrizione, rallentando al contempo il deterioramento della cartilagine articolare. È quanto emerso da uno studio clinico della durata di un anno, in cui i ricercatori hanno verificato che correggere l'angolazione del piede durante il passo riduce le sofferenze articolari senza necessità di interventi chirurgici o pillole. Le risonanze magnetiche hanno documentato una protezione efficace dell'articolazione, offrendo una valida soluzione alternativa per i pazienti adulti.",
@@ -1127,7 +1127,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "ze77764a5",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "Retatrutide e diabete di tipo due, i risultati dello studio clinico TRIUMPH-2",
    "orig": "[Comment] Retatrutide in adults with obesity and type 2 diabetes: what have we learned from TRIUMPH-2?",
    "lead": "Uno studio clinico di fase tre denominato TRIUMPH-2, pubblicato sulla rivista scientifica The Lancet da Virginia Bellido e dal suo gruppo di lavoro, ha analizzato l'impatto del farmaco retatrutide in pazienti adulti affetti da obesità e diabete mellito di tipo due. La ricerca, condotta con metodologia in doppio cieco, randomizzata e controllata contro placebo, valuta l'efficacia di questa molecola innovativa che agisce come triplo agonista sui recettori di GLP-1, GIP e glucagone. I dati puntano a chiarire se tale meccanismo possa colmare la minore perdita di peso solitamente riscontrata nei pazienti diabetici rispetto a quelli non diabetici.",
@@ -1699,7 +1699,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "z98a12484",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "L'EMA esprime parere favorevole all'autorizzazione del vaccino veterinario Bovilis Lumpyvax",
    "orig": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 6-8 October 2026",
    "lead": "Il Comitato per i medicinali veterinari dell'Agenzia europea per i medicinali ha adottato un parere scientifico positivo raccomandando la concessione dell'autorizzazione all'immissione in commercio per il prodotto Bovilis Lumpyvax. La decisione a favore del farmaco, destinato alla prevenzione della dermatite nodulare contagiosa nei bovini, è stata deliberata in circostanze eccezionali al termine della sessione plenaria svolta tra il sei e l'otto ottobre. Il pronunciamento dell'ente regolatorio rappresenta il passaggio propedeutico per consentire l'utilizzo del vaccino negli allevamenti degli Stati membri, rafforzando la protezione del patrimonio zootecnico contro focolai epidemici emergenti. Lo riferisce Agenzia europea per i medicinali (Ema).",
@@ -1861,7 +1861,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "z896d9068",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "Stati Uniti, Steven Quay non è più in corsa per la guida dell'istituto per le malattie infettive",
    "orig": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
    "lead": "Steven Quay, dirigente biofarmaceutico noto anche per aver sostenuto la teoria della fuga da laboratorio all'origine della pandemia, non figura più tra i candidati alla direzione del National Institute of Allergy and Infectious Diseases. L'esecutivo d'azienda, la cui carriera si è sviluppata principalmente nel settore industriale senza un profilo accademico o professionale consolidato nell'ambito specifico delle patologie infettive, è stato escluso dalle valutazioni per assumere la guida del prestigioso istituto federale statunitense. La carica riveste un ruolo di primaria importanza nella gestione delle strategie sanitarie e della ricerca scientifica nazionale. Lo riferisce STAT.",
@@ -1907,7 +1907,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "zb81a15aa",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "La Federazione calcistica delle Figi dona oltre cinquantunomila dollari per i bambini malati di tumore",
    "orig": "BOG and FMF IDC raise $51,574 for WOWS Kids",
    "lead": "La Federazione calcistica delle Figi ha raccolto una somma complessiva di 51.574 dollari a favore dei bambini che lottano contro il cancro, grazie agli incassi registrati durante i tornei 2025 Extra Battle of the Giants e FMF Inter-District Championship. I fondi raccolti sono stati consegnati all'organizzazione WOWS Kids Fiji come testimonianza dell'impegno continuativo dell'ente sportivo a supporto dei minori con diagnosi oncologiche e delle loro famiglie. L'accordo di collaborazione ha previsto la donazione di un dollaro per ciascun biglietto venduto nel corso delle competizioni agonistiche disputate. Lo riferisce FBC News.",
@@ -2208,7 +2208,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "z1be3d46d",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "I regali delle case farmaceutiche ai medici aumentano le prescrizioni inopportune",
    "orig": "STAT+: Pharma’s free lunches for doctors boost inappropriate prescribing, analysis finds",
    "lead": "Una nuova analisi scientifica ha rilevato che i pranzi gratuiti, i regali e i pagamenti elargiti dalle case farmaceutiche ai medici aumentano in misura sensibile la prescrizione inappropriata di medicinali. Secondo la revisione, i benefici economici offerti dall'industria del farmaco influenzano le scelte terapeutiche dei camici bianchi, con il probabile effetto collaterale di far lievitare la spesa sanitaria complessiva sia per i pazienti sia per i sistemi assistenziali. Lo studio mette in luce i rischi derivanti dai conflitti di interesse tra professionisti della salute e aziende commerciali nel settore delle cure. Lo riferisce STAT.",
@@ -2369,7 +2369,7 @@ window.EDIZIONI["2026-10-12"] = {
   },
   {
    "id": "z266d21a5",
-   "sez": "medicina",
+   "sez": "salute",
    "titolo": "Le microplastiche di polietilene possono favorire la steatosi epatica",
    "orig": "A plastic once thought harmless may be fueling fatty liver disease",
    "lead": "Una tipologia di plastica ampiamente diffusa e a lungo ritenuta innocua per la salute umana potrebbe favorire lo sviluppo della steatosi epatica, comunemente nota come fegato grasso. I ricercatori della Texas A&M University hanno scoperto che le microplastiche di polietilene sono in grado di danneggiare il tessuto del fegato, provocando conseguenze potenzialmente più gravi se assunte contemporaneamente a una dieta non equilibrata. La ricerca smentisce la presunta neutralità biologica di questo polimero comunemente impiegato nel commercio globale, rivelando una minaccia nascosta per il benessere epatico e aprendo nuovi fronti d'indagine biomedica. Lo riferisce ScienceDaily – Medicina.",
@@ -2514,8 +2514,282 @@ window.EDIZIONI["2026-10-12"] = {
   "zd86f50df": "Il South China Morning Post analizza il contrasto semantico tra la direttiva di Donald Trump e l'approccio antropocentrico adottato dalla Cina.",
   "z96c20527": "Gabonreview pone l'accento sull'interpellanza parlamentare alla ministra e sul riconoscimento delle carenze negli ospedali gabonesi."
  },
- "contesti": {},
- "cronologie": {},
+ "contesti": {
+  "zd22b2c73": "Meno di due mesi fa il Nepal è stato colpito da alluvioni catastrofiche che hanno causato migliaia di vittime e dispersi, devastando soprattutto le regioni montane. Il Paese era ancora impegnato in una difficile ricostruzione quando una nuova ondata di piene improvvise ha investito la valle del fiume Budhi Gandaki. Le acque hanno travolto ponti e abitazioni e costretto le comunità locali a rifugiarsi sulle alture.",
+  "z44d42e86": "Nel corso di ottobre la Corea del Nord ha condotto ripetute esercitazioni missilistiche, segnale di una crescente pressione militare sulla penisola. Di recente la Corea del Sud ha testato con successo un missile ipersonico. Secondo i comandi militari di Seul, Pyongyang ha risposto con il lancio di più missili balistici verso il mare: è la quarta esercitazione del mese, letta come una dimostrazione di forza contro i progressi militari del Sud.",
+  "zedc5551f": "Il servizio europeo Copernicus pubblica ogni mese i dati sulle temperature globali, e i suoi rilievi segnalano da tempo anomalie termiche persistenti. Già nel 2026 un mese aveva superato la soglia di 1,5 gradi sopra i livelli preindustriali, riferimento chiave dell'Accordo di Parigi. Settembre 2026 è il secondo mese dell'anno a oltrepassarla e risulta il secondo settembre più caldo mai registrato da quando esistono misurazioni.",
+  "z462ad3c6": "La guerra tra Russia e Ucraina, iniziata con l'invasione russa del febbraio 2022, prosegue con attacchi reciproci di droni. Mosca colpisce di continuo le città ucraine, tra cui Dnipro. Kiev ha esteso i raid alle infrastrutture strategiche in territorio russo, fino a colpire i data center di Yandex: quello attaccato oggi è il terzo. Intanto veterani ed ex prigionieri ucraini smentiscono la versione russa su un battaglione di presunti volontari ucraini.",
+  "zd379f4a8": "Isaias si è formato nell'Atlantico e ha attraversato i Caraibi prima di dirigersi verso gli Stati Uniti. Arrivato sulla costa meridionale ormai indebolito, ha causato almeno quattro morti e lasciato senza elettricità quasi 396.000 utenze tra il nord-ovest della Florida e l'Alabama meridionale. Ora si sposta verso nord, verso gli Appalachi centrali e il medio Atlantico, dove il servizio meteorologico nazionale ha diramato allerte per alluvioni improvvise e venti violenti.",
+  "z32a281d7": "Ogni anno migliaia di migranti, in gran parte etiopi, percorrono la cosiddetta rotta orientale: attraversano Gibuti, salpano verso lo Yemen e cercano di raggiungere l'Arabia Saudita. Le traversate su imbarcazioni sovraffollate sono già costate molte vite. L'ultima tragedia è avvenuta vicino a Obock, dove si è ribaltato un natante con circa 305 persone a bordo. L'OIM conta almeno 139 morti, tra cui 15 bambini, e circa 84 dispersi.",
+  "z06c80a1c": "Il Manchester City è stato giudicato colpevole da una commissione indipendente della Premier League, al termine di un lungo procedimento. Il club ha presentato ricorso contro il verdetto. La prima partita dopo la sentenza si è giocata ad Anfield, in un clima ostile. La squadra di Enzo Maresca ha battuto il Liverpool 3-0, anche grazie a una rete di Cherki e all'espulsione di Gravenberch, e ora guida la classifica con tre punti di vantaggio.",
+  "zb47747ef": "Da otto mesi il conflitto in Medio Oriente tra Stati Uniti, Israele e Iran sconvolge le forniture energetiche mondiali. Allo shock si sommano l'aumento dei tassi d'interesse e la crescita del debito globale. In questo quadro, a Bangkok si aprono le riunioni annuali di FMI e Banca Mondiale. Ministri e banchieri centrali dei Paesi emergenti, tra cui Ghana e Saint Vincent e Grenadine, cercano sostegno e investimenti.",
+  "z2828e3b3": "I lampi radio veloci sono impulsi di onde radio della durata di millisecondi, scoperti nel 2007 e ancora in gran parte misteriosi. Nel 2020 un segnale simile fu associato a una magnetar nella Via Lattea, indicando una possibile origine. Nel 2023 il radiotelescopio australiano ASKAP aveva fissato il precedente primato con un lampo partito circa 8 miliardi di anni fa. Il nuovo segnale supera quel record con l'aiuto del telescopio James Webb.",
+  "z9ff50d43": "Troye Sivan aveva raggiunto il picco della sua popolarità con l'album «Something to Give Each Other» del 2023, trainato dal singolo «Rush», che gli è valso le prime candidature ai Grammy. Nell'autunno 2024 ha condiviso con Charli xcx il tour congiunto «Sweat», tra i più seguiti della stagione pop. Il nuovo «She's the Best», il quarto album in studio, arriva dopo questa fase e sposta il suo pop verso sonorità shoegaze e baleariche.",
+  "zd949e483": "Il referendum del 23 giugno 2016 sancì l'uscita del Regno Unito dall'Unione Europea. Nel luglio 2020 il «Russia Report» della commissione parlamentare per l'intelligence denunciò che i governi britannici non avevano valutato a fondo le possibili interferenze di Mosca nel voto. Dopo il suo arrivo a Downing Street, Andy Burnham ha chiesto chiarimenti in merito e oggi riferisce che una valutazione governativa conferma quelle interferenze.",
+  "z5d495c99": "Da oltre due anni le intelligence europee segnalano una campagna russa di sabotaggi e intimidazioni. Nel 2024 fu sventato un presunto piano per uccidere Armin Papperger, amministratore delegato del gruppo tedesco Rheinmetall, che produce armi per l'Ucraina. In Polonia si sono susseguiti arresti per sabotaggio, fino all'esplosione sulla linea ferroviaria Varsavia-Lublino nel novembre 2025, attribuita a Mosca. Le nuove rivelazioni parlano di attentati contro vertici militari e industriali europei.",
+  "z276be797": "Navi Pillay, già giudice della Corte penale internazionale e alto commissario Onu per i diritti umani dal 2008 al 2014, dal 2021 ha presieduto la commissione d'inchiesta delle Nazioni Unite sui Territori palestinesi e Israele. Nel settembre 2025 la commissione ha concluso che Israele ha commesso genocidio a Gaza. Nel febbraio 2025 l'amministrazione Trump aveva imposto sanzioni alla Corte penale internazionale. Pillay è la quinta personalità sudafricana a ricevere il Nobel per la pace.",
+  "z4259cc44": "Dopo l'invasione dell'Ucraina, nel marzo 2022 gli Stati Uniti hanno vietato le importazioni di petrolio e prodotti energetici russi, divieto reso legge dal Congresso in aprile. Nel marzo 2025 Trump e Putin avevano già concordato per telefono una sospensione temporanea degli attacchi alle infrastrutture energetiche, mai rispettata pienamente. Ora la nuova intesa sul diesel russo, annunciata senza consultare Kiev, divide Washington e allarma Europa e Ucraina.",
+  "z36cb83bb": "Robert F. Kennedy Jr guida dal febbraio 2025 il Dipartimento della Salute statunitense e ha avviato una revisione delle politiche vaccinali. Nel dicembre 2025 il comitato consultivo dei Cdc, da lui rinnovato, ha votato per abbandonare la raccomandazione universale della dose di vaccino contro l'epatite B alla nascita. In questo quadro si inserisce lo studio in Guinea-Bissau condotto da ricercatori danesi, che priverà della dose migliaia di neonati.",
+  "z96344fdf": "«Il diario dello speziale», saga di romanzi giapponesi ambientata in una corte imperiale ispirata alla Cina antica, ha avuto grande successo internazionale grazie all'adattamento animato. Dopo la prima stagione del 2023, la seconda è andata in onda nel 2025, e in seguito è stato annunciato un lungometraggio per il cinema. Ora il film presenta il cast del clan Bi, mentre gli studi presentano diverse serie attese per il 2027."
+ },
+ "cronologie": {
+  "zd22b2c73": [
+   [
+    "Meno di due mesi fa",
+    "Alluvioni catastrofiche causano migliaia di vittime e dispersi nelle regioni montane"
+   ],
+   [
+    "Settimane successive",
+    "Il Paese avvia una faticosa opera di ricostruzione"
+   ],
+   [
+    "Oggi",
+    "Nuove piene lungo il Budhi Gandaki distruggono ponti e case"
+   ]
+  ],
+  "z44d42e86": [
+   [
+    "Inizio ottobre",
+    "Pyongyang conduce le prime esercitazioni missilistiche del mese"
+   ],
+   [
+    "Nei giorni scorsi",
+    "La Corea del Sud testa con successo un missile ipersonico"
+   ],
+   [
+    "Oggi",
+    "Lancio di più missili balistici verso il mare: quarta esercitazione di ottobre"
+   ]
+  ],
+  "zedc5551f": [
+   [
+    "2015",
+    "L'Accordo di Parigi fissa 1,5 °C come soglia di riferimento"
+   ],
+   [
+    "Primi mesi del 2026",
+    "Un mese supera per la prima volta nell'anno la soglia di 1,5 °C"
+   ],
+   [
+    "Oggi",
+    "Copernicus: settembre 2026 è il secondo più caldo mai registrato"
+   ]
+  ],
+  "z462ad3c6": [
+   [
+    "24 febbraio 2022",
+    "La Russia invade l'Ucraina"
+   ],
+   [
+    "Mesi recenti",
+    "Kiev intensifica i raid con droni sulle infrastrutture russe, compresi due data center di Yandex"
+   ],
+   [
+    "Oggi",
+    "Quattro feriti a Dnipro; colpito il terzo data center di Yandex"
+   ]
+  ],
+  "zd379f4a8": [
+   [
+    "Giorni scorsi",
+    "Isaias si forma nell'Atlantico e attraversa i Caraibi"
+   ],
+   [
+    "Arrivo negli USA",
+    "La tempesta colpisce Florida nord-occidentale e Alabama: quattro morti e circa 396.000 utenze al buio"
+   ],
+   [
+    "Oggi",
+    "Allerte per alluvioni e venti negli Appalachi centrali e nel medio Atlantico"
+   ]
+  ],
+  "z32a281d7": [
+   [
+    "Anni recenti",
+    "La rotta orientale da Gibuti verso lo Yemen registra numerosi naufragi"
+   ],
+   [
+    "Partenza",
+    "Un'imbarcazione con circa 305 migranti, in maggioranza etiopi, lascia Gibuti diretta in Yemen"
+   ],
+   [
+    "Oggi",
+    "Ribaltamento vicino a Obock: almeno 139 morti, 84 dispersi e oltre 80 superstiti"
+   ]
+  ],
+  "z06c80a1c": [
+   [
+    "Anni scorsi",
+    "Procedimento della Premier League contro il Manchester City"
+   ],
+   [
+    "Nei giorni scorsi",
+    "Una commissione indipendente dichiara colpevole il club, che presenta ricorso"
+   ],
+   [
+    "Oggi",
+    "Il City vince 3-0 ad Anfield e allunga a +3 in vetta"
+   ]
+  ],
+  "zb47747ef": [
+   [
+    "Otto mesi fa",
+    "Inizia il conflitto tra Stati Uniti, Israele e Iran"
+   ],
+   [
+    "Mesi successivi",
+    "Shock energetico, rialzo dei tassi e aumento dell'indebitamento globale"
+   ],
+   [
+    "Oggi",
+    "A Bangkok si aprono i vertici annuali di FMI e Banca Mondiale"
+   ]
+  ],
+  "z2828e3b3": [
+   [
+    "2007",
+    "Scoperta del primo lampo radio veloce in dati d'archivio"
+   ],
+   [
+    "Aprile 2020",
+    "Lampo radio associato a una magnetar nella Via Lattea"
+   ],
+   [
+    "Ottobre 2023",
+    "Record ASKAP: lampo partito circa 8 miliardi di anni fa"
+   ],
+   [
+    "Ottobre 2026",
+    "Localizzato un lampo vecchio di oltre 10 miliardi di anni"
+   ]
+  ],
+  "z9ff50d43": [
+   [
+    "Ottobre 2023",
+    "Esce l'album «Something to Give Each Other»"
+   ],
+   [
+    "Novembre 2023",
+    "Prime nomination ai Grammy con «Rush»"
+   ],
+   [
+    "Autunno 2024",
+    "Tour «Sweat» insieme a Charli xcx"
+   ],
+   [
+    "Ottobre 2026",
+    "Pubblicato il quarto album «She's the Best»"
+   ]
+  ],
+  "zd949e483": [
+   [
+    "23 giugno 2016",
+    "Referendum: vince l'uscita dall'Ue"
+   ],
+   [
+    "21 luglio 2020",
+    "Pubblicato il «Russia Report» dell'intelligence parlamentare"
+   ],
+   [
+    "2026",
+    "Andy Burnham diventa primo ministro"
+   ],
+   [
+    "Ottobre 2026",
+    "Burnham denuncia apertamente le interferenze russe"
+   ]
+  ],
+  "z5d495c99": [
+   [
+    "Maggio 2024",
+    "Tusk annuncia arresti per sabotaggi legati alla Russia"
+   ],
+   [
+    "Luglio 2024",
+    "Emerge il piano sventato contro il capo di Rheinmetall"
+   ],
+   [
+    "Novembre 2025",
+    "Sabotaggio della ferrovia Varsavia-Lublino, Varsavia accusa Mosca"
+   ],
+   [
+    "Ottobre 2026",
+    "Inchiesta sui piani di attentati e arresto in Polonia"
+   ]
+  ],
+  "z276be797": [
+   [
+    "2008-2014",
+    "Pillay è alto commissario Onu per i diritti umani"
+   ],
+   [
+    "6 febbraio 2025",
+    "Trump firma l'ordine esecutivo che sanziona la CPI"
+   ],
+   [
+    "Settembre 2025",
+    "La commissione Onu guidata da Pillay accusa Israele di genocidio"
+   ],
+   [
+    "Ottobre 2026",
+    "Pillay riceve il Nobel per la pace"
+   ]
+  ],
+  "z4259cc44": [
+   [
+    "8 marzo 2022",
+    "Biden vieta l'importazione di energia russa"
+   ],
+   [
+    "Aprile 2022",
+    "Il Congresso trasforma il divieto in legge"
+   ],
+   [
+    "18 marzo 2025",
+    "Telefonata Trump-Putin sulla tregua energetica"
+   ],
+   [
+    "Ottobre 2026",
+    "Annunciata l'intesa sulle forniture di diesel russo"
+   ]
+  ],
+  "z36cb83bb": [
+   [
+    "13 febbraio 2025",
+    "Kennedy Jr giura come segretario alla Salute"
+   ],
+   [
+    "Giugno 2025",
+    "Kennedy Jr sostituisce i membri del comitato vaccini dei Cdc"
+   ],
+   [
+    "Dicembre 2025",
+    "Il comitato abbandona la raccomandazione universale alla nascita"
+   ],
+   [
+    "Ottobre 2026",
+    "Approvata la sperimentazione in Guinea-Bissau"
+   ]
+  ],
+  "z96344fdf": [
+   [
+    "Ottobre 2023",
+    "Debutta la prima stagione dell'anime"
+   ],
+   [
+    "Gennaio 2025",
+    "Al via la seconda stagione"
+   ],
+   [
+    "2025",
+    "Annunciato il film per il cinema"
+   ],
+   [
+    "Ottobre 2026",
+    "Nuovo trailer e cast del clan Bi"
+   ]
+  ]
+ },
  "luoghi": {
   "z00fdc20c": {
    "n": "Città del Vaticano",
