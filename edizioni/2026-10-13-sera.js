@@ -848,30 +848,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zbd77969b",
-   "sez": "mondo",
-   "titolo": "Il capo dell'MI5 avverte: l'Iran mira a basi militari nel Regno Unito",
-   "orig": "Jefe del MI5 dice que Irán intenta atacar recintos militares en Reino Unido",
-   "lead": "Il capo del servizio di sicurezza britannico MI5 ha avvertito che l'Iran sta cercando di colpire obiettivi militari nel Regno Unito, segnalando un crescente interesse di Teheran verso bersagli di questo tipo. Un recente episodio avvenuto in una base statunitense non sarebbe isolato, ma rifletterebbe una tendenza globale verso obiettivi più complessi. Lo riferisce Clarín.",
-   "more": [
-    "L'MI5 è il servizio di sicurezza interna del Regno Unito, incaricato di contrastare minacce come spionaggio, terrorismo e sabotaggio sul territorio britannico."
-   ],
-   "fonti": [
-    {
-     "n": "Clarín",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.clarin.com/estados-unidos/jefe-del-mi5-dice-que-iran-intenta-atacar-recintos-militares-en-reino-unido_0_UUgtZBtSfI.html",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-10-13T12:20+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "15:00",
-   "uscita": "17"
-  },
-  {
    "id": "zfce31ed5",
    "sez": "mondo",
    "titolo": "L'Argentina chiede al Tribunale del Mare di Amburgo di sospendere il petrolio nelle Falkland",
@@ -2433,30 +2409,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z527af945",
-   "sez": "mondo",
-   "titolo": "Il capo dell'MI5: l'Iran prende di mira obiettivi militari, la Russia resta la minaccia numero uno",
-   "orig": "Šef MI5: Iran cilja vojne objekte, Rusija ostaje agresor broj jedan",
-   "lead": "Il direttore del servizio di sicurezza britannico MI5, Ken McCallum, ha avvertito che le minacce provenienti da attori statali si sono quadruplicate nell'arco di dieci anni, mentre Mosca intensifica gli attacchi ibridi contro i Paesi europei. Secondo McCallum, l'Iran prende di mira in particolare obiettivi militari, mentre la Russia resta l'aggressore principale. Lo riferisce Vijesti.",
-   "more": [
-    "L'MI5 è il servizio di sicurezza interna del Regno Unito, responsabile del contrasto allo spionaggio, al terrorismo e alle minacce ibride provenienti da attori statali stranieri contro la sicurezza nazionale britannica."
-   ],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/svijet/evropa/831201/sef-mi5-iran-cilja-vojne-objekte-rusija-ostaje-agresor-broj-jedan",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-13T14:28+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:56",
-   "uscita": "13"
-  },
-  {
    "id": "z66ccbf9c",
    "sez": "mondo",
    "titolo": "Il partito al potere in Azerbaigian condanna la Turchia per le critiche al divieto dell'hijab",
@@ -2960,6 +2912,24 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-13T20:05+08:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/jefe-del-mi5-dice-que-iran-intenta-atacar-recintos-militares-en-reino-unido_0_UUgtZBtSfI.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T12:20+00:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/evropa/831201/sef-mi5-iran-cilja-vojne-objekte-rusija-ostaje-agresor-broj-jedan",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-13T14:28+02:00"
     }
    ],
    "data": "13 ott",
@@ -15966,7 +15936,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z47e0854f": "HotNews riporta la proposta di Bolojan come possibile via d'uscita dallo stallo politico.",
   "zedd4a6f0": "HotNews segnala che la misura più lieve non è ancora operativa in attesa di conferma definitiva.",
   "z038600a1": "Vijesti riporta l'appello del ministro bosniaco come segnale di tensione tra Sarajevo e la leadership della Republika Srpska riguardo ai rapporti con Washington.",
-  "z527af945": "Vijesti riprende l'allarme del capo dell'MI5 sull'escalation delle minacce statali contro il Regno Unito e l'Europa.",
   "z66ccbf9c": "OC Media segnala un raro episodio di tensione pubblica tra due Paesi solitamente presentati come alleati inseparabili.",
   "ze83a6a32": "Turkish Minute riprende l'allarme del CPJ sull'inasprimento della repressione contro la stampa turca legata allo scandalo dei fondi.",
   "z94f4ec1b": "Asia-Plus presenta la misura come un passo verso l'integrazione logistica regionale.",
@@ -16049,7 +16018,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zb153bfdf": "TVN24 riporta le obiezioni religiose sollevate contro la trasmissione pubblica dell'esecuzione.",
   "zf90e57e1": "Folha de S.Paulo mette in evidenza la cautela degli analisti nonostante l'ottimismo di mercato recente.",
   "z300048e2": "Clarín riporta la versione dell'arbitro dopo le polemiche seguite all'episodio durante l'incontro.",
-  "zbd77969b": "Clarín riporta l'allarme lanciato dai vertici dell'intelligence britannica sulle mire iraniane.",
   "zfce31ed5": "Clarín evidenzia la risposta legale del governo argentino alla mossa britannica.",
   "z1c799c82": "La Nación segue l'indagine giudiziaria sul presunto arricchimento illecito del dirigente calcistico.",
   "zb0e27bb0": "La Nación documenta lo svolgimento del trasferimento dei detenuti nonostante il ricorso legale presentato contro l'operazione.",
@@ -16234,7 +16202,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z06120476": "Nei minuti precedenti gli studenti si erano radunati davanti al ministero con cartelli di protesta contro il governo, mentre altri manifestanti si erano riuniti anche davanti alla sede del primo ministro, in attesa dell'evolversi della mobilitazione.",
   "z569b23e4": "Nei giorni precedenti era già stato arrestato un altro uomo con accuse analoghe di minacce contro esponenti del governo polacco, segno di una serie di episodi ravvicinati che hanno spinto le autorità a intensificare i controlli.",
   "ze754554a": "Il 16 settembre 2022 Mahsa Jina Amini morì dopo l'arresto della polizia morale iraniana, scatenando il movimento 'Donna, Vita, Libertà', represso con migliaia di arresti, centinaia di morti ed esecuzioni di manifestanti. Negli anni successivi organizzazioni per i diritti umani hanno denunciato ripetutamente l'assenza di indagini indipendenti sulle violenze commesse da forze di sicurezza e giudici.",
-  "z527af945": "Negli ultimi anni i servizi di sicurezza britannici hanno segnalato un'intensificazione delle minacce statali, con la Russia protagonista di una crescente campagna di sabotaggi, attacchi informatici e operazioni ibride contro Paesi europei dopo l'invasione dell'Ucraina. Parallelamente, l'Iran ha ampliato le proprie attività di spionaggio e intimidazione nel Regno Unito, spingendo l'MI5 a rafforzare i controlli e lanciare ripetuti avvertimenti pubblici.",
   "ze83a6a32": "In Turchia la libertà di stampa è peggiorata negli ultimi anni, con numerosi giornalisti arrestati in base a leggi contro la 'disinformazione'. Recentemente uno scandalo legato a un fondo di investimento ha portato all'arresto o agli arresti domiciliari di quattro giornalisti che ne avevano dato copertura, riaccendendo le preoccupazioni internazionali sulla repressione della stampa indipendente nel Paese.",
   "z2f83d049": "Lo Stretto di Hormuz, snodo cruciale per il trasporto mondiale di petrolio, è teatro da anni di tensioni tra Iran e potenze occidentali, aggravate dal conflitto in corso nella regione. Nelle ultime due settimane l'Iran ha intensificato le azioni contro il naviglio commerciale, culminate domenica in sei attacchi in un solo giorno, nella peggiore ondata di incidenti registrata dall'inizio della guerra.",
   "zae43b881": "Negli ultimi anni il Regno Unito ha registrato un aumento costante di operazioni ostili attribuite a Iran e Russia, tra complotti di rapimento, sabotaggi e cyberattacchi. L'MI5 ha più volte denunciato pubblicamente tentativi iraniani di colpire dissidenti e obiettivi britannici sul territorio nazionale, mentre la Russia è stata accusata di sabotaggi legati alla guerra in Ucraina, spingendo i servizi a classificare queste minacce come 'guerra ibrida' in crescita.",
@@ -16249,7 +16216,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z569bfb54": "Nei giorni scorsi un terremoto ha colpito diverse province di Panama, danneggiando scuole e infrastrutture in zone rurali e creando difficoltà di accesso agli aiuti nelle comunità più remote, con le autorità impegnate nella gestione dell'emergenza.",
   "z420dfef1": "Nei giorni scorsi un terremoto ha colpito diverse province di Panama, danneggiando scuole e infrastrutture in zone rurali, con le autorità impegnate nella gestione dell'emergenza e nel ripristino dei servizi essenziali.",
   "zfd111188": "Da giugno la Bolivia è stata scossa da blocchi stradali e proteste sociali che hanno spinto il governo a valutare misure straordinarie. Rodrigo Paz, allora in corsa elettorale poi divenuto presidente, si è affidato a consulenti esterni, tra cui l'argentino Cerimedo, per gestire la crisi politica e di sicurezza, mentre cresceva la pressione interna per dichiarare lo stato d'eccezione.",
-  "zbd77969b": "Negli ultimi anni le autorità britanniche hanno più volte denunciato tentativi iraniani di sorveglianza, rapimento e sabotaggio su suolo britannico contro dissidenti e obiettivi strategici. Parallelamente si sono intensificati gli episodi di spionaggio e sabotaggio attribuiti a Teheran contro installazioni occidentali, incluso un recente caso in una base militare statunitense, alimentando i timori di un salto di qualità verso bersagli militari.",
   "z84cba3a7": "Pyongyang ha intensificato negli ultimi anni lo sviluppo del proprio arsenale missilistico intercontinentale, con test e parate militari volte a dimostrare capacità di colpire il territorio statunitense. Dopo l'Hwasong-18 e precedenti varianti, Kim Jong-un ha più volte annunciato nuovi sistemi d'arma come deterrente contro Stati Uniti e Corea del Sud, in un contesto di crescenti tensioni sulla penisola coreana.",
   "z745a50ce": "La Bolivia, in particolare il dipartimento di Tarija, soffre da anni incendi stagionali legati alla siccità e alle pratiche agricole di disboscamento con il fuoco. Negli ultimi mesi le autorità locali hanno segnalato un aumento dei focolai attivi in diverse regioni del Paese, con risorse limitate per il contenimento, mentre i venti forti hanno favorito la rapida propagazione delle fiamme verso aree protette."
  },
@@ -17700,20 +17666,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "Il tribunale di Bucarest accoglie la richiesta di arresti domiciliari"
    ]
   ],
-  "z527af945": [
-   [
-    "dal 2022",
-    "Intensificazione delle operazioni ibride russe in Europa dopo l'invasione dell'Ucraina"
-   ],
-   [
-    "anni recenti",
-    "Crescita delle attività iraniane di sorveglianza nel Regno Unito"
-   ],
-   [
-    "13 ottobre",
-    "McCallum avverte sul quadruplicarsi delle minacce statali in dieci anni"
-   ]
-  ],
   "ze83a6a32": [
    [
     "anni recenti",
@@ -17946,20 +17898,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "ottobre 2026",
     "Brújula Digital diffonde l'audio della conversazione"
-   ]
-  ],
-  "zbd77969b": [
-   [
-    "anni recenti",
-    "MI5 segnala più complotti iraniani contro dissidenti nel Regno Unito"
-   ],
-   [
-    "settimane scorse",
-    "Episodio di sabotaggio in una base USA attribuito a Teheran"
-   ],
-   [
-    "ottobre 2026",
-    "Il capo dell'MI5 lancia il nuovo allarme sulle basi militari britanniche"
    ]
   ],
   "zfce31ed5": [
@@ -21248,13 +21186,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z527af945": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "z66ccbf9c": {
    "n": "Azerbaigian",
    "p": [
@@ -21972,13 +21903,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Argentina",
    "p": [
     "Argentina"
-   ],
-   "pt": []
-  },
-  "zbd77969b": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -22838,7 +22762,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z47e0854f": 2,
   "zedd4a6f0": 2,
   "z038600a1": 1,
-  "z527af945": 2,
   "z66ccbf9c": 1,
   "ze83a6a32": 2,
   "z94f4ec1b": 1,
@@ -22943,7 +22866,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zb153bfdf": 1,
   "zf90e57e1": 1,
   "z300048e2": 1,
-  "zbd77969b": 2,
   "zfce31ed5": 2,
   "z1c799c82": 1,
   "zb0e27bb0": 1,
