@@ -744,6 +744,9 @@ section.sec.t-sport,nav.sections a.t-sport{--t:#e0564b}
 /* titoli di sezione: sfondo nel colore del tema, testo sempre scuro */
 section.sec>h2{background:color-mix(in srgb,var(--t) 36%,var(--paper));border-top:4px solid var(--t);color:var(--ink)}
 section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
+.parlato{margin:.7em 0;font-size:.92em}.parlato ul{margin:.3em 0 0 1.1em;padding:0}.parlato li{margin:.15em 0}
+.stato-usc{font:600 12.5px var(--sans);padding:6px 16px;text-align:center;line-height:1.35}
+.stato-usc.corso{background:#fff4d6;color:#6b4c00}.stato-usc.ok{background:#e6f4ea;color:#1d5f30}.stato-usc.fermo{background:#fde8e6;color:#8f1d1d}
 </style>
 </head>
 <body>
@@ -758,6 +761,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <h1>Uno sguardo sul mondo</h1>
   <p>Il mondo di oggi, visto dagli occhi di chi lo racconta · senza cronaca nera</p>
 </header>
+<div id="statoUscita" class="stato-usc" hidden role="status" aria-live="polite"></div>
 
 <div class="editionbar"><span id="edizione"></span><div id="rapidi" class="rapidi" aria-label="Numeri e meteo del giorno"></div><span><label for="archivio">Archivio </label><select id="archivio" aria-label="Scegli l'edizione"></select> · <span id="conteggio"></span></span></div>
 <details class="howto"><summary>Un giornale, non un feed · come si legge · <span class="leg-r">★★★</span> da non perdere <span class="leg-r">★★</span> importante</summary>Un'edizione al giorno, finita, senza scroll infinito, senza video che partono da soli: si legge con calma, un articolo alla volta. <b>Come si legge.</b>Ogni notizia porta il <b>paese e la città da cui scrive la testata</b>: è il suo sguardo, non una verità neutra. Quando più testate raccontano lo stesso fatto, trovi gli <b>«sguardi a confronto»</b>. Clicca su un riquadro per aprirlo. Le stelle gialle e il bordo dorato segnalano le notizie più importanti del giorno: tre stelle da non perdere, due importanti. L'ordine delle sezioni non cambia.</details>
@@ -843,7 +847,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
   <p>I testi nei riquadri sono sintesi redazionali scritte per questa edizione a partire dai titoli e dagli occhielli pubblicati dalle testate; i fatti sono i loro. L'articolo completo si legge sul sito della fonte (pulsanti «Originale» e «Leggi tradotto»). Edizione di uso privato. <b>Sono escluse le notizie di cronaca nera</b> (omicidi, violenze, reati sessuali, incidenti mortali): quelle che le testate pubblicano non compaiono né nelle schede né nei titoli per Paese.</p>
   <p class="legale">Progetto privato, senza scopo di lucro e non affiliato alle testate citate. I titoli, i marchi e gli articoli appartengono ai rispettivi proprietari; qui si trovano titoli tradotti, brevi sintesi redazionali e il link alla fonte. Se una testata o un autore desidera la rimozione dei propri contenuti, basta segnalarlo e verranno tolti. Il sito conta in modo anonimo le visite e le installazioni dell'app: nessun dato personale, solo numeri.</p>
   <p class="versione" id="versione"></p>
-  <p class="aggiorna"><button id="aggiorna" type="button">⟳ Cerca aggiornamento</button> <span id="aggiornaEsito" role="status" aria-live="polite"></span></p>
+  <p class="aggiorna"><button id="aggiorna" type="button">⟳ Cerca aggiornamento</button> <span id="aggiornaEsito" role="status" aria-live="polite"></span><span id="statoFondo"></span> · <a href="redazione/ultimo.html" title="Controllo di fine giornata: sezioni sbagliate e doppioni (pubblicato dal cloud dopo la sera)">Redazione · ultimo controllo</a></p>
 </footer>
 </div>
 
@@ -998,9 +1002,32 @@ function uscitaDi(n){                                  // campo esplicito `uscit
 }
 const FMT_ORA = new Intl.DateTimeFormat("it-IT",{timeZone:"Europe/Rome",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",hourCycle:"h23"});
 function oraIt(d){ return FMT_ORA.format(d).replace(",","").replace(/\.\s/," ").replace(/\.$/,""); }   // «11 ott 07:42»
+/* ===== RIGA DI STATO DELL'USCITA (13/10): in corso / completata / ferma, da dati/stato.js (lo scrive il sistema a ogni ondata) ===== */
+function mostraStato(){
+  const S = window.STATO, el = $("#statoUscita"), fo = $("#statoFondo"); if(!S || !el) return;
+  const agg = new Date(S.agg), min = (Date.now()-agg)/60000, hh = oraIt(agg).split(" ").pop();
+  let cls, txt;
+  if(S.fase==="completata"){ cls = "ok"; txt = `✔ ${S.nome} completato alle ${hh} · ${S.notizie} notizie · prossimo aggiornamento ${S.prossima}`; }
+  else if(min > 30){ cls = "fermo"; txt = `⚠ ${S.nome} fermo dalle ${hh} (${S.dettaglio}) · ${S.notizie} notizie online`; }
+  else { cls = "corso"; txt = `● ${S.nome} in corso · ${S.dettaglio} · ${S.notizie} notizie finora · ultimo passo alle ${hh}`; }
+  el.className = "stato-usc " + cls; el.textContent = txt; el.hidden = false;
+  if(fo) fo.textContent = " · " + txt;
+}
+async function aggiornaStato(){
+  await new Promise(r=>{ const s = document.createElement("script"); s.src = "dati/stato.js?t=" + Date.now(); s.onload = s.onerror = ()=>{ s.remove(); r(); }; document.head.appendChild(s); });
+  mostraStato();
+}
+function parlatoDi(n){                                 // «Ne abbiamo parlato» (13/10): notizie dei giorni precedenti sulla stessa vicenda, dal nostro database
+  const L = (window.COLLEGAMENTI||{})[n.id]; if(!L || !L.length) return "";
+  return `<div class="parlato"><b>Ne abbiamo parlato</b><ul>${L.map(([k,id,d,t])=>`<li><a href="?e=${encodeURIComponent(k)}#${encodeURIComponent(id)}">${esc(d)} · ${esc(t)}</a></li>`).join("")}</ul></div>`;
+}
+function tempoTestata(n){                              // data e ora (in ms) della fonte più recente: serve all'ordine dentro le sezioni; 0 = sconosciuta
+  const O = window.ORARI||{}, limite = Date.now()+10*60000; let m = 0;
+  n.fonti.forEach(f=>{ const t = Date.parse(f.t||O[f.u]||""); if(t && t<=limite && t>m) m = t; }); return m;
+}
 function oraTestata(fonti){                            // la più recente tra le fonti; niente data o data nel futuro = nessun marcatore
   const O = window.ORARI||{}, ora = Date.now()+10*60000, righe = [];
-  fonti.forEach(f=>{ const iso = O[f.u]; if(!iso) return; const d = new Date(iso); if(isNaN(d) || d.getTime()>ora) return; righe.push({d, n:f.n}); });
+  fonti.forEach(f=>{ const iso = f.t || O[f.u]; if(!iso) return;   /* f.t: data dell'articolo salvata nella notizia (13/10); O: file orari del giorno */ const d = new Date(iso); if(isNaN(d) || d.getTime()>ora) return; righe.push({d, n:f.n}); });
   if(!righe.length) return null;
   righe.sort((a,b)=>b.d-a.d);
   return {testo:oraIt(righe[0].d), dettaglio:"Ora di pubblicazione della testata (ora italiana)\n"+righe.map(r=>r.n+": "+oraIt(r.d)).join("\n")};
@@ -1024,9 +1051,9 @@ function cardHTML(n){
     ${n.sub&&SUB[n.sub]?`<div class="subtag" style="--sc:${SUB[n.sub][2]}"><span aria-hidden="true">${SUB[n.sub][0]}</span> ${SUB[n.sub][1]}</div>`:""}
     <h3>${esc(n.titolo)}</h3>
     <p class="lead">${glossa(esc(n.lead))}</p>
-    <div class="more">${(CONTESTI[n.id]||CRONO[n.id])?`<div class="contesto"><b>Finora · cosa è successo nei giorni scorsi</b>${CONTESTI[n.id]?`<p>${glossa(esc(CONTESTI[n.id]))}</p>`:""}${CRONO[n.id]?`<ol class="crono">${CRONO[n.id].map(([d,t])=>`<li><b>${esc(d)}</b> ${glossa(esc(t))}</li>`).join("")}</ol>`:""}</div>`:""}${n.more.map(m=>`<p>${glossa(esc(m))}</p>`).join("")}${prisma}${filoDi(n)}${SGUARDI[n.id]?`<p class="sguardo"><b>${multi?"Il commento · uno sguardo d'insieme":"Il commento · lo sguardo di "+esc(f0.c)}</b><br><i>${esc(SGUARDI[n.id])}</i></p>`:""}</div>
+    <div class="more">${(CONTESTI[n.id]||CRONO[n.id])?`<div class="contesto"><b>Finora · cosa è successo nei giorni scorsi</b>${CONTESTI[n.id]?`<p>${glossa(esc(CONTESTI[n.id]))}</p>`:""}${CRONO[n.id]?`<ol class="crono">${CRONO[n.id].map(([d,t])=>`<li><b>${esc(d)}</b> ${glossa(esc(t))}</li>`).join("")}</ol>`:""}</div>`:""}${n.more.map(m=>`<p>${glossa(esc(m))}</p>`).join("")}${prisma}${filoDi(n)}${parlatoDi(n)}${SGUARDI[n.id]?`<p class="sguardo"><b>${multi?"Il commento · uno sguardo d'insieme":"Il commento · lo sguardo di "+esc(f0.c)}</b><br><i>${esc(SGUARDI[n.id])}</i></p>`:""}</div>
     <div class="foot">Titolo originale: <i>${esc(n.orig)}</i><div class="acts">${acts}</div><div class="acts no-print"><span>Condividi:</span> <button class="btn sh" data-w="wa">WhatsApp</button> <button class="btn sh" data-w="mail">E-mail</button> <button class="btn sh" data-w="copy">Copia</button></div>Fonte: ${esc(f0.n)}, ${esc(f0.c)} (${esc(nPaese)}) · ${esc(n.data)}</div>
-    <div class="row"><span class="meta">${esc(n.data)} · <span class="xp${game.aperti.includes(n.id)?" on":""}" title="Leggila con calma (resta aperta ${SECONDI_LETTURA} secondi) per guadagnare 10 XP">${game.aperti.includes(n.id)?"✓ +10 XP":"+10 XP"}</span> · <span class="tg">Apri ▾</span></span><span class="ctl"><button class="ascolta" aria-label="Ascolta questa notizia" title="Ascolta questa notizia">🔊</button><button class="nasc" aria-label="${nascoste.has(kn(n))?"Ripristina questa notizia":"Nascondi questa notizia"}" title="${nascoste.has(kn(n))?"Ripristina":"Nascondi (puoi recuperarla da «Nascoste»)"}">${nascoste.has(kn(n))?"↺ Ripristina":"✕ Nascondi"}</button><button class="star" aria-pressed="${salvati.has(n.id)}" aria-label="Da leggere" title="Da leggere">★</button></span></div>
+    <div class="row"><span class="meta">${(()=>{ const t = tempoTestata(n); return t ? `<span title="Data e ora dell'articolo originale (ora italiana)">${esc(oraIt(new Date(t)))}</span>` : `<span title="La testata non indica data e ora di pubblicazione">data non certificata</span>`; })()} · <span class="xp${game.aperti.includes(n.id)?" on":""}" title="Leggila con calma (resta aperta ${SECONDI_LETTURA} secondi) per guadagnare 10 XP">${game.aperti.includes(n.id)?"✓ +10 XP":"+10 XP"}</span> · <span class="tg">Apri ▾</span></span><span class="ctl"><button class="ascolta" aria-label="Ascolta questa notizia" title="Ascolta questa notizia">🔊</button><button class="nasc" aria-label="${nascoste.has(kn(n))?"Ripristina questa notizia":"Nascondi questa notizia"}" title="${nascoste.has(kn(n))?"Ripristina":"Nascondi (puoi recuperarla da «Nascoste»)"}">${nascoste.has(kn(n))?"↺ Ripristina":"✕ Nascondi"}</button><button class="star" aria-pressed="${salvati.has(n.id)}" aria-label="Da leggere" title="Da leggere">★</button></span></div>
   </article>`;
 }
 
@@ -1056,7 +1083,13 @@ function subBar(s){                                   // riga di filtri per sott
 document.addEventListener("click",e=>{            // «In primo piano» nella pagina del Paese: porta al box della notizia, lo apre e lo evidenzia
   const a = e.target.closest(".nz-go"); if(!a) return;
   e.preventDefault();
-  const card = document.querySelector('#main .card[data-id="'+a.dataset.id.replace(/"/g,"")+'"]');
+  const id = a.dataset.id.replace(/"/g,""), trova = ()=>document.querySelector('#main .card[data-id="'+id+'"]');
+  let card = trova();
+  if(!card || card.offsetParent===null){       // nascosta da un filtro (sul telefono si parte dalla sola Prima pagina, sezione chiusa, argomento): si tolgono e si ridisegna (13/10)
+    filtroSezione = null; filtroSub = null;
+    const n = NEWS.find(x=>x.id===id); if(n && chiuse.has(n.sez)){ chiuse.delete(n.sez); salvaChiuse(); }
+    render(); if(typeof buildNav==="function") buildNav(); card = trova();
+  }
   if(card){ card.scrollIntoView({behavior:"smooth",block:"center"}); toggle(card,true,true); if(typeof evidenzia==="function") evidenzia(a.dataset.id); }
 });
 document.addEventListener("click",e=>{
@@ -1073,7 +1106,7 @@ function render(){
     if(s.id==="meteo"){ const h = meteoHTML(s); if(h){ parti.push({full:filtroSezione==="meteo", html:h}); } continue; }   // il meteo è una tabella di dati, non un elenco di notizie
     const items = NEWS.filter(n=>(n.sez===s.id || (s.id==="prima" && n.top)) && visibile(n));      // le notizie con n.top compaiono anche in prima pagina (doppia etichetta)
     const itaPrima = (s.id!=="prima" && s.id!=="italia");
-    items.sort((a,b)=> (itaPrima ? riguardaItalia(b)-riguardaItalia(a) : 0) || (b.ora||"").localeCompare(a.ora||""));   // prima le notizie che riguardano l'Italia, poi le piu recenti per ora (senza ora in fondo; a pari ora l'ordine non cambia)
+    items.sort((a,b)=> (itaPrima ? riguardaItalia(b)-riguardaItalia(a) : 0) || (tempoTestata(b)-tempoTestata(a)) || (b.ora||"").localeCompare(a.ora||""));   // prima l'Italia, poi le piu recenti per data e ora della testata (13/10: prima si ordinava per l'ora in cui le scriveva il sistema); senza data in fondo
     if(!items.length) continue; tot+=items.length;
     const ch = chiuse.has(s.id);
     parti.push({full:!!(s.front||filtroSezione===s.id), html:`<section data-ord="${SEZIONI.indexOf(s)}" class="sec t-${s.id}${s.good?" goodsec":""}${(s.front||filtroSezione===s.id)?" fullw":""}${ch?" chiusa":""}" id="s-${s.id}"><h2><span class="h2n">${ICONA(s.id)}${s.nome}</span><span class="h2r"><small>${items.length} ${items.length===1?"notizia":"notizie"}</small><button class="sez-riduci" data-sez="${s.id}" aria-label="Riduci o espandi: ${s.nome}" aria-expanded="${!ch}">${ch?"+":"−"}</button></span></h2>${subBar(s)}<div class="grid${s.front?" front":""}">${items.map(cardHTML).join("")}</div></section>`});
@@ -1873,7 +1906,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261012-2357";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261013-1102";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -1891,7 +1924,7 @@ async function avvia(){
   }
   await carica("edizioni/indice.js");
   const lista = window.INDICE||[];
-  await Promise.all(lista.map(async e=>{ await carica("edizioni/"+e.k+".js"); await carica("dati/"+e.k.slice(0,10)+".js"); await carica("dati/nazioni-"+e.k.slice(0,10)+".js"); await carica("dati/titoli-it-"+e.k.slice(0,10)+".js"); await carica("dati/orari-"+e.k.slice(0,10)+".js"); }));
+  await Promise.all(lista.map(async e=>{ await carica("edizioni/"+e.k+".js"); await carica("dati/"+e.k.slice(0,10)+".js"); await carica("dati/nazioni-"+e.k.slice(0,10)+".js"); await carica("dati/titoli-it-"+e.k.slice(0,10)+".js"); await carica("dati/orari-"+e.k.slice(0,10)+".js"); await carica("dati/collegamenti-"+e.k.slice(0,10)+".js"); }));
   const mattini = lista.filter(e=>e.tipo!=="sera");       // si apre l'edizione completa del mattino; la sera (poche notizie) si sceglie dall'archivio
   const ultima = (mattini.length ? mattini[mattini.length-1] : lista[lista.length-1]||{}).k || null;
   if(!ultima || !(window.EDIZIONI&&window.EDIZIONI[ultima])){
@@ -1904,6 +1937,7 @@ async function avvia(){
   else if(MQ.matches && !location.hash) filtroSezione = "prima";          // sul telefono si parte dalla Prima pagina; le altre sezioni dalla tendina
   apri(richiesta && window.EDIZIONI[richiesta] ? richiesta : ultima);
   initRiduci();
+  aggiornaStato(); setInterval(aggiornaStato, 60000);          // riga di stato: si aggiorna da sola ogni minuto
   /* collegamento diretto a una notizia: index.html?e=AAAA-MM-GG#id */
   const diretto = decodeURIComponent((location.hash||"").slice(1));
   if(diretto){
@@ -2088,7 +2122,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261012-2357";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261013-1102";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
