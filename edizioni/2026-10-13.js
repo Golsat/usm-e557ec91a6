@@ -13538,12 +13538,15 @@ window.EDIZIONI["2026-10-13"] = {
   "z16ff5da9": "Nel corso della guerra l'Ucraina ha esteso gli attacchi con droni a lungo raggio contro obiettivi in territorio russo. Nel 2025 ha colpito in modo sistematico raffinerie e depositi di carburante per indebolire l'economia di guerra di Mosca. La Russia, dal canto suo, ha introdotto ripetute restrizioni a internet mobile per motivi di sicurezza. Ora nel mirino sono finite anche le infrastrutture digitali, a partire dai data center di Yandex.",
   "z9dc7e67c": "La sovranità sulle Falkland è contesa da decenni tra Londra e Buenos Aires. Lo sviluppo di un grande progetto petrolifero al largo delle isole ha riacceso lo scontro, fino a portare l'Argentina a chiedere all'Interpol l'arresto di persone legate al progetto. Le tensioni sono ora le più alte dalla guerra del 1982.",
   "z8ef6f092": "La riforma è arrivata al voto finale del Senato dopo l'esame parlamentare. Nel frattempo il decreto Sicurezza ha cancellato i 20 milioni di euro destinati al 2026, lasciando il riordino senza quelle risorse, mentre i Comuni continuano a fare i conti con la riduzione del personale.",
-  "z325c3c1a": "Papa Leone XIV è stato ricoverato al Policlinico Gemelli di Roma. Fin dalle prime ore della giornata le autorità hanno predisposto intorno all'ospedale un dispositivo di sicurezza che riguarda lo spazio aereo, il controllo dei droni, l'accesso al piano riservato e la protezione dei sistemi informatici.",
+  "z325c3c1a": "Robert Francis Prevost è stato eletto papa l'8 maggio 2025 e ha preso il nome di Leone XIV. È stato il primo pontefice statunitense. Il policlinico Gemelli è da decenni l'ospedale di riferimento dei papi. Lì Francesco rimase ricoverato per oltre cinque settimane nel 2025, poco prima di morire. Ora il ricovero di Leone XIV ha fatto scattare misure di sicurezza straordinarie intorno alla struttura, sia fisiche sia informatiche.",
   "z4b548e5a": "L'Italia ha presentato e poi aggiornato il proprio piano per accedere al programma europeo Safe. La Commissione lo ha valutato e ha espresso parere favorevole per un valore superiore agli 8 miliardi di euro, passando la decisione finale al Consiglio dell'Unione.",
   "z82de1b27": "In vista della presentazione del Budget nel Regno Unito, il mondo delle imprese ha mostrato timori su possibili aumenti fiscali. Per rispondere a queste preoccupazioni il primo ministro e il cancelliere hanno organizzato incontri con i dirigenti delle principali aziende.",
-  "z2397df57": "Negli ultimi giorni Washington e Mosca hanno raggiunto un accordo sul gasolio, definito dall'Ucraina «un regalo» a Putin, mentre l'amministrazione Trump ha aumentato la pressione su Kiev. In Europa e nel Regno Unito l'intesa ha suscitato sconcerto e una risposta diplomatica prudente.",
-  "z99fc9786": "Nei giorni scorsi gli Stati Uniti hanno concluso con la Russia un accordo sul gasolio, mentre Washington aumentava la pressione su Kiev. L'Ucraina ha criticato duramente l'intesa e analisti americani l'hanno letta come una serie di vittorie concesse a Putin senza contropartite.",
-  "za2835aaa": "La Banca del Giappone ha già alzato i tassi nella riunione precedente, proseguendo il percorso di normalizzazione della politica monetaria; ora gli osservatori si interrogano sulla possibilità di una nuova stretta immediata."
+  "z2397df57": "Da quando è tornato alla Casa Bianca, Donald Trump alterna aperture e pressioni nei confronti di Mosca per chiudere la guerra in Ucraina, cominciata con l'invasione russa del febbraio 2022. Il vertice di Anchorage con Putin e i successivi piani di pace non hanno prodotto un cessate il fuoco. Ora l'intesa sul gasolio e le nuove pressioni su Kiev rafforzano il Cremlino, che continua a combattere.",
+  "z99fc9786": "Europei e britannici sostengono Kiev da quando la Russia ha invaso l'Ucraina nel 2022. Hanno adottato pacchetti successivi di sanzioni sull'energia russa. Più volte hanno cercato di correggere le iniziative di pace di Trump, giudicate troppo vicine alle richieste di Mosca. L'accordo sul gasolio tra Washington e Mosca li ha colti di sorpresa. Kiev lo ha definito «un regalo» a Putin. Le capitali europee hanno risposto con una linea comune e prudente.",
+  "za2835aaa": "La Banca del Giappone ha già alzato i tassi nella riunione precedente, proseguendo il percorso di normalizzazione della politica monetaria; ora gli osservatori si interrogano sulla possibilità di una nuova stretta immediata.",
+  "z4b8eb363": "Lo scostamento di bilancio permette al governo di fare più deficit del previsto. Per farlo serve il voto a maggioranza assoluta delle Camere, come stabilisce la legge 243 del 2012. Negli ultimi mesi sono cresciute le pressioni per aumentare la spesa militare, dopo gli impegni presi in sede europea e Nato. Pesano anche i costi dell'energia. A differenza di altri scostamenti, però, il governo ha chiarito poco su come userà le nuove risorse.",
+  "ze829ef72": "L'Africa non ospita un Gran Premio di Formula 1 dal 1993. Quell'anno, sul circuito sudafricano di Kyalami, vinse Alain Prost, che poi conquistò il suo quarto titolo mondiale. Il Ruanda ha investito molto negli eventi sportivi internazionali. Nel dicembre 2024 il presidente Paul Kagame ha annunciato a Kigali la candidatura del paese a ospitare una gara di Formula 1. Il progetto prevede un nuovo circuito vicino alla capitale.",
+  "z9c86d2cd": "Il Paris Saint-Germain ha vinto la sua prima Champions League nel maggio 2025, battendo l'Inter 5-0 nella finale di Monaco di Baviera. Nella stagione successiva ha difeso il titolo. Nella nuova edizione ha esordito con un 6-1 allo Slovan Bratislava. Ora affronta in trasferta il Manchester City nel big match della seconda giornata. Olivier Giroud, passato al Lille nel 2025, ritrova il suo ex club, l'Arsenal."
  },
  "cronologie": {
   "z24394b55": [
@@ -14852,6 +14855,110 @@ window.EDIZIONI["2026-10-13"] = {
    [
     "Oggi",
     "Tavole rotonde del governo con i vertici aziendali"
+   ]
+  ],
+  "z4b8eb363": [
+   [
+    "2012",
+    "La riforma costituzionale sul pareggio di bilancio introduce lo scostamento autorizzato dal Parlamento a maggioranza assoluta"
+   ],
+   [
+    "Marzo 2025",
+    "La Commissione europea presenta il piano ReArm Europe, con una clausola che consente di spendere di più per la difesa fuori dai vincoli di bilancio"
+   ],
+   [
+    "Giugno 2025",
+    "Al vertice Nato dell'Aia gli alleati si impegnano a portare la spesa per la difesa al 5% del Pil entro il 2035"
+   ],
+   [
+    "Ottobre 2026",
+    "Il governo ottiene uno scostamento di 29 miliardi per energia e difesa"
+   ]
+  ],
+  "z325c3c1a": [
+   [
+    "14 febbraio 2025",
+    "Papa Francesco viene ricoverato al Gemelli per un'infezione respiratoria"
+   ],
+   [
+    "21 aprile 2025",
+    "Morte di papa Francesco"
+   ],
+   [
+    "8 maggio 2025",
+    "Il conclave elegge Robert Francis Prevost, che prende il nome di Leone XIV"
+   ],
+   [
+    "Ottobre 2026",
+    "Leone XIV viene ricoverato al Gemelli e scatta un piano di sicurezza speciale"
+   ]
+  ],
+  "z2397df57": [
+   [
+    "24 febbraio 2022",
+    "La Russia invade l'Ucraina"
+   ],
+   [
+    "15 agosto 2025",
+    "Vertice tra Trump e Putin ad Anchorage, in Alaska, senza un accordo"
+   ],
+   [
+    "22 ottobre 2025",
+    "Gli Stati Uniti sanzionano i colossi petroliferi russi Rosneft e Lukoil"
+   ],
+   [
+    "Novembre 2025",
+    "Washington presenta un piano di pace in 28 punti, giudicato da Kiev e dagli europei troppo favorevole a Mosca"
+   ]
+  ],
+  "z99fc9786": [
+   [
+    "24 febbraio 2022",
+    "La Russia invade l'Ucraina, e l'Unione europea avvia le prime sanzioni"
+   ],
+   [
+    "15 agosto 2025",
+    "Vertice tra Trump e Putin ad Anchorage"
+   ],
+   [
+    "Novembre 2025",
+    "Gli europei presentano controproposte al piano di pace statunitense in 28 punti"
+   ],
+   [
+    "Ottobre 2026",
+    "L'intesa sul gasolio tra Stati Uniti e Russia provoca una reazione fredda in Europa e nel Regno Unito"
+   ]
+  ],
+  "ze829ef72": [
+   [
+    "1993",
+    "A Kyalami, in Sudafrica, si corre l'ultimo Gran Premio africano, vinto da Alain Prost"
+   ],
+   [
+    "Dicembre 2024",
+    "A Kigali, durante l'assemblea generale della FIA, Kagame annuncia la candidatura del Ruanda"
+   ],
+   [
+    "2025-2026",
+    "Prosegue il confronto con la Formula 1 sul progetto di un circuito vicino a Kigali"
+   ]
+  ],
+  "z9c86d2cd": [
+   [
+    "31 maggio 2025",
+    "Il PSG batte l'Inter 5-0 a Monaco e vince la sua prima Champions League"
+   ],
+   [
+    "Estate 2025",
+    "Olivier Giroud lascia il Los Angeles FC e torna in Francia al Lille"
+   ],
+   [
+    "Maggio 2026",
+    "Il PSG conquista la seconda Champions consecutiva"
+   ],
+   [
+    "Prima giornata 2026-27",
+    "Il PSG travolge lo Slovan Bratislava 6-1"
    ]
   ]
  },
