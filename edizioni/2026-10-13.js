@@ -3,6 +3,2202 @@ window.EDIZIONI["2026-10-13"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "zbe4d5ceb",
+   "sez": "mondo",
+   "titolo": "Giocatrice di softball del Montana ritrova la sorella biologica nella squadra avversaria",
+   "orig": "Montana High School Softball Player Discovered Long-Lost Sister on Opposing Team",
+   "lead": "Samantha Rensvold, una giovane giocatrice di softball di un liceo del Montana, ha vissuto un incredibile ricongiungimento familiare durante una partita disputata lo scorso agosto. L'atleta si è trovata a competere contro una squadra proveniente da un altro Stato, scoprendo con immenso stupore che tra le file delle avversarie militava la sua sorella biologica, di cui aveva perso le tracce. Samantha, adottata quando era ancora una neonata, era a conoscenza delle sue origini, ma non avrebbe mai immaginato un simile incontro sul diamante di gioco. Lo riferisce Good News Network.",
+   "more": [
+    "L'adozione infantile è un processo giuridico che trasferisce in modo permanente la potestà genitoriale dai genitori biologici a quelli adottivi. In molti casi, i bambini adottati mantengono una parziale consapevolezza delle proprie origini, ma la separazione fisica tra fratelli biologici può durare decenni, rendendo i ricongiungimenti casuali eventi estremamente rari e di grande impatto emotivo."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "good": true,
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z778a4a5e",
+   "sez": "ingegneria",
+   "titolo": "Zenith Interiors presenta la collezione di sedute Profondo",
+   "orig": "Profondo seating by Zenith Interiors among five new products on Dezeen Showroom",
+   "lead": "Il marchio australiano Zenith Interiors ha lanciato la nuova linea di arredi Profondo, presentata all'interno del Dezeen Showroom. La collezione si compone di divani e poltrone caratterizzati da un design morbido e interamente imbottito, pensati per migliorare il comfort negli ambienti di lavoro. Gli elementi della serie condividono braccioli distintivi a forma di U e sedute con spessa imbottitura, disponibili in un'ampia gamma di rivestimenti. La proposta punta a integrare estetica domestica e funzionalità professionale negli uffici contemporanei. Lo riferisce Dezeen.",
+   "more": [
+    "L'arredo per ufficio contemporaneo si sta evolvendo verso il concetto di comfort domestico applicato agli spazi professionali. L'utilizzo di forme avvolgenti e imbottiture generose mira a ridurre lo stress ambientale e a favorire un'atmosfera più accogliente, migliorando la qualità del tempo trascorso nelle postazioni di lavoro collettive."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/10/12/profondo-seating-zenith-interiors-furniture-accessories-dezeen-showroom/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z46e5cf8f",
+   "sez": "ambiente",
+   "titolo": "Carenza idrica in Asia Centrale: l'allarme del presidente uzbeko",
+   "orig": "Water scarcity becomes increasingly serious constraint on Central Asia’s development — president of Uzbekistan",
+   "lead": "Il presidente dell'Uzbekistan, Shavkat Mirziyoyev, ha lanciato un monito riguardo alla scarsità d'acqua, definendola un vincolo sempre più grave per lo sviluppo dell'intera Asia Centrale. Durante il suo intervento, ha esortato i paesi vicini a collaborare per affrontare insieme le sfide poste dal cambiamento climatico, sottolineando che le perdite idriche inefficienti pesano troppo sulle economie regionali. Il leader uzbeko ha inoltre richiamato l'attenzione sull'inquinamento atmosferico e sulla necessità di un dialogo aperto con l'Afghanistan per gestire le risorse condivise. Lo riferisce Gazeta.uz (inglese).",
+   "more": [
+    "L'Asia Centrale è una regione geograficamente arida che dipende fortemente dai fiumi Amu Darya e Syr Darya per l'agricoltura e l'energia. La gestione di queste acque, che attraversano diversi confini nazionali, è una questione di sicurezza regionale, specialmente con il ritiro dei ghiacciai montani e l'aumento delle temperature globali."
+   ],
+   "fonti": [
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/11/water/",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za04ead38",
+   "sez": "organizzazioni",
+   "titolo": "L'IAEA conclude la missione di protezione fisica in Pakistan",
+   "orig": "IAEA Completes International Physical Protection Advisory Service Mission in Pakistan",
+   "lead": "L'Agenzia internazionale per l'energia atomica (Aiea) ha completato con successo la sua missione International Physical Protection Advisory Service (IPPAS) in Pakistan. L'intervento, volto a valutare e rafforzare le misure di protezione fisica delle strutture e dei materiali nucleari nel Paese, si è concluso con l'analisi delle procedure di sicurezza nazionale. Questa missione consultiva rientra negli sforzi globali dell'Agenzia per assistere gli Stati membri nel prevenire il sabotaggio o il traffico illecito di sostanze atomiche. Lo riferisce Agenzia internazionale per l'energia atomica (Aiea).",
+   "more": [
+    "L'IPPAS è un servizio offerto dall'IAEA che fornisce valutazioni esterne basate sugli standard internazionali di sicurezza nucleare. Gli esperti dell'Agenzia esaminano le legislazioni nazionali e le misure pratiche adottate nei siti sensibili per garantire che i materiali radioattivi siano protetti da accessi non autorizzati e minacce esterne."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-completes-international-physical-protection-advisory-service-mission-in-pakistan",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf34cc391",
+   "sez": "sport",
+   "titolo": "Corea del Sud: la federazione calcio chiede lo stop agli attacchi ai giocatori",
+   "orig": "Nat'l football federation urges halt to personal attacks on players",
+   "lead": "La federazione nazionale di calcio della Corea del Sud ha lanciato un appello pubblico lo scorso martedì per chiedere l'interruzione immediata degli attacchi personali rivolti ai calciatori. La nota ufficiale giunge in risposta a una crescente ondata di ostilità verbale che ha colpito diversi membri della nazionale, danneggiando il clima interno alla squadra. L'organizzazione ha sottolineato la necessità di proteggere l'integrità emotiva degli atleti, invitando i tifosi e l'opinione pubblica a mantenere un comportamento rispettoso e costruttivo. Lo riferisce Yonhap.",
+   "more": [
+    "Le federazioni sportive nazionali hanno il compito di gestire non solo gli aspetti agonistici, ma anche la tutela degli atleti dalle pressioni esterne. Negli ultimi anni, il fenomeno del bullismo online e delle critiche aggressive sui social media è diventato una preoccupazione primaria per le istituzioni sportive globali, portando a campagne di sensibilizzazione specifiche."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261013007600315",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc2de96b5",
+   "sez": "musica",
+   "titolo": "Vic Mensa e la controcultura rap contro la 'manosfera'",
+   "orig": "Discursive Verses: Vic Mensa and the rise of a rap manosphere counterculture",
+   "lead": "Rodney Carmichael, critico musicale di NPR, analizza l'ascesa di una nuova controcultura rap rappresentata da artisti come Vic Mensa. Questo movimento si pone in netto contrasto con i podcast e le narrazioni tipiche della 'manosfera', offrendo una risposta radicalmente diversa e contraria alle dinamiche machiste spesso presenti nel genere. La riflessione esplora come la musica stia diventando uno spazio di resistenza intellettuale e culturale, capace di sfidare i modelli tradizionali e di proporre una visione più inclusiva e consapevole all'interno della scena hip hop statunitense. Lo riferisce NPR – Musica.",
+   "more": [
+    "L'hip hop è da sempre un genere che riflette le tensioni sociali e culturali. La 'manosfera' indica un insieme di comunità digitali che promuovono visioni spesso legate a forme di mascolinità tossica; di conseguenza, la nascita di una controcultura musicale indica una maturazione del genere verso temi di giustizia sociale e analisi dell'identità."
+   ],
+   "fonti": [
+    {
+     "n": "NPR – Musica",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/08/nx-s1-5995128/the-week-in-hip-hop-vic-mensa-show-grits-and-eggs-pod-manosphere-counterculture",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z800b1501",
+   "sez": "tech",
+   "titolo": "Bill Gates chiede ai governi di guidare l'evoluzione dell'intelligenza artificiale",
+   "orig": "Bill Gates: la tecnologia è un mondo che ha bisogno di essere governato",
+   "lead": "In un'intervista rilasciata ai media vaticani, Bill Gates ha sottolineato come il mondo della tecnologia abbia urgente bisogno di essere governato, con particolare riferimento all'intelligenza artificiale. L'ex amministratore delegato di Microsoft sostiene che l'IA sia un settore che non può autoregolamentarsi e deve essere guidato dai governi per evitare pericoli sociali. Gates ha inoltre evidenziato la necessità di agire tempestivamente per sfruttare le enormi potenzialità di questa tecnologia in ambiti vitali quali la sanità, l'educazione e l'agricoltura, garantendo un accesso equo. Lo riferisce Vatican News (italiano).",
+   "more": [
+    "L'intelligenza artificiale solleva complesse questioni etiche legate alla privacy, alla sicurezza e alla sostituzione del lavoro umano. La governance globale di questo settore mira a creare standard condivisi che prevengano usi impropri dei dati e assicurino che lo sviluppo tecnologico avvenga in modo trasparente e sicuro per tutta la popolazione mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/mondo/news/2026-10/gates-intervista-intelligenza-artificiale-magnifica-humanitas.html",
+     "angolo": "",
+     "atlas": "Vatican"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z938a3cc6",
+   "sez": "mondo",
+   "titolo": "Filippine: aggiornamenti sul processo di impeachment della vicepresidente Sara Duterte",
+   "orig": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+   "lead": "Il Senato delle Filippine ha avviato le fasi del processo di impeachment che vede coinvolta la vicepresidente Sara Duterte. La testata Rappler sta fornendo una copertura completa e in tempo reale degli sviluppi parlamentari, monitorando le accuse e le testimonianze presentate in aula. La vicenda sta scuotendo i vertici politici del Paese, con l'opinione pubblica attenta all'esito del giudizio che potrebbe portare alla rimozione della Duterte dalla sua carica istituzionale. Al centro del dibattito ci sono questioni di responsabilità governativa e legalità. Lo riferisce Rappler.",
+   "more": [
+    "L'impeachment è una procedura prevista dalle costituzioni di molti Stati democratici per mettere in stato d'accusa un alto funzionario governativo. Se le accuse di cattiva condotta, corruzione o violazione della Costituzione vengono confermate dal ramo legislativo, il funzionario può essere rimosso dall'incarico e talvolta interdetto dai pubblici uffici."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z26d7b070",
+   "sez": "mondo",
+   "titolo": "Censimento Giappone: accelerazione nel declino della popolazione",
+   "orig": "Japan Census Highlights Accelerating Population Decline",
+   "lead": "I risultati del censimento nazionale del 2025 hanno evidenziato una nuova e preoccupante contrazione della popolazione in Giappone. I dati raccolti indicano che il numero degli abitanti sta diminuendo a un ritmo ancora più sostenuto rispetto a quanto registrato nel 2020. Questo trend conferma le difficoltà del Paese nel contrastare l'invecchiamento demografico e la bassa natalità, fattori che pongono sfide strutturali all'economia e al sistema sociale giapponese. Il governo monitora con attenzione i risultati per pianificare future politiche di welfare e immigrazione. Lo riferisce Nippon.com.",
+   "more": [
+    "Il Giappone sta affrontando una crisi demografica senza precedenti, caratterizzata da un tasso di natalità estremamente basso e da una delle popolazioni più anziane al mondo. Questo declino comporta una riduzione costante della forza lavoro e un aumento della pressione sui sistemi pensionistici e sanitari nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/japan-data/h02915/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbe053ac3",
+   "sez": "cultura",
+   "titolo": "Marvel annuncia la nuova miniserie Hulk War: Infernal Rage",
+   "orig": "Hulk dichiarerà guerra all’Universo Marvel in una nuova miniserie",
+   "lead": "Marvel Comics ha annunciato l'uscita di 'Hulk War: Infernal Rage', una nuova miniserie composta da cinque numeri. La trama vedrà l'infernale Hulk dichiarare apertamente guerra all'intero Universo Marvel, portando il personaggio in una dimensione di scontro totale contro gli altri eroi della casa editrice. Il progetto promette di esplorare nuove sfaccettature della rabbia del Gigante di Giada, inserendosi in un arco narrativo ad alta tensione che coinvolgerà molti protagonisti iconici del fumetto statunitense. Lo riferisce Fumettologica.",
+   "more": [
+    "Hulk è uno dei personaggi più celebri dell'editoria a fumetti americana, creato da Stan Lee e Jack Kirby. La sua natura duale, divisa tra l'intelligenza dello scienziato Bruce Banner e la forza bruta del mostro, è stata spesso utilizzata per esplorare temi legati al controllo della rabbia e alle conseguenze della radiazione gamma."
+   ],
+   "fonti": [
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/10/hulk-war-infernal-rage-marvel-2027/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd3d16fa5",
+   "sez": "ambiente",
+   "titolo": "Un'app a Berlino permette ai cittadini di adottare e innaffiare gli alberi",
+   "orig": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
+   "lead": "Migliaia di berlinesi stanno utilizzando un'app open-source per prendersi cura degli alberi della propria città durante le ondate di calore estive. L'applicazione, denominata 'Gieß den Kiez' (Innaffia il quartiere), offre una mappa interattiva che permette di localizzare circa 900.000 alberi stradali a Berlino. Gli utenti possono 'adottare' una pianta, monitorandone le necessità idriche e intervenendo per innaffiarla, trattandola quasi come un animale domestico. Questa iniziativa di cittadinanza attiva aiuta a mantenere il verde urbano in salute nonostante le temperature crescenti. Lo riferisce Good News Network.",
+   "more": [
+    "Il verde urbano gioca un ruolo cruciale nella mitigazione delle isole di calore cittadine e nel miglioramento della qualità dell'aria. Coinvolgere la popolazione nella manutenzione del patrimonio arboreo non solo riduce i costi comunali, ma rafforza anche il legame tra cittadini e ambiente, promuovendo la sostenibilità partecipata."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "good": true,
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc79ba1ba",
+   "sez": "ingegneria",
+   "titolo": "Completato il nuovo centro visitatori ai Twelve Apostles in Australia",
+   "orig": "Grimshaw completes rammed-earth visitor centre for Twelve Apostles in Australia",
+   "lead": "Lo studio di architettura Grimshaw, in collaborazione con Aspect Studios, ha completato la realizzazione di un centro visitatori presso i Twelve Apostles, uno dei monumenti naturali più celebri dell'Australia. La struttura di 3.300 metri quadrati si trova nel Parco Nazionale di Port Campbell, nello stato di Victoria. L'edificio è caratterizzato da pareti in terra cruda battuta, progettate per integrarsi cromaticamente e matericamente con il paesaggio costiero circostante. L'intervento mira a migliorare l'esperienza turistica rispettando l'integrità ambientale di un sito di alto valore naturalistico. Lo riferisce Dezeen.",
+   "more": [
+    "L'architettura in terra cruda battuta è una tecnica costruttiva antica che utilizza materiali naturali locali compressi in casseforme. Questo metodo offre eccellenti proprietà termiche e un impatto ambientale ridotto, oltre a permettere un'integrazione estetica perfetta tra le opere dell'uomo e il paesaggio geologico."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/10/12/grimshaw-visitor-centre-twelve-apostles-australia/",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z76e249e3",
+   "sez": "cucina",
+   "titolo": "Ricetta dei muffin ai mirtilli morbidissimi",
+   "orig": "Muffin ai mirtilli morbidissimi",
+   "lead": "Viene presentata una ricetta facile per preparare muffin ai mirtilli descritti come morbidissimi, ideali per diverse occasioni, dalla colazione alla merenda. Il procedimento è pensato per soddisfare sia i bambini sia gli adulti, offrendo una soluzione semplice per dolci fatti in casa. La preparazione mette in risalto la freschezza dei mirtilli all'interno di un impasto soffice, posizionandosi come un'alternativa versatile ai prodotti industriali per chi desidera cimentarsi nella pasticceria casalinga con ingredienti naturali. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "I muffin sono dolci monoporzione di origine anglosassone, simili a piccoli pan di Spagna. La variante ai mirtilli è una delle più classiche e apprezzate a livello internazionale grazie al contrasto tra la dolcezza dell'impasto e la leggera acidità del frutto, che durante la cottura rilascia il suo succo ammorbidendo ulteriormente la pasta."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/ricetta/dolci-e-dessert/muffin-ai-mirtilli/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z636084be",
+   "sez": "ambiente",
+   "titolo": "Tonga: disponibile per la consultazione il sistema di gestione ambientale del Matanataki Pacific Fund",
+   "orig": "Environment and Social Management System for Matanataki Pacific Fund 1, available for public review",
+   "lead": "A Nuku'alofa è stato reso pubblico per la revisione l'Environment and Social Management System (ESMS) per il Matanataki Pacific Fund 1. L'avviso, emesso da Enyorra Private Equity Pte. Ltd e Matanataki Pte Ltd, invita la cittadinanza a consultare i documenti relativi alla gestione sociale e ambientale del fondo. Copie cartacee sono disponibili per l'ispezione presso il Ministero per la Meteorologia, l'Energia, l'Ambiente e il Cambiamento Climatico di Tonga durante i normali orari d'ufficio. L'iniziativa mira a garantire trasparenza nelle attività di investimento nella regione del Pacifico. Lo riferisce Matangi Tonga.",
+   "more": [
+    "I sistemi di gestione ambientale e sociale sono strumenti utilizzati dai fondi d'investimento per valutare e mitigare i potenziali rischi che i loro progetti potrebbero avere sulla natura e sulle comunità locali. La trasparenza e la consultazione pubblica sono elementi essenziali per ottenere l'approvazione sociale e istituzionale nelle aree protette."
+   ],
+   "fonti": [
+    {
+     "n": "Matangi Tonga",
+     "p": "XX",
+     "c": "Nuku'alofa",
+     "u": "https://matangitonga.to/2026/10/08/environment-and-social-management-system-matanataki-pacific-fund-1-available-public",
+     "angolo": "",
+     "atlas": "Tonga"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6203bc39",
+   "sez": "italia",
+   "titolo": "Matteo Salvini si dimette da segretario della Lega in vista del congresso",
+   "orig": "Salvini si dimette da segretario della Lega: \"Necessario per ricandidarmi\"",
+   "lead": "Matteo Salvini si è dimesso dalla carica di segretario della Lega, una mossa definita come un passaggio tecnico necessario per potersi ricandidare al prossimo congresso straordinario del partito. L'annuncio è avvenuto in previsione dell'assise che si terrà a Milano il 24 e 25 ottobre. Salvini ha inoltre anticipato la creazione di una segreteria politica per una gestione più condivisa delle responsabilità e l'intenzione di apportare modifiche al simbolo del movimento. La decisione punta a blindare la leadership interna e a preparare la formazione politica alle sfide elettorali imminenti.",
+   "more": [
+    "Le dimissioni formali prima di un congresso sono una procedura statutaria comune in molti partiti politici per consentire una nuova elezione democratica del leader. La Lega, sotto la guida di Salvini, ha subito diverse trasformazioni, passando da movimento federalista a forza politica nazionale, con un forte accento sui temi della sicurezza e dell'autonomia."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/10/12/salvini-si-dimette-da-segretario-della-lega-necessario-per-ricandidarmi_bdef9006-eaa9-4211-8fd7-635e42b1d1cb.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/lega-salvini-si-dimette-segretario-passo-necessario-ricandidarsi-AJR1MvhB",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/lega-salvini-ci-sara-segreteria-politica-e-aggiorneremo-simbolo-AJKyihhB",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/politica/salvini_dimissioni_lega_cosa_succede_ora_sondaggi-9820659.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z75f295ee",
+   "sez": "spazio",
+   "titolo": "L'astronauta Sophie Adenot rientra in Europa dopo la missione ISS",
+   "orig": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
+   "lead": "Sophie Adenot, astronauta dell'Agenzia Spaziale Europea (ESA), è giunta a Colonia, in Germania, dopo il suo ammaraggio sulla Terra. Il rientro segue la missione epsilon a bordo della Stazione Spaziale Internazionale, dove l'astronauta ha trascorso quasi otto mesi, per un totale di 237 giorni. Adenot faceva parte dell'equipaggio Crew-12 e ha concluso con successo la sua prima esperienza nello spazio profondo. Ora inizierà un periodo di monitoraggio medico e analisi scientifica presso le strutture dell'ESA per valutare gli effetti della lunga permanenza in orbita. Lo riferisce Agenzia spaziale europea (Esa).",
+   "more": [
+    "Le missioni di lunga durata sulla Stazione Spaziale Internazionale consentono di svolgere ricerche che non potrebbero essere replicate sulla Terra. Al rientro, gli astronauti devono affrontare un rigoroso protocollo di riabilitazione fisica per riabituarsi alla gravità terrestre, poiché la microgravità causa l'indebolimento dei muscoli e delle ossa."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia spaziale europea (Esa)",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
+     "angolo": "",
+     "atlas": ""
+    },
+    {
+     "n": "Agenzia spaziale europea (Esa)",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z249f9bce",
+   "sez": "sport",
+   "titolo": "Rugby: l'investimento NRL potrebbe rilanciare il movimento in Francia",
+   "orig": "How NRL's Super League bid could revive a fallen giant",
+   "lead": "Trent Robinson, allenatore pluripremiato, sta sostenendo i Les Tricolores nella Coppa del Mondo di Rugby League, con la speranza che un potenziale investimento della NRL nella Super League possa rinvigorire lo sport in Francia. L'idea alla base di questa proposta è quella di sfruttare i capitali e l'organizzazione della lega australiana per dare nuova linfa ai giganti caduti del rugby a 13 europeo. Un coinvolgimento diretto della NRL porterebbe risorse fondamentali per lo sviluppo dei talenti locali e per la crescita della competitività internazionale francese. Lo riferisce ABC News Australia.",
+   "more": [
+    "Il Rugby League (o rugby a 13) è una variante del rugby molto popolare in Australia ma meno diffusa in Europa rispetto al rugby a 15. La National Rugby League (NRL) australiana è la competizione più ricca e seguita al mondo, e la sua espansione verso i mercati europei è vista come una mossa strategica per la globalizzazione del marchio."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-13/how-nrl-s-super-league-bid-could-revive-a-fallen-giant/107261024",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0c670900",
+   "sez": "tech",
+   "titolo": "Giornalismo e AI: l'uomo deve restare al centro della tecnologia",
+   "orig": "Tecnologia e IA non possono prescindere dall’umano",
+   "lead": "Durante un convegno alla Pontificia Università Gregoriana, promosso dall'Ucsi e dall'Ordine dei giornalisti del Lazio, è emerso con forza il messaggio che la tecnologia e l'intelligenza artificiale non possono prescindere dalla componente umana. Il dibattito si è concentrato sulla deontologia professionale e sulla necessità di salvaguardare la verità e il bene comune contro i rischi della manipolazione digitale. Paolo Ruffini ha sottolineato che senza il riscontro dei fatti non può esserci verità né fiducia, invitando i professionisti a un uso etico e responsabile dei nuovi strumenti tecnologici. Lo riferisce Vatican News (italiano).",
+   "more": [
+    "L'intelligenza artificiale generativa può creare contenuti testuali e visivi indistinguibili dalla realtà, ponendo sfide inedite al mondo dell'informazione. La deontologia giornalistica serve a garantire che il pubblico riceva notizie verificate, mantenendo il controllo umano sulla selezione e validazione delle fonti per prevenire la diffusione di disinformazione."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/mondo/news/2026-10/ia-giornalismo-ruffini-gregoriana-tecnologia.html",
+     "angolo": "",
+     "atlas": "Vatican"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2bc48564",
+   "sez": "salute",
+   "titolo": "Neutralità medica: la World Medical Association adotta la Dichiarazione di Rotterdam",
+   "orig": "Attacks on healthcare: World Medical Association issues new declaration on &#x201C;medical neutrality&#x201D;",
+   "lead": "La World Medical Association (WMA) ha adottato ufficialmente la Dichiarazione di Rotterdam durante la sua assemblea generale dello scorso 10 ottobre, riaffermando il principio della neutralità medica. Il documento chiede con urgenza agli Stati e ai gruppi armati di proteggere il personale sanitario, i pazienti e le infrastrutture mediche durante i conflitti bellici. Il presidente Jung Yul Park ha ribadito che i medici hanno il dovere di fornire cure imparziali a chiunque, indipendentemente dal ruolo nel conflitto, e devono essere liberi di operare senza subire attacchi o dover partecipare a operazioni militari. Lo riferisce The BMJ.",
+   "more": [
+    "La neutralità medica è un principio fondamentale del diritto internazionale umanitario che garantisce l'immunità a chi fornisce cure in zone di guerra. Questo concetto deriva dalle Convenzioni di Ginevra e mira a garantire che l'assistenza sanitaria non venga utilizzata come arma o negata per motivi politici o militari, preservando la dignità umana anche nei contesti di crisi."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101124.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z957a2675",
+   "sez": "ingegneria",
+   "titolo": "Città del Messico: nuovi hub sociali per la cultura e l'aggregazione",
+   "orig": "Città del Messico social",
+   "lead": "La capitale del Messico sta vivendo una trasformazione urbana focalizzata sulla creazione di nuovi centri hub dedicati al sociale, alla cultura e al tempo libero. Sia il settore pubblico sia quello privato stanno promuovendo una serie di interventi architettonici emblematici volti a favorire l'aggregazione dei cittadini in spazi polifunzionali. Questi hub rappresentano un'apertura verso modelli di sviluppo urbano più inclusivi, cercando di recuperare aree degradate o sottoutilizzate per restituirle alla comunità come luoghi di scambio e creatività. Lo riferisce Abitare.",
+   "more": [
+    "L'urbanistica sociale si occupa di progettare spazi che riducano le disuguaglianze e favoriscano l'interazione tra diverse classi sociali. In grandi metropoli come Città del Messico, questi interventi sono fondamentali per decongestionare il traffico e creare micro-comunità autonome dotate di servizi culturali e ricreativi facilmente accessibili."
+   ],
+   "fonti": [
+    {
+     "n": "Abitare",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.abitare.it/it/architettura/progetti/2026/10/07/citta-messico-social/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7c9866be",
+   "sez": "economia",
+   "titolo": "Manovra economica: il governo valuta la flat tax al 5% e il taglio dell'Irpef",
+   "orig": "Incognita clausola di salvaguardia sui tempi della manovra. Giorgetti: 'Chi può contribuisca'",
+   "lead": "In Italia si discute la prossima legge di bilancio, con il ministro dell'Economia Giancarlo Giorgetti che ha invitato chi possiede maggiori risorse a contribuire, sottolineando la necessità di flessibilità europea per sostenere le famiglie. Mentre il governo valuta la proroga della tassazione agevolata al 5% sui rinnovi contrattuali nel settore privato, restano incertezze sui tempi e sul possibile rinvio del taglio dell'Irpef. Contemporaneamente, l'Istat segnala come l'aumento dei prezzi stia mettendo a dura prova i redditi dei cittadini, complicando il quadro degli interventi previsti nella manovra finanziaria per il prossimo anno.",
+   "more": [
+    "La legge di bilancio è il principale documento di programmazione economica con cui uno Stato definisce le entrate e le uscite per l'anno successivo. In Italia, la sua approvazione segue un iter parlamentare rigoroso e deve tenere conto dei vincoli stabiliti a livello europeo, bilanciando le necessità di crescita con il controllo del debito pubblico e la tutela del potere d'acquisto dei cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/12/giorgetti-litalia-dimostra-di-saper-mantenere-impegni-percorso-conti-e-sostenibile_07500243-a9f1-4192-8a50-6781953f4c0f.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/manovra_flat_tax_prorogata_per_chi_quando_simulazioni-9820701.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/13/news/manovra_taglio_irpef_flat_tax-425644038/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4b738444",
+   "sez": "sport",
+   "titolo": "Basket: venduta all'asta per 20 milioni la maglia di Michael Jordan",
+   "orig": "Michael Jordan Last Dance jersey sells for record $20m",
+   "lead": "Una maglia indossata dalla leggenda del basket Michael Jordan durante la seconda partita delle finali NBA del 1998, storicamente note come \"The Last Dance\", è stata venduta all'asta per la cifra record di 20 milioni di dollari. Si tratta del prezzo più alto mai pagato per un cimelio legato al mondo della pallacanestro, superando ogni precedente primato del settore. L'indumento sportivo rappresenta un pezzo iconico della carriera della star dei Chicago Bulls, simbolo di una delle stagioni più celebrate nella storia dello sport mondiale per il suo impatto culturale e atletico. Lo riferisce ABC News Australia.",
+   "more": [
+    "Il collezionismo di cimeli sportivi riguarda oggetti appartenuti a atleti celebri, come divise o attrezzature utilizzate in momenti storici. Questi articoli acquistano valore nel tempo per la rarità e per il legame emotivo con eventi significativi che hanno segnato l'immaginario collettivo, diventando veri e propri beni d'investimento per i collezionisti di tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-13/michael-jordan-last-dance-jersey-sold-record-price/107259074",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z72ad61b3",
+   "sez": "adolescenti",
+   "titolo": "Missione in Antartide: un team speciale per salvare una storica base",
+   "orig": "Race against time to save Antarctic base",
+   "lead": "Un team di otto persone, tra cui un falegname e un portalettere, si sta preparando per una missione di cinque mesi in Antartide con l'obiettivo di salvare una storica base britannica. La squadra ha intrapreso un addestramento specializzato che include corsi di sopravvivenza in mare, primo soccorso e nozioni di \"pinguinologia\", fondamentali per operare nel difficile ambiente polare. La missione mira a preservare un sito di grande importanza storica per la ricerca scientifica del Regno Unito, sfidando condizioni climatiche estreme e tempi ristretti per completare i lavori necessari. Lo riferisce BBC Newsround.",
+   "more": [
+    "L'Antartide è un territorio quasi interamente coperto dai ghiacci e dedicato esclusivamente alla ricerca scientifica internazionale. Le basi operative in questa regione fungono da centri nevralgici per studi climatici e biologici, ma richiedono una manutenzione costante a causa delle temperature estremamente basse e dell'isolamento geografico che rende difficili i rifornimenti e gli spostamenti."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/articles/ck87z121rn01o",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino",
+   "sub": "sport"
+  },
+  {
+   "id": "z16ff5da9",
+   "sez": "tech",
+   "titolo": "Attacchi d'Ucraina ai data center russi: crisi per i servizi internet",
+   "orig": "Ukrainian drone strikes have plunged Russia’s internet into crisis. Meduza explains why the damage has been so extensive, and why a full recovery will likely take months.",
+   "lead": "Una serie di attacchi condotti con droni dalle forze ucraine ha colpito infrastrutture tecnologiche vitali in Russia, provocando una grave crisi nella gestione dei servizi internet del Paese. Tra l'8 e l'11 ottobre sono stati presi di mira i data center del colosso tech Yandex nelle regioni di Vladimir, Ryazan e Kaluga, causando danni estesi che richiederanno mesi per un ripristino completo. Le incursioni mirate hanno messo in evidenza la vulnerabilità delle reti digitali russe, con impatti significativi sulla stabilità dei servizi online a causa della distruzione di server e nodi di connessione fondamentali. Lo riferisce Meduza.",
+   "more": [
+    "Un data center è una struttura fisica che ospita grandi quantità di server necessari per l'archiviazione e la distribuzione di dati e servizi internet. Queste infrastrutture sono il cuore del mondo digitale e la loro compromissione può causare l'interruzione di servizi essenziali per cittadini e imprese, richiedendo interventi tecnici altamente specializzati per la riparazione dei sistemi hardware e software."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/cards/ukrainian-drone-strikes-have-plunged-russia-s-internet-into-crisis-meduza-explains-why-the-damage-has-been-so-extensive-and-why-a-full-recovery-will-likely-take-months",
+     "angolo": "",
+     "atlas": "Russia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9ce1a5fc",
+   "sez": "musica",
+   "titolo": "Duran Duran: la band si prepara allo speciale di Halloween a Londra",
+   "orig": "Duran Duran, l’intervista al Guardian: “Sembriamo dei tipi delicati, tutti truccati, ma in realtà siamo molto tosti”",
+   "lead": "In un'intervista rilasciata al Guardian, i componenti dei Duran Duran hanno sfidato la propria immagine pubblica, dichiarando di essere molto più tenaci di quanto i loro look ricercati possano suggerire. La storica band britannica si sta preparando per il tradizionale spettacolo di Halloween, previsto per il 31 ottobre alla O2 Arena di Londra, un appuntamento diventato ormai un'occasione per sperimentare scenografie spettacolari e travestimenti inediti. Il gruppo continua a rinnovare il proprio repertorio, mantenendo un legame saldo con i propri fan attraverso performance che uniscono musica e arti visive in modo teatrale. Lo riferisce OndaRock.",
+   "more": [
+    "I gruppi musicali che hanno segnato epoche specifiche spesso costruiscono un'identità visiva molto forte. La capacità di evolversi mantenendo la rilevanza dopo decenni di carriera dipende sia dalla produzione artistica che dalla capacità di creare eventi unici, come i concerti a tema, che trasformano la performance in un'esperienza immersiva per il pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/duran-duran-intervista-sembriamo-tipi-delicati-siamo-molto-tosti-simon-le-bon/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb90e9683",
+   "sez": "salute",
+   "titolo": "Polemiche al summit MAHA negli USA per la presenza di Tyson e Brand",
+   "orig": "MAHA Summit platformed controversial celebrities and forgot its political base",
+   "lead": "Il recente vertice \"Make America Healthy Again\" (MAHA) è finito al centro delle polemiche per la scelta di ospitare come relatori Mike Tyson e Russell Brand, figure coinvolte in gravi vicende giudiziarie legate a reati sessuali. Secondo gli osservatori, la presenza di personalità così controverse rischierebbe di screditare il movimento e di creare una spaccatura tra la dirigenza e i sostenitori, prioritizzando l'approvazione di celebrità problematiche rispetto alle reali preoccupazioni sulla salute pubblica. L'evento, volto a promuovere il benessere negli Stati Uniti, ha sollevato dubbi sull'etica e sulla coerenza del messaggio proposto. Lo riferisce The BMJ.",
+   "more": [
+    "I movimenti che promuovono la salute pubblica cercano spesso il supporto di figure pubbliche per aumentare la propria visibilità. Tuttavia, la scelta dei testimonial è critica, poiché la reputazione dei portavoce può riflettersi sulla credibilità delle proposte scientifiche, influenzando l'accoglienza dei programmi da parte dell'opinione pubblica e delle istituzioni sanitarie."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101106.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1a6cc4f2",
+   "sez": "cultura",
+   "titolo": "Giappone: cresce il numero di giovani senza esperienze sentimentali",
+   "orig": "Dating Decline: More Young Japanese Have Never Been in a Relationship",
+   "lead": "Un sondaggio condotto dal governo giapponese ha rivelato un aumento costante del numero di giovani che dichiarano di non aver mai vissuto un'esperienza romantica o una relazione sentimentale. I dati evidenziano un declino significativo nella socializzazione amorosa tra le nuove generazioni in Giappone, un fenomeno che preoccupa le autorità per le possibili ricadute demografiche e sociali sul lungo periodo. La tendenza sembra consolidarsi anno dopo anno, confermando un cambiamento profondo nelle abitudini e nelle priorità dei giovani adulti nel Paese asiatico, sempre meno inclini alla formazione di coppie tradizionali. Lo riferisce Nippon.com.",
+   "more": [
+    "Le dinamiche sociali relative alle relazioni interpersonali in alcuni Paesi industrializzati stanno subendo trasformazioni radicali dovute a fattori economici e culturali. Questi cambiamenti possono influenzare i tassi di natalità e la struttura della società, spingendo le istituzioni a studiare nuove strategie per favorire l'integrazione sociale e il benessere dei cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/japan-data/h02910/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z74ea11cd",
+   "sez": "salute",
+   "titolo": "Milano ospita la mostra sensoriale dedicata al comfort acustico",
+   "orig": "Viaggio nel comfort acustico",
+   "lead": "A Milano è stata organizzata la mostra \"Sentirsi bene\", un'iniziativa curata da Tecnoasfalti che propone ai visitatori un viaggio sensoriale dedicato all'importanza del comfort acustico per il benessere quotidiano. L'esposizione esplora il valore del silenzio come risorsa fondamentale per la qualità della vita, guidando il pubblico attraverso un percorso che evidenzia come l'ambiente sonoro influenzi la salute fisica e mentale. Attraverso installazioni specifiche, la mostra sottolinea la necessità di progettare spazi abitativi e lavorativi che tutelino l'individuo dal rumore eccessivo, promuovendo una nuova cultura del benessere legata ai sensi. Lo riferisce Abitare.",
+   "more": [
+    "Il comfort acustico riguarda lo studio e la progettazione degli ambienti per minimizzare il disturbo causato dai rumori esterni e interni. Questo campo dell'ingegneria utilizza materiali isolanti e tecniche di assorbimento del suono per migliorare la vivibilità degli edifici, riducendo lo stress e migliorando la concentrazione in contesti urbani densamente popolati."
+   ],
+   "fonti": [
+    {
+     "n": "Abitare",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.abitare.it/it/eventi/2026/10/06/tecnasfalti-esperienza-suono-benessere/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbcc11e31",
+   "sez": "musica",
+   "titolo": "Lovebites: la band heavy metal sospende i concerti per il 2027",
+   "orig": "Heavy Metal Band Lovebites Suspend Live Performances for 2027",
+   "lead": "La band heavy metal giapponese Lovebites ha annunciato la sospensione di tutte le esibizioni dal vivo per l'intero anno 2027. Nonostante lo stop ai concerti, la formazione continuerà a lavorare su nuovi progetti discografici e sulla composizione di nuova musica durante questo periodo di pausa dalle scene. La decisione permetterà ai membri del gruppo di concentrarsi sulla produzione creativa in studio, mantenendo comunque attivo il legame con la propria etichetta e i sostenitori in vista di futuri sviluppi artistici che saranno definiti nei prossimi mesi. Lo riferisce Anime News Network.",
+   "more": [
+    "Le pause dalle attività concertistiche sono momenti comuni nella carriera dei gruppi musicali, spesso necessari per dedicarsi esclusivamente alla scrittura di nuovi album. Questi periodi lontano dai riflettori non indicano uno scioglimento, ma rappresentano una fase strategica per l'evoluzione del sound di una band e per la pianificazione di future tournée internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-12/heavy-metal-band-lovebites-suspend-live-performances-for-2027/.242754",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zef355dc4",
+   "sez": "organizzazioni",
+   "titolo": "Esercitazione nucleare Nato in Italia e nuovi piani NASA sulla Luna",
+   "orig": "Al via l’esercitazione nucleare della Nato nei cieli italiani: coinvolte le basi aeree di Aviano e Ghedi",
+   "lead": "Nei cieli italiani ha preso il via un'esercitazione nucleare della Nato che coinvolge direttamente le basi aeree di Aviano e Ghedi, con la partecipazione di personale e mezzi degli Stati Uniti e della Turchia. Mentre la Francia ha scelto di non aderire all'iniziativa, restando fuori dal Gruppo di pianificazione nucleare dell'Alleanza, l'operazione si concentra sull'addestramento e sulla manutenzione per la sicurezza collettiva. Parallelamente, nel campo della ricerca tecnologica, la NASA sta sviluppando un reattore a fissione nucleare da installare sulla Luna entro il 2030, fondamentale per alimentare le future basi lunari e sostenere l'esplorazione umana verso Marte.",
+   "more": [
+    "Le esercitazioni militari congiunte permettono alle nazioni alleate di testare il coordinamento delle forze e la prontezza operativa. L'energia nucleare a fissione è invece considerata una soluzione promettente per le missioni spaziali a lungo termine, poiché offre una fonte di energia costante e potente, indipendente dalla luce solare, indispensabile per il sostentamento di habitat umani su altri corpi celesti."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/al-via-l-esercitazione-nucleare-nato-cieli-italiani-coinvolte-basi-aeree-aviano-e-ghedi-AJh7WihB",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/la-nasa-punta-sul-reattore-nucleare-sulla-luna-per-le-future-basi-ed-esplorazioni-entro-il-2030/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7f897e7e",
+   "sez": "sport",
+   "titolo": "Rugby: l'allenatore Jake White punta al rilancio delle Fiji",
+   "orig": "Jake White: The South African master tactician believes Fiji rugby's 'great ascent starts now'",
+   "lead": "L'esperto tattico sudafricano Jake White, nuovo capo allenatore dei Flying Fijians, ha dichiarato che la grande ascesa del rugby delle Fiji inizia proprio ora. White ha fissato come obiettivo principale la preparazione fisica e tecnica dei giocatori per arrivare nelle migliori condizioni possibili alla Coppa del Mondo di Rugby del 2027, che si terrà in Australia. L'allenatore è convinto che il potenziale degli atleti figiani possa essere pienamente valorizzato attraverso un programma di crescita strutturato, portando la nazionale a competere ai massimi livelli mondiali nei prossimi anni. Lo riferisce RNZ Pacific.",
+   "more": [
+    "Il rugby a quindici è uno sport di squadra molto popolare in Oceania, dove nazioni come le Fiji vantano una grande tradizione. La preparazione per un mondiale richiede anni di lavoro per affinare le tattiche di gioco e la resistenza degli sportivi, oltre a una gestione professionale del gruppo per competere contro le potenze storiche di questa disciplina."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1871346/jake-white-the-south-african-master-tactician-believes-fiji-rugby-s-great-ascent-starts-now",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z15ef32de",
+   "sez": "musica",
+   "titolo": "Robot Festival a Bologna: la diciassettesima edizione celebra l'errore",
+   "orig": "Robot Festival - La sintassi dell’errore",
+   "lead": "Il Robot Festival è giunto alla sua diciassettesima edizione, presentandosi quest'anno al pubblico con l'enigmatico titolo “Syntax Error”. La kermesse, dedicata alla musica elettronica e alle arti digitali, prosegue il suo percorso di ricerca sonora esplorando il concetto di errore come elemento creativo all'interno della sintassi musicale contemporanea. L'evento si conferma un punto di riferimento per gli appassionati del genere, offrendo un ricco programma di performance dal vivo e installazioni multimediali che mettono in dialogo tecnologia e sperimentazione artistica in un contesto internazionale. Lo riferisce OndaRock.",
+   "more": [
+    "I festival di musica elettronica sono manifestazioni che celebrano l'unione tra innovazione tecnologica e creatività sonora. Questi eventi ospitano artisti che utilizzano strumenti digitali avanzati per produrre suoni inediti, spesso accompagnati da installazioni visuali. Tali rassegne fungono da laboratori culturali dove vengono testate nuove forme di linguaggio espressivo che influenzano la scena musicale globale."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/livereport/2026-robotfestival17/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z94159db0",
+   "sez": "salute",
+   "titolo": "Vendita dei dati dei pazienti: l'allarme degli esperti di IA",
+   "orig": "Governments selling patient data are &#x201C;betraying&#x201D; their people, says AI expert",
+   "lead": "Ricardo Baptista Leite, amministratore delegato di HealthAI, ha duramente criticato i governi che vendono i dati dei pazienti, definendo tale pratica un tradimento della fiducia dei cittadini. Intervenendo al forum European Health Forum Gastein, l'esperto ha avvertito che esiste un pericoloso squilibrio di potere tra le grandi aziende tecnologiche e la società civile. Secondo Leite, questa disparità di conoscenze rischia di aggravare le disuguaglianze sanitarie globali se non verranno introdotte regolamentazioni rigorose per l'uso etico e responsabile dei dati sensibili in ambito medico. Lo riferisce The BMJ.",
+   "more": [
+    "La protezione dei dati personali in ambito sanitario è un tema centrale nel dibattito bioetico. Le informazioni mediche sono estremamente sensibili e la loro gestione tramite algoritmi offre grandi opportunità per la diagnosi, ma solleva anche rischi legati alla privacy. Una regolamentazione efficace è necessaria per garantire che l'innovazione non comprometta i diritti fondamentali dei pazienti."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101119.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf86db748",
+   "sez": "viaggi",
+   "titolo": "Congo: si chiude a Kinshasa il Festival mondiale della musica e del turismo",
+   "orig": "Clôture de la 2e édition du Festival mondial de la musique et du tourisme à Kinshasa",
+   "lead": "Si è conclusa a Kinshasa la seconda edizione del Festival mondiale della musica e del turismo, dopo tre giorni di eventi dedicati alla valorizzazione del patrimonio culturale e naturale della Repubblica Democratica del Congo. La cerimonia di chiusura, svoltasi sabato 10 ottobre 2026, ha segnato il successo di una manifestazione che ha visto alternarsi spettacoli musicali e attività promozionali volte a rilanciare l'immagine turistica del Paese. Il festival ha rappresentato un'importante vetrina per le tradizioni locali, promuovendo il dialogo tra artisti internazionali e la ricchezza del patrimonio congolese. Lo riferisce Radio Okapi.",
+   "more": [
+    "I festival internazionali che uniscono musica e turismo sono strumenti strategici per la promozione economica di una nazione. Queste manifestazioni attirano visitatori e creano opportunità per gli artisti locali, contribuendo a rafforzare l'identità nazionale attraverso la celebrazione di canti e danze tradizionali, favorendo al contempo una narrazione positiva del territorio a livello globale."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/12/actualite/culture/cloture-de-la-2e-edition-du-festival-mondial-de-la-musique-et-du",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb59232f8",
+   "sez": "ingegneria",
+   "titolo": "Design e materiali: le sperimentazioni con la resina di Draga e Aurel",
+   "orig": "Trasparenze multicolor",
+   "lead": "Gli artisti Draga e Aurel stanno esplorando le potenzialità della resina attraverso una serie di sperimentazioni che puntano sulla versatilità e sulla fluidità del materiale. La loro ricerca estetica si concentra sull'uso di trasparenze multicolori per creare oggetti unici in grado di interagire con la luce e lo spazio circostante, sfidando le distinzioni tra decorazione funzionale e opera d'arte. Il progetto evidenzia come materiali versatili possano essere trasformati attraverso un linguaggio creativo innovativo, dando vita a forme che portano l'ingegneria dei materiali verso nuove frontiere artistiche. Lo riferisce Abitare.",
+   "more": [
+    "La resina è un composto polimerico molto utilizzato nel design per la sua capacità di assumere qualsiasi forma e colore. Grazie alla sua trasparenza e resistenza, permette ai progettisti di creare effetti visivi di grande profondità. La sua lavorazione richiede precisione tecnica e sensibilità artistica, rendendola ideale per la realizzazione di pezzi unici di alto valore estetico."
+   ],
+   "fonti": [
+    {
+     "n": "Abitare",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.abitare.it/it/design/prodotti/2026/10/05/draga-aurel-arredi-da-artisti/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd0197089",
+   "sez": "mondo",
+   "titolo": "Annunciati i Premi Nobel per la scienza 2026",
+   "orig": "And the science Nobels for 2026 go to …",
+   "lead": "Sono stati annunciati i premi Nobel per la scienza del 2026, che hanno premiato ricerche rivoluzionarie in diversi campi della conoscenza umana. I massimi riconoscimenti sono stati assegnati per lo studio di una cosiddetta finestra ghiacciata sul cosmo, per lo sviluppo di un innovativo interruttore luminoso capace di controllare le funzioni cerebrali e per la risoluzione del mistero legato alle molecole a immagine speculare. Queste scoperte aprono nuove frontiere nella fisica spaziale, nel trattamento di complessi disturbi neurologici e nella chimica di precisione, confermando il ruolo cruciale della ricerca scientifica per il progresso dell'umanità intera. Lo riferisce Science News Explores.",
+   "more": [
+    "Il Premio Nobel è la più alta onorificenza mondiale per l'intelletto umano, assegnato a chi ha apportato i maggiori benefici all'umanità. I premi per le discipline scientifiche riconoscono progressi teorici o sperimentali che cambiano radicalmente la nostra comprensione della natura o permettono lo sviluppo di tecnologie salvavita, influenzando profondamente l'evoluzione della società moderna."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/science-nobel-prizes-2026",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc0d266a4",
+   "sez": "manga",
+   "titolo": "Texas: chiude definitivamente la convention Kawacon",
+   "orig": "Texas' Kawacon Anime, Gaming Convention Ends After 5 Years",
+   "lead": "Dopo cinque anni di attività, la Kawacon, nota convention dedicata al mondo degli anime e del gaming in Texas, ha annunciato la chiusura definitiva. L'ultima edizione dell'evento si è svolta tra il 3 e il 5 luglio scorsi presso l'Henry B. Gonzalez Convention Center di San Antonio, segnando la fine di un appuntamento che era diventato un importante punto di ritrovo per gli appassionati della cultura giapponese nella regione. La decisione pone fine a un progetto durato un lustro, che aveva cercato di unire comunità diverse attraverso la passione per l'animazione e l'intrattenimento interattivo. Lo riferisce Anime News Network.",
+   "more": [
+    "Le convention di anime e videogiochi sono eventi che riuniscono i fan per celebrare la cultura pop, includendo gare di cosplay e incontri con autori. Questi raduni svolgono un ruolo fondamentale nel creare comunità locali e supportare il mercato dell'intrattenimento, ma la loro sostenibilità dipende da complessi fattori logistici e dalla partecipazione costante del pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-12/texas-kawacon-anime-gaming-convention-ends-after-5-years/.242746",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z759ecc64",
+   "sez": "economia",
+   "titolo": "Debiti e fisco: stop ai pignoramenti e ultime scadenze per i bonus",
+   "orig": "Sovraindebitamento, proposta Fdi: fino a 180 giorni di stop ai pignoramenti",
+   "lead": "In Italia è stata presentata alla Camera una proposta di legge da parte di Fratelli d'Italia per contrastare il sovraindebitamento, che prevede uno stop ai pignoramenti fino a 180 giorni per chi cerca di risanare le proprie finanze. Parallelamente, i contribuenti hanno ancora pochi giorni per recuperare il trattamento integrativo, noto come ex bonus Renzi, attraverso la dichiarazione dei redditi 730. La misura può garantire ai lavoratori dipendenti una somma fino a 1.200 euro in busta paga, a patto di verificare i requisiti e procedere con le pratiche fiscali entro le scadenze imminenti stabilite dalla normativa.",
+   "more": [
+    "Il pignoramento è un atto legale con cui si sottraggono beni a un debitore per soddisfare i crediti, mentre il sovraindebitamento si verifica quando non è più possibile pagare i debiti con il reddito disponibile. Le misure di protezione e i bonus fiscali sono strumenti utilizzati per sostenere il potere d'acquisto delle famiglie in difficoltà finanziaria."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/sovraindebitamento-proposta-fdi-fino-180-giorni-stop-pignoramenti-AJtyuehB",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/13/news/ex_bonus_renzi_come_recuperare_730_trattamento_integrativo-425643680/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdc92b958",
+   "sez": "spazio",
+   "titolo": "Australia: la NASA studia la struttura d'impatto Spider Crater",
+   "orig": "An Impact Structure With Legs",
+   "lead": "La NASA ha diffuso nuovi dettagli riguardanti lo Spider Crater, una suggestiva struttura d'impatto situata in Australia che deve il suo nome alla singolare forma che ricorda un ragno. La formazione geologica è il risultato della collisione di un oggetto extraterrestre con la superficie terrestre avvenuta in tempi remoti, lasciando tracce ancora oggi studiate dagli esperti. L'interesse per questo sito risiede nella sua particolare morfologia, che offre importanti indizi sulla dinamica degli impatti meteoritici e sulla storia evolutiva della crosta terrestre in quella specifica area del continente oceanico. Lo riferisce Nasa.",
+   "more": [
+    "I crateri da impatto sono depressioni formate dalla collisione di meteoriti o asteroidi con un pianeta. Queste strutture sono fondamentali perché conservano informazioni sulla composizione dei corpi celesti e sulla forza degli eventi che hanno modellato i paesaggi. In Australia, la stabilità geologica ha permesso la conservazione di molti di questi siti, rendendoli preziosi per la scienza."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb295d148",
+   "sez": "salute",
+   "titolo": "Medicina e arte: torna dopo vent'anni la Medics’ Revue 2026",
+   "orig": "The BMJ Medics&#x2019; Revue 2026: sincere silliness",
+   "lead": "Dopo una pausa che durava dal 2000, quest'anno è tornata in scena la \"Medics’ Revue 2026\", uno storico spettacolo teatrale realizzato interamente da personale medico e professionisti della sanità. L'evento ha visto chirurghi e assistenti vestire i panni di ballerini, musicisti e attori, mettendo in mostra talenti artistici in una serata dedicata alla satira lontano dalle corsie degli ospedali. La manifestazione rappresenta un importante momento di aggregazione per la comunità medica, offrendo l'opportunità di esplorare linguaggi creativi e rafforzare i legami professionali attraverso la condivisione di un'esperienza culturale di lunga tradizione. Lo riferisce The BMJ.",
+   "more": [
+    "Le rassegne teatrali realizzate da categorie professionali permettono ai lavoratori di esprimere creatività attraverso l'ironia e l'arte. Nel caso della medicina, queste tradizioni hanno spesso una finalità di coesione sociale, aiutando i professionisti a gestire lo stress lavorativo e a mostrare un volto più umano di professioni solitamente associate a contesti di grande rigore."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-100457.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z25f07dd4",
+   "sez": "tech",
+   "titolo": "Dati polacchi gestiti da Pegasus: accesso consentito al produttore israeliano",
+   "orig": "Israeli producer had access to data harvested by Poland using Pegasus spyware, say prosecutors",
+   "lead": "Gli inquirenti polacchi hanno rivelato che il produttore israeliano del software spia Pegasus ha avuto accesso ai dati raccolti dalle autorità polacche durante le operazioni di sorveglianza. L'indagine si concentra sull'acquisto e sull'impiego del programma da parte del precedente governo di Varsavia, sollevando seri interrogativi sulla sicurezza delle informazioni sensibili dei cittadini monitorati. La magistratura sta esaminando i contratti e le modalità di utilizzo per determinare l'estensione dell'accesso esterno ai database nazionali, in un caso che mette in luce potenziali violazioni della sovranità digitale. Lo riferisce Notes from Poland.",
+   "more": [
+    "Pegasus è uno strumento di spionaggio avanzato progettato per infiltrarsi segretamente negli smartphone, permettendo di estrarre messaggi, foto, contatti e di attivare microfono e fotocamera da remoto senza che l'utente se ne accorga, rendendolo uno dei sistemi di sorveglianza più controversi al mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/10/12/israeli-producer-had-access-to-data-harvested-by-poland-using-pegasus-spyware-say-prosecutors/",
+     "angolo": "",
+     "atlas": "Poland"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z87b6d02f",
+   "sez": "sport",
+   "titolo": "Scacchi: bronzo per il Tagikistan al campionato scolastico asiatico",
+   "orig": "Tajik chess player wins bronze at Asian Schools Chess Championship",
+   "lead": "Il giovane scacchista tagiko Murodali Sayfiev ha conquistato la medaglia di bronzo al Campionato asiatico di scacchi per scuole. Sayfiev ha ottenuto l'importante piazzamento nel torneo di categoria blitz, riuscendo a finire tra i primi tre classificati della competizione internazionale. Il successo dell'atleta rappresenta un traguardo significativo per il movimento scacchistico giovanile del Tagikistan, confermando il talento dei rappresentanti del Paese nelle competizioni continentali dedicate agli studenti. L'evento ha riunito i migliori talenti della regione in una sfida di velocità e strategia. Lo riferisce Asia-Plus.",
+   "more": [
+    "Gli scacchi blitz sono una variante rapida del gioco in cui i giocatori hanno a disposizione un tempo molto limitato per completare tutte le mosse, solitamente meno di dieci minuti a testa, richiedendo riflessi pronti e una grande capacità di calcolo immediato."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/13/tajik-chess-player-wins-bronze-at-asian-schools-chess-championship/",
+     "angolo": "",
+     "atlas": "Tajikistan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z41b91f95",
+   "sez": "ingegneria",
+   "titolo": "The Nimbus: a Shanghai nasce una lounge sanitaria dal design innovativo",
+   "orig": "The Nimbus - uBLOCK Healthcare Hospitality Lounge / LUKSTUDIO",
+   "lead": "Lo studio di progettazione Lukstudio ha trasformato un edificio indipendente di 130 metri quadrati a Shanghai in uno spazio polifunzionale per la United Imaging Healthcare. Il progetto, denominato \"The Nimbus\", ospita un caffè al piano terra e una lounge VIP privata al secondo livello. Ispirandosi al concetto di \"tribù\", il design mira ad ammorbidire i confini dei contesti medici tradizionali, sfumando le linee tra medici e pazienti, interno ed esterno. L'uso strategico della luce crea un ambiente accogliente e curativo, volto a migliorare l'esperienza di ospitalità nel settore sanitario. Lo riferisce ArchDaily.",
+   "more": [
+    "L'architettura d'interni per il settore sanitario si evolve verso la creazione di spazi umanizzati, che riducono l'aspetto sterile e clinico per favorire il comfort psicologico degli utenti attraverso materiali caldi, illuminazione naturale e percorsi che promuovono l'interazione sociale e il relax."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186672/the-nimbus-ublock-healthcare-hospitality-lounge-lukstudio",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfdf9d97e",
+   "sez": "cucina",
+   "titolo": "La ricetta della balti paratha pie dello chef Calum Franklin",
+   "orig": "Calum Franklin’s recipes for balti paratha pie with spicy green chutney",
+   "lead": "Lo chef Calum Franklin presenta la ricetta della balti paratha pie, un pasticcio farcito con curry e accompagnato da un chutney verde piccante. Il piatto si ispira alla cucina balti nata a Birmingham negli anni Settanta, che affonda le sue radici nelle tradizioni pakistane e kashmiri. Franklin ricorda il periodo universitario trascorso nelle Midlands, quando frequentava i locali notturni specializzati in questo stile. La base del curry deve contenere pomodori, cipolle e peperoni, adattando i sapori orientali al palato britannico dell'epoca in una fusione gastronomica originale. Lo riferisce The Guardian – Cucina.",
+   "more": [
+    "Il pane paratha è una focaccia sfogliata e croccante dell'Asia meridionale, mentre lo stile balti si riferisce a un tipo di curry cucinato rapidamente in una padella di metallo, diventato un simbolo della cultura culinaria mista nel Regno Unito."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/12/balti-paratha-pie-spicy-green-chutney-recipes-calum-franklin",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z70f69a8a",
+   "sez": "adolescenti",
+   "titolo": "Cosa sono i teropodi: dai tirannosauri agli uccelli moderni",
+   "orig": "Scientists Say: Theropod",
+   "lead": "Gli scienziati spiegano la classificazione dei teropodi, un gruppo di dinosauri che in passato includeva il celebre Tyrannosaurus rex e che oggi comprende tutti gli uccelli viventi. Questi animali sono caratterizzati dall'essere bipedi e, nel caso delle specie estinte, da una dieta prevalentemente carnivora. La ricerca paleontologica ha dimostrato un legame evolutivo diretto tra i grandi predatori del passato e l'avifauna contemporanea, evidenziando come alcune caratteristiche anatomiche si siano conservate o trasformate nel corso di milioni di anni fino a raggiungere le forme attuali. Lo riferisce Science News Explores.",
+   "more": [
+    "I dinosauri teropodi sono un sottordine apparso nel Triassico superiore; la transizione evolutiva che ha portato alla nascita degli uccelli moderni è uno dei campi di studio più affascinanti della paleontologia, documentando la sopravvivenza di un intero lignaggio all'estinzione di massa."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/scientists-say-theropod-definition-pronunciation",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino",
+   "sub": "giochi"
+  },
+  {
+   "id": "z85002871",
+   "sez": "musica",
+   "titolo": "Jay-Z sotto critica per il suo nuovo documentario HBO",
+   "orig": "The missed opportunity of Jay-Z’s documentary series",
+   "lead": "La nuova serie documentaristica di HBO, \"Jay-Z in 8\", ripercorre la carriera del magnate del rap nel tentativo di riabilitare la sua immagine pubblica, ma riceve critiche per la mancanza di contraddittorio. Negli otto episodi, il miliardario discute la sua vita con il produttore Rick Rubin, soffermandosi su brani come \"Family Feud\". Durante il finale, Jay-Z attacca figure come Al Sharpton e Bill Cosby, definendo il primo un \"estorsore\" per le sue passate critiche alla musica rap. L'opera solleva dubbi sulla preoccupazione dell'artista per l'opinione pubblica invece di offrire un'analisi obiettiva. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "Jay-Z è un rapper e imprenditore di fama mondiale, noto per aver trasformato la propria carriera artistica in un impero commerciale. La sua influenza spazia dalla musica alla gestione sportiva e alla produzione cinematografica, rendendolo una figura centrale nella cultura contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcc4f4a70",
+   "sez": "spazio",
+   "titolo": "Missione SpaceX CRS-35: la NASA lancia ricerche sulla salute",
+   "orig": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+   "lead": "La missione SpaceX CRS-35 della NASA si prepara al lancio da Cape Canaveral per trasportare importanti esperimenti sulla salute umana e vegetale verso la Stazione Spaziale Internazionale. Il carico include studi su organismi resistenti ai farmaci, fondamentali per garantire la sicurezza degli astronauti durante le missioni di lunga durata e per sviluppare nuove cure applicabili sulla Terra. Questa trentacentunesima missione di rifornimento commerciale rappresenta un passo cruciale per l'esplorazione spaziale futura, fornendo dati vitali sulla risposta biologica in condizioni di microgravità estrema. Lo riferisce Nasa.",
+   "more": [
+    "La Stazione Spaziale Internazionale funge da laboratorio unico in orbita, dove l'assenza di peso permette di condurre esperimenti impossibili sulla Terra, accelerando scoperte nel campo della medicina, della biologia e della scienza dei materiali."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbd590530",
+   "sez": "mondo",
+   "titolo": "Tokyo: torna operativo l'autobus acquatico Mizube dal 17 ottobre",
+   "orig": "Tokyo’s Mizube Line Water Bus Returns October 17",
+   "lead": "A Tokyo, il servizio di autobus acquatici della linea Mizube riprenderà la navigazione il 17 ottobre 2026, dopo una sospensione iniziata a gennaio. Il battello percorrerà il fiume Sumida seguendo una rotta fissa con fermate presso i moli di Asakusa Nitenmon, Ryōgoku River Center e il parco marino di Odaiba. Il servizio, gestito dalla città, permette ai passeggeri di salire e scendere senza prenotazione, offrendo un'alternativa economica e panoramica per spostarsi tra i luoghi storici e le aree moderne della baia di Tokyo. Lo riferisce Tokyo Cheapo.",
+   "more": [
+    "Gli autobus acquatici di Tokyo rappresentano un mezzo di trasporto tradizionale e turistico che permette di osservare lo skyline della metropoli dall'acqua, collegando quartieri celebri per i templi con le nuove zone dedicate allo shopping e all'intrattenimento."
+   ],
+   "fonti": [
+    {
+     "n": "Tokyo Cheapo",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://tokyocheapo.com/travel/transport/tokyo-mizube-line-water-bus/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z619d3095",
+   "sez": "tech",
+   "titolo": "Kazakistan: addestramento militare per l'uso dell'IA senza codice",
+   "orig": "Kazakhstan Begins Military AI Training for 75 Personnel",
+   "lead": "Il Kazakistan ha avviato un programma di formazione per 75 membri del personale militare focalizzato sulla creazione di software tramite l'intelligenza artificiale. La particolarità del corso risiede nell'utilizzo di tecnologie che permettono di sviluppare applicazioni senza la necessità di scrivere codice manualmente. Questa iniziativa mira a modernizzare le forze armate del Paese, integrando strumenti digitali avanzati nelle operazioni quotidiane e nella gestione della difesa. L'obiettivo è formare specialisti capaci di implementare soluzioni tecnologiche rapide per rispondere alle nuove sfide della sicurezza. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "Lo sviluppo \"no-code\" permette anche a chi non ha competenze di programmazione di creare applicazioni software complesse, accelerando la digitalizzazione e permettendo una risposta più agile in settori critici come quello governativo e militare."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/kazakhstan-military-ai-training/",
+     "angolo": "",
+     "atlas": "Kazakhstan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zeaa278f4",
+   "sez": "sport",
+   "titolo": "Tunisia: critiche alla Federcalcio per la proposta sulla Coppa d'Africa",
+   "orig": "Au fait du jour : Le vœu n’est qu’une diversion…",
+   "lead": "Il vice-presidente della Federazione Tunisiana di Calcio, Houcine Jenayeh, è stato oggetto di forti critiche dopo aver espresso il desiderio di organizzare una fase finale della Coppa d'Africa in Tunisia. Nonostante il Paese abbia già ospitato l'evento in passato, la proposta è stata interpretata da alcuni osservatori come una manovra di diversione rispetto alle attuali difficoltà del settore sportivo nazionale. La stampa locale sottolinea lo scetticismo intorno a questa uscita, sollevando dubbi sulle reali priorità della dirigenza calcistica in un momento di tensione per il calcio tunisino. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "La Coppa delle Nazioni Africane è il principale torneo calcistico del continente. L'organizzazione richiede requisiti infrastrutturali e finanziari molto rigidi, oltre a una stabilità organizzativa che attualmente è oggetto di dibattito in Tunisia."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/12/au-fait-du-jour-le-voeu-nest-quune-diversion/",
+     "angolo": "",
+     "atlas": "Tunisia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7688a6cf",
+   "sez": "salute",
+   "titolo": "Libia: i dati del Centro Cardiochirurgico di Tajoura per settembre",
+   "orig": "Tajoura's National Center for Cardiac Treatment and Surgery releases September patient stats",
+   "lead": "Il Centro Nazionale per il Trattamento e la Chirurgia Cardiaca di Tajoura, situato a Tripoli, ha pubblicato le statistiche relative alle attività svolte nel mese di settembre. Il rapporto dettaglia il carico di lavoro affrontato dall'Unità di Emergenza Cardiaca e dagli altri reparti specializzati della struttura. La diffusione di questi dati periodici punta a garantire trasparenza sulle prestazioni sanitarie offerte alla popolazione libica e sulla capacità operativa del centro nel gestire patologie cardiovascolari complesse in un'area densamente popolata come quella della capitale. Lo riferisce Libya Herald.",
+   "more": [
+    "La cardiochirurgia si occupa del trattamento delle malattie del cuore attraverso interventi chirurgici complessi, richiedendo personale altamente qualificato e tecnologie avanzate per garantire la cura di pazienti in condizioni spesso critiche."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/10/tajouras-national-center-for-cardiac-treatment-and-surgery-releases-september-patient-stats/",
+     "angolo": "",
+     "atlas": "Libya"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z668ee23c",
+   "sez": "cultura",
+   "titolo": "Londra: aperto un nuovo polo culturale per il cinema africano",
+   "orig": "‘We’re not waiting anymore’: Media mogul Mo Abudu opens a new hub for African cinema in London",
+   "lead": "La produttrice nigeriana Mo Abudu ha inaugurato a Londra \"EbonyLife Place\", un centro culturale dedicato alla celebrazione del cinema africano e della cultura nera. La struttura integra un cinema, un ristorante e una boutique con le creazioni di designer africani e della diaspora. Abudu ha dichiarato che la comunità creativa africana ha deciso di non aspettare più il riconoscimento esterno, creando i propri spazi per raccontare storie autentiche e valorizzare l'identità culturale del continente. L'apertura segna un passo importante per la visibilità globale delle produzioni cinematografiche africane nella capitale britannica. Lo riferisce Euronews.",
+   "more": [
+    "L'industria cinematografica africana, con centri come la nigeriana Nollywood, sta guadagnando una rilevanza internazionale sempre maggiore, portando nuove narrazioni e prospettive estetiche nel mercato globale dell'intrattenimento."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/13/were-not-waiting-anymore-media-mogul-mo-abudu-opens-a-new-hub-for-african-cinema-in-london",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc079c9b3",
+   "sez": "ingegneria",
+   "titolo": "Barcellona: recupero architettonico per la casa Hostafrancs",
+   "orig": "Hostafrancs House / Parramon + Tahull Arquitectes",
+   "lead": "Lo studio Parramon + Tahull Arquitectes ha completato la ristrutturazione della casa \"Hostafrancs\", trasformando un cupo appartamento all'ultimo piano in uno spazio moderno e luminoso. Originariamente, l'abitazione era caratterizzata da soffitti bassi, piccole finestre e una scarsa connessione tra interno ed esterno, oltre a problemi di isolamento e infiltrazioni dal tetto. L'intervento ha puntato a ottimizzare la luce naturale e a creare una fluidità tra le stanze e le terrazze, migliorando drasticamente la vivibilità e risolvendo le criticità strutturali del vecchio edificio urbano. Lo riferisce ArchDaily.",
+   "more": [
+    "La riqualificazione di appartamenti storici o degradati permette di migliorare l'efficienza energetica e il comfort abitativo senza ricorrere a nuove costruzioni, preservando il carattere dei quartieri storici e valorizzando il patrimonio esistente."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186707/hostafrancs-house-parramon-plus-tahull-arquitectes",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6f7be27f",
+   "sez": "adolescenti",
+   "titolo": "Spider-Man e la scienza: è possibile disattivare i superpoteri?",
+   "orig": "Could Spider-Man really turn off his superpowers?",
+   "lead": "Nel fumetto \"Spider-Man: Brand New Day\", il protagonista Peter Parker idea un inibitore dei superpoteri basato su reali terapie a base di RNA, sollevando interrogativi sulla fattibilità scientifica di tale processo. L'analisi esamina come la biologia molecolare del mondo reale ispiri gli autori di fumetti nel creare scenari plausibili per i loro eroi. Confrontando la fantasia con le moderne biotecnologie usate per curare malattie genetiche, viene spiegato come la manipolazione dell'RNA possa influenzare le funzioni cellulari, rendendo concetti scientifici complessi accessibili e affascinanti per un pubblico giovane. Lo riferisce Science News Explores.",
+   "more": [
+    "Le terapie a base di RNA utilizzano molecole per regolare l'attività dei geni senza modificare il DNA in modo permanente, rappresentando una delle frontiere più avanzate della medicina moderna per il trattamento di diverse patologie."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino",
+   "sub": "scienza"
+  },
+  {
+   "id": "zc488a799",
+   "sez": "musica",
+   "titolo": "Dopamine Chamber: il trionfo dei Fontaines DC nel nuovo album",
+   "orig": "Fontaines DC: Dopamine Chamber review – gloomy, gorgeous and a gargantuan triumph",
+   "lead": "I Fontaines DC hanno pubblicato il loro quinto album, \"Dopamine Chamber\", accolto dalla critica come un trionfo inventivo che conferma la band tra le più rilevanti della sua generazione. Il disco esplora temi profondi come il compromesso sociale moderno, paragonandolo a un patto col diavolo per ottenere miglioramenti superficiali, dalla tecnologia ai ritocchi estetici. Le sonorità spaziano tra atmosfere cupe e momenti di grande bellezza, riflettendo sulle ansie collettive legate all'intelligenza artificiale e alla perdita di umanità in un'epoca dominata dal banale e dal distruttivo. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "I Fontaines DC sono una band post-punk originaria di Dublino, apprezzata per i testi poetici e carichi di impegno sociale. La loro musica ha contribuito a ridare vigore al genere rock alternativo negli ultimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/12/fontaines-dc-dopamine-chamber-album-review-xl-grian-chatten",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "NPR – Musica",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/12/nx-s1-5936183/fontaines-dc-dopamine-chamber-interview",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z23606b08",
+   "sez": "manga",
+   "titolo": "HOTEL INHUMANS: disponibile il video della sigla di chiusura",
+   "orig": "Phantom Siita Releases HOTEL INHUMANS Season 2 Anime Ending Song Music Video",
+   "lead": "Le Phantom Siita hanno rilasciato il video musicale della sigla di chiusura per la seconda stagione dell'anime \"HOTEL INHUMANS\". I nuovi episodi della serie sono attualmente disponibili in streaming sulla piattaforma Crunchyroll. La pubblicazione del brano accompagna il debutto stagionale, consolidando l'atmosfera dello show attraverso una produzione visiva e sonora dedicata. Questo lancio rappresenta un tassello importante nella strategia di promozione internazionale dell'opera, volta a catturare l'attenzione dei fan del genere attraverso contenuti cross-mediali che arricchiscono l'esperienza della visione televisiva. Lo riferisce Crunchyroll News.",
+   "more": [
+    "Le sigle negli anime sono elementi artistici curati che contribuiscono all'identità di una serie, diventando spesso successi musicali autonomi che rafforzano il legame tra gli appassionati e le produzioni d'animazione giapponesi."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/13/hotel-inhumans-season-2-anime-ending-song-music-video-phantom-siita",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/13/psyren-anime-opening-song-music-video-clan-queen",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z947dd455",
+   "sez": "spazio",
+   "titolo": "L'immagine NASA del giorno: Giove e le sue lune",
+   "orig": "APOD: 2026 October 12 – Jupiter and the Moons",
+   "lead": "L'immagine del giorno pubblicata dalla NASA per il 12 ottobre 2026 ritrae il maestoso pianeta Giove circondato dalle sue lune. Il servizio Astronomy Picture of the Day (APOD) propone ogni giorno una fotografia diversa dell'universo, accompagnata da una spiegazione scientifica redatta da astronomi professionisti. Lo scatto evidenzia la complessa atmosfera del gigante gassoso e la posizione orbitale dei suoi satelliti naturali, offrendo un'occasione didattica per esplorare la composizione e le caratteristiche dei corpi celesti più grandi del nostro sistema solare. Lo riferisce Nasa.",
+   "more": [
+    "Giove è un gigante gassoso composto principalmente da idrogeno ed elio; possiede un sistema di numerose lune, tra cui spiccano le quattro scoperte da Galileo Galilei, fondamentali per lo studio dell'astronomia e della meccanica celeste."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z740e2592",
+   "sez": "mondo",
+   "titolo": "Mar Nero: due navi colpite da droni, una è affondata",
+   "orig": "Două nave au fost lovite de drone în Marea Neagră, una dintre ele s-a scufundat",
+   "lead": "Due navi sono state colpite da droni nel Mar Nero, al largo della costa bulgara, causando l'affondamento di una delle imbarcazioni. L'annuncio è stato dato dal primo ministro bulgaro Rumen Radev, il quale però non ha fornito dettagli immediati sulla nazionalità o sulla provenienza dei vascelli coinvolti. L'incidente conferma la crescente pericolosità della regione per la navigazione commerciale a causa del conflitto in corso e dell'uso di tecnologie belliche remote. Le autorità locali monitorano la situazione per valutare i rischi ambientali e la sicurezza delle rotte marittime strategiche. Lo riferisce HotNews.",
+   "more": [
+    "Il Mar Nero è una via commerciale cruciale per il trasporto di cereali e risorse energetiche; la presenza di mine e l'impiego di droni marittimi o aerei lo hanno reso una delle zone di navigazione più rischiose al mondo negli ultimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/doua-nave-au-fost-lovite-de-drone-in-marea-neagra-una-dintre-ele-s-a-scufundat-2374352",
+     "angolo": "",
+     "atlas": "Romania"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z16446fa0",
+   "sez": "sport",
+   "titolo": "Africa Orientale: tour parlamentare allo stadio di Arusha",
+   "orig": "Kadaga, Eala MPs tour Arusha stadium",
+   "lead": "Una delegazione di parlamentari dell'Assemblea legislativa dell'Africa orientale (EALA), guidata da Rebecca Kadaga, ha visitato lo stadio di Arusha per valutarne le condizioni. L'iniziativa punta a promuovere l'integrazione regionale attraverso il calcio, con la proposta di un visto unico che permetta ai tifosi di viaggiare facilmente tra Kenya, Tanzania e Uganda durante le competizioni internazionali. La visita mira a garantire che le infrastrutture siano adeguate agli standard richiesti, sfruttando lo sport come volano per lo sviluppo del turismo e della cooperazione tra i Paesi della regione. Lo riferisce The EastAfrican.",
+   "more": [
+    "L'integrazione in Africa Orientale si basa su accordi economici e politici che facilitano lo sviluppo di progetti comuni, rendendo l'area più attraente per grandi eventi sportivi che richiedono una gestione logistica condivisa tra più nazioni."
+   ],
+   "fonti": [
+    {
+     "n": "The EastAfrican",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.theeastafrican.co.ke/tea/news/east-africa/kadaga-eala-mps-tour-arusha-stadium-5629640",
+     "angolo": "",
+     "atlas": "Kenya"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7eb29628",
+   "sez": "salute",
+   "titolo": "OMS: strategia per rilevare nuove pandemie entro 24 ore",
+   "orig": "Africa: WHO Pandemic Hub Sets Ambitious Goal to Detect New Outbreaks Within 24 Hours",
+   "lead": "L'Organizzazione Mondiale della Sanità ha lanciato un nuovo piano quinquennale per il suo Hub per l'Intelligence Pandemica, puntando a rilevare ogni nuova minaccia sanitaria entro 24 ore dalla sua comparsa entro il 2030. La strategia mira a dotare tutti i Paesi delle capacità necessarie per identificare e comprendere i focolai emergenti prima che possano trasformarsi in epidemie globali. Il rafforzamento della sorveglianza rapida è considerato un pilastro della sicurezza sanitaria internazionale, favorendo una risposta tempestiva e coordinata per proteggere le popolazioni da future crisi sanitarie. Lo riferisce allAfrica.",
+   "more": [
+    "L'intelligence epidemiologica consiste nell'analisi sistematica di dati sanitari globali per intercettare segnali precoci di malattie infettive, permettendo l'attivazione immediata di protocolli di contenimento e di ricerca medica a livello mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610130081.html",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2c4d4ac0",
+   "sez": "ingegneria",
+   "titolo": "Brasilia: completata la Lima House dello studio BLOCO",
+   "orig": "Lima House / BLOCO Arquitetos",
+   "lead": "Lo studio BLOCO Arquitetos ha terminato la costruzione di \"Lima House\", una residenza situata nel quartiere Lago Sul di Brasilia. Il progetto, avviato nel 2016 e realizzato in due fasi distinte concluse nel 2018 e nel 2024, si sviluppa interamente su un unico livello interno. La struttura è stata pensata per seguire la pendenza naturale del terreno, percepibile solo esternamente nell'elevazione dell'area della piscina. L'architettura mira a integrare armoniosamente gli spazi abitativi con l'ambiente circostante, rispettando i canoni di accessibilità e linearità tipici della moderna edilizia residenziale brasiliana. Lo riferisce ArchDaily.",
+   "more": [
+    "L'architettura modernista di Brasilia influenza pesantemente il design residenziale locale, favorendo l'uso di linee pulite, cemento a vista e una forte integrazione tra gli spazi coperti e le ampie aree verdi esterne."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1032927/lima-house-bloco-arquitetos",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf77c602c",
+   "sez": "cucina",
+   "titolo": "Lo chef Daniel Humm sogna un ristorante da cui non voler più uscire",
+   "orig": "Chef Daniel Humm Dreams of a Restaurant Where No One Wants to Leave",
+   "lead": "Il celebre chef Daniel Humm riflette sull'apertura del suo ultimo ristorante, descrivendo l'esperienza come una combinazione di follia e romanticismo. Noto a livello mondiale per la sua cucina innovativa, Humm esprime il desiderio di creare un'atmosfera così accogliente e coinvolgente che i clienti non desiderino mai lasciare il locale. L'intervista approfondisce la filosofia gastronomica dello chef, che mira a trasformare l'atto del mangiare in un'esperienza emotiva profonda, curando ogni dettaglio per favorire il benessere e la connessione tra gli ospiti e il cibo di alta qualità. Lo riferisce Bon Appétit.",
+   "more": [
+    "Daniel Humm è lo chef dietro il successo internazionale dell'Eleven Madison Park; recentemente ha fatto scalpore per aver convertito il suo ristorante stellato a una cucina interamente a base vegetale, ponendo l'accento sulla sostenibilità e l'etica alimentare."
+   ],
+   "fonti": [
+    {
+     "n": "Bon Appétit",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.bonappetit.com/story/daniel-humm-dreams-of-a-restaurant-where-no-one-wants-to-leave",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb59e9eb4",
+   "sez": "adolescenti",
+   "titolo": "Scienza: i cani possono leggere le emozioni umane sul viso",
+   "orig": "Anger or fear? Dogs may be able to read it on your face",
+   "lead": "Recenti scansioni cerebrali hanno fornito le prime prove concrete che i cani sono in grado di interpretare alcune espressioni facciali umane, distinguendo tra rabbia e paura. Lo studio evidenzia come il cervello dei canini reagisca in modo specifico alla vista di diverse emozioni, suggerendo una profonda evoluzione delle loro capacità cognitive dovuta alla convivenza millenaria con l'uomo. Questa scoperta scientifica apre nuove prospettive sulla comunicazione interspecifica e sul legame empatico che unisce gli esseri umani ai loro animali domestici, confermando le capacità di osservazione e sensibilità dei compagni a quattro zampe. Lo riferisce Science News Explores.",
+   "more": [
+    "La risonanza magnetica funzionale viene utilizzata in questi studi per mappare le aree cerebrali attive in risposta a stimoli visivi, permettendo di comprendere meglio come gli animali processano le informazioni sociali e affettive provenienti dall'uomo."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino",
+   "sub": "giochi"
+  },
+  {
+   "id": "z344c4460",
+   "sez": "musica",
+   "titolo": "Beach Boys: Mike Love torna sul palco nonostante i problemi di salute",
+   "orig": "The Beach Boys’ Mike Love returns to the stage despite ‘facing serious health challenges’",
+   "lead": "Il co-fondatore e frontman dei Beach Boys, Mike Love, di 85 anni, è tornato a esibirsi a Cincinnati nonostante stia affrontando serie sfide di salute. Love è salito sul palco del PNC Pavilion aiutato dal figlio Christian e dall'attore John Stamos, che ha elogiato il suo coraggio definendolo un mentore musicale. Si tratta della prima apparizione pubblica della band da luglio, dopo mesi di tour cancellati a causa delle condizioni fisiche di Love. Nonostante le difficoltà, l'artista ha voluto partecipare alla performance, regalando ai fan un momento di grande emozione e vicinanza storica. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "I Beach Boys sono tra le band più iconiche del pop rock americano, celebri per le loro armonie vocali e per aver definito il genere del surf rock, influenzando generazioni di musicisti con album storici come Pet Sounds."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/12/beach-boys-live-cincinnati-mike-love-helped-john-stamos-health-issues",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za0392358",
+   "sez": "cultura",
+   "titolo": "Singapore: riapre il ristorante Zen con un bancone in pietra",
+   "orig": "Singapore’s 3-Michelin-star neo-Nordic Restaurant Zen reopens with a local touch",
+   "lead": "Il ristorante Zen di Singapore, insignito di tre stelle Michelin, ha riaperto in agosto dopo tre mesi di ristrutturazione con un design rinnovato. Fondato dallo chef svedese Bjorn Frantzen in una casa storica di Chinatown, il locale ha sostituito il piano terra precedente con un maestoso bancone in pietra da 16 posti. Il nuovo look si ispira ai ristoranti di Frantzen a Stoccolma e Dubai, ma introduce elementi locali che segnano un'evoluzione nel percorso della cucina neo-nordica in Asia. La trasformazione punta a offrire un'esperienza culinaria più intima e diretta tra gli chef e gli ospiti. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "La cucina neo-nordica si concentra sulla valorizzazione di ingredienti regionali e stagionali attraverso tecniche moderne di conservazione e cottura, puntando sulla purezza dei sapori e sull'estetica minimalista del piatto."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/food-drink/article/3370666/singapores-3-michelin-star-neo-nordic-restaurant-zen-reopens-local-touch?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1e9157d7",
+   "sez": "viaggi",
+   "titolo": "Causa persa per una coppia romana: il viaggio di nozze in Kenya era un incubo",
+   "orig": "Viaggio di nozze in Kenya da incubo, muffa e insetti nelle camere da letto: fanno causa all'agenzia ma alla fine pagano loro",
+   "lead": "Una coppia di Roma ha intentato una causa legale contro un'agenzia di viaggi in seguito a una luna di miele in Kenya rivelatasi un'esperienza estremamente negativa. L'hotel a quattro stelle venduto come struttura di lusso presentava, secondo il racconto dei coniugi, muffa e insetti nelle camere da letto. Nonostante le lamentele per le condizioni igieniche precarie che hanno trasformato la vacanza in un incubo, la vicenda giudiziaria si è conclusa a sfavore dei querelanti, che alla fine sono stati condannati a pagare le spese legali. Lo riferisce Il Messaggero.",
+   "more": [
+    "Il Kenya è una delle mete più popolari per il turismo internazionale grazie ai suoi parchi nazionali e ai resort costieri. In ambito legale, i contratti di viaggio prevedono spesso clausole specifiche per il risarcimento del danno da vacanza rovinata, ma la prova del mancato rispetto degli standard qualitativi deve essere rigorosa affinché i viaggiatori possano ottenere un indennizzo."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/abruzzo/viaggio_nozze_incubo_muffa_insetti_risarcimento_coppia_sulmona_cosa_e_successo-9820544.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z55de30df",
+   "sez": "manga",
+   "titolo": "Collaborazione Naruto: arriva il guantone da baseball di Sasuke",
+   "orig": "Naruto x Absolutely Ridiculous Collab Includes Limited Sasuke Baseball Glove",
+   "lead": "Crunchyroll ha annunciato una nuova collaborazione tra il celebre franchise di Naruto e il mondo dello sport, che include il lancio di un guantone da baseball in edizione limitata dedicato al personaggio di Sasuke. La linea di prodotti comprende anche articoli a tema Akatsuki, la nota organizzazione criminale della serie. Questa iniziativa commerciale punta a integrare l'estetica dei popolari ninja giapponesi con l'attrezzatura tecnica sportiva, offrendo ai fan oggetti da collezione funzionali ispirati ai protagonisti del manga e dell'anime. Lo riferisce Crunchyroll News.",
+   "more": [
+    "Naruto è uno dei manga e anime più famosi al mondo, creato da Masashi Kishimoto. La serie segue le avventure di un giovane ninja che sogna di diventare il leader del suo villaggio. Il merchandising legato a questa opera è vastissimo e spazia dai giocattoli all'abbigliamento, arrivando spesso a collaborazioni insolite con settori sportivi o dell'alta moda."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/12/naruto-absolutely-ridiculous-collab-sasuke-baseball-glove",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z501e00e2",
+   "sez": "economia",
+   "titolo": "Botswana: il fondo BPOPF sostiene il piano di ristrutturazione di Letshego",
+   "orig": "BPOPF Backs Letshego Reset",
+   "lead": "Il Botswana Public Officers Pension Fund ha confermato il proprio sostegno al piano di ristrutturazione di Letshego Africa Holdings, impegnandosi a sottoscrivere un'offerta di diritti da 800 milioni di Pula. L'operazione finanziaria è finalizzata a ridurre il debito del gruppo, rafforzare il bilancio e ridurre la presenza della società nel continente africano a favore di una strategia regionale a minor rischio. Nel frattempo, il prestatore ha già estinto completamente una linea di credito di 483 milioni di Pula precedentemente concessa dallo stesso fondo pensione per i dipendenti pubblici.",
+   "more": [
+    "Letshego Africa Holdings è una società di servizi finanziari che opera in diversi mercati africani, offrendo principalmente microfinanza. La strategia di ristrutturazione attuale riflette la necessità per le istituzioni finanziarie operanti nei mercati emergenti di bilanciare la crescita con la sostenibilità del debito, riducendo l'esposizione in aree geografiche considerate eccessivamente volatili o poco redditizie per proteggere il capitale degli investitori."
+   ],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/business-2/bpopf-backs-letshego-reset/",
+     "angolo": "",
+     "atlas": "Botswana"
+    },
+    {
+     "n": "Sunday Standard",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.sundaystandard.info/letshego-clears-p483-million-bpopf-facility/",
+     "angolo": "",
+     "atlas": "Botswana"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zaa61e2a6",
+   "sez": "mondo",
+   "titolo": "Avventuriero britannico torna a casa dopo 28 anni a piedi intorno al mondo",
+   "orig": "British adventurer returns home after 28-year walk around the world",
+   "lead": "L'avventuriero britannico Karl Bushby è tornato in patria dopo aver completato una spedizione a piedi durata 28 anni intorno al mondo. L'impresa ha visto l'uomo percorrere oltre 30.000 miglia partendo dal Cile per arrivare in Inghilterra, concludendo il viaggio con una nuotata attraverso il Canale della Manica. Bushby ha festeggiato il ritorno a casa con il tradizionale pasto a base di fish and chips, mettendo fine a una sfida fisica e mentale decennale iniziata quasi tre decenni fa. Lo riferisce Fox News.",
+   "more": [
+    "Le spedizioni a piedi intorno al mondo sono imprese di resistenza estrema che richiedono non solo capacità fisiche fuori dal comune, ma anche una complessa gestione della logistica attraverso numerosi paesi. Spesso queste avventure hanno lo scopo di testare i limiti delle possibilità umane in contesti naturali e culturali differenti, richiedendo una determinazione costante per lunghissimi periodi di tempo."
+   ],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7a01126e",
+   "sez": "ingegneria",
+   "titolo": "Hōsho House: la casa progettata per resistere ai furti e garantire privacy",
+   "orig": "Hōsho House / israelpacheco arquitectos",
+   "lead": "Lo studio israelpacheco arquitectos ha progettato la Hōsho House, un'abitazione il cui design è stato profondamente influenzato da un precedente episodio di furto con scasso e da una pressante necessità di privacy dei proprietari. Queste circostanze hanno guidato le decisioni architettoniche fondamentali del progetto, portando alla creazione di una struttura che privilegia la sicurezza e l'isolamento visivo. L'edificio rappresenta una risposta funzionale alle preoccupazioni per la protezione domestica, integrando soluzioni spaziali che proteggono l'intimità degli abitanti senza rinunciare ai canoni estetici dell'architettura moderna. Lo riferisce ArchDaily.",
+   "more": [
+    "L'architettura residenziale contemporanea si trova spesso a dover bilanciare l'apertura verso l'esterno con la protezione della sfera privata. Soluzioni come facciate cieche o materiali fonoassorbenti vengono impiegate per trasformare le abitazioni in rifugi sicuri, rispondendo al bisogno degli abitanti di sentirsi protetti di fronte a potenziali intrusioni o alla mancanza di riservatezza urbana."
+   ],
+   "fonti": [
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1186659/hosho-house-israelpacheco-arquitectos",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7f7608bb",
+   "sez": "cucina",
+   "titolo": "Ricette proteiche per il pranzo: le proposte di Bon Appétit",
+   "orig": "What High-Protein, Low-Fuss Recipes Can I Pack for Lunch?",
+   "lead": "La rubrica Dear Bon Appétit ha presentato una selezione di ricette per pranzi al sacco ad alto contenuto proteico e facili da preparare. Tra le proposte suggerite figurano i sandwich ai ceci schiacciati e l'insalata 'green goddess harvest', insieme ad altri piatti scelti per chi necessita di pasti veloci ma nutrienti durante la giornata lavorativa. Questi consigli culinari mirano a offrire alternative salutari e pratiche rispetto ai classici pasti pronti, puntando sulla semplicità degli ingredienti e sulla rapidità di assemblaggio per chi mangia fuori casa. Lo riferisce Bon Appétit.",
+   "more": [
+    "La preparazione dei pasti in anticipo è una pratica diffusa per mantenere un'alimentazione equilibrata nonostante gli impegni quotidiani. Utilizzare legumi e verdure fresche permette di creare piatti bilanciati sotto il profilo dei macronutrienti, garantendo l'apporto energetico necessario senza richiedere lunghe sessioni di cottura, risultando ideale per il consumo in contesti professionali o scolastici."
+   ],
+   "fonti": [
+    {
+     "n": "Bon Appétit",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.bonappetit.com/story/dear-bon-appetit-october-12-back-to-office-recipes",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0afa7d5e",
+   "sez": "adolescenti",
+   "titolo": "Inghilterra: allarme debito record per il supporto agli studenti disabili",
+   "orig": "English councils warn of ‘catastrophic’ Send debts forecast to hit £10bn by 2028",
+   "lead": "I consigli comunali inglesi hanno lanciato un allarme per un debito 'catastrofico' che si prevede raggiungerà i 10 miliardi di sterline entro il 2028 a causa del forte aumento della domanda di supporto per le necessità educative speciali e le disabilità. Nonostante il governo abbia recentemente cancellato debiti storici per oltre 5 miliardi di sterline, l'impennata delle richieste di piani educativi personalizzati sta mettendo a rischio le finanze pubbliche. Esiste il timore concreto di un drastico deterioramento dei livelli di assistenza garantiti agli studenti più vulnerabili nelle scuole inglesi.",
+   "more": [
+    "Il sistema di supporto per i bisogni educativi speciali in Inghilterra è fondamentale per garantire il diritto all'istruzione dei ragazzi con disabilità. Tuttavia, l'aumento dei costi operativi e la crescita del numero di diagnosi mettono sotto pressione le autorità locali, che devono bilanciare l'obbligo legale di fornire assistenza con la limitata disponibilità di fondi pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/education/2026/oct/13/english-councils-catastrophic-send-debts-forecast-2028",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino",
+   "sub": "sport"
+  },
+  {
+   "id": "z8cd13aea",
+   "sez": "musica",
+   "titolo": "Arlo Parks racconta la sua vita attraverso le canzoni del cuore",
+   "orig": "‘I’d wander through the park all angsty listening to Arctic Monkeys’: Arlo Parks’ honest playlist",
+   "lead": "La cantante Arlo Parks ha condiviso una playlist personale, raccontando il legame profondo con i brani che hanno segnato la sua formazione. L'artista ha ricordato di aver ascoltato con passione gli Arctic Monkeys durante le passeggiate al parco da adolescente e di essersi innamorata dei suoni degli Eurythmics fin da bambina. Nella sua selezione figurano anche Lady Gaga e i Portishead, le cui canzoni sono capaci di suscitare in lei forti emozioni, arrivando a commuoverla. Il racconto offre uno sguardo intimo sull'evoluzione musicale di una delle voci più apprezzate del panorama odierno. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "Arlo Parks è una delle voci più apprezzate della scena indie pop contemporanea, nota per i suoi testi poetici e introspettivi. Le selezioni musicali degli artisti offrono spesso uno sguardo privilegiato sulle influenze che plasmano il loro stile, evidenziando come generi diversi, dal rock al pop, possano contribuire alla formazione dell'identità di un musicista."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/11/arlo-parks-honest-playlist-prince-janet-jackson",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc7327ce0",
+   "sez": "salute",
+   "titolo": "Giornata Mondiale della Salute Mentale: ripensare l'integrazione dei pazienti",
+   "orig": "[Editorial] Rethinking lived experience",
+   "lead": "In occasione della Giornata Mondiale della Salute Mentale dell'10 ottobre, The Lancet ha pubblicato un editoriale che invita a ripensare l'integrazione delle esperienze vissute nelle politiche sanitarie. Il tema di quest'anno sottolinea l'importanza di ascoltare le voci delle persone colpite da disturbi mentali per modellare i servizi e le decisioni che influenzano la loro vita. L'articolo evidenzia tuttavia le sfide complesse legate al coinvolgimento diretto e alla co-produzione di strategie di cura, ponendo l'accento sulla necessità di un cambiamento reale nel modo in cui il sistema sanitario interagisce con i pazienti. Lo riferisce The Lancet.",
+   "more": [
+    "La salute mentale è una componente essenziale del benessere generale e le politiche sanitarie moderne cercano sempre più di includere i pazienti nei processi decisionali. Coinvolgere chi ha vissuto in prima persona una patologia permette di sviluppare trattamenti più efficaci e umani, riducendo lo stigma e garantendo che le cure siano rispondenti ai bisogni reali delle persone."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02038-6/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdae26b4e",
+   "sez": "cultura",
+   "titolo": "Hong Kong: la storia dimenticata dei tatuaggi del dopoguerra",
+   "orig": "How Hong Kong’s post-war tattoo scene fused sailor art with Chinese imagery",
+   "lead": "Un progetto fotografico condotto dall'artista Jimmy Shy e dal fotografo Yu Chang sta documentando la storia dei tatuaggi del dopoguerra a Hong Kong. La ricerca si concentra sulla fusione tra l'iconografia tradizionale cinese e l'arte marinaresca occidentale, uno stile unico nato dall'incontro tra marinai stranieri e cultura locale. Gli autori hanno cercato i soggetti direttamente per le strade a partire dal 2023, basandosi sull'istinto per individuare opere spesso nascoste sotto i vestiti. Il lavoro punta a preservare la memoria di un'estetica che sta scomparendo con il passare del tempo. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Il tatuaggio è una forma d'arte che in contesti come Hong Kong ha assunto significati sociali complessi, evolvendosi da simbolo legato a determinati gruppi a espressione artistica riconosciuta. La preservazione visiva di queste opere storiche permette di comprendere gli scambi culturali avvenuti in una città portuale durante periodi di grande trasformazione sociale e storica."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/arts/article/3370577/how-hong-kongs-post-war-tattoo-scene-fused-sailor-art-chinese-imagery?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z07f0469c",
+   "sez": "viaggi",
+   "titolo": "I 50 migliori regali per i viaggiatori: la guida di Condé Nast Traveler",
+   "orig": "The 50 Best Gifts You Can Buy the Traveler in Your Life",
+   "lead": "La rivista Condé Nast Traveler ha pubblicato una lista dei 50 migliori regali destinati a chi ama viaggiare. La selezione include un'ampia gamma di prodotti, dai set di valigie di nuova generazione alle mini fotocamere di tendenza, pensati per soddisfare diverse esigenze durante gli spostamenti. Questa guida all'acquisto mira a offrire suggerimenti pratici e stilosi per sorprendere i viaggiatori con oggetti che coniugano utilità tecnica e design moderno, facilitando l'organizzazione e la documentazione delle avventure in giro per il mondo attraverso accessori innovativi e funzionali. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "Il settore degli accessori per il viaggio è in costante evoluzione grazie all'introduzione di nuovi materiali leggeri e tecnologie intelligenti. Dalle valigie tracciabili agli strumenti fotografici compatti, questi prodotti sono progettati per ottimizzare lo spazio e migliorare l'esperienza del viaggiatore, rendendo gli spostamenti più confortevoli e sicuri in contesti internazionali sempre più dinamici."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/gallery/the-best-travel-gifts",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z276578a4",
+   "sez": "manga",
+   "titolo": "Crunchyroll Manga: nuovi titoli in catalogo, da Record Journey a Strange Pictures",
+   "orig": "Crunchyroll Manga Adds Record Journey, Strange Pictures and More",
+   "lead": "La piattaforma di streaming Crunchyroll ha ampliato il proprio catalogo di fumetti digitali inserendo diverse nuove serie manga. Tra i titoli aggiunti figurano Record Journey e Strange Pictures, che diventano da oggi ufficialmente disponibili per gli utenti del servizio. L'aggiornamento della libreria rientra nella strategia del distributore di diversificare l'offerta per gli appassionati del genere, integrando opere di vari stili e generi narrativi per rispondere alla crescente domanda di contenuti provenienti dal ricco mercato editoriale giapponese e garantendo una maggiore varietà di letture. Lo riferisce Crunchyroll News.",
+   "more": [
+    "I manga sono fumetti prodotti in Giappone che godono di un enorme successo globale. Le piattaforme di distribuzione digitale hanno rivoluzionato il modo in cui i lettori accedono a queste opere, permettendo la pubblicazione quasi simultanea con l'uscita giapponese e offrendo traduzioni ufficiali in molteplici lingue, contrastando così la pirateria online."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/announcements/2026/10/12/record-journey-strange-pictures-crunchyroll-manga",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0d0a678b",
+   "sez": "spazio",
+   "titolo": "Telescopio Hubble: scoperto possibile pianeta di seconda generazione",
+   "orig": "Hubble Spots a Suspected Second-Generation Planet",
+   "lead": "Gli astronomi hanno individuato indizi chimici che suggeriscono la presenza di un pianeta di seconda generazione attorno alla nana bianca HS 0209+0832. La scoperta è avvenuta riesaminando vecchi dati d'archivio del telescopio spaziale Hubble della NASA e i risultati sono stati pubblicati sulla rivista Nature Astronomy. Questi segnali indicano la possibilità che nuovi pianeti possano formarsi dai detriti rimasti dopo che una stella ha esaurito il suo combustibile, offrendo una nuova e affascinante prospettiva sull'evoluzione dei sistemi planetari nelle fasi finali della vita stellare. Lo riferisce Universe Today.",
+   "more": [
+    "Una nana bianca è il nucleo denso che rimane dopo che una stella di medie dimensioni ha terminato il suo ciclo vitale. Generalmente si ritiene che la morte di una stella distrugga i pianeti circostanti, ma la scoperta di corpi celesti di 'seconda generazione' suggerisce che il materiale residuo possa riaggregarsi, sfidando le attuali conoscenze astronomiche."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/hubble-spots-a-suspected-second-generation-planet",
+     "angolo": "",
+     "atlas": "Canada"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdaf95b03",
+   "sez": "tech",
+   "titolo": "Trump promuove la 'super intelligenza' per favorire lo sviluppo dell'IA",
+   "orig": "Trump really wants to make ‘super intelligence’ happen. Is it going to happen?",
+   "lead": "Il presidente Donald Trump sta promuovendo l'uso del termine 'super intelligenza' per riferirsi all'intelligenza artificiale, nel tentativo di cambiare l'opinione pubblica americana sui centri dati necessari per questa tecnologia. Secondo quanto riportato, l'operazione di rebranding mira a rendere più accettabile la costruzione di infrastrutture tecnologiche che finora hanno incontrato resistenze tra i cittadini. Trump starebbe cercando di influenzare la percezione collettiva per favorire lo sviluppo di sistemi di calcolo avanzati negli Stati Uniti, puntando sulla superiorità tecnologica nazionale piuttosto che su meri vantaggi politici immediati. Lo riferisce Egypt Independent.",
+   "more": [
+    "I data center per l'intelligenza artificiale richiedono enormi quantità di energia e spazio, sollevando preoccupazioni ambientali nelle comunità locali. Il tentativo di ridefinire queste tecnologie come 'super intelligenza' fa parte di una strategia comunicativa volta a enfatizzare il potenziale di progresso, cercando di superare lo scetticismo legato agli impatti territoriali di tali impianti industriali."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/trump-really-wants-to-make-super-intelligence-happen-is-it-going-to-happen/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z42f17de1",
+   "sez": "sport",
+   "titolo": "Corea del Sud: calciatori troppo orgogliosi dell'esenzione militare scatenano polemiche",
+   "orig": "South Korea soccer players’ boasts spark rethink of military service exemptions",
+   "lead": "Le recenti dichiarazioni di alcuni calciatori sudcoreani riguardo alle esenzioni dal servizio militare hanno riacceso il dibattito pubblico, portando le autorità a riconsiderare le regole attuali. In un Paese dove la leva obbligatoria è un tema estremamente sensibile per i giovani uomini, le ostentazioni degli atleti hanno rotto la tradizionale cautela con cui veniva affrontato l'argomento. Le esenzioni vengono solitamente concesse per meriti sportivi eccezionali, ma il malcontento sociale scaturito dai toni usati dai calciatori sta spingendo verso una possibile revisione dei criteri di assegnazione di tali privilegi nazionali. Lo riferisce The Japan Times.",
+   "more": [
+    "In Corea del Sud, quasi tutti i cittadini maschi abili devono prestare servizio militare per un periodo che varia dai 18 ai 21 mesi. Gli atleti che ottengono successi internazionali significativi possono beneficiare di programmi alternativi ridotti, ma tale privilegio è spesso oggetto di critiche riguardo all'equità sociale e al dovere civico dei cittadini famosi."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/society/south-korea-military-exemption-rethink/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc1d74355",
+   "sez": "ingegneria",
+   "titolo": "Belgio: realizzata una casa costiera rivestita in legno ispirata ai tetti spioventi",
+   "orig": "four pitched-roof volumes build timber-clad coastal house in belgium",
+   "lead": "Lo studio Vantieghem Talebi ha realizzato in Belgio una casa costiera rivestita in legno, denominata 'House of Cards', caratterizzata da quattro volumi con tetti spioventi. Il progetto segue la geometria a croce asimmetrica di una fondazione preesistente e si ispira alle forme tradizionali delle abitazioni balneari tipiche della costa belga. La struttura combina elementi dell'architettura classica locale con un'estetica moderna, utilizzando materiali naturali per integrare l'edificio nel paesaggio marittimo circostante e ottimizzare la distribuzione degli spazi interni attraverso una progettazione geometrica innovativa e funzionale. Lo riferisce Designboom.",
+   "more": [
+    "L'architettura costiera deve affrontare sfide specifiche legate all'esposizione agli agenti atmosferici e alla necessità di armonizzarsi con l'ambiente. L'uso del legno come rivestimento è una scelta comune per la sua durabilità e per la capacità di invecchiare bene nel tempo, mentre i tetti a forte pendenza facilitano il deflusso dell'acqua piovana nelle regioni nordiche."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/architecture/four-pitched-roof-volumes-timber-clad-coastal-house-of-cards-belgium/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1299a5b1",
+   "sez": "cucina",
+   "titolo": "Pollo al forno con ripieno: la ricetta per una cena settimanale ricca di sapore",
+   "orig": "Schmaltzy Chicken and Stuffing Skillet",
+   "lead": "La rivista Bon Appétit ha proposto una ricetta per una padellata di pollo e ripieno, definita 'schmaltzy', trasformando un classico del Ringraziamento in un piatto adatto alle cene quotidiane della settimana. La preparazione utilizza ingredienti tradizionali delle festività americane per creare un pasto nutriente cucinato in un'unica pentola. L'idea è quella di riproporre i sapori intensi del banchetto autunnale in una versione semplificata e più veloce, ideale per chi desidera un cibo di conforto di alta qualità senza la complessità di un intero menu cerimoniale. Lo riferisce Bon Appétit.",
+   "more": [
+    "Lo 'schmaltz' è grasso di pollo o d'oca fuso, tipico della cucina ebraica aschenazita, utilizzato per conferire una particolare ricchezza di sapore ai piatti. L'impiego di questo ingrediente, unito al ripieno a base di pane e aromi, permette di ottenere una consistenza succulenta che richiama le tradizioni culinarie casalinghe degli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Bon Appétit",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.bonappetit.com/recipe/schmaltzy-chicken-stuffing-skillet",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/risotto-uva-cremoso-parmigiano-robiola-ricetta-autunno/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbd4f5a36",
+   "sez": "cultura",
+   "titolo": "Deadline: il nuovo dramma distopico di Kiwi Chow ambientato in una scuola autoritaria",
+   "orig": "Deadline review – shocking threat sends tremors through authoritarian school",
+   "lead": "Il regista Kiwi Chow ha presentato 'Deadline', un dramma distopico ambientato in una prestigiosa accademia privata dove la sorveglianza e la competizione spietata sono la norma. Il film, girato a Taiwan, descrive un sistema educativo oppressivo caratterizzato da pannelli di riconoscimento facciale gestiti dall'intelligenza artificiale e studenti che marciano come soldati in uniformi colorate. L'opera utilizza l'ambiente scolastico come un microcosmo di una società autoritaria, esplorando la pressione psicologica esercitata sui giovani all'interno di un'architettura fredda di vetro e acciaio, cementando lo status di Chow come cineasta di rilievo.",
+   "more": [
+    "Il cinema distopico utilizza scenari futuristici o esasperati per riflettere sulle criticità della società contemporanea, come il controllo sociale e l'impatto della tecnologia sulla libertà. In questo contesto, la scuola diventa il luogo ideale per rappresentare il conformismo forzato e la perdita dell'identità personale di fronte a sistemi di valutazione rigidi e automatizzati."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/12/deadline-review-shocking-threat-sends-tremors-through-authoritarian-school",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z31bfaf61",
+   "sez": "cultura",
+   "titolo": "Olivetti: un libro racconta l'eredità culturale e sociale dell'azienda di Ivrea",
+   "orig": "Olivetti ancora addosso",
+   "lead": "Il nuovo libro 'Olivetti. Nuove storie da una collezione', edito da Ronzani, analizza come l'azienda di Ivrea abbia comunicato un'idea di società attraverso manuali, calendari, negozi e manifesti, piuttosto che limitarsi alla semplice vendita di prodotti. L'opera documenta lo stile comunicativo unico di Olivetti, contestualizzandolo in un periodo storico caratterizzato da una scarsità di idee e proponendo una riflessione sulla visione illuminata della fabbrica. La raccolta mette in luce l'eredità culturale di un marchio che ha saputo integrare design, etica e progresso sociale in un'unica visione d'impresa. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "Olivetti è stata un'azienda italiana pioniera nel campo dell'informatica, celebre per un modello di gestione attento al benessere dei lavoratori. Sotto la guida di Adriano Olivetti, la società è diventata un simbolo di come l'industria possa contribuire allo sviluppo culturale di un territorio, influenzando profondamente il design e la comunicazione visiva del XX secolo."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/cultura/libri/olivetti-ancora-addosso/1042018/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze77764a5",
+   "sez": "salute",
+   "titolo": "Retatrutide: nuovi dati sull'efficacia contro obesità e diabete di tipo 2",
+   "orig": "[Comment] Retatrutide in adults with obesity and type 2 diabetes: what have we learned from TRIUMPH-2?",
+   "lead": "Uno studio clinico di fase 3 denominato TRIUMPH-2, pubblicato su The Lancet, ha analizzato gli effetti della retatrutide in adulti affetti da obesità e diabete di tipo 2. La retatrutide è un triplo agonista che agisce sui recettori GLP-1, GIP e glucagone, promettendo effetti superiori nella riduzione del peso corporeo rispetto ai farmaci esistenti. La ricerca cerca di comprendere se questa nuova classe di farmaci possa superare la difficoltà riscontrata con i precedenti trattamenti, dove i pazienti diabetici tendevano a perdere meno peso rispetto a chi non soffriva della patologia nonostante un simile indice di massa corporea.",
+   "more": [
+    "Gli agonisti dei recettori sono farmaci che imitano l'azione degli ormoni naturali coinvolti nella regolazione della fame e dell'insulina. L'evoluzione verso tripli agonisti rappresenta una frontiera avanzata della medicina metabolica, offrendo potenzialmente una gestione più efficace delle patologie legate al peso, migliorando la qualità della vita dei pazienti con complicazioni croniche."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01987-2/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf100ac78",
+   "sez": "cultura",
+   "titolo": "Netflix: Koji Yakusho protagonista della commedia sull'amnesia collettiva",
+   "orig": "Netflix drama Did Someone Happen to Mention Me? review: Koji Yakusho leads amnesia comedy",
+   "lead": "Netflix ha lanciato una nuova serie commedia intitolata 'Did Someone Happen to Mention Me?', con protagonista l'attore giapponese di fama mondiale Koji Yakusho. La trama segue un celebre interprete che scopre improvvisamente di essere stato dimenticato da quasi tutta la popolazione del suo Paese. Composta da otto episodi, la serie affronta in modo giocoso la perdita dello status di celebrità, costringendo il protagonista a riconsiderare il proprio carattere e le proprie relazioni personali mentre tenta di ricostruire la sua vita e la sua carriera da zero dopo l'improvviso oblio collettivo. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Le produzioni originali giapponesi stanno guadagnando popolarità internazionale mescolando spesso generi classici con spunti narrativi surreali. La serie esplora temi universali come la fragilità del successo e la ricerca dell'identità personale al di fuori del riconoscimento pubblico, offrendo uno spaccato ironico sull'industria dell'intrattenimento contemporanea e sulle dinamiche della fama digitale."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/entertainment/article/3369868/netflix-drama-did-someone-happen-mention-me-review-koji-yakusho-leads-amnesia-comedy?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfc69acb3",
+   "sez": "viaggi",
+   "titolo": "I migliori hotel della Napa Valley per un weekend tra i vigneti californiani",
+   "orig": "The Best Hotels in Napa Valley for a Weekend in Wine Country",
+   "lead": "La rivista Condé Nast Traveler ha selezionato i migliori hotel della Napa Valley per un fine settimana dedicato alla scoperta della rinomata regione vinicola californiana. La guida evidenzia strutture che offrono viste panoramiche sui vigneti, puntando sull'esperienza immersiva nel paesaggio locale come criterio principale di scelta per i visitatori. Questi suggerimenti mirano a orientare i turisti verso sistemazioni che combinano comfort di alto livello e vicinanza alle principali cantine dell'area, facilitando la pianificazione di soggiorni brevi incentrati sull'enoturismo e sul relax in uno dei contesti naturali più celebri degli Stati Uniti d'America. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "La Napa Valley è una delle zone di produzione vinicola più prestigiose al mondo, famosa per i suoi vini di alta qualità. L'enoturismo in questa regione della California non riguarda solo la degustazione, ma coinvolge l'intero settore dell'ospitalità di lusso, con resort che integrano centri benessere e ristorazione gourmet per valorizzare il patrimonio rurale e gastronomico."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/gallery/best-hotels-in-napa-valley",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc553d0aa",
+   "sez": "manga",
+   "titolo": "Giappone: la doppiatrice Manaka Iwami annuncia matrimonio e maternità",
+   "orig": "Voice Actress Manaka Iwami Announces Marriage",
+   "lead": "L'attrice e doppiatrice giapponese Manaka Iwami ha annunciato durante il suo programma radiofonico ufficiale di essersi sposata e di aver dato alla luce il suo primo figlio. Iwami ha specificato che il marito non appartiene al mondo dello spettacolo, definendolo una persona al di fuori dell'industria dell'intrattenimento. La notizia è stata condivisa come un messaggio personale rivolto a tutti i fan che l'hanno sostenuta nel corso della sua carriera nel doppiaggio di anime e videogiochi, segnando un momento importante nella vita privata della giovane artista che ha voluto ringraziare il suo pubblico. Lo riferisce MyAnimeList News.",
+   "more": [
+    "Il doppiaggio, o 'seiyuu', è una professione di grande rilievo culturale in Giappone, dove gli attori vocali godono di uno status simile a quello delle popstar. Gli annunci relativi alla vita privata sono seguiti con molta attenzione dalla comunità degli appassionati, poiché i doppiatori sono considerati figure centrali nell'ecosistema dei media e dell'intrattenimento nipponico."
+   ],
+   "fonti": [
+    {
+     "n": "MyAnimeList News",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://myanimelist.net/news/74817108?_location=rss",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd080a51c",
+   "sez": "mondo",
+   "titolo": "Stati Uniti: Katie Zacharia nominata segretaria stampa della Casa Bianca da Trump",
+   "orig": "New White House press secretary a 'devoted fan' of Trump and MAGA",
+   "lead": "Il presidente eletto Donald Trump ha nominato Katie Zacharia come nuova segretaria stampa della Casa Bianca. Zacharia, descritta come una fedele sostenitrice del movimento MAGA, ha precedentemente lavorato per una delle aziende di Trump e ha acquisito notorietà partecipando a talk show di orientamento conservatore. Durante la sua carriera, la nuova portavoce della presidenza ha anche amplificato teorie del complotto legate alla destra americana. Ora assumerà il ruolo di principale referente per la comunicazione ufficiale della Casa Bianca, gestendo i rapporti con i media per conto del presidente degli Stati Uniti d'America.",
+   "more": [
+    "Il segretario stampa della Casa Bianca è la figura incaricata di gestire i rapporti quotidiani tra l'amministrazione presidenziale e i media. Questo ruolo richiede la capacità di trasmettere l'agenda politica del presidente e rispondere alle domande dei giornalisti, fungendo da volto pubblico ufficiale del governo statunitense davanti alla nazione e alla comunità internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3995b052",
+   "sez": "spazio",
+   "titolo": "Agricoltura lunare: uno studio indaga come l'acqua scorre sulla Luna",
+   "orig": "How Will Water Flow on the Moon?",
+   "lead": "Un team di ricercatori guidato da Karl Hasenstein dell'Università della Louisiana ha pubblicato uno studio su come l'acqua scorra sulla Luna, un fattore cruciale per la futura coltivazione di cibo nello spazio. La ricerca, apparsa su Microgravity Science and Technology, indaga il comportamento dei liquidi in condizioni di gravità parziale, elemento ancora non del tutto compreso ma fondamentale per la crescita delle piante. Gli esperti ritengono che l'agricoltura lunare sarà indispensabile per permettere agli astronauti di consumare alimenti freschi anziché limitarsi a razioni liofilizzate durante le missioni prolungate sulla superficie lunare. Lo riferisce Universe Today.",
+   "more": [
+    "L'esplorazione spaziale a lungo termine richiede lo sviluppo di sistemi di supporto vitale indipendenti dalla Terra. Capire come irrigare efficacemente le colture in assenza della gravità terrestre è una sfida complessa, poiché la dinamica dei fluidi influenza direttamente l'assorbimento dei nutrienti da parte delle radici delle piante in ambienti extraterrestri controllati."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/how-will-water-flow-on-the-moon",
+     "angolo": "",
+     "atlas": "Canada"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z97642ed2",
+   "sez": "tech",
+   "titolo": "Nigeria: TikTok risponde alle restrizioni di accesso nel nord del Paese",
+   "orig": "Nigeria: Tiktok Responds to Reports of Restricted Access in Northern Nigeria",
+   "lead": "La piattaforma social TikTok ha risposto alle segnalazioni riguardanti restrizioni all'accesso al servizio nella Nigeria settentrionale. L'azienda ha dichiarato di essere impegnata nel dialogo con le parti interessate e le autorità locali per risolvere le interruzioni riscontrate dagli utenti della regione. Il blocco del social media in alcune aree ha sollevato preoccupazioni, spingendo la società tecnologica a cercare una soluzione rapida per ripristinare la piena funzionalità della piattaforma. L'obiettivo è garantire nuovamente l'accesso ai contenuti e alla comunicazione digitale per l'intera comunità nigeriana coinvolta dai disservizi. Lo riferisce allAfrica.",
+   "more": [
+    "TikTok è un'applicazione per la condivisione di video che ha raggiunto una vasta popolarità globale, diventando uno strumento importante per la comunicazione dei giovani. In vari paesi, le piattaforme social possono subire restrizioni governative o interruzioni tecniche legate a questioni di sicurezza o normative locali, influenzando l'accesso all'informazione e alla libertà di espressione digitale."
+   ],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610120533.html",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "08:19",
+   "uscita": "mattino"
+  },
+  {
    "id": "z9e3f2c81",
    "sez": "mondo",
    "titolo": "Attacco hacker ai supermercati in Francia: refrigeratori spenti e milioni di danni",
@@ -944,6 +3140,38 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy",
      "angolo": "",
      "atlas": "Qatar"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "The Washington Post",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.washingtonpost.com/world/2026/10/12/top-us-general-vows-thwart-russia-he-warns-kyiv-stop-attacks/",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/13/europe-today-nato-warns-russia-amid-escalating-hybrid-attacks-from-moscow",
+     "angolo": "",
+     "atlas": ""
     }
    ],
    "data": "13 ott",
@@ -1361,6 +3589,14 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.myjoyonline.com/ghana-seeks-investment-deals-in-bangkok-amid-global-economic-crises/",
      "angolo": "",
      "atlas": "Ghana"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1013/1595137-imf-warns-of-elevated-ai-risk-to-world-financial-system/",
+     "angolo": "",
+     "atlas": "Ireland"
     }
    ],
    "data": "13 ott",
@@ -2004,6 +4240,22 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.iraqinews.com/sports/alcaraz-exits-shanghai-masters-in-straight-sets-loss/",
      "angolo": "",
      "atlas": "Iraq"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10901146",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/us-open-champ-zverev-to-become-tennis-worldumber-one-n391920",
+     "angolo": "",
+     "atlas": "Kenya"
     }
    ],
    "data": "13 ott",
@@ -2105,6 +4357,14 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.rollingstone.it/cinema-tv/recensioni-film-e-serie/the-social-il-prezzo-della-verita-non-e-il-seguito-di-the-social-network-che-avremmo-voluto/1042127/",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/news/watch_newsround",
+     "angolo": "",
+     "atlas": "United Kingdom"
     }
    ],
    "data": "13 ott",
@@ -2437,29 +4697,6 @@ window.EDIZIONI["2026-10-13"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z1e8a8ccf",
-   "sez": "musica",
-   "titolo": "I Fontaines D.C. esplorano le tensioni del nostro tempo nell'album Dopamine Chamber",
-   "orig": "Fontaines D.C.'s decadent, dystopian vision of our time",
-   "lead": "Il gruppo musicale Fontaines D.C. ha delineato una visione decadente e distopica del nostro tempo attraverso il progetto intitolato Dopamine Chamber. Il frontman Grian Chatten ha spiegato che l'intento dell'opera è far provare alle persone emozioni profonde riguardo al mondo in cui vivono, descrivendo l'album come un tentativo della band di mappare e restituire le tensioni dell'epoca attuale. Il lavoro discografico si concentra sulle complessità sociali ed emotive del presente attraverso una chiave espressiva cupa e contemporanea. Lo riferisce NPR – Musica.",
-   "more": [
-    "I Fontaines D.C. sono una band post-punk originaria dell'Irlanda affermatasi sulla scena musicale internazionale grazie a testi poetici e sonorità tese che esplorano alienazione urbana, identità e mutamenti socioculturali, ricevendo ampi consensi dalla critica e un vasto seguito di pubblico."
-   ],
-   "fonti": [
-    {
-     "n": "NPR – Musica",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/12/nx-s1-5936183/fontaines-dc-dopamine-chamber-interview",
-     "angolo": "",
-     "atlas": "United States of America"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "08:15",
-   "uscita": "mattino"
-  },
-  {
    "id": "zc177f78e",
    "sez": "ambiente",
    "titolo": "Grave siccità a New Ireland: mobilitati aiuti alimentari e idrici per la popolazione",
@@ -2767,7 +5004,6 @@ window.EDIZIONI["2026-10-13"] = {
   "z7a698bbb": "South China Morning Post evidenzia le difficoltà e l'assenza di podi dell'atletica di Hong Kong, mentre CGTN dà spazio alle riflessioni positive degli atleti medagliati verso le prossime Olimpiadi.",
   "z63d4f402": "L'Ema evidenzia la stabilizzazione definitiva del servizio di consulenza per rendere più efficiente l'accesso alle sperimentazioni cliniche in Europa.",
   "z6e59200d": "NPR – Istruzione pone l'accento sul contrasto tra i recenti tagli alla ricerca accademica e il nuovo stanziamento mirato per i soli ricercatori statunitensi nelle discipline scientifiche.",
-  "z1e8a8ccf": "NPR – Musica sottolinea l'interpretazione distopica e il desiderio della band di riflettere le contraddizioni emotive della società contemporanea.",
   "zc177f78e": "Post-Courier mette in luce la proclamazione dello stato d'emergenza e l'impegno finanziario straordinario per rifornire di viveri e acqua le comunità colpite dalla siccità.",
   "zabe3e42f": "Daily News Egypt valorizza lo sviluppo tecnologico del nuovo orologio nucleare, mentre Science News Explores si sofferma sui potenziali segnali di materia oscura rilevati dall'esperimento LZ.",
   "z04d4fc9d": "Sky & Telescope celebra il premio Nobel assegnato a Francis Halzen per l'astronomia dei neutrini, mentre Phys.org evidenzia il ruolo scientifico fondamentale dei ghiacci antartici nell'esplorazione del cosmo.",
@@ -2776,7 +5012,92 @@ window.EDIZIONI["2026-10-13"] = {
   "z50a2f11e": "NPR – Istruzione si concentra sulle trasformazioni dei corsi universitari volte a preparare i giovani alle professioni digitali e all'impatto dell'intelligenza artificiale.",
   "z8b285f76": "NPR – Musica mette in rilievo come la MacArthur Fellowship sostenga la ricerca jazzistica di Wilkins e il suo legame con la storia afroamericana.",
   "z6fb1f5e6": "Mail & Guardian sottolinea i pericoli economici e occupazionali che l'inasprimento normativo sugli integratori comporta per il settore del benessere in Sudafrica.",
-  "z4bb64d14": "Nippon.com celebra la produzione letteraria e la creatività senza tempo di Hoshi Shin’ichi nel centenario della sua nascita."
+  "z4bb64d14": "Nippon.com celebra la produzione letteraria e la creatività senza tempo di Hoshi Shin’ichi nel centenario della sua nascita.",
+  "zbe4d5ceb": "La testata mette in risalto l'eccezionalità del ritrovamento casuale avvenuto proprio durante una competizione sportiva scolastica.",
+  "z778a4a5e": "La testata evidenzia le caratteristiche estetiche e materiche dei prodotti, sottolineando l'importanza del design nel benessere lavorativo.",
+  "z46e5cf8f": "La testata mette in luce la dimensione politica della crisi, legandola direttamente alla necessità di cooperazione internazionale e stabilità regionale.",
+  "za04ead38": "L'Agenzia sottolinea il completamento formale delle attività tecniche e il ruolo di supporto offerto alle autorità pakistane.",
+  "zf34cc391": "La testata riporta la ferma posizione della federazione coreana contro il cyberbullismo e la violenza verbale nel mondo del pallone.",
+  "zc2de96b5": "La testata analizza il fenomeno da una prospettiva critica e culturale, ponendo l'accento sul valore di rottura sociale della proposta artistica di Vic Mensa.",
+  "z800b1501": "Vatican News pone l'accento sulla responsabilità dei governi nel gestire la transizione tecnologica per il bene comune.",
+  "z938a3cc6": "Rappler focalizza l'attenzione sulla cronaca giudiziaria e parlamentare, offrendo un punto di osservazione diretto sulla crisi politica filippina.",
+  "z26d7b070": "La testata mette in luce la rapidità con cui il fenomeno demografico si sta aggravando, superando le precedenti proiezioni.",
+  "zbe053ac3": "La testata si concentra sull'annuncio editoriale e sulla portata distruttiva che il personaggio avrà nel nuovo ciclo di storie.",
+  "zd3d16fa5": "La testata enfatizza il lato affettivo e tecnologico della cura del verde pubblico, presentandola come un modello di comunità.",
+  "zc79ba1ba": "Dezeen pone l'attenzione sulla scelta dei materiali e sull'armonia tra il costruito e la natura selvaggia della costa australiana.",
+  "z76e249e3": "Il giornale promuove la facilità della ricetta, sottolineando la morbidezza del risultato finale come principale punto di forza.",
+  "z636084be": "La testata locale focalizza l'attenzione sulla procedura di trasparenza amministrativa e sul coinvolgimento della popolazione nella revisione dei piani ambientali.",
+  "z6203bc39": "Le testate concordano sulla natura formale delle dimissioni, con Il Sole 24 Ore che pone l'accento sulla necessità regolamentare della manovra e Il Messaggero che riporta le perplessità dei quadri interni del partito.",
+  "z75f295ee": "L'ESA mette in risalto il successo logistico della missione e l'importanza del contributo scientifico di Adenot per l'Europa.",
+  "z249f9bce": "La testata australiana evidenzia il potenziale ruolo di salvatore della NRL per le sorti del rugby francese.",
+  "z0c670900": "La testata mette in evidenza la dimensione etica e morale della sfida tecnologica, richiamando alla centralità della verità nel giornalismo.",
+  "z2bc48564": "The BMJ sottolinea l'importanza del richiamo all'etica medica universale che non deve cambiare nemmeno in tempo di guerra.",
+  "z957a2675": "La testata pone l'accento sul valore sociale degli interventi architettonici, evidenziando il ruolo della cultura come collante urbano.",
+  "z7c9866be": "ANSA evidenzia le parole di Giorgetti sulla contribuzione, mentre Il Messaggero e La Repubblica analizzano le possibili modifiche a flat tax e Irpef.",
+  "z4b738444": "La testata sottolinea l'eccezionalità della cifra raggiunta dall'asta per la maglia di Jordan.",
+  "z72ad61b3": "BBC Newsround mette in evidenza l'addestramento insolito e la varietà di professioni del team.",
+  "z16ff5da9": "Meduza evidenzia la fragilità delle infrastrutture digitali russe di fronte agli attacchi ucraini.",
+  "z9ce1a5fc": "OndaRock riporta le riflessioni della band sul contrasto tra immagine pubblica e carattere reale.",
+  "zb90e9683": "The BMJ solleva dubbi sulla legittimità etica dei testimonial scelti per il summit sanitario.",
+  "z1a6cc4f2": "Nippon.com si concentra sui risultati del sondaggio governativo riguardante la vita sentimentale dei giovani.",
+  "z74ea11cd": "Abitare descrive il percorso sensoriale ideato per promuovere il valore del silenzio.",
+  "zbcc11e31": "La testata riporta la decisione del gruppo di fermare i tour per dedicarsi alla composizione.",
+  "zef355dc4": "Il Sole 24 Ore si focalizza sull'impatto geopolitico e logistico dell'esercitazione Nato in Italia, mentre Geopop mette in luce i progressi tecnologici della NASA.",
+  "z7f897e7e": "RNZ Pacific mette in luce l'ottimismo del nuovo allenatore per il futuro del rugby figiano.",
+  "z15ef32de": "La testata analizza il tema dell'errore sintattico come filo conduttore del festival.",
+  "z94159db0": "The BMJ mette in risalto il monito dell'esperto contro la mercificazione dei dati sanitari.",
+  "zf86db748": "Radio Okapi celebra il successo della kermesse come volano per la cultura congolese.",
+  "zb59232f8": "La testata pone l'accento sulla sperimentazione artistica e l'uso innovativo della resina.",
+  "zd0197089": "La testata illustra i tre diversi campi di ricerca che hanno meritato il massimo riconoscimento scientifico.",
+  "zc0d266a4": "La testata registra con rammarico la chiusura di un evento durato cinque anni.",
+  "z759ecc64": "Il Sole 24 Ore illustra la proposta legislativa sui pignoramenti, mentre La Repubblica si concentra sulle scadenze dei bonus fiscali.",
+  "zdc92b958": "Nasa sottolinea la particolarità visiva e l'origine extraterrestre della struttura australiana.",
+  "zb295d148": "The BMJ mette in evidenza il ritorno della revue come momento di svago per i medici.",
+  "z25f07dd4": "La testata evidenzia l'indagine sulle responsabilità del precedente governo polacco e i rischi per la riservatezza dei dati.",
+  "z87b6d02f": "La testata celebra il podio ottenuto dall'atleta nazionale nel torneo continentale di velocità.",
+  "z41b91f95": "La testata si concentra sulla capacità del progetto di ridefinire i confini dell'accoglienza medica attraverso l'architettura.",
+  "zfdf9d97e": "Il Guardian mette in evidenza il legame sentimentale dello chef con la cultura balti di Birmingham.",
+  "z70f69a8a": "La testata punta a spiegare in modo semplice il legame biologico tra i dinosauri preistorici e gli uccelli odierni.",
+  "z85002871": "La testata critica la natura autoreferenziale del documentario, vedendolo più come un'operazione d'immagine che come un racconto autentico.",
+  "zcc4f4a70": "La NASA mette in evidenza i benefici per la vita sulla Terra e per l'esplorazione futura derivanti da queste ricerche.",
+  "zbd590530": "La testata sottolinea l'economicità e la praticità del servizio fluviale per i visitatori della capitale giapponese.",
+  "z619d3095": "La testata pone l'accento sulla modernizzazione tecnologica e sull'efficienza operativa perseguita dalle forze armate kazake.",
+  "zeaa278f4": "Il giornale tunisino evidenzia come la proposta sia stata accolta con derisione, vedendola come un tentativo di distogliere l'attenzione dai problemi reali.",
+  "z7688a6cf": "La testata mette in luce l'attività costante della struttura sanitaria libica nella gestione delle emergenze cardiache.",
+  "z668ee23c": "Euronews enfatizza l'indipendenza e la determinazione dei creativi africani nel costruire infrastrutture proprie all'estero.",
+  "z6f7be27f": "La testata utilizza l'espediente narrativo dei fumetti per approfondire concetti di biologia molecolare reale.",
+  "zc488a799": "Il Guardian loda la capacità del gruppo di restare inventivo e di saper analizzare la società contemporanea attraverso la musica.",
+  "z23606b08": "La testata segnala l'uscita del video musicale come parte integrante della promozione della nuova stagione dell'anime.",
+  "z947dd455": "La NASA promuove la divulgazione scientifica attraverso immagini spettacolari del cosmo commentate da esperti.",
+  "z740e2592": "La testata rumena riporta con preoccupazione l'escalation di attacchi alle imbarcazioni civili o commerciali nella regione balcanica.",
+  "z16446fa0": "La testata mette in luce il legame tra le infrastrutture sportive e il potenziamento del turismo regionale tramite il visto unico.",
+  "z7eb29628": "allAfrica sottolinea l'importanza cruciale di questa iniziativa per la sicurezza sanitaria del continente africano e del mondo intero.",
+  "z1e9157d7": "La testata mette in luce il paradosso della vicenda, dove oltre al danno della vacanza rovinata si è aggiunta la beffa del pagamento delle spese legali.",
+  "z55de30df": "La testata sottolinea l'originalità della collaborazione, definendola quasi assurda per il tipo di oggetti proposti.",
+  "z501e00e2": "The Botswana Gazette si concentra sull'aumento di capitale, mentre Sunday Standard evidenzia l'avvenuta estinzione del debito pregresso.",
+  "zaa61e2a6": "La testata mette in risalto il finale simbolico dell'impresa, tra la nuotata nella Manica e il pasto tipico britannico.",
+  "z7a01126e": "La testata pone l'accento su come un evento traumatico come un furto possa diventare il motore creativo per un intero progetto architettonico.",
+  "z7f7608bb": "La testata evidenzia la facilità di preparazione e l'alto valore nutrizionale delle ricette selezionate per i lavoratori.",
+  "z0afa7d5e": "The Guardian sottolinea la discrepanza tra il recente aiuto governativo e la rapidità con cui il debito sta tornando a salire.",
+  "z8cd13aea": "La testata mette in evidenza la sincerità e la vulnerabilità dell'artista nel condividere i propri gusti musicali passati e presenti.",
+  "zc7327ce0": "La testata pone una riflessione critica sulla necessità di andare oltre i proclami, rendendo concreto l'ascolto delle voci dei pazienti.",
+  "zdae26b4e": "La testata evidenzia l'aspetto quasi investigativo del progetto, che si affida all'osservazione dei passanti per recuperare un pezzo di storia locale.",
+  "z07f0469c": "La testata propone una selezione curata che spazia tra tecnologia e valigeria per orientare gli acquisti natalizi o per occasioni speciali.",
+  "z276578a4": "La testata mette in risalto il continuo arricchimento dell'offerta digitale per soddisfare i lettori più esigenti.",
+  "z0d0a678b": "La testata pone l'accento sulla 'sleuthing' (indagine) degli astronomi che ha permesso di risolvere un vecchio caso analizzando dati d'archivio.",
+  "zdaf95b03": "La testata evidenzia come la mossa di Trump sia un tentativo di alterare l'opinione pubblica attraverso un nuovo marchio per la tecnologia IA.",
+  "z42f17de1": "La testata mette in luce la rottura di un tabù comunicativo da parte degli sportivi in un contesto nazionale dove la leva è obbligatoria per quasi tutti.",
+  "zc1d74355": "La testata evidenzia l'armonia tra la geometria asimmetrica moderna e la tradizione delle case costiere del Belgio.",
+  "z1299a5b1": "La testata promuove la versatilità di un piatto festivo, rendendolo accessibile e pratico per la cucina di tutti i giorni.",
+  "zbd4f5a36": "The Guardian elogia la capacità del regista di trasformare un ambiente educativo in una potente metafora politica e sociale.",
+  "z31bfaf61": "La testata mette in evidenza come l'azienda non vendesse prodotti ma una vera e propria idea di società civile e moderna.",
+  "ze77764a5": "The Lancet analizza se i nuovi tripli agonisti possano colmare il divario di efficacia nella perdita di peso tra pazienti diabetici e non.",
+  "zf100ac78": "La testata valuta positivamente la serie, sottolineando l'interpretazione di Yakusho in una storia leggera ma riflessiva.",
+  "zfc69acb3": "La testata punta sulla suggestione del panorama e sulla qualità dell'accoglienza per promuovere la destinazione vinicola.",
+  "zc553d0aa": "La testata riporta con calore l'annuncio personale fatto dalla doppiatrice ai suoi ascoltatori abituali.",
+  "zd080a51c": "NPR evidenzia il profilo militante della nuova portavoce e il suo passato legato alla diffusione di teorie complottiste.",
+  "z3995b052": "La testata sottolinea l'importanza vitale della ricerca per il sostentamento degli astronauti che dovranno vivere sulla Luna.",
+  "z97642ed2": "La testata mette in evidenza il tentativo dell'azienda di mediare con gli stakeholder per superare il blocco tecnologico."
  },
  "contesti": {
   "ze86d166a": "Durante una serie di recenti controlli medici di routine, i sanitari hanno rilevato la presenza di un nodulo polmonare circoscritto. La scoperta ha indotto l'équipe medica a programmare un ricovero ospedaliero tempestivo per procedere all'asportazione chirurgica della lesione, portando la Santa Sede a riorganizzare l'agenda pubblica pontificia in vista del futuro viaggio apostolico.",
@@ -2812,7 +5133,26 @@ window.EDIZIONI["2026-10-13"] = {
   "z9c267906": "Dal suo atterraggio nel cratere Jezero nel febbraio 2021, il rover Perseverance ha intrapreso una missione ambiziosa per documentare la geologia marziana e cercare prove di antica vita microbica. Attraverso una navigazione sempre più autonoma, il veicolo ha superato ogni record di percorrenza stabilito dai suoi predecessori sulla superficie del pianeta rosso. Ogni tappa del viaggio ha permesso di raccogliere campioni rocciosi cruciali che verranno riportati sulla Terra da future missioni congiunte tra la NASA e l'ESA.",
   "zb1df3234": "La regione meridionale di Panama è situata in una zona di elevata attività sismica, dove l'interazione tra le placche tettoniche genera frequenti scosse. Nelle settimane precedenti a questo evento di magnitudo 7.5, i sismologi avevano registrato una serie di tremori di minore intensità, interpretati come segnali di un possibile assestamento della crosta terrestre. La vulnerabilità di alcune infrastrutture rurali nella provincia di Chiriquí era già stata oggetto di monitoraggio da parte dei tecnici della protezione civile nazionale.",
   "z1a03385a": "La Corea del Nord ha intensificato il ritmo dei propri test missilistici nell'ultimo anno, sfidando apertamente le sanzioni internazionali e le risoluzioni delle Nazioni Unite. Kim Jong Un ha costantemente ribadito la necessità di modernizzare l'arsenale atomico come deterrente contro le esercitazioni congiunte di Stati Uniti e Corea del Sud. L'apertura di un museo dedicato agli armamenti simboleggia il consolidamento tecnologico raggiunto da Pyongyang e la volontà politica di mostrare al mondo i propri progressi balistici più recenti.",
-  "zc177f78e": "La provincia di New Ireland sta affrontando una crisi idrica senza precedenti causata da mesi di precipitazioni scarse e temperature sopra la media stagionale. Le riserve d'acqua piovana, principale fonte per molte comunità isolate, si sono esaurite rapidamente, portando al collasso delle colture di sussistenza locali. Nonostante i primi allarmi lanciati dai leader locali all'inizio della stagione secca, la gravità del fenomeno ha reso necessario un massiccio intervento finanziario d'urgenza per evitare una imminente catastrofe umanitaria."
+  "zc177f78e": "La provincia di New Ireland sta affrontando una crisi idrica senza precedenti causata da mesi di precipitazioni scarse e temperature sopra la media stagionale. Le riserve d'acqua piovana, principale fonte per molte comunità isolate, si sono esaurite rapidamente, portando al collasso delle colture di sussistenza locali. Nonostante i primi allarmi lanciati dai leader locali all'inizio della stagione secca, la gravità del fenomeno ha reso necessario un massiccio intervento finanziario d'urgenza per evitare una imminente catastrofe umanitaria.",
+  "z46e5cf8f": "La regione dell'Asia Centrale soffre da anni di una crisi idrica cronica, aggravata dal cambiamento climatico e dalla gestione inefficiente delle risorse ereditata dall'era sovietica. Il bacino del Lago d'Aral è l'esempio più drammatico di questo declino. I fiumi che attraversano più confini sono spesso fonte di tensioni diplomatiche tra Uzbekistan, Kazakistan, Kirghizistan e Tagikistan per l'accesso ai canali irrigui.",
+  "za04ead38": "Il Pakistan gestisce un programma nucleare civile e militare da decenni, operando diverse centrali elettriche sotto la sorveglianza internazionale. La sicurezza fisica dei materiali nucleari è una priorità globale per prevenire il traffico illecito. L'IAEA conduce periodicamente missioni di consulenza su richiesta degli Stati membri per valutare e rafforzare i regimi di protezione nazionale.",
+  "z26d7b070": "Il Giappone affronta da anni una crisi demografica caratterizzata da un calo costante delle nascite. Le politiche governative per incentivare la genitorialità non hanno finora invertito il trend negativo. La contrazione della popolazione ha spinto il Paese a investire massicciamente nell'automazione e a discutere riforme riguardanti l'apertura ai lavoratori stranieri.",
+  "z6203bc39": "Matteo Salvini ha guidato la Lega per oltre un decennio, portando il partito a significativi successi elettorali, come il picco delle Europee del 2019. Tuttavia, negli ultimi anni, il movimento ha affrontato una flessione nei consensi e crescenti tensioni interne tra l'ala più moderata del Nord e la leadership nazionale. L'annuncio del congresso straordinario è stato interpretato come una strategia per consolidare la propria posizione di fronte alle critiche dei dirigenti locali.",
+  "z75f295ee": "Sophie Adenot è stata selezionata come membro del corpo astronauti dell'ESA nel 2022. La sua missione l'ha vista impegnata in esperimenti scientifici e attività di manutenzione sulla ISS. È una delle figure chiave del programma spaziale europeo, rappresentando la nuova generazione di esploratori selezionati dall'agenzia.",
+  "z2bc48564": "Recentemente, il numero di attacchi documentati a ospedali e ambulanze in vari scenari di conflitto globale è aumentato drasticamente, mettendo a rischio la vita di migliaia di operatori. Le organizzazioni mediche internazionali hanno sollecitato risposte diplomatiche più forti per proteggere chi fornisce cure imparziali ai feriti, denunciando la violazione sistematica delle norme internazionali che tutelano la salute in guerra.",
+  "z7c9866be": "Il governo italiano sta lavorando da settimane alla definizione della manovra finanziaria per l'anno prossimo, cercando le coperture necessarie per finanziare i tagli fiscali e il sostegno alle famiglie. Negli ultimi giorni, il dibattito si è concentrato sulla revisione della spesa pubblica e sul rispetto dei nuovi parametri del Patto di Stabilità europeo, mentre il ministro Giorgetti ha avviato i confronti con i ministeri e le parti sociali.",
+  "zef355dc4": "La Nato conduce regolarmente esercitazioni per mantenere la credibilità della propria deterrenza in un clima di tensioni internazionali. Contemporaneamente, le grandi agenzie spaziali hanno accelerato i programmi per il ritorno dell'uomo sulla Luna, cercando soluzioni energetiche stabili per garantire la permanenza degli astronauti in vista di future missioni nello spazio profondo.",
+  "zd0197089": "Ogni anno nel mese di ottobre le istituzioni svedesi annunciano i vincitori dei Nobel, premi stabiliti per onorare i contributi più significativi nelle scienze e nella pace. Le deliberazioni avvengono nel massimo riserbo dopo mesi di valutazione delle candidature, mantenendo una tradizione che rappresenta il vertice del prestigio scientifico mondiale da oltre un secolo.",
+  "z759ecc64": "Il tema del debito delle famiglie e delle agevolazioni fiscali è al centro dell'agenda politica italiana, specialmente in vista della chiusura della stagione delle dichiarazioni dei redditi. Negli ultimi mesi, il governo ha discusso diverse modalità per semplificare il sistema dei bonus e introdurre nuove tutele per i debitori, cercando di prevenire l'esclusione sociale.",
+  "z7eb29628": "In seguito all'esperienza del COVID-19, l'OMS ha accelerato la creazione di centri tecnologici avanzati per colmare le lacune nella condivisione dei dati sanitari tra i Paesi, cercando di standardizzare i sistemi di monitoraggio per una risposta globale più efficiente.",
+  "z501e00e2": "Il gruppo Letshego sta attraversando una fase di trasformazione mirata alla stabilità finanziaria a lungo termine. Negli ultimi mesi, la società ha cercato di gestire l'elevato indebitamento che ne frenava l'espansione, decidendo di rifocalizzare le proprie operazioni in mercati più sicuri. Il fondo pensione BPOPF, socio strategico, ha monitorato la situazione prima di decidere per l'ulteriore iniezione di capitale necessaria al rilancio.",
+  "z0afa7d5e": "La crisi dei finanziamenti per l'istruzione speciale in Inghilterra è un tema critico nel dibattito tra autorità locali e governo centrale. Negli anni scorsi, la crescita delle richieste di assistenza specialistica ha superato le capacità di finanziamento ordinarie, portando molte amministrazioni municipali a contrarre debiti elevatissimi per non sospendere i servizi essenziali rivolti ai minori disabili.",
+  "zd080a51c": "Donald Trump sta procedendo rapidamente alla formazione della sua futura squadra di governo dopo la vittoria elettorale. Molte delle nomine effettuate finora riguardano figure a lui strettamente fedeli e provenienti dall'ambiente dei media conservatori o dalle sue precedenti attività imprenditoriali. La scelta di Zacharia si inserisce in una strategia volta a garantire una comunicazione aggressiva e allineata ai valori dei suoi sostenitori.",
+  "z800b1501": "Negli ultimi anni, lo sviluppo accelerato dell'intelligenza artificiale ha sollevato crescenti preoccupazioni etiche e sociali. Mentre le grandi aziende tecnologiche hanno inizialmente spinto per l'autoregolamentazione, organismi internazionali e governi hanno iniziato a invocare norme vincolanti. L'Unione Europea ha approvato l'AI Act nel 2024, segnando un precedente globale, mentre il dibattito sulla sicurezza e sull'equità dell'accesso alle tecnologie emergenti è diventato una priorità nelle agende politiche mondiali.",
+  "z938a3cc6": "La tensione politica nelle Filippine è culminata nella rottura definitiva tra il presidente Ferdinand Marcos Jr. e la vicepresidente Sara Duterte. Le accuse riguardano principalmente l'uso improprio di fondi riservati e controversie sulla legalità di alcune operazioni governative. Dopo mesi di indagini parlamentari e scontri verbali tra le rispettive fazioni, la Camera dei Rappresentanti ha formalizzato le accuse, portando il caso davanti al Senato per il giudizio definitivo sulla rimozione dall'incarico.",
+  "zc488a799": "I Fontaines DC si sono affermati come una delle voci più autentiche del rock contemporaneo, partendo da Dublino con l'album d'esordio 'Dogrel'. Con i successivi lavori, la band ha progressivamente abbandonato il post-punk puro per esplorare sonorità più cupe e introspettive. La critica ha seguito con attenzione la loro evoluzione poetica, culminata nella ricerca di temi legati all'alienazione moderna, preparando il terreno per il lancio di questo atteso quinto capitolo discografico.",
+  "z740e2592": "Dall'inizio del conflitto in Ucraina, il Mar Nero è diventato una zona ad alto rischio per la navigazione civile. Nonostante i tentativi di stabilire corridoi sicuri per le esportazioni, l'impiego massiccio di droni marini e mine galleggianti ha reso imprevedibili le rotte commerciali. Incidenti che coinvolgono navi mercantili si sono verificati sporadicamente, spingendo i paesi costieri della NATO, come la Bulgaria e la Romania, a intensificare il monitoraggio delle proprie acque territoriali.",
+  "z1299a5b1": "Negli ultimi anni, la cucina casalinga si è evoluta verso la ricerca di ricette 'one-pot' che uniscano praticità e sapori intensi. Il concetto di 'comfort food' ha spinto i critici gastronomici a reinterpretare piatti tradizionali delle festività, come il ripieno del Ringraziamento, rendendoli accessibili durante tutto l'anno. L'attenzione si è spostata sull'uso di ingredienti poveri ma ricchi di gusto, come lo schmaltz, per nobilitare preparazioni quotidiane semplici come il pollo al forno."
  },
  "cronologie": {
   "ze86d166a": [
@@ -3185,6 +5525,244 @@ window.EDIZIONI["2026-10-13"] = {
    [
     "Settimana scorsa",
     "Dichiarazione dello stato di emergenza provinciale"
+   ]
+  ],
+  "z46e5cf8f": [
+   [
+    "2021",
+    "Scontri di confine tra Kirghizistan e Tagikistan per l'accesso all'acqua"
+   ],
+   [
+    "settembre 2024",
+    "Vertice dei leader centroasiatici sulla cooperazione climatica"
+   ],
+   [
+    "ottobre 2024",
+    "Appello del presidente uzbeko per un'azione congiunta contro lo spreco idrico"
+   ]
+  ],
+  "za04ead38": [
+   [
+    "2014",
+    "Il Pakistan ospita la prima missione IPPAS dell'IAEA"
+   ],
+   [
+    "2023",
+    "Richiesta formale per una missione di monitoraggio e follow-up"
+   ],
+   [
+    "ottobre 2024",
+    "Conclusione della nuova missione di consulenza sulla protezione fisica"
+   ]
+  ],
+  "z26d7b070": [
+   [
+    "2010",
+    "La popolazione giapponese raggiunge il suo massimo storico"
+   ],
+   [
+    "2020",
+    "Il censimento registra la prima contrazione significativa degli abitanti"
+   ],
+   [
+    "ottobre 2024",
+    "Primi dati del censimento 2025 confermano l'accelerazione del declino"
+   ]
+  ],
+  "z6203bc39": [
+   [
+    "2013",
+    "Matteo Salvini viene eletto segretario della Lega Nord"
+   ],
+   [
+    "2019",
+    "La Lega raggiunge il 34% dei consensi alle elezioni europee"
+   ],
+   [
+    "ottobre 2024",
+    "Salvini annuncia dimissioni tecniche per partecipare al congresso di Milano"
+   ]
+  ],
+  "z75f295ee": [
+   [
+    "novembre 2022",
+    "Selezione di Sophie Adenot da parte dell'Agenzia Spaziale Europea"
+   ],
+   [
+    "febbraio 2024",
+    "Partenza della missione Crew-12 verso la Stazione Spaziale Internazionale"
+   ],
+   [
+    "8 ottobre 2024",
+    "Ammaraggio dell'equipaggio e rientro sulla Terra"
+   ]
+  ],
+  "z2bc48564": [
+   [
+    "1949",
+    "Adozione delle Convenzioni di Ginevra sulla protezione del personale medico"
+   ],
+   [
+    "2023",
+    "Aumento delle segnalazioni internazionali di attacchi alle strutture sanitarie in zone di guerra"
+   ],
+   [
+    "10 ottobre 2024",
+    "La WMA adotta la Dichiarazione di Rotterdam sulla neutralità medica"
+   ]
+  ],
+  "z7c9866be": [
+   [
+    "Settembre",
+    "Approvazione del Piano strutturale di bilancio in Consiglio dei Ministri"
+   ],
+   [
+    "Ottobre",
+    "Avvio dei vertici di maggioranza per definire le priorità della manovra"
+   ]
+  ],
+  "zef355dc4": [
+   [
+    "Settembre",
+    "Discussioni Nato sulla sicurezza del fianco orientale"
+   ],
+   [
+    "Ottobre",
+    "Annuncio delle date dell'esercitazione aerea congiunta in Italia"
+   ]
+  ],
+  "zd0197089": [
+   [
+    "Ottobre",
+    "Settimana degli annunci ufficiali dei Premi Nobel a Stoccolma e Oslo"
+   ],
+   [
+    "Precedentemente",
+    "Conclusione della fase segreta di selezione dei candidati"
+   ]
+  ],
+  "z759ecc64": [
+   [
+    "Giugno-Settembre",
+    "Periodo principale per l'invio delle dichiarazioni dei redditi 730"
+   ],
+   [
+    "Ottobre",
+    "Presentazione della proposta di legge sul sovraindebitamento alla Camera dei Deputati"
+   ]
+  ],
+  "z7eb29628": [
+   [
+    "2021",
+    "Inaugurazione dell'Hub OMS per l'intelligence pandemica a Berlino"
+   ],
+   [
+    "Lunedì",
+    "Presentazione della nuova strategia quinquennale di sorveglianza rapida"
+   ]
+  ],
+  "z501e00e2": [
+   [
+    "Settembre",
+    "Letshego definisce il piano di riduzione del debito e ridimensionamento della presenza africana"
+   ],
+   [
+    "Novembre",
+    "La società annuncia l'estinzione completa del debito di 483 milioni di Pula verso BPOPF"
+   ]
+  ],
+  "z0afa7d5e": [
+   [
+    "Anni recenti",
+    "Aumento costante delle domande di supporto speciale nelle scuole inglesi"
+   ],
+   [
+    "Recente",
+    "Il governo britannico cancella 5 miliardi di sterline di debiti pregressi dei consigli comunali"
+   ],
+   [
+    "Oggi",
+    "Le autorità prevedono che il debito salirà a 10 miliardi di sterline entro il 2028"
+   ]
+  ],
+  "zd080a51c": [
+   [
+    "Novembre",
+    "Vittoria elettorale di Donald Trump alle presidenziali statunitensi"
+   ],
+   [
+    "Oggi",
+    "Nomina ufficiale di Katie Zacharia come segretaria stampa della Casa Bianca"
+   ]
+  ],
+  "z800b1501": [
+   [
+    "Marzo 2024",
+    "L'Unione Europea approva formalmente l'AI Act per regolamentare il settore"
+   ],
+   [
+    "Settembre 2024",
+    "Vertice internazionale sulla sicurezza dell'IA per valutare i rischi esistenziali"
+   ],
+   [
+    "Gennaio 2025",
+    "Bill Gates interviene ai media vaticani sollecitando una guida governativa"
+   ]
+  ],
+  "z938a3cc6": [
+   [
+    "Giugno 2024",
+    "Sara Duterte si dimette dal ruolo di Segretario dell'Istruzione"
+   ],
+   [
+    "Novembre 2024",
+    "La Camera avvia le indagini ufficiali sui fondi riservati della vicepresidente"
+   ],
+   [
+    "Gennaio 2025",
+    "Il Senato apre ufficialmente le fasi del processo di impeachment"
+   ]
+  ],
+  "zc488a799": [
+   [
+    "2022",
+    "Pubblicazione di 'Skinty Fia', che raggiunge i vertici delle classifiche"
+   ],
+   [
+    "2024",
+    "Annuncio del nuovo progetto discografico e rilascio dei primi singoli"
+   ],
+   [
+    "Gennaio 2025",
+    "Uscita mondiale dell'album 'Dopamine Chamber'"
+   ]
+  ],
+  "z740e2592": [
+   [
+    "Luglio 2023",
+    "Sospensione dell'accordo sul grano e aumento delle ostilità marittime"
+   ],
+   [
+    "Autunno 2024",
+    "Ripetuti attacchi con droni marini nell'area settentrionale del bacino"
+   ],
+   [
+    "Oggi",
+    "Il premier bulgaro annuncia l'affondamento di una nave colpita da droni"
+   ]
+  ],
+  "z1299a5b1": [
+   [
+    "Novembre 2024",
+    "Ritorno mediatico delle ricette classiche per le festività americane"
+   ],
+   [
+    "Dicembre 2024",
+    "Crescita del trend dei pasti nutrienti cucinati in un'unica pentola"
+   ],
+   [
+    "Gennaio 2025",
+    "Bon Appétit pubblica la ricetta semplificata del pollo con ripieno"
    ]
   ]
  },
@@ -3714,14 +6292,6 @@ window.EDIZIONI["2026-10-13"] = {
    ],
    "pt": []
   },
-  "z1e8a8ccf": {
-   "n": "Washington",
-   "p": [
-    "United States of America",
-    "Ireland"
-   ],
-   "pt": []
-  },
   "zc177f78e": {
    "n": "New Ireland",
    "p": [
@@ -3785,6 +6355,623 @@ window.EDIZIONI["2026-10-13"] = {
    "n": "Tokyo",
    "p": [
     "Japan"
+   ],
+   "pt": []
+  },
+  "zbe4d5ceb": {
+   "n": "Montana",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z778a4a5e": {
+   "n": "Melbourne",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z46e5cf8f": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "za04ead38": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zf34cc391": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zc2de96b5": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z800b1501": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z938a3cc6": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z26d7b070": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zbe053ac3": {
+   "n": "New York City",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd3d16fa5": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zc79ba1ba": {
+   "n": "Victoria",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z76e249e3": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z636084be": {
+   "n": "Nuku'alofa",
+   "p": [
+    "Tonga"
+   ],
+   "pt": []
+  },
+  "z6203bc39": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z75f295ee": {
+   "n": "Colonia",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z249f9bce": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z0c670900": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z2bc48564": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z957a2675": {
+   "n": "Città del Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "z7c9866be": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4b738444": {
+   "n": "Chicago",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z72ad61b3": {
+   "n": "Antartide",
+   "p": [],
+   "pt": []
+  },
+  "z16ff5da9": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z9ce1a5fc": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb90e9683": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1a6cc4f2": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z74ea11cd": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbcc11e31": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zef355dc4": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7f897e7e": {
+   "n": "Fiji",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z15ef32de": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z94159db0": {
+   "n": "Gastein",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zf86db748": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zb59232f8": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd0197089": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zc0d266a4": {
+   "n": "San Antonio",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z759ecc64": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zdc92b958": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zb295d148": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z25f07dd4": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z87b6d02f": {
+   "n": "Asia",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z41b91f95": {
+   "n": "Shanghai",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zfdf9d97e": {
+   "n": "Birmingham",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z70f69a8a": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z85002871": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zcc4f4a70": {
+   "n": "Cape Canaveral",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbd590530": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z619d3095": {
+   "n": "Kazakistan",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "zeaa278f4": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z7688a6cf": {
+   "n": "Tajoura",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "z668ee23c": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc079c9b3": {
+   "n": "Barcellona",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z6f7be27f": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc488a799": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z23606b08": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z947dd455": {
+   "n": "Spazio",
+   "p": [],
+   "pt": []
+  },
+  "z740e2592": {
+   "n": "Mar Nero",
+   "p": [
+    "Bulgaria"
+   ],
+   "pt": []
+  },
+  "z16446fa0": {
+   "n": "Arusha",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z7eb29628": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z2c4d4ac0": {
+   "n": "Brasilia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zf77c602c": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb59e9eb4": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z344c4460": {
+   "n": "Cincinnati",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za0392358": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z1e9157d7": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z55de30df": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z501e00e2": {
+   "n": "Gaborone",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "zaa61e2a6": {
+   "n": "Inghilterra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z7a01126e": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z7f7608bb": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0afa7d5e": {
+   "n": "Inghilterra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8cd13aea": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc7327ce0": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zdae26b4e": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z07f0469c": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z276578a4": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z0d0a678b": {
+   "n": "Universo",
+   "p": [],
+   "pt": []
+  },
+  "zdaf95b03": {
+   "n": "Stati Uniti d'America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z42f17de1": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zc1d74355": {
+   "n": "Belgio",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z1299a5b1": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbd4f5a36": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z31bfaf61": {
+   "n": "Ivrea",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze77764a5": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zf100ac78": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zfc69acb3": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc553d0aa": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zd080a51c": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3995b052": {
+   "n": "Luna",
+   "p": [],
+   "pt": []
+  },
+  "z97642ed2": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
    ],
    "pt": []
   }
@@ -3851,7 +7038,7 @@ window.EDIZIONI["2026-10-13"] = {
   "zb28cd67e": 2,
   "zff3f38b7": 1,
   "zc635838b": 1,
-  "zc3d8b148": 1,
+  "zc3d8b148": 2,
   "z98a12484": 1,
   "zc89c1ee2": 1,
   "z3c60ee65": 1,
@@ -3863,7 +7050,6 @@ window.EDIZIONI["2026-10-13"] = {
   "z7a698bbb": 1,
   "z63d4f402": 1,
   "z6e59200d": 1,
-  "z1e8a8ccf": 1,
   "zc177f78e": 2,
   "zabe3e42f": 1,
   "z04d4fc9d": 2,
@@ -3872,7 +7058,98 @@ window.EDIZIONI["2026-10-13"] = {
   "z50a2f11e": 1,
   "z8b285f76": 1,
   "z6fb1f5e6": 1,
-  "z4bb64d14": 1
+  "z4bb64d14": 1,
+  "zbe4d5ceb": 1,
+  "z778a4a5e": 1,
+  "z46e5cf8f": 2,
+  "za04ead38": 2,
+  "zf34cc391": 1,
+  "zc2de96b5": 1,
+  "z800b1501": 2,
+  "z938a3cc6": 2,
+  "z26d7b070": 2,
+  "zbe053ac3": 1,
+  "zd3d16fa5": 1,
+  "zc79ba1ba": 1,
+  "z76e249e3": 1,
+  "z636084be": 1,
+  "z6203bc39": 1,
+  "z75f295ee": 2,
+  "z249f9bce": 1,
+  "z0c670900": 1,
+  "z2bc48564": 2,
+  "z957a2675": 1,
+  "z7c9866be": 1,
+  "z4b738444": 1,
+  "z72ad61b3": 1,
+  "z16ff5da9": 1,
+  "z9ce1a5fc": 1,
+  "zb90e9683": 1,
+  "z1a6cc4f2": 1,
+  "z74ea11cd": 1,
+  "zbcc11e31": 1,
+  "zef355dc4": 2,
+  "z7f897e7e": 1,
+  "z15ef32de": 1,
+  "z94159db0": 1,
+  "zf86db748": 1,
+  "zb59232f8": 1,
+  "zd0197089": 1,
+  "zc0d266a4": 1,
+  "z759ecc64": 2,
+  "zdc92b958": 1,
+  "zb295d148": 1,
+  "z25f07dd4": 1,
+  "z87b6d02f": 1,
+  "z41b91f95": 1,
+  "zfdf9d97e": 1,
+  "z70f69a8a": 1,
+  "z85002871": 1,
+  "zcc4f4a70": 1,
+  "zbd590530": 1,
+  "z619d3095": 1,
+  "zeaa278f4": 1,
+  "z7688a6cf": 1,
+  "z668ee23c": 1,
+  "zc079c9b3": 1,
+  "z6f7be27f": 1,
+  "zc488a799": 2,
+  "z23606b08": 1,
+  "z947dd455": 1,
+  "z740e2592": 2,
+  "z16446fa0": 1,
+  "z7eb29628": 2,
+  "z2c4d4ac0": 1,
+  "zf77c602c": 1,
+  "zb59e9eb4": 1,
+  "z344c4460": 1,
+  "za0392358": 1,
+  "z1e9157d7": 1,
+  "z55de30df": 1,
+  "z501e00e2": 2,
+  "zaa61e2a6": 1,
+  "z7a01126e": 1,
+  "z7f7608bb": 1,
+  "z0afa7d5e": 1,
+  "z8cd13aea": 1,
+  "zc7327ce0": 1,
+  "zdae26b4e": 1,
+  "z07f0469c": 1,
+  "z276578a4": 1,
+  "z0d0a678b": 1,
+  "zdaf95b03": 1,
+  "z42f17de1": 1,
+  "zc1d74355": 1,
+  "z1299a5b1": 2,
+  "zbd4f5a36": 1,
+  "z31bfaf61": 1,
+  "ze77764a5": 1,
+  "zf100ac78": 1,
+  "zfc69acb3": 1,
+  "zc553d0aa": 1,
+  "zd080a51c": 1,
+  "z3995b052": 1,
+  "z97642ed2": 1
  },
  "video": {},
  "pillole": []
