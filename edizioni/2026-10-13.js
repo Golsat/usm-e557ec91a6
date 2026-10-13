@@ -3,6 +3,2153 @@ window.EDIZIONI["2026-10-13"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z973dcd0f",
+   "sez": "mondo",
+   "titolo": "La Ukrainska Pravda chiede un'inchiesta sulla condotta della polizia austriaca dopo il fermo di alcuni giornalisti",
+   "orig": "Ukrainska Pravda demands investigation into Austrian police conduct after journalists' detention",
+   "lead": "Il noto giornalista investigativo ucraino Mykhailo Tkach, celebre per le sue inchieste sulla corruzione ad alti livelli, è stato fermato dalla polizia in Austria. Tkach ha denunciato che l'arresto potrebbe rappresentare una ritorsione da parte di soggetti coinvolti nelle sue inchieste, i quali avrebbero manipolato le autorità austriache presentando una segnalazione falsa. La testata Ukrainska Pravda ha quindi richiesto formalmente un'indagine approfondita sul comportamento delle forze dell'ordine austriache durante la detenzione dei cronisti. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "Mykhailo Tkach è un giornalista investigativo ucraino noto per le sue inchieste sui vertici della politica e sugli affari di corruzione. Lavora per testate indipendenti impegnate nel giornalismo d'inchiesta in Europa orientale, affrontando spesso temi di rilevanza internazionale e geopolitica."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/ukrainska-pravda-demands-investigation-into-austrian-police-conduct-after-journalists-detention/",
+     "angolo": "",
+     "atlas": "Ukraine"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-12-gqeberha-businessman-faces-criminal-investigation-over-anti-lgbtqia-conduct/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9c7e79fa",
+   "sez": "mondo",
+   "titolo": "Incertezza in America Latina per la sospensione del voto ai nazionalizzati tramite la 'ley de nietos'",
+   "orig": "Incertidumbre en América Latina por la suspensión del voto a nacionalizados por la ‘ley de nietos’: “Es imposible subsanarlo”",
+   "lead": "La decisione di sospendere il voto per i cittadini nazionalizzati attraverso la cosiddetta «ley de nietos» sta generando forte incertezza e malcontento in America Latina, con l'Argentina che rappresenta il principale epicentro di questa comunità di esiliati. Una delle principali associazioni di discendenti di spagnoli ha definito tale provvedimento un «disprezzo notorio» nei confronti dei cittadini residenti all'estero, sottolineando l'impossibilità pratica di rimediare alla situazione. Lo riferisce El País.",
+   "more": [
+    "La «ley de nietos» è una normativa che consente ai discendenti di cittadini originari di determinati Paesi, in particolare in America Latina, di ottenere la cittadinanza, generando un'ampia platea di nuovi aventi diritto che partecipano regolarmente ai processi elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/america/2026-10-12/incertidumbre-en-america-latina-por-la-suspension-del-voto-a-nacionalizados-por-la-ley-de-nietos-es-imposible-subsanarlo.html",
+     "angolo": "",
+     "atlas": "Spain"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/trump-refuerza-su-alianza-con-milei-en-plena-disputa-por-el-liderazgo-politico-y-economico-de-america-latina/",
+     "angolo": "",
+     "atlas": "Venezuela"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/internacional/latinoamerica/el-fmi-rebaja-una-decima-el-pronostico-de-crecimiento-en-america-latina-en-2026-al-23-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z40635a55",
+   "sez": "ambiente",
+   "titolo": "Allerta per forti piogge e rischio frane a Las Condes: evacuate zone colpite dalla precedente alluvione",
+   "orig": "Alerta por lluvias genera evacuación en zona del aluvión en Las Condes y detiene labores de limpieza y despeje",
+   "lead": "La Delegazione Presidenziale Metropolitana ha disposto l'evacuazione preventiva di un'area già colpita in passato da una colata detritica a Las Condes, in Cile, a causa dell'aumento del rischio di nuovi smottamenti provocati dalle precipitazioni in corso. A causa dell'allerta meteo, le attività di pulizia e sgombero dei detriti sono state temporaneamente sospese. Inoltre, per la giornata di martedì, le lezioni scolastiche rimarranno sospese nella zona, mentre i corsi universitari si svolgeranno interamente in modalità remota. Lo riferisce La Tercera.",
+   "more": [
+    "Le colate detritiche e le inondazioni rappresentano gravi rischi idrogeologici nelle aree montane e pedemontane del Cile, dove le piogge intense possono saturare i terreni e causare frane devastanti nei centri abitati vicini alle cordigliere."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/nacional/noticia/alerta-por-lluvias-genera-evacuacion-en-zona-del-aluvion-en-las-condes-y-detiene-labores-de-limpieza-y-despeje/",
+     "angolo": "",
+     "atlas": "Chile"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/sucesos/imn-pronostica-aguaceros-y-tormentas-para-este/6YJ4TPCQ7VB5NG7BPDU2OGUPME/story/",
+     "angolo": "",
+     "atlas": "Costa Rica"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/comunidad/guayaquil/hara-sol-o-llovera-en-guayaquil-este-martes-13-de-octubre-esto-preve-el-inamhi-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-martes-13-de-octubre-tormentas-en-horas-de-la-tarde-y-alerta-por-lluvias-en-ecuador-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0093da00",
+   "sez": "mondo",
+   "titolo": "Terremoto a Panama: l'ambasciata uruguaiana conferma che non ci sono connazionali evacuati o bisognosi di assistenza",
+   "orig": "Embajadora en Panamá aseguró que \"no hay registro de uruguayos evacuados ni que requieran asistencia\" tras terremoto",
+   "lead": "L'ambasciatrice uruguaiana a Panama ha dichiarato ufficialmente che non risultano registrati cittadini uruguayani feriti, evacuati o che necessitino di assistenza a seguito del recente terremoto che ha colpito la regione. La diplomatica ha inoltre confermato che il gruppo di sessanta passeggeri uruguaiani rimasti bloccati nel Paese è rientrato regolarmente in patria nella giornata di sabato. Lo riferisce El Observador.",
+   "more": [
+    "I servizi consolari e le ambasciate svolgono un ruolo fondamentale di monitoraggio e supporto per i connazionali presenti all'estero in caso di calamità naturali, coordinando i rientri e verificando le condizioni di sicurezza della comunità locale."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/embajadora-panama-aseguro-que-no-hay-registro-uruguayos-evacuados-ni-que-requieran-asistencia-terremoto-n6060226",
+     "angolo": "",
+     "atlas": "Uruguay"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/opinion/foto-del-dia/de-barberia-autobus-a-sala-de-neonatos-tras-el-terremoto-en-panama-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    },
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/gestos-que-salvan-vidas-transforman-un-autobus-barberia-en-sala-de-cuidados-para-prematuros",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf6e9f335",
+   "sez": "mondo",
+   "titolo": "I colloqui per la coalizione a Praga si concentreranno sulle priorità programmatiche",
+   "orig": "Prague coalition talks to focus on policy priorities",
+   "lead": "I negoziati politici in corso nella capitale ceca per la formazione della nuova coalizione di governo cittadino entreranno nel vivo affrontando i nodi legati alle priorità programmatiche. Le forze politiche coinvolte nelle trattative cercano un'intesa sulle linee guida amministrative da seguire per la gestione della città. La discussione si sviluppa in un clima di confronto tra le diverse anime presenti nel consiglio comunale. Lo riferisce Radio Prague International.",
+   "more": [
+    "Il sistema di governo locale di Praga richiede complessi accordi di coalizione tra i partiti rappresentati nell'assemblea cittadina, chiamati a trovare convergenze su bilancio, investimenti urbani e politiche pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/prague-coalition-talks-focus-policy-priorities-8899833",
+     "angolo": "",
+     "atlas": "Czechia"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147184-mansouri-announces-four-party-coalition-to-form-moroccos-next-government.html",
+     "angolo": "",
+     "atlas": "Morocco"
+    },
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/prague-petition-urges-election-winner-stan-to-form-coalition-without-ods",
+     "angolo": "",
+     "atlas": "Czechia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbbc46ac1",
+   "sez": "ambiente",
+   "titolo": "Transizione energetica in Europa: studio rivela possibili risparmi di 34 mila vite e miliardi di euro all'anno",
+   "orig": "Transição energética na Europa pode poupar 34 mil vidas e 8.500 milhões de euros por ano",
+   "lead": "La transizione energetica in Europa potrebbe consentire di salvare fino a 34.000 vite umane e generare ingenti risparmi economici pari a miliardi di euro all'anno entro il 2030. Secondo un nuovo studio diffuso oggi, solo in Portogallo il beneficio economico stimato ammonterebbe a 8,5 miliardi di euro, contribuendo in modo decisivo alla riduzione dei costi energetici per i cittadini e al miglioramento della qualità dell'aria e della salute pubblica. Lo riferisce RTP.",
+   "more": [
+    "La transizione energetica consiste nel passaggio dai combustibili fossili alle fonti rinnovabili, con l'obiettivo di abbattere le emissioni di gas serra, mitigare i cambiamenti climatici e ridurre l'inquinamento atmosferico nocivo per la salute umana."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/transicao-energetica-na-europa-pode-poupar-34-mil-vidas-e-8500-milhoes-de-euros-por-ano_n1771332",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/13/azul/noticia/transicao-energetica-europa-poupar-34-mil-vidas-ano-2191177",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/12/parceria-especial-ue-cabo-verde-60-milhoes-de-euros-para-reforcar-as-capacidades-de-defesa-e-seguranca-maritima/",
+     "angolo": "",
+     "atlas": "Cabo Verde"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6709888d",
+   "sez": "economia",
+   "titolo": "Come la crisi finanziaria ed economica francese si riflette e contagia l'Italia",
+   "orig": "Comment la crise financière française contamine l’Italie",
+   "lead": "La decisione di Roma di rivedere al rialzo, all'inizio di ottobre, i propri obiettivi di deficit per gli anni 2027 e 2028 – destinando maggiori risorse ai settori della difesa e dell'energia – ha colto di sorpresa gli investitori internazionali. Questa mossa si inserisce in un quadro di instabilità e tensioni finanziarie in Europa, dove le difficoltà di bilancio di alcuni grandi Paesi membri rischiano di trasmettersi rapidamente ai mercati e alle economie vicine. Lo riferisce Le Figaro.",
+   "more": [
+    "Il deficit pubblico rappresenta la differenza negativa tra le entrate e le uscite dello Stato in un anno; la sua gestione e la sostenibilità del debito sovrano sono parametri attentamente monitorati dai mercati finanziari e dalle istituzioni comunitarie."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/conjoncture/comment-la-crise-financiere-francaise-contamine-l-italie-20261012",
+     "angolo": "",
+     "atlas": "France"
+    },
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/societe/politique/le-rocher-a-sa-loi-un-texte-legislatif-adopte-pour-proteger-ce-lieu-emblematique-de-monaco-des-appetits-immobiliers-et-commerciaux-10740261",
+     "angolo": "",
+     "atlas": "Monaco"
+    },
+    {
+     "n": "Monaco Tribune",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.monaco-tribune.com/2026/10/monaco-place-financiere-et-cible-numerique-comment-proteger-ses-echanges-sensibles/",
+     "angolo": "",
+     "atlas": "Monaco"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfe45388f",
+   "sez": "mondo",
+   "titolo": "In sicurezza a Santa Cruz: l'ex direttore della Felcc chiede di aumentare a 12.000 gli effettivi della polizia",
+   "orig": "Rubén Barrientos pide aumentar a 12.000 los policías en Santa Cruz ante el avance de la inseguridad",
+   "lead": "Di fronte al crescente aumento della criminalità e dell'incursione della delinquenza, il colonnello ed ex direttore della Felcc Rubén Barrientos ha chiesto di potenziare l'organico della polizia a Santa Cruz portandolo a 12.000 unità. Attualmente, secondo quanto denunciato, il dipartimento può contare soltanto su un numero compreso tra 5.000 e 5.500 agenti, una forza ritenuta largamente insufficiente per garantire la sicurezza a una popolazione stimata in circa tre milioni di abitanti. Barrientos ha inoltre sollecitato maggiori equipaggiamenti, automezzi e l'adozione di nuove strategie di prevenzione del crimine. Lo riferisce El Deber.",
+   "more": [
+    "La Fuerza Especial de Lucha Contra el Crimen (Felcc) è l'organismo della polizia boliviana incaricato delle indagini criminali e della lotta contro la delittusa organizzata e comune nei diversi dipartimenti del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/ruben-barrientos-pide-aumentar-12-000-policias-santa-cruz-avance-inseguridad_1791859473",
+     "angolo": "",
+     "atlas": "Bolivia"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/13/la-policia-india-pide-extender-su-operativo-en-nueva-delhi-ante-la-ola-diaria-de-protestas/",
+     "angolo": "",
+     "atlas": "Paraguay"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/policial/aprehenden-trabajadora-joyeria-atracada-santa-cruz-presunta-complicidad/20261012173123997528.html",
+     "angolo": "",
+     "atlas": "Bolivia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1ddcf616",
+   "sez": "mondo",
+   "titolo": "La capacità offensiva russa è compromessa: lo dichiara alla BBC l'ex generale ucraino Syrskyi",
+   "orig": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+   "lead": "In quella che costituisce la sua prima intervista ufficiale da quando è stato rimosso dal suo incarico, il generale Oleksandr Syrskyi ha dichiarato alla BBC che la capacità offensiva della Russia risulta ormai compromessa. L'ex capo militare delle forze armate ucraine ha tracciato un bilancio dell'andamento del conflitto e ha discusso le prospettive future dell'Ucraina nella guerra in corso. Lo riferisce BBC News.",
+   "more": [
+    "Il comando militare ucraino ha affrontato fasi alterne di difesa e contrattffensiva contro le forze russe, coordinando le strategie operative sul campo con l'ausilio di equipaggiamenti militari e intelligence forniti dai partner occidentali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/377808/russias-offensive-ability-is-broken-kyivs-former-top-general-tells-bbc",
+     "angolo": "",
+     "atlas": "Uganda"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z90dfd8fb",
+   "sez": "mondo",
+   "titolo": "Fallito tentativo di esecuzione per Christa Pike: il protocollo d'emergenza considerato un falso allarme negli Stati Uniti",
+   "orig": "Christa Pike: Notruf nach Hinrichtungsversuch wurde als Fehlalarm gewertet",
+   "lead": "Negli Stati Uniti, la fallita esecuzione della condannata Christa Pike ha suscitato sdegno e polemiche, dopo che la donna è rimasta in vita nonostante l'utilizzo di due iniezioni letali. Nuovi dettagli emergono dai protocolli delle chiamate di emergenza, che indicano come la richiesta di soccorso sia stata inizialmente catalogata come un falso allarme. Secondo quanto riportato, i soccorritori hanno potuto accedere al perimetro del carcere solo più di mezz'ora dopo per prestare assistenza alla cinquantenne in fin di vita, evidenziando presunti e ulteriori fallimenti da parte delle autorità penitenziarie competenti. Lo riferisce Der Spiegel.",
+   "more": [
+    "Il sistema di esecuzione capitale tramite iniezione letale negli Stati Uniti prevede protocolli rigidi e la presenza di personale medico per monitorare il procedimento. I casi in cui la procedura fallisce o si protrae sollevano regolarmente dibattiti costituzionali sull'applicazione della pena di morte e sui diritti umani dei detenuti."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/christa-pike-notruf-nach-hinrichtungsversuch-wurde-als-fehlalarm-gewertet-a-4eaa5d4f-cd9a-48e4-934d-838dfb4400b3#ref=rss",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000343920/notruf-nach-christa-pike-gescheitertem-hinrichtungsversuch-wurde-als-fehlalarm-gewertet?ref=rss",
+     "angolo": "",
+     "atlas": "Austria"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5435d7eb",
+   "sez": "mondo",
+   "titolo": "La \"Casa dei Segreti\" di Trent Park: l'elegante dimora a Londra usata per spiare i generali nazisti durante la Seconda guerra mondiale",
+   "orig": "'A Casa dos Segredos': a luxuosa mansão usada pelo Reino Unido para espionar generais nazistas e que mudou a história da 2ª Guerra Mundial",
+   "lead": "La lussuosa e apparentemente ordinaria villa di Trent Park, situata nella zona nord di Londra, nasconde nei suoi sotterranei un passato cruciale e poco noto legato allo spionaggio durante la Seconda guerra mondiale tra il 1939 e il 1945. La struttura, caratterizzata in superficie dall'eleganza voluta dal proprietario e anfitrione Philip Sassoon, fu infatti impiegata dal Regno Unito per intercettare e spiare i generali nazisti prigionieri, modificando in modo significativo il corso e gli eventi storici del conflitto bellico. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Durante la Seconda guerra mondiale, i servizi segreti britannici allestirono centri di intercettazione segreti in residenze di campagna per raccogliere informazioni strategiche dai prigionieri di alto rango attraverso la sorveglianza audio e la registrazione delle conversazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/a-casa-dos-segredos-a-luxuosa-mansao-usada-pelo-reino-unido-para-espionar-generais-nazistas-e-que-mudou-a-historia-da-2a-guerra-mundial.shtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/economia/finanzas/2026/10/12/el-fmi-esta-optimista-sobre-la-economia-mundial-a-pesar-de-la-guerra/3687156",
+     "angolo": "",
+     "atlas": "Dominican Rep."
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcc479269",
+   "sez": "mondo",
+   "titolo": "Interruzione di corrente dal 12 al 18 ottobre: orari e zone interessate a Lima e Callao",
+   "orig": "Corte de luz del 12 al 18 de octubre: a qué hora se dará el corte y zonas afectadas en Lima y Callao",
+   "lead": "Nei prossimi giorni, precisamente tra il 12 e il 18 ottobre, alcune aree di Lima e Callao subiranno interruzioni programmate dell'energia elettrica e del servizio di illuminazione. I disservizi sono causati da interventi di manutenzione che la società Pluz Energía condurrà sul territorio. I residenti delle zone coinvolte sono invitati a verificare la programmazione per accertarsi se la propria abitazione rientri tra quelle interessate dallo stop temporaneo della corrente. Lo riferisce El Comercio.",
+   "more": [
+    "Le interruzioni programmate della rete elettrica sono interventi tecnici necessari per la manutenzione straordinaria e l'aggiornamento delle infrastrutture di distribuzione urbana, gestiti solitamente dai concessionari locali dei servizi di pubblica utilità."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-del-12-al-18-de-octubre-a-que-hora-se-dara-el-corte-y-zonas-afectadas-en-lima-y-callao-tdpe-noticia/",
+     "angolo": "",
+     "atlas": "Peru"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/comunidad/ecuador/ecuador-registra-seis-desbordamientos-de-rios-y-cinco-incendios-forestales-activos-estas-son-las-zonas-afectadas-nota/",
+     "angolo": "",
+     "atlas": "Ecuador"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z932360a3",
+   "sez": "mondo",
+   "titolo": "Khabitayah (Matoto): M’Mah Kaba, vedova e indigente, lancia un appello d'aiuto per le cure mediche",
+   "orig": "Khabitayah (Matoto) : veuve et démunie, M’Mah Kaba lance un appel à l’aide pour se soigner",
+   "lead": "Da oltre tre mesi, M’Mah Kaba, una donna di circa quarant'anni residente a Khabitayah nel comune di Matoto, affronta gravi problemi di salute caratterizzati da un anomalo gonfiore all'addome e agli arti inferiori. Dopo aver esaurito tutti i propri risparmi e venduto i beni di valore in suo possesso per sostenere le spese sanitarie iniziali, la donna si trova ora priva di qualsiasi risorsa economica per proseguire i trattamenti medici necessari. La situazione di estrema vulnerabilità ha spinto la vedova a lanciare un appello pubblico per ricevere aiuto. Lo riferisce Mosaïque Guinée.",
+   "more": [
+    "In molte aree urbane dell'Africa occidentale, l'assenza di sistemi di copertura sanitaria universale e pubblica rende estremamente difficile per i cittadini indigenti far fronte a patologie prolungate o che richiedono cure costose."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/khabitayah-matoto-veuve-et-demunie-mmah-kaba-lance-un-appel-a-laide-pour-se-soigner/",
+     "angolo": "",
+     "atlas": "Guinea"
+    },
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/le-pere-georgy-kenny-lance-un-appel-la-paix-et-au-calme",
+     "angolo": "",
+     "atlas": "Mauritius"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7934de3f",
+   "sez": "mondo",
+   "titolo": "L'Ucraina lancia 604 droni contro la Russia, di cui oltre 400 diretti verso Mosca",
+   "orig": "Ucrania lanza 604 drones contra Rusia, de ellos más de 400 contra Moscú",
+   "lead": "Le forze ucraine hanno lanciato complessivamente 604 droni contro il territorio russo, con un'azione su larghissima scala che ha visto più di 400 velivoli senza pilota concentrarsi specificamente sull'area di Mosca. L'attacco notturno ha messo a dura prova i sistemi di sicurezza e difesa della federazione russa, confermando l'intensificarsi delle operazioni aeree a lungo raggio nel contesto del conflitto in corso tra i due Paesi. Lo riferisce ABC Color.",
+   "more": [
+    "L'impiego massiccio di droni a lungo raggio rappresenta una tattica consolidata nel conflitto russo-ucraino per colpire obiettivi strategici, centri logistici e aree di rilevanza politica ed economica distanti dalla linea del fronte."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/13/ucrania-lanza-604-drones-contra-rusia-de-ellos-mas-de-400-contra-moscu/",
+     "angolo": "",
+     "atlas": "Paraguay"
+    },
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/internacional/detalhe/russiaucrania-trump-afasta-se-do-amigo-zelensky-e-chega-se-ao-amigo-putin-furia-na-casa-branca-contra-o-presidente-ucraniano-cessar-fogo-energetico-75292.html",
+     "angolo": "",
+     "atlas": "Angola"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd2eff010",
+   "sez": "mondo",
+   "titolo": "Shadrack Sibiya si dimette dalla polizia sudafricana durante l'udienza disciplinare",
+   "orig": "Sibiya quits SAPS during disciplinary hearing",
+   "lead": "Il vice commissario nazionale sospeso della polizia sudafricana (SAPS), Shadrack Sibiya, ha presentato le proprie dimissioni nel corso dell'udienza disciplinare a suo carico. A causa dei procedimenti in corso, l'uscita dall'organico della polizia è stata formalizzata come un licenziamento con disonore, giunto al culmine di gravi accuse di natura criminale e di pesanti indagini per corruzione che ne avevano già determinato la sospensione. Lo riferisce Mail & Guardian.",
+   "more": [
+    "Le procedure disciplinari nelle forze di polizia prevedono sanzioni amministrative e la destituzione formale quando gli agenti o i funzionari di alto grado affrontano accuse penali gravi, compromettendo il rapporto di fiducia con l'istituzione."
+   ],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-10-12-sibiya-quits-saps-during-disciplinary-hearing/",
+     "angolo": "",
+     "atlas": "South Africa"
+    },
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610130110.html",
+     "angolo": "",
+     "atlas": ""
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/p-plater-charged-with-additional-eight-offences-following-newcastle-horror-crash-20261013-p61573.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z94a19110",
+   "sez": "mondo",
+   "titolo": "Le ceneri della defunta icona del Cantopop Anita Mui risultano scomparse da tre mesi, rivela la famiglia",
+   "orig": "Ashes of late Cantopop icon Anita Mui missing for 3 months, family reveals",
+   "lead": "La famiglia della compianta stella del Cantopop Anita Mui ha lanciato un appello pubblico per raccogliere informazioni dopo aver scoperto, quasi tre mesi fa, che l'urna contenente le ceneri della cantante era stata rimossa e sottratta dal monastero di Lantau in cui era custodita. La scomparsa è emersa quando un ammiratore si è recato al monastero di Po Lin per rendere omaggio all'artista, facendo scattare la denuncia e la mobilitazione dei familiari. Lo riferisce Hong Kong Free Press.",
+   "more": [
+    "Il culto della memoria e la conservazione delle ceneri nei monasteri rivestono un'importanza culturale profonda in molte comunità asiatiche, rendendo il furto di reliquie o urne funebri di personaggi pubblici un evento di forte impatto emotivo e mediatico."
+   ],
+   "fonti": [
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/10/12/ashes-of-late-cantopop-icon-anita-mui-missing-for-3-months-family-reveals/",
+     "angolo": "",
+     "atlas": "China"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/society/article/3370668/hong-kong-police-ramp-investigation-anita-muis-missing-ashes-unit-upgrade?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z07655a7e",
+   "sez": "mondo",
+   "titolo": "Il punto del martedì: Andy Burnham potrebbe riportare la Gran Bretagna verso l'Unione Europea?",
+   "orig": "Tuesday briefing: Could Burnham take Britain back towards the EU?",
+   "lead": "Nel briefing politico odierno, l'attenzione si concentra sulle recenti dichiarazioni di Andy Burnham, il quale, durante il primo giorno successivo alla conferenza di partito, ha invocato una relazione più stretta con l'Unione Europea, cercando di chiudere definitivamente con un decennio di divisioni e incertezze politiche. Burnham ha inoltre sostenuto il coinvolgimento del Cremlino nel voto sulla Brexit del 2016, segnando una netta discontinuità retorica rispetto ai precedenti governi conservatori che avevano sempre escluso ingerenze russe. Lo riferisce The Guardian.",
+   "more": [
+    "I rapporti post-Brexit tra il Regno Unito e l'Unione Europea costituiscono un tema centrale del dibattito politico britannico, con diverse correnti interne ai partiti che discutono il grado di riavvicinamento commerciale e istituzionale con Bruxelles."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/13/tuesday-briefing-could-burnham-take-britain-back-towards-the-eu",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/12/monday-briefing-what-will-it-take-to-turn-around-our-struggling-education-system",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z398f0514",
+   "sez": "mondo",
+   "titolo": "L'intervista a Maggie Haberman: “Così Trump si vanta di essere più potente di Hitler e Stalin dopo aver asservito gli Stati Uniti”",
+   "orig": "Haberman: “Ha asservito gli Usa, così Trump si vanta di essere più potente di Hitler e Stalin”",
+   "lead": "In un'intervista rilasciata al New York Times, la corrispondente dalla Casa Bianca Maggie Haberman analizza la figura politica e la strategia di Donald Trump, evidenziando come l'ex presidente si vanti di superare in potenza storica figure come Hitler e Stalin e affermi di aver asservito gli Stati Uniti. Secondo l'analisi della giornalista, la sconfitta elettorale del 2020 si è rivelata paradossalmente una fortuna politica per Trump, evitandogli la gestione complessa del ritiro da Kabul e le scorie della pandemia e permettendogli di conservare intatta la sua immagine di outsider. Lo riferisce la Repubblica.",
+   "more": [
+    "Il ruolo dei corrispondenti della stampa estera e le analisi sul profilo politico dei leader americani contribuiscono a delineare il clima politico statunitense in vista delle scadenze elettorali e dei dibattiti istituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/13/news/haberman_intervista_giornalista_new_york_times_soldi_vendette_trump_segreti_presidenza_usa-425643804/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/13/news/haberman_intervista_giornalista_new_york_times_soldi_vendette_trump_segreti_presidenza_usa-425643804/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0213b5c3",
+   "sez": "mondo",
+   "titolo": "Comizio di Itamar Ben Gvir a Tel Aviv tra la folla: cori e richieste di eliminare l'Autorità palestinese",
+   "orig": "Tra la folla al comizio di Ben Gvir: “Eliminare l’Autorità palestinese”",
+   "lead": "Il leader dell'estrema destra israeliana Itamar Ben Gvir ha tenuto un comizio pubblico nel cuore della Tel Aviv laica e liberale, raccogliendo l'adesione dei sostenitori presenti tra la folla. Durante l'evento, caratterizzato da toni accesi, sono risuonate richieste esplicite di eliminare l'Autorità palestinese, mentre il politico ha difeso la propria linea dura affermando che sotto la sua gestione i terroristi in carcere ricevono il trattamento che meritano. Lo riferisce la Repubblica.",
+   "more": [
+    "La politica interna israeliana vede contrapposte diverse visioni sul futuro dei territori palestinesi e sulla gestione dei detenuti accusati di terrorismo, con l'ala ultranazionalista che promuove posizioni di forte scontro istituzionale."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/13/news/elezioni_israele_comizio_ben_gvir_leader_estrema_destra_tel_aviv-425643953/",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/13/news/elezioni_israele_comizio_ben_gvir_leader_estrema_destra_tel_aviv-425643953/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9b2f095f",
+   "sez": "mondo",
+   "titolo": "Kenya: la perdita del posto di lavoro spinge i cittadini a prelevare dai fondi pensione",
+   "orig": "Job losses push Kenyans to tap into retirement funds",
+   "lead": "Un recente rapporto economico condotto in Kenya evidenzia una tendenza preoccupante legata alla perdita di occupazione: un numero crescente di lavoratori si trova costretto ad attingere anticipatamente ai propri fondi di previdenza complementare e risparmi per la vecchiaia per far fronte alle difficoltà economiche quotidiane. Dalla ricerca emerge inoltre che più della metà delle persone che hanno effettuato prelievi dai fondi pensione ha successivamente espresso profondo rimpianto per tale decisione, compromettendo la propria sicurezza finanziaria futura. Lo riferisce Daily Nation.",
+   "more": [
+    "I sistemi di previdenza complementare e i fondi pensione privati nei Paesi in via di sviluppo rappresentano spesso l'unica ancora di salvataggio per i lavoratori che perdono il impiego formale, a discapito della copertura previdenziale a lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/business/job-losses-push-kenyans-to-tap-into-retirement-funds-5629596",
+     "angolo": "",
+     "atlas": "Kenya"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/7-in-every-10-working-kenyans-are-not-ready-for-a-comfortable-retirement-report-n391934",
+     "angolo": "",
+     "atlas": "Kenya"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8724539e",
+   "sez": "mondo",
+   "titolo": "Ceuta attende la visita dei monarchi spagnoli Filippo VI e Letizia dopo la crisi migratoria estiva",
+   "orig": "Ceuta awaits King Felipe after summer migration crisis",
+   "lead": "La città autonoma di Ceuta si prepara a ricevere la visita dei re di Spagna Filippo VI e regina Letizia, in un viaggio dal forte valore simbolico programmato dopo che una gravissima crisi migratoria estiva ha messo a dura prova la coesione sociale dell'enclave nordafricana. Le autorità locali hanno predisposto misure di sicurezza straordinarie e intensificato i preparativi per accogliere la prima visita di un sovrano regnante dal 2007, decorando le strade e distribuendo bandiere spagnole. Lo riferisce Euronews.",
+   "more": [
+    "Le enclavi spagnole nel Nord Africa, come Ceuta e Melilla, rappresentano frontiere terrestri cruciali dell'Unione Europea e sono periodicamente al centro di complesse crisi migratorie e diplomatiche."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/video/2026/10/13/ceuta-awaits-king-felipe-after-summer-migration-crisis",
+     "angolo": "",
+     "atlas": ""
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147191-ceuta-hands-out-spanish-flags-tightens-security-ahead-of-felipe-vi-overnight-visit.html",
+     "angolo": "",
+     "atlas": "Morocco"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf3d7299b",
+   "sez": "mondo",
+   "titolo": "Le forze armate del Sudan del Sud negano la sconfitta dopo la rivendicazione del movimento SPLA-IO sulla base di Mundri",
+   "orig": "SSPDF denies defeat as SPLA-IO claims capture of Mundri barracks",
+   "lead": "Le Forze di Difesa del Popolo del Sudan del Sud (SSPDF) hanno smentito con decisione le notizie relative alla presunta perdita del loro avamposto militare situato a Bari, nella contea di Mundri West nello Stato dell'Equatoria Occidentale. L'esercito governativo ha dichiarato di aver respinto con successo un attacco sferrato nelle prime ore di lunedì mattina dalle forze di opposizione, contraddicendo la precedente rivendicazione del movimento armato Sudan People's Liberation Army in Opposition (SPLM-IO) che aveva sostenuto di aver conquistato la base. Lo riferisce Sudans Post.",
+   "more": [
+    "Gli scontri locali tra le forze governative e i gruppi armati di opposizione nel Sudan del Sud continuano a rappresentare una sfida persistente per la stabilità e la sicurezza della regione dell'Equatoria."
+   ],
+   "fonti": [
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/the-south-sudan-peoples-defence-forces-sspdf-says-it-repelled-an-early-monday-attack-by-opposition-forces-on-its-military-outpost-in-bari-mundri-west-county-western-equatoria-state/?utm_source=rss&utm_medium=rss&utm_campaign=the-south-sudan-peoples-defence-forces-sspdf-says-it-repelled-an-early-monday-attack-by-opposition-forces-on-its-military-outpost-in-bari-mundri-west-county-western-equatoria-state",
+     "angolo": "",
+     "atlas": "S. Sudan"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/two-sspdf-soldiers-wounded-in-attack-on-mundri-west-military-outpost/?utm_source=rss&utm_medium=rss&utm_campaign=two-sspdf-soldiers-wounded-in-attack-on-mundri-west-military-outpost",
+     "angolo": "",
+     "atlas": "S. Sudan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1178f984",
+   "sez": "mondo",
+   "titolo": "Les Dépêches de Brazzaville: edizione del 12 ottobre 2026",
+   "orig": "edition_brazaville - 20261012",
+   "lead": "La testata congolese Les Dépêches de Brazzaville ha pubblicato l'edizione ufficiale quotidiana datata 12 ottobre 2026, mettendo a disposizione dei lettori la versione digitale in formato PDF e le anteprime delle pagine d'informazione relative agli eventi istituzionali, politici ed economici del Paese e della regione. Lo riferisce Les Dépêches de Brazzaville.",
+   "more": [
+    "I quotidiani dell'Africa centrale offrono regolarmente bollettini informativi e rassegne di cronaca istituzionale per documentare l'attività amministrativa e lo sviluppo socio-economico locale."
+   ],
+   "fonti": [
+    {
+     "n": "Les Dépêches de Brazzaville",
+     "p": "XX",
+     "c": "Brazzaville",
+     "u": "https://www.lesdepechesdebrazzaville.fr/node/171944",
+     "angolo": "",
+     "atlas": "Congo"
+    },
+    {
+     "n": "Les Dépêches de Brazzaville",
+     "p": "XX",
+     "c": "Brazzaville",
+     "u": "https://www.lesdepechesdebrazzaville.fr/node/171915",
+     "angolo": "",
+     "atlas": "Congo"
+    },
+    {
+     "n": "Les Dépêches de Brazzaville",
+     "p": "XX",
+     "c": "Brazzaville",
+     "u": "https://www.lesdepechesdebrazzaville.fr/node/171884",
+     "angolo": "",
+     "atlas": "Congo"
+    },
+    {
+     "n": "ADIAC",
+     "p": "XX",
+     "c": "Brazzaville",
+     "u": "https://www.adiac-congo.com/content/editionbrazaville-20261012-171944",
+     "angolo": "",
+     "atlas": "Congo"
+    },
+    {
+     "n": "ADIAC",
+     "p": "XX",
+     "c": "Brazzaville",
+     "u": "https://www.adiac-congo.com/content/editionbrazaville-20261009-171915",
+     "angolo": "",
+     "atlas": "Congo"
+    },
+    {
+     "n": "ADIAC",
+     "p": "XX",
+     "c": "Brazzaville",
+     "u": "https://www.adiac-congo.com/content/editionbrazaville-20261007-171884",
+     "angolo": "",
+     "atlas": "Congo"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5339c010",
+   "sez": "mondo",
+   "titolo": "Navigare tra le dinamiche di potere tra Cina e Stati Uniti al vertice Apec di Shenzhen",
+   "orig": "Navigating China-US power play at Shenzhen Apec",
+   "lead": "Il vertice della Cooperazione Economica Asia-Pacifico (Apec) in programma a Shenzhen si inserisce nel complesso scenario dei rapporti di forza geopolitici e commerciali tra la Cina e gli Stati Uniti. L'evento attira l'attenzione degli osservatori internazionali per le delicate implicazioni diplomatiche ed economiche che caratterizzano il dialogo tra le due superpotenze nella regione asiatica. Lo riferisce South China Morning Post.",
+   "more": [
+    "I vertici Apec riuniscono i leader e i rappresentanti delle economie dell'area del Pacifico per discutere di libero scambio, cooperazione economica e stabilità regionale, risentendo inevitabilmente delle tensioni bilaterali tra Washington e Pechino."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/series/3370678/navigating-china-us-power-play-shenzhen-apec?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    },
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/article/3370574/china-keeps-extending-shenzhen-apec-deadline-why-are-us-execs-so-unenthused?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0801acdc",
+   "sez": "mondo",
+   "titolo": "Analisi del DNA e tracciamento dei veicoli: gli inquirenti francesi recuperano i quadri di Renoir rubati",
+   "orig": "DNA and vehicle-tracking help French investigators recover stolen Renoirs",
+   "lead": "Le indagini condotte in Francia hanno permesso di recuperare due dipinti di Renoir precedentemente trafugati, grazie a tracce di DNA lasciate su una copertura protettiva dei quadri. Secondo quanto dichiarato da un pubblico ministero francese, l'indisponibilità biologica ha consentito agli investigatori non solo di rintracciare le opere d'arte rubate, ma anche di sventare i preparativi per un ulteriore presunto colpo e furto d'arte organizzato dalla stessa rete criminale. Lo riferisce NPR.",
+   "more": [
+    "L'impiego di tecniche forensi avanzate, inclusa l'estrazione di profili genetici da reperti minimi, si rivela sempre più determinante nelle indagini per il recupero di beni culturali trafugati e nel contrasto ai furti d'arte specializzati."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/13/g-s1-147818/france-stolen-renoirs-recovered",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z04e347ce",
+   "sez": "mondo",
+   "titolo": "Il governo spende 10 milioni di dollari in spot pro-Trump dopo l'annuncio del finanziamento tramite il super PAC",
+   "orig": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+   "lead": "Quasi ventidue milioni di dollari di fondi pubblici dei contribuenti statunitensi sono stati impiegati per la messa in onda di spot pubblicitari, di cui circa la metà spesi dopo la promessa formulata dal presidente di finanziare i messaggi di pubblica utilità tramite il proprio super PAC. Nonostante le dichiarazioni della Casa Bianca avessero indicato che la spesa sarebbe stata coperta da fonti politiche private, i dati confermano l'esborso diretto di denaro pubblico. Lo riferisce NPR.",
+   "more": [
+    "La spesa pubblicitaria istituzionale e la comunicazione della presidenza degli Stati Uniti sono soggette a rigidi controlli finanziari e parlamentari per garantire la trasparenza nell'utilizzo dei fondi dei contribuenti."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z11252c4a",
+   "sez": "mondo",
+   "titolo": "Strategia politica: l'impatto dei rancori personali di Trump sulle prospettive del Partito Repubblicano",
+   "orig": "Political strategist on how Trump's personal grievances could affect the GOP",
+   "lead": "In un'analisi dedicata alle dinamiche interne alla politica statunitense, l'emittente affronta il tema di come le vicende personali, i rancori e i progetti promossi dall'ex presidente Donald Trump stiano influenzando concretamente le probabilità di successo dei candidati del Partito Repubblicano in vista delle prossime scadenze elettorali. L'intervista a esperti e strateghi politici evidenzia i rischi e le opportunità per il partito conservatore legati all'eredità politica della leadership di Trump. Lo riferisce NPR.",
+   "more": [
+    "Le strategie dei partiti politici statunitensi risentono fortemente del posizionamento delle figure di spicco e della capacità di mobilitare l'elettorato senza disperdere i voti dei moderati."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/12/nx-s1-5996646/political-strategist-on-how-trumps-personal-grievances-could-affect-the-gop",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z64db4582",
+   "sez": "mondo",
+   "titolo": "Cosa frena le ambizioni di Cipro sull'ingresso nello spazio Schengen?",
+   "orig": "What is holding back Cyprus's Schengen ambitions?",
+   "lead": "Nonostante la Commissione europea abbia formalmente riconosciuto che Cipro possiede i requisiti tecnici per aderire all'area di Schengen, il percorso del Paese verso la zona di libera circolazione europea resta complicato. A rallentare l'iter di integrazione contribuiscono questioni irrisolte legate alla divisione territoriale dell'isola e alla presenza delle basi militari britanniche, che pongono interrogativi complessi sulla gestione dei confini esterni dell'Unione Europea. Lo riferisce Deutsche Welle.",
+   "more": [
+    "L'adesione all'area di Schengen richiede il controllo rigoroso delle frontiere esterne e l'assenza di contenziosi territoriali irrisolti che possano compromettere la sicurezza e la cooperazione giudiziaria tra gli Stati membri."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z80faa644",
+   "sez": "mondo",
+   "titolo": "Unione Europea: in arrivo un maxi-pacchetto di sanzioni contro Mosca",
+   "orig": "Ue: maxi-pacchetto di sanzioni a Mosca",
+   "lead": "L'Unione Europea si appresta a varare un nuovo e consistente pacchetto di sanzioni nei confronti della Russia. Secondo quanto annunciato dai rappresentanti comunitari, tra cui Kaja Kallas, il provvedimento include quasi milleseicento nuove voci mirate a colpire il comparto della Difesa russa e i settori chiave dell'apparato economico e militare collegato al conflitto in Ucraina. Lo riferisce Rai News.",
+   "more": [
+    "I pacchetti sanzionatori adottati dall'Unione Europea contro la Russia comprendono restrizioni commerciali, divieti di esportazione di tecnologie sensibili e congelamento dei beni per limitare le capacità finanziarie e militari di Mosca."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/ue-maxi-pacchetto-di-sanzioni-a-mosca-0edfd1b9-b002-42d6-b582-3f0158825a01.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z99d3c28e",
+   "sez": "mondo",
+   "titolo": "Como, due incidenti mortali in montagna. Salvati cinque escursionisti sulla Maiella",
+   "orig": "Como, due incidenti mortali in montagna",
+   "lead": "La cronaca di montagna registra due tragici incidenti mortali avvenuti nel territorio comasco, dove due escursionisti hanno perso la vita durante le loro uscite in quota. Nello stesso contesto temporale, un'operazione di soccorso si è conclusa con successo sulla Maiella, in Abruzzo, dove le squadre di emergenza sono riuscite a rintracciare e trarre in salvo cinque escursionisti che si erano trovati in difficoltà a causa delle condizioni avverse o della perdita dell'orientamento. Lo riferisce Rai News.",
+   "more": [
+    "Il Soccorso Alpino interviene regolarmente per far fronte alle emergenze in montagna, ricordando la necessità di un'adeguata preparazione e di attrezzature idonee prima di intraprendere escursioni in quota."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/como-due-incidenti-mortali-in-montagna-c8fb8016-8d21-4c73-859a-e26a0639b839.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0f7d467f",
+   "sez": "mondo",
+   "titolo": "Il governo discuterà un piano incentrato sulla salute per affrontare il consumo di droga",
+   "orig": "Government to discuss health-led plan to tackle drug use",
+   "lead": "Il governo irlandese si appresta a esaminare e discutere una nuova strategia incentrata sulla salute pubblica per contrastare il fenomeno della tossicodipendenza. Il piano, strutturato come la nuova Strategia Nazionale sulle Droghe per i prossimi cinque anni, verrà pubblicato ufficialmente non appena avrà ricevuto la ratifica e l'approvazione formale da parte del Consiglio dei Ministri. Lo riferisce RTÉ News.",
+   "more": [
+    "Le politiche sanitarie di contrasto alle dipendenze puntano sempre più su approcci di riduzione del danno, prevenzione medica e supporto psicologico rispetto alla sola risposta di natura repressiva o penale."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1013/1595117-cabinet-politics-ireland/",
+     "angolo": "",
+     "atlas": "Ireland"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1a56b624",
+   "sez": "mondo",
+   "titolo": "Le guardie di frontiera lituane sequestrano un carico di sigarette di contrabbando per un valore superiore a 800 mila euro",
+   "orig": "Pasieniečiai aptiko daugiau kaip 800 tūkst. eurų vertės kontrabandinių cigarečių krovinį",
+   "lead": "Le autorità di frontiera della Lituania hanno intercettato e sventato un'operazione di contrabbando a Šiauliai, arrestando due uomini sorpresi mentre trasferivano centocinquantamila pacchetti di sigarette illecite da un autoarticolato a un furgone da carico. Secondo quanto comunicato dal Servizio di Stato per la Guardia di Frontiera (VSAT), il valore commerciale complessivo della merce sequestrata supera gli ottocentomila euro. Lo riferisce LRT.",
+   "more": [
+    "Il contrabbando di tabacco lungo i confini esterni dell'Unione Europea rappresenta una delle principali attività illecite contrastate dai servizi doganali e di polizia di frontiera attraverso controlli mirati sui trasporti merci."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3081084/pasienieciai-aptiko-daugiau-kaip-800-tukst-euru-vertes-kontrabandiniu-cigareciu-krovini",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2445f26c",
+   "sez": "mondo",
+   "titolo": "Tribunale lituano: legittima la sanzione disciplinare inflitta a un pubblico ministero attivo nelle forze di volontariato",
+   "orig": "Teismas: KASP tarnavęs prokuroras pagrįstai pripažintas padaręs tarnybinį pažeidimą",
+   "lead": "Il Tribunale amministrativo regionale della Lituania ha emesso una sentenza respingendo il ricorso presentato da un pubblico ministero in merito a un provvedimento disciplinare. Il magistrato, che presta servizio anche nelle Forze di Volontariato della Difesa Nazionale (KASP), è stato riconosciuto legittimamente colpevole di aver commesso un'infrazione di natura disciplinare nello svolgimento dei suoi doveri. Lo riferisce LRT.",
+   "more": [
+    "I magistrati e i funzionari pubblici soggetti a particolari codici deontologici possono incorrere in sanzioni disciplinari qualora violino i regolamenti interni o le disposizioni relative ai doveri d'ufficio e alla condotta professionale."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3081082/teismas-kasp-tarnaves-prokuroras-pagristai-pripazintas-padares-tarnybini-pazeidima",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbd0a70cb",
+   "sez": "mondo",
+   "titolo": "L'unicorno lituano del gruppo Source punta a ricavi record e a nuove acquisizioni di imprese",
+   "orig": "Lietuviškas vienaragis – po „Source“ skėčiu: kol žmonės alkani, kursime sėkmingus verslus",
+   "lead": "Nato come start-up locale con lo sguardo rivolto alle realtà globali, il gruppo imprenditoriale lituano Source, guidato da Julius Černiauskas e forte di cinque aziende riunite sotto il medesimo marchio, registra una crescita significativa che punta a superare i trecento milioni di euro di ricavi nel corso dell'anno. Forte di questo successo, la società guarda al futuro con l'ambizione di espandere ulteriormente il proprio perimetro attraverso l'acquisizione di nuove aziende e la creazione di un network imprenditoriale solido e competitivo sui mercati internazionali. Lo riferisce LRT.",
+   "more": [
+    "Il settore delle start-up tecnologiche e dei cosiddetti unicorni nei Paesi baltici ha registrato negli ultimi anni una forte espansione, favorita da ecosistemi digitali avanzati e da strategie di internazionalizzazione mirate."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3080367/lietuviskas-vienaragis-po-source-skeciu-kol-zmones-alkani-kursime-sekmingus-verslus",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z074cf964",
+   "sez": "mondo",
+   "titolo": "La dogana lituana mette in guardia contro le truffe online: pagati 149 euro per un codice EORI gratuito",
+   "orig": "Muitinė įspėja apie sukčius: už nemokamą EORI kodą gyventojas sumokėjo 149 eurus",
+   "lead": "Le autorità doganali della Lituania hanno diffuso un avviso ufficiale per mettere in guardia i cittadini contro l'attività di intermediari fraudolenti attivi su internet. I truffatori offrono a pagamento l'assistenza per l'ottenimento del codice EORI, facendo leva sulla disinformazione degli utenti, sebbene la procedura ufficiale per il rilascio del codice sia interamente gratuita. Un cittadino è stato truffato arrivando a pagare centoquarantanove euro per un servizio che non prevede alcun costo. Lo riferisce LRT.",
+   "more": [
+    "Le truffe telematiche legate a pratiche amministrative e doganali sfruttano spesso la complessità apparente della burocrazia per sottrarre denaro a utenti ignari che cercano informazioni sui motori di ricerca."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3081075/muitine-ispeja-apie-sukcius-uz-nemokama-eori-koda-gyventojas-sumokejo-149-eurus",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z271a796e",
+   "sez": "mondo",
+   "titolo": "La Lettonia offre protezione a oltre trentamila ucraini",
+   "orig": "32,000 Ukrainians currently have protection in Latvia",
+   "lead": "La Lettonia ospita attualmente 32.000 cittadini ucraini che hanno ottenuto lo status di protezione temporanea, secondo gli ultimi dati diffusi da Eurostat aggiornati al 31 agosto 2026. Il provvedimento si inserisce nel quadro europeo di accoglienza per le persone fuggite dall'Ucraina in seguito alla guerra di aggressione scatenata dalla Russia, che nell'intera Unione Europea interessa complessivamente 4,43 milioni di non comunitari. Lo riferisce LSM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/society/society/13.10.2026-32000-ukrainians-currently-have-protection-in-latvia.a667297/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze1d204ad",
+   "sez": "economia",
+   "titolo": "In Lettonia pneumatici invernali più costosi per i automobilisti",
+   "orig": "Tyres will be expensive in Latvia this winter",
+   "lead": "I conducenti in Lettonia che si preparano ad affrontare l'arrivo della stagione fredda acquistando un nuovo set di pneumatici invernali dovranno fare i conti con un significativo aumento dei prezzi e ulteriori preoccupazioni. Con il calo delle temperature, i negozi specializzati registrano un incremento delle attività mentre gli automobilisti provvedono al cambio gomme. Lo riferisce LSM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/economy/transport/13.10.2026-tyres-will-be-expensive-in-latvia-this-winter.a667289/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z03f4c78b",
+   "sez": "mondo",
+   "titolo": "Scontro tra tasso e riccio accende la curiosità e promuove Aizpute",
+   "orig": "Badger vs. hedgehog brawl makes a name for Aizpute",
+   "lead": "La celebre e ampiamente pubblicizzata battaglia avvenuta ad Aizpute tra un tasso e un riccio ha generato un forte incremento dell'interesse da parte dei residenti e del consiglio comunale verso la cittadina. Gli abitanti hanno iniziato a promuovere la località locale realizzando borse e magliette personalizzate, mentre l'emittente TV Kurzeme riporta che sono in programma anche la creazione di un'installazione di pubblica arte e nuove iniziative locali.",
+   "more": [
+    "Aizpute è un centro abitato situato nella regione della Curlandia, in Lettonia, noto per le sue tradizioni culturali e le iniziative di valorizzazione del territorio promosse dalla comunità locale."
+   ],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/society/society/13.10.2026-badger-vs-hedgehog-brawl-makes-a-name-for-aizpute.a667280/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf41ffe17",
+   "sez": "mondo",
+   "titolo": "Tamara Keith e Amy Walter analizzano la vulnerabilità dei repubblicani alle elezioni di metà mandato",
+   "orig": "Tamara Keith and Amy Walter on the GOP's vulnerability in the midterms",
+   "lead": "Tamara Keith di NPR e Amy Walter del Cook Political Report si sono unite a Geoff Bennett per discutere le ultime novità della politica statunitense. Al centro del dibattito vi sono la campagna elettorale del presidente Trump con le elezioni di metà mandato ormai vicine, l'ascesa della competitività nella corsa per il Senato in Carolina del Sud, le sfide più incerte per il Senato e l'utilizzo di annunci promozionali a favore di Trump finanziati dai contribuenti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-gops-vulnerability-in-the-midterms",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb072528c",
+   "sez": "mondo",
+   "titolo": "Il libro di Michael Lewis sui dipendenti federali che hanno resistito a DOGE",
+   "orig": "In 'Blockers,' Michael Lewis highlights government workers who resisted DOGE",
+   "lead": "Nel suo nuovo libro intitolato \"Blockers\", lo scrittore Michael Lewis analizza l'influenza esercitata sul governo federale da Elon Musk, il quale ha donato oltre 365 milioni di dollari per sostenere i repubblicani nelle elezioni di metà mandato. Durante un'intervista con Lisa Desjardins, Lewis ha discusso il periodo in cui Musk ha guidato DOGE e le vicende dei dipendenti federali finiti nel mirino dell'iniziativa.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/show/in-blockers-michael-lewis-highlights-government-workers-who-resisted-doge",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z45e49b5b",
+   "sez": "mondo",
+   "titolo": "Scontro politico in Corea del Sud sulla risoluzione di condanna alla Corea del Nord per l'esplosione della mina nella DMZ",
+   "orig": "Rival parties spar over adoption of resolution condemning N. Korea for DMZ mine blast",
+   "lead": "I partiti rivali in Corea del Sud si sono duramente scontrati martedì in merito all'adozione di una mozione di condanna nei confronti della Corea del Nord. La tensione politica è legata all'esplosione di una mina terrestre avvenuta nella zona demilitarizzata (DMZ), un episodio che ha riacceso le polemiche tra le diverse forze parlamentari di Seul.",
+   "more": [
+    "La zona demilitarizzata coreana è una striscia di terra fortificata che divide la penisola coreana in due parti, istituita in seguito all'armistizio della guerra di Corea."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261013007800315",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd999c63c",
+   "sez": "sport",
+   "titolo": "Il giocatore di cricket australiano Steve Smith monitorato per una possibile commozione cerebrale",
+   "orig": "Smith monitored for concussion after hit to helmet while batting",
+   "lead": "La nazionale di cricket dell'Australia continuerà a monitorare le condizioni di Steve Smith dopo un colpo ricevuto al casco mentre batteva. L'infortunio del vice-capitano introduce ulteriori interrogativi e preoccupazioni sulla composizione della squadra in vista del secondo Test match. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-13/steve-smith-monitored-for-concussion-day-four/107258824",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z26b23d4e",
+   "sez": "sport",
+   "titolo": "L'Australia vicina alla vittoria nel primo Test contro il Sudafrica grazie alla prova di Matt Renshaw",
+   "orig": "Refusing to yield momentum, ruthless Australia is perfectly set for victory",
+   "lead": "Nonostante il tentativo del Sudafrica di riprendere il controllo durante la partita, l'Australia mantiene una condotta di gara spietata e si trova a un passo dalla vittoria nel primo Test. A trascinare la formazione australiana è stato ancora una volta Matt Renshaw, protagonista di una prestazione di alto livello. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-13/australia-perfectly-set-for-victory-first-cricket-test-rsa/107258722",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8f45934a",
+   "sez": "mondo",
+   "titolo": "Proteste in Nuova Zelanda per lo stop ai volontari della Guardia Costiera aerea",
+   "orig": "'Knee jerk response' - Coastguard air volunteers grounded over safety rule changes",
+   "lead": "Il blocco operativo imposto a due squadre di volontari della pattuglia aerea sta sollevando gravi preoccupazioni per la sicurezza dei naviganti nella parte settentrionale dell'Isola del Nord. La misura, definita da un membro dei volontari come una reazione impulsiva legata a modifiche delle regole di sicurezza, rischia di lasciare scoperte le attività di soccorso marittimo. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/emergencies_local/1875644/knee-jerk-response-coastguard-air-volunteers-grounded-over-safety-rule-changes",
+     "angolo": "",
+     "atlas": "New Zealand"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z55e5142f",
+   "sez": "mondo",
+   "titolo": "Aumenta vertiginosamente la richiesta di aiuti alimentari per gli anziani a Taranaki",
+   "orig": "'We're seeing a real need out there' - demand for over 65s food service doubles in Taranaki",
+   "lead": "La domanda di servizi di assistenza alimentare dedicati agli ultrasessantacinquenni nella regione di Taranaki ha registrato un forte raddoppio, evidenziando una crescente necessità sociale. Dalle rilevazioni emerge che dal maggio 2024 il negozio gratuito per over 65 ha distribuito complessivamente 29.949 chili di cibo in eccesso, quantificabili in oltre 66.000 pasti forniti ai residenti in difficoltà. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/community/1874577/we-re-seeing-a-real-need-out-there-demand-for-over-65s-food-service-doubles-in-taranaki",
+     "angolo": "",
+     "atlas": "New Zealand"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z01bcdb62",
+   "sez": "mondo",
+   "titolo": "Il ministro dell'Educazione neozelandese critica il Consiglio dell'Istruzione dopo il caso di un insegnante condannato per reati sessuali",
+   "orig": "Education Minister Erica Stanford slams Teaching Council after sex offender allowed to teach",
+   "lead": "Il ministro dell'Educazione Erica Stanford ha duramente criticato il Consiglio dell'Istruzione della Nuova Zelanda in seguito alla vicenda di un aggressore sessuale autorizzato a continuare a insegnare nonostante la presenza di numerosi segnali d'allarme. Secondo il ministro, il caso dimostra l'esistenza di una cultura profondamente deteriorata all'interno dell'organismo di controllo. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/crime-and-justice/1874190/education-minister-erica-stanford-slams-teaching-council-after-sex-offender-allowed-to-teach",
+     "angolo": "",
+     "atlas": "New Zealand"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z42d275f0",
+   "sez": "mondo",
+   "titolo": "Dimissioni del ministro della Giustizia delle Figi dopo la polemica per un video esplicito",
+   "orig": "Fiji's justice minister resigns following explicit video controversy",
+   "lead": "Il ministro della Giustizia delle Figi, Siromi Turaga, ha rassegnato le dimissioni in seguito alle polemiche suscitate dalla comparsa di un video esplicito sul proprio profilo Facebook. L'episodio si è verificato a pochi giorni di distanza dalle celebrazioni per il cinquantaseiesimo anniversario dell'indipendenza del Paese oceaniano. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1874170/fiji-s-justice-minister-resigns-following-explicit-video-controversy",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9b71fb3c",
+   "sez": "sport",
+   "titolo": "La nazionale di rugby a 15 delle Figi punta su Jarome Luai per i mondiali del 2026",
+   "orig": "RLWC2026: Toa Samoa banks on Luai",
+   "lead": "Il commissario tecnico e il co-capitano della selezione di rugby dei Toa Samoa concordano sul fatto che il veterano Jarome Luai rappresenterà l'uomo chiave e il punto di riferimento fondamentale per la campagna della squadra in vista della Coppa del Mondo di Rugby League del 2026. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1872105/rlwc2026-toa-samoa-banks-on-luai",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z05d0f794",
+   "sez": "mondo",
+   "titolo": "Notizie dal Pacifico: confermata la partecipazione delle squadre samoane sotto l'egida di Lakapi Samoa",
+   "orig": "Pacific news in brief for 13 October",
+   "lead": "Tra le notizie regionali del Pacifico diffuse per la giornata del 13 ottobre spicca la conferma ufficiale che le squadre nazionali di Samoa continueranno a prendere parte alle competizioni regionali e internazionali sotto la guida e la rappresentanza di Lakapi Samoa. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1872332/pacific-news-in-brief-for-13-october",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z009011ea",
+   "sez": "mondo",
+   "titolo": "Hong Kong: pronte le misure per il nuovo porto di Huanggang in vista del festival Chung Yeung",
+   "orig": "Huanggang all geared for Chung Yeung test: Mable Chan",
+   "lead": "Il segretario per i Trasporti e la Logistica, Mable Chan, ha dichiarato che le autorità non abbasseranno la guardia in vista del primo importante banco di prova per il nuovo valico di Huanggang durante il fine settimana del Festival Chung Yeung. Intervenendo a un programma radiofonico, Chan ha sottolineato che, dopo il regolare avvio delle operazioni di lunedì, sono state predisposte risorse aggiuntive per il trasporto pubblico e piani di contingenza per gestire i flussi elevati di passeggeri e veicoli durante le festività. Lo riferisce RTHK.",
+   "more": [
+    "Il Festival Chung Yeung, noto anche come la festa del doppio nove, è una festività tradizionale cinese dedicata alla scalata dei monti e al culto degli antenati."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1873717-20261013.htm",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z883925c9",
+   "sez": "mondo",
+   "titolo": "Il capo dell'esecutivo John Lee: Hong Kong sarà un terreno fertile per le nuove tecnologie",
+   "orig": "CE says HK to be breeding ground for new technologies",
+   "lead": "Lo sviluppo di tecnologie innovative volte a guidare nuove forze produttive di qualità rappresenta una priorità fondamentale, spinto dall'accelerazione della rivoluzione tecnologica globale e della trasformazione industriale. Lo ha dichiarato martedì il capo dell'esecutivo John Lee intervenendo a un forum, sottolineando che Hong Kong accelererà la crescita delle industrie emergenti in linea con il quindicesimo piano quinquennale del Paese per affermarsi come incubatore globale di tecnologie e modelli avanzati. Lo riferisce RTHK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1873720-20261013.htm",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z043c8db7",
+   "sez": "mondo",
+   "titolo": "Hong Kong: avviata un'inchiesta sul deragliamento di un tram a Shau Kei Wan",
+   "orig": "HK Tramways instructed to probe derailment",
+   "lead": "Il dipartimento dei Trasporti di Hong Kong ha espresso profonda preoccupazione per il deragliamento di un tram avvenuto nelle prime ore di lunedì a Shau Kei Wan, dove i primi rilievi indicano che non si possono escludere fattori umani all'origine dell'incidente. Il convoglio è uscito dai binari finendo sul marciapiede e colpendo un negozio, fortunatamente senza causare feriti. Il conducente è stato sospeso dal servizio e l'azienda Hong Kong Tramways è stata incaricata di condurre un'indagine approfondita. Lo riferisce RTHK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1873657-20261012.htm",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1050d883",
+   "sez": "mondo",
+   "titolo": "Al via in Grecia la distribuzione dei pasti scolastici per migliaia di studenti",
+   "orig": "Σχολικά Γεύματα: Άρχισε η διανομή σε χιλιάδες μαθητές – Τι πρέπει να γνωρίζουν οι γονείς",
+   "lead": "Ha preso il via martedì 13 ottobre la distribuzione dei pasti scolastici per il nuovo anno scolastico in Grecia. Il programma, promosso dal Ministero della Coesione Sociale e della Famiglia, estende la propria copertura a 160 comuni e 2.000 scuole elementari, garantendo la fornitura potenziale di un massimo di 240.000 pasti giornalieri agli alunni. In concomitanza con l'avvio del servizio, il ministero ha ricordato alle famiglie le procedure di controllo e segnalazione per qualsiasi eventuale criticità. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/roi-idiseon/sxolika-geymata-arxise-i-dianomi-se-xiliades-mathites-ti-prepei-na-gnorizoun-oi-goneis/",
+     "angolo": "",
+     "atlas": "Greece"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z61c6a608",
+   "sez": "mondo",
+   "titolo": "La tifosa storica dell'AEK Atene Kaiti Damianidi racconta la sua passione ai microfoni di ERT News",
+   "orig": "Η κυρία Καίτη της ΑΕΚ μιλάει στο ΕΡΤnews: Η καθιερωμένη υποδοχή της στους αθλητές, η αδυναμία στον Μάνταλο και το συγκινητικό μήνυμα κατά της βίας στα γήπεδα",
+   "lead": "Kaiti Damianidi, nota tifosa della squadra di calcio dell'AEK Atene, ha commosso il pubblico raccontando la sua storia ai microfoni della trasmissione \"Sindeseis\" su ERT News. La donna, residente nel quartiere di Nea Filadelfia, è celebre per accogliere con la sua bandiera la squadra ogni volta che il pullman dei giocatori si avvicina allo stadio, accompagnando il suo gesto con un toccante messaggio contro la violenza negli stadi. Lo riferisce ERT News.",
+   "more": [
+    "Nea Filadelfia è un sobborgo di Atene che ospita lo stadio della squadra di calcio dell'AEK."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/ellada/i-kyria-kaiti-tis-aek-milaei-sto-ertnews-i-kathieromeni-ypodoxi-tis-stous-athlites-i-adynamia-ston-mantalo-kai-to-sygkinitiko-minyma-kata-tis-vias-sta-gipeda/",
+     "angolo": "",
+     "atlas": "Greece"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd697454e",
+   "sez": "mondo",
+   "titolo": "Iniziate in Grecia le riprese della nuova coproduzione internazionale di ERT e ITV Studios intitolata «Harmonia»",
+   "orig": "«Harmonia»: Ξεκίνησαν τα γυρίσματα στην Ελλάδα για τη νέα μεγάλη διεθνή συμπαραγωγή της ΕΡΤ και του ITV Studios",
+   "lead": "Hanno preso ufficialmente il via in Grecia le riprese di «Harmonia», un nuovo e importante thriller psicologico nato da una coproduzione internazionale tra ERT e ITV Studios. La serie, realizzata interamente sul territorio ellenico con maestranze e cast sia locali che internazionali di primo piano, verrà presentata al MIPCOM di Cannes, il più importante mercato mondiale per il settore televisivo e audiovisivo. Lo riferisce ERT News.",
+   "more": [
+    "Il MIPCOM di Cannes è la principale fiera e mercato internazionale dedicata ai contenuti televisivi, di intrattenimento e audiovisivi."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/roi-idiseon/harmonia-ksekinisan-ta-gyrismata-stin-ellada-gia-ti-nea-megali-diethni-symparagogi-tis-ert-kai-tou-itv-studios/",
+     "angolo": "",
+     "atlas": "Greece"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8e2d839c",
+   "sez": "mondo",
+   "titolo": "Il partito Levica denuncia presunti appalti sospetti all'Accademia macedone MANU",
+   "orig": "Левица: Сомнителни тендери во МАНУ - надворешно сметководство и покрај сопствен финансиски оддел",
+   "lead": "Il partito politico Levica ha sollevato dubbi su presunti bandi di gara sospetti all'interno dell'Accademia macedone delle scienze e delle arti (MANU), puntando il dito contro l'affidamento di servizi di contabilità esterna nonostante la presenza di un dipartimento finanziario interno. La formazione politica ha formalmente richiesto l'intervento dell'Ufficio statale di audit per fare luce sulla gestione amministrativa dell'ente. Lo riferisce MIA.",
+   "more": [
+    "L'Accademia macedone delle scienze e delle arti è la massima istituzione scientifica e artistica della Macedonia del Nord."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BB%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D1%81%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B8-%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B8-%D0%B2%D0%BE-%D0%BC%D0%B0%D0%BD%D1%83-%D0%BD%D0%B0%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%88%D0%BD%D0%BE-%D1%81%D0%BC%D0%B5%D1%82%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%98-%D1%81%D0%BE%D0%BF%D1%81%D1%82%D0%B2%D0%B5%D0%BD-%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B8%D1%81%D0%BA%D0%B8-%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB",
+     "angolo": "",
+     "atlas": "Macedonia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z70632627",
+   "sez": "sport",
+   "titolo": "Diego Simeone avvisa l'Atletico Madrid: il Manchester United resta una minaccia",
+   "orig": "Симеоне: Јунајтед сè уште претставуваат закана",
+   "lead": "L'allenatore dell'Atletico Madrid, Diego Simeone, ha condiviso le proprie considerazioni e aspettative in vista della prossima partita casalinga contro il Manchester United, valida per la seconda giornata della fase europea. Il tecnico argentino ha evidenziato che la formazione inglese continua a rappresentare un avversario altamente pericoloso e temibile. Lo riferisce MIA.",
+   "more": [
+    "L'Atletico Madrid è uno dei principali club calcistici della Spagna, militante nella Liga e protagonista nelle competizioni continentali."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%81%D0%B8%D0%BC%D0%B5%D0%BE%D0%BD%D0%B5-%D1%98%D1%83%D0%BD%D0%B0%D1%98%D1%82%D0%B5%D0%B4-%D1%81%C3%A8-%D1%83%D1%88%D1%82%D0%B5-%D0%BF%D1%80%D0%B5%D1%82%D1%81%D1%82%D0%B0%D0%B2%D1%83%D0%B2%D0%B0%D0%B0%D1%82-%D0%B7%D0%B0%D0%BA%D0%B0%D0%BD%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8e02b00a",
+   "sez": "mondo",
+   "titolo": "Il presidente Igor Grosu avverte: la Moldavia valuta il rischio di un nuovo afflusso massiccio di rifugiati ucraini",
+   "orig": "Igor Grosu: Authorities are considering a new massive influx of Ukrainian refugees",
+   "lead": "Le autorità della Repubblica di Moldavia stanno prendendo in considerazione l'ipotesi di un nuovo imponente arrivo di profughi provenienti dall'Ucraina. L'allarme è legato all'escalation del conflitto bellico in corso e al progressivo aggravarsi dei rischi legati alla sicurezza regionale. Lo riferisce IPN.",
+   "more": [
+    "La Repubblica di Moldavia è uno Stato dell'Europa orientale confinante con l'Ucraina, che fin dall'inizio del conflitto ha affrontato importanti flussi di accoglienza."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/igor-grosu-authorities-are-considering-a-new-massive-influx-of-ukrainian-refugees/",
+     "angolo": "",
+     "atlas": "Moldova"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zae13c0b4",
+   "sez": "mondo",
+   "titolo": "Il ministro degli Esteri finlandese chiede all'UE di bloccare i visti turistici per i cittadini russi",
+   "orig": "Ֆինլանդիայի ԱԳ նախարարը ԵՄ-ին կոչ է արել ՌԴ քաղաքացիներին զբոսաշրջային ​​վիզաներ չտրամադրել",
+   "lead": "Il ministro degli Esteri della Finlandia, Elina Valtonen, ha esortato i Paesi membri dell'Unione Europea a interrompere la concessione di visti turistici ai cittadini della Federazione Russa. La richiesta avanzata da Helsinki rimarrà in vigore finché la Russia continuerà a portare avanti la sua guerra di aggressione militare contro l'Ucraina. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/finlandiayi-ag-nakharary-em-in-koch-e-arel-rousnerin-zbosashrjayin-vizaner-chtramadrel/33875585.html",
+     "angolo": "",
+     "atlas": "Armenia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zba3729ba",
+   "sez": "economia",
+   "titolo": "L'Iran dichiara di aver esportato cinque milioni di tonnellate di derivati petroliferi nonostante il blocco americano",
+   "orig": "Իրանը պնդում է՝ չնայած ամերիկյան շրջափակմանը՝ 5 մլն տոննա նավթամթերք է արտահանել",
+   "lead": "L'Iran ha reso noto che, nel corso della prima metà dell'anno, sono stati esportati oltre cinque milioni di tonnellate di prodotti petroliferi. L'operazione commerciale si è svolta nonostante il blocco e le restrizioni imposte dalle forze armate degli Stati Uniti nei confronti dei porti iraniani. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/irany-pndoum-e-or-chnayats-amerikyan-shrjapakmany-5-mln-tonna-navtamterk-e-artahanel/33875575.html",
+     "angolo": "",
+     "atlas": "Armenia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2cc57d29",
+   "sez": "cultura",
+   "titolo": "Su Radio CG in onda il programma «Život po mjeri čovjeka»",
+   "orig": "Život po mjeri čovjeka",
+   "lead": "L'emittente Radio CG inserisce nella propria programmazione l'appuntamento con la trasmissione radiofonica intitolata «Život po mjeri čovjeka». Il programma culturale e d'approfondimento andrà in onda nella giornata di giovedì 15 ottobre nella fascia oraria compresa tra le 11:05 e le 12:00. Lo riferisce RTCG.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTCG",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://rtcg.me/radio/RCG/informativni/542324/zivot-po-mjeri-covjeka.html",
+     "angolo": "",
+     "atlas": "Montenegro"
+    },
+    {
+     "n": "RTCG",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://rtcg.me/radio/RCG/informativni/519808/svijet-jednakih-sansi.html",
+     "angolo": "",
+     "atlas": "Montenegro"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0f08fdfa",
+   "sez": "mondo",
+   "titolo": "Arcivescovo Gallagher: i bambini migranti vanno accolti, non solo assistiti",
+   "orig": "Archbishop Gallagher: Migrant children must be welcomed, not merely assisted",
+   "lead": "Durante una messa celebrata a Ginevra in occasione della Giornata mondiale del migrante e del rifugiato, l'arcivescovo Paul Richard Gallagher ha sottolineato l'importanza fondamentale di riconoscere la dignità dei bambini sfollati e di offrire loro un reale senso di appartenenza, evidenziando che i minori migranti devono essere accolti e non semplicemente assistiti. Lo riferisce Vatican News (inglese).",
+   "more": [
+    "La Giornata mondiale del migrante e del rifugiato è una ricorrenza celebrata dalla Chiesa cattolica per riflettere sulle condizioni e sulle sfide vissute da chi lascia il proprio Paese d'origine a causa di conflitti, povertà o persecuzioni."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/vatican-city/news/2026-10/archbishop-gallagher-migrant-children-must-be-welcomed.html",
+     "angolo": "",
+     "atlas": "Vatican"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4d369aa9",
+   "sez": "mondo",
+   "titolo": "Decine di morti in un naufragio di migranti al largo del Corno d'Africa",
+   "orig": "Scores of people die in migrant boat tragedy off Horn of Africa",
+   "lead": "Un'imbarcazione di migranti che tentava di attraversare lo stretto di Bab al-Mandeb, situato tra Gibuti nel Corno d'Africa e lo Yemen nella penisola arabica, è affondata causando la morte di oltre 130 persone, mentre più di 80 risultano tuttora disperse. Lo riferisce Vatican News (inglese).",
+   "more": [
+    "Lo stretto di Bab al-Mandeb è un importante corridoio marittimo strategico tra il Mar Rosso e il Golfo di Aden, spesso utilizzato da migranti e rifugiati africani per raggiungere la penisola arabica in condizioni di estremo pericolo."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/world/news/2026-10/migrants-shipwreck-djibouti-yemen-iom-appeal.html",
+     "angolo": "",
+     "atlas": "Vatican"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4b9129f8",
+   "sez": "mondo",
+   "titolo": "Le vecchie vasche fognarie di Babesa trasformate in un parco ecologico",
+   "orig": "Old Babesa sewerage ponds being transformed into ecological park",
+   "lead": "I residenti di Thimphu in cerca di spazi ricreativi all'aperto potranno presto esplorare un nuovo parco ecologico, realizzato nel sud della città. Il progetto, dal costo stimato in 210 milioni di Ngultrum e attualmente completato al venti percento con le infrastrutture chiave già ultimate, mira a convertire le vecchie vasche fognarie di Babesa in un'area ecologica e ricreativa, con lavori previsti fino al biennio 2027-2028. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "Thimphu è la capitale del Bhutan, situata sull'Himalaya orientale, nota per le sue politiche di sviluppo incentrate sulla conservazione ambientale e sul benessere collettivo."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247360/",
+     "angolo": "",
+     "atlas": "Bhutan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5edafc54",
+   "sez": "cultura",
+   "titolo": "La comunità Monpa di Trongsa si impegna a preservare la tradizione del Kulungma Osa",
+   "orig": "Trongsa’s Monpa community works to preserve Kulungma Osa tradition",
+   "lead": "L'identità culturale della comunità Monpa a Trongsa rischia di sbiadire poiché il Kulungma Osa, il loro abito tradizionale, sopravvive ormai quasi solo nella memoria e suscita sempre meno interesse tra i giovani. Di fronte a questo declino, la comunità ha deciso di intensificare gli sforzi per tutelare e tramandare la propria tradizione vestiaria. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "I Monpa sono una delle comunità indigene del Bhutan, custodi di antichi costumi, pratiche artigianali e tradizioni orali che rischiano di perdersi con la modernizzazione."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247352/",
+     "angolo": "",
+     "atlas": "Bhutan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z21f353b6",
+   "sez": "salute",
+   "titolo": "Allarme lanciato sui rischi sanitari legati al fenomeno di El Niño",
+   "orig": "Alarm raised over health risks of El Niño",
+   "lead": "La carenza d'acqua causata dalla siccità potrebbe aumentare i casi di diarrea e altre malattie trasmesse dall'acqua, poiché le famiglie rischiano di compromettere le norme igieniche pur di conservare le risorse idriche. A lanciare l'avvertimento è il Ministero della Salute delle Figi, mentre il dirigente medico divisionale occidentale Abdul Wahab Shah conferma che le autorità stanno monitorando attentamente l'andamento delle patologie in vista dell'intensificarsi della stagione secca nei prossimi mesi. Lo riferisce FBC News.",
+   "more": [
+    "Il fenomeno climatico El Niño comporta solitamente anomalie termiche nell'Oceano Pacifico, capaci di innescare siccità prolungate o eventi meteorologici estremi in diverse regioni del pianeta."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/alarm-raised-over-health-risks-of-el-nino/",
+     "angolo": "",
+     "atlas": "Fiji"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zee82c62e",
+   "sez": "mondo",
+   "titolo": "Le dimissioni di Turaga non influiranno sul processo costituzionale",
+   "orig": "Turaga’s resignation will not affect constitutional process",
+   "lead": "Le dimissioni del procuratore generale ad interim e ministro della Giustizia Siromi Turaga dal Consiglio dei ministri non avranno alcuna ripercussione sull'agenda di riforme costituzionali del governo. Il primo ministro Sitiveni Rabuka ha confermato di aver accettato l'addio del ministro al proprio incarico ministeriale a seguito della circolazione sui social network di un video esplicito che lo vedrebbe presumibilmente coinvolto. Lo riferisce FBC News.",
+   "more": [
+    "Le Figi sono una repubblica parlamentare insulare del Pacifico meridionale impegnata in un percorso di revisione istituzionale e democratica."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/turagas-resignation-will-not-affect-constitutional-process/",
+     "angolo": "",
+     "atlas": "Fiji"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3954ecb6",
+   "sez": "mondo",
+   "titolo": "Previsti fino a tre cicloni tropicali per le Figi",
+   "orig": "Up to three cyclones predicted for Fiji",
+   "lead": "Nel corso della stagione 2026-2027, tra due e tre cicloni tropicali potrebbero transitare all'interno della zona economica esclusiva delle Figi, secondo quanto indicato dall'ultimo bollettino dell'Ufficio meteorologico nazionale. Il direttore Misaeli Funaki ha precisato che uno o due di questi sistemi perturbati rischiano di raggiungere la forte intensità di categoria compresa tra la 3 e la 5. Lo riferisce FBC News.",
+   "more": [
+    "L'area del Pacifico meridionale è regolarmente soggetta a cicloni tropicali durante la stagione calda, che richiedono sistemi di monitoraggio e allerta precoce per proteggere la popolazione costiera."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/up-to-three-cyclones-predicted-for-fiji/",
+     "angolo": "",
+     "atlas": "Fiji"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zda615235",
+   "sez": "mondo",
+   "titolo": "La Cina respinge le accuse di attacchi informatici",
+   "orig": "China denies cyberattack allegations",
+   "lead": "L'ambasciata cinese alle Figi ha respinto con fermezza le accuse formulate dagli Stati Uniti in merito a presunti attacchi informatici sponsorizzati dallo Stato di Pechino, sostenendo che qualsiasi addebito rivolto ad altri Paesi debba essere supportato da prove concrete. In una nota ufficiale, l'ambasciata ribadisce la ferma opposizione della Cina a ogni attività di hackeraggio e l'impegno nel contrastare il crimine informatico nel rispetto della legge, accusando al contempo Washington di politicizzare la sicurezza cibernetica. Lo riferisce FBC News.",
+   "more": [
+    "Le tensioni geopolitiche tra Stati Uniti e Cina si estendono frequentemente anche al dominio digitale, con reciproche accuse di spionaggio informatico e interferenze nelle reti globali."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/china-denies-cyberattack-allegations/",
+     "angolo": "",
+     "atlas": "Fiji"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z86932cd1",
+   "sez": "mondo",
+   "titolo": "Mercenari russi nella Repubblica Centrafricana dal 2017: ora la lingua russa arriva in tre scuole pubbliche",
+   "orig": "Russian mercenaries have operated in the Central African Republic since 2017. Now Russian lessons are coming to three of its public schools.",
+   "lead": "A seguito di una risoluzione firmata tra la Russia e la Repubblica Centrafricana, l'insegnamento della lingua russa verrà introdotto in tre istituti scolastici pubblici del Paese africano, dove mercenari russi operano stabilmente dal 2017. L'annuncio è stato diffuso dall'ufficio stampa del Ministero dell'Istruzione russo. Lo riferisce Meduza.",
+   "more": [
+    "La Repubblica Centrafricana ha intensificato i legami diplomatici e militari con Mosca negli ultimi anni, affidandosi a consiglieri e milizie di sicurezza russi per gestire le crisi interne."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/12/russian-mercenaries-have-operated-in-the-central-african-republic-since-2017-now-russian-lessons-are-coming-to-three-of-its-public-schools",
+     "angolo": "",
+     "atlas": "Russia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd8a7a394",
+   "sez": "salute",
+   "titolo": "Resistenza antimicrobica: la Nigeria ammette le lacune nel monitoraggio delle infezioni resistenti ai farmaci",
+   "orig": "AMR: Nigeria admits gaps in tracking drug-resistant infections",
+   "lead": "Pur disponendo di prove relative alla presenza della resistenza antimicrobica nelle strutture ospedaliere, la Nigeria riconosce che la persistenza di gravi lacune nei sistemi di sorveglianza rende difficoltosa la formulazione di stime nazionali accurate sul fenomeno. Ad ammetterlo è il funzionario governativo Mr Pate. Lo riferisce Premium Times.",
+   "more": [
+    "La resistenza antimicrobica rappresenta una delle minacce sanitarie globali più rilevanti, causata dall'uso eccessivo o improprio di antibiotici che rende i batteri insensibili ai trattamenti farmacologici."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/health/health-news/916591-amr-nigeria-admits-gaps-in-tracking-drug-resistant-infections.html",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z62f208dd",
+   "sez": "economia",
+   "titolo": "La raffineria di petrolio Dangote proroga l'offerta pubblica iniziale per forte domanda degli investitori",
+   "orig": "Dangote Petroleum Refinery extends IPO amid strong investor demand",
+   "lead": "Registrando un forte interesse da parte del mercato, la raffineria di petrolio Dangote ha deciso di estendere la data di chiusura della propria offerta pubblica iniziale (IPO), con l'obiettivo dichiarato di consentire la partecipazione a un numero ancora maggiore di investitori provenienti dal continente africano. Lo riferisce Premium Times.",
+   "more": [
+    "Una raffineria di petrolio trasforma il petrolio greggio in prodotti petroliferi utilizzabili come benzina, diesel e cherosene, giocando un ruolo cruciale nelle economie energetiche regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/business/business-news/916587-dangote-petroleum-refinery-extends-ipo-amid-strong-investor-demand.html",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z879d9174",
+   "sez": "mondo",
+   "titolo": "Alhaji Amadu Juldeh Sowe eletto presidente di Tabital Pulaaku International",
+   "orig": "Alhaji Amadu Juldeh Sowe Elected President of Tabital Pulaaku International",
+   "lead": "Il cittadino sierraleonese Alhaji Amadu Juldeh Sowe è stato eletto presidente di Tabital Pulaaku International durante l'assemblea generale dell'organizzazione tenutasi presso il Kairaba Beach Hotel in Gambia. Sowe, che in passato ha guidato la sezione sierraleonese della stessa associazione, succede ai vertici del network internazionale. Lo riferisce Foroyaa.",
+   "more": [
+    "Tabital Pulaaku International è un'organizzazione culturale e sociale che riunisce e rappresenta le comunità di lingua e cultura Fulani (Pulaar) diffuse in diversi Paesi dell'Africa occidentale e centrale."
+   ],
+   "fonti": [
+    {
+     "n": "Foroyaa",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://foroyaa.net/alhaji-amadu-juldeh-sowe-elected-president-of-tabital-pulaaku-international-2/",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6d923539",
+   "sez": "mondo",
+   "titolo": "Cosa pensa la maggioranza silenziosa in vista delle prossime elezioni presidenziali?",
+   "orig": "WHAT DOES THE SILENT MAJORITY SAY ABOUT THE COMING PRESIDENTIAL ELECTION?",
+   "lead": "Mentre si avvicina la scadenza per le elezioni presidenziali fissate per il 5 dicembre 2026, non è ancora del tutto chiaro quali candidati si presenteranno per sfidare la presidenza in carica di Adama Barrow né quali orientamenti sosterrà la cosiddetta maggioranza silenziosa. Sebbene la politica di partito e le singole fazioni continuino a dominare la scena mostrando i muscoli politici, gli analisti interrogano l'opinione pubblica sugli umori reali del Paese. Lo riferisce Foroyaa.",
+   "more": [
+    "Il Gambia è una repubblica democratica dell'Africa occidentale che affronta importanti tornate elettorali per consolidare la propria stabilità politica dopo la transizione democratica."
+   ],
+   "fonti": [
+    {
+     "n": "Foroyaa",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://foroyaa.net/what-does-the-silent-majority-say-about-the-coming-presidential-election/",
+     "angolo": "",
+     "atlas": "Gambia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb4c5b3a2",
+   "sez": "mondo",
+   "titolo": "Un progetto di lavori pubblici ricolloca la comunità di Pampanga in un'area più soggetta a inondazioni, secondo HRW",
+   "orig": "DPWH project relocates Pampanga community to more flood-prone site – HRW",
+   "lead": "L'organizzazione Human Rights Watch ha criticato un'iniziativa del Dipartimento dei Lavori Pubblici e delle Autostrade (DPWH), che ha speso 150 milioni di pesos per dragare un'isola a Macabebe e trasferire permanentemente i suoi residenti in un ex laghetto per pesci cronicamente soggetto a inondazioni. Lo riferisce Rappler.",
+   "more": [
+    "Le Filippine sono un arcipelago del Sud-Est asiatico particolarmente vulnerabile alle inondazioni stagionali, ai tifoni e ai rischi legati a interventi di pianificazione territoriale inadeguati."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/luzon/dpwh-project-relocates-pampanga-community-more-flood-prone-site-hrw/",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3e66aba5",
+   "sez": "mondo",
+   "titolo": "La Corte Suprema respinge il caso di oltraggio del 2025 legato all'impeachment contro Tito Sotto",
+   "orig": "SC junks 2025 impeachment-related contempt case vs Tito Sotto",
+   "lead": "La Suprema Corte filippina ha archiviato il procedimento per oltraggio alla corte risalente al 2025 e connesso a vicende di impeachment nei confronti di Tito Sotto. Nel motivare la decisione, l'Alta Corte ha ribadito che la democrazia si fonda sul rispetto, raddoppiando l'impegno non solo a tutela della libertà di espressione ma anche verso il pieno rispetto della controparte. Lo riferisce Rappler.",
+   "more": [
+    "L'ordinamento giuridico filippino prevede procedure di impeachment per rimuovere alti funzionari statali, spesso accompagnate da complessi contenziosi legali e costituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/supreme-court-decision-dismissed-contempt-tito-sotto-sara-duterte-impeachment/",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4d30ea9d",
+   "sez": "mondo",
+   "titolo": "L'accusa chiede di ritirare tutti i capi d'imputazione contro Sara Duterte tranne quello per arricchimento illecito",
+   "orig": "Prosecution moves to drop all cases vs Sara Duterte except unexplained wealth",
+   "lead": "La pubblica accusa ha deciso di muoversi per far decadere tutti i capi d'accusa rivolti a Sara Duterte, ad eccezione di quello relativo all'articolo 2 sull'arricchimento illecito. La procuratrice capo Jinky Luistro ha dichiarato che l'accusa ritiene di aver presentato prove sufficienti affinché questo specifico capo d'imputazione possa reggersi autonomamente. Lo riferisce Rappler.",
+   "more": [
+    "Nel sistema politico delle Filippine, i procedimenti di accusa e le inchieste sulla trasparenza patrimoniale dei pubblici ufficiali rappresentano snodi centrali del dibattito istituzionale."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/prosecution-motion-drop-cases-except-unexplained-wealth-sara-duterte-impeachment/",
+     "angolo": "",
+     "atlas": "Philippines"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0120777e",
+   "sez": "mondo",
+   "titolo": "Fuggire al riparo: i limiti dei sistemi di allerta precoce nella guerra aerea in Rakhine",
+   "orig": "Running for Cover: The Limits of Early Warning in Rakhine Air War",
+   "lead": "L'intensificarsi della campagna aerea condotta dal regime del Myanmar nello Stato Rakhine mette in luce una pericolosa e mortale carenza nella protezione dei civili sul terreno. A lanciare l'allarme è il ricercatore ed esperto di conflitti Khine. Lo riferisce The Irrawaddy.",
+   "more": [
+    "Lo Stato Rakhine, nel Myanmar occidentale, è teatro di prolungati scontri armati tra l'esercito governativo e gruppi etnici ribelli, con gravi conseguenze sulla popolazione civile."
+   ],
+   "fonti": [
+    {
+     "n": "The Irrawaddy",
+     "p": "XX",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/opinion/guest-column/running-for-cover-the-limits-of-early-warning-in-rakhine-air-war.html",
+     "angolo": "",
+     "atlas": "Myanmar"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb8db521b",
+   "sez": "mondo",
+   "titolo": "L'ascesa e la caduta dell'ambasciatore del Myanmar in Thailandia",
+   "orig": "The Rise and Fall of Myanmar’s Ambassador to Thailand",
+   "lead": "Zaw Zaw Soe aveva scalato la gerarchia burocratica di Naypyitaw insieme a commilitoni militari noti come la 'Serie Z', fino a quando purghe post-colpo di stato, scandali di corruzione e vicende tragiche hanno travolto tutti i protagonisti. Lo riferisce The Irrawaddy.",
+   "more": [
+    "Il Myanmar è governato da una giunta militare salita al potere con il colpo di Stato del febbraio 2021, un evento che ha provocato epurazioni nei ranghi diplomatici e statali."
+   ],
+   "fonti": [
+    {
+     "n": "The Irrawaddy",
+     "p": "XX",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/news/burma/the-rise-and-fall-of-myanmars-ambassador-to-thailand.html",
+     "angolo": "",
+     "atlas": "Myanmar"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z67b72c88",
+   "sez": "mondo",
+   "titolo": "Tra bombe e tappeti rossi, la 'via dell'ASEAN' mostra i suoi fallimenti",
+   "orig": "Between Bombs and Red Carpets, the ‘ASEAN Way’ Is Failing",
+   "lead": "Dalle deportazioni attuate dalla Malaysia fino ai benvenuti con i tappeti rossi riservati a Min Aung Hlaing, il crescente coinvolgimento dell'ASEAN con il regime del Myanmar solleva forti interrogativi sul rispetto dei principi fondanti dell'organizzazione regionale. Lo riferisce The Irrawaddy.",
+   "more": [
+    "L'ASEAN (Associazione delle Nazioni del Sud-Est Asiatico) adotta tradizionalmente il principio della non-interferenza negli affari interni dei Paesi membri, un approccio spesso criticato di fronte a gravi crisi umanitarie."
+   ],
+   "fonti": [
+    {
+     "n": "The Irrawaddy",
+     "p": "XX",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/opinion/guest-column/between-bombs-and-red-carpets-the-asean-way-is-failing.html",
+     "angolo": "",
+     "atlas": "Myanmar"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd380e42e",
+   "sez": "mondo",
+   "titolo": "Gli organizzatori della Cyclothon di Hong Kong si scusano dopo che l'auto apripista ha fuorviato i ciclisti allontanandoli dal ponte Ting Kau",
+   "orig": "Hong Kong Cyclothon organiser apologises after lead vehicle misdirects riders away from Ting Kau Bridge",
+   "lead": "Gli organizzatori di una gara ciclistica a Hong Kong hanno presentato le proprie scuse dopo che un veicolo guida ha erroneamente deviato i partecipanti da una sezione del percorso situata sul ponte Ting Kau, impedendo ai ciclisti di ammirare le viste panoramiche sulle acque occidentali della città. In una nota diffusa domenica sera, i responsabili della Sun Hung Kai Properties Hong Kong Cyclothon hanno chiarito l'accaduto. Lo riferisce Hong Kong Free Press.",
+   "more": [
+    "Hong Kong è una metropoli e regione amministrativa speciale cinese nota per l'organizzazione di grandi eventi sportivi internazionali e competizioni di ciclismo su strada."
+   ],
+   "fonti": [
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/10/12/hong-kong-cyclothon-organiser-apologises-after-lead-vehicle-misdirects-riders-away-from-ting-kau-bridge/",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:34",
+   "uscita": "mattino"
+  },
+  {
    "id": "zcd322918",
    "sez": "cultura",
    "titolo": "Pattinson esplora il lato oscuro della televisione",
@@ -2545,6 +4692,22 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.straitstimes.com/world/europe/drone-sinks-ukrainian-owned-ship-off-bulgarias-black-sea-coast-prime-minister-says",
      "angolo": "",
      "atlas": "Singapore"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/13/bulgaria-altre-due-navi-colpite-nel-mar-nero-inaccettabile_db4b2e94-1d00-4684-b1e2-49a6f3fe2b50.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/mondo/bulgaria_navi_attaccate_droni_russi_affondate_nato_cosa_e_successo-9821886.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "13 ott",
@@ -14500,7 +16663,88 @@ window.EDIZIONI["2026-10-13"] = {
   "z848f7f53": "Il quotidiano panamense evidenzia l'allarme lanciato dagli scienziati sulla vulnerabilità sismica e sulla necessità di investire in prevenzione infrastrutturale.",
   "z7865dbcd": "La testata internazionale evidenzia la durezza della risposta diplomatica e politica del Regno Unito contro l'Iran per il tentato attacco alla base militare.",
   "z8ddc06ae": "Il quotidiano spagnolo descrive l'atmosfera di attesa e il profondo cambiamento della città autonoma in occasione della storica visita dei Reali.",
-  "z90b78191": "La testata britannica analizza le complesse implicazioni economiche e costituzionali di un'eventuale secessione della provincia petrolifera canadese."
+  "z90b78191": "La testata britannica analizza le complesse implicazioni economiche e costituzionali di un'eventuale secessione della provincia petrolifera canadese.",
+  "z973dcd0f": "Mentre The Kyiv Independent si concentra sulla richiesta di chiarimenti e sulle accuse di ritorsione rivolte da Tkach alle autorità austriache, altre testate internazionali mettono in luce situazioni analoghe di repressione e detenzione di giornalisti in diverse aree del mondo, evidenziando le difficoltà crescenti per la libertà di stampa globale.",
+  "z9c7e79fa": "Mentre El País pone l'accento sulla protesta e sul disagio dei discendenti di spagnoli in Argentina, altre testate regionali analizzano il contesto più ampio delle relazioni diplomatiche e delle dinamiche economiche e politiche dell'America Latina.",
+  "z40635a55": "Mentre La Tercera segue l'emergenza specifica e le ordinanze di evacuazione nella zona di Las Condes, altre testate latinoamericane offrono previsioni dettagliate sul tempo e sulle allerte meteorologiche in diverse aree del continente.",
+  "z0093da00": "Mentre El Observador si concentra sulla situazione dei cittadini uruguayani e sul bilancio diplomatico post-sisma, altre testate locali documentano interventi solidali e straordinari, come la riconversione di veicoli in unità sanitarie per i neonati colpiti dai danni del terremoto.",
+  "zf6e9f335": "Mentre Radio Prague International riferisce sugli sviluppi istituzionali dei negoziati di coalizione, la stampa locale e le petizioni dei residenti evidenziano le pressioni della cittadinanza affinché vengano escluse determinate forze politiche dalle alleanze di governo.",
+  "zbbc46ac1": "Mentre la radiotelevisione portoghese RTP evidenzia l'impatto complessivo europeo e la ricaduta economica nazionale, altre testate lusitane pongono l'accento sulla riduzione specifica dei costi energetici per singolo consumatore e sugli accordi di cooperazione internazionale per la sicurezza marittima.",
+  "z6709888d": "Mentre il quotidiano francese Le Figaro analizza le dinamiche macroeconomiche e il contagio finanziario tra Roma e Parigi, la stampa monegasca focalizza l'attenzione su provvedimenti legislativi locali di tutela urbanistica e sulla sicurezza degli scambi finanziari digitali.",
+  "zfe45388f": "Mentre El Deber riporta le richieste di potenziamento strutturale avanzate dall'ex capo della polizia, altri organi di stampa boliviani documentano le operazioni di cattura e l'arresto di sospettati e presunti complici in seguito a recenti rapine a mano armata avvenute nella zona.",
+  "z1ddcf616": "La notizia dell'intervista rilasciata alla BBC dall'ex alto ufficiale ucraino trova ampio risalto internazionale, venendo ripresa da diverse testate globali come simbolo di un'analisi di primo piano sullo stato attuale del conflitto armato.",
+  "z90dfd8fb": "Mentre Der Spiegel si concentra sul fallimento procedurale e sulle gravi carenze dei protocolli d'emergenza all'interno del carcere, la testata Der Standard approfondisce i tempi tecnici dell'intervento, evidenziando i trenta minuti di attesa prima dell'ingresso dei soccorritori.",
+  "z5435d7eb": "Mentre la testata brasiliana ripercorre la storia della residenza di Trent Park e il suo ruolo nello spionaggio bellico, le altre voci del giorno si concentrano su tematiche economiche globali, come le previsioni ottimistiche del Fondo Monetario Internazionale.",
+  "zcc479269": "La testata peruviana offre un servizio di utilità pubblica dettagliando le zone soggette a blackout programmati, mentre altre testate della regione focalizzano l'attenzione su emergenze ambientali e climatiche locali.",
+  "z932360a3": "La testata locale dà risalto alla drammatica storia personale di una cittadina in difficoltà economiche e sanitarie, documentando la fragilità del tessuto sociale della zona.",
+  "z7934de3f": "La testata paraguayana ABC Color enfatizza la portata numerica dell'attacco ucraino con oltre seicento droni, affiancandosi alla copertura internazionale che analizza le ripercussioni geopolitiche e strategiche del conflitto.",
+  "zd2eff010": "La testata sudafricana sottolinea le modalità dell'uscita di scena definendola un licenziamento con disonore, trovando riscontro nelle analisi dei media regionali focalizzati sulla lotta alla corruzione nei ranghi delle forze dell'ordine.",
+  "z94a19110": "Mentre Hong Kong Free Press diffonde l'appello della famiglia e ricostruisce la scoperta della sparizione avvenuta a luglio, il South China Morning Post riferisce dell'intensificazione delle indagini da parte della polizia locale con l'impiego di maggiori risorse investigative.",
+  "z07655a7e": "Il quotidiano britannico analizza il cambio di tono nella politica interna in merito ai rapporti con Bruxelles e alle passate consultazioni referendarie, tracciando un bilancio delle nuove linee programmatiche.",
+  "z398f0514": "Il quotidiano italiano riprende i contenuti dell'intervista della corrispondente statunitense focalizzandosi sulle dichiarazioni relative al potere e alla strategia comunicativa di Donald Trump.",
+  "z0213b5c3": "Il quotidiano romano documenta lo sbarco del leader radicale israeliano nella roccaforte liberale di Tel Aviv, evidenziando lo scontro politico e sociale in corso nel Paese.",
+  "z9b2f095f": "Il quotidiano keniota focalizza l'attenzione sulla crisi economica e sulla previdenza sociale, trovando eco nelle analisi locali che denunciano la scarsa preparazione dei lavoratori dipendenti alla pensione.",
+  "z8724539e": "Mentre Euronews sottolinea il significato simbolico del viaggio regale dopo le tensioni migratorie estive, la stampa marocchina locale dettaglia i preparativi logistici, la distribuzione di bandiere e le imponenti misure di sicurezza messe in campo per la prima visita regale dal 2007.",
+  "zf3d7299b": "Il portale Sudans Post documenta il rimpallo di versioni ufficiali tra l'esercito regolare e l'opposizione armata in merito al controllo dell'avamposto di Mundri, trovando riscontro nelle notizie locali sui feriti registrati tra i militari.",
+  "z1178f984": "La pubblicazione costituisce il bollettino quotidiano ufficiale di aggiornamento editoriale della testata congolese.",
+  "z5339c010": "Mentre la testata di Hong Kong offre una panoramica strategica sul confronto sino-americano in vista dell'Apec di Shenzhen, i corrispondenti economici approfondiscono i dubbi e le riserve di alcuni dirigenti statunitensi sulla partecipazione all'evento.",
+  "z0801acdc": "L'emittente statunitense NPR evidenzia il successo delle tecniche scientifiche e investigative francesi nel recupero delle opere d'arte e nella prevenzione di nuovi crimini.",
+  "z04e347ce": "La testata statunitense solleva interrogativi sulla trasparenza dei fondi pubblici utilizzati per la comunicazione presidenziale, ponendo l'accento sulla discrepanza tra gli annunci politici e i bilanci statali.",
+  "z11252c4a": "L'analisi di NPR offre una riflessione critica sulle conseguenze elettorali delle strategie personali di Donald Trump per il futuro del Partito Repubblicano.",
+  "z64db4582": "L'emittente tedesca Deutsche Welle approfondisce i nodi politici e territoriali che ostacolano l'integrazione di Cipro nell'area Schengen, pur a fronte di una valutazione tecnica favorevole da parte di Bruxelles.",
+  "z80faa644": "La testata italiana Rai News pone l'accento sulla portata del nuovo pacchetto di sanzioni europee e sulle dichiarazioni istituzionali relative all'inasprimento delle misure contro la Russia.",
+  "z99d3c28e": "Il notiziario di Rai News affianca la drammatica notizia dei decessi in montagna nel comasco all'esito positivo delle operazioni di soccorso in Abruzzo.",
+  "z0f7d467f": "L'emittente irlandese illustra l'impostazione sanitaria del nuovo piano governativo quinquennale volto a ridefinire le politiche di contrasto e assistenza per il consumo di sostanze stupefacenti.",
+  "z1a56b624": "L'emittente lituana LRT dà risalto all'operazione di polizia di frontiera e all'ingente valore del carico di tabacco illegale sequestrato nel nord del Paese.",
+  "z2445f26c": "L'emittente baltica riporta l'esito del procedimento giudiziario amministrativo che conferma la validità del provvedimento disciplinare a carico del magistrato-volontario.",
+  "zbd0a70cb": "Il portale d'informazione lituano celebra il successo economico e la crescita del principale unicorno tecnologico nazionale, evidenziandone i piani di sviluppo industriale.",
+  "z074cf964": "L'emittente lituana diffonde l'allerta diramata dalle dogane nazionali per prevenire le frodi online a danno dei contribuenti meno esperti nell'utilizzo dei servizi telematici.",
+  "z271a796e": "L'emittente lettone LSM evidenzia i dati ufficiali di Eurostat relativi ai flussi e all'accoglienza dei cittadini ucraini con protezione temporanea in Lettonia e nell'Unione Europea.",
+  "ze1d204ad": "L'emittente lettone LSM pone l'attenzione sulle difficoltà economiche e sull'aumento dei costi affrontati dai conducenti per la manutenzione stagionale dei veicoli.",
+  "z03f4c78b": "L'emittente LSM racconta come una curiosa notizia di cronaca locale sia diventata un'opportunità di promozione e marketing per la cittadina lettone.",
+  "zf41ffe17": "PBS NewsHour esamina lo scenario politico statunitense in vista delle elezioni di metà mandato, analizzando la strategia e le vulnerabilità del Partito Repubblicano.",
+  "zb072528c": "PBS NewsHour approfondisce il ruolo di Elon Musk nell'amministrazione federale attraverso la testimonianza e l'analisi del saggista Michael Lewis.",
+  "z45e49b5b": "L'agenzia di stampa Yonhap riferisce delle divisioni politiche interne a Seul sulla gestione diplomatica e parlamentare delle provocazioni nordcoreane.",
+  "zd999c63c": "ABC News Australia evidenzia le incognite fisiche che gravano sulla squadra australiana di cricket in vista del prossimo incontro ufficiale.",
+  "z26b23d4e": "ABC News Australia racconta l'andamento del Test match di cricket, sottolineando il vantaggio decisivo accumulato dalla squadra di casa.",
+  "z8f45934a": "L'emittente RNZ focalizza l'attenzione sulle polemiche locali suscitate dalle nuove disposizioni normative che penalizzano i soccorsi nautici volontari.",
+  "z55e5142f": "RNZ documenta il peggioramento delle condizioni economiche e l'impennata del fabbisogno alimentare tra la popolazione anziana neozelandese.",
+  "z01bcdb62": "L'emittente RNZ riporta le accuse istituzionali contro le falle nei controlli sulla sicurezza nelle scuole e l'operato del Consiglio dell'Istruzione.",
+  "z42d275f0": "RNZ Pacific dà risalto alla crisi politica istituzionale causata dallo scandalo che ha coinvolto un membro di primo piano del governo figiano.",
+  "z9b71fb3c": "RNZ Pacific anticipa le strategie e le aspettative sportive della squadra samoana in vista della competizione mondiale del 2026.",
+  "z05d0f794": "RNZ Pacific raccoglie gli aggiornamenti istituzionali e sportivi provenienti dai territori dell'area oceanica e pacifica.",
+  "z009011ea": "L'emittente RTHK mette in risalto l'organizzazione logistica e le misure preventive adottate dal governo di Hong Kong per gestire il traffico transfrontaliero durante le festività.",
+  "z883925c9": "RTHK evidenzia la strategia economica e tecnologica delineata dal governo di Hong Kong per promuovere l'industrializzazione digitale e l'innovazione.",
+  "z043c8db7": "RTHK riferisce dell'incidente di trasporto urbano e delle immediate sanzioni disciplinari adottate dalle autorità di regolamentazione di Hong Kong.",
+  "z1050d883": "L'emittente ellenica ERT News enfatizza l'impatto sociale e l'estensione del programma statale di sostegno alimentare per gli studenti delle scuole primarie.",
+  "z61c6a608": "ERT News propone un ritratto umano e sportivo incentrato sulla passione genuina e sui valori di lealtà e sportività espressi dai tifosi storici.",
+  "zd697454e": "ERT News celebra il rilancio della produzione televisiva nazionale attraverso una grande partnership internazionale girata interamente in Grecia.",
+  "z8e2d839c": "L'agenzia MIA riporta l'iniziativa di denuncia politica mossa dal partito d'opposizione riguardo alla trasparenza contabile degli enti pubblici.",
+  "z70632627": "L'agenzia MIA riprende le dichiarazioni della vigilia rilasciate dal tecnico dell'Atletico Madrid in vista del confronto di coppa.",
+  "z8e02b00a": "L'agenzia IPN pone l'accento sulle preoccupazioni geopolitiche e umanitarie espresse dai vertici istituzionali moldavi per la sicurezza dei confini.",
+  "zae13c0b4": "L'emittente Azatutyun evidenzia la linea dura diplomatica proposta dalla Finlandia nei confronti di Mosca all'interno delle istituzioni europee.",
+  "zba3729ba": "Azatutyun riporta i dati diffusi da Teheran riguardo alle esportazioni energetiche e alla resistenza contro le sanzioni economiche internazionali.",
+  "z2cc57d29": "L'emittente montenegrina RTCG promuove i contenuti e la programmazione della propria rete radiofonica pubblica.",
+  "z0f08fdfa": "L'emittente vaticana pone l'accento sul richiamo morale della Chiesa alla tutela e all'inclusione dei minori sfollati.",
+  "z4d369aa9": "La testata vaticana documenta il tragico bilancio umano delle rotte migratorie marittime tra l'Africa orientale e il Medio Oriente.",
+  "z4b9129f8": "L'emittente pubblica bhutanese evidenzia un intervento di riqualificazione urbana e ambientale orientato alla sostenibilità locale.",
+  "z5edafc54": "La testata nazionale focalizza l'attenzione sulla salvaguardia del patrimonio culturale immateriale delle minoranze locali.",
+  "z21f353b6": "L'emittente figiana sottolinea le conseguenze igienico-sanitarie e la gestione preventiva dei rischi legati alle alterazioni climatiche regionali.",
+  "zee82c62e": "L'emittente locale riporta la presa di posizione dell'esecutivo per garantire la continuità istituzionale dopo la controversia politica.",
+  "z3954ecb6": "La testata delle Figi dà risalto alle previsioni stagionali diffuse dai servizi meteorologici nazionali per la prevenzione dei rischi naturali.",
+  "zda615235": "L'emittente documenta la replica diplomatica cinese alle pressioni e alle denunce provenienti da Washington nel quadrante del Pacifico.",
+  "z86932cd1": "Il portale indipendente in esilio evidenzia l'espansione dell'influenza culturale e geopolitica di Mosca in Africa subsahariana.",
+  "zd8a7a394": "Il quotidiano nigeriano dà risalto alla trasparenza istituzionale riguardo alle difficoltà nel tracciare e arginare le infezioni resistenti.",
+  "z62f208dd": "Il giornale economico sottolinea la forte attrattiva finanziaria dell'operazione e la volontà di coinvolgere il capitale regionale.",
+  "z879d9174": "Il quotidiano gambiano documenta i rinnovamenti al vertice delle organizzazioni culturali e transnazionali della regione.",
+  "z6d923539": "Il giornale gambiano analizza il clima politico e le incertezze che precedono la consultazione presidenziale.",
+  "zb4c5b3a2": "La testata filippina riporta le denunce delle organizzazioni umanitarie sulle criticità abitative e ambientali dei trasferimenti di popolazione.",
+  "z3e66aba5": "Il portale evidenzia l'orientamento garantista della magistratura suprema su questioni istituzionali e di libertà espressiva.",
+  "z4d30ea9d": "La testata segue gli sviluppi giudiziari e procedurali che coinvolgono figure di primo piano della politica filippina.",
+  "z0120777e": "Il giornale indipendente birmano in esilio documenta l'impatto dei bombardamenti aerei sulla sicurezza dei residenti e l'inefficacia delle difese locali.",
+  "zb8db521b": "La testata d'opposizione analizza le dinamiche di potere e le epurazioni interne all'apparato diplomatico e militare birmano.",
+  "z67b72c88": "Il portale indipendente critica l'inefficacia diplomatica e le contraddizioni dell'organizzazione regionale asiatica nei confronti della giunta del Myanmar.",
+  "zd380e42e": "La testata locale riferisce dell'inconveniente logistico e delle scuse ufficiali rivolte agli atleti partecipanti alla competizione."
  },
  "contesti": {
   "ze86d166a": "Durante una serie di recenti controlli medici di routine, i sanitari hanno rilevato la presenza di un nodulo polmonare circoscritto. La scoperta ha indotto l'équipe medica a programmare un ricovero ospedaliero tempestivo per procedere all'asportazione chirurgica della lesione, portando la Santa Sede a riorganizzare l'agenda pubblica pontificia in vista del futuro viaggio apostolico.",
@@ -14619,7 +16863,43 @@ window.EDIZIONI["2026-10-13"] = {
   "z7865dbcd": "Nelle scorse settimane le agenzie di sicurezza britanniche e statunitensi hanno intensificato le indagini su un incidente di sicurezza avvenuto lo scorso 27 settembre presso la base aerea di RAF Fairford.",
   "z8ddc06ae": "Nelle ultime settimane la città autonoma di Ceuta è stata al centro di tensioni diplomatiche e migratorie che hanno richiesto l'attenzione del governo centrale spagnolo.",
   "z90b78191": "Nei giorni scorsi il dibattito politico canadese ha registrato appelli all'unità nazionale da parte dei leader federali in vista dell'imminente consultazione referendaria nell'Alberta.",
-  "za8c4a73c": "L'ambiziosa favola ecologica «Digger», diretta da Alejandro G. Iñárritu e interpretata da Tom Cruise, è approdata nelle sale cinematografiche con enormi aspettative commerciali. Tuttavia, dopo un debutto già sottotono, la pellicola ha registrato un tracollo del 60% nel suo secondo fine settimana nordamericano. Con appena 35,3 milioni di dollari incassati complessivamente a livello globale, il film si avvia a registrare perdite stimate fino a 245 milioni di dollari."
+  "za8c4a73c": "L'ambiziosa favola ecologica «Digger», diretta da Alejandro G. Iñárritu e interpretata da Tom Cruise, è approdata nelle sale cinematografiche con enormi aspettative commerciali. Tuttavia, dopo un debutto già sottotono, la pellicola ha registrato un tracollo del 60% nel suo secondo fine settimana nordamericano. Con appena 35,3 milioni di dollari incassati complessivamente a livello globale, il film si avvia a registrare perdite stimate fino a 245 milioni di dollari.",
+  "z973dcd0f": "Nei giorni scorsi si sono registrate crescenti tensioni e polemiche intorno alla sicurezza dei giornalisti investigativi ucraini impegnati all'estero. Il fermo in Austria ha suscitato preoccupazione tra le associazioni per la libertà di stampa, le quali hanno evidenziato la vulnerabilità dei reporter di fronte a possibili ritorsioni transnazionali e denunce strumentali presentate da soggetti indagati.",
+  "z9c7e79fa": "Nei giorni scorsi le autorità competenti hanno comunicato lo stop improvviso alla partecipazione al voto per i cittadini residenti all'estero che hanno acquisito la nazionalità tramite specifici canali normativi. La misura ha immediatamente scatenato le proteste delle associazioni di categoria e dei comitati di residenti in Argentina e in altri Paesi della regione.",
+  "z40635a55": "Nei giorni precedenti la regione metropolitana cilena è stata interessata da un'ondata di maltempo che ha causato gravi danni e accumuli di detriti, spingendo le autorità a mantenere alta la vigilanza e a pianificare interventi di messa in sicurezza del territorio.",
+  "z0093da00": "Nei giorni scorsi un violento terremoto ha colpito il territorio panamense provocando danni materiali e disagi logistici, tra cui il blocco temporaneo di alcuni viaggiatori stranieri successivamente assistiti dalle autorità diplomatiche per il rimpatrio.",
+  "zf6e9f335": "Nelle settimane successive alle consultazioni elettorali locali, le forze politiche vincitrici e i partiti minori hanno avviato una serie di incontri preliminari per sondare le possibili alleanze e definire il perimetro della futura maggioranza in municipio.",
+  "zbbc46ac1": "Nei mesi scorsi le istituzioni europee e nazionali hanno dibattuto a lungo sugli obiettivi climatici e sui costi di attuazione delle politiche verdi, spingendo gli istituti di ricerca a pubblicare analisi dettagliate sui benefici sanitari ed economici a lungo termine derivanti dall'abbandono delle fonti fossili.",
+  "z6709888d": "All'inizio di ottobre il governo italiano ha annunciato un aggiornamento dei propri target di bilancio per il medio termine, suscitando il dibattito degli analisti economici e l'attenzione dei media internazionali sulle ripercussioni complessive per l'area euro.",
+  "zfe45388f": "Nelle ultime settimane si sono registrati episodi di criminalità e rapine audaci nella regione di Santa Cruz, spingendo esperti di sicurezza, ex funzionari e residenti a chiedere interventi urgenti da parte dello Stato per rafforzare la presenza delle forze dell'ordine e migliorare le dotazioni materiali.",
+  "z1ddcf616": "Nei mesi scorsi si sono susseguiti importanti avvicendamenti ai vertici delle forze armate ucraine e intensi combattimenti lungo le linee del fronte orientale e meridionale, mentre i leader internazionali hanno continuato a valutare lo stato delle capacità belliche di Mosca.",
+  "z90dfd8fb": "La vicenda giudiziaria e carceraria di Christa Pike è segnata da anni di detenzione nel braccio della morte per un omicidio commesso negli anni Novanta. Negli ultimi tempi, la programmazione della sua esecuzione aveva già attirato l'attenzione mediatica e le proteste delle organizzazioni contrarie alla pena capitale, culminando nel recente e contestato tentativo fallito con le iniezioni letali.",
+  "z5435d7eb": "Gli archivi storici e le ricerche storiografiche continuano periodicamente a desecretare e riportare alla luce i dettagli sulle operazioni di intelligence condotte dal Regno Unito contro le forze dell'Asse durante il secondo conflitto mondiale.",
+  "zcc479269": "Nelle ultime settimane le autorità locali e le aziende energetiche hanno comunicato la necessità di effettuare lavori di manutenzione sulla rete per prevenire guasti e migliorare l'affidabilità della fornitura elettrica nelle aree metropolitane.",
+  "z932360a3": "La paziente ha tentato autonomamente di far fronte alla malattia vendendo i propri beni personali e impiegando tutti i risparmi accumulati, ma il prolungarsi dei sintomi ha esaurito ogni sua disponibilità finanziaria.",
+  "z7934de3f": "Il conflitto ha visto una progressiva escalation negli attacchi con i droni da ambo le parti, accompagnata da tensioni diplomatiche e recenti discussioni internazionali su possibili tregue parziali o settoriali, come il dibattito sulle infrastrutture energetiche.",
+  "zd2eff010": "Il funzionario era stato precedentemente sospeso dall'incarico a seguito dell'emergere di pesanti accuse di corruzione e procedimenti penali, che avevano portato all'avvio di un'indagine disciplinare interna alla polizia sudafricana.",
+  "z94a19110": "L'urna funeraria si trovava all'interno del monastero di Po Lin sull'isola di Lantau, dove i fan potevano recarsi regolarmente per rendere omaggio alla celebre cantante scomparsa negli anni scorsi.",
+  "z07655a7e": "I governi conservatori britannici si erano costantemente opposti a ipotesi di interferenze straniere nel referendum del 2016 e avevano mantenuto una linea di forte distanza istituzionale dai partner comunitari europei.",
+  "z398f0514": "Il percorso politico di Donald Trump è stato segnato dalla contestata conclusione del suo primo mandato nel 2020 e da una successiva campagna permanente condotta da posizioni esterne all'apparato di governo federale.",
+  "z0213b5c3": "Il movimento politico guidato da Ben Gvir ha costantemente sostenuto la necessità di inasprire le misure di sicurezza e di ridimensionare o smantellare le strutture di governo dell'Autorità palestinese.",
+  "z9b2f095f": "Le difficoltà occupazionali e l'aumento del costo della vita in Kenya hanno messo sotto pressione i bilanci familiari, spingendo i lavoratori a cercare liquidità nei risparmi accumulati per la pensione.",
+  "z8724539e": "Durante l'estate, l'enclave nordafricana è stata teatro di una massiccia crisi migratoria che ha messo sotto pressione le strutture di accoglienza e la stabilità sociale locale, rendendo necessaria una risposta istituzionale di alto profilo.",
+  "zf3d7299b": "La situazione di sicurezza nell'area occidentale dello Stato è rimasta instabile, con frequenti frizioni e scontri localizzati tra i reparti dell'esercito regolare e le fazioni armate d'opposizione.",
+  "z1178f984": "La pubblicazione regolare delle edizioni giornaliere continua la copertura informativa quotidiana curata dall'agenzia e dalla redazione di Brazzaville.",
+  "z5339c010": "I rapporti diplomatici e commerciali tra Stati Uniti e Cina sono stati segnati da negoziati complessi e da divergenze strategiche sui mercati tecnologici e sulla sicurezza regionale.",
+  "z0801acdc": "I dipinti erano stati sottratti nel corso di un furto che aveva mobilitato le forze di sicurezza specializzate nella tutela del patrimonio artistico e nella ricerca di beni di inestimabile valore.",
+  "z04e347ce": "La polemica era scoppiata a seguito della diffusione di annunci definiti di pubblica utilità dall'amministrazione, accompagnati dall'impegno presidenziale a coprire i costi con fondi di natura politica.",
+  "z11252c4a": "Il dibattito all'interno del Partito Repubblicano si è concentrato sulla necessità di bilanciare la fedeltà alla base militante legata a Trump e l'esigenza di attrarre elettori indipendenti nelle competizioni chiave.",
+  "z64db4582": "Cipro ha avanzato nel tempo la richiesta di entrare a far parte dello spazio di libero transito europeo, affrontando le verifiche tecniche della Commissione e le valutazioni geopolitiche connesse alla divisione di Cipro.",
+  "z80faa644": "Gli Stati membri dell'Unione Europea hanno approvato nel corso del conflitto numerosi cicli di sanzioni economiche e diplomatiche per esercitare pressione sulla Federazione Russa.",
+  "z99d3c28e": "Nei fine settimana e nei periodi di maggiore affluenza turistica montana, le squadre di soccorso gestiscono frequentemente interventi di emergenza per escursionisti in difficoltà e incidenti fatali.",
+  "z0f7d467f": "Le autorità sanitarie e governative hanno elaborato il nuovo piano quinquennale di intervento coinvolgendo esperti del settore e operatori sociali per aggiornare le linee guida nazionali.",
+  "z1a56b624": "I servizi di sorveglianza doganale avevano intensificato i controlli sui flussi di trasporto merci sospetti nelle aree di transito del Paese baltico.",
+  "z2445f26c": "Il pubblico ministero aveva avviato un'azione legale presso il tribunale regionale per contestare la decisione con cui gli era stato riconosciuto un illecito disciplinare legato al suo impegno nelle forze di volontariato militare.",
+  "zbd0a70cb": "La società ha consolidato la propria presenza sul mercato raggruppando sotto il marchio Source diverse realtà aziendali e sviluppando modelli di business orientati alla crescita globale.",
+  "z074cf964": "Le dogane nazionali ricevono periodicamente segnalazioni su siti web non ufficiali che richiedono compensi in denaro per l'espletamento di pratiche amministrative pubbliche e gratuite.",
+  "z4d369aa9": "Tra l'11 e il 12 ottobre si è consumata una grave tragedia marittima al largo delle coste di Gibuti, nel Corno d'Africa. Un'imbarcazione sovraffollata con decine di migranti a bordo si è ribaltata mentre cercava di raggiungere la penisola arabica. Secondo i bilanci diffusi dall'Organizzazione internazionale per le migrazioni, il tragico naufragio ha causato almeno 139 morti accertati, compresi diversi bambini, mentre circa 84 persone risultano ancora disperse."
  },
  "cronologie": {
   "ze86d166a": [
@@ -15942,6 +18222,476 @@ window.EDIZIONI["2026-10-13"] = {
    [
     "Aggiornamento recente",
     "Le stime indicano perdite record pari a circa 245 milioni di dollari"
+   ]
+  ],
+  "z973dcd0f": [
+   [
+    "Giorni scorsi",
+    "Il giornalista Mykhailo Tkach viene fermato dalla polizia austriaca durante un'inchiesta."
+   ],
+   [
+    "Nei giorni scorsi",
+    "Il cronista denuncia una possibile manipolazione delle autorità austriache da parte di soggetti investigati."
+   ],
+   [
+    "In seguito",
+    "La Ukrainska Pravda sollecita un'indagine formale sulla condotta delle forze dell'ordine."
+   ],
+   [
+    "Attualmente",
+    "Il caso solleva interrogativi sulla protezione dei giornalisti all'estero."
+   ]
+  ],
+  "z9c7e79fa": [
+   [
+    "Giorni scorsi",
+    "Viene annunciata la sospensione del voto per i cittadini nazionalizzati tramite la legge sui discendenti."
+   ],
+   [
+    "Nei giorni scorsi",
+    "Le associazioni di discendenti in Argentina definiscono la misura un disprezzo verso i residenti all'estero."
+   ],
+   [
+    "Successivamente",
+    "Cresce il dibattito politico e diplomatico sull'impossibilità di regolarizzare la situazione in tempi brevi."
+   ]
+  ],
+  "z40635a55": [
+   [
+    "Giorni precedenti",
+    "Violente precipitazioni colpiscono la zona provocando frane e danni materiali."
+   ],
+   [
+    "Nei giorni scorsi",
+    "Le squadre di soccorso avviano le operazioni di pulizia e sgombero dei detriti."
+   ],
+   [
+    "Vigilia",
+    "La Delegazione Presidenziale emette l'ordine di evacuazione per l'aumento del rischio di nuovi smottamenti."
+   ],
+   [
+    "In corso",
+    "Sospese le lezioni in presenza e bloccati i lavori di pulizia per l'allerta meteo."
+   ]
+  ],
+  "z0093da00": [
+   [
+    "Giorni scorsi",
+    "Un forte terremoto colpisce Panama causando danni e disagi ai collegamenti."
+   ],
+   [
+    "Sabato",
+    "I sessanta passeggeri uruguaiani bloccati fanno ritorno nel loro Paese."
+   ],
+   [
+    "Recenti dichiarazioni",
+    "L'ambasciatrice uruguaiana conferma l'assenza di connazionali coinvolti o bisognosi di aiuto."
+   ]
+  ],
+  "zf6e9f335": [
+   [
+    "Settimane scorse",
+    "Si svolgono le elezioni per il rinnovo della leadership locale a Praga."
+   ],
+   [
+    "Nei giorni scorsi",
+    "Partono i negoziati formali tra i partiti per la formazione della coalizione."
+   ],
+   [
+    "Attualmente",
+    "I colloqui si concentrano sulle priorità programmatiche e sulla divisione delle competenze amministrative."
+   ]
+  ],
+  "zbbc46ac1": [
+   [
+    "Mesi scorsi",
+    "Dibattito politico sui costi e sui benefici delle politiche climatiche europee."
+   ],
+   [
+    "Oggi",
+    "Viene pubblicato il nuovo studio che quantifica in 34 mila le vite salvabili e stima i benefici economici fino al 2030."
+   ]
+  ],
+  "z6709888d": [
+   [
+    "Inizio ottobre",
+    "Roma rivede al rialzo gli obiettivi di deficit per il 2027 e il 2028."
+   ],
+   [
+    "Nei giorni scorsi",
+    "Gli investitori reagiscono alle nuove stime di bilancio dedicate a difesa ed energia."
+   ],
+   [
+    "Oggi",
+    "L'analisi economica evidenzia i rischi di contagio finanziario tra i Paesi dell'area euro."
+   ]
+  ],
+  "zfe45388f": [
+   [
+    "Settimane scorse",
+    "Cresce l'allarme sociale a Santa Cruz per una serie di episodi criminali."
+   ],
+   [
+    "Nei giorni scorsi",
+    "La polizia effettua arresti e sequestri legati a rapine e complicità interne."
+   ],
+   [
+    "Oggi",
+    "L'ex direttore della Felcc chiede ufficialmente l'aumento del personale di polizia a 12.000 unità."
+   ]
+  ],
+  "z1ddcf616": [
+   [
+    "Mesi scorsi",
+    "Il generale Oleksandr Syrskyi viene rimosso dal suo incarico di vertice militare."
+   ],
+   [
+    "Nei giorni scorsi",
+    "Si registrano nuovi sviluppi sul fronte bellico tra Russia e Ucraina."
+   ],
+   [
+    "Oggi",
+    "Viene pubblicata la prima intervista post-incarico in cui il generale giudica compromessa l'offensiva russa."
+   ]
+  ],
+  "z90dfd8fb": [
+   [
+    "giorni scorsi",
+    "Programmata l'esecuzione della detenuta Christa Pike."
+   ],
+   [
+    "precedenti",
+    "Tentativo di esecuzione fallito con l'uso di due iniezioni letali."
+   ],
+   [
+    "recentemente",
+    "Analisi dei protocolli di emergenza e rilevazione del ritardo nei soccorsi."
+   ]
+  ],
+  "zcc479269": [
+   [
+    "giorni scorsi",
+    "Annuncio dei lavori di manutenzione da parte del gestore energetico."
+   ],
+   [
+    "12 ottobre",
+    "Inizio previsto delle interruzioni temporanee di corrente."
+   ]
+  ],
+  "z932360a3": [
+   [
+    "oltre tre mesi fa",
+    "Insorgenza dei primi sintomi di gonfiore all'addome e ai piedi."
+   ],
+   [
+    "recentemente",
+    "Esaurimento totale dei risparmi e vendita dei beni di valore."
+   ],
+   [
+    "oggi",
+    "Lancio dell'appello pubblico di aiuto per continuare le cure."
+   ]
+  ],
+  "z7934de3f": [
+   [
+    "giorni scorsi",
+    "Tensioni diplomatiche e dichiarazioni incrociate tra i leader internazionali."
+   ],
+   [
+    "notte scorsa",
+    "Lancio di oltre seicento droni da parte ucraina contro obiettivi in territorio russo."
+   ]
+  ],
+  "zd2eff010": [
+   [
+    "mesi scorsi",
+    "Sospensione dall'incarico di vice commissario per accuse di corruzione."
+   ],
+   [
+    "recentemente",
+    "Apertura dell'udienza disciplinare formale."
+   ],
+   [
+    "oggi",
+    "Presentazione delle dimissioni e conseguente licenziamento con disonore."
+   ]
+  ],
+  "z94a19110": [
+   [
+    "18 luglio",
+    "Un fan scopre la mancanza dell'urna al monastero di Po Lin."
+   ],
+   [
+    "tre mesi fa",
+    "I familiari prendono atto della scomparsa delle ceneri."
+   ],
+   [
+    "questo fine settimana",
+    "La famiglia rende pubblica la notizia e chiede aiuto alla cittadinanza."
+   ]
+  ],
+  "z07655a7e": [
+   [
+    "domenica",
+    "Dichiarazioni pubbliche sul presunto coinvolgimento del Cremlino nella Brexit."
+   ],
+   [
+    "lunedì",
+    "Intervento di Andy Burnham per chiedere legami più stretti con l'Unione Europea."
+   ],
+   [
+    "oggi",
+    "Analisi politica e commenti sulle prospettive di riavvicinamento."
+   ]
+  ],
+  "z398f0514": [
+   [
+    "2020",
+    "Sconfitta elettorale e fine del primo mandato presidenziale."
+   ],
+   [
+    "periodo intermedio",
+    "Mantenimento della leadership e della figura di outsider politico."
+   ],
+   [
+    "recentemente",
+    "Pubblicazione dell'intervista e delle analisi della giornalista Haberman."
+   ]
+  ],
+  "z0213b5c3": [
+   [
+    "periodo recente",
+    "Crescita delle tensioni politiche interne in Israele."
+   ],
+   [
+    "oggi",
+    "Comizio pubblico del leader di estrema destra a Tel Aviv."
+   ],
+   [
+    "reazioni",
+    "Appelli della folla per l'eliminazione dell'Autorità palestinese e difesa del sistema carcerario."
+   ]
+  ],
+  "z9b2f095f": [
+   [
+    "mesi scorsi",
+    "Aumento della disoccupazione e pressione sui bilanci delle famiglie keniote."
+   ],
+   [
+    "recentemente",
+    "Pubblicazione del rapporto statistico sui prelievi dai fondi previdenziali."
+   ],
+   [
+    "oggi",
+    "Rilevamento del pentimento della maggioranza dei lavoratori che hanno svuotato i fondi."
+   ]
+  ],
+  "z8724539e": [
+   [
+    "estate",
+    "Crisi migratoria di massa e tensioni sociali a Ceuta."
+   ],
+   [
+    "giorni scorsi",
+    "Preparativi logistici e allestimento della sicurezza per l'arrivo dei sovrani."
+   ],
+   [
+    "imminente",
+    "Visita ufficiale di Re Filippo VI e della Regina Letizia."
+   ]
+  ],
+  "zf3d7299b": [
+   [
+    "lunedì mattina",
+    "Attacco all'avamposto militare di Bari nella contea di Mundri West."
+   ],
+   [
+    "subito dopo",
+    "Rivendicazione della cattura della base da parte dell'opposizione SPLA-IO."
+   ],
+   [
+    "oggi",
+    "Smentita ufficiale dell'esercito SSPDF che rivendica il respingimento dell'assalto."
+   ]
+  ],
+  "z1178f984": [
+   [
+    "giorni scorsi",
+    "Pubblicazione delle precedenti edizioni di inizio ottobre."
+   ],
+   [
+    "12 ottobre 2026",
+    "Uscita della nuova edizione quotidiana in formato digitale."
+   ]
+  ],
+  "z5339c010": [
+   [
+    "periodo recente",
+    "Preparativi per il vertice Apec nella città cinese di Shenzhen."
+   ],
+   [
+    "avvicinamento all'evento",
+    "Analisi sulle dinamiche di potere tra le due potenze globali."
+   ]
+  ],
+  "z0801acdc": [
+   [
+    "furto",
+    "Sottrazione dei dipinti di Renoir protetti da coperture."
+   ],
+   [
+    "indagini",
+    "Analisi scientifica dei reperti e tracciamento dei veicoli sospetti."
+   ],
+   [
+    "oggi",
+    "Conferma del procuratore sul recupero delle tele e sullo sventamento di un nuovo colpo."
+   ]
+  ],
+  "z04e347ce": [
+   [
+    "periodo precedente",
+    "Avvio della campagna pubblicitaria e promessa di finanziamento privato."
+   ],
+   [
+    "recentemente",
+    "Rilevazione contabile della spesa effettuata con fondi pubblici dei contribuenti."
+   ],
+   [
+    "oggi",
+    "Copertura giornalistica dei costi sostenuti dallo Stato."
+   ]
+  ],
+  "z11252c4a": [
+   [
+    "mesi scorsi",
+    "Evoluzione delle campagne elettorali e posizionamento dei candidati repubblicani."
+   ],
+   [
+    "avvicinamento al voto",
+    "Discussioni strategiche sull'influenza dei progetti personali dell'ex presidente."
+   ],
+   [
+    "oggi",
+    "Analisi radiofonica e approfondimento con gli strateghi politici."
+   ]
+  ],
+  "z64db4582": [
+   [
+    "valutazioni passate",
+    "Verifiche tecniche della Commissione europea sulla preparazione di Cipro."
+   ],
+   [
+    "recente parere",
+    "Conferma della prontezza tecnica ma permanenza degli ostacoli politici e territoriali."
+   ],
+   [
+    "oggi",
+    "Analisi dei fattori che frenano l'ingresso definitivo nell'area Schengen."
+   ]
+  ],
+  "z80faa644": [
+   [
+    "mesi scorsi",
+    "Discussioni preliminari tra i partner europei sui nuovi regimi restrittivi."
+   ],
+   [
+    "recentemente",
+    "Messa a punto delle nuove voci sanzionatorie contro la Difesa russa."
+   ],
+   [
+    "oggi",
+    "Annuncio ufficiale del maxi-pacchetto da parte dei vertici Ue."
+   ]
+  ],
+  "z99d3c28e": [
+   [
+    "fine settimana",
+    "Partenza delle escursioni nel Comasco e sulla Maiella."
+   ],
+   [
+    "interventi",
+    "Segnalazione degli incidenti mortali a Como e attivazione dei soccorsi in Abruzzo."
+   ],
+   [
+    "oggi",
+    "Conclusione delle operazioni di salvataggio sulla Maiella e bilancio degli eventi."
+   ]
+  ],
+  "z0f7d467f": [
+   [
+    "mesi scorsi",
+    "Stesura delle linee guida della nuova Strategia Nazionale sulle Droghe."
+   ],
+   [
+    "avvicinamento odierno",
+    "Presentazione del piano all'esecutivo per la discussione."
+   ],
+   [
+    "imminente",
+    "Approvazione del Gabinetto e successiva pubblicazione ufficiale."
+   ]
+  ],
+  "z1a56b624": [
+   [
+    "operazione",
+    "Monitoraggio dei movimenti dei veicoli sospetti a Šiauliai."
+   ],
+   [
+    "blitz",
+    "Intercettazione del trasferimento delle merci dal tir al furgone e arresto dei due sospetti."
+   ],
+   [
+    "oggi",
+    "Comunicazione ufficiale del sequestro e stima del valore superiore agli ottocentomila euro."
+   ]
+  ],
+  "z2445f26c": [
+   [
+    "periodo precedente",
+    "Emanazione del provvedimento disciplinare contro il magistrato."
+   ],
+   [
+    "ricorso",
+    "Presentazione dell'istanza legale presso il tribunale amministrativo."
+   ],
+   [
+    "sentenza recente",
+    "Rigetto del ricorso e conferma della legittimità della sanzione."
+   ]
+  ],
+  "zbd0a70cb": [
+   [
+    "anni scorsi",
+    "Nascita e sviluppo iniziale della start-up locale."
+   ],
+   [
+    "periodo recente",
+    "Aggregazione di cinque imprese sotto il marchio comune Source."
+   ],
+   [
+    "oggi",
+    "Annuncio di ambiziosi obiettivi di fatturato superiore a trecentomila milioni e piani di espansione futura."
+   ]
+  ],
+  "z074cf964": [
+   [
+    "segnalazione",
+    "Rilevamento del caso in cui un cittadino ha versato 149 euro."
+   ],
+   [
+    "oggi",
+    "Pubblicazione dell'avviso ufficiale della dogana lituana per mettere in guardia i consumatori."
+   ]
+  ],
+  "z4d369aa9": [
+   [
+    "11 ottobre",
+    "L'Oim riferisce di un naufragio al largo di Gibuti con almeno 139 migranti morti"
+   ],
+   [
+    "12 ottobre",
+    "Confermato il bilancio di 139 vittime e accertata la scomparsa di circa 84 dispersi"
    ]
   ]
  },
@@ -19778,6 +22528,578 @@ window.EDIZIONI["2026-10-13"] = {
     "United Kingdom"
    ],
    "pt": []
+  },
+  "z973dcd0f": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z9c7e79fa": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z40635a55": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z0093da00": {
+   "n": "Panama City",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "zf6e9f335": {
+   "n": "Prague",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zbbc46ac1": {
+   "n": "Lisbon",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z6709888d": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfe45388f": {
+   "n": "Santa Cruz de la Sierra",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z1ddcf616": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z90dfd8fb": {
+   "n": "United States",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5435d7eb": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zcc479269": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z932360a3": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z7934de3f": {
+   "n": "Moscow",
+   "p": [
+    "Russia",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zd2eff010": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z94a19110": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z07655a7e": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z398f0514": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0213b5c3": {
+   "n": "Tel Aviv",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z9b2f095f": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z8724539e": {
+   "n": "Ceuta",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zf3d7299b": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z1178f984": {
+   "n": "Brazzaville",
+   "p": [
+    "Congo"
+   ],
+   "pt": []
+  },
+  "z5339c010": {
+   "n": "Shenzhen",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z0801acdc": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z04e347ce": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z11252c4a": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z64db4582": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z80faa644": {
+   "n": "Brussels",
+   "p": [
+    "Belgium",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z99d3c28e": {
+   "n": "Como",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z0f7d467f": {
+   "n": "Dublin",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z1a56b624": {
+   "n": "Šiauliai",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z2445f26c": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zbd0a70cb": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z074cf964": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z271a796e": {
+   "n": "Riga",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "ze1d204ad": {
+   "n": "Riga",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "z03f4c78b": {
+   "n": "Aizpute",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "zf41ffe17": {
+   "n": "Arlington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb072528c": {
+   "n": "Arlington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z45e49b5b": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zd999c63c": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z26b23d4e": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z8f45934a": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z55e5142f": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z01bcdb62": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z42d275f0": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z9b71fb3c": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z05d0f794": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z009011ea": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z883925c9": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z043c8db7": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z1050d883": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z61c6a608": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zd697454e": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z8e2d839c": {
+   "n": "Skopje",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "z70632627": {
+   "n": "Skopje",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "z8e02b00a": {
+   "n": "Chisinau",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "zae13c0b4": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "zba3729ba": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z2cc57d29": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z0f08fdfa": {
+   "n": "Ginevra",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z4d369aa9": {
+   "n": "Stretto di Bab al-Mandeb",
+   "p": [
+    "Djibouti",
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z4b9129f8": {
+   "n": "Thimphu",
+   "p": [
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "z5edafc54": {
+   "n": "Trongsa",
+   "p": [
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "z21f353b6": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "zee82c62e": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z3954ecb6": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "zda615235": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z86932cd1": {
+   "n": "Bangui",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "zd8a7a394": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z62f208dd": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z879d9174": {
+   "n": "Banjul",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "z6d923539": {
+   "n": "Banjul",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "zb4c5b3a2": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z3e66aba5": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z4d30ea9d": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z0120777e": {
+   "n": "Rakhine State",
+   "p": [
+    "Myanmar"
+   ],
+   "pt": []
+  },
+  "zb8db521b": {
+   "n": "Naypyitaw",
+   "p": [
+    "Myanmar",
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "z67b72c88": {
+   "n": "Naypyitaw",
+   "p": [
+    "Myanmar",
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zd380e42e": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -20324,7 +23646,88 @@ window.EDIZIONI["2026-10-13"] = {
   "z848f7f53": 2,
   "z7865dbcd": 1,
   "z8ddc06ae": 2,
-  "z90b78191": 2
+  "z90b78191": 2,
+  "z973dcd0f": 1,
+  "z9c7e79fa": 1,
+  "z40635a55": 2,
+  "z0093da00": 1,
+  "zf6e9f335": 1,
+  "zbbc46ac1": 1,
+  "z6709888d": 1,
+  "zfe45388f": 1,
+  "z1ddcf616": 2,
+  "z90dfd8fb": 2,
+  "z5435d7eb": 1,
+  "zcc479269": 1,
+  "z932360a3": 1,
+  "z7934de3f": 2,
+  "zd2eff010": 2,
+  "z94a19110": 2,
+  "z07655a7e": 1,
+  "z398f0514": 1,
+  "z0213b5c3": 1,
+  "z9b2f095f": 1,
+  "z8724539e": 1,
+  "zf3d7299b": 1,
+  "z1178f984": 1,
+  "z5339c010": 1,
+  "z0801acdc": 1,
+  "z04e347ce": 1,
+  "z11252c4a": 1,
+  "z64db4582": 1,
+  "z80faa644": 2,
+  "z99d3c28e": 1,
+  "z0f7d467f": 1,
+  "z1a56b624": 1,
+  "z2445f26c": 1,
+  "zbd0a70cb": 1,
+  "z074cf964": 1,
+  "z271a796e": 1,
+  "ze1d204ad": 1,
+  "z03f4c78b": 1,
+  "zf41ffe17": 1,
+  "zb072528c": 1,
+  "z45e49b5b": 1,
+  "zd999c63c": 1,
+  "z26b23d4e": 1,
+  "z8f45934a": 1,
+  "z55e5142f": 1,
+  "z01bcdb62": 1,
+  "z42d275f0": 1,
+  "z9b71fb3c": 1,
+  "z05d0f794": 1,
+  "z009011ea": 1,
+  "z883925c9": 1,
+  "z043c8db7": 1,
+  "z1050d883": 1,
+  "z61c6a608": 1,
+  "zd697454e": 1,
+  "z8e2d839c": 1,
+  "z70632627": 1,
+  "z8e02b00a": 1,
+  "zae13c0b4": 1,
+  "zba3729ba": 1,
+  "z2cc57d29": 1,
+  "z0f08fdfa": 1,
+  "z4d369aa9": 2,
+  "z4b9129f8": 1,
+  "z5edafc54": 1,
+  "z21f353b6": 1,
+  "zee82c62e": 1,
+  "z3954ecb6": 1,
+  "zda615235": 1,
+  "z86932cd1": 1,
+  "zd8a7a394": 1,
+  "z62f208dd": 1,
+  "z879d9174": 1,
+  "z6d923539": 1,
+  "zb4c5b3a2": 1,
+  "z3e66aba5": 1,
+  "z4d30ea9d": 1,
+  "z0120777e": 1,
+  "zb8db521b": 1,
+  "z67b72c88": 1,
+  "zd380e42e": 1
  },
  "video": {},
  "pillole": []
