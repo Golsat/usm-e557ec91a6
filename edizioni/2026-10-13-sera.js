@@ -3,6 +3,2140 @@ window.EDIZIONI["2026-10-13-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z177e5c75",
+   "sez": "mondo",
+   "titolo": "Le forze militari israeliane fanno irruzione negli uffici di alcune ONG a Ramallah",
+   "orig": "Israel’s military raids NGO offices in Ramallah",
+   "lead": "Le forze israeliane hanno fatto irruzione negli uffici di diverse organizzazioni non governative a Ramallah, in Cisgiordania. A darne notizia è l'emittente Al Jazeera, la cui giornalista Nida Ibrahim ha seguito direttamente l'operazione sul campo nella zona occupata della Cisgiordania, documentando l'azione militare contro le realtà associative locali. Lo riferisce Al Jazeera.",
+   "more": [
+    "Ramallah è la sede amministrativa dell'Autorità Nazionale Palestinese situata nella Cisgiordania occupata, un'area centrale nelle tensioni geopolitiche e nei controlli militari della regione mediorientale."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-13T10:53+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-13T09:47+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z12d8c9e9",
+   "sez": "sport",
+   "titolo": "Un guasto interno alla Ferrari a Singapore rende impossibile ignorare i problemi",
+   "orig": "Ferrari’s internal engine failure that Singapore made impossible to ignore",
+   "lead": "I costosi errori strategici commessi dalla Ferrari durante il Gran Premio di Singapore sono costati a Lewis Hamilton un piazzamento sul podio. L'episodio ha messo in luce una disfunzione sistemica all'interno della scuderia, sollevando interrogativi cruciali sul ruolo del pilota britannico al fianco di Charles Leclerc. Lo riferisce Mail & Guardian.",
+   "more": [
+    "Il Gran Premio di Singapore è una delle tappe più impegnative del campionato mondiale di Formula 1, celebre per il tracciato cittadino e le condizioni climatiche particolarmente faticose per vetture e piloti."
+   ],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/2026-10-13-ferrari-s-internal-engine-failure-that-singapore-made-impossible-to-ignore/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-13T09:39+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z00b6d329",
+   "sez": "ingegneria",
+   "titolo": "Ada Lovelace Day: Network Rail celebra le ingegneri e l'IET svela i finalisti dei premi",
+   "orig": "Ada Lovelace Day: Network Rail highlights female engineers and IET reveals award finalists",
+   "lead": "In occasione dell'Ada Lovelace Day, Network Rail ha valorizzato le carriere di due ingegneri donne, mentre l'Institution of Engineering and Technology ha annunciato i cinque finalisti per i premi Young Woman Engineer of the Year del 2026. L'iniziativa punta a riconoscere il contributo femminile nel settore tecnico e industriale. Lo riferisce New Civil Engineer.",
+   "more": [
+    "L'Ada Lovelace Day è una ricorrenza internazionale dedicata a celebrare e promuovere i successi delle donne nei campi della scienza, della tecnologia, dell'ingegneria e della matematica."
+   ],
+   "fonti": [
+    {
+     "n": "New Civil Engineer",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.newcivilengineer.com/latest/network-rail-highlights-female-engineers-and-iet-reveals-award-finalists-for-ada-lovelace-day-13-10-2026/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T10:04+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z873fe2a9",
+   "sez": "adolescenti",
+   "titolo": "Recensione di Forever Is Now: lo studio politico sull'ex leader dei Verdi irlandesi ricorda The Thick of It ma con una morale",
+   "orig": "Forever Is Now review – political study of former Irish Green leader is like The Thick of It but with morals",
+   "lead": "Un nuovo documentario offre un ritratto favorevole e ravvicinato di Eamon Ryan, ex leader dei Verdi e ministro dell'ambiente durante gli ultimi diciotto mesi nel governo di coalizione irlandese. Il film ne evidenzia il profilo laborioso, simpatico e idealista, richiamando lo stile della satira politica The Thick of It ma privo di cinismo. Lo riferisce The Guardian – Cinema.",
+   "more": [
+    "Il governo di coalizione in Irlanda riunisce forze politiche diverse per la gestione dell'esecutivo nazionale, guidando le politiche ambientali e statali del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/13/forever-is-now-review-documentary-eamon-ryan",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T10:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13",
+   "sub": "cinema"
+  },
+  {
+   "id": "z97606b73",
+   "sez": "musica",
+   "titolo": "Mick Gordon di ‘Doom’ conferma i piani per un tour mondiale di colonne sonore della durata di due anni",
+   "orig": "‘Doom’s Mick Gordon confirms plans for two-year world soundtrack tour",
+   "lead": "Il compositore Mick Gordon ha annunciato l'intenzione di intraprendere un tour mondiale della durata di due anni incentrato sulle sue colonne sonore, con una tappa già fissata per la prossima estate al RADAR Festival di Manchester. Lo riferisce NME.",
+   "more": [
+    "Mick Gordon è un compositore australiano noto a livello internazionale per la creazione di colonne sonore e musiche per videogiochi di grande successo come la serie Doom."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/gaming-news/doom-mick-gordon-two-year-world-soundtrack-tour-dates-3973035?utm_source=rss&utm_medium=rss&utm_campaign=doom-mick-gordon-two-year-world-soundtrack-tour-dates",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T11:17+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zc28dbd9c",
+   "sez": "salute",
+   "titolo": "Opinione: l'epidemia di impotenza appresa tra i medici",
+   "orig": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
+   "lead": "Un intervento della columnista Frances Mei Hardin evidenzia come schiere di professionisti brillanti e dotati di titoli di studio avanzati, giunti tra i quarant'anni, i cinquant'anni e oltre, tendano a comportarsi in modo inspiegabilmente inerme sul posto di lavoro. Lo riferisce STAT.",
+   "more": [
+    "Il concetto di impotenza appresa descrive una condizione psicologica in cui un individuo, dopo ripetute esperienze negative o stress prolungati, smette di tentare di cambiare la propria situazione."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T08:30+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z9601cb1c",
+   "sez": "cultura",
+   "titolo": "Un raro dipinto di Van Gogh da 180 milioni di dollari in mostra a Hong Kong prima dell'asta di New York",
+   "orig": "Rarely seen US$180 million Van Gogh on show in Hong Kong ahead of New York auction",
+   "lead": "Una collezione di capolavori impressionisti e post-impressionisti, tra cui un paesaggio di Vincent van Gogh rimasto nascosto al pubblico per oltre cinquantacinque anni, ha fatto il suo debutto globale a Hong Kong. La raccolta, appartenuta all'imprenditore argentino Carlos Pedro Blaquier, sarà esposta fino al quindici ottobre prima di essere messa all'asta da Sotheby's a New York. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Le aste d'arte internazionale rappresentano il mercato di riferimento per la compravendita di opere di altissimo valore storico e collezionistico tra i grandi collezionisti globali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/arts/article/3370705/rarely-seen-us180-million-van-gogh-show-hong-kong-ahead-new-york-auction?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-13T09:16+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z187dfc7a",
+   "sez": "tech",
+   "titolo": "Il progetto segreto 'Anke' da mille miliardi di yuan della Cina: prepararsi a uno scontro con gli Stati Uniti?",
+   "orig": "China's Trillion-Yuan Secret 'Anke' Project: Preparing for a Showdown With the US?",
+   "lead": "Alcuni rapporti rivelano una vasta campagna promossa dalla Cina per sostituire la tecnologia straniera nei settori industriali critici, con l'obiettivo di ridurre la dipendenza dai fornitori occidentali in un contesto di crescenti tensioni geopolitiche. Lo riferisce Japan Forward.",
+   "more": [
+    "La competizione tecnologica globale vede contrapposte le principali superpotenze nell'indipendenza di filiera per semiconduttori, software e infrastrutture critiche."
+   ],
+   "fonti": [
+    {
+     "n": "Japan Forward",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://japan-forward.com/china-trillion-yuan-anke-project-preparing-future-us-cutoff/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-13T09:31+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z2b043917",
+   "sez": "sport",
+   "titolo": "UEFA Champions League: Osimhen e Lookman guidano le stelle nigeriane di fronte a difficili test europei",
+   "orig": "UEFA Champions League: Osimhen, Lookman lead Nigerian stars facing tough European tests",
+   "lead": "Nessun giocatore nigeriano è riuscito a ottenere una vittoria nella giornata inaugurale della massima competizione calcistica per club, lasciando ampi margini di recupero per le prossime sfide in Europa. Protagonisti attesi per il riscatto sono Victor Osimhen e Ademola Lookman. Lo riferisce Premium Times.",
+   "more": [
+    "La UEFA Champions League è il principale torneo calcistico continentale per club, che riunisce le migliori squadre e i calciatori più affermati d'Europa."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/more-news/916665-uefa-champions-league-osimhen-lookman-lead-nigerian-stars-facing-tough-european-tests.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-13T10:14+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z5bb7f0c1",
+   "sez": "ingegneria",
+   "titolo": "GSK fissa l'inizio dei lavori di costruzione per il 2027 per il progetto da 800 milioni di dollari in Pennsylvania",
+   "orig": "GSK Sets 2027 Construction Start for $800M Pennsylvania Buildout",
+   "lead": "L'azienda farmaceutica GSK ha pianificato l'espansione del proprio campus produttivo di Upper Merion, in Pennsylvania, un intervento da ottocento milioni di dollari che richiederà operazioni di demolizione e l'impiego di ulteriori maestranze edili prima dell'avvio operativo previsto per il 2030. Lo riferisce Engineering News-Record.",
+   "more": [
+    "Gli investimenti in infrastrutture biofarmaceutiche richiedono complessi iter di pianificazione e costruzione per soddisfare i rigorosi standard sanitari e industriali."
+   ],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/63900-gsk-sets-2027-construction-start-for-800m-pennsylvania-buildout",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T06:51-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z3053da81",
+   "sez": "adolescenti",
+   "titolo": "The Social Reckoning non è così arrabbiato o potente come dovrebbe essere un dramma su Facebook",
+   "orig": "The Social Reckoning isn’t as angry or as potent as a Facebook drama should be",
+   "lead": "Il tentativo di Aaron Sorkin di replicare il successo cinematografico di The Social Network viene descritto come uno sguardo incompleto e datato su un universo digitale che necessiterebbe di un'analisi più tagliente. La pellicola non riesce a eguagliare la forza polemica del film diretto da David Fincher nel 2010. Lo riferisce The Guardian – Cinema.",
+   "more": [
+    "Le produzioni cinematografiche dedicate alla storia dei social media cercano di raccontare l'impatto culturale e tecnologico delle grandi piattaforme digitali sulla società contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/13/the-social-reckoning-aaron-sorkin",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T09:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13",
+   "sub": "cinema"
+  },
+  {
+   "id": "zf82de8b4",
+   "sez": "musica",
+   "titolo": "‘Blue Planet 3’ avrà un tour orchestrale nel 2027",
+   "orig": "‘Blue Planet 3’ is getting a 2027 orchestral tour",
+   "lead": "La produzione televisiva naturalistica 'Blue Planet 3' sarà protagonista nel 2027 di un tour orchestrale dal vivo, che combinerà le musiche epiche composte da Hans Zimmer con proiezioni di filmati appositamente selezionati. Lo riferisce NME.",
+   "more": [
+    "I tour orchestrali dedicati alle grandi colonne sonore naturalistiche uniscono la musica sinfonica dal vivo alla divulgazione scientifica e ambientale."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/tv/blue-planet-3-2027-orchestral-tour-hans-zimmer-tour-dates-tickets-3973020?utm_source=rss&utm_medium=rss&utm_campaign=blue-planet-3-2027-orchestral-tour-hans-zimmer-tour-dates-tickets",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T10:02+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zd3f9e763",
+   "sez": "salute",
+   "titolo": "L'attività fisica può migliorare l'umore e la qualità della vita durante la menopausa",
+   "orig": "Physical activity may improve mood and quality of life during menopause",
+   "lead": "Uno studio condotto da ricercatori dell'University College London e pubblicato sulla rivista Menopause ha analizzato oltre un millimetro di donne, evidenziando che praticare attività fisica durante la perimenopausa e la prima postmenopausa può alleviare la depressione, migliorare l'umore e accrescere il benessere complessivo. Lo riferisce Medical Xpress.",
+   "more": [
+    "La menopausa è una fase fisiologica della vita femminile caratterizzata da cambiamenti ormonali che possono influenzare lo stato psicologico e la qualità della vita."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-physical-mood-quality-life-menopause.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T07:00-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z0898cf85",
+   "sez": "cultura",
+   "titolo": "Marion Cotillard nominata presidente di giuria per il 23° Festival Internazionale del Film di Marrakech",
+   "orig": "Marion Cotillard Named Jury President for the 23rd Marrakech International Film Festival",
+   "lead": "L'attrice francese vincitrice del Premio Oscar Marion Cotillard è stata designata presidente della giuria per la ventitresima edizione del Festival Internazionale del Film di Marrakech. In questa veste guiderà il panel incaricato di assegnare la prestigiosa Étoile d'Or, scegliendo il vincitore tra le opere prime e seconde in competizione internazionale. Lo riferisce Hespress English.",
+   "more": [
+    "Il Festival Internazionale del Film di Marrakech è una delle manifestazioni cinematografiche più importanti del continente africano e del panorama mediterraneo."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147197-marion-cotillard-named-jury-president-for-the-23rd-marrakech-international-film-festival.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-13T10:31+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zbe4f0e71",
+   "sez": "economia",
+   "titolo": "L'inflazione nella Repubblica Ceca sale al 2,5% in settembre",
+   "orig": "Czech inflation rose to 2.5 percent in September",
+   "lead": "Nel mese di settembre il tasso di inflazione nella Repubblica Ceca ha registrato un incremento, attestandosi al 2,5 percento. Il dato economico riflette l'andamento dei prezzi al consumo nel Paese centroeuropeo. Lo riferisce Radio Prague International.",
+   "more": [
+    "L'inflazione misura la variazione percentuale nel tempo del livello generale dei prezzi di beni e servizi acquistati dalle famiglie."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/czech-inflation-rose-25-percent-september-8899864",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-13T11:32+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zd1c2fb38",
+   "sez": "sport",
+   "titolo": "Giornata interessante per l'allenatore di Bulatović, derby al Metropolitano",
+   "orig": "Zanimljiv dan za Bulatovićevog trenera, derbi na Metropolitanu",
+   "lead": "In vista della seconda giornata della fase a gironi di Champions League, la UEFA annuncia la presenza di Andriju Bulatović tra gli undici titolari contro lo Sporting, mentre l'Atletico Madrid si prepara ad affrontare lo United. Lo riferisce Vijesti.",
+   "more": [
+    "La Champions League rappresenta la massima competizione calcistica europea per club, caratterizzata da sfide ad alto livello tecnico."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/fudbal/831159/zanimljiv-dan-za-bulatovicevog-trenera-derbi-na-metropolitanu",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-13T13:13+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z17126a21",
+   "sez": "ingegneria",
+   "titolo": "Un centro d'arte, Large, è la nuova aggiunta all'Île Seguin e al suo ex sito industriale",
+   "orig": "An art centre, Large, is the newest addition to Île Seguin, and its formerly industrial site",
+   "lead": "Lo studio RCR Architectes ha firmato il progetto del nuovo centro d'arte denominato Large sull'Île Seguin, uno spazio ideato per celebrare l'arte e la comunità e per restituire vitalità a un'area precedentemente occupata da uno stabilimento industriale della Renault. Lo riferisce Wallpaper*.",
+   "more": [
+    "L'Île Seguin è un'isola sulla Senna nota per aver ospitato storicamente grandi impianti industriali automobilistici, oggi convertiti in poli culturali e urbani."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/architecture/public-buildings/ile-seguin-art-centre-large-rcr-arquitectes-france",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T10:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z253f525e",
+   "sez": "salute",
+   "titolo": "La storia di fumo dei donatori viventi di rene è legata a maggiori complicanze nei trapianti",
+   "orig": "Smoking history of living kidney donors linked to higher transplant complications",
+   "lead": "Una ricerca condotta da UC Davis Health ha evidenziato che i pazienti sottoposti a un trapianto di rene ricevuto da un donatore vivente con una storia di tabagismo affrontano un rischio maggiore di fallimento del trapianto, noto come perdita del graft. La probabilità più elevata si registra nei riceventi i cui donatori presentavano un tabagismo consistente. Lo riferisce Medical Xpress.",
+   "more": [
+    "Il trapianto renale da donatore vivente è una procedura chirurgica salvavita per i pazienti affetti da insufficienza renale cronica grave."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-history-kidney-donors-linked-higher.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T07:00-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z9bf26b15",
+   "sez": "tech",
+   "titolo": "L'IA che si replica da sola, cosa ha scoperto Anthropic",
+   "orig": "L’IA che si replica da sola, cosa ha scoperto Anthropic",
+   "lead": "I ricercatori di Anthropic hanno testato il funzionamento di un modello di intelligenza artificiale su quindici TV box economici, studiandone la capacità di propagazione autonoma tra dispositivi all'interno di un ambiente controllato. La scoperta apre nuovi interrogativi e frontiere nel campo della cybersicurezza. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "La sicurezza dei sistemi di intelligenza artificiale e la prevenzione della replicazione autonoma dei codici rappresentano temi cruciali per la protezione delle reti informatiche globali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/13/news/ia_replica_da_sola_anthropic-425644773/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T13:10+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z68925aee",
+   "sez": "salute",
+   "titolo": "L'iniziativa di raccolta fondi Art for Cuba si apre agli artisti namibiani",
+   "orig": "Art for Cuba fundraiser opens to Namibian artists",
+   "lead": "Il Bellhaus Atelier & Galerie ha avviato una campagna artistica e di raccolta fondi a Windhoek con l'obiettivo di raccogliere centomila dollari namibiani per fornire forniture mediche e kit solari ai centri sanitari di Cuba. L'evento riunirà artisti, musicisti e poeti locali dal ventisei al trenta ottobre. Lo riferisce The Namibian.",
+   "more": [
+    "Le mostre d'arte solidale uniscono la promozione della creatività locale al sostegno umanitario internazionale verso le strutture sanitarie in difficoltà."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/art-for-cuba-fundraiser-opens-to-namibian-artists/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-13T09:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z4867003e",
+   "sez": "economia",
+   "titolo": "La città di Tartu aumenterà il carico debitorio di quasi il 40% nei prossimi anni",
+   "orig": "City of Tartu to increase loan burden by nearly 40% in coming years",
+   "lead": "La città di Tartu ha annunciato l'intenzione di incrementare il proprio indebitamento di quasi il quaranta percento nei prossimi anni, con un debito totale che dovrebbe superare i 260 milioni di euro entro il 2030. Lo riferisce ERR News.",
+   "more": [
+    "La gestione del debito pubblico locale consente alle municipalità di finanziare grandi investimenti infrastrutturali e di sviluppo urbano a lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610164945/city-of-tartu-to-increase-loan-burden-by-nearly-40-in-coming-years",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-13T13:12+03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zca74c34b",
+   "sez": "mondo",
+   "titolo": "Lo Sporting de Braga in Danimarca per la Conference League",
+   "orig": "Sporting de Braga em Copenhaga para a Liga Conferência",
+   "lead": "Lo Sporting de Braga si appresta a iniziare la sua avventura nella fase a giorni della Conference League affrontando in trasferta i danesi del Copenhaga, in occasione della prima giornata della competizione europea. Lo riferisce RTP.",
+   "more": [
+    "La UEFA Conference League è una competizione calcistica continentale per club organizzata annualmente dall'associazione europea di calcio."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/liga-europa-conferencia/sporting-de-braga-em-copenhaga-para-a-liga-conferencia_d1771383",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z699fad23",
+   "sez": "ingegneria",
+   "titolo": "Dr Martens si unisce ai talenti emergenti della moda di Londra per una serie di collaborazioni radicate nell'artigianato",
+   "orig": "Dr Martens unites with London’s rising fashion talent on a series of collaborations rooted in craft",
+   "lead": "Il marchio di calzature Dr Martens ha avviato il progetto 'Statements in Craft', unendo le forze con designer emergenti londinesi come Chopova Lowena, Sage Nation e Labrum per realizzare collezioni in edizione limitata, nell'ambito di un più ampio percorso di rinnovamento dello storico marchio. Lo riferisce Wallpaper*.",
+   "more": [
+    "Le collaborazioni tra brand storici e giovani designer rappresentano una strategia per unire la tradizione manifatturiera alle tendenze innovative della moda contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/fashion-beauty/dr-martens-collaboration-london-designers-chopova-lowena-sage-nation-labrum",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T09:39+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z6657a935",
+   "sez": "salute",
+   "titolo": "Cellule in continua evoluzione aiutano il cancro al pancreas a eludere i trattamenti e a diffondersi",
+   "orig": "Continuously evolving cells help pancreatic cancer evade treatment and spread",
+   "lead": "Un'analisi condotta su quasi mezzo milione di cellule provenienti dai tumori di decine di pazienti ha svelato come le cellule tumorali rimodellino continuamente il proprio profilo genetico nel tempo, permettendo a una delle forme più aggressive di cancro di resistere alle terapie e propagarsi. Lo riferisce Medical Xpress.",
+   "more": [
+    "Il cancro al pancreas è una delle neoplasie più letali e difficili da trattare a causa della rapidità con cui sviluppa resistenza ai trattamenti farmacologici."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-evolving-cells-pancreatic-cancer-evade.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T05:00-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z74892edd",
+   "sez": "tech",
+   "titolo": "Nothing Headphone (1) Pro, la prova: il design si distingue e il suono conquista",
+   "orig": "Nothing Headphone (1) Pro, la prova: il design si fa notare e il suono conquista",
+   "lead": "Le cuffie Nothing Headphone (1) Pro si confermano un prodotto originale nel mercato dell'audio premium grazie a un'estetica ispirata ai laboratori elettronici rétro e a una qualità sonora di alto livello. La prova ne evidenzia la forte personalità e la capacità di offrire un ascolto coinvolgente. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "Le cuffie over-ear di fascia alta combinano design distintivi e tecnologie avanzate di cancellazione del rumore per migliorare l'esperienza di ascolto quotidiana."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/13/news/nothing-headphone-1-pro-recensione-prezzo-425644688/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T12:47+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "ze4780a35",
+   "sez": "cultura",
+   "titolo": "Il festival cinematografico dell'Unione Europea torna a Windhoek",
+   "orig": "EU film festival returns to Windhoek",
+   "lead": "Torna nella capitale namibiana l'annuale Festival del Cinema dell'Unione Europea, volto a creare un ponte culturale tra la cinematografia europea e quella locale. La rassegna si terrà dal venti ottobre al diciannovesimo novembre con proiezioni settimanali presso il Goethe-Institut Namibia. Lo riferisce The Namibian.",
+   "more": [
+    "I festival cinematografici internazionali favoriscono la diffusione della cultura audiovisiva e lo scambio di esperienze tra registi e pubblico di diversi continenti."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/eu-film-festival-returns-to-windhoek/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-13T09:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z3b8ad82b",
+   "sez": "economia",
+   "titolo": "I sindacati vogliono che il salario minimo in Estonia superi i 1.000 euro",
+   "orig": "Unions want Estonia's minimum wage to exceed €1,000",
+   "lead": "La Confederazione dei sindacati estoni e la Confederazione dei datori di lavoro hanno avviato formalmente le trattative sindacali per definire l'importo del salario minimo previsto per il prossimo anno, con l'obiettivo di superare la soglia dei mille euro. Lo riferisce ERR News.",
+   "more": [
+    "La contrattazione collettiva tra sindacati e associazioni datoriali stabilisce i livelli retributivi minimi per tutelare il potere d'acquisto dei lavoratori dipendenti."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610164924/unions-want-estonia-s-minimum-wage-to-exceed-1-000",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-13T11:55+03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z4eaeff06",
+   "sez": "mondo",
+   "titolo": "Arbitri montenegrino e albanese per le partite di Benfica e Torreense in Europa League",
+   "orig": "Montenegrino e albanês arbitram jogos de Benfica e Torreense na Liga Europa",
+   "lead": "La UEFA ha reso note le designazioni arbitrali per le competizioni europee: il montenegrino Nikola Dabanovic dirigerà la sfida tra Benfica e Celtic, mentre l'albanese Enea Jorgji arbitrerà l'incontro tra Torreense e Sunderland. Lo riferisce RTP.",
+   "more": [
+    "Le competizioni europee per club gestite dalla UEFA richiedono la designazione di direttori di gara internazionali per garantire imparzialità e competenza negli incontri."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/benfica/montenegrino-e-albanes-arbitram-jogos-de-benfica-e-torreense-na-liga-europa_d1771381",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z1dae4436",
+   "sez": "ingegneria",
+   "titolo": "Il debutto della nuova collezione di gioielli di Fernando Jorge a PAD London",
+   "orig": "‘Armour is the idea of something that you put on to protect you’ – first view of Fernando Jorge’s new jewellery collection",
+   "lead": "Il gioielliere brasiliano residente a Londra Fernando Jorge presenta al PAD London la sua nuova collezione dal titolo «Armour», ispirata al concetto di protezione e difesa personale che si indossa. L'evento offre al pubblico e agli addetti ai lavori la prima panoramica ufficiale sulle creazioni inedite concepite dall'artista. Lo riferisce Wallpaper*.",
+   "more": [
+    "PAD London è una rinomata fiera d'arte e design che si svolge annualmente nella capitale britannica, offrendo una vetrina internazionale per gallerie di alto livello dedicate al design storico e contemporaneo, all'artigianato e alla gioielleria d'autore."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/watches-jewellery/fernando-jorge-armour-collection-pad-london-2026",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T09:23+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z72521107",
+   "sez": "tech",
+   "titolo": "La sicurezza dei dispositivi IoT domestici dopo i casi di sabotaggio industriale",
+   "orig": "Dai frigoriferi industriali alla sicurezza delle nostre case. Come proteggere i dispositivi IoT",
+   "lead": "Il recente sabotaggio degli impianti di refrigerazione industriale in Francia dimostra in modo evidente come una vulnerabilità informatica possa generare conseguenze materiali dirette. Il pericolo non riguarda soltanto il settore industriale, ma si estende anche ai dispositivi domestici intelligenti connessi a internet, comunemente definiti IoT. La testata analizza la natura di questi rischi e illustra le contromisure necessarie per proteggere efficacemente le abitazioni private e i sistemi smart. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "L'Internet delle Cose (IoT) comprende una vasta gamma di oggetti quotidiani dotati di connettività di rete, dai termostati intelligenti agli elettrodomestici, che offrono funzioni avanzate di controllo remoto ma aumentano la superficie di attacco per potenziali intrusioni informatiche."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/13/news/come_proteggere_dispositivi_iot-425644569/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T12:16+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "ze7bde2aa",
+   "sez": "economia",
+   "titolo": "La Tanzania e l'Arabia Saudita firmano un accordo nel settore energetico",
+   "orig": "Tanzania and Saudi Arabia sign MoU to cement ties in energy sector",
+   "lead": "Il governo della Tanzania e il governo reale dell'Arabia Saudita hanno sottoscritto un protocollo d'intesa per intensificare la cooperazione bilaterale nel settore dell'energia. L'accordo prevede una stretta collaborazione tra le aziende operanti nei settori del petrolio, del gas e dell'energia elettrica dei due Paesi. A firmare l'intesa a Riad sono stati il ministro tanzaniano dell'Energia, Juma Zuberi Homera, e il rispettivo omologo saudita. Lo riferisce Daily News (Tanzania).",
+   "more": [
+    "I protocolli d'intesa bilaterali nel settore energetico servono a facilitare gli investimenti congiunti, lo scambio di competenze tecniche e la realizzazione di infrastrutture strategiche tra Stati produttori e nazioni in via di sviluppo economico."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzania-and-saudi-arabia-sign-mou-to-cement-ties-in-energy-sector/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-13T10:47+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "ze20fa556",
+   "sez": "ingegneria",
+   "titolo": "I personaggi di Cindy Sherman vestiti Chanel interrogano il tema dell'invecchiamento a Londra",
+   "orig": "Cindy Sherman’s characters, draped in Chanel, interrogate ageing in London",
+   "lead": "Presso la galleria Hauser & Wirth di Londra, l'artista Cindy Sherman presenta la mostra intitolata «Fabric Matrons», in cui utilizza i suoi celebri personaggi abbigliati con abiti firmati Chanel per riflettere sul significato e sulle implicazioni dell'avanzare dell'età. L'esposizione offre ai visitatori londinesi un'analisi visiva incentrata sul processo d'invecchiamento attraverso l'interpretazione di ruoli e costumi. Lo riferisce Wallpaper*.",
+   "more": [
+    "Hauser & Wirth è una galleria d'arte contemporanea di rilievo internazionale con sedi in diverse metropoli mondiali, nota per ospitare mostre museali di artisti affermati e progetti espositivi concettuali."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/art/exhibitions-shows/cindy-shermans-characters-draped-in-chanel-interrogate-ageing-in-london",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T09:05+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "ze3fcbf3b",
+   "sez": "tech",
+   "titolo": "Termosifoni, le indicazioni dell'ENEA per la manutenzione e il risparmio in bolletta",
+   "orig": "Cosa fare prima di riaccendere i termosifoni: le indicazioni ENEA per risparmiare in bolletta",
+   "lead": "In vista della riattivazione dei termosifoni prevista dal 15 ottobre in gran parte del Nord Italia, l'ENEA diffonde le indicazioni pratiche per ottenere un notevole risparmio economico e garantire la sicurezza dell'impianto termico. Prima di accendere il riscaldamento, gli esperti consigliano di effettuare la manutenzione della caldaia, procedere allo sfiato dei radiatori e rimuovere polvere o eventuali ostacoli che ne limitano il corretto funzionamento. Lo riferisce Geopop.",
+   "more": [
+    "L'ENEA è l'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile, un ente di ricerca pubblico italiano che fornisce regolarmente linee guida e pareri tecnici sull'efficienza energetica domestica."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/cosa-fare-prima-di-riaccendere-i-termosifoni-le-indicazioni-enea-per-risparmiare-in-bolletta/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T09:30+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z6248a644",
+   "sez": "salute",
+   "titolo": "Il Ministero della Salute di Timor Est e l'OMS discutono le funzioni essenziali della sanità pubblica",
+   "orig": "MS-OMS Diskute Funsaun Esensiál Saúde Públiku",
+   "lead": "Il Ministero della Salute di Timor Est, insieme all'Organizzazione Mondiale della Salute e ad altri partner internazionali, ha organizzato un incontro per discutere le funzioni essenziali legate alla sanità pubblica nel Paese. Durante la riunione, il vice ministro per il Rafforzamento Istituzionale, José dos Reis Magno, ha espresso profondo apprezzamento per il sostegno finanziario fornito dal governo della Repubblica Popolare Cinese e per l'assistenza tecnica garantita dall'OMS nello sviluppo delle attività sanitarie. Lo riferisce Timor Post.",
+   "more": [
+    "Le funzioni essenziali di sanità pubblica comprendono l'insieme delle azioni e dei servizi coordinati promossi dalle autorità statali e dalle organizzazioni internazionali per prevenire le malattie, prolungare la vita e tutelare la salute della popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/nasional/tp-68399/ms-oms-diskute-funsaun-esensial-saude-publiku/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-13T10:20+00:00"
+    },
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/nasional/tp-68395/el-nino-komesa-invade-alerta-uza-maskara/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-13T08:30+00:00"
+    },
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/nasional/tp-68402/oms-sei-haforsa-infraestrutura-kuidadu-pasiente-psikiatria/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-13T10:24+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "ze8cea627",
+   "sez": "economia",
+   "titolo": "La Tanzania punta sulla qualità del tè, sulla valorizzazione del prodotto e sull'energia pulita",
+   "orig": "Tanzania moves to add value to tea products, use clean energy to produce quality tea",
+   "lead": "Il direttore generale del Consiglio del Tè della Tanzania, Beatrice Banzi, ha evidenziato l'importanza fondamentale di rispettare gli accordi commerciali tra gli investitori e i piccoli agricoltori locali. Nel corso di un incontro ufficiale, Banzi ha sottolineato la necessità di aggiungere valore ai prodotti derivati dal tè e di adottare fonti di energia pulita durante i processi produttivi, con l'obiettivo di tutelare l'ambiente e migliorare gli standard qualitativi del tè tanzaniano sui mercati. Lo riferisce Daily News (Tanzania).",
+   "more": [
+    "La coltivazione del tè costituisce una voce rilevante per l'economia agricola di molte regioni dell'Africa orientale, dove l'adozione di pratiche sostenibili e la trasformazione locale della materia prima aiutano a incrementare i ricavi per i piccoli produttori."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzania-moves-to-add-value-to-tea-products-use-clean-energy-to-produce-quality-tea/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-13T10:28+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z51053103",
+   "sez": "tech",
+   "titolo": "Il Board della Trasparenza in Albania pubblica i nuovi prezzi dei carburanti con aumenti per benzina e gasolio",
+   "orig": "Bordi i Transparencës publikon çmimet e reja të karburanteve, rritet nafta dhe benzina",
+   "lead": "Il Board della Trasparenza albanese ha reso noti i nuovi prezzi ufficiali per la commercializzazione dei carburanti nel Paese balcanico. A partire da martedì, il prezzo di vendita al dettaglio del gasolio conforme allo standard SSH EN 590 non potrà superare la soglia massima di 219 lek al litro, mentre il prezzo di vendita all'ingrosso è fissato a un massimo di 207 lek al litro. La misura aggiorna contestualmente anche le tariffe per gli altri prodotti petroliferi. Lo riferisce Euronews Albania.",
+   "more": [
+    "I comitati di regolamentazione dei prezzi dei carburanti in Albania sono stati istituiti per monitorare i mercati energetici e calmierare i costi al consumo in periodi di forte instabilità economica internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/bordi-i-transparences-publikon-cmimet-e-reja-te-karburanteve-rritet-nafta-dhe-benzina/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-13T10:10+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z95cc00ef",
+   "sez": "economia",
+   "titolo": "Oyedele mette in guardia contro la pressione fiscale sui poveri mentre il G-24 chiede prestiti agevolati",
+   "orig": "Oyedele warns against tax burden on poor people as G-24 seeks concessional lending support",
+   "lead": "Il responsabile economico avverte sulla necessità di evitare un eccessivo carico fiscale a danno delle fasce di popolazione meno abbienti, ricordando che il debito pubblico rappresenta di fatto una tassazione futura e che l'obiettivo primario di tasse e prestiti deve rimanere il benessere dei cittadini. L'appello si inserisce nel contesto delle richieste avanzate dal gruppo G-24 per ottenere un maggiore supporto tramite finanziamenti e prestiti agevolati a livello internazionale. Lo riferisce Premium Times.",
+   "more": [
+    "Il G-24 è un gruppo intergovernativo composto da Paesi in via di sviluppo che opera all'interno del Fondo Monetario Internazionale e della Banca Mondiale per coordinare le posizioni sulle questioni monetarie e di sviluppo finanziario."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/business/business-news/916699-oyedele-warns-against-tax-burden-on-poor-people-as-g-24-seeks-concessional-lending-support.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-13T11:13+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z1d47cd16",
+   "sez": "ingegneria",
+   "titolo": "HDR nomina Andy Yosten presidente del Building Engineering Services Group",
+   "orig": "HDR Names Andy Yosten President Of Building Engineering Services Group",
+   "lead": "La società internazionale HDR ha annunciato la nomina di Andy Yosten alla carica di presidente del proprio Building Engineering Services Group. Il neo presidente ha iniziato il suo percorso professionale all'interno dell'azienda nel 2005 come stagista nel settore dell'ingegneria meccanica, per poi essere assunto a tempo pieno nel 2007. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "Le società di ingegneria e consulenza globale gestiscono grandi progetti infrastrutturali e immobiliari attraverso team specializzati nella progettazione meccanica, elettrica e strutturale degli edifici."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/hdr-names-andy-yosten-president-of-building-engineering-services-group/",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-13T10:56+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z49d66149",
+   "sez": "salute",
+   "titolo": "Salute mentale nella Repubblica Centrafricana: il punto sulla presa in carico dei pazienti nel Paese",
+   "orig": "Santé mentale : que dire de la prise en charge des patients à travers le pays ?",
+   "lead": "Il programma radiofonico approfondisce il tema della salute mentale in occasione della ricorrenza celebrata il 10 ottobre scorso, analizzando le condizioni in cui avviene l'assistenza ai pazienti in tutto il territorio nazionale. Ospite della trasmissione è il dottor Caleb Ketté, primario del reparto di psichiatria presso il Centro Ospedaliero Universitario di Bangui, che fa il punto sulle sfide e sulle modalità di cura offerte alle persone affette da disturbi psichiatrici. Lo riferisce Radio Ndeke Luka.",
+   "more": [
+    "I centri ospedalieri universitari nei Paesi in via di sviluppo affrontano spesso notevoli difficoltà nella gestione della salute mentale a causa della carenza di strutture dedicate e di personale medico specializzato."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107023-sante-mentale-que-dire-de-la-prise-en-charge-des-patients-a-travers-le-pays",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-13T09:12+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z6f59e947",
+   "sez": "tech",
+   "titolo": "Celonis, il colosso tecnologico di Monaco che promette l'indipendenza digitale dai gruppi statunitensi",
+   "orig": "Celonis: Dieser Münchner Tech-Riese verspricht digitale Unabhängigkeit von US-Konzernen",
+   "lead": "L'azienda tecnologica tedesca Celonis, con sede a Monaco di Baviera, sviluppa software avanzati utilizzati tra l'altro per l'aggregazione e l'analisi dei dati destinati alle forze di polizia. La società viene considerata da alcuni osservatori come una potenziale alternativa europea ai giganti digitali americani come Palantir, sebbene la realtà aziendale presenti dinamiche e sfumature più complesse. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "Il software di processo e di analisi dei dati aziendali consente alle grandi organizzazioni pubbliche e private di mappare e ottimizzare i flussi operativi digitali in tempo reale."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/muenchen/celonis-muenchen-palantir-process-mining-polizei-datenschutz-li.3547139",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T10:02+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z9e1cef50",
+   "sez": "economia",
+   "titolo": "In Veneto la produzione ittica punta sulle ostriche a causa dei cambiamenti climatici e del granchio blu",
+   "orig": "Ora in Veneto si punta sulle ostriche",
+   "lead": "In Veneto un numero crescente di aziende sta convertendo la tradizionale attività di allevamento di cozze e vongole verso la produzione di ostriche. La transizione produttiva si è resa necessaria a causa degli effetti combinati dei cambiamenti climatici sull'ecosistema lagunare e della rapida diffusione del granchio blu, che minaccia i molluschi tradizionali. Lo riferisce Il Post.",
+   "more": [
+    "La mitilicoltura e l'ostricoltura rappresentano importanti settori dell'acquacoltura costiera italiana, la cui sostenibilità economica è messa alla prova dalle recenti alterazioni ambientali e dall'invasione di specie aliene nei mari italiani."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/13/veneto-allevamenti-ostriche-granchio-blu/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T10:21+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zb8c12004",
+   "sez": "ingegneria",
+   "titolo": "Pubblicato il numero di ottobre 2026 di Construction Business News Middle East",
+   "orig": "Construction Business News ME October 2026",
+   "lead": "È disponibile il numero di ottobre 2026 della rivista specializzata Construction Business News Middle East, dedicato interamente alle strategie di pianificazione, costruzione e assegnazione dei contratti per la prossima fase di crescita urbanistica ed economica nella regione mediorientale. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "Le riviste specializzate nel settore delle costruzioni offrono regolarmente reportistica tecnica e analisi di mercato sui grandi progetti immobiliari e infrastrutturali nell'area del Golfo e del Medio Oriente."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/magazines/construction-business-news-me-october-2026/",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-13T09:18+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z77392053",
+   "sez": "sport",
+   "titolo": "Roma-Real Madrid in Champions League: dove vederla in TV, orari, formazioni e la sfida di Mourinho",
+   "orig": "Roma-Real Madrid: dove vederla in tv (Sky, Prime), orario, probabili formazioni e classifica Champions League",
+   "lead": "Dopo il pareggio a reti inviolate sofferto contro il Como, la Roma si prepara ad affrontare un'impresa difficile in Champions League. Allo stadio Olimpico arriva il Real Madrid, in un incontro che segna soprattutto il ritorno a Roma di José Mourinho per una partita europea. La sfida della seconda giornata della fase a girone unico sarà trasmessa in diretta televisiva sulle principali emittenti. Lo riferisce Il Messaggero – Sport.",
+   "more": [
+    "Il Real Madrid è una delle squadre più titolate nella storia delle competizioni calcistiche continentali, nota per la sua tradizione vincente nella massima coppa europea."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/roma_real_madrid_dove_vederla_sky_prime_champions_league_orario_probabili_formazioni-9820646.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/inter_club_brugge_dove_vederla_tv_sky_prime_orario_probabili_formazioni_champions_league-9820238.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/villarreal_napoli_champions_league_dove_vederla_tv_sky_prime_orario_probabili_formazioni-9820289.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/champions_league_programma_guida_tv_sky_prime_orari_probabili_formazioni_calendario_classifica-9820340.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/deporte-total/espana/donde-ver-barcelona-vs-galatasaray-en-vivo-gratis-hoy-por-champions-league-a-que-hora-juegan-y-en-que-canal-tv-en-directo-televisan-partido-online-apuesplan-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-13T11:00+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/deporte-total/futbol-mundial/partidos-de-hoy-martes-13-de-octubre-del-2026-horarios-canales-tv-y-donde-ver-futbol-en-vivo-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-13T11:00+00:00"
+    },
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/sports/26-27-ucl-matchday-2-preview-barcelona-man-united-arsenal-man-city-face-crucial-tests",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-13T09:59+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/ligue-des-champions-ismail-jakobs-et-galatasaray-defient-larmada-offensive-du-barca_n_999000527.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-13T10:12+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/man-city-psg-clash-at-contrasting-time-for-state-backed-projects-n391942",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-13T10:59+00:00"
+    }
+   ],
+   "data": "",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z1fb44bd4",
+   "sez": "tech",
+   "titolo": "Un'adolescente tedesca denuncia le molestie di un robot e il proprietario viene arrestato",
+   "orig": "Una adolescente alemana denunció que un robot la acosó",
+   "lead": "Un'adolescente in Germania ha sporto denuncia dopo essere stata presumibilmente molestata da un robot. Il proprietario del dispositivo robotico ha ripreso la scena con una telecamera e ha trasmesso l'accaduto in diretta sui propri canali social, un comportamento che ha portato al suo immediato arresto da parte delle forze dell'ordine. Lo riferisce Clarín.",
+   "more": [
+    "L'interazione tra esseri umani e sistemi robotici intelligenti solleva questioni inedite legate alla sicurezza personale, alla privacy e alla responsabilità legale in caso di comportamenti inappropriati o reati commessi attraverso dispositivi tecnologici."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/internacional/adolescente-alemana-denuncio-robot-acoso_0_fED3Z9zcEX.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T10:48+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z2c827af7",
+   "sez": "ingegneria",
+   "titolo": "MOMA International completa le opere in calcestruzzo del J1 Hotel a Dubai",
+   "orig": "MOMA International Marks Major Construction Milestone At J1 Hotel",
+   "lead": "Lo studio MOMA International ha completato in via sostanziale le opere in calcestruzzo del J1 Hotel, una struttura di lusso a marchio Gran Meliá situata nell'area di Port de La Mer a Dubai. Il traguardo raggiunto rappresenta una tappa fondamentale nella costruzione del complesso alberghiero a cinque stelle affacciato sul mare. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "I progetti alberghieri di fascia alta sulla costa di Dubai richiedono l'impiego di ingegneria strutturale avanzata per resistere alle condizioni ambientali marine e rispettare i rigidi standard architettonici internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/moma-international-major-construction-milestone-j1-hotel/",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-13T09:06+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zdd31d9fe",
+   "sez": "economia",
+   "titolo": "L'Autorità doganale della Siria spiega il decreto di modifica delle tariffe",
+   "orig": "Syria’s Customs Authority Explains Tariff Amendment Decree",
+   "lead": "Mazen Alloush, direttore del dipartimento delle Relazioni e della Cooperazione Internazionale presso l'Autorità generale siriana per i valichi di frontiera e le dogane, ha illustrato i contenuti e le motivazioni del recente decreto volto a modificare la struttura tariffaria doganale nel Paese. Lo riferisce Enab Baladi (inglese).",
+   "more": [
+    "Le riforme delle tariffe doganali nei Paesi sottoposti a transizioni economiche servono a regolare i flussi commerciali transfrontalieri e a gestire il gettito fiscale derivante dalle importazioni e dalle esportazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Enab Baladi (inglese)",
+     "p": "XX",
+     "c": "Damasco",
+     "u": "https://english.enabbaladi.net/archives/2026/10/syrias-customs-authority-explains-tariff-amendment-decree/",
+     "angolo": "",
+     "atlas": "Syria",
+     "t": "2026-10-13T10:34+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z1f4bf889",
+   "sez": "sport",
+   "titolo": "Brianna Clark e il percorso con le Kiwi Ferns nel rugby a XIII",
+   "orig": "'I was in the wrong sport': Kiwi Fern Brianna Clark on her rugby league journey",
+   "lead": "La giocatrice delle Kiwi Ferns Brianna Clark ripercorre la propria carriera nel rugby a XIII, affermando che la scelta di rappresentare la Nuova Zelanda ha contribuito in modo determinante a formarla sia come atleta che come persona, in vista della sua partecipazione alla seconda Coppa del Mondo. Lo riferisce Stuff NZ.",
+   "more": [
+    "Le Kiwi Ferns sono la nazionale femminile di rugby a XIII della Nuova Zelanda, una delle selezioni più competitive a livello mondiale in questa disciplina sportiva."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361045815/i-was-wrong-sport-kiwi-fern-brianna-clark-her-rugby-league-journey",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-13T08:48+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zd29d1fac",
+   "sez": "ingegneria",
+   "titolo": "Topolino diventa una collezione di design firmata dal designer del momento",
+   "orig": "Topolino ora è una collezione di design: l’ha fatta il designer più pop del momento",
+   "lead": "Il celebre personaggio di Topolino è stato trasformato in una nuova collezione di oggetti di design, ideata e realizzata dal designer contemporaneo più popolare della scena attuale. L'iniziativa unisce l'iconografia classica del fumetto con i linguaggi della progettazione d'arredo e degli oggetti d'autore. Lo riferisce Domus.",
+   "more": [
+    "Il design industriale e da collezione contamina spesso la cultura pop e i personaggi dei cartoni animati per dare vita a pezzi in edizione limitata destinati agli appassionati di design e collezionismo."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/design/gallery/2026/10/13/gustaf-westman-nuova-collezione-disney-design-topolino.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T13:00+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z76fdc9c2",
+   "sez": "economia",
+   "titolo": "La Banca Eskhata riceve un premio dalla BERS per l'ampliamento del partenariato nel finanziamento delle PMI",
+   "orig": "Eskhata Bank receives EBRD award for expanding SME financing partnership",
+   "lead": "La Banca Eskhata è stata insignita di un riconoscimento da parte della Banca Europea per la Ricostruzione e lo Sviluppo (BERS) a Dushanbe, in Tagikistan. Il premio è stato assegnato per aver aumentato il limite del meccanismo di condivisione del rischio, volto a rafforzare la partnership strategica nel settore del finanziamento delle piccole e medie imprese. Lo riferisce Asia-Plus.",
+   "more": [
+    "Le piccole e medie imprese rappresentano una componente fondamentale per la crescita economica dei mercati emergenti, favorendo l'occupazione e l'innovazione. Spesso, tuttavia, incontrano maggiori difficoltà nell'accesso al credito bancario tradizionale, rendendo cruciali gli interventi di istituzioni finanziarie internazionali e meccanismi di condivisione del rischio."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/13/bank-eskhata-receives-ebrd-award-for-scaling-up-sme-financing-partnership/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-10-13T09:04+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z26329249",
+   "sez": "ingegneria",
+   "titolo": "Alluvioni, lotte politiche e nuovi quartieri: il fotografo che ha catturato Genova mentre cambiava",
+   "orig": "Alluvioni, lotte politiche e nuovi quartieri: il fotografo che ha catturato Genova mentre cambiava",
+   "lead": "La rivista Domus racconta attraverso gli occhi di un fotografo il volto mutevole di Genova, segnato da profonde trasformazioni urbanistiche, eventi alluvionali e complesse dinamiche politiche. L'analisi visiva documenta come la città ligure si sia evoluta nel tempo, ridefinendo il proprio tessuto urbano e i suoi nuovi quartieri. Lo riferisce Domus.",
+   "more": [
+    "Genova, importante porto e centro industriale del nord Italia, ha affrontato nel corso della sua storia recente significative sfide legate alla riqualificazione urbana, alla gestione del territorio e alla prevenzione del dissesto idrogeologico."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/gallery/2026/10/13/foto-genova-citta-giorgio-bergami-fotoreporter.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T11:30+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z9dc7e67c",
+   "sez": "economia",
+   "titolo": "Il Regno Unito chiede all'Interpol di respingere le richieste 'politicamente motivate' dell'Argentina per gli arresti legati al petrolio delle Falkland",
+   "orig": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+   "lead": "Il governo britannico ha formalmente chiesto all'Interpol di respingere le richieste di 'notifica rossa' avanzate dall'Argentina per l'arresto di individui associati a un grande progetto petrolifero al largo delle Isole Falkland. Le autorità di Londra denunciano la natura politicamente motivata delle richieste, in un momento in cui le tensioni sulla sovranità del territorio d'oltremare britannico hanno raggiunto i livelli più alti dalla guerra del 1982. Lo riferisce The Guardian.",
+   "more": [
+    "Le Isole Falkland, situate nell'Atlantico meridionale, sono al centro di una lunga disputa di sovranità tra Regno Unito e Argentina, culminata nel conflitto armato del 1982. La questione energetica e lo sfruttamento delle risorse petrolifere offshore continuano a rappresentare un punto di forte attrito diplomatico."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T11:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z5534204a",
+   "sez": "sport",
+   "titolo": "Dad's Army/African Polistas campioni della Trustees' Cup 2026 dell'Accra Polo Club",
+   "orig": "Dad’s Army/African Polistas crowned champions of 2026 Accra Polo Club Trustees’ Cup",
+   "lead": "La squadra Dad's Army/African Polistas si è aggiudicata la vittoria della Trustees' Cup 2026 dell'Accra Polo Club dopo aver superato la formazione DSGHOB con il punteggio di 6-5½ in una finale emozionante e molto combattuta disputata sabato 10 ottobre. Gli appassionati presenti hanno assistito a un vivace scambio di gol durante tutto l'incontro. Lo riferisce MyJoyOnline.",
+   "more": [
+    "Il polo è uno sport di squadra equestre in cui due formazioni si contendono una palla di legno usando lunghe mazzette per segnare nella porta avversaria. È tradizionalmente associato a circoli esclusivi e competizioni storiche in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/dads-army-african-polistas-crowned-champions-of-2026-accra-polo-club-trustees-cup/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-13T11:12+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z081a301f",
+   "sez": "economia",
+   "titolo": "Manovra, 'A rischio il taglio dell'Irpef per il ceto medio'",
+   "orig": "Manovra, 'A rischio il taglio dell'Irpef per il ceto medio'",
+   "lead": "Secondo quanto riportato da Sole 24 Ore e Repubblica, la prossima manovra economica in Italia potrebbe mettere a rischio la conferma del taglio dell'Irpef previsto per il ceto medio. L'esecutivo punterebbe invece a concentrare le risorse e gli aiuti finanziari a favore degli anziani, delle fasce sociali più fragili e dei giovani. Lo riferisce ANSA.",
+   "more": [
+    "L'Irpef (Imposta sul Reddito delle Persone Fisiche) è la principale imposta diretta del sistema tributario italiano. La sua struttura a scaglioni e le eventuali modifiche delle aliquote rappresentano il fulcro di ogni discussione sulla legge di bilancio e sulla pressione fiscale."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/13/a-rischio-il-taglio-dellirpef-per-il-ceto-medio-non-ci-sono-le-coperture_2eb297d1-aac1-4316-9413-c81f26bd88a2.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T11:26+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zf75f0b8a",
+   "sez": "sport",
+   "titolo": "Netflix acquisisce i diritti esclusivi per Spagna e Andorra del Mondiale di calcio 2030",
+   "orig": "Netflix adquiere los derechos exclusivos para España y Andorra del Mundial de fútbol 2030",
+   "lead": "In una mossa senza precedenti annunciata martedì in un comunicato ufficiale, la piattaforma di streaming Netflix si è assicurata i diritti esclusivi per la trasmissione in diretta di tutte le 104 partite della Coppa del Mondo di calcio del 2030 in Spagna e Andorra. Lo riferisce El País.",
+   "more": [
+    "I diritti televisivi e di streaming dei grandi eventi sportivi globali subiscono da anni una profonda evoluzione con l'ingresso dei giganti dello streaming digitale nel mercato tradizionalmente dominato dalle emittenti televisive generaliste e satellitari."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/television/2026-10-13/netflix-adquiere-los-derechos-exclusivos-para-espana-y-andorra-del-mundial-de-futbol-2030.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-13T11:12+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "za70c1cdf",
+   "sez": "economia",
+   "titolo": "Healey respinge le richieste di equiparare le aliquote delle plusvalenze a quelle dell'imposta sul reddito",
+   "orig": "Healey rejects calls to equalise capital gains and income tax rates",
+   "lead": "Il governo britannico ha respinto le proposte volte a uniformare le tasse sulle plusvalenze finanziarie con quelle applicate ai redditi da lavoro. L'iniziativa, precedentemente sostenuta da autorevoli esponenti del Partito Laburista, aveva generato non poca preoccupazione e nervosismo tra gli investitori e la comunità imprenditoriale del Paese. Lo riferisce Financial Times.",
+   "more": [
+    "Nel Regno Unito, come in molte altre economie avanzate, la tassazione differenziata tra redditi da capitale e redditi da lavoro è uno strumento volto a stimolare gli investimenti privati, sebbene sia frequentemente oggetto di dibattito politico sulla giustizia fiscale."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/d63348fb-901d-4ff3-9cdc-0d023778dbc2?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T11:07+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z13c32468",
+   "sez": "economia",
+   "titolo": "L'energia può aiutare il Messico nei negoziati commerciali con Trump?",
+   "orig": "Can energy help Mexico in trade talks with Trump?",
+   "lead": "Il settore energetico si conferma cruciale per i rapporti economici tra Stati Uniti e Messico, rappresentando l'ambito in cui Washington registra il maggiore surplus commerciale con il Paese meridionale, pari a circa 25 miliardi di dollari nell'ultimo anno. Gli analisti valutano se tale leva possa incidere positivamente sui futuri colloqui commerciali con l'amministrazione Trump. Lo riferisce Financial Times.",
+   "more": [
+    "I negoziati commerciali tra Stati Uniti e Messico sono regolati da complessi accordi di libero scambio nell'area nordamericana. L'energia, tra idrocarburi e transizione ecologica, costituisce un pilastro strategico degli scambi transfrontalieri."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/73257952-844b-4f5f-a1cb-112ae9cb0249?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T11:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z3b777ded",
+   "sez": "economia",
+   "titolo": "La ripresa economica in stallo del Sudafrica mette alla prova Ramaphosa",
+   "orig": "South Africa’s stalled recovery tests Ramaphosa",
+   "lead": "Gli strascichi dei conflitti globali continuano a pesare sulle economie internazionali, mentre in Sudafrica il primo calo trimestrale del PIL registrato dal 2024 mette in luce debolezze strutturali di lungo corso, mettendo a dura prova la leadership del presidente Cyril Ramaphosa. Lo riferisce Financial Times.",
+   "more": [
+    "Il Sudafrica è la più industrializzata delle economie africane, ma affronta storicamente problemi legati alla disoccupazione, alle infrastrutture energetiche e alla crescita economica diseguale."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/eac06dff-3772-456a-bdbb-578e6218b83d?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T11:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z1e1ec0b1",
+   "sez": "economia",
+   "titolo": "Le probabilità del Regno Unito di trattenere il bottino di 3,8 miliardi di sterline in Bitcoin aumentano dopo la sentenza dell'Alta Corte",
+   "orig": "UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling",
+   "lead": "Le possibilità per il Regno Unito di confiscare e mantenere una fortuna in criptovalute stimata a 3,8 miliardi di sterline sono aumentate in seguito a una sentenza emessa dall'Alta Corte di Londra. Lo riferisce Financial Times.",
+   "more": [
+    "La giurisdizione britannica sui beni digitali confiscati e sequestrati nel corso di indagini internazionali per frode finanziaria rappresenta un terreno complesso e innovativo per il diritto commerciale e penale."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T10:33+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zcd7a2b48",
+   "sez": "sport",
+   "titolo": "Scommesse sportive in Ecuador: la sfida di regolare un settore in forte crescita parallelamente al calcio",
+   "orig": "Pronósticos deportivos en Ecuador: el reto de regular un negocio que crece junto con el fútbol",
+   "lead": "Un recente studio stima che il settore delle scommesse sportive abbia generato un giro d'affari pari a 252 milioni di dollari in Ecuador nel corso del 2025. Esperti del settore analizzano le problematiche legate all'informalità del mercato e tracciano un parallelo con il modello normativo adottato in Brasile. Lo riferisce El Universo.",
+   "more": [
+    "La regolamentazione del mercato delle scommesse sportive rappresenta una priorità per molti governi latinoamericani, impegnati a tutuimare la trasparenza finanziaria, prevenire la ludopatia e garantire introiti fiscali adeguati."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/deportes/futbol/apuestas-deportivas-en-ecuador-el-reto-de-regular-un-negocio-que-crece-junto-al-futbol-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-13T11:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z68b1454e",
+   "sez": "sport",
+   "titolo": "Champions League: Carlos Baleba può approfittare dell'assenza di Mainoo per debuttare contro l'Atletico?",
+   "orig": "Ligue des Champions : Carlos Baleba peut-il profiter de l’absence de Mainoo pour débuter face à l’Atlético ?",
+   "lead": "Il centrocampista Carlos Baleba potrebbe registrare la sua prima presenza da titolare con la maglia del Manchester United nella prestigiosa sfida di Champions League contro l'Atletico Madrid. L'occasione per il giovane talento si apre a poche ore dal fischio d'inizio a causa dell'assenza per infortunio o squalifica di Mainoo. Lo riferisce Actu Cameroun.",
+   "more": [
+    "La UEFA Champions League offre regolarmente ai giovani talenti l'opportunità di mettersi in luce sul palcoscenico internazionale in sostituzione dei titolari indisponibili."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/13/ligue-des-champions-carlos-baleba-peut-il-profiter-de-labsence-de-mainoo-pour-debuter-face-a-latletico/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-13T09:50+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zbd27c04f",
+   "sez": "economia",
+   "titolo": "Primo Ministro: l'Egypt Forum 2026 discuterà di sussidi in contanti legati all'inflazione e di riforme della protezione sociale",
+   "orig": "PM: Egypt Forum 2026 to discuss inflation-linked cash subsidies, social protection reform",
+   "lead": "L'Egypt Forum 2026 affronterà le modalità per migliorare la transizione dai sussidi in natura al supporto finanziario diretto in denaro, includendo l'indicizzazione del valore dei sussidi alle variazioni dei prezzi e ai tassi di inflazione per preservare il potere d'acquisto dei beneficiari. Lo ha annunciato il Primo Ministro Mostafa Madbouly, sottolineando che le misure mirano a promuovere la giustizia sociale. Lo riferisce Egypt Independent.",
+   "more": [
+    "La riforma dei sistemi di sussidi statali rappresenta un nodo centrale per le economie in via di sviluppo, impegnate a ridurre la spesa pubblica improduttiva pur garantendo adeguate tutele alle fasce di popolazione a basso reddito colpite dall'inflazione."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/pm-egypt-forum-2026-to-discuss-inflation-linked-cash-subsidies-social-protection-reform/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-13T09:39+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z2958bc97",
+   "sez": "economia",
+   "titolo": "Il PIL del Kenya salirà al 4,7% nel 2027 secondo le proiezioni del FMI",
+   "orig": "Kenya's GDP to rise to 4.7% in 2027 - IMF projects",
+   "lead": "Il Fondo Monetario Internazionale ha rivisto al rialzo le stime di crescita per l'economia del Kenya, prevedendo un incremento del PIL al 4,7% per il 2027. L'istituzione finanziaria attribuisce tale previsione positiva alla graduale attenuazione dell'inflazione interna e al raffreddamento degli shock petroliferi globali, favoriti dalla stabilizzazione dei prezzi energetici dopo il breve cessate il fuoco in Medio Oriente. Lo riferisce Citizen Digital.",
+   "more": [
+    "Le proiezioni macroeconomiche del Fondo Monetario Internazionale offrono un quadro di riferimento per valutare la stabilità finanziaria e le prospettive di sviluppo dei Paesi dell'Africa orientale rispetto alle fluttuazioni dei mercati globali delle materie prime."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/kenyas-gdp-to-rise-to-47-in-2027-imf-projects-n391935",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-13T11:14+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zb8d19660",
+   "sez": "economia",
+   "titolo": "La rupia indiana sale a 95,38 contro il dollaro statunitense",
+   "orig": "Rupee jumps 40 paise to close at 95.38 against U.S. dollar",
+   "lead": "Sul mercato dei cambi interbancario indiano, la rupia ha registrato un netto recupero salendo di 40 paise e chiudendo a quota 95,38 rispetto al dollaro statunitense. Nel corso delle contrattazioni della giornata, la divisa nazionale ha aperto a 95,53 contro il biglietto verde, toccando poi un massimo intraday di 94,96 e un minimo coincidente con il valore iniziale di 95,53 prima di stabilizzarsi verso il termine degli scambi. Lo riferisce The Hindu.",
+   "more": [
+    "Il paise rappresenta la centesima parte della rupia indiana ed è l'unità utilizzata nelle contrattazioni valutarie locali per misurare le oscillazioni giornaliere del tasso di cambio."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/business/markets/rupee-jumps-40-paise-to-close-at-9538-against-us-dollar/article71579056.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-13T16:37+05:30"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z259483e8",
+   "sez": "economia",
+   "titolo": "Volata a Mumbai: il Sensex guadagna oltre 1.100 punti e cresce la capitalizzazione",
+   "orig": "Sensex ends 1,100 points higher, investors richer by Rs 4.12 lakh crore: Why markets are up today",
+   "lead": "Forte rialzo per i mercati azionari indiani, trainati dall'avanzata degli indici principali al termine delle contrattazioni odierne. Il BSE Sensex ha archiviato la seduta a 73.033,78 punti, segnando una crescita di 1.109 punti pari all'1,54%, mentre l'indice Nifty50 si è attestato a 22.721,95 punti con un incremento di 359 punti, pari all'1,60%. Il rally ha incrementato di oltre 4,12 lakh crore di rupie il valore complessivo delle società quotate, portando la capitalizzazione aggregata a 470 lakh crore. Lo riferisce Times of India.",
+   "more": [
+    "Il Sensex e il Nifty50 sono i principali indici di riferimento dei mercati finanziari indiani e riflettono l'andamento dei titoli a maggiore capitalizzazione scambiati nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/business/india-business/stock-market-rally-today-why-bse-sensex-nifty50-are-up-today-on-october-13-2026-fm-sitharaman-ltcg-stt-it-stocks-oil-prices-rupee-top-reasons-for-rise/articleshow/134914241.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-13T15:28+05:30"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zb441c600",
+   "sez": "economia",
+   "titolo": "Brin dona 102 milioni contro la proposta di imposta sui miliardari in California",
+   "orig": "Sergey Brin is biggest donor against California wealth tax; could owe $13 billion",
+   "lead": "Il cofondatore di Google Sergey Brin ha donato 102 milioni di dollari per contrastare la proposta di una tassa sui grandi patrimoni in California in vista delle prossime consultazioni elettorali. La misura al centro del dibattito potrebbe introdurre un prelievo fiscale del 5% sui patrimoni dei miliardari, comportando per Brin un esborso potenziale stimato in 13 miliardi di dollari. All'opposizione contro la norma si sono uniti altri esponenti dell'imprenditoria come Eric Schmidt e Peter Thiel, mentre anche il governatore Gavin Newsom ha manifestato perplessità per gli impatti sull'economia locale e sui servizi pubblici. Lo riferisce Times of India.",
+   "more": [
+    "L'imposta sui patrimoni è una forma di prelievo calcolata sul valore complessivo dei beni posseduti da una persona fisica, distinta dalla tassazione ordinaria sui redditi generati nel corso dell'anno."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/technology/tech-news/google-cofounder-sergey-brin-is-biggest-donor-to-group-opposing-californias-proposed-wealth-tax-has-spent-102-million-to-fight-it-heres-how-much-he-may-lose-if-the-bill-is-passed/articleshow/134912473.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-13T13:58+05:30"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zf1ed3e71",
+   "sez": "economia",
+   "titolo": "Nepal, sanzionati 14 operatori internet per tariffe non autorizzate agli utenti",
+   "orig": "14 internet providers fined for overcharging customers",
+   "lead": "L'Autorità per le telecomunicazioni del Nepal ha comminato una sanzione di 50.000 rupie a testa a quattordici fornitori di servizi internet operanti nel Paese per aver applicato sovrapprezzi non consentiti ai propri abbonati. Oltre all'ammenda economica, l'organismo di regolamentazione ha disposto il ritiro immediato di tutti i pacchetti tariffari non autorizzati e ha ordinato alle aziende coinvolte di rimborsare e compensare adeguatamente i clienti che hanno subito danni economici a causa delle fatturazioni illecite. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Le autorità di regolamentazione delle comunicazioni vigilano sull'approvazione delle offerte commerciali per tutelare i consumatori da modifiche tariffarie arbitrarie e garantire la trasparenza contrattuale."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/13/14-internet-providers-fined-for-overcharging-customers",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zf4f6de47",
+   "sez": "mondo",
+   "titolo": "Colombia, tagli al bilancio minacciano il tribunale di pace e le ricerche dei dispersi",
+   "orig": "Budget cuts would impair Colombia peace court, search for disappeared, officials say",
+   "lead": "I tagli di spesa proposti dagli alleati del nuovo presidente conservatore della Colombia rischiano di compromettere gravemente l'operato della giurisdizione speciale di pace e i processi per violazioni dei diritti umani. Secondo quanto denunciato dai magistrati del tribunale, dall'unità speciale incaricata e dalle organizzazioni umanitarie, le riduzioni delle risorse finanziarie ostacolerebbero in modo determinante anche le attività tese a localizzare e identificare circa 137.000 persone scomparse nel corso dei decenni di conflitto armato interno nel Paese. Lo riferisce The Straits Times.",
+   "more": [
+    "I meccanismi di giustizia transizionale sono istituzioni create per indagare sui crimini di guerra e chiarire il destino dei dispersi al fine di promuovere la riconciliazione nazionale dopo prolungati conflitti armati."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/budget-cuts-would-impair-colombia-peace-court-search-for-disappeared-officials-say",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-13T19:05+08:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zc887a625",
+   "sez": "economia",
+   "titolo": "Pechino riduce i dollari: la banca centrale cinese accelera sugli acquisti d'oro",
+   "orig": "PBOC adds most gold in three years amid China pivot from US dollar",
+   "lead": "La Banca Popolare Cinese ha aumentato le proprie riserve auree con l'incremento mensile più consistente registrato negli ultimi tre anni, approfittando di una flessione temporanea delle quotazioni del metallo. L'istituto centrale mira a ridurre l'esposizione verso le attività denominate in dollari statunitensi in un contesto di tensioni geopolitiche con Washington. A fine settembre le scorte auree sono cresciute di 740.000 once troy, pari a 23 tonnellate, raggiungendo quota 77,47 milioni di once per un valore di circa 324 miliardi di dollari, a fronte di riserve complessive in valuta estera pari a 3.400 miliardi. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "Le riserve auree sono detenute dalle banche centrali per diversificare gli attivi patrimoniali e proteggere il valore delle riserve valutarie da rischi di cambio o sanzioni."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/plus/business/commodities/article/3370735/pboc-adds-most-gold-three-years-amid-china-pivot-us-dollar?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-13T09:40+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z41d017eb",
+   "sez": "economia",
+   "titolo": "Aste del Tesoro, collocati Btp per 7 miliardi con rendimenti in rialzo",
+   "orig": "Btp, collocati 7 miliardi a 3, 7 e 15 anni: rendimenti in rialzo",
+   "lead": "Il Ministero dell'Economia e delle Finanze ha assegnato titoli di Stato per un importo complessivo pari a 7 miliardi di euro attraverso aste su diverse durate temporali. I Buoni del Tesoro Poliennali emessi comprendono scadenze a 3, 7 e 15 anni e hanno fatto registrare un andamento dei rendimenti orientato al rialzo rispetto ai collocamenti precedenti. L'operazione ha permesso al Tesoro di reperire la liquidità programmata sul mercato obbligazionario primario secondo il calendario ufficiale delle emissioni di debito pubblico. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "I Btp sono titoli di debito sovrano emessi dallo Stato italiano a medio e lungo termine che garantiscono agli investitori cedole fisse periodiche e il rimborso del capitale alla scadenza."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/btp_ultime_notizie_oggi-9822125.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zd724de45",
+   "sez": "economia",
+   "titolo": "Legge di bilancio, verso la proroga della flat tax al 5% sui rinnovi contrattuali",
+   "orig": "Manovra, flat tax al 5% prorogata sui contratti. Giorgetti avverte: «Chi può deve contribuire»",
+   "lead": "Nel quadro della predisposizione della nuova manovra di bilancio, il governo italiano intende confermare la proroga dell'aliquota agevolata al 5% applicata sugli aumenti derivanti dai rinnovi dei contratti di lavoro nel settore privato. L'orientamento dell'esecutivo punta a confermare uno strumento considerato efficace e richiesto dal comparto produttivo, mentre il ministro dell'Economia Giancarlo Giorgetti ha ribadito la necessità che chi dispone di maggiori capacità economiche contribuisca allo sforzo comune richiesto dai conti pubblici. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "La tassazione agevolata sui rinnovi contrattuali mira ad alleggerire il carico fiscale sugli incrementi retributivi dei lavoratori dipendenti rispetto alle aliquote progressive ordinarie."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/manovra_flat_tax_prorogata_per_chi_quando_simulazioni-9820701.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z8f2f3954",
+   "sez": "economia",
+   "titolo": "Pensioni Enpam, a novembre rivalutazione fino all'1,05% e arretrati per i medici",
+   "orig": "Pensioni novembre 2026, aumenti e arretrati in arrivo: ecco a chi spettano, rivalutazione fino all?1,05%",
+   "lead": "I trattamenti previdenziali gestiti dall'Enpam registreranno un adeguamento economico con il pagamento del rateo del mese autunnale di novembre. L'assegno pensionistico incorporerà la rivalutazione prevista per l'anno di riferimento, con percentuali di incremento che possono salire fino all'1,05%, e includerà contestualmente la corresponsione degli arretrati maturati nei mesi precedenti. L'aumento interessa gli iscritti alla cassa previdenziale dei medici e degli odontoiatri aventi diritto secondo i parametri deliberati dall'ente. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "L'Enpam è l'ente di previdenza e assistenza privatizzato che gestisce le pensioni e il welfare per medici e odontoiatri liberi professionisti e convenzionati."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/schede/pensioni_novembre_2026_aumenti_arretrati_rivalutazione-9821868.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zcd7122e7",
+   "sez": "tech",
+   "titolo": "Settore turistico, studio evidenzia l'uso dell'intelligenza artificiale nei pagamenti",
+   "orig": "Viaggi, il settore turistico guarda all’IA per ridurre le frodi e semplificare le prenotazioni",
+   "lead": "Il comparto del turismo guarda con crescente attenzione alle soluzioni di intelligenza artificiale per contenere i rischi di frode e rendere più fluido il processo di prenotazione alberghiera e di viaggio. Secondo i dati emersi dal rapporto Hospitality Report 2026, condotto da OnePoll per la società Adyen, le inefficienze operative e i disservizi di natura tecnica registrati nei sistemi di pagamento elettronico provocano significative perdite di fatturato per gli operatori dell'accoglienza attivi sul mercato italiano. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "L'elaborazione automatizzata dei pagamenti attraverso algoritmi informatici permette di rilevare transazioni sospette in tempo reale e ridurre gli abbandoni durante il checkout online."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/osserva-italia/osserva-viaggi/2026/10/13/news/viaggi_il_settore_turistico_guarda_all_ia_per_ridurre_le_frodi_e_semplificare_le_prenotazioni-425644759/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T13:06+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z10925ead",
+   "sez": "economia",
+   "titolo": "Industria spaziale, appello per un quadro normativo che favorisca gli investimenti",
+   "orig": "Spazio, l’industria italiana tra legge nazionale e internazionale. “Rendiamo il settore competitivo”",
+   "lead": "Il futuro del comparto industriale aerospaziale italiano richiede regole chiare capaci di raccordare la disciplina legislativa nazionale con gli standard e le convenzioni internazionali. La presidente della Luiss School of Law ha sottolineato l'urgenza di definire un assetto giuridico moderno e trasparente, fondamentale per rendere le imprese del settore competitive sui mercati globali e in grado di attrarre capitali e investitori privati a sostegno dei progetti di sviluppo tecnologico del Paese. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "La regolamentazione del settore aerospaziale definisce le responsabilità legali, le concessioni delle frequenze e i requisiti di sicurezza per le attività commerciali e industriali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/13/news/spazio_industria_italiana_legge_nazionale_internazionale-425644745/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T13:02+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z4d049db8",
+   "sez": "economia",
+   "titolo": "Granarolo ottiene un finanziamento sostenibile da 450 milioni di euro",
+   "orig": "Granarolo incassa un maxi-finanziamento green da 450 milioni",
+   "lead": "Il gruppo agroalimentare Granarolo ha perfezionato un maxi-finanziamento verde per un ammontare pari a 450 milioni di euro. Le risorse finanziarie reperite sul mercato del credito serviranno a supportare la realizzazione del nuovo piano strategico pluriennale dell'azienda lattiero-casearia bolognese, focalizzato sullo sviluppo produttivo e sull'integrazione di parametri di sostenibilità ecologica nelle diverse fasi della filiera industriale. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "I finanziamenti sostenibili legano le condizioni del credito al raggiungimento di precisi obiettivi di tutela ambientale ed efficienza energetica da parte delle imprese."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/13/news/granarolo_incassa_un_maxi-finanziamento_green_da_450_milioni-425644559/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T11:58+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "ze4567bff",
+   "sez": "italia",
+   "titolo": "Referendum giustizia, sanzione Agcom da 124 mila euro a Mediaset per Rete4",
+   "orig": "Referendum giustizia, Agcom sanziona Mediaset, multa di 124mila: su Rete4 troppo spazio al sì",
+   "lead": "L'Autorità per le Garanzie nelle Comunicazioni ha inflitto una sanzione di 124.000 euro al gruppo televisivo Mediaset per violazione della par condicio sui referendum sulla giustizia. Il provvedimento è scattato in seguito allo spazio informativo concesso su Rete4 dopo una puntata con intervista a Giorgia Meloni; benché l'emittente avesse tentato un riequilibrio dei tempi su ordine dell'Agcom, i sostenitori delle ragioni del No hanno ottenuto solo il 37,4% del tempo di parola complessivo in prossimità della consultazione elettorale. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "L'Agcom vigila sul rispetto dei tempi di parola radiotelevisivi affinché durante le campagne elettorali e referendarie venga garantito un confronto imparziale tra le diverse posizioni."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/13/news/referendum_giustizia_agcom_sanziona_mediaset_rete4-425644554/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T11:56+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zfafdc256",
+   "sez": "italia",
+   "titolo": "Polizia locale in piazza: per Fp Cgil la riforma accresce i pericoli senza tutele",
+   "orig": "La protesta della polizia locale. Fp Cgil: “La riforma aumenta i rischi ma senza nuove tutele”",
+   "lead": "Mobilitazione degli operatori della polizia locale nelle maggiori città d'Italia, con un presidio programmato a Roma davanti a Palazzo Vidoni a partire dalle ore 14.30. La protesta sindacale, promossa dalla categoria Fp Cgil, contesta il disegno di legge di riforma che il Senato si appresta a convertire in via definitiva. Secondo le organizzazioni dei lavoratori, i nuovi provvedimenti normativi aumentano le mansioni operative e i rischi per gli agenti senza garantire adeguate tutele giuridiche, retributive e assistenziali per la categoria. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "La polizia locale svolge compiti di polizia municipale, viabilità e sicurezza urbana sul territorio degli enti locali in coordinamento con le forze dell'ordine statali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/13/news/polizia_locale_protesta_cgil_riforma_rischi_tutele-425644536/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T11:51+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zee3e0685",
+   "sez": "economia",
+   "titolo": "Clima ed energia, la Bei alloca 9 miliardi di euro nei Paesi partner",
+   "orig": "Energia, la Bei investe 9 miliardi nei Paesi partner: priorità al clima",
+   "lead": "La divisione operativa Eib Global della Banca Europea per gli Investimenti ha siglato accordi di finanziamento per un totale di 9 miliardi di euro destinati a 119 progetti distribuiti nei Paesi partner dell'Unione Europea. Il 57% dei fondi complessivi è stato vincolato al sostegno dell'azione per il clima e alla sostenibilità ambientale. Le risorse finanzieranno lo sviluppo delle energie rinnovabili e l'ammodernamento delle infrastrutture delle reti elettriche, con l'obiettivo di rafforzare la sicurezza energetica globale e consolidare le partnership commerciali e industriali internazionali. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "La Banca Europea per gli Investimenti è l'istituto finanziario dell'Unione Europea che eroga prestiti a lungo termine per progetti allineati agli obiettivi climatici e comunitari."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/10/13/news/energia_la_bei_investe_9_miliardi_nei_paesi_partner_priorita_al_clima-425644535/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T11:50+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zb5207063",
+   "sez": "economia",
+   "titolo": "Malesia, Zafrul conferma l'obiettivo del deficit al 3,3% del Pil",
+   "orig": "Budget 2027: Malaysia’s 3.3pc fiscal deficit target achievable, says Tengku Zafrul",
+   "lead": "Il governo malese ritiene sostenibile e alla portata del Paese il raggiungimento dell'obiettivo di riduzione del disavanzo fiscale fissato al 3,3% del prodotto interno lordo. A confermarlo è stato il ministro Tengku Zafrul durante una dichiarazione rilasciata a Kuala Lumpur in vista delle decisioni sulla legge di bilancio per i prossimi anni. Le autorità ritengono che le politiche di gestione delle finanze pubbliche consentiranno di mantenere gli impegni assunti senza pregiudicare la crescita dell'economia nazionale. Lo riferisce Malay Mail.",
+   "more": [
+    "Il disavanzo di bilancio misura la differenza tra le uscite e le entrate statali ed è calcolato in percentuale del prodotto interno lordo per valutarne la sostenibilità finanziaria."
+   ],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/13/budget-2027-malaysias-33pc-fiscal-deficit-target-achievable-says-tengku-zafrul/238974",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-13T19:09+08:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z479ce362",
+   "sez": "economia",
+   "titolo": "Cipro, summit a Limassol: le banche tradizionali tra successo e nuove sfide fintech",
+   "orig": "Traditional banks beat fintechs in first battle but face new threats",
+   "lead": "Gli istituti bancari tradizionali hanno superato positivamente la prima fase di confronto con le piattaforme tecnologiche finanziarie, ma il sistema economico deve accelerare per restare competitivo. Nel corso del Forbes Cyprus Next Gen Banking and Fintech Summit tenutosi a Limassol, il professor Costas Markides della London Business School ha affermato che Cipro deve snellire le pratiche burocratiche, velocizzare i procedimenti delle autorità di regolamentazione e attrarre professionisti specializzati per sostenere il distretto della finanza digitale di fronte alle minacce emergenti. Lo riferisce Cyprus Mail.",
+   "more": [
+    "Il comparto fintech comprende le società tecnologiche che forniscono servizi finanziari, bancari o di pagamento digitalizzati in concorrenza con gli istituti tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/13/traditional-banks-beat-fintechs-in-first-battle-but-face-new-threats",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-13T13:50+03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z0b3e0db9",
+   "sez": "economia",
+   "titolo": "Mozambico e Portogallo, Chissano sollecita alleanze aziendali per valorizzare le risorse",
+   "orig": "Chissano in Lisbon calls for win-win business partnerships between Mozambique and Portugal",
+   "lead": "L'ex presidente mozambicano Joaquim Chissano ha formulato un appello agli operatori economici nel corso di una visita a Lisbona, chiedendo di creare partenariati commerciali proficui e reciprocamente vantaggiosi tra imprese del Portogallo e del Mozambico. L'obiettivo prioritario indicato dall'ex capo di Stato è consentire la trasformazione industriale e la valorizzazione delle risorse naturali direttamente all'interno dei confini nazionali mozambicani, permettendo così alle aziende locali di crescere attraverso la cooperazione tecnologica con i soci portoghesi. Lo riferisce Club of Mozambique.",
+   "more": [
+    "La trasformazione locale delle risorse consente alle economie emergenti di generare maggiore valore aggiunto sul proprio territorio anziché limitarsi all'esportazione di materie prime grezze."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/chissano-in-lisbon-calls-for-win-win-business-partnerships-between-mozambique-and-portugal/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-13T09:34+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z4b218d2d",
+   "sez": "economia",
+   "titolo": "Lussemburgo, stipendi oltre i 200 mila euro all'anno per profili assicurativi d'élite",
+   "orig": "Some insurance roles in Luxembourg pay above €200,000 a year, study finds",
+   "lead": "Alcune mansioni dirigenziali e altamente specializzate nel comparto assicurativo del Granducato di Lussemburgo arrivano a percepire compensi annui superiori alla soglia di 200.000 euro. È quanto emerge dall'ultima guida retributiva redatta dalla società internazionale di selezione Morgan Philips. Lo studio evidenzia come le compagnie del settore finanziario e delle polizze riscontrino forti difficoltà nel reperire figure professionali adeguate per ricoprire posizioni tecniche con elevate competenze specialistiche sul mercato locale. Lo riferisce Luxembourg Times.",
+   "more": [
+    "La piazza finanziaria lussemburghese ospita un comparto assicurativo e riassicurativo di rilievo continentale, caratterizzato da forte domanda di personale altamente qualificato."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/businessandfinance/some-insurance-roles-in-luxembourg-pay-above-200000-a-year-study-finds/162988867.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-13T09:55+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "za22a2135",
+   "sez": "economia",
+   "titolo": "Bosnia Erzegovina, l'Fmi prevede un rallentamento della crescita e inflazione al 5%",
+   "orig": "The IMF warns that BiH’s economic Growth is slowing down, Inflation is rising",
+   "lead": "Il Fondo Monetario Internazionale stima una frenata dell'espansione economica per la Bosnia Erzegovina accompagnata da una rinnovata pressione sui prezzi al consumo. Nell'ultimo aggiornamento del rapporto World Economic Outlook, l'istituto di Washington ha indicato che il ritmo di crescita del prodotto interno lordo bosniaco diminuirà dal 2,4% del 2025 al 2,3% previsto per il 2026. Contemporaneamente, il tasso di inflazione del Paese balcanico è atteso in aumento, passando dal 4% registrato in precedenza fino a una quota del 5%. Lo riferisce Sarajevo Times.",
+   "more": [
+    "Il World Economic Outlook è il documento semestrale con cui il Fondo Monetario Internazionale analizza lo stato dell'economia mondiale e aggiorna le previsioni macroeconomiche dei singoli Stati."
+   ],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/the-imf-warns-that-bihs-economic-growth-is-slowing-down-inflation-is-rising/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-13T11:00+00:00"
+    },
+    {
+     "n": "Keep Talking Greece",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.keeptalkinggreece.com/2026/10/13/imf-greece-growth-forecast-2026-2027/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-13T10:13+00:00"
+    },
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/imf-forecasts-78-growth-for-uzbekistan-in-2026/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-13T15:34+05:00"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/10/13/economy/imf-growth-forecast/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-13T17:24+09:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "z25a77e3b",
+   "sez": "ambiente",
+   "titolo": "Bahrein, via libera alla pesca dello sgombro reale dopo il fermo biologico",
+   "orig": "Bahrain Resumes Kingfish Fishing on October 16",
+   "lead": "Il Regno del Bahrein ha stabilito la riapertura ufficiale delle attività di pesca dello sgombro reale a partire dal 16 ottobre. La ripresa segue la revoca del divieto stagionale di cattura introdotto dalle autorità governative per salvaguardare gli stock ittici di questa specie nelle acque territoriali e proteggere l'equilibrio complessivo dell'ecosistema marino locale. La misura consente ai pescatori di tornare a operare nel rispetto delle regole previste dopo la fine del periodo di tutela riproduttiva. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [
+    "Il fermo biologico consiste nella sospensione temporanea delle battute di pesca in determinati periodi dell'anno per consentire alle specie ittiche di riprodursi e contrastare lo sfruttamento eccessivo del mare."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/bahrain-resumes-kingfish-fishing-on-october-16",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-13T10:28+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
+   "id": "zdb5b3879",
+   "sez": "economia",
+   "titolo": "Uzbekistan, a Namangan rimborsi del 90% dell'imposta fondiaria agli agricoltori",
+   "orig": "Uzbekistan to refund 90% of land tax to high-income farmers in Namangan",
+   "lead": "Il governo dell'Uzbekistan avvierà nel 2027 un progetto sperimentale nella regione di Namangan che prevede il rimborso del 90% dell'imposta fondiaria ai coltivatori dehkan e ai titolari di fondi agricoli che rispettano determinati parametri di redditività e di utilizzo produttivo del suolo. In base ai piani delle autorità, l'esecutivo sta valutando di estendere l'applicazione di questo schema di sgravio fiscale anche ad altre aree del territorio nazionale a partire dal 2028 se i risultati della fase pilota risulteranno positivi. Lo riferisce Daryo.",
+   "more": [
+    "I coltivatori dehkan sono piccoli produttori agricoli tradizionali dell'Asia centrale che gestiscono appezzamenti a conduzione familiare garantendo gran parte della produzione di alimenti freschi."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/13/uzbekistan-to-refund-90-of-land-tax-to-high-income-farmers-in-namangan/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-13T10:30+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "13:55",
+   "uscita": "13"
+  },
+  {
    "id": "z750e8852",
    "sez": "economia",
    "titolo": "Attacco informatico contro il gruppo TFG London, verifiche in corso anche da H&M",
@@ -263,6 +2397,42 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Cyprus",
      "t": "2026-10-13T14:15+03:00"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-russia-ukraine-trump-energy-ceasefire/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-13T10:55+00:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/week-asia/economics/article/3370749/india-gain-trumps-russian-diesel-deal-offers-delhi-leverage?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-13T11:00+00:00"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-sheinbaums-focus-on-sovereignty-is-a-way-of-buying-time-in-her/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-13T10:00+00:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T09:03+00:00"
     }
    ],
    "data": "13 ott",
@@ -534,6 +2704,15 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Armenia",
      "t": "2026-10-13T12:22+04:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/13/itusk-polonia-pegasus-israele-notizie/8536379/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T10:38+00:00"
     }
    ],
    "data": "13 ott",
@@ -1883,7 +4062,91 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zc2eabb66": "Focus evidenzia come atti banali di condivisione alimentare siano per i più piccoli indicatori fondamentali di vicinanza affettiva.",
   "zac3baa38": "Billboard mette in risalto il lungo percorso di Allen e il suo impatto sulle storiche etichette EMI e Decca.",
   "zbea8f729": "STAT evidenzia l'allarme lanciato dai medici sulle possibili criticità di una terapia destinata a pazienti con patologie rare.",
-  "z459d2ef1": "La testata pone l'accento sull'espansione della fiera verso il settore navale militare in coincidenza con un anniversario storico."
+  "z459d2ef1": "La testata pone l'accento sull'espansione della fiera verso il settore navale militare in coincidenza con un anniversario storico.",
+  "z177e5c75": "L'emittente Al Jazeera pone l'accento sulla presenza diretta dei propri inviati per documentare le incursioni militari israeliane nelle aree amministrative palestinesi della Cisgiordania.",
+  "z12d8c9e9": "La testata Mail & Guardian analizza le difficoltà interne e gestionali della scuderia di Maranello in relazione alle prestazioni dei piloti di punta.",
+  "z00b6d329": "La rivista New Civil Engineer focalizza l'attenzione sulla valorizzazione dei talenti femminili e sui riconoscimenti professionali nel settore ingegneristico.",
+  "z873fe2a9": "La testata The Guardian analizza l'opera cinematografica concentrandosi sul ritratto umano e politico dell'ex ministro dell'ambiente irlandese.",
+  "z97606b73": "La rivista musicale NME evidenzia l'annuncio delle date dal vivo e la proiezione internazionale dei progetti legati alle colonne sonore per videogiochi.",
+  "zc28dbd9c": "La pubblicazione medica STAT offre uno spunto di riflessione critico sul comportamento lavorativo dei professionisti del settore.",
+  "z9601cb1c": "La testata South China Morning Post mette in risalto il valore storico ed economico delle opere d'arte per la prima volta accessibili al pubblico.",
+  "z187dfc7a": "La testata Japan Forward analizza le strategie industriali cinesi in chiave di sicurezza nazionale e di contrapposizione economica con i mercati occidentali.",
+  "z2b043917": "La testata Premium Times concentra l'attenzione sul rendimento e sulle aspettative dei calciatori nigeriani impegnati sui campi europei.",
+  "z5bb7f0c1": "La rivista Engineering News-Record monitora i grandi progetti infrastrutturali e industriali sul territorio statunitense.",
+  "z3053da81": "La testata The Guardian analizza criticamente l'opera di finzione cinematografica incentrata sulle dinamiche e le origini delle piattaforme social.",
+  "zf82de8b4": "La rivista NME dà risalto alle novità nel campo degli spettacoli musicali dal vivo legati alle grandi produzioni audiovisive.",
+  "zd3f9e763": "Il portale Medical Xpress diffonde i risultati delle ricerche scientifiche focalizzate sulla salute e sul benessere femminile.",
+  "z0898cf85": "La testata Hespress English evidenzia i riconoscimenti internazionali e i ruoli di prestigio assegnati alle figure di spicco del cinema mondiale.",
+  "zbe4f0e71": "L'emittente Radio Prague International riporta i dati macroeconomici ufficiali diffusi per monitorare l'andamento economico nazionale.",
+  "zd1c2fb38": "Il quotidiano Vijesti segue le designazioni e le aspettative dei giovani talenti e delle squadre nei tornei calcistici europei.",
+  "z17126a21": "La rivista Wallpaper* pone l'accento sulla rigenerazione urbana e architettonica delle aree industriali dismesse destinate alla cultura.",
+  "z253f525e": "Il portale Medical Xpress analizza le correlazioni cliniche tra gli stili di vita dei donatori e l'esito dei trapianti d'organo.",
+  "z9bf26b15": "Il quotidiano la Repubblica segue gli sviluppi della ricerca scientifica sulla sicurezza informatica legata ai modelli di intelligenza artificiale.",
+  "z68925aee": "Il quotidiano The Namibian evidenzia le iniziative culturali locali volte alla cooperazione e al sostegno umanitario internazionale.",
+  "z4867003e": "L'emittente ERR News documenta le previsioni finanziarie e le politiche di bilancio delle amministrazioni locali baltiche.",
+  "zca74c34b": "L'emittente RTP segue l'esordio delle squadre portoghesi nei tornei calcistici internazionali.",
+  "z699fad23": "La rivista Wallpaper* evidenzia le sinergie creative tra i marchi storici del design e i nuovi talenti della moda urbana.",
+  "z6657a935": "Il portale Medical Xpress illustra i progressi della ricerca oncologica nello studio dei meccanismi cellulari di resistenza ai farmaci.",
+  "z74892edd": "Il quotidiano la Repubblica recensisce i prodotti tecnologici di consumo concentrandosi sul bilanciamento tra estetica e prestazioni audio.",
+  "ze4780a35": "Il quotidiano The Namibian dà spazio agli eventi di promozione culturale e alle rassegne cinematografiche internazionali ospitate nel Paese.",
+  "z3b8ad82b": "L'emittente ERR News segue l'andamento del mercato del lavoro e le trattative salariali tra le parti sociali nel contesto baltico.",
+  "z4eaeff06": "L'emittente RTP riporta le decisioni ufficiali della UEFA in merito agli ufficiali di gara impegnati nei tornei calcistici internazionali.",
+  "z1dae4436": "La testata britannica si concentra sulla presentazione in anteprima della nuova collezione di gioielli d'autore legati al concetto di protezione.",
+  "z72521107": "La testata evidenza il legame diretto tra le falle informatiche nei sistemi industriali e la sicurezza dei dispositivi smart presenti nelle case dei cittadini.",
+  "ze7bde2aa": "La testata evidenzia l'importanza strategica della cooperazione internazionale per lo sviluppo delle risorse energetiche e petrolifere tanzaniane.",
+  "ze20fa556": "La testata mette in evidenza la connessione tra l'arte fotografica e performativa e la riflessione sull'età matura all'interno di uno spazio espositivo della capitale britannica.",
+  "ze3fcbf3b": "La testata divulgativa focalizza l'attenzione sui consigli pratici e istituzionali per preparare gli impianti domestici all'arrivo della stagione fredda.",
+  "z6248a644": "La testata locale pone l'accento sulla cooperazione internazionale e sul supporto finanziario e tecnico ricevuto per potenziare il sistema sanitario nazionale.",
+  "ze8cea627": "La testata economica focalizza l'attenzione sulla sostenibilità ambientale e sulla tutela dei piccoli agricoltori nel settore della produzione agricola nazionale.",
+  "z51053103": "La testata regionale si concentra sulla pubblicazione ufficiale dei listini dei carburanti e sull'adeguamento dei tetti massimi di spesa per i consumatori.",
+  "z95cc00ef": "La testata focalizza l'attenzione sulle dichiarazioni di carattere economico riguardanti la sostenibilità del debito e la protezione delle popolazioni più vulnerabili.",
+  "z1d47cd16": "La testata specializzata in ingegneria e costruzioni evidenzia il percorso di crescita interna culminato nella nomina alla guida della divisione tecnica.",
+  "z49d66149": "L'emittente radiofonica pone in primo piano le difficoltà e lo stato attuale dei servizi psichiatrici ospedalieri sul territorio nazionale.",
+  "z6f59e947": "La testata tedesca analizza il ruolo dell'azienda tecnologica bavarese nel panorama europeo della sovranità digitale e del trattamento dei dati.",
+  "z9e1cef50": "La testata approfondisce la riconversione economica del settore ittico regionale spinta dalle pressioni ambientali e biologiche.",
+  "zb8c12004": "La pubblicazione professionale evidenzia le nuove prospettive di sviluppo e di investimento nel settore delle costruzioni mediorientali.",
+  "z77392053": "La testata sportiva sottolinea il ritorno del tecnico portoghese nella capitale e le difficoltà della squadra giallorossa nel cammino europeo.",
+  "z1fb44bd4": "La testata internazionale riporta la notizia di cronaca relativa all'uso improprio di dispositivi tecnologici e alla conseguente misura restrittiva adottata contro il proprietario.",
+  "z2c827af7": "La testata specializzata evidenzia il progresso nei cantieri delle grandi strutture turistiche e alberghiere negli Emirati Arabi Uniti.",
+  "zdd31d9fe": "La testata di informazione regionale approfondisce i provvedimenti normativi e amministrativi adottati dalle autorità doganali siriane.",
+  "z1f4bf889": "La testata neozelandese mette in risalto il profilo umano e sportivo dell'atleta in vista dell'appuntamento internazionale con il mondiale.",
+  "zd29d1fac": "La rivista di architettura e design focalizza l'attenzione sulla reinterpretazione di un'icona della cultura pop attraverso il linguaggio del design contemporaneo.",
+  "z76fdc9c2": "L'emittente Asia-Plus focalizza l'attenzione sul riconoscimento economico ottenuto dall'istituto di credito locale grazie al supporto della BERS.",
+  "z26329249": "La rivista di architettura e design mette in risalto il valore documentario e visivo del cambiamento urbano genovese.",
+  "z9dc7e67c": "Il quotidiano britannico The Guardian sottolinea l'escalation diplomatica e la richiesta urgente di garanzie avanzata da Londra all'organizzazione internazionale.",
+  "z5534204a": "La testata MyJoyOnline celebra l'esito della competizione equestre locale e lo spettacolo offerto dalle squadre finaliste.",
+  "z081a301f": "L'agenzia di stampa ANSA evidenzia le anticipazioni della stampa economica sulle priorità e sulle coperture finanziarie della manovra del governo.",
+  "zf75f0b8a": "Il quotidiano spagnolo El País enfatizza il carattere inedito dell'accordo commerciale tra la piattaforma e l'organizzazione calcistica per il torneo del 2030.",
+  "za70c1cdf": "Il quotidiano economico Financial Times sottolinea la presa di posizione dell'esecutivo per calmare i mercati e la reazione del mondo imprenditoriale.",
+  "z13c32468": "Il Financial Times analizza il peso geoeconomico delle forniture energetiche nei rapporti bilaterali tra Stati Uniti e Messico.",
+  "z3b777ded": "Il Financial Times mette in evidenza la vulnerabilità macroeconomica del Paese africano e le sfide politiche per il governo in carica.",
+  "z1e1ec0b1": "Il Financial Times analizza la decisione giudiziaria e le implicazioni legali sulla gestione dei beni sequestrati in criptovaluta.",
+  "zcd7a2b48": "Il quotidiano ecuadoriano El Universo pone l'accento sulla crescita economica del mercato delle scommesse e sulla necessità di una regolamentazione efficace.",
+  "z68b1454e": "La testata camerunense Actu Cameroun segue con interesse le prospettive di impiego dei calciatori africani nei top club europei.",
+  "zbd27c04f": "Il quotidiano Egypt Independent pone in risalto le dichiarazioni governative sulle future riforme economiche e di welfare in Egitto.",
+  "z2958bc97": "La testata keniota Citizen Digital evidenzia le prospettive di ripresa economica elaborate dagli esperti internazionali per il Paese africano.",
+  "zb8d19660": "The Hindu evidenzia il recupero giornaliero e l'intervallo di fluttuazione intraday della valuta indiana rispetto al dollaro.",
+  "z259483e8": "Times of India pone l'accento sui guadagni complessivi per gli investitori e sull'impennata della capitalizzazione di mercato.",
+  "zb441c600": "Times of India mette in luce l'ingente contributo finanziario di Sergey Brin e le adesioni di altri grandi nomi della Silicon Valley.",
+  "zf1ed3e71": "The Kathmandu Post evidenzia la decisione dell'autorità di vigilanza e l'ordine di risarcimento nei confronti degli utenti colpiti.",
+  "zf4f6de47": "The Straits Times rimarca l'allarme dei funzionari giudiziari e delle associazioni per la ricerca delle vittime del conflitto.",
+  "zc887a625": "South China Morning Post – Economia analizza la strategia monetaria cinese finalizzata a limitare la dipendenza dal dollaro statunitense.",
+  "z41d017eb": "Il Messaggero – Economia pone l'accento sulla crescita dei tassi di interesse emersi durante l'asta delle diverse scadenze dei titoli pubblici.",
+  "zd724de45": "Il Messaggero – Economia mette a confronto la riconferma dell'incentivo sui contratti privati con il richiamo del ministro Giorgetti alle coperture.",
+  "z8f2f3954": "Il Messaggero – Economia riporta i dettagli della rivalutazione economica e l'erogazione degli arretrati per i beneficiari della gestione Enpam.",
+  "zcd7122e7": "la Repubblica – Economia evidenzia il ruolo della digitalizzazione e i costi causati dai problemi tecnici nei sistemi di cassa del turismo.",
+  "z10925ead": "la Repubblica – Economia dà risalto all'analisi accademica sulle condizioni normative necessarie a rilanciare la filiera aerospaziale.",
+  "z4d049db8": "la Repubblica – Economia sottolinea l'entità della linea di credito concessa e la sua destinazione per i piani di transizione ecologica dell'azienda.",
+  "ze4567bff": "la Repubblica – Economia evidenzia il divario riscontrato nel minutaggio concesso alle posizioni contrarie rispetto a quelle favorevoli al quesito.",
+  "zfafdc256": "la Repubblica – Economia mette in luce le critiche del sindacato ai contenuti del testo normativo prossimo al voto parlamentare.",
+  "zee3e0685": "la Repubblica – Economia pone in rilievo la concentrazione degli stanziamenti sui progetti rinnovabili e sulla rete di trasmissione.",
+  "zb5207063": "Malay Mail riporta le valutazioni ottimistiche dell'esecutivo malese sulla traiettoria di risanamento del deficit pubblico.",
+  "z479ce362": "Cyprus Mail evidenzia i requisiti normativi e le riforme strutturali indicate dagli accademici per lo sviluppo finanziario dell'isola.",
+  "z0b3e0db9": "Club of Mozambique dà risalto alla proposta di cooperazione imprenditoriale per rafforzare l'industria manifatturiera locale.",
+  "z4b218d2d": "Luxembourg Times concentra l'attenzione sulla carenza di manodopera specializzata e sulle elevate retribuzioni offerte dal mercato assicurativo.",
+  "za22a2135": "Sarajevo Times mette in guardia sul combinato disposto tra indebolimento del Pil e risalita del carovita nel Paese balcanico.",
+  "z25a77e3b": "Daily Tribune (Bahrein) sottolinea l'efficacia del fermo biologico a tutela degli stock marini in vista della riapertura della stagione.",
+  "zdb5b3879": "Daryo punta i riflettori sul test regionale dello sgravio fondiario e sulla possibile estensione nazionale dal 2028."
  },
  "contesti": {
   "z2995a5a1": "Nei giorni scorsi il presidente statunitense Donald Trump ha annunciato un'intesa di tregua limitata alle sole infrastrutture energetiche. Tuttavia, lunedì il presidente ucraino Volodymyr Zelensky aveva denunciato il ferimento di sei impianti, contestando l'effettiva volontà russa di rispettare lo stop agli attacchi prima della tregua parziale registrata martedì.",
@@ -1904,7 +4167,12 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z822a2404": "La sessione di calciomercato della Juventus ha profondamente rinnovato il reparto offensivo della squadra, inserendo nuovi profili internazionali come Kolo Muani e Woltemade in sostituzione di precedenti riferimenti tecnici come Dusan Vlahovic. L'avvio delle competizioni ufficiali ha spinto la stampa sportiva e la tifoseria a tracciare i primi bilanci sull'efficacia delle scelte societarie e sul rendimento dei nuovi arrivati rispetto alle aspettative iniziali.",
   "zd0110173": "Il mercato globale dell'intelligenza artificiale sta registrando una competizione serrata tra i principali colossi tecnologici mondiali per lo sviluppo di modelli linguistici e sistemi generativi sempre più potenti. In questo contesto, Meta ha progressivamente investito ingenti risorse computazionali per potenziare la propria infrastruttura e ampliare le capacità dei propri sistemi, puntando a colmare il divario con i concorrenti diretti del settore.",
   "z509f601c": "Il settore del commercio al dettaglio nel Regno Unito continua a subire le pesanti conseguenze dell'inflazione, dell'aumento dei costi fissi operativi e della contrazione della spesa da parte dei consumatori. In questo scenario di grave crisi finanziaria per la GDO britannica, la nota catena di negozi Poundland si è trovata a fronteggiare una situazione debitoria insostenibile, spingendo la proprietà a valutare opzioni di emergenza.",
-  "z459d2ef1": "Il Zhuhai Air Show rappresenta tradizionalmente la vetrina principale per l'industria aerospaziale e militare della Repubblica Popolare Cinese, unendo la promozione commerciale alla proiezione della potenza tecnologica nazionale. In vista della trentesima edizione della manifestazione biennale, gli organizzatori hanno deciso di ampliare la portata dell'evento per riflettere i recenti progressi compiuti anche nel settore della cantieristica e degli armamenti navali."
+  "z459d2ef1": "Il Zhuhai Air Show rappresenta tradizionalmente la vetrina principale per l'industria aerospaziale e militare della Repubblica Popolare Cinese, unendo la promozione commerciale alla proiezione della potenza tecnologica nazionale. In vista della trentesima edizione della manifestazione biennale, gli organizzatori hanno deciso di ampliare la portata dell'evento per riflettere i recenti progressi compiuti anche nel settore della cantieristica e degli armamenti navali.",
+  "z9dc7e67c": "Nei giorni scorsi le tensioni diplomatiche tra Londra e Buenos Aires sono tornate a salire a causa delle iniziative giudiziarie avviate dal governo di Javier Milei contro le attività economiche e i progetti di estrazione energetica nei pressi dell'arcipelago conteso.",
+  "z77392053": "Nei giorni scorsi la Roma ha affrontato il Como in campionato, ottenendo un pareggio a reti inviolate che ha evidenziato alcune difficoltà offensive. Nel frattempo, la UEFA Champions League ha inaugurato la sua nuova fase a girone unico, ponendo le squadre di fronte a un calendario fitto e a sfide di altissimo livello europeo, tra cui il ritorno di José Mourinho sulla panchina del Real Madrid.",
+  "zf4f6de47": "Nelle ultime settimane il dibattito politico in Colombia si è concentrato sulle politiche di bilancio promosse dai sostenitori del nuovo presidente conservatore. I tagli alla spesa pubblica proposti hanno immediatamente sollevato forti preoccupazioni tra le istituzioni giudiziarie nate dagli accordi di pace e tra le organizzazioni umanitarie, impegnate da anni nella ricerca delle decine di migliaia di dispersi del conflitto.",
+  "za22a2135": "Nel corso delle ultime settimane le principali istituzioni finanziarie internazionali hanno aggiornato le loro stime macroeconomiche globali e regionali. L'FMI ha monitorato l'andamento dell'inflazione e della crescita nei Paesi dei Balcani occidentali, rilevando persistenti pressioni sui prezzi al consumo e una generale frenata dell'attività economica rispetto alle previsioni precedenti.",
+  "zf8c80a65": "Nei giorni scorsi una stazione satellitare Starlink situata nei pressi di Varsavia è stata distrutta da un incendio doloso, spingendo le autorità polacche ad avviare immediate indagini per sabotaggio. L'episodio ha fatto scattare la cooperazione tra le forze di sicurezza di diversi Paesi europei per risalire agli autori materiali e ai mandanti di quella che è stata definita un'azione di guerra ibrida."
  },
  "cronologie": {
   "z2995a5a1": [
@@ -2139,6 +4407,72 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "Oggi",
     "Inaugurazione della fiera con l'esposizione congiunta di velivoli stealth e hardware navale."
+   ]
+  ],
+  "z9dc7e67c": [
+   [
+    "7 ottobre 2026",
+    "L'Argentina intensifica le pressioni legali sul progetto petrolifero alle Falkland."
+   ],
+   [
+    "10 ottobre 2026",
+    "Il Regno Unito valuta contromisure diplomatiche urgenti."
+   ]
+  ],
+  "z77392053": [
+   [
+    "Giorni scorsi",
+    "La Roma pareggia contro il Como in campionato"
+   ],
+   [
+    "Vigilia",
+    "Vengono definite le designazioni e le modalità di trasmissione per la seconda giornata di Champions League"
+   ],
+   [
+    "Oggi",
+    "La Roma si prepara ad affrontare il Real Madrid allo stadio Olimpico"
+   ]
+  ],
+  "zf4f6de47": [
+   [
+    "Settimane scorse",
+    "Il nuovo governo conservatore propone una manovra di tagli alla spesa pubblica"
+   ],
+   [
+    "Giorni scorsi",
+    "I magistrati del tribunale di pace e le associazioni umanitarie denunciano il rischio di blocco delle attività"
+   ],
+   [
+    "Oggi",
+    "Viene lanciato l'allarme sulle conseguenze dei tagli per l'identificazione dei 137.000 dispersi"
+   ]
+  ],
+  "za22a2135": [
+   [
+    "Settimane scorse",
+    "L'FMI raccoglie i dati economici aggiornati per l'area balcanica"
+   ],
+   [
+    "Vigilia",
+    "Vengono completate le analisi economiche destinate alla nuova edizione del World Economic Outlook"
+   ],
+   [
+    "Oggi",
+    "L'istituto di Washington pubblica le stime che indicano rallentamento della crescita e inflazione al 5% per la Bosnia Erzegovina"
+   ]
+  ],
+  "zf8c80a65": [
+   [
+    "Giorni scorsi",
+    "Un impianto Starlink vicino a Varsavia viene danneggiato da un incendio doloso"
+   ],
+   [
+    "Vigilia",
+    "Il primo ministro polacco Donald Tusk denuncia pubblicamente l'atto come operazione di guerra ibrida"
+   ],
+   [
+    "Oggi",
+    "Le forze dell'ordine tedesche arrestano due cittadini turchi e un presunto complice in relazione all'attentato"
    ]
   ]
  },
@@ -2627,6 +4961,597 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "China"
    ],
    "pt": []
+  },
+  "z177e5c75": {
+   "n": "Ramallah",
+   "p": [],
+   "pt": []
+  },
+  "z12d8c9e9": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z00b6d329": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z873fe2a9": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z97606b73": {
+   "n": "Manchester",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc28dbd9c": {
+   "n": "Boston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9601cb1c": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z187dfc7a": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z2b043917": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z5bb7f0c1": {
+   "n": "Upper Merion",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3053da81": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf82de8b4": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zd3f9e763": {
+   "n": "Douglas",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z0898cf85": {
+   "n": "Marrakech",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "zbe4f0e71": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zd1c2fb38": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z17126a21": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z253f525e": {
+   "n": "Douglas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9bf26b15": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z68925aee": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z4867003e": {
+   "n": "Tartu",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zca74c34b": {
+   "n": "Copenaghen",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z699fad23": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6657a935": {
+   "n": "Douglas",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z74892edd": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze4780a35": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z3b8ad82b": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z4eaeff06": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z1dae4436": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z72521107": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze7bde2aa": {
+   "n": "Riyadh",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "ze20fa556": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "ze3fcbf3b": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z6248a644": {
+   "n": "Dili",
+   "p": [
+    "Timor-Leste"
+   ],
+   "pt": []
+  },
+  "ze8cea627": {
+   "n": "Kigoma",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z51053103": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z95cc00ef": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z1d47cd16": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z49d66149": {
+   "n": "Bangui",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z6f59e947": {
+   "n": "Munich",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z9e1cef50": {
+   "n": "Milan",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb8c12004": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z77392053": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1fb44bd4": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z2c827af7": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zdd31d9fe": {
+   "n": "Damascus",
+   "p": [
+    "Syria"
+   ],
+   "pt": []
+  },
+  "z1f4bf889": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zd29d1fac": {
+   "n": "Milan",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z76fdc9c2": {
+   "n": "Dushanbe",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z26329249": {
+   "n": "Genova",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9dc7e67c": {
+   "n": "Falkland Islands",
+   "p": [
+    "United Kingdom",
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z5534204a": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z081a301f": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf75f0b8a": {
+   "n": "Madrid",
+   "p": [
+    "Spain",
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "za70c1cdf": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z13c32468": {
+   "n": "Città del Messico",
+   "p": [
+    "Mexico",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3b777ded": {
+   "n": "Pretoria",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z1e1ec0b1": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom",
+    "China"
+   ],
+   "pt": []
+  },
+  "zcd7a2b48": {
+   "n": "Guayaquil",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z68b1454e": {
+   "n": "Yaoundé",
+   "p": [
+    "United Kingdom",
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zbd27c04f": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z2958bc97": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zb8d19660": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z259483e8": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zb441c600": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf1ed3e71": {
+   "n": "Nepal",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "zf4f6de47": {
+   "n": "Bogotà",
+   "p": [
+    "Colombia"
+   ],
+   "pt": []
+  },
+  "zc887a625": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z41d017eb": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd724de45": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8f2f3954": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zcd7122e7": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z10925ead": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4d049db8": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze4567bff": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfafdc256": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zee3e0685": {
+   "n": "Unione Europea",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb5207063": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z479ce362": {
+   "n": "Limassol",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z0b3e0db9": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z4b218d2d": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "za22a2135": {
+   "n": "Bosnia and Herzegovina",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z25a77e3b": {
+   "n": "Bahrein",
+   "p": [
+    "Bahrain"
+   ],
+   "pt": []
+  },
+  "zdb5b3879": {
+   "n": "Namangan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -2647,7 +5572,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zd3b9e823": 1,
   "ze05f2657": 1,
   "zfcc0ef06": 1,
-  "zf8c80a65": 1,
+  "zf8c80a65": 2,
   "ze3a3eaf3": 1,
   "z4b9c3884": 1,
   "z11262502": 2,
@@ -2699,7 +5624,91 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zc2eabb66": 1,
   "zac3baa38": 1,
   "zbea8f729": 1,
-  "z459d2ef1": 2
+  "z459d2ef1": 2,
+  "z177e5c75": 1,
+  "z12d8c9e9": 1,
+  "z00b6d329": 1,
+  "z873fe2a9": 1,
+  "z97606b73": 1,
+  "zc28dbd9c": 1,
+  "z9601cb1c": 1,
+  "z187dfc7a": 1,
+  "z2b043917": 1,
+  "z5bb7f0c1": 1,
+  "z3053da81": 1,
+  "zf82de8b4": 1,
+  "zd3f9e763": 1,
+  "z0898cf85": 1,
+  "zbe4f0e71": 1,
+  "zd1c2fb38": 1,
+  "z17126a21": 1,
+  "z253f525e": 1,
+  "z9bf26b15": 1,
+  "z68925aee": 1,
+  "z4867003e": 1,
+  "zca74c34b": 1,
+  "z699fad23": 1,
+  "z6657a935": 1,
+  "z74892edd": 1,
+  "ze4780a35": 1,
+  "z3b8ad82b": 1,
+  "z4eaeff06": 1,
+  "z1dae4436": 1,
+  "z72521107": 1,
+  "ze7bde2aa": 1,
+  "ze20fa556": 1,
+  "ze3fcbf3b": 1,
+  "z6248a644": 1,
+  "ze8cea627": 1,
+  "z51053103": 1,
+  "z95cc00ef": 1,
+  "z1d47cd16": 1,
+  "z49d66149": 1,
+  "z6f59e947": 1,
+  "z9e1cef50": 1,
+  "zb8c12004": 1,
+  "z77392053": 2,
+  "z1fb44bd4": 1,
+  "z2c827af7": 1,
+  "zdd31d9fe": 1,
+  "z1f4bf889": 1,
+  "zd29d1fac": 1,
+  "z76fdc9c2": 1,
+  "z26329249": 1,
+  "z9dc7e67c": 2,
+  "z5534204a": 1,
+  "z081a301f": 1,
+  "zf75f0b8a": 1,
+  "za70c1cdf": 1,
+  "z13c32468": 1,
+  "z3b777ded": 1,
+  "z1e1ec0b1": 1,
+  "zcd7a2b48": 1,
+  "z68b1454e": 1,
+  "zbd27c04f": 1,
+  "z2958bc97": 1,
+  "zb8d19660": 1,
+  "z259483e8": 1,
+  "zb441c600": 1,
+  "zf1ed3e71": 1,
+  "zf4f6de47": 2,
+  "zc887a625": 1,
+  "z41d017eb": 1,
+  "zd724de45": 1,
+  "z8f2f3954": 1,
+  "zcd7122e7": 1,
+  "z10925ead": 1,
+  "z4d049db8": 1,
+  "ze4567bff": 1,
+  "zfafdc256": 1,
+  "zee3e0685": 1,
+  "zb5207063": 1,
+  "z479ce362": 1,
+  "z0b3e0db9": 1,
+  "z4b218d2d": 1,
+  "za22a2135": 2,
+  "z25a77e3b": 1,
+  "zdb5b3879": 1
  },
  "video": {},
  "pillole": []
