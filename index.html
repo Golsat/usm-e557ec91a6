@@ -749,6 +749,9 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 .stato-usc.corso{background:#fff4d6;color:#6b4c00}.stato-usc.ok{background:#e6f4ea;color:#1d5f30}.stato-usc.fermo{background:#fde8e6;color:#8f1d1d}
 .nz-tit>a{text-decoration:none}.nz-tit>a b{font:700 15px/1.3 var(--display)}.nz-tit>a:hover b{text-decoration:underline}
 .nz-tit small{display:block;margin-top:4px}.nz-tit .orig{display:block;margin-top:3px;font:italic 11.5px/1.35 var(--sans);color:var(--muted)}
+.nz-sez{display:table;margin:0 0 5px;padding:1px 7px;border-radius:3px;background:var(--t,#8a8576);color:#fff;font:700 10px/1.6 var(--sans);letter-spacing:.05em;text-transform:uppercase}
+.nazbar .nz-t[class*=" t-"]{border-top-color:var(--t)}
+.nazbar .t-prima{--t:#8a8576} .nazbar .t-italia{--t:#4a9a68} .nazbar .t-mondo{--t:#4f7fc0} .nazbar .t-organizzazioni{--t:#7a86b8} .nazbar .t-economia{--t:#e0804a} .nazbar .t-ingegneria{--t:#b08a4a} .nazbar .t-tech{--t:#2a9db5} .nazbar .t-spazio{--t:#5b6bd6} .nazbar .t-ambiente{--t:#6aa84f} .nazbar .t-salute{--t:#3aa59e} .nazbar .t-cultura{--t:#a86bb0} .nazbar .t-viaggi{--t:#c4572e} .nazbar .t-manga{--t:#d63fa1} .nazbar .t-musica{--t:#8b6fd1} .nazbar .t-cucina{--t:#c9a227} .nazbar .t-adolescenti{--t:#e07aa0} .nazbar .t-sport{--t:#e0564b} .nazbar .t-eventi{--t:#d9822b} .nazbar .t-meteo{--t:#5aa7d8}   /* colori delle sezioni anche nella pagina del Paese (13/10) */
 </style>
 </head>
 <body>
@@ -1452,10 +1455,13 @@ function liTitolo(x, lingua){
   if(tr) return `<li><a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(tr)}</a>${straniero&&tr!==x.t?`<em class="orig">Titolo originale: ${esc(x.t)}</em>`:""}</li>`;
   return `<li><a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a>${straniero?` <a class="tr" href="${tradotto(x.u)}" target="_blank" rel="noopener">tradotto</a>`:""}</li>`;
 }
+function tagSez(s){                                    // tag colorato della sezione nei box della pagina del Paese (13/10)
+  const S = SEZIONI.find(z=>z.id===s); return S ? `<span class="nz-sez t-${esc(s)}">${esc(S.nome)}</span>` : "";
+}
 function boxTitolo(x, lingua, testata, dove){          // regola del 13/10: ogni notizia ha il suo box (mai più titoli in elenco dentro il box della testata)
   const tr = titoloIt(x); if(tr==="") return "";
   const straniero = (lingua && lingua!=="it") || (x.l && x.l!=="it");
-  return `<div class="nz-t nz-tit"><a href="${esc(x.u)}" target="_blank" rel="noopener"><b>${esc(tr||x.t)}</b></a>${straniero&&tr&&tr!==x.t?`<em class="orig">Titolo originale: ${esc(x.t)}</em>`:""}${straniero&&!tr?` <a class="tr" href="${tradotto(x.u)}" target="_blank" rel="noopener">tradotto</a>`:""}<small>${esc(testata)}${dove?" · "+esc(dove):""}</small></div>`;
+  return `<div class="nz-t nz-tit${x.s?" t-"+esc(x.s):""}">${x.s?tagSez(x.s):""}<a href="${esc(x.u)}" target="_blank" rel="noopener"><b>${esc(tr||x.t)}</b></a>${straniero&&tr&&tr!==x.t?`<em class="orig">Titolo originale: ${esc(x.t)}</em>`:""}${straniero&&!tr?` <a class="tr" href="${tradotto(x.u)}" target="_blank" rel="noopener">tradotto</a>`:""}<small>${esc(testata)}${dove?" · "+esc(dove):""}</small></div>`;
 }
 function testataHTML(t){
   const box = t.titoli.map(x=>boxTitolo(x,t.lingua,t.n,t.citta)).join("");
@@ -1552,7 +1558,7 @@ function selezionaNazione(nome){
   bar.innerHTML = `${bandiera(filtroNazione,320,"nz-wm")}<div class="nz-h">${bandiera(filtroNazione,80,"nz-flag")}<b>${esc(nomeIt)}</b><span>${nSu} ${nSu===1?"notizia":"notizie"} che lo riguardano · ${nDa} scritte da sue testate · ${catalogo.length} ${catalogo.length===1?"testata":"testate"} nel catalogo</span>
       <span class="nz-modo"><button data-modo="su" aria-pressed="${modoNazione==="su"}">Mostra: notizie su ${esc(nomeIt)}</button><button data-modo="da" aria-pressed="${modoNazione==="da"}">Mostra: scritte da testate di ${esc(nomeIt)}</button></span>
       <button id="nzChiudi" aria-label="Chiudi">✕</button></div>`+
-    (qui.length ? `<h4 class="nz-s">In primo piano</h4><div class="nz-g">${qui.slice(0,6).map(n=>`<a class="nz-t nz-go" href="#${esc(n.id)}" data-id="${esc(n.id)}" title="Apri la notizia"><b>${"★".repeat(Math.max(0,rilievo(n)-1))}${rilievo(n)>1?" ":""}${esc(n.titolo)}</b><small>${esc(n.fonti[0].n)} · ${esc(n.fonti[0].c)} — vai alla notizia ↓</small></a>`).join("")}</div>` : `<p class="nz-p">${modoNazione==="da"?`Nessuna notizia di questa edizione è scritta da testate di ${esc(nomeIt)}.`:`Nessuna notizia di questa edizione riguarda ${esc(nomeIt)}.`} ${catalogo.length?`Le sue testate ('${esc(catalogo.join("', '"))}') entrano nelle prossime edizioni.`:"Non ci sono ancora testate di questo Paese nel catalogo."}</p>`)+
+    (qui.length ? `<h4 class="nz-s">In primo piano</h4><div class="nz-g">${qui.slice(0,6).map(n=>`<a class="nz-t nz-go t-${esc(n.sez)}" href="#${esc(n.id)}" data-id="${esc(n.id)}" title="Apri la notizia">${tagSez(n.sez)}<b>${"★".repeat(Math.max(0,rilievo(n)-1))}${rilievo(n)>1?" ":""}${esc(n.titolo)}</b><small>${esc(n.fonti[0].n)} · ${esc(n.fonti[0].c)} — vai alla notizia ↓</small></a>`).join("")}</div>` : `<p class="nz-p">${modoNazione==="da"?`Nessuna notizia di questa edizione è scritta da testate di ${esc(nomeIt)}.`:`Nessuna notizia di questa edizione riguarda ${esc(nomeIt)}.`} ${catalogo.length?`Le sue testate ('${esc(catalogo.join("', '"))}') entrano nelle prossime edizioni.`:"Non ci sono ancora testate di questo Paese nel catalogo."}</p>`)+
     (titoli ? `<h4 class="nz-s">Sguardo interno · cosa scrive ${esc(nomeIt)} (titoli tradotti, dalle sue testate)</h4><div class="nz-g">${titoli}</div>` : "")+
     (fuori ? `<h4 class="nz-s">Sguardo esterno · cosa si scrive di ${esc(nomeIt)} dalle testate di altri Paesi</h4>${fuori}` : `<h4 class="nz-s">Sguardo esterno</h4><p class="nz-p">Oggi nessuna testata di altri Paesi, tra quelle del catalogo, ha un titolo su ${esc(nomeIt)}.</p>`)+
     `<p class="nz-avv">Le notizie di cronaca nera sono escluse da tutta la pagina.</p>`;
@@ -1911,7 +1917,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261013-1109";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261013-1116";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2127,7 +2133,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261013-1109";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261013-1116";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
