@@ -3,6 +3,2360 @@ window.EDIZIONI["2026-10-13"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "zcd322918",
+   "sez": "cultura",
+   "titolo": "Pattinson esplora il lato oscuro della televisione",
+   "orig": "Pattinson Explores TV’s Dark Side",
+   "lead": "Il nuovo film con Robert Pattinson affronta e mette in discussione l'etica dei contenuti incentrati sulla cattura di presunti predatori in televisione. La pellicola analizza le implicazioni morali e le problematiche legate a questo specifico genere televisivo. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [
+    "Robert Pattinson è un attore britannico noto a livello internazionale per la sua partecipazione a grandi produzioni cinematografiche e a progetti d'autore indipendenti, nei quali spesso interpreta ruoli complessi e sfaccettati."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/pattinson-explores-tvs-dark-side",
+     "angolo": "",
+     "atlas": "Bahrain"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcefc2d1e",
+   "sez": "tech",
+   "titolo": "Il fondo della NATO punta sulle tecnologie di difesa contro i droni mentre l'Ucraina ridefinisce le priorità",
+   "orig": "NATO fund targets drone defence technologies as Ukraine reshapes priorities",
+   "lead": "L'invasione dell'Ucraina da parte della Russia sta ridefinendo le priorità tecnologiche per la difesa della NATO. I sistemi anti-drone e la sorveglianza basata sullo spazio emergono come le carenze di capacità più urgenti per l'alleanza. Lo ha dichiarato a Reuters il responsabile del Fondo per l'Innovazione della NATO.",
+   "more": [
+    "Il Fondo per l'Innovazione della NATO è lo strumento finanziario dell'alleanza atlantica creato per sostenere lo sviluppo di tecnologie duali avanzate, accelerando la ricerca e l'adozione di soluzioni innovative da parte dei Paesi membri."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/nato-fund-targets-drone-defence-technologies-as-ukraine-reshapes-priorities",
+     "angolo": "",
+     "atlas": "Singapore"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z166c7e97",
+   "sez": "ingegneria",
+   "titolo": "Ogni progetto si basa su due modelli: quello nel software e quello nella mente umana",
+   "orig": "Every project runs on 2 models: The 1 in the software and the 1 in someone’s head",
+   "lead": "L'evoluzione dei software non ha ridotto l'importanza del giudizio e della valutazione umana nel settore delle costruzioni, rendendola anzi più difficile da sostituire. L'esperienza e la competenza dei professionisti rimangono un elemento insostituibile nella gestione dei progetti. Lo riferisce Construction Dive.",
+   "more": [
+    "L'estimazione nei cantieri e nell'ingegneria edile richiede un bilanciamento costante tra i dati elaborati dai programmi informatici e l'intuizione tecnica derivata dall'esperienza pratica sul campo."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/spons/every-project-runs-on-2-models-the-1-in-the-software-and-the-1-in-someone/832089/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0f30ef29",
+   "sez": "cucina",
+   "titolo": "Sei consigli per preparare il miglior mac and cheese",
+   "orig": "6 Tips for the Best Mac and Cheese",
+   "lead": "Una guida pratica svela sei consigli fondamentali, accompagnati da altri cinque suggerimenti, per rivoluzionare la preparazione di uno dei piatti preferiti da tutti, il classico mac and cheese. Le indicazioni promettono di cambiare il modo in cui viene cucinata questa pietanza. Lo riferisce The New York Times – Cucina.",
+   "more": [
+    "Il mac and cheese è un piatto tradizionale della cucina anglosassone e nordamericana, costituito da pasta corta condita con una ricca salsa a base di formaggio fuso e burro."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times – Cucina",
+     "p": "US",
+     "c": "New York",
+     "u": "https://cooking.nytimes.com/article/best-mac-and-cheese-tips",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z080bc68c",
+   "sez": "adolescenti",
+   "titolo": "Tavola rotonda: una conversazione con il creatore di virus progettati dall'intelligenza artificiale",
+   "orig": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "lead": "Nel 2025 Samuel King, studente di dottorato all'Università di Stanford, ha utilizzato un modello di intelligenza artificiale generativa per proporre progetti genetici di virus microscopici. Venerdì 16 ottobre 2026 l'evento approfondisce la questione se l'intelligenza artificiale possa arrivare a progettare nuove forme di vita. Lo riferisce MIT Technology Review.",
+   "more": [
+    "La biologia sintetica combinata con l'intelligenza artificiale rappresenta un campo di ricerca avanzato che esplora la possibilità di generare sequenze genetiche e strutture biologiche tramite algoritmi computazionali."
+   ],
+   "fonti": [
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino",
+   "sub": "scuola"
+  },
+  {
+   "id": "za6cc1eb8",
+   "sez": "musica",
+   "titolo": "I 10 migliori spettacoli di NME da Beyond The Music 2026",
+   "orig": "NME’s top 10 shows from Beyond The Music 2026",
+   "lead": "La rivista NME ha stilato la classifica delle dieci migliori esibizioni musicali assistite durante la rassegna di Salford Beyond The Music 2026. La selezione comprende artisti emergenti e di spicco come Holly Head e Kofi Stone. Lo riferisce NME.",
+   "more": [
+    "Beyond The Music è un festival e una vetrina musicale internazionale ospitata nella città di Salford, pensata per valorizzare i nuovi talenti e discutere il futuro dell'industria discografica."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/features/music-features/beyond-the-music-2026-round-up-radar-3972961?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-music-2026-round-up-radar",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z72849ceb",
+   "sez": "viaggi",
+   "titolo": "Bluserena presenta a TTG le novità in programma per il 2027",
+   "orig": "Bluserena a Ttg con le novità in programma per il 2027",
+   "lead": "Bluserena Hotels & Resorts presenta al TTG Travel Experience le novità per la prossima stagione turistica, ponendo al centro l'evoluzione dell'Inclusive Made in Italy. Introdotto nel 2026 con formule Soft, All Inclusive e Ultra Inclusive, il modello vedrà la formula All Inclusive guidare lo sviluppo dell'offerta per il 2027. Lo riferisce Travel Quotidiano.",
+   "more": [
+    "Il TTG Travel Experience è una delle principali fiere fieristiche B2B dedicate al settore del turismo in Italia, che riunisce operatori, catene alberghiere e agenzie di viaggio per presentare le tendenze future."
+   ],
+   "fonti": [
+    {
+     "n": "Travel Quotidiano",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.travelquotidiano.com/hospitality/bluserena-a-ttg-con-le-novita-in-programma-per-il-2027/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf86a3bf7",
+   "sez": "cultura",
+   "titolo": "Il National Kriol Council condanna le caricature razziali degradanti sulla copertina del nuovo libro di storia di Assad Shoman",
+   "orig": "National Kriol Council condemns ‘degrading racial caricatures’ on cover of Assad Shoman’s new history book",
+   "lead": "Il National Kriol Council ha espresso una forte condanna nei confronti delle immagini ritenute esagerate e degradanti presenti sulla copertina del nuovo libro delinea la storia del Paese, intitolato 'A History of Belize in Thirteen Chapters' dello storico Assad Shoman. L'organizzazione ha chiesto all'autore e all'editore di fornire spiegazioni in merito alla controversa opera d'arte. Lo riferisce Breaking Belize News.",
+   "more": [
+    "Assad Shoman è un noto storico e scrittore beliziano, autore di saggi e pubblicazioni dedicate all'analisi approfondita delle vicende politiche e sociali del Belize."
+   ],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/12/national-kriol-council-condemns-degrading-racial-caricatures-on-cover-of-assad-shomans-new-history-book/",
+     "angolo": "",
+     "atlas": "Belize"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z918ed75a",
+   "sez": "sport",
+   "titolo": "Football Leaks: la PJ riconosce come autentico un documento che menziona le intercettazioni ma continua a negarle",
+   "orig": "Football Leaks : PJ reconhece como verídico documento a mencionar escuta, mas continua a negá-la",
+   "lead": "La Polícia Judiciária ha riconosciuto come autentico un documento interno che fa riferimento a registrazioni audio effettuate in circostanze non autorizzate, pur continuando a negare ufficialmente l'esistenza di tali intercettazioni. L'organo investigativo non è riuscito a spiegare al tribunale la contraddizione emersa nel rapporto. Lo riferisce Público.",
+   "more": [
+    "Football Leaks è un'inchiesta giornalistica internazionale basata sulla diffusione di milioni di documenti riservati relativi ai contratti, ai trasferimenti e ai retroscena finanziari del calcio professionistico mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/13/sociedade/noticia/football-leaks-pj-reconhece-veridico-documento-mencionar-escuta-continua-negala-2191157",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9ba2874b",
+   "sez": "economia",
+   "titolo": "Live: Blakey si scusa dopo aver siglato il passaggio ai Roos, i Blues assicurano il talento GWS",
+   "orig": "Live: Blakey apologises after sealing Roos move, Blues secure GWS gun",
+   "lead": "Il North Melbourne prosegue le proprie manovre di mercato dopo aver raggiunto un accordo con il Sydney per il trasferimento di Nick Blakey, il quale ha presentato le sue scuse. Nel frattempo, i Blues hanno chiuso l'acquisizione di un giocatore chiave dei GWS. Lo riferisce ABC News Australia.",
+   "more": [
+    "Il football australiano professionistico prevede complessi mercati di trasferimento e trattative tra club, simili a draft e scambi regolamentati leghe sportive nordamericane."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-13/afl-trade-period-live-blog-tuesday-october-13/107256546",
+     "angolo": "",
+     "atlas": "Australia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5d57ff2a",
+   "sez": "salute",
+   "titolo": "I progetti nel settore dell'istruzione e della sanità danno slancio alla pianificazione edilizia a settembre",
+   "orig": "Education, healthcare projects boosted construction planning in September",
+   "lead": "La crescita registrata in settori diversi dal boom dei data center ha permesso al Dodge Momentum Index di salire del 3,7% rispetto al livello registrato nel settembre del 2025. A trainare la pianificazione edilizia nel mese di settembre sono stati in particolare i nuovi progetti legati all'istruzione e alla sanità. Lo riferisce Construction Dive.",
+   "more": [
+    "Il Dodge Momentum Index è un indicatore economico mensile che misura il valore dei progetti di costruzione non residenziale avviati nella fase di pianificazione preliminare negli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/news/education-healthcare-projects-boosted-construction-planning-september/832535/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdb625342",
+   "sez": "adolescenti",
+   "titolo": "Recensione di Silver Pines: un dramma investigativo in stile neo-noir",
+   "orig": "Silver Pines review – a stylish, neo-noir detective drama",
+   "lead": "Sviluppato dallo studio scandinavo Wych Elm Games, Silver Pines è un'avventura dark in stile Metroidvania per PC, PS5 e Switch 2. Nei panni dell'investigatore privato Red Walker, il giocatore esplora un paesaggio desolato fatto di negozi abbandonati, palazzi in rovina e fogne putride alla ricerca di una cantante scomparsa. Lo riferisce The Guardian – Videogiochi.",
+   "more": [
+    "I giochi di genere Metroidvania uniscono l'esplorazione non lineare di mappe interconnesse alla progressione del personaggio tramite il ritrovamento di abilità o strumenti specifici."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Videogiochi",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino",
+   "sub": "musica"
+  },
+  {
+   "id": "zb06fe992",
+   "sez": "tech",
+   "titolo": "Problemi in 22 campi scientifici avevano soluzioni evidenti. Un'intelligenza artificiale le ha scoperte",
+   "orig": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them",
+   "lead": "Un team guidato da fisici ha utilizzato il software 'BootLoops' per produrre in poche settimane ben 36 articoli scientifici, spaziando dalla linguistica alle politiche sanitarie. Il sistema informatico è riuscito a individuare soluzioni a problemi di 22 differenti discipline che erano nascoste in bella vista. Lo riferisce Science (AAAS).",
+   "more": [
+    "L'uso di software basati sull'intelligenza artificiale per l'analisi dei dati accademici apre nuove prospettive nella ricerca interdisciplinare, accelerando la formulazione di ipotesi e scoperte scientifiche."
+   ],
+   "fonti": [
+    {
+     "n": "Science (AAAS)",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9efb8739",
+   "sez": "viaggi",
+   "titolo": "Gnv apre le vendite per l'estate 2027",
+   "orig": "Gnv apre le vendite per l’estate 2027",
+   "lead": "Gnv ha aperto le vendite per la stagione estiva 2027 introducendo una nuova struttura tariffaria flessibile e conveniente per rispondere alle esigenze dei passeggeri. Per il lancio, la compagnia offre uno sconto del 40% e condizioni agevolate sulle prenotazioni delle prime settimane. Lo riferisce Travel Quotidiano.",
+   "more": [
+    "Grandi Navi Veloci (GNV) è una compagnia di navigazione italiana attiva nel settore del trasporto passeggeri e merci nel Mar Mediterraneo, in particolare nei collegamenti verso la Sardegna, la Sicilia e il Nord Africa."
+   ],
+   "fonti": [
+    {
+     "n": "Travel Quotidiano",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.travelquotidiano.com/tour_operator/gnv-apre-le-vendite-per-lestate-2027/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z317d592e",
+   "sez": "cultura",
+   "titolo": "Günter Grass sulla migrazione: \"Europa non dovrebbe avere tanta paura, tutte le grandi culture sono nate dal meticciato\"",
+   "orig": "Günter Grass, escritor alemán, dejó una reflexión sobre la inmigración y las grandes culturas: \"Europa no debería tener tanto miedo a la inmigración. Todas las grandes culturas surgieron a partir de formas de mestizaje\"",
+   "lead": "Nel corso di un'intervista rilasciata nel 2007 a un settimanale portoghese, il Premio Nobel per la letteratura Günter Grass ha riflettuto sul tema dell'immigrazione e delle grandi culture. Lo scrittore tedesco ha difeso un'Europa unita, prendendo a modello la Penisola Iberica per spiegare la propria visione sulla diversità culturale. Lo riferisce Clarín.",
+   "more": [
+    "Günter Grass è stato uno dei più celebri scrittori, drammaturghi e intellettuali tedeschi del Novecento, insignito del Premio Nobel per la Letteratura nel 1999 e noto per il suo impegno civile e politico."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/internacional/gunter-grass-escritor-aleman-dejo-reflexion-inmigracion-grandes-culturas-europa-deberia-tener-miedo-inmigracion-todas-grandes-culturas-surgieron-partir-formas-mestizaje_0_DhPSZYMgAr.html",
+     "angolo": "",
+     "atlas": "Argentina"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb2fe27fe",
+   "sez": "sport",
+   "titolo": "La multa al Waterhouse solleva interrogativi sull'eleggibilità della stella del JC Lyle nel campionato scolastico",
+   "orig": "Waterhouse fine sparks questions over JC star Lyle’s eligibility in schoolboy football",
+   "lead": "Una sanzione inflitta al Waterhouse ha scatenato accesi dibattiti e interrogativi circa l'effettiva regolarità e l'idoneità del giocatore Lyle, stella del JC, a partecipare alle competizioni di football giovanile scolastico. La questione è al centro dell'attenzione sportiva locale. Lo riferisce Jamaica Observer.",
+   "more": [
+    "Il campionato di football scolastico in Giamaica è una competizione giovanile di grande tradizione e seguito popolare, regolata da rigidi criteri di idgoneità anagrafica e scolastica per gli studenti atleti."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/12/waterhouse-fine-sparks-questions-jc-star-lyles-eligibility-schoolboy-football/",
+     "angolo": "",
+     "atlas": "Jamaica"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdb728182",
+   "sez": "economia",
+   "titolo": "La Banca Mondiale stanzierà per il Tagikistan oltre 40 milioni di dollari per agricoltura e prima infanzia",
+   "orig": "World Bank to provide Tajikistan with over $40 million for agriculture and early childhood development",
+   "lead": "La Banca Mondiale ha deciso di erogare oltre quaranta milioni di dollari a favore del Tagikistan. I fondi saranno destinati allo sviluppo di centri di agrologistica, all'ampliamento dell'istruzione prescolastica e al miglioramento dei servizi medici dedicati ai bambini. Lo riferisce Asia-Plus.",
+   "more": [
+    "Il Tagikistan è una repubblica dell'Asia centrale caratterizzata da una forte vocazione agricola e da sfide socio-economiche legate allo sviluppo delle infrastrutture di base per le giovani generazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/13/world-bank-to-give-tajikistan-over-40-million-for-agriculture-and-child-development/",
+     "angolo": "",
+     "atlas": "Tajikistan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z86609890",
+   "sez": "ingegneria",
+   "titolo": "Dobbiamo integrare l'etica nei nostri corsi di ingegneria",
+   "orig": "We Need to Embed Ethics Into Our Engineering Courses",
+   "lead": "A metà settembre il CEO di Anthropic Dario Amodei si è unito ai ricercatori che chiedono di rallentare la corsa dell'industria dell'intelligenza artificiale, evidenziando la tensione tra sicurezza e velocità. La pressione a procedere rapidamente costituisce un fallimento sociotecnico, dimostrando che gli ingegneri devono comprendere non solo la tecnica, ma anche le regole morali, etiche e sociali. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "L'etica ingegneristica è una disciplina che studia la responsabilità morale dei professionisti della progettazione e dello sviluppo tecnologico nei confronti dell'impatto sociale delle loro invenzioni."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za8c4a73c",
+   "sez": "adolescenti",
+   "titolo": "Digger rischia una perdita di 245 milioni di dollari dopo il crollo al botteghino",
+   "orig": "Digger on course for $245m loss after box office collapse",
+   "lead": "Il film 'Digger', ambiziosa favola ecologica interpretata da Tom Cruise e diretta da Alejandro G. Iñárritu, si avvia a registrare perdite stimate intorno ai 245 milioni di dollari, posizionandosi tra i più grandi disastri finanziari della storia del cinema. Con un incasso domestico di 14,4 milioni e un totale globale di 35,3 milioni dopo un calo del 60% nel secondo fine settimana nordamericano, il totale finale previsto si aggira sui 50 milioni. Lo riferisce The Guardian – Cinema.",
+   "more": [
+    "I flop cinematografici su scala kolossal rappresentano perdite economiche ingenti per gli studios, spesso causate da costi di produzione elevati e da un riscontro di pubblico inferiore alle attese commerciali."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino",
+   "sub": "cinema"
+  },
+  {
+   "id": "z9ad97d62",
+   "sez": "tech",
+   "titolo": "Non da schermo a schermo, ma da umano a umano",
+   "orig": "Not Screen to Screen, But Human to Human",
+   "lead": "Nell'era dei social media in cui gli schermi degli smartphone dominano il tempo quotidiano, Miyu Okumura si impegna ad accrescere la fiducia degli studenti attraverso sport di squadra basati sull'interazione diretta tra persone. L'iniziativa contrappone la socialità fisica al tempo trascorso virtualmente. Lo riferisce Japan Forward.",
+   "more": [
+    "L'aumento dell'uso dei dispositivi digitali tra i giovani ha spinto educatori e ricercatori a promuovere attività all'aperto e sport di squadra per favorire lo sviluppo relazionale ed emotivo."
+   ],
+   "fonti": [
+    {
+     "n": "Japan Forward",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://japan-forward.com/not-screen-to-screen-but-human-to-human/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z76ab32d6",
+   "sez": "viaggi",
+   "titolo": "Gli hotel di tutto il mondo perdono clienti a causa delle OTA illegali",
+   "orig": "Gli alberghi stanno perdendo clienti in tutto il mondo con le ota illegali",
+   "lead": "Le strutture alberghiere a livello globale stanno perdendo prenotazioni dirette a favore di siti web di terze parti che pubblicizzano gli hotel su Google presentandosi come canali legittimi. È quanto emerge da un nuovo rapporto di Operto che documenta la portata delle agenzie di viaggio online definite predatorie. Lo riferisce Travel Quotidiano.",
+   "more": [
+    "Le agenzie di viaggio online (OTA) offrono servizi di prenotazione alberghiera tramite piattaforme digitali, ma il fenomeno dei siti non autorizzati o ingannevoli rappresenta una sfida crescente per la disintermediazione turistica."
+   ],
+   "fonti": [
+    {
+     "n": "Travel Quotidiano",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.travelquotidiano.com/mercato_e_tecnologie/gli-alberghi/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7602a050",
+   "sez": "cultura",
+   "titolo": "Osh ospiterà a novembre il secondo festival cinematografico internazionale Sulaiman-Too",
+   "orig": "Osh to host second Sulaiman-Too international film festival in November",
+   "lead": "La città di Osh si appresta ad accogliere nel mese di novembre la seconda edizione del festival cinematografico internazionale Sulaiman-Too. L'evento riunirà registi e professionisti del cinema provenienti da diverse aree geografiche. Lo riferisce AKIpress.",
+   "more": [
+    "Osh è una storica città del Kirghizistan situata nella valle di Fergana, nota per il suo patrimonio culturale e per essere un crocevia di tradizioni lungo l'antica Via della Seta."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924534",
+     "angolo": "",
+     "atlas": "Kyrgyzstan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0e31127e",
+   "sez": "economia",
+   "titolo": "Il debito crescente limita la capacità della Cina di stimolare l'economia",
+   "orig": "Dívida crescente limita capacidade da China para estimular economia",
+   "lead": "Diverse analisi evidenziano che l'aumento del debito pubblico cinese sta frenando la capacità del governo di lanciare nuovi stimoli economici. La situazione si inserisce in un contesto in cui il consumo interno rimane debole e il settore immobiliare attraversa una crisi prolungata. Lo riferisce RTP.",
+   "more": [
+    "La Cina è la seconda economia mondiale, il cui modello di crescita ha storicamente fatto affidamento sugli investimenti infrastrutturali e sul settore immobiliare, oggi al centro di complesse ristrutturazioni finanziarie."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/divida-crescente-limita-capacidade-da-china-para-estimular-economia_n1771333",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zab777e86",
+   "sez": "ingegneria",
+   "titolo": "Cambiare carriera non è facile",
+   "orig": "Changing Your Career Isn’t Easy",
+   "lead": "Affrontare una transizione professionale a trent'anni per diventare ingegnere del software comporta sfide inattese, tra cui la difficoltà di trovare supporto emotivo e pratico da parte delle persone vicine. Spesso i familiari, temendo il fallimento o le difficoltà economiche, proiettano le proprie paure su chi decide di cambiare strada. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "Il passaggio a una carriera tecnica richiede un percorso formativo intenso e il superamento di numerosi colloqui di lavoro in un settore altamente competitivo."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zed058c57",
+   "sez": "adolescenti",
+   "titolo": "Recensione di The Influencer Project: un thriller satirico sui contenuti social che finisce per sfruttarli",
+   "orig": "The Influencer Project review – ick-inducing thriller satirises social media content, and exploits it too",
+   "lead": "L'influencer e cantante britannica Chiara King interpreta una versione parafittizia di se stessa in questo thriller ambientato a Copenaghen. La pellicola unisce la satira contro gli aspetti peggiori del mondo dei social media all'utilizzo dei medesimi stilemi visivi di reel e streaming. Lo riferisce The Guardian – Cinema.",
+   "more": [
+    "I film a vocazione satirica incentrati sulla cultura degli influencer utilizzano spesso i codici visivi delle piattaforme digitali per criticare l'ossessione per la visibilità online."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/12/the-influencer-project-review-ick-thriller-chiara-king",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino",
+   "sub": "musica"
+  },
+  {
+   "id": "z4eb05553",
+   "sez": "tech",
+   "titolo": "Riccardo Manenti: come rendere affidabili e utili i computer quantistici",
+   "orig": "Riccardo Manenti: come rendere affidabili (e utili) i computer quantistici",
+   "lead": "Il ricercatore Riccardo Manenti, formatosi tra Milano, Oxford e la California e rientrato quest'anno in Italia, progetta e calibra processori quantistici a Roma per garantire che ogni singola operazione venga eseguita senza errori. Lo scienziato è inoltre coautore di uno dei manuali sul calcolo quantistico più utilizzati dalle università internazionali, da Berkeley in poi, contribuendo in modo significativo allo sviluppo e alla diffusione delle competenze in questo settore tecnologico avanzato. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "Il calcolo quantistico sfrutta i principi della meccanica quantistica per elaborare informazioni a velocità e con una potenza di calcolo straordinarie rispetto ai computer tradizionali, sebbene la gestione e la correzione degli errori nei processori rappresentino ancora una delle principali sfide ingegneristiche per la ricerca scientifica globale."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/10/news/riccardo_manenti_come_rendere_affidabili_e_utili_i_computer_quantistici_beautiful_minds-425636375/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z56d82f18",
+   "sez": "viaggi",
+   "titolo": "EasyJet taglia altri 700.000 posti dall'operativo invernale",
+   "orig": "EasyJet taglia altri 700.000 posti dall’operativo invernale",
+   "lead": "La compagnia aerea EasyJet ha annunciato il taglio di altri 700.000 posti dalla programmazione della stagione invernale per ridurre i costi legati al carburante. Il CEO Kenton Jarvis ha spiegato che la capacità operativa viene ridotta nei mesi caratterizzati da minor traffico aereo, in modo da evitare l'acquisto di carburante a prezzi considerevolmente aumentati in seguito al conflitto con l'Iran. La decisione interessa le operazioni della compagnia pianificate per i prossimi mesi freddi. Lo riferisce Travel Quotidiano.",
+   "more": [
+    "Le compagnie aeree modulano regolarmente la propria capacità di trasporto in base alla stagionalità della domanda turistica e commerciale, riducendo i collegamenti e la frequenza dei voli nei periodi di minore afflusso per ottimizzare i bilanci aziendali."
+   ],
+   "fonti": [
+    {
+     "n": "Travel Quotidiano",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.travelquotidiano.com/trasporti/easyjet-8/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0181bc46",
+   "sez": "economia",
+   "titolo": "Legge di finanze 2027: la commissione delle finanze chiede di razionalizzare la spesa pubblica",
+   "orig": "Loi de finances 2027 : la commission des finances appelle à rationaliser les dépenses publiques",
+   "lead": "La commissione delle finanze e del bilancio del Consiglio nazionale delle regioni e dei distretti ha esaminato a Tunisi i principali indicatori economici e finanziari, valutandone le ripercussioni sugli equilibri finanziari dello Stato e analizzando le grandi linee guida del progetto di legge di bilancio per l'anno 2027. Nel corso della riunione tenutasi lunedì, la commissione ha posto l'accento sull'imprescindibile necessità di razionalizzare la spesa pubblica per garantire la stabilità economica del paese. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "La legge finanziaria annuale rappresenta lo strumento di pianificazione economica fondamentale attraverso cui i governi stabiliscono le entrate fiscali, le priorità di spesa e le politiche di bilancio per sostenere l'economia nazionale e il debito pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/12/loi-de-finances-2027-la-commission-des-finances-appelle-a-rationaliser-les-depenses-publiques/",
+     "angolo": "",
+     "atlas": "Tunisia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z41223a98",
+   "sez": "ingegneria",
+   "titolo": "HiPHI: un benchmark su larga scala per il movimento umano e l'interazione con gli oggetti ad alta precisione",
+   "orig": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+   "lead": "I ricercatori e gli ingegneri della robotica di New York dispongono ora di un nuovo dataset per la cattura del movimento su larga scala, denominato HiPHI, progettato per colmare la carenza di dati che attualmente limita l'apprendimento dei robot umanoidi. Il white paper illustra come le politiche addestrate su questo set di dati possano essere trasferite con successo su un vero robot umanoide, superando i limiti dei video di internet e dei precedenti dataset grazie all'uso del framework linguistico FrameNet e a traiettorie di oggetti sincronizzate. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "L'intelligenza artificiale applicata alla robotica e alla fisica richiede volumi immensi di dati complessi e strutturati relativi ai movimenti corporei e alle interazioni con gli oggetti quotidiani per consentire alle macchine di operare autonomamente in ambienti reali."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+     "angolo": "",
+     "atlas": "United States of America"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z846b87f2",
+   "sez": "tech",
+   "titolo": "Mozambico e Zimbabwe: un nuovo modello di pompaggio avvicina Beira e Harare",
+   "orig": "Mozambique-Zimbabwe: A new pumping model brings Beira and Harare even closer",
+   "lead": "Alle ore 10:30 del primo ottobre, la prima molecola di carburante è partita dalla stazione di pompaggio CPMZ di Beira per essere scaricata direttamente a Harare, senza fermarsi a Feruka. Questo evento a Maputo ha segnato il lancio ufficiale del nuovo modello operativo noto come pompaggio in serie, sviluppato in collaborazione con la società PZL che gestisce il gasdotto di collegamento. L'obiettivo dell'iniziativa congiunta tra Mozambico e Zimbabwe è ottimizzare il trasporto energetico regionale. Lo riferisce Club of Mozambique.",
+   "more": [
+    "I gasdotti e i sistemi di pompaggio industriale transfrontalieri costituiscono infrastrutture strategiche fondamentali per la catena di approvvigionamento energetico e la cooperazione economica tra i paesi dell'Africa australe."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-zimbabwe-a-new-pumping-model-brings-beira-and-harare-even-closer/",
+     "angolo": "",
+     "atlas": "Mozambique"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z59ba9d34",
+   "sez": "salute",
+   "titolo": "Tumore al seno: la diagnosi precoce che salva la vita e migliora le cure",
+   "orig": "Tumore al seno: la diagnosi precoce che salva la vita e migliora le cure",
+   "lead": "La prevenzione costante e la diagnosi precoce rappresentano la strategia più efficace e determinante contro il tumore al seno. Grazie all'implementazione dei programmi di screening e ai costanti progressi compiuti dalla medicina moderna, oggi è possibile individuare tempestivamente la patologia, migliorando in modo sensibile l'efficacia delle cure e le prospettive di guarigione per le pazienti. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "L'oncologia moderna riconosce nella diagnosi precoce tramite mammografie periodiche e controlli clinici mirati lo strumento primario per ridurre la mortalità associata al tumore al seno, consentendo trattamenti terapeutici meno invasivi e più mirati."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/tumore-seno-diagnosi-precoce-che-salva-vita-e-migliora-cure-AJdkqwWB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z855e0c9e",
+   "sez": "ingegneria",
+   "titolo": "La FIDIC firma un accordo a sostegno delle infrastrutture latinoamericane",
+   "orig": "FIDIC signs agreement supporting Latin American infrastructure",
+   "lead": "La Federazione internazionale degli ingegneri consulenti (FIDIC) ha sottoscritto un protocollo d'intesa con la Federazione stradale internazionale (IRF) per avviare una stretta collaborazione in materia di ricerca scientifica, sviluppo delle capacità tecniche e condivisione delle conoscenze nel settore delle infrastrutture in America Latina. L'accordo mira a potenziare gli standard ingegneristici e la cooperazione tra i professionisti del settore. Lo riferisce Global Construction Review.",
+   "more": [
+    "Gli accordi di cooperazione internazionale tra organismi di ingegneria civile facilitano il trasferimento di competenze tecniche e l'adozione di normative comuni per la realizzazione di grandi opere pubbliche sostenibili."
+   ],
+   "fonti": [
+    {
+     "n": "Global Construction Review",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.globalconstructionreview.com/fidic-signs-agreement-supporting-latin-american-infrastructure/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2191bc59",
+   "sez": "tech",
+   "titolo": "Emelia Afi Agbenyo pienamente qualificata come presidente o vice della Commissione elettorale secondo Tanko Computer",
+   "orig": "Emelia Afi Agbenyo is more than qualified to be EC Chair or Deputy - Tanko Computer",
+   "lead": "Emelia Afi Agbenyo possiede tutte le qualifiche necessarie per ricoprire l'incarico di commissario o presidente della Commissione elettorale in Ghana. Secondo quanto dichiarato da Tanko Computer ad Accra, la candidata non dovrebbe limitarsi al ruolo di vicepresidenza in quanto il suo profilo professionale è ampiamente idoneo a guidare direttamente l'organismo istituzionale. Lo riferisce 3News.",
+   "more": [
+    "Le commissioni elettorali nazionali sono istituzioni indipendenti preposte alla pianificazione, alla supervisione e alla convalida dei processi democratici e delle consultazioni popolari nei paesi democratici."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/emelia-afi-agbenyo-is-more-than-qualified-to-be-ec-chair-or-deputy-tanko-computer",
+     "angolo": "",
+     "atlas": "Ghana"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z640b7e41",
+   "sez": "economia",
+   "titolo": "Dalla patente digitale in Europa alle supermulte per i monopattini: le novità del Codice della strada",
+   "orig": "Dalla patente digitale valida in Europa alle supermulte per i monopattini: le novità del Codice della strada",
+   "lead": "Il nuovo Codice della strada, composto da 291 articoli e in arrivo all'esame del Consiglio dei ministri, introduce importanti novità per la mobilità dei cittadini. Tra i provvedimenti di maggiore rilievo spicca la possibilità di viaggiare in Europa senza dover portare con sé la patente di guida fisica nel portafoglio, affiancata dall'introduzione di sanzioni più severe e supermulte destinate ai conducenti di monopattini. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "La riforma delle norme sulla circolazione stradale e sui documenti di guida si inserisce nel più ampio processo di digitalizzazione e di inasprimento della sicurezza urbana promosso a livello europeo e nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/dalla-patente-digitale-valida-europa-supermulte-i-monopattini-novita-codice-strada-AJQWPrhB",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z721884c1",
+   "sez": "ingegneria",
+   "titolo": "Riesame: il progetto residenziale Nyhuset a Trondheim firmato Brendeland & Kristoffersen",
+   "orig": "Revisit: Nyhuset in Trondheim, Norway by Brendeland & Kristoffersen",
+   "lead": "Il progetto residenziale Nyhuset realizzato a Trondheim dallo studio Brendeland & Kristoffersen, che era stato inserito nella shortlist del premio AR Emerging nel 2005, viene analizzato criticamente a Londra per valutarne l'eredità architettonica. L'opera, descritta come un intervento di edilizia radicale ma silenzioso, viene riesaminata per comprendere in che modo i suoi insegnamenti costruttivi siano stati in gran parte ignorati dal panorama contemporaneo. Lo riferisce The Architectural Review.",
+   "more": [
+    "L'architettura residenziale sperimentale e a basso impatto esplora modelli abitativi innovativi capaci di coniugare la sostenibilità dei materiali con la qualità dello spazio urbano e collettivo."
+   ],
+   "fonti": [
+    {
+     "n": "The Architectural Review",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectural-review.com/essays/revisit/revisit-nyhuset-in-trondheim-norway-by-brendeland-kristoffersen",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zded276e9",
+   "sez": "tech",
+   "titolo": "Il 'Gral' della matematica: OpenAI compie progressi sulla congettura di Riemann",
+   "orig": "\"Gral\" der Mathematik: OpenAI macht Fortschritte bei der Riemannschen Vermutung",
+   "lead": "L'azienda OpenAI ha fatto registrare importanti progressi nella risoluzione di problemi matematici complessi legati alla celebre congettura di Riemann, scuotendo la comunità scientifica internazionale. La scorsa settimana la società ha presentato soluzioni basate sull'intelligenza artificiale applicate a ben 377 problemi matematici; sebbene alcune delle soluzioni proposte presentino ancora errori, altre si sono rivelate di importanza fondamentale e potenzialmente rivoluzionarie per la ricerca accademica. Lo riferisce Der Standard.",
+   "more": [
+    "La congettura di Riemann è uno dei problemi irrisolti più celebri e importanti della storia della matematica, strettamente legato alla distribuzione dei numeri primi e studiato da generazioni di studiosi."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000343702/gral-der-mathematik-openai-macht-fortschritte-bei-der-riemannschen-vermutung?ref=rss",
+     "angolo": "",
+     "atlas": "Austria"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9933bccc",
+   "sez": "economia",
+   "titolo": "Rapiti e nutriti con garri e acqua sporca: il racconto di una corsista sequestrata",
+   "orig": "Kidnappers fed us garri with dirty water — Abducted corps member",
+   "lead": "Una corsista che era stata rapita in Nigeria ha raccontato i drammatici dettagli della sua prigionia durata sette giorni. La giovane vittima liberata ha riferito che i sequestratori l'hanno sottoposta a percosse e l'hanno costretta a nutrirsi esclusivamente di garri mescolato con acqua sporca durante la sua drammatica odissea nello Stato di Imo, prima di riuscire finalmente a essere tratta in salvo. Lo riferisce The Punch.",
+   "more": [
+    "Il fenomeno dei sequestri di persona a scopo di estorsione in alcune regioni africane rappresenta una grave emergenza di sicurezza pubblica che colpisce lavoratori, studenti e civili."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/kidnappers-fed-us-garri-with-dirty-water-abducted-corps-member/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3335cbef",
+   "sez": "ingegneria",
+   "titolo": "AR Ottobre 2026: AR Emerging",
+   "orig": "AR October 2026: AR Emerging",
+   "lead": "Il numero speciale di ottobre della rivista di architettura di Londra presenta la selezione dei talenti emergenti dell'anno, raccogliendo i lavori e le ricerche di studi internazionali tra cui A-A Collective, Atelier Julien Boidot, Brendeland & Kristoffersen, Charly Jolliet Architectes, HEMAA Architectes, JA Projects, Kashef Chowdhury / URBANA, LUO Studio, NUA Arquitectures, Of Architecture, Office Zola Architectes, Rodríguez + De Mitri e altri. La pubblicazione offre una panoramica globale sulle nuove tendenze progettuali. Lo riferisce The Architectural Review.",
+   "more": [
+    "Le riviste internazionali di architettura documentano regolarmente l'evoluzione della progettazione contemporanea attraverso il lavoro dei giovani studi che ridefiniscono gli standard estetici e costruttivi."
+   ],
+   "fonti": [
+    {
+     "n": "The Architectural Review",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.architectural-review.com/essays/letters-from-the-editor/ar-october-2026-ar-emerging",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z06df5fba",
+   "sez": "tech",
+   "titolo": "Carta biometrica: la startup AODI vuole semplificare il percorso dei pazienti in Mali",
+   "orig": "Carte biométrique : AODI veut simplifier le parcours des patients",
+   "lead": "La startup maliana AODI ha sviluppato una soluzione digitale basata su una carta biometrica sanitaria per superare le lunghe attese, i dossier cartacei e la dispersione delle informazioni mediche che complicano l'accesso alle cure negli ospedali di Bamako. L'iniziativa risponde alle criticità quotidiane vissute dai pazienti nei pronto soccorso del paese africano, dove la scarsa digitalizzazione del sistema sanitario costringe le persone a ore di sofferenza e file interminabili prima di ricevere assistenza. Lo riferisce Journal du Mali.",
+   "more": [
+    "La digitalizzazione dei servizi sanitari attraverso cartelle cliniche elettroniche e identificatori biometrici riduce drasticamente i tempi burocratici e migliora la sicurezza dei trattamenti medici nei paesi in via di sviluppo."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/carte-biometrique-aodi-veut-simplifier-le-parcours-des-patients/",
+     "angolo": "",
+     "atlas": "Mali"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9606d5b4",
+   "sez": "economia",
+   "titolo": "Perché la linea di credito da 14,9 milioni di dollari di Haidilao al fondatore alimenta la speculazione fiscale in Cina",
+   "orig": "Why Haidilao’s US$14.9 million credit line to founder is fuelling China tax speculation",
+   "lead": "La catena di ristoranti Haidilao International Holding ha concesso al suo fondatore, Zhang Yong, un prestito a breve termine di un mese fino all'equivalente in dollari di 100 milioni di yuan pari a 14,9 milioni di dollari, finanziato con risorse interne e un tasso d'interesse specifico. La mossa finanziaria ha scatenato forti speculazioni di mercato a Hong Kong, in quanto gli investitori osservano con attenzione la scadenza fissata da Pechino per il 22 ottobre in materia di tassazione dei trust offshore. Lo riferisce South China Morning Post.",
+   "more": [
+    "Le operazioni finanziarie straordinarie delle grandi società quotate verso i propri dirigenti o fondatori vengono monitorate dai mercati azionari in relazione ai cambiamenti normativi e fiscali imposti dalle autorità di regolamentazione."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-business/article/3370680/why-haidilaos-us149-million-credit-line-founder-fuelling-china-tax-speculation?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9f083f8b",
+   "sez": "ingegneria",
+   "titolo": "Eichler X-100, la 'casa del futuro', cerca un nuovo acquirente",
+   "orig": "Eichler X-100, the ‘house of the future’, is seeking a new buyer",
+   "lead": "L'iconica casa sperimentale in acciaio della metà del secolo scorso progettata da Joseph Eichler, denominata Eichler X-100 e situata nella California settentrionale, è tornata sul mercato immobiliare in concomitanza con il suo settantesimo anniversario. L'edificio rappresenta una delle testimonianze più celebri dell'architettura residenziale avveniristica e continua ad attrarre l'interesse di collezionisti e appassionati di design. Lo riferisce Wallpaper*.",
+   "more": [
+    "L'architettura residenziale sperimentale degli anni cinquanta ha introdotto l'uso di materiali industriali innovativi come l'acciaio e le ampie vetrate, ridefinendo il concetto di abitare moderno negli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/architecture/residential/eichler-x-100-the-house-of-the-future-for-sale",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z62adedbd",
+   "sez": "tech",
+   "titolo": "Gabon: addio alle impalcature, arrivano i droni per il lavaggio dei palazzi",
+   "orig": "Gabon: Fini les échafaudages, place aux drones pour laver les immeubles",
+   "lead": "A Libreville fa la sua comparsa il sistema di pulizia delle facciate degli edifici eseguito mediante l'uso di droni. Una dimostrazione pratica di questa nuova tecnologia è stata organizzata nel pomeriggio presso l'esplanade Georges-Damas alla presenza del sindaco della municipalità Eugène, segnando l'introduzione di metodi robotizzati per la manutenzione urbana nel paese africano. Lo riferisce Gabonactu.",
+   "more": [
+    "L'impiego di droni per la manutenzione e la pulizia edilizia in quota riduce drasticamente i rischi per la sicurezza dei lavoratori rispetto all'installazione di tradizionali impalcature e piattaforme mobili."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/13/gabon-fini-les-echafaudages-place-aux-drones-pour-laver-les-immeubles/",
+     "angolo": "",
+     "atlas": "Gabon"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfcd8ebb8",
+   "sez": "economia",
+   "titolo": "Intelligenza artificiale e tecnologie digitali in primo piano al salone CEATEC a Chiba",
+   "orig": "AI and latest digital technologies on display at CEATEC show in Chiba",
+   "lead": "La fiera tecnologica CEATEC in Giappone vede la partecipazione record di 246 aziende startup e università, affiancate da 194 società estere provenienti da tutto il mondo. L'evento della durata di quattro giorni espone al pubblico le ultime innovazioni nel campo dell'intelligenza artificiale e delle soluzioni digitali più avanzate sviluppate dal mercato globale. Lo riferisce The Japan Times.",
+   "more": [
+    "Le fiere tecnologiche internazionali rappresentano la vetrina principale per la presentazione di prototipi industriali, software di intelligenza artificiale e collaborazioni commerciali tra aziende e centri di ricerca."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/10/13/tech/ceatec-open/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z138c30a6",
+   "sez": "ingegneria",
+   "titolo": "Apparatus svela la sua prima collezione in cinque anni, audace come previsto",
+   "orig": "Apparatus reveals its first collection in five years – and it's as daring as you'd expect",
+   "lead": "Il marchio Apparatus ha presentato la collezione Act V, che comprende elementi di arredamento d'interni e corpi illuminanti concepiti come una profonda meditazione sulla creatività, sulla conoscenza e sui cicli vitali. La nuova linea segna il ritorno del brand con una proposta stilistica audace e ricercata, svelata per la prima volta al pubblico e alla critica specializzata. Lo riferisce Wallpaper*.",
+   "more": [
+    "Il design d'autore e la progettazione di complementi d'arredo uniscono la ricerca artigianale dei materiali alla sperimentazione estetica contemporanea nel settore del lusso e dell'arredo."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/design-interiors/lighting/apparatus-act-v-collection",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb16b8eec",
+   "sez": "tech",
+   "titolo": "La filiale britannica del rivenditore di moda sudafricano Foschini Group colpita da un incidente informatico",
+   "orig": "South African fashion retailer Foschini Group's UK arm hit by cyber incident",
+   "lead": "La divisione britannica del gruppo di vendita al dettaglio di moda sudafricano Foschini Group è rimasta vittima di un incidente informatico che ha interessato le sue operazioni digitali e i sistemi tecnologici nel Regno Unito. La notizia dell'attacco informatico evidenzia i rischi crescenti legati alla sicurezza dei dati e delle infrastrutture digitali nel settore del commercio internazionale. Lo riferisce CNA.",
+   "more": [
+    "Gli incidenti di sicurezza informatica e i tentativi di violazione dei dati aziendali colpiscono frequentemente le grandi catene commerciali con infrastrutture digitali complesse e distribuite su scala internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/south-african-fashion-retailer-foschini-groups-uk-arm-hit-cyber-incident-6455071",
+     "angolo": "",
+     "atlas": "Singapore"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z78a6cfc0",
+   "sez": "economia",
+   "titolo": "I produttori alimentari puntano sulle alternative vegetali con l'aumento dei prezzi dei prodotti ittici",
+   "orig": "Food makers turn to plant-based alternatives as seafood prices rise",
+   "lead": "A causa del rincaro vertiginoso dei prezzi del pesce, un'azienda della prefettura di Hyogo in Giappone ha iniziato a commercializzare un prodotto alimentare di origine vegetale studiato appositamente per sostituire il celebre polpo della qualità Akashi. L'iniziativa riflette una tendenza crescente nell'industria alimentare, orientata verso lo sviluppo di alternative plant-based per far fronte all'aumento dei costi delle materie prime marine. Lo riferisce The Japan Times.",
+   "more": [
+    "La produzione di alimenti a base vegetale imitando sapori e consistenze tradizionali risponde sia all'esigenza di contenere i costi di produzione sia alla crescente domanda di consumi alimentari sostenibili."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/10/13/companies/plant-based-seafood-alternatives/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z75e979e7",
+   "sez": "ingegneria",
+   "titolo": "CMF porta il suo minimalismo giocoso nell'audio portatile con gli altoparlanti Speaker S e Speaker M",
+   "orig": "CMF bring their playful minimalism into portable audio with Speaker S and Speaker M",
+   "lead": "Il marchio CMF, azienda sussidiaria di Nothing, rinnova la categoria dei diffusori Bluetooth introducendo i modelli Speaker S e Speaker M. I nuovi dispositivi portatili uniscono un look elegante a elementi di colore, creatività e semplicità, reinterpretando il design degli altoparlanti in chiave giocosa. Lo riferisce Wallpaper*.",
+   "more": [
+    "I diffusori Bluetooth portatili sono dispositivi audio senza fili progettati per riprodurre musica in mobilità, collegandosi a smartphone e altri lettori multimediali tramite tecnologia wireless."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/tech/cmf-bring-their-playful-minimalism-into-portable-audio-with-speaker-s-and-speaker-m",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zae2fb267",
+   "sez": "economia",
+   "titolo": "Il ministro Malik chiede una maggiore cooperazione energetica con l'Arabia Saudita",
+   "orig": "Malik calls for stronger Saudi energy cooperation",
+   "lead": "Il ministro del Petrolio ha ribadito la propria solidarietà nei confronti del Regno dell'Arabia Saudita, sollecitando un rafforzamento della cooperazione bilaterale nel settore energetico. L'appello punta a consolidare i legami strategici tra i due Paesi in ambito economico e produttivo. Lo riferisce The Express Tribune.",
+   "more": [
+    "La cooperazione energetica internazionale coinvolge accordi tra Stati per la gestione, la fornitura e lo sviluppo sostenibile delle risorse di petrolio, gas e fonti alternative."
+   ],
+   "fonti": [
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2634490/malik-calls-for-stronger-saudi-energy-cooperation",
+     "angolo": "",
+     "atlas": "Pakistan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z01015d63",
+   "sez": "ingegneria",
+   "titolo": "Arredi firmati da Virgil Abloh, Charlotte Perriand e altri in palio per un dollaro",
+   "orig": "You could take home furniture by Virgil Abloh, Charlotte Perriand and more for $1",
+   "lead": "La piattaforma Basic.Space ha avviato una collaborazione con Apple Pay per un'estrazione a premi i cui proventi saranno devoluti alla Fondazione Virgil Abloh. Gli utenti possono tentare di aggiudicarsi pezzi di arredamento creati da designer di rilievo come Virgil Abloh e Charlotte Perriand al costo simbolico di un dollaro. Lo riferisce Wallpaper*.",
+   "more": [
+    "Il design d'autore comprende mobili e complementi d'arredo ideati da progettisti di fama internazionale, spesso considerati oggetti da collezione per il loro valore culturale ed estetico."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/design-interiors/basic-space-apple-pay-virgil-abloh-foundation-drawing",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc6d92463",
+   "sez": "economia",
+   "titolo": "Donna vietnamita vince un jackpot record di 8 milioni di dollari",
+   "orig": "Vietnamese woman wins record $8M jackpot",
+   "lead": "Una donna residente nella provincia di An Giang si è aggiudicata il premio più alto mai distribuito dalla Vietnam Lottery Company. Si tratta della vincita record da 8 milioni di dollari registrata da quando la società ha iniziato la vendita di biglietti della lotteria nel 2016. Lo riferisce VnExpress.",
+   "more": [
+    "Le lotterie nazionali gestite da società autorizzate offrono montepremi basati sulla vendita di biglietti, destinando parte dei proventi a fondi statali o iniziative pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "VnExpress",
+     "p": "XX",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/news/news/vietnamese-woman-wins-record-8m-jackpot-5131599.html",
+     "angolo": "",
+     "atlas": "Vietnam"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z363b5ab4",
+   "sez": "ingegneria",
+   "titolo": "Al Shirawi Interiors è sponsor di categoria per il Construction Innovation Summit & Awards 2026",
+   "orig": "Al Shirawi Interiors Is The Category Sponsor For The Construction Innovation Summit & Awards 2026",
+   "lead": "L'azienda Al Shirawi Interiors è stata designata come sponsor di categoria in vista del Construction Innovation Summit & Awards 2026. L'evento di settore è ufficialmente programmato per svolgersi il prossimo 29 ottobre. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "I summit e i premi dedicati all'innovazione edilizia riuniscono professionisti, architetti e imprese per premiare le migliori pratiche e i progetti più avanzati nel settore delle costruzioni."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/al-shirawi-interiors-is-the-category-sponsor-for-the-construction-innovation-summit-awards-2026/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5d471f6a",
+   "sez": "economia",
+   "titolo": "Le vendite da parte di investitori esteri frenano il trend della Borsa della Thailandia",
+   "orig": "Foreign selling curbs SET momentum",
+   "lead": "L'indice azionario della Borsa della Thailandia (SET) ha registrato un andamento laterale per la maggior parte del mese di settembre. La pressione ribassista è stata alimentata dall'intensificarsi delle vendite da parte degli investitori stranieri, un trend che prosegue anche nel mese di ottobre. Lo riferisce Bangkok Post.",
+   "more": [
+    "I mercati azionari nazionali risentono dei flussi di capitale estero; quando gli investitori internazionali disinvestono, la liquidità e i volumi degli scambi possono contrarsi rallentando i listini."
+   ],
+   "fonti": [
+    {
+     "n": "Bangkok Post",
+     "p": "XX",
+     "c": "Bangkok",
+     "u": "https://www.bangkokpost.com/business/general/3336119/foreign-selling-curbs-set-momentum",
+     "angolo": "",
+     "atlas": "Thailand"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb529547f",
+   "sez": "ingegneria",
+   "titolo": "7X lancia ADEED Finance per semplificare l'accesso delle imprese ai finanziamenti",
+   "orig": "7X Unveils ADEED Finance to Simplify Business Access to Funding",
+   "lead": "Il gruppo 7X ha presentato ufficialmente ADEED Finance, un nuovo strumento finanziario volto a semplificare l'accesso al credito per le aziende. Il lancio rappresenta una nuova fase nello sviluppo e nell'espansione dell'ecosistema ADEED. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "I servizi finanziari dedicati alle imprese mirano a facilitare la gestione della liquidità e l'accesso ai prestiti bancari o alternativi per sostenere la crescita aziendale."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/7x-unveils-adeed-finance-to-simplify-business-access-to-funding/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z603507f7",
+   "sez": "economia",
+   "titolo": "I prezzi dell'oro a Dubai registrano un lieve calo in un contesto di crescenti timori per l'inflazione",
+   "orig": "Dubai gold prices dip slightly as inflation fears grow",
+   "lead": "Le quotazioni dell'oro sul mercato di Dubai hanno mostrato una modesta flessione. La variazione dei prezzi si inserisce in uno scenario economico caratterizzato dall'aumento delle preoccupazioni legate all'inflazione globale. Lo riferisce Gulf News.",
+   "more": [
+    "L'oro è tradizionalmente considerato un bene rifugio contro l'inflazione e le incertezze macroeconomiche, sebbene il suo prezzo subisca fluttuazioni giornaliere in base alle dinamiche dei mercati finanziari."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/business/retail/dubai-gold-prices-dip-slightly-as-inflation-fears-grow-1.500708442",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf7b309e0",
+   "sez": "ingegneria",
+   "titolo": "La RTA vince il premio Dubai-it per l'eccellenza nelle infrastrutture e nel servizio clienti",
+   "orig": "RTA Wins Dubai-it Award for Infrastructure and Customer Service Excellence",
+   "lead": "La Roads and Transport Authority (RTA) è stata insignita del premio annuale Dubai-it Award. Il riconoscimento celebra l'ambizione strategica, l'eccellenza operativa e i risultati concreti ottenuti nell'ambito delle infrastrutture e del servizio alla clientela. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "I riconoscimenti istituzionali dedicati alla gestione pubblica valutano la qualità dei servizi di trasporto, la manutenzione delle reti viarie e l'efficienza amministrativa."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/logistics-news/rta-wins-dubai-it-award-for-infrastructure-and-customer-service-excellence/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbb41eedb",
+   "sez": "economia",
+   "titolo": "Prezzi dei carburanti: Sébastien Lecornu promette un taglio di 10 euro a pieno",
+   "orig": "Fuel prices: Sébastien Lecornu promises €10 cut per fill-up",
+   "lead": "In Francia, dove i prezzi dei carburanti alla pompa risultano tra i più elevati dell'Unione Europea, il governo è intervenuto per ridurre i costi. Il primo ministro ha annunciato lunedì che l'esecutivo procederà a un taglio del prezzo al litro compreso tra i 12 e i 18 centesimi. Lo riferisce Euronews.",
+   "more": [
+    "I prezzi dei carburanti nei Paesi europei sono influenzati dalle accise statali, dalle tasse sul consumo e dalle fluttuazioni delle quotazioni petrolifere internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/13/fuel-prices-sebastien-lecornu-promises-10-cut-per-fill-up",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc5ef344c",
+   "sez": "ingegneria",
+   "titolo": "ADIPEC sceglie PATRIZIA per sostenere una pipeline di progetti da 200 miliardi di AED",
+   "orig": "ADIPEC Taps PATRIZIA to Support AED 200bn Projects Pipeline",
+   "lead": "La manifestazione ADIPEC ha siglato una partnership strategica con la società PATRIZIA per supportare lo sviluppo di una pipeline di progetti del valore complessivo di 200 miliardi di dirham. Per PATRIZIA l'accordo consolida una presenza consolidata da quindici anni ad Abu Dhabi e la recente apertura di una sede permanente nell'ADGM. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "Gli investimenti infrastrutturali e industriali su larga scala richiedono la collaborazione tra grandi organizzazioni fieristiche, fondi di investimento e società di gestione patrimoniale."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/adipec-taps-patrizia-to-support-aed-200bn-projects-pipeline/",
+     "angolo": "",
+     "atlas": "United Arab Emirates"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8fb384a0",
+   "sez": "economia",
+   "titolo": "King Fook si espande con una locazione da 34 milioni di dollari ad Admiralty nonostante il calo delle vendite di beni di lusso, dicono gli analisti",
+   "orig": "King Fook expands with US$34 million Admiralty lease despite slow luxury sales: analysts",
+   "lead": "Nonostante la frenata della domanda di beni di lusso, il gruppo King Fook Jewellery ha deciso di prendere in affitto uno spazio commerciale di 550 metri quadrati (circa 5.920 piedi quadrati) presso il Pacific Place Phase II nel distretto di Admiralty. Secondo gli analisti, l'accordo di locazione della durata di sei anni, che prevede un canone di base complessivo di circa 268,5 milioni di dollari di Hong Kong (pari a circa 34,2 milioni di dollari statunitensi), testimonia la fiducia nel mercato retail di Hong Kong. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "Il mercato immobiliare commerciale nelle aree economiche di primario interesse economico riflette le strategie a lungo termine dei marchi del lusso nonostante le fluttuazioni congiunturali delle vendite al dettaglio."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-business/article/3370654/king-fook-expands-us34-million-admiralty-lease-despite-slow-luxury-sales-analysts?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9e2711f5",
+   "sez": "ingegneria",
+   "titolo": "Serpente residenziale attorno al magazzino: ristrutturazione a Winnipeg firmata 5468796",
+   "orig": "Wohnschlange ums Warenhaus - Umbau in Winnipeg von 5468796",
+   "lead": "Nel quartiere Exchange District di Winnipeg, ex centro economico della provincia di Manitoba, lo studio 5468796 Architecture ha completato un intervento di riqualificazione urbana. Il progetto ha avvolto un magazzino indipendente risalente al 1905 con una struttura residenziale continua alta fino a sette piani che abbraccia l'edificio in mattoni rossi. Lo riferisce Baunetz.",
+   "more": [
+    "Il recupero di edifici industriali storici attraverso l'innesto di nuove volumetrie residenziali rappresenta una strategia comune di rigenerazione urbana nei quartieri ex mercantili."
+   ],
+   "fonti": [
+    {
+     "n": "Baunetz",
+     "p": "DE",
+     "c": "Berlino",
+     "u": "https://www.baunetz.de/meldungen/Meldungen-Umbau_in_Winnipeg_von_5468796_10436319.html?context=4093",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z79befd33",
+   "sez": "economia",
+   "titolo": "La Cina stringe i controlli sul trading quantitativo dei futures per contenere i rischi tra le difficoltà della Borsa",
+   "orig": "China to tighten leash on futures quant trading to contain risks amid stock slump",
+   "lead": "Le borse merci e dei futures cinesi intensificheranno la repressione degli illeciti legati al trading programmatico, definendo violazioni specifiche per arginare i rischi intersettoriali. La stretta voluta da Pechino mira a evitare ulteriori pressioni sui mercati azionari nazionali, già in difficoltà. Gli operatori che non avranno ottemperato agli obblighi di controllo e segnalazione del trading quantitativo rischiano sanzioni disciplinari. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "Il trading quantitativo o programmatico utilizza complessi algoritmi informatici per eseguire compravendite di titoli finanziari ad altissima velocità sulla base di parametri statistici e matematici."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-business/article/3370671/china-tighten-leash-futures-quant-trading-contain-risks-amid-stock-slump?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4b621bc5",
+   "sez": "ingegneria",
+   "titolo": "Nuoto a tempo: piscina coperta modulare a Stoccarda firmata da 4a Architekten e POOL out of the BOX",
+   "orig": "Schwimmen auf Zeit - Modulares Hallenbad in Stuttgart von 4a Architekten und POOL out of the BOX",
+   "lead": "Per fare fronte al fabbisogno di manutenzione delle piscine pubbliche, la città di Stoccarda ha inaugurato l'Aquabox, una struttura natatoria modulare progettata per essere montata successivamente in diversi quartieri per garantire la continuità dei corsi scolastici e sportivi. Il progetto in legno e moduli prefabbricati è stato ideato e realizzato come general contractor da POOL out of the BOX, con la progettazione architettonica curata da 4a Architekten e la costruzione in legno affidata all'azienda svizzera Blumer Lehmann. Lo riferisce Baunetz.",
+   "more": [
+    "L'edilizia modulare prefabbricata consente di realizzare edifici smontabili e riutilizzabili in differenti siti urbani per rispondere a esigenze temporanee di servizio pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Baunetz",
+     "p": "DE",
+     "c": "Berlino",
+     "u": "https://www.baunetz.de/meldungen/Meldungen-Modulares_Hallenbad_in_Stuttgart_von_4a_Architekten_und_POOL_out_of_the_BOX_10435369.html?context=4093",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z75809478",
+   "sez": "economia",
+   "titolo": "Le azioni cinesi rappresentano un'opportunità sottovalutata, afferma un discepolo di Charlie Munger",
+   "orig": "Chinese stocks an undervalued opportunity, says Charlie Munger disciple",
+   "lead": "Le azioni delle aziende cinesi offrono oggi opportunità migliori rispetto al passato secondo Li Lu, fondatore e presidente della società di investimenti Himalaya Capital e noto seguace del leggendario investitore Charlie Munger. Le sue dichiarazioni giungono nel quadro di una riflessione sulla seconda economia mondiale, segnata dalle tensioni con gli Stati Uniti e dalla corsa all'intelligenza artificiale. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "Il value investing è una strategia finanziaria basata sull'acquisto di titoli azionari ritenuti sottovalutati dal mercato rispetto al loro valore intrinseco e alle prospettive di lungo periodo."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/money/markets-investing/article/3370602/chinese-stocks-undervalued-opportunity-says-charlie-munger-disciple?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd98f5344",
+   "sez": "ingegneria",
+   "titolo": "Keith Haring torna a Roma: ai suoi tempi l'arte era per tutti, e la strada era il suo museo",
+   "orig": "Keith Haring torna a Roma: ai suoi tempi l’arte era per tutti, e la strada era il suo museo",
+   "lead": "L'opera e la figura di Keith Haring tornano protagoniste a Roma attraverso un percorso espositivo che ricorda come, per l'artista statunitense, l'arte dovesse essere accessibile a chiunque e lo spazio urbano rappresentasse il museo ideale. Lo riferisce Domus.",
+   "more": [
+    "La street art e il graffitismo sono forme di espressione visiva nate nei contesti metropolitani per portare i linguaggi dell'arte contemporanea fuori dai circuiti museali tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/arte/gallery/2026/10/09/keith-haring-roma-mostra-palazzo-braschi.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zacbd4c9e",
+   "sez": "salute",
+   "titolo": "Può ciò che mangiamo influenzare il rischio di cancro attraverso l'epigenetica?",
+   "orig": "Can What We Eat Influence Cancer Risk Through Epigenetics? Sponsored",
+   "lead": "Sebbene la genetica individuale non possa essere modificata, la dieta potrebbe contribuire a influenzare il modo in cui i geni si esprimono. La società di biotecnologie Amino Up analizza due studi scientifici incentrati sulle potenzialità della nutrizione nella prevenzione oncologica. Lo riferisce Japan Forward.",
+   "more": [
+    "L'epigenetica studia i cambiamenti nell'espressione genica che non implicano alterazioni della sequenza del DNA, ma che possono essere influenzati da fattori ambientali, dallo stile di vita e dall'alimentazione."
+   ],
+   "fonti": [
+    {
+     "n": "Japan Forward",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://japan-forward.com/can-diet-influence-cancer-risk-epigenetics-amino-up/",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5da7ac67",
+   "sez": "ingegneria",
+   "titolo": "Le 5 lezioni di Stefan Sagmeister, il graphic designer delle cover dei Rolling Stones e non solo",
+   "orig": "Le 5 lezioni di Stefan Sagmeister, il graphic designer delle cover dei Rolling Stones e non solo",
+   "lead": "Il celebre graphic designer Stefan Sagmeister, noto anche per aver ideato le copertine degli album dei Rolling Stones, viene celebrato attraverso cinque lezioni chiave che riassumono il suo approccio alla progettazione visiva e alla creatività. Lo riferisce Domus.",
+   "more": [
+    "Il graphic design applicato alla discografia e all'editoria unisce linguaggi visivi e comunicazione visiva per definire l'identità grafica di progetti culturali e musicali."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/design/gallery/2026/10/07/stefan-sagmeister-5-lezioni-graphic-design.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z00b286c9",
+   "sez": "economia",
+   "titolo": "Manovra, dalla \"start tax\" sugli stipendi agli affitti e al bonus trasporti: cosa cambia per gli under 35",
+   "orig": "Manovra, dalla \"start tax\" sugli stipendi agli affitti e al bonus trasporti: cosa cambia per gli under 35",
+   "lead": "Trattenere i giovani in Italia, incrementare le retribuzioni, agevolare la ricerca di un'abitazione e disincentivare l'espatrio: sono questi gli obiettivi al centro delle misure previste dal governo nella nuova legge di bilancio per favorire la fascia di popolazione under 35. Lo riferisce Il Messaggero.",
+   "more": [
+    "Le politiche fiscali per i giovani includono sgravi contributivi, incentivi alle assunzioni e sussidi per il costo della vita e della locazione immobiliare nelle aree urbane."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/schede/manovra_bonus_trasporti_start_tax_stipendi_affitti_cosa_cambia_giovani_under_35-9821876.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5afbaeec",
+   "sez": "economia",
+   "titolo": "Roma, tasse locali più alte d'Italia: pressione fiscale su del 18% in 7 anni. Ecco quanto si paga di più",
+   "orig": "Roma, tasse locali più alte d?Italia: pressione fiscale su del 18% in 7 anni. Ecco quanto si paga di più",
+   "lead": "Con un prelievo annuale che si attesta a duemila e settantatré euro a testa, Roma e il Lazio registrano il primato nazionale per la fiscalità locale. Nel giro di sette anni la pressione tributaria è cresciuta del 18%, determinando un esborso medio superiore di 570 euro per ciascun contribuente rispetto ai livelli precedenti. Lo riferisce Il Messaggero – Roma.",
+   "more": [
+    "Le tasse locali comprendono tributi regionali e comunali legati ai servizi pubblici, ai rifiuti e alle addizionali Irpef che incidono sul bilancio delle famiglie."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/politica/roma_tasse_piu_alte_d_italia-9820636.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc41089a2",
+   "sez": "economia",
+   "titolo": "Mps, considerazioni preliminari dal cda all'offerta di Intesa Sp",
+   "orig": "Mps, considerazioni preliminari dal cda all?offerta di Intesa Sp",
+   "lead": "Nessuna decisione definitiva o colpo di scena è emerso dalla riunione del consiglio di amministrazione del Monte dei Paschi di Siena, che si è limitato a formulare alcune «osservazioni preliminari» inserite all'interno di un comunicato stampa di sette pagine in merito all'offerta avanzata da Intesa Sanpaolo, in attesa di ulteriori valutazioni. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "Le operazioni di aggregazione bancaria e le offerte pubbliche di acquisto o scambio vengono esaminate dai consigli di amministrazione degli istituti di credito attraverso analisi tecniche e pareri preliminari."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/mps_considerazioni_preliminari_dal_cda_all_offerta_di_intesa_sp-9820714.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbe34e8b2",
+   "sez": "economia",
+   "titolo": "Piazza Affari, il segmento Mts rimarrà sotto lo scudo italiano",
+   "orig": "Piazza Affari, il segmento Mts rimarrà sotto lo scudo italiano",
+   "lead": "La protezione disposta dal governo italiano sulla piattaforma Mts, il principale mercato telematico per la negoziazione dei titoli di Stato, rappresenta una complessa partita politica ed economica che si sta giocando anche a Bruxelles con il coinvolgimento degli esperti economici dei ventisette Stati membri dell'Unione Europea. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "Il mercato telematico dei titoli di Stato (Mts) riveste un ruolo strategico per la gestione del debito pubblico nazionale e per la stabilità finanziaria del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/piazza_affari_segmento_mts_rimarra_sotto_scudo_italiano-9820681.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1759ecd3",
+   "sez": "economia",
+   "titolo": "Private banking, nel primo semestre le masse in Italia salgono a 1.524 miliardi",
+   "orig": "Private banking, nel primo semestre le masse in Italia salgono a 1.524 miliardi",
+   "lead": "Il settore del private banking in Italia ha registrato una crescita superiore alle previsioni. Alla data del 30 giugno, il totale delle masse gestite ha toccato quota 1.524 miliardi di euro, consentendo al comparto di superare con anticipo gli obiettivi stimati per il periodo. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "Il private banking offre servizi di gestione patrimoniale personalizzati a clienti con grandi disponibilità finanziarie, tutelandone e valorizzandone i patrimoni nel lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/private_banking_masse_gestite_italia_2026-9820682.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd280c401",
+   "sez": "economia",
+   "titolo": "Stellantis, Europa in crescita e Nord America in frenata: consegne a 1,3 milioni",
+   "orig": "Stellantis, Europa in crescita e Nord America in frenata: consegne a 1,3 milioni",
+   "lead": "I volumi di consegna globali del gruppo Stellantis hanno registrato una flessione complessiva dell'uno per cento nel corso del terzo trimestre, attestandosi a quota 1,3 milioni di veicoli. A sostenere l'andamento commerciale è stata la crescita del mercato europeo, spinta soprattutto dall'aumento dei veicoli elettrici, mentre i risultati nordamericani sono stati penalizzati da interruzioni e fermi produttivi. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "Il settore automobilistico globale bilancia le vendite regionali in base alle catene di fornitura, alla transizione energetica verso l'elettrico e alla programmazione degli stabilimenti produttivi."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/13/news/stellantis_europa_nord_america_vendita_consegne_terzo_trimestre_2026-425644248/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd28a0c3b",
+   "sez": "economia",
+   "titolo": "Il rischio di avere tutti ragione se l'uniformità dei modelli diventa un pericolo sistemico",
+   "orig": "Il rischio di avere tutti ragione se l’uniformità dei modelli diventa un pericolo sistemico",
+   "lead": "Dai criteri di sostenibilità ambientale e di governance (ESG) fino agli algoritmi di intelligenza artificiale, le grandi imprese tendono ad affidarsi a scenari e strumenti di gestione del rischio estremamente simili. Secondo l'analisi, se tale omologazione rappresenta un vantaggio in condizioni normali, il conformismo rischia di azzerare la capacità di reazione di fronte a eventi straordinari. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "La gestione del rischio aziendale e l'adozione di modelli predittivi standardizzati possono generare vulnerabilità sistemiche quando l'intero mercato adotta le medesime strategie previsionali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/13/news/il_rischio_di_avere_tutti_ragione_se_l_uniformita_dei_modelli_diventa_un_pericolo_sistemico-425637158/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcca7363f",
+   "sez": "economia",
+   "titolo": "Non obbedisce e minaccia il capo col dito puntato: “Stai attento”. Giusto licenziarlo",
+   "orig": "Non obbedisce e minaccia il capo col dito puntato: “Stai attento”. Giusto licenziarlo",
+   "lead": "Il tribunale di Brescia si è pronunciato sulla legittimità del licenziamento di un operaio che si era rifiutato di rispettare il regolamento interno del reparto produttivo, assumendo un atteggiamento minaccioso nei confronti dei vertici aziendali con il dito puntato e la frase «Stai attento». Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "Il diritto del lavoro italiano disciplina le sanzioni disciplinari e i licenziamenti per giustificato motivo soggettivo o per giusta causa in caso di gravi violazioni contrattuali e comportamenti minacciosi."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/13/news/giusto_licenziamento_cause_operaio_minaccia_manager_sentenza-425643733/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z31af9341",
+   "sez": "economia",
+   "titolo": "Giorgetti punta le banche: “Contributi da chi può”",
+   "orig": "Giorgetti punta le banche: “Contributi da chi può”",
+   "lead": "Il ministro dell'economia Giancarlo Giorgetti è intervenuto durante le audizioni per sottolineare la necessità di richiedere contributi a chi ne ha la possibilità, affrontando le tensioni nate attorno alle richieste di misure fiscali. Il titolare del dicastero ha ricordato che è in corso una trattativa e ha ribadito l'obiettivo di voler aiutare le famiglie. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "Il Ministero dell'Economia e delle Finanze gestisce la politica economica e di bilancio dello Stato italiano, coordinando la spesa pubblica e i rapporti con le istituzioni finanziarie e bancarie nazionali e internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/13/news/giorgetti_audizione_dpfp_contributo_banche_manovra-425644060/?rss",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zce148c1e",
+   "sez": "economia",
+   "titolo": "MRDC chiede incentivi per gli investimenti nel turismo",
+   "orig": "MRDC calls for tourism investment incentives",
+   "lead": "Augustine Mano, amministratore delegato della Mineral Resources Development Company (MRDC), ha sollecitato il Governo nazionale di Papua Nuova Guinea a introdurre incentivi fiscali e di investimento mirati per favorire la crescita del settore turistico nel Paese oceaniano. Lo riferisce Post-Courier.",
+   "more": [
+    "La Mineral Resources Development Company è una società di gestione di investimenti e risorse minerarie, attiva nello sviluppo economico e infrastrutturale in ambito nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/mrdc-calls-for-tourism-investment-incentives/",
+     "angolo": "",
+     "atlas": "Papua New Guinea"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z021882fa",
+   "sez": "economia",
+   "titolo": "Moody's prevede un forte calo del debito per lo Zambia mentre Hichilema avverte contro l'autocompiacimento",
+   "orig": "Moody’s Projects Steep Debt Fall For Zambia As Hichilema Warns Against Complacency",
+   "lead": "L'agenzia di rating Moody's Ratings ha reso noto che lo Zambia registrerà una delle riduzioni più consistenti del debito pubblico nell'Africa subsahariana, insieme all'Etiopia. Il presidente Hakainde Hichilema ha accolto con favore le previsioni, promettendo di trasformare la ripresa economica in posti di lavoro e maggiori entrate per i cittadini, pur mettendo in guardia contro ogni forma di autocompiacimento. Lo riferisce Lusaka Times.",
+   "more": [
+    "Le agenzie di rating del credito valutano l'affidabilità finanziaria e il rischio di default dei governi sovrani e delle aziende, influenzando i costi di accesso ai mercati dei capitali internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/13/moodys-projects-steep-debt-fall-for-zambia-as-hichilema-warns-against-complacency/",
+     "angolo": "",
+     "atlas": "Zambia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd4385174",
+   "sez": "economia",
+   "titolo": "Il Mozambico cerca investitori per la lavorazione dei minerali mentre Nacala ospita la conferenza COVAME-d",
+   "orig": "Mozambique seeks investors for mineral value addition and processing as Nacala hosts COVAME-d conference",
+   "lead": "Il governo del Mozambico, tramite il Ministero delle Risorse Minerarie e dell'Energia (MIREME) e i suoi partner, ha confermato che esistono le condizioni adeguate per lo svolgimento della Conferenza sull'Aggiunta di Valore alle Risorse Minerali ed Energetiche (COVAME-d), in programma dal 19 al 24 ottobre a Nacala-Porto, nella provincia di Nampula, per promuovere la trasformazione industriale dei minerali. Lo riferisce Club of Mozambique.",
+   "more": [
+    "I ministeri delle risorse minerarie gestiscono le politiche di estrazione, sfruttamento e valorizzazione delle materie prime nei Paesi in via di sviluppo, promuovendo la filiera industriale locale."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-seeks-investors-for-mineral-value-addition-and-processing-as-nacala-hosts-covame-d-conference/",
+     "angolo": "",
+     "atlas": "Mozambique"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc16b66c7",
+   "sez": "economia",
+   "titolo": "Il FMI cita il rallentamento dell'IA e l'aumento dei rendimenti tra i rischi incombenti per i mercati globali",
+   "orig": "IMF cites AI slowdown, spiking yields as looming global market risks",
+   "lead": "Il Fondo Monetario Internazionale ha messo in guardia contro l'eccessiva sicurezza nei mercati finanziari globali, segnalando i rischi legati a una svendita guidata dall'intelligenza artificiale, all'aumento dei rendimenti e alle tensioni fiscali che accrescono i costi di indebitamento sovrano, avvertendo che le vulnerabilità potrebbero trasformarsi in crisi sistemiche e sollecitando limiti più severi sulla leva finanziaria legata all'IA. Lo riferisce Club of Mozambique.",
+   "more": [
+    "Il Fondo Monetario Internazionale è un'organizzazione internazionale che promuove la cooperazione monetaria globale, la stabilità finanziaria e la crescita economica sostenibile fornendo analisi e assistenza ai Paesi membri."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/imf-cites-ai-slowdown-spiking-yields-as-looming-global-market-risks/",
+     "angolo": "",
+     "atlas": "Mozambique"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3d2a9f14",
+   "sez": "salute",
+   "titolo": "L'ENA e partner australiani espandono l'accesso alla formazione infermieristica sui traumi",
+   "orig": "ENA, Australian Partners Expand Access to Trauma Nursing Education",
+   "lead": "L'Emergency Nurses Association ha stabilito due nuovi partner educativi, Advanced Life Support Training e Coast Resuscitation Group, per ampliare le opportunità di formazione avanzata dedicate agli infermieri in Australia nella cura dei pazienti traumatizzati attraverso il Trauma Nursing Core Course. Lo riferisce The Laotian Times.",
+   "more": [
+    "Le associazioni professionali infermieristiche stabiliscono standard di cura e offrono percorsi di formazione continua e certificazioni per migliorare le competenze cliniche del personale sanitario."
+   ],
+   "fonti": [
+    {
+     "n": "The Laotian Times",
+     "p": "XX",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/13/ena-australian-partners-expand-access-to-trauma-nursing-education/",
+     "angolo": "",
+     "atlas": "Laos"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z16d4d76a",
+   "sez": "economia",
+   "titolo": "L'Iraq affronta una contrazione economica a due cifre mentre il FMI declassa le prospettive regionali",
+   "orig": "Iraq Faces Double-Digit Economic Contraction as IMF Downgrades Regional Outlook",
+   "lead": "Il Fondo Monetario Internazionale prevede per il 2026 una contrazione economica a due cifre in Iraq, Kuwait, Qatar e Bahrain, a causa degli effetti combinati della guerra, delle interruzioni nello Stretto di Hormuz e dei danni alle infrastrutture petrolifere che colpiscono duramente le economie regionali. Lo riferisce Kurdistan24.",
+   "more": [
+    "Le proiezioni economiche del Fondo Monetario Internazionale stimano l'andamento del prodotto interno lordo globale e regionale in base a fattori geopolitici e macroeconomici."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/945729/iraq-faces-double-digit-economic-contraction-as-imf-downgrades-regional-outlook",
+     "angolo": "",
+     "atlas": "Iraq"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb42f7ef8",
+   "sez": "economia",
+   "titolo": "L'Uzbekistan automatizzerà la rendicontazione della tassa sull'uso dell'acqua a Tashkent dal 2027",
+   "orig": "Uzbekistan to automate water-use tax reporting in Tashkent from 2027",
+   "lead": "L'Uzbekistan introdurrà un sistema pilota a Tashkent a partire dal 1° gennaio 2027, attraverso il quale le autorità fiscali genereranno automaticamente i report sulla tassa per l'uso dell'acqua per le aziende, consentendo ai contribuenti di esaminarli e confermarli anziché prepararli autonomamente. Lo riferisce Daryo.",
+   "more": [
+    "I sistemi di automazione fiscale e di e-government digitalizzano i processi amministrativi per ridurre gli adempimenti burocratici e migliorare la trasparenza e la riscossione dei tributi."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/13/uzbekistan-to-automate-water-use-tax-reporting-in-tashkent-from-2027/",
+     "angolo": "",
+     "atlas": "Uzbekistan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z15f0b1b7",
+   "sez": "economia",
+   "titolo": "L'Avana tenta di attrarre investimenti privati nel settore petrolifero con una nuova legge",
+   "orig": "La Habana intenta atraer inversiones privadas en el sector petrolero con una nueva ley",
+   "lead": "Le nuove normative introdotte a Lana consentono la partecipazione di micro, piccole e medie imprese nazionali e di società straniere nelle attività di esplorazione e produzione petrolifera, nel tentativo di attrarre capitali privati nel settore. Lo riferisce 14ymedio.",
+   "more": [
+    "Le riforme normative sulla partecipazione mista pubblico-privata nei settori strategici mirano a stimolare la produzione industriale e a superare le difficoltà economiche strutturali."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/habana-atraer-inversiones-privadas-sector_1_1131886.html",
+     "angolo": "",
+     "atlas": "Cuba"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3d808e4a",
+   "sez": "economia",
+   "titolo": "Riso, pannolini e whisky nel mercato all'ingrosso di Sancti Spíritus, il primo di questo tipo a Cuba",
+   "orig": "Arroz, pañales y whisky figuran en el mercado mayorista de Sancti Spíritus, primero de este tipo en Cuba",
+   "lead": "Nel primo mercato all'ingrosso di questo genere a Cuba, situato a Sancti Spíritus, figurano prodotti come riso, pannolini e whisky, con acquisti minimi fissati a 200 dollari o 24.000 pesos effettuabili in contanti o con carta, mentre nella stessa città l'Empresa Cárnica ha aperto il suo primo negozio al dettaglio. Lo riferisce 14ymedio.",
+   "more": [
+    "Il commercio all'ingrosso e al dettaglio in valuta e in pesos riflette i tentativi di riorganizzazione dei canali di distribuzione commerciale e di approvvigionamento dei beni di consumo."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
+     "angolo": "",
+     "atlas": "Cuba"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z397d2ea9",
+   "sez": "economia",
+   "titolo": "Perché gli investimenti nel settore avicolo sono importanti per il cibo e l'occupazione in Camerun",
+   "orig": "Why poultry investment matters for food and jobs in Cameroon",
+   "lead": "La società agroalimentare Donguté Group of Companies Ltd, con sede a Limbe, sta cercando investitori per espandere il proprio impianto di incubazione, il mangimificio e gli allevamenti avicoli, dopo aver constatato che la domanda da parte degli agricoltori della Regione Sud-Occidentale del Camerun ha superato le sue risorse finanziarie. Lo riferisce Mimi Mefo Info.",
+   "more": [
+    "Le filiere agroalimentari e zootecniche locali forniscono supporto fondamentale alla produzione agricola e alla sicurezza alimentare regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/poultry-farming-cameroon-dongute-investment/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z78c3b806",
+   "sez": "economia",
+   "titolo": "Rischi e certezze dell'importazione di alimenti senza tasse (seconda parte)",
+   "orig": "Riesgos y certezas de la importación de alimentos sin impuestos (ii)",
+   "lead": "Prosegue l'analisi delle dinamiche relative ai contingenti tariffari per motivi di desabastecimiento, esaminando gli interessi degli importatori, le difficoltà nella programmazione dei flussi commerciali, i rischi affrontati e la prospettiva dei produttori nazionali in un settore fortemente esposto. Lo riferisce Plaza Pública.",
+   "more": [
+    "I contingenti tariffari e le politiche di importazione alimentare regolano l'afflusso di beni essenziali per stabilizzare i prezzi interni e tutelare la produzione agricola locale."
+   ],
+   "fonti": [
+    {
+     "n": "Plaza Pública",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://plazapublica.com.gt/opinion/opinion/riesgos-y-certezas-de-la-importacion-de-alimentos-sin-impuestos-ii/",
+     "angolo": "",
+     "atlas": "Guatemala"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z537ae550",
+   "sez": "economia",
+   "titolo": "Negli Stati Uniti, il ricorso di Donald Trump al gasolio russo, a scapito dell'Ucraina, provoca una vasta polemica",
+   "orig": "Aux Etats-Unis, le recours de Donald Trump au gazole russe, au détriment de l’Ukraine, provoque une vaste controverse",
+   "lead": "Il progetto del presidente americano di importare diesel russo nonostante le sanzioni occidentali contro Mosca ha scatenato la furia di numerosi legislatori a Washington, inclusi i repubblicani, a tre settimane dalle elezioni di metà mandato in cui il leader cerca di evitare una delusione elettorale. Lo riferisce Le Monde.",
+   "more": [
+    "Le sanzioni internazionali limitano il commercio di idrocarburi con la Russia per penalizzare la sua economia e sostenere l'Ucraina nei contesti di conflitto geopolitico."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html",
+     "angolo": "",
+     "atlas": "France"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6ddc276e",
+   "sez": "economia",
+   "titolo": "Sophie Binet: “Questo budget volta le spalle alla nostra gioventù”",
+   "orig": "Sophie Binet : «Ce budget tourne le dos à notre jeunesse»",
+   "lead": "In un'intervista rilasciata a Libération, la segretaria generale della CGT Sophie Binet ha elogiato la lucidità dei liceali mobilitati, ha denunciato i tagli sociali contenuti nel progetto di legge finanziaria e ha chiesto di colpire i margini di profitto di Total. Lo riferisce Libération.",
+   "more": [
+    "I sindacati dei lavoratori in Francia dialogano e protestano regolarmente contro le manovre di bilancio statale che prevedono riduzioni della spesa sociale e riforme fiscali."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/economie/social/sophie-binet-ce-budget-tourne-le-dos-a-notre-jeunesse-20261012_HWA27774AVDDFLO4EGDHGVWKNQ/",
+     "angolo": "",
+     "atlas": "France"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7d0322f2",
+   "sez": "economia",
+   "titolo": "Budget 2027: missione impossibile per Lecornu prima dell'arrivo del testo in Parlamento",
+   "orig": "Budget 2027 : mission impossible pour Lecornu avant l’arrivée du texte au Parlement",
+   "lead": "Il progetto di legge finanziaria approda martedì 13 ottobre nell'emiciclo dopo essere stato respinto durante l'esame in commissione, ponendosi di fronte a un'Assemblea nazionale ostile in cui risulta difficile individuare una via d'uscita per il governo determinato a contenere il deficit al 5%. Lo riferisce Libération.",
+   "more": [
+    "L'iter di approvazione della legge di bilancio nei sistemi parlamentari richiede maggioranze solide per conciliare gli obiettivi di contenimento del deficit pubblico con le richieste politiche."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/budget-2027-mission-impossible-pour-lecornu-avant-larrivee-du-texte-au-parlement-20261013_X4MBAQZFNBG4DFBENOHGIETRJM/",
+     "angolo": "",
+     "atlas": "France"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z17af4d80",
+   "sez": "economia",
+   "titolo": "USA-Newsblog: Musk sostiene i repubblicani con 276 milioni di dollari",
+   "orig": "USA-Newsblog: Musk unterstützt Republikaner mit 276 Millionen Dollar",
+   "lead": "Secondo i rapporti dei media, il miliardario della tecnologia risulta di gran lunga il principale singolo donatore in vista delle elezioni congressuali, in cui il partito di Donald Trump si trova sotto pressione. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "Il finanziamento delle campagne elettorali negli Stati Uniti vede la partecipazione di grandi donatori e imprenditori tecnologici che sostengono i candidati dei partiti principali."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-musk-miderms-wahlspenden-republikaner-li.3558046",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z82d09f98",
+   "sez": "economia",
+   "titolo": "Guerra in Ucraina: Berlino è decisiva",
+   "orig": "Ukrainekrieg: Auf Deutschland kommt es an",
+   "lead": "L'Ucraina non ha più molto da aspettarsi da Donald Trump e affronta il suo problema principale legato all'economia, rendendo l'eventuale venir meno del sostegno di Berlino un fattore difficilmente compensabile. Lo riferisce FAZ.",
+   "more": [
+    "Il supporto economico e militare internazionale all'Ucraina coinvolge le principali potenze occidentali, tra cui la Germania, per garantire la stabilità statale e la difesa contro l'invasione russa."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ukraine/ukraine-im-ukrainekrieg-warum-deutschland-so-wichtig-ist-201309360.html",
+     "angolo": "",
+     "atlas": "Germany"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6c3eafa8",
+   "sez": "economia",
+   "titolo": "“Cambiamenti climatici” o “cambiamento climatico”? Perché la differenza tra singolare e plurale fa differenza",
+   "orig": "‘Mudanças climáticas’ ou ‘mudança climática’? Por que a diferença entre singular e plural faz diferença",
+   "lead": "Un approfondimento sulle ragioni linguistiche e scientifiche che distinguono l'uso del singolare rispetto al plurale in riferimento al clima, richiamando l'articolo pionieristico del geochimico Wallace Broecker pubblicato nel 1975 sulla rivista Science per comprendere il messaggio di fondo legato alle trasformazioni globali. Lo riferisce G1.",
+   "more": [
+    "La climatologia studia le variazioni a lungo termine delle condizioni atmosferiche e della temperatura globale attraverso osservazioni scientifiche e pubblicazioni specializzate."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/meio-ambiente/noticia/2026/10/13/mudancas-climaticas-ou-mudanca-climatica-por-que-a-diferenca-entre-singular-e-plural-faz-diferenca.ghtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze3e2035d",
+   "sez": "economia",
+   "titolo": "Il FMI dice che l'economia della Repubblica Dominicana crescerà del 4,6% nel 2026",
+   "orig": "FMI dice economía de RD crecerá 4.6 en 2026",
+   "lead": "L'economia della Repubblica Dominicana registrerà una crescita del 4,6% nel 2026 e del 4,4% nel 2027, posizionandosi al di sopra della media centroamericana in entrambi gli anni secondo le proiezioni del Fondo Monetario Internazionale pubblicate nel rapporto di martedì, che evidenziano un aumento rispetto al 2,1% stimato per il 2025 prima di una leggera moderazione. Lo riferisce Diario Libre.",
+   "more": [
+    "Le prospettive economiche mondiali diffuse dal Fondo Monetario Internazionale analizzano regolarmente il prodotto interno lordo e i tassi di crescita dei Paesi emergenti e sviluppati."
+   ],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/economia/macroeconomia/2026/10/12/fmi-dice-economia-de-rd-crecera-46-en-2026/3687181",
+     "angolo": "",
+     "atlas": "Dominican Rep."
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd1557be5",
+   "sez": "economia",
+   "titolo": "Stipendi più alti intorno ai 3.500 euro per favorire la crescita economica",
+   "orig": "Més sous al voltant dels 3.500 euros per afavorir el creixement econòmic",
+   "lead": "Il percorso di diversificazione economica passa attraverso la capacità di attrarre e creare imprese in grado di compiere il salto retributivo, puntando su stipendi attorno ai 3.500 euro per sostenere lo sviluppo. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "Le politiche di diversificazione economica nei piccoli Stati puntano ad attrarre aziende ad alto valore aggiunto e professionisti qualificati per innalzare il reddito medio."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261013/mes-sous-voltant-dels-3-500-euros-per-afavorir-creixement-economic_206353.html",
+     "angolo": "",
+     "atlas": "Andorra"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9a0dbc85",
+   "sez": "economia",
+   "titolo": "Paul Biya firma la circolare relativa alla preparazione del bilancio dello Stato per l'esercizio 2027",
+   "orig": "Paul Biya signe la circulaire relative à la préparation du budget de l’Etat au titre de l’exercice 2027",
+   "lead": "Il Presidente della Repubblica del Camerun ha firmato la Circolare N°001 del 12 ottobre 2026 relativa alla preparazione del bilancio dello Stato per l'esercizio finanziario 2027. Lo riferisce Actu Cameroun.",
+   "more": [
+    "La presidenza della repubblica nei sistemi amministrativi centralizzati emana i decreti e le direttive programmatiche per l'avvio del ciclo di bilancio statale."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/13/paul-biya-signe-la-circulaire-relative-a-la-preparation-du-budget-de-letat-au-titre-de-lexercice-2027/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/13/mot-de-lactualite-cest-quoi-une-circulaire-relative-a-la-preparation-du-budget-de-letat/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z848f7f53",
+   "sez": "economia",
+   "titolo": "Panama è un Paese tettonicamente attivo? L'Istituto di Geoscienze chiede di rafforzare la prevenzione",
+   "orig": "¿Es Panamá un país tectónicamente activo?: Instituto de Geociencias pide reforzar la prevención",
+   "lead": "Il sisma di magnitudo 7.5 ha liberato l'energia accumulata in un secolo nell'area di Azuero-Soná, spingendo gli esperti a chiedere il rafforzamento delle infrastrutture nella capitale a causa della presenza di faglie attive. Lo riferisce Panamá América.",
+   "more": [
+    "L'istituto di geoscienze monitora l'attività sismica e tettonica nazionale per valutare i rischi tellurici e pianificare adeguati standard di sicurezza antisismica nelle aree urbane."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/es-panama-un-pais-tectonicamente-activo-instituto-de-geociencias-pide-reforzar-la",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7865dbcd",
+   "sez": "mondo",
+   "titolo": "Un complotto sospetto in una base aerea gestita dagli Stati Uniti è quasi certamente diretto dall'Iran, afferma il primo ministro britannico",
+   "orig": "Suspected plot at U.S.-run air base almost certainly directed by Iran, UK prime minister says",
+   "lead": "Un presunto piano volto ad attaccare una base aerea militare gestita dagli Stati Uniti in Inghilterra è stato diretto quasi certamente dalle Guardie Rivoluzionarie dell'Iran, secondo quanto dichiarato lunedì dal primo ministro britannico Andy Burnham. Il governo di Londra ha convocato l'ambasciatore iraniano e ha designato due cittadini iraniani per presunte attività ostili. Lo riferisce PBS NewsHour.",
+   "more": [
+    "Le basi aeree militari congiunte ospitano personale e velivoli di alleati strategici e sono soggette a rigidi protocolli di sicurezza internazionale e intelligence antiterrorismo."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/suspected-plot-at-u-s-run-air-base-almost-certainly-directed-by-iran-uk-prime-minister-says",
+     "angolo": "",
+     "atlas": "United States of America"
+    },
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/arab-world-news/british-airbase-plot-almost-certainly-directed-by-iran-guards-uk-pm/",
+     "angolo": "",
+     "atlas": "Iraq"
+    },
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109493",
+     "angolo": "",
+     "atlas": "Maldives"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/945654/uk-says-irans-revolutionary-guards-almost-certainly-directed-scare-at-us-used-airbase",
+     "angolo": "",
+     "atlas": "Iraq"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8ddc06ae",
+   "sez": "mondo",
+   "titolo": "La Ceuta che riceve i Reali: “Iniziamo a vedere la luce in fondo al tunnel”",
+   "orig": "La Ceuta que recibe a los Reyes: “Empezamos a ver la luz al final del túnel”",
+   "lead": "Felipe VI e la regina Letizia sono giunti in visita ufficiale in una città autonoma di Ceuta profondamente diversa rispetto a quella di due mesi fa, accolti dal clima di speranza dei cittadini. Lo riferisce El País.",
+   "more": [
+    "Le visite istituzionali dei monarchi spagnoli nei territori autonomi d'oltremare rappresentano momenti di forte valenza simbolica e politica per l'unità e la sicurezza dello Stato."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-10-13/la-ceuta-que-recibe-a-los-reyes-empezamos-a-ver-la-luz-al-final-del-tunel.html",
+     "angolo": "",
+     "atlas": "Spain"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-10-13/prudencia-en-marruecos-ante-la-primera-visita-de-un-rey-de-espana-a-ceuta-y-melilla-en-dos-decadas.html",
+     "angolo": "",
+     "atlas": "Spain"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/13/6accd34621efa0ff648b4577.html",
+     "angolo": "",
+     "atlas": "Spain"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/12/6accbac921efa004368b458e.html",
+     "angolo": "",
+     "atlas": "Spain"
+    },
+    {
+     "n": "La Jornada",
+     "p": "XX",
+     "c": "Città del Messico",
+     "u": "https://www.jornada.com.mx/2026/10/12/espectaculos/a07n2esp?partner=rss",
+     "angolo": "",
+     "atlas": "Mexico"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/europa/ceuta-y-vivienda-los-temas-centrales-de-las-elecciones-anticipadas-de-espana-3593053",
+     "angolo": "",
+     "atlas": "Colombia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z90b78191",
+   "sez": "mondo",
+   "titolo": "Come potrebbe cavarsela l'economia dell'Alberta ricca di petrolio se si separasse dal Canada",
+   "orig": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+   "lead": "Gli abitanti dell'Alberta votano questo mese per decidere se rimanere in Canada o procedere verso un referendum vincolante sull'indipendenza della provincia, ponendo interrogativi sul futuro economico della regione ricca di giacimenti petroliferi in caso di secessione. Lo riferisce BBC News.",
+   "more": [
+    "I movimenti separatisti provinciali nei sistemi federali dibattono regolarmente sulla gestione autonoma delle risorse energetiche e fiscali rispetto all'unità statale centrale."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cy745jznvxpo",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-13-carney-hvetur-til-samstodu-viku-fyrir-thjodaratkvaedagreidslu-um-sjalfstaedi-alberta-489639/",
+     "angolo": "",
+     "atlas": "Iceland"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:32",
+   "uscita": "mattino"
+  },
+  {
    "id": "z349fa130",
    "sez": "economia",
    "titolo": "L'economia del Medio Oriente e dell'Asia Centrale si contrarrà nel 2026 a causa della guerra, secondo il FMI",
@@ -2474,6 +4828,14 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://en.yna.co.kr/view/AEN20261013007500320",
      "angolo": "",
      "atlas": "South Korea"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261013007400320",
+     "angolo": "",
+     "atlas": "South Korea"
     }
    ],
    "data": "13 ott",
@@ -4211,29 +6573,6 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.rainews.it/articoli/ultimora/arabia-saudita-stop-voli-di-etihad-e-qatar-fce02d53-1e47-4071-9436-d94ed6decd43.html",
      "angolo": "",
      "atlas": "Italy"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "08:23",
-   "uscita": "mattino"
-  },
-  {
-   "id": "za467b0da",
-   "sez": "ingegneria",
-   "titolo": "Imparare a giocare come professionisti: pianificazione e tracciamento adattivo del movimento per i robot umanoidi",
-   "orig": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
-   "lead": "Un nuovo white paper destinato a robotici e ingegneri del controllo illustra come disaccoppiare la pianificazione e il tracciamento del movimento per preservare uno stile atletico professionale nei robot umanoidi. Il documento spiega perché il controllo adattivo e consapevole della velocità sia essenziale per colmare il divario tra la simulazione e l'effettiva implementazione nel mondo reale, affrontando le sfide legate agli sport con la palla. Lo riferisce IEEE Spectrum.",
-   "more": [
-    "La robotica umanoide studia lo sviluppo di macchine con fattezze umane in grado di replicare movimenti complessi, combinando algoritmi avanzati di intelligenza artificiale, ingegneria meccanica e sistemi di controllo in tempo reale."
-   ],
-   "fonti": [
-    {
-     "n": "IEEE Spectrum",
-     "p": "US",
-     "c": "New York",
-     "u": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-     "angolo": "",
-     "atlas": "United States of America"
     }
    ],
    "data": "13 ott",
@@ -9271,6 +11610,14 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865861",
      "angolo": "",
      "atlas": "Taiwan"
+    },
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/macroeconomia_vita_reale_premiati_hall_woodford-9820694.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "13 ott",
@@ -11937,7 +14284,6 @@ window.EDIZIONI["2026-10-13"] = {
   "za24f5747": "La testata evidenzia l'ampliamento del programma tecnologico di controllo delle presenze scolastiche dopo la fase di test iniziale.",
   "zc04f8a30": "La testata pone l'accento sul significato simbolico e sulle difficoltà extracampo che accompagnano il club inglese alla vigilia del match europeo.",
   "z46c989df": "La testata evidenzia l'estensione del conflitto regionale e l'impatto diretto sulle infrastrutture strategiche saudite.",
-  "za467b0da": "La testata evidenzia le soluzioni tecniche per superare le attuali limitazioni nel comportamento atletico dei robot umanoidi.",
   "z77bcffc6": "La testata mette in luce l'ingegno artigianale dietro alla creazione di uno degli strumenti musicali più celebri della storia del rock.",
   "z99fd77da": "La testata sottolinea il successo internazionale dei giovani ricercatori costaricani nel campo dell'ingegneria missilistica.",
   "z32d088f7": "La testata analizza le dinamiche commerciali e geopolitiche che guidano le scelte economiche dei Paesi africani.",
@@ -12056,7 +14402,105 @@ window.EDIZIONI["2026-10-13"] = {
   "z76c74de5": "La testata scolastica monitora costantemente le procedure amministrative e le nomine dei docenti nelle diverse regioni italiane.",
   "zcc5cd965": "La testata fornisce guide quotidiane e soluzioni per i passatempi interattivi più in voga tra i lettori.",
   "ze4ec2375": "La testata di settore analizza l'impatto economico e operativo delle nuove tecnologie digitali sull'industria globale dei viaggi.",
-  "z47c01e0f": "La testata sportiva internazionale segue con apprensione le vicende sanitarie che condizionano la preparazione delle franchigie cestistiche alla vigilia della stagione."
+  "z47c01e0f": "La testata sportiva internazionale segue con apprensione le vicende sanitarie che condizionano la preparazione delle franchigie cestistiche alla vigilia della stagione.",
+  "zcd322918": "La testata evidenzia l'impegno dell'attore in un progetto cinematografico dai temi particolarmente controversi e attuali.",
+  "zcefc2d1e": "La testata mette in luce il cambiamento strategico imposto dal conflitto in corso e l'urgenza di colmare specifiche lacune tecnologiche.",
+  "z166c7e97": "La testata evidenzia il valore inestimabile del fattore umano e del giudizio critico a fronte dell'avanzamento tecnologico dei software.",
+  "z0f30ef29": "La testata si concentra sui trucchi culinari per migliorare una ricetta tradizionale molto popolare.",
+  "z080bc68c": "La testata mette in evidenza i confini e i rischi etici legati all'applicazione dell'intelligenza artificiale alla genetica.",
+  "za6cc1eb8": "La testata focalizza l'attenzione sulla qualità delle performance dal vivo e sulle nuove proposte emerse dal festival britannico.",
+  "z72849ceb": "La testata evidenzia le strategie commerciali e le evoluzioni dell'offerta alberghiera in vista della stagione futura.",
+  "zf86a3bf7": "La testata pone l'accento sulla polemica sollevata dalle associazioni locali in merito alla rappresentazione visiva della storia e dell'identità culturale.",
+  "z918ed75a": "La testata evidenzia l'ambiguità e le difficoltà istituzionali nel chiarire la gestione di atti giudiziari e investigativi controversi.",
+  "z9ba2874b": "La testata segue in tempo reale gli sviluppi e le trattative di mercato tra i club della lega.",
+  "z5d57ff2a": "La testata evidenzia la diversificazione degli investimenti edilizi al di là del comparto tecnologico.",
+  "zdb625342": "La testata sottolinea l'atmosfera cupa e le influenze stilistiche che richiamano i classici thriller psicologici.",
+  "zb06fe992": "La testata evidenzia l'impatto rivoluzionario dell'automazione algoritmica nella risoluzione di quesiti accademici di varia natura.",
+  "z9efb8739": "La testata mette in risalto l'anticipazione della programmazione estiva e le politiche commerciali promozionali per i viaggiatori.",
+  "z317d592e": "La testata ripropone una riflessione storica di grande attualità sul valore dell'integrazione e del pluralismo culturale in Europa.",
+  "zb2fe27fe": "La testata evidenzia le polemiche regolamentari che minacciano la regolarità del torneo scolastico.",
+  "zdb728182": "La testata sottolinea l'importanza del sostegno finanziario internazionale per lo sviluppo sociale ed economico del Paese.",
+  "z86609890": "La testata focalizza l'attenzione sulla necessità di riprodurre percorsi formativi che includano la valutazione dei rischi etici nello sviluppo tecnologico.",
+  "za8c4a73c": "La testata evidenzia l'entità del fallimento commerciale al botteghino di una delle produzioni più attese della stagione.",
+  "z9ad97d62": "La testata mette in luce l'importanza del contatto umano e dello sport contro la dipendenza dai display digitali.",
+  "z76ab32d6": "La testata analizza l'impatto negativo delle pratiche commerciali scorrette sul mercato delle prenotazioni alberghiere dirette.",
+  "z7602a050": "La testata evidenzia l'importanza della rassegna cinematografica per la promozione della cultura e del cinema regionale.",
+  "z0e31127e": "La testata pone l'accento sui vincoli strutturali e finanziari che condizionano le politiche di rilancio economico di Pechino.",
+  "zab777e86": "La testata mette in evidenza gli ostacoli psicologici e sociali che si incontrano quando si reinventa la propria professione in età adulta.",
+  "zed058c57": "La testata si concentra sulla natura ambivalente dell'opera, sospesa tra critica e sfruttamento commerciale dei meccanismi digitali.",
+  "z4eb05553": "La testata pone l'accento sul rientro in Italia di un esperto di livello internazionale e sul suo contributo scientifico e accademico al calcolo quantistico.",
+  "z56d82f18": "La testata evidenzia l'impatto economico del rincaro del carburante sulle strategie operative delle compagnie aeree low cost per la stagione invernale.",
+  "z0181bc46": "La testata focalizza l'attenzione sulle priorità di bilancio e sulle raccomandazioni istituzionali per la gestione oculata delle risorse pubbliche.",
+  "z41223a98": "La testata evidenzia l'innovazione metodologica nella raccolta di dati cinetici per superare i colli di bottiglia nell'addestramento dei robot umanoidi.",
+  "z846b87f2": "La testata evidenzia l'innovazione logistica e la cooperazione infrastrutturale bilaterale per il trasporto diretto di carburante.",
+  "z59ba9d34": "La testata sottolinea l'importanza fondamentale della prevenzione medica e dei programmi di controllo sanitario nella lotta oncologica.",
+  "z855e0c9e": "La testata mette in evidenza la partnership strategica internazionale per lo sviluppo del settore infrastrutturale regionale.",
+  "z2191bc59": "La testata riporta il giudizio politico espresso da un esponente locale sulle competenze istituzionali della candidata.",
+  "z640b7e41": "La testata evidenzia l'impatto pratico delle nuove norme sulla circolazione quotidiana e sui documenti di guida dei cittadini.",
+  "z721884c1": "La testata focalizza l'attenzione sulla rivalutazione critica di un'opera architettonica pionieristica nel contesto scandinavo.",
+  "zded276e9": "La testata mette in evidenza l'impatto dirompente dell'intelligenza artificiale applicata alla ricerca matematica pura.",
+  "z9933bccc": "La testata dà spazio alla testimonianza diretta delle violenze subite dalle vittime durante il rapimento.",
+  "z3335cbef": "La testata mette in vetrina la nuova generazione di progettisti e studi di architettura di rilievo globale.",
+  "z06df5fba": "La testata focalizza l'attenzione sulla digitalizzazione dei servizi sanitari per risolvere le inefficienze ospedaliere locali.",
+  "z9606d5b4": "La testata evidenzia le speculazioni finanziarie degli investitori in merito alle scadenze fiscali governative sui capitali esteri.",
+  "z9f083f8b": "La testata pone l'accento sulla vendita di un celebre immobile storico e sul suo valore di design.",
+  "z62adedbd": "La testata mette in risalto l'innovazione tecnologica applicata ai servizi di pulizia urbana e edilizia.",
+  "zfcd8ebb8": "La testata focalizza l'attenzione sulla portata internazionale e sulla forte partecipazione di startup alla fiera tecnologica nipponica.",
+  "z138c30a6": "La testata evidenzia il ritorno creativo e l'esclusività della nuova collezione di design d'interni.",
+  "zb16b8eec": "La testata mette in evidenza la vulnerabilità informatica dei grandi gruppi commerciali globali.",
+  "z78a6cfc0": "La testata evidenzia la reazione economica dell'industria alimentare di fronte all'inflazione delle materie prime ittiche.",
+  "z75e979e7": "La testata evidenzia l'ingresso del marchio nel settore dell'audio portatile con un focus sul design colorato e minimalista.",
+  "zae2fb267": "La testata evidenzia la presa di posizione del ministro focalizzata sul rafforzamento dei rapporti strategici ed energetici.",
+  "z01015d63": "La testata mette in risalto l'iniziativa benefica e l'opportunità di accedere a pezzi di design storico e contemporaneo a un prezzo simbolico.",
+  "zc6d92463": "La testata sottolinea l'eccezionalità della vincita, la più alta nella storia della lotteria nazionale vietnamita.",
+  "z363b5ab4": "La testata evidenzia la partnership commerciale e la sponsorizzazione per l'imminente evento di settore.",
+  "z5d471f6a": "La testata analizza l'impatto dei flussi di capitale estero sull'andamento stagnante del mercato azionario thailandese.",
+  "zb529547f": "La testata mette in evidenza l'introduzione della nuova piattaforma finanziaria all'interno dell'ecosistema aziendale di riferimento.",
+  "z603507f7": "La testata evidenzia la variazione marginale dei listini aurei in correlazione con il clima di incertezza inflazionistica.",
+  "zf7b309e0": "La testata pone l'accento sui traguardi operativi e sui riconoscimenti ottenuti dall'autorità dei trasporti locale.",
+  "zbb41eedb": "La testata evidenzia l'intervento politico volto a calmierare i costi di rifornimento per i consumatori francesi.",
+  "zc5ef344c": "La testata sottolinea l'accordo finanziario di grande portata economica stipulato nel settore energetico e dei progetti infrastrutturali.",
+  "z8fb384a0": "La testata evidenzia il segnale di fiducia commerciale espresso dal gruppo gioielliero in un contesto di mercato rallentato.",
+  "z9e2711f5": "La testata valorizza l'intervento di architettura contemporanea volto a integrare edilizia residenziale e patrimonio industriale storico.",
+  "z79befd33": "La testata mette in risalto le nuove misure restrittive imposte dalle autorità finanziarie cinesi per stabilizzare i mercati dei derivati.",
+  "z4b621bc5": "La testata focalizza l'attenzione sulla soluzione ingegneristica e modulare adottata per risolvere la carenza temporanea di impianti natatori pubblici.",
+  "z75809478": "La testata evidenzia l'analisi ottimistica espressa da un investitore di rilievo riguardo ai mercati azionari cinesi.",
+  "zd98f5344": "La testata mette in luce il valore sociale e la vocazione pubblica dell'arte di Keith Haring in occasione della mostra romana.",
+  "zacbd4c9e": "La testata sponsorizzata evidenzia i risultati di studi biotecnologici focalizzati sul legame tra abitudini alimentari e prevenzione medica.",
+  "z5da7ac67": "La testata traccia un profilo formativo e professionale incentrato sul percorso di uno dei progettisti grafici più influenti al mondo.",
+  "z00b286c9": "La testata analizza i contenuti economici della manovra di bilancio focalizzati sul sostegno alle nuove generazioni.",
+  "z5afbaeec": "La testata evidenzia l'aumento della pressione fiscale locale nella capitale attraverso i dati statistici sui contributi pro capite.",
+  "zc41089a2": "La testata riporta la prudenza e le prime valutazioni ufficiali espresse dal vertice della banca senescente sull'operazione di mercato.",
+  "zbe34e8b2": "La testata evidenzia la trattativa europea e la linea del governo italiano a difesa della piattaforma di negoziazione del debito pubblico.",
+  "z1759ecd3": "La testata focalizza l'attenzione sui dati record registrati dal settore della gestione patrimoniale privata in Italia nel primo semestre.",
+  "zd280c401": "La testata evidenzia la divergenza geografica nei risultati trimestrali del costruttore automobilistico tra il mercato europeo e quello nordamericano.",
+  "zd28a0c3b": "La testata analizza criticamente i rischi derivanti dall'uniformità dei modelli decisionali e tecnologici adottati dalle grandi corporazioni.",
+  "zcca7363f": "La testata riporta la decisione giudiziaria in materia di relazioni sindacali e rispetto delle normative disciplinari sul posto di lavoro.",
+  "z31af9341": "La testata economica italiana evidenzia la tensione politica e istituzionale sulle misure fiscali e la difesa della linea governativa a favore delle famiglie.",
+  "zce148c1e": "La testata locale pone l'accento sulla richiesta del settore minerario di diversificare l'economia nazionale puntando sullo sviluppo turistico.",
+  "z021882fa": "La testata di Lusaka evidenzia il riconoscimento internazionale dei progressi economici e l'impegno presidenziale a tradurli in benefici sociali.",
+  "zd4385174": "La testata mozambicana sottolinea gli sforzi governativi per attrarre investimenti esteri e incrementare il valore aggiunto locale delle risorse naturali.",
+  "zc16b66c7": "La testata focalizza l'attenzione sui moniti globali del FMI riguardo alla stabilità dei mercati finanziari e ai rischi tecnologici e fiscali.",
+  "z3d2a9f14": "La testata internazionale evidenzia l'espansione dei programmi educativi specialistici nel settore infermieristico in Oceania.",
+  "z16d4d76a": "L'emittente regionale mette in rilievo l'impatto devastante dei conflitti e delle crisi infrastrutturali sulle economie mediorientali.",
+  "zb42f7ef8": "La testata uzbeka evidenzia la modernizzazione e la digitalizzazione dei servizi fiscali locali per le imprese.",
+  "z15f0b1b7": "La testata in esilio sottolinea l'apertura normativa verso il capitale privato e straniero in un settore strategico precedentemente chiuso.",
+  "z3d808e4a": "La testata descrive l'apertura di nuove strutture commerciali all'ingrosso e al dettaglio orientate a transazioni in valuta e in moneta locale.",
+  "z397d2ea9": "La testata camerunese mette in luce il fabbisogno di finanziamenti per le imprese della filiera agricola e zootecnica a sostegno dell'occupazione e della produzione alimentare.",
+  "z78c3b806": "La testata guatemalteca offre un'analisi approfondita e critica sulle politiche di importazione alimentare e sugli equilibri tra produttori e importatori.",
+  "z537ae550": "Il quotidiano parigino evidenzia le forti spaccature politiche negli Stati Uniti attorno alle scelte energetiche e alle sanzioni alla Russia in piena campagna elettorale.",
+  "z6ddc276e": "Il quotidiano francese dà spazio alla voce sindacale che critica duramente le scelte economiche del governo e sostiene la mobilitazione giovanile.",
+  "z7d0322f2": "Il giornale evidenzia le estreme difficoltà politiche e parlamentari del governo nell'approvare la manovra di bilancio nel rispetto dei vincoli di deficit.",
+  "z17af4d80": "Il quotidiano tedesco documenta l'impatto finanziario dei grandi magnati tecnologici sulla campagna elettorale congressuale negli Stati Uniti.",
+  "z82d09f98": "Il quotidiano economico tedesco sottolinea la centralità del ruolo finanziario e politico della Germania per la sopravvivenza economica e militare dell'Ucraina.",
+  "z6c3eafa8": "Il portale brasiliano propone una riflessione terminologica e scientifica sulla percezione e sulla denominazione dei fenomeni ambientali globali.",
+  "ze3e2035d": "Il quotidiano dominicano evidenzia con ottimismo il posizionamento di primo piano dell'economia nazionale rispetto al contesto regionale centroamericano.",
+  "zd1557be5": "La testata andorrana sottolinea la strategia di attrattività imprenditoriale basata sull'innalzamento delle retribuzioni per promuovere la crescita.",
+  "z9a0dbc85": "La testata locale riporta formalmente l'atto ufficiale firmato dal Capo dello Stato per l'avvio della programmazione di bilancio.",
+  "z848f7f53": "Il quotidiano panamense evidenzia l'allarme lanciato dagli scienziati sulla vulnerabilità sismica e sulla necessità di investire in prevenzione infrastrutturale.",
+  "z7865dbcd": "La testata internazionale evidenzia la durezza della risposta diplomatica e politica del Regno Unito contro l'Iran per il tentato attacco alla base militare.",
+  "z8ddc06ae": "Il quotidiano spagnolo descrive l'atmosfera di attesa e il profondo cambiamento della città autonoma in occasione della storica visita dei Reali.",
+  "z90b78191": "La testata britannica analizza le complesse implicazioni economiche e costituzionali di un'eventuale secessione della provincia petrolifera canadese."
  },
  "contesti": {
   "ze86d166a": "Durante una serie di recenti controlli medici di routine, i sanitari hanno rilevato la presenza di un nodulo polmonare circoscritto. La scoperta ha indotto l'équipe medica a programmare un ricovero ospedaliero tempestivo per procedere all'asportazione chirurgica della lesione, portando la Santa Sede a riorganizzare l'agenda pubblica pontificia in vista del futuro viaggio apostolico.",
@@ -12158,7 +14602,24 @@ window.EDIZIONI["2026-10-13"] = {
   "zabbe4fc2": "La situazione di sicurezza in Europa è segnata da crescenti tensioni legate al conflitto ucraino, con particolare attenzione alle infrastrutture critiche e alle indagini transnazionali condotte dagli Stati membri dell'Unione Europea per prevenire azioni di sabotaggio.",
   "z9eb8d815": "Nei giorni scorsi Billboard ha seguito costantemente la residency madrilena di Shakira, documentando l'elenco degli artisti che si sono avvicendati sul palco dello stadio della capitale. La serie di concerti, inizialmente prevista per otto date, è stata estesa fino a tredici serate per la grandissima richiesta dei sostenitori, accogliendo circa settecentomila spettatori prima della chiusura con colleghi internazionali come Maluma e Bizarrap.",
   "z4b738444": "Il mercato dei cimeli sportivi legati a Michael Jordan aveva già registrato un evento eccezionale pochi giorni fa. Il 12 ottobre 2026, una maglia da gara delle finali NBA del 1998 era stata acquistata in trattativa privata per quattordici milioni di dollari da Ron Firman, anticipando il nuovo primato d'asta da venti milioni di dollari per la maglia di gara due.",
-  "zcf8c7b09": "La promozione del film d'animazione The Apothecary Diaries: The Late Lady's Treasure è entrata nel vivo nei giorni scorsi. L'11 ottobre 2026 la produzione aveva diffuso un filmato promozionale incentrato sui protagonisti Jinshi e Maomao, anticipando nuovi video dedicati. La campagna prosegue ora con la presentazione dei doppiatori dei pirati in vista dell'uscita al cinema dell'11 dicembre."
+  "zcf8c7b09": "La promozione del film d'animazione The Apothecary Diaries: The Late Lady's Treasure è entrata nel vivo nei giorni scorsi. L'11 ottobre 2026 la produzione aveva diffuso un filmato promozionale incentrato sui protagonisti Jinshi e Maomao, anticipando nuovi video dedicati. La campagna prosegue ora con la presentazione dei doppiatori dei pirati in vista dell'uscita al cinema dell'11 dicembre.",
+  "z31af9341": "Nei giorni scorsi il dibattito politico ed economico italiano si è concentrato sulle possibili manovre finanziarie e sui contributi straordinari richiesti agli istituti bancari per sostenere i bilanci statali e fronteggiare le difficoltà delle famiglie, generando confronti accesi tra governo e opposizioni.",
+  "z021882fa": "Negli scorsi mesi il governo dello Zambia ha portato avanti negoziati complessi con i creditori internazionali per la ristrutturazione del debito sovrano, accompagnati da riforme economiche e di bilancio.",
+  "zc16b66c7": "Nelle ultime settimane gli analisti finanziari internazionali hanno ripetutamente discusso la sostenibilità delle valutazioni tecnologiche legate all'intelligenza artificiale e l'aumento dei tassi di interesse sovrani.",
+  "z16d4d76a": "Nei mesi scorsi le tensioni geopolitiche e i conflitti in Medio Oriente hanno ripetutamente minacciato le rotte di navigazione energetica e la stabilità delle infrastrutture petrolifere mediorientali.",
+  "z78c3b806": "Nei giorni scorsi la testata ha avviato la trattazione delle politiche di importazione alimentare senza dazi e delle conseguenze sulle filiere produttive locali.",
+  "z537ae550": "Nelle settimane scorse il dibattito politico statunitense in vista delle elezioni di metà mandato si è intensificato attorno alle decisioni di politica energetica e alle sanzioni internazionali.",
+  "z6ddc276e": "Nei giorni scorsi le organizzazioni sindacali e i gruppi studenteschi francesi hanno espresso forte opposizione alle linee guida economiche e ai tagli previsti nel bilancio statale.",
+  "z7d0322f2": "Nei giorni scorsi il testo della legge finanziaria è stato esaminato dalle commissioni parlamentari competenti, registrando bocciature e accesi scontri politici sulla tenuta dei conti pubblici.",
+  "z17af4d80": "Nelle ultime settimane la campagna elettorale per il Congresso statunitense ha registrato flussi record di donazioni e iniziative di sostegno finanziario da parte di figure di primo piano del settore tecnologico.",
+  "z82d09f98": "Nei giorni scorsi i leader europei e ucraini hanno discusso la continuità degli aiuti militari e finanziari in vista dei cambiamenti negli equilibri geopolitici internazionali.",
+  "ze3e2035d": "Nei giorni scorsi il FMI ha diffuso i dati preliminari sulle economie latinoamericane, rivedendo al ribasso la media regionale e delineando le performance dei singoli Stati.",
+  "z9a0dbc85": "Nelle scorse settimane il governo camerunese ha avviato le fasi preliminari di valutazione della spesa pubblica in vista della stesura della legge di bilancio.",
+  "z848f7f53": "Nei giorni scorsi si sono registrati movimenti tellurici significativi nella regione che hanno attivato le allerte e spinto gli enti di monitoraggio a sollecitare verifiche strutturali.",
+  "z7865dbcd": "Nelle scorse settimane le agenzie di sicurezza britanniche e statunitensi hanno intensificato le indagini su un incidente di sicurezza avvenuto lo scorso 27 settembre presso la base aerea di RAF Fairford.",
+  "z8ddc06ae": "Nelle ultime settimane la città autonoma di Ceuta è stata al centro di tensioni diplomatiche e migratorie che hanno richiesto l'attenzione del governo centrale spagnolo.",
+  "z90b78191": "Nei giorni scorsi il dibattito politico canadese ha registrato appelli all'unità nazionale da parte dei leader federali in vista dell'imminente consultazione referendaria nell'Alberta.",
+  "za8c4a73c": "L'ambiziosa favola ecologica «Digger», diretta da Alejandro G. Iñárritu e interpretata da Tom Cruise, è approdata nelle sale cinematografiche con enormi aspettative commerciali. Tuttavia, dopo un debutto già sottotono, la pellicola ha registrato un tracollo del 60% nel suo secondo fine settimana nordamericano. Con appena 35,3 milioni di dollari incassati complessivamente a livello globale, il film si avvia a registrare perdite stimate fino a 245 milioni di dollari."
  },
  "cronologie": {
   "ze86d166a": [
@@ -13307,6 +15768,180 @@ window.EDIZIONI["2026-10-13"] = {
    [
     "11 dicembre",
     "Debutto del lungometraggio animato nelle sale cinematografiche giapponesi"
+   ]
+  ],
+  "z31af9341": [
+   [
+    "10 ottobre",
+    "Avvio delle audizioni parlamentari sulle misure economiche"
+   ],
+   [
+    "12 ottobre",
+    "Confronto tra governo e istituti di credito sui contributi fiscali"
+   ]
+  ],
+  "z021882fa": [
+   [
+    "8 ottobre",
+    "Incontri istituzionali sulla ristrutturazione del debito zambiano"
+   ],
+   [
+    "11 ottobre",
+    "Diffusione delle proiezioni macroeconomiche regionali da parte delle agenzie di rating"
+   ]
+  ],
+  "zc16b66c7": [
+   [
+    "7 ottobre",
+    "Analisi preliminari del FMI sulla stabilità finanziaria globale"
+   ],
+   [
+    "12 ottobre",
+    "Rapporto ufficiale del Fondo Monetario Internazionale sui rischi di mercato"
+   ]
+  ],
+  "z16d4d76a": [
+   [
+    "5 ottobre",
+    "Rapporto sulle tensioni nello Stretto di Hormuz e impatti energetici"
+   ],
+   [
+    "11 ottobre",
+    "Revisione al ribasso delle stime di crescita del FMI per il Medio Oriente"
+   ]
+  ],
+  "z78c3b806": [
+   [
+    "6 ottobre",
+    "Pubblicazione della prima parte sull'importazione di alimenti e sui rischi per gli importatori"
+   ],
+   [
+    "11 ottobre",
+    "Approfondimento sulle ricadute per i produttori nazionali"
+   ]
+  ],
+  "z537ae550": [
+   [
+    "5 ottobre",
+    "Discussioni congressuali sulle forniture energetiche e le sanzioni"
+   ],
+   [
+    "10 ottobre",
+    "Annuncio delle misure e prime reazioni politiche a Washington"
+   ]
+  ],
+  "z6ddc276e": [
+   [
+    "8 ottobre",
+    "Proteste studentesche contro le politiche di bilancio"
+   ],
+   [
+    "11 ottobre",
+    "Dichiarazioni dei leader sindacali sulle manovre finanziarie"
+   ]
+  ],
+  "z7d0322f2": [
+   [
+    "7 ottobre",
+    "Presentazione del testo di bilancio alle commissioni"
+   ],
+   [
+    "10 ottobre",
+    "Bocciatura del progetto di legge in commissione parlamentare"
+   ]
+  ],
+  "z17af4d80": [
+   [
+    "6 ottobre",
+    "Monitoraggio delle donazioni politiche per le elezioni di metà mandato"
+   ],
+   [
+    "11 ottobre",
+    "Pubblicazione dei dati sui finanziamenti dei principali donatori"
+   ]
+  ],
+  "z82d09f98": [
+   [
+    "5 ottobre",
+    "Vertici internazionali sul sostegno economico e militare all'Ucraina"
+   ],
+   [
+    "10 ottobre",
+    "Analisi geopolitiche sul ruolo di Germania e Stati Uniti nel conflitto"
+   ]
+  ],
+  "ze3e2035d": [
+   [
+    "6 ottobre",
+    "Aggiornamento delle stime economiche regionali per l'America Latina"
+   ],
+   [
+    "13 ottobre",
+    "Pubblicazione ufficiale del rapporto sulle prospettive economiche mondiali del FMI"
+   ]
+  ],
+  "z9a0dbc85": [
+   [
+    "5 ottobre",
+    "Preparazione tecnica dei documenti preliminari di spesa"
+   ],
+   [
+    "12 ottobre",
+    "Firma presidenziale della circolare di bilancio"
+   ]
+  ],
+  "z848f7f53": [
+   [
+    "8 ottobre",
+    "Registrazione del sisma di magnitudo 7.5 nell'area di Azuero-Soná"
+   ],
+   [
+    "11 ottobre",
+    "Valutazioni tecniche degli esperti sui rischi geologici nella capitale"
+   ]
+  ],
+  "z7865dbcd": [
+   [
+    "27 settembre",
+    "Incidente di sicurezza presso la base aerea di RAF Fairford"
+   ],
+   [
+    "12 ottobre",
+    "Dichiarazioni ufficiali del governo britannico e sanzioni contro i cittadini iraniani"
+   ]
+  ],
+  "z8ddc06ae": [
+   [
+    "6 agosto",
+    "Acuirsi della crisi migratoria e diplomatica a Ceuta"
+   ],
+   [
+    "12 ottobre",
+    "Arrivo dei monarchi spagnoli in visita ufficiale nella città autonoma"
+   ]
+  ],
+  "z90b78191": [
+   [
+    "5 ottobre",
+    "Appelli dei leader federali canadesi per l'unità nazionale"
+   ],
+   [
+    "11 ottobre",
+    "Intensificazione della campagna referendaria nella provincia dell'Alberta"
+   ]
+  ],
+  "za8c4a73c": [
+   [
+    "Primo fine settimana",
+    "Debutto deludente del film nelle sale cinematografiche"
+   ],
+   [
+    "Secondo fine settimana",
+    "Crollo del 60% degli incassi al botteghino nordamericano"
+   ],
+   [
+    "Aggiornamento recente",
+    "Le stime indicano perdite record pari a circa 245 milioni di dollari"
    ]
   ]
  },
@@ -15599,13 +18234,6 @@ window.EDIZIONI["2026-10-13"] = {
    ],
    "pt": []
   },
-  "za467b0da": {
-   "n": "New York",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z77bcffc6": {
    "n": "Roma",
    "p": [
@@ -16458,6 +19086,698 @@ window.EDIZIONI["2026-10-13"] = {
     "United States of America"
    ],
    "pt": []
+  },
+  "zcd322918": {
+   "n": "Manama",
+   "p": [
+    "Bahrain"
+   ],
+   "pt": []
+  },
+  "zcefc2d1e": {
+   "n": "Ukraine",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z166c7e97": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0f30ef29": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z080bc68c": {
+   "n": "Cambridge",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za6cc1eb8": {
+   "n": "Salford",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z72849ceb": {
+   "n": "Rimini",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf86a3bf7": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "z918ed75a": {
+   "n": "Lisbon",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z9ba2874b": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z5d57ff2a": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdb625342": {
+   "n": "Scandinavia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zb06fe992": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9efb8739": {
+   "n": "Milan",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z317d592e": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zb2fe27fe": {
+   "n": "Kingston",
+   "p": [
+    "Jamaica"
+   ],
+   "pt": []
+  },
+  "zdb728182": {
+   "n": "Dushanbe",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z86609890": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za8c4a73c": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9ad97d62": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z76ab32d6": {
+   "n": "Milan",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7602a050": {
+   "n": "Osh",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z0e31127e": {
+   "n": "Beijing",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zab777e86": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zed058c57": {
+   "n": "Copenhagen",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z4eb05553": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z56d82f18": {
+   "n": "Milan",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z0181bc46": {
+   "n": "Tunis",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z41223a98": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z846b87f2": {
+   "n": "Maputo",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "z59ba9d34": {
+   "n": "Milan",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z855e0c9e": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z2191bc59": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z640b7e41": {
+   "n": "Milan",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z721884c1": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zded276e9": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z9933bccc": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z3335cbef": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z06df5fba": {
+   "n": "Bamako",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "z9606d5b4": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z9f083f8b": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z62adedbd": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "zfcd8ebb8": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z138c30a6": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb16b8eec": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z78a6cfc0": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z75e979e7": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zae2fb267": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan",
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z01015d63": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc6d92463": {
+   "n": "Hanoi",
+   "p": [
+    "Vietnam"
+   ],
+   "pt": []
+  },
+  "z363b5ab4": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z5d471f6a": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "zb529547f": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z603507f7": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zf7b309e0": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zbb41eedb": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc5ef344c": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z8fb384a0": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z9e2711f5": {
+   "n": "Winnipeg",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z79befd33": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z4b621bc5": {
+   "n": "Stoccarda",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z75809478": {
+   "n": "Seattle",
+   "p": [
+    "United States of America",
+    "China"
+   ],
+   "pt": []
+  },
+  "zd98f5344": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zacbd4c9e": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z5da7ac67": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z00b286c9": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5afbaeec": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc41089a2": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbe34e8b2": {
+   "n": "Roma",
+   "p": [
+    "Italy",
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z1759ecd3": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd280c401": {
+   "n": "Roma",
+   "p": [
+    "Italy",
+    "France",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd28a0c3b": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zcca7363f": {
+   "n": "Brescia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z31af9341": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zce148c1e": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z021882fa": {
+   "n": "Lusaka",
+   "p": [
+    "Zambia"
+   ],
+   "pt": []
+  },
+  "zd4385174": {
+   "n": "Maputo",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "zc16b66c7": {
+   "n": "Maputo",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "z3d2a9f14": {
+   "n": "Vientiane",
+   "p": [
+    "Laos"
+   ],
+   "pt": []
+  },
+  "z16d4d76a": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zb42f7ef8": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z15f0b1b7": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z3d808e4a": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z397d2ea9": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z78c3b806": {
+   "n": "Città del Guatemala",
+   "p": [
+    "Guatemala"
+   ],
+   "pt": []
+  },
+  "z537ae550": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z6ddc276e": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z7d0322f2": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z17af4d80": {
+   "n": "Monaco",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z82d09f98": {
+   "n": "Francoforte",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z6c3eafa8": {
+   "n": "Rio de Janeiro",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "ze3e2035d": {
+   "n": "Santo Domingo",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "zd1557be5": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z9a0dbc85": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z848f7f53": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z7865dbcd": {
+   "n": "Arlington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8ddc06ae": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z90b78191": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -16788,7 +20108,6 @@ window.EDIZIONI["2026-10-13"] = {
   "za24f5747": 1,
   "zc04f8a30": 1,
   "z46c989df": 2,
-  "za467b0da": 1,
   "z77bcffc6": 1,
   "z99fd77da": 1,
   "z32d088f7": 1,
@@ -16907,7 +20226,105 @@ window.EDIZIONI["2026-10-13"] = {
   "z76c74de5": 1,
   "zcc5cd965": 1,
   "ze4ec2375": 1,
-  "z47c01e0f": 1
+  "z47c01e0f": 1,
+  "zcd322918": 1,
+  "zcefc2d1e": 1,
+  "z166c7e97": 1,
+  "z0f30ef29": 1,
+  "z080bc68c": 1,
+  "za6cc1eb8": 1,
+  "z72849ceb": 1,
+  "zf86a3bf7": 1,
+  "z918ed75a": 1,
+  "z9ba2874b": 1,
+  "z5d57ff2a": 1,
+  "zdb625342": 1,
+  "zb06fe992": 1,
+  "z9efb8739": 1,
+  "z317d592e": 1,
+  "zb2fe27fe": 1,
+  "zdb728182": 1,
+  "z86609890": 1,
+  "za8c4a73c": 2,
+  "z9ad97d62": 1,
+  "z76ab32d6": 1,
+  "z7602a050": 1,
+  "z0e31127e": 1,
+  "zab777e86": 1,
+  "zed058c57": 1,
+  "z4eb05553": 1,
+  "z56d82f18": 1,
+  "z0181bc46": 1,
+  "z41223a98": 1,
+  "z846b87f2": 1,
+  "z59ba9d34": 1,
+  "z855e0c9e": 1,
+  "z2191bc59": 1,
+  "z640b7e41": 1,
+  "z721884c1": 1,
+  "zded276e9": 1,
+  "z9933bccc": 1,
+  "z3335cbef": 1,
+  "z06df5fba": 1,
+  "z9606d5b4": 1,
+  "z9f083f8b": 1,
+  "z62adedbd": 1,
+  "zfcd8ebb8": 1,
+  "z138c30a6": 1,
+  "zb16b8eec": 1,
+  "z78a6cfc0": 1,
+  "z75e979e7": 1,
+  "zae2fb267": 1,
+  "z01015d63": 1,
+  "zc6d92463": 1,
+  "z363b5ab4": 1,
+  "z5d471f6a": 1,
+  "zb529547f": 1,
+  "z603507f7": 1,
+  "zf7b309e0": 1,
+  "zbb41eedb": 1,
+  "zc5ef344c": 1,
+  "z8fb384a0": 1,
+  "z9e2711f5": 1,
+  "z79befd33": 1,
+  "z4b621bc5": 1,
+  "z75809478": 1,
+  "zd98f5344": 1,
+  "zacbd4c9e": 1,
+  "z5da7ac67": 1,
+  "z00b286c9": 1,
+  "z5afbaeec": 1,
+  "zc41089a2": 1,
+  "zbe34e8b2": 1,
+  "z1759ecd3": 1,
+  "zd280c401": 1,
+  "zd28a0c3b": 1,
+  "zcca7363f": 1,
+  "z31af9341": 1,
+  "zce148c1e": 1,
+  "z021882fa": 1,
+  "zd4385174": 1,
+  "zc16b66c7": 1,
+  "z3d2a9f14": 1,
+  "z16d4d76a": 1,
+  "zb42f7ef8": 1,
+  "z15f0b1b7": 1,
+  "z3d808e4a": 1,
+  "z397d2ea9": 1,
+  "z78c3b806": 1,
+  "z537ae550": 2,
+  "z6ddc276e": 1,
+  "z7d0322f2": 2,
+  "z17af4d80": 1,
+  "z82d09f98": 2,
+  "z6c3eafa8": 1,
+  "ze3e2035d": 1,
+  "zd1557be5": 1,
+  "z9a0dbc85": 1,
+  "z848f7f53": 2,
+  "z7865dbcd": 1,
+  "z8ddc06ae": 2,
+  "z90b78191": 2
  },
  "video": {},
  "pillole": []
