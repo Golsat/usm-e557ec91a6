@@ -3,6 +3,149 @@ window.EDIZIONI["2026-10-13-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z85661409",
+   "sez": "ingegneria",
+   "titolo": "Bangladesh: in progetto una ferrovia sopraelevata Dhaka-Cumilla per accorciare la rotta verso Chattogram",
+   "orig": "Dhaka–Cumilla elevated railway to cut Chattogram distance by 80km, cost Tk 839bn",
+   "lead": "Il governo del Bangladesh ha annunciato la costruzione di una linea ferroviaria sopraelevata tra Dhaka e Cumilla, che permetterà di ridurre di 80 chilometri la distanza verso il porto di Chattogram. Il progetto, riportato da Prothom Alo, avrà un costo stimato di 839 miliardi di taka. L'opera punta a velocizzare i collegamenti commerciali e passeggeri tra la capitale e il principale scalo portuale del Paese, inserendosi in un più ampio piano di modernizzazione delle infrastrutture di trasporto bangladesi. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "Chattogram è il principale porto del Bangladesh e snodo cruciale per il commercio estero del Paese. Migliorare i collegamenti ferroviari con Dhaka, la capitale, è considerato essenziale per sostenere la crescita economica e ridurre i tempi di trasporto merci e passeggeri nel Paese densamente popolato dell'Asia meridionale."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/government/3c21li2qov",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-13T12:33+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "15:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z99a47fcb",
+   "sez": "mondo",
+   "titolo": "Maldive: il sistema di assunzione dei dipendenti pubblici passa online",
+   "orig": "ސިވިލް ސަރވިސް މުވައްޒަފުން އައްޔަނުކުރުމުގެ ނިޒާމު އޮންލައިންކުރަނީ",
+   "lead": "Le autorità delle Maldive stanno digitalizzando il sistema di nomina dei dipendenti della funzione pubblica, rendendolo completamente online. La misura, riportata da PSM News, mira a semplificare e rendere più trasparenti le procedure di reclutamento nel settore pubblico del Paese. Non sono stati forniti dettagli su tempistiche precise di attuazione o su eventuali criticità del vecchio sistema cartaceo che la riforma intende superare. Lo riferisce PSM News.",
+   "more": [
+    "Le Maldive, arcipelago dell'oceano Indiano, hanno negli ultimi anni promosso diverse iniziative di digitalizzazione della pubblica amministrazione per modernizzare i servizi statali e ridurre la burocrazia legata alle procedure di assunzione e gestione del personale pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190119",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-13T17:20+05:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "15:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zcf5ccae2",
+   "sez": "mondo",
+   "titolo": "Uganda: intensificati i controlli contro l'abuso di droga nei bar del distretto di Ibanda",
+   "orig": "Ibanda Security Intensifies Crackdown on Suspected Drug Abuse in Bars",
+   "lead": "Le forze di sicurezza del distretto di Ibanda, in Uganda, hanno intensificato le operazioni contro il presunto abuso di sostanze stupefacenti nei locali notturni della zona. Secondo quanto riportato da Nile Post, la stretta riguarda i bar sospettati di essere luoghi di consumo e spaccio di droga. Non sono stati forniti dettagli su numero di controlli effettuati, eventuali arresti o tempistiche precise dell'operazione. Lo riferisce Nile Post.",
+   "more": [
+    "Ibanda è un distretto dell'Uganda occidentale. Le autorità locali ugandesi conducono periodicamente campagne di controllo nei locali pubblici per contrastare il consumo di droghe, un fenomeno che le forze dell'ordine associano spesso a episodi di criminalità e disordine sociale nelle comunità."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/crime/377937/ibanda-security-intensifies-crackdown-on-suspected-drug-abuse-in-bars",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-13T15:09+03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "15:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z5e6022cb",
+   "sez": "sport",
+   "titolo": "Maresca prima della sfida col PSG: «Serve una partita perfetta, sono la miglior squadra d'Europa»",
+   "orig": "Maresca: “Necesitamos un partido perfecto, el PSG es el mejor equipo de Europa”",
+   "lead": "L'allenatore Enzo Maresca ha dichiarato che la sua squadra avrà bisogno di una prestazione perfetta per affrontare il Paris Saint-Germain, definito «la miglior squadra d'Europa». La dichiarazione, riportata da ABC Color, arriva alla vigilia di un incontro di rilievo del calcio europeo. Non sono stati forniti ulteriori dettagli su data, competizione o sede precisa della partita nel testo disponibile. Lo riferisce ABC Color.",
+   "more": [
+    "Il Paris Saint-Germain è uno dei club calcistici più ricchi e titolati d'Europa, abituale protagonista nelle principali competizioni continentali. Enzo Maresca è un allenatore italiano che ha guidato diverse squadre di alto livello nel calcio europeo."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/13/maresca-necesitamos-un-partido-perfecto-el-psg-es-el-mejor-equipo-de-europa/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-13T12:35+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "15:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z1fdb33b4",
+   "sez": "mondo",
+   "titolo": "Mauritius: riunione straordinaria del Governo, Ramgoolam parlerà alla nazione alle 18",
+   "orig": "Réunion spéciale du Cabinet : Ramgoolam adressera un message à la population à 18 h",
+   "lead": "Il governo delle Mauritius ha convocato una riunione straordinaria del Consiglio dei ministri, al termine della quale il primo ministro Navin Ramgoolam rivolgerà un messaggio alla popolazione alle ore 18. Lo riporta Defimedia, senza specificare i temi che saranno affrontati nel discorso né le ragioni della convocazione urgente del Cabinet. L'annuncio ha suscitato attenzione nel Paese in attesa di chiarimenti sulle motivazioni dell'incontro. Lo riferisce Defimedia.",
+   "more": [
+    "Navin Ramgoolam è una figura storica della politica mauriziana, più volte primo ministro dell'isola dell'oceano Indiano. Le riunioni straordinarie del Consiglio dei ministri vengono solitamente convocate per affrontare questioni urgenti di rilievo nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/reunion-speciale-du-cabinet-ramgoolam-adressera-un-message-la-population-18-h",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-13T16:32+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "15:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z8dd89886",
+   "sez": "economia",
+   "titolo": "Panama: semplificate le procedure di appalto per emergenze nei governi locali",
+   "orig": "Facilitan a los gobiernos locales contrataciones por emergencia",
+   "lead": "Il governo di Panama ha facilitato le procedure di contrattazione per i governi locali in situazioni di emergenza, secondo quanto riportato da Panamá América. La misura punta a velocizzare le risposte delle amministrazioni municipali in caso di eventi urgenti, snellendo gli iter burocratici previsti per gli appalti pubblici. Il testo non specifica ulteriori dettagli su tempistiche di entrata in vigore o tipologia di emergenze interessate. Lo riferisce Panamá América.",
+   "more": [
+    "Le procedure di contrattazione pubblica in situazioni di emergenza permettono alle amministrazioni di bypassare parte dei normali iter burocratici per rispondere rapidamente a calamità o eventi imprevisti, un tema comune nelle riforme amministrative di molti Paesi dell'America Latina."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/economia/facilitan-los-gobiernos-locales-contrataciones-por-emergencia-1267418",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "15:02",
+   "uscita": "17"
+  },
+  {
    "id": "z6f9fabb2",
    "sez": "mondo",
    "titolo": "Il Ghana annulla l'accordo da un miliardo di dollari con Goldstream Global",
@@ -15960,7 +16103,13 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "za879e586": "Trend riporta il controllo tecnico sulle infrastrutture energetiche regionali.",
   "zf967d3f9": "Trend riporta l'estensione della rete ferroviaria commerciale.",
   "z893faa41": "Trend riporta l'iniziativa di cooperazione finanziaria bilaterale.",
-  "z6a73c68c": "Trend documenta il controllo tecnico in vista della stagione invernale."
+  "z6a73c68c": "Trend documenta il controllo tecnico in vista della stagione invernale.",
+  "z85661409": "Prothom Alo presenta il progetto come una risposta concreta alla necessità di accorciare i tempi di collegamento con il porto principale del Paese.",
+  "z99a47fcb": "PSM News presenta la digitalizzazione come un passo verso l'efficienza amministrativa.",
+  "zcf5ccae2": "Nile Post riporta l'iniziativa come una risposta delle autorità locali a un problema di sicurezza pubblica percepito nei bar.",
+  "z5e6022cb": "ABC Color riporta le parole dell'allenatore come segnale della difficoltà dell'imminente sfida.",
+  "z1fdb33b4": "Defimedia segnala l'urgenza della convocazione senza anticipare i contenuti del messaggio.",
+  "z8dd89886": "Panamá América presenta la misura come un alleggerimento burocratico a favore dei governi locali."
  },
  "contesti": {
   "z2995a5a1": "Nei giorni scorsi il presidente statunitense Donald Trump ha annunciato un'intesa di tregua limitata alle sole infrastrutture energetiche. Tuttavia, lunedì il presidente ucraino Volodymyr Zelensky aveva denunciato il ferimento di sei impianti, contestando l'effettiva volontà russa di rispettare lo stop agli attacchi prima della tregua parziale registrata martedì.",
@@ -22210,6 +22359,48 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "Kyrgyzstan"
    ],
    "pt": []
+  },
+  "z85661409": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z99a47fcb": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zcf5ccae2": {
+   "n": "Ibanda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z5e6022cb": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1fdb33b4": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z8dd89886": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -22806,7 +22997,13 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "za879e586": 1,
   "zf967d3f9": 1,
   "z893faa41": 1,
-  "z6a73c68c": 1
+  "z6a73c68c": 1,
+  "z85661409": 1,
+  "z99a47fcb": 1,
+  "zcf5ccae2": 1,
+  "z5e6022cb": 1,
+  "z1fdb33b4": 1,
+  "z8dd89886": 1
  },
  "video": {},
  "pillole": []
