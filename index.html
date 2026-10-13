@@ -111,6 +111,13 @@ section.sec.goodsec>h2{border-color:var(--good);color:var(--good)}
 .prisma{margin-top:14px;border-top:1px solid var(--rule);padding-top:8px}
 .prisma h4{font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;margin:0 0 6px;color:var(--accent)}
 .prisma .v{font-size:14px;margin:0 0 8px;padding-left:10px;border-left:3px solid var(--xx)}
+.confronto .diverg{margin:10px 0 0;padding:8px 12px;border-left:4px solid var(--accent);background:color-mix(in srgb,var(--accent) 7%,transparent)}
+.confronto .diverg b{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.confronto .diverg p,.confronto .nodiv{font-size:14px;margin:4px 0 0}
+.confronto .nodiv{color:var(--muted,#666);font-style:italic}
+.confronto .base-cf{font:11px var(--sans);color:var(--muted,#666)}
+.confronto .avviso-cf{margin-top:10px;padding:8px 12px;border:1px dashed var(--rule);font:12px/1.5 var(--sans);color:var(--muted,#666)}
+.confronto .avviso-cf b{display:block;margin-bottom:2px}
 .prisma .v b{font:600 11px var(--sans);letter-spacing:.05em;text-transform:uppercase}
 .v.p-UK{border-color:var(--uk)} .v.p-US{border-color:var(--us)} .v.p-IT{border-color:var(--it)} .v.p-DE{border-color:var(--de)} .v.p-QA{border-color:var(--qa)}
 .foot{display:none;margin-top:12px;font:12.5px/1.5 var(--sans);color:var(--muted);border-top:1px solid var(--hair);padding-top:8px}
@@ -859,7 +866,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 <script>
 /* ===== DATI DELL'EDIZIONE ===== */
 let SERA_N = 0;                 // notizie aggiunte dall'aggiornamento serale all'edizione del mattino
-let EDIZIONE = "", K = "", TIPO = "mattino", NEWS = [], QUIZ = [], SGUARDI = {}, CONTESTI = {}, CRONO = {}, LUOGHI = {}, RILIEVO = {}, VIDEO_IT = {};
+let EDIZIONE = "", K = "", TIPO = "mattino", NEWS = [], QUIZ = [], SGUARDI = {}, CONTESTI = {}, CRONO = {}, CONFRONTI = {}, LUOGHI = {}, RILIEVO = {}, VIDEO_IT = {};
 const PAESI = {
   UK:{nome:"Regno Unito"}, US:{nome:"Stati Uniti"}, IT:{nome:"Italia"}, DE:{nome:"Germania"}, QA:{nome:"Qatar"}, JP:{nome:"Giappone"}, INT:{nome:"Internazionale"},
   FR:{nome:"Francia"}, ES:{nome:"Spagna"}, AT:{nome:"Austria"}, RU:{nome:"Russia"}, UA:{nome:"Ucraina"}, KR:{nome:"Corea del Sud"}, IE:{nome:"Irlanda"},
@@ -1042,7 +1049,9 @@ function cardHTML(n){
   const f0 = fa[0]||n.fonti[0], p = f0.p;
   const multi = fa.length>1;
   const nPaese = PAESI[p]?PAESI[p].nome:f0.c;
-  const prisma = multi ? `<div class="prisma"><h4>Sguardi a confronto</h4>${fa.filter(x=>x.angolo).map(x=>`<p class="v p-${x.p}" style="border-color:${coloreP(x.p)}"><b>${esc(x.n)} · ${esc(x.c)}</b><br>${esc(x.angolo)}</p>`).join("")}</div>` : "";
+  const CF = CONFRONTI[n.id];
+  const confronto = CF && CF.voci && CF.voci.length ? `<div class="prisma confronto"><h4>Sguardi a confronto</h4>${CF.voci.map(x=>`<p class="v p-${x.p}" style="border-color:${coloreP(x.p)}"><b>${esc(x.n)} · ${esc(x.c)}</b><br>${esc(x.t)}${x.b?`<br><span class="base-cf">${x.b==="a"?"Letto l'articolo":"Solo titolo e occhiello"}</span>`:""}</p>`).join("")}${CF.divergono?`<div class="diverg"><b>Dove divergono · possibili contraddizioni</b><p>${esc(CF.divergono)}</p></div>`:`<p class="nodiv">Dai titoli e dagli occhielli non emergono differenze di fatti o di lettura.</p>`}<div class="avviso-cf"><b>ⓘ Come è fatto questo confronto</b> Lo scrive in automatico un modello di intelligenza artificiale. Per ogni testata scarica il testo dell'articolo, lo legge nella lingua originale e lo traduce, poi mette a confronto cosa racconta ciascuna. Dove l'articolo non è accessibile (abbonamento o blocco del sito) usa solo titolo e occhiello, e lo indica sotto ogni voce. Non verifica i fatti: riporta ciò che le testate scrivono. Può cogliere male un tono, perdere sfumature, tradurre in modo impreciso o leggere solo una parte di un articolo a pagamento. Non è un giudizio su chi ha ragione. Per farti una tua idea leggi direttamente le notizie con i pulsanti «Originale» e «Leggi tradotto» qui sotto.</div></div>` : "";
+  const prisma = confronto ? confronto : multi ? `<div class="prisma"><h4>Sguardi a confronto</h4>${fa.filter(x=>x.angolo).map(x=>`<p class="v p-${x.p}" style="border-color:${coloreP(x.p)}"><b>${esc(x.n)} · ${esc(x.c)}</b><br>${esc(x.angolo)}</p>`).join("")}</div>` : "";
   const acts = fa.map(x=>{
     const it = x.p==="IT";
     return `<a class="btn" href="${x.u}" target="_blank" rel="noopener">Originale · ${esc(x.n)}</a>` + (it?"":` <a class="btn" href="${tradotto(x.u)}" target="_blank" rel="noopener">Leggi tradotto</a>`);
@@ -1892,13 +1901,13 @@ function initRiduci(){
 /* ===== ARCHIVIO ===== */
 function apri(k){
   const e = window.EDIZIONI && window.EDIZIONI[k]; if(!e) return;
-  K = k; EDIZIONE = k.slice(0,10); TIPO = e.tipo||"mattino"; NEWS = e.news||[]; QUIZ = e.quiz||[]; SGUARDI = e.sguardi||{}; CONTESTI = e.contesti||{}; CRONO = e.cronologie||{}; LUOGHI = e.luoghi||{}; RILIEVO = e.rilievo||{}; VIDEO_IT = e.video||{}; PILLOLE = e.pillole||[];
+  K = k; EDIZIONE = k.slice(0,10); TIPO = e.tipo||"mattino"; NEWS = e.news||[]; QUIZ = e.quiz||[]; SGUARDI = e.sguardi||{}; CONTESTI = e.contesti||{}; CRONO = e.cronologie||{}; CONFRONTI = e.confronti||{}; LUOGHI = e.luoghi||{}; RILIEVO = e.rilievo||{}; VIDEO_IT = e.video||{}; PILLOLE = e.pillole||[];
   /* l'edizione serale non è un numero a parte: le sue notizie si AGGIUNGONO a quella del mattino, con l'etichetta «aggiunta della sera» */
   const s = TIPO!=="sera" ? window.EDIZIONI[k+"-sera"] : null; SERA_N = 0;
   if(s){
     const ids = new Set(NEWS.map(n=>n.id)), nuove = (s.news||[]).filter(n=>!ids.has(n.id)).map(n=>Object.assign({}, n, {sera:true}));
     SERA_N = nuove.length; NEWS = NEWS.concat(nuove);
-    SGUARDI = Object.assign({}, s.sguardi||{}, SGUARDI); CONTESTI = Object.assign({}, s.contesti||{}, CONTESTI); CRONO = Object.assign({}, s.cronologie||{}, CRONO);
+    SGUARDI = Object.assign({}, s.sguardi||{}, SGUARDI); CONTESTI = Object.assign({}, s.contesti||{}, CONTESTI); CRONO = Object.assign({}, s.cronologie||{}, CRONO); CONFRONTI = Object.assign({}, s.confronti||{}, CONFRONTI);
     LUOGHI = Object.assign({}, s.luoghi||{}, LUOGHI); RILIEVO = Object.assign({}, s.rilievo||{}, RILIEVO);
   }
   filtroPaese = null; query = ""; $("#q").value = "";
@@ -1917,11 +1926,13 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261013-1116";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261013-1436";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
+let AGG_DATI = "";               // «agg» di dati/stato.js al momento in cui la pagina ha caricato le edizioni: il pulsante «Cerca aggiornamento» lo confronta con quello online
 async function avvia(){
+  await aggiornaStato(); AGG_DATI = (window.STATO||{}).agg||"";
   await carica("mappa.js");
   if(window.MAPPA){
     $("#paesiG").innerHTML = Object.entries(window.MAPPA.paesi).map(([n,d])=>`<path data-n="${n}" d="${d}"><title>${n}</title></path>`).join("");
@@ -2133,7 +2144,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261013-1116";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261013-1436";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
@@ -2170,7 +2181,12 @@ $("#aggiorna").addEventListener("click", async ()=>{
       out.textContent = "Trovato l'aggiornamento " + nuova + ": lo installo…";
       try{ for(const reg of await navigator.serviceWorker.getRegistrations()) await reg.unregister(); for(const k of await caches.keys()) await caches.delete(k); }catch(e){}
       setTimeout(()=>location.reload(), 600);
-    } else out.textContent = "Sei già aggiornato (versione " + VERSIONE + ", " + BUILD + ").";
+    } else {                                           // stessa versione del programma: si controlla se ci sono NOTIZIE nuove (13/10: l'uscita delle 13 non cambia la versione e restava invisibile)
+      const rs = await fetch("dati/stato.js?cb=" + Date.now(), {cache:"no-store"});
+      const ms = (await rs.text()).match(/"agg":\s*"([^"]*)"/), agg = ms ? ms[1] : "";
+      if(agg && AGG_DATI && agg !== AGG_DATI){ out.textContent = "Ci sono notizie nuove: le carico…"; setTimeout(()=>location.reload(), 400); }
+      else out.textContent = "Sei già aggiornato (versione " + VERSIONE + ", " + BUILD + ").";
+    }
   }catch(e){ out.textContent = "Nessuna connessione: resta la copia salvata sul telefono."; }
 });
 /* ===== NOVITÀ E CARATTERISTICHE DEL PROGETTO, in pillole ===== */
