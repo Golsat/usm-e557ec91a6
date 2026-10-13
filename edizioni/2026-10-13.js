@@ -21987,6 +21987,67 @@ window.EDIZIONI["2026-10-13"] = {
     }
    ],
    "divergono": "Le cifre sul passaggio di frontiera variano: Deutsche Welle indica circa 70.000 persone e oltre 140 morti; El País (cronaca) scrive circa 80.000, la diretta riporta da Vivas «quasi 100.000» e 141 vite, ma 90 sepolti nel cimitero. Deutsche Welle è l'unica a riportare accuse di brutalità della polizia spagnola e le dichiarazioni di Sánchez sulla disinformazione, mentre le testate spagnole privilegiano il discorso del Re e l'accoglienza. El Mundo definisce il discorso un avvertimento al Marocco e insiste sulle contestazioni al governo e sull'assenza di Sánchez; El País riferisce il silenzio ufficiale di Rabat e la definizione di viaggio «storico» data dal governo."
+  },
+  "z4c8a7b76": {
+   "voci": [
+    {
+     "n": "PBS NewsHour",
+     "c": "Arlington",
+     "p": "US",
+     "t": "La voce degli Stati Uniti (pubblica) riferisce le dimissioni dell'ambasciatrice Kimberly Guilfoyle dopo le accuse del «Wall Street Journal». Cita la portavoce Katie Zacharia e le reazioni del Congresso, delineando un resoconto puramente informativo e neutrale.",
+     "b": "a"
+    },
+    {
+     "n": "The Globe and Mail",
+     "c": "Toronto",
+     "p": "XX",
+     "t": "La testata canadese riporta le dimissioni di Guilfoyle e le accuse del «Wall Street Journal», menzionando la reazione di Donald Trump e la difesa legale. L'articolo adotta un tono neutro e puramente informativo.",
+     "b": "a"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "c": "Sydney",
+     "p": "XX",
+     "t": "Il quotidiano australiano racconta le dimissioni dell'ambasciatrice citando la Casa Bianca e il segretario di Stato Marco Rubio. La narrazione è puramente informativa e descrittiva.",
+     "b": "a"
+    },
+    {
+     "n": "ORF",
+     "c": "Vienna",
+     "p": "XX",
+     "t": "La voce dell'Austria (pubblica) dettaglia le accuse e ripercorre la carriera di Guilfoyle, citando le inchieste del «Wall Street Journal» e della «Daily Mail». L'articolo si mantiene su un piano informativo e descrittivo.",
+     "b": "a"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "c": "Monaco",
+     "p": "DE",
+     "t": "Il quotidiano tedesco offre un resoconto parziale basato esclusivamente su titolo e occhiello, incentrato sulle accuse di scambio di favori. Il giudizio è limitato.",
+     "b": "t"
+    },
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La voce dell'Italia (pubblica) fornisce un quadro parziale limitato a titolo e occhiello sulle dimissioni chieste dalla Casa Bianca. Il giudizio è parziale.",
+     "b": "t"
+    },
+    {
+     "n": "Keep Talking Greece",
+     "c": "Atene",
+     "p": "XX",
+     "t": "La testata greca indipendente riporta le dimissioni e l'addio di Guilfoyle, evidenziando il silenzio del governo locale. L'articolo adotta un tono descrittivo e cronachistico.",
+     "b": "a"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "L'agenzia italiana riferisce le dimissioni e la smentita di Guilfoyle, citando le rivelazioni del «Wall Street Journal» sui viaggi di lusso finanziati da magnati. La notizia è puramente informativa.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate concordano sostanzialmente sulla dinamica delle dimissioni di Kimberly Guilfoyle e sulle accuse pubblicate dal Wall Street Journal. Tuttavia, alcune testate come ORF e ANSA inseriscono dettagli specifici sui nomi dei magnati greci (Alexandros Exarchou e Nikolas Tsakos) o sui presunti viaggi di lusso a Parigi e Davos, mentre testate come PBS NewsHour, The Globe and Mail e Sydney Morning Herald si concentrano maggiormente sulle dichiarazioni istituzionali della Casa Bianca, del segretario Marco Rubio e sulle reazioni del Congresso statunitense. La testata Keep Talking Greece pone particolare enfasi sull'assenza di commenti ufficiali da parte del governo ellenico e sull'ironia dell'opinione pubblica locale."
   }
  },
  "luoghi": {
