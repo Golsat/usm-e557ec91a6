@@ -3,6 +3,1501 @@ window.EDIZIONI["2026-10-13-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z9eb9d496",
+   "sez": "mondo",
+   "titolo": "In Burkina Faso un formatore promuove il giornalismo di soluzioni contro la disinformazione",
+   "orig": "Burkina/Journalisme de solutions : « Il peut nous aider à lutter contre l'infodémie », pense Moussa Sawadogo, enseignant et formateur",
+   "lead": "A Ouagadougou, il docente e formatore in scienze e tecniche dell'informazione e della comunicazione Moussa Sawadogo sostiene che il giornalismo di soluzioni può aiutare a contrastare l'infodemia nel Burkina Faso, Paese segnato da numerosi problemi. Secondo questo approccio, il ruolo del giornalista non dovrebbe limitarsi a denunciare le difficoltà, ma estendersi anche all'esame delle risposte concrete che vengono messe in campo per affrontarle. Sawadogo precisa però che, pur distinguendosi dal giornalismo tradizionale, questo metodo richiede attenzione e rigore nella sua applicazione pratica. Lo riferisce Lefaso.net.",
+   "more": [
+    "Il giornalismo di soluzioni è un approccio che, accanto alla denuncia dei problemi sociali, analizza criticamente le risposte e le iniziative messe in campo per risolverli, con l'obiettivo di offrire al pubblico un'informazione più completa e costruttiva."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article149938",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-13T13:45+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z5849779f",
+   "sez": "mondo",
+   "titolo": "Il presidente togolese Faure Gnassingbé in visita a Pechino per rafforzare la cooperazione bilaterale",
+   "orig": "Chine-Togo : Faure Gnassingbé à Beijing pour dynamiser la coopération bilatérale",
+   "lead": "Faure Gnassingbé, presidente del Consiglio del Togo, è in visita ufficiale in Cina dal 9 al 16 ottobre 2026, con l'obiettivo di dinamizzare la cooperazione bilaterale tra i due Paesi. La visita si inserisce nel quadro dei rapporti diplomatici ed economici che il Togo intrattiene con Pechino. Lo riferisce Seneweb.",
+   "more": [
+    "Il Togo, piccolo Stato dell'Africa occidentale affacciato sul Golfo di Guinea, intrattiene da anni relazioni economiche e diplomatiche con la Cina, che è tra i principali partner commerciali e finanziatori di infrastrutture per diversi Paesi africani."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Diplomatie/chine-togo-faure-gnassingbe-a-beijing-pour-dynamiser-la-cooperation-bilaterale_n_999000549.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-13T15:05+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z6cea0b9a",
+   "sez": "mondo",
+   "titolo": "Ciad, lanciata a Pala la 27esima Festa nazionale della gioventù",
+   "orig": "Tchad : la 27ᵉ édition de la Fête nationale de la jeunesse lancée à Pala",
+   "lead": "Il primo ministro ciadiano Allah Maye Halina ha lanciato martedì 13 ottobre 2026 a Pala la 27esima edizione della Festa nazionale della gioventù. L'evento, posto sotto il tema \"Gioventù ciadiana: valorizziamo i nostri talenti, facciamo sentire le nostre voci e costruiamo il futuro\", riunisce giovani provenienti dalle diverse province del Ciad. Lo riferisce Tchadinfos.",
+   "more": [
+    "La Festa nazionale della gioventù è un appuntamento istituzionale che il Ciad dedica ogni anno a valorizzare il contributo delle nuove generazioni allo sviluppo del Paese, attraverso incontri, manifestazioni e momenti di confronto tra giovani di diverse regioni."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/13/tchad-la-27%e1%b5%89-edition-de-la-fete-nationale-de-la-jeunesse-lancee-a-pala/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-13T15:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z3a34ec8d",
+   "sez": "mondo",
+   "titolo": "Guinea, trasmesso il fascicolo finale di 4.535 insegnanti contrattuali da regolarizzare",
+   "orig": "Régularisation des contractuels: « Nous avons transmis le fichier final de 4535 enseignants » (M’Bany Kany Sangaré)",
+   "lead": "A Conakry prosegue il processo di integrazione degli insegnanti contrattuali comunali non ancora regolarizzati. Lunedì la commissione incaricata del loro reclutamento, accompagnata dai rappresentanti dei docenti, è stata ricevuta al ministero dell'Amministrazione del territorio e della decentralizzazione. Secondo quanto riferito da M'Bany Kany Sangaré, membro della commissione, è stato trasmesso il fascicolo finale riguardante 4.535 insegnanti. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/regularisation-des-contractuels-nous-avons-transmis-le-fichier-final-de-4535-enseignants-mbany-kany-sangare/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-13T14:23+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z40e67efd",
+   "sez": "mondo",
+   "titolo": "Il Rwanda esprime sostegno agli sforzi antiterrorismo dell'Alleanza degli Stati del Sahel",
+   "orig": "AES : le Rwanda exprime son soutien aux efforts contre le terrorisme",
+   "lead": "Lunedì 12 ottobre il Rwanda ha espresso il proprio sostegno alla lotta contro il terrorismo condotta dai tre membri dell'Alleanza degli Stati del Sahel (AES): Mali, Burkina Faso e Niger. Da diversi anni questi tre Paesi conducono una lotta intensa contro i gruppi armati terroristici, mettendo in campo meccanismi innovativi per contrastare la minaccia. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "L'Alleanza degli Stati del Sahel riunisce Mali, Burkina Faso e Niger, Paesi guidati da governi militari che hanno preso le distanze dalla Francia e dalle organizzazioni regionali tradizionali per affrontare insieme l'instabilità e la minaccia jihadista nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/aes-le-rwanda-exprime-son-soutien-aux-efforts-contre-le-terrorisme/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-13T15:11+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z9f91997f",
+   "sez": "economia",
+   "titolo": "Raffineria Dangote: prorogata al 27 ottobre l'IPO da 2,1 miliardi di dollari",
+   "orig": "Raffinerie Dangote : l'IPO à 2,1 milliards de dollars prolongée, ce qu'il faut savoir",
+   "lead": "La raffineria di Dangote beneficia di una proroga fino al 27 ottobre 2026 per la propria quotazione in Borsa, inizialmente prevista per il 13 ottobre. L'operazione, approvata dalla Securities and Exchange Commission, suscita l'interesse di investitori anche al di fuori della Nigeria. La sottoscrizione per l'introduzione in Borsa di Dangote Petroleum Refinery resta quindi aperta per altre due settimane rispetto al calendario originario. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "La raffineria Dangote, situata in Nigeria, è uno dei maggiori impianti di raffinazione petrolifera al mondo, realizzato dal miliardario nigeriano Aliko Dangote con l'obiettivo di ridurre la dipendenza del continente africano dall'importazione di prodotti petroliferi raffinati."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/raffinerie-dangote-lipo-a-21-milliards-de-dollars-prolongee-ce-quil-faut-savoir/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-13T13:58+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zf4ab47ad",
+   "sez": "mondo",
+   "titolo": "Benin, il casello autostradale di Kétou apre il 19 ottobre: ecco le tariffe",
+   "orig": "Bénin : le péage de Kétou ouvre le 19 octobre, voici les tarifs",
+   "lead": "Il casello di pedaggio di Kétou, situato sulla strada nazionale 26 in Benin, entrerà in funzione lunedì 19 ottobre 2026. Secondo il quotidiano pubblico La Nation, gli automobilisti dovranno pagare tra 1.000 e 18.000 franchi CFA a seconda della categoria del veicolo. L'infrastruttura si trova sull'asse Kétou–Idigny. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-le-peage-de-ketou-ouvre-le-19-octobre-voici-les-tarifs/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-13T13:15+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z44e1908a",
+   "sez": "mondo",
+   "titolo": "Guinea, il governo spiega la strategia dietro la nuova Scuola di Guerra",
+   "orig": "Guinée : Bah Oury décline la vision stratégique derrière l’École de Guerre",
+   "lead": "A Conakry il governo guineano ha ribadito la volontà di rafforzare la sovranità in materia di sicurezza del Paese. Presiedendo lunedì 12 ottobre 2026 l'apertura della prima promozione della Scuola di Guerra della Guinea, il vicepresidente Amadou Oury Bah ha sottolineato l'importanza di questo nuovo strumento nell'attuale contesto geopolitico, tornando sugli obiettivi strategici che ne hanno motivato la creazione. Lo riferisce Africaguinee.",
+   "more": [
+    "Una scuola di guerra è un istituto di formazione superiore per ufficiali militari, destinato a sviluppare competenze strategiche e di comando, spesso legato al rafforzamento dell'autonomia difensiva e della sovranità nazionale di un Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/guinee-bah-oury-decline-la-vision-strategique-derriere-lecole-de-guerre/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-13T14:48+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z698834ff",
+   "sez": "ambiente",
+   "titolo": "Niger, pozzo petrolifero in eruzione da tre settimane nel deserto di Agadem: allarme ecologisti",
+   "orig": "ENERGIE – Il pleut du pétrole dans le désert d’Agadem au Niger, les écologistes s’inquiètent",
+   "lead": "Nel deserto di Agadem, in Niger, un pozzo petrolifero sta sversando greggio da quasi tre settimane. Immagini diffuse lunedì sera dalla televisione nazionale mostrano il petrolio fuoriuscire con forza, mentre una marea nera si estende per centinaia di metri. Lo stesso ministero nigerino del Petrolio ha definito la situazione un incidente ambientale di grande portata. Gli ecologisti esprimono forte preoccupazione per le conseguenze sull'ecosistema desertico. Lo riferisce 2424.mg.",
+   "more": [
+    "Agadem è una delle principali aree petrolifere del Niger, Paese dell'Africa occidentale che negli ultimi anni ha puntato sullo sfruttamento delle proprie risorse petrolifere come leva di sviluppo economico, non senza criticità ambientali e di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/energie-il-pleut-du-petrole-dans-le-desert-dagadem-au-niger-les-ecologistes-sinquietent/",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-13T14:49+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zead4b1d5",
+   "sez": "mondo",
+   "titolo": "Madagascar, rilevati E. coli e muffe negli alimenti che hanno intossicato 291 dipendenti",
+   "orig": "E. coli et des moisissures détectés dans des échantillons d’aliments consommés par les 291 employés d’une entreprise privée victimes d’une intoxication.",
+   "lead": "Due dei quattro campioni alimentari prelevati sono risultati contaminati e quindi impropri al consumo. Lo riferisce 2424.mg.",
+   "more": [
+    "Escherichia coli è un batterio normalmente presente nell'intestino, ma alcuni ceppi possono causare intossicazioni alimentari anche gravi se presenti in cibi contaminati; la presenza di muffe oltre i limiti indica condizioni igieniche o di conservazione inadeguate degli alimenti."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/e-coli-et-des-moisissures-detectes-dans-des-echantillons-daliments-consommes-par-les-291-employes-dune-entreprise-privee-victimes-dune-intoxication/",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-13T14:35+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z219f9846",
+   "sez": "mondo",
+   "titolo": "Crollano del 59% gli arrivi di migranti dall'Africa occidentale in Europa",
+   "orig": "Chegadas de migrantes da África Ocidental à Europa caem 59%",
+   "lead": "Gli arrivi via mare di migranti provenienti dall'Africa occidentale verso l'Europa sono diminuiti del 59% nel primo semestre 2026 rispetto allo stesso periodo dell'anno precedente, ha annunciato l'Organizzazione Internazionale per le Migrazioni (OIM). Secondo i nuovi dati sulle rotte migratorie dall'Africa all'Europa, il numero di migranti provenienti dai principali Paesi dell'Africa occidentale - Gambia, Guinea, Mali e Senegal - è calato a causa dell'uso di rotte più lunghe e pericolose, con 4.566 persone arrivate nel continente europeo in questo periodo. L'OIM ha avvertito che il calo non va interpretato come un miglioramento delle condizioni che spingono alla migrazione. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "L'Organizzazione Internazionale per le Migrazioni è l'agenzia delle Nazioni Unite dedicata alla gestione dei flussi migratori globali, che monitora le rotte, assiste i migranti e fornisce dati sui movimenti di persone tra i continenti."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/10/13/chegadas-de-migrantes-da-africa-ocidental-a-europa-caem-59/105071",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-13T15:15+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zc1cbceb0",
+   "sez": "mondo",
+   "titolo": "Il capo dell'MI5: l'Iran tenta di colpire basi militari nel Regno Unito",
+   "orig": "Chefe do MI5 afirma que Irão tenta atacar bases militares no Reino Unido",
+   "lead": "Il direttore del servizio di sicurezza interna britannico MI5, Ken McCallum, ha affermato che l'Iran sta tentando di colpire installazioni militari nel Regno Unito, e che il presunto piano per attaccare una base aerea militare gestita dagli Stati Uniti a settembre \"non è un caso isolato\". McCallum ha dichiarato che Teheran intende intensificare i propri attacchi nel Regno Unito oltre ai tradizionali bersagli, cioè gli oppositori iraniani, tra cui attentati incendiari e sabotaggi contro siti ebraici attribuiti ad alleati dell'Iran. Un altro grande cambiamento di quest'anno è l'ambizione iraniana di colpire obiettivi più difficili. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "L'MI5 è il servizio di sicurezza interna del Regno Unito, incaricato del controspionaggio e della prevenzione di minacce terroristiche sul territorio nazionale, comprese quelle legate a Stati stranieri come l'Iran."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/10/13/chefe-do-mi5-afirma-que-irao-tenta-atacar-bases-militares-no-reino-unido/105072",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-13T15:15+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zb280bf4e",
+   "sez": "mondo",
+   "titolo": "Capo Verde chiede all'OIL la continuità del sostegno tecnico",
+   "orig": "Governo pede à OIT continuidade do apoio técnico a Cabo Verde",
+   "lead": "Il ministero della Famiglia, Inclusione, Sviluppo Sociale e Lavoro di Capo Verde ha riferito che la ministra Adélsia Almeida ha chiesto all'Organizzazione Internazionale del Lavoro (OIL) la continuità dell'assistenza tecnica al Paese, in vista del consolidamento dei progressi nell'amministrazione e nell'ispezione del lavoro e del rafforzamento delle politiche del lavoro. La richiesta è stata presentata durante un incontro a Ginevra con il direttore generale dell'OIL, Gilbert F. Houngbo, nell'ambito di una missione ufficiale della ministra in Svizzera, in corso dal 12 al 16 ottobre. La ministra ha ringraziato l'organizzazione per il sostegno fornito. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "L'Organizzazione Internazionale del Lavoro è l'agenzia delle Nazioni Unite che promuove standard lavorativi equi a livello globale, fornendo assistenza tecnica ai governi per migliorare legislazione, ispezione e politiche del lavoro."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/13/governo-pede-a-oit-continuidade-do-apoio-tecnico-a-cabo-verde/105070",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-13T13:20+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z22e81931",
+   "sez": "cultura",
+   "titolo": "Tunisia, 66 case editrici animano la Fiera del libro con lo slogan \"Leggi, la vita splende\"",
+   "orig": "'اقرأ، الحياة تشرق'.. 66 دار نشر تعيد الحياة إلى معرض الكتاب التونسي",
+   "lead": "La Fiera del libro tunisina torna con la partecipazione di 66 case editrici, riunite sotto lo slogan \"Leggi, la vita splende\". L'evento punta a rilanciare l'interesse per la lettura e il settore editoriale nel Paese. Lo riferisce Mosaïque FM.",
+   "more": [
+    "Le fiere del libro sono eventi culturali che riuniscono editori, autori e lettori per promuovere la produzione editoriale nazionale e internazionale, spesso accompagnati da presentazioni, incontri con autori e dibattiti culturali."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533350/%D8%A7%D9%82%D8%B1%D8%A3-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%AA%D8%B4%D8%B1%D9%82-66-%D8%AF%D8%A7%D8%B1-%D9%86%D8%B4%D8%B1-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A5%D9%84%D9%89-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-13T15:47+01:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0cc38d79",
+   "sez": "mondo",
+   "titolo": "RDC, Kabuya su Kabila: \"Finirà come Savimbi\"",
+   "orig": "Augustin Kabuya sur Joseph Kabila : « Il finira comme Savimbi »",
+   "lead": "Il segretario generale dell'UDPS, Augustin Kabuya, ha reagito duramente alla notizia che l'ex presidente congolese Joseph Kabila ha assunto la direzione del Fronte per la rifondazione della nazione (FRN) da Goma, nel Nord Kivu, affermando che Kabila \"finirà come Savimbi\". Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/13/augustin-kabuya-sur-joseph-kabila-il-finira-comme-savimbi",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-13T14:39+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zf650e324",
+   "sez": "mondo",
+   "titolo": "RDC, miliziani non disarmati impongono tasse agli agricoltori a Kwamouth",
+   "orig": "Kwamouth : des miliciens réfractaires au désarmement imposent des taxes aux agriculteurs",
+   "lead": "A Kwamouth, nella Repubblica Democratica del Congo, miliziani che si rifiutano di disarmarsi impongono tasse agli agricoltori locali, costringendoli a pagare prima di poter accedere ai propri campi. Lo riferisce Actualite.cd.",
+   "more": [
+    "Kwamouth è un territorio della Repubblica Democratica del Congo che negli ultimi anni è stato teatro di violenze legate a conflitti tra milizie locali, in un contesto di difficoltà del processo di disarmo dei gruppi armati nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/13/kwamouth-des-miliciens-refractaires-au-desarmement-imposent-des-taxes-aux-agriculteurs",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-13T14:22+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z830b75dd",
+   "sez": "mondo",
+   "titolo": "Haiti, l'Unesco presenta il bilancio del progetto di sostegno alla creazione artistica",
+   "orig": "iciHaïti - UNESCO : Soirée de restitution du projet d'appui à la création artistique",
+   "lead": "L'ufficio dell'Unesco in Haiti ha organizzato una serata di restituzione presso l'Hotel Royal Oasis di Pétion-Ville per presentare i risultati del progetto di sostegno alla creazione artistica, finanziato dal Fondo d'urgenza per il patrimonio dell'Unesco. L'iniziativa rientra negli sforzi dell'organizzazione internazionale per sostenere gli artisti e il settore culturale haitiano, colpito negli ultimi anni da crisi politiche e sicurezza precaria. Durante l'evento sono stati illustrati gli interventi realizzati grazie al finanziamento di emergenza destinato alla tutela del patrimonio culturale del Paese caraibico. Lo riferisce Haïti Libre.",
+   "more": [
+    "Il Fondo d'urgenza per il patrimonio dell'Unesco sostiene progetti culturali in Paesi colpiti da crisi, calamità o conflitti, con l'obiettivo di preservare il patrimonio artistico e sostenere le comunità creative locali anche in condizioni difficili."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48655-icihaiti-unesco-soiree-de-restitution-du-projet-d-appui-a-la-creation-artistique.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-13T10:19-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zbf384cc8",
+   "sez": "mondo",
+   "titolo": "Haiti rivede il piano nazionale per l'uguaglianza tra uomini e donne 2026-2031",
+   "orig": "Haïti - Politique : Révision et élaboration du nouveau Plan d'Action National d'Égalité Femmes-Hommes (2026-2031)",
+   "lead": "Giovedì 8 ottobre 2026 il Ministero della Condizione Femminile e dei Diritti della Donna di Haiti ha ospitato un incontro dedicato al rilancio del Tavolo Tematico Genere/Ovest e all'elaborazione del nuovo Piano d'Azione Nazionale per l'Uguaglianza tra Uomini e Donne per il periodo 2026-2031. L'incontro ha riunito attori istituzionali e della società civile impegnati nella promozione delle pari opportunità. L'obiettivo dichiarato è aggiornare la strategia nazionale di genere tenendo conto del contesto attuale del Paese. Lo riferisce Haïti Libre.",
+   "more": [
+    "Il Piano d'Azione Nazionale per l'Uguaglianza tra Uomini e Donne è lo strumento con cui i governi definiscono obiettivi e politiche per ridurre le disuguaglianze di genere in ambiti come istruzione, lavoro, salute e partecipazione politica."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48654-haiti-politique-revision-et-elaboration-du-nouveau-plan-d-action-national-d-egalite-femmes-hommes-2026-2031.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-13T10:14-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z8f8dabd2",
+   "sez": "mondo",
+   "titolo": "Haiti, iniziativa per favorire la partecipazione delle donne alla vita pubblica e al voto",
+   "orig": "iciHaïti - Politique : Implication des femmes dans la vie publique et le processus électoral",
+   "lead": "Il Ministero della Condizione Femminile di Haiti ha organizzato un'iniziativa per promuovere l'accesso delle donne alle cariche elettive e rafforzarne la rappresentanza nelle istituzioni pubbliche, nel quadro degli sforzi per il rafforzamento della partecipazione femminile nel processo elettorale in corso nel Paese. L'evento si inserisce negli sforzi più ampi del ministero per incoraggiare la presenza femminile nella vita politica haitiana, in un momento in cui il Paese si avvia verso nuove tappe elettorali. Lo riferisce Haïti Libre.",
+   "more": [
+    "La sottorappresentazione femminile nelle cariche elettive resta un tema diffuso in molti Paesi; iniziative di formazione e sensibilizzazione mirano a colmare il divario di genere nella rappresentanza politica e istituzionale."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48653-icihaiti-politique-implication-des-femmes-dans-la-vie-publique-et-le-processus-electoral.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-13T10:03-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z6a46bd09",
+   "sez": "mondo",
+   "titolo": "Haiti, formazione per una cinquantina di ispettori scolastici a Pétion-Ville",
+   "orig": "Haïti - Éducation : Formation continue d'une cinquantaine d'Inspecteurs scolaires",
+   "lead": "Venerdì 9 ottobre 2026 il Ministero dell'Educazione Nazionale di Haiti, tramite la Direzione dipartimentale dell'Educazione dell'Ovest, ha organizzato a Pétion-Ville una sessione di formazione continua rivolta a circa cinquanta ispettori scolastici. L'iniziativa fa parte degli sforzi del ministero per aggiornare le competenze del personale di controllo e supervisione del sistema scolastico haitiano. Non sono stati forniti ulteriori dettagli sui contenuti specifici della formazione. Lo riferisce Haïti Libre.",
+   "more": [
+    "Gli ispettori scolastici svolgono un ruolo di controllo e supporto nelle scuole, verificando la qualità dell'insegnamento e il rispetto dei programmi ministeriali: la loro formazione continua è considerata strumento chiave per migliorare il sistema educativo."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48652-haiti-education-formation-continue-d-une-cinquantaine-d-inspecteurs-scolaires.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-13T09:41-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zd062940d",
+   "sez": "mondo",
+   "titolo": "Haiti, al via la selezione delle nuove reclute delle forze armate per Sud, Nord e Centro",
+   "orig": "iciHaïti - FAd'H : Sélection des prochaines recrues des FAd'H pour le Sud, Nord et Centre",
+   "lead": "Lunedì 12 ottobre 2026 è iniziata ufficialmente la selezione per la prossima promozione di reclute delle Forze Armate di Haiti (FAd'H), a partire dai candidati del Grand Sud, provenienti dai dipartimenti del Sud, del Sud-Est e della Grand'Anse. Il processo di selezione, che riguarderà anche le regioni del Nord e del Centro, mira a costituire la nuova generazione di militari dell'esercito haitiano. Non sono stati precisati i criteri specifici di selezione né il numero totale di posti disponibili. Lo riferisce Haïti Libre.",
+   "more": [
+    "Le Forze Armate di Haiti (FAd'H) sono state ricostituite negli ultimi anni dopo un lungo periodo di smobilitazione, nel tentativo di rafforzare la sicurezza interna del Paese caraibico, alle prese da tempo con instabilità politica e violenza delle bande armate."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48651-icihaiti-fad-h-selection-des-prochaines-recrues-des-fad-h-pour-le-sud-nord-et-centre.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-13T09:25-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zce56b6c3",
+   "sez": "mondo",
+   "titolo": "Suriname, tra Stati Uniti e Cina: mezzo secolo di relazioni con Pechino",
+   "orig": "Tussen Amerika en China",
+   "lead": "Il quotidiano De Ware Tijd analizza i cinquant'anni di relazioni diplomatiche tra Suriname e Cina, descrivendole come un legame prezioso che ha portato al piccolo Paese sudamericano conoscenze, competenze ed effettivo sostegno finanziario per opere infrastrutturali, innovazione tecnologica e aiuti d'emergenza, compreso il supporto ricevuto durante la pandemia di Covid-19. L'articolo si interroga sulla posizione del Suriname tra le due grandi potenze, Stati Uniti e Cina, nel contesto geopolitico attuale. Lo riferisce De Ware Tijd.",
+   "more": [
+    "Il Suriname, ex colonia olandese sulla costa settentrionale del Sud America, ha stretto negli ultimi decenni legami economici e diplomatici con la Cina, che ha investito in infrastrutture e cooperazione in diversi Paesi dell'America Latina e dei Caraibi."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/tussen-amerika-en-china/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-13T15:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za29f46c2",
+   "sez": "mondo",
+   "titolo": "Bolivia lancia un programma di formazione docente per l'inclusione scolastica",
+   "orig": "Aulas que incluyen: Bolivia impulsa la formación docente para construir espacios educativos más equitativos",
+   "lead": "Lunedì 12 ottobre il governo boliviano ha lanciato un programma di formazione per insegnanti finalizzato a costruire spazi educativi più equi e inclusivi. L'iniziativa parte dal presupposto che l'inclusione scolastica non dipenda solo dall'accesso di bambine e bambini alla scuola, ma anche dalle opportunità reali di partecipazione, apprendimento e sviluppo delle proprie capacità che trovano una volta dentro le aule. Il programma punta a fornire ai docenti strumenti pratici per affrontare questa sfida nelle scuole del Paese. Lo riferisce Opinión.",
+   "more": [
+    "La formazione dei docenti sull'inclusione scolastica mira a dotare gli insegnanti di competenze per gestire classi eterogenee, comprese quelle con alunni con disabilità o difficoltà di apprendimento, garantendo pari opportunità educative a tutti gli studenti."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/innovacion-educativa/aulas-que-incluyen-bolivia-impulsa-formacion-docente-construir-espacios-educativos-mas-equitativos/20261013102622997541.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-13T10:26-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zce8b9bcc",
+   "sez": "mondo",
+   "titolo": "Bolivia, caso Mariaca: undici perquisizioni fruttano oltre 10 milioni di bolivianos",
+   "orig": "Caso Mariaca: 11 allanamientos dejan más de Bs 10 millones, vehículos y equipos electrónicos",
+   "lead": "La Procura boliviana ha reso noto che nell'ambito del cosiddetto caso Mariaca sono state condotte undici perquisizioni, sette a Santa Cruz e quattro a La Paz, che hanno portato al sequestro di oltre 10 milioni di bolivianos, veicoli e apparecchiature elettroniche. In un immobile riconducibile all'ex procuratore generale sono stati trovati 391.555 dollari statunitensi e 328.200 bolivianos, oltre a una contatrice di banconote. L'operazione rientra in un'indagine su presunte irregolarità legate alla figura dell'ex alto magistrato. Lo riferisce Opinión.",
+   "more": [
+    "Le perquisizioni mirate a beni ed ex funzionari di alto profilo sono spesso parte di indagini su corruzione o arricchimento illecito, strumento con cui le procure cercano prove materiali come contanti, documenti e dispositivi elettronici."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/caso-mariaca-11-allanamientos-dejan-mas-bs-10-millones-vehiculos-equipos-electronicos/20261013094940997537.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-13T09:49-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z40a5f0ed",
+   "sez": "mondo",
+   "titolo": "Bolivia, il governo difende il diritto di protesta ma avverte contro i blocchi stradali",
+   "orig": "Gobierno defiende la protesta, pero advierte que no permitirá bloqueos que vulneren derechos",
+   "lead": "Il portavoce della presidenza boliviana, José Luis Gálvez, ha difeso il diritto alla protesta ma ha avvertito che il governo non permetterà blocchi stradali che violino i diritti di terzi. Gálvez ha affermato che la cittadinanza non vuole ripetere i 53 giorni di conflitto vissuti in passato e ha chiesto che le mobilitazioni rispettino i diritti altrui. Le dichiarazioni arrivano in un contesto di tensione sociale nel Paese, dove le proteste e i blocchi stradali sono stati in passato strumenti ricorrenti di pressione politica. Lo riferisce Opinión.",
+   "more": [
+    "I blocchi stradali sono una forma di protesta diffusa in Bolivia, spesso usata da organizzazioni sociali e sindacali per far pressione sul governo, ma possono paralizzare il trasporto di persone e merci per settimane."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/gobierno-defiende-protesta-advierte-que-permitira-bloqueos-que-vulneren-derechos/20261013092722997534.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-13T09:27-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zb49ef590",
+   "sez": "sport",
+   "titolo": "Amnesty International accusa la Formula 1 di offrire al Ruanda un premio di 'sportswashing'",
+   "orig": "Amnesty accuses F1 of offering Rwanda a 'sportswashing prize' with race deal",
+   "lead": "Amnesty International ha accusato la Formula 1 di concedere al Ruanda un vero e proprio premio di immagine, il cosiddetto 'sportswashing', attraverso l'accordo per l'organizzazione di un Gran Premio nel Paese africano. L'organizzazione per i diritti umani sostiene che l'intesa serva al governo ruandese per ripulire la propria reputazione internazionale, nonostante le criticità denunciate sul fronte dei diritti umani. La notizia arriva mentre il circuito ruandese si prepara a ospitare gare della massima serie motoristica. Lo riferisce CNA.",
+   "more": [
+    "Con 'sportswashing' si indica la pratica di usare grandi eventi sportivi per migliorare l'immagine internazionale di governi accusati di violazioni dei diritti umani, distogliendo l'attenzione pubblica dalle criticità politiche e sociali."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/amnesty-accuses-f1-offering-rwanda-sportswashing-prize-race-deal-6456596",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-13T22:59+08:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0c12cbdb",
+   "sez": "mondo",
+   "titolo": "Il nuovo circuito del Ruanda promette un tracciato veloce e scorrevole",
+   "orig": "Rwanda circuit set to be a fast, flowing roller-coaster",
+   "lead": "Il circuito costruito in Ruanda per ospitare gare motoristiche si preannuncia come un tracciato veloce e scorrevole, descritto come una sorta di ottovolante per la varietà di curve e cambi di ritmo. La pista rientra nell'accordo che porterà competizioni di alto livello nel Paese africano, in un momento in cui il progetto è anche al centro di polemiche sollevate da organizzazioni per i diritti umani. Lo riferisce CNA.",
+   "more": [
+    "La costruzione di nuovi circuiti in Paesi emergenti fa parte della strategia di espansione globale degli sport motoristici, che negli ultimi anni hanno guardato con crescente interesse al continente africano come nuovo mercato."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/rwanda-circuit-set-be-fast-flowing-roller-coaster-6456441",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-13T22:37+08:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z74456aa1",
+   "sez": "sport",
+   "titolo": "Cummins vede nell'Australia la grinta che cercava",
+   "orig": "Cummins sees the grit and determination from Australia he was looking for",
+   "lead": "Il capitano Pat Cummins ha dichiarato di aver riscontrato nella sua squadra la grinta e la determinazione che stava cercando, in vista degli impegni della nazionale australiana di cricket. Le dichiarazioni del capitano arrivano in un momento di preparazione della squadra, con Cummins che sottolinea l'atteggiamento mentale mostrato dai giocatori come elemento chiave per gli obiettivi stagionali. Lo riferisce CNA.",
+   "more": [
+    "Pat Cummins è il capitano della nazionale di cricket australiana, uno degli sport nazionali più seguiti in Australia, dove il rendimento della squadra viene costantemente monitorato da media e tifosi."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/cummins-sees-grit-and-determination-australia-he-was-looking-6456256",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-13T21:35+08:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z54a0ca12",
+   "sez": "mondo",
+   "titolo": "Francia, decine di migliaia di studenti di nuovo in piazza contro i tagli alla scuola",
+   "orig": "Erneut Zehntausende bei Schuldemos in Frankreich",
+   "lead": "In Francia si sono svolte nuove manifestazioni con decine di migliaia di studenti scesi in piazza per protestare contro misure che riguardano il sistema scolastico. Le mobilitazioni si aggiungono a una serie di proteste già registrate nelle settimane precedenti, segno di un malcontento diffuso tra gli studenti francesi. Non sono stati forniti dettagli specifici sulle rivendicazioni espresse in questa nuova giornata di mobilitazione. Lo riferisce ORF.",
+   "more": [
+    "Le proteste studentesche in Francia sono spesso legate a riforme scolastiche, tagli di bilancio all'istruzione o cambiamenti nei programmi, e rappresentano una tradizione consolidata di attivismo giovanile nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3444972/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-13T15:28+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z91764e6e",
+   "sez": "mondo",
+   "titolo": "MI5 avverte: attacchi ibridi rafforzati da Iran e Russia",
+   "orig": "MI5: Verstärkte Hybridangriffe von Iran und Russland",
+   "lead": "Il servizio di sicurezza interna britannico MI5 ha lanciato un allarme sull'intensificarsi degli attacchi ibridi condotti da Iran e Russia contro il Regno Unito e i suoi alleati. Secondo l'agenzia, le due potenze starebbero rafforzando le proprie operazioni di sabotaggio, spionaggio e disinformazione, in un contesto di crescente tensione geopolitica. L'avvertimento arriva mentre i servizi di intelligence occidentali monitorano con attenzione crescente le minacce non convenzionali provenienti da Mosca e Teheran. Lo riferisce ORF.",
+   "more": [
+    "Gli attacchi ibridi comprendono sabotaggi, cyberattacchi, disinformazione e operazioni di spionaggio condotte sotto la soglia di un conflitto aperto: negli ultimi anni i servizi di sicurezza occidentali segnalano un aumento di queste attività attribuite a Russia e Iran."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3444971/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-13T15:20+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z97f9978f",
+   "sez": "mondo",
+   "titolo": "Yemen, appello all'evacuazione per un impianto petrolifero a Sanaa",
+   "orig": "Jemen: Evakuierungsaufruf bei Ölanlage in Sanaa",
+   "lead": "È stato lanciato un appello all'evacuazione in relazione a un impianto petrolifero situato nei pressi di Sanaa, la capitale yemenita controllata dai ribelli Houthi. Non sono stati forniti ulteriori dettagli sulle cause dell'allarme né sull'entità del rischio segnalato per l'area. La notizia si inserisce nel contesto di forte instabilità che da anni caratterizza lo Yemen, teatro di un conflitto prolungato. Lo riferisce ORF.",
+   "more": [
+    "Sanaa è la capitale dello Yemen, sotto il controllo dei ribelli Houthi dal 2014; il Paese è dilaniato da un conflitto che ha causato una delle peggiori crisi umanitarie al mondo, con infrastrutture energetiche spesso bersaglio di attacchi."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3444965/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-13T15:05+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z5bbcda3a",
+   "sez": "salute",
+   "titolo": "Oltre 9.000 casi di ebola nella Repubblica Democratica del Congo",
+   "orig": "Over 9.000 ebola-tilfælde i DR Congo",
+   "lead": "Le autorità sanitarie hanno riportato oltre 9.000 casi di ebola nella Repubblica Democratica del Congo, un numero che conferma la gravità dell'epidemia in corso nel Paese africano. Non sono stati forniti ulteriori dettagli sul numero di decessi o sulle aree più colpite dall'epidemia. La situazione resta oggetto di attenzione da parte degli organismi sanitari internazionali impegnati nel contenimento del virus. Lo riferisce DR Nyheder.",
+   "more": [
+    "L'ebola è una malattia virale emorragica spesso letale, trasmessa tramite contatto con fluidi corporei; la Repubblica Democratica del Congo ha già affrontato diverse epidemie negli ultimi decenni, con interventi internazionali per contenerne la diffusione."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/over-9-000-ebola-tilfaelde-i-dr-congo",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-13T13:30+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "ze0514d48",
+   "sez": "mondo",
+   "titolo": "Il capo dell'MI5 avverte di attacchi iraniani intensificati",
+   "orig": "MI5-chef advarer om intensiverede iranske angreb",
+   "lead": "Il capo del servizio di sicurezza britannico MI5 ha lanciato un avvertimento sull'intensificarsi degli attacchi condotti dall'Iran contro il Regno Unito, in linea con un allarme più ampio sulle minacce ibride provenienti da Teheran e Mosca. L'avvertimento si inserisce in un contesto di crescente preoccupazione delle agenzie di intelligence occidentali per le operazioni di sabotaggio e spionaggio attribuite ai due Paesi. Lo riferisce DR Nyheder.",
+   "more": [
+    "Il MI5 è il servizio di sicurezza interno del Regno Unito, incaricato di contrastare minacce alla sicurezza nazionale come spionaggio, terrorismo e sabotaggio; negli ultimi anni ha più volte segnalato un aumento delle attività ostili legate a Iran e Russia."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/mi5-chef-advarer-om-intensiverede-iranske-angreb",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-13T13:18+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0fd4f6d0",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, il presidente chiede un sistema più forte contro i crimini violenti",
+   "orig": "이 대통령 “흉악범죄 대응 체계 강화…중대범죄 위험 정신질환자 대책 필요”",
+   "lead": "Il presidente sudcoreano ha dichiarato la necessità di rafforzare il sistema di risposta ai crimini violenti, sottolineando l'esigenza di misure specifiche per le persone con disturbi mentali considerate a rischio di commettere reati gravi. Le dichiarazioni arrivano in un contesto di attenzione pubblica crescente sulla sicurezza e sulla gestione dei casi di salute mentale legati a episodi di violenza nel Paese. Lo riferisce The Hankyoreh.",
+   "more": [
+    "La gestione dei casi di salute mentale collegati a rischi di violenza è un tema dibattuto in molti Paesi, che richiede un equilibrio tra tutela dei diritti dei pazienti e prevenzione di episodi di crimine violento."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/politics/bluehouse/1282258.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z17db096d",
+   "sez": "mondo",
+   "titolo": "Yemen, gli Houthi completano l'assedio di Taiz: un milione di abitanti bloccati",
+   "orig": "후티, 예멘 대도시 타이즈 완전히 포위…시민 100만명 발 묶여",
+   "lead": "I ribelli Houthi hanno completato l'assedio della città yemenita di Taiz, una delle principali metropoli del Paese, lasciando bloccati circa un milione di abitanti. La situazione aggrava ulteriormente la crisi umanitaria in corso nello Yemen, dove il conflitto tra le forze Houthi e quelle governative prosegue da anni causando gravi difficoltà di approvvigionamento e movimento per la popolazione civile. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Taiz è una delle maggiori città dello Yemen e da anni è teatro di scontri tra le forze Houthi, che controllano buona parte del nord del Paese, e le forze governative, con conseguenze gravi sulla popolazione civile intrappolata negli assedi."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/arabafrica/1282256.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z4c8fe4cb",
+   "sez": "mondo",
+   "titolo": "India, un tribunale impone il divieto di diffusione di video su Siddaramaiah",
+   "orig": "Court issues gag order on vidoes on Siddaramaiah",
+   "lead": "Un tribunale indiano ha emesso un'ordinanza di silenzio che vieta la diffusione di video riguardanti il ministro capo del Karnataka, Siddaramaiah. Non sono stati forniti dettagli sul contenuto specifico dei video oggetto del provvedimento né sul procedimento giudiziario che ha portato alla decisione. La misura limita la circolazione di materiale audiovisivo legato alla figura politica. Lo riferisce The Hindu.",
+   "more": [
+    "Siddharamaiah è il ministro capo (Chief Minister) dello stato indiano del Karnataka, una delle figure politiche più note nel panorama del Partito del Congresso indiano."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/karnataka/court-issues-gag-order-on-vidoes-on-siddaramaiah/article71580320.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-13T20:47+05:30"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z342fbd0d",
+   "sez": "mondo",
+   "titolo": "India, al via la formazione per la seconda fase del censimento a Krishnagiri",
+   "orig": "Training for Phase II of Census enumeration begins in Krishnagiri",
+   "lead": "Nel distretto indiano di Krishnagiri è iniziata la formazione del personale incaricato della seconda fase di rilevamento del censimento nazionale. L'iniziativa punta a preparare gli addetti al censimento in vista della raccolta dati, parte di un più ampio processo censuario condotto a livello nazionale in India. Non sono stati forniti ulteriori dettagli sul calendario o sui contenuti specifici della formazione. Lo riferisce The Hindu.",
+   "more": [
+    "Il censimento indiano è una delle più grandi operazioni statistiche al mondo, condotta periodicamente per rilevare dati su popolazione, abitazioni e condizioni socioeconomiche del Paese più popoloso del pianeta."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Coimbatore/training-for-phase-ii-of-census-enumeration-begins-in-krishnagiri/article71579878.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-13T20:45+05:30"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z66b54efe",
+   "sez": "mondo",
+   "titolo": "Puducherry distribuirà un pacco dono di cinque articoli per Deepavali a tutti i titolari di tessera annonaria",
+   "orig": "Deepavali gift hamper with five items to be provided to all ration card holders in Puducherry",
+   "lead": "Le autorità del territorio indiano di Puducherry hanno annunciato che un pacco dono contenente cinque articoli sarà distribuito in occasione della festività di Deepavali a tutti i titolari di tessera annonaria (ration card). L'iniziativa rientra nelle misure di sostegno alle famiglie in vista delle celebrazioni della festa delle luci, molto sentita in India. Non sono stati specificati i singoli articoli inclusi nel pacco né il costo complessivo dell'operazione. Lo riferisce The Hindu.",
+   "more": [
+    "Deepavali, o Diwali, è la festa indù delle luci, una delle ricorrenze più importanti in India: in questa occasione i governi locali spesso distribuiscono beni alimentari alle famiglie più bisognose tramite il sistema delle tessere annonarie."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/puducherry/deepavali-gift-hamper-with-five-items-to-be-provided-to-all-ration-card-holders-in-puducherry/article71579372.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-13T20:44+05:30"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zab9a2d11",
+   "sez": "mondo",
+   "titolo": "India, la South Coast Railway raccoglie i pareri dei passeggeri nel programma 'Rail Jan Samvad'",
+   "orig": "SCoR seeks passenger feedback at ‘Rail Jan Samvad’ programme",
+   "lead": "La South Coast Railway (SCoR) indiana ha condotto il programma 'Rail Jan Samvad' per raccogliere direttamente il feedback dei passeggeri sui servizi ferroviari offerti. L'iniziativa punta a coinvolgere gli utenti nella valutazione della qualità del servizio e a individuare margini di miglioramento. Non sono stati forniti dettagli sui risultati specifici raccolti durante l'incontro con i viaggiatori. Lo riferisce The Hindu.",
+   "more": [
+    "Le ferrovie indiane sono tra le più estese al mondo e trasportano milioni di passeggeri ogni giorno; iniziative di ascolto diretto degli utenti sono strumenti con cui le compagnie ferroviarie pubbliche cercano di migliorare qualità e affidabilità del servizio."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/andhra-pradesh/scor-seeks-passenger-feedback-at-rail-jan-samvad-programme/article71580368.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-13T20:44+05:30"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z89de6199",
+   "sez": "mondo",
+   "titolo": "India, Rahul Gandhi: 'Non voglio rovinare la sorpresa' sulla prossima mossa dell'opposizione sul caso CEC-SIR",
+   "orig": "'Don’t want to spoil the surprise': Rahul on INDIA bloc's next step in CEC-SIR row",
+   "lead": "Il leader dell'opposizione indiana Rahul Gandhi ha dichiarato di non voler anticipare la prossima mossa della coalizione INDIA bloc riguardo alla controversia legata alla Commissione Elettorale Centrale (CEC) e al processo di revisione elettorale speciale intensiva (SIR). Gandhi ha scelto di non rivelare i dettagli della strategia, lasciando intendere che l'opposizione prepari un'iniziativa a sorpresa sul tema controverso. Lo riferisce Times of India.",
+   "more": [
+    "La Commissione Elettorale Centrale (CEC) è l'organo che sovrintende alle elezioni in India; la revisione elettorale speciale intensiva (SIR) ha sollevato polemiche da parte dei partiti di opposizione, riuniti nella coalizione INDIA bloc guidata anche dal Partito del Congresso."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/dont-want-to-spoil-the-surprise-rahul-gandhi-on-india-blocs-next-step-in-cec-sir-row/articleshow/134917355.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-13T18:46+05:30"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0c8b7c11",
+   "sez": "economia",
+   "titolo": "Emirati Arabi: i casi di falsa emiratizzazione nel settore privato calano del 34,5% nel 2025",
+   "orig": "Fake Emiratisation cases in UAE private sector drop 34.5% in 2025",
+   "lead": "Negli Emirati Arabi Uniti i casi di falsa emiratizzazione nel settore privato sono diminuiti del 34,5% nel 2025 rispetto al periodo precedente. La falsa emiratizzazione riguarda la pratica di dichiarare fittiziamente l'impiego di cittadini emiratini da parte delle aziende per rispettare le quote obbligatorie previste dalla legge. Il calo indicato segnala un miglioramento nell'applicazione delle normative sul lavoro nel Paese del Golfo. Lo riferisce Gulf News.",
+   "more": [
+    "L'emiratizzazione è la politica con cui gli Emirati Arabi Uniti impongono alle aziende private quote minime di assunzione di cittadini locali, per ridurre la dipendenza dalla manodopera straniera; i casi di falsa emiratizzazione riguardano aziende che aggirano fittiziamente tali obblighi."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/fake-emiratisation-cases-in-uae-private-sector-drop-345-in-2025-1.500709207",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-13T18:50+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "ze43f9f8f",
+   "sez": "mondo",
+   "titolo": "Il passaporto degli Emirati Arabi Uniti è il più potente al mondo nel 2026",
+   "orig": "UAE passport ranks world's most powerful in 2026, offering access to 182 destinations",
+   "lead": "Il passaporto degli Emirati Arabi Uniti è stato classificato come il più potente al mondo nel 2026, garantendo ai suoi cittadini accesso senza visto o con visto all'arrivo a 182 destinazioni internazionali. Il risultato conferma la posizione di Dubai e degli Emirati come hub globale per viaggi e affari, frutto degli accordi diplomatici stretti negli ultimi anni con numerosi Paesi. Lo riferisce Gulf News.",
+   "more": [
+    "Le classifiche dei passaporti più potenti misurano il numero di Paesi raggiungibili senza visto preventivo, riflettendo il peso diplomatico e gli accordi bilaterali di un Paese. Gli Emirati hanno investito molto in diplomazia economica e turistica per facilitare la mobilità dei propri cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/uae-passport-ranks-worlds-most-powerful-in-2026-offering-access-to-182-destinations-1.500709191",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-13T18:40+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zd040eb85",
+   "sez": "mondo",
+   "titolo": "Dubai ha progetti in corso per 2.100 miliardi di dirham, rivela Mohammed bin Rashid",
+   "orig": "Dubai has Dh2.1 trillion in projects under way, Mohammed bin Rashid reveals",
+   "lead": "Lo sceicco Mohammed bin Rashid Al Maktoum, vicepresidente e primo ministro degli Emirati Arabi Uniti e governante di Dubai, ha rivelato che la città ha attualmente progetti in corso per un valore complessivo di 2.100 miliardi di dirham. L'annuncio sottolinea il ritmo sostenuto dello sviluppo urbano ed economico dell'emirato, che continua ad attrarre investimenti in infrastrutture, immobiliare e settori strategici. Lo riferisce Gulf News.",
+   "more": [
+    "Dubai è uno dei sette emirati degli Emirati Arabi Uniti ed è diventata negli ultimi decenni un centro globale per finanza, turismo e commercio, grazie a una politica di forte attrazione di capitali stranieri e a massicci investimenti in infrastrutture e grandi opere urbane."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/dubai-has-dh21-trillion-in-projects-under-way-mohammed-bin-rashid-reveals-1.500709129",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-13T18:03+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z9185d44d",
+   "sez": "economia",
+   "titolo": "L'Azerbaigian pianifica un coefficiente minimo di finanziamento stabile per le banche dal 2027",
+   "orig": "Azerbaijan plans minimum net stable funding ratio for banks in 2027",
+   "lead": "La banca centrale dell'Azerbaigian prevede di introdurre un requisito minimo di coefficiente di finanziamento stabile netto per le banche del Paese a partire dal 2027, nell'ambito delle misure di rafforzamento della stabilità del sistema finanziario nazionale. Lo riferisce Trend.",
+   "more": [
+    "Il coefficiente di finanziamento stabile netto è un indicatore di vigilanza bancaria che misura la capacità di un istituto di finanziare le attività a lungo termine con fonti stabili, riducendo il rischio di liquidità in caso di tensioni sui mercati."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4234367.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-13T19:12+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zd15feeae",
+   "sez": "economia",
+   "titolo": "In Azerbaigian la dollarizzazione dei depositi a termine al dettaglio scende al 28,5% nel primo semestre",
+   "orig": "Azerbaijan’s retail time deposit dollarization falls to 28.5% in H1",
+   "lead": "La quota di depositi bancari a termine denominati in valuta estera detenuti dai clienti retail in Azerbaigian è scesa al 28,5% nel primo semestre dell'anno, segnalando una maggiore fiducia nella valuta nazionale. Lo riferisce Trend.",
+   "more": [
+    "La dollarizzazione dei depositi misura quanto i risparmiatori preferiscono detenere i propri fondi in valuta estera piuttosto che nella moneta locale, un indicatore spesso legato alla fiducia nella stabilità economica e monetaria di un Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/business/4234382.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-13T19:04+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zed77d85c",
+   "sez": "economia",
+   "titolo": "Il coefficiente di copertura della liquidità delle banche azere sale al 160% nel primo semestre",
+   "orig": "Azerbaijani banks’ liquidity coverage ratio rises to 160% in H1",
+   "lead": "Il coefficiente di copertura della liquidità delle banche dell'Azerbaigian è salito al 160% nel primo semestre dell'anno, un livello ampiamente superiore ai requisiti minimi regolamentari, a conferma della solidità del sistema bancario del Paese. Lo riferisce Trend.",
+   "more": [
+    "Il coefficiente di copertura della liquidità è un parametro prudenziale che obbliga le banche a mantenere attività liquide sufficienti a coprire eventuali deflussi di cassa in uno scenario di stress finanziario di breve periodo."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4234363.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-13T19:00+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z4cbce32e",
+   "sez": "tech",
+   "titolo": "New York Times, The Economist e AFP aderiscono a una coalizione per il copyright sull'IA",
+   "orig": "NYT, The Economist and AFP join AI copyright coalition",
+   "lead": "Il New York Times, il settimanale The Economist e l'agenzia di stampa AFP hanno aderito a una coalizione che si batte per la tutela del diritto d'autore nei confronti delle aziende che sviluppano intelligenza artificiale, unendosi ad altri editori preoccupati per l'uso non autorizzato dei propri contenuti nell'addestramento dei modelli IA. Lo riferisce Prothom Alo.",
+   "more": [
+    "Negli ultimi anni numerosi editori e agenzie di stampa hanno denunciato le aziende di intelligenza artificiale per aver utilizzato i loro articoli senza autorizzazione per addestrare modelli linguistici, sollevando questioni legali sul copyright e sul compenso dovuto ai produttori di contenuti."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/international/lh2awne6yy",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-13T14:40+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z6fe6e525",
+   "sez": "mondo",
+   "titolo": "Il vicecommissario distrettuale e la polizia scortano fuori il rettore del CUET dopo 30 ore di assedio",
+   "orig": "DC, SP escort CUET VC out of besieged building after 30 hours",
+   "lead": "Il vicecommissario distrettuale e il sovrintendente di polizia hanno scortato fuori dall'edificio assediato il rettore della Chittagong University of Engineering and Technology, dopo che l'edificio era stato circondato per circa 30 ore da manifestanti. Lo riferisce Prothom Alo.",
+   "more": [
+    "La Chittagong University of Engineering and Technology è una delle principali università tecniche del Bangladesh; assedi o proteste studentesche contro i vertici accademici sono spesso legate a contestazioni su gestione, nomine o decisioni amministrative dell'ateneo."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/local-news/aaf1fbashx",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-13T13:51+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zd8f28b97",
+   "sez": "sport",
+   "titolo": "Eroiche parate di Atal e occasioni sprecate: l'Afghanistan ferma il Bangladesh sul pareggio",
+   "orig": "Atal heroics, missed chances as Afghanistan hold Bangladesh to a draw",
+   "lead": "La nazionale di cricket dell'Afghanistan ha fermato sul pareggio il Bangladesh, in una partita segnata dalle prestazioni eroiche del giocatore Atal e da diverse occasioni sprecate da entrambe le squadre. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/sports/cricket/f9ptrtj3i9",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-13T13:14+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za332f589",
+   "sez": "mondo",
+   "titolo": "Fissata per il 29 ottobre la sentenza nel caso Fuggiri contro l'ex presidente Yameen",
+   "orig": "Sentencing in Yameen’s Fuggiri case scheduled for Oct. 29th",
+   "lead": "La corte delle Maldive ha fissato per il 29 ottobre la pronuncia della sentenza nel caso noto come Fuggiri, che vede coinvolto l'ex presidente Abdulla Yameen. Lo riferisce Sun Online.",
+   "more": [
+    "Abdulla Yameen è un ex presidente delle Maldive, già condannato e poi assolto in passato per accuse di corruzione e riciclaggio di denaro; i procedimenti giudiziari a suo carico hanno segnato per anni la vita politica dell'arcipelago."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109511",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-13T20:00+05:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z3d73fab4",
+   "sez": "mondo",
+   "titolo": "Saeed: nuovi parcheggi multipiano a Malé completati entro novembre del prossimo anno",
+   "orig": "Saeed: New parking buildings in Male’ to be completed before next year’s November",
+   "lead": "Il ministro Saeed ha annunciato che i nuovi edifici destinati a parcheggio in costruzione nella capitale maldiviana Malé saranno completati entro novembre del prossimo anno, nell'ambito degli sforzi per alleviare la cronica carenza di spazi di sosta nella città. Lo riferisce Sun Online.",
+   "more": [
+    "Malé, capitale delle Maldive, è una delle città più densamente popolate al mondo, con spazi estremamente limitati per infrastrutture come i parcheggi, il che rende la gestione della mobilità urbana una sfida costante per le autorità locali."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109510",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-13T19:26+05:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z60738897",
+   "sez": "economia",
+   "titolo": "La MIFCO alza a 22,75 rufiyaa il prezzo d'acquisto del tonnetto striato",
+   "orig": "MIFCO raises skipjack tuna purchase price to MVR 22.75",
+   "lead": "La società statale maldiviana per la pesca MIFCO ha aumentato il prezzo di acquisto del tonnetto striato a 22,75 rufiyaa, una decisione che interessa direttamente i pescatori locali e l'industria ittica del Paese. Lo riferisce Sun Online.",
+   "more": [
+    "Il tonnetto striato è una delle principali risorse ittiche ed economiche delle Maldive, Paese la cui economia dipende storicamente dalla pesca oltre che dal turismo; MIFCO è l'azienda statale che gestisce l'acquisto e la lavorazione del pescato."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109509",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-13T18:35+05:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zc7ef2164",
+   "sez": "mondo",
+   "titolo": "Arrestate tre persone sospettate di compravendita di valuta estera a tassi elevati",
+   "orig": "ބޮޑުއަގުގައި ބޭރުފައިސާ ގަނެވިއްކާ ކަމަށް ތުުހުމަތުކުރެވޭ 3 މީހަކު ހައްޔަރުކޮށްފި",
+   "lead": "La polizia maldiviana ha arrestato tre persone sospettate di aver comprato e venduto valuta estera a tassi superiori a quelli ufficiali, nell'ambito di controlli sul mercato valutario informale del Paese. Lo riferisce PSM News.",
+   "more": [
+    "Nelle Maldive la compravendita non autorizzata di valuta estera a tassi diversi da quelli ufficiali è considerata reato e viene periodicamente contrastata dalle autorità per tutelare la stabilità della moneta nazionale, la rufiyaa."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190125",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-13T19:34+05:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0a8c8904",
+   "sez": "sport",
+   "titolo": "Vittoria contro il Gaadhoo: primo successo stagionale in campionato",
+   "orig": "ގައްދޫ ބަލިކޮށް ލީގުގެ ފުރަތަމަ މޮޅު ބުރުން ހޯދައިފި",
+   "lead": "Una squadra di calcio maldiviana ha battuto il Gaadhoo, ottenendo la prima vittoria della stagione nel campionato nazionale. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190124",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-13T18:44+05:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zea7c750e",
+   "sez": "mondo",
+   "titolo": "\"A Ras Malé nessun ebreo potrà insediarsi né fare affari\", afferma una dichiarazione",
+   "orig": "&quot;ރަސްމާލޭގައި ޔަހޫދީން ވަޒަންވެރިއެއް ނުކުރެވޭނެ، ވިޔަފާރިވެސް ނުކުރެވޭނެ&quot;",
+   "lead": "Una dichiarazione riportata da PSM News afferma che a Ras Malé, nelle Maldive, non sarà permesso ad alcun cittadino ebreo di stabilirsi né di condurre attività commerciali. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190122",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-13T18:32+05:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z2bfed1e2",
+   "sez": "mondo",
+   "titolo": "La KCCA esorta gli sviluppatori a dare priorità alla sicurezza di fronte ai rischi di disastri a Kampala",
+   "orig": "KCCA Urges Developers to Prioritise Safety as Kampala Faces Disaster Risks",
+   "lead": "La Kampala Capital City Authority ha esortato gli sviluppatori immobiliari a dare priorità alla sicurezza nelle costruzioni, di fronte ai crescenti rischi di disastri che la capitale ugandese deve affrontare. Lo riferisce Nile Post.",
+   "more": [
+    "La KCCA è l'ente che amministra la capitale ugandese Kampala, città che negli ultimi anni ha visto una rapida espansione urbana spesso non accompagnata da adeguati standard di sicurezza edilizia, aumentando l'esposizione a frane, allagamenti e crolli."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/378017/kcca-urges-developers-to-prioritise-safety-as-kampala-faces-disaster-risks",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-13T17:26+03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z69ecf87c",
+   "sez": "economia",
+   "titolo": "GAZ Fuel esplora una partnership strategica con Salam TV",
+   "orig": "GAZ Fuel Explores Strategic Partnership with Salam TV",
+   "lead": "L'azienda GAZ Fuel sta valutando una partnership strategica con l'emittente Salam TV, secondo quanto riportato da Nile Post, senza ulteriori dettagli sulla natura dell'accordo in discussione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/377999/gaz-fuel-explores-strategic-partnership-with-salam-tv",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-13T17:16+03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zdbb72b2a",
+   "sez": "mondo",
+   "titolo": "La premier ugandese Nabbanja apre a Roma il primo Forum per gli affari e gli investimenti Uganda-Italia",
+   "orig": "PM Nabbanja Opens First Uganda–Italy Business and Investment Forum in Rome",
+   "lead": "La primo ministro ugandese Robinah Nabbanja ha inaugurato a Roma il primo Forum per gli affari e gli investimenti tra Uganda e Italia, un'iniziativa volta a rafforzare le relazioni economiche e commerciali tra i due Paesi. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/377992/pm-nabbanja-opens-first-uganda-italy-business-and-investment-forum-in-rome",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-13T17:14+03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z76c5fe1e",
+   "sez": "ambiente",
+   "titolo": "Gli artropodi nocivi potrebbero aumentare nelle zone temperate entro il 2050, secondo uno studio",
+   "orig": "Artrópodos que causan plagas pueden aumentar en zonas templadas hacia 2050, según estudio",
+   "lead": "Un nuovo studio scientifico prevede un aumento della diffusione di artropodi considerati parassiti nelle zone a clima temperato entro il 2050, un fenomeno legato ai cambiamenti climatici in corso e alle sue conseguenze sugli ecosistemi agricoli e naturali. Lo riferisce ABC Color.",
+   "more": [
+    "Gli artropodi comprendono insetti, aracnidi e crostacei; molte specie nocive per l'agricoltura e la salute pubblica sono sensibili alla temperatura, e il riscaldamento globale può favorirne l'espansione verso aree precedentemente troppo fredde per la loro sopravvivenza."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/ciencia/2026/10/13/artropodos-que-causan-plagas-pueden-aumentar-en-zonas-templadas-hacia-2050-segun-estudio/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-13T15:10+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z5d1b36fe",
+   "sez": "mondo",
+   "titolo": "Stato civile: nuovo formato per gli atti di nascita, matrimonio e decesso dal 19 ottobre",
+   "orig": "État civil : nouveau format pour les actes de naissance, de mariage et de décès dès le 19 octobre",
+   "lead": "Le autorità di Mauritius introdurranno a partire dal 19 ottobre un nuovo formato per gli atti di stato civile relativi a nascite, matrimoni e decessi, nell'ambito di un aggiornamento amministrativo del sistema anagrafico nazionale. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/etat-civil-nouveau-format-pour-les-actes-de-naissance-de-mariage-et-de-deces-des-le-19-octobre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-13T18:33+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z1316e568",
+   "sez": "mondo",
+   "titolo": "Mauritius, confermati per mercoledì gli esami SC e HSC",
+   "orig": "Éducation : Les examens du SC et du HSC maintenus ce mercredi 14 octobre",
+   "lead": "A Port Louis le autorità scolastiche hanno confermato che gli esami del School Certificate (SC) e dello Higher School Certificate (HSC) si terranno regolarmente mercoledì 14 ottobre, nonostante le lezioni siano state sospese nello stesso giorno. La decisione riguarda gli studenti mauriziani impegnati in questi importanti esami nazionali, che non subiranno rinvii o modifiche di calendario. La misura segue probabilmente condizioni meteorologiche o di sicurezza che hanno portato alla chiusura delle scuole, ma non degli esami. Lo riferisce Defimedia.",
+   "more": [
+    "Il School Certificate e lo Higher School Certificate sono gli esami nazionali che a Mauritius segnano rispettivamente la fine della scuola secondaria inferiore e superiore, fondamentali per l'accesso all'università o al mondo del lavoro."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/education-les-examens-du-sc-et-du-hsc-maintenus-ce-mercredi-14-octobre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-13T18:07+04:00"
+    },
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/education-pas-de-classe-ce-mercredi-mais-les-examens-du-sc-et-du-hsc-maintenus",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-13T17:58+04:00"
+    },
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/education-les-examens-de-pearson-edexcel-maintenus-ce-mercredi-14-octobre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-13T19:13+04:00"
+    },
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/toutes-les-creches-resteront-fermees-ce-mercredi-14-octobre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-13T18:07+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zeebcb1f5",
+   "sez": "mondo",
+   "titolo": "Mauritius, richiesta ai templi di concludere le preghiere per Durga Puja entro le 20",
+   "orig": "Durga Puja : la MSDTF demande aux responsables des temples de veiller à ce que les prières se terminent avant 20 heures ce mardi",
+   "lead": "A Port Louis la Mauritius Sanatan Dharma Temples Federation (MSDTF) ha chiesto ai responsabili dei templi indù di far terminare le celebrazioni per Durga Puja entro le ore 20 di martedì. La richiesta riguarda l'organizzazione delle preghiere legate a questa importante festività religiosa induista, celebrata in tutta l'isola. L'indicazione mira presumibilmente a garantire ordine e rispetto degli orari durante i festeggiamenti comunitari. Lo riferisce Defimedia.",
+   "more": [
+    "Durga Puja è una delle principali festività induiste, dedicata alla dea Durga e celebrata con riti, canti e processioni nei templi; a Mauritius, dove vive una numerosa comunità di origine indiana, la ricorrenza coinvolge molte famiglie e luoghi di culto."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/durga-puja-la-msdtf-demande-aux-responsables-des-temples-de-veiller-ce-que-les-prieres-se-terminent",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-13T18:05+04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
    "id": "zef36f83e",
    "sez": "mondo",
    "titolo": "Un partenariato lancia un programma di empowerment per gli studenti in Botswana",
@@ -3289,30 +4784,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "New Zealand",
      "t": "2026-10-13T15:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:45",
-   "uscita": "17"
-  },
-  {
-   "id": "zbdecf13b",
-   "sez": "mondo",
-   "titolo": "Un caccia Rafale croato intercetta un aereo passeggeri segnalato come potenziale minaccia",
-   "orig": "Croatian Rafale fighter jet intercepts Boeing passenger plane flagged as potential threat",
-   "lead": "Un caccia Rafale dell'Aeronautica Militare croata ha intercettato martedì sopra la Croazia un aereo passeggeri maltese, dopo che il velivolo civile era stato segnalato come potenziale minaccia. L'episodio ha coinvolto un Boeing in volo nello spazio aereo croato. Lo riferisce Croatia Week.",
-   "more": [
-    "Il Dassault Rafale è un caccia multiruolo francese utilizzato da diverse forze aeree europee, impiegato anche per missioni di polizia aerea, tra cui l'intercettazione di velivoli civili sospetti o fuori rotta."
-   ],
-   "fonti": [
-    {
-     "n": "Croatia Week",
-     "p": "XX",
-     "c": "Zagabria",
-     "u": "https://www.croatiaweek.com/croatia-rafale-intercepts-maltese-passenger-plane/",
-     "angolo": "",
-     "atlas": "Croatia",
-     "t": "2026-10-13T13:45+00:00"
     }
    ],
    "data": "13 ott",
@@ -7921,6 +9392,24 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-13T16:35+02:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/13/un-caza-croata-intercepta-a-un-avion-de-pasajeros-por-falso-mensaje-de-secuestro/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-13T15:10+00:00"
+    },
+    {
+     "n": "Croatia Week",
+     "p": "XX",
+     "c": "Zagabria",
+     "u": "https://www.croatiaweek.com/croatia-rafale-intercepts-maltese-passenger-plane/",
+     "angolo": "",
+     "atlas": "Croatia",
+     "t": "2026-10-13T13:45+00:00"
     }
    ],
    "data": "13 ott",
@@ -27633,7 +29122,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z81373381": "Stuff NZ descrive le caratteristiche tecniche del nuovo modello in vista del lancio locale.",
   "ze430a24e": "Stuff NZ offre una copertura in diretta dei due appuntamenti elettorali della giornata.",
   "z176e665a": "Stuff NZ riporta l'iniziativa come provocazione artistica legata al dibattito sulla spesa pensionistica.",
-  "zbdecf13b": "Croatia Week riporta l'episodio come intervento precauzionale delle forze aeree croate.",
   "z292646f2": "Prague Morning presenta il profilo del candidato alla luce del risultato elettorale del suo movimento.",
   "z1e1a4329": "Euronews Albania riporta la critica dell'UE alla Serbia tramite le parole del portavoce comunitario.",
   "zc0451ceb": "Euronews Albania riprende la notizia diffusa dal network pubblico lituano LRT sul piano di investimenti militari.",
@@ -27729,7 +29217,69 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z24f5cc94": "La Nación riporta le testimonianze dell'equipaggio sull'esperienza della missione.",
   "zbff32462": "El Universo descrive la crescita del settore degli elettrodomestici nel Paese.",
   "zdba22e2e": "ABC Color riporta la decisione del tribunale sull'ex funzionario.",
-  "z8455a5d5": "ABC Color evidenzia l'adesione dei media latinoamericani all'iniziativa globale."
+  "z8455a5d5": "ABC Color evidenzia l'adesione dei media latinoamericani all'iniziativa globale.",
+  "z9eb9d496": "La testata dà voce a un formatore che riflette sul ruolo del giornalismo nel contesto burkinabè.",
+  "z5849779f": "La testata senegalese riporta la visita come un passo per consolidare i legami tra Togo e Cina.",
+  "z6cea0b9a": "La testata descrive l'evento come occasione di incontro nazionale tra i giovani ciadiani.",
+  "z3a34ec8d": "La testata guineana segue da vicino l'avanzamento della pratica di regolarizzazione degli insegnanti contrattuali.",
+  "z40e67efd": "La testata beninese riporta la dichiarazione di sostegno del Rwanda come segnale di solidarietà continentale.",
+  "z9f91997f": "La testata evidenzia l'interesse internazionale suscitato dalla quotazione in Borsa della raffineria.",
+  "zf4ab47ad": "La testata beninese riporta i dettagli pratici dell'apertura del nuovo casello e delle relative tariffe.",
+  "z44e1908a": "La testata guineana riprende le dichiarazioni ufficiali sul nuovo istituto di formazione militare.",
+  "z698834ff": "La testata malgascia riprende l'allarme degli ambientalisti sulle conseguenze della fuoriuscita di petrolio.",
+  "zead4b1d5": "La testata riporta i risultati tecnici delle analisi sugli alimenti incriminati.",
+  "z219f9846": "La testata capoverdiana riprende il bilancio OIM sottolineando che il calo non implica un miglioramento delle cause della migrazione.",
+  "zc1cbceb0": "La testata riprende l'allarme del capo dei servizi segreti britannici sulle attività iraniane nel Regno Unito.",
+  "zb280bf4e": "La testata capoverdiana riporta l'incontro diplomatico come segno di continuità nella cooperazione internazionale.",
+  "z22e81931": "La testata tunisina presenta l'evento come un segnale di vitalità del settore editoriale nazionale.",
+  "z0cc38d79": "La testata riporta la dura reazione del partito di governo all'iniziativa di Kabila.",
+  "zf650e324": "La testata denuncia le conseguenze pratiche della mancata smobilitazione delle milizie sulla popolazione locale.",
+  "z830b75dd": "Haïti Libre dà conto dell'evento come momento di bilancio positivo per il sostegno internazionale alla cultura haitiana.",
+  "zbf384cc8": "Haïti Libre racconta l'incontro come tappa del processo di revisione della politica di genere nazionale.",
+  "z8f8dabd2": "Haïti Libre presenta l'iniziativa come parte degli sforzi istituzionali per l'inclusione femminile.",
+  "z6a46bd09": "Haïti Libre inquadra l'evento come parte del rafforzamento istituzionale del sistema scolastico.",
+  "zd062940d": "Haïti Libre segue il processo come tappa del rafforzamento dell'esercito nazionale.",
+  "zce56b6c3": "De Ware Tijd invita a riflettere sul posizionamento del Suriname tra le potenze globali.",
+  "za29f46c2": "Opinión presenta l'iniziativa come risposta a una sfida strutturale del sistema educativo boliviano.",
+  "zce8b9bcc": "Opinión dà rilievo all'entità dei beni sequestrati e al coinvolgimento dell'ex procuratore generale.",
+  "z40a5f0ed": "Opinión riporta la posizione ufficiale del governo di fronte alle tensioni sociali in corso.",
+  "zb49ef590": "CNA riporta la critica di Amnesty International all'accordo tra Formula 1 e Ruanda.",
+  "z0c12cbdb": "CNA descrive le caratteristiche tecniche del tracciato ruandese in vista delle future competizioni.",
+  "z74456aa1": "CNA riporta le valutazioni del capitano sulla condizione della squadra.",
+  "z54a0ca12": "ORF segnala la continuità delle proteste studentesche nel Paese.",
+  "z91764e6e": "ORF riporta l'allarme lanciato dai servizi segreti britannici sulle minacce ibride.",
+  "z97f9978f": "ORF segnala l'allarme senza approfondire le cause dell'evacuazione.",
+  "z5bbcda3a": "DR Nyheder riporta il dato aggregato dei contagi senza ulteriori dettagli.",
+  "ze0514d48": "DR Nyheder riporta la stessa linea di allarme già espressa da ORF sulle minacce ibride.",
+  "z0fd4f6d0": "The Hankyoreh riporta le dichiarazioni presidenziali sulla sicurezza pubblica.",
+  "z17db096d": "The Hankyoreh sottolinea l'impatto umanitario dell'assedio sulla popolazione civile.",
+  "z4c8fe4cb": "The Hindu riporta il provvedimento giudiziario senza approfondirne le motivazioni.",
+  "z342fbd0d": "The Hindu documenta l'avvio operativo della seconda fase censuaria nel distretto.",
+  "z66b54efe": "The Hindu riporta la misura come forma di sostegno sociale in vista della festività.",
+  "zab9a2d11": "The Hindu documenta l'iniziativa di dialogo tra ferrovia e utenza.",
+  "z89de6199": "Times of India riporta le dichiarazioni volutamente vaghe del leader dell'opposizione.",
+  "z0c8b7c11": "Gulf News presenta il dato come segnale positivo nell'applicazione delle regole sul lavoro.",
+  "ze43f9f8f": "Gulf News sottolinea il primato emiratino nella classifica mondiale dei passaporti.",
+  "zd040eb85": "Gulf News evidenzia la scala record degli investimenti annunciati dal governante di Dubai.",
+  "z9185d44d": "Trend riporta l'annuncio della banca centrale sulle nuove regole prudenziali.",
+  "zd15feeae": "Trend riporta il dato come segnale di stabilizzazione finanziaria.",
+  "zed77d85c": "Trend sottolinea la robustezza patrimoniale del settore bancario azero.",
+  "z4cbce32e": "Prothom Alo riporta l'adesione delle grandi testate alla coalizione per la difesa del copyright.",
+  "z6fe6e525": "Prothom Alo documenta la tensione tra studenti e vertici universitari a Chittagong.",
+  "zd8f28b97": "Prothom Alo mette in risalto la prestazione decisiva di Atal nel contenere il Bangladesh.",
+  "za332f589": "Sun Online segue da vicino l'evoluzione giudiziaria del caso contro l'ex presidente.",
+  "z3d73fab4": "Sun Online riporta la tempistica annunciata dal ministro per i nuovi parcheggi.",
+  "z60738897": "Sun Online riferisce l'aumento deciso dalla società statale di pesca.",
+  "zc7ef2164": "PSM News riporta l'operazione di polizia contro il mercato valutario parallelo.",
+  "z0a8c8904": "PSM News celebra il primo successo stagionale della squadra in campionato.",
+  "zea7c750e": "PSM News riporta la dichiarazione sulle restrizioni annunciate per l'area di Ras Malé.",
+  "z2bfed1e2": "Nile Post riporta l'appello delle autorità cittadine agli sviluppatori.",
+  "z69ecf87c": "Nile Post segnala l'avvio di contatti tra le due aziende.",
+  "zdbb72b2a": "Nile Post dà risalto all'apertura del forum come occasione di rilancio dei rapporti economici bilaterali.",
+  "z76c5fe1e": "ABC Color riporta le conclusioni dello studio sui rischi futuri legati al clima.",
+  "z5d1b36fe": "Defimedia informa i cittadini sulla data di entrata in vigore del nuovo formato anagrafico.",
+  "z1316e568": "Defimedia sottolinea la volontà delle autorità di non interrompere il calendario degli esami nonostante la sospensione delle lezioni.",
+  "zeebcb1f5": "Defimedia riporta l'appello della federazione dei templi come misura organizzativa per la giornata di festa."
  },
  "contesti": {
   "z2995a5a1": "Nei giorni scorsi il presidente statunitense Donald Trump ha annunciato un'intesa di tregua limitata alle sole infrastrutture energetiche. Tuttavia, lunedì il presidente ucraino Volodymyr Zelensky aveva denunciato il ferimento di sei impianti, contestando l'effettiva volontà russa di rispettare lo stop agli attacchi prima della tregua parziale registrata martedì.",
@@ -27951,7 +29501,16 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zcce4f4c4": "Papa Leone XIV, eletto nel 2025 dopo la morte di Francesco, aveva già mostrato segnali di affaticamento nelle apparizioni pubbliche delle ultime settimane. Il precedente pontefice era stato ricoverato al Gemelli nel 2025 per problemi respiratori, episodio che aveva acceso l'attenzione sulla salute dei pontefici. Ora il nuovo Papa è stato ricoverato nella stessa clinica romana in vista di un intervento ai polmoni.",
   "z0ba87049": "François Chaix guida il Tribunale federale svizzero, la massima corte del Paese, chiamata a garantire imparzialità e rigore etico nei suoi ranghi. Negli ultimi mesi è emersa una relazione sentimentale tra magistrati ritenuta inappropriata e gestita in modo controverso dalla presidenza, suscitando malumori interni. La vicenda ha progressivamente eroso la fiducia dei colleghi nella leadership di Chaix.",
   "z943d5ea6": "Dopo l'invasione russa dell'Ucraina nel febbraio 2022, l'Unione Europea ha progressivamente ridotto ma non azzerato gli acquisti di combustibili fossili da Mosca, mantenendo flussi residui di gas e petrolio. Il presidente Trump ha più volte criticato pubblicamente l'Europa per la sua dipendenza energetica dalla Russia, citando cifre elevate. Media ucraini hanno ora pubblicato dati dettagliati sui pagamenti UE dal 2022 a oggi.",
-  "z941116e2": "Le dighe binazionali di Itaipú (Brasile-Paraguay) e Yacyretá (Argentina-Paraguay) regolano da decenni il flusso del fiume Paraná, fondamentale per l'energia e l'agricoltura regionale. Le piogge intense delle ultime settimane in Brasile meridionale hanno fatto crescere rapidamente i livelli dei bacini, costringendo i gestori ad aumentare gradualmente i rilasci d'acqua e a lanciare i primi avvisi alle comunità rivierasche."
+  "z941116e2": "Le dighe binazionali di Itaipú (Brasile-Paraguay) e Yacyretá (Argentina-Paraguay) regolano da decenni il flusso del fiume Paraná, fondamentale per l'energia e l'agricoltura regionale. Le piogge intense delle ultime settimane in Brasile meridionale hanno fatto crescere rapidamente i livelli dei bacini, costringendo i gestori ad aumentare gradualmente i rilasci d'acqua e a lanciare i primi avvisi alle comunità rivierasche.",
+  "z0cc38d79": "Joseph Kabila, ex presidente della Repubblica Democratica del Congo condannato in contumacia per tradimento, si è schierato apertamente con i ribelli del M23 nell'est del Paese controllato da Goma. Negli ultimi mesi ha intensificato la sua presenza politica nella regione orientale, suscitando la dura reazione del partito al potere UDPS e del presidente Tshisekedi, che lo accusano di tradimento e sostegno ai gruppi armati.",
+  "z40a5f0ed": "La Bolivia ha attraversato nei mesi scorsi un periodo di 53 giorni di conflitto sociale, con proteste e blocchi che hanno messo a dura prova il governo e la popolazione.",
+  "z54a0ca12": "Negli ultimi mesi il governo francese ha avviato una riforma del sistema scolastico che include tagli di bilancio e riduzioni di personale, suscitando crescente opposizione tra studenti e sindacati dell'istruzione. Le prime manifestazioni sono iniziate nelle settimane precedenti e si sono ripetute periodicamente in diverse città francesi, alimentando un clima di tensione sociale già acceso da altre vertenze nel Paese.",
+  "zc1cbceb0": "Negli ultimi mesi le autorità britanniche hanno segnalato un'intensificazione delle attività ostili iraniane sul suolo del Regno Unito, inizialmente concentrate su dissidenti ed esuli iraniani. A settembre è emerso un presunto piano per colpire una base aerea statunitense nel Paese, episodio che ha spinto l'MI5 ad alzare il livello di allarme sulle ambizioni di Teheran di colpire obiettivi militari e non più solo oppositori politici.",
+  "zce8b9bcc": "L'inchiesta sul cosiddetto caso Mariaca riguarda presunte irregolarità finanziarie legate a un ex alto magistrato boliviano, oggetto di indagini da parte della Procura generale. Negli ultimi mesi le autorità hanno raccolto indizi su possibili patrimoni non giustificati, portando a una serie coordinata di perquisizioni in diverse città del Paese per raccogliere prove e sequestrare beni e denaro contante.",
+  "z91764e6e": "Da tempo i servizi occidentali monitorano l'aumento delle attività ibride condotte da Russia e Iran, che spaziano da sabotaggi a infrastrutture critiche a campagne di disinformazione e spionaggio contro il Regno Unito e i suoi alleati. Negli ultimi mesi si sono moltiplicati gli episodi attribuiti a Mosca e Teheran, culminati nel recente allarme lanciato dal direttore dell'MI5 Ken McCallum.",
+  "z5bbcda3a": "L'epidemia di ebola nella Repubblica Democratica del Congo, Paese che ha già affrontato numerosi focolai negli ultimi decenni, è riemersa nelle regioni orientali tra crisi umanitaria e conflitti armati in corso. Le autorità sanitarie e le organizzazioni internazionali hanno intensificato gli sforzi di tracciamento e vaccinazione, ma il numero di contagi ha continuato a crescere nelle ultime settimane fino a superare la soglia dei 9.000 casi.",
+  "ze0514d48": "Il Regno Unito ha osservato negli ultimi mesi un'escalation delle attività ostili iraniane sul proprio territorio, culminata a settembre con la scoperta di un presunto piano per colpire una base militare statunitense. Questo sviluppo si inserisce in un più ampio quadro di minacce ibride attribuite anche alla Russia, che ha spinto i servizi di sicurezza britannici a lanciare ripetuti avvertimenti pubblici.",
+  "z17db096d": "La città di Taiz, nello Yemen centrale, è contesa da anni tra le forze governative e i ribelli Houthi, che controllano le vie di accesso principali imponendo blocchi e restrizioni ai rifornimenti. Negli ultimi mesi gli Houthi hanno progressivamente rafforzato la pressione militare attorno alla città, aggravando la crisi umanitaria già drammatica causata da anni di guerra civile nel Paese."
  },
  "cronologie": {
   "z2995a5a1": [
@@ -30638,6 +32197,118 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "13 ottobre 2025",
     "Allerta ufficiale per possibili piene tra ottobre e dicembre"
+   ]
+  ],
+  "zc1cbceb0": [
+   [
+    "Settembre 2026",
+    "Scoperto presunto piano iraniano contro base aerea USA nel Regno Unito"
+   ],
+   [
+    "Ottobre 2026",
+    "MI5 segnala aumento di sabotaggi e attentati incendiari contro siti ebraici"
+   ],
+   [
+    "13 ottobre 2026",
+    "Ken McCallum avverte che l'episodio non è isolato"
+   ]
+  ],
+  "z0cc38d79": [
+   [
+    "2025",
+    "Kabila condannato in contumacia dalla giustizia militare congolese"
+   ],
+   [
+    "Settembre 2026",
+    "Kabila assume la guida del Fronte per la rifondazione della nazione"
+   ],
+   [
+    "13 ottobre 2026",
+    "Kabuya paragona la sorte di Kabila a quella di Jonas Savimbi"
+   ]
+  ],
+  "zce8b9bcc": [
+   [
+    "Mesi precedenti",
+    "Avvio delle indagini sul caso Mariaca"
+   ],
+   [
+    "Ottobre 2026",
+    "Eseguite undici perquisizioni a Santa Cruz e La Paz"
+   ],
+   [
+    "13 ottobre 2026",
+    "Sequestrati oltre 10 milioni di bolivianos e valuta estera"
+   ]
+  ],
+  "z54a0ca12": [
+   [
+    "Settembre 2026",
+    "Annuncio di misure di austerità sulla scuola"
+   ],
+   [
+    "Fine settembre 2026",
+    "Prime mobilitazioni studentesche"
+   ],
+   [
+    "13 ottobre 2026",
+    "Nuova giornata di proteste in diverse città"
+   ]
+  ],
+  "z91764e6e": [
+   [
+    "2025-2026",
+    "Crescenti episodi di sabotaggio attribuiti a Russia e Iran nel Regno Unito"
+   ],
+   [
+    "Settembre 2026",
+    "Presunto piano iraniano contro base USA nel Regno Unito"
+   ],
+   [
+    "13 ottobre 2026",
+    "MI5 lancia nuovo allarme sulle minacce ibride"
+   ]
+  ],
+  "z5bbcda3a": [
+   [
+    "Mesi precedenti",
+    "Nuovo focolaio di ebola segnalato nell'est del Paese"
+   ],
+   [
+    "Settembre 2026",
+    "Intensificate le campagne di vaccinazione e tracciamento"
+   ],
+   [
+    "13 ottobre 2026",
+    "Superati i 9.000 casi registrati"
+   ]
+  ],
+  "ze0514d48": [
+   [
+    "Settembre 2026",
+    "Scoperto piano iraniano contro base aerea USA"
+   ],
+   [
+    "Inizio ottobre 2026",
+    "MI5 segnala intensificazione delle minacce ibride"
+   ],
+   [
+    "13 ottobre 2026",
+    "Nuovo avvertimento del capo dell'MI5 su attacchi iraniani"
+   ]
+  ],
+  "z17db096d": [
+   [
+    "Anni precedenti",
+    "Taiz sotto assedio parziale da parte degli Houthi"
+   ],
+   [
+    "Mesi recenti",
+    "Intensificazione del blocco delle vie di accesso"
+   ],
+   [
+    "13 ottobre 2026",
+    "Completato l'assedio totale della città"
    ]
   ]
  },
@@ -37560,13 +39231,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zbdecf13b": {
-   "n": "Croazia",
-   "p": [
-    "Croatia"
-   ],
-   "pt": []
-  },
   "z292646f2": {
    "n": "Praga",
    "p": [
@@ -38229,6 +39893,441 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z8455a5d5": {
    "n": "America Latina",
    "p": [],
+   "pt": []
+  },
+  "z9eb9d496": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z5849779f": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z6cea0b9a": {
+   "n": "Pala",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z3a34ec8d": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z40e67efd": {
+   "n": "Sahel",
+   "p": [
+    "Mali",
+    "Burkina Faso",
+    "Niger"
+   ],
+   "pt": []
+  },
+  "z9f91997f": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zf4ab47ad": {
+   "n": "Kétou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z44e1908a": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z698834ff": {
+   "n": "Deserto di Agadem",
+   "p": [
+    "Niger"
+   ],
+   "pt": []
+  },
+  "zead4b1d5": {
+   "n": "Antananarivo",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z219f9846": {
+   "n": "Africa occidentale",
+   "p": [
+    "Gambia",
+    "Guinea",
+    "Mali",
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zc1cbceb0": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb280bf4e": {
+   "n": "Ginevra",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z22e81931": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z0cc38d79": {
+   "n": "Goma",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zf650e324": {
+   "n": "Kwamouth",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z830b75dd": {
+   "n": "Pétion-Ville",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zbf384cc8": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z8f8dabd2": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z6a46bd09": {
+   "n": "Pétion-Ville",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zd062940d": {
+   "n": "Haiti (Sud, Nord e Centro)",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zce56b6c3": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "za29f46c2": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zce8b9bcc": {
+   "n": "Santa Cruz e La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z40a5f0ed": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zb49ef590": {
+   "n": "Ruanda",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "z0c12cbdb": {
+   "n": "Ruanda",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "z74456aa1": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z54a0ca12": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z91764e6e": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z97f9978f": {
+   "n": "Sanaa",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z5bbcda3a": {
+   "n": "Repubblica Democratica del Congo",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "ze0514d48": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z0fd4f6d0": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z17db096d": {
+   "n": "Taiz",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z4c8fe4cb": {
+   "n": "Karnataka",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z342fbd0d": {
+   "n": "Krishnagiri",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z66b54efe": {
+   "n": "Puducherry",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zab9a2d11": {
+   "n": "India meridionale",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z89de6199": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z0c8b7c11": {
+   "n": "Emirati Arabi Uniti",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "ze43f9f8f": {
+   "n": "Emirati Arabi Uniti",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zd040eb85": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z9185d44d": {
+   "n": "Azerbaigian",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zd15feeae": {
+   "n": "Azerbaigian",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zed77d85c": {
+   "n": "Azerbaigian",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z4cbce32e": {
+   "n": "mondo",
+   "p": [],
+   "pt": []
+  },
+  "z6fe6e525": {
+   "n": "Chittagong",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zd8f28b97": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "za332f589": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z3d73fab4": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z60738897": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zc7ef2164": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z0a8c8904": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zea7c750e": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z2bfed1e2": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z69ecf87c": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zdbb72b2a": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z76c5fe1e": {
+   "n": "mondo",
+   "p": [],
+   "pt": []
+  },
+  "z5d1b36fe": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z1316e568": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "zeebcb1f5": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
    "pt": []
   }
  },
@@ -39159,7 +41258,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z81373381": 1,
   "ze430a24e": 1,
   "z176e665a": 1,
-  "zbdecf13b": 1,
   "z292646f2": 1,
   "z1e1a4329": 1,
   "zc0451ceb": 1,
@@ -39255,7 +41353,69 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z24f5cc94": 1,
   "zbff32462": 1,
   "zdba22e2e": 1,
-  "z8455a5d5": 1
+  "z8455a5d5": 1,
+  "z9eb9d496": 1,
+  "z5849779f": 1,
+  "z6cea0b9a": 1,
+  "z3a34ec8d": 1,
+  "z40e67efd": 1,
+  "z9f91997f": 1,
+  "zf4ab47ad": 1,
+  "z44e1908a": 1,
+  "z698834ff": 1,
+  "zead4b1d5": 1,
+  "z219f9846": 1,
+  "zc1cbceb0": 2,
+  "zb280bf4e": 1,
+  "z22e81931": 1,
+  "z0cc38d79": 2,
+  "zf650e324": 1,
+  "z830b75dd": 1,
+  "zbf384cc8": 1,
+  "z8f8dabd2": 1,
+  "z6a46bd09": 1,
+  "zd062940d": 1,
+  "zce56b6c3": 1,
+  "za29f46c2": 1,
+  "zce8b9bcc": 2,
+  "z40a5f0ed": 1,
+  "zb49ef590": 1,
+  "z0c12cbdb": 1,
+  "z74456aa1": 1,
+  "z54a0ca12": 2,
+  "z91764e6e": 2,
+  "z97f9978f": 1,
+  "z5bbcda3a": 2,
+  "ze0514d48": 2,
+  "z0fd4f6d0": 1,
+  "z17db096d": 2,
+  "z4c8fe4cb": 1,
+  "z342fbd0d": 1,
+  "z66b54efe": 1,
+  "zab9a2d11": 1,
+  "z89de6199": 1,
+  "z0c8b7c11": 1,
+  "ze43f9f8f": 1,
+  "zd040eb85": 1,
+  "z9185d44d": 1,
+  "zd15feeae": 1,
+  "zed77d85c": 1,
+  "z4cbce32e": 1,
+  "z6fe6e525": 1,
+  "zd8f28b97": 1,
+  "za332f589": 1,
+  "z3d73fab4": 1,
+  "z60738897": 1,
+  "zc7ef2164": 1,
+  "z0a8c8904": 1,
+  "zea7c750e": 1,
+  "z2bfed1e2": 1,
+  "z69ecf87c": 1,
+  "zdbb72b2a": 1,
+  "z76c5fe1e": 1,
+  "z5d1b36fe": 1,
+  "z1316e568": 1,
+  "zeebcb1f5": 1
  },
  "video": {},
  "pillole": []
