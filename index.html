@@ -747,6 +747,8 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 .parlato{margin:.7em 0;font-size:.92em}.parlato ul{margin:.3em 0 0 1.1em;padding:0}.parlato li{margin:.15em 0}
 .stato-usc{font:600 12.5px var(--sans);padding:6px 16px;text-align:center;line-height:1.35}
 .stato-usc.corso{background:#fff4d6;color:#6b4c00}.stato-usc.ok{background:#e6f4ea;color:#1d5f30}.stato-usc.fermo{background:#fde8e6;color:#8f1d1d}
+.nz-tit>a{text-decoration:none}.nz-tit>a b{font:700 15px/1.3 var(--display)}.nz-tit>a:hover b{text-decoration:underline}
+.nz-tit small{display:block;margin-top:4px}.nz-tit .orig{display:block;margin-top:3px;font:italic 11.5px/1.35 var(--sans);color:var(--muted)}
 </style>
 </head>
 <body>
@@ -1450,14 +1452,17 @@ function liTitolo(x, lingua){
   if(tr) return `<li><a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(tr)}</a>${straniero&&tr!==x.t?`<em class="orig">Titolo originale: ${esc(x.t)}</em>`:""}</li>`;
   return `<li><a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a>${straniero?` <a class="tr" href="${tradotto(x.u)}" target="_blank" rel="noopener">tradotto</a>`:""}</li>`;
 }
+function boxTitolo(x, lingua, testata, dove){          // regola del 13/10: ogni notizia ha il suo box (mai più titoli in elenco dentro il box della testata)
+  const tr = titoloIt(x); if(tr==="") return "";
+  const straniero = (lingua && lingua!=="it") || (x.l && x.l!=="it");
+  return `<div class="nz-t nz-tit"><a href="${esc(x.u)}" target="_blank" rel="noopener"><b>${esc(tr||x.t)}</b></a>${straniero&&tr&&tr!==x.t?`<em class="orig">Titolo originale: ${esc(x.t)}</em>`:""}${straniero&&!tr?` <a class="tr" href="${tradotto(x.u)}" target="_blank" rel="noopener">tradotto</a>`:""}<small>${esc(testata)}${dove?" · "+esc(dove):""}</small></div>`;
+}
 function testataHTML(t){
-  const li = t.titoli.map(x=>liTitolo(x,t.lingua)).join("");
-  return `<div class="nz-t"><b>${esc(t.n)}</b> <small>${esc(t.citta)} · ${esc(t.natura)}</small><ul>${li||"<li><i>Nessun titolo adatto oggi (cronaca nera esclusa)</i></li>"}</ul></div>`;
+  const box = t.titoli.map(x=>boxTitolo(x,t.lingua,t.n,t.citta)).join("");
+  return box || `<div class="nz-t nz-tit"><b>${esc(t.n)}</b><small>${esc(t.citta)} · nessun titolo adatto oggi (cronaca nera esclusa)</small></div>`;
 }
 function fuoriHTML(p){
-  const gr = {};                                   // un box per testata, come lo sguardo interno
-  (p.fuori||[]).forEach(x=>{ const l = liTitolo(x,x.l); if(l){ const g = gr[x.n] = gr[x.n] || {n:x.n, d:x.paese||x.citta||"", li:[]}; g.li.push(l); } });
-  const box = Object.values(gr).map(g=>`<div class="nz-t"><b>${esc(g.n)}</b> <small>${esc(g.d)}</small><ul>${g.li.join("")}</ul></div>`).join("");
+  const box = (p.fuori||[]).map(x=>boxTitolo(x,x.l,x.n,x.paese||x.citta||"")).join("");      // un box per notizia (13/10)
   return box ? `<div class="nz-g">${box}</div>` : "";
 }
 
@@ -1906,7 +1911,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261013-1104";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261013-1109";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2122,7 +2127,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261013-1104";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261013-1109";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
