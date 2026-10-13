@@ -3,6 +3,1794 @@ window.EDIZIONI["2026-10-13-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zef36f83e",
+   "sez": "mondo",
+   "titolo": "Un partenariato lancia un programma di empowerment per gli studenti in Botswana",
+   "orig": "Partners Launch Learner Empowerment Drive",
+   "lead": "In Botswana, Bold Bloom Africa Group, THE PLUG TVET e l'autrice Lesedi Lucia Rebaeng hanno siglato una partnership per portare nelle scuole e nelle comunità del Paese programmi di orientamento professionale, formazione tecnico-professionale (TVET), imprenditorialità e sviluppo personale. L'iniziativa punta a offrire ai giovani strumenti concreti per costruirsi un futuro lavorativo, combinando competenze pratiche e crescita personale. Il progetto coinvolgerà istituti scolastici e realtà locali in diverse regioni del Paese. Lo riferisce The Botswana Gazette.",
+   "more": [
+    "TVET (Technical and Vocational Education and Training) indica percorsi di formazione professionale orientati all'acquisizione di competenze pratiche spendibili nel mondo del lavoro, spesso alternativa agli studi accademici tradizionali nei Paesi in via di sviluppo."
+   ],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/news/partners-launch-learner-empowerment-drive/",
+     "angolo": "",
+     "atlas": "Botswana",
+     "t": "2026-10-13T13:55+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z85936149",
+   "sez": "mondo",
+   "titolo": "\"Il Belize è il mio Paese\": il deputato Lee Mark Chang risponde alle accuse di slealtà",
+   "orig": "“Belize is my country”: Lee Mark Chang responds to loyalty question",
+   "lead": "Il deputato di Mesopotamia, Lee Mark Chang, ha risposto alle accuse di una pagina social che metteva in dubbio la sua lealtà verso il Belize, chiedendogli se stesse dalla parte del Paese o della Cina, definita sua \"madrepatria\". In un post su Facebook, Chang ha respinto l'insinuazione, affermando con fermezza che il Belize è il suo Paese. La polemica nasce da un post della pagina Belize NOW che aveva sollevato dubbi sulla sua origine e sui suoi legami. Lo riferisce Breaking Belize News.",
+   "more": [
+    "Il Belize ospita una delle più numerose comunità di origine cinese della regione caraibica, con figure pubbliche spesso oggetto di interrogativi sulla loro identità nazionale e sui rapporti tra Belize e Cina."
+   ],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/13/belize-is-my-country-lee-mark-chang-responds-to-loyalty-question/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-13T13:45+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zea0e3a34",
+   "sez": "mondo",
+   "titolo": "La Girls' Brigade delle Bahamas lancia un'iniziativa per modernizzare i suoi programmi",
+   "orig": "Girls’ Brigade launching new initiative to modernise programmes",
+   "lead": "La Girls' Brigade delle Bahamas e delle Isole Turks e Caicos ha avviato un'iniziativa strategica per modernizzare i propri programmi destinati alle giovani donne di oggi. L'organizzazione, attiva da tempo nell'educazione e nella formazione delle ragazze, punta ad aggiornare i contenuti e i metodi delle sue attività per renderli più adeguati alle esigenze contemporanee. Lo riferisce The Tribune (Bahamas).",
+   "more": [
+    "Girls' Brigade è un movimento giovanile cristiano internazionale che promuove la crescita personale, spirituale e sociale delle ragazze attraverso attività educative, sportive e comunitarie, diffuso in molti Paesi del Commonwealth."
+   ],
+   "fonti": [
+    {
+     "n": "The Tribune (Bahamas)",
+     "p": "XX",
+     "c": "Nassau",
+     "u": "https://tribune242.com/news/2026/oct/13/girls-brigade-launching-new-initiative-to-modernise-programmes/",
+     "angolo": "",
+     "atlas": "Bahamas",
+     "t": "2026-10-13T11:07-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zd56d9a51",
+   "sez": "mondo",
+   "titolo": "Un riconoscimento alla carriera per Lorraine Symonette-Armbrister",
+   "orig": "SAC honours Lorraine Symonette- Armbrister for a Lifetime of Public Service",
+   "lead": "Lorraine Symonette-Armbrister è stata insignita di un riconoscimento dalla SAC per la sua carriera dedicata al servizio pubblico e all'istruzione alle Bahamas. Il suo percorso ha spaziato dall'aiutare i bahamensi a trasformare la conchiglia di lumaca marina in opportunità imprenditoriali, fino al contributo alla trasformazione digitale delle aule scolastiche del Paese. L'onorificenza celebra decenni di impegno nella comunità educativa nazionale. Lo riferisce The Tribune (Bahamas).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Tribune (Bahamas)",
+     "p": "XX",
+     "c": "Nassau",
+     "u": "https://tribune242.com/news/2026/oct/13/sac-honours-lorraine-symonette-armbrister-for-a-lifetime-of-public-service/",
+     "angolo": "",
+     "atlas": "Bahamas",
+     "t": "2026-10-13T11:06-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z4fe65521",
+   "sez": "salute",
+   "titolo": "Esperti caraibici: diagnosi precoce cruciale per la sclerosi multipla",
+   "orig": "‘Early diagnosis of MS crucial’",
+   "lead": "Durante un forum organizzato da Aventa Barbados dal titolo \"Multiple Sclerosis: Changing The Course of MS – Why Early Treatment Matters\", alcuni neurologi hanno sottolineato l'importanza della diagnosi precoce della sclerosi multipla. Pur avendo una prevalenza inferiore rispetto a Nord America ed Europa, nei Caraibi la malattia colpisce spesso in modo più grave le persone nere, rendendo cruciali diagnosi tempestiva, invio specialistico e un approccio di cura multidisciplinare. Lo riferisce Nation News.",
+   "more": [
+    "La sclerosi multipla è una malattia autoimmune cronica che colpisce il sistema nervoso centrale, causando danni progressivi alla guaina mielinica dei nervi; una diagnosi precoce consente di avviare trattamenti che possono rallentarne il decorso."
+   ],
+   "fonti": [
+    {
+     "n": "Nation News",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://nationnews.com/2026/10/13/early-diagnosis-of-ms-crucial/?utm_source=rss&utm_medium=rss&utm_campaign=early-diagnosis-of-ms-crucial",
+     "angolo": "",
+     "atlas": "Barbados",
+     "t": "2026-10-13T15:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z586a13b7",
+   "sez": "cultura",
+   "titolo": "Captain Charles Sandiford, 50 anni a custodire le tradizioni culturali delle Barbados",
+   "orig": "Captain Charles Sandiford: Keeping the culture alive",
+   "lead": "Il capitano Charles Sandiford ha dedicato oltre 50 anni della propria vita al panorama culturale delle Barbados, mantenendo vive le tradizioni del Barbados Landship e delle tuk band. Il suo impegno è stato riconosciuto lo scorso 4 luglio, quando è stato incluso tra un gruppo di individui e organizzazioni onorati durante una cerimonia ufficiale dedicata ai contributi culturali del Paese. Lo riferisce Nation News.",
+   "more": [
+    "Il Barbados Landship è una tradizione culturale unica delle Barbados che riproduce con percorsi coreografici la vita di bordo delle navi della Royal Navy britannica, mentre le tuk band sono gruppi musicali tradizionali che uniscono ritmi africani ed europei."
+   ],
+   "fonti": [
+    {
+     "n": "Nation News",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://nationnews.com/2026/10/13/captain-charles-sandiford-keeping-the-culture-alive/?utm_source=rss&utm_medium=rss&utm_campaign=captain-charles-sandiford-keeping-the-culture-alive",
+     "angolo": "",
+     "atlas": "Barbados",
+     "t": "2026-10-13T14:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb67d543c",
+   "sez": "mondo",
+   "titolo": "I comandanti delle guardie costiere RSS chiedono più cooperazione marittima nei Caraibi",
+   "orig": "RSS Coast Guard chiefs call for stronger regional maritime cooperation",
+   "lead": "I comandanti delle guardie costiere del Regional Security System (RSS), riuniti per un vertice di due giorni, hanno chiesto una cooperazione marittima regionale più stretta nei Caraibi. I leader hanno sollecitato un coordinamento più rapido, una condivisione più efficace delle informazioni di intelligence e un miglioramento della sorveglianza marittima per contrastare le crescenti minacce alla sicurezza nelle acque della regione. Lo riferisce Dominica News Online.",
+   "more": [
+    "Il Regional Security System è un'organizzazione intergovernativa che riunisce diversi Stati caraibici orientali per coordinare la sicurezza regionale, la lotta al traffico di droga e la risposta a disastri naturali."
+   ],
+   "fonti": [
+    {
+     "n": "Dominica News Online",
+     "p": "XX",
+     "c": "Roseau",
+     "u": "https://dominicanewsonline.com/news/homepage/homepage-carousel/rss-coast-guard-chiefs-call-for-stronger-regional-maritime-cooperation/",
+     "angolo": "",
+     "atlas": "Dominica",
+     "t": "2026-10-13T13:49+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z71924fcd",
+   "sez": "mondo",
+   "titolo": "Cuba, l'attivista Anamely Ramos denuncia nuovi trattamenti vessatori contro il rapper Osorbo",
+   "orig": "Maykel Castillo 'Osorbo' vuelve a ser víctima de tratos vejatorios en la prisión de Guanajay",
+   "lead": "L'attivista cubana Anamely Ramos ha denunciato che il musicista Maykel Castillo \"Osorbo\" è stato nuovamente vittima di trattamenti umilianti nel carcere di Guanajay, a Cuba. Secondo Ramos, l'area di massima sicurezza dove è detenuto il rapper, noto per il suo attivismo attraverso la musica, è incomunicabile da due mesi. Lo riferisce 14ymedio.",
+   "more": [
+    "Maykel Castillo \"Osorbo\" è un rapper cubano noto per la canzone di protesta \"Patria y Vida\", divenuta simbolo delle rivendicazioni di libertà a Cuba; è detenuto da anni con pesanti condanne legate al suo attivismo."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/maykel-castillo-osorbo-vuelve-victima_1_1131897.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-13T13:50+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf7893e4a",
+   "sez": "mondo",
+   "titolo": "Centrafrica, fallisce l'elezione del sindaco di Ouanda-Djallé",
+   "orig": "Ouanda-Djallé : l’élection du maire avortée",
+   "lead": "L'elezione del sindaco di Ouanda-Djallé, nella regione della Vakaga in Repubblica Centrafricana, non si è potuta svolgere la scorsa settimana a causa della scarsa partecipazione di parte dei consiglieri comunali, che hanno boicottato il voto. Il governatore della regione del Fertit, Thierry Évariste Binguinendji, ha espresso rammarico per l'accaduto e ha invitato gli eletti a una maggiore presa di coscienza delle proprie responsabilità. Lo riferisce Radio Ndeke Luka.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107040-ouanda-djalle-lelection-du-maire-avortee",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-13T14:25+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z178ce6b6",
+   "sez": "mondo",
+   "titolo": "Centrafrica, a Obo le scuole faticano a partire tre settimane dopo l'inizio dell'anno",
+   "orig": "Obo : trois semaines après la rentrée des classes, certains établissements n’ont vraiment démarré",
+   "lead": "A tre settimane dall'inizio dell'anno scolastico, avviato lo scorso 21 settembre, diversi istituti di Obo, nel Haut-Mbomou in Repubblica Centrafricana, non sono ancora riusciti a iniziare regolarmente le lezioni. Secondo le autorità locali, numerosi insegnanti assegnati alla zona non hanno ancora raggiunto le proprie sedi, bloccando di fatto l'avvio dei corsi in alcune scuole. Lo riferisce Radio Ndeke Luka.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107037-obo-trois-semaines-apres-la-rentree-des-classes-certains-etablissements-nont-vraiment-demarre",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-13T14:19+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z71f60aec",
+   "sez": "mondo",
+   "titolo": "Centrafrica, traffico bloccato a Garoua-Boulaï per la protesta dei trasportatori",
+   "orig": "Garoua-Boulaï : trafic bloqué à la suite du mécontentement des transporteurs",
+   "lead": "Oltre un centinaio di camion per il trasporto merci sono bloccati da più di una settimana a Garoua-Boulaï, lungo il corridoio Bangui-Douala in Repubblica Centrafricana, a causa del malcontento dei trasportatori. Lo riferisce Radio Ndeke Luka.",
+   "more": [
+    "Il corridoio Bangui-Douala è una delle principali vie commerciali dell'Africa centrale, fondamentale per l'approvvigionamento della Repubblica Centrafricana, Paese senza sbocco sul mare, attraverso il porto camerunese di Douala."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107036-garoua-boulai-trafic-bloque-a-la-suite-du-mecontentement-des-transporteurs",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-13T14:16+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zd4bf98e5",
+   "sez": "mondo",
+   "titolo": "Centrafrica, migliora la sicurezza ad Amdafock quattro mesi dopo l'attacco armato",
+   "orig": "Amdafock : nette amélioration de la situation sécuritaire, 4 mois après une attaque armée",
+   "lead": "Circa quattro mesi dopo l'attacco armato subito dalla città di Amdafock, nella regione della Vakaga in Repubblica Centrafricana, la situazione di sicurezza è nettamente migliorata. Il rafforzamento degli effettivi delle Forze armate centrafricane nella città, situata al confine con il Sudan, ha rassicurato gli abitanti, che oggi riprendono le proprie attività quotidiane nonostante persista una paura residua legata a voci di possibili nuovi attacchi nella zona. Lo riferisce Radio Ndeke Luka.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107034-amdafock-nette-amelioration-de-la-situation-securitaire-4-mois-apres-une-attaque-armee",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-13T14:13+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf0f2c1f0",
+   "sez": "mondo",
+   "titolo": "Francia, incastrato il giovane truffatore che usurpava l'identità di commissari e magistrati",
+   "orig": "« Attrape-moi si tu peux » : la traque rocambolesque d’un jeune escroc qui narguait la police et usurpait l’identité de commissaires et de magistrats",
+   "lead": "Un francese di 25 anni è stato incriminato e incarcerato l'11 settembre scorso con l'accusa di truffa e riciclaggio aggravato, dopo aver messo in piedi un sofisticato stratagema basato su ingegneria sociale e cybercriminalità. Dall'Israele, il giovane parigino usurpava l'identità di commissari di polizia e magistrati per sottrarre fondi a studi notarili e aziende, beffando a lungo le forze dell'ordine prima di essere infine catturato. Lo riferisce Le Monde.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/societe/article/2026/10/13/attrape-moi-si-tu-peux-la-traque-rocambolesque-d-un-jeune-escroc-qui-narguait-la-police-et-usurpait-l-identite-de-commissaires-et-de-magistrats_6793112_3224.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-13T15:31+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf621d001",
+   "sez": "mondo",
+   "titolo": "Francia, istituti privati come Stanislas e Audencia bloccati da militanti esterni",
+   "orig": "Stanislas, Audencia, la Catho… ces établissements privés bloqués par des jeunes venus de l’extérieur",
+   "lead": "Diversi istituti scolastici privati francesi, tra cui Stanislas, Audencia e la Catho, sono stati bloccati da gruppi di giovani provenienti da altre scuole, nell'ambito della mobilitazione studentesca in corso nel Paese. Dall'inizio delle proteste, numerose istituzioni private hanno subito blocchi organizzati per lo più da militanti esterni, non iscritti agli istituti coinvolti, secondo quanto ricostruito dal quotidiano. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://etudiant.lefigaro.fr/article/etudes/stanislas-audencia-la-catho-ces-etablissements-prives-bloques-par-des-jeunes-venus-de-l-exterieur-20261013/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-13T17:15+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z1342afc9",
+   "sez": "mondo",
+   "titolo": "Francia, quasi mille fermi nel sud del Paese durante le proteste liceali",
+   "orig": "Violences lycéennes : près de 1000 interpellations dans le sud de la France, une écrasante majorité de mineurs",
+   "lead": "Nel sud della Francia sono stati registrati quasi mille fermi di polizia nell'ambito delle violenze legate alle mobilitazioni liceali in corso nel Paese, secondo un bilancio della zona Sud di cui Le Figaro è venuto a conoscenza. La maggioranza assoluta delle persone fermate sono minorenni, per lo più al primo contatto con la giustizia. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/marseille/violences-lyceennes-pres-de-1000-interpellations-dans-le-sud-de-la-france-une-ecrasante-majorite-de-mineurs-20261013",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-13T16:56+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z64f20320",
+   "sez": "mondo",
+   "titolo": "Gaza, il regista Yuval Abraham: \"Forse non tornerò mai più\"",
+   "orig": "Gaza: Yuval Abraham, Macher einer umstrittenen Kriegsdokumentation, über die Drohungen gegen ihn: »Vielleicht kehre ich nie zurück«",
+   "lead": "Il giornalista israeliano Yuval Abraham, autore del controverso documentario sulla guerra a Gaza, è stato duramente attaccato dal governo israeliano. In un'intervista, Abraham racconta le minacce di morte ricevute, le indagini avviate contro i suoi informatori e le conseguenze personali di questa esposizione, affermando di non sapere se potrà mai tornare a vivere normalmente nel suo Paese. Lo riferisce Der Spiegel.",
+   "more": [
+    "Yuval Abraham è un giornalista e regista israeliano noto per documentari sulla vita nei territori palestinesi, spesso premiati a livello internazionale ma oggetto di forti critiche e minacce da parte di ambienti vicini al governo israeliano."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/gaza-yuval-abraham-macher-einer-umstrittenen-kriegsdokumentation-ueber-die-drohungen-gegen-ihn-vielleicht-kehre-ich-nie-zurueck-a-20deb4c8-615d-4f0a-8608-f361a72404c8#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T17:08+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z095dcfb9",
+   "sez": "cultura",
+   "titolo": "Kelly Clarkson al centro di una polemica social per un episodio in un negozio",
+   "orig": "Kelly Clarkson, ein kleiner Laden, ein Vogel, ein Streit: Pretty Woman oder pretty abgehoben?",
+   "lead": "La cantante statunitense Kelly Clarkson è al centro di una polemica social dopo un episodio avvenuto in un piccolo negozio, legato a un uccello e a una discussione con un dipendente. Secondo alcune versioni, Clarkson sarebbe stata trattata con sufficienza da un commesso arrogante; secondo altre, sarebbe stata lei a usare la propria notorietà per mettere in difficoltà l'attività commerciale. La vicenda continua a far discutere online. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/kultur/kelly-clarkson-ein-kleiner-laden-ein-vogel-ein-streit-pretty-woman-oder-pretty-abgehoben-a-633644d8-6369-431e-ba91-92b5c3dc10d4#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T16:47+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zad71dffe",
+   "sez": "mondo",
+   "titolo": "Germania, dopo le dimissioni di Bas la CDU respinge le accuse di attacchi personali",
+   "orig": "Bundesregierung: Der Fall Bas und die Suche nach bösen Attacken",
+   "lead": "Dopo le dimissioni di Bärbel Bas, esponenti dell'Unione CDU/CSU in Germania assicurano di non averla attaccata personalmente, mentre il leader della SPD Lars Klingbeil parla di una \"molteplicità\" di attacchi subiti dalla politica socialdemocratica, senza però fornire esempi concreti. La vicenda alimenta tensioni all'interno della coalizione di governo tedesca sulla gestione del caso. Lo riferisce Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/baerbel-bas-ruecktritt-persoenliche-angriffe-cdu-reaktion-stieftochter-li.3562844",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T13:20+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zd42dd010",
+   "sez": "economia",
+   "titolo": "Germania, al centro del dibattito sull'imposta di successione interessi economici e sociali",
+   "orig": "Erbschaftsteuer: Es geht um viel Geld, um Arbeitsplätze – und um Gerechtigkeit",
+   "lead": "In Germania è in corso un procedimento davanti alla Corte costituzionale federale riguardante l'imposta di successione, una questione che tocca interessi economici rilevanti, posti di lavoro e principi di equità sociale. L'articolo sottolinea che, pur in un contesto di difficoltà di bilancio per il governo federale, non spetta alla Corte costituzionale risolvere i problemi finanziari dello Stato attraverso questa sentenza. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "L'imposta di successione in Germania, come in molti Paesi europei, è oggetto di dibattito perché incide sul trasferimento di patrimoni e aziende familiari tra generazioni, con implicazioni dirette su occupazione e redistribuzione della ricchezza."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/erbschaftsteuer-bundesverfassungsgericht-klage-bayern-li.3558626",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T13:16+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "ze4d2b806",
+   "sez": "mondo",
+   "titolo": "Perquisizione della procura al settimanale Die Zeit riapre il dibattito sulla libertà di stampa in Germania",
+   "orig": "Journalismus: Und wieder rückt die Staatsmacht an",
+   "lead": "Una procura tedesca ha disposto la perquisizione e il sequestro di documenti presso la redazione del settimanale Die Zeit, suscitando un acceso dibattito sulla libertà di stampa in Germania. L'episodio richiama alla memoria la storica \"Spiegel-Affäre\" degli anni Sessanta, quando lo Stato intervenne duramente contro una testata giornalistica tedesca. Il caso riaccende le discussioni sul rapporto tra potere statale e indipendenza dei media nel Paese. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "La Spiegel-Affäre fu uno scandalo del 1962 in cui le autorità tedesche perquisirono la redazione del settimanale Der Spiegel e arrestarono giornalisti dopo un articolo critico sulla difesa nazionale, diventando un simbolo della lotta per la libertà di stampa nella Germania del dopoguerra."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/medien/zeit-beschlagnahmung-redaktion-durchsuchung-spiegel-affaere-pressefreiheit-li.3562858",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T13:09+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z9c9d39bc",
+   "sez": "mondo",
+   "titolo": "Merz ribadisce la linea dura sulle riforme sociali e respinge le richieste della SPD",
+   "orig": "Reformpolitik: „Ich habe nicht die Absicht, der Liebling der Nation zu werden“",
+   "lead": "Al congresso dei datori di lavoro tedeschi, il cancelliere Friedrich Merz ha ribadito la necessità di procedere rapidamente con le riforme sociali, assegnando un primo compito al nuovo ministro del Lavoro Alexander Schweitzer. Merz ha respinto con fermezza le richieste di correzione avanzate dal partito socialdemocratico, suo alleato di coalizione, dichiarando di non avere intenzione di diventare \"il beniamino della nazione\". Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "Friedrich Merz è il cancelliere tedesco, alla guida di una coalizione con la SPD. Le riforme sociali discusse riguardano il sistema di welfare e del mercato del lavoro tedesco, tema centrale di tensione tra i partner di governo sulla direzione economica del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/merz-arbeitgebertag-rede-spd-li.3562851",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T13:06+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf6b19e61",
+   "sez": "mondo",
+   "titolo": "Droni ucraini colpiscono i data center di Yandex, il Cremlino ammette \"difficoltà\"",
+   "orig": "Angriffe auf Yandex: So verletzlich ist Russlands Infrastruktur",
+   "lead": "Droni ucraini hanno colpito e messo fuori uso alcuni data center del colosso informatico russo Yandex, provocando disservizi segnalati dagli utenti e persino il riconoscimento di \"difficoltà\" da parte del Cremlino. L'episodio mette in luce la vulnerabilità delle infrastrutture digitali russe agli attacchi ucraini nell'ambito del conflitto in corso tra i due Paesi. Lo riferisce FAZ.",
+   "more": [
+    "Yandex è il principale gruppo tecnologico russo, attivo nei motori di ricerca, nel cloud e nei servizi digitali, spesso paragonato a Google per il suo ruolo nell'economia digitale russa. Le sue infrastrutture sono diventate un bersaglio strategico nel conflitto tra Russia e Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ukraine/angriffe-auf-yandex-ukraine-legt-russisches-google-lahm-201312070.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T15:13+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z1804dd73",
+   "sez": "mondo",
+   "titolo": "In Sassonia-Anhalt la CDU sceglie di lasciare l'aula per non votare il nuovo presidente del Landtag",
+   "orig": "Sachsen-Anhalt: Die neue CDU-Strategie: Den Saal verlassen",
+   "lead": "Nel Land tedesco della Sassonia-Anhalt i deputati della CDU hanno deciso di lasciare l'aula durante il voto per la presidenza del parlamento regionale, piuttosto che votare contro il candidato Ulrich Siegmund. La scelta nasce dalle divisioni interne emerse nella precedente elezione del presidente del Landtag, quando il gruppo non si era presentato compatto, e punta a evitare qualsiasi voto favorevole a Siegmund. Lo riferisce FAZ.",
+   "more": [
+    "Il Landtag è il parlamento regionale tedesco, la cui presidenza viene eletta dai deputati. In Sassonia-Anhalt la CDU governa in coalizione, e le tensioni interne riflettono il complesso rapporto con le forze di estrema destra presenti nell'assemblea."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/cdu-in-sachsen-anhalt-will-abstimmung-ueber-ulrich-siegmund-fernbleiben-201313134.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T14:02+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf5881133",
+   "sez": "mondo",
+   "titolo": "Ricorso cautelare per bloccare il progetto Emporium Park a Porto",
+   "orig": "Providência cautelar quer travar obra no Emporium Park. Câmara do Porto pediu novos pareceres",
+   "lead": "L'associazione Porto Atlântico ha presentato un ricorso cautelare per sospendere i lavori del progetto Emporium Park a Porto, mentre è in corso un'azione amministrativa contro l'opera. Il Comune di Porto ha nel frattempo richiesto nuovi pareri tecnici sul progetto. Il presidente della Câmara, Pedro Duarte, ha commentato: \"Meno male che potremo chiarire tutto\". Lo riferisce Público.",
+   "more": [
+    "L'Emporium Park è un progetto edilizio nella città portoghese di Porto, oggetto di contestazioni da parte di associazioni civiche preoccupate per il suo impatto urbanistico. I ricorsi cautelari permettono di bloccare temporaneamente un'opera in attesa di una decisione definitiva."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/13/local/noticia/providencia-cautelar-quer-travar-obra-emporium-park-camara-porto-pediu-novos-pareceres-2191239",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-13T14:25+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/porto-atlantico-interpoe-providencia-cautelar-para-parar-obras-do-emporium-park_n1771370",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc234d552",
+   "sez": "mondo",
+   "titolo": "Teixeira da Mota definisce Alberto João Jardim un \"piccolo tiranno\"",
+   "orig": "Para Teixeira da Mota, Alberto João Jardim era um \"tiranete\"",
+   "lead": "L'avvocato Teixeira da Mota ha descritto l'ex presidente della Regione Autonoma di Madeira, Alberto João Jardim, come un \"piccolo tiranno\" che intimidiva l'opposizione e usava i tribunali a proprio vantaggio. Il giudizio emerge da una testimonianza riportata dal quotidiano. Lo riferisce Público.",
+   "more": [
+    "Alberto João Jardim è stato per decenni presidente del governo regionale di Madeira, figura politica controversa nota per il suo stile autoritario e per i lunghi anni al potere nell'arcipelago portoghese."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/13/video/teixeira-mota-alberto-joao-jardim-tiranete-20261012-173132",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-13T14:17+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z5d588b43",
+   "sez": "economia",
+   "titolo": "Slitta a novembre il taxi a tariffa fissa dall'aeroporto di Lisbona",
+   "orig": "Táxis com preço fixo desde o Aeroporto de Lisboa só em Novembro e com mais destinos",
+   "lead": "L'introduzione di una tariffa fissa per i taxi dall'aeroporto di Lisbona slitterà a novembre a causa di aspetti tecnici, con due settimane di ritardo rispetto ai piani iniziali. I tassisti chiedono inoltre di includere nel sistema anche località al confine con la capitale, come Prior Velho e Sacavém. Lo riferisce Público.",
+   "more": [
+    "Le tariffe fisse per i taxi aeroportuali sono pensate per garantire trasparenza ai passeggeri, evitando sorprese sul costo della corsa tra lo scalo e la città, un tema ricorrente nelle grandi capitali europee."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/13/local/noticia/taxis-preco-fixo-desde-aeroporto-lisboa-so-novembro-destinos-2191155",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-13T13:47+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z93e66d0e",
+   "sez": "economia",
+   "titolo": "L'industria calzaturiera portoghese lancia una campagna per un \"mondo migliore\"",
+   "orig": "Indústria pode “contribuir para um mundo melhor”, diz nova campanha do calçado português",
+   "lead": "La nuova campagna \"Kidness\" dell'industria calzaturiera portoghese punterà a mostrare come il settore possa \"contribuire a un mondo migliore\", e sarà presentata nei prossimi dodici mesi in 70 fiere internazionali. I promotori sottolineano la necessità di \"un gesto di empatia\" da parte del comparto. Lo riferisce Público.",
+   "more": [
+    "Il Portogallo è uno dei principali produttori europei di calzature, con un'industria fortemente orientata all'esportazione. Le campagne settoriali internazionali servono a promuovere l'immagine del comparto nelle fiere di settore in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/13/impar/noticia/industria-contribuir-mundo-melhor-nova-campanha-calcado-portugues-2191010",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-13T13:46+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z824bb3f6",
+   "sez": "mondo",
+   "titolo": "La deputata di Chega Rita Matias identificata dopo l'irruzione in uno studio radiofonico a Coimbra",
+   "orig": "Rita Matias identificada pela PSP após invasão de estúdio da Rádio Universidade de Coimbra",
+   "lead": "La polizia portoghese ha identificato la deputata di Chega Rita Matias dopo l'irruzione di membri del partito nello studio della Rádio Universidade de Coimbra, in protesta contro il divieto imposto dall'Associação Académica de Coimbra di accedere all'edificio. Il Movimento Associativo Estudantil ha inviato una lettera al leader di Chega, André Ventura, per denunciare l'episodio. Lo riferisce Público.",
+   "more": [
+    "Chega è un partito portoghese di destra radicale guidato da André Ventura, diventato negli ultimi anni una delle forze politiche in crescita nel Paese. La Rádio Universidade de Coimbra è un'emittente storica legata al mondo universitario della città."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/13/politica/noticia/rita-matias-identificada-psp-apos-invasao-estudio-radio-universidade-coimbra-2191195",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-13T13:32+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zd61ca9ee",
+   "sez": "ambiente",
+   "titolo": "Gli agricoltori olandesi presentano proposte sull'azoto, il ministro le respinge subito",
+   "orig": "Na de vele protesten willen boerenactiegroepen het nu over de inhoud hebben, maar de minister wijst hun plannen direct af",
+   "lead": "Dopo mesi di proteste, le organizzazioni agricole riunite nella Landbouw Alliantie nei Paesi Bassi hanno presentato proprie proposte sulle emissioni di azoto, ma il ministro competente le ha respinte immediatamente. Le idee divergono molto dai piani del governo, e anche l'associazione agricola LTO dubita della loro concretezza. Il movimento radicale Farmers Defence Force non fa ufficialmente parte dell'Alleanza, ma mantiene legami stretti con essa. Lo riferisce NRC.",
+   "more": [
+    "La questione dell'azoto è al centro di un lungo scontro politico nei Paesi Bassi tra governo e mondo agricolo, dopo che le autorità hanno imposto limiti alle emissioni per proteggere le aree naturali, provocando ondate di proteste degli agricoltori negli ultimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/13/na-de-vele-protesten-willen-boerenactiegroepen-het-nu-over-de-inhoud-hebben-maar-de-minister-wijst-hun-plannen-direct-af-a4938867",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-13T17:04+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z5e328248",
+   "sez": "mondo",
+   "titolo": "L'hacker dei supermercati francesi è un avvertimento anche per le aziende olandesi",
+   "orig": "Hack van Franse supermarktkoeling is ook een waarschuwing voor Nederlandse bedrijven",
+   "lead": "Un attacco informatico ha fatto scattare in modalità sbrinamento gli impianti di refrigerazione di centinaia di supermercati francesi nel fine settimana, e una ricerca di NRC rivela che anche le installazioni olandesi potrebbero essere vulnerabili allo stesso tipo di attacco. \"Resti sbalorditi da quanto siano esposti\", afferma un esperto citato dal giornale. Lo riferisce NRC.",
+   "more": [
+    "Gli impianti di refrigerazione industriale sono spesso collegati a reti digitali per il controllo remoto; se non adeguatamente protetti possono essere presi di mira da hacker, con conseguenze dirette sulla sicurezza alimentare dei prodotti conservati."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/13/hack-op-franse-supermarktkoeling-ook-waarschuwing-voor-nederlandse-bedrijven-a4938879",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-13T17:01+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z17142c27",
+   "sez": "tech",
+   "titolo": "Tre organizzazioni olandesi portano Meta in tribunale per gli occhiali con telecamera",
+   "orig": "Kritiek op camerabrillen laait verder op: drie organisaties slepen Meta voor de rechter",
+   "lead": "Tre organizzazioni di consumatori olandesi - Consumentenbond, Offlimits e The Firewall - hanno avviato un'azione legale contro Meta dopo che l'azienda non ha modificato entro il termine di due settimane i propri occhiali intelligenti dotati di telecamera, giudicati controversi per motivi di privacy. Il termine è scaduto martedì e le organizzazioni ora si rivolgono ai giudici, sostenendo che \"deve succedere ora\". Lo riferisce NRC.",
+   "more": [
+    "Meta produce occhiali intelligenti dotati di fotocamera integrata, sviluppati in collaborazione con Ray-Ban, che permettono di registrare foto e video; la loro diffusione ha sollevato preoccupazioni per la privacy di terzi ripresi senza consenso."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/13/kritiek-op-camerabrillen-laait-verder-op-drie-organisaties-slepen-meta-voor-de-rechter-a4938820",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-13T16:51+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb0eb8167",
+   "sez": "salute",
+   "titolo": "Il rischio di un'epidemia di morbillo come negli USA esiste anche nei Paesi Bassi",
+   "orig": "Mazelenuitbraak zoals in de VS? Dat kan ook in Nederland gebeuren: de vaccinatiegraad is op veel plekken zelfs nog lager",
+   "lead": "Mentre negli Stati Uniti, in Pennsylvania, è in corso un'epidemia di morbillo, l'istituto olandese per la salute pubblica (RIVM) avverte che un'epidemia simile potrebbe scoppiare anche nei Paesi Bassi, dove il tasso di vaccinazione in molte zone è addirittura più basso di quello registrato nello stato americano. Secondo l'RIVM è \"piuttosto probabile\" che il morbillo si diffonda nella cosiddetta Bible Belt olandese. Lo riferisce NRC.",
+   "more": [
+    "La Bible Belt olandese è una fascia di territorio a maggioranza protestante ortodossa dove la copertura vaccinale è tradizionalmente più bassa per motivi religiosi, rendendo quell'area particolarmente esposta a focolai di malattie prevenibili con il vaccino come il morbillo."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/13/mazelenuitbraak-zoals-in-de-vs-dat-kan-ook-in-nederland-gebeuren-de-vaccinatiegraad-is-op-veel-plekken-zelfs-nog-lager-a4938628",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-13T16:01+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z278fad1e",
+   "sez": "ambiente",
+   "titolo": "Un tribunale olandese ordina nuove indagini su tre allevatori per il taglio delle code dei maiali",
+   "orig": "Rechter: bij drie varkensboeren alsnog onderzoek nodig naar afsnijden en afbranden van varkensstaarten",
+   "lead": "Il tribunale amministrativo olandese ha stabilito che è necessaria un'indagine su tre allevatori di suini accusati dall'associazione Varkens in Nood di tagliare e bruciare illegalmente le code dei maiali. La fondazione aveva chiesto al sottosegretario all'Agricoltura di intervenire, ma questi sosteneva che il divieto non fosse applicabile; martedì il tribunale ha deciso diversamente. Lo riferisce NRC.",
+   "more": [
+    "Il taglio della coda dei suini, pratica diffusa negli allevamenti intensivi per prevenire comportamenti aggressivi tra gli animali, è vietato dalla normativa europea salvo in casi eccezionali, mentre i gruppi animalisti ne denunciano da anni l'uso sistematico e non giustificato."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/13/rechter-bij-drie-varkensboeren-alsnog-onderzoek-nodig-naar-afsnijden-en-afbranden-van-varkensstaarten-a4938869",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-13T15:40+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z64674c3d",
+   "sez": "economia",
+   "titolo": "La sinistra svizzera lancia un referendum contro l'accordo di libero scambio con il Mercosur",
+   "orig": "«Das Abkommen ist für uns so nicht akzeptabel»: Linke ergreifen das Referendum gegen den Deal mit den Mercosur-Staaten",
+   "lead": "I partiti di sinistra svizzeri, socialisti e verdi, insieme a un'alleanza di ong, hanno lanciato un referendum contro l'accordo di libero scambio tra la Svizzera e i Paesi del Mercosur, giudicato \"inaccettabile così com'è\". Secondo i promotori manca una tutela adeguata della foresta amazzonica, e senza regole più stringenti la Svizzera rischierebbe di diventare uno \"Stato di aggiramento\" delle norme ambientali. Lo riferisce NZZ.",
+   "more": [
+    "Il Mercosur è il blocco commerciale sudamericano che riunisce Brasile, Argentina, Uruguay e Paraguay; l'accordo di libero scambio con Paesi europei è da anni oggetto di critiche per i suoi possibili effetti sulla deforestazione amazzonica e sull'agricoltura locale."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/das-abkommen-ist-fuer-uns-so-nicht-akzeptabel-linke-ergreifen-das-referendum-gegen-den-deal-mit-den-mercosur-staaten-ld.10032650",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-13T14:43+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zcce4f4c4",
+   "sez": "salute",
+   "titolo": "Papa Leone XIV sarà operato ai polmoni al Gemelli",
+   "orig": "Der Vatikan hält den Atem an: Papst Leo XIV. wird an der Lunge operiert",
+   "lead": "Papa Leone XIV sarà sottoposto a un intervento chirurgico ai polmoni, poco più di un anno e mezzo dopo l'ultimo ricovero di Francesco. Il pontefice si trova di nuovo nella clinica Gemelli di Roma, e in Vaticano cresce la tensione in attesa dell'operazione. Lo riferisce NZZ.",
+   "more": [
+    "La clinica Gemelli di Roma è l'ospedale di riferimento per i pontefici, dove in passato sono stati ricoverati anche i predecessori di Leone XIV per interventi e cure mediche, data la sua vicinanza istituzionale al Vaticano."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/vatikan-in-sorge-papst-leo-xiv-unterzieht-sich-eingriff-an-der-lunge-ld.10032414",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-13T14:23+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z0ba87049",
+   "sez": "mondo",
+   "titolo": "Il presidente del Tribunale federale svizzero perde il sostegno dopo una relazione sentimentale controversa",
+   "orig": "Aufstand am Schweizer Bundesgericht: Der Präsident verliert nach der Liebesaffäre jeden Rückhalt",
+   "lead": "Il presidente del Tribunale federale svizzero, François Chaix, ha perso il sostegno dei colleghi dopo la gestione controversa di una relazione sentimentale inappropriata emersa all'interno della più alta corte del Paese. La magistratura chiede un nuovo vertice, e la vicenda rappresenta anche un segnale verso il mondo politico. Lo riferisce NZZ.",
+   "more": [
+    "Il Tribunale federale è la massima istituzione giudiziaria svizzera, equivalente di una corte suprema, responsabile delle decisioni di ultima istanza in materia civile, penale e amministrativa nella Confederazione."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/putsch-gegen-den-praesidenten-das-bundesgericht-versucht-den-neuanfang-ld.10032517",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-13T14:02+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zca2f8f60",
+   "sez": "mondo",
+   "titolo": "Visita a sorpresa al nuovo centro di transito per richiedenti asilo all'aeroporto di Vienna",
+   "orig": "Neuer Sondertransit für Flüchtlinge am Wiener Flughafen: Wo Haft nicht Haft heißen darf",
+   "lead": "Il quotidiano Der Standard ha visitato senza preavviso, insieme a un consulente legale, una nuova struttura di detenzione per richiedenti asilo all'aeroporto di Vienna-Schwechat, dove dalla metà di giugno le persone trattenute possono restare fino a 12 settimane, in un regime che non viene formalmente definito \"detenzione\". Lo riferisce Der Standard.",
+   "more": [
+    "Le procedure di transito aeroportuale per richiedenti asilo permettono agli Stati di trattenere i migranti in aree speciali prima di decidere sull'ammissibilità della domanda, una pratica diffusa in Europa ma spesso criticata da organizzazioni per i diritti umani per le condizioni di permanenza."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000343865/neuer-sondertransit-fuer-fluechtlinge-am-wiener-flughafen-wo-haft-nicht-haft-heissen-darf?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-13T15:17+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zcdab4913",
+   "sez": "mondo",
+   "titolo": "\"Una fortuna\": il difensore civico austriaco sul basso numero di richiedenti asilo",
+   "orig": "Klappt die neue EU-Flüchtlingspolitik? \"Das ist eine Frage der Kapazitäten\", sagt Judith Kohlenberger",
+   "lead": "La nuova responsabile del Volksanwaltschaft austriaco, Judith Kohlenberger, afferma che il basso numero di richiedenti asilo in arrivo attualmente in Austria è \"una fortuna\", perché il nuovo sistema europeo rischierebbe altrimenti di essere sovraccarico. Secondo lei, la riuscita della nuova politica migratoria dell'UE \"è una questione di capacità\". Lo riferisce Der Standard.",
+   "more": [
+    "Il Volksanwaltschaft è l'organo austriaco di difesa civica che vigila sull'operato della pubblica amministrazione, incluse le questioni legate all'accoglienza dei migranti e al rispetto dei loro diritti nelle procedure d'asilo."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000343897/klappt-die-neue-eu-fluechtlingspolitik-das-ist-eine-frage-der-kapazitaeten-sagt-judith-kohlenberger?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-13T15:17+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zdced163e",
+   "sez": "mondo",
+   "titolo": "A Vienna un progetto invita i proprietari di cani a diluire l'urina sui marciapiedi",
+   "orig": "Flascherl fürs Lackerl: In Wien-Neubau sollen Menschen ihren Hunden hinterherspülen",
+   "lead": "Nel quartiere viennese di Neubau è partito il progetto \"Schönes Gassi\", che invita i proprietari di cani a diluire con acqua l'urina dei loro animali per ridurre i danni al verde urbano. L'iniziativa, sostenuta dal distretto, prevede la distribuzione gratuita di bottigliette d'acqua. Lo riferisce Der Standard.",
+   "more": [
+    "Neubau è un quartiere centrale di Vienna con un'alta densità abitativa e numerosi spazi verdi pubblici; iniziative come questa mirano a preservare prati e aiuole dai danni causati dall'elevata concentrazione di sostanze azotate presenti nell'urina canina."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000343970/flascherl-fuers-lackerl-in-wien-neubau-sollen-menschen-ihren-hunden-hinterherspuelen?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-13T14:36+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z96766bd8",
+   "sez": "sport",
+   "titolo": "Lo sci svedese lancia una campagna in stile \"Draknästet\" per chiedere più fondi",
+   "orig": "”Draknästet” ska sälja Skidförbundets budskap: Ge oss mer pengar",
+   "lead": "La Federazione svedese di sci lancia una campagna in stile \"Draknästet\" (la versione svedese di \"Dragons' Den\") per convincere i politici a destinare più fondi allo sport, sostenendo che senza maggiori risorse per il settore giovanile ed elitario non arriveranno altre medaglie olimpiche. La segretaria generale Pernilla Bonde spiega di volere condizioni economiche dignitose per gli atleti fin da giovani. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "\"Draknästet\" è il nome svedese del format televisivo internazionale noto come \"Dragons' Den\" o \"Shark Tank\", in cui gli imprenditori presentano progetti a investitori; la federazione lo utilizza come formato comunicativo per sensibilizzare l'opinione pubblica e i decisori politici."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sport/draknastet-ska-salja-skidforbundets-budskap-ge-oss-mer-pengar/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-13T16:50+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z6e6e3e2d",
+   "sez": "mondo",
+   "titolo": "Tutti i partiti svedesi d'accordo su uno studio per fermare le \"espulsioni di adolescenti\"",
+   "orig": "Alla partier överens om att utreda stopplag för ”tonårsutvisningarna”",
+   "lead": "Tutti i partiti politici svedesi hanno trovato un accordo per avviare uno studio su una possibile legge che fermi le cosiddette \"espulsioni di adolescenti\", ovvero il rimpatrio di giovani migranti con forti legami con la Svezia. Il deputato centrista Niels Paarup-Petersen sottolinea che il legame stretto con il Paese dovrà essere un criterio, mentre il ministro della Migrazione Johan Forssell chiede maggiore chiarezza sui contenuti della proposta. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Il dibattito sulle espulsioni di minori e adolescenti stranieri nati o cresciuti in Svezia riguarda il bilanciamento tra le regole sull'immigrazione e il diritto dei giovani con forti radici nel Paese a non essere allontanati verso Stati con cui hanno legami deboli o nulli."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/alla-partier-overens-om-att-utreda-stopplag-for-tonarsutvisningarna/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-13T16:25+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb30ebc76",
+   "sez": "ambiente",
+   "titolo": "Un tarabusino nano avvistato in Svezia dopo 19 anni",
+   "orig": "Dvärgrördrom dök upp efter 19 år: ”Fick lite panik”",
+   "lead": "Durante un'attività di inanellamento domenica mattina a Getterön, vicino a Varberg, in Svezia, l'ornitologo Gustav Westergren e l'amico Vilgot hanno avvistato un tarabusino nano, specie che non si vedeva in zona da 19 anni. \"Non sapevo cosa fosse, ma Vilgot ha subito gridato che era il tarabusino nano\", racconta Westergren, 17 anni. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Il tarabusino nano è un piccolo airone molto elusivo e raro in Europa settentrionale, la cui osservazione rappresenta un evento significativo per gli appassionati di birdwatching per la sua rarità e il comportamento schivo."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/dvargrordrom-dok-upp-efter-19-ar-fick-lite-panik/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-13T16:05+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc0decbbd",
+   "sez": "cultura",
+   "titolo": "Spamalot cancellato: rischio stipendio per gli attori a Malmö",
+   "orig": "Alla föreställningar av ”Spamalot” ställs in – medverkande kan bli utan lön",
+   "lead": "Tutte le repliche del musical \"Spamalot\" in scena al Nöjesteatern di Malmö sono state cancellate, come riportato dall'emittente radiofonica P4 Malmöhus di Sveriges Radio. La cancellazione è legata al fallimento della produzione, che rischia di lasciare gli attori senza stipendio. Simon Norrthon, presidente del sindacato Scen och Film, ha dichiarato che il fallimento colpisce duramente i membri del sindacato. Non è chiaro quando la vicenda sia emersa né i dettagli finanziari del fallimento, ma la notizia riguarda direttamente i lavoratori dello spettacolo svedese. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Spamalot è un musical comico ispirato al film \"Monty Python e il Sacro Graal\", molto popolare nei teatri europei; un fallimento produttivo lascia spesso attori e tecnici senza retribuzione per le rappresentazioni già svolte o programmate."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/kultur/alla-forestallningar-av-spamalot-stalls-in-medverkande-kan-bli-utan-lon/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-13T15:52+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z9cc555da",
+   "sez": "salute",
+   "titolo": "Il donatore ideale di midollo osseo: perché un uomo giovane è preferito",
+   "orig": "Idealny dawca szpiku: młody, zdrowy i najlepiej mężczyzna. Kiedy reguły można złamać?",
+   "lead": "Il registro polacco dei potenziali donatori di midollo osseo conta 2,5 milioni di persone iscritte, ma non tutte hanno cellule ugualmente \"preziose\" dal punto di vista medico. Un trapiantologo clinico spiega perché, da un punto di vista statistico, un donatore uomo risulti spesso un'opzione migliore rispetto a una donatrice donna, e quando le regole di selezione possono essere derogate per garantire comunque un trapianto. Lo riferisce TVN24.",
+   "more": [
+    "Il trapianto di midollo osseo è una terapia salvavita per leucemie e altre malattie del sangue; la compatibilità genetica tra donatore e ricevente è cruciale, e fattori come sesso, età e stato di salute del donatore influenzano la qualità delle cellule staminali trapiantate."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/zdrowie/przeszczep-szpiku-co-decyduje-o-wyborze-dawcy-i-metody-dzien-dawcy-szpiku-st9284698?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-13T15:16+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z3258cf94",
+   "sez": "mondo",
+   "titolo": "Il Palazzo presidenziale polacco replica al parere della Commissione di Venezia sui giudici del Tribunale costituzionale",
+   "orig": "Opinia Komisji Weneckiej w sprawie sędziów TK. Pałac Prezydencki reaguje",
+   "lead": "Il portavoce del presidente polacco, Rafał Leśkiewicz, ha dichiarato che la Commissione di Venezia ha competenze puramente consultive, dopo che l'organismo ha pubblicato un parere sul giuramento dei giudici del Tribunale costituzionale. Leśkiewicz ha anche menzionato il giuramento di Maciej Berek, al centro delle polemiche politiche in corso sulla composizione della Corte. Lo riferisce TVN24.",
+   "more": [
+    "La Commissione di Venezia è un organo consultivo del Consiglio d'Europa che valuta la conformità delle riforme costituzionali agli standard democratici; in Polonia la composizione del Tribunale costituzionale è da anni oggetto di scontro tra governo e opposizione."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/polska/opinia-komisji-weneckiej-w-sprawie-sedziow-tk-jest-reakcja-palacu-prezydenckiego-st9284960?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-13T15:05+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z5a6d97cf",
+   "sez": "mondo",
+   "titolo": "Błaszczak paragona l'elezione di Hitler a quella del giudice Berek",
+   "orig": "\"Hitler też został wybrany przez Niemców\". Szokujące porównanie Mariusza Błaszczaka",
+   "lead": "Il politico polacco Mariusz Błaszczak ha sostenuto che parlare di elezione democratica dei giudici del Tribunale costituzionale rifletta \"una mentalità tipica degli stati totalitari\". Di fronte all'obiezione che Maciej Berek è stato eletto giudice legalmente dal Sejm, Błaszczak ha risposto che \"anche Hitler fu eletto dai tedeschi\", suscitando polemiche per il paragone. Lo riferisce TVN24.",
+   "more": [
+    "Mariusz Błaszczak è un esponente di spicco del partito conservatore Diritto e Giustizia (PiS), più volte ministro della Difesa in Polonia; il riferimento storico a Hitler viene spesso usato in dibattiti politici polacchi per squalificare l'avversario, suscitando reazioni critiche."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/polska/mariusz-blaszczak-pytany-o-sedziow-tk-porownywal-do-wyboru-hitlera-st9284910?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-13T14:58+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z943d5ea6",
+   "sez": "economia",
+   "titolo": "Nuovi dati sui pagamenti UE alla Russia smentiscono le cifre di Trump",
+   "orig": "Ile Unia zapłaciła Rosji? Nowe dane przeczą Trumpowi",
+   "lead": "Tra marzo 2022 e luglio 2026 l'Unione Europea ha speso circa 197 miliardi di euro, quasi 862 miliardi di zloty, per l'acquisto di combustibili fossili russi, secondo i dati diffusi dal portale ucraino Europejska Prawda. La cifra risulta inferiore ai 250 miliardi di dollari, oltre 977 miliardi di zloty, citati dal presidente statunitense Donald Trump sugli acquisti europei di energia russa. Lo riferisce TVN24.",
+   "more": [
+    "Dall'inizio dell'invasione russa dell'Ucraina nel 2022, l'Unione Europea ha progressivamente ridotto le importazioni di gas e petrolio russi, pur continuando acquisti parziali; le cifre sulla spesa energetica verso Mosca sono spesso usate nel dibattito politico internazionale sulle sanzioni."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/ze-swiata/ile-unia-zaplacila-rosji-nowe-dane-przecza-trumpowi-st9284734?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-13T14:56+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z91d4c53a",
+   "sez": "economia",
+   "titolo": "La burocrazia finanziaria costa ai piccoli imprenditori brasiliani quasi tre mesi di lavoro l'anno",
+   "orig": "Empresários brasileiros 'perdem' 3 meses de trabalho por ano com burocracia financeira, diz pesquisa",
+   "lead": "Secondo una ricerca, i proprietari di piccole imprese in Brasile perdono in media nove ore a settimana per gestire la burocrazia finanziaria. Sommando queste ore frammentate nel corso dell'anno, il totale raggiunge 468 ore, equivalenti a circa tre mesi di lavoro perduto. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "La burocrazia finanziaria comprende adempimenti fiscali, contabili e amministrativi che gravano soprattutto sulle piccole imprese prive di strutture dedicate; in Brasile il tema è spesso citato come ostacolo alla competitività del settore produttivo."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/empresarios-brasileiros-perdem-3-meses-de-trabalho-por-ano-com-burocracia-financeira-diz-pesquisa.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-13T12:00-03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb1b79a2f",
+   "sez": "mondo",
+   "titolo": "Il modello alimentare francese in crisi tra importazioni e cambiamento climatico",
+   "orig": "Modelo alimentar francês enfrenta crise com avanço de importações e mudanças climáticas",
+   "lead": "Vino, formaggio e pane, simboli dell'identità gastronomica francese, affrontano oggi una delle maggiori sfide allo status della Francia come principale nazione gastronomica d'Europa. Il cambiamento delle abitudini alimentari, il calo del consumo di alcol e le forti pressioni sui produttori, insieme all'avanzata delle importazioni e ai mutamenti climatici, mettono a rischio questo modello tradizionale. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "La gastronomia francese, basata su vino, formaggio e pane, è storicamente un pilastro dell'identità culturale e turistica del Paese; cambiamenti climatici e nuove abitudini di consumo stanno trasformando filiere agricole tradizionali in tutta Europa."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/modelo-alimentar-frances-enfrenta-crise-com-avanco-de-importacoes-e-mudancas-climaticas.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-13T12:00-03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zdd705680",
+   "sez": "mondo",
+   "titolo": "Il sostegno del centrão a Flávio Bolsonaro apre la corsa ai ministeri",
+   "orig": "Apoio do centrão deflagra corrida por possível ministério de Flávio, que avalia antecipar nomes",
+   "lead": "L'appoggio dei partiti del centrão alla candidatura presidenziale di Flávio Bolsonaro (PL) ha innescato una corsa alle nomine per un eventuale futuro governo, ancora prima che si conosca il risultato finale delle elezioni brasiliane. Secondo Folha de S.Paulo, lo stesso Bolsonaro starebbe valutando di anticipare l'annuncio di alcuni nomi per i ministeri. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Il centrão è un insieme eterogeneo di partiti politici brasiliani privi di una forte ideologia comune, noto per orientare il proprio sostegno verso chi detiene il potere in cambio di influenza e cariche di governo."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoio-do-centrao-deflagra-corrida-por-possivel-ministerio-de-flavio-que-avalia-antecipar-nomes.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-13T12:00-03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z5e110119",
+   "sez": "economia",
+   "titolo": "Aena investirà un miliardo di reais nell'aeroporto Galeão di Rio in tre anni",
+   "orig": "Plano de nova concessionária para Galeão prevê investimento de R$ 1 bilhão em 3 anos; ministro defende diversidade no mercado aéreo",
+   "lead": "La società Aena, nuova concessionaria dell'Aeroporto Internazionale Tom Jobim-Galeão di Rio de Janeiro, ha annunciato un piano di investimenti da un miliardo di reais per i prossimi tre anni, che dovrebbe generare 3.860 posti di lavoro. Durante la presentazione dei progetti, il ministro dei Porti e degli Aeroporti, Tomé Franca, ha sottolineato la necessità per il Brasile di ampliare rotte e numero di passeggeri, difendendo la diversità nel mercato aereo nazionale. Lo riferisce G1.",
+   "more": [
+    "Il Galeão è il principale aeroporto internazionale di Rio de Janeiro; la gestione aeroportuale in Brasile è stata negli ultimi anni oggetto di concessioni a operatori privati e internazionali per modernizzare infrastrutture e aumentare il traffico passeggeri."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/13/plano-de-nova-concessionaria-para-galeao-preve-investimentos.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-13T15:02+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z11cc9616",
+   "sez": "sport",
+   "titolo": "Horner racconta il suo addio alla Red Bull: 'Non tutte le squadre agiscono con quella brutalità'",
+   "orig": "Las confesiones de Christian Horner sobre su despido en Red Bull: \"No todos los equipos actúan con esa brutalidad\"",
+   "lead": "L'ex team principal della Red Bull, Christian Horner, è tornato a parlare pubblicamente a oltre un anno dalla sua uscita dalla scuderia austriaca di Formula 1. Horner ha raccontato che, dopo la morte di Dietrich Mateschitz, i rapporti all'interno della dirigenza sono cambiati, descrivendo il difficile momento personale vissuto dopo vent'anni alla guida del team. Lo riferisce Clarín.",
+   "more": [
+    "Christian Horner ha guidato la Red Bull Racing per circa due decenni, portandola a numerosi titoli mondiali di Formula 1; Dietrich Mateschitz, fondatore di Red Bull, è stato una figura chiave nella crescita della scuderia fino alla sua morte."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/deportes/confesiones-christian-horner-despido-red-bull-equipos-actuan-brutalidad_0_DDx8wwdsoW.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T15:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc36aa6cb",
+   "sez": "cultura",
+   "titolo": "I libri di interviste che costruiscono la biografia degli scrittori",
+   "orig": "Libros de entrevistas: cuando las conversaciones construyen la biografía de un escritor",
+   "lead": "Le interviste agli scrittori non sono più semplici registrazioni giornalistiche, ma sono diventate libri capaci di ricostruire intere traiettorie letterarie. Il genere ha una lunga storia che va dalla rivista statunitense The Paris Review fino alle case editrici argentine contemporanee, che continuano a pubblicare raccolte di conversazioni con autori. Lo riferisce Clarín.",
+   "more": [
+    "The Paris Review è una storica rivista letteraria statunitense nota per le sue interviste approfondite a grandi scrittori, un formato ripreso nel tempo da editori di tutto il mondo come strumento per esplorare il pensiero e il processo creativo degli autori."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/cultura/libros-entrevistas-conversaciones-construyen-biografia-escritor_0_ZXof1vTwIe.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T15:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z904dd430",
+   "sez": "economia",
+   "titolo": "Bruxelles approva con condizioni l'acquisizione di Kenvue da parte di Kimberly-Clark",
+   "orig": "Bruselas aprueba con condiciones la compra de Kenvue por parte de Kimberly-Clark",
+   "lead": "La Commissione Europea ha autorizzato l'acquisto di Kenvue da parte di Kimberly-Clark, operazione valutata 48,7 miliardi di dollari, a condizione che vengano cedute alcune marche di prodotti per l'igiene femminile per evitare posizioni di monopolio. L'azienda turca Dilek acquisirà questi marchi per garantire concorrenza nel mercato europeo. Lo riferisce Clarín.",
+   "more": [
+    "Kimberly-Clark e Kenvue sono grandi multinazionali attive nel settore dei beni di consumo e della cura della persona; la Commissione Europea verifica regolarmente le fusioni societarie di grande valore per prevenire concentrazioni di mercato dannose per i consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/bruselas-aprueba-con-condiciones-la-compra-de-kenvue-por-parte-de-kimberly-clark_0_alEWqeKsvD.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T15:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zfee36428",
+   "sez": "mondo",
+   "titolo": "Sbarra assume ad interim la guida della Disabilità in Argentina dopo l'incidente del nuovo segretario",
+   "orig": "Discapacidad: Rodrigo Sbarra quedó a cargo de forma interina del área por el accidente que sufrió el nuevo secretario",
+   "lead": "Rodrigo Sbarra è stato posto temporaneamente a capo dell'area Disabilità del governo argentino, a seguito dell'assenza del neo segretario Pablo Di Liscia, vittima di un incidente. Sbarra era già stato oggetto di un'indagine per il ritrovamento di 10.000 dollari nel suo ufficio, risalente alla sua precedente partecipazione al governo di Cambiemos. Lo riferisce La Nación.",
+   "more": [
+    "Cambiemos è stata la coalizione politica di centrodestra che ha governato l'Argentina dal 2015 al 2019 sotto la presidenza di Mauricio Macri; gli incarichi nell'area della disabilità gestiscono politiche pubbliche sensibili legate a sussidi e tutele per le persone con disabilità."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/politica/discapacidad-rodrigo-sbarra-quedo-a-cargo-de-forma-interina-del-area-por-el-accidente-que-sufrio-el-nid13102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T15:09+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z49047275",
+   "sez": "mondo",
+   "titolo": "Milei apre alla possibilità di spostare la data della visita del Papa in Argentina",
+   "orig": "Javier Milei y sus medidas, EN VIVO: el Presidente dijo que el Gobierno estaría dispuesto a ajustar la fecha de la visita del Papa",
+   "lead": "Il presidente argentino Javier Milei ha dichiarato che il governo sarebbe disposto ad aggiustare la data della visita del Papa in Argentina, nell'ambito di un aggiornamento in diretta sulle misure e decisioni del mandatario seguito da La Nación, che include anche le reazioni dell'opposizione e le dichiarazioni dei funzionari di governo. Lo riferisce La Nación.",
+   "more": [
+    "Javier Milei è il presidente argentino in carica dal 2023, noto per le sue politiche economiche liberiste; una visita papale in Argentina avrebbe forte valore simbolico, trattandosi del Paese d'origine di Papa Francesco."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-dijo-que-el-gobierno-estaria-dispuesto-a-ajustar-la-nid13102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T15:09+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z941116e2",
+   "sez": "ambiente",
+   "titolo": "Aperte le dighe di Itaipú e Yacyretá, cresce la preoccupazione per il fiume Paraná",
+   "orig": "Abrieron las compuertas de la represa de Itaipú y Yacyretá y aumenta la preocupación por el río Paraná",
+   "lead": "Le dighe binazionali di Itaipú e Yacyretá hanno segnalato un aumento delle portate d'acqua, avvertendo di possibili scenari di piena tra ottobre e dicembre. A Ciudad del Este l'innalzamento del livello del fiume ha già costretto a evacuare famiglie residenti nelle zone più basse, mentre cresce la preoccupazione per gli effetti sul fiume Paraná. Lo riferisce La Nación.",
+   "more": [
+    "Itaipú e Yacyretá sono due grandi dighe idroelettriche binazionali, la prima tra Brasile e Paraguay, la seconda tra Argentina e Paraguay, che regolano il flusso del fiume Paraná, fondamentale per l'economia e l'ecosistema della regione."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/sociedad/abrieron-las-compuertas-de-la-represa-de-itaipu-y-yacyreta-y-aumenta-la-preocupacion-por-el-rio-nid13102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T15:08+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z793712ec",
+   "sez": "ambiente",
+   "titolo": "Come funzionano le reti e le vasche di decantazione contro le alluvioni in Cile",
+   "orig": "¿Cómo funcionan las mallas y piscinas decantadoras contra aluviones?",
+   "lead": "Circa 40.000 metri cubi di materiale si sono staccati nell'alluvione che la scorsa settimana ha colpito San Carlos de Apoquindo, nel comune di Las Condes, secondo l'analisi preliminare di Michel Kure, presidente del Comitato per le raccomandazioni di progettazione su versanti di dune e terreni sabbiosi dell'Istituto della Costruzione. L'ingegnere civile geotecnico ha spiegato in un video de La Tercera le strutture che aiutano a mitigare gli effetti di questi fenomeni naturali sulla popolazione urbana. Lo riferisce La Tercera.",
+   "more": [
+    "Le reti di contenimento e le vasche di decantazione sono infrastrutture usate nelle zone collinari a rischio frana per rallentare e trattenere detriti e fango durante forti piogge, riducendo i danni a case e strade nelle aree urbane sottostanti."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/videos/noticia/como-funcionan-las-mallas-y-piscinas-decantadoras-contra-aluviones/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-13T15:09+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "za05ccf43",
+   "sez": "mondo",
+   "titolo": "Núñez (RN) critica la leadership di Bachelet: 'Dovrebbe costruire ponti tra opposizione e governo'",
+   "orig": "Núñez (RN) cuestiona liderazgo de Bachelet: “Uno esperaría que juegue un rol de tender puentes entre oposición y oficialismo”",
+   "lead": "La presidente del Senato cileno ha sostenuto che l'ex presidente Michelle Bachelet dovrebbe assumere \"una posizione più di Stato, più da statista\" invece di un ruolo puramente di parte, in vista di una sua eventuale ricandidatura alla presidenza. Núñez ha però escluso che l'apertura di Bachelet a ripresentarsi complichi la maggioranza di governo, affermando che si tratterebbe piuttosto di \"un problema per l'opposizione\". Lo riferisce La Tercera.",
+   "more": [
+    "Michelle Bachelet è stata due volte presidente del Cile, tra le figure più importanti della sinistra cilena e in seguito Alta Commissaria delle Nazioni Unite per i Diritti Umani; RN (Renovación Nacional) è un partito di centrodestra cileno."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/senadora-nunez-rn-por-irrupcion-de-bachelet-y-su-rol-en-la-oposicion-echo-de-menos-un-liderazgo-mas-estadista/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-13T13:09+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zbba5bce1",
+   "sez": "economia",
+   "titolo": "Blue Express punta sui locker intelligenti e prevede un 2027 migliore",
+   "orig": "Blue Express refuerza apuesta por lockers inteligentes y prevé un mejor 2027: “Después de marzo vamos a volar”",
+   "lead": "Il direttore generale di Blue Express, Olivier Paccot, ha annunciato che l'azienda raddoppierà il proprio obiettivo di installazione di locker intelligenti, evidenziando una crescita aziendale superiore alla media del settore dei consumi. Un impulso importante arriverà dall'apertura di un centro di distribuzione a Pudahuel, prevista nel primo trimestre del prossimo anno, con Paccot che prospetta un forte slancio dopo marzo. Lo riferisce La Tercera.",
+   "more": [
+    "Blue Express è un'azienda cilena di logistica e corrieristica; i locker intelligenti sono armadietti automatizzati per il ritiro dei pacchi, sempre più usati nell'e-commerce per ridurre tempi e costi delle consegne."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/blue-express-refuerza-apuesta-por-lockers-inteligentes-y-preve-un-mejor-2027-despues-de-marzo-vamos-a-volar/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-13T14:59+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z6414dde4",
+   "sez": "economia",
+   "titolo": "Julius Baer: alle elezioni di medio termine USA il Senato sarà decisivo per le nomine, Fed inclusa",
+   "orig": "Julius Baer y elecciones en EE.UU.: “El Senado cobra especial relevancia por las confirmaciones de cargos, sobre todo en la Reserva Federal”",
+   "lead": "Il prossimo 3 novembre si terranno le elezioni di medio termine negli Stati Uniti, in cui saranno rinnovati i 435 seggi della Camera dei Rappresentanti e un terzo del Senato. Secondo gli analisti di Julius Baer, il Senato assume particolare rilevanza per le conferme delle nomine, soprattutto quelle relative alla Federal Reserve, mentre i mercati scommettono su una maggioranza democratica alla Camera e crescenti possibilità anche al Senato. Lo riferisce La Tercera.",
+   "more": [
+    "Le elezioni di midterm statunitensi rinnovano parzialmente il Congresso a metà mandato presidenziale; il Senato ha potere di conferma sulle nomine presidenziali, incluse quelle ai vertici della Federal Reserve, la banca centrale USA che decide la politica monetaria."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/julius-baer-y-elecciones-en-eeuu-el-senado-cobra-especial-relevancia-por-las-confirmaciones-de-cargos-sobre-todo-en-la-reserva-federal/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-13T15:07+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z3cff2b0c",
+   "sez": "economia",
+   "titolo": "Il rame vicino al record storico tra i timori per l'offerta in Cile",
+   "orig": "El cobre está cerca de batir un nuevo récord histórico en medio de las preocupaciones por el suministro en Chile",
+   "lead": "Il prezzo del rame si avvicina a un nuovo record storico in un contesto di preoccupazione per il rifornimento proveniente dal Cile, principale produttore mondiale del metallo. Il ministro Rau ha riconosciuto l'esistenza di un problema nella produzione di rame, ma ha sottolineato che \"nessuna tonnellata di produzione vale più della vita di un lavoratore\". Lo riferisce La Tercera.",
+   "more": [
+    "Il Cile è il maggiore produttore mondiale di rame, metallo strategico per l'industria elettrica ed elettronica globale; problemi di sicurezza nelle miniere o cali produttivi nel Paese hanno storicamente effetti diretti sui prezzi internazionali del metallo."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/el-cobre-esta-cerca-de-batir-un-nuevo-record-historico-en-medio-de-las-preocupaciones-por-el-suministro-en-chile/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-13T15:04+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb1ab0677",
+   "sez": "mondo",
+   "titolo": "Spagna, chieste le dimissioni del sindaco di Algeciras per accuse di aggressione sessuale",
+   "orig": "Escándalo político en España: piden renuncia del alcalde de Algeciras tras denuncias por presunta agresión sexual",
+   "lead": "Il sindaco di Algeciras, in Spagna, José Ignacio Landaluce, esponente del conservatore Partito Popolare, è stato invitato a dimettersi dopo denunce per presunta aggressione sessuale. Le accuse nei suoi confronti erano emerse per la prima volta alla fine del 2025. Lo riferisce El Tiempo.",
+   "more": [
+    "Algeciras è una città portuale della Spagna meridionale, nella provincia di Cadice, nota per i collegamenti marittimi verso il Marocco. Il Partito Popolare è la principale forza politica conservatrice spagnola."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/europa/escandalo-politico-en-espana-piden-renuncia-del-alcalde-de-algeciras-tras-denuncias-por-presunta-agresion-sexual-3593144",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-13T08:45-05:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zcfa4ee08",
+   "sez": "mondo",
+   "titolo": "California, firmata legge a tutela della salute mentale degli studenti colpiti dai controlli migratori",
+   "orig": "Newsom firmó ley que protege la salud mental de estudiantes en California ante acciones migratorias: en qué consiste y cómo acceder a la ayuda",
+   "lead": "Il governatore della California Gavin Newsom ha firmato una legge che rafforza il sostegno alla salute mentale degli studenti coinvolti dalle operazioni di controllo migratorio nello Stato. Il provvedimento punta a proteggere i ragazzi di fronte all'impatto psicologico dei raid dell'immigrazione e definisce le modalità con cui accedere ai servizi di assistenza scolastica. Lo riferisce El Comercio.",
+   "more": [
+    "Gavin Newsom è il governatore democratico della California, Stato che negli ultimi anni si è spesso opposto alle politiche migratorie federali più restrittive, adottando misure di tutela per le comunità di immigrati presenti sul territorio."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mag/usa/california/gavin-newsom-firmo-ley-que-protege-la-salud-mental-de-estudiantes-en-california-ante-acciones-migratorias-en-que-consiste-y-como-acceder-a-la-ayuda-estados-unidos-nnda-nnlt-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-13T15:20+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf5d3990e",
+   "sez": "mondo",
+   "titolo": "Delcy Rodríguez incontra il direttore della FAO per discutere la ripresa agricola del Venezuela",
+   "orig": "Delcy Rodríguez se reunió con el director de la FAO para discutir estrategias enfocadas en la recuperación del sector agrícola",
+   "lead": "La vicepresidente venezuelana Delcy Rodríguez ha incontrato il direttore generale della FAO per discutere strategie di recupero del settore agricolo del Venezuela. L'incontro è avvenuto dopo l'intervento di Rodríguez al Foro Mondiale dell'Alimentazione della FAO, tenutosi a Roma. Lo riferisce El Nacional.",
+   "more": [
+    "La FAO è l'agenzia delle Nazioni Unite per l'alimentazione e l'agricoltura, con sede a Roma, impegnata a promuovere la sicurezza alimentare e lo sviluppo rurale nei Paesi membri."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/delcy-rodriguez-se-reunio-con-el-director-de-la-fao-para-discutir-estrategias-enfocadas-en-la-recuperacion-del-sector-agricola/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-13T15:02+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z709a6d79",
+   "sez": "mondo",
+   "titolo": "Keiko Fujimori propone una nuova dottrina scolastica per \"ripristinare l'ordine\" in Perù",
+   "orig": "Keiko Fujimori presenta su nueva doctrina escolar para \"recuperar el orden\" en las aulas de Perú",
+   "lead": "La leader politica peruviana Keiko Fujimori ha presentato una proposta per una nuova dottrina scolastica volta a ripristinare l'ordine nelle aule del Perù. Il piano vieta alle studentesse di truccarsi, farsi la manicure o indossare gonne troppo corte, e impone ai ragazzi di portare i capelli corti. Lo riferisce El Nacional.",
+   "more": [
+    "Keiko Fujimori è figlia dell'ex presidente peruviano Alberto Fujimori ed è una delle principali figure della destra conservatrice del Paese, più volte candidata alla presidenza."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/keiko-fujimori-presenta-su-nueva-doctrina-escolar-para-recuperar-el-orden-en-las-aulas-de-peru/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-13T14:43+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z2924a144",
+   "sez": "sport",
+   "titolo": "William Contreras guida i Milwaukee Brewers nei playoff di baseball",
+   "orig": "El líder de Milwaukee: William Contreras brilla con el bate y la mascota en los playoffs",
+   "lead": "Il ricevitore venezuelano William Contreras si sta distinguendo con la mazza e dietro il piatto nei playoff di baseball, contribuendo al vantaggio dei Milwaukee Brewers nella serie di campionato della National League contro i Los Angeles Dodgers. Il suo rendimento offensivo e la gestione del lancio sono stati determinanti per la squadra. Lo riferisce El Nacional.",
+   "more": [
+    "I Milwaukee Brewers sono una squadra della Major League Baseball statunitense; la Serie di Campionato della National League è una delle due fasi finali che determinano le squadre che accederanno alle World Series."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/el-lider-de-milwaukee-william-contreras-brilla-con-el-bate-y-la-mascota-en-los-playoffs/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-13T14:27+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z2ef39ca0",
+   "sez": "mondo",
+   "titolo": "Aruba intercetta imbarcazione clandestina con 24 migranti venezuelani",
+   "orig": "Guardia Costera de Aruba interceptó una embarcación clandestina con 24 migrantes venezolanos",
+   "lead": "La Guardia Costiera di Aruba ha intercettato un'imbarcazione clandestina con a bordo 24 migranti venezuelani. L'episodio si aggiunge ai precedenti traslochi marittimi illegali partiti dallo stato venezuelano di Falcón verso i territori insulari dei Caraibi olandesi. Lo riferisce El Nacional.",
+   "more": [
+    "Aruba è un'isola dei Caraibi che fa parte del Regno dei Paesi Bassi, meta frequente di migranti venezuelani che tentano la traversata via mare per sfuggire alla crisi economica e politica del loro Paese."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/guardia-costera-de-aruba-intercepto-una-embarcacion-clandestina-con-24-migrantes-venezolanos/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-13T14:26+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "ze9b349e1",
+   "sez": "sport",
+   "titolo": "Blooming obbligato a vincere contro Independiente Petrolero per chiudere bene la stagione",
+   "orig": "Blooming, obligado a ganar “No nos queda margen de error”",
+   "lead": "Il club boliviano Blooming dovrà vincere sabato 17 ottobre, alle 19:30 allo stadio Tahuichi Aguilera, contro Independiente Petrolero per non arrivare a fine stagione con un margine d'errore ridotto. I giocatori Matías Abisab e Marc Enoumba hanno parlato con DIEZ della necessità di conquistare i tre punti in palio. Lo riferisce El Deber.",
+   "more": [
+    "Blooming è una squadra di calcio con sede a Santa Cruz de la Sierra, in Bolivia, che milita nel massimo campionato nazionale boliviano."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/deportes/blooming-obligado-ganar-no-nos-queda-margen-error_1791903317",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-13T14:55+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z7fc4fb27",
+   "sez": "sport",
+   "titolo": "Il campo dello stadio di Villa Ingenio preoccupa per l'usura dopo feste e kermesse",
+   "orig": "Fiestas, kermeses y desgaste: Villa Ingenio preocupa por el estado de su gramado",
+   "lead": "Il manto erboso dello stadio Municipale di Villa Ingenio, a El Alto, mostra segni di forte usura causati da feste, kermesse e un uso intenso, come emerso lunedì durante la partita tra Always Ready e Independiente. Diverse zone del campo risultano danneggiate, destando preoccupazione per le condizioni del terreno di gioco. Lo riferisce El Deber.",
+   "more": [
+    "El Alto è una città boliviana situata ad alta quota, vicino a La Paz, che ospita diversi impianti sportivi utilizzati sia per eventi calcistici sia per manifestazioni popolari."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/deportes/fiestas-kermeses-desgaste-villa-ingenio-preocupa-estado-gramado_1791899103",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-13T13:45+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z68aa78eb",
+   "sez": "sport",
+   "titolo": "La surfista Brisa Hennessy vince in Portogallo e si avvicina al World Tour",
+   "orig": "Surfista Brisa Hennessy envía un mensaje a Costa Rica tras ganar importante competencia en Portugal",
+   "lead": "La surfista costaricana Brisa Hennessy ha vinto la quarta tappa delle Challenger Series disputata in Portogallo, un risultato che la avvicina alla qualificazione al Tour Mondiale. Dopo la vittoria, l'atleta ha inviato un messaggio di ringraziamento al Costa Rica per il sostegno ricevuto. Lo riferisce La Nación CR.",
+   "more": [
+    "Le Challenger Series sono il circuito di qualificazione del surf professionistico che conduce gli atleti al World Tour, la massima categoria internazionale della disciplina."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/puro-deporte/surfista-brisa-hennessy-envia-un-mensaje-a-costa/WO2JISO3BBG3TKOE7HMRPVIL64/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-13T15:08+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z24f5cc94",
+   "sez": "spazio",
+   "titolo": "Il pilota di Artemis II racconta la missione lunare: \"Cose che nessuno aveva mai visto\"",
+   "orig": "Reid Wiseman, piloto de Artemis II: “Vimos cosas que ningún ser humano ha visto jamás”",
+   "lead": "Reid Wiseman, pilota della missione Artemis II, ha raccontato di aver visto \"cose che nessun essere umano ha mai visto\", in un messaggio diffuso durante la missione, completata ad aprile di quest'anno. L'equipaggio ha perso per 40 minuti la connessione con la Terra nel corso del volo. Lo riferisce La Nación (Argentina).",
+   "more": [
+    "Artemis II è la missione della NASA che ha portato un equipaggio umano in orbita attorno alla Luna, parte del programma Artemis per il ritorno degli astronauti sul suolo lunare nei prossimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación (Argentina)",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/el-mundo/reid-wiseman-piloto-de-artemis-ii-vimos-cosas-que-ningun-ser-humano-ha-visto-jamas-nid09102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-13T15:17+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zbff32462",
+   "sez": "economia",
+   "titolo": "Ecuador, le vendite di elettrodomestici crescono oltre l'8%",
+   "orig": "Venta de electrodomésticos crece sobre el 8 % en Ecuador y toma impulso con mayor inversión y expansión de marcas",
+   "lead": "Le vendite di elettrodomestici in Ecuador sono cresciute oltre l'8%, sostenute da maggiori investimenti e dall'espansione dei marchi presenti nel Paese. Nuove linee di prodotto e strategie commerciali fanno prevedere ulteriori miglioramenti; i Mondiali hanno contribuito alla crescita, con un aumento delle vendite di televisori di quasi il 90% a giugno. Lo riferisce El Universo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/economia/industrias/electrodomesticos-ventas-crecimiento-inversion-marcas-teka-watson-ecuador-2026-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-13T13:20+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zdba22e2e",
+   "sez": "mondo",
+   "titolo": "Paraguay, dichiarato in contumacia l'ex capo acquisti di Petropar",
+   "orig": "Tribunal declara en rebeldía a exjefe de Petropar y dicta orden de captura",
+   "lead": "Un tribunale paraguaiano ha dichiarato in contumacia l'ex capo degli acquisti di Petropar e ha emesso un ordine di cattura nei suoi confronti. Il caso è seguito dal Tribunale di Sentenza Specializzato in Delitti Economici, composto dalle giudici Yolanda Morel, Karina Cáceres e Ana Rodríguez, nell'ambito di un processo per lesione di fiducia. Lo riferisce ABC Color.",
+   "more": [
+    "Petropar è l'azienda statale paraguaiana per la raffinazione e distribuzione di combustibili, più volte coinvolta in indagini su presunte irregolarità negli appalti e nella gestione interna."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/nacionales/2026/10/13/tribunal-declara-en-rebeldia-a-exjefe-de-petropar-y-dicta-orden-de-captura/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-13T14:06+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z8455a5d5",
+   "sez": "tech",
+   "titolo": "Media e associazioni latinoamericane aderiscono a una coalizione mondiale sull'intelligenza artificiale",
+   "orig": "Grandes medios y asociaciones latinoamericanas se unen a una coalición mundial frente a la IA",
+   "lead": "Grandi media e associazioni giornalistiche latinoamericane hanno aderito a una coalizione mondiale per affrontare le sfide poste dall'intelligenza artificiale all'informazione. L'iniziativa riunisce testate e organizzazioni preoccupate per l'impatto di applicazioni come ChatGPT, Gemini, Claude, Perplexity, Meta AI, Microsoft Copilot e Grok sul giornalismo. Lo riferisce ABC Color.",
+   "more": [
+    "Negli ultimi anni le principali testate giornalistiche internazionali hanno avviato iniziative comuni per regolamentare l'uso dell'IA nei contenuti editoriali, tutelare il diritto d'autore e contrastare la disinformazione generata da strumenti automatici."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/tecnologia/2026/10/13/grandes-medios-y-asociaciones-latinoamericanas-se-unen-a-una-coalicion-mundial-frente-a-la-ia/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-13T14:08+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "17:49",
+   "uscita": "17"
+  },
+  {
    "id": "zee869b92",
    "sez": "sport",
    "titolo": "L'AFL intima a Sportsbet di fermare i contenuti IA con i suoi giocatori",
@@ -6124,6 +7912,15 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Cyprus",
      "t": "2026-10-13T18:02+03:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/albrecht-duerer-airport-nuernberg-darum-wurden-eurofighter-nach-nuernberg-geschickt-a-9a90ad57-d216-4f60-ad97-295ffb679a3b#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T16:35+02:00"
     }
    ],
    "data": "13 ott",
@@ -6322,6 +8119,33 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Paraguay",
      "t": "2026-10-13T15:05+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriff-in-frankreich-wenn-sich-die-kuehltruhe-auf-80-grad-erhitzt-201313419.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T13:12+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/pixels/article/2026/10/13/cyberattaque-contre-les-supermarches-apres-ceux-de-l-entreprise-danfoss-d-autres-systemes-de-refrigeration-ont-ete-vises_6793121_4408996.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-13T16:21+02:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/panorama/hacker-fuehren-cyberangriff-auf-supermaerkte-durch-tonnen-von-lebensmitteln-tauen-auf-ld.10032429",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-13T14:39+00:00"
     }
    ],
    "data": "13 ott",
@@ -17133,29 +18957,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z5b9f7471",
-   "sez": "mondo",
-   "titolo": "Porto Atlântico presenta un ricorso cautelare per bloccare i lavori dell'Emporium Park",
-   "orig": "Porto Atlântico interpõe providência cautelar para parar obras do Emporium Park",
-   "lead": "L'associazione Porto Atlântico ha presentato un ricorso cautelare per sospendere i lavori del complesso Emporium Park, situato vicino al Parque da Cidade a Porto. L'iniziativa legale nasce dal giudizio di inefficacia del blocco parziale imposto dal Comune di Porto, destinatario dell'azione giudiziaria. Lo riferisce RTP.",
-   "more": [
-    "I ricorsi cautelari in ambito urbanistico e amministrativo vengono utilizzati per bloccare provvisoriamente interventi edilizi ritenuti dannosi o irregolari, in attesa che i tribunali competenti si pronuncino definitivamente sulla legittimità delle opere."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/economia/porto-atlantico-interpoe-providencia-cautelar-para-parar-obras-do-emporium-park_n1771370",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
-   "ora": "13:59",
-   "uscita": "13"
-  },
-  {
    "id": "z23d6d995",
    "sez": "sport",
    "titolo": "Il Cruzeiro rallenta nel campionato brasiliano",
@@ -25269,7 +27070,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zf4bcdbca": "Tagesschau sottolinea l'immediata pressione politica esercitata dall'opposizione e dai datori di lavoro sul nuovo ministro del Lavoro.",
   "z6edfbede": "Tagesschau riporta la notizia di carattere medico riguardante la salute del Pontefice.",
   "zee6de133": "RTP evidenzia il giro di vite giudiziario e la severità delle autorità di Teheran contro il mancato rispetto del velo.",
-  "z5b9f7471": "RTP focalizza l'attenzione sulla contesa legale tra l'associazione cittadina e l'amministrazione comunale riguardo alla gestione urbanistica dell'area.",
   "z23d6d995": "RTP riporta i risultati della trentesima giornata del torneo brasiliano, evidenziando le prestazioni delle squadre guidate da tecnici portoghesi.",
   "z720c401c": "RTP dà risalto al trasferimento del difensore spagnolo a parametro zero a stagione in corso.",
   "z3a8120c2": "NOS evidenzia i disagi e le soluzioni di trasporto alternative pianificate per i passeggeri durante la chiusura temporanea dei binari.",
@@ -25854,7 +27654,82 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "za8e61fb6": "Kurdistan24 dà voce alle denunce delle famiglie locali sulla promessa non mantenuta.",
   "z950c4c5a": "Nile Post riporta l'appello del parlamentare alle autorità cittadine.",
   "z87b493ce": "Sudans Post riporta la direttiva militare, coerente con quanto riferito anche da Eye Radio.",
-  "zb3c6dbcb": "Sierraloaded riporta le testimonianze dei residenti sulla scossa avvertita in città."
+  "zb3c6dbcb": "Sierraloaded riporta le testimonianze dei residenti sulla scossa avvertita in città.",
+  "zef36f83e": "La testata presenta l'iniziativa come una risposta concreta ai bisogni formativi dei giovani del Paese.",
+  "z85936149": "La testata riporta la reazione diretta del deputato alle accuse mosse sui social media.",
+  "zea0e3a34": "La testata evidenzia l'impegno dell'organizzazione nell'adeguarsi ai tempi attuali.",
+  "zd56d9a51": "La testata celebra un percorso professionale di lungo corso al servizio della comunità.",
+  "z4fe65521": "La testata riporta le raccomandazioni degli esperti emerse durante il forum medico.",
+  "z586a13b7": "La testata celebra il contributo di una figura storica alla cultura popolare del Paese.",
+  "zb67d543c": "La testata riporta le richieste emerse dal vertice dei comandanti regionali.",
+  "z71924fcd": "La testata in esilio denuncia le condizioni di detenzione dell'attivista.",
+  "zf7893e4a": "La testata riporta il malcontento del governatore regionale per il boicottaggio del voto.",
+  "z178ce6b6": "La testata segnala i ritardi nell'avvio dell'anno scolastico denunciati dalle autorità locali.",
+  "z71f60aec": "La testata riporta le rivendicazioni dei trasportatori contro le forze dell'ordine.",
+  "zd4bf98e5": "La testata descrive il clima di relativa tranquillità tornato nella città dopo il rafforzamento militare.",
+  "zf0f2c1f0": "La testata ricostruisce nel dettaglio il metodo usato dal truffatore per sfuggire alla giustizia.",
+  "zf621d001": "La testata sottolinea come i blocchi coinvolgano spesso militanti provenienti da altri istituti.",
+  "z1342afc9": "La testata evidenzia l'entità dei fermi e la giovane età della maggior parte dei coinvolti.",
+  "z64f20320": "La testata dà spazio diretto al racconto del giornalista minacciato per il suo lavoro.",
+  "z095dcfb9": "La testata presenta le due versioni contrapposte della vicenda circolate online.",
+  "zad71dffe": "La testata mette a confronto le versioni contrapposte di SPD e Unione sulla vicenda.",
+  "zd42dd010": "La testata invita a distinguere tra questioni di equità fiscale e necessità di bilancio del governo.",
+  "ze4d2b806": "La Süddeutsche Zeitung inquadra la vicenda nel solco della storia della libertà di stampa tedesca, paragonandola alla Spiegel-Affäre.",
+  "z9c9d39bc": "Süddeutsche Zeitung sottolinea la fermezza di Merz verso il partner di coalizione SPD sul tema delle riforme.",
+  "zf6b19e61": "FAZ evidenzia la fragilità delle infrastrutture digitali russe esposte agli attacchi con droni ucraini.",
+  "z1804dd73": "FAZ racconta le divisioni interne alla CDU regionale sulla gestione del voto parlamentare.",
+  "zf5881133": "Público dà voce sia all'associazione contraria al progetto sia alla posizione del Comune.",
+  "zc234d552": "Público riporta il giudizio critico di Teixeira da Mota sull'operato di Jardim.",
+  "z5d588b43": "Público segnala sia il ritardo tecnico sia le richieste dei tassisti di ampliare le destinazioni coperte.",
+  "z93e66d0e": "Público riporta la presentazione della nuova campagna promozionale del settore calzaturiero.",
+  "z824bb3f6": "Público racconta la reazione degli studenti all'irruzione nello studio radiofonico da parte di esponenti di Chega.",
+  "zd61ca9ee": "NRC mette a confronto le proposte degli agricoltori con lo scetticismo del ministro e di LTO.",
+  "z5e328248": "NRC si concentra sulle implicazioni per le aziende olandesi, sulla base di una propria ricerca.",
+  "z17142c27": "NRC segue l'escalation del contenzioso tra le associazioni dei consumatori e Meta sugli occhiali con telecamera.",
+  "zb0eb8167": "NRC confronta la situazione vaccinale olandese con l'epidemia in corso in Pennsylvania.",
+  "z278fad1e": "NRC riporta la decisione del tribunale che contraddice la posizione del governo sull'applicazione del divieto.",
+  "z64674c3d": "NZZ dà spazio alle ragioni dei promotori del referendum contro l'accordo commerciale.",
+  "zcce4f4c4": "NZZ sottolinea il clima di tensione in Vaticano per l'intervento al nuovo papa.",
+  "z0ba87049": "NZZ interpreta la vicenda come un segnale politico oltre che giudiziario.",
+  "zca2f8f60": "Der Standard documenta direttamente le condizioni della struttura con una visita a sorpresa.",
+  "zcdab4913": "Der Standard riporta la valutazione prudente della nuova politica europea sull'asilo da parte del difensore civico.",
+  "zdced163e": "Der Standard raccoglie le opinioni dei proprietari di cani del quartiere sull'iniziativa.",
+  "z96766bd8": "Dagens Nyheter racconta la strategia comunicativa scelta dalla federazione per attirare l'attenzione dei politici.",
+  "z6e6e3e2d": "Dagens Nyheter evidenzia il raro accordo trasversale tra tutti i partiti su un tema migratorio.",
+  "zb30ebc76": "Dagens Nyheter racconta l'emozione dei due giovani ornitologi per l'avvistamento raro.",
+  "zc0decbbd": "Dagens Nyheter si concentra sull'impatto sindacale e sulle conseguenze economiche per gli artisti coinvolti.",
+  "z9cc555da": "TVN24 affronta il tema con un taglio divulgativo, dando voce a uno specialista del settore trapiantologico.",
+  "z3258cf94": "TVN24 riporta la reazione ufficiale della presidenza, sottolineando il tentativo di minimizzare il peso del parere internazionale.",
+  "z5a6d97cf": "TVN24 evidenzia la durezza della retorica politica usata da Błaszczak nel dibattito sulla Corte.",
+  "z943d5ea6": "TVN24 mette in rilievo la discrepanza tra i dati ucraini e le dichiarazioni pubbliche di Trump sulle spese energetiche europee verso la Russia.",
+  "z91d4c53a": "Folha de S.Paulo quantifica con dati il peso della burocrazia sulle piccole imprese brasiliane.",
+  "zb1b79a2f": "Folha de S.Paulo analizza le pressioni economiche e culturali che minacciano la tradizione gastronomica francese.",
+  "zdd705680": "Folha de S.Paulo segue le manovre politiche interne alla coalizione di Bolsonaro in vista di un possibile governo.",
+  "z5e110119": "G1 riporta l'annuncio ufficiale dell'investimento e le dichiarazioni del ministro sul mercato aereo brasiliano.",
+  "z11cc9616": "Clarín riporta le confessioni personali di Horner sul suo licenziamento e sui cambiamenti ai vertici della squadra.",
+  "zc36aa6cb": "Clarín ripercorre la storia del genere delle interviste letterarie come forma editoriale autonoma.",
+  "z904dd430": "Clarín riporta i dettagli della decisione antitrust europea e le condizioni imposte all'operazione.",
+  "zfee36428": "La Nación segnala il passaggio di consegne temporaneo richiamando anche i precedenti controversi di Sbarra.",
+  "z49047275": "La Nación segue in tempo reale le dichiarazioni del presidente argentino nell'ambito di un liveblog politico.",
+  "z941116e2": "La Nación mette in evidenza il rischio di inondazioni e le prime evacuazioni avvenute in Paraguay.",
+  "z793712ec": "La Tercera approfondisce con un esperto le soluzioni tecniche per contenere i danni da alluvione.",
+  "za05ccf43": "La Tercera riporta le critiche della presidente del Senato alla possibile ricandidatura di Bachelet.",
+  "zbba5bce1": "La Tercera riporta le previsioni di crescita dell'azienda di logistica cilena per il prossimo anno.",
+  "z6414dde4": "La Tercera riprende l'analisi di Julius Baer sulle implicazioni di mercato delle elezioni americane.",
+  "z3cff2b0c": "La Tercera collega l'andamento del prezzo del rame alle dichiarazioni del ministro su sicurezza e produzione mineraria.",
+  "zb1ab0677": "El Tiempo riporta le richieste di dimissioni rivolte al sindaco dopo le accuse emerse mesi fa.",
+  "zcfa4ee08": "El Comercio spiega i contenuti della legge e come accedere all'assistenza prevista.",
+  "zf5d3990e": "El Nacional riporta i contenuti dell'incontro tra Rodríguez e i vertici della FAO.",
+  "z709a6d79": "El Nacional descrive nel dettaglio la proposta disciplinare avanzata da Fujimori.",
+  "z2924a144": "El Nacional celebra la prestazione di Contreras nei playoff.",
+  "z2ef39ca0": "El Nacional documenta il nuovo intercettamento di migranti nelle acque caraibiche.",
+  "ze9b349e1": "El Deber riporta le dichiarazioni dei giocatori sulla pressione della partita decisiva.",
+  "z7fc4fb27": "El Deber segnala il degrado del terreno di gioco dopo le partite recenti.",
+  "z68aa78eb": "La Nación CR celebra il successo della surfista costaricana all'estero.",
+  "z24f5cc94": "La Nación riporta le testimonianze dell'equipaggio sull'esperienza della missione.",
+  "zbff32462": "El Universo descrive la crescita del settore degli elettrodomestici nel Paese.",
+  "zdba22e2e": "ABC Color riporta la decisione del tribunale sull'ex funzionario.",
+  "z8455a5d5": "ABC Color evidenzia l'adesione dei media latinoamericani all'iniziativa globale."
  },
  "contesti": {
   "z2995a5a1": "Nei giorni scorsi il presidente statunitense Donald Trump ha annunciato un'intesa di tregua limitata alle sole infrastrutture energetiche. Tuttavia, lunedì il presidente ucraino Volodymyr Zelensky aveva denunciato il ferimento di sei impianti, contestando l'effettiva volontà russa di rispettare lo stop agli attacchi prima della tregua parziale registrata martedì.",
@@ -26058,7 +27933,25 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z59389868": "L'amministrazione Trump ha intensificato negli ultimi mesi la linea dura sull'immigrazione, spingendo per interpretazioni restrittive delle norme di asilo, specie riguardo al sostegno materiale a gruppi definiti terroristici. Il caso del cuoco nigeriano, costretto a lavorare per un gruppo armato, era già stato oggetto di contenziosi nelle corti inferiori prima di arrivare all'attenzione della Corte Suprema.",
   "za7548840": "Il 7 ottobre 2023 Hamas lanciò un attacco senza precedenti contro Israele, innescando una guerra devastante a Gaza durata due anni, con decine di migliaia di morti e distruzione diffusa. Nel tempo sono emerse crescenti critiche interne alla popolazione verso la leadership di Hamas, accusata di aver condotto gli abitanti verso una catastrofe senza ottenere la promessa vittoria.",
   "z871f88e3": "Il sistema ferroviario pakistano soffre da anni di carenze infrastrutturali e manutenzione insufficiente, causando ricorrenti incidenti anche gravi. Negli ultimi mesi si sono registrati diversi deragliamenti e scontri lungo la rete nazionale, alimentando critiche sulla sicurezza dei trasporti e sollecitando più volte interventi del governo centrale e provinciale senza risolutive riforme strutturali.",
-  "z87b493ce": "Il Sud Sudan si prepara alle prime elezioni generali dall'indipendenza, fissate per il 22 dicembre, dopo ripetuti rinvii legati all'instabilità politica e agli accordi di pace tra le fazioni rivali. Nelle ultime settimane le autorità hanno lavorato alla definizione delle regole elettorali, incluso il ruolo dei militari, per garantire un processo considerato cruciale per la stabilità del Paese."
+  "z87b493ce": "Il Sud Sudan si prepara alle prime elezioni generali dall'indipendenza, fissate per il 22 dicembre, dopo ripetuti rinvii legati all'instabilità politica e agli accordi di pace tra le fazioni rivali. Nelle ultime settimane le autorità hanno lavorato alla definizione delle regole elettorali, incluso il ruolo dei militari, per garantire un processo considerato cruciale per la stabilità del Paese.",
+  "zf621d001": "Da alcune settimane la Francia è attraversata da una mobilitazione studentesca che ha coinvolto licei pubblici e privati. Gruppi di manifestanti, spesso non appartenenti agli istituti presi di mira, hanno organizzato blocchi davanti a scuole prestigiose come Stanislas a Parigi e Audencia a Nantes, provocando tensioni con dirigenti scolastici e forze dell'ordine, in un clima di proteste che si allarga ad altre città francesi.",
+  "z1342afc9": "Le proteste studentesche che da settimane agitano la Francia hanno portato a scontri e disordini soprattutto nel sud del Paese, con blocchi di scuole, cortei non autorizzati e tensioni con la polizia. Le autorità hanno intensificato i controlli e i fermi, coinvolgendo in gran parte minorenni, molti dei quali al loro primo contatto con la giustizia, in un contesto di crescente preoccupazione per la radicalizzazione delle manifestazioni.",
+  "zad71dffe": "La presidente del Bundestag Bärbel Bas, esponente SPD, si è dimessa dopo settimane di pressioni e critiche politiche che hanno coinvolto esponenti della coalizione di governo tedesca tra CDU/CSU e SPD. La vicenda ha acceso un confronto interno sulla gestione dei rapporti tra i partiti di maggioranza, con accuse incrociate su presunti attacchi personali che la CDU ora respinge pubblicamente.",
+  "zd61ca9ee": "Da mesi gli agricoltori olandesi protestano contro le politiche governative di riduzione delle emissioni di azoto, ritenute troppo penalizzanti per il settore agricolo. Le organizzazioni di categoria, riunite nella Landbouw Alliantie, hanno lavorato a una controproposta alternativa ai piani dell'esecutivo, in un contesto segnato anche dalle azioni del movimento radicale Farmers Defence Force, storicamente vicino alle rivendicazioni del settore.",
+  "z5e328248": "Nel fine settimana un attacco informatico ha colpito i sistemi di refrigerazione di centinaia di supermercati francesi, mandandoli in modalità sbrinamento e causando danni economici. L'episodio ha riacceso l'attenzione sulla sicurezza informatica delle infrastrutture della grande distribuzione in Europa, spingendo analisti ed esperti a verificare la vulnerabilità di sistemi analoghi anche in altri Paesi, tra cui i Paesi Bassi.",
+  "z3258cf94": "Nei giorni scorsi è esploso un contrasto politico sulla nomina dei giudici del Tribunale costituzionale polacco, con il giuramento di Maciej Berek contestato dall'opposizione come illegittimo, mentre la maggioranza difende la nomina come conforme alla legge votata dal Sejm.",
+  "z5a6d97cf": "La disputa sulla legittimità dei giudici del Tribunale costituzionale, in particolare su Maciej Berek, prosegue da giorni tra maggioranza e opposizione, alimentando dichiarazioni sempre più aspre da entrambe le parti politiche.",
+  "zdd705680": "Le elezioni presidenziali brasiliane sono in corso tra primo e secondo turno, con Flávio Bolsonaro candidato per il PL; negli ultimi giorni diversi partiti del centrão hanno annunciato il proprio sostegno alla sua candidatura, cambiando gli equilibri della corsa.",
+  "z793712ec": "La scorsa settimana un'alluvione ha colpito il quartiere di San Carlos de Apoquindo, nel comune cileno di Las Condes, causando lo smottamento di una grande quantità di materiale e riportando l'attenzione sulle misure di protezione contro questo tipo di fenomeni.",
+  "z64f20320": "Il giornalista e regista israeliano Yuval Abraham, noto per il documentario premiato sulla guerra a Gaza che ha denunciato pratiche militari israeliane, è finito nel mirino di settori del governo e dell'opinione pubblica israeliana. Nei mesi scorsi ha subito minacce e campagne diffamatorie, mentre le autorità hanno avviato indagini sui suoi collaboratori e fonti, alimentando un acceso dibattito sulla libertà di stampa in Israele durante il conflitto a Gaza.",
+  "zf6b19e61": "Nell'ambito del conflitto in corso tra Russia e Ucraina, Kiev ha intensificato gli attacchi con droni contro infrastrutture strategiche russe, comprese reti energetiche e digitali, per colpire le capacità operative di Mosca. Negli ultimi mesi diversi attacchi hanno causato blackout e disservizi in varie regioni russe, mentre il Cremlino ha più volte minimizzato l'impatto di tali operazioni sulle infrastrutture nazionali.",
+  "zf5881133": "Il progetto immobiliare Emporium Park a Porto ha suscitato forti opposizioni da parte di residenti e associazioni locali, preoccupate per l'impatto urbanistico e ambientale dell'opera. Nelle ultime settimane l'associazione Porto Atlântico ha avviato un'azione amministrativa contro il progetto, mentre il Comune, guidato dal presidente Pedro Duarte, ha chiesto ulteriori pareri tecnici prima di procedere.",
+  "zb0eb8167": "Negli Stati Uniti il morbillo è tornato a circolare con focolai in diversi stati, tra cui la Pennsylvania, complice il calo delle coperture vaccinali post-pandemia. In Europa casi sporadici sono aumentati nelle comunità con bassa adesione al vaccino MPR. Nei Paesi Bassi, in particolare nella Bible Belt dove motivi religiosi frenano la vaccinazione, le autorità sanitarie monitorano da tempo il rischio di un focolaio analogo a quello statunitense.",
+  "z64674c3d": "L'accordo UE-Mercosur, negoziato per oltre vent'anni, è stato concluso politicamente a fine 2024 e necessita ora della ratifica dei singoli Stati membri e, in Svizzera, dell'accordo di libero scambio parallelo tra EFTA e Mercosur. Ambientalisti e partiti progressisti hanno criticato a lungo l'intesa per l'assenza di vincoli stringenti sulla deforestazione amazzonica e sugli standard agricoli, preparando una mobilitazione referendaria.",
+  "zcce4f4c4": "Papa Leone XIV, eletto nel 2025 dopo la morte di Francesco, aveva già mostrato segnali di affaticamento nelle apparizioni pubbliche delle ultime settimane. Il precedente pontefice era stato ricoverato al Gemelli nel 2025 per problemi respiratori, episodio che aveva acceso l'attenzione sulla salute dei pontefici. Ora il nuovo Papa è stato ricoverato nella stessa clinica romana in vista di un intervento ai polmoni.",
+  "z0ba87049": "François Chaix guida il Tribunale federale svizzero, la massima corte del Paese, chiamata a garantire imparzialità e rigore etico nei suoi ranghi. Negli ultimi mesi è emersa una relazione sentimentale tra magistrati ritenuta inappropriata e gestita in modo controverso dalla presidenza, suscitando malumori interni. La vicenda ha progressivamente eroso la fiducia dei colleghi nella leadership di Chaix.",
+  "z943d5ea6": "Dopo l'invasione russa dell'Ucraina nel febbraio 2022, l'Unione Europea ha progressivamente ridotto ma non azzerato gli acquisti di combustibili fossili da Mosca, mantenendo flussi residui di gas e petrolio. Il presidente Trump ha più volte criticato pubblicamente l'Europa per la sua dipendenza energetica dalla Russia, citando cifre elevate. Media ucraini hanno ora pubblicato dati dettagliati sui pagamenti UE dal 2022 a oggi.",
+  "z941116e2": "Le dighe binazionali di Itaipú (Brasile-Paraguay) e Yacyretá (Argentina-Paraguay) regolano da decenni il flusso del fiume Paraná, fondamentale per l'energia e l'agricoltura regionale. Le piogge intense delle ultime settimane in Brasile meridionale hanno fatto crescere rapidamente i livelli dei bacini, costringendo i gestori ad aumentare gradualmente i rilasci d'acqua e a lanciare i primi avvisi alle comunità rivierasche."
  },
  "cronologie": {
   "z2995a5a1": [
@@ -28485,6 +30378,266 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "13 ottobre",
     "L'esercito impone le dimissioni agli ufficiali candidati"
+   ]
+  ],
+  "z3258cf94": [
+   [
+    "giorni scorsi",
+    "Il Sejm elegge Maciej Berek giudice del Tribunale costituzionale"
+   ],
+   [
+    "13 ottobre",
+    "La Commissione di Venezia pubblica un parere sulla vicenda e il Palazzo presidenziale risponde"
+   ]
+  ],
+  "z5a6d97cf": [
+   [
+    "giorni scorsi",
+    "Il Sejm elegge Maciej Berek giudice costituzionale, contestato dall'opposizione"
+   ],
+   [
+    "13 ottobre",
+    "Błaszczak paragona l'elezione dei giudici a quella di Hitler"
+   ]
+  ],
+  "zdd705680": [
+   [
+    "giorni scorsi",
+    "Partiti del centrão annunciano sostegno a Flávio Bolsonaro"
+   ],
+   [
+    "13 ottobre",
+    "Si apre la corsa alle nomine ministeriali in vista di un eventuale governo Bolsonaro"
+   ]
+  ],
+  "z793712ec": [
+   [
+    "settimana scorsa",
+    "Alluvione colpisce San Carlos de Apoquindo a Las Condes"
+   ],
+   [
+    "13 ottobre",
+    "Un esperto spiega le strutture di mitigazione in un video de La Tercera"
+   ]
+  ],
+  "zf621d001": [
+   [
+    "fine settembre",
+    "Avvio delle prime mobilitazioni studentesche in diverse città francesi"
+   ],
+   [
+    "inizio ottobre",
+    "Blocchi si estendono a istituti privati come Stanislas e Audencia"
+   ],
+   [
+    "giorni scorsi",
+    "Intervento delle forze dell'ordine davanti a diversi istituti bloccati"
+   ]
+  ],
+  "z1342afc9": [
+   [
+    "fine settembre",
+    "Prime proteste liceali nel sud della Francia"
+   ],
+   [
+    "inizio ottobre",
+    "Intensificazione dei blocchi e scontri con la polizia"
+   ],
+   [
+    "giorni scorsi",
+    "Bilancio di quasi mille fermi, in maggioranza minorenni"
+   ]
+  ],
+  "z64f20320": [
+   [
+    "mesi scorsi",
+    "Uscita e successo internazionale del documentario di Abraham su Gaza"
+   ],
+   [
+    "settimane scorse",
+    "Avvio di indagini sulle fonti e i collaboratori del regista"
+   ],
+   [
+    "giorni scorsi",
+    "Intervista in cui Abraham racconta minacce di morte e isolamento"
+   ]
+  ],
+  "zad71dffe": [
+   [
+    "settimane scorse",
+    "Crescenti tensioni politiche attorno alla figura di Bärbel Bas"
+   ],
+   [
+    "giorni scorsi",
+    "Annuncio delle dimissioni di Bas da presidente del Bundestag"
+   ],
+   [
+    "oggi",
+    "La CDU respinge le accuse di attacchi personali, Klingbeil parla di pressioni subite dalla SPD"
+   ]
+  ],
+  "zf6b19e61": [
+   [
+    "settimane scorse",
+    "Intensificazione degli attacchi ucraini con droni su territorio russo"
+   ],
+   [
+    "giorni scorsi",
+    "Colpiti data center del colosso Yandex"
+   ],
+   [
+    "oggi",
+    "Il Cremlino ammette 'difficoltà' causate dagli attacchi"
+   ]
+  ],
+  "zf5881133": [
+   [
+    "settimane scorse",
+    "Avvio delle contestazioni al progetto Emporium Park"
+   ],
+   [
+    "giorni scorsi",
+    "Il Comune richiede nuovi pareri tecnici sull'opera"
+   ],
+   [
+    "oggi",
+    "Presentato ricorso cautelare per sospendere i lavori"
+   ]
+  ],
+  "zd61ca9ee": [
+   [
+    "mesi scorsi",
+    "Proteste diffuse degli agricoltori contro i piani sull'azoto"
+   ],
+   [
+    "settimane scorse",
+    "Formazione della Landbouw Alliantie per elaborare proposte alternative"
+   ],
+   [
+    "oggi",
+    "Il ministro respinge immediatamente le proposte presentate"
+   ]
+  ],
+  "z5e328248": [
+   [
+    "weekend scorso",
+    "Attacco informatico colpisce supermercati francesi"
+   ],
+   [
+    "giorni scorsi",
+    "Danni e disservizi confermati dalle catene colpite"
+   ],
+   [
+    "oggi",
+    "NRC rivela possibili vulnerabilità analoghe nei sistemi olandesi"
+   ]
+  ],
+  "zb0eb8167": [
+   [
+    "Primavera 2025",
+    "Aumento dei casi di morbillo segnalato in vari stati USA"
+   ],
+   [
+    "Settembre 2025",
+    "Focolaio confermato in Pennsylvania"
+   ],
+   [
+    "Inizio ottobre 2025",
+    "RIVM analizza i tassi di copertura vaccinale nella Bible Belt olandese"
+   ],
+   [
+    "13 ottobre 2025",
+    "RIVM avverte sul rischio concreto di epidemia nei Paesi Bassi"
+   ]
+  ],
+  "z64674c3d": [
+   [
+    "Dicembre 2024",
+    "Conclusione politica dei negoziati UE-Mercosur"
+   ],
+   [
+    "Inizi 2025",
+    "Parlamento svizzero discute il trattato EFTA-Mercosur"
+   ],
+   [
+    "Estate 2025",
+    "Ong e partiti di sinistra annunciano l'intenzione di raccogliere firme"
+   ],
+   [
+    "13 ottobre 2025",
+    "Lancio ufficiale della raccolta firme per il referendum"
+   ]
+  ],
+  "zcce4f4c4": [
+   [
+    "2025",
+    "Ricovero di Papa Francesco al Gemelli per problemi respiratori"
+   ],
+   [
+    "Settimane precedenti",
+    "Segnali di affaticamento del Papa durante le udienze"
+   ],
+   [
+    "Inizio ottobre 2025",
+    "Ricovero di Leone XIV al Policlinico Gemelli"
+   ],
+   [
+    "13 ottobre 2025",
+    "Annuncio dell'intervento chirurgico ai polmoni"
+   ]
+  ],
+  "z0ba87049": [
+   [
+    "Mesi scorsi",
+    "Emergono i dettagli della relazione sentimentale controversa"
+   ],
+   [
+    "Settembre 2025",
+    "Prime critiche interne alla gestione del caso da parte di Chaix"
+   ],
+   [
+    "Inizio ottobre 2025",
+    "La magistratura chiede chiarimenti e un nuovo vertice"
+   ],
+   [
+    "13 ottobre 2025",
+    "Chaix perde il sostegno dei colleghi"
+   ]
+  ],
+  "z943d5ea6": [
+   [
+    "Febbraio 2022",
+    "Inizio dell'invasione russa dell'Ucraina"
+   ],
+   [
+    "2022-2024",
+    "UE riduce gradualmente le importazioni di energia russa"
+   ],
+   [
+    "2025",
+    "Trump accusa ripetutamente l'Europa di finanziare la Russia"
+   ],
+   [
+    "13 ottobre 2025",
+    "Europejska Prawda pubblica i dati aggiornati sui pagamenti UE"
+   ]
+  ],
+  "z941116e2": [
+   [
+    "Settembre 2025",
+    "Piogge intense nel bacino del Paraná in Brasile"
+   ],
+   [
+    "Fine settembre 2025",
+    "Innalzamento dei livelli nei bacini di Itaipú e Yacyretá"
+   ],
+   [
+    "Inizio ottobre 2025",
+    "Prime evacuazioni a Ciudad del Este"
+   ],
+   [
+    "13 ottobre 2025",
+    "Allerta ufficiale per possibili piene tra ottobre e dicembre"
    ]
   ]
  },
@@ -31072,13 +33225,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Iran",
    "p": [
     "Iran"
-   ],
-   "pt": []
-  },
-  "z5b9f7471": {
-   "n": "Portogallo",
-   "p": [
-    "Portugal"
    ],
    "pt": []
   },
@@ -35569,6 +37715,521 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "Sierra Leone"
    ],
    "pt": []
+  },
+  "zef36f83e": {
+   "n": "Botswana",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "z85936149": {
+   "n": "Belize",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "zea0e3a34": {
+   "n": "Bahamas",
+   "p": [
+    "Bahamas"
+   ],
+   "pt": []
+  },
+  "zd56d9a51": {
+   "n": "Bahamas",
+   "p": [
+    "Bahamas"
+   ],
+   "pt": []
+  },
+  "z4fe65521": {
+   "n": "Barbados",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "z586a13b7": {
+   "n": "Barbados",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "zb67d543c": {
+   "n": "Dominica",
+   "p": [
+    "Dominica"
+   ],
+   "pt": []
+  },
+  "z71924fcd": {
+   "n": "Cuba",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "zf7893e4a": {
+   "n": "Ouanda-Djallé",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z178ce6b6": {
+   "n": "Obo",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z71f60aec": {
+   "n": "Garoua-Boulaï",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "zd4bf98e5": {
+   "n": "Amdafock",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "zf0f2c1f0": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zf621d001": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1342afc9": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z64f20320": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z095dcfb9": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zad71dffe": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zd42dd010": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "ze4d2b806": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z9c9d39bc": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zf6b19e61": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z1804dd73": {
+   "n": "Sassonia-Anhalt",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zf5881133": {
+   "n": "Porto",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zc234d552": {
+   "n": "Madeira",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z5d588b43": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z93e66d0e": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z824bb3f6": {
+   "n": "Coimbra",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zd61ca9ee": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z5e328248": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z17142c27": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zb0eb8167": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z278fad1e": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z64674c3d": {
+   "n": "Svizzera",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zcce4f4c4": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z0ba87049": {
+   "n": "Svizzera",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zca2f8f60": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zcdab4913": {
+   "n": "Austria",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zdced163e": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z96766bd8": {
+   "n": "Svezia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z6e6e3e2d": {
+   "n": "Svezia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zb30ebc76": {
+   "n": "Varberg",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zc0decbbd": {
+   "n": "Malmö",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z9cc555da": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z3258cf94": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z5a6d97cf": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z943d5ea6": {
+   "n": "Unione Europea",
+   "p": [],
+   "pt": []
+  },
+  "z91d4c53a": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zb1b79a2f": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zdd705680": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z5e110119": {
+   "n": "Rio de Janeiro",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z11cc9616": {
+   "n": "Austria",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zc36aa6cb": {
+   "n": "Argentina",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z904dd430": {
+   "n": "Unione Europea",
+   "p": [],
+   "pt": []
+  },
+  "zfee36428": {
+   "n": "Argentina",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z49047275": {
+   "n": "Argentina",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z941116e2": {
+   "n": "Fiume Paraná",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z793712ec": {
+   "n": "Las Condes",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "za05ccf43": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zbba5bce1": {
+   "n": "Pudahuel",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z6414dde4": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3cff2b0c": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zb1ab0677": {
+   "n": "Algeciras",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zcfa4ee08": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf5d3990e": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z709a6d79": {
+   "n": "Perù",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z2924a144": {
+   "n": "Milwaukee",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2ef39ca0": {
+   "n": "Aruba",
+   "p": [
+    "Aruba"
+   ],
+   "pt": []
+  },
+  "ze9b349e1": {
+   "n": "Santa Cruz de la Sierra",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z7fc4fb27": {
+   "n": "El Alto",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z68aa78eb": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z24f5cc94": {
+   "n": "Luna",
+   "p": [],
+   "pt": []
+  },
+  "zbff32462": {
+   "n": "Ecuador",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "zdba22e2e": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z8455a5d5": {
+   "n": "America Latina",
+   "p": [],
+   "pt": []
   }
  },
  "rilievo": {
@@ -35871,7 +38532,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zf4bcdbca": 1,
   "z6edfbede": 1,
   "zee6de133": 1,
-  "z5b9f7471": 1,
   "z23d6d995": 1,
   "z720c401c": 1,
   "z3a8120c2": 1,
@@ -36520,7 +39180,82 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "za8e61fb6": 1,
   "z950c4c5a": 1,
   "z87b493ce": 2,
-  "zb3c6dbcb": 1
+  "zb3c6dbcb": 1,
+  "zef36f83e": 1,
+  "z85936149": 1,
+  "zea0e3a34": 1,
+  "zd56d9a51": 1,
+  "z4fe65521": 1,
+  "z586a13b7": 1,
+  "zb67d543c": 1,
+  "z71924fcd": 1,
+  "zf7893e4a": 1,
+  "z178ce6b6": 1,
+  "z71f60aec": 1,
+  "zd4bf98e5": 1,
+  "zf0f2c1f0": 1,
+  "zf621d001": 2,
+  "z1342afc9": 2,
+  "z64f20320": 2,
+  "z095dcfb9": 1,
+  "zad71dffe": 2,
+  "zd42dd010": 1,
+  "ze4d2b806": 1,
+  "z9c9d39bc": 1,
+  "zf6b19e61": 2,
+  "z1804dd73": 1,
+  "zf5881133": 2,
+  "zc234d552": 1,
+  "z5d588b43": 1,
+  "z93e66d0e": 1,
+  "z824bb3f6": 1,
+  "zd61ca9ee": 2,
+  "z5e328248": 2,
+  "z17142c27": 1,
+  "zb0eb8167": 2,
+  "z278fad1e": 1,
+  "z64674c3d": 2,
+  "zcce4f4c4": 2,
+  "z0ba87049": 2,
+  "zca2f8f60": 1,
+  "zcdab4913": 1,
+  "zdced163e": 1,
+  "z96766bd8": 1,
+  "z6e6e3e2d": 1,
+  "zb30ebc76": 1,
+  "zc0decbbd": 1,
+  "z9cc555da": 1,
+  "z3258cf94": 2,
+  "z5a6d97cf": 2,
+  "z943d5ea6": 2,
+  "z91d4c53a": 1,
+  "zb1b79a2f": 1,
+  "zdd705680": 2,
+  "z5e110119": 1,
+  "z11cc9616": 1,
+  "zc36aa6cb": 1,
+  "z904dd430": 1,
+  "zfee36428": 1,
+  "z49047275": 1,
+  "z941116e2": 2,
+  "z793712ec": 2,
+  "za05ccf43": 1,
+  "zbba5bce1": 1,
+  "z6414dde4": 1,
+  "z3cff2b0c": 1,
+  "zb1ab0677": 1,
+  "zcfa4ee08": 1,
+  "zf5d3990e": 1,
+  "z709a6d79": 1,
+  "z2924a144": 1,
+  "z2ef39ca0": 1,
+  "ze9b349e1": 1,
+  "z7fc4fb27": 1,
+  "z68aa78eb": 1,
+  "z24f5cc94": 1,
+  "zbff32462": 1,
+  "zdba22e2e": 1,
+  "z8455a5d5": 1
  },
  "video": {},
  "pillole": []
