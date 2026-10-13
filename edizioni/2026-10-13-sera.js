@@ -3,73 +3,1418 @@ window.EDIZIONI["2026-10-13-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z1cf707d3",
+   "id": "zcf6f2cec",
    "sez": "mondo",
-   "titolo": "India, la protesta degli «scarafaggi»: i giovani sfidano il potere di Modi",
-   "orig": "India: Can 'cockroaches' threaten Modi's political grip?",
-   "lead": "Migliaia di persone fermate, dirigenti arrestati appena arrivati e una capitale blindata: le proteste guidate dai giovani contro il capo della commissione elettorale tengono in allerta il governo indiano. Secondo la Deutsche Welle gli esperti ritengono però che far cadere il vertice dell'autorità sia tutt'altro che semplice. Il Washington Post parla di una sfida senza precedenti per il primo ministro, mai davvero messo in discussione fino a questo mese, mentre il Financial Times, in un commento, invita il partito di Modi ad ascoltare le frustrazioni politiche ed economiche dei più giovani.",
+   "titolo": "Alluvione a Tripoli: auto, case e ospedali sommersi",
+   "orig": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
+   "lead": "Piogge torrenziali hanno provocato un'alluvione a Tripoli, la capitale della Libia. L'acqua ha invaso le strade e ha sommerso automobili, abitazioni e anche alcuni ospedali. In diversi casi le persone sono rimaste intrappolate all'interno degli edifici, isolate dall'acqua che ha raggiunto i piani bassi. La causa indicata è la forte pioggia caduta sulla città, che ha messo in difficoltà quartieri residenziali e strutture sanitarie. Le prime notizie non riportano un bilancio delle conseguenze per la popolazione. Lo riferisce Al Jazeera.",
    "more": [
-    "La commissione elettorale indiana organizza le votazioni di un elettorato di quasi un miliardo di persone. Le proteste nascono dalle modifiche alle liste degli elettori, che i manifestanti contestano."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/india-can-cockroaches-threaten-modi-s-political-grip/a-79649732",
-     "angolo": "",
-     "atlas": "Germany"
-    },
-    {
-     "n": "The Washington Post",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.washingtonpost.com/world/2026/10/13/indias-modi-faces-unprecedented-challenge-power-youth-mobilize/",
-     "angolo": "",
-     "atlas": "United States of America"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/9c5501bc-7297-4864-a5a7-b2f2001e2dd9?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "19:28",
-   "uscita": "sera"
-  },
-  {
-   "id": "z938faa4b",
-   "sez": "mondo",
-   "titolo": "Sondaggio negli Stati Uniti: la maggioranza pensa che Trump metta davanti la propria ricchezza",
-   "orig": "Majority in US say Trump prioritises personal wealth over all else: Poll",
-   "lead": "Secondo un sondaggio, la maggioranza degli adulti americani ritiene che il presidente Donald Trump e la sua famiglia abbiano tratto profitto dalla presidenza in modo inappropriato. L'indagine dell'AP-NORC, ripresa da PBS NewsHour, aggiunge che la maggior parte degli intervistati lo vede più interessato ai propri interessi finanziari che ad aiutare persone come loro. Lo riferiscono Al Jazeera e PBS NewsHour.",
-   "more": [
-    "L'AP-NORC è un centro di ricerca sull'opinione pubblica nato dalla collaborazione tra l'agenzia Associated Press e l'università di Chicago."
+    "Tripoli è la capitale e la città più popolosa della Libia e si affaccia sul Mediterraneo. Il Paese vive da anni una profonda divisione politica, con istituzioni rivali, e molte infrastrutture urbane, comprese le reti di drenaggio, soffrono di scarsa manutenzione. Per questo le piogge intense possono trasformarsi rapidamente in allagamenti estesi."
    ],
    "fonti": [
     {
      "n": "Al Jazeera",
      "p": "QA",
      "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli",
      "angolo": "",
-     "atlas": "Qatar"
+     "atlas": "Qatar",
+     "t": "2026-10-13T16:49+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze5a30fce",
+   "sez": "mondo",
+   "titolo": "Regno Unito: l'Iran cerca «obiettivi più duri» per attacchi all'estero",
+   "orig": "Iran seeking 'harder targets' for attacks abroad, UK warns",
+   "lead": "Il capo dell'agenzia britannica per la sicurezza interna ha avvertito che l'Iran starebbe cercando «obiettivi più difficili» da colpire con attacchi all'estero. L'allarme arriva dopo che il primo ministro Burnham ha dichiarato che un tentativo di complotto contro una base dell'aeronautica che ospita bombardieri statunitensi è stato «quasi certamente» coordinato da Teheran. Le autorità del Regno Unito collegano dunque direttamente il piano sventato alla Repubblica islamica e indicano un salto di qualità nelle sue ambizioni ostili sul suolo straniero. Lo riferisce Deutsche Welle.",
+   "more": [
+    "L'agenzia britannica per la sicurezza interna è l'MI5, responsabile del controspionaggio e dell'antiterrorismo nel Regno Unito. Negli ultimi anni i servizi britannici hanno più volte denunciato attività ostili attribuite all'Iran sul territorio nazionale, come minacce a dissidenti e giornalisti. Le basi aeree britanniche usate dalle forze statunitensi sono considerate siti particolarmente sensibili."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T17:23+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9371c2cd",
+   "sez": "prima",
+   "titolo": "Yemen, attacchi Houthi su Taiz mentre le forze governative avanzano a Marib",
+   "orig": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
+   "lead": "Nello Yemen si intensificano i combattimenti. Gli abitanti di Taiz, città accerchiata dai miliziani filoiraniani, denunciano bombardamenti crescenti, scarsità di rifornimenti e prezzi in forte aumento. Droni e cecchini stringono l'assedio e le autorità parlano di «grave crisi umanitaria». Nella regione di Saada, intanto, è stato annunciato l'abbattimento di un drone saudita armato da ricognizione.",
+   "more": [
+    "Taiz è la terza città dello Yemen e un importante polo industriale; nel 2011 fu il cuore delle proteste della primavera yemenita. Si trova in una posizione strategica sulle vie verso il sud e il Mar Rosso. Gli Houthi sono un movimento armato sostenuto dall'Iran che controlla la capitale Sanaa e gran parte del nord del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-13T12:57+00:00"
     },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2634604/yemeni-army-strikes-houthi-forces-in-taiz-amid-escalation",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-13T10:13+05:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/middle-east/in-yemens-taiz-shelling-worsens-and-prices-spiral",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-14T00:40+08:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/13/news/houthi_assediano_taiz_citta_strategica_roccaforte_governo_yemen-425644409/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T10:58+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z857bac07",
+   "sez": "cucina",
+   "titolo": "Mimì alla Ferrovia di Napoli conquista i Tre Gamberi",
+   "orig": "La storica trattoria di Napoli dove i clienti ordinano sempre gli stessi piatti conquista i Tre Gamberi",
+   "lead": "La storica trattoria napoletana Mimì alla Ferrovia entra tra i nuovi Tre Gamberi della guida Ristoranti d'Italia 2027 del Gambero Rosso, i cui riconoscimenti sono stati annunciati in anteprima a Perugia. Il locale viene premiato per una cucina che custodisce i piatti della tradizione partenopea, tanto che i clienti abituali ordinano sempre gli stessi, e per un servizio che si tramanda di generazione in generazione. Il premio valorizza quindi la continuità e la fedeltà alla tradizione più che la ricerca della novità. Lo riferisce Gambero Rosso.",
+   "more": [
+    "I Tre Gamberi sono il riconoscimento che la guida del Gambero Rosso assegna alle migliori trattorie e osterie, distinto dalle Tre Forchette riservate ai ristoranti. Premiano locali che uniscono cucina del territorio, accoglienza e prezzi adatti alla formula della trattoria."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/ristoranti/mimi-alla-ferrovia-napoli-tre-gamberi-2027/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T07:51+00:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/servicios/noticia/donde-y-a-que-hora-ver-a-villarreal-vs-napoli-en-tv-y-streaming/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-13T17:40+00:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/servicios/noticia/donde-y-a-que-hora-ver-a-viking-vs-bayern-munich-en-tv-y-streaming/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-13T17:02+00:00"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/villarreal_napoli_champions_league_dove_vederla_tv_sky_prime_orario_formazioni_ufficiali-9820289.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/deportes/cuando-y-a-que-hora-juegan-universitario-vs-alianza-atletico-de-sullana-por-la-fecha-12-del-torneo-clausura-tdpe-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-13T17:54+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc8ea3075",
+   "sez": "tech",
+   "titolo": "Yandex rinuncia ai canoni cloud dopo gli attacchi ucraini ai data center",
+   "orig": "Yandex Waives Cloud and Software Fees After Ukrainian Drone Attacks on Data Centers",
+   "lead": "Il gruppo tecnologico russo Yandex ha sospeso i costi dei servizi cloud e del software per i clienti dopo gli attacchi con droni ucraini contro i suoi data center. In due giorni di contrattazioni alla Borsa di Mosca il titolo ha perso 77 miliardi di rubli, circa 918,5 milioni di dollari, pari al 5,4% della capitalizzazione. Le ripercussioni si sono sentite anche in Uzbekistan, dove l'app Yandex Go ha avuto disservizi dopo il raid sul centro di Vladimir. Gli esperti negano invece un crollo della propaganda russa online.",
+   "more": [
+    "Yandex è la principale azienda internet russa, spesso definita la «Google russa»: gestisce un motore di ricerca, servizi cloud, mappe, pagamenti e app come Yandex Go per taxi e consegne, diffuse anche in diversi Paesi dell'ex Unione Sovietica. I data center ospitano i server che fanno funzionare questi servizi."
+   ],
+   "fonti": [
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/13/yandex-waives-cloud-and-software-fees-after-ukrainian-drone-attacks-on-data-centers-a93958",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-13T14:36+03:00"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/no-ukraines-strikes-on-yandex-data-centers-didnt-cripple-russian-influence-ops/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-13T17:31+00:00"
+    },
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/11/yandex-go/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-11T11:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8a169155",
+   "sez": "musica",
+   "titolo": "Michael Stipe annuncia il primo album solista",
+   "orig": "Michael Stipe rompe il silenzio: il primo album solista ha una data d’uscita",
+   "lead": "Michael Stipe, ex frontman dei R.E.M., ha svelato i dettagli del suo atteso debutto solista. Il primo singolo uscirà la notte di Capodanno, mentre per ascoltare l'intero album bisognerà attendere il 2027. L'annuncio arriva circa quattro anni dopo la prima finestra di pubblicazione ipotizzata per il progetto. Già nel 2023, parlando con il New York Times Magazine, il cantante aveva ammesso candidamente di non avere «alcuna fretta» di far uscire il disco. Il calendario completo dell'album resta in parte ancora da definire.",
+   "more": [
+    "Michael Stipe è stato la voce e il principale autore dei testi dei R.E.M., gruppo statunitense tra i più influenti del rock alternativo, scioltosi nel 2011. Dopo lo scioglimento si è dedicato soprattutto alla fotografia e alle arti visive, pubblicando solo pochi brani a suo nome."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/michael-stipe-rompe-il-silenzio-il-primo-album-solista-ha-una-data-duscita/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T16:57+00:00"
+    },
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/michael-stipe-reveals-debut-solo-album-release-date/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T16:42+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaf131601",
+   "sez": "cultura",
+   "titolo": "Kelly Clarkson litiga sui social per un uccello da 15.000 dollari",
+   "orig": "‘Wow, dude. You’re an idiot’: why Kelly Clarkson is fighting over a $15,000 bird on social media",
+   "lead": "La cantautrice statunitense Kelly Clarkson, 44 anni, nata a Fort Worth, è finita al centro di una polemica sui social per un oggetto a forma di uccello dal prezzo di 15.000 dollari. Dopo aver vissuto in un negozio di Brooklyn un episodio paragonabile alla celebre scena di Pretty Woman, la cantante si è sfogata su X, rispondendo duramente a un utente con la frase «Wow, amico. Sei un idiota». Intanto in tv Clarkson continua a fare da coach a The Voice.",
+   "more": [
+    "Kelly Clarkson è diventata famosa vincendo la prima edizione di American Idol ed è una delle popstar statunitensi di maggior successo. Oltre alla carriera musicale conduce un talk show televisivo e partecipa come coach al talent The Voice."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/oct/13/kelly-clarkson-fighting-over-15000-bird-social-media-brooklyn-store",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T13:36+00:00"
+    },
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/culture/tv-film/the-voice-double-steal-kayleigh-mathews-lillie-kolich-girl-crush-1236359827/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T17:30+00:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/kultur/kelly-clarkson-ein-kleiner-laden-ein-vogel-ein-streit-pretty-woman-oder-pretty-abgehoben-a-633644d8-6369-431e-ba91-92b5c3dc10d4#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T16:47+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2241a5b6",
+   "sez": "tech",
+   "titolo": "Hacker portano i frigoriferi dei supermercati francesi fino a 50 gradi",
+   "orig": "Gli hacker hanno trasformato i frigoriferi dei supermercati in forni. Temperature impostate fino a 50 gradi",
+   "lead": "Un attacco informatico ha colpito gli impianti di refrigerazione di centinaia di supermercati in Francia. Gli hacker sarebbero riusciti a modificare da remoto i cicli di sbrinamento automatico dei frigoriferi, facendo salire le temperature fino a 50 gradi. Il risultato è stato il deterioramento di grandi quantità di alimenti, con perdite stimate in milioni di euro. L'episodio mostra come anche i sistemi che garantiscono la catena del freddo, collegati in rete, possano diventare un bersaglio vulnerabile per i criminali informatici.",
+   "more": [
+    "I banchi frigo della grande distribuzione sono sempre più spesso gestiti da sistemi di controllo connessi a internet, che regolano temperature e cicli di sbrinamento per risparmiare energia. Questa connessione facilita la manutenzione a distanza, ma espone gli impianti ad accessi non autorizzati se non è adeguatamente protetta."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/attualita/hacker-frigoriferi-supermercati-francia-50-gradi/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T13:34+00:00"
+    },
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/francia-attacco-hacker-frigoriferi-supermercati-50-gradi-come/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T10:25+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6fd9a148",
+   "sez": "organizzazioni",
+   "titolo": "Onu: la lotta alla violenza sui minori non tiene il passo dei rischi",
+   "orig": "Global action to end violence against children is lagging behind risks: UN expert",
+   "lead": "La Rappresentante speciale delle Nazioni Unite sulla violenza contro i bambini ha lanciato un appello per un'azione globale più incisiva a tutela di bambine e bambini. Secondo l'esperta, i minori coinvolti in un numero crescente di crisi nel mondo sono sempre più esposti, mentre gli sforzi attuali per proteggerli restano insufficienti. Le misure messe in campo dalla comunità internazionale, avverte, sono in ritardo rispetto ai pericoli reali e serve un impegno più forte da parte degli Stati. Lo riferisce UN News.",
+   "more": [
+    "La Rappresentante speciale del Segretario generale sulla violenza contro i bambini è una figura dell'Onu incaricata di promuovere la prevenzione e l'eliminazione di ogni forma di violenza sui minori, collaborando con governi, agenzie come l'Unicef e società civile."
+   ],
+   "fonti": [
+    {
+     "n": "Nazioni Unite (UN News)",
+     "p": "XX",
+     "c": "New York",
+     "u": "https://news.un.org/feed/view/en/story/2026/10/1168582",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-13T12:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4c35042b",
+   "sez": "ingegneria",
+   "titolo": "Nasa, bollettino tecnico sui modi complessi nelle strutture poco smorzate",
+   "orig": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
+   "lead": "La Nasa ha pubblicato il bollettino tecnico TB 26-08, curato da Joel W. Sills del Langley Research Center, dedicato ai modi complessi nei sistemi strutturali con smorzamento ridotto. Il documento spiega che forme modali complesse possono comparire in una struttura lineare anche quando lo smorzamento complessivo è basso. Accade quando due modi strutturali hanno frequenze molto vicine e sono accoppiati da uno smorzamento non proporzionale: all'aumentare di questa interazione il fenomeno si accentua. Il testo è disponibile anche in formato PDF. Lo riferisce la Nasa.",
+   "more": [
+    "Nell'analisi delle vibrazioni, i modi propri descrivono le forme in cui una struttura tende a oscillare. Comprenderli è essenziale per progettare razzi, veicoli spaziali e aerei, che devono resistere a forti sollecitazioni dinamiche senza danni. Lo smorzamento indica la capacità della struttura di dissipare l'energia delle vibrazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T15:02+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5e997974",
+   "sez": "salute",
+   "titolo": "Texas, proposta l'abolizione del programma per bambini autistici",
+   "orig": "Texas health agency proposes eliminating children's autism program",
+   "lead": "Le autorità sanitarie del Texas hanno proposto di eliminare i fondi del Children's Autism Program, un programma che aiuta i bambini autistici a comunicare. Il servizio offre terapie a costi ridotti alle famiglie, ma la Texas Health and Human Services Commission, l'agenzia statale per la salute e i servizi sociali, intende cancellarlo a causa dei tagli di bilancio. La proposta rischia di lasciare molte famiglie senza un sostegno economico per le cure dei figli. Lo riferisce PBS NewsHour.",
+   "more": [
+    "L'autismo è una condizione del neurosviluppo che può influire su comunicazione, interazione sociale e comportamento. Le terapie precoci, come quelle comportamentali e logopediche, possono aiutare molto i bambini, ma negli Stati Uniti sono spesso costose e per molte famiglie dipendono da programmi pubblici o assicurazioni."
+   ],
+   "fonti": [
     {
      "n": "PBS NewsHour",
      "p": "US",
      "c": "Arlington",
-     "u": "https://www.pbs.org/newshour/politics/poll-majority-of-americans-say-trump-prioritizes-his-personal-financial-interests-over-u-s-as-a-whole",
+     "u": "https://www.pbs.org/newshour/health/texas-health-agency-proposes-eliminating-childrens-autism-program",
      "angolo": "",
-     "atlas": "United States of America"
+     "atlas": "United States of America",
+     "t": "2026-10-13T13:35-04:00"
     }
    ],
    "data": "13 ott",
-   "ora": "18:07",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z49fc3c46",
+   "sez": "mondo",
+   "titolo": "Siria, catasto digitale: che fine fanno gli atti di proprietà perduti?",
+   "orig": "Syria’s Digital Land Registry: What About Lost Property Deeds?",
+   "lead": "Il ministero siriano dell'Amministrazione locale e dell'Ambiente ha annunciato un catasto digitale dei terreni, che secondo il governo permetterà ai cittadini di gestire più facilmente le proprie proprietà. Il progetto solleva però una domanda centrale: cosa accadrà a chi ha perso i documenti che attestano la proprietà di case e terreni? L'inchiesta, firmata da Noura Qassem, esamina proprio questo nodo, che riguarda molti siriani. Lo riferisce Enab Baladi.",
+   "more": [
+    "Dopo anni di guerra civile, in Siria milioni di persone sono state sfollate e moltissimi edifici distrutti, insieme a uffici e archivi pubblici. Per questo la prova della proprietà immobiliare è una questione delicata, legata anche al possibile ritorno di profughi e sfollati nelle loro case."
+   ],
+   "fonti": [
+    {
+     "n": "Enab Baladi (inglese)",
+     "p": "XX",
+     "c": "Damasco",
+     "u": "https://english.enabbaladi.net/archives/2026/10/syrias-digital-land-registry-what-about-lost-property-deeds/",
+     "angolo": "",
+     "atlas": "Syria",
+     "t": "2026-10-13T09:06+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze41d4d1c",
+   "sez": "cultura",
+   "titolo": "Barbie dedica una bambola a Serena Williams",
+   "orig": "Barbie Honors Serena Williams with New Signature Doll to Serve Inspiration to Next Generation of Women",
+   "lead": "Barbie ha lanciato una bambola in edizione speciale dedicata alla leggenda del tennis Serena Williams. L'uscita coincide con l'ingresso ufficiale della campionessa nel Team Barbie, il gruppo di atlete e figure di riferimento che il marchio presenta come esempi per ispirare e incoraggiare le donne, come leader e come protagoniste delle sue iconiche bambole. L'obiettivo dichiarato è offrire un modello alla prossima generazione di ragazze. Lo riferisce Good News Network.",
+   "more": [
+    "Serena Williams è considerata una delle più grandi tenniste di sempre, con numerosi titoli del Grande Slam vinti in carriera. Barbie, marchio di bambole dell'azienda statunitense Mattel, da anni realizza edizioni ispirate a donne celebri dello sport, della scienza e della cultura."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/barbie-honors-serena-williams-with-new-signature-doll-to-serve-inspiration-to-next-generation-of-women/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T13:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "good": true,
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9cde12cf",
+   "sez": "ingegneria",
+   "titolo": "Un lungomare pensato per le gazze tra i progetti degli studenti di Shanghai",
+   "orig": "Waterfront designed to support magpie population among projects from Shanghai Jiao Tong University",
+   "lead": "Tra i progetti degli studenti della Shanghai Jiao Tong University presentati nella rassegna Dezeen School Shows c'è una proposta per un lungomare di Melbourne che integra nel disegno del paesaggio i risultati di ricerche sul comportamento delle gazze, per sostenerne la popolazione. Tra i lavori figurano anche un gioco educativo sul riciclo e un progetto per trasformare North Caoxi Road, a Shanghai, in un asse dedicato allo sport e alla vitalità urbana. Lo riferisce Dezeen.",
+   "more": [
+    "La Shanghai Jiao Tong University è uno dei principali atenei cinesi, noto per ingegneria e progettazione. Dezeen è una rivista online britannica di architettura e design che con la serie School Shows presenta i lavori degli studenti di scuole e università di tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/10/13/architecture-spatial-systems-shanghai-jiao-tong-university-schoolshows/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T15:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z50732108",
+   "sez": "ambiente",
+   "titolo": "Nuova Zelanda, Shane Jones attacca la lentezza della miniera di Otago",
+   "orig": "'Constipated bureaucratic beast': Shane Jones says Otago fast-track mine going too slow",
+   "lead": "Il vicepresidente di New Zealand First, Shane Jones, ha visitato martedì il sito di una miniera nella regione di Otago, vicino a Cromwell, inserita nella procedura accelerata di approvazione. Jones ha definito il processo troppo lento, parlando di una «bestia burocratica stitica», e ha attaccato quella che chiama «mitologia anti-mineraria woke e fragile». Intanto un gruppo di residenti contrari al progetto protestava davanti ai cancelli del sito. Lo riferisce RNZ.",
+   "more": [
+    "In Nuova Zelanda la procedura «fast-track» permette di accelerare l'approvazione di grandi progetti infrastrutturali ed estrattivi considerati di interesse nazionale. È contestata dagli ambientalisti, che temono controlli meno rigorosi. New Zealand First è un partito populista e nazionalista che fa parte della coalizione di governo."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/political/1884246/constipated-bureaucratic-beast-shane-jones-says-otago-fast-track-mine-going-too-slow",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-14T04:50+13:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/2026/oct/13/england-fast-track-thomas-rew-bethell-carse-australia-tour-cricket",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T10:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf77c602c",
+   "sez": "cucina",
+   "titolo": "Daniel Humm sogna un ristorante da cui nessuno voglia andarsene",
+   "orig": "Chef Daniel Humm Dreams of a Restaurant Where No One Wants to Leave",
+   "lead": "Lo chef di fama mondiale Daniel Humm racconta l'esperienza dell'apertura del suo nuovo ristorante, che descrive come un'impresa allo stesso tempo folle e romantica. Il cuoco riflette sulle difficoltà e sul fascino di avviare un nuovo locale e sul suo obiettivo: creare un ristorante in cui gli ospiti si trovino così bene da non voler più andare via. Un racconto personale che guarda soprattutto all'atmosfera e all'accoglienza, oltre che alla cucina. Lo riferisce Bon Appétit.",
+   "more": [
+    "Daniel Humm è uno chef di origine svizzera, noto soprattutto per Eleven Madison Park a New York, ristorante più volte ai vertici delle classifiche internazionali, che negli ultimi anni ha adottato una cucina basata su ingredienti vegetali."
+   ],
+   "fonti": [
+    {
+     "n": "Bon Appétit",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.bonappetit.com/story/daniel-humm-dreams-of-a-restaurant-where-no-one-wants-to-leave",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-12T20:00+00:00"
+    },
+    {
+     "n": "The New York Times – Viaggi",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/13/travel/daniel-boulud-lyon-france.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T09:03+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "za0dcf01d",
+   "sez": "organizzazioni",
+   "titolo": "Allargamento Ue: aperti con l'Ucraina i negoziati su mercato interno e crescita",
+   "orig": "Enlargement: EU opens accession negotiations with Ukraine on internal market, competitiveness and inclusive growth",
+   "lead": "L'Unione europea e l'Ucraina hanno aperto i negoziati di adesione relativi al mercato interno, alla competitività e alla crescita inclusiva. Il passo, annunciato dal Consiglio dell'Unione europea, riguarda le norme comunitarie, il cosiddetto acquis, che Kiev dovrà recepire in questi settori per poter entrare nell'Unione. Si tratta di un nuovo tassello del percorso di avvicinamento dell'Ucraina all'Ue, che procede per capitoli tematici. Lo riferisce il Consiglio dell'Unione europea.",
+   "more": [
+    "L'acquis comunitario è l'insieme di leggi, regole e obblighi dell'Unione europea che ogni Paese candidato deve adottare prima dell'adesione. I negoziati sono organizzati in gruppi di capitoli tematici, che vengono aperti e poi chiusi quando il candidato soddisfa i requisiti richiesti."
+   ],
+   "fonti": [
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/enlargement-eu-opens-accession-negotiations-with-ukraine-on-internal-market-competitiveness-and-inclusive-growth/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z821ab223",
+   "sez": "spazio",
+   "titolo": "Superati al Jpl i test per il lander lunare di Voyager Technologies",
+   "orig": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+   "lead": "Un lander commerciale realizzato da Voyager Technologies, destinato a essere in prima linea negli sforzi della Nasa per costruire una base lunare, il primo avamposto umano sulla Luna, ha superato una serie di test cruciali al Jet Propulsion Laboratory dell'agenzia, nella California meridionale. Le prove hanno simulato le temperature estreme e il vuoto dello spazio, oltre alle forti vibrazioni e al rumore assordante del lancio. Il veicolo si avvicina così alla missione verso la Luna. Lo riferisce la Nasa.",
+   "more": [
+    "Il Jet Propulsion Laboratory è un centro della Nasa specializzato in missioni robotiche e nella sperimentazione di veicoli spaziali. Prima del lancio, ogni veicolo viene sottoposto a test ambientali che riproducono vibrazioni, rumore, vuoto e sbalzi termici, per verificare che resista alle condizioni del viaggio e dello spazio."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T13:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8547da69",
+   "sez": "musica",
+   "titolo": "Draco Rosa protagonista di un Tiny Desk Concert",
+   "orig": "Draco Rosa: Tiny Desk Concert",
+   "lead": "Il musicista Draco Rosa è il protagonista di un nuovo Tiny Desk Concert, la serie di esibizioni dal vivo registrate dietro una scrivania negli uffici della radio pubblica statunitense NPR. Nel set l'artista propone brani scintillanti, guidati dalla chitarra elettrica, che sono riflessioni sulla vita e sull'amore. L'esibizione, in formato ridotto e acustico negli spazi della redazione, è disponibile in video. Lo riferisce NPR.",
+   "more": [
+    "Draco Rosa è un cantautore portoricano, ex membro dei Menudo, noto anche come autore di grandi successi pop latini. I Tiny Desk Concerts sono brevi concerti intimi registrati nella redazione di NPR a Washington, diventati un formato molto seguito online."
+   ],
+   "fonti": [
+    {
+     "n": "NPR – Musica",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/13/g-s1-141845/draco-rosa-tiny-desk-concert",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T07:00-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z862d93de",
+   "sez": "salute",
+   "titolo": "Da pediatra a maestra: un nuovo sguardo sul comportamento dei bambini",
+   "orig": "From paediatrician to primary teacher: seeing children&#x2019;s behaviour through a new lens",
+   "lead": "Un'ex pediatra del servizio sanitario britannico, dopo oltre dieci anni di professione, ha lasciato la medicina per diventare insegnante di scuola primaria. Sul BMJ racconta di essersi accorta solo in classe di quanto il suo approccio fosse distante dalla vita reale dei bambini: per 15 anni aveva letto i loro comportamenti attraverso un modello medico basato sui deficit. Per questo invita i medici a non limitarsi a diagnosi e soluzioni, ma a collaborare con famiglie e scuole. Lo riferisce The BMJ.",
+   "more": [
+    "Il BMJ è una delle principali riviste mediche internazionali, edita nel Regno Unito, che oltre alla ricerca pubblica commenti e testimonianze di professionisti. L'NHS è il servizio sanitario pubblico britannico, che offre cure gratuite ai cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101133.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T08:11-07:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb59a410c",
+   "sez": "cultura",
+   "titolo": "Bologna celebra Magnus con una grande mostra: oltre 500 tavole originali a Palazzo Fava",
+   "orig": "La grande mostra su Magnus a Bologna, con oltre 500 opere originali",
+   "lead": "Bologna dedica una grande esposizione a Magnus, uno dei maestri del fumetto italiano. La mostra si intitola «Magnus. Eroi e no» e si terrà a Palazzo Fava dal 7 novembre 2026 al 10 gennaio 2027. Il pubblico potrà vedere oltre 500 opere originali dell'autore. Il percorso attraversa la sua lunga carriera, dalle storie di Alan Ford fino al suo lavoro su Tex, il celebre western della Bonelli. È un'occasione rara per ammirare dal vivo una parte così ampia della sua produzione. Lo riferisce Fumettologica.",
+   "more": [
+    "Magnus, pseudonimo di Roberto Raviola, è stato uno dei disegnatori più importanti del fumetto italiano. Insieme a Max Bunker creò Alan Ford, serie satirica di grande successo, oltre ad altri personaggi popolari. Il suo segno, raffinato e riconoscibile, ha influenzato generazioni di autori. Palazzo Fava è una sede espositiva nel centro storico di Bologna, città a cui l'artista era molto legato."
+   ],
+   "fonti": [
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/10/mostra-magnus-bologna-palazzo-fava-2026/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T12:45+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zee2dcd86",
+   "sez": "cultura",
+   "titolo": "Antonio Banderas sarà uno dei conquistadores più famosi della storia in un film colossale",
+   "orig": "Antonio Banderas îl va juca pe unul din cei mai cunoscuți conchistadori din istorie într-un film colosal: „A fost întotdeauna imposibil”",
+   "lead": "Antonio Banderas ha accettato di interpretare uno dei conquistadores più noti della storia in un film di grandi dimensioni. A riportare la notizia è la rivista Variety. L'attore spagnolo ha 66 anni e negli ultimi tempi è apparso meno spesso nei grandi film di successo. Non si è però affatto ritirato dalle scene. Questo potrebbe essere uno dei suoi ruoli più ambiziosi degli ultimi anni. Banderas lo ha descritto come un progetto che finora era «sempre stato impossibile». Lo riferisce HotNews.",
+   "more": [
+    "Antonio Banderas è un attore spagnolo nato a Malaga. Si è fatto conoscere con i film di Pedro Almodóvar e poi ha avuto successo a Hollywood, per esempio come Zorro. I conquistadores erano i condottieri spagnoli e portoghesi che tra il Quattrocento e il Cinquecento conquistarono vasti territori nelle Americhe."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/antonio-banderas-il-va-juca-pe-unul-din-cei-mai-cunoscuti-conchistadori-din-istorie-intr-un-film-colosal-a-fost-intotdeauna-imposibil-2374564",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-13T17:30+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z67969e09",
+   "sez": "mondo",
+   "titolo": "Tennessee, anziana dipendente di un cinema riceve 146.000 dollari per andare in pensione",
+   "orig": "Elderly Theater Worker Surprised by $146,000 for Her Retirement Crowdfunded by Young Moviegoer",
+   "lead": "A Maryville, in Tennessee, un'anziana dipendente di un cinema ha ricevuto una sorpresa: 146.000 dollari per poter andare finalmente in pensione. La somma è stata raccolta su GoFundMe grazie all'iniziativa di un giovane spettatore della sala. Non è un caso isolato. Negli Stati Uniti si sta diffondendo una tendenza: giovani che incontrano persone anziane ancora al lavoro ben oltre l'età della pensione e raccolgono migliaia di dollari per permettere loro di riposare. Lo riferisce Good News Network.",
+   "more": [
+    "GoFundMe è una piattaforma online di raccolta fondi. Chiunque può aprire una campagna e chiedere donazioni per una causa personale o collettiva. Negli Stati Uniti molti anziani continuano a lavorare dopo l'età della pensione, spesso per motivi economici. Per questo storie come questa trovano spesso grande eco sui social network."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T11:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "good": true,
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbfdeb2d7",
+   "sez": "ingegneria",
+   "titolo": "Premio Architettura Toscana, proclamati i vincitori della quinta edizione",
+   "orig": "Premio Architettura Toscana, i vincitori della quinta edizione.",
+   "lead": "Il Premio Architettura Toscana ha annunciato i vincitori della sua quinta edizione, a dieci anni dalla nascita. Il riconoscimento resta un premio all'eccellenza nell'architettura. Oggi però ha anche un nuovo e importante compito: raccogliere conoscenze e osservare in modo permanente come cambia il territorio toscano. Secondo gli organizzatori, il Premio è diventato una preziosa raccolta delle tendenze e degli orientamenti dell'architettura nella regione. Lo riferisce AREA.",
+   "more": [
+    "I premi di architettura regionali segnalano i progetti di qualità realizzati su un territorio. Possono riguardare edifici nuovi, restauri e spazi pubblici. Raccolti nel tempo, aiutano a capire come cambiano le città e il paesaggio. La Toscana ha un patrimonio storico molto ricco: per questo il rapporto tra architettura contemporanea e contesto è un tema centrale."
+   ],
+   "fonti": [
+    {
+     "n": "AREA",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.area-arch.it/premio-architettura-toscana-i-vincitori-della-quinta-edizione/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T14:10+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2068a069",
+   "sez": "viaggi",
+   "titolo": "Perché i sedili dell'aereo devono essere dritti al decollo e all'atterraggio?",
+   "orig": "Why Do Airplane Seats Have to Be Upright for Takeoff and Landing?",
+   "lead": "Durante il decollo e l'atterraggio i passeggeri devono riportare lo schienale del sedile in posizione verticale. È una regola che la FAA, l'ente dell'aviazione civile degli Stati Uniti, fa rispettare. Un'ex assistente di volo spiega perché esiste: dietro questa norma ci sono precise ragioni di sicurezza. È una richiesta che molti viaggiatori conoscono bene, ma di cui spesso non sanno il motivo. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "La FAA (Federal Aviation Administration) è l'autorità che regola l'aviazione civile negli Stati Uniti. Decollo e atterraggio sono considerati le fasi più delicate del volo. Per questo in quei momenti l'equipaggio chiede di allacciare le cinture, chiudere i tavolini e liberare i corridoi. Così in caso di emergenza l'evacuazione è più facile."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/why-do-airplane-seats-have-to-be-upright-for-takeoff-and-landing",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T16:21+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z898325e7",
+   "sez": "ambiente",
+   "titolo": "Cambogia, il ministro dell'Ambiente chiede intelligenza artificiale e fondi contro il cambiamento climatico",
+   "orig": "Environment minister calls for AI support, funding to fight climate change",
+   "lead": "La Cambogia ha confermato che vuole usare tecnologie avanzate, in particolare l'intelligenza artificiale, per affrontare il cambiamento climatico. L'obiettivo è rendere il Paese più resistente agli effetti del clima e ridurre le emissioni di gas serra. L'impegno è in linea con il traguardo di limitare il riscaldamento globale a 1,5 gradi. Il ministro dell'Ambiente ha chiesto alla comunità internazionale di trasferire più tecnologie di IA ai Paesi in via di sviluppo e di aumentare il sostegno finanziario. Lo riferisce Phnom Penh Post.",
+   "more": [
+    "Il limite di 1,5 gradi è l'obiettivo più ambizioso dell'Accordo di Parigi sul clima. La Cambogia è un Paese del Sud-est asiatico molto esposto a inondazioni e siccità. I Paesi in via di sviluppo chiedono spesso aiuti economici e tecnologici a quelli più ricchi, che sono i maggiori responsabili storici delle emissioni."
+   ],
+   "fonti": [
+    {
+     "n": "Phnom Penh Post",
+     "p": "XX",
+     "c": "Phnom Penh",
+     "u": "https://phnompenhpost.com/national/environment-minister-calls-for-ai-support-funding-to-fight-climate-change/",
+     "angolo": "",
+     "atlas": "Cambodia",
+     "t": "2026-10-13T12:03+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z264dc553",
+   "sez": "sport",
+   "titolo": "Qualificazioni Coppa d'Africa 2027, Guinea contro Eritrea il 12 e il 16 novembre",
+   "orig": "Éliminatoires CAN 2027: la Guinée affrontera l’Érythrée les 12 et 16 novembre",
+   "lead": "La Confederazione africana di calcio (CAF) ha comunicato le date e gli orari della terza e della quarta giornata delle qualificazioni alla Coppa d'Africa 2027. La Guinea affronterà l'Eritrea in una doppia sfida. La partita di andata si giocherà il 12 novembre 2026, quella di ritorno il 16 novembre. Mosaïque Guinée riporta il calendario ufficiale della CAF. Africaguinee aggiunge un dettaglio: il primo incontro si disputerà a Conakry, la capitale della Guinea.",
+   "more": [
+    "La Coppa d'Africa è il principale torneo per nazionali di calcio del continente africano ed è organizzata dalla CAF. Per partecipare, le squadre devono superare i gironi di qualificazione. La nazionale della Guinea è chiamata Syli national. L'Eritrea, invece, è una nazionale meno affermata a livello continentale."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/eliminatoires-can-2027-la-guinee-affrontera-lerythree-les-12-et-16-novembre/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-13T14:26+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/eliminatoires-can-2027-dates-lieux-et-heures-des-matchs-guinee-vs-erythree/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-13T12:03+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z68fdfeaa",
+   "sez": "organizzazioni",
+   "titolo": "Allargamento Ue, chiuso in via provvisoria il capitolo su impresa e politica industriale con l'Albania",
+   "orig": "Enlargement: Albania and EU provisionally close negotiations on enterprise and industrial policy",
+   "lead": "L'Unione europea e l'Albania hanno chiuso in via provvisoria un altro capitolo dei negoziati di adesione all'Ue. Si tratta del capitolo 20, che riguarda la politica d'impresa e la politica industriale. È un nuovo passo nel percorso di Tirana verso l'ingresso nell'Unione. La chiusura è provvisoria: il capitolo potrà essere riaperto più avanti, se sarà necessario. Lo riferisce il Consiglio dell'Unione europea.",
+   "more": [
+    "Per entrare nell'Ue, un Paese candidato deve allineare le proprie leggi a quelle europee. Il negoziato è diviso in capitoli tematici, che vengono aperti e poi chiusi uno alla volta. La chiusura è provvisoria finché non si concludono tutti i negoziati. L'Albania è candidata all'adesione e i negoziati con l'Ue sono in corso."
+   ],
+   "fonti": [
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/enlargement-albania-and-eu-provisionally-close-negotiations-on-enterprise-and-industrial-policy/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z391a3b18",
+   "sez": "spazio",
+   "titolo": "Partita la 35ª missione di rifornimento SpaceX per la Stazione spaziale internazionale",
+   "orig": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+   "lead": "La 35ª missione commerciale di rifornimento di SpaceX per la NASA è partita martedì alle 6.33 ora della costa orientale degli Stati Uniti. Il lancio è avvenuto con un razzo Falcon 9 dal complesso di lancio 40 della base di Cape Canaveral, in Florida. La capsula Dragon trasporta più di 6.300 libbre di rifornimenti e attrezzature, compresi esperimenti scientifici, verso la Stazione spaziale internazionale. Lo riferisce la NASA.",
+   "more": [
+    "La Stazione spaziale internazionale è un laboratorio in orbita attorno alla Terra, abitato in modo continuo da astronauti di diversi Paesi. Dragon è la capsula di SpaceX che porta carichi e anche equipaggi verso la Stazione. Il Falcon 9 è un razzo riutilizzabile: il suo primo stadio rientra a terra e può essere usato di nuovo."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T11:12+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2d69fd12",
+   "sez": "economia",
+   "titolo": "La Repubblica Ceca accoglie la nuova proposta di bilancio Ue, ma con alcune riserve",
+   "orig": "Czechia welcomes new EU budget proposal, with certain reservations",
+   "lead": "La Repubblica Ceca ha accolto con favore la nuova proposta di bilancio dell'Unione europea. Praga, però, ha espresso anche alcune riserve sul testo. Le informazioni disponibili non precisano quali siano i punti in discussione. La posizione ceca si inserisce nel confronto tra i Paesi membri sul futuro bilancio comune dell'Unione. Sarà importante capire quali modifiche chiederà il governo di Praga nelle prossime fasi del negoziato. Lo riferisce Radio Prague International.",
+   "more": [
+    "Il bilancio pluriennale dell'Ue stabilisce per diversi anni quanto l'Unione può spendere e in quali settori, come agricoltura, coesione e ricerca. La proposta viene presentata dalla Commissione europea. Poi deve essere approvata all'unanimità dagli Stati membri, con il consenso del Parlamento europeo. Per questo i negoziati sono spesso lunghi."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/czechia-welcomes-new-eu-budget-proposal-certain-reservations-8899917",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-13T18:18+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z11c009f1",
+   "sez": "musica",
+   "titolo": "Brian May rivela il suo assolo preferito dei Queen: non è «Bohemian Rhapsody»",
+   "orig": "Brian May rivela il suo assolo preferito dei Queen. E non è “Bohemian Rhapsody”",
+   "lead": "Brian May, chitarrista dei Queen, ha indicato quali sono secondo lui il miglior assolo di chitarra mai registrato e il più riuscito nella storia della band. Lo ha fatto in una conversazione con Chris Bird, che all'epoca dirigeva la rivista Total Guitar. La sua scelta sorprende chi avrebbe scommesso su «Bohemian Rhapsody». Le sue dichiarazioni sono state riprese di recente da altri media. Lo riferisce OndaRock.",
+   "more": [
+    "Brian May è il chitarrista e uno dei fondatori dei Queen, la band britannica guidata da Freddie Mercury. È famoso per il suono della sua chitarra, la Red Special, costruita da lui stesso con il padre. È anche laureato in astrofisica. «Bohemian Rhapsody» è uno dei brani più celebri del gruppo."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/brian-may-queen-intervista-assolo-preferito-bohemian-rhapsody-killer-queen/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T15:25+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9d69363a",
+   "sez": "salute",
+   "titolo": "Scozia, la sfida dell'equità nella salute",
+   "orig": "Health equity in Scotland",
+   "lead": "Il Regno Unito non è in buona salute, e la Scozia sta peggio di Inghilterra, Galles e Irlanda del Nord. Per aspettativa di vita in buona salute, il Regno Unito è 20° su 21 Paesi ad alto reddito: fa peggio solo gli Stati Uniti. In Scozia la salute peggiora quanto più la zona è povera. Tra le aree più e meno svantaggiate, la speranza di vita differisce di 13,6 anni per le donne e di 16,3 per gli uomini. Lo riferisce The BMJ.",
+   "more": [
+    "L'aspettativa di vita in buona salute misura quanti anni una persona può aspettarsi di vivere senza malattie o disabilità importanti. Il cosiddetto gradiente sociale della salute indica una cosa precisa: più si scende nella scala del reddito e dell'istruzione, più peggiorano le condizioni di salute. È un tema centrale della sanità pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101128.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T04:51-07:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9c497a4f",
+   "sez": "mondo",
+   "titolo": "Portogallo, Ventura denuncia un «nuovo tentativo di bloccare» la commissione d'inchiesta su Luís Neves",
+   "orig": "Ventura denuncia \"mais uma tentativa de bloquear\" comissão de inquérito a Luís Neves",
+   "lead": "In Portogallo è scontro in Parlamento sulla commissione d'inchiesta che riguarda Luís Neves. André Ventura, leader del partito Chega, parla di «un altro tentativo di bloccare» i lavori della commissione. La sua accusa arriva dopo che martedì il partito Livre ha ribadito in aula che Ventura non ha le condizioni per presiedere la commissione parlamentare d'inchiesta. Lo riferisce RTP.",
+   "more": [
+    "André Ventura guida Chega, un partito portoghese di destra radicale. Livre è invece un partito di sinistra ecologista. Le commissioni parlamentari d'inchiesta servono a indagare su questioni di interesse pubblico. La scelta di chi le presiede è spesso oggetto di scontro politico tra i partiti."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/politica/ventura-denuncia-mais-uma-tentativa-de-bloquear-comissao-de-inquerito-a-luis-neves_n1771448",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-13T18:23+01:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "za18a32d7",
+   "sez": "ingegneria",
+   "titolo": "«Nuvole al sesto», l'attico milanese dove il colore separa e unisce gli spazi",
+   "orig": "Nuvole al sesto: il colore separa e unisce",
+   "lead": "FORO Studio ha progettato un attico a Milano usando tre materiali e colori: rosso borgogna, verde Alpi e noce canaletto. Questa combinazione ha guidato tutto il progetto. L'obiettivo era creare un ambiente caldo e accogliente per la vita di tutti i giorni di una famiglia. Quando serve, però, la casa può trasformarsi in uno spazio di rappresentanza. Il progetto cerca un equilibrio tra estetica e vivibilità. Lo riferisce AREA.",
+   "more": [
+    "Il verde Alpi è un marmo scuro dalle venature chiare, molto usato nell'architettura italiana del Novecento. Il noce canaletto è un legno pregiato dal colore bruno. Nella progettazione d'interni, colori e materiali possono servire a distinguere le diverse zone di una casa senza bisogno di pareti."
+   ],
+   "fonti": [
+    {
+     "n": "AREA",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.area-arch.it/nuvole-al-sesto-il-colore-separa-e-unisce/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T08:59+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z747272ee",
+   "sez": "adolescenti",
+   "titolo": "L'intelligenza artificiale ci rende meno intelligenti? Dipende da come la usiamo",
+   "orig": "Is AI making us dumber? Depends how it’s used",
+   "lead": "L'intelligenza artificiale può rendere l'apprendimento più debole quando prende il posto dello sforzo personale. Se si chiede all'IA di fare tutto al posto nostro, si impara di meno. Ma non è sempre così. Gli strumenti che offrono una guida, invece di dare direttamente le risposte, possono aiutare le persone a migliorare le proprie capacità. Tutto dipende quindi dal modo in cui l'IA viene usata, a scuola e non solo. Lo riferisce Science News Explores.",
+   "more": [
+    "Gli strumenti di intelligenza artificiale generativa, come i chatbot, sanno scrivere testi e risolvere esercizi in pochi secondi. Molti studenti li usano per i compiti. Gli esperti di apprendimento sottolineano che si impara davvero quando si fa uno sforzo attivo per capire e ricordare. Un aiuto che guida può sostenere questo processo."
+   ],
+   "fonti": [
+    {
+     "n": "Science News Explores",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.snexplores.org/article/ai-making-us-dumber-learn-lose-skills",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T10:30+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "z4fe26a56",
+   "sez": "manga",
+   "titolo": "Il manga «The Coppersmith's Bride» si concluderà tra tre capitoli",
+   "orig": "The Coppersmith's Bride Manga Ends in 3 Chapters",
+   "lead": "Il manga «The Coppersmith's Bride» si avvia alla conclusione: mancano soltanto tre capitoli alla fine. L'autrice, namo, aveva iniziato la serie nel maggio 2020. In lingua inglese l'opera è pubblicata da J-Novel Club. Per i lettori la storia sta quindi per arrivare al suo capitolo conclusivo, dopo circa sei anni di pubblicazione. Lo riferisce Anime News Network.",
+   "more": [
+    "J-Novel Club è un editore che traduce e pubblica in inglese light novel e manga giapponesi, soprattutto in formato digitale. Anime News Network è uno dei principali siti di informazione in lingua inglese su anime e manga. Segue da vicino le uscite e gli annunci dell'industria giapponese."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-13/the-coppersmith-bride-manga-ends-in-3-chapters/.242760",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T08:57-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1866224f",
+   "sez": "tech",
+   "titolo": "Nuova Zelanda, le forze armate cercano un drone polare da 20 milioni di dollari",
+   "orig": "NZDF tenders for new $20 million polar drone",
+   "lead": "Le forze armate della Nuova Zelanda (NZDF) hanno aperto una gara per acquistare un nuovo drone polare. Il valore previsto è di 20 milioni di dollari. Il drone sarà dotato di sensori e invierà i dati raccolti alle forze armate, alle agenzie per la sicurezza marittima e ai partner internazionali. Servirà quindi a sorvegliare aree remote e a condividere informazioni con altri Paesi. Lo riferisce RNZ.",
+   "more": [
+    "La Nuova Zelanda ha interessi importanti nell'Oceano Antartico e in Antartide, dove gestisce una base scientifica. Sorvegliare zone marine così vaste e lontane è difficile e costoso. Per questo i droni a lungo raggio vengono sempre più usati per controllare la pesca, la sicurezza in mare e l'ambiente."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/science-and-technology/1885595/nzdf-tenders-for-new-20-million-polar-drone",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-14T06:29+13:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8f17fe7b",
+   "sez": "ambiente",
+   "titolo": "Bhutan, un sistema a sifone sperimentale abbassa in sicurezza il lago glaciale Thorthormi",
+   "orig": "NCHM’s pilot siphon system achieves stable flow at Thorthormi Glacial Lake",
+   "lead": "In Bhutan il Centro nazionale di idrologia e meteorologia (NCHM) ha provato con successo un sistema sperimentale a sifone sul lago glaciale Thorthormi, nella regione di Lunana. Il sistema ha raggiunto un flusso d'acqua stabile. Questa tecnologia viene studiata per abbassare il livello del lago senza toccare la morena che lo circonda. Lo scopo è ridurre il rischio di inondazioni improvvise causate dal cedimento dei laghi glaciali. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "Con il ritiro dei ghiacciai himalayani si formano laghi trattenuti da morene, cioè accumuli di detriti lasciati dal ghiacciaio. Se queste barriere naturali cedono, enormi quantità d'acqua possono scendere a valle all'improvviso e provocare alluvioni. Un sifone permette di far uscire l'acqua sopra la barriera senza scavarla."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247403/",
+     "angolo": "",
+     "atlas": "Bhutan",
+     "t": "2026-10-13T11:42+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6f751f40",
+   "sez": "salute",
+   "titolo": "Scozia, la revisione Marmot indica la strada per ridurre le disuguaglianze di salute",
+   "orig": "Marmot review for Scotland sets out blueprint to reverse widening health inequalities",
+   "lead": "La Scozia ha bisogno di un approccio nuovo e radicale per ridurre le disuguaglianze di salute. Tra le misure proposte c'è quella di spostare i fondi verso le aree che ne hanno più bisogno. È quanto raccomanda «A Fairer, Healthier Scotland», un rapporto guidato da Michael Marmot. Secondo il rapporto, le «disuguaglianze strutturali» di potere, denaro e risorse frenano gli sforzi del Paese. Il lavoro è durato due anni ed è stato svolto dall'UCL Institute of Health Equity e da Public Health Scotland. Lo riferisce The BMJ.",
+   "more": [
+    "Michael Marmot è un epidemiologo britannico, conosciuto in tutto il mondo per i suoi studi sui determinanti sociali della salute. Le sue ricerche mostrano che reddito, casa, lavoro e istruzione influiscono molto sulla salute e sulla durata della vita. Le sue revisioni hanno orientato le politiche sanitarie in diversi Paesi."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101127.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T03:56-07:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zead3136f",
+   "sez": "sport",
+   "titolo": "La Formula 1 torna in Africa dopo oltre trent'anni: accordo con il Ruanda",
+   "orig": "Formula One to return to Africa for first time in 30 years",
+   "lead": "La Formula 1 si prepara a tornare in Africa per la prima volta da più di trent'anni. Il Ruanda ha firmato un accordo di dieci anni per ospitare una gara del campionato del mondo. Per il continente africano si tratta di un ritorno molto atteso nel calendario della massima serie automobilistica. Il Ruanda diventa così il Paese che riporta la Formula 1 in Africa. Lo riferisce Sky News.",
+   "more": [
+    "L'ultima gara di Formula 1 disputata in Africa è stato il Gran Premio del Sudafrica, sul circuito di Kyalami. Il Ruanda è un piccolo Paese dell'Africa orientale. Negli ultimi anni ha investito molto nei grandi eventi sportivi e nel turismo per migliorare la propria immagine internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/formula-one-to-return-to-africa-as-rwanda-race-confirmed-for-early-2030s-13598765",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T10:40+01:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z591b07bb",
+   "sez": "cucina",
+   "titolo": "Dalla psicologia criminale alla pasticceria: ai Castelli Romani apre Meraky",
+   "orig": "Studiava psicologia criminale, poi ha aperto una pasticceria ai Castelli Romani. Ecco Meraky",
+   "lead": "Marta studiava psicologia criminale. Poi ha cambiato strada e ha aperto una pasticceria ad Albano Laziale, ai Castelli Romani. Il locale si chiama Meraky e lo gestisce insieme a Gabriele Tiano e Alessandro Diavola Pennelli. Nel menu ci sono lievitati, dolci con influenze internazionali e colazioni salate. La storia racconta un cambio di vita e un nuovo locale nella zona. Lo riferisce Gambero Rosso.",
+   "more": [
+    "I Castelli Romani sono un gruppo di comuni sui Colli Albani, a sud-est di Roma. Sono noti per la tradizione gastronomica e per i vini. Albano Laziale è uno di questi comuni. Gambero Rosso è una delle testate italiane più conosciute nel settore del cibo e del vino."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/rubriche/storie/meraky-bakery-albano-laziale-castelli-romani/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T13:23+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z68cffdb2",
+   "sez": "adolescenti",
+   "titolo": "IA a scuola, un genitore su cinque la compra ai figli per non farli restare indietro",
+   "orig": "Pressione sociale a scuola: il 20% dei genitori compra l’IA ai figli solo per non lasciarli indietro",
+   "lead": "Molti genitori temono che i figli restino indietro rispetto ai compagni, e questa paura li spinge a comprare l'intelligenza artificiale. Il 20% lo fa proprio per questo motivo. Quando la quota di studenti che usano l'IA passa dal 20% all'80%, cresce molto anche la disponibilità dei genitori a pagare un abbonamento avanzato da 60 dollari: oltre il 60% in più. Per molte famiglie la priorità diventa non restare indietro, anche se hanno dubbi sull'utilità didattica. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Molti servizi di intelligenza artificiale generativa sono disponibili in versione gratuita e in versione a pagamento, con funzioni più avanzate. Il fenomeno descritto è un caso di pressione sociale: si sceglie un prodotto soprattutto perché lo usano gli altri. A scuola questo può aumentare le differenze tra le famiglie che possono spendere e quelle che non possono."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/pressione-sociale-a-scuola-il-20-dei-genitori-compra-lia-ai-figli-solo-per-non-lasciarli-indietro/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T17:15+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "zba8ffca7",
+   "sez": "economia",
+   "titolo": "Auckland, case a prezzi bassi: conviene investire?",
+   "orig": "Auckland houses are cheap but should you invest in them?",
+   "lead": "Ad Auckland i prezzi delle case sono ancora più bassi di oltre il 20 per cento rispetto al picco. Molti si chiedono quindi se questo sia il momento giusto per comprare un immobile da mettere a reddito nella più grande città della Nuova Zelanda. L'emittente pubblica neozelandese dedica un approfondimento proprio a questa domanda: valuta se i prezzi ridotti bastino a rendere vantaggioso l'acquisto di una casa come investimento. Lo riferisce RNZ.",
+   "more": [
+    "Auckland è la città più popolosa della Nuova Zelanda e il suo principale centro economico. Da anni il suo mercato immobiliare è al centro del dibattito pubblico nel Paese, per i forti rialzi dei prezzi e i successivi cali."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/business/1885036/auckland-houses-are-cheap-but-should-you-invest-in-them",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-14T06:00+13:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9f7c1cf5",
+   "sez": "mondo",
+   "titolo": "Chi c'è dietro «Black Rus», il gruppo che rivendica l'incursione armata in Lettonia dalla Bielorussia",
+   "orig": "Who is behind ‘Black Rus,’ the mysterious group claiming responsibility for an armed incursion into Latvia from Belarus?",
+   "lead": "Un gruppo che si fa chiamare «Black Rus» (in russo Chyornye Rusy) ha rivendicato un episodio avvenuto al confine tra Lettonia e Bielorussia. Nella notte del 6 ottobre alcuni uomini armati e mascherati hanno minacciato dei soldati lettoni. La testata indipendente russa, che lavora in esilio, cerca di capire chi siano i membri di questa formazione finora misteriosa. Lo riferisce Meduza.",
+   "more": [
+    "Il confine tra Lettonia e Bielorussia separa l'Unione europea e la NATO da uno stretto alleato di Mosca. Negli ultimi anni è stato un punto di forte tensione, anche per le pressioni migratorie. Meduza è una testata indipendente in lingua russa che lavora dall'estero."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/13/who-is-behind-black-rus-the-mysterious-group-claiming-responsibility-for-an-armed-incursion-into-latvia-from-belarus",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-13T20:58+03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf1d62a2f",
+   "sez": "economia",
+   "titolo": "Sudafrica, l'inflazione costringe le famiglie a scegliere tra salute e risparmi",
+   "orig": "AFTER THE BELL: Grit your teeth — how inflationary times force a gamble on health and savings",
+   "lead": "In Sudafrica gli operatori sanitari privati vedono calare il lavoro. Con l'inflazione, molti consumatori devono scegliere tra pagare la copertura sanitaria e affrontare altre spese essenziali, come le rette scolastiche. Intanto i prezzi del carburante e degli alimentari rischiano di pesare ancora di più sui bilanci familiari. Nella sua rubrica economica serale, il giornale descrive questa scelta come un azzardo forzato sulla salute e sui risparmi. Lo riferisce Daily Maverick.",
+   "more": [
+    "In Sudafrica convivono un sistema sanitario pubblico e uno privato. Quello privato è finanziato soprattutto dai «medical aid», cioè dalle assicurazioni sanitarie, che una parte della popolazione paga con contributi mensili. Quando il costo della vita aumenta, queste coperture sono tra le prime spese che le famiglie mettono in discussione."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-13-grit-your-teeth-how-inflationary-times-force-a-gamble-on-health-and-savings/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z94c37bdf",
+   "sez": "cucina",
+   "titolo": "Norbert Niederkofler lascia Horto a Milano, si fa il nome di Mauro Colagreco",
+   "orig": "Norbert Niederkofler lascia Horto a Milano. Per il futuro spunta il nome di Mauro Colagreco",
+   "lead": "La collaborazione tra lo chef Norbert Niederkofler e il ristorante Horto di Milano finirà il 31 dicembre, come previsto fin dagli accordi iniziali. Il locale non chiuderà e continuerà a lavorare. Per il futuro circola un'ipotesi: l'arrivo di Mauro Colagreco, lo chef del Mirazur. Lo riferisce Gambero Rosso.",
+   "more": [
+    "Norbert Niederkofler è uno chef altoatesino noto per una cucina legata al territorio montano e alla sostenibilità. Mauro Colagreco è uno chef di origine argentina che guida il Mirazur di Mentone, sulla Costa Azzurra, uno dei ristoranti più celebrati al mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/attualita/horto-milano-niederkofler-lascia-mauro-colagreco/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T11:37+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3f57bc83",
+   "sez": "italia",
+   "titolo": "Pensioni scuola: anche chi lascia il servizio d'ufficio deve fare domanda all'INPS",
+   "orig": "Pensioni scuola, anche chi cessa d’ufficio deve presentare la domanda all’INPS. Pillole di Question Time",
+   "lead": "Anche il personale scolastico che lascia il servizio d'ufficio deve presentare la domanda di pensione all'INPS. È uno dei chiarimenti emersi nel Question Time del 29 settembre 2026 su OrizzonteScuola TV. La puntata, condotta da Andrea Carlino con Maria Luisa Russomanno del Cedan, ha fatto il punto sulle pensioni scuola 2027. Si è parlato anche degli adempimenti necessari per arrivare alla cessazione dal servizio e alla liquidazione della pensione. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "La cessazione d'ufficio è il pensionamento che l'amministrazione dispone automaticamente quando il dipendente raggiunge i requisiti previsti dalla legge, senza che sia lui a dimettersi. Anche in questo caso, però, l'assegno pensionistico va chiesto all'INPS, l'ente che lo eroga."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/pensioni-scuola-anche-chi-cessa-dufficio-deve-presentare-la-domanda-allinps-pillole-di-question-time/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T16:45+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z44ca4d60",
+   "sez": "musica",
+   "titolo": "Robyn e Mechatok si remixano a vicenda",
+   "orig": "Listen to Robyn and Mechatok Remix Each Other",
+   "lead": "La cantante svedese Robyn e il produttore Mechatok si sono scambiati dei remix. Mechatok ha rielaborato «Fembot», rendendolo più potente. Robyn, invece, partecipa a «Expression on Your Face», il brano di Mechatok che vede già la presenza di Ecco2k e Bladee. I nuovi pezzi sono già disponibili all'ascolto. Lo riferisce Pitchfork.",
+   "more": [
+    "Robyn è un'artista pop svedese molto influente nella musica elettronica da ballo. Ecco2k e Bladee sono musicisti svedesi legati al collettivo Drain Gang, molto seguito nella scena alternativa contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/listen-to-robyn-and-mechatok-remix-each-other/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T15:27+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3d73a6dc",
+   "sez": "viaggi",
+   "titolo": "Cinque luoghi dei film horror da visitare per Halloween",
+   "orig": "5 Horror Movie Locations to Get You in the Halloween Spirit",
+   "lead": "In vista di Halloween, il quotidiano newyorkese propone la guida di un appassionato ad alcuni dei luoghi in cui sono stati girati celebri film horror. Fra le tappe ci sono i set di «Shining» e di «Venerdì 13». Sono destinazioni che si possono visitare per vivere da vicino l'atmosfera del genere. Lo riferisce The New York Times.",
+   "more": [
+    "Il cosiddetto «turismo cinematografico» porta i visitatori nei luoghi in cui sono state girate scene famose. Spesso alberghi, campeggi e paesi diventano mete di pellegrinaggio per i fan. Nel periodo di Halloween questo tipo di viaggio diventa ancora più popolare."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times – Viaggi",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/12/travel/horror-movie-locations-visit-halloween.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T15:09+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5bc9be19",
+   "sez": "salute",
+   "titolo": "Brasile, gli uomini scoprono il tumore al seno in fase più avanzata",
+   "orig": "Homens costumam descobrir câncer de mama em estágio mais avançado",
+   "lead": "Anche gli uomini possono ammalarsi di tumore al seno, e in genere lo scoprono quando la malattia è già in fase avanzata. L'avvertimento arriva dalla Società brasiliana di radioterapia (SBRT), nell'ambito dell'Ottobre Rosa, il mese dedicato alla sensibilizzazione su questa malattia. La società ha esaminato i registri ospedalieri dei tumori dell'Istituto nazionale del cancro (Inca). Tra il 2020 e il 2023 ha contato oltre 163 mila casi di tumore al seno, di cui 2.126 negli uomini. Lo riferisce Agência Brasil.",
+   "more": [
+    "Il tumore al seno maschile è raro, ma esiste perché anche gli uomini hanno tessuto mammario. Spesso la diagnosi arriva tardi perché la malattia è poco conosciuta e i primi segnali vengono sottovalutati. L'Ottobre Rosa è la campagna internazionale dedicata alla prevenzione del tumore al seno."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/homens-costumam-descobrir-cancer-de-mama-em-estagio-mais-avancado",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-13T14:20-03:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8e4eaa32",
+   "sez": "cucina",
+   "titolo": "Come i cibi più duraturi della Spagna hanno trasformato la necessità in tradizione",
+   "orig": "How Spain’s Most Enduring Foods Turned Necessity Into Tradition",
+   "lead": "La rivista di viaggi racconta come la necessità di conservare gli alimenti abbia dato forma ad alcuni dei cibi più tipici e duraturi della Spagna. Prodotti nati per resistere nel tempo sono diventati nel corso degli anni vere tradizioni gastronomiche del Paese. Lo riferisce Matador Network.",
+   "more": [
+    "Salatura, stagionatura, essiccazione e conserve sott'olio sono tecniche antiche, nate per conservare il cibo prima che esistesse la refrigerazione. In Spagna sono legate a prodotti famosi come i prosciutti stagionati e i formaggi, che oggi sono simboli della cucina nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Matador Network",
+     "p": "US",
+     "c": "Denver",
+     "u": "https://matadornetwork.com/read/spanish-food-history/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T12:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z91d7e2b8",
+   "sez": "tech",
+   "titolo": "The Download: pro e contro dei modelli aperti e le promesse della geotermia",
+   "orig": "The Download: open model trade-offs and geothermal power’s promise",
+   "lead": "La newsletter quotidiana della rivista del MIT si occupa di due temi: i compromessi dei modelli di intelligenza artificiale aperti e le promesse dell'energia geotermica. I modelli aperti hanno vantaggi concreti, ma ci si chiede se superino i rischi. Anthropic ha pubblicato di recente un rapporto. Secondo l'azienda, un nuovo e potente modello della società cinese Z.ai rappresenta un serio rischio di attacchi informatici. Lo riferisce MIT Technology Review.",
+   "more": [
+    "Si chiamano «aperti» i modelli di intelligenza artificiale i cui parametri vengono resi pubblici. Così chiunque può scaricarli, modificarli e usarli. Questo favorisce la ricerca e la concorrenza, ma rende più difficile impedire usi dannosi. La geotermia sfrutta invece il calore del sottosuolo per produrre energia."
+   ],
+   "fonti": [
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T12:00+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7ecebe8a",
+   "sez": "sport",
+   "titolo": "Champions League, l'Inter ospita il Club Brugge a San Siro",
+   "orig": "Inter-Club Brugge: dove vederla in tv (Sky, Prime), formazioni ufficiali, orario e classifica Champions League",
+   "lead": "Riparte la Champions League e l'Inter si prepara alla prima partita europea della stagione davanti al pubblico di San Siro, a Milano. Avversario dei nerazzurri è il Club Brugge, squadra belga. La gara arriva dopo la sconfitta subita dall'Inter in trasferta contro il Real Madrid allo stadio Bernabeu, nella partita precedente del torneo. Per la squadra milanese è quindi un'occasione per rimettersi in carreggiata nella classifica della competizione. La partita è trasmessa in tv da Sky e Prime. Lo riferisce Il Messaggero – Sport.",
+   "more": [
+    "La Champions League è la principale competizione europea per club, organizzata dalla Uefa. San Siro, ufficialmente stadio Giuseppe Meazza, è l'impianto di Milano condiviso da Inter e Milan. Il Club Brugge è una delle squadre più titolate del Belgio e partecipa con regolarità alle coppe europee."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/inter_club_brugge_dove_vederla_tv_sky_prime_orario_formazioni_ufficiali_champions_league-9820238.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "20:13",
    "uscita": "sera"
   },
   {
@@ -311,29 +1656,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zf5d49c99",
-   "sez": "spazio",
-   "titolo": "La sonda Hera dell'ESA si avvicina alla coppia di asteroidi Dimorphos e Didymos",
-   "orig": "ESA's Hera Mission Targets Binary Asteroid Pair in November",
-   "lead": "Manca ormai circa un mese: la missione Hera dell'Agenzia spaziale europea sta per incontrare la coppia di asteroidi Dimorphos e Didymos, muovendosi a 12 chilometri al secondo rispetto alla Terra. Nel 2022 la missione americana DART colpì Dimorphos, e Hera dovrà osservare gli effetti di quell'impatto. L'ESA ha pubblicato di recente una simulazione di ciò che un astronauta vedrebbe dalla superficie degli asteroidi. Lo riferisce Universe Today.",
-   "more": [
-    "DART era un test di difesa planetaria: mostrare che si può deviare la traiettoria di un asteroide con un impatto."
-   ],
-   "fonti": [
-    {
-     "n": "Universe Today",
-     "p": "XX",
-     "c": "Vancouver",
-     "u": "https://www.universetoday.com/articles/esas-hera-mission-targets-binary-asteroid-pair-in-november",
-     "angolo": "",
-     "atlas": "Canada"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:23",
-   "uscita": "sera"
-  },
-  {
    "id": "z92aeb0a5",
    "sez": "spazio",
    "titolo": "Una nana rossa sta «mangiando» lentamente una nana bruna",
@@ -380,29 +1702,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zfeef8b45",
-   "sez": "tech",
-   "titolo": "L'ex capo di Intel avverte: i chip su misura non risolveranno la carenza di chip per l'IA",
-   "orig": "Ex-Intel CEO warns tech giants: Custom AI chips won't solve AI’s biggest shortage",
-   "lead": "Pat Gelsinger, ex amministratore delegato di Intel, ha detto ai giganti tecnologici che progettare chip personalizzati per l'intelligenza artificiale non alleggerirà la penuria del settore. La produzione dei semiconduttori richiede tempi lunghi, anche se la progettazione è rapida, e restano limiti nella larghezza di banda della memoria e nell'impacchettamento dei chip. Lo riferisce il Times of India.",
-   "more": [
-    "I chip per l'IA richiedono, oltre ai processori, memorie molto veloci e tecniche di assemblaggio avanzate: sono questi i punti più stretti della catena."
-   ],
-   "fonti": [
-    {
-     "n": "Times of India",
-     "p": "XX",
-     "c": "Mumbai",
-     "u": "https://timesofindia.indiatimes.com/technology/tech-news/intels-former-ceo-pat-gelsinger-has-a-message-for-openai-amazon-anthropic-tesla-microsoft-and-other-companies-your-ai-chips-cannot-solve-ais-biggest-shortage-as-/articleshow/134917665.cms",
-     "angolo": "",
-     "atlas": "India"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "19:42",
-   "uscita": "sera"
-  },
-  {
    "id": "z8a02dbf6",
    "sez": "tech",
    "titolo": "Russia, Rostelecom propone ai piccoli provider di cedere clienti e infrastrutture",
@@ -426,29 +1725,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z0e3da098",
-   "sez": "salute",
-   "titolo": "Oms: gli esperti propongono il vaccino contro l'HPV anche alle bambine dai 4 anni",
-   "orig": "WHO experts call for HPV vaccine for girls aged 4 and up",
-   "lead": "Gli esperti vaccinali dell'Organizzazione mondiale della sanità hanno raccomandato ai Paesi di valutare la vaccinazione di routine contro il papillomavirus (HPV) nelle bambine già a partire dai quattro anni, per migliorare una copertura ancora insufficiente. Lo riferisce RTÉ News.",
-   "more": [
-    "L'HPV è un virus molto diffuso, responsabile di quasi tutti i casi di tumore del collo dell'utero; il vaccino previene le infezioni."
-   ],
-   "fonti": [
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/world/2026/1013/1595268-hpv-who/",
-     "angolo": "",
-     "atlas": "Ireland"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "20:00",
-   "uscita": "sera"
-  },
-  {
    "id": "z280e5d32",
    "sez": "salute",
    "titolo": "A Berlino si chiude il World Health Summit: rafforzare la sorveglianza globale",
@@ -467,27 +1743,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "data": "13 ott",
    "ora": "19:09",
-   "uscita": "sera"
-  },
-  {
-   "id": "z450e2e88",
-   "sez": "cucina",
-   "titolo": "Il clima fa salire i prezzi del pesce: è la «gentrificazione dei frutti di mare»",
-   "orig": "How Climate Change Is Causing ‘the Gentrification of Seafood’",
-   "lead": "Il cambiamento climatico rende più costosi la pesca e la raccolta dei frutti di mare: il prezzo di pesci un tempo di consumo quotidiano è salito molto. Lo riferisce il New York Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The New York Times – Cucina",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/10/13/dining/seafood-prices-shellfish-climate-change.html",
-     "angolo": "",
-     "atlas": "United States of America"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:05",
    "uscita": "sera"
   },
   {
@@ -553,121 +1808,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "za2835aaa",
-   "sez": "economia",
-   "titolo": "Giappone, la Banca centrale non sembra voler alzare i tassi due volte di fila",
-   "orig": "BOJ is said to lean against back-to-back rate hike in October",
-   "lead": "I funzionari della Banca del Giappone, secondo indiscrezioni, vedono poca necessità di rialzi consecutivi dei tassi a ottobre, in assenza di segnali di un improvviso aumento dei rischi di inflazione al rialzo. Lo riferisce il Japan Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Japan Times",
-     "p": "XX",
-     "c": "Tokyo",
-     "u": "https://www.japantimes.co.jp/business/2026/10/13/economy/boj-lean-against-october-rate-hike/",
-     "angolo": "",
-     "atlas": "Japan"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "22:02",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze9364535",
-   "sez": "economia",
-   "titolo": "Pakistan, il governo riduce il prezzo della benzina di 2,71 rupie al litro",
-   "orig": "Govt reduces petrol price by Rs2.71 per litre, high-speed diesel rate by Re0.03",
-   "lead": "Il governo pachistano ha abbassato il prezzo della benzina di 2,71 rupie al litro e quello del gasolio ad alta velocità di 0,03 rupie. Lo riferisce Dawn.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Dawn",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://www.dawn.com/news/2036924/govt-reduces-petrol-price-by-rs271-per-litre-high-speed-diesel-rate-by-re003",
-     "angolo": "",
-     "atlas": "Pakistan"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "01:01",
-   "uscita": "sera"
-  },
-  {
-   "id": "z3d333264",
-   "sez": "economia",
-   "titolo": "Yemen, la guerra mette a rischio anche l'economia locale: «Armi invece di miele e pesce»",
-   "orig": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
-   "lead": "La guerra in Yemen minaccia una delle rotte commerciali più importanti del mondo e anche l'economia locale: molte attività, dal miele alla pesca, sono a rischio e si discute della possibile divisione del Paese tra Nord e Sud. Lo riferisce la Tagesschau in un servizio di Ramin Sina.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
-     "angolo": "",
-     "atlas": "Germany"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "22:00",
-   "uscita": "sera"
-  },
-  {
-   "id": "zd6f3c45a",
-   "sez": "italia",
-   "titolo": "Governo, via libera al documento di bilancio; la manovra in Parlamento a novembre",
-   "orig": "Niente manovra oggi in Consiglio dei ministri, test in Parlamento atteso a novembre",
-   "lead": "Il Consiglio dei ministri ha dato il via libera al Documento programmatico di bilancio, mentre la legge di bilancio vera e propria non era all'ordine del giorno: il test in Parlamento è atteso a novembre. Sul tavolo anche i disegni di legge per completare l'iter dell'autonomia differenziata con le Regioni. Lo riferiscono ANSA e Il Sole 24 Ore.",
-   "more": [
-    "Il Documento programmatico di bilancio è il testo che il governo italiano invia a Bruxelles con le linee della manovra."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/politica/2026/10/13/niente-manovra-in-consiglio-dei-ministri-si-ragiona-sul-taglio-dellirpef_31ea9120-89ce-42d0-b4fd-565adedd88ff.html",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/via-libera-consiglio-ministri-documento-programmatico-bilancio-AJS8pviB",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "21:20",
-   "uscita": "sera"
-  },
-  {
-   "id": "z8ef6f092",
-   "sez": "italia",
-   "titolo": "Riforma della polizia locale: il Senato dà il via libera definitivo",
-   "orig": "Via libera definitivo del Senato alla riforma della polizia locale: arrivano bodycam e accesso alle banche dati",
-   "lead": "Il Parlamento ha approvato in via definitiva il riordino delle polizie locali dei Comuni: arrivano le bodycam e l'accesso alle banche dati. Il Sole 24 Ore ricorda però che il decreto Sicurezza ha azzerato i 20 milioni previsti per il 2026 e che resta senza soluzione il crollo degli organici. Lo riferisce Il Sole 24 Ore.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/via-libera-definitivo-senato-riforma-polizia-locale-arrivano-bodycam-e-accesso-banche-dati-AJLoGmiB",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "19:56",
-   "uscita": "sera"
-  },
-  {
    "id": "za99b99b7",
    "sez": "italia",
    "titolo": "Lega: «Niente cittadinanza ai minori stranieri che commettono reati»",
@@ -686,50 +1826,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "data": "13 ott",
    "ora": "18:02",
-   "uscita": "sera"
-  },
-  {
-   "id": "zfc44ed05",
-   "sez": "salute",
-   "titolo": "Windhoek, annullato il festival Kapana per l'afta epizootica",
-   "orig": "Windhoek kapana festival cancelled over foot-and-mouth disease",
-   "lead": "Il Comune di Windhoek ha annullato l'edizione 2026 del Kapana Festival, in programma il 30 ottobre, a causa dell'epidemia di afta epizootica e delle misure di controllo veterinario: una decisione precauzionale, comunicata con un avviso pubblico. Lo riferisce The Namibian.",
-   "more": [
-    "Il kapana è la carne alla griglia venduta nei mercati di strada della Namibia."
-   ],
-   "fonti": [
-    {
-     "n": "The Namibian",
-     "p": "XX",
-     "c": "Windhoek",
-     "u": "https://www.namibian.com.na/windhoek-kapana-festival-cancelled-over-foot-and-mouth-disease/",
-     "angolo": "",
-     "atlas": "Namibia"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "19:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "zc76ea18a",
-   "sez": "cultura",
-   "titolo": "Cipro, musica francese e pittura al Museo del Vino",
-   "orig": "French music meets painting at Cyprus Wine Museum",
-   "lead": "Il Museo del Vino di Cipro ospita venerdì 23 ottobre alle 19 il concerto «Vive la France!», musica francese per flauto e pianoforte con una pennellata d'arte, nella serie Commandaria Orchestra & Friends. Lo riferisce Cyprus Mail.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Cyprus Mail",
-     "p": "XX",
-     "c": "Nicosia",
-     "u": "https://cyprus-mail.com/2026/10/13/french-music-meets-painting-at-cyprus-wine-museum",
-     "angolo": "",
-     "atlas": "Cyprus"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "21:47",
    "uscita": "sera"
   },
   {
@@ -793,27 +1889,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "data": "13 ott",
    "ora": "17:45",
-   "uscita": "sera"
-  },
-  {
-   "id": "z018e837e",
-   "sez": "ingegneria",
-   "titolo": "Regno Unito, l'autorità nucleare: settore sicuro, ma serve più leadership",
-   "orig": "Nuclear regulator says sector safe and secure but calls for stronger leadership",
-   "lead": "L'Office for Nuclear Regulation britannico ritiene che il settore nucleare sia «sicuro e protetto», ma che i miglioramenti nella leadership non siano ancora stati radicati a sufficienza e che la «maturità» in materia di cybersicurezza sia inferiore alle attese. Lo riferisce New Civil Engineer.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "New Civil Engineer",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.newcivilengineer.com/latest/nuclear-regulator-says-sector-safe-and-secure-but-calls-for-stronger-leadership-13-10-2026/",
-     "angolo": "",
-     "atlas": "United Kingdom"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:43",
    "uscita": "sera"
   },
   {
@@ -2648,28 +3723,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-13T17:08+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:49",
-   "uscita": "17"
-  },
-  {
-   "id": "z095dcfb9",
-   "sez": "cultura",
-   "titolo": "Kelly Clarkson al centro di una polemica social per un episodio in un negozio",
-   "orig": "Kelly Clarkson, ein kleiner Laden, ein Vogel, ein Streit: Pretty Woman oder pretty abgehoben?",
-   "lead": "La cantante statunitense Kelly Clarkson è al centro di una polemica social dopo un episodio avvenuto in un piccolo negozio, legato a un uccello e a una discussione con un dipendente. Secondo alcune versioni, Clarkson sarebbe stata trattata con sufficienza da un commesso arrogante; secondo altre, sarebbe stata lei a usare la propria notorietà per mettere in difficoltà l'attività commerciale. La vicenda continua a far discutere online. Lo riferisce Der Spiegel.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/kultur/kelly-clarkson-ein-kleiner-laden-ein-vogel-ein-streit-pretty-woman-oder-pretty-abgehoben-a-633644d8-6369-431e-ba91-92b5c3dc10d4#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-13T16:47+02:00"
     }
    ],
    "data": "13 ott",
@@ -6353,30 +7406,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z1cb9ed03",
-   "sez": "economia",
-   "titolo": "In Africa si chiede di rafforzare le cooperative di risparmio e credito",
-   "orig": "Stakeholders push for stronger SACCOS across Africa",
-   "lead": "A Dar es Salaam è stato lanciato un appello affinché le Società Cooperative di Risparmio e Credito (SACCOS) rafforzino i servizi finanziari offerti ai propri membri, in particolare attraverso prestiti per finanziare attività imprenditoriali e generare reddito. Le SACCOS sono diventate un'importante fonte di sostegno finanziario per molti tanzaniani. Lo riferisce Daily News.",
-   "more": [
-    "Le SACCOS sono cooperative che raccolgono i risparmi dei propri membri per erogare prestiti a tassi accessibili, offrendo un'alternativa al sistema bancario tradizionale, spesso poco accessibile nelle aree rurali o a basso reddito dell'Africa."
-   ],
-   "fonti": [
-    {
-     "n": "Daily News (Tanzania)",
-     "p": "XX",
-     "c": "Dar es Salaam",
-     "u": "https://dailynews.co.tz/stakeholders-push-for-stronger-saccos-across-africa/",
-     "angolo": "",
-     "atlas": "Tanzania",
-     "t": "2026-10-13T14:38+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:40",
-   "uscita": "17"
-  },
-  {
    "id": "zb5adf520",
    "sez": "mondo",
    "titolo": "In Russia le femministe lavorano in clandestinità per continuare le loro attività",
@@ -7722,27 +8751,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zef7b2d1b",
-   "sez": "cultura",
-   "titolo": "Il premier lettone promette 1 milione di euro al cinema dal 2028",
-   "orig": "PM promises EUR 1 million to film industry starting in 2028 - The Baltic Times",
-   "lead": "Il primo ministro lettone Andris Kulbergs, del partito United List, ha annunciato che dal 2028 lo Stato destinerà un milione di euro all'industria cinematografica nazionale. L'impegno arriva in un momento di incertezza sulle risorse disponibili per il settore culturale lettone, che da tempo chiede sostegno pubblico più stabile per produzioni locali. Non sono ancora stati definiti i dettagli su come i fondi saranno distribuiti né quali criteri regoleranno l'accesso ai finanziamenti. Lo riferisce The Baltic Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Baltic Times",
-     "p": "XX",
-     "c": "Vilnius",
-     "u": "http://www.baltictimes.com/pm_promises_eur_1_million_to_film_industry_starting_in_2028/",
-     "angolo": "",
-     "atlas": "Lithuania"
-    }
-   ],
-   "data": "",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
    "id": "z327a1f5d",
    "sez": "tech",
    "titolo": "L'intelligenza artificiale può cambiare il rischio degli assicurati, dice dirigente di Sompo Seguros",
@@ -7808,30 +8816,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-13T14:44+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
-   "id": "z70a134cf",
-   "sez": "viaggi",
-   "titolo": "Il ceo di Radisson punta su partnership, non acquisizioni, per arrivare a 500 hotel in India",
-   "orig": "Radisson’s CEO Says Partnerships — Not Acquisitions — Will Get It to 500 Hotels in India",
-   "lead": "Il gruppo alberghiero Radisson vuole raddoppiare il proprio portfolio in India portandolo a 500 hotel entro il 2030, senza ricorrere ad acquisizioni. Il ceo dell'azienda punta invece su accordi di partnership, sull'espansione verso città più piccole e su un posizionamento che presenta il gruppo come realtà locale piuttosto che come marchio globale. Lo riferisce Skift.",
-   "more": [
-    "Radisson è una catena alberghiera internazionale presente in diversi segmenti di mercato, dall'ospitalità business a quella leisure, con una strategia di crescita basata su franchising e gestione in molti mercati emergenti."
-   ],
-   "fonti": [
-    {
-     "n": "Skift",
-     "p": "US",
-     "c": "New York",
-     "u": "https://skift.com/2026/10/13/radissons-ceo-says-partnerships-not-acquisitions-will-get-it-to-500-hotels-in-india/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T13:57+00:00"
     }
    ],
    "data": "13 ott",
@@ -7911,53 +8895,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zf6624d97",
-   "sez": "sport",
-   "titolo": "Antonelli può vincere il Mondiale di F1 ad Austin: ecco le combinazioni",
-   "orig": "Kimi Antonelli campione del mondo ad Austin? Ecco cosa deve succedere, le combinazioni per vincere il Mondiale di Formula 1 (dipende da Russell e Hamilton)",
-   "lead": "Kimi Antonelli ha ora il primo match point per conquistare il Mondiale di Formula 1 ad Austin. Grazie ai 15 punti ottenuti con il terzo posto nell'ultimo Gran Premio di Singapore, il pilota italiano ha ampliato il proprio vantaggio su George Russell. Il titolo potrebbe deciderlo l'esito delle gare di Russell e Lewis Hamilton. Lo riferisce Il Messaggero.",
-   "more": [
-    "Il Gran Premio degli Stati Uniti, disputato ad Austin, è una delle tappe del calendario di Formula 1 e può rivelarsi decisivo per l'assegnazione del titolo piloti nelle fasi finali della stagione."
-   ],
-   "fonti": [
-    {
-     "n": "Il Messaggero – Sport",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/sport/schede/kimi_antonelli_vince_mondiale_formula_1_austin_cosa_deve_succedere_combinazioni_russell_hamilton-9822529.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
-   "id": "z57ca6c87",
-   "sez": "viaggi",
-   "titolo": "Il sindaco di Livingstone accoglie la partnership per lo sviluppo turistico",
-   "orig": "Livingstone Mayor welcomes tourism development partnership",
-   "lead": "Il sindaco di Livingstone, Bright Hanakamba, ha accolto con favore l'impegno del governo zambiano, tramite il Great Tourism Development Programme, e della Banca Mondiale a collaborare con il consiglio cittadino per rafforzare lo status di Livingstone come una delle principali destinazioni turistiche internazionali dello Zambia. Il sindaco ha sottolineato il sostegno della Banca Mondiale al programma. Lo riferisce Lusaka Times.",
-   "more": [
-    "Livingstone è una città zambiana nota soprattutto per la vicinanza alle cascate Vittoria, una delle principali attrazioni turistiche dell'Africa meridionale e patrimonio naturale condiviso con lo Zimbabwe."
-   ],
-   "fonti": [
-    {
-     "n": "Lusaka Times",
-     "p": "XX",
-     "c": "Lusaka",
-     "u": "https://www.lusakatimes.com/2026/10/13/livingstone-mayor-welcomes-tourism-development-partnership/",
-     "angolo": "",
-     "atlas": "Zambia",
-     "t": "2026-10-13T14:28+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
    "id": "z7c9891df",
    "sez": "mondo",
    "titolo": "Una famiglia con due figli paga davvero 6000 dollari in più con il governo National?",
@@ -8014,54 +8951,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z48a941a3",
-   "sez": "viaggi",
-   "titolo": "Hong Kong Airlines ottiene l'approvazione per i voli su Zagabria",
-   "orig": "Hong Kong Airlines receives approval for Zagreb flights – what it means",
-   "lead": "Hong Kong Airlines ha ricevuto l'approvazione per operare voli verso Zagabria, una notizia che ha nuovamente attirato l'attenzione dei media, inclusa quella del portale di aviazione EX-YU Aviation. L'articolo esamina il significato di questa autorizzazione per i collegamenti aerei tra Hong Kong e la capitale croata. Lo riferisce Croatia Week.",
-   "more": [
-    "Hong Kong Airlines è una compagnia aerea con sede a Hong Kong che opera voli passeggeri e cargo verso diverse destinazioni internazionali in Asia, Europa e altri continenti."
-   ],
-   "fonti": [
-    {
-     "n": "Croatia Week",
-     "p": "XX",
-     "c": "Zagabria",
-     "u": "https://www.croatiaweek.com/hong-kong-airlines-zagreb-flights-approval/",
-     "angolo": "",
-     "atlas": "Croatia",
-     "t": "2026-10-13T13:36+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
-   "id": "z17214a3e",
-   "sez": "salute",
-   "titolo": "La Repubblica Ceca potrebbe prescrivere visite ai musei per prevenire la depressione",
-   "orig": "Czech Doctors May Soon Prescribe Museum Visits to Prevent Depression",
-   "lead": "I medici della Repubblica Ceca potrebbero presto poter raccomandare visite ai musei, corsi di danza, canto e laboratori creativi a persone a rischio di depressione, ansia o isolamento sociale. Il programma, chiamato Art on Prescription, mira a collegare gli operatori sanitari con musei, gallerie, biblioteche e altre istituzioni culturali, senza sostituire farmaci o psicoterapia ma affiancandoli. L'Istituto Nazionale di Salute Mentale (NUDZ) sta preparando una piattaforma nazionale per la prevenzione attraverso la cultura, che riunirà organizzazioni culturali, servizi sanitari, sociali e scuole. Lo riferisce Prague Morning.",
-   "more": [
-    "L'arte e la cultura sono sempre più studiate come strumenti complementari nella prevenzione del disagio psichico, affiancando le terapie tradizionali con attività che favoriscono socialità e benessere mentale."
-   ],
-   "fonti": [
-    {
-     "n": "Prague Morning",
-     "p": "XX",
-     "c": "Praga",
-     "u": "https://praguemorning.cz/museum-culture-prescription-czech-republic/",
-     "angolo": "",
-     "atlas": "Czechia",
-     "t": "2026-10-13T14:19+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
    "id": "z75c9e10c",
    "sez": "mondo",
    "titolo": "Salam discute sicurezza nel sud ed esplosivi con il capo dell'esercito libanese",
@@ -8079,28 +8968,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Lebanon",
      "t": "2026-10-13T16:59+03:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
-   "id": "zcd74d93a",
-   "sez": "salute",
-   "titolo": "Escluso l'orario flessibile per i medici delle cliniche in Bahrein",
-   "orig": "Flexible Hours Ruled Out for Clinic Doctors",
-   "lead": "Il governo del Bahrein ha escluso la possibilità di introdurre orari flessibili per i medici delle cliniche, sostenendo che le indennità per i turni e il pagamento degli straordinari già coprono le esigenze dei professionisti sanitari. Lo riferisce Daily Tribune.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Daily Tribune (Bahrein)",
-     "p": "XX",
-     "c": "Manama",
-     "u": "https://www.newsofbahrain.com/en/article/flexible-hours-ruled-out-for-clinic-doctors",
-     "angolo": "",
-     "atlas": "Bahrain",
-     "t": "2026-10-13T14:38+00:00"
     }
    ],
    "data": "13 ott",
@@ -8203,28 +9070,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zb5670d21",
-   "sez": "economia",
-   "titolo": "Tourism Development Cape Verde assume la maggioranza del Vila Verde Resort",
-   "orig": "Sal: Tourism Development Cape Verde, S.A. (TDCV) assume posição maioritária no Vila Verde Resort",
-   "lead": "La società Tourism Development Cape Verde (TDCV) ha ottenuto una posizione maggioritaria nel Vila Verde Resort, situato a Santa Maria, sull'isola di Sal, Capo Verde. L'operazione è avvenuta tramite l'acquisizione delle quote detenute dalla Tecnicil Imobiliária e l'acquisto del portafoglio di crediti in sofferenza legati alla struttura, al termine di un processo di trattativa durato quasi due anni. Lo riferisce A Nação.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "A Nação",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://www.anacao.cv/noticia/2026/10/13/sal-tourism-development-cape-verde-s-a-tdcv-assume-posicao-maioritaria-no-vila-verde-resort/",
-     "angolo": "",
-     "atlas": "Cabo Verde",
-     "t": "2026-10-13T13:34+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
    "id": "zad62c332",
    "sez": "economia",
    "titolo": "Lo sceicco Maktoum bin Mohammed incontra il presidente internazionale di Bank of America",
@@ -8264,28 +9109,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Ghana",
      "t": "2026-10-13T14:46+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
-   "id": "z607e21b2",
-   "sez": "sport",
-   "titolo": "Gusto migliore in campo nel pareggio dei Rapids in MLS",
-   "orig": "Gusto man of the match in Rapids MLS draw",
-   "lead": "Il calciatore santaluciano Donavan \"Gusto\" Phillip ha segnato il suo quarto gol in cinque partite tra club e nazionale, diventando il più giovane giocatore a segnare in tre partite consecutive con i Colorado Rapids. La squadra ha però pareggiato 1-1 contro il San Jose Earthquake a Commerce City. Phillip ha 21 anni. Lo riferisce St. Lucia Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "St. Lucia Times",
-     "p": "XX",
-     "c": "Castries",
-     "u": "https://stluciatimes.com/184920/2026/10/gusto-man-of-the-match-in-rapids-mls-draw/",
-     "angolo": "",
-     "atlas": "Saint Lucia",
-     "t": "2026-10-13T13:54+00:00"
     }
    ],
    "data": "13 ott",
@@ -8424,30 +9247,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-13T17:05+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
-   "id": "z1951ed57",
-   "sez": "salute",
-   "titolo": "\"È solo la tua anemia falciforme\": l'appello di Marie-Claire Kofi per le donne",
-   "orig": "‘It’s just your sickle cell’: Marie-Claire Kofi calls for women’s symptoms to be examined",
-   "lead": "L'attivista per la salute di origine camerunese Marie-Claire Kofi denuncia come le donne affette da anemia falciforme rischino di vedere ignorati dolori mestruali, questioni di fertilità e altri problemi di salute, quando ogni sintomo viene attribuito alla malattia di base. Kofi, fondatrice e amministratrice delegata di Plasma of Hope, ne ha parlato durante un workshop della European Sickle Cell Federation a Londra. Lo riferisce Mimi Mefo Info.",
-   "more": [
-    "L'anemia falciforme è una malattia genetica del sangue che deforma i globuli rossi causando dolore cronico e altre complicazioni; colpisce in particolare le popolazioni di origine africana."
-   ],
-   "fonti": [
-    {
-     "n": "Mimi Mefo Info",
-     "p": "XX",
-     "c": "Yaoundé",
-     "u": "https://mimimefoinfos.com/marie-claire-kofi-sickle-cell-womens-health-london/",
-     "angolo": "",
-     "atlas": "Cameroon",
-     "t": "2026-10-13T13:53+00:00"
     }
    ],
    "data": "13 ott",
@@ -9206,39 +10005,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z434d9459",
-   "sez": "economia",
-   "titolo": "Le SACCOS africane invitate ad adottare la tecnologia per attrarre i giovani",
-   "orig": "African SACCOS urged to embrace technology, attract youth",
-   "lead": "In un incontro a Dar es Salaam, le cooperative di risparmio e credito (SACCOS) africane sono state invitate ad adottare maggiormente la tecnologia e a creare un ambiente favorevole per attrarre più giovani, nell'ambito degli sforzi per migliorare i servizi finanziari e l'efficienza operativa del settore. L'incontro ha riunito rappresentanti di diverse cooperative del continente, impegnati a discutere strategie comuni per modernizzare il settore. Lo riferisce Daily News.",
-   "more": [
-    "Le SACCOS (Savings and Credit Cooperative Societies) sono cooperative di risparmio e credito molto diffuse in Africa, che offrono servizi finanziari a comunità spesso escluse dal sistema bancario tradizionale, specialmente nelle aree rurali."
-   ],
-   "fonti": [
-    {
-     "n": "Daily News (Tanzania)",
-     "p": "XX",
-     "c": "Dar es Salaam",
-     "u": "https://dailynews.co.tz/african-saccos-urged-to-embrace-technology-attract-youth/",
-     "angolo": "",
-     "atlas": "Tanzania",
-     "t": "2026-10-13T13:05+00:00"
-    },
-    {
-     "n": "3News",
-     "p": "XX",
-     "c": "Accra",
-     "u": "https://3news.com/news/ghana-career-and-migration-fair-youth-urged-to-solve-problems-not-just-seek-job",
-     "angolo": "",
-     "atlas": "Ghana",
-     "t": "2026-10-13T13:56+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:35",
-   "uscita": "17"
-  },
-  {
    "id": "zad1f80e1",
    "sez": "mondo",
    "titolo": "Droni russi colpiscono un'università a Rivne, in Ucraina: 25 feriti",
@@ -9771,7 +10537,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   },
   {
    "id": "z3f85a189",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Francia, cyberattacco colpisce 300 supermercati: spente le celle frigorifere",
    "orig": "Así fue el ciberataque que sufrieron 300 supermercados en Francia: hackers apagaron las cámaras de frío y dañaron toneladas de alimentos",
    "lead": "Un attacco informatico ha colpito almeno 300 supermercati in Francia, appartenenti ad almeno sei catene commerciali, spegnendo le telecamere delle celle frigorifere e causando il danneggiamento di tonnellate di alimenti conservati in frigoriferi e congelatori. Il governo francese si è detto 'preoccupato' per l'episodio, ma ha smentito problemi di approvvigionamento, secondo quanto riportato da ABC Color.",
@@ -10172,6 +10938,59 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Norway",
      "t": "2026-10-13T14:11+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T16:16+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/trump-asks-greece-ambassador-to-resign-over-misconduct-allegations/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/united-states-canada/article/3370779/us-asks-greece-ambassador-kimberly-guilfoyle-resign-over-alleged-misconduct?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-13T15:02+00:00"
+    },
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/minister-orders-suspension-of-obuasi-shs-headmaster-over-alleged-sexual-misconduct-following-joynews-investigation/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-13T17:54+00:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/378033/trump-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-resign",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-13T19:03+03:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T16:08+00:00"
     }
    ],
    "data": "13 ott",
@@ -10437,39 +11256,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-13T09:50+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z6fbff298",
-   "sez": "mondo",
-   "titolo": "Gli Houthi minacciano gli impianti Aramco e gli aeroporti sauditi",
-   "orig": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
-   "lead": "Il movimento Houthi dello Yemen ha minacciato di colpire gli impianti petroliferi Aramco e gli aeroporti dell'Arabia Saudita, promettendo una risposta 'dura'. L'annuncio è giunto subito dopo un ordine di evacuazione diffuso dalla coalizione a guida saudita, mentre a Sanaa, capitale yemenita, sono state udite esplosioni. Gli Houthi hanno dichiarato che i siti sauditi sono obiettivi legittimi nel conflitto in corso.",
-   "more": [
-    "Gli Houthi sono un movimento armato yemenita che dal 2014 controlla ampie zone dello Yemen, in guerra contro una coalizione a guida saudita. Aramco è la compagnia petrolifera statale dell'Arabia Saudita, le cui infrastrutture sono già state bersaglio di attacchi in passato."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-13T15:01+00:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/houthi-siti-sauditi-obiettivi-legittimi-af39b95d-d222-4217-801c-e52df8c51ee8.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T14:43+00:00"
     }
    ],
    "data": "13 ott",
@@ -10870,39 +11656,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z73020d7a",
-   "sez": "organizzazioni",
-   "titolo": "Il presidente dell'Eurogruppo Pierrakakis alle riunioni annuali di FMI e Banca Mondiale a Bangkok",
-   "orig": "Eurogroup President Pierrakakis attends the Annual Meetings of the IMF and World Bank Group in Bangkok, Thailand",
-   "lead": "Il presidente dell'Eurogruppo, Kyriakos Pierrakakis, parteciperà alle Riunioni Annuali del Fondo Monetario Internazionale e del Gruppo della Banca Mondiale a Bangkok, in Thailandia, rappresentando l'Eurogruppo nell'appuntamento internazionale. Lo riferisce il Consiglio dell'Unione europea.",
-   "more": [
-    "L'Eurogruppo riunisce i ministri delle Finanze dei Paesi dell'area euro per coordinare le politiche economiche e di bilancio. Le Riunioni Annuali di FMI e Banca Mondiale sono un appuntamento periodico internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Consiglio dell'Unione europea",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/eurogroup-president-pierrakakis-attends-the-annual-meetings-of-the-imf-and-world-bank-group-in-bangkok-thailand/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-13T15:00+00:00"
-    },
-    {
-     "n": "SIBC",
-     "p": "XX",
-     "c": "Honiara",
-     "u": "https://www.sibconline.com.sb/ramofafia-leads-solomon-islands-delegation-to-2026-imf-and-world-bank-annual-meetings-in-bangkok/",
-     "angolo": "",
-     "atlas": "Solomon Is.",
-     "t": "2026-10-12T06:25+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z84b84d49",
    "sez": "salute",
    "titolo": "Studio: le donne con malattie autoimmuni rischiano più diagnosi errate come problemi psicologici",
@@ -10929,39 +11682,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-13T16:55+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zed07da17",
-   "sez": "salute",
-   "titolo": "Colesterolo, un nuovo studio: per abbassarlo bisogna sostituire i carboidrati, non eliminarli",
-   "orig": "Colesterolo: un nuovo studio dice che per abbassarlo bisogna sostituire i carboidrati",
-   "lead": "Un nuovo studio scientifico indica che per ridurre il colesterolo non è necessario eliminare i carboidrati, che restano essenziali per l'organismo, ma saperli sostituire con scelte alimentari più adeguate. Secondo la ricerca, la qualità dei carboidrati consumati incide direttamente sulla salute cardiovascolare. Lo riferisce La Cucina Italiana.",
-   "more": [
-    "Il colesterolo è una sostanza grassa presente nel sangue, necessaria per diverse funzioni dell'organismo ma che, in eccesso, è associata a un maggiore rischio di malattie cardiovascolari."
-   ],
-   "fonti": [
-    {
-     "n": "La Cucina Italiana",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.lacucinaitaliana.it/article/per-abbassare-il-colesterolo-bisogna-sostituire-i-carboidrati-nuovo-studio/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T14:00+00:00"
-    },
-    {
-     "n": "Il Fatto Quotidiano",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilfattoquotidiano.it/2026/10/13/quanti-passi-al-giorno-servono-per-ridurre-il-rischio-di-morte-precoce-altro-che-10mila-un-nuovo-studio-rivela-perche-conta-anche-la-velocita-della-camminata/8536996/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T14:51+00:00"
     }
    ],
    "data": "13 ott",
@@ -11074,123 +11794,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zb884f5ad",
-   "sez": "prima",
-   "titolo": "La Commissione Ue dà il via libera al piano Safe dell'Italia da oltre 8 miliardi",
-   "orig": "Fonti, via libera della Commissione Ue al piano Safe dell'Italia",
-   "lead": "La Commissione europea ha approvato la richiesta dell'Italia di accedere al programma Safe per una cifra superiore agli 8 miliardi di euro. Si tratta di un prestito a condizioni vantaggiose, con tassi di interesse molto bassi, che permette a Roma di rinnovare il proprio apparato militare indebitandosi senza sostenere rendimenti elevati. La decisione finale spetta ora al Consiglio dell'Unione europea.",
-   "more": [
-    "Safe è il programma europeo per il sostegno agli investimenti nella difesa, pensato per aiutare gli Stati membri a rafforzare le proprie capacità militari tramite prestiti a condizioni favorevoli garantiti dall'Unione europea."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/10/13/fonti-via-libera-della-commissione-ue-al-piano-safe-dellitalia-_fc78f250-bb5d-48f7-abbc-f82239356e10.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T15:38+02:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/13/news/ue_ok_richiesta_fondi_safe_italia_8_miliardi-425644574/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T10:08+00:00"
-    },
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/safe-ok-commissione-piano-italia-8-mld-decisione-finale-consiglio-ue-AJ6CMUiB",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T10:42+00:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/13/news/ue_ok_richiesta_fondi_safe_italia_8_miliardi-425644574/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T12:45+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z9032f9b4",
-   "sez": "ingegneria",
-   "titolo": "OMA trasforma lo storico stabilimento Folger Coffee di Houston in una scuola di musica e arti",
-   "orig": "OMA/Jason Long Is Transforming Houston’s Historic Folger Coffee Plant into a Music and Arts School",
-   "lead": "Lo studio di architettura OMA, guidato dal partner Jason Long, ha avviato la costruzione della Frank Liu Jr. Academy for Music and Arts (FLAMA) a Houston, in Texas, con RDLR Architects come architetto incaricato e SWA Group per il progetto paesaggistico. Il progetto recupera lo storico stabilimento della J. A. Folger & Co., fabbrica di caffè degli anni Trenta, trasformandolo in uno spazio educativo per le arti. La struttura, di 6.050 metri quadrati, sarà una scuola pubblica gratuita e a iscrizione aperta per studenti dalla scuola materna alla terza media, lungo il corridoio Buffalo Bayou East.",
-   "more": [
-    "OMA è uno studio di architettura internazionale fondato da Rem Koolhaas, noto per progetti di riqualificazione urbana e riuso adattivo di edifici storici in tutto il mondo."
-   ],
-   "fonti": [
-    {
-     "n": "ArchDaily",
-     "p": "XX",
-     "c": "Internazionale",
-     "u": "https://www.archdaily.com/1186703/oma-jason-long-is-transforming-houstons-historic-folger-coffee-plant-into-a-music-and-arts-school",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-13T05:30+00:00"
-    },
-    {
-     "n": "Condé Nast Traveler",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.cntraveler.com/story/the-best-things-to-do-in-laguna-beach-orange-county",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T13:58+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zacc779b5",
-   "sez": "manga",
-   "titolo": "Svelato il trailer e il tema musicale del film anime 'Expelled from Paradise: Kokoro no Resonance'",
-   "orig": "Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Anime Film's Trailer Reveals Theme Song",
-   "lead": "È stato pubblicato un nuovo trailer del film anime 'Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance', che rivela anche la canzone tema firmata da TeddyLoid e cantata da Ayane Sakura, nel ruolo di Gabriel, insieme a Nagi Inoue del gruppo Nogizaka46. Il trailer include anche nuove key art per il film, sequel del precedente capitolo della saga.",
-   "more": [
-    "'Expelled from Paradise' è un film anime di fantascienza uscito per la prima volta nel 2014, frutto della collaborazione tra lo studio Graphinica e lo sceneggiatore Gen Urobuchi, noto per opere come 'Puella Magi Madoka Magica'."
-   ],
-   "fonti": [
-    {
-     "n": "Anime News Network",
-     "p": "US",
-     "c": "Houston",
-     "u": "https://www.animenewsnetwork.com/news/2026-10-13/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-anime-film-trailer-reveals-theme-song/.242786",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T10:35-04:00"
-    },
-    {
-     "n": "Crunchyroll News",
-     "p": "US",
-     "c": "San Francisco",
-     "u": "https://crunchyroll.com/news/latest/2026/10/13/expelled-from-paradise-resonance-of-the-heart-anime-film-trailer-key-visual-theme-song",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T13:36+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z73384bd8",
    "sez": "tech",
    "titolo": "L'Iran minaccia i data center del Golfo: quanto è esposta la regione su internet?",
@@ -11208,52 +11811,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-10-13T13:03+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zbe96e9ac",
-   "sez": "salute",
-   "titolo": "O'Donovan, ministro della Cultura irlandese, portato in ospedale dopo un malore",
-   "orig": "O'Donovan brought to hospital after falling ill at event",
-   "lead": "Patrick O'Donovan, ministro della Cultura irlandese, è stato trasportato in ambulanza in ospedale dopo essersi sentito male durante un incontro della presidenza UE ospitato dall'Università di Limerick. Lo riferisce RTÉ News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/2026/1013/1595234-odonovan-illness/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-10-13T14:43+01:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z21ec226d",
-   "sez": "viaggi",
-   "titolo": "Senigallia ospita il Pane Nostrum, tre giorni dedicati al pane e alla pizza",
-   "orig": "Pane, pizza e passione: Senigallia e il Pane Nostrum per 3 giorni di buono che fa bene al cuore",
-   "lead": "Senigallia, nelle Marche, ospita il Salone nazionale dell'arte bianca «Pane Nostrum», tre giornate dedicate al pane e alla pizza che uniscono tradizione ed eccellenze del settore in un rapporto autentico con il quotidiano. Lo riferisce Turisti per Caso.",
-   "more": [
-    "Il Pane Nostrum è una manifestazione che riunisce panificatori e pizzaioli italiani, mettendo in mostra tecniche e prodotti dell'arte bianca, ossia la lavorazione di farine per pane, pizza e dolci da forno."
-   ],
-   "fonti": [
-    {
-     "n": "Turisti per Caso",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://turistipercaso.it/news/pane-pizza-e-passione-senigallia-e-il-pane-nostrum-per-3-giorni-di-buono-che-fa-bene-al-cuore.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T14:00+00:00"
     }
    ],
    "data": "13 ott",
@@ -11330,28 +11887,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zbf28405c",
-   "sez": "cucina",
-   "titolo": "Due idee per esaltare il sapore dei fichi",
-   "orig": "Fichi: due idee per potenziare il loro sapore",
-   "lead": "La Cucina Italiana propone due modi per valorizzare il sapore dei fichi, protagonisti di antipasti, aperitivi e dolci a fine estate quando sono più maturi e succosi, utilizzando anche le foglie della pianta nelle ricette. Lo riferisce La Cucina Italiana.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "La Cucina Italiana",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.lacucinaitaliana.it/article/fichi-due-idee-per-potenziare-il-loro-sapore/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T13:28+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z5c419b8c",
    "sez": "adolescenti",
    "titolo": "Valditara: meno reggenze per i dirigenti scolastici, più risorse e valutazione dei risultati",
@@ -11401,30 +11936,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zb7e7260f",
-   "sez": "spazio",
-   "titolo": "La NASA annuncia tre nuovi carichi scientifici per studiare l'ambiente lunare",
-   "orig": "NASA Initiative to Study the Moon's Environment",
-   "lead": "La NASA ha annunciato tre nuovi payload scientifici che saranno inviati sulla Luna per comprendere meglio i rischi e le risorse dell'ambiente lunare. Lo riferisce Sky & Telescope.",
-   "more": [
-    "I payload scientifici sono strumenti destinati a raccogliere dati su un corpo celeste; nel caso della Luna, missioni di questo tipo servono a preparare future esplorazioni umane e lo sfruttamento di risorse come l'acqua ghiacciata."
-   ],
-   "fonti": [
-    {
-     "n": "Sky & Telescope",
-     "p": "US",
-     "c": "Milwaukee",
-     "u": "https://skyandtelescope.org/astronomy-news/nasa-initiative-to-study-the-moons-environment/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T14:58+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "zb27f69c9",
    "sez": "economia",
    "titolo": "L'app di incontri Bumble venduta per 1,3 miliardi di dollari",
@@ -11458,30 +11969,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "ze6cfcce2",
-   "sez": "tech",
-   "titolo": "L'autorità sudcoreana per la privacy indaga su Zeekr",
-   "orig": "Privacy watchdog chief says looking into Zeekr's personal data practices",
-   "lead": "L'autorità per la protezione dei dati della Corea del Sud ha avviato un'ispezione sulle pratiche di gestione dei dati personali adottate dalla casa automobilistica cinese Zeekr. Lo riferisce Yonhap.",
-   "more": [
-    "Zeekr è un marchio di auto elettriche cinese, parte del gruppo Geely, venduto anche sui mercati internazionali compresa la Corea del Sud."
-   ],
-   "fonti": [
-    {
-     "n": "Yonhap",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://en.yna.co.kr/view/AEN20261013011200315",
-     "angolo": "",
-     "atlas": "South Korea",
-     "t": "2026-10-13T23:34+09:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "ze4605f8e",
    "sez": "salute",
    "titolo": "L'OMS avverte: lacune vaccinali lasciano i bambini nigeriani vulnerabili alle malattie",
@@ -11499,30 +11986,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Nigeria",
      "t": "2026-10-13T15:14+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z65c71b6f",
-   "sez": "manga",
-   "titolo": "Come ottenere la carta Pokémon speciale creata per Lucca Comics 2026",
-   "orig": "Come ottenere la speciale carta Pokémon realizzata per Lucca Comics 2026",
-   "lead": "In occasione di Lucca Comics & Games 2026 è stata realizzata una carta Pokémon speciale raffigurante Pikachu, che sarà distribuita gratuitamente durante il festival e nei negozi aderenti al circuito Play! Pokémon Store. Lo riferisce Fumettologica.",
-   "more": [
-    "Lucca Comics & Games è uno dei maggiori eventi europei dedicati a fumetto, giochi e cultura pop; Play! Pokémon è il circuito ufficiale di tornei e iniziative legate al gioco di carte collezionabili Pokémon."
-   ],
-   "fonti": [
-    {
-     "n": "Fumettologica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://fumettologica.it/2026/10/carta-pokemon-lucca-comics-2026-come-ottenerla/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T15:13+00:00"
     }
    ],
    "data": "13 ott",
@@ -11580,28 +12043,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-13T13:44+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zc6ab26e0",
-   "sez": "ingegneria",
-   "titolo": "Il Regno Unito cancella in silenzio sedici progetti stradali",
-   "orig": "Sixteen road schemes ‘quietly’ cancelled by Department of Transport",
-   "lead": "Il Dipartimento dei Trasporti britannico ha comunicato agli stakeholder che sedici progetti stradali, ancora in esame fino a luglio 2025, sono stati cancellati. Lo riferisce New Civil Engineer.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "New Civil Engineer",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.newcivilengineer.com/latest/sixteen-road-schemes-quietly-cancelled-by-department-of-transport-13-10-2026/",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T14:22+00:00"
     }
    ],
    "data": "13 ott",
@@ -11680,30 +12121,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zd9793006",
-   "sez": "spazio",
-   "titolo": "La strana nuvola vista sulla East Coast era un razzo SpaceX",
-   "orig": "Did you see a strange cloud on the East Coast?",
-   "lead": "Molte persone sveglie prima dell'alba di martedì sulla costa orientale degli Stati Uniti hanno notato una strana nuvola in cielo: si trattava della scia di un razzo SpaceX diretto verso la Stazione Spaziale Internazionale. Lo riferisce EarthSky.",
-   "more": [
-    "Le scie luminose nel cielo all'alba o al tramonto, causate dai razzi in lancio, sono un fenomeno noto che si verifica quando il plasma di scarico riflette la luce solare mentre il resto del cielo è ancora buio."
-   ],
-   "fonti": [
-    {
-     "n": "EarthSky",
-     "p": "US",
-     "c": "Austin",
-     "u": "https://earthsky.org/todays-image/strange-cloud-east-coast-jellyfish-spacex-oct-13/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T13:23+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "za4f1c467",
    "sez": "italia",
    "titolo": "Avvistamento di vipere vicino Roma, allarme sui social",
@@ -11765,52 +12182,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-13T15:12+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "ze3f3fb69",
-   "sez": "salute",
-   "titolo": "Come prendersi cura della pelle, spiegato a chi non lo fa",
-   "orig": "Prendersi cura della pelle spiegato a chi non se ne cura",
-   "lead": "Il Post analizza i danni cutanei quotidiani, distinguendo quelli che guariscono rapidamente da quelli che possono trasformarsi in un pericolo più serio, spiegando come spesso si sopravvaluti l'importanza dei primi e si sottovaluti quella dei secondi. Lo riferisce Il Post.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/13/pelle-salute/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T14:34+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z0be5b318",
-   "sez": "manga",
-   "titolo": "Ratigher disegna la locandina del film «Le ragazzine stanno perdendo il controllo»",
-   "orig": "La locandina del film di Le ragazzine stanno perdendo il controllo, disegnata da Ratigher",
-   "lead": "Il fumettista Ratigher ha realizzato la locandina del film «Le ragazzine stanno perdendo il controllo», diretto da Pierluca Di Pasquale e tratto dal suo omonimo fumetto. Fumettologica presenta l'immagine in esclusiva. Lo riferisce Fumettologica.",
-   "more": [
-    "Ratigher è un fumettista italiano noto per uno stile ironico e surreale; il film trae ispirazione dal suo fumetto omonimo, segno del crescente dialogo tra fumetto indipendente e cinema."
-   ],
-   "fonti": [
-    {
-     "n": "Fumettologica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://fumettologica.it/2026/10/le-ragazzine-stanno-perdendo-il-controllo-film-locandina/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T13:06+00:00"
     }
    ],
    "data": "13 ott",
@@ -11885,30 +12256,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z54c7e14d",
-   "sez": "ingegneria",
-   "titolo": "Neso costretta ad acquistare 1,2 GW di elettricità tramite interconnessione per un ritardo di NGET",
-   "orig": "Neso forced to buy 1.2GW of electricity via interconnector due to delay to NGED asset works",
-   "lead": "Il gestore britannico della rete energetica Neso (National Energy System Operator) ha dovuto acquistare 1,2 gigawatt di elettricità tramite un cavo di interconnessione con la Francia, dopo che un impianto di National Grid Electricity Transmission (NGET) ha impiegato più tempo del previsto per tornare operativo. L'acquisto d'emergenza è servito a compensare la mancata disponibilità dell'asset elettrico britannico nei tempi stabiliti. Lo riferisce New Civil Engineer.",
-   "more": [
-    "Neso è l'operatore indipendente che gestisce la sicurezza e l'equilibrio della rete elettrica britannica, coordinando produzione, trasmissione e importazioni di energia. Gli interconnettori sono cavi sottomarini che collegano le reti elettriche di diversi Paesi, permettendo di scambiare energia per far fronte a picchi di domanda o carenze temporanee."
-   ],
-   "fonti": [
-    {
-     "n": "New Civil Engineer",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.newcivilengineer.com/latest/neso-forced-to-buy-1-2gw-of-electricity-via-interconnector-due-to-delay-to-nged-asset-works-13-10-2026/",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T14:11+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "za76436f7",
    "sez": "adolescenti",
    "titolo": "Supplenze docenti 2026/27: i bollettini del 13 ottobre",
@@ -11954,53 +12301,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
     }
    ],
    "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z3747b93a",
-   "sez": "spazio",
-   "titolo": "Il telescopio Webb individua una possibile supernova dell'universo primordiale a pochi giorni dall'esplosione",
-   "orig": "Webb spots possible early-universe supernova just days after it happened",
-   "lead": "Il James Webb Space Telescope ha rilevato una possibile supernova nell'universo primordiale, catturata appena pochi giorni dopo l'esplosione della stella. L'evento, denominato AT 2026abck, si trova in una galassia con intensa formazione stellare a un redshift di 5,017 ed è stato individuato senza l'aiuto di lenti gravitazionali. Secondo le osservazioni di Webb, l'esplosione sarebbe stata osservata tra 4 e 10 giorni dopo essersi verificata. Lo studio è stato pubblicato sul server di prestampa arXiv il 29 settembre. Lo riferisce Phys.org – Spazio.",
-   "more": [
-    "Il James Webb Space Telescope è il più avanzato osservatorio spaziale attualmente in funzione, capace di osservare galassie estremamente distanti e quindi molto antiche, grazie alla sua sensibilità nell'infrarosso. Il redshift misura quanto la luce di un oggetto si sia spostata verso lunghezze d'onda maggiori a causa dell'espansione dell'universo, indicando distanza ed età."
-   ],
-   "fonti": [
-    {
-     "n": "Phys.org – Spazio",
-     "p": "US",
-     "c": "Douglas",
-     "u": "https://phys.org/news/2026-10-webb-early-universe-supernova-days.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T10:50-04:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "ze34f9372",
-   "sez": "italia",
-   "titolo": "Carta d'identità elettronica a Roma: open day sabato 17 e domenica 18 ottobre",
-   "orig": "Carta d'identità elettronica a Roma:open day sabato 17 e domenica 18 ottobre. Ecco cosa fare per richiedere il nuovo documento",
-   "lead": "Il Comune di Roma organizza per il terzo weekend di ottobre un nuovo open day dedicato al rilascio della carta d'identità elettronica. Sabato 17 e domenica 18 ottobre saranno aperti appositi sportelli per permettere ai cittadini di richiedere il nuovo documento, proseguendo un'iniziativa già avviata nei weekend precedenti. L'articolo fornisce indicazioni su come prenotare e cosa serve per ottenere la carta durante questi giorni straordinari di apertura. Lo riferisce Il Messaggero – Roma.",
-   "more": [
-    "La carta d'identità elettronica (CIE) ha sostituito il vecchio documento cartaceo in Italia, offrendo funzioni aggiuntive come l'accesso ai servizi digitali della pubblica amministrazione tramite identità digitale."
-   ],
-   "fonti": [
-    {
-     "n": "Il Messaggero – Roma",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/roma/centro_storico/carta_d_identita_elettronica_roma_open_day_sabato_17_domenica_18_ottobre-9822338.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
    "ora": "17:26",
    "uscita": "17"
   },
@@ -12110,30 +12410,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z0015092f",
-   "sez": "ingegneria",
-   "titolo": "ORE Catapult definisce un nuovo quadro per ridurre i costi dell'eolico offshore galleggiante",
-   "orig": "ORE Catapult sets framework for reducing costs of floating offshore wind",
-   "lead": "L'organizzazione britannica Offshore Renewable Energy (ORE) Catapult ha pubblicato un quadro aggiornato che, secondo l'ente, aiuterà gli sviluppatori di progetti eolici offshore galleggianti a ridurre i costi di realizzazione. Il documento fornisce linee guida tecniche ed economiche pensate per rendere più competitivo questo tipo di tecnologia energetica rinnovabile. Lo riferisce New Civil Engineer.",
-   "more": [
-    "L'eolico offshore galleggiante è una tecnologia emergente che permette di installare turbine eoliche in acque profonde, dove le strutture fisse tradizionali non sono praticabili, ampliando il potenziale di sfruttamento del vento marino."
-   ],
-   "fonti": [
-    {
-     "n": "New Civil Engineer",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.newcivilengineer.com/latest/ore-catapult-sets-framework-for-reducing-costs-of-floating-offshore-wind-13-10-2026/",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T13:09+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z8a3a69b9",
    "sez": "adolescenti",
    "titolo": "Docenti tutor e orientatori: altri 16 milioni di euro alle scuole italiane",
@@ -12176,102 +12452,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T14:45+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zb665c010",
-   "sez": "spazio",
-   "titolo": "I sistemi planetari si dividono in due famiglie distinte legate alle loro stelle ospiti",
-   "orig": "Planetary systems reveal two distinct families tied to their host stars",
-   "lead": "Un team internazionale di ricercatori guidato dall'Istituto Nazionale di Astrofisica (INAF) ha analizzato un campione di 300 tra i sistemi planetari meglio caratterizzati, su oltre 1.000 conosciuti nella Via Lattea, scoprendo che i sistemi multiplanetari individuati finora si dividono in due famiglie distinte in base alle caratteristiche della stella ospite. Lo riferisce Phys.org – Spazio.",
-   "more": [
-    "I sistemi multiplanetari sono insiemi di pianeti che orbitano attorno alla stessa stella, come nel caso del Sistema Solare. Il loro studio aiuta gli astronomi a comprendere come si formino ed evolvano i pianeti in relazione alle caratteristiche della stella madre."
-   ],
-   "fonti": [
-    {
-     "n": "Phys.org – Spazio",
-     "p": "US",
-     "c": "Douglas",
-     "u": "https://phys.org/news/2026-10-planetary-reveal-distinct-families-host.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T10:20-04:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z1d0e5996",
-   "sez": "salute",
-   "titolo": "La Ftc chiede a Martin Shkreli di cedere le sue azioni farmaceutiche",
-   "orig": "STAT+: FTC demands Martin Shkreli divest his pharma stocks",
-   "lead": "La Federal Trade Commission (FTC) statunitense ha chiesto a un tribunale federale di ritenere Martin Shkreli in contempt of court per aver violato un'ordinanza giudiziaria che gli vieta di lavorare nel settore farmaceutico. L'agenzia sostiene che l'ex dirigente, noto per lo scandalo sui prezzi dei farmaci, debba ora cedere le proprie partecipazioni in società del settore. Lo riferisce STAT.",
-   "more": [
-    "Martin Shkreli è un ex dirigente farmaceutico statunitense divenuto noto per aver aumentato drasticamente il prezzo di un farmaco salvavita, suscitando polemiche internazionali e successivi provvedimenti legali nei suoi confronti."
-   ],
-   "fonti": [
-    {
-     "n": "STAT",
-     "p": "US",
-     "c": "Boston",
-     "u": "https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T14:31+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "za65b8ec8",
-   "sez": "manga",
-   "titolo": "L'agenzia Talent Agency Intention annuncia lo scioglimento per il 31 marzo 2027",
-   "orig": "Talent Agency Intention Announces Dissolution on March 31, 2027",
-   "lead": "La Talent Agency Intention ha annunciato che cesserà le proprie attività entro il 31 marzo 2027. La decisione è legata al disturbo dell'adattamento diagnosticato al proprietario dell'agenzia, Kenichi Suzumura, doppiatore giapponese noto nell'industria dell'anime. Lo scioglimento comporterà la fine delle operazioni della società nei prossimi mesi. Lo riferisce Anime News Network.",
-   "more": [
-    "Le agenzie di doppiatori in Giappone gestiscono le carriere dei seiyuu, i professionisti che prestano la voce ai personaggi di anime, videogiochi e altri prodotti multimediali, un settore particolarmente strutturato nell'industria dell'intrattenimento giapponese."
-   ],
-   "fonti": [
-    {
-     "n": "Anime News Network",
-     "p": "US",
-     "c": "Houston",
-     "u": "https://www.animenewsnetwork.com/news/2026-10-13/talent-agency-intention-announces-dissolution-on-march-31-2027/.242785",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T10:00-04:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z2db5588e",
-   "sez": "ambiente",
-   "titolo": "I lupi tornano nella Šumava: almeno 43 esemplari nella regione di confine tra Cechia e Germania",
-   "orig": "Wolves reclaim Šumava: At least 43 now roam the Czech-German border region",
-   "lead": "Secondo un monitoraggio recente, almeno 43 lupi vivono ora nella regione boschiva della Šumava, al confine tra Repubblica Ceca e Germania, più di un secolo dopo la scomparsa della specie dall'area. Il ritorno dei predatori sta modificando gli equilibri delle foreste, le abitudini di caccia e la dieta della fauna selvatica locale. Lo riferisce Expats.cz.",
-   "more": [
-    "La Šumava è una vasta area boschiva e montuosa al confine tra Repubblica Ceca, Germania e Austria, nota per i suoi parchi naturali e la biodiversità, teatro negli ultimi decenni del ritorno di diverse specie selvatiche un tempo estinte localmente."
-   ],
-   "fonti": [
-    {
-     "n": "Expats.cz",
-     "p": "XX",
-     "c": "Praga",
-     "u": "https://www.expats.cz/czech-news/article/wolves-reclaim-sumava-at-least-43-now-roam-the-czech-german-border-region",
-     "angolo": "",
-     "atlas": "Czechia",
-     "t": "2026-10-13T15:07+02:00"
     }
    ],
    "data": "13 ott",
@@ -12350,30 +12530,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "za74e7300",
-   "sez": "ingegneria",
-   "titolo": "La prima 'isola energetica' in mare aperto al mondo raggiunge una tappa fondamentale",
-   "orig": "World's First 'Energy Island' Open-Sea Power Hub Hits Key Milestone",
-   "lead": "Le aziende appaltatrici Jan de Nul e DEME Group hanno installato 23 enormi cassoni di cemento per formare il perimetro della Princess Elisabeth Island, un'isola energetica artificiale da 4,2 miliardi di dollari situata a circa 30 miglia dalla costa belga del Mare del Nord. Il progetto punta a raddoppiare i 2,3 gigawatt di capacità eolica offshore del Belgio e a collegarsi con la Germania, con la possibilità di estendersi anche al Regno Unito. Lo riferisce Engineering News-Record.",
-   "more": [
-    "Le isole energetiche artificiali sono infrastrutture progettate per raccogliere e distribuire l'energia prodotta da parchi eolici offshore, fungendo da snodo per collegare le reti elettriche di più Paesi attraverso cavi sottomarini."
-   ],
-   "fonti": [
-    {
-     "n": "Engineering News-Record",
-     "p": "US",
-     "c": "Stati Uniti",
-     "u": "https://www.enr.com/articles/63892-worlds-first-energy-island-open-sea-power-hub-hits-key-milestone",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T11:00-04:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z09b353b6",
    "sez": "musica",
    "titolo": "Sammy Hagar festeggia 79 anni con una festa stellare e spera in una 'riunificazione' dei Van Halen",
@@ -12391,30 +12547,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T14:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zd0ce609b",
-   "sez": "tech",
-   "titolo": "World model, la scommessa europea di Presage per prevedere i guasti del cloud",
-   "orig": "World model, la scommessa europea di Presage: prevedere i guasti del cloud prima che accadano",
-   "lead": "La startup parigina Presage, guidata dall'ex Meta Tony Tung, sta sviluppando un modello predittivo (world model) in collaborazione con l'azienda Scaleway, con l'obiettivo di prevedere i guasti dei data center prima che si verifichino. L'orizzonte di lungo periodo del progetto è la creazione di data center capaci di gestirsi autonomamente, riducendo i rischi di interruzione del servizio cloud. Lo riferisce la Repubblica – Tecnologia.",
-   "more": [
-    "Un world model è un tipo di modello di intelligenza artificiale che cerca di simulare e prevedere il comportamento di sistemi complessi, in questo caso applicato all'infrastruttura dei data center per anticipare guasti tecnici prima che si manifestino."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica – Tecnologia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/tecnologia/2026/10/13/news/world_model_europea_presage_cloud-425645300/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T17:00+02:00"
     }
    ],
    "data": "13 ott",
@@ -12477,54 +12609,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zf534f094",
-   "sez": "economia",
-   "titolo": "Corea del Sud e Stati Uniti riaffermano la cooperazione economica bilaterale",
-   "orig": "S. Korea, U.S. finance chiefs reaffirm bilateral economic cooperation",
-   "lead": "I ministri delle finanze di Corea del Sud e Stati Uniti si sono incontrati a Seul per ribadire l'impegno comune verso la cooperazione economica bilaterale. L'incontro, avvenuto lunedì 13 ottobre, ha riguardato i rapporti commerciali e finanziari tra i due Paesi. Lo riferisce Yonhap.",
-   "more": [
-    "Corea del Sud e Stati Uniti mantengono da decenni stretti legami economici e di sicurezza, con scambi commerciali rilevanti in settori come tecnologia, automobili e semiconduttori, e un'alleanza strategica che si estende anche alle politiche finanziarie e monetarie."
-   ],
-   "fonti": [
-    {
-     "n": "Yonhap",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://en.yna.co.kr/view/AEN20261013011300320",
-     "angolo": "",
-     "atlas": "South Korea",
-     "t": "2026-10-13T23:45+09:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "za3286c2f",
-   "sez": "sport",
-   "titolo": "UNIFFAC U20: pareggio tra RD Congo e Gabon, i Leopardi cercano il riscatto contro il Congo",
-   "orig": "UNIFFAC U20 : la RDC et le Gabon se neutralisent, les Léopards en quête de rebond face au Congo",
-   "lead": "La nazionale Under 20 della Repubblica Democratica del Congo ha pareggiato 0-0 contro il Gabon lunedì 12 ottobre 2026, allo stadio di Olembé a Yaoundé, in Camerun. La partita contava per la prima giornata del girone B del torneo UNIFFAC Under 20, organizzato dall'Unione delle federazioni calcistiche dell'Africa centrale. I Leopardi ora puntano a riprendersi nella prossima gara contro il Congo. Lo riferisce Radio Okapi.",
-   "more": [
-    "L'UNIFFAC è l'organismo che riunisce le federazioni calcistiche dell'Africa centrale e organizza tornei giovanili come questo Under 20, piattaforma di crescita per i futuri talenti del calcio regionale."
-   ],
-   "fonti": [
-    {
-     "n": "Radio Okapi",
-     "p": "XX",
-     "c": "Kinshasa",
-     "u": "https://www.radiookapi.net/2026/10/13/actualite/sport/uniffac-u20-la-rdc-et-le-gabon-se-neutralisent-les-leopards-en-quete-de",
-     "angolo": "",
-     "atlas": "Dem. Rep. Congo",
-     "t": "2026-10-13T14:18+01:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "zecdfd41c",
    "sez": "salute",
    "titolo": "Cosa emerge dalla valutazione di AMIE, il chatbot diagnostico di Google",
@@ -12542,126 +12626,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T13:13+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z7bdcd267",
-   "sez": "cultura",
-   "titolo": "Dal Jumbo Floating Restaurant al neon: la nostalgia al centro di una mostra arte-tecnologia a Hong Kong",
-   "orig": "From Jumbo Floating Restaurant to neon, nostalgia aplenty at Hong Kong art-tech show",
-   "lead": "Una mostra d'arte e tecnologia a Hong Kong esplora la nostalgia per i luoghi simbolo scomparsi o in via di sparizione della città, a partire dal celebre Jumbo Floating Restaurant, il ristorante galleggiante affondato nel Mar Cinese Meridionale nel 2022. All'epoca il naufragio aveva suscitato il rimpianto degli utenti social per la perdita di un'icona culinaria, con proposte ironiche di trasformarlo in ristorante sottomarino o santuario per immersioni, mai realizzate. Lo riferisce South China Morning Post.",
-   "more": [
-    "Il Jumbo Floating Restaurant era un ristorante galleggiante di Hong Kong, diventato negli anni un'icona turistica e cinematografica della città, prima di affondare durante il rimorchio verso un'altra destinazione, lasciando dietro di sé un'eredità di nostalgia per il paesaggio urbano in trasformazione."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post – Cultura",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/lifestyle/arts/article/3370575/jumbo-floating-restaurant-neon-nostalgia-aplenty-hong-kong-art-tech-show?utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-13T13:15+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z9616ffd1",
-   "sez": "tech",
-   "titolo": "Scaleway completa la regione cloud di Milano, puntando su chip europei entro il 2027",
-   "orig": "Scaleway completa la regione di Milano. Cloud sovrano con chip europei nel 2027",
-   "lead": "Il provider cloud francese Scaleway ha completato la propria infrastruttura nella regione di Milano, aggiungendo due nuove zone, nell'ambito di un progetto di cloud sovrano basato su chip europei previsti per il 2027. Parallelamente, in Svezia è stato attivato il primo supercomputer con GPU AMD. I processori europei dell'azienda Vsora arriveranno entro l'estate del 2027. Lo riferisce la Repubblica.",
-   "more": [
-    "Scaleway è un fornitore di servizi cloud francese che punta a offrire infrastrutture europee alternative ai grandi operatori statunitensi, nell'ottica della cosiddetta sovranità digitale, con data center distribuiti in diverse città del continente."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica – Tecnologia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/tecnologia/2026/10/13/news/scaleway_completa_la_regione_di_milano_ma_il_cloud_sovrano_iliad_chip-425645069/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T17:08+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z925f96d8",
-   "sez": "spazio",
-   "titolo": "Sentinel-3C invia le prime immagini dell'Italia e della Terra dallo spazio",
-   "orig": "Sentinel-3C invia le prime immagini dell’Italia e della Terra dallo spazio: come funziona il satellite",
-   "lead": "Il satellite dell'Agenzia Spaziale Europea Sentinel-3C, lanciato circa un mese fa, ha inviato le sue prime immagini della Terra, tra cui una ripresa dell'Italia. Il satellite fa parte del programma Copernicus ed è progettato per monitorare oceani, terre emerse e ghiacci, misurando la temperatura delle superfici, il livello del mare e altri parametri ambientali. Lo riferisce Geopop.",
-   "more": [
-    "Copernicus è il programma di osservazione della Terra dell'Unione Europea e dell'ESA, che raccoglie dati satellitari su clima, ambiente e territorio per supportare politiche pubbliche e ricerca scientifica attraverso una costellazione di satelliti Sentinel dedicati a diversi compiti di monitoraggio."
-   ],
-   "fonti": [
-    {
-     "n": "Geopop",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.geopop.it/sentinel-3c-invia-le-prime-immagini-dellitalia-e-della-terra-dallo-spazio-come-funziona-il-satellite/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T14:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zc81bc9f7",
-   "sez": "economia",
-   "titolo": "Moldavia, il bilancio di 'IMM Garant' aumentato di 128 milioni di lei",
-   "orig": "The “IMM Garant” budget, increased by 128 million lei. New conditions for energy storage projects",
-   "lead": "Il bilancio dello schema di aiuti statali 'IMM Garant', gestito dall'Organizzazione per lo sviluppo dell'imprenditorialità in Moldavia, è stato aumentato di 128 milioni di lei. Contestualmente sono state introdotte nuove condizioni, tra cui una garanzia massima per i progetti di stoccaggio dell'energia. Lo riferisce IPN.",
-   "more": [
-    "'IMM Garant' è un programma statale moldavo che fornisce garanzie finanziarie alle piccole e medie imprese per facilitare l'accesso al credito, sostenendo investimenti e progetti economici nel Paese."
-   ],
-   "fonti": [
-    {
-     "n": "IPN (inglese)",
-     "p": "XX",
-     "c": "Chisinau",
-     "u": "https://ipn.md/en/the-imm-garant-budget-increased-by-128-million-lei-new-conditions-for-energy-storage-projects/",
-     "angolo": "",
-     "atlas": "Moldova",
-     "t": "2026-10-13T14:42+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zf6ab1285",
-   "sez": "economia",
-   "titolo": "Gli economisti: i costi di finanziamento restano troppo bassi per frenare l'inflazione",
-   "orig": "Borrowing costs still too low to cool inflation, economists say in survey",
-   "lead": "Secondo un sondaggio condotto da Wolters Kluwer tra economisti, i costi di indebitamento sono ancora troppo contenuti per raffreddare l'inflazione. Gli esperti prevedono che la spesa delle imprese crescerà a un tasso annuo del 12,6% quest'anno, per poi rallentare al 6,2% nel 2027. Lo riferisce Construction Dive.",
-   "more": [
-    "I costi di indebitamento, cioè i tassi d'interesse applicati a prestiti e finanziamenti, influenzano le decisioni di investimento delle imprese: quando restano bassi rispetto all'inflazione, possono alimentare una spesa eccessiva e rendere più difficile il controllo dei prezzi."
-   ],
-   "fonti": [
-    {
-     "n": "Construction Dive",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.constructiondive.com/news/borrowing-costs-low-cool-inflation-economists-say-survey-GDP-economy-ai/832831/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T09:38-04:00"
     }
    ],
    "data": "13 ott",
@@ -12693,30 +12657,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z49d33b1a",
-   "sez": "sport",
-   "titolo": "Il presidente della federcestistica cinese avverte: squadra nazionale e campionato a un momento critico",
-   "orig": "China basketball chief Guo warns national team, domestic league entering critical time",
-   "lead": "Guo Zhenming, presidente della Chinese Basketball Association, ha dichiarato lunedì pomeriggio che la nazionale cinese di basket attraversa difficoltà e che il campionato interno ha raggiunto un momento cruciale per migliorare gli standard del Paese. Parlando alla conferenza stampa di lancio della stagione, Guo ha attribuito la responsabilità principale alla competizione nazionale, definendo la pallacanestro cinese a un 'punto critico di risalita'. Lo riferisce South China Morning Post.",
-   "more": [
-    "La Chinese Basketball Association è l'organo che governa il basket professionistico in Cina, incluso il campionato nazionale CBA, considerato cruciale per lo sviluppo dei talenti destinati alla nazionale."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post – Sport",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/sport/basketball/article/3370752/china-basketball-chief-guo-warns-national-team-domestic-league-entering-critical-time?utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-13T14:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z436267cd",
    "sez": "tech",
    "titolo": "Un disastro informatico annunciato: l'ombudsman critica il caos del software dei servizi sociali zurighesi",
@@ -12741,30 +12681,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zea4c2fe7",
-   "sez": "ambiente",
-   "titolo": "S'Ozzastru, l'olivastro di 4000 anni in Sardegna è l'albero più antico d'Italia",
-   "orig": "L’albero più antico d’Italia è S’Ozzastru in Sardegna: l’olivastro millenario di 14 m ha 4000 anni",
-   "lead": "S'Ozzastru è un olivastro millenario che si trova a Luras, in località Santu Baltolu di Carana, in Sardegna, la cui età è stimata tra i 3000 e i 4000 anni. Alto circa 14 metri e con una chioma di 600 metri quadrati, risale all'Età del Bronzo ed è considerato uno degli alberi più antichi d'Italia e tra i più antichi d'Europa. Lo riferisce Geopop.",
-   "more": [
-    "L'olivastro è la forma selvatica dell'olivo, pianta tipica del bacino mediterraneo nota per la sua straordinaria longevità; in Sardegna si trovano numerosi esemplari plurimillenari che testimoniano la storia botanica e culturale dell'isola."
-   ],
-   "fonti": [
-    {
-     "n": "Geopop",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.geopop.it/lalbero-piu-antico-ditalia-e-sozzastru-in-sardegna-lolivastro-millenario-di-14-m-ha-4000-anni/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T15:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z1d4eae13",
    "sez": "manga",
    "titolo": "Il film di 'Kusuriya no Hitorigoto' svela nuovo cast e trailer dei personaggi",
@@ -12782,30 +12698,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T07:13-07:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z86adf2f4",
-   "sez": "ingegneria",
-   "titolo": "Northrop Grumman e l'Aeronautica militare USA avviano un'espansione da 4,5 miliardi di dollari",
-   "orig": "Northrop Grumman, Air Force start on $4.5B expansion",
-   "lead": "Con fondi provenienti dal cosiddetto 'One Big Beautiful Bill', Northrop Grumman e l'Air Force statunitense hanno avviato un'espansione in California del valore di 4,5 miliardi di dollari, che aggiungerà oltre un milione di piedi quadrati di spazio produttivo destinato alla costruzione dei bombardieri B-21 Raider. Lo riferisce Construction Dive.",
-   "more": [
-    "Il B-21 Raider è il nuovo bombardiere strategico statunitense di nuova generazione, progettato da Northrop Grumman per sostituire velivoli più datati nell'arsenale dell'aeronautica militare americana."
-   ],
-   "fonti": [
-    {
-     "n": "Construction Dive",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.constructiondive.com/news/northrop-grumman-air-force-expansion-plant-42/832833/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T09:24-04:00"
     }
    ],
    "data": "13 ott",
@@ -12854,78 +12746,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T14:48+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zb3d4bcbf",
-   "sez": "manga",
-   "titolo": "Pokémon conferma la prima collaborazione ufficiale con le cuffie Beats dopo la fuga di notizie sull'edizione Pikachu",
-   "orig": "Pokémon Officially Confirms First-Ever Beats Pill Crossover After Pikachu Edition Leak",
-   "lead": "Pokémon ha confermato ufficialmente la prima versione a marchio del franchise di un diffuso modello di speaker Beats, dopo che era trapelata online un'edizione dedicata a Pikachu. L'annuncio soddisfa sia i collezionisti di Pokémon sia gli appassionati di audio. Lo riferisce CBR.",
-   "more": [
-    "Pokémon è uno dei franchise multimediali giapponesi più diffusi al mondo, nato come videogioco e esteso ad anime, carte collezionabili e numerosi prodotti in licenza; Beats è un marchio di cuffie e speaker di proprietà di Apple."
-   ],
-   "fonti": [
-    {
-     "n": "CBR – Anime",
-     "p": "US",
-     "c": "Los Angeles",
-     "u": "https://www.cbr.com/pokemon-beats-pill-first-crossover-confirm/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T15:20+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z4b8eb363",
-   "sez": "economia",
-   "titolo": "Il governo italiano potrà spendere 29 miliardi in più per energia e difesa, ma non spiega come",
-   "orig": "Il governo potrà spendere 29 miliardi in più per energia e difesa, ma non dice come",
-   "lead": "Il governo italiano ha ottenuto la possibilità di aumentare la spesa pubblica di 29 miliardi di euro destinati a energia e difesa, attraverso lo strumento dello scostamento di bilancio. Rispetto al passato, questa volta la motivazione fornita è stata spiegata in modo molto vago. Lo riferisce Il Post.",
-   "more": [
-    "Lo scostamento di bilancio è una procedura che consente al governo di sforare temporaneamente i limiti di deficit concordati, con l'autorizzazione del Parlamento, per finanziare spese straordinarie non previste nei conti pubblici ordinari."
-   ],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/13/scostamento-bilancio-giorgetti-clausola-salvaguardia-energia-difesa/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T15:20+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z92bd3f10",
-   "sez": "cultura",
-   "titolo": "Paul McCartney riunisce 61 artisti per un'opera a favore di War Child",
-   "orig": "Paul McCartney unites 61 artists to create original work in aid of War Child",
-   "lead": "Paul McCartney ha coinvolto 61 artisti visivi, tra cui Genieve Figgis, Alvaro Barrington, Joshua Donkor, Sanya Kantarovsky, Aleah Chapin, Anne Rothenstein e George Underwood, chiamati a creare opere ispirate ai versi della sua canzone 'Band on the Run' per raccogliere fondi a favore di War Child, l'organizzazione benefica specializzata nell'assistenza ai bambini colpiti dai conflitti. Lo riferisce Wallpaper*.",
-   "more": [
-    "War Child è un'organizzazione benefica internazionale che si occupa di proteggere e sostenere i bambini nelle zone di conflitto, offrendo assistenza educativa, psicologica e di protezione nei contesti di guerra."
-   ],
-   "fonti": [
-    {
-     "n": "Wallpaper*",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.wallpaper.com/art/paul-mccartney-artist-warchild-auction",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T14:59+00:00"
     }
    ],
    "data": "13 ott",
@@ -15654,30 +15474,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zea1056db",
-   "sez": "mondo",
-   "titolo": "Sondaggio: la maggioranza degli americani pensa che Trump tragga profitto dalla carica di presidente",
-   "orig": "Anketa: Većina Amerikanaca misli da Tramp profitira koristeći funkciju predsednika",
-   "lead": "Secondo un sondaggio citato da N1 Serbia, la maggior parte degli statunitensi ritiene che Donald Trump stia traendo profitto dalla propria carica di presidente in modo non etico o illegale, e che sia più concentrato sull'arricchimento personale che sugli interessi del Paese.",
-   "more": [
-    "Fin dal suo ritorno alla Casa Bianca, Donald Trump è stato oggetto di critiche per i suoi interessi economici personali, considerati da più osservatori in potenziale conflitto con il ruolo istituzionale di presidente degli Stati Uniti."
-   ],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/vesti/anketa-vecina-amerikanaca-misli-da-tramp-profitira-koristeci-funkciju-predsednika/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-13T14:36+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:56",
-   "uscita": "13"
-  },
-  {
    "id": "zd0cb12fc",
    "sez": "mondo",
    "titolo": "Un eurodeputato chiede di valutare la sospensione o l'espulsione dell'SNS dal PPE",
@@ -16932,30 +16728,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z160253cb",
-   "sez": "italia",
-   "titolo": "La Camera approva la risoluzione sullo scostamento di bilancio",
-   "orig": "Ok della Camera alla risoluzione sullo scostamento, 219 con sì e 110 no",
-   "lead": "La Camera dei Deputati ha approvato con 219 voti favorevoli e 110 contrari la risoluzione di maggioranza sullo scostamento di bilancio. Il ministro dell'Economia ha parlato di «nuvoloni all'orizzonte» ma ha ribadito l'intenzione di proseguire sulla via del consolidamento dei conti pubblici, definendo lo scostamento «un passo consapevole» rispetto alla linea di prudenza finora seguita. Lo riferisce ANSA.",
-   "more": [
-    "Lo scostamento di bilancio è una procedura con cui il governo chiede al Parlamento l'autorizzazione a sforare temporaneamente gli obiettivi di deficit previsti, per finanziare interventi straordinari. Richiede l'approvazione a maggioranza assoluta sia alla Camera sia al Senato."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/13/giorgetti-alla-camera-nuvoloni-allorizzonte-proseguiamo-sul-consolidamento_87a99904-92d1-4218-8a51-bf746e9d2916.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T14:07+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
    "id": "zdcc738c4",
    "sez": "italia",
    "titolo": "Via libera di Camera e Senato al documento di finanza pubblica e allo scostamento",
@@ -17202,6 +16974,15 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-13T13:21+02:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/istat-in-25-anni-prezzi-cresciuti-63-838b7a50-3432-41db-bff3-45a88c89574e.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T13:35+00:00"
     }
    ],
    "data": "13 ott",
@@ -17282,52 +17063,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-13T20:31+08:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
-   "id": "z6cadd440",
-   "sez": "spazio",
-   "titolo": "Nanostrutture d'oro per studiare la chiralità e cercare tracce di vita",
-   "orig": "Tiny Gold Nanogaps Could Crack the Chirality Puzzle",
-   "lead": "Secondo Universe Today, minuscole intercapedini di nanoparticelle d'oro potrebbero aiutare a distinguere la chiralità delle molecole organiche nella ricerca di biosegnali nel sistema solare. Gli amminoacidi, componenti fondamentali delle proteine, possono essere «destrorsi» o «sinistrorsi»: i processi non biologici producono miscele equilibrate dei due tipi, mentre la vita per come la conosciamo usa quasi esclusivamente amminoacidi sinistrorsi, per cui uno squilibrio osservato altrove indicherebbe la presenza di processi biologici.",
-   "more": [
-    "La chiralità è la proprietà di una molecola di esistere in due forme speculari non sovrapponibili, come le mani destra e sinistra. Nella ricerca di vita extraterrestre, la presenza di uno squilibrio tra le due forme in campioni analizzati è considerata un possibile indizio di processi biologici."
-   ],
-   "fonti": [
-    {
-     "n": "Universe Today",
-     "p": "XX",
-     "c": "Vancouver",
-     "u": "https://www.universetoday.com/articles/tiny-gold-nanogaps-could-crack-the-chirality-puzzle",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-13T12:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
-   "id": "z88d3d46f",
-   "sez": "viaggi",
-   "titolo": "Il borgo medievale sul lago di Garda custodito da tremila abitanti",
-   "orig": "3000 persone custodiscono ancora oggi il piccolo gioiello del Veronese sulle sponde di un lago d’autore",
-   "lead": "Tra antiche mura e panorami sul lago più grande d'Italia, Turisti per Caso racconta un borgo medievale in provincia di Verona, oggi abitato da circa 3.000 persone, che custodisce intatto il suo patrimonio storico sulle sponde del lago.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Turisti per Caso",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://turistipercaso.it/destinazioni/3000-persone-custodiscono-ancora-oggi-il-piccolo-gioiello-del-veronese-sulle-sonde-di-un-lago-dautore.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T12:00+00:00"
     }
    ],
    "data": "13 ott",
@@ -17534,54 +17269,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z7dd8d661",
-   "sez": "viaggi",
-   "titolo": "Un viaggio tra le montagne armene, tra eredità sovietica e turismo urbex",
-   "orig": "L’archiviaggio. Tra le montagne armene",
-   "lead": "Il Giornale dell'Architettura racconta un viaggio in Armenia, da Erevan alle montagne circostanti, attraverso l'eredità pesante del modernismo sovietico e le infrastrutture abbandonate che oggi attirano il turismo urbex, tra città, monasteri, confini e campi agricoli che offrono prospettive e forme inedite.",
-   "more": [
-    "L'urbex, abbreviazione di «urban exploration», è la pratica di esplorare luoghi abbandonati o in disuso, come fabbriche, edifici o infrastrutture dismesse, spesso con finalità fotografiche o documentarie, diventata negli ultimi anni anche una forma di turismo di nicchia."
-   ],
-   "fonti": [
-    {
-     "n": "Il Giornale dell'Architettura",
-     "p": "IT",
-     "c": "Torino",
-     "u": "https://ilgiornaledellarchitettura.com/2026/10/13/larchiviaggio-tra-le-montagne-armene/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T12:05+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
-   "id": "z45cc39af",
-   "sez": "ambiente",
-   "titolo": "Svelato il meccanismo che permette al pungiglione delle api di continuare a pompare veleno",
-   "orig": "Come funziona il pungiglione delle api",
-   "lead": "Secondo Focus, era già noto che il pungiglione delle api continua a rilasciare veleno anche dopo essersi staccato dall'insetto; ora i ricercatori ne hanno individuato il meccanismo preciso.",
-   "more": [
-    "Le api da miele perdono il pungiglione dopo aver punto, un meccanismo legato alla struttura seghettata dell'aculeo che resta ancorato alla pelle della vittima, causando la morte dell'insetto ma permettendo al veleno di continuare a essere iniettato."
-   ],
-   "fonti": [
-    {
-     "n": "Focus",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.focus.it/ambiente/animali/il-pungiglione-delle-api-pompa-veleno-anche-dopo-il-distacco-abbiamo-scoperto-come-fa",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T14:00+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
    "id": "zb5bb6c03",
    "sez": "musica",
    "titolo": "Un nuovo documentario racconta la storia dei fratelli fondatori dei Jackson 5",
@@ -17623,30 +17310,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T08:40-04:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
-   "id": "zf2da02c0",
-   "sez": "mondo",
-   "titolo": "PP e UPN rinnovano l'alleanza in Navarra per contendere al PSOE la vittoria del 29 novembre",
-   "orig": "PP y UPN recuperan su alianza en Navarra para disputar al PSOE la victoria el 29N y eliminar su vía de incorporación a Euskadi",
-   "lead": "I partiti Partido Popular e Unión del Pueblo Navarro hanno rinnovato la loro alleanza elettorale in Navarra in vista delle elezioni del 29 novembre, con l'obiettivo di contrastare la vittoria del PSOE nella regione spagnola. L'accordo tra le due formazioni prevede anche l'impegno a eliminare la via eccezionale prevista dalla Costituzione spagnola per un'eventuale annessione della Navarra ai Paesi Baschi (Euskadi). La mossa segna un ritorno a un'intesa politica già sperimentata in passato tra i due partiti nella regione. Lo riferisce El Mundo.",
-   "more": [
-    "La Navarra è una comunità autonoma della Spagna settentrionale con una storia politica distinta rispetto al vicino Paese Basco, con cui condivide legami culturali e linguistici ma mantiene un proprio statuto. La Costituzione spagnola prevede una clausola speciale che regola un'eventuale sua incorporazione ai Paesi Baschi."
-   ],
-   "fonti": [
-    {
-     "n": "El Mundo",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6ace18a621efa0c63d8b45a5.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-13T14:25+02:00"
     }
    ],
    "data": "13 ott",
@@ -17746,29 +17409,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
     }
    ],
    "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
-   "id": "z325c3c1a",
-   "sez": "italia",
-   "titolo": "Papa al Gemelli: no-fly zone, personale anti-drone, decimo piano isolato e procedure anti-hacker",
-   "orig": "Papa al Gemelli: no-fly zone, personale per intercettare droni, decimo piano isolato e procedure anti-hacker",
-   "lead": "Attorno al ricovero di Papa Leone XIV presso il policlinico Agostino Gemelli di Roma è stato predisposto un piano di sicurezza a 360 gradi. Le misure includono l'istituzione di una no-fly zone, personale dedicato a intercettare eventuali droni, l'isolamento del decimo piano della struttura e procedure specifiche anti-hacker per proteggere i sistemi informatici. Fin dalle prime ore della giornata l'area intorno all'ospedale è stata interessata da un dispositivo di sicurezza rafforzato. Lo riferisce Il Messaggero.",
-   "more": [
-    "Il policlinico Agostino Gemelli è uno dei principali ospedali di Roma, storicamente legato alla cura dei pontefici per la sua vicinanza al Vaticano e per l'elevato livello delle sue strutture sanitarie."
-   ],
-   "fonti": [
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/vaticano/papa_gemelli_no_fly_zone_droni_decimo_piano_hacker_cosa_sappiamo-9822270.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
    "ora": "14:52",
    "uscita": "13"
   },
@@ -18023,30 +17663,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Azerbaijan",
      "t": "2026-10-13T12:34+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
-   "id": "z57de8292",
-   "sez": "sport",
-   "titolo": "Un club della Hong Kong Premier League sospende un giocatore per un messaggio social a sfondo razziale",
-   "orig": "Hong Kong Premier League club suspend player over racially sensitive social media message",
-   "lead": "Il club calcistico Tai Po ha sospeso a tempo indeterminato dagli allenamenti e dalle partite della prima squadra il centrocampista brasiliano Gabriel Mesquita, dopo che il giocatore ha pubblicato un messaggio sui social media considerato sensibile dal punto di vista razziale. Il provvedimento, che include anche un richiamo scritto formale, è arrivato dopo che Mesquita ha reagito con durezza a un commento su Threads che faceva riferimento al termine \"Gweilo\" in risposta a un post del giocatore sulla sua carta d'identità di Hong Kong. Lo riferisce South China Morning Post.",
-   "more": [
-    "La Hong Kong Premier League è il massimo livello del campionato calcistico di Hong Kong. Il termine \"Gweilo\" è un'espressione cantonese talvolta usata in riferimento a persone di origine occidentale, il cui uso può essere percepito come controverso a seconda del contesto."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post – Sport",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/sport/football/article/3370753/hong-kong-premier-league-club-suspend-player-over-racially-sensitive-social-media-message?utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-13T12:00+00:00"
     }
    ],
    "data": "13 ott",
@@ -18310,28 +17926,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-13T14:32+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "14:52",
-   "uscita": "13"
-  },
-  {
-   "id": "z50f7871f",
-   "sez": "mondo",
-   "titolo": "Gambia, deputato critica la presidenza per spesa eccessiva sul tour istituzionale",
-   "orig": "Kiang West MP slams presidency over D75M spending against D50M budget for tour",
-   "lead": "Il deputato di Kiang West, Lamin Ceesay, ha criticato la presidenza gambiana per una spesa di 75 milioni di dalasi registrata a luglio 2026, a fronte di un budget approvato di 50 milioni per il tour di incontro con la popolazione. L'intervento è arrivato dopo la presentazione del rapporto consolidato della Commissione Finanze e Conti Pubblici sulle stime di entrate e spese per il 2027, mentre il parlamentare ha sottolineato le difficoltà di ospedali a corto di posti letto e di studenti che faticano a raggiungere le lezioni. Lo riferisce The Point.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Point",
-     "p": "XX",
-     "c": "Banjul",
-     "u": "https://thepoint.gm/africa/gambia/headlines/kiang-west-mp-slams-presidency-over-d75m-spending-against-d50m-budget-for-tour",
-     "angolo": "",
-     "atlas": "Gambia",
-     "t": "2026-10-13T12:35+00:00"
     }
    ],
    "data": "13 ott",
@@ -22402,7 +21996,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   },
   {
    "id": "zd2ce3bb1",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Il re di Spagna a Ceuta per una visita ad alta tensione diplomatica",
    "orig": "Le roi d'Espagne à Ceuta pour une visite sous haute tension diplomatique",
    "lead": "Il re di Spagna Felipe VI compie una visita ufficiale nella città autonoma di Ceuta, un appuntamento diplomaticamente delicato e insolito. Il viaggio arriva a breve distanza dal recente afflusso massiccio di migranti nell'enclave nordafricana spagnola, la cui sovranità è storicamente rivendicata dal vicino Marocco. Lo riferisce France 24.",
@@ -22717,39 +22311,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-13T11:07+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:57",
-   "uscita": "13"
-  },
-  {
-   "id": "z23dc7b1d",
-   "sez": "mondo",
-   "titolo": "Podemos risponde all'offerta del Frente Amplio e lo invita a unirsi alla sua alleanza con ERC",
-   "orig": "Podemos da la vuelta a la oferta del Frente Amplio y lo invita a “sumarse” a su alianza con ERC",
-   "lead": "Il partito spagnolo Podemos ha replicato alla proposta del Frente Amplio, invitando la forza politica a confluire nella propria alleanza già stretta con la Esquerra Republicana de Catalunya. Dal movimento dei Comuns viene intanto ribadito l'impegno nel percorrere ogni strada utile per arrivare a una sintesi e a un'intesa condivisa tra le parti coinvolte nel dialogo politico.",
-   "more": [
-    "Podemos e ERC sono due importanti formazioni della sinistra e dell'area indipendentista e progressista nello scenario politico spagnolo, storicamente impegnate in trattative e coalizioni per ampliare la propria rappresentanza istituzionale e coordinare le strategie parlamentari."
-   ],
-   "fonti": [
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/espana/elecciones-generales/2026-10-13/montero-confirma-conversaciones-con-el-frente-amplio-lo-importante-es-llegar-a-buen-puerto.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-13T10:16+00:00"
-    },
-    {
-     "n": "La Tercera",
-     "p": "XX",
-     "c": "Santiago",
-     "u": "https://www.latercera.com/nacional/noticia/anp-se-suma-a-coalicion-spur-alianza-internacional-busca-proteger-los-contenidos-periodisticos-frente-a-la-ia/",
-     "angolo": "",
-     "atlas": "Chile",
-     "t": "2026-10-13T11:00+00:00"
     }
    ],
    "data": "13 ott",
@@ -23492,30 +23053,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zff1529fc",
-   "sez": "ambiente",
-   "titolo": "Il ripopolamento di uccelli marini come strategia naturale per proteggere le barriere coralline",
-   "orig": "One way to protect coral reefs? Bring back seabirds",
-   "lead": "Gli scienziati attivi su una remota isola dell'Oceano Pacifico hanno individuato una soluzione insolita ma efficace per la salvaguardia delle barriere coralline minacciate dai cambiamenti climatici globali: il ritorno e la protezione delle colonie di uccelli marini. La presenza degli uccelli contribuisce a fertilizzare l'ecosistema marino circostante attraverso i nutrienti naturali.",
-   "more": [
-    "Le barriere coralline sono ecosistemi marini di fondamentale importanza ecologica, gravemente minacciati dall'innalzamento delle temperature oceaniche, dall'acidificazione delle acque e dall'inquinamento costiero."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T05:00-04:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:57",
-   "uscita": "13"
-  },
-  {
    "id": "z08f1a5ba",
    "sez": "mondo",
    "titolo": "Candidati indipendenti nelle corse al Congresso: la sfida per offrire un'alternativa al bipartitismo",
@@ -23530,30 +23067,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "p": "US",
      "c": "Washington",
      "u": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T05:00-04:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:57",
-   "uscita": "13"
-  },
-  {
-   "id": "z04dace44",
-   "sez": "mondo",
-   "titolo": "Elezioni di midterm negli Stati Uniti: tra sondaggi e voti già espressi, l'importanza di leggere i dati",
-   "orig": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-   "lead": "Con il giorno delle elezioni ormai imminente e milioni di elettori che hanno già espresso il proprio voto attraverso le procedure anticipate, la diffusione dei sondaggi d'opinione si fa capillare. Gli esperti ricordano tuttavia che le rilevazioni demoscopiche costituiscono soltanto un'istantanea dell'elettorato in un dato momento e non rappresentano una previsione infallibile del risultato finale.",
-   "more": [
-    "Le elezioni di midterm negli Stati Uniti si tengono a metà del mandato presidenziale e servono a rinnovare l'intero Congresso federale, rappresentando un cruciale test di gradimento per l'amministrazione in carica."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T05:00-04:00"
@@ -24350,55 +23863,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z873fe2a9",
-   "sez": "adolescenti",
-   "titolo": "Recensione di Forever Is Now: lo studio politico sull'ex leader dei Verdi irlandesi ricorda The Thick of It ma con una morale",
-   "orig": "Forever Is Now review – political study of former Irish Green leader is like The Thick of It but with morals",
-   "lead": "Un nuovo documentario offre un ritratto favorevole e ravvicinato di Eamon Ryan, ex leader dei Verdi e ministro dell'ambiente durante gli ultimi diciotto mesi nel governo di coalizione irlandese. Il film ne evidenzia il profilo laborioso, simpatico e idealista, richiamando lo stile della satira politica The Thick of It ma privo di cinismo. Lo riferisce The Guardian – Cinema.",
-   "more": [
-    "Il governo di coalizione in Irlanda riunisce forze politiche diverse per la gestione dell'esecutivo nazionale, guidando le politiche ambientali e statali del Paese."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian – Cinema",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/film/2026/oct/13/forever-is-now-review-documentary-eamon-ryan",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T10:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13",
-   "sub": "cinema"
-  },
-  {
-   "id": "z97606b73",
-   "sez": "musica",
-   "titolo": "Mick Gordon di ‘Doom’ conferma i piani per un tour mondiale di colonne sonore della durata di due anni",
-   "orig": "‘Doom’s Mick Gordon confirms plans for two-year world soundtrack tour",
-   "lead": "Il compositore Mick Gordon ha annunciato l'intenzione di intraprendere un tour mondiale della durata di due anni incentrato sulle sue colonne sonore, con una tappa già fissata per la prossima estate al RADAR Festival di Manchester. Lo riferisce NME.",
-   "more": [
-    "Mick Gordon è un compositore australiano noto a livello internazionale per la creazione di colonne sonore e musiche per videogiochi di grande successo come la serie Doom."
-   ],
-   "fonti": [
-    {
-     "n": "NME",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.nme.com/news/gaming-news/doom-mick-gordon-two-year-world-soundtrack-tour-dates-3973035?utm_source=rss&utm_medium=rss&utm_campaign=doom-mick-gordon-two-year-world-soundtrack-tour-dates",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T11:17+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
    "id": "zc28dbd9c",
    "sez": "salute",
    "titolo": "Opinione: l'epidemia di impotenza appresa tra i medici",
@@ -24416,54 +23880,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T08:30+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
-   "id": "z9601cb1c",
-   "sez": "cultura",
-   "titolo": "Un raro dipinto di Van Gogh da 180 milioni di dollari in mostra a Hong Kong prima dell'asta di New York",
-   "orig": "Rarely seen US$180 million Van Gogh on show in Hong Kong ahead of New York auction",
-   "lead": "Una collezione di capolavori impressionisti e post-impressionisti, tra cui un paesaggio di Vincent van Gogh rimasto nascosto al pubblico per oltre cinquantacinque anni, ha fatto il suo debutto globale a Hong Kong. La raccolta, appartenuta all'imprenditore argentino Carlos Pedro Blaquier, sarà esposta fino al quindici ottobre prima di essere messa all'asta da Sotheby's a New York. Lo riferisce South China Morning Post – Cultura.",
-   "more": [
-    "Le aste d'arte internazionale rappresentano il mercato di riferimento per la compravendita di opere di altissimo valore storico e collezionistico tra i grandi collezionisti globali."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post – Cultura",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/lifestyle/arts/article/3370705/rarely-seen-us180-million-van-gogh-show-hong-kong-ahead-new-york-auction?utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-13T09:16+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
-   "id": "z187dfc7a",
-   "sez": "tech",
-   "titolo": "Il progetto segreto 'Anke' da mille miliardi di yuan della Cina: prepararsi a uno scontro con gli Stati Uniti?",
-   "orig": "China's Trillion-Yuan Secret 'Anke' Project: Preparing for a Showdown With the US?",
-   "lead": "Alcuni rapporti rivelano una vasta campagna promossa dalla Cina per sostituire la tecnologia straniera nei settori industriali critici, con l'obiettivo di ridurre la dipendenza dai fornitori occidentali in un contesto di crescenti tensioni geopolitiche. Lo riferisce Japan Forward.",
-   "more": [
-    "La competizione tecnologica globale vede contrapposte le principali superpotenze nell'indipendenza di filiera per semiconduttori, software e infrastrutture critiche."
-   ],
-   "fonti": [
-    {
-     "n": "Japan Forward",
-     "p": "XX",
-     "c": "Tokyo",
-     "u": "https://japan-forward.com/china-trillion-yuan-anke-project-preparing-future-us-cutoff/",
-     "angolo": "",
-     "atlas": "Japan",
-     "t": "2026-10-13T09:31+00:00"
     }
    ],
    "data": "13 ott",
@@ -24512,55 +23928,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T06:51-04:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
-   "id": "z3053da81",
-   "sez": "adolescenti",
-   "titolo": "The Social Reckoning non è così arrabbiato o potente come dovrebbe essere un dramma su Facebook",
-   "orig": "The Social Reckoning isn’t as angry or as potent as a Facebook drama should be",
-   "lead": "Il tentativo di Aaron Sorkin di replicare il successo cinematografico di The Social Network viene descritto come uno sguardo incompleto e datato su un universo digitale che necessiterebbe di un'analisi più tagliente. La pellicola non riesce a eguagliare la forza polemica del film diretto da David Fincher nel 2010. Lo riferisce The Guardian – Cinema.",
-   "more": [
-    "Le produzioni cinematografiche dedicate alla storia dei social media cercano di raccontare l'impatto culturale e tecnologico delle grandi piattaforme digitali sulla società contemporanea."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian – Cinema",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/film/2026/oct/13/the-social-reckoning-aaron-sorkin",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T09:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13",
-   "sub": "cinema"
-  },
-  {
-   "id": "zf82de8b4",
-   "sez": "musica",
-   "titolo": "‘Blue Planet 3’ avrà un tour orchestrale nel 2027",
-   "orig": "‘Blue Planet 3’ is getting a 2027 orchestral tour",
-   "lead": "La produzione televisiva naturalistica 'Blue Planet 3' sarà protagonista nel 2027 di un tour orchestrale dal vivo, che combinerà le musiche epiche composte da Hans Zimmer con proiezioni di filmati appositamente selezionati. Lo riferisce NME.",
-   "more": [
-    "I tour orchestrali dedicati alle grandi colonne sonore naturalistiche uniscono la musica sinfonica dal vivo alla divulgazione scientifica e ambientale."
-   ],
-   "fonti": [
-    {
-     "n": "NME",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.nme.com/news/tv/blue-planet-3-2027-orchestral-tour-hans-zimmer-tour-dates-tickets-3973020?utm_source=rss&utm_medium=rss&utm_campaign=blue-planet-3-2027-orchestral-tour-hans-zimmer-tour-dates-tickets",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T10:02+00:00"
     }
    ],
    "data": "13 ott",
@@ -25070,48 +24437,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z6248a644",
-   "sez": "salute",
-   "titolo": "Il Ministero della Salute di Timor Est e l'OMS discutono le funzioni essenziali della sanità pubblica",
-   "orig": "MS-OMS Diskute Funsaun Esensiál Saúde Públiku",
-   "lead": "Il Ministero della Salute di Timor Est, insieme all'Organizzazione Mondiale della Salute e ad altri partner internazionali, ha organizzato un incontro per discutere le funzioni essenziali legate alla sanità pubblica nel Paese. Durante la riunione, il vice ministro per il Rafforzamento Istituzionale, José dos Reis Magno, ha espresso profondo apprezzamento per il sostegno finanziario fornito dal governo della Repubblica Popolare Cinese e per l'assistenza tecnica garantita dall'OMS nello sviluppo delle attività sanitarie. Lo riferisce Timor Post.",
-   "more": [
-    "Le funzioni essenziali di sanità pubblica comprendono l'insieme delle azioni e dei servizi coordinati promossi dalle autorità statali e dalle organizzazioni internazionali per prevenire le malattie, prolungare la vita e tutelare la salute della popolazione."
-   ],
-   "fonti": [
-    {
-     "n": "Timor Post",
-     "p": "XX",
-     "c": "Dili",
-     "u": "https://timorpost.com/nasional/tp-68399/ms-oms-diskute-funsaun-esensial-saude-publiku/",
-     "angolo": "",
-     "atlas": "Timor-Leste",
-     "t": "2026-10-13T10:20+00:00"
-    },
-    {
-     "n": "Timor Post",
-     "p": "XX",
-     "c": "Dili",
-     "u": "https://timorpost.com/nasional/tp-68395/el-nino-komesa-invade-alerta-uza-maskara/",
-     "angolo": "",
-     "atlas": "Timor-Leste",
-     "t": "2026-10-13T08:30+00:00"
-    },
-    {
-     "n": "Timor Post",
-     "p": "XX",
-     "c": "Dili",
-     "u": "https://timorpost.com/nasional/tp-68402/oms-sei-haforsa-infraestrutura-kuidadu-pasiente-psikiatria/",
-     "angolo": "",
-     "atlas": "Timor-Leste",
-     "t": "2026-10-13T10:24+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
    "id": "ze8cea627",
    "sez": "economia",
    "titolo": "La Tanzania punta sulla qualità del tè, sulla valorizzazione del prodotto e sull'energia pulita",
@@ -25177,30 +24502,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Nigeria",
      "t": "2026-10-13T11:13+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
-   "id": "z1d47cd16",
-   "sez": "ingegneria",
-   "titolo": "HDR nomina Andy Yosten presidente del Building Engineering Services Group",
-   "orig": "HDR Names Andy Yosten President Of Building Engineering Services Group",
-   "lead": "La società internazionale HDR ha annunciato la nomina di Andy Yosten alla carica di presidente del proprio Building Engineering Services Group. Il neo presidente ha iniziato il suo percorso professionale all'interno dell'azienda nel 2005 come stagista nel settore dell'ingegneria meccanica, per poi essere assunto a tempo pieno nel 2007. Lo riferisce Construction Business News Middle East.",
-   "more": [
-    "Le società di ingegneria e consulenza globale gestiscono grandi progetti infrastrutturali e immobiliari attraverso team specializzati nella progettazione meccanica, elettrica e strutturale degli edifici."
-   ],
-   "fonti": [
-    {
-     "n": "Construction Business News Middle East",
-     "p": "XX",
-     "c": "Dubai",
-     "u": "https://www.cbnme.com/news/hdr-names-andy-yosten-president-of-building-engineering-services-group/",
-     "angolo": "",
-     "atlas": "United Arab Emirates",
-     "t": "2026-10-13T10:56+00:00"
     }
    ],
    "data": "13 ott",
@@ -25446,30 +24747,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "United Arab Emirates",
      "t": "2026-10-13T09:06+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
-   "id": "zdd31d9fe",
-   "sez": "economia",
-   "titolo": "L'Autorità doganale della Siria spiega il decreto di modifica delle tariffe",
-   "orig": "Syria’s Customs Authority Explains Tariff Amendment Decree",
-   "lead": "Mazen Alloush, direttore del dipartimento delle Relazioni e della Cooperazione Internazionale presso l'Autorità generale siriana per i valichi di frontiera e le dogane, ha illustrato i contenuti e le motivazioni del recente decreto volto a modificare la struttura tariffaria doganale nel Paese. Lo riferisce Enab Baladi (inglese).",
-   "more": [
-    "Le riforme delle tariffe doganali nei Paesi sottoposti a transizioni economiche servono a regolare i flussi commerciali transfrontalieri e a gestire il gettito fiscale derivante dalle importazioni e dalle esportazioni."
-   ],
-   "fonti": [
-    {
-     "n": "Enab Baladi (inglese)",
-     "p": "XX",
-     "c": "Damasco",
-     "u": "https://english.enabbaladi.net/archives/2026/10/syrias-customs-authority-explains-tariff-amendment-decree/",
-     "angolo": "",
-     "atlas": "Syria",
-     "t": "2026-10-13T10:34+00:00"
     }
    ],
    "data": "13 ott",
@@ -25741,30 +25018,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zcd7a2b48",
-   "sez": "sport",
-   "titolo": "Scommesse sportive in Ecuador: la sfida di regolare un settore in forte crescita parallelamente al calcio",
-   "orig": "Pronósticos deportivos en Ecuador: el reto de regular un negocio que crece junto con el fútbol",
-   "lead": "Un recente studio stima che il settore delle scommesse sportive abbia generato un giro d'affari pari a 252 milioni di dollari in Ecuador nel corso del 2025. Esperti del settore analizzano le problematiche legate all'informalità del mercato e tracciano un parallelo con il modello normativo adottato in Brasile. Lo riferisce El Universo.",
-   "more": [
-    "La regolamentazione del mercato delle scommesse sportive rappresenta una priorità per molti governi latinoamericani, impegnati a tutuimare la trasparenza finanziaria, prevenire la ludopatia e garantire introiti fiscali adeguati."
-   ],
-   "fonti": [
-    {
-     "n": "El Universo",
-     "p": "XX",
-     "c": "Guayaquil",
-     "u": "https://eluniverso.com/deportes/futbol/apuestas-deportivas-en-ecuador-el-reto-de-regular-un-negocio-que-crece-junto-al-futbol-nota/",
-     "angolo": "",
-     "atlas": "Ecuador",
-     "t": "2026-10-13T11:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
    "id": "z68b1454e",
    "sez": "sport",
    "titolo": "Champions League: Carlos Baleba può approfittare dell'assenza di Mainoo per debuttare contro l'Atletico?",
@@ -25782,30 +25035,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Cameroon",
      "t": "2026-10-13T09:50+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
-   "id": "zbd27c04f",
-   "sez": "economia",
-   "titolo": "Primo Ministro: l'Egypt Forum 2026 discuterà di sussidi in contanti legati all'inflazione e di riforme della protezione sociale",
-   "orig": "PM: Egypt Forum 2026 to discuss inflation-linked cash subsidies, social protection reform",
-   "lead": "L'Egypt Forum 2026 affronterà le modalità per migliorare la transizione dai sussidi in natura al supporto finanziario diretto in denaro, includendo l'indicizzazione del valore dei sussidi alle variazioni dei prezzi e ai tassi di inflazione per preservare il potere d'acquisto dei beneficiari. Lo ha annunciato il Primo Ministro Mostafa Madbouly, sottolineando che le misure mirano a promuovere la giustizia sociale. Lo riferisce Egypt Independent.",
-   "more": [
-    "La riforma dei sistemi di sussidi statali rappresenta un nodo centrale per le economie in via di sviluppo, impegnate a ridurre la spesa pubblica improduttiva pur garantendo adeguate tutele alle fasce di popolazione a basso reddito colpite dall'inflazione."
-   ],
-   "fonti": [
-    {
-     "n": "Egypt Independent",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.egyptindependent.com/pm-egypt-forum-2026-to-discuss-inflation-linked-cash-subsidies-social-protection-reform/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-10-13T09:39+00:00"
     }
    ],
    "data": "13 ott",
@@ -26193,30 +25422,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zb5207063",
-   "sez": "economia",
-   "titolo": "Malesia, Zafrul conferma l'obiettivo del deficit al 3,3% del Pil",
-   "orig": "Budget 2027: Malaysia’s 3.3pc fiscal deficit target achievable, says Tengku Zafrul",
-   "lead": "Il governo malese ritiene sostenibile e alla portata del Paese il raggiungimento dell'obiettivo di riduzione del disavanzo fiscale fissato al 3,3% del prodotto interno lordo. A confermarlo è stato il ministro Tengku Zafrul durante una dichiarazione rilasciata a Kuala Lumpur in vista delle decisioni sulla legge di bilancio per i prossimi anni. Le autorità ritengono che le politiche di gestione delle finanze pubbliche consentiranno di mantenere gli impegni assunti senza pregiudicare la crescita dell'economia nazionale. Lo riferisce Malay Mail.",
-   "more": [
-    "Il disavanzo di bilancio misura la differenza tra le uscite e le entrate statali ed è calcolato in percentuale del prodotto interno lordo per valutarne la sostenibilità finanziaria."
-   ],
-   "fonti": [
-    {
-     "n": "Malay Mail",
-     "p": "XX",
-     "c": "Kuala Lumpur",
-     "u": "https://www.malaymail.com/news/malaysia/2026/10/13/budget-2027-malaysias-33pc-fiscal-deficit-target-achievable-says-tengku-zafrul/238974",
-     "angolo": "",
-     "atlas": "Malaysia",
-     "t": "2026-10-13T19:09+08:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:55",
-   "uscita": "13"
-  },
-  {
    "id": "z479ce362",
    "sez": "economia",
    "titolo": "Cipro, summit a Limassol: le banche tradizionali tra successo e nuove sfide fintech",
@@ -26469,39 +25674,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z50552ba2",
-   "sez": "mondo",
-   "titolo": "La Nobel Pillay: «Le sanzioni degli Stati Uniti alla Corte penale internazionale sono illegali»",
-   "orig": "La Nobel per la Pace Pillay: “Le sanzioni Usa alla Corte penale internazionale sono illegali”",
-   "lead": "In un'intervista, la giurista sudafricana e premio Nobel per la Pace Navanethem Pillay ha definito illegali le sanzioni imposte dagli Stati Uniti contro la Corte penale internazionale. La giurista ha sottolineato come la decisione statunitense sia giunta a ridosso dell'assegnazione del prestigioso riconoscimento, invitando l'Italia e l'intera Europa a ricordare che l'Unione europea stessa è stata insignita del Nobel per la Pace e ha il dovere di difendere questi principi, impegnandosi per fermare i conflitti prima del loro scoppio. Lo riferisce la Repubblica.",
-   "more": [
-    "La Corte penale internazionale dell'Aia è l'organo giudiziario permanente incaricato di perseguire i responsabili di crimini di guerra, genocidio e crimini contro l'umanità, operando sulla base dello Statuto di Roma sottoscritto da oltre centoventi Stati."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/13/news/navi_pillay_premio_nobel_pace_intervista_corte_penale_internazionale_sanzioni_usa_attacchi_israele-425644669/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T10:39+00:00"
-    },
-    {
-     "n": "Mail & Guardian",
-     "p": "XX",
-     "c": "Johannesburg",
-     "u": "https://mg.co.za/news/international/2026-10-13-pillay-urges-action-against-us-sanctions-on-icc/",
-     "angolo": "",
-     "atlas": "South Africa",
-     "t": "2026-10-13T14:10+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
    "id": "z8b94146a",
    "sez": "italia",
    "titolo": "Ex Ilva, proclamate altre 48 ore di sciopero in tutti gli stabilimenti del gruppo",
@@ -26519,30 +25691,15 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-13T13:01+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
-   "id": "z8b3f8d6e",
-   "sez": "economia",
-   "titolo": "Dpef alla Camera, Giorgetti: «Nuvole all'orizzonte ma andiamo avanti, possibile uscita dall'infrazione in primavera»",
-   "orig": "Giorgetti: nuvole a orizzonte, avanti",
-   "lead": "Intervenendo all'Aula della Camera dei deputati durante la discussione sul Documento programmatico di economia e finanza, il ministro dell'Economia Giancarlo Giorgetti ha tracciato il quadro dei conti pubblici italiani. Pur ammettendo la presenza di elementi di incertezza definiti nuvole all'orizzonte, l'esponente di governo ha ribadito la linea della determinazione per proseguire nell'azione economica, anticipando che in primavera potrebbe concretizzarsi l'uscita dell'Italia dalla procedura europea per disavanzo eccessivo. Lo riferisce Rai News.",
-   "more": [
-    "La procedura per disavanzo eccessivo è il meccanismo di sorveglianza fiscale dell'Unione europea attivato quando uno Stato membro supera i limiti sul deficit o sul debito pubblico stabiliti dalle regole del Patto di stabilità."
-   ],
-   "fonti": [
+    },
     {
      "n": "Rai News",
      "p": "IT",
      "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/giorgetti-nuvole-a-orizzonte-avanti--188ee9ac-5ac9-47c7-ace3-9f212d8f8b7b.html",
+     "u": "https://www.rainews.it/articoli/ultimora/ex-ilva-altre-48-ore-di-sciopero-c4f0c130-7d38-4059-bb2b-828105b8bed5.html",
      "angolo": "",
      "atlas": "Italy",
-     "t": "2026-10-13T09:30+00:00"
+     "t": "2026-10-13T13:10+00:00"
     }
    ],
    "data": "13 ott",
@@ -26915,29 +26072,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "ze05f2657",
-   "sez": "organizzazioni",
-   "titolo": "Partecipazione democratica e coesione sociale: il Consiglio Ue adotta nuove conclusioni",
-   "orig": "Council approves conclusions on inclusive democratic participation, and societal and community resilience",
-   "lead": "Il Consiglio dell'Unione europea ha approvato formalmente un documento di conclusioni incentrato sulla promozione di una partecipazione democratica inclusiva e sul rafforzamento della resilienza sociale e comunitaria all'interno dei Paesi membri. Il testo adottato dagli Stati punta a consolidare la fiducia dei cittadini nelle istituzioni pubbliche, contrastare l'esclusione e favorire strumenti per sostenere le comunità locali di fronte alle sfide sistemiche e alle trasformazioni sociali in corso nello spazio europeo. Lo riferisce Consiglio dell'Unione europea.",
-   "more": [
-    "Le conclusioni del Consiglio dell'Unione europea sono atti formali non legislativi con cui i ministri dei governi definiscono orientamenti politici comuni, invitando la Commissione europea e gli Stati membri ad avviare azioni specifiche."
-   ],
-   "fonti": [
-    {
-     "n": "Consiglio dell'Unione europea",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/council-approves-conclusions-on-inclusive-democratic-participation-and-societal-and-community-resilience/",
-     "angolo": "",
-     "atlas": ""
-    }
-   ],
-   "data": "",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
    "id": "zf8c80a65",
    "sez": "mondo",
    "titolo": "Germania, arrestati due cittadini turchi per il rogo di una stazione Starlink in Polonia",
@@ -26973,55 +26107,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-13T14:37+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
-   "id": "ze3a3eaf3",
-   "sez": "cultura",
-   "titolo": "Gran Bretagna, una mostra dell'artista Rebecca Howard celebra i progetti di ripristino della natura",
-   "orig": "The ‘in awe’ artist painting a wilder Britain",
-   "lead": "L'artista Rebecca Howard ha presentato una serie di dipinti dedicati alla rinascita ecologica del territorio britannico attraverso una mostra intitolata 'in awe'. L'esposizione celebra nove progetti pionieristici di ripristino degli ambienti naturali e di rewilding in corso nel Regno Unito, ritraendo paesaggi che testimoniano il ritorno della biodiversità e la cura dell'ecosistema. Le tele raccontano il recupero della flora e della fauna selvatica come fonte di meraviglia e ispirazione culturale. Lo riferisce Positive News.",
-   "more": [
-    "Il rewilding è un approccio di conservazione ambientale che mira a ripristinare i processi naturali e le catene ecologiche originarie, consentendo alla natura di rigenerarsi autonomamente con un ridotto intervento umano."
-   ],
-   "fonti": [
-    {
-     "n": "Positive News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.positive.news/environment/the-in-awe-artist-painting-a-wilder-britain/",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T09:25+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "good": true,
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
-   "id": "z4b9c3884",
-   "sez": "ingegneria",
-   "titolo": "Nottinghamshire, Allan Joyce Architects firma la residenza rurale Sable House con legno carbonizzato",
-   "orig": "Openings \"dissolve boundaries\" at Sable House by Allan Joyce Architects",
-   "lead": "Lo studio britannico Allan Joyce Architects ha completato nel Nottinghamshire la residenza Sable House, un'abitazione con cinque camere da letto rivestita in legno carbonizzato e immersa nella campagna inglese. L'intervento architettonico sostituisce una casa degli anni Cinquanta abitata per oltre vent'anni dalla famiglia committente. Il progetto è stato concepito per dissolvere i confini tra ambienti interni ed esterni grazie a un sistema di cortili interni e camminamenti coperti che collegano le zone living al verde circostante. Lo riferisce Dezeen.",
-   "more": [
-    "L'impiego del legno carbonizzato in architettura si ispira a tecniche tradizionali per proteggere le facciate da agenti atmosferici e parassiti, conferendo al contempo un aspetto materico contemporaneo agli edifici sostenibili."
-   ],
-   "fonti": [
-    {
-     "n": "Dezeen",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.dezeen.com/2026/10/13/sable-house-allan-joyce-architects/",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T10:30+00:00"
     }
    ],
    "data": "13 ott",
@@ -27103,78 +26188,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zc7bac680",
-   "sez": "salute",
-   "titolo": "Regno Unito, presentato il “Babies Bill” per proteggere i primi mille giorni di vita",
-   "orig": "England&#x2019;s &#x201C;Babies Bill&#x201D; explained: what it promises and what it needs to succeed",
-   "lead": "In Inghilterra è stata presentata una proposta di legge nota come “Babies Bill”, ufficialmente denominata Infants, Parents and Carers Bill. L'iniziativa, introdotta dal deputato conservatore Desmond Swayne, mira a garantire per legge l'accesso ai servizi essenziali per neonati e genitori durante i primi 1001 giorni di vita del bambino. Il testo propone obblighi governativi per assicurare assistenza ostetrica, visite sanitarie, supporto per l'allattamento e cure per la salute mentale perinatale, riconoscendo questo periodo come fondamentale per il benessere fisico ed emotivo futuro. Lo riferisce The BMJ.",
-   "more": [
-    "Il periodo dei primi mille giorni, dal concepimento al secondo anno di vita, è considerato cruciale dalla comunità scientifica per lo sviluppo neurologico e biologico dell'individuo. Interventi mirati in questa fase possono prevenire problematiche di salute a lungo termine e ridurre le disuguaglianze sociali, garantendo un supporto strutturato alle famiglie fin dalle prime fasi della genitorialità."
-   ],
-   "fonti": [
-    {
-     "n": "The BMJ",
-     "p": "UK",
-     "c": "Londra",
-     "u": "http://www.bmj.com/content/395/bmj-2026-101126.short?rss=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T02:46-07:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
-   "id": "zad295875",
-   "sez": "cultura",
-   "titolo": "I capolavori del Prado arrivano a Brooklyn con un tour virtuale in realtà aumentata",
-   "orig": "five prado masterpieces cross the atlantic for a free-roam virtual tour in brooklyn",
-   "lead": "Cinque capolavori del Museo del Prado di Madrid attraversano idealmente l'Atlantico per approdare a Brooklyn, presso il Powerhouse Arts, grazie a un innovativo tour virtuale. La collaborazione tra Acciona Cultura e il celebre museo spagnolo ha permesso di trasformare opere d'arte classica in un'esperienza di realtà virtuale a movimento libero della durata di trenta minuti. Il progetto unisce il rigore curatrale alla narrazione spaziale, permettendo ai visitatori di New York di esplorare le opere in modo immersivo e tecnologicamente avanzato. Lo riferisce Designboom.",
-   "more": [
-    "Il Museo del Prado è una delle pinacoteche più importanti del mondo, custode di opere fondamentali di artisti come Velázquez e Goya. L'adozione di tecnologie VR consente alle istituzioni museali di rendere accessibile il patrimonio artistico a un pubblico globale, superando i limiti fisici della conservazione e del trasporto delle tele originali attraverso installazioni digitali interattive."
-   ],
-   "fonti": [
-    {
-     "n": "Designboom",
-     "p": "XX",
-     "c": "Internazionale",
-     "u": "https://www.designboom.com/art/prado-museum-masterpieces-free-roam-virtual-tour-brooklyn/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-13T10:25+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
-   "id": "zcc366d43",
-   "sez": "cucina",
-   "titolo": "Pasta con zucca butternut, salsiccia e datteri",
-   "orig": "Butternut Pasta With Sausage and Dates",
-   "lead": "La cucina autunnale si arricchisce di una nuova ricetta che vede come protagonista la zucca butternut, abbinata alla sapidità della salsiccia e alla dolcezza dei datteri. Questo primo piatto punta sulla semplicità e sulla praticità domestica: gli esperti suggeriscono infatti che è possibile utilizzare la zucca già tagliata e pronta all'uso per velocizzare i tempi di preparazione senza compromettere il risultato finale. La combinazione di ingredienti stagionali offre un contrasto di sapori distintivo, ideale per i pasti della stagione fredda. Lo riferisce Bon Appétit.",
-   "more": [
-    "La zucca butternut, nota per la sua polpa soda e il sapore tendente al dolce, è un ingrediente versatile molto utilizzato nelle cucine internazionali. L'abbinamento con elementi proteici come la salsiccia e zuccheri naturali come i datteri crea un equilibrio gastronomico comune in diverse tradizioni culinarie che cercano di bilanciare note dolci e salate in un unico piatto."
-   ],
-   "fonti": [
-    {
-     "n": "Bon Appétit",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.bonappetit.com/recipe/butternut-pasta-sausage-dates",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-13T10:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
    "id": "za93976c7",
    "sez": "italia",
    "titolo": "Decreto Scuola, audizione dell'ANP al Senato: timori per stipendi e nuove ore di latino",
@@ -27192,30 +26205,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-13T11:09+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
-   "id": "z311349a4",
-   "sez": "tech",
-   "titolo": "Cina, presentato il supernodo AI con 144 GPU: nuovo record industriale",
-   "orig": "China’s Iluvatar CoreX’s first AI computing supernode squeezes most GPUs in 1 system",
-   "lead": "L'azienda cinese Iluvatar CoreX ha presentato alla China International Industry Fair di Shanghai il Tiangai 300 IXL144, il suo primo sistema supernodo per l'intelligenza artificiale. Il dispositivo stabilisce un record industriale riuscendo a ospitare 144 processori grafici (GPU) e 18 unità di elaborazione centrale (CPU) all'interno di un unico cabinet. Progettato per l'addestramento e l'inferenza di modelli AI su larga scala, il sistema vanta una potenza di calcolo elevata, posizionando l'azienda produttrice come un attore di primo piano nello sviluppo di hardware avanzato per il settore tecnologico. Lo riferisce South China Morning Post – Tecnologia.",
-   "more": [
-    "I supernodi sono sistemi di calcolo ad altissima densità che permettono di gestire enormi quantità di dati simultaneamente. Le GPU, in particolare, sono componenti fondamentali per l'intelligenza artificiale moderna, poiché sono in grado di eseguire calcoli paralleli molto più velocemente dei processori tradizionali, accelerando lo sviluppo di modelli complessi come quelli utilizzati per il linguaggio naturale o la guida autonoma."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post – Tecnologia",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system?utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-13T09:00+00:00"
     }
    ],
    "data": "13 ott",
@@ -27306,30 +26295,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
      "angolo": "",
      "atlas": "Poland",
      "t": "2026-10-13T14:56+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
-   "id": "zf02a8e18",
-   "sez": "sport",
-   "titolo": "Hong Kong, il Tai Po FC licenzia Gabriel Mesquita per messaggi razzisti",
-   "orig": "Tai Po FC terminates Gabriel Mesquita's contract",
-   "lead": "Il club calcistico Tai Po FC ha annunciato la risoluzione immediata del contratto del calciatore Gabriel Mesquita. Il centrocampista brasiliano di 19 anni era stato sospeso dagli allenamenti della prima squadra dopo essere stato accusato di aver inviato messaggi razzisti sui social media, apparentemente in risposta a un commento provocatorio. Una commissione disciplinare interna ha condotto un'indagine definita equa e oggettiva, offrendo all'atleta la possibilità di esporre la propria versione. Il club ha ribadito una politica di tolleranza zero contro il razzismo e i comportamenti inappropriati. Lo riferisce RTHK.",
-   "more": [
-    "Nel calcio professionistico, i codici di condotta per gli atleti includono norme severe sull'uso dei social media e sull'etica comportamentale. Le federazioni e i singoli club applicano spesso clausole di risoluzione contrattuale in caso di discriminazione o incitamento all'odio, al fine di tutelare l'immagine della società e promuovere i valori di inclusione e rispetto nello sport."
-   ],
-   "fonti": [
-    {
-     "n": "RTHK",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://news.rthk.hk/rthk/en/component/k2/1873781-20261013.htm",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-13T18:44+08:00"
     }
    ],
    "data": "13 ott",
@@ -28068,28 +27033,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zb0a3da0c",
-   "sez": "ingegneria",
-   "titolo": "Londra: ritardi per la pedonalizzazione di Pall Mall e Regent Street",
-   "orig": "Allies and Morrison’s pedestrianisation plans for London’s West End delayed",
-   "lead": "Il consiglio comunale di Westminster ha annunciato un rinvio per i piani di pedonalizzazione di diverse aree chiave del West End di Londra, tra cui Pall Mall e Regent Street. I progetti, curati dallo studio Allies and Morrison, mirano a trasformare il centro cittadino riducendo il traffico veicolare a favore di spazi per i pedoni. Tuttavia, la decisione di ritardare l'attuazione dei piani solleva interrogativi sui tempi di realizzazione di questa trasformazione urbana. L'iniziativa faceva parte di una strategia più ampia per migliorare la qualità dell'aria e la vivibilità della capitale britannica attraverso una nuova mobilità. Lo riferisce The Architects' Journal.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Architects' Journal",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.architectsjournal.co.uk/news/allies-and-morrisons-pedestrianisation-plans-for-londons-west-end-delayed",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T08:42+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
    "id": "z08b64fe1",
    "sez": "italia",
    "titolo": "ANIEF: contro i bonus spot serve una riforma dell'IRPEF",
@@ -28156,50 +27099,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z93d23c94",
-   "sez": "ingegneria",
-   "titolo": "Stirling Prize: retroscena sulla selezione del vincitore",
-   "orig": "What goes on behind the scenes of the Stirling Prize?",
-   "lead": "L'ex presidente del RIBA, Ben Derbyshire, ha offerto uno sguardo inedito sui meccanismi interni che portano alla selezione del vincitore del prestigioso Stirling Prize. Il premio, che celebra l'eccellenza architettonica nel Regno Unito, è spesso al centro di dibattiti sulla sua reale capacità di dimostrare il valore della professione o se rappresenti unicamente un riconoscimento tra pari. Derbyshire ha analizzato i complessi fattori decisionali e le dinamiche che avvengono dietro le quinte, cercando di spiegare come vengono realmente valutati i progetti che concorrono per il massimo riconoscimento britannico nel campo dell'architettura. Lo riferisce The Architects' Journal.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Architects' Journal",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.architectsjournal.co.uk/news/opinion/what-goes-on-behind-the-scenes-of-the-stirling-prize-an-ex-presidents-view",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-13T08:23+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
-   "id": "zc2eabb66",
-   "sez": "mondo",
-   "titolo": "Saliva e legami: come i bambini percepiscono l'intimità",
-   "orig": "Scambi di saliva e relazioni",
-   "lead": "Una ricerca scientifica approfondisce il modo in cui i bambini molto piccoli interpretano i legami sociali osservando semplici gesti quotidiani, come lo scambio di saliva. Attraverso la condivisione di un cucchiaio o di un panino, i neonati riescono a identificare il grado di intimità e la forza della relazione che unisce due persone. Questo comportamento suggerisce che la capacità di comprendere le gerarchie e le connessioni umane sia precoce e legata a segnali biologici immediati. Lo studio offre nuove prospettive sulla psicologia dell'infanzia e sulle basi evolutive della percezione sociale nei primi mesi di vita. Lo riferisce Focus.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Focus",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.focus.it/comportamento/psicologia/per-un-bambino-di-4-mesi-chi-si-scambia-saliva-ha-una-relazione-stretta",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-13T11:00+02:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
-  },
-  {
    "id": "zac3baa38",
    "sez": "musica",
    "titolo": "Rebecca Allen lascia Universal Music dopo 27 anni",
@@ -28251,28 +27150,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "data": "13 ott",
    "ora": "13:40",
    "uscita": "13"
-  },
-  {
-   "id": "z459d2ef1",
-   "sez": "cultura",
-   "titolo": "Cina: il Zhuhai Air Show espone per la prima volta mezzi navali",
-   "orig": "China’s Zhuhai air show to feature first dedicated naval equipment display",
-   "lead": "In occasione del suo trentesimo anniversario, la fiera internazionale dell'aviazione di Zhuhai presenterà per la prima volta un'area interamente dedicata alle attrezzature navali. L'evento vedrà l'esposizione di hardware attualmente in dotazione alla marina militare cinese, ampliando la sua tradizionale offerta focalizzata sui velivoli civili e militari. Gli organizzatori hanno confermato che questa edizione biennale offrirà ai compratori internazionali una panoramica completa dei progressi tecnologici della Cina, includendo anche i celebri caccia stealth J-20 che hanno debuttato proprio in questa prestigiosa sede espositiva. Lo riferisce South China Morning Post – Cina.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "South China Morning Post – Cina",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/news/china/military/article/3370742/chinas-zhuhai-air-show-feature-first-ever-dedicated-naval-equipment-display?utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-13T10:00+00:00"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "13:40",
-   "uscita": "13"
   }
  ],
  "quiz": [],
@@ -28280,9 +27157,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z750e8852": "BBC News concentra l'attenzione sui disagi causati alla clientela dei marchi britannici e affianca l'episodio ai controlli avviati parallelamente da H&M.",
   "zc8f87741": "The Guardian mette in luce come la contesa giudiziaria attorno al giudice De Moraes venga utilizzata dall'opposizione di destra per polarizzare la corsa presidenziale contro Lula.",
   "z14a15084": "Al Jazeera pone l'accento sull'elevato numero di reporter fermati dalla polizia indiana nell'arco di sole quarantotto ore durante il servizio.",
-  "z50552ba2": "la Repubblica evidenzia il richiamo morale della giurista sudafricana all'Italia e all'Unione europea affinché proteggano l'operato della giustizia internazionale.",
   "z8b94146a": "ANSA rimarca la decisione unitaria dei sindacati di prolungare la mobilitazione per sollecitare un tavolo urgente a Palazzo Chigi.",
-  "z8b3f8d6e": "Rai News sottolinea l'apertura ottimistica del ministro Giorgetti sull'uscita dalla procedura d'infrazione europea nonostante le difficoltà congiunturali.",
   "zc579f291": "NPR sottolinea come il regime di emergenza colpisca direttamente il territorio controllato dal movimento politico dell'ex premier Khan.",
   "z2995a5a1": "Mentre Meduza e Reuters si concentrano sui colloqui riservati tra inviati americani e ucraini a Miami, le altre testate internazionali analizzano l'effettiva tenuta sul campo della tregua energetica voluta da Trump.",
   "z8b29ac66": "The Guardian pone l'accento sulla soddisfazione di Lewis Hamilton e di Stefano Domenicali, mentre le testate africane come Citizen Digital e Nile Post valorizzano i dettagli del nuovo autodromo di Bugesera.",
@@ -28290,21 +27165,13 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z9abd90aa": "Mentre Il Post analizza le ripercussioni politiche del caso giudiziario del club, The Guardian rievoca i legami culturali di Andy Burnham con la scena musicale di Manchester.",
   "zf934d23c": "BBC News evidenzia la reazione diretta dell'artista contro il secondary ticketing, mentre NME specifica l'utilizzo di bot guidati da intelligenza artificiale dietro l'impennata di richieste.",
   "zd3b9e823": "Sia Anime News Network sia MyAnimeList News si concentrano sui dettagli del cast di doppiaggio e confermano la finestra di trasmissione televisiva prevista per il 2027.",
-  "ze05f2657": "Il comunicato del Consiglio dell'Unione europea mette in risalto l'importanza della partecipazione inclusiva per la coesione democratica del continente.",
   "zf8c80a65": "Azatutyun rilancia le parole del premier polacco Tusk, che inquadra il rogo della stazione satellitare come atto deliberato di sabotaggio commissionato dall'estero.",
-  "ze3a3eaf3": "Positive News valorizza il messaggio positivo delle opere di Rebecca Howard a sostegno della tutela ambientale e della rigenerazione del paesaggio britannico.",
-  "z4b9c3884": "Dezeen evidenzia la soluzione progettuale dei passaggi coperti e delle corti aperte che integrano l'edificio contemporaneo nel contesto rurale.",
   "z11262502": "The Korea Herald e Yonhap descrivono la task force diplomatica istituita dalla presidenza sudcoreana per curare ogni dettaglio del possibile faccia a faccia.",
   "za5d9fe1f": "OndaRock sottolinea con un tono nostalgico la fine del mandato della direzione artistica di Caterina Barbieri.",
-  "zc7bac680": "La rivista medica analizza i dettagli tecnici della proposta di legge e le condizioni necessarie affinché possa avere successo.",
-  "zad295875": "Designboom mette in risalto l'unione tra rigore museale e innovazione tecnologica nel campo dello storytelling spaziale.",
-  "zcc366d43": "Bon Appétit sottolinea la praticità della ricetta, specificando che la zucca pre-tagliata è un'opzione valida.",
   "za93976c7": "Orizzonte Scuola evidenzia le criticità sollevate dai dirigenti scolastici riguardo alla sostenibilità economica e alle riforme curricolari.",
-  "z311349a4": "Il quotidiano di Hong Kong mette in risalto il primato tecnico raggiunto dalla Cina nel numero di GPU integrate in un singolo sistema.",
   "z8fd3f614": "Il giornale si concentra sulla rarità dell'avvistamento e sulla spettacolarità anatomica della creatura marina.",
   "z9eb7eef7": "La testata specializzata elenca le tappe passate e future del tour, sottolineando l'espansione globale dello show.",
   "z44214ec1": "Euronews si focalizza sulla smentita della Commissione Europea contro le cifre 'gonfiate', mentre il Luxembourg Times riporta la posizione russa sulla consegna di idrocarburi.",
-  "zf02a8e18": "La testata di Hong Kong sottolinea la rapidità della decisione del club e la fermezza nell'applicare la politica di tolleranza zero.",
   "z1beeb69f": "Mail & Guardian riporta un avviso di servizio utile per la pianificazione educativa degli studenti universitari sudafricani.",
   "zd8d229db": "OndaRock analizza il percorso di rivalutazione critica che ha trasformato un brano minore in un classico del genere.",
   "zd7d279ac": "La rivista scientifica riporta i piani dell'amministrazione statunitense per riformare la trasparenza e la ricerca sulla sicurezza vaccinale.",
@@ -28333,27 +27200,17 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z822a2404": "La Repubblica confronta i tempi di inserimento e i gol segnati dai nuovi acquisti juventini rispetto ai titolari storici.",
   "z9e6c52ce": "La testata evidenzia il rischio di frodi ai danni dello Stato tramite l'uso di documenti ospedalieri contraffatti.",
   "zd0110173": "Euronews riporta la sfida diretta di Meta ai leader del settore dell'intelligenza artificiale con il nuovo modello Wonder.",
-  "zb0a3da0c": "The Architects' Journal pone l'attenzione sullo stallo burocratico che frena uno dei maggiori progetti di rinnovamento urbano di Londra.",
   "z08b64fe1": "Orizzonte Scuola riporta la richiesta sindacale di passare da bonus una tantum a una revisione fiscale strutturale per il comparto istruzione.",
   "zcbe25b4a": "Rolling Stone Italia mette a confronto le posizioni di due icone della musica britannica sulla libertà di espressione politica.",
   "z509f601c": "BBC News sottolinea l'incertezza tra il tentativo di buyout del management e il monito dei sindacati sul possibile fallimento.",
-  "z93d23c94": "La testata analizza la validità del premio attraverso la testimonianza diretta di chi ha gestito i processi di valutazione.",
-  "zc2eabb66": "Focus evidenzia come atti banali di condivisione alimentare siano per i più piccoli indicatori fondamentali di vicinanza affettiva.",
   "zac3baa38": "Billboard mette in risalto il lungo percorso di Allen e il suo impatto sulle storiche etichette EMI e Decca.",
   "zbea8f729": "STAT evidenzia l'allarme lanciato dai medici sulle possibili criticità di una terapia destinata a pazienti con patologie rare.",
-  "z459d2ef1": "La testata pone l'accento sull'espansione della fiera verso il settore navale militare in coincidenza con un anniversario storico.",
   "z177e5c75": "L'emittente Al Jazeera pone l'accento sulla presenza diretta dei propri inviati per documentare le incursioni militari israeliane nelle aree amministrative palestinesi della Cisgiordania.",
   "z12d8c9e9": "La testata Mail & Guardian analizza le difficoltà interne e gestionali della scuderia di Maranello in relazione alle prestazioni dei piloti di punta.",
   "z00b6d329": "La rivista New Civil Engineer focalizza l'attenzione sulla valorizzazione dei talenti femminili e sui riconoscimenti professionali nel settore ingegneristico.",
-  "z873fe2a9": "La testata The Guardian analizza l'opera cinematografica concentrandosi sul ritratto umano e politico dell'ex ministro dell'ambiente irlandese.",
-  "z97606b73": "La rivista musicale NME evidenzia l'annuncio delle date dal vivo e la proiezione internazionale dei progetti legati alle colonne sonore per videogiochi.",
   "zc28dbd9c": "La pubblicazione medica STAT offre uno spunto di riflessione critico sul comportamento lavorativo dei professionisti del settore.",
-  "z9601cb1c": "La testata South China Morning Post mette in risalto il valore storico ed economico delle opere d'arte per la prima volta accessibili al pubblico.",
-  "z187dfc7a": "La testata Japan Forward analizza le strategie industriali cinesi in chiave di sicurezza nazionale e di contrapposizione economica con i mercati occidentali.",
   "z2b043917": "La testata Premium Times concentra l'attenzione sul rendimento e sulle aspettative dei calciatori nigeriani impegnati sui campi europei.",
   "z5bb7f0c1": "La rivista Engineering News-Record monitora i grandi progetti infrastrutturali e industriali sul territorio statunitense.",
-  "z3053da81": "La testata The Guardian analizza criticamente l'opera di finzione cinematografica incentrata sulle dinamiche e le origini delle piattaforme social.",
-  "zf82de8b4": "La rivista NME dà risalto alle novità nel campo degli spettacoli musicali dal vivo legati alle grandi produzioni audiovisive.",
   "zd3f9e763": "Il portale Medical Xpress diffonde i risultati delle ricerche scientifiche focalizzate sulla salute e sul benessere femminile.",
   "z0898cf85": "La testata Hespress English evidenzia i riconoscimenti internazionali e i ruoli di prestigio assegnati alle figure di spicco del cinema mondiale.",
   "zbe4f0e71": "L'emittente Radio Prague International riporta i dati macroeconomici ufficiali diffusi per monitorare l'andamento economico nazionale.",
@@ -28375,11 +27232,9 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "ze7bde2aa": "La testata evidenzia l'importanza strategica della cooperazione internazionale per lo sviluppo delle risorse energetiche e petrolifere tanzaniane.",
   "ze20fa556": "La testata mette in evidenza la connessione tra l'arte fotografica e performativa e la riflessione sull'età matura all'interno di uno spazio espositivo della capitale britannica.",
   "ze3fcbf3b": "La testata divulgativa focalizza l'attenzione sui consigli pratici e istituzionali per preparare gli impianti domestici all'arrivo della stagione fredda.",
-  "z6248a644": "La testata locale pone l'accento sulla cooperazione internazionale e sul supporto finanziario e tecnico ricevuto per potenziare il sistema sanitario nazionale.",
   "ze8cea627": "La testata economica focalizza l'attenzione sulla sostenibilità ambientale e sulla tutela dei piccoli agricoltori nel settore della produzione agricola nazionale.",
   "z51053103": "La testata regionale si concentra sulla pubblicazione ufficiale dei listini dei carburanti e sull'adeguamento dei tetti massimi di spesa per i consumatori.",
   "z95cc00ef": "La testata focalizza l'attenzione sulle dichiarazioni di carattere economico riguardanti la sostenibilità del debito e la protezione delle popolazioni più vulnerabili.",
-  "z1d47cd16": "La testata specializzata in ingegneria e costruzioni evidenzia il percorso di crescita interna culminato nella nomina alla guida della divisione tecnica.",
   "z49d66149": "L'emittente radiofonica pone in primo piano le difficoltà e lo stato attuale dei servizi psichiatrici ospedalieri sul territorio nazionale.",
   "z6f59e947": "La testata tedesca analizza il ruolo dell'azienda tecnologica bavarese nel panorama europeo della sovranità digitale e del trattamento dei dati.",
   "z9e1cef50": "La testata approfondisce la riconversione economica del settore ittico regionale spinta dalle pressioni ambientali e biologiche.",
@@ -28387,7 +27242,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z77392053": "La testata sportiva sottolinea il ritorno del tecnico portoghese nella capitale e le difficoltà della squadra giallorossa nel cammino europeo.",
   "z1fb44bd4": "La testata internazionale riporta la notizia di cronaca relativa all'uso improprio di dispositivi tecnologici e alla conseguente misura restrittiva adottata contro il proprietario.",
   "z2c827af7": "La testata specializzata evidenzia il progresso nei cantieri delle grandi strutture turistiche e alberghiere negli Emirati Arabi Uniti.",
-  "zdd31d9fe": "La testata di informazione regionale approfondisce i provvedimenti normativi e amministrativi adottati dalle autorità doganali siriane.",
   "z1f4bf889": "La testata neozelandese mette in risalto il profilo umano e sportivo dell'atleta in vista dell'appuntamento internazionale con il mondiale.",
   "zd29d1fac": "La rivista di architettura e design focalizza l'attenzione sulla reinterpretazione di un'icona della cultura pop attraverso il linguaggio del design contemporaneo.",
   "z76fdc9c2": "L'emittente Asia-Plus focalizza l'attenzione sul riconoscimento economico ottenuto dall'istituto di credito locale grazie al supporto della BERS.",
@@ -28399,9 +27253,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z13c32468": "Il Financial Times analizza il peso geoeconomico delle forniture energetiche nei rapporti bilaterali tra Stati Uniti e Messico.",
   "z3b777ded": "Il Financial Times mette in evidenza la vulnerabilità macroeconomica del Paese africano e le sfide politiche per il governo in carica.",
   "z1e1ec0b1": "Il Financial Times analizza la decisione giudiziaria e le implicazioni legali sulla gestione dei beni sequestrati in criptovaluta.",
-  "zcd7a2b48": "Il quotidiano ecuadoriano El Universo pone l'accento sulla crescita economica del mercato delle scommesse e sulla necessità di una regolamentazione efficace.",
   "z68b1454e": "La testata camerunense Actu Cameroun segue con interesse le prospettive di impiego dei calciatori africani nei top club europei.",
-  "zbd27c04f": "Il quotidiano Egypt Independent pone in risalto le dichiarazioni governative sulle future riforme economiche e di welfare in Egitto.",
   "z2958bc97": "La testata keniota Citizen Digital evidenzia le prospettive di ripresa economica elaborate dagli esperti internazionali per il Paese africano.",
   "zb8d19660": "The Hindu evidenzia il recupero giornaliero e l'intervallo di fluttuazione intraday della valuta indiana rispetto al dollaro.",
   "z259483e8": "Times of India pone l'accento sui guadagni complessivi per gli investitori e sull'impennata della capitalizzazione di mercato.",
@@ -28418,7 +27270,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "ze4567bff": "la Repubblica – Economia evidenzia il divario riscontrato nel minutaggio concesso alle posizioni contrarie rispetto a quelle favorevoli al quesito.",
   "zfafdc256": "la Repubblica – Economia mette in luce le critiche del sindacato ai contenuti del testo normativo prossimo al voto parlamentare.",
   "zee3e0685": "la Repubblica – Economia pone in rilievo la concentrazione degli stanziamenti sui progetti rinnovabili e sulla rete di trasmissione.",
-  "zb5207063": "Malay Mail riporta le valutazioni ottimistiche dell'esecutivo malese sulla traiettoria di risanamento del deficit pubblico.",
   "z479ce362": "Cyprus Mail evidenzia i requisiti normativi e le riforme strutturali indicate dagli accademici per lo sviluppo finanziario dell'isola.",
   "z0b3e0db9": "Club of Mozambique dà risalto alla proposta di cooperazione imprenditoriale per rafforzare l'industria manifatturiera locale.",
   "z4b218d2d": "Luxembourg Times concentra l'attenzione sulla carenza di manodopera specializzata e sulle elevate retribuzioni offerte dal mercato assicurativo.",
@@ -28469,7 +27320,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z38d5cb11": "Kun.uz e AKIpress danno notizia del cambio di guardia ai vertici della difesa uzbeka.",
   "zf2ea590f": "SOS Médias Burundi documenta i dettagli dell'aggressione rurale e la controversa liberazione dei sospettati.",
   "zc1045864": "Süddeutsche Zeitung analizza l'offerta commerciale delle piattaforme finanziarie in vista della riforma previdenziale tedesca.",
-  "z23dc7b1d": "Il quotidiano spagnolo El País evidenzia la mossa strategica di Podemos per riposizionare l'offerta ricevuta e allargare il perimetro della propria alleanza.",
   "z73630d18": "Il quotidiano brasiliano Folha de S.Paulo pone l'accento sulle dichiarazioni ufficiali dei vertici del FMI e sulle prospettive economiche per l'area latinoamericana.",
   "z4a60e8c7": "Il quotidiano argentino Clarín concentra l'attenzione sul confronto tra leader d'impresa e politici per delineare la strategia di sviluppo a lungo termine del Paese.",
   "zbba30584": "Il portale guineano Mosaïque Guinée documenta la linea dura mantenuta dagli ufficiali giudiziari a seguito della decisione del tribunale speciale.",
@@ -28489,9 +27339,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zfaef7975": "Il quotidiano boliviano El Deber sottolinea l'escalation di sicurezza legata alle minacce al presidente e ai nuovi sequestri di armi nell'inchiesta giudiziaria.",
   "z9a0fb304": "Il giornale andorrano Diari d'Andorra documenta la protesta locale dei residenti contro l'inerzia amministrativa sulla sicurezza stradale.",
   "zf1755393": "Il Diari d'Andorra evidenzia la mossa della municipalità andorrana per favorire la trasparenza e avviare il dialogo con i contestatori dell'opera.",
-  "zff1529fc": "L'emittente statunitense NPR pone l'accento sulla tutela ambientale e sul ruolo inatteso della fauna aviaria nella conservazione dei coralli.",
   "z08f1a5ba": "Il servizio di NPR analizza le difficoltà e le motivazioni dei candidati indipendenti che tentano di inserirsi nel panorama politico americano.",
-  "z04dace44": "L'approfondimento di NPR offre una guida metodologica per interpretare i flussi dei sondaggi e l'andamento del voto anticipato.",
   "ze172ab4e": "Il reportage di NPR approfondisce il tema della crisi abitativa e il ricorso a strumenti di democrazia diretta per riformare l'edilizia residenziale.",
   "zd5608d8d": "Il notiziario flash di NPR riassume i principali temi di politica interna ed estera al centro dell'attenzione mediatica americana.",
   "z78ff40dd": "L'emittente tedesca Deutsche Welle analizza il mutamento dell'approccio economico di Berlino verso Pechino alla luce della pressione industriale.",
@@ -28613,12 +27461,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z5af7474f": "Tutte le testate riprendono gli stessi dati Istat, concentrandosi in particolare sul forte rincaro della casa rispetto alla media generale dei prezzi.",
   "zb5bb6c03": "Billboard annuncia il progetto come un'operazione che amplia il racconto della famiglia Jackson oltre la figura di Michael.",
   "z9535f33e": "Medical Xpress sottolinea il valore di uno studio longevo che permette di osservare l'evoluzione del danno cardiaco nel tempo.",
-  "zf2da02c0": "El Mundo presenta l'alleanza come una mossa strategica contro il PSOE in vista del voto regionale.",
   "zb540d1f7": "Folha de S.Paulo mette in evidenza la contraddizione tra interesse dichiarato per l'ambiente e scetticismo verso gli scienziati.",
   "zaa6d770c": "IPN riporta l'accordo come un sostegno diretto al settore agricolo moldavo.",
   "z40e6b77d": "OC Media sottolinea il successo di pubblico e la varietà delle iniziative collaterali del festival.",
   "z9257544e": "Medical Xpress evidenzia il potenziale legame immunitario tra intestino e cervello emerso dallo studio.",
-  "z325c3c1a": "Il Messaggero descrive nel dettaglio le misure di sicurezza straordinarie messe in campo per il ricovero.",
   "zc8bee0d7": "RTP riporta un breve commento tecnico dell'allenatore sulle difficoltà della trasferta.",
   "z04ecfb31": "Premium Times elenca in dettaglio i profili professionali dei nuovi amministratori.",
   "z41c2762b": "Medical Xpress presenta un confronto tra due punti di vista clinici differenti.",
@@ -28630,7 +27476,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zde3c081b": "Sky TG24 presenta la clip come anteprima esclusiva in vista dell'uscita italiana del film.",
   "z4df62c41": "Nile Post presenta il percorso della modella come un'evoluzione verso nuovi ambiti creativi e formativi.",
   "zb8d0af1e": "OC Media dà rilievo alla reazione sorpresa di alcuni soggetti colpiti dalle sanzioni.",
-  "z57de8292": "South China Morning Post ricostruisce la sequenza di eventi social che ha portato alla sospensione del giocatore.",
   "z50580e12": "Le Monde sottolinea la coincidenza temporale tra la proposta d'incarico e il rinvio a giudizio della Dati.",
   "zd3fcf66f": "Enfasi sul ritorno della Champions a Roma e sulla sfida simbolica con Mourinho.",
   "z1a140c0c": "Formato a ticker con più notizie economico-tecnologiche raccolte insieme.",
@@ -28640,7 +27485,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zfd062a6b": "Aneddoto leggero usato per raccontare la personalità del giovane pilota.",
   "z62de5a69": "Comunicato informativo sulla chiusura anticipata delle strutture sanitarie.",
   "z904a8a29": "Misura presentata come risposta diretta al caro energia.",
-  "z50f7871f": "Il parlamentare mette in dubbio la disciplina fiscale del governo in un contesto di servizi pubblici carenti.",
   "zafa0d8ee": "Comunicato che presenta la crescita del settore fintech lettone come attrattiva per investimenti esteri.",
   "z33ca790f": "Appello alla pazienza da parte dei dirigenti del calcio locale.",
   "z9edc8215": "Comunicato che celebra il traguardo industriale e farmaceutico del Marocco.",
@@ -28700,7 +27544,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z2f83d049": "Il Financial Times quantifica l'escalation degli attacchi nello stretto, sottolineandone la gravità senza precedenti nel conflitto in corso.",
   "zae43b881": "Il Financial Times riporta l'allarme del capo dell'MI5 sull'intensificarsi delle minacce ibride da parte di Iran e Russia.",
   "z26ebf2fc": "N1 Serbia riporta la smentita di Orban rispetto alle accuse circolate sul presunto sequestro.",
-  "zea1056db": "N1 Serbia riporta i dati del sondaggio senza ulteriori commenti o fonti comparative.",
   "zd0cb12fc": "N1 Serbia riporta la posizione critica di un eurodeputato del PPE verso il partito al governo in Serbia.",
   "z40fcd861": "The Punch riporta la richiesta formale di Tinubu al Parlamento per sanare la questione del rimborso.",
   "zefc444ba": "The Punch riporta l'iniziativa dei leader cristiani a sostegno della rielezione di Tinubu.",
@@ -28814,7 +27657,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z1fdb33b4": "Defimedia segnala l'urgenza della convocazione senza anticipare i contenuti del messaggio.",
   "z8dd89886": "Panamá América presenta la misura come un alleggerimento burocratico a favore dei governi locali.",
   "zf05d7728": "Entrambe le testate sottolineano che si tratta della prima marcia indietro significativa sulle politiche anti-LGBTQ dell'era Orbán.",
-  "z6fbff298": "Al Jazeera riporta la minaccia diretta degli Houthi, mentre Rai News si concentra sulle esplosioni udite a Sanaa.",
   "zd53d1add": "ANSA mette l'accento sugli aspetti tecnici dell'iter con le Regioni, Repubblica sottolinea la mediazione politica tra Meloni e Salvini.",
   "z93d27611": "Repubblica e ANSA riportano entrambe le dichiarazioni sulla pena di morte, con ANSA che aggiunge il dettaglio dell'incontro con Elly Schlein sulla Palestina.",
   "z9ed57cb7": "BBC News mette in dubbio l'affermazione di Zelensky citando esperti scettici sulle prove disponibili.",
@@ -28825,110 +27667,64 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zabb58c9f": "ERT News si concentra sui dettagli dell'evento di presentazione a Salonicco.",
   "z1d6484b4": "Foroyaa riporta nel dettaglio le critiche del deputato Gibba durante il dibattito parlamentare.",
   "z125082ad": "The Guardian riporta con più dettaglio l'ammissione di Maresca sull'etichetta di 'bari', mentre CNA si concentra sulla sofferenza dei tifosi.",
-  "z73020d7a": "Il comunicato del Consiglio Ue si limita ad annunciare la partecipazione del presidente dell'Eurogruppo all'evento.",
   "z84b84d49": "The Guardian ed Euronews concordano nel sottolineare il divario di genere nei tempi di diagnosi e nella probabilità di essere liquidate con diagnosi psicologiche.",
-  "zed07da17": "La Cucina Italiana si concentra sul messaggio pratico dello studio, invitando a scegliere con attenzione il tipo di carboidrati consumati.",
   "zcb544df0": "Guinée News riporta nel dettaglio i soggetti coinvolti nel lancio dell'iniziativa a Conakry.",
   "z6d6c5b3c": "IPN descrive le proposte della nuova strategia come parte di un piano pluriennale per il turismo cittadino.",
   "z8ea6c730": "The Guardian documenta l'aumento delle chiamate ai soccorritori per animali in condizioni critiche.",
   "z9a501e44": "Billboard riporta le dichiarazioni di McRae in risposta alle critiche ricevute online.",
-  "zb884f5ad": "ANSA, Repubblica e Il Sole 24 Ore concordano sui vantaggi finanziari dell'operazione per l'Italia, in attesa della decisione definitiva del Consiglio Ue.",
-  "z9032f9b4": "ArchDaily descrive nel dettaglio il progetto di riuso adattivo e la sua collocazione nel contesto urbano di Houston.",
-  "zacc779b5": "Anime News Network e Crunchyroll News riportano entrambe la pubblicazione del nuovo trailer e i dettagli sulla colonna sonora.",
   "z73384bd8": "Al Jazeera analizza il livello di vulnerabilità delle infrastrutture digitali del Golfo di fronte alle minacce iraniane.",
-  "zbe96e9ac": "RTÉ News riporta il malore del ministro durante l'evento istituzionale.",
-  "z21ec226d": "Turisti per Caso sottolinea il valore identitario e conviviale della manifestazione.",
   "z4592fece": "RTP riporta la posizione critica del Livre verso la presidenza di Ventura.",
   "z328e5bf0": "ANSA riporta la decisione del Consiglio comunale milanese.",
   "z7b02399d": "The EastAfrican evidenzia l'intento regolatorio del governo tanzaniano verso il settore bancario.",
-  "zbf28405c": "La testata propone ricette stagionali basate sui fichi.",
   "z5c419b8c": "Orizzonte Scuola riporta le dichiarazioni del ministro al congresso ANP.",
   "z03ae64f6": "Billboard si concentra sui piani celebrativi e sul cambio al vertice dell'associazione.",
-  "zb7e7260f": "Sky & Telescope evidenzia l'obiettivo scientifico dell'iniziativa NASA.",
   "zb27f69c9": "BBC News mette in evidenza il valore dell'acquisizione e i recenti cambiamenti nelle policy dell'app.",
-  "ze6cfcce2": "Yonhap riporta l'avvio dell'indagine da parte dell'autorità garante sudcoreana.",
   "ze4605f8e": "Premium Times riporta le dichiarazioni di un rappresentante OMS sulle sfide sanitarie nigeriane.",
-  "z65c71b6f": "Fumettologica spiega come procurarsi la carta promozionale.",
   "z17f93e00": "La Presse de Tunisie presenta il programma e i numeri della fiera.",
   "zde4d06de": "The Guardian riporta i dati del rapporto Abta sulle tendenze di spesa turistica.",
-  "zc6ab26e0": "New Civil Engineer evidenzia la scarsa comunicazione pubblica attorno alla decisione.",
   "z99a9b6b2": "Bon Appétit presenta la propria ricetta come riferimento del genere.",
   "z2aee98ff": "Orizzonte Scuola segnala la persistente carenza di insegnanti disponibili.",
   "z606d7c86": "Billboard presenta un elenco storico dei primati nella classifica country.",
-  "zd9793006": "EarthSky chiarisce l'origine del fenomeno osservato da molti testimoni.",
   "za4f1c467": "Il Messaggero riporta l'allarme diffuso tra i residenti e fornisce indicazioni di comportamento.",
   "z1c059c0b": "The Baltic Times riporta le dichiarazioni del presidente lettone sull'esercitazione.",
   "zea28533a": "BBC News racconta il fenomeno economico dei creator di clip social.",
-  "ze3f3fb69": "Il Post propone una guida pratica alla cura della pelle per chi tende a trascurarla.",
-  "z0be5b318": "Fumettologica mostra in anteprima la locandina realizzata dall'autore.",
   "zae415661": "Daily Maverick valorizza l'impatto sociale ed economico del progetto artigianale femminile.",
   "z603866dc": "The Guardian intervista l'attore sul passaggio al ruolo da protagonista horror.",
   "z0129862d": "Citizen Digital riporta le previsioni di crescita contenute nel rapporto PwC.",
-  "z54c7e14d": "La testata specializzata mette in evidenza il costo e la dipendenza dall'import energetico causati da un ritardo infrastrutturale interno.",
   "za76436f7": "La testata segue quotidianamente l'andamento delle nomine, segnalando la progressiva riduzione dei posti disponibili.",
   "z0543e17c": "La testata riporta la dichiarazione della manager sul proprio impegno verso i talenti indipendenti nell'ambito del riassetto.",
-  "z3747b93a": "La testata evidenzia l'eccezionalità della scoperta, ottenuta senza il tradizionale ausilio delle lenti gravitazionali.",
-  "ze34f9372": "La testata fornisce informazioni pratiche per i cittadini su orari e modalità di richiesta del documento.",
   "zbab402b8": "La testata locale dà risalto alla selezione della provincia come traguardo per l'accesso a finanziamenti climatici internazionali.",
   "z8a93c757": "La testata qatariota dà voce alle testimonianze degli sfollati palestinesi colpiti dalle incursioni.",
   "zb79d95b0": "La testata filippina riporta le dichiarazioni ufficiali di Apple sulle novità tecniche del prodotto in arrivo localmente.",
   "z331050a7": "La testata presenta il film come una riflessione sulle pressioni commerciali che hanno segnato la storia del giornalismo popolare.",
-  "z0015092f": "La testata specializzata presenta l'iniziativa come un contributo tecnico alla riduzione dei costi del settore.",
   "z8a3a69b9": "La testata riporta la richiesta sindacale di un confronto nazionale sull'uso dei fondi appena assegnati.",
   "zd098d4a9": "La testata musicale sottolinea la longevità del successo commerciale della colonna sonora.",
-  "zb665c010": "La testata evidenzia il ruolo guida della ricerca italiana nello studio comparativo dei sistemi planetari.",
-  "z1d0e5996": "La testata specializzata in salute segue l'evoluzione legale della vicenda giudiziaria contro Shkreli.",
-  "za65b8ec8": "La testata specializzata riporta la notizia come conseguenza diretta delle condizioni di salute del fondatore.",
-  "z2db5588e": "La testata evidenzia gli effetti ecologici del ritorno dei lupi sull'ecosistema forestale della regione.",
   "z85f54e9c": "La testata qatariota mette in luce la divergenza di vedute tra Washington e le capitali europee sulla gestione della crisi ucraina.",
   "z37d4f461": "La testata portoghese segue da vicino l'impegno europeo dello Sporting CP.",
   "z9f9a45e0": "La testata riporta direttamente le parole del regista sull'importanza della libertà d'espressione.",
-  "za74e7300": "La testata statunitense mette in rilievo la portata ingegneristica e i costi del progetto infrastrutturale.",
   "z09b353b6": "La testata musicale racconta l'evento celebrativo e le dichiarazioni dell'artista sulla band.",
-  "zd0ce609b": "La testata italiana presenta il progetto come una scommessa tecnologica europea nel settore dell'infrastruttura cloud.",
   "z52dadf04": "La testata propone un'intervista leggera incentrata sulle esperienze e preferenze di viaggio dell'attrice.",
   "z20f7ec7f": "La testata specializzata annuncia l'avvio della trasmissione della serie sulla piattaforma di streaming.",
-  "zf534f094": "Yonhap riporta l'incontro come conferma della solidità dei legami economici tra i due Paesi alleati.",
-  "za3286c2f": "Radio Okapi segue da vicino il percorso della nazionale congolese nel torneo regionale.",
   "zecdfd41c": "STAT presenta i punti salienti dello studio pubblicato su The Lancet sul chatbot di Google.",
-  "z7bdcd267": "South China Morning Post racconta come la mostra trasformi il lutto per i luoghi scomparsi in materiale creativo.",
-  "z9616ffd1": "la Repubblica evidenzia la strategia europea di sovranità tecnologica dietro l'espansione di Scaleway.",
-  "z925f96d8": "Geopop spiega il funzionamento tecnico del nuovo satellite e il suo ruolo nel monitoraggio ambientale.",
-  "zc81bc9f7": "IPN descrive l'ampliamento del fondo come sostegno alle imprese e ai progetti energetici.",
-  "zf6ab1285": "Construction Dive riporta le previsioni degli economisti sulla spesa aziendale nei prossimi anni.",
   "z7cf28328": "Medical Xpress presenta lo studio come un bilancio tra benefici e rischi delle terapie post-infarto.",
-  "z49d33b1a": "South China Morning Post riporta le parole del presidente come un campanello d'allarme sullo stato del basket cinese.",
   "z436267cd": "NZZ denuncia la mancata attenzione delle autorità zurighesi ai problemi già emersi a Berna.",
-  "zea4c2fe7": "Geopop valorizza l'esemplare come testimonianza vivente della storia naturale della Sardegna.",
   "z1d4eae13": "MyAnimeList News presenta i dettagli del nuovo cast come anticipazione dell'uscita cinematografica.",
-  "z86adf2f4": "Construction Dive descrive l'espansione come un investimento industriale legato alla produzione militare.",
   "z99c150d9": "Medical Xpress presenta lo studio come un possibile strumento diagnostico precoce basato sull'IA.",
   "z9f825878": "Skift descrive la tensione tra la strategia di lungo periodo di Whitbread e le pressioni di breve termine degli investitori.",
-  "zb3d4bcbf": "CBR riporta la conferma ufficiale come conclusione delle indiscrezioni circolate online.",
-  "z4b8eb363": "Il Post critica la scarsa trasparenza del governo nello spiegare l'uso dei fondi aggiuntivi.",
-  "z92bd3f10": "Wallpaper* presenta l'iniziativa come un progetto collettivo di solidarietà artistica.",
   "ze69fd2b8": "Medical Xpress presenta lo studio come un contributo alla prevenzione dell'obesità adolescenziale.",
-  "zef7b2d1b": "La testata riporta l'annuncio del premier come impegno politico per il futuro, sottolineando però l'incertezza sui dettagli attuativi.",
   "z327a1f5d": "La testata riporta la prospettiva di una dirigente del settore assicurativo sull'impatto dell'IA nel calcolo del rischio.",
   "z7d4f77ed": "La testata collega direttamente il tema medico all'imminenza delle World Series, evidenziando il rischio per i pitcher.",
   "z584e0035": "La testata ricostruisce l'episodio accostandolo a un precedente storico per sottolinearne la gravità.",
-  "z70a134cf": "La testata riporta la strategia dichiarata dal ceo, incentrata su partnership anziché crescita per acquisizioni.",
   "zc47f7d9c": "La testata presenta l'accordo come segnale di cooperazione intercomunitaria su più fronti.",
   "z1f384b0b": "La testata collega l'aumento dei prezzi sia a fattori geopolitici sia alla stagionalità della domanda energetica.",
   "z593b7e10": "La testata evidenzia il potenziale applicativo dello strumento di IA per la comprensione di più patologie.",
-  "zf6624d97": "La testata illustra gli scenari matematici che porterebbero Antonelli al titolo mondiale.",
-  "z57ca6c87": "La testata riporta la dichiarazione positiva del sindaco sull'iniziativa di sviluppo turistico.",
   "z7c9891df": "La testata verifica in chiave di fact-checking un'affermazione politica sul costo della vita.",
   "zc48a46a1": "La testata sottolinea l'incertezza sulle intenzioni russe dietro l'assenza di attacchi energetici.",
-  "z48a941a3": "La testata riporta l'approvazione come notizia già circolata su altri portali specializzati in aviazione.",
-  "z17214a3e": "La testata presenta l'iniziativa come progetto in fase di sviluppo da parte delle istituzioni sanitarie ceche.",
   "z75c9e10c": "La testata riporta sinteticamente i temi dell'incontro istituzionale senza ulteriori dettagli.",
-  "zcd74d93a": "La testata riporta la posizione ufficiale del governo bahreinita sulla richiesta di orari flessibili per i medici.",
   "z71a65909": "La testata si concentra sull'aspetto estetico insolito della reinterpretazione elettrica del modello storico.",
   "zfea9f797": "La testata riporta l'incontro come occasione per rafforzare le relazioni economiche bilaterali.",
   "z54b40f59": "La testata evidenzia i progetti di innovazione presentati dall'ateneo in ambito sanitario.",
   "z5f54dc1b": "La testata mette in evidenza il contrasto tra la bellezza del paesaggio e la pericolosità e illegalità dell'opera.",
-  "zb5670d21": "La testata presenta l'operazione come il risultato finale di una lunga trattativa societaria sul resort.",
   "zc11b57e0": "Daryo sottolinea il nuovo record dell'indice come segnale della crescita del mercato azionario uzbeko.",
   "zb8ebef8c": "3News riporta la disposizione presidenziale come misura concreta di sostegno alla polizia ghanese.",
   "z4d3cf52d": "3News dà rilievo al messaggio di fiducia del ministro sulla ripresa economica ghanese.",
@@ -28947,7 +27743,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zf82dc775": "Nile Post pone l'accento sulle difficoltà quotidiane delle famiglie ugandesi di fronte al rincaro dei prezzi.",
   "ze57a5ed7": "Le testate francesi concordano nel riportare la smentita sull'IA ma evidenziano l'ammissione di plagio, mentre Gulf News riprende la vicenda per un pubblico internazionale.",
   "zea5bf97a": "IPN presenta la donazione tedesca come sostegno concreto al sistema sanitario moldavo.",
-  "z434d9459": "Daily News sottolinea l'appello alla modernizzazione tecnologica delle cooperative africane.",
   "zad1f80e1": "Le due testate concordano sul bilancio crescente dei feriti",
   "ze9f9ad59": "Le due testate concordano sul fatto che la cooperazione d'intelligence regge, nonostante i timori",
   "z9a9590d9": "La testata locale valorizza il ruolo della ong qatariota nel sostegno sociale",
@@ -28994,7 +27789,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z94a0daf0": "Azatutyun evidenzia le proteste dell'opposizione contro gli aumenti salariali approvati dalla maggioranza.",
   "ze63caa00": "Vatican News presenta le iniziative ambientali delle religiose come parte della loro missione pastorale.",
   "z554e2226": "Vatican News presenta l'iniziativa di divulgazione dell'enciclica papale organizzata in Brianza.",
-  "z1cb9ed03": "Daily News sottolinea il ruolo crescente delle cooperative di risparmio nello sviluppo economico tanzaniano.",
   "zb5adf520": "Moscow Times documenta come le femministe russe si siano adattate alla repressione del Cremlino.",
   "zf09a1088": "Moscow Times evidenzia la pesante condanna inflitta a distanza a un critico del governo russo.",
   "zc20fc07e": "The Kyiv Independent segnala i progressi parlamentari ma ricorda i numerosi provvedimenti ancora in sospeso.",
@@ -29147,7 +27941,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zf621d001": "La testata sottolinea come i blocchi coinvolgano spesso militanti provenienti da altri istituti.",
   "z1342afc9": "La testata evidenzia l'entità dei fermi e la giovane età della maggior parte dei coinvolti.",
   "z64f20320": "La testata dà spazio diretto al racconto del giornalista minacciato per il suo lavoro.",
-  "z095dcfb9": "La testata presenta le due versioni contrapposte della vicenda circolate online.",
   "zad71dffe": "La testata mette a confronto le versioni contrapposte di SPD e Unione sulla vicenda.",
   "zd42dd010": "La testata invita a distinguere tra questioni di equità fiscale e necessità di bilancio del governo.",
   "ze4d2b806": "La Süddeutsche Zeitung inquadra la vicenda nel solco della storia della libertà di stampa tedesca, paragonandola alla Spiegel-Affäre.",
@@ -29258,8 +28051,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z5d1b36fe": "Defimedia informa i cittadini sulla data di entrata in vigore del nuovo formato anagrafico.",
   "z1316e568": "Defimedia sottolinea la volontà delle autorità di non interrompere il calendario degli esami nonostante la sospensione delle lezioni.",
   "zeebcb1f5": "Defimedia riporta l'appello della federazione dei templi come misura organizzativa per la giornata di festa.",
-  "z1cf707d3": "La Deutsche Welle valuta la tenuta politica del governo, il Washington Post la novità della sfida, il Financial Times punta sul malessere economico dei giovani.",
-  "z938faa4b": "Al Jazeera mette in primo piano il giudizio sui guadagni personali del presidente; PBS riporta il dato come opinione largamente condivisa tra gli americani.",
   "z9d6062c9": "Le testate russe in esilio, Meduza e Moscow Times, riportano la versione dell'FSB attribuendola al servizio di sicurezza e dedicano un approfondimento al profilo del cronista, Yuki Imai.",
   "z5ade811b": "I giornali pachistani riportano insieme la linea del governo, che parla di sicurezza, e quella del PTI, che parla di una mossa politica.",
   "zfbfeab11": "Lo Spiegel guarda al voto con un'analisi da esperto, il portoghese Público segue la vicenda familiare e giudiziaria del candidato.",
@@ -29268,30 +28059,71 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z0ccac8b2": "Il Mail & Guardian, giornale sudafricano, riporta il rapporto di un think tank del continente.",
   "z09d92b84": "Good News Network la presenta come una buona notizia per l'energia pulita.",
   "zf6419134": "ERR News riporta l'operazione come un recupero concluso senza incidenti.",
-  "zf5d49c99": "Universe Today racconta Hera come il seguito scientifico del test DART.",
   "z92aeb0a5": "Universe Today sottolinea la sorpresa di una scoperta emersa da una ricerca diversa.",
   "zfd105821": "OndaRock lo presenta come un tuffo in uno dei capitoli più leggendari della carriera di Dylan.",
-  "zfeef8b45": "Il Times of India riporta l'avvertimento rivolto a OpenAI, Amazon, Anthropic, Tesla e Microsoft.",
   "z8a02dbf6": "Meduza, testata russa in esilio, legge l'offerta come un modo per concentrare il mercato.",
-  "z0e3da098": "RTÉ presenta la raccomandazione come una risposta al ritardo della copertura vaccinale.",
   "z280e5d32": "Vatican News dà risalto all'intervento del presidente dell'ISS.",
-  "z450e2e88": "Il New York Times descrive il fenomeno come una trasformazione di pesci popolari in prodotti di lusso.",
   "z407bff78": "Dawn, giornale pachistano, racconta la gara con tono sportivo e riconosce la prova dei battitori ospiti.",
   "z1bb51443": "Il Financial Times si concentra sulla tenuta dei ricavi da trading, Repubblica sulla cautela di Dimon.",
-  "za2835aaa": "Il Japan Times riporta le indiscrezioni come orientamento tra i funzionari, non come decisione.",
-  "ze9364535": "Dawn registra la variazione dei prezzi dei carburanti decisa dal governo.",
-  "z3d333264": "La Tagesschau racconta il conflitto dal punto di vista di chi vive di lavoro quotidiano.",
-  "zd6f3c45a": "ANSA sottolinea che la manovra non è ancora in Consiglio, il Sole 24 Ore l'agenda piena della riunione.",
-  "z8ef6f092": "Il Sole 24 Ore guarda ai fondi e agli organici, i punti ancora aperti.",
   "za99b99b7": "La Repubblica riporta la proposta con le parole del suo promotore.",
-  "zfc44ed05": "The Namibian presenta la scelta come una misura di prevenzione.",
-  "zc76ea18a": "Cyprus Mail annuncia l'evento come un incontro tra musica da camera e pittura.",
   "z094f46ed": "RTP presenta lo spettacolo come un omaggio familiare e artistico.",
   "ze43e8856": "Dezeen la racconta come un esercizio di volumi sfalsati affacciati sul lago.",
   "zbde12e2e": "Designboom si concentra sull'idea di un giardino che separa i due volumi.",
-  "z018e837e": "New Civil Engineer riporta insieme la rassicurazione e i richiami del regolatore.",
   "z7fcccb74": "Skift legge il rinvio come una pausa per completare i lavori.",
-  "z130f7018": "Skift invita a leggere la crescita rispetto al punto di partenza."
+  "z130f7018": "Skift invita a leggere la crescita rispetto al punto di partenza.",
+  "zcf6f2cec": "Al Jazeera mette in evidenza i danni alle infrastrutture, in particolare agli ospedali, e le persone rimaste bloccate negli edifici.",
+  "ze5a30fce": "Deutsche Welle mette in evidenza il legame, dichiarato dai vertici britannici, tra il complotto sventato e il governo iraniano.",
+  "z9371c2cd": "Al Jazeera e la Repubblica mettono in evidenza l'assedio e i colpi sui civili, The Straits Times le condizioni di vita degli abitanti, The Express Tribune l'escalation militare.",
+  "z857bac07": "Gambero Rosso mette in evidenza la fedeltà alla tradizione e la continuità familiare del servizio.",
+  "zc8ea3075": "Il Moscow Times punta sulle perdite in Borsa, il Kyiv Independent smonta le voci sugli effetti propagandistici, Gazeta.uz racconta i disservizi in Uzbekistan.",
+  "z8a169155": "OndaRock sottolinea la lunga attesa e i continui rinvii, Pitchfork il calendario: singolo a Capodanno e album nel 2027.",
+  "zaf131601": "The Guardian racconta con ironia la lite social, Billboard si concentra sulla sfida tra Clarkson e Riley Green a The Voice.",
+  "z2241a5b6": "Gambero Rosso insiste sui danni agli alimenti, Geopop spiega il meccanismo tecnico dell'attacco e le perdite economiche.",
+  "z6fd9a148": "UN News mette in evidenza il divario tra l'aumento delle crisi e la debolezza della risposta internazionale.",
+  "z4c35042b": "La Nasa mette in evidenza il ruolo dell'interazione tra due modi vicini in frequenza.",
+  "z5e997974": "PBS NewsHour mette in evidenza il conflitto tra tagli di bilancio e accesso alle terapie per i bambini.",
+  "z49fc3c46": "Enab Baladi mette in evidenza il rischio che chi ha perso gli atti resti escluso dal nuovo sistema.",
+  "ze41d4d1c": "Good News Network mette in evidenza il valore ispirazionale dell'iniziativa per le nuove generazioni.",
+  "z9cde12cf": "Dezeen mette in evidenza il dialogo tra progettazione del paesaggio e ricerca sul comportamento animale.",
+  "z50732108": "RNZ mette in evidenza i toni duri di Jones e la contestazione dei residenti davanti alla miniera.",
+  "zf77c602c": "Bon Appétit mette in evidenza il lato emotivo e personale dell'apertura di un nuovo ristorante.",
+  "za0dcf01d": "Il Consiglio dell'Ue mette in evidenza il carattere tecnico del passo, legato al recepimento delle norme europee.",
+  "z821ab223": "La Nasa mette in evidenza il ruolo del lander nel progetto di una base permanente sulla Luna.",
+  "z8547da69": "NPR mette in evidenza la chitarra elettrica e i temi intimi dei brani.",
+  "z862d93de": "The BMJ mette in evidenza i limiti dell'approccio medico centrato sulla diagnosi rispetto ai bisogni concreti di bambini e famiglie.",
+  "zb59a410c": "Fumettologica mette in risalto la dimensione della mostra, con oltre 500 originali, e il percorso che va da Alan Ford a Tex.",
+  "zee2dcd86": "HotNews, citando Variety, mette in evidenza l'ambizione del ruolo e il ritorno di Banderas a un progetto di grande scala.",
+  "z67969e09": "Good News Network presenta la vicenda come parte di una tendenza: la solidarietà dei giovani verso gli anziani ancora costretti a lavorare.",
+  "zbfdeb2d7": "AREA mette in risalto il nuovo ruolo del premio come osservatorio sulle trasformazioni del territorio.",
+  "z2068a069": "Condé Nast Traveler affida la spiegazione a un'ex assistente di volo e mette l'accento sulle ragioni di sicurezza.",
+  "z898325e7": "Phnom Penh Post mette in evidenza la richiesta cambogiana di tecnologie e fondi ai Paesi più ricchi.",
+  "z264dc553": "Mosaïque Guinée si concentra sul calendario ufficiale della CAF, mentre Africaguinee aggiunge i luoghi delle partite e cita Conakry per l'andata.",
+  "z68fdfeaa": "Il Consiglio dell'Ue comunica in modo tecnico la chiusura provvisoria del capitolo 20.",
+  "z391a3b18": "La NASA mette in evidenza i dettagli tecnici del lancio e la quantità di carico scientifico e logistico.",
+  "z2d69fd12": "Radio Prague International sottolinea l'atteggiamento positivo ma prudente del governo ceco.",
+  "z11c009f1": "OndaRock punta sull'effetto sorpresa: la scelta di May non cade sul brano più celebre dei Queen.",
+  "z9d69363a": "The BMJ mette in evidenza il forte divario sociale nella salute in Scozia e si chiede cosa possa fare il Paese per migliorare.",
+  "z9c497a4f": "RTP mette a confronto la posizione di Livre, che contesta la presidenza di Ventura, con la replica del leader di Chega.",
+  "za18a32d7": "AREA mette in evidenza la scelta di colori e materiali come strumento per organizzare lo spazio.",
+  "z747272ee": "Science News Explores evita una risposta netta e sottolinea che contano il modo e lo scopo con cui si usa l'IA.",
+  "z4fe26a56": "Anime News Network riporta in modo sintetico l'annuncio della fine e la storia editoriale della serie.",
+  "z1866224f": "RNZ mette in evidenza l'uso dei dati del drone e la loro condivisione con agenzie e partner internazionali.",
+  "z8f17fe7b": "Bhutan Broadcasting Service sottolinea il successo del test e il suo valore per la prevenzione delle alluvioni.",
+  "z6f751f40": "The BMJ mette in evidenza le cause strutturali delle disuguaglianze e la proposta di ridistribuire le risorse.",
+  "zead3136f": "Sky News mette l'accento sul valore storico del ritorno della Formula 1 nel continente africano.",
+  "z591b07bb": "Gambero Rosso punta sul percorso personale della fondatrice e sull'offerta del nuovo locale.",
+  "z68cffdb2": "Orizzonte Scuola mette in evidenza la pressione sociale sui genitori più che il reale valore didattico dell'IA.",
+  "zba8ffca7": "La testata si concentra sulla convenienza di un investimento immobiliare, dal punto di vista di chi pensa di comprare.",
+  "z9f7c1cf5": "La testata si concentra sull'identità e sulla natura del gruppo che rivendica l'azione.",
+  "zf1d62a2f": "La testata mette in evidenza le scelte difficili delle famiglie e il calo dell'attività per chi offre servizi sanitari.",
+  "z94c37bdf": "La testata presenta l'addio come una scadenza già prevista e si concentra sulle ipotesi per la successione.",
+  "z3f57bc83": "La testata ha un taglio pratico e di servizio, rivolto a docenti e personale della scuola vicini alla pensione.",
+  "z44ca4d60": "La testata mette in evidenza lo scambio reciproco tra i due artisti e le collaborazioni coinvolte.",
+  "z3d73a6dc": "La testata presenta i luoghi dal punto di vista personale di un fan del genere.",
+  "z5bc9be19": "La testata mette in evidenza il ritardo nelle diagnosi maschili, partendo dai dati di una società scientifica.",
+  "z8e4eaa32": "La testata guarda alla gastronomia spagnola attraverso la lente storica della conservazione degli alimenti.",
+  "z91d7e2b8": "La testata mette a confronto i benefici dei modelli aperti con i rischi per la sicurezza segnalati da Anthropic.",
+  "z7ecebe8a": "Il Messaggero offre un pezzo di servizio, centrato su orari, formazioni e canali tv della partita."
  },
  "contesti": {
   "z2995a5a1": "Nei giorni scorsi il presidente statunitense Donald Trump ha annunciato un'intesa di tregua limitata alle sole infrastrutture energetiche. Tuttavia, lunedì il presidente ucraino Volodymyr Zelensky aveva denunciato il ferimento di sei impianti, contestando l'effettiva volontà russa di rispettare lo stop agli attacchi prima della tregua parziale registrata martedì.",
@@ -29312,7 +28144,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z822a2404": "La sessione di calciomercato della Juventus ha profondamente rinnovato il reparto offensivo della squadra, inserendo nuovi profili internazionali come Kolo Muani e Woltemade in sostituzione di precedenti riferimenti tecnici come Dusan Vlahovic. L'avvio delle competizioni ufficiali ha spinto la stampa sportiva e la tifoseria a tracciare i primi bilanci sull'efficacia delle scelte societarie e sul rendimento dei nuovi arrivati rispetto alle aspettative iniziali.",
   "zd0110173": "Il mercato globale dell'intelligenza artificiale sta registrando una competizione serrata tra i principali colossi tecnologici mondiali per lo sviluppo di modelli linguistici e sistemi generativi sempre più potenti. In questo contesto, Meta ha progressivamente investito ingenti risorse computazionali per potenziare la propria infrastruttura e ampliare le capacità dei propri sistemi, puntando a colmare il divario con i concorrenti diretti del settore.",
   "z509f601c": "Il settore del commercio al dettaglio nel Regno Unito continua a subire le pesanti conseguenze dell'inflazione, dell'aumento dei costi fissi operativi e della contrazione della spesa da parte dei consumatori. In questo scenario di grave crisi finanziaria per la GDO britannica, la nota catena di negozi Poundland si è trovata a fronteggiare una situazione debitoria insostenibile, spingendo la proprietà a valutare opzioni di emergenza.",
-  "z459d2ef1": "Il Zhuhai Air Show rappresenta tradizionalmente la vetrina principale per l'industria aerospaziale e militare della Repubblica Popolare Cinese, unendo la promozione commerciale alla proiezione della potenza tecnologica nazionale. In vista della trentesima edizione della manifestazione biennale, gli organizzatori hanno deciso di ampliare la portata dell'evento per riflettere i recenti progressi compiuti anche nel settore della cantieristica e degli armamenti navali.",
   "z77392053": "Nei giorni scorsi la Roma ha affrontato il Como in campionato, ottenendo un pareggio a reti inviolate che ha evidenziato alcune difficoltà offensive. Nel frattempo, la UEFA Champions League ha inaugurato la sua nuova fase a girone unico, ponendo le squadre di fronte a un calendario fitto e a sfide di altissimo livello europeo, tra cui il ritorno di José Mourinho sulla panchina del Real Madrid.",
   "zf4f6de47": "Nelle ultime settimane il dibattito politico in Colombia si è concentrato sulle politiche di bilancio promosse dai sostenitori del nuovo presidente conservatore. I tagli alla spesa pubblica proposti hanno immediatamente sollevato forti preoccupazioni tra le istituzioni giudiziarie nate dagli accordi di pace e tra le organizzazioni umanitarie, impegnate da anni nella ricerca delle decine di migliaia di dispersi del conflitto.",
   "za22a2135": "Nel corso delle ultime settimane le principali istituzioni finanziarie internazionali hanno aggiornato le loro stime macroeconomiche globali e regionali. L'FMI ha monitorato l'andamento dell'inflazione e della crescita nei Paesi dei Balcani occidentali, rilevando persistenti pressioni sui prezzi al consumo e una generale frenata dell'attività economica rispetto alle previsioni precedenti.",
@@ -29339,7 +28170,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z38d5cb11": "Negli ultimi mesi l'amministrazione uzbeka ha proceduto a diverse rimodulazioni degli incarichi istituzionali nei settori chiave della sicurezza e dell'amministrazione statale.",
   "zf2ea590f": "Nei giorni precedenti l'aggressione si erano registrati attriti nella comunità rurale di Kibimba legati a questioni amministrative e di gestione agricola locale.",
   "zc1045864": "Nelle scorse settimane le autorità di regolamentazione finanziaria tedesche avevano illustrato le nuove norme operative in vista del lancio ufficiale dei depositi previdenziali agevolati.",
-  "z23dc7b1d": "Nelle settimane scorse le diverse forze della sinistra alternativa e i movimenti regionali avevano avviato interlocuzioni informali e incontri programmatici per verificare la possibilità di costruire un fronte comune in vista dei prossimi appuntamenti elettorali, scontrandosi tuttavia con divergenze sui pesi politici e sulle alleanze territoriali.",
   "z73630d18": "Nei mesi precedenti gli osservatori internazionali e le banche centrali della regione avevano registrato segnali di rallentamento della crescita economica, accompagnati da pressioni sui prezzi al consumo alimentate da fattori interni ed esterni, spingendo gli organismi multilaterali a rivedere periodicamente le stime macroeconomiche.",
   "z4a60e8c7": "Nelle scorse settimane le associazioni imprenditoriali e gli analisti finanziari avevano sollecitato riforme strutturali e maggiore certezza giuridica per consolidare i timidi segnali di ripresa registrati dai mercati e superare le persistenti difficoltà macroeconomiche nazionali.",
   "zbba30584": "Nei giorni scorsi le associazioni di categoria avevano proclamato lo stato di agitazione per protestare contro le misure restrittive applicate ad alcuni membri della professione, chiedendone l'immediato rilascio e l'apertura di un tavolo di confronto con le autorità giudiziarie.",
@@ -29359,9 +28189,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zfaef7975": "Nei giorni scorsi il governo boliviano aveva annunciato l'espulsione di decine di membri affiliati alla cartel straniero identificati nel territorio nazionale, mentre la Procura aveva spiccato mandati di cattura e avvisi di ricerca internazionale nei confronti di ex funzionari coinvolti nell'inchiesta.",
   "z9a0fb304": "Nelle scorse settimane i comitati di quartiere avevano sollecitato l'amministrazione comunale e le autorità competenti ad aprire un confronto sulle criticità viarie della zona, lamentando la mancata risposta istituzionale alle istanze di sicurezza stradale.",
   "zf1755393": "Nei mesi scorsi le associazioni ambientaliste e i comitati contrari al belvedere avevano espresso forti perquisiti sull'impatto paesaggistico dell'infrastruttura, chiedendo la pubblicazione integrale degli atti e l'apertura di un confronto pubblico.",
-  "zff1529fc": "Nelle ricerche precedenti condotte nell'area i biologi marini avevano constatato il degrado progressivo dei coralli, evidenziando la necessità di interventi ecologici mirati per ripristinare il delicato equilibrio biologico delle lagune tropicali.",
   "z08f1a5ba": "Nelle scorse settimane i sondaggi preliminari e gli osservatori elettorali avevano registrato una crescente disaffezione degli elettori verso i candidati di partito, favorendo la nascita di movimenti civici e candidature civiche svincolate dai simboli tradizionali.",
-  "z04dace44": "Nelle settimane passate i comitati elettorali di entrambi i partiti principali hanno intensificato la mobilitazione della base, registrando tassi record di partecipazione al voto anticipato nei singoli Stati chiave.",
   "ze172ab4e": "Nelle scorse settimane le amministrazioni locali e le associazioni per il diritto alla casa avevano dibattuto l'opportunità di allentare i vincoli urbanistici e le restrizioni sui lotti edificabili per favorire lo sviluppo edilizio residenziale.",
   "zd5608d8d": "Nei giorni scorsi i media internazionali avevano seguito le reazioni delle capitali europee agli accordi sulle forniture energetiche e le attività investigative condotte dalle agenzie federali nella capitale federale.",
   "z78ff40dd": "Nei mesi scorsi le associazioni industriali tedesche avevano evidenziato la vulnerabilità delle catene di approvvigionamento e la concorrenza aggressiva dei prodotti asiatici nei settori della transizione ecologica.",
@@ -29398,7 +28226,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "za9192059": "Nei giorni precedenti si erano intensificate le tensioni politiche in Spagna attorno alla gestione della «ley de nietos» e alle prossime scadenze elettorali regionali, con il governo che accusa le opposizioni di voler delegittimare il processo di voto dei nuovi cittadini.",
   "z5af7474f": "Da anni l'Istat monitora l'andamento dei prezzi al consumo in Italia, evidenziando negli ultimi report un'impennata del costo della vita trainata soprattutto dal settore immobiliare e dalle utenze energetiche, acuita dalla crisi energetica post-2021 e dall'inflazione degli ultimi anni. L'analisi diffusa oggi ricostruisce l'andamento dei prezzi nell'arco di 25 anni, dal 2000 al 2025, confermando il forte divario tra i vari comparti di spesa.",
   "zd399bf0b": "Australia e Sudafrica si sono affrontate a Durban nel primo Test di una serie che ripropone una rivalità storica nel cricket internazionale. Nei giorni precedenti al match le due squadre avevano completato la preparazione, con gli osservatori che indicavano negli attacchi di bowling dei rispettivi schieramenti un fattore chiave per l'esito dell'incontro, culminato nella netta vittoria australiana.",
-  "z325c3c1a": "Papa Leone XIV è stato ricoverato al policlinico Gemelli di Roma, struttura storicamente utilizzata per i ricoveri pontifici, già nota per aver assistito Giovanni Paolo II e Francesco. Nei giorni precedenti il ricovero le autorità avevano già predisposto protocolli di sicurezza standard per la tutela dei pontefici, poi rafforzati con misure straordinarie in concomitanza con la degenza attuale.",
   "z241bb2be": "Dopo l'invasione russa dell'Ucraina nel febbraio 2022, numerosi Paesi NATO, inclusa la Slovacchia, avevano interrotto o ridotto drasticamente le relazioni militari-diplomatiche con Mosca in segno di condanna. Il governo slovacco guidato da Robert Fico, più volte critico verso le sanzioni occidentali e favorevole a un dialogo con Mosca, ha ora deciso di invertire questa linea, suscitando reazioni critiche tra gli alleati atlantici.",
   "zcdc5335f": "La coalizione di governo rumena è entrata in crisi dopo le dimissioni del precedente esecutivo, lasciando il Paese senza un governo stabile. Il presidente Nicușor Dan ha incaricato Luca Niculescu di formare un nuovo gabinetto, ma i negoziati tra i partiti della ex maggioranza si sono arenati, spingendo Dan a minacciare lo scioglimento anticipato del Parlamento in assenza di un'intesa.",
   "z47e0854f": "Dopo l'incarico conferito dal presidente Nicușor Dan a Luca Niculescu per formare un nuovo governo, i partiti dell'ex coalizione, tra cui il PNL, hanno avviato trattative complesse per garantire un sostegno parlamentare stabile. Le divisioni interne hanno reso difficile un accordo di coalizione completo, spingendo il PNL a valutare soluzioni alternative per evitare lo scioglimento del Parlamento minacciato dal capo dello Stato.",
@@ -29427,14 +28254,11 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zfd111188": "Da giugno la Bolivia è stata scossa da blocchi stradali e proteste sociali che hanno spinto il governo a valutare misure straordinarie. Rodrigo Paz, allora in corsa elettorale poi divenuto presidente, si è affidato a consulenti esterni, tra cui l'argentino Cerimedo, per gestire la crisi politica e di sicurezza, mentre cresceva la pressione interna per dichiarare lo stato d'eccezione.",
   "z84cba3a7": "Pyongyang ha intensificato negli ultimi anni lo sviluppo del proprio arsenale missilistico intercontinentale, con test e parate militari volte a dimostrare capacità di colpire il territorio statunitense. Dopo l'Hwasong-18 e precedenti varianti, Kim Jong-un ha più volte annunciato nuovi sistemi d'arma come deterrente contro Stati Uniti e Corea del Sud, in un contesto di crescenti tensioni sulla penisola coreana.",
   "zf05d7728": "Nel 2021 il governo Orbán fece approvare una legge che vietava la rappresentazione di omosessualità e identità transgender ai minori, equiparandola a contenuti pedopornografici, suscitando condanne dell'Unione europea e una procedura d'infrazione. Negli ultimi mesi, con l'avvicinarsi delle elezioni del 2026, l'opposizione guidata da Péter Magyar ha spinto per un ammorbidimento delle politiche più controverse dell'era Orbán.",
-  "z6fbff298": "Gli Houthi yemeniti sono coinvolti da anni in un conflitto con la coalizione a guida saudita e, dall'inizio della guerra a Gaza, hanno intensificato attacchi contro Israele e navi nel Mar Rosso in solidarietà con i palestinesi. Negli ultimi mesi le tensioni con Riyadh sono riemerse, con scambi di accuse reciproche e timori di una ripresa delle ostilità dirette dopo anni di tregua informale.",
   "zd53d1add": "La riforma dell'autonomia differenziata, varata nel 2024, ha attraversato un percorso travagliato: dopo il referendum abrogativo poi non tenutosi per modifiche normative e la sentenza della Corte costituzionale che ne ha ridimensionato alcuni aspetti, le Regioni hanno negoziato le intese sulle materie trasferibili. Negli ultimi mesi si sono susseguiti incontri tecnici tra governo e Regioni del Nord per definire i testi finali.",
   "z7b183f93": "Negli ultimi giorni Donald Trump ha proposto una tregua energetica tra Russia e Ucraina, chiedendo a Kiev di sospendere gli attacchi alle raffinerie russe mentre Washington negozia intese sul petrolio con Mosca. Nel frattempo la Russia ha continuato a colpire infrastrutture civili ucraine, alimentando le tensioni sulla reale disponibilità degli alleati a sostenere Kiev.",
   "z85f54e9c": "Nei giorni scorsi i leader europei si sono riuniti in un vertice dedicato al finanziamento del sostegno militare ed economico all'Ucraina, mentre da Washington sono giunte pressioni per un cambio di leadership a Kiev, in un contesto di crescenti tensioni diplomatiche legate alla gestione del conflitto con la Russia.",
   "zb2934fb5": "Negli ultimi anni Apple ha ampliato progressivamente la propria offerta nel settore smart home, affiancando ad Apple TV e HomePod nuovi accessori per la domotica, in competizione con Amazon e Google. Il lancio della nuova Siri basata su intelligenza artificiale generativa, più volte rinviato, era atteso da tempo come tassello chiave della strategia Apple per il 2026.",
   "zee8fc60f": "'Digger', diretto da Alejandro G. Iñárritu e interpretato da Tom Cruise, è arrivato nelle sale con un budget produttivo elevatissimo e aspettative legate al prestigio del regista premio Oscar. Nonostante la campagna promozionale, il film ha incontrato un'accoglienza tiepida di critica e pubblico, con un debutto al box office già inferiore alle proiezioni iniziali degli studi.",
-  "zb884f5ad": "Il programma Safe, varato dall'Unione europea nel 2025 per sostenere il riarmo degli Stati membri attraverso prestiti agevolati, ha raccolto richieste da diversi Paesi preoccupati dalle tensioni geopolitiche con la Russia e dalla necessità di rafforzare le capacità di difesa comuni. L'Italia ha presentato la propria domanda nei mesi scorsi, in linea con gli impegni assunti in sede Nato sull'aumento della spesa militare.",
-  "z4b8eb363": "Negli ultimi anni i governi italiani hanno fatto ricorso allo strumento dello scostamento di bilancio soprattutto in fasi di emergenza, come la pandemia, fornendo di norma dettagliate relazioni al Parlamento sulle finalità della spesa aggiuntiva. Le crescenti necessità di spesa militare, legate agli impegni Nato, e i costi energetici hanno spinto l'esecutivo a richiedere nuovo margine di bilancio.",
   "zc48a46a1": "Negli ultimi mesi la Russia ha più volte colpito impianti energetici ucraini, in particolare con l'arrivo della stagione fredda, aggravando le condizioni di vita della popolazione civile e alimentando le tensioni diplomatiche internazionali sul conflitto.",
   "z8d027790": "Nei giorni scorsi il governo ha lavorato alla definizione della manovra, con confronti tra maggioranza e opposizione sulle misure fiscali e sociali da inserire nel testo.",
   "za8fb16d3": "Negli ultimi mesi gli Stati Uniti sotto Trump hanno intensificato i contatti diretti con la Russia per cercare soluzioni negoziali sul conflitto ucraino, incluse intese su forniture energetiche, mentre l'Ucraina ha continuato la sua campagna di attacchi con droni e i Paesi europei hanno espresso preoccupazione per un possibile allentamento del sostegno a Kiev.",
@@ -29473,7 +28297,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z5703203b": "Nei giorni scorsi il TSE era stato teatro di una disputa tra decisioni contrastanti: lo stesso Nunes Marques aveva ordinato in un procedimento amministrativo misure sulla diffusione di contenuti online, poi modificate da altri giudici del tribunale, generando incertezza sulla gestione della comunicazione elettorale in vista del ballottaggio.",
   "z1795e250": "La Corea del Sud ha registrato negli ultimi anni un aumento di episodi di violenza con coltello in spazi pubblici, episodi che hanno più volte sollevato dibattiti sulla sicurezza urbana e sulla salute mentale. Il governo del presidente Lee Jae-myung, insediato nel 2025, ha promesso rafforzamenti dei controlli di sicurezza dopo precedenti casi analoghi avvenuti in metropolitane e centri commerciali del Paese.",
   "z188a0836": "L'Azerbaigian ha progressivamente rafforzato restrizioni sull'abbigliamento religioso negli istituti scolastici, in linea con una politica di laicità statale che già in passato aveva generato tensioni con famiglie e comunità religiose. Il divieto di indossare l'hijab, applicato con crescente rigore nelle scuole pubbliche, ha suscitato malcontento crescente tra studenti e genitori, sfociato ora in manifestazioni di piazza di dimensioni inusuali per il Paese.",
-  "z50552ba2": "Gli Stati Uniti hanno negli ultimi anni intensificato pressioni e sanzioni contro la Corte penale internazionale, in particolare dopo l'emissione di mandati d'arresto verso funzionari e leader alleati di Washington. Tali misure, già criticate da diversi governi europei e organizzazioni per i diritti umani, sono tornate al centro del dibattito proprio nei giorni dell'assegnazione del Nobel per la Pace, riaccendendo lo scontro sulla legittimità e l'indipendenza del tribunale dell'Aia.",
   "z8f8a21b6": "Papa Leone XIV, eletto l'8 maggio 2025, ha proseguito un fitto calendario di impegni pastorali nei mesi scorsi. Negli ultimi giorni le sue condizioni di salute hanno destato attenzione, portando i medici del Gemelli a disporre un intervento chirurgico. La notizia del ricovero ha mobilitato immediatamente fedeli e cittadini romani, già abituati a radunarsi davanti al policlinico durante le crisi sanitarie dei pontefici.",
   "zcda62273": "Da mesi in Serbia proseguono le proteste studentesche e accademiche contro il governo, con accuse di sorveglianza e repressione da parte delle autorità verso i manifestanti, in particolare studenti e professori universitari che chiedono trasparenza e responsabilità istituzionale.",
   "zdabb4459": "Il dibattito sul percorso europeo della Serbia si è intensificato negli ultimi mesi, con il governo accusato dall'opposizione di rallentare il processo di adesione all'Unione europea mentre il Paese affronta proteste interne e tensioni politiche.",
@@ -29508,9 +28331,16 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z91764e6e": "Da tempo i servizi occidentali monitorano l'aumento delle attività ibride condotte da Russia e Iran, che spaziano da sabotaggi a infrastrutture critiche a campagne di disinformazione e spionaggio contro il Regno Unito e i suoi alleati. Negli ultimi mesi si sono moltiplicati gli episodi attribuiti a Mosca e Teheran, culminati nel recente allarme lanciato dal direttore dell'MI5 Ken McCallum.",
   "z5bbcda3a": "L'epidemia di ebola nella Repubblica Democratica del Congo, Paese che ha già affrontato numerosi focolai negli ultimi decenni, è riemersa nelle regioni orientali tra crisi umanitaria e conflitti armati in corso. Le autorità sanitarie e le organizzazioni internazionali hanno intensificato gli sforzi di tracciamento e vaccinazione, ma il numero di contagi ha continuato a crescere nelle ultime settimane fino a superare la soglia dei 9.000 casi.",
   "z17db096d": "La città di Taiz, nello Yemen centrale, è contesa da anni tra le forze governative e i ribelli Houthi, che controllano le vie di accesso principali imponendo blocchi e restrizioni ai rifornimenti. Negli ultimi mesi gli Houthi hanno progressivamente rafforzato la pressione militare attorno alla città, aggravando la crisi umanitaria già drammatica causata da anni di guerra civile nel Paese.",
-  "z1cf707d3": "Fino a questo mese il primo ministro Narendra Modi non aveva incontrato una vera opposizione di piazza tra quasi un miliardo di elettori. Le manifestazioni, battezzate dei «scarafaggi», sono nate attorno alle modifiche delle liste elettorali e sono guidate soprattutto da giovani; il governo risponde con fermi, arresti dei leader e il blocco della capitale.",
   "z9d6062c9": "Il fermo è avvenuto a Južno-Sachalinsk. L'FSB ha diffuso il video dell'arresto e ha accusato il giornalista, corrispondente di un quotidiano giapponese, di spiare le capacità difensive russe. La notizia è rimbalzata sui media russi in esilio, che hanno ricostruito la sua identità e riferito dell'ordine del tribunale. ",
-  "z5ade811b": "Domenica 11 ottobre il governo centrale ha imposto il governo del governatore e lo stato di emergenza nel Khyber Pakhtunkhwa. Oggi il premier ha informato gli alleati della maggioranza e il Senato ha dibattuto il provvedimento: l'opposizione parla di una mossa politica, i ministri di una scelta per la sicurezza."
+  "z5ade811b": "Domenica 11 ottobre il governo centrale ha imposto il governo del governatore e lo stato di emergenza nel Khyber Pakhtunkhwa. Oggi il premier ha informato gli alleati della maggioranza e il Senato ha dibattuto il provvedimento: l'opposizione parla di una mossa politica, i ministri di una scelta per la sicurezza.",
+  "ze5a30fce": "Da anni l'intelligence britannica segnala minacce legate a Teheran sul suolo del Regno Unito. Nell'ottobre 2024 il direttore dell'MI5 Ken McCallum parlò di una ventina di complotti sostenuti dall'Iran individuati dal 2022. Nel 2025 le tensioni sono cresciute dopo i raid israeliani e statunitensi sui siti nucleari iraniani. Ora il governo attribuisce «quasi certamente» a Teheran un piano contro una base che ospita bombardieri americani.",
+  "z9371c2cd": "La guerra in Yemen oppone dal 2014 i ribelli Houthi, sostenuti dall'Iran, al governo riconosciuto internazionalmente, appoggiato dal marzo 2015 da una coalizione guidata dall'Arabia Saudita. Taiz è accerchiata dai miliziani da circa un decennio, mentre Marib, ultima roccaforte governativa del nord, fu teatro di una grande offensiva Houthi nel 2021. La tregua del 2022 aveva ridotto i combattimenti, che ora tornano a intensificarsi.",
+  "zc8ea3075": "Da mesi l'Ucraina colpisce con droni infrastrutture strategiche in territorio russo, ampliando progressivamente gli obiettivi. Yandex, principale gruppo tecnologico del Paese, opera interamente sotto controllo russo dopo la separazione dalla ex capogruppo olandese, completata nel 2024. I raid contro i suoi data center, tra cui quello di Vladimir, hanno causato disservizi anche all'estero, spingendo l'azienda a sospendere i canoni e facendo crollare il titolo in Borsa.",
+  "za0dcf01d": "Dopo l'invasione russa del febbraio 2022, l'Ucraina ha chiesto di entrare nell'Unione europea, ottenendo lo status di candidato nel giugno dello stesso anno. I negoziati di adesione sono stati formalmente avviati nel giugno 2024, ma l'apertura dei capitoli tematici ha incontrato a lungo il veto dell'Ungheria. Ora il Consiglio annuncia l'apertura dei negoziati su mercato interno, competitività e crescita inclusiva.",
+  "z9f7c1cf5": "Nella notte del 6 ottobre uomini armati e con il volto coperto hanno minacciato militari lettoni lungo la frontiera con la Bielorussia. In seguito un gruppo finora poco conosciuto, «Black Rus», ha rivendicato l'azione. Questo ha spinto a indagare sulla sua identità.",
+  "zcf6f2cec": "La Libia resta politicamente divisa tra due autorità rivali, a Tripoli e nell'Est, una frattura che indebolisce la manutenzione delle infrastrutture e la gestione delle emergenze. Il Paese porta ancora la ferita del settembre 2023, quando la tempesta Daniel causò il crollo di due dighe a Derna, con migliaia di vittime. Ora piogge torrenziali hanno colpito la capitale, sommergendo strade, abitazioni e ospedali.",
+  "zaf131601": "Kelly Clarkson, nata a Fort Worth, si è affermata vincendo la prima edizione di American Idol nel 2002, diventando una delle voci pop più popolari degli Stati Uniti. Dal 2018 è coach di The Voice e ha condotto un proprio talk show televisivo. Nei giorni scorsi un episodio in un negozio di Brooklyn, legato a un oggetto da 15.000 dollari, ha innescato una polemica sfociata in un duro scambio su X.",
+  "zead3136f": "L'Africa è assente dal calendario della Formula 1 dal Gran premio del Sudafrica disputato a Kyalami nel 1993. Negli anni si sono susseguite ipotesi di ritorno, soprattutto in Sudafrica, senza esito. Nel dicembre 2024, durante l'assemblea della FIA a Kigali, il presidente Paul Kagame annunciò ufficialmente la candidatura del Ruanda. Ora arriva la firma di un accordo decennale."
  },
  "cronologie": {
   "z2995a5a1": [
@@ -29731,20 +28561,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "Oggi",
     "Emersione del rischio concreto di amministrazione controllata e forti timori espressi dai sindacati."
-   ]
-  ],
-  "z459d2ef1": [
-   [
-    "Mesi scorsi",
-    "Pianificazione dell'edizione celebrativa del trentesimo anniversario della fiera di Zhuhai."
-   ],
-   [
-    "Settimane scorse",
-    "Conferma dell'inclusione della nuova area espositiva dedicata agli equipaggiamenti navali militari."
-   ],
-   [
-    "Oggi",
-    "Inaugurazione della fiera con l'esposizione congiunta di velivoli stealth e hardware navale."
    ]
   ],
   "z77392053": [
@@ -30023,20 +28839,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "Guerra dei prezzi e lancio delle offerte commerciali a zero commissioni"
    ]
   ],
-  "z23dc7b1d": [
-   [
-    "8 ottobre",
-    "Avvio dei contatti preliminari tra i rappresentanti delle forze della sinistra"
-   ],
-   [
-    "10 ottobre",
-    "Presentazione delle prime bozze di accordo programmatico"
-   ],
-   [
-    "12 ottobre",
-    "Emersione di resistenze e trattative aperte sulle formule di coalizione"
-   ]
-  ],
   "z73630d18": [
    [
     "5 ottobre",
@@ -30299,20 +29101,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "Messa online della documentazione e invito formale al confronto con i contestatori"
    ]
   ],
-  "zff1529fc": [
-   [
-    "3 ottobre",
-    "Avvio del monitoraggio biologico sulle coste dell'isola remota"
-   ],
-   [
-    "8 ottobre",
-    "Raccolta dei campioni di nutrienti nei pressi delle colonie di uccelli"
-   ],
-   [
-    "12 ottobre",
-    "Pubblicazione dei risultati scientifici sul beneficio ecologico per i coralli"
-   ]
-  ],
   "z08f1a5ba": [
    [
     "1 ottobre",
@@ -30325,20 +29113,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "12 ottobre",
     "Valutazione dell'impatto dei terzi partiti sui collegi in bilico"
-   ]
-  ],
-  "z04dace44": [
-   [
-    "1 ottobre",
-    "Apertura ufficiale dei seggi per il voto anticipato in vari Stati"
-   ],
-   [
-    "7 ottobre",
-    "Pubblicazione dei sondaggi nazionali sulla proiezione dei seggi"
-   ],
-   [
-    "12 ottobre",
-    "Bilancio provvisorio dei milioni di voti già espressi dagli elettori"
    ]
   ],
   "ze172ab4e": [
@@ -30763,20 +29537,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "13 ottobre 2026",
     "Vittoria dell'Australia per 214 run"
-   ]
-  ],
-  "z325c3c1a": [
-   [
-    "giorni scorsi",
-    "Ricovero del Papa al Gemelli"
-   ],
-   [
-    "ore precedenti",
-    "Attivazione del dispositivo di sicurezza rafforzato"
-   ],
-   [
-    "13 ottobre 2026",
-    "Predisposizione no-fly zone e misure anti-drone e anti-hacker"
    ]
   ],
   "z2a138319": [
@@ -31207,24 +29967,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "Il Parlamento abroga le norme più restrittive"
    ]
   ],
-  "z6fbff298": [
-   [
-    "2015",
-    "Inizio dell'intervento militare saudita in Yemen"
-   ],
-   [
-    "2022",
-    "Tregua informale tra Houthi e coalizione saudita"
-   ],
-   [
-    "2023-2025",
-    "Attacchi Houthi nel Mar Rosso legati alla guerra di Gaza"
-   ],
-   [
-    "13 ottobre 2026",
-    "Ordine di evacuazione e minacce reciproche"
-   ]
-  ],
   "zd53d1add": [
    [
     "giugno 2024",
@@ -31269,34 +30011,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "13 ottobre 2026",
     "Crollo del 60% degli incassi nel secondo weekend"
-   ]
-  ],
-  "zb884f5ad": [
-   [
-    "2025",
-    "Varo del programma Safe dell'Ue per il riarmo"
-   ],
-   [
-    "primavera 2026",
-    "L'Italia presenta la richiesta di finanziamento"
-   ],
-   [
-    "13 ottobre 2026",
-    "La Commissione approva la richiesta italiana di 8 miliardi"
-   ]
-  ],
-  "z4b8eb363": [
-   [
-    "2020-2022",
-    "Scostamenti di bilancio per l'emergenza Covid con motivazioni dettagliate"
-   ],
-   [
-    "2025",
-    "Aumento degli impegni di spesa militare in sede Nato"
-   ],
-   [
-    "13 ottobre 2026",
-    "Il governo ottiene 29 miliardi senza motivazioni dettagliate"
    ]
   ],
   "zc48a46a1": [
@@ -31731,20 +30445,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "Nuove proteste e blocchi di scuole in tutta la Francia"
    ]
   ],
-  "z50552ba2": [
-   [
-    "mesi scorsi",
-    "Washington impone nuove sanzioni alla CPI"
-   ],
-   [
-    "giorni scorsi",
-    "Assegnazione del Nobel per la Pace"
-   ],
-   [
-    "oggi",
-    "Intervista di Navanethem Pillay sulle sanzioni USA"
-   ]
-  ],
   "z41c859c8": [
    [
     "4 dicembre 2025",
@@ -32151,20 +30851,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "L'incendio avanza verso la Cordillera de Sama e la Riserva di Sama"
    ]
   ],
-  "z1cf707d3": [
-   [
-    "Inizio ottobre",
-    "Parte la protesta giovanile contro le modifiche alle liste degli elettori"
-   ],
-   [
-    "Nei giorni scorsi",
-    "Migliaia di fermi, leader arrestati all'arrivo, capitale sotto controllo"
-   ],
-   [
-    "13 ottobre",
-    "Analisi internazionali: la sfida a Modi è seria, ma far cadere il capo dell'autorità elettorale resta difficile"
-   ]
-  ],
   "z9d6062c9": [
    [
     "13 ottobre, mattina",
@@ -32183,6 +30869,134 @@ window.EDIZIONI["2026-10-13-sera"] = {
    [
     "13 ottobre",
     "Il premier informa gli alleati; il Senato discute, con l'opposizione che parla di «trattative farsa»"
+   ]
+  ],
+  "z9f7c1cf5": [
+   [
+    "6 ottobre",
+    "Uomini armati e mascherati minacciano soldati lettoni al confine con la Bielorussia"
+   ],
+   [
+    "Giorni successivi",
+    "Il gruppo «Black Rus» rivendica l'incursione"
+   ]
+  ],
+  "zcf6f2cec": [
+   [
+    "2014",
+    "La Libia si divide tra governi rivali a ovest e a est"
+   ],
+   [
+    "Settembre 2023",
+    "La tempesta Daniel provoca il crollo delle dighe di Derna"
+   ],
+   [
+    "Oggi",
+    "Piogge torrenziali allagano Tripoli, colpiti anche alcuni ospedali"
+   ]
+  ],
+  "ze5a30fce": [
+   [
+    "2022",
+    "Aumentano le segnalazioni di minacce iraniane nel Regno Unito"
+   ],
+   [
+    "Ottobre 2024",
+    "L'MI5 denuncia una ventina di complotti legati all'Iran dal 2022"
+   ],
+   [
+    "Giugno 2025",
+    "Raid israeliani e statunitensi sui siti nucleari iraniani"
+   ],
+   [
+    "Oggi",
+    "Londra collega a Teheran il complotto contro una base aerea"
+   ]
+  ],
+  "z9371c2cd": [
+   [
+    "Settembre 2014",
+    "Gli Houthi prendono il controllo di Sanaa"
+   ],
+   [
+    "Marzo 2015",
+    "Inizia l'intervento della coalizione a guida saudita"
+   ],
+   [
+    "2021",
+    "Offensiva Houthi su Marib"
+   ],
+   [
+    "Aprile 2022",
+    "Tregua mediata dall'Onu riduce i combattimenti"
+   ]
+  ],
+  "zc8ea3075": [
+   [
+    "Luglio 2024",
+    "Completata la cessione delle attività russe di Yandex a investitori russi"
+   ],
+   [
+    "Giorni scorsi",
+    "Droni ucraini colpiscono data center di Yandex, tra cui Vladimir"
+   ],
+   [
+    "Giorni scorsi",
+    "Disservizi di Yandex Go in Uzbekistan"
+   ],
+   [
+    "Oggi",
+    "Yandex sospende i canoni cloud, il titolo perde il 5,4%"
+   ]
+  ],
+  "zaf131601": [
+   [
+    "2002",
+    "Clarkson vince la prima edizione di American Idol"
+   ],
+   [
+    "2018",
+    "Debutta come coach a The Voice"
+   ],
+   [
+    "Giorni scorsi",
+    "L'episodio nel negozio di Brooklyn"
+   ],
+   [
+    "Oggi",
+    "La lite con un utente su X"
+   ]
+  ],
+  "za0dcf01d": [
+   [
+    "Febbraio 2022",
+    "Invasione russa e domanda di adesione di Kiev"
+   ],
+   [
+    "Giugno 2022",
+    "L'Ucraina ottiene lo status di Paese candidato"
+   ],
+   [
+    "Giugno 2024",
+    "Prima conferenza intergovernativa: avviati i negoziati"
+   ],
+   [
+    "Oggi",
+    "Aperti i negoziati su mercato interno e crescita"
+   ]
+  ],
+  "zead3136f": [
+   [
+    "1993",
+    "Ultimo Gran premio in Africa, a Kyalami"
+   ],
+   [
+    "Dicembre 2024",
+    "Kagame presenta la candidatura del Ruanda a Kigali"
+   ],
+   [
+    "Oggi",
+    "Firmato l'accordo decennale per un Gran premio in Ruanda"
    ]
   ]
  },
@@ -32453,39 +31267,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "divergono": "CBC News e The Guardian concordano sul fatto centrale (nessun preavviso d'intelligence prima dell'attacco su Kyiv) ma CBC approfondisce di più il contesto geopolitico, citando Financial Times, CNN ed esperti su una possibile sospensione della condivisione di intelligence USA, aspetto solo accennato dal Guardian. The Washington Post, leggibile solo in parte, sposta il focus su un comandante NATO che avverte Kyiv sulle raffinerie, prospettiva assente negli altri due articoli. Dawn e The Express Tribune non trattano la notizia di Zelensky, ma un test missilistico pakistano, dunque non sono comparabili sul tema."
   },
-  "zb884f5ad": {
-   "voci": [
-    {
-     "n": "ANSA",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Riporta, citando «fonti Ue», il via libera della Commissione al piano Safe italiano, precisando che la cifra totale non è confermata ma dovrebbe superare, come richiesto dal governo, gli 8 miliardi.",
-     "b": "a"
-    },
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Articolo non leggibile integralmente: dal titolo e dall'occhiello emerge che si tratta di un «prestito conveniente» a tassi bassi che permette all'Italia di rinnovare l'apparato militare. Giudizio parziale, basato solo su titolo e occhiello.",
-     "b": "t"
-    },
-    {
-     "n": "Il Sole 24 Ore",
-     "c": "Milano",
-     "p": "IT",
-     "t": "Cita direttamente un portavoce della Commissione europea, che conferma l'approvazione del piano per «poco superiore agli 8 miliardi di euro» e spiega i prossimi passi: approvazione del Consiglio Ue, firma dell'accordo e prima tranche del 15%. Fornisce anche il contesto generale del fondo Safe, istituito nel 2025 con una dotazione fino a 150 miliardi di euro per 18 Stati membri.",
-     "b": "a"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Articolo non leggibile integralmente: stesso titolo e occhiello della versione precedente, che parlano di un «prestito conveniente» a tassi bassissimi per rinnovare l'apparato militare. Giudizio parziale, basato solo su titolo e occhiello.",
-     "b": "t"
-    }
-   ],
-   "divergono": "Il Sole 24 Ore si distingue per il livello di dettaglio, riportando la dichiarazione diretta di un portavoce della Commissione e descrivendo l'iter successivo (approvazione del Consiglio, firma, erogazione della prima tranche del 15%), oltre al contesto generale del fondo Safe. ANSA si limita a citare «fonti Ue» senza dettagli sui prossimi passi né sulla cifra esatta. Le due versioni di la Repubblica, non leggibili integralmente, enfatizzano nell'occhiello l'aspetto del «prestito conveniente» a tassi bassi, elemento non presente negli altri due articoli."
-  },
   "z9cb81ec2": {
    "voci": [
     {
@@ -32546,6 +31327,39 @@ window.EDIZIONI["2026-10-13-sera"] = {
     }
    ],
    "divergono": "Diverse testate hanno testo leggibile solo parziale (Süddeutsche Zeitung, la Repubblica nelle due versioni, FAZ), limitandosi a titolo e occhiello, mentre ANSA, ORF, Der Standard e Deutsche Welle offrono resoconti completi. Deutsche Welle aggiunge dettagli assenti altrove, come la reazione 'furiosa' di Trump e Rubio riferita dall'AP e le richieste di indagine dei democratici. ORF è l'unica a riportare la cifra precisa di 100.000 dollari legata a Eric Deters, mentre ANSA cita invece i nomi dei magnati greci Exarchou e Tsakos per i viaggi di lusso."
+  },
+  "z9371c2cd": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Mette al centro l'avanzata governativa a Marib nell'operazione «Alba dello Yemen», con cifre del portavoce militare (1.879 attacchi, 950 combattenti Houthi neutralizzati). Su Taiz attribuisce agli Houthi bombardamenti sui quartieri, citando un proprio corrispondente, l'agenzia statale Saba e una rete per i diritti: cinque civili uccisi, 17 feriti.",
+     "b": "a"
+    },
+    {
+     "n": "The Express Tribune",
+     "c": "Karachi",
+     "p": "XX",
+     "t": "Apre sull'escalation saudita-Houthi: attacco a un deposito di carburante a Sanaa, missile su Riad con 13 morti, minacce ad Aramco, nel quadro della guerra USA-Iran. Su Taiz riporta nove raid governativi, vittime civili dei bombardamenti Houthi e 216.000 sfollati secondo l'OCHA. In chiusura cita come «esercito yemenita» le forze Houthi.",
+     "b": "a"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "Testo Reuters centrato sull'assedio di Taiz visto dai residenti: «notte di terrore», prezzi in rapida crescita, bottiglietta d'acqua fino a 4 dollari. Cita l'OIM, fonti governative (80.000 fuggiti), un analista e la presa di al-Misrakh da parte degli Houthi; segnala che gli Houthi non hanno risposto. Tono informativo.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale, basato su titolo e occhiello. Presenta Taiz come città strategica e «roccaforte repubblicana» assediata dagli Houthi con «droni e cecchini», ricordandone il ruolo nella primavera yemenita del 2011 e la posizione verso il Mar Rosso, e riporta la denuncia delle autorità di una «grave crisi umanitaria».",
+     "b": "t"
+    }
+   ],
+   "divergono": "Al Jazeera dà ampio spazio all'avanzata governativa a Marib, che The Straits Times menziona solo indirettamente e The Express Tribune non tratta, privilegiando lo scontro diretto tra Arabia Saudita e Houthi e la cornice della guerra USA-Iran. Le cifre sulle vittime civili a Taiz coincidono su 17 feriti ma divergono sui morti: cinque per Al Jazeera, sei per The Express Tribune. Sugli sfollati, The Straits Times riporta 80.000 fuggiti secondo fonti governative, The Express Tribune 172.000 dalla provincia secondo l'OCHA. Al Jazeera riferisce la cattura di 81 Houthi ad al-Dhabab, mentre The Straits Times riporta la presa di al-Misrakh da parte degli Houthi."
   }
  },
  "luoghi": {
@@ -32570,21 +31384,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z50552ba2": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z8b94146a": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z8b3f8d6e": {
    "n": "Roma",
    "p": [
     "Italy"
@@ -32640,31 +31440,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "ze05f2657": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "zf8c80a65": {
    "n": "Berlino",
    "p": [
     "Germany"
-   ],
-   "pt": []
-  },
-  "ze3a3eaf3": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
-  "z4b9c3884": {
-   "n": "Nottingham",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -32682,38 +31461,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zc7bac680": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zad295875": {
-   "n": "Brooklyn",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "zcc366d43": {
-   "n": "New York",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "za93976c7": {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z311349a4": {
-   "n": "Shanghai",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -32733,13 +31484,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Bruxelles",
    "p": [
     "Belgium"
-   ],
-   "pt": []
-  },
-  "zf02a8e18": {
-   "n": "Hong Kong",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -32936,13 +31680,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zb0a3da0c": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "z08b64fe1": {
    "n": "Italia",
    "p": [
@@ -32964,20 +31701,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z93d23c94": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zc2eabb66": {
-   "n": "Milano",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zac3baa38": {
    "n": "Regno Unito",
    "p": [
@@ -32989,13 +31712,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Stati Uniti d'America",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z459d2ef1": {
-   "n": "Zhuhai",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -33018,38 +31734,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z873fe2a9": {
-   "n": "Dublino",
-   "p": [
-    "Ireland"
-   ],
-   "pt": []
-  },
-  "z97606b73": {
-   "n": "Manchester",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "zc28dbd9c": {
    "n": "Boston",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z9601cb1c": {
-   "n": "Hong Kong",
-   "p": [
-    "Hong Kong"
-   ],
-   "pt": []
-  },
-  "z187dfc7a": {
-   "n": "Pechino",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -33064,20 +31752,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Upper Merion",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z3053da81": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zf82de8b4": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -33228,13 +31902,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z6248a644": {
-   "n": "Dili",
-   "p": [
-    "Timor-Leste"
-   ],
-   "pt": []
-  },
   "ze8cea627": {
    "n": "Kigoma",
    "p": [
@@ -33253,13 +31920,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Abuja",
    "p": [
     "Nigeria"
-   ],
-   "pt": []
-  },
-  "z1d47cd16": {
-   "n": "Dubai",
-   "p": [
-    "United Arab Emirates"
    ],
    "pt": []
   },
@@ -33309,13 +31969,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Dubai",
    "p": [
     "United Arab Emirates"
-   ],
-   "pt": []
-  },
-  "zdd31d9fe": {
-   "n": "Damascus",
-   "p": [
-    "Syria"
    ],
    "pt": []
   },
@@ -33399,25 +32052,11 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zcd7a2b48": {
-   "n": "Guayaquil",
-   "p": [
-    "Ecuador"
-   ],
-   "pt": []
-  },
   "z68b1454e": {
    "n": "Yaoundé",
    "p": [
     "United Kingdom",
     "Spain"
-   ],
-   "pt": []
-  },
-  "zbd27c04f": {
-   "n": "Il Cairo",
-   "p": [
-    "Egypt"
    ],
    "pt": []
   },
@@ -33530,13 +32169,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Unione Europea",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "zb5207063": {
-   "n": "Kuala Lumpur",
-   "p": [
-    "Malaysia"
    ],
    "pt": []
   },
@@ -33899,13 +32531,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z23dc7b1d": {
-   "n": "Madrid",
-   "p": [
-    "Spain"
-   ],
-   "pt": []
-  },
   "z73630d18": {
    "n": "San Paolo",
    "p": [
@@ -34039,21 +32664,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zff1529fc": {
-   "n": "Pacific Ocean",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z08f1a5ba": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z04dace44": {
    "n": "Washington",
    "p": [
     "United States of America"
@@ -34912,13 +33523,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z160253cb": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zdcc738c4": {
    "n": "Roma",
    "p": [
@@ -34965,20 +33569,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Singapore",
    "p": [
     "Singapore"
-   ],
-   "pt": []
-  },
-  "z6cadd440": {
-   "n": "Sistema solare",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z88d3d46f": {
-   "n": "Provincia di Verona",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -35038,20 +33628,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z7dd8d661": {
-   "n": "Erevan",
-   "p": [
-    "Armenia"
-   ],
-   "pt": []
-  },
-  "z45cc39af": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zb5bb6c03": {
    "n": "Stati Uniti",
    "p": [
@@ -35062,13 +33638,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z9535f33e": {
    "n": "non specificato",
    "p": [],
-   "pt": []
-  },
-  "zf2da02c0": {
-   "n": "Navarra",
-   "p": [
-    "Spain"
-   ],
    "pt": []
   },
   "zb540d1f7": {
@@ -35096,13 +33665,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Coimbra",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "z325c3c1a": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -35179,13 +33741,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z57de8292": {
-   "n": "Hong Kong",
-   "p": [
-    "Hong Kong"
-   ],
-   "pt": []
-  },
   "z50580e12": {
    "n": "Parigi",
    "p": [
@@ -35253,13 +33808,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Grecia",
    "p": [
     "Greece"
-   ],
-   "pt": []
-  },
-  "z50f7871f": {
-   "n": "Gambia",
-   "p": [
-    "Gambia"
    ],
    "pt": []
   },
@@ -35671,13 +34219,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Ungheria",
    "p": [
     "Hungary"
-   ],
-   "pt": []
-  },
-  "zea1056db": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -36611,14 +35152,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z6fbff298": {
-   "n": "Sanaa",
-   "p": [
-    "Yemen",
-    "Saudi Arabia"
-   ],
-   "pt": []
-  },
   "zd53d1add": {
    "n": "Roma",
    "p": [
@@ -36687,13 +35220,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z73020d7a": {
-   "n": "Bangkok",
-   "p": [
-    "Thailand"
-   ],
-   "pt": []
-  },
   "z84b84d49": {
    "n": "Cambridge",
    "p": [
@@ -36722,38 +35248,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zb884f5ad": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z9032f9b4": {
-   "n": "Houston",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z73384bd8": {
    "n": "Golfo Persico",
    "p": [
     "Iran"
-   ],
-   "pt": []
-  },
-  "zbe96e9ac": {
-   "n": "Limerick",
-   "p": [
-    "Ireland"
-   ],
-   "pt": []
-  },
-  "z21ec226d": {
-   "n": "Senigallia",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -36778,13 +35276,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zbf28405c": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z5c419b8c": {
    "n": "Italia",
    "p": [
@@ -36799,11 +35290,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zb7e7260f": {
-   "n": "Luna",
-   "p": [],
-   "pt": []
-  },
   "zb27f69c9": {
    "n": "Stati Uniti",
    "p": [
@@ -36811,24 +35297,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "ze6cfcce2": {
-   "n": "Seul",
-   "p": [
-    "South Korea"
-   ],
-   "pt": []
-  },
   "ze4605f8e": {
    "n": "Nigeria",
    "p": [
     "Nigeria"
-   ],
-   "pt": []
-  },
-  "z65c71b6f": {
-   "n": "Lucca",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -36840,13 +35312,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "pt": []
   },
   "zde4d06de": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zc6ab26e0": {
    "n": "Regno Unito",
    "p": [
     "United Kingdom"
@@ -36874,13 +35339,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zd9793006": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "za4f1c467": {
    "n": "Roma",
    "p": [
@@ -36899,20 +35357,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Regno Unito",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "ze3f3fb69": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z0be5b318": {
-   "n": "Italia",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -36937,13 +35381,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z54c7e14d": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "za76436f7": {
    "n": "Italia",
    "p": [
@@ -36955,18 +35392,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Europa",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "z3747b93a": {
-   "n": "Universo primordiale",
-   "p": [],
-   "pt": []
-  },
-  "ze34f9372": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -36998,13 +35423,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z0015092f": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "z8a3a69b9": {
    "n": "Italia",
    "p": [
@@ -37016,33 +35434,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Stati Uniti",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "zb665c010": {
-   "n": "Via Lattea",
-   "p": [],
-   "pt": []
-  },
-  "z1d0e5996": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "za65b8ec8": {
-   "n": "Giappone",
-   "p": [
-    "Japan"
-   ],
-   "pt": []
-  },
-  "z2db5588e": {
-   "n": "Šumava",
-   "p": [
-    "Czechia",
-    "Germany"
    ],
    "pt": []
   },
@@ -37067,24 +35458,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "za74e7300": {
-   "n": "Mare del Nord",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "z09b353b6": {
    "n": "Messico",
    "p": [
     "Mexico"
-   ],
-   "pt": []
-  },
-  "zd0ce609b": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -37095,57 +35472,8 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zf534f094": {
-   "n": "Seul",
-   "p": [
-    "South Korea"
-   ],
-   "pt": []
-  },
-  "za3286c2f": {
-   "n": "Yaoundé",
-   "p": [
-    "Cameroon"
-   ],
-   "pt": []
-  },
   "zecdfd41c": {
    "n": "Boston",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z7bdcd267": {
-   "n": "Hong Kong",
-   "p": [
-    "China"
-   ],
-   "pt": []
-  },
-  "z9616ffd1": {
-   "n": "Milano",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z925f96d8": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "zc81bc9f7": {
-   "n": "Chisinau",
-   "p": [
-    "Moldova"
-   ],
-   "pt": []
-  },
-  "zf6ab1285": {
-   "n": "Washington",
    "p": [
     "United States of America"
    ],
@@ -37158,13 +35486,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z49d33b1a": {
-   "n": "Pechino",
-   "p": [
-    "China"
-   ],
-   "pt": []
-  },
   "z436267cd": {
    "n": "Zurigo",
    "p": [
@@ -37172,24 +35493,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zea4c2fe7": {
-   "n": "Luras",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z1d4eae13": {
    "n": "Tokyo",
    "p": [
     "Japan"
-   ],
-   "pt": []
-  },
-  "z86adf2f4": {
-   "n": "California",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -37207,38 +35514,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zb3d4bcbf": {
-   "n": "Los Angeles",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z4b8eb363": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z92bd3f10": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "ze69fd2b8": {
    "n": "Baton Rouge",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "zef7b2d1b": {
-   "n": "Riga",
-   "p": [
-    "Latvia"
    ],
    "pt": []
   },
@@ -37263,13 +35542,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z70a134cf": {
-   "n": "India",
-   "p": [
-    "India"
-   ],
-   "pt": []
-  },
   "zc47f7d9c": {
    "n": "Pyla",
    "p": [
@@ -37291,20 +35563,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zf6624d97": {
-   "n": "Austin",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z57ca6c87": {
-   "n": "Livingstone",
-   "p": [
-    "Zambia"
-   ],
-   "pt": []
-  },
   "z7c9891df": {
    "n": "Nuova Zelanda",
    "p": [
@@ -37319,31 +35577,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z48a941a3": {
-   "n": "Zagabria",
-   "p": [
-    "Croatia"
-   ],
-   "pt": []
-  },
-  "z17214a3e": {
-   "n": "Repubblica Ceca",
-   "p": [
-    "Czechia"
-   ],
-   "pt": []
-  },
   "z75c9e10c": {
    "n": "Beirut",
    "p": [
     "Lebanon"
-   ],
-   "pt": []
-  },
-  "zcd74d93a": {
-   "n": "Manama",
-   "p": [
-    "Bahrain"
    ],
    "pt": []
   },
@@ -37375,13 +35612,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zb5670d21": {
-   "n": "Sal",
-   "p": [
-    "Cabo Verde"
-   ],
-   "pt": []
-  },
   "zad62c332": {
    "n": "Dubai",
    "p": [
@@ -37393,13 +35623,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Accra",
    "p": [
     "Ghana"
-   ],
-   "pt": []
-  },
-  "z607e21b2": {
-   "n": "Commerce City",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -37442,13 +35665,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Russia",
    "p": [
     "Russia"
-   ],
-   "pt": []
-  },
-  "z1951ed57": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -37652,13 +35868,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "n": "Chisinau",
    "p": [
     "Moldova"
-   ],
-   "pt": []
-  },
-  "z434d9459": {
-   "n": "Dar es Salaam",
-   "p": [
-    "Tanzania"
    ],
    "pt": []
   },
@@ -37980,11 +36189,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    "p": [
     "Italy"
    ],
-   "pt": []
-  },
-  "z1cb9ed03": {
-   "n": "Dar es Salaam",
-   "p": [],
    "pt": []
   },
   "zb5adf520": {
@@ -39052,13 +37256,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z095dcfb9": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zad71dffe": {
    "n": "Germania",
    "p": [
@@ -39824,20 +38021,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z1cf707d3": {
-   "n": "Nuova Delhi",
-   "p": [
-    "India"
-   ],
-   "pt": []
-  },
-  "z938faa4b": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z9d6062c9": {
    "n": "Južno-Sachalinsk",
    "p": [
@@ -39896,13 +38079,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zf5d49c99": {
-   "n": "Darmstadt",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
   "z92aeb0a5": {
    "n": "Vancouver",
    "p": [
@@ -39917,13 +38093,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "zfeef8b45": {
-   "n": "Mumbai",
-   "p": [
-    "India"
-   ],
-   "pt": []
-  },
   "z8a02dbf6": {
    "n": "Mosca",
    "p": [
@@ -39931,24 +38100,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z0e3da098": {
-   "n": "Dublino",
-   "p": [
-    "Ireland"
-   ],
-   "pt": []
-  },
   "z280e5d32": {
    "n": "Berlino",
    "p": [
     "Germany"
-   ],
-   "pt": []
-  },
-  "z450e2e88": {
-   "n": "New York",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -39967,59 +38122,10 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "za2835aaa": {
-   "n": "Tokyo",
-   "p": [
-    "Japan"
-   ],
-   "pt": []
-  },
-  "ze9364535": {
-   "n": "Islamabad",
-   "p": [
-    "Pakistan"
-   ],
-   "pt": []
-  },
-  "z3d333264": {
-   "n": "Sanaa",
-   "p": [
-    "Yemen"
-   ],
-   "pt": []
-  },
-  "zd6f3c45a": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z8ef6f092": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "za99b99b7": {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "zfc44ed05": {
-   "n": "Windhoek",
-   "p": [
-    "Namibia"
-   ],
-   "pt": []
-  },
-  "zc76ea18a": {
-   "n": "Nicosia",
-   "p": [
-    "Cyprus"
    ],
    "pt": []
   },
@@ -40044,13 +38150,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
    ],
    "pt": []
   },
-  "z018e837e": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "z7fcccb74": {
    "n": "Mumbai",
    "p": [
@@ -40064,15 +38163,386 @@ window.EDIZIONI["2026-10-13-sera"] = {
     "United States of America"
    ],
    "pt": []
+  },
+  "zcf6f2cec": {
+   "n": "Tripoli",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "ze5a30fce": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z9371c2cd": {
+   "n": "Taiz",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z857bac07": {
+   "n": "Napoli",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc8ea3075": {
+   "n": "Russia",
+   "p": [
+    "Russia",
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z8a169155": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zaf131601": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2241a5b6": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z6fd9a148": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4c35042b": {
+   "n": "Hampton",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5e997974": {
+   "n": "Texas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z49fc3c46": {
+   "n": "Siria",
+   "p": [
+    "Syria"
+   ],
+   "pt": []
+  },
+  "ze41d4d1c": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9cde12cf": {
+   "n": "Shanghai",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z50732108": {
+   "n": "Cromwell",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zf77c602c": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za0dcf01d": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z821ab223": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8547da69": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z862d93de": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb59a410c": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zee2dcd86": {
+   "n": "Spagna",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z67969e09": {
+   "n": "Maryville",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbfdeb2d7": {
+   "n": "Toscana",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2068a069": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z898325e7": {
+   "n": "Cambogia",
+   "p": [
+    "Cambodia"
+   ],
+   "pt": []
+  },
+  "z264dc553": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z68fdfeaa": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z391a3b18": {
+   "n": "Cape Canaveral",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2d69fd12": {
+   "n": "Repubblica Ceca",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z11c009f1": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z9d69363a": {
+   "n": "Scozia",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z9c497a4f": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "za18a32d7": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z747272ee": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4fe26a56": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z1866224f": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z8f17fe7b": {
+   "n": "Lunana",
+   "p": [
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "z6f751f40": {
+   "n": "Scozia",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zead3136f": {
+   "n": "Ruanda",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "z591b07bb": {
+   "n": "Albano Laziale",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z68cffdb2": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zba8ffca7": {
+   "n": "Auckland",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z9f7c1cf5": {
+   "n": "Confine tra Lettonia e Bielorussia",
+   "p": [
+    "Latvia",
+    "Belarus"
+   ],
+   "pt": []
+  },
+  "zf1d62a2f": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z94c37bdf": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z3f57bc83": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z44ca4d60": {
+   "n": "Svezia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z3d73a6dc": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5bc9be19": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z8e4eaa32": {
+   "n": "Spagna",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z91d7e2b8": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7ecebe8a": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
   "z750e8852": 1,
   "zc8f87741": 1,
   "z14a15084": 1,
-  "z50552ba2": 2,
   "z8b94146a": 1,
-  "z8b3f8d6e": 1,
   "zc579f291": 1,
   "z2995a5a1": 2,
   "z8b29ac66": 2,
@@ -40080,21 +38550,13 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z9abd90aa": 1,
   "zf934d23c": 1,
   "zd3b9e823": 1,
-  "ze05f2657": 1,
   "zf8c80a65": 2,
-  "ze3a3eaf3": 1,
-  "z4b9c3884": 1,
   "z11262502": 2,
   "za5d9fe1f": 1,
-  "zc7bac680": 1,
-  "zad295875": 1,
-  "zcc366d43": 1,
   "za93976c7": 1,
-  "z311349a4": 1,
   "z8fd3f614": 1,
   "z9eb7eef7": 1,
   "z44214ec1": 2,
-  "zf02a8e18": 1,
   "z1beeb69f": 1,
   "zd8d229db": 1,
   "zd7d279ac": 2,
@@ -40123,27 +38585,17 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z822a2404": 2,
   "z9e6c52ce": 1,
   "zd0110173": 2,
-  "zb0a3da0c": 1,
   "z08b64fe1": 1,
   "zcbe25b4a": 1,
   "z509f601c": 2,
-  "z93d23c94": 1,
-  "zc2eabb66": 1,
   "zac3baa38": 1,
   "zbea8f729": 1,
-  "z459d2ef1": 2,
   "z177e5c75": 1,
   "z12d8c9e9": 1,
   "z00b6d329": 1,
-  "z873fe2a9": 1,
-  "z97606b73": 1,
   "zc28dbd9c": 1,
-  "z9601cb1c": 1,
-  "z187dfc7a": 1,
   "z2b043917": 1,
   "z5bb7f0c1": 1,
-  "z3053da81": 1,
-  "zf82de8b4": 1,
   "zd3f9e763": 1,
   "z0898cf85": 1,
   "zbe4f0e71": 1,
@@ -40165,11 +38617,9 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "ze7bde2aa": 1,
   "ze20fa556": 1,
   "ze3fcbf3b": 1,
-  "z6248a644": 1,
   "ze8cea627": 1,
   "z51053103": 1,
   "z95cc00ef": 1,
-  "z1d47cd16": 1,
   "z49d66149": 1,
   "z6f59e947": 1,
   "z9e1cef50": 1,
@@ -40177,7 +38627,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z77392053": 2,
   "z1fb44bd4": 2,
   "z2c827af7": 1,
-  "zdd31d9fe": 1,
   "z1f4bf889": 1,
   "zd29d1fac": 1,
   "z76fdc9c2": 1,
@@ -40189,9 +38638,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z13c32468": 1,
   "z3b777ded": 1,
   "z1e1ec0b1": 1,
-  "zcd7a2b48": 1,
   "z68b1454e": 1,
-  "zbd27c04f": 1,
   "z2958bc97": 1,
   "zb8d19660": 1,
   "z259483e8": 1,
@@ -40208,7 +38655,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "ze4567bff": 1,
   "zfafdc256": 1,
   "zee3e0685": 1,
-  "zb5207063": 1,
   "z479ce362": 1,
   "z0b3e0db9": 1,
   "z4b218d2d": 1,
@@ -40259,7 +38705,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z38d5cb11": 1,
   "zf2ea590f": 1,
   "zc1045864": 1,
-  "z23dc7b1d": 1,
   "z73630d18": 1,
   "z4a60e8c7": 1,
   "zbba30584": 1,
@@ -40279,9 +38724,7 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zfaef7975": 2,
   "z9a0fb304": 1,
   "zf1755393": 1,
-  "zff1529fc": 1,
   "z08f1a5ba": 1,
-  "z04dace44": 1,
   "ze172ab4e": 1,
   "zd5608d8d": 1,
   "z78ff40dd": 2,
@@ -40400,7 +38843,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z2a55ff04": 2,
   "z0e200aaa": 1,
   "z2e5518f6": 1,
-  "z160253cb": 1,
   "zdcc738c4": 1,
   "z1b6df5ee": 1,
   "z9f3590dc": 2,
@@ -40408,8 +38850,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z5af7474f": 2,
   "zd399bf0b": 2,
   "zc4145500": 1,
-  "z6cadd440": 1,
-  "z88d3d46f": 1,
   "z311aebb5": 1,
   "z0ff9cd9a": 1,
   "zed744489": 1,
@@ -40418,16 +38858,12 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z6a737a20": 1,
   "zc24b4b71": 1,
   "z15c7b4a5": 1,
-  "z7dd8d661": 1,
-  "z45cc39af": 1,
   "zb5bb6c03": 1,
   "z9535f33e": 1,
-  "zf2da02c0": 1,
   "zb540d1f7": 1,
   "zaa6d770c": 1,
   "z40e6b77d": 1,
   "z9257544e": 1,
-  "z325c3c1a": 2,
   "zc8bee0d7": 1,
   "z04ecfb31": 1,
   "z41c2762b": 1,
@@ -40439,7 +38875,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zde3c081b": 1,
   "z4df62c41": 1,
   "zb8d0af1e": 1,
-  "z57de8292": 1,
   "z50580e12": 1,
   "z3b3fe7d8": 1,
   "zd3fcf66f": 1,
@@ -40450,7 +38885,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zfd062a6b": 1,
   "z62de5a69": 1,
   "z904a8a29": 1,
-  "z50f7871f": 1,
   "zafa0d8ee": 1,
   "z33ca790f": 1,
   "z9edc8215": 1,
@@ -40510,7 +38944,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z2f83d049": 2,
   "zae43b881": 2,
   "z26ebf2fc": 1,
-  "zea1056db": 1,
   "zd0cb12fc": 1,
   "z40fcd861": 1,
   "zefc444ba": 1,
@@ -40645,7 +39078,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z1fdb33b4": 1,
   "z8dd89886": 1,
   "zf05d7728": 2,
-  "z6fbff298": 2,
   "zd53d1add": 2,
   "z93d27611": 1,
   "z9ed57cb7": 1,
@@ -40656,120 +39088,72 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zabb58c9f": 1,
   "z1d6484b4": 1,
   "z125082ad": 1,
-  "z73020d7a": 1,
   "z84b84d49": 1,
-  "zed07da17": 1,
   "zcb544df0": 1,
   "z6d6c5b3c": 1,
   "z8ea6c730": 1,
   "z9a501e44": 1,
-  "zb884f5ad": 2,
-  "z9032f9b4": 1,
-  "zacc779b5": 1,
   "z73384bd8": 1,
-  "zbe96e9ac": 1,
-  "z21ec226d": 1,
   "z4592fece": 1,
   "z328e5bf0": 1,
   "z7b02399d": 1,
-  "zbf28405c": 1,
   "z5c419b8c": 1,
   "z03ae64f6": 1,
-  "zb7e7260f": 1,
   "zb27f69c9": 1,
-  "ze6cfcce2": 1,
   "ze4605f8e": 1,
-  "z65c71b6f": 1,
   "z17f93e00": 1,
   "zde4d06de": 1,
-  "zc6ab26e0": 1,
   "z99a9b6b2": 1,
   "z2aee98ff": 1,
   "z606d7c86": 1,
-  "zd9793006": 1,
   "za4f1c467": 1,
   "z1c059c0b": 1,
   "zea28533a": 1,
-  "ze3f3fb69": 1,
-  "z0be5b318": 1,
   "zae415661": 1,
   "z603866dc": 1,
   "z0129862d": 1,
-  "z54c7e14d": 1,
   "za76436f7": 1,
   "z0543e17c": 1,
-  "z3747b93a": 1,
-  "ze34f9372": 1,
   "zbab402b8": 1,
   "z8a93c757": 1,
   "zb79d95b0": 1,
   "z331050a7": 1,
-  "z0015092f": 1,
   "z8a3a69b9": 1,
   "zd098d4a9": 1,
-  "zb665c010": 1,
-  "z1d0e5996": 1,
-  "za65b8ec8": 1,
-  "z2db5588e": 1,
   "z85f54e9c": 2,
   "z37d4f461": 1,
   "z9f9a45e0": 1,
-  "za74e7300": 1,
   "z09b353b6": 1,
-  "zd0ce609b": 1,
   "z52dadf04": 1,
   "z20f7ec7f": 1,
-  "zf534f094": 1,
-  "za3286c2f": 1,
   "zecdfd41c": 1,
-  "z7bdcd267": 1,
-  "z9616ffd1": 1,
-  "z925f96d8": 1,
-  "zc81bc9f7": 1,
-  "zf6ab1285": 1,
   "z7cf28328": 1,
-  "z49d33b1a": 1,
   "z436267cd": 1,
-  "zea4c2fe7": 1,
   "z1d4eae13": 1,
-  "z86adf2f4": 1,
   "z99c150d9": 1,
   "z9f825878": 1,
-  "zb3d4bcbf": 1,
-  "z4b8eb363": 2,
-  "z92bd3f10": 1,
   "ze69fd2b8": 1,
-  "zef7b2d1b": 1,
   "z327a1f5d": 1,
   "z7d4f77ed": 1,
   "z584e0035": 1,
-  "z70a134cf": 1,
   "zc47f7d9c": 1,
   "z1f384b0b": 1,
   "z593b7e10": 1,
-  "zf6624d97": 1,
-  "z57ca6c87": 1,
   "z7c9891df": 1,
   "zc48a46a1": 2,
-  "z48a941a3": 1,
-  "z17214a3e": 1,
   "z75c9e10c": 1,
-  "zcd74d93a": 1,
   "z71a65909": 1,
   "zfea9f797": 1,
   "z54b40f59": 1,
   "z5f54dc1b": 1,
-  "zb5670d21": 1,
   "zad62c332": 1,
   "z0f57953a": 1,
-  "z607e21b2": 1,
   "zf0f4cc89": 1,
   "z12f1db3e": 1,
   "zf5b76607": 1,
   "z246bc954": 1,
   "z08520dc1": 1,
   "z8dedead6": 2,
-  "z1951ed57": 1,
   "za77fa5bf": 1,
   "z8d027790": 1,
   "z4148a604": 1,
@@ -40799,7 +39183,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zf82dc775": 1,
   "ze57a5ed7": 2,
   "zea5bf97a": 1,
-  "z434d9459": 1,
   "zad1f80e1": 2,
   "ze9f9ad59": 2,
   "z9a9590d9": 1,
@@ -40846,7 +39229,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z94a0daf0": 1,
   "ze63caa00": 1,
   "z554e2226": 1,
-  "z1cb9ed03": 1,
   "zb5adf520": 1,
   "zf09a1088": 1,
   "zc20fc07e": 1,
@@ -40999,7 +39381,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "zf621d001": 2,
   "z1342afc9": 2,
   "z64f20320": 2,
-  "z095dcfb9": 1,
   "zad71dffe": 2,
   "zd42dd010": 1,
   "ze4d2b806": 1,
@@ -41110,8 +39491,6 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z5d1b36fe": 1,
   "z1316e568": 1,
   "zeebcb1f5": 1,
-  "z1cf707d3": 2,
-  "z938faa4b": 1,
   "z9d6062c9": 2,
   "z5ade811b": 2,
   "zfbfeab11": 1,
@@ -41120,30 +39499,71 @@ window.EDIZIONI["2026-10-13-sera"] = {
   "z0ccac8b2": 1,
   "z09d92b84": 1,
   "zf6419134": 1,
-  "zf5d49c99": 1,
   "z92aeb0a5": 1,
   "zfd105821": 1,
-  "zfeef8b45": 1,
   "z8a02dbf6": 1,
-  "z0e3da098": 1,
   "z280e5d32": 1,
-  "z450e2e88": 1,
   "z407bff78": 1,
   "z1bb51443": 1,
-  "za2835aaa": 1,
-  "ze9364535": 1,
-  "z3d333264": 1,
-  "zd6f3c45a": 1,
-  "z8ef6f092": 1,
   "za99b99b7": 1,
-  "zfc44ed05": 1,
-  "zc76ea18a": 1,
   "z094f46ed": 1,
   "ze43e8856": 1,
   "zbde12e2e": 1,
-  "z018e837e": 1,
   "z7fcccb74": 1,
-  "z130f7018": 1
+  "z130f7018": 1,
+  "zcf6f2cec": 2,
+  "ze5a30fce": 2,
+  "z9371c2cd": 2,
+  "z857bac07": 1,
+  "zc8ea3075": 2,
+  "z8a169155": 1,
+  "zaf131601": 2,
+  "z2241a5b6": 1,
+  "z6fd9a148": 1,
+  "z4c35042b": 1,
+  "z5e997974": 1,
+  "z49fc3c46": 1,
+  "ze41d4d1c": 1,
+  "z9cde12cf": 1,
+  "z50732108": 1,
+  "zf77c602c": 1,
+  "za0dcf01d": 2,
+  "z821ab223": 1,
+  "z8547da69": 1,
+  "z862d93de": 1,
+  "zb59a410c": 1,
+  "zee2dcd86": 1,
+  "z67969e09": 1,
+  "zbfdeb2d7": 1,
+  "z2068a069": 1,
+  "z898325e7": 1,
+  "z264dc553": 1,
+  "z68fdfeaa": 1,
+  "z391a3b18": 1,
+  "z2d69fd12": 1,
+  "z11c009f1": 1,
+  "z9d69363a": 1,
+  "z9c497a4f": 1,
+  "za18a32d7": 1,
+  "z747272ee": 1,
+  "z4fe26a56": 1,
+  "z1866224f": 1,
+  "z8f17fe7b": 1,
+  "z6f751f40": 1,
+  "zead3136f": 2,
+  "z591b07bb": 1,
+  "z68cffdb2": 1,
+  "zba8ffca7": 1,
+  "z9f7c1cf5": 1,
+  "zf1d62a2f": 1,
+  "z94c37bdf": 1,
+  "z3f57bc83": 1,
+  "z44ca4d60": 1,
+  "z3d73a6dc": 1,
+  "z5bc9be19": 1,
+  "z8e4eaa32": 1,
+  "z91d7e2b8": 1,
+  "z7ecebe8a": 1
  },
  "video": {},
  "pillole": []
