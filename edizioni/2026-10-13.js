@@ -3,6 +3,1450 @@ window.EDIZIONI["2026-10-13"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "ze77764a5",
+   "sez": "salute",
+   "titolo": "Studio clinico TRIUMPH-2: i risultati del farmaco retatrutide contro obesità e diabete",
+   "orig": "[Comment] Retatrutide in adults with obesity and type 2 diabetes: what have we learned from TRIUMPH-2?",
+   "lead": "Sulle pagine della rivista scientifica The Lancet sono stati presentati e commentati i risultati dello studio clinico di fase tre denominato TRIUMPH-2, condotto da Virginia Bellido e colleghi. La sperimentazione clinica, strutturata come un test in doppio cieco, a gruppi paralleli, randomizzato e controllato con placebo, ha valutato gli effetti del retatrutide in pazienti adulti affetti contemporaneamente da obesità e diabete di tipo due. Il farmaco opera come un triplo agonista dei recettori GLP-1, GIP e glucagone, dimostrando una notevole efficacia nel contrastare la minore perdita di peso solitamente osservata nei pazienti diabetici. Lo riferisce The Lancet.",
+   "more": [
+    "Il retatrutide appartiene a una nuova classe di molecole farmacologiche sviluppate per imitare l'azione di specifici ormoni intestinali coinvolti nella regolazione del glucosio e del senso di sazietà. I farmaci agonisti recettoriali stimolano il pancreas e il metabolismo cellulare, favorendo la gestione della glicemia e inducendo una significativa diminuzione della massa corporea nei soggetti trattati per disturbi metabolici."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01987-2/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za6e06170",
+   "sez": "salute",
+   "titolo": "Terapia CAR-T in vivo mirata a BCMA: monitoraggio esteso per il mieloma multiplo recidivante",
+   "orig": "Extended follow-up of in vivo BCMA CAR-T therapy in relapsed/refractory multiple myeloma",
+   "lead": "Un monitoraggio clinico prolungato ha esaminato l'efficacia e la sicurezza della terapia con cellule CAR-T mirate all'antigene BCMA somministrate in vivo per il trattamento del mieloma multiplo recidivante o refrattario. Lo studio approfondisce la persistenza della risposta immunitaria e la durata dei benefici terapeutici nei pazienti che non rispondono alle cure tradizionali, analizzando l'evoluzione a lungo termine dei trattamenti avanzati di ingegneria cellulare e i relativi esiti clinici nella gestione di questa grave patologia ematologica. Lo riferisce Nature Medicine.",
+   "more": [
+    "La tecnologia CAR-T prevede la modifica genetica dei linfociti T affinché riconoscano e aggrediscano specifiche proteine presenti sulle cellule tumorali, come l'antigene di maturazione delle cellule B nei mielomi. Questo approccio di immunoterapia avanzata cerca di offrire alternative a pazienti che hanno esaurito le linee di cura convenzionali contro forme tumorali refrattarie."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04704-z",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf105f837",
+   "sez": "cultura",
+   "titolo": "Addio a RJ Mitte, l'attore di Breaking Bad scompare a 34 anni",
+   "orig": "Im alter von 34 Jahren: „Breaking Bad“-Schauspieler RJ Mitte gestorben",
+   "lead": "L'attore statunitense RJ Mitte, internazionalmente noto per aver interpretato il ruolo di Walter White Jr. nella celebre serie televisiva Breaking Bad, è deceduto all'età di trentaquattro anni. Oltre alla sua fortunata carriera sul set, l'interprete si era costantemente distinto fuori dalla macchina da presa per il suo impegno a sostegno dei diritti e dell'inclusione delle persone con disabilità, condividendo la propria esperienza personale e sensibilizzando l'opinione pubblica sui temi dell'accessibilità e delle pari opportunità nel mondo dello spettacolo.",
+   "more": [
+    "La serie televisiva Breaking Bad, considerata tra le produzioni seriali più acclamate della televisione contemporanea, ha raccontato le vicende drammatiche della famiglia di Walter White. Il ruolo del figlio, affetto da paralisi cerebrale infantile, fu affidato proprio a RJ Mitte, che condivideva realmente una forma lieve della stessa condizione neurologica."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/gesellschaft/menschen/walter-white-jr-in-breaking-bad-schauspieler-rj-mitte-gestorben-201312048.html",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/feuilleton/kultur-die-neuesten-meldungen-ld.10032377",
+     "angolo": "",
+     "atlas": "Switzerland"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cultura/luto-hollywood-muere-34-anos-rj-mitte-recordado-walter-jr-breaking-bad/20261012165815997526.html",
+     "angolo": "",
+     "atlas": "Bolivia"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2634749",
+     "angolo": "",
+     "atlas": "Netherlands"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/13/culturaipsilon/noticia/rj-mitte-serie-breaking-bad-activista-direitos-pessoas-deficiencia-morre-34-anos-2191172",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/13/bryan-cranston-breaking-bad-rj-mitte-reageert-overlijden.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4a2df96e",
+   "sez": "mondo",
+   "titolo": "Incidente a RAF Fairford: Londra accusa Teheran e ritira i bombardieri B-1 statunitensi",
+   "orig": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+   "lead": "Il governo britannico ritiene altamente probabile la responsabilità dell'Iran dietro un recente e allarmante incidente di sicurezza verificatosi presso la base aerea militare di RAF Fairford. Il primo ministro Andy Burnham ha informato il parlamento dell'esistenza di forti elementi a carico di Teheran, disponendo l'immediata convocazione dell'ambasciatore iraniano a Londra, mentre l'allarme ha imposto il ritiro precauzionale dei bombardieri pesanti B-1 dell'aeronautica statunitense dalla base. Nel frattempo, trentadue Paesi hanno formalmente condannato le minacce statali, gli attentati e i sabotaggi sostenuti dalla Repubblica Islamica.",
+   "more": [
+    "La base aerea di RAF Fairford, situata nel Gloucestershire inglese, funge storicamente da snodo strategico per le operazioni della Royal Air Force e per lo schieramento avanzato dei bombardieri dell'aviazione degli Stati Uniti. L'installazione ospita regolarmente velivoli da combattimento pesanti impiegati in esercitazioni congiunte e missioni di deterrenza della NATO in Europa."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941",
+     "angolo": "",
+     "atlas": "Germany"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/945744/32-countries-condemn-irans-state-backed-threats-cite-raf-fairford-incident",
+     "angolo": "",
+     "atlas": "Iraq"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z507e2ba9",
+   "sez": "mondo",
+   "titolo": "Elezioni in Israele: Trump frena sul sostegno a Netanyahu a ridosso del voto",
+   "orig": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
+   "lead": "In vista delle imminenti elezioni legislative israeliane fissate per il ventisette ottobre, il presidente degli Stati Uniti Donald Trump mantiene una posizione prudente evitando di concedere un esplicito appoggio pubblico al primo ministro uscente Benjamin Netanyahu, nonostante il loro lungo rapporto politico e personale. La cautela della presidenza americana si inserisce in un quadro di mutamenti profondi dell'opinione pubblica e di rinnovate frizioni diplomatiche, mentre il dibattito politico in Israele resta segnato dalle conseguenze dei conflitti regionali e dal difficile percorso verso accordi stabili nell'area mediorientale.",
+   "more": [
+    "Le relazioni tra la leadership statunitense e il governo israeliano costituiscono un asse centrale degli equilibri mediorientali, influenzando sia gli accordi diplomatici sia la cooperazione militare. La vicinanza tra i leader politici statunitensi e i vertici di Israele affronta regolarmente tensioni legate alle strategie di sicurezza e alla gestione delle questioni territoriali palestinesi."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/opinion/2026-10-13/ty-article-opinion/.premium/netanyahus-peace-pipe-dream-israels-october-7-nightmare/000001a1-3152-defc-adf3-73d67ebf0000",
+     "angolo": "",
+     "atlas": "Israel"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze8565d07",
+   "sez": "mondo",
+   "titolo": "Sagal Abdi-Wali diventa la prima rifugiata di origine somala eletta al Parlamento britannico",
+   "orig": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
+   "lead": "La laburista Sagal Abdi-Wali ha prestato giuramento ed è ufficialmente entrata nella storia come la prima rifugiata di origine somala a essere eletta al Parlamento del Regno Unito. La neo-deputata ha conquistato il seggio della Camera dei Comuni nella circoscrizione di Holborn e St Pancras attraverso un'elezione suppletiva. Il traguardo politico ha ricevuto immediati attestati di congratulazioni anche all'estero, tra cui il messaggio pubblico diffuso dal primo ministro della Somalia Hamza Abdi Barre per celebrare la prima donna britannico-somala eletta a Westminster.",
+   "more": [
+    "Il Parlamento del Regno Unito, con sede a Londra, comprende la Camera dei Comuni e la Camera dei Lord. Le elezioni suppletive vengono convocate in un singolo collegio elettorale quando un seggio parlamentare diventa vacante per dimissioni, decesso o revoca dell'incarico, consentendo ai cittadini residenti di votare un nuovo rappresentante."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament",
+     "angolo": "",
+     "atlas": "Qatar"
+    },
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/news4/2026/Oct/206505/somali_pm_congratulates_sagal_abdiwali_on_historic_uk_parliament_win.aspx",
+     "angolo": "",
+     "atlas": "Somalia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcd11dd13",
+   "sez": "economia",
+   "titolo": "La Cina approva la stanza di compensazione locale per Visa per le transazioni in yuan",
+   "orig": "China approves local clearing organisation for Visa after years-long wait",
+   "lead": "Le autorità della Cina hanno concesso l'approvazione a un'organizzazione locale di compensazione per Visa, ponendo fine a un'attesa protrattasi per diversi anni. Il nuovo assetto regolatorio consentirà alla società finanziaria statunitense di regolare direttamente le transazioni domestiche denominate in yuan all'interno del proprio circuito di pagamento. La decisione rappresenta un importante sviluppo nell'apertura del mercato finanziario cinese ai colossi globali dei servizi di credito, consentendo loro di operare con maggiore autonomia nei pagamenti interni. Lo riferisce CNA.",
+   "more": [
+    "I sistemi di compensazione finanziaria svolgono il ruolo cruciale di intermediari nei trasferimenti bancari e nei pagamenti elettronici, calcolando e saldando le posizioni debitorie e creditorie tra istituti di credito. L'accesso diretto a una stanza di compensazione locale permette ai gestori delle carte di credito di trattare transazioni valutarie senza intermediari terzi."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/china-visa-approval-local-clearing-organisation-6455046",
+     "angolo": "",
+     "atlas": "Singapore"
+    },
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924544",
+     "angolo": "",
+     "atlas": "Kyrgyzstan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za1d71aa7",
+   "sez": "mondo",
+   "titolo": "Incidente aereo militare: sommozzatori e soccorritori cercano le vittime e la scatola nera",
+   "orig": "Military Plane Crash: Divers, rescue team intensify search for victims’ bodies, black box",
+   "lead": "In seguito all'incidente di un velivolo militare, le squadre di soccorso e i sommozzatori hanno intensificato le operazioni di ricerca per recuperare i corpi delle vittime e la scatola nera dell'apparecchio. I soccorritori sono impegnati in condizioni complesse per individuare i resti del personale coinvolto e i dispositivi di registrazione di bordo, elementi indispensabili per consentire alle autorità dell'aeronautica di accertare l'esatta dinamica dell'impatto e determinare le cause del disastro aereo. Le operazioni di perlustrazione proseguono nell'area dell'incidente sotto il coordinamento delle forze armate.",
+   "more": [
+    "La scatola nera comprende i registratori dei dati di volo e delle comunicazioni della cabina di pilotaggio, progettati per resistere a impatti estremi e immersioni prolungate. Il ritrovamento di questi apparati risulta determinante per permettere agli investigatori militari e civili di ricostruire le cause meccaniche o umane all'origine di un disastro aereo."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/916581-military-plane-crash-divers-rescue-team-intensify-search-for-victims-bodies-black-box.html",
+     "angolo": "",
+     "atlas": "Nigeria"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-security/2026-10-13/ty-article/.premium/police-search-plane-at-ben-gurion-airport-after-anonymous-bomb-threat/000001a1-33e6-d9bc-a3fd-f3e765650000",
+     "angolo": "",
+     "atlas": "Israel"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9dd369a6",
+   "sez": "mondo",
+   "titolo": "Sudan, le forze civili anti-guerra presentano una roadmap di pace ai mediatori internazionali",
+   "orig": "Sudanese anti-war forces present peace roadmap to regional and international mediators",
+   "lead": "I gruppi civili e politici contrari alla guerra in Sudan hanno presentato formalmente una tabella di marcia per la pace ai mediatori regionali e internazionali, sollecitando la fine immediata e incondizionata del devastante conflitto che dilania il Paese africano. La proposta avanzata dalle forze anti-belliche definisce i passaggi chiave per instaurare un cessate il fuoco duraturo, favorire l'ingresso degli aiuti umanitari essenziali per la popolazione stremata e ripristinare un processo politico inclusivo in grado di ricostruire le istituzioni democratiche e la stabilità civile.",
+   "more": [
+    "Il Sudan è attraversato da un aspro conflitto armato tra fazioni militari rivali che ha causato lo sfollamento di milioni di persone e una grave crisi alimentare ed economica. Le piattaforme civili e i movimenti democratici promuovono iniziative diplomatiche per arrestare i combattimenti e impedire la disgregazione territoriale del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Dabanga",
+     "p": "XX",
+     "c": "Amsterdam",
+     "u": "https://www.dabangasudan.org/en/all-news/article/sudanese-anti-war-forces-present-peace-roadmap-to-regional-and-international-mediators",
+     "angolo": "",
+     "atlas": "Sudan"
+    },
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/sudanese-anti-war-forces-press-for-peace-roadmap",
+     "angolo": "",
+     "atlas": "S. Sudan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z70333cd6",
+   "sez": "salute",
+   "titolo": "Portogallo: denutrizione per 115 mila pazienti, ma gli ospedali controllano solo tre ricoverati su dieci",
+   "orig": "Desnutrição associada à doença atinge cerca de 115 mil doentes",
+   "lead": "Un'associazione portoghese specializzata nell'ambito della nutrizione clinica ha lanciato un allarme evidenziando che circa centoquindicimila pazienti affrontano problemi di denutrizione correlati alla propria patologia, mentre le strutture ospedaliere eseguono screening nutrizionali soltanto su tre ricoverati ogni dieci. La carenza di controlli preventivi sistematici ostacola l'individuazione tempestiva dei deficit alimentari che aggravano il decorso clinico dei malati e aumentano la degenza media. L'organizzazione sollecita l'adozione di protocolli diagnostici uniformi per garantire adeguata assistenza nutrizionale a tutte le persone ospedalizzate.",
+   "more": [
+    "La malnutrizione ospedaliera legata alle malattie croniche o acute insorge quando l'organismo non riceve o non assorbe nutrienti a sufficienza, compromettendo le difese immunitarie e rallentando la guarigione. Lo screening precoce permette di predisporre terapie dietetiche mirate, prevenendo complicazioni secondarie e riducendo il rischio di mortalità nei pazienti fragili."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/desnutricao-associada-a-doenca-atinge-cerca-de-115-mil-doentes_n1771331",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/10/13/doenca-rara-que-atinge-os-olhos-tem-origem-em-anticorpo-que-tambem-afeta-a-tireoide.ghtml",
+     "angolo": "",
+     "atlas": "Brazil"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z59fdbf06",
+   "sez": "mondo",
+   "titolo": "Corea del Nord e Russia concordano di estendere la cooperazione nella gestione delle catastrofi",
+   "orig": "Coreia do Norte e Rússia acordam alargar cooperação em caso de catástrofes",
+   "lead": "La Corea del Nord e la Russia hanno raggiunto un accordo per ampliare la cooperazione bilaterale nella gestione e nella risposta alle catastrofi naturali. L'intesa è stata definita a Pyongyang durante la visita ufficiale di una delegazione governativa russa, come reso noto dall'agenzia di stampa statale nordcoreana KCNA. L'intesa mira a potenziare le capacità congiunte di intervento di fronte a emergenze ambientali e calamità, inserendosi nel progressivo consolidamento dei rapporti diplomatici e dei canali di cooperazione tecnica e istituzionale tra i governi di Mosca e Pyongyang.",
+   "more": [
+    "La cooperazione nella risposta ai disastri comprende lo scambio di informazioni meteorologiche, l'assistenza in caso di inondazioni o frane e la fornitura di aiuti d'emergenza alle popolazioni colpite. Negli ultimi anni il governo nordcoreano ha affrontato ricorrenti emergenze provocate da alluvioni e condizioni climatiche avverse che hanno danneggiato le infrastrutture agricole."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/coreia-do-norte-e-russia-acordam-alargar-cooperacao-em-caso-de-catastrofes_n1771327",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/coreia-do-norte-inaugura-museu-que-exibe-missil-balistico-capaz-de-atingir-eua_n1771325",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/10/12/ue-alarga-sancoes-contra-programa-nuclear-da-coreia-do-norte/105052",
+     "angolo": "",
+     "atlas": "Cabo Verde"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zac0d4a31",
+   "sez": "economia",
+   "titolo": "Australia, il divieto dei supplementi su carte usato come pretesto per rincari più marcati",
+   "orig": "Card surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say",
+   "lead": "Numerose attività commerciali in Australia starebbero sfruttando l'entrata in vigore del divieto sui sovrapprezzi per i pagamenti con carta di credito come pretesto per applicare aumenti di prezzo ben più consistenti ai clienti. Secondo quanto segnalato da diversi analisti economici, bar e ristoranti alle prese con l'aumento dei tassi di interesse e dei costi operativi ricorrono all'arrotondamento dei listini per incrementare i ricavi oltre l'ordinario ricarico dell'uno e mezzo per cento precedentemente consentito, neutralizzando i benefici di trasparenza previsti dalla riforma della banca centrale.",
+   "more": [
+    "I sovrapprezzi sulle transazioni elettroniche sono percentuali aggiuntive applicate dai commercianti per coprire le commissioni bancarie richieste dall'utilizzo dei terminali POS. L'eliminazione formale di queste tariffe mira a tutelare i consumatori, ma in mercati con pressioni inflazionistiche può indurre gli esercenti a incorporare costi maggiori direttamente nei prezzi finali."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Laotian Times",
+     "p": "XX",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/13/emphasys-launches-fixed-price-16-week-sap-cloud-erp-package-for-australian-consumer-goods-companies/",
+     "angolo": "",
+     "atlas": "Laos"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z95261b51",
+   "sez": "economia",
+   "titolo": "Titoli di Stato USA, afflussi record mentre gli investitori inseguono rendimenti ai massimi da decenni",
+   "orig": "Investors brave US Treasury rout to lock in highest yields in decades",
+   "lead": "Gli investitori globali continuano a indirizzare flussi record verso i fondi in titoli del Tesoro statunitense, approfittando della pesante ondata di vendite sul mercato obbligazionario per garantirsi i rendimenti più elevati osservati negli ultimi decenni. Nonostante il persistente calo dei prezzi dei titoli governativi americani e i rischi legati a ulteriori perdite di capitale, i tassi di interesse sul decennale USA saliti sopra il cinque virgola trentasei per cento attraggono sia grandi istituzioni finanziarie sia gestori patrimoniali internazionali desiderosi di bloccare tassi a lungo termine insolitamente favorevoli.",
+   "more": [
+    "I titoli di Stato emessi dal Tesoro degli Stati Uniti, comunemente noti come Treasuries, costituiscono il punto di riferimento globale per il costo del denaro e per gli investimenti a basso rischio. Quando i prezzi delle obbligazioni scendono per effetto delle vendite, i loro rendimenti percentuali aumentano proporzionalmente, influenzando i mercati finanziari mondiali."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-business/article/3370557/hong-kong-investors-are-warming-us-treasury-bonds-yields-hit-20-year-high?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za3c2bfac",
+   "sez": "mondo",
+   "titolo": "Egitto, il premier Madbouly esamina i piani di digitalizzazione in vista dell'Egypt Forum 2026",
+   "orig": "PM reviews Digital Egypt plans ahead of Egypt Forum 2026",
+   "lead": "Il primo ministro egiziano Mostafa Madbouly ha presieduto una riunione per verificare lo stato di avanzamento dei piani di Digital Egypt dedicati all'ampliamento dei servizi pubblici telematici e al potenziamento delle infrastrutture di telecomunicazione, in vista dell'apertura dell'Egypt Forum 2026. L'incontro istituzionale ha esaminato i preparativi per la sessione tematica del vertice dedicata alla trasformazione digitale, che farà il punto sui traguardi tecnologici raggiunti e sulle criticità ancora da superare per modernizzare l'amministrazione e i collegamenti di rete sul territorio nazionale.",
+   "more": [
+    "La digitalizzazione della pubblica amministrazione consiste nel trasferimento delle pratiche burocratiche, dei pagamenti fiscali e dei servizi ai cittadini su piattaforme telematiche accessibili via web. Questo processo richiede investimenti stabili nelle reti di telecomunicazione a banda larga e nella sicurezza informatica per ridurre i costi amministrativi e migliorare l'efficienza statale."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/pm-reviews-digital-egypt-plans-ahead-of-egypt-forum-2026/",
+     "angolo": "",
+     "atlas": "Egypt"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/tecnologia/2026/10/13/digital-innovation-forum-cernobbio-2026",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/pm-reviews-impact-of-urban-development-projects-ahead-of-egypt-forum-2026/",
+     "angolo": "",
+     "atlas": "Egypt"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb9513f51",
+   "sez": "mondo",
+   "titolo": "Trump esclude l'aiuto di Cina e Russia all'Iran: «Avrebbero troppo da perdere»",
+   "orig": "Trump says he doesn’t believe China and Russia are helping Iran",
+   "lead": "Il presidente degli Stati Uniti Donald Trump ha dichiarato di non ritenere che la Cina e la Russia stiano fornendo alcun tipo di aiuto all'Iran nelle dinamiche geopolitiche in corso. Rispondendo alle questioni sulle alleanze di Teheran, il presidente americano ha argomentato che Pechino e Mosca avrebbero troppo da perdere nel sostenere il regime iraniano, aggiungendo che un simile coinvolgimento verrebbe scoperto e reso noto con estrema rapidità dai servizi d'intelligence statunitensi, nonostante i consolidati rapporti diplomatici ed economici che le due potenze mantengono con la Repubblica Islamica.",
+   "more": [
+    "I rapporti tra Washington, Pechino e Mosca influenzano le tensioni in Medio Oriente, dove l'Iran intrattiene partnership commerciali ed energetiche con Russia e Cina. La diplomazia internazionale monitora costantemente le forniture tecnologiche, gli scambi commerciali e le prese di posizione multilaterali per evitare un allargamento delle crisi di sicurezza regionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2634561/trump-says-he-doesnt-believe-china-and-russia-are-helping-iran",
+     "angolo": "",
+     "atlas": "Pakistan"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/united-states/trump-says-he-does-not-believe-china-and-russia-are-helping-iran-at-all",
+     "angolo": "",
+     "atlas": "Singapore"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd46b8c47",
+   "sez": "salute",
+   "titolo": "Uganda, vasta campagna di vaccinazione contro il morbillo per i bambini rifugiati a Nakivale",
+   "orig": "Ouganda : à Nakivale, une vaste campagne de vaccination cible des milliers d’enfants réfugiés contre la rougeole",
+   "lead": "Una vasta campagna di vaccinazione contro il morbillo è stata condotta nel campo profughi di Nakivale, situato nel territorio dell'Uganda, con l'obiettivo di proteggere migliaia di bambini rifugiati e contenere la proliferazione dell'infezione all'interno della struttura di accoglienza. Gli operatori sanitari hanno allestito presidi vaccinali per raggiungere capillarmente le famiglie sfollate che vivono nel campo, prevenendo focolai epidemici e complicanze gravi in un contesto vulnerabile caratterizzato da sovraffollamento e precarie condizioni igienico-sanitarie che espongono l'infanzia a elevati rischi di contagio.",
+   "more": [
+    "Il morbillo è una malattia virale altamente contagiosa che colpisce prevalentemente i bambini e può causare gravi complicanze respiratorie e neurologiche. Nei campi per rifugiati, dove le condizioni di vita favoriscono la rapida trasmissione dei patogeni, la profilassi vaccinale rappresenta lo strumento primario per evitare epidemie e ridurre la mortalità infantile."
+   ],
+   "fonti": [
+    {
+     "n": "SOS Médias Burundi",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.sosmediasburundi.org/2026/10/13/ouganda-a-nakivale-une-vaste-campagne-de-vaccination-cible-des-milliers-denfants-refugies-contre-la-rougeole/",
+     "angolo": "",
+     "atlas": "Burundi"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/sante/vaccination-contre-la-grippe-et-le-covid-on-ne-peut-pas-parier-sur-le-fait-quon-ne-sera-jamais-atteint-dune-forme-grave-quels-que-soient-notre-age-ou-notre-profil-20261013_RC2UNPR3RVBGPF7HHABUREJAZM/",
+     "angolo": "",
+     "atlas": "France"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8b21a074",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV sarà operato per un nodulo al polmone in fase iniziale",
+   "orig": "León XIV se operará de un nódulo en el pulmón en fase “muy inicial”",
+   "lead": "Papa Leone XIV ha annunciato a sorpresa che nei prossimi giorni dovrà sottoporsi a un intervento chirurgico per l'asportazione di un nodulo al polmone rilevato in una fase descritta come molto iniziale. La comunicazione è stata resa nota direttamente dal pontefice a meno di un mese dalla partenza programmata per il suo viaggio apostolico che lo condurrà in Uruguay, Argentina e Perù. L'annuncio ha suscitato immediata attenzione clinica circa la natura della lesione e le tempistiche di recupero necessarie per consentire al pontefice di mantenere l'agenda pastorale.",
+   "more": [
+    "L'asportazione chirurgica di un nodulo polmonare individuato in fase precoce viene frequentemente eseguita mediante procedure mini-invasive che limitano i traumi ai tessuti e favoriscono una ripresa post-operatoria più rapida. I tempi di degenza e di convalescenza dipendono dalle condizioni generali di salute del paziente e dalla localizzazione specifica della lesione."
+   ],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/mundo/leon-xiv-se-operara-de-un-nodulo-en-el-pulmon-en-fase-muy-inicial/",
+     "angolo": "",
+     "atlas": "Nicaragua"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/el-nodulo-pulmonar-del-papa-leon-xiv-que-implica-la-operacion-y-cuanto-puede-demorar-la-recuperacion-segun-un-cirujano-uruguayo-n6060242",
+     "angolo": "",
+     "atlas": "Uruguay"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd64cd08b",
+   "sez": "economia",
+   "titolo": "Camerun, a Douala via libera a due nuovi saponifici industriali",
+   "orig": "Douala : deux nouvelles savonneries en projet, dont une financée par BGFIBank",
+   "lead": "Nella città di Douala, capitale economica del Camerun, sono stati formalizzati a inizio ottobre due nuovi progetti industriali dedicati alla costruzione di stabilimenti per la produzione di sapone. La prima iniziativa ha visto la stipula di un accordo di finanziamento tra l'istituto di credito BGFIBank Camerun e il gruppo TAGIDOR Premium Investments International, mentre la seconda operazione è stata suggellata il giorno successivo attraverso una convenzione d'investimento mirata a potenziare il comparto manifatturiero locale e stimolare l'occupazione nell'area urbana.",
+   "more": [
+    "Lo sviluppo di impianti produttivi per detergenti e beni di consumo essenziali consente di soddisfare la domanda interna riducendo la dipendenza dalle importazioni estere. In Africa centrale, le banche commerciali regionali sostengono questi investimenti manifatturieri per favorire la diversificazione economica e la nascita di filiere produttive locali stabili."
+   ],
+   "fonti": [
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/douala-deux-nouvelles-savonneries-en-projet-dont-une-financee-par-bgfibank/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/un-projet-dadaptation-au-changement-climatique-ameliore-les-rendements-agricoles-de-deux-villages-du-departement-de-guinguineo/",
+     "angolo": "",
+     "atlas": "Senegal"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zeb0f00c6",
+   "sez": "sport",
+   "titolo": "San Marino presenta Titanico739 S4, il pallone tra sostenibilità e impegno sociale",
+   "orig": "Titanico739 S4, il nuovo pallone FSGC tra sostenibilità e impegno sociale",
+   "lead": "La Federazione Sammarinese Giuoco Calcio ha svelato Titanico739 S4, il nuovo pallone ufficiale destinato alle competizioni nazionali per la stagione 2026-2027 e alle selezioni giovanili. Il design della sfera integra richiami visivi agli undici obiettivi di sostenibilità promossi dalla federazione e include un esplicito messaggio a sostegno della campagna contro la violenza di genere. L'iniziativa coniuga l'attività agonistica sul campo con la sensibilizzazione etica e la tutela ambientale. Lo riferisce San Marino RTV.",
+   "more": [
+    "La Federazione Sammarinese Giuoco Calcio coordina le attività calcistiche della Repubblica di San Marino, gestendo i campionati interni e le rappresentative nazionali. Negli ultimi anni molte organizzazioni sportive hanno integrato nei propri strumenti di gioco simboli legati alla responsabilità sociale."
+   ],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/titanico739-s4-il-nuovo-pallone-fsgc-tra-sostenibilita-e-impegno-sociale-a297165",
+     "angolo": "",
+     "atlas": "San Marino"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd4b1a113",
+   "sez": "sport",
+   "titolo": "Champions asiatica: l'Esteghlal supera l'Al-Gharafa per 2-1",
+   "orig": "یاسر آسانی پس از پیروزی برابر الغرافه: با هم می‌جنگیم و با هم پیروز می‌شویم",
+   "lead": "La formazione iraniana dell'Esteghlal ha conquistato un successo per 2-1 contro i qatarioti dell'Al-Gharafa in ambito continentale. Al termine dell'incontro, il calciatore Jasir Asani ha condiviso un messaggio sui propri canali social per ringraziare i compagni di squadra e i sostenitori che lo hanno supportato durante il recente periodo di infortunio, sottolineando lo spirito di gruppo con il motto di lottare e vincere insieme. Lo riferisce Iran International.",
+   "more": [
+    "L'Esteghlal è una delle società calcistiche più note e titolate di Teheran e dell'Iran, protagonista regolare nelle competizioni della confederazione asiatica. Le sfide contro club qatarioti come l'Al-Gharafa rappresentano appuntamenti classici nei tornei tra club dell'Asia occidentale."
+   ],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202610133614",
+     "angolo": "",
+     "atlas": "Iran"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcda88fa9",
+   "sez": "italia",
+   "titolo": "Roma, recuperate le torri dell'Eur dopo vent'anni di abbandono",
+   "orig": "Le torri dell’Eur a Roma sono state recuperate dopo quasi vent’anni di abbandono",
+   "lead": "A Roma si è concluso l'intervento di recupero delle torri dell'Eur, rimaste in stato di abbandono per quasi vent'anni. Il complesso architettonico è stato completamente restaurato con un investimento complessivo pari a 250 milioni di euro. A partire dal 2027 gli edifici accoglieranno la sede centrale dell'Agenzia delle Entrate, segnando la rinascita di un polo direzionale strategico per l'area urbana della capitale italiana. Lo riferisce Il Post.",
+   "more": [
+    "Il quartiere dell'Eur a Roma è celebre per le sue architetture razionaliste e per gli edifici a vocazione direzionale e congressuale. Il recupero di strutture dismesse risponde all'esigenza di riqualificare spazi urbani strategici destinandoli a uffici della pubblica amministrazione."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/13/torri-eur-recupero-roma/",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zccb3f229",
+   "sez": "mondo",
+   "titolo": "Polonia, a processo quattro persone per attentati incendiari su commissione russa",
+   "orig": "Four go on trial in Warsaw over arson attacks carried out on Russian orders",
+   "lead": "Si è aperto a Varsavia il processo a carico di quattro persone accusate di aver pianificato ed eseguito attacchi incendiari coordinati su mandato dei servizi russi. Secondo quanto emerso dall'indagine giudiziaria, il gruppo criminale ha preso di mira grandi complessi commerciali situati in Polonia, Lituania e Lettonia, agendo all'interno di una strategia ostile volta a colpire infrastrutture civili nei Paesi baltici e dell'Europa orientale. Lo riferisce Notes from Poland.",
+   "more": [
+    "Negli ultimi mesi diversi Paesi membri dell'Unione Europea e della Nato hanno intensificato le misure di contrasto contro attività clandestine e operazioni di sabotaggio mirate a danneggiare infrastrutture civili e commerciali, avviando procedimenti penali per tutelare la sicurezza nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/10/12/four-go-on-trial-in-warsaw-over-arson-attacks-carried-out-on-russian-orders/",
+     "angolo": "",
+     "atlas": "Poland"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z037e645e",
+   "sez": "mondo",
+   "titolo": "Cracovia, il candidato indipendente Gibała vince le comunali contro la coalizione di Tusk",
+   "orig": "Independent beats PM Tusk’s candidate in Kraków mayoral election",
+   "lead": "L'indipendente Łukasz Gibała ha vinto le elezioni per la carica di sindaco di Cracovia, sconfiggendo il rivale sostenuto dal primo ministro polacco Donald Tusk. Per Gibała si tratta di un successo arrivato al quarto tentativo personale, dopo essersi candidato alla guida della città in ogni tornata elettorale a partire dal 2014. Il voto segna una battuta d'arresto per la coalizione di governo nella seconda città del Paese. Lo riferisce Notes from Poland.",
+   "more": [
+    "Cracovia è uno dei principali centri storici, culturali ed economici della Polonia. Le elezioni amministrative nelle grandi città polacche riflettono spesso gli equilibri politici nazionali e misurano il consenso tra le forze della maggioranza di governo e le formazioni civiche indipendenti."
+   ],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/10/11/independent-beats-pm-tusks-candidate-in-krakow-mayoral-election/",
+     "angolo": "",
+     "atlas": "Poland"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdaccd9c8",
+   "sez": "mondo",
+   "titolo": "Sudafrica, il capo uscente di NSFAS Carrim difende i risultati tra instabilità di vertice",
+   "orig": "INTERVIEW: Outgoing NSFAS boss Carrim praises gains while lamenting leadership turmoil",
+   "lead": "Waseem Carrim si prepara a lasciare la guida dell'ente sudafricano per il sostegno economico agli studenti universitari per assumere la direzione del Road Accident Fund. In un bilancio del proprio mandato, il dirigente uscente ha elogiato i progressi operativi e il dialogo con gli studenti, esprimendo al contempo preoccupazione per i continui avvicendamenti nei vertici direttivi che minano la stabilità gestionale e la programmazione di lungo termine dell'istituto pubblico. Lo riferisce Daily Maverick.",
+   "more": [
+    "Il National Student Financial Aid Scheme è l'agenzia statale del Sudafrica incaricata di erogare borse di studio e finanziamenti agli studenti universitari provenienti da famiglie a basso reddito, svolgendo un ruolo centrale per l'accesso all'istruzione superiore nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-12-outgoing-nsfas-boss-carrim-praises-gains-while-lamenting-leadership-turmoil/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4c9084c1",
+   "sez": "mondo",
+   "titolo": "Sudafrica, Zille pronta all'opposizione a Johannesburg senza coalizione stabile",
+   "orig": "OUR CITY NEWS: Zille to ‘go into opposition’ if DA doesn’t win a workable coalition in Joburg",
+   "lead": "A poche settimane dalle elezioni amministrative in Sudafrica, l'esponente di Alleanza Democratica Helen Zille ha annunciato che il suo partito sceglierà l'opposizione a Johannesburg se non riuscirà a formare una coalizione di governo solida e funzionale. Zille è impegnata a raccogliere i voti necessari per guidare il consiglio municipale dopo un anno di intensa campagna elettorale sul territorio, caratterizzata da interventi simbolici sui problemi urbani della metropoli. Lo riferisce Daily Maverick.",
+   "more": [
+    "Johannesburg è il cuore economico e finanziario del Sudafrica. La gestione della città è stata spesso segnata negli ultimi anni da coalizioni fragili e frequenti cambi di maggioranza, rendendo centrale il tema della stabilità politica nei consigli comunali."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-12-zille-joburg/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc92a63fd",
+   "sez": "mondo",
+   "titolo": "Georgia, la Corte costituzionale respinge l'astensione di una giudice sulla messa al bando dell'opposizione",
+   "orig": "Constitutional Court Rejects Judge’s Request to Recuse Herself From GD’s Party-Banning Lawsuit",
+   "lead": "La Corte costituzionale della Georgia ha respinto la richiesta presentata dalla giudice Manana Kobakhidze, che chiedeva di astenersi dal procedimento relativo al ricorso del partito di governo Sogno Georgiano volto a mettere al bando diverse forze di opposizione. La magistrata aveva motivato la domanda temendo che le proprie passate attività politiche potessero sollevare dubbi sulla sua imparzialità, ma il collegio ha confermato la sua presenza nel giudizio promosso dalla maggioranza. Lo riferisce Civil.ge.",
+   "more": [
+    "La Corte costituzionale è il massimo organo di controllo sulla conformità delle leggi in Georgia. I tentativi di escludere formazioni politiche tramite sentenze giudiziarie sollevano forti tensioni tra maggioranza e opposizione sul piano dello stato di diritto."
+   ],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/754369",
+     "angolo": "",
+     "atlas": "Georgia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1541d849",
+   "sez": "mondo",
+   "titolo": "Georgia, l'Unione Europea stanzia 38 milioni di euro per progetti locali",
+   "orig": "EU Ambassador Announces EUR 38 Mln in New Projects for Georgia",
+   "lead": "L'ambasciatore dell'Unione Europea in Georgia, Pawel Herczynski, ha annunciato un piano da 38 milioni di euro destinato a nuovi progetti comunitari nel Paese. I fondi saranno impiegati a sostegno dello sviluppo rurale, della crescita delle imprese, dell'emancipazione femminile e della tutela dell'ambiente. Il diplomatico ha espresso l'auspicio di firmare gli accordi operativi entro la fine dell'anno corrente, nonostante le complesse sfide politiche attuali nelle relazioni bilaterali. Lo riferisce Civil.ge.",
+   "more": [
+    "I programmi di cooperazione dell'Unione Europea nei Paesi del vicinato orientale mirano a promuovere riforme socioeconomiche, rafforzare il tessuto produttivo locale e migliorare la sostenibilità ambientale attraverso contributi a fondo perduto e assistenza tecnica."
+   ],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/754328",
+     "angolo": "",
+     "atlas": "Georgia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc5bffa5d",
+   "sez": "economia",
+   "titolo": "Georgia, Kobakhidze annuncia l'aumento delle pensioni e indennizzi per gli sfollati",
+   "orig": "Kobakhidze Announces Increase in Pensions for Those Under 70, Housing Compensation for IDPs",
+   "lead": "Il primo ministro georgiano Irakli Kobakhidze ha annunciato che dal primo gennaio le pensioni per i cittadini sotto i 70 anni saliranno di 45 lari, raggiungendo i 415 lari mensili, pari a circa 160 dollari. Il governo ha così rivisto al rialzo la precedente proposta che prevedeva un incremento di soli 20 lari. Il premier ha inoltre presentato un nuovo meccanismo facoltativo di compensazione abitativa rivolto agli sfollati interni aventi diritto. Lo riferisce Civil.ge.",
+   "more": [
+    "In Georgia le pensioni sociali costituiscono una voce fondamentale del sostegno al reddito per una quota consistente della popolazione. La gestione degli sfollati interni risale ai conflitti regionali passati e richiede continue misure di assistenza per garantire alloggi stabili."
+   ],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/754351",
+     "angolo": "",
+     "atlas": "Georgia"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z83d89fc8",
+   "sez": "mondo",
+   "titolo": "Asia centrale, il vertice di Avaza con l'Azerbaigian apre nuove prospettive di integrazione",
+   "orig": "Azerbaijan–Kazakhstan Ties Could Reorient Central Asian Integration",
+   "lead": "I presidenti dei cinque Paesi dell'Asia centrale si sono riuniti ad Avaza insieme al capo di Stato azerbaigiano Ilham Aliyev in occasione dell'incontro consultivo regionale dell'8 ottobre. Il vertice ha evidenziato come il rafforzamento dei legami strategici ed economici tra Baku e le repubbliche centroasiatiche, in particolare con il Kazakistan, possa ridefinire le direttrici dell'integrazione e dei corridoi di transito dell'intera regione eurasiatica. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "Il formato consultivo tra i leader dell'Asia centrale serve a coordinare politiche comuni su sicurezza, commercio ed energia. La partecipazione dell'Azerbaigian rafforza i corridoi logistici attraverso il Mar Caspio, alternativi alle tradizionali rotte commerciali settentrionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/azerbaijan-kazakhstan-ties-could-reorient-central-asian-integration/",
+     "angolo": "",
+     "atlas": "Kazakhstan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3e0f3ae1",
+   "sez": "economia",
+   "titolo": "Kazakistan, l'export di grano verso l'Europa bloccato dalle ferrovie russe",
+   "orig": "Kazakhstan’s Grain Exports to Europe Hit Russian Rail Bottleneck",
+   "lead": "Le ferrovie statali russe hanno respinto le richieste kazake per il trasporto di grano attraverso il proprio territorio verso i porti dell'Estonia per il mese di ottobre, motivando la decisione con la carenza di capacità sulla rete ferroviaria. Il blocco logistico ha interrotto una rotta commerciale primaria per le esportazioni agricole del Kazakistan destinate ai mercati europei, costringendo i produttori a cercare corridoi alternativi per aggirare l'imbuto russo. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "Il Kazakistan è uno dei maggiori esportatori mondiali di grano, ma la sua posizione senza sbocco sul mare rende il Paese fortemente dipendente dai corridoi di transito ferroviario attraverso la Russia per raggiungere i porti e i clienti europei."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/kazakh-grain-exports-russian-rail-bottleneck/",
+     "angolo": "",
+     "atlas": "Kazakhstan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0b6719b6",
+   "sez": "economia",
+   "titolo": "Romania, il salario medio sale a 5.688 lei ma l'inflazione riduce il potere d'acquisto",
+   "orig": "Salariile cresc, dar jumătate din ramurile economiei pierd cursa cu prețurile",
+   "lead": "In Romania il guadagno salariale medio netto ha raggiunto 5.688 lei nell'agosto 2026, segnando un incremento di 301 lei rispetto all'anno precedente con una crescita nominale del 5,6%. Tuttavia, l'aumento dei prezzi al consumo rilevato dai dati statistici ufficiali ha eroso il reale potere d'acquisto, facendo sì che metà dei settori dell'economia nazionale stia perdendo la sfida contro l'inflazione e garantendo minori beni rispetto a un anno fa. Lo riferisce HotNews.",
+   "more": [
+    "L'istituto nazionale di statistica rumeno misura periodicamente la dinamica salariale e l'indice dei prezzi. Quando l'inflazione supera la progressione delle retribuzioni in termini reali, il potere d'acquisto delle famiglie tende a contrarsi pur a fronte di aumenti numerici in busta paga."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/salariile-cresc-dar-jumatate-din-ramurile-economiei-pierd-cursa-cu-preturile-2374376",
+     "angolo": "",
+     "atlas": "Romania"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z44192301",
+   "sez": "tech",
+   "titolo": "Adobe rafforza lo sviluppo di Firefly ed Express con il team di Bucarest",
+   "orig": "Paul Chiriță, VP Adobe: pe ce pariază compania în următorii cinci ani și ce rol au echipele din București",
+   "lead": "Il vicepresidente di Adobe Paul Chiriță ha illustrato le strategie quinquennali del gruppo tecnologico, evidenziando il ruolo centrale assunto dalle squadre di ingegneri di Bucarest nello sviluppo dei modelli generativi Firefly e della piattaforma Express. Il manager ha spiegato i criteri adottati per misurare l'efficacia dei modelli visivi di intelligenza artificiale e ha delineato le prossime evoluzioni previste per software professionali ampiamente diffusi come Photoshop e Illustrator. Lo riferisce HotNews.",
+   "more": [
+    "Adobe sviluppa programmi per la grafica digitale e la produzione creativa. Negli ultimi anni ha integrato modelli di intelligenza artificiale generativa per consentire la creazione automatica di immagini e semplificare il lavoro di progettazione sia per professionisti che per utenti comuni."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/paul-chirita-vp-adobe-pe-ce-pariaza-compania-in-urmatorii-cinci-ani-si-ce-rol-au-echipele-din-bucuresti-2374368",
+     "angolo": "",
+     "atlas": "Romania"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd46284a5",
+   "sez": "mondo",
+   "titolo": "Kosovo, l'autorità dei media concede una licenza radio alla polizia",
+   "orig": "Kosovo Media Regulator Grants the Police a Radio Licence",
+   "lead": "L'autorità di regolamentazione dei media del Kosovo ha rilasciato una licenza di trasmissione sperimentale per un'emittente radiofonica gestita direttamente dalla polizia nazionale. Il provvedimento ha suscitato perplessità e critiche da parte di esperti del settore dell'informazione, che hanno espresso dubbi sull'opportunità che una forza di sicurezza pubblica amministri un proprio canale radiofonico via etere anziché affidarsi agli organi di informazione convenzionali. Lo riferisce Prishtina Insight.",
+   "more": [
+    "I regolatori dei media sovrintendono all'assegnazione delle frequenze radiofoniche e televisive per garantire pluralismo, concorrenza e rispetto degli standard etici. L'ingresso di corpi armati dello Stato nella proprietà di canali broadcast costituisce un caso insolito nel panorama europeo."
+   ],
+   "fonti": [
+    {
+     "n": "Prishtina Insight",
+     "p": "XX",
+     "c": "Pristina",
+     "u": "https://prishtinainsight.com/kosovo-media-regulator-grants-the-police-a-radio-licence/",
+     "angolo": "",
+     "atlas": "Kosovo"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z37c24b21",
+   "sez": "mondo",
+   "titolo": "La comunità internazionale esprime preoccupazione per le mosse del Kosovo sulla corte dell'Aia",
+   "orig": "International Community Concerned as Kosovo Moves to Limit Hague-Based Court’s Scope",
+   "lead": "I tentativi delle istituzioni del Kosovo di restringere le competenze del tribunale speciale con sede all'Aia stanno suscitando forte apprensione a livello internazionale. Secondo le analisi emerse, l'iniziativa di limitare il raggio d'azione dell'organismo giudiziario rischia di rivelarsi inefficace senza la garanzia di meccanismi di controllo e responsabilità legati alla Corte europea dei diritti dell'uomo di Strasburgo. Le cancellerie estere e gli osservatori internazionali monitorano con attenzione l'evoluzione legislativa a Pristina, temendo ripercussioni sulla credibilità del sistema giudiziario e sul rispetto degli accordi precedentemente assunti dalle autorità kosovare. Lo riferisce Prishtina Insight.",
+   "more": [
+    "Il tribunale speciale dell'Aia per il Kosovo, noto come Camere specializzate, è stato istituito per indagare e giudicare i crimini di guerra e contro l'umanità commessi durante e dopo il conflitto della fine degli anni Novanta. L'organismo opera secondo la legge kosovara ma con personale internazionale, per garantire processi equi e tutelare l'indipendenza e la protezione dei testimoni."
+   ],
+   "fonti": [
+    {
+     "n": "Prishtina Insight",
+     "p": "XX",
+     "c": "Pristina",
+     "u": "https://prishtinainsight.com/international-community-concerned-as-kosovo-moves-to-limit-hague-based-courts-scope-mag/",
+     "angolo": "",
+     "atlas": "Kosovo"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z087ee48a",
+   "sez": "mondo",
+   "titolo": "Justina Shiroka-Pula si insedia come nuova presidente del Kosovo",
+   "orig": "Justina Shiroka-Pula Inaugurated as Kosovo’s President",
+   "lead": "Justina Shiroka-Pula ha ufficialmente assunto la carica di presidente del Kosovo al termine della cerimonia di insediamento tenutasi a Pristina. L'elezione è avvenuta in parlamento martedì sera, quando l'assemblea legislativa ha espresso un voto a maggioranza a favore della sua nomina alla guida della Repubblica balcanica. La conclusione positiva della procedura parlamentare consente di completare i passaggi istituzionali previsti dall'ordinamento kosovaro per il rinnovo della massima carica dello Stato, aprendo una nuova fase per la presidenza del Paese. Lo riferisce Prishtina Insight.",
+   "more": [
+    "Il presidente della Repubblica del Kosovo rappresenta l'unità dello Stato ed è eletto dal parlamento monocamerale con una specifica procedura a maggioranza qualificata o assoluta. Pur svolgendo funzioni prevalentemente cerimoniali e di garanzia istituzionale, il capo dello Stato mantiene poteri rilevanti nella politica estera e nella promulgazione delle leggi approvate dall'assemblea legislativa."
+   ],
+   "fonti": [
+    {
+     "n": "Prishtina Insight",
+     "p": "XX",
+     "c": "Pristina",
+     "u": "https://prishtinainsight.com/justina-shiroka-pula-inaugurated-as-kosovos-president/",
+     "angolo": "",
+     "atlas": "Kosovo"
+    },
+    {
+     "n": "Prishtina Insight",
+     "p": "XX",
+     "c": "Pristina",
+     "u": "https://prishtinainsight.com/backlog-of-unresolved-issues-puts-kosovos-new-president-to-the-test-mag/",
+     "angolo": "",
+     "atlas": "Kosovo"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4c96ab62",
+   "sez": "viaggi",
+   "titolo": "L'aeroporto di Tivat registra oltre un milione e trecentomila passeggeri in nove mesi",
+   "orig": "Aerodrom Tivat na pragu rekorda",
+   "lead": "L'aeroporto montenegrino di Tivat si avvicina a un record storico di traffico aereo al termine dei primi tre trimestri dell'anno in corso. Nei primi nove mesi, lo scalo costiero ha totalizzato un transito complessivo pari a 1.308.297 passeggeri, gestendo contestualmente 12.965 operazioni relative a movimenti di aeromobili. Il forte flusso turistico e i collegamenti internazionali hanno spinto le statistiche dello scalo a livelli prossimi ai massimi mai rilevati nel Paese balcanico, confermando l'importanza dell'infrastruttura per l'economia e l'accessibilità della costa adriatica. Lo riferisce Vijesti.",
+   "more": [
+    "L'aeroporto di Tivat è uno dei due principali scali commerciali del Montenegro, situato nella parte meridionale del Paese nei pressi delle Bocche di Cattaro. La struttura serve principalmente il traffico turistico internazionale diretto verso le località balneari dell'Adriatico, registrando forti picchi stagionali di voli e viaggiatori soprattutto durante i mesi estivi."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/ekonomija/831144/aerodrom-tivat-na-pragu-rekorda",
+     "angolo": "",
+     "atlas": "Montenegro"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze4b55ca5",
+   "sez": "sport",
+   "titolo": "Tegola per il Real Madrid: lungo stop a tempo indeterminato per il giocatore argentino",
+   "orig": "Veliki problem za Real: Ne zna se kad će Argentinac ponovo na...",
+   "lead": "Il Real Madrid deve fare i conti con un pesante infortunio che costringerà uno dei suoi atleti argentini più importanti a rimanere lontano dai campi di gioco. La società sportiva madrilena ha annunciato che il giocatore dovrà fermarsi per un periodo non precisato, senza che al momento sia possibile stabilire una data certa per il suo rientro agonistico. L'assenza a tempo indeterminato rappresenta un problema rilevante per le rotazioni della squadra nel pieno degli impegni ufficiali della stagione. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/kosarka/831145/veliki-problem-za-real-ne-zna-se-kad-ce-argentinac-ponovo-na-parket",
+     "angolo": "",
+     "atlas": "Montenegro"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zce27a6e6",
+   "sez": "mondo",
+   "titolo": "Polemiche in Armenia per i fondi comunali destinati al regista James Cameron",
+   "orig": "Armenia’s payment to James Cameron raises eyebrows about financial priorities",
+   "lead": "In Armenia è scoppiata una vivace discussione pubblica riguardo alle priorità di spesa finanziaria dell'amministrazione municipale, in seguito a un pagamento erogato a favore del regista cinematografico James Cameron. Diversi osservatori e critici locali hanno contestato duramente l'opportunità di destinare cospicue risorse delle casse cittadine a iniziative legate al mondo dello spettacolo e dell'intrattenimento, sostenendo che le finanze pubbliche dovrebbero essere indirizzate verso esigenze civiche più urgenti e servizi primari per i cittadini. Lo riferisce OC Media.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/armenias-payment-to-james-cameron-raises-eyebrows-about-financial-priorities/",
+     "angolo": "",
+     "atlas": "Azerbaijan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z268194a7",
+   "sez": "tech",
+   "titolo": "Centinaia di profili falsi su Facebook a sostegno di Sogno Georgiano, l'allarme degli osservatori",
+   "orig": "Georgian election monitoring watchdog finds hundreds of fake Facebook accounts supporting Georgian Dream",
+   "lead": "L'organizzazione di monitoraggio elettorale ISFED ha scoperto centinaia di account falsi attivi su Facebook impiegati per diffondere messaggi a sostegno del partito di governo Sogno Georgiano. Secondo l'analisi condotta dall'osservatorio, la grande maggioranza di questi profili artificiali è stata creata concentrando le registrazioni in appena due giorni nel corso del mese di agosto. L'operazione coordinata mirava ad alterare il dibattito pubblico digitale in Georgia in vista dei prossimi appuntamenti elettorali, simulando un consenso artificiale a favore delle posizioni della maggioranza. Lo riferisce OC Media.",
+   "more": [
+    "L'impiego coordinato di account fittizi sui social network rappresenta una tecnica comune di disinformazione e manipolazione dell'opinione pubblica. Le reti di profili falsi vengono solitamente attivate per amplificare determinati messaggi politici, screditare gli avversari e creare un'illusione di consenso diffuso durante le fasi calde delle campagne elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/georgian-election-monitoring-watchdog-finds-hundreds-of-fake-facebook-accounts-supporting-georgian-dream/",
+     "angolo": "",
+     "atlas": "Azerbaijan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4d328e6a",
+   "sez": "mondo",
+   "titolo": "La cancellazione di uno spettacolo drag accende il dibattito sui diritti queer in Armenia",
+   "orig": "Who chooses Armenia’s colour palette? — How a cancelled drag show sparked debate on queer inclusion",
+   "lead": "L'annullamento di uno spettacolo drag ha innescato un acceso confronto in Armenia attorno ai temi dell'inclusione delle persone queer e della libertà di espressione artistica. Le motivazioni addotte per giustificare lo stop all'evento spaziano da presunte preoccupazioni per la sicurezza dei partecipanti e del pubblico fino a pressioni esercitate da parte degli sponsor commerciali della rassegna. La vicenda ha rapidamente polarizzato la società locale, riportando in primo piano le difficoltà e le discriminazioni vissute dalle minoranze sessuali nel Paese caucasico. Lo riferisce OC Media.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/who-chooses-armenias-colour-palette-how-a-cancelled-drag-show-sparked-debate-on-queer-inclusion/",
+     "angolo": "",
+     "atlas": "Azerbaijan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z69052c4b",
+   "sez": "mondo",
+   "titolo": "Il gran muftì della Cecenia dichiara che i fedeli hanno il dovere di pregare per Kadyrov",
+   "orig": "Chechnya’s mufti says Chechens are obliged to pray for Kadyrov",
+   "lead": "Il muftì della Cecenia Salah Mezhiev ha affermato pubblicamente che tutti i cittadini ceceni hanno l'obbligo religioso di pregare per il leader della repubblica Ramzan Kadyrov. Nel corso del suo intervento, la massima autorità religiosa locale ha inoltre definito la cerimonia di insediamento del capo della Repubblica cecena come un'autentica benedizione concessa dall'Onnipotente. Le dichiarazioni rinsaldano ulteriormente la stretta alleanza tra il vertice politico regionale e le istituzioni islamiche ufficiali, orientate a legittimare in chiave spirituale il potere personale del governatore. Lo riferisce OC Media.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/chechnyas-mufti-says-chechens-are-obliged-to-pray-for-kadyrov/",
+     "angolo": "",
+     "atlas": "Azerbaijan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zef1f12df",
+   "sez": "mondo",
+   "titolo": "La Turchia preme sulla Grecia per l'estradizione di presunti affiliati alla rete di Gülen",
+   "orig": "Turkey presses Greece to extradite Gülen-linked people",
+   "lead": "Le autorità di Ankara stanno intensificando il pressing su Atene per ottenere l'estradizione di cittadini accusati di far parte della rete del predicatore Fethullah Gülen rifugiatisi in territorio ellenico. Il ministro dell'Interno turco Mustafa Çiftçi ha sollevato formalmente la richiesta durante la visita ufficiale svolta nella capitale greca l'8 ottobre. Da parte loro, i funzionari di Atene hanno respinto le accuse turche, smentendo con fermezza che la presenza dei richiedenti asilo turchi costituisca una rete organizzata o una minaccia per la sicurezza. Lo riferisce Turkish Minute.",
+   "more": [
+    "Il movimento gülenista, fondato dal predicatore Fethullah Gülen, è considerato dalle autorità turche un'organizzazione terroristica ritenuta responsabile del fallito colpo di Stato del luglio 2016. Da allora, Ankara ha avviato una vasta campagna di arresti ed epurazioni, chiedendo ripetutamente ai Paesi europei l'estradizione dei dissidenti e dei funzionari riparati all'estero."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/10/12/turkey-presses-greece-to-extradite-gulen-linked-people/",
+     "angolo": "",
+     "atlas": "Turkey"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5c434208",
+   "sez": "economia",
+   "titolo": "Sospetto insider trading in Turchia: indagine su prelievi per oltre otto miliardi di dollari",
+   "orig": "Turkey investigates suspected tipoffs behind $8.1 billion in fund withdrawals",
+   "lead": "La procura generale di Istanbul ha avviato un'indagine giudiziaria per chiarire se soffiate riservate abbiano consentito a un gruppo di investitori di ritirare 401,3 miliardi di lire, pari a circa 8,1 miliardi di dollari, dai fondi prima degli interventi dell'autorità di vigilanza. Gli inquirenti stanno passando al setaccio i movimenti bancari effettuati da 440 investitori tra l'1 e il 16 settembre, con l'obiettivo di accertare se abbiano agito sfruttando informazioni confidenziali per evitare perdite finanziarie prima delle disposizioni dei regolatori di mercato. Lo riferisce Turkish Minute.",
+   "more": [
+    "L'insider trading consiste nell'utilizzo illecito di informazioni riservate e non pubbliche per effettuare compravendite o disinvestimenti sul mercato mobiliare prima che tali notizie diventino di dominio comune, ottenendo così un vantaggio economico indebito o evitando perdite a danno degli altri operatori di mercato."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/10/12/turkey-investigates-suspected-tipoffs-behind-8-1-billion-in-fund-withdrawals/",
+     "angolo": "",
+     "atlas": "Turkey"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0da3fc45",
+   "sez": "economia",
+   "titolo": "La Turchia prima nei Paesi Ocse per giovani che non studiano e non lavorano",
+   "orig": "Turkey tops OECD list for youth not in work, education or training",
+   "lead": "La Turchia ha registrato nel 2025 la quota più alta tra i Paesi membri dell'Organizzazione per la cooperazione e lo sviluppo economico per giovani tra i 15 e i 29 anni non impegnati né nello studio, né nel lavoro, né nella formazione professionale. Il tasso turco ha raggiunto il 27,12%, collocandosi a più del doppio rispetto alla media registrata complessivamente nell'area Ocse, che si è attestata al 12,9%. Il dato demografico ed economico segnala le forti difficoltà strutturali del mercato occupazionale locale nell'assorbire le nuove generazioni. Lo riferisce Turkish Minute.",
+   "more": [
+    "La sigla Neet identifica la popolazione giovanile che non è inserita in un percorso lavorativo, scolastico o di addestramento professionale. Questo parametro è considerato dagli economisti uno dei principali indicatori di disagio sociale, poiché segnala il rischio di marginalizzazione a lungo termine e di sottoutilizzo del potenziale produttivo di un Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/10/12/turkey-tops-oecd-list-for-youth-not-in-work-education-or-training/",
+     "angolo": "",
+     "atlas": "Turkey"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z67f5b4e9",
+   "sez": "mondo",
+   "titolo": "Favoritismi nelle nomine dei giudici in Turchia, le parole del capo dell'Ordine forense creano scandalo",
+   "orig": "Turkish bar chief’s claim of ministry favors in judicial recruitment sparks outcry",
+   "lead": "Ha suscitato profonda indignazione in Turchia la dichiarazione del presidente del secondo Ordine degli avvocati di Ankara, Gökhan Ağdemir, che ha ammesso trattamenti di favore concessi dal ministero della Giustizia. Secondo quanto dichiarato dal legale, il dicastero avrebbe riservato una corsia preferenziale alla sua associazione, agevolando l'ingresso di settanta membri nei ruoli della magistratura come giudici e pubblici ministeri. L'ammissione ha provocato immediate richieste di un'inchiesta trasparente sui criteri di reclutamento dei magistrati turchi per fare chiarezza sull'indipendenza del sistema giudiziario nazionale. Lo riferisce Turkish Minute.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/10/12/turkish-bar-chiefs-claim-of-ministry-favors-in-judicial-recruitment-sparks-outcry/",
+     "angolo": "",
+     "atlas": "Turkey"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbb87f5a0",
+   "sez": "tech",
+   "titolo": "Turchia, il divieto dei social per gli under 15 rischia di coinvolgere anche gli utenti adulti",
+   "orig": "Turkey's under-15 social media ban could affect adults as well",
+   "lead": "Il piano allo studio in Turchia per vietare l'accesso ai social network ai minori di 15 anni rischia di avere ripercussioni dirette anche sulla totalità della popolazione adulta. Per accertare l'età reale dei singoli iscritti e garantire il rispetto delle restrizioni anagrafiche, le piattaforme digitali potrebbero essere costrette a imporre a ciascun utente la verifica obbligatoria della propria identità attraverso il portale governativo dei servizi pubblici. Una simile soluzione solleva timori per la riservatezza dei dati e per la libertà di navigazione nell'intero Paese. Lo riferisce Bianet English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bianet English",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://bianet.org/haber/turkey-s-under-15-social-media-ban-could-affect-adults-as-well-324340",
+     "angolo": "",
+     "atlas": "Turkey"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z99dced19",
+   "sez": "mondo",
+   "titolo": "I detenuti del carcere di Roumieh sospendono lo sciopero della fame durato un mese",
+   "orig": "Roumieh Prisoners Suspend Hunger and Medication Strike",
+   "lead": "Centinaia di detenuti rinchiusi in diverse carceri del Libano, tra cui numerosi cittadini siriani, hanno deciso di sospendere la loro protesta dopo trenta giorni continuativi di digiuno. La mobilitazione, che aveva il suo epicentro nel penitenziario centrale di Roumieh, ha visto i reclusi rifiutare sia l'alimentazione sia l'assunzione dei farmaci per protestare contro le durissime condizioni di detenzione e richiedere miglioramenti urgenti nel trattamento penitenziario e legale. L'interruzione della protesta segna una tregua dopo settimane di fortissima tensione all'interno delle strutture carcerarie libanesi. Lo riferisce Enab Baladi.",
+   "more": [
+    "Il carcere di Roumieh, situato a est di Beirut, è il più grande istituto penitenziario del Libano. Da anni la struttura soffre di grave sovraffollamento, carenze nei servizi igienico-sanitari e ritardi nella celebrazione dei processi, condizioni che hanno provocato frequenti proteste e scioperi da parte dei detenuti libanesi e stranieri."
+   ],
+   "fonti": [
+    {
+     "n": "Enab Baladi (inglese)",
+     "p": "XX",
+     "c": "Damasco",
+     "u": "https://english.enabbaladi.net/archives/2026/10/roumieh-prisoners-suspend-hunger-and-medication-strike/",
+     "angolo": "",
+     "atlas": "Syria"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4e8fa400",
+   "sez": "mondo",
+   "titolo": "Tensioni ad al-Hasakah per le azioni di gruppi legati alle Forze democratiche siriane",
+   "orig": "Al-Hasakah: SDF-Linked Groups’ Activity Raises Security Fears",
+   "lead": "La città di al-Hasakah, nel nord-est della Siria, sta vivendo un clima di crescente inquietudine sul fronte della sicurezza a causa delle attività di formazioni vicine alle Forze democratiche siriane. I timori della popolazione locale sono aumentati a seguito delle denunce riguardanti presunti affiliati al Movimento della gioventù rivoluzionaria, accusati di aver preso di mira individui e partecipanti a iniziative civiche. Gli episodi hanno intensificato lo stato d'allerta nell'area, alimentando forti attriti tra i residenti e gli apparati di sicurezza attivi nella regione autonoma de facto. Lo riferisce Enab Baladi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Enab Baladi (inglese)",
+     "p": "XX",
+     "c": "Damasco",
+     "u": "https://english.enabbaladi.net/archives/2026/10/al-hasakah-sdf-linked-groups-activity-raises-security-fears/",
+     "angolo": "",
+     "atlas": "Syria"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z771ad968",
+   "sez": "ambiente",
+   "titolo": "Deir Ezzor avvia il recupero delle palme da dattero dopo la perdita di ottomila piante",
+   "orig": "Deir Ezzor Plans to Revive Date Palm Cultivation After Losing 8,000 Trees",
+   "lead": "L'ente che gestisce il Centro di propagazione delle palme da dattero a Deir Ezzor, nella Siria orientale, ha definito un piano per riabilitare e ripopolare le coltivazioni della zona dopo anni di distruzioni. L'intervento di recupero agrario si è reso necessario in seguito alla perdita accertata di oltre ottomila alberi, distrutti dal conflitto armato e dall'abbandono delle aree agricole. Il progetto punta a ripristinare il patrimonio vegetale, favorire la ripresa economica del comparto agricolo locale e restituire alle comunità una risorsa produttiva tradizionale cruciale per il territorio. Lo riferisce Enab Baladi.",
+   "more": [
+    "La coltivazione della palma da dattero costituisce un pilastro agricolo ed economico per le regioni aride e semiaride del Medio Oriente. Oltre a fornire frutti ad alto valore nutritivo per il consumo e il commercio, queste piante svolgono una funzione ecologica essenziale nel contrastare la desertificazione e preservare il microclima delle oasi fluviali."
+   ],
+   "fonti": [
+    {
+     "n": "Enab Baladi (inglese)",
+     "p": "XX",
+     "c": "Damasco",
+     "u": "https://english.enabbaladi.net/archives/2026/10/deir-ezzor-plans-to-revive-date-palm-cultivation-after-losing-8000-trees/",
+     "angolo": "",
+     "atlas": "Syria"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z13df4811",
+   "sez": "mondo",
+   "titolo": "La marina militare del Myanmar intensifica gli attacchi nello stato di Rakhine contro i pescatori",
+   "orig": "Fishermen harassed as Myanmar junta steps up naval offensives in Rakhine",
+   "lead": "Le forze navali della giunta militare birmana hanno intensificato le loro offensive nello stato occidentale di Rakhine, colpendo duramente i pescatori della costa. Nel corso delle ultime incursioni, almeno un pescatore risulta disperso dopo essere stato picchiato e gettato in mare dai soldati, i quali hanno successivamente sequestrato e fatto colare a picco la sua imbarcazione da lavoro. Le comunità costiere denunciano intimidazioni e violenze sistematiche da parte della marina di Naypyidaw, che sta moltiplicando le operazioni marittime nell'area fluviale e costiera del conflitto. Lo riferisce Myanmar Now.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Myanmar Now",
+     "p": "XX",
+     "c": "Yangon",
+     "u": "https://myanmar-now.org/en/news/fishermen-harassed-as-myanmar-junta-steps-up-naval-offensives-in-rakhine/",
+     "angolo": "",
+     "atlas": "Myanmar"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2a138319",
+   "sez": "mondo",
+   "titolo": "Svolta in Malesia sui rifugiati dal Myanmar: stop all'accoglienza e via ai rimpatri",
+   "orig": "From refuge to repatriations: Malaysia’s Myanmar U-turn",
+   "lead": "Il governo della Malesia ha impresso un netto cambio di rotta nella propria politica migratoria, passando dal sostegno ai rifugiati in fuga dal Myanmar all'organizzazione di rimpatri forzati verso il Paese d'origine. Secondo diversi analisti ed esperti internazionali, il dietrofront operato dal primo ministro malese rappresenterebbe una calcolata manovra elettorale destinata a raccogliere consensi e consolidare l'appoggio politico tra la maggioranza etnica malese. La decisione rischia di esporre migliaia di profughi a gravi pericoli a causa della persistente repressione della giunta al potere in Birmania. Lo riferisce Myanmar Now.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Myanmar Now",
+     "p": "XX",
+     "c": "Yangon",
+     "u": "https://myanmar-now.org/en/news/from-refuge-to-repatriations-malaysias-myanmar-u-turn/",
+     "angolo": "",
+     "atlas": "Myanmar"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd705d64f",
+   "sez": "economia",
+   "titolo": "Kirghizistan, la fabbrica di auto elettriche resta legata alla cerchia dell'amministratore presidenziale",
+   "orig": "Вывески меняются, но у приближенных Туманбаева все равно остается автозавод",
+   "lead": "In Kirghizistan il ministero dell'Economia ha annunciato ad agosto l'avvio della produzione di veicoli elettrici con il marchio nazionale BARS, ma dietro l'operazione continuano a operare figure vicine ai vertici del potere. Un'inchiesta giornalistica ha svelato che l'impianto produttivo è stato costruito da investitori cinesi in sinergia con l'amministrazione presidenziale e con la società Modul House, riconducibile al capo della gestione presidenziale Kanybek Tumanbaev. Nonostante il cambio delle denominazioni ufficiali, il controllo di fatto dell'infrastruttura industriale rimane saldamente nelle mani dei suoi collaboratori più fidati. Lo riferisce Kloop.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kloop",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://kloop.kg/blog/2026/10/12/vyveski-menyayutsya-no-u-priblizhennyh-tumanbaeva-vse-ravno-ostaetsya-avtozavod/?utm_source=rss&utm_medium=rss&utm_campaign=vyveski-menyayutsya-no-u-priblizhennyh-tumanbaeva-vse-ravno-ostaetsya-avtozavod",
+     "angolo": "",
+     "atlas": "Kyrgyzstan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z39ea255f",
+   "sez": "mondo",
+   "titolo": "Premio Albies al giornalista kirghiso Bolot Temirov, ma alla moglie è vietato lasciare il Paese",
+   "orig": "Журналиста Болота Темирова наградили на премии Albies",
+   "lead": "Il giornalista investigativo kirghiso Bolot Temirov è stato insignito del prestigioso premio internazionale Albies insieme a sua moglie e collega Makhabat Tazhybek kyzy. La giornalista non ha però potuto partecipare alla cerimonia di premiazione poiché le autorità di Bishkek le hanno vietato di espatriare. Nel Paese centroasiatico la magistratura sta riesaminando il procedimento giudiziario a suo carico, circostanza formale che impedisce alla cronista di lasciare il territorio nazionale. La vicenda testimonia le forti pressioni esercitate sulla stampa indipendente in Kirghizistan. Lo riferisce Kloop.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kloop",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://kloop.kg/blog/2026/10/12/zhurnalista-bolota-temirova-nagradili-na-premii-albies/?utm_source=rss&utm_medium=rss&utm_campaign=zhurnalista-bolota-temirova-nagradili-na-premii-albies",
+     "angolo": "",
+     "atlas": "Kyrgyzstan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z341bc010",
+   "sez": "mondo",
+   "titolo": "Kirghizistan, condannati al carcere i socialdemocratici Sultanbekov e Atambaev",
+   "orig": "Темирлана Султанбекова приговорили к 7 годам, Кадыра Атамбаева к 4 годам лишения свободы",
+   "lead": "Il tribunale distrettuale Pervomaisky di Bishkek ha emesso pesanti condanne detentive a carico di esponenti socialdemocratici accusati di disordini di massa e presunto tentativo di presa violenta del potere. Il politico Temirlan Sultanbekov è stato condannato a sette anni di reclusione, mentre Kadyr Atambaev, figlio dell'ex presidente kirghiso Almazbek Atambaev, ha ricevuto una pena pari a quattro anni di prigione. Nel medesimo verdetto, i giudici hanno inoltre inflitto otto anni di reclusione al coimputato Abdurakhim Abdrakhmanov, concludendo un processo fortemente contestato dalle opposizioni. Lo riferisce Kloop.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kloop",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://kloop.kg/blog/2026/10/08/temirlana-sultanbekova-prigovorili-k-7-godam-kadyra-atambaeva-4-goda-lisheniya-svobody/?utm_source=rss&utm_medium=rss&utm_campaign=temirlana-sultanbekova-prigovorili-k-7-godam-kadyra-atambaeva-4-goda-lisheniya-svobody",
+     "angolo": "",
+     "atlas": "Kyrgyzstan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5a745e1b",
+   "sez": "mondo",
+   "titolo": "A Bruxelles il secondo dialogo tra Unione europea e Asia centrale sull'antiterrorismo",
+   "orig": "Second EU-Central Asia Counterterrorism Dialogue held in Brussels",
+   "lead": "Si è svolto a Bruxelles il secondo incontro del dialogo sull'antiterrorismo tra l'Unione europea e i Paesi dell'Asia centrale. Rappresentanti diplomatici e funzionari europei hanno discusso con le delegazioni delle repubbliche centroasiatiche in merito all'evoluzione costante delle minacce terroristiche e alla sicurezza nelle aree geografiche considerate strategiche. Il confronto istituzionale ha inteso rafforzare il coordinamento multilaterale, promuovere lo scambio di informazioni operative e concordare misure congiunte per prevenire la radicalizzazione e contrastare i network armati transnazionali. Lo riferisce Asia-Plus.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/13/second-eu-central-asia-counterterrorism-dialogue-held-in-brussels/",
+     "angolo": "",
+     "atlas": "Tajikistan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2e4a6476",
+   "sez": "economia",
+   "titolo": "Il presidente del Kirghizistan invita i migranti a rientrare: promessi lavoro e alloggi",
+   "orig": "Kyrgyz president urges labor migrants to return, says jobs are available at home",
+   "lead": "Il presidente del Kirghizistan ha rivolto un appello ai lavoratori migranti kirghisi all'estero affinché facciano ritorno in patria, assicurando che nel Paese ci sono opportunità occupazionali disponibili. Le autorità governative hanno promesso ai connazionali che decideranno di rientrare garanzie di inserimento lavorativo e soluzioni abitative adeguate. L'iniziativa presidenziale mira a frenare l'emorragia demografica della manodopera qualificata verso l'estero, stimolando la crescita economica interna e offrendo alternative concrete alle comunità impiegate da anni nei mercati del lavoro stranieri. Lo riferisce Asia-Plus.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/12/sadyr-japarov-urges-migrants-to-return-to-kyrgyzstan-assuring-them-jobs-are-available/",
+     "angolo": "",
+     "atlas": "Tajikistan"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "10:17",
+   "uscita": "mattino"
+  },
+  {
    "id": "z973dcd0f",
    "sez": "mondo",
    "titolo": "La Ukrainska Pravda chiede un'inchiesta sulla condotta della polizia austriaca dopo il fermo di alcuni giornalisti",
@@ -5359,29 +6803,6 @@ window.EDIZIONI["2026-10-13"] = {
    "uscita": "mattino"
   },
   {
-   "id": "ze77764a5",
-   "sez": "salute",
-   "titolo": "[Commento] Retatrutide negli adulti con obesità e diabete di tipo 2: cosa abbiamo imparato dallo studio TRIUMPH-2?",
-   "orig": "[Comment] Retatrutide in adults with obesity and type 2 diabetes: what have we learned from TRIUMPH-2?",
-   "lead": "La perdita di peso ottenuta con gli agonisti del recettore del GLP-1 risulta comunemente inferiore nei soggetti con diabete di tipo 2 rispetto a chi non presenta la patologia a parità di indice di massa corporea. Per verificare se questa differenza possa essere superata dai nuovi tripli agonisti con maggiori effetti sul dimagrimento, lo studio clinico di fase 3 denominato TRIUMPH-2, condotto da Virginia Bellido e colleghi, ha analizzato gli effetti del retatrutide, un triplo agonista di GLP-1, GIP e glucagone, su persone affette da obesità e diabete di tipo 2. Lo riferisce The Lancet.",
-   "more": [
-    "Il retatrutide è un farmaco innovativo appartenente alla categoria dei tripli agonisti recettoriali, progettato per agire simultaneamente su tre recettori ormonali chiave coinvolti nella regolazione del metabolismo energetico, del senso di sazietà e dei livelli di glucosio nel sangue."
-   ],
-   "fonti": [
-    {
-     "n": "The Lancet",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01987-2/fulltext?rss=yes",
-     "angolo": "",
-     "atlas": "United Kingdom"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "09:30",
-   "uscita": "mattino"
-  },
-  {
    "id": "z09a28aa8",
    "sez": "tech",
    "titolo": "L'intelligenza artificiale potrebbe auto-replicarsi sui dispositivi domestici entro pochi mesi, secondo Anthropic",
@@ -6999,29 +8420,6 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://en.yna.co.kr/view/AEN20261013007400320",
      "angolo": "",
      "atlas": "South Korea"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "09:30",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zb42dbddf",
-   "sez": "economia",
-   "titolo": "Il Primo Ministro esamina l'impatto dei progetti di sviluppo urbano in vista dell'Egypt Forum 2026",
-   "orig": "PM reviews impact of urban development projects ahead of Egypt Forum 2026",
-   "lead": "Il governo egiziano utilizzerà le sessioni dell'Egypt Forum 2026 per presentare dati accurati, rispondere alle preoccupazioni dell'opinione pubblica e chiarire i dubbi dei cittadini, stabilendo al contempo priorità e scadenze chiare per la prossima fase di sviluppo urbano. L'annuncio è emerso nel corso di una riunione presieduta dal Primo Ministro Mostafa Madbouly, convocata per esaminare l'impatto dei progetti di sviluppo urbano in corso nel Paese. Lo riferisce Egypt Independent.",
-   "more": [
-    "I forum internazionali e le pianificazioni di sviluppo urbano rappresentano strumenti strategici per i governi emergenti per attrarre investimenti e comunicare i progressi infrastrutturali alla cittadinanza."
-   ],
-   "fonti": [
-    {
-     "n": "Egypt Independent",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.egyptindependent.com/pm-reviews-impact-of-urban-development-projects-ahead-of-egypt-forum-2026/",
-     "angolo": "",
-     "atlas": "Egypt"
     }
    ],
    "data": "13 ott",
@@ -13891,45 +15289,6 @@ window.EDIZIONI["2026-10-13"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zce2b039a",
-   "sez": "cultura",
-   "titolo": "Addio a RJ Mitte, l'attore di Breaking Bad scomparso all'età di 34 anni",
-   "orig": "Breaking Bad-acteur RJ Mitte op 34-jarige leeftijd overleden",
-   "lead": "La scomparsa dell'artista e attivista per i diritti delle persone con disabilità è stata confermata dal suo portavoce al New York Times e dall'agenzia che lo rappresentava, senza che siano state rese note le cause del decesso. L'attore Bryan Cranston, suo padre nella fiction, gli ha dedicato un commosso tributo pubblico ricordando il suo grande talento.",
-   "more": [
-    "La serie televisiva Breaking Bad è considerata una delle produzioni drammatiche di maggior successo della televisione contemporanea. Nella trama, il personaggio di Junior conviveva con la paralisi cerebrale, condizione neurologica che interessava anche lo stesso attore nella vita reale, rendendolo successivamente una figura di riferimento per la rappresentazione della disabilità nel mondo del cinema e delle serie tv."
-   ],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2634749",
-     "angolo": "",
-     "atlas": "Netherlands"
-    },
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/10/13/culturaipsilon/noticia/rj-mitte-serie-breaking-bad-activista-direitos-pessoas-deficiencia-morre-34-anos-2191172",
-     "angolo": "",
-     "atlas": "Portugal"
-    },
-    {
-     "n": "VRT NWS",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.vrt.be/vrtnws/nl/2026/10/13/bryan-cranston-breaking-bad-rj-mitte-reageert-overlijden.rss.xml",
-     "angolo": "",
-     "atlas": "Belgium"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "08:15",
-   "uscita": "mattino"
-  },
-  {
    "id": "ze835e522",
    "sez": "sport",
    "titolo": "Mlb: i Brewers superano i Dodgers 7-4 e volano sul 2-0 nella serie finale",
@@ -16137,7 +17496,6 @@ window.EDIZIONI["2026-10-13"] = {
   "zbe99779f": "Deutsche Welle e CBC News illustrano il funzionamento dei modelli premiati per la gestione degli shock, mentre il Financial Times analizza l'influenza diretta di Woodford sulle moderne banche centrali.",
   "zbdcc920d": "BBC News evidenzia la rivalità personale ed economica tra Musk e Mukesh Ambani, mentre Deutsche Welle si concentra sugli ostacoli normativi e sui timori per la concorrenza in India.",
   "ze53058fc": "SIBC si concentra sulla delegazione delle Isole Salomone, mentre le altre testate valorizzano i rispettivi inviati nazionali e i forum collaterali per le nazioni vulnerabili.",
-  "zce2b039a": "NOS e Público ripercorrono la carriera e l'attivismo dell'attore, mentre VRT NWS pone in rilievo il messaggio di cordoglio diffuso dal collega Bryan Cranston.",
   "ze835e522": "The Guardian sottolinea l'avvicinamento dei Brewers a un traguardo storico che manca dal 1982, mentre The Japan Times pone l'accento sulla prestazione sottotono del lanciatore dei Dodgers Yoshinobu Yamamoto.",
   "z11dbd679": "Designboom mette in luce la fusione di scultura e acustica sperimentale nell'installazione, mentre The Guardian approfondisce le sfide di portare un'opera sonora complessa in uno spazio museale aperto e rumoroso.",
   "z88abbfa9": "The Guardian focalizza l'attenzione sulle difficoltà vissute nelle scuole britanniche durante i picchi termici e sulla necessità di ripensare il calendario degli esami.",
@@ -16283,7 +17641,7 @@ window.EDIZIONI["2026-10-13"] = {
   "z1299a5b1": "La testata promuove la versatilità di un piatto festivo, rendendolo accessibile e pratico per la cucina di tutti i giorni.",
   "zbd4f5a36": "The Guardian elogia la capacità del regista di trasformare un ambiente educativo in una potente metafora politica e sociale.",
   "z31bfaf61": "La testata mette in evidenza come l'azienda non vendesse prodotti ma una vera e propria idea di società civile e moderna.",
-  "ze77764a5": "The Lancet analizza i risultati dello studio clinico TRIUMPH-2 valutando l'efficacia del retatrutide sul dimagrimento nei pazienti diabetici.",
+  "ze77764a5": "The Lancet evidenzia il potenziale del triplo agonista retatrutide nel colmare il divario di perdita di peso tra pazienti con e senza diabete.",
   "zf100ac78": "La testata valuta positivamente la serie, sottolineando l'interpretazione di Yakusho in una storia leggera ma riflessiva.",
   "zfc69acb3": "La testata punta sulla suggestione del panorama e sulla qualità dell'accoglienza per promuovere la destinazione vinicola.",
   "zc553d0aa": "La testata riporta con calore l'annuncio personale fatto dalla doppiatrice ai suoi ascoltatori abituali.",
@@ -16559,7 +17917,6 @@ window.EDIZIONI["2026-10-13"] = {
   "z786faacd": "La testata locale mette in risalto l'appuntamento sportivo e benefico dedicato alla prevenzione e al supporto nella lotta contro il cancro.",
   "z2d66700f": "La testata culturale locale documenta l'anniversario di una realtà musicale di rilievo per la comunità artistica e spirituale del territorio.",
   "z5e4fa057": "La testata finanziaria asiatica documenta la forte correzione ribassista dei mercati azionari locali guidata dalle tensioni nel settore tecnologico.",
-  "zb42dbddf": "La testata nazionale dà risalto alle politiche governative e alle strategie di pianificazione urbana in vista dei prossimi appuntamenti istituzionali ed economici.",
   "z90831752": "La testata di settore documenta i contratti di appalto pubblico assegnati per la salvaguardia e il restauro del patrimonio architettonico.",
   "z1d3fb2d7": "La testata promuove il coinvolgimento diretto del pubblico attraverso la condivisione di esperienze e memorie legate alle festività stagionali.",
   "z76c74de5": "La testata scolastica monitora costantemente le procedure amministrative e le nomine dei docenti nelle diverse regioni italiane.",
@@ -16744,7 +18101,62 @@ window.EDIZIONI["2026-10-13"] = {
   "z0120777e": "Il giornale indipendente birmano in esilio documenta l'impatto dei bombardamenti aerei sulla sicurezza dei residenti e l'inefficacia delle difese locali.",
   "zb8db521b": "La testata d'opposizione analizza le dinamiche di potere e le epurazioni interne all'apparato diplomatico e militare birmano.",
   "z67b72c88": "Il portale indipendente critica l'inefficacia diplomatica e le contraddizioni dell'organizzazione regionale asiatica nei confronti della giunta del Myanmar.",
-  "zd380e42e": "La testata locale riferisce dell'inconveniente logistico e delle scuse ufficiali rivolte agli atleti partecipanti alla competizione."
+  "zd380e42e": "La testata locale riferisce dell'inconveniente logistico e delle scuse ufficiali rivolte agli atleti partecipanti alla competizione.",
+  "za6e06170": "Nature Medicine presenta gli esiti a lungo termine dell'immunoterapia avanzata mirata all'antigene BCMA nei pazienti oncologici refrattari.",
+  "zf105f837": "FAZ evidenzia la precoce scomparsa dell'attore e il suo attivismo civile, mentre NZZ segnala brevemente la notizia nelle pagine culturali e Opinión sottolinea il cordoglio dell'ambiente cinematografico hollywoodiano.",
+  "z4a2df96e": "Deutsche Welle pone l'accento sulla presa di posizione del governo britannico e sul ritiro dei bombardieri, mentre Kurdistan24 mette in risalto la dichiarazione diplomatica congiunta firmata da trentadue Paesi.",
+  "z507e2ba9": "Al Jazeera si concentra sull'atteggiamento attendista di Trump rispetto all'elezione israeliana, mentre Haaretz analizza il fallimento delle premesse strategiche di Netanyahu sui rapporti di pace e sicurezza.",
+  "ze8565d07": "Al Jazeera enfatizza il primato storico della prima parlamentare rifugiata somala a Londra, mentre Hiiraan Online dà risalto alle congratulazioni ufficiali espresse dal primo ministro somalo Barre.",
+  "zcd11dd13": "CNA sottolinea l'autorizzazione a Visa per operare sulle transazioni interne in yuan dopo anni di attesa, mentre AKIpress tratta un tema omonimo slegato sui visti turistici tra Kirghizistan e Seychelles.",
+  "za1d71aa7": "Premium Times segue da vicino le operazioni dei sommozzatori per il ritrovamento della scatola nera e delle vittime, mentre Haaretz segnala un fatto indipendente relativo a controlli aeroportuali in Israele.",
+  "z9dd369a6": "Dabanga evidenzia la consegna della proposta di pace ai mediatori regionali e internazionali, mentre Radio Tamazuj insiste sulla richiesta civile di una cessazione immediata e incondizionata dei combattimenti.",
+  "z70333cd6": "RTP dà risalto al mancato screening della denutrizione negli ospedali portoghesi, mentre G1 affronta separatamente una patologia oculare rara di origine tiroidea.",
+  "z59fdbf06": "RTP pone l'attenzione sull'intesa russo-nordcoreana per le emergenze da catastrofi, richiamando anche le recenti iniziative museali militari di Kim Jong-un e il rafforzamento delle sanzioni europee.",
+  "zac0d4a31": "The Guardian rivela le distorsioni generate dal divieto sui sovrapprezzi con aumenti di prezzo a carico dei consumatori, mentre The Laotian Times riporta un annuncio commerciale di software aziendale.",
+  "z95261b51": "Financial Times punta l'attenzione sugli afflussi record nei fondi sovrani nonostante il sell-off, mentre il South China Morning Post illustra il crescente appetito degli investitori di Hong Kong verso i titoli USA.",
+  "za3c2bfac": "Egypt Independent analizza i piani digitali del governo egiziano in vista del forum economico, mentre Sky TG24 si focalizza su un convegno tecnologico italiano a Cernobbio.",
+  "zb9513f51": "The Express Tribune pone l'accento sulla convinzione di Trump che Russia e Cina abbiano troppo da perdere, mentre The Straits Times sottolinea come il presidente escluda del tutto ogni forma di assistenza all'Iran.",
+  "zd46b8c47": "SOS Médias Burundi racconta la vaccinazione straordinaria contro il morbillo a Nakivale, mentre Libération tratta l'avvio della campagna vaccinale stagionale contro Covid e influenza in Francia.",
+  "z8b21a074": "Confidencial mette in evidenza l'annuncio a sorpresa del pontefice prima del viaggio in Sudamerica, mentre El Observador consulta esperti di chirurgia sui tempi di guarigione post-operatoria.",
+  "zd64cd08b": "Mimi Mefo Info si concentra sulle due nuove convenzioni industriali e sul ruolo di BGFIBank a Douala, mentre APS descrive un progetto agricolo indipendente in Senegal.",
+  "zeb0f00c6": "L'emittente sammarinese valorizza l'unione tra pratica sportiva, rispetto dell'ambiente e campagne di sensibilizzazione sociale.",
+  "zd4b1a113": "La testata mette in luce la reazione del calciatore e il legame con la tifoseria dopo il rientro in campo.",
+  "zcda88fa9": "Il Post evidenzia la fine di un lungo degrado urbano e l'impatto economico dell'operazione di riqualificazione.",
+  "zccb3f229": "La testata polacca pone l'accento sulla dimensione transnazionale dei sabotaggi diretti contro obiettivi civili nei tre Paesi.",
+  "z037e645e": "La pubblicazione sottolinea la tenacia del candidato civico e la sconfitta politica per il partito del premier Tusk.",
+  "zdaccd9c8": "Il giornale mette in rilievo le contraddizioni tra miglioramenti nei servizi agli studenti e cronica debolezza della governance.",
+  "z4c9084c1": "Daily Maverick dà risalto alla determinazione della leader politica e al rischio di un nuovo stallo municipale.",
+  "zc92a63fd": "Il portale georgiano concentra l'attenzione sul dibattito attorno all'imparzialità dei giudici nelle cause che minacciano il pluralismo.",
+  "z1541d849": "Civil.ge evidenzia l'impegno finanziario europeo a favore della popolazione civile malgrado le tensioni diplomatiche con il governo.",
+  "zc5bffa5d": "La testata sottolinea la modifica al rialzo decisa dal governo sulle pensioni e l'introduzione di nuovi aiuti per gli sfollati.",
+  "z83d89fc8": "La testata asiatica pone in risalto il valore geopolitico dell'intesa tra l'Azerbaigian e i governi dell'Asia centrale per le rotte commerciali.",
+  "z3e0f3ae1": "The Times of Central Asia mette in luce le difficoltà di transito imposte da Mosca e i limiti strutturali alle esportazioni kazake.",
+  "z0b6719b6": "HotNews mette a confronto la crescita nominale dei redditi con il rincaro dei prezzi per spiegare la contrazione dei consumi reali.",
+  "z44192301": "HotNews focalizza l'attenzione sul contributo dei programmatori locali alla tecnologia globale dei software di grafica.",
+  "zd46284a5": "Prishtina Insight evidenzia le perplessità espresse da esperti e osservatori sull'assegnazione di frequenze a un corpo armato dello Stato.",
+  "z37c24b21": "Prishtina Insight sottolinea le perplessità degli osservatori internazionali e la mancanza di collegamento con le istanze della Corte di Strasburgo.",
+  "z087ee48a": "Prishtina Insight si concentra sull'avvenuta elezione parlamentare a maggioranza e sulla successiva cerimonia di insediamento ufficiale.",
+  "z4c96ab62": "Vijesti evidenzia i dati statistici trimestrali record e la rilevanza dei volumi di passeggeri e movimenti aerei per lo scalo.",
+  "ze4b55ca5": "Vijesti pone l'accento sulla gravità dell'assenza per il club e sull'impossibilità di stabilire una data per il rientro.",
+  "zce27a6e6": "OC Media sottolinea la reazione critica dell'opinione pubblica contro la gestione dei fondi municipali per l'intrattenimento.",
+  "z268194a7": "OC Media punta i riflettori sul rapporto di ISFED che dimostra la creazione massiccia e coordinata di profili fittizi nell'arco di sole quarantotto ore.",
+  "z4d328e6a": "OC Media mette in luce il contrasto tra le ragioni ufficiali di sicurezza e le pressioni commerciali dietro la revoca dell'evento.",
+  "z69052c4b": "OC Media evidenzia l'imposizione dottrinale delle preghiere a favore di Kadyrov e la retorica religiosa delle autorità cecene.",
+  "zef1f12df": "Turkish Minute pone a confronto le richieste avanzate dal ministro di Ankara con la netta smentita delle autorità elleniche.",
+  "z5c434208": "Turkish Minute sottolinea la portata colossale dei fondi ritirati e l'attenzione degli inquirenti su oltre quattrocento investitori.",
+  "z0da3fc45": "Turkish Minute evidenzia il divario marcato tra il dato record turco e la media dei Paesi dell'area Ocse.",
+  "z67f5b4e9": "Turkish Minute pone in rilievo le ammissioni esplicite del presidente dell'Ordine e le richieste di accertamenti sul ministero.",
+  "zbb87f5a0": "Bianet English sottolinea le conseguenze tecniche e di controllo statale che la misura comporterebbe per l'intera cittadinanza.",
+  "z99dced19": "Enab Baladi pone l'attenzione sulla fine dell'astensione da cibo e farmaci da parte delle centinaia di prigionieri siriani e libanesi.",
+  "z4e8fa400": "Enab Baladi sottolinea i timori della cittadinanza per le azioni intimidatorie attribuite alla fazione giovanile.",
+  "z771ad968": "Enab Baladi mette in luce lo sforzo di rilancio agricolo per contrastare i danni causati da anni di guerra e abbandono.",
+  "z13df4811": "Myanmar Now evidenzia le violenze dirette della marina militare contro i lavoratori civili e l'affondamento dei pescherecci.",
+  "z2a138319": "Myanmar Now riporta il giudizio degli esperti che qualificano l'inversione di marcia come una strategia elettorale del premier.",
+  "zd705d64f": "Kloop svela i legami commerciali e proprietari tra l'impianto statale per le auto elettriche e la cerchia di Kanybek Tumanbaev.",
+  "z39ea255f": "Kloop mette in risalto il contrasto tra il riconoscimento internazionale e le restrizioni giudiziarie che impediscono alla giornalista di viaggiare.",
+  "z341bc010": "Kloop riporta l'entità delle sentenze inflitte ai leader socialdemocratici e al figlio dell'ex capo di Stato.",
+  "z5a745e1b": "Asia-Plus si focalizza sui colloqui istituzionali a Bruxelles e sul monitoraggio delle minacce emergenti nei quadranti regionali.",
+  "z2e4a6476": "Asia-Plus evidenzia l'appello ufficiale del capo dello Stato e le promesse di impiego e case per incentivare i rimpatri."
  },
  "contesti": {
   "ze86d166a": "Durante una serie di recenti controlli medici di routine, i sanitari hanno rilevato la presenza di un nodulo polmonare circoscritto. La scoperta ha indotto l'équipe medica a programmare un ricovero ospedaliero tempestivo per procedere all'asportazione chirurgica della lesione, portando la Santa Sede a riorganizzare l'agenda pubblica pontificia in vista del futuro viaggio apostolico.",
@@ -16899,7 +18311,23 @@ window.EDIZIONI["2026-10-13"] = {
   "z2445f26c": "Il pubblico ministero aveva avviato un'azione legale presso il tribunale regionale per contestare la decisione con cui gli era stato riconosciuto un illecito disciplinare legato al suo impegno nelle forze di volontariato militare.",
   "zbd0a70cb": "La società ha consolidato la propria presenza sul mercato raggruppando sotto il marchio Source diverse realtà aziendali e sviluppando modelli di business orientati alla crescita globale.",
   "z074cf964": "Le dogane nazionali ricevono periodicamente segnalazioni su siti web non ufficiali che richiedono compensi in denaro per l'espletamento di pratiche amministrative pubbliche e gratuite.",
-  "z4d369aa9": "Tra l'11 e il 12 ottobre si è consumata una grave tragedia marittima al largo delle coste di Gibuti, nel Corno d'Africa. Un'imbarcazione sovraffollata con decine di migranti a bordo si è ribaltata mentre cercava di raggiungere la penisola arabica. Secondo i bilanci diffusi dall'Organizzazione internazionale per le migrazioni, il tragico naufragio ha causato almeno 139 morti accertati, compresi diversi bambini, mentre circa 84 persone risultano ancora disperse."
+  "z4d369aa9": "Tra l'11 e il 12 ottobre si è consumata una grave tragedia marittima al largo delle coste di Gibuti, nel Corno d'Africa. Un'imbarcazione sovraffollata con decine di migranti a bordo si è ribaltata mentre cercava di raggiungere la penisola arabica. Secondo i bilanci diffusi dall'Organizzazione internazionale per le migrazioni, il tragico naufragio ha causato almeno 139 morti accertati, compresi diversi bambini, mentre circa 84 persone risultano ancora disperse.",
+  "zf105f837": "La scomparsa dell'attore trentaquattrenne giunge dopo anni di riconoscimenti per il suo lavoro nella recitazione e nell'attivismo sociale. Il personaggio interpretato sul piccolo schermo gli aveva garantito vasta popolarità mondiale e rispetto nel settore dell'intrattenimento per aver portato visibilità autentica alla disabilità nelle produzioni televisive di primo piano.",
+  "z4a2df96e": "Le tensioni tra i Paesi occidentali e Teheran si sono intensificate a causa di ripetute denunce relative a operazioni ostili, attacchi informatici e manovre di sabotaggio sul suolo europeo. Il recente episodio presso l'installazione militare britannica ha spinto i governi alleati ad alzare il livello di allerta sulle infrastrutture strategiche.",
+  "z507e2ba9": "Il primo ministro israeliano affronta una delicata tornata elettorale dopo mesi di forti contrasti interni e ripercussioni legate alla sicurezza nazionale. Le aspettative su un consolidamento delle intese regionali si sono scontrate con il deterioramento del quadro negoziale, spingendo la diplomazia estera a ricalibrare le proprie posizioni pubbliche.",
+  "ze8565d07": "La comunità di origine somala nel Regno Unito ha progressivamente incrementato la propria presenza nella società civile e nella vita pubblica locale. La recente elezione suppletiva nel collegio londinese ha catalizzato l'attenzione politica nazionale, coronando un percorso di candidatura sostenuto dalle strutture del Partito Laburista.",
+  "zcd11dd13": "Per anni i colossi internazionali dei circuiti di pagamento elettronico hanno cercato di ottenere licenze complete per operare in Cina sulla valuta locale, scontrandosi con vincoli normativi stringenti e con il predominio di reti nazionali. L'autorizzazione concessa a Visa corona un lungo percorso burocratico nel settore bancario.",
+  "za1d71aa7": "La caduta dell'aereo militare ha immediatamente allertato i vertici della difesa, spingendo all'invio di contingenti specializzati sul luogo del disastro. Nelle prime ore successive allo schianto le ricerche si sono concentrate sulla localizzazione del relitto e sulla messa in sicurezza del perimetro interessato dall'impatto.",
+  "z9dd369a6": "Dallo scoppio delle ostilità, la popolazione civile sudanese è rimasta intrappolata tra violenze diffuse e il crollo dei servizi primari. I tentativi di mediazione promossi da organismi regionali e governi internazionali non sono riusciti finora a consolidare una tregua permanente, rendendo urgente l'iniziativa diretta delle coalizioni pacifiste.",
+  "z70333cd6": "Il settore della nutrizione clinica denuncia da tempo come la mancata valutazione dello stato nutrizionale negli ospedali incida negativamente sui costi sanitari e sui tempi di recupero. I dati presentati dall'associazione evidenziano un divario persistente tra il fabbisogno reale dei ricoverati e i controlli effettivamente svolti nelle corsie.",
+  "z59fdbf06": "I rapporti tra Mosca e Pyongyang hanno registrato una marcata intensificazione su diversi fronti strategici e diplomatici, accompagnata da visite reciproche di delegazioni di alto livello. Il dialogo bilaterale si allarga ora ai settori tecnici e alla gestione congiunta delle calamità che interessano i rispettivi territori.",
+  "zac0d4a31": "La Reserve Bank of Australia ha varato una riforma volta ad accrescere la trasparenza nei prezzi e contenere le commissioni bancarie a carico dei cittadini, vietando dal primo ottobre l'applicazione diretta dei supplementi sulle carte. La transizione si scontra tuttavia con l'aumento delle spese di gestione per i piccoli esercenti.",
+  "z95261b51": "La prolungata vendita di debito sovrano americano ha spinto i costi di finanziamento ai massimi da oltre vent'anni, innescando timori di perdite prolungate per i detentori di obbligazioni. Il livello raggiunto dai rendimenti ha tuttavia stimolato l'interesse di acquirenti in cerca di cedole consistenti e stabili nel tempo.",
+  "za3c2bfac": "Il governo egiziano ha avviato una strategia di modernizzazione delle proprie infrastrutture per promuovere l'inclusione digitale e agevolare le interazioni tra cittadini e apparato statale. I vertici ministeriali hanno calendarizzato periodiche verifiche operative per presentare lo stato dei progetti in occasione delle principali assemblee economiche.",
+  "zb9513f51": "Il ruolo delle grandi potenze nelle dispute mediorientali è oggetto di costante dibattito politico dopo gli allarmi occidentali su presunte collaborazioni militari e triangolazioni commerciali con Teheran. Le dichiarazioni di Trump intervengono a ridefinire la percezione della Casa Bianca circa la reale postura di Pechino e Mosca.",
+  "zd46b8c47": "La presenza di migliaia di famiglie profughe nell'insediamento di Nakivale richiede periodiche campagne di immunizzazione per arginare le malattie infettive più pericolose. Le organizzazioni sanitarie locali hanno intensificato i controlli epidemiologici per assicurare la copertura vaccinale di base tra i minori recentemente giunti nell'area.",
+  "z8b21a074": "La Santa Sede stava completando i preparativi logistici per il viaggio apostolico del pontefice in America Latina, previsto tra poche settimane. L'inattesa comunicazione sulla diagnosi clinica ha riaperto l'attenzione sullo stato di salute papale e sulle possibili ricadute sull'intenso calendario delle celebrazioni e delle visite di Stato.",
+  "zd64cd08b": "Il settore industriale camerunese punta ad attrarre capitali privati e linee di credito bancarie per sviluppare la capacità produttiva nazionale nell'agroalimentare e nella chimica di base. Gli accordi siglati a Douala consolidano la collaborazione tra istituti di credito e gruppi d'investimento per la crescita del polo economico cittadino."
  },
  "cronologie": {
   "ze86d166a": [
@@ -18693,6 +20121,170 @@ window.EDIZIONI["2026-10-13"] = {
     "12 ottobre",
     "Confermato il bilancio di 139 vittime e accertata la scomparsa di circa 84 dispersi"
    ]
+  ],
+  "zf105f837": [
+   [
+    "Anni recenti",
+    "RJ Mitte prosegue le attività benefiche e recitative"
+   ],
+   [
+    "13 ottobre",
+    "La stampa internazionale annuncia la scomparsa dell'attore a 34 anni"
+   ]
+  ],
+  "z4a2df96e": [
+   [
+    "Giorni scorsi",
+    "Episodio di sicurezza presso la base aerea di RAF Fairford e ritiro dei bombardieri USA"
+   ],
+   [
+    "12-13 ottobre",
+    "Il governo britannico convoca l'ambasciatore iraniano e 32 Paesi firmano una condanna congiunta"
+   ]
+  ],
+  "z507e2ba9": [
+   [
+    "Mesi scorsi",
+    "Crescono le critiche alla strategia politica e diplomatica del governo Netanyahu"
+   ],
+   [
+    "12-13 ottobre",
+    "Trump evita l'endorsement pubblico in vista del voto israeliano del 27 ottobre"
+   ]
+  ],
+  "ze8565d07": [
+   [
+    "Giorni scorsi",
+    "Campagna elettorale per l'elezione suppletiva di Holborn e St Pancras"
+   ],
+   [
+    "12-13 ottobre",
+    "Vittoria di Sagal Abdi-Wali e messaggio di congratulazioni del premier somalo"
+   ]
+  ],
+  "zcd11dd13": [
+   [
+    "Anni scorsi",
+    "Visa richiede l'accesso formale per la compensazione locale in yuan"
+   ],
+   [
+    "12-13 ottobre",
+    "Le autorità di Pechino concedono l'approvazione per la rete locale"
+   ]
+  ],
+  "za1d71aa7": [
+   [
+    "Giorni scorsi",
+    "Schianto dell'aereo militare e primi interventi di emergenza"
+   ],
+   [
+    "12-13 ottobre",
+    "I sommozzatori intensificano le ricerche della scatola nera e dei corpi"
+   ]
+  ],
+  "z9dd369a6": [
+   [
+    "Mesi scorsi",
+    "Proseguono i combattimenti e si aggrava l'emergenza umanitaria in Sudan"
+   ],
+   [
+    "12-13 ottobre",
+    "Le forze civili anti-guerra presentano una roadmap ai mediatori"
+   ]
+  ],
+  "z70333cd6": [
+   [
+    "Anni recenti",
+    "Studi clinici documentano l'impatto della denutrizione sui malati cronici"
+   ],
+   [
+    "12-13 ottobre",
+    "L'associazione diffonde i dati su 115 mila pazienti e carenze di screening"
+   ]
+  ],
+  "z59fdbf06": [
+   [
+    "Settimane scorse",
+    "Intensificazione dei contatti bilaterali tra le delegazioni di Mosca e Pyongyang"
+   ],
+   [
+    "12-13 ottobre",
+    "Firma dell'accordo di cooperazione per le catastrofi naturali durante la visita russa"
+   ]
+  ],
+  "zac0d4a31": [
+   [
+    "1 ottobre",
+    "Entrata in vigore del divieto di sovrapprezzo sulle carte di credito in Australia"
+   ],
+   [
+    "12-13 ottobre",
+    "Esperti e associazioni denunciano rincari ingiustificati sui prezzi al consumo"
+   ]
+  ],
+  "z95261b51": [
+   [
+    "Settimane scorse",
+    "Vendite diffuse spingono il rendimento del decennale americano oltre il 5,36%"
+   ],
+   [
+    "12-13 ottobre",
+    "Afflussi record verso i fondi obbligazionari guidati da investitori globali"
+   ]
+  ],
+  "za3c2bfac": [
+   [
+    "11 ottobre",
+    "Il premier egiziano Madbouly esamina i piani di digitalizzazione con i ministri"
+   ],
+   [
+    "12-13 ottobre",
+    "Definiti i contenuti della sessione tecnologica per l'Egypt Forum 2026"
+   ]
+  ],
+  "zb9513f51": [
+   [
+    "Settimane scorse",
+    "Dibattito internazionale sui legami strategici ed economici di Russia e Cina con l'Iran"
+   ],
+   [
+    "12-13 ottobre",
+    "Trump esclude pubblicamente il sostegno attivo di Pechino e Mosca a Teheran"
+   ]
+  ],
+  "zd46b8c47": [
+   [
+    "Settimana scorsa",
+    "Avvio e svolgimento della campagna vaccinale contro il morbillo a Nakivale"
+   ],
+   [
+    "12 ottobre",
+    "Diffusione dei dati sull'immunizzazione di migliaia di bambini rifugiati"
+   ]
+  ],
+  "z8b21a074": [
+   [
+    "11 ottobre",
+    "Papa Leone XIV annuncia a sorpresa l'intervento chirurgico per il nodulo polmonare"
+   ],
+   [
+    "12-13 ottobre",
+    "Specialisti e stampa analizzano i tempi di recupero in vista del viaggio apostolico"
+   ]
+  ],
+  "zd64cd08b": [
+   [
+    "1 ottobre",
+    "Convenzione di finanziamento tra BGFIBank e TAGIDOR Investments"
+   ],
+   [
+    "2 ottobre",
+    "Siglata la seconda convenzione per la realizzazione del nuovo saponificio"
+   ],
+   [
+    "12-13 ottobre",
+    "Presentazione degli sviluppi operativi dei due progetti a Douala"
+   ]
   ]
  },
  "luoghi": {
@@ -18773,13 +20365,6 @@ window.EDIZIONI["2026-10-13"] = {
    "n": "Bangkok",
    "p": [
     "Thailand"
-   ],
-   "pt": []
-  },
-  "zce2b039a": {
-   "n": "New York",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -19838,7 +21423,7 @@ window.EDIZIONI["2026-10-13"] = {
    "pt": []
   },
   "ze77764a5": {
-   "n": "London",
+   "n": "Londra",
    "p": [
     "United Kingdom"
    ],
@@ -21788,13 +23373,6 @@ window.EDIZIONI["2026-10-13"] = {
    ],
    "pt": []
   },
-  "zb42dbddf": {
-   "n": "Il Cairo",
-   "p": [
-    "Egypt"
-   ],
-   "pt": []
-  },
   "z90831752": {
    "n": "Wigan",
    "p": [
@@ -23100,6 +24678,389 @@ window.EDIZIONI["2026-10-13"] = {
     "China"
    ],
    "pt": []
+  },
+  "za6e06170": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf105f837": {
+   "n": "Hollywood",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4a2df96e": {
+   "n": "RAF Fairford",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z507e2ba9": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "ze8565d07": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zcd11dd13": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "za1d71aa7": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z9dd369a6": {
+   "n": "Khartum",
+   "p": [
+    "Sudan"
+   ],
+   "pt": []
+  },
+  "z70333cd6": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z59fdbf06": {
+   "n": "Pyongyang",
+   "p": [
+    "North Korea"
+   ],
+   "pt": []
+  },
+  "zac0d4a31": {
+   "n": "Canberra",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z95261b51": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za3c2bfac": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zb9513f51": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd46b8c47": {
+   "n": "Nakivale",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z8b21a074": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "zd64cd08b": {
+   "n": "Douala",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zeb0f00c6": {
+   "n": "San Marino",
+   "p": [
+    "San Marino"
+   ],
+   "pt": []
+  },
+  "zd4b1a113": {
+   "n": "Teheran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zcda88fa9": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zccb3f229": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z037e645e": {
+   "n": "Cracovia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zdaccd9c8": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z4c9084c1": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zc92a63fd": {
+   "n": "Tbilisi",
+   "p": [
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "z1541d849": {
+   "n": "Tbilisi",
+   "p": [
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "zc5bffa5d": {
+   "n": "Tbilisi",
+   "p": [
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "z83d89fc8": {
+   "n": "Avaza",
+   "p": [
+    "Turkmenistan"
+   ],
+   "pt": []
+  },
+  "z3e0f3ae1": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z0b6719b6": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z44192301": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zd46284a5": {
+   "n": "Pristina",
+   "p": [
+    "Kosovo"
+   ],
+   "pt": []
+  },
+  "z37c24b21": {
+   "n": "Pristina",
+   "p": [
+    "Kosovo"
+   ],
+   "pt": []
+  },
+  "z087ee48a": {
+   "n": "Pristina",
+   "p": [
+    "Kosovo"
+   ],
+   "pt": []
+  },
+  "z4c96ab62": {
+   "n": "Teodo",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "ze4b55ca5": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zce27a6e6": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z268194a7": {
+   "n": "Tbilisi",
+   "p": [
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "z4d328e6a": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z69052c4b": {
+   "n": "Grozny",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zef1f12df": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z5c434208": {
+   "n": "Istanbul",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z0da3fc45": {
+   "n": "Ankara",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z67f5b4e9": {
+   "n": "Ankara",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "zbb87f5a0": {
+   "n": "Ankara",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z99dced19": {
+   "n": "Roumieh",
+   "p": [
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z4e8fa400": {
+   "n": "Al-Hasaka",
+   "p": [
+    "Syria"
+   ],
+   "pt": []
+  },
+  "z771ad968": {
+   "n": "Deir el-Zor",
+   "p": [
+    "Syria"
+   ],
+   "pt": []
+  },
+  "z13df4811": {
+   "n": "Stato Rakhine",
+   "p": [
+    "Myanmar"
+   ],
+   "pt": []
+  },
+  "z2a138319": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zd705d64f": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z39ea255f": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z341bc010": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z5a745e1b": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z2e4a6476": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -23114,7 +25075,6 @@ window.EDIZIONI["2026-10-13"] = {
   "zbe99779f": 2,
   "zbdcc920d": 3,
   "ze53058fc": 1,
-  "zce2b039a": 1,
   "ze835e522": 1,
   "z11dbd679": 1,
   "z88abbfa9": 1,
@@ -23542,7 +25502,6 @@ window.EDIZIONI["2026-10-13"] = {
   "z786faacd": 1,
   "z2d66700f": 1,
   "z5e4fa057": 1,
-  "zb42dbddf": 1,
   "z90831752": 1,
   "z1d3fb2d7": 1,
   "z76c74de5": 1,
@@ -23727,7 +25686,62 @@ window.EDIZIONI["2026-10-13"] = {
   "z0120777e": 1,
   "zb8db521b": 1,
   "z67b72c88": 1,
-  "zd380e42e": 1
+  "zd380e42e": 1,
+  "za6e06170": 1,
+  "zf105f837": 2,
+  "z4a2df96e": 2,
+  "z507e2ba9": 2,
+  "ze8565d07": 1,
+  "zcd11dd13": 1,
+  "za1d71aa7": 2,
+  "z9dd369a6": 2,
+  "z70333cd6": 1,
+  "z59fdbf06": 1,
+  "zac0d4a31": 1,
+  "z95261b51": 2,
+  "za3c2bfac": 2,
+  "zb9513f51": 2,
+  "zd46b8c47": 1,
+  "z8b21a074": 2,
+  "zd64cd08b": 1,
+  "zeb0f00c6": 1,
+  "zd4b1a113": 1,
+  "zcda88fa9": 1,
+  "zccb3f229": 1,
+  "z037e645e": 1,
+  "zdaccd9c8": 1,
+  "z4c9084c1": 1,
+  "zc92a63fd": 1,
+  "z1541d849": 1,
+  "zc5bffa5d": 1,
+  "z83d89fc8": 1,
+  "z3e0f3ae1": 1,
+  "z0b6719b6": 1,
+  "z44192301": 1,
+  "zd46284a5": 1,
+  "z37c24b21": 1,
+  "z087ee48a": 1,
+  "z4c96ab62": 1,
+  "ze4b55ca5": 1,
+  "zce27a6e6": 1,
+  "z268194a7": 1,
+  "z4d328e6a": 1,
+  "z69052c4b": 1,
+  "zef1f12df": 1,
+  "z5c434208": 1,
+  "z0da3fc45": 1,
+  "z67f5b4e9": 1,
+  "zbb87f5a0": 1,
+  "z99dced19": 1,
+  "z4e8fa400": 1,
+  "z771ad968": 1,
+  "z13df4811": 1,
+  "z2a138319": 1,
+  "zd705d64f": 1,
+  "z39ea255f": 1,
+  "z341bc010": 1,
+  "z5a745e1b": 1,
+  "z2e4a6476": 1
  },
  "video": {},
  "pillole": []
