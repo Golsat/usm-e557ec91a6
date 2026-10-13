@@ -3662,7 +3662,7 @@ window.EDIZIONI["2026-10-13"] = {
   },
   {
    "id": "z8ddc06ae",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "La Ceuta che riceve i Reali: “Iniziamo a vedere la luce in fondo al tunnel”",
    "orig": "La Ceuta que recibe a los Reyes: “Empezamos a ver la luz al final del túnel”",
    "lead": "Felipe VI e la regina Letizia sono giunti in visita ufficiale in una città autonoma di Ceuta profondamente diversa rispetto a quella di due mesi fa, accolti dal clima di speranza dei cittadini. Lo riferisce El País.",
@@ -4903,29 +4903,6 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.ilpost.it/2026/10/13/ghisallo-storia-museo-ciclismo/",
      "angolo": "",
      "atlas": "Italy"
-    }
-   ],
-   "data": "13 ott",
-   "ora": "09:30",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zc83b5b6e",
-   "sez": "cucina",
-   "titolo": "Cucina una volta, mangia due: la ricetta di Rukmini Iyer per il pollo al miso e peperoncino con zucca e porri arrostiti",
-   "orig": "Cook once, eat twice: Rukmini Iyer’s recipe for miso chilli chicken with roasted squash and leeks | Cook once, eat twice",
-   "lead": "Con l'arrivo della stagione dei piatti al forno, la chef propone una ricetta pratica e saporita basata su cosce di pollo marinate nel miso, aglio, zenzero e peperoncino, cotte insieme a zucca e porri sistemati al di sotto della carne per assorbire i succhi. Il piatto viene completato da una salsa condimento a base di sesamo, peperoncino e coriandolo, pensata per essere preparata facilmente anche da chi ha poco tempo a disposizione. Lo riferisce The Guardian – Cucina.",
-   "more": [
-    "La tecnica di cottura in teglia al forno consente di valorizzare gli ingredienti di stagione attraverso la combinazione di marinature aromatiche e verdure arrosto, riducendo i tempi di preparazione e massimizzando la resa dei sapori."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian – Cucina",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/food/2026/oct/13/miso-chilli-chicken-recipe-roast-squash-leeks-cook-once-eat-twice-rukmini-iyer",
-     "angolo": "",
-     "atlas": "United Kingdom"
     }
    ],
    "data": "13 ott",
@@ -7273,6 +7250,14 @@ window.EDIZIONI["2026-10-13"] = {
      "u": "https://www.lacucinaitaliana.it/article/risotto-uva-cremoso-parmigiano-robiola-ricetta-autunno/",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/food/2026/oct/13/miso-chilli-chicken-recipe-roast-squash-leeks-cook-once-eat-twice-rukmini-iyer",
+     "angolo": "",
+     "atlas": "United Kingdom"
     }
    ],
    "data": "13 ott",
@@ -7974,7 +7959,6 @@ window.EDIZIONI["2026-10-13"] = {
   "zf084f8bd": "The Guardian pone l'accento sulla furia del giudice e sulle richieste di spiegazioni urgenti rivolte ai funzionari federali, ripreso anche da altre testate internazionali come il New Zealand Herald.",
   "z5c5725d1": "L'emittente tedesca evidenzia il contrasto tra la ripresa delle stime di crescita economica nazionale e le difficoltà persistenti del settore agricolo e vinicolo locale.",
   "z5fe8745d": "Il quotidiano online italiano approfondisce il valore simbolico e culturale di una delle strade in salita più iconiche della storia della bicicletta.",
-  "zc83b5b6e": "Il supplemento gastronomico del quotidiano britannico mette in evidenza idee culinarie pratiche e veloci per la stagione autunnale.",
   "z95feb404": "La rivista musicale e culturale analizza criticamente le dinamiche sociologiche legate alla fruizione delle sale cinematografiche e alle reazioni del pubblico di fronte alle nuove uscite.",
   "z7dd17721": "Il portale di informazione medica evidenzia la necessità di ulteriori ricerche cliniche rigorose prima di validare l'impiego terapeutico della cannabis contro i disturbi del sonno.",
   "zb93152a6": "Il quotidiano malese riporta le previsioni istituzionali relative all'evoluzione delle condizioni climatiche e alla qualità dell'aria nel Paese.",
@@ -10269,13 +10253,6 @@ window.EDIZIONI["2026-10-13"] = {
    ],
    "pt": []
   },
-  "zc83b5b6e": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "z95feb404": {
    "n": "Milano",
    "p": [
@@ -11611,7 +11588,6 @@ window.EDIZIONI["2026-10-13"] = {
   "zf084f8bd": 2,
   "z5c5725d1": 1,
   "z5fe8745d": 1,
-  "zc83b5b6e": 1,
   "z95feb404": 1,
   "z7dd17721": 1,
   "zb93152a6": 1,
