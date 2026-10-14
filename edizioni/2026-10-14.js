@@ -3,6 +3,1182 @@ window.EDIZIONI["2026-10-14"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z56f5e566",
+   "sez": "mondo",
+   "titolo": "Avviati in Suriname i lavori per 350 case popolari donate dalla Cina",
+   "orig": "Geschonken woningbouwproject van China eindelijk gestart: ‘Wij willen vóór 2030 een aantal woningen uit de grond stampen’",
+   "lead": "A Reeberg, vicino a Paramaribo, il governo del Suriname ha dato lunedì il via ufficiale alla costruzione di 350 alloggi sociali, finanziati tramite un progetto donato dalla Cina. La presidente Jennifer Geerlings-Simons ha presenziato alla cerimonia di avvio. Il consigliere governativo Faizal Abdoelgafoer ha assicurato al quotidiano De Ware Tijd che l'esecutivo intende affrontare in modo strutturale la carenza abitativa su scala nazionale, con l'obiettivo di realizzare un numero significativo di abitazioni entro il 2030. Lo riferisce De Ware Tijd.",
+   "more": [
+    "Il Suriname, ex colonia olandese in Sud America, soffre da anni di una carenza cronica di alloggi popolari, aggravata da difficoltà economiche. Progetti di cooperazione con la Cina rientrano in una più ampia strategia di investimenti infrastrutturali cinesi in America Latina e Caraibi."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/geschonken-woningbouwproject-van-china-eindelijk-gestart-wij-willen-voor-2030-een-aantal-woningen-uit-de-grond-stampen/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-14T03:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zecf48393",
+   "sez": "mondo",
+   "titolo": "Rottura di una tubazione interrompe l'erogazione idrica a Paramaribo Nord",
+   "orig": "Verstoorde watervoorziening Noord door buisbreuk Keizerstraat",
+   "lead": "La compagnia idrica surinamese SWM ha scoperto lunedì che una rottura di una tubazione in Keizerstraat è la causa della ridotta erogazione d'acqua nella zona nord di Paramaribo. In un comunicato diffuso martedì, la società ha spiegato che il guasto non era stato segnalato dall'impresa appaltatrice responsabile del danno, causato durante alcuni lavori. Secondo SWM gli utenti della zona avrebbero dovuto ricevere prima un avviso sull'interruzione del servizio. Lo riferisce De Ware Tijd.",
+   "more": [
+    "La Surinaamsche Waterleidingmaatschappij (SWM) è l'azienda statale che gestisce la fornitura di acqua potabile in Suriname, Paese sudamericano con infrastrutture spesso vulnerabili a guasti e ritardi nella manutenzione."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/verstoorde-watervoorziening-noord-door-buisbreuk-keizerstraat/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-14T02:10+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1017b292",
+   "sez": "mondo",
+   "titolo": "I Paesi Bassi valutano di rendere il primo luglio festa nazionale",
+   "orig": "Nederland overweegt van 1 juli nationale vrije dag te maken",
+   "lead": "Il Comitato per la memoria della schiavitù, su incarico del governo olandese, sta esaminando se il primo luglio possa diventare una giornata festiva nazionale ufficiale nei Paesi Bassi. L'iniziativa è stata presentata lunedì alla Camera dei Deputati dal ministro degli Interni e dei Rapporti del Regno, Pieter Heerma. La misura risponderebbe a una delle richieste avanzate da diversi gruppi sia in Suriname sia nei Paesi Bassi, legate al ricordo dell'abolizione della schiavitù. Lo riferisce De Ware Tijd.",
+   "more": [
+    "Il primo luglio è la data in cui, nel 1863, i Paesi Bassi abolirono la schiavitù nelle sue colonie, tra cui il Suriname. La ricorrenza, nota come Keti Koti, è oggi commemorata ogni anno da comunità afro-discendenti."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/nederland-overweegt-van-1-juli-nationale-vrije-dag-te-maken/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-14T00:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z92e942b7",
+   "sez": "mondo",
+   "titolo": "Bolivia, il ministro Aramayo: nessuna richiesta di estradizione per l'ex procuratore Mariaca",
+   "orig": "Ministro Aramayo asegura que no existe ninguna solicitud de extradición contra el exfiscal Mariaca",
+   "lead": "Il ministro della Presidenza boliviano, Fernando Aramayo, ha dichiarato martedì che al momento non esiste alcuna richiesta di estradizione nei confronti dell'ex procuratore generale Roger Mariaca, attualmente detenuto in custodia preventiva in carcere. La precisazione arriva in un contesto di tensioni giudiziarie che coinvolgono figure di vertice del sistema giudiziario boliviano. Lo riferisce Opinión.",
+   "more": [
+    "La procura generale della Bolivia è l'organo che dirige l'azione penale nel Paese; vicende di detenzione o estradizione di suoi ex vertici riflettono spesso tensioni politico-giudiziarie interne."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/ministro-aramayo-asegura-que-existe-ninguna-solicitud-extradicion-exfiscal-mariaca/20261013221842997582.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-13T22:18-04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8d612e12",
+   "sez": "mondo",
+   "titolo": "Bolivia, la giustizia annulla l'ordine di arresto contro Tatiana Marset per motivi di salute",
+   "orig": "Justicia anula orden de aprehensión contra Tatiana Marset debido a su estado de salud",
+   "lead": "La giustizia boliviana ha concesso martedì un'azione di libertà a favore di Tatiana Marset, annullando la dichiarazione di contumacia e il mandato di cattura emessi contro di lei lunedì 12 ottobre. Lo ha reso noto la sua avvocata, Mónica, spiegando che la decisione è legata allo stato di salute della donna. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/justicia-anula-orden-aprehension-marset-debido-estado-salud/20261013204127997581.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-13T20:41-04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3dc14b86",
+   "sez": "mondo",
+   "titolo": "Bolivia, incendio nella zona alta di Sacaba domato dopo nove ore",
+   "orig": "Incendio en la zona alta de Sacaba fue controlado tras nueve horas de trabajo",
+   "lead": "Un incendio divampato nella zona alta di Sacaba, in Bolivia, ha mobilitato il personale dell'Unità di Gestione dei Rischi e squadre di primo intervento, che hanno lavorato per diverse ore al fine di controllare le fiamme e impedirne la propagazione. Le operazioni di spegnimento si sono protratte per circa nove ore prima che il rogo fosse dichiarato sotto controllo. Lo riferisce Opinión.",
+   "more": [
+    "Sacaba è un municipio della regione di Cochabamba, in Bolivia, area spesso interessata da incendi stagionali legati a condizioni climatiche secche e alla vegetazione delle zone collinari."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cochabamba/incendio-zona-alta-sacaba-fue-controlado-nueve-horas-trabajo/20261013174350997580.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-13T17:43-04:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9c407789",
+   "sez": "mondo",
+   "titolo": "Isole Salomone e Vietnam rafforzano le relazioni bilaterali con la nomina di un console onorario",
+   "orig": "Solomon Islands and Viet Nam Strengthen Bilateral Relations with Appointment of Honorary Consul",
+   "lead": "Le Isole Salomone e il Vietnam hanno consolidato i propri legami bilaterali attraverso la nomina di un console onorario, un passo che segna un ulteriore sviluppo nei rapporti diplomatici ed economici tra i due Paesi. Lo riferisce SIBC.",
+   "more": [
+    "I consoli onorari sono figure che rappresentano gli interessi di un Paese straniero in un'altra nazione senza essere diplomatici di carriera, spesso impiegati per rafforzare legami commerciali e culturali tra Stati con relazioni diplomatiche limitate."
+   ],
+   "fonti": [
+    {
+     "n": "SIBC",
+     "p": "XX",
+     "c": "Honiara",
+     "u": "https://www.sibconline.com.sb/solomon-islands-and-viet-nam-strengthen-bilateral-relations-with-appointment-of-honorary-consul/",
+     "angolo": "",
+     "atlas": "Solomon Is.",
+     "t": "2026-10-14T03:20+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z45fcc4d6",
+   "sez": "mondo",
+   "titolo": "SATSOL e CBSI firmano un accordo per rafforzare il recupero da disastri e la continuità operativa",
+   "orig": "SATSOL and CBSI Sign Agreement to Strengthen Disaster Recovery and Business Continuity",
+   "lead": "SATSOL e la Banca Centrale delle Isole Salomone (CBSI) hanno firmato un accordo volto a rafforzare le capacità di recupero in caso di disastri e la continuità delle attività. L'intesa punta a migliorare la resilienza istituzionale del Paese di fronte a eventi che potrebbero interrompere i servizi essenziali. Lo riferisce SIBC.",
+   "more": [
+    "La Banca Centrale delle Isole Salomone (CBSI) è l'istituto monetario nazionale dell'arcipelago del Pacifico, responsabile della stabilità finanziaria; accordi di questo tipo mirano a garantire la continuità dei servizi bancari anche in caso di calamità naturali."
+   ],
+   "fonti": [
+    {
+     "n": "SIBC",
+     "p": "XX",
+     "c": "Honiara",
+     "u": "https://www.sibconline.com.sb/satsol-and-cbsi-sign-agreement-to-strengthen-disaster-recovery-and-business-continuity/",
+     "angolo": "",
+     "atlas": "Solomon Is.",
+     "t": "2026-10-14T03:03+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3f0ab3aa",
+   "sez": "mondo",
+   "titolo": "Il governo delle Isole Salomone punta a 5.000 lavoratori in mobilità ogni anno",
+   "orig": "Government targets 5,000 labour mobility workers annually",
+   "lead": "Il governo delle Isole Salomone si è posto l'obiettivo di inviare annualmente 5.000 lavoratori nell'ambito di programmi di mobilità lavorativa, iniziative che permettono a cittadini salomonesi di lavorare temporaneamente all'estero. Lo riferisce SIBC.",
+   "more": [
+    "I programmi di mobilità lavorativa nel Pacifico, spesso rivolti verso Australia e Nuova Zelanda, offrono a cittadini di piccole nazioni insulari l'opportunità di lavoro stagionale, generando rimesse economiche importanti per le economie locali."
+   ],
+   "fonti": [
+    {
+     "n": "SIBC",
+     "p": "XX",
+     "c": "Honiara",
+     "u": "https://www.sibconline.com.sb/government-targets-5000-labour-mobility-workers-annually/",
+     "angolo": "",
+     "atlas": "Solomon Is.",
+     "t": "2026-10-14T02:26+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z76aae193",
+   "sez": "mondo",
+   "titolo": "Lisbona, sciopero di 24 ore nella metropolitana senza servizi minimi garantiti",
+   "orig": "6h Greve de 24 horas no Metro de Lisboa sem serviços mínimos decretados",
+   "lead": "La metropolitana di Lisbona è stata colpita da uno sciopero di 24 ore, durante il quale non sono stati decretati servizi minimi obbligatori. Lo sciopero ha interessato l'intera giornata lavorativa, con ripercussioni sulla mobilità dei cittadini nella capitale portoghese. Lo riferisce RTP.",
+   "more": [
+    "La metropolitana di Lisbona è una delle principali reti di trasporto pubblico della capitale portoghese; gli scioperi nel settore dei trasporti sono frequenti in Portogallo nell'ambito di vertenze sindacali su salari e condizioni di lavoro."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/6h-greve-de-24-horas-no-metro-de-lisboa-sem-servicos-minimos-decretados_a1_1771533",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z190dde32",
+   "sez": "economia",
+   "titolo": "Il governo portoghese annuncia il vincitore della privatizzazione parziale della TAP",
+   "orig": "5h Governo anuncia vencedor da privatização parcial da TAP",
+   "lead": "Il governo portoghese ha reso noto il nome del vincitore della gara per la privatizzazione parziale della compagnia aerea nazionale TAP. L'annuncio segna una tappa importante nel processo di apertura del capitale della compagnia a investitori privati. Lo riferisce RTP.",
+   "more": [
+    "TAP Air Portugal è la compagnia aerea di bandiera del Portogallo, a lungo sotto controllo statale dopo un salvataggio pubblico; la sua privatizzazione parziale è stata oggetto di dibattito politico ed economico negli ultimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/5h-governo-anuncia-vencedor-da-privatizacao-parcial-da-tap_a1_1771531",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T06:13+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcab3f6c1",
+   "sez": "economia",
+   "titolo": "Portogallo, da novembre meno ritenute IRS su stipendi e pensioni",
+   "orig": "4h Salários e pensões de novembro vão ter menos descontos para o IRS",
+   "lead": "A partire da novembre, gli stipendi e le pensioni in Portogallo subiranno trattenute inferiori per l'imposta sul reddito (IRS), secondo quanto annunciato dalle autorità portoghesi. La misura comporterà un aumento del netto percepito da lavoratori e pensionati nel mese di novembre. Lo riferisce RTP.",
+   "more": [
+    "L'IRS (Imposto sobre o Rendimento das Pessoas Singulares) è l'imposta sul reddito delle persone fisiche in Portogallo, trattenuta mensilmente dalla busta paga; variazioni delle ritenute incidono direttamente sul potere d'acquisto dei cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/4h-salarios-e-pensoes-de-novembro-vao-ter-menos-descontos-para-o-irs_a1_1771527",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T05:34+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze90ca406",
+   "sez": "mondo",
+   "titolo": "Austria, i rettori vogliono abolire l'obbligo di latino in molte facoltà",
+   "orig": "Rektoren wollen in vielen Fächern Aus für Lateinpflicht",
+   "lead": "I rettori delle università austriache chiedono l'eliminazione dell'obbligo di latino in numerose facoltà, ritenendolo un requisito ormai superato per molti corsi di studio. La proposta mira a modernizzare i criteri di accesso universitario nel Paese. Lo riferisce ORF.",
+   "more": [
+    "In molte università di tradizione centroeuropea, la conoscenza del latino è storicamente richiesta per l'accesso a facoltà umanistiche o giuridiche, un requisito oggi spesso messo in discussione per adeguare i programmi alle esigenze contemporanee."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445019/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T07:39+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9f2b68c2",
+   "sez": "mondo",
+   "titolo": "Trump annuncia lo sfruttamento di risorse minerarie in Groenlandia",
+   "orig": "Trump kündigt Erschließung von Rohstoffen in Grönland an",
+   "lead": "Il presidente statunitense Donald Trump ha annunciato piani per lo sfruttamento di risorse minerarie in Groenlandia, territorio autonomo danese da tempo oggetto dell'interesse statunitense per le sue riserve naturali strategiche. Lo riferisce ORF.",
+   "more": [
+    "La Groenlandia, territorio autonomo del Regno di Danimarca, possiede ingenti riserve di minerali rari e terre rare, risorse considerate strategiche a livello globale; Trump ha più volte espresso interesse per l'isola negli ultimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445018/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T07:32+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z80e33c9e",
+   "sez": "mondo",
+   "titolo": "Danimarca, un cane antidroga trova oltre 60 chili di cannabis",
+   "orig": "Toldhund finder over 60 kilo cannabis",
+   "lead": "Un cane delle dogane danesi ha individuato oltre 60 chilogrammi di cannabis durante un controllo. Il sequestro rappresenta una delle operazioni antidroga recenti condotte dalle autorità doganali danesi. Lo riferisce DR Nyheder.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/toldhund-finder-over-60-kilo-cannabis",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-14T05:13+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc5c432b9",
+   "sez": "mondo",
+   "titolo": "Un giudice impedisce a Trump di escludere specifici media",
+   "orig": "Dommer forhindrer Trump i at udelukke specifikke medier",
+   "lead": "Un giudice statunitense ha bloccato un tentativo dell'amministrazione Trump di escludere specifiche testate giornalistiche da determinati eventi o accessi istituzionali. La decisione rappresenta un freno giudiziario alle politiche mediatiche del presidente. Lo riferisce DR Nyheder.",
+   "more": [
+    "Negli Stati Uniti, i tribunali federali svolgono un ruolo di controllo sulle decisioni dell'esecutivo riguardanti l'accesso dei media alle istituzioni, in base a principi costituzionali sulla libertà di stampa."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/dommer-forhindrer-trump-i-udelukke-specifikke-medier",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-14T04:47+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc215d568",
+   "sez": "mondo",
+   "titolo": "Consiglio di sicurezza ONU: la RDC ribadisce la richiesta di piena attuazione della risoluzione 2773 e del ritiro delle forze ruandesi",
+   "orig": "Conseil de sécurité de l’ONU : la RDC réitère son exigence d’une application intégrale de la résolution 2773 et du retrait des forces rwandaises",
+   "lead": "Davanti al Consiglio di sicurezza delle Nazioni Unite, la Repubblica Democratica del Congo ha ribadito la propria richiesta di un'applicazione integrale della risoluzione 2773 e del ritiro delle forze ruandesi dal proprio territorio. L'intervento si inserisce nel contesto del conflitto nell'est del Paese, dove gruppi armati sostenuti da attori esterni continuano a operare. Lo riferisce Radio Okapi.",
+   "more": [
+    "La risoluzione 2773 dell'ONU riguarda la crisi nella regione orientale della RDC, dove da anni operano gruppi armati, tra cui l'M23, accusati da Kinshasa di essere sostenuti dal Ruanda; il Consiglio di sicurezza segue da tempo l'evoluzione del conflitto."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/actualite/securite/conseil-de-securite-de-lonu-la-rdc-reitere-son-exigence-dune",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T05:35+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc6503ec1",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, incendio in un impianto chimico a Ulsan domato in quattro ore",
+   "orig": "울산 온산공단 부승화학 화재 4시간 만에 진화",
+   "lead": "Un incendio divampato presso lo stabilimento chimico Busunghwahak, nel complesso industriale di Onsan a Ulsan, è stato domato dopo circa quattro ore di intervento dei vigili del fuoco. L'incidente ha interessato un'area industriale della città sudcoreana. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Il complesso industriale di Onsan, a Ulsan, è uno dei principali poli petrolchimici della Corea del Sud, ospitando numerosi impianti di produzione chimica ad alto rischio di incidenti industriali."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/area/yeongnam/1282344.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd0c7b54c",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, la figlia di Han Dong-hoon premiata a Seul tra accuse di favoritismo familiare",
+   "orig": "[단독]한동훈 딸 ‘부모 찬스’ 논란 ‘노트북 기부’ 내세워 서울시상 수상",
+   "lead": "La figlia del politico sudcoreano Han Dong-hoon ha ricevuto un premio dalla città di Seul motivato da una donazione di laptop, episodio che ha riacceso le polemiche su presunti favoritismi legati al 'potere dei genitori' nella politica sudcoreana. La vicenda, rivelata in esclusiva da The Hankyoreh, alimenta il dibattito pubblico sulle disparità di opportunità legate alle relazioni familiari di figure politiche di primo piano. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Han Dong-hoon è un politico conservatore sudcoreano, ex ministro della Giustizia e figura di spicco del Partito del Potere Popolare; casi di presunto favoritismo verso i figli di politici sono un tema ricorrente e sensibile nella società sudcoreana."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/society/society_general/1282343.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z447ea4c9",
+   "sez": "economia",
+   "titolo": "Corea del Sud, riattivata l'autorità antitrust: primo caso riguarda presunto cartello nel settore alimentare",
+   "orig": "부활한 ‘재계 저승사자’ 1호 사건은 식품 담합…CJ제일제당 등 조사",
+   "lead": "L'autorità antitrust sudcoreana, soprannominata 'il mietitore dei chaebol', torna attiva e apre come primo caso un'indagine su un presunto cartello nel settore alimentare, coinvolgendo tra le altre l'azienda CJ CheilJedang. L'inchiesta riguarda accuse di accordi illeciti sui prezzi tra produttori del comparto. Lo riferisce The Hankyoreh.",
+   "more": [
+    "CJ CheilJedang è uno dei principali gruppi alimentari sudcoreani, parte del grande conglomerato CJ Group; le autorità antitrust della Corea del Sud vigilano periodicamente sui grandi gruppi industriali, detti chaebol, per contrastare pratiche di cartello."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/economy/economy_general/1282342.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zea7d433b",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, l'aeroporto di Cheongju supera i 5 milioni di passeggeri a 30 anni dall'apertura",
+   "orig": "개항 30년 청주공항 ‘여객 500만명’ 시대…지방 공항 4위 비상",
+   "lead": "A trent'anni dall'apertura, l'aeroporto di Cheongju ha raggiunto quota 5 milioni di passeggeri, un traguardo che lo colloca al quarto posto tra gli scali regionali della Corea del Sud. Il risultato segna una fase di crescita per l'infrastruttura aeroportuale, chiamata ora ad affrontare la concorrenza degli altri aeroporti regionali del Paese. Lo riferisce The Hankyoreh.",
+   "more": [
+    "L'aeroporto di Cheongju serve la regione del Chungcheong settentrionale in Corea del Sud ed è uno dei numerosi scali regionali del Paese che competono per attrarre voli nazionali e internazionali oltre ai grandi hub di Seul."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/area/chungcheong/1282339.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbffe177c",
+   "sez": "mondo",
+   "titolo": "Taiwan monitora da vicino le voci su casi di peste, dice il premier",
+   "orig": "Taiwan closely monitoring plague rumors: premier",
+   "lead": "Il primo ministro di Taiwan ha dichiarato che le autorità stanno monitorando attentamente le voci circolate su presunti casi di peste nell'isola, senza fornire ulteriori dettagli sulla natura o l'origine di tali segnalazioni. La dichiarazione mira a rassicurare l'opinione pubblica di fronte a notizie non confermate. Lo riferisce Taipei Times.",
+   "more": [
+    "La peste è una malattia infettiva rara nei Paesi sviluppati, generalmente trasmessa da roditori o pulci infette; focolai isolati vengono generalmente monitorati con attenzione dalle autorità sanitarie per prevenire la diffusione."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/14/2003865925",
+     "angolo": "",
+     "atlas": "Taiwan",
+     "t": "2026-10-14T08:00+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z507619a2",
+   "sez": "mondo",
+   "titolo": "Taiwan, il Partito Democratico Progressista avanti a New Taipei City",
+   "orig": "DPP takes New Taipei City lead",
+   "lead": "Il Partito Democratico Progressista (DPP) risulta in vantaggio a New Taipei City, secondo quanto riportato da Taipei Times, in un contesto politico locale che vede le principali forze taiwanesi contendersi il controllo dell'importante municipalità. Lo riferisce Taipei Times.",
+   "more": [
+    "New Taipei City è la municipalità più popolosa di Taiwan, che circonda la capitale Taipei; le elezioni e i sondaggi locali in quest'area sono considerati indicatori significativi degli equilibri politici nazionali tra DPP e opposizione."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/14/2003865935",
+     "angolo": "",
+     "atlas": "Taiwan",
+     "t": "2026-10-14T08:00+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z231ab6d1",
+   "sez": "economia",
+   "titolo": "Taiwan, in agenda un accordo di investimento con la Polonia",
+   "orig": "Investment deal with Poland on agenda: minister",
+   "lead": "Un ministro taiwanese ha annunciato che un accordo di investimento con la Polonia è all'ordine del giorno, segnalando un possibile rafforzamento delle relazioni economiche tra Taiwan e il Paese europeo. Lo riferisce Taipei Times.",
+   "more": [
+    "Taiwan ha intensificato negli ultimi anni gli accordi economici e di investimento con Paesi europei, nel tentativo di diversificare i propri partner commerciali al di fuori dell'area asiatica, anche per ragioni geopolitiche legate ai rapporti con la Cina."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/14/2003865937",
+     "angolo": "",
+     "atlas": "Taiwan",
+     "t": "2026-10-14T08:00+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9abfb8ac",
+   "sez": "mondo",
+   "titolo": "Attacchi Houthi provocano un incendio in un edificio Saudi Aramco a Riad, 4 feriti; Trump valuta di unirsi agli attacchi",
+   "orig": "US-Iran war: Houthi attacks spark fire at Saudi Aramco building, wound 4 in Riyadh; Trump weighs joining strikes",
+   "lead": "Attacchi attribuiti ai ribelli Houthi hanno causato un incendio in un edificio della compagnia petrolifera saudita Aramco a Riad, ferendo quattro persone, nel contesto di un conflitto più ampio tra Stati Uniti e Iran descritto come guerra. Il presidente statunitense Donald Trump starebbe valutando la possibilità di unire le forze statunitensi agli attacchi in corso nella regione. Lo riferisce Gulf News.",
+   "more": [
+    "Gli Houthi sono un movimento armato yemenita sostenuto dall'Iran, coinvolto in anni di conflitto nello Yemen e in attacchi contro obiettivi sauditi ed emiratini; Saudi Aramco è la compagnia petrolifera statale dell'Arabia Saudita, tra le maggiori al mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/mena/us-iran-war-houthi-attacks-spark-fire-at-saudi-aramco-building-wound-4-in-riyadh-trump-weighs-joining-strikes-1.500709746",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-14T07:42+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0bf800d8",
+   "sez": "mondo",
+   "titolo": "Scuole d'élite britanniche puntano sulle regioni del Giappone come polo educativo asiatico",
+   "orig": "Britain's elite schools bet on Japan's regions as Asia education hub",
+   "lead": "Istituti scolastici britannici di prestigio stanno scommettendo sulle regioni del Giappone, al di fuori delle grandi metropoli, per affermarsi come polo educativo in Asia. La strategia punta a espandere la presenza di scuole britanniche nel Paese asiatico, diversificando l'offerta educativa internazionale oltre le tradizionali sedi urbane. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Diverse scuole private britanniche hanno aperto negli ultimi anni filiali in Asia, in particolare in Cina e Singapore; l'espansione verso le regioni giapponesi rappresenta un nuovo fronte per attrarre famiglie interessate a un'istruzione in stile britannico."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/education/britain-s-elite-schools-bet-on-japan-s-regions-as-asia-education-hub",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6cae2416",
+   "sez": "economia",
+   "titolo": "Le esportazioni cinesi crescono del 36%, ritmo più veloce da febbraio",
+   "orig": "China's export engine hits fastest pace since February with 36% growth",
+   "lead": "Le esportazioni cinesi hanno registrato una crescita del 36%, il ritmo più rapido da febbraio, secondo i dati riportati da Nikkei Asia. Il dato segnala una forte accelerazione del motore commerciale della Cina, in un momento di attenzione globale sulle dinamiche del commercio internazionale. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Le esportazioni rappresentano uno dei principali motori della crescita economica cinese; variazioni significative nei dati commerciali vengono seguite con attenzione dai mercati globali per valutare la salute dell'economia della seconda potenza mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/economy/trade/china-s-export-engine-hits-fastest-pace-since-february-with-36-growth",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z90d1acf9",
+   "sez": "ambiente",
+   "titolo": "Filippine, sistemi idrici vetusti alla prova dell'impatto de El Niño",
+   "orig": "Philippines braces for El Nino impact as aging water systems falter",
+   "lead": "Le Filippine si preparano ad affrontare l'impatto del fenomeno climatico El Niño, mentre i sistemi di distribuzione idrica del Paese, ormai datati, mostrano segni di cedimento. La situazione solleva preoccupazioni sulla capacità delle infrastrutture di reggere eventuali periodi di siccità o stress idrico. Lo riferisce Nikkei Asia.",
+   "more": [
+    "El Niño è un fenomeno climatico ciclico che altera i regimi di pioggia nel Pacifico, spesso causando siccità prolungate nel Sud-est asiatico; le Filippine dipendono da infrastrutture idriche in parte obsolete, vulnerabili a tali shock climatici."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/economy/philippines-braces-for-el-nino-impact-as-aging-water-systems-falter",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z138bfc4d",
+   "sez": "economia",
+   "titolo": "Finanze pubbliche francesi, il problema è la politica",
+   "orig": "When it comes to France's public finances, the problem is politics",
+   "lead": "Secondo un'analisi di Nikkei Asia, il vero ostacolo al risanamento delle finanze pubbliche francesi non sarebbe di natura economica ma politica, in un contesto di instabilità di governo che complica l'adozione di misure di bilancio efficaci. Lo riferisce Nikkei Asia.",
+   "more": [
+    "La Francia affronta da tempo un elevato debito pubblico e disavanzi di bilancio persistenti; l'instabilità dei governi negli ultimi anni ha reso difficile approvare riforme fiscali e di spesa necessarie al risanamento dei conti pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/spotlight/comment/when-it-comes-to-france-s-public-finances-the-problem-is-politics",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3cd83a17",
+   "sez": "sport",
+   "titolo": "Le Reggae Girlz cadono 3-1 contro il Messico, che si prende la rivincita",
+   "orig": "Reggae Girlz fall 3-1 to Mexico as El Tri avenge loss",
+   "lead": "La nazionale femminile di calcio della Giamaica, le Reggae Girlz, ha perso 3-1 contro il Messico in un incontro che ha permesso a El Tri di vendicare una precedente sconfitta subita contro la squadra caraibica. Il Messico si è imposto con un netto vantaggio nel punteggio finale, confermando il proprio valore tecnico. L'esito conferma le difficoltà recenti della selezione giamaicana contro avversarie di alto livello continentale. Lo riferisce Jamaica Observer.",
+   "more": [
+    "Le Reggae Girlz sono la nazionale femminile di calcio della Giamaica, qualificatasi in passato a competizioni internazionali come i Mondiali. Il Messico, soprannominato El Tri, è una delle squadre più forti della regione CONCACAF."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/13/reggae-girlz-fall-3-1-mexico-el-tri-avenge-loss/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-14T04:24+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5c93b208",
+   "sez": "sport",
+   "titolo": "Legend confermato nuovo sponsor del titolo della JPL in un accordo da 300 milioni di dollari",
+   "orig": "Legend confirmed as new JPL title sponsor in $300 million deal",
+   "lead": "Il marchio Legend è stato confermato come nuovo sponsor del titolo della Jamaica Premier League (JPL) nell'ambito di un accordo del valore di 300 milioni di dollari. L'intesa rappresenta uno degli investimenti più rilevanti nella storia del campionato calcistico giamaicano e dovrebbe garantire maggiori risorse economiche al torneo nei prossimi anni. Lo riferisce Jamaica Observer.",
+   "more": [
+    "La Jamaica Premier League è il massimo campionato di calcio professionistico della Giamaica. Gli accordi di sponsorizzazione del titolo sono una fonte cruciale di finanziamento per i campionati calcistici, consentendo investimenti in infrastrutture, premi e sviluppo dei club."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/13/legend-confirmed-new-jpl-title-sponsor-300-million-deal/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-14T04:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z215861f4",
+   "sez": "mondo",
+   "titolo": "Testimonianza di un oftalmologo al centro del processo per frode a Ruel Reid e altri",
+   "orig": "Ophthalmologist visit under microscope as Ruel Reid and Co fraud trial continues",
+   "lead": "Il processo per frode che coinvolge l'ex ministro dell'Istruzione Ruel Reid e altri imputati è proseguito con l'esame della testimonianza relativa a una visita oculistica, posta sotto la lente del tribunale. Il caso continua a essere seguito con attenzione dalla stampa giamaicana come uno dei procedimenti giudiziari più rilevanti del Paese degli ultimi anni. Lo riferisce Jamaica Observer.",
+   "more": [
+    "Ruel Reid è un ex ministro dell'Istruzione della Giamaica, al centro di un procedimento giudiziario per accuse di frode legate a presunte irregolarità finanziarie durante il suo mandato pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/13/ophthalmologist-visit-microscope-ruel-reid-co-fraud-trial-continues/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-14T00:03+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcbc21cb9",
+   "sez": "economia",
+   "titolo": "A Baku forum d'affari tra Azerbaigian e Laos",
+   "orig": "Azerbaijan-Laos business forum underway in Baku",
+   "lead": "A Baku si è svolto un forum imprenditoriale tra Azerbaigian e Laos, dedicato al rafforzamento delle relazioni commerciali ed economiche tra i due Paesi. L'evento ha riunito rappresentanti di aziende e istituzioni azere e laotiane per discutere opportunità di cooperazione bilaterale in diversi settori produttivi. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/business/4234545.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-14T10:09+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z19ae12c2",
+   "sez": "mondo",
+   "titolo": "Bangladesh, l'esame si svolgerà nonostante la fuga di notizie sul testo",
+   "orig": "Youth Development Department to hold exam despite question paper leak",
+   "lead": "Il Dipartimento per lo sviluppo giovanile del Bangladesh ha deciso di svolgere comunque un esame nonostante la fuoriuscita del testo delle domande prima della prova. La decisione arriva dopo che la diffusione del materiale d'esame aveva suscitato preoccupazioni tra i candidati e dubbi sulla regolarità della selezione. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/crime-and-law/xopl8c5yt4",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-14T05:12+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6c4fc256",
+   "sez": "economia",
+   "titolo": "L'India rinnova lo scambio valutario da 320 milioni di dollari con le Maldive",
+   "orig": "India to roll over $320mn currency swap at Maldives’ request",
+   "lead": "L'India ha accettato di rinnovare uno scambio valutario (currency swap) da 320 milioni di dollari su richiesta delle Maldive, in un gesto di sostegno finanziario all'arcipelago dell'Oceano Indiano. L'accordo mira a garantire stabilità alla valuta maldiviana in un momento di necessità economica per il piccolo Stato insulare. Lo riferisce Sun Online.",
+   "more": [
+    "Uno swap valutario è un accordo tra due Paesi per scambiarsi reciprocamente valute, utile a sostenere le riserve estere e garantire stabilità finanziaria, specialmente per economie più piccole come quella delle Maldive."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109525",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T09:59+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2114e6cc",
+   "sez": "mondo",
+   "titolo": "Almeno 13 bambini annegano dopo il ribaltamento di una barca in Bihar, India",
+   "orig": "At least 13 children drown after boat capsizes in India's Bihar state",
+   "lead": "Almeno tredici bambini sono morti annegati dopo il ribaltamento di un'imbarcazione nello Stato indiano del Bihar. L'incidente ha coinvolto una barca che trasportava i minori, provocando una tragedia che ha colpito duramente la comunità locale. Le autorità stanno verificando le circostanze dell'accaduto. Lo riferisce Sun Online.",
+   "more": [
+    "Il Bihar è uno Stato dell'India nord-orientale, attraversato da numerosi fiumi e soggetto a frequenti incidenti legati al trasporto fluviale, spesso aggravati dalla scarsa sicurezza delle imbarcazioni locali."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109523",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T09:15+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z42ca6ad0",
+   "sez": "economia",
+   "titolo": "Maldive, nuove scorte di banconote da 5 rufiyaa dopo la carenza sul mercato",
+   "orig": "ބާޒާރުގައި 5 ރުފިޔާގެ ނޫޓު މަދުވުމުން އައު ސްޓޮކް ގެނެސްފި",
+   "lead": "Nel mercato maldiviano si è registrata una carenza di banconote da 5 rufiyaa, motivo per cui le autorità hanno disposto l'arrivo di nuove scorte per soddisfare la domanda. Il rifornimento punta a normalizzare la disponibilità di questo taglio nelle transazioni quotidiane dei cittadini. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190152",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T10:43+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2c323c1c",
+   "sez": "economia",
+   "titolo": "Maldive, revocati 29 investimenti esteri in settori riservati ai cittadini locali",
+   "orig": "ދިވެހިންނަށް ޚާއްޞަކޮށްފައިވާ ދާއިރާތަކުން 29 ފޮރިން އިންވެސްޓްމަންޓް އުވާލައިފި",
+   "lead": "Le autorità maldiviane hanno revocato 29 investimenti esteri in settori economici riservati ai cittadini locali, in applicazione delle norme che tutelano alcune attività economiche per la popolazione nazionale. Il provvedimento mira a far rispettare le restrizioni previste dalla legge sugli investimenti stranieri nel Paese. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190151",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T10:55+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf6b19ee8",
+   "sez": "ambiente",
+   "titolo": "Le Maldive partecipano alla consultazione sulle proposte da presentare alla COP",
+   "orig": "ކޮޕްގައި ހުށައަޅާނެ ކަންކަމުގެ މަޝްވަރާގައި ރާއްޖެއިން ބައިވެރިވެއްޖެ",
+   "lead": "Le Maldive hanno preso parte a una consultazione dedicata alla definizione delle proposte che il Paese presenterà alla prossima conferenza sul clima COP. L'incontro ha riunito funzionari ed esperti per definire la posizione maldiviana in vista del summit internazionale sul cambiamento climatico. Lo riferisce PSM News.",
+   "more": [
+    "La COP è la Conferenza delle Parti delle Nazioni Unite sul cambiamento climatico, un appuntamento annuale in cui i Paesi negoziano impegni e politiche per ridurre le emissioni. Le Maldive, arcipelago a rischio innalzamento del livello del mare, partecipano attivamente a questi negoziati."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190150",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T10:08+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3e3368b9",
+   "sez": "sport",
+   "titolo": "Maldive, la squadra si dice in forma per affrontare il Victory",
+   "orig": "&quot;ޓީމު އޮތީ ފޯމުގައި، ވިކްޓްރީއާ ދެކޮޅަށް ރަނގަޅު ގޭމެއް ކުޅެވޭނެ&quot;",
+   "lead": "Un rappresentante di una squadra calcistica maldiviana ha dichiarato che il gruppo si trova in buona forma e può disputare una buona partita contro il Victory, prossimo avversario in campionato. Le dichiarazioni anticipano un confronto considerato importante per la classifica della competizione locale. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190146",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T10:59+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1145f20d",
+   "sez": "mondo",
+   "titolo": "Bishkek, in custodia cautelare un ex funzionario dell'Agenzia per gli investimenti",
+   "orig": "Bishkek Court remands former Investment Agency official to custody over fraud and unrest charges",
+   "lead": "Un tribunale di Bishkek ha disposto la custodia cautelare per un ex funzionario dell'Agenzia per gli investimenti del Kirghizistan, accusato di frode e di coinvolgimento in disordini. Il provvedimento segue le indagini avviate dalle autorità kirghise sul suo operato all'interno dell'agenzia governativa. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924792",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-14T11:34+06:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5f7c8ee0",
+   "sez": "salute",
+   "titolo": "Oltre il 50% della popolazione del Kirghizistan è in sovrappeso",
+   "orig": "Over 50% of population of Kyrgyzstan overweight due to fast food and sugary drinks",
+   "lead": "Oltre il 50% della popolazione del Kirghizistan risulta in sovrappeso, un dato attribuito al consumo diffuso di fast food e bevande zuccherate. Gli esperti segnalano la crescita di questo fenomeno come una delle principali sfide sanitarie del Paese negli ultimi anni. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924787",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-14T11:24+06:00"
+    },
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924784",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-14T11:10+06:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3868a7ce",
+   "sez": "mondo",
+   "titolo": "La città di Osh necessita di 25 nuove scuole",
+   "orig": "Osh city needs 25 additional schools to address infrastructure strain",
+   "lead": "La città di Osh, in Kirghizistan, necessita di almeno 25 nuove scuole per far fronte alla pressione sulle infrastrutture educative esistenti. Le autorità locali segnalano che la crescita demografica ha reso insufficienti le strutture scolastiche attuali rispetto al numero di studenti. Lo riferisce AKIpress.",
+   "more": [
+    "Osh è la seconda città più grande del Kirghizistan, situata nella valle di Ferghana, un'area densamente popolata dell'Asia centrale."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924785",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-14T11:21+06:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5b8b6bf1",
+   "sez": "mondo",
+   "titolo": "Denunciate restrizioni ai servizi Starlink forniti all'esercito ucraino",
+   "orig": "Denuncian restricciones en los servicios que presta Starlink al Ejército ucraniano",
+   "lead": "Fonti ucraine denunciano l'introduzione di restrizioni nei servizi che la società Starlink fornisce all'esercito di Kiev, strumento fondamentale per le comunicazioni militari durante il conflitto con la Russia. Il servizio satellitare, gestito dall'azienda di Elon Musk SpaceX, è stato ampiamente utilizzato dalle forze ucraine per garantire connettività sul campo di battaglia, specialmente nelle aree dove le infrastrutture di telecomunicazione sono state danneggiate dai combattimenti. Non vengono specificati la natura esatta delle limitazioni né i motivi che le avrebbero causate. Lo riferisce ABC Color.",
+   "more": [
+    "Starlink è il servizio di internet satellitare sviluppato da SpaceX, l'azienda aerospaziale di Elon Musk. Dall'inizio dell'invasione russa, Kiev ha fatto largo uso di questa tecnologia per mantenere le comunicazioni militari, rendendo il servizio uno strumento strategico nel conflitto."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/14/denuncian-restricciones-en-los-servicios-que-presta-starlink-al-ejercito-ucraniano/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-14T05:50+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z114cb888",
+   "sez": "mondo",
+   "titolo": "Madagascar, la sfida dell'equità nell'esame di scuola media BEPC",
+   "orig": "RÉFORME SCOLAIRE - Le défi de l’équité au BEPC",
+   "lead": "Il Madagascar affronta una riforma del sistema scolastico che pone al centro la questione dell'equità nell'accesso e nel superamento del BEPC, l'esame di fine scuola media del Paese. La riforma scolastica punta a garantire pari opportunità agli studenti, indipendentemente dalle differenze territoriali o sociali che caratterizzano il sistema educativo malgascio. Il titolo dell'articolo pone l'accento proprio sulla sfida rappresentata dal garantire condizioni eque per tutti i candidati all'esame. Lo riferisce L'Express de Madagascar.",
+   "more": [
+    "Il BEPC (Brevet d'Études du Premier Cycle) è l'esame che in diversi Paesi francofoni, tra cui il Madagascar, segna la fine della scuola media e l'accesso al ciclo superiore. Le riforme scolastiche in Africa spesso cercano di ridurre le disparità tra aree urbane e rurali."
+   ],
+   "fonti": [
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/4291041744989799715/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-14T05:50+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd14d7c73",
+   "sez": "mondo",
+   "titolo": "Il PMSD chiede al governo mauriziano maggiore attenzione ai problemi reali della popolazione",
+   "orig": "PMSD : «Nous demandons au gouvernement d’être plus attentif aux problèmes réels de la population…»",
+   "lead": "Il partito politico mauriziano PMSD ha chiesto al governo di essere più attento ai problemi concreti che affliggono la popolazione del Paese. La dichiarazione, riportata dalla testata Defimedia con sede a Port Louis, rappresenta una critica all'operato dell'esecutivo mauriziano su temi di rilevanza sociale per i cittadini. Il titolo non specifica quali siano nel dettaglio i problemi sollevati dal partito, limitandosi a riportare la richiesta generale di maggiore ascolto da parte delle autorità. Lo riferisce Defimedia.",
+   "more": [
+    "Il PMSD (Parti Mauricien Social Démocrate) è una delle formazioni politiche storiche di Mauritius, attiva nel panorama partitico dell'isola dell'Oceano Indiano fin dagli anni dell'indipendenza."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/pmsd-nous-demandons-au-gouvernement-detre-plus-attentif-aux-problemes-reels-de-la-population",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T10:01+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z02c22b11",
+   "sez": "mondo",
+   "titolo": "Arianne Navarre-Marie lancia un appello ai genitori mauriziani",
+   "orig": "Arianne Navarre-Marie lance un appel aux parents : «Demann nou bann zanfan resezi zot»",
+   "lead": "Arianne Navarre-Marie ha lanciato un appello rivolto ai genitori di Mauritius, invitandoli a riprendere in mano l'educazione dei propri figli, come suggerisce l'espressione in creolo mauriziano riportata nel titolo. L'appello si inserisce in un contesto di preoccupazione per il comportamento dei giovani sull'isola. Il testo originale non fornisce ulteriori dettagli sul contesto specifico che ha motivato questo intervento pubblico. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/arianne-navarre-marie-lance-un-appel-aux-parents-demann-nou-bann-zanfan-resezi-zot",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T09:43+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z19664ca5",
+   "sez": "mondo",
+   "titolo": "Bruneau Laurette: «jockeys pagati 3.000 rupie per partecipare alle rivolte»",
+   "orig": "Bruneau Laurette : «Des ‘ jockeys’ payés Rs 3 000 pour participer aux émeutes»",
+   "lead": "L'attivista mauriziano Bruneau Laurette ha dichiarato che dei cosiddetti \"jockeys\", ovvero persone reclutate appositamente, sarebbero state pagate 3.000 rupie mauriziane ciascuna per partecipare a disordini e rivolte avvenute nel Paese. La dichiarazione getta un'ombra sull'organizzazione e la spontaneità delle proteste che hanno interessato Mauritius, suggerendo un coinvolgimento organizzato e retribuito di alcuni partecipanti. Non vengono forniti dal titolo ulteriori dettagli su chi avrebbe orchestrato questi pagamenti. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/bruneau-laurette-des-jockeys-payes-rs-3-000-pour-participer-aux-emeutes",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T09:42+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z17c5a9be",
+   "sez": "mondo",
+   "titolo": "Port-au-Prince, l'agente esecutivo ad interim spiega gli sforzi su pulizia e illuminazione notturna",
+   "orig": "Sanitation, night lighting, interim executive agent of Port-au-Prince Yves Andrel Salomon explains",
+   "lead": "Yves Andrel Salomon, agente esecutivo ad interim di Port-au-Prince, capitale di Haiti, ha fornito spiegazioni sulle iniziative riguardanti la gestione dei rifiuti e l'illuminazione notturna della città. L'intervento arriva in un momento in cui la capitale haitiana affronta diverse sfide infrastrutturali e di sicurezza urbana. Il titolo non specifica ulteriori dettagli sulle misure concrete annunciate o sui tempi di attuazione degli interventi descritti dal funzionario. Lo riferisce Le Nouvelliste.",
+   "more": [
+    "Port-au-Prince è la capitale di Haiti, Paese caraibico che negli ultimi anni ha affrontato gravi crisi politiche, economiche e di sicurezza, con conseguenze dirette sulla gestione dei servizi urbani di base come la raccolta rifiuti e l'illuminazione pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/272904/sanitation-night-lighting-interim-executive-agent-of-port-au-prince-yves-andrel-salomon-explains",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-13T22:47+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z64290f29",
+   "sez": "cultura",
+   "titolo": "Thélyson Orélien risponde alle polemiche sul suo romanzo \"C'était ça ou mourir\"",
+   "orig": "Thélyson Orélien's response to the uproar surrounding his novel \"C'était ça ou mourir\"",
+   "lead": "Lo scrittore Thélyson Orélien ha risposto alle polemiche sorte attorno al suo romanzo \"C'était ça ou mourir\", che ha suscitato un acceso dibattito pubblico. L'autore ha voluto chiarire la propria posizione di fronte alle critiche ricevute riguardo all'opera letteraria. Il titolo non specifica la natura esatta delle contestazioni mosse al romanzo né il contenuto preciso della risposta fornita dallo scrittore. Lo riferisce Le Nouvelliste.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/272887/thelyson-oreliens-response-to-the-uproar-surrounding-his-novel-cetait-ca-ou-mourir",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-13T21:27+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:20",
+   "uscita": "mattino"
+  },
+  {
    "id": "zf9248490",
    "sez": "mondo",
    "titolo": "La giornalista Natacha Polony annuncia la candidatura alle presidenziali francesi del 2027",
@@ -603,6 +1779,15 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-14T05:52+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445016/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T07:59+02:00"
     }
    ],
    "data": "14 ott",
@@ -10662,6 +11847,15 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-13T18:45-04:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/14/al-menos-cuatro-heridos-por-la-caida-de-restos-de-misiles-huties-interceptados-en-riad/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-14T06:00+00:00"
     }
    ],
    "data": "14 ott",
@@ -12935,7 +14129,57 @@ window.EDIZIONI["2026-10-14"] = {
   "zf0f71748": "Actualite.cd racconta il tour diplomatico congolese come parte di una strategia internazionale di pacificazione.",
   "zcd797a4d": "Panamá América approfondisce con esperti gli scenari alternativi dell'evento sismico.",
   "z5851a2e3": "Panamá América riporta le misure tecniche adottate dalle autorità scientifiche dopo il sisma.",
-  "zf2361dd7": "Panamá América documenta la risposta istituzionale con dati aggiornati su sfollati e interventi."
+  "zf2361dd7": "Panamá América documenta la risposta istituzionale con dati aggiornati su sfollati e interventi.",
+  "z56f5e566": "La testata sottolinea l'impegno del governo a garantire soluzioni abitative durature entro un decennio.",
+  "zecf48393": "La testata evidenzia la mancata comunicazione da parte dell'impresa responsabile del danno.",
+  "z1017b292": "La testata inquadra l'iniziativa come risposta a rivendicazioni storiche delle comunità surinamesi e olandesi.",
+  "z92e942b7": "La testata riporta la smentita ufficiale del governo su voci di un'estradizione imminente.",
+  "z8d612e12": "La testata si concentra sulla rapida marcia indietro della giustizia, motivata da ragioni sanitarie.",
+  "z3dc14b86": "La testata evidenzia lo sforzo prolungato delle squadre di emergenza per domare le fiamme.",
+  "z9c407789": "La testata presenta la nomina come segno di un rafforzamento delle relazioni tra i due Paesi.",
+  "z45fcc4d6": "La testata inquadra l'accordo come misura preventiva per garantire la continuità dei servizi in caso di emergenza.",
+  "z3f0ab3aa": "La testata riporta l'obiettivo numerico fissato dal governo per i prossimi programmi di mobilità.",
+  "z76aae193": "La testata sottolinea l'assenza di servizi minimi, che ha reso lo sciopero particolarmente impattante.",
+  "z190dde32": "La testata si concentra sull'esito della gara e sull'identità del nuovo investitore nella compagnia aerea.",
+  "zcab3f6c1": "La testata evidenzia il beneficio immediato per lavoratori e pensionati a partire da novembre.",
+  "ze90ca406": "La testata riporta la posizione dei rettori favorevole a una riforma dei requisiti d'accesso.",
+  "z9f2b68c2": "La testata riporta l'ultimo annuncio di Trump sulle risorse minerarie dell'isola artica.",
+  "z80e33c9e": "La testata evidenzia l'efficacia del cane antidroga nell'individuare il carico illecito.",
+  "zc5c432b9": "La testata sottolinea il ruolo della giustizia nel limitare le restrizioni imposte dall'amministrazione Trump alla stampa.",
+  "zc215d568": "La testata riporta la posizione ufficiale di Kinshasa davanti all'ONU sulla crisi con il Ruanda.",
+  "zc6503ec1": "La testata si concentra sui tempi di intervento dei soccorsi per spegnere l'incendio industriale.",
+  "zd0c7b54c": "La testata presenta la vicenda come un'inchiesta esclusiva su un possibile caso di favoritismo familiare.",
+  "z447ea4c9": "La testata sottolinea il ritorno in attività dell'autorità di controllo e il suo primo bersaglio nel settore alimentare.",
+  "zea7d433b": "La testata evidenzia il traguardo dei 5 milioni di passeggeri come segnale di crescita per lo scalo regionale.",
+  "zbffe177c": "La testata riporta la rassicurazione del premier di fronte a voci non confermate.",
+  "z507619a2": "La testata riporta il vantaggio del DPP nella municipalità chiave di New Taipei City.",
+  "z231ab6d1": "La testata riporta l'annuncio ministeriale su un possibile accordo economico con la Polonia.",
+  "z9abfb8ac": "La testata inquadra l'episodio come parte di un conflitto più ampio tra Stati Uniti e Iran, con un possibile coinvolgimento militare diretto di Washington.",
+  "z0bf800d8": "La testata evidenzia la strategia delle scuole britanniche di puntare sulle aree regionali giapponesi.",
+  "z6cae2416": "La testata sottolinea l'accelerazione del ritmo di crescita delle esportazioni cinesi.",
+  "z90d1acf9": "La testata mette in luce la vulnerabilità delle infrastrutture idriche filippine di fronte al fenomeno climatico.",
+  "z138bfc4d": "La testata attribuisce le difficoltà di bilancio francesi più alla situazione politica che a fattori strettamente economici.",
+  "z3cd83a17": "Jamaica Observer sottolinea la rivincita del Messico dopo una precedente sconfitta contro la Giamaica.",
+  "z5c93b208": "Jamaica Observer evidenzia l'entità economica record dell'accordo di sponsorizzazione.",
+  "z215861f4": "Jamaica Observer si concentra sui dettagli della testimonianza medica emersi nel processo.",
+  "zcbc21cb9": "Trend riporta lo svolgimento dell'incontro come occasione di rafforzamento dei legami economici bilaterali.",
+  "z19ae12c2": "Prothom Alo segnala le polemiche legate alla fuga di notizie prima dello svolgimento della prova.",
+  "z6c4fc256": "Sun Online evidenzia il ruolo di sostegno finanziario offerto dall'India alle Maldive.",
+  "z2114e6cc": "Sun Online riporta il bilancio delle vittime nell'incidente.",
+  "z42ca6ad0": "PSM News segnala l'intervento per risolvere la scarsità del piccolo taglio in circolazione.",
+  "z2c323c1c": "PSM News mette in evidenza l'applicazione delle regole a tutela dei settori riservati ai cittadini maldiviani.",
+  "zf6b19ee8": "PSM News riporta la partecipazione maldiviana ai preparativi per il summit climatico.",
+  "z3e3368b9": "PSM News riporta le dichiarazioni di fiducia in vista della sfida contro il Victory.",
+  "z1145f20d": "AKIpress riporta la decisione del tribunale di mantenere l'indagato in stato di detenzione.",
+  "z5f7c8ee0": "AKIpress collega il dato al cambiamento delle abitudini alimentari nel Paese.",
+  "z3868a7ce": "AKIpress evidenzia la carenza di infrastrutture scolastiche nella città.",
+  "z5b8b6bf1": "La testata si limita a riportare la denuncia senza approfondire le cause delle restrizioni.",
+  "z114cb888": "La testata evidenzia le criticità di equità nella riforma in corso.",
+  "zd14d7c73": "La testata dà voce alla critica politica del partito nei confronti del governo.",
+  "z02c22b11": "La testata riporta l'appello come intervento diretto rivolto alla società civile mauriziana.",
+  "z19664ca5": "La testata dà spazio all'accusa dell'attivista su un presunto reclutamento a pagamento durante le proteste.",
+  "z17c5a9be": "La testata riporta direttamente la spiegazione fornita dal funzionario comunale.",
+  "z64290f29": "La testata dà spazio alla replica diretta dell'autore alle critiche ricevute."
  },
  "contesti": {
   "za83ee72b": "Il nodulo al polmone destro di Papa Leone XIV era emerso durante un controllo medico di routine nelle settimane precedenti. Martedì 13 ottobre il pontefice è arrivato al Policlinico Gemelli di Roma, dove nel pomeriggio è stato sottoposto all'intervento per l'asportazione del lobo inferiore del polmone destro. L'operazione, durata circa novanta minuti, si è conclusa positivamente in serata, con il Vaticano che ha poi confermato la natura maligna del tumore asportato.",
@@ -13009,7 +14253,7 @@ window.EDIZIONI["2026-10-14"] = {
   "z043a0f6c": "Nelle scorse settimane si è registrata un'incursione di unità marocchine nelle acque territoriali spagnole, episodio che ha sollevato interrogativi sulla catena di comando e sui tempi di comunicazione al Capo dello Stato. Secondo El Mundo, Felipe VI non fu avvisato in tempo reale ma solo successivamente, dopo di che si è attivato direttamente con i vertici militari per approfondire la vicenda.",
   "z3449792a": "Le tensioni tra Stati Uniti e Corte penale internazionale dell'Aia si sono acuite negli ultimi mesi, dopo i mandati d'arresto emessi dalla Corte contro funzionari israeliani e le reazioni di Washington a sostegno di Israele. Venerdì scorso gli Stati Uniti hanno annunciato sanzioni contro l'intera Corte, colpendo anche i singoli giudici, in un'escalation che solleva interrogativi sulle conseguenze pratiche per i magistrati coinvolti.",
   "za878f344": "Nei giorni scorsi la presidente del Bundestag Bärbel Bas ha rassegnato le dimissioni, in un contesto di tensioni crescenti all'interno della coalizione di governo guidata dal cancelliere Friedrich Merz, alimentando polemiche tra CDU e SPD sulle responsabilità politiche del caso.",
-  "z1a4d82f6": "Negli ultimi mesi la SPÖ ha attraversato una fase di riorganizzazione interna dei vertici di partito e di governo, con discussioni sulla leadership e sulla squadra ministeriale in vista della legislatura fino al 2027.",
+  "z1a4d82f6": "Dopo le elezioni e la formazione del nuovo governo di coalizione in Austria, la SPÖ ha avviato una fase di riorganizzazione interna, con Andreas Babler alla guida del partito ma sotto pressione per i risultati elettorali deludenti. La nomina di Markus Marterbauer a vicecancelliere ha riaperto il dibattito sul futuro assetto della leadership socialdemocratica, tra ruoli di governo e vertici di partito.",
   "zdee8fe26": "Le tensioni di confine tra Eritrea ed Etiopia, mai del tutto sopite dopo l'accordo di pace del 2018, sono degenerate nelle scorse settimane in un attacco eritreo contro il territorio etiope. L'iniziativa militare di Asmara avrebbe sorpreso gli osservatori per la sua rischiosità, mettendo in difficoltà il regime di Isaias Afewerki, al potere ininterrottamente dal 1993.",
   "za746f69d": "Nelle ore precedenti era circolata la notizia, poi confermata, che il giudice Maciej Berek avrebbe prestato giuramento come giudice del Tribunale costituzionale mercoledì mattina alla Sejm.",
   "z1fc86078": "La Francia attraversa da mesi un'instabilità politica legata alla gestione del debito pubblico, con bilanci contestati e governi che faticano a trovare maggioranze stabili. A questo si sono aggiunte nelle ultime settimane proteste studentesche legate alla scuola, in un contesto reso ancora più incerto dalla prospettiva di nuove scadenze elettorali, che analisti definiscono una possibile 'tempesta perfetta'.",
@@ -13025,7 +14269,13 @@ window.EDIZIONI["2026-10-14"] = {
   "z9b3fbaee": "L'inchiesta giudiziaria francese riguarda l'ex responsabile della sicurezza della nazionale di calcio, accusato di gravi reati nell'ambito del caso Sanhadji. Le indagini, condotte da tre giudici istruttori parigini, si sono progressivamente allargate coinvolgendo persone vicine al mondo del calcio francese, fino a interessare l'entourage di Kylian Mbappé, convocato insieme alla madre per chiarimenti sulla vicenda.",
   "z1ac31073": "Le relazioni tra Regno Unito e Iran si sono deteriorate negli ultimi anni a causa di accuse britanniche su attività di spionaggio, tentativi di rapimento e minacce contro dissidenti iraniani sul suolo britannico. I servizi di intelligence londinesi hanno più volte denunciato un incremento delle operazioni ostili di Teheran, culminato nell'allerta dell'MI5 su possibili attacchi a infrastrutture militari del Regno Unito.",
   "zf0f71748": "Il processo di pace nella regione dei Grandi Laghi, segnato dal conflitto con il gruppo armato ruandese FDLR attivo nell'est della RD Congo, ha visto Kinshasa impegnarsi in un'intensa attività diplomatica. Dopo contatti con partner africani e regionali per promuovere il disarmo del gruppo, la delegazione guidata dal ministro Floribert Anzuluni ha esteso la missione all'Europa per ottenere sostegno internazionale al processo.",
-  "zaf6b53d2": "La Cina ha intensificato negli ultimi anni le attività della propria Marina nel Pacifico occidentale, con esercitazioni navali e dispiegamenti di gruppi imperniati su portaerei che hanno destato preoccupazione in Giappone e nei Paesi vicini. Pechino ha sempre definito tali manovre di routine e non dirette contro Paesi specifici, mentre Tokyo monitora costantemente i movimenti navali cinesi nella regione."
+  "zaf6b53d2": "La Cina ha intensificato negli ultimi anni le attività della propria Marina nel Pacifico occidentale, con esercitazioni navali e dispiegamenti di gruppi imperniati su portaerei che hanno destato preoccupazione in Giappone e nei Paesi vicini. Pechino ha sempre definito tali manovre di routine e non dirette contro Paesi specifici, mentre Tokyo monitora costantemente i movimenti navali cinesi nella regione.",
+  "z190dde32": "Il governo portoghese guidato da Luís Montenegro ha riaperto nel 2025 il dossier della privatizzazione parziale della TAP, dopo anni di dibattito seguito al salvataggio pubblico della compagnia durante la pandemia. L'esecutivo ha approvato il quadro legale per la cessione di una quota di minoranza, lanciando una gara internazionale che ha attirato l'interesse di gruppi aerei europei e fondi di investimento, in vista della scelta definitiva dell'acquirente.",
+  "z9f2b68c2": "Dal suo ritorno alla Casa Bianca, Donald Trump ha più volte espresso interesse per la Groenlandia, arrivando a ipotizzare un controllo statunitense sull'isola per le sue risorse minerarie strategiche, terre rare incluse. Le dichiarazioni hanno provocato tensioni diplomatiche con la Danimarca e reazioni critiche da parte del governo autonomo groenlandese, mentre Washington ha intensificato i contatti bilaterali su cooperazione economica e sicurezza nell'Artico.",
+  "zc215d568": "Negli ultimi mesi la RDC ha più volte accusato il Ruanda di sostenere gruppi armati nell'est del Paese, chiedendo ripetutamente all'ONU interventi più decisi per far rispettare le risoluzioni adottate e ottenere il ritiro delle truppe ruandesi.",
+  "z9abfb8ac": "Negli ultimi mesi le tensioni tra Stati Uniti e Iran si sono intensificate, con gli Houthi, alleati di Teheran, che hanno condotto ripetuti attacchi contro infrastrutture saudite, mentre Washington ha valutato un coinvolgimento militare diretto nella regione.",
+  "zc5c432b9": "L'amministrazione Trump ha più volte limitato l'accesso di alcune testate considerate ostili a briefing, conferenze stampa e spazi istituzionali, suscitando critiche da parte di organizzazioni per la libertà di stampa. Diverse testate escluse hanno presentato ricorsi legali, sostenendo una violazione del Primo Emendamento, portando la questione davanti ai tribunali federali statunitensi negli ultimi mesi.",
+  "z2114e6cc": "L'India registra ogni anno numerosi incidenti legati a imbarcazioni sovraccariche o prive di adeguate misure di sicurezza, specialmente negli Stati rurali attraversati da fiumi, dove il trasporto d'acqua resta spesso l'unico mezzo per raggiungere scuole o villaggi. Il Bihar, attraversato dal Gange e da numerosi affluenti, è stato teatro in passato di diversi naufragi mortali durante traversate quotidiane o festività locali."
  },
  "cronologie": {
   "za83ee72b": [
@@ -14224,6 +15474,108 @@ window.EDIZIONI["2026-10-14"] = {
    [
     "14 ottobre 2026",
     "Invio di un gruppo navale con portaerei nel Pacifico occidentale"
+   ]
+  ],
+  "zc215d568": [
+   [
+    "mesi scorsi",
+    "Adozione della risoluzione 2773 del Consiglio di sicurezza ONU"
+   ],
+   [
+    "settimane scorse",
+    "Nuove accuse della RDC contro il Ruanda sul sostegno a gruppi armati"
+   ]
+  ],
+  "z9abfb8ac": [
+   [
+    "mesi scorsi",
+    "Escalation delle tensioni tra Stati Uniti e Iran"
+   ],
+   [
+    "settimane scorse",
+    "Attacchi Houthi ripetuti contro obiettivi sauditi"
+   ]
+  ],
+  "z190dde32": [
+   [
+    "2024",
+    "Il governo portoghese rilancia il piano di privatizzazione parziale di TAP"
+   ],
+   [
+    "Primi mesi 2025",
+    "Approvazione del quadro legale e avvio della gara"
+   ],
+   [
+    "Settimane scorse",
+    "Presentazione delle offerte vincolanti da parte dei candidati"
+   ],
+   [
+    "Oggi",
+    "Annuncio ufficiale del vincitore della gara"
+   ]
+  ],
+  "z9f2b68c2": [
+   [
+    "Gennaio 2025",
+    "Trump rilancia l'idea di acquisire la Groenlandia"
+   ],
+   [
+    "Primavera 2025",
+    "Visite di delegazioni USA sull'isola e tensioni con Copenaghen"
+   ],
+   [
+    "Mesi successivi",
+    "Colloqui su accordi minerari ed economici"
+   ],
+   [
+    "Oggi",
+    "Annuncio di piani per lo sfruttamento delle risorse minerarie"
+   ]
+  ],
+  "zc5c432b9": [
+   [
+    "Inizio 2025",
+    "Prime esclusioni di testate da eventi della Casa Bianca"
+   ],
+   [
+    "Mesi successivi",
+    "Ricorsi legali presentati dalle testate escluse"
+   ],
+   [
+    "Settimane scorse",
+    "Udienze davanti al giudice federale competente"
+   ],
+   [
+    "Oggi",
+    "Il giudice blocca il tentativo di esclusione"
+   ]
+  ],
+  "z2114e6cc": [
+   [
+    "Giorni scorsi",
+    "Imbarcazione sovraccarica parte per una traversata fluviale"
+   ],
+   [
+    "Oggi",
+    "La barca si ribalta provocando la morte di almeno 13 bambini"
+   ],
+   [
+    "Oggi",
+    "Avvio delle operazioni di soccorso e indagine delle autorità locali"
+   ]
+  ],
+  "z1a4d82f6": [
+   [
+    "Mesi scorsi",
+    "Babler sotto pressione interna dopo risultati elettorali deludenti"
+   ],
+   [
+    "Settimane scorse",
+    "Trattative per la nomina di Marterbauer a vicecancelliere"
+   ],
+   [
+    "Oggi",
+    "Marterbauer rinvia la decisione sul futuro ruolo di Babler"
    ]
   ]
  },
@@ -17644,6 +18996,356 @@ window.EDIZIONI["2026-10-14"] = {
     "Panama"
    ],
    "pt": []
+  },
+  "z56f5e566": {
+   "n": "Reeberg",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "zecf48393": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z1017b292": {
+   "n": "L'Aia",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z92e942b7": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z8d612e12": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z3dc14b86": {
+   "n": "Sacaba",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z9c407789": {
+   "n": "Honiara",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
+  },
+  "z45fcc4d6": {
+   "n": "Honiara",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
+  },
+  "z3f0ab3aa": {
+   "n": "Honiara",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
+  },
+  "z76aae193": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z190dde32": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zcab3f6c1": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "ze90ca406": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z9f2b68c2": {
+   "n": "Groenlandia",
+   "p": [
+    "Greenland"
+   ],
+   "pt": []
+  },
+  "z80e33c9e": {
+   "n": "Danimarca",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "zc5c432b9": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc215d568": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zc6503ec1": {
+   "n": "Ulsan",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zd0c7b54c": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z447ea4c9": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zea7d433b": {
+   "n": "Cheongju",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zbffe177c": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z507619a2": {
+   "n": "New Taipei City",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z231ab6d1": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z9abfb8ac": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z0bf800d8": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z6cae2416": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z90d1acf9": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z138bfc4d": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3cd83a17": {
+   "n": "Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "z5c93b208": {
+   "n": "Giamaica",
+   "p": [
+    "Jamaica"
+   ],
+   "pt": []
+  },
+  "z215861f4": {
+   "n": "Kingston",
+   "p": [
+    "Jamaica"
+   ],
+   "pt": []
+  },
+  "zcbc21cb9": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z19ae12c2": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z6c4fc256": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z2114e6cc": {
+   "n": "Bihar",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z42ca6ad0": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z2c323c1c": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zf6b19ee8": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z3e3368b9": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z1145f20d": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z5f7c8ee0": {
+   "n": "Kirghizistan",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z3868a7ce": {
+   "n": "Osh",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z5b8b6bf1": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z114cb888": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "zd14d7c73": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z02c22b11": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z19664ca5": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z17c5a9be": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z64290f29": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -18054,7 +19756,7 @@ window.EDIZIONI["2026-10-14"] = {
   "z8757719d": 1,
   "za11830a7": 1,
   "za878f344": 1,
-  "z1a4d82f6": 1,
+  "z1a4d82f6": 2,
   "z12b807bf": 1,
   "zdee8fe26": 2,
   "zb979f5be": 1,
@@ -18113,7 +19815,57 @@ window.EDIZIONI["2026-10-14"] = {
   "zf0f71748": 2,
   "zcd797a4d": 2,
   "z5851a2e3": 1,
-  "zf2361dd7": 2
+  "zf2361dd7": 2,
+  "z56f5e566": 1,
+  "zecf48393": 1,
+  "z1017b292": 1,
+  "z92e942b7": 1,
+  "z8d612e12": 1,
+  "z3dc14b86": 1,
+  "z9c407789": 1,
+  "z45fcc4d6": 1,
+  "z3f0ab3aa": 1,
+  "z76aae193": 1,
+  "z190dde32": 2,
+  "zcab3f6c1": 1,
+  "ze90ca406": 1,
+  "z9f2b68c2": 2,
+  "z80e33c9e": 1,
+  "zc5c432b9": 2,
+  "zc215d568": 2,
+  "zc6503ec1": 1,
+  "zd0c7b54c": 1,
+  "z447ea4c9": 1,
+  "zea7d433b": 1,
+  "zbffe177c": 1,
+  "z507619a2": 1,
+  "z231ab6d1": 1,
+  "z9abfb8ac": 2,
+  "z0bf800d8": 1,
+  "z6cae2416": 1,
+  "z90d1acf9": 1,
+  "z138bfc4d": 1,
+  "z3cd83a17": 1,
+  "z5c93b208": 1,
+  "z215861f4": 1,
+  "zcbc21cb9": 1,
+  "z19ae12c2": 1,
+  "z6c4fc256": 1,
+  "z2114e6cc": 2,
+  "z42ca6ad0": 1,
+  "z2c323c1c": 1,
+  "zf6b19ee8": 1,
+  "z3e3368b9": 1,
+  "z1145f20d": 1,
+  "z5f7c8ee0": 1,
+  "z3868a7ce": 1,
+  "z5b8b6bf1": 1,
+  "z114cb888": 1,
+  "zd14d7c73": 1,
+  "z02c22b11": 1,
+  "z19664ca5": 1,
+  "z17c5a9be": 1,
+  "z64290f29": 1
  },
  "video": {},
  "pillole": []
