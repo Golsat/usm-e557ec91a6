@@ -3,6 +3,981 @@ window.EDIZIONI["2026-10-14-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z64db69a9",
+   "sez": "economia",
+   "titolo": "Inflazione in crescita negli Stati Uniti: prezzi oltre le aspettative a settembre",
+   "orig": "US inflation rises more than expected - here's what is happening with prices",
+   "lead": "L'inflazione negli Stati Uniti è cresciuta più delle aspettative, raggiungendo il 3,7% nell'anno terminato a settembre. L'aumento è stato trainato principalmente dall'incremento dei costi del carburante per autotrazione. Questo dato ha alimentato i timori di nuovi rialzi dei tassi di interesse da parte della Federal Reserve prima delle elezioni di metà mandato. Gli economisti restano divisi sulle prossime mosse della banca centrale, mentre l'incertezza regna in un mercato già teso per l'andamento dei prezzi al consumo e per le possibili ricadute politiche ed economiche nel breve termine.",
+   "more": [
+    "L'inflazione indica l'aumento generalizzato dei prezzi di beni e servizi, che riduce il potere d'acquisto. Per contrastarla, le banche centrali solitamente intervengono alzando i tassi di interesse, rendendo il credito più costoso per rallentare l'economia. La Federal Reserve è l'organismo degli Stati Uniti incaricato di gestire la politica monetaria e garantire la stabilità dei prezzi nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T15:26+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/economy/2026/10/14/us-inflation-rises-before-midterm-elections-fuelling-rate-hike-fears",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-14T15:31+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "ze8d77777",
+   "sez": "prima",
+   "titolo": "Bernie Sanders denuncia la plutocrazia negli Stati Uniti e il peso dei miliardari",
+   "orig": "Editorial: Estados Unidos, una plutocracia",
+   "lead": "Il senatore Bernie Sanders ha denunciato il sistema elettorale degli Stati Uniti, definendo il Paese una plutocrazia a causa dell'influenza dei grandi capitali. Sanders ha evidenziato come singoli miliardari e gruppi di interesse spendano centinaia di milioni di dollari per condizionare il voto. Tra i dati citati figurano i 650 milioni versati da Elon Musk tra il 2024 e il 2026, oltre ai finanziamenti massicci provenienti dal settore delle criptovalute e da lobby come l'AIPAC. Il senatore ha quindi chiesto una riforma urgente del finanziamento delle campagne elettorali per limitare il potere dei grandi donatori.",
+   "more": [
+    "Una plutocrazia è un sistema politico in cui il potere è concentrato nelle mani di chi detiene le maggiori ricchezze, permettendo loro di influenzare le decisioni pubbliche. Negli Stati Uniti, il dibattito sul finanziamento della politica è acceso, specialmente riguardo alla capacità di grandi gruppi di pressione e individui facoltosi di sostenere finanziariamente candidati e partiti durante le competizioni elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "La Jornada",
+     "p": "XX",
+     "c": "Città del Messico",
+     "u": "https://www.jornada.com.mx/2026/10/14/opinion/002a1edi?partner=rss",
+     "angolo": "",
+     "atlas": "Mexico",
+     "t": "2026-10-14T10:21+00:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/espectaculos/jorge-locomotora-castro-del-ring-de-boxeo-a-gran-hermano-bailando-por-un-sueno-y-una-biopoc-nid14102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-14T15:55+00:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/deportes/boxeo/murio-jorge-locomotora-castro-en-vivo-reacciones-y-mensajes-de-despedida-al-excampeon-mundial-de-nid14102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-14T15:52+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/venezuela/estados-unidos-levanta-sanciones-contra-jorge-rodriguez-presidente-de-la-asamblea-de-venezuela-y-hermano-de-delcy-rodriguez-lo-retiro-de-lista-ofac-3593456",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-14T10:30-05:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/que-hay-detras-de-la-salida-de-la-embajadora-de-estados-unidos-en-grecia-las-claves-de-los-nexos-con-la-familia-trump-y-los-lujos-que-presumia-3593435",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-14T09:38-05:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/estados-unidos-levanta-las-sanciones-contra-jorge-rodriguez/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-14T14:42+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "ze4fb275e",
+   "sez": "organizzazioni",
+   "titolo": "Vertice sociale tripartito: le dichiarazioni di António Costa a Bruxelles",
+   "orig": "Remarks by President António Costa at the press conference following the Tripartite Social Summit",
+   "lead": "Il Presidente António Costa è intervenuto in una conferenza stampa a seguito del Vertice sociale tripartito tenutosi il 14 ottobre 2026. Durante l'incontro, Costa ha esposto le principali riflessioni emerse dal dialogo tra le istituzioni europee e le parti sociali. L'evento rappresenta un momento di confronto istituzionale per discutere le politiche economiche e sociali all'interno dell'Unione Europea, mirando a coordinare gli sforzi tra governi, datori di lavoro e rappresentanti dei lavoratori per affrontare le sfide comuni del mercato del lavoro e della crescita. Lo riferisce Consiglio dell'Unione europea.",
+   "more": [
+    "Il Vertice sociale tripartito è un forum di dialogo ad alto livello tra le istituzioni dell'Unione Europea e le parti sociali, ovvero i rappresentanti delle imprese e dei sindacati. Si riunisce solitamente due volte l'anno per discutere l'andamento dell'economia, dell'occupazione e delle riforme sociali, con l'obiettivo di favorire una crescita inclusiva e migliorare le condizioni di vita e di lavoro nei Paesi membri."
+   ],
+   "fonti": [
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/14/remarks-by-president-antonio-costa-at-the-press-conference-following-the-tripartite-social-summit/",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z21271c4d",
+   "sez": "economia",
+   "titolo": "Vendita di TAP a Lufthansa: scontro politico tra governo e opposizione in Portogallo",
+   "orig": "TAP. Esquerda deixa críticas enquanto PSD e CDS falam num \"dia positivo\" para o país",
+   "lead": "In Portogallo, la vendita parziale della compagnia aerea TAP alla tedesca Lufthansa ha scatenato un acceso dibattito politico. Mentre i partiti di governo PSD e CDS considerano l'operazione un segnale positivo per il futuro del Paese, le forze di sinistra, tra cui PCP, Bloco de Esquerda, Livre e PAN, hanno espresso dure critiche. L'opposizione contesta la scelta della privatizzazione, temendo ripercussioni sulla sovranità nazionale e sul controllo del trasporto aereo, mentre l'esecutivo difende la mossa come necessaria per la stabilità finanziaria della compagnia. Lo riferisce RTP.",
+   "more": [
+    "TAP Air Portugal è la principale compagnia aerea di bandiera del Portogallo, con sede a Lisbona. È un attore fondamentale per i collegamenti internazionali del Paese, in particolare verso il Brasile e l'Africa. La sua gestione e proprietà sono state spesso oggetto di scontro politico, oscillando tra nazionalizzazioni e tentativi di privatizzazione per risanarne i conti e garantirne la competitività globale."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/tap-esquerda-deixa-criticas-enquanto-psd-e-cds-falam-num-dia-positivo-para-o-pais_n1771668",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z7081b6d8",
+   "sez": "economia",
+   "titolo": "Scarsità di gasolio: profitti record per le raffinerie occidentali",
+   "orig": "Escassez de gasóleo transforma refinarias em \"minas de ouro\"",
+   "lead": "La crisi globale dei combustibili ha causato una significativa carenza di gasolio, penalizzando aziende e consumatori in tutto il mondo. Tuttavia, questa situazione sta trasformando le raffinerie occidentali in vere e proprie \"miniere d'oro\", con prospettive di profitti storici grazie all'aumento dei margini di raffinazione. Mentre i prezzi elevati gravano sui costi di trasporto e sulla spesa delle famiglie, le infrastrutture di trasformazione energetica beneficiano dello squilibrio tra l'offerta limitata e la domanda persistente di prodotti raffinati essenziali per l'industria e il commercio. Lo riferisce RTP.",
+   "more": [
+    "Il gasolio è un combustibile derivato dal petrolio greggio, utilizzato principalmente per i motori diesel in ambito industriale, agricolo e per il trasporto merci. Le raffinerie sono gli impianti industriali dove il petrolio viene lavorato. Quando la domanda supera la capacità di produzione o distribuzione, i prezzi salgono, aumentando i margini di guadagno per chi possiede gli impianti di lavorazione."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/escassez-de-gasoleo-transforma-refinarias-em-minas-de-ouro_n1771659",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z821e98b7",
+   "sez": "salute",
+   "titolo": "Kenya: confermato il secondo caso di Ebola, sale l'allerta",
+   "orig": "Quénia confirma segundo caso de ébola no país",
+   "lead": "Le autorità sanitarie del Kenya hanno confermato il secondo caso di Ebola nel Paese, a seguito di un primo decesso avvenuto la scorsa settimana. La notizia ha suscitato forti preoccupazioni per il rischio di una trasmissione transfrontaliera dell'epidemia, che si sta aggravando nella vicina Repubblica Democratica del Congo. Il governo keniota sta monitorando con attenzione la situazione per contenere il focolaio e prevenire un'ulteriore diffusione del virus, che rimane una minaccia seria per la salute pubblica nella regione dell'Africa orientale. Lo riferisce RTP.",
+   "more": [
+    "L'Ebola è una malattia virale grave, spesso fatale, trasmessa all'uomo da animali infetti o per contatto diretto con fluidi corporei di persone contagiate. È nota per causare epidemie con alti tassi di mortalità. Il controllo dei focolai richiede misure rigorose di isolamento dei pazienti, tracciamento dei contatti e procedure di sepoltura sicure per evitare la propagazione del virus nelle comunità."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/quenia-confirma-segundo-caso-de-ebola-no-pais_n1771663",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z18f80927",
+   "sez": "musica",
+   "titolo": "Jackson Dean e 'Blacktop Blues': l'analisi di Billboard sulla musica country",
+   "orig": "Jackson Dean’s ‘Blacktop Blues’ and The Tug of War in Country’s Limelight: ‘The Beauty of Nashville Is That It’s a Song Town’",
+   "lead": "La rubrica 'Makin' Tracks' di Billboard ha analizzato il nuovo brano di Jackson Dean intitolato 'Blacktop Blues', esplorando il delicato equilibrio dell'artista sotto i riflettori della musica country. L'analisi sottolinea l'importanza di Nashville come centro creativo e città dedicata alla scrittura di canzoni, definendola una realtà dove la bellezza risiede nella qualità delle composizioni. Il pezzo riflette il percorso di Dean e il suo stile, inserendosi nel panorama musicale contemporaneo di una città che rimane il punto di riferimento fondamentale per il genere. Lo riferisce Billboard.",
+   "more": [
+    "Nashville, nel Tennessee, è riconosciuta come la capitale mondiale della musica country. È sede di storiche etichette discografiche, studi di registrazione e luoghi iconici per le esibizioni dal vivo. La città ospita una comunità vibrante di autori e musicisti, rendendola il luogo d'elezione per chiunque voglia intraprendere una carriera professionale in questo genere musicale e mantenere viva la tradizione della scrittura d'autore."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/country/jackson-dean-blacktop-blues-makin-tracks-1236360515/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-14T15:54+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z04de324a",
+   "sez": "economia",
+   "titolo": "Stipendi docenti, cambiano le date di ottobre: emissione speciale NoiPA",
+   "orig": "?Stipendi docenti, il cedolino di ottobre cambia data: emissione speciale. Il calendario dei pagamenti",
+   "lead": "Il mese di ottobre 2026 introduce novità per il personale scolastico riguardo al pagamento degli stipendi. Secondo il calendario ufficiale pubblicato da NoiPA, la piattaforma che gestisce le competenze economiche della pubblica amministrazione, l'emissione del cedolino cambierà data attraverso un'operazione speciale. Il nuovo cronoprogramma dei pagamenti interessa i docenti e tutto il comparto scuola, definendo i tempi precisi in cui i dipendenti vedranno accreditati i propri emolumenti, a seguito di un aggiornamento nelle procedure amministrative ordinarie. Lo riferisce Il Messaggero.",
+   "more": [
+    "NoiPA è il sistema informatico del Ministero dell'Economia e delle Finanze italiano che gestisce gli stipendi e gli adempimenti fiscali dei dipendenti pubblici. È uno strumento centrale per la gestione del personale dello Stato, permettendo ai lavoratori di consultare online i propri cedolini e altre informazioni previdenziali, garantendo la puntualità dei flussi finanziari verso la pubblica amministrazione."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/schede/stipendi_docenti_ottobre_cedolino_noipa_cambia_data_pagamenti_quando_arriva_calendario-9824162.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zb7fd1db3",
+   "sez": "tech",
+   "titolo": "L'intelligenza artificiale potrebbe ridimensionare lo strapotere dei giganti del tech",
+   "orig": "Chi l’avrebbe mai detto: e se l’AI ci liberasse dai giganti del tech?",
+   "lead": "Un'analisi pubblicata da Domus interroga il futuro del panorama tecnologico, ipotizzando se l'intelligenza artificiale possa rappresentare uno strumento di liberazione dal dominio dei grandi colossi del settore. L'articolo esplora la possibilità che queste nuove tecnologie decentralizzino il potere oggi concentrato nelle mani di poche aziende, aprendo nuovi scenari per l'innovazione e la competizione. Si riflette su come il cambiamento tecnologico in corso potrebbe rimescolare gli equilibri di forza nel mercato globale, offrendo opportunità finora impensabili agli utenti e ai piccoli sviluppatori. Lo riferisce Domus.",
+   "more": [
+    "L'intelligenza artificiale si riferisce alla capacità di sistemi informatici di simulare processi cognitivi umani. Attualmente, il settore tecnologico è dominato da poche grandi aziende note come 'Big Tech', che controllano gran parte delle infrastrutture digitali e dei dati. La discussione verte sulla possibilità che l'evoluzione tecnologica possa democratizzare l'accesso a questi strumenti, riducendo la dipendenza dalle piattaforme dominanti."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/2026/10/14/artcraft-ai-adobe-monopolio-software-open-source.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T18:00+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zbe85be31",
+   "sez": "musica",
+   "titolo": "Ultra Music Festival 2027: annunciata la prima fase della lineup",
+   "orig": "Ultra Music Festival 2027 Announces Phase One Lineup, Including Several First Ever B2Bs",
+   "lead": "L'Ultra Music Festival ha annunciato la prima fase della formazione per l'edizione del 2027, che si terrà a marzo presso il Bayfront Park di Miami. Tra le novità più attese ci sono diverse esibizioni 'back-to-back' inedite, in cui due artisti si alternano alla console per la prima volta nella storia dell'evento. L'annuncio della lineup segna l'inizio dei preparativi per uno dei festival di musica elettronica più rilevanti a livello globale, richiamando fan da tutto il mondo per assistere alle performance dei principali disc jockey internazionali. Lo riferisce Billboard.",
+   "more": [
+    "L'Ultra Music Festival è una celebre manifestazione dedicata alla musica elettronica che si svolge annualmente a Miami. Fondato alla fine degli anni Novanta, è diventato un punto di riferimento per il genere, ospitando i dj più famosi del mondo. Le esibizioni 'back-to-back' sono performance in cui due dj suonano insieme, alternandosi brano dopo brano per creare set unici e spesso sperimentali."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/music-news/ultra-music-festival-miami-2027-phase-1-lineup-calvin-harris-1236360564/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-14T15:54+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zf76ae2c7",
+   "sez": "economia",
+   "titolo": "Pensione anticipata, scadenza a novembre per la domanda di Ape Sociale 2027",
+   "orig": "Pensione anticipata, a novembre l?ultima scadenza: chi rischia di perdere l?Ape Sociale nel 2027",
+   "lead": "Il 30 novembre 2026 rappresenta il termine ultimo per i lavoratori che intendono accedere alla pensione anticipata tramite l'Ape Sociale nel 2027. Entro questa data, gli interessati devono presentare all'Inps la domanda per il riconoscimento dei requisiti necessari. Chi manca questa scadenza rischia di perdere la possibilità di beneficiare dell'indennità ponte prevista per determinate categorie di lavoratori svantaggiati. L'adempimento è fondamentale per garantire il passaggio alla pensione prima dei termini ordinari stabiliti dalla normativa vigente, assicurando la copertura economica prevista. Lo riferisce Il Messaggero.",
+   "more": [
+    "L'Ape Sociale è un'indennità erogata dallo Stato italiano che accompagna verso la pensione di vecchiaia alcune categorie di lavoratori in condizioni di necessità, come disoccupati, assistenti di familiari con disabilità o addetti a mansioni gravose. Non è una pensione vera e propria, ma un sostegno economico versato fino al raggiungimento dell'età pensionabile. La sua gestione è affidata all'Inps."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/schede/pensione_anticipata_ape_sociale_requisiti_domande_inps-9824716.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z75de3eda",
+   "sez": "italia",
+   "titolo": "Caso Cicalone, lo youtuber testimonia in aula sull'aggressione in metro",
+   "orig": "Cicalone, dopo le botte in metro a Roma testimonia in aula: «Non è lui uno dei miei aggressori»",
+   "lead": "Lo youtuber Simone Ruzzi, meglio conosciuto con lo pseudonimo di Cicalone, ha testimoniato in aula riguardo all'aggressione subita nella metropolitana di Roma. Durante la sua deposizione, Ruzzi ha scagionato l'uomo attualmente sotto processo, affermando che non era lui uno dei suoi aggressori. Secondo lo youtuber, l'aggressore visibile nei filmati dell'evento appariva più alto della persona presente in tribunale. La testimonianza aggiunge un elemento cruciale al procedimento giudiziario volto a identificare i responsabili delle percosse subite dal creatore di contenuti digitale. Lo riferisce Il Messaggero – Roma.",
+   "more": [
+    "Simone Ruzzi, noto come Cicalone, è un creatore di contenuti digitale italiano che ha guadagnato popolarità raccontando la realtà delle periferie e intervenendo su temi di sicurezza urbana. La sua attività lo porta spesso a documentare situazioni di degrado o pericolo, specialmente nei trasporti pubblici. Il suo lavoro ha suscitato dibattiti sulla sicurezza nelle grandi città e sul monitoraggio privato delle aree urbane."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/centro_storico/cicalone_aggressione_metro_processo_aggressore_sbagliato-9823873.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z9f61ec5d",
+   "sez": "cultura",
+   "titolo": "Vigne Nuove: la piazza di Roma diventa l'opera collettiva 'Lago Sospeso'",
+   "orig": "Roma, a Vigne Nuove la piazza diventa un'opera collettiva: nasce Lago Sospeso, un paesaggio acquatico condiviso tra arte, ecologia e benessere",
+   "lead": "Nel quartiere Vigne Nuove di Roma, una piazza è stata trasformata in un'opera d'arte collettiva intitolata 'Lago Sospeso'. Il progetto ha dato vita a un paesaggio acquatico condiviso che unisce arte, ecologia e benessere, con l'obiettivo di migliorare la vivibilità dell'area attraverso il colore e la creatività. L'iniziativa punta a cambiare la prospettiva dei residenti su uno spazio comune, trasformandolo in un luogo di aggregazione capace di suscitare emozioni positive e promuovere un senso di comunità attraverso interventi artistici rigenerativi. Lo riferisce Il Messaggero – Roma.",
+   "more": [
+    "La rigenerazione urbana tramite l'arte è una pratica che mira a recuperare aree cittadine degradate o sottoutilizzate attraverso installazioni o interventi architettonici. Questi progetti spesso coinvolgono i residenti, trasformando gli spazi fisici in luoghi di espressione culturale. Oltre all'aspetto estetico, tali iniziative possono avere benefici tangibili sulla sicurezza percepita e sulla qualità della vita nei quartieri periferici."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/montesacro/roma_vigne_nuove_la_piazza_diventa_un_opera_collettiva_nasce_lago_sospeso_un_paesaggio_acquatico_condiviso_arte_ecologia_benessere-9824700.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "ze2e40582",
+   "sez": "ingegneria",
+   "titolo": "Mad progetta il più grande centro europeo per la danza con un design dinamico",
+   "orig": "Mad ha progettato il più grande centro dedicato alla danza d’Europa, e sembra ballare",
+   "lead": "Lo studio di architettura Mad ha progettato il più grande centro dedicato alla danza in Europa, una struttura che colpisce per il suo design dinamico che sembra quasi danzare nel contesto urbano. L'opera si distingue per le sue linee sinuose e l'approccio innovativo all'integrazione degli spazi artistici nell'ambiente circostante. L'edificio è destinato a diventare un punto di riferimento fondamentale per la disciplina in tutto il continente, offrendo ampi spazi per la pratica e la performance in una cornice architettonica di grande impatto visivo. Lo riferisce Domus.",
+   "more": [
+    "Mad Architects è uno studio di architettura internazionale noto per i suoi progetti futuristici e organici, spesso ispirati a forme naturali. La danza richiede spazi specifici con caratteristiche acustiche e strutturali particolari per permettere il movimento e l'espressione corporea. Un centro di queste dimensioni rappresenta un investimento significativo nella cultura, fornendo infrastrutture d'avanguardia per i professionisti della disciplina."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/gallery/2026/10/13/mad-architects-danshuis-rotterdam-centro-danza.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T18:00+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z93f80d58",
+   "sez": "cultura",
+   "titolo": "Je so' pazzo: Massimiliano Caiazzo interpreta Pino Daniele al cinema",
+   "orig": "Je so' pazzo, trama e cast del film con Massimiliano Caiazzo nei panni di Pino Daniele",
+   "lead": "Il 15 ottobre 2026 arriva nei cinema 'Je so’ pazzo', il film diretto da Nicola Prosatore che celebra la vita di Pino Daniele. L'attore Massimiliano Caiazzo interpreta il celebre cantautore napoletano, ripercorrendo la sua straordinaria evoluzione artistica: dalle radici partenopee alla fusione di blues, jazz e rock. La pellicola narra la storia dell'artista dall'infanzia difficile fino ai grandi successi, incluso lo storico concerto del 1981 davanti a duecentomila persone. Il film intende mostrare come il musicista abbia saputo creare un linguaggio musicale originale e senza tempo. Lo riferisce Sky TG24.",
+   "more": [
+    "Pino Daniele è stato uno dei più influenti musicisti italiani, noto per aver rivoluzionato la canzone napoletana mescolandola con generi internazionali. La sua carriera è iniziata negli anni Settanta e ha prodotto brani diventati parte integrante della cultura popolare. Il film biografico, o 'biopic', è un genere cinematografico che ricostruisce la vita di personaggi reali, cercando di restituirne la sensibilità e il contributo artistico."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/spettacolo/cinema/2026/10/14/je-so-pazzo-film-pino-daniele",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z8f54e384",
+   "sez": "sport",
+   "titolo": "Pallamano, Krim contro Budućnost: sfida trasmessa in TV",
+   "orig": "Krim - Budućnost",
+   "lead": "Sabato 17 ottobre alle ore 18:00 verrà trasmessa su TVCG 2 la sfida sportiva tra Krim e Budućnost. L'evento rappresenta un appuntamento atteso per gli appassionati, mettendo a confronto due squadre competitive in una gara che promette agonismo e spettacolo. La trasmissione permetterà al pubblico di seguire in diretta le fasi del match, fondamentale per le ambizioni dei club coinvolti nelle rispettive competizioni europee. La copertura televisiva assicura la visione di uno degli incontri più interessanti del fine settimana sportivo regionale. Lo riferisce RTCG.",
+   "more": [
+    "Il Budućnost è una delle società sportive più prestigiose del Montenegro, con sezioni di rilievo in particolare nella pallamano femminile dove ha ottenuto successi internazionali. Il Krim è una storica squadra slovena di pallamano con sede a Lubiana. Gli incontri tra questi club sono molto sentiti a livello balcanico ed europeo, data la tradizione e la qualità tecnica che entrambe le formazioni portano in campo."
+   ],
+   "fonti": [
+    {
+     "n": "RTCG",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://rtcg.me/tv/tvcg-2/sport/892663/krim---buducnost.html",
+     "angolo": "",
+     "atlas": "Montenegro"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "ze5c579a2",
+   "sez": "sport",
+   "titolo": "Basket, Tofaš - Budućnost: diretta mercoledì su TVCG 2",
+   "orig": "Tofaš - Budućnost",
+   "lead": "Mercoledì 14 ottobre alle ore 19:00 si terrà l'incontro di basket tra Tofaš e Budućnost, trasmesso in diretta su TVCG 2. La partita vede la squadra montenegrina impegnata in una trasferta impegnativa contro la formazione turca del Tofaš. Il match è di rilevante importanza per il cammino delle due squadre nelle competizioni internazionali, con i tifosi che potranno seguire ogni azione grazie alla copertura televisiva dedicata. Entrambi i club cercano una vittoria fondamentale per consolidare la propria posizione e proseguire con successo la stagione agonistica. Lo riferisce RTCG.",
+   "more": [
+    "Il Tofaš Spor Kulübü è una società di pallacanestro turca con sede a Bursa, con una lunga storia nel campionato nazionale e nelle coppe europee. Il Budućnost Podgorica è la squadra di basket più importante del Montenegro, protagonista abituale della Lega Adriatica e dell'Eurocup. Gli scontri tra formazioni turche e balcaniche sono noti per l'intensità del gioco e il calore delle tifoserie."
+   ],
+   "fonti": [
+    {
+     "n": "RTCG",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://rtcg.me/tv/tvcg-2/sport/892656/tofas---buducnost.html",
+     "angolo": "",
+     "atlas": "Montenegro"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z08331905",
+   "sez": "mondo",
+   "titolo": "Nave della Guardia Rivoluzionaria iraniana affonda dopo aver urtato una mina",
+   "orig": "Ratna mornarica iranske Revolucionarne garde: Brod potonuo od...",
+   "lead": "Una nave della Marina della Guardia Rivoluzionaria iraniana è affondata mercoledì mattina dopo aver colpito una mina. Secondo un comunicato ufficiale diffuso dalla televisione di Stato, l'imbarcazione stava percorrendo una rotta descritta dalle autorità come illegale e pericolosa al momento dell'incidente. Lo riferisce Vijesti.",
+   "more": [
+    "La Guardia Rivoluzionaria iraniana è una branca delle forze armate dell'Iran incaricata di proteggere il sistema politico e condurre operazioni strategiche. Le sue unità navali operano frequentemente nel Golfo Persico e nello Stretto di Hormuz. L'uso di mine in mare rappresenta un grave pericolo per la navigazione e spesso è legato a tensioni geopolitiche o a attività di monitoraggio dei confini marittimi."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/globus/831452/ratna-mornarica-iranske-revolucionarne-garde-brod-potonuo-od-pomorske-mine-u-hormuskom-moreuzu",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-14T17:54+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z0d3a3870",
+   "sez": "mondo",
+   "titolo": "Invasione della Radio di Coimbra da parte di un gruppo di Chega: indaga l'ERC",
+   "orig": "ERC abre procedimento sobre invasão por grupo do Chega na Rádio Universidade de Coimbra",
+   "lead": "L'Entità Regolatrice per la Comunicazione (ERC) ha avviato un procedimento per indagare sull'invasione degli studi della Rádio Universidade de Coimbra (RUC) da parte di un gruppo legato al partito Chega. L'episodio, reso noto oggi, ha portato l'autorità di vigilanza portoghese a voler chiarire la dinamica degli eventi accaduti presso la storica emittente universitaria. L'intervento dell'ERC mira a verificare eventuali violazioni delle norme sulla libertà di informazione e sulla sicurezza dei media, a seguito di un'azione che ha suscitato preoccupazione nel mondo giornalistico e accademico. Lo riferisce RTP.",
+   "more": [
+    "Chega è un partito politico portoghese di destra radicale, noto per le sue posizioni critiche verso le istituzioni tradizionali. La Rádio Universidade de Coimbra è una delle più antiche radio universitarie in Europa, gestita da studenti e volontari. Le autorità di regolazione dei media intervengono in questi casi per garantire l'indipendenza editoriale e la protezione dei lavoratori dell'informazione."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/erc-abre-procedimento-sobre-invasao-por-grupo-do-chega-na-radio-universidade-de-coimbra_n1771669",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zf22e104c",
+   "sez": "mondo",
+   "titolo": "Povertà in Portogallo: il 61,7% delle persone povere vive in una condizione persistente",
+   "orig": "Pobreza persistente ainda afetava 61,7% das pessoas pobres em Portugal em 2025",
+   "lead": "Uno studio intitolato 'Traiettorie della Povertà e della Privazione' ha rivelato che nel 2025 la povertà persistente ha colpito il 61,7% delle persone in condizioni di indigenza in Portogallo. Nonostante il tasso di povertà persistente sia sceso drasticamente nell'ultimo decennio, passando dal 13,6% del 2015 al 7,1% del 2024, i nuovi dati indicano che per chi è povero l'uscita da questa condizione resta estremamente difficile. La ricerca, presentata nell'ambito del progetto 'Portogallo, Balanço Social', evidenzia la cronicità del fenomeno per una larga parte della popolazione vulnerabile. Lo riferisce RTP.",
+   "more": [
+    "La povertà persistente si verifica quando un individuo vive al di sotto della soglia di povertà per l'anno in corso e per almeno due dei tre anni precedenti. Questa condizione è critica perché indica una difficoltà strutturale a migliorare le proprie condizioni economiche, rendendo necessari interventi di sostegno sociale a lungo termine per favorire l'inclusione lavorativa e sociale."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/pobreza-persistente-ainda-afetava-617-das-pessoas-pobres-em-portugal-em-2025_n1771658",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z650c4752",
+   "sez": "economia",
+   "titolo": "Privatizzazione TAP, Lufthansa esprime soddisfazione per la scelta del governo",
+   "orig": "Lufthansa congratula-se com decisão do Governo e fala em trajetória de sucesso",
+   "lead": "Il gruppo Lufthansa ha accolto con favore la decisione del governo portoghese di selezionarlo per la privatizzazione parziale della compagnia aerea TAP. L'azienda tedesca ha espresso soddisfazione, definendo la scelta un passo che apre la strada alla continuazione di una 'traiettoria di successo'. L'integrazione di TAP nel gruppo Lufthansa mira a rafforzare le operazioni internazionali e a sfruttare le sinergie tra le due realtà, consolidando la posizione del vettore portoghese nel mercato globale dopo un lungo periodo di incertezza istituzionale e finanziaria. Lo riferisce RTP.",
+   "more": [
+    "Lufthansa è una delle più grandi compagnie aeree del mondo, con sede in Germania. La privatizzazione di una compagnia di bandiera come la TAP comporta la vendita di quote azionarie a investitori privati o ad altri gruppi industriali per iniettare capitali e migliorare l'efficienza. Tali operazioni sono soggette all'approvazione delle autorità governative e dei regolatori della concorrenza."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/lufthansa-congratula-se-com-decisao-do-governo-e-fala-em-trajetoria-de-sucesso_n1771661",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z6b3bf332",
+   "sez": "mondo",
+   "titolo": "Svezia, carne di agnello macellata nell'aula di falegnameria di una scuola",
+   "orig": "Lammkött styckades – i skolans slöjdsal i Uddevalla",
+   "lead": "In una scuola di Uddevalla, in Svezia, si è verificato un insolito episodio in cui della carne di agnello è stata sezionata all'interno dell'aula di falegnameria. L'accaduto ha scatenato forti preoccupazioni tra i genitori, che hanno chiesto spiegazioni alla direzione scolastica riguardo al rispetto delle norme igieniche e di sicurezza. Il preside dell'istituto, in una comunicazione ufficiale, ha espresso sorpresa e ha ribadito che tali attività non devono assolutamente aver luogo nei locali scolastici, avviando accertamenti per chiarire la responsabilità del gesto che ha turbato la comunità educativa. Lo riferisce SVT Nyheter.",
+   "more": [
+    "Le aule di falegnameria nelle scuole svedesi sono laboratori attrezzati per la lavorazione del legno per scopi didattici. L'utilizzo di questi spazi per scopi alimentari, come la macellazione o la sezionatura di carni, è vietato per ragioni sanitarie e per il rischio di contaminazione. Il rispetto dei protocolli di igiene negli edifici pubblici è fondamentale per garantire un ambiente sicuro per gli studenti."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/lokalt/vast/lammkott-styckades-i-skolans-slojdsal-i-uddevalla",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-14T17:53+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "za6ca73ac",
+   "sez": "mondo",
+   "titolo": "Nigeria, i leader dell'opposizione si uniscono in vista delle elezioni del 2027",
+   "orig": "Single candidacy: Opposition leaders meet Atiku, Obi others on 2027, says Lukman",
+   "lead": "In Nigeria, i leader di sei partiti di opposizione si sono riuniti per discutere una strategia comune in vista delle elezioni generali del 2027. All'incontro hanno partecipato figure di rilievo come Atiku Abubakar e Peter Obi, con l'obiettivo di valutare la possibilità di una candidatura unica per sfidare il governo attuale. Secondo quanto riferito da Lukman, i colloqui mirano a compattare il fronte degli oppositori per aumentare le probabilità di successo elettorale e presentare un'alternativa politica solida in un Paese segnato da profonde sfide economiche e sociali. Lo riferisce The Punch.",
+   "more": [
+    "La politica nigeriana è caratterizzata da un sistema multipartitico dove le coalizioni giocano un ruolo fondamentale. Atiku Abubakar e Peter Obi sono stati i principali sfidanti nelle precedenti elezioni. La formazione di un fronte unito è una tattica utilizzata dalle opposizioni per superare il vantaggio dei partiti al potere, cercando di convogliare il malcontento popolare verso un unico candidato alternativo."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/single-candidacy-opposition-leaders-meet-atiku-obi-others-on-2027-says-lukman/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z65395007",
+   "sez": "mondo",
+   "titolo": "Elezioni Nigeria 2027: il governatore Soludo sostiene il secondo mandato di Tinubu",
+   "orig": "2027: Tinubu deserves second term, says Soludo",
+   "lead": "Il governatore dello stato di Anambra, Chukwuma Soludo, ha espresso pubblicamente il suo sostegno al Presidente Bola Tinubu, affermando che merita un secondo mandato nelle elezioni del 2027. Soludo si è detto fiducioso che l'attuale leader riuscirà a garantire la riconferma grazie al lavoro svolto durante la sua presidenza. La dichiarazione del governatore aggiunge un elemento significativo al dibattito politico nigeriano, segnalando un appoggio che potrebbe influenzare gli equilibri interni e il posizionamento dei vari attori politici in vista della prossima competizione elettorale nazionale. Lo riferisce The Punch.",
+   "more": [
+    "Bola Tinubu è il presidente della Nigeria, entrato in carica nel 2023. Il sistema politico nigeriano prevede mandati quadriennali e la possibilità di una sola rielezione. Il sostegno di governatori statali influenti è cruciale per costruire il consenso necessario a livello regionale e nazionale, in un contesto dove le dinamiche locali pesano fortemente sul voto federale per la presidenza."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-tinubu-deserves-second-term-says-soludo/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z475bee08",
+   "sez": "mondo",
+   "titolo": "Appello per Tinubu nel 2027: Adeleke sostiene che quattro anni non bastino",
+   "orig": "2027: Four years not enough, Adeleke urges support for Tinubu",
+   "lead": "Il governatore dello stato di Osun, Ademola Adeleke, ha rivolto un appello ai nigeriani affinché sostengano la rielezione del Presidente Bola Tinubu nel 2027, sostenendo che quattro anni non siano un tempo sufficiente per completare il suo programma di riforme. Adeleke ha ribadito l'importanza di concedere un secondo mandato all'attuale leader per permettere la stabilizzazione delle politiche avviate. Questa presa di posizione sottolinea un orientamento favorevole alla continuità amministrativa, ritenuta necessaria per affrontare le sfide strutturali che il Paese sta vivendo sotto l'attuale presidenza. Lo riferisce The Punch.",
+   "more": [
+    "Il mandato presidenziale in Nigeria ha una durata di quattro anni. L'argomento secondo cui un solo periodo di governo sia insufficiente per attuare cambiamenti profondi è frequente nel dibattito politico per giustificare la richiesta di rielezione. La stabilità delle politiche economiche è spesso citata come motivo principale per garantire la permanenza al potere della stessa amministrazione per un secondo mandato consecutivo."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-four-years-not-enough-adeleke-urges-support-for-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/video-adeleke-dances-at-apc-inauguration-after-declaring-support-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zf4af920d",
+   "sez": "mondo",
+   "titolo": "Visti USA in Nigeria: nessun rimborso delle tasse in caso di rifiuto",
+   "orig": "No refund for visa application fee, US mission tells Nigerians",
+   "lead": "La missione diplomatica degli Stati Uniti in Nigeria ha chiarito che le tasse per la richiesta del visto non sono rimborsabili, indipendentemente dall'esito della domanda. La precisazione arriva per rispondere ai dubbi dei richiedenti, confermando che sia in caso di approvazione sia in caso di rifiuto del visto, la somma versata per istruire la pratica non verrà restituita. La politica, valida a livello globale per le rappresentanze statunitensi, sottolinea che il pagamento copre i costi amministrativi di elaborazione della richiesta e non garantisce l'ottenimento del documento. Lo riferisce The Punch.",
+   "more": [
+    "Un visto è un'autorizzazione concessa da un Paese a un cittadino straniero per entrare o soggiornare nel proprio territorio. Le procedure di rilascio statunitensi prevedono il pagamento di una tariffa che serve a finanziare i servizi consolari. Questa regola del mancato rimborso è una condizione standard applicata per gestire l'elevato volume di richieste e garantire il funzionamento degli uffici diplomatici."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/no-refund-for-visa-application-fee-us-mission-tells-nigerians/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z4330dca6",
+   "sez": "mondo",
+   "titolo": "Nel 2027 Makinde rimetterà in sesto la Nigeria, secondo il direttore della campagna",
+   "orig": "2027: Makinde will reset Nigeria — Campaign DG",
+   "lead": "Il direttore generale dell'organizzazione della campagna Makinde/Daura ha dichiarato che il governatore dello Stato di Oyo, Seyi Makinde, possiede tutte le qualità necessarie per rimettere in sesto la Nigeria e affrontare le sfide del Paese in vista del 2027. L'affermazione sottolinea le capacità di leadership del politico nigeriano nel gestire le future difficoltà nazionali. Lo riferisce The Punch.",
+   "more": [
+    "Il governatore Seyi Makinde è una figura politica di primo piano nello Stato di Oyo, in Nigeria, noto per il suo ruolo amministrativo e per la crescente attenzione riservata alle prospettive di leadership in vista delle scadenze elettorali future."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-makinde-will-reset-nigeria-campaign-dg/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-14T15:59+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "ze5bdc633",
+   "sez": "economia",
+   "titolo": "La cessione da 920 miliardi di won di Wemade rinviata a dicembre",
+   "orig": "Wemade’s 920 billion won sell-off pushed back to December",
+   "lead": "La prevista acquisizione di Wemade, del valore di 920 miliardi di won pari a circa 688 milioni di dollari, è stata posticipata di due mesi. Un consorzio sostenuto dalla società di giochi cinese Kingnet ha infatti rimandato il pagamento della restante quota di 828 miliardi di won. La chiusura dell'operazione per la vendita delle azioni detenute dal presidente Park Kwan-ho è stata così spostata dal 30 ottobre al 30 dicembre, come indicato da una comunicazione ufficiale della società depositata mercoledì. Lo riferisce The Korea Herald.",
+   "more": [
+    "Wemade è una nota società attiva nel settore dei videogiochi e della tecnologia, coinvolta in importanti operazioni finanziarie e di mercato sul piano internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10902875",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z6f2a1694",
+   "sez": "mondo",
+   "titolo": "I ministri capo si uniscono per fare pressione sul governo federale per la devoluzione dei poteri",
+   "orig": "Chief ministers unite to press federal government on devolution",
+   "lead": "I ministri capo hanno concluso un incontro biennale concordando la creazione di un forum congiunto. L'obiettivo è sollecitare maggiori poteri provinciali, autonomia fiscale e una divisione più chiara delle responsabilità rispetto al governo centrale. L'accordo è stato raggiunto al termine dei lavori che si sono conclusi mercoledì. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il sistema di governo federale prevede una suddivisione delle competenze tra le autorità centrali e quelle provinciali, un tema spesso al centro del dibattito istituzionale e politico locale."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/14/chief-ministers-unite-to-press-federal-government-on-devolution",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z2c220d0e",
+   "sez": "mondo",
+   "titolo": "La fazione di Deuba prosegue con il congresso congressuale parallelo",
+   "orig": "Deuba faction presses ahead with parallel Congress convention",
+   "lead": "La corrente rivale ha portato a termine le convenzioni circoscrizionali in 112 dei 165 collegi elettorali federali previsti. Tuttavia, rimangono ancora da completare migliaia di assemblee a livello di circoscrizione minore e locale. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il partito politico affronta dinamiche interne e congressuali complesse, caratterizzate da divisioni tra fazioni e processi di rappresentanza territoriale ramificati."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/politics/2026/10/14/deuba-faction-presses-ahead-with-parallel-congress-convention",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zd097c0dc",
+   "sez": "mondo",
+   "titolo": "Padre non può permettersi i riti funebri per il figlio disperso nelle inondazioni del Bhotekoshi",
+   "orig": "Father cannot afford last rites for son missing in Bhotekoshi floods",
+   "lead": "A quarantasette giorni dalla scomparsa del venticinquenne Pradip Sapkota, la sua famiglia non è ancora riuscita a recuperare il corpo e si trova in grande difficoltà economica per sostenere le spese dei riti funebri. Il giovane risulta disperso a seguito delle alluvioni che hanno colpito la zona. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il fiume Bhotekoshi è noto per le piene stagionali e le inondazioni che possono causare gravi danni e dispersione di persone nelle aree montane e circostanti."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/14/father-cannot-afford-last-rites-for-son-missing-in-bhotekoshi-floods",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zddd80984",
+   "sez": "mondo",
+   "titolo": "Alan Brandão scelto da Silvio Mendes per guidare il governo alla Camera di Teresina",
+   "orig": "Alan Brandão é escolhido por Silvio Mendes para liderar governo na Câmara de Teresina",
+   "lead": "Il supplente di consigliere comunale Alan Brandão è stato scelto dal sindaco Silvio Mendes per sostituire Bruno Vilarinho alla guida della leadership del governo presso la Camera Municipale di Teresina. Attualmente impegnato come sovrintendente allo Sviluppo Urbano Nord, Brandão lascerà il precedente incarico per assumere il nuovo ruolo politico. La conferma è arrivata mercoledì mattina direttamente dal primo cittadino. Lo riferisce G1.",
+   "more": [
+    "La Camera Municipale di Teresina rappresenta l'organo legislativo locale in cui la figura del leader del governo gestisce i rapporti e l'agenda politica con il sindaco."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/pi/piaui/noticia/2026/10/14/alan-brandao-lider-governo-camara-de-teresina.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-14T15:53+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z17bb373f",
+   "sez": "viaggi",
+   "titolo": "Sembra un borgo italiano: ecco il megaprogetto immobiliare in costruzione a Mendoza",
+   "orig": "Parece un “pueblito italiano”: así es el megaproyecto inmobiliario que se levanta en Mendoza",
+   "lead": "Un nuovo e grande progetto immobiliare prende forma nella provincia di Mendoza, caratterizzato da un design architettonico che richiama in modo evidente l'aspetto dei tipici villaggi fortificati italiani, conosciuti come 'borghi'. L'iniziativa punta a ricreare le atmosfere e le strutture tipiche di quei centri storici europei nel contesto argentino. Lo riferisce La Nación.",
+   "more": [
+    "I borghi fortificati italiani sono insediamenti storici caratterizzati da mura, vicoli stretti e un impianto urbanistico medievale o rinascimentale molto suggestivo."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/se-parece-a-un-pueblito-italiano-asi-es-el-megaproyecto-inmobiliario-que-se-levanta-en-mendoza-nid13102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-14T15:55+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zba1b3d14",
+   "sez": "economia",
+   "titolo": "Non Palermo né Belgrano: il quartiere di tendenza con appartamenti più economici di quelli di lusso",
+   "orig": "Ni Palermo ni Belgrano: el barrio que está de moda y tiene departamentos más baratos que los top",
+   "lead": "Una specifica microzona di un quartiere cittadino, popolarmente nota con il nome di 'Chacagiales', è stata selezionata come la più alla moda della città. L'area si distingue per offrire soluzioni abitative con appartamenti dai prezzi più accessibili rispetto alle zone tradizionalmente considerate più esclusive come Palermo o Belgrano. Lo riferisce La Nación.",
+   "more": [
+    "Il mercato immobiliare urbano presenta spesso microzone emergenti che attraggono l'interesse di acquirenti in cerca di tendenze e prezzi competitivi rispetto ai quartieri storicamente più costosi."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/ni-palermo-ni-belgrano-el-barrio-que-esta-de-moda-y-tiene-departamentos-mas-baratos-que-los-top-nid05102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-14T15:54+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z5c4ed802",
+   "sez": "economia",
+   "titolo": "Torna in Argentina una storica moto prodotta nel Paese e pensata per la città",
+   "orig": "Vuelve una recordada moto a la Argentina producida en el país y con foco en la ciudad",
+   "lead": "La casa motociclistica Honda ha annunciato il ritorno sul mercato argentino del modello Biz, che torna a far parte del catalogo di produzione locale con un focus specifico sulla mobilità urbana. L'azienda ha illustrato le novità introdotte, la politica dei prezzi e le modalità di arrivo del veicolo presso le concessionarie del Paese. Lo riferisce La Nación.",
+   "more": [
+    "La produzione locale di motoveicoli consente alle aziende di rispondere alle esigenze di trasporto urbano offrendo mezzi agili ed economici per gli spostamenti quotidiani."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/autos/vuelve-una-recordada-moto-a-la-argentina-producida-en-el-pais-y-con-foco-en-la-ciudad-nid14102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-14T15:54+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "ze6633eae",
+   "sez": "economia",
+   "titolo": "Soledad Balayan, agente immobiliare: 'Se la casa ha una storia, il legame del venditore influisce sul prezzo'",
+   "orig": "Soledad Balayan, broker inmobiliario: “Si la propiedad tiene una historia, el apego del vendedor afecta el precio”",
+   "lead": "Secondo l'agente immobiliare Soledad Balayan, quando un immobile possiede una storia personale o familiare rilevante, il forte attaccamento emotivo del proprietario finisce per condizionare la valutazione economica. Spesso si tratta di fattori psicologici, talvolta inconsci, che possono spiegare i motivi di un eventuale ritardo nella vendita della proprietà. Lo riferisce La Nación.",
+   "more": [
+    "Il mercato immobiliare è influenzato non solo da parametri oggettivi come la metratura e la posizione, ma anche da dinamiche emotive legate al vissuto dei proprietari."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/propiedades/soledad-balayan-broker-inmobiliario-si-la-propiedad-tiene-una-historia-el-apego-del-vendedor-afecta-nid11102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-14T15:53+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "zcc80c457",
+   "sez": "salute",
+   "titolo": "Ottobre Rosa: il Ministero della Funzione Pubblica dota le dipendenti di mammografi di ultima generazione",
+   "orig": "Octobre Rose : Le ministère de la Fonction publique déploie des mammographes de dernière génération pour ses agentes",
+   "lead": "A seguito di una prima giornata dedicata alla sensibilizzazione sulla salute, il Ministero della Funzione Pubblica ha compiuto un passo decisivo introducendo l'utilizzo di apparecchiature mammografiche di ultima generazione riservate alle proprie dipendenti. L'iniziativa rientra nelle attività promosse in occasione della campagna di prevenzione di Ottobre Rosa. Lo riferisce Seneweb.",
+   "more": [
+    "L'Ottobre Rosa è il mese internazionale dedicato alla prevenzione e alla sensibilizzazione contro il cancro al seno, attraverso esami diagnostici e campagne informative."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sante/octobre-rose-le-ministere-de-la-fonction-publique-deploie-des-mammographes-de-derniere-generation-pour-ses-agentes_n_999000671.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-14T15:54+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z4d1c1044",
+   "sez": "mondo",
+   "titolo": "Stato della Nazione: 'Non possiamo continuare a dirvi di aspettare il futuro mentre vi neghiamo opportunità nel presente', dice Adalberto Costa Júnior",
+   "orig": "Estado da Nação \"Não podemos continuar a pedir-vos que esperem o futuro enquanto vos negamos oportunidades no presente\", Adalberto Costa Júnior (EM ACTUALIZAÇÃO)",
+   "lead": "Durante un discorso pronunciato nel pomeriggio, il leader dell'UNITA Adalberto Costa Júnior ha tracciato il quadro di un Paese in grave crisi economica e sociale. Anticipando l'intervento del Presidente della Repubblica all'Assemblea Nazionale, il politico ha criticato la povertà crescente, la scarsa efficacia delle politiche macroeconomiche dell'esecutivo, la mancanza di opportunità lavorative per i giovani e la continua esclusione sociale, evidenziando la distanza tra i dati ufficiali e la realtà vissuta nei mercati e nelle famiglie. Lo riferisce Novo Jornal.",
+   "more": [
+    "L'Angola affronta complesse sfide economiche e sociali, con un dibattito politico incentrato sulle condizioni di vita della popolazione e sulle politiche di sviluppo del governo."
+   ],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/politica/detalhe/estado-da-nacao-nao-podemos-continuar-a-pedir-vos-que-esperem-o-futuro-enquanto-vos-negamos-oportunidades-no-presente-adalberto-costa-junior-em-actualizacao-75366.html",
+     "angolo": "",
+     "atlas": "Angola"
+    }
+   ],
+   "data": "",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
+   "id": "z71a934df",
+   "sez": "economia",
+   "titolo": "Avviso di convocazione dell'Assemblea Generale degli Azionisti di CV Telecom",
+   "orig": "Anúncio – CV Telecom – ASSEMBLEIA-GERAL DE ACIONISTAS MESA CONVOCATÓRIA",
+   "lead": "Gli azionisti della società Cabo Verde Telecom sono stati convocati per una riunione straordinaria dell'Assemblea Generale. L'incontro è fissato per il 13 novembre alle ore 10:00 presso l'Hotel Pérola nella città di Praia, a Capo Verde, con all'ordine del giorno l'elezione dei nuovi organi sociali dell'azienda. Lo riferisce A Nação.",
+   "more": [
+    "Cabo Verde Telecom è la principale azienda di telecomunicazioni del Paese, gestita attraverso assemblee di azionisti che eleggono periodicamente i vertici societari."
+   ],
+   "fonti": [
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/14/anuncio-cv-telecom-assembleia-geral-de-acionistas-mesa-convocatoria/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-14T15:53+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "18:02",
+   "uscita": "17"
+  },
+  {
    "id": "z8cb430ba",
    "sez": "mondo",
    "titolo": "Francia: attacco informatico ai sistemi di refrigerazione di 700 supermercati",
@@ -25709,7 +26684,46 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z414a292f": "La testata St. Lucia Times evidenzia il ricambio generazionale nella guida amministrativa della municipalità caraibica.",
   "z40b275ba": "La testata NOW Grenada pone l'accento sulla qualificazione professionale dei dirigenti sportivi locali per il miglioramento degli eventi agonistici.",
   "zd56839ff": "La testata Dominica News Online evidenzia la proposta di riforma normativa avanzata da una specialista della salute mentale per la tutela dei giovani.",
-  "zd6f52d54": "La testata Radio Ndeke Luka dà voce alle lamentele della cittadinanza riguardo alle difficoltà di circolazione e allo stato delle infrastrutture urbane."
+  "zd6f52d54": "La testata Radio Ndeke Luka dà voce alle lamentele della cittadinanza riguardo alle difficoltà di circolazione e allo stato delle infrastrutture urbane.",
+  "z64db69a9": "La BBC si concentra sull'aumento dei prezzi dei carburanti, mentre Al Jazeera evidenzia le implicazioni politiche e i timori di nuovi rialzi dei tassi.",
+  "ze8d77777": "La Jornada riporta l'editoriale di Sanders, mentre le altre voci si occupano di sanzioni al Venezuela, diplomazia in Grecia e della morte del pugile Jorge Castro.",
+  "ze4fb275e": "La testata riporta integralmente l'intervento del Presidente Costa a conclusione dei lavori del summit.",
+  "z21271c4d": "RTP evidenzia la spaccatura politica tra il sostegno del centro-destra e la ferma opposizione dei partiti di sinistra alla vendita.",
+  "z7081b6d8": "RTP mette in luce il paradosso di una crisi che penalizza i consumatori ma arricchisce i produttori di carburante raffinato.",
+  "z821e98b7": "RTP evidenzia il timore che il focolaio possa estendersi oltre i confini nazionali a causa dell'aggravarsi della situazione in Congo.",
+  "z18f80927": "Billboard mette in risalto il legame tra l'artista Jackson Dean e l'ambiente creativo di Nashville nella sua rubrica specialistica.",
+  "z04de324a": "Il Messaggero focalizza l'attenzione sulle variazioni del calendario dei pagamenti e sulle procedure della piattaforma NoiPA.",
+  "zb7fd1db3": "Domus propone una riflessione teorica sulle potenzialità dirompenti dell'intelligenza artificiale nei confronti dei monopoli tecnologici attuali.",
+  "zbe85be31": "Billboard mette in evidenza le novità assolute della lineup, in particolare le inedite collaborazioni dal vivo tra artisti di fama mondiale.",
+  "zf76ae2c7": "Il Messaggero avverte i lettori sulla data cruciale del 30 novembre per non perdere il diritto al beneficio pensionistico anticipato.",
+  "z75de3eda": "Il Messaggero sottolinea l'importanza della deposizione di Ruzzi che mette in dubbio l'identità dell'imputato rispetto ai video dell'aggressione.",
+  "z9f61ec5d": "Il Messaggero – Roma mette in risalto il valore sociale e artistico del progetto di riqualificazione urbana nel quartiere periferico.",
+  "ze2e40582": "Domus sottolinea l'originalità estetica del progetto dello studio Mad, che traduce il movimento della danza in forme architettoniche concrete.",
+  "z93f80d58": "Sky TG24 presenta il film mettendo l'accento sulla sfida interpretativa di Caiazzo e sulla capacità di Pino Daniele di fondere tradizioni diverse.",
+  "z8f54e384": "RTCG annuncia la diretta televisiva dell'evento, sottolineando l'importanza della sfida per le ambizioni regionali e continentali dei club.",
+  "ze5c579a2": "La testata montenegrina si concentra sulla copertura in diretta dell'importante trasferta internazionale della squadra di casa a Bursa.",
+  "z08331905": "Vijesti riporta il comunicato ufficiale iraniano che attribuisce l'affondamento alla pericolosità della rotta percorsa dalla nave.",
+  "z0d3a3870": "RTP evidenzia l'intervento ufficiale dell'autorità di regolazione portoghese in risposta a un atto di forza contro un'emittente universitaria.",
+  "zf22e104c": "RTP mette a confronto il calo statistico decennale della povertà con la difficoltà attuale di chi vive una condizione di indigenza cronica.",
+  "z650c4752": "RTP riporta il commento ufficiale positivo di Lufthansa in seguito alla decisione strategica dell'esecutivo di Lisbona.",
+  "z6b3bf332": "SVT Nyheter evidenzia lo sconcerto della scuola e la protesta dei genitori per la violazione delle norme igieniche di base.",
+  "za6ca73ac": "The Punch sottolinea l'importanza del vertice tra Atiku e Obi come mossa per creare una coalizione di opposizione unificata.",
+  "z65395007": "La testata evidenzia l'appoggio di Soludo come un segnale di fiducia verso l'attuale presidenza federale.",
+  "z475bee08": "La testata focalizza l'attenzione sulla tesi di Adeleke riguardante l'insufficienza di un singolo mandato per le riforme del Paese.",
+  "zf4af920d": "The Punch riporta il chiarimento ufficiale della missione diplomatica statunitense rivolto ai cittadini nigeriani.",
+  "z4330dca6": "La testata evidenzia l'endorsement politico e le aspettative riposte sul governatore Seyi Makinde in vista delle elezioni future.",
+  "ze5bdc633": "La testata pone l'accento sui dettagli finanziari e sui tempi del rinvio della transazione aziendale tra la società sudcoreana e il consorzio cinese.",
+  "z6f2a1694": "Il giornale evidenzia la richiesta di autonomia e il coordinamento politico tra le province nei confronti del potere centrale.",
+  "z2c220d0e": "La testata mette in luce lo stato di avanzamento delle assemblee territoriali e le divisioni interne alla forza politica.",
+  "zd097c0dc": "Il giornale pone l'attenzione sul dramma umano e sulle difficoltà materiali vissute dai familiari delle vittime delle catastrofi naturali.",
+  "zddd80984": "La testata evidenzia il cambiamento nei ruoli chiave dell'amministrazione locale e le dichiarazioni del nuovo capogruppo.",
+  "z17bb373f": "La testata sottolinea l'originalità architettonica del progetto immobiliare e il legame stilistico con i modelli urbanistici europei.",
+  "zba1b3d14": "Il giornale pone l'accento sulla rivalutazione di zone urbane alternative e sulla convenienza economica rispetto ai quartieri tradizionalmente top.",
+  "z5c4ed802": "La testata evidenzia il rientro sul mercato di un modello iconico e la strategia di produzione nazionale per il settore delle due ruote.",
+  "ze6633eae": "La testata sottolinea l'importanza dei fattori emotivi e psicologici nelle trattative di compravendita immobiliare.",
+  "zcc80c457": "Il giornale sottolinea l'impegno istituzionale nella prevenzione sanitaria e nell'offerta di strumenti diagnostici avanzati per le dipendenti pubbliche.",
+  "z4d1c1044": "La testata evidenzia le critiche dell'opposizione nei confronti delle politiche governative e la contrapposizione tra i dati ufficiali e le difficoltà quotidiane dei cittadini.",
+  "z71a934df": "La testata riporta gli aspetti formali e logistici relativi all'appuntamento societario per il rinnovo delle cariche aziendali."
  },
  "contesti": {
   "z7c42897d": "Il caro energia resta uno dei nodi principali dell'economia italiana ed europea dall'inizio della crisi energetica del 2022, aggravata dalla guerra in Ucraina. Nelle settimane scorse i governi UE hanno discusso misure comuni su prezzi e approvvigionamento, mentre il governo italiano ha ribadito la propria linea di sostegno a Kyiv in vista del Consiglio europeo del 15-16 ottobre.",
@@ -25887,7 +26901,37 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z7c22eb26": "Nelle settimane scorse il fronte mediorientale ha registrato una drammatica escalation militare, con il conflitto tra Israele, Hamas e Hezbollah che si è ulteriormente inasprito su molteplici fronti. Le autorità israeliane hanno intensificato le operazioni militari e la retorica strategica, ribadendo ripetutamente l'obiettivo di smantellare le capacità operative dei gruppi armati nella regione e di contrastare la minaccia iraniana.",
   "z9107107d": "Nei mesi scorsi il complesso residenziale La Querola, firmato dal celebre architetto francese Jean Nouvel, è stato al centro delle cronache per un incendio che ha interessato la struttura. Nonostante questo grave incidente, l'opera architettonica ha continuato a riscuotere grande attenzione internazionale per il suo design innovativo e la qualità della progettazione.",
   "z6ae89d88": "Negli ultimi mesi il Ghana Cocoa Board (COCOBOD) ha avviato una strategia mirata a risanare i conti e a diversificare le fonti di finanziamento, cercando di ridurre la pesante dipendenza del settore dai prestiti esteri. Per raggiungere questo obiettivo, l'ente ha pianificato l'emissione di strumenti finanziari domestici per attrarre investitori istituzionali nazionali.",
-  "z91419979": "Nei giorni scorsi la scena politica del Ghana è stata mossa da importanti nomine istituzionali decise dall'esecutivo. In particolare, la scelta del presidente John Dramani Mahama di nominare Emelia Afi Agbenyo come nuova vice presidente della Commissione Elettorale ha acceso il dibattito pubblico e mediatico nel Paese."
+  "z91419979": "Nei giorni scorsi la scena politica del Ghana è stata mossa da importanti nomine istituzionali decise dall'esecutivo. In particolare, la scelta del presidente John Dramani Mahama di nominare Emelia Afi Agbenyo come nuova vice presidente della Commissione Elettorale ha acceso il dibattito pubblico e mediatico nel Paese.",
+  "z64db69a9": "Negli ultimi mesi, l'economia statunitense ha dovuto affrontare una pressione costante sui prezzi, spingendo la Federal Reserve ad attuare una serie di rialzi dei tassi d'interesse. La lotta contro l'inflazione è diventata un tema centrale del dibattito pubblico, poiché incide direttamente sulla spesa quotidiana delle famiglie, dal costo dei beni alimentari a quello dei carburanti, creando incertezza in vista delle scadenze elettorali.",
+  "ze8d77777": "La questione del finanziamento elettorale negli Stati Uniti è da anni al centro di polemiche, in particolare dopo sentenze giudiziarie che hanno rimosso i limiti ai contributi di aziende e sindacati. Bernie Sanders, rappresentante dell'ala progressista, ha fatto della lotta contro la disuguaglianza economica e lo strapotere delle élite finanziarie uno dei pilastri della sua attività politica e delle sue campagne presidenziali.",
+  "ze4fb275e": "Il Vertice sociale tripartito si è riunito con regolarità negli ultimi anni per coordinare le risposte europee alle crisi economiche e occupazionali. António Costa, assumendo il suo ruolo nelle istituzioni europee, ha proseguito il lavoro di mediazione tra le istanze dei lavoratori e quelle delle imprese, focalizzandosi sulla transizione ecologica e digitale e sul rafforzamento del pilastro sociale dell'Unione.",
+  "z21271c4d": "Il governo portoghese ha avviato da tempo il processo di risanamento e privatizzazione di TAP Air Portugal, dopo che lo Stato era intervenuto massicciamente per salvare la compagnia durante la pandemia. La ricerca di un partner industriale solido ha visto coinvolti i principali gruppi aeronautici europei, con Lufthansa che è emersa come il candidato preferito per rilevare una quota della società.",
+  "z7081b6d8": "La crisi energetica globale è iniziata a seguito delle tensioni geopolitiche e delle interruzioni nelle catene di approvvigionamento degli ultimi anni. Il mercato dei carburanti raffinati, in particolare del gasolio, ha mostrato una volatilità estrema, spingendo le raffinerie a massimizzare la produzione per colmare il divario tra l'offerta limitata e una domanda che non ha accennato a diminuire nonostante i prezzi elevati.",
+  "z04de324a": "Il sistema NoiPA ha subito diversi aggiornamenti tecnologici e procedurali per migliorare la puntualità e la trasparenza dei pagamenti statali. Ogni mese, il Ministero pubblica il calendario delle emissioni per informare i dipendenti, specialmente quelli del comparto scuola che costituiscono la fetta più ampia degli utenti, su eventuali variazioni nelle date di accredito previste.",
+  "zf76ae2c7": "L'Ape Sociale è stata introdotta in Italia come misura sperimentale per permettere l'uscita anticipata dal lavoro a categorie fragili. Negli ultimi anni, la misura è stata prorogata con piccoli aggiustamenti nei criteri di accesso. Il sistema delle scadenze annuali è diventato un appuntamento fisso per migliaia di lavoratori che si avvicinano all'età pensionabile e rientrano nei requisiti di legge.",
+  "z75de3eda": "Simone Ruzzi è stato vittima di un'aggressione violenta all'interno di una stazione della metropolitana di Roma mentre stava effettuando delle riprese. L'episodio ha avuto una vasta risonanza mediatica, portando all'identificazione di alcuni sospetti attraverso i video di sorveglianza e le immagini girate durante l'evento. Il processo in corso mira a stabilire le responsabilità individuali dei partecipanti.",
+  "z08331905": "Le tensioni marittime nell'area del Golfo sono aumentate negli ultimi anni, coinvolgendo diverse marine militari e gruppi regionali. Incidenti che coinvolgono mine o attacchi a imbarcazioni sono stati segnalati periodicamente, alimentando il clima di instabilità in una delle rotte commerciali più trafficate del pianeta, dove la presenza della Guardia Rivoluzionaria iraniana è costante per il controllo del territorio.",
+  "z0d3a3870": "Il partito Chega ha guadagnato una visibilità crescente nel panorama politico portoghese, distinguendosi per azioni di protesta spesso rivolte ai media e alle istituzioni accademiche. Rapporti tesi tra esponenti del partito e organi di informazione locale sono stati segnalati in diverse occasioni, portando l'autorità di vigilanza a monitorare con attenzione il rispetto del pluralismo e della libertà di stampa.",
+  "zf22e104c": "Il Portogallo ha implementato diverse riforme sociali nell'ultimo decennio per ridurre i tassi di povertà dopo la crisi finanziaria. Sebbene le statistiche generali abbiano mostrato un miglioramento costante e una riduzione dei cittadini in stato di privazione, la persistenza del fenomeno per chi rimane intrappolato nella fascia bassa del reddito è rimasta una sfida irrisolta per le politiche di welfare nazionali.",
+  "z650c4752": "La privatizzazione di TAP è stata al centro del dibattito politico in Portogallo per anni, con diverse fasi di nazionalizzazione e tentativi di vendita. Dopo la crisi pandemica, il governo ha deciso di accelerare la ricerca di un acquirente internazionale per garantire la sostenibilità a lungo termine della compagnia, ricevendo manifestazioni di interesse dai principali gruppi del settore aereo europeo.",
+  "z6b3bf332": "La scuola di Uddevalla mette a disposizione laboratori per attività pratiche, ma è soggetta a rigorosi protocolli di sicurezza. Casi di uso improprio dei locali scolastici per attività private sono rari ma suscitano sempre forti reazioni nell'opinione pubblica locale, preoccupata per la tutela degli spazi educativi e per il corretto utilizzo delle risorse pubbliche a disposizione della comunità.",
+  "za6ca73ac": "Il panorama politico nigeriano si sta preparando per la transizione del 2027 dopo le elezioni del 2023 che hanno visto la vittoria di Bola Tinubu. Le opposizioni hanno iniziato un percorso di riorganizzazione interna per cercare di contrastare il partito di governo, mentre i sostenitori del presidente in carica hanno avviato le prime manovre per consolidare il consenso in vista di un possibile mandato.",
+  "z65395007": "Il panorama politico nigeriano si sta preparando per la transizione del 2027 dopo le elezioni del 2023 che hanno visto la vittoria di Bola Tinubu. Mentre le opposizioni si riorganizzano, i sostenitori del presidente in carica hanno iniziato a manifestare pubblicamente il loro appoggio per garantire la continuità dell'attuale amministrazione anche per il quadriennio successivo.",
+  "z475bee08": "Il panorama politico nigeriano si sta preparando per la transizione del 2027 dopo le elezioni del 2023. Mentre le opposizioni cercano una candidatura unica, diversi governatori stanno prendendo posizione a favore del presidente Tinubu, sostenendo che la complessità delle sfide nazionali richieda un tempo di governo più lungo rispetto a un singolo mandato di quattro anni.",
+  "z4330dca6": "Negli ultimi mesi il dibattito politico in Nigeria si è intensificato in vista delle elezioni generali del 2027, con vari schieramenti che iniziano a posizionare i propri candidati e a discutere sulle soluzioni per i problemi economici e di sicurezza del Paese.",
+  "ze5bdc633": "Le parti avevano siglato l'accordo di cessione il 30 giugno dello stesso anno, prevedendo inizialmente la conclusione della transazione entro la fine di ottobre prima del recente rinvio.",
+  "z6f2a1694": "Nei giorni precedenti i rappresentanti regionali avevano discusso delle difficoltà di coordinamento con il centro, preparando il terreno per la costituzione di una piattaforma comune.",
+  "z2c220d0e": "Nelle settimane passate il partito aveva avviato le procedure congressuali locali, registrando divisioni e la formazione di assemblee parallele da parte delle diverse anime interne.",
+  "zd097c0dc": "Nei giorni successivi alle alluvioni erano scattate le operazioni di ricerca dei dispersi, senza tuttavia riuscire a rintracciare tutte le persone coinvolte nel disastro.",
+  "zddd80984": "Nei giorni precedenti l'amministrazione comunale aveva valutato i vari profili per la riorganizzazione degli incarichi politici e amministrativi nella città.",
+  "z17bb373f": "Nelle settimane passate il progetto era stato presentato agli investitori e alle autorità locali per ottenere le approvazioni necessarie all'avvio dei cantieri.",
+  "zba1b3d14": "Nel corso degli ultimi mesi l'area in questione ha registrato una crescente popolarità e un aumento dell'interesse da parte di residenti e operatori immobiliari.",
+  "z5c4ed802": "Nei mesi scorsi la casa produttrice aveva anticipato la volontà di riorganizzare la propria offerta industriale e commerciale per il mercato nazionale.",
+  "ze6633eae": "Nel settore delle compravendite immobiliari si discute frequentemente di come le aspettative dei venditori possano scontrarsi con le reali dinamiche di prezzo del mercato.",
+  "zcc80c457": "Nei giorni precedenti il ministero aveva avviato le attività di sensibilizzazione, culminate nell'implementazione dei nuovi servizi diagnostici dedicati al personale femminile.",
+  "z4d1c1044": "Nel corso dei giorni precedenti l'opposizione e il governo avevano scambiato dichiarazioni in vista degli appuntamenti istituzionali dedicati allo stato della nazione.",
+  "z71a934df": "Nei mesi scorsi la società ha pianificato la scadenza degli organi sociali in carica, rendendo necessaria la convocazione di una nuova assemblea straordinaria.",
+  "z821e98b7": "Nelle ultime settimane, la regione dell'Africa orientale e in particolare la vicina Repubblica Democratica del Congo hanno affrontato un aggravamento dei contagi da virus Ebola. La situazione ha spinto le autorità sanitarie dei Paesi limitrofi ad alzare i livelli di guardia lungo i confini. La scorsa settimana, il Kenya ha registrato il primo decesso ufficiale sul proprio territorio, imponendo un monitoraggio straordinario per prevenire la trasmissione transfrontaliera e contenere il focolaio."
  },
  "cronologie": {
   "z7c42897d": [
@@ -28065,6 +29109,364 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Oggi",
     "Pubblicazione di articoli di opinione critici che analizzano il clima politico e le divisioni sulla scelta"
    ]
+  ],
+  "z64db69a9": [
+   [
+    "Agosto",
+    "L'inflazione mostra segnali di persistenza nonostante i primi interventi sui tassi"
+   ],
+   [
+    "Settembre",
+    "I costi del carburante iniziano a pesare maggiormente sull'indice"
+   ],
+   [
+    "Ottobre",
+    "Pubblicazione dei dati che confermano il rialzo al 3,7% superiore alle stime"
+   ]
+  ],
+  "ze8d77777": [
+   [
+    "2024",
+    "Miliardari come Elon Musk investono cifre record nei processi elettorali"
+   ],
+   [
+    "Settembre 2026",
+    "Aumento delle denunce sull'impatto dei fondi privati nelle elezioni"
+   ],
+   [
+    "Ottobre 2026",
+    "Sanders lancia l'appello per una riforma del sistema di finanziamento"
+   ]
+  ],
+  "ze4fb275e": [
+   [
+    "Ottobre 2025",
+    "Incontro istituzionale incentrato sull'occupazione giovanile"
+   ],
+   [
+    "Marzo 2026",
+    "Vertice sulla competitività industriale e i diritti sociali"
+   ],
+   [
+    "14 ottobre 2026",
+    "Conferenza stampa conclusiva del nuovo vertice tripartito"
+   ]
+  ],
+  "z21271c4d": [
+   [
+    "2020",
+    "Lo Stato portoghese nazionalizza TAP per evitarne il fallimento"
+   ],
+   [
+    "2023",
+    "Inizio formale del processo di privatizzazione"
+   ],
+   [
+    "Ottobre 2026",
+    "Il governo annuncia la scelta di Lufthansa per la vendita parziale"
+   ]
+  ],
+  "z7081b6d8": [
+   [
+    "2024",
+    "Inizio della marcata instabilità nei prezzi del petrolio greggio"
+   ],
+   [
+    "2025",
+    "Chiusura di alcuni impianti di raffinazione obsoleti in Occidente"
+   ],
+   [
+    "2026",
+    "Emergere della scarsità strutturale di gasolio sui mercati mondiali"
+   ]
+  ],
+  "z04de324a": [
+   [
+    "2025",
+    "Aggiornamento dei sistemi di gestione digitale della piattaforma NoiPA"
+   ],
+   [
+    "Settembre 2026",
+    "Comunicazione del calendario dei pagamenti per l'ultimo trimestre"
+   ],
+   [
+    "Ottobre 2026",
+    "Emissione speciale per gli stipendi del personale docente scolastico"
+   ]
+  ],
+  "zf76ae2c7": [
+   [
+    "2017",
+    "Introduzione dell'Ape Sociale nella normativa previdenziale italiana"
+   ],
+   [
+    "2025",
+    "Proroga della misura assistenziale per l'intero anno solare"
+   ],
+   [
+    "30 novembre 2026",
+    "Scadenza per la presentazione delle domande Inps per il 2027"
+   ]
+  ],
+  "z75de3eda": [
+   [
+    "Giugno 2026",
+    "Aggressione a Cicalone nella metropolitana di Roma"
+   ],
+   [
+    "Luglio 2026",
+    "Identificazione dei sospettati tramite i filmati di sorveglianza"
+   ],
+   [
+    "Ottobre 2026",
+    "Testimonianza di Ruzzi in aula che scagiona uno degli imputati"
+   ]
+  ],
+  "z08331905": [
+   [
+    "2024",
+    "Aumento degli incidenti navali e delle esercitazioni militari nell'area"
+   ],
+   [
+    "2025",
+    "Segnalazioni di nuove mine lungo le rotte marittime non convenzionali"
+   ],
+   [
+    "Ottobre 2026",
+    "Affondamento della nave della Guardia Rivoluzionaria dopo l'urto con una mina"
+   ]
+  ],
+  "z0d3a3870": [
+   [
+    "2024",
+    "Crescita dei consensi elettorali per il partito di destra Chega"
+   ],
+   [
+    "2025",
+    "Episodi di tensione durante manifestazioni e interventi nei media"
+   ],
+   [
+    "Ottobre 2026",
+    "Incursione negli studi della radio universitaria di Coimbra e avvio indagine ERC"
+   ]
+  ],
+  "zf22e104c": [
+   [
+    "2015",
+    "Il tasso di povertà persistente in Portogallo si attesta al 13,6%"
+   ],
+   [
+    "2024",
+    "Il dato scende significativamente al 7,1% grazie alle politiche di sostegno"
+   ],
+   [
+    "2025",
+    "Lo studio evidenzia che oltre il 60% dei poveri non riesce a uscire dall'indigenza"
+   ]
+  ],
+  "z650c4752": [
+   [
+    "2021",
+    "Piano di ristrutturazione di TAP approvato dalla Commissione Europea"
+   ],
+   [
+    "2024",
+    "Apertura ufficiale del bando per la privatizzazione parziale della compagnia"
+   ],
+   [
+    "Ottobre 2026",
+    "Il governo portoghese seleziona ufficialmente il gruppo Lufthansa"
+   ]
+  ],
+  "z6b3bf332": [
+   [
+    "Inizio ottobre 2026",
+    "Segnalazioni interne alla scuola sull'uso anomalo dei laboratori"
+   ],
+   [
+    "Metà ottobre 2026",
+    "I genitori vengono informati dell'incidente della macellazione dell'agnello"
+   ],
+   [
+    "Ottobre 2026",
+    "Intervento ufficiale del rettore e avvio dell'indagine interna scolastica"
+   ]
+  ],
+  "za6ca73ac": [
+   [
+    "2023",
+    "Elezione di Bola Tinubu alla presidenza della Nigeria"
+   ],
+   [
+    "2024",
+    "Inizio dei dibattiti sulle riforme economiche e le nuove alleanze politiche"
+   ],
+   [
+    "Ottobre 2026",
+    "Incontri tra i leader dell'opposizione per una candidatura unica nel 2027"
+   ]
+  ],
+  "z65395007": [
+   [
+    "2023",
+    "Vittoria di Bola Tinubu alle elezioni presidenziali nigeriane"
+   ],
+   [
+    "2024",
+    "Prima fase di attuazione delle riforme economiche del nuovo governo"
+   ],
+   [
+    "Ottobre 2026",
+    "Il governatore Soludo dichiara ufficialmente il sostegno a Tinubu per il 2027"
+   ]
+  ],
+  "z475bee08": [
+   [
+    "2023",
+    "Vittoria elettorale di Bola Tinubu alla presidenza federale"
+   ],
+   [
+    "2025",
+    "Inizio delle speculazioni politiche sulle candidature per il 2027"
+   ],
+   [
+    "Ottobre 2026",
+    "Il governatore Adeleke chiede pubblicamente di votare Tinubu per un secondo mandato"
+   ]
+  ],
+  "z4330dca6": [
+   [
+    "mesi scorsi",
+    "Intensificazione del dibattito politico in vista del 2027"
+   ],
+   [
+    "periodo recente",
+    "Presentazione delle organizzazioni di campagna elettorale"
+   ]
+  ],
+  "ze5bdc633": [
+   [
+    "30 giugno",
+    "Firma dell'accordo di cessione delle azioni di Wemade"
+   ],
+   [
+    "mercoledì",
+    "Annuncio del rinvio della scadenza al 30 dicembre tramite deposito normativo"
+   ]
+  ],
+  "z6f2a1694": [
+   [
+    "giorni precedenti",
+    "Avvio del confronto tra i ministri capo"
+   ],
+   [
+    "mercoledì",
+    "Conclusione dell'incontro con l'accordo per la creazione del forum congiunto"
+   ]
+  ],
+  "z2c220d0e": [
+   [
+    "settimane precedenti",
+    "Avvio delle procedure congressuali e divisioni interne"
+   ],
+   [
+    "periodo recente",
+    "Completamento delle convenzioni in 112 collegi su 165"
+   ]
+  ],
+  "zd097c0dc": [
+   [
+    "circa 47 giorni fa",
+    "Scomparsa di Pradip Sapkota durante le inondazioni"
+   ],
+   [
+    "periodo intercorso",
+    "Ricerche infruttuose e difficoltà economiche della famiglia"
+   ]
+  ],
+  "zddd80984": [
+   [
+    "giorni precedenti",
+    "Valutazione dei profili per la guida del governo in Consiglio"
+   ],
+   [
+    "mercoledì mattina",
+    "Conferma ufficiale della nomina da parte del sindaco Silvio Mendes"
+   ]
+  ],
+  "z17bb373f": [
+   [
+    "settimane precedenti",
+    "Presentazione del progetto immobiliare"
+   ],
+   [
+    "periodo recente",
+    "Avvio della costruzione del complesso ispirato ai borghi italiani"
+   ]
+  ],
+  "zba1b3d14": [
+   [
+    "ultimi mesi",
+    "Crescente popolarità della microzona cittadina"
+   ],
+   [
+    "periodo recente",
+    "Selezione del quartiere tra le aree più alla moda"
+   ]
+  ],
+  "z5c4ed802": [
+   [
+    "mesi scorsi",
+    "Pianificazione della produzione locale da parte di Honda"
+   ],
+   [
+    "periodo recente",
+    "Annuncio ufficiale del ritorno del modello Biz e dei dettagli commerciali"
+   ]
+  ],
+  "zcc80c457": [
+   [
+    "giorni precedenti",
+    "Avvio della campagna di sensibilizzazione e delle attività dedicate"
+   ],
+   [
+    "mercoledì",
+    "Installazione e dispiegamento dei mammografi di ultima generazione"
+   ]
+  ],
+  "z4d1c1044": [
+   [
+    "giorni precedenti",
+    "Preparazione dei discorsi istituzionali sullo stato della nazione"
+   ],
+   [
+    "mercoledì pomeriggio",
+    "Intervento pubblico del leader dell'UNITA Adalberto Costa Júnior"
+   ]
+  ],
+  "z71a934df": [
+   [
+    "periodo recente",
+    "Pubblicazione dell'avviso di convocazione per l'assemblea straordinaria"
+   ],
+   [
+    "13 novembre",
+    "Data stabilita per la riunione degli azionisti a Praia"
+   ]
+  ],
+  "z821e98b7": [
+   [
+    "La scorsa settimana",
+    "Registrato il primo decesso per Ebola nel territorio keniota"
+   ],
+   [
+    "Giorni scorsi",
+    "Intensificazione dei controlli sanitari ai confini con la Repubblica Democratica del Congo"
+   ],
+   [
+    "Oggi",
+    "Le autorità sanitarie confermano ufficialmente il secondo caso di Ebola nel Paese"
+   ]
   ]
  },
  "confronti": {
@@ -28161,6 +29563,53 @@ window.EDIZIONI["2026-10-14-sera"] = {
     }
    ],
    "divergono": "Le testate divergono radicalmente nella selezione e nell'interpretazione degli eventi legati alla parola \"ministero dell'Istruzione\". Mentre Al Jazeera, El Comercio e Deutsche Welle raccontano gli scontri violenti di piazza, gli incendi e le proteste studentesche a Tirana (Albania), il quotidiano El Universo descrive un'inchiesta giudiziaria per corruzione e tangenti all'interno del ministero dell'Educazione, ma in Ecuador. Tra le testate che coprono l'Albania, El Comercio parla specificamente di un incendio divampato al primo e secondo piano dell'edificio ministeriale e menziona 40 arresti basandosi su dati di giornate precedenti, mentre Deutsche Welle quantifica 40 detenzioni e 13 feriti (inclusi sei agenti) attribuendole a un bilancio di polizia di inizio mercoledì. Infine, El Universo e Deutsche Welle utilizzano fonti governative e giudiziarie ufficiali per i rispettivi contesti istituzionali."
+  },
+  "ze8d77777": {
+   "voci": [
+    {
+     "n": "La Jornada",
+     "c": "Città del Messico",
+     "p": "XX",
+     "t": "La testata messicana riferisce che Bernie Sanders ha denunciato la spesa di centinaia di milioni di dollari da parte di miliardari e gruppi di interesse nelle elezioni. L'articolo è parziale poiché è disponibile solo l'occhiello, che menziona la richiesta del legislatore di riformare il finanziamento delle campagne elettorali.",
+     "b": "t"
+    },
+    {
+     "n": "La Nación",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "Il quotidiano argentino racconta la morte a 59 anni dell'ex pugile Jorge 'Locomotora' Castro in un bingo a Morón, ricostruendo la sua carriera sportiva e le partecipazioni televisive. Riporta dichiarazioni della figlia Quimey sul malore e la causa naturale del decesso.",
+     "b": "a"
+    },
+    {
+     "n": "La Nación",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "In un altro articolo, la testata argentina approfondisce la scomparsa di Jorge 'Locomotora' Castro, evidenziando il suo impegno sociale con mense e centri di accoglienza. Cita fonti giudiziarie della polizia e la UFI n. 8 di Morón sull'indagine per accertare le cause della morte.",
+     "b": "a"
+    },
+    {
+     "n": "El Tiempo",
+     "c": "Bogotá",
+     "p": "XX",
+     "t": "Il quotidiano colombiano riporta la rimozione delle sanzioni statunitensi contro Jorge Rodríguez, presidente dell'assemblea venezuelana. L'articolo è parziale in quanto il testo principale non è accessibile ed è composto unicamente da avvisi di servizio e newsletter.",
+     "b": "a"
+    },
+    {
+     "n": "El Tiempo",
+     "c": "Bogotá",
+     "p": "XX",
+     "t": "La testata colombiana pubblica la dichiarazione dell'ambasciatrice degli Stati Uniti in Grecia, che difende il proprio operato e smentisce le accuse. L'articolo è parziale e include post social che menzionano dimissioni e presunti debiti di carta di credito.",
+     "b": "a"
+    },
+    {
+     "n": "El Nacional",
+     "c": "Caracas",
+     "p": "XX",
+     "t": "Il quotidiano venezuelano riferisce che il Dipartimento del Tesoro statunitense ha tolto le sanzioni economiche a Jorge Rodríguez, inserito nella \"lista negra\" nel 2018. L'articolo cita la decisione della OFAC collegandola al processo di transizione e agli interessi petroliferi.",
+     "b": "a"
+    }
+   ],
+   "divergono": ""
   }
  },
  "luoghi": {
@@ -34798,6 +36247,272 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Central African Rep."
    ],
    "pt": []
+  },
+  "z64db69a9": {
+   "n": "Stati Uniti d'America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze8d77777": {
+   "n": "Stati Uniti d'America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze4fb275e": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z21271c4d": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z7081b6d8": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z821e98b7": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z18f80927": {
+   "n": "Nashville",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z04de324a": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb7fd1db3": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zbe85be31": {
+   "n": "Miami",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf76ae2c7": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z75de3eda": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9f61ec5d": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze2e40582": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "z93f80d58": {
+   "n": "Napoli",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8f54e384": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "ze5c579a2": {
+   "n": "Bursa",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z08331905": {
+   "n": "Golfo Persico",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z0d3a3870": {
+   "n": "Coimbra",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zf22e104c": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z650c4752": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z6b3bf332": {
+   "n": "Uddevalla",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "za6ca73ac": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z65395007": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z475bee08": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zf4af920d": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z4330dca6": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "ze5bdc633": {
+   "n": "Seul",
+   "p": [
+    "South Korea",
+    "China"
+   ],
+   "pt": []
+  },
+  "z6f2a1694": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z2c220d0e": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "zd097c0dc": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "zddd80984": {
+   "n": "Rio de Janeiro",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z17bb373f": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zba1b3d14": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z5c4ed802": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "ze6633eae": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zcc80c457": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z4d1c1044": {
+   "n": "Luanda",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "z71a934df": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
   }
  },
  "rilievo": {
@@ -35760,7 +37475,46 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z414a292f": 1,
   "z40b275ba": 1,
   "zd56839ff": 1,
-  "zd6f52d54": 1
+  "zd6f52d54": 1,
+  "z64db69a9": 2,
+  "ze8d77777": 2,
+  "ze4fb275e": 1,
+  "z21271c4d": 1,
+  "z7081b6d8": 1,
+  "z821e98b7": 2,
+  "z18f80927": 1,
+  "z04de324a": 1,
+  "zb7fd1db3": 1,
+  "zbe85be31": 1,
+  "zf76ae2c7": 1,
+  "z75de3eda": 1,
+  "z9f61ec5d": 1,
+  "ze2e40582": 1,
+  "z93f80d58": 1,
+  "z8f54e384": 1,
+  "ze5c579a2": 1,
+  "z08331905": 2,
+  "z0d3a3870": 1,
+  "zf22e104c": 1,
+  "z650c4752": 1,
+  "z6b3bf332": 1,
+  "za6ca73ac": 1,
+  "z65395007": 1,
+  "z475bee08": 1,
+  "zf4af920d": 1,
+  "z4330dca6": 1,
+  "ze5bdc633": 1,
+  "z6f2a1694": 1,
+  "z2c220d0e": 1,
+  "zd097c0dc": 1,
+  "zddd80984": 1,
+  "z17bb373f": 1,
+  "zba1b3d14": 1,
+  "z5c4ed802": 1,
+  "ze6633eae": 1,
+  "zcc80c457": 1,
+  "z4d1c1044": 1,
+  "z71a934df": 1
  },
  "video": {},
  "pillole": []
