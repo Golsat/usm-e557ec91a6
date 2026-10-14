@@ -3,6 +3,1037 @@ window.EDIZIONI["2026-10-14-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zf8e97e24",
+   "sez": "musica",
+   "titolo": "I Red Hot Chili Peppers negano la tappa in Argentina nel 2027",
+   "orig": "Red Hot Chili Peppers desmiente su visita a Argentina en 2027",
+   "lead": "La band californiana Red Hot Chili Peppers ha smentito la notizia di una tappa in Argentina nel 2027, dopo che l'annuncio era già stato definito \"totalmente falso\" dal produttore José Palazzo. Resta da chiarire se il festival a cui l'annuncio si riferiva andrà comunque avanti e, in caso affermativo, con quale programmazione e a quali condizioni verranno messi in vendita i biglietti. Lo riferisce Opinión (Bolivia).",
+   "more": [
+    "I Red Hot Chili Peppers sono una storica band rock statunitense di Los Angeles, attiva dagli anni Ottanta e nota per la fusione di rock, funk e punk, con numerosi tour internazionali e un grande seguito in America Latina."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cultura/red-hot-chili-peppers-desmiente-visita-argentina-2027/20261014140353997616.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-14T14:03-04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd099f106",
+   "sez": "cultura",
+   "titolo": "La Diablada di Arica riconosce Oruro come culla della danza boliviana",
+   "orig": "Diabladas de Arica reconocen a Oruro como cuna de esta danza boliviana",
+   "lead": "Eduardo Rodríguez, membro della Diablada Corazón de Arica, ha affermato che il riconoscimento di Oruro, in Bolivia, come luogo di origine della diablada è sempre stato condiviso tra i componenti del gruppo cileno. La dichiarazione arriva in un contesto di dibattito regionale sull'origine di questa tradizionale danza andina, praticata sia in Bolivia che nel nord del Cile, e sottolinea il legame culturale tra le comunità delle due aree. Lo riferisce Opinión (Bolivia).",
+   "more": [
+    "La diablada è una danza folcloristica andina associata al Carnevale di Oruro, in Bolivia, patrimonio dell'umanità UNESCO, diffusa anche nelle regioni del nord del Cile per via della vicinanza geografica e degli scambi culturali tra le comunità di confine."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cultura/diabladas-arica-reconocen-oruro-como-cuna-danza-boliviana/20261014135331997615.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-14T13:53-04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "za51a136b",
+   "sez": "cultura",
+   "titolo": "Il Balletto di San Pietroburgo porta \"La bella addormentata\" a Cochabamba",
+   "orig": "El Ballet de San Petersburgo presenta “La Bella Durmiente” en Cochabamba",
+   "lead": "Il Balletto di San Pietroburgo presenta \"La bella addormentata\" a Cochabamba, in Bolivia. L'opera, descritta come una delle vette del repertorio classico del XIX secolo, unisce la fastosità della corte imperiale russa a una complessa partitura sinfonica di Tchaikovsky. Lo riferisce Opinión (Bolivia).",
+   "more": [
+    "\"La bella addormentata\" è un balletto classico composto da Pyotr Ilyich Tchaikovsky, ispirato alla fiaba omonima, considerato tra i capolavori del repertorio romantico russo per la ricchezza musicale e coreografica."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cultura/ballet-san-petersburgo-presenta-bella-durmiente-cochabamba/20261014134408997613.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-14T13:44-04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z736a698f",
+   "sez": "mondo",
+   "titolo": "Potosí prevede di inaugurare l'aeroporto internazionale con un volo il 10 novembre",
+   "orig": "Potosí prevé estrenar su aeropuerto internacional con un vuelo inaugural el 10 de noviembre",
+   "lead": "Il governo boliviano e la Governazione di Potosí lavorano per riabilitare la vecchia terminal del Capitán Rojas in vista di un volo inaugurale previsto per il 10 novembre, data dell'effemeride departamentale. L'obiettivo è rendere operativo l'aeroporto internazionale della città nel giorno della ricorrenza regionale. Lo riferisce Opinión (Bolivia).",
+   "more": [
+    "Potosí è una città boliviana di origine coloniale, storicamente celebre per le miniere d'argento del Cerro Rico, che fecero di essa uno dei centri economici più importanti dell'impero spagnolo in Sud America."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/potosi-preve-estrenar-aeropuerto-internacional-vuelo-inaugural-10-noviembre/20261014132847997609.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-14T13:28-04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3e79bc09",
+   "sez": "mondo",
+   "titolo": "Ávila conferma che Rodrigo Paz ha suggerito Urioste per la Procura interina",
+   "orig": "Ávila admite que Rodrigo Paz sugirió a Urioste para la Fiscalía interina",
+   "lead": "Il presidente del Senato boliviano, Ávila, ha ammesso di aver consultato il presidente Rodrigo Paz dopo il blocco della votazione in Assemblea per la nomina del procuratore interino, negando qualsiasi conflitto di interessi legato al suggerimento del nome di Urioste. Quest'ultimo ha attribuito la presentazione del proprio curriculum all'iniziativa di un amico imprenditore, senza ammettere un coinvolgimento diretto nella candidatura promossa dalle alte sfere politiche. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/avila-admite-que-rodrigo-paz-sugirio-urioste-fiscalia-interina/20261014130801997608.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-14T13:08-04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "za423d74b",
+   "sez": "economia",
+   "titolo": "L'accordo tra Televisa e AT&T Messico rafforza la sfida ad América Móvil",
+   "orig": "Televisa’s AT&T Mexico deal boosts its challenge to America Movil",
+   "lead": "Televisa ha siglato un accordo con AT&T Messico che rafforza la sua posizione competitiva nei confronti di América Móvil, il gigante delle telecomunicazioni messicane. L'intesa punta a potenziare la presenza del gruppo televisivo nel mercato delle comunicazioni del Paese. Lo riferisce CNA.",
+   "more": [
+    "Televisa è il principale gruppo mediatico messicano, mentre América Móvil, controllata dalla famiglia Slim, è uno dei maggiori operatori di telecomunicazioni dell'America Latina; AT&T Messico è la filiale locale del colosso statunitense delle telecomunicazioni."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/televisas-att-mexico-deal-boosts-its-challenge-america-movil-6459996",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T00:05+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z299a7619",
+   "sez": "mondo",
+   "titolo": "In Francia 7.950 persone fermate dall'inizio delle proteste studentesche a fine settembre",
+   "orig": "Durante le proteste studentesche cominciate in Francia a fine settembre sono state fermate 7.950 persone",
+   "lead": "Dall'inizio delle manifestazioni studentesche in Francia, iniziate a fine settembre, sono state fermate 7.950 persone, secondo quanto riportato da Il Post. Il dato segnala l'ampiezza delle proteste in corso nel Paese, che proseguono da diverse settimane. Lo riferisce Il Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/14/proteste-studenti-francia-7-950-arresti/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T17:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z24ca7a03",
+   "sez": "economia",
+   "titolo": "Lufthansa promette una scuola di piloti a Tancos per il futuro della TAP",
+   "orig": "18h TAP: Lufthansa promete escola de pilotos em Tancos",
+   "lead": "Lufthansa ha promesso l'apertura di una scuola di piloti a Tancos, in Portogallo, nell'ambito delle trattative riguardanti il futuro della compagnia aerea TAP. L'annuncio arriva mentre si discute il possibile coinvolgimento del gruppo tedesco nella compagnia portoghese. Lo riferisce RTP.",
+   "more": [
+    "Tancos è una località portoghese nota per una base aerea militare; Lufthansa è il principale gruppo aereo tedesco, tra i maggiori vettori europei, spesso coinvolto in trattative per partecipazioni in altre compagnie aeree, tra cui la portoghese TAP."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/18h-tap-lufthansa-promete-escola-de-pilotos-em-tancos_a1_1771696",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zacc6bf96",
+   "sez": "mondo",
+   "titolo": "Dubbi sul curriculum mettono sotto pressione la nuova portavoce di Trump",
+   "orig": "Zweifel an Lebenslauf: Neue Trump-Sprecherin unter Druck",
+   "lead": "La nuova portavoce della Casa Bianca nominata dall'amministrazione Trump è sotto pressione per dubbi sollevati riguardo al proprio curriculum professionale. La vicenda sta generando polemiche negli Stati Uniti sulla credibilità delle informazioni fornite dalla funzionaria. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445096/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T19:43+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbb3ddbff",
+   "sez": "mondo",
+   "titolo": "Dai gendarmi ai pasti: come viene gestita la sicurezza del Papa in ospedale",
+   "orig": "FOCUS | Dai gendarmi ai pasti, la sicurezza per il Papa in ospedale",
+   "lead": "ANSA ricostruisce le misure di sicurezza adottate per il Papa durante il ricovero in ospedale, dal ruolo dei gendarmi vaticani al controllo dei pasti. Il focus descrive l'articolato dispositivo predisposto per garantire la protezione del pontefice durante la degenza. Lo riferisce ANSA.",
+   "more": [
+    "La sicurezza del Papa è affidata alla Gendarmeria vaticana, corpo di polizia dello Stato della Città del Vaticano, che collabora con le forze dell'ordine quando il pontefice si trova in strutture ospedaliere esterne."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/14/focus-dai-gendarmi-ai-pasti-la-sicurezza-per-il-papa-in-ospedale_acb75090-ae2a-493a-84ff-7fda54ea0fb0.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T19:50+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6c6f5560",
+   "sez": "mondo",
+   "titolo": "Il Partito Democratico coreano conferma l'idoneità di Kim Ji-yong, rapporto d'udienza il 15",
+   "orig": "민주, 김지용 ‘적격’ 의견...15일 청문보고서 채택한다",
+   "lead": "Il Partito Democratico coreano ha espresso un parere di \"idoneità\" per Kim Ji-yong, candidato a capo della nuova agenzia investigativa speciale, e prevede di adottare il rapporto dell'audizione parlamentare il 15 ottobre. La decisione arriva nonostante le polemiche sollevate sulla sua candidatura. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/politics/politics_general/1282449.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z07b89e70",
+   "sez": "sport",
+   "titolo": "Il manager dell'LG: \"Vittoria grazie alla presa super di Park Hae-min, nei semi-PO serve Do-young\"",
+   "orig": "[승장패장] 염경엽 LG 감독 \"박해민 슈퍼캐치 덕분…준PO는 도영이 막아야\"",
+   "lead": "Dopo la vittoria nello spareggio wild card, il manager dell'LG Yeom Kyung-yeop ha attribuito il successo a una presa decisiva di Park Hae-min, sottolineando che nei prossimi turni di semifinale playoff sarà fondamentale il contributo di Do-young. Le dichiarazioni arrivano a margine della qualificazione della squadra al turno successivo del campionato coreano di baseball. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Il campionato coreano di baseball (KBO) prevede un sistema di playoff in cui le squadre classificate ai posti inferiori si affrontano in uno spareggio wild card per accedere ai turni successivi della postseason."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/sports/baseball/1282447.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6ee063bc",
+   "sez": "sport",
+   "titolo": "L'LG conferma l'accesso ai semi-PO battendo il Doosan nello spareggio wild card",
+   "orig": "LG, 와일드카드 결정전서 두산 꺾고 준PO행 확정",
+   "lead": "L'LG ha battuto il Doosan nello spareggio decisivo wild card del campionato coreano di baseball, assicurandosi così l'accesso al turno di semifinale dei playoff. La vittoria consolida il percorso della squadra nella fase finale della stagione. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Il campionato coreano di baseball (KBO) prevede un sistema di playoff in cui le squadre classificate ai posti inferiori si affrontano in uno spareggio wild card per accedere ai turni successivi della postseason."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/sports/baseball/1282444.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze12c0d34",
+   "sez": "mondo",
+   "titolo": "Il TVK si unisce alla protesta del blocco INDIA contro la CEC a Chennai, mentre si allarga la frattura Congress-DMK",
+   "orig": "TVK to join INDIA bloc's anti-CEC protest in Chennai as Congress-DMK rift deepens",
+   "lead": "Il partito TVK si unirà alla protesta organizzata dal blocco INDIA contro la Commissione elettorale centrale (CEC) a Chennai, mentre si approfondisce la frattura tra Congress e DMK all'interno della coalizione. L'episodio evidenzia tensioni interne al fronte di opposizione indiano. Lo riferisce Times of India.",
+   "more": [
+    "Il blocco INDIA è una coalizione di partiti di opposizione indiani formata per contrastare il partito di governo BJP; il TVK è un partito politico tamil, mentre DMK e Congress sono tra i principali alleati della coalizione nello Stato del Tamil Nadu."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/tvk-to-join-india-blocs-anti-cec-protest-in-chennai-as-congress-dmk-rift-deepens/articleshow/134947578.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T22:41+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze8d5604e",
+   "sez": "mondo",
+   "titolo": "Il governatore dell'Odisha sotto accusa per la frase \"lavorerò per il BJP\"",
+   "orig": "'Shocked': Odisha governor's 'will work for BJP' remark sparks political row",
+   "lead": "La dichiarazione del governatore dell'Odisha, secondo cui \"lavorerà per il BJP\", ha scatenato una polemica politica, con reazioni di shock da parte degli oppositori. L'episodio solleva interrogativi sull'imparzialità istituzionale attesa da una carica come quella di governatore in India. Lo riferisce Times of India.",
+   "more": [
+    "In India il governatore di uno Stato è una figura nominata dal governo centrale con compiti formalmente non partisan, spesso al centro di polemiche quando le sue dichiarazioni vengono percepite come schierate a favore del partito al potere, il BJP."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/shocked-odisha-governors-will-work-for-bjp-remark-sparks-political-row/articleshow/134948925.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T23:31+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z033ef229",
+   "sez": "economia",
+   "titolo": "Gli USA necessitano di 1,7 milioni di lavoratori qualificati l'anno, ma la guerra dei visti di Trump rischia di causare carenze",
+   "orig": "US needs 1.7m skilled workers a year, but Trump's visa war risks talent crunch",
+   "lead": "Gli Stati Uniti avrebbero bisogno di 1,7 milioni di lavoratori qualificati ogni anno, ma le politiche restrittive sui visti dell'amministrazione Trump rischiano di provocare una carenza di talenti nel Paese. La questione riguarda settori che dipendono fortemente da manodopera straniera specializzata. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/us/us-needs-1-7-million-skilled-workers-a-year-but-trumps-visa-crackdown-could-leave-industries-short/articleshow/134948284.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T23:18+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf88426cf",
+   "sez": "mondo",
+   "titolo": "Il Consiglio per gli Affari con la Cina critica le sanzioni di Pechino come ingerenza elettorale",
+   "orig": "MAC criticizes China’s sanctions aiming at election interference",
+   "lead": "Il Mainland Affairs Council (MAC) di Taiwan ha criticato le sanzioni imposte dalla Cina, definendole un tentativo di interferire nelle elezioni taiwanesi. L'organismo governativo ha denunciato la mossa come parte di pressioni politiche di Pechino sull'isola. Lo riferisce Taipei Times.",
+   "more": [
+    "Il Mainland Affairs Council è l'organo del governo di Taiwan responsabile delle politiche verso la Cina continentale; le tensioni tra le due sponde dello Stretto si intensificano periodicamente, con Pechino che impone sanzioni come leva di pressione su Taipei."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/15/2003865986",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcbccb8e3",
+   "sez": "economia",
+   "titolo": "Avanzano i colloqui tra Taiwan e Alaska su un accordo per il gas naturale liquefatto",
+   "orig": "Talks on Taiwan-Alaska LNG deal advance",
+   "lead": "Le trattative per un accordo tra Taiwan e l'Alaska riguardante il gas naturale liquefatto (LNG) stanno procedendo, secondo quanto riportato da Taipei Times. L'intesa rientra nelle strategie di diversificazione energetica dell'isola. Lo riferisce Taipei Times.",
+   "more": [
+    "L'LNG, gas naturale liquefatto, è una fonte energetica strategica per Taiwan, che dipende fortemente dalle importazioni; accordi con fornitori come l'Alaska, Stato statunitense ricco di riserve di gas, rientrano negli sforzi per diversificare le fonti di approvvigionamento."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/15/2003865987",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf9753447",
+   "sez": "mondo",
+   "titolo": "Le proposte per nuovi aeroporti a Taiwan richiedono cautela, avvertono i funzionari",
+   "orig": "Airport proposals need care, officials say",
+   "lead": "Funzionari taiwanesi hanno avvertito che le proposte relative a nuovi progetti aeroportuali nel Paese necessitano di un'attenta valutazione. L'avviso riguarda la pianificazione di infrastrutture aeroportuali sull'isola. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/15/2003865989",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z96e724b5",
+   "sez": "mondo",
+   "titolo": "Un ministro taiwanese avverte l'UE sulla dipendenza dalla Cina",
+   "orig": "Minister warns EU over dependence on China",
+   "lead": "Un ministro di Taiwan ha lanciato un avvertimento all'Unione Europea riguardo ai rischi della dipendenza economica dalla Cina. L'intervento si inserisce nel dibattito più ampio sulle relazioni economiche tra Europa e Pechino. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/15/2003865997",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfc4600a1",
+   "sez": "mondo",
+   "titolo": "Un ex funzionario americano elogia la trasformazione delle esercitazioni militari di Taiwan",
+   "orig": "Former US official praises Taiwan’s drills transformation",
+   "lead": "Un ex funzionario statunitense ha elogiato i progressi compiuti da Taiwan nella trasformazione delle proprie esercitazioni militari. Il commento sottolinea un miglioramento nella preparazione delle forze armate taiwanesi. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/15/2003865998",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z391cf66d",
+   "sez": "salute",
+   "titolo": "L'Associazione medica mondiale si impegna a sostenere la candidatura di Taiwan all'OMS",
+   "orig": "World Medical Association pledges to support Taiwan’s WHO bid",
+   "lead": "La World Medical Association ha promesso il proprio sostegno alla candidatura di Taiwan per partecipare all'Organizzazione mondiale della sanità (OMS). L'impegno arriva in un contesto di continua esclusione dell'isola dagli organismi sanitari internazionali. Lo riferisce Taipei Times.",
+   "more": [
+    "La World Medical Association è un'organizzazione internazionale che riunisce associazioni medico-professionali di diversi Paesi; Taiwan è esclusa dall'Organizzazione mondiale della sanità a causa della pressione diplomatica della Cina, che ne contesta la partecipazione come Stato indipendente."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/15/2003865999",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "za7b219f3",
+   "sez": "mondo",
+   "titolo": "Ad Dubai apre la 31ª edizione di Global Village",
+   "orig": "Global Village Dubai Season 31 opening in pictures",
+   "lead": "A Dubai ha aperto la trentunesima stagione di Global Village, il parco a tema multiculturale che ogni anno riunisce padiglioni di decine di paesi con cibo, artigianato e spettacoli. Le immagini dell'apertura mostrano le nuove attrazioni e le aree tematiche preparate per i visitatori nella stagione 2026. Lo riferisce Gulf News.",
+   "more": [
+    "Global Village è un parco stagionale di Dubai aperto nei mesi invernali, che ospita padiglioni dedicati a culture e cucine di tutto il mondo, mercatini, concerti e luna park, diventando una delle maggiori attrazioni turistiche degli Emirati."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/global-village-dubai-season-31-opening-in-pictures-1.500710744",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-14T20:05+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2ff86116",
+   "sez": "economia",
+   "titolo": "Toyota lancia nelle Filippine la versione jeepney del Tamaraw",
+   "orig": "Toyota rolls out jeepney version of Tamaraw in Philippines",
+   "lead": "Toyota ha presentato nelle Filippine una versione in stile jeepney del suo veicolo Tamaraw, adattando il modello alle esigenze del trasporto pubblico locale. Il jeepney è il tradizionale minibus colorato filippino, e l'iniziativa punta a modernizzare questo mezzo di trasporto diffuso nel paese. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Il jeepney è un mezzo di trasporto pubblico tipico delle Filippine, derivato dalle jeep militari americane e trasformato in minibus colorati usati per decenni nelle città filippine come principale forma di trasporto urbano economico."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/automobiles/toyota-rolls-out-jeepney-version-of-tamaraw-in-philippines",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zce38ab71",
+   "sez": "economia",
+   "titolo": "Le IPO di Hong Kong verso un 2026 record, ma il ritmo frena",
+   "orig": "Hong Kong IPOs on track for record 2026, but momentum slows",
+   "lead": "Il mercato delle offerte pubbliche iniziali di Hong Kong è sulla strada per un 2026 da record, ma secondo Nikkei Asia il ritmo delle nuove quotazioni sta rallentando nelle ultime settimane. La piazza finanziaria resta tra le più attive al mondo per le IPO nonostante il calo di slancio recente. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Le IPO (initial public offering) sono le prime vendite di azioni di una società al pubblico in borsa. Hong Kong è una delle principali piazze finanziarie asiatiche, spesso scelta da grandi aziende cinesi per quotarsi sui mercati internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/markets/ipo/hong-kong-ipos-on-track-for-record-2026-but-momentum-slows",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z51606c36",
+   "sez": "mondo",
+   "titolo": "Giappone valuta sottomarini a propulsione nucleare nella revisione della sicurezza",
+   "orig": "Japan weighs considering nuclear-powered subs in updated security policies",
+   "lead": "Il Giappone sta considerando l'introduzione di sottomarini a propulsione nucleare come parte dell'aggiornamento delle proprie politiche di sicurezza nazionale. La valutazione rientra in una più ampia revisione della strategia di difesa giapponese. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Il Giappone ha storicamente mantenuto una politica di difesa limitata dopo la Seconda guerra mondiale, ma negli ultimi anni ha progressivamente rafforzato le proprie capacità militari in risposta alle tensioni regionali con Cina, Russia e Corea del Nord."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/politics/defense/japan-weighs-considering-nuclear-powered-subs-in-updated-security-policies",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1ff80d2a",
+   "sez": "economia",
+   "titolo": "I ministri finanziari del G20 rinunciano alla dichiarazione congiunta, Bessent assente",
+   "orig": "G20 finance chiefs to forgo joint statement as Bessent skips meeting",
+   "lead": "I ministri delle finanze del G20 non emetteranno una dichiarazione congiunta al termine dei loro lavori, mentre il segretario al Tesoro statunitense Bessent ha saltato la riunione. L'assenza americana e la mancanza di accordo comune segnalano divisioni tra i grandi paesi del gruppo. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Il G20 riunisce i ministri finanziari delle maggiori economie mondiali per coordinare politiche su crescita, debito e stabilità finanziaria globale; l'assenza di una dichiarazione congiunta indica solitamente disaccordi tra i membri su temi chiave."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/politics/international-relations/g20-finance-chiefs-to-forgo-joint-statement-as-bessent-skips-meeting",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z375aa922",
+   "sez": "economia",
+   "titolo": "Uber Eats consolida la leadership in Giappone, punta a 5 anni in utile",
+   "orig": "Uber Eats cements Japan market lead, eyeing 5 years in the black",
+   "lead": "Uber Eats ha rafforzato la propria posizione di leader nel mercato della consegna cibo in Giappone e punta ora a mantenere i profitti per cinque anni consecutivi. L'azienda continua a investire nel mercato giapponese nonostante la concorrenza locale. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Uber Eats è il servizio di consegna di cibo a domicilio della società statunitense Uber, operativo in decine di paesi e in forte competizione in Asia con piattaforme locali specializzate nella consegna rapida."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/food-beverage/uber-eats-cements-japan-market-lead-eyeing-5-years-in-the-black",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7a9cd1d2",
+   "sez": "economia",
+   "titolo": "Gli attivi bancari dell'Uzbekistan crescono del 18,8% a 86,46 miliardi di dollari",
+   "orig": "Uzbekistan’s banking assets rise 18.8% to $86.46B",
+   "lead": "Gli attivi del sistema bancario uzbeko sono aumentati del 18,8%, raggiungendo 86,46 miliardi di dollari, secondo i dati riportati da Trend. La crescita indica un'espansione sostenuta del settore finanziario del paese centroasiatico. Lo riferisce Trend.",
+   "more": [
+    "L'Uzbekistan è una repubblica dell'Asia centrale che negli ultimi anni ha intrapreso riforme economiche e di liberalizzazione finanziaria, puntando ad attrarre investimenti stranieri e a modernizzare il proprio settore bancario."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4234737.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-14T21:15+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z37ccbc96",
+   "sez": "mondo",
+   "titolo": "Il presidente Aliyev incontra il presidente dell'Uzbekistan",
+   "orig": "President Ilham Aliyev meets with President of Uzbekistan (PHOTO)",
+   "lead": "Il presidente azerbaigiano Ilham Aliyev ha incontrato il presidente dell'Uzbekistan, come documentato da una serie di fotografie diffuse da Trend. L'incontro si inserisce nei rapporti bilaterali tra i due paesi dell'Asia centrale e del Caucaso. Lo riferisce Trend.",
+   "more": [
+    "Azerbaigian e Uzbekistan sono due repubbliche ex sovietiche che mantengono relazioni diplomatiche ed economiche strette, con frequenti visite ufficiali tra i rispettivi leader per rafforzare la cooperazione regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/politics/4234902.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-14T20:55+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z552266a3",
+   "sez": "mondo",
+   "titolo": "Protesta al CUET: il rettore nega le dimissioni, docenti e studenti continuano la mobilitazione",
+   "orig": "CUET VC says he has not resigned; teachers and students vow to continue protest",
+   "lead": "Il vicerettore della Chittagong University of Engineering and Technology (CUET) ha dichiarato di non aver rassegnato le dimissioni, nonostante le voci diffuse. Docenti e studenti hanno promesso di continuare la protesta in corso nell'università. Lo riferisce Prothom Alo.",
+   "more": [
+    "Il CUET è una delle principali università tecniche del Bangladesh, con sede a Chittagong, che forma ingegneri e tecnici; le proteste accademiche nel paese spesso riguardano questioni di governance interna e gestione degli istituti."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/local-news/k0bfhyz6cj",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-14T16:11+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a7dc3d2",
+   "sez": "mondo",
+   "titolo": "Alle Maldive apriranno 14 nuove moschee per il Ramadan",
+   "orig": "Shaheem: 14 new mosques to be opened across Maldives for Ramadan",
+   "lead": "Il ministro Shaheem ha annunciato che alle Maldive saranno aperte 14 nuove moschee in vista del mese sacro del Ramadan. L'iniziativa punta ad ampliare gli spazi di preghiera disponibili nell'arcipelago in occasione della festività islamica. Lo riferisce Sun Online.",
+   "more": [
+    "Le Maldive sono un arcipelago a maggioranza musulmana nell'Oceano Indiano; il Ramadan è il mese sacro dell'Islam dedicato al digiuno e alla preghiera, durante il quale aumenta la frequentazione delle moschee."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109548",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T22:20+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfd9d0248",
+   "sez": "ambiente",
+   "titolo": "Alle Maldive registrata la temperatura marina più alta del 2026 a settembre",
+   "orig": "Met: Highest sea temp in 2026 recorded in Sept, effects of El Niño to be strongest in December",
+   "lead": "L'agenzia meteorologica maldiviana ha registrato a settembre la temperatura del mare più alta dell'anno 2026, mentre gli effetti del fenomeno El Niño sono previsti più intensi a dicembre. Il dato segnala un riscaldamento marino significativo nell'arcipelago. Lo riferisce Sun Online.",
+   "more": [
+    "El Niño è un fenomeno climatico ciclico legato al riscaldamento delle acque superficiali del Pacifico tropicale, che altera modelli meteorologici globali e può intensificare il riscaldamento degli oceani in diverse regioni, incluse le Maldive."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109547",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T21:47+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5b86c4bf",
+   "sez": "salute",
+   "titolo": "L'HPA lancia un'iniziativa per valutare la consapevolezza pubblica sull'HIV",
+   "orig": "HPA launches initiative to assess public awareness regarding HIV",
+   "lead": "L'Health Protection Agency delle Maldive ha lanciato un'iniziativa per misurare il livello di consapevolezza della popolazione riguardo all'HIV. Il progetto mira a raccogliere dati utili a orientare future campagne di prevenzione e informazione sanitaria. Lo riferisce Sun Online.",
+   "more": [
+    "L'HIV è il virus dell'immunodeficienza umana che causa l'AIDS; la consapevolezza pubblica sulla trasmissione e prevenzione della malattia è considerata fondamentale dalle autorità sanitarie per contenere la diffusione dell'infezione."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109546",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T21:10+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "za441df20",
+   "sez": "economia",
+   "titolo": "Le imprese sociali africane cercheranno finanziamenti tramite un fondo da 4,14 miliardi di scellini",
+   "orig": "African Social Enterprises to Seek Funding Through Shs4.14Bn Fund",
+   "lead": "Imprese sociali africane avranno accesso a un fondo di finanziamento da 4,14 miliardi di scellini ugandesi, secondo quanto riportato da Nile Post. L'iniziativa è destinata a sostenere progetti a impatto sociale nel continente. Lo riferisce Nile Post.",
+   "more": [
+    "Le imprese sociali sono organizzazioni che combinano obiettivi commerciali con finalità di impatto sociale o ambientale, spesso sostenute da fondi dedicati per favorirne la crescita in contesti con accesso limitato al credito tradizionale."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/business/378481/african-social-enterprises-to-seek-funding-through-shs414bn-fund",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-14T21:10+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z39a4fd86",
+   "sez": "sport",
+   "titolo": "Il capo della Red Bull F1 Mekies rinnova il contratto fino al 2031",
+   "orig": "Red Bull F1 boss Mekies gets new deal to 2031",
+   "lead": "Laurent Mekies, a capo del team Red Bull in Formula 1, ha ottenuto un nuovo contratto che lo lega alla scuderia fino al 2031. L'accordo garantisce continuità alla guida del team per i prossimi anni. Lo riferisce Nile Post.",
+   "more": [
+    "La Red Bull Racing è una delle scuderie di punta della Formula 1, campione del mondo in diverse stagioni recenti; la stabilità della dirigenza tecnica e manageriale è considerata un fattore chiave per i risultati sportivi."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/sports/378475/red-bull-f1-boss-mekies-gets-new-deal-to-2031",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-14T21:08+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc9037668",
+   "sez": "mondo",
+   "titolo": "Elezioni regionali e comunali in Perù: risultati ufficiali ONPE per Huánuco",
+   "orig": "Elecciones Regionales y Municipales 2026: resultados oficiales de ONPE en la región de Huánuco",
+   "lead": "L'Ufficio Nazionale dei Processi Elettorali (ONPE) ha diffuso i risultati ufficiali delle elezioni regionali e comunali 2026 per la regione di Huánuco, in Perù. Il voto rientra nel ciclo elettorale locale che interessa tutto il paese. Lo riferisce El Comercio.",
+   "more": [
+    "L'ONPE è l'organismo elettorale peruviano responsabile dell'organizzazione e dello scrutinio delle votazioni nel paese; le elezioni regionali e municipali rinnovano periodicamente i governi locali del Perù."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/elecciones/elecciones-regionales-y-municipales-2026-resultados-oficiales-de-onpe-en-la-region-de-huanuco-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-14T18:15+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/elecciones/elecciones-regionales-y-municipales-2026-resultados-oficiales-de-onpe-en-la-region-de-ayacucho-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-14T18:15+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6c8efd4a",
+   "sez": "ambiente",
+   "titolo": "In Paraguay evacuate oltre 600 famiglie per le inondazioni dopo la piena del fiume Paraná",
+   "orig": "Evacuan a más de 600 familias paraguayas por inundaciones tras la crecida del río Paraná",
+   "lead": "Più di 600 famiglie paraguaiane sono state evacuate a causa delle inondazioni provocate dalla crescita del livello del fiume Paraná. L'emergenza ha colpito diverse comunità lungo il corso del fiume, costringendo le autorità a intervenire con operazioni di evacuazione. Lo riferisce ABC Color.",
+   "more": [
+    "Il Paraná è uno dei maggiori fiumi del Sud America, che attraversa Brasile, Paraguay e Argentina; le sue piene stagionali possono causare gravi inondazioni nelle comunità rivierasche, rendendo necessarie evacuazioni periodiche."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/14/evacuan-a-mas-de-600-familias-paraguayas-por-inundaciones-tras-la-crecida-del-rio-parana/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-14T18:15+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze98b436d",
+   "sez": "mondo",
+   "titolo": "A Mauritius pattuglie aeree della polizia con l'elicottero Dhruv avvistato a Camp-Levieux e Port-Louis",
+   "orig": "Patrouilles aériennes de la police : l’hélicoptère Dhruv aperçu à Camp-Levieux et à Port-Louis",
+   "lead": "La polizia di Mauritius ha intensificato le pattuglie aeree, con l'elicottero Dhruv avvistato sopra Camp-Levieux e Port-Louis. L'operazione fa parte di un rafforzamento della presenza delle forze dell'ordine nell'isola. Lo riferisce Defimedia.",
+   "more": [
+    "Il Dhruv è un elicottero multiruolo di produzione indiana utilizzato anche da forze di sicurezza e polizia in vari paesi per compiti di sorveglianza, pattugliamento e soccorso."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/patrouilles-aeriennes-de-la-police-lhelicoptere-dhruv-apercu-camp-levieux-et-port-louis",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T22:11+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a630f67",
+   "sez": "mondo",
+   "titolo": "La polizia di Mauritius mobilitata per far fronte a ogni eventualità",
+   "orig": "La police mobilisée pour parer à toute éventualité",
+   "lead": "Le forze di polizia di Mauritius sono state mobilitate per essere pronte a fronteggiare qualsiasi evenienza, secondo quanto riportato da Defimedia. La misura si inserisce in un contesto di rafforzamento della sicurezza sull'isola. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/la-police-mobilisee-pour-parer-toute-eventualite",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T21:52+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "za4ce6d96",
+   "sez": "mondo",
+   "titolo": "A Mauritius saccheggiati i supermercati SaveMax di Camp-Levieux e Bambous",
+   "orig": "SaveMax : les supermarchés de Camp-Levieux et de Bambous saccagés dans la nuit de mardi à mercredi",
+   "lead": "I supermercati SaveMax di Camp-Levieux e Bambous, a Mauritius, sono stati saccheggiati nella notte tra martedì e mercoledì. L'episodio si colloca in un contesto di tensione che ha portato al rafforzamento della presenza di polizia sull'isola. Lo riferisce Defimedia.",
+   "more": [
+    "Mauritius è un'isola dell'Oceano Indiano nota per la sua stabilità politica regionale; episodi di saccheggio e disordini in esercizi commerciali possono indicare tensioni sociali o di ordine pubblico in corso nel paese."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/savemax-les-supermarches-de-camp-levieux-et-de-bambous-saccages-dans-la-nuit-de-mardi-mercredi",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T21:50+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8a89e758",
+   "sez": "mondo",
+   "titolo": "Saccheggio al supermercato London Way di Mahébourg: la testimonianza di una guardia",
+   "orig": "Pillage au supermarché London Way à Mahébourg mardi soir : un vigile raconte",
+   "lead": "A Mahébourg, nell'isola di Mauritius, il supermercato London Way è stato preso d'assalto e saccheggiato nella serata di martedì. Una guardia di sicurezza presente sul posto ha raccontato i momenti del pillage, descrivendo come un gruppo di persone sia entrato nel punto vendita portando via merce in un clima di tensione che sta attraversando il paese in questi giorni. L'episodio si inserisce in un contesto di disordini che ha coinvolto diverse zone dell'isola, spingendo anche altre attività commerciali a valutare misure di sicurezza. Lo riferisce Defimedia.",
+   "more": [
+    "Mahébourg è una città costiera dell'isola di Mauritius, nell'Oceano Indiano, nota per il suo porto e il mercato locale. I saccheggi di negozi avvengono spesso durante periodi di tensione sociale o disordini pubblici, quando le forze dell'ordine faticano a garantire la sicurezza di tutte le aree colpite."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/pillage-au-supermarche-london-way-mahebourg-mardi-soir-un-vigile-raconte",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T21:40+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc2892872",
+   "sez": "economia",
+   "titolo": "Mauritius, Business Mauritius raccomanda la ripresa delle attività giovedì e venerdì con precauzioni",
+   "orig": "Travail : Business Mauritius recommande la poursuite des activités jeudi et vendredi, avec les aménagements nécessaires",
+   "lead": "L'associazione Business Mauritius ha raccomandato alle aziende di riprendere le attività giovedì e venerdì, adottando però gli accorgimenti necessari per garantire la sicurezza dei lavoratori. La proposta arriva in un contesto di tensione a Mauritius, dopo episodi di disordini come il saccheggio di un supermercato a Mahébourg avvenuto martedì sera. L'organizzazione imprenditoriale invita dunque le imprese a non interrompere la produzione, ma a valutare caso per caso le condizioni di sicurezza locali prima di riaprire gli esercizi commerciali e gli uffici. Lo riferisce Defimedia.",
+   "more": [
+    "Business Mauritius è l'organizzazione che rappresenta il settore privato dell'isola, con il compito di coordinare le posizioni delle imprese su temi economici e sociali, incluse le decisioni relative alla continuità operativa in situazioni di crisi o instabilità."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/travail-business-mauritius-recommande-la-poursuite-des-activites-jeudi-et-vendredi-avec-les",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T20:44+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
+   "id": "z832fbce7",
+   "sez": "mondo",
+   "titolo": "Come si comporta la faglia Azuero-Soná dopo il terremoto a Panama",
+   "orig": "¿Cómo se comporta la falla Azuero-Soná después del terremoto?",
+   "lead": "Panamá América ha esaminato il comportamento della faglia Azuero-Soná, nel sud di Panama, nei giorni successivi a un terremoto che ha colpito la regione. L'articolo analizza l'attività sismica registrata lungo questa struttura geologica, cercando di capire quali siano le dinamiche in corso dopo l'evento principale. La zona interessata comprende le penisole di Azuero e l'area di Soná, note per la presenza di questa faglia considerata tra le più attive del paese. Lo riferisce Panamá América.",
+   "more": [
+    "La faglia Azuero-Soná è una struttura geologica situata nel sud di Panama, ritenuta una delle più attive del paese centroamericano. Le faglie di questo tipo possono generare scosse di assestamento per giorni o settimane dopo un terremoto principale, man mano che le tensioni accumulate nella crosta terrestre si rilasciano gradualmente."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/como-se-comporta-la-falla-azuero-sona-despues-del-terremoto-1267489",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "21:24",
+   "uscita": "sera"
+  },
+  {
    "id": "z9eb4cbb7",
    "sez": "mondo",
    "titolo": "Burundi, l'economista Jean Ndenzako: trasformare le materie prime resta una sfida",
@@ -36977,7 +38008,51 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z47feee94": "La testata riporta l'analisi politica dell'esperto sulle cause della crisi istituzionale nel Paese.",
   "z64cb0cdf": "La testata riporta la posizione della procura che ha portato al rigetto della richiesta della difesa.",
   "zc7559672": "La testata evidenzia le misure amministrative adottate per rispondere alle conseguenze del terremoto.",
-  "za371b1e5": "La testata riporta l'iniziativa solidale del mondo imprenditoriale panamense dopo il sisma."
+  "za371b1e5": "La testata riporta l'iniziativa solidale del mondo imprenditoriale panamense dopo il sisma.",
+  "zf8e97e24": "La testata riporta la smentita della band dopo la circolazione di un annuncio non confermato.",
+  "zd099f106": "Focus sulla dichiarazione di un membro della diablada cilena che riconosce l'origine boliviana della danza.",
+  "za51a136b": "Annuncio dell'arrivo della compagnia russa in Bolivia.",
+  "z736a698f": "Enfasi sulla tempistica legata alla ricorrenza locale.",
+  "z3e79bc09": "La testata evidenzia la giustificazione di Ávila e la difesa di Urioste sul proprio curriculum.",
+  "za423d74b": "La testata inquadra l'accordo come rafforzamento competitivo contro il leader di mercato.",
+  "z299a7619": "Il dato sui fermi come indicatore dell'intensità delle proteste.",
+  "z24ca7a03": "Enfasi sull'impegno promesso da Lufthansa nella trattativa TAP.",
+  "zacc6bf96": "ORF riporta le contestazioni sulla veridicità del curriculum della portavoce.",
+  "zbb3ddbff": "ANSA approfondisce i dettagli organizzativi della protezione papale.",
+  "z6c6f5560": "Il partito di maggioranza sostiene la nomina nonostante le critiche sollevate.",
+  "z07b89e70": "Focus sulle dichiarazioni post-partita del manager vincitore.",
+  "z6ee063bc": "Cronaca della vittoria che decide la qualificazione.",
+  "ze12c0d34": "La testata sottolinea le crescenti tensioni interne alla coalizione.",
+  "ze8d5604e": "La testata riporta le reazioni indignate all'affermazione del governatore.",
+  "z033ef229": "La testata collega le restrizioni sui visti al rischio di carenza di competenze per l'economia statunitense.",
+  "zf88426cf": "Il MAC denuncia le sanzioni come ingerenza nelle elezioni.",
+  "zcbccb8e3": "La testata segnala l'avanzamento dei negoziati.",
+  "zf9753447": "I funzionari invitano alla cautela nella pianificazione.",
+  "z96e724b5": "Il ministro taiwanese richiama l'UE sui rischi geopolitici della dipendenza da Pechino.",
+  "zfc4600a1": "Elogio di un ex ufficiale statunitense alle riforme militari di Taiwan.",
+  "z391cf66d": "La testata mette in evidenza il sostegno internazionale alla candidatura taiwanese.",
+  "za7b219f3": "Gulf News documenta con un reportage fotografico l'apertura della nuova stagione del parco.",
+  "z2ff86116": "Nikkei Asia descrive la mossa di Toyota come un adattamento al mercato locale filippino.",
+  "zce38ab71": "Nikkei Asia segnala sia il traguardo record che il segnale di frenata nelle quotazioni.",
+  "z51606c36": "Nikkei Asia inquadra la notizia come parte dell'evoluzione della politica di sicurezza giapponese.",
+  "z1ff80d2a": "Nikkei Asia sottolinea l'assenza di Bessent come segnale di distanza statunitense dal processo multilaterale.",
+  "z375aa922": "Nikkei Asia evidenzia la crescita della quota di mercato e l'obiettivo di stabilità dei profitti.",
+  "z7a9cd1d2": "Trend riporta il dato come indicatore della solidità del settore bancario uzbeko.",
+  "z37ccbc96": "Trend documenta l'incontro con un servizio fotografico ufficiale.",
+  "z552266a3": "Prothom Alo riporta la versione del rettore contro quella di docenti e studenti in protesta.",
+  "z6a7dc3d2": "Sun Online riporta l'annuncio ministeriale come iniziativa religiosa in vista del Ramadan.",
+  "zfd9d0248": "Sun Online riporta il dato dell'agenzia meteorologica locale sul picco di temperatura marina.",
+  "z5b86c4bf": "Sun Online riporta l'iniziativa come misura di sanità pubblica preventiva.",
+  "za441df20": "Nile Post presenta l'iniziativa come opportunità di finanziamento per il settore sociale africano.",
+  "z39a4fd86": "Nile Post riporta il rinnovo come segnale di fiducia della scuderia verso il proprio dirigente.",
+  "zc9037668": "El Comercio pubblica i dati ufficiali diffusi dall'ente elettorale per la regione.",
+  "z6c8efd4a": "ABC Color documenta la portata dell'emergenza con il numero di famiglie evacuate.",
+  "ze98b436d": "Defimedia documenta l'avvistamento come segnale del rafforzamento della sicurezza nell'isola.",
+  "z6a630f67": "Defimedia riporta la mobilitazione della polizia senza entrare nel dettaglio delle cause specifiche.",
+  "za4ce6d96": "Defimedia riporta l'episodio come parte di un contesto più ampio di disordini sull'isola.",
+  "z8a89e758": "Defimedia riporta la testimonianza diretta di una guardia di sicurezza presente durante il saccheggio.",
+  "zc2892872": "Defimedia riporta la posizione dell'associazione imprenditoriale favorevole alla ripresa delle attività con cautela.",
+  "z832fbce7": "Panamá América si concentra sull'analisi tecnica del comportamento sismico post-terremoto nella regione."
  },
  "contesti": {
   "z7c42897d": "Il caro energia resta uno dei nodi principali dell'economia italiana ed europea dall'inizio della crisi energetica del 2022, aggravata dalla guerra in Ucraina. Nelle settimane scorse i governi UE hanno discusso misure comuni su prezzi e approvvigionamento, mentre il governo italiano ha ribadito la propria linea di sostegno a Kyiv in vista del Consiglio europeo del 15-16 ottobre.",
@@ -37255,7 +38330,11 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z63bdbc64": "Negli ultimi anni molti Stati membri dell'Unione Europea hanno accolto investimenti cinesi in infrastrutture strategiche, porti e tecnologie, favorendo una crescente dipendenza economica da Pechino. Le tensioni geopolitiche, le pratiche commerciali ritenute sleali e i timori per la sicurezza hanno spinto Bruxelles a rivedere questa apertura, preparando un vertice per definire una linea comune più rigida verso la Cina.",
   "zc7559672": "Panama è stata recentemente colpita da un forte terremoto che ha causato danni a infrastrutture pubbliche e sanitarie, mettendo sotto pressione il sistema di previdenza sociale del paese. Le autorità hanno iniziato a valutare i danni e a predisporre misure straordinarie per garantire la continuità dei servizi essenziali alla popolazione colpita dal sisma.",
   "z26f58f8b": "In Guinea il governo di transizione guidato da Mamadi Doumbouya affronta da tempo critiche sulla gestione amministrativa decentralizzata e sulle condizioni delle comunità rurali. Le autorità regionali, come quelle di Kankan, sono state più volte richiamate a maggiore responsabilità locale, mentre il potere centrale continua a essere accusato di scarsa presenza sul territorio.",
-  "z93455f9c": "Lo stadio Villa Ingenio, a El Alto, è da tempo al centro di una disputa tra il club Always Ready e il Comune locale sulla gestione e manutenzione dell'impianto, spesso utilizzato anche per eventi non sportivi, incluse manifestazioni politiche, che secondo il club ne hanno progressivamente danneggiato il terreno di gioco, alimentando tensioni tra le due parti."
+  "z93455f9c": "Lo stadio Villa Ingenio, a El Alto, è da tempo al centro di una disputa tra il club Always Ready e il Comune locale sulla gestione e manutenzione dell'impianto, spesso utilizzato anche per eventi non sportivi, incluse manifestazioni politiche, che secondo il club ne hanno progressivamente danneggiato il terreno di gioco, alimentando tensioni tra le due parti.",
+  "z3e79bc09": "Nei giorni scorsi l'Assemblea Legislativa boliviana non è riuscita a votare la nomina del procuratore generale interino, lasciando il processo bloccato e spingendo le autorità del Senato a consultare direttamente il presidente Rodrigo Paz sul nome da proporre.",
+  "z299a7619": "Le proteste studentesche in Francia sono iniziate a fine settembre, animate da contestazioni su riforme scolastiche e politiche del governo. Nelle settimane successive le manifestazioni si sono moltiplicate in diverse città, con blocchi di istituti e cortei spesso sfociati in tensioni con le forze dell'ordine, portando a un numero crescente di fermi che testimonia la portata della mobilitazione giovanile.",
+  "z6c8efd4a": "Nelle settimane scorse il fiume Paraná ha registrato un progressivo innalzamento del livello delle acque in Paraguay, dovuto a piogge intense e al deflusso dai bacini a monte. L'aumento della piena ha gradualmente sommerso aree costiere e comunità rivierasche, spingendo le autorità locali a monitorare la situazione e infine a disporre l'evacuazione di centinaia di famiglie dalle zone più esposte al rischio.",
+  "za4ce6d96": "Nei giorni precedenti Mauritius ha vissuto un clima di crescente tensione sociale, legato a malcontento economico e proteste che hanno coinvolto diverse località dell'isola. Le autorità avevano già rafforzato la presenza delle forze dell'ordine per contenere disordini sporadici, culminati nella notte tra martedì e mercoledì con il saccheggio di due punti vendita della catena SaveMax a Camp-Levieux e Bambous."
  },
  "cronologie": {
   "z7c42897d": [
@@ -40672,6 +41751,48 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "Ottobre 2026",
     "Scambio di accuse tra sindaco Roca e club"
+   ]
+  ],
+  "z299a7619": [
+   [
+    "Fine settembre",
+    "Avvio delle proteste studentesche in varie città francesi"
+   ],
+   [
+    "Primi di ottobre",
+    "Blocchi di scuole e primi scontri con la polizia"
+   ],
+   [
+    "Metà ottobre",
+    "Il numero di fermi sale a 7.950 dall'inizio della mobilitazione"
+   ]
+  ],
+  "z6c8efd4a": [
+   [
+    "Fine settembre",
+    "Inizio dell'innalzamento del livello del fiume Paraná"
+   ],
+   [
+    "Primi di ottobre",
+    "Allagamenti nelle comunità costiere"
+   ],
+   [
+    "Metà ottobre",
+    "Evacuazione di oltre 600 famiglie"
+   ]
+  ],
+  "za4ce6d96": [
+   [
+    "Giorni precedenti",
+    "Crescente tensione sociale e proteste sull'isola"
+   ],
+   [
+    "Inizio settimana",
+    "Rafforzamento della presenza di polizia"
+   ],
+   [
+    "Notte tra martedì e mercoledì",
+    "Saccheggio dei supermercati SaveMax"
    ]
   ]
  },
@@ -50376,6 +51497,306 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Panama"
    ],
    "pt": []
+  },
+  "zf8e97e24": {
+   "n": "Argentina",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zd099f106": {
+   "n": "Oruro",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "za51a136b": {
+   "n": "Cochabamba",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z736a698f": {
+   "n": "Potosí",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z3e79bc09": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "za423d74b": {
+   "n": "Città del Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "z299a7619": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z24ca7a03": {
+   "n": "Tancos",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zacc6bf96": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbb3ddbff": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z6c6f5560": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z07b89e70": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z6ee063bc": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "ze12c0d34": {
+   "n": "Chennai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "ze8d5604e": {
+   "n": "Odisha",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z033ef229": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf88426cf": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zcbccb8e3": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zf9753447": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z96e724b5": {
+   "n": "Unione Europea",
+   "p": [],
+   "pt": []
+  },
+  "zfc4600a1": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z391cf66d": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "za7b219f3": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z2ff86116": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zce38ab71": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z51606c36": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z1ff80d2a": {
+   "n": "non specificato",
+   "p": [],
+   "pt": []
+  },
+  "z375aa922": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z7a9cd1d2": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z37ccbc96": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z552266a3": {
+   "n": "Chittagong",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z6a7dc3d2": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zfd9d0248": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z5b86c4bf": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "za441df20": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z39a4fd86": {
+   "n": "non specificato",
+   "p": [],
+   "pt": []
+  },
+  "zc9037668": {
+   "n": "Huánuco",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z6c8efd4a": {
+   "n": "fiume Paraná",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "ze98b436d": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z6a630f67": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "za4ce6d96": {
+   "n": "Camp-Levieux e Bambous",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z8a89e758": {
+   "n": "Mahébourg",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "zc2892872": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z832fbce7": {
+   "n": "Azuero-Soná",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -51728,7 +53149,51 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z47feee94": 1,
   "z64cb0cdf": 1,
   "zc7559672": 2,
-  "za371b1e5": 1
+  "za371b1e5": 1,
+  "zf8e97e24": 1,
+  "zd099f106": 1,
+  "za51a136b": 1,
+  "z736a698f": 1,
+  "z3e79bc09": 1,
+  "za423d74b": 1,
+  "z299a7619": 2,
+  "z24ca7a03": 1,
+  "zacc6bf96": 1,
+  "zbb3ddbff": 1,
+  "z6c6f5560": 1,
+  "z07b89e70": 1,
+  "z6ee063bc": 1,
+  "ze12c0d34": 1,
+  "ze8d5604e": 1,
+  "z033ef229": 1,
+  "zf88426cf": 1,
+  "zcbccb8e3": 1,
+  "zf9753447": 1,
+  "z96e724b5": 1,
+  "zfc4600a1": 1,
+  "z391cf66d": 1,
+  "za7b219f3": 1,
+  "z2ff86116": 1,
+  "zce38ab71": 1,
+  "z51606c36": 1,
+  "z1ff80d2a": 1,
+  "z375aa922": 1,
+  "z7a9cd1d2": 1,
+  "z37ccbc96": 1,
+  "z552266a3": 1,
+  "z6a7dc3d2": 1,
+  "zfd9d0248": 1,
+  "z5b86c4bf": 1,
+  "za441df20": 1,
+  "z39a4fd86": 1,
+  "zc9037668": 1,
+  "z6c8efd4a": 2,
+  "ze98b436d": 1,
+  "z6a630f67": 1,
+  "za4ce6d96": 2,
+  "z8a89e758": 1,
+  "zc2892872": 1,
+  "z832fbce7": 1
  },
  "video": {},
  "pillole": []
