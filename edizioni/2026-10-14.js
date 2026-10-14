@@ -358,30 +358,6 @@ window.EDIZIONI["2026-10-14"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zc5c432b9",
-   "sez": "mondo",
-   "titolo": "Un giudice impedisce a Trump di escludere specifici media",
-   "orig": "Dommer forhindrer Trump i at udelukke specifikke medier",
-   "lead": "Un giudice statunitense ha bloccato un tentativo dell'amministrazione Trump di escludere specifiche testate giornalistiche da determinati eventi o accessi istituzionali. La decisione rappresenta un freno giudiziario alle politiche mediatiche del presidente. Lo riferisce DR Nyheder.",
-   "more": [
-    "Negli Stati Uniti, i tribunali federali svolgono un ruolo di controllo sulle decisioni dell'esecutivo riguardanti l'accesso dei media alle istituzioni, in base a principi costituzionali sulla libertà di stampa."
-   ],
-   "fonti": [
-    {
-     "n": "DR Nyheder",
-     "p": "XX",
-     "c": "Copenaghen",
-     "u": "https://www.dr.dk/nyheder/seneste/dommer-forhindrer-trump-i-udelukke-specifikke-medier",
-     "angolo": "",
-     "atlas": "Denmark",
-     "t": "2026-10-14T04:47+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "09:20",
-   "uscita": "mattino"
-  },
-  {
    "id": "zc215d568",
    "sez": "mondo",
    "titolo": "Consiglio di sicurezza ONU: la RDC ribadisce la richiesta di piena attuazione della risoluzione 2773 e del ritiro delle forze ruandesi",
@@ -1343,28 +1319,6 @@ window.EDIZIONI["2026-10-14"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z27f42df6",
-   "sez": "mondo",
-   "titolo": "Nuovi attacchi russi su Kiev, ucraini lamentano ancora l'assenza di preallarmi",
-   "orig": "Liveblog Ukrainekrieg: Angriffe auf Kiew: Ukrainer beklagen abermals fehlende Vorwarnung",
-   "lead": "Kiev è stata colpita da nuovi attacchi russi, e gli ucraini lamentano ancora una volta, come già il giorno precedente, la mancanza di preallarmi da parte degli alleati. Il presidente Zelensky è intervenuto sui bombardamenti sulla capitale, mentre in Germania sono scattati arresti legati all'attentato contro una stazione Starlink in Polonia. Lo riferisce FAZ.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "FAZ",
-     "p": "DE",
-     "c": "Francoforte",
-     "u": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-angriffe-auf-kiew-ukrainer-beklagen-abermals-fehlende-vorwarnung-faz-110683325.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-14T02:08+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "09:17",
-   "uscita": "mattino"
-  },
-  {
    "id": "z5072a311",
    "sez": "cultura",
    "titolo": "Cosa farne della villa del comandante di Auschwitz Rudolf Höß",
@@ -1844,7 +1798,7 @@ window.EDIZIONI["2026-10-14"] = {
   },
   {
    "id": "z801f3b03",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Steve Reich compie 90 anni: il compositore che ha cambiato la musica americana",
    "orig": "Steve Reich wird 90: Was den wichtigsten US-Komponisten unserer Zeit ausmacht",
    "lead": "Il compositore statunitense Steve Reich compie 90 anni ed è considerato, secondo Der Standard, il musicista classico americano più influente degli ultimi cinquant'anni. In un'intervista al giornale austriaco, Reich racconta il proprio percorso, da traslocatore di mobili a stella della musica contemporanea, ripercorrendo le tappe che lo hanno portato a rivoluzionare la musica minimalista. Lo riferisce Der Standard.",
@@ -4797,7 +4751,7 @@ window.EDIZIONI["2026-10-14"] = {
   },
   {
    "id": "z2bf3d9b4",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Avviati a Ntungamo i lavori per il ponte Ruhorobo da 95 milioni di scellini",
    "orig": "Ntungamo Begins Shs95m Ruhorobo Bridge Construction",
    "lead": "Nel distretto ugandese di Ntungamo sono iniziati i lavori di costruzione del ponte Ruhorobo, del costo di 95,67 milioni di scellini ugandesi, che promette di ricollegare le città di Rwoho e Nyakyera dopo che un'alluvione aveva distrutto il precedente attraversamento, interrompendo l'accesso a mercati, scuole e strutture sanitarie. Lo riferisce Nile Post.",
@@ -4957,7 +4911,7 @@ window.EDIZIONI["2026-10-14"] = {
   },
   {
    "id": "z21471efe",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "DOMLEC prepara assistenza clienti con intelligenza artificiale e letture dei contatori più rapide",
    "orig": "DOMLEC plans AI-assisted customer service and faster meter updates",
    "lead": "La compagnia elettrica dominicese DOMLEC sta sviluppando un nuovo sistema informativo per i clienti che utilizzerà l'intelligenza artificiale e la raccolta dati elettronica sul campo per migliorare l'accesso alle informazioni sugli account e velocizzare il servizio. L'annuncio è arrivato durante una recente trasmissione radiofonica dell'azienda, dove il responsabile commerciale ha illustrato il progetto. Lo riferisce Dominica News Online.",
@@ -6991,7 +6945,7 @@ window.EDIZIONI["2026-10-14"] = {
   },
   {
    "id": "z5acb62ed",
-   "sez": "cultura",
+   "sez": "mondo",
    "titolo": "La prima presidente donna dell'Università di Tokyo e le polemiche che ne sono seguite",
    "orig": "The University of Tokyo’s first female president, then the backlash",
    "lead": "L'Università di Tokyo ha nominato la sua prima presidente donna, una scelta che ha scatenato polemiche nel Paese. Il contesto è segnato dal basso posizionamento del Giappone nella classifica mondiale sulla parità di genere: secondo il Global Gender Gap Index 2026 del World Economic Forum, il Paese si colloca al 117esimo posto su 145 nazioni esaminate. Lo riferisce The Japan Times.",
@@ -7196,7 +7150,7 @@ window.EDIZIONI["2026-10-14"] = {
   },
   {
    "id": "z46b8e8b2",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Totora apre le sue case coloniali al Festival Nazionale del Piano",
    "orig": "Totora abre las puertas de sus casas coloniales al Festival Nacional del Piano",
    "lead": "La città boliviana di Totora ha ospitato il Festival Nazionale del Piano, aprendo le porte delle sue case coloniali per l'evento musicale. La manifestazione si è conclusa con la premiazione dei migliori partecipanti in ciascuna categoria e il conferimento di riconoscimenti ai pianisti ospiti, prima che la cittadina tornasse al consueto silenzio delle sue strade in pietra. Lo riferisce Opinión (Bolivia).",
@@ -8206,6 +8160,15 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-14T05:13+00:00"
+    },
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/dommer-forhindrer-trump-i-udelukke-specifikke-medier",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-14T04:47+00:00"
     }
    ],
    "data": "14 ott",
@@ -9155,30 +9118,6 @@ window.EDIZIONI["2026-10-14"] = {
     }
    ],
    "data": "13 ott",
-   "ora": "09:01",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zad1562ff",
-   "sez": "mondo",
-   "titolo": "Missili russi colpiscono una centrale elettrica chiave a Kyiv, dice Zelensky",
-   "orig": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-   "lead": "Il presidente ucraino Volodymyr Zelensky ha denunciato un attacco con missili balistici russi contro una centrale elettrica strategica nella capitale Kyiv, sottolineando che non vi è stato «alcun preavviso da parte dei nostri partner». L'attacco si aggiunge alla serie di colpi russi contro le infrastrutture energetiche ucraine mentre si avvicina l'inverno, in un contesto di escalation del conflitto che vede Mosca intensificare i bombardamenti sulla rete elettrica del Paese. Lo riferisce BBC News.",
-   "more": [
-    "Le centrali elettriche ucraine sono da anni bersaglio sistematico degli attacchi russi, nel tentativo di indebolire il sistema energetico del Paese soprattutto nei mesi invernali, causando blackout diffusi e difficoltà per la popolazione civile."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-14T04:36+00:00"
-    }
-   ],
-   "data": "14 ott",
    "ora": "09:01",
    "uscita": "mattino"
   },
@@ -11363,7 +11302,7 @@ window.EDIZIONI["2026-10-14"] = {
   },
   {
    "id": "zaa7c57ce",
-   "sez": "cultura",
+   "sez": "cucina",
    "titolo": "Il ristorante Tai Fung Lau di Hong Kong compie 65 anni tra tradizione e legame con Bruce Lee",
    "orig": "Tai Fung Lau at 65: Hong Kong restaurant’s Lu cuisine legacy, Bruce Lee ties and more",
    "lead": "Il ristorante Tai Fung Lau Peking Restaurant, nel distretto di Tsim Sha Tsui a Hong Kong, festeggia il 65esimo anniversario dall'apertura. I clienti abituali lo apprezzano per i piatti genuini, le porzioni generose e il buon rapporto qualità-prezzo, qualità che il titolare di seconda generazione Steve Wan continua a preservare seguendo le ricette paterne. Il locale è legato anche alla memoria di Bruce Lee, tra gli elementi che ne alimentano il fascino storico presso la clientela. Lo riferisce il South China Morning Post.",
@@ -12705,7 +12644,7 @@ window.EDIZIONI["2026-10-14"] = {
   },
   {
    "id": "z73ea6d27",
-   "sez": "cultura",
+   "sez": "sport",
    "titolo": "Singapore, a 73 anni dal dolore cronico al sollevamento pesi: la storia di Rosemina Hamzah",
    "orig": "This Singaporean grandma, 73, couldn't walk without pain. Today, she deadlifts 67.5kg",
    "lead": "Rosemina Hamzah, 73 anni, fino a poco più di un anno fa camminava a fatica e soffriva di dolori cronici. Ad agosto si è presentata alla sua prima gara di sollevamento pesi a Singapore, la «Mbold Seniors Hex Bar Deadlift Challenge», sollevando 67,5 chilogrammi, più del proprio peso corporeo, aggiudicandosi la propria categoria al debutto assoluto. Lo riferisce South China Morning Post.",
@@ -13526,6 +13465,24 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-14T05:51+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T04:36+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-angriffe-auf-kiew-ukrainer-beklagen-abermals-fehlende-vorwarnung-faz-110683325.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-14T02:08+00:00"
     }
    ],
    "data": "14 ott",
@@ -13730,7 +13687,6 @@ window.EDIZIONI["2026-10-14"] = {
   "zfc39fb09": "La stampa australiana guarda soprattutto alla gara d'apertura di casa, quella papuasiana segue con entusiasmo il debutto della propria nazionale.",
   "z3b5a34ec": "BBC e Guardian riportano la notizia in modo sostanzialmente analogo, con il Guardian che aggiunge dettagli sulla dichiarazione dell'FSB e il contesto delle tensioni bilaterali.",
   "z9bec1ade": "DW si concentra sulle reazioni dei ministri europei alla minaccia ibrida russa, mentre NPR evidenzia la pressione bipartisan del Congresso Usa sull'accordo energetico di Trump.",
-  "zad1562ff": "BBC riporta la denuncia diretta di Zelensky, con l'accento sulla mancanza di allarme preventivo da parte degli alleati occidentali.",
   "z25af1dd2": "BBC presenta l'annuncio come un ritorno nostalgico a dieci anni dalla fine della serie originale.",
   "z254add72": "BBC inquadra il processo come un momento chiave per fare luce su uno degli episodi di sabotaggio più controversi della guerra.",
   "zda7488cb": "The Guardian dà rilievo al caso specifico dell'assicurazione da 20 milioni di dollari come esempio emblematico di ostacolo burocratico alla protesta.",
@@ -14051,7 +14007,6 @@ window.EDIZIONI["2026-10-14"] = {
   "z3a151e41": "Der Spiegel invita a rivedere l'organizzazione del lavoro prima di puntare tutto sulla tecnologia.",
   "z6d197554": "SZ denuncia il mancato chiarimento dei fatti da parte dell'organizzazione.",
   "z5f1c820c": "SZ analizza le prestazioni dei singoli giocatori bavaresi.",
-  "z27f42df6": "FAZ segue minuto per minuto gli sviluppi del conflitto.",
   "z5072a311": "FAZ fa un bilancio delle polemiche sorte attorno al progetto.",
   "ze7ae03fc": "El País valuta l'impatto reale della misura sul voto.",
   "z1359159f": "El País collega il cambio di studio alle vicende giudiziarie legate al finanziamento del PSOE.",
@@ -14145,7 +14100,6 @@ window.EDIZIONI["2026-10-14"] = {
   "ze90ca406": "La testata riporta la posizione dei rettori favorevole a una riforma dei requisiti d'accesso.",
   "z9f2b68c2": "La testata riporta l'ultimo annuncio di Trump sulle risorse minerarie dell'isola artica.",
   "z80e33c9e": "La testata evidenzia l'efficacia del cane antidroga nell'individuare il carico illecito.",
-  "zc5c432b9": "La testata sottolinea il ruolo della giustizia nel limitare le restrizioni imposte dall'amministrazione Trump alla stampa.",
   "zc215d568": "La testata riporta la posizione ufficiale di Kinshasa davanti all'ONU sulla crisi con il Ruanda.",
   "zc6503ec1": "La testata si concentra sui tempi di intervento dei soccorsi per spegnere l'incendio industriale.",
   "zd0c7b54c": "La testata presenta la vicenda come un'inchiesta esclusiva su un possibile caso di favoritismo familiare.",
@@ -14179,7 +14133,8 @@ window.EDIZIONI["2026-10-14"] = {
   "z02c22b11": "La testata riporta l'appello come intervento diretto rivolto alla società civile mauriziana.",
   "z19664ca5": "La testata dà spazio all'accusa dell'attivista su un presunto reclutamento a pagamento durante le proteste.",
   "z17c5a9be": "La testata riporta direttamente la spiegazione fornita dal funzionario comunale.",
-  "z64290f29": "La testata dà spazio alla replica diretta dell'autore alle critiche ricevute."
+  "z64290f29": "La testata dà spazio alla replica diretta dell'autore alle critiche ricevute.",
+  "z9761e178": "BBC riporta la denuncia diretta di Zelensky, con l'accento sulla mancanza di allarme preventivo da parte degli alleati occidentali."
  },
  "contesti": {
   "za83ee72b": "Il nodulo al polmone destro di Papa Leone XIV era emerso durante un controllo medico di routine nelle settimane precedenti. Martedì 13 ottobre il pontefice è arrivato al Policlinico Gemelli di Roma, dove nel pomeriggio è stato sottoposto all'intervento per l'asportazione del lobo inferiore del polmone destro. L'operazione, durata circa novanta minuti, si è conclusa positivamente in serata, con il Vaticano che ha poi confermato la natura maligna del tumore asportato.",
@@ -14201,7 +14156,6 @@ window.EDIZIONI["2026-10-14"] = {
   "z9bec1ade": "Nei giorni scorsi un incendio doloso ha colpito un terminale Starlink in Polonia, episodio attribuito a un sabotaggio di matrice ibrida legato alla Russia. Parallelamente, un gruppo bipartisan di senatori statunitensi ha scritto a Trump chiedendo di ritirare l'accordo sul diesel russo, giudicato controproducente.",
   "z3beb9797": "Dopo mesi di tensioni interne, le forze del campo largo italiano (Pd, M5S e alleati) hanno cercato convergenze su economia e opposizione al riarmo europeo, mentre le divisioni sul sostegno militare all'Ucraina restano profonde. Il dibattito parlamentare italiano riflette lo scontro politico più ampio sulle politiche di difesa europee e sull'invio di armi a Kyiv, tema ricorrente dal 2022.",
   "z4a7291b8": "La nazionale sudcoreana è stata eliminata ai Mondiali in Nord America già nella fase a gironi, un risultato deludente che ha portato alle dimissioni del commissario tecnico Hong Myung-bo e a un clima di forte critica pubblica verso i giocatori.",
-  "zad1562ff": "Da settimane la Russia intensifica gli attacchi missilistici e con droni contro la rete energetica ucraina, strategia ricorrente negli ultimi inverni di guerra per indebolire il morale civile e la capacità industriale di Kyiv. Le infrastrutture elettriche sono già state colpite ripetutamente da ottobre 2022, costringendo l'Ucraina a razionamenti e riparazioni d'emergenza con l'aiuto occidentale.",
   "z254add72": "Nel settembre 2022 esplosioni sottomarine danneggiarono i gasdotti Nord Stream 1 e 2 nel Mar Baltico, interrompendo le forniture di gas russo verso l'Europa in piena crisi energetica post-invasione dell'Ucraina. Le indagini internazionali, condotte da Germania, Svezia e Danimarca, hanno progressivamente puntato verso una cellula ucraina, portando all'identificazione e all'arresto di sospetti coinvolti nel sabotaggio.",
   "zf158ef3e": "Dallas Area Rapid Transit porta avanti da anni l'espansione della Silver Line, linea ferroviaria regionale pensata per collegare l'aeroporto DFW ad altre aree metropolitane. Il progetto ha richiesto la costruzione di nuove infrastrutture di supporto, incluse officine dedicate alla manutenzione della flotta di treni diesel multipli, per garantire l'affidabilità del servizio al debutto operativo.",
   "zdfc8cb28": "L'Independent Football Regulator è stato istituito nel Regno Unito per vigilare sulla governance finanziaria dei club calcistici dopo anni di polemiche su proprietà estere e sostenibilità economica. Parallelamente, il Manchester City affronta da tempo accuse di violazioni finanziarie nei pagamenti, un caso che ha acceso il dibattito su indipendenza e interferenze politiche nella regolamentazione del calcio inglese.",
@@ -14248,7 +14202,6 @@ window.EDIZIONI["2026-10-14"] = {
   "z2d2b83da": "Negli ultimi mesi l'Arabia Saudita è stata bersaglio di attacchi nel contesto dell'escalation regionale legata al conflitto in Medio Oriente, con tensioni alimentate da Houthi e altri attori sostenuti dall'Iran. L'aumento dei prezzi energetici globali e l'instabilità nei mercati del petrolio hanno già pesato sull'economia mondiale, spingendo istituzioni come il FMI a monitorare da vicino le ripercussioni economiche della crisi.",
   "z6903d6d2": "Davies Mwila, figura storica del Patriotic Front, è stato coinvolto in vicende giudiziarie legate a dispute politiche interne al partito dopo la sconfitta elettorale del 2021. Le tensioni politiche in Zambia tra fazioni rivali hanno talvolta sfociato in episodi di violenza, alimentando preoccupazioni sulla sicurezza di funzionari ed ex esponenti politici all'interno delle istituzioni giudiziarie del Paese.",
   "z32d8c216": "Gli Houthi, emersi come movimento ribelle nello Yemen settentrionale, hanno guadagnato forza militare grazie al sostegno iraniano nel corso dell'ultimo decennio, specialmente dopo l'intervento della coalizione a guida saudita dal 2015. Il gruppo ha sviluppato capacità missilistiche e di droni sempre più sofisticate, colpendo ripetutamente obiettivi sauditi e, dal 2023, anche la navigazione nel Mar Rosso e Israele, nel contesto della guerra a Gaza.",
-  "z27f42df6": "Negli ultimi giorni la Russia ha intensificato gli attacchi su Kiev e altre città ucraine, mentre le indagini sull'attacco a una stazione Starlink in Polonia hanno portato all'arresto di sospetti in Germania, in un contesto di crescenti tensioni sul fronte orientale.",
   "ze7ae03fc": "La legge sulla memoria democratica aveva ampliato il diritto di voto per i discendenti di spagnoli esiliati durante il franchismo, la cosiddetta 'legge dei nipoti'. Il Tribunale Supremo ha ora posto un veto alla sua applicazione per il voto dall'estero, sollevando dubbi sulla sua reale incidenza elettorale, dato che tali elettori rappresentano meno dell'1% del corpo elettorale spagnolo.",
   "z043a0f6c": "Nelle scorse settimane si è registrata un'incursione di unità marocchine nelle acque territoriali spagnole, episodio che ha sollevato interrogativi sulla catena di comando e sui tempi di comunicazione al Capo dello Stato. Secondo El Mundo, Felipe VI non fu avvisato in tempo reale ma solo successivamente, dopo di che si è attivato direttamente con i vertici militari per approfondire la vicenda.",
   "z3449792a": "Le tensioni tra Stati Uniti e Corte penale internazionale dell'Aia si sono acuite negli ultimi mesi, dopo i mandati d'arresto emessi dalla Corte contro funzionari israeliani e le reazioni di Washington a sostegno di Israele. Venerdì scorso gli Stati Uniti hanno annunciato sanzioni contro l'intera Corte, colpendo anche i singoli giudici, in un'escalation che solleva interrogativi sulle conseguenze pratiche per i magistrati coinvolti.",
@@ -14274,7 +14227,6 @@ window.EDIZIONI["2026-10-14"] = {
   "z9f2b68c2": "Dal suo ritorno alla Casa Bianca, Donald Trump ha più volte espresso interesse per la Groenlandia, arrivando a ipotizzare un controllo statunitense sull'isola per le sue risorse minerarie strategiche, terre rare incluse. Le dichiarazioni hanno provocato tensioni diplomatiche con la Danimarca e reazioni critiche da parte del governo autonomo groenlandese, mentre Washington ha intensificato i contatti bilaterali su cooperazione economica e sicurezza nell'Artico.",
   "zc215d568": "Negli ultimi mesi la RDC ha più volte accusato il Ruanda di sostenere gruppi armati nell'est del Paese, chiedendo ripetutamente all'ONU interventi più decisi per far rispettare le risoluzioni adottate e ottenere il ritiro delle truppe ruandesi.",
   "z9abfb8ac": "Negli ultimi mesi le tensioni tra Stati Uniti e Iran si sono intensificate, con gli Houthi, alleati di Teheran, che hanno condotto ripetuti attacchi contro infrastrutture saudite, mentre Washington ha valutato un coinvolgimento militare diretto nella regione.",
-  "zc5c432b9": "L'amministrazione Trump ha più volte limitato l'accesso di alcune testate considerate ostili a briefing, conferenze stampa e spazi istituzionali, suscitando critiche da parte di organizzazioni per la libertà di stampa. Diverse testate escluse hanno presentato ricorsi legali, sostenendo una violazione del Primo Emendamento, portando la questione davanti ai tribunali federali statunitensi negli ultimi mesi.",
   "z2114e6cc": "L'India registra ogni anno numerosi incidenti legati a imbarcazioni sovraccariche o prive di adeguate misure di sicurezza, specialmente negli Stati rurali attraversati da fiumi, dove il trasporto d'acqua resta spesso l'unico mezzo per raggiungere scuole o villaggi. Il Bihar, attraversato dal Gange e da numerosi affluenti, è stato teatro in passato di diversi naufragi mortali durante traversate quotidiane o festività locali."
  },
  "cronologie": {
@@ -14474,20 +14426,6 @@ window.EDIZIONI["2026-10-14"] = {
    [
     "Ottobre 2026",
     "FSB arresta giornalista giapponese a Sakhalin"
-   ]
-  ],
-  "zad1562ff": [
-   [
-    "Ottobre 2022",
-    "Prima grande ondata di attacchi alle infrastrutture energetiche"
-   ],
-   [
-    "Inverno 2024-2025",
-    "Nuove ondate colpiscono centrali e sottostazioni"
-   ],
-   [
-    "Ottobre 2026",
-    "Missili balistici colpiscono centrale a Kyiv"
    ]
   ],
   "z254add72": [
@@ -15230,16 +15168,6 @@ window.EDIZIONI["2026-10-14"] = {
     "Analisi CBS News evidenzia il ruolo strategico iraniano negli armamenti Houthi"
    ]
   ],
-  "z27f42df6": [
-   [
-    "13 ottobre",
-    "Attacchi russi su Kiev senza preallarme degli alleati"
-   ],
-   [
-    "14 ottobre",
-    "Nuovi raid su Kiev, arresti in Germania per l'attacco Starlink in Polonia"
-   ]
-  ],
   "zbd7c8d1b": [
    [
     "2023",
@@ -15530,24 +15458,6 @@ window.EDIZIONI["2026-10-14"] = {
    [
     "Oggi",
     "Annuncio di piani per lo sfruttamento delle risorse minerarie"
-   ]
-  ],
-  "zc5c432b9": [
-   [
-    "Inizio 2025",
-    "Prime esclusioni di testate da eventi della Casa Bianca"
-   ],
-   [
-    "Mesi successivi",
-    "Ricorsi legali presentati dalle testate escluse"
-   ],
-   [
-    "Settimane scorse",
-    "Udienze davanti al giudice federale competente"
-   ],
-   [
-    "Oggi",
-    "Il giudice blocca il tentativo di esclusione"
    ]
   ],
   "z2114e6cc": [
@@ -16298,13 +16208,6 @@ window.EDIZIONI["2026-10-14"] = {
    "n": "Polonia",
    "p": [
     "Poland"
-   ],
-   "pt": []
-  },
-  "zad1562ff": {
-   "n": "Kyiv",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -18458,13 +18361,6 @@ window.EDIZIONI["2026-10-14"] = {
    ],
    "pt": []
   },
-  "z27f42df6": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z5072a311": {
    "n": "Auschwitz",
    "p": [
@@ -19102,13 +18998,6 @@ window.EDIZIONI["2026-10-14"] = {
    ],
    "pt": []
   },
-  "zc5c432b9": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zc215d568": {
    "n": "Kinshasa",
    "p": [
@@ -19420,7 +19309,6 @@ window.EDIZIONI["2026-10-14"] = {
   "z3d6d6e09": 1,
   "z3b5a34ec": 2,
   "z9bec1ade": 2,
-  "zad1562ff": 2,
   "z25af1dd2": 2,
   "z254add72": 2,
   "zda7488cb": 1,
@@ -19738,7 +19626,6 @@ window.EDIZIONI["2026-10-14"] = {
   "z3a151e41": 1,
   "z6d197554": 1,
   "z5f1c820c": 1,
-  "z27f42df6": 2,
   "z5072a311": 1,
   "ze7ae03fc": 2,
   "z1359159f": 1,
@@ -19831,7 +19718,6 @@ window.EDIZIONI["2026-10-14"] = {
   "ze90ca406": 1,
   "z9f2b68c2": 2,
   "z80e33c9e": 1,
-  "zc5c432b9": 2,
   "zc215d568": 2,
   "zc6503ec1": 1,
   "zd0c7b54c": 1,
