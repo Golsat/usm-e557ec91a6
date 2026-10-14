@@ -3,6 +3,2003 @@ window.EDIZIONI["2026-10-14-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zf0a36cc1",
+   "sez": "mondo",
+   "titolo": "BIGTECH Africa 2026: 24 start-up tunisine sostenute da KOICA, OIT e ministero della Formazione professionale",
+   "orig": "BIGTECH Africa 2026 : 24 start-up tunisiennes soutenues par la KOICA, l’OIT et le ministère de la Formation professionnelle et de l’Emploi",
+   "lead": "Il salone BIGTECH Africa 2026 si svolge il 13 e 14 ottobre alla Cité de la Culture di Tunisi, dove 24 start-up tunisine ricevono il sostegno del progetto IPTIC, finanziato dalla Corea del Sud attraverso l'agenzia KOICA e realizzato con l'Organizzazione Internazionale del Lavoro e il ministero tunisino della Formazione professionale e dell'Occupazione. L'iniziativa punta a rafforzare l'ecosistema tecnologico e imprenditoriale del paese nordafricano, offrendo alle giovani imprese strumenti e risorse per crescere nel settore digitale. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "KOICA è l'agenzia governativa sudcoreana per la cooperazione internazionale allo sviluppo, che finanzia progetti di formazione, trasferimento tecnologico e sostegno economico in diversi paesi, in collaborazione con organismi come l'OIT, agenzia delle Nazioni Unite dedicata al lavoro e all'occupazione dignitosa nel mondo."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/bigtech-africa-2026-24-start-up-tunisiennes-soutenues-par-la-koica-loit-et-le-ministere-de-la-formation-professionnelle-et-de-lemploi/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T08:32+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zff9a3676",
+   "sez": "salute",
+   "titolo": "Octobre Rose: Point M e l'associazione Nourane uniti per sensibilizzare sul tumore al seno",
+   "orig": "Octobre Rose : Point M et l’Association Nourane réunis pour célébrer la solidarité, l’espoir et la force des femmes",
+   "lead": "In occasione di Octobre Rose, il marchio Point M e l'associazione Nourane si sono incontrati sabato 10 ottobre nel negozio Point M del Carrefour di La Marsa per un evento dedicato alla sensibilizzazione sul cancro al seno, alla condivisione e alla solidarietà. All'iniziativa hanno partecipato medici e rappresentanti delle due organizzazioni, che hanno voluto celebrare la forza e la resilienza delle donne colpite dalla malattia. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Octobre Rose è la campagna internazionale di sensibilizzazione sul tumore al seno che si svolge ogni anno in ottobre, promuovendo prevenzione, diagnosi precoce e sostegno alle donne malate, attraverso eventi pubblici, raccolte fondi e iniziative di informazione in molti paesi."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/octobre-rose-point-m-et-lassociation-nourane-reunis-pour-celebrer-la-solidarite-lespoir-et-la-force-des-femmes/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T08:24+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z68c2cd76",
+   "sez": "mondo",
+   "titolo": "Tunisia: dopo il passaggio di una depressione atmosferica attese piogge importanti",
+   "orig": "Tunisie-Libye : des pluies importantes après le passage d’une dépression atmosphérique",
+   "lead": "Secondo le previsioni, la Tunisia vivrà nei prossimi giorni un periodo di stabilità meteorologica, con temperature autunnali moderate comprese tra 20 e 28 gradi durante il giorno. Nuove perturbazioni accompagnate da precipitazioni potrebbero però manifestarsi dopo il 22 ottobre, secondo le prime indicazioni dei modelli numerici, come ha spiegato il docente Amer Bahba. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Le depressioni atmosferiche sono aree di bassa pressione che generano instabilità meteorologica, portando piogge e venti; il loro passaggio nel Mediterraneo centrale influenza spesso contemporaneamente il clima di Tunisia e Libia, paesi vicini esposti alle stesse correnti."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/tunisie-libye-des-pluies-importantes-apres-le-passage-dune-depression-atmospherique/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T08:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zf625ad77",
+   "sez": "salute",
+   "titolo": "Il Kef: il pronto soccorso si digitalizza per informare meglio i pazienti",
+   "orig": "Le Kef : les urgences se digitalisent pour mieux informer les patients",
+   "lead": "L'ospedale regionale del Kef, in Tunisia, si prepara a introdurre un nuovo sistema digitale intelligente pensato per migliorare l'informazione e l'orientamento dei pazienti all'interno del servizio di pronto soccorso. Lanciato con lo slogan 'la tecnologia al servizio del paziente... per urgenze più organizzate ed efficaci', il dispositivo si basa su un sistema informativo dedicato. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/le-kef-les-urgences-se-digitalisent-pour-mieux-informer-les-patients/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T07:57+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z7c06ec5c",
+   "sez": "mondo",
+   "titolo": "RD Congo: quasi 300 case danneggiate da una forte pioggia a Kasongo",
+   "orig": "Près de 300 habitations endommagées par une pluie à Kasongo",
+   "lead": "Quasi 300 abitazioni sono state danneggiate da una forte pioggia abbattutasi martedì 13 ottobre sul territorio di Kasongo, nella provincia del Maniema, in Repubblica Democratica del Congo. I danni riguardano quattro quartieri e hanno lasciato numerose famiglie senza riparo. La società civile locale ha lanciato un allarme sui rischi sanitari, poiché la zona è già alle prese con casi di diarrea. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/actualite/societe/pres-de-300-habitations-endommagees-par-une-pluie-kasongo",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T10:25+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z14777ee7",
+   "sez": "mondo",
+   "titolo": "RD Congo: l'esercito avverte i miliziani Mobondo ancora armati a Kwamouth",
+   "orig": "Les FARDC mettent en garde les miliciens Mobondo réfractaires au désarmement à Kwamouth",
+   "lead": "Le forze armate della Repubblica Democratica del Congo (FARDC) hanno chiesto ai miliziani Mobondo ancora attivi nel territorio di Kwamouth, nella provincia del Maï-Ndombe, di depositare volontariamente le armi. Martedì 13 ottobre l'esercito ha avvertito quanti continuano a imporre tasse illegali agli agricoltori, nonostante i progressi registrati nel processo di disarmo. Lo riferisce Radio Okapi.",
+   "more": [
+    "I Mobondo sono miliziani attivi in alcune zone rurali della Repubblica Democratica del Congo, spesso coinvolti in conflitti locali legati a terra e tasse illegali imposte alla popolazione, in un contesto di instabilità che da anni coinvolge diverse province del paese."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/actualite/securite/les-fardc-mettent-en-garde-les-miliciens-mobondo-refractaires-au",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T10:09+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z28004514",
+   "sez": "mondo",
+   "titolo": "RD Congo: oltre 10.000 casi di violenza di genere nell'Ituri dall'inizio del 2026",
+   "orig": "Plus de 10 000 cas de violences basées sur le genre recensés depuis janvier 2026 en Ituri",
+   "lead": "Più di 10.000 casi di violenza basata sul genere sono stati registrati nella provincia dell'Ituri, in Repubblica Democratica del Congo, dall'inizio del 2026, dopo che nel 2025 erano stati censiti oltre 20.000 casi. Lo riferisce Radio Okapi.",
+   "more": [
+    "L'Ituri è una provincia nord-orientale della Repubblica Democratica del Congo segnata da anni da conflitti armati e insicurezza, fattori che aggravano la vulnerabilità delle donne e delle comunità locali esposte a violenze diffuse."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/actualite/societe/plus-de-10-000-cas-de-violences-basees-sur-le-genre-recenses-depuis",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T09:19+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z0bfcbf86",
+   "sez": "cultura",
+   "titolo": "Senegal: i talenti artistici delle forze di sicurezza protagonisti della 'Police culturelle'",
+   "orig": "Police culturelle : les talents artistiques des forces de sécurité à l’honneur",
+   "lead": "La prima edizione della 'Police culturelle' si è svolta sabato 10 ottobre 2026 al Museo delle civiltà nere di Dakar. L'evento, promosso dall'Associazione della stampa culturale del Senegal e dalla Polizia nazionale, ha permesso di valorizzare i talenti artistici e letterari degli agenti delle forze di sicurezza senegalesi. Lo riferisce Le Soleil.",
+   "more": [
+    "Il Museo delle civiltà nere di Dakar è una grande istituzione culturale senegalese dedicata alla storia e alle arti africane, spesso sede di eventi che uniscono patrimonio culturale e iniziative sociali o istituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/arts-et-culture/police-culturelle-les-talents-artistiques-des-forces-de-securite-a-lhonneur/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-14T10:39+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z0084b09d",
+   "sez": "mondo",
+   "titolo": "Senegal: la festa dell'Indipendenza guarda oltre Dakar verso le regioni",
+   "orig": "La fête de l’Indépendance, au-delà de Dakar, les régions",
+   "lead": "Da Kaolack nel 1975 a Thiès, passando per Diourbel e Louga, la delocalizzazione della festa nazionale del 4 aprile si inserisce in una lunga tradizione senegalese. Con la regione di Kaolack designata per il 2029, il presidente Bassirou Diomaye Faye punta a fare di questo appuntamento un ulteriore strumento di sviluppo territoriale per le diverse regioni del paese. Lo riferisce Le Soleil.",
+   "more": [
+    "La festa dell'Indipendenza del Senegal si celebra ogni 4 aprile in memoria dell'indipendenza ottenuta dalla Francia nel 1960; la scelta di organizzarla a rotazione in diverse regioni mira a decentralizzare le celebrazioni e promuovere lo sviluppo locale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/la-fete-de-lindependance-au-dela-de-dakar-les-regions/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-14T10:11+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z01436adb",
+   "sez": "mondo",
+   "titolo": "Il Senegal ospiterà l'11ª edizione dei Giochi della Francofonia nel 2031",
+   "orig": "Jeux de la Francophonie : le Sénégal accueillera la 11ᵉ édition en 2031",
+   "lead": "Durante la sua 134ª sessione, il Consiglio permanente della Francofonia ha designato il Senegal come paese ospitante dell'11ª edizione dei Giochi della Francofonia, superando la candidatura presentata dalla Guinea. L'annuncio è stato diffuso martedì sera tramite una nota dell'istituzione, al termine dei lavori della sessione. Lo riferisce Le Soleil.",
+   "more": [
+    "I Giochi della Francofonia sono un evento multisportivo e culturale che riunisce ogni quattro anni atleti e artisti dei paesi francofoni, promosso dall'Organizzazione internazionale della Francofonia per rafforzare i legami tra le nazioni che condividono la lingua francese."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/jeux-de-la-francophonie-le-senegal-accueillera-la-11%e1%b5%89-edition-en-2031/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-14T07:45+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z8e7e1d8e",
+   "sez": "salute",
+   "titolo": "Che tipo di tumore è l'adenocarcinoma che ha colpito il Papa Leone",
+   "orig": "Che tipo di tumore è l'adenocarcinoma che ha colpito Leone",
+   "lead": "Un esperto spiega che le prossime 24-48 ore saranno le più delicate per il Papa Leone, colpito da un adenocarcinoma, tumore che si sviluppa nelle cellule ghiandolari di vari organi. L'articolo approfondisce le caratteristiche di questa forma di tumore e la fase critica che il pontefice sta affrontando. Lo riferisce ANSA.",
+   "more": [
+    "L'adenocarcinoma è un tumore che origina nelle cellule ghiandolari presenti in diversi organi, come polmoni, colon o pancreas; la sua gravità e prognosi dipendono molto dalla sede, dallo stadio e dalla diffusione della malattia al momento della diagnosi."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/14/lesperto-le-prossime-24-48-ore-le-piu-delicate-per-il-papa_4055da88-cfae-4c68-ac0d-1eeda135d664.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T10:35+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z84c4b688",
+   "sez": "italia",
+   "titolo": "Cnel, presentata la relazione 2026 sui servizi pubblici",
+   "orig": "Cnel, la relazione sui servizi pubblici 2026",
+   "lead": "Il Cnel ha pubblicato la relazione 2026 sulla qualità dei servizi pubblici offerti dalla pubblica amministrazione a cittadini e imprese in Italia, fornendo un quadro aggiornato sullo stato dei servizi erogati. Lo riferisce ANSA.",
+   "more": [
+    "Il Cnel, Consiglio nazionale dell'economia e del lavoro, è un organo costituzionale italiano di consulenza per Parlamento e Governo su materie economiche e sociali, che periodicamente analizza l'efficienza dei servizi pubblici nel paese."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/eventi/2026/10/13/cnel-la-relazione-sui-servizi-pubblici-2026_e088feee-473d-4558-8884-f17fe8747c83.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T09:44+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z17a7f7b3",
+   "sez": "mondo",
+   "titolo": "Marine Le Pen: 'Tutti i segnali d'allarme sono accesi'",
+   "orig": "Marine Le Pen: ‘All the warning signs are flashing red’",
+   "lead": "In un'ampia intervista al Financial Times, la leader dell'estrema destra francese Marine Le Pen dichiara che la Francia è pronta a chiudere il capitolo della politica tradizionale. Secondo la leader, tutti i segnali indicano una crisi profonda del sistema politico francese attuale. Lo riferisce Financial Times.",
+   "more": [
+    "Marine Le Pen è la leader storica del Rassemblement National, partito di estrema destra francese, protagonista da anni del dibattito politico nazionale e più volte candidata alla presidenza della Repubblica contro i partiti tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/73cfaf41-d3ea-4202-bd9b-f355c9e5b504?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T11:02+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z8e51c65b",
+   "sez": "economia",
+   "titolo": "BlackRock raccoglie 205 miliardi di dollari e porta gli asset a un massimo storico",
+   "orig": "BlackRock pulls in $205bn to take assets to record high",
+   "lead": "BlackRock, il più grande gestore patrimoniale al mondo, ha raccolto 205 miliardi di dollari, portando il totale degli asset gestiti a un nuovo massimo storico. Il gruppo è diventato una forza sempre più influente nel capitale privato dopo le acquisizioni di HPS e Global Infrastructure Partners. Lo riferisce Financial Times.",
+   "more": [
+    "BlackRock è una delle principali società di gestione patrimoniale al mondo, che investe per conto di clienti istituzionali e privati in azioni, obbligazioni e altri strumenti finanziari, ampliando negli ultimi anni la propria presenza anche nel settore del capitale privato."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T10:33+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zeda62a3d",
+   "sez": "economia",
+   "titolo": "General Atlantic progetta una Ipo con valutazione fino a 10 miliardi di dollari",
+   "orig": "General Atlantic plans IPO at up to $10bn valuation",
+   "lead": "Il gruppo di capitale privato General Atlantic punta a una quotazione in borsa con una valutazione fino a 10 miliardi di dollari, per finanziare un ambizioso piano di espansione che gli permetta di tenere il passo con rivali come Blackstone e Apollo Global. Lo riferisce Financial Times.",
+   "more": [
+    "General Atlantic è una società di investimento specializzata in capitale privato e growth equity, che finanzia aziende in fase di crescita; una quotazione in borsa le permetterebbe di raccogliere nuove risorse per competere con i grandi gruppi del settore."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T10:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z6cc0d7fe",
+   "sez": "mondo",
+   "titolo": "Serbia, Jovanović: se vinciamo riporteremo la Gendarmeria nella zona di sicurezza con il Kosovo",
+   "orig": "Jovanović: Ako pobedimo, vratićemo Žandarmeriju u Kopnenu zonu bezbednosti sa Kosovom",
+   "lead": "Il capolista della coalizione 'Autentična desnica', Miloš Jovanović, ha promesso che, in caso di vittoria elettorale, la sua coalizione riporterà la Gendarmeria serba nella zona terrestre di sicurezza al confine con il Kosovo. Lo riferisce N1 Serbia.",
+   "more": [
+    "La zona terrestre di sicurezza è un'area smilitarizzata istituita lungo il confine tra la Serbia centrale e il Kosovo per prevenire tensioni, da cui le forze serbe si sono progressivamente ritirate nel tempo secondo accordi internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/jovanovic-ako-pobedimo-vraticemo-zandarmeriju-u-kopnenu-zonu-bezbednosti-sa-kosovom/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-14T13:20+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z0e0640c6",
+   "sez": "mondo",
+   "titolo": "Serbia, il Consiglio del REM non sanziona RTS e RTV per servizi elettorali con minori",
+   "orig": "Savet REM odlučio da ne izrekne kazne RTS-u i RTV-u zbog predizbornih priloga sa decom",
+   "lead": "Il Consiglio dell'ente regolatore dei media elettronici (REM) ha deciso di chiudere i procedimenti contro la Radio Televisione Serbia (RTS) e la Radio Televisione della Voivodina (RTV), aperti per aver mostrato minori in servizi legati alla campagna elettorale. Lo riferisce N1 Serbia.",
+   "more": [
+    "Il REM è l'ente serbo che regola l'attività dei media radiotelevisivi, incaricato di vigilare sul rispetto delle norme etiche e legali, incluse quelle sulla tutela dei minori nei contenuti trasmessi, specialmente durante le campagne elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/savet-rem-odlucio-da-ne-izrekne-kazne-rts-u-i-rtv-u-zbog-predizbornih-priloga-sa-decom/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-14T13:18+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z2cfa3031",
+   "sez": "mondo",
+   "titolo": "Serbia, Ponoš: non abbiamo tempo per rimettere in discussione il processo di adesione all'Ue, siamo in ritardo di un quarto di secolo",
+   "orig": "Ponoš: Nemamo vremena za preispitivanje procesa pridruživanja EU, kasnimo četvrt veka",
+   "lead": "Il presidente del partito Srbija centar (SRCE) e capolista della coalizione Evropska Srbija, Zdravko Ponoš, ha dichiarato durante un incontro con i cittadini di Subotica che la Serbia non può permettersi di rimettere in discussione il proprio percorso di adesione all'Unione europea, definendo di un quarto di secolo il ritardo accumulato dal paese. Lo riferisce N1 Serbia.",
+   "more": [
+    "La Serbia è candidata all'adesione all'Unione europea da anni, in un percorso segnato da rallentamenti legati a riforme istituzionali, rapporti con il Kosovo e questioni di stato di diritto, spesso al centro del dibattito politico interno."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/ponos-nemamo-vremena-za-preispitivanje-procesa-pridruzivanja-eu-kasnimo-cetvrt-veka/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-14T13:17+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z40d90109",
+   "sez": "cultura",
+   "titolo": "'Zeleno zvono' torna a Zrenjanin: 35 anni di rumore, libertà e amicizia",
+   "orig": "\"Zeleno zvono\" ponovo u Zrenjaninu: 35 godina buke, slobode i prijateljstva",
+   "lead": "Dopo l'apertura, il 5 ottobre, della mostra 'Zvonjava protiv tišine' al Museo degli anni Novanta di Belgrado, davanti a una sala piena, il festival 'Zeleno zvono' è tornato il 12 ottobre a Zrenjanin per celebrare 35 anni di attività musicale. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/zeleno-zvono-ponovo-u-zrenjaninu-35-godina-buke-slobode-i-prijateljstva/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-14T13:12+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zd431d99a",
+   "sez": "mondo",
+   "titolo": "Serbia, il Consiglio del REM discute la lettera di protesta di quattro membri e il caso Informer",
+   "orig": "Savet REM-a raspravljao o protestnom pismu četvoro članova i slučaju Informer",
+   "lead": "I membri del Consiglio dell'ente regolatore dei media elettronici (REM) hanno discusso, in apertura della seduta di oggi, la lettera di protesta firmata da una parte dei consiglieri del REM, legata anche al caso del tabloid Informer. Lo riferisce N1 Serbia.",
+   "more": [
+    "Informer è un noto tabloid serbo spesso accusato di diffondere contenuti vicini al governo e privi di rigore giornalistico, al centro di diverse polemiche riguardanti il rispetto delle norme sui media nel paese."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/stevica-smederevac-odgovara-na-optuzbe-clanovi-saveta-rem-a-nemaju-monopol-na-nezavisnost/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-14T13:04+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z559e637b",
+   "sez": "economia",
+   "titolo": "L'emiro Sanusi invita i nigeriani a diversificare le finanze e lancia un fondo Halal",
+   "orig": "Emir Sanusi urges Nigerians to diversify finances, unveils Halal fund",
+   "lead": "L'emiro di Kano, Muhammadu Sanusi II, ha esortato i nigeriani a diversificare i propri portafogli finanziari, presentando contestualmente l'UTLAM Halal Fund a Kano. Lo riferisce The Punch.",
+   "more": [
+    "Un fondo halal è uno strumento di investimento conforme ai principi della finanza islamica, che esclude settori come alcol, gioco d'azzardo e interessi bancari tradizionali, offrendo un'alternativa etico-religiosa agli investitori musulmani."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/emir-sanusi-urges-nigerians-to-diversify-finances-unveils-halal-fund/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zf9933604",
+   "sez": "economia",
+   "titolo": "Nigeria, la CAC fissa al 1° dicembre la scadenza per il rinnovo dell'accreditamento dei professionisti dell'insolvenza",
+   "orig": "CAC sets December 1 deadline for insolvency practitioners’ accreditation renewal",
+   "lead": "La Corporate Affairs Commission (CAC) nigeriana ha fissato al 1° dicembre 2026 la scadenza per i professionisti del settore dell'insolvenza che devono rinnovare il proprio accreditamento, pena la sospensione automatica. Lo riferisce The Punch.",
+   "more": [
+    "La CAC è l'ente nigeriano che regola la registrazione e la vigilanza sulle imprese e sui professionisti del settore societario, inclusi i curatori fallimentari e gli esperti di procedure di insolvenza, garantendo il rispetto degli standard professionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/cac-sets-december-1-deadline-for-insolvency-practitioners-accreditation-renewal/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z76ae0c7e",
+   "sez": "mondo",
+   "titolo": "Il ministro degli Esteri egiziano invita a maggiori sforzi per evitare l'ampliamento del conflitto regionale",
+   "orig": "FM calls for further efforts to prevent regional conflict from widening",
+   "lead": "Il ministro degli Affari esteri, della Cooperazione internazionale e degli Espatriati egiziani, Badr Abdelatty, ha sottolineato l'importanza di intensificare gli sforzi per ottenere una de-escalation, contenere le tensioni regionali e impedire l'allargamento del conflitto, salvaguardando sicurezza e stabilità regionale. In un'intervista a Sky News Arabia, Abdelatty ha affrontato anche gli sviluppi del dossier iraniano. Lo riferisce Egypt Independent.",
+   "more": [
+    "Badr Abdelatty è il ministro degli Esteri dell'Egitto, paese che negli ultimi anni ha svolto un ruolo di mediazione in diverse crisi regionali mediorientali, cercando di bilanciare i rapporti con le principali potenze coinvolte nei conflitti dell'area."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/fm-calls-for-further-efforts-to-prevent-regional-conflict-from-widening/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-14T10:00+00:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/fm-highlights-egypts-efforts-to-de-escalate-us-iran-tensions/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-14T09:55+00:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/fm-highlights-expats-role-in-strengthening-egypts-global-standing/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-14T09:53+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zc367b2a2",
+   "sez": "mondo",
+   "titolo": "Il deputato nominato Kipchumba vince un prestigioso premio per l'impegno contro la polio",
+   "orig": "Nominated MP Kipchumba wins distinguished polio advocacy award",
+   "lead": "Il deputato nominato keniano Kipchumba ha ricevuto un prestigioso riconoscimento per il suo impegno nella lotta alla poliomielite. Il premio sarà formalmente consegnato il 24 ottobre 2026, in occasione della Giornata mondiale della poliomielite. Lo riferisce Citizen Digital.",
+   "more": [
+    "La poliomielite è una malattia virale infettiva che può causare paralisi, oggi quasi eliminata grazie a vaste campagne di vaccinazione globale; la Giornata mondiale della polio, celebrata il 24 ottobre, promuove la sensibilizzazione sulla lotta per l'eradicazione completa della malattia."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/nominated-mp-kipchumba-wins-distinguished-polio-advocacy-award-n392041",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-14T11:02+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z4b75c84e",
+   "sez": "sport",
+   "titolo": "Oduor fiducioso: le Harambee Starlets possono superare il Malawi nelle qualificazioni olimpiche",
+   "orig": "Oduor backs Harambee Starlets to overcome Malawi in Olympic qualifiers",
+   "lead": "Un membro dello staff tecnico, Oduor, ha espresso fiducia nella capacità delle Harambee Starlets, la nazionale femminile di calcio del Kenya, di superare il Malawi nelle qualificazioni olimpiche. Secondo Oduor la squadra ha fatto progressi significativi, soprattutto in fase offensiva, e una preparazione adeguata sarà decisiva per avere la meglio sulle avversarie malawiane. Lo riferisce Citizen Digital.",
+   "more": [
+    "Le Harambee Starlets sono la nazionale femminile di calcio del Kenya, impegnata nelle qualificazioni per i tornei olimpici di calcio femminile, competizione che vede le squadre africane contendersi un posto nella fase finale."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/oduor-backs-harambee-starlets-to-overcome-malawi-in-olympic-qualifiers-n392038",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-14T10:30+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z435f5148",
+   "sez": "sport",
+   "titolo": "L'allenatore Mukopi lascia il Chema dopo una stagione da record",
+   "orig": "Mukopi calls time at Chema after historic debut season",
+   "lead": "L'allenatore keniano Mukopi ha annunciato il suo addio al club di pallavolo Chema, dopo una stagione d'esordio definita storica. Nel suo messaggio ha spiegato che si tratta della decisione migliore possibile in questo momento, pur consapevole che farà soffrire molti giocatori. Ha ringraziato atleti, staff tecnico e dirigenza, augurando loro di raggiungere gli obiettivi pianificati insieme. L'allenatore possiede la certificazione FIVB di Livello 2. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/mukopi-calls-time-at-chema-after-historic-debut-season-n392040",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-14T09:41+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za5ff8d89",
+   "sez": "mondo",
+   "titolo": "Le armi libiche restano un punto debole dell'accordo di Tripoli",
+   "orig": "Libya: Libya's Arsenals Are a Blind Spot in the Tripoli Agreement",
+   "lead": "Un'analisi dell'Institute for Security Studies evidenzia come lo smantellamento delle milizie sia considerato essenziale per la riunificazione della Libia, ma rischi al tempo stesso di provocare la dispersione e il traffico di arsenali verso i Paesi vicini. Il tema riguarda l'attuazione dell'accordo di Tripoli e le sue implicazioni per la sicurezza regionale. Lo riferisce allAfrica.",
+   "more": [
+    "L'accordo di Tripoli è il quadro politico su cui si fonda il processo di stabilizzazione della Libia dopo anni di guerra civile seguita alla caduta di Gheddafi, con milizie armate che controllano ancora vaste porzioni di territorio e risorse."
+   ],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610140245.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T10:39+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zdeeb51fb",
+   "sez": "tech",
+   "titolo": "YMTC punta a crescere sei volte più veloce dei concorrenti prima della quotazione",
+   "orig": "Chinese memory giant YMTC to grow revenue 6 times faster than peers as IPO nears: report",
+   "lead": "Secondo un rapporto di Counterpoint Research, il colosso cinese della memoria flash Yangtze Memory Technologies Corporation (YMTC) è destinato a far crescere i ricavi sei volte più velocemente dei concorrenti del settore quest'anno, grazie all'espansione nel business legato ai server, in vista di una prevista quotazione in borsa. I ricavi legati ai server erano praticamente nulli nel 2024, ma potrebbero arrivare a quasi il 39% del totale entro il 2028. Lo riferisce South China Morning Post.",
+   "more": [
+    "YMTC è il principale produttore cinese di memorie flash NAND, componenti chiave per smartphone, computer e data center, e rappresenta un tassello strategico nell'ambizione della Cina di ridurre la dipendenza dai fornitori stranieri di semiconduttori."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/tech/big-tech/article/3370871/chinese-memory-giant-ymtc-grow-revenue-6-times-faster-peers-ipo-nears-report?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-14T11:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za7b617b5",
+   "sez": "cultura",
+   "titolo": "Sposi cinesi con lo stesso identico nome diventano virali",
+   "orig": "‘Pure fate’: China newlyweds share identical names, face endless glitches in life situations",
+   "lead": "Una coppia di neosposi cinesi è diventata virale sui social media perché condivide esattamente lo stesso nome, scritto con gli stessi caratteri cinesi, e lavora nello stesso settore. Lo sposo, 33 anni, e la sposa, 28 anni, entrambi chiamati Zhu Xiaocong, hanno celebrato il matrimonio il 6 ottobre nella provincia orientale dello Zhejiang. Il poster di nozze condiviso online ha mostrato la coincidenza, che per molti rappresenta un segno del destino nonostante alcune complicazioni pratiche. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/people-culture/trending-china/article/3370890/pure-fate-china-newlyweds-share-identical-names-face-endless-glitches-life-situations?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-14T10:49+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z8c93e84e",
+   "sez": "mondo",
+   "titolo": "Incontro 'insolito' tra civili e militari Usa a Tokyo prima della visita di Trump in Cina",
+   "orig": "US holds ‘unusual’ civil-military meeting in Tokyo ahead of Trump’s China trip",
+   "lead": "Diplomatici statunitensi di alto livello, funzionari dell'amministrazione e comandanti militari dell'Indo-Pacifico si sono riuniti a Tokyo all'inizio del mese in quello che una fonte ha definito un incontro 'insolito', in vista della visita prevista a novembre del presidente Donald Trump in Cina. Secondo persone a conoscenza della riunione, l'evento rappresenta un'evoluzione di una prassi consolidata in cui gli ambasciatori statunitensi in Asia e nel Pacifico si incontrano per scambiarsi informazioni di intelligence, coordinare i rapporti diplomatici e allineare le priorità regionali. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/article/3370884/us-holds-unusual-civil-military-meeting-tokyo-ahead-trumps-china-trip?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-14T10:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z94b472f3",
+   "sez": "mondo",
+   "titolo": "A Hong Kong quasi un cane randagio su tre viene soppresso",
+   "orig": "Nearly 1 in 3 unattended dogs captured in Hong Kong euthanised this year",
+   "lead": "Secondo documenti presentati al Consiglio legislativo di Hong Kong, circa un cane randagio catturato su tre dalle autorità è stato soppresso nei primi mesi di quest'anno, un netto aumento rispetto al 18% registrato nel 2021. Negli ultimi cinque anni è inoltre diminuita la percentuale di cani recuperati dai proprietari o trasferiti ad associazioni animaliste per l'adozione, secondo quanto riferito dal Bureau for Environment and Ecology. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/health-environment/article/3370886/nearly-1-3-unattended-dogs-captured-hong-kong-euthanised-year?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-14T09:45+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z376efed4",
+   "sez": "mondo",
+   "titolo": "La premier giapponese Takaichi: 'Le faccende domestiche mi rendono più impegnata dei miei predecessori'",
+   "orig": "PM says housework makes her busier than male predecessors",
+   "lead": "La premier giapponese Sanae Takaichi ha dichiarato di essere più occupata dei suoi predecessori maschi a causa delle incombenze domestiche quotidiane. 'Al mattino faccio il bagno, preparo la colazione e poi lavo i piatti, per non parlare del trucco', ha detto Takaichi, descrivendo la sua routine mattutina prima di dedicarsi agli impegni istituzionali. Lo riferisce The Japan Times.",
+   "more": [
+    "Sanae Takaichi è la prima donna a ricoprire la carica di primo ministro del Giappone, un paese dove le donne restano fortemente sottorappresentate ai vertici della politica e dove il carico del lavoro domestico grava tradizionalmente sulle figure femminili."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/14/japan/prime-minister-sanae-takaichi-housework/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-14T18:15+09:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zdf391ca8",
+   "sez": "musica",
+   "titolo": "Una canzone creata con l'IA scala le classifiche coreane, le regole sul copyright non tengono il passo",
+   "orig": "AI-assisted song climbs Korean charts as copyright rules struggle to keep pace",
+   "lead": "Un brano realizzato con l'assistenza dell'intelligenza artificiale è salito ai vertici della classifica Top 100 di Melon in Corea del Sud, riaccendendo il dibattito su copyright e trasparenza nella musica generata artificialmente. 'The Adult I Dreamed Of', dell'artista Meomuru, è arrivato al terzo posto della classifica mercoledì. Uscito a giugno, il brano ha guadagnato popolarità dopo essere stato ampiamente usato come colonna sonora di video brevi sui social coreani, pur non appartenendo la voce a una persona reale. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10902847",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z5713d7f3",
+   "sez": "cultura",
+   "titolo": "I genitori di una giovane membro di A2O Lite accusati di mancato pagamento di stipendi in Cina",
+   "orig": "A2O Lite member Aijing’s parents face wage nonpayment allegations in China",
+   "lead": "Aijing, membro tredicenne cinese del gruppo rookie A2O Lite, è finita al centro di una controversia pochi giorni dopo l'esordio della band, dopo che sono emerse accuse secondo cui un'azienda gestita dai suoi genitori non avrebbe pagato gli stipendi di ex dipendenti. La cantante aveva attirato l'attenzione allo showcase di debutto a Goyang, nella provincia di Gyeonggi, per abilità di danza e stile paragonati a quelli della giovane BoA. Il giorno seguente i media cinesi hanno riportato le accuse contro i genitori. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10902794",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z47492701",
+   "sez": "cultura",
+   "titolo": "Il pattinatore Cha Jun-hwan debutta in tv dopo la pausa dalle competizioni",
+   "orig": "Figure skater Cha Jun-hwan takes TV role after competitive skating pause",
+   "lead": "Il pattinatore artistico sudcoreano Cha Jun-hwan reciterà in una nuova sitcom, segnando il suo ritorno alla televisione in sceneggiato per la prima volta dopo 18 anni. La piattaforma streaming Tving ha annunciato mercoledì che la serie originale 'The Gungjeon Land', ambientata in un parco divertimenti dietro le quinte di lavoratori part-time, uscirà nel 2027. Cha interpreterà Seong Dae-han, un neoassunto del parco. L'annuncio arriva un giorno dopo che l'atleta ha comunicato una pausa dalle competizioni. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10902793",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z4c212e1d",
+   "sez": "musica",
+   "titolo": "Taemin cancella il concerto a Seattle, rinviata anche l'expo dei brand coreani",
+   "orig": "Taemin&apos;s Seattle concert canceled, K-brand expo postponed",
+   "lead": "Il concerto del cantante K-pop Taemin previsto a Seattle per il 25 ottobre è stato cancellato a causa di ritardi nei visti statunitensi che hanno colpito personale chiave per tournée e produzione, costringendo gli organizzatori a rinviare anche un'esposizione di beni di consumo e cultura coreana con 31 marchi partecipanti. L'artista avrebbe dovuto chiudere il K-Era Fest alla Climate Pledge Arena; lo spettacolo era separato dal suo world tour, che il mese scorso aveva già visto sei tappe statunitensi rinviate per problemi simili con i visti. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10902791",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z932ed2df",
+   "sez": "economia",
+   "titolo": "Bonus di 78 giorni per oltre 11 lakh di dipendenti delle ferrovie indiane in vista del Diwali",
+   "orig": "Diwali bonanza for railway staff: 78-day bonus cleared for 11.4 lakh employees",
+   "lead": "Il Gabinetto dell'Unione indiana ha approvato un bonus legato alla produttività per i dipendenti delle ferrovie, per un valore complessivo di 2.009,61 crore di rupie, che andrà a beneficio di circa 11,41 lakh di lavoratori idonei nelle diverse categorie. Il bonus massimo per ogni dipendente sarà di 17.951 rupie. Il premio annuale viene erogato in vista delle festività di Durga Puja e Dussehra per motivare il personale, in un periodo che ha visto risultati significativi nel trasporto merci e passeggeri nel 2025-26. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/business/india-business/78-day-bonus-for-railway-staff-cabinet-clears-rs-2010-crore-payout-for-11-4-lakh-employees/articleshow/134939533.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T16:15+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "ze8884dee",
+   "sez": "mondo",
+   "titolo": "La Corte costituzionale federale pakistana respinge la richiesta di Bushra Bibi di sospendere la condanna",
+   "orig": "FCC rejects Bushra Bibi's petition seeking suspension of 7-year Al-Qadir Trust sentence",
+   "lead": "La Corte costituzionale federale del Pakistan ha respinto mercoledì una richiesta presentata da Bushra Bibi, moglie dell'ex premier incarcerato Imran Khan, volta a sospendere la sua condanna a sette anni nel caso Al-Qadir Trust da 190.000 sterline. In precedenza nella giornata, un collegio di due giudici, composto dal presidente della Corte Aminuddin Khan e dal giudice Ali Baqar Najafi, aveva riservato la decisione chiedendo all'avvocato Salman Safdar di presentare argomentazioni scritte. L'ordine dettagliato di rigetto sarà emesso successivamente. Bushra aveva presentato ricorso a luglio sostenendo, tra l'altro, che in quanto donna meritasse un trattamento diverso. Lo riferisce Dawn.",
+   "more": [
+    "Bushra Bibi è la moglie dell'ex primo ministro pakistano Imran Khan, attualmente detenuto; il caso Al-Qadir Trust riguarda accuse di corruzione legate a una fondazione religiosa ed è uno dei procedimenti giudiziari che hanno colpito la coppia dopo la destituzione di Khan dal potere."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2037095/fcc-rejects-bushra-bibis-petition-seeking-suspension-of-7-year-al-qadir-trust-sentence",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-14T15:06+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z9a4860e6",
+   "sez": "mondo",
+   "titolo": "A Salyan poco entusiasmo per i festeggiamenti del Dashain dopo le alluvioni",
+   "orig": "Salyan villages have little heart for Dashain celebrations",
+   "lead": "Nei villaggi del distretto di Salyan, in Nepal, i festeggiamenti per il Dashain quest'anno sono vissuti con scarso entusiasmo, mentre decine di persone risultano ancora disperse dopo le alluvioni del fiume Bhotekoshi nel distretto di Rasuwa. Le famiglie e i vicini della zona hanno poco da celebrare in questo periodo di festa tradizionalmente molto sentito in Nepal. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il Dashain è la festività induista più importante del Nepal, un periodo di riunioni familiari e celebrazioni che dura circa due settimane; quest'anno è segnato dal lutto per le vittime delle recenti alluvioni nel paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/14/salyan-villages-have-little-heart-for-dashain-celebrations",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z707e5a94",
+   "sez": "mondo",
+   "titolo": "Commissione parlamentare nepalese sospende l'audizione per l'ambasciatore in Malesia",
+   "orig": "Parliamentary panel halts hearing on Malaysia ambassador nominee over complaints",
+   "lead": "Una commissione parlamentare del Nepal ha sospeso l'audizione sul candidato ambasciatore in Malesia, Chudamani Kharel, dopo denunce relative a presunti rapporti finanziari irregolari, irregolarità fondiarie e conflitti di interesse. I parlamentari hanno citato queste accuse come motivo della sospensione, mentre Kharel respinge ogni addebito. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/politics/2026/10/14/parliamentary-panel-halts-hearing-on-malaysia-ambassador-nominee-over-complaints",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z57c58ab3",
+   "sez": "economia",
+   "titolo": "Marcos lancia nuovi programmi Tupad per l'occupazione nelle Filippine",
+   "orig": "Marcos launches new Tupad programs to boost Filipino employment",
+   "lead": "Il presidente filippino Ferdinand Marcos Jr. ha lanciato mercoledì nuovi programmi per l'occupazione destinati ad aiutare i filippini a sviluppare competenze, accedere a opportunità di lavoro e costruire mezzi di sussistenza sostenibili. Parlando al 26° Congresso nazionale degli uffici pubblici per l'impiego a Cebu, Marcos ha presentato i programmi Trabahong-Dagat, SkillPass e Sagip-Trabaho, parte delle sette iniziative del Dipartimento del Lavoro nell'ambito del programma Tupad per i lavoratori svantaggiati. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "Il programma Tupad è un'iniziativa governativa filippina pensata per fornire opportunità di lavoro temporaneo e formazione professionale ai lavoratori svantaggiati o sfollati, nell'ambito delle politiche di sostegno all'occupazione del Dipartimento del Lavoro."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2323804/marcos-launches-new-tupad-programs-to-boost-filipino-employment",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-14T18:51+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z1a8279c4",
+   "sez": "mondo",
+   "titolo": "Cinque malesi arrestati a Tokyo con cocaina nascosta nelle suole delle scarpe",
+   "orig": "Malaysians held in Tokyo after 5 kg of cocaine found under their shoe insoles",
+   "lead": "La polizia giapponese ha arrestato cinque cittadini malesi all'aeroporto di Haneda, a Tokyo, con l'accusa di aver contrabbandato circa 5 chilogrammi di cocaina nascosta sotto le solette delle scarpe. Secondo le autorità, il valore di mercato della droga è stimato in 120 milioni di yen, circa 758.000 dollari statunitensi. Lo riferisce VnExpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VnExpress",
+     "p": "XX",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/news/news/crime/malaysians-held-in-tokyo-after-5-kg-of-cocaine-found-under-their-shoe-insoles-5131947.html",
+     "angolo": "",
+     "atlas": "Vietnam",
+     "t": "2026-10-14T16:29+07:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z035f08cc",
+   "sez": "mondo",
+   "titolo": "Gli auditor statali thailandesi indagano sui contratti di Thai PBS",
+   "orig": "State auditors query Thai PBS contracts",
+   "lead": "L'Ufficio di revisione dello Stato (State Audit Office) ha espresso sospetti sul modo in cui la Thai Public Broadcasting Service assume e paga i produttori dei programmi, sostenendo che l'emittente eluda le regole sui pagamenti. L'indagine riguarda le pratiche contrattuali dell'emittente pubblica thailandese. Lo riferisce Bangkok Post.",
+   "more": [
+    "Thai PBS è l'emittente di servizio pubblico della Thailandia, finanziata con fondi statali e incaricata di garantire un'informazione indipendente dagli interessi commerciali e politici."
+   ],
+   "fonti": [
+    {
+     "n": "Bangkok Post",
+     "p": "XX",
+     "c": "Bangkok",
+     "u": "https://www.bangkokpost.com/thailand/general/3336960/state-auditors-query-thai-pbs-contracts",
+     "angolo": "",
+     "atlas": "Thailand",
+     "t": "2026-10-14T17:22+07:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z1cd3b12f",
+   "sez": "mondo",
+   "titolo": "Thai Airways rafforza il risarcimento dopo la crisi dei bagagli causata dalle alluvioni",
+   "orig": "Thai Airways offers new help after baggage crisis",
+   "lead": "Thai Airways International sta intensificando le misure di compensazione per ristabilire la fiducia dei passeggeri dopo che gravi alluvioni hanno interrotto i servizi della compagnia, lasciando a terra 25.000 bagagli e costringendo alla cancellazione di oltre 200 voli. La compagnia punta a ripristinare la normalità operativa dopo i disagi provocati dal maltempo. Lo riferisce Bangkok Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bangkok Post",
+     "p": "XX",
+     "c": "Bangkok",
+     "u": "https://www.bangkokpost.com/thailand/general/3336974/thai-airways-offers-new-help-after-baggage-crisis",
+     "angolo": "",
+     "atlas": "Thailand",
+     "t": "2026-10-14T16:19+07:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z8b750dd5",
+   "sez": "mondo",
+   "titolo": "Il ministro thailandese Sihasak: l'aeroporto cinese in Laos non desta preoccupazioni immediate",
+   "orig": "FM Sihasak says Chinese airfield in Laos poses no immediate concern",
+   "lead": "Il ministro degli Esteri thailandese Sihasak Phuangketkeow ha ridimensionato le preoccupazioni su un progetto aeroportuale cinese in Laos, situato a circa 50 km dal confine con la Thailandia, affermando che al momento non rappresenta una fonte di allarme immediato per il Paese. Le dichiarazioni arrivano in un contesto di crescente presenza cinese nella regione. Lo riferisce Bangkok Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bangkok Post",
+     "p": "XX",
+     "c": "Bangkok",
+     "u": "https://www.bangkokpost.com/thailand/general/3336939/fm-sihasak-says-chinese-airfield-in-laos-poses-no-immediate-concern",
+     "angolo": "",
+     "atlas": "Thailand",
+     "t": "2026-10-14T15:02+07:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z04393e00",
+   "sez": "mondo",
+   "titolo": "Gli elettori operai dell'Ohio ripensano il sostegno a Trump e ai repubblicani",
+   "orig": "Ohio's working-class voters rethink support for Trump and the Republican Party",
+   "lead": "A Warren, in Ohio, a dieci anni dal momento in cui il repubblicano Donald Trump sottrasse ai democratici gran parte dell'elettorato operaio e sindacale, storicamente pilastro del sostegno democratico nello stato, i democratici e i leader sindacali intravedono ora un'opportunità per riconquistare una parte di quei voti in vista delle elezioni statunitensi del 3 novembre. Lo riferisce The Straits Times.",
+   "more": [
+    "L'Ohio è uno stato industriale del Midwest statunitense, storicamente roccaforte del voto operaio e sindacale, divenuto negli ultimi anni un indicatore chiave degli spostamenti elettorali tra democratici e repubblicani negli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/ohios-working-class-voters-rethink-support-for-trump-and-the-republican-party",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-14T18:11+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z71e2e507",
+   "sez": "mondo",
+   "titolo": "Famiglie nicaraguensi chiedono risposte mentre i dissidenti spariscono in custodia statale",
+   "orig": "Nicaraguan families beg for answers as dissenters vanish into state custody",
+   "lead": "A Città del Messico, Thelma Brenes racconta la propria preoccupazione dopo che suo padre, in Nicaragua, ha smesso di rispondere ai suoi messaggi. Il caso si inserisce in un contesto più ampio di dissidenti nicaraguensi che scompaiono in custodia dello Stato, lasciando le famiglie senza informazioni sul loro destino. Lo riferisce The Straits Times.",
+   "more": [
+    "Il Nicaragua è guidato dal presidente Daniel Ortega, il cui governo è accusato da organizzazioni per i diritti umani di reprimere duramente oppositori politici, giornalisti e attivisti, spesso attraverso arresti arbitrari e sparizioni non chiarite."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/nicaraguan-families-beg-for-answers-as-dissenters-vanish-into-state-custody",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-14T18:05+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z83b5144c",
+   "sez": "sport",
+   "titolo": "Il Kazakhstan conquista due ori ai mondiali di lotta Under 23 a Las Vegas",
+   "orig": "Kazakhstan Claims Two Golds at U23 World Wrestling Championships in Las Vegas",
+   "lead": "I lottatori kazaki di stile greco-romano hanno conquistato due medaglie d'oro ai Campionati mondiali di lotta Under 23 in corso a Las Vegas. Aibek Aitbekov ha vinto il titolo nella categoria 60 kg battendo l'azero Elmir Aliyev, campione mondiale U23 in carica, mentre Yusuf Ashrapov ha trionfato nella sua finale. Temirlan Turdakyn si è invece qualificato per la finale del titolo nella sua categoria. Lo riferisce The Astana Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/kazakhstan-claims-two-golds-at-u23-world-wrestling-championships-in-las-vegas/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-14T08:46+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za3dbc157",
+   "sez": "mondo",
+   "titolo": "L'ex capo dello Shin Bet fa causa a Netanyahu: 'Ha inventato una calunnia di sangue'",
+   "orig": "Former Shin Bet chief suing Netanyahu: 'Fabricated blood libel in attempt to shift blame for October 7'",
+   "lead": "Ronen Bar, ex capo dello Shin Bet, in una risposta legale alle accuse rivoltegli da Benjamin Netanyahu, denuncia che il primo ministro israeliano avrebbe 'fabbricato una calunnia di sangue' nel tentativo di scaricare su di lui le responsabilità per il 7 ottobre. Nella sua replica, Bar elenca almeno 20 avvertimenti forniti sulla situazione di sicurezza a Gaza e produce prove secondo cui il servizio avrebbe condiviso informazioni di intelligence con l'ufficio di Netanyahu poche ore prima dell'attacco di Hamas. Lo riferisce Haaretz.",
+   "more": [
+    "Lo Shin Bet è il servizio di sicurezza interna israeliano, responsabile tra l'altro della prevenzione del terrorismo; il suo operato nei mesi precedenti l'attacco di Hamas del 7 ottobre 2023 è oggetto di accese controversie politiche in Israele."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-security/2026-10-14/ty-article/.premium/ex-shin-bet-head-suing-netanyahu-for-blood-libel-trying-to-shift-oct-7-blame/000001a1-391b-dd50-a1ad-3bfb9bf50000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-14T13:45+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zade0a2c5",
+   "sez": "mondo",
+   "titolo": "Netanyahu ripete l'accusa: i nemici di Israele vogliono colpire prima delle elezioni",
+   "orig": "Netanyahu repeats claim Israel's enemies seeking to attack before election",
+   "lead": "Il primo ministro israeliano Benjamin Netanyahu, in un'intervista alla radio militare, ha ribadito che i nemici del Paese potrebbero tentare un attacco prima delle elezioni del 27 ottobre. Ha detto di sperare che non ci sia un'escalation prima del voto, ma ha parlato di \"segnali\" preoccupanti. Esponenti dell'opposizione hanno accusato Netanyahu di poter usare un'eventuale guerra come strumento per restare al potere, rinnovando sospetti già emersi in passato sulle tempistiche delle operazioni militari israeliane rispetto al calendario elettorale interno. Lo riferisce Haaretz.",
+   "more": [
+    "Israele si avvia a elezioni parlamentari in un contesto di tensioni regionali multiple, dal confronto con l'Iran alla guerra in corso in Yemen. Le accuse reciproche tra maggioranza e opposizione su un uso politico della sicurezza nazionale non sono nuove nella storia elettorale israeliana."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/elections/2026-10-14/ty-article/.premium/netanyahu-repeats-claim-israels-enemies-seeking-to-attack-before-election/000001a1-39db-d330-a3e5-f9fb9eed0000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-14T13:26+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z1d2aba2e",
+   "sez": "mondo",
+   "titolo": "Il capo dell'MI5: l'Iran prende di mira siti militari, il presunto piano su RAF Fairford 'non è un caso isolato'",
+   "orig": "MI5 chief says Iran targeting military sites, suspected RAF Fairford plot 'not unique'",
+   "lead": "Il direttore generale dei servizi di sicurezza britannici MI5, Ken McCallum, ha dichiarato che Iran e Russia stanno intensificando una guerra ibrida in tutta Europa, citando come esempio un sospetto piano contro la base aerea RAF Fairford nel Regno Unito, che non sarebbe un episodio unico. McCallum ha inoltre avvertito che l'intelligenza artificiale potrebbe permettere a gruppi terroristici di sviluppare nuovi agenti patogeni, definendo questa possibilità \"genuinamente nuova\" e meritevole della seria attenzione che sta già ricevendo da parte delle autorità. Lo riferisce Haaretz.",
+   "more": [
+    "L'MI5 è il servizio di sicurezza interna del Regno Unito, incaricato di contrastare spionaggio, terrorismo e minacce ibride sul territorio nazionale. RAF Fairford è una base aerea britannica storicamente utilizzata anche da forze alleate per operazioni strategiche."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/world-news/europe/2026-10-14/ty-article/mi5-chief-iran-targeting-u-k-military-sites-raf-fairford-plot-not-unique/000001a1-394f-d57f-abbb-3fcfff380000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-14T12:24+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z05b77e54",
+   "sez": "mondo",
+   "titolo": "Israele pianifica tagli ai fondi per lo sviluppo arabo per finanziare acquisti militari 'classificati'",
+   "orig": "Israel plans to cut Arab development funds for 'classified' defense purchases",
+   "lead": "Il governo israeliano prevede un ulteriore taglio di 2,6 miliardi di shekel ai fondi destinati allo sviluppo delle comunità arabe, per destinare le risorse a un'urgente esigenza di difesa. Secondo quanto riportato, il consulente legale del ministero delle Finanze ha riferito che funzionari della difesa avrebbero avvertito che un ritardo nelle procedure di approvvigionamento potrebbe compromettere la capacità di risposta militare del Paese. Non vengono specificati i dettagli degli acquisti, definiti riservati per motivi di sicurezza. Lo riferisce Haaretz.",
+   "more": [
+    "I fondi per lo sviluppo delle comunità arabe in Israele sono stanziamenti pubblici destinati a infrastrutture, istruzione e servizi nelle città e nei villaggi a maggioranza araba del Paese, un tema spesso al centro di controversie politiche sulle priorità di bilancio."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-security/2026-10-14/ty-article/.premium/israel-plans-to-cut-arab-development-funds-for-classified-defense-purchases/000001a1-3979-ddfa-adad-fdf9dd980000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-14T12:06+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z553f0660",
+   "sez": "mondo",
+   "titolo": "Yemen, ospedali sopraffatti dall'aumento dei feriti di guerra, avverte la Croce Rossa",
+   "orig": "Yemen hospitals overwhelmed by surge in war casualties, Red Cross warns",
+   "lead": "Gli ospedali dello Yemen faticano a curare il crescente numero di feriti provocati dai combattimenti su diversi fronti del Paese, ha avvertito il Comitato internazionale della Croce Rossa. Feras Abusamra, coordinatore sanitario del Cicr, ha dichiarato che il personale dei reparti traumatologici è sotto enorme pressione. L'organizzazione ha segnalato carenze di materiale chirurgico, anestetici, ossigeno e medicinali in un sistema sanitario già indebolito da anni di conflitto. Lo riferisce Middle East Eye.",
+   "more": [
+    "Lo Yemen è teatro da oltre un decennio di un conflitto tra il governo riconosciuto a livello internazionale e i ribelli Houthi, con pesanti conseguenze umanitarie. Marib e Taiz sono tra le aree più colpite dagli scontri recenti, mentre il sistema sanitario yemenita opera da anni in condizioni di grave carenza di risorse."
+   ],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-hospitals-overwhelmed-surge-war-casualties-red-cross-warns",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T10:46+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z90946b13",
+   "sez": "mondo",
+   "titolo": "Francia, lo scandalo antisemitismo scuote la strategia di 'de-demonizzazione' del Rassemblement National",
+   "orig": "France: Far-right party’s ‘de‑demonisation’ strategy rattled by antisemitism scandal",
+   "lead": "Il leader del Rassemblement National Jordan Bardella è al centro di accuse di antisemitismo pubblicate da un sito investigativo francese, che rischiano di compromettere la strategia del partito volta a smarcarsi dal suo passato estremista. L'articolo di Middle East Eye ricorda che Bardella aveva partecipato lo scorso marzo a una conferenza sull'antisemitismo a Gerusalemme, nel tentativo di costruirsi un'immagine moderata. Le nuove accuse minacciano ora di riportare alla luce le radici controverse del partito guidato in passato da Marine Le Pen. Lo riferisce Middle East Eye.",
+   "more": [
+    "Il Rassemblement National, erede del Front National fondato da Jean-Marie Le Pen, ha cercato negli ultimi anni sotto la guida di Marine Le Pen e poi di Jordan Bardella di presentarsi come forza politica moderata, allontanandosi da posizioni storicamente associate ad antisemitismo e xenofobia."
+   ],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/news/france-far-right-partys-de-demonisation-strategy-rattled-antisemitism-scandal",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T10:36+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z334f9eda",
+   "sez": "mondo",
+   "titolo": "Arabia Saudita offrirà partecipazione da remoto alla conferenza FII dopo gli attacchi",
+   "orig": "Saudi Arabia to offer remote option for FII conference after attacks: Reuters",
+   "lead": "Secondo quanto riportato da Reuters, l'Arabia Saudita intende trasformare in evento ibrido la sua conferenza di punta Future Investment Initiative, permettendo ai dirigenti internazionali di partecipare da remoto dopo gli attacchi mortali del fine settimana all'aeroporto di Riad. Alcuni partecipanti potrebbero comunque recarsi nella capitale, anche tramite piste aeree alternative fuori città o in Stati del Golfo vicini. La decisione arriva mentre il regno cerca di continuare ad attrarre investitori stranieri nonostante l'escalation del conflitto con gli Houthi, dopo che martedì un edificio amministrativo della sede Aramco a Dhahran è stato colpito, secondo il ministero dell'Energia.",
+   "more": [
+    "Il Future Investment Initiative è la conferenza economica annuale promossa dall'Arabia Saudita per attrarre capitali esteri e sostenere i piani di diversificazione economica del regno, spesso soprannominata 'Davos nel deserto'."
+   ],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-offer-remote-option-fii-conference-after-attacks-reuters",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T10:07+01:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/2026/10/14/guerra-iran-usa-trump-news-diretta",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/why-billions-spent-on-defense-havent-shielded-saudi-arabia-from-houthi-attacks/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-14T09:43+00:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2037082/houthi-attacks-on-saudi-arabia-totally-unacceptable-says-dar",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-14T16:10+05:00"
+    },
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/world/blasts-heard-in-saudi-capital-after-houthis-strike-building-in-aramco-hq-area/163050642.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-14T10:40+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zf2af688e",
+   "sez": "cucina",
+   "titolo": "L'Australia Meridionale entra nella Guida Michelin, prima volta per l'Australia",
+   "orig": "South Australia joins world-renowned Michelin Guide in Aussie first",
+   "lead": "La celebre Guida Michelin si è espansa per la prima volta in Australia, includendo ristoranti dell'Australia Meridionale. Si tratta di un debutto significativo per il panorama gastronomico del Paese, che finora non era mai stato coperto dalla guida francese dedicata all'eccellenza culinaria. Lo riferisce Sydney Morning Herald.",
+   "more": [
+    "La Guida Michelin è una delle pubblicazioni più autorevoli al mondo nella valutazione dei ristoranti, con un sistema di stelle che da oltre un secolo rappresenta un riconoscimento ambito nel settore della ristorazione internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/south-australia-joins-world-renowned-michelin-guide-in-aussie-first-20261014-p615ob.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-14T22:16+11:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z4301b633",
+   "sez": "sport",
+   "titolo": "Sutherland firma il cappotto nella serie contro il Bangladesh",
+   "orig": "Sutherland seals series whitewash",
+   "lead": "Annabel Sutherland ha segnato i punti decisivi per la vittoria nella terza partita ODI (One Day International) contro il Bangladesh, completando così il cappotto della serie per la squadra australiana. Lo riferisce Sydney Morning Herald.",
+   "more": [
+    "Il cricket ODI è un formato internazionale della disciplina in cui le due squadre giocano un numero limitato di turni di battuta, spesso organizzato in serie di più incontri tra nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/sutherland-seals-series-whitewash-20261014-p615o3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-14T21:03+11:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za1755909",
+   "sez": "mondo",
+   "titolo": "Processo Russell Brand: l'accusa lo definisce un predatore sessuale 'spietato'",
+   "orig": "Prosecution calls Russell Brand 'ruthless' sexual predator at opening of sex assault trial",
+   "lead": "Brand, che si trova a piede libero su cauzione, è arrivato in tribunale mercoledì tra una folla di fotografi e giornalisti video, dichiarando di sentirsi \"benedetto\". Lo riferisce Euronews.",
+   "more": [
+    "Russell Brand è un attore, comico e conduttore britannico noto a livello internazionale, diventato negli ultimi anni oggetto di diverse accuse pubbliche riguardanti condotte sessuali, che hanno portato all'apertura di un procedimento giudiziario."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/14/prosecution-calls-russell-brand-ruthless-sexual-predator-at-opening-of-sex-assault-trial",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T12:51+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zc83b5204",
+   "sez": "mondo",
+   "titolo": "Una delegazione cinese visita le isole Curili controllate dalla Russia, protesta del Giappone",
+   "orig": "Chinese business visit to Russia-held Kuril Islands prompts protest from Japan",
+   "lead": "Una delegazione di uomini d'affari provenienti dalla provincia cinese di Heilongjiang ha visitato Etorofu, isola controllata dalla Russia ma rivendicata dal Giappone al largo di Hokkaido, per esplorare possibili progetti economici congiunti, suscitando la protesta di Tokyo. Secondo il governo dell'oblast' di Sakhalin, che amministra l'isola, funzionari e rappresentanti d'affari della provincia cinese, confinante con l'estremo oriente russo, hanno condotto un sopralluogo per valutare opportunità di investimento. Etorofu, nota ai russi come Iturup, è la più grande delle isole contese. Lo riferisce South China Morning Post.",
+   "more": [
+    "Le isole Curili meridionali, controllate dalla Russia dalla fine della Seconda guerra mondiale, sono rivendicate dal Giappone come territori storicamente giapponesi: la disputa territoriale ha finora impedito la firma di un trattato di pace formale tra i due Paesi."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/article/3370854/chinese-business-visit-kuril-islands-will-do-nothing-ease-tensions-tokyo?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-14T07:59+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z99dacf36",
+   "sez": "mondo",
+   "titolo": "Mentre gli Usa cercano accordi minerari, Xi avverte: le risorse africane non sono strumenti di 'rivalità'",
+   "orig": "As US pursues mine deals, Xi warns African resources are not tools for ‘rivalry’",
+   "lead": "Il presidente cinese Xi Jinping ha avvertito che le risorse dell'Africa non devono essere usate come strumento di rivalità geopolitica, in un momento in cui gli Stati Uniti sfidano il dominio cinese sui minerali critici nel continente. Xi ha dichiarato al presidente del Botswana Duma Boko, in visita a Pechino, che \"le risorse dell'Africa appartengono all'Africa\", definendo un'\"ingiustizia storica\" il fatto che un'ingiusta divisione internazionale del lavoro abbia relegato il continente in fondo alle catene industriali e del valore globali. Lo riferisce South China Morning Post citando l'agenzia Xinhua.",
+   "more": [
+    "La competizione tra Cina e Stati Uniti per l'accesso ai minerali critici africani, essenziali per tecnologie come batterie e semiconduttori, è diventata negli ultimi anni un terreno centrale della rivalità geopolitica globale, con entrambe le potenze che cercano accordi con i governi del continente."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/article/3370847/us-pursues-mine-deals-xi-warns-african-resources-are-not-tools-rivalry?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-14T07:24+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z34ebc904",
+   "sez": "italia",
+   "titolo": "Hydra, il collaboratore Bellusci: 'Il sindaco di Buscate chiese aiuto alla 'ndrangheta per sfrattare abusivi da una casa popolare'",
+   "orig": "Hydra, il collaboratore Bellusci: “Il sindaco di Buscate chiese aiuto alla ‘ndrangheta per sfrattare degli abusivi da una casa popolare”",
+   "lead": "Un collaboratore di giustizia, Bellusci, ha raccontato nell'ambito dell'inchiesta Hydra che il sindaco di Buscate, in Lombardia, avrebbe chiesto aiuto alla 'ndrangheta per sgomberare occupanti abusivi da una casa popolare, invece di rivolgersi alle forze dell'ordine. Il sindaco in questione, Fabio Merlotti, attualmente in carica al secondo mandato, non risulta indagato. La vicenda è stata rivelata oggi dalle dichiarazioni del collaboratore nell'ambito del procedimento giudiziario. Lo riferisce Il Fatto Quotidiano.",
+   "more": [
+    "Buscate è un comune della provincia di Milano. Le inchieste sulle infiltrazioni della 'ndrangheta nel Nord Italia, come quella denominata Hydra, indagano da anni sui legami tra organizzazioni criminali calabresi e ambienti politici ed economici locali anche fuori dalla Calabria."
+   ],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/14/processo-hydra-sindaco-buscate-ndrangheta-notizie/8538053/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T10:49+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zef2e02b6",
+   "sez": "mondo",
+   "titolo": "Ungheria, il Parlamento guidato da Magyar cancella le norme anti-Lgbtq+ di Orbán. L'Ue sblocca 4,2 miliardi di euro",
+   "orig": "Ungheria, Magyar cancella le norme anti-Lgbtq+ di Orbán. L’Ue sblocca 4,2 miliardi di euro congelati",
+   "lead": "Il Parlamento ungherese ha approvato una legge che abolisce le norme, introdotte dall'ex premier Viktor Orbán, che vietavano qualsiasi riferimento all'omosessualità e alla transessualità nelle scuole, nei libri e sui media pubblici e privati. Proprio sfruttando quelle disposizioni, Orbán era arrivato a vietare il Pride nel Paese. Contestualmente, dopo i progressi registrati, l'Unione europea ha sbloccato 4,2 miliardi di euro di fondi fino a oggi congelati destinati all'Ungheria. Lo riferisce la Repubblica.",
+   "more": [
+    "Le leggi anti-Lgbtq+ introdotte da Orbán erano state più volte condannate da Bruxelles come discriminatorie e contrarie ai valori dell'Unione europea, portando al congelamento di fondi comunitari destinati a Budapest come leva di pressione politica."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/14/news/ungheria_magyar_cancella_norme_anti_lgbtq_orban_ue_sblocca_fondi_congelati-425647137/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T12:05+02:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/madjarski-parlament-ukinuo-orbanove-mere-protiv-lgbtq-zajednice/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-14T13:14+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z20e555fd",
+   "sez": "cultura",
+   "titolo": "Beatrice Rana inaugura la stagione della Società del Quartetto a Milano",
+   "orig": "Beatrice Rana inaugura stagione Società del Quartetto",
+   "lead": "La pianista Beatrice Rana ha inaugurato la stagione della Società del Quartetto di Milano con un concerto nella Sala Verdi del Conservatorio, dedicato a musiche di Bach, Debussy e Chopin, concluso con due bis. Nell'occasione la pianista ha parlato ai microfoni di Sky TG24 non solo di musica ma anche della sua nuova vita da madre, in un'intervista raccolta da Chiara Ribichini. Lo riferisce Sky TG24.",
+   "more": [
+    "Beatrice Rana è una pianista italiana affermatasi a livello internazionale, nota per le interpretazioni del repertorio classico e romantico. La Società del Quartetto di Milano è una storica istituzione concertistica dedicata alla musica da camera e sinfonica."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/spettacolo/video/2026/10/14/beatrice-rana-inaugura-stagione-societa-del-quartetto-1131631",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zb0a472a7",
+   "sez": "mondo",
+   "titolo": "Kenya Airways in trattative con investitori dopo il salvataggio da 45 miliardi di scellini",
+   "orig": "Sh45b shareholder loan: Inside Kenya Airways advanced investor talks",
+   "lead": "Kenya Airways sta trattando con potenziali investitori dopo aver ricevuto un salvataggio da 45 miliardi di scellini kenioti sotto forma di prestito degli azionisti. La compagnia aerea nazionale keniota cerca nuovi capitali per rilanciarsi, ma i critici denunciano l'assenza di una strategia di crescita chiara nel piano di risanamento presentato dai vertici. Lo riferisce The Standard (Kenya).",
+   "more": [
+    "Kenya Airways è la compagnia aerea di bandiera del Kenya, storicamente in difficoltà finanziarie nonostante il ruolo di hub regionale a Nairobi; negli ultimi anni ha ricevuto più volte sostegno statale per evitare il fallimento."
+   ],
+   "fonti": [
+    {
+     "n": "The Standard (Kenya)",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.standardmedia.co.ke/article/2001560073/sh45b-shareholder-loan-inside-kenya-airways-advanced-investor-talks",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-14T11:00+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z660152ad",
+   "sez": "mondo",
+   "titolo": "Il Monte Bianco quasi due metri più alto rispetto al 2023",
+   "orig": "Mont Blanc nearly two metres taller than in 2023: French surveyors",
+   "lead": "Il Monte Bianco, la cima più alta della Francia, risulta quasi due metri più alto rispetto all'ultima misurazione del 2023, secondo i geometri francesi. Mercoledì è stato annunciato un aumento di 1,88 metri, che porta la vetta alpina a 4.807,47 metri. Jean des Garets, capo geometra del dipartimento dell'Alta Savoia, nel sud-est della Francia, ha spiegato che la sommità del massiccio è in continuo movimento. Lo riferisce Hespress English.",
+   "more": [
+    "Il Monte Bianco, al confine tra Francia e Italia, è la montagna più alta delle Alpi; la sua altezza varia nel tempo per l'accumulo di neve e ghiaccio sulla cima, misurata periodicamente da squadre di geometri con tecniche satellitari."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147272-mont-blanc-nearly-two-metres-taller-than-in-2023-french-surveyors.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-14T10:42+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z971906ac",
+   "sez": "mondo",
+   "titolo": "Re Felipe VI visita Ceuta dopo la crisi migratoria di luglio",
+   "orig": "🔴 Ceuta live: Spain's King Felipe VI begins visit to occupied Melilla",
+   "lead": "Re Felipe VI di Spagna ha iniziato martedì la sua prima visita da monarca a Ceuta, città nordafricana sotto sovranità spagnola, a meno di tre mesi dalla crisi migratoria di luglio che aveva acuito le tensioni nell'area. La visita arriva mentre Spagna e Unione Europea continuano ad attuare le misure adottate dopo gli eventi avvenuti al confine con il Marocco settentrionale durante due giorni di luglio. Lo riferisce Hespress English.",
+   "more": [
+    "Ceuta è un'enclave spagnola sulla costa settentrionale del Marocco, da tempo al centro di tensioni diplomatiche tra Madrid e Rabat legate a flussi migratori e confini contesi, spesso teatro di tentativi di attraversamento di massa da parte di migranti."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147215-%f0%9f%94%b4-ceuta-live-latest-developments-as-felipe-vi-visits-the-north-african-city.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-14T10:28+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z97785e13",
+   "sez": "mondo",
+   "titolo": "Riservata la sentenza nel ricorso del ministro Saifuddin Nasution",
+   "orig": "Judgment reserved in Saifuddin Nasution’s appeal over RM600,000 awarded to Sanusi",
+   "lead": "La Corte d'Appello malese ha riservato la sentenza nel ricorso del ministro dell'Interno Saifuddin Nasution Ismail contro i 600.000 ringgit assegnati all'ex ministro capo del Kedah Muhammad Sanusi Md Nor. L'udienza si è svolta martedì a Putrajaya. Lo riferisce Malay Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/14/judgment-reserved-in-saifuddin-nasutions-appeal-over-rm600000-awarded-to-sanusi/239127",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-14T19:09+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zcdbcc67d",
+   "sez": "mondo",
+   "titolo": "Il ministro Fahmi: contenuti creativi e sicurezza online dei minori devono procedere insieme",
+   "orig": "Creative content drive must be matched by child online safety measures, says Fahmi",
+   "lead": "Il ministro delle Comunicazioni malese Fahmi Fadzil ha dichiarato che gli sforzi per promuovere contenuti creativi sulle piattaforme digitali devono procedere insieme a misure per la sicurezza online dei minori. La dichiarazione è stata rilasciata il 14 ottobre a Kuala Lumpur. Lo riferisce Malay Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/14/creative-content-drive-must-be-matched-by-child-online-safety-measures-says-fahmi/239128",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-14T19:09+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z19bf0e2f",
+   "sez": "mondo",
+   "titolo": "Malaysia, arrestati 29 uomini per propaganda online di gruppi vietati",
+   "orig": "Police arrest 29 men over alleged spread of banned groups’ propaganda on social media",
+   "lead": "La polizia malese ha arrestato 29 uomini, tra cui uno straniero, con l'accusa di aver promosso e diffuso sui social media propaganda legata a gruppi vietati. L'operazione è stata annunciata il 14 ottobre a Kuala Lumpur. Lo riferisce Malay Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/14/police-arrest-29-men-over-alleged-spread-of-banned-groups-propaganda-on-social-media/239124",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-14T19:03+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z5934434f",
+   "sez": "mondo",
+   "titolo": "Il sovrano di Negeri Sembilan: le tradizioni non si difendono violando le regole",
+   "orig": "Tuanku Muhriz: Customs cannot be defended by breaching the rules",
+   "lead": "Il sovrano di Negeri Sembilan, Tuanku Muhriz Ibni Almarhum Tuanku Munawir, ha dichiarato che le tradizioni e le usanze non possono essere difese violando le regole. Il monarca malese ha fatto la dichiarazione il 14 ottobre a Kuala Lumpur. Lo riferisce Malay Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/14/tuanku-muhriz-customs-cannot-be-defended-by-breaching-the-rules/239109",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-14T17:26+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zc520616e",
+   "sez": "mondo",
+   "titolo": "Malaysia, ancora attesa la circolare sullo stipendio iniziale per i neolaureati pubblici",
+   "orig": "Public Services Commission awaits circular on RM2,500 starting salary for fresh grads entering public service",
+   "lead": "La Commissione per i Servizi Pubblici della Malaysia attende ancora la circolare ufficiale per l'attuazione dello stipendio iniziale di 2.500 ringgit per i neolaureati che entrano nel servizio pubblico. L'annuncio è arrivato il 14 ottobre da Kuala Kangsar. Lo riferisce Malay Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/14/public-services-commission-awaits-circular-on-rm2500-starting-salary-for-fresh-grads-entering-public-service/239112",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-14T17:24+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z3c1b2726",
+   "sez": "mondo",
+   "titolo": "Cipro, consegnato al servizio legale il fascicolo sugli airbag Takata",
+   "orig": "Legal service takes receipt of police Takata file",
+   "lead": "La polizia cipriota ha confermato mercoledì di aver consegnato al servizio legale il fascicolo sull'indagine riguardante la storia degli airbag difettosi Takata e la loro importazione nel Paese. La trasmissione arriva 15 mesi dopo che un comitato ad hoc aveva raccomandato approfondimenti sulla vicenda. Lo riferisce Cyprus Mail.",
+   "more": [
+    "Takata è il produttore giapponese di airbag coinvolto in uno dei più grandi richiami automobilistici della storia, dopo che i suoi dispositivi difettosi hanno causato lesioni e decessi in tutto il mondo per il malfunzionamento dei gonfiatori."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/14/legal-service-takes-receipt-of-police-takata-file",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-14T14:12+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z3d087f5c",
+   "sez": "mondo",
+   "titolo": "Christodoulides incontra l'Israel Allies Foundation",
+   "orig": "Christodoulides meets with Israel Allies Foundation",
+   "lead": "Il presidente cipriota Nikos Christodoulides ha incontrato mercoledì una delegazione dell'Israel Allies Foundation (IAF), guidata dal presidente Josh Reinstein, insieme al deputato del Diko Chrysis Pantelides e al deputato Andreas Apostolou. L'incontro ha avuto come obiettivo centrale le sfide nella regione e la promozione della cooperazione tra un gruppo congiunto di parlamentari e l'organizzazione. Lo riferisce Cyprus Mail.",
+   "more": [
+    "L'Israel Allies Foundation è un'organizzazione internazionale che riunisce parlamentari favorevoli a rafforzare i legami con Israele, promuovendo iniziative di cooperazione politica e diplomatica tra Israele e altri Paesi."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/14/christodoulides-meets-with-israel-allies-foundation",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-14T13:32+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zb8c18735",
+   "sez": "economia",
+   "titolo": "Cipro, assegni respinti vicini ai 100.000 euro a settembre",
+   "orig": "Bounced cheques in Cyprus near €100,000 in September",
+   "lead": "Il numero di assegni respinti a Cipro è aumentato del 47,8% nel settembre 2026, raggiungendo 34 assegni per un valore di 97.622 euro, contro 23 assegni da 74.655 euro nello stesso mese dell'anno precedente. I dati, diffusi mercoledì dalla Banca Centrale di Cipro, mostrano anche un aumento del valore totale degli assegni respinti. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/14/bounced-cheques-in-cyprus-near-e100000-in-september",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-14T13:23+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z654f5df4",
+   "sez": "mondo",
+   "titolo": "Namibia, allevatori chiedono vendite di bestiame sotto controllo veterinario per l'afta epizootica",
+   "orig": "Farmers seek supervised livestock sales amid FMD",
+   "lead": "L'Unione Agricola della Namibia (NAU) intende presentare alle autorità veterinarie una proposta per consentire agli agricoltori di trasportare il bestiame verso i macelli sotto supervisione veterinaria, nel contesto dell'epidemia in corso di afta epizootica nel Paese. La proposta prevede misure per prevenire la diffusione della malattia permettendo comunque agli agricoltori di continuare a vendere i propri animali. Lo riferisce The Namibian.",
+   "more": [
+    "L'afta epizootica è una malattia virale altamente contagiosa che colpisce il bestiame, causando gravi perdite economiche agli allevatori; la sua diffusione porta spesso a restrizioni sul movimento degli animali per limitarne il contagio."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/farmers-seek-supervised-livestock-sales-amid-fmd/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-14T10:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z23e2ce8d",
+   "sez": "mondo",
+   "titolo": "Namibia, esperto esorta a migliorare la fertilità del suolo per il mahangu",
+   "orig": "Poor soil fertility affects mahangu production",
+   "lead": "L'esperto namibiano di pascoli Axel Rothauge ha esortato gli agricoltori comunitari a migliorare la fertilità del suolo per aumentare la produzione di mahangu (miglio) con l'arrivo della stagione delle piogge. Rothauge, che lavora per AgriConsult, ha dichiarato a The Namibian che gli agricoltori dovrebbero preparare i campi in anticipo e puntare sulla qualità del terreno per ottenere raccolti migliori. Lo riferisce The Namibian.",
+   "more": [
+    "Il mahangu è il nome locale del miglio perlato, coltura di base per l'alimentazione in Namibia, particolarmente resistente alla siccità e coltivata soprattutto nelle regioni settentrionali del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/poor-soil-fertility-affects-mahangu-production/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-14T10:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "ze0177a64",
+   "sez": "mondo",
+   "titolo": "Il Mozambico vince la ExxonMobil STEM Africa Competition",
+   "orig": "Just In: Team Mozambique wins ExxonMobil STEM Africa Competition – Watch",
+   "lead": "Il Team Mozambico ha vinto la terza edizione della ExxonMobil STEM Africa Competition, che riunisce squadre studentesche da tutto il continente per affrontare sfide in scienza, tecnologia, ingegneria e matematica. L'edizione 2026 ha visto la partecipazione di squadre provenienti da Nigeria, Namibia, Angola e Mozambico, al termine di due giorni di presentazioni e risoluzione di problemi da parte dei giovani innovatori africani. Lo riferisce Club of Mozambique.",
+   "more": [
+    "La ExxonMobil STEM Africa Competition è un concorso che promuove le competenze in scienza, tecnologia, ingegneria e matematica tra studenti africani, incentivando l'innovazione giovanile nel continente."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/just-in-team-mozambique-wins-exxonmobil-stem-africa-competition-watch/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-14T10:02+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zbf52527a",
+   "sez": "mondo",
+   "titolo": "Malawi, avviato il reinsediamento di 132 famiglie sfollate a Kasungu",
+   "orig": "Minister Chipungu launches land resettlement for 132 displaced families in Kasungu",
+   "lead": "Il ministro delle Terre del Malawi, Chimwemwe Chipungu, ha avviato l'assegnazione di terreni residenziali e agricoli a 132 famiglie sfollate nella fattoria Nthunduwala-Zithe, nel distretto di Kasungu, nell'ambito di un programma governativo per aiutarle a ricostruire la propria vita. Ogni famiglia beneficiaria verificata ha ricevuto terreno sia per l'abitazione che per l'agricoltura. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/minister-chipungu-launches-land-resettlement-for-132-displaced-families-in-kasungu/?utm_source=rss&utm_medium=rss&utm_campaign=minister-chipungu-launches-land-resettlement-for-132-displaced-families-in-kasungu",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-14T09:56+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z1a7c912f",
+   "sez": "salute",
+   "titolo": "Likoma e StrokeAfrica uniscono le forze contro l'ictus",
+   "orig": "Likoma District Council, StrokeAfrica join forces to tackle stroke burden",
+   "lead": "Il Consiglio distrettuale di Likoma ha rafforzato gli sforzi di prevenzione e risposta all'ictus collaborando con l'organizzazione StrokeAfrica.org, puntando a migliorare la consapevolezza e la reattività di fronte alla condizione. L'iniziativa fornirà materiali educativi sull'ictus agli operatori sanitari e alle comunità, per aiutare a riconoscere i segnali d'allarme e comprendere l'importanza di cercare assistenza medica precoce. Lo riferisce Nyasa Times.",
+   "more": [
+    "L'ictus è una condizione medica causata dall'interruzione del flusso sanguigno al cervello, che può provocare danni permanenti o morte; il riconoscimento rapido dei sintomi e l'intervento immediato sono determinanti per limitarne le conseguenze."
+   ],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/likoma-district-council-strokeafrica-join-forces-to-tackle-stroke-burden/?utm_source=rss&utm_medium=rss&utm_campaign=likoma-district-council-strokeafrica-join-forces-to-tackle-stroke-burden",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-14T08:59+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z87b76313",
+   "sez": "mondo",
+   "titolo": "Lussemburgo, legge garantisce tre giorni di telelavoro ai dipendenti pubblici",
+   "orig": "Law enshrines three days teleworking per week for Luxembourg civil servants",
+   "lead": "Il Parlamento del Lussemburgo ha approvato una legge che garantisce ai dipendenti pubblici fino a tre giorni di telelavoro a settimana, pari al 60% dell'orario settimanale, insieme al diritto alla disconnessione fuori dagli orari di lavoro. La norma è stata approvata dai deputati lussemburghesi. Lo riferisce Luxembourg Times.",
+   "more": [
+    "Il diritto alla disconnessione è una tutela che consente ai lavoratori di non essere contattati per motivi professionali fuori dall'orario di lavoro, pensata per proteggere l'equilibrio tra vita privata e professionale nell'era del lavoro digitale."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/law-enshrines-three-days-teleworking-per-week-for-luxembourg-civil-servants/163046450.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-14T11:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z66724fee",
+   "sez": "cucina",
+   "titolo": "Il ristorante lussemburghese Louis Linster entra nella lista Les Grandes Tables du Monde 2027",
+   "orig": "Luxembourg’s Louis Linster joins prestigious culinary list for 2027",
+   "lead": "Il ristorante lussemburghese Louis Linster è entrato nella prestigiosa lista Les Grandes Tables du Monde per il 2027, che ha aggiunto 23 nuovi locali alla sua selezione internazionale. L'inclusione rappresenta un riconoscimento per la ristorazione del Granducato. Lo riferisce Luxembourg Times.",
+   "more": [
+    "Les Grandes Tables du Monde è un'associazione internazionale che riunisce ristoranti di alta gastronomia selezionati per l'eccellenza culinaria e dell'accoglienza, considerata un riconoscimento prestigioso nel mondo della ristorazione di lusso."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/yourluxembourg/foodandnightlife/luxembourgs-louis-linster-joins-prestigious-culinary-list-for-2027/163045680.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-14T10:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z95085cc2",
+   "sez": "musica",
+   "titolo": "Chi ha vinto i 61esimi APRA Silver Scroll Awards in Nuova Zelanda",
+   "orig": "Who won big at the 61st annual APRA Silver Scroll Awards?",
+   "lead": "La 61ª edizione degli APRA Silver Scroll Awards ha celebrato i migliori cantautori e compositori della Nuova Zelanda, premiando opere che vanno dal pop alla musica per lo schermo. La cerimonia ha riconosciuto il talento musicale di Aotearoa in diverse categorie. Lo riferisce Stuff NZ.",
+   "more": [
+    "I Silver Scroll Awards, assegnati dall'ente APRA (Australasian Performing Right Association), sono tra i riconoscimenti più prestigiosi per l'autorialità musicale in Nuova Zelanda, premiando ogni anno le migliori composizioni originali del paese."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/culture/361046504/who-won-big-61st-annual-apra-silver-scroll-awards",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-14T10:30+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z96ffc0ec",
+   "sez": "mondo",
+   "titolo": "Plenković sostiene l'allargamento UE e il percorso europeo della Bosnia",
+   "orig": "Plenkovic backed EU Enlargement and highlighted Support for BiH’s European Path",
+   "lead": "Il primo ministro croato Andrej Plenković ha affermato che la Croazia sostiene l'ampliamento dell'Unione Europea, a condizione che i Paesi candidati soddisfino i criteri necessari. La dichiarazione è arrivata durante la presentazione del rapporto annuale del governo al Parlamento croato. Plenković ha ribadito anche il sostegno di Zagabria al percorso europeo della Bosnia ed Erzegovina, tra i nove Paesi attualmente candidati all'adesione. Lo riferisce Sarajevo Times.",
+   "more": [
+    "L'allargamento dell'Unione Europea riguarda l'ingresso di nuovi Stati membri, un processo che richiede il soddisfacimento di criteri politici, economici e giuridici; la Bosnia ed Erzegovina è tra i Paesi balcanici che aspirano all'adesione da anni."
+   ],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/plenkovic-backed-eu-enlargement-and-highlighted-support-for-bihs-european-path/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-14T09:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:43",
+   "uscita": "13"
+  },
+  {
    "id": "zafcc1b86",
    "sez": "sport",
    "titolo": "Un infielder dei Doosan Bears accetta con favore il ruolo di outsider ai playoff KBO",
@@ -422,6 +2419,14 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-14T10:55+02:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/video/2026/10/14/india-proteste-del-partito-degli-scarafaggi-arresti-1131637",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "14 ott",
@@ -9746,7 +11751,90 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zb04e5f26": "RÚV collega il calo in Borsa all'indagine della concorrenza e al lavoro giornalistico del programma Kveikur.",
   "z2298bbca": "RÚV riporta il discorso del leader sindacale che chiede un ruolo attivo nella gestione del cambiamento tecnologico.",
   "zf6942929": "RÚV racconta il progetto attraverso le testimonianze dirette dei tecnici sul campo.",
-  "z131c7559": "RÚV, attraverso l'inchiesta di Kveikur, dà conto delle accuse del distributore di Red Bull contro Ölgerðin."
+  "z131c7559": "RÚV, attraverso l'inchiesta di Kveikur, dà conto delle accuse del distributore di Red Bull contro Ölgerðin.",
+  "zf0a36cc1": "La Presse de Tunisie sottolinea il valore della cooperazione internazionale per sostenere le giovani imprese tecnologiche tunisine.",
+  "zff9a3676": "La Presse de Tunisie mette in evidenza l'aspetto umano e solidale dell'iniziativa più che quello clinico.",
+  "z68c2cd76": "La Presse de Tunisie riporta le previsioni di un esperto meteorologo sulle tendenze dei prossimi giorni.",
+  "zf625ad77": "La Presse de Tunisie presenta l'iniziativa come un passo verso la modernizzazione della sanità pubblica tunisina.",
+  "z7c06ec5c": "Radio Okapi dà voce all'allarme della società civile locale sulle conseguenze sanitarie del disastro.",
+  "z14777ee7": "Radio Okapi riporta l'appello dell'esercito al disarmo volontario dei miliziani ancora attivi.",
+  "z28004514": "Radio Okapi riporta i dati ufficiali sull'aumento dei casi segnalati nella regione.",
+  "z0bfcbf86": "Le Soleil valorizza l'aspetto culturale e creativo di un corpo solitamente associato solo alla sicurezza pubblica.",
+  "z0084b09d": "Le Soleil racconta la strategia presidenziale di valorizzazione territoriale attraverso la festa nazionale.",
+  "z01436adb": "Le Soleil celebra la scelta come un riconoscimento internazionale per il Senegal.",
+  "z8e7e1d8e": "ANSA riporta il parere medico sulla delicatezza del momento clinico.",
+  "z84c4b688": "ANSA segnala la pubblicazione del rapporto come strumento di valutazione della pubblica amministrazione.",
+  "z17a7f7b3": "Il Financial Times dà ampio spazio alle dichiarazioni della leader sovranista sulla crisi del sistema politico francese.",
+  "z8e51c65b": "Il Financial Times evidenzia la crescente influenza di BlackRock nel settore del private capital.",
+  "zeda62a3d": "Il Financial Times inquadra l'operazione nel contesto della competizione tra i grandi fondi di private equity.",
+  "z6cc0d7fe": "N1 riporta la promessa elettorale di un leader dell'opposizione nazionalista serba.",
+  "z0e0640c6": "N1 segnala la decisione del regolatore come un caso controverso nel dibattito sulla libertà e l'etica dei media.",
+  "z2cfa3031": "N1 riporta la posizione pro-europea di un leader dell'opposizione durante la campagna elettorale.",
+  "z40d90109": "N1 ripercorre la lunga storia di un festival musicale indipendente serbo giunto al suo 35° anniversario.",
+  "zd431d99a": "N1 segue le tensioni interne all'organo regolatore dei media serbi.",
+  "z559e637b": "The Punch riporta l'appello dell'emiro come un invito alla responsabilità finanziaria personale.",
+  "zf9933604": "The Punch segnala la scadenza come un richiamo alla regolarità professionale nel settore.",
+  "z76ae0c7e": "Egypt Independent riporta la posizione diplomatica egiziana a favore della de-escalation regionale.",
+  "zc367b2a2": "Citizen Digital celebra il riconoscimento come segno dell'impegno keniano nella lotta alla polio.",
+  "z4b75c84e": "Citizen Digital riporta l'ottimismo dello staff tecnico in vista della sfida decisiva.",
+  "z435f5148": "Citizen Digital riporta le parole dirette dell'allenatore sulle ragioni del suo addio.",
+  "za5ff8d89": "L'analisi dell'ISS mette in guardia sui rischi di traffico d'armi legati al disarmo delle milizie.",
+  "zdeeb51fb": "Il South China Morning Post cita i dati di Counterpoint Research sulle proiezioni di crescita dell'azienda.",
+  "za7b617b5": "South China Morning Post presenta la vicenda come una curiosità virale sui social cinesi.",
+  "z8c93e84e": "Il South China Morning Post sottolinea il carattere inusuale dell'incontro alla vigilia del viaggio di Trump.",
+  "z94b472f3": "South China Morning Post cita i dati ufficiali forniti dal governo al Legislative Council.",
+  "z376efed4": "The Japan Times riporta le dichiarazioni dirette della premier sulla sua routine quotidiana.",
+  "zdf391ca8": "The Korea Herald evidenzia il vuoto normativo sul copyright della musica generata con l'intelligenza artificiale.",
+  "z5713d7f3": "The Korea Herald riporta le accuse emerse sui media cinesi all'indomani del debutto della cantante.",
+  "z47492701": "The Korea Herald collega l'annuncio della serie tv alla recente pausa agonistica del pattinatore.",
+  "z4c212e1d": "The Korea Herald collega la cancellazione a un problema più ampio di visti che ha già colpito altre tappe del tour.",
+  "z932ed2df": "Times of India sottolinea la tempistica del bonus legata alle festività indiane.",
+  "ze8884dee": "Dawn ricostruisce l'iter processuale che ha portato alla decisione della Corte costituzionale.",
+  "z9a4860e6": "The Kathmandu Post mette in luce il contrasto tra le festività e il lutto diffuso nelle comunità colpite.",
+  "z707e5a94": "The Kathmandu Post riporta sia le accuse dei parlamentari sia la difesa del candidato.",
+  "z57c58ab3": "Philippine Daily Inquirer riporta le parole del presidente sull'importanza dell'occupazione per le famiglie filippine.",
+  "z1a8279c4": "VnExpress riporta i dettagli dell'operazione della polizia giapponese basandosi sulle stime ufficiali del valore della droga sequestrata.",
+  "z035f08cc": "Bangkok Post riporta le accuse dell'ente di revisione statale sulle pratiche contrattuali dell'emittente.",
+  "z1cd3b12f": "Bangkok Post descrive le misure della compagnia per rispondere alle lamentele dei passeggeri colpiti dai disagi.",
+  "z8b750dd5": "Bangkok Post riporta la posizione rassicurante del ministro thailandese sul progetto infrastrutturale cinese.",
+  "z04393e00": "The Straits Times raccoglie le voci di elettori e leader sindacali sul possibile cambio di rotta politico.",
+  "z71e2e507": "The Straits Times dà voce alle famiglie dei dissidenti scomparsi, denunciando l'assenza di informazioni ufficiali.",
+  "z83b5144c": "The Astana Times celebra i risultati degli atleti kazaki ai mondiali giovanili di lotta.",
+  "za3dbc157": "Haaretz dà rilievo alla replica dettagliata di Bar, che accusa direttamente Netanyahu di fabbricare accuse.",
+  "zade0a2c5": "Haaretz riporta le parole di Netanyahu insieme alle reazioni critiche dell'opposizione.",
+  "z1d2aba2e": "Haaretz riprende le dichiarazioni pubbliche del capo dell'MI5 sulle minacce ibride di Iran e Russia in Europa.",
+  "z05b77e54": "Haaretz segnala la decisione come parte di una serie di tagli ai fondi per lo sviluppo delle comunità arabe a favore della spesa militare.",
+  "z553f0660": "Middle East Eye riprende l'allarme della Croce Rossa sulla pressione crescente sul sistema sanitario yemenita.",
+  "z90946b13": "Middle East Eye evidenzia il rischio che lo scandalo vanifichi anni di strategia di normalizzazione dell'immagine del partito.",
+  "z334f9eda": "Reuters, citata da Middle East Eye, si concentra sulle contromisure organizzative saudite più che sugli attacchi stessi.",
+  "zf2af688e": "Sydney Morning Herald presenta l'ingresso come una svolta storica per la gastronomia australiana.",
+  "z4301b633": "Sydney Morning Herald celebra la prestazione decisiva di Sutherland nella vittoria conclusiva della serie.",
+  "za1755909": "Euronews si concentra sulla durezza delle parole dell'accusa nell'apertura del processo.",
+  "zc83b5204": "South China Morning Post evidenzia la reazione diplomatica giapponese alla visita della delegazione cinese.",
+  "z99dacf36": "South China Morning Post inquadra le parole di Xi come risposta alle manovre statunitensi sui minerali africani.",
+  "z34ebc904": "Il Fatto Quotidiano riporta la dichiarazione del collaboratore di giustizia come elemento dell'inchiesta Hydra.",
+  "zef2e02b6": "La Repubblica collega la svolta legislativa allo sblocco dei fondi europei congelati.",
+  "z20e555fd": "Sky TG24 racconta l'evento attraverso un'intervista personale all'artista.",
+  "zb0a472a7": "La testata sottolinea lo scetticismo degli analisti sulla reale efficacia del piano di rilancio.",
+  "z660152ad": "Enfatizza il dato tecnico della misurazione periodica della vetta.",
+  "z971906ac": "La testata marocchina sottolinea il carattere contestato della sovranità sulla città nel titolo.",
+  "z97785e13": "Riporta l'esito procedurale senza ulteriori dettagli sul merito della causa.",
+  "zcdbcc67d": "Pone l'accento sulla necessità di bilanciare crescita dell'industria digitale e tutela dei minori.",
+  "z19bf0e2f": "Evidenzia il numero degli arrestati e la presenza di uno straniero tra i fermati.",
+  "z5934434f": "Riporta un richiamo del sovrano al rispetto delle norme nella tutela delle tradizioni.",
+  "zc520616e": "Segnala il ritardo burocratico nell'applicazione della misura salariale.",
+  "z3c1b2726": "La testata evidenzia il lungo ritardo nel trasferimento del fascicolo alle autorità legali.",
+  "z3d087f5c": "Pone l'accento sulla cooperazione politica tra Cipro e Israele attraverso i legami parlamentari.",
+  "zb8c18735": "Fornisce dati puntuali sull'andamento mensile dei titoli di credito non onorati come indicatore di salute finanziaria.",
+  "z654f5df4": "Dà voce alle richieste del settore agricolo per conciliare controllo sanitario e continuità commerciale.",
+  "z23e2ce8d": "Fornisce un consiglio tecnico-agronomico per migliorare le produzioni in vista della stagione delle piogge.",
+  "ze0177a64": "Celebra il successo della squadra mozambicana come traguardo educativo nazionale.",
+  "zbf52527a": "Presenta l'iniziativa come un passo concreto del governo per il reinserimento delle famiglie sfollate.",
+  "z1a7c912f": "Evidenzia l'approccio preventivo attraverso l'educazione sanitaria comunitaria.",
+  "z87b76313": "Sottolinea la portata della riforma per il pubblico impiego lussemburghese.",
+  "z66724fee": "Evidenzia il prestigio del riconoscimento per la gastronomia lussemburghese.",
+  "z95085cc2": "Fornisce l'elenco completo dei vincitori come servizio informativo per il pubblico musicale.",
+  "z96ffc0ec": "Pone l'accento sul ruolo della Croazia come sostenitrice dell'allargamento UE nei Balcani."
  },
  "contesti": {
   "z8df16686": "I terminali Starlink sono diventati essenziali per le comunicazioni e la guida di precisione delle forze ucraine dal 2022. Negli ultimi mesi l'amministrazione Trump ha cercato una mediazione con Mosca, criticando gli attacchi ucraini alle raffinerie russe. Nelle settimane scorse Kyiv ha intensificato i raid a lungo raggio contro l'industria petrolifera russa, suscitando malumori a Washington.",
@@ -9805,7 +11893,23 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z0330d9e9": "Dieci anni fa Papa Francesco pubblicò l'Esortazione apostolica «Amoris laetitia», frutto dei Sinodi sulla famiglia del 2014-2015, con l'obiettivo di offrire un accompagnamento pastorale più attento alle famiglie e alle situazioni di fragilità. Per celebrarne l'anniversario il Vaticano ha organizzato un incontro internazionale conclusosi con una Messa in Piazza San Pietro, mentre Papa Leone XIV, ricoverato al Gemelli, ha affidato la propria omelia al cardinale Tagle.",
   "zc55b3706": "Nel 2022 due fermati nella questura di Verona furono vittime di violenze da parte di agenti di polizia, episodi che portarono ad accuse di tortura e all'apertura di un'indagine giudiziaria. Il caso, seguito con attenzione da organizzazioni per i diritti umani e media italiani, è giunto ora a conclusione con le prime condanne, segnando un precedente significativo nell'applicazione del reato di tortura introdotto nell'ordinamento italiano nel 2017.",
   "z4fb239d8": "Papa Leone XIV, al secolo Robert Francis Prevost, cittadino statunitense eletto pontefice nel maggio 2025, è stato recentemente sottoposto ad accertamenti medici che hanno portato all'annuncio di una diagnosi oncologica. La notizia, diffusa dai media internazionali, ha subito suscitato forte attenzione e preoccupazione, in particolare negli Stati Uniti, suo paese d'origine, dove la vicenda personale del primo papa statunitense della storia viene seguita con grande interesse mediatico e popolare.",
-  "z3ae7f590": "Negli ultimi giorni gli studenti universitari albanesi sono tornati a protestare a Tirana contro l'aumento delle tasse accademiche, la scarsità di borse di studio e le limitate prospettive occupazionali per i neolaureati nel paese. Le manifestazioni, già frequenti negli ultimi anni in Albania per motivi analoghi, si inseriscono in un clima di crescente malcontento giovanile verso le politiche del governo guidato da Edi Rama, accusato di non investire a sufficienza nel sistema universitario pubblico."
+  "z3ae7f590": "Negli ultimi giorni gli studenti universitari albanesi sono tornati a protestare a Tirana contro l'aumento delle tasse accademiche, la scarsità di borse di studio e le limitate prospettive occupazionali per i neolaureati nel paese. Le manifestazioni, già frequenti negli ultimi anni in Albania per motivi analoghi, si inseriscono in un clima di crescente malcontento giovanile verso le politiche del governo guidato da Edi Rama, accusato di non investire a sufficienza nel sistema universitario pubblico.",
+  "za3dbc157": "Dopo l'attacco di Hamas del 7 ottobre 2023, in Israele è emerso un acceso scontro politico sulle responsabilità del fallimento dell'intelligence, con Netanyahu accusato di aver cercato di addossare la colpa ai vertici della sicurezza, incluso l'ex capo dello Shin Bet Ronen Bar.",
+  "zade0a2c5": "Israele si avvicina alle elezioni legislative del 27 ottobre in un clima di tensione regionale persistente, con il governo Netanyahu che negli ultimi mesi ha affrontato critiche sulla gestione dei conflitti con Hamas, Hezbollah e Iran. L'opposizione ha più volte accusato il premier di sfruttare le operazioni militari per ragioni di convenienza politica, mentre lui ha ripetutamente evocato minacce imminenti da parte dei nemici del paese in prossimità del voto.",
+  "z553f0660": "Il conflitto tra governo yemenita e Houthi si è riacceso nelle scorse settimane dopo lo scontro tra Stati Uniti e Iran nel Golfo, con combattimenti intensificati su più fronti, inclusa Taiz, dove gli Houthi hanno recentemente interrotto una via di collegamento con Aden.",
+  "z334f9eda": "Negli ultimi giorni gli Houthi hanno rivendicato una serie di attacchi contro impianti Aramco e infrastrutture aeroportuali saudite, incluso l'aeroporto di Riad, nell'ambito dell'escalation del conflitto in Yemen dopo lo scontro tra Stati Uniti e Iran.",
+  "zef2e02b6": "Negli ultimi anni l'Unione europea aveva congelato miliardi di euro destinati all'Ungheria come pressione contro le leggi discriminatorie introdotte dal governo Orbán, incluso il divieto del Pride basato su quelle norme.",
+  "z7c06ec5c": "La provincia del Maniema, nella Repubblica Democratica del Congo, è periodicamente colpita da piogge torrenziali stagionali che danneggiano abitazioni in materiali precari e infrastrutture fragili. Negli ultimi mesi si sono registrati episodi simili in diverse località del paese, aggravati da carenze nei sistemi di drenaggio e dalla scarsa capacità di risposta alle emergenze, mentre la regione fa già fronte a problemi sanitari come episodi di diarrea legati all'acqua contaminata.",
+  "z28004514": "La provincia dell'Ituri, nella Repubblica Democratica del Congo, è teatro da anni di conflitti armati tra milizie locali che hanno causato sfollamenti massicci e un deterioramento della sicurezza, condizioni che favoriscono l'aumento delle violenze di genere. Nel 2025 le organizzazioni umanitarie avevano già censito oltre 20.000 casi, segnalando una crisi strutturale legata all'instabilità e alla presenza di gruppi armati nella regione orientale del paese.",
+  "z8e7e1d8e": "Papa Leone era stato ricoverato nei giorni scorsi dopo la comparsa di sintomi che hanno portato i medici a diagnosticare un adenocarcinoma, tumore che origina nelle cellule ghiandolari di diversi organi. Le condizioni del pontefice sono state monitorate costantemente dall'equipe medica vaticana, con aggiornamenti quotidiani diffusi tramite i canali ufficiali della Santa Sede, mentre fedeli e capi di stato hanno espresso vicinanza e preghiere per la sua guarigione.",
+  "z17a7f7b3": "Marine Le Pen, condannata nei mesi scorsi in un processo per appropriazione indebita di fondi europei che le ha precluso la candidatura alle presidenziali del 2027, ha continuato a guidare il Rassemblement National rafforzando la propria presenza mediatica internazionale. Nel frattempo la Francia ha vissuto una fase di forte instabilità politica, con governi di breve durata e crescenti tensioni sociali ed economiche che hanno alimentato il discorso sulla crisi del sistema tradizionale.",
+  "z8c93e84e": "Gli Stati Uniti hanno intensificato negli ultimi mesi il coordinamento diplomatico e militare nell'area Indo-Pacifico in vista della visita del presidente Donald Trump in Cina prevista per novembre, cercando di bilanciare il dialogo con Pechino con il mantenimento di solide alleanze regionali, incluse quelle con Giappone, Corea del Sud e Taiwan, in un contesto di crescenti tensioni commerciali e militari nella regione.",
+  "ze8884dee": "Bushra Bibi, moglie dell'ex premier pakistano Imran Khan, è stata condannata a sette anni di carcere nel caso Al-Qadir Trust, legato a un presunto giro di tangenti da 190.000 sterline collegato a un terreno donato per un'università religiosa. A luglio la donna ha presentato ricorso contro la condanna, sostenendo tra l'altro di meritare un trattamento differenziato in quanto donna, mentre il marito resta detenuto in carcere da tempo.",
+  "z9a4860e6": "Il Nepal ha subito nelle settimane scorse gravi alluvioni causate dall'esondazione del fiume Bhotekoshi nel distretto di Rasuwa, che hanno provocato vittime, danni estesi e decine di persone ancora disperse. L'evento ha colpito duramente anche comunità limitrofe come quelle del distretto di Salyan, oscurando l'atmosfera festiva del Dashain, la principale festività induista del paese, celebrata tradizionalmente con grande partecipazione popolare.",
+  "z1d2aba2e": "Negli ultimi mesi i servizi britannici hanno segnalato un aumento di attività ostili legate a Iran e Russia sul territorio del Regno Unito, tra sabotaggi, sorveglianza di infrastrutture e presunti piani di attacco. Le autorità hanno già arrestato cittadini iraniani con l'accusa di preparare azioni contro obiettivi britannici, mentre cresce la preoccupazione per l'uso di tecnologie emergenti, incluse l'intelligenza artificiale, da parte di attori statali e gruppi terroristici.",
+  "z90946b13": "Negli ultimi anni Jordan Bardella ha guidato il tentativo del Rassemblement National di smarcarsi dalle radici estremiste e antisemite del partito fondato da Jean-Marie Le Pen, puntando su un'immagine moderata anche attraverso viaggi istituzionali, come la partecipazione a marzo a una conferenza sull'antisemitismo a Gerusalemme. Questa strategia di 'de-demonizzazione', portata avanti anche da Marine Le Pen, ha permesso al partito di crescere elettoralmente, ma resta vulnerabile a nuove accuse sul suo passato.",
+  "za1755909": "Russell Brand è stato accusato nel 2023 da diverse donne di abusi sessuali, stupro e aggressione risalenti agli anni 2006-2013, nel periodo di massima notorietà televisiva e radiofonica in Gran Bretagna. Le accuse, emerse da un'inchiesta giornalistica congiunta di Sunday Times e Channel 4, hanno portato ad indagini della polizia e infine a incriminazioni formali, sfociate ora nel processo penale a suo carico, mentre Brand nega ogni addebito.",
+  "z99dacf36": "Negli ultimi anni la Cina ha consolidato una posizione dominante nell'estrazione e lavorazione di minerali critici in Africa, suscitando la reazione di Washington che ha intensificato accordi bilaterali con paesi africani per diversificare le catene di approvvigionamento. Pechino ha risposto rafforzando i legami diplomatici ed economici con il continente, presentandosi come partner storico contrapposto a un approccio occidentale percepito come estrattivo e opportunistico."
  },
  "cronologie": {
   "z8df16686": [
@@ -10584,6 +12688,218 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "oggi",
     "Nuove manifestazioni previste nelle strade della capitale"
+   ]
+  ],
+  "za3dbc157": [
+   [
+    "7 ottobre 2023",
+    "Attacco di Hamas contro Israele"
+   ],
+   [
+    "mesi successivi",
+    "Netanyahu accusa i vertici della sicurezza delle falle di intelligence"
+   ]
+  ],
+  "z553f0660": [
+   [
+    "mese scorso",
+    "Riaccensione del conflitto Houthi-governo dopo le tensioni Usa-Iran"
+   ],
+   [
+    "settimana scorsa",
+    "Gli Houthi interrompono la strada tra Taiz e Aden"
+   ]
+  ],
+  "z334f9eda": [
+   [
+    "fine settimana",
+    "Attacchi mortali all'aeroporto di Riad"
+   ],
+   [
+    "martedì",
+    "Colpito un edificio Aramco a Dhahran"
+   ]
+  ],
+  "zef2e02b6": [
+   [
+    "anni scorsi",
+    "L'Ue congela fondi per l'Ungheria per le leggi anti-Lgbtq+"
+   ],
+   [
+    "recente",
+    "Il Parlamento ungherese vota l'abrogazione delle norme"
+   ]
+  ],
+  "z7c06ec5c": [
+   [
+    "ottobre 2026",
+    "Stagione delle piogge intensifica gli allagamenti nel Maniema"
+   ],
+   [
+    "13 ottobre 2026",
+    "Forte pioggia colpisce Kasongo danneggiando quasi 300 case"
+   ],
+   [
+    "13 ottobre 2026",
+    "Società civile locale lancia allarme sanitario per rischio diarrea"
+   ]
+  ],
+  "z28004514": [
+   [
+    "2025",
+    "Registrati oltre 20.000 casi di violenza di genere in Ituri"
+   ],
+   [
+    "gennaio-ottobre 2026",
+    "Persistono conflitti armati e insicurezza nella provincia"
+   ],
+   [
+    "14 ottobre 2026",
+    "Radio Okapi riporta oltre 10.000 nuovi casi dall'inizio dell'anno"
+   ]
+  ],
+  "z8e7e1d8e": [
+   [
+    "giorni scorsi",
+    "Ricovero del Papa e diagnosi di adenocarcinoma"
+   ],
+   [
+    "giorni scorsi",
+    "Monitoraggio clinico costante da parte dei medici vaticani"
+   ],
+   [
+    "14 ottobre 2026",
+    "Esperti indicano le prossime 24-48 ore come fase più delicata"
+   ]
+  ],
+  "z17a7f7b3": [
+   [
+    "marzo 2025",
+    "Le Pen condannata e dichiarata ineleggibile in primo grado"
+   ],
+   [
+    "2025-2026",
+    "Instabilità politica con successione di governi di breve durata"
+   ],
+   [
+    "14 ottobre 2026",
+    "Le Pen dichiara al Financial Times che i segnali di crisi sono tutti accesi"
+   ]
+  ],
+  "z8c93e84e": [
+   [
+    "settembre 2026",
+    "Annunciata la visita di Trump in Cina per novembre"
+   ],
+   [
+    "inizio ottobre 2026",
+    "Riunione insolita a Tokyo tra diplomatici e comandanti militari Usa"
+   ],
+   [
+    "ottobre 2026",
+    "Coordinamento rafforzato su priorità regionali Indo-Pacifico"
+   ]
+  ],
+  "ze8884dee": [
+   [
+    "2023",
+    "Apertura del caso Al-Qadir Trust contro Imran Khan e Bushra Bibi"
+   ],
+   [
+    "luglio 2026",
+    "Bushra Bibi presenta ricorso contro la condanna a sette anni"
+   ],
+   [
+    "14 ottobre 2026",
+    "La Corte costituzionale federale respinge la richiesta di sospensione"
+   ]
+  ],
+  "z9a4860e6": [
+   [
+    "settimane scorse",
+    "Alluvioni del fiume Bhotekoshi colpiscono il distretto di Rasuwa"
+   ],
+   [
+    "ottobre 2026",
+    "Decine di persone risultano ancora disperse"
+   ],
+   [
+    "14 ottobre 2026",
+    "Festeggiamenti Dashain vissuti con scarso entusiasmo a Salyan"
+   ]
+  ],
+  "zade0a2c5": [
+   [
+    "mesi scorsi",
+    "Tensioni regionali persistenti con Hamas, Hezbollah e Iran"
+   ],
+   [
+    "ottobre 2026",
+    "Netanyahu avverte di possibili attacchi prima del voto"
+   ],
+   [
+    "14 ottobre 2026",
+    "Opposizione accusa Netanyahu di strumentalizzare la sicurezza per le elezioni"
+   ]
+  ],
+  "z1d2aba2e": [
+   [
+    "maggio 2025",
+    "Arresti di presunti agenti iraniani nel Regno Unito per piani ostili"
+   ],
+   [
+    "estate 2025",
+    "MI5 segnala aumento di attività di spionaggio russo e iraniano in Europa"
+   ],
+   [
+    "14 ottobre 2026",
+    "McCallum collega il caso RAF Fairford a una strategia più ampia di guerra ibrida"
+   ]
+  ],
+  "z90946b13": [
+   [
+    "marzo 2026",
+    "Bardella partecipa a una conferenza sull'antisemitismo a Gerusalemme"
+   ],
+   [
+    "anni recenti",
+    "Il RN prosegue la strategia di normalizzazione sotto Le Pen e Bardella"
+   ],
+   [
+    "14 ottobre 2026",
+    "Un sito investigativo francese pubblica accuse di antisemitismo contro Bardella"
+   ]
+  ],
+  "za1755909": [
+   [
+    "settembre 2023",
+    "Sunday Times e Channel 4 pubblicano accuse multiple contro Brand"
+   ],
+   [
+    "2024",
+    "La polizia britannica avvia un'indagine formale sui casi denunciati"
+   ],
+   [
+    "2025",
+    "Brand viene incriminato per reati sessuali"
+   ],
+   [
+    "14 ottobre 2026",
+    "Si apre il processo, Brand a piede libero su cauzione"
+   ]
+  ],
+  "z99dacf36": [
+   [
+    "2024-2025",
+    "Gli Usa firmano accordi minerari con diversi paesi africani"
+   ],
+   [
+    "2025",
+    "Pechino intensifica summit e investimenti con nazioni africane"
+   ],
+   [
+    "14 ottobre 2026",
+    "Xi riceve il presidente del Botswana e difende la sovranità africana sulle risorse"
    ]
   ]
  },
@@ -13112,6 +15428,586 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Iceland"
    ],
    "pt": []
+  },
+  "zf0a36cc1": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zff9a3676": {
+   "n": "La Marsa",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z68c2cd76": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zf625ad77": {
+   "n": "Kef",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z7c06ec5c": {
+   "n": "Kasongo",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z14777ee7": {
+   "n": "Kwamouth",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z28004514": {
+   "n": "Ituri",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z0bfcbf86": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z0084b09d": {
+   "n": "Kaolack",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z01436adb": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z8e7e1d8e": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z84c4b688": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z17a7f7b3": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z8e51c65b": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zeda62a3d": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6cc0d7fe": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z0e0640c6": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z2cfa3031": {
+   "n": "Subotica",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z40d90109": {
+   "n": "Zrenjanin",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zd431d99a": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z559e637b": {
+   "n": "Kano",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zf9933604": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z76ae0c7e": {
+   "n": "Medio Oriente",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zc367b2a2": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z4b75c84e": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z435f5148": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "za5ff8d89": {
+   "n": "Tripoli",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "zdeeb51fb": {
+   "n": "Wuhan",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "za7b617b5": {
+   "n": "Zhejiang",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z8c93e84e": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z94b472f3": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z376efed4": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zdf391ca8": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z5713d7f3": {
+   "n": "Goyang",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z47492701": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z4c212e1d": {
+   "n": "Seattle",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z932ed2df": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "ze8884dee": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z9a4860e6": {
+   "n": "Salyan",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z707e5a94": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z57c58ab3": {
+   "n": "Cebu",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z1a8279c4": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z035f08cc": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "z1cd3b12f": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "z8b750dd5": {
+   "n": "Laos",
+   "p": [
+    "Laos"
+   ],
+   "pt": []
+  },
+  "z04393e00": {
+   "n": "Ohio",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z71e2e507": {
+   "n": "Nicaragua",
+   "p": [
+    "Nicaragua"
+   ],
+   "pt": []
+  },
+  "z83b5144c": {
+   "n": "Las Vegas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za3dbc157": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zade0a2c5": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z1d2aba2e": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z05b77e54": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z553f0660": {
+   "n": "Yemen",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z90946b13": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z334f9eda": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zf2af688e": {
+   "n": "Australia Meridionale",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z4301b633": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "za1755909": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc83b5204": {
+   "n": "Isole Curili",
+   "p": [
+    "Russia",
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z99dacf36": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z34ebc904": {
+   "n": "Buscate",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zef2e02b6": {
+   "n": "Budapest",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "z20e555fd": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb0a472a7": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z660152ad": {
+   "n": "Monte Bianco",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z971906ac": {
+   "n": "Ceuta",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z97785e13": {
+   "n": "Putrajaya",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zcdbcc67d": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z19bf0e2f": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z5934434f": {
+   "n": "Negeri Sembilan",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zc520616e": {
+   "n": "Kuala Kangsar",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z3c1b2726": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z3d087f5c": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "zb8c18735": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z654f5df4": {
+   "n": "Namibia",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z23e2ce8d": {
+   "n": "Namibia",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "ze0177a64": {
+   "n": "Mozambico",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "zbf52527a": {
+   "n": "Kasungu",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z1a7c912f": {
+   "n": "Likoma",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z87b76313": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "z66724fee": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "z95085cc2": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z96ffc0ec": {
+   "n": "Zagabria",
+   "p": [
+    "Croatia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -13475,7 +16371,90 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zb04e5f26": 1,
   "z2298bbca": 1,
   "zf6942929": 1,
-  "z131c7559": 1
+  "z131c7559": 1,
+  "zf0a36cc1": 1,
+  "zff9a3676": 1,
+  "z68c2cd76": 1,
+  "zf625ad77": 1,
+  "z7c06ec5c": 2,
+  "z14777ee7": 1,
+  "z28004514": 2,
+  "z0bfcbf86": 1,
+  "z0084b09d": 1,
+  "z01436adb": 1,
+  "z8e7e1d8e": 2,
+  "z84c4b688": 1,
+  "z17a7f7b3": 2,
+  "z8e51c65b": 1,
+  "zeda62a3d": 1,
+  "z6cc0d7fe": 1,
+  "z0e0640c6": 1,
+  "z2cfa3031": 1,
+  "z40d90109": 1,
+  "zd431d99a": 1,
+  "z559e637b": 1,
+  "zf9933604": 1,
+  "z76ae0c7e": 1,
+  "zc367b2a2": 1,
+  "z4b75c84e": 1,
+  "z435f5148": 1,
+  "za5ff8d89": 1,
+  "zdeeb51fb": 1,
+  "za7b617b5": 1,
+  "z8c93e84e": 2,
+  "z94b472f3": 1,
+  "z376efed4": 1,
+  "zdf391ca8": 1,
+  "z5713d7f3": 1,
+  "z47492701": 1,
+  "z4c212e1d": 1,
+  "z932ed2df": 1,
+  "ze8884dee": 2,
+  "z9a4860e6": 2,
+  "z707e5a94": 1,
+  "z57c58ab3": 1,
+  "z1a8279c4": 1,
+  "z035f08cc": 1,
+  "z1cd3b12f": 1,
+  "z8b750dd5": 1,
+  "z04393e00": 1,
+  "z71e2e507": 1,
+  "z83b5144c": 1,
+  "za3dbc157": 2,
+  "zade0a2c5": 2,
+  "z1d2aba2e": 2,
+  "z05b77e54": 1,
+  "z553f0660": 2,
+  "z90946b13": 2,
+  "z334f9eda": 2,
+  "zf2af688e": 1,
+  "z4301b633": 1,
+  "za1755909": 2,
+  "zc83b5204": 1,
+  "z99dacf36": 2,
+  "z34ebc904": 1,
+  "zef2e02b6": 2,
+  "z20e555fd": 1,
+  "zb0a472a7": 1,
+  "z660152ad": 1,
+  "z971906ac": 1,
+  "z97785e13": 1,
+  "zcdbcc67d": 1,
+  "z19bf0e2f": 1,
+  "z5934434f": 1,
+  "zc520616e": 1,
+  "z3c1b2726": 1,
+  "z3d087f5c": 1,
+  "zb8c18735": 1,
+  "z654f5df4": 1,
+  "z23e2ce8d": 1,
+  "ze0177a64": 1,
+  "zbf52527a": 1,
+  "z1a7c912f": 1,
+  "z87b76313": 1,
+  "z66724fee": 1,
+  "z95085cc2": 1,
+  "z96ffc0ec": 1
  },
  "video": {},
  "pillole": []
