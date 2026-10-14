@@ -1017,6 +1017,86 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "ora": "20:30",
    "uscita": "sera",
    "sub": "tech"
+  },
+  {
+   "id": "s1a2b3c25",
+   "sez": "cultura",
+   "titolo": "Il cuoco più stellato al mondo, Yannick Alléno, entra al museo delle cere Grévin di Parigi",
+   "orig": "Il a trois restaurants sur la Côte d'Azur… le chef Yannick Alléno entre au musée Grévin à Paris",
+   "lead": "Lo chef Yannick Alléno, il cuoco con il maggior numero di stelle Michelin al mondo, ha ora una propria statua di cera al museo Grévin di Parigi. Il cuoco francese gestisce tra gli altri l'Abysse a Monaco, con due stelle, e ha di recente aperto il ristorante Beauvallon-sur-Mer a Grimaud. Lo riferisce Monaco Matin.",
+   "more": [
+    "Il museo Grévin, aperto nel 1882, ospita le statue di cera di personalità francesi e internazionali della politica, dello spettacolo e, più raramente, della cucina."
+   ],
+   "fonti": [
+    {"n": "Monaco Matin", "p": "XX", "c": "Monaco", "u": "https://www.nicematin.com/culture/people/il-a-trois-restaurants-sur-la-cote-d-azur-le-chef-yannick-alleno-entre-au-musee-grevin-a-paris-10740948", "angolo": "", "atlas": "Monaco", "t": "2026-10-14T18:10+02:00"}
+   ],
+   "data": "14 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "s1a2b3c26",
+   "sez": "sport",
+   "titolo": "Andorra rafforza la sicurezza per la partita di calcio contro Israele",
+   "orig": "Seguretat reforçada pel duel dels 'isards' contra Israel",
+   "lead": "La federazione calcistica di Andorra ha rafforzato la presenza delle forze dell'ordine in vista della partita della propria nazionale contro Israele, dopo un tentativo di attentato segnalato su un volo diretto a Tel Aviv. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "Le partite della nazionale israeliana sono accompagnate da tempo da misure di sicurezza rafforzate in diversi Paesi europei, nel contesto delle tensioni legate al conflitto in Medio Oriente."
+   ],
+   "fonti": [
+    {"n": "Diari d'Andorra", "p": "XX", "c": "Andorra la Vella", "u": "https://www.diariandorra.ad/esports/261014/seguretat-reforcada-pel-duel-dels-isards-israel_206492.html", "angolo": "", "atlas": "Andorra", "t": "2026-10-14T18:55+02:00"}
+   ],
+   "data": "14 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "s1a2b3c27",
+   "sez": "economia",
+   "titolo": "Il gruppo panafricano di microfinanza Baobab, rilevato dall'egiziana Beltone, accelera in Mali",
+   "orig": "Racheté par l'égyptien Beltone, le groupe panafricain Baobab ouvre un nouveau chapitre et veut accélérer au Mali",
+   "lead": "Il gruppo di microfinanza Baobab, controllato al 100% dalla società egiziana Beltone dal gennaio 2026, punta ad accelerare la propria attività in Mali, dove è presente da anni. Lo riferisce Journal du Mali.",
+   "more": [
+    "La microfinanza resta uno strumento importante per l'accesso al credito di piccole imprese e famiglie in diversi Paesi dell'Africa occidentale."
+   ],
+   "fonti": [
+    {"n": "Journal du Mali", "p": "XX", "c": "Bamako", "u": "https://journaldumali.com/rachete-par-legyptien-beltone-le-groupe-panafricain-baobab-ouvre-un-nouveau-chapitre-et-veut-accelerer-au-mali/", "angolo": "", "atlas": "Mali", "t": "2026-10-14T17:50+00:00"}
+   ],
+   "data": "14 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "s1a2b3c28",
+   "sez": "mondo",
+   "titolo": "Il ministro degli Esteri tedesco Wadephul: «Il Mar Nero sempre più teatro di guerra»",
+   "orig": "Вадефул: Црното Море сè повеќе станува воено жариште",
+   "lead": "Il ministro degli Esteri tedesco Johann Wadephul ha avvertito che il Mar Nero sta diventando sempre più un teatro di guerra, dopo i pesanti attacchi alle navi civili nella regione. Lo riferisce MIA.",
+   "more": [
+    "Il Mar Nero è da anni teatro di incidenti legati alla guerra russo-ucraina, che coinvolgono il traffico commerciale dei Paesi rivieraschi non direttamente belligeranti."
+   ],
+   "fonti": [
+    {"n": "MIA (inglese)", "p": "XX", "c": "Skopje", "u": "https://mia.mk/story/%D0%B2%D0%B0%D0%B4%D0%B5%D1%84%D1%83%D0%BB-%D1%86%D1%80%D0%BD%D0%BE%D1%82%D0%BE-%D0%BC%D0%BE%D1%80%D0%B5-%D1%81%C3%A8-%D0%BF%D0%BE%D0%B2%D0%B5%D1%9C%D0%B5-%D1%81%D1%82%D0%B0%D0%BD%D1%83%D0%B2%D0%B0-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BE-%D0%B6%D0%B0%D1%80%D0%B8%D1%88%D1%82%D0%B5", "angolo": "", "atlas": "Macedonia", "t": "2026-10-14T19:55+02:00"}
+   ],
+   "data": "14 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "s1a2b3c29",
+   "sez": "mondo",
+   "titolo": "Mauritania, inaugurato un collegio con 170 posti letto per gli studenti",
+   "orig": "تدشين سكن داخلي للتلاميذ في أطار بسعة 170 سريرا",
+   "lead": "Le autorità mauritane hanno inaugurato ad Atar un nuovo collegio con una capacità di 170 posti letto per gli studenti. Lo riferisce Alakhbar.",
+   "more": [
+    "L'ampliamento delle strutture di accoglienza per gli studenti è parte degli sforzi del governo mauritano per sostenere la frequenza scolastica nelle aree più remote del Paese."
+   ],
+   "fonti": [
+    {"n": "Alakhbar", "p": "XX", "c": "Nouakchott", "u": "https://www.alakhbar.info/6acfbac10b4ddf00018c9116/", "angolo": "", "atlas": "Mauritania", "t": "2026-10-14T17:25+00:00"}
+   ],
+   "data": "14 ott",
+   "ora": "20:30",
+   "uscita": "sera"
   }
  ],
  "quiz": [],
@@ -1056,7 +1136,12 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "s1a2b3c21": "Billboard segue le classifiche musicali giapponesi della settimana.",
   "s1a2b3c22": "Anime News Network dà risalto alla campagna di crowdfunding per il documentario sul padre del manga moderno.",
   "s1a2b3c23": "Público racconta il ritrovamento scientifico avvenuto in una miniera di carbone a cielo aperto.",
-  "s1a2b3c24": "ABC Color inquadra l'investimento come parte della strategia giapponese per i semiconduttori negli Stati Uniti."
+  "s1a2b3c24": "ABC Color inquadra l'investimento come parte della strategia giapponese per i semiconduttori negli Stati Uniti.",
+  "s1a2b3c25": "Monaco Matin presenta la statua di cera come un riconoscimento alla carriera dello chef più stellato al mondo.",
+  "s1a2b3c26": "Diari d'Andorra segue le misure di sicurezza decise dalla federazione in vista della partita.",
+  "s1a2b3c27": "Journal du Mali segue il passaggio di proprietà del gruppo di microfinanza e le sue ricadute sul mercato maliano.",
+  "s1a2b3c28": "MIA riprende l'allarme del ministro degli Esteri tedesco sulla sicurezza del Mar Nero.",
+  "s1a2b3c29": "Alakhbar dà risalto all'ampliamento delle strutture scolastiche nella regione di Atar."
  },
  "contesti": {
   "s1a2b3c01": "Dall'inizio della guerra tra Stati Uniti e Iran lo Stretto di Hormuz, snodo strategico per il trasporto mondiale del petrolio, è teatro di attacchi crescenti alle navi mercantili. Teheran ha reso noto di aver intensificato le operazioni in risposta al blocco statunitense dei propri porti e alle nuove sanzioni introdotte il mese scorso, mentre il traffico marittimo nell'area si è fortemente ridotto.",
@@ -1350,6 +1435,41 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "New York",
    "p": [
     "United States of America"
+   ],
+   "pt": []
+  },
+  "s1a2b3c25": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "s1a2b3c26": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "s1a2b3c27": {
+   "n": "Bamako",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "s1a2b3c28": {
+   "n": "Mar Nero",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "s1a2b3c29": {
+   "n": "Atar",
+   "p": [
+    "Mauritania"
    ],
    "pt": []
   }
