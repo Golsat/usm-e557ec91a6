@@ -3,6 +3,986 @@ window.EDIZIONI["2026-10-14-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z0d265dc2",
+   "sez": "sport",
+   "titolo": "Lamine Yamal firma una finta rabona e un assist decisivo",
+   "orig": "Una finta rabona e un grande assist di Lamine Yamal",
+   "lead": "Il giovane attaccante Lamine Yamal ha messo a segno una giocata spettacolare, con una finta di rabona seguita da un assist determinante durante una partita. L'episodio ha attirato l'attenzione per l'abilità tecnica mostrata dal calciatore, considerato uno dei talenti emergenti del calcio europeo. Il Post dedica spazio all'azione come esempio delle qualità del giocatore. Lo riferisce Il Post.",
+   "more": [
+    "Lamine Yamal è un giovane calciatore spagnolo di origine marocchina ed equatoguineana, esploso nel Barcellona e nella nazionale spagnola per la sua velocità, tecnica e capacità di dribbling, diventando uno dei nomi più seguiti del calcio giovanile mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/flashes/lamine-yamal-finta-rabona-due-assit-barcellona-galatasaray-champions-league/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T10:07+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z1a189703",
+   "sez": "mondo",
+   "titolo": "Il parlamento austriaco approva espulsioni più facili dal carcere",
+   "orig": "Nationalrat beschloss erleichterte Abschiebung aus Haft",
+   "lead": "Il Consiglio nazionale austriaco ha approvato una legge che semplifica le procedure di espulsione delle persone detenute in carcere. La misura fa parte di un più ampio dibattito politico sulle politiche migratorie e di sicurezza in Austria. Il provvedimento modifica le norme esistenti per rendere più rapido il processo di allontanamento. Lo riferisce ORF.",
+   "more": [
+    "Il Consiglio nazionale è la camera bassa del parlamento austriaco, responsabile dell'approvazione delle leggi federali; le politiche su migrazione ed espulsioni sono temi ricorrenti nel dibattito politico del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445053/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T12:45+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z872b5ff3",
+   "sez": "cultura",
+   "titolo": "Scoperto al largo della costa turca il relitto navale più antico mai trovato",
+   "orig": "Ältestes Schiffswrack vor türkischer Küste entdeckt",
+   "lead": "È stato scoperto un relitto di nave considerato il più antico mai rinvenuto al largo delle coste della Turchia. La scoperta rappresenta un ritrovamento archeologico significativo per la comprensione della storia marittima antica nella regione del Mediterraneo. Non sono forniti ulteriori dettagli su datazione precisa o circostanze del ritrovamento. Lo riferisce ORF.",
+   "more": [
+    "Le coste turche, affacciate sul Mediterraneo orientale, sono state per millenni crocevia di rotte commerciali marittime tra civiltà antiche come quella greca, fenicia e romana, rendendo l'area particolarmente ricca di ritrovamenti archeologici subacquei."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445049/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T12:25+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z03cb1bd0",
+   "sez": "mondo",
+   "titolo": "NEOS e SPÖ austriaci contrari a nuovi negoziati sul servizio civile",
+   "orig": "Zivildienst: NEOS und SPÖ gegen neue Verhandlungen",
+   "lead": "I partiti austriaci NEOS e SPÖ si sono dichiarati contrari all'apertura di nuovi negoziati sul tema del servizio civile obbligatorio (Zivildienst). La posizione emerge nel contesto del dibattito politico interno sulla riforma di questo istituto. Non sono fornite ulteriori precisazioni sulle proposte in discussione o sulle motivazioni della contrarietà. Lo riferisce ORF.",
+   "more": [
+    "Lo Zivildienst è il servizio civile obbligatorio alternativo al servizio militare in Austria, svolto generalmente in ambito sociale o sanitario; la sua riforma è periodicamente oggetto di dibattito tra le forze politiche austriache."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445048/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T12:08+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z04a5662e",
+   "sez": "mondo",
+   "titolo": "Scontro sull'Europa al Consiglio nazionale austriaco",
+   "orig": "Schlagabtausch zu Europa in Nationalrat",
+   "lead": "Si è svolto un acceso scambio di accuse sul tema dell'Europa all'interno del Consiglio nazionale austriaco. Il confronto politico ha coinvolto diverse forze parlamentari su questioni legate alle politiche europee. Non sono forniti ulteriori dettagli sui contenuti specifici dello scontro o sui partiti coinvolti. Lo riferisce ORF.",
+   "more": [
+    "Il Consiglio nazionale è la camera bassa del parlamento austriaco, sede dei principali dibattiti politici del Paese, incluse le discussioni sulle politiche dell'Unione europea e sul ruolo dell'Austria al suo interno."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445047/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T11:46+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z02d308be",
+   "sez": "mondo",
+   "titolo": "Cittadino romeno tenta di introdurre oltre 10.000 puff bar illegali in Danimarca",
+   "orig": "Rumæner forsøgte at få over 10.000 ulovlige puff bars ind i Danmark",
+   "lead": "Un uomo di nazionalità romena ha tentato di far entrare in Danimarca più di diecimila sigarette elettroniche usa e getta (puff bar) illegali. L'episodio è stato scoperto dalle autorità danesi, che hanno fermato il tentativo di contrabbando. Non sono forniti ulteriori dettagli sulle modalità del fermo o sulle conseguenze legali per l'uomo. Lo riferisce DR Nyheder.",
+   "more": [
+    "Le puff bar sono sigarette elettroniche usa e getta molto diffuse tra i giovani, spesso vendute illegalmente in diversi paesi europei che ne limitano o vietano la commercializzazione per motivi sanitari e di tutela dei minori."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/rumaener-forsoegte-faa-over-10-000-ulovlige-puff-bars-ind-i-danmark",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-14T08:48+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "ze7ea7122",
+   "sez": "mondo",
+   "titolo": "Un ministro danese ammette un errore 'molto grave' nella nuova regolamentazione sull'azoto",
+   "orig": "Minister tager fejl i grundlaget for ny kvælstofregulering 'meget alvorligt'",
+   "lead": "Un ministro danese ha riconosciuto di aver commesso un errore considerato 'molto grave' nella definizione delle basi per la nuova regolamentazione sull'azoto. L'ammissione riguarda un provvedimento legato alle politiche ambientali e agricole del Paese. Non sono forniti ulteriori dettagli sulla natura specifica dell'errore o sulle sue conseguenze politiche. Lo riferisce DR Nyheder.",
+   "more": [
+    "Le regolamentazioni sull'azoto riguardano i limiti alle emissioni derivanti dall'agricoltura e dalla zootecnia, settori chiave in Danimarca, spesso al centro di tensioni tra obiettivi ambientali e interessi del settore agricolo."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/minister-tager-fejl-i-grundlaget-ny-kvaelstofregulering-meget-alvorligt",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-14T07:47+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z15159f1d",
+   "sez": "economia",
+   "titolo": "Hyundai inaugura il suo stabilimento di Pune in India",
+   "orig": "현대차, 인도 푸네공장 준공…연 100만대 생산 체제 구축",
+   "lead": "Hyundai ha completato la costruzione del suo nuovo stabilimento produttivo nella città indiana di Pune. L'impianto permetterà al gruppo automobilistico sudcoreano di raggiungere una capacità produttiva annua di un milione di veicoli in India. L'inaugurazione rafforza la presenza industriale di Hyundai nel mercato indiano, tra i più grandi al mondo per il settore automobilistico. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Hyundai è una delle principali case automobilistiche sudcoreane, con una forte presenza internazionale; l'India rappresenta per il gruppo un mercato strategico in forte crescita, sia per le vendite interne che per l'export verso altri paesi."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/economy/marketing/1282434.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z27109149",
+   "sez": "mondo",
+   "titolo": "In Corea del Sud nasce il primo sindacato per lavoratori di aziende con meno di 5 dipendenti",
+   "orig": "“우린 2등 국민이 아닙니다”…직장갑질119 첫 ‘5인 미만 노조’ 출범",
+   "lead": "In Corea del Sud è nato il primo sindacato dedicato ai lavoratori di aziende con meno di cinque dipendenti, promosso dall'organizzazione 'Direct119' contro le discriminazioni sul lavoro. I lavoratori coinvolti denunciano di essere trattati come 'cittadini di seconda classe' per via delle minori protezioni legali garantite alle piccole imprese. L'iniziativa punta a colmare un vuoto normativo che lascia questi lavoratori meno tutelati rispetto a chi lavora in aziende più grandi. Lo riferisce The Hankyoreh.",
+   "more": [
+    "In Corea del Sud le leggi sul lavoro prevedono spesso tutele diverse in base alla dimensione dell'azienda, lasciando i dipendenti delle piccole imprese con meno protezioni su licenziamenti, orari e straordinari rispetto a chi lavora in grandi società."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/society/labor/1282432.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "zdb3935ec",
+   "sez": "mondo",
+   "titolo": "In Corea del Sud 138 cantieri di rigenerazione urbana senza verifica dei costi, il governo avvia controlli speciali",
+   "orig": "재개발·재건축 138곳 공사비 검증 안 받아…정부 특별점검 나선다",
+   "lead": "Il governo sudcoreano ha annunciato controlli speciali su 138 cantieri di riqualificazione e ricostruzione urbana che non hanno mai ricevuto una verifica dei costi di costruzione. L'iniziativa punta a garantire maggiore trasparenza nella spesa dei progetti edilizi. Non sono forniti ulteriori dettagli sulle modalità dei controlli né sulle conseguenze per i progetti coinvolti. Lo riferisce The Hankyoreh.",
+   "more": [
+    "I progetti di rigenerazione e ricostruzione urbana (jaegaebal e jaegeonchuk) sono comuni in Corea del Sud per rinnovare quartieri datati; la verifica dei costi di costruzione serve a prevenire sovrapprezzi e irregolarità a danno dei residenti."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/economy/property/1282431.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z8e5cc448",
+   "sez": "mondo",
+   "titolo": "Dhinakaran attacca il silenzio del premier del Tamil Nadu Vijay sulla disputa idrica con il Karnataka",
+   "orig": "Dhinakaran questions Tamil Nadu CM Vijay’s ‘silence’ over Cauvery water dispute with Karnataka",
+   "lead": "Il politico Dhinakaran ha criticato il premier del Tamil Nadu Vijay per il suo presunto silenzio sulla disputa relativa alle acque del fiume Cauvery con lo stato del Karnataka. La vicenda si inserisce in una contesa di lunga data tra i due stati indiani sulla gestione delle risorse idriche condivise. Non sono forniti ulteriori dettagli sulle dichiarazioni specifiche o sul contesto politico immediato. Lo riferisce Times of India.",
+   "more": [
+    "Il fiume Cauvery è al centro di una storica disputa tra gli stati indiani del Tamil Nadu e del Karnataka per la condivisione delle sue acque, essenziali per l'agricoltura locale, oggetto di controversie legali e politiche da decenni."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-questions-tamil-nadu-cm-vijays-silence-over-cauvery-water-dispute-with-karnataka/article71582969.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T16:13+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z575d8af3",
+   "sez": "mondo",
+   "titolo": "Dopo l'incidente flydubai, Air France vieta equipaggi pachistani e a maggioranza musulmana",
+   "orig": "After flydubai incident, Air France bans Pakistani, Muslim-majority crew",
+   "lead": "Air France ha deciso di vietare l'impiego di equipaggi pachistani e a maggioranza musulmana sui propri voli, in seguito a un incidente che ha coinvolto la compagnia flydubai. La decisione segue un episodio specifico legato alla sicurezza di volo, i cui dettagli non sono precisati. La misura ha suscitato attenzione per le sue implicazioni sulle politiche di assunzione e sicurezza nel settore aereo. Lo riferisce Times of India.",
+   "more": [
+    "Flydubai è una compagnia aerea low cost con sede a Dubai, parte del gruppo Emirates; episodi di sicurezza che coinvolgono equipaggi di volo possono portare altre compagnie ad adottare misure precauzionali sulle proprie politiche di reclutamento."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/europe/after-flydubai-incident-air-france-follows-israel-restrictions-and-bans-pakistani-muslim-majority-crew/articleshow/134938607.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T15:34+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "ze74310a9",
+   "sez": "mondo",
+   "titolo": "Codice di dirottamento appare su un volo Air India, i piloti dicono che era tutto normale: il mistero dietro lo scampato pericolo",
+   "orig": "Hijack code appeared, pilots said all normal: Mystery behind Air India flight scare",
+   "lead": "Un volo Air India è stato interessato da un allarme legato all'apparizione di un codice associato a dirottamento, mentre i piloti hanno dichiarato che la situazione era normale. L'episodio ha generato interrogativi sulla dinamica dell'incidente e sulle sue cause. Non sono forniti ulteriori dettagli su data, rotta o esito dell'episodio. Lo riferisce Times of India.",
+   "more": [
+    "Nei sistemi aeronautici esistono codici speciali che i piloti possono attivare per segnalare emergenze come dirottamenti; la loro attivazione innesca protocolli di sicurezza immediati da parte del controllo del traffico aereo e delle autorità."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/hijack-code-7500-appeared-pilots-said-all-normal-the-mystery-behind-air-indias-frankfurt-delhi-flight-scare/articleshow/134938930.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T16:05+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z16ba877b",
+   "sez": "mondo",
+   "titolo": "Perché il piano di Munir di 'dividere' il Pakistan potrebbe segnare la fine del governo civile",
+   "orig": "Why Munir's plan to 'split' up Pakistan may spell the end of civilian govt",
+   "lead": "Un presunto piano del generale Munir per 'dividere' il Pakistan potrebbe portare alla fine dell'attuale governo civile del Paese, secondo un'analisi di Times of India. La vicenda si inserisce in un contesto di crescenti tensioni tra le autorità militari e civili pakistane. Non sono forniti ulteriori dettagli sulla natura specifica del piano o sulle sue implicazioni immediate. Lo riferisce Times of India.",
+   "more": [
+    "In Pakistan i rapporti tra potere militare e civile sono storicamente delicati, con l'esercito che ha più volte esercitato un'influenza determinante sulla politica nazionale, anche attraverso colpi di stato o pressioni dirette sui governi eletti."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/pakistan/why-asim-munirs-plan-to-split-up-pakistan-may-spell-the-end-of-civilian-govt/articleshow/134938154.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T15:25+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "za59fec49",
+   "sez": "mondo",
+   "titolo": "Vijay usa un gesto di Stalin per deriderlo, il DMK risponde paragonandolo all'RSS",
+   "orig": "Vijay used Stalin's own gesture to mock him. Now DMK hits back with RSS comparison",
+   "lead": "Il premier del Tamil Nadu Vijay ha utilizzato un gesto caratteristico del leader politico Stalin per deriderlo pubblicamente, suscitando una reazione del partito DMK, che ha risposto paragonando Vijay all'organizzazione nazionalista indù RSS. Lo scontro si inserisce nel clima di rivalità politica nello stato indiano del Tamil Nadu. Non sono forniti ulteriori dettagli sul contesto specifico dell'episodio. Lo riferisce Times of India.",
+   "more": [
+    "L'RSS (Rashtriya Swayamsevak Sangh) è un'organizzazione nazionalista indù considerata l'ispirazione ideologica del partito di governo indiano BJP; il paragone con l'RSS è spesso usato in India come accusa politica polarizzante."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/vijay-used-stalins-own-gesture-to-mock-him-now-dmk-hits-back-with-rss-comparison/articleshow/134938403.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-14T15:49+05:30"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z506e7e35",
+   "sez": "ingegneria",
+   "titolo": "A Dubai apre domani il ponte pedonale della metro alla stazione Etihad Rail",
+   "orig": "Dubai Etihad Rail station's Metro pedestrian bridge to open tomorrow",
+   "lead": "A Dubai aprirà domani il nuovo ponte pedonale della metropolitana collegato alla stazione della ferrovia Etihad Rail. L'infrastruttura faciliterà gli spostamenti dei passeggeri tra i diversi mezzi di trasporto pubblico della città. Non sono forniti ulteriori dettagli sulla localizzazione precisa o sulle caratteristiche tecniche del ponte. Lo riferisce Gulf News.",
+   "more": [
+    "Etihad Rail è la rete ferroviaria nazionale degli Emirati Arabi Uniti, progettata per collegare le principali città del Paese; la sua integrazione con la metropolitana di Dubai punta a facilitare la mobilità urbana e intercittadina."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/dubai-etihad-rail-metro-pedestrian-bridge-opens-october-15-1.500710312",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-14T15:01+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z6777d52e",
+   "sez": "economia",
+   "titolo": "Recruit vende l'app educativa Study Sapuri, riducendo il business dell'istruzione",
+   "orig": "Japan's Recruit to sell Study Sapuri app, shrinking education business",
+   "lead": "L'azienda giapponese Recruit ha deciso di vendere la sua applicazione educativa Study Sapuri, riducendo così le proprie attività nel settore dell'istruzione. La decisione fa parte di una riorganizzazione strategica del gruppo. Non sono forniti ulteriori dettagli sull'acquirente o sui termini economici dell'operazione. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Recruit Holdings è un grande conglomerato giapponese attivo in settori come risorse umane, pubblicità e istruzione, noto anche a livello internazionale per la gestione del portale di ricerca lavoro Indeed."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/education/japan-s-recruit-to-sell-study-sapuri-app-shrinking-education-business2",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z78bd8b6b",
+   "sez": "economia",
+   "titolo": "Le aziende di abbigliamento giapponesi World e TSI si fondono per diventare il terzo gruppo del settore",
+   "orig": "Japanese apparel firms World, TSI to merge to become 3rd largest player",
+   "lead": "Le società giapponesi di abbigliamento World e TSI hanno annunciato una fusione che le porterà a diventare il terzo maggiore operatore del settore in Giappone. L'operazione mira a rafforzare la competitività delle due aziende nel mercato della moda. Non sono forniti ulteriori dettagli sui tempi di completamento o sui marchi coinvolti nella fusione. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Il mercato dell'abbigliamento giapponese è altamente competitivo, con numerosi gruppi che possiedono marchi multipli; le fusioni tra aziende del settore sono spesso motivate dalla necessità di economie di scala e maggiore potere negoziale."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/retail/japanese-apparel-firms-world-tsi-to-merge-to-become-3rd-largest-player",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z742a7260",
+   "sez": "mondo",
+   "titolo": "Crisi idrica in Giamaica: rubinetti a secco e disagi crescenti",
+   "orig": "Dry taps, deep crisis",
+   "lead": "In Giamaica si registra una grave crisi idrica, con numerose abitazioni che restano senza acqua corrente dai rubinetti. La situazione sta generando disagi significativi per la popolazione coinvolta. Non sono forniti ulteriori dettagli sulle cause specifiche della crisi né sulle aree geografiche maggiormente colpite. Lo riferisce Jamaica Observer.",
+   "more": [
+    "Le crisi idriche in Giamaica, come in altre isole caraibiche, sono spesso legate a infrastrutture datate, periodi di scarsità delle piogge o problemi di gestione delle reti di distribuzione dell'acqua potabile."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/14/dry-taps-deep-crisis/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-14T08:02+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z169dd1d1",
+   "sez": "mondo",
+   "titolo": "Il Bangladesh cambierà la descrizione della Dichiarazione d'Indipendenza",
+   "orig": "Description of the Declaration of Independence to change",
+   "lead": "Le autorità del Bangladesh hanno annunciato l'intenzione di modificare il modo in cui viene descritta la Dichiarazione d'Indipendenza del paese, un testo storico legato alla nascita della nazione nel 1971. Il cambiamento riguarderebbe la narrazione ufficiale associata a questo documento fondativo, in un contesto politico dacca in cui la memoria storica resta un tema sensibile e dibattuto. Non sono stati forniti ulteriori dettagli sulla natura esatta della modifica né sulle motivazioni specifiche. Lo riferisce Prothom Alo.",
+   "more": [
+    "La Dichiarazione d'Indipendenza segna la nascita del Bangladesh come stato sovrano nel 1971, dopo la guerra di liberazione dal Pakistan. Il modo in cui viene raccontata nei testi ufficiali ha spesso riflesso le tensioni politiche tra le diverse forze del paese."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/99zww0ycif",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-14T10:22+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z368e250a",
+   "sez": "mondo",
+   "titolo": "Bangladesh, incendio in una fabbrica farmaceutica a Tongi messo sotto controllo dopo 4 ore",
+   "orig": "Tongi drug factory fire brought under control after 4 hours",
+   "lead": "Un incendio scoppiato in una fabbrica farmaceutica nella zona industriale di Tongi, vicino a Dacca, è stato portato sotto controllo dopo circa quattro ore di lavoro dei soccorritori. Le squadre antincendio sono intervenute per contenere le fiamme che avevano colpito lo stabilimento, situato in una delle principali aree industriali del Bangladesh. Non sono stati forniti dettagli su eventuali vittime o sull'estensione dei danni materiali. Lo riferisce Prothom Alo.",
+   "more": [
+    "Tongi è un'area industriale alla periferia di Dacca, nota per la concentrazione di fabbriche tessili e farmaceutiche, spesso teatro di incidenti legati a norme di sicurezza non sempre rispettate negli impianti produttivi del Bangladesh."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/local-news/69qo9ggppj",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-14T10:18+00:00"
+    },
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/vaz4lrr0ba",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-14T09:07+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "zc6927dce",
+   "sez": "mondo",
+   "titolo": "Bangladesh, il Press Council chiede poteri per agire d'ufficio e multare i giornalisti",
+   "orig": "Press Council seeks power to act suo motu and fine journalists",
+   "lead": "Il Press Council del Bangladesh ha chiesto di ottenere il potere di agire di propria iniziativa (suo motu) e di imporre multe ai giornalisti, un'estensione delle sue attuali competenze di organo di vigilanza sulla stampa. La richiesta, se accolta, cambierebbe il ruolo dell'ente, che attualmente ha funzioni più limitate nel regolare la condotta professionale dei media nel paese. Non sono stati specificati i tempi previsti per l'eventuale approvazione della proposta. Lo riferisce Prothom Alo.",
+   "more": [
+    "Il Press Council è l'organismo bengalese incaricato di vigilare sull'etica giornalistica e di gestire le controversie legate alla stampa. Un ampliamento dei suoi poteri sanzionatori solleva interrogativi sulla libertà di stampa nel paese."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/0xxbtg3f9j",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-14T08:43+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "za72c50ae",
+   "sez": "economia",
+   "titolo": "Due grandi conglomerati del Bangladesh avviano la produzione di batterie al litio",
+   "orig": "2 major Bangladeshi conglomerates to begin lithium-ion battery production",
+   "lead": "Due importanti conglomerati industriali del Bangladesh hanno annunciato l'avvio della produzione di batterie agli ioni di litio, un passo verso lo sviluppo di una filiera locale per componenti chiave della transizione energetica e della mobilità elettrica. L'iniziativa segna un investimento significativo nel settore tecnologico-industriale del paese, finora dipendente dalle importazioni per questo tipo di tecnologia. Non sono stati precisati i nomi dei gruppi coinvolti né l'ammontare degli investimenti. Lo riferisce Prothom Alo.",
+   "more": [
+    "Le batterie agli ioni di litio sono la tecnologia di accumulo energetico più diffusa oggi, utilizzata in veicoli elettrici, elettronica di consumo e sistemi di stoccaggio energetico, settore in forte espansione a livello globale."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/business/local/1af27txu8s",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-14T08:26+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "zc59a6fc7",
+   "sez": "economia",
+   "titolo": "Maldive, la tassa turistica TGST continua a calare: entrate giù di 126 milioni di rufiyaa",
+   "orig": "TGST continues to decline with earnings down MVR 126mn from last year",
+   "lead": "Le entrate derivanti dalla Tourism Goods and Services Tax (TGST), l'imposta applicata al settore turistico delle Maldive, continuano a diminuire, con un calo di 126 milioni di rufiyaa (MVR) rispetto all'anno precedente. Il dato segnala una contrazione delle entrate fiscali legate al turismo, settore cardine dell'economia dell'arcipelago. Non sono state fornite ulteriori spiegazioni sulle cause specifiche del calo. Lo riferisce Sun Online.",
+   "more": [
+    "La TGST è un'imposta applicata ai servizi turistici alle Maldive, uno dei principali strumenti di entrata fiscale per un'economia fortemente dipendente dal turismo internazionale, che rappresenta la principale fonte di valuta estera del paese."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109537",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T16:13+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z257454ea",
+   "sez": "mondo",
+   "titolo": "Maldive, inchiesta parlamentare sul Parole Board per il rilascio del boss della droga Abucha",
+   "orig": "Parole Board faces parliamentary inquiry over Addu drug kingpin Abucha’s release",
+   "lead": "Il Parole Board delle Maldive affronta un'inchiesta parlamentare riguardo al rilascio di un noto trafficante di droga di Addu, conosciuto come Abucha. La commissione parlamentare intende verificare le modalità con cui è stata concessa la libertà condizionata, in un caso che ha suscitato preoccupazione pubblica per la gestione della criminalità legata al narcotraffico nell'arcipelago. Non sono stati forniti ulteriori dettagli sull'identità completa del detenuto o sui tempi dell'inchiesta. Lo riferisce Sun Online.",
+   "more": [
+    "Il Parole Board è l'organo che decide sulla liberazione condizionata dei detenuti alle Maldive. Addu è un atollo meridionale dell'arcipelago, spesso citato in relazione a episodi di criminalità legata al traffico di stupefacenti."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109536",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T15:50+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z68ae2656",
+   "sez": "mondo",
+   "titolo": "Maldive, l'MDP: la chiusura del consolato tedesco riflette il trascurare dei partner storici",
+   "orig": "MDP: German consulate closure reflects wider neglect of Maldives’ ties with longstanding partners",
+   "lead": "Il Partito Democratico Maldiviano (MDP) ha criticato la chiusura del consolato tedesco nelle Maldive, sostenendo che la decisione rifletta un più ampio trascurare delle relazioni dell'arcipelago con partner internazionali di lunga data come la Germania. Il partito di opposizione ha espresso preoccupazione per le possibili conseguenze diplomatiche ed economiche della chiusura. Non sono stati forniti ulteriori dettagli sulle motivazioni ufficiali della decisione tedesca. Lo riferisce Sun Online.",
+   "more": [
+    "L'MDP è il principale partito di opposizione alle Maldive. La presenza diplomatica straniera nell'arcipelago è considerata strategica per gli scambi commerciali e turistici, data la forte dipendenza del paese dai partner internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109532",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T13:27+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z8a4af315",
+   "sez": "mondo",
+   "titolo": "Le Maldive partecipano a un forum internazionale sull'energia",
+   "orig": "ހަކަތައިގެ ދާއިރާއާ ގުޅޭ ބައިނަލްއަޤްވާމީ ފޯރަމްގައި ރާއްޖެއިން ބައިވެރިވެއްޖެ",
+   "lead": "Una delegazione delle Maldive ha preso parte a un forum internazionale dedicato al settore energetico, un'occasione per discutere le prospettive di sviluppo e cooperazione in materia di energia per l'arcipelago. La partecipazione si inserisce negli sforzi del paese di affrontare le sfide legate alla fornitura e alla transizione energetica. Non sono stati specificati i dettagli sul luogo dell'evento o sui partecipanti coinvolti. Lo riferisce PSM News.",
+   "more": [
+    "Le Maldive, come molti piccoli stati insulari, dipendono fortemente dalle importazioni di combustibili fossili e cercano di diversificare le fonti energetiche, anche attraverso la cooperazione internazionale in forum dedicati al settore."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190177",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T15:29+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z5a10dccb",
+   "sez": "mondo",
+   "titolo": "Maldive, una dichiarazione: \"Non daremo nessuna parte del paese a potenze straniere\"",
+   "orig": "&quot;ދިވެހިރާއްޖޭގެ އެއްވެސް ބައެއް، ބޭރުގެ އެއްވެސް ބާރަކަށް ނުދޭނަން&quot;",
+   "lead": "Una figura istituzionale delle Maldive ha dichiarato che nessuna parte del territorio nazionale sarà concessa a potenze straniere, una affermazione che tocca il tema sensibile della sovranità dell'arcipelago nell'Oceano Indiano. La dichiarazione arriva in un contesto in cui le Maldive sono spesso oggetto di attenzione geopolitica da parte di potenze regionali e globali interessate alla loro posizione strategica. Non sono stati forniti ulteriori dettagli sul contesto specifico in cui è stata pronunciata. Lo riferisce PSM News.",
+   "more": [
+    "Le Maldive, per la loro posizione strategica nell'Oceano Indiano, sono spesso al centro di rivalità geopolitiche tra potenze regionali, che si contendono influenza attraverso accordi economici, militari e infrastrutturali con il piccolo arcipelago."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190176",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-14T15:18+05:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z8b50a2e0",
+   "sez": "mondo",
+   "titolo": "Kirghizistan, aumentano i casi di violenza domestica nel distretto di Kochkor",
+   "orig": "Kochkor district reports increase in domestic violence cases",
+   "lead": "Il distretto di Kochkor, in Kirghizistan, registra un aumento dei casi di violenza domestica segnalati alle autorità locali. Il dato emerge da un rapporto che evidenzia la crescita del fenomeno in questa area rurale del paese centroasiatico. Non sono stati forniti dettagli numerici precisi né le possibili cause dell'incremento segnalato. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924934",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-14T16:48+06:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z01945a22",
+   "sez": "mondo",
+   "titolo": "Kirghizistan, un deputato chiede più fondi per la regione più povera del paese",
+   "orig": "MP calls for increased funding for Kyrgyzstan's poorest region",
+   "lead": "Un deputato del parlamento kirghiso ha chiesto un aumento dei finanziamenti destinati alla regione più povera del paese, sottolineando la necessità di interventi economici per ridurre le disparità territoriali. La richiesta si inserisce nel dibattito parlamentare sulla distribuzione delle risorse statali tra le diverse regioni del Kirghizistan. Non sono stati specificati l'importo richiesto né la regione esatta citata nella proposta. Lo riferisce AKIpress.",
+   "more": [
+    "Il Kirghizistan presenta forti disparità economiche tra le regioni, con alcune aree rurali e montuose che restano significativamente più povere rispetto alla capitale Bishkek e ad altri centri urbani maggiori."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924925",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-14T16:27+06:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z2dffb3c2",
+   "sez": "mondo",
+   "titolo": "Bishkek deve sostituire 500 cassonetti per rifiuti per ogni distretto",
+   "orig": "Bishkek needs to replace 500 waste containers per district",
+   "lead": "La capitale kirghisa Bishkek necessita della sostituzione di circa 500 contenitori per i rifiuti in ciascuno dei suoi distretti, secondo quanto riportato, a causa del deterioramento delle infrastrutture per la gestione dei rifiuti urbani. Il problema riguarda la capacità della città di garantire un adeguato smaltimento dei rifiuti domestici. Non sono stati specificati i tempi previsti per l'intervento né i costi stimati. Lo riferisce AKIpress.",
+   "more": [
+    "Bishkek, capitale del Kirghizistan, affronta da anni problemi legati alla gestione dei rifiuti urbani, con infrastrutture spesso datate che richiedono investimenti costanti per garantire servizi adeguati alla popolazione cittadina."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924907",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-14T15:29+06:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z9454ff2e",
+   "sez": "mondo",
+   "titolo": "Bishkek, scontro tra un deputato e il vicesindaco sui registri immobiliari comunali",
+   "orig": "MP and Bishkek's vice mayor clash over municipal property records",
+   "lead": "Un deputato kirghiso e il vicesindaco di Bishkek sono entrati in contrasto riguardo ai registri delle proprietà municipali della capitale, in una disputa che riguarda la gestione e la trasparenza dei beni comunali. Il confronto evidenzia tensioni tra autorità locali e parlamentari sulla gestione del patrimonio immobiliare pubblico. Non sono stati forniti ulteriori dettagli sulle specifiche accuse scambiate tra le parti. Lo riferisce AKIpress.",
+   "more": [
+    "La gestione del patrimonio immobiliare comunale è spesso al centro di controversie nelle città dell'Asia centrale ex sovietica, dove la trasparenza nei registri di proprietà pubblica resta un tema sensibile per il controllo della corruzione."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:924904",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-14T15:23+06:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z5ea0e145",
+   "sez": "mondo",
+   "titolo": "La FAO lancia un programma per sostenere 54 imprese forestali ugandesi",
+   "orig": "FAO Launches Programme to Support 54 Ugandan Forestry Enterprises",
+   "lead": "L'Organizzazione delle Nazioni Unite per l'Alimentazione e l'Agricoltura (FAO) ha lanciato un programma per sostenere 54 imprese forestali in Uganda, un'iniziativa volta a rafforzare il settore forestale del paese. Il progetto mira a fornire supporto a piccole e medie imprese attive nella gestione e nella valorizzazione delle risorse boschive ugandesi. Non sono stati specificati i dettagli finanziari o la durata del programma. Lo riferisce Nile Post.",
+   "more": [
+    "La FAO è l'agenzia delle Nazioni Unite dedicata ad alimentazione e agricoltura, impegnata anche nella gestione sostenibile delle foreste. L'Uganda possiede significative risorse forestali, importanti per l'economia rurale e la biodiversità del paese."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/378301/fao-launches-programme-to-support-54-ugandan-forestry-enterprises",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-14T13:13+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "zdc80b610",
+   "sez": "mondo",
+   "titolo": "Malattia di Minamata: la prefettura di Kumamoto fa ricorso contro la sentenza di riconoscimento",
+   "orig": "水俣病認定命じる判決、熊本県が控訴 原告側は「争う事情ない」",
+   "lead": "La prefettura giapponese di Kumamoto ha presentato ricorso contro una sentenza che ordinava il riconoscimento di pazienti come malati di Minamata. Secondo la parte dei ricorrenti originari, non ci sarebbero elementi da contestare nella decisione dei giudici. Lo riferisce Asahi Shimbun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBG2JGFVBGTLVB004M.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-14T20:00+09:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z9e82001a",
+   "sez": "mondo",
+   "titolo": "Giappone, arrestato ex dipendente di una compagnia assicurativa per truffa da 5 milioni di yen",
+   "orig": "大樹生命元社員を逮捕 顧客から500万円詐取した疑い 埼玉県警",
+   "lead": "La polizia della prefettura di Saitama ha arrestato un ex dipendente della compagnia assicurativa Taiju Life con l'accusa di aver sottratto circa 5 milioni di yen a un cliente. L'uomo avrebbe approfittato della propria posizione professionale per ottenere il denaro con l'inganno. Il caso è stato reso noto dalle autorità locali giapponesi. Lo riferisce Asahi Shimbun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBG2JSDVBGUTNB009M.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-14T17:49+09:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z617ef2ab",
+   "sez": "mondo",
+   "titolo": "Spagna, tre boliviani arrestati per un matrimonio simulato scoperto grazie a una denuncia per maltrattamenti",
+   "orig": "Tres bolivianos detenidos en España por un matrimonio simulado destapado por maltrato",
+   "lead": "Le autorità spagnole hanno arrestato tre cittadini boliviani coinvolti in un matrimonio simulato, organizzato probabilmente per ottenere documenti di soggiorno irregolari. Il caso è emerso dopo una denuncia per maltrattamenti che ha portato alla scoperta dell'accordo fraudolento. L'indagine è attualmente in corso da parte delle forze dell'ordine spagnole. Lo riferisce ABC Color.",
+   "more": [
+    "I matrimoni simulati sono accordi stipulati per aggirare le norme sull'immigrazione, spesso dietro compenso economico, e in Spagna come in altri Paesi europei vengono perseguiti penalmente quando scoperti dalle autorità."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/14/tres-bolivianos-detenidos-en-espana-por-un-matrimonio-simulado-destapado-por-maltrato/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-14T11:10+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z00f11373",
+   "sez": "economia",
+   "titolo": "Il Venezuela presenta al Fondo monetario internazionale un piano economico basato su petrolio e miniere",
+   "orig": "Venezuela presenta ante el FMI una hoja de ruta económica basada en petróleo y minería",
+   "lead": "Il governo venezuelano ha presentato al Fondo monetario internazionale una proposta di piano economico fondato sullo sviluppo delle risorse petrolifere e minerarie del Paese. La hoja de ruta punta a rilanciare i settori strategici dell'economia venezuelana. L'iniziativa arriva in un contesto di difficoltà economiche prolungate per il Paese sudamericano. Lo riferisce ABC Color.",
+   "more": [
+    "Il Venezuela, tra i Paesi con le maggiori riserve di petrolio al mondo, attraversa da anni una grave crisi economica aggravata da sanzioni internazionali e calo della produzione petrolifera, che ha spinto il governo a cercare nuove strategie di rilancio."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/14/venezuela-presenta-ante-el-fmi-una-hoja-de-ruta-economica-basada-en-petroleo-y-mineria/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-14T11:05+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z0eeaf370",
+   "sez": "mondo",
+   "titolo": "Maurizio, l'inchiesta sulle valigie da 114 milioni di rupie: Kobita Jugnauth lascia la FCC dopo tre ore di interrogatorio",
+   "orig": "Affaire des valises de Rs 114 millions : Kobita Jugnauth quitte la FCC après trois heures d’interrogatoire",
+   "lead": "Kobita Jugnauth è stata interrogata per tre ore dalla Financial Crimes Commission (FCC) di Mauritius nell'ambito dell'inchiesta sulle valigie contenenti 114 milioni di rupie. Il ministro Anil Bachoo non è coinvolto in questa notizia specifica, ma il caso riguarda accertamenti su presunti fondi non dichiarati legati a figure vicine al potere politico mauriziano. Lo riferisce Defimedia.",
+   "more": [
+    "La Financial Crimes Commission è l'organismo anticorruzione di Mauritius incaricato di indagare su reati finanziari e di riciclaggio, spesso coinvolto in inchieste su esponenti politici ed economici di rilievo nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/affaire-des-valises-de-rs-114-millions-kobita-jugnauth-quitte-la-fcc-apres-trois-heures",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T14:15+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z45100917",
+   "sez": "viaggi",
+   "titolo": "Maurizio supera il milione di visitatori in nove mesi",
+   "orig": "Tourisme : le cap du million de visiteurs franchi en neuf mois",
+   "lead": "Mauritius ha superato il traguardo di un milione di turisti nei primi nove mesi del 2026. Il dato, diffuso dalle autorità del settore, conferma la ripresa del comparto turistico dell'isola dell'Oceano Indiano. Il turismo rappresenta uno dei pilastri principali dell'economia mauriziana. Lo riferisce Defimedia.",
+   "more": [
+    "Mauritius è una delle principali destinazioni turistiche dell'Oceano Indiano, nota per le spiagge e i resort di lusso, e il turismo costituisce una delle maggiori fonti di entrate valutarie per l'economia del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/tourisme-le-cap-du-million-de-visiteurs-franchi-en-neuf-mois",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T14:00+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "zac5e7f1e",
+   "sez": "mondo",
+   "titolo": "Maurizio, raccolte 7.312 tonnellate di banane nel primo semestre",
+   "orig": "Production locale : 7 312 tonnes de bananes récoltées au premier semestre",
+   "lead": "La produzione locale di banane a Mauritius ha raggiunto le 7.312 tonnellate nel primo semestre del 2026. Il dato riguarda la produzione agricola dell'isola nell'Oceano Indiano, diffuso dalle autorità del settore agricolo. La cifra fornisce un'indicazione sullo stato della filiera agricola mauriziana. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/production-locale-7-312-tonnes-de-bananes-recoltees-au-premier-semestre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T13:30+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
+   "id": "z1775cff4",
+   "sez": "mondo",
+   "titolo": "Maurizio, pochi assenti e ritardatari agli esami SC e HSC di mercoledì mattina",
+   "orig": "Examens du SC et du HSC : peu d’absences et de retards enregistrés ce mercredi matin",
+   "lead": "Gli esami del School Certificate (SC) e dell'Higher School Certificate (HSC) a Mauritius si sono svolti mercoledì mattina con un numero contenuto di assenze e ritardi tra i candidati. Il dato è stato registrato dalle autorità scolastiche dell'isola. Gli esami rappresentano un passaggio chiave per gli studenti del sistema educativo mauriziano. Lo riferisce Defimedia.",
+   "more": [
+    "Il School Certificate e l'Higher School Certificate sono gli esami nazionali di fine ciclo scolastico a Mauritius, equivalenti rispettivamente alla scuola secondaria inferiore e alla maturità, fondamentali per l'accesso agli studi superiori."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/examens-du-sc-et-du-hsc-peu-dabsences-et-de-retards-enregistres-ce-mercredi-matin",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-14T13:13+04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "13:53",
+   "uscita": "13"
+  },
+  {
    "id": "zacc49c68",
    "sez": "mondo",
    "titolo": "Tre anni dopo il caso Pandora Gate: cosa si è riusciti a fare",
@@ -12373,6 +13353,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-14T12:18+02:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445055/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T13:07+02:00"
     }
    ],
    "data": "14 ott",
@@ -15934,7 +16923,48 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zf1736305": "Alakhbar riporta l'operazione delle autorità doganali locali.",
   "z4a14669b": "Alakhbar documenta l'intervento di sostegno alle famiglie sinistrate.",
   "z22d3631b": "Expresso das Ilhas riporta i dati ufficiali sull'andamento dei prezzi.",
-  "z2e6fcc6d": "Expresso das Ilhas descrive il sostegno governativo al settore zootecnico nazionale."
+  "z2e6fcc6d": "Expresso das Ilhas descrive il sostegno governativo al settore zootecnico nazionale.",
+  "z0d265dc2": "Il Post celebra la giocata come momento spettacolare di una partita.",
+  "z1a189703": "ORF riporta l'approvazione come svolta normativa sul tema delle espulsioni.",
+  "z872b5ff3": "ORF presenta la scoperta come un evento archeologico di rilievo.",
+  "z03cb1bd0": "ORF riporta la posizione contraria dei due partiti sul tema.",
+  "z04a5662e": "ORF descrive il dibattito come un acceso scontro politico.",
+  "z02d308be": "DR Nyheder racconta l'episodio come caso di contrabbando scoperto dalle autorità.",
+  "ze7ea7122": "DR Nyheder sottolinea la gravità dell'errore ammesso dal ministro.",
+  "z15159f1d": "The Hankyoreh presenta l'apertura come un passo di espansione industriale del gruppo.",
+  "z27109149": "The Hankyoreh dà voce alla denuncia dei lavoratori sulla disparità di trattamento.",
+  "zdb3935ec": "The Hankyoreh segnala l'avvio dei controlli come risposta a una lacuna di trasparenza.",
+  "z8e5cc448": "Times of India riporta l'attacco politico di Dhinakaran come critica interna al governo del Tamil Nadu.",
+  "z575d8af3": "Times of India riporta la decisione come reazione diretta all'episodio flydubai.",
+  "ze74310a9": "Times of India mette in evidenza il mistero non risolto dietro l'episodio.",
+  "z16ba877b": "Times of India analizza il piano come minaccia alla stabilità del governo civile pakistano.",
+  "za59fec49": "Times of India racconta lo scontro verbale come episodio della rivalità politica nel Tamil Nadu.",
+  "z506e7e35": "Gulf News presenta l'apertura come miglioramento della mobilità urbana a Dubai.",
+  "z6777d52e": "Nikkei Asia descrive la vendita come segnale di ridimensionamento del business educativo di Recruit.",
+  "z78bd8b6b": "Nikkei Asia presenta la fusione come riorganizzazione strategica nel settore moda giapponese.",
+  "z742a7260": "Jamaica Observer descrive la gravità della crisi idrica che colpisce il paese.",
+  "z169dd1d1": "Prothom Alo segnala un cambiamento ufficiale senza entrare nei dettagli specifici della nuova formulazione.",
+  "z368e250a": "Prothom Alo si concentra sui tempi dell'intervento dei soccorsi e sulla conclusione dell'emergenza.",
+  "zc6927dce": "Prothom Alo riporta la richiesta dell'organo di vigilanza senza esprimere giudizi sulle possibili conseguenze per la libertà di stampa.",
+  "za72c50ae": "Prothom Alo evidenzia l'ingresso di due grandi gruppi bengalesi in un settore industriale strategico.",
+  "zc59a6fc7": "Sun Online si concentra sul dato numerico del calo delle entrate fiscali.",
+  "z257454ea": "Sun Online pone l'accento sul controllo parlamentare sull'operato dell'organo che gestisce le libertà condizionate.",
+  "z68ae2656": "Sun Online riporta la critica dell'opposizione al governo per la gestione delle relazioni diplomatiche.",
+  "z8a4af315": "PSM News sottolinea la partecipazione ufficiale delle Maldive all'evento internazionale.",
+  "z5a10dccb": "PSM News riporta direttamente la dichiarazione sulla sovranità nazionale.",
+  "z8b50a2e0": "AKIpress riporta il dato sull'aumento dei casi segnalati nel distretto.",
+  "z01945a22": "AKIpress riporta la richiesta parlamentare di maggiori fondi per la regione svantaggiata.",
+  "z2dffb3c2": "AKIpress si concentra sul dato numerico dei contenitori da sostituire.",
+  "z9454ff2e": "AKIpress riporta il botta e risposta tra le due figure istituzionali.",
+  "z5ea0e145": "Nile Post presenta il programma della FAO come un sostegno concreto al settore forestale nazionale.",
+  "zdc80b610": "Asahi Shimbun riporta sia la posizione dell'amministrazione locale sia quella dei ricorrenti, sottolineandone il contrasto.",
+  "z9e82001a": "Asahi Shimbun riporta la notizia come caso di cronaca giudiziaria legata al settore assicurativo.",
+  "z617ef2ab": "ABC Color evidenzia come la scoperta sia avvenuta indirettamente, tramite una denuncia per violenza domestica.",
+  "z00f11373": "ABC Color presenta l'iniziativa come tentativo venezuelano di dialogo con le istituzioni finanziarie internazionali.",
+  "z0eeaf370": "Defimedia segue da vicino lo sviluppo dell'inchiesta, sottolineando la durata dell'interrogatorio.",
+  "z45100917": "Defimedia presenta il dato come segnale positivo per l'economia turistica nazionale.",
+  "zac5e7f1e": "Defimedia riporta il dato come indicatore della produzione agricola locale.",
+  "z1775cff4": "Defimedia segnala la regolarità dello svolgimento delle prove come notizia positiva."
  },
  "contesti": {
   "z8df16686": "I terminali Starlink sono diventati essenziali per le comunicazioni e la guida di precisione delle forze ucraine dal 2022. Negli ultimi mesi l'amministrazione Trump ha cercato una mediazione con Mosca, criticando gli attacchi ucraini alle raffinerie russe. Nelle settimane scorse Kyiv ha intensificato i raid a lungo raggio contro l'industria petrolifera russa, suscitando malumori a Washington.",
@@ -16037,7 +17067,9 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z8ee0b95a": "Nelle ultime settimane l'ex presidente Joseph Kabila, già condannato in contumacia per alto tradimento, ha intensificato la sua opposizione al governo di Félix Tshisekedi dal territorio controllato dal gruppo armato M23 nell'est del paese. La proliferazione di nuove formazioni politico-militari legate a Kabila ha allarmato la maggioranza presidenziale, spingendo alleati come Vital Kamerhe a ribadire pubblicamente la loro fedeltà a Tshisekedi.",
   "z6edce71a": "Negli ultimi giorni la regione del Nord Kivu ha visto crescere la tensione con la formazione del Fronte per la rifondazione della nazione, legato a Joseph Kabila, che ha generato scontri con i gruppi locali di autodifesa wazalendo.",
   "z865615bb": "Dopo il recente violento terremoto che ha colpito Panama causando danni a infrastrutture e abitazioni, il governo ha dovuto rapidamente individuare fonti di finanziamento per la ricostruzione senza intaccare gli equilibri di bilancio né il Fondo di Risparmio di Panama, riserva strategica del paese. Le autorità hanno negoziato con organismi multilaterali come la BID e la CAF per ottenere donazioni canalizzate attraverso strumenti fiduciari dedicati.",
-  "z5de415bb": "Reinaldo Picado, noto oppositore del regime di Daniel Ortega rifugiato in Costa Rica, aveva già subito un primo attentato circa tre mesi fa senza conseguenze fisiche gravi. Negli ultimi anni la diaspora nicaraguense in Costa Rica ha denunciato minacce, pedinamenti e intimidazioni attribuite a presunti agenti legati al governo sandinista, alimentando il timore di una campagna di repressione transfrontaliera contro i dissidenti."
+  "z5de415bb": "Reinaldo Picado, noto oppositore del regime di Daniel Ortega rifugiato in Costa Rica, aveva già subito un primo attentato circa tre mesi fa senza conseguenze fisiche gravi. Negli ultimi anni la diaspora nicaraguense in Costa Rica ha denunciato minacce, pedinamenti e intimidazioni attribuite a presunti agenti legati al governo sandinista, alimentando il timore di una campagna di repressione transfrontaliera contro i dissidenti.",
+  "z575d8af3": "Le informazioni disponibili risultano estremamente limitate e prive di dettagli verificabili sull'incidente flydubai richiamato come causa della decisione. Non sono specificate la data, la dinamica né le vittime dell'episodio, né i criteri con cui Air France avrebbe definito la nuova politica sugli equipaggi. La notizia, riportata da una singola fonte indiana, necessita di ulteriori conferme prima di poter essere ricostruita con precisione cronologica.",
+  "z16ba877b": "Il Pakistan vive da mesi una fase di tensione tra l'establishment militare, guidato dal generale Asim Munir, e il governo civile. Munir ha consolidato potere dopo la destituzione di Imran Khan nel 2022 e le contestate elezioni del 2024, alimentando sospetti su un ruolo crescente dei militari nella gestione dello Stato, in una dinamica storicamente ricorrente nel Paese."
  },
  "cronologie": {
   "z8df16686": [
@@ -17362,6 +18394,34 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "14 ottobre 2026",
     "Il viceministro Chapman annuncia la creazione dei fideicomisos con BID e CAF"
+   ]
+  ],
+  "z575d8af3": [
+   [
+    "Data non precisata",
+    "Incidente che coinvolge un volo flydubai, dettagli non specificati dalla fonte"
+   ],
+   [
+    "14 ottobre 2026",
+    "Times of India riferisce della presunta decisione di Air France sugli equipaggi"
+   ]
+  ],
+  "z16ba877b": [
+   [
+    "2022",
+    "Destituzione di Imran Khan tramite mozione di fiducia"
+   ],
+   [
+    "Febbraio 2024",
+    "Elezioni generali contestate, accuse di brogli a favore dei militari"
+   ],
+   [
+    "2025",
+    "Munir rafforza il proprio controllo su apparati di sicurezza e politica"
+   ],
+   [
+    "14 ottobre 2026",
+    "Times of India analizza un presunto piano di Munir per 'dividere' il Pakistan"
    ]
   ]
  },
@@ -21588,6 +22648,293 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Solomon Is."
    ],
    "pt": []
+  },
+  "z0d265dc2": {
+   "n": "Spagna",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z1a189703": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z872b5ff3": {
+   "n": "costa turca",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z03cb1bd0": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z04a5662e": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z02d308be": {
+   "n": "Danimarca",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "ze7ea7122": {
+   "n": "Danimarca",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z15159f1d": {
+   "n": "Pune",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z27109149": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zdb3935ec": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z8e5cc448": {
+   "n": "Tamil Nadu",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z575d8af3": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze74310a9": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z16ba877b": {
+   "n": "Pakistan",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "za59fec49": {
+   "n": "Tamil Nadu",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z506e7e35": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z6777d52e": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z78bd8b6b": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z742a7260": {
+   "n": "Giamaica",
+   "p": [
+    "Jamaica"
+   ],
+   "pt": []
+  },
+  "z169dd1d1": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z368e250a": {
+   "n": "Tongi",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zc6927dce": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "za72c50ae": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zc59a6fc7": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z257454ea": {
+   "n": "Addu",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z68ae2656": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z8a4af315": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z5a10dccb": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z8b50a2e0": {
+   "n": "Kochkor",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z01945a22": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z2dffb3c2": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z9454ff2e": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z5ea0e145": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zdc80b610": {
+   "n": "Kumamoto",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z9e82001a": {
+   "n": "Saitama",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z617ef2ab": {
+   "n": "Spagna",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z00f11373": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z0eeaf370": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z45100917": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "zac5e7f1e": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z1775cff4": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -22198,7 +23545,48 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zde5621cf": 1,
   "zbd6870e0": 1,
   "zaa8e4f5a": 1,
-  "z30cbf88b": 1
+  "z30cbf88b": 1,
+  "z0d265dc2": 1,
+  "z1a189703": 1,
+  "z872b5ff3": 1,
+  "z03cb1bd0": 1,
+  "z04a5662e": 1,
+  "z02d308be": 1,
+  "ze7ea7122": 1,
+  "z15159f1d": 1,
+  "z27109149": 1,
+  "zdb3935ec": 1,
+  "z8e5cc448": 1,
+  "z575d8af3": 2,
+  "ze74310a9": 1,
+  "z16ba877b": 2,
+  "za59fec49": 1,
+  "z506e7e35": 1,
+  "z6777d52e": 1,
+  "z78bd8b6b": 1,
+  "z742a7260": 1,
+  "z169dd1d1": 1,
+  "z368e250a": 1,
+  "zc6927dce": 1,
+  "za72c50ae": 1,
+  "zc59a6fc7": 1,
+  "z257454ea": 1,
+  "z68ae2656": 1,
+  "z8a4af315": 1,
+  "z5a10dccb": 1,
+  "z8b50a2e0": 1,
+  "z01945a22": 1,
+  "z2dffb3c2": 1,
+  "z9454ff2e": 1,
+  "z5ea0e145": 1,
+  "zdc80b610": 1,
+  "z9e82001a": 1,
+  "z617ef2ab": 1,
+  "z00f11373": 1,
+  "z0eeaf370": 1,
+  "z45100917": 1,
+  "zac5e7f1e": 1,
+  "z1775cff4": 1
  },
  "video": {},
  "pillole": []
