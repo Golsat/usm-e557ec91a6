@@ -129,7 +129,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z21271c4d",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Vendita di TAP a Lufthansa: scontro politico tra governo e opposizione in Portogallo",
    "orig": "TAP. Esquerda deixa críticas enquanto PSD e CDS falam num \"dia positivo\" para o país",
    "lead": "In Portogallo, la vendita parziale della compagnia aerea TAP alla tedesca Lufthansa ha scatenato un acceso dibattito politico. Mentre i partiti di governo PSD e CDS considerano l'operazione un segnale positivo per il futuro del Paese, le forze di sinistra, tra cui PCP, Bloco de Esquerda, Livre e PAN, hanno espresso dure critiche. L'opposizione contesta la scelta della privatizzazione, temendo ripercussioni sulla sovranità nazionale e sul controllo del trasporto aereo, mentre l'esecutivo difende la mossa come necessaria per la stabilità finanziaria della compagnia. Lo riferisce RTP.",
@@ -812,7 +812,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z17bb373f",
-   "sez": "viaggi",
+   "sez": "ingegneria",
    "titolo": "Sembra un borgo italiano: ecco il megaprogetto immobiliare in costruzione a Mendoza",
    "orig": "Parece un “pueblito italiano”: así es el megaproyecto inmobiliario que se levanta en Mendoza",
    "lead": "Un nuovo e grande progetto immobiliare prende forma nella provincia di Mendoza, caratterizzato da un design architettonico che richiama in modo evidente l'aspetto dei tipici villaggi fortificati italiani, conosciuti come 'borghi'. L'iniziativa punta a ricreare le atmosfere e le strutture tipiche di quei centri storici europei nel contesto argentino. Lo riferisce La Nación.",
@@ -1448,7 +1448,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "zc9310af7",
-   "sez": "mondo",
+   "sez": "organizzazioni",
    "titolo": "Incontro FMI e Banca Mondiale: il Fondo Monetario loda gli sforzi del Marocco sul consolidamento fiscale",
    "orig": "IMF-WB meetings: IMF lauds Morocco’s fiscal consolidation efforts",
    "lead": "A Bangkok, a margine delle riunioni annuali del Fondo Monetario Internazionale e della Banca Mondiale, il capo divisione del dipartimento affari fiscali dell'FMI Davide Furceri ha lodato gli sforzi compiuti dal Marocco nel consolidamento fiscale. Parlando con la MAP, Furceri ha evidenziato che il Paese africano continua a fronteggiare sfide economiche rilevanti, in particolare legate all'aumento dei prezzi dell'energia. Lo riferisce Hespress English.",
@@ -1913,7 +1913,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z3e8e5980",
-   "sez": "economia",
+   "sez": "tech",
    "titolo": "Lussemburgo: attacco informatico e blocco dei sistemi di ordinazione per i supermercati Delhaize",
    "orig": "Delhaize supermarkets across Luxembourg suspend ordering systems after cyberattack",
    "lead": "Nella capitale del Lussemburgo, i supermercati della catena Delhaize hanno sospeso i propri sistemi di ordinazione a causa di un attacco informatico che sta compromettendo i rifornimenti nei punti vendita locali. La criticità è emersa attraverso un avviso affisso direttamente all'interno di una filiale della capitale, confermando le difficoltà operative nella catena di approvvigionamento. Lo riferisce Luxembourg Times.",
@@ -3047,7 +3047,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z9c75ce56",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Il governo federale tedesco istituisce la commissione per le strutture di cura",
    "orig": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
    "lead": "Il governo federale tedesco ha concordato l'istituzione della commissione per le strutture di cura, con l'obiettivo di elaborare soluzioni per una vasta riforma del settore assistenziale. Al centro del lavoro degli esperti vi sono la gestione dei costi a carico dei singoli assistiti, il bilanciamento sociale e la sostenibilità finanziaria a lungo termine. Lo riferisce Tagesschau.",
@@ -3063,54 +3063,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-14T14:55+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:53",
-   "uscita": "17"
-  },
-  {
-   "id": "z96125f63",
-   "sez": "economia",
-   "titolo": "Il governo tedesco intende tassare le bevande zuccherate da luglio 2027",
-   "orig": "Bundesregierung will zuckerhaltige Getränke ab Juli 2027 besteuern",
-   "lead": "Il governo federale tedesco ha annunciato l'intenzione di introdurre una tassa sulle bevande zuccherate a partire dal mese di luglio del 2027. La misura mira a intervenire sul consumo di prodotti ad alto contenuto di zucchero nell'ambito delle politiche sanitarie e fiscali del Paese. Lo riferisce Tagesschau.",
-   "more": [
-    "L'introduzione di imposte specifiche sulle bevande zuccherate rappresenta uno strumento utilizzato da diversi governi per disincentivare il consumo di zuccheri e promuovere abitudini alimentari più salutari tra i cittadini."
-   ],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/video/video-1666100.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-14T16:21+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:53",
-   "uscita": "17"
-  },
-  {
-   "id": "z970dad3d",
-   "sez": "salute",
-   "titolo": "Diagnosticato un tumore al polmone a Papa Leone XIV",
-   "orig": "Bei Papst Leo XIV. wurde Lungenkrebs festgestellt",
-   "lead": "Al Papa Leone XIV è stato diagnosticato un tumore al polmone. La notizia sulle condizioni di salute del Pontefice è stata resa nota attraverso i canali di informazione. Lo riferisce Tagesschau.",
-   "more": [
-    "Le diagnosi di patologie oncologiche polmonari richiedono accertamenti clinici approfonditi e percorsi di cura specifici gestiti da équipes mediche specializzate."
-   ],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/video/video-1666102.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-14T16:27+02:00"
     }
    ],
    "data": "14 ott",
@@ -3678,7 +3630,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "za10a1abd",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "L'Anvisa vieta la commercializzazione di integratori alimentari di origine sconosciuta",
    "orig": "Anvisa proíbe suplementos alimentares de origem desconhecida",
    "lead": "L'Agenzia Nazionale di Sorveglianza Sanitaria brasiliana ha disposto il sequestro di tutti i prodotti realizzati dall'azienda PSM Pennaforte Produtos Naturais, inclusi gli integratori alimentari. Un'ispezione locale condotta a Marataízes ha rivelato che l'indirizzo registrato dalla società corrisponde a un'abitazione privata, priva di qualsiasi struttura commerciale autorizzata. L'ente ha ricordato che tali articoli non possono essere fabbricati, importati né distribuiti. Lo riferisce Agência Brasil.",
@@ -3855,7 +3807,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z2eeb197a",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Allarme delle autorità sanitarie sulle malattie non trasmissibili nella popolazione congolese",
    "orig": "Les Maladies Non Transmissibles : Des tueurs silencieux",
    "lead": "Patologie come il diabete, l'ipertensione e l'obesità continuano a diffondersi in modo silenzioso nella popolazione, evolvendosi lentamente prima di manifestarsi con gravi complicazioni. Secondo i dati diffusi dall'Organizzazione Mondiale della Sanità, circa il trenta percento dei cittadini congolesi soffrirebbe di pressione alta, mentre una percentuale significativa della popolazione urbana di Kinshasa sarebbe affetta da diabete. Lo riferisce Radio Okapi.",
@@ -3951,7 +3903,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z02c3d8c1",
-   "sez": "mondo",
+   "sez": "organizzazioni",
    "titolo": "Nazioni Unite: promuovere il commercio globale a beneficio delle popolazioni vulnerabili",
    "orig": "Traduire l’ambition en action: faire en sorte que le commerce profite aux plus vulnérables( par Xiangchen Zhang) (par",
    "lead": "A metà del percorso previsto dal Programma d'azione di Doha delle Nazioni Unite, l'attenzione della comunità internazionale si concentra sugli obiettivi commerciali decennali fissati per sostenere il ruolo dei Paesi meno sviluppati nel commercio globale entro il duemilatrenta. Gli sforzi congiunti mirano a tradurre le ambizioni programmatiche in interventi concreti per la crescita economica delle aree più svantaggiate. Lo riferisce Le Soleil.",
@@ -4800,6 +4752,24 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Cabo Verde",
      "t": "2026-10-14T13:36+00:00"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leos-postoperative-recovery-positively-progressing.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-14T15:38+02:00"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/society/2202111",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-14T17:46+03:00"
     }
    ],
    "data": "14 ott",
@@ -4833,6 +4803,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Uganda",
      "t": "2026-10-14T16:59+03:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/ocean-indien-ils-auront-a-en-repondre-previent-navin-ramgoolam-apres-une-nuit-de-couvre-feu-a-maurice/",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-14T07:30+00:00"
     }
    ],
    "data": "14 ott",
@@ -4932,39 +4911,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Norway",
      "t": "2026-10-14T15:11+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
-   "id": "z82360e26",
-   "sez": "mondo",
-   "titolo": "Prosegue bene la ripresa post-operatoria di papa Leone",
-   "orig": "Pope Leo's postoperative recovery progressing well",
-   "lead": "L'Ufficio Stampa della Santa Sede ha comunicato che il papa è stato sottoposto agli esami del sangue e alla radiografia toracica programmati dopo l'intervento chirurgico, confermando che la sua guarigione post-operatoria sta procedendo normalmente. Lo riferisce Vatican News (inglese).",
-   "more": [
-    "Il bollettino medico ufficiale del Vaticano fornisce aggiornamenti quotidiani sulle condizioni di salute del pontefice dopo l'operazione al polmone."
-   ],
-   "fonti": [
-    {
-     "n": "Vatican News (inglese)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leos-postoperative-recovery-positively-progressing.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-10-14T15:38+02:00"
-    },
-    {
-     "n": "TASS",
-     "p": "XX",
-     "c": "Mosca",
-     "u": "https://tass.com/society/2202111",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-10-14T17:46+03:00"
     }
    ],
    "data": "14 ott",
@@ -5113,7 +5059,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z5d8dfd0e",
-   "sez": "ambiente",
+   "sez": "mondo",
    "titolo": "Le minacce dei ribelli ADF preoccupano i responsabili della Riserva della fauna a okapi in Ituri",
    "orig": "Les menaces des ADF inquiètent les responsables de la Réserve de faune à okapis en Ituri",
    "lead": "Il direttore della conservazione del progetto dedicato alla salvaguardia degli okapi ha lanciato un appello urgente per rafforzare la sicurezza intorno al quartier generale della riserva situata a Epulu, nella provincia dell'Ituri. La richiesta si è resa necessaria a causa delle ripetute incursioni dei ribelli appartenenti alle Forze democratiche alleate, le cui azioni ostili mettono gravemente a rischio l'incolumità del personale, le infrastrutture locali e gli esemplari di okapi tenuti in cattività. Lo riferisce Radio Okapi.",
@@ -5237,39 +5183,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Dem. Rep. Congo",
      "t": "2026-10-14T15:12+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
-   "id": "zccd4caae",
-   "sez": "mondo",
-   "titolo": "Guerra in Ucraina: trentanove missili e centoventi droni sferrati senza preavviso",
-   "orig": "Russlands Krieg gegen die Ukraine: 39 Raketen, 120 Drohnen – und keine Vorwarnung",
-   "lead": "Le forze russe hanno lanciato un imponente attacco aereo contro il territorio ucraino impiegando decine di missili e droni, colpendo il Paese senza alcuna preallerta preventiva. Secondo quanto trapelato, l'Ucraina continua a non ricevere informazioni tempestive dagli Stati Uniti sugli attacchi missilistici, mentre la connessione a internet garantita dalla rete satellitare Starlink di Elon Musk risulta notevolmente limitata lungo la linea del fronte, alimentando forti sospetti a Kiev su una possibile riduzione o boicottaggio della difesa. Lo riferisce Süddeutsche Zeitung.",
-   "more": [
-    "Il conflitto in Ucraina vede l'uso intensivo di tecnologie avanzate, dai sistemi di comunicazione satellitare ai missili balistici e agli sciami di droni, che rendono la protezione antiaerea e la condivisione di intelligence elementi vitali per la sopravvivenza del Paese."
-   ],
-   "fonti": [
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-kiew-raketenangriffe-drohnen-trump-sabotage-li.3563447",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-14T12:52+00:00"
-    },
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/fotografie/in-der-ukraine-herrscht-krieg-ld.1671702",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-14T14:35+00:00"
     }
    ],
    "data": "14 ott",
@@ -5732,39 +5645,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Ghana",
      "t": "2026-10-14T15:04+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
-   "id": "zd3a223f8",
-   "sez": "mondo",
-   "titolo": "Arrestato l'ex procuratore coordinatore di La Paz per presunti legami con il caso Mariaca",
-   "orig": "Aprehenden a exfiscal coordinador de La Paz por posibles nexos con Mariaca",
-   "lead": "L'ex procuratore coordinatore di La Paz, Armando Rojas, è stato tratto in arresto dopo aver trascorso la notte nelle strutture della polizia antidroga. L'ex funzionario giudiziario risulta formalmente indagato nell'ambito delle infiltrazioni e dei presunti legami legati allo scandalo che coinvolge l'ex procuratore generale Roger Mariaca, con accuse che comprendono l'associazione a delinquere e il favoreggiamento del traffico illecito di stupefacenti. Lo riferisce Brújula Digital.",
-   "more": [
-    "Le inchieste giudiziarie sulla corruzione all'interno degli apparati giudiziari in Bolivia coinvolgono regolarmente alti magistrati e funzionari accusati di collusione con reti criminali e narcotraffico."
-   ],
-   "fonti": [
-    {
-     "n": "Brújula Digital",
-     "p": "XX",
-     "c": "La Paz",
-     "u": "https://brujuladigital.net/politica/aprehenden-a-exfiscal-coordinador-de-la-paz-por-posibles-nexos-con-mariaca",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-14T07:34-04:00"
-    },
-    {
-     "n": "Opinión (Bolivia)",
-     "p": "XX",
-     "c": "La Paz",
-     "u": "https://www.opinion.com.bo/pais/aprehenden-exfiscal-coordinador-paz-involucrado-caso-mariaca/20261014105950997595.html",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-14T10:59-04:00"
     }
    ],
    "data": "14 ott",
@@ -6951,54 +6831,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z13f1b3d6",
-   "sez": "mondo",
-   "titolo": "Sciopero di massa nella Repubblica d'Irlanda per i salari pubblici",
-   "orig": "Hundreds of thousands of workers on strike across Republic of Ireland",
-   "lead": "Centinaia di migliaia di lavoratori sono scesi in sciopero in tutta la Repubblica d'Irlanda, nel mezzo di una disputa salariale in corso tra i dipendenti del settore pubblico e il governo irlandese. Lo riferisce BBC News.",
-   "more": [
-    "Gli scioperi nel settore pubblico riguardano categorie come insegnanti, infermieri e impiegati statali, il cui trattamento economico è negoziato periodicamente con il governo attraverso accordi salariali collettivi."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-14T14:18+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zfb2d1749",
-   "sez": "mondo",
-   "titolo": "Le restrizioni a Starlink in Ucraina legate alla politica, dice un consigliere di Zelensky",
-   "orig": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-   "lead": "Le restrizioni imposte all'uso dei terminali Starlink in Ucraina sarebbero legate alla situazione politica, secondo un consigliere del presidente Zelensky. Il sistema satellitare di Elon Musk permette a Kiev di proteggere i propri cieli e di guidare i drone verso obiettivi russi. Lo riferisce BBC News.",
-   "more": [
-    "Starlink è il servizio di internet satellitare gestito da SpaceX, l'azienda di Elon Musk, ampiamente usato dall'esercito ucraino per le comunicazioni e le operazioni militari dall'inizio dell'invasione russa."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-14T13:11+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "zfa8a5844",
    "sez": "mondo",
    "titolo": "L'Ue: nessuna indicazione che la condivisione di intelligence con l'Ucraina sia cessata",
@@ -7148,93 +6980,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Uruguay",
      "t": "2026-10-14T08:15-03:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z250eaf52",
-   "sez": "prima",
-   "titolo": "Trump annuncia un piano per l'esplorazione di petrolio, gas e minerali in Groenlandia",
-   "orig": "Trump announces plans for major oil, gas and mineral exploration in Greenland",
-   "lead": "Il presidente statunitense Donald Trump ha annunciato l'avvio di un'esplorazione massiccia di petrolio, gas e minerali in Groenlandia, sostenendo senza fornire prove che l'isola artica custodisca vaste riserve petrolifere facilmente accessibili. L'annuncio segue un accordo che amplia la presenza militare americana sul territorio, che è una dipendenza autonoma della Danimarca e non fa parte degli Stati Uniti. Non è ancora chiaro a quali progetti concreti di esplorazione o sviluppo si riferisse Trump.",
-   "more": [
-    "La Groenlandia è la più grande isola del mondo, territorio autonomo del Regno di Danimarca; da tempo Trump ha espresso interesse geopolitico ed economico verso l'isola, ricca di risorse ma difficile da sfruttare per il clima estremo e la scarsa infrastruttura."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-14T10:00+00:00"
-    },
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-14T11:05+00:00"
-    },
-    {
-     "n": "Sky News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://news.sky.com/story/trump-announces-that-massive-oil-gas-and-mineral-exploration-will-begin-in-greenland-13599119",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-14T07:33+01:00"
-    },
-    {
-     "n": "CBC News",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.cbc.ca/news/canada/north/trump-says-oil-gas-and-mineral-exploration-in-greenland-is-set-to-begin-it-s-not-that-simple-9.7380023?cmp=rss",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-14T10:53-04:00"
-    },
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/article-trump-greenland-oil-gas-mineral-exploration/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-14T11:01+00:00"
-    },
-    {
-     "n": "South China Morning Post",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/news/world/united-states-canada/article/3370906/trump-says-massive-oil-gas-and-mineral-exploration-begin-greenland?utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-14T13:08+00:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/14/news/trump_annuncia_esplorazioni_estrattive_groenlandia-425646987/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T09:13+00:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/14/news/trump_annuncia_esplorazioni_estrattive_groenlandia-425646987/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T16:27+02:00"
     }
    ],
    "data": "14 ott",
@@ -9278,7 +9023,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "zbc97398e",
-   "sez": "viaggi",
+   "sez": "tech",
    "titolo": "Booking Holdings finanzierà con 100 milioni di dollari la nuova startup di IA Vayo",
    "orig": "Booking Holdings Plans to Fund New AI Startup Vayo With $100 Million",
    "lead": "Booking Holdings prevede di finanziare con 100 milioni di dollari una nuova startup di intelligenza artificiale chiamata Vayo, pensata per andare oltre la semplice organizzazione di viaggi: un sistema che apprende le abitudini di viaggio dell'utente, segue l'intero percorso e inizia ad agire prima ancora che venga richiesto. Lo riferisce Skift.",
@@ -14366,30 +14111,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-14T10:00+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:47",
-   "uscita": "13"
-  },
-  {
-   "id": "ze04fdefe",
-   "sez": "mondo",
-   "titolo": "Trump: «La nostra nuova e bellissima Groenlandia»",
-   "orig": "Trumps nya utspel: ”Vårt nya och vackra Grönland”",
-   "lead": "Il presidente statunitense Donald Trump ha dichiarato che presto inizieranno le trivellazioni per petrolio, gas e minerali in quella che ha chiamato «la nostra nuova e bellissima Groenlandia». Secondo l'esperto di politica americana Jan Hallenberg, questa affermazione contraddice lo spirito dell'accordo firmato appena un mese fa tra Stati Uniti, Danimarca e Groenlandia, di cui rappresenterebbe un fondamento proprio dal punto di vista danese e groenlandese. Lo riferisce Dagens Nyheter.",
-   "more": [
-    "La Groenlandia è un territorio autonomo danese ricco di risorse minerarie, oggetto negli ultimi anni di crescente interesse strategico statunitense; Trump ha più volte espresso l'ambizione che gli USA ne acquisiscano il controllo o un'influenza maggiore."
-   ],
-   "fonti": [
-    {
-     "n": "Dagens Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.dn.se/varlden/trumps-nya-utspel-om-gronland-bryter-mot-avtalets-anda/",
-     "angolo": "",
-     "atlas": "Sweden",
-     "t": "2026-10-14T12:13+02:00"
     }
    ],
    "data": "14 ott",
@@ -20090,6 +19811,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-14T12:32+02:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1666100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-14T16:21+02:00"
     }
    ],
    "data": "14 ott",
@@ -21427,30 +21157,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Mozambique",
      "t": "2026-10-14T11:06+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:30",
-   "uscita": "13"
-  },
-  {
-   "id": "z828f9f86",
-   "sez": "mondo",
-   "titolo": "Mauritius, coprifuoco dopo le proteste: Ramgoolam avverte gli istigatori",
-   "orig": "OCÉAN INDIEN – “Ils auront à en répondre”, prévient Navin Ramgoolam après une nuit de couvre-feu à Maurice",
-   "lead": "Il primo ministro mauriziano Navin Ramgoolam ha avvertito che gli istigatori delle proteste e chi agisce contro l'interesse del Paese 'dovranno risponderne', in un'allocuzione televisiva di martedì in cui ha giustificato il coprifuoco imposto da martedì sera a mercoledì mattina, dopo manifestazioni nel Paese. Lo riferisce 2424.mg.",
-   "more": [
-    "Le Mauritius sono un arcipelago dell'Oceano Indiano con un sistema politico democratico; Navin Ramgoolam ha già ricoperto in passato la carica di primo ministro del Paese, tornando recentemente al potere."
-   ],
-   "fonti": [
-    {
-     "n": "2424.mg",
-     "p": "XX",
-     "c": "Antananarivo",
-     "u": "https://www.2424.mg/ocean-indien-ils-auront-a-en-repondre-previent-navin-ramgoolam-apres-une-nuit-de-couvre-feu-a-maurice/",
-     "angolo": "",
-     "atlas": "Madagascar",
-     "t": "2026-10-14T07:30+00:00"
     }
    ],
    "data": "14 ott",
@@ -25908,7 +25614,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z43c21b53": "The Architects' Journal racconta il tentativo di preservare l'integrità architettonica dell'opera.",
   "ze84fa46e": "The Namibian descrive la situazione come un'emergenza ancora non del tutto compresa dagli esperti.",
   "za50b7682": "Club of Mozambique celebra il riconoscimento internazionale ottenuto da una figura pubblica del Paese.",
-  "z828f9f86": "2424.mg riporta il tono fermo del premier verso i responsabili delle tensioni.",
   "zf582ad9a": "Rappler spiega la portata pratica della decisione per i consumatori anziani.",
   "z0c184b95": "Citizen Digital inquadra la nomina nel contesto della storia degli allenatori francesi in Premier League.",
   "zb91f49d4": "The Architects' Journal dà voce al sondaggio tra i propri lettori sul premio.",
@@ -26265,7 +25970,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z8eb539bf": "Der Standard descrive i cambiamenti nei collegamenti ferroviari austriaci per i prossimi anni.",
   "z214f71ef": "Der Standard mette in luce i meccanismi sistemici di persecuzione digitale contro le donne.",
   "zaae52a38": "Der Standard propone una riflessione dello psicoterapeuta sul valore funzionale delle emozioni negative.",
-  "ze04fdefe": "Dagens Nyheter riporta le dichiarazioni di Trump insieme al giudizio critico di un esperto sulla coerenza con l'accordo firmato.",
   "z33687bb0": "Dagens Nyheter dà voce all'analisi accademica sui rischi della disinformazione digitale per la democrazia.",
   "z6be36bb2": "Dagens Nyheter racconta la risposta civile ucraina agli attacchi russi attraverso la voce dei vertici di Ukrnafta.",
   "z6e20cf50": "Dagens Nyheter racconta dal vivo la competizione industriale tra costruttori europei e cinesi.",
@@ -26363,14 +26067,11 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z45100917": "Defimedia presenta il dato come segnale positivo per l'economia turistica nazionale.",
   "zac5e7f1e": "Defimedia riporta il dato come indicatore della produzione agricola locale.",
   "z1775cff4": "Defimedia segnala la regolarità dello svolgimento delle prove come notizia positiva.",
-  "z13f1b3d6": "BBC News sottolinea la portata della mobilitazione nel settore pubblico irlandese.",
-  "zfb2d1749": "BBC News riporta la versione di un consigliere ucraino sulle cause politiche delle restrizioni.",
   "zfa8a5844": "Il liveblog del Guardian raccoglie le reazioni europee e della Nato agli attacchi russi e al caso Starlink.",
   "z33faf1b8": "The Guardian mette in evidenza la smentita del governo locale rispetto a un progetto sostenuto da un ministro Usa controverso.",
   "z20fca244": "Al Jazeera propone un'analisi dei possibili esiti del conflitto yemenita.",
   "zee568391": "ANSA segnala il cambio di posizione del candidato sul confronto televisivo in vista del ballottaggio.",
   "zde17c43c": "Rai News fornisce un aggiornamento positivo sulle condizioni di salute del Papa dopo l'intervento.",
-  "z250eaf52": "Le testate concordano nel sottolineare l'assenza di dettagli concreti dietro l'annuncio di Trump, nonostante la retorica enfatica.",
   "z00bd1076": "NOS documenta empiricamente la minore visibilità dei contenuti di Lula su Instagram rispetto a quelli di Bolsonaro.",
   "z764b6fc9": "Le testate concordano su un remake fedele ma visivamente e sonoramente rinnovato, sottolineando il cambiamento nei controlli di gioco.",
   "z9dbcfd42": "Gabonreview presenta il concorso come vetrina per i giovani talenti musicali locali.",
@@ -26480,7 +26181,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z7aaea5f3": "L'emittente tedesca analizza il caso carcerario come sintomo di una disuguaglianza sistemica più ampia nel Sud-est asiatico.",
   "z5ca18f77": "La testata internazionale riporta la sanzione disciplinare inflitta al tecnico spagnolo dalla federazione calcistica inglese.",
   "zcce2c3e8": "La testata irlandese e i media nordici evidenziano le ripercussioni editoriali e politiche della presa di posizione dell'autrice nel Regno Unito.",
-  "z82360e26": "La testata ufficiale vaticana diffonde i dati clinici rassicuranti sulla salute del Santo Padre.",
   "zf8a7d76f": "La testata di Singapore sottolinea l'impatto sanitario ed economico dell'emergenza ambientale sulla cittadinanza.",
   "zdfe152fd": "La testata nigeriana mette in evidenza la campagna elettorale e le argomentazioni della candidata presidenziale sulla parità di genere nella guida del paese.",
   "z99493e97": "Turkish Minute sottolinea la presa di posizione critica di un alleato tradizionale del governo su temi chiave come la corruzione.",
@@ -26489,7 +26189,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "za7686bd6": "N1 Bosnia evidenzia l'avvio della collaborazione formativa per avvicinare gli studenti universitari alle questioni pratiche dei diritti umani.",
   "z8f46d8a3": "Radio Ndeke Luka pone l'accento sulla vulnerabilità cronica del Paese di fronte ai disastri climatici e sull'efficacia parziale degli interventi di soccorso.",
   "zf7af0e55": "Gabonreview sottolinea la visita ministeriale e l'introduzione di nuove misure tecnologiche per la sicurezza dei confini aerei.",
-  "zccd4caae": "Süddeutsche Zeitung evidenzia la gravità dei bombardamenti improvvisi e i dubbi sul supporto tecnologico ed estero alla difesa ucraina.",
   "zb2605603": "La Tercera si concentra sulle mosse processuali della difesa per evitare il carcere all'ex dirigente della società finanziaria.",
   "z38dfdca9": "El Tiempo approfondisce i dettagli istituzionali e organizzativi diffusi dal Vaticano sulla gestione della Santa Sede durante la convalescenza del papa.",
   "zc0534426": "El Observador si concentra sulle decisioni del club per innalzare la sicurezza e modernizzare i controlli dopo i recenti scontri.",
@@ -26503,7 +26202,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zf3fd7555": "Financial Times evidenzia la ferma presa di posizione del primo ministro britannico e la conseguente rottura con i Verdi sulle questioni mediorientali.",
   "zfc3be7cd": "Dawn sottolinea l'iter parlamentare della misura d'emergenza federale tra le proteste delle opposizioni e la fermezza del governo.",
   "z7614fd65": "3News evidenzia l'invito del ministro ghanese a una maggiore trasparenza e responsabilità nella gestione del denaro pubblico.",
-  "zd3a223f8": "Brújula Digital riporta i dettagli dell'arresto dell'alto funzionario giudiziario e le pesanti accuse mosse dagli inquirenti.",
   "z6a7e867f": "Le Monde evidenzia l'inefficacia iniziale e le difficoltà di attuazione della strategia governativa di fronte alle proteste giovanili.",
   "z7f1005ad": "Le Monde si concentra sulle conseguenze politiche e giudiziarie della perquisizione a carico di una nota esponente democratica.",
   "z2bb94fb8": "La Süddeutsche Zeitung si focalizza sull'incidente tecnico della mina e il naufragio, mentre la FAZ amplia l'analisi al contesto bellico dello Yemen e alle reazioni politiche internazionali.",
@@ -26552,8 +26250,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z4ff946e8": "Il quotidiano sudafricano evidenzia il contenzioso legale insorto tra i vertici aziendali e il dirigente sospeso nell'ambito delle procedure di selezione.",
   "z33569e30": "France 24 approfondisce le cause del blocco istituzionale attraverso l'analisi di un esperto accademico.",
   "z9c75ce56": "Tagesschau evidenzia la nascita dell'organismo di esperti dedicato alla riforma della sanità e dell'assistenza.",
-  "z96125f63": "Tagesschau riporta i dettagli della misura fiscale pianificata dall'esecutivo tedesco.",
-  "z970dad3d": "Tagesschau dà risalto alla notizia medica riguardante il capo della Chiesa.",
   "zf7d86e7a": "RTP riporta le previsioni economiche dell'associazione professionale sulle novità normative.",
   "z5884c3f3": "RTP sottolinea il nuovo incremento dei prezzi dei beni alimentari di base.",
   "z4e2fa754": "RTP presenta l'installazione artistica che unisce due icone della musica internazionale.",
@@ -26802,7 +26498,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z7b79a7a3": "La vicenda delle mascherine ha coinvolto da tempo l'ex ministro dei Trasporti José Luis Ábalos e il suo ex collaboratore Koldo García, condannati in primo grado a pene pesanti per la gestione irregolare degli appalti legati alla pandemia.",
   "z2a3caea0": "Negli ultimi giorni Ceuta ha vissuto un nuovo episodio di tensione migratoria legato all'ingresso di imbarcazioni marocchine, che ha riacceso lo scontro politico tra governo e opposizione sulla gestione delle frontiere.",
   "z3806fdb9": "Negli ultimi mesi diverse giudici spagnole sono state oggetto di campagne di discredito che l'opposizione attribuisce ad ambienti legati al governo socialista, alimentando lo scontro sull'indipendenza della magistratura.",
-  "ze04fdefe": "Circa un mese fa Stati Uniti, Danimarca e Groenlandia hanno firmato un accordo che regola, tra l'altro, le modalità di accesso alle risorse naturali dell'isola, cercando di bilanciare gli interessi americani con la sovranità groenlandese e danese.",
   "z33687bb0": "Dopo le elezioni svedesi del 2026 sono circolate online numerose denunce di presunte irregolarità di voto, alimentando un acceso dibattito pubblico sulla sicurezza e la credibilità del sistema elettorale.",
   "z6be36bb2": "Dall'inizio della guerra la Russia ha condotto numerosi attacchi contro le infrastrutture civili ucraine, comprese reti elettriche e stazioni di servizio, con l'obiettivo dichiarato dalle autorità ucraine di colpire la popolazione civile.",
   "zb7383fa7": "Le relazioni tra Baghdad e Riad si sono intensificate negli ultimi mesi, con scambi diplomatici ed economici crescenti dopo anni di distensione post-2017. L'escalation militare in Medio Oriente, con attacchi Houthi contro l'Arabia Saudita e tensioni Israele-Iran, ha reso urgente un coordinamento regionale. L'Iraq, storicamente mediatore tra fazioni rivali, cerca di consolidare il proprio ruolo diplomatico in questo contesto instabile.",
@@ -26823,11 +26518,9 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z5de415bb": "Reinaldo Picado, noto oppositore del regime di Daniel Ortega rifugiato in Costa Rica, aveva già subito un primo attentato circa tre mesi fa senza conseguenze fisiche gravi. Negli ultimi anni la diaspora nicaraguense in Costa Rica ha denunciato minacce, pedinamenti e intimidazioni attribuite a presunti agenti legati al governo sandinista, alimentando il timore di una campagna di repressione transfrontaliera contro i dissidenti.",
   "z575d8af3": "Le informazioni disponibili risultano estremamente limitate e prive di dettagli verificabili sull'incidente flydubai richiamato come causa della decisione. Non sono specificate la data, la dinamica né le vittime dell'episodio, né i criteri con cui Air France avrebbe definito la nuova politica sugli equipaggi. La notizia, riportata da una singola fonte indiana, necessita di ulteriori conferme prima di poter essere ricostruita con precisione cronologica.",
   "z16ba877b": "Il Pakistan vive da mesi una fase di tensione tra l'establishment militare, guidato dal generale Asim Munir, e il governo civile. Munir ha consolidato potere dopo la destituzione di Imran Khan nel 2022 e le contestate elezioni del 2024, alimentando sospetti su un ruolo crescente dei militari nella gestione dello Stato, in una dinamica storicamente ricorrente nel Paese.",
-  "zfb2d1749": "I terminali Starlink, forniti da SpaceX, sono diventati essenziali per le comunicazioni militari ucraine, la difesa aerea e la guida dei drone contro obiettivi russi. Negli ultimi mesi sono emerse tensioni tra Kiev e Elon Musk su limitazioni e condizioni d'uso del servizio, alimentando sospetti su possibili pressioni politiche legate ai rapporti tra Musk e l'amministrazione Trump riguardo al conflitto.",
   "zfa8a5844": "Negli ultimi giorni gli attacchi russi hanno causato blackout diffusi in Ucraina mentre crescevano i dubbi sulla continuità del supporto satellitare e di intelligence occidentale a Kiev.",
   "zee568391": "In vista del ballottaggio presidenziale brasiliano tra Lula da Silva e Flávio Bolsonaro, previsto il 25 ottobre, il calendario dei dibattiti televisivi è stato oggetto di incertezze. Bolsonaro aveva inizialmente manifestato riluttanza a confrontarsi pubblicamente con Lula, alimentando dubbi sulla sua partecipazione agli appuntamenti mediatici decisivi della campagna.",
   "zde17c43c": "Papa Leone XIV è stato sottoposto a un intervento chirurgico per la rimozione di un tumore al polmone, operazione che ha destato apprensione nella comunità cattolica mondiale. Dopo il ricovero, il Vaticano ha fornito aggiornamenti costanti sulle condizioni del pontefice, rassicurando sui progressi post-operatori e sul percorso di riabilitazione respiratoria avviato nei giorni successivi all'intervento.",
-  "z250eaf52": "Negli ultimi mesi l'amministrazione Trump ha intensificato l'interesse strategico ed economico verso la Groenlandia, territorio autonomo danese ricco di risorse minerarie. Dopo ripetute dichiarazioni sulla possibile acquisizione dell'isola e tensioni diplomatiche con Copenaghen, Washington ha negoziato un accordo per ampliare la presenza militare statunitense, preparando il terreno per nuove iniziative economiche sul territorio artico.",
   "z00bd1076": "In vista del ballottaggio presidenziale del 25 ottobre tra Lula da Silva e Flávio Bolsonaro, la campagna digitale è diventata terreno di scontro acceso. Negli ultimi giorni il team di Lula ha denunciato una visibilità ridotta dei propri contenuti su Instagram, mentre quelli di Bolsonaro risultano predominanti, alimentando accuse di squilibri algoritmici o editoriali sulla piattaforma social durante la fase finale della corsa elettorale.",
   "zdf07d24a": "Il 9 ottobre Trump aveva annunciato l'accordo, promettendo una fornitura immediata di oltre 300.000 tonnellate di diesel russo a beneficio di cittadini e imprese statunitensi, presentandolo come una misura per calmierare i prezzi interni dei carburanti.",
   "z99a29c13": "Nei giorni precedenti l'avvio dell'anno scolastico, il 12 ottobre, erano già emerse preoccupazioni sulle condizioni di alcuni edifici scolastici e sul tema della digitalizzazione dei programmi rispetto all'uso dei telefoni cellulari tra gli studenti.",
@@ -26847,7 +26540,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z05873f73": "Nei giorni scorsi le proteste locali per la mancanza di acqua potabile erano degenerate in scontri di piazza, portando a interventi repressivi delle forze dell'ordine.",
   "z5ca18f77": "Nel mese di settembre, al termine dell'incontro di campionato, il tecnico aveva espresso aspre critiche nei confronti della direzione arbitrale.",
   "zcce2c3e8": "Nei mesi scorsi Sally Rooney aveva espresso pubblicamente il proprio sostegno al gruppo attivista attraverso articoli e prese di posizione politiche.",
-  "z82360e26": "Nei giorni scorsi il papa è stato operato con successo al Policlinico Gemelli di Roma per la rimozione di un tumore polmonare.",
   "zf8a7d76f": "Nei giorni scorsi i roghi nella regione hanno provocato un progressivo deterioramento della qualità dell'aria, spingendo le autorità a pianificare risposte legali e sanitarie.",
   "z99493e97": "Negli ultimi anni, l'amministrazione guidata dal presidente Recep Tayyip Erdogan ha dovuto affrontare crescenti pressioni economiche e politiche, accompagnate da ripetute denunce pubbliche e inchieste giornalistiche riguardo a presunti casi di corruzione e favoritismi che hanno coinvolto diversi settori dello Stato e della vita pubblica turca.",
   "z5d018c1c": "La tennista bielorussa arrivava all'appuntamento cinese dopo una serie di impegni internazionali intensi, tra cui la recente partecipazione al torneo di Pechino, dove era stata eliminata nei turni precedenti.",
@@ -26855,7 +26547,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "za7686bd6": "Negli ultimi mesi le istituzioni accademiche di Sarajevo e i rappresentanti internazionali hanno lavorato alla definizione di programmi di studio e tirocini pratici volti a collegare la formazione universitaria con le reali esigenze della società civile.",
   "z8f46d8a3": "Nel corso delle ultime stagioni delle piogge, le autorità locali e le agenzie umanitarie hanno registrato un aumento costante dei danni provocati dalle esondazioni dei fiumi, rendendo necessari interventi straordinari di soccorso e assistenza alla popolazione.",
   "zf7af0e55": "Il governo gabonese ha avviato un processo di modernizzazione delle procedure di sicurezza aeroportuale per adeguarli agli standard internazionali di controllo dei flussi migratori e di prevenzione della criminalità transnazionale.",
-  "zccd4caae": "Nelle ultime settimane si sono registrati molteplici attacchi aerei notturni di grande portata contro le infrastrutture critiche ucraine, accompagnati da crescenti discussioni diplomatiche e strategiche sul livello di supporto militare fornito dai partner occidentali.",
   "zb2605603": "L'indagine giudiziaria legata al cosiddetto caso Factop ha coinvolto diversi operatori finanziari ed esecutivi di società di borsa in Cile, generando un ampio dibattito pubblico sulla trasparenza dei mercati e sulla gestione delle garanzie bancarie.",
   "z38dfdca9": "Subito dopo l'annuncio del ricovero e dell'operazione chirurgica subita da Papa Leone XIV all'ospedale Gemelli di Roma, osservatori e fedeli si sono interrogati sulle modalità di governo della Chiesa cattolica durante la degenza.",
   "zc0534426": "In seguito agli scontri e alle criticità registrate in occasione della recente partita classica tra le squadre rivali, la dirigenza del Peñarol ha aperto una revisione interna delle politiche di sicurezza e gestione dell'impianto sportivo.",
@@ -26869,7 +26560,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zf3fd7555": "Nel corso del dibattito politico britannico delle ultime settimane, le posizioni dei vari partiti in merito ai rapporti con Israele e alla rappresentazione del movimento sionista avevano già generato forti polemiche tra le diverse forze parlamentari.",
   "zfc3be7cd": "La decisione del governo federale era arrivata nei giorni precedenti, innescando aspre polemiche istituzionali e proteste delle opposizioni collegate al partito dell'ex premier Imran Khan.",
   "z7614fd65": "Nel corso degli ultimi mesi il governo ghanese ha promosso una serie di direttive volte a migliorare la disciplina di bilancio e a responsabilizzare i funzionari pubblici sulla gestione delle risorse assegnate ai vari enti territoriali.",
-  "zd3a223f8": "Nei giorni scorsi le autorità giudiziarie e investigative boliviane avevano intensificato le verifiche e le misure restrittive nei confronti di vari soggetti coinvolti nella rete di coperture scoperta attorno al caso Mariaca.",
   "z6a7e867f": "All'inizio del mese di ottobre si erano registrate le prime manifestazioni di piazza dei liceali, accompagnate da tensioni e scontri che avevano spinto l'esecutivo a elaborare una strategia d'intervento urgente.",
   "z7f1005ad": "Nelle settimane precedenti alle consultazioni di metà mandato, l'amministrazione e i settori politici conservatori avevano sollevato ripetute polemiche sulle posizioni e sulla cittadinanza di alcuni parlamentari democratici.",
   "z2bb94fb8": "Da mesi la sicurezza navale nel Medio Oriente è minacciata da attacchi contro mercantili e navi commerciali, spesso attribuiti alle tensioni regionali tra milizie locali e coalizioni internazionali. Gli incidenti hanno spinto molte compagnie di navigazione a modificare le rotte, aumentando i costi logistici e portando a un incremento della sorveglianza militare internazionale nelle acque strategiche del Mar Rosso e del Golfo Persico.",
@@ -26888,7 +26578,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z86515c3c": "Nel corso delle ultime settimane, il sistema scolastico francese è stato teatro di crescenti tensioni legate al deterioramento delle strutture edilizie e alla cronica mancanza di personale docente. L'insoddisfazione accumulata da studenti e insegnanti ha trovato espressione in assemblee e assemblee permanenti, culminate in forme di mobilitazione e blocchi stradali in diverse località del Paese.",
   "zccd2a892": "Nelle ultime settimane, il dibattito sulle future normative industriali dell'Unione Europea ha acceso il confronto tra le associazioni di categoria e le istituzioni comunitarie. I vertici del settore manifatturiero e automobilistico hanno avviato un'intensa opera di pressione diplomatica per scongiurare restrizioni commerciali che possano frammentare la catena di fornitura tra il continente e il Regno Unito.",
   "z543d12d9": "Nel corso dell'ultimo anno, la piattaforma di streaming Netflix ha affrontato un progressivo rallentamento della crescita degli abbonati e una forte volatilità finanziaria sui mercati azionari, con una fluttuazione negativa del valore dei titoli superiore al quaranta percento. Per far fronte a queste difficoltà economiche, i vertici aziendali hanno valutato diverse opzioni di ristrutturazione interna e contenimento dei costi.",
-  "z970dad3d": "Nei mesi scorsi, il Pontefice Papa Leone XIV è stato sottoposto a regolari controlli medici di routine a causa di alcune difficoltà respiratorie ricorrenti. Le condizioni di salute del Santo Padre sono state costantemente monitorate dallo staff medico del Vaticano, fino agli ultimi accertamenti clinici approfonditi che hanno evidenziato la presenza della patologia polmonare, resa nota oggi attraverso i canali ufficiali d'informazione.",
   "zdf63ade9": "Negli ultimi mesi, le organizzazioni sindacali e i rappresentanti del personale penitenziario belga avevano ripetutamente lanciato l'allarme sulle condizioni critiche delle carceri nelle Fiandre. Le proteste per i carichi di lavoro eccessivi e per il costante incremento della popolazione detenuta avevano spinto i media locali a intensificare le inchieste giornalistiche all'interno delle strutture di detenzione.",
   "zd6489ed2": "Mark Mabasa era stato trattenuto dall'agenzia statunitense Immigration and Customs Enforcement dal 21 settembre, con un'udienza inizialmente fissata per i primi di ottobre.",
   "z05a2d1e4": "L'ex capo dello Shin Bet aveva depositato documentazione dettagliata in tribunale attestando una serie di avvertimenti formali trasmessi agli uffici governativi prima dell'inizio delle ostilità.",
@@ -27926,16 +27615,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "I consiglieri progressisti del CGPJ non firmano il comunicato di sostegno a Biedma"
    ]
   ],
-  "ze04fdefe": [
-   [
-    "circa un mese fa",
-    "Firmato l'accordo tra USA, Danimarca e Groenlandia sulle risorse"
-   ],
-   [
-    "14 ottobre",
-    "Trump annuncia nuove trivellazioni in Groenlandia, suscitando dubbi sul rispetto dell'accordo"
-   ]
-  ],
   "z33687bb0": [
    [
     "2026",
@@ -28238,20 +27917,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Visite istituzionali agli edifici scolastici danneggiati a Kaolack"
    ]
   ],
-  "zfb2d1749": [
-   [
-    "2022",
-    "SpaceX attiva Starlink in Ucraina dopo l'invasione russa"
-   ],
-   [
-    "2023",
-    "Musk nega supporto Starlink per operazioni ucraine in Crimea"
-   ],
-   [
-    "ottobre 2026",
-    "Un consigliere di Zelensky denuncia restrizioni legate alla politica"
-   ]
-  ],
   "zee568391": [
    [
     "ottobre 2026",
@@ -28278,24 +27943,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "14 ottobre",
     "Il Papa si alza dal letto, mangia e fa fisioterapia"
-   ]
-  ],
-  "z250eaf52": [
-   [
-    "inizio 2025",
-    "Trump rilancia l'idea di acquisire la Groenlandia"
-   ],
-   [
-    "mesi scorsi",
-    "Tensioni diplomatiche con la Danimarca sulla sovranità dell'isola"
-   ],
-   [
-    "recente",
-    "Accordo per ampliare la presenza militare Usa in Groenlandia"
-   ],
-   [
-    "14 ottobre",
-    "Trump annuncia piano di esplorazione di petrolio, gas e minerali"
    ]
   ],
   "z00bd1076": [
@@ -28498,16 +28145,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Prese di posizione della scrittrice e decisione della casa editrice Faber di bloccare la vendita dei libri"
    ]
   ],
-  "z82360e26": [
-   [
-    "13 ottobre 2026",
-    "Intervento chirurgico al polmone per il pontefice"
-   ],
-   [
-    "14 ottobre 2026",
-    "Esecuzione degli esami di controllo e conferma del regolare decorso post-operatorio"
-   ]
-  ],
   "zf8a7d76f": [
    [
     "Inizio settimana",
@@ -28576,16 +28213,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "giorni scorsi",
     "Implementazione operativa del sistema di controllo preventivo dei passeggeri"
-   ]
-  ],
-  "zccd4caae": [
-   [
-    "giorni scorsi",
-    "Intenso lancio di droni e missili sulle città ucraine senza preavviso"
-   ],
-   [
-    "recente passato",
-    "Rilevamento di limitazioni tecniche nell'uso di Starlink al fronte"
    ]
   ],
   "zb2605603": [
@@ -28720,16 +28347,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "questa settimana",
     "Appello pubblico del ministro delle Finanze ai funzionari locali"
-   ]
-  ],
-  "zd3a223f8": [
-   [
-    "martedì",
-    "Arresto dell'ex procuratore coordinatore Armando Rojas"
-   ],
-   [
-    "giorni scorsi",
-    "Sviluppi dell'inchiesta giudiziaria sul caso Mariaca e sulle ramificazioni della corruzione"
    ]
   ],
   "z6a7e867f": [
@@ -28886,20 +28503,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "Attuale",
     "I protagonisti depositano un ricorso legale contro l'emittente televisiva"
-   ]
-  ],
-  "z970dad3d": [
-   [
-    "Settimane scorse",
-    "Segnalazione di lievi problemi respiratori nei controlli di routine"
-   ],
-   [
-    "Giorni scorsi",
-    "Sottoposizione a esami clinici e diagnostici approfonditi in ambiente ospedaliero"
-   ],
-   [
-    "Oggi",
-    "Diffusione della notizia della diagnosi di tumore al polmone tramite i canali di informazione"
    ]
   ],
   "zdf63ade9": [
@@ -29470,67 +29073,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   ]
  },
  "confronti": {
-  "z250eaf52": {
-   "voci": [
-    {
-     "n": "Deutsche Welle",
-     "c": "Bonn",
-     "p": "DE",
-     "t": "Riporta l'annuncio di Trump su Truth Social di 'massiccia' esplorazione di petrolio, gas e minerali in Groenlandia, senza dettagli su aziende o tempistiche. Cita l'accordo di sicurezza USA-Danimarca-Groenlandia di settembre e le due nuove basi militari previste, oltre alle dichiarazioni di Trump sulla posizione strategica dell'isola.",
-     "b": "a"
-    },
-    {
-     "n": "Al Jazeera",
-     "c": "Doha",
-     "p": "QA",
-     "t": "Testo non leggibile: solo titolo e occhiello disponibili, giudizio parziale. Riporta sinteticamente l'annuncio di Trump su Truth Social riguardo all'esplorazione di risorse in Groenlandia.",
-     "b": "t"
-    },
-    {
-     "n": "Sky News",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Testo non leggibile: solo titolo e occhiello disponibili, giudizio parziale. Riferisce che Trump parla di preparativi per un'esplorazione 'massiccia' definendo la Groenlandia come 'nostra'.",
-     "b": "t"
-    },
-    {
-     "n": "CBC News",
-     "c": "Toronto",
-     "p": "XX",
-     "t": "Inquadra l'annuncio come probabilmente legato alle elezioni di midterm e ai prezzi energetici saliti per la 'guerra in Iran' di Trump, citando il comizio in Alaska. Sottolinea con fonti USGS che l'estrazione resta tecnicamente difficile e mai andata oltre la fase esplorativa, e ricorda l'accordo di sicurezza di settembre senza diritti speciali di esplorazione per gli USA.",
-     "b": "a"
-    },
-    {
-     "n": "The Globe and Mail",
-     "c": "Toronto",
-     "p": "XX",
-     "t": "Analogamente a CBC, collega l'annuncio ai 'prezzi energetici' in aumento e alle elezioni di midterm, definendo l'estrazione finora mai oltre la fase esplorativa. Aggiunge la voce della rappresentante groenlandese Naaja H. Nathanielsen, che ritiene il post di Trump un modo per attirare attenzione.",
-     "b": "a"
-    },
-    {
-     "n": "South China Morning Post",
-     "c": "Hong Kong",
-     "p": "XX",
-     "t": "Testo non leggibile: solo titolo e occhiello disponibili, giudizio parziale. Riporta l'annuncio di Trump e nota che non è chiaro a cosa si riferisca esattamente.",
-     "b": "t"
-    },
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Testo non leggibile: solo titolo e occhiello disponibili, giudizio parziale. L'occhiello definisce l'annuncio un tentativo di 'tranquillizzare l'elettorato' alle prese con l'aumento dei prezzi in vista del voto di midterm.",
-     "b": "t"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Testo non leggibile: solo titolo e occhiello disponibili, giudizio parziale, identico contenuto alla versione precedente di la Repubblica.",
-     "b": "t"
-    }
-   ],
-   "divergono": "CBC News e The Globe and Mail collegano esplicitamente l'annuncio ai prezzi energetici saliti per la 'guerra in Iran' di Trump e alle elezioni di midterm in Alaska, dettaglio assente in Deutsche Welle. The Globe and Mail aggiunge la voce della politica groenlandese Nathanielsen, che ridimensiona l'annuncio come ricerca di attenzione, non presente altrove. Deutsche Welle si concentra maggiormente sugli aspetti militari e di difesa missilistica legati all'accordo di settembre, mentre CBC e Globe and Mail enfatizzano gli ostacoli tecnici all'estrazione citando l'USGS. Per le testate con solo titolo e occhiello (Al Jazeera, Sky News, South China Morning Post, la Repubblica) non è possibile un confronto approfondito."
-  },
   "z3ae7f590": {
    "voci": [
     {
@@ -30393,13 +29935,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Estoril, Cascais",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "z828f9f86": {
-   "n": "Mauritius",
-   "p": [
-    "Mauritius"
    ],
    "pt": []
   },
@@ -33181,13 +32716,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "ze04fdefe": {
-   "n": "Groenlandia",
-   "p": [
-    "Greenland"
-   ],
-   "pt": []
-  },
   "z33687bb0": {
    "n": "Svezia",
    "p": [
@@ -34006,20 +33534,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z13f1b3d6": {
-   "n": "Irlanda",
-   "p": [
-    "Ireland"
-   ],
-   "pt": []
-  },
-  "zfb2d1749": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "zfa8a5844": {
    "n": "Ucraina",
    "p": [
@@ -34051,13 +33565,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zde17c43c": {
    "n": "Città del Vaticano",
    "p": [],
-   "pt": []
-  },
-  "z250eaf52": {
-   "n": "Groenlandia",
-   "p": [
-    "Greenland"
-   ],
    "pt": []
   },
   "z00bd1076": {
@@ -34787,11 +34294,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z82360e26": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
   "zf8a7d76f": {
    "n": "Singapore",
    "p": [
@@ -34845,13 +34347,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Libreville",
    "p": [
     "Gabon"
-   ],
-   "pt": []
-  },
-  "zccd4caae": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -34941,13 +34436,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Accra",
    "p": [
     "Ghana"
-   ],
-   "pt": []
-  },
-  "zd3a223f8": {
-   "n": "La Paz",
-   "p": [
-    "Bolivia"
    ],
    "pt": []
   },
@@ -35294,18 +34782,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "p": [
     "Germany"
    ],
-   "pt": []
-  },
-  "z96125f63": {
-   "n": "Berlino",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
-  "z970dad3d": {
-   "n": "Città del Vaticano",
-   "p": [],
    "pt": []
   },
   "zf7d86e7a": {
@@ -36633,7 +36109,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z43c21b53": 1,
   "ze84fa46e": 1,
   "za50b7682": 1,
-  "z828f9f86": 1,
   "zf582ad9a": 1,
   "z0c184b95": 1,
   "zb91f49d4": 1,
@@ -37033,7 +36508,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z8eb539bf": 1,
   "z214f71ef": 1,
   "zaae52a38": 1,
-  "ze04fdefe": 2,
   "z33687bb0": 1,
   "z6be36bb2": 2,
   "z6e20cf50": 1,
@@ -37154,14 +36628,11 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z45100917": 1,
   "zac5e7f1e": 1,
   "z1775cff4": 1,
-  "z13f1b3d6": 1,
-  "zfb2d1749": 2,
   "zfa8a5844": 2,
   "z33faf1b8": 1,
   "z20fca244": 1,
   "zee568391": 2,
   "zde17c43c": 2,
-  "z250eaf52": 3,
   "z00bd1076": 2,
   "z764b6fc9": 2,
   "z9dbcfd42": 1,
@@ -37271,7 +36742,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z7aaea5f3": 1,
   "z5ca18f77": 1,
   "zcce2c3e8": 2,
-  "z82360e26": 2,
   "zf8a7d76f": 2,
   "zdfe152fd": 1,
   "z99493e97": 1,
@@ -37280,7 +36750,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "za7686bd6": 1,
   "z8f46d8a3": 1,
   "zf7af0e55": 1,
-  "zccd4caae": 2,
   "zb2605603": 1,
   "z38dfdca9": 1,
   "zc0534426": 1,
@@ -37294,7 +36763,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zf3fd7555": 2,
   "zfc3be7cd": 2,
   "z7614fd65": 1,
-  "zd3a223f8": 1,
   "z6a7e867f": 1,
   "z7f1005ad": 1,
   "z2bb94fb8": 2,
@@ -37343,8 +36811,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z4ff946e8": 1,
   "z33569e30": 2,
   "z9c75ce56": 1,
-  "z96125f63": 1,
-  "z970dad3d": 2,
   "zf7d86e7a": 1,
   "z5884c3f3": 1,
   "z4e2fa754": 1,
