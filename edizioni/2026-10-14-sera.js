@@ -273,22 +273,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "u": "https://www.hani.co.kr/arti/sports/baseball/1282447.html",
      "angolo": "",
      "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "21:24",
-   "uscita": "sera"
-  },
-  {
-   "id": "z6ee063bc",
-   "sez": "sport",
-   "titolo": "L'LG conferma l'accesso ai semi-PO battendo il Doosan nello spareggio wild card",
-   "orig": "LG, 와일드카드 결정전서 두산 꺾고 준PO행 확정",
-   "lead": "L'LG ha battuto il Doosan nello spareggio decisivo wild card del campionato coreano di baseball, assicurandosi così l'accesso al turno di semifinale dei playoff. La vittoria consolida il percorso della squadra nella fase finale della stagione. Lo riferisce The Hankyoreh.",
-   "more": [
-    "Il campionato coreano di baseball (KBO) prevede un sistema di playoff in cui le squadre classificate ai posti inferiori si affrontano in uno spareggio wild card per accedere ai turni successivi della postseason."
-   ],
-   "fonti": [
+    },
     {
      "n": "The Hankyoreh",
      "p": "XX",
@@ -387,29 +372,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "p": "XX",
      "c": "Taipei",
      "u": "https://www.taipeitimes.com/News/front/archives/2026/10/15/2003865986",
-     "angolo": "",
-     "atlas": "Taiwan"
-    }
-   ],
-   "data": "",
-   "ora": "21:24",
-   "uscita": "sera"
-  },
-  {
-   "id": "zcbccb8e3",
-   "sez": "economia",
-   "titolo": "Avanzano i colloqui tra Taiwan e Alaska su un accordo per il gas naturale liquefatto",
-   "orig": "Talks on Taiwan-Alaska LNG deal advance",
-   "lead": "Le trattative per un accordo tra Taiwan e l'Alaska riguardante il gas naturale liquefatto (LNG) stanno procedendo, secondo quanto riportato da Taipei Times. L'intesa rientra nelle strategie di diversificazione energetica dell'isola. Lo riferisce Taipei Times.",
-   "more": [
-    "L'LNG, gas naturale liquefatto, è una fonte energetica strategica per Taiwan, che dipende fortemente dalle importazioni; accordi con fornitori come l'Alaska, Stato statunitense ricco di riserve di gas, rientrano negli sforzi per diversificare le fonti di approvvigionamento."
-   ],
-   "fonti": [
-    {
-     "n": "Taipei Times",
-     "p": "XX",
-     "c": "Taipei",
-     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/15/2003865987",
      "angolo": "",
      "atlas": "Taiwan"
     }
@@ -1059,7 +1021,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "zf299b615",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Honduras, piattaforme finanziarie digitali usano IA e notizie false per truffare gli utenti",
    "orig": "Plataformas digitales financieras utilizan IA, enlaces infinitos y noticias falsas para estafar",
    "lead": "Il servizio di verifica El Mirón di Criterio.hn ha accertato che una notizia creata con intelligenza artificiale viene utilizzata da reti di truffa digitale per attirare utenti internet attraverso link ingannevoli e contenuti falsi legati a piattaforme finanziarie. Lo riferisce Criterio.hn.",
@@ -1233,30 +1195,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z32daf013",
-   "sez": "mondo",
-   "titolo": "Lens, l'avvocato del liceale ferito da una granata lanciata dalla polizia: \"Che ci faceva lì quella granata?\"",
-   "orig": "Mutilation d’un lycéen à Lens : «Ramassée ou pas, qu’est-ce qu’elle foutait là, cette grenade ?»",
-   "lead": "In una conferenza stampa di mercoledì, l'avvocato Bertrand Wattez, legale di Evan, il liceale a cui è stata amputata una mano dopo l'esplosione di una granata lanciata dalla polizia, ha denunciato la posizione del procuratore di Béthune, che ha affermato che la munizione era stata usata conformemente alle procedure previste. Wattez contesta questa versione, chiedendosi perché la granata si trovasse in quel contesto. Lo riferisce Libération.",
-   "more": [
-    "In Francia l'uso di granate e munizioni a bassa letalità da parte delle forze dell'ordine durante manifestazioni è oggetto di controversie ricorrenti, con diversi casi di feriti gravi che hanno alimentato il dibattito sulle regole d'impiego di questi strumenti."
-   ],
-   "fonti": [
-    {
-     "n": "Libération",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.liberation.fr/societe/police-justice/mutilation-dun-lyceen-a-lens-ramassee-ou-pas-quest-ce-quelle-foutait-la-cette-grenade-20261014_PFGMJC43NJAPJH3QU7TLXSJNZI/",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-14T16:12+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:20",
-   "uscita": "sera"
-  },
-  {
    "id": "z13289ea8",
    "sez": "economia",
    "titolo": "Francia, il tribunale di Orléans assegna Duralex a Cédric Meston, cofondatore di HappyVore",
@@ -1400,7 +1338,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "zab1e1523",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Stati Uniti minacciano sanzioni da 200.000 dollari per ogni nave spagnola che usi i loro porti",
    "orig": "EEUU amenaza con sanciones de 200.000 dólares a cada barco español que quiera usar sus puertos y restricciones a varios productos",
    "lead": "La Commissione Marittima Federale statunitense, che non ha ancora preso una decisione definitiva, sostiene che sono state create \"condizioni marittime sfavorevoli\" dopo che la Spagna ha negato l'accesso ai porti a tre navi statunitensi che trasportavano materiale di difesa con origine o destinazione Israele. L'organismo minaccia sanzioni fino a 200.000 dollari per ogni nave spagnola che voglia usare i porti americani, insieme a restrizioni su vari prodotti. Lo riferisce El Mundo.",
@@ -1608,30 +1546,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-10-14T16:24+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:20",
-   "uscita": "sera"
-  },
-  {
-   "id": "z980b39bb",
-   "sez": "mondo",
-   "titolo": "Fallito il primo tentativo di Magdalena Andersson, il governo svedese resta un rebus",
-   "orig": "Regeringsdramat går vidare – här är alternativen",
-   "lead": "In Svezia il primo tentativo di Magdalena Andersson di formare un nuovo governo è fallito, e ora il presidente del Parlamento dovrà individuare un nuovo candidato per guidare il paese. Il complesso negoziato per la formazione dell'esecutivo entra così in una seconda fase, con diverse ipotesi ancora sul tavolo per il ruolo di primo ministro. Lo riferisce Dagens Nyheter.",
-   "more": [
-    "In Svezia, dopo le elezioni, il presidente del Parlamento guida le consultazioni per individuare un candidato capace di ottenere la maggioranza necessaria a governare, in un sistema che spesso richiede più tentativi e negoziati tra i partiti."
-   ],
-   "fonti": [
-    {
-     "n": "Dagens Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.dn.se/sverige/regeringsdramat-gar-vidare-har-ar-alternativen/",
-     "angolo": "",
-     "atlas": "Sweden",
-     "t": "2026-10-14T19:53+02:00"
     }
    ],
    "data": "14 ott",
@@ -2132,30 +2046,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-14T16:16+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:20",
-   "uscita": "sera"
-  },
-  {
-   "id": "z4cdf3429",
-   "sez": "mondo",
-   "titolo": "Controversia sulla licenza di avvocato della nuova portavoce della Casa Bianca",
-   "orig": "La controversia sobre la licencia de abogada de la nueva vocera de la Casa Blanca",
-   "lead": "Negli Stati Uniti è scoppiata una controversia sulla licenza di avvocato della nuova portavoce della Casa Bianca, Katie Zacharia, dopo che un'organizzazione non governativa ha chiesto di indagare se abbia esercitato la professione legale senza le credenziali necessarie. Lo riferisce La Nación CR.",
-   "more": [
-    "La segretaria di stampa della Casa Bianca è il principale portavoce dell'amministrazione statunitense nei rapporti con i media; eventuali irregolarità nelle credenziali professionali di un funzionario pubblico possono generare controversie etiche e legali."
-   ],
-   "fonti": [
-    {
-     "n": "La Nación CR",
-     "p": "XX",
-     "c": "San José",
-     "u": "https://www.nacion.com/el-mundo/la-controversia-sobre-la-licencia-de-abogada-de-la/PZ5LBBOEZVHPTNVA74FX3WTACI/story/",
-     "angolo": "",
-     "atlas": "Costa Rica",
-     "t": "2026-10-14T18:02+00:00"
     }
    ],
    "data": "14 ott",
@@ -2961,30 +2851,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zb82c4804",
-   "sez": "mondo",
-   "titolo": "Il Vaticano: \"Il Papa sta bene\" dopo l'intervento al polmone",
-   "orig": "„Dem Papst geht es gut“",
-   "lead": "Dopo l'operazione di martedì per la rimozione di un tumore polmonare, la convalescenza di Papa Leone XIV procede secondo i piani. Lo hanno riferito mercoledì il chirurgo Stefano Margaritora e il medico personale del Pontefice, Luigi Carbone, in una dichiarazione diffusa dal Vaticano. Il direttore della sala stampa vaticana, Matteo Bruni, ha dichiarato che 'il Papa sta bene, è di buon umore'. Lo riferisce ORF.",
-   "more": [
-    "Papa Leone XIV guida la Chiesa cattolica dopo essere stato eletto di recente al soglio pontificio, succedendo nel ruolo di guida spirituale per oltre un miliardo di fedeli nel mondo."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445076/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-14T18:50+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:16",
-   "uscita": "sera"
-  },
-  {
    "id": "za38b3d53",
    "sez": "sport",
    "titolo": "Il club calcistico femminile IK Uppsala chiude dopo questa stagione",
@@ -3118,6 +2984,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-14T17:11+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T17:55+00:00"
     }
    ],
    "data": "14 ott",
@@ -3440,30 +3315,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-14T16:29+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "z627c40ca",
-   "sez": "mondo",
-   "titolo": "Turchia, sospeso il canale Halk TV il giorno della testimonianza di Imamoglu",
-   "orig": "Gušenje medija u Turskoj: Halk TV obustavljen na dan svedočenja Imamoglua",
-   "lead": "La polizia turca ha fatto irruzione nella sede del canale televisivo di opposizione Halk TV a Istanbul, imponendo un amministratore controllato. L'intervento è avvenuto proprio nel giorno in cui l'ex sindaco di Istanbul Ekrem Imamoglu doveva testimoniare in tribunale. Le autorità turche hanno giustificato l'operazione citando un'indagine in corso contro il presidente del canale. Lo riferisce N1 Serbia.",
-   "more": [
-    "Halk TV è un'emittente televisiva turca di orientamento vicino all'opposizione, spesso critica verso il governo di Ankara; Ekrem Imamoglu è l'ex sindaco di Istanbul, figura di rilievo dell'opposizione turca, coinvolto in diversi procedimenti giudiziari contestati dai suoi sostenitori come politicamente motivati."
-   ],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/svet/gusenje-medija-u-turskoj-halk-tv-obustavljen-na-dan-svedocenja-imamoglua/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-14T20:09+02:00"
     }
    ],
    "data": "14 ott",
@@ -4156,27 +4007,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zddf73de0",
-   "sez": "mondo",
-   "titolo": "Violenta grandinata imbianca le strade di Santiago del Cile",
-   "orig": "Cile, violenta grandinata imbianca le strade di Santiago",
-   "lead": "Una violenta grandinata accompagnata da piogge torrenziali e temporali ha colpito Santiago del Cile, causando allagamenti e disagi nella capitale. Le strade si sono ricoperte di ghiaccio mentre l'acqua scorreva tra le auto. Le autorità hanno dichiarato l'allerta rossa nella regione metropolitana, segnalando tetti crollati e diverse stazioni della metropolitana chiuse per allagamenti, soprattutto nelle zone di Providencia e Santiago Centro. Lo riferisce Sky TG24.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/mondo/video/2026/10/14/cile-el-nino-maltempo-1131786",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
-   "ora": "21:16",
-   "uscita": "sera"
-  },
-  {
    "id": "zfdf201cb",
    "sez": "italia",
    "titolo": "Arrestato nel Pavese un 19enne con armi da fuoco e simboli nazisti",
@@ -4480,28 +4310,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z4e14ab60",
-   "sez": "mondo",
-   "titolo": "Scontri a Tirana, manifestanti lanciano pietre e molotov contro la polizia",
-   "orig": "Situatë e dhunshme në protestë, gurë, molotovë dhe lëndë ndezëse ndaj efektivëve të policisë",
-   "lead": "A Tirana una protesta è degenerata in scontri violenti: i manifestanti hanno lanciato pietre, bottiglie molotov e altri materiali infiammabili contro le forze dell'ordine. Parte della polizia, dotata di scudi e protezioni, è stata costretta a ritirarsi sotto i colpi di sbarre di ferro, fiaccole e pietre, anche per il numero ridotto di agenti rispetto ai manifestanti, molto più numerosi. Lo riferisce Euronews Albania.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/situate-e-dhunshme-ne-proteste-gure-molotove-dhe-lende-ndezese-ndaj-efektiveve-te-policise/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-14T18:20+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:16",
-   "uscita": "sera"
-  },
-  {
    "id": "z7826dc3c",
    "sez": "mondo",
    "titolo": "Agente di polizia ferito al torace dai manifestanti a Tirana",
@@ -4517,6 +4325,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Albania",
      "t": "2026-10-14T18:18+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/situate-e-dhunshme-ne-proteste-gure-molotove-dhe-lende-ndezese-ndaj-efektiveve-te-policise/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-14T18:20+00:00"
     }
    ],
    "data": "14 ott",
@@ -5672,6 +5489,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "New Zealand",
      "t": "2026-10-14T17:44+00:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/south-australia-joins-world-renowned-michelin-guide-in-aussie-first-20261014-p615ob.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-14T22:16+11:00"
     }
    ],
    "data": "14 ott",
@@ -5771,39 +5597,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Uzbekistan",
      "t": "2026-10-14T17:00+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:13",
-   "uscita": "sera"
-  },
-  {
-   "id": "z5fadc14d",
-   "sez": "mondo",
-   "titolo": "L'Ucraina lancia l'allarme sul sostegno Usa, l'Europa promette appoggio",
-   "orig": "As Ukraine Raises Alarm Over U.S. Backing, Europeans Pledge Support",
-   "lead": "Il presidente ucraino Volodymyr Zelensky, che ha incontrato il primo ministro britannico, ha detto che l'Ucraina non ha ricevuto alcun avviso prima degli attacchi russi, mentre il presidente americano Donald Trump ha affermato che Washington continua comunque a 'condividere informazioni'. Di fronte ai dubbi sul sostegno statunitense, i paesi europei hanno promesso il proprio appoggio a Kiev. Lo riferisce The New York Times.",
-   "more": [
-    "Zelensky guida l'Ucraina dal 2019 e dall'inizio dell'invasione russa nel 2022 è diventato il principale interlocutore internazionale per il sostegno militare e finanziario al suo paese, che dipende in larga parte dagli aiuti occidentali."
-   ],
-   "fonti": [
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-14T18:18+00:00"
-    },
-    {
-     "n": "Nile Post",
-     "p": "XX",
-     "c": "Kampala",
-     "u": "https://nilepost.co.ug/news/378463/kawempe-hospital-raises-alarm-over-power-outages-affecting-newborn-care",
-     "angolo": "",
-     "atlas": "Uganda",
-     "t": "2026-10-14T20:54+03:00"
     }
    ],
    "data": "14 ott",
@@ -5967,39 +5760,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-14T15:57+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:13",
-   "uscita": "sera"
-  },
-  {
-   "id": "zaa408914",
-   "sez": "mondo",
-   "titolo": "Ucraina, dubbi sui mancati allarmi missilistici: sospetti su Trump",
-   "orig": "Ärger mit Trump: Warum bekam die Ukraine diesmal keine Raketen-Warnung?",
-   "lead": "Missili russi hanno colpito duramente la rete elettrica ucraina come non accadeva da tempo, e il presidente Volodymyr Zelensky si è lamentato della mancanza di preallarmi contro gli attacchi. In Germania si interroga sul perché questa volta Kyiv non abbia ricevuto l'avviso, con sospetti che Donald Trump possa avere un ruolo nel blocco delle informazioni; si segnalano anche nuovi problemi con Starlink. Per due giorni consecutivi la popolazione non ha potuto essere avvertita in anticipo degli attacchi russi, alimentando dubbi che non si tratti di un caso.",
-   "more": [
-    "Starlink è il sistema di comunicazione satellitare usato dall'Ucraina per le proprie reti civili e militari durante la guerra; gli allarmi missilistici dipendono anche dalla condivisione di dati di intelligence con gli alleati occidentali."
-   ],
-   "fonti": [
-    {
-     "n": "FAZ",
-     "p": "DE",
-     "c": "Francoforte",
-     "u": "https://www.faz.net/aktuell/politik/ausland/russland-bombt-und-trump-erhoeht-den-druck-auf-kiew-201316633.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-14T16:19+00:00"
-    },
-    {
-     "n": "Der Standard",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://www.derstandard.at/story/3000000344244/warum-schlagen-in-kyjiw-ploetzlich-raketen-ein-ohne-dass-zuvor-die-sirenen-heulen?ref=rss",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-14T14:50+00:00"
     }
    ],
    "data": "14 ott",
@@ -6298,38 +6058,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "za4092d6f",
-   "sez": "mondo",
-   "titolo": "Albania, studenti appiccano il fuoco al ministero dell'Istruzione durante le proteste",
-   "orig": "Estudantes ateiam fogo ao Ministério da Educação durante protestos na Albânia",
-   "lead": "Decine di migliaia di studenti sono tornati in piazza in Albania per protestare contro i costi dell'istruzione e il degrado delle strutture scolastiche, arrivando a incendiare la sede del ministero dell'Istruzione. Gli scontri hanno provocato oltre 20 feriti. Alle critiche contro un progetto immobiliare legato a Jared Kushner si è aggiunto il malcontento per le condizioni dell'istruzione superiore, con denunce di violenza policial sproporzionata e uso di gas lacrimogeno contro i giovani manifestanti.",
-   "more": [
-    "Le proteste studentesche in Albania si inseriscono in un clima di tensione sociale legato ai costi crescenti dell'istruzione e al degrado delle infrastrutture scolastiche nel paese balcanico."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/mundo/estudantes-ateiam-fogo-ao-ministerio-da-educacao-durante-protestos-na-albania_n1771697",
-     "angolo": "",
-     "atlas": "Portugal"
-    },
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/10/14/mundo/noticia/protestos-albania-fazem-20-feridos-incendio-ministerio-educacao-2191358",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-14T16:30+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:13",
-   "uscita": "sera"
-  },
-  {
    "id": "z90d33a83",
    "sez": "cultura",
    "titolo": "Vietnam, sepolti dopo 60 anni 731 soldati caduti nell'offensiva del Tet",
@@ -6356,39 +6084,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-14T19:26+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:13",
-   "uscita": "sera"
-  },
-  {
-   "id": "zec6d50e2",
-   "sez": "economia",
-   "titolo": "Lufthansa si aggiudica il 44,9% di Tap con un'offerta da 1,2 miliardi di euro",
-   "orig": "Lufthansa si aggiudica il 44,9% di Tap con offerta da 1 miliardo e 200 milioni di euro",
-   "lead": "Lufthansa ha vinto la gara per l'acquisizione del 44,9% della compagnia aerea portoghese Tap con un'offerta da 1 miliardo e 200 milioni di euro. Lo Stato portoghese aveva avviato il processo di privatizzazione parziale della compagnia nazionale nel settembre 2025, aprendo la strada all'ingresso del gruppo tedesco nel capitale del vettore.",
-   "more": [
-    "Tap Air Portugal è la compagnia aerea di bandiera del Portogallo; Lufthansa è il principale gruppo aereo tedesco, già presente in diverse alleanze europee del trasporto aereo."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/2026/10/14/news/lufthansa_si_aggiudica_il_449_di_tap_con_offerta_da_1_miliardo_e_200_milioni_di_euro-425647545/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T13:05+00:00"
-    },
-    {
-     "n": "la Repubblica – Economia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/2026/10/14/news/lufthansa_si_aggiudica_il_449_di_tap_con_offerta_da_1_miliardo_e_200_milioni_di_euro-425647545/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T18:15+02:00"
     }
    ],
    "data": "14 ott",
@@ -6731,30 +6426,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Lithuania",
      "t": "2026-10-14T20:45+03:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:13",
-   "uscita": "sera"
-  },
-  {
-   "id": "z4aadcfec",
-   "sez": "mondo",
-   "titolo": "Dubbi sulla qualifica legale della nuova portavoce di Trump",
-   "orig": "Naujoji Trumpo spaudos sekretorė sulaukė klausimų dėl savo teisinės kvalifikacijos",
-   "lead": "La Casa Bianca ha affrontato mercoledì crescenti domande sulla preparazione legale della nuova portavoce Katie Zacharios, che nel suo primo giorno nel nuovo incarico è apparsa incerta e non è riuscita a specificare chiaramente dove avesse superato l'esame di abilitazione all'avvocatura. L'episodio ha alimentato dubbi sulle sue credenziali professionali proprio mentre assumeva uno dei ruoli di comunicazione più visibili dell'amministrazione americana. Lo riferisce LRT.",
-   "more": [
-    "Il ruolo di portavoce della Casa Bianca richiede di rispondere pubblicamente ogni giorno a domande su politica interna ed estera; eventuali dubbi sulle qualifiche professionali di chi occupa questo incarico possono incidere sulla credibilità delle comunicazioni ufficiali dell'amministrazione."
-   ],
-   "fonti": [
-    {
-     "n": "LRT",
-     "p": "XX",
-     "c": "Vilnius",
-     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3082460/naujoji-trumpo-spaudos-sekretore-sulauke-klausimu-del-savo-teisines-kvalifikacijos",
-     "angolo": "",
-     "atlas": "Lithuania",
-     "t": "2026-10-14T20:38+03:00"
     }
    ],
    "data": "14 ott",
@@ -7308,30 +6979,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z7616c404",
-   "sez": "mondo",
-   "titolo": "Navi affondate vicino allo Stretto di Hormuz, crescono i timori per la sicurezza marittima",
-   "orig": "Zvaničnici: Brodovi potonuli u blizini Hormuškog moreuza, nakon...",
-   "lead": "Secondo fonti ufficiali, alcune navi sono affondate nelle vicinanze dello Stretto di Hormuz, in un contesto di crescita improvvisa delle minacce contro le navi mercantili in transito nella zona. L'aumento del pericolo nello stretto e nelle acque circostanti ha intensificato la preoccupazione per la sicurezza di questo passaggio marittimo, attraverso cui prima della guerra transitava circa un quinto del commercio mondiale di petrolio e gas naturale liquefatto. Lo riferisce Vijesti.",
-   "more": [
-    "Lo Stretto di Hormuz è un passaggio marittimo strategico tra il Golfo Persico e l'Oceano Indiano, cruciale per il trasporto mondiale di petrolio e gas, spesso teatro di tensioni militari tra potenze regionali che minacciano la libertà di navigazione in quest'area vitale per l'economia globale."
-   ],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/svijet/globus/831479/zvanicnici-brodovi-potonuli-u-blizini-hormuskog-moreuza-nakon-sto-su-pogodjeni-projektilima",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-14T20:18+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:13",
-   "uscita": "sera"
-  },
-  {
    "id": "z770ad2bd",
    "sez": "mondo",
    "titolo": "Nella più grande centrale elettrica nordcoreana i lavoratori devono pagare per i tour di lealtà obbligatori",
@@ -7536,54 +7183,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "data": "14 ott",
    "ora": "21:13",
-   "uscita": "sera"
-  },
-  {
-   "id": "zb1783986",
-   "sez": "mondo",
-   "titolo": "Proteste studentesche degenerano in violenza a Tirana",
-   "orig": "Student protests in Albania turn violent as demonstrators clash with police",
-   "lead": "Decine di migliaia di studenti sono scesi in piazza a Tirana, capitale dell'Albania, per protestare contro l'aumento dei costi dell'istruzione e la corruzione. Durante la manifestazione i dimostranti hanno appiccato un incendio all'edificio del ministero dell'Istruzione, dato fuoco a due filiali bancarie tra cui una della Raiffeisen Bank, rovesciato cassonetti e danneggiato le vetrine di diverse attività commerciali. Hanno anche lanciato pietre contro gli agenti. La polizia ha risposto con cannoni ad acqua e gas lacrimogeni per disperdere la folla.",
-   "more": [
-    "L'Albania, Paese candidato all'adesione all'Unione europea, è attraversata da anni da tensioni legate alla percezione diffusa di corruzione nelle istituzioni pubbliche e da un sistema scolastico ritenuto inadeguato dai giovani, che chiedono riforme concrete e maggiore trasparenza nella gestione dei fondi destinati all'istruzione."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-14T17:21+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:07",
-   "uscita": "sera"
-  },
-  {
-   "id": "z9d725e52",
-   "sez": "mondo",
-   "titolo": "Kenya, confermato un secondo caso di Ebola",
-   "orig": "Kenya’s Health Ministry confirms second Ebola case",
-   "lead": "Il ministero della Salute del Kenya ha confermato un secondo caso di Ebola nel Paese, relativo a un parente del primo paziente individuato, un uomo di 39 anni. Il nuovo contagio alimenta i timori di una possibile diffusione transfrontaliera della malattia. Le autorità sanitarie stanno monitorando la situazione per contenere un'eventuale espansione del focolaio oltre i confini nazionali. Lo riferisce Al Jazeera.",
-   "more": [
-    "L'Ebola è una febbre emorragica virale spesso letale, trasmessa attraverso il contatto con fluidi corporei di persone infette. Le epidemie colpiscono periodicamente diversi Paesi dell'Africa centrale e orientale, richiedendo rapide misure di tracciamento dei contatti per evitarne la diffusione."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-14T17:03+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:07",
    "uscita": "sera"
   },
   {
@@ -7849,7 +7448,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "ze6783705",
-   "sez": "cucina",
+   "sez": "musica",
    "titolo": "John Lennon e l'orgoglio per il suo primo pane fatto in casa",
    "orig": "John Lennon era così orgoglioso del suo primo pane fatto in casa che gli scattò una Polaroid",
    "lead": "Negli anni in cui si era allontanato dalla musica per dedicarsi al figlio Sean, John Lennon scoprì il piacere della panificazione casalinga. Fu così orgoglioso della sua prima pagnotta da scattarle una Polaroid, un gesto che racconta quanto quella piccola conquista domestica gli desse una soddisfazione paragonabile a quella di un nuovo disco. L'episodio, riportato da Gambero Rosso, offre uno spaccato inedito della vita privata dell'ex Beatle lontano dai riflettori della musica.",
@@ -8199,30 +7798,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z5c12083f",
-   "sez": "spazio",
-   "titolo": "Perché Starlink è decisivo per le forze armate ucraine",
-   "orig": "Perché Starlink è prezioso per le forze armate ucraine",
-   "lead": "Un'analisi del Post spiega perché la rete satellitare Starlink di SpaceX sia diventata preziosa per le forze armate ucraine, dopo che l'azienda ha introdotto restrizioni alla propria versione militare del servizio. Le conseguenze riguardano in particolare le operazioni con i droni ucraini, che dipendono dalla connettività satellitare per la trasmissione di dati e comandi sul campo di battaglia, in un contesto in cui Kiev aveva già espresso preoccupazione per tali limitazioni. Lo riferisce Il Post.",
-   "more": [
-    "Starlink è il sistema di satelliti per internet a banda larga sviluppato da SpaceX, l'azienda di Elon Musk, diventato strumento chiave per le comunicazioni militari ucraine durante il conflitto con la Russia, incluso il controllo remoto dei droni."
-   ],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/14/importanza-starlink-operazioni-ucraina/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T17:18+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:07",
-   "uscita": "sera"
-  },
-  {
    "id": "z4f757665",
    "sez": "mondo",
    "titolo": "Quarto allarme Ro-Alert in un giorno a Tulcea per possibili drone russi",
@@ -8505,30 +8080,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z49a5313f",
-   "sez": "spazio",
-   "titolo": "L'Ucraina denuncia che le modifiche USA a Starlink avvantaggiano la Russia",
-   "orig": "Ukraine says US changes to Starlink system are helping Russia’s war effort",
-   "lead": "L'Ucraina ha accusato gli Stati Uniti di aver introdotto modifiche al sistema satellitare Starlink senza preavviso, con effetti che stanno favorendo lo sforzo bellico russo e compromettendo la capacità di difesa ucraina. Il cambiamento ha colpito l'uso del servizio da parte delle forze ucraine, secondo quanto riportato dal New Zealand Herald, in un contesto in cui Starlink è stato finora uno strumento chiave per le comunicazioni militari di Kiev durante il conflitto con Mosca.",
-   "more": [
-    "Starlink è il servizio di internet satellitare gestito da SpaceX, l'azienda di Elon Musk, diventato strumento essenziale per le comunicazioni militari e civili ucraine dall'inizio dell'invasione russa, grazie alla sua rete di satelliti in orbita bassa."
-   ],
-   "fonti": [
-    {
-     "n": "NZ Herald",
-     "p": "XX",
-     "c": "Auckland",
-     "u": "https://www.nzherald.co.nz/world/ukraine-says-us-changes-to-starlink-system-are-helping-russias-war-effort/3SUSHXQV2BEVDHF3BNK7ZBFFQI/",
-     "angolo": "",
-     "atlas": "New Zealand",
-     "t": "2026-10-14T17:59+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "21:07",
-   "uscita": "sera"
-  },
-  {
    "id": "z6db2a1df",
    "sez": "cucina",
    "titolo": "Un'influencer di drink racconta come gestisce il diabete viaggiando in 35 città l'anno",
@@ -8646,7 +8197,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "zb5d115f2",
-   "sez": "viaggi",
+   "sez": "cultura",
    "titolo": "A Dominica due mostre d'arte celebrano natura e diversità nell'isola",
    "orig": "Fort Young Hotel and Secret Bay art exhibitions explore nature and diversity in Dominica",
    "lead": "Il Fort Young Hotel e il Secret Bay, a Dominica, ospitano due esposizioni d'arte che invitano residenti e visitatori a esplorare l'ambiente, la cultura e la creatività dell'isola durante la stagione dell'indipendenza. Alla Old Oven Art Gallery del Fort Young Hotel, l'Associazione degli Artisti Waitukubuli presenta le proprie opere nell'ambito di questa iniziativa culturale legata al territorio caraibico. Lo riferisce Dominica News Online.",
@@ -10263,49 +9814,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-14T12:53+01:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "20:30",
-   "uscita": "sera",
-   "rilievo": 2
-  },
-  {
-   "id": "s1a2b3c02",
-   "sez": "prima",
-   "titolo": "Albania, assalto a più ministeri a Tirana: incendiato il primo piano della Giustizia",
-   "orig": "Sulmohet Ministria e Drejtësisë, protestuesit i vënë flakën katit të parë të godinës",
-   "lead": "Le proteste degli studenti albanesi sono degenerate mercoledì sera a Tirana nella giornata più violenta da quando il movimento anticorruzione è iniziato in maggio. I manifestanti hanno preso di mira nel pomeriggio il ministero dell'Economia, il Parlamento e la sede del governo, incendiando poi il primo piano del ministero della Giustizia con pietre e bottiglie molotov. Le forze speciali di polizia sono intervenute con autobotti per disperdere la folla, mentre alcuni manifestanti hanno risposto lanciando fuochi d'artificio contro gli agenti. Lo riferisce Euronews Albania.",
-   "more": [
-    "Le manifestazioni, nate in maggio contro la corruzione nel governo del premier Edi Rama, si sono allargate a fine settembre alle richieste degli studenti su costi universitari e prospettive occupazionali dopo la laurea."
-   ],
-   "fonti": [
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/sulmohet-ministria-e-drejtesise-protestuesit-i-vene-flaken-katit-te-pare-te-godines/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-14T17:29+00:00"
     },
     {
-     "n": "Euronews Albania",
+     "n": "Vijesti",
      "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/policia-nderhyn-me-autobot-pas-zjarrit-te-vendosur-te-ministria-e-drejtesise-goditen-me-fishekzjarre-efektivet/",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/globus/831479/zvanicnici-brodovi-potonuli-u-blizini-hormuskog-moreuza-nakon-sto-su-pogodjeni-projektilima",
      "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-14T17:44+00:00"
-    },
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/forcat-shqiponja-nderhyjne-per-te-shoqeruar-protestuesit-qellohet-me-gure-ne-drejtim-te-efektiveve-video/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-14T17:45+00:00"
+     "atlas": "Montenegro",
+     "t": "2026-10-14T20:18+02:00"
     }
    ],
    "data": "14 ott",
@@ -10340,6 +9857,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-14T16:20+00:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-14T14:59+00:00"
     }
    ],
    "data": "14 ott",
@@ -10701,30 +10227,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-14T14:59+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "20:30",
-   "uscita": "sera"
-  },
-  {
-   "id": "s1a2b3c12",
-   "sez": "economia",
-   "titolo": "Stati Uniti, l'inflazione sale al 3,7% sospinta dai prezzi dei carburanti per la guerra in Iran",
-   "orig": "US inflation jumps to 3.7% as Iran war drives up prices",
-   "lead": "L'inflazione negli Stati Uniti è salita al 3,7% a settembre, spinta dal rincaro dei costi dei carburanti legato alla guerra tra Stati Uniti e Iran. Il rialzo dei prezzi aumenta la pressione sugli elettori statunitensi in vista delle elezioni di metà mandato di novembre. Lo riferisce il Financial Times.",
-   "more": [
-    "I prezzi del petrolio sono saliti nelle ultime settimane per le tensioni nel Golfo Persico e nello Stretto di Hormuz, alimentando i timori di un effetto sui bilanci delle famiglie americane."
-   ],
-   "fonti": [
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-14T17:55+00:00"
     }
    ],
    "data": "14 ott",
@@ -11506,6 +11008,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "u": "https://www.rtp.pt/noticias/mundo/quenia-confirma-segundo-caso-de-ebola-no-pais_n1771663",
      "angolo": "",
      "atlas": "Portugal"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-14T17:03+00:00"
     }
    ],
    "data": "",
@@ -11856,6 +11367,24 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "u": "https://www.rtp.pt/noticias/economia/lufthansa-congratula-se-com-decisao-do-governo-e-fala-em-trajetoria-de-sucesso_n1771661",
      "angolo": "",
      "atlas": "Portugal"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/14/news/lufthansa_si_aggiudica_il_449_di_tap_con_offerta_da_1_miliardo_e_200_milioni_di_euro-425647545/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T13:05+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/14/news/lufthansa_si_aggiudica_il_449_di_tap_con_offerta_da_1_miliardo_e_200_milioni_di_euro-425647545/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T18:15+02:00"
     }
    ],
    "data": "",
@@ -15710,30 +15239,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z5892dcbe",
-   "sez": "economia",
-   "titolo": "Notizie economiche: Netflix annuncia tagli storici e Lufthansa acquisisce una quota della compagnia aerea portoghese",
-   "orig": "MELDUNGEN WIRTSCHAFT - Netflix kündigt laut Berichten den grössten Stellenabbau in seiner Geschichte an +++ Lufthansa erwirbt grossen Anteil an portugiesischer Fluggesellschaft",
-   "lead": "Le ultime notizie economiche riferiscono che Netflix avrebbe annunciato il più grande taglio di posti di lavoro nella sua storia, mentre Lufthansa ha acquisito una grossa quota della compagnia aerea portoghese. Lo riferisce NZZ.",
-   "more": [
-    "Le grandi aziende tecnologiche e del settore aeronautico affrontano periodicamente ristrutturazioni e operazioni di consolidamento sul mercato azionario e internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-14T14:59+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
    "id": "zf6aae06e",
    "sez": "economia",
    "titolo": "La BID gestisce un fondo di garanzia per favorire le imprese dell'interno",
@@ -16113,6 +15618,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Russia",
      "t": "2026-10-14T17:46+03:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445076/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T18:50+02:00"
     }
    ],
    "data": "14 ott",
@@ -16657,6 +16171,14 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-14T14:45+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/video/2026/10/14/cile-el-nino-maltempo-1131786",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "14 ott",
@@ -24626,6 +24148,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-14T12:58+02:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/police-justice/mutilation-dun-lyceen-a-lens-ramassee-ou-pas-quest-ce-quelle-foutait-la-cette-grenade-20261014_PFGMJC43NJAPJH3QU7TLXSJNZI/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-14T16:12+00:00"
     }
    ],
    "data": "14 ott",
@@ -26764,30 +26295,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Luxembourg",
      "t": "2026-10-14T10:40+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:43",
-   "uscita": "13"
-  },
-  {
-   "id": "zf2af688e",
-   "sez": "cucina",
-   "titolo": "L'Australia Meridionale entra nella Guida Michelin, prima volta per l'Australia",
-   "orig": "South Australia joins world-renowned Michelin Guide in Aussie first",
-   "lead": "La celebre Guida Michelin si è espansa per la prima volta in Australia, includendo ristoranti dell'Australia Meridionale. Si tratta di un debutto significativo per il panorama gastronomico del Paese, che finora non era mai stato coperto dalla guida francese dedicata all'eccellenza culinaria. Lo riferisce Sydney Morning Herald.",
-   "more": [
-    "La Guida Michelin è una delle pubblicazioni più autorevoli al mondo nella valutazione dei ristoranti, con un sistema di stelle che da oltre un secolo rappresenta un riconoscimento ambito nel settore della ristorazione internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Sydney Morning Herald",
-     "p": "XX",
-     "c": "Sydney",
-     "u": "https://www.smh.com.au/national/south-australia-joins-world-renowned-michelin-guide-in-aussie-first-20261014-p615ob.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "Australia",
-     "t": "2026-10-14T22:16+11:00"
     }
    ],
    "data": "14 ott",
@@ -29224,6 +28731,59 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "u": "https://tg24.sky.it/mondo/video/2026/10/14/proteste-albania-1131688",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/sulmohet-ministria-e-drejtesise-protestuesit-i-vene-flaken-katit-te-pare-te-godines/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-14T17:29+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/policia-nderhyn-me-autobot-pas-zjarrit-te-vendosur-te-ministria-e-drejtesise-goditen-me-fishekzjarre-efektivet/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-14T17:44+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/forcat-shqiponja-nderhyjne-per-te-shoqeruar-protestuesit-qellohet-me-gure-ne-drejtim-te-efektiveve-video/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-14T17:45+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/estudantes-ateiam-fogo-ao-ministerio-da-educacao-durante-protestos-na-albania_n1771697",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/14/mundo/noticia/protestos-albania-fazem-20-feridos-incendio-ministerio-educacao-2191358",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T16:30+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T17:21+00:00"
     }
    ],
    "data": "14 ott",
@@ -37092,7 +36652,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z553f0660": "Middle East Eye riprende l'allarme della Croce Rossa sulla pressione crescente sul sistema sanitario yemenita.",
   "z90946b13": "Middle East Eye evidenzia il rischio che lo scandalo vanifichi anni di strategia di normalizzazione dell'immagine del partito.",
   "z334f9eda": "Reuters, citata da Middle East Eye, si concentra sulle contromisure organizzative saudite più che sugli attacchi stessi.",
-  "zf2af688e": "Sydney Morning Herald presenta l'ingresso come una svolta storica per la gastronomia australiana.",
   "z4301b633": "Sydney Morning Herald celebra la prestazione decisiva di Sutherland nella vittoria conclusiva della serie.",
   "za1755909": "Euronews si concentra sulla durezza delle parole dell'accusa nell'apertura del processo.",
   "zc83b5204": "South China Morning Post evidenzia la reazione diplomatica giapponese alla visita della delegazione cinese.",
@@ -37390,7 +36949,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zbe875735": "La testata focalizza l'attenzione sulle difficoltà economiche della categoria dei pescatori locali a causa del caro carburante.",
   "z17de91a7": "La testata mette in risalto il controllo pubblico sulle tariffe energetiche e sull'operato dell'azienda elettrica nazionale.",
   "z03d097bd": "La testata tedesca sottolinea l'impatto politico ed economico dei dati sull'inflazione negli Stati Uniti.",
-  "z5892dcbe": "La testata elvetica riassume i principali aggiornamenti finanziari globali di rilievo.",
   "zf6aae06e": "La testata evidenzia l'impatto dei programmi di finanziamento e garanzia per le aziende regionali.",
   "zd7e7b9fc": "La testata economica focalizza i dati quantitativi sull'interscambio commerciale doganale.",
   "zb8b6405a": "La testata riferisce le nuove disposizioni di sicurezza relative alla commercializzazione dei prodotti petroliferi.",
@@ -37643,7 +37201,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z4d1c1044": "La testata evidenzia le critiche dell'opposizione nei confronti delle politiche governative e la contrapposizione tra i dati ufficiali e le difficoltà quotidiane dei cittadini.",
   "z71a934df": "La testata riporta gli aspetti formali e logistici relativi all'appuntamento societario per il rinnovo delle cariche aziendali.",
   "s1a2b3c01": "BBC e Straits Times si concentrano sui dati dell'escalation nello stretto, mentre Cyprus Mail e Kurdistan24 sottolineano la doppia perdita navale nelle stesse 24 ore.",
-  "s1a2b3c02": "Euronews Albania segue in diretta, dispaccio dopo dispaccio, l'allargarsi della protesta a più istituzioni della capitale.",
   "s1a2b3c03": "BBC si concentra sui numeri del taglio occupazionale, Il Post lo inquadra nel contesto della concorrenza nello streaming.",
   "s1a2b3c05": "Meduza ricostruisce i dettagli tecnici del sabotaggio, TVN24 riprende le accuse dell'opposizione bulgara al governo Radev.",
   "s1a2b3c06": "Defimedia riporta in tempo reale orari e zone del coprifuoco imposto dal governo.",
@@ -37657,7 +37214,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "s1a2b3c0f": "Azatutyun segue le tensioni tra Erevan e Mosca dopo il divieto di viaggio imposto alla parlamentare.",
   "s1a2b3c10": "la Repubblica e Il Fatto Quotidiano riportano la stessa presa di posizione della Comunità ebraica di Roma nei confronti dell'Anpi.",
   "s1a2b3c11": "ANSA e Il Sole 24 Ore riprendono le stesse dichiarazioni del vicepremier sulla sua candidatura al congresso della Lega.",
-  "s1a2b3c12": "Il Financial Times collega il rialzo dei prezzi alla guerra in Iran, in vista delle elezioni di midterm.",
   "s1a2b3c13": "Construction Dive si concentra sul piano industriale dell'azienda texana per il nuovo macchinario di stampa 3D.",
   "s1a2b3c14": "El Observador riporta le cifre fornite dalla ministra dell'Industria sull'investimento e l'occupazione prevista.",
   "s1a2b3c15": "Sierraloaded presenta il lancio dell'app come un passo dell'imprenditoria digitale locale.",
@@ -37680,8 +37236,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "s1a2b3c26": "Diari d'Andorra segue le misure di sicurezza decise dalla federazione in vista della partita.",
   "s1a2b3c27": "Journal du Mali segue il passaggio di proprietà del gruppo di microfinanza e le sue ricadute sul mercato maliano.",
   "s1a2b3c29": "Alakhbar dà risalto all'ampliamento delle strutture scolastiche nella regione di Atar.",
-  "zb1783986": "The Guardian sottolinea la violenza degli scontri e l'incendio appiccato a un edificio governativo e a due banche.",
-  "z9d725e52": "Al Jazeera evidenzia il rischio di diffusione transfrontaliera legato al legame familiare tra i due casi.",
   "z63120da8": "ANSA collega le difficoltà del torneo al clima di guerra che pesa sulla regione del Golfo.",
   "z61b46483": "Le testate concordano sul senso di tradimento espresso da Zelensky; Le Monde aggiunge il dettaglio delle restrizioni a Starlink.",
   "zb7c90157": "Gabonreview presenta l'evento come un'occasione di valorizzazione economica per il Paese.",
@@ -37699,7 +37253,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z53cb83d7": "Der Standard segue la partita come evento storico per il debutto casalingo del Lask in Champions League, mentre El Observador si concentra sul gol di Araujo.",
   "zc34dfc12": "Club of Mozambique evidenzia la partecipazione istituzionale del Mozambico al vertice.",
   "za23fcc81": "Vatican News sottolinea l'affetto della comunità di Chicago verso il pontefice convalescente.",
-  "z5c12083f": "Il Post collega le restrizioni di SpaceX alle dichiarazioni di Zelensky sulle difficoltà operative dell'esercito ucraino.",
   "z4f757665": "HotNews riporta cronologicamente i quattro allarmi diffusi nella giornata, sottolineando l'invito alla calma delle autorità.",
   "z0ab02117": "Haaretz denuncia l'assenza nel dibattito elettorale di una proposta pro-Stato palestinese, mentre la destra fa campagna apertamente contro tale ipotesi.",
   "z56ba925c": "Euronews riporta la visione del CEO dell'ente turistico azero sulle strategie di crescita del settore.",
@@ -37711,7 +37264,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z2513b11d": "Designboom descrive la villa di Foster in vendita, mentre Wallpaper* presenta il restauro di una diversa casa storica firmata Prouvé sulla stessa costa.",
   "zb0ad5929": "Vijesti segue in diretta gli esiti delle partite serali della seconda giornata.",
   "z9483fbad": "Le Soleil evidenzia le difficoltà economiche e logistiche che le famiglie affrontano nel percorso di cura oncologica.",
-  "z49a5313f": "Il New Zealand Herald riporta la denuncia ucraina sulle conseguenze delle modifiche USA al sistema satellitare.",
   "z6db2a1df": "Bon Appétit mette in luce le difficoltà quotidiane di conciliare lavoro e salute per chi vive tra viaggi e ristoranti.",
   "z769744e8": "Orizzonte Scuola segnala come i ritmi serrati tra scuola e attività extrascolastiche influenzino le abitudini alimentari dei più piccoli in Italia.",
   "z0229f78b": "Billboard presenta l'intervista come occasione per approfondire il processo creativo della band dietro al nuovo singolo.",
@@ -37806,24 +37358,20 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "ze2a50002": "RNZ e RNZ Pacific concordano nell'evidenziare le previsioni di maggiore attività ciclonica per la prossima stagione.",
   "z1880b935": "Agência Brasil riporta l'annuncio di Trump sull'avvio dell'esplorazione, mentre 14ymedio sottolinea le stime secondo cui le riserve petrolifere groenlandesi potrebbero essere tra le maggiori del mondo.",
   "zd227423e": "The New York Times e Daryo concordano nel riportare la sospensione delle trasmissioni BBC, con Daryo che riporta anche i colloqui in corso per il ripristino del servizio.",
-  "z5fadc14d": "The New York Times mette in evidenza le preoccupazioni ucraine sul sostegno americano e le rassicurazioni europee.",
   "z582cdc67": "The Citizen dà voce diretta ai sopravvissuti e alle loro perdite personali.",
   "z440c8849": "Times of India si concentra sulla sconfitta indiana, Gulf News celebra il record personale di Shai Hope.",
   "zc7069dd5": "Entrambe le testate riportano l'appello di Lacroix, con Naharnet che aggiunge i dettagli dell'incontro con il presidente Aoun.",
   "z1bac7091": "Criterio.hn inquadra il voto brasiliano in una lettura regionale, Confidencial si concentra sul vantaggio di Flávio Bolsonaro.",
-  "zaa408914": "La FAZ ipotizza un possibile ruolo di Trump nel blocco degli allarmi, Der Standard si concentra sui dubbi crescenti in Ucraina.",
   "z070d75e5": "La Nación e El Universo raccontano entrambi lo stesso episodio, sottolineando la sorpresa dei fan.",
   "z9916e433": "CNA analizza i rischi legati all'IA nel settore bancario, il Sydney Morning Herald si concentra sull'impatto dell'inflazione sui mercati.",
   "z0a9c4131": "Trend evidenzia la crescita dell'e-commerce in Turkmenistan, Kun.uz segnala l'espansione del settore servizi uzbeko.",
   "zed1ad545": "Premium Times racconta l'appoggio interno all'APC, The Punch riporta la reazione critica della campagna di Makinde.",
-  "za4092d6f": "RTP racconta l'incendio al ministero, il Público aggiunge il numero dei feriti e le accuse di violenza policial.",
   "zc547733e": "Middle East Eye e Le Figaro riportano la stessa agenda diplomatica, incentrata sulla crisi nello Stretto di Hormuz.",
   "za0513e55": "Brújula Digital e Opinión concordano sulla modifica della formula, sottolineando le rassicurazioni del governo sui prezzi.",
   "z02ebd530": "Mosaïque Guinée ed Africaguinee riportano entrambe la rassicurazione ufficiale del ministero sulla scossa.",
   "z3991052b": "Guinée News e Africaguinee riportano entrambe la mobilitazione dei docenti precari e la richiesta di applicazione dell'accordo.",
   "z3afe29fe": "LRT riporta la richiesta formale del deputato senza ancora un esito dell'indagine.",
   "zc4e9cc33": "LRT evidenzia il parere cauto degli esperti, che non promettono benefici diretti per i consumatori.",
-  "z4aadcfec": "LRT riporta l'episodio sottolineando l'imbarazzo mostrato dalla portavoce nel primo giorno di incarico.",
   "z9ca1042b": "LRT presenta la misura come una buona notizia nata da una richiesta diretta di un cittadino.",
   "zf52c93b6": "PBS NewsHour descrive uno spostamento di risorse che segnala difficoltà repubblicane legate all'impopolarità di Trump.",
   "zbe10f600": "PBS NewsHour offre un'analisi tecnica delle possibilità democratiche più che una previsione netta.",
@@ -37845,7 +37393,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z19b52b02": "VRT NWS evidenzia il netto calo registrato rispetto alla media regionale.",
   "z322b442b": "VRT NWS mette in evidenza la posizione belga più permissiva rispetto a quella già ammorbidita della Commissione.",
   "z8224cd8a": "ORF sottolinea la crescente divisione interna al Partito Repubblicano sul tema.",
-  "zb82c4804": "ORF riporta le prime dichiarazioni ufficiali del Vaticano dopo l'intervento.",
   "za38b3d53": "SVT Nyheter riporta la notizia come un annuncio inatteso per i tifosi del club.",
   "z262ae089": "NRK presenta lo studio come una conferma della variabilità individuale nelle risposte alimentari.",
   "z28670b89": "NRK riporta le aspettative delle autorità sulla riduzione dei tempi di attesa.",
@@ -37866,7 +37413,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z7a539d13": "The Guardian riporta le conclusioni critiche del rapporto sull'approccio britannico verso Pechino.",
   "zf163cccb": "la Repubblica denuncia la crescita dell'odio social verso le persone percepite come diverse.",
   "z4166c42e": "la Repubblica si concentra sulle motivazioni tecniche dei giudici riguardo alla notifica carente degli atti.",
-  "z627c40ca": "N1 Serbia mette in evidenza la coincidenza tra l'irruzione nella tv e la testimonianza di Imamoglu.",
   "z65957400": "N1 Serbia riporta la richiesta di trasparenza del partito senza riportare una risposta del governo.",
   "z57931c01": "The Globe and Mail analizza le opportunità geopolitiche che la crisi del Mar Rosso potrebbe offrire all'Eritrea.",
   "zac9f6c54": "The Punch riporta la composizione del comitato senza ulteriori commenti politici.",
@@ -37896,7 +37442,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z07c53f1e": "NZ Herald si concentra sui disagi vissuti dai turisti e sulle misure adottate dalle autorità locali per contenere la crisi.",
   "z35b94478": "Il Fatto Quotidiano racconta il momento drammatico vissuto dalla tennista durante l'incontro.",
   "z15c6192f": "Il Messaggero presenta il risultato come un segnale di cambiamento politico in uno Stato tradizionalmente conservatore.",
-  "zddf73de0": "Sky TG24 documenta con immagini i disagi causati dal maltempo nella capitale cilena.",
   "zfdf201cb": "Sky TG24 pone l'accento sul rischio rappresentato dall'arsenale rinvenuto e dai contenuti estremisti diffusi dal giovane.",
   "z3f2d6fb8": "Hespress English riporta il gesto istituzionale del sovrano come segno di continuità politica.",
   "zf8d928f3": "Hespress English documenta il completamento ordinato dell'iter istituzionale parlamentare.",
@@ -37910,7 +37455,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z36168813": "The Namibian evidenzia l'impatto economico dell'epidemia animale sull'azienda statale e sui suoi lavoratori.",
   "zbd922a82": "Nyasa Times segue da vicino le indagini giudiziarie sui funzionari pubblici malawiani.",
   "zcdd4584f": "Stuff NZ racconta il percorso personale della giocatrice tra maternità e ritorno all'attività agonistica.",
-  "z4e14ab60": "Euronews Albania documenta con più dispacci l'evolversi degli scontri in diverse zone della capitale.",
   "z7826dc3c": "Euronews Albania mostra con un video l'episodio del ferimento dell'agente.",
   "zacb91346": "Euronews Albania documenta con immagini la diffusione delle tensioni in più quartieri.",
   "z87b7e330": "Euronews Albania evidenzia il gesto della giovane manifestante che ha difeso il mezzo dei vigili del fuoco.",
@@ -37941,7 +37485,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zbafc459b": "Le Monde sottolinea i limiti dell'annuncio ministeriale rispetto alle richieste del movimento studentesco.",
   "z7de8128c": "Le Figaro evidenzia il sorpasso di Lisnard su Retailleau come segnale di ricomposizione del campo di destra in vista delle presidenziali.",
   "z2009736a": "Libération sottolinea che l'aumento concesso resta inferiore all'inflazione, dopo un anno di blocco dei pagamenti.",
-  "z32daf013": "Libération dà voce alla contestazione dell'avvocato della vittima contro la versione ufficiale della procura.",
   "z13289ea8": "Libération riflette la prudenza dei dipendenti nonostante i toni rassicuranti del nuovo imprenditore rilevatore.",
   "zc3f61cd7": "Der Spiegel riporta la denuncia della ciclista e le scuse dell'agenzia antidoping citate da altre fonti di stampa.",
   "z7726d951": "Der Spiegel presenta l'iniziativa come risposta all'aumento della popolazione scolastica ucraina ad Amburgo.",
@@ -37957,7 +37500,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zb1c0b32e": "NRC riporta il confronto legale tra Comune e operatore turistico sul futuro dei trasporti alternativi in città.",
   "z5e7ed416": "NZZ aggiorna sulle conseguenze legali e assicurative del disastro per le vittime coinvolte.",
   "zaed2a820": "NZZ documenta con immagini l'estensione del movimento studentesco in tutta la Francia.",
-  "z980b39bb": "Il giornale presenta la situazione come un vero e proprio dramma politico, offrendo una guida alle possibili soluzioni.",
   "z29a19be6": "Il quotidiano descrive la decisione come un vero e proprio dramma al secondo, destinato a influenzare i sistemi informatici di tutto il mondo.",
   "z7be33c35": "TVN24 sottolinea il tono duro delle dichiarazioni del ministro dell'Interno contro i giudici legati al governo precedente.",
   "zeab55028": "TVN24 segnala lo stallo delle trattative nonostante le lunghe ore di negoziato.",
@@ -37979,7 +37521,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z5bb57031": "El Deber illustra con dati concreti l'impatto dell'aumento dei materiali sul costo finale delle abitazioni.",
   "z0944736a": "El Deber riporta accuse e smentite incrociate tra gli ex parlamentari coinvolti nella vicenda.",
   "z3b2dc8e0": "El Deber segnala l'intenzione del Comune di impugnare le misure sostitutive concesse all'ex funzionario.",
-  "z4cdf3429": "La Nación CR riporta le richieste di indagine avanzate dall'organizzazione non governativa.",
   "zea81cac7": "El Universo riporta le dichiarazioni del giocatore sul proprio percorso e sul ruolo da leader.",
   "zc53ef69b": "El Universo sottolinea l'eccezionalità del fenomeno confermata dalle autorità meteorologiche.",
   "z59e1fbe1": "El Universo mette in evidenza il numero di conducenti coinvolti nella nuova alleanza.",
@@ -38021,12 +37562,10 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zbb3ddbff": "ANSA approfondisce i dettagli organizzativi della protezione papale.",
   "z6c6f5560": "Il partito di maggioranza sostiene la nomina nonostante le critiche sollevate.",
   "z07b89e70": "Focus sulle dichiarazioni post-partita del manager vincitore.",
-  "z6ee063bc": "Cronaca della vittoria che decide la qualificazione.",
   "ze12c0d34": "La testata sottolinea le crescenti tensioni interne alla coalizione.",
   "ze8d5604e": "La testata riporta le reazioni indignate all'affermazione del governatore.",
   "z033ef229": "La testata collega le restrizioni sui visti al rischio di carenza di competenze per l'economia statunitense.",
   "zf88426cf": "Il MAC denuncia le sanzioni come ingerenza nelle elezioni.",
-  "zcbccb8e3": "La testata segnala l'avanzamento dei negoziati.",
   "zf9753447": "I funzionari invitano alla cautela nella pianificazione.",
   "z96e724b5": "Il ministro taiwanese richiama l'UE sui rischi geopolitici della dipendenza da Pechino.",
   "zfc4600a1": "Elogio di un ex ufficiale statunitense alle riforme militari di Taiwan.",
@@ -38253,14 +37792,11 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z71a934df": "Nei mesi scorsi la società ha pianificato la scadenza degli organi sociali in carica, rendendo necessaria la convocazione di una nuova assemblea straordinaria.",
   "z821e98b7": "Nelle ultime settimane, la regione dell'Africa orientale e in particolare la vicina Repubblica Democratica del Congo hanno affrontato un aggravamento dei contagi da virus Ebola. La situazione ha spinto le autorità sanitarie dei Paesi limitrofi ad alzare i livelli di guardia lungo i confini. La scorsa settimana, il Kenya ha registrato il primo decesso ufficiale sul proprio territorio, imponendo un monitoraggio straordinario per prevenire la trasmissione transfrontaliera e contenere il focolaio.",
   "s1a2b3c01": "Dall'inizio della guerra tra Stati Uniti e Iran lo Stretto di Hormuz, snodo strategico per il trasporto mondiale del petrolio, è teatro di attacchi crescenti alle navi mercantili. Teheran ha reso noto di aver intensificato le operazioni in risposta al blocco statunitense dei propri porti e alle nuove sanzioni introdotte il mese scorso, mentre il traffico marittimo nell'area si è fortemente ridotto.",
-  "s1a2b3c02": "Le proteste anticorruzione in Albania sono iniziate in maggio 2026 e da allora sfidano con continuità il governo del premier Edi Rama. A fine settembre gli studenti universitari si sono uniti al movimento, protestando per i costi dell'istruzione superiore e le scarse prospettive di lavoro dopo la laurea. Mercoledì la mobilitazione a Tirana ha raggiunto il suo momento più violento.",
   "z61b46483": "Negli ultimi giorni sono emerse tensioni tra Washington e Kiev dopo dichiarazioni di Trump sulla possibile sostituzione di Zelensky e dopo un accordo statunitense legato al petrolio russo, che hanno alimentato il timore ucraino di un progressivo disimpegno americano dal conflitto.",
   "z11dd750a": "Le proteste sono nate da episodi di degrado scolastico in una periferia parigina e si sono progressivamente estese a livello nazionale, coinvolgendo studenti di diverse città francesi nelle ultime settimane.",
   "z4f757665": "Negli ultimi mesi diverse contee romene di confine, in particolare Tulcea, hanno registrato ripetuti avvistamenti di droni provenienti dallo spazio aereo ucraino durante attacchi russi contro i porti sul Danubio, spingendo le autorità a rafforzare i sistemi di allerta Ro-Alert.",
-  "z49a5313f": "Starlink è diventato negli ultimi anni uno strumento essenziale per le comunicazioni militari ucraine, fornito da SpaceX fin dalle prime fasi dell'invasione russa del 2022. Negli ultimi mesi sono emerse tensioni tra Kiev e Washington sulla gestione del servizio, con accuse ucraine di interruzioni o limitazioni non comunicate che avrebbero ridotto l'efficacia operativa delle truppe al fronte, in un contesto di rapporti USA-Russia in evoluzione.",
   "zfde1d859": "Negli ultimi mesi l'amministrazione Trump ha cercato canali di dialogo economico con Mosca, parallelamente ai negoziati sul conflitto ucraino, suscitando critiche da parte degli alleati europei preoccupati per un possibile allentamento delle sanzioni. L'intesa sul diesel si inserisce in questo quadro di riavvicinamento commerciale, alimentando timori che Washington stia privilegiando interessi economici interni a scapito del sostegno a Kiev.",
   "zed8fecc0": "Papa Leone XIV, eletto nel 2025, è stato sottoposto martedì a un intervento chirurgico per la rimozione del lobo inferiore del polmone destro dopo la diagnosi di un adenocarcinoma. Il Vaticano ha confermato la natura dell'operazione ma non ha ancora comunicato lo stadio della malattia. Nei giorni successivi il recupero del pontefice è proceduto senza complicazioni, mentre medici ed esperti attendevano i risultati dell'analisi istologica dei tessuti e dei linfonodi asportati.",
-  "zb1783986": "Le proteste studentesche in Albania sono cresciute nelle ultime settimane in risposta all'aumento delle tasse universitarie e a nuovi scandali di corruzione legati ad appalti pubblici e università private. Gli studenti chiedevano un incontro con il governo guidato da Edi Rama, senza ottenere risposte concrete. Le manifestazioni, inizialmente pacifiche, si sono intensificate nei giorni precedenti fino a sfociare in scontri diretti con la polizia a Tirana.",
   "zd5d6d839": "L'Unione Europea affronta da mesi una crisi energetica legata alla riduzione delle forniture russe e alla volatilità dei mercati globali, con i prezzi dell'energia che pesano su famiglie e imprese. I precedenti vertici UE avevano già discusso misure di sostegno, senza però raggiungere un'intesa definitiva, mentre restano aperti i negoziati sul bilancio pluriennale 2028-2034, sul sostegno militare all'Ucraina e sulla gestione dei flussi migratori.",
   "s1a2b3c03": "Netflix ha attraversato negli ultimi anni fasi alterne di crescita e razionalizzazione dei costi, con un precedente grande taglio occupazionale nel 2022 dovuto al calo degli abbonati in un mercato dello streaming sempre più competitivo. Negli ultimi mesi l'azienda ha continuato a investire in contenuti e tecnologia, inclusa l'intelligenza artificiale, spingendo verso una riorganizzazione interna che ha portato all'annuncio del nuovo taglio del personale.",
   "s1a2b3c05": "La Bulgaria, come altri paesi europei, utilizza il sistema Starlink per garantire comunicazioni satellitari in aree strategiche, in un contesto di crescenti atti di sabotaggio in Europa attribuiti a reti legate alla Russia. Negli ultimi mesi si sono registrati diversi episodi simili contro infrastrutture critiche nel continente, alimentando sospetti sul coinvolgimento di agenti ostili, mentre l'opposizione bulgara accusa il governo Radev di reticenza nelle indagini.",
@@ -38278,12 +37814,9 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zf9a2fe34": "Gli attacchi Houthi contro obiettivi sauditi, incluso quello all'aeroporto di Riyadh, hanno spinto diversi governi della regione a esprimere condanna e sostegno a Riad, intensificando contatti diplomatici e consultazioni di sicurezza tra Pakistan, Iraq e Arabia Saudita.",
   "z1880b935": "Nei mesi scorsi Trump ha più volte espresso l'intenzione di acquisire o controllare la Groenlandia, suscitando le reazioni contrarie di Copenaghen e del governo locale groenlandese, che hanno ribadito la sovranità del territorio e vietato nuove trivellazioni, mentre a settembre è stato firmato un accordo di sicurezza tra Washington e Nuuk.",
   "zd227423e": "Dalla presa del potere nel 2021, i talebani hanno progressivamente limitato la libertà di stampa in Afghanistan, chiudendo o restringendo diverse testate locali; negli ultimi mesi la repressione si è intensificata, colpendo finora soprattutto i media afghani prima di estendersi a un'emittente internazionale come la BBC.",
-  "z5fadc14d": "Negli ultimi tempi sono cresciuti a Kiev i timori per un possibile calo del sostegno militare e d'intelligence statunitense, mentre la Russia ha proseguito attacchi contro il territorio ucraino; i paesi europei hanno intensificato i contatti con Zelensky per rassicurarlo sul proprio impegno.",
   "zc7069dd5": "Negli ultimi mesi Beirut ha più volte sollecitato il rinnovo del mandato Unifil, in scadenza a fine anno, in un contesto regionale instabile dopo i recenti conflitti con Israele.",
   "z1bac7091": "Il primo turno delle presidenziali brasiliane si è svolto domenica scorsa, confermando la forza della destra nella regione e aprendo la strada al ballottaggio del 25 ottobre tra i principali candidati.",
-  "zaa408914": "Negli ultimi giorni la Russia ha intensificato gli attacchi contro le infrastrutture energetiche ucraine, mentre crescono le tensioni tra Kyiv e Washington su forniture militari e condivisione di informazioni di allerta.",
   "zd9e8be05": "Dopo la guerra tra Israele e Iran dei mesi scorsi, lo Stretto di Hormuz è tornato teatro di tensioni crescenti. Dall'inizio del conflitto si sono moltiplicati incidenti legati a mine, attacchi con droni e interferenze su navi mercantili e petroliere, alimentando i timori delle compagnie di navigazione e facendo salire i costi assicurativi per il transito in una delle rotte energetiche più trafficate al mondo.",
-  "za4092d6f": "Le proteste studentesche in Albania sono nate da mesi contro il carovita universitario e il degrado delle strutture scolastiche, intrecciandosi con le critiche a un controverso progetto immobiliare legato a Jared Kushner su un'ex base militare. Le manifestazioni, già segnate da tensioni con la polizia, si sono progressivamente radicalizzate fino agli scontri più recenti.",
   "z4ef0a91f": "Nelle ultime settimane Kiev ha più volte lamentato ritardi e incertezze nelle forniture energetiche occidentali in vista dell'inverno, mentre gli attacchi russi contro le infrastrutture ucraine si sono intensificati. Zelensky ha già criticato in passato l'amministrazione Trump per presunte esitazioni nel sostegno a Kiev, in un rapporto bilaterale altalenante tra pressioni diplomatiche e richieste di aiuti militari ed energetici.",
   "zd4d4fc56": "Nelle ultime settimane l'UE ha discusso nuove misure di sostegno a Kyiv e opzioni per l'uso dei beni russi congelati, mentre le divisioni tra Stati membri su sanzioni, aiuti militari e prospettive di adesione dell'Ucraina si sono fatte più evidenti. I lavori preparatori a Bruxelles hanno portato alla stesura di una bozza di conclusioni che anticipa i temi del vertice dei 27 capi di Stato e di governo.",
   "za127ba61": "Nelle ultime settimane il Mar Nero è stato teatro di crescenti incidenti legati alla guerra in Ucraina, con attacchi e sospetti sabotaggi contro infrastrutture e navi commerciali che hanno coinvolto anche Paesi costieri come Romania e Bulgaria. La tensione si è intensificata dopo nuovi raid aerei russi su porti ucraini e segnalazioni di droni nello spazio aereo di Stati membri NATO della regione.",
@@ -38295,29 +37828,23 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z81d8b6fb": "Dalla fine di agosto le autorità militari della Libia orientale, controllate dal generale Khalifa Haftar, hanno ripreso a eseguire condanne a morte dopo anni di sospensione de facto, l'ultima registrata risalendo al 2010. Human Rights Watch ha denunciato la mancanza di trasparenza nei processi e l'assenza di garanzie giudiziarie per i condannati.",
   "ze25abf62": "Nei giorni scorsi si è svolto in Vaticano l'incontro per il decimo anniversario dell'esortazione apostolica Amoris Laetitia di Papa Francesco, dedicata alla famiglia. L'evento si è tenuto mentre Papa Leone XIV è ricoverato al Policlinico Gemelli, il che non gli ha impedito di seguire i lavori e inviare un messaggio ai partecipanti al termine dell'incontro.",
   "z3c130d30": "Nei giorni scorsi il Vaticano aveva reso noto che Papa Leone era stato sottoposto a un intervento chirurgico d'urgenza dopo la scoperta di un tumore al polmone, suscitando preoccupazione tra i fedeli. I medici avevano descritto l'operazione come riuscita, avviando un periodo di osservazione e convalescenza ospedaliera per il pontefice 71enne.",
-  "z7616c404": "Nelle ultime settimane le tensioni regionali legate al conflitto tra Israele e Iran e alle rivalità nel Golfo Persico avevano già fatto temere per la sicurezza del traffico marittimo nello Stretto di Hormuz, corridoio strategico per l'export energetico mondiale. Diversi episodi di interferenza su petroliere e mercantili erano stati segnalati nelle settimane precedenti, alimentando l'allerta di compagnie di navigazione e governi.",
   "z61c845b1": "Da anni le acque al largo della costa turca, ricche di rotte marittime antiche, sono oggetto di campagne di ricerca archeologica subacquea condotte da università turche, in particolare nell'area di Antalya e dell'isola di Kekova. Le spedizioni recenti, guidate dal professor Hakan Öniz dell'Università di Akdeniz, hanno portato all'individuazione di numerosi siti sommersi risalenti a diverse epoche storiche.",
-  "zb82c4804": "Martedì il Papa è stato sottoposto a un intervento chirurgico per la rimozione di un tumore ai polmoni, un'operazione seguita con attenzione dal Vaticano e dai media internazionali per le condizioni di salute del Pontefice.",
   "zf71f599f": "Il primo turno delle elezioni 2026 si è già svolto, con un tasso di astensione del 22,5% a San Paolo; gli elettori che non hanno votato al primo turno potranno farlo al secondo, previsto per il 25 ottobre, quando si terranno anche elezioni complementari per sindaco in sette città.",
   "z4166c42e": "Il caso di Ilaria Salis, insegnante e attivista italiana, era finito sotto i riflettori per vicende giudiziarie legate a un procedimento in cui era stata condannata, con contestazioni sulla regolarità delle notifiche degli atti. La difesa aveva sollevato dubbi sulla diligenza degli ufficiali giudiziari e su licenziamenti di collaboratori legati al caso, chiedendo l'annullamento della sentenza.",
-  "z627c40ca": "Ekrem Imamoglu, ex sindaco di Istanbul e principale rivale del presidente Erdogan, è coinvolto da mesi in procedimenti giudiziari considerati dall'opposizione a sfondo politico. Il governo turco ha intensificato negli ultimi tempi le pressioni sui media critici, con sequestri e amministrazioni controllate imposte a testate ritenute vicine all'opposizione, in un contesto di crescente tensione tra esecutivo e stampa libera.",
   "zd1bea0b2": "Dopo gli attacchi statunitensi e israeliani contro l'Iran a febbraio, la regione ha visto un'escalation che si è estesa ad altre aree del Medio Oriente, spingendo diversi paesi, tra cui Pakistan e Oman, a intensificare gli sforzi diplomatici per una de-escalation.",
   "z2695b54b": "In Francia la fine del secondo mandato di Emmanuel Macron, previsto per il 2027, ha aperto una fase di crescente instabilità politica, con governi di minoranza e un Parlamento frammentato dopo le elezioni anticipate del 2024. In questo contesto, le forze agli estremi dello spettro politico, guidate da Marine Le Pen a destra e Jean-Luc Mélenchon a sinistra, hanno progressivamente rafforzato il proprio consenso nei sondaggi.",
   "za4d8112f": "La forza di interposizione Unifil opera nel Libano meridionale dal 1978 con il compito di monitorare il cessate il fuoco tra Israele e Hezbollah, un ruolo tornato centrale dopo l'escalation del conflitto degli ultimi anni. Il mandato della missione, che conta circa 7.500 militari da quasi 50 Paesi, è soggetto a rinnovo periodico da parte del Consiglio di sicurezza dell'Onu, in un contesto di fragile stabilità regionale.",
-  "z4e14ab60": "In Albania le tensioni politiche e sociali si sono intensificate nelle ultime settimane, con proteste dell'opposizione e di settori della società civile contro il governo in carica. Le manifestazioni, spesso concentrate nella capitale Tirana, erano già state segnate in passato da momenti di tensione con le forze dell'ordine, in un clima di crescente polarizzazione politica nel Paese.",
   "z7826dc3c": "Le proteste a Tirana sono scoppiate dopo settimane di tensione politica e sociale legata a provvedimenti governativi contestati e al malcontento economico diffuso. Nei giorni precedenti si erano già registrate manifestazioni sporadiche, ma la giornata odierna ha visto un'escalation improvvisa con l'arrivo di migliaia di dimostranti nelle strade centrali della capitale, portando a scontri diretti con le forze dell'ordine schierate per contenere la folla.",
   "zacb91346": "Le proteste di Tirana, iniziate pacificamente nelle ore centrali della giornata, si sono progressivamente estese a diverse zone della città man mano che i manifestanti si spostavano. Il malcontento, alimentato da tensioni politiche e sociali accumulate nelle ultime settimane, ha portato a episodi di crescente violenza, con gruppi di dimostranti che hanno raggiunto aree periferiche come Zogu i Zi dopo gli scontri iniziali nel centro città.",
   "z87b7e330": "Nel corso della giornata di proteste a Tirana, segnata da scontri e tensioni diffuse nelle strade della capitale, si sono verificati anche episodi isolati di autocontrollo tra i manifestanti stessi. Mentre gruppi più radicali tentavano di colpire mezzi delle forze dell'ordine e dei servizi pubblici, altri dimostranti sono intervenuti per impedire atti di vandalismo, segno di una protesta non del tutto omogenea nei metodi e negli obiettivi.",
   "zdab8a709": "L'inflazione USA era tornata a salire già ad agosto, dopo mesi di relativa stabilità, complice il rincaro dell'energia legato alle tensioni in Medio Oriente e al conflitto con l'Iran, che ha spinto al rialzo i prezzi del petrolio. La Federal Reserve aveva mantenuto i tassi fermi nelle ultime riunioni, monitorando l'impatto dei dazi commerciali e dei costi energetici sui prezzi al consumo.",
   "zcd5f6586": "Dalla metà di settembre violente alluvioni hanno colpito ampie zone della Thailandia, provocando danni estesi alle infrastrutture e almeno 71 morti. Diverse case automobilistiche, tra cui Toyota, hanno dovuto fermare temporaneamente alcuni stabilimenti produttivi nel Paese, generando timori per le ricadute sulla catena di fornitura regionale dell'industria automobilistica del Sud-est asiatico.",
-  "zddf73de0": "Il Cile sta attraversando l'inizio della primavera australe, periodo in cui fenomeni meteorologici estremi, come temporali intensi e grandinate, colpiscono periodicamente la regione metropolitana di Santiago. Le autorità locali monitorano costantemente le previsioni per gestire eventuali emergenze legate ad allagamenti e danni alle infrastrutture urbane, comprese le reti di trasporto pubblico della capitale.",
   "z53cb83d7": "Il Liverpool ha affrontato la seconda giornata della fase a gironi della Champions League 2025-26 in trasferta contro il Lask Linz, club austriaco esordiente in una partita casalinga europea di questo livello. Dopo una prima giornata di campionato continentale che ha visto risultati contrastanti per le big europee, la squadra inglese cercava continuità di risultati per consolidare la propria posizione nel nuovo format a girone unico della competizione.",
   "ze66873f7": "Il caso riguarda Solomon Asamoah, ex amministratore delegato del Fondo di investimento per le infrastrutture del Ghana, accusato di responsabilità in una presunta perdita finanziaria di due milioni di dollari legata al progetto ferroviario Sky Train. L'Alta Corte aveva precedentemente stabilito che Asamoah dovesse presentare le proprie difese nel procedimento, decisione contro cui l'ex dirigente aveva presentato ricorso dinanzi alla Corte Suprema del Ghana.",
   "zbaccf475": "A luglio il movimento aveva già ottenuto la dimissione del ministro dell'Educazione dopo settimane di proteste, dimostrando la propria capacità di incidere sulla politica nazionale.",
   "zbafc459b": "Il movimento dei liceali francesi è nato a fine settembre 2026 come protesta pacifica e si è progressivamente trasformato in una mobilitazione nazionale su larga scala per chiedere migliori condizioni nelle scuole.",
   "z5e7ed416": "Nella notte di Capodanno un incendio nel bar 'Le Constellation' a Crans-Montana, in Svizzera, ha causato la morte di 41 persone, scatenando indagini su responsabilità e sicurezza del locale. Da allora le autorità elvetiche conducono accertamenti su vittime, testimoni e coinvolti, mentre emergono progressivamente dettagli sulle conseguenze legali e assicurative per le persone presenti quella notte.",
   "zaed2a820": "Il movimento è nato a fine settembre 2026 come protesta pacifica limitata e si è progressivamente estesa, coinvolgendo decine di migliaia di studenti in tutto il Paese nelle settimane successive.",
-  "z980b39bb": "Dopo le elezioni svedesi, i negoziati per formare un nuovo governo si sono rivelati complessi, con diversi partiti divisi su alleanze e priorità politiche. Magdalena Andersson, già ex premier socialdemocratica, aveva ricevuto l'incarico di tentare la formazione di un esecutivo, ma le trattative tra i partiti non hanno portato a un accordo, rendendo necessario un nuovo giro di consultazioni parlamentari.",
   "z7be33c35": "La crisi attorno al Tribunale Costituzionale polacco dura da anni, legata alla contestata nomina di giudici sotto il governo PiS. Dopo il cambio di maggioranza, il governo Tusk ha più volte denunciato l'illegittimità di alcuni membri del Tribunale, tra cui Bogdan Święczkowski, alimentando tensioni istituzionali culminate in episodi di blocco fisico dell'accesso alle sedi dei giudici.",
   "z13699323": "I rapporti tra Budapest e Kiev si sono deteriorati negli ultimi anni a causa del veto ungherese sugli aiuti UE all'Ucraina, delle tensioni sulla minoranza ungherese in Transcarpazia e delle divergenze su sanzioni e negoziati di pace. Il premier Orbán ha spesso ostacolato l'integrazione europea di Kiev, mentre Péter Magyar, leader dell'opposizione ungherese, ha assunto posizioni più favorevoli al dialogo con l'Ucraina.",
   "z62466007": "Nei giorni precedenti un gruppo di giudici legati all'ex maggioranza PiS ha tentato di rientrare fisicamente nella sede del Tribunale Costituzionale polacco, in un contesto di scontro aperto sulla legittimità della sua composizione. L'episodio ha provocato minacce nei confronti di alcuni magistrati, spingendo le autorità a intervenire per garantirne la sicurezza personale tramite il Servizio di Protezione dello Stato.",
@@ -40779,24 +40306,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "I dati dell'Organizzazione marittima internazionale confermano l'affondamento di entrambe le navi nell'arco di 24 ore"
    ]
   ],
-  "s1a2b3c02": [
-   [
-    "Maggio 2026",
-    "Iniziano in Albania le proteste anticorruzione contro il governo Rama"
-   ],
-   [
-    "Fine settembre 2026",
-    "Gli studenti universitari si uniscono alle manifestazioni con richieste su costi e prospettive di lavoro"
-   ],
-   [
-    "Martedì 13 ottobre",
-    "Le proteste continuano nelle strade di Tirana"
-   ],
-   [
-    "Mercoledì 14 ottobre",
-    "I cortei assaltano più ministeri e il Parlamento, incendiando il ministero della Giustizia"
-   ]
-  ],
   "z61b46483": [
    [
     "giorni scorsi",
@@ -40815,42 +40324,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "ottobre",
     "Il movimento si estende a tutto il Paese"
-   ]
-  ],
-  "zb1783986": [
-   [
-    "fine settembre",
-    "Primi cortei studenteschi contro l'aumento delle tasse universitarie"
-   ],
-   [
-    "prime settimane di ottobre",
-    "Nuove accuse di corruzione nel sistema universitario alimentano la rabbia popolare"
-   ],
-   [
-    "giorni scorsi",
-    "Il governo non risponde alle richieste di dialogo degli studenti"
-   ],
-   [
-    "oggi",
-    "Le proteste degenerano in incendi e scontri con la polizia a Tirana"
-   ]
-  ],
-  "z49a5313f": [
-   [
-    "2022",
-    "SpaceX inizia a fornire Starlink alle forze ucraine"
-   ],
-   [
-    "ultimi mesi",
-    "Crescenti tensioni su controllo e condizioni d'uso del servizio"
-   ],
-   [
-    "giorni scorsi",
-    "Modifiche tecniche introdotte senza preavviso da parte USA"
-   ],
-   [
-    "oggi",
-    "Kiev denuncia pubblicamente il danno causato alle sue capacità difensive"
    ]
   ],
   "zfde1d859": [
@@ -41079,16 +40552,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Sospese le trasmissioni radio della BBC"
    ]
   ],
-  "z5fadc14d": [
-   [
-    "Giorni scorsi",
-    "Attacchi russi contro l'Ucraina senza preallarme secondo Kiev"
-   ],
-   [
-    "14 ottobre",
-    "Zelensky incontra il premier britannico, l'Europa promette sostegno"
-   ]
-  ],
   "zc7069dd5": [
    [
     "ultimi mesi",
@@ -41109,16 +40572,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "previsto il ballottaggio tra i candidati"
    ]
   ],
-  "zaa408914": [
-   [
-    "giorni scorsi",
-    "attacchi russi intensi contro la rete elettrica ucraina"
-   ],
-   [
-    "ultimi due giorni",
-    "mancati preallarmi missilistici a Kyiv"
-   ]
-  ],
   "zd9e8be05": [
    [
     "giugno 2026",
@@ -41135,20 +40588,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "oggi",
     "Diffusi dati su almeno dieci navi colpite dalla domenica"
-   ]
-  ],
-  "za4092d6f": [
-   [
-    "settimane scorse",
-    "Prime manifestazioni studentesche contro i costi universitari"
-   ],
-   [
-    "giorni scorsi",
-    "Proteste si allargano al progetto Kushner"
-   ],
-   [
-    "oggi",
-    "Incendio alla sede del ministero dell'Istruzione, oltre 20 feriti"
    ]
   ],
   "z4ef0a91f": [
@@ -41289,20 +40728,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Il ministro Wadephul avverte sull'escalation nel Mar Nero"
    ]
   ],
-  "z7616c404": [
-   [
-    "settembre 2026",
-    "Segnalazioni di interferenze su petroliere nello Stretto di Hormuz"
-   ],
-   [
-    "inizio ottobre",
-    "Aumento delle minacce contro navi mercantili nella regione"
-   ],
-   [
-    "13-14 ottobre",
-    "Affondamento di navi vicino allo Stretto di Hormuz"
-   ]
-  ],
   "z61c845b1": [
    [
     "anni recenti",
@@ -41319,16 +40744,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "14 ottobre",
     "Annuncio della scoperta come relitto più antico mai trovato"
-   ]
-  ],
-  "zb82c4804": [
-   [
-    "martedì",
-    "intervento chirurgico per rimuovere un tumore polmonare"
-   ],
-   [
-    "mercoledì",
-    "dichiarazioni del Vaticano sul buon andamento della convalescenza"
    ]
   ],
   "zf71f599f": [
@@ -41367,20 +40782,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "14 ottobre",
     "Pubblicazione delle motivazioni della sentenza"
-   ]
-  ],
-  "z627c40ca": [
-   [
-    "Primi mesi dell'anno",
-    "Avvio di procedimenti giudiziari contro Imamoglu"
-   ],
-   [
-    "Settimane scorse",
-    "Nuove udienze nel processo contro l'ex sindaco"
-   ],
-   [
-    "14 ottobre",
-    "Polizia sospende Halk TV il giorno della testimonianza"
    ]
   ],
   "zcd5f6586": [
@@ -41423,34 +40824,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "14 ottobre",
     "Visita di Lacroix in vista della scadenza del mandato"
-   ]
-  ],
-  "zddf73de0": [
-   [
-    "Giorni scorsi",
-    "Previsioni meteo segnalano instabilità sulla capitale cilena"
-   ],
-   [
-    "14 ottobre",
-    "Grandinata e piogge torrenziali colpiscono Santiago"
-   ],
-   [
-    "14 ottobre",
-    "Dichiarata allerta rossa nella regione metropolitana"
-   ]
-  ],
-  "z4e14ab60": [
-   [
-    "Settimane scorse",
-    "Avvio di proteste dell'opposizione a Tirana"
-   ],
-   [
-    "Giorni scorsi",
-    "Crescita della tensione tra manifestanti e polizia"
-   ],
-   [
-    "14 ottobre",
-    "Scontri con lanci di pietre e molotov contro la polizia"
    ]
   ],
   "z7826dc3c": [
@@ -41639,20 +41012,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "oggi",
     "Jessica Moretti chiede indennità all'assicurazione infortuni"
-   ]
-  ],
-  "z980b39bb": [
-   [
-    "settimane scorse",
-    "Elezioni svedesi senza maggioranza chiara"
-   ],
-   [
-    "giorni scorsi",
-    "Andersson riceve l'incarico di formare il governo"
-   ],
-   [
-    "oggi",
-    "Fallisce il primo tentativo di Andersson"
    ]
   ],
   "z7be33c35": [
@@ -41956,32 +41315,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     }
    ],
    "divergono": "BBC News riporta la versione iraniana secondo cui la nave sarebbe affondata dopo aver urtato \"mine navali\", mentre Cyprus Mail e Kurdistan24 parlano genericamente di colpi da \"proiettili\" senza menzionare la tesi delle mine. The Straits Times si concentra sui dati aggregati degli attacchi (dieci navi, picco di sei in un giorno) citando Vanguard, dato assente negli altri articoli. Cyprus Mail e Kurdistan24 sono gli unici a riportare la morte di un membro dell'equipaggio sulla Cape Dao. Middle East Eye e Süddeutsche Zeitung, non essendo leggibili per intero, non permettono un confronto completo."
-  },
-  "s1a2b3c02": {
-   "voci": [
-    {
-     "n": "Euronews Albania",
-     "c": "Tirana",
-     "p": "XX",
-     "t": "Nel primo articolo racconta un assalto diffuso a più obiettivi: Ministero della Giustizia colpito con pietre e molotov, dopo attacchi a Ministero dell'Economia, Parlamento, Primo Ministero e alcuni negozi privati. Riporta lanci di lacrimogeni della polizia e spostamenti dei manifestanti lungo il boulevard, con incendi vicino alla Piramide e alle Torri Gemelle.",
-     "b": "a"
-    },
-    {
-     "n": "Euronews Albania",
-     "c": "Tirana",
-     "p": "XX",
-     "t": "Il secondo pezzo è un occhiello breve, testo non leggibile: segnala l'arrivo della polizia con autobotte dopo l'incendio al Ministero della Giustizia e il lancio di fuochi d'artificio contro gli agenti. Il giudizio su questo articolo è parziale, basato solo su titolo e occhiello.",
-     "b": "a"
-    },
-    {
-     "n": "Euronews Albania",
-     "c": "Tirana",
-     "p": "XX",
-     "t": "Nel terzo articolo descrive l'intervento delle forze speciali 'Shqiponja' per scortare i manifestanti, dopo il vandalismo di un centro commerciale vicino al Parlamento con vetrine rotte. Riferisce lanci di pietre e molotov contro gli agenti e incendi proseguiti attorno al Parlamento e alla fortezza di Tirana.",
-     "b": "a"
-    }
-   ],
-   "divergono": "Le tre notizie, tutte di Euronews Albania, non si contraddicono ma ampliano progressivamente il quadro: la prima si concentra sugli attacchi a più ministeri, la seconda (non leggibile per intero) si limita all'arrivo della polizia al Ministero della Giustizia, la terza aggiunge il dettaglio del vandalismo a un centro commerciale e l'intervento delle forze speciali. Non emergono cifre o responsabilità divergenti, trattandosi della stessa fonte che segue l'evolversi degli eventi nel tempo."
   }
  },
  "luoghi": {
@@ -44768,13 +44101,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "zf2af688e": {
-   "n": "Australia Meridionale",
-   "p": [
-    "Australia"
-   ],
-   "pt": []
-  },
   "z4301b633": {
    "n": "Australia",
    "p": [
@@ -46985,13 +46311,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z5892dcbe": {
-   "n": "Zurigo",
-   "p": [
-    "Switzerland"
-   ],
-   "pt": []
-  },
   "zf6aae06e": {
    "n": "Città di Panama",
    "p": [
@@ -48776,13 +48095,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "s1a2b3c02": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
   "s1a2b3c03": {
    "n": "Los Gatos",
    "p": [
@@ -48871,13 +48183,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "s1a2b3c12": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -49035,20 +48340,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "zb1783986": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
-  "z9d725e52": {
-   "n": "Kenya",
-   "p": [
-    "Kenya"
-   ],
-   "pt": []
-  },
   "z63120da8": {
    "n": "Golfo Persico",
    "p": [
@@ -49161,13 +48452,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z5c12083f": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z4f757665": {
    "n": "Tulcea",
    "p": [
@@ -49242,13 +48526,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Senegal",
    "p": [
     "Senegal"
-   ],
-   "pt": []
-  },
-  "z49a5313f": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -49890,13 +49167,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z5fadc14d": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z582cdc67": {
    "n": "Moshi",
    "p": [
@@ -49929,13 +49199,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Amburgo",
    "p": [
     "Germany"
-   ],
-   "pt": []
-  },
-  "zaa408914": {
-   "n": "Kyiv",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -50003,24 +49266,10 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "za4092d6f": {
-   "n": "Albania",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
   "z90d33a83": {
    "n": "Ho Chi Minh City",
    "p": [
     "Vietnam"
-   ],
-   "pt": []
-  },
-  "zec6d50e2": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal"
    ],
    "pt": []
   },
@@ -50102,13 +49351,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Vilnius",
    "p": [
     "Lithuania"
-   ],
-   "pt": []
-  },
-  "z4aadcfec": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -50263,13 +49505,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z7616c404": {
-   "n": "Stretto di Hormuz",
-   "p": [
-    "Iran"
-   ],
-   "pt": []
-  },
   "z770ad2bd": {
    "n": "Provincia di Pyongan del Sud",
    "p": [
@@ -50360,11 +49595,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "p": [
     "United States of America"
    ],
-   "pt": []
-  },
-  "zb82c4804": {
-   "n": "Città del Vaticano",
-   "p": [],
    "pt": []
   },
   "za38b3d53": {
@@ -50504,13 +49734,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z627c40ca": {
-   "n": "Istanbul",
-   "p": [
-    "Turkey"
    ],
    "pt": []
   },
@@ -50717,13 +49940,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "zddf73de0": {
-   "n": "Santiago del Cile",
-   "p": [
-    "Chile"
-   ],
-   "pt": []
-  },
   "zfdf201cb": {
    "n": "Pavia",
    "p": [
@@ -50812,13 +50028,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Wellington",
    "p": [
     "New Zealand"
-   ],
-   "pt": []
-  },
-  "z4e14ab60": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
    ],
    "pt": []
   },
@@ -51030,13 +50239,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z32daf013": {
-   "n": "Lens",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z13289ea8": {
    "n": "Orléans",
    "p": [
@@ -51138,13 +50340,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Francia",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "z980b39bb": {
-   "n": "Svezia",
-   "p": [
-    "Sweden"
    ],
    "pt": []
   },
@@ -51285,13 +50480,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Santa Cruz",
    "p": [
     "Bolivia"
-   ],
-   "pt": []
-  },
-  "z4cdf3429": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -51580,13 +50768,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z6ee063bc": {
-   "n": "Seul",
-   "p": [
-    "South Korea"
-   ],
-   "pt": []
-  },
   "ze12c0d34": {
    "n": "Chennai",
    "p": [
@@ -51609,13 +50790,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "pt": []
   },
   "zf88426cf": {
-   "n": "Taiwan",
-   "p": [
-    "Taiwan"
-   ],
-   "pt": []
-  },
-  "zcbccb8e3": {
    "n": "Taiwan",
    "p": [
     "Taiwan"
@@ -52204,7 +51378,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z553f0660": 2,
   "z90946b13": 2,
   "z334f9eda": 2,
-  "zf2af688e": 1,
   "z4301b633": 1,
   "za1755909": 2,
   "zc83b5204": 1,
@@ -52530,7 +51703,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zbe875735": 1,
   "z17de91a7": 1,
   "z03d097bd": 1,
-  "z5892dcbe": 1,
   "zf6aae06e": 1,
   "zd7e7b9fc": 1,
   "zb8b6405a": 1,
@@ -52783,7 +51955,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z4d1c1044": 1,
   "z71a934df": 1,
   "s1a2b3c01": 2,
-  "s1a2b3c02": 2,
   "s1a2b3c03": 2,
   "s1a2b3c05": 2,
   "s1a2b3c08": 2,
@@ -52791,8 +51962,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "s1a2b3c10": 2,
   "s1a2b3c11": 2,
   "s1a2b3c1a": 2,
-  "zb1783986": 2,
-  "z9d725e52": 1,
   "z63120da8": 1,
   "z61b46483": 2,
   "zb7c90157": 1,
@@ -52811,7 +51980,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z53cb83d7": 2,
   "zc34dfc12": 1,
   "za23fcc81": 1,
-  "z5c12083f": 1,
   "z4f757665": 1,
   "z0ab02117": 1,
   "z56ba925c": 1,
@@ -52823,7 +51991,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z2513b11d": 1,
   "zb0ad5929": 1,
   "z9483fbad": 1,
-  "z49a5313f": 2,
   "z6db2a1df": 1,
   "z769744e8": 1,
   "z0229f78b": 1,
@@ -52919,13 +52086,11 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "ze2a50002": 1,
   "z1880b935": 2,
   "zd227423e": 2,
-  "z5fadc14d": 2,
   "z582cdc67": 1,
   "z440c8849": 1,
   "zc7069dd5": 2,
   "z1bac7091": 2,
   "zfadb62e1": 1,
-  "zaa408914": 2,
   "z070d75e5": 1,
   "zfeebf15d": 1,
   "z7e5ed6a1": 1,
@@ -52935,9 +52100,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zed1ad545": 1,
   "zc96250ca": 1,
   "zd9e8be05": 2,
-  "za4092d6f": 2,
   "z90d33a83": 1,
-  "zec6d50e2": 1,
   "zc547733e": 1,
   "za0513e55": 1,
   "z02ebd530": 1,
@@ -52949,7 +52112,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zce1361fc": 1,
   "z3afe29fe": 1,
   "zc4e9cc33": 1,
-  "z4aadcfec": 1,
   "z9ca1042b": 1,
   "zf52c93b6": 2,
   "zbe10f600": 2,
@@ -52972,7 +52134,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "za127ba61": 2,
   "ze8c53c46": 1,
   "za6f3b4ff": 1,
-  "z7616c404": 2,
   "z770ad2bd": 1,
   "zbb82abf0": 1,
   "za659bcd2": 1,
@@ -52986,7 +52147,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z19b52b02": 1,
   "z322b442b": 1,
   "z8224cd8a": 1,
-  "zb82c4804": 2,
   "za38b3d53": 1,
   "z262ae089": 1,
   "z28670b89": 1,
@@ -53007,7 +52167,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z7a539d13": 1,
   "zf163cccb": 1,
   "z4166c42e": 2,
-  "z627c40ca": 2,
   "z65957400": 1,
   "z57931c01": 1,
   "zac9f6c54": 1,
@@ -53037,7 +52196,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z07c53f1e": 1,
   "z35b94478": 1,
   "z15c6192f": 1,
-  "zddf73de0": 2,
   "zfdf201cb": 1,
   "z3f2d6fb8": 1,
   "zf8d928f3": 1,
@@ -53051,7 +52209,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z36168813": 1,
   "zbd922a82": 1,
   "zcdd4584f": 1,
-  "z4e14ab60": 2,
   "z7826dc3c": 2,
   "zacb91346": 2,
   "z87b7e330": 2,
@@ -53082,7 +52239,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zbafc459b": 2,
   "z7de8128c": 2,
   "z2009736a": 1,
-  "z32daf013": 1,
   "z13289ea8": 1,
   "zc3f61cd7": 1,
   "z7726d951": 1,
@@ -53098,7 +52254,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zb1c0b32e": 1,
   "z5e7ed416": 2,
   "zaed2a820": 2,
-  "z980b39bb": 2,
   "z29a19be6": 1,
   "z7be33c35": 2,
   "zeab55028": 1,
@@ -53120,7 +52275,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z5bb57031": 1,
   "z0944736a": 1,
   "z3b2dc8e0": 1,
-  "z4cdf3429": 1,
   "zea81cac7": 1,
   "zc53ef69b": 1,
   "z59e1fbe1": 1,
@@ -53162,12 +52316,10 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zbb3ddbff": 1,
   "z6c6f5560": 1,
   "z07b89e70": 1,
-  "z6ee063bc": 1,
   "ze12c0d34": 1,
   "ze8d5604e": 1,
   "z033ef229": 1,
   "zf88426cf": 1,
-  "zcbccb8e3": 1,
   "zf9753447": 1,
   "z96e724b5": 1,
   "zfc4600a1": 1,
