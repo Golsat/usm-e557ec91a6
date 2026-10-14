@@ -3,6 +3,1207 @@ window.EDIZIONI["2026-10-14-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z33569e30",
+   "sez": "mondo",
+   "titolo": "In Haiti il processo democratico si blocca a causa del dominio delle gang",
+   "orig": "En Haïti, le processus démocratique s'effondre face à l'emprise des gangs",
+   "lead": "Ad Haiti le elezioni presidenziali sono state nuovamente rinviate a causa dell'insicurezza persistente e del controllo esercitato dalle gang armate sul territorio. Il voto, inizialmente previsto per il 2021 in seguito all'assassinio del presidente Jovenel Moïse, continua a subire slittamenti che paralizzano il processo democratico del Paese caraibico. La situazione rende estremamente complessa la pianificazione di qualsiasi consultazione elettorale. Lo riferisce France 24.",
+   "more": [
+    "Haiti si trova ad affrontare una grave crisi politica e di sicurezza acuita dall'instabilità istituzionale e dalla forte presenza di gruppi criminali organizzati che controllano vaste aree della capitale e del Paese, ostacolando il normale svolgersi della vita civile e democratica."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261014-en-ha%C3%AFti-le-processus-d%C3%A9mocratique-s-effondre-face-%C3%A0-l-emprise-des-gangs",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-14T13:47+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z9c75ce56",
+   "sez": "economia",
+   "titolo": "Il governo federale tedesco istituisce la commissione per le strutture di cura",
+   "orig": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
+   "lead": "Il governo federale tedesco ha concordato l'istituzione della commissione per le strutture di cura, con l'obiettivo di elaborare soluzioni per una vasta riforma del settore assistenziale. Al centro del lavoro degli esperti vi sono la gestione dei costi a carico dei singoli assistiti, il bilanciamento sociale e la sostenibilità finanziaria a lungo termine. Lo riferisce Tagesschau.",
+   "more": [
+    "Il sistema di assistenza e cura degli anziani in Germania affronta importanti sfide legate all'aumento dei costi per le famiglie e alla copertura finanziaria pubblica, richiedendo interventi strutturali da parte delle istituzioni federali."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-14T14:55+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z96125f63",
+   "sez": "economia",
+   "titolo": "Il governo tedesco intende tassare le bevande zuccherate da luglio 2027",
+   "orig": "Bundesregierung will zuckerhaltige Getränke ab Juli 2027 besteuern",
+   "lead": "Il governo federale tedesco ha annunciato l'intenzione di introdurre una tassa sulle bevande zuccherate a partire dal mese di luglio del 2027. La misura mira a intervenire sul consumo di prodotti ad alto contenuto di zucchero nell'ambito delle politiche sanitarie e fiscali del Paese. Lo riferisce Tagesschau.",
+   "more": [
+    "L'introduzione di imposte specifiche sulle bevande zuccherate rappresenta uno strumento utilizzato da diversi governi per disincentivare il consumo di zuccheri e promuovere abitudini alimentari più salutari tra i cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1666100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-14T16:21+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z970dad3d",
+   "sez": "salute",
+   "titolo": "Diagnosticato un tumore al polmone a Papa Leone XIV",
+   "orig": "Bei Papst Leo XIV. wurde Lungenkrebs festgestellt",
+   "lead": "Al Papa Leone XIV è stato diagnosticato un tumore al polmone. La notizia sulle condizioni di salute del Pontefice è stata resa nota attraverso i canali di informazione. Lo riferisce Tagesschau.",
+   "more": [
+    "Le diagnosi di patologie oncologiche polmonari richiedono accertamenti clinici approfonditi e percorsi di cura specifici gestiti da équipes mediche specializzate."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1666102.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-14T16:27+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zf7d86e7a",
+   "sez": "economia",
+   "titolo": "Previste nuove case in affitto secondo l'Ordine dei Contabili",
+   "orig": "\"Vão surgir novas casas para arrendar\", prevê a Bastonária dos Contabilistas",
+   "lead": "Il nuovo Regime Semplificato di Affitto Accessibile avrà un impatto significativo sul mercato delle locazioni, favorendo la nascita di nuove abitazioni destinate all'affitto. A esprimerlo è Paula Franco, presidente dell'Ordine dei Contabili, evidenziando le potenzialità della misura per il settore immobiliare. Lo riferisce RTP.",
+   "more": [
+    "Il mercato degli affitti in Portogallo è al centro di dibattiti economici e normativi volti a facilitare l'accesso alla casa per i cittadini e a incrementare l'offerta di immobili disponibili."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/vao-surgir-novas-casas-para-arrendar-preve-a-bastonaria-dos-contabilistas_a1771614",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z5884c3f3",
+   "sez": "economia",
+   "titolo": "Il paniere alimentare torna a salire e supera i 256 euro nell'ultima settimana",
+   "orig": "Cabaz alimentar volta a subir e ultrapassa 256 euros na última semana",
+   "lead": "Il costo del paniere alimentare composto da 63 beni essenziali monitorato dall'associazione di difesa dei consumatori Deco Proteste è aumentato di settanta centesimi nell'ultima settimana, raggiungendo quota 256,26 euro. Lo rileva l'associazione di categoria. Lo riferisce RTP.",
+   "more": [
+    "Il monitoraggio dei beni di prima necessità consente di tracciare l'andamento dell'inflazione percepita dai consumatori e l'impatto del carovita sui bilanci familiari."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/cabaz-alimentar-volta-a-subir-e-ultrapassa-256-euros-na-ultima-semana_n1771652",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z4e2fa754",
+   "sez": "cultura",
+   "titolo": "Nina Simone e David Bowie in una scultura sonora al Guggenheim",
+   "orig": "Nina Simone e Bowie em escultura sonora no Guggenheim",
+   "lead": "L'artista Steve McQueen ha realizzato un dialogo tra la voce di Nina Simone e quella di David Bowie partendo dalle rispettive interpretazioni del brano 'Wild is the wind'. L'opera consiste in una scultura sonora installata all'interno del museo Guggenheim. Lo riferisce RTP.",
+   "more": [
+    "Il museo Guggenheim ospita regolarmente installazioni artistiche contemporanee che uniscono linguaggi visivi e sonori, creando esperienze immersive per i visitatori."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/cultura/nina-simone-e-bowie-em-escultura-sonora-no-guggenheim_v1771647",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T15:51+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zded54034",
+   "sez": "mondo",
+   "titolo": "La famiglia di Ivana Smit non otterrà alcun risarcimento né una nuova indagine in Malaysia",
+   "orig": "Familie Ivana Smit krijgt geen schadevergoeding, ook geen nieuw onderzoek in Maleisië",
+   "lead": "Le autorità della Malaysia non dovranno pagare alcun risarcimento ai genitori di Ivana Smit, la modella olandese deceduta nel 2017. Una corte d'appello ha ribaltato la precedente sentenza che aveva riconosciuto gravi errori nelle indagini della polizia. I legali della famiglia parlano di un duro colpo e di una nuova dolorosa delusione. Lo riferisce NOS.",
+   "more": [
+    "Il caso della morte della modella olandese Ivana Smit ha sollevato negli anni interrogativi sulla conduzione delle indagini giudiziarie e di polizia in Malaysia, attivando lunghi procedimenti legali transnazionali."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2634954",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-14T16:27+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0bccee0f",
+   "sez": "cultura",
+   "titolo": "Trovata in un negozio dell'usato a Bornem una vasca decorata della figlia di Picasso",
+   "orig": "Vaas van dochter Picasso gevonden in Kringwinkel Bornem: \"Zeldzame vintage vondst\"",
+   "lead": "Una ceramica realizzata da Paloma Picasso, figlia di Pablo Picasso, è stata scoperta nel negozio di seconda mano di Bornem. L'oggetto risale agli anni Novanta e veniva impiegato all'epoca per promuovere una fragranza firmata da Paloma. Il pezzo sarà messo all'asta online dalla stessa struttura. Lo riferisce VRT NWS.",
+   "more": [
+    "I negozi di seconda mano e i mercatini dell'usato possono riservare scoperte inattese di oggetti d'arte e design legati a grandi firme o a personaggi celebri del passato."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/14/vaas-van-kleindochter-picasso-paloma-picasso-in-kringwinkel-bo.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-14T15:18+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z7267af91",
+   "sez": "economia",
+   "titolo": "I concerti di Harry Styles hanno spinto l'inflazione nei Paesi Bassi",
+   "orig": "Concerten Harry Styles wakkerden inflatie in Nederland aan",
+   "lead": "I concerti tenuti da Harry Styles nel mese di maggio nei Paesi Bassi hanno contribuito a spingere al rialzo l'inflazione nazionale. Secondo uno studio della Banca Centrale dei Paesi Bassi, l'afflusso di fan stranieri giunti per l'unica tappa europea del tour nel Paese ha generato una forte domanda di biglietti e di pernottamenti alberghieri. Lo riferisce VRT NWS.",
+   "more": [
+    "I grandi eventi musicali e i concerti internazionali di artisti di fama globale possono generare significativi impatti economici locali, influenzando i prezzi del settore turistico e ricettivo."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/14/concerten-harry-styles-wakkerden-inflatie-in-nederland-aan.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-14T15:15+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z1ff0a47d",
+   "sez": "mondo",
+   "titolo": "Soluzione vicina per la situazione di pericolo al ponte ciclabile di Sint-Niklaas",
+   "orig": "Oplossing in zicht voor gevaarlijke situatie aan fietsbrug in Sint-Niklaas: Woonst koopt achterliggend terrein",
+   "lead": "La situazione di pericolo legata al ponte ciclabile di Nieuwe Molenstraat a Sint-Niklaas potrebbe risolversi grazie all'acquisto di un terreno retrostante da parte della società di edilizia residenziale Woonst. L'area dell'ex deposito di bevande sarà utilizzata per realizzare abitazioni, offrendo un accesso alternativo ai proprietari di alcuni garage finora raggiungibili soltanto attraverso il ponte per biciclette. Lo riferisce VRT NWS.",
+   "more": [
+    "La riqualificazione urbana e la pianificazione di nuovi spazi residenziali consentono spesso di risolvere criticità logistiche e problemi di sicurezza viaria per i residenti locali."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/14/sint-niklaas-woonst-aankoop-drankencentrale-dullaert-garageboxen.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-14T15:11+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zdf63ade9",
+   "sez": "mondo",
+   "titolo": "Sovraffollamento e carenza di personale nella prigione di Malines",
+   "orig": "Overbevolking, drugs, personeelstekort: VRT NWS Pano schetst rauwe realiteit in meest overbevolkte gevangenis van Vlaanderen",
+   "lead": "Un reportage giornalistico realizzato all'interno del carcere di Malines ha evidenziato le condizioni della struttura di detenzione fiamminga, caratterizzata da gravi problemi di sovraffollamento, diffusione di droga e carenza di personale. La struttura ospita circa centocinquanta detenuti a fronte di una capienza ufficiale di ottantaquattro posti. Lo riferisce VRT NWS.",
+   "more": [
+    "Le condizioni delle istituzioni penitenziarie e la gestione del sovraffollamento carcerario rappresentano una tematica centrale nei dibattiti sulla giustizia e sui diritti umani in Europa."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/14/pano-gevangenis-mechelen-overbevolkt.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-14T15:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z1199b818",
+   "sez": "cultura",
+   "titolo": "Il Cactus Club di Auderghem chiude dopo quarant'anni di attività",
+   "orig": "Cactus Club in Oudergem sluit na 40 jaar: \"Feesten in discotheek is uit de mode\"",
+   "lead": "Il celebre locale notturno Cactus Club di Auderghem chiuderà definitivamente i battenti il 2 gennaio, dopo quarant'anni di storia. Il gestore Philippe Harlet ha spiegato che la decisione è motivata dalla volontà di interrompere l'attività all'apice del successo, considerando poco favorevoli le prospettive future per le discoteche tradizionali. Lo riferisce VRT NWS.",
+   "more": [
+    "Il settore dei locali notturni e delle discoteche affronta da anni profonde trasformazioni nelle abitudini di intrattenimento del pubblico, portando alla chiusura di storici punti di aggregazione giovanile."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/14/cactus-club-in-oudergem-sluit-na-40-jaar-de-deuren.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-14T14:56+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zcb357e0b",
+   "sez": "economia",
+   "titolo": "Calo del 42% dei piccoli pacchi postali all'aeroporto di Liegi dopo l'introduzione della tassa",
+   "orig": "Luchthaven Luik krijgt 42 procent minder kleine pakjes sinds invoering pakjestaks",
+   "lead": "L'aeroporto di Liegi ha registrato una diminuzione del quarantadue percento nel volume di piccoli pacchi postali in arrivo da quando è entrata in vigore la nuova tassa sulle spedizioni all'inizio del mese di luglio. Lo ha reso noto la direzione dello scalo merci belga, precisando che il volume complessivo del traffico cargo è comunque rimasto stabile. Lo riferisce VRT NWS.",
+   "more": [
+    "L'introduzione di nuove imposizioni fiscali sulle spedizioni commerciali di modesto valore incide direttamente sui flussi della logistica internazionale e del commercio elettronico transfrontaliero."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/14/luchthaven-luik-krijgt-42-procent-minder-kleine-pakjes-sinds-inv.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-14T14:51+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zba676013",
+   "sez": "cultura",
+   "titolo": "Nuova trasposizione cinematografica per 'Ragione e sentimento' di Jane Austen",
+   "orig": "Jane Austen für eine neue Generation",
+   "lead": "A oltre trent'anni dalla celebre versione cinematografica di Ang Lee, la regista Georgia Oakley firma un nuovo adattamento del classico letterario 'Ragione e sentimento' di Jane Austen. Il film punta su una prospettiva femminile e su un giovane cast composto da Esme Creed-Miles e Daisy Edgar-Jones. Lo riferisce ORF.",
+   "more": [
+    "I romanzi di Jane Austen continuano a ispirare riletture e adattamenti per il cinema e la televisione, offrendo nuove chiavi di lettura alle tematiche sentimentali e sociali dell'epoca Regency."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3444859/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-14T14:59+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za62b1f42",
+   "sez": "mondo",
+   "titolo": "Presentata la nuova maggioranza rosso-verde ad Alingsås dopo lo scandalo delle chat",
+   "orig": "Efter chattskandalen i Alingsås: Så blir nya rödgröna styret",
+   "lead": "È stato presentato un nuovo accordo di maggioranza politica nella municipalità svedese di Alingsås, formato dai partiti socialdemocratico, di sinistra, ambientalista e centrista. L'intesa arriva a distanza di un anno e mezzo dallo scandalo politico legato a conversazioni via chat che aveva coinvolto esponenti locali. Lo riferisce SVT Nyheter.",
+   "more": [
+    "Le crisi politiche locali generate da fughe di notizie o comportamenti inappropriati nei canali di comunicazione interna dei partiti richiedono spesso riassetti e nuove alleanze di governo."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/lokalt/vast/efter-chattskandalen-i-alingsas-sa-blir-nya-rodgrona-styret",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-14T17:01+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zbb69174a",
+   "sez": "sport",
+   "titolo": "Stagione finita per Amin Boudri dell'Hammarby a causa di un infortunio al ginocchio",
+   "orig": "Hammarbys besked: Amin Boudri missar resten av säsongen",
+   "lead": "Il calciatore Amin Boudri dovrà rinunciare al resto della stagione agonistica dopo essere stato sottoposto a un intervento chirurgico al ginocchio. La notizia è stata comunicata dalla società sportiva svedese dell'Hammarby attraverso i propri canali ufficiali, rappresentando un ulteriore problema per la squadra dopo la recente sconfitta nel derby cittadino. Lo riferisce SVT Nyheter.",
+   "more": [
+    "Gli infortuni ai legamenti e le conseguenti operazioni chirurgiche rappresentano eventi critici nella carriera dei calciatori professionisti, costringendoli a lunghi periodi di recupero lontano dai campi da gioco."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/sport/fotboll/hammarbys-besked-amin-bodri-missar-resten-av-sasongen",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-14T16:29+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z19637e67",
+   "sez": "economia",
+   "titolo": "Timori sindacali per l'aumento della pressione lavorativa nell'azienda sanitaria Vestre Viken",
+   "orig": "Tillitsvalgt frykter høyere arbeidspress",
+   "lead": "Il disavanzo di bilancio dell'azienda sanitaria norvegese Vestre Viken è destinato a raggiungere circa un miliardo di corone nell'anno in corso, superando ampiamente le previsioni iniziali fissate a seicento milioni. I rappresentanti sindacali esprimono forte preoccupazione per il conseguente incremento del carico di lavoro per il personale sanitario. Lo riferisce NRK.",
+   "more": [
+    "I deficit finanziari nelle strutture sanitarie pubbliche comportano spesso riorganizzazione dei servizi e maggiori pressioni operative sugli operatori del settore medico e infermieristico."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/buskerud/underskuddet-i-vestre-viken-naermer-seg-en-milliard-1.18054437",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-14T14:16+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z2cc125d0",
+   "sez": "mondo",
+   "titolo": "I protagonisti della serie TV2 'Il profeta di Bærum' intraprendono un'azione legale",
+   "orig": "«Profeten i Bærum» tar TV 2 til retten",
+   "lead": "Le figure centrali del documentario televisivo norvegese intitolato 'Kollaps – profeten i Bærum' hanno deciso di avviare un'azione legale contro l'emittente TV 2 il giorno successivo alla messa in onda della prima puntata. I ricorrenti contestano la veridicità della rappresentazione televisiva, lamentando presunte violazioni di accordi, manipolazioni e l'uso di telecamere nascoste. L'emittente difende il lavoro giornalistico svolto. Lo riferisce NRK.",
+   "more": [
+    "I prodotti d'inchiesta e i documentari televisivi incentrati su comunità religiose o gruppi chiusi sollevano spesso contenziosi legali relativi ai diritti d'immagine, alla privacy e alla correttezza deontologica delle riprese."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/vestfoldogtelemark/_profeten-i-baerum_-tar-tv-2-til-retten-1.18054856",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-14T13:06+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z098cd093",
+   "sez": "mondo",
+   "titolo": "Maltempo e forti raffiche di vento colpiscono le Isole Faroe",
+   "orig": "Vonskuveður í Færeyjum",
+   "lead": "Le Isole Faroe sono state investite da condizioni meteorologiche estreme a causa dello stesso sistema di bassa pressione che ha colpito l'Islanda. A Tórshavn i venti hanno superato i venti metri al secondo, mentre nei pressi di Fuglafirði si sono verificate frane che hanno reso necessaria la chiusura temporanea delle strade durante le operazioni di pulizia. L'emittente pubblica locale Kringvarpið ha inoltre annunciato la sospensione dei collegamenti marittimi con i traghetti a causa della perturbazione. Lo riferisce RÚV.",
+   "more": [
+    "Le Isole Faroe sono un arcipelago situato nell'oceano Atlantico settentrionale, tra la Scozia, l'Islanda e la Norvegia. Fanno parte del Regno di Danimarca ma godono di un ampio autogoverno. La regione è notoriamente esposta a forti venti oceanici e a condizioni climatiche particolarmente mutevoli e rigide durante tutto l'anno."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-14-vonskuvedur-i-faereyjum-489905/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-14T14:21+00:00"
+    },
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-14-fjukandi-thok-og-talsvert-tjon-a-siglufirdi-489900/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-14T14:21+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z1d8d6247",
+   "sez": "mondo",
+   "titolo": "Auto della polizia scambiate per vere durante le riprese di una serie tv",
+   "orig": "„Af hverju ertu á svona ljótum bíl?“",
+   "lead": "Durante le riprese della serie televisiva 'Dagbók lögreglu', la troupe ridotta ha tratto in inganno diversi passanti, che non si sono resi conto di trovarsi di fronte a una produzione cinematografica. Gli autori Katrín Halldóra Sigurðardóttir e Ólaf Ásgeirsson hanno raccontato che la vettura utilizzata sembrava una vera e propria vecchia auto della polizia. In un'occasione, un gruppo di adolescenti si è affiancato agli attori a bordo del veicolo chiedendo ironicamente il motivo di un'auto così brutta. Lo riferisce RÚV.",
+   "more": [
+    "Le produzioni televisive e cinematografiche che utilizzano ambientazioni urbane reali ricorrono spesso a veicoli di scena che riproducono fedelmente quelli istituzionali, generando occasionalmente malintesi tra i cittadini non informati sulle attività delle troupe."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-10-14-af-hverju-ertu-a-svona-ljotum-bil-489811/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-14T14:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z45fcbe07",
+   "sez": "mondo",
+   "titolo": "Arrestato un uomo per la vendita online di documenti d'identità falsi a centinaia di minori",
+   "orig": "Einn handtekinn fyrir að selja hundruðum ungmenna fölsuð skilríki",
+   "lead": "La polizia di Reykjavík ha arrestato una persona nell'ambito di un'indagine sulla vendita di documenti d'identità elettronici falsificati rivolta a centinaia di minori. Il sospettato avrebbe utilizzato siti web e un'applicazione per smartphone per distribuire i falsi documenti. Oltre trecento giovani avrebbero scaricato l'app, la quale includeva una configurazione VPN che permetteva a soggetti estranei di monitorare e alterare il traffico di rete degli utenti. Lo riferisce RÚV.",
+   "more": [
+    "Le truffe informatiche e la vendita di documenti digitali contraffatti tramite applicazioni mobili e configurazioni di rete non autorizzate rappresentano una sfida crescente per le autorità investigative impegnate nella tutela dei minori online."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-14-einn-handtekinn-fyrir-ad-selja-hundrudum-ungmenna-folsud-skilriki-489899/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-14T14:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z3ed74f39",
+   "sez": "mondo",
+   "titolo": "Rischio di liste d'attesa più lunghe per la sanità islandese se mancano fondi nella legge di bilancio",
+   "orig": "Hætta á lengri biðlistum ef ekki fæst meira fé í fjárlögum",
+   "lead": "La proposta di bilancio statale islandese per il 2027 prevede una spesa complessiva di 1.765 miliardi di corone, puntando a un bilancio in pareggio con un margine molto ridotto. Di conseguenza, diverse istituzioni che hanno richiesto finanziamenti aggiuntivi potrebbero non vedere accolte le proprie richieste. Tra queste figura il Landspítali, il cui stanziamento previsto è di quasi 123 miliardi di corone, una cifra ritenuta insufficiente a far fronte all'aumento demografico e all'invecchiamento della popolazione secondo la direzione. Lo riferisce RÚV.",
+   "more": [
+    "Il Landspítali è il principale ospedale universitario dell'Islanda, situato a Reykjavík, e costituisce il fulcro del sistema sanitario nazionale del Paese nordico."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-14-haetta-a-lengri-bidlistum-ef-ekki-faest-meira-fe-i-fjarlogum-489848/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-14T13:42+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zcb233bd0",
+   "sez": "mondo",
+   "titolo": "L'Iran cerca di alzare il prezzo del petrolio per creare difficoltà a Trump",
+   "orig": "Íranar reyna að hækka olíuverð til að pirra Trump",
+   "lead": "Il governo iraniano ha adottato una nuova strategia nei confronti delle imbarcazioni in transito nello Stretto di Hormuz con l'obiettivo dichiarato di sostenere i prezzi del petrolio e mettere in difficoltà il presidente degli Stati Uniti Donald Trump in vista delle elezioni del mese prossimo. Secondo quanto riferito da funzionari di alto livello a Reuters, la nuova linea di condotta prevede l'individuazione e la contestazione delle navi ritenute in violazione delle normative di navigazione locali. Lo riferisce RÚV.",
+   "more": [
+    "Lo Stretto di Hormuz è uno dei passaggi marittimi strategici più importanti al mondo per il commercio internazionale del petrolio, collegando il Golfo Persico con il Golfo di Oman e il Mar Arabico."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-14-iranar-reyna-ad-haekka-oliuverd-til-ad-pirra-trump-489893/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-14T13:33+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z68015cc9",
+   "sez": "mondo",
+   "titolo": "Crolla parte del soffitto di un tunnel alla Camera dei Deputati brasiliana",
+   "orig": "Parte do teto de túnel da Câmara desabou nesta quarta-feira",
+   "lead": "Una porzione dell'intonaco del soffitto del cosiddetto 'tunnel del tempo', il corridoio che collega l'Annesso II al Salone Verde della Camera dei Deputati a Brasilia, è crollata durante la notte di mercoledì. Non si registrano feriti e l'area di passaggio è stata chiusa al pubblico e ai dipendenti. Le squadre di ingegneria sono intervenute per i lavori di riparazione, mentre l'ufficio stampa ha confermato che non sono stati riscontrati danni alla struttura principale dell'edificio. Lo riferisce Agência Brasil.",
+   "more": [
+    "La Camera dei Deputati del Brasile ha sede a Brasilia e fa parte del Congresso Nazionale, un complesso architettonico progettato da Oscar Niemeyer, noto per le sue linee moderniste."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-14T11:23-03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z55686b41",
+   "sez": "mondo",
+   "titolo": "Enamed 2026: disponibile il tesserino con le sedi per la ripetizione dell'esame medico",
+   "orig": "Enamed 2026: cartão que confirma reaplicação está disponível",
+   "lead": "I partecipanti all'Esame Nazionale di Valutazione della Formazione Medica 2026 le cui richieste di ripetizione sono state autorizzate dall'Inep possono consultare il tesserino di conferma con gli indirizzi delle sedi d'esame per la prova prevista per domenica in tutto il Paese. La consultazione è disponibile all'interno del portale dedicato ai partecipanti. La sessione straordinaria è riservata esclusivamente ai candidati che non hanno potuto sostenere la prova regolare a causa di problemi documentati. Lo riferisce Agência Brasil.",
+   "more": [
+    "L'Enamed è l'esame nazionale brasiliano volto a valutare la formazione dei professionisti nel settore medico, garantendo standard qualitativi uniformi per l'esercizio della professione sanitaria."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/enamed-2026-cartao-que-confirma-reaplicacao-esta-disponivel",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-14T11:18-03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z7ebc2804",
+   "sez": "mondo",
+   "titolo": "La Commissione Costituzionale del Senato brasiliano approva la PEC sulla sicurezza pubblica",
+   "orig": "CCJ do Senado conclui votação da PEC da Segurança Pública",
+   "lead": "La Commissione Costituzionale e di Giustizia del Senato brasiliano ha concluso la votazione sulla proposta di emendamento costituzionale riguardante la sicurezza pubblica, che passa ora all'esame dell'aula plenaria. Il testo, proposto dal potere esecutivo, introduce pene più severe e regimi di detenzione rigorosi per i capi di fazioni criminali e milizie, oltre a definire un nuovo patto federativo per contrastare la criminalità. Lo riferisce Agência Brasil.",
+   "more": [
+    "Il sistema legislativo brasiliano prevede che le proposte di emendamento costituzionale (PEC) debbano superare l'esame di commissioni specifiche e l'approvazione in doppia lettura nei rami del Parlamento prima della promulgazione."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-14T10:57-03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za10a1abd",
+   "sez": "mondo",
+   "titolo": "L'Anvisa vieta la commercializzazione di integratori alimentari di origine sconosciuta",
+   "orig": "Anvisa proíbe suplementos alimentares de origem desconhecida",
+   "lead": "L'Agenzia Nazionale di Sorveglianza Sanitaria brasiliana ha disposto il sequestro di tutti i prodotti realizzati dall'azienda PSM Pennaforte Produtos Naturais, inclusi gli integratori alimentari. Un'ispezione locale condotta a Marataízes ha rivelato che l'indirizzo registrato dalla società corrisponde a un'abitazione privata, priva di qualsiasi struttura commerciale autorizzata. L'ente ha ricordato che tali articoli non possono essere fabbricati, importati né distribuiti. Lo riferisce Agência Brasil.",
+   "more": [
+    "L'Anvisa è l'organismo di regolamentazione sanitaria del Brasile, incaricato di controllare la sicurezza e la qualità di farmaci, alimenti e prodotti medicali sul mercato nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-suplementos-alimentares-de-origem-desconhecida",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-14T10:28-03:00"
+    },
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-14T10:44-03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zdbc526f6",
+   "sez": "mondo",
+   "titolo": "La Tunisia partecipa alla fiera COITM 2026 di Pechino per promuovere il turismo",
+   "orig": "La Tunisie au salon COITM 2026 à Pékin pour promouvoir son offre touristique",
+   "lead": "L'Ente Nazionale Tunisiano per il Turismo partecipa alla fiera turistica China Outbound and Inbound Tourism Market a Pechino, in corso dal 14 al 16 ottobre. L'iniziativa rientra nella strategia volta ad accrescere la visibilità della destinazione nordafricana sul mercato cinese e a intensificare la cooperazione bilaterale nel settore dei viaggi e dell'accoglienza. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Il mercato turistico cinese rappresenta uno dei settori di maggiore espansione a livello globale, spingendo numerose destinazioni internazionali a partecipare a fiere di settore in Asia per attrarre visitatori."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/la-tunisie-au-salon-coitm-2026-a-pekin-pour-promouvoir-son-offre-touristique/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T12:42+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z9e3cac91",
+   "sez": "mondo",
+   "titolo": "Tunisia: in arrivo una piattaforma digitale unica per le procedure amministrative",
+   "orig": "Tunisie : bientôt un accès unique aux démarches administratives",
+   "lead": "La Presidenza del Governo tunisino sta completando l'implementazione di una piattaforma elettronica per lo scambio di dati tra le diverse strutture pubbliche. Il sistema mira a garantire la condivisione automatizzata e sicura delle informazioni tra le amministrazioni, evitando a cittadini e imprese di dover presentare ripetutamente la stessa documentazione cartacea. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "La digitalizzazione dei servizi pubblici e l'interoperabilità tra banche dati statali costituiscono strumenti chiave per la semplificazione burocratica e la riduzione dei tempi di attesa per l'utenza."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/tunisie-bientot-un-acces-unique-aux-demarches-administratives/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T12:26+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z7aabb71e",
+   "sez": "mondo",
+   "titolo": "A Nabeul si celebra la tradizionale festa della harissa dal 30 ottobre al 1° novembre",
+   "orig": "Nabeul célèbre la harissa du 30 octobre au 1er novembre 2026",
+   "lead": "La città tunisina di Nabeul ospiterà la nuova edizione del Festival della harissa dal 30 ottobre al 1° novembre. L'evento, organizzato lungo l'avenue Habib-Bourguiba e presso la sede dell'associazione 'Dar Nabeul', offrirà un programma che unisce esposizioni commerciali, spettacoli culturali e attività tradizionali dedicate al celebre condimento locale. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Nabeul è una città costiera della Tunisia celebre per la produzione artigianale di ceramiche e per la lavorazione della harissa, la tipica pasta di peperoncino piccante riconosciuta patrimonio culturale immateriale."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/nabeul-celebre-la-harissa-du-30-octobre-au-1er-novembre-2026/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T12:18+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zbf700b97",
+   "sez": "mondo",
+   "titolo": "Dodici ricercatori tunisi inclusi nella classifica mondiale Stanford-Elsevier",
+   "orig": "Top 2% Scientists 2026 en IA et informatique: Moez Krichen et 11 chercheurs tunisiens distingués",
+   "lead": "Dodici studiosi affiliati a istituzioni universitarie tunisine sono stati inseriti nell'edizione 2026 della classifica internazionale Stanford-Elsevier che individua il due percento dei migliori scienziati al mondo. Tra questi figura Moez Krichen, della Scuola Nazionale di Ingegneri di Sfax, che si è distinto a livello globale nel settore dell'intelligenza artificiale e dell'elaborazione delle immagini. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "La classifica Stanford-Elsevier valuta annualmente l'impatto scientifico dei ricercatori a livello globale basandosi sulle citazioni bibliografiche verificate in vari campi accademici."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/top-2-scientists-2026-en-ia-moez-krichen-et-11-chercheurs-tunisiens-distingues/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T11:57+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zfff6bfe1",
+   "sez": "mondo",
+   "titolo": "Preoccupazione per le scarse condizioni igieniche al mercato di frontiera di Kasindi-Lubirigha",
+   "orig": "L’insalubrité du marché frontalier de Kasindi-Lubirigha inquiète commerçants et clients",
+   "lead": "I commercianti del mercato centrale di Kasindi-Lubirigha, situato nella zona di Beni al confine tra la Repubblica Democratica del Congo e l'Uganda, hanno lanciato un allarme riguardo al degrado igienico del sito commerciale. Gli operatori denunciano la presenza di rifiuti accumulati, acqua stagnante e la carenza di servizi igienici pubblici, fattori che danneggiano le attività economiche e allontanano i clienti. Lo riferisce Radio Okapi.",
+   "more": [
+    "I mercati transfrontalieri nell'Africa centrale rivestono un ruolo cruciale per il commercio locale, ma spesso soffrono di carenze infrastrutturali croniche nella gestione dei rifiuti e dei servizi igienico-sanitari."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/actualite/environnement/linsalubrite-du-marche-frontalier-de-kasindi-lubirigha-inquiete",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T13:56+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zcc75fb55",
+   "sez": "mondo",
+   "titolo": "L'erosione del suolo minaccia il complesso scolastico Tubondo a Mbuji-Mayi",
+   "orig": "L’érosion menace le complexe scolaire Tubondo à Mbuji-Mayi et perturbe les cours",
+   "lead": "Il complesso scolastico Tubondo, che comprende istituti cattolici nella municipalità di Kanshi a Mbuji-Mayi, nel Kasaï-Oriental, è gravemente minacciato dall'avanzamento di diversi burroni provocati dall'erosione. I comitati dei genitori e le direzioni scolastiche hanno segnalato i danni ingenti causati dalle recenti piogge e dai venti violenti, che stanno compromettendo il regolare svolgimento delle lezioni. Lo riferisce Radio Okapi.",
+   "more": [
+    "Il fenomeno dell'erosione profonda del suolo e la formazione di grandi voragini rappresentano una grave calamità ambientale in diverse aree urbane della Repubblica Democratica del Congo."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/actualite/societe/lerosion-menace-le-complexe-scolaire-tubondo-mbuji-mayi-et-perturbe-les",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T13:40+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z2eeb197a",
+   "sez": "mondo",
+   "titolo": "Allarme delle autorità sanitarie sulle malattie non trasmissibili nella popolazione congolese",
+   "orig": "Les Maladies Non Transmissibles : Des tueurs silencieux",
+   "lead": "Patologie come il diabete, l'ipertensione e l'obesità continuano a diffondersi in modo silenzioso nella popolazione, evolvendosi lentamente prima di manifestarsi con gravi complicazioni. Secondo i dati diffusi dall'Organizzazione Mondiale della Sanità, circa il trenta percento dei cittadini congolesi soffrirebbe di pressione alta, mentre una percentuale significativa della popolazione urbana di Kinshasa sarebbe affetta da diabete. Lo riferisce Radio Okapi.",
+   "more": [
+    "Le malattie non trasmissibili costituiscono una sfida prioritaria per i sistemi sanitari globali, richiedendo interventi di prevenzione e diagnosi precoce anche nei Paesi in via di sviluppo."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/emissions/okapi-service/les-maladies-non-transmissibles-des-tueurs-silencieux",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T13:24+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z8ad19803",
+   "sez": "mondo",
+   "titolo": "Dakar si prepara ad accogliere la prima edizione africana dei Giochi Olimpici Giovanili",
+   "orig": "JOJ « Dakar 2026 », le pari de l’héritage",
+   "lead": "Il trentuno ottobre la città di Dakar darà il via ai Giochi Olimpici Giovanili, un evento sportivo storico per il continente africano. Fino al tredici novembre le competizioni si svolgeranno in vari impianti dislocati tra Dakar, Diamniadio e Saly, riunendo duecentosettanta atleti di età compresa tra i quindici e i diciassette anni provenienti da tutto il mondo. Lo riferisce Le Soleil.",
+   "more": [
+    "I Giochi Olimpici Giovanili rappresentano una manifestazione multidisciplinare di rilievo internazionale promossa dal CIO per incoraggiare i giovani alla pratica sportiva e ai valori olimpici."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/joj-dakar-2026-le-pari-de-lheritage/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-14T15:02+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z55f6170a",
+   "sez": "mondo",
+   "titolo": "L'Associazione delle giuriste senegalesi ottiene lo status di osservatore presso la Commissione africana",
+   "orig": "Droits humains : l’AJS obtient le statut d’observateur auprès de la Commission africaine",
+   "lead": "L'Associazione delle giuriste senegalesi ha ottenuto lo status di osservatore presso la Commissione africana dei diritti dell'uomo e dei popoli. Il riconoscimento, ufficializzato durante l'ottantanovesima sessione dell'organismo in corso a Dakar fino al ventuno ottobre, rappresenta un importante traguardo per l'impegno dell'organizzazione nella tutela dei diritti fondamentali. Lo riferisce Le Soleil.",
+   "more": [
+    "La Commissione africana dei diritti dell'uomo e dei popoli è l'organo di controllo dell'Unione Africana incaricato di promuovere e proteggere i diritti umani in tutto il continente."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/societe-fait-divers/justice-societe-fait-divers/droits-humains-lajs-obtient-le-statut-dobservateur-aupres-de-la-commission-africaine/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-14T14:14+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z357e86e6",
+   "sez": "mondo",
+   "titolo": "Senegal: fissata al quindici ottobre la ripresa delle attività didattiche nei centri coranici Daara",
+   "orig": "Daara : la reprise des enseignements fixée au 15 octobre",
+   "lead": "Il Ministero dell'Educazione Nazionale senegalese ha annunciato la ripresa delle attività di insegnamento in oltre mille istituti coranici beneficiari del Progetto di miglioramento delle prestazioni del sistema educativo. La disposizione, contenuta in una circolare ministeriale, stabilisce l'avvio ufficiale dei corsi per l'anno scolastico in corso. Lo riferisce Le Soleil.",
+   "more": [
+    "I 'daara' sono scuole coraniche tradizionali diffuse in Senegal che svolgono un ruolo fondamentale nell'educazione religiosa e di base di molti giovani locali."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/education/daara-la-reprise-des-enseignements-fixee-au-15-octobre/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-14T13:33+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z02c3d8c1",
+   "sez": "mondo",
+   "titolo": "Nazioni Unite: promuovere il commercio globale a beneficio delle popolazioni vulnerabili",
+   "orig": "Traduire l’ambition en action: faire en sorte que le commerce profite aux plus vulnérables( par Xiangchen Zhang) (par",
+   "lead": "A metà del percorso previsto dal Programma d'azione di Doha delle Nazioni Unite, l'attenzione della comunità internazionale si concentra sugli obiettivi commerciali decennali fissati per sostenere il ruolo dei Paesi meno sviluppati nel commercio globale entro il duemilatrenta. Gli sforzi congiunti mirano a tradurre le ambizioni programmatiche in interventi concreti per la crescita economica delle aree più svantaggiate. Lo riferisce Le Soleil.",
+   "more": [
+    "Il Programma d'azione di Doha è un'iniziativa internazionale decennale volta a supportare lo sviluppo economico sostenibile dei Paesi meno avanzati attraverso il commercio e la cooperazione globale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/opinions/tribune-dexpert/traduire-lambition-en-action-faire-en-sorte-que-le-commerce-profite-aux-plus-vulnerables-par-xiangchen-zhang-par/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-14T13:16+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z86515c3c",
+   "sez": "mondo",
+   "titolo": "Proteste nelle scuole francesi contro la carenza di docenti e il degrado degli edifici",
+   "orig": "France’s students are angry about more than crumbling classrooms and missing teachers",
+   "lead": "Le recenti manifestazioni e i blocchi stradali organizzati dagli studenti delle scuole superiori in Francia riflettono una profonda preoccupazione per il futuro professionale delle nuove generazioni. Le proteste, nate per denunciare la cronica carenza di insegnanti, il sovraffollamento delle classi e il degrado strutturale degli edifici scolastici, mettono in luce il disagio giovanile verso le prospettive economiche e sociali del Paese. Lo riferisce The Guardian.",
+   "more": [
+    "Il sistema di istruzione secondaria in Francia è storicamente caratterizzato da una forte mobilitazione studentesca e sindacale legata alle condizioni materiali degli istituti e alle riforme scolastiche."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/14/french-students-are-not-just-protesting-for-better-schools-but-for-their-future",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T14:29+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zccd2a892",
+   "sez": "mondo",
+   "titolo": "Escludere il Regno Unito dalla legge 'Made in Europe' danneggerebbe l'industria automobilistica",
+   "orig": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
+   "lead": "L'esclusione del Regno Unito dalla normativa industriale europea 'Made in Europe' rappresenterebbe una scelta deliberata capace di danneggiare l'intero settore automobilistico del blocco comunitario. A dirlo è il presidente dell'Associazione dei Costruttori Europei di Automobili e vertice di Mercedes-Benz, avvertendo che una simile restrizione finirebbe per indebolire la competitività industriale su entrambi i lati della Manica. Lo riferisce The Guardian.",
+   "more": [
+    "L'industria automobilistica europea è fortemente integrata attraverso catene di approvvigionamento transnazionali che coinvolgono strettamente anche il mercato britannico."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T13:57+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zd45eca3d",
+   "sez": "mondo",
+   "titolo": "Menopausa, cade il tabù ma la metà delle donne continua a nasconderla",
+   "orig": "Menopausa, il tabù cade ma la metà delle donne la nasconde ancora",
+   "lead": "In occasione della giornata mondiale dedicata all'argomento, emerge che sebbene i pregiudizi sulla menopausa stiano gradualmente diminuendo, circa la metà delle donne tende ancora a nascondere questa fase della propria vita. I dati evidenziano inoltre che soltanto una donna su dieci segue una terapia medica prescritta per affrontare i sintomi correlati. Lo riferisce ANSA.",
+   "more": [
+    "La menopausa è una fase fisiologica della vita femminile caratterizzata dalla cessazione del ciclo mestruale e da mutamenti ormonali che possono influire sul benessere psicofisico."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/14/menopausa-il-tabu-cade-ma-la-meta-delle-donne-la-nasconde-ancora_677e6ed5-37ac-48d7-9a78-0c7235f53e99.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T14:29+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z2b3460aa",
+   "sez": "mondo",
+   "titolo": "Trump in Alaska: 'Votate il vero Dan Sullivan alle elezioni di metà mandato'",
+   "orig": "Trump in Alaska: 'Votate il vero Dan Sullivan alle elezioni di metà mandato'",
+   "lead": "Durante un comizio politico in Alaska, l'ex presidente statunitense Donald Trump ha esortato gli elettori a sostenere il candidato repubblicano Dan Sullivan in vista delle prossime elezioni di metà mandato. Trump ha messo in guardia i sostenitori contro la presenza di un presunto falso candidato omonimo sostenuto dai democratici, definendolo un imbroglio politico. Lo riferisce ANSA.",
+   "more": [
+    "Le elezioni di metà mandato negli Stati Uniti rinnovano il Congresso federale e rappresentano un importante test di gradimento per l'amministrazione in carica e per i leader politici nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/10/14/trump-in-alaska-votate-il-vero-dan-sullivan-alle-elezioni-di-meta-mandato_840b7762-af95-4f5c-a5c7-d8bb2b0a5e39.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T17:03+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z7b531d93",
+   "sez": "salute",
+   "titolo": "L'intelligenza artificiale conquista la sfera emotiva: i medici dei Serd avvisano sui rischi di dipendenza",
+   "orig": "L'IA conquista la sfera emotiva, medici dei Serd: 'C'è rischio di dipendenza'",
+   "lead": "La diffusione di piattaforme basate sull'intelligenza artificiale in grado di interagire sul piano emotivo con gli utenti solleva nuovi interrogativi tra gli specialisti dei servizi per le dipendenze. I medici dei Serd sottolineano che la principale sfida tecnologica odierna consiste nella capacità di questi sistemi di costruire relazioni interpersonali simulate sempre più profonde, introducendo il rischio concreto di forme di dipendenza psicologica. Lo riferisce ANSA.",
+   "more": [
+    "I Servizi per le Dipendenze (Serd) sono strutture pubbliche italiane dedicate alla prevenzione, cura e riabilitazione delle dipendenze patologiche, sia da sostanze che comportamentali."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/14/lia-conquista-la-sfera-emotiva-medici-dei-serd-ce-rischio-di-dipendenza_14edad18-ab64-4c63-aa6b-41ff7edd9386.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T15:38+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z543d12d9",
+   "sez": "economia",
+   "titolo": "Netflix annuncia il taglio di mille posti di lavoro a causa del rallentamento della crescita",
+   "orig": "Netflix to cut 1,000 jobs as growth concerns mount",
+   "lead": "La piattaforma di streaming video Netflix ha annunciato l'intenzione di eliminare circa mille posti di lavoro nel quadro di una riorganizzazione aziendale dovuta al rallentamento della crescita. Il gruppo affronta crescenti pressioni per incrementare il livello di coinvolgimento degli utenti, in un contesto in cui il valore delle azioni ha registrato una flessione superiore al quaranta percento nel corso dell'ultimo anno. Lo riferisce Financial Times.",
+   "more": [
+    "Il mercato dello streaming globale ha subito una fase di forte saturazione e competizione, spingendo le principali aziende del settore a rivedere le proprie strategie economiche e occupazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T14:57+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/netflix-pregateste-cel-mai-mare-val-de-concedieri-din-ultimii-ani-dupa-ce-s-a-scufundat-pe-bursa-2376076",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-14T15:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z689eb0cc",
+   "sez": "economia",
+   "titolo": "Berkshire Hathaway investe altri 330 milioni nella società tecnologica Bending Spoons",
+   "orig": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
+   "lead": "La holding guidata dal gestore finanziario del Nebraska, Berkshire Hathaway, ha incrementato la propria partecipazione nella società tecnologica Bending Spoons con un investimento aggiuntivo di trecentotrenta milioni di dollari. In seguito alla notizia della maggiore esposizione finanziaria del conglomerato proprietario di marchi come AOL e Vimeo, le azioni della società hanno registrato un balzo superiore al cinquanta percento. Lo riferisce Financial Times.",
+   "more": [
+    "Berkshire Hathaway è una delle holding di investimento più grandi al mondo, nota per le sue partecipazioni strategiche in aziende di rilievo globale guidate da una visione di lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T14:37+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z20b0a399",
+   "sez": "economia",
+   "titolo": "Esperti economici: rimuovere le clausole di non concorrenza per liberare i lavoratori",
+   "orig": "Unshackle workers from non-compete clauses",
+   "lead": "Le restrizioni contrattuali sulla mobilità professionale continuano a frenare la crescita economica e l'innovazione tecnologica nel Regno Unito. Secondo le analisi economiche, la presenza di vincoli di non concorrenza impedisce ai dipendenti di trasferirsi liberamente tra diverse aziende, limitando la circolazione delle competenze e penalizzando la competitività complessiva del sistema produttivo britannico. Lo riferisce Financial Times.",
+   "more": [
+    "Le clausole di non concorrenza sono accordi di lavoro che limitano la capacità di un dipendente di lavorare per un concorrente o di avviare un'attività simile dopo la cessazione del rapporto d'impiego."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/3c23e59b-f4c9-4837-b534-ec19fb77a0c8?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T14:04+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z8ce1d902",
+   "sez": "mondo",
+   "titolo": "Analisi economica: viviamo in un'era dominata dai piccoli attori geopolitici anziché dai giganti",
+   "orig": "This is an era of Davids, not Goliaths",
+   "lead": "Il panorama geopolitico ed economico contemporaneo evidenzia una tendenza in cui le nazioni o le entità di minori dimensioni riescono a contrastare e limitare con successo il potere dei grandi colossi statali. Le dinamiche globali mostrano come strategie agili e mirate possano sovvertire i tradizionali rapporti di forza internazionali, inaugurando una fase storica definita come l'era dei piccoli protagonisti. Lo riferisce Financial Times.",
+   "more": [
+    "Le relazioni internazionali moderne vedono spesso Stati di medie dimensioni o coalizioni flessibili esercitare un'influenza sproporzionata rispetto alle superpotenze tradizionali grazie all'innovazione e alla diplomazia economica."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/9af2b0d0-e31f-46e8-9041-36b37a9cd3ba?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T13:52+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zb5e4f908",
+   "sez": "mondo",
+   "titolo": "La Procura di Belgrado apre un fascicolo per verificare la condotta della polizia",
+   "orig": "Studio live: Ko laže tužilaštvo?",
+   "lead": "La Terza Procura di Base di Belgrado ha istituito un fascicolo d'indagine specifico volto ad accertare la sussistenza di eventuali responsabilità o violazioni procedurali da parte degli agenti di polizia durante lo svolgimento delle loro funzioni. L'iniziativa giudiziaria mira a fare chiarezza sulla correttezza delle operazioni condotte dalle forze dell'ordine locali. Lo riferisce N1 Serbia.",
+   "more": [
+    "Il sistema giudiziario della Serbia prevede procure specializzate incaricate di supervisionare la legalità delle azioni compiute dai funzionari pubblici e dalle forze di polizia."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/najave-emisija/studio-live-ko-laze-tuzilastvo/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-14T17:20+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
    "id": "z0cf7f444",
    "sez": "economia",
    "titolo": "Il KRG ribadisce la quota del 14,14% della popolazione nel bilancio federale iracheno 2027",
@@ -1747,30 +2948,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zf1fcd14b",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV: massimo riserbo al Gemelli dopo l'intervento",
-   "orig": "Papa, riserbo Gemelli dopo l'operazione",
-   "lead": "Papa Leone XIV si trova attualmente ricoverato presso il Policlinico Gemelli di Roma a seguito di un intervento chirurgico. L'ospedale mantiene il più stretto riserbo sulle condizioni di salute del pontefice e non sono stati rilasciati bollettini ufficiali dettagliati. Il cappellano della struttura ha invitato i fedeli alla preghiera per sostenere il Papa durante questo delicato decorso post-operatorio. La Santa Sede monitora la situazione in attesa di ulteriori aggiornamenti ufficiali. Lo riferisce Rai News.",
-   "more": [
-    "Il Policlinico Universitario Agostino Gemelli è una struttura sanitaria d'eccellenza a Roma, storicamente nota per ospitare i pontefici durante i loro ricoveri. Dispone di un intero appartamento riservato alla Santa Sede al decimo piano, attrezzato per garantire cure mediche avanzate e la necessaria riservatezza ai Capi della Chiesa Cattolica."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/papa-riserbo-gemelli-dopo-loperazione-85d34e0f-f368-45e6-ba3f-9a5927060116.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T13:00+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
    "id": "z718a268d",
    "sez": "mondo",
    "titolo": "L'Unione Europea eroga 2,8 miliardi di euro in aiuti all'Ucraina",
@@ -2395,6 +3572,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-14T15:02+02:00"
+    },
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/papa/news/2026-10/leonexiv-ricovero-piazzasanpietro-preghiere-fedeli.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-14T14:39+02:00"
     }
    ],
    "data": "14 ott",
@@ -2419,30 +3605,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-14T14:54+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
-   "id": "zddda62ed",
-   "sez": "mondo",
-   "titolo": "Preghiere e messaggi di affetto per Papa Leone XIV da piazza San Pietro",
-   "orig": "Le preghiere dei fedeli per Leone XIV da piazza San Pietro: \"Torna presto tra noi!\"",
-   "lead": "Nel corso della Messa presieduta dal cardinale Luis Antonio Tagle a conclusione dell'incontro per il decennale dell'esortazione apostolica Amoris laetitia, fedeli provenienti da tutto il mondo si sono uniti in preghiera per la salute del Papa. Durante la celebrazione è stata espressa la speranza che il Pontefice possa presto lasciare il Policlinico Gemelli, dove è stato operato, per riprendere gli incontri pubblici e le attività pastorali. Lo riferisce Vatican News (italiano).",
-   "more": [
-    "L'esortazione apostolica Amoris laetitia è il documento pubblicato da Papa Francesco nel 2016 al termine dei sinodi sulla famiglia, incentrato sull'amore familiare e sull'accompagnamento pastorale dei fedeli."
-   ],
-   "fonti": [
-    {
-     "n": "Vatican News (italiano)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/it/papa/news/2026-10/leonexiv-ricovero-piazzasanpietro-preghiere-fedeli.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-10-14T14:39+02:00"
     }
    ],
    "data": "14 ott",
@@ -5128,30 +6290,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Russia",
      "t": "2026-10-14T15:59+03:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zc0d77d28",
-   "sez": "salute",
-   "titolo": "Anvisa vieta la vendita online di penne dimagranti senza registrazione in Brasile",
-   "orig": "Anvisa proíbe canetas emagrecedoras sem registro vendidas na internet",
-   "lead": "L'Agenzia Nazionale di Vigilanza Sanitaria del Brasile (Anvisa) ha ordinato mercoledì il sequestro di prodotti dimagranti venduti online senza registrazione, tra cui retatrutide e tirzepatide, le cosiddette \"penne dimagranti\". Il provvedimento riguarda i siti zyntrashop.site e zphcstore.com.br, quest'ultimo gestito da ZPH Contabilidade, e colpisce prodotti come Retatrutide 120mg e Tirzepatide 150mg. Lo riferisce Agência Brasil.",
-   "more": [
-    "Retatrutide e tirzepatide sono principi attivi di farmaci iniettabili sviluppati per il trattamento del diabete e dell'obesità, diventati molto richiesti per la perdita di peso; la vendita non autorizzata online di tali prodotti comporta rischi sanitari legati alla mancanza di controlli di sicurezza e qualità."
-   ],
-   "fonti": [
-    {
-     "n": "Agência Brasil",
-     "p": "XX",
-     "c": "Brasília",
-     "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-10-14T10:44-03:00"
     }
    ],
    "data": "14 ott",
@@ -22253,7 +23391,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zb50599ea": "ScienceDaily riassume i risultati di una ricerca che ridimensiona l'efficacia di alcune pratiche di recupero sportivo.",
   "zbc97398e": "Skift descrive l'ambizione di Booking Holdings di spingersi oltre la pianificazione dei viaggi con l'IA.",
   "z86417a76": "Moscow Times riporta l'estensione dell'incendio citando il media indipendente Astra.",
-  "zc0d77d28": "Agência Brasil riporta il provvedimento dell'autorità sanitaria brasiliana contro la vendita illegale online di farmaci dimagranti.",
   "z60a9a497": "La Presse de Tunisie annuncia il calendario ufficiale delle sfide tra le due nazionali.",
   "zc3127d84": "Engineering News-Record riporta le preoccupazioni ambientali delle autorità del Wisconsin sul cantiere Enbridge.",
   "z6fee068d": "Orizzonte Scuola riporta i contenuti della proposta di legge della Lega sul tema minori e web.",
@@ -22316,7 +23453,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z3840dfd4": "RTP si concentra sull'aspetto economico della privatizzazione aerea, mentre Euronews analizza le difficoltà diplomatiche che ostacolano l'ingresso del Montenegro nell'Unione Europea.",
   "z01399c60": "La testata analizza le motivazioni dietro l'insolita cooperazione tra l'estrema destra e la nuova sinistra populista in Germania.",
   "z4bd40426": "L'emittente evidenzia la strategia di Merz nel posizionarsi come difensore del centro democratico contro le ali radicali.",
-  "zf1fcd14b": "La testata sottolinea il silenzio istituzionale e la richiesta di preghiere da parte del personale religioso dell'ospedale.",
   "z718a268d": "Viene messa in evidenza la continuità dell'impegno politico ed economico europeo a favore di Kiev.",
   "z318da1c4": "La testata riporta la decisione tecnica dei legislatori per velocizzare l'iter delle leggi.",
   "z84f5ed3d": "La testata mette in risalto il messaggio di rassicurazione inviato dal vertice NATO ai paesi baltici.",
@@ -22344,7 +23480,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z912820bd": "La testata pone l'accento sulla richiesta urgente di trasparenza e dialogo avanzata dalle autorità comunitarie di fronte ai disordini di piazza.",
   "zd72fb5fe": "Il servizio giornalistico evidenzia la vasta mobilitazione spirituale internazionale promossa da comunità cattoliche e religiosi per sostenere il Papa durante il ricovero.",
   "z44d732eb": "La testata valorizza l'impegno culturale dei territori locali nell'analizzare e divulgare i contenuti dei documenti pontifici attraverso momenti di dibattito pubblico.",
-  "zddda62ed": "L'articolo sottolinea l'attesa e la vicinanza emotiva della comunità ecclesiale internazionale nei confronti del Pontefice ricoverato in ospedale.",
   "zb0a1edcd": "L'emittente pubblica bhutanese pone l'accento sulla tutela delle tradizioni culturali e sulla celebrazione della figura storica del sovrano attraverso l'arte tessile.",
   "z137cbc5b": "La testata in esilio evidenzia l'iniziativa giudiziaria intrapresa da Kiev per tutelare il patrimonio culturale nei territori occupati.",
   "zabd212a8": "Il giornale indipendente sottolinea la natura reciproca e diplomatica del provvedimento adottato da Mosca nei confronti di Podgorica.",
@@ -22357,7 +23492,56 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z63fded52": "La testata mette in luce una prospettiva culturale e letteraria critica nei confronti dell'automazione dei processi linguistici da parte delle macchine.",
   "z03c8a0b3": "Il settimanale online approfondisce le dinamiche della competizione elettorale locale e le tensioni politiche all'interno dello scenario statunitense.",
   "z9f3cf941": "Il sito di informazione polacco sottolinea il cambiamento di posizione dell'amministrazione comunale nei confronti di un evento sociale di grande visibilità.",
-  "z4ff946e8": "Il quotidiano sudafricano evidenzia il contenzioso legale insorto tra i vertici aziendali e il dirigente sospeso nell'ambito delle procedure di selezione."
+  "z4ff946e8": "Il quotidiano sudafricano evidenzia il contenzioso legale insorto tra i vertici aziendali e il dirigente sospeso nell'ambito delle procedure di selezione.",
+  "z33569e30": "France 24 approfondisce le cause del blocco istituzionale attraverso l'analisi di un esperto accademico.",
+  "z9c75ce56": "Tagesschau evidenzia la nascita dell'organismo di esperti dedicato alla riforma della sanità e dell'assistenza.",
+  "z96125f63": "Tagesschau riporta i dettagli della misura fiscale pianificata dall'esecutivo tedesco.",
+  "z970dad3d": "Tagesschau dà risalto alla notizia medica riguardante il capo della Chiesa.",
+  "zf7d86e7a": "RTP riporta le previsioni economiche dell'associazione professionale sulle novità normative.",
+  "z5884c3f3": "RTP sottolinea il nuovo incremento dei prezzi dei beni alimentari di base.",
+  "z4e2fa754": "RTP presenta l'installazione artistica che unisce due icone della musica internazionale.",
+  "zded54034": "NOS documenta l'esito negativo del ricorso per i familiari della giovane modella deceduta.",
+  "z0bccee0f": "VRT NWS racconta il ritrovamento insolito di un oggetto d'arte vintage in un negozio locale.",
+  "z7267af91": "VRT NWS analizza l'impatto economico dei grandi eventi di intrattenimento sui dati macroeconomici.",
+  "z1ff0a47d": "VRT NWS illustra il progetto immobiliare volto a migliorare la viabilità e la sicurezza locale.",
+  "zdf63ade9": "VRT NWS documenta la situazione critica all'interno di un istituto penitenziario belga.",
+  "z1199b818": "VRT NWS raccoglie le motivazioni della chiusura di uno storico locale da parte della gestione.",
+  "zcb357e0b": "VRT NWS riporta i dati forniti dall'aeroporto sulle conseguenze della nuova tassa doganale e postale.",
+  "zba676013": "ORF presenta la nuova versione cinematografica di un classico della letteratura inglese.",
+  "za62b1f42": "SVT Nyheter riferisce gli sviluppi della politica locale svedese e la nascita del nuovo esecutivo cittadino.",
+  "zbb69174a": "SVT Nyheter informa sulle condizioni sanitarie del giocatore e sull'impatto per la rosa della squadra.",
+  "z19637e67": "NRK mette in luce le difficoltà economiche della struttura sanitaria e le reazioni dei rappresentanti sindacali.",
+  "z2cc125d0": "NRK documenta il contenzioso giudiziario sorto attorno a un controverso programma d'inchiesta televisivo.",
+  "z098cd093": "L'emittente islandese RÚV sottolinea l'estensione del sistema di bassa pressione dalle coste islandesi fino all'arcipelago delle Faroe.",
+  "z1d8d6247": "L'emittente RÚV focalizza l'attenzione sulla testimonianza degli autori della serie trasmessa sulla piattaforma Sýn+.",
+  "z45fcbe07": "RÚV evidenzia l'evoluzione delle truffe digitali giovanili attraverso l'uso di finte applicazioni e profili VPN.",
+  "z3ed74f39": "L'emittente RÚV analizza le criticità finanziarie della spesa pubblica e l'impatto sui servizi sanitari nazionali.",
+  "zcb233bd0": "RÚV riprende le informazioni diffuse dall'agenzia Reuters sulle mosse geopolitiche di Teheran.",
+  "z68015cc9": "L'agenzia Agência Brasil riporta tempestivamente i dettagli dell'incidente infrastrutturale all'interno del Parlamento.",
+  "z55686b41": "Agência Brasil fornisce le informazioni di servizio per i candidati ammessi alla prova di recupero.",
+  "z7ebc2804": "Agência Brasil sottolinea l'iter istituzionale della riforma legislativa federale sulla sicurezza.",
+  "za10a1abd": "Agência Brasil evidenzia l'azione di controllo e tutela della salute pubblica condotta dall'autorità di vigilanza.",
+  "zdbc526f6": "La testata tunisina sottolinea gli sforzi promozionali del Paese nel mercato asiatico.",
+  "z9e3cac91": "La Presse de Tunisie evidenzia la modernizzazione dei servizi amministrativi statali.",
+  "z7aabb71e": "La testata locale mette in risalto la valorizzazione delle tradizioni enogastronomiche regionali.",
+  "zbf700b97": "La Presse de Tunisie celebra i traguardi della ricerca scientifica nazionale nel panorama internazionale.",
+  "zfff6bfe1": "L'emittente congolese dà voce alle proteste degli operatori commerciali locali per la tutela della salute pubblica.",
+  "zcc75fb55": "Radio Okapi documenta l'impatto del dissesto idrogeologico sulle strutture educative della regione.",
+  "z2eeb197a": "L'emittente Radio Okapi richiama l'attenzione pubblica sui rischi legati alle patologie croniche non trasmissibili.",
+  "z8ad19803": "Il quotidiano senegalese Le Soleil enfatizza la portata storica dell'evento per l'eredità sportiva africana.",
+  "z55f6170a": "Le Soleil pone l'accento sul riconoscimento internazionale ottenuto dalle giuriste senegalesi nella difesa dei diritti umani.",
+  "z357e86e6": "Il quotidiano Le Soleil riporta le direttive ministeriali relative alla pianificazione del calendario scolastico.",
+  "z02c3d8c1": "Le Soleil analizza le prospettive economiche globali per i Paesi in via di sviluppo nel quadro delle Nazioni Unite.",
+  "z86515c3c": "The Guardian analizza le tensioni sociali e le rivendicazioni degli studenti francesi nel contesto europeo.",
+  "zccd2a892": "The Guardian evidenzia i timori dei vertici industriali tedeschi ed europei sulle conseguenze protezionistiche.",
+  "zd45eca3d": "L'agenzia ANSA evidenzia i dati sulla percezione sociale e medica della menopausa in vista della ricorrenza globale.",
+  "z2b3460aa": "ANSA riporta le dichiarazioni della campagna elettorale statunitense in Alaska.",
+  "z7b531d93": "L'agenzia ANSA raccoglie l'allarme degli specialisti sanitari sui rischi legati ai chatbot relazionali avanzati.",
+  "z543d12d9": "Il Financial Times evidenzia le difficoltà del settore dello streaming e le contromisure aziendali adottate.",
+  "z689eb0cc": "Il Financial Times analizza l'impatto dei nuovi investimenti azionari del fondo statunitense sul mercato tech.",
+  "z20b0a399": "Il Financial Times promuove un dibattito sulle riforme del mercato del lavoro per favorire l'imprenditorialità.",
+  "z8ce1d902": "Il Financial Times propone una riflessione di geopolitica ed economia internazionale sui nuovi equilibri di potere.",
+  "zb5e4f908": "L'emittente regionale N1 Serbia segue gli sviluppi delle indagini giudiziarie sulla condotta della polizia a Belgrado."
  },
  "contesti": {
   "z7c42897d": "Il caro energia resta uno dei nodi principali dell'economia italiana ed europea dall'inizio della crisi energetica del 2022, aggravata dalla guerra in Ucraina. Nelle settimane scorse i governi UE hanno discusso misure comuni su prezzi e approvvigionamento, mentre il governo italiano ha ribadito la propria linea di sostegno a Kyiv in vista del Consiglio europeo del 15-16 ottobre.",
@@ -22510,11 +23694,20 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z3840dfd4": "Il Montenegro ha presentato domanda di adesione all'Unione Europea da diversi anni, lavorando per soddisfare i requisiti richiesti da Bruxelles. Negli ultimi tempi, la stabilità politica interna e le riforme economiche hanno accelerato il processo, ma le ferite ancora aperte dei conflitti nei Balcani degli anni Novanta continuano a pesare sulle relazioni diplomatiche tra gli stati nati dalla dissoluzione della ex Jugoslavia.",
   "z01399c60": "La politica estera tedesca è stata oggetto di intensi dibattiti dall'inizio del conflitto in Ucraina. Mentre il governo federale ha mantenuto una linea di fermezza contro l'aggressione russa, internamente sono emersi movimenti che chiedono una normalizzazione dei rapporti per ragioni economiche ed energetiche, influenzando specialmente l'elettorato dei Länder orientali.",
   "z4bd40426": "L'ascesa dei partiti populisti e radicali in Germania ha trasformato il panorama politico, rendendo più difficile la formazione di coalizioni stabili. Friedrich Merz, leader dei conservatori, si trova a dover gestire una polarizzazione crescente che vede i partiti tradizionali sfidati da forze che mettono in discussione i pilastri della politica interna ed estera tedesca.",
-  "zf1fcd14b": "La salute del Pontefice è stata oggetto di attenzione negli ultimi tempi a causa di alcuni problemi fisici legati all'età. Il ricovero è avvenuto in un clima di apprensione per i fedeli, mentre la Santa Sede ha cercato di gestire la comunicazione con prudenza per evitare speculazioni e allarmismi.",
   "z718a268d": "Dall'inizio del conflitto, l'Ucraina ha ricevuto numerosi finanziamenti e supporto militare dall'Occidente per resistere alle pressioni esterne. L'Unione Europea ha strutturato un meccanismo di assistenza macrofinanziaria a lungo termine per garantire che Kiev possa pianificare la gestione del proprio bilancio statale e la futura ricostruzione delle zone colpite.",
   "z2720db28": "Negli ultimi anni, il mercato automobilistico indiano ha registrato una crescita esponenziale, diventando uno dei più attrattivi e competitivi al mondo. In questo scenario, i principali costruttori globali hanno cercato di rafforzare la propria quota di mercato locale. Hyundai Motor, forte della sua già solida posizione come secondo marchio nel Paese, ha valutato nuove strategie per incrementare i volumi produttivi e rispondere alla crescente domanda interna ed estera.",
   "z50e334fb": "Il dibattito sull'immigrazione negli Stati Uniti è rimasto al centro del confronto politico e sociale, polarizzando l'opinione pubblica e le diverse comunità religiose. Storicamente impegnate nell'accoglienza e nell'assistenza ai migranti, le organizzazioni confessionali hanno più volte cercato di orientare la discussione pubblica verso toni di moderazione e rispetto della dignità umana, promuovendo iniziative di dialogo interreligioso e appelli alle istituzioni.",
-  "zf1128b54": "I rapporti di cooperazione economica e istituzionale tra Russia e Kirghizistan si sono intensificati nel quadro delle organizzazioni regionali e degli accordi bilaterali. Mosca ha frequentemente offerto supporto tecnico e finanziario per modernizzare le infrastrutture e i sistemi amministrativi dei Paesi partner nell'area dell'Asia centrale, con particolare attenzione alla digitalizzazione e all'efficienza dei servizi statali."
+  "zf1128b54": "I rapporti di cooperazione economica e istituzionale tra Russia e Kirghizistan si sono intensificati nel quadro delle organizzazioni regionali e degli accordi bilaterali. Mosca ha frequentemente offerto supporto tecnico e finanziario per modernizzare le infrastrutture e i sistemi amministrativi dei Paesi partner nell'area dell'Asia centrale, con particolare attenzione alla digitalizzazione e all'efficienza dei servizi statali.",
+  "z33569e30": "Dopo l'omicidio del presidente Jovenel Moïse avvenuto nel 2021, le elezioni ad Haiti sono state rinviate più volte a causa del progressivo deterioramento della sicurezza pubblica e della crescente influenza delle organizzazioni criminali armate nel Paese.",
+  "zded54034": "L'anno scorso un tribunale aveva stabilito che vi erano stati gravi errori nelle indagini sulla morte della diciottenne olandese, ma la decisione è stata ora annullata in appello dalle autorità giudiziarie della Malaysia.",
+  "zcb233bd0": "Nelle ultime settimane, le tensioni geopolitiche tra Iran e Stati Uniti si sono intensificate in vista delle imminenti scadenze elettorali americane. Teheran ha cercato di sfruttare la propria posizione geostrategica lungo le rotte marittime globali, in particolare nell'area del Golfo Persico, per influenzare i mercati energetici internazionali e contrastare le politiche economiche della Casa Bianca.",
+  "z7ebc2804": "Nelle scorse settimane, il governo brasiliano ha intensificato il confronto parlamentare per definire una nuova strategia nazionale contro la criminalità organizzata e le milizie armate. Il testo della proposta di emendamento costituzionale (PEC) è stato al centro di intense trattative tra l'esecutivo e le forze politiche rappresentate in Senato per definire un nuovo patto federativo sulla sicurezza.",
+  "z8ad19803": "Negli ultimi anni, il Comitato Olimpico Internazionale e le autorità senegalesi hanno lavorato intensamente per finalizzare i preparativi logistici e infrastrutturali in vista della manifestazione. L'evento rappresenta una pietra miliare per lo sport africano, essendo la prima volta che il continente ospita una rassegna olimpica giovanile, con investimenti mirati sugli impianti di Dakar, Diamniadio e Saly.",
+  "z86515c3c": "Nel corso delle ultime settimane, il sistema scolastico francese è stato teatro di crescenti tensioni legate al deterioramento delle strutture edilizie e alla cronica mancanza di personale docente. L'insoddisfazione accumulata da studenti e insegnanti ha trovato espressione in assemblee e assemblee permanenti, culminate in forme di mobilitazione e blocchi stradali in diverse località del Paese.",
+  "zccd2a892": "Nelle ultime settimane, il dibattito sulle future normative industriali dell'Unione Europea ha acceso il confronto tra le associazioni di categoria e le istituzioni comunitarie. I vertici del settore manifatturiero e automobilistico hanno avviato un'intensa opera di pressione diplomatica per scongiurare restrizioni commerciali che possano frammentare la catena di fornitura tra il continente e il Regno Unito.",
+  "z543d12d9": "Nel corso dell'ultimo anno, la piattaforma di streaming Netflix ha affrontato un progressivo rallentamento della crescita degli abbonati e una forte volatilità finanziaria sui mercati azionari, con una fluttuazione negativa del valore dei titoli superiore al quaranta percento. Per far fronte a queste difficoltà economiche, i vertici aziendali hanno valutato diverse opzioni di ristrutturazione interna e contenimento dei costi.",
+  "z970dad3d": "Nei mesi scorsi, il Pontefice Papa Leone XIV è stato sottoposto a regolari controlli medici di routine a causa di alcune difficoltà respiratorie ricorrenti. Le condizioni di salute del Santo Padre sono state costantemente monitorate dallo staff medico del Vaticano, fino agli ultimi accertamenti clinici approfonditi che hanno evidenziato la presenza della patologia polmonare, resa nota oggi attraverso i canali ufficiali d'informazione.",
+  "zdf63ade9": "Negli ultimi mesi, le organizzazioni sindacali e i rappresentanti del personale penitenziario belga avevano ripetutamente lanciato l'allarme sulle condizioni critiche delle carceri nelle Fiandre. Le proteste per i carichi di lavoro eccessivi e per il costante incremento della popolazione detenuta avevano spinto i media locali a intensificare le inchieste giornalistiche all'interno delle strutture di detenzione."
  },
  "cronologie": {
   "z7c42897d": [
@@ -24375,16 +25568,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Merz pronuncia un discorso pubblico contro la divisione sociale"
    ]
   ],
-  "zf1fcd14b": [
-   [
-    "Ottobre 2026",
-    "Viene annunciato il ricovero programmato del Papa"
-   ],
-   [
-    "14 ottobre 2026",
-    "Il cappellano del Gemelli chiede preghiere per Leone XIV"
-   ]
-  ],
   "z718a268d": [
    [
     "Ottobre 2026",
@@ -24435,6 +25618,162 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "Oggi",
     "Formalizzazione dell'accordo per l'assistenza tecnica fiscale russa"
+   ]
+  ],
+  "z33569e30": [
+   [
+    "2021",
+    "Assassinio del presidente Jovenel Moïse e rinvio iniziale delle elezioni"
+   ],
+   [
+    "Anni successivi",
+    "Ripetuti rinvii del voto presidenziale a causa dell'escalation della violenza delle gang"
+   ]
+  ],
+  "zded54034": [
+   [
+    "2017",
+    "Morte di Ivana Smit in Malaysia"
+   ],
+   [
+    "Anno precedente",
+    "La sentenza di primo grado riconosce gravi errori della polizia"
+   ],
+   [
+    "Attuale",
+    "La corte d'appello ribalta il verdetto negando risarcimenti e nuove indagini"
+   ]
+  ],
+  "zcb357e0b": [
+   [
+    "Inizio luglio",
+    "Entrata in vigore della nuova tassa sulle spedizioni di piccoli pacchi"
+   ],
+   [
+    "Attuale",
+    "Lo scalo registra una flessione del 42% nei piccoli pacchi pur mantenendo stabile il volume cargo totale"
+   ]
+  ],
+  "z2cc125d0": [
+   [
+    "Giorno precedente",
+    "Prima TV del documentario televisivo"
+   ],
+   [
+    "Attuale",
+    "I protagonisti depositano un ricorso legale contro l'emittente televisiva"
+   ]
+  ],
+  "z970dad3d": [
+   [
+    "Settimane scorse",
+    "Segnalazione di lievi problemi respiratori nei controlli di routine"
+   ],
+   [
+    "Giorni scorsi",
+    "Sottoposizione a esami clinici e diagnostici approfonditi in ambiente ospedaliero"
+   ],
+   [
+    "Oggi",
+    "Diffusione della notizia della diagnosi di tumore al polmone tramite i canali di informazione"
+   ]
+  ],
+  "zdf63ade9": [
+   [
+    "Mesi scorsi",
+    "Denunce sindacali sulla carenza cronica di organico nelle carceri fiamminghe"
+   ],
+   [
+    "Settimana scorsa",
+    "Avvio dell'inchiesta giornalistica all'interno del penitenziario di Malines"
+   ],
+   [
+    "Oggi",
+    "Pubblicazione del reportage che evidenzia sovraffollamento, spaccio di droga e carenza di personale"
+   ]
+  ],
+  "zcb233bd0": [
+   [
+    "Mesi scorsi",
+    "Inasprimento delle sanzioni economiche e delle tensioni diplomatiche tra Washington e Teheran"
+   ],
+   [
+    "Settimana scorsa",
+    "Rilevamento di nuove direttive iraniane per il controllo del traffico nello Stretto di Hormuz"
+   ],
+   [
+    "Oggi",
+    "Conferma da parte di funzionari di alto livello della strategia per alzare il prezzo del petrolio"
+   ]
+  ],
+  "z7ebc2804": [
+   [
+    "Mesi scorsi",
+    "Presentazione della proposta di emendamento costituzionale da parte del potere esecutivo"
+   ],
+   [
+    "Settimane scorse",
+    "Avvio dell'esame del provvedimento presso la Commissione Costituzionale e di Giustizia"
+   ],
+   [
+    "Oggi",
+    "Approvazione del testo in commissione e passaggio all'esame dell'aula plenaria del Senato"
+   ]
+  ],
+  "z8ad19803": [
+   [
+    "Anni scorsi",
+    "Assegnazione ufficiale dei Giochi Olimpici Giovanili al Senegal"
+   ],
+   [
+    "Mesi scorsi",
+    "Completamento e collaudo degli impianti sportivi nelle sedi designate"
+   ],
+   [
+    "Oggi",
+    "Annuncio imminente dell'avvio della manifestazione previsto per il trentuno ottobre"
+   ]
+  ],
+  "z86515c3c": [
+   [
+    "Mesi scorsi",
+    "Segnalazioni ripetute di classi sovraffollate e degrado strutturale negli edifici scolastici"
+   ],
+   [
+    "Settimana scorsa",
+    "Organizzazione delle prime assemblee studentesche e proclamazione di agitazioni"
+   ],
+   [
+    "Oggi",
+    "Intensificazione delle proteste e dei blocchi stradali da parte degli studenti delle scuole superiori"
+   ]
+  ],
+  "zccd2a892": [
+   [
+    "Mesi scorsi",
+    "Discussione sulla nuova normativa industriale europea 'Made in Europe'"
+   ],
+   [
+    "Settimane scorse",
+    "Valutazione dell'impatto economico dell'esclusione del mercato britannico"
+   ],
+   [
+    "Oggi",
+    "Presa di posizione ufficiale dell'Associazione dei Costruttori Europei di Automobili"
+   ]
+  ],
+  "z543d12d9": [
+   [
+    "Ultimo anno",
+    "Registrazione di una fluttuazione negativa superiore al 40% del valore delle azioni"
+   ],
+   [
+    "Mesi scorsi",
+    "Emersione delle difficoltà legate al rallentamento della crescita e alla pressione degli investitori"
+   ],
+   [
+    "Oggi",
+    "Annuncio ufficiale del taglio di circa mille posti di lavoro nell'ambito della riorganizzazione aziendale"
    ]
   ]
  },
@@ -29501,13 +30840,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "zc0d77d28": {
-   "n": "Brasile",
-   "p": [
-    "Brazil"
-   ],
-   "pt": []
-  },
   "z60a9a497": {
    "n": "Tunisia",
    "p": [
@@ -29930,13 +31262,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "zf1fcd14b": {
-   "n": "Città del Vaticano",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z718a268d": {
    "n": "Ucraina",
    "p": [
@@ -30130,13 +31455,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "zddda62ed": {
-   "n": "Città del Vaticano",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zb0a1edcd": {
    "n": "Thimphu",
    "p": [
@@ -30229,6 +31547,353 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Città del Capo",
    "p": [
     "South Africa"
+   ],
+   "pt": []
+  },
+  "z33569e30": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z9c75ce56": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z96125f63": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z970dad3d": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "zf7d86e7a": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z5884c3f3": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z4e2fa754": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zded54034": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z0bccee0f": {
+   "n": "Bornem",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z7267af91": {
+   "n": "Amsterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z1ff0a47d": {
+   "n": "Sint-Niklaas",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zdf63ade9": {
+   "n": "Malines",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z1199b818": {
+   "n": "Auderghem",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zcb357e0b": {
+   "n": "Liegi",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zba676013": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "za62b1f42": {
+   "n": "Alingsås",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zbb69174a": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z19637e67": {
+   "n": "Oslo",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z2cc125d0": {
+   "n": "Oslo",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z098cd093": {
+   "n": "Tórshavn",
+   "p": [
+    "Faeroe Is.",
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z1d8d6247": {
+   "n": "Reykjavík",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "z45fcbe07": {
+   "n": "Reykjavík",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "z3ed74f39": {
+   "n": "Reykjavík",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "zcb233bd0": {
+   "n": "Strait of Hormuz",
+   "p": [
+    "Iran",
+    "Oman"
+   ],
+   "pt": []
+  },
+  "z68015cc9": {
+   "n": "Brasília",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z55686b41": {
+   "n": "Brasília",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z7ebc2804": {
+   "n": "Brasília",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "za10a1abd": {
+   "n": "Brasília",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zdbc526f6": {
+   "n": "Beijing",
+   "p": [
+    "China",
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z9e3cac91": {
+   "n": "Tunis",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z7aabb71e": {
+   "n": "Nabeul",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zbf700b97": {
+   "n": "Tunis",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zfff6bfe1": {
+   "n": "Kasindi",
+   "p": [
+    "Dem. Rep. Congo",
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zcc75fb55": {
+   "n": "Mbuji-Mayi",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z2eeb197a": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z8ad19803": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z55f6170a": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z357e86e6": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z02c3d8c1": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z86515c3c": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zccd2a892": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zd45eca3d": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2b3460aa": {
+   "n": "Alaska",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7b531d93": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z543d12d9": {
+   "n": "London",
+   "p": [
+    "United Kingdom",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z689eb0cc": {
+   "n": "London",
+   "p": [
+    "United States of America",
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z20b0a399": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8ce1d902": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb5e4f908": {
+   "n": "Belgrade",
+   "p": [
+    "Serbia"
    ],
    "pt": []
   }
@@ -30958,7 +32623,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zb50599ea": 1,
   "zbc97398e": 1,
   "z86417a76": 1,
-  "zc0d77d28": 1,
   "z60a9a497": 1,
   "zc3127d84": 1,
   "z6fee068d": 1,
@@ -31021,7 +32685,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z3840dfd4": 2,
   "z01399c60": 1,
   "z4bd40426": 1,
-  "zf1fcd14b": 2,
   "z718a268d": 2,
   "z318da1c4": 1,
   "z84f5ed3d": 1,
@@ -31049,7 +32712,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z912820bd": 1,
   "zd72fb5fe": 1,
   "z44d732eb": 1,
-  "zddda62ed": 1,
   "zb0a1edcd": 1,
   "z137cbc5b": 1,
   "zabd212a8": 1,
@@ -31062,7 +32724,56 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z63fded52": 1,
   "z03c8a0b3": 1,
   "z9f3cf941": 1,
-  "z4ff946e8": 1
+  "z4ff946e8": 1,
+  "z33569e30": 2,
+  "z9c75ce56": 1,
+  "z96125f63": 1,
+  "z970dad3d": 2,
+  "zf7d86e7a": 1,
+  "z5884c3f3": 1,
+  "z4e2fa754": 1,
+  "zded54034": 2,
+  "z0bccee0f": 1,
+  "z7267af91": 1,
+  "z1ff0a47d": 1,
+  "zdf63ade9": 2,
+  "z1199b818": 1,
+  "zcb357e0b": 1,
+  "zba676013": 1,
+  "za62b1f42": 1,
+  "zbb69174a": 1,
+  "z19637e67": 1,
+  "z2cc125d0": 1,
+  "z098cd093": 1,
+  "z1d8d6247": 1,
+  "z45fcbe07": 1,
+  "z3ed74f39": 1,
+  "zcb233bd0": 2,
+  "z68015cc9": 1,
+  "z55686b41": 1,
+  "z7ebc2804": 2,
+  "za10a1abd": 1,
+  "zdbc526f6": 1,
+  "z9e3cac91": 1,
+  "z7aabb71e": 1,
+  "zbf700b97": 1,
+  "zfff6bfe1": 1,
+  "zcc75fb55": 1,
+  "z2eeb197a": 1,
+  "z8ad19803": 2,
+  "z55f6170a": 1,
+  "z357e86e6": 1,
+  "z02c3d8c1": 1,
+  "z86515c3c": 2,
+  "zccd2a892": 2,
+  "zd45eca3d": 1,
+  "z2b3460aa": 1,
+  "z7b531d93": 1,
+  "z543d12d9": 2,
+  "z689eb0cc": 1,
+  "z20b0a399": 1,
+  "z8ce1d902": 1,
+  "zb5e4f908": 1
  },
  "video": {},
  "pillole": []
