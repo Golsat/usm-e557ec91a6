@@ -1628,7 +1628,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z9107107d",
-   "sez": "cultura",
+   "sez": "ingegneria",
    "titolo": "La Querola di Jean Nouvel vince tre premi internazionali di architettura a New York",
    "orig": "La Querola de Jean Nouvel guanya tres premis internacionals d'arquitectura a Nova York",
    "lead": "Il complesso residenziale La Querola, progettato dall'architetto francese Jean Nouvel e recentemente colpito da un incendio, ha ricevuto tre riconoscimenti ai NY Architecture Awards di New York: due ori e un argento. Lo riferisce Diari d'Andorra.",
@@ -1644,6 +1644,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Andorra",
      "t": "2026-10-14T11:33+02:00"
+    },
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/ple-de-la-querola-als-ny-architecture-awards",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-14T12:06+02:00"
     }
    ],
    "data": "14 ott",
@@ -1692,30 +1701,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Andorra",
      "t": "2026-10-14T12:12+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:50",
-   "uscita": "13"
-  },
-  {
-   "id": "z89e29408",
-   "sez": "cultura",
-   "titolo": "Il quartiere La Querola trionfa ai NY Architecture Awards",
-   "orig": "Ple de La Querola als NY Architecture Awards",
-   "lead": "Il progetto La Querola, firmato dall'architetto Jean Nouvel, ha vinto nelle tre categorie in cui era in gara ai NY Architecture Awards. Lo riferisce Bondia.",
-   "more": [
-    "Jean Nouvel è un celebre architetto francese noto per progetti di grande impatto urbano e architettonico in tutto il mondo, vincitore del Premio Pritzker."
-   ],
-   "fonti": [
-    {
-     "n": "Bondia",
-     "p": "XX",
-     "c": "Andorra la Vella",
-     "u": "https://www.bondia.ad/societat/ple-de-la-querola-als-ny-architecture-awards",
-     "angolo": "",
-     "atlas": "Andorra",
-     "t": "2026-10-14T12:06+02:00"
     }
    ],
    "data": "14 ott",
@@ -6111,30 +6096,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z1d2aba2e",
-   "sez": "mondo",
-   "titolo": "Il capo dell'MI5: l'Iran prende di mira siti militari, il presunto piano su RAF Fairford 'non è un caso isolato'",
-   "orig": "MI5 chief says Iran targeting military sites, suspected RAF Fairford plot 'not unique'",
-   "lead": "Il direttore generale dei servizi di sicurezza britannici MI5, Ken McCallum, ha dichiarato che Iran e Russia stanno intensificando una guerra ibrida in tutta Europa, citando come esempio un sospetto piano contro la base aerea RAF Fairford nel Regno Unito, che non sarebbe un episodio unico. McCallum ha inoltre avvertito che l'intelligenza artificiale potrebbe permettere a gruppi terroristici di sviluppare nuovi agenti patogeni, definendo questa possibilità \"genuinamente nuova\" e meritevole della seria attenzione che sta già ricevendo da parte delle autorità. Lo riferisce Haaretz.",
-   "more": [
-    "L'MI5 è il servizio di sicurezza interna del Regno Unito, incaricato di contrastare spionaggio, terrorismo e minacce ibride sul territorio nazionale. RAF Fairford è una base aerea britannica storicamente utilizzata anche da forze alleate per operazioni strategiche."
-   ],
-   "fonti": [
-    {
-     "n": "Haaretz",
-     "p": "XX",
-     "c": "Tel Aviv",
-     "u": "https://www.haaretz.com/world-news/europe/2026-10-14/ty-article/mi5-chief-iran-targeting-u-k-military-sites-raf-fairford-plot-not-unique/000001a1-394f-d57f-abbb-3fcfff380000",
-     "angolo": "",
-     "atlas": "Israel",
-     "t": "2026-10-14T12:24+03:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:43",
-   "uscita": "13"
-  },
-  {
    "id": "z05b77e54",
    "sez": "mondo",
    "titolo": "Israele pianifica tagli ai fondi per lo sviluppo arabo per finanziare acquisti militari 'classificati'",
@@ -6176,6 +6137,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-14T10:46+01:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/yemeni-ta-nosokomeia-pasxizoun-na-antimetopisoun-ton-arithmo-ton-thymaton-xoris-paroxi-voitheias-800-000-anthropoi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-14T11:13+00:00"
     }
    ],
    "data": "14 ott",
@@ -7013,30 +6983,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z3c4dc374",
-   "sez": "mondo",
-   "titolo": "Yemen, gli ospedali al collasso mentre 800mila persone restano senza assistenza",
-   "orig": "Υεμένη: Τα νοσοκομεία πασχίζουν να αντιμετωπίσουν τον αριθμό των θυμάτων – Χωρίς παροχή βοήθειας 800.000 άνθρωποι",
-   "lead": "L'escalation ha interrotto la fornitura di aiuti a circa 800.000 persone. Le strutture sanitarie in prima linea, in aree come Marib e Taiz, risultano particolarmente colpite. Lo riferisce ERT News.",
-   "more": [
-    "Lo Yemen è dilaniato da una guerra civile che coinvolge il governo riconosciuto e i ribelli Houthi, con gravi conseguenze umanitarie: milioni di civili dipendono dagli aiuti internazionali per cibo, acqua e assistenza sanitaria."
-   ],
-   "fonti": [
-    {
-     "n": "ERT News",
-     "p": "XX",
-     "c": "Atene",
-     "u": "https://www.ertnews.gr/eidiseis/diethni/yemeni-ta-nosokomeia-pasxizoun-na-antimetopisoun-ton-arithmo-ton-thymaton-xoris-paroxi-voitheias-800-000-anthropoi/",
-     "angolo": "",
-     "atlas": "Greece",
-     "t": "2026-10-14T11:13+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:38",
-   "uscita": "13"
-  },
-  {
    "id": "z12f02213",
    "sez": "mondo",
    "titolo": "Grecia, insegnanti ed educatori in sciopero nazionale il 21 ottobre",
@@ -7286,30 +7232,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z0330d9e9",
-   "sez": "mondo",
-   "titolo": "Papa Leone invita a far propri gli insegnamenti di «Amoris laetitia»",
-   "orig": "Pope Leo: Take to heart the riches of ‘Amoris laetitia’",
-   "lead": "Nell'omelia letta dal cardinale Luis Antonio Tagle durante la Messa conclusiva dell'incontro vaticano per il decimo anniversario di «Amoris laetitia», Papa Leone XIV ha chiesto alla Chiesa di mettere in pratica le indicazioni pastorali dell'Esortazione apostolica nel cuore delle famiglie. Lo riferisce Vatican News.",
-   "more": [
-    "«Amoris laetitia» è l'Esortazione apostolica pubblicata da Papa Francesco nel 2016 sull'amore nella famiglia, un documento centrale del magistero della Chiesa su matrimonio e vita familiare."
-   ],
-   "fonti": [
-    {
-     "n": "Vatican News (inglese)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-take-to-heart-the-riches-of-amoris-laetitia.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-10-14T12:03+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:38",
-   "uscita": "13"
-  },
-  {
    "id": "z2bcb7599",
    "sez": "mondo",
    "titolo": "Stati Uniti, cattolici ed evangelici chiedono di trattare i migranti con umanità",
@@ -7383,6 +7305,15 @@ window.EDIZIONI["2026-10-14-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-14T10:53+02:00"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-take-to-heart-the-riches-of-amoris-laetitia.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-14T12:03+02:00"
     }
    ],
    "data": "14 ott",
@@ -9935,90 +9866,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zd1304308",
-   "sez": "mondo",
-   "titolo": "Trump annuncia esplorazione 'massiva' di petrolio e gas in Groenlandia",
-   "orig": "Presidente Donald Trump anuncia que Estados Unidos prepara la exploración 'masiva' de petróleo y gas en Groenlandia: 'No tiene rival'",
-   "lead": "Il presidente statunitense Donald Trump ha annunciato che gli Stati Uniti si preparano a un'esplorazione 'massiva' di petrolio e gas in Groenlandia, definendo le riserve dell'isola artica 'senza rivali'. L'iniziativa arriva dopo le tensioni generate a inizio anno, quando Trump aveva suggerito un'invasione militare dell'isola. Secondo il presidente, esperti ritengono che le riserve facilmente accessibili della Groenlandia siano molto più grandi di quelle di quasi ogni altro territorio al mondo.",
-   "more": [
-    "La Groenlandia, territorio autonomo danese ricco di risorse minerarie e con riserve energetiche ancora largamente inesplorate per le condizioni climatiche estreme, è diventata negli ultimi anni oggetto di crescente interesse geopolitico e economico da parte di Stati Uniti, Cina e Russia."
-   ],
-   "fonti": [
-    {
-     "n": "El Tiempo",
-     "p": "XX",
-     "c": "Bogotá",
-     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/el-presidente-donald-trump-anuncia-que-estados-unidos-prepara-la-exploracion-masiva-de-petroleo-y-gas-en-groenlandia-no-tiene-rival-3593379",
-     "angolo": "",
-     "atlas": "Colombia",
-     "t": "2026-10-14T02:49-05:00"
-    },
-    {
-     "n": "El Nacional",
-     "p": "XX",
-     "c": "Caracas",
-     "u": "https://www.elnacional.com/2026/10/trump-anuncia-que-ee-uu-prepara-la-exploracion-masiva-de-petroleo-y-gas-en-groenlandia/",
-     "angolo": "",
-     "atlas": "Venezuela",
-     "t": "2026-10-14T10:30+00:00"
-    },
-    {
-     "n": "Expresso das Ilhas",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://expressodasilhas.cv/mundo/2026/10/14/trump-anuncia-exploracao-de-petroleo-e-gas-na-gronelandia/105079",
-     "angolo": "",
-     "atlas": "Cabo Verde",
-     "t": "2026-10-14T09:04+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:34",
-   "uscita": "13"
-  },
-  {
-   "id": "zbfdfa1e4",
-   "sez": "mondo",
-   "titolo": "Guerra in Ucraina: la Russia colpisce le tre centrali termiche di Kiev nonostante l'appello al cessate il fuoco di Trump",
-   "orig": "EN DIRECT, guerre en Ukraine : les trois centrales thermiques de Kiev ciblées par la Russie cette nuit, malgré l'appel au cessez-le-feu de Donald Trump",
-   "lead": "Nella notte la Russia ha colpito le tre centrali termiche di Kiev, nonostante l'appello al cessate il fuoco lanciato da Donald Trump. Il presidente ucraino Volodymyr Zelensky ha denunciato quello che ha definito un gesto di disprezzo senza precedenti della Russia verso gli Stati Uniti. Lo riferisce Le Monde in un resoconto in diretta.",
-   "more": [
-    "Le centrali termiche di Kiev forniscono riscaldamento ed elettricità alla capitale ucraina, e sono diventate obiettivo ricorrente dei bombardamenti russi nel tentativo di colpire la resilienza civile ucraina durante i mesi invernali."
-   ],
-   "fonti": [
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-les-trois-centrales-thermiques-de-kiev-ciblees-par-la-russie-cette-nuit-malgre-l-appel-au-cessez-le-feu-de-donald-trump_6791198_3210.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-14T10:58+02:00"
-    },
-    {
-     "n": "Libération",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.liberation.fr/checknews/gaza-devastee-par-trois-ans-de-guerre-les-preuves-vues-du-ciel-20261014_DMCGVEV5DJASRKWHZSOE35AN6A/",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-14T10:19+00:00"
-    },
-    {
-     "n": "La Nouvelle Tribune",
-     "p": "XX",
-     "c": "Cotonou",
-     "u": "https://lanouvelletribune.info/2026/10/avec-600-000-ukrainiens-sans-electricite-zelensky-demande-a-trump-de-sanctionner-la-russie/",
-     "angolo": "",
-     "atlas": "Benin",
-     "t": "2026-10-14T11:14+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:34",
-   "uscita": "13"
-  },
-  {
    "id": "za8bcfd6d",
    "sez": "mondo",
    "titolo": "Tensioni tra insegnanti, studenti e Turchia nella disputa azera sul velo",
@@ -10194,7 +10041,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z9c67abca",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Joni Mitchell diventa cittadina statunitense",
    "orig": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
    "lead": "La cantautrice canadese Joni Mitchell, 82 anni, trasferitasi negli Stati Uniti a metà degli anni Sessanta, è diventata cittadina statunitense. Lo ha reso noto lei stessa pubblicando sul suo profilo Instagram un video della cerimonia di naturalizzazione e una foto accanto a una bandiera americana, accompagnata dalla frase: \"Un viaggio iniziato 62 anni fa\". Grazie alla cittadinanza, Mitchell potrà ora votare alle elezioni statunitensi, cosa che in passato aveva lamentato di non poter fare.",
@@ -12100,7 +11947,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "zb91f49d4",
-   "sez": "cultura",
+   "sez": "ingegneria",
    "titolo": "RIBA Stirling Prize 2026: chi vogliono vincere i lettori di AJ",
    "orig": "RIBA Stirling Prize 2026: who do the AJ readers want to win?",
    "lead": "I lettori di The Architects' Journal hanno votato per indicare il loro favorito per il RIBA Stirling Prize 2026, il prestigioso premio britannico di architettura. Dal sondaggio è emerso che tra i primi quattro progetti preferiti dal pubblico il distacco è minimo, segno di un'edizione particolarmente equilibrata e combattuta. Lo riferisce The Architects' Journal.",
@@ -12124,7 +11971,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z6357b56f",
-   "sez": "tech",
+   "sez": "cultura",
    "titolo": "La foto del dolore di un'elefantessa vince il Wildlife Photographer of the Year",
    "orig": "Il dolore dell'elefantessa: la foto vince il WPY",
    "lead": "Il fotografo Federico Veronesi ha vinto il prestigioso premio Wildlife Photographer of the Year con uno scatto realizzato in Namibia che ritrae una madre elefantessa nel momento del dolore per la morte del suo cucciolo. L'immagine, descritta come particolarmente toccante, ha conquistato la giuria del concorso internazionale dedicato alla fotografia naturalistica. Lo riferisce Focus.",
@@ -13513,7 +13360,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "zf38abb2e",
-   "sez": "cultura",
+   "sez": "ingegneria",
    "titolo": "85 anni dopo, i bambini tornano nell'asilo progettato da Figini e Pollini per Olivetti",
    "orig": "85 anni dopo, i bambini tornano nell’asilo progettato da Figini e Pollini per Olivetti",
    "lead": "Dopo 85 anni, i bambini sono tornati a frequentare l'asilo progettato dagli architetti Luigi Figini e Gino Pollini per l'azienda Olivetti. Lo riferisce Domus.",
@@ -13671,66 +13518,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "data": "",
    "ora": "13:30",
-   "uscita": "13"
-  },
-  {
-   "id": "z8df16686",
-   "sez": "prima",
-   "titolo": "Soldati ucraini in combattimento con accesso limitato a Starlink",
-   "orig": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
-   "lead": "Il Guardian riferisce che i terminali satellitari Starlink, gestiti da SpaceX di Elon Musk e usati dai militari ucraini, hanno subito un'interruzione martedì sera mentre la Russia lanciava missili balistici contro l'Ucraina senza alcun preavviso da parte degli USA. L'amministrazione Trump avrebbe intensificato le pressioni su Kyiv per fermare gli attacchi a lungo raggio contro l'industria petrolifera russa. La restrizione dei terminali in movimento ad alta velocità ha causato il fallimento di diverse missioni di combattimento, secondo un consulente tecnologico-militare del presidente ucraino.",
-   "more": [
-    "Starlink è la costellazione di satelliti per internet a banda larga di SpaceX, diventata strumento chiave per le comunicazioni militari ucraine durante l'invasione russa, incluso il controllo di drone e il coordinamento delle truppe sul campo."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-14T10:05+00:00"
-    },
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-14T11:07+00:00"
-    },
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-14T10:04+00:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/14/news/kiev_denuncia_limitazioni_uso_versione_militare_starlink_raid_russi_blackout_ucraina-425647218/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T10:37+00:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/14/news/kiev_denuncia_limitazioni_uso_versione_militare_starlink_raid_russi_blackout_ucraina-425647218/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T12:37+02:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "13:26",
    "uscita": "13"
   },
   {
@@ -13980,7 +13767,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z88780c63",
-   "sez": "tech",
+   "sez": "economia",
    "titolo": "L'azienda norvegese Kongsberg costruirà una fabbrica anti-drone in Polonia",
    "orig": "Norwegian defence firm Kongsberg to build anti-drone factory in Poland",
    "lead": "Il gruppo norvegese della difesa Kongsberg investirà oltre 200 milioni di zloty, circa 46 milioni di euro, per costruire uno stabilimento anti-drone in Polonia, creando più di 100 posti di lavoro a lungo termine. Lo riferisce Notes from Poland.",
@@ -14362,7 +14149,7 @@ window.EDIZIONI["2026-10-14-sera"] = {
   },
   {
    "id": "z08a771fa",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "La strada da 3,9 miliardi di pesos tra South Cotabato e Sarangani facilita i trasporti per gli agricoltori di Mindanao",
    "orig": "P3.9-B South Cotabato-Sarangani road eases travel for Mindanao farmers",
    "lead": "Gli agricoltori delle comunità montane di Tupi, nella provincia di South Cotabato nelle Filippine, trovano ora più facile viaggiare e portare i propri prodotti al mercato grazie ai miglioramenti lungo la strada Banga-Tupi-Malungon, un progetto da 3,9 miliardi di pesos che collega South Cotabato e Sarangani. Prima dei lavori i residenti dovevano camminare per ore o usare cavalli per trasportare i raccolti. Lo riferisce Philippine Daily Inquirer.",
@@ -16382,7 +16169,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
  ],
  "quiz": [],
  "sguardi": {
-  "z8df16686": "Guardian e DW riportano entrambi la denuncia ucraina sulle restrizioni Starlink, mentre il Guardian aggiunge il contesto delle pressioni Trump e dei missili russi.",
   "z7c42897d": "ANSA e Rai News riportano entrambe le parole di Meloni sull'energia, con ANSA che aggiunge il riferimento alla posizione invariata sull'Ucraina.",
   "z9e3398c3": "BBC News riporta le dichiarazioni critiche del segretario britannico sulla gestione finanziaria dell'esecutivo nordirlandese.",
   "z269e1f3d": "Al Jazeera documenta l'intervento dei civili nel salvataggio della bambina dopo l'attacco.",
@@ -16586,8 +16372,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z3ee76899": "AKIpress descrive la nuova misura come rafforzamento dei controlli finanziari.",
   "z515a2ced": "ABC Color riporta la critica dei due paesi baltici alla politica statunitense sulle sanzioni energetiche.",
   "zb821eb5e": "Il Guardian presenta i risultati di una propria inchiesta investigativa come prova di un cambiamento strutturale nel traffico di droga verso l'Europa.",
-  "zd1304308": "El Tiempo, El Nacional e Expresso das Ilhas riportano concordemente l'annuncio di Trump, con enfasi comune sulla portata delle riserve stimate.",
-  "zbfdfa1e4": "Le Monge e La Nouvelle Tribune concordano sulla gravità dell'attacco, con quest'ultima che aggiunge dettagli numerici sulle munizioni usate e sulla richiesta ucraina di sanzioni.",
   "za8bcfd6d": "Al Jazeera e OC Media offrono angoli diversi: la prima sulle tensioni sociali e diplomatiche con la Turchia, la seconda sulla negazione ufficiale del divieto e sull'attacco informatico rivendicato da hacker pro-iraniani.",
   "z29f52c02": "Al Jazeera e La Tercera riportano le stesse dichiarazioni di Luis Enrique in vista del match di Champions League tra Manchester City e PSG.",
   "z771fd768": "Radio Prague International riporta le critiche dell'opposizione come ostacolo all'approvazione della riforma.",
@@ -16614,7 +16398,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zafcc1b86": "Yonhap mette in luce l'atteggiamento positivo del giocatore di fronte alle aspettative basse sulla sua squadra.",
   "ze61118e5": "RTHK riporta i dati ufficiali forniti dal governo in risposta a una interrogazione parlamentare.",
   "z7d9e164e": "ERT News descrive la perdita come un danno al patrimonio storico e gastronomico della città.",
-  "z3c4dc374": "ERT News riprende l'allarme lanciato da organizzazioni umanitarie sulla situazione sanitaria del paese.",
   "z12f02213": "ERT News riporta le ragioni dello sciopero così come dichiarate dal sindacato organizzatore.",
   "z2177635b": "ERT News documenta l'intensificarsi degli arrivi nelle ultime ore, nonostante il maltempo.",
   "z8d6e53c8": "ERT News sottolinea le misure precauzionali adottate per tutelare i visitatori e le strutture.",
@@ -16625,7 +16408,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zc8b71b6f": "IPN riporta il ricorso legale presentato dal leader politico escluso dalla competizione elettorale.",
   "z753cb2be": "Azatutyun segnala la partecipazione del capo della diplomazia russa al summit regionale.",
   "zcda60040": "Vatican News dà voce direttamente alle testimonianze delle donne coinvolte nel progetto.",
-  "z0330d9e9": "Vatican News riporta il messaggio del Papa trasmesso tramite il cardinale Tagle.",
   "z2bcb7599": "Vatican News riprende l'appello congiunto delle due organizzazioni religiose statunitensi.",
   "ze1a08137": "Vatican News riporta le accuse dell'opposizione e la preoccupazione espressa dall'ONU.",
   "z87aa5e80": "Vatican News sottolinea le preghiere per la salute del Papa insieme al contenuto dell'omelia.",
@@ -16754,7 +16536,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z83b5144c": "The Astana Times celebra i risultati degli atleti kazaki ai mondiali giovanili di lotta.",
   "za3dbc157": "Haaretz dà rilievo alla replica dettagliata di Bar, che accusa direttamente Netanyahu di fabbricare accuse.",
   "zade0a2c5": "Haaretz riporta le parole di Netanyahu insieme alle reazioni critiche dell'opposizione.",
-  "z1d2aba2e": "Haaretz riprende le dichiarazioni pubbliche del capo dell'MI5 sulle minacce ibride di Iran e Russia in Europa.",
   "z05b77e54": "Haaretz segnala la decisione come parte di una serie di tagli ai fondi per lo sviluppo delle comunità arabe a favore della spesa militare.",
   "z553f0660": "Middle East Eye riprende l'allarme della Croce Rossa sulla pressione crescente sul sistema sanitario yemenita.",
   "z90946b13": "Middle East Eye evidenzia il rischio che lo scandalo vanifichi anni di strategia di normalizzazione dell'immagine del partito.",
@@ -16899,7 +16680,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z9107107d": "Diari d'Andorra sottolinea il contrasto tra il riconoscimento internazionale e il recente incendio subito dall'edificio.",
   "z2ac05a5c": "Monaco Matin documenta la visita istituzionale della coppia principesca a una nuova struttura per l'infanzia.",
   "z5c96987c": "Bondia valorizza sia l'intervento di manutenzione sia l'aspetto formativo legato alla tecnica tradizionale impiegata.",
-  "z89e29408": "Bondia celebra il riconoscimento internazionale per un progetto architettonico locale.",
   "z12a26542": "Bondia segnala l'ampliamento dell'offerta formativa della scuola sportiva locale.",
   "zb30ae40e": "Bondia dà voce alla posizione del partito di opposizione contro l'opera pubblica.",
   "z2419e83e": "Bondia riporta la critica dell'opposizione alla manovra di bilancio del governo.",
@@ -16967,7 +16747,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z1775cff4": "Defimedia segnala la regolarità dello svolgimento delle prove come notizia positiva."
  },
  "contesti": {
-  "z8df16686": "I terminali Starlink sono diventati essenziali per le comunicazioni e la guida di precisione delle forze ucraine dal 2022. Negli ultimi mesi l'amministrazione Trump ha cercato una mediazione con Mosca, criticando gli attacchi ucraini alle raffinerie russe. Nelle settimane scorse Kyiv ha intensificato i raid a lungo raggio contro l'industria petrolifera russa, suscitando malumori a Washington.",
   "z7c42897d": "Il caro energia resta uno dei nodi principali dell'economia italiana ed europea dall'inizio della crisi energetica del 2022, aggravata dalla guerra in Ucraina. Nelle settimane scorse i governi UE hanno discusso misure comuni su prezzi e approvvigionamento, mentre il governo italiano ha ribadito la propria linea di sostegno a Kyiv in vista del Consiglio europeo del 15-16 ottobre.",
   "z88780c63": "La minaccia dei drone sul fianco orientale della NATO è cresciuta negli ultimi mesi, spingendo diversi Paesi europei a rafforzare le capacità di difesa anti-drone. La Polonia, confinante con Ucraina e Bielorussia, ha intensificato gli investimenti in sistemi di sorveglianza e intercettazione dopo vari episodi di violazione dello spazio aereo. Kongsberg ha rafforzato la propria presenza industriale nel Paese negli ultimi anni.",
   "z6c428f87": "Gli attacchi ucraini con drone a lungo raggio contro il territorio russo si sono intensificati nelle ultime settimane, colpendo infrastrutture energetiche e industriali anche lontano dal fronte. Mosca e altre città russe hanno già subito ripetuti raid nei mesi scorsi, mentre Kyiv ha rivendicato colpi contro impianti strategici come parte della sua strategia di risposta ai bombardamenti russi.",
@@ -16996,8 +16775,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "za96ce54d": "L'Unione Europea ha introdotto dal 2024 dazi provvisori sui veicoli elettrici cinesi per contrastare presunti sussidi statali, mentre la Cina ha progressivamente ridotto gli incentivi fiscali interni, inclusi i rimborsi IVA, per raffreddare una sovraccapacità produttiva. Il calo della domanda interna cinese e le nuove barriere commerciali europee hanno colpito duramente i circa 50 produttori di EV cinesi, costringendo gli analisti a rivedere le stime.",
   "z7dc61514": "Negli ultimi mesi l'economia globale ha mostrato una tenuta superiore alle attese nonostante le tensioni geopolitiche, i conflitti in corso e la volatilità dei prezzi energetici. Il Fondo Monetario Internazionale ha monitorato con cautela questi segnali positivi, pubblicando periodicamente aggiornamenti sulle previsioni di crescita mondiale e sottolineando i rischi latenti che potrebbero erodere rapidamente la resilienza finora osservata.",
   "zbfd22de7": "Nelle ultime settimane la Commissione europea ha proposto un nuovo quadro di bilancio pluriennale, suscitando le resistenze di un gruppo di stati membri guidati dalla Germania, mentre altri paesi chiedono di mantenere o aumentare i fondi destinati alla coesione.",
-  "zd1304308": "A inizio 2026 Trump aveva suscitato tensioni internazionali ipotizzando persino un'azione militare per acquisire la Groenlandia, territorio autonomo danese ricco di risorse minerarie e strategiche. Dopo le proteste di Danimarca ed Europa, l'amministrazione americana ha virato verso un approccio economico, puntando su accordi di esplorazione e sfruttamento delle risorse energetiche dell'isola artica.",
-  "zbfdfa1e4": "Negli ultimi giorni la Russia ha lanciato un'ondata massiccia di missili e drone contro le infrastrutture energetiche ucraine, lasciando centinaia di migliaia di persone senza elettricità, mentre Zelensky ha chiesto sanzioni più dure agli Stati Uniti.",
   "zde7086bf": "Da trent'anni Jantar Mantar era il sito designato per le proteste pubbliche a Delhi. Di recente la polizia ha revocato questo status, indicando sedi alternative in città, decisione che ha scatenato le proteste di gruppi politici e civili.",
   "z2d0e2ccf": "L'impero immobiliare di René Benko, costruito attorno alla holding Signa, è collassato tra il 2023 e il 2024 travolgendo decine di società controllate e lasciando debiti miliardari. L'austriaco è stato arrestato nell'ambito delle indagini della procura anticorruzione WKStA per sospette irregolarità finanziarie legate al crac, trascorrendo mesi in carcere mentre la giustizia valutava le accuse.",
   "z6c1957df": "Le forze ucraine hanno lanciato l'operazione Vivaldi per riconquistare territori nella regione di Donetsk, attorno al fronte di Lyman, articolandola in più fasi successive. Nelle settimane precedenti Kyiv aveva già segnalato progressi territoriali e pesanti perdite russe, continuando la pressione militare in questo settore strategico del fronte orientale.",
@@ -17009,7 +16786,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "za8bcfd6d": "Nelle ultime settimane l'Azerbaigian ha introdotto restrizioni sull'uso del velo islamico nelle scuole, scatenando le più grandi proteste degli ultimi anni nel paese. Insegnanti e studentesse hanno denunciato il rischio di esclusione, mentre la Turchia, alleato chiave di Baku, ha espresso critiche. Nel contesto si è inserito anche un attacco informatico attribuito a hacker pro-Iran, che ha colpito oltre 100 domini governativi azeri.",
   "z8a303f1e": "Da mesi Union e SPD discutevano su come contrastare l'obesità infantile attraverso misure fiscali sui prodotti zuccherati, seguendo modelli già adottati in altri paesi europei come Regno Unito e Francia. Le trattative tra i ministeri della Salute e delle Finanze si sono concentrate sulla struttura della tassazione, cercando un compromesso che non penalizzasse eccessivamente l'industria alimentare tedesca, portando ora a un accordo definitivo sul modello a due livelli.",
   "z8c26b542": "Nei giorni scorsi non si erano registrati precedenti analoghi su questa rotta, ma episodi di trasmissione involontaria del codice transponder 7500, riservato alle emergenze di dirottamento, sono noti nell'aviazione civile internazionale. Tali segnali attivano protocolli di sicurezza automatici e rigorosi, incluso l'intervento di caccia militari, indipendentemente dalla causa, per garantire la sicurezza dei passeggeri fino al chiarimento della situazione a terra.",
-  "z3c4dc374": "Il conflitto yemenita, iniziato nel 2014 con l'avanzata degli Houthi su Sana'a e proseguito con l'intervento della coalizione guidata dall'Arabia Saudita dal 2015, ha causato una delle peggiori crisi umanitarie al mondo. Negli ultimi mesi nuove ondate di combattimenti e tagli ai finanziamenti internazionali hanno aggravato la situazione, interrompendo le forniture di aiuti e mettendo sotto pressione estrema gli ospedali nelle aree di prima linea come Marib e Taiz.",
   "ze1a08137": "Da circa tre settimane l'India è attraversata da proteste contro la revisione delle liste elettorali avviata dal governo, che secondo le opposizioni rischia di escludere dal voto fino a 130 milioni di cittadini, soprattutto nelle fasce più povere. Le manifestazioni, diffuse in diversi Stati, sono state accompagnate da migliaia di arresti e hanno attirato l'attenzione delle Nazioni Unite, preoccupate per i metodi usati nella repressione del dissenso.",
   "z87aa5e80": "A dieci anni dalla pubblicazione di «Amoris laetitia» di Papa Francesco, il Vaticano ha organizzato un incontro internazionale dedicato alla famiglia, culminato in una Messa in Piazza San Pietro. Papa Leone XIV, che ieri è stato ricoverato al Policlinico Gemelli, non ha potuto presiedere la celebrazione: la sua omelia è stata letta dal cardinale Luis Antonio Tagle, mentre la Chiesa si unisce nella preghiera per il suo pronto ristabilimento.",
   "zed23d2f7": "Dall'inizio dell'invasione russa nel febbraio 2022, l'Unione Europea ha fornito all'Ucraina ingenti aiuti militari e finanziari, coordinandosi periodicamente attraverso vertici dei leader europei. In vista del nuovo incontro al vertice, la Commissione europea ha annunciato l'erogazione di quasi 3 miliardi di euro destinati a rafforzare le capacità di difesa aerea e di contrasto alla guerra elettronica di Kiev.",
@@ -17020,7 +16796,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "ze744c2d7": "Il Montenegro è il candidato più avanzato dei Balcani occidentali nel processo di adesione all'Unione europea, avendo aperto tutti i capitoli negoziali con l'obiettivo dichiarato di entrare entro il 2028. Tuttavia, Paesi membri vicini come la Croazia hanno storicamente posto condizioni su questioni bilaterali rimaste in sospeso, tra cui confini marittimi, minoranze e proprietà, che il governo di Podgorica deve affrontare prima della chiusura definitiva del percorso negoziale.",
   "z9fbb1fc3": "Dalla crisi energetica legata alla guerra in Ucraina i prezzi del gas sono rimasti instabili, con oscillazioni legate a eventi geopolitici. Le tensioni in Medio Oriente, con l'attacco statunitense all'Iran e la successiva escalation con gli Houthi yemeniti, hanno riportato volatilità sui mercati energetici europei nei mesi recenti.",
   "z7d9e164e": "Il Marché des Enfants Rouges, aperto nel 1615 nel quartiere del Marais, era da secoli un punto di riferimento per il commercio alimentare parigino e negli ultimi decenni era diventato meta turistica per il cibo di strada. Nelle prime ore di lunedì un vasto incendio di origine ancora da accertare lo ha devastato, suscitando sgomento tra residenti, commercianti e autorità cittadine per la perdita di un patrimonio storico e commerciale.",
-  "z0330d9e9": "Dieci anni fa Papa Francesco pubblicò l'Esortazione apostolica «Amoris laetitia», frutto dei Sinodi sulla famiglia del 2014-2015, con l'obiettivo di offrire un accompagnamento pastorale più attento alle famiglie e alle situazioni di fragilità. Per celebrarne l'anniversario il Vaticano ha organizzato un incontro internazionale conclusosi con una Messa in Piazza San Pietro, mentre Papa Leone XIV, ricoverato al Gemelli, ha affidato la propria omelia al cardinale Tagle.",
   "zc55b3706": "Nel 2022 due fermati nella questura di Verona furono vittime di violenze da parte di agenti di polizia, episodi che portarono ad accuse di tortura e all'apertura di un'indagine giudiziaria. Il caso, seguito con attenzione da organizzazioni per i diritti umani e media italiani, è giunto ora a conclusione con le prime condanne, segnando un precedente significativo nell'applicazione del reato di tortura introdotto nell'ordinamento italiano nel 2017.",
   "z4fb239d8": "Papa Leone XIV, al secolo Robert Francis Prevost, cittadino statunitense eletto pontefice nel maggio 2025, è stato recentemente sottoposto ad accertamenti medici che hanno portato all'annuncio di una diagnosi oncologica. La notizia, diffusa dai media internazionali, ha subito suscitato forte attenzione e preoccupazione, in particolare negli Stati Uniti, suo paese d'origine, dove la vicenda personale del primo papa statunitense della storia viene seguita con grande interesse mediatico e popolare.",
   "z3ae7f590": "Negli ultimi giorni gli studenti universitari albanesi sono tornati a protestare a Tirana contro l'aumento delle tasse accademiche, la scarsità di borse di studio e le limitate prospettive occupazionali per i neolaureati nel paese. Le manifestazioni, già frequenti negli ultimi anni in Albania per motivi analoghi, si inseriscono in un clima di crescente malcontento giovanile verso le politiche del governo guidato da Edi Rama, accusato di non investire a sufficienza nel sistema universitario pubblico.",
@@ -17036,7 +16811,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z8c93e84e": "Gli Stati Uniti hanno intensificato negli ultimi mesi il coordinamento diplomatico e militare nell'area Indo-Pacifico in vista della visita del presidente Donald Trump in Cina prevista per novembre, cercando di bilanciare il dialogo con Pechino con il mantenimento di solide alleanze regionali, incluse quelle con Giappone, Corea del Sud e Taiwan, in un contesto di crescenti tensioni commerciali e militari nella regione.",
   "ze8884dee": "Bushra Bibi, moglie dell'ex premier pakistano Imran Khan, è stata condannata a sette anni di carcere nel caso Al-Qadir Trust, legato a un presunto giro di tangenti da 190.000 sterline collegato a un terreno donato per un'università religiosa. A luglio la donna ha presentato ricorso contro la condanna, sostenendo tra l'altro di meritare un trattamento differenziato in quanto donna, mentre il marito resta detenuto in carcere da tempo.",
   "z9a4860e6": "Il Nepal ha subito nelle settimane scorse gravi alluvioni causate dall'esondazione del fiume Bhotekoshi nel distretto di Rasuwa, che hanno provocato vittime, danni estesi e decine di persone ancora disperse. L'evento ha colpito duramente anche comunità limitrofe come quelle del distretto di Salyan, oscurando l'atmosfera festiva del Dashain, la principale festività induista del paese, celebrata tradizionalmente con grande partecipazione popolare.",
-  "z1d2aba2e": "Negli ultimi mesi i servizi britannici hanno segnalato un aumento di attività ostili legate a Iran e Russia sul territorio del Regno Unito, tra sabotaggi, sorveglianza di infrastrutture e presunti piani di attacco. Le autorità hanno già arrestato cittadini iraniani con l'accusa di preparare azioni contro obiettivi britannici, mentre cresce la preoccupazione per l'uso di tecnologie emergenti, incluse l'intelligenza artificiale, da parte di attori statali e gruppi terroristici.",
   "z90946b13": "Negli ultimi anni Jordan Bardella ha guidato il tentativo del Rassemblement National di smarcarsi dalle radici estremiste e antisemite del partito fondato da Jean-Marie Le Pen, puntando su un'immagine moderata anche attraverso viaggi istituzionali, come la partecipazione a marzo a una conferenza sull'antisemitismo a Gerusalemme. Questa strategia di 'de-demonizzazione', portata avanti anche da Marine Le Pen, ha permesso al partito di crescere elettoralmente, ma resta vulnerabile a nuove accuse sul suo passato.",
   "za1755909": "Russell Brand è stato accusato nel 2023 da diverse donne di abusi sessuali, stupro e aggressione risalenti agli anni 2006-2013, nel periodo di massima notorietà televisiva e radiofonica in Gran Bretagna. Le accuse, emerse da un'inchiesta giornalistica congiunta di Sunday Times e Channel 4, hanno portato ad indagini della polizia e infine a incriminazioni formali, sfociate ora nel processo penale a suo carico, mentre Brand nega ogni addebito.",
   "z99dacf36": "Negli ultimi anni la Cina ha consolidato una posizione dominante nell'estrazione e lavorazione di minerali critici in Africa, suscitando la reazione di Washington che ha intensificato accordi bilaterali con paesi africani per diversificare le catene di approvvigionamento. Pechino ha risposto rafforzando i legami diplomatici ed economici con il continente, presentandosi come partner storico contrapposto a un approccio occidentale percepito come estrattivo e opportunistico.",
@@ -17072,24 +16846,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z16ba877b": "Il Pakistan vive da mesi una fase di tensione tra l'establishment militare, guidato dal generale Asim Munir, e il governo civile. Munir ha consolidato potere dopo la destituzione di Imran Khan nel 2022 e le contestate elezioni del 2024, alimentando sospetti su un ruolo crescente dei militari nella gestione dello Stato, in una dinamica storicamente ricorrente nel Paese."
  },
  "cronologie": {
-  "z8df16686": [
-   [
-    "2022",
-    "SpaceX fornisce terminali Starlink all'Ucraina"
-   ],
-   [
-    "settembre 2026",
-    "Kyiv intensifica attacchi alle raffinerie russe"
-   ],
-   [
-    "inizio ottobre 2026",
-    "Pressioni USA su Kyiv per fermare i raid energetici"
-   ],
-   [
-    "13 ottobre",
-    "Interruzione dei terminali Starlink durante attacco missilistico russo"
-   ]
-  ],
   "z7c42897d": [
    [
     "2022",
@@ -17528,20 +17284,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
     "Pubblicazione risultati: presenza in 16 paesi europei"
    ]
   ],
-  "zd1304308": [
-   [
-    "Gennaio 2026",
-    "Trump ipotizza possibile acquisizione/invasione della Groenlandia"
-   ],
-   [
-    "Primavera 2026",
-    "Proteste di Danimarca e alleati europei"
-   ],
-   [
-    "14 ottobre",
-    "Annuncio di esplorazione 'massiva' di petrolio e gas"
-   ]
-  ],
   "za8bcfd6d": [
    [
     "Settimane scorse",
@@ -17656,38 +17398,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "Lunedì notte",
     "Scoppia l'incendio che distrugge la struttura"
-   ]
-  ],
-  "z3c4dc374": [
-   [
-    "2014",
-    "Gli Houthi prendono Sana'a"
-   ],
-   [
-    "2015",
-    "Interviene la coalizione a guida saudita"
-   ],
-   [
-    "Ultime settimane",
-    "Nuova escalation blocca gli aiuti a 800mila persone"
-   ]
-  ],
-  "z0330d9e9": [
-   [
-    "2014-2015",
-    "Sinodi sulla famiglia sotto Francesco"
-   ],
-   [
-    "2016",
-    "Pubblicazione di «Amoris laetitia»"
-   ],
-   [
-    "Giorni scorsi",
-    "Incontro vaticano per il decennale"
-   ],
-   [
-    "Ieri",
-    "Ricovero di Papa Leone XIV al Gemelli"
    ]
   ],
   "ze1a08137": [
@@ -18000,20 +17710,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    [
     "14 ottobre 2026",
     "Opposizione accusa Netanyahu di strumentalizzare la sicurezza per le elezioni"
-   ]
-  ],
-  "z1d2aba2e": [
-   [
-    "maggio 2025",
-    "Arresti di presunti agenti iraniani nel Regno Unito per piani ostili"
-   ],
-   [
-    "estate 2025",
-    "MI5 segnala aumento di attività di spionaggio russo e iraniano in Europa"
-   ],
-   [
-    "14 ottobre 2026",
-    "McCallum collega il caso RAF Fairford a una strategia più ampia di guerra ibrida"
    ]
   ],
   "z90946b13": [
@@ -18425,56 +18121,8 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ]
   ]
  },
- "confronti": {
-  "z8df16686": {
-   "voci": [
-    {
-     "n": "The Guardian",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Centra la restrizione ai terminali Starlink in movimento sopra 100mph, citando il consulente Beskrestnov che parla di missioni fallite. Collega l'episodio alla pressione di Trump su Zelensky per fermare gli attacchi alle raffinerie russe e riporta i dati sui 600.000 senza corrente.",
-     "b": "a"
-    },
-    {
-     "n": "Deutsche Welle",
-     "c": "Bonn",
-     "p": "DE",
-     "t": "Riporta la conferma dell'ufficio di Zelensky e le dichiarazioni di Beskrestnov sul limite di velocità imposto da SpaceX, citando anche fonti del 7° Corpo di reazione rapida via Reuters. Inquadra l'episodio nel contesto delle pressioni di Trump su Zelensky riguardo al \"energy ceasefire\" mai confermato da Mosca.",
-     "b": "a"
-    },
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Descrive due episodi consecutivi - missili senza allarme e blackout Starlink - come un \"quadro inquietante\" pur ammettendo l'assenza di prove su una decisione deliberata di Washington. Cita Beskrestnov e Sternenko, quest'ultimo più esplicito nell'ipotizzare un'azione di SpaceX su richiesta dell'amministrazione Trump, e ricorda le smentite di Trump e del ministro Sybiha.",
-     "b": "a"
-    },
-    {
-     "n": "BBC News",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Riporta le dichiarazioni di Beskrestnov sulla restrizione a 100mph e una conferma di una fonte del ministero della Difesa ucraino alla BBC stessa. Inserisce la notizia nel contesto più ampio degli attacchi russi che hanno lasciato 600.000 persone senza elettricità e della visita di Zelensky a Downing Street.",
-     "b": "a"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Testo identico alla versione de la Repubblica: stessa impostazione su due episodi ravvicinati, stesse citazioni di Beskrestnov e Sternenko, stesso richiamo alle smentite di Trump e Sybiha sulla condivisione di intelligence.",
-     "b": "a"
-    }
-   ],
-   "divergono": "The Guardian e BBC News riportano la soglia di velocità come \"100mph\", mentre la Repubblica parla di 160 km/h (equivalente, ma espresso diversamente) e cita un'interruzione anche a velocità più basse (20 secondi). La Repubblica è la più esplicita nel collegare l'episodio a una possibile richiesta politica dell'amministrazione Trump, riportando l'ipotesi diretta di Sternenko, mentre Guardian, DW e BBC si limitano a citare Beskrestnov che parla di coincidenza improbabile senza accusa diretta. Solo la Repubblica menziona le smentite di Trump e del ministro Sybiha sulla sospensione dell'intelligence, aspetto assente negli altri articoli. BBC News è la sola a riportare il numero esatto di missili intercettati (4 su 39) e l'incontro di Zelensky con il premier britannico."
-  }
- },
+ "confronti": {},
  "luoghi": {
-  "z8df16686": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z7c42897d": {
    "n": "Roma",
    "p": [
@@ -19943,20 +19591,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "zd1304308": {
-   "n": "Groenlandia",
-   "p": [
-    "Greenland"
-   ],
-   "pt": []
-  },
-  "zbfdfa1e4": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "za8bcfd6d": {
    "n": "Baku",
    "p": [
@@ -20315,13 +19949,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z3c4dc374": {
-   "n": "Marib e Taiz",
-   "p": [
-    "Yemen"
-   ],
-   "pt": []
-  },
   "z12f02213": {
    "n": "Grecia",
    "p": [
@@ -20391,11 +20018,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "p": [
     "Kenya"
    ],
-   "pt": []
-  },
-  "z0330d9e9": {
-   "n": "Città del Vaticano",
-   "p": [],
    "pt": []
   },
   "z2bcb7599": {
@@ -21289,13 +20911,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    "n": "Israele",
    "p": [
     "Israel"
-   ],
-   "pt": []
-  },
-  "z1d2aba2e": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -22315,13 +21930,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
    ],
    "pt": []
   },
-  "z89e29408": {
-   "n": "Andorra",
-   "p": [
-    "Andorra"
-   ],
-   "pt": []
-  },
   "z12a26542": {
    "n": "Encamp",
    "p": [
@@ -22938,7 +22546,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   }
  },
  "rilievo": {
-  "z8df16686": 3,
   "z7c42897d": 2,
   "z9e3398c3": 1,
   "z269e1f3d": 1,
@@ -23155,8 +22762,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z3ee76899": 1,
   "z515a2ced": 1,
   "zb821eb5e": 2,
-  "zd1304308": 2,
-  "zbfdfa1e4": 1,
   "za8bcfd6d": 2,
   "z29f52c02": 1,
   "z771fd768": 1,
@@ -23208,7 +22813,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zafcc1b86": 1,
   "ze61118e5": 1,
   "z7d9e164e": 2,
-  "z3c4dc374": 2,
   "z12f02213": 1,
   "z2177635b": 1,
   "z8d6e53c8": 1,
@@ -23219,7 +22823,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "zc8b71b6f": 1,
   "z753cb2be": 1,
   "zcda60040": 1,
-  "z0330d9e9": 2,
   "z2bcb7599": 1,
   "ze1a08137": 2,
   "z87aa5e80": 2,
@@ -23348,7 +22951,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z83b5144c": 1,
   "za3dbc157": 2,
   "zade0a2c5": 2,
-  "z1d2aba2e": 2,
   "z05b77e54": 1,
   "z553f0660": 2,
   "z90946b13": 2,
@@ -23498,7 +23100,6 @@ window.EDIZIONI["2026-10-14-sera"] = {
   "z9107107d": 1,
   "z2ac05a5c": 1,
   "z5c96987c": 1,
-  "z89e29408": 1,
   "z12a26542": 1,
   "zb30ae40e": 1,
   "z2419e83e": 1,
