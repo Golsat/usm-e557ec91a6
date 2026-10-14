@@ -3,6 +3,1568 @@ window.EDIZIONI["2026-10-14"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "ze102cfa5",
+   "sez": "mondo",
+   "titolo": "La fragilità dei pontefici: quando la salute diventa specchio della Chiesa",
+   "orig": "La fragilità dei pontefici: se la salute diventa specchio della Chiesa",
+   "lead": "La Repubblica ripercorre come i papi abbiano gestito pubblicamente la propria malattia, da Giovanni Paolo II a Benedetto XVI fino a Leone XIV, con approcci opposti: discrezione, dimissioni storiche e apertura. Il tema torna d'attualità dopo l'operazione subita da Leone XIV, e l'articolo analizza come la salute del pontefice sia sempre stata percepita come specchio dello stato della Chiesa stessa. Lo riferisce la Repubblica.",
+   "more": [
+    "Il rapporto tra malattia e papato ha segnato la storia recente della Chiesa cattolica: Giovanni Paolo II scelse di mostrare pubblicamente il proprio declino fisico, Benedetto XVI si dimise per primo in secoli citando il venir meno delle forze, mentre i successori hanno adottato approcci diversi nella comunicazione della propria salute ai fedeli."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/cronaca/2026/10/14/news/leone_xiv_operato_fragilita_pontefici_salute_chiesa-425646057/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-13T23:00+00:00"
+    },
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/partinico-la-bellezza-diventa-legalita-e-la-scuola-si-trasforma-in-una-comunita-di-vita-al-dalla-chiesa-tre-ore-e-mezza-di-emozioni-con-nicolo-mannino-la-testimonianza-di-anna-ran/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-14T05:50+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1cc42375",
+   "sez": "mondo",
+   "titolo": "Malawi, annullato l'ordine di estradizione contro il predicatore Bushiri",
+   "orig": "Malawi: Bushiri Extradition Order Thrown Out As Malawi Court Delivers Final Ruling",
+   "lead": "L'Alta Corte di Lilongwe ha emesso la sentenza definitiva che respinge la richiesta di estradizione verso il Sudafrica del predicatore Shepherd Bushiri e di sua moglie Mary. La decisione, contenuta in un giudizio dettagliato di 175 pagine, conferma e motiva la precedente bocciatura dell'ordine di estradizione emesso contro la coppia. Lo riferisce allAfrica, citando Nyasa Times.",
+   "more": [
+    "Shepherd Bushiri è un predicatore malawiano a capo della Enlightened Christian Gathering Church, con seguito in diversi Paesi dell'Africa australe. Lui e la moglie erano ricercati dal Sudafrica, dove erano stati incriminati per reati finanziari e di frode prima di rifugiarsi in Malawi, dove la giustizia locale ha più volte bloccato i tentativi di estradizione."
+   ],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610140020.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T05:03+00:00"
+    },
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/bushiri-extradition-order-thrown-out-as-malawi-court-delivers-final-ruling/?utm_source=rss&utm_medium=rss&utm_campaign=bushiri-extradition-order-thrown-out-as-malawi-court-delivers-final-ruling",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-14T01:10+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6ff26fb0",
+   "sez": "mondo",
+   "titolo": "Il Cairo ospiterà colloqui tra fazioni palestinesi su unità ed elezioni",
+   "orig": "Cairo to host Palestinian groups for talks on unity, elections, report says",
+   "lead": "L'Egitto ospiterà mercoledì e giovedì incontri tra i principali gruppi palestinesi, tra cui l'OLP, la Jihad islamica palestinese e Hamas, per discutere delle divisioni interne, dell'unità nazionale e delle elezioni. Lo riportano fonti citate da Al Jazeera. Il portavoce di Fatah Abdel Fattah Dawla ha dichiarato ad Anadolu che gli incontri serviranno a preparare un dialogo più ampio e a costruire consenso tra le fazioni. Il presidente Mahmoud Abbas aveva in precedenza rinviato le elezioni presidenziali e legislative.",
+   "more": [
+    "La divisione tra Fatah, che controlla l'Autorità palestinese in Cisgiordania, e Hamas, che governa Gaza dal 2007, è una delle principali cause di debolezza politica palestinese. Tentativi di riconciliazione mediati dall'Egitto si sono susseguiti negli anni senza portare a elezioni effettive, mentre Abbas guida l'Autorità palestinese senza un nuovo mandato elettorale da tempo."
+   ],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/cairo-host-palestinian-groups-talks-unity-elections-report-says",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T06:16+01:00"
+    },
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/local/apc-pujehun-unity-love-reconciliation-members/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-13T21:57+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9629c0ee",
+   "sez": "mondo",
+   "titolo": "Mirziyoyev in Azerbaigian per il vertice CICA",
+   "orig": "President Mirziyoyev to visit Azerbaijan for CICA summit.",
+   "lead": "Il presidente uzbeko Shavkat Mirziyoyev si recherà in Azerbaigian il 14 e 15 ottobre per partecipare al settimo vertice della Conferenza sull'interazione e le misure di rafforzamento della fiducia in Asia (CICA) a Baku. In quella sede i leader discuteranno di sicurezza regionale, cooperazione economica, connettività dei trasporti, digitalizzazione e sviluppo istituzionale, oltre a tenere incontri bilaterali con i capi delle delegazioni straniere presenti.",
+   "more": [
+    "Il CICA è un forum intergovernativo nato per promuovere la cooperazione e la fiducia tra i Paesi asiatici su temi di sicurezza, economia e sviluppo. Riunisce decine di Stati del continente, offrendo un'occasione di dialogo multilaterale e di incontri bilaterali tra i capi di Stato partecipanti."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/13/president-mirziyoyev-to-visit-azerbaijan-for-cica-summit",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-13T21:13+05:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/14/uzbekistans-mirziyoyev-to-visit-azerbaijan-for-cica-summit/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-14T04:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z46c3f191",
+   "sez": "mondo",
+   "titolo": "Francia, la protesta dei liceali si allarga a studenti e 'gilet gialli'",
+   "orig": "EN DIRECT - Colère des lycéens : les élèves mobilisés souhaitent que les étudiants et les «gilets jaunes» poursuivent le mouvement",
+   "lead": "In Francia prosegue la mobilitazione dei liceali, che chiedono a studenti universitari e al movimento dei 'gilet gialli' di proseguire la protesta. Diverse organizzazioni studentesche e liceali saranno ricevute giovedì pomeriggio dai ministri dell'Istruzione e dell'Università. Le Figaro racconta come negli ultimi giorni il movimento abbia guadagnato peso con l'adesione di alcune storiche figure dei gilet gialli, mentre Libération sottolinea che decine di migliaia di persone hanno sfilato martedì in tutto il Paese, in attesa di una mobilitazione più ampia prevista sabato.",
+   "more": [
+    "I 'gilet gialli' furono un movimento di protesta sociale nato in Francia nel 2018 contro il caro-vita e le tasse sui carburanti, capace di mobilitare per mesi ampie fasce della popolazione. Il nome richiama i giubbotti catarifrangenti indossati dai manifestanti durante i blocchi stradali in tutto il Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-les-eleves-mobilises-souhaitent-que-les-etudiants-et-les-gilets-jaunes-poursuivent-le-mouvement-20261014",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-14T07:52+02:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-gilets-jaunes-saison-2-veritable-revolution-ou-simple-mode-tiktok-a-quoi-s-attendre-20261014",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-14T06:24+02:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/education/mobilisations-des-facs-aux-anciens-gilets-jaunes-on-prend-le-relais-des-lyceens-20261013_PKTFHXJZRVCTLMHOKE7HZOXIP4/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-13T18:42+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z31296aee",
+   "sez": "mondo",
+   "titolo": "Il presidente tedesco Steinmeier augura pronta guarigione a Leone XIV",
+   "orig": "Bundespräsident Steinmeier wünscht Leo XIV. baldige Genesung",
+   "lead": "Il presidente tedesco Frank-Walter Steinmeier ha augurato una pronta guarigione a papa Leone XIV, dopo che il pontefice ha superato in serata un intervento chirurgico per un tumore, con conseguente cancellazione di alcuni impegni. Anche la Conferenza episcopale tedesca ha espresso vicinanza al Papa, augurandogli forza per la guarigione. Fedeli e ambienti politici e religiosi in Germania hanno manifestato sostegno verso il pontefice in queste ore.",
+   "more": [
+    "Leone XIV è il successore di papa Francesco, eletto di recente alla guida della Chiesa cattolica. Frank-Walter Steinmeier è il presidente della Repubblica federale tedesca, figura con compiti prevalentemente rappresentativi nel sistema politico tedesco."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/gesellschaft/bundespraesident-steinmeier-wuenscht-leo-xiv-baldige-genesung-a-8db1b73c-ddfc-4c4e-b82a-904ffbd0ad09#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-14T07:44+02:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/papst-gemelli-klinik-krebs-li.3563315",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-14T02:54+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z77bde7ad",
+   "sez": "mondo",
+   "titolo": "Sudan, un'iniziativa di dialogo da non liquidare troppo in fretta",
+   "orig": "Sudan cannot afford to dismiss a chance for dialogue",
+   "lead": "Un commento di Al Jazeera sostiene che il Sudan non può permettersi di respingere una nuova iniziativa di dialogo, nonostante le serie preoccupazioni sollevata dai critici riguardo all'influenza militare su di essa. L'autore invita a non bocciare prematuramente il tentativo, pur riconoscendo i dubbi legittimi che circondano il ruolo delle forze armate nel processo.",
+   "more": [
+    "Il Sudan è dilaniato da un conflitto armato tra l'esercito regolare e le forze paramilitari di supporto rapido, scoppiato nel 2023, che ha causato una grave crisi umanitaria e milioni di sfollati. I tentativi di mediazione internazionale per fermare i combattimenti si sono finora susseguiti senza esito risolutivo."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-14T05:51+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z27b24eb9",
+   "sez": "mondo",
+   "titolo": "Irlanda, sciopero nel settore pubblico coinvolge oltre 300mila lavoratori",
+   "orig": "Widespread disruption as public sector strike begins",
+   "lead": "In Irlanda è iniziato uno sciopero che coinvolge più di 300mila lavoratori del settore pubblico, tra cui infermieri, medici, insegnanti e dipendenti statali, causando diffusi disagi. La protesta è motivata dai ritardi nel raggiungimento di un nuovo accordo salariale per il pubblico impiego. Lo riferisce RTÉ News.",
+   "more": [
+    "In Irlanda i contratti salariali del settore pubblico vengono negoziati periodicamente tra governo e sindacati attraverso accordi collettivi nazionali, che regolano aumenti e condizioni di lavoro per centinaia di migliaia di dipendenti statali, dalla sanità alla scuola."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1014/1595279-public-sector-strike/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-14T00:01+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcb335193",
+   "sez": "mondo",
+   "titolo": "Obama a Belfast: 'Possiamo fare meglio di quanto stiamo facendo ora'",
+   "orig": "'We can do better than we're doing right now' - Obama",
+   "lead": "L'ex presidente statunitense Barack Obama ha parlato alla folla riunita a Belfast, invitando a 'insistere che possiamo fare meglio di quanto stiamo facendo ora', nel corso di un intervento dedicato alla ricerca della pace in un momento di instabilità globale. Lo riferisce RTÉ News.",
+   "more": [
+    "Belfast è la capitale dell'Irlanda del Nord, città segnata per decenni dal conflitto noto come 'Troubles' tra comunità unioniste e repubblicane, concluso con l'accordo di pace del Venerdì Santo del 1998. Obama ha spesso parlato pubblicamente di temi legati alla pace e alla democrazia dopo la fine della presidenza."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1014/1595075-barack-obama-belfast/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-14T00:18+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z67ddecfd",
+   "sez": "mondo",
+   "titolo": "Il re di Spagna: Ceuta e Melilla sono parte inseparabile del Paese",
+   "orig": "Ispanijos karalius: Seuta ir Melilja yra neatsiejama šalies dalis",
+   "lead": "A due mesi e mezzo da un afflusso senza precedenti di migranti a Ceuta, il re di Spagna Felipe VI ha ribadito che sia questa città sia l'altra enclave spagnola nel Nord Africa, Melilla, sono parte inseparabile della Spagna. Lo riferisce LRT.",
+   "more": [
+    "Ceuta e Melilla sono due enclave spagnole situate sulla costa nordafricana, confinanti con il Marocco, che ne rivendica la sovranità. Sono spesso teatro di tentativi di ingresso irregolare di migranti verso l'Europa, con episodi di afflussi massicci che hanno generato tensioni diplomatiche tra Madrid e Rabat."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3082036/ispanijos-karalius-seuta-ir-melilja-yra-neatsiejama-salies-dalis",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-14T08:18+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z25117965",
+   "sez": "economia",
+   "titolo": "Negli Stati Uniti ampliati i 'Trump Accounts' per i minori, ma nuove regole sollevano dubbi",
+   "orig": "Trump Accounts expand to millions of children, but new rules raise questions",
+   "lead": "Il Dipartimento del Tesoro statunitense ha creato i cosiddetti 'Trump Accounts' per ogni bambino idoneo, iscrivendo automaticamente più di 60 milioni di minori. L'espansione del programma introduce però nuove regole: i donatori possono ora versare azioni individuali che le famiglie non possono scegliere né rifiutare e che devono mantenere per cinque anni. La giornalista Amna Nawaz ne ha discusso con Richard Rubin, reporter del Wall Street Journal, nel programma PBS NewsHour.",
+   "more": [
+    "I 'Trump Accounts' sono conti di risparmio per l'infanzia introdotti dall'amministrazione statunitense, pensati per accumulare capitale a favore dei minori nel tempo. Il coinvolgimento di donazioni azionarie vincolate per anni solleva interrogativi sul controllo che le famiglie hanno effettivamente su questi fondi."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/show/trump-accounts-expand-to-millions-of-children-but-new-rules-raise-questions",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T18:30-04:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5e6adfc5",
+   "sez": "tech",
+   "titolo": "SK hynix prevede una crescita di 20 volte delle prestazioni dell'infrastruttura AI entro il 2030",
+   "orig": "SK hynix projects AI infrastructure performance to grow 20-fold by 2030",
+   "lead": "L'azienda sudcoreana SK hynix ha previsto mercoledì che le prestazioni dell'infrastruttura per l'intelligenza artificiale cresceranno di venti volte entro il 2030. Lo riferisce l'agenzia Yonhap, senza fornire ulteriori dettagli sulle modalità con cui l'azienda ha elaborato la stima o sui settori specifici coinvolti in questa crescita prevista.",
+   "more": [
+    "SK hynix è una delle principali aziende sudcoreane produttrici di semiconduttori e memorie, fornitore chiave per il settore tecnologico globale, incluso lo sviluppo di chip utilizzati nei sistemi di intelligenza artificiale e nei data center."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261014006100320",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-14T14:40+09:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0344ac2c",
+   "sez": "mondo",
+   "titolo": "L'agenzia di Kim Soo-hyun annuncia azioni legali contro chi diffonde false informazioni sull'attore",
+   "orig": "Kim Soo-hyun's agency to take legal action against those spreading 'false information' about actor",
+   "lead": "L'agenzia sudcoreana Gold Medalist, che rappresenta l'attore Kim Soo-hyun, ha annunciato mercoledì di aver avviato azioni legali contro chi diffonde informazioni false su di lui. L'annuncio arriva dopo che l'attore è stato scagionato dall'accusa di aver violato la legge sudcoreana sul benessere dei minori. Lo riferisce CNA.",
+   "more": [
+    "Kim Soo-hyun è un noto attore sudcoreano, protagonista di numerose serie televisive di successo in Asia e nel mondo. Il benessere dei minori in Corea del Sud è tutelato da specifiche normative che puniscono comportamenti considerati dannosi verso i minorenni."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/entertainment/kim-soo-hyun-agency-legal-action-gold-medalist-6457831",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-14T13:19+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z13bacc64",
+   "sez": "mondo",
+   "titolo": "Ministra figiana scatena polemiche difendendo gli stipendi dei parlamentari",
+   "orig": "Fijian minister sparks debate after trying to justify MPs' salaries",
+   "lead": "La ministra fijiana Alitia Bainivalu ha acceso un acceso dibattito pubblico sostenendo che gli stipendi dei parlamentari sono giustificati dalle pressanti aspettative culturali e comunitarie a cui i politici devono far fronte. La dichiarazione arriva in un Paese dove un deputato comune guadagna oltre il 600 per cento in più rispetto a un lavoratore a tempo pieno pagato al salario minimo, una disparità che alimenta da tempo malcontento tra i cittadini figiani. Lo riferisce RNZ.",
+   "more": [
+    "Le Fiji sono una nazione insulare del Pacifico con un sistema parlamentare dove le remunerazioni dei politici sono spesso oggetto di critiche pubbliche, specie in contesti di forte disuguaglianza economica tra classe dirigente e popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1900147/fijian-minister-sparks-debate-after-trying-to-justify-mps-salaries",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-14T18:16+13:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z355c8596",
+   "sez": "mondo",
+   "titolo": "Una sopravvissuta vede parallelismi tra le indagini della Royal Commission e i fallimenti del Teaching Council",
+   "orig": "Parallels between Royal Commission findings and Teaching Council failures, abuse survivor says",
+   "lead": "Un rapporto neozelandese ha stabilito che il Teaching Council avrebbe dovuto radiare l'insegnante Timothy Fisher un decennio prima della sua condanna per reati sessuali su minori. Una sopravvissuta agli abusi ha dichiarato di riscontrare forti parallelismi tra le conclusioni di questo rapporto e quelle emerse dalla Royal Commission sugli abusi in contesti istituzionali in Nuova Zelanda, sottolineando come le autorità responsabili della tutela dei minori abbiano ripetutamente fallito nel proprio compito nonostante segnali d'allarme già presenti da anni. Lo riferisce RNZ.",
+   "more": [
+    "Il Teaching Council è l'organismo neozelandese che regola la professione docente, incluse le procedure disciplinari e di radiazione per cattiva condotta, mentre la Royal Commission ha indagato su abusi avvenuti in istituzioni statali e religiose nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/crime-and-justice/1900692/parallels-between-royal-commission-findings-and-teaching-council-failures-abuse-survivor-says",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-14T17:45+13:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbb731d32",
+   "sez": "mondo",
+   "titolo": "La polizia della Papua Nuova Guinea sequestra un arsenale di armi legato a una rete criminale internazionale",
+   "orig": "PNG police seize high-powered weapons cache linked to an international syndicate",
+   "lead": "La polizia della Papua Nuova Guinea ha sequestrato un ingente quantitativo di armi ad alta potenza collegato a un'organizzazione criminale internazionale. Il capo della polizia del Paese ha dichiarato che il sequestro mette in luce la grave minaccia rappresentata dalle reti criminali transnazionali che sfruttano la Papua Nuova Guinea come canale per il traffico illecito di armi da fuoco verso altre destinazioni della regione del Pacifico. Lo riferisce RNZ Pacific.",
+   "more": [
+    "La Papua Nuova Guinea, situata nel Pacifico sud-occidentale, è spesso indicata come un punto di passaggio vulnerabile per traffici illeciti a causa di confini estesi e scarsamente controllati e di una capacità limitata delle forze dell'ordine locali."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1894237/png-police-seize-high-powered-weapons-cache-linked-to-an-international-syndicate",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-14T13:01+13:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z61b04148",
+   "sez": "mondo",
+   "titolo": "Un sacerdote papuano dice che l'Indonesia non deve temere la visita Onu a Papua Occidentale",
+   "orig": "Papua priest says Indonesia does not need to fear UN visit to West Papua",
+   "lead": "Padre Alexandro Rangga, sacerdote cattolico, ha dichiarato che l'Indonesia non ha motivo di temere una visita delle Nazioni Unite nella regione di Papua Occidentale. Il religioso ha spiegato che nella sua attività quotidiana all'interno della Chiesa incontra costantemente persone sfollate o che hanno perso membri della propria famiglia, suggerendo che una missione internazionale potrebbe contribuire a far luce sulla situazione umanitaria nella regione. Lo riferisce RNZ Pacific.",
+   "more": [
+    "Papua Occidentale è una regione indonesiana contesa, teatro da decenni di un conflitto a bassa intensità tra movimenti indipendentisti e forze governative, con accuse ricorrenti di violazioni dei diritti umani contro la popolazione locale."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1892650/papua-priest-says-indonesia-does-not-need-to-fear-un-visit-to-west-papua",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-14T11:41+13:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zeeb36eb1",
+   "sez": "salute",
+   "titolo": "Hong Kong invita i clienti di una sauna di Mong Kok a sottoporsi al test per il vaiolo delle scimmie",
+   "orig": "Mong Kok sauna patrons urged to get Mpox tests",
+   "lead": "Il Centro per la protezione della salute di Hong Kong ha invitato chiunque abbia frequentato di recente una sauna nel quartiere di Mong Kok a sottoporsi a uno screening per il vaiolo delle scimmie, dopo che un cliente è risultato positivo al virus. L'uomo, 39 anni, avrebbe avuto contatti sessuali ad alto rischio con altri clienti maschi del locale Hu-Tong, frequentato più volte durante il periodo di incubazione. Le autorità hanno confermato finora 31 casi di Mpox a Hong Kong quest'anno, e un responsabile del centro ritiene si tratti di un caso isolato. Lo riferisce RTHK.",
+   "more": [
+    "Il vaiolo delle scimmie, o Mpox, è una malattia infettiva virale che si trasmette principalmente attraverso il contatto stretto, inclusi i rapporti sessuali, e può causare febbre, eruzioni cutanee e linfonodi ingrossati; negli ultimi anni ha causato focolai in diverse parti del mondo."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1873878-20261014.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-14T11:55+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z17f08641",
+   "sez": "mondo",
+   "titolo": "Patrasso, indagine su 42 centri estetici: controlli anche in cinque studi medici",
+   "orig": "Πάτρα: Στον εισαγγελέα φάκελος για 42 κέντρα αισθητικής – Έλεγχος και σε πέντε ιατρεία",
+   "lead": "L'Ordine dei medici di Patrasso ha trasmesso alle autorità di polizia e giudiziarie un fascicolo riguardante 42 centri estetici della città greca, nei quali si sospetta vengano eseguiti atti medici da personale non autorizzato. Secondo la presidente dell'Ordine, Anna Mastorakou, in cinque studi medici sono stati inoltre rilevati interventi non riconosciuti come pratiche mediche lecite. L'indagine è partita da segnalazioni raccolte dall'organizzazione professionale dei medici della città. Lo riferisce ERT News.",
+   "more": [
+    "Patrasso è una delle principali città greche, e il fenomeno dei centri estetici che offrono trattamenti simili a quelli medici senza le necessarie autorizzazioni sanitarie è oggetto di crescente attenzione da parte delle autorità sanitarie in diversi Paesi europei."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/perifereiakoi-stathmoi/patra/patra-ston-eisaggelea-fakelos-gia-42-kentra-aisthitikis-elegxos-kai-se-pente-iatreia/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-14T06:08+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0a644c52",
+   "sez": "sport",
+   "titolo": "La Formula 1 annuncia un accordo decennale per ospitare il Gran Premio d'Africa",
+   "orig": "Формула 1 објави десетгодишен договор за домаќин на Африканското Гран при",
+   "lead": "La Formula 1 ha annunciato un accordo della durata di dieci anni per l'organizzazione del Gran Premio d'Africa, che entrerà nel calendario del campionato all'inizio degli anni 2030. L'annuncio è stato diffuso dall'ufficio stampa del campionato automobilistico con sede a Londra, segnando il ritorno della massima competizione motoristica nel continente africano dopo decenni di assenza. Lo riferisce MIA.",
+   "more": [
+    "La Formula 1 è il massimo campionato mondiale di automobilismo, che negli ultimi anni ha ampliato il proprio calendario globale includendo nuove sedi in diversi continenti per aumentare la propria presenza internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1-%D0%BE%D0%B1%D1%98%D0%B0%D0%B2%D0%B8-%D0%B4%D0%B5%D1%81%D0%B5%D1%82%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD-%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BC%D0%B0%D1%9C%D0%B8%D0%BD-%D0%BD%D0%B0-%D0%B0%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D0%B3%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-14T08:04+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9d7cbf39",
+   "sez": "mondo",
+   "titolo": "L'AIEA invierà missioni in 19 sottostazioni chiave per il funzionamento delle centrali nucleari ucraine",
+   "orig": "Сибиха: МААЕ испраќа мисии на 19 трафостаници клучни за работата на нуклеарните централи",
+   "lead": "Il ministro degli Esteri ucraino Andrii Sybiha ha annunciato che l'Agenzia internazionale per l'energia atomica invierà proprie missioni in 19 sottostazioni elettriche considerate cruciali per il funzionamento delle centrali nucleari ucraine. L'iniziativa punta a monitorare la sicurezza di infrastrutture energetiche sensibili in un contesto di guerra in corso, dove gli impianti nucleari del Paese restano esposti a rischi legati ai combattimenti e ai possibili attacchi alle reti elettriche. Lo riferisce MIA.",
+   "more": [
+    "L'Agenzia internazionale per l'energia atomica (AIEA) è l'organismo delle Nazioni Unite incaricato di promuovere l'uso pacifico dell'energia nucleare e di vigilare sulla sicurezza degli impianti, un ruolo diventato cruciale in Ucraina dopo l'inizio dell'invasione russa del 2022."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%81%D0%B8%D0%B1%D0%B8%D1%85%D0%B0-%D0%BC%D0%B0%D0%B0%D0%B5-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D1%9C%D0%B0-%D0%BC%D0%B8%D1%81%D0%B8%D0%B8-%D0%BD%D0%B0-19-%D1%82%D1%80%D0%B0%D1%84%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%86%D0%B8-%D0%BA%D0%BB%D1%83%D1%87%D0%BD%D0%B8-%D0%B7%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BD%D1%83%D0%BA%D0%BB%D0%B5%D0%B0%D1%80%D0%BD%D0%B8%D1%82%D0%B5-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-14T07:49+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3eaf7b60",
+   "sez": "mondo",
+   "titolo": "110 protesi fissate nel campo Jaipur Foot alle Figi",
+   "orig": "110 limbs fitted at Jaipur Foot camp",
+   "lead": "Nell'ambito del Jaipur Foot Camp 2026 sono già state applicate 110 protesi degli arti, mentre gli organizzatori proseguono il lavoro per raggiungere l'obiettivo di 650 interventi. Satish Mehta, presidente della Bhagwan Mahaveer Viklang Sahayata Samiti, ha dichiarato che il team ha iniziato le attività il 6 ottobre e procede secondo i tempi previsti. Il campo si svolge in diverse località delle Figi, tra cui Suva e Labasa. Lo riferisce FBC News.",
+   "more": [
+    "Il Jaipur Foot è un modello di protesi artificiale a basso costo sviluppato in India, ampiamente utilizzato in programmi umanitari nei Paesi in via di sviluppo per fornire arti artificiali a persone con disabilità che non potrebbero altrimenti permettersene una."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/110-limbs-fitted-at-jaipur-foot-camp/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-10-14T05:38+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z538a2ef2",
+   "sez": "mondo",
+   "titolo": "Le Figi cercano nuovi investimenti per ampliare l'edilizia popolare",
+   "orig": "Ageing properties drive housing costs",
+   "lead": "Il Public Rental Board delle Figi è alla ricerca di nuovi partner e investimenti per ampliare l'offerta di edilizia popolare nel Paese, mentre la domanda crescente e l'invecchiamento degli immobili esistenti mettono sotto pressione il mercato degli affitti. La presidente dell'ente, Asenaca Nawaqalevu, ha dichiarato che è necessario trovare modi innovativi per aumentare il patrimonio immobiliare disponibile e garantire abitazioni sicure, accessibili e sostenibili per le famiglie a basso reddito. Lo riferisce FBC News.",
+   "more": [
+    "Il Public Rental Board è l'ente pubblico delle Figi incaricato di fornire alloggi a prezzi accessibili per le fasce di popolazione a basso reddito, in un contesto dove la crescita demografica urbana aumenta la pressione sul mercato immobiliare."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/ageing-properties-drive-housing-costs/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-10-14T05:32+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd9f057b8",
+   "sez": "mondo",
+   "titolo": "Nessuna prova di frode nell'organizzazione dei concerti cancellati di Kanye West a San Pietroburgo",
+   "orig": "Organizers of Kanye West’s canceled St. Petersburg concerts say prosecutors found no evidence of fraud",
+   "lead": "I pubblici ministeri russi non hanno trovato prove di frode in seguito a una verifica sull'agenzia Say Agency, incaricata di organizzare i concerti del rapper statunitense Kanye West a San Pietroburgo, poi cancellati. L'esito dell'indagine chiude, almeno sul piano giudiziario, le polemiche sorte attorno all'annullamento degli spettacoli del musicista nella città russa. Lo riferisce Meduza.",
+   "more": [
+    "Kanye West, oggi noto anche come Ye, è un rapper e produttore statunitense tra i più influenti della musica contemporanea, le cui vicende personali e professionali, comprese tournée annullate, hanno spesso suscitato grande attenzione mediatica a livello internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/14/organizers-of-kanye-west-s-canceled-st-petersburg-concerts-say-prosecutors-found-no-evidence-of-fraud",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-14T01:18+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z699e0ab3",
+   "sez": "mondo",
+   "titolo": "L'insicurezza espone le comunità dello Zamfara a ricorrenti epidemie di colera",
+   "orig": "SPECIAL REPORT: Insecurity exposes Zamfara communities to recurring cholera outbreaks",
+   "lead": "Uno speciale reportage racconta come lo Stato nigeriano di Zamfara, uno dei più colpiti dall'insicurezza diffusasi nel nord-ovest del Paese nell'ultimo decennio, continui a subire epidemie ricorrenti di colera legate proprio a tale instabilità. La violenza endemica, secondo l'inchiesta, compromette l'accesso a infrastrutture sanitarie e igieniche di base, aggravando la vulnerabilità delle comunità locali di fronte alla diffusione della malattia. Lo riferisce Premium Times.",
+   "more": [
+    "Lo Stato di Zamfara, nel nord-ovest della Nigeria, è da anni teatro di violenze legate a bande armate e rapimenti, una situazione di insicurezza che ha avuto gravi ripercussioni anche sui servizi sanitari e sulle condizioni igieniche delle comunità rurali."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/headlines/916779-special-report-insecurity-exposes-zamfara-communities-to-recurring-cholera-outbreaks.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-14T04:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2ee7816e",
+   "sez": "tech",
+   "titolo": "I divieti sui social media non sono una soluzione definitiva, ma i governi potrebbero comunque adottarli",
+   "orig": "Social media bans are no cure-all, but governments may still find them necessary",
+   "lead": "Secondo esperti citati da Rappler, i divieti sui social media possono offrire una sicurezza solo a breve termine per i giovani utenti, ma rischiano di spingerli ad aggirare le restrizioni, rendendo più difficile individuare fenomeni di radicalizzazione online. Nonostante questi limiti, alcuni governi potrebbero comunque ritenere necessario imporre tali divieti come misura precauzionale in assenza di alternative più efficaci. Lo riferisce Rappler.",
+   "more": [
+    "Diversi Paesi nel mondo hanno discusso o introdotto restrizioni sull'uso dei social media da parte dei minori, nel tentativo di arginare rischi come bullismo, dipendenza digitale e esposizione a contenuti estremisti, pur senza un consenso scientifico univoco sulla loro reale efficacia."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/technology/social-media-bans-no-cure-all-governments-may-find-necessary/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-14T13:20+08:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z71ba6381",
+   "sez": "mondo",
+   "titolo": "Iran, eseguita la condanna a morte dell'alpinista Ali Sina Mostafavi",
+   "orig": "قوه قضاییه جمهوری اسلامی از اعدام علی‌سینا مصطفوی در کرمان خبر داد",
+   "lead": "L'agenzia di stampa legata alla magistratura della Repubblica islamica ha annunciato l'esecuzione della condanna a morte di Ali Sina Mostafavi a Kerman, accusato di \"azione armata\". Poche ore prima dell'esecuzione, un account collegato al principe ereditario Reza Pahlavi aveva lanciato un allarme sul rischio dell'impiccagione dell'alpinista, sostenendo che la sentenza fosse basata su confessioni estorte sotto tortura. Lo riferisce Iran International.",
+   "more": [
+    "In Iran la pena di morte viene applicata anche per reati legati alla sicurezza nazionale, spesso in processi criticati da organizzazioni per i diritti umani per la presunta assenza di garanzie processuali e per il ricorso a confessioni ottenute sotto costrizione."
+   ],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202610143114",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-10-14T05:30+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za6bf609b",
+   "sez": "mondo",
+   "titolo": "Hong Kong, commentatore accusato di aver rivelato un'indagine sulla sicurezza nazionale: \"Nessun avviso di riservatezza dalla polizia\"",
+   "orig": "Political commentator charged with revealing nat. security probe says police gave no confidentiality warning",
+   "lead": "Il commentatore politico di Hong Kong Wong Kwok-ngon, noto con lo pseudonimo Wong On-yin, accusato di aver divulgato dettagli relativi a un'indagine sulla sicurezza nazionale, ha dichiarato in tribunale che la polizia non lo aveva avvertito circa la necessità di mantenere riservate le informazioni. L'uomo, 72 anni, che si difende da solo, è comparso davanti alla District Court per la prima giornata del processo. Lo riferisce Hong Kong Free Press.",
+   "more": [
+    "Hong Kong ha introdotto negli ultimi anni leggi sulla sicurezza nazionale che hanno ampliato i reati legati alla diffusione di informazioni sensibili, suscitando critiche da parte di osservatori internazionali per i loro effetti sulla libertà di stampa e di espressione."
+   ],
+   "fonti": [
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/10/14/political-commentator-charged-with-revealing-nat-security-probe-says-police-gave-no-confidentiality-warning/",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-13T23:40+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze0ea2216",
+   "sez": "mondo",
+   "titolo": "Polonia, un uomo accusato di aver pianificato un attentato contro il primo ministro",
+   "orig": "Man charged with plotting attack on Polish PM",
+   "lead": "Un uomo è stato incriminato in Polonia con l'accusa di aver pianificato un attacco contro il primo ministro del Paese. Nella sua abitazione sono stati rinvenuti ordigni esplosivi artigianali, elemento che ha portato le autorità a formalizzare le accuse nei suoi confronti. Lo riferisce Notes from Poland.",
+   "more": [
+    "La Polonia è un Paese membro dell'Unione Europea e della NATO il cui governo, negli ultimi anni, ha dovuto gestire crescenti tensioni di sicurezza interna anche in relazione al contesto geopolitico regionale legato alla guerra in Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/10/13/man-charged-with-plotting-attack-on-polish-pm/",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-13T20:38+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf3a701e0",
+   "sez": "mondo",
+   "titolo": "Sudafrica, al via gli esami di maturità: studenti cercano aiuto con tutor IA e club di matematica",
+   "orig": "STUDENT SUPPORT: From AI tutors to maths clubs, learners find new routes to exam support",
+   "lead": "In Sudafrica ha preso il via la sessione 2026 degli esami di maturità (matric), con un numero record di 962.832 candidati iscritti. Mentre gli studenti affrontano le prove, cresce il ricorso a strumenti digitali come tutor basati sull'intelligenza artificiale e a programmi comunitari come i club di matematica, pensati per offrire un supporto aggiuntivo a chi si prepara agli esami finali. Lo riferisce Daily Maverick.",
+   "more": [
+    "Il matric è l'esame nazionale che conclude il ciclo scolastico secondario in Sudafrica e determina l'accesso all'università o al mondo del lavoro: il suo superamento è considerato una tappa cruciale nella vita degli studenti sudafricani."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-14-from-ai-tutors-to-maths-clubs-learners-find-new-routes-to-exam-support/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-14T05:30+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2208f32a",
+   "sez": "economia",
+   "titolo": "Trendyol vince in appello la causa con il Rapid Bucarest sui marchi delle squadre di calcio",
+   "orig": "Trendyol a câștigat procesul. Firme străine și românești fac bani, pe platformă, din simbolurile Rapid, Dinamo, Steaua și Universitatea Craiova",
+   "lead": "La piattaforma di e-commerce Trendyol ha vinto definitivamente la causa intentata dal club calcistico Rapid Bucarest, che aveva denunciato la vendita sul marketplace di prodotti con il proprio logo senza autorizzazione. Il Rapid aveva ottenuto una prima sentenza favorevole al Tribunale di Bucarest, ma la Corte d'Appello ha ribaltato completamente la decisione, stabilendo che un marketplace non può essere considerato automaticamente responsabile per i prodotti venduti da terzi. Sulla piattaforma continuano a essere commercializzati, da aziende straniere e romene, articoli con i simboli di Rapid, Dinamo, Steaua e Universitatea Craiova.",
+   "more": [
+    "Un marketplace come Trendyol è una piattaforma online che mette in contatto venditori terzi con i consumatori: la questione legale riguarda fino a che punto tali piattaforme debbano verificare la legittimità dei prodotti caricati dai venditori, incluso il rispetto dei marchi registrati."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/trendyol-a-castigat-procesul-firme-straine-si-romanesti-fac-bani-pe-platforma-din-simbolurile-rapid-dinamo-steaua-si-universitatea-craiova-2375326",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-14T05:04+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z41cadb5d",
+   "sez": "economia",
+   "titolo": "Tagikistan, prestito BERS da 10 milioni di euro per modernizzare le reti elettriche di Kulob",
+   "orig": "Tajikistan approves €10 million EBRD loan to modernize Kulob power grids",
+   "lead": "Il Tagikistan ha approvato un prestito da 10 milioni di euro della Banca Europea per la Ricostruzione e lo Sviluppo (BERS) destinato a modernizzare le reti elettriche della città di Kulob. I fondi saranno impiegati per aggiornare l'infrastruttura di distribuzione, installare contatori moderni e ridurre le perdite di elettricità nella rete locale. Lo riferisce Asia-Plus.",
+   "more": [
+    "La BERS è un'istituzione finanziaria internazionale che eroga prestiti e investimenti per sostenere lo sviluppo economico nei Paesi dell'Europa orientale, Asia centrale e Mediterraneo meridionale, spesso concentrandosi su infrastrutture ed efficienza energetica."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/14/tajikistans-parliament-approves-%e2%82%ac10-million-for-modernization-of-kulob-power-grids/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-10-14T04:49+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3341fe17",
+   "sez": "mondo",
+   "titolo": "Un podcast analizza la logica delle purghe tra l'élite nordcoreana",
+   "orig": "Edward Goldring on the logic behind North Korea’s elite purges",
+   "lead": "Edward Goldring, docente di scienze politiche all'Università di Melbourne e autore del libro \"Purges: How Dictators Fight to Survive\", è ospite di un podcast di NK News per discutere perché i leader autoritari rimuovono alti funzionari e cosa queste epurazioni rivelano sulla sopravvivenza al potere. Goldring spiega che una purga non implica necessariamente l'incarcerazione del funzionario colpito, offrendo una chiave di lettura applicabile anche al caso della Corea del Nord. Lo riferisce NK News.",
+   "more": [
+    "Le purghe politiche sono rimozioni forzate di funzionari o membri dell'élite di un regime, spesso usate dai leader autoritari per eliminare rivali interni o consolidare il proprio potere; nella Corea del Nord sono un fenomeno ricorrente nella storia del regime."
+   ],
+   "fonti": [
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/edward-goldring-on-the-logic-behind-north-koreas-elite-purges/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-10-14T01:09+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5a297bc3",
+   "sez": "economia",
+   "titolo": "Germania, dubbi sulla costituzionalità delle esenzioni fiscali sulle successioni per le imprese",
+   "orig": "Erbschaftsteuer - Sind die Ausnahmen für Unternehmen verfassungswidrig?",
+   "lead": "In Germania si discute se le esenzioni previste dall'imposta di successione (Erbschaftsteuer) per le aziende siano incostituzionali. La questione riguarda il trattamento di favore riservato ai patrimoni aziendali trasmessi per via ereditaria rispetto ad altri beni, un tema che coinvolge principi di equità fiscale sanciti dalla Costituzione tedesca. Lo riferisce Tagesschau.",
+   "more": [
+    "L'imposta di successione tedesca prevede regole specifiche per le aziende di famiglia, pensate per evitare che il pagamento delle tasse costringa gli eredi a vendere o smembrare l'impresa; il dibattito giuridico riguarda se questo favore sia compatibile con il principio costituzionale di uguaglianza."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/tagesthemen/video-1665788.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-13T23:49+02:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb5886eef",
+   "sez": "mondo",
+   "titolo": "Portogallo, Poiares Maduro critica la strategia politica di Passos Coelho",
+   "orig": "Entrevista a Passos Coelho. Poiares Maduro discorda de estratégia política",
+   "lead": "In un'intervista a RTP Notícias, Miguel Poiares Maduro ha dichiarato di non condividere la strategia politica adottata da Pedro Passos Coelho, ex primo ministro portoghese ed ex leader del PSD. Maduro ha inoltre affermato di non vedere un'identità ideologica comune tra il PSD, il partito socialdemocratico portoghese, e il Chega, la formazione di destra radicale guidata da André Ventura. Lo riferisce RTP.",
+   "more": [
+    "Il PSD (Partido Social Democrata) è uno dei principali partiti politici portoghesi, di orientamento centrista, mentre il Chega è una formazione di destra radicale emersa negli ultimi anni; il dibattito sui possibili avvicinamenti tra i due partiti è un tema centrale della politica portoghese attuale."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/politica/entrevista-a-passos-coelho-poiares-maduro-discorda-de-estrategia-politica_v1771516",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T01:35+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2a24895f",
+   "sez": "mondo",
+   "titolo": "Paesi Bassi, nessun piano del governo sulla compensazione per le spese sanitarie dei malati cronici",
+   "orig": "Nog geen plan kabinet over compensatie zorgkosten, onzekerheid bij chronisch zieken",
+   "lead": "Nei Paesi Bassi è in corso alla Tweede Kamer un dibattito sul bilancio della sanità, ma resta incerto come il governo intenda compensare le persone con disabilità e malattie croniche per le spese sanitarie elevate. L'incertezza cresce perché entro fine anno è previsto un voto sul primo taglio alla spesa sanitaria. In particolare non è chiaro il futuro della detrazione fiscale per le spese mediche, che oggi permette ai lavoratori di dedurre alcuni costi. Una cittadina su sedia a rotelle, Bo Rijvers, ha raccontato il disagio di non sapere come affrontare i tagli in arrivo.",
+   "more": [
+    "La Tweede Kamer è la camera bassa del parlamento olandese; le detrazioni fiscali per spese sanitarie permettono ai cittadini con costi medici elevati di ridurre il carico fiscale, una misura particolarmente rilevante per chi convive con malattie croniche o disabilità."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2634894",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-14T07:58+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcb73b942",
+   "sez": "mondo",
+   "titolo": "Svezia, Magdalena Andersson verso un voto di sfiducia sulla nomina a premier",
+   "orig": "Magdalena Andersson (S) om statsministeromröstningen",
+   "lead": "Giovedì il parlamento svedese (Riksdag) voterà sulla possibile nomina di Magdalena Andersson, leader del Partito Socialdemocratico (S), a primo ministro. La stessa Andersson ha ammesso, in un'intervista alla trasmissione Morgonstudion di SVT, di non avere con ogni probabilità i voti necessari per essere confermata. Lo riferisce SVT Nyheter.",
+   "more": [
+    "Il Riksdag è il parlamento monocamerale svedese, che vota per eleggere il primo ministro in base ai rapporti di forza tra i partiti; in Svezia non è richiesta una maggioranza assoluta a favore, ma è sufficiente che non vi sia una maggioranza contraria."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-om-statsministeromrostningen",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-14T07:59+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8c0d50f1",
+   "sez": "sport",
+   "titolo": "Bauhausgalan dedica una gara sui 10.000 metri ad Andreas Almgren",
+   "orig": "Bauhausgalan skräddarsyr lopp – för Andreas Almgren: ”Kan gå till historien”",
+   "lead": "L'anno scorso il mezzofondista svedese Andreas Almgren ha regalato una serata memorabile allo stadio di Stoccolma. Ora la Bauhausgalan, il meeting di atletica leggera svedese, punta a ripetere quella magia organizzando, per la prossima edizione, una gara sui 10.000 metri costruita appositamente per la star locale. Almgren si è detto convinto che la gara possa entrare nella storia dell'atletica. Lo riferisce SVT Nyheter.",
+   "more": [
+    "La Bauhausgalan è uno dei principali meeting internazionali di atletica leggera organizzati in Svezia, che negli anni ha ospitato atleti di livello mondiale su varie distanze e discipline."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/sport/friidrott/bauhausgalan-skraddarsyr-lopp-for-andreas-almgren-kan-ga-till-historien",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-14T07:00+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf387095b",
+   "sez": "tech",
+   "titolo": "Carenza di autisti: Volvo punta sui camion a guida autonoma negli Stati Uniti",
+   "orig": "Brist på förare – då kör lastbilarna själva",
+   "lead": "Di fronte alla difficoltà di attrarre giovani alla professione di camionista, i costruttori stanno puntando sui veicoli a guida autonoma. Negli Stati Uniti mancano ormai pochi mesi prima che i camion Volvo possano circolare completamente senza conducente sulle strade pubbliche. Lo riferisce SVT Nyheter.",
+   "more": [
+    "La guida autonoma nei veicoli commerciali pesanti utilizza sensori, telecamere e intelligenza artificiale per gestire la marcia senza intervento umano: il settore del trasporto merci è considerato tra i più promettenti per l'adozione di questa tecnologia, anche per affrontare la carenza di manodopera."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/ekonomi/brist-pa-forare-da-kor-lastbilarna-sjalva",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-14T06:22+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z89e5f450",
+   "sez": "mondo",
+   "titolo": "Norvegia, assenze scolastiche in calo per la prima volta dalla pandemia",
+   "orig": "Lågare fråværstal for første gong sidan pandemien: – Pusher deg jo til å møte opp",
+   "lead": "In Norvegia il tasso di assenza scolastica è diminuito per la prima volta dai tempi della pandemia, e il governo attribuisce il merito alle nuove regole introdotte sulle assenze. Secondo chi le sostiene, le regole spingono gli studenti a presentarsi a scuola, ma l'Organizzazione degli studenti (Elevorganisasjonen) sostiene che funzionino solo per chi ha già risorse personali, non per gli studenti in difficoltà. Lo riferisce NRK.",
+   "more": [
+    "Le politiche sull'assenteismo scolastico regolano le soglie oltre le quali un'assenza incide sulla valutazione o sulla possibilità di sostenere esami: in molti Paesi, incluse le scuole norvegesi, l'inasprimento di queste regole è un tema dibattuto tra chi la vede come disciplina necessaria e chi teme penalizzi gli studenti più fragili."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/trondelag/lagare-fravaerstal-for-forste-gong-sidan-pandemien_-_-pusher-deg-jo-til-a-mote-opp-1.18053997",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-14T05:29+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8aee560f",
+   "sez": "mondo",
+   "titolo": "Norvegia, meno richieste di aiuto psicologico: sospettato il ruolo dell'intelligenza artificiale",
+   "orig": "Mental Helse mistenker at KI gir færre henvendelser",
+   "lead": "L'organizzazione norvegese Mental Helse registra un calo delle richieste di aiuto tramite il proprio servizio di chat e sospetta che l'intelligenza artificiale stia sostituendo le conversazioni umane per chi cerca supporto psicologico. Anche la Croce Rossa norvegese osserva la stessa tendenza, ma ritiene che le cause siano più articolate. Lo riferisce NRK.",
+   "more": [
+    "Mental Helse è un'organizzazione norvegese che offre servizi di ascolto e supporto psicologico, anche tramite chat anonime, a persone in difficoltà emotiva; l'uso crescente di chatbot basati su intelligenza artificiale per conversazioni di sostegno emotivo è un fenomeno osservato in diversi Paesi negli ultimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/tromsogfinnmark/mental-helse-mistenker-at-ki-gir-faerre-henvendelser-1.18051518",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-14T03:31+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3ea3273a",
+   "sez": "mondo",
+   "titolo": "Perù, il governo vuole vietare smalto e gonne corte nelle scuole",
+   "orig": "Stefna að því að banna naglalakk og stutt pils",
+   "lead": "Il governo peruviano intende vietare alle studentesse l'uso di gonne corte e smalto per unghie nelle scuole, oltre a proibire ai ragazzi di portare i capelli lunghi. La presidente Keiko Fujimori, eletta a luglio, ha dichiarato durante una visita a una scuola alla periferia di Lima che nelle scuole e nelle strade del Paese deve regnare l'ordine. Lo smalto e i capelli lunghi sono solo una parte delle misure previste, che secondo Fujimori mirano a contrastare bullismo, molestie sessuali e violenza nelle scuole; la presidente vuole vietare anche il trucco e i capelli tinti, e propone l'espulsione degli studenti più indisciplinati.",
+   "more": [
+    "Keiko Fujimori è figlia dell'ex presidente peruviano Alberto Fujimori ed è una figura politica di lungo corso in Perù, più volte candidata alla presidenza prima dell'elezione menzionata nella notizia; le misure sui codici di abbigliamento scolastico sono spesso oggetto di dibattito sulla loro reale efficacia contro la violenza giovanile."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-14-stefna-ad-thvi-ad-banna-naglalakk-og-stutt-pils-489770/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-14T04:45+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8ee5e2b1",
+   "sez": "mondo",
+   "titolo": "Thailandia, piccoli villaggi sacrificati per proteggere Bangkok dalle inondazioni",
+   "orig": "Litlum þorpum fórnað fyrir flóðavarnir borganna",
+   "lead": "Giornalisti dell'AFP hanno documentato nel mese di ottobre diversi villaggi rurali della Thailandia sommersi dalle acque, conseguenza delle opere di difesa idraulica costruite dal 2011 per proteggere la capitale Bangkok dalle inondazioni. Le abitazioni, costruite in gran parte su palafitte, non riescono più a resistere all'innalzamento del livello dell'acqua, deviata verso le zone rurali dalle autorità idriche attraverso canali di scolo. Oltre ai villaggi, anche siti archeologici protetti dall'UNESCO rischiano di finire sommersi. Lo riferisce RÚV.",
+   "more": [
+    "Bangkok, costruita su una pianura alluvionale attraversata dal fiume Chao Phraya, è storicamente esposta alle inondazioni stagionali. Per proteggere la capitale e le sue infrastrutture, le autorità thailandesi hanno costruito negli anni dighe e canali che deviano le acque verso aree meno popolate, spesso a scapito delle comunità rurali circostanti."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-14-litlum-thorpum-fornad-fyrir-flodavarnir-borganna-489768/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-14T03:32+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3a3fdca3",
+   "sez": "mondo",
+   "titolo": "Lula promette una versione universitaria del programma sociale Pé de Meia se rieletto",
+   "orig": "Lula garante versão universitária do “Pé de Meia” caso seja reeleito",
+   "lead": "Il presidente brasiliano Luiz Inácio Lula da Silva (PT), candidato alla rielezione, ha annunciato martedì 13 ottobre, in un video in stile selfie con giovani sullo sfondo, la creazione di una versione universitaria del programma sociale Pé de Meia in caso di un nuovo mandato. La misura prevede il versamento di 700 reais al mese per dieci mesi e di 2.500 reais alla fine di ogni anno di corso. Lula ha spiegato che, concludendo un corso di quattro anni, lo studente avrà accumulato 10mila reais per iniziare la propria carriera professionale. Lo riferisce Agência Brasil.",
+   "more": [
+    "Il Pé de Meia è un programma federale brasiliano di trasferimento di denaro che incentiva la frequenza scolastica degli studenti delle scuole pubbliche superiori tramite versamenti periodici; l'estensione annunciata punterebbe a sostenere anche la prosecuzione degli studi universitari."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-garante-versao-universitaria-do-pe-de-meia-caso-seja-reeleito",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-13T22:16-03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z150fb7fd",
+   "sez": "mondo",
+   "titolo": "Flávio Bolsonaro visita il padre agli arresti domiciliari e riceve sostegno a San Paolo",
+   "orig": "Flávio faz visita ao pai em prisão domiciliar e recebe apoios em SP",
+   "lead": "Flávio Bolsonaro, candidato del Partito Liberale alla presidenza del Brasile, ha compiuto martedì 13 ottobre la sua prima visita al padre Jair Bolsonaro, agli arresti domiciliari a Brasília, dopo la fine delle restrizioni imposte dal giudice della Corte Suprema Alexandre de Moraes. Flávio è arrivato intorno alle 9:30 ed è rimasto circa un'ora. Parlando con la stampa, ha dichiarato di uscire con l'energia rinnovata e di volerla trasmettere. Lo riferisce Agência Brasil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-visita-ao-pai-em-prisao-domiciliar-e-recebe-apoios-em-sp",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-13T22:15-03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z98043820",
+   "sez": "economia",
+   "titolo": "Brasile, il condono dei debiti dei microimprenditori avrà impatto fiscale di 3 miliardi di reais",
+   "orig": "Perdão de dívidas de MEIs terá impacto fiscal, mas redução de custos",
+   "lead": "Il ministero delle Finanze brasiliano ha reso noto martedì sera 13 ottobre che il progetto di legge per il condono dei debiti dei microimprenditori individuali (MEI) avrà un impatto fiscale di 3,04 miliardi di reais tra il 2027 e il 2029. La proposta, inviata dal governo federale al Congresso Nazionale, riguarda i debiti iscritti nel Debito Attivo dell'Unione fino al 13 ottobre 2026 e mira a ridurre i costi per milioni di piccoli imprenditori. Il condono comprende capitale, interessi, multe e oneri legali, con la rinuncia agli introiti distribuita su tre anni. Lo riferisce Agência Brasil.",
+   "more": [
+    "I microimprenditori individuali (MEI) in Brasile sono una categoria di piccoli imprenditori con regole fiscali semplificate, pensata per favorire la regolarizzazione dell'attività economica informale. Il Debito Attivo dell'Unione raccoglie i crediti non pagati dello Stato verso contribuenti e imprese."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/perdao-de-dividas-de-meis-tera-impacto-de-r-3-bilhoes",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-13T22:09-03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9608d1fc",
+   "sez": "mondo",
+   "titolo": "Tunisia, censiti oltre 12mila beni immobiliari urbani di proprietà straniera",
+   "orig": "Tunisie : 12 305 biens urbains appartenant à des étrangers recensés",
+   "lead": "Il ministero dei Domini dello Stato e degli Affari fondiari della Tunisia ha fornito nuove precisioni sul patrimonio immobiliare detenuto da cittadini stranieri nel Paese, distinguendo tra proprietà agricole e beni urbani. In una risposta scritta alla deputata Basma Hammami, il ministero ha riferito che sono stati censiti 12.305 beni urbani appartenenti a stranieri. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/14/tunisie-12-305-biens-urbains-appartenant-a-des-etrangers-recenses/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-14T04:57+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z28293037",
+   "sez": "mondo",
+   "titolo": "Congo, Kamerhe denuncia contraddizione tra appelli alla pace di Kabila e creazione del nuovo fronte",
+   "orig": "Création du FRN : Vital Kamerhe dénonce une contradiction entre les appels à la paix de Joseph Kabila et la lutte armée",
+   "lead": "Vital Kamerhe, presidente dell'Unione per la nazione congolese (UNC), ha criticato mercoledì 14 ottobre la creazione del Fronte per la rifondazione della nazione (FRN), guidato dall'ex presidente Joseph Kabila. In un video pubblicato sul suo account X, l'ex presidente dell'Assemblea nazionale ha definito l'iniziativa contraddittoria rispetto agli appelli alla pace del presidente Félix Tshisekedi, invitando i responsabili dei movimenti armati a privilegiare il dialogo. Lo riferisce Radio Okapi.",
+   "more": [
+    "Joseph Kabila è stato presidente della Repubblica Democratica del Congo per diciotto anni prima di lasciare la carica a Félix Tshisekedi. Negli ultimi tempi è stato accusato dal governo di Kinshasa di legami con gruppi armati attivi nell'est del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/actualite/securite/creation-du-frn-vital-kamerhe-denonce-une-contradiction-entre-les",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T06:54+01:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261014-joseph-kabila-en-rdc-vers-une-propagation-de-la-guerre",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-14T04:52+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z35fe4e79",
+   "sez": "mondo",
+   "titolo": "Congo, l'amministratore di Fizi invita alla calma mentre persiste il blocco delle comunicazioni",
+   "orig": "Fizi : l’administrateur du territoire appelle la population au calme malgré la coupure des réseaux de communication",
+   "lead": "L'amministratore del territorio di Fizi, nella provincia del Sud Kivu, in Repubblica Democratica del Congo, ha esortato martedì 13 ottobre la popolazione alla calma e alla pazienza di fronte al perdurare dell'interruzione delle reti di comunicazione nella regione. Sammy Badibanga ha lanciato l'appello il giorno dopo una marcia organizzata da esponenti della società civile e movimenti cittadini per chiedere la revoca della misura. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/14/actualite/societe/fizi-ladministrateur-du-territoire-appelle-la-population-au-calme",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-14T05:44+01:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf64bb0fa",
+   "sez": "ambiente",
+   "titolo": "Onde e allagamenti colpiscono le case costiere della California dopo i resti della tempesta Rachel",
+   "orig": "Intense waves and floods batter California waterfront homes and boardwalks",
+   "lead": "Le comunità costiere della California meridionale stanno facendo i conti con i danni provocati da un fine settimana di maltempo estremo, che ha causato allagamenti nelle strade cittadine e onde intense contro le abitazioni sul lungomare. Un molo pedonale è stato distrutto a Long Beach e diverse case sono state danneggiate. I resti della tempesta tropicale Rachel, indebolitasi in ciclone post-tropicale avvicinandosi alla California, hanno colpito anche la Baja California messicana e Las Vegas. Lo riferisce The Guardian.",
+   "more": [
+    "Le tempeste tropicali che risalgono la costa del Pacifico raggiungono raramente la California con tale intensità; il loro indebolimento in cicloni post-tropicali non ne elimina gli effetti distruttivi legati a piogge intense e mareggiate costiere."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-13T21:29+00:00"
+    }
+   ],
+   "data": "13 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb79b5822",
+   "sez": "mondo",
+   "titolo": "Le Pen esprime dubbi sui futuri finanziamenti UE all'Ucraina",
+   "orig": "Le Pen casts doubt on future EU funding for Ukraine",
+   "lead": "La leader del Rassemblement National francese Marine Le Pen ha espresso dubbi sul futuro sostegno finanziario dell'Unione Europea all'Ucraina, secondo quanto riportato dalla newsletter del Financial Times, che segnala anche l'appello dei leader UE a ripensare i costi del carbonio per l'industria. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/45e8941a-9f4d-4186-baec-eef5be5ce495?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T05:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb7ffb25f",
+   "sez": "economia",
+   "titolo": "Gold Fields corteggia gli investitori di Northern Star per promuovere la fusione da 27 miliardi di dollari",
+   "orig": "Gold Fields mounts charm offensive to woo Northern Star investors",
+   "lead": "Il dirigente della società mineraria sudafricana Gold Fields ha incontrato gli investitori australiani di Northern Star Resources per promuovere i vantaggi della fusione tra le due aziende, che creerebbe un gruppo aurifero da 27 miliardi di dollari. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/3cad49d9-4c88-46bc-bddd-7b237a399a7b?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T04:44+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z65527a21",
+   "sez": "mondo",
+   "titolo": "Nigeria, il governo chiede che i corsi quadriennali si concludano in quattro anni",
+   "orig": "Four-year courses must end in four years, Alausa tells varsities",
+   "lead": "Il governo federale nigeriano ha dichiarato, per bocca del ministro dell'Istruzione Tunji Alausa, che i corsi di laurea quadriennali devono concludersi entro quattro anni, nell'ambito degli sforzi per prevenire gli scioperi nelle istituzioni terziarie del Paese. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/four-year-courses-must-end-in-four-years-alausa-tells-varsities/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z47442863",
+   "sez": "mondo",
+   "titolo": "Tinubu trasmette al Senato le riforme di NDLEA e NSIB",
+   "orig": "Tinubu transmits NDLEA, NSIB amendment bills to Senate",
+   "lead": "Il presidente nigeriano Bola Tinubu ha trasmesso al Senato due progetti di legge che mirano a riformare l'Agenzia nazionale per l'applicazione delle leggi sulla droga (NDLEA) e ad ampliare i poteri investigativi dell'Organismo nazionale per le indagini sulla sicurezza (NSIB). Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/tinubu-transmits-ndlea-nsib-amendment-bills-to-senate-2/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf269f970",
+   "sez": "mondo",
+   "titolo": "Nigeria, opposizione sostiene l'inclusione di Wike, Soludo e Adeleke nella campagna dell'APC",
+   "orig": "PDP, APGA, Accord back Wike, Soludo, Adeleke for APC campaign",
+   "lead": "I partiti di opposizione nigeriani PDP, APGA e Accord hanno espresso sostegno all'inclusione dei loro esponenti Nyesom Wike, Chukwuma Soludo e Ademola Adeleke nella campagna del partito al governo, l'APC. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/pdp-apga-accord-back-wike-soludo-adeleke-for-apc-campaign/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z12339357",
+   "sez": "mondo",
+   "titolo": "Kenya, il vescovo fondatore della Mamlaka Hill Chapel chiede 21 milioni di scellini per licenziamento illegittimo",
+   "orig": "Mamlaka Hill Chapel founder Bishop Charles Muhia demands Ksh.21M for unlawful dismissal",
+   "lead": "Il vescovo Charles Muhia, fondatore della Mamlaka Hill Chapel, ha presentato una richiesta di risarcimento di 21 milioni di scellini keniani per un presunto licenziamento illegittimo. La richiesta include ulteriori danni per presunte violazioni costituzionali, oltre a interessi e spese legali. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/mamlaka-hill-chapel-founder-bishop-charles-muhia-demands-ksh21m-for-unlawful-dismissal-n392016",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-14T05:22+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9c15e33d",
+   "sez": "mondo",
+   "titolo": "Taiwan avverte l'Europa sui rischi della dipendenza dalla Cina",
+   "orig": "Taiwan warns Europe of dangers of dependence on China",
+   "lead": "Taiwan ha messo in guardia l'Europa sui pericoli della dipendenza economica dalla Cina, mentre i leader dell'Unione Europea discuteranno il tema come primo punto all'ordine del giorno del vertice che inizia giovedì a Bruxelles, nel tentativo di ridurre il deficit commerciale del blocco e mitigare i rischi di un'eccessiva dipendenza da Pechino nei settori sensibili. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/taiwan-warns-europe-of-dangers-of-dependence-on-china-n391978",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-14T02:58+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd7c57fb1",
+   "sez": "mondo",
+   "titolo": "Somalia sanziona dieci persone accusate di finanziare Al-Shabaab",
+   "orig": "Somalia: Somalia Sanctions 10 Individuals Over Alleged Al-Shabaab Financing",
+   "lead": "Il Comitato nazionale somalo contro il riciclaggio di denaro e il finanziamento del terrorismo ha reso noto martedì che la Somalia ha aggiunto dieci persone alla lista nazionale delle sanzioni finanziarie, per presunto coinvolgimento nel finanziamento e sostegno al gruppo islamista Al-Shabaab. Lo riferisce allAfrica, citando Shabelle.",
+   "more": [
+    "Al-Shabaab è un gruppo armato di ispirazione islamista attivo in Somalia da quasi due decenni, responsabile di attacchi contro il governo somalo e le forze straniere presenti nel Paese; il gruppo finanzia le proprie attività anche tramite estorsioni e reti economiche parallele."
+   ],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610140090.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T05:45+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za3c21b41",
+   "sez": "ambiente",
+   "titolo": "La deforestazione globale cala nel 2025, ma peggiora nel Bacino del Congo",
+   "orig": "Global deforestation fell in 2025, but Congo Basin losses surged",
+   "lead": "La deforestazione globale è diminuita nel 2025, ma le perdite nel Bacino del Congo sono aumentate, secondo un nuovo studio pubblicato mercoledì. Circa sette milioni di ettari di foresta, una superficie paragonabile a quella dell'Irlanda, sono stati distrutti in modo permanente lo scorso anno, con un calo del 15% rispetto all'anno precedente, secondo il rapporto annuale Forest Declaration Assessment. Il miglioramento non basta però a fermare il deterioramento della situazione in Africa centrale, aggravato da un El Niño particolarmente intenso. Lo riferisce South China Morning Post.",
+   "more": [
+    "Il Bacino del Congo ospita la seconda foresta pluviale tropicale più estesa al mondo dopo l'Amazzonia ed è un'area cruciale per la biodiversità e per l'assorbimento globale di anidride carbonica. Il fenomeno climatico El Niño altera i regimi di piogge, aumentando il rischio di siccità e incendi nelle foreste tropicali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/article/3370826/global-deforestation-fell-2025-congo-basin-losses-surged?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-14T05:27+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/cele-mai-pasnice-si-mai-putin-pasnice-tari-din-lume-2375338",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-14T05:22+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z59e161c7",
+   "sez": "mondo",
+   "titolo": "Giappone valuta sanzioni per le compravendite di terreni vicino alle basi delle forze di autodifesa",
+   "orig": "Japan eyes penalties for unauthorized land deals near SDF bases",
+   "lead": "Il governo giapponese sta valutando l'introduzione di sanzioni per le transazioni immobiliari non autorizzate nelle aree limitrofe alle basi delle Forze di autodifesa e alle strutture della Guardia costiera. Secondo la proposta, le compravendite di terreni in queste zone richiederebbero la previa approvazione del governo centrale. Lo riferisce The Japan Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/14/japan/land-deal-near-bases-penalty/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-14T15:06+09:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z344ba6a6",
+   "sez": "viaggi",
+   "titolo": "La prima nave da crociera Disney in Giappone si chiamerà Disney Imagination",
+   "orig": "Japan’s first Disney cruise ship to be called Disney Imagination",
+   "lead": "La prima nave da crociera Disney destinata al mercato giapponese si chiamerà Disney Imagination ed entrerà in servizio nella primavera del 2029. Le prenotazioni saranno accettate circa sei mesi prima del lancio. Lo riferisce The Japan Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/10/14/companies/japan-first-disney-cruise-ship/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-14T14:14+09:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7333fe13",
+   "sez": "tech",
+   "titolo": "In Corea del Sud la cosmetica si consegna in 30 minuti grazie alle app di delivery",
+   "orig": "K-beauty’s new race runs on 30-minute delivery apps",
+   "lead": "In Corea del Sud le principali app di consegna cibo, Baemin e Coupang Eats, hanno collegato le proprie reti di rider e basi clienti a negozi di cosmetici scontati, riuscendo a consegnare prodotti di bellezza a domicilio in circa 30 minuti e superando in velocità la catena CJ Olive Young. La scorsa settimana Baemin, che passerà sotto il controllo di Uber tramite la società madre, ha aggiunto alla piattaforma la catena di outlet Off Beauty, che distribuisce circa 4.000 prodotti. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10902481",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za7a45576",
+   "sez": "mondo",
+   "titolo": "Il presidente sudcoreano Lee chiede una svolta radicale nella politica demografica",
+   "orig": "Lee calls for ‘fundamental shift’ in South Korea&apos;s population policy",
+   "lead": "Il presidente sudcoreano Lee Jae Myung ha chiesto mercoledì un cambiamento radicale nella politica demografica del Paese, affermando che la Corea del Sud deve ridisegnare i propri sistemi economici e sociali per affrontare i problemi persistenti legati al calo della natalità. Il suo governo ha presentato un'ampia strategia quinquennale per contrastare la crisi demografica, la prima dalla creazione del Comitato presidenziale per la strategia sulla popolazione. Negli ultimi vent'anni i governi precedenti hanno speso ingenti risorse senza risolvere il problema. Lo riferisce The Korea Herald.",
+   "more": [
+    "La Corea del Sud registra da anni uno dei tassi di natalità più bassi al mondo, nonostante numerosi piani governativi di sostegno economico alle famiglie, rendendo la crisi demografica una delle priorità politiche del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10902476",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
    "id": "z911affc4",
    "sez": "economia",
    "titolo": "Giustizia inclusiva: oltre 260 milioni di fondi europei per il reinserimento dei detenuti",
@@ -2514,6 +4076,15 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-14T02:09+00:00"
+    },
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/hannah-marnie-og-resten-af-girls-vender-tilbage-med-nye-afsnit",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-14T02:47+00:00"
     }
    ],
    "data": "14 ott",
@@ -2538,6 +4109,15 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-13T23:42+00:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B5%D1%86%D0%BE%D1%82-%D0%BE%D0%B1%D0%B2%D0%B8%D0%BD%D0%B5%D1%82-%D0%B7%D0%B0-%D1%81%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B6%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%B5%D0%BD-%D1%82%D0%B5%D0%BA-%D0%B4%D0%B5%D0%BD%D0%B5%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4-%D1%81%D1%83%D0%B4",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-14T08:07+02:00"
     }
    ],
    "data": "14 ott",
@@ -2703,6 +4283,15 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "Colombia",
      "t": "2026-10-13T20:11-05:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/iranul-a-schimbat-tactica-inainte-de-alegerile-din-sua-efectele-se-vad-deja-este-ca-un-joc-de-sah-2375344",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-14T05:45+00:00"
     }
    ],
    "data": "14 ott",
@@ -4871,6 +6460,15 @@ window.EDIZIONI["2026-10-14"] = {
      "u": "https://actucameroun.com/2026/10/14/le-pape-leon-xiv-atteint-dun-cancer-du-poumon-apres-une-operation-reussie-vatican/",
      "angolo": "",
      "atlas": "Cameroon"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33876282.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-14T09:52+04:00"
     }
    ],
    "data": "14 ott",
@@ -5098,6 +6696,15 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "Bangladesh",
      "t": "2026-10-14T04:59+00:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/show/former-u-s-ambassador-on-saudi-arabias-struggle-to-defend-against-houthi-attacks",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-13T18:45-04:00"
     }
    ],
    "data": "14 ott",
@@ -5693,30 +7300,6 @@ window.EDIZIONI["2026-10-14"] = {
    "ora": "08:10",
    "uscita": "mattino",
    "rilievo": 2
-  },
-  {
-   "id": "za3c21b41",
-   "sez": "ambiente",
-   "titolo": "La deforestazione globale è calata nel 2025, ma nel bacino del Congo i danni sono peggiorati",
-   "orig": "Global deforestation fell in 2025, but Congo Basin losses surged",
-   "lead": "La deforestazione nel mondo è rallentata nel 2025 rispetto all'anno precedente, ma il miglioramento complessivo nasconde un netto peggioramento nell'Africa centrale, dove le perdite di foresta nel bacino del Congo sono aumentate in modo marcato. Gli esperti avvertono che il dato globale positivo rischia di non durare, a causa delle crescenti pressioni su una delle ultime grandi foreste pluviali del pianeta. Lo riferisce South China Morning Post.",
-   "more": [
-    "Il bacino del Congo, dopo l'Amazzonia la seconda foresta pluviale tropicale più estesa al mondo, è un ecosistema cruciale per l'assorbimento di anidride carbonica a livello globale, ma è sempre più minacciato da disboscamento illegale, agricoltura e sfruttamento minerario."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/news/world/article/3370826/global-deforestation-fell-2025-congo-basin-losses-surged",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-14T05:27+00:00"
-    }
-   ],
-   "data": "14 ott",
-   "ora": "08:10",
-   "uscita": "mattino"
   },
   {
    "id": "z9b584208",
@@ -6522,6 +8105,24 @@ window.EDIZIONI["2026-10-14"] = {
      "angolo": "",
      "atlas": "Greece",
      "t": "2026-10-14T09:00+03:00"
+    },
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/nyheter/tyrkisk-politi-med-aksjon-mot-opposisjonell-tv-kanal-1.18054315",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-14T05:17+00:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/tourkia-i-astynomia-anelave-ton-elegxo-tou-antipoliteyomenou-stathmou-halk-tv-diakopike-i-zontani-metadosi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-14T06:03+00:00"
     }
    ],
    "data": "14 ott",
@@ -7238,7 +8839,70 @@ window.EDIZIONI["2026-10-14"] = {
   "z753b1bd5": "L'Express de Madagascar riporta la dichiarazione presidenziale; APS descrive invece un diverso appello del presidente senegalese sul calendario parlamentare.",
   "zf8d0b5b3": "Yonhap e The Korea Herald riportano entrambe la data e i dettagli delle nozze della coppia.",
   "ze2f52214": "RNZ e Stuff NZ riportano entrambe le scuse dell'azienda e l'importo esatto addebitato per errore.",
-  "z7c7229ba": "Le Soleil riporta l'annuncio di Sonko; Seneweb approfondisce quali autorità sono attese a testimoniare davanti alle commissioni."
+  "z7c7229ba": "Le Soleil riporta l'annuncio di Sonko; Seneweb approfondisce quali autorità sono attese a testimoniare davanti alle commissioni.",
+  "ze102cfa5": "La Repubblica mette a confronto tre modi diversi di vivere pubblicamente la malattia da parte dei pontefici recenti.",
+  "z1cc42375": "allAfrica riprende la cronaca di Nyasa Times sulla sentenza finale della Corte malawiana che chiude il contenzioso sull'estradizione.",
+  "z6ff26fb0": "Middle East Eye riprende una notizia di Al Jazeera sui colloqui intra-palestinesi al Cairo per preparare un dialogo più ampio sull'unità nazionale.",
+  "z9629c0ee": "Kun.uz e Daryo riportano in modo sostanzialmente identico i dettagli della visita del presidente uzbeko al vertice di Baku.",
+  "z46c3f191": "Le Figaro si interroga se il movimento resterà un fenomeno social o diventerà una vera mobilitazione di piazza, mentre Libération sottolinea la portata già raggiunta dalle manifestazioni.",
+  "z31296aee": "Der Spiegel e Süddeutsche Zeitung riportano in modo analogo le parole di sostegno del presidente tedesco e della Chiesa cattolica tedesca verso il Papa operato.",
+  "z77bde7ad": "Al Jazeera pubblica un'opinione che invita alla cautela ma anche all'apertura verso la nuova iniziativa di dialogo per il Sudan.",
+  "z27b24eb9": "RTÉ News documenta l'ampiezza della protesta e i disagi diffusi provocati dallo sciopero nel settore pubblico.",
+  "zcb335193": "RTÉ News riporta il discorso di Obama incentrato sull'invito a perseguire con determinazione la pace globale.",
+  "z67ddecfd": "LRT riprende la dichiarazione del re spagnolo sull'appartenenza delle due enclave nordafricane alla Spagna.",
+  "z25117965": "PBS NewsHour approfondisce con un esperto finanziario le implicazioni pratiche delle nuove regole sui conti per minori.",
+  "z5e6adfc5": "Yonhap riporta la previsione di crescita diffusa dall'azienda coreana sui settori dell'infrastruttura AI.",
+  "z0344ac2c": "CNA riporta la reazione legale dell'agenzia dell'attore dopo il proscioglimento dalle accuse.",
+  "z13bacc64": "RNZ mette in evidenza la reazione pubblica alle dichiarazioni della ministra sulle retribuzioni politiche.",
+  "z355c8596": "RNZ dà voce alla sopravvissuta che denuncia analogie tra due distinti fallimenti istituzionali.",
+  "zbb731d32": "RNZ Pacific riporta la dichiarazione ufficiale della polizia sul sequestro e sulla minaccia del crimine transnazionale.",
+  "z61b04148": "RNZ Pacific riporta la posizione di un sacerdote locale favorevole a una maggiore apertura verso l'osservazione internazionale.",
+  "zeeb36eb1": "RTHK riporta l'appello sanitario insieme alla rassicurazione di un funzionario sanitario che esclude per ora un'epidemia diffusa.",
+  "z17f08641": "ERT News riporta la denuncia dell'Ordine dei medici locale sulle irregolarità riscontrate.",
+  "z0a644c52": "MIA riporta l'annuncio ufficiale del campionato sul nuovo accordo pluriennale.",
+  "z9d7cbf39": "MIA riporta la dichiarazione del ministro degli Esteri ucraino sull'iniziativa dell'AIEA.",
+  "z3eaf7b60": "FBC News riporta i dati forniti dagli organizzatori sull'andamento della campagna.",
+  "z538a2ef2": "FBC News riporta l'appello dell'ente pubblico a nuovi investimenti nel settore abitativo.",
+  "zd9f057b8": "Meduza riporta l'esito dell'indagine della procura russa sull'agenzia organizzatrice dei concerti.",
+  "z699e0ab3": "Premium Times dedica un'inchiesta speciale al legame tra insicurezza e crisi sanitaria nella regione.",
+  "z2ee7816e": "Rappler riporta il parere di esperti scettici sull'efficacia dei divieti, pur riconoscendone la possibile utilità pratica per i governi.",
+  "z71ba6381": "Iran International, testata in esilio critica verso il governo iraniano, riporta l'esecuzione insieme all'allarme lanciato da ambienti vicini all'opposizione monarchica.",
+  "za6bf609b": "Hong Kong Free Press riporta la difesa dell'imputato, che si rappresenta da solo in aula.",
+  "ze0ea2216": "Notes from Poland riporta i dettagli dell'incriminazione e del ritrovamento degli ordigni.",
+  "zf3a701e0": "La testata evidenzia le nuove forme di supporto allo studio, dagli strumenti digitali alle iniziative comunitarie, a fronte di un numero record di candidati.",
+  "z2208f32a": "La testata riporta l'esito giudiziario a favore della piattaforma, sottolineando la persistenza della vendita di prodotti con i loghi dei club senza licenza.",
+  "z41cadb5d": "La testata riporta l'approvazione del finanziamento come passo per migliorare l'efficienza della rete elettrica locale.",
+  "z3341fe17": "La testata propone un'intervista accademica per contestualizzare un fenomeno politico ricorrente nei regimi autoritari.",
+  "z5a297bc3": "La testata pone la questione come un interrogativo giuridico aperto sulla legittimità costituzionale delle norme attuali.",
+  "zb5886eef": "La testata riporta le dichiarazioni di Maduro come un dissenso interno al mondo politico di centrodestra portoghese.",
+  "z2a24895f": "La testata dà voce alle preoccupazioni dei malati cronici di fronte all'incertezza sulle future politiche di compensazione sanitaria.",
+  "zcb73b942": "La testata riporta direttamente l'ammissione della leader socialdemocratica sulle sue scarse possibilità di successo.",
+  "z8c0d50f1": "La testata presenta l'evento come costruito su misura per valorizzare un atleta svedese di punta.",
+  "zf387095b": "La testata presenta l'automazione come risposta industriale alla crisi di reclutamento nel settore dei trasporti.",
+  "z89e5f450": "La testata contrappone la posizione del governo, che rivendica il merito delle nuove regole, a quella critica dell'organizzazione studentesca.",
+  "z8aee560f": "La testata mette a confronto le ipotesi di due organizzazioni di supporto psicologico sul possibile ruolo dell'IA nel calo delle richieste di aiuto.",
+  "z3ea3273a": "La testata riporta le dichiarazioni della presidente evidenziando dubbi impliciti sull'efficacia delle misure proposte contro la violenza scolastica.",
+  "z8ee5e2b1": "RÚV documenta le conseguenze delle opere di difesa idraulica sulle comunità rurali meno protette.",
+  "z3a3fdca3": "Agência Brasil riporta la proposta come parte della campagna elettorale di Lula per il voto universitario.",
+  "z150fb7fd": "Agência Brasil sottolinea il primo incontro tra i due dopo la fine delle restrizioni giudiziarie.",
+  "z98043820": "Agência Brasil riprende i dati diffusi dal ministero delle Finanze sull'impatto fiscale della misura.",
+  "z9608d1fc": "La Presse de Tunisie riporta i dati forniti dal ministero in risposta a un'interrogazione parlamentare.",
+  "z28293037": "Radio Okapi riporta la reazione critica di un esponente politico rivale alla mossa di Kabila.",
+  "z35fe4e79": "Radio Okapi dà conto delle tensioni locali legate al blocco delle telecomunicazioni nella regione del Sud Kivu.",
+  "zf64bb0fa": "The Guardian documenta i danni materiali lungo la costa californiana dopo il passaggio della tempesta.",
+  "zb79b5822": "Financial Times inquadra la posizione di Le Pen nel dibattito europeo sul sostegno finanziario a Kiev.",
+  "zb7ffb25f": "Financial Times segue la campagna di persuasione del management di Gold Fields verso gli azionisti australiani.",
+  "z65527a21": "The Punch riporta la posizione del ministro sulle tempistiche dei corsi universitari.",
+  "z47442863": "The Punch segnala l'iniziativa legislativa presidenziale sulle agenzie di sicurezza nigeriane.",
+  "zf269f970": "The Punch segue le dinamiche di avvicinamento tra esponenti dell'opposizione e il partito di governo.",
+  "z12339357": "Citizen Digital riporta i termini della richiesta di risarcimento presentata dal vescovo.",
+  "z9c15e33d": "Citizen Digital riprende l'allerta di Taiwan in vista del vertice europeo sulla Cina.",
+  "zd7c57fb1": "allAfrica riprende la notizia diffusa dalle autorità somale sulla lotta al finanziamento del terrorismo.",
+  "za3c21b41": "South China Morning Post evidenzia il contrasto tra il calo globale e il peggioramento regionale in Africa centrale.",
+  "z59e161c7": "The Japan Times segue il dibattito giapponese sulla sicurezza delle aree strategiche vicine alle installazioni militari.",
+  "z344ba6a6": "The Japan Times annuncia il nome della nuova nave e i tempi previsti per l'apertura delle prenotazioni.",
+  "z7333fe13": "The Korea Herald descrive la competizione tra app di delivery e catene di cosmetica sulla rapidità delle consegne.",
+  "za7a45576": "The Korea Herald presenta la nuova strategia quinquennale del governo Lee come svolta nella politica demografica."
  },
  "contesti": {
   "za83ee72b": "Il nodulo al polmone destro di Papa Leone XIV era emerso durante un controllo medico di routine nelle settimane precedenti. Martedì 13 ottobre il pontefice è arrivato al Policlinico Gemelli di Roma, dove nel pomeriggio è stato sottoposto all'intervento per l'asportazione del lobo inferiore del polmone destro. L'operazione, durata circa novanta minuti, si è conclusa positivamente in serata, con il Vaticano che ha poi confermato la natura maligna del tumore asportato.",
@@ -7285,7 +8949,20 @@ window.EDIZIONI["2026-10-14"] = {
   "z00793464": "Da mesi il tema del fiscal drag è al centro del dibattito sulla manovra italiana: l'inflazione degli ultimi anni ha spinto molti contribuenti in scaglioni Irpef più alti senza un reale aumento del potere d'acquisto. Il governo ha più volte promesso tagli fiscali per il ceto medio, ma le coperture restano incerte mentre il Mef aggiorna le stime dei tendenziali di bilancio per il periodo 2026-2029.",
   "z9ab22110": "Panama ha visto negli ultimi anni crescere il numero di propri calciatori impegnati nei principali campionati europei, un fenomeno seguito con orgoglio dai media nazionali. La qualificazione di club come Lask e Slovan Bratislava alla Champions League 2026-2027 ha portato questi giocatori a debuttare nella massima competizione continentale, rafforzando la visibilità del calcio panamense in Europa.",
   "z1700c8f2": "Sofya Rozenfeld, ornitologa di fama specializzata in uccelli artici, è finita nel mirino delle autorità russe per due donazioni simboliche da mille rubli alla Fondazione anticorruzione (FBK) di Alexey Navalny, dichiarata 'estremista' dal Cremlino nel 2021. La repressione contro chi ha sostenuto Navalny, morto in carcere nel febbraio 2024, è proseguita con processi e condanne anche per contributi minimi effettuati anni prima.",
-  "zc7666318": "Le isole del Pacifico, incluse le Fiji, sono diventate terreno di crescente competizione geopolitica tra Cina e Stati Uniti, con Pechino che ha intensificato la propria presenza diplomatica e di sicurezza nella regione negli ultimi anni. Washington, attraverso Google e altri investimenti infrastrutturali, ha sostenuto l'espansione di cavi sottomarini e reti di telecomunicazione per rafforzare i legami con le isole, mentre si moltiplicano le segnalazioni di attività di spionaggio informatico cinese nella regione."
+  "zc7666318": "Le isole del Pacifico, incluse le Fiji, sono diventate terreno di crescente competizione geopolitica tra Cina e Stati Uniti, con Pechino che ha intensificato la propria presenza diplomatica e di sicurezza nella regione negli ultimi anni. Washington, attraverso Google e altri investimenti infrastrutturali, ha sostenuto l'espansione di cavi sottomarini e reti di telecomunicazione per rafforzare i legami con le isole, mentre si moltiplicano le segnalazioni di attività di spionaggio informatico cinese nella regione.",
+  "z46c3f191": "Negli ultimi giorni la protesta studentesca si è intensificata con nuove manifestazioni in diverse città francesi, mentre cresce il sostegno di figure storiche del movimento dei gilet gialli, in vista di una mobilitazione generale annunciata per il 17 ottobre.",
+  "z3a3fdca3": "Il programma sociale Pé de Meia, introdotto dal governo Lula per incentivare la permanenza scolastica degli studenti delle scuole superiori pubbliche brasiliane, è stato al centro della campagna elettorale in vista delle presidenziali del 2026. Negli ultimi mesi Lula ha più volte evocato l'estensione del programma come leva elettorale, in un clima di competizione serrata con i candidati del campo bolsonarista, inclusa la famiglia Bolsonaro.",
+  "z150fb7fd": "Jair Bolsonaro è agli arresti domiciliari a Brasília in seguito alle condanne giudiziarie legate al tentativo di colpo di stato dopo le elezioni del 2022, con restrizioni imposte dal giudice della Corte Suprema Alexandre de Moraes. Negli ultimi mesi la famiglia Bolsonaro ha condotto una campagna per sostenere la candidatura presidenziale del figlio Flávio, mentre le restrizioni sui contatti con l'ex presidente sono state progressivamente allentate dalla magistratura.",
+  "z28293037": "L'ex presidente congolese Joseph Kabila, in rotta con il governo di Félix Tshisekedi e legato a gruppi ribelli nell'est del Paese, ha annunciato nei giorni scorsi la creazione del Fronte per la rifondazione della nazione (FRN), un nuovo movimento politico-militare. L'iniziativa arriva mentre Tshisekedi continua a promuovere appelli al dialogo e alla pacificazione delle regioni orientali del Congo, segnate da anni di conflitto con il gruppo armato M23.",
+  "z9c15e33d": "Negli ultimi anni l'Unione Europea ha progressivamente riconosciuto i rischi legati alla dipendenza economica da Pechino, soprattutto in settori strategici come terre rare, batterie e semiconduttori. Bruxelles ha avviato politiche di 'de-risking' dopo le tensioni commerciali e le restrizioni cinesi alle esportazioni di materiali critici, mentre Taiwan ha intensificato i contatti diplomatici con i partner europei per promuovere una diversificazione delle catene di approvvigionamento.",
+  "za7a45576": "La Corea del Sud registra da oltre un decennio il tasso di natalità più basso al mondo, nonostante ingenti investimenti pubblici in sussidi e incentivi alle famiglie avviati dai governi precedenti. Il presidente Lee Jae Myung, insediatosi nel 2025, ha istituito un nuovo Comitato presidenziale per la strategia sulla popolazione, incaricato di elaborare un piano quinquennale più ambizioso rispetto alle misure finora adottate senza risultati significativi.",
+  "z31296aee": "Papa Leone XIV, eletto nel maggio 2025 come successore di Francesco, ha affrontato nei giorni scorsi accertamenti medici che hanno portato alla diagnosi di un tumore. Il Vaticano ha annunciato la necessità di un intervento chirurgico, comunicando la cancellazione di diversi impegni pubblici del pontefice. La notizia ha suscitato apprensione tra fedeli e leader politici internazionali, con numerosi messaggi di vicinanza giunti da capi di Stato e autorità religiose.",
+  "z27b24eb9": "Nelle ultime settimane i sindacati del settore pubblico irlandese hanno condotto trattative con il governo per il rinnovo dell'accordo salariale collettivo, senza raggiungere un'intesa. Le organizzazioni sindacali hanno più volte denunciato i ritardi nei negoziati e l'erosione del potere d'acquisto dei dipendenti pubblici, minacciando azioni di protesta. Dopo settimane di stallo, i sindacati hanno proclamato uno sciopero generale nel pubblico impiego.",
+  "z71ba6381": "Ali Sina Mostafavi, alpinista iraniano, era stato arrestato e condannato a morte dalle autorità della Repubblica islamica con l'accusa di \"azione armata\". Organizzazioni per i diritti umani e ambienti dell'opposizione in esilio avevano denunciato da tempo l'uso sistematico della tortura per estorcere confessioni nei processi iraniani. Nelle ore precedenti all'esecuzione, attivisti legati al principe ereditario Reza Pahlavi avevano lanciato un appello urgente per fermare l'impiccagione.",
+  "ze0ea2216": "Le autorità polacche hanno condotto un'indagine su un cittadino sospettato di preparare un attentato contro il primo ministro del Paese. Durante perquisizioni nella sua abitazione, gli investigatori hanno rinvenuto ordigni esplosivi artigianali, elemento ritenuto decisivo per formalizzare le accuse. Il caso si inserisce in un contesto di crescente attenzione alla sicurezza delle alte cariche istituzionali polacche negli ultimi mesi.",
+  "zf64bb0fa": "La tempesta tropicale Rachel si è formata nell'oceano Pacifico orientale e, indebolendosi progressivamente, si è trasformata in ciclone post-tropicale avvicinandosi alla costa occidentale nordamericana. Nel fine settimana i suoi resti hanno portato piogge intense e mareggiate che hanno colpito la Baja California messicana, la California meridionale e l'area di Las Vegas, causando danni a infrastrutture costiere e abitazioni.",
+  "za3c21b41": "Negli ultimi anni il monitoraggio satellitare ha documentato un'alternanza di progressi e arretramenti nella lotta alla deforestazione globale, con l'Amazzonia brasiliana in miglioramento grazie a politiche più severe, mentre il Bacino del Congo è rimasto vulnerabile a causa di povertà, debolezza istituzionale e fenomeni climatici estremi come El Niño, che negli ultimi due anni ha aggravato siccità e incendi nella regione.",
+  "z25af1dd2": "«Girls», ideata da Lena Dunham, è andata in onda su HBO dal 2012 al 2017, diventando un punto di riferimento della cultura pop per il suo ritratto crudo e ironico della vita di giovani donne a New York. Dopo la conclusione della serie, Dunham ha proseguito la carriera con altri progetti televisivi e cinematografici, mentre il pubblico ha continuato a chiedere un ritorno dei personaggi originali, alimentando negli anni voci su un possibile revival."
  },
  "cronologie": {
   "za83ee72b": [
@@ -7917,6 +9594,224 @@ window.EDIZIONI["2026-10-14"] = {
     "Ottobre 2026",
     "Funzionari iraniani annunciano un'intensificazione degli attacchi prima del voto Usa"
    ]
+  ],
+  "z46c3f191": [
+   [
+    "Giorni scorsi",
+    "Mobilitazione crescente di liceali con adesione di ex 'gilet gialli'"
+   ],
+   [
+    "Martedì",
+    "Decine di migliaia in corteo in diverse città francesi"
+   ],
+   [
+    "Giovedì",
+    "Incontro tra organizzazioni studentesche e ministri"
+   ]
+  ],
+  "z31296aee": [
+   [
+    "Maggio 2025",
+    "Elezione di Leone XIV al soglio pontificio"
+   ],
+   [
+    "Giorni scorsi",
+    "Accertamenti medici rivelano un tumore"
+   ],
+   [
+    "13 ottobre",
+    "Il Vaticano cancella alcuni impegni papali"
+   ],
+   [
+    "14 ottobre",
+    "Il Papa supera l'intervento chirurgico in serata"
+   ]
+  ],
+  "z27b24eb9": [
+   [
+    "Settembre 2026",
+    "Avvio dei negoziati per il nuovo contratto pubblico"
+   ],
+   [
+    "Fine settembre",
+    "Stallo nelle trattative salariali"
+   ],
+   [
+    "Inizio ottobre",
+    "I sindacati minacciano lo sciopero"
+   ],
+   [
+    "14 ottobre",
+    "Inizio dello sciopero con oltre 300mila lavoratori"
+   ]
+  ],
+  "z71ba6381": [
+   [
+    "Data non precisata",
+    "Arresto di Mostafavi con accusa di azione armata"
+   ],
+   [
+    "Settimane scorse",
+    "Condanna a morte confermata dalla magistratura"
+   ],
+   [
+    "13 ottobre",
+    "Allarme lanciato da ambienti vicini a Reza Pahlavi"
+   ],
+   [
+    "14 ottobre",
+    "Esecuzione della condanna a Kerman"
+   ]
+  ],
+  "ze0ea2216": [
+   [
+    "Settimane scorse",
+    "Avvio delle indagini sul sospettato"
+   ],
+   [
+    "Giorni scorsi",
+    "Perquisizione dell'abitazione e sequestro di ordigni"
+   ],
+   [
+    "14 ottobre",
+    "Formalizzazione dell'incriminazione"
+   ]
+  ],
+  "z3a3fdca3": [
+   [
+    "2024",
+    "Lancio del programma Pé de Meia per le scuole superiori"
+   ],
+   [
+    "2025-2026",
+    "Il programma diventa tema centrale della campagna elettorale"
+   ],
+   [
+    "13 ottobre",
+    "Lula annuncia l'estensione universitaria del programma"
+   ]
+  ],
+  "z150fb7fd": [
+   [
+    "2023-2024",
+    "Condanne e misure restrittive contro Jair Bolsonaro"
+   ],
+   [
+    "Mesi scorsi",
+    "Arresti domiciliari imposti da Alexandre de Moraes"
+   ],
+   [
+    "Giorni scorsi",
+    "Fine delle restrizioni alle visite"
+   ],
+   [
+    "13 ottobre",
+    "Prima visita di Flávio al padre dopo la revoca"
+   ]
+  ],
+  "z28293037": [
+   [
+    "Anni recenti",
+    "Conflitto nell'est del Congo con il gruppo M23"
+   ],
+   [
+    "Giorni scorsi",
+    "Kabila annuncia la creazione del FRN"
+   ],
+   [
+    "14 ottobre",
+    "Kamerhe denuncia la contraddizione dell'iniziativa"
+   ]
+  ],
+  "zf64bb0fa": [
+   [
+    "Settimana scorsa",
+    "Formazione della tempesta tropicale Rachel nel Pacifico"
+   ],
+   [
+    "Fine settimana",
+    "Rachel si indebolisce in ciclone post-tropicale"
+   ],
+   [
+    "11-12 ottobre",
+    "Impatto su Baja California, California e Las Vegas"
+   ],
+   [
+    "14 ottobre",
+    "Bilancio dei danni nelle comunità costiere californiane"
+   ]
+  ],
+  "z9c15e33d": [
+   [
+    "2023",
+    "La Commissione UE lancia la strategia di 'de-risking' verso la Cina"
+   ],
+   [
+    "2024-2025",
+    "Pechino restringe le esportazioni di terre rare e minerali critici"
+   ],
+   [
+    "Settembre 2025",
+    "Taiwan intensifica i colloqui con funzionari UE su sicurezza delle supply chain"
+   ],
+   [
+    "Ottobre 2025",
+    "Taiwan lancia l'avvertimento alla vigilia del vertice UE di Bruxelles"
+   ]
+  ],
+  "za3c21b41": [
+   [
+    "2023-2024",
+    "El Niño intensifica siccità e incendi in Africa centrale"
+   ],
+   [
+    "2024",
+    "Il Brasile registra un calo della deforestazione amazzonica"
+   ],
+   [
+    "2025",
+    "Il Bacino del Congo diventa il principale punto critico mondiale"
+   ],
+   [
+    "Ottobre 2025",
+    "Pubblicato il rapporto Forest Declaration Assessment"
+   ]
+  ],
+  "za7a45576": [
+   [
+    "2006-2024",
+    "Governi successivi spendono centinaia di miliardi di won in politiche natalità"
+   ],
+   [
+    "2025",
+    "Il tasso di fertilità sudcoreano resta tra i più bassi al mondo"
+   ],
+   [
+    "2025",
+    "Lee Jae Myung istituisce il Comitato presidenziale per la strategia sulla popolazione"
+   ],
+   [
+    "Ottobre 2025",
+    "Presentata la nuova strategia quinquennale sulla demografia"
+   ]
+  ],
+  "z25af1dd2": [
+   [
+    "2012",
+    "Debutto di 'Girls' su HBO"
+   ],
+   [
+    "2017",
+    "Conclusione della serie originale dopo sei stagioni"
+   ],
+   [
+    "Anni successivi",
+    "Dunham lavora ad altri progetti televisivi e cinematografici"
+   ],
+   [
+    "Ottobre 2025",
+    "HBO annuncia il revival con una serie limitata"
+   ]
   ]
  },
  "confronti": {
@@ -8074,6 +9969,32 @@ window.EDIZIONI["2026-10-14"] = {
     }
    ],
    "divergono": "The Express Tribune aggiunge elementi assenti altrove: il report Axios sulla presunta discussione Trump-Netanyahu su una nuova operazione (poi smentita dalla Casa Bianca) e le dichiarazioni di Trump in Alaska. Rappler, Japan Times e La Tercera restano ancorate al solo dispaccio Reuters, con Japan Times parzialmente leggibile. El Tiempo non tratta affatto la notizia sull'Iran, riportando invece un'escalation Arabia Saudita-Yemen, segno di una scelta editoriale diversa su quale conflitto mediorientale privilegiare in prima pagina. The Citizen offre solo elementi minimi non confrontabili nel merito."
+  },
+  "z204a09cf": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Riporta l'intercettazione di missili e droni su Riyadh citando il portavoce della coalizione Turki al-Maliki, e il raid sul deposito carburante Houthi di al-Sabaha. Cita 13 morti all'aeroporto di Riyadh, dati ONU su sfollati e colera, e una dichiarazione del FMI su rischi globali.",
+     "b": "a"
+    },
+    {
+     "n": "Prothom Alo (inglese)",
+     "c": "Dacca",
+     "p": "XX",
+     "t": "Si concentra sui raid della coalizione su più siti petroliferi yemeniti e sulle esplosioni a Riyadh e Dhahran, con testimonianze AFP dirette. Aggiunge dettagli economici (contrazione PIL saudita -3,3% secondo il FMI) e cita minacce Houthi contro interessi USA.",
+     "b": "a"
+    },
+    {
+     "n": "PBS NewsHour",
+     "c": "Arlington",
+     "p": "US",
+     "t": "Formato intervista con l'ex ambasciatore USA Michael Ratney, che analizza le difficoltà saudite nel contrastare gli attacchi Houthi nonostante gli armamenti americani. Mette al centro l'esitazione di Trump a intervenire militarmente e le opzioni diplomatiche limitate per Riyadh.",
+     "b": "a"
+    }
+   ],
+   "divergono": "BBC News e Prothom Alo riportano i fatti con dettagli concreti (vittime, date, dichiarazioni ufficiali), mentre PBS NewsHour offre un'analisi politico-strategica tramite intervista, senza cifre proprie sui raid. Prothom Alo aggiunge dati economici sul PIL saudita assenti altrove e testimonianze dirette da Riyadh; BBC si sofferma su dati umanitari ONU (sfollati, colera) non ripresi dagli altri due. PBS è l'unica a discutere apertamente il possibile coinvolgimento militare statunitense e le tensioni interne alla Casa Bianca su questo tema."
   }
  },
  "luoghi": {
@@ -9759,6 +11680,436 @@ window.EDIZIONI["2026-10-14"] = {
     "Senegal"
    ],
    "pt": []
+  },
+  "ze102cfa5": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z1cc42375": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z6ff26fb0": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z9629c0ee": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z46c3f191": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z31296aee": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z77bde7ad": {
+   "n": "Sudan",
+   "p": [
+    "Sudan"
+   ],
+   "pt": []
+  },
+  "z27b24eb9": {
+   "n": "Irlanda",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zcb335193": {
+   "n": "Belfast",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z67ddecfd": {
+   "n": "Ceuta",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z25117965": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5e6adfc5": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z0344ac2c": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z13bacc64": {
+   "n": "Figi",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z355c8596": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zbb731d32": {
+   "n": "Papua Nuova Guinea",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z61b04148": {
+   "n": "Papua Occidentale",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "zeeb36eb1": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z17f08641": {
+   "n": "Patrasso",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z0a644c52": {
+   "n": "Africa",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z9d7cbf39": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z3eaf7b60": {
+   "n": "Figi",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z538a2ef2": {
+   "n": "Figi",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "zd9f057b8": {
+   "n": "San Pietroburgo",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z699e0ab3": {
+   "n": "Zamfara",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z2ee7816e": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z71ba6381": {
+   "n": "Kerman",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "za6bf609b": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "ze0ea2216": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zf3a701e0": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z2208f32a": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z41cadb5d": {
+   "n": "Kulob",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z3341fe17": {
+   "n": "Corea del Nord",
+   "p": [
+    "North Korea"
+   ],
+   "pt": []
+  },
+  "z5a297bc3": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zb5886eef": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z2a24895f": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zcb73b942": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z8c0d50f1": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zf387095b": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z89e5f450": {
+   "n": "Norvegia",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z8aee560f": {
+   "n": "Norvegia",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z3ea3273a": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z8ee5e2b1": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "z3a3fdca3": {
+   "n": "Brasilia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z150fb7fd": {
+   "n": "Brasilia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z98043820": {
+   "n": "Brasilia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z9608d1fc": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z28293037": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z35fe4e79": {
+   "n": "Fizi",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zf64bb0fa": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb79b5822": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zb7ffb25f": {
+   "n": "Perth",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z65527a21": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z47442863": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zf269f970": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z12339357": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z9c15e33d": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zd7c57fb1": {
+   "n": "Mogadiscio",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z59e161c7": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z344ba6a6": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z7333fe13": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "za7a45576": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -9787,7 +12138,7 @@ window.EDIZIONI["2026-10-14"] = {
   "z035452ea": 1,
   "zcbea5f6c": 1,
   "z8a29cf71": 2,
-  "za3c21b41": 1,
+  "za3c21b41": 2,
   "z9b584208": 1,
   "zdb4c9a4f": 1,
   "zabaa26dd": 1,
@@ -9835,7 +12186,7 @@ window.EDIZIONI["2026-10-14"] = {
   "z3b5a34ec": 2,
   "z9bec1ade": 2,
   "zad1562ff": 2,
-  "z25af1dd2": 1,
+  "z25af1dd2": 2,
   "z254add72": 2,
   "zda7488cb": 1,
   "z33c7d8ae": 1,
@@ -10004,7 +12355,69 @@ window.EDIZIONI["2026-10-14"] = {
   "z753b1bd5": 1,
   "zf8d0b5b3": 1,
   "ze2f52214": 1,
-  "z7c7229ba": 1
+  "z7c7229ba": 1,
+  "ze102cfa5": 1,
+  "z1cc42375": 1,
+  "z6ff26fb0": 1,
+  "z9629c0ee": 1,
+  "z46c3f191": 2,
+  "z31296aee": 2,
+  "z77bde7ad": 1,
+  "z27b24eb9": 2,
+  "zcb335193": 1,
+  "z67ddecfd": 1,
+  "z25117965": 1,
+  "z5e6adfc5": 1,
+  "z0344ac2c": 1,
+  "z13bacc64": 1,
+  "z355c8596": 1,
+  "zbb731d32": 1,
+  "z61b04148": 1,
+  "zeeb36eb1": 1,
+  "z17f08641": 1,
+  "z0a644c52": 1,
+  "z9d7cbf39": 1,
+  "z3eaf7b60": 1,
+  "z538a2ef2": 1,
+  "zd9f057b8": 1,
+  "z699e0ab3": 1,
+  "z2ee7816e": 1,
+  "z71ba6381": 2,
+  "za6bf609b": 1,
+  "ze0ea2216": 2,
+  "zf3a701e0": 1,
+  "z2208f32a": 1,
+  "z41cadb5d": 1,
+  "z3341fe17": 1,
+  "z5a297bc3": 1,
+  "zb5886eef": 1,
+  "z2a24895f": 1,
+  "zcb73b942": 1,
+  "z8c0d50f1": 1,
+  "zf387095b": 1,
+  "z89e5f450": 1,
+  "z8aee560f": 1,
+  "z3ea3273a": 1,
+  "z8ee5e2b1": 1,
+  "z3a3fdca3": 2,
+  "z150fb7fd": 2,
+  "z98043820": 1,
+  "z9608d1fc": 1,
+  "z28293037": 2,
+  "z35fe4e79": 1,
+  "zf64bb0fa": 2,
+  "zb79b5822": 1,
+  "zb7ffb25f": 1,
+  "z65527a21": 1,
+  "z47442863": 1,
+  "zf269f970": 1,
+  "z12339357": 1,
+  "z9c15e33d": 2,
+  "zd7c57fb1": 1,
+  "z59e161c7": 1,
+  "z344ba6a6": 1,
+  "z7333fe13": 1,
+  "za7a45576": 2
  },
  "video": {},
  "pillole": []
