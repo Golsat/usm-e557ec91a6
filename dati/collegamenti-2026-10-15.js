@@ -1,0 +1,1 @@
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"rooney":[["2026-10-14-sera","zcce2c3e8","14 ott","I libri di Sally Rooney saranno ritirati dalla vendita nel Regno Unito"]],"castellucci":[["2026-10-14-sera","z4e6b0ba2","14 ott","In principio era il fatto: il Faust di Romeo Castellucci a Romaeuropa"]]});
