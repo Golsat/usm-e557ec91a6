@@ -3,6 +3,2036 @@ window.EDIZIONI["2026-10-15"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z00266aeb",
+   "sez": "mondo",
+   "titolo": "Il segretario generale del DPSU definisce positive le proteste dei medici",
+   "orig": "DPSU General Secretary says doctors’ protest has produced positive outcomes",
+   "lead": "Il segretario generale del sindacato Dominica Public Service Union (DPSU), Thomas Letang, ha dichiarato che la protesta pacifica inscenata dai medici ha prodotto risultati positivi. L'intervento è avvenuto durante un briefing con la stampa tenutosi presso l'ufficio del Primo Ministro, in cui Letang ha espresso soddisfazione per gli sviluppi della vertenza. Lo riferisce Dominica News Online.",
+   "more": [
+    "Il Dominica Public Service Union è una delle principali organizzazioni sindacali della Dominica, attiva nella tutela dei diritti dei lavoratori del settore pubblico, compreso il personale sanitario e amministrativo statale."
+   ],
+   "fonti": [
+    {
+     "n": "Dominica News Online",
+     "p": "XX",
+     "c": "Roseau",
+     "u": "https://dominicanewsonline.com/news/homepage/homepage-carousel/dpsu-general-secretary-says-doctors-protest-has-produced-positive-outcomes/",
+     "angolo": "",
+     "atlas": "Dominica",
+     "t": "2026-10-14T23:06+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7db886cf",
+   "sez": "sport",
+   "titolo": "L'Emerald Aquatics conquista tre medaglie di bronzo alla prima gara regionale",
+   "orig": "Emerald Aquatics wins three bronze medals at first regional swimming meet",
+   "lead": "La squadra di nuoto Emerald Aquatics Club ha ottenuto tre medaglie di bronzo alla sua prima competizione regionale, inaugurando in modo promettente il percorso del club in via di sviluppo. Il team, composto da dieci atleti, ha preso parte alla quattordicesima edizione dei campionati annuali Ocean Spray Short Course Nationals. Lo riferisce Dominica News Online.",
+   "more": [
+    "Le competizioni di nuoto in vasca corta (short course) si disputano solitamente in piscine della lunghezza di venticinque metri e rappresentano un banco di prova importante per la crescita tecnica dei giovani nuotatori nei circuiti regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Dominica News Online",
+     "p": "XX",
+     "c": "Roseau",
+     "u": "https://dominicanewsonline.com/news/homepage/news/emerald-aquatics-wins-three-bronze-medals-at-first-regional-swimming-meet/",
+     "angolo": "",
+     "atlas": "Dominica",
+     "t": "2026-10-14T22:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbd6c3a80",
+   "sez": "mondo",
+   "titolo": "Proteste ad Antigua contro il caro bollette e i disservizi dei servizi pubblici",
+   "orig": "‘Enough is enough’, activists take utility bill fight to APUA",
+   "lead": "Un gruppo di cittadini frustrati ha inscenato un picchetto di protesta davanti alla sede centrale dell'Antigua Public Utilities Authority (APUA) per denunciare l'aumento delle tariffe di elettricità e acqua e la frequente interruzione dei servizi. La manifestazione, guidata dall'attivista Franz De Freitas, è iniziata alle ore undici del mattino e segna l'avvio di una più ampia campagna di mobilitazione civica sui disagi che colpiscono i residenti. Lo riferisce Antigua Observer.",
+   "more": [
+    "Le autorità di regolamentazione e gestione dei servizi di pubblica utilità nei Caraibi affrontano spesso pressioni crescenti da parte dei consumatori a causa dell'instabilità delle forniture energetiche e idriche e dei costi elevati per le utenze domestiche."
+   ],
+   "fonti": [
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/enough-is-enough-activists-take-utility-bill-fight-to-apua/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-10-15T02:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z64a9c99a",
+   "sez": "sport",
+   "titolo": "LaFond-Gadson riflette sull'impatto della sua medaglia d'oro olimpica",
+   "orig": "LaFond-Gadson humbled by impact of Olympic gold",
+   "lead": "La campionessa olimpica di salto triplo Thea LaFond-Gadson ha espresso emozione e umiltà riguardo all'influenza che la sua storica vittoria ai Giochi di Parigi 2024 ha avuto sullo sport in Dominica. Intervenuta durante la trasmissione radiofonica sportiva Good Morning Jojo, l'atleta residente negli Stati Uniti ha evidenziato come il primo oro olimpico conquistato dal Paese caraibico stia contribuendo a ispirare lo sviluppo delle attività sportive nella propria terra d'origine. Lo riferisce Antigua Observer.",
+   "more": [
+    "Il salto triplo è una disciplina dell'atletica leggera in cui gli atleti eseguono una sequenza di tre movimenti consecutivi — hop, step e jump — per coprire la massima distanza possibile nella fossa di sabbia."
+   ],
+   "fonti": [
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/lafond-gadson-humbled-by-impact-of-olympic-gold/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-10-15T01:47+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z01b56525",
+   "sez": "sport",
+   "titolo": "Vittorie per Police FC e North Coast nella seconda divisione calcistica",
+   "orig": "Police beat Tryum 4-1 as North Coast edge Blackhawks",
+   "lead": "Il Police FC ha superato il Tryum FC con il punteggio di quattro a uno, mentre il North Coast ha battuto di misura il Liberta Blackhawks per uno a zero nelle partite valide per la Seconda Divisione dell'Antigua and Barbuda Football Association (ABFA). Gli incontri si sono disputati martedì, con il Police che ha ipotecato il successo iniziale grazie alle reti realizzate nei primi sedici minuti di gioco da Jenson Samuel e Dimitri Scotland. Lo riferisce Antigua Observer.",
+   "more": [
+    "I campionati calcistici locali gestiti dalle federazioni nazionali nei Caraibi offrono spazi di crescita competitiva per le squadre minori e giovanili all'interno del sistema calcistico federale."
+   ],
+   "fonti": [
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/police-beat-tryum-4-1-as-north-coast-edge-blackhawks/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-10-15T01:47+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z22cdb85f",
+   "sez": "mondo",
+   "titolo": "Murale di protesta contro il regime cubano scoperto a Guanabacoa",
+   "orig": "\"Abajo los Castros\", un cartel contra el régimen en un sector de la Policía en Guanabacoa",
+   "lead": "Le autorità hanno tentato di cancellare una scritta di protesta contro il regime apparsa sulla facciata di un settore della polizia a Guanabacoa, accompagnata dallo slogan \"Patria y Vida\" e dalla scritta \"Abajo los Castros\". Nonostante i tentativi di rimozione da parte della polizia, le parole della contestazione risultano ancora leggibili sull'edificio. Lo riferisce 14ymedio.",
+   "more": [
+    "Guanabacoa è un municipio storico situato nella provincia dell'Avana, a Cuba, noto per le sue tradizioni culturali e per essere stato teatro di diverse espressioni di dissenso popolare nei confronti del governo."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/abajo-castros-cartel-regimen-sector_1_1131951.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-14T20:20+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1471ac89",
+   "sez": "mondo",
+   "titolo": "Avvocati honduregni allarmati per le nuove riforme penali simili a quelle di Nicaragua ed El Salvador",
+   "orig": "Reformas penales de Honduras emulan las impuestas por Nicaragua y El Salvador",
+   "lead": "Avvocati e difensori dei diritti umani in Honduras hanno lanciato l'allarme riguardo alle recenti riforme penali approvate nel Paese, evidenziando come queste imitino i provvedimenti restrittivi già imposti in Nicaragua e Salvador. Secondo i legali, una definizione eccessivamente ampia del reato di terrorismo potrebbe facilitare la criminalizzazione sistematica degli attivisti e dei difensori dei diritti umani. Lo riferisce Criterio.hn.",
+   "more": [
+    "Il quadro normativo e la legislazione penale in America Centrale sono spesso oggetto di dibattito internazionale riguardo al bilanciamento tra le politiche di sicurezza statali e la tutela delle libertà civili fondamentali."
+   ],
+   "fonti": [
+    {
+     "n": "Criterio.hn",
+     "p": "XX",
+     "c": "Tegucigalpa",
+     "u": "https://criterio.hn/reformas-penales-de-honduras-emulan-las-impuestas-por-nicaragua-y-el-salvador/",
+     "angolo": "",
+     "atlas": "Honduras",
+     "t": "2026-10-15T02:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5c43c413",
+   "sez": "mondo",
+   "titolo": "Critiche in Honduras per l'uso dell'immagine delle persone autistiche senza un piano integrale",
+   "orig": "Gobierno usa imagen de población autista, pero no crea plan integral decretado desde 2019",
+   "lead": "Il governo dell'Honduras è stato accusato di utilizzare l'immagine della popolazione autistica per iniziative pubbliche senza tuttavia avere implementato il piano integrale decretato sin dal 2019. Secondo le segnalazioni, le persone con autismo nel Paese affrontano gravi ostacoli allo sviluppo personale a causa di una società giudicata escludente e priva di politiche pubbliche efficaci a garanzia dei loro diritti. Lo riferisce Criterio.hn.",
+   "more": [
+    "I disturbi dello spettro autistico richiedono interventi strutturati di inclusione sociale, educativa e sanitaria attraverso piani istituzionali continuativi e supportati da adeguate risorse pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "Criterio.hn",
+     "p": "XX",
+     "c": "Tegucigalpa",
+     "u": "https://criterio.hn/gobierno-usa-imagen-de-poblacion-autista-pero-no-crea-plan-integral-decretado-desde-2019/",
+     "angolo": "",
+     "atlas": "Honduras",
+     "t": "2026-10-15T00:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z34dbdc35",
+   "sez": "cultura",
+   "titolo": "Riflessione critica sulla parabola musicale e sociale dei Metallica",
+   "orig": "Metallica: de la crítica al sistema a la neutralidad hipócrita del privilegio",
+   "lead": "Un saggio di analisi culturale e musicale pubblicato da Criterio.hn esamina il percorso artistico della celebre band metal dei Metallica, mettendo in discussione la transizione della loro proposta musicale dalla critica originaria nei confronti del sistema sociale fino a quella che viene definita la neutralità ipocrita derivata dai privilegi acquisiti nel corso degli anni. Lo riferisce Criterio.hn.",
+   "more": [
+    "I Metallica sono uno dei gruppi di musica heavy metal più celebri e commerciali della storia, emersi all'inizio degli anni Ottanta nell'ambito della scena thrash metal statunitense."
+   ],
+   "fonti": [
+    {
+     "n": "Criterio.hn",
+     "p": "XX",
+     "c": "Tegucigalpa",
+     "u": "https://criterio.hn/metallica-de-la-critica-al-sistema-a-la-neutralidad-hipocrita-del-privilegio/",
+     "angolo": "",
+     "atlas": "Honduras",
+     "t": "2026-10-15T00:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z89e3ba30",
+   "sez": "mondo",
+   "titolo": "Riflessione sui ritardi della giustizia in America Latina attraverso le storie dei cittadini",
+   "orig": "¿Cuántos años de vida nos debe la justicia?",
+   "lead": "Un articolo di opinione pubblicato dall'analista José Luis Sampietro all'interno del network Latinoamérica21 solleva interrogativi sui costi umani ed esistenziali provocati dai ritardi del sistema giudiziario nella regione. Attraverso esempi quotidiani, come l'attesa di una madre per la risoluzione di una pratica di assegno alimentare o la lunga attesa di un lavoratore per riottenere il proprio impiego, il contributo riflette sul tempo di vita sottratto ai cittadini dalla lentezza della giustizia. Lo riferisce Criterio.hn.",
+   "more": [
+    "I problemi di efficienza e le lungaggini burocratiche dei tribunali in America Latina rappresentano un ostacolo storico all'effettivo godimento dei diritti civili ed economici da parte delle fasce più vulnerabili della popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "Criterio.hn",
+     "p": "XX",
+     "c": "Tegucigalpa",
+     "u": "https://criterio.hn/cuantos-anos-de-vida-nos-debe-la-justicia/",
+     "angolo": "",
+     "atlas": "Honduras",
+     "t": "2026-10-14T22:24+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc1c162f5",
+   "sez": "mondo",
+   "titolo": "I cinque temi chiave della giornata secondo Brújula Digital",
+   "orig": "Cinco temas que definirán esta jornada, en cinco minutos",
+   "lead": "La testata Brújula Digital propone una sintesi rapida dei cinque argomenti e degli appuntamenti di maggior rilievo previsti per la giornata di giovedì, offrendo ai lettori una panoramica informativa per orientarsi tra i principali eventi in agenda. Lo riferisce Brújula Digital.",
+   "more": [
+    "I notiziari di sintesi quotidiana aiutano i lettori a focalizzare rapidamente i nodi politici, economici e sociali di maggiore attualità nel panorama nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/sociedad/cinco-temas-que-definiran-esta-jornada-en-cinco-minutos",
+     "angolo": "",
+     "atlas": "Bolivia"
+    }
+   ],
+   "data": "",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z433de8ce",
+   "sez": "mondo",
+   "titolo": "Analisi diplomatica sulla visita presidenziale tra passato e prospettive bilaterali",
+   "orig": "|OPINIÓN|Paz-Kast y una larga historia de portazos diplomáticos|Freddy Abastoflor|",
+   "lead": "Un editoriale di Freddy Abastoflor pubblicato da Brújula Digital analizza le implicazioni della visita presidenziale che coinvolge Paz e Kast, sottolineando che non si dovrebbero nutrire aspettative eccessive di cancellare d'improvviso quasi un secolo e mezzo di controversie, tensioni e rivendicazioni storiche. Ciononostante, l'autore osserva che l'incontro potrebbe rappresentare l'opportunità per avviare un metodo differente di concertazione e costruzione di un'agenda bilaterale condivisa. Lo riferisce Brújula Digital.",
+   "more": [
+    "Le relazioni diplomatiche tra i Paesi dell'area andina sono storicamente segnate da complesse dispute territoriali e marittime risalenti al diciannovesimo secolo che condizionano tuttora i rapporti geopolitici regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/opinionpaz-kast-y-una-larga-historia-de-portazos-diplomaticosfreddy-abastoflor",
+     "angolo": "",
+     "atlas": "Bolivia"
+    }
+   ],
+   "data": "",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4cc3232a",
+   "sez": "mondo",
+   "titolo": "Dibattito sulla riforma giudiziaria e sul sistema penitenziario boliviano",
+   "orig": "|DIÁLOGOS AL CAFÉ|De la Celda 38 a la reforma judicial|",
+   "lead": "Nell'ambito della rubrica di approfondimento culturale e politico 'Diálogos al Café', Brújula Digital affronta il tema della riforma della giustizia partendo dal volume 'De la Celda 38'. Gli esperti sottolineano che la sfida principale consiste nel definire priorità chiare e garantire la continuità dei cambiamenti nella formazione giuridica, nell'indipendenza della magistratura, nelle tecniche di indagine criminale, nei metodi alternativi di risoluzione delle controversie e nella gestione del sistema carcerario. Lo riferisce Brújula Digital.",
+   "more": [
+    "La riforma dei sistemi giudiziari in America Latina rappresenta un tema ricorrente nei dibattiti istituzionali, volto a superare la corruzione, il sovraffollamento carcerario e la sfiducia dei cittadini nelle corti."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/dialogos-al-cafede-la-celda-38-a-la-reforma-judicial",
+     "angolo": "",
+     "atlas": "Bolivia"
+    }
+   ],
+   "data": "",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z256b92b0",
+   "sez": "mondo",
+   "titolo": "Marine Le Pen isolata a Bruxelles dopo le minacce di un braccio di ferro con l'Unione Europea",
+   "orig": "A Bruxelles, Marine Le Pen isolée après avoir menacé l’Europe d’un « bras de fer »",
+   "lead": "Durante una conferenza stampa a Bruxelles, la candidata del Rassemblement National alla presidenza francese Marine Le Pen ha difeso mercoledì 14 ottobre la proposta di ridurre la quota di contribuzione finanziaria francese al bilancio dell'Unione Europea, minacciando un duro braccio di ferro con le istituzioni comunitarie. Tuttavia, le sue promesse di rottura radicale con le regole comunitarie non hanno trovato il sostegno dei suoi stessi alleati della destra radicale europea, lasciandola isolata nel panorama politico continentale. Lo riferisce Le Monde.",
+   "more": [
+    "Il Parlamento europeo e i gruppi politici della destra nazionalista ed euroscettica mantengono posizioni spesso diversificate riguardo alla gestione dei bilanci comunitari e al rispetto dei trattati vigenti nell'Unione Europea."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/15/a-bruxelles-marine-le-pen-bien-isolee-apres-avoir-menace-l-europe-d-un-bras-de-fer_6794068_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T06:00+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zad3343b6",
+   "sez": "ambiente",
+   "titolo": "Vasti incendi continuano a devastare l'Indonesia avvolgendo la regione in una nebbia tossica",
+   "orig": "Des incendies géants continuent de ravager l’Indonésie, plongeant la région dans un brouillard toxique",
+   "lead": "Enormi roghi continuano a devastare da mesi il territorio indonesiano, generando una fitta nebbia di fumo tossico che si estende persino fino ai Paesi confinanti. Alimentati dagli effetti climatici del fenomeno El Niño ma ampiamente originati dall'azione umana, questi megaincendi stanno provocando una grave emergenza sanitaria e sollevando forti critiche internazionali nei confronti dell'operato del governo di Giacarta. Lo riferisce Le Monde.",
+   "more": [
+    "Il fenomeno climatico El Niño comporta spesso periodi di prolungata siccità in diverse aree del Sud-est asiatico, aggravando la vulnerabilità delle foreste tropicali agli incendi boschivi, spesso appiccati illegalmente per la bonifica dei terreni agricoli."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T06:17+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdb15a249",
+   "sez": "mondo",
+   "titolo": "A un anno dal furto al Louvre, i gioielli della Corona restano introvabili e spunta l'uomo al T-Max",
+   "orig": "«Cette personne, vous ne l’avez pas attrapée» : un an après le casse du Louvre, sur les traces de l’insaisissable homme au T-Max",
+   "lead": "A un anno di distanza dal clamoroso furto al museo del Louvre a Parigi, gli otto gioielli della Corona sottratti rimangono ancora introvabili. Nel corso degli interrogatori agli indagati, i verbali giudiziari hanno fatto emergere la figura di un misterioso individuo soprannominato «Djo», descritto come l'insistente e sfuggente uomo alla guida di uno scooter T-Max, la cui identità esatta e il cui livello di coinvolgimento nel colpo restano da accertare. Lo riferisce Le Figaro.",
+   "more": [
+    "Il museo del Louvre di Parigi è uno dei più importanti e visitati musei d'arte al mondo, e custodisce celebri collezioni storiche e tesori appartenuti alla monarchia francese."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/faits-divers/cette-personne-vous-ne-l-avez-pas-attrapee-un-an-apres-le-casse-du-louvre-sur-les-traces-de-l-insaisissable-homme-au-t-max-20261015",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T06:30+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z60c39403",
+   "sez": "mondo",
+   "titolo": "Francia: le diverse proposte dei candidati presidenziali sul sistema pensionistico",
+   "orig": "Retraites : ce que proposent les candidats à l’élection présidentielle",
+   "lead": "I candidati alle elezioni presidenziali in Francia stanno presentando le loro proposte di riforma del sistema previdenziale, dando vita a un vivace dibattito politico che spazia dal ritorno dell'età pensionabile fissata a sessant'anni fino all'innalzamento del limite legale a sessantacinque anni, con l'inclusione da parte di alcuni schieramenti di una quota di finanziamento a capitalizzazione. Lo riferisce Le Figaro.",
+   "more": [
+    "Il sistema delle pensioni in Francia rappresenta tradizionalmente uno dei temi più divisivi e centrali della contesa politica nazionale, con forti tensioni sociali legate alle modifiche dell'età pensionabile."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/programmes/retraites-ce-que-proposent-les-candidats-a-l-election-presidentielle-20261015",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T07:30+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb8293ac4",
+   "sez": "mondo",
+   "titolo": "Proteste studentesche in Francia e nuove polemiche sulla trasparenza della piattaforma Parcoursup",
+   "orig": "«Un système qui alimente le soupçon» : au cœur des revendications lycéennes, l’avenir de Parcoursup en question",
+   "lead": "Mentre il ministro dell'Educazione nazionale ha annunciato mercoledì 14 ottobre l'introduzione di correttivi alla fine del mese sulla piattaforma di orientamento universitario Parcoursup — criticata per la mancanza di trasparenza ed equità —, una nuova nota dell'Institut des Politiques Publiques pubblicata giovedì mattina torna a criticare duramente il meccanismo di ammissione che alimenta i sospetti degli studenti. Lo riferisce Libération.",
+   "more": [
+    "Parcoursup è la piattaforma digitale statale francese utilizzata dagli studenti delle scuole superiori per candidarsi ai corsi di istruzione superiore e universitaria in tutto il Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/education/un-systeme-qui-alimente-le-soupcon-au-coeur-des-revendications-lyceennes-lavenir-de-parcoursup-en-question-20261015_6PWMLE6GRRDV3JN6BIYCKB5DYY/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T04:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9d12af49",
+   "sez": "mondo",
+   "titolo": "Cina e Corea del Nord inaugurano un nuovo ponte sul fiume Yalu",
+   "orig": "Entre la Chine et la Corée du Nord, un nouveau pont pour un «avenir encore plus radieux»",
+   "lead": "Cina e Corea del Nord inaugurano giovedì 15 ottobre un nuovo ponte lungo tre chilometri edificato sul fiume Yalu, un'infrastruttura la cui costruzione era iniziata quindici anni fa. La nuova opera rappresenta un importante asse commerciale bilaterale che testimonia i persistenti rapporti di forza e le dinamiche di dipendenza economica all'interno della regione caratterizzata da forti tensioni geopolitiche. Lo riferisce Libération.",
+   "more": [
+    "Il fiume Yalu segna gran parte del confine naturale tra la Cina e la Corea del Nord, rappresentando la principale via di transito commerciale e diplomatico tra i due Paesi confinanti."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/asie-pacifique/entre-la-chine-et-la-coree-du-nord-un-nouveau-pont-pour-un-avenir-encore-plus-radieux-20261015_GAZEAQVFRZCRBNBNFB2IVBVKFY/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T05:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z99f62d02",
+   "sez": "ambiente",
+   "titolo": "Allarme del Réseau Action Climat: il patrimonio culturale francese minacciato dai cambiamenti climatici",
+   "orig": "Patrimoine français : «Les aléas climatiques affectent nos monuments, nos collections, nos lieux de mémoire et nos savoir-faire»",
+   "lead": "L'aumento globale delle temperature e l'intensificazione dei fenomeni meteorologici estremi stanno mettendo in pericolo monumenti, siti storici, collezioni museali, luoghi di memoria e saperi tradizionali in Francia. Di fronte a questa emergenza, Benjamin Crettenand del Réseau Action Climat ha lanciato un appello affinché vengano adottate strategie di prevenzione del rischio più efficaci per salvaguardare il patrimonio culturale nazionale. Lo riferisce Libération.",
+   "more": [
+    "Le catastrofi naturali indotte dal riscaldamento globale, come inondazioni, ondate di calore e incendi, rappresentano una minaccia crescente per la conservazione dei beni culturali e architettonici in Europa."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/environnement/climat/patrimoine-francais-les-aleas-climatiques-affectent-nos-monuments-nos-collections-nos-lieux-de-memoire-et-nos-savoir-faire-20261015_YZW4LRKRWZFYLFYNCUDATJUWT4/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T04:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z38be922c",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV celebra la messa in ospedale dopo il recente intervento chirurgico ai polmoni",
+   "orig": "Papst Leo XIV.: Frisch operierter Papst feiert Messe im Krankenhaus",
+   "lead": "Il Pontefice Leone XIV, ricoverato in ospedale e sottoposto di recente a un intervento chirurgico ai polmoni a causa della malattia oncologica di cui soffre, ha celebrato la messa direttamente dalla struttura sanitaria. Il Vaticano e i medici curanti hanno espresso soddisfazione per il decorso post-operatorio, riferendo che il Papa sta mostrando buoni progressi nella convalescenza e si trova in spirito positivo. Lo riferisce Der Spiegel.",
+   "more": [
+    "Le condizioni di salute dei sommi pontefici vengono seguite costantemente dalle autorità sanitarie vaticane attraverso bollettini medici ufficiali diramati durante i ricoveri ospedalieri."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/papst-leo-xiv-frisch-operierter-papst-feiert-messe-im-krankenhaus-a-7043f390-5995-42c3-8b7d-da0ccf8f49d0#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T08:00+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z545dcd61",
+   "sez": "mondo",
+   "titolo": "Il presidente salvadoregno Nayib Bukele valuta la scarcerazione di 40.000 presunti membri di gang",
+   "orig": "El Salvador: Machthaber Nayib Bukele erwägt Amnestie für 40.000 vermeintliche Gang-Mitglieder, die in Haft sitzen",
+   "lead": "Dopo quattro anni trascorsi a governare El Salvador sotto un regime di rigide misure d'eccezione, il presidente Nayib Bukele sta valutando una drastica inversione di rotta nella sua politica di sicurezza. Secondo le indiscrezioni, circa il cinquanta percento delle persone detenute nelle carceri del Paese — pari a circa quarantamila presunti affiliati alle gang — potrebbe ricevere un'amnistia e tornare in libertà. Lo riferisce Der Spiegel.",
+   "more": [
+    "Le politiche di sicurezza e detenzione di massa attuate dal governo di Nayib Bukele in El Salvador hanno ridotto drasticamente i tassi di criminalità ma sono state al centro di accese polemiche internazionali per la sospensione delle garanzie costituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/el-salvador-machthaber-nayib-bukele-erwaegt-amnestie-fuer-40-000-vermeintliche-gang-mitglieder-die-in-haft-sitzen-a-01990d58-e800-4653-bfee-e1333c17fbfe#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T07:44+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z03dcbf76",
+   "sez": "mondo",
+   "titolo": "Croce Rossa: ospedali del Jemen al collasso e scorte alimentari in esaurimento a Taizz",
+   "orig": "Rotes Kreuz: Kliniken im Jemen überlastet - Viele Kriegsverletzte",
+   "lead": "La situazione umanitaria in Yemen continua a essere drammatica a causa del conflitto che contrappone gli Huthis alle forze legate all'Arabia Saudita. Secondo la Croce Rossa, gli ospedali del Paese sono gravemente sovraccarichi e mancano di medicinali essenziali, anestetici e bombole di ossigeno per curare le numerose persone ferite nei combattimenti, mentre nella grande città di Taizz si registra anche una preoccupante carenza delle scorte di farina. Lo riferisce Der Spiegel.",
+   "more": [
+    "La guerra civile in Yemen ha provocato una delle peggiori crisi umanitarie al mondo, caratterizzata dal collasso del sistema sanitario e da diffusi fenomeni di insicurezza alimentare."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/rotes-kreuz-kliniken-im-jemen-ueberlastet-viele-kriegsverletzte-a-63827cb0-a0d4-4b7a-9077-eca5435a4b27#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T07:36+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8fd70b64",
+   "sez": "economia",
+   "titolo": "Mercato immobiliare: registrato un nuovo forte rialzo dei canoni d'affitto nelle grandi città tedesche",
+   "orig": "Wohnungsmarkt: Mieten in deutschen Großstädten ziehen deutlich an",
+   "lead": "I prezzi degli affitti per le abitazioni di nuova offerta in Germania sono tornati a crescere in modo deciso dopo una fase di relativa stabilità, secondo quanto emerge da un'analisi statistica di mercato. Gli aumenti riguardano in particolare gli immobili già presenti sul mercato e vedono due grandi città tedesche distinguersi per i rincari più marcati rispetto al resto del Paese. Lo riferisce Der Spiegel.",
+   "more": [
+    "Il mercato immobiliare tedesco affronta da tempo una forte tensione sui prezzi delle locazioni urbane, spinti dalla carenza di alloggi disponibili nelle aree metropolitane più dinamiche."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/wirtschaft/soziales/wohnungsmarkt-mieten-in-deutschen-grossstaedten-ziehen-deutlich-an-a-69f106e6-9f09-4420-93e1-73f2808c5e7e#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T07:26+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zaeec2d21",
+   "sez": "mondo",
+   "titolo": "Marine Le Pen delinea la sua visione dell'Europa in vista del vertice UE",
+   "orig": "Europa: Le Pen will von der Leyen quasi zu ihrer Sekretärin machen",
+   "lead": "Alla vigilia del vertice dell'Unione Europea, la candidata alla presidenza francese Marine Le Pen ha esposto la sua visione di un'Europa profondamente riformata, arrivando a ipotizzare di ridimensionare il ruolo della presidente della Commissione Ursula von der Leyen a quello di una segretaria esecutiva al servizio dei governi nazionali. Il messaggio politico lanciato dalla leader sovranista mira a imporre un netto cambio di rotta nelle dinamiche comunitarie. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "I vertici dei leader dell'Unione Europea riuniscono periodicamente i capi di Stato e di governo dei Paesi membri per definire le linee guida strategiche e le politiche comunitarie di lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/marine-le-pen-eu-li.3563574",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T05:35+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8f6399e7",
+   "sez": "mondo",
+   "titolo": "Elon Musk risponde alle critiche da Kiev precisando che il controllo dei satelliti spetta agli Stati Uniti",
+   "orig": "Krieg in der Ukraine: Musk nach Kritik aus Kiew: Satelliten-Kontrolle liegt bei US-Regierung",
+   "lead": "In risposta alle critiche provenienti da Kiev in merito all'utilizzo dei sistemi satellitari Starlink, Elon Musk ha dichiarato che qualsiasi decisione riguardante limitazioni nella velocità o nelle modalità d'uso della rete è stabilita direttamente dal governo e dal dipartimento della difesa degli Stati Uniti, sotto l'autorità finale del presidente americano. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "La rete di satelliti per telecomunicazioni Starlink, gestita da SpaceX, riveste un ruolo strategico fondamentale nel supporto alle comunicazioni operative e militari sul campo di battaglia in Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-musk-satelliten-usa-starlink-li.3563283",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T04:34+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7374643a",
+   "sez": "mondo",
+   "titolo": "Crisi energetica in Europa: Dan Jørgensen avverte sui costi della guerra in Iran",
+   "orig": "Energiekrise: „Wir müssen offen sagen: Das wird ein harter Winter“",
+   "lead": "A causa del conflitto in Iran, i Paesi dell'Unione Europea hanno speso 110 miliardi di euro in più per l'acquisto di petrolio e gas. L'allarme è stato lanciato a Monaco dal commissario europeo per l'Energia Dan Jørgensen, il quale ha avvertito che ci attende un inverno difficile e ha esortato a una transizione decisa verso le fonti rinnovabili, sconsigliando al contempo l'introduzione di sussidi per i carburanti. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "La Commissione europea è l'organo esecutivo dell'Unione Europea, responsabile di proporre la legislazione, applicare i trattati comunitari e gestire le politiche quotidiane dell'Unione, tra cui quella energetica e commerciale."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/eu-oel-diesel-energie-preise-tankrabatt-li.3562934",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T04:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7072a2f6",
+   "sez": "mondo",
+   "titolo": "Il bilancio della presidenza di Donald Trump alla prova delle elezioni di metà mandato",
+   "orig": "Was hat er erreicht?: Trumps Anspruch und die Wirklichkeit",
+   "lead": "Donald Trump ha trasformato le elezioni di metà mandato in un vero e proprio referendum sulla sua presidenza, chiedendo agli elettori di comportarsi come se lui stesso fosse candidato sulla scheda elettorale. A Francoforte, la Frankfurter Allgemeine Zeitung analizza i risultati concreti raggiunti finora dal tycoon in rapporto alle ambizioni dichiarate della sua amministrazione. Lo riferisce FAZ.",
+   "more": [
+    "Le elezioni di metà mandato negli Stati Uniti si tengono ogni quattro anni, a metà del mandato presidenziale, e servono a rinnovare l'intera Camera dei Rappresentanti e un terzo dei seggi del Senato, fungendo spesso da giudizio sull'operato del capo della Casa Bianca."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-das-ist-donald-trumps-zwischenbilanz-accg-201292988.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T05:33+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-wie-stehen-die-umfragen-accg-201302007.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T05:34+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0f057407",
+   "sez": "mondo",
+   "titolo": "Intelligenza artificiale e Ucraina al centro del dibattito televisivo da Sandra Maischberger",
+   "orig": "Precht zu KI und Ukraine: Bei Maischberger geht die „Kulturtechnik“ flöten",
+   "lead": "Durante la trasmissione televisiva condotta da Sandra Maischberger si è parlato di intelligenza artificiale e del conflitto in Ucraina. Nel corso del programma, Richard David Precht ha spiegato i concetti legati all'IA, Thorsten Frei ha espresso la sua contrarietà a un clima inquisitorio e Tim Klüssendorf ha manifestato preoccupazione per le prospettive storiche, delineando un quadro complesso e frammentato. Lo riferisce FAZ.",
+   "more": [
+    "I talk show televisivi di dibattito politico e culturale in Germania offrono spesso uno spazio di confronto tra intellettuali, politici ed esperti su temi di rilevanza nazionale e internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-maischberger-mit-richard-david-precht-geht-die-kulturtechnik-floeten-accg-201323334.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T02:14+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2c62895d",
+   "sez": "mondo",
+   "titolo": "Spagna: scontro politico tra PSOE e PP sul futuro delle pensioni e delle elezioni",
+   "orig": "El PSOE y el PP encienden la batalla por el futuro de las pensiones",
+   "lead": "Il Partito Socialista (PSOE) e il Partito Popolare (PP) hanno acceso una dura competizione politica in Spagna incentrata sul tema delle pensioni. Mentre il leader popolare Alberto Núñez Feijóo cerca di rimediare alle comunicazioni imprecise del proprio portavoce, il capo del governo Pedro Sánchez sta studiando strategie per attuare un consistente incremento degli assegni previdenziali proprio in prossimità della scadenza elettorale. Lo riferisce El País.",
+   "more": [
+    "Il sistema previdenziale pubblico e le riforme delle pensioni rappresentano storicamente uno dei terreni di scontro politico ed elettorale più delicati e polarizzanti tra le principali forze politiche in Spagna."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/economia/2026-10-15/el-psoe-y-el-pp-encienden-la-batalla-por-el-futuro-de-las-pensiones.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-15T03:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze6214cb2",
+   "sez": "mondo",
+   "titolo": "Spagna, dubbi e critiche sulla credibilità dei sondaggi del CIS",
+   "orig": "Por qué tantos sociólogos no se creen la encuesta del CIS: el sesgo en la muestra contamina las encuestas",
+   "lead": "Molti sociologi mettono in dubbio l'affidabilità delle rilevazioni demoscopiche pubblicate dal Centro di Investigaciones Sociológicas (CIS), ritenendo che il campione esaminato sia falsato da distorsioni metodologiche. Secondo gli esperti interpellati, la sinistra risulterebbe sovrarappresentata a causa del rifiuto di molti elettori di destra di sottoporsi alle interviste, sebbene l'ente pubblico respinga fermamente tali accuse. Lo riferisce El País.",
+   "more": [
+    "Il Centro de Investigaciones Sociológicas (CIS) è l'organismo pubblico spagnolo incaricato di realizzare studi e ricerche statistiche sull'opinione pubblica e sulla situazione sociale e politica del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-10-15/por-que-tantos-sociologos-no-se-creen-la-encuesta-del-cis-el-sesgo-en-la-muestra-contamina-las-encuestas.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-15T03:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za9d93dc1",
+   "sez": "mondo",
+   "titolo": "Spagna: Pedro Sánchez promuove la ministra Robles come numero due del PSOE",
+   "orig": "Sánchez intenta compensar su \"podemización\" con Robles de número dos y tras quedarse sin una vicepresidenta como 'ticket'",
+   "lead": "Nel tentativo di compensare la virata a sinistra e dopo aver perso una figura chiave come la vicepresidenza in un ticket, il premier spagnolo Pedro Sánchez ha scelto la ministra della Difesa Margarita Robles come numero due del partito. La decisione rappresenta un forte attestato di stima per la gestione della ministra a Ceuta, contrapposta all'operato di Fernando Grande-Marlaska, sebbene all'interno della forza politica molti membri fatichino a stabilire un dialogo con lei. Lo riferisce El Mundo.",
+   "more": [
+    "Il Partito Socialista Obrero Español (PSOE) è una delle principali forze politiche della Spagna e guida l'attuale esecutivo nazionale attraverso la segreteria di Pedro Sánchez."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfd2ec21efa0d8708b4585.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-15T06:56+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze2c3d24a",
+   "sez": "mondo",
+   "titolo": "Spagna, polemica nel PSOE per i trenta appartamenti legati alla portavoce di Ferraz",
+   "orig": "Los \"30 pisos\" de la pareja de la portavoz de Ferraz le explotan al PSOE en su campaña contra los \"rentistas\"",
+   "lead": "La campagna del Partito Socialista (PSOE) contro i proprietari di immobili a scopo di rendita è stata scossa da una controversia interna. Al centro delle polemiche si trova la situazione della portavoce del partito Montse Mínguez, il cui partner possiede trenta appartamenti, generando la prima crisi politica per i socialisti nella fase che precede la campagna elettorale. Lo riferisce El Mundo.",
+   "more": [
+    "Ferraz è la via di Madrid in cui si trova la sede storica e nazionale del Partito Socialista Obrero Español (PSOE), termine spesso utilizzato per indicare la direzione centrale del partito."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/14/6acfd0c5e9cf4a98198b45c6.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-14T22:43+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0d4cb065",
+   "sez": "mondo",
+   "titolo": "Spagna: Alberto Núñez Feijóo definisce le liste del PP con volti noti e nuovi",
+   "orig": "Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave",
+   "lead": "Il leader del Partido Popular Alberto Núñez Feijóo sta ultimando la composizione delle liste elettorali per il partito, inserendo figure di primo piano come Cayetana Álvarez de Toledo e Xavier García Albiol nel ruolo di capofila, affiancati da volti nuovi in diverse province strategiche. I cambiamenti riguarderanno le posizioni di vertice delle candidature in circoscrizioni chiave tra cui Barcellona, Valencia, Saragozza, Pontevedra e Vizcaya. Lo riferisce El Mundo.",
+   "more": [
+    "Il Partido Popular (PP) è il principale partito conservatore di opposizione in Spagna, impegnato nella riorganizzazione della propria struttura territoriale in vista delle scadenze elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfb544fdddffa4068b45be.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-14T22:43+02:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze6f53867",
+   "sez": "mondo",
+   "titolo": "Il commento di Manuel Carvalho sul possibile ascesa al potere di Passos con l'appoggio di Chega",
+   "orig": "Passos, buldózer com o empurrão do Chega",
+   "lead": "In un articolo di opinione pubblicato a Lisbona, Manuel Carvalho analizza lo scenario politico portoghese ipotizzando un ritorno al potere di Pedro Passos Coelho sostenuto dal partito Chega di André Ventura. Secondo l'editorialista, sebbene non si tratti della fine del mondo, un'alleanza di questo tipo rappresenterebbe un chiaro segnale di come la democrazia stia compiendo un passo verso la rovina. Lo riferisce Público.",
+   "more": [
+    "Il partito Chega è una formazione politica di destra radicale fondata in Portogallo, guidata da André Ventura, che ha progressivamente aumentato il proprio peso parlamentare nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/15/opiniao/opiniao/passos-buldozer-empurrao-chega-2191387",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T23:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z03ca0f01",
+   "sez": "mondo",
+   "titolo": "La riflessione di Luísa Semedo sulla necessità di una rivoluzione culturale e sociale",
+   "orig": "É preciso uma revolução para ter direito a sabonete?",
+   "lead": "In un editoriale di opinione pubblicato a Lisbona, Luísa Semedo esprime il proprio stato d'animo diviso tra la paura e l'orgoglio per le nuove generazioni. L'autrice si interviene sul diritto a beni essenziali e sostiene la necessità di una profonda rivoluzione che tocchi sia i piccoli aspetti quotidiani che le grandi questioni sociali. Lo riferisce Público.",
+   "more": [
+    "Le pagine di opinione dei quotidiani portoghesi ospitano regolarmente contributi di intellettuali e accademici sui mutamenti culturali e sulle sfide generazionali della società contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/15/opiniao/opiniao/preciso-revolucao-direito-sabonete-2191349",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T23:25+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze769664a",
+   "sez": "mondo",
+   "titolo": "Nuno Pacheco analizza il mutamento nei rapporti tra le grandi potenze globali",
+   "orig": "“Nem imperialismo nem social-imperialismo!” Lembram-se?",
+   "lead": "In un commento pubblicato sul quotidiano di Lisbona, Nuno Pacheco riflette sull'evoluzione delle relazioni internazionali, ricordando le contrapposizioni ideologiche del passato tra imperialismo e social-imperialismo. L'editorialista osserva che le superpotenze, un tempo divise dalla Guerra Fredda, oggi collaborano, si lusingano e perseguono congiuntamente l'obiettivo di dominare il pianeta. Lo riferisce Público.",
+   "more": [
+    "Il concetto di Guerra Fredda indica il periodo di tensione geopolitica e ideologica tra il blocco occidentale guidato dagli Stati Uniti e il blocco orientale guidato dall'Unione Sovietica, durato dalla fine della seconda guerra mondiale fino ai primi anni novanta."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/15/culturaipsilon/opiniao/imperialismo-socialimperialismo-lembramse-2191264",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T23:20+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze544cbcc",
+   "sez": "mondo",
+   "titolo": "Pedro A. Neto: l'Europa paga due volte gli effetti della siccità",
+   "orig": "Os europeus estão a pagar duas vezes pela mesma seca",
+   "lead": "In un intervento pubblicato a Lisbona, Pedro A. Neto evidenzia come i cittadini europei stiano affrontando un doppio costo economico a causa della siccità. L'autore pone l'interrogativo cruciale in vista della definizione del prossimo bilancio comunitario, chiedendosi se i sussidi destinati agli agricoltori stiano effettivamente contribuendo a costruire la necessaria resilienza del settore agricolo e se lo stesso criterio debba essere applicato all'intero bilancio dell'Unione Europea. Lo riferisce Público.",
+   "more": [
+    "Il bilancio dell'Unione Europea è lo strumento finanziario attraverso cui Bruxelles finanzia le politiche comuni, inclusa la Politica Agricola Comune (PAC) e i fondi per lo sviluppo regionale e la transizione ecologica."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/15/opiniao/opiniao/europeus-estao-pagar-duas-vezes-seca-2190982",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-14T23:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbd9c3f14",
+   "sez": "mondo",
+   "titolo": "La convivenza con i lupi: l'esperienza italiana raccontata dall'esperto Marco Apollonio",
+   "orig": "We zullen moeten wennen aan wolven, zegt deze Italiaanse expert, ‘maar je moet ze niet bij je thuis uitnodigen’",
+   "lead": "In Italia vivono migliaia di esemplari di lupi e la popolazione deve abituarsi alla loro presenza, pur senza incoraggiare un contatto diretto nelle vicinanze delle abitazioni. A spiegarlo in un'intervista da Rotterdam è l'esperto italiano Marco Apollonio, il quale lavora alla stesura di un parere tecnico per il governo dei Paesi Bassi e sottolinea l'esistenza di aree in cui questi animali si comportano in modo esemplare. Lo riferisce NRC.",
+   "more": [
+    "Il lupo grigio è una specie protetta in gran parte d'Europa grazie alle normative comunitarie sulla conservazione della fauna selvatica, il cui ritorno in diverse aree rurali e boschive ha riaperto il dibattito sulla gestione della coesistenza con le attività antropiche."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/we-zullen-moeten-wennen-aan-wolven-zegt-deze-italiaanse-expert-maar-je-moet-ze-niet-bij-je-thuis-uitnodigen-a4936707",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T06:00+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5982c2cf",
+   "sez": "mondo",
+   "titolo": "Intimità e paura della vicinanza: le dinamiche relazionali nella fase di conoscenza",
+   "orig": "Zoek je intimiteit maar word je angstig als iemand te dichtbij komt? ‘Zulk duw- en trekgedrag is funest tijdens de eerste fase van een relatie’",
+   "lead": "Molte persone incontrano difficoltà a costruire una relazione sentimentale duratura e faticano a superare la fase iniziale della frequentazione. Da Rotterdam si analizzano i motivi di questo fenomeno psicologico, evidenziando come i comportamenti di avvicinamento e allontanamento possano rivelarsi fatali durante le prime battute di un legame amoroso, pur trattandosi di un momento particolarmente interessante dopo la prima forte attrazione. Lo riferisce NRC.",
+   "more": [
+    "La psicologia delle relazioni affettive studia le dinamiche dell'attaccamento e le barriere emotive che possono ostacolare la creazione di legami stabili tra individui nella fase di corteggiamento."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/zoek-je-intimiteit-maar-word-je-angstig-als-iemand-te-dichtbij-komt-zulk-duw-en-trekgedrag-is-funest-tijdens-de-eerste-fase-van-een-relatie-a4937864",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T05:45+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbadfa156",
+   "sez": "mondo",
+   "titolo": "Critiche nei Paesi Bassi e in Germania sulla nuova proposta di bilancio europeo",
+   "orig": "Is Europa nou duur, of goedkoop?",
+   "lead": "Il nuovo progetto di bilancio europeo solleva forti perplessità a livello politico internazionale. Dai Paesi Bassi il primo ministro Jetten ha definito la proposta del tutto inaccettabile, mentre in Germania il cancelliere Merz ha bollato i piani finanziari come francamente inaffrontabili. Lo riferisce NRC.",
+   "more": [
+    "Il processo di approvazione del quadro finanziario pluriennale dell'Unione Europea richiede l'accordo unanime dei capi di Stato e di governo dei Paesi membri e l'approvazione del Parlamento europeo."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/is-europa-nou-duur-of-goedkoop-a4939005",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T05:05+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z87df5ea9",
+   "sez": "mondo",
+   "titolo": "Meta deferita in tribunale da tre organizzazioni per i controversi occhiali dotati di intelligenza artificiale",
+   "orig": "Brengt de Meta-bril ons dichterbij een surveillancemaatschappij?",
+   "lead": "Tre organizzazioni di tutela degli interessi dei consumatori e dei cittadini hanno deciso di portare in giudizio la società Meta a causa del suo controverso modello di occhiali intelligenti equipaggiati con intelligenza artificiale. Dalla testata di Rotterdam, la redattrice Laura Hoogenraad spiega le ragioni alla base della forte opposizione pubblica e legale sollevata da questo dispositivo tecnologico. Lo riferisce NRC.",
+   "more": [
+    "I dispositivi indossabili dotati di intelligenza artificiale e telecamere integrate sollevano frequentemente questioni giuridiche ed etiche legate alla privacy, alla sorveglianza di massa e alla protezione dei dati personali nello spazio pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/brengt-de-meta-bril-ons-dichterbij-een-surveillancemaatschappij-a4939006",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T05:00+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0c3f3904",
+   "sez": "mondo",
+   "titolo": "Svizzera: l'efficacia dei programmi digitali per la depressione rimborsati dalle casse malati",
+   "orig": "Digitale Selbsthilfe wirkt bei Depressionen, und Krankenkassen bezahlen jetzt dafür. Ist das das Ende der klassischen Psychotherapie?",
+   "lead": "I programmi di auto-aiuto digitale offrono un valido supporto nell'attenuazione dei sintomi depressivi e le casse malati svizzere hanno iniziato a coprire i costi per questi servizi terapeutici. Da Zurigo ci si interroga sulle modalità di funzionamento di tali strumenti informatici, sulla valutazione clinica da parte degli specialisti e se ciò possa rappresentare la conclusione della psicoterapia in seduta classica. Lo riferisce NZZ.",
+   "more": [
+    "Le terapie digitali (DTx) e i programmi online guidati per la salute mentale rappresentano una frontiera in rapida evoluzione nella psichiatria moderna, integrando i trattamenti tradizionali con strumenti di supporto a distanza."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/wissenschaft/digitale-selbsthilfe-wirkt-bei-depressionen-und-krankenkassen-bezahlen-jetzt-dafuer-ist-das-das-ende-der-klassischen-psychotherapie-ld.10026897",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-15T06:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd4451350",
+   "sez": "mondo",
+   "titolo": "Il soggiorno svizzero che segnò il pensiero del giovane psicologo Michel Foucault",
+   "orig": "Wie die Schweizer Psychiatrie den jungen Psychologen Michel Foucault beeinflusste",
+   "lead": "Nel 1954 il ventisettenne intellettuale francese Michel Foucault si recò a Münsterlingen, in Svizzera, per incontrare lo psichiatra Ludwig Binswanger. Da Zurigo viene ricordato come quell'incontro all'interno del contesto psichiatrico elvetico abbia rappresentato un momento di profonda trasformazione per la sua evoluzione intellettuale. Lo riferisce NZZ.",
+   "more": [
+    "Michel Foucault è stato uno dei filosofi, sociologi e storici delle idee più influenti del ventesimo secolo, noto in particolare per le sue analisi critiche delle istituzioni psichiatriche, penitenziarie e mediche."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/feuilleton/wie-die-schweizer-psychiatrie-den-jungen-psychologen-michel-foucault-beeinflusste-ld.10032839",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-15T05:19+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze3cc1db9",
+   "sez": "mondo",
+   "titolo": "L'espansione in Europa di Palantir e i limiti incontrati dalla società di sorveglianza",
+   "orig": "Palantirs Vormarsch in Europa – und wie er an seine Grenzen stößt",
+   "lead": "Un'indagine giornalistica condotta in cooperazione a livello europeo ha documentato la progressiva penetrazione nel continente dell'azienda di sorveglianza Palantir, analizzando fin dove la società sia riuscita a spingersi nonostante i ripetuti avvertimenti sollevati da più parti. Lo riferisce Der Standard.",
+   "more": [
+    "Palantir Technologies è un'azienda statunitense specializzata nell'analisi di grandi volumi di dati (big data), spesso utilizzata da agenzie governative, forze dell'ordine e servizi di intelligence per attività di sorveglianza e sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344059/palantirs-vormarsch-in-europa-und-wie-er-an-seine-grenzen-stoesst?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T04:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8db14784",
+   "sez": "mondo",
+   "titolo": "Ucraina: Zelensky critica aspramente Trump e annuncia nuovi attacchi alle raffinerie russe",
+   "orig": "Selenskyj kritisiert Trump schwer und kündigt neue Angriffe auf Raffinerien an",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha rivolto pesanti critiche a Donald Trump e ha annunciato l'intenzione di compiere nuovi attacchi contro le raffinerie di petrolio in territorio russo. La presa di posizione giunge dopo che Trump aveva affermato che Russia e Ucraina avrebbero concordato una sospensione reciproca dei raid contro le infrastrutture energetiche, un accordo che secondo Zelensky Mosca starebbe sistematicamente violando. Lo riferisce Der Standard.",
+   "more": [
+    "Il conflitto armato tra Russia e Ucraina vede frequentemente al centro delle ostilità le infrastrutture energetiche e petrolifere di entrambi i Paesi, ritenute strategiche per il sostegno economico e logistico delle operazioni belliche."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/jetzt/livebericht/3000000344274/selenskyj-kritisiert-trump-schwer-und-kuendigt-neue-angriffe-auf-raffinerien-an?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T04:23+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z84221d2d",
+   "sez": "mondo",
+   "titolo": "Vertice UE: i capi di governo distanti da un'intesa sul quadro di bilancio fino al 2035",
+   "orig": "Regierungschefs von Einigung auf EU-Budgetrahmen noch weit entfernt",
+   "lead": "I leader dei Paesi membri dell'Unione Europea riuniti al vertice sono ancora distanti dal raggiungere un accordo sul quadro di bilancio comunitario di lungo termine. Il summit europeo è impegnato a definire contromisure efficaci per gestire la controversia commerciale con la Cina e le linee di politica russa adottate dagli Stati Uniti, riscontrando notevoli difficoltà nella copertura finanziaria fino al 2035. Lo riferisce Der Standard.",
+   "more": [
+    "I vertici del Consiglio europeo riuniscono periodicamente i capi di Stato o di governo dell'Unione per definire le priorità politiche generali e affrontare le principali crisi economiche e geopolitiche internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344127/regierungschefs-von-einigung-auf-eu-budgetrahmen-noch-weit-entfernt?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T05:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7b8434f1",
+   "sez": "mondo",
+   "titolo": "L'Unione Europea mette in guardia sui rischi di una presunta caccia ai fantasmi al Polo Sud",
+   "orig": "EU: Spökjakt på Sydpolen? Det kan aldrig sluta väl.",
+   "lead": "Le istituzioni dell'Unione Europea guardano con estrema preoccupazione a un'ipotetica missione di ricerca di particelle cosmiche elusive in Antartide, definendola un potenziale disastro paragonabile agli scenari dei film dell'orrore. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "L'Antartide è il continente più meridionale della Terra, protetto dal Trattato Antartico che ne riserva il territorio esclusivamente ad attività pacifiche e alla ricerca scientifica internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/kultur/eu-spokjakt-pa-sydpolen-det-kan-aldrig-sluta-val/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T07:30+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z29463732",
+   "sez": "mondo",
+   "titolo": "Il nuovo album dei Fontaines DC 'Dopamine chamber' recensito su Dagens Nyheter",
+   "orig": "Gastkramande vackert på Fontaines DC:s nya skiva",
+   "lead": "Il gruppo musicale Fontaines DC dimostra di trovarsi a un passo da un riconoscimento su scala più ampia grazie alla pubblicazione del loro quinto album in studio, intitolato 'Dopamine chamber'. Secondo la critica musicale del quotidiano svedese Alexandra Sundqvist, il disco della quintetto rappresenta una complessa e affascinante costruzione di un mondo musicale. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "I Fontaines DC sono una band indie rock originaria di Dublino, acclamata dalla critica internazionale per le sonorità post-punk e i testi fortemente evocativi."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/kultur/gastkramande-vackert-pa-fontaines-dcs-nya-skiva/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T07:15+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z35475bc8",
+   "sez": "mondo",
+   "titolo": "La cagna Luna si perde e sopravvive per un mese nel Parco Nazionale di Yellowstone",
+   "orig": "Hunden Luna rymde – överlevde i Yellowstone i en månad",
+   "lead": "La cagna di dieci anni di nome Luna è riuscita a sopravvivere per un intero mese all'interno del Parco Nazionale di Yellowstone dopo essere fuggita. Nonostante l'area protetta ospiti predatori pericolosi come orsi grizzly, lupi e puma, l'animale è riuscito a resistere alle avversità naturali ed è stato infine tratto in salvo. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Il Parco Nazionale di Yellowstone, situato principalmente negli Stati Uniti d'America, è una vasta riserva naturale nota per la sua ricca biodiversità e la presenza di grandi mammiferi selvatici."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/hunden-luna-rymde-overlevde-i-yellowstone-i-en-manad/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T06:50+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1b10be04",
+   "sez": "mondo",
+   "titolo": "Svezia: i dettagli costituzionali sul voto per la carica di primo ministro a Magdalena Andersson",
+   "orig": "Experten svarar: Detta är en statsministeromröstning",
+   "lead": "In occasione del voto parlamentare in programma giovedì per eleggere Magdalena Andersson alla carica di primo ministro, il Riksdag si appresta verosimilmente a respingere la candidatura. Il politologo Hans Hegeland analizza i motivi per cui il percorso di formazione di un esecutivo svedese segua questa traiettoria e spiega le ragioni istituzionali alla base dei quattro voti previsti per la nomina del capo del governo. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Il Riksdag è il parlamento unicamerale della Svezia, responsabile dell'elezione del primo ministro secondo le procedure previste dalla costituzione svedese per la formazione del governo."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/experten-svarar-detta-ar-en-statsministeromrostning/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T06:33+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8ae1f3f4",
+   "sez": "mondo",
+   "titolo": "Piano degli Stati Uniti sui beni russi congelati: il rifiuto dell'Europa",
+   "orig": "Amerykanie mają nowy plan. Europa powiedziała \"nie\"",
+   "lead": "Gli Stati Uniti hanno avanzato una proposta ai Paesi europei per procedere allo scongelamento di una parte dei beni finanziari russi sequestrati, con l'obiettivo di rilanciare i colloqui di pace sulla guerra in Ucraina. La notizia, diffusa dal Financial Times, evidenzia tuttavia il netto rifiuto opposto dai governi europei al piano americano. Lo riferisce TVN24.",
+   "more": [
+    "I beni sovrani russi congelati dalle potenze occidentali dopo l'invasione dell'Ucraina ammontano a centinaia di miliardi di euro e rappresentano uno dei nodi cruciali nelle discussioni sulle sanzioni e sui futuri risarcimenti."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/ze-swiata/media-usa-chca-odmrozenia-czesci-rosyjskich-aktywow-przez-panstwa-europejskie-st9287699?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T06:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zad62c281",
+   "sez": "mondo",
+   "titolo": "Elon Musk attribuisce a Donald Trump le decisioni sulle restrizioni al sistema Starshield in Ucraina",
+   "orig": "Musk: za ograniczanie Starshieldów odpowiada Donald Trump. Media o reakcji Białego Domu",
+   "lead": "Le decisioni relative alle limitazioni operative e alle modalità d'impiego dei sistemi Starshield competono alle forze armate degli Stati Uniti e, in ultima istanza, al presidente Donald Trump. Lo ha dichiarato Elon Musk in risposta alle indiscrezioni secondo cui il ridimensionamento della tecnologia in Ucraina avrebbe ostacolato alcune operazioni militari. Secondo il portale Axios, l'amministrazione Trump ha smentito tali circostanze preannunciando una reazione ufficiale. Lo riferisce TVN24.",
+   "more": [
+    "Starshield è una versione militarizzata della tecnologia satellitare di SpaceX, concepita per supportare le comunicazioni e le esigenze di sicurezza delle forze governative e della difesa."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/ze-swiata/media-bialy-dom-zaprzecza-slowom-elona-muska-o-ograniczeniu-systemu-starshield-w-ukrainie-st9287559?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-14T19:47+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb7195580",
+   "sez": "mondo",
+   "titolo": "Il premier finlandese critica i Paesi UE per il rilascio di centinaia di migliaia di visti ai russi",
+   "orig": "Rosjanie wciąż dostają setki tysięcy wiz. \"To niepojęte\"",
+   "lead": "Il primo ministro della Finlandia ha espresso una dura critica nei confronti degli Stati dell'Unione Europea che continuano a concedere visti turistici ai cittadini russi. Secondo i dati forniti dal capo del governo finlandese, nel corso dell'anno precedente i russi avrebbero potuto ricevere complessivamente fino a 800 mila visti d'ingresso, una situazione definita incomprensibile. Lo riferisce TVN24.",
+   "more": [
+    "La politica comune dei visti dell'Unione Europea nei confronti dei cittadini russi è stata al centro di numerose restrizioni e dibattiti tra gli Stati membri dopo lo scoppio del conflitto in Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/ze-swiata/rosjanie-dostaja-setki-tysiecy-wiz-do-unii-europejskiej-premier-finlandii-krytykuje-inne-panstwa-st9287660?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T05:33+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z78e09d61",
+   "sez": "economia",
+   "titolo": "Forte calo dei mercati asiatici per l'inflazione Usa e i timori sull'intelligenza artificiale",
+   "orig": "Mercados asiáticos têm forte queda com inflação americana e preocupação com IA",
+   "lead": "I mercati azionari asiatici hanno registrato un drastico crollo in apertura nella mattinata di giovedì 15 ottobre 2026. La forte flessione fa seguito alle pesanti perdite subite a Wall Street nella giornata precedente dai titoli dei produttori di chip americani. Tale andamento negativo è guidato dalla continua preoccupazione degli investitori riguardo all'aumento dell'inflazione negli Stati Uniti e alle incertezze sui profitti futuri delle aziende operanti nel settore dell'intelligenza artificiale. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Wall Street è la principale borsa valori degli Stati Uniti, situata a New York, e rappresenta il punto di riferimento globale per i mercati finanziari, influenzando regolarmente le borse di tutto il mondo attraverso l'andamento dei titoli tecnologici e industriali."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/mercados-asiaticos-tem-forte-queda-com-inflacao-americana-e-preocupacao-com-ia.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-15T00:14-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z92e738fc",
+   "sez": "ambiente",
+   "titolo": "Cambiamenti climatici ed El Niño dietro l'intensificazione record dell'uragano in Messico",
+   "orig": "Mudanças climáticas e El Niño intensificaram furacão no México que ganhou força em tempo recorde, diz estudo",
+   "lead": "Il cambiamento climatico e il fenomeno meteorologico di El Niño hanno giocato un ruolo determinante nella rapida e anomala intensificazione dell'uragano Polo, che nel mese di settembre ha raggiunto la categoria 5 in appena un giorno nel Pacifico, causando inondazioni sulla costa orientale dell'America del Nord e provocando cinque vittime in Messico. A certificarlo è uno studio di attribuzione rapida condotto dalla World Weather Attribution, che evidenzia come il riscaldamento globale dovuto ai combustibili fossili abbia inciso profondamente sulla formazione dell'evento estremo. Lo riferisce G1.",
+   "more": [
+    "El Niño è un fenomeno climatico periodico caratterizzato dal riscaldamento anomalo delle acque superficiali dell'Oceano Pacifico centrale e orientale, capace di alterare i modelli meteorologici globali e di intensificare eventi estremi come siccità o forti precipitazioni."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/meio-ambiente/noticia/2026/10/15/mudancas-climaticas-e-el-nino-intensificaram-furacao-no-mexico-que-ganhou-forca-em-tempo-recorde-diz-estudo.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-15T06:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf15b94eb",
+   "sez": "mondo",
+   "titolo": "L'ex presidente venezuelano Nicolás Maduro convocato in un tribunale di New York per accuse di tortura",
+   "orig": "El expresidente venezolano Nicolás Maduro vuelve a tribunal de NY por acusaciones de tortura",
+   "lead": "L'ex presidente del Venezuela Nicolás Maduro e sua moglie compaiono nuovamente davanti a un tribunale di New York mercoledì per affrontare le accuse formali di tortura, dopo essere stati catturati a Caracas. I coniugi, che in precedenza si erano già dichiarati non colpevoli in un procedimento separato per narcotraffico, respingono anche queste nuove imputazioni. L'accusa ricostruisce l'esistenza di un sistema repressivo caratterizzato da metodi violenti attuato nel Paese sudamericano a partire dal 2013. Lo riferisce Clarín.",
+   "more": [
+    "New York è una metropoli degli Stati Uniti d'America, nota anche per ospitare importanti sedi giudiziarie federali e internazionali in cui vengono spesso processati imputati di alto profilo accusati di reati transnazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/el-expresidente-venezolano-nicolas-maduro-vuelve-a-tribunal-de-ny-por-acusaciones-de-tortura_0_SMm3lvhlix.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T05:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z03285af8",
+   "sez": "mondo",
+   "titolo": "La preparazione delle giovani eredi al trono: il futuro delle monarchie in Europa",
+   "orig": "Algún día serán reinas: cómo se preparan Amalia de Países Bajos, Ingrid de Noruega y Leonor de España para ser las monarcas del futuro",
+   "lead": "Amalia dei Paesi Bassi, Ingrid di Norvegia e Leonor di Spagna si preparano ad assumere il ruolo di future regine d'Europa. Le giovani eredi al trono rappresentano una nuova era monarchica, caratterizzata da una solida preparazione accademica, da un addestramento militare specifico e da una presenza sempre più attiva e costante in occasione degli eventi ufficiali delle rispettive famiglie reali. Lo riferisce La Nación.",
+   "more": [
+    "Le monarchie costituzionali europee mantengono figure tradizionali di capo dello Stato a carattere ereditario, i cui eredi vengono sottoposti a percorsi di formazione istituzionale, diplomatica e militare per assolvere ai futuri compiti di rappresentanza e unità nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/revista-hola/algun-dia-seran-reinas-como-se-preparan-amalia-de-paises-bajos-ingrid-de-noruega-y-leonor-de-espana-nid15102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T06:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z39f80231",
+   "sez": "mondo",
+   "titolo": "Il senatore cileno Juan Luis Castro prende le distanze da una nuova candidatura di Michelle Bachelet",
+   "orig": "Senador Castro (PS) toma distancia de nueva candidatura de Bachelet aunque aboga por carta socialista: “Sería ideal que hubiera renovación”",
+   "lead": "Il senatore cileno del Partito Socialista Juan Luis Castro, intervenendo in un podcast, ha espresso scetticismo riguardo a una nuova candidatura presidenziale di Michelle Bachelet, sostenendo la necessità di un rinnovamento all'interno dell'area socialista. Nello stesso intervento, il parlamentare per la regione di O'Higgins si è inoltre discostato dalle posizioni della ministra Carolina Tohá in merito ai condannati per crimini contro i diritti umani, ribadendo che tali detenuti debbano scontare la pena in carcere fino alla fine. Lo riferisce La Tercera.",
+   "more": [
+    "Il Partito Socialista cileno è una delle forze politiche storiche del Paese e ha espresso in passato importanti leader di governo, inserendosi nelle dinamiche delle coalizioni di centrosinistra e sinistra."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/nacional/noticia/senador-castro-ps-toma-distancia-de-nueva-candidatura-de-bachelet-y-aboga-por-carta-socialista-seria-ideal-que-hubiera-renovacion/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-15T04:28+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5d562059",
+   "sez": "mondo",
+   "titolo": "Divisioni nell'opposizione in Cile per le misure umanitarie ai condannati per diritti umani",
+   "orig": "La fisura en la oposición que dejaron los dichos de Tohá y Espinoza sobre medidas humanitarias para condenados por derechos humanos",
+   "lead": "Le recenti dichiarazioni della ex ministra Carolina Tohá e del senatore socialista Fidel Espinoza sulla concessione di misure umanitarie per i condannati per violazioni dei diritti umani hanno provocato una spaccatura all'interno dell'opposizione politica cilena. La ex ministra aveva sostenuto che Juan Aliste Vega avrebbe dovuto trascorrere le sue ultime ore a casa, analogamente ad altri detenuti agonizzanti, mentre Espinoza aveva osservato che i condannati in fase terminale non stanno eludendo la giustizia. Lo riferisce La Tercera.",
+   "more": [
+    "Il dibattito sui diritti umani e sulla gestione giudiziaria dei crimini commessi durante la dittatura militare rappresenta storicamente un tema di forte sensibilità politica e sociale in America Latina."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/la-fisura-en-la-oposicion-que-dejaron-los-dichos-de-toha-y-espinoza-sobre-medidas-humanitarias-para-condenados-por-derechos-humanos/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-15T04:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd107385c",
+   "sez": "mondo",
+   "titolo": "Duro scontro verbale in Messico tra Gustavo Petro e il chavismo: si apre una frattura nella sinistra regionale?",
+   "orig": "Gustavo Petro y chavismo protagonizan duro enfrentamiento en México: lo acusaron de 'falso, fariseo e hipócrita', ¿fractura en la izquierda regional?",
+   "lead": "Un acceso scontro verbale si è verificato in Messico tra l'ex presidente colombiano Gustavo Petro e i rappresentanti del chavismo venezuelano, i deputati Jesús Farías e Tania Díaz. I parlamentari hanno aspramente criticato Petro definendolo falso, fariseo e ipocrita dopo che l'ex mandatario aveva accusato Caracas di fornire petrolio agli Stati Uniti d'America. L'episodio solleva interrogativi sulla tenuta dei rapporti e su una possibile frattura all'interno dei movimenti di sinistra nella regione latinoamericana. Lo riferisce El Tiempo.",
+   "more": [
+    "I rapporti diplomatici e politici tra la Colombia e il Venezuela sono storicamente complessi e legati alle dinamiche energetiche, economiche e alla stabilità dei rispettivi governi e delle alleanze regionali."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/venezuela/gustavo-petro-y-chavismo-protagonizan-duro-enfrentamiento-en-mexico-lo-acusaron-de-falso-fariseo-e-hipocrita-fractura-en-la-izquierda-regional-3593545",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-14T22:40-05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z38759d87",
+   "sez": "mondo",
+   "titolo": "Al via il terzo ciclo di colloqui tra il chavismo e l'opposizione in Venezuela",
+   "orig": "Diálogos entre el chavismo y la oposición comenzaron su tercer ciclo: Tribunal Supremo de Justicia sigue en el centro de la conversación",
+   "lead": "È iniziato mercoledì il terzo ciclo di negoziati e dialoghi politici finalizzati a una transizione democratica in Venezuela. Le trattative vedono al centro del confronto il ruolo e la posizione del Tribunale Supremo di Giustizia, che continua a rappresentare il nodo cruciale della discussione tra il governo e le forze d'opposizione. Il nuovo round di colloqui si è aperto dopo che Jorge Rodríguez è stato rimosso dalla lista delle sanzioni dell'Ofac. Lo riferisce El Tiempo.",
+   "more": [
+    "L'Ofac (Office of Foreign Assets Control) è un'agenzia del Dipartimento del Tesoro degli Stati Uniti d'America incaricata di amministrare e far rispettare le sanzioni economiche e commerciali contro governi stranieri, entità e individui."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/venezuela/dialogos-entre-el-chavismo-y-la-oposicion-comenzaron-su-tercer-ciclo-tribunal-supremo-de-justicia-sigue-en-el-centro-de-la-conversacion-3593641",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-14T20:13-05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4938cb6a",
+   "sez": "mondo",
+   "titolo": "Cabildo Abierto abbandona l'aula e garantisce il quorum al Frente Amplio per approvare la mozione sul caso Cardama",
+   "orig": "Cabildo Abierto se retiró de sala y permitió que el Frente Amplio tuviera quórum para aprobar moción sobre el caso Cardama",
+   "lead": "Il partito Cabildo Abierto ha deciso di abbandonare la sala parlamentare, permettendo così al Frente Amplio di raggiungere il quorum necessario per l'approvazione della mozione riguardante il caso Cardama. L'opposizione, che in un primo momento non disponeva dei voti sufficienti sul totale dei presenti all'interno dell'assemblea, è riuscita a imporre la propria linea ottenendo 65 voti favorevoli su un totale di 128. Lo riferisce El Observador.",
+   "more": [
+    "Il Frente Amplio è una coalizione politica di centrosinistra e sinistra, storicamente attiva nel panorama istituzionale e parlamentare, nota per la sua capacità di mobilitare il consenso e gestire trattative parlamentari complesse."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/cabildo-abierto-se-retiro-sala-y-permitio-que-el-frente-amplio-tuviera-quorum-aprobar-mocion-el-caso-cardama-n6060491",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-14T20:10-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0a479d04",
+   "sez": "mondo",
+   "titolo": "J.J. Rendón: «María Corina Machado deve abbandonare la modalità campagna per passare a quella delle soluzioni»",
+   "orig": "J.J. Rendón: «María Corina Machado debe salir del modo campaña y entrar en el modo soluciones»",
+   "lead": "Lo stratega politico J.J. Rendón ha espresso la sua valutazione sulla strategia dell'opposizione venezuelana, affermando che la leader María Corina Machado dovrebbe superare la fase di mobilitazione elettorale per concentrarsi sulla ricerca di soluzioni concrete. Nelle sue dichiarazioni, l'esperto difende la tabella di marcia delineata da Washington, invita a mantenere la pazienza riguardo alla transizione politica e avverte che un'eccessiva forzatura delle elezioni presidenziali rischia di logorare l'opposizione e spianare la strada a una terza opzione. Lo riferisce El Nacional.",
+   "more": [
+    "Washington è la capitale federale degli Stati Uniti d'America e rappresenta storicamente il centro decisionale della diplomazia statunitense nei confronti delle crisi politiche in America Latina."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/jj-rendon-entrevista-ramon-hernandez-maria-corina-machado/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-15T06:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcb2f50c2",
+   "sez": "mondo",
+   "titolo": "Crisi educativa in Venezuela: tra carenza di dati ufficiali e dipendenza digitale collassa il ragionamento critico",
+   "orig": "Entre la falta de datos y la adicción digital colapsa el razonamiento en Venezuela",
+   "lead": "Il Venezuela affronta una grave crisi educativa in un contesto di blackout informativo, aggravato dalla totale mancanza di dati ufficiali sui livelli di apprendimento, mentre il panorama globale registra il crollo dei risultati delle prove PISA dell'Organizzazione per la Cooperazione e lo Sviluppo Economico. Diagnostici accademici elaborati dalla UCAB e pareri di esperti lanciano l'allarme sulla progressiva perdita di capacità analitiche e sulle conseguenze negative derivanti dall'abuso della tecnologia digitale tra i giovani. Lo riferisce El Nacional.",
+   "more": [
+    "L'UCAB (Universidad Católica Andrés Bello) è uno dei più importanti istituti di istruzione superiore del Venezuela, noto per la produzione di ricerche socioeconomiche e studi indipendenti sulla crisi del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/la-alarma-global-de-pisa-y-la-grieta-silenciosa-de-la-educacion-en-venezuela/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-15T05:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze0be8569",
+   "sez": "mondo",
+   "titolo": "Incontro bilaterale tra Cile e Bolivia: al centro dell'agenda miniere, connettività e trasporto di greggio",
+   "orig": "Minería, conexión y transporte de crudo entre los temas incluidos en la reunión Paz-Kast",
+   "lead": "Le delegazioni di Cile e Bolivia si sono riunite per discutere di cooperazione bilaterale, esaminando un'agenda di trenta punti complessivi tra cui figurano temi cruciali quali le attività minerarie, le infrastrutture di connettività e il trasporto del petrolio greggio. A causa dei limiti temporali della riunione, i lavori si concentreranno su undici punti prioritari concordati tra le parti. Lo riferisce El Deber.",
+   "more": [
+    "Le relazioni diplomatiche e commerciali tra Cile e Bolivia sono storicamente incentrate su questioni di integrazione regionale, sbocchi marittimi e sfruttamento delle risorse naturali transfrontaliere."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/mineria-conexion-transporte-crudo-temas-incluidos-reunion-paz-kast_1792033315",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T03:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za58f1a38",
+   "sez": "economia",
+   "titolo": "Mancato accordo tra l'Autorità boliviana e i trasportatori: in vigore la libera offerta e domanda dei prezzi dei biglietti",
+   "orig": "ATT no logran acuerdo con choferes y rige la libre oferta y demanda en pasajes",
+   "lead": "L'Autorità di Regolazione e Telecomunicazioni della Bolivia e i sindacati dei trasportatori non sono riusciti a raggiungere un'intesa sulle tariffe dei trasporti. In seguito al fallimento del negoziato, le organizzazioni dei conducenti hanno convocato un'assemblea plenaria per la prossima settimana, mentre l'autorità di regolamentazione ha confermato che continuerà ad attendere sviluppi. Nel frattempo, nei terminal terrestri si registra una brusca contrazione dell'afflusso dei passeggeri. Lo riferisce El Deber.",
+   "more": [
+    "Il regime di libera offerta e domanda nei trasporti pubblici si applica quando le tariffe non vengono più stabilite o calmierate da un'autorità centrale, ma fluttuano liberamente in base alle condizioni del mercato e alla concorrenza."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/att-no-logran-acuerdo-choferes-rige-libre-oferta-demanda-pasajes_1792024283",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T00:31+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc4cf9226",
+   "sez": "musica",
+   "titolo": "Gli Iron Maiden celebrano mezzo secolo di heavy metal con un concerto a Quito",
+   "orig": "Iron Maiden desató medio siglo de heavy metal en Quito",
+   "lead": "La storica band degli Iron Maiden si esibisce a Quito per festeggiare mezzo secolo di carriera nel segno dell'heavy metal. L'evento musicale, organizzato presso lo stadio Olímpico Atahualpa, prevedeva la partecipazione di un pubblico stimato attorno alle trentamila persone come capienza massima stabilita dall'organizzazione. Lo riferisce El Universo.",
+   "more": [
+    "Gli Iron Maiden sono uno dei gruppi di heavy metal britannico più celebri e influenti al mondo, fondati a Londra nel 1975 e noti per la mascotte Eddie e uno stile musicale caratterizzato da melodie elaborate e testi epici."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/entretenimiento/musica/iron-maiden-desato-medio-siglo-de-heavy-metal-en-quito-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-15T05:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3aca5947",
+   "sez": "mondo",
+   "titolo": "Il tour del centenario dei Harlem Globetrotters arriva in Paraguay",
+   "orig": "La gira de los 100 años de los Harlem Globetrotters llega a Paraguay",
+   "lead": "Le celebri acrobazie dei Harlem Globetrotters sbarcano ufficialmente in Paraguay nell'ambito del loro tour mondiale per il centenario della fondazione. L'atteso spettacolo dal vivo si terrà il prossimo 8 novembre sul palcoscenico del SND, offrendo agli spettatori locali la possibilità di ammirare le loro straordinarie doti cestistiche e di intrattenimento. Lo riferisce El Universo.",
+   "more": [
+    "I Harlem Globetrotters sono una leggendaria squadra di esibizione cestistica statunitense che unisce la pallacanestro a gag comiche, abilità spettacolari e intrattenimento per famiglie fin dalla loro fondazione nel 1926."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/empresariales/2026/10/14/la-gira-de-los-100-anos-de-los-harlem-globetrotters-llega-a-paraguay/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-14T19:24+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1dedcebf",
+   "sez": "economia",
+   "titolo": "L'Ibitis peserà per oltre la metà della spesa tributaria nel bilancio statale del 2027",
+   "orig": "ITBIS representará el 54.5 &#37; del gasto tributario proyectado para 2027",
+   "lead": "Il progetto di Bilancio Generale dello Stato per il 2027 evidenzia un rilevante aumento della spesa tributaria, stimata a quasi mezzo bilione di pesos, in un contesto caratterizzato da un persistente deficit fiscale. In base ai dati contenuti nel piano economico, la componente principale di questa spesa sarà rappresentata dalle esenzioni fiscali concesse alle persone fisiche, tra cui spicca l'imposta sulle trasferimenti di beni industrializzati e servizi, che inciderà per oltre il cinquantaquattro percento del totale. Lo riferisce Diario Libre.",
+   "more": [
+    "L'Ibitis corrisponde all'imposta sui trasferimenti di beni industrializzati e servizi, un tributo indiretto di tipo IVA applicato nel contesto fiscale dominicano."
+   ],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/economia/finanzas/2026/10/15/itbis-representara-el-545--del-gasto-tributario-proyectado-para-2027/3689558",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-15T00:02+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2be75ef7",
+   "sez": "mondo",
+   "titolo": "Il Memoriale Thomas Sankara a Ouagadougou preserva l'eredità storica del leader",
+   "orig": "Mémorial Thomas Sankara : « Notre souhait est que chaque visiteur reparte enrichi et marqué par son histoire », souligne Pengdwendé Kima, guide",
+   "lead": "A quasi quattro decenni dall'assassinio di Thomas Sankara e dei suoi collaboratori, il Memoriale a lui dedicato a Ouagadougou continua a rappresentare un punto di riferimento fondamentale per la coscienza storica dei cittadini del Burkina Faso e degli estimatori internazionali. La guida museale Pengdwendé Kima sottolinea l'importanza simbolica dei monumenti e dei resti presenti nel sito, lanciando un appello affinché le nuove generazioni conoscano e custodiscano questo prezioso patrimonio politico e culturale. Lo riferisce Lefaso.net.",
+   "more": [
+    "Thomas Sankara è stato un rivoluzionario, leader panafricanista e presidente del Burkina Faso dal 1983 fino al suo assassinio avvenuto nel 1987, noto per le sue politiche antimperialiste e di emancipazione sociale."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article149974",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-14T21:17+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfc651f7b",
+   "sez": "mondo",
+   "titolo": "Il Burkina Faso adotta una nuova legge sul lavoro di interesse generale",
+   "orig": "Burkina/Justice : La loi sur le travail d'intérêt général relue pour faciliter son application et renforcer la production pénitentiaire",
+   "lead": "I deputati dell'Assemblea legislativa del popolo in Burkina Faso hanno approvato all'unanimità un nuovo progetto di legge volto a disciplinare e potenziare il sistema del lavoro di interesse generale nel Paese. La normativa appena adottata sostituisce i precedenti provvedimenti legislativi e modifica alcune disposizioni del codice penale al fine di agevolare l'applicazione pratica di questa misura e rafforzare la produzione all'interno delle strutture penitenziarie. Lo riferisce Lefaso.net.",
+   "more": [
+    "Il lavoro di interesse generale è una sanzione penale alternativa che prevede lo svolgimento di attività non retribuite a favore della collettività da parte di persone condannate per reati minori."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article149976",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-14T21:14+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf25b14fc",
+   "sez": "tech",
+   "titolo": "L'intelligenza artificiale alimenta le truffe sugli annunci di affitti immobiliari",
+   "orig": "La intel·ligència artificial dispara el frau en anuncis de lloguers de pisos",
+   "lead": "Le autorità di polizia lanciano un allarme sull'aumento esponenziale delle frodi connesse agli annunci di locazione immobiliare, rese possibili e particolarmente sofisticate dall'impiego di strumenti di intelligenza artificiale. Gli investigatori segnalano che i tentativi di truffa nei confronti dei cittadini sono diventati non soltanto molto più massicci ma anche incredibilmente credibili. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "L'intelligenza artificiale generativa consente ai malintenzionati di creare rapidamente annunci immobiliari falsi completi di immagini realistiche, descrizioni curate e profili fittizi estremamente convincenti."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261015/intel-ligencia-artificial-dispara-frau-anuncis-lloguers-pisos_206511.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T05:33+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0f178590",
+   "sez": "sport",
+   "titolo": "Il MoraBanc cede nel finale e perde contro il Joventut",
+   "orig": "Els mateixos símptomes",
+   "lead": "La squadra di pallacanestro del MoraBanc combatte alla pari per la prima mezz'ora di gioco, ma subisce un crollo nei minuti conclusivi del match. Il calo di rendimento nel quarto periodo si concretizza in un pesante parziale negativo a favore del Joventut, che sancisce la sconfitta della formazione andorrana. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "Il MoraBanc Andorra è una squadra professionistica di pallacanestro che milita nei campionati di massimo livello spagnolo ed europeo."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/esports/261015/els-mateixos-simptomes_206506.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T05:10+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zedc8bf85",
+   "sez": "mondo",
+   "titolo": "Il Consiglio Nazionale loda i progressi della politica abitativa pubblica a Monaco",
+   "orig": "« Des avancées incontestables » : les ambitions de la Principauté pour mieux loger les Monégasques saluées par les parlementaires",
+   "lead": "I parlamentari del Consiglio Nazionale di Monaco hanno espresso pieno apprezzamento per la strategia in materia di alloggi demaniali illustrata dal ministro di Stato durante una seduta serale. Nel quadro del piano di sviluppo a lungo termine, le autorità del Principato confermano l'obiettivo di garantire una soluzione abitativa statale alla grande maggioranza dei cittadini residenti entro il duemilaquaranta. Lo riferisce Monaco Matin.",
+   "more": [
+    "Il Principato di Monaco è una città-stato sovrana nota per la sua elevata densità demografica e per le politiche abitative pubbliche volte a tutelare i cittadini locali rispetto al mercato immobiliare privato."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/societe/immobilier/des-avancees-incontestables-les-ambitions-de-la-principaute-pour-mieux-loger-les-monegasques-saluees-par-les-parlementaires-10740967",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-15T07:45+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4d350036",
+   "sez": "mondo",
+   "titolo": "L'avvocato Thierry Lacoste rompe il silenzio dopo l'incriminazione a Monaco",
+   "orig": "« Mon inculpation sert surtout des agendas cachés » : Me Thierry Lacoste sort du silence après deux jours et demi de garde à vue à Monaco",
+   "lead": "L'avvocato e noto ex consigliere del principe Alberto Secondo di Monaco, Thierry Lacoste, ha rilasciato dichiarazioni pubbliche a seguito di un fermo di polizia durato oltre due giorni. L'uomo è stato formalmente incriminato per reati che comprendono il traffico d'influenza, la corruzione e l'associazione a delinquere, definendo tali accuse del tutto infondate e annunciando l'intenzione di richiederne l'annullamento giudiziario. Lo riferisce Monaco Matin.",
+   "more": [
+    "Thierry Lacoste è un professionista forense di primo piano storicamente legato ai circoli istituzionali del Principato monegasco."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/societe/justice/mon-inculpation-sert-surtout-des-agendas-caches-me-thierry-lacoste-sort-du-silence-apres-deux-jours-et-demi-de-garde-a-vue-a-monaco-10740035",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-15T06:30+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z19824b95",
+   "sez": "mondo",
+   "titolo": "Polemiche ad Andorra per la mobilitazione contro l'accordo europeo",
+   "orig": "La mobilització antieuropeista i el paper de Concòrdia",
+   "lead": "Una piattaforma civica anonima ha convocato una protesta pubblica davanti al Consiglio Generale per chiedere lo svolgimento di un referendum prima della sottoscrizione del trattato di associazione con l'Unione Europea. L'iniziativa ha innescato dibattiti politici e reazioni, tra cui il coinvolgimento del partito Concòrdia, mentre il Capo del Governo si appresta a firmare formalmente il testo in un atto dal forte valore simbolico che conclude il lungo iter negoziale. Lo riferisce Bondia.",
+   "more": [
+    "Il Consiglio Generale rappresenta il parlamento monocamerale del Principato di Andorra, responsabile dell'approvazione delle leggi e dei trattati internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/editorials/la-mobilitzacio-antieuropeista-i-el-paper-de-concordia",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T00:00+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze0822e48",
+   "sez": "mondo",
+   "titolo": "Chiesta la condanna al carcere per quasi tutti i sanitari nel processo sulla morte di Maradona",
+   "orig": "Procès Maradona : prison demandée pour la quasi-totalité de l'équipe soignante",
+   "lead": "Nel procedimento giudiziario relativo al decesso di Diego Armando Maradona avvenuto nel duemilaventi, la pubblica accusa e i rappresentanti delle parti civili hanno formalizzato la richiesta di pena detentiva per quasi l'intera équipe medica imputata. Secondo l'accusa, le gravi negligenze professionali commesse dal personale sanitario sono direttamente responsabili della scomparsa del celebre campione argentino. Lo riferisce Seneweb.",
+   "more": [
+    "Diego Armando Maradona è stato uno dei più grandi calciatori della storia dello sport, la cui morte per arresto cardiaco nella sua residenza ha dato origine a una complessa inchiesta giudiziaria sulle responsabilità dei curanti."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/International/proces-maradona-prison-demandee-pour-la-quasi-totalite-de-lequipe-soignante_n_999000718.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T00:48+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6a48f599",
+   "sez": "mondo",
+   "titolo": "La città di Abéché ospiterà la prossima edizione della Festa nazionale della gioventù",
+   "orig": "La 28e édition de la Fête nationale de la jeunesse sera organisée à Abéché",
+   "lead": "A seguito della conclusione della ventisettesima edizione della manifestazione giovanile a Pala, il ministro della Gioventù e dello Sport, Naïr Abakar, insieme al delegato generale del governo per la provincia del Mayo-Kebbi Ovest, generale Abdelmanan Khatab, ha annunciato la sede del prossimo grande appuntamento. La ventottesima edizione della Festa nazionale della gioventù si terrà infatti nella città di Abéché. Lo riferisce Tchadinfos.",
+   "more": [
+    "Abéché è una delle città principali del Ciad orientale, nota per il suo ruolo storico, culturale ed economico nella regione del Ouaddaï."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/14/la-28e-edition-de-la-fete-nationale-de-la-jeunesse-sera-organisee-a-abeche/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-14T21:23+00:00"
+    },
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/pala-la-27%e1%b5%89-edition-de-la-fete-nationale-de-la-jeunesse-prend-fin/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T06:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z26b18d53",
+   "sez": "economia",
+   "titolo": "Presentato il piano strategico di modernizzazione delle dogane per il quinquennio 2026-2030",
+   "orig": "Douanes : un plan de modernisation pour 2026-2030",
+   "lead": "La Direzione generale delle dogane e dei diritti indiretti ha organizzato nella propria sede di N'Djamena un incontro istituzionale con i partner strategici per la restituzione ufficiale del nuovo piano di pianificazione quinquennale. L'iniziativa definisce le linee guida e gli obiettivi di modernizzazione dell'amministrazione doganale previsti per il periodo compreso tra il duemilaventisei e il duemiladata. Lo riferisce Tchadinfos.",
+   "more": [
+    "L'amministrazione doganale svolge un ruolo cruciale nella riscossione delle entrate erariali e nel controllo dei flussi commerciali alle frontiere nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/14/douanes-un-plan-de-modernisation-pour-2026-2030/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-14T21:00+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zea392f06",
+   "sez": "mondo",
+   "titolo": "Analisi sui rapporti diplomatici tra Parigi e N'Djamena nel contesto geopolitico",
+   "orig": "Paris-N’Djamena : le retour de l’idylle ?",
+   "lead": "Le relazioni diplomatiche e di vertice tra la Francia e il Ciad fanno registrare una frequenza di incontri particolarmente intensa nel corso degli ultimi anni, culminata in diversi viaggi ufficiali istituzionali. Questa persistente cooperazione bilaterale si sviluppa in una fase complessa in cui la tradizionale presenza militare francese nel Sahel affronta forti contestazioni regionali e la ricerca di alleanze alternative mostra i propri limiti operativi sul campo. Lo riferisce Tchadinfos.",
+   "more": [
+    "I rapporti storici tra Parigi e N'Djamena rappresentano un pilastro chiave della sicurezza e della cooperazione strategica nella regione centro-africana e saheliana."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/14/paris-ndjamena-le-retour-de-lidylle/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-14T20:06+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf620b6e7",
+   "sez": "sport",
+   "titolo": "I Leoni Under 20 del Camerun puntano alla sfida contro la Repubblica Centrafricana",
+   "orig": "Lions U20 du Cameroun : après le Tchad, la Centrafrique en ligne de mire",
+   "lead": "La nazionale di calcio under 20 del Camerun si prepara ad affrontare il prossimo impegno agonistico contro la selezione della Repubblica Centrafricana. La squadra arriva all'appuntamento forte di un successo convincente ottenuto ai danni del Ciad con il punteggio di tre a zero. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Le competizioni calcistiche giovanili in Africa costituiscono una vetrina fondamentale per la crescita dei talenti emergenti nei tornei continentali."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/lions-u20-du-cameroun-apres-le-tchad-la-centrafrique-en-ligne-de-mire/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5bacc250",
+   "sez": "mondo",
+   "titolo": "L'AEK Atene di Harold Moukoudi sconfitto in rimonta dallo Shakhtar Donetsk",
+   "orig": "Harold Moukoudi et l’AEK Athènes renversés par le Shakhtar Donetsk",
+   "lead": "Serata amara per l'AEK Atene guidata in campo da Harold Moukoudi, superata dallo Shakhtar Donetsk in un incontro internazionale. Nonostante un avvio promettente caratterizzato dalla rete del vantaggio iniziale, la formazione greca ha subito il ritorno degli avversari che hanno ribaltato il risultato prima del triplice fischio. Lo riferisce Actu Cameroun.",
+   "more": [
+    "L'AEK Atene è una storica società calcistica della capitale greca che partecipa regolarmente alle competizioni europee per club."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/harold-moukoudi-et-laek-athenes-renverses-par-le-shakhtar-donetsk/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T06:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z288fffc5",
+   "sez": "mondo",
+   "titolo": "Perquisizioni giudiziarie in Belgio nei confronti di persone vicine al presidente congolese Tshisekedi",
+   "orig": "Belgique: ce que l'on sait des perquisitions chez les proches de Tshisekedi",
+   "lead": "La magistratura belga ha condotto una serie di perquisizioni mirate nei confronti di personalità vicine all'area di potere del presidente della Repubblica Democratica del Congo, Félix Tshisekedi. L'iniziativa giudiziaria, riportata dai media del Paese europeo, coinvolge figure legate ai circoli istituzionali di primo piano di Kinshasa, aprendo interrogativi politici rilevanti. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "I rapporti giudiziari e diplomatici tra Belgio e Repubblica Democratica del Congo risentono dei profondi legami storici e istituzionali tra i due Stati."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/belgique-ce-que-lon-sait-des-perquisitions-chez-les-proches-de-tshisekedi/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-14T23:38+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
    "id": "z7ceaf4fd",
    "sez": "sport",
    "titolo": "Coetzee mantiene un ampio vantaggio nella gara di ciclismo di endurance Rhino Run",
@@ -10758,7 +12788,91 @@ window.EDIZIONI["2026-10-15"] = {
   "z32a950a6": "La testata economica e giudiziaria segue gli sviluppi legali legati al crac finanziario della compagnia CLICO e alle responsabilità dei vertici.",
   "za0668b9e": "Il giornale locale mette in risalto il confronto sindacale sulle riforme strutturali e sulla classificazione dei ruoli nel pubblico impiego.",
   "za449ef8f": "La testata evidenzia l'appello governativo alla pianificazione tecnica e infrastrutturale per sostenere la crescita economica locale.",
-  "zfba97893": "Il quotidiano valorizza le testimonianze personali per sensibilizzare la cittadinanza sull'importanza della prevenzione medica."
+  "zfba97893": "Il quotidiano valorizza le testimonianze personali per sensibilizzare la cittadinanza sull'importanza della prevenzione medica.",
+  "z00266aeb": "La testata evidenzia l'esito favorevole della mobilitazione dei medici secondo le valutazioni sindacali.",
+  "z7db886cf": "La testata sottolinea il traguardo storico e incoraggiante raggiunto dalla giovane squadra di nuoto della Dominica.",
+  "zbd6c3a80": "La testata pone l'accento sulla protesta dei residenti contro i rincari e i disservizi energetici e idrici.",
+  "z64a9c99a": "La testata mette in luce le riflessioni dell'atleta sull'eredità e sull'ispirazione generate dalla sua storica affermazione olimpica.",
+  "z01b56525": "La testata riferisce i risultati e le fasi salienti delle sfide disputate nel campionato calcistico locale di seconda divisione.",
+  "z22cdb85f": "La testata evidenzia l'episodio di dissenso pubblico e il fallito tentativo delle forze di sicurezza di cancellare il messaggio antigovernativo.",
+  "z1471ac89": "La testata sottolinea le preoccupazioni della società civile e dei giuristi sui rischi autoritari legati alle nuove norme penali.",
+  "z5c43c413": "La testata evidenzia il divario tra la comunicazione istituzionale e la mancanza di politiche concrete per la tutela delle persone autistiche.",
+  "z34dbdc35": "La testata propone un'interpretazione critica del posizionamento politico e culturale della storica band attraverso il tempo.",
+  "z89e3ba30": "La testata mette in evidenza il peso umano e sociale dell'inefficienza giudiziaria nella vita quotidiana delle persone.",
+  "zc1c162f5": "La testata seleziona e riassume i temi di maggiore interesse pubblico previsti nel corso della giornata.",
+  "z433de8ce": "La testata offre una lettura analitica e distaccata dei rapporti diplomatici regionali in occasione del vertice politico.",
+  "z4cc3232a": "La testata focalizza l'attenzione sulla necessità di interventi strutturali e riforme profonde nel settore della giustizia e delle carceri.",
+  "z256b92b0": "La testata evidenzia l'isolamento politico della leader nazionalista rispetto ai suoi partner europei in merito alla linea dura anti-UE.",
+  "zad3343b6": "La testata pone l'accento sulla crisi ambientale e sanitaria generata dai megaincendi e sulle responsabilità politiche delle autorità indonesiane.",
+  "zdb15a249": "La testata ricostruisce il mistero giudiziario a un anno dal colpo al museo, concentrandosi sul profilo sfuggente del sospettato chiave.",
+  "z60c39403": "La testata analizza la varietà delle opzioni programmatiche messe in campo dai candidati in vista della consultazione presidenziale.",
+  "zb8293ac4": "La testata mette in evidenza il malcontento studentesco e le critiche istituzionali nei confronti della gestione delle ammissioni universitarie.",
+  "z9d12af49": "La testata evidenzia il significato strategico ed economico dell'apertura del nuovo collegamento transfrontaliero tra Pechino e Pyongyang.",
+  "z99f62d02": "La testata sottolinea l'impatto urgente e distruttivo della crisi climatica sulla conservazione dei beni storici e culturali.",
+  "z38be922c": "La testata evidenzia le buone notizie sulle condizioni di salute del Papa in seguito all'operazione chirurgica polmonare.",
+  "z545dcd61": "La testata sottolinea la clamorosa e controversa ipotesi di retromarcia sulla detenzione di massa da parte del leader salvadoregno.",
+  "z03dcbf76": "La testata pone l'accento sulla grave emergenza sanitaria e alimentare che affligge la popolazione yemenita intrappolata nella guerra.",
+  "z8fd70b64": "La testata evidenzia la ripresa dell'inflazione sui canoni di locazione residenziale nei principali centri urbani della Germania.",
+  "zaeec2d21": "La testata evidenzia la linea politica provocatoria e di forte ridimensionamento delle istituzioni comunitarie sostenuta dalla leader della destra francese.",
+  "z8f6399e7": "La testata evidenzia la presa di posizione di Musk volta a trasferire la responsabilità politica delle decisioni operative sulle autorità statunitensi.",
+  "z7374643a": "La testata di Monaco evidenzia l'impatto economico della crisi energetica mediorientale sui bilanci statali europei e le richieste di svolta verde avanzate da Bruxelles.",
+  "z7072a2f6": "Il quotidiano di Francoforte concentra l'attenzione sul legame politico tra il voto congressuale e il consenso personale del presidente repubblicano.",
+  "z0f057407": "La testata di Francoforte sottolinea la confusione e la varietà di argomenti affrontati nel corso della trasmissione televisiva.",
+  "z2c62895d": "Il quotidiano di Madrid evidenzia le mosse contrapposte dei due principali partiti spagnoli nella fase di preparazione alla competizione elettorale.",
+  "ze6214cb2": "Il giornale madrileno approfondisce il dibattito metodologico sull'imparzialità e sui possibili errori sistematici nei sondaggi politici pubblici.",
+  "za9d93dc1": "La testata di Madrid analizza i riassetti interni e le strategie di compensazione politica decise dalla leadership socialista.",
+  "ze2c3d24a": "Il quotidiano madrileno mette in luce le contraddizioni interne al partito di governo sulla gestione del discorso politico legato al mercato immobiliare.",
+  "z0d4cb065": "La testata di Madrid dettaglia i movimenti strategici del centrodestra spagnolo nella scelta dei candidati per le circoscrizioni territoriali decisive.",
+  "ze6f53867": "Il giornale portoghese offre una riflessione critica sui rischi istituzionali legati a possibili accordi di governo con le forze populiste di destra.",
+  "z03ca0f01": "La testata lusitana dà spazio a una visione personale e generazionale sulle difficoltà economiche e sulla spinta al cambiamento.",
+  "ze769664a": "Il giornale portoghese propone un'analisi critica della geopolitica contemporanea e dei nuovi equilibri di potere tra gli Stati.",
+  "ze544cbcc": "La testata portoghese punta l'attenzione sulla sostenibilità economica delle politiche di supporto all'agricoltura di fronte ai cambiamenti climatici.",
+  "zbd9c3f14": "Il quotidiano olandese approfondisce il tema della gestione faunistica e del ritorno dei grandi carnivori attraverso il punto di vista di un luminare italiano.",
+  "z5982c2cf": "La testata di Rotterdam dedica uno spazio di approfondimento alle problematiche psicologiche legate alla sfera sentimentale e alla costruzione dei rapporti di coppia.",
+  "zbadfa156": "Il giornale olandese evidenzia la forte opposizione dei leader di Paesi Bassi e Germania nei confronti delle nuove linee di spesa comunitarie.",
+  "z87df5ea9": "Il quotidiano olandese pone l'accento sulle preoccupazioni relative alla privacy e sui rischi di una società della sorveglianza legata ai nuovi prodotti tecnologici.",
+  "z0c3f3904": "La testata svizzera analizza l'impatto delle nuove tecnologie digitali e dei rimborsi assicurativi sulla cura dei disturbi mentali.",
+  "zd4451350": "Il giornale svizzero ricostruisce un episodio fondamentale della biografia intellettuale di Foucault legato alle influenze della psichiatria elvetica.",
+  "ze3cc1db9": "Il quotidiano viennese evidenzia i risultati di un'inchiesta giornalistica internazionale sulla diffusione delle tecnologie di controllo di dati in Europa.",
+  "z8db14784": "Il quotidiano austriaco dà risalto alle tensioni diplomatiche tra Kiev e Washington e alla prosecuzione degli attacchi sulle reti energetiche.",
+  "z84221d2d": "La testata di Vienna sottolinea le divisioni e le complessità affrontate dai leader europei nella definizione delle politiche finanziarie ed estere.",
+  "z7b8434f1": "Il quotidiano svedese accosta con toni ironici e descrittivi le allerte dell'Unione Europea alla ricerca scientifica e ai premi Nobel nel campo della fisica.",
+  "z29463732": "La testata di Stoccolma recensisce positivamente la nuova produzione discografica della band irlandese, evidenziandone la maturità artistica.",
+  "z35475bc8": "Il giornale svedese racconta una storia a lieto fine di sopravvivenza animale in un ambiente naturale ostile e selvaggio.",
+  "z1b10be04": "La testata di Stoccolma approfondisce gli aspetti istituzionali e procedurali della complessa crisi di governo e delle votazioni parlamentari svedesi.",
+  "z8ae1f3f4": "L'emittente polacca riferisce delle divergenze transatlantiche sulle modalità di gestione delle sanzioni economiche e sulle iniziative diplomatiche per l'Ucraina.",
+  "zad62c281": "L'emittente polacca riporta le polemiche tecnologiche e politiche legate all'utilizzo delle reti satellitari nel contesto del conflitto ucraino.",
+  "zb7195580": "L'emittente polacca evidenzia le polemiche sulle falle nella politica europea delle sanzioni e dei visti turistici verso la Russia.",
+  "z78e09d61": "La testata evidenzia l'impatto immediato delle tensioni di Wall Street sulle piazze finanziarie asiatiche, collegando inflazione e intelligenza artificiale.",
+  "z92e738fc": "La testata evidenzia il legame scientifico tra il riscaldamento globale di origine antropica, El Niño e la violenza dei disastri meteorologici recenti.",
+  "zf15b94eb": "La testata focalizza l'attenzione sugli sviluppi giudiziari internazionali a carico dell'ex mandatario venezuelano e sulle accuse di repressione sistematica.",
+  "z03285af8": "La testata evidenzia il profilo innovativo e la rigorosa preparazione delle giovani principesse designate a guidare le monarchie del continente.",
+  "z39f80231": "La testata pone l'accento sulle divisioni interne al centrosinistra cileno in merito alle candidature future e ai diritti umani.",
+  "z5d562059": "La testata evidenzia il contrasto politico generato dalle valutazioni di carattere umanitario sui detenuti condannati per gravi reati del passato.",
+  "zd107385c": "La testata sottolinea l'asprezza dello scontro diplomatico e le possibili ripercussioni sugli equilibri geopolitici della sinistra latinoamericana.",
+  "z38759d87": "La testata evidenzia l'importanza della ripresa dei negoziati politici e il ruolo centrale del potere giudiziario nelle trattative per il futuro del Paese.",
+  "z4938cb6a": "La testata mette in evidenza la mossa tattica di Cabildo Abierto che ha sbloccato l'iter parlamentare a favore dell'opposizione.",
+  "z0a479d04": "La testata pone l'accento sull'analisi strategica di Rendón e sui rischi di un logoramento politico per la leadership dell'opposizione.",
+  "zcb2f50c2": "La testata evidenzia l'impatto combinato della mancanza di dati statistici e della dipendenza tecnologica sulle capacità cognitive delle nuove generazioni in Venezuela.",
+  "ze0be8569": "La testata evidenzia la ripresa del dialogo bilaterale su temi strategici come l'energia e i trasporti tra i due Paesi.",
+  "za58f1a38": "La testata mette in risalto l'impatto immediato del blocco delle trattative sulla mobilità dei passeggeri nei terminal dei trasporti.",
+  "zc4cf9226": "La testata mette in risalto la portata storica dell'evento musicale e la grande affluenza di pubblico registrata nello stadio della capitale ecuadoriana.",
+  "z3aca5947": "Il giornale evidenzia l'arrivo nel Paese sudamericano di un appuntamento internazionale di grande richiamo popolare e spettacolare.",
+  "z1dedcebf": "La testata pone l'accento sulla crescita esponenziale delle previsioni di spesa tributaria e sul peso predominante delle agevolazioni fiscali nel bilancio pubblico futuro.",
+  "z2be75ef7": "La pubblicazione valorizza il ruolo educativo e memoriale del sito storico nel mantenere viva la memoria del leader africano tra le giovani generazioni.",
+  "zfc651f7b": "Il giornale evidenzia l'unanimità del voto parlamentare e la portata riformatrice del provvedimento nel sistema giudiziario e carcerario nazionale.",
+  "zf25b14fc": "La testata sottolinea la crescente pericolosità delle frodi digitali facilitate dalle nuove tecnologie nel settore immobiliare.",
+  "z0f178590": "Il giornale concentra l'attenzione sul crollo psicologico e sportivo della squadra negli ultimi minuti della partita.",
+  "zedc8bf85": "Il giornale mette in rilievo la sintonia istituzionale tra il governo e i rappresentanti parlamentari sulle politiche per la casa.",
+  "z4d350036": "La testata evidenzia la dura reazione del legale contro un'inchiesta giudiziaria che scuote i vertici del Principato.",
+  "z19824b95": "Il giornale sottolinea la tempistica della protesta civica a ridosso della firma ufficiale dell'accordo negoziale.",
+  "ze0822e48": "La testata pone l'accento sulla convergenza tra accusa e parti civili nel chiedere pene detentive per i medici coinvolti nel caso.",
+  "z6a48f599": "La testata focalizza l'attenzione sulla pianificazione istituzionale del futuro evento giovanile nazionale.",
+  "z26b18d53": "La pubblicazione sottolinea l'importanza della cooperazione con i partner internazionali per la riforma delle strutture doganali.",
+  "zea392f06": "Il giornale evidenzia la persistenza dei legami bilaterali nonostante le difficoltà geopolitiche generali nell'area del Sahel.",
+  "zf620b6e7": "La testata evidenzia l'ambizione della squadra camerunese in vista del prossimo incontro internazionale dopo la vittoria precedente.",
+  "z5bacc250": "Il giornale mette in risalto l'epilogo sfavorevole della partita per la squadra del difensore camerunese dopo un buon avvio.",
+  "z288fffc5": "La testata sottolinea l'impatto politico internazionale delle verifiche giudiziarie condotte in territorio europeo su esponenti vicini al governo congolese."
  },
  "contesti": {
   "houthi": "La guerra civile yemenita dura dal 2014 e dal 2015 una coalizione guidata dall'Arabia Saudita sostiene il governo riconosciuto contro gli Houthi, che controllano Sanaa e gran parte del Nord del Paese. Un'offensiva governativa lanciata a inizio ottobre, con il supporto aereo saudita, ha riacceso gli scontri intorno allo stretto di Bab el-Mandeb. Da allora gli Houthi rispondono con settimane di missili e droni contro Riyadh, colpendo anche impianti del colosso petrolifero Aramco: gli attacchi hanno già causato diversi morti e centinaia di feriti. Secondo alcune fonti, parte dei missili a lungo raggio del movimento includerebbe componenti di origine nordcoreana, e la coalizione avverte che anche Israele potrebbe diventare un bersaglio.",
@@ -10835,7 +12949,33 @@ window.EDIZIONI["2026-10-15"] = {
   "zdbbe1f2a": "Nelle settimane precedenti gli organi inquirenti hanno condotto le indagini sull'episodio di violenza avvenuto nella fabbrica, raccogliendo le prove e le testimonianze necessarie per il rinvio a giudizio del titolare.",
   "za938a606": "Nel corso della settimana di preparazione a Sydney, lo staff tecnico della nazionale australiana ha monitorato le condizioni fisiche delle atlete infortunate e ha riorganizzato la formazione in vista dell'impegno agonistico del fine settimana.",
   "z90bba94d": "L'Ungheria di Viktor Orbán ha per anni ostacolato l'avanzamento del percorso di adesione dell'Ucraina all'UE, condizionandolo alla tutela dei diritti della minoranza ungherese in Transcarpazia, in particolare sull'istruzione in lingua madre. Péter Magyar, leader del partito Tisza e principale rivale di Orbán, ha assunto posizioni più aperte verso Kyiv. Nei giorni scorsi Zelensky ha firmato una legge sui diritti educativi delle minoranze, rimuovendo un ostacolo chiave richiesto da Budapest.",
-  "z1da26a5a": "Il Mar Nero, già teatro di tensioni legate alla guerra in Ucraina, resta un'area a rischio per la navigazione commerciale, con incidenti ricorrenti legati a incendi, mine vaganti e attacchi. Le autorità rivierasche, tra cui quelle romene, mantengono protocolli di emergenza per i soccorsi in mare lungo le rotte che attraversano le acque vicino alla foce del Danubio e al porto di Sulina, punto strategico per il traffico marittimo regionale."
+  "z1da26a5a": "Il Mar Nero, già teatro di tensioni legate alla guerra in Ucraina, resta un'area a rischio per la navigazione commerciale, con incidenti ricorrenti legati a incendi, mine vaganti e attacchi. Le autorità rivierasche, tra cui quelle romene, mantengono protocolli di emergenza per i soccorsi in mare lungo le rotte che attraversano le acque vicino alla foce del Danubio e al porto di Sulina, punto strategico per il traffico marittimo regionale.",
+  "z256b92b0": "Marine Le Pen ha costruito negli ultimi mesi una campagna presidenziale incentrata sulla revisione dei rapporti finanziari tra Francia e Unione Europea, proponendo tagli ai contributi francesi al bilancio comunitario. Questa posizione, già anticipata in diversi interventi pubblici, si è scontrata con il crescente scetticismo degli alleati sovranisti europei, poco inclini a sostenere misure percepite come troppo radicali o destabilizzanti per gli equilibri interni all'UE.",
+  "zdb15a249": "Le indagini sulla rapina al museo parigno sono proseguite per dodici mesi attraverso l'ascolto di diversi sospettati senza però condurre al recupero dei preziosi.",
+  "zb8293ac4": "La piattaforma Parcoursup è stata ripetutamente contestata da sindacati studenteschi e associazioni per la presunta opacità dei criteri di assegnazione dei posti universitari.",
+  "z9d12af49": "I lavori di costruzione del ponte sul fiume Yalu sono durati quindici anni prima di giungere alla cerimonia di inaugurazione.",
+  "z38be922c": "Il Papa era stato ricoverato e sottoposto a un'operazione chirurgica polmonare nel quadro delle cure per la patologia tumorale diagnosticata.",
+  "z545dcd61": "Il governo salvadoregno ha applicato per quattro anni lo stato d'eccezione, arrestando decine di migliaia di sospetti membri di organizzazioni criminali.",
+  "z03dcbf76": "Il conflitto armato nello Yemen ha continuato a mietere vittime e a logorare le infrastrutture civili e sanitarie locali.",
+  "zaeec2d21": "Nel contesto della campagna presidenziale francese, Marine Le Pen ha progressivamente delineato una visione alternativa dell'architettura istituzionale europea, criticando il ruolo crescente della Commissione guidata da Ursula von der Leyen. Le sue proposte, già emerse in precedenti interventi, puntano a ridurre i poteri degli organi comunitari a vantaggio dei governi nazionali, in vista del vertice UE che affronta temi cruciali come bilancio e politica estera.",
+  "z8f6399e7": "Le autorità ucraine e i rappresentanti del settore tecnologico si sono confrontati più volte sulle modalità di impiego e sulle restrizioni operative dei terminali satellitari nel contesto bellico.",
+  "zf15b94eb": "Nelle settimane scorse l'ex leader venezuelano e la moglie erano stati arrestati a Caracas e trasferiti negli Stati Uniti, dove si erano dichiarati innocenti in merito alle accuse di traffico di droga.",
+  "z39f80231": "Nei giorni scorsi il dibattito politico cileno si è infiammato a seguito delle dichiarazioni della ministra dell'Interno Carolina Tohá e di altri esponenti politici sulla concessione di misure umanitarie ai detenuti per diritti umani in fase terminale.",
+  "z5d562059": "Nelle scorse settimane il tema dei detenuti anziani o malati terminali condannati per crimini contro i diritti umani ha generato accesi confronti pubblici tra esponenti di governo e forze parlamentari.",
+  "zd107385c": "Nei giorni scorsi si erano registrate tensioni diplomatiche e scambi di accuse tra leader sudamericani riguardo alle forniture di petrolio e alle politiche energetiche verso gli Stati Uniti.",
+  "z38759d87": "Nelle settimane precedenti si sono svolti diversi incontri preparatori e cicli di dialogo tra le parti politiche venezuelane, accompagnati da misure di alleggerimento delle sanzioni internazionali nei confronti di esponenti governativi.",
+  "z4938cb6a": "Nei giorni scorsi il dibattito politico e parlamentare sul caso Cardama aveva registrato forti divisioni e trattative serrate tra i partiti della maggioranza e dell'opposizione.",
+  "z0a479d04": "Nelle settimane scorse il dibattito interno all'opposizione venezuelana e tra gli osservatori internazionali si è concentrato sui tempi e sulle modalità della transizione democratica e sulla partecipazione a futuri appuntamenti elettorali.",
+  "zcb2f50c2": "Nel corso degli ultimi anni le istituzioni accademiche venezuelane hanno ripetutamente denunciato il deterioramento del sistema scolastico e la totale assenza di statistiche pubbliche trasparenti sull'istruzione.",
+  "ze0be8569": "Nei mesi scorsi i governi dei due Paesi sudamericani hanno intensificato i contatti istituzionali per riprendere il dialogo su questioni economiche e infrastrutturali di interesse comune.",
+  "za58f1a38": "Nelle scorse settimane le trattative tra i sindacati dei trasportatori e l'ente regolatore boliviano si erano arenate sulla richiesta di adeguamento delle tariffe dei biglietti.",
+  "zad3343b6": "Da mesi l'Indonesia è colpita da incendi boschivi su vasta scala, alimentati dalla combinazione di siccità legata a El Niño e da pratiche agricole di disboscamento tramite combustione. Il fenomeno, ricorrente negli ultimi decenni, ha prodotto una fitta coltre di foschia tossica che ha superato i confini nazionali, investendo Malesia e Singapore e generando crescenti pressioni diplomatiche e sanitarie sul governo di Giacarta.",
+  "z7374643a": "Il conflitto in Iran, aggravatosi nei mesi scorsi, ha avuto pesanti ripercussioni sui mercati energetici globali, spingendo al rialzo i prezzi di petrolio e gas. L'Unione Europea, già fragile dopo la crisi energetica legata alla guerra in Ucraina, ha visto crescere ulteriormente i costi di approvvigionamento, spingendo le istituzioni comunitarie a discutere nuove strategie di diversificazione e transizione energetica in vista dell'inverno.",
+  "zbadfa156": "La Commissione Europea ha presentato nelle settimane scorse una proposta di bilancio pluriennale che prevede un significativo incremento delle risorse comunitarie, suscitando immediate resistenze da parte di diversi Stati membri. Paesi Bassi e Germania, tradizionalmente cauti sulla spesa comune, hanno espresso forte contrarietà, anticipando un confronto acceso in vista del vertice europeo dedicato al quadro finanziario fino al 2035.",
+  "z8db14784": "Negli ultimi mesi la guerra in Ucraina ha visto un'intensificazione degli attacchi reciproci alle infrastrutture energetiche, con Kiev che ha colpito ripetutamente raffinerie russe. Donald Trump aveva proposto una tregua reciproca sui raid energetici come primo passo verso negoziati di pace, ma accuse di violazioni da parte russa hanno spinto Zelensky a criticare duramente l'amministrazione americana e a minacciare la ripresa degli attacchi.",
+  "z84221d2d": "L'Unione Europea è impegnata da settimane in difficili negoziati sul quadro finanziario pluriennale fino al 2035, complicati dalle divergenze tra Stati membri su contributi e priorità di spesa. Il vertice si svolge in un contesto segnato anche dalle tensioni commerciali con la Cina e dalle incertezze sulla politica russa adottata dagli Stati Uniti, rendendo ancora più arduo il raggiungimento di un'intesa condivisa.",
+  "z8ae1f3f4": "Negli ultimi mesi gli Stati Uniti hanno cercato di rilanciare i negoziati di pace sulla guerra in Ucraina, esplorando anche l'ipotesi di utilizzare i beni russi congelati come leva negoziale. La proposta, riportata dal Financial Times, prevede uno scongelamento parziale di questi asset, ma ha incontrato una netta opposizione da parte dei governi europei, preoccupati per le implicazioni legali e politiche di tale mossa.",
+  "z92e738fc": "A settembre l'uragano Polo si è formato nel Pacifico al largo delle coste messicane, intensificandosi fino alla categoria 5 in appena 24 ore, un ritmo straordinario per gli standard storici. Il sistema ha portato piogge intense e mareggiate lungo la costa occidentale del Messico, causando cinque morti e danni diffusi, prima che i suoi effetti indiretti si estendessero fino alla costa orientale nordamericana con inondazioni."
  },
  "cronologie": {
   "houthi": [
@@ -11764,6 +13904,296 @@ window.EDIZIONI["2026-10-15"] = {
    [
     "oggi",
     "Otto dei dodici membri dell'equipaggio risultano dispersi"
+   ]
+  ],
+  "zdb15a249": [
+   [
+    "Ottobre dell'anno precedente",
+    "Avviene il furto dei gioielli all'interno del museo del Louvre"
+   ],
+   [
+    "Ottobre dell'anno corrente",
+    "Le autorità giudiziarie fanno emergere nuovi dettagli investigativi sulla figura del presunto complice noto come Djo"
+   ]
+  ],
+  "zb8293ac4": [
+   [
+    "14 ottobre",
+    "Il ministro dell'Educazione annuncia modifiche future alla piattaforma entro la fine del mese"
+   ],
+   [
+    "Giovedì mattina",
+    "L'Institut des Politiques Publiques diffonde una nota critica sui difetti del sistema di orientamento"
+   ]
+  ],
+  "z9d12af49": [
+   [
+    "Quindici anni fa",
+    "Avvengono i primi lavori di costruzione per il ponte sul fiume Yalu"
+   ],
+   [
+    "15 ottobre",
+    "I due Stati procedono all'inaugurazione ufficiale dell'infrastruttura viaria"
+   ]
+  ],
+  "z38be922c": [
+   [
+    "Giorni precedenti",
+    "Il Papa viene operato ai polmoni in ospedale"
+   ],
+   [
+    "Giornata corrente",
+    "Il Pontefice celebra la messa dalla stanza di degenza con umore positivo secondo i medici"
+   ]
+  ],
+  "z545dcd61": [
+   [
+    "Ultimi quattro anni",
+    "El Salvador applica regimi d'eccezione e detenzioni di massa contro le gang"
+   ],
+   [
+    "Periodo recente",
+    "Il presidente Bukele valuta una svolta attraverso la possibile amnistia per quarantamila detenuti"
+   ]
+  ],
+  "z03dcbf76": [
+   [
+    "Mesi precedenti",
+    "Il sistema sanitario yemenita affronta difficoltà estreme a causa del perdurare degli scontri armati"
+   ],
+   [
+    "Periodo recente",
+    "La Croce Rossa lancia l'allarme sul collasso degli ospedali e sulla scarsità di cibo a Taizz"
+   ]
+  ],
+  "z8f6399e7": [
+   [
+    "Giorni precedenti",
+    "Funzionari di Kiev muovono critiche sulle limitazioni d'uso dei sistemi satellitari"
+   ],
+   [
+    "Periodo recente",
+    "Elon Musk chiarisce pubblicamente che le decisioni e le restrizioni dipendono esclusivamente dal governo degli Stati Uniti"
+   ]
+  ],
+  "zf15b94eb": [
+   [
+    "Settembre 2026",
+    "Cattura a Caracas e trasferimento a New York"
+   ],
+   [
+    "Inizio ottobre 2026",
+    "Dichiarazione di non colpevolezza per i capi d'accusa legati al narcotraffico"
+   ]
+  ],
+  "z39f80231": [
+   [
+    "Nei giorni scorsi",
+    "Dichiarazioni di Carolina Tohá sulle misure umanitarie per i condannati gravi"
+   ],
+   [
+    "Metà ottobre 2026",
+    "Prese di posizione nel dibattito politico tra i parlamentari socialisti"
+   ]
+  ],
+  "zd107385c": [
+   [
+    "Nei giorni scorsi",
+    "Dichiarazioni di Gustavo Petro sulle esportazioni di petrolio verso gli Stati Uniti"
+   ],
+   [
+    "Metà ottobre 2026",
+    "Reazione pubblica dei deputati chavisti in Messico contro l'ex presidente colombiano"
+   ]
+  ],
+  "z38759d87": [
+   [
+    "Settembre 2026",
+    "Avvio dei precedenti cicli di confronto politico in Venezuela"
+   ],
+   [
+    "Metà ottobre 2026",
+    "Rimozione di Jorge Rodríguez dalla lista Ofac e inizio del terzo ciclo di dialoghi"
+   ]
+  ],
+  "z4938cb6a": [
+   [
+    "Nei giorni scorsi",
+    "Discussioni preliminari e disaccordi sul caso Cardama in Parlamento"
+   ],
+   [
+    "Mercoledì 14 ottobre 2026",
+    "Abbandono dell'aula da parte di Cabildo Abierto e voto favorevole sulla mozione"
+   ]
+  ],
+  "z0a479d04": [
+   [
+    "Settembre 2026",
+    "Crescita del dibattito internazionale sulla transizione in Venezuela"
+   ],
+   [
+    "Metà ottobre 2026",
+    "Intervento pubblico dello stratega J.J. Rendón sulle prospettive politiche dell'opposizione"
+   ]
+  ],
+  "zcb2f50c2": [
+   [
+    "Anni recenti",
+    "Progressivo deterioramento delle infrastrutture scolastiche e mancanza di dati ufficiali"
+   ],
+   [
+    "Metà ottobre 2026",
+    "Diffusione dei nuovi rapporti accademici della UCAB sulla crisi cognitiva e digitale"
+   ]
+  ],
+  "ze0be8569": [
+   [
+    "Mesi scorsi",
+    "Preparazione dell'agenda congiunta tra le autorità di Cile e Bolivia"
+   ],
+   [
+    "Metà ottobre 2026",
+    "Avvio del vertice di lavoro bilaterale sui trenta punti programmati"
+   ]
+  ],
+  "za58f1a38": [
+   [
+    "Nelle scorse settimane",
+    "Rivendicazioni tariffarie da parte dei sindacati dei trasportatori"
+   ],
+   [
+    "Metà ottobre 2026",
+    "Fallimento del confronto e applicazione della libera offerta e domanda"
+   ]
+  ],
+  "z256b92b0": [
+   [
+    "settembre 2026",
+    "Le Pen lancia la proposta di riduzione dei contributi francesi al bilancio UE"
+   ],
+   [
+    "primi di ottobre",
+    "Alleati della destra radicale europea manifestano riserve sulla linea di rottura"
+   ],
+   [
+    "14 ottobre",
+    "Conferenza stampa a Bruxelles: Le Pen difende la proposta ma resta isolata"
+   ]
+  ],
+  "zad3343b6": [
+   [
+    "agosto 2026",
+    "Inizio della stagione degli incendi legati a El Niño"
+   ],
+   [
+    "settembre",
+    "La foschia raggiunge Malesia e Singapore, allarme sanitario regionale"
+   ],
+   [
+    "ottobre",
+    "Il governo indonesiano sotto accusa per mancati controlli sul disboscamento"
+   ]
+  ],
+  "zaeec2d21": [
+   [
+    "settembre 2026",
+    "Le Pen inizia a presentare la sua visione di riforma istituzionale UE"
+   ],
+   [
+    "inizio ottobre",
+    "Critiche crescenti al ruolo della Commissione von der Leyen"
+   ],
+   [
+    "14 ottobre",
+    "Dichiarazioni alla vigilia del vertice UE sul ruolo della Commissione"
+   ]
+  ],
+  "z7374643a": [
+   [
+    "estate 2026",
+    "Escalation del conflitto in Iran con impatto sui mercati energetici"
+   ],
+   [
+    "settembre",
+    "Aumento dei prezzi di petrolio e gas per i Paesi UE"
+   ],
+   [
+    "14 ottobre",
+    "Jørgensen a Monaco quantifica in 110 miliardi i costi aggiuntivi per l'UE"
+   ]
+  ],
+  "zbadfa156": [
+   [
+    "fine settembre 2026",
+    "La Commissione presenta la proposta di bilancio pluriennale"
+   ],
+   [
+    "inizio ottobre",
+    "Primi malumori di Paesi Bassi e Germania sui costi previsti"
+   ],
+   [
+    "14 ottobre",
+    "Jetten e Merz bollano il piano come inaccettabile e inaffrontabile"
+   ]
+  ],
+  "z8db14784": [
+   [
+    "settembre 2026",
+    "Trump propone una tregua sugli attacchi alle infrastrutture energetiche"
+   ],
+   [
+    "fine settembre-ottobre",
+    "Accuse ucraine di violazioni russe della tregua"
+   ],
+   [
+    "14 ottobre",
+    "Zelensky critica Trump e annuncia nuovi attacchi alle raffinerie russe"
+   ]
+  ],
+  "z84221d2d": [
+   [
+    "settembre 2026",
+    "Avvio dei negoziati sul bilancio pluriennale UE 2021-2035"
+   ],
+   [
+    "inizio ottobre",
+    "Divergenze tra Stati membri su contributi e priorità"
+   ],
+   [
+    "14-15 ottobre",
+    "Vertice UE senza accordo definitivo sul quadro di bilancio"
+   ]
+  ],
+  "z8ae1f3f4": [
+   [
+    "agosto 2026",
+    "Gli USA avviano una riflessione sull'uso dei beni russi congelati"
+   ],
+   [
+    "settembre",
+    "Prime discussioni informali con i partner europei"
+   ],
+   [
+    "ottobre",
+    "Financial Times rivela il piano USA; rifiuto netto dei governi europei"
+   ]
+  ],
+  "z92e738fc": [
+   [
+    "Settembre 2026",
+    "Formazione dell'uragano Polo nel Pacifico orientale"
+   ],
+   [
+    "Settembre 2026",
+    "Rapida intensificazione fino a categoria 5 in un solo giorno"
+   ],
+   [
+    "Settembre 2026",
+    "Impatto sulla costa messicana con cinque vittime e inondazioni"
+   ],
+   [
+    "Ottobre 2026",
+    "World Weather Attribution pubblica lo studio sul ruolo del riscaldamento globale e di El Niño"
    ]
   ]
  },
@@ -15126,6 +17556,596 @@ window.EDIZIONI["2026-10-15"] = {
     "Barbados"
    ],
    "pt": []
+  },
+  "z00266aeb": {
+   "n": "Roseau",
+   "p": [
+    "Dominica"
+   ],
+   "pt": []
+  },
+  "z7db886cf": {
+   "n": "Roseau",
+   "p": [
+    "Dominica"
+   ],
+   "pt": []
+  },
+  "zbd6c3a80": {
+   "n": "St. John's",
+   "p": [
+    "Antigua and Barb."
+   ],
+   "pt": []
+  },
+  "z64a9c99a": {
+   "n": "St. John's",
+   "p": [
+    "Antigua and Barb."
+   ],
+   "pt": []
+  },
+  "z01b56525": {
+   "n": "St. John's",
+   "p": [
+    "Antigua and Barb."
+   ],
+   "pt": []
+  },
+  "z22cdb85f": {
+   "n": "Guanabacoa",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "z1471ac89": {
+   "n": "Tegucigalpa",
+   "p": [
+    "Honduras"
+   ],
+   "pt": []
+  },
+  "z5c43c413": {
+   "n": "Tegucigalpa",
+   "p": [
+    "Honduras"
+   ],
+   "pt": []
+  },
+  "z34dbdc35": {
+   "n": "Tegucigalpa",
+   "p": [
+    "Honduras"
+   ],
+   "pt": []
+  },
+  "z89e3ba30": {
+   "n": "Tegucigalpa",
+   "p": [
+    "Honduras"
+   ],
+   "pt": []
+  },
+  "zc1c162f5": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z433de8ce": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z4cc3232a": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z256b92b0": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "France"
+   ],
+   "pt": []
+  },
+  "zad3343b6": {
+   "n": "Giacarta",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "zdb15a249": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z60c39403": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb8293ac4": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9d12af49": {
+   "n": "Fiume Yalu",
+   "p": [
+    "China",
+    "North Korea"
+   ],
+   "pt": []
+  },
+  "z99f62d02": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z38be922c": {
+   "n": "Città del Vaticano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z545dcd61": {
+   "n": "San Salvador",
+   "p": [
+    "El Salvador"
+   ],
+   "pt": []
+  },
+  "z03dcbf76": {
+   "n": "Taizz",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z8fd70b64": {
+   "n": "Amburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zaeec2d21": {
+   "n": "Parigi",
+   "p": [
+    "France",
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z8f6399e7": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7374643a": {
+   "n": "Munich",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z7072a2f6": {
+   "n": "Frankfurt",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z0f057407": {
+   "n": "Frankfurt",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z2c62895d": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "ze6214cb2": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "za9d93dc1": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "ze2c3d24a": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z0d4cb065": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "ze6f53867": {
+   "n": "Lisbon",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z03ca0f01": {
+   "n": "Lisbon",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "ze769664a": {
+   "n": "Lisbon",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "ze544cbcc": {
+   "n": "Lisbon",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zbd9c3f14": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z5982c2cf": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zbadfa156": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z87df5ea9": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z0c3f3904": {
+   "n": "Zurich",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zd4451350": {
+   "n": "Zurich",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "ze3cc1db9": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z8db14784": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z84221d2d": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z7b8434f1": {
+   "n": "Stockholm",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z29463732": {
+   "n": "Stockholm",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z35475bc8": {
+   "n": "Stockholm",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z1b10be04": {
+   "n": "Stockholm",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z8ae1f3f4": {
+   "n": "Warsaw",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zad62c281": {
+   "n": "Warsaw",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zb7195580": {
+   "n": "Warsaw",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z78e09d61": {
+   "n": "Asia",
+   "p": [],
+   "pt": []
+  },
+  "z92e738fc": {
+   "n": "Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "zf15b94eb": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z03285af8": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "z39f80231": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z5d562059": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zd107385c": {
+   "n": "Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "z38759d87": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z4938cb6a": {
+   "n": "Uruguay",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z0a479d04": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zcb2f50c2": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "ze0be8569": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia",
+    "Chile"
+   ],
+   "pt": []
+  },
+  "za58f1a38": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zc4cf9226": {
+   "n": "Quito",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z3aca5947": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z1dedcebf": {
+   "n": "Santo Domingo",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "z2be75ef7": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "zfc651f7b": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "zf25b14fc": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z0f178590": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zedc8bf85": {
+   "n": "Monaco",
+   "p": [
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "z4d350036": {
+   "n": "Monaco",
+   "p": [
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "z19824b95": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "ze0822e48": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z6a48f599": {
+   "n": "Pala",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z26b18d53": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zea392f06": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zf620b6e7": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z5bacc250": {
+   "n": "Athens",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z288fffc5": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo",
+    "Belgium"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -15477,7 +18497,91 @@ window.EDIZIONI["2026-10-15"] = {
   "z32a950a6": 1,
   "za0668b9e": 1,
   "za449ef8f": 1,
-  "zfba97893": 1
+  "zfba97893": 1,
+  "z00266aeb": 1,
+  "z7db886cf": 1,
+  "zbd6c3a80": 1,
+  "z64a9c99a": 1,
+  "z01b56525": 1,
+  "z22cdb85f": 1,
+  "z1471ac89": 1,
+  "z5c43c413": 1,
+  "z34dbdc35": 1,
+  "z89e3ba30": 1,
+  "zc1c162f5": 1,
+  "z433de8ce": 1,
+  "z4cc3232a": 1,
+  "z256b92b0": 2,
+  "zad3343b6": 2,
+  "zdb15a249": 2,
+  "z60c39403": 1,
+  "zb8293ac4": 2,
+  "z9d12af49": 2,
+  "z99f62d02": 1,
+  "z38be922c": 2,
+  "z545dcd61": 2,
+  "z03dcbf76": 2,
+  "z8fd70b64": 1,
+  "zaeec2d21": 2,
+  "z8f6399e7": 2,
+  "z7374643a": 2,
+  "z7072a2f6": 1,
+  "z0f057407": 1,
+  "z2c62895d": 1,
+  "ze6214cb2": 1,
+  "za9d93dc1": 1,
+  "ze2c3d24a": 1,
+  "z0d4cb065": 1,
+  "ze6f53867": 1,
+  "z03ca0f01": 1,
+  "ze769664a": 1,
+  "ze544cbcc": 1,
+  "zbd9c3f14": 1,
+  "z5982c2cf": 1,
+  "zbadfa156": 2,
+  "z87df5ea9": 1,
+  "z0c3f3904": 1,
+  "zd4451350": 1,
+  "ze3cc1db9": 1,
+  "z8db14784": 2,
+  "z84221d2d": 2,
+  "z7b8434f1": 1,
+  "z29463732": 1,
+  "z35475bc8": 1,
+  "z1b10be04": 1,
+  "z8ae1f3f4": 2,
+  "zad62c281": 1,
+  "zb7195580": 1,
+  "z78e09d61": 1,
+  "z92e738fc": 2,
+  "zf15b94eb": 2,
+  "z03285af8": 1,
+  "z39f80231": 1,
+  "z5d562059": 1,
+  "zd107385c": 2,
+  "z38759d87": 2,
+  "z4938cb6a": 1,
+  "z0a479d04": 1,
+  "zcb2f50c2": 1,
+  "ze0be8569": 1,
+  "za58f1a38": 1,
+  "zc4cf9226": 1,
+  "z3aca5947": 1,
+  "z1dedcebf": 1,
+  "z2be75ef7": 1,
+  "zfc651f7b": 1,
+  "zf25b14fc": 1,
+  "z0f178590": 1,
+  "zedc8bf85": 1,
+  "z4d350036": 1,
+  "z19824b95": 1,
+  "ze0822e48": 1,
+  "z6a48f599": 1,
+  "z26b18d53": 1,
+  "zea392f06": 1,
+  "zf620b6e7": 1,
+  "z5bacc250": 1,
+  "z288fffc5": 1
  },
  "video": {},
  "pillole": [
