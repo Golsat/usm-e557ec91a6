@@ -236,6 +236,45 @@ window.EDIZIONI["2026-10-15"] = {
    "data": "15 ott"
   },
   {
+   "id": "costarica",
+   "sez": "prima",
+   "filo": "bukele-modello",
+   "titolo": "Il Costa Rica apre il suo mega-carcere, il modello Bukele conquista l'America Latina",
+   "orig": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+   "lead": "La presidente costaricana Laura Fernández ha inaugurato il Centro de Alta Contención de Crimen Organizado, un carcere di massima sicurezza da 5.100 posti costruito su progetti donati dal governo salvadoregno e costato 35 milioni di dollari: un quinto dell'attuale popolazione carceraria del Paese. La struttura, che riprende il modello del Cecot di Bukele a El Salvador, arriva mentre il Costa Rica, tradizionalmente tra i Paesi più sicuri della regione, registra una crescita della violenza legata al narcotraffico; anche in Brasile il candidato Flávio Bolsonaro propone cinque mega-carceri sul modello salvadoregno.",
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america",
+     "angolo": "Inquadra l'apertura del carcere nella diffusione regionale del modello «mano dura» di Bukele."
+    },
+    {
+     "n": "La Tercera",
+     "p": "CL",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/mundo/noticia/costa-rica-inaugura-megacarcel-modelo-bukele-tiene-capacidad-para-5100-reos-de-alta-peligrosidad/",
+     "angolo": "Dal Cile, dettaglia la capacità e il costo della struttura, costruita con progetti donati da El Salvador."
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "HK",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/americas/article/3370948/costa-rica-latest-adopt-bukele-blueprint-new-mega-prison?utm_source=rss_feed",
+     "angolo": "Da Hong Kong, osserva il Costa Rica come l'ultimo di una serie di governi latinoamericani che copiano il modello salvadoregno."
+    },
+    {
+     "n": "Daily Maverick",
+     "p": "ZA",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-15-costa-rica-opens-mega-prison-as-organized-crime-fight-intensifies/",
+     "angolo": "Riprendendo Reuters, lega l'apertura del carcere alla crescita della violenza criminale in un Paese storicamente tra i più sicuri della regione."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
    "id": "istanbul",
    "sez": "prima",
    "filo": "istanbul-alluvione",
@@ -305,6 +344,38 @@ window.EDIZIONI["2026-10-15"] = {
      "c": "Karachi",
      "u": "https://tribune.com.pk/story/2634955/us-military-weighs-use-of-mother-of-all-bombs-in-potential-future-strikes-on-iran-cnn-says",
      "angolo": "Riprende l'esclusiva Cnn sui piani militari Usa, sottolineando che si tratterebbe di un'escalation significativa del conflitto con l'Iran."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "ebola",
+   "sez": "prima",
+   "filo": "ebola-congo-2026",
+   "titolo": "L'Ebola varca il confine del Congo e arriva in Kenya, seconda epidemia più grande della storia",
+   "orig": "Kenya reports second Ebola case, family member of first patient",
+   "lead": "L'epidemia di Ebola in corso dallo scorso maggio nella Repubblica Democratica del Congo ha superato i 9.100 casi confermati e i 4.400 decessi in sette provincie, diventando la seconda più estesa della storia dopo quella dell'Africa occidentale 2014-2016; l'Ituri resta l'epicentro con quasi tre quarti dei contagi. Nei giorni scorsi il virus ha varcato per la prima volta un confine internazionale verso il Kenya, dove è stato confermato un secondo caso nella stessa famiglia del primo paziente. Nella provincia congolese di Tshopo, dove la malattia si è manifestata più di recente, l'università di Kisangani ha sospeso per 30 giorni i tirocini clinici degli studenti di medicina.",
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "CD",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/tshopo-lunikis-suspend-les-stages-cliniques-en-medecine-pendant-30-jours-cause-debola",
+     "angolo": "Dal Congo, riferisce la decisione precauzionale dell'università di Kisangani di fermare i tirocini clinici per 30 giorni."
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi",
+     "angolo": "Si concentra sulle falle nella preparazione sanitaria del Kenya fuori da Nairobi, messe a nudo dal nuovo caso."
+    },
+    {
+     "n": "The Citizen",
+     "p": "TZ",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/africa/kenya-reports-second-ebola-case-family-member-of-first-patient-5632598",
+     "angolo": "Dalla Tanzania, confinante con l'area dell'epidemia, segue il secondo caso keniano come motivo di ulteriore preoccupazione regionale."
     }
    ],
    "data": "15 ott"
@@ -1005,7 +1076,7 @@ window.EDIZIONI["2026-10-15"] = {
    "sez": "sport",
    "titolo": "La Roma crolla nel finale e perde 4-3 con il Real Madrid in Champions League",
    "orig": "Roma-Real Madrid 3-4, le pagelle: Malen (7,5) sontuoso, Soulé (7) da applausi, Endrick e Espì (7) ingressi decisivi, Vinicius (4,5) assente",
-   "lead": "La Roma di Gasperini era avanti 3-1 al minuto 83 nella seconda giornata della fase campionato di Champions League, ma si è fatta rimontare dal Real Madrid, che ha segnato tre gol nel finale e vinto 4-3. Lo stesso Gasperini ha riconosciuto: «Per 80 minuti abbiamo surclassato il Real, poi ci siamo paralizzati».",
+   "lead": "Secondo Il Messaggero, la Roma di Gasperini era avanti 3-1 al minuto 83 nella seconda giornata della fase campionato di Champions League, ma si è fatta rimontare dal Real Madrid, che ha segnato tre gol nel finale e vinto 4-3. Lo stesso Gasperini ha riconosciuto: «Per 80 minuti abbiamo surclassato il Real, poi ci siamo paralizzati».",
    "fonti": [
     {
      "n": "Il Messaggero – Sport",
@@ -1126,6 +1197,16 @@ window.EDIZIONI["2026-10-15"] = {
    ],
    "ok": 0,
    "rif": "brasile"
+  },
+  {
+   "q": "A quale Paese africano si è estesa per la prima volta l'epidemia di Ebola in corso in Congo?",
+   "opts": [
+    "Kenya",
+    "Sudafrica",
+    "Nigeria"
+   ],
+   "ok": 0,
+   "rif": "ebola"
   }
  ],
  "sguardi": {
@@ -1135,8 +1216,10 @@ window.EDIZIONI["2026-10-15"] = {
   "inflazione": "Il Financial Times racconta l'inflazione come l'innesco della frenata sui titoli dell'intelligenza artificiale; la Repubblica collega il dato alla crisi con l'Iran e alle elezioni di metà mandato; Gulf News e Japan Times seguono il contagio sui mercati asiatici dai rispettivi angoli regionali.",
   "groenlandia": "La tedesca Deutsche Welle nota l'assenza di prove dietro l'annuncio di Trump; Al Jazeera dà risalto alla prudenza di Danimarca e Groenlandia; Sky News riporta le parole del presidente quasi senza commento; Taipei Times guarda alla vicenda come capitolo della strategia Usa sulle risorse artiche.",
   "brasile": "La tedesca Deutsche Welle inquadra il voto come successo politico di Lula; l'agenzia pubblica brasiliana Agência Brasil spiega ai lavoratori i tempi di entrata in vigore; l'italiano Il Post lega esplicitamente la riforma alla corsa elettorale.",
+  "costarica": "Al Jazeera inquadra l'apertura nella diffusione regionale del modello Bukele; la cilena La Tercera ne descrive capacità e costi; la Scmp di Hong Kong guarda al Costa Rica come ultimo di una lista di imitatori; il sudafricano Daily Maverick, riprendendo Reuters, lega la svolta alla crescita della violenza criminale.",
   "istanbul": "Al Jazeera mette al centro la vittima quattordicenne e l'entità delle inondazioni; l'olandese NOS riprende le fonti turche sul bilancio dei danni; la bosniaca N1 documenta con immagini la paralisi della città.",
   "gaza": "Fox News sottolinea il sostegno internazionale crescente al piano Trump; la Repubblica dà risalto all'ammissione di Netanyahu sulla visita delle spie egiziane; la giordana Roya News segue la causa dell'ex capo del Shin Bet; la pakistana Express Tribune riprende l'esclusiva Cnn sui piani militari Usa contro l'Iran.",
+  "ebola": "La congolese Actualite.cd riferisce la sospensione precauzionale dei tirocini clinici a Kisangani; Al Jazeera si concentra sulle falle nella preparazione sanitaria del Kenya; la tanzaniana The Citizen segue il secondo caso keniano come motivo di preoccupazione regionale.",
   "manovra": "Repubblica e Sole 24 Ore, entrambi italiani, ricostruiscono dall'interno le coperture scelte dal governo per finanziare gli aiuti alle famiglie sulle bollette.",
   "confindustria": "Il Messaggero Economia riporta la stima di crescita di Confindustria accompagnandola alla cautela del presidente Orsini sulla fragilità della ripresa.",
   "pensioni": "Il Messaggero pubblica le simulazioni degli aumenti pensionistici fascia per fascia, con un taglio pratico pensato per i lettori italiani.",
@@ -1187,7 +1270,9 @@ window.EDIZIONI["2026-10-15"] = {
   "inflazione": "Negli Stati Uniti l'inflazione di settembre è salita al 3,7%, sopra le attese, anche per effetto della guerra in corso con l'Iran sui prezzi dell'energia: i mercati scontano ora un possibile nuovo intervento della Federal Reserve, a tre settimane dalle elezioni di metà mandato. Il dato ha innescato una vendita generalizzata sui titoli tecnologici legati all'intelligenza artificiale, già sotto pressione dopo mesi di rally.",
   "groenlandia": "Un mese prima dell'annuncio, Stati Uniti, Danimarca e Groenlandia avevano firmato un accordo sulla sicurezza pensato per allentare le tensioni dopo che Trump aveva più volte minacciato di annettere l'isola artica: l'intesa amplia le basi militari americane sul territorio ma non tocca i diritti minerari, che restano in capo a Nuuk e Copenaghen.",
   "brasile": "Il presidente Lula, impegnato nel ballottaggio del 25 ottobre contro il senatore conservatore Flávio Bolsonaro, ha moltiplicato negli ultimi giorni le misure a favore dei lavoratori: sgravi sui carburanti, condono dei debiti per 3,6 milioni di piccole imprese e ora la riduzione della settimana lavorativa, attesa da tempo dai sindacati.",
-  "gaza": "Il 10 ottobre 2025 è entrato in vigore il cessate il fuoco a Gaza previsto dal piano in 20 punti di Trump: nei giorni successivi sono stati liberati tutti gli ostaggi israeliani vivi, mentre la restituzione delle salme dei morti si è conclusa solo a gennaio. A un anno di distanza Hamas non è stato disarmato e Israele controlla ancora gran parte della Striscia, mentre nuove rivelazioni complicano il quadro politico israeliano sulle responsabilità per il 7 ottobre 2023."
+  "costarica": "Dal 2022 il modello di Nayib Bukele a El Salvador, basato su arresti di massa e un carcere da 40mila posti, è diventato un punto di riferimento per i governi della regione che vogliono mostrarsi duri contro le bande criminali. Negli ultimi mesi il Costa Rica, uno dei Paesi storicamente più sicuri dell'America Latina, ha visto crescere la violenza legata al narcotraffico.",
+  "gaza": "Il 10 ottobre 2025 è entrato in vigore il cessate il fuoco a Gaza previsto dal piano in 20 punti di Trump: nei giorni successivi sono stati liberati tutti gli ostaggi israeliani vivi, mentre la restituzione delle salme si è conclusa solo a gennaio. A un anno di distanza Hamas non è stato disarmato e Israele controlla ancora gran parte della Striscia, mentre nuove rivelazioni complicano il quadro politico israeliano sulle responsabilità per il 7 ottobre 2023.",
+  "ebola": "Dal maggio 2026 un'epidemia di virus Ebola, sottotipo Bundibugyo, colpisce la Repubblica Democratica del Congo: è già la seconda più grande epidemia di Ebola mai registrata, con oltre 9.100 casi confermati e più di 4.400 decessi in sette provincie, concentrati soprattutto nell'Ituri. Nei giorni scorsi il contagio ha varcato per la prima volta i confini internazionali, raggiungendo anche Uganda, Burundi e ora il Kenya."
  },
  "cronologie": {
   "houthi": [
@@ -1274,6 +1359,20 @@ window.EDIZIONI["2026-10-15"] = {
     "Il Senato brasiliano approva in doppia lettura la riduzione della settimana lavorativa da 44 a 40 ore, 75 voti a 1"
    ]
   ],
+  "costarica": [
+   [
+    "2022",
+    "El Salvador apre il Cecot, il mega-carcere da 40mila posti diventato il simbolo del modello Bukele"
+   ],
+   [
+    "14 ottobre",
+    "La presidente costaricana Laura Fernández inaugura il Cacco, carcere da 5.100 posti costruito su progetti donati da El Salvador"
+   ],
+   [
+    "fine ottobre",
+    "Sono previsti i primi trasferimenti di detenuti nella nuova struttura"
+   ]
+  ],
   "gaza": [
    [
     "7 ottobre 2023",
@@ -1286,6 +1385,20 @@ window.EDIZIONI["2026-10-15"] = {
    [
     "ottobre 2026",
     "A un anno dall'accordo l'Ue promette un miliardo di dollari per la ricostruzione; Netanyahu ammette la visita pre-7 ottobre del capo spie egiziano e l'ex capo del Shin Bet Ronen Bar lo cita in giudizio per diffamazione"
+   ]
+  ],
+  "ebola": [
+   [
+    "maggio 2026",
+    "Comincia in Congo l'epidemia di Ebola Bundibugyo, oggi la seconda più estesa della storia"
+   ],
+   [
+    "ottobre 2026",
+    "I casi confermati superano i 9.100, con oltre 4.400 decessi; l'Ituri resta l'epicentro con quasi tre quarti dei contagi"
+   ],
+   [
+    "13-15 ottobre",
+    "Il Kenya conferma un secondo caso, nella stessa famiglia del primo; a Kisangani l'università sospende i tirocini clinici per precauzione"
    ]
   ]
  },
@@ -1365,6 +1478,19 @@ window.EDIZIONI["2026-10-15"] = {
     ]
    ]
   },
+  "costarica": {
+   "n": "San José, Costa Rica",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": [
+    [
+     9.93,
+     -84.08,
+     "San José"
+    ]
+   ]
+  },
   "istanbul": {
    "n": "Istanbul, Turchia",
    "p": [
@@ -1390,6 +1516,20 @@ window.EDIZIONI["2026-10-15"] = {
      31.3,
      34.3,
      "Gaza"
+    ]
+   ]
+  },
+  "ebola": {
+   "n": "Congo e Kenya",
+   "p": [
+    "Dem. Rep. Congo",
+    "Kenya"
+   ],
+   "pt": [
+    [
+     1.5,
+     30.2,
+     "Ituri"
     ]
    ]
   },
@@ -1694,8 +1834,10 @@ window.EDIZIONI["2026-10-15"] = {
   "inflazione": 2,
   "groenlandia": 2,
   "brasile": 2,
+  "costarica": 2,
   "istanbul": 2,
   "gaza": 3,
+  "ebola": 3,
   "biff": 2,
   "pontecorea": 2,
   "fmiafrica": 2
