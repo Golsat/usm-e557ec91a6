@@ -313,7 +313,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z759a3bff",
-   "sez": "viaggi",
+   "sez": "ingegneria",
    "titolo": "Dubai: un ponte pedonale collega ora Etihad Rail e la metropolitana",
    "orig": "Dubai Etihad Rail–Metro pedestrian bridge opens: Five-minute walk connects stations",
    "lead": "A Dubai è stato inaugurato il nuovo ponte pedonale che collega la rete ferroviaria Etihad Rail con la metropolitana cittadina, permettendo ai passeggeri di spostarsi tra le due stazioni in soli cinque minuti a piedi. L'infrastruttura è stata progettata per migliorare l'integrazione del sistema di trasporto pubblico, facilitando gli scambi per i pendolari e i turisti che utilizzano i diversi servizi ferroviari dell'emirato. Il completamento di quest'opera rappresenta un tassello fondamentale nello sviluppo della mobilità intermodale della regione. Lo riferisce Gulf News.",
@@ -1391,30 +1391,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z6397b8f1",
-   "sez": "mondo",
-   "titolo": "Cina e Corea del Nord aprono un nuovo ponte dopo dodici anni",
-   "orig": "Till sist öppnar ”spökbron” – Kina och Nordkorea stärker banden",
-   "lead": "È stato ufficialmente inaugurato un nuovo ponte stradale che collega la Cina e la Corea del Nord, ponendo fine a un'attesa durata dodici anni. L'infrastruttura, precedentemente definita \"ponte fantasma\" a causa dei lunghi ritardi nella sua attivazione, mira a rafforzare i legami commerciali tra Pechino e il regime di Pyongyang. Questa apertura segue di poche settimane l'inaugurazione di un collegamento simile tra la Russia e la Corea del Nord, evidenziando una strategia coordinata di potenziamento delle vie di scambio regionali. Lo riferisce Dagens Nyheter.",
-   "more": [
-    "La Corea del Nord subisce pesanti sanzioni internazionali che limitano il suo commercio. I collegamenti terrestri con Cina e Russia sono vitali per l'economia nordcoreana, poiché permettono l'afflusso di beni essenziali. Questi ponti rappresentano nodi strategici non solo per l'economia, ma anche per la stabilità geopolitica della regione asiatica, facilitando i movimenti logistici transfrontalieri."
-   ],
-   "fonti": [
-    {
-     "n": "Dagens Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.dn.se/varlden/till-sist-oppnar-spokbron-kina-och-nordkorea-starker-banden/",
-     "angolo": "",
-     "atlas": "Sweden",
-     "t": "2026-10-15T12:30+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "14:02",
-   "uscita": "13"
-  },
-  {
    "id": "zce8c11a5",
    "sez": "economia",
    "titolo": "Scontro tra UE e Stati Uniti sugli accordi per il diesel russo",
@@ -2019,30 +1995,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zeb2d69b9",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV in ripresa dopo l'intervento chirurgico al polmone",
-   "orig": "El papa León XIV pasó bien la noche, se levantó y desayunó",
-   "lead": "Papa Leone XIV ha trascorso una notte tranquilla, si è alzato e ha fatto colazione dopo essere stato sottoposto a un delicato intervento chirurgico al polmone destro. L'operazione, eseguita con una tecnica videoassistita per rimuovere il lobo inferiore, si è resa necessaria per risolvere una specifica condizione medica del pontefice. Nonostante la degenza post-operatoria, il Vaticano ha confermato che l'agenda del Papa resta invariata, con l'intenzione di proseguire i viaggi programmati e mantenere gli impegni assunti con i fedeli in vista dei prossimi tour internazionali. Lo riferisce El Nacional.",
-   "more": [
-    "Gli interventi chirurgici videoassistiti rappresentano tecniche moderne che riducono l'invasività delle operazioni toraciche, permettendo un recupero più rapido del paziente. Per una figura pubblica della rilevanza del Papa, lo stato di salute è oggetto di monitoraggio costante e comunicazioni ufficiali, data l'influenza che il suo benessere ha sulla gestione della Chiesa cattolica e sulle sue attività diplomatiche mondiali."
-   ],
-   "fonti": [
-    {
-     "n": "El Nacional",
-     "p": "XX",
-     "c": "Caracas",
-     "u": "https://www.elnacional.com/2026/10/el-papa-leon-xiv-paso-bien-la-noche-se-levanto-y-desayuno/",
-     "angolo": "",
-     "atlas": "Venezuela",
-     "t": "2026-10-15T09:45+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "14:02",
-   "uscita": "13"
-  },
-  {
    "id": "zc775dc85",
    "sez": "salute",
    "titolo": "Bolivia: il cancro al seno è la seconda causa di morte tra le donne",
@@ -2060,30 +2012,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-15T11:12+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "14:02",
-   "uscita": "13"
-  },
-  {
-   "id": "za59355d2",
-   "sez": "economia",
-   "titolo": "Bolivia: stallo sulle tariffe dei trasporti interdepartimentali",
-   "orig": "Persiste el desacuerdo por las tarifas interdepartamentales",
-   "lead": "Persiste il disaccordo tra i conducenti e l'Autorità di Regolazione dei Trasporti (ATT) riguardo all'incremento transitorio delle tariffe per i viaggi interdepartimentali in Bolivia. Le parti non hanno raggiunto un'intesa durante le trattative e hanno deciso di avviare una nuova pausa negoziale. Nel frattempo, presso i terminal degli autobus continua a vigere il regime di libera offerta e domanda, creando incertezza per i passeggeri e per i lavoratori del settore che attendono una regolamentazione definitiva sui prezzi dei biglietti. Lo riferisce El Deber.",
-   "more": [
-    "Le tariffe dei trasporti pubblici sono spesso oggetto di negoziazione tra i sindacati di categoria e le autorità statali per bilanciare i costi operativi dei fornitori e il potere d'acquisto degli utenti. In assenza di un accordo formale, la fluttuazione dei prezzi può generare tensioni nel mercato e difficoltà per i viaggiatori che dipendono da questi collegamenti per spostarsi tra diverse regioni del Paese."
-   ],
-   "fonti": [
-    {
-     "n": "El Deber",
-     "p": "XX",
-     "c": "Santa Cruz",
-     "u": "https://eldeber.com.bo/economia/persiste-desacuerdo-tarifas-interdepartamentales_1792061837",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-15T10:57+00:00"
     }
    ],
    "data": "15 ott",
@@ -2254,7 +2182,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z796f6aa5",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Il gruppo americano The Missing Peace in tour nel Paraguay",
    "orig": "The Missing Peace en Paraguay: ¿Qué hace un grupo de amigos del D.C. en nuestro país?",
    "lead": "Il gruppo statunitense The Missing Peace si appresta a esibirsi in Paraguay durante il prossimo fine settimana, portando la propria musica in due diverse località del Paese. La prima tappa della formazione, composta da un gruppo di amici provenienti da Washington D.C., è prevista per sabato 17 a Asunción, mentre domenica 18 il tour proseguirà nella città di Caaguazú. L'arrivo della band americana sta suscitando interesse nel panorama culturale locale per la natura del loro progetto artistico. Lo riferisce ABC Color.",
@@ -2462,6 +2390,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-10-15T10:36+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/samuel-etoo-tacle-rfi-la-credibilite-commence-aussi-par-lexemplarite/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T11:20+00:00"
     }
    ],
    "data": "15 ott",
@@ -2534,30 +2471,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Chad",
      "t": "2026-10-15T07:30+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "14:02",
-   "uscita": "13"
-  },
-  {
-   "id": "z9b1d7ac9",
-   "sez": "mondo",
-   "titolo": "Camerun: Eto’o risponde a RFI sulle accuse di malversazione",
-   "orig": "Samuel Eto’o tacle RFI : « La crédibilité commence aussi par l’exemplarité »",
-   "lead": "Samuel Eto’o ha replicato pubblicamente a Radio France Internationale dopo la diffusione di un articolo che lo coinvolgeva in una presunta vicenda di distrazione di fondi pubblici in Camerun. L'ex attaccante e attuale dirigente sportivo ha sottolineato che la credibilità di una testata giornalistica deve necessariamente passare attraverso l'esemplarità del proprio operato. Eto’o ha respinto le accuse, ribadendo la correttezza della propria gestione alla guida della federazione e contestando le fonti del media francese. Lo riferisce Actu Cameroun.",
-   "more": [
-    "Le accuse di gestione impropria dei fondi sono temi ricorrenti nel panorama delle federazioni sportive internazionali. Nel caso del Camerun, la figura carismatica e talvolta controversa di Eto'o attira l'attenzione costante dei media europei, portando a frequenti smentite e chiarimenti ufficiali per tutelare l'onore della dirigenza nazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Actu Cameroun",
-     "p": "XX",
-     "c": "Yaoundé",
-     "u": "https://actucameroun.com/2026/10/15/samuel-etoo-tacle-rfi-la-credibilite-commence-aussi-par-lexemplarite/",
-     "angolo": "",
-     "atlas": "Cameroon",
-     "t": "2026-10-15T11:20+00:00"
     }
    ],
    "data": "15 ott",
@@ -2654,30 +2567,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Benin",
      "t": "2026-10-15T10:13+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "14:02",
-   "uscita": "13"
-  },
-  {
-   "id": "zed737dba",
-   "sez": "mondo",
-   "titolo": "Guerra in Russia: Kiev rivendica la distruzione di sei bombardieri Su-34",
-   "orig": "Russie : six bombardiers Su-34 détruits sur une base aérienne, selon la marine ukrainienne",
-   "lead": "La marina ucraina ha dichiarato di aver distrutto sei bombardieri russi Su-34M durante un attacco notturno condotto il 15 ottobre presso la base aerea di Borisoglebsk, nella regione russa di Voronezh. Secondo le fonti di Kiev, l'operazione ha colpito anche diverse attrezzature tecniche fondamentali per la preparazione dei voli militari. L'azione rappresenta un duro colpo alla capacità offensiva aerea della Russia, mirando a neutralizzare i velivoli utilizzati per le incursioni sul territorio ucraino, nel quadro di una strategia di logoramento delle infrastrutture nemiche. Lo riferisce La Nouvelle Tribune.",
-   "more": [
-    "Il Su-34 è un cacciabombardiere supersonico di fabbricazione russa progettato per attacchi al suolo e contro obiettivi navali. Colpire questi aerei a terra è una tattica volta a ridurre la pressione aerea nemica senza ingaggiare combattimenti diretti nei cieli, colpendo direttamente i punti di partenza e di manutenzione della flotta avversaria."
-   ],
-   "fonti": [
-    {
-     "n": "La Nouvelle Tribune",
-     "p": "XX",
-     "c": "Cotonou",
-     "u": "https://lanouvelletribune.info/2026/10/russie-six-bombardiers-su-34-detruits-sur-une-base-aerienne-selon-la-marine-ukrainienne/",
-     "angolo": "",
-     "atlas": "Benin",
-     "t": "2026-10-15T10:09+00:00"
     }
    ],
    "data": "15 ott",
@@ -3646,30 +3535,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Czechia",
      "t": "2026-10-15T12:30+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:49",
-   "uscita": "13"
-  },
-  {
-   "id": "zb87b4fb8",
-   "sez": "cultura",
-   "titolo": "Repubblica Ceca, allarme degli artisti sui nuovi criteri di finanziamento pubblico",
-   "orig": "Czech artists warn new funding rules could threaten freedom of expression",
-   "lead": "In Repubblica Ceca compagnie teatrali, promotori di festival e case editrici hanno espresso profonda preoccupazione per la riforma delle regole sui contributi pubblici, avvertendo che i nuovi criteri potrebbero mettere a rischio la libertà d'espressione artistica. Dal canto suo, il ministro della Cultura Oto Klempíř ha respinto con fermezza le accuse e i timori di censura sollevati dal mondo culturale. Lo riferisce Expats.cz.",
-   "more": [
-    "I sistemi di sovvenzione statale alla cultura sostengono le produzioni teatrali indipendenti, l'editoria e le rassegne artistiche, fungendo da presidio per il pluralismo delle idee e la vitalità delle industrie creative locali."
-   ],
-   "fonti": [
-    {
-     "n": "Expats.cz",
-     "p": "XX",
-     "c": "Praga",
-     "u": "https://www.expats.cz/czech-news/article/czech-artists-warn-new-funding-rules-could-threaten-freedom-of-expression",
-     "angolo": "",
-     "atlas": "Czechia",
-     "t": "2026-10-15T11:43+02:00"
     }
    ],
    "data": "15 ott",
@@ -5351,30 +5216,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z2d8d0dc7",
-   "sez": "mondo",
-   "titolo": "Porto, trentasette feriti nello sgombero della tendopoli per il diritto alla casa",
-   "orig": "“Estás a dar-me pontapés porquê?”: noite de grande violência na acampada pela habitação no Porto",
-   "lead": "Nella città portoghese di Porto la notte tra mercoledì e giovedì è stata segnata da gravi violenze durante lo sgombero dell'accampamento allestito dai manifestanti per rivendicare il diritto all'alloggio. La dura carica condotta dalle forze dell'ordine nei confronti dei partecipanti alla protesta per l'emergenza abitativa ha provocato un bilancio complessivo di trentasette persone ferite, scatenando aspre polemiche sull'operato della polizia e sulla gestione della crisi delle case. Lo riferisce Público.",
-   "more": [
-    "Le tensioni sull'abitare in Portogallo sono cresciute negli ultimi anni a causa del rapido rincaro degli affitti e della penuria di appartamenti a canone accessibile nei centri urbani."
-   ],
-   "fonti": [
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/10/15/video/estas-pontapes-porque-noite-grande-violencia-acampada-habitacao-porto-20261015-105220",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-15T10:00+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:49",
-   "uscita": "13"
-  },
-  {
    "id": "zddeb8beb",
    "sez": "ambiente",
    "titolo": "Portogallo, irregolarità accertate nella discarica di Moita-Palmela",
@@ -5392,30 +5233,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-10-15T09:14+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:49",
-   "uscita": "13"
-  },
-  {
-   "id": "zcc246a78",
-   "sez": "mondo",
-   "titolo": "Albania, gli studenti manifestano contro il governo e scoppiano scontri",
-   "orig": "Vreedzaam protest tegen de Albanese regering slaat om in geweld",
-   "lead": "In Albania una prolungata mobilitazione popolare condotta fino ad ora in maniera pacifica contro la corruzione nel ceto politico è improvvisamente sfociata in disordini violenti. Al centro delle proteste scese in piazza vi sono gli studenti universitari, i quali chiedono urgenti riforme per il miglioramento dell'istruzione superiore nel Paese e pretendono con fermezza le dimissioni e la caduta del governo in carica. Lo riferisce NRC.",
-   "more": [
-    "Le contestazioni studentesche nei Balcani occidentali traggono sovente origine dalla denuncia delle carenze nei fondi per gli atenei e dal malcontento verso la classe dirigente."
-   ],
-   "fonti": [
-    {
-     "n": "NRC",
-     "p": "XX",
-     "c": "Rotterdam",
-     "u": "https://www.nrc.nl/nieuws/2026/10/15/vreedzaam-protest-tegen-de-albanese-regering-slaat-om-in-geweld-a4939019",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-15T12:08+02:00"
     }
    ],
    "data": "15 ott",
@@ -5704,30 +5521,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-15T10:56+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:44",
-   "uscita": "13"
-  },
-  {
-   "id": "z5c12608e",
-   "sez": "mondo",
-   "titolo": "El Salvador: Bukele annuncia un piano per liberare fino a metà dei carcerati della repressione anti-gang",
-   "orig": "El Salvador's Bukele announces plan to free up to half of prisoners jailed in gang crackdown",
-   "lead": "Il presidente di El Salvador Nayib Bukele ha presentato un piano che prevede la liberazione di un contingente che potrà raggiungere la metà dei circa 90 mila detenuti arrestati durante lo stato di emergenza proclamato contro le bande criminali. Il provvedimento annunciato dal capo dello Stato salvadoregno punta a riconsiderare la posizione di decine di migliaia di individui fermati nel corso delle vaste operazioni di pubblica sicurezza. Lo riferisce Fox News.",
-   "more": [
-    "Lo stato di eccezione introdotto in El Salvador per combattere le gang ha comportato una forte riduzione degli indici di criminalità, accompagnata però da denunce di arresti indiscriminati e violazioni del dovuto processo. I piani di revisione delle carcerazioni rispondono alla necessità di gestire il sovraffollamento penitenziario e verificare la posizione delle persone prive di legami certi con le organizzazioni criminali."
-   ],
-   "fonti": [
-    {
-     "n": "Fox News",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-15T03:01-04:00"
     }
    ],
    "data": "15 ott",
@@ -6529,30 +6322,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Thailand",
      "t": "2026-10-15T15:56+07:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:44",
-   "uscita": "13"
-  },
-  {
-   "id": "z5f7e1f29",
-   "sez": "mondo",
-   "titolo": "Il parlamento svedese respinge la nomina di Andersson alla guida del governo",
-   "orig": "Swedish parliament votes against Social Democrats leader as PM, as expected",
-   "lead": "Il Parlamento svedese ha respinto giovedì il tentativo della leader dei Socialdemocratici, Magdalena Andersson, di formare un governo di minoranza. La bocciatura della candidatura a primo ministro era ampiamente attesa dagli osservatori politici. L'esito del voto parlamentare prolunga così una fase di forte incertezza istituzionale su chi guiderà il nuovo esecutivo di Stoccolma, sorta all'indomani delle elezioni generali celebrate il mese scorso nel Paese scandinavo, che non hanno espresso una maggioranza netta. Lo riferisce The Straits Times.",
-   "more": [
-    "In Svezia il Riksdag, il parlamento monocamerale, vota per approvare la nomina del primo ministro secondo un principio di parlamentarismo negativo: il candidato viene respinto solo se la maggioranza assoluta dei deputati esprime voto contrario. Se nessun leader ottiene la fiducia necessaria, il presidente del parlamento avvia ulteriori consultazioni per individuare una nuova figura in grado di formare una coalizione di governo."
-   ],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/swedish-parliament-votes-against-social-democrats-leader-as-pm-as-expected",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-15T19:01+08:00"
     }
    ],
    "data": "15 ott",
@@ -8735,6 +8504,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-15T10:58+02:00"
+    },
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/vreedzaam-protest-tegen-de-albanese-regering-slaat-om-in-geweld-a4939019",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T12:08+02:00"
     }
    ],
    "data": "15 ott",
@@ -8830,47 +8608,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-15T12:12+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:41",
-   "uscita": "13"
-  },
-  {
-   "id": "z30808747",
-   "sez": "mondo",
-   "titolo": "Due petroliere in fiamme al largo della Romania dopo raid con droni",
-   "orig": "Twee schepen in brand na mogelijke droneaanvallen bij Roemeense kust",
-   "lead": "Due navi cisterna commerciali all'ancora nel Mar Nero al largo delle coste della Romania hanno preso fuoco a seguito di presunti attacchi sferrati con droni russi. Le squadre di soccorso hanno evacuato gran parte del personale marittimo ma risultano disperse sette persone dell'equipaggio di uno dei due natanti. Lo riferisce NOS.",
-   "more": [
-    "Il Mar Nero costituisce una rotta marittima vitale per il transito delle navi cisterna e dei carichi cerealicoli, bagnando le coste di Paesi della NATO come la Romania e Stati belligeranti come Ucraina e Russia, esponendo la navigazione commerciale a rischi costanti."
-   ],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635056",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-15T12:10+02:00"
-    },
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/mondo/petroliere_fiamme_mar_nero_attacco_droni_russi_romania-9826853.html",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "DR Nyheder",
-     "p": "XX",
-     "c": "Copenaghen",
-     "u": "https://www.dr.dk/nyheder/seneste/otte-besaetningsmedlemmer-savnet-efter-brand-paa-skib-ved-rumaenien",
-     "angolo": "",
-     "atlas": "Denmark",
-     "t": "2026-10-15T09:28+00:00"
     }
    ],
    "data": "15 ott",
@@ -9508,29 +9245,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z0af54dff",
-   "sez": "ambiente",
-   "titolo": "Riscaldamento, al via la stagione termica: da Milano a Roma il calendario delle accensioni",
-   "orig": "Termosifoni, quando si possono accendere? Da Milano (che dà il via oggi) a Roma e Firenze, le date città per città",
-   "lead": "Con l'abbassamento autunnale delle temperature, parte ufficialmente il 15 ottobre la stagione termica 2026/2027 in diverse città italiane. Tra i capoluoghi che hanno autorizzato l'accensione immediata dei termosifoni spicca Milano, mentre centri urbani come Roma e Firenze seguiranno calendari differenziati nelle settimane successive in base alla specifica fascia climatica di appartenenza. Le disposizioni comunali definiscono orari e periodi di funzionamento degli impianti per garantire il comfort abitativo riducendo al contempo gli sprechi energetici ed emissivi. Lo riferisce Il Messaggero.",
-   "more": [
-    "In Italia la normativa sulle accensioni dei termosifoni divide il territorio nazionale in diverse zone climatiche, dalla A alla F, in base alle temperature medie registrate. Questo meccanismo disciplina i periodi massimi di accensione per contenere i consumi di gas ed elettricità."
-   ],
-   "fonti": [
-    {
-     "n": "Il Messaggero – Economia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/economia/schede/termosifoni_quando_si_possono_accendere_data_calendario_milano_torino_bologna_roma_firenze-9826718.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
-   "ora": "13:36",
-   "uscita": "13"
-  },
-  {
    "id": "ze36488bb",
    "sez": "economia",
    "titolo": "Il Diario del Lavoro compie 25 anni, Landini chiede un accordo su contratti e rappresentanza",
@@ -9644,30 +9358,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Morocco",
      "t": "2026-10-15T09:00+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:36",
-   "uscita": "13"
-  },
-  {
-   "id": "zc607c06e",
-   "sez": "economia",
-   "titolo": "Vertice Ue, tensioni tra i leader su prezzi dell'energia, bilancio ed export cinese",
-   "orig": "EU leaders kick off summit with wrangles over high energy prices and spending",
-   "lead": "I capi di Stato e di governo dell'Unione Europea hanno aperto un vertice a Bruxelles segnato da contrasti sulla gestione dei rincari energetici. L'agenda dei lavori mette a confronto i Ventisette su come abbassare i costi delle bollette per cittadini e imprese, concordare un bilancio pluriennale capace di rilanciare la competitività e contrastare l'aumento delle esportazioni a basso costo dalla Cina, considerate responsabili di perdite occupazionali nell'industria europea. La discussione testimonia visioni divergenti sui margini di spesa pubblica e dazi. Lo riferisce Cyprus Mail.",
-   "more": [
-    "I consigli europei riuniscono i leader dei Paesi Ue per definire le priorità strategiche dell'Unione. Il contenimento delle tariffe energetiche e la difesa del tessuto industriale contro pratiche concorrenziali esterne figurano tra i temi chiave per la tutela del mercato comune."
-   ],
-   "fonti": [
-    {
-     "n": "Cyprus Mail",
-     "p": "XX",
-     "c": "Nicosia",
-     "u": "https://cyprus-mail.com/2026/10/15/eu-leaders-kick-off-summit-with-wrangles-over-high-energy-prices-and-spending",
-     "angolo": "",
-     "atlas": "Cyprus",
-     "t": "2026-10-15T14:07+03:00"
     }
    ],
    "data": "15 ott",
@@ -10421,6 +10111,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Estonia",
      "t": "2026-10-15T10:34+03:00"
+    },
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/czech-artists-warn-new-funding-rules-could-threaten-freedom-of-expression",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-15T11:43+02:00"
     }
    ],
    "data": "15 ott",
@@ -10454,65 +10153,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Mozambique",
      "t": "2026-10-15T10:25+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:36",
-   "uscita": "13"
-  },
-  {
-   "id": "z5daaed3f",
-   "sez": "ambiente",
-   "titolo": "Maltempo a Istanbul: almeno due morti nelle inondazioni",
-   "orig": "Mindestens zwei Menschen sterben bei Überschwemmungen in Istanbul",
-   "lead": "Forti piogge persistenti hanno provocato gravi inondazioni a Istanbul, causando la morte di almeno due persone e gettando nel caos la metropoli turca. Le intense precipitazioni, non ancora cessate, hanno allagato strade e quartieri, costringendo i soccorritori a compiere numerose operazioni di evacuazione per trarre in salvo i residenti rimasti bloccati all'interno delle proprie abitazioni minacciate dall'acqua.",
-   "more": [
-    "Le inondazioni improvvise nei grandi agglomerati urbani si verificano quando le precipitazioni superano la capacità di assorbimento del terreno e dei sistemi di drenaggio. La densità degli edifici e la presenza di ampie superfici asfaltate amplificano il ruscellamento superficiale, provocando rapidi allagamenti delle zone basse e complicando le manovre di soccorso."
-   ],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/video/video-1666640.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-15T12:15+02:00"
-    },
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/panorama/rettungsaktionen-nach-ueberschwemmung-in-istanbul-zwei-tote-ld.10034574",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-15T07:10+00:00"
-    },
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/mondo/video/2026/10/15/alluvione-istanbul-oggi-maltempo-1131932",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "PSM News",
-     "p": "XX",
-     "c": "Malé",
-     "u": "https://psmnews.mv/190253",
-     "angolo": "",
-     "atlas": "Maldives",
-     "t": "2026-10-15T14:22+05:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/15/peshawar-sale-a-30-morti-il-bilancio-del-crollo-di-una-scuola_ec604147-ca10-4590-b761-dd86ff8eff7c.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-15T11:01+02:00"
     }
    ],
    "data": "15 ott",
@@ -10678,39 +10318,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Dem. Rep. Congo",
      "t": "2026-10-15T08:49+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:36",
-   "uscita": "13"
-  },
-  {
-   "id": "z06afeeaf",
-   "sez": "salute",
-   "titolo": "Vaticano: operazione per il papa per un nodulo polmonare, ricoverato anche il fratello",
-   "orig": "Le frère ainé du pape Léon XIV hospitalisé aussi pour un cancer",
-   "lead": "Momento difficile per la famiglia del pontefice Leone XIV. Il papa, 71 anni, è stato sottoposto martedì a un intervento chirurgico di circa 90 minuti al policlinico Gemelli di Roma per asportare un nodulo canceroso al polmone destro, operazione che ha comportato l'ablazione del lobo polmonare inferiore. L'intervento è riuscito senza complicazioni e sono stati avviati accertamenti medici di approfondimento. Parallelamente si apprende del ricovero anche del fratello maggiore del pontefice, anch'egli colpito da patologia tumorale.",
-   "more": [
-    "L'asportazione di un lobo polmonare, o lobectomia, è un intervento chirurgico eseguito per rimuovere porzioni di tessuto interessate da formazioni neoplastiche. Viene condotto in centri specializzati per impedire la diffusione della malattia e preservare la capacità respiratoria del paziente attraverso successivi percorsi di monitoraggio clinico."
-   ],
-   "fonti": [
-    {
-     "n": "Actu Cameroun",
-     "p": "XX",
-     "c": "Yaoundé",
-     "u": "https://actucameroun.com/2026/10/15/le-frere-aine-du-pape-leon-xiv-hospitalise-aussi-pour-un-cancer/",
-     "angolo": "",
-     "atlas": "Cameroon",
-     "t": "2026-10-15T10:16+00:00"
-    },
-    {
-     "n": "2424.mg",
-     "p": "XX",
-     "c": "Antananarivo",
-     "u": "https://www.2424.mg/sante-le-pape-leon-xiv-opere-sans-complications-dun-nodule-cancereux-au-poumon-droit-selon-le-vatican",
-     "angolo": "",
-     "atlas": "Madagascar",
-     "t": "2026-10-14T14:17+00:00"
     }
    ],
    "data": "15 ott",
@@ -10903,6 +10510,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-10-15T11:47+03:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/russie-six-bombardiers-su-34-detruits-sur-une-base-aerienne-selon-la-marine-ukrainienne/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T10:09+00:00"
     }
    ],
    "data": "15 ott",
@@ -10911,7 +10527,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "zfc857352",
-   "sez": "cultura",
+   "sez": "mondo",
    "titolo": "Hong Kong: cancellato evento Pride per errore di prenotazione degli spazi",
    "orig": "Hong Kong Pride event axed due to ‘booking overlap,’ marking group’s 2nd consecutive venue cancellation",
    "lead": "Il comitato organizzatore dell'Hong Kong Pride ha cancellato il mercatino Rainbow Market programmato per il 14 novembre al Central Market, a causa di quello che i gestori della struttura hanno definito un errore amministrativo e una sovrapposizione di prenotazioni. Si tratta del secondo annullamento consecutivo di una sede per il gruppo che in passato organizzava i cortei dell'orgoglio nella città, il quale ha espresso dispiacere per l'improvvisa indisponibilità dell'area commerciale.",
@@ -11034,6 +10650,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-10-15T09:01+00:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/15/video/estas-pontapes-porque-noite-grande-violencia-acampada-habitacao-porto-20261015-105220",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-15T10:00+00:00"
     }
    ],
    "data": "15 ott",
@@ -12232,30 +11857,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-15T08:30+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:32",
-   "uscita": "13"
-  },
-  {
-   "id": "zcad47b22",
-   "sez": "ambiente",
-   "titolo": "Un video mostra un corallo sbiancato che si rigenera a contatto con uno sano",
-   "orig": "VÍDEO mostra coral branqueado se recuperando ao tocar um saudável",
-   "lead": "Un esperimento condotto da ricercatori dell'Università di Stanford, pubblicato sulla rivista Science, mostra come un corallo sbiancato e prossimo alla morte sia riuscito a recuperare colore e vitalità in poche settimane dopo il contatto fisico con un corallo sano, senza interventi chirurgici o apparecchiature. Il \"trapianto\" consiste nel trasferimento delle microalghe che vivono nei tessuti e donano loro colore ed energia; si tratterebbe della prima dimostrazione che il contatto diretto può invertire completamente lo sbiancamento. Lo riferisce G1.",
-   "more": [
-    "Lo sbiancamento dei corallo avviene quando questi organismi marini perdono le microalghe simbiotiche che vivono nei loro tessuti, spesso a causa dello stress termico delle acque, compromettendone la sopravvivenza e la salute degli ecosistemi marini circostanti."
-   ],
-   "fonti": [
-    {
-     "n": "G1",
-     "p": "XX",
-     "c": "Rio de Janeiro",
-     "u": "https://g1.globo.com/meio-ambiente/noticia/2026/10/15/video-mostra-coral-branqueado-se-recuperando-ao-tocar-um-saudavel.ghtml",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-10-15T11:10+00:00"
     }
    ],
    "data": "15 ott",
@@ -13642,30 +13243,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zad2531c8",
-   "sez": "sport",
-   "titolo": "Champions League, il PSG doma il City con un netto 4-2",
-   "orig": "Manchester City in der Champions League: Auf dem Platz endet die Nachsicht von PSG",
-   "lead": "Il Paris Saint-Germain, club finanziato dal Qatar, ha battuto il Manchester City per 4-2 a Manchester nella fase a gironi di Champions League. La squadra parigina si è mostrata cauta nelle dichiarazioni sul caso di presunte frodi finanziarie che riguarda il City, ma in campo ha giocato una partita talmente convincente da far pensare a un possibile terzo titolo europeo consecutivo. Lo riferisce Süddeutsche Zeitung.",
-   "more": [
-    "Il Manchester City è accusato da anni dalla Premier League di violazioni delle norme sul fair play finanziario; il club nega gli addebiti mentre il caso resta ancora senza una decisione definitiva."
-   ],
-   "fonti": [
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/sport/psg-manchester-city-champions-league-li.3563892",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-15T10:46+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:32",
-   "uscita": "13"
-  },
-  {
    "id": "zdf64eaad",
    "sez": "economia",
    "titolo": "Eskhata Bank e BERS sostengono l'economia verde del Tagikistan",
@@ -14661,66 +14238,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z75c4e2e8",
-   "sez": "ambiente",
-   "titolo": "Foschia arancione avvolge le città indonesiane mentre gli incendi continuano a bruciare",
-   "orig": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-   "lead": "Una densa foschia arancione ha avvolto la città indonesiana di Palangka Raya mentre gli incendi boschivi continuano a divampare nelle vicinanze. Gli abitanti hanno condiviso filmati che descrivono una situazione in cui 'non c'è via di fuga'. La crisi si estende a livello regionale: Singapore ha registrato il picco di inquinamento più alto dell'anno e Timor Est ha chiuso le scuole per tre giorni a causa del fumo proveniente dall'Indonesia.",
-   "more": [
-    "Gli incendi boschivi in Indonesia, spesso legati alla pratica del disboscamento per l'agricoltura, producono ogni anno una foschia tossica che si diffonde nei Paesi vicini del Sud-est asiatico, causando problemi di salute pubblica e chiusure scolastiche."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-15T03:26+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-15T04:25+00:00"
-    },
-    {
-     "n": "VnExpress",
-     "p": "XX",
-     "c": "Hanoi",
-     "u": "https://e.vnexpress.net/news/news/environment/singapore-pollution-hits-yearly-high-east-timor-shuts-schools-as-indonesia-wildfire-haze-intensifies-5132487.html",
-     "angolo": "",
-     "atlas": "Vietnam",
-     "t": "2026-10-15T09:31+07:00"
-    },
-    {
-     "n": "Bangkok Post",
-     "p": "XX",
-     "c": "Bangkok",
-     "u": "https://www.bangkokpost.com/world/3337608/orange-skies-in-indonesia-as-haze-crisis-spreads",
-     "angolo": "",
-     "atlas": "Thailand",
-     "t": "2026-10-15T15:45+07:00"
-    },
-    {
-     "n": "Malay Mail",
-     "p": "XX",
-     "c": "Kuala Lumpur",
-     "u": "https://www.malaymail.com/news/malaysia/2026/10/15/selangor-putrajaya-negeri-sembilan-pahang-schools-stay-open-tomorrow-amid-haze/239224",
-     "angolo": "",
-     "atlas": "Malaysia",
-     "t": "2026-10-15T16:58+08:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:26",
-   "uscita": "13"
-  },
-  {
    "id": "z660df99f",
    "sez": "prima",
    "titolo": "Container e detriti galleggiano nello Stretto di Hormuz dopo gli attacchi alle navi",
@@ -15055,7 +14572,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z2fb78980",
-   "sez": "cultura",
+   "sez": "economia",
    "titolo": "Lo studio di Wallace & Gromit, Aardman, non torna in utile",
    "orig": "Wallace & Gromit maker Aardman falls short of return to profit",
    "lead": "Aardman, lo studio di animazione britannico creatore di Wallace e Gromit, non è riuscito a raggiungere l'obiettivo di tornare in utile, riducendo la perdita annuale a 1,1 milioni di sterline in un 'mercato difficile' per i contenuti per bambini. L'azienda, di proprietà dei dipendenti, puntava a un piccolo profitto nel 2025 dopo due anni consecutivi di perdite, ma è stata colpita da ritardi nella produzione.",
@@ -16386,7 +15903,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z6330cfb2",
-   "sez": "viaggi",
+   "sez": "cultura",
    "titolo": "Il nuovo film di Ragione e Sentimento porta nella campagna di Devon e Dorset",
    "orig": "The New Sense and Sensibility Film Takes Us to Bucolic Devon and Dorset",
    "lead": "La nuova trasposizione cinematografica del romanzo di Jane Austen Ragione e Sentimento è stata girata tra le campagne di Devon e Dorset, in Inghilterra. Il location manager Ian Hutchinson racconta l'esperienza di lavoro sul set, descrivendola come un periodo piacevole dedicato alla realizzazione di un film suggestivo, ambientato tra paesaggi rurali e bucolici tipici della scrittura austeniana. Lo riferisce Condé Nast Traveler.",
@@ -16956,7 +16473,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z18ad243f": "Le testate internazionali, da BBC a ANSA e La Nación, concordano nel sottolineare il significato simbolico del ritorno a Nottingham, città legata alla loro storia.",
   "zbd6895c3": "BBC News e The Kathmandu Post concordano sul motivo dell'espulsione, legato alla partecipazione alla protesta contro la commissione elettorale.",
   "zfdff548c": "Yonhap riporta la decisione del governo di affrontare in modo coordinato la risposta a episodi criminali che hanno scosso l'opinione pubblica sudcoreana.",
-  "z75c4e2e8": "BBC News mostra le testimonianze dirette degli abitanti, mentre The Guardian racconta i nuovi tentativi del governo indonesiano di contrastare la foschia con il ghiaccio secco.",
   "z660df99f": "Al Jazeera mostra le immagini dei detriti in mare, mentre PBS NewsHour e Egypt Independent riportano il bilancio delle navi affondate.",
   "z9597a6f0": "Asia-Plus si concentra sulla partecipazione del presidente tagiko e sull'attesa dichiarazione finale del summit.",
   "z2a45e88b": "Al Jazeera si concentra sul possibile rinvio della Coppa d'Asia, mentre Financial Times e The Straits Times riportano il rinvio di altri eventi internazionali.",
@@ -17041,7 +16557,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "ze203c364": "Construction Index descrive il progetto nei suoi aspetti tecnici e di costo.",
   "z7739079d": "NME riporta le dichiarazioni dell'attrice sulla disponibilità a un sequel.",
   "z773c1815": "Geopop racconta il progetto attraverso la voce diretta dell'epidemiologa coinvolta.",
-  "zcad47b22": "G1 presenta il video dell'esperimento come prova visiva del fenomeno descritto nello studio.",
   "z9bbea3a7": "France 24 elenca i principali temi all'ordine del giorno del vertice europeo.",
   "ze0c17fd7": "Middle East Eye dà voce alle preoccupazioni dei giornalisti coinvolti sulla libertà di stampa.",
   "z1e35b69d": "Construction Index descrive la fornitura come esempio dell'attività commerciale internazionale di Red Rhino.",
@@ -17077,7 +16592,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z9181f718": "La testata riporta le previsioni come segnale di un cambiamento di fase per le economie della regione.",
   "zcb4b61de": "La testata descrive l'operazione come passo strategico nell'espansione finanziaria del gruppo.",
   "zcf7ce630": "UzDaily evidenzia la partecipazione uzbeka come occasione di networking internazionale per il settore tech locale.",
-  "zad2531c8": "La testata tedesca sottolinea il contrasto tra la cautela verbale del PSG sul caso City e la sua superiorità mostrata in campo.",
   "zdf64eaad": "Asia-Plus presenta il progetto come parte degli sforzi per diversificare l'economia tagika verso settori più sostenibili.",
   "z2dadc3bf": "NRC dà voce alla coppia polacca, che chiede scuse ufficiali ai Paesi Bassi per l'incidente.",
   "z3c13cbbf": "La Tercera riprende le accuse di Amnesty International, che collegano sport e immagine politica del Ruanda.",
@@ -17113,13 +16627,11 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z96650d41": "South China Morning Post mette a fuoco l'accelerazione di Hsbc su Hong Kong rispetto al polo tecnologico concorrente di Singapore.",
   "z804ae9a9": "South China Morning Post evidenzia l'attrazione dei capitali mediorientali verso i comparti cinesi di biotecnologia e intelligenza artificiale.",
   "z55b7b037": "Il Messaggero spiega le modalità operative del nuovo portale e le opzioni di recupero economico a disposizione dei titolari di skipass.",
-  "z0af54dff": "Il Messaggero riporta le date e le scadenze territoriali per l'avvio degli impianti di riscaldamento nelle diverse città della Penisola.",
   "ze36488bb": "la Repubblica pone l'accento sull'anniversario della testata specializzata e sull'intervento di Landini in tema contrattuale.",
   "z501a3455": "la Repubblica illustra i problemi logistici legati al fiume Reno e le contromisure operative decise dalla compagnia aerea.",
   "z47a321b7": "la Repubblica si concentra sul rimbalzo dell'indice Pmi Tracker e sulla capacità di resistenza del tessuto imprenditoriale locale.",
   "zb2388637": "la Repubblica fa il punto sulle trattative tra soci per semplificare la governance e sciogliere i nodi dell'eredità.",
   "z81de2478": "Hespress English valorizza i dati di crescita e il calo dell'inflazione senza trascurare le difficoltà strutturali del lavoro.",
-  "zc607c06e": "Cyprus Mail evidenzia le divisioni tra i capi di governo sul caro bollette, il bilancio comunitario e le importazioni cinesi.",
   "z2c2b1d0d": "Cyprus Mail riporta l'appello del presidente cipriota per autorizzare interventi statali autonomi a contrasto dei rincari.",
   "z7d4e4795": "Club of Mozambique segnala il nuovo piano regolatorio angolano a lungo termine per velocizzare l'estrazione di combustibili fossili.",
   "zd24cfddf": "Club of Mozambique si focalizza sul programma statale per distribuire le quote dell'istituto finanziario al pubblico e al personale.",
@@ -17145,13 +16657,11 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z5a98f1ed": "I quotidiani spagnoli evidenziano le profonde divergenze tattiche tra la linea di Podemos e il rifiuto di IU di frammentare l'unità nazionale.",
   "za3e0dc8e": "L'emittente ceca evidenzia i timori della comunità artistica per i possibili tagli e per i rischi sulla libertà di espressione.",
   "z4d682aca": "La fonte mette in evidenza il supporto finanziario britannico per ripristinare la sicurezza delle strutture nucleari danneggiate.",
-  "z5daaed3f": "Tagesschau e Neue Zürcher Zeitung concordano sul bilancio di due vittime, ponendo l'accento sulle vaste operazioni di sgombero delle abitazioni e sui forti disagi dovuti alle piogge continue.",
   "zad3a820f": "Agência Brasil descrive i dettagli della trasmissione radiofonica ufficiale brasiliana, mentre El Comercio evidenzia i canali televisivi e gli orari di fruizione per gli spettatori internazionali.",
   "z56a0b1bb": "Radio Okapi si concentra sulla sconfitta ed eliminazione della selezione congolese, mentre Journal du Mali celebra la vittoria e la rimonta delle proprie atlete contro il Benin.",
   "z43eacf80": "Radio Okapi mette in evidenza i danni provocati dal clima estremo alle coltivatrici a Kinshasa, mentre La Nation racconta le celebrazioni a Gibuti incentrate sulla tutela dei diritti delle bambine.",
   "z065290e8": "Gazeta.uz segnala la situazione dei propri cittadini feriti a Riad, mentre la stampa indonesiana si sofferma sui protocolli di sicurezza per il personale diplomatico e i residenti.",
   "z87556cdb": "SOS Médias Burundi pone l'attenzione sulla perdita di postazioni a Bijombo nel Sud-Kivu, mentre Actualite.cd si concentra sulle incursioni aeree e i raid subiti nel territorio di Masisi.",
-  "z06afeeaf": "Actu Cameroun evidenzia la concomitante degenza ospedaliera del fratello maggiore del papa, mentre 2424.mg illustra gli aspetti medici e chirurgici dell'operazione al Gemelli.",
   "z48355900": "Expresso das Ilhas pone l'accento sulla chiusura del secondo mandato e sui limiti costituzionali, mentre Novo Jornal evidenzia le giustificazioni del presidente legate alle crisi estere.",
   "zc512577c": "Trend rimarca le iniziative sul fronte della sicurezza asiatica, mentre Gazeta.uz illustra il piano per i minerali critici e le nuove garanzie offerte agli investitori.",
   "zbb5d12c6": "RTHK descrive nei dettagli il materiale sequestrato nei magazzini e l'età delle vittime raggirate, mentre South China Morning Post si sofferma sulla durata novennale del circuito fraudolento.",
@@ -17244,7 +16754,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z41f7424d": "RTP pone l'accento sulla prestazione individuale del connazionale nel successo di squadra dei Boston Celtics.",
   "z86f1a9a6": "RTP mette in risalto il netto incremento delle compensazioni economiche legate ai gravi guasti alla rete.",
   "z08adc5c7": "NOS evidenzia la ripresa dei rifornimenti a terra a fronte del persistente blocco delle attività digitali e online.",
-  "z30808747": "NOS evidenzia il bilancio allarmante delle vittime in mare e il possibile coinvolgimento di droni russi.",
   "za9154c29": "NOS sottolinea il pericolo estremo scongiurato dall'intervento tempestivo della polizia in un'area densamente abitata.",
   "z8d818936": "NOS pone l'accento sullo scetticismo dei mercati finanziari rispetto ai ritorni economici reali degli investimenti in IA.",
   "z6f378b85": "VRT NWS sottolinea l'efficacia dei nuovi cartelli informativi nel dimezzare i transiti non autorizzati.",
@@ -17273,7 +16782,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z6c20aa49": "N1 Serbia sottolinea le richieste di trasparenza avanzate da ProGlas sulla gestione dei seggi nella diaspora.",
   "zfb91b3ca": "The New York Times descrive la corsa ingegneristica per sviluppare intercettori a reazione capaci di rispondere alle nuove tattiche aeree.",
   "z845077f9": "The New York Times celebra la scelta di affidare all'ente di tutela il più antico locale gastronomico di Londra.",
-  "z5c12608e": "Fox News pone in evidenza l'apertura del presidente Bukele verso la scarcerazione di un numero cospicuo di persone fermate durante l'emergenza.",
   "z02984737": "The Punch riporta le dichiarazioni nette del dirigente dell'ADC sul futuro confronto elettorale in Anambra.",
   "z2dd586ae": "The Punch pone l'accento sulla richiesta esplicita del centrocampista del Psg per reintegrare Ronaldo tra i titolari della selezione.",
   "z0e3494d4": "The Punch sottolinea il debutto storico dei reclusi nigeriani nella competizione sportiva promossa tra le carceri del mondo.",
@@ -17307,7 +16815,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zf98c5db4": "Philippine Daily Inquirer sottolinea la determinazione dell'accusa nel respingere manovre procedurali volte a prolungare il dibattimento.",
   "z61b58298": "VnExpress pone l'accento sull'abilità di volo della regina thailandese, arrivata in prima persona alla guida del velivolo.",
   "zb0f13562": "Bangkok Post riporta con sobrietà il conteggio delle vittime fornito dalle autorità di protezione civile thailandesi.",
-  "z5f7e1f29": "The Straits Times mette in luce il prolungarsi dell'incertezza politica a Stoccolma dopo il voto contrario del parlamento.",
   "z29f82b62": "The Straits Times sottolinea le riserve e le esitazioni di vari candidati al Senato nel riconoscere l'esito delle imminenti elezioni.",
   "zdf15d138": "The Straits Times evidenzia il consolidamento della coalizione elettorale attorno a Flavio Bolsonaro in vista del secondo turno.",
   "zd5b719b7": "The Astana Times mette in risalto il ruolo del Kazakistan nel sostenere le iniziative del Fondo monetario internazionale nella regione.",
@@ -17357,7 +16864,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z656b9afa": "Euronews Albania mette in risalto il violento scontro tra i reparti di polizia e i manifestanti intervenuti per soccorrere il giovane.",
   "zc33803a1": "Euronews Albania evidenzia l'uso degli idranti da parte della polizia e lo scoppio del rogo nell'immobile adiacente al dicastero.",
   "z0e3f4a0f": "Expats.cz mette in evidenza la rinascita architettonica dell'edificio storico dopo il lungo percorso di ricostruzione post-incendio.",
-  "zb87b4fb8": "Expats.cz pone a confronto la protesta del comparto artistico con la ferma smentita del ministro rispetto a ogni intento censorio.",
   "zb46a9962": "Expats.cz valorizza l'originalità dei percorsi turistici urbani legati alla celebre tradizione vetraria del territorio.",
   "z42617727": "N1 Bosnia sottolinea il valore del ritorno in scena congiunto delle due popolari interpreti dopo un quarto di secolo.",
   "z2725ecbb": "N1 Bosnia pone l'accento sui riflessi che un cambio di maggioranza al Congresso americano potrebbe avere sui leader locali.",
@@ -17427,9 +16933,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zc5bcf039": "Frankfurter Allgemeine Zeitung documenta la duplice mossa della presidenza Trump tra politica interna sui media e difesa all'estero.",
   "z1ffe8eee": "El País nota le tempistiche contrastanti indicate dal ministro economico rispetto agli annunci del premier.",
   "z181077c5": "El País mette a fuoco il clima di tensione preelettorale e lo scambio di accuse tra la destra madrilena e i socialisti.",
-  "z2d8d0dc7": "Público denuncia la brutalità dell'intervento di polizia nei confronti dei cittadini che manifestavano contro la precarietà abitativa.",
   "zddeb8beb": "Público dà risalto alla constatazione ufficiale delle infrazioni ambientali sollevate dagli attivisti ecologisti.",
-  "zcc246a78": "NRC evidenzia la repentina svolta violenta di un movimento giovanile che reclamava trasparenza e riforme universitarie.",
   "zb2b4e8a8": "NRC sottolinea l'impatto emotivo e la natura dirompente della performance di Romijn Scholten.",
   "zcc3cb7dd": "NRC mette l'accento sulla carica emotiva della serie e sulla difficoltà estrema del lavoro di cura.",
   "z3d0151d9": "NZZ evidenzia la vittoria legale del governo e di UBS contro i ricorsi dei vertici bancari.",
@@ -17439,7 +16943,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z5183fd93": "L'articolo offre un'analisi scientifica e filosofica sul concetto di benessere come impulso vitale.",
   "z0ad41126": "NZZ punta sul valore interattivo e documentaristico del proprio archivio cartografico quotidiano.",
   "z3f11da0f": "La testata pubblica un'opinione esterna che sprona il Partito di Centro a un cambio di campo politico.",
-  "z6397b8f1": "Dagens Nyheter sottolinea il rafforzamento dei legami logistici tra Pyongyang e i suoi alleati regionali.",
   "zce8c11a5": "La testata svedese mette in risalto lo scontento di Stoccolma e le ambiguità dei partner occidentali.",
   "z9d0544c8": "Dagens Nyheter loda la conclusione della serie, definendola un brivido accogliente di alto livello.",
   "z4d8f37fb": "La testata evidenzia l'entità eccezionale del numero di abbattimenti autorizzati per la prossima stagione.",
@@ -17465,9 +16968,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "za10a97a9": "El Observador esamina il modello di business basato sull'integrazione tra tecnologia digitale ed energia solare.",
   "z1ecdfd4f": "El Observador riporta la rottura interna ai vertici del Ministero degli Esteri uruguaiano.",
   "z10e313af": "El Nacional sottolinea l'eterogeneità dei gruppi che hanno aderito alla protesta nazionale.",
-  "zeb2d69b9": "El Nacional riporta i dettagli positivi sulla convalescenza immediata del Papa e la conferma dei suoi impegni.",
   "zc775dc85": "El Deber focalizza l'attenzione sull'appello della Gobernación per la prevenzione tempestiva.",
-  "za59355d2": "El Deber mette in risalto il perdurare del disaccordo e la situazione di incertezza nei terminal.",
   "zffbe760a": "El Deber analizza le rivelazioni sulle presunte manovre politiche nell'Assemblea per l'elezione del procuratore.",
   "zbc375658": "La Nación CR spiega i meccanismi di adeguamento all'inflazione del nuovo piano pensionistico.",
   "zb73cbc01": "La Nación CR pone l'attenzione sulla volontà della magistrata di reagire politicamente alle accuse del governo.",
@@ -17487,12 +16988,10 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z26bb5dee": "Tchadinfos sottolinea l'impatto positivo dell'intervento per la cittadinanza di Amtiman.",
   "z15ae7adb": "Tchadinfos invita i giovani artisti locali a cogliere l'opportunità offerta dall'amministrazione comunale.",
   "zf5a05b59": "Tchadinfos analizza l'accordo diplomatico attraverso il commento critico di un esperto di politologia.",
-  "z9b1d7ac9": "Actu Cameroun evidenzia l'appello di Eto'o all'integrità e alla professionalità del giornalismo internazionale.",
   "z762886e9": "Actu Cameroun mette in luce l'importanza di Bokele per il club turco e la volontà della società di trattenerlo.",
   "zf51f0023": "Actu Cameroun sottolinea l'ascesa internazionale di Nagida e l'interesse dei top club europei.",
   "z3254faeb": "La Nouvelle Tribune riporta i dettagli dell'udienza giudiziaria focalizzandosi sulla difesa del chirurgo.",
   "zbba06752": "La testata evidenzia l'invito al risveglio civile proposto durante la conferenza pubblica.",
-  "zed737dba": "La Nouvelle Tribune riporta il comunicato della marina ucraina sull'esito dell'attacco strategico.",
   "zda26e905": "La Nouvelle Tribune sottolinea l'importanza strategica dell'evento per il futuro delle PME nel Paese.",
   "zd83414d2": "La testata mette in risalto il contrasto tra la visione democratica di Zelensky e il presunto autoritarismo di Trump.",
   "z577baaf6": "Africaguinee pone l'accento sulla cura dedicata a chi, per professione, si prende cura dei pazienti ogni giorno.",
@@ -17572,7 +17071,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
  "contesti": {
   "z18ad243f": "Harry e Meghan erano tornati a vivere nel Regno Unito dopo anni trascorsi negli Stati Uniti, ma non avevano ancora compiuto apparizioni pubbliche insieme fino a questa visita a Nottingham, città simbolicamente legata alla loro storia di coppia.",
   "zbd6895c3": "L'attore era stato fermato e poi rilasciato durante una manifestazione a Mumbai il 10 ottobre scorso, che chiedeva le dimissioni del presidente della commissione elettorale indiana; da allora le autorità hanno avviato un procedimento nei suoi confronti.",
-  "z75c4e2e8": "Negli anni scorsi l'Indonesia ha già affrontato crisi simili legate agli incendi boschivi, che generano una foschia tossica capace di diffondersi nei Paesi vicini; le autorità hanno in passato sperimentato tecniche come il cloud seeding per contrastarla.",
   "z660df99f": "Negli ultimi giorni si sono moltiplicati gli attacchi a navi mercantili nello Stretto di Hormuz, in un contesto di tensione legato al conflitto tra Stati Uniti e Iran, con diverse imbarcazioni colpite da mine o proiettili non identificati.",
   "z2a45e88b": "Negli ultimi tempi gli attacchi Houthi contro obiettivi in Arabia Saudita si sono intensificati, colpendo anche l'aeroporto di Riad, inducendo diverse organizzazioni internazionali a rinviare eventi previsti nel Paese, tra cui un summit diplomatico e una gara motoristica.",
   "zf57063f8": "Negli ultimi anni l'Istat ha registrato una crescita della povertà assoluta in Italia, aggravata dalla pandemia e dall'inflazione; i dati del 2025 mostrano un primo lieve calo rispetto al 2024, pur restando su livelli storicamente elevati.",
@@ -17597,7 +17095,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "ze71e186d": "Nelle ultime settimane la Federazione guineana di calcio ha avviato l'iter burocratico e regolamentare per il rinnovo della propria dirigenza. Dopo anni segnati da comitati di normalizzazione e instabilità gestionale nel calcio guineano, la Commissione elettorale ha esaminato i requisiti di eleggibilità e i ricorsi presentati dalle varie correnti. Il vaglio formale dei fascicoli ha permesso di verificare la conformità degli aspiranti vertici federali, completando la fase preliminare prima dell'ufficializzazione finale.",
   "z5c1da716": "Nel corso della Coppa d'Africa femminile, la nazionale del Camerun ha condotto un percorso sportivo netto che l'ha portata fino all'ultimo atto della competizione continentale. Tra le protagoniste indiscusse della cavalcata delle 'Leonesse indomabili', l'attaccante Marie Gisèle Ngah Manga si è distinta per prestazioni decisive nei turni a eliminazione diretta, attirando l'attenzione dei media alla vigilia della finalissima, vissuta con determinazione e concentrazione da parte dell'intero gruppo guidato dallo staff tecnico.",
   "z5e026878": "Il dibattito sul bilancio comunitario a lungo termine è entrato nel vivo a Bruxelles tra visioni divergenti sulle risorse da destinare alla competitività e ai vincoli di spesa. La prospettiva di consultazioni elettorali critiche nei principali Paesi membri ha spinto le istituzioni a cercare una rapida intesa per evitare veti politici successivi.",
-  "zc607c06e": "I Paesi dell'Unione Europea sono divisi da tempo sulla revisione delle regole fiscali e sugli aiuti di Stato per contrastare la volatilità energetica. L'incremento dei flussi commerciali di prodotti cinesi e l'impatto sul settore manifatturiero hanno riacceso il dibattito sulle misure di protezione industriale.",
   "z50eeaa49": "Il governo ha presentato il testo della manovra economica all'Assemblea Nazionale aprendo il dibattito sulle entrate fiscali per il nuovo anno finanziario.",
   "z6f1b224a": "Il conflitto nello Yemen ha fatto registrare ricorrenti scambi aerei, ma gli Houthi avevano pubblicamente dichiarato di voler escludere le città sante dai loro obiettivi bellici.",
   "z470ccb74": "Un violento sisma ha scosso diverse regioni panamensi nei giorni scorsi, provocando crolli, migliaia di sfollati e danneggiamenti diffusi a complessi residenziali.",
@@ -17607,7 +17104,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z56a0b1bb": "Il secondo turno di qualificazione per l'Africa ha visto diverse sfide decisive di andata e ritorno disputate a inizio ottobre per determinare l'accesso alla fase successiva della corsa verso le Olimpiadi.",
   "z065290e8": "Il 10 ottobre si è verificato un attacco contro l'aeroporto internazionale della capitale saudita Riad, che ha spinto i paesi esteri a monitorare con urgenza la situazione dei propri connazionali presenti.",
   "z87556cdb": "La regione orientale congolese vive da mesi una recrudescenza dei combattimenti per il controllo di importanti snodi territoriali, con ripetuti assalti delle forze ribelli contro i presidi delle forze armate.",
-  "z06afeeaf": "Il pontefice è stato ricoverato all'ospedale Gemelli per affrontare l'asportazione chirurgica del nodulo maligno, mentre il quadro sanitario familiare è stato appesantito dalle condizioni del fratello.",
   "z48355900": "Lourenço si avvia a completare il secondo mandato presidenziale in un contesto di tensioni economiche internazionali che hanno frenato i programmi di sviluppo originari.",
   "z483f3218": "La Verkhovna Rada era chiamata ad allineare il quadro normativo fiscale alle prescrizioni degli organismi internazionali per consentire l'erogazione delle tranche di sostegno economico concordate.",
   "z41c7218a": "Per depotenziare i bombardamenti russi lungo la linea del fronte, Kiev ha intensificato gli attacchi a lungo raggio contro basi aeree e depositi di munizioni in territorio nemico. Nelle ultime settimane le forze ucraine hanno fatto ricorso a droni kamikaze e a una versione modificata del missile da crociera Neptune per colpire strutture situate a centinaia di chilometri dal confine, prendendo di mira gli stormi di cacciabombardieri Su-34 usati per lanciare bombe guidate.",
@@ -17622,7 +17118,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z15d5be26": "Le verifiche sulla gestione delle risorse destinate al sostegno della popolazione vulnerabile sono state avviate dagli organi inquirenti dopo discrepanze nei registri di spesa. Gli accertamenti preliminari hanno portato a formalizzare i capi d'accusa contro i vertici dell'ente.",
   "z21ce34a8": "Negli ultimi mesi l'Unione Europea ha cercato di mantenere compatto il fronte delle sanzioni contro i combustibili fossili russi, mentre a Sofia si è riacceso lo scontro interno sulla sicurezza energetica. Il presidente bulgaro Rumen Radev, già critico verso la linea intransigente di Bruxelles, ha sfruttato l'apertura delle trattative internazionali tra Washington e Mosca per rivendicare l'esigenza di forniture a basso costo per l'industria nazionale, scatenando aspre proteste comunitarie.",
   "zf942072d": "La sicurezza delle infrastrutture energetiche nel Golfo Persico è tornata al centro dell'agenda internazionale dopo una serie di minacce e attacchi con droni rivendicati da milizie regionali. La prolungata crisi in Medio Oriente e le instabilità marittime avevano già spinto i mercati verso una marcata volatilità. L'improvviso raid contro il quartier generale di Aramco ha riacceso i timori di un'interruzione prolungata delle forniture petrolifere, allarmando le istituzioni finanziarie internazionali.",
-  "z5daaed3f": "Nelle ultime settimane la Turchia nordoccidentale ha fatto i conti con un'ondata di maltempo caratterizzata da violenti temporali e sbalzi termici anomali. Il servizio meteorologico statale aveva diramato avvisi per la regione di Marmara, ma l'intensità delle precipitazioni ha rapidamente saturato i canali di scolo della popolosa metropoli sul Bosforo. I corsi d'acqua esondati e le colate di fango hanno travolto interi quartieri, cogliendo di sorpresa numerosi residenti.",
   "z36638104": "Dall'avvio delle ostilità in territorio ucraino nel 2022, i paesi occidentali hanno congelato centinaia di miliardi di euro appartenenti alla Banca centrale russa. Nelle scorse settimane le cancellerie alleate hanno discusso ripetutamente le modalità legali ed economiche per utilizzare questi fondi o i relativi interessi per sostenere Kyiv, scontrandosi con questioni di sovranità giurisdizionale e con il timore di compromettere la stabilità del sistema finanziario continentale.",
   "z36afb62a": "Nelle settimane scorse l'amministrazione presidenziale statunitense aveva minacciato e predisposto misure sanzionatorie punitive contro la Corte penale internazionale e le realtà collaborative, criticando le inchieste sulle operazioni militari israeliane a Gaza. Numerose organizzazioni non governative avevano contestato le disposizioni esecutive americane, denunciando la violazione dei diritti fondamentali e l'interruzione della raccolta di testimonianze giudiziarie.",
   "zece3d1fc": "Nelle scorse settimane una sentenza del tribunale elettorale aveva depennato dalle liste 181 candidati dell'Anc per contestazioni procedurali. La decisione aveva provocato l'opposizione della Democratic Alliance e costretto la dirigenza del partito storico a impugnare il verdetto davanti alla corte suprema per evitare una pesante sconfitta per rinuncia nelle circoscrizioni locali.",
@@ -17630,7 +17125,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zca74dc44": "Negli ultimi mesi, l'Esercito per l'Indipendenza Kachin ha inferto pesanti sconfitte alle truppe della giunta birmana, conquistando snodi strategici e hub minerari lungo il confine con la Cina. Di fronte alla perdita di controllo territoriale e all'indebolimento delle proprie posizioni nel nord del Paese, il regime militare di Naypyidaw ha tentato di aprire canali negoziali con le milizie etniche, aumentando contemporaneamente lo spiegamento di forze e i bombardamenti nell'area.",
   "zbcd7d809": "A dieci anni dall'intervento della coalizione araba a guida saudita in Yemen, le milizie Houthi hanno intensificato i lanci di droni e missili balistici verso il territorio del Regno. Già nei giorni scorsi un primo raid aveva preso di mira le infrastrutture aeroportuali della capitale Riad. Nonostante gli sforzi diplomatici di tregua, le forze ribelli filo-iraniane continuano a colpire nodi logistici ed energetici critici per dimostrare la vulnerabilità della difesa aerea saudita.",
   "zefca124d": "Il clima politico in Albania si è progressivamente surriscaldato nelle ultime settimane a causa delle accuse di corruzione, autoritarismo e condizionamento elettorale rivolte dalle opposizioni al premier Edi Rama. Le forze antigovernative, guidate dal Partito Democratico, hanno promosso una serie di sit-in e scioperi per chiedere le dimissioni dell'esecutivo e un governo tecnico di transizione, culminati in cortei non autorizzati e assedi agli edifici istituzionali della capitale Tirana.",
-  "z30808747": "La sicurezza della navigazione mercantile nel Mar Nero è entrata in una fase critica a causa dei continui raid russi contro le rotte del grano e le infrastrutture portuali lungo il Danubio. Nei giorni precedenti all'incidente, le difese aeree regionali avevano segnalato ripetute incursioni di droni d'attacco in prossimità dei confini romeni e ucraini, aumentando l'allerta per il traffico marittimo civile in transito al largo delle coste della Nato.",
   "z38159b07": "Negli ultimi giorni il Parlamento di Stoccolma ha affrontato delicate votazioni per la premiership che hanno evidenziato la frammentazione tra i blocchi politici. Di fronte a tentativi di intesa centrista e alla resistenza di alcuni partiti nel collaborare stabilmente con la destra, la leader cristiano-democratica Ebba Busch ha intensificato i contatti con le altre forze conservatrici per compattare l'alleanza e scongiurare uno stallo istituzionale o un ritorno al governo delle sinistre.",
   "z370d54ab": "Nel corso dell'ultimo anno, le agenzie umanitarie delle Nazioni Unite hanno subito ripetute contrazioni di bilancio, causate dal ridimensionamento dei fondi per la cooperazione internazionale deciso dalle potenze occidentali. Le assemblee e i vertici dei donatori svoltisi nelle ultime settimane avevano già evidenziato l'impossibilità di coprire i fabbisogni globali per le carestie in corso, portando il Programma alimentare mondiale a dover ridurre le razioni destinate a milioni di rifugiati.",
   "zb84c002b": "Nelle ultime settimane, i leader dell'Unione europea hanno accelerato i negoziati per definire gli assetti del bilancio comunitario e le risorse finanziarie dei prossimi anni. La concomitanza con la campagna elettorale per le presidenziali francesi ha tuttavia acceso lo scontro politico interno in Francia. I movimenti di opposizione guidati da Marine Le Pen contestano la tempistica dell'intesa comunitaria, ritenendo inaccettabile blindare scelte strategiche prima del pronunciamento democratico dei cittadini alle urne.",
@@ -17666,27 +17160,22 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z92fcfcc7": "Il conflitto in Ucraina ha visto l'impiego massiccio di collegamenti satellitari civili e commerciali per garantire le comunicazioni operative delle forze armate sul campo di battaglia.",
   "zc5bcf039": "Il rapporto tra l'amministrazione repubblicana e diverse testate giornalistiche americane è stato segnato da frequenti contrasti sulle regole di accesso alle sale stampa governative.",
   "z1ffe8eee": "Il trattamento economico dei pensionati costituisce uno dei nodi centrali del confronto programmatico ed elettorale tra la maggioranza di centrosinistra e l'opposizione in Spagna.",
-  "z2d8d0dc7": "Nelle scorse settimane attivisti e cittadini si erano mobilitati in diverse città portoghesi creando presidi stabili per denunciare i costi insostenibili degli immobili.",
-  "zcc246a78": "Il malcontento sociale per i casi di corruzione diffusa e per le precarie condizioni delle università aveva dato vita a cortei e sit-in pacifici prolungatisi nel tempo.",
   "z614c132b": "L'inchiesta federale tedesca aveva portato nei mesi scorsi all'arresto dei due sospetti, individuati dai servizi di controspionaggio mentre monitoravano figure di spicco legate alla comunità ebraica e alle relazioni con Israele. Durante il dibattimento processuale ad Amburgo sono emerse prove documentali sulle attività di ricognizione e sui contatti clandestini tenuti dagli imputati con apparati d'intelligence iraniani, in un quadro di accresciuta allerta antiterrorismo per possibili ritorsioni orchestrate da Teheran in Europa.",
   "z9f17b77c": "Il dibattito globale sull'impatto dei sistemi algoritmici ha visto crescere negli ultimi mesi l'attenzione delle organizzazioni per i diritti umani, preoccupate da discriminazioni automatizzate e violazioni della privacy. In qualità di vertice del Consiglio marocchino e leader della rete globale GANHRI, Amina Bouayach ha promosso diversi forum internazionali dedicati all'etica tecnologica, evidenziando la necessità che il Sud globale e le istituzioni indipendenti partecipino alla definizione delle normative internazionali sull'intelligenza artificiale.",
   "z3d0151d9": "In seguito al rischio di insolvenza di Credit Suisse nel marzo 2023, il governo svizzero ha orchestrato una fusione d'urgenza con UBS. Come parte del piano di salvataggio pubblico, sono state imposte restrizioni severe sui compensi dei dirigenti, inclusa la sospensione o il taglio dei bonus non ancora versati, scatenando una battaglia legale tra i vertici della banca e lo Stato.",
   "z58cddf3a": "Il consigliere federale Guy Parmelin ha recentemente annunciato l'intenzione di lasciare il suo incarico, aprendo la ricerca per un successore all'interno dell'UDC. Il partito, che è la principale forza politica della destra svizzera, deve presentare candidature che possano ottenere il consenso delle altre forze parlamentari per assicurarsi il seggio governativo vacante.",
   "za21f8cb3": "La corsa al Consiglio federale si è aperta dopo l'annuncio delle dimissioni di Guy Parmelin. Céline Amaudruz è tra le prime figure di spicco dell'UDC a uscire allo scoperto, dando il via a una fase di consultazioni interne che porterà il partito a presentare uno o più nomi ufficiali per il voto parlamentare previsto nei prossimi mesi.",
   "z0ad41126": "L'invasione russa dell'Ucraina, iniziata su larga scala nel febbraio 2022, ha radici nel conflitto scoppiato nel 2014. In questi anni, il fronte si è spostato drasticamente dalle periferie di Kiev alle regioni orientali del Donbass e meridionali, trasformandosi in una guerra di logoramento caratterizzata da enormi perdite umane e cambiamenti costanti nei confini di controllo militare.",
-  "z6397b8f1": "Negli ultimi anni, la Corea del Nord ha cercato di rompere l'isolamento internazionale intensificando i rapporti con i suoi vicini storici. Mentre le tensioni con l'Occidente rimangono alte a causa del programma nucleare, Pyongyang ha trovato in Mosca e Pechino dei partner disposti a mantenere aperti canali logistici e commerciali per contrastare le pressioni esterne.",
   "zce8c11a5": "Dall'inizio dell'invasione dell'Ucraina, l'Occidente ha imposto embargo e tetti ai prezzi delle risorse russe. L'UE ha cercato di diversificare i fornitori, ma la dipendenza storica ha portato a deroghe o a percorsi di importazione indiretti, creando frizioni costanti tra gli alleati della NATO e i partner europei sulla severità delle misure economiche.",
   "z030778ee": "Daniel Obajtek è stato per anni uno degli uomini più influenti della Polonia sotto il governo del PiS, guidando l'azienda di stato Orlen. Dopo il cambio di esecutivo a Varsavia, sono emerse numerose inchieste su presunte irregolarità gestionali. Eletto al Parlamento Europeo, ha ottenuto l'immunità, che ora il nuovo governo polacco sta cercando di revocare ufficialmente a Bruxelles.",
   "z38b095fa": "Javier Milei ha manifestato fin dall'inizio del suo mandato un forte allineamento ideologico con i movimenti conservatori internazionali. Il suo governo ha avviato riforme radicali per modificare la struttura economica argentina, cercando attivamente il supporto dei partner commerciali nordamericani per stabilizzare la moneta e promuovere uno sviluppo basato sull'iniziativa privata e sulla deregolamentazione.",
   "zad8e7735": "Le relazioni tra Cile e Venezuela erano state interrotte all'inizio del 2025 a causa di divergenze politiche e diplomatiche insanabili. Questo blocco ha impedito a migliaia di persone l'accesso a servizi amministrativi basilari, aggravando le difficoltà dei migranti e dei residenti cileni in territorio venezuelano, in un contesto regionale segnato da forti polarizzazioni ideologiche.",
   "z1f4ba9e7": "Papa Leone XIV ha recentemente affrontato problemi di salute che hanno richiesto un intervento chirurgico polmonare. Nonostante il periodo di convalescenza, la Santa Sede ha ribadito l'intenzione di mantenere gli impegni internazionali presi precedentemente, evidenziando l'importanza che la visita in Perù riveste per il pontefice e per la comunità cattolica locale.",
   "z10e313af": "Il governo di De la Espriella, insediatosi recentemente, ha dovuto affrontare una crescente opposizione dovuta a riforme contestate e tensioni economiche. La formazione di un fronte unito tra sindacati e movimenti di sinistra rappresenta il primo grande test di stabilità per l'amministrazione, che deve gestire le richieste di settori della società civile storicamente attivi nella mobilitazione di piazza.",
-  "zeb2d69b9": "Papa Leone XIV era stato ricoverato martedì per un problema polmonare che richiedeva l'asportazione di una porzione dell'organo. La notizia dell'operazione aveva sollevato dubbi sulla fattibilità della sua prossima visita in Perù e su altri impegni internazionali, portando la Santa Sede a fornire aggiornamenti regolari sulla stabilità clinica del pontefice e sul successo della procedura chirurgica.",
   "z541da570": "L'Ecuador attraversa da tempo una crisi di sicurezza che ha portato le autorità a dichiarare stati di eccezione e coprifuoco in diverse regioni. La collaborazione con gli Stati Uniti per l'estradizione di figure chiave della criminalità organizzata è una delle strategie centrali adottate dal governo per smantellare le reti criminali che operano all'interno del Paese, provocando spesso reazioni e necessità di controllo rafforzato sul territorio.",
   "z18ca517d": "Il caso 'Comisarías' riguarda indagini su presunte irregolarità finanziarie e amministrative legate alla gestione delle stazioni di polizia in Paraguay. Rafael Filizzola è da tempo al centro di questo contenzioso legale, difendendo il proprio operato e denunciando quelle che considera manovre politiche contro la sua figura di oppositore.",
   "z06772cd1": "Andorra ha intrapreso negli ultimi anni un percorso di riforme per allineare il proprio sistema finanziario agli standard internazionali di trasparenza. Questo sforzo è finalizzato a diversificare l'economia del Principato, tradizionalmente legata al turismo, e a integrarsi maggiormente nei meccanismi finanziari della zona euro pur non facendone parte ufficialmente.",
   "zf5a05b59": "Le relazioni tra Parigi e N'Djamena sono state segnate da incertezze negli ultimi anni, mentre il Ciad cercava di rinegoziare i termini della presenza militare francese sul proprio territorio. La firma di questa intesa arriva dopo mesi di stallo diplomatico, in un contesto regionale in cui l'influenza francese nel Sahel è stata messa in discussione da diversi governi locali.",
-  "zed737dba": "Dall'inizio dell'invasione russa, l'Ucraina ha progressivamente intensificato gli attacchi contro basi aeree e depositi di munizioni situati all'interno dei confini della Federazione Russa. Queste operazioni mirano a ridurre la frequenza dei bombardamenti aerei russi, che utilizzano spesso i cacciabombardieri per lanciare ordigni guidati contro le città ucraine e le postazioni difensive lungo la linea del fronte.",
   "zd83414d2": "Donald Trump ha espresso più volte dubbi sull'entità degli aiuti militari forniti dagli Stati Uniti all'Ucraina, sostenendo di poter negoziare una fine rapida del conflitto. Dall'altra parte, il governo di Kiev cerca di mantenere un dialogo aperto con entrambi gli schieramenti politici americani, consapevole che il supporto di Washington è fondamentale per resistere all'offensiva russa.",
   "z652c3316": "Il Madagascar sta cercando attivamente di attrarre capitali stranieri per sostenere i propri piani di modernizzazione infrastrutturale e industriale. La Francia rimane storicamente uno dei principali partner commerciali del Paese, ma la stabilità politica e il miglioramento del clima economico sono considerati fattori determinanti per garantire il successo di nuove collaborazioni di lungo periodo.",
   "z696334d7": "Il sostegno tecnologico degli Stati Uniti è stato un pilastro della difesa ucraina sin dall'inizio dell'invasione russa. Tuttavia, con il mutare del panorama politico a Washington, la disponibilità di queste risorse è diventata oggetto di negoziazione. La gestione privata e militare delle costellazioni satellitari pone interrogativi sulla sovranità tecnologica dei paesi coinvolti in conflitti ad alta intensità.",
@@ -17722,16 +17211,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "15 ottobre",
     "Le autorità indiane gli ordinano di lasciare il Paese entro il 28 ottobre"
-   ]
-  ],
-  "z75c4e2e8": [
-   [
-    "giorni scorsi",
-    "Intensificazione degli incendi nella provincia del Kalimantan centrale"
-   ],
-   [
-    "15 ottobre",
-    "Singapore registra il picco di inquinamento dell'anno, Timor Est chiude le scuole"
    ]
   ],
   "z660df99f": [
@@ -18058,16 +17537,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Apertura del vertice tra i leader dei Ventisette a Bruxelles con l'obiettivo di chiudere le trattative entro Natale."
    ]
   ],
-  "zc607c06e": [
-   [
-    "Inizio mese",
-    "Pressioni di diversi Paesi membri per rinegoziare i tetti di spesa comuni e gli sgravi energetici."
-   ],
-   [
-    "15 ottobre",
-    "Apertura del vertice europeo a Bruxelles incentrato su bollette, bilancio e concorrenza estera."
-   ]
-  ],
   "z50eeaa49": [
    [
     "13 ottobre",
@@ -18136,16 +17605,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "15 ottobre 2026",
     "Nuove incursioni di droni colpiscono l'esercito a Musimba nel Masisi"
-   ]
-  ],
-  "z06afeeaf": [
-   [
-    "Martedì",
-    "Intervento chirurgico al polmone destro al policlinico Gemelli"
-   ],
-   [
-    "Giorni successivi",
-    "Avvio degli esami post-operatori e ricovero del fratello maggiore"
    ]
   ],
   "z48355900": [
@@ -18300,20 +17759,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Fermo ufficiale e contestazione dei reati di terrorismo e spionaggio"
    ]
   ],
-  "z5daaed3f": [
-   [
-    "Due giorni fa",
-    "Diramazione delle allerte meteo per piogge intense sul nord-ovest della Turchia"
-   ],
-   [
-    "Ieri sera",
-    "Precipitazioni torrenziali e rapido allagamento delle arterie stradali di Istanbul"
-   ],
-   [
-    "Nelle scorse ore",
-    "Intervento delle squadre di emergenza ed evacuazione dei residenti intrappolati"
-   ]
-  ],
   "z41c7218a": [
    [
     "Settimane scorse",
@@ -18438,20 +17883,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "Oggi",
     "Cortei nel centro della capitale e duri scontri con la polizia"
-   ]
-  ],
-  "z30808747": [
-   [
-    "Giorni scorsi",
-    "Intensificazione dei raid aerei russi sui corridoi commerciali del Mar Nero"
-   ],
-   [
-    "Poche ore fa",
-    "Esplosioni e incendi a bordo di due petroliere all'ancora"
-   ],
-   [
-    "Oggi",
-    "Operazioni di soccorso della guardia costiera ed evacuazione degli equipaggi"
    ]
   ],
   "z38159b07": [
@@ -18796,26 +18227,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Divergenze nel governo sulla ratifica prima o dopo la consultazione del 29 novembre"
    ]
   ],
-  "z2d8d0dc7": [
-   [
-    "Settimane scorse",
-    "Installazione dell'accampamento di protesta per il diritto all'alloggio a Porto"
-   ],
-   [
-    "Giovedì all'alba",
-    "Intervento delle forze dell'ordine e sgombero con decine di manifestanti feriti"
-   ]
-  ],
-  "zcc246a78": [
-   [
-    "Nei mesi scorsi",
-    "Serie di cortei pacifici studenteschi contro la corruzione nelle istituzioni"
-   ],
-   [
-    "Oggi",
-    "Inasprimento delle dimostrazioni con il degenerare in scontri e la richiesta di dimissioni dell'esecutivo"
-   ]
-  ],
   "z154d26fb": [
    [
     "Primo giorno",
@@ -18962,20 +18373,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Raggiungimento del quarto anno di ostilità continuate"
    ]
   ],
-  "z6397b8f1": [
-   [
-    "2012",
-    "Inizio del progetto del ponte stradale Cina-Corea del Nord"
-   ],
-   [
-    "Settembre 2024",
-    "Inaugurazione del nuovo collegamento tra Russia e Corea del Nord"
-   ],
-   [
-    "Ottobre 2024",
-    "Apertura ufficiale del ponte dopo 12 anni di ritardo"
-   ]
-  ],
   "zce8c11a5": [
    [
     "2022",
@@ -19044,16 +18441,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Primo sciopero nazionale con mobilitazioni massicce in tutto il Paese"
    ]
   ],
-  "zeb2d69b9": [
-   [
-    "Martedì pomeriggio",
-    "Il Papa viene sottoposto a chirurgia polmonare videoassistita"
-   ],
-   [
-    "Mercoledì mattina",
-    "Il pontefice si sveglia e fa colazione dopo una notte positiva"
-   ]
-  ],
   "z541da570": [
    [
     "Ottobre 2026",
@@ -19092,16 +18479,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "13 ottobre 2026",
     "Firma a Parigi della dichiarazione d'intento sulla cooperazione militare"
-   ]
-  ],
-  "zed737dba": [
-   [
-    "Settembre 2024",
-    "Aumento degli attacchi ucraini contro basi aeree russe"
-   ],
-   [
-    "15 ottobre 2026",
-    "Attacco alla base di Borisoglebsk con distruzione di sei Su-34M"
    ]
   ],
   "zd83414d2": [
@@ -19570,13 +18947,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Seul",
    "p": [
     "South Korea"
-   ],
-   "pt": []
-  },
-  "z75c4e2e8": {
-   "n": "Palangka Raya",
-   "p": [
-    "Indonesia"
    ],
    "pt": []
   },
@@ -20121,13 +19491,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zcad47b22": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z9bbea3a7": {
    "n": "Bruxelles",
    "p": [
@@ -20523,13 +19886,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zad2531c8": {
-   "n": "Manchester",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "zdf64eaad": {
    "n": "Tagikistan",
    "p": [
@@ -20773,13 +20129,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z0af54dff": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "ze36488bb": {
    "n": "Roma",
    "p": [
@@ -20812,13 +20161,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Rabat",
    "p": [
     "Morocco"
-   ],
-   "pt": []
-  },
-  "zc607c06e": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -20996,13 +20338,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z5daaed3f": {
-   "n": "Istanbul",
-   "p": [
-    "Turkey"
-   ],
-   "pt": []
-  },
   "zad3a820f": {
    "n": "La Plata",
    "p": [
@@ -21035,13 +20370,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Uvira",
    "p": [
     "Dem. Rep. Congo"
-   ],
-   "pt": []
-  },
-  "z06afeeaf": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -21703,13 +21031,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z30808747": {
-   "n": "Mar Nero",
-   "p": [
-    "Romania"
-   ],
-   "pt": []
-  },
   "za9154c29": {
    "n": "Utrecht",
    "p": [
@@ -21907,13 +21228,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Londra",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "z5c12608e": {
-   "n": "San Salvador",
-   "p": [
-    "El Salvador"
    ],
    "pt": []
   },
@@ -22145,13 +21459,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Prachin Buri",
    "p": [
     "Thailand"
-   ],
-   "pt": []
-  },
-  "z5f7e1f29": {
-   "n": "Stoccolma",
-   "p": [
-    "Sweden"
    ],
    "pt": []
   },
@@ -22492,13 +21799,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "pt": []
   },
   "z0e3f4a0f": {
-   "n": "Praga",
-   "p": [
-    "Czechia"
-   ],
-   "pt": []
-  },
-  "zb87b4fb8": {
    "n": "Praga",
    "p": [
     "Czechia"
@@ -22982,24 +22282,10 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z2d8d0dc7": {
-   "n": "Porto",
-   "p": [
-    "Portugal"
-   ],
-   "pt": []
-  },
   "zddeb8beb": {
    "n": "Moita-Palmela",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "zcc246a78": {
-   "n": "Albania",
-   "p": [
-    "Albania"
    ],
    "pt": []
   },
@@ -23063,13 +22349,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Stoccolma",
    "p": [
     "Sweden"
-   ],
-   "pt": []
-  },
-  "z6397b8f1": {
-   "n": "Dandong",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -23252,20 +22531,8 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zeb2d69b9": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
   "zc775dc85": {
    "n": "Santa Cruz de la Sierra",
-   "p": [
-    "Bolivia"
-   ],
-   "pt": []
-  },
-  "za59355d2": {
-   "n": "Bolivia",
    "p": [
     "Bolivia"
    ],
@@ -23402,13 +22669,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z9b1d7ac9": {
-   "n": "Camerun",
-   "p": [
-    "Cameroon"
-   ],
-   "pt": []
-  },
   "z762886e9": {
    "n": "Smirne",
    "p": [
@@ -23434,13 +22694,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Cotonou",
    "p": [
     "Benin"
-   ],
-   "pt": []
-  },
-  "zed737dba": {
-   "n": "Voronezh",
-   "p": [
-    "Russia"
    ],
    "pt": []
   },
@@ -23991,7 +23244,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z18ad243f": 2,
   "zbd6895c3": 2,
   "zfdff548c": 2,
-  "z75c4e2e8": 1,
   "z660df99f": 2,
   "z9597a6f0": 1,
   "z2a45e88b": 2,
@@ -24092,7 +23344,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "ze203c364": 1,
   "z7739079d": 1,
   "z773c1815": 1,
-  "zcad47b22": 1,
   "z9bbea3a7": 2,
   "ze0c17fd7": 1,
   "z1e35b69d": 1,
@@ -24150,7 +23401,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z9181f718": 1,
   "zcb4b61de": 1,
   "zcf7ce630": 1,
-  "zad2531c8": 1,
   "zdf64eaad": 1,
   "z2dadc3bf": 1,
   "z3c13cbbf": 1,
@@ -24186,13 +23436,11 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z96650d41": 1,
   "z804ae9a9": 1,
   "z55b7b037": 1,
-  "z0af54dff": 1,
   "ze36488bb": 1,
   "z501a3455": 1,
   "z47a321b7": 1,
   "zb2388637": 1,
   "z81de2478": 1,
-  "zc607c06e": 2,
   "z2c2b1d0d": 1,
   "z7d4e4795": 1,
   "zd24cfddf": 1,
@@ -24218,13 +23466,11 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z5a98f1ed": 2,
   "za3e0dc8e": 1,
   "z4d682aca": 1,
-  "z5daaed3f": 2,
   "zad3a820f": 1,
   "z56a0b1bb": 1,
   "z43eacf80": 1,
   "z065290e8": 1,
   "z87556cdb": 1,
-  "z06afeeaf": 1,
   "z48355900": 2,
   "zc512577c": 1,
   "zbb5d12c6": 1,
@@ -24317,7 +23563,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z41f7424d": 1,
   "z86f1a9a6": 1,
   "z08adc5c7": 1,
-  "z30808747": 2,
   "za9154c29": 1,
   "z8d818936": 1,
   "z6f378b85": 1,
@@ -24346,7 +23591,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z6c20aa49": 1,
   "zfb91b3ca": 1,
   "z845077f9": 1,
-  "z5c12608e": 1,
   "z02984737": 1,
   "z2dd586ae": 1,
   "z0e3494d4": 1,
@@ -24380,7 +23624,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zf98c5db4": 2,
   "z61b58298": 1,
   "zb0f13562": 2,
-  "z5f7e1f29": 1,
   "z29f82b62": 1,
   "zdf15d138": 1,
   "zd5b719b7": 1,
@@ -24430,7 +23673,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z656b9afa": 2,
   "zc33803a1": 2,
   "z0e3f4a0f": 1,
-  "zb87b4fb8": 1,
   "zb46a9962": 1,
   "z42617727": 1,
   "z2725ecbb": 1,
@@ -24500,9 +23742,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zc5bcf039": 2,
   "z1ffe8eee": 2,
   "z181077c5": 1,
-  "z2d8d0dc7": 2,
   "zddeb8beb": 1,
-  "zcc246a78": 2,
   "zb2b4e8a8": 1,
   "zcc3cb7dd": 1,
   "z3d0151d9": 2,
@@ -24512,7 +23752,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z5183fd93": 1,
   "z0ad41126": 2,
   "z3f11da0f": 1,
-  "z6397b8f1": 2,
   "zce8c11a5": 2,
   "z9d0544c8": 1,
   "z4d8f37fb": 1,
@@ -24538,9 +23777,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "za10a97a9": 1,
   "z1ecdfd4f": 1,
   "z10e313af": 2,
-  "zeb2d69b9": 2,
   "zc775dc85": 1,
-  "za59355d2": 1,
   "zffbe760a": 1,
   "zbc375658": 1,
   "zb73cbc01": 1,
@@ -24560,12 +23797,10 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z26bb5dee": 1,
   "z15ae7adb": 1,
   "zf5a05b59": 2,
-  "z9b1d7ac9": 1,
   "z762886e9": 1,
   "zf51f0023": 1,
   "z3254faeb": 1,
   "zbba06752": 1,
-  "zed737dba": 2,
   "zda26e905": 1,
   "zd83414d2": 2,
   "z577baaf6": 1,
