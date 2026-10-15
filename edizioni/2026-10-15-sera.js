@@ -438,7 +438,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "zf6cadccb",
-   "sez": "cultura",
+   "sez": "cucina",
    "titolo": "KFC Giappone lancia il suo primo hamburger di pollo fritto con carne di coscia dopo 43 anni",
    "orig": "KFC Japan releases its first thigh-meat fried chicken burger in 43 years, but was it worth the wait?",
    "lead": "La catena di fast food KFC in Giappone ha introdotto nel proprio menu un nuovo trancio di pollo fritto realizzato con carne di coscia a distanza di oltre quattro decenni dall'ultima volta in cui un simile prodotto era stato commercializzato. Lo riferisce SoraNews24.",
@@ -660,30 +660,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z3efc23a6",
-   "sez": "mondo",
-   "titolo": "Israele: merci commerciali non più in ingresso a Gaza dopo lo stop al coordinamento dei mercanti",
-   "orig": "Israel says commercial goods no longer entering Gaza after merchants suspend coordination",
-   "lead": "Le autorità israeliane hanno comunicato che le merci commerciali hanno smesso di entrare nella Striscia di Gaza a causa dell'interruzione dei collegamenti e della sospensione del coordinamento logistico da parte dei commercianti locali in polemica con Hamas per questioni fiscali. Questa interruzione blocca una fonte essenziale di generi alimentari e beni di prima necessità per la popolazione del territorio palestinese, la cui sopravvivenza dipende in gran parte dagli aiuti umanitari. Lo riferisce The Straits Times.",
-   "more": [
-    "La Striscia di Gaza si trova da tempo in una situazione di grave emergenza umanitaria, in cui l'accesso limitato e discontinuo di beni commerciali e aiuti internazionali alimenta la vulnerabilità e la dipendenza della popolazione civile locale dalle forniture esterne."
-   ],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/middle-east/israel-says-commercial-goods-no-longer-entering-gaza-after-merchants-suspend-coordination",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-15T23:56+08:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "18:03",
-   "uscita": "17"
-  },
-  {
    "id": "z29b291a4",
    "sez": "mondo",
    "titolo": "Ucraina: l'Italia fuori dai negoziati e il dibattito interno al Partito Democratico",
@@ -773,30 +749,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-10-15T16:00+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "18:03",
-   "uscita": "17"
-  },
-  {
-   "id": "z860d2b44",
-   "sez": "mondo",
-   "titolo": "Anthropic: ricavi del terzo trimestre in crescita del 45% a 16,8 miliardi di dollari",
-   "orig": "Tyle zarabia Anthropic. Firma ujawniła wyniki",
-   "lead": "La società Anthropic ha comunicato ai potenziali investitori i propri risultati finanziari in vista della quotazione in borsa, registrando nel terzo trimestre un incremento dei ricavi pari al 45%, che si attestano a 16,8 miliardi di dollari. L'annuncio arriva in un momento in cui gli investitori manifestano una crescente attenzione e cautela nei confronti dei costi elevati associati allo sviluppo dell'intelligenza artificiale. Lo riferisce TVN24.",
-   "more": [
-    "Anthropic è una delle aziende leader nel settore dello sviluppo di modelli avanzati di intelligenza artificiale generativa, un mercato caratterizzato da investimenti multimiliardari e da una forte competizione globale per la supremazia tecnologica."
-   ],
-   "fonti": [
-    {
-     "n": "TVN24",
-     "p": "XX",
-     "c": "Varsavia",
-     "u": "https://tvn24.pl/biznes/tech/tyle-zarabia-anthropic-firma-ujawnila-wyniki-przed-debiutem-gieldowym-st9288243?source=rss",
-     "angolo": "",
-     "atlas": "Poland",
-     "t": "2026-10-15T15:57+00:00"
     }
    ],
    "data": "15 ott",
@@ -2398,6 +2350,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Denmark",
      "t": "2026-10-15T14:24+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/middle-east/israel-says-commercial-goods-no-longer-entering-gaza-after-merchants-suspend-coordination",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T23:56+08:00"
     }
    ],
    "data": "15 ott",
@@ -9514,7 +9475,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z77461dd0",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "A Maio i lavori per la dissalatrice agricola restano incompleti due anni dopo l'inizio",
    "orig": "Maio: Obra da dessalinizadora de água para agricultura continua por concluir dois anos após lançamento",
    "lead": "A Maio, nelle isole di Capo Verde, i lavori per la costruzione di un impianto di dissalazione dell'acqua destinata all'agricoltura restano incompiuti quasi due anni dopo il loro avvio, avvenuto nel settembre 2024 sotto il precedente governo e affidato all'impresa Água de Rega. Il cantiere, che doveva durare otto mesi, non è ancora terminato, mentre gli agricoltori continuano ad affrontare difficoltà nell'accesso all'acqua per l'irrigazione. Il contadino Ineuss Ribeiro, della località di Figueira, ha dichiarato a Inforpress che l'attività agricola è stata compromessa dai ritardi. Lo riferisce Expresso das Ilhas.",
@@ -11515,7 +11476,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "ze711580c",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Vent'anni fa chiudeva il CBGB, locale simbolo del punk newyorkese",
    "orig": "Il locale simbolo del punk newyorkese",
    "lead": "Vent'anni fa chiudeva il CBGB di New York, il club dove avevano cominciato a suonare gruppi diventati fondamentali per la storia della musica come i Ramones, i Television e i Talking Heads, insieme a molti altri. Il locale era diventato negli anni Settanta un punto di riferimento della scena punk e new wave statunitense, lanciando artisti che avrebbero influenzato il rock dei decenni successivi. Lo riferisce Il Post.",
@@ -11755,7 +11716,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "zd28f9197",
-   "sez": "salute",
+   "sez": "economia",
    "titolo": "La menopausa è diventata un business da 535 miliardi di euro",
    "orig": "Menopause is a biological transition that's become a lucrative consumer business",
    "lead": "La menopausa, a lungo relegata alla sfera privata, è oggi al centro di un'attenzione senza precedenti sia mediatica sia commerciale, con un mercato che vale 535 miliardi di euro (circa 600 miliardi di dollari). Libri, podcast, documentari, applicazioni digitali, integratori alimentari e programmi di coaching si moltiplicano per accompagnare le donne in questa fase della vita. Quello che un tempo era un tabù è diventato un settore economico in forte espansione. Lo riferisce Medical Xpress.",
@@ -12447,7 +12408,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "zea37d06b",
-   "sez": "cultura",
+   "sez": "tech",
    "titolo": "«Se vuoi resto qui con te»: il saggio che racconta il grande inganno dell'intelligenza artificiale",
    "orig": "«Se vuoi resto qui con te». Il grande inganno dell’AI, tra sentimenti simulati e pensiero delegato",
    "lead": "Nel saggio \"Il grande inganno dell'AI\", la giornalista Martina Pennisi analizza le illusioni che accompagnano il rapporto tra persone e intelligenza artificiale, dalla simulazione dell'empatia da parte dei chatbot all'apparente neutralità dei loro output, fino al rischio di delegare alle macchine anche la capacità di pensare. Lo riferisce la Repubblica.",
@@ -18327,6 +18288,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "u": "https://www.koreaherald.com/article/10904173",
      "angolo": "",
      "atlas": "South Korea"
+    },
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/tech/tyle-zarabia-anthropic-firma-ujawnila-wyniki-przed-debiutem-gieldowym-st9288243?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T15:57+00:00"
     }
    ],
    "data": "15 ott",
@@ -34477,12 +34447,10 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z9acc9275": "La testata nigeriana pone l'accento sulle tensioni e sulle richieste di trasparenza rivolte ai vertici del calcio internazionale.",
   "z97fd2978": "Il quotidiano indiano sottolinea l'impatto negativo dei blocchi amministrativi sui dipendenti e sulle istituzioni universitarie nazionali.",
   "zc2a9ec4d": "Il giornale nepalese evidenzia le ripercussioni politiche interne provocate dal blocco delle nomine diplomatiche.",
-  "z3efc23a6": "Il quotidiano di Singapore evidenzia la criticità dell'interruzione dei flussi commerciali e alimentari verso l'enclave palestinese.",
   "z29b291a4": "Il quotidiano italiano analizza la posizione geopolitica del Paese e le divisioni dell'opposizione sulla politica estera.",
   "zecf7f792": "L'emittente bosniaca pone l'attenzione sulla ripresa dei servizi pubblici essenziali e sui dubbi legati alle bollette per i cittadini.",
   "zfdd9dd4e": "Il quotidiano bahamense mette in evidenza la polemica contabile sulla sostenibilità dei conti pubblici e dell'avanzo stimato.",
   "z1b02b987": "Il quotidiano svizzero critica la lentezza delle contromisure tedesche rispetto alle minacce ibride ed energetiche.",
-  "z860d2b44": "L'emittente polacca evidenzia i dati economici della società hi-tech in vista del suo debutto sui mercati finanziari.",
   "z472b8a65": "La testata polacca evidenzia la vulnerabilità della difesa aerea ucraina di fronte ai bombardamenti russi più recenti, riprendendo le rivelazioni della CNN.",
   "z6029b54e": "La testata di Varsavia pone l'accento sulle tensioni istituzionali interne e sulle conseguenze della gestione presidenziale della politica estera.",
   "z7d24a0fb": "La testata brasiliana celebra il talento del cast e l'impronta registica pungente della nuova pellicola presentata nel panorama internazionale.",
@@ -45160,13 +45128,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z3efc23a6": {
-   "n": "Gerusalemme",
-   "p": [
-    "Israel"
-   ],
-   "pt": []
-  },
   "z29b291a4": {
    "n": "Roma",
    "p": [
@@ -45192,13 +45153,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Berlino",
    "p": [
     "Germany"
-   ],
-   "pt": []
-  },
-  "z860d2b44": {
-   "n": "Varsavia",
-   "p": [
-    "Poland"
    ],
    "pt": []
   },
@@ -46598,12 +46552,10 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z9acc9275": 1,
   "z97fd2978": 1,
   "zc2a9ec4d": 1,
-  "z3efc23a6": 1,
   "z29b291a4": 1,
   "zecf7f792": 1,
   "zfdd9dd4e": 1,
   "z1b02b987": 1,
-  "z860d2b44": 1,
   "z472b8a65": 2,
   "z6029b54e": 1,
   "z7d24a0fb": 1,
