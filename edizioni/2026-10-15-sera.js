@@ -959,7 +959,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z7c19c7f8",
-   "sez": "ambiente",
+   "sez": "mondo",
    "titolo": "Haiti: allarme per la vendita di carburante pericoloso per i motori",
    "orig": "Haïti - FLASH : Vente officielle dans les stations services d'un carburant dangereux pour les véhicules",
    "lead": "Edouard L. Paultre, dell'organizzazione Ensemble Contre La Corruption, ha denunciato la commercializzazione di prodotti petroliferi pericolosi per i veicoli nelle stazioni di servizio haitiane. Secondo quanto riferito, all'inizio di settembre 2026 una nave avrebbe scaricato una cargaison al terminal di Varreux senza i dovuti controlli di qualità. Questo carburante, privo di garanzie tecniche, viene ora distribuito ufficialmente, mettendo a rischio l'integrità dei motori della popolazione. La denuncia evidenzia una grave lacuna nella vigilanza sulle importazioni energetiche e richiama l'attenzione sulle possibili conseguenze economiche e meccaniche per gli utenti. Lo riferisce Haïti Libre.",
@@ -1126,30 +1126,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z8ff4a4ce",
-   "sez": "economia",
-   "titolo": "Il Giappone avverte il G20 sulla necessità di monitorare i cambi",
-   "orig": "Japan tells G20 must watch FX moves with high sense of urgency",
-   "lead": "Durante l'incontro del G20, il Giappone ha sollecitato i paesi membri a monitorare con estrema urgenza i movimenti dei tassi di cambio. Il ministro delle finanze nipponico ha sottolineato come la volatilità dei mercati valutari richieda un'attenzione costante per evitare instabilità economica globale. La posizione espressa riflette le preoccupazioni di Tokyo riguardo alle fluttuazioni improvvise che potrebbero influenzare le bilance commerciali e la stabilità finanziaria internazionale. Lo riferisce CNA.",
-   "more": [
-    "Il G20 è un foro internazionale che riunisce le principali economie del mondo, incluse nazioni industrializzate e mercati emergenti, per discutere temi di stabilità finanziaria e cooperazione economica. Il monitoraggio dei tassi di cambio è fondamentale per prevenire squilibri competitivi e garantire una crescita sostenibile tra i partner commerciali globali."
-   ],
-   "fonti": [
-    {
-     "n": "CNA",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.channelnewsasia.com/business/japan-tells-g20-must-watch-fx-moves-high-sense-urgency-6462726",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-15T21:32+08:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:55",
-   "uscita": "17"
-  },
-  {
    "id": "zd5570e78",
    "sez": "mondo",
    "titolo": "Le milizie Huthi attaccano la sede del governo nello Yemen",
@@ -1247,7 +1223,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z44fc5bf1",
-   "sez": "economia",
+   "sez": "organizzazioni",
    "titolo": "Gli USA premono sull'FMI per sostituire il termine AI con superintelligenza",
    "orig": "‘인공지능 대신 슈퍼지능 써라’…미 압박에 IMF 회원국들 ‘떨떠름’",
    "lead": "Gli Stati Uniti stanno esercitando pressioni sui paesi membri del Fondo Monetario Internazionale affinché adottino il termine \"superintelligenza\" in sostituzione di \"intelligenza artificiale\" nei documenti ufficiali. La proposta americana ha suscitato perplessità e freddezza tra le altre nazioni partecipanti, che si mostrano riluttanti ad accettare questo cambio terminologico. La questione solleva interrogativi sulle definizioni tecnologiche globali e sull'influenza politica esercitata da Washington all'interno delle istituzioni finanziarie internazionali. Lo riferisce The Hankyoreh.",
@@ -1377,6 +1353,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "u": "https://asia.nikkei.com/business/markets/japan-finance-minister-g20-concerned-over-yields-fx-volatility",
      "angolo": "",
      "atlas": "Japan"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/japan-tells-g20-must-watch-fx-moves-high-sense-urgency-6462726",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T21:32+08:00"
     }
    ],
    "data": "",
@@ -1421,29 +1406,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "p": "XX",
      "c": "Tokyo",
      "u": "https://asia.nikkei.com/business/automobiles/electric-vehicles/vinfast-linked-green-sm-enters-us-with-los-angeles-taxi-launch",
-     "angolo": "",
-     "atlas": "Japan"
-    }
-   ],
-   "data": "",
-   "ora": "17:55",
-   "uscita": "17"
-  },
-  {
-   "id": "z4f5d3ae6",
-   "sez": "mondo",
-   "titolo": "Cina e Corea del Nord: nuovo ponte per potenziare gli scambi",
-   "orig": "China-North Korea traffic to increase with new bridge opening",
-   "lead": "L'apertura di un nuovo ponte tra Cina e Corea del Nord è destinata a incrementare sensibilmente il traffico e gli scambi commerciali tra i due Paesi. L'infrastruttura di collegamento transfrontaliero facilita il transito di merci e persone, segnando un rafforzamento dei legami logistici ed economici lungo la frontiera. Il completamento di questa opera rappresenta un passaggio chiave per la cooperazione regionale e per la gestione dei flussi mercantili in quest'area geografica altamente strategica. Lo riferisce Nikkei Asia.",
-   "more": [
-    "I ponti transfrontalieri tra Cina e Corea del Nord sono snodi vitali per l'economia nordcoreana, che dipende fortemente dal commercio con il vicino cinese. Queste infrastrutture hanno un profondo valore economico e simboleggiano la stabilità delle relazioni diplomatiche e il controllo coordinato delle frontiere terrestri tra le due nazioni."
-   ],
-   "fonti": [
-    {
-     "n": "Nikkei Asia",
-     "p": "XX",
-     "c": "Tokyo",
-     "u": "https://asia.nikkei.com/politics/international-relations/china-north-korea-traffic-to-increase-with-new-bridge-opening",
      "angolo": "",
      "atlas": "Japan"
     }
@@ -2180,30 +2142,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zb1dc7454",
-   "sez": "salute",
-   "titolo": "Nuovo farmaco contro il cancro riceve approvazione rapida in Europa",
-   "orig": "Arzneimittel: Neues Krebsmedikament erhält schnelle Zulassung",
-   "lead": "Daraxonrasib, un nuovo principio attivo contro il tumore del pancreas, ha ottenuto il via libera dall'agenzia europea dei medicinali. L'ente regolatore ha utilizzato una procedura di valutazione accelerata, simile a quella impiegata per i vaccini contro il Covid, per consentire un accesso più rapido al farmaco. Lo riferisce Süddeutsche Zeitung.",
-   "more": [
-    "Il tumore al pancreas è tra le forme di cancro più aggressive e con prognosi spesso sfavorevole, per cui nuovi trattamenti sono considerati particolarmente rilevanti. Le procedure accelerate permettono alle agenzie regolatorie di autorizzare farmaci promettenti in tempi più brevi del normale."
-   ],
-   "fonti": [
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/gesundheit/bauchspeicheldruesenkrebs-daraxonrasib-krebsmedikament-ema-europa-li.3564057",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-15T14:41+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:48",
-   "uscita": "17"
-  },
-  {
    "id": "zbcd56109",
    "sez": "mondo",
    "titolo": "Vertice UE a Bruxelles: la ricerca dell'asino d'oro per finanziare il bilancio",
@@ -2300,30 +2238,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z012e7c08",
-   "sez": "mondo",
-   "titolo": "Katie Zacharia: come la nuova portavoce di Trump ha inciampato nel suo debutto",
-   "orig": "Katie Zacharia: Wie Trumps neue Sprecherin ihr Debüt verstolpert hat",
-   "lead": "Poco dopo aver assunto l'incarico, Katie Zacharia, nuova portavoce del presidente statunitense Donald Trump, ha scatenato un caso mediatico. Sulla sua figura si sono subito sollevate domande riguardanti il suo curriculum. Lo riferisce FAZ.",
-   "more": [
-    "Il ruolo di portavoce della Casa Bianca è una delle posizioni più esposte mediaticamente negli Stati Uniti, spesso oggetto di scrutinio da parte della stampa su esperienza e trasparenza dei titolari dell'incarico."
-   ],
-   "fonti": [
-    {
-     "n": "FAZ",
-     "p": "DE",
-     "c": "Francoforte",
-     "u": "https://www.faz.net/aktuell/politik/usa-unter-trump/katie-zacharia-wie-trumps-sprecherin-ihr-debuet-verstolpert-hat-201339824.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-15T13:36+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:48",
-   "uscita": "17"
-  },
-  {
    "id": "z59d67ca9",
    "sez": "mondo",
    "titolo": "Pornografia generata con l'IA online: «Ho dichiarato guerra agli squilibrati»",
@@ -2365,30 +2279,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-15T14:54+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:48",
-   "uscita": "17"
-  },
-  {
-   "id": "z8bc2cda0",
-   "sez": "mondo",
-   "titolo": "Le autorità del tempo decidono che orologi atomici e astronomici seguiranno strade diverse",
-   "orig": "Las autoridades del tiempo deciden que los relojes atómicos y los astronómicos vayan cada uno por su lado",
-   "lead": "A partire dal prossimo anno non verrà più aggiunto il secondo bisestile per sincronizzare gli orologi atomici con la rotazione terrestre. Lo scarto tra il tempo misurato dagli orologi atomici e quello determinato dalla rotazione irregolare della Terra verrà risolto solo quando la differenza si avvicinerà a un'ora, fra diversi secoli. Lo riferisce El País.",
-   "more": [
-    "Il secondo bisestile è una correzione periodica che finora ha permesso di mantenere allineati il tempo civile, basato su orologi atomici estremamente precisi, e il tempo astronomico, legato alla rotazione della Terra, che non è perfettamente costante."
-   ],
-   "fonti": [
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/ciencia/2026-10-15/las-autoridades-del-tiempo-deciden-que-los-relojes-atomicos-y-los-astronomicos-vayan-cada-uno-por-su-lado.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-15T14:13+00:00"
     }
    ],
    "data": "15 ott",
@@ -3317,30 +3207,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zbd62c1fb",
-   "sez": "economia",
-   "titolo": "I titoli tecnologici legati all'IA affondano e trascinano le borse mondiali",
-   "orig": "Acciones tecnológicas ligadas a la IA se derrumban y arrastran una vez más a las bolsas mundiales",
-   "lead": "I titoli tecnologici legati all'intelligenza artificiale sono crollati, trascinando ancora una volta al ribasso le borse mondiali. La Borsa di Seoul, in Corea del Sud, ha registrato un tonfo del 7%, mentre Wall Street mostra ribassi superiori all'1% nelle contrattazioni premarket. Lo riferisce La Tercera.",
-   "more": [
-    "Negli ultimi mesi i mercati finanziari hanno premiato fortemente le aziende legate all'intelligenza artificiale, alimentando timori di una bolla speculativa; eventuali correzioni dei titoli tech tendono a propagarsi rapidamente sulle principali piazze finanziarie mondiali."
-   ],
-   "fonti": [
-    {
-     "n": "La Tercera",
-     "p": "XX",
-     "c": "Santiago",
-     "u": "https://www.latercera.com/pulso/noticia/fuerte-caida-de-las-acciones-tecnologicas/",
-     "angolo": "",
-     "atlas": "Chile",
-     "t": "2026-10-15T14:52+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:48",
-   "uscita": "17"
-  },
-  {
    "id": "z8288a68b",
    "sez": "economia",
    "titolo": "Bilancio 2027 del Chile: i fondi per lavoro e formazione crollano di quasi il 40%",
@@ -3574,30 +3440,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Venezuela",
      "t": "2026-10-15T15:17+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:48",
-   "uscita": "17"
-  },
-  {
-   "id": "z06eac9b0",
-   "sez": "mondo",
-   "titolo": "Il Chile annuncia l'apertura dei suoi consolati a Caracas e Puerto Ordaz",
-   "orig": "Chile anuncia apertura de sus consulados en Caracas y Puerto Ordaz",
-   "lead": "Il Chile ha annunciato l'apertura dei suoi consolati a Caracas e Puerto Ordaz, in Venezuela. Gli uffici consolari inizieranno a operare lunedì prossimo con la consegna di passaporti ai cittadini cileni residenti nel Paese e sarà attivata la possibilità di prenotare altri servizi consolari. Lo riferisce El Nacional.",
-   "more": [
-    "Le relazioni diplomatiche tra Chile e Venezuela hanno conosciuto negli ultimi anni fasi di tensione; la riapertura di sedi consolari rappresenta generalmente un segnale di normalizzazione dei rapporti bilaterali e un servizio concreto per i cittadini residenti all'estero."
-   ],
-   "fonti": [
-    {
-     "n": "El Nacional",
-     "p": "XX",
-     "c": "Caracas",
-     "u": "https://www.elnacional.com/2026/10/chile-anuncia-apertura-de-sus-consulados-en-caracas-y-puerto-ordaz/",
-     "angolo": "",
-     "atlas": "Venezuela",
-     "t": "2026-10-15T14:51+00:00"
     }
    ],
    "data": "15 ott",
@@ -4817,20 +4659,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Albania",
      "t": "2026-10-15T14:56+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:44",
-   "uscita": "17"
-  },
-  {
-   "id": "z8d668f92",
-   "sez": "mondo",
-   "titolo": "Manifestanti sfondano porte e vetrate di una banca a Tirana, documenti gettati fuori",
-   "orig": "Protestuesit thyejnë dyert dhe xhamat e një banke në Tiranë, nxjerrin dokumentet jashtë (VIDEO)",
-   "lead": "Durante le proteste in corso a Tirana, un gruppo di manifestanti posizionato in via Elbasan ha rotto porte e vetrate di una banca privata, entrando nell'edificio e gettando fuori carte e documenti. L'episodio si inserisce in una giornata di tensione nella capitale albanese, con la protesta che si è spostata in diverse zone della città dopo essere partita in via Durazzo. Lo riferisce Euronews Albania.",
-   "more": [],
-   "fonti": [
+    },
     {
      "n": "Euronews Albania",
      "p": "XX",
@@ -6195,30 +6024,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z472aa658",
-   "sez": "mondo",
-   "titolo": "Aziende turche dietro progetti minerari controversi nominate partner della COP31",
-   "orig": "Turkish firms behind controversial mining, development projects named COP31 partners",
-   "lead": "Diversi grandi gruppi turchi legati a progetti controversi di estrazione del carbone, cave e sviluppo costiero sono stati indicati come sostenitori del clima o partner operativi della COP31 dalla presidenza turca del summit, secondo quanto riportato mercoledì dal sito BirGün. Limak Holding, IC Holding e Sinpaş sono elencati come 'sostenitori del clima' in vista della conferenza ONU sul clima che si terrà il mese prossimo ad Antalya. Lo riferisce Turkish Minute.",
-   "more": [
-    "La COP31 è la conferenza delle Nazioni Unite sui cambiamenti climatici; la scelta dei partner industriali di un summit ambientale è spesso controversa quando coinvolge aziende attive in settori ad alto impatto ambientale come l'estrazione mineraria."
-   ],
-   "fonti": [
-    {
-     "n": "Turkish Minute",
-     "p": "XX",
-     "c": "Istanbul",
-     "u": "https://www.turkishminute.com/2026/10/15/turkish-firms-behind-controversial-mining-development-projects-named-cop31-partners/",
-     "angolo": "",
-     "atlas": "Turkey",
-     "t": "2026-10-15T15:17+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:42",
-   "uscita": "17"
-  },
-  {
    "id": "z27d2b103",
    "sez": "economia",
    "titolo": "Una commissione parlamentare turca approva un disegno di legge su rimborsi e recupero beni",
@@ -6830,6 +6635,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Norway",
      "t": "2026-10-15T14:40+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/ciencia/2026-10-15/las-autoridades-del-tiempo-deciden-que-los-relojes-atomicos-y-los-astronomicos-vayan-cada-uno-por-su-lado.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-15T14:13+00:00"
     }
    ],
    "data": "15 ott",
@@ -6972,6 +6786,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-15T14:37+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/trump-esecuzione-hasan-non-in-diretta--ec2d2324-3927-4b05-aec6-353c47a3561d.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T14:50+00:00"
     }
    ],
    "data": "15 ott",
@@ -8435,30 +8258,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z9b1cbfa1",
-   "sez": "economia",
-   "titolo": "Come i deputati francesi hanno modificato il bilancio 2027: sconto per i pensionati, straordinari, bonus carburante",
-   "orig": "Abattement pour les retraités, heures supplémentaires, prime carburant… Comment les députés ont modifié le budget 2027",
-   "lead": "L'Assemblea Nazionale francese ha esaminato in questa settimana la prima parte del progetto di legge finanziaria (PLF) per il 2027, oggetto di migliaia di amendamenti. Tra le modifiche approvate figurano misure riguardanti un abbattimento fiscale per i pensionati, il trattamento degli straordinari e un premio legato al carburante. Le Figaro ricostruisce i principali emendamenti adottati nel corso delle discussioni parlamentari. Lo riferisce Le Figaro.",
-   "more": [
-    "Il progetto di legge finanziaria (PLF) è il disegno di bilancio annuale dello Stato francese, discusso ogni autunno dal Parlamento, che fissa entrate e spese pubbliche e viene spesso oggetto di intense trattative tra governo e opposizioni."
-   ],
-   "fonti": [
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/conjoncture/abattement-pour-les-retraites-heures-supplementaires-prime-carburant-comment-les-deputes-ont-modifie-le-budget-2027-20261015",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-15T17:01+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
    "id": "z4debc2cd",
    "sez": "economia",
    "titolo": "I dubbi sulle azioni delle società di intelligenza artificiale aiutano a far scendere i tassi sul debito",
@@ -8500,30 +8299,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Brazil",
      "t": "2026-10-15T15:06+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
-   "id": "zde3dced3",
-   "sez": "economia",
-   "titolo": "Milei agli imprenditori negli Stati Uniti: 'stiamo riuscendo a domare l'inflazione'",
-   "orig": "Javier Milei se presentó ante empresarios en EE.UU.: “Estamos logrando domar la inflación”",
-   "lead": "Il presidente argentino Javier Milei ha parlato alla Camera di Commercio degli Stati Uniti, affermando che il suo governo 'sta riuscendo a domare l'inflazione' dopo decenni di politiche populiste in Argentina. Nel discorso, incentrato sulla sfida della crescita economica dopo anni di populismo, Milei ha presentato i risultati del suo programma economico agli imprenditori statunitensi. Lo riferisce La Nación.",
-   "more": [
-    "Dal suo insediamento, Javier Milei ha intrapreso un drastico piano di austerità e deregolamentazione per contrastare l'alta inflazione argentina, misure che hanno diviso l'opinione pubblica tra sostenitori delle riforme e chi ne denuncia i costi sociali."
-   ],
-   "fonti": [
-    {
-     "n": "La Nación",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.lanacion.com.ar/politica/javier-milei-se-presenta-ante-empresarios-en-eeuu-nid15102026/",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-10-15T15:04+00:00"
     }
    ],
    "data": "15 ott",
@@ -8678,48 +8453,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zf1fcd14b",
-   "sez": "salute",
-   "titolo": "Papa Leone XIV, riserbo dal Gemelli dopo l'operazione al polmone",
-   "orig": "Papa, riserbo Gemelli dopo l'operazione",
-   "lead": "Prosegue il riserbo sulle condizioni di Papa Leone XIV, ricoverato al Policlinico Gemelli di Roma dopo l'operazione al polmone del 13 ottobre per un adenocarcinoma. Secondo i medici Carbone e Margaritora, il decorso procede regolarmente: la radiografia al torace ha mostrato una buona ripresa del polmone operato, i controlli di routine sono risultati nella norma e la fisioterapia ha previsto attività motorie complete. Il Pontefice ha ripreso l'attività lavorativa e ha concelebrato la messa. Il cappellano invita a pregare per lui. Lo riferiscono Rai News, El Deber e Vatican News.",
-   "more": [
-    "L'adenocarcinoma polmonare è una delle forme più comuni di cancro al polmone; la sua asportazione chirurgica, come l'intervento subito dal Papa, consiste nella rimozione della parte di polmone interessata dal tumore, seguita da un periodo di recupero e controlli regolari."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/papa-riserbo-gemelli-dopo-loperazione-85d34e0f-f368-45e6-ba3f-9a5927060116.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-14T13:00+00:00"
-    },
-    {
-     "n": "El Deber",
-     "p": "XX",
-     "c": "Santa Cruz",
-     "u": "https://eldeber.com.bo/mundo/papa-retomo-actividad-laboral-hospital-gemelli_1792072608",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-15T13:56+00:00"
-    },
-    {
-     "n": "Vatican News (italiano)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/it/papa/news/2026-10/papa-leone-xiv-gemelli-aggiornamento-salute-decorso.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-10-15T14:00+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
    "id": "z541d8421",
    "sez": "mondo",
    "titolo": "Gli Houthi lanciano missili contro il palazzo presidenziale ad Aden, in Yemen",
@@ -8764,48 +8497,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Tunisia",
      "t": "2026-10-15T15:54+01:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
-   "id": "z29550fc4",
-   "sez": "mondo",
-   "titolo": "L'Ucraina dice di aver distrutto sei aerei da guerra russi nell'aeroporto di Voronezh",
-   "orig": "Ukraine Says Missile Strike Destroyed 6 Russian Warplanes at Voronezh Airfield",
-   "lead": "L'Ucraina ha affermato di aver distrutto sei aerei militari russi con un attacco missilistico contro l'aeroporto di Voronezh, in Russia. Gli abitanti di Borisoglebsk hanno riferito di esplosioni e di un grande incendio, con fumo visibile da diverse zone della città. L'attacco si inserisce in una serie di operazioni ucraine recenti, tra cui la distruzione di un centro di addestramento per operatori di drone russi e di un centro logistico di una catena di supermercati a Kropyvnytskyi colpito da un attacco russo. Lo riferisce Moscow Times.",
-   "more": [
-    "Voronezh è una città russa situata a poca distanza dal confine con l'Ucraina, sede di installazioni militari che Kiev ha preso di mira più volte nel corso della guerra per colpire le capacità aeree russe."
-   ],
-   "fonti": [
-    {
-     "n": "Moscow Times",
-     "p": "XX",
-     "c": "Amsterdam (in esilio)",
-     "u": "https://www.themoscowtimes.com/2026/10/15/ukraine-says-missile-strike-destroyed-6-russian-warplanes-at-voronezh-airfield-a93991",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-10-15T14:59+03:00"
-    },
-    {
-     "n": "The Kyiv Independent",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://kyivindependent.com/ukrainian-special-unit-destroys-russian-drone-operator-training-center-military-intelligence-says/",
-     "angolo": "",
-     "atlas": "Ukraine",
-     "t": "2026-10-15T13:45+00:00"
-    },
-    {
-     "n": "Ukrinform",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://www.ukrinform.net/rubric-ato/4174781-russian-strike-destroys-supermarket-chains-logistics-center-in-kropyvnytskyi.html",
-     "angolo": "",
-     "atlas": "Ukraine",
-     "t": "2026-10-15T16:38+03:00"
     }
    ],
    "data": "15 ott",
@@ -9086,39 +8777,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Paraguay",
      "t": "2026-10-15T15:11+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
-   "id": "z73b71c6a",
-   "sez": "sport",
-   "titolo": "Lo stadio artico del Bodo/Glimt continua a mettere in difficoltà le grandi d'Europa",
-   "orig": "Bodo/Glimt's Arctic home continues to chill Europe’s elite",
-   "lead": "Lo stadio Aspmyra del Bodo/Glimt, situato sopra il Circolo Polare Artico, ha confermato la sua fama di uno dei campi più ostici d'Europa: mercoledì il Borussia Dortmund è diventato l'ultima vittima illustre, perdendo 1-0 in Champions League. L'impianto, con una capacità modesta di 8.270 spettatori, offre alle squadre ospiti condizioni climatiche particolari che si rivelano spesso un vantaggio per i norvegesi.",
-   "more": [
-    "Il Bodo/Glimt è un club calcistico norvegese con sede nella città artica di Bodø, noto per i risultati sorprendenti ottenuti nelle competizioni europee grazie anche alle condizioni climatiche estreme del suo stadio."
-   ],
-   "fonti": [
-    {
-     "n": "CNA",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.channelnewsasia.com/sport/bodoglimts-arctic-home-continues-chill-europes-elite-6462886",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-15T22:24+08:00"
-    },
-    {
-     "n": "Cyprus Mail",
-     "p": "XX",
-     "c": "Nicosia",
-     "u": "https://cyprus-mail.com/2026/10/15/bodo-glimts-arctic-home-continues-to-chill-europes-elite",
-     "angolo": "",
-     "atlas": "Cyprus",
-     "t": "2026-10-15T17:19+03:00"
     }
    ],
    "data": "15 ott",
@@ -9475,6 +9133,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Brazil",
      "t": "2026-10-15T12:07-03:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/usa-unter-trump/katie-zacharia-wie-trumps-sprecherin-ihr-debuet-verstolpert-hat-201339824.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T13:36+00:00"
     }
    ],
    "data": "15 ott",
@@ -9757,50 +9424,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-10-15T13:48+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
-   "id": "z3945ba53",
-   "sez": "mondo",
-   "titolo": "Trump: l'esecuzione di Hasan non sarà trasmessa in diretta",
-   "orig": "Trump: esecuzione Hasan non in diretta",
-   "lead": "Il presidente statunitense Donald Trump ha dichiarato che l'esecuzione di Hasan non sarà trasmessa in diretta, nonostante secondo lui sarebbe stata «un forte deterrente». Lo riferisce Rai News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/trump-esecuzione-hasan-non-in-diretta--ec2d2324-3927-4b05-aec6-353c47a3561d.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-15T14:50+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
-   "id": "z625f6fe9",
-   "sez": "mondo",
-   "titolo": "Il Papa sta bene e ha concelebrato la Messa, buona la ripresa del polmone operato",
-   "orig": "Papa sta bene, ha concelebrato la Messa",
-   "lead": "Il Papa sta bene e ha preso parte come concelebrante a una Messa, segno di una buona ripresa dopo l'intervento chirurgico subito al polmone. Lo riferisce Rai News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/papa-sta-bene-ha-concelebrato-la-messa-3e40ce11-9ac1-4123-b6e1-e2fb4f3c2b00.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-15T12:11+00:00"
     }
    ],
    "data": "15 ott",
@@ -10164,30 +9787,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zcb06201f",
-   "sez": "mondo",
-   "titolo": "Il presidente di El Salvador valuta un'amnistia per liberare metà dei detenuti del Paese",
-   "orig": "Претседателот на Ел Салвадор планира амнестија за да ослободи 50 отсто од затворениците во земјата",
-   "lead": "Il presidente di El Salvador, Nayib Bukele, ha lasciato intendere che potrebbe rilasciare un gran numero di detenuti arrestati nell'ambito della campagna contro le gang criminali, arrivando a un'amnistia che riguarderebbe circa il 50% della popolazione carceraria del Paese. La dichiarazione è stata riportata da Rio de Janeiro e segna una possibile svolta nella linea di estrema durezza finora seguita dal governo salvadoregno contro la criminalità organizzata. Lo riferisce MIA.",
-   "more": [
-    "Nayib Bukele è noto a livello internazionale per la sua politica di «mano dura» contro le gang criminali (maras), che ha portato a un drastico aumento della popolazione carceraria di El Salvador, suscitando critiche da parte di organizzazioni per i diritti umani."
-   ],
-   "fonti": [
-    {
-     "n": "MIA (inglese)",
-     "p": "XX",
-     "c": "Skopje",
-     "u": "https://mia.mk/story/%D0%BF%D1%80%D0%B5%D1%82%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%BE%D1%82-%D0%BD%D0%B0-%D0%B5%D0%BB-%D1%81%D0%B0%D0%BB%D0%B2%D0%B0%D0%B4%D0%BE%D1%80-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%B0-%D0%B0%D0%BC%D0%BD%D0%B5%D1%81%D1%82%D0%B8%D1%98%D0%B0-%D0%B7%D0%B0-%D0%B4%D0%B0-%D0%BE%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8-50-%D0%BE%D1%82%D1%81%D1%82%D0%BE-%D0%BE%D0%B4-%D0%B7%D0%B0%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D1%86%D0%B8%D1%82%D0%B5-%D0%B2%D0%BE-%D0%B7%D0%B5%D0%BC%D1%98%D0%B0%D1%82%D0%B0",
-     "angolo": "",
-     "atlas": "Macedonia",
-     "t": "2026-10-15T16:59+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
    "id": "z49070b46",
    "sez": "musica",
    "titolo": "La rock band macedone «Memoria» in concerto il 23 ottobre allo Jane Sandanski",
@@ -10544,30 +10143,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zaf591dcf",
-   "sez": "mondo",
-   "titolo": "I leader UE pronti a chiedere a Zelensky di moderare le critiche a Trump",
-   "orig": "‘It doesn’t always need to be said out loud’: European leaders to ask Zelensky to tone down criticism of Trump, FT reports",
-   "lead": "I leader dell'Unione Europea intendono chiedere al presidente ucraino Volodymyr Zelensky di attenuare le critiche pubbliche rivolte al presidente statunitense Donald Trump, secondo quanto riferisce il Financial Times citando fonti informate. La richiesta arriverebbe in vista di prossimi incontri diplomatici e punterebbe a preservare l'unità tra gli alleati occidentali sul sostegno a Kyiv. Le stesse fonti precisano che il messaggio non dovrebbe necessariamente essere formulato in modo esplicito o pubblico, ma trasmesso con discrezione al presidente ucraino durante i colloqui con i partner europei. Lo riferisce Meduza.",
-   "more": [
-    "Negli ultimi mesi i rapporti tra Zelensky e Trump sono stati segnati da tensioni legate alle modalità del sostegno militare ed economico all'Ucraina e alle condizioni per un eventuale negoziato con la Russia, con l'Europa impegnata a mediare tra le posizioni dei due."
-   ],
-   "fonti": [
-    {
-     "n": "Meduza",
-     "p": "XX",
-     "c": "Riga (in esilio)",
-     "u": "https://meduza.io/en/news/2026/10/15/it-doesn-t-always-need-to-be-said-out-loud-european-leaders-to-ask-zelensky-to-tone-down-criticism-of-trump-financial-times-reports",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-10-15T15:23+03:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
    "id": "zf78db366",
    "sez": "mondo",
    "titolo": "L'UE valuta restrizioni sui visti Schengen per i russi per timori di sabotaggi",
@@ -10725,30 +10300,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Nigeria",
      "t": "2026-10-15T14:07+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
-   "id": "z88a7c51e",
-   "sez": "mondo",
-   "titolo": "Sandro Marcos entra nel partito Lakas nelle Filippine",
-   "orig": "Sandro Marcos joins Lakas party | The wRap",
-   "lead": "Sandro Marcos, figura della politica filippina, ha aderito al partito Lakas, secondo quanto riportato dal bollettino quotidiano di Rappler. La notizia è stata inserita tra i principali titoli della giornata insieme ad altri aggiornamenti riguardanti il Dipartimento del Welfare Sociale e dello Sviluppo (DSWD) e Papa Leone XIV. Non vengono fornite ulteriori informazioni sulle motivazioni del passaggio di partito nel testo disponibile. Lo riferisce Rappler.",
-   "more": [
-    "Lakas-CMD è uno dei principali partiti politici filippini, storicamente legato a diverse amministrazioni del paese; i movimenti dei membri della famiglia Marcos tra partiti sono spesso seguiti con attenzione per le loro implicazioni sugli equilibri politici nazionali."
-   ],
-   "fonti": [
-    {
-     "n": "Rappler",
-     "p": "XX",
-     "c": "Manila",
-     "u": "https://www.rappler.com/video/daily-wrap/october-15-2026/",
-     "angolo": "",
-     "atlas": "Philippines",
-     "t": "2026-10-15T22:00+08:00"
     }
    ],
    "data": "15 ott",
@@ -10941,30 +10492,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Kosovo",
      "t": "2026-10-15T15:00+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
-   "id": "z2d113631",
-   "sez": "cultura",
-   "titolo": "Paul McCartney insiste sulle sue critiche al film biografico sui Beatles",
-   "orig": "Pol Makartni ne odustaje od svoje priče",
-   "lead": "Il musicista Paul McCartney continua a sostenere le proprie critiche riguardo al film biografico sui Beatles, lamentando in particolare il fatto che gli attori che interpretano i membri della band non abbiano statura simile a quella reale dei musicisti. La vicenda riguarda la rappresentazione cinematografica della storica band britannica, di cui McCartney è stato co-fondatore insieme a John Lennon, George Harrison e Ringo Starr. Lo riferisce Vijesti.",
-   "more": [
-    "Paul McCartney è uno dei membri fondatori dei Beatles, una delle band più influenti della storia della musica popolare; negli ultimi anni sono stati prodotti diversi progetti cinematografici e documentari dedicati alla storia del gruppo britannico."
-   ],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/zabava/film-tv/831620/pol-makartni-ne-odustaje-od-svoje-price",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-15T17:15+02:00"
     }
    ],
    "data": "15 ott",
@@ -12476,30 +12003,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z30950ef7",
-   "sez": "spazio",
-   "titolo": "Perché Starlink è cruciale per la guerra dei droni in Ucraina",
-   "orig": "Waarom satellietnetwerk Starlink cruciaal is voor de drone-oorlog van Oekraïne",
-   "lead": "Dopo un'interruzione durata alcuni giorni, l'Ucraina può tornare a utilizzare la rete satellitare statunitense Starlink. Mentre Mosca continua ad attaccare le centrali energetiche ucraine, Kiev riprende la propria campagna di attacchi contro l'industria petrolifera russa, in un conflitto in cui le comunicazioni satellitari si confermano decisive. Lo riferisce NRC.",
-   "more": [
-    "Starlink è il servizio di internet satellitare sviluppato da SpaceX, diventato uno strumento strategico per l'Ucraina durante il conflitto con la Russia, utilizzato per le comunicazioni militari e il coordinamento di operazioni."
-   ],
-   "fonti": [
-    {
-     "n": "NRC",
-     "p": "XX",
-     "c": "Rotterdam",
-     "u": "https://www.nrc.nl/nieuws/2026/10/15/communicatie-met-starlinknetwerk-is-weer-hersteld-voor-oekraiense-drones-kyiv-hervat-aanvallen-op-russische-olieraffinaderijen-a4939051",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-15T14:53+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:32",
-   "uscita": "17"
-  },
-  {
    "id": "zbb1444f8",
    "sez": "economia",
    "titolo": "Hong Kong prevede solo due vendite di terreni nel trimestre nonostante la ripresa immobiliare",
@@ -12589,30 +12092,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Mali",
      "t": "2026-10-15T15:13+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:32",
-   "uscita": "17"
-  },
-  {
-   "id": "z15b1daec",
-   "sez": "sport",
-   "titolo": "Eto'o attacca RFI dopo l'articolo su una nuova denuncia in Camerun",
-   "orig": "Samuel Eto’o répond sèchement à RFI après un article sur une nouvelle plainte au Cameroun",
-   "lead": "Samuel Eto'o, presidente della Federazione camerunese di calcio, ha risposto duramente su Facebook a un articolo di RFI relativo a una nuova denuncia per presunta appropriazione indebita di fondi pubblici a suo carico. Nel messaggio l'ex attaccante ha attaccato alcuni collaboratori dell'emittente francese. Lo riferisce La Nouvelle Tribune.",
-   "more": [
-    "Samuel Eto'o è un ex calciatore camerunese, tra i più noti attaccanti africani, vincitore di numerosi titoli con club europei; dal 2021 guida la federazione calcistica del suo paese ed è spesso al centro di polemiche legate alla gestione del calcio nazionale."
-   ],
-   "fonti": [
-    {
-     "n": "La Nouvelle Tribune",
-     "p": "XX",
-     "c": "Cotonou",
-     "u": "https://lanouvelletribune.info/2026/10/samuel-etoo-repond-sechement-a-rfi-apres-un-article-sur-une-nouvelle-plainte-au-cameroun/",
-     "angolo": "",
-     "atlas": "Benin",
-     "t": "2026-10-15T14:12+00:00"
     }
    ],
    "data": "15 ott",
@@ -13025,30 +12504,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-15T16:53+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zaacebaad",
-   "sez": "mondo",
-   "titolo": "Sette membri dell'equipaggio dispersi dopo un attacco con droni a una petroliera al largo della Romania",
-   "orig": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-   "lead": "Sette membri dell'equipaggio risultano dispersi dopo un attacco con droni che ha incendiato una petroliera nelle acque territoriali della Romania, nel Mar Nero. È in corso un'operazione di ricerca e soccorso, l'ultima di una serie di attacchi registrati nella zona. Lo riferisce BBC News.",
-   "more": [
-    "Il Mar Nero è da tempo teatro di attacchi e incidenti legati alla guerra tra Russia e Ucraina, che hanno coinvolto più volte navi mercantili e infrastrutture energetiche lungo le rotte verso i porti rumeni e ucraini."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-15T14:51+00:00"
     }
    ],
    "data": "15 ott",
@@ -13816,7 +13271,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "zb670e0e8",
-   "sez": "ingegneria",
+   "sez": "tech",
    "titolo": "Apple presenta HomeView, dashboard per la casa intelligente",
    "orig": "Apple consolidates smart-home capabilities in HomeView dashboard",
    "lead": "Apple ha presentato HomeView, un dispositivo con schermo da sette pollici pensato per riunire in un unico pannello le funzioni delle sue app e del software di gestione della casa intelligente, disponibile in due versioni, segnando un passo avanti nell'integrazione domestica dell'azienda. Lo riferisce Dezeen.",
@@ -13898,39 +13353,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-14T15:42+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zf910a745",
-   "sez": "mondo",
-   "titolo": "Un membro del consiglio Fifa attacca Infantino: «Dobbiamo ripartire da zero»",
-   "orig": "Fifa-styremedlem langer ut mot Infantino: – Vi må restarte alt på nytt",
-   "lead": "Gianni Infantino è stato sommerso di domande dai membri del proprio consiglio alla Fifa giovedì, con il messaggio del presidente della federazione calcistica tedesca secondo cui sarebbe necessario «rimettere in ordine tutto». Alcuni dirigenti delle federazioni europee lo ritengono «non idoneo» a guidare la Fifa dopo l'incontro.",
-   "more": [
-    "Gianni Infantino è presidente della Fifa, la federazione internazionale che governa il calcio mondiale, da diversi anni; negli ultimi tempi è stato più volte criticato dai dirigenti delle federazioni europee per la gestione dell'organizzazione."
-   ],
-   "fonti": [
-    {
-     "n": "NRK",
-     "p": "XX",
-     "c": "Oslo",
-     "u": "https://www.nrk.no/sport/flere-fifa-styremedlemmer-ut-mot-gianni-infantino_-_-vi-ma-restarte-alt-pa-nytt-1.18056044",
-     "angolo": "",
-     "atlas": "Norway",
-     "t": "2026-10-15T14:23+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/football/2026/oct/15/fifa-gianni-infantino-council",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-15T09:00+00:00"
     }
    ],
    "data": "15 ott",
@@ -14086,6 +13508,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-15T15:30+02:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/gesundheit/bauchspeicheldruesenkrebs-daraxonrasib-krebsmedikament-ema-europa-li.3564057",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T14:41+00:00"
     }
    ],
    "data": "15 ott",
@@ -14937,7 +14368,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z79bd1f45",
-   "sez": "tech",
+   "sez": "mondo",
    "titolo": "Inchiesta di Al Jazeera smonta i numeri gonfiati di un documentario israeliano",
    "orig": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
    "lead": "Un'inchiesta di Al Jazeera ha messo in dubbio le cifre di visualizzazione di un documentario israeliano prodotto come risposta al film NAZA, che secondo alcune fonti avrebbe raggiunto 40 milioni di visualizzazioni. L'analisi dei dati condotta dalla testata solleva dubbi sull'autenticità di quei numeri. Lo riferisce Al Jazeera.",
@@ -15001,30 +14432,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-15T13:13+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z8c9a16de",
-   "sez": "spazio",
-   "titolo": "I droni ucraini perdono il segnale Starlink mentre i rapporti con gli USA si tendono",
-   "orig": "Ukraine's drones lose Starlink signal as U.S. ties fray",
-   "lead": "Secondo funzionari militari ucraini, SpaceX avrebbe interrotto senza preavviso il funzionamento dei terminali Starlink di grado militare quando questi sono in movimento ad alta velocità, complicando l'uso dei droni ucraini. Marc DeVore, esperto di Chatham House, ipotizza che si tratti di un tentativo degli Stati Uniti di spingere Kyiv a sospendere gli attacchi alle infrastrutture energetiche russe. Lo riferisce The Globe and Mail.",
-   "more": [
-    "Starlink è la rete di satelliti per internet ad alta velocità gestita da SpaceX, azienda di Elon Musk, ampiamente utilizzata dalle forze armate ucraine per comunicazioni e controllo dei droni durante il conflitto con la Russia; Chatham House è un think tank britannico di politica internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/video-ukraines-drones-lose-starlink-signal-as-us-ties-fray/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-15T13:26+00:00"
     }
    ],
    "data": "15 ott",
@@ -15126,30 +14533,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z4dc55533",
-   "sez": "tech",
-   "titolo": "Reni di maiale congelati rianimati e nuovi sviluppi nel nucleare, dalla newsletter del MIT",
-   "orig": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-   "lead": "La newsletter quotidiana The Download del MIT Technology Review segnala che reni di maiale congelati a -150°C e conservati per mesi sono stati rianimati con successo, aprendo nuove prospettive per la conservazione degli organi da trapianto. La stessa edizione tratta anche sviluppi nel settore dell'energia nucleare. Lo riferisce MIT Technology Review.",
-   "more": [
-    "La crioconservazione degli organi punta a prolungare i tempi di conservazione per i trapianti, un campo di ricerca cruciale vista la scarsità di organi disponibili; gli studi su reni animali servono come base sperimentale per future applicazioni sull'uomo."
-   ],
-   "fonti": [
-    {
-     "n": "MIT Technology Review",
-     "p": "US",
-     "c": "Cambridge",
-     "u": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-15T12:10+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z992a46ea",
    "sez": "manga",
    "titolo": "Annunciato Gundam Blitz Order, primo gioco idle della saga",
@@ -15191,30 +14574,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-15T14:39+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zae109cd6",
-   "sez": "economia",
-   "titolo": "Vertice UE a Bruxelles su Cina, Ucraina e bilancio del blocco",
-   "orig": "EU summit to focus on China, Ukraine and bloc budget",
-   "lead": "I leader dell'Unione Europea si riuniscono a Bruxelles per un vertice incentrato su Cina, Ucraina e il bilancio del blocco. I capi di Stato e di governo esamineranno misure per contenere l'ampio deficit commerciale con la Cina, cercando anche di avanzare nell'accordo sul prossimo bilancio UE in vista di importanti elezioni nel 2027. Lo riferisce Deutsche Welle.",
-   "more": [
-    "I vertici del Consiglio europeo riuniscono periodicamente i capi di Stato e di governo dei Paesi membri per discutere priorità politiche ed economiche comuni; il bilancio pluriennale dell'UE definisce le risorse destinate a politiche come agricoltura, coesione e difesa per i successivi anni."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-15T14:37+00:00"
     }
    ],
    "data": "15 ott",
@@ -15853,7 +15212,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z6cb03903",
-   "sez": "cultura",
+   "sez": "mondo",
    "titolo": "Alla caccia di tesori in un negozio dell'usato a Kanagawa per 1.000 yen",
    "orig": "We hunt for treasure at an all-you-can-stuff Kanagawa secondhand shop for just 1,000 yen",
    "lead": "Un giornalista di SoraNews24 ha visitato un negozio di seconda mano a Kanagawa, in Giappone, dove è possibile riempire un cestino con qualsiasi oggetto per una cifra fissa di 1.000 yen, dai kimono agli utensili da cucina, dai gadget ai prodotti per la pulizia. Il reporter ha provato a riempire il cestino al massimo per valutare se ne valesse davvero la pena.",
@@ -15973,7 +15332,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "za0246c72",
-   "sez": "ingegneria",
+   "sez": "economia",
    "titolo": "Le terre rare radioattive al centro della sfida geostrategica globale",
    "orig": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
    "lead": "Centinaia di aziende minerarie, agenzie governative e impianti industriali in Nord America, Australasia ed Europa stanno cercando di sottrarre quote di mercato alle aziende cinesi, che controllano circa il 90% dei mercati degli ossidi e dei metalli delle terre rare. Questi elementi sono fondamentali per semiconduttori, LED, laser, display, leghe metalliche, lenti ottiche e catalizzatori per l'industria petrolifera e chimica, oltre che per i magneti permanenti. Lo riferisce IEEE Spectrum.",
@@ -17849,6 +17208,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Argentina",
      "t": "2026-10-15T11:09+00:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/politica/javier-milei-se-presenta-ante-empresarios-en-eeuu-nid15102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T15:04+00:00"
     }
    ],
    "data": "15 ott",
@@ -17873,6 +17241,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Chile",
      "t": "2026-10-15T10:26+00:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/chile-anuncia-apertura-de-sus-consulados-en-caracas-y-puerto-ordaz/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-15T14:51+00:00"
     }
    ],
    "data": "15 ott",
@@ -18472,6 +17849,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Cameroon",
      "t": "2026-10-15T11:20+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/samuel-etoo-repond-sechement-a-rfi-apres-un-article-sur-une-nouvelle-plainte-au-cameroun/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T14:12+00:00"
     }
    ],
    "data": "15 ott",
@@ -21189,6 +20575,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-15T08:52+00:00"
+    },
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/communicatie-met-starlinknetwerk-is-weer-hersteld-voor-oekraiense-drones-kyiv-hervat-aanvallen-op-russische-olieraffinaderijen-a4939051",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T14:53+02:00"
     }
    ],
    "data": "15 ott",
@@ -21453,6 +20848,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-15T10:05+00:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/15/it-doesn-t-always-need-to-be-said-out-loud-european-leaders-to-ask-zelensky-to-tone-down-criticism-of-trump-financial-times-reports",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-15T15:23+03:00"
     }
    ],
    "data": "15 ott",
@@ -24810,6 +24214,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-15T11:44+02:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/fuerte-caida-de-las-acciones-tecnologicas/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-15T14:52+00:00"
     }
    ],
    "data": "15 ott",
@@ -25889,6 +25302,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-15T12:55+02:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/conjoncture/abattement-pour-les-retraites-heures-supplementaires-prime-carburant-comment-les-deputes-ont-modifie-le-budget-2027-20261015",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T17:01+02:00"
     }
    ],
    "data": "15 ott",
@@ -26699,6 +26121,33 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Benin",
      "t": "2026-10-15T10:09+00:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/15/ukraine-says-missile-strike-destroyed-6-russian-warplanes-at-voronezh-airfield-a93991",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-15T14:59+03:00"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/ukrainian-special-unit-destroys-russian-drone-operator-training-center-military-intelligence-says/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-15T13:45+00:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-ato/4174781-russian-strike-destroys-supermarket-chains-logistics-center-in-kropyvnytskyi.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-15T16:38+03:00"
     }
    ],
    "data": "15 ott",
@@ -28079,6 +27528,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-15T10:30+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T14:37+00:00"
     }
    ],
    "data": "15 ott",
@@ -28480,6 +27938,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-15T08:43+00:00"
+    },
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T12:10+00:00"
     }
    ],
    "data": "15 ott",
@@ -29338,6 +28805,24 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-15T11:27+02:00"
+    },
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/sport/flere-fifa-styremedlemmer-ut-mot-gianni-infantino_-_-vi-ma-restarte-alt-pa-nytt-1.18056044",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-15T14:23+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/oct/15/fifa-gianni-infantino-council",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-15T09:00+00:00"
     }
    ],
    "data": "15 ott",
@@ -30630,6 +30115,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Liberia",
      "t": "2026-10-15T07:10+00:00"
+    },
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/10/15/turkish-firms-behind-controversial-mining-development-projects-named-cop31-partners/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-10-15T15:17+00:00"
     }
    ],
    "data": "15 ott",
@@ -30771,6 +30265,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-15T08:54+00:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/zabava/film-tv/831620/pol-makartni-ne-odustaje-od-svoje-price",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-15T17:15+02:00"
     }
    ],
    "data": "15 ott",
@@ -33149,7 +32652,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zc7c80165": "Panamá América si focalizza sui dubbi legati alla gestione dei servizi pubblici essenziali nella provincia di Colón.",
   "zb512172d": "La testata mette in luce la necessità di riforme burocratiche per sostenere l'economia e l'occupazione.",
   "z5b320b2d": "Repubblica e ANSA riprendono la stessa dichiarazione di Trump, sottolineando sia l'annuncio sulla fucilazione sia le battute polemiche sui transgender pronunciate nello stesso comizio.",
-  "zaacebaad": "BBC News riporta l'attacco mettendo l'accento sui dispersi e sulle operazioni di soccorso in corso.",
   "z385a15e8": "The Guardian evidenzia il rischio politico della svolta per un governo finora prudente.",
   "z173c300d": "Al Jazeera inquadra l'arresto come spunto per interrogarsi sulla crescita del razzismo anti-indiano negli Stati Uniti.",
   "za0a7ee6a": "la Repubblica dà conto delle richieste delle associazioni di categoria dopo i blocchi nelle regioni del Sud.",
@@ -33173,7 +32675,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zb670e0e8": "Dezeen descrive HomeView come la centralizzazione delle funzioni smart home già esistenti nei prodotti Apple.",
   "z17116ccf": "BBC e New York Times concordano nel collegare la ripresa dei raid alla delusione di Zelensky verso Washington.",
   "z9b94ed55": "Universe Today e Sky & Telescope invitano entrambi a osservare il picco dello sciame, con indicazioni sulla visibilità legate alla luna.",
-  "zf910a745": "NRK riporta le critiche interne al consiglio Fifa, mentre The Guardian aggiunge che i leader europei sono sempre più fiduciosi di trovare un candidato contro Infantino alle prossime elezioni.",
   "z3d748bc6": "The Guardian e The Straits Times riportano entrambi la dichiarazione di siccità grave, con il Guardian che dettaglia le restrizioni proposte dalle aziende idriche.",
   "z14efdbca": "La Repubblica sottolinea la vulnerabilità strategica dell'Europa nello spazio, usando la crisi ucraina come monito.",
   "zc1328706": "Repubblica e Messaggero concordano nel registrare il sorpasso di Forza Italia su Vannacci e il vantaggio del campo largo.",
@@ -33215,15 +32716,12 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z79bd1f45": "Al Jazeera presenta un'indagine dati che contesta le cifre diffuse sul documentario israeliano.",
   "z1bd2b448": "OndaRock presenta l'album come un progetto che ribalta le aspettative sul repertorio classico dell'artista.",
   "z84557c2f": "France 24 analizza le sfide che attendono Glucksmann per unificare il proprio campo politico.",
-  "z8c9a16de": "The Globe and Mail riporta i sospetti ucraini su un possibile uso politico della tecnologia Starlink da parte statunitense.",
   "zb51e6596": "The Korea Herald celebra il riconoscimento internazionale ottenuto dal regista iraniano al festival sudcoreano.",
   "z7991f40b": "The Kathmandu Post mette in luce il contrasto tra le autorità sanitarie e i medici sulla decisione.",
   "zcf85c530": "Euronews descrive la chiusura come un evento significativo per l'iconico hotel newyorkese.",
   "z09f268f7": "New Civil Engineer riferisce l'apertura della consultazione come fase preliminare del progetto.",
-  "z4dc55533": "MIT Technology Review presenta i risultati come un avanzamento promettente nella scienza dei trapianti.",
   "z992a46ea": "Anime News Network riporta l'annuncio del nuovo titolo mobile dedicato ai fan della saga.",
   "z70a482df": "El Deber riporta i dati ufficiali del Senamhi sulle regioni colpite dal calo termico.",
-  "zae109cd6": "Deutsche Welle evidenzia le tensioni commerciali con la Cina e le trattative sul bilancio come temi centrali del vertice.",
   "z671d3c50": "Al Jazeera riporta le accuse russe nei confronti di Kyiv in relazione agli sforzi di pace statunitensi.",
   "zd9982636": "OndaRock annuncia la data italiana del tour d'addio dell'artista britannico.",
   "z6bacdb2a": "RTP inquadra l'esonero come l'ennesimo episodio di instabilità tecnica nel campionato portoghese.",
@@ -33307,12 +32805,10 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z42e81f1d": "Der Spiegel segnala l'intensificarsi della promozione in vista dell'uscita del gioco.",
   "z30272679": "Daily News Egypt presenta l'evento come appuntamento chiave per la transizione ecologica in Italia.",
   "z27d28a2f": "Süddeutsche Zeitung nota il ritorno al gol di Undav ma mantiene un tono cauto sulla squadra.",
-  "z30950ef7": "NRC collega la disponibilità di Starlink alla capacità operativa ucraina sul fronte dei droni.",
   "zbb1444f8": "South China Morning Post evidenzia la cautela del governo nonostante la ripresa del mercato.",
   "z6831f47a": "TVN24 chiarisce la natura non definitiva del parere espresso.",
   "ze74b672c": "El Nacional evidenzia con orgoglio il primato venezuelano tra i candidati al premio.",
   "za69a158b": "Il giornale maliano inserisce il caso nazionale in un quadro regionale più ampio, mostrando dati puntuali sul Senegal come esempio delle difficoltà comuni.",
-  "z15b1daec": "La testata riporta la reazione diretta di Eto'o, riprendendo le sue parole pubblicate sui social.",
   "z0af54dff": "Il quotidiano offre una guida pratica con il calendario differenziato tra le principali città italiane.",
   "z8de8b98a": "Il giornale presenta l'analisi dell'autore attraverso un'intervista centrata sui concetti di sovranità e refondazione statale.",
   "z165998c1": "Il quotidiano sottolinea la scelta strategica di affidare l'operazione a manager con esperienza diretta del mercato tedesco.",
@@ -33334,18 +32830,14 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z29bf8eb0": "The Botswana Gazette dà voce sia alle compagnie private che denunciano i disagi sia a Botswana Oil che ne attribuisce la causa a fattori regionali.",
   "za718f6ab": "Breaking Belize News riporta le parole del premier senza contraddittorio da parte cinese.",
   "z15e3a214": "Breaking Belize News riprende direttamente il messaggio diffuso dal premier sui social.",
-  "z9b1cbfa1": "Le Figaro si limita a riassumere gli emendamenti approvati, senza prendere posizione.",
   "z4debc2cd": "Público collega il calo dei tassi sul debito ai timori sulle valutazioni del settore dell'intelligenza artificiale.",
   "z471ff82f": "G1 ricostruisce i dettagli dell'operazione giudiziaria sulla base delle informazioni diffuse dagli inquirenti.",
-  "zde3dced3": "La Nación riporta il discorso di Milei agli imprenditori statunitensi senza reazioni critiche.",
   "z8a90da7c": "La Tercera evidenzia sia il beneficio medio nazionale sia le eccezioni regionali in aumento.",
   "z77461dd0": "Expresso das Ilhas dà voce alle difficoltà degli agricoltori locali nell'attesa del completamento dell'opera.",
   "z97c0352e": "Actualite.cd descrive l'arrivo degli aiuti dopo giorni di crisi senza viveri nella struttura.",
   "z74573d75": "Gulf News riporta la dichiarazione senza ulteriori elementi di contesto.",
   "z6c69eb67": "RTP e Público riportano in modo concorde la decisione del Supremo Tribunale sulla riduzione della pena.",
-  "zf1fcd14b": "Le diverse testate concordano nel riportare un quadro clinico stabile e in miglioramento, sottolineando la ripresa di alcune attività del Papa.",
   "z541d8421": "Le testate convergono nel descrivere un'escalation degli attacchi Houthi contro obiettivi sauditi e yemeniti, con Times of India che enfatizza il contesto regionale della guerra con l'Iran.",
-  "z29550fc4": "Moscow Times, The Kyiv Independent e Ukrinform riportano, da prospettiva ucraina, una serie di operazioni militari e attacchi reciproci degli ultimi giorni.",
   "z7a192eeb": "BBC Newsround dà voce diretta ai bambini coinvolti, mentre The Straits Times riporta i timori del governo francese per possibili violenze nel weekend.",
   "zb06e794d": "OC Media si concentra sulle tensioni diplomatiche legate al velo scolastico, mentre The Straits Times riporta la possibile anticipazione del voto turco.",
   "zf351689f": "Notes from Poland inquadra il giuramento come un atto politico di contrapposizione al presidente.",
@@ -33354,7 +32846,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z304d1fa3": "El Mundo dà risalto alla denuncia della giudice contro l'ex magistrato, sottolineando il presunto pedinamento dopo la sua testimonianza.",
   "zcbe63bdb": "El Tiempo collega l'annuncio del ritiro alla visita del ministro in Israele e al trasferimento dell'ambasciata a Gerusalemme.",
   "z254a860a": "El Tiempo e ABC Color concordano nel collegare la crisi idrica alle denunce di abusi della polizia durante le proteste.",
-  "z73b71c6a": "CNA e Cyprus Mail riportano con lo stesso taglio la vittoria del Bodo/Glimt sul Dortmund, sottolineando il fattore ambientale.",
   "z3cc6cf8e": "ORF e Der Spiegel riportano entrambi la raccomandazione della commissione, sottolineando il ridimensionamento del ruolo del comitato etico.",
   "ze445dafa": "Le testate guineane concordano sulla condanna per arricchimento illecito, con alcune divergenze sui dettagli dell'importo e della pena detentiva riportati.",
   "zfc590e5d": "Mosaïque Guinée, Guinée News e Africaguinee riportano con taglio identico l'incontro tra il ministro Diallo e il presidente della BAD.",
@@ -33373,8 +32864,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z93700f99": "Daily Nation si concentra sul dolore personale di Winnie Odinga, mentre The Standard pone l'accento sulla sua nuova ambizione politica.",
   "zdc8332dd": "BBC News documenta l'accaduto tramite un servizio video del proprio corrispondente urdu direttamente dal luogo del crollo.",
   "z59cf6b96": "Al Jazeera inquadra la vicenda come un dilemma morale tra guadagno economico e responsabilità etica degli atleti coinvolti.",
-  "z3945ba53": "Rai News riporta la dichiarazione di Trump senza ulteriori dettagli sul caso specifico citato.",
-  "z625f6fe9": "Rai News sottolinea i segnali positivi di recupero del Pontefice dopo l'operazione.",
   "z3a581771": "Radio Prague International celebra il traguardo scientifico raggiunto dallo zoo praghese nella riproduzione in cattività della specie.",
   "ze2ec8049": "LRT riferisce l'avvio dell'indagine senza fornire ulteriori dettagli sul contenuto specifico del commento incriminato.",
   "za968a5fa": "LRT presenta il programma del festival evidenziando il tema dell'identità e delle tensioni valoriali contemporanee.",
@@ -33390,7 +32879,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2d891213": "ERT News sottolinea il mix di nostalgia e proiezione verso il futuro emerso durante la celebrazione.",
   "z7fe80818": "MIA riporta l'annuncio ufficiale dell'agenzia senza ulteriori dettagli sulle cause della decisione.",
   "z7ba1dde6": "MIA riporta l'incontro istituzionale senza approfondire ulteriormente i contenuti specifici discussi.",
-  "zcb06201f": "MIA riporta la dichiarazione del presidente come una possibile svolta rispetto alla sua consueta linea repressiva.",
   "z49070b46": "MIA presenta l'evento come un'anteprima di un nuovo capitolo sonoro per la band.",
   "z66e83caf": "MIA riporta la misura come sostegno diretto alle famiglie senza approfondire i costi complessivi per il comune.",
   "z56e0e13c": "IPN riporta le parole ottimistiche del premier sulle potenzialità tecnologiche del Paese.",
@@ -33406,7 +32894,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z1361e8dd": "Daily News presenta l'iniziativa come esempio positivo di impegno civile attraverso l'arte.",
   "za3264482": "Daily News riporta la sollecitazione del governo durante un sopralluogo ai lavori.",
   "ze2ff56d4": "Meduza propone la recensione critica di Anton Khitrov sull'adattamento, mettendo in luce scelte e omissioni rispetto al romanzo originale.",
-  "zaf591dcf": "Meduza riprende un'indiscrezione del Financial Times su una diplomazia europea cauta verso Trump.",
   "zf78db366": "Il Moscow Times evidenzia il legame tra le restrizioni proposte e i timori di sabotaggi legati alla Russia.",
   "z26da6d4b": "Il Moscow Times sottolinea le possibili scappatoie al nuovo divieto segnalate da altri media.",
   "zc3a3a857": "Il Moscow Times documenta un altro caso di repressione legata alla figura di Navalny.",
@@ -33414,7 +32901,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z0f329906": "The Kyiv Independent amplia il quadro oltre il caso di Oleshky, già noto, a tutti i territori occupati.",
   "zf317de6b": "Il Mail & Guardian segue da vicino l'evoluzione giudiziaria del caso riguardante Sibiya.",
   "z9ab205ff": "Premium Times fornisce dati aggregati dell'ICRC sull'aumento dei ricoveri per malnutrizione.",
-  "z88a7c51e": "Rappler segnala la notizia nel suo riepilogo quotidiano dei titoli principali.",
   "zba515d8d": "Il Post analizza una criticità sistemica del procedimento disciplinare scolastico italiano.",
   "ze711580c": "Il Post ricorda l'eredità musicale del locale a vent'anni dalla sua chiusura.",
   "z770158bc": "Civil.ge documenta la mobilitazione dell'opposizione contro il tentativo del governo di vietare alcuni partiti.",
@@ -33423,7 +32909,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z52df82bc": "HotNews riprende la notizia di Reuters sull'intervento diretto di Trump contro la decisione del Pentagono.",
   "z351b6a08": "HotNews riprende il racconto della rivista People sulla scoperta casuale della statua.",
   "z739dabee": "Prishtina Insight segnala lo scontro politico tra il governo e l'opposizione sul tema dei valori familiari.",
-  "z2d113631": "Vijesti riporta le critiche persistenti di McCartney sulla rappresentazione fisica dei membri della band nel film.",
   "zc3a2016c": "Vijesti collega il sequestro alla chiusura della rotta siriana dopo la caduta di Assad.",
   "z28d6ee72": "Vijesti sottolinea il precedente storico tra Alcaraz e Murray nel torneo austriaco.",
   "zc569ef18": "Vijesti collega la vicenda Guilfoyle a un pattern più ampio di nomine controverse dell'amministrazione Trump.",
@@ -33432,7 +32917,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "za0a77e70": "OC Media riporta sia l'accusa francese sia la replica dell'Azerbaigian.",
   "z1fb95765": "OC Media sottolinea il simbolismo della citazione sovietica usata dalle autorità.",
   "z7d014db4": "OC Media riprende le domande circolate da settembre sulla gestione dei fondi.",
-  "z472aa658": "Turkish Minute, citando BirGün, mette in luce la contraddizione tra i partner scelti e la natura del summit.",
   "z27d2b103": "Turkish Minute mette l'accento sulla portata internazionale delle indagini sui fondi.",
   "z67bbec2d": "Turkish Minute, citando Middle East Eye, collega il volo alla disputa diplomatica turco-azera sul velo.",
   "za8f95502": "Turkish Minute riporta i dati ufficiali diffusi dal ministero dell'Interno turco.",
@@ -33568,7 +33052,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z709d43cb": "Euronews Albania riporta l'appello presidenziale in risposta all'escalation delle tensioni di piazza nella capitale.",
   "z8583c2df": "Euronews evidenzia la diffusione crescente delle minacce informatiche nel mondo del lavoro europeo.",
   "z144d3e8b": "Euronews Albania documenta l'escalation della protesta e l'intervento delle forze dell'ordine.",
-  "z8d668f92": "Euronews Albania mostra con un video il danneggiamento della filiale bancaria durante la protesta.",
   "zfd2d3e6c": "Euronews Albania riporta l'allerta diplomatica statunitense come segnale della gravità della situazione a Tirana.",
   "z175df03c": "N1 Bosnia sottolinea l'eccezionale durata della sospensione come segnale della gravità della violazione.",
   "za52b98aa": "N1 Bosnia evidenzia l'impegno del Ministero cantonale nel rinnovamento delle infrastrutture sanitarie.",
@@ -33634,15 +33117,12 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2675e092": "Le Figaro evidenzia con un'infografica il peggioramento della percezione di rischio sul debito francese sui mercati.",
   "z1faa6146": "Libération riporta la denuncia dei docenti sull'intervento di polizia all'interno della scuola.",
   "z021d2c1d": "Der Spiegel mette in evidenza la richiesta di responsabilità politica diretta al ministro della Difesa.",
-  "zb1dc7454": "Süddeutsche Zeitung evidenzia la rapidità della procedura di approvazione come elemento centrale della notizia.",
   "zbcd56109": "Süddeutsche Zeitung sottolinea il fallimento delle aspettative su nuove tasse come fonte di finanziamento.",
   "zbea25152": "Süddeutsche Zeitung dà voce alla battaglia politica dell'ex ministra per cambiare la normativa.",
   "z72f2da28": "Süddeutsche Zeitung mette in luce il contrasto tra le difficoltà politiche e il successo industriale.",
   "zc7d43e83": "FAZ si concentra sul profilo controverso della deputata e sulle tensioni interne alla possibile coalizione.",
-  "z012e7c08": "FAZ pone l'accento sulle incongruenze emerse nel profilo professionale della portavoce.",
   "z59d67ca9": "FAZ racconta la vicenda dal punto di vista di chi si impegna a contrastare questi abusi online.",
   "zfab41a98": "El País dà risalto allo scontro interno alla sinistra spagnola sulla leadership della lista madrilena.",
-  "z8bc2cda0": "El País spiega la decisione tecnica con un orizzonte temporale di secoli.",
   "z747e6e70": "El Mundo dà voce alla testimonianza di Cintia Rocho sulle presunte pressioni ricevute.",
   "z4497190a": "El Mundo riporta lo scambio di accuse tra governo e opposizione sul tema pensionistico.",
   "zb3894fc3": "Público valorizza la continuità artistica e l'evoluzione sonora dell'artista nel nuovo disco.",
@@ -33681,7 +33161,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z25e9d47d": "La Nación segue da vicino le operazioni di ricerca del docente scomparso.",
   "zae0d7a56": "La Nación evidenzia il vantaggio di Bolsonaro nei sondaggi come una minaccia per la ricandidatura di Lula.",
   "z3c7d4aac": "La Nación ricostruisce il profilo dei principali esponenti dell'episcopato argentino e le loro priorità.",
-  "zbd62c1fb": "La Tercera sottolinea l'ampiezza del calo, partito dall'Asia e arrivato fino a Wall Street.",
   "z8288a68b": "La Tercera riporta i dati critici diffusi da uno studio legale sul taglio dei fondi per l'occupazione.",
   "z115b211d": "La Tercera presenta l'ingresso di Garra Records nel mercato musicale cileno come un rafforzamento dell'industria della cumbia locale.",
   "z068f4e1f": "La Tercera descrive nel dettaglio il meccanismo della presunta frode scoperta da BancoEstado.",
@@ -33692,7 +33171,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2bdf4f36": "El Observador ricostruisce i dettagli dell'accordo emersi dalla comunicazione ufficiale di Solaria in Spagna.",
   "zcde6325e": "El Observador presenta i requisiti e le modalità di accesso al nuovo programma di mutui statali.",
   "z625b0cfb": "El Nacional riporta la richiesta di trasparenza avanzata da Espacio Público sul processo di selezione giudiziaria.",
-  "z06eac9b0": "El Nacional segnala l'annuncio come un passo verso la normalizzazione dei rapporti consolari tra i due Paesi.",
   "z27ae0b72": "El Nacional riporta le dichiarazioni di Cabello come risposta alle accuse di impedire il rientro di Machado.",
   "z2312211f": "El Deber si concentra sul recupero dell'uomo in dubbio in vista della sfida di Guabirá.",
   "zdd41f4ad": "El Deber racconta la sorpresa della giovane vincitrice britannica per lo scatto premiato.",
@@ -33745,7 +33223,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z90a0316f": "La riscoperta della natura empatica dei Neanderthal attraverso nuove prove archeologiche.",
   "z614b4c8b": "Il prestigio degli stadi selezionati per rafforzare la candidatura spagnola.",
   "z944d1a1f": "Il cambio generazionale e tecnico nella scuderia in vista della prossima stagione.",
-  "z8ff4a4ce": "La testata evidenzia il richiamo del Giappone per una sorveglianza attiva sui cambi valutari.",
   "zd5570e78": "ORF riporta la notizia di un attacco mirato degli Huthi contro il centro del potere yemenita.",
   "z8743b17b": "ORF pone l'accento sulla riduzione degli aiuti statali per la modernizzazione energetica domestica.",
   "z047aff4f": "ORF analizza il calo occupazionale registrato nell'ultimo anno all'interno del comparto automobilistico.",
@@ -33758,7 +33235,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z43815006": "Nikkei Asia sottolinea la visione comune dei leader finanziari globali sulle attuali turbolenze di mercato.",
   "zc6ec8774": "La testata evidenzia l'apertura strategica del Giappone a risorse navali estere per la sicurezza nazionale.",
   "z6a1fab2a": "Nikkei Asia segue l'espansione tecnologica vietnamita nel cuore del mercato della mobilità statunitense.",
-  "z4f5d3ae6": "La testata analizza il potenziamento dei collegamenti fisici come motore di crescita commerciale tra Pechino e Pyongyang.",
   "z81dc0acc": "Nikkei Asia mette in evidenza l'espansione dell'industria indiana nell'estrazione di risorse in Africa.",
   "z63a75603": "Trend sottolinea il ruolo crescente del Tagikistan come palcoscenico per la diplomazia internazionale.",
   "z7143ea27": "La testata pone l'attenzione sulla nuova fase di attivismo diplomatico del Kirghizistan a livello ONU.",
@@ -33772,7 +33248,8 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zd5fa13c3": "La testata elenca le specifiche tecniche e le innovazioni che caratterizzeranno la prossima generazione di smartphone Apple.",
   "z269ea735": "ABC Color riporta la gravità dell'emergenza idrica in Argentina e le misure di sicurezza adottate per la popolazione.",
   "z7a34d3a1": "Defimedia evidenzia la posizione autoritaria del primo ministro nel voler applicare leggi speciali per gestire i disordini interni.",
-  "ze7d02df4": "La testata mette in luce l'entità del danno economico subito dal settore agricolo a causa dei roghi."
+  "ze7d02df4": "La testata mette in luce l'entità del danno economico subito dal settore agricolo a causa dei roghi.",
+  "z1cca4afa": "MIT Technology Review presenta i risultati come un avanzamento promettente nella scienza dei trapianti."
  },
  "contesti": {
   "z18ad243f": "Harry e Meghan erano tornati a vivere nel Regno Unito dopo anni trascorsi negli Stati Uniti, ma non avevano ancora compiuto apparizioni pubbliche insieme fino a questa visita a Nottingham, città simbolicamente legata alla loro storia di coppia.",
@@ -33898,7 +33375,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z45b9e6a5": "L'Indonesia affronta regolarmente gravi emergenze legate agli incendi boschivi, che richiedono ingenti investimenti pubblici per il contenimento. Negli ultimi mesi, diverse organizzazioni avevano segnalato discrepanze nella gestione dei budget d'emergenza, portando a controlli più severi sulle cariche apicali dei dipartimenti di soccorso nazionale, nel tentativo di prevenire infiltrazioni illegali nella gestione delle crisi.",
   "z32d76269": "Nei giorni scorsi Trump aveva annunciato un'intesa su una tregua energetica tra Russia e Ucraina, ma Mosca l'avrebbe ignorata proseguendo gli attacchi. Zelensky aveva denunciato anche un pericoloso ritiro della condivisione di intelligence statunitense, in un clima di crescenti tensioni con Washington prima della ripresa dei raid ucraini.",
   "z19e90a4b": "Negli ultimi anni il Parlamento ha approvato un numero crescente di giornate nazionali su temi diversi, al punto che per le scuole è diventato difficile celebrarle tutte; Mattarella era già intervenuto in passato per segnalare il problema.",
-  "zf1fcd14b": "Il 13 ottobre Papa Leone XIV è stato operato al Policlinico Gemelli di Roma per l'asportazione del lobo inferiore del polmone destro a causa di un adenocarcinoma. Da allora i medici forniscono aggiornamenti quotidiani sul decorso post-operatorio.",
   "ze7d8a441": "Il 26 agosto un'alluvione aveva colpito la zona del fiume Bhotekoshi in Nepal, causando vittime e dispersi; da allora le autorità lavorano per accertare l'identità delle persone scomparse.",
   "z00ffef01": "La Somalia è da tempo alle prese con un contenzioso politico tra governo federale e opposizione sulle regole delle elezioni, con dispute ricorrenti su tempi e modalità del voto.",
   "z84a0e796": "Il processo elettorale somalo è segnato da anni da rinvii e dispute tra governo centrale e amministrazioni regionali sulle modalità di voto, con il rischio di percorsi elettorali paralleli.",
@@ -35379,16 +34855,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "questa settimana",
     "Mattarella promulga la legge sulla giornata del riciclo della carta e scrive alle Camere per chiedere di contenerne il numero"
-   ]
-  ],
-  "zf1fcd14b": [
-   [
-    "13 ottobre",
-    "Il Papa viene operato al Gemelli per l'asportazione del lobo polmonare colpito da tumore"
-   ],
-   [
-    "14-15 ottobre",
-    "I medici confermano un decorso regolare e la ripresa dell'attività lavorativa del Pontefice"
    ]
   ],
   "z00ffef01": [
@@ -40094,13 +39560,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zaacebaad": {
-   "n": "Mar Nero",
-   "p": [
-    "Romania"
-   ],
-   "pt": []
-  },
   "z385a15e8": {
    "n": "Queensland",
    "p": [
@@ -40252,13 +39711,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Rjazan",
    "p": [
     "Russia"
-   ],
-   "pt": []
-  },
-  "zf910a745": {
-   "n": "Zurigo",
-   "p": [
-    "Switzerland"
    ],
    "pt": []
   },
@@ -40433,13 +39885,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z8c9a16de": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "zb51e6596": {
    "n": "Busan",
    "p": [
@@ -40468,13 +39913,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z4dc55533": {
-   "n": "Cambridge",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z992a46ea": {
    "n": "Tokyo",
    "p": [
@@ -40486,13 +39924,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Bolivia",
    "p": [
     "Bolivia"
-   ],
-   "pt": []
-  },
-  "zae109cd6": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -41171,13 +40602,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z30950ef7": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "zbb1444f8": {
    "n": "Hong Kong",
    "p": [
@@ -41207,13 +40631,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Niger",
     "Burkina Faso",
     "Guinea"
-   ],
-   "pt": []
-  },
-  "z15b1daec": {
-   "n": "Camerun",
-   "p": [
-    "Cameroon"
    ],
    "pt": []
   },
@@ -41371,13 +40788,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z9b1cbfa1": {
-   "n": "Francia",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z4debc2cd": {
    "n": "Francia e Stati Uniti",
    "p": [
@@ -41390,13 +40800,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Pernambuco, Bahia, San Paolo e Rio de Janeiro",
    "p": [
     "Brazil"
-   ],
-   "pt": []
-  },
-  "zde3dced3": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -41435,24 +40838,10 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zf1fcd14b": {
-   "n": "Città del Vaticano",
-   "p": [
-    "Vatican"
-   ],
-   "pt": []
-  },
   "z541d8421": {
    "n": "Aden",
    "p": [
     "Yemen"
-   ],
-   "pt": []
-  },
-  "z29550fc4": {
-   "n": "Voronezh",
-   "p": [
-    "Russia"
    ],
    "pt": []
   },
@@ -41510,13 +40899,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Guadalajara",
    "p": [
     "Mexico"
-   ],
-   "pt": []
-  },
-  "z73b71c6a": {
-   "n": "Bodø",
-   "p": [
-    "Norway"
    ],
    "pt": []
   },
@@ -41646,18 +41028,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z3945ba53": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z625f6fe9": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
   "z3a581771": {
    "n": "Praga",
    "p": [
@@ -41760,13 +41130,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Skopje",
    "p": [
     "Macedonia"
-   ],
-   "pt": []
-  },
-  "zcb06201f": {
-   "n": "El Salvador",
-   "p": [
-    "El Salvador"
    ],
    "pt": []
   },
@@ -41873,13 +41236,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zaf591dcf": {
-   "n": "Unione Europea",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "zf78db366": {
    "n": "Unione Europea",
    "p": [
@@ -41926,13 +41282,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Adamawa",
    "p": [
     "Nigeria"
-   ],
-   "pt": []
-  },
-  "z88a7c51e": {
-   "n": "Manila",
-   "p": [
-    "Philippines"
    ],
    "pt": []
   },
@@ -41993,13 +41342,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z2d113631": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "zc3a2016c": {
    "n": "Libano",
    "p": [
@@ -42053,13 +41395,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Tbilisi",
    "p": [
     "Georgia"
-   ],
-   "pt": []
-  },
-  "z472aa658": {
-   "n": "Antalya",
-   "p": [
-    "Turkey"
    ],
    "pt": []
   },
@@ -43012,13 +42347,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z8d668f92": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
   "zfd2d3e6c": {
    "n": "Tirana",
    "p": [
@@ -43474,11 +42802,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zb1dc7454": {
-   "n": "Unione Europea",
-   "p": [],
-   "pt": []
-  },
   "zbcd56109": {
    "n": "Bruxelles",
    "p": [
@@ -43508,13 +42831,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z012e7c08": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z59d67ca9": {
    "n": "Belgio",
    "p": [
@@ -43527,11 +42843,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "p": [
     "Spain"
    ],
-   "pt": []
-  },
-  "z8bc2cda0": {
-   "n": "Mondo",
-   "p": [],
    "pt": []
   },
   "z747e6e70": {
@@ -43794,14 +43105,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zbd62c1fb": {
-   "n": "Seoul e New York",
-   "p": [
-    "South Korea",
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z8288a68b": {
    "n": "Chile",
    "p": [
@@ -43868,13 +43171,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   "z625b0cfb": {
    "n": "Venezuela",
-   "p": [
-    "Venezuela"
-   ],
-   "pt": []
-  },
-  "z06eac9b0": {
-   "n": "Caracas e Puerto Ordaz",
    "p": [
     "Venezuela"
    ],
@@ -44246,13 +43542,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z8ff4a4ce": {
-   "n": "Tokyo",
-   "p": [
-    "Japan"
-   ],
-   "pt": []
-  },
   "zd5570e78": {
    "n": "Yemen",
    "p": [
@@ -44333,14 +43622,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Los Angeles",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z4f5d3ae6": {
-   "n": "Confine tra Cina e Corea del Nord",
-   "p": [
-    "China",
-    "North Korea"
    ],
    "pt": []
   },
@@ -45080,7 +44361,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zc7c80165": 1,
   "zb512172d": 1,
   "z5b320b2d": 1,
-  "zaacebaad": 1,
   "z385a15e8": 1,
   "z173c300d": 1,
   "za0a7ee6a": 1,
@@ -45104,7 +44384,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zb670e0e8": 1,
   "z17116ccf": 2,
   "z9b94ed55": 1,
-  "zf910a745": 1,
   "z3d748bc6": 1,
   "z14efdbca": 1,
   "zc1328706": 1,
@@ -45146,15 +44425,12 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z79bd1f45": 1,
   "z1bd2b448": 1,
   "z84557c2f": 1,
-  "z8c9a16de": 1,
   "zb51e6596": 1,
   "z7991f40b": 1,
   "zcf85c530": 1,
   "z09f268f7": 1,
-  "z4dc55533": 1,
   "z992a46ea": 1,
   "z70a482df": 1,
-  "zae109cd6": 1,
   "z671d3c50": 1,
   "zd9982636": 1,
   "z6bacdb2a": 1,
@@ -45253,12 +44529,10 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z42e81f1d": 1,
   "z30272679": 1,
   "z27d28a2f": 1,
-  "z30950ef7": 1,
   "zbb1444f8": 1,
   "z6831f47a": 1,
   "ze74b672c": 1,
   "za69a158b": 1,
-  "z15b1daec": 1,
   "z0af54dff": 1,
   "z8de8b98a": 1,
   "z165998c1": 1,
@@ -45281,18 +44555,14 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "za718f6ab": 1,
   "z15e3a214": 1,
   "zb4f35ff4": 1,
-  "z9b1cbfa1": 1,
   "z4debc2cd": 1,
   "z471ff82f": 1,
-  "zde3dced3": 1,
   "z8a90da7c": 1,
   "z77461dd0": 1,
   "z97c0352e": 1,
   "z74573d75": 1,
   "z6c69eb67": 1,
-  "zf1fcd14b": 2,
   "z541d8421": 2,
-  "z29550fc4": 1,
   "z7a192eeb": 2,
   "zb06e794d": 1,
   "zf351689f": 1,
@@ -45301,7 +44571,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z304d1fa3": 1,
   "zcbe63bdb": 1,
   "z254a860a": 1,
-  "z73b71c6a": 1,
   "z3cc6cf8e": 1,
   "ze445dafa": 2,
   "zfc590e5d": 1,
@@ -45320,8 +44589,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z93700f99": 1,
   "zdc8332dd": 2,
   "z59cf6b96": 1,
-  "z3945ba53": 1,
-  "z625f6fe9": 1,
   "z3a581771": 1,
   "ze2ec8049": 1,
   "za968a5fa": 1,
@@ -45337,7 +44604,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2d891213": 1,
   "z7fe80818": 1,
   "z7ba1dde6": 1,
-  "zcb06201f": 1,
   "z49070b46": 1,
   "z66e83caf": 1,
   "z56e0e13c": 1,
@@ -45353,7 +44619,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z1361e8dd": 1,
   "za3264482": 1,
   "ze2ff56d4": 1,
-  "zaf591dcf": 1,
   "zf78db366": 1,
   "z26da6d4b": 1,
   "zc3a3a857": 1,
@@ -45361,7 +44626,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z0f329906": 1,
   "zf317de6b": 1,
   "z9ab205ff": 1,
-  "z88a7c51e": 1,
   "zba515d8d": 1,
   "ze711580c": 1,
   "z770158bc": 1,
@@ -45370,7 +44634,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z52df82bc": 1,
   "z351b6a08": 1,
   "z739dabee": 1,
-  "z2d113631": 1,
   "zc3a2016c": 1,
   "z28d6ee72": 1,
   "zc569ef18": 2,
@@ -45379,7 +44642,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "za0a77e70": 1,
   "z1fb95765": 1,
   "z7d014db4": 1,
-  "z472aa658": 1,
   "z27d2b103": 1,
   "z67bbec2d": 1,
   "za8f95502": 1,
@@ -45515,7 +44777,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z709d43cb": 1,
   "z8583c2df": 1,
   "z144d3e8b": 2,
-  "z8d668f92": 2,
   "zfd2d3e6c": 2,
   "z175df03c": 1,
   "za52b98aa": 1,
@@ -45581,15 +44842,12 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2675e092": 2,
   "z1faa6146": 1,
   "z021d2c1d": 1,
-  "zb1dc7454": 1,
   "zbcd56109": 2,
   "zbea25152": 1,
   "z72f2da28": 1,
   "zc7d43e83": 1,
-  "z012e7c08": 2,
   "z59d67ca9": 1,
   "zfab41a98": 1,
-  "z8bc2cda0": 1,
   "z747e6e70": 1,
   "z4497190a": 1,
   "zb3894fc3": 1,
@@ -45628,7 +44886,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z25e9d47d": 1,
   "zae0d7a56": 2,
   "z3c7d4aac": 1,
-  "zbd62c1fb": 2,
   "z8288a68b": 1,
   "z115b211d": 1,
   "z068f4e1f": 1,
@@ -45639,7 +44896,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2bdf4f36": 1,
   "zcde6325e": 1,
   "z625b0cfb": 1,
-  "z06eac9b0": 1,
   "z27ae0b72": 1,
   "z2312211f": 1,
   "zdd41f4ad": 1,
@@ -45692,7 +44948,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z90a0316f": 1,
   "z614b4c8b": 1,
   "z944d1a1f": 1,
-  "z8ff4a4ce": 1,
   "zd5570e78": 1,
   "z8743b17b": 1,
   "z047aff4f": 1,
@@ -45705,7 +44960,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z43815006": 1,
   "zc6ec8774": 1,
   "z6a1fab2a": 1,
-  "z4f5d3ae6": 1,
   "z81dc0acc": 1,
   "z63a75603": 1,
   "z7143ea27": 1,
