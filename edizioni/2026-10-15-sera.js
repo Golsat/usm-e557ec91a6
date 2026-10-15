@@ -536,30 +536,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z245f1747",
-   "sez": "sport",
-   "titolo": "Calcio: la FIFA modificherà l'articolo 27 del codice disciplinare dopo il caso Balogun",
-   "orig": "FIFA to amend Article 27 of disciplinary code after Balogun case",
-   "lead": "La FIFA ha annunciato l'intenzione di modificare l'articolo 27 del proprio codice disciplinare in seguito al caso che ha coinvolto il calciatore Balogun. La decisione segue le criticità emerse dal caso specifico, che hanno portato l'organo calcistico internazionale a rivedere la normativa vigente. Lo riferisce CNA.",
-   "more": [
-    "Il codice disciplinare della FIFA stabilisce le regole e le sanzioni applicabili a giocatori, allenatori e federazioni per violazioni delle norme sportive, comprese le questioni legate a eleggibilità e cambi di nazionalità sportiva."
-   ],
-   "fonti": [
-    {
-     "n": "CNA",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.channelnewsasia.com/sport/fifa-amend-article-27-disciplinary-code-after-balogun-case-6463341",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-16T01:49+08:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:06",
-   "uscita": "sera"
-  },
-  {
    "id": "z2772e022",
    "sez": "tech",
    "titolo": "Amazon lancia due nuovi dispositivi di ascolto portatili basati sull'IA",
@@ -632,30 +608,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z15260f4e",
-   "sez": "mondo",
-   "titolo": "Gli Houthi colpiscono il palazzo presidenziale ad Aden",
-   "orig": "Jemen: Huthis griffen Präsidentenpalast in Aden an",
-   "lead": "I ribelli Houthi hanno colpito con missili il palazzo presidenziale ad Aden, sede del governo yemenita riconosciuto internazionalmente, in quello che viene descritto come un nuovo attacco alle istituzioni statali. L'episodio si inserisce nel conflitto in corso tra gli Houthi, che controllano il nord dello Yemen, e il governo sostenuto dalla coalizione a guida saudita nel sud del paese. Lo riferisce ORF.",
-   "more": [
-    "Gli Houthi sono un movimento armato yemenita di ispirazione sciita che controlla gran parte del nord dello Yemen dal 2014, in guerra contro il governo yemenita riconosciuto a livello internazionale e la coalizione militare guidata dall'Arabia Saudita."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445220/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-15T20:14+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:06",
-   "uscita": "sera"
-  },
-  {
    "id": "z13b6853c",
    "sez": "mondo",
    "titolo": "Francia e Germania spingono per ammorbidire ulteriormente lo stop ai motori a combustione",
@@ -721,39 +673,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-15T18:53+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:06",
-   "uscita": "sera"
-  },
-  {
-   "id": "zffc4f7ba",
-   "sez": "mondo",
-   "titolo": "Attacco a una petroliera al largo della costa rumena, marinai dispersi",
-   "orig": "Angriff auf Tanker vor rumänischer Küste: Seeleute vermisst",
-   "lead": "Una petroliera è stata attaccata al largo della costa rumena nel Mar Nero, e alcuni membri dell'equipaggio risultano dispersi dopo l'incidente. Le autorità stanno indagando sulle circostanze dell'attacco in un'area già teatro di tensioni legate alla guerra in Ucraina. Lo riferisce ORF.",
-   "more": [
-    "Il Mar Nero è diventato una zona di crescente pericolo per il traffico marittimo dall'inizio della guerra russo-ucraina, con attacchi a infrastrutture portuali e imbarcazioni che hanno coinvolto petroliere e navi commerciali di vari Paesi."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445212/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-15T18:44+02:00"
-    },
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/10/15/mundo/noticia/novos-ataques-navios-largo-costa-bulgara-sete-marinheiros-desaparecidos-2191533",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-15T17:40+00:00"
     }
    ],
    "data": "15 ott",
@@ -1091,30 +1010,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Maldives",
      "t": "2026-10-15T23:07+05:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:06",
-   "uscita": "sera"
-  },
-  {
-   "id": "zf224165d",
-   "sez": "mondo",
-   "titolo": "Il mancato uso dello Stretto di Hormuz colpisce l'agricoltura maldiviana",
-   "orig": "ހުރްމުޒް ކަނޑުއޮޅި ބޭނުން ނުކުރެވޭތީ ދަނޑުވެރިކަމުގެ ދާއިރާއަށް ނޭދެވޭ އަސަރުތައް",
-   "lead": "L'impossibilità di utilizzare lo Stretto di Hormuz sta avendo ripercussioni negative sul settore agricolo delle Maldive, con conseguenze sulle attività legate all'importazione di prodotti necessari all'agricoltura. Lo riferisce PSM News.",
-   "more": [
-    "Lo Stretto di Hormuz è un passaggio marittimo strategico tra il Golfo Persico e il Mar Arabico, cruciale per il trasporto di petrolio e merci; eventuali blocchi o restrizioni al suo utilizzo possono avere effetti su diversi settori economici nei Paesi della regione, incluse le Maldive che dipendono dalle importazioni."
-   ],
-   "fonti": [
-    {
-     "n": "PSM News",
-     "p": "XX",
-     "c": "Malé",
-     "u": "https://psmnews.mv/190284",
-     "angolo": "",
-     "atlas": "Maldives",
-     "t": "2026-10-15T22:19+05:00"
     }
    ],
    "data": "15 ott",
@@ -1553,30 +1448,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z5ef93ab3",
-   "sez": "mondo",
-   "titolo": "Il governo somalo perde la città di Burhakabo a favore delle forze dell'ex leader del Southwest",
-   "orig": "Somalia’s government loses Burhakabo to ousted Southwest leader’s forces",
-   "lead": "Le forze fedeli all'ex presidente dello Stato somalo del Southwest, Abdiasis Laftagaren, hanno conquistato giovedì un'altra città strategica nella regione del Bay, approfondendo le perdite territoriali del governo federale somalo. L'assalto a Burhakabo, cittadina situata sulla strada che collega Mogadiscio a Baidoa, capoluogo amministrativo del Bay a 64 km di distanza, è iniziato nelle prime ore del mattino. Lo riferisce Somali Guardian.",
-   "more": [
-    "Lo Stato del Southwest è una delle regioni federali della Somalia; le tensioni tra governo centrale e leader regionali destituiti alimentano da tempo scontri armati nel sud del Paese."
-   ],
-   "fonti": [
-    {
-     "n": "Somali Guardian",
-     "p": "XX",
-     "c": "Mogadiscio",
-     "u": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-burhakabo-southwest/",
-     "angolo": "",
-     "atlas": "Somalia",
-     "t": "2026-10-15T16:08+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:03",
-   "uscita": "sera"
-  },
-  {
    "id": "z80a460a3",
    "sez": "mondo",
    "titolo": "La Commissione elettorale della Sierra Leone partecipa a un workshop ECOWAS sull'uso responsabile dell'IA nelle elezioni",
@@ -1938,54 +1809,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-15T17:01+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:03",
-   "uscita": "sera"
-  },
-  {
-   "id": "z910b4cc1",
-   "sez": "economia",
-   "titolo": "La BCE avrebbe autorizzato UniCredit ad aumentare la quota in Commerzbank",
-   "orig": "EZB erlaubt UniCredit offenbar Übernahme von Commerzbank-Anteilen",
-   "lead": "Secondo quanto riportato dallo Spiegel, la Banca Centrale Europea avrebbe approvato l'aumento della partecipazione di UniCredit in Commerzbank, segnando un passo importante verso una possibile acquisizione della banca tedesca da parte dell'istituto italiano. La notizia arriva da dichiarazioni della stessa UniCredit. Lo riferisce Der Spiegel.",
-   "more": [
-    "UniCredit ha progressivamente accumulato quote in Commerzbank negli ultimi anni, alimentando speculazioni su una possibile fusione transfrontaliera tra le due banche, operazione che richiederebbe l'autorizzazione delle autorità di vigilanza bancaria europea."
-   ],
-   "fonti": [
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/wirtschaft/unternehmen/ezb-erlaubt-unicredit-offenbar-uebernahme-von-commerzbank-anteilen-a-4fdb9120-ecc0-4431-ac6c-3d5340d5bb4a#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-15T20:17+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:03",
-   "uscita": "sera"
-  },
-  {
-   "id": "zb0c40711",
-   "sez": "tech",
-   "titolo": "Abolito il secondo intercalare per il rischio di un secondo intercalare negativo",
-   "orig": "Schaltsekunde wird abgeschafft – wegen Gefahr einer Minus-Schaltsekunde",
-   "lead": "La Conferenza Generale dei Pesi e delle Misure, riunita a Parigi, ha deciso l'abolizione del secondo intercalare, introdotto nel 1972 per sincronizzare il tempo astronomico con quello atomico. La decisione nasce dalla preoccupazione per le possibili conseguenze sui sistemi informatici derivanti dall'eventuale necessità di un secondo intercalare negativo, mai applicato finora. Lo riferisce Der Spiegel.",
-   "more": [
-    "Il secondo intercalare viene aggiunto periodicamente al tempo coordinato universale per compensare le piccole irregolarità nella rotazione terrestre rispetto al tempo misurato dagli orologi atomici, ma la sua gestione crea complicazioni per i sistemi informatici globali."
-   ],
-   "fonti": [
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/wissenschaft/schaltsekunde-wird-abgeschafft-wegen-gefahr-einer-minus-schaltsekunde-a-dfd1afc8-f300-495b-a366-d72553edb44d#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-15T20:03+02:00"
     }
    ],
    "data": "15 ott",
@@ -3213,30 +3036,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
     }
    ],
    "data": "",
-   "ora": "21:00",
-   "uscita": "sera"
-  },
-  {
-   "id": "z54e64cb8",
-   "sez": "mondo",
-   "titolo": "I Paesi Amici della Coesione uniscono le forze a Bruxelles",
-   "orig": "Países Amigos da Coesão unem esforços em Bruxelas",
-   "lead": "Un gruppo di Paesi definiti \"Amici della Coesione\" si è riunito a Bruxelles per coordinare una posizione comune sul futuro bilancio europeo. L'obiettivo è mantenere inalterato il valore degli stanziamenti nazionali e difendere i fondi destinati alle politiche di coesione e alla politica agricola comune, in vista dei negoziati sul prossimo quadro finanziario dell'Unione europea. Lo riferisce RTP.",
-   "more": [
-    "La politica di coesione europea è lo strumento con cui l'Unione europea finanzia lo sviluppo economico delle regioni più deboli, mentre la politica agricola comune sostiene gli agricoltori degli Stati membri; entrambe sono spesso al centro dei negoziati sul bilancio pluriennale dell'UE."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/uniao-europeia/paises-amigos-da-coesao-unem-esforcos-em-bruxelas_n1771932",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-15T19:29+01:00"
-    }
-   ],
-   "data": "15 ott",
    "ora": "21:00",
    "uscita": "sera"
   },
@@ -4611,6 +4410,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-15T18:53+01:00"
+    },
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190284",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T22:19+05:00"
     }
    ],
    "data": "15 ott",
@@ -4753,30 +4561,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-15T18:54+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:00",
-   "uscita": "sera"
-  },
-  {
-   "id": "z8c30de1a",
-   "sez": "sport",
-   "titolo": "Hakimi elogia il compagno di squadra Bouaddi dopo la vittoria del PSG sul City",
-   "orig": "Hakimi praises Moroccan teammate Bouaddi after PSG’s win over Manchester City",
-   "lead": "Il terzino marocchino Achraf Hakimi ha elogiato il connazionale Ayoub Bouaddi dopo la vittoria per 4-2 del Paris Saint-Germain sul Manchester City in Champions League, sottolineando le qualità calcistiche e personali del giovane compagno di squadra. Intervistato da Sky Sport Italia, Hakimi ha parlato con affetto della maglia che Bouaddi gli aveva regalato. Lo riferisce Hespress English.",
-   "more": [
-    "Achraf Hakimi è un difensore marocchino del Paris Saint-Germain, tra i terzini più noti del calcio europeo, mentre Ayoub Bouaddi è un giovane centrocampista francese di origini marocchine cresciuto nel settore giovanile parigino."
-   ],
-   "fonti": [
-    {
-     "n": "Hespress English",
-     "p": "XX",
-     "c": "Rabat",
-     "u": "https://en.hespress.com/147372-hakimi-praises-moroccan-teammate-bouaddi-after-psgs-win-over-manchester-city.html",
-     "angolo": "",
-     "atlas": "Morocco",
-     "t": "2026-10-15T18:11+00:00"
     }
    ],
    "data": "15 ott",
@@ -5158,30 +4942,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z567c8be2",
-   "sez": "mondo",
-   "titolo": "AFP: il primo ministro yemenita era nel palazzo presidenziale di Aden al momento dell'attacco Houthi",
-   "orig": "أ ف ب: رئيس الحكومة اليمنية كان في القصر الرئاسي بعدن عند وقوع هجوم الحوثيين",
-   "lead": "Un ministro yemenita ha dichiarato giovedì all'agenzia France Presse che il primo ministro Shayea Al-Zindani si trovava nel palazzo presidenziale di Aden nel momento in cui si è verificato un attacco attribuito ai ribelli Houthi. Il dettaglio, riportato dall'agenzia francese, getta nuova luce sulla gravità dell'episodio avvenuto nella capitale provvisoria yemenita. Lo riferisce Roya News citando AFP.",
-   "more": [
-    "Aden è la capitale provvisoria del governo yemenita internazionalmente riconosciuto, dopo che gli Houthi hanno preso il controllo della capitale storica Sanaa; la città resta un obiettivo ricorrente di attacchi nel conflitto yemenita."
-   ],
-   "fonti": [
-    {
-     "n": "Roya News",
-     "p": "XX",
-     "c": "Amman",
-     "u": "https://royanews.tv/news/397743",
-     "angolo": "",
-     "atlas": "Jordan",
-     "t": "2026-10-15T21:21+03:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:00",
-   "uscita": "sera"
-  },
-  {
    "id": "z014b7489",
    "sez": "mondo",
    "titolo": "Autorità di Marib: gli Houthi hanno bombardato quartieri residenziali con 9 missili balistici e 7 proiettili",
@@ -5420,7 +5180,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "zcf150ea6",
-   "sez": "economia",
+   "sez": "viaggi",
    "titolo": "Visit Italy promuove il territorio del Parmigiano Reggiano",
    "orig": "Visit Italy racconta le terre del Parmigiano Reggiano",
    "lead": "Il Consorzio di tutela del Parmigiano Reggiano ha avviato una partnership con la piattaforma di promozione turistica Visit Italy per raccontare le terre in cui il formaggio viene prodotto. L'obiettivo dichiarato è dare al territorio la stessa riconoscibilità che il prodotto ha già conquistato in tutto il mondo, valorizzando quindi non solo l'alimento ma anche i luoghi e le tradizioni legate alla sua produzione. Lo riferisce la Repubblica.",
@@ -5919,6 +5679,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-10-15T16:51+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/le-conseil-constitutionnel-inflige-un-nouveau-revers-a-lassemblee_n_999000771.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T15:06+00:00"
     }
    ],
    "data": "15 ott",
@@ -6267,7 +6036,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z8f910024",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Tanzania, la sottostazione di Nkangamo Power al 83% di completamento",
    "orig": "VP sees Nkangamo Power project hit 83 percent completion",
    "lead": "Il vicepresidente della Tanzania, Deogratius Ndejembi, ha visitato la sottostazione elettrica di Nkangamo Power, nel distretto di Momba, regione di Songwe, in costruzione a un costo di 285,7 miliardi di scellini come parte dei progetti strategici per rafforzare l'infrastruttura energetica nazionale e aprire opportunità di scambio elettrico nell'Africa meridionale. Lo riferisce Daily News (Tanzania).",
@@ -6917,7 +6686,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z568da60c",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Tanzania ospite d'onore al Bati-Est Expo in Algeria",
    "orig": "Bati-Est Expo honours Tanzania as it exhibits construction and housing equipment",
    "lead": "La Tanzania è stata nominata ospite d'onore alla nona edizione del Bati-Est Expo 2026, fiera internazionale dedicata a costruzioni, edilizia e progetti infrastrutturali, in corso a Costantina, in Algeria. L'ambasciatore tanzaniano in Algeria, Mobhare Matinyi, ha rappresentato il paese alla manifestazione, iniziata il 14 ottobre 2026 e in programma per tre giorni. Lo riferisce Daily News.",
@@ -7499,54 +7268,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Montenegro",
      "t": "2026-10-15T18:45+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "20:57",
-   "uscita": "sera"
-  },
-  {
-   "id": "z5c660399",
-   "sez": "ambiente",
-   "titolo": "Clima: da due mesi l'Indonesia è in preda alle fiamme",
-   "orig": "Climat: L'Indonésie en proie aux flammes depuis 2 mois",
-   "lead": "Da due mesi gli incendi boschivi si moltiplicano in Indonesia, alimentati da un El Niño particolarmente intenso che genera un clima caldo e secco favorevole al fuoco. Alla responsabilità del riscaldamento globale si aggiunge la cattiva gestione delle foreste indonesiane: aree disboscate per piantare monocolture di palma da olio, molto infiammabili, e torbiere prosciugate per l'agricoltura. Lo riferisce France 24.",
-   "more": [
-    "El Niño è un fenomeno climatico ciclico che altera le temperature oceaniche del Pacifico, causando siccità in alcune regioni del Sud-est asiatico; in Indonesia è storicamente associato a stagioni di incendi particolarmente gravi legati anche alla deforestazione per le piantagioni di palma da olio."
-   ],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261015-climat-l-indon%C3%A9sie-en-proie-aux-flammes-depuis-2-mois",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-15T17:40+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "20:57",
-   "uscita": "sera"
-  },
-  {
-   "id": "z722fd35e",
-   "sez": "economia",
-   "titolo": "Vertice UE: dibattito sulle relazioni economiche con la Cina",
-   "orig": "Sommet de l'UE : Des débats sur les relations économiques avec la Chine",
-   "lead": "I leader dell'Unione Europea si riuniscono giovedì 15 ottobre a Bruxelles per un vertice in cui discuteranno delle esportazioni cinesi, dell'aumento dei prezzi dell'energia e del bilancio del blocco comunitario. Lo riferisce France 24.",
-   "more": [
-    "I vertici del Consiglio europeo riuniscono periodicamente i capi di Stato e di governo dei 27 Paesi membri per decidere orientamenti comuni su temi strategici come commercio internazionale, energia e bilancio pluriennale dell'Unione."
-   ],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/vid%C3%A9o/20261015-sommet-de-l-ue-des-d%C3%A9bats-sur-les-relations-%C3%A9conomiques-avec-la-chine",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-15T17:34+00:00"
     }
    ],
    "data": "15 ott",
@@ -10054,7 +9775,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   },
   {
    "id": "z45463588",
-   "sez": "economia",
+   "sez": "italia",
    "titolo": "Nuovo Codice della strada, cambia l'età per il rinnovo decennale della patente",
    "orig": "Nuovo Codice della strada, le novità per il rinnovo della patente",
    "lead": "Il nuovo Codice della strada introduce novità sul rinnovo della patente di guida in Italia: il rinnovo decennale sarà esteso fino ai 65 anni di età, rispetto ai 50 anni attualmente previsti. La modifica cambia le soglie anagrafiche a cui si applicano le diverse periodicità di rinnovo del documento, con un impatto diretto su una larga fascia di automobilisti che potranno godere di scadenze meno frequenti per il controllo dei requisiti di guida. Lo riferisce Il Sole 24 Ore.",
@@ -10070,30 +9791,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-15T16:20+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "20:54",
-   "uscita": "sera"
-  },
-  {
-   "id": "zdbed4e4e",
-   "sez": "sport",
-   "titolo": "La Spagna favorita per ospitare la Coppa del Mondo di rugby 2035",
-   "orig": "Spain front-runner to host 2035 Rugby World Cup",
-   "lead": "La Spagna è considerata la favorita per ottenere l'organizzazione della Coppa del Mondo di rugby del 2035, con il Nou Camp e altri stadi calcistici pronti a ospitare le partite. Secondo le previsioni, la nazione europea dovrebbe prevalere sulle candidature rivali di Giappone e di un paese sudamericano, in una competizione per assegnare uno degli eventi sportivi più seguiti al mondo, capace di generare un forte ritorno economico e di visibilità per il paese organizzatore.",
-   "more": [
-    "La Coppa del Mondo di rugby è il principale torneo internazionale della disciplina, organizzato ogni quattro anni da World Rugby, e l'assegnazione delle edizioni future avviene attraverso un processo competitivo tra diverse candidature nazionali."
-   ],
-   "fonti": [
-    {
-     "n": "Stuff NZ",
-     "p": "XX",
-     "c": "Wellington",
-     "u": "https://www.stuff.co.nz/sport/361047136/spain-frontrunner-host-2035-rugby-world-cup-final",
-     "angolo": "",
-     "atlas": "New Zealand",
-     "t": "2026-10-15T17:16+00:00"
     }
    ],
    "data": "15 ott",
@@ -11694,30 +11391,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z248b97cf",
-   "sez": "mondo",
-   "titolo": "Senegal: il Consiglio costituzionale boccia le modifiche alla legge organica",
-   "orig": "Le Conseil constitutionnel inflige un nouveau revers à l'assemblée",
-   "lead": "Il Consiglio costituzionale del Senegal ha emesso il 15 ottobre 2026 un verdetto sfavorevole nei confronti dell'Assemblea nazionale, bocciando la legge organica n. 38/2026. Il provvedimento mirava a modificare le norme relative alle finanze e il regolamento interno del parlamento, ma è stato dichiarato non conforme ai principi costituzionali. Questa decisione segna un momento di tensione istituzionale tra il massimo organo di garanzia del Paese e il potere legislativo, sottolineando l'importanza del controllo di legittimità sulle riforme che interessano la gestione finanziaria dello Stato senegalese. Lo riferisce Seneweb.",
-   "more": [
-    "Il Consiglio costituzionale è l'organo supremo incaricato di verificare che le leggi approvate dal parlamento non contrastino con la Costituzione nazionale. Le sue decisioni sono inappellabili e servono a garantire l'equilibrio tra i diversi poteri dello Stato e la tutela dei diritti fondamentali di tutti i cittadini."
-   ],
-   "fonti": [
-    {
-     "n": "Seneweb",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://www.seneweb.com/fr/news/Politique/le-conseil-constitutionnel-inflige-un-nouveau-revers-a-lassemblee_n_999000771.html",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-10-15T15:06+00:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:55",
-   "uscita": "17"
-  },
-  {
    "id": "zeaab470f",
    "sez": "ambiente",
    "titolo": "Tanzania: le piogge precoci minacciano il raccolto di riso a Bagamoyo",
@@ -12642,6 +12315,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-15T22:30+08:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361047136/spain-frontrunner-host-2035-rugby-world-cup-final",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-15T17:16+00:00"
     }
    ],
    "data": "15 ott",
@@ -18173,6 +17855,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-15T14:13+00:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/wissenschaft/schaltsekunde-wird-abgeschafft-wegen-gefahr-einer-minus-schaltsekunde-a-dfd1afc8-f300-495b-a366-d72553edb44d#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T20:03+02:00"
     }
    ],
    "data": "15 ott",
@@ -20026,6 +19717,24 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Tunisia",
      "t": "2026-10-15T15:54+01:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445220/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T20:14+02:00"
+    },
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397743",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-15T21:21+03:00"
     }
    ],
    "data": "15 ott",
@@ -31414,6 +31123,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Somalia",
      "t": "2026-10-15T07:51+00:00"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-burhakabo-southwest/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-15T16:08+00:00"
     }
    ],
    "data": "15 ott",
@@ -39186,6 +38904,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-15T14:37+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261015-sommet-de-l-ue-des-d%C3%A9bats-sur-les-relations-%C3%A9conomiques-avec-la-chine",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T17:34+00:00"
     }
    ],
    "data": "15 ott",
@@ -40842,6 +40569,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-15T12:57+02:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/uniao-europeia/paises-amigos-da-coesao-unem-esforcos-em-bruxelas_n1771932",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-15T19:29+01:00"
     }
    ],
    "data": "15 ott",
@@ -42863,6 +42599,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-10-15T10:46+00:00"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/fifa-amend-article-27-disciplinary-code-after-balogun-case-6463341",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T01:49+08:00"
     }
    ],
    "data": "15 ott",
@@ -44853,7 +44598,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z7b536b5d": "Lefaso.net pone l'accento sulla necessità di supportare le piccole imprese nella transizione verso l'economia formale.",
   "z55639113": "Diari d'Andorra evidenzia il supporto sindacale alla mobilitazione popolare per una maggiore partecipazione democratica.",
   "z841558d4": "Seneweb punta l'attenzione sulla severità del gendarme bancario regionale nei confronti delle irregolarità finanziarie.",
-  "z248b97cf": "Seneweb descrive l'annullamento della riforma legislativa come un importante freno istituzionale imposto dalla magistratura costituzionale.",
   "zeaab470f": "Seneweb riporta la preoccupazione dei coltivatori tanzaniani di fronte all'imprevedibilità dei fenomeni meteorologici stagionali.",
   "z2b35237a": "Tchadinfos propone il racconto di un'imprenditrice agricola come modello di sviluppo rurale sostenibile in Ciad.",
   "zc695e2ce": "Tchadinfos segnala la fine di un lungo periodo di incomprensioni tra l'amministrazione locale e i giornalisti digitali.",
@@ -45037,7 +44781,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zff504845": "La testata sudcoreana segue con attenzione le dinamiche dei prezzi nei mercati nordcoreani come indicatore della situazione alimentare.",
   "z59d69a6b": "La testata economica italiana segue l'evoluzione del caso partendo dalla propria precedente inchiesta sui disservizi.",
   "z45463588": "La testata economica italiana illustra in modo tecnico le novità normative sul rinnovo della patente.",
-  "zdbed4e4e": "La testata neozelandese segnala la Spagna come front-runner nella corsa all'organizzazione dell'evento.",
   "z0c280231": "La testata finanziaria britannica invita a non limitarsi agli strumenti protezionistici nella strategia europea verso la Cina.",
   "z0db28a5f": "La testata botswanese racconta la vicenda sottolineando il contrasto tra referti arbitrali e prove video.",
   "z884952f9": "La testata tanzaniana sottolinea l'impegno istituzionale al massimo livello nel monitorare l'avanzamento del progetto.",
@@ -45136,15 +44879,12 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zb4b1ba42": "La testata mette in luce le rassicurazioni del premier sulla propria capacità di guida di un governo a maggioranza PSD.",
   "z70a98886": "La testata sottolinea il carattere insolito dell'intervento pubblico del funzionario nel mezzo di un contenzioso legale in corso.",
   "z9a57b4f1": "La testata riporta il gesto provocatorio con cui l'uomo denuncia se stesso per attirare attenzione su un presunto precedente giudiziario.",
-  "z5c660399": "La testata collega la crisi degli incendi sia al cambiamento climatico globale sia alle pratiche locali di gestione forestale.",
-  "z722fd35e": "La testata inquadra il vertice attorno ai tre temi economici al centro dell'agenda: Cina, energia e bilancio.",
   "z12c81d3b": "France 24 inquadra le proteste come rivolta studentesca contro il governo Rama su condizioni universitarie e costi.",
   "zee0b87ac": "La testata racconta la vicenda come un evento curioso legato alla diplomazia dei panda tra Francia e Cina.",
   "z2e79310b": "La testata evidenzia il rafforzamento dei legami economici tra Pechino e Pyongyang reso possibile dalla nuova infrastruttura.",
   "z714d4c76": "La testata riporta l'evento come cronaca locale, concentrandosi sull'evacuazione in sicurezza degli studenti.",
   "ze1527e63": "RTP segue la partecipazione della nazionale portoghese al Mondiale di hockey su pista.",
   "ze1265090": "RTP riporta le critiche dell'atleta alle politiche sportive nazionali.",
-  "z54e64cb8": "RTP segna l'iniziativa diplomatica dei Paesi favorevoli al mantenimento dei fondi di coesione.",
   "z1fbb0301": "NOS segue la vendita separata dei marchi del gruppo Accell dopo il fallimento.",
   "z9f33eed2": "NOS riporta l'iniziativa legale di un'organizzazione pro-palestinese contro un ex politico.",
   "z8a47f1ca": "NOS racconta l'addio della cantante con enfasi sulla sua futura carriera solista.",
@@ -45210,7 +44950,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zbc788f82": "Il Fatto Quotidiano ricostruisce la chiusura delle indagini distinguendo tra i dossier rivelatisi falsi e gli accessi informatici reali alla vita privata della vittima.",
   "zadea9e0d": "Il Fatto Quotidiano presenta l'impresa come un record assoluto certificato dal Guinness World Records.",
   "z2152a6b3": "la Repubblica sottolinea il cambio di posizione di Le Pen rispetto alle sue precedenti dichiarazioni sul sostegno a Kiev.",
-  "z8c30de1a": "Hespress English riprende le dichiarazioni di Hakimi come riconoscimento pubblico del talento del compagno di squadra più giovane.",
   "z98893d02": "La testata riporta la posizione cauta della Commissione europea, che rimanda la responsabilità ai due Stati coinvolti.",
   "z141c62a3": "La testata slovacca segnala la perdita dell'investimento come conseguenza della lentezza burocratica nazionale.",
   "z728bf3a1": "Il giornale sottolinea lo scontro acceso tra i due principali partiti ciprioti sulla questione.",
@@ -45227,7 +44966,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zdb22909d": "La testata raccoglie l'autocritica di un dirigente di partito sulla tenuta della coalizione di governo dopo il voto.",
   "zdef1d291": "La testata denuncia gli episodi di matrice antisemita avvenuti tra i tifosi prima della partita.",
   "z6cd72364": "La testata riporta la normalizzazione dei collegamenti aerei tra i due paesi dopo un periodo di tensioni regionali.",
-  "z567c8be2": "La testata riprende una dichiarazione dell'agenzia AFP su un ministro yemenita circa un attacco al palazzo presidenziale.",
   "z014b7489": "La testata riporta la denuncia ufficiale delle autorità provinciali sull'attacco missilistico.",
   "z0903624a": "La testata riporta la presa di posizione del Consiglio di Sicurezza a favore di una soluzione negoziata del conflitto.",
   "z666116b0": "La testata riporta il bilancio militare diffuso dall'esercito yemenita sulle operazioni condotte contro gli Houthi.",
@@ -45248,7 +44986,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z1b660424": "Hiiraan Online documenta l'entusiasmo popolare per le parole del presidente statunitense.",
   "z8a12da58": "KT Press riporta le riflessioni del vertice della magistratura ruandese sui problemi del sistema giudiziario.",
   "z2c9942ab": "Sudans Post riporta la versione ufficiale dell'esercito sulle cause della sconfitta.",
-  "z5ef93ab3": "Somali Guardian segue da vicino l'avanzata delle forze ribelli nella regione del Bay.",
   "z80a460a3": "Sierraloaded informa sull'impegno regionale per regolare l'IA nelle elezioni.",
   "z42cda20b": "The Botswana Gazette celebra il traguardo per gli arbitri nazionali.",
   "zdea60c65": "The Tribune ritrae il percorso dell'allenatore nello sport universitario statunitense.",
@@ -45265,8 +45002,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zcd256850": "La testata annuncia l'incontro come occasione di distensione bilaterale.",
   "zb3d81c6a": "Il Figaro descrive l'accentuarsi di uno squilibrio competitivo a favore delle banche americane in Europa.",
   "ze6c1ebec": "La testata inquadra il fallimento come simbolo delle derive dell'IA conversazionale.",
-  "z910b4cc1": "Lo Spiegel riporta la notizia basandosi su dichiarazioni della banca italiana coinvolta.",
-  "zb0c40711": "La testata spiega la decisione tecnica come risposta a un rischio informatico concreto.",
   "z8d32f925": "Lo Spiegel sottolinea il contrasto tra la data simbolica dell'anniversario e le manifestazioni propalestinesi.",
   "z21098a1b": "Lo Spiegel presenta l'intervento di Lammert come un monito interno al suo stesso partito.",
   "z5cd902d9": "La testata analizza il fascino del genere televisivo attraverso il ruolo dell'attrice protagonista.",
@@ -45340,15 +45075,12 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z53db6d4a": "Opinión riporta le accuse e le richieste dell'alleanza Unidad contro i due parlamentari.",
   "z0a4c70bb": "Opinión descrive i termini dell'accordo tariffario raggiunto tra governo e trasportatori.",
   "z1c6b2375": "CNA riporta semplicemente la decisione del tennista di accettare l'invito al torneo.",
-  "z245f1747": "CNA riporta l'annuncio della FIFA come conseguenza diretta del caso Balogun.",
   "z2772e022": "CNA presenta il lancio come un passo dell'espansione di Amazon nei dispositivi indossabili basati sull'IA.",
   "z252f2aa1": "CNA presenta l'iniziativa come segnale di maggiore apertura di Anthropic alla valutazione esterna.",
   "z087b116c": "CNA inquadra il calo come parte di una più ampia correzione dei titoli legati all'IA.",
-  "z15260f4e": "ORF specifica che il bersaglio è stato il palazzo presidenziale ad Aden.",
   "z13b6853c": "ORF riporta la richiesta congiunta di Parigi e Berlino per allentare le regole europee.",
   "z969547fa": "ORF riporta il voto parlamentare sulla revoca dell'immunità.",
   "zd321f81c": "ORF dà voce alla premio Nobel sulla situazione ucraina.",
-  "zffc4f7ba": "ORF segnala la scomparsa di marinai dopo l'attacco alla nave.",
   "z49d3311b": "DR Nyheder riporta la custodia cautelare disposta per i quattro indagati.",
   "zd091abbc": "Radio Okapi dà voce alle richieste delle agricoltrici locali.",
   "zbb0dca21": "The Hankyoreh segnala l'impegno della polizia a riesaminare il caso.",
@@ -45363,7 +45095,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zc2538db4": "Trend riprende il materiale condiviso da Aliyeva sull'evento.",
   "z1fff9f47": "Trend fornisce il dato specifico sugli ettari da ripristinare nel progetto.",
   "za50c6304": "Sun Online riporta i dati dell'audit sulle perdite accumulate dall'azienda.",
-  "zf224165d": "PSM News segnala le conseguenze economiche per il settore agricolo locale.",
   "z2e1a15f2": "AKIpress annuncia il programma della visita presidenziale.",
   "zef971536": "La testata ugandese presenta l'iniziativa in chiave positiva, sottolineando il beneficio nutrizionale per i minori coinvolti."
  },
@@ -55678,13 +55409,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z248b97cf": {
-   "n": "Senegal",
-   "p": [
-    "Senegal"
-   ],
-   "pt": []
-  },
   "zeaab470f": {
    "n": "Bagamoyo",
    "p": [
@@ -57080,13 +56804,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zdbed4e4e": {
-   "n": "Spagna",
-   "p": [
-    "Spain"
-   ],
-   "pt": []
-  },
   "z0c280231": {
    "n": "Unione Europea",
    "p": [
@@ -57759,20 +57476,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z5c660399": {
-   "n": "Indonesia",
-   "p": [
-    "Indonesia"
-   ],
-   "pt": []
-  },
-  "z722fd35e": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "z12c81d3b": {
    "n": "Tirana",
    "p": [
@@ -57813,13 +57516,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Lisbona",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "z54e64cb8": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -58274,13 +57970,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z8c30de1a": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z98893d02": {
    "n": "Ceuta",
    "p": [
@@ -58391,13 +58080,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Baghdad",
    "p": [
     "Iraq"
-   ],
-   "pt": []
-  },
-  "z567c8be2": {
-   "n": "Aden",
-   "p": [
-    "Yemen"
    ],
    "pt": []
   },
@@ -58541,13 +58223,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z5ef93ab3": {
-   "n": "Burhakabo",
-   "p": [
-    "Somalia"
-   ],
-   "pt": []
-  },
   "z80a460a3": {
    "n": "Sierra Leone",
    "p": [
@@ -58657,20 +58332,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Stati Uniti",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z910b4cc1": {
-   "n": "Francoforte",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
-  "zb0c40711": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -59184,13 +58845,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z245f1747": {
-   "n": "Zurigo",
-   "p": [
-    "Switzerland"
-   ],
-   "pt": []
-  },
   "z2772e022": {
    "n": "Stati Uniti",
    "p": [
@@ -59209,13 +58863,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Stati Uniti",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z15260f4e": {
-   "n": "Aden",
-   "p": [
-    "Yemen"
    ],
    "pt": []
   },
@@ -59238,13 +58885,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Ucraina",
    "p": [
     "Ukraine"
-   ],
-   "pt": []
-  },
-  "zffc4f7ba": {
-   "n": "Mar Nero",
-   "p": [
-    "Romania"
    ],
    "pt": []
   },
@@ -59346,13 +58986,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zf224165d": {
-   "n": "Maldive",
-   "p": [
-    "Maldives"
-   ],
-   "pt": []
-  },
   "z2e1a15f2": {
    "n": "Armenia",
    "p": [
@@ -59364,6 +58997,13 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Kampala",
    "p": [
     "Uganda"
+   ],
+   "pt": []
+  },
+  "zd49005ea": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
    ],
    "pt": []
   }
@@ -60546,7 +60186,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z7b536b5d": 1,
   "z55639113": 1,
   "z841558d4": 1,
-  "z248b97cf": 1,
   "zeaab470f": 1,
   "z2b35237a": 1,
   "zc695e2ce": 1,
@@ -60751,7 +60390,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zff504845": 1,
   "z59d69a6b": 1,
   "z45463588": 1,
-  "zdbed4e4e": 1,
   "z0c280231": 1,
   "z0db28a5f": 1,
   "z884952f9": 1,
@@ -60850,15 +60488,12 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zb4b1ba42": 1,
   "z70a98886": 1,
   "z9a57b4f1": 1,
-  "z5c660399": 1,
-  "z722fd35e": 1,
   "z12c81d3b": 2,
   "zee0b87ac": 1,
   "z2e79310b": 1,
   "z714d4c76": 1,
   "ze1527e63": 1,
   "ze1265090": 1,
-  "z54e64cb8": 1,
   "z1fbb0301": 1,
   "z9f33eed2": 1,
   "z8a47f1ca": 1,
@@ -60924,7 +60559,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zbc788f82": 1,
   "zadea9e0d": 1,
   "z2152a6b3": 1,
-  "z8c30de1a": 1,
   "z98893d02": 1,
   "z141c62a3": 1,
   "z728bf3a1": 1,
@@ -60941,7 +60575,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zdb22909d": 1,
   "zdef1d291": 1,
   "z6cd72364": 1,
-  "z567c8be2": 1,
   "z014b7489": 1,
   "z0903624a": 1,
   "z666116b0": 1,
@@ -60962,7 +60595,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z1b660424": 2,
   "z8a12da58": 1,
   "z2c9942ab": 2,
-  "z5ef93ab3": 2,
   "z80a460a3": 1,
   "z42cda20b": 1,
   "zdea60c65": 1,
@@ -60979,8 +60611,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zcd256850": 1,
   "zb3d81c6a": 1,
   "ze6c1ebec": 1,
-  "z910b4cc1": 1,
-  "zb0c40711": 1,
   "z8d32f925": 1,
   "z21098a1b": 1,
   "z5cd902d9": 1,
@@ -61054,15 +60684,12 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z53db6d4a": 1,
   "z0a4c70bb": 1,
   "z1c6b2375": 2,
-  "z245f1747": 1,
   "z2772e022": 1,
   "z252f2aa1": 1,
   "z087b116c": 1,
-  "z15260f4e": 2,
   "z13b6853c": 1,
   "z969547fa": 1,
   "zd321f81c": 1,
-  "zffc4f7ba": 2,
   "z49d3311b": 1,
   "zd091abbc": 1,
   "zbb0dca21": 1,
@@ -61077,7 +60704,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zc2538db4": 1,
   "z1fff9f47": 1,
   "za50c6304": 1,
-  "zf224165d": 1,
   "z2e1a15f2": 1,
   "zef971536": 1
  },
