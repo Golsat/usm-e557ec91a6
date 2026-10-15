@@ -3,6 +3,1789 @@ window.EDIZIONI["2026-10-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z9b6fffd5",
+   "sez": "mondo",
+   "titolo": "Il ritorno in Venezuela di Rodrigo Diamanti dopo dodici anni di esilio",
+   "orig": "Por qué decido regresar ahora a Venezuela tras haber estado preso en el Helicoide y pasar 12 años en el exilio",
+   "lead": "Rodrigo Diamanti, fondatore dell'organizzazione Un Mundo Sin Mordaza (UMSM), ha deciso di rientrare in Venezuela dopo aver vissuto per dodici anni in esilio. Diamanti, che in passato è stato detenuto nel centro di prigionia Helicoide, ha dedicato gran parte della sua carriera a documentare e denunciare le violazioni alla libertà di espressione nel Paese sudamericano attraverso la sua associazione nata nel 2009. Il suo ritorno rappresenta un momento significativo per l'attivismo venezuelano, data la sua lunga lotta contro i soprusi istituzionali. Lo riferisce El Universo.",
+   "more": [
+    "L'Helicoide è una struttura architettonica situata a Caracas, originariamente concepita come centro commerciale, ma trasformata nel tempo in una delle prigioni più note del Venezuela, gestita dai servizi segreti per la detenzione di prigionieri politici e oppositori del governo."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/internacional/latinoamerica/por-que-decido-regresar-ahora-a-venezuela-tras-haber-estado-preso-en-el-helicoide-y-pasar-12-anos-en-el-exilio-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-15T15:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zecb6d595",
+   "sez": "ambiente",
+   "titolo": "Alluvioni in Paraguay: le forze armate trasformano le caserme in rifugi",
+   "orig": "FF.AA. despliegan recursos ante inundaciones y habilitan cuarteles como refugios",
+   "lead": "Le forze armate del Paraguay hanno avviato un imponente dispiegamento di risorse per contrastare le gravi alluvioni che stanno colpendo il territorio nazionale, trasformando diverse caserme in rifugi temporanei per la popolazione. La decisione è stata presa per far fronte all'emergenza climatica che ha visto cittadini costretti a spostarsi con carichi in spalla sotto piogge torrenziali, specialmente in contesti rurali come Ciudad del Este. L'intervento militare mira a garantire sicurezza e assistenza immediata a chi ha perso la propria abitazione o si trova in situazioni di pericolo. Lo riferisce ABC Color.",
+   "more": [
+    "Una caserma è un edificio o un complesso di edifici destinato all'alloggio e all'addestramento dei soldati professionisti. In contesti di grave emergenza nazionale o calamità naturale, queste strutture governative vengono spesso riconvertite per accogliere civili evacuati o come basi operative strategiche per il coordinamento dei soccorsi e della logistica."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/nacionales/2026/10/15/ffaa-despliegan-recursos-ante-inundaciones-y-habilitan-cuarteles-como-refugios/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T15:18+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z8147c7f6",
+   "sez": "tech",
+   "titolo": "Burkina Faso: il bilancio del progetto tecnologico Le Grand Frère",
+   "orig": "Le Faso Digital 2026 : Josias Diendéré revient sur un an d'évolution de son projet",
+   "lead": "Josias Diendéré, vincitore della prima edizione del concorso di innovazione tecnologica indetto da Le Faso Digital, ha tracciato un bilancio del primo anno di evoluzione della sua soluzione denominata Le Grand Frère. In vista della seconda fiera virtuale prevista per l'ottobre 2026, lo sviluppatore ha analizzato i traguardi raggiunti, le opportunità di crescita e le difficoltà operative riscontrate nel contesto digitale del Burkina Faso. Il progetto mira a consolidare il proprio impatto sociale e tecnologico, puntando a nuove prospettive di espansione nel prossimo biennio. Lo riferisce Lefaso.net.",
+   "more": [
+    "La trasformazione digitale coinvolge l'adozione di nuove tecnologie per migliorare servizi e processi produttivi. In molti paesi, fiere e concorsi dedicati all'innovazione servono a stimolare il talento locale e a creare reti di collaborazione tra sviluppatori e investitori interessati al progresso."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article149966",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-15T15:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z7b536b5d",
+   "sez": "economia",
+   "titolo": "Burkina Faso: piano per la formalizzazione delle imprese nel settore informale",
+   "orig": "Burkina : Le CGA de Ouagadougou veut accélérer la formalisation des entreprises du secteur informel",
+   "lead": "Il Centro di gestione autorizzato di Ouagadougou (CGA-O), in collaborazione con la Camera di commercio del Burkina Faso, ha organizzato una sessione di sensibilizzazione dedicata alla formalizzazione delle micro, piccole e medie imprese del settore informale. L'incontro, svoltosi il 15 ottobre 2026, ha avuto l'obiettivo di fornire agli attori economici locali le competenze necessarie in ambito contabile, fiscale e sociale. Questa iniziativa punta a integrare maggiormente le attività economiche informali nel sistema regolamentato, garantendo una gestione più affidabile e trasparente delle attività produttive nel Paese. Lo riferisce Lefaso.net.",
+   "more": [
+    "Il settore informale comprende tutte le attività economiche che non sono registrate presso le autorità statali e sfuggono quindi alla tassazione e ai regolamenti ufficiali. La sua formalizzazione è fondamentale per aumentare il gettito fiscale e garantire tutele ai lavoratori, favorendo una crescita economica più stabile."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article149984",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-15T14:32+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z55639113",
+   "sez": "mondo",
+   "titolo": "Andorra: il sindacato USdA sostiene la richiesta di un referendum",
+   "orig": "L'USdA signa la petició de la concentració ciutadana per demanar el referèndum",
+   "lead": "In Andorra, l'Unió Sindical d'Andorra (USdA) ha aderito ufficialmente alla richiesta di una manifestazione cittadina organizzata per chiedere l'indizione di un referendum. Joan Torra, segretario generale del sindacato, ha già provveduto a informare formalmente il Ministero dell'Interno riguardo alla mobilitazione prevista per lunedì prossimo. L'iniziativa riflette un crescente fermento sociale nel Paese, dove i rappresentanti dei lavoratori cercano di spingere le istituzioni verso una consultazione popolare diretta su temi di rilevanza nazionale, consolidando il fronte di pressione sulle autorità locali affinché ascoltino le istanze dei cittadini. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "Un referendum è uno strumento di democrazia diretta attraverso il quale i cittadini sono chiamati a esprimersi direttamente su una proposta specifica, votando per la sua approvazione o il suo rifiuto. Viene spesso utilizzato per riforme di grande impatto sociale, permettendo al popolo di esercitare la propria sovranità."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261015/concentracio_206565.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T16:19+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z841558d4",
+   "sez": "economia",
+   "titolo": "Sanzioni per diverse banche in Senegal, Niger e Costa d'Avorio",
+   "orig": "Finances : Des banques établies au Sénégal, au Niger et en Côte d’Ivoire sanctionnées",
+   "lead": "L'autorità di vigilanza bancaria dell'Unione monetaria ovest-africana (UMOA) ha inflitto una serie di sanzioni a diversi istituti di credito operanti in Senegal, Niger e Costa d'Avorio. Il provvedimento è stato adottato nell'ambito dell'attività di controllo regolare del settore, volto a garantire la stabilità finanziaria e il rispetto delle normative vigenti nell'area. Sebbene i dettagli specifici delle violazioni non siano stati completamente resi noti, l'intervento del regolatore conferma una linea di rigore verso le istituzioni finanziarie che non si attengono ai parametri gestionali richiesti dall'unione monetaria. Lo riferisce Seneweb.",
+   "more": [
+    "Un'unione monetaria è un accordo tra diversi Stati che decidono di condividere una moneta unica e di coordinare le proprie politiche finanziarie. Questo sistema richiede un'autorità centrale che vigili sul corretto funzionamento del sistema bancario per prevenire crisi sistemiche e garantire la fiducia dei risparmiatori."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Economie/finances-des-banques-etablies-au-senegal-au-niger-et-en-cote-divoire-sanctionnees_n_999000772.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T15:12+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z248b97cf",
+   "sez": "mondo",
+   "titolo": "Senegal: il Consiglio costituzionale boccia le modifiche alla legge organica",
+   "orig": "Le Conseil constitutionnel inflige un nouveau revers à l'assemblée",
+   "lead": "Il Consiglio costituzionale del Senegal ha emesso il 15 ottobre 2026 un verdetto sfavorevole nei confronti dell'Assemblea nazionale, bocciando la legge organica n. 38/2026. Il provvedimento mirava a modificare le norme relative alle finanze e il regolamento interno del parlamento, ma è stato dichiarato non conforme ai principi costituzionali. Questa decisione segna un momento di tensione istituzionale tra il massimo organo di garanzia del Paese e il potere legislativo, sottolineando l'importanza del controllo di legittimità sulle riforme che interessano la gestione finanziaria dello Stato senegalese. Lo riferisce Seneweb.",
+   "more": [
+    "Il Consiglio costituzionale è l'organo supremo incaricato di verificare che le leggi approvate dal parlamento non contrastino con la Costituzione nazionale. Le sue decisioni sono inappellabili e servono a garantire l'equilibrio tra i diversi poteri dello Stato e la tutela dei diritti fondamentali di tutti i cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/le-conseil-constitutionnel-inflige-un-nouveau-revers-a-lassemblee_n_999000771.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T15:06+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zeaab470f",
+   "sez": "ambiente",
+   "titolo": "Tanzania: le piogge precoci minacciano il raccolto di riso a Bagamoyo",
+   "orig": "Tanzanie : l'arrivée précoce des pluies menace la récolte de riz à Bagamoyo",
+   "lead": "In Tanzania, l'arrivo anticipato della stagione delle piogge sta mettendo seriamente a rischio il raccolto di riso nella regione di Bagamoyo. Le precipitazioni insolite minacciano di compromettere i campi coltivati, creando apprensione tra i produttori locali che dipendono dal ciclo agricolo stagionale per il proprio sostentamento. La situazione evidenzia la vulnerabilità delle colture cerealicole agli eventi meteorologici imprevedibili, che possono causare ingenti perdite economiche e influenzare la disponibilità alimentare nell'area. Le autorità locali stanno monitorando l'evoluzione climatica per valutare l'entità dei danni potenziali alla produzione risicola. Lo riferisce Seneweb.",
+   "more": [
+    "Il riso è uno dei cereali più coltivati al mondo e rappresenta un alimento base fondamentale. La sua coltivazione richiede abbondante acqua, ma eccessi di pioggia o alluvioni in momenti sbagliati del ciclo vitale della pianta possono causare il marcire dei chicchi e la perdita del raccolto."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Video/tanzanie-larrivee-precoce-des-pluies-menace-la-recolte-de-riz-a-bagamoyo_n_999000768.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T14:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z2b35237a",
+   "sez": "mondo",
+   "titolo": "Ciad: il percorso di Louise Altana, esempio di imprenditoria rurale",
+   "orig": "Moyen-Chari : Mme Louise Altana, une femme rurale qui mise sur les produits locaux pour gagner sa vie",
+   "lead": "In occasione della Giornata internazionale delle donne rurali, è stato messo in risalto il percorso di Louise Altana, madre di due figli residente nel Medio Chari, in Ciad. Dal 2016, Altana si dedica alla trasformazione di prodotti agricoli locali per sostenere la propria famiglia, diventando un simbolo di emancipazione e resilienza. La sua attività si inserisce nel tema delle \"donne rurali come custodi della natura\", sottolineando l'importanza del lavoro agricolo femminile per l'economia e la biodiversità del territorio. La sua determinazione dimostra come le risorse locali possano offrire opportunità di vita dignitosa. Lo riferisce Tchadinfos.",
+   "more": [
+    "Le donne rurali svolgono un ruolo fondamentale nella produzione alimentare mondiale e nella gestione delle risorse naturali locali. Spesso lavorano in condizioni difficili, ma il loro contributo è essenziale per la sicurezza alimentare delle comunità e per la conservazione delle tradizioni agricole tramandate nel tempo."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/moyen-chari-mme-louise-altana-une-femme-rurale-qui-mise-sur-les-produits-locaux-pour-gagner-sa-vie/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T15:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zc695e2ce",
+   "sez": "mondo",
+   "titolo": "Ciad: riprende la collaborazione tra corrispondenti stampa e comune di Abéché",
+   "orig": "Abéché : après plus de six mois de boycott, les correspondants de presse en ligne renouent le dialogue avec la commune",
+   "lead": "Dopo un'interruzione dei rapporti durata oltre sei mesi, i corrispondenti della stampa online nella provincia di Ouaddaï, in Ciad, hanno annunciato la ripresa della collaborazione con il comune di Abéché. Il dialogo tra le parti si era interrotto a causa di contrasti che avevano portato al boicottaggio delle attività comunali da parte dei giornalisti. Attraverso un comunicato ufficiale diffuso il 14 ottobre 2026, la coordinazione dei media ha confermato il ritorno alla normalità, segnando un passo avanti per la libertà di informazione e la trasparenza amministrativa nella regione. Lo riferisce Tchadinfos.",
+   "more": [
+    "Un corrispondente di stampa è un giornalista che risiede stabilmente in una località diversa da quella della sede principale della propria testata per seguirne costantemente gli avvenimenti. Il dialogo collaborativo con le istituzioni locali è vitale per garantire ai cittadini una cronaca puntuale e affidabile dei fatti."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/abeche-apres-plus-de-six-mois-de-boycott-les-correspondants-de-presse-en-ligne-renouent-le-dialogue-avec-la-commune/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T13:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z999b46ee",
+   "sez": "mondo",
+   "titolo": "Ciad: accordo triennale per potenziare le competenze dei giornalisti",
+   "orig": "تشاد: السلطة العليا للإعلام و«ميديا من أجل التنمية» توقّعان اتفاقية لتعزيز قدرات الإعلاميين",
+   "lead": "L'Alta autorità per i media e l'audiovisivo (HAMA) del Ciad ha siglato un accordo triennale con l'organizzazione Media for Development (MEDEV) per rafforzare le capacità dei professionisti del settore. L'intesa, firmata a N'Djamena il 15 ottobre 2026, mira a migliorare le condizioni di lavoro dei giornalisti e a promuovere pratiche che contrastino la disinformazione nell'era digitale. Attraverso percorsi formativi specifici, la partnership punta a elevare gli standard della professione giornalistica nel Paese, adattandola alle nuove sfide tecnologiche e garantendo un'informazione più accurata e consapevole per la popolazione locale. Lo riferisce Tchadinfos.",
+   "more": [
+    "Un'autorità di regolazione dei media è un organismo indipendente che vigila sul rispetto delle norme etiche e legali nel settore dell'informazione pubblica. Collaborazioni con enti di sviluppo servono a modernizzare le infrastrutture comunicative e a formare professionisti preparati a gestire flussi informativi complessi."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/%d8%aa%d8%b4%d8%a7%d8%af-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7-%d9%84%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85-%d9%88%d9%85%d9%8a%d8%af%d9%8a%d8%a7-%d9%85%d9%86/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T13:22+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z30cc7ca7",
+   "sez": "mondo",
+   "titolo": "Ciad: scompare il giornalista e animatore culturale Clément Mortordé",
+   "orig": "Tchad : décès du journaliste et animateur culturel Clément Mortordé",
+   "lead": "Il panorama culturale e giornalistico del Ciad è in lutto per la scomparsa di Clément Mortordé, noto comunicatore e animatore culturale. Mortordé è deceduto presso il centro ospedaliero universitario di riferimento nazionale di N'Djamena a causa di una malattia. Fonti vicine alla famiglia hanno confermato la notizia, ricordando il suo impegno pluriennale nel settore dell'informazione e della promozione culturale nel Paese. La sua morte lascia un vuoto significativo nella comunità dei media locali, dove era apprezzato per la sua professionalità e per il contributo dato alla diffusione della cultura ciadiana. Lo riferisce Tchadinfos.",
+   "more": [
+    "Un animatore culturale è una figura professionale che si occupa di organizzare e promuovere eventi, attività e programmi volti a valorizzare il patrimonio artistico e sociale di una comunità, facilitando l'accesso dei cittadini a diverse forme di espressione e stimolando la partecipazione collettiva alla vita pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/tchad-deces-du-journaliste-et-animateur-culturel-clement-mortorde/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T12:54+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zef6b2967",
+   "sez": "mondo",
+   "titolo": "Guinea: chiuse dieci scuole a Koubia per mancanza di insegnanti",
+   "orig": "Koubia : 10 écoles fermées faute d’enseignants, l’IRE de Labé dit ne pas être informé",
+   "lead": "Nella prefettura di Koubia, in Guinea, dieci scuole sono state costrette a chiudere i battenti a causa di una drastica mancanza di personale docente all'inizio dell'anno scolastico 2026-2027. Nonostante i buoni risultati ottenuti negli esami nazionali precedenti, la crisi educativa locale è emersa in tutta la sua gravità il 15 ottobre 2026. L'ispettore regionale dell'istruzione di Labé ha dichiarato di non essere stato informato ufficialmente della situazione, evidenziando un possibile difetto di comunicazione tra le autorità locali e centrali che mette a rischio il diritto allo studio di numerosi studenti. Lo riferisce Mosaïque Guinée.",
+   "more": [
+    "L'istruzione primaria è fondamentale per lo sviluppo sociale ed economico di ogni paese. La carenza di docenti qualificati rappresenta un ostacolo critico, poiché impedisce la regolare erogazione del servizio educativo, aggravando i divari territoriali e compromettendo le opportunità di crescita delle nuove generazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/koubia-10-ecoles-fermees-faute-denseignants-lire-de-labe-dit-ne-pas-etre-informe/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-15T15:08+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "za8923ce8",
+   "sez": "mondo",
+   "titolo": "Guinea: istituita la commissione finanziaria per le elezioni senatoriali",
+   "orig": "Sénatoriales en Guinée: fraichement installée, la commission financière a trois jours pour fixer la caution des candidats",
+   "lead": "In Guinea, la Direzione generale delle elezioni (DGE) ha istituito ufficialmente la commissione finanziaria incaricata di definire i parametri economici per le imminenti elezioni senatoriali, previste per il 20 dicembre. La commissione ha a disposizione tre giorni, a partire dal 15 ottobre 2026, per proporre l'ammontare della cauzione necessaria per i candidati e stabilire il tetto massimo di spesa consentito per la campagna elettorale. Questo passaggio burocratico è essenziale per garantire la regolarità e la trasparenza del processo di voto, assicurando che le competizioni politiche si svolgano entro una cornice regolamentata. Lo riferisce Guinée News.",
+   "more": [
+    "Le elezioni senatoriali servono a eleggere i rappresentanti del Senato, organo legislativo che affianca la camera bassa nella gestione del potere statale. Stabilire una cauzione per i candidati è una procedura standard per garantire la serietà delle proposte politiche e per contribuire alla copertura delle spese organizzative."
+   ],
+   "fonti": [
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/15/senatoriales-en-guinee-fraichement-installee-la-commission-financiere-a-trois-jours-pour-fixer-la-caution-des-candidats/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-15T14:03+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z2b493b00",
+   "sez": "mondo",
+   "titolo": "Camerun: il ministro dell'Istruzione annulla un titolo di dottorato parigino",
+   "orig": "Jacques Fame Ndongo annule un doctorat de l’École Supérieure Robert de Sorbon de Paris",
+   "lead": "Jacques Fame Ndongo, ministro dell'Insegnamento superiore del Camerun, ha annullato ufficialmente la validità di una tesi di dottorato sostenuta presso l'École Supérieure Robert de Sorbon di Parigi. Il provvedimento ministeriale dichiara il titolo nullo e privo di ogni effetto legale all'interno del sistema accademico nazionale. La decisione si inserisce nel quadro dei controlli sulla legittimità dei titoli conseguiti all'estero, volti a preservare l'integrità e gli standard qualitativi dell'istruzione superiore camerunese. L'annullamento rappresenta un segnale rigoroso contro il riconoscimento di percorsi accademici ritenuti non conformi alle normative vigenti. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Un dottorato di ricerca è il più alto grado di istruzione accademica e richiede la produzione di una tesi originale. Il riconoscimento dei titoli conseguiti all'estero è soggetto a rigorose procedure di equipollenza, tramite le quali le autorità nazionali verificano la validità degli studi compiuti."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/jacques-fame-ndongo-annule-un-doctorat-de-lecole-superieure-robert-de-sorbon-de-paris/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T14:24+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z7775f586",
+   "sez": "mondo",
+   "titolo": "Camerun: analisi del ritiro di Pierre Emmanuel Binyam dal partito MRC",
+   "orig": "MRC : analyse du retrait de la liste de Pierre Emmanuel Binyam",
+   "lead": "All'interno del Movimento per la Rinascita del Camerun (MRC), è in corso un'analisi politica riguardo al ritiro di Pierre Emmanuel Binyam dalla lista del partito. Gaston Ntouba Essomè, osservatore del panorama politico locale, ha sottolineato come i disaccordi interni siano dinamiche normali all'interno di una formazione politica, pur evidenziando l'impatto di tale scelta sulla strategia elettorale del gruppo. Il caso mette in luce le sfide di coesione interna che i partiti camerunesi devono affrontare nel definire i propri rappresentanti e nel gestire le ambizioni dei singoli membri nel contesto nazionale. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Un partito politico è un'associazione di cittadini che condividono ideali e obiettivi comuni, organizzandosi per partecipare alle elezioni e influenzare la gestione pubblica. Le divergenze interne sono frequenti durante la fase di formazione delle liste elettorali e la definizione dei programmi d'azione collettiva."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/mrc-analyse-du-retrait-de-la-liste-de-pierre-emmanuel-binyam/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T14:05+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zfe84a48d",
+   "sez": "mondo",
+   "titolo": "Camerun: la salma di Clément Atangana attesa oggi a Yaoundé",
+   "orig": "La dépouille de Clément Atangana attendue ce jour à Yaoundé !",
+   "lead": "Le spoglie di Clément Atangana, ex presidente del Consiglio costituzionale del Camerun, sono attese nella giornata di giovedì 15 ottobre a Yaoundé. Il rientro della salma avviene all'indomani della cerimonia ufficiale di omaggio svoltasi in onore dell'illustre magistrato, figura di primo piano nelle istituzioni del Paese. La capitale si prepara ad accogliere i resti di Atangana per i successivi riti funebri, in un clima di commozione nazionale per la perdita di un uomo che ha guidato uno dei massimi organi di garanzia dello Stato camerunese per lungo tempo. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Una salma è il corpo esanime di una persona. Il trasporto dei resti di figure istituzionali di alto profilo richiede spesso protocolli solenni e cerimonie pubbliche che permettono alla nazione intera di rendere omaggio alla memoria e all'operato del defunto per il bene comune."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/la-depouille-de-clement-atangana-attendue-ce-jour-a-yaounde/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T13:12+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zc031bd46",
+   "sez": "mondo",
+   "titolo": "Camerun: pubblicate le liste elettorali provvisorie per le elezioni del 2027",
+   "orig": "Législatives et municipales 2027 : les listes électorales provisoires disponibles dans les 360 communes",
+   "lead": "L'agenzia Elections Cameroon (ELECAM) ha annunciato la pubblicazione delle liste elettorali provvisorie in tutti i 360 comuni del territorio nazionale, in vista delle elezioni legislative e municipali del 2027. A partire dal 15 ottobre 2026, i cittadini hanno la possibilità di consultare gli elenchi per verificare la correttezza dei propri dati e procedere con eventuali operazioni di rettifica o integrazione. Questo processo di aggiornamento è fondamentale per garantire un corpo elettorale trasparente e affidabile, permettendo a tutti gli aventi diritto di partecipare regolarmente alle future consultazioni democratiche del Paese. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Le liste elettorali sono i registri ufficiali che contengono i nomi dei cittadini aventi diritto al voto in una determinata giurisdizione. La loro revisione periodica serve a includere i nuovi elettori, cancellare chi ha perso il diritto e correggere eventuali errori nei dati anagrafici registrati."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/legislatives-et-municipales-2027-les-listes-electorales-provisoires-disponibles-dans-les-360-communes/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T12:57+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zaba4e1c7",
+   "sez": "viaggi",
+   "titolo": "Benin: bando per i ristoratori in vista dei Vodun Days 2027 a Ouidah",
+   "orig": "Vodun Days 2027 : Bénin Tourisme ouvre les candidatures pour les restaurateurs à Ouidah",
+   "lead": "In vista dei Vodun Days 2027, che si terranno a Ouidah dal 2 al 9 gennaio, l'ente Benin Tourisme ha aperto le candidature per i ristoratori interessati a gestire uno stand gastronomico presso la Place Maro. L'evento, lanciato ufficialmente nel 2024, celebra l'arte, la cultura e la spiritualità vodun, attirando numerosi visitatori sin dalla sua prima edizione. L'obiettivo della selezione è garantire un'offerta culinaria di qualità ai partecipanti, valorizzando i sapori locali all'interno di una cornice che unisce tradizioni ancestrali e promozione turistica internazionale del territorio beninese. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "Il vodun è un'antica forma di spiritualità originaria dell'Africa occidentale che ha influenzato profondamente la cultura di molti popoli. I festival dedicati a questo culto servono a preservare un importante patrimonio storico e a promuovere il turismo culturale, attirando visitatori da tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/vodun-days-2027-benin-tourisme-ouvre-les-candidatures-pour-les-restaurateurs-a-ouidah/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T15:06+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a88b007",
+   "sez": "organizzazioni",
+   "titolo": "Cedeao: il magistrato beninese Désiré Henri Aïhou eletto vicepresidente della Corte di giustizia",
+   "orig": "CEDEAO : le Béninois Désiré Henri Aïhou élu vice-président de la Cour de justice pour deux ans",
+   "lead": "Il magistrato beninese Désiré Henri Aïhou è stato eletto vicepresidente della Corte di giustizia della CEDEAO durante una riunione tenutasi ad Abuja il 13 ottobre 2026. Aïhou, magistrato di carriera con una lunga esperienza, affiancherà la nuova presidente, la liberiana Charlyne M. Brumskine, per un mandato della durata di due anni. L'elezione della nuova direzione segna un rinnovamento ai vertici dell'istituzione giudiziaria della comunità economica degli stati dell'Africa occidentale, puntando a rafforzare l'efficacia della corte nel monitorare il rispetto dei trattati e dei diritti umani tra i paesi membri. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "Una Corte di giustizia internazionale è l'organo incaricato di risolvere le controversie tra gli Stati membri di un'organizzazione e di garantire l'applicazione dei trattati. Svolge un ruolo cruciale nella tutela dei diritti dei cittadini e nel favorire la cooperazione giuridica stabile tra diverse nazioni sovrane."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/cedeao-le-beninois-desire-henri-aihou-elu-vice-president-de-la-cour-de-justice-pour-deux-ans/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T13:54+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z23d82f1a",
+   "sez": "mondo",
+   "titolo": "Benin: il governo presenta nuove misure per valorizzare la classe docente",
+   "orig": "Bénin : ce que le gouvernement prévoit pour améliorer les conditions des enseignants",
+   "lead": "In occasione della 33esima Giornata mondiale degli insegnanti, il governo del Benin ha presentato un piano di interventi volto a migliorare le condizioni professionali e sociali dei docenti nel Paese. Celebrata all'insegna del tema della valorizzazione dell'insegnamento per un'istruzione di qualità, l'iniziativa mira a riconoscere il ruolo centrale dei maestri nello sviluppo nazionale. Le autorità hanno ribadito l'impegno a sostenere e accompagnare il corpo docente attraverso riforme strutturali, sottolineando che una scuola efficiente è il pilastro fondamentale per la crescita economica e sociale a lungo termine della nazione beninese. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "La Giornata mondiale degli insegnanti è una ricorrenza internazionale volta a onorare il lavoro fondamentale svolto dagli educatori. È un'occasione per riflettere sulle sfide del sistema scolastico e per promuovere politiche che garantiscano standard di vita e di lavoro dignitosi per chi forma le generazioni future."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-ce-que-le-gouvernement-prevoit-pour-ameliorer-les-conditions-des-enseignants/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T13:51+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zf568d085",
+   "sez": "mondo",
+   "titolo": "Difesa: la Germania raddoppierà la spesa militare rispetto alla Francia entro il 2030",
+   "orig": "Défense : l'Allemagne veut consacrer plus du double de la France à ses armées d'ici 2030",
+   "lead": "La Germania ha pianificato un massiccio aumento della propria spesa militare, prevedendo di destinare 183,7 miliardi di euro alla difesa entro il 2030, una cifra superiore al doppio rispetto ai 76,3 miliardi previsti dalla Francia per lo stesso anno. Secondo il piano di bilancio federale diffuso dal Ministero delle Finanze tedesco, una tappa intermedia fissa l'investimento a 162,9 miliardi già nel 2029. Questo cambio di rotta nella strategia di difesa tedesca segnala una volontà di potenziare drasticamente le proprie forze armate nel prossimo decennio, distanziandosi notevolmente dagli investimenti dei partner europei storici. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "La spesa militare comprende le risorse finanziarie che uno Stato assegna al mantenimento e all'ammodernamento delle proprie forze armate. Questo include l'acquisto di armamenti, la manutenzione delle basi e il pagamento del personale, riflettendo le priorità strategiche di un governo in materia di sicurezza nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/defense-lallemagne-veut-consacrer-plus-du-double-de-la-france-a-ses-armees-dici-2030/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T13:29+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zfc764ab5",
+   "sez": "ambiente",
+   "titolo": "Gabon: emergenza alluvioni nel terzo arrondissement di Port-Gentil",
+   "orig": "3ème arrondissement de Port-Gentil : Comment faire face aux inondations ?",
+   "lead": "Il terzo arrondissement di Port-Gentil, in Gabon, sta affrontando una grave emergenza a causa di persistenti inondazioni che colpiscono la zona da diversi anni. La stagnazione delle acque lungo la principale via di collegamento sta creando enormi disagi alla circolazione e alla vita quotidiana dei residenti, costringendo le autorità locali a pianificare operazioni urgenti per contrastare il fenomeno. La problematica legata al drenaggio urbano è diventata una priorità per la sicurezza degli abitanti, evidenziando la necessità di interventi strutturali per prevenire i danni causati dalle piogge e dalla conformazione del terreno nella provincia. Lo riferisce Gabonactu.",
+   "more": [
+    "Un'inondazione si verifica quando l'acqua ricopre temporaneamente zone di terreno che normalmente sono asciutte. Può essere causata da forti piogge, dall'esondazione di corsi d'acqua o da un sistema di drenaggio inefficiente nelle aree urbane, mettendo a rischio la stabilità delle infrastrutture e la salute pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/15/3eme-arrondissement-de-port-gentil-comment-faire-face-aux-inondations/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-15T13:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z9fbfa9d3",
+   "sez": "mondo",
+   "titolo": "Moanda: ispezione municipale al mercato Gabon Télécom per migliorare i servizi",
+   "orig": "Moanda : La municipalité préoccupée par les commodités au marché de Gabon Télécom",
+   "lead": "Il primo vicesindaco della città di Moanda, Judicaël Stchiantou, ha effettuato un sopralluogo presso il mercato di Gabon Télécom per verificare lo stato delle strutture e i servizi offerti. Accompagnato da alcuni collaboratori, il rappresentante della municipalità situata nella provincia dell'Haut-Ogooué, nel sud-est del Gabon, ha manifestato la preoccupazione dell'amministrazione per le comodità all'interno del polo commerciale. La visita mira a individuare gli interventi necessari per migliorare l'ambiente di lavoro dei commercianti e l'esperienza d'acquisto dei cittadini in questa area urbana vicina a Franceville. Lo riferisce Gabonactu.",
+   "more": [
+    "Moanda è un importante centro urbano nel sud-est del Gabon, noto principalmente come uno dei maggiori poli mondiali per l'estrazione del manganese. La gestione dei mercati cittadini è fondamentale per l'economia locale, poiché questi spazi rappresentano il cuore degli scambi quotidiani per la popolazione e richiedono un monitoraggio costante per garantire standard igienici e logistici adeguati."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/15/moanda-la-municipalite-preoccupee-par-les-commodites-au-marche-de-gabon-telecom/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-15T12:08+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "ze6751df4",
+   "sez": "economia",
+   "titolo": "Nigeria: Aliko Dangote estende l'ingresso in Borsa per la sua mega-raffineria",
+   "orig": "BOURSE – Aliko Dangote veut que les Africains deviennent actionnaires de sa méga-raffinerie",
+   "lead": "L'imprenditore Aliko Dangote ha annunciato la proroga di due settimane per la sottoscrizione all'ingresso in Borsa della sua imponente raffineria nigeriana, stabilendo come nuovo termine il 27 ottobre. La decisione è stata resa nota dopo una visita di parlamentari kenioti al sito industriale situato nei pressi di Lagos. L'uomo più ricco d'Africa ha spiegato che l'obiettivo dell'estensione è permettere ai comuni cittadini africani di acquistare quote del progetto e diventarne azionisti, promuovendo una partecipazione diffusa in uno dei piani industriali più rilevanti del continente. Lo riferisce 2424.mg.",
+   "more": [
+    "Una raffineria è un impianto industriale complesso dove il petrolio greggio viene lavorato per ottenere derivati come benzina, gasolio e altri combustibili. Il progetto promosso da Dangote in Nigeria mira a rendere il Paese autosufficiente nella produzione di prodotti petroliferi, riducendo la dipendenza dalle importazioni estere in un mercato energetico africano in forte crescita."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/bourse-aliko-dangote-veut-que-les-africains-deviennent-actionnaires-de-sa-mega-raffinerie",
+     "angolo": "",
+     "atlas": "Madagascar"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zfe3df32f",
+   "sez": "mondo",
+   "titolo": "Antsohihy: ripristinata la statua originale dell'ex presidente Tsiranana",
+   "orig": "FAHATSIAROVANA – Naverina tamin’ilay sary sokitra teo aloha ny tsangambato fahatsiarovana ny Filoha teo aloha Tsiranana Philibert tany Antsohihy",
+   "lead": "Ad Antsohihy è stata ripristinata la scultura originale del monumento dedicato a Philibert Tsiranana, il primo presidente del Madagascar. Eliana Bezaza, portavoce della famiglia e leader del partito PSD, ha ringraziato il governo per aver rimosso una nuova statua recentemente installata che non era stata gradita. La vecchia opera è tornata al suo posto nel centro della città, ponendo fine alle polemiche legate alla rappresentazione artistica del defunto capo di Stato. La famiglia ha espresso soddisfazione per il ritorno alla versione storica che onora correttamente la memoria del leader. Lo riferisce 2424.mg.",
+   "more": [
+    "Philibert Tsiranana è stato una figura centrale della storia malgascia, guidando il Paese verso l'indipendenza dalla Francia e ricoprendo la carica di primo presidente della Repubblica dal 1959 al 1972. I monumenti a lui dedicati rappresentano simboli importanti della memoria nazionale e della stabilità politica post-coloniale dell'isola."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/fahatsiarovana-tsangambato-tsiranana-philibert-antsohihy",
+     "angolo": "",
+     "atlas": "Madagascar"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zf902a05c",
+   "sez": "ambiente",
+   "titolo": "Antananarivo: la raccolta differenziata entra nelle abitudini dei quartieri",
+   "orig": "ASSAINISSEMENT – Le tri de déchets entre progressivement dans les habitudes des ménages à Ampefiloha cité et Ambohitrakely",
+   "lead": "Gli abitanti dei quartieri di Ampefiloha Cité e Ambohitrakely, ad Antananarivo, stanno adottando progressivamente l'abitudine di differenziare i rifiuti domestici. Grazie al progetto Gesda, volto a migliorare la gestione degli scarti solidi nella capitale malgascia, le famiglie imparano a separare i materiali invece di mescolarli in un unico sacco. L'iniziativa, portata avanti dalla società municipale di igiene urbana, sta trasformando i gesti quotidiani della popolazione locale, promuovendo una cultura del riciclo e una maggiore cura dell'ambiente cittadino attraverso la corretta gestione dei rifiuti prodotti in casa. Lo riferisce 2424.mg.",
+   "more": [
+    "La raccolta differenziata consiste nel dividere i rifiuti in base alla loro tipologia, come carta, plastica, vetro e residui organici, per facilitarne il recupero. Questo processo è essenziale per ridurre l'impatto ambientale delle discariche e favorire l'economia circolare, in cui i materiali di scarto vengono trasformati in nuove risorse riutilizzabili."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/assainissement-le-tri-de-dechets-entre-progressivement-dans-les-habitudes-des-menages-a-ampefiloha-cite-et-ambohitrakely",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-15T13:18+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z43c850ef",
+   "sez": "economia",
+   "titolo": "Madagascar: stop alla pesca e all'esportazione dei granchi di mangrovia",
+   "orig": "ÉCONOMIE BLEUE – Fermeture de la pêche aux crabes du 16 octobre au 15 décembre, clôture des exportations au 30 octobre",
+   "lead": "Il Ministero della Pesca e dell'Economia Blu del Madagascar ha annunciato la sospensione della pesca e della vendita dei granchi di mangrovia dal 16 ottobre al 15 dicembre 2026. Per quanto riguarda le attività di spedizione ed esportazione, il termine ultimo è fissato al 30 ottobre. Il provvedimento impone una chiusura di due mesi volta a tutelare la risorsa e a garantirne la sostenibilità biologica. Tutte le operazioni commerciali legate a questa specie dovranno essere interrotte nel periodo indicato per consentire il ripopolamento e la tutela dell'ecosistema marino. Lo riferisce 2424.mg.",
+   "more": [
+    "L'economia blu si riferisce alla gestione sostenibile delle risorse oceaniche e marine per favorire la crescita economica. I granchi di mangrovia vivono in ecosistemi costieri delicati e sono una risorsa fondamentale per le esportazioni del Madagascar; i periodi di fermo biologico sono necessari per prevenire lo sfruttamento eccessivo e garantire il futuro del settore."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/economie-bleue-fermeture-de-la-peche-aux-crabes-du-16-octobre-au-15-decembre-cloture-des-exportations-au-30-octobre-2",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-15T13:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z0da96a04",
+   "sez": "mondo",
+   "titolo": "Mauritania: il successo dello sviluppo a Nouadhibou dipende dal rispetto delle priorità",
+   "orig": "بلدية نواذيبو: نجاح البرنامج التنموي رهين بجدية التنفيذ واحترام الأولويات",
+   "lead": "Il consiglio comunale di Nouadhibou ha dichiarato che il successo del programma di sviluppo locale è strettamente legato alla serietà dell'esecuzione e al rispetto delle priorità stabilite. Durante i lavori dell'amministrazione cittadina, è emerso che i piani di crescita economica e sociale richiedono un impegno rigoroso nel seguire le fasi pianificate per garantire risultati concreti alla popolazione. La città portuale mauritana punta su una gestione oculata delle risorse e su un coordinamento efficace per trasformare gli obiettivi di sviluppo in miglioramenti tangibili per l'intera comunità urbana. Lo riferisce Alakhbar.",
+   "more": [
+    "Nouadhibou è la seconda città della Mauritania e rappresenta il principale polo commerciale e peschereccio del Paese. Situata su una posizione strategica lungo la costa atlantica, la città ospita una zona franca e infrastrutture portuali vitali per l'esportazione di minerali di ferro e prodotti ittici, motori essenziali dell'economia nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad0df540b4ddf00018c92c3/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-15T14:18+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zf1c47168",
+   "sez": "cultura",
+   "titolo": "Tunisia: una foto commemora i martiri della battaglia di Biserta del 1961",
+   "orig": "Photo du jour | La tombe du martyr de Bizerte",
+   "lead": "Una fotografia pubblicata a Biserta mostra due bambine raccolte davanti alla tomba di un martire caduto durante il conflitto del 1961. L'immagine, scelta come scatto del giorno, vuole ricordare gli eventi della guerra di Biserta, un momento cruciale nella storia tunisina per il raggiungimento della piena sovranità nazionale. Attraverso questo scatto simbolico, viene rievocata la memoria di chi perse la vita durante gli scontri con le forze francesi, sottolineando il legame tra le vecchie e le nuove generazioni nel ricordo del sacrificio compiuto per l'indipendenza del Paese. Lo riferisce Kapitalis.",
+   "more": [
+    "La battaglia di Biserta fu un conflitto armato tra la Francia e la Tunisia avvenuto nel luglio del 1961. La disputa scoppiò quando le forze tunisine imposero un blocco alla base navale francese, che Parigi non aveva ancora evacuato nonostante l'indipendenza della Tunisia ottenuta nel 1956. Il conflitto si concluse con la definitiva partenza dei francesi nel 1963."
+   ],
+   "fonti": [
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/15/photo-du-jour-la-tombe-du-martyr-de-bizerte/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T12:28+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z6513c76d",
+   "sez": "economia",
+   "titolo": "Tunisia: piano di aumento di capitale per la Società dello Zucchero",
+   "orig": "مشروع مالية 2027: الترفيع في رأس مال الشركة التونسية للسكر",
+   "lead": "Il progetto di legge finanziaria per il 2027 in Tunisia include proposte mirate a rafforzare la struttura della Società Tunisina dello Zucchero. Tra le misure principali spicca il previsto aumento del capitale sociale dell'azienda, finalizzato a trovare soluzioni concrete per la sua ristrutturazione finanziaria. L'intervento punta a risanare i conti della compagnia statale e a garantirne la stabilità operativa nel lungo periodo, rispondendo alle criticità economiche emerse negli ultimi anni. Il provvedimento è parte di una più ampia strategia governativa per sostenere i settori industriali strategici del Paese. Lo riferisce Mosaïque FM.",
+   "more": [
+    "L'aumento di capitale è un'operazione finanziaria con cui una società incrementa il proprio patrimonio netto, spesso necessaria per ripianare perdite o finanziare nuovi piani di sviluppo industriale. Per un'azienda statale, questo tipo di intervento serve a garantire la fornitura di beni essenziali e la tenuta occupazionale nel settore di riferimento."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%A7%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AA%D9%88%D9%86%D8%B3/1533583/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D8%A7%D9%84%D9%8A%D8%A9-2027-%D8%A7%D9%84%D8%AA%D8%B1%D9%81%D9%8A%D8%B9-%D9%81%D9%8A-%D8%B1%D8%A3%D8%B3-%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%83%D8%B1",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T15:49+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z0b2a4e7e",
+   "sez": "economia",
+   "titolo": "Tunisia: proposta di legge per tassare i giochi e i concorsi al 60%",
+   "orig": "مشروع قانون المالية: مقترح برفع المعاليم على المسابقات والألعاب لـ 60%",
+   "lead": "Nell'ambito della nuova legge finanziaria, è stata presentata in Tunisia una proposta per elevare al 60% la tassazione sui concorsi e sui giochi a premio. Il provvedimento mira a incrementare le entrate fiscali dello Stato attraverso un prelievo più consistente su questo settore. Se approvato, l'aumento dei prelievi fiscali colpirà direttamente gli operatori del comparto ludico e i premi messi in palio, segnando un netto inasprimento delle politiche tributarie legate all'intrattenimento. La misura è attualmente al centro del dibattito economico per definire il bilancio dei prossimi anni. Lo riferisce Mosaïque FM.",
+   "more": [
+    "La tassazione sui giochi e sulle scommesse è uno strumento utilizzato dai governi per generare entrate fiscali da attività non essenziali. Spesso queste imposte sono elevate sia per rimpinguare le casse statali sia per disincentivare comportamenti legati all'azzardo, richiedendo un equilibrio tra le necessità di bilancio e la sostenibilità economica delle imprese del settore."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533580/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A8%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D9%84%D9%80-60",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T15:28+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zdfc53daf",
+   "sez": "viaggi",
+   "titolo": "Tunisia: la tassa per i viaggi all'estero potrebbe salire a 80 dinari",
+   "orig": "مشروع ميزانية 2027 يقترح الترفيع في معلوم السفر من 60 إلى 80 دينارا",
+   "lead": "Il progetto di bilancio per il 2027 in Tunisia propone un incremento della tassa dovuta per i viaggi all'estero, passando dagli attuali 60 a 80 dinari. Questo adeguamento tariffario è parte delle nuove misure fiscali allo studio del governo per aumentare le entrate statali nel prossimo esercizio finanziario. Il provvedimento, se confermato, inciderà sui costi sostenuti dai cittadini e dai residenti che intendono spostarsi fuori dai confini nazionali. La proposta mira a generare nuove risorse per le casse pubbliche attraverso il settore dei trasporti e dei viaggi internazionali. Lo riferisce Mosaïque FM.",
+   "more": [
+    "Le tasse di viaggio o di espatrio sono contributi richiesti da alcuni Stati per ottenere documenti di viaggio o per l'uscita fisica dal territorio nazionale. Questi fondi vengono solitamente destinati alla gestione dei servizi aeroportuali, al controllo delle frontiere o confluiscono direttamente nel bilancio generale dello Stato per finanziare la spesa pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533573/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D9%8A%D9%82%D8%AA%D8%B1%D8%AD-%D8%A7%D9%84%D8%AA%D8%B1%D9%81%D9%8A%D8%B9-%D9%81%D9%8A-%D9%85%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D9%85%D9%86-60-%D8%A5%D9%84%D9%89-80-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1%D8%A7",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T14:52+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z54eca989",
+   "sez": "salute",
+   "titolo": "Goma: \"Cicatrici invisibili\", il progetto fotografico sui traumi dei conflitti",
+   "orig": "Goma : “Cicatrices invisibles”, un projet photographique sur les souffrances psychologiques liées aux conflits présenté par le photographe Aristarque Kubuya",
+   "lead": "In occasione della Giornata mondiale della salute mentale, il fotografo Aristarque Kubuya ha presentato a Goma, nel Nord-Kivu, il progetto artistico intitolato \"Cicatrici invisibili\". L'opera documentaria utilizza il linguaggio della fotografia per raccontare le sofferenze psicologiche e i traumi vissuti dalla popolazione a causa dei lunghi conflitti armati nella regione. Attraverso i suoi scatti, Kubuya intende sensibilizzare l'opinione pubblica sulle ferite interiori che spesso restano trascurate nelle zone di guerra, promuovendo una maggiore consapevolezza sull'importanza del benessere mentale in contesti segnati dalla violenza. Lo riferisce Actualite.cd.",
+   "more": [
+    "Goma è una città situata nell'est della Repubblica Democratica del Congo, un'area colpita per decenni da instabilità politica e scontri tra gruppi armati. La salute mentale in queste regioni è un tema critico, poiché l'esposizione continua a eventi traumatici richiede interventi specialistici per aiutare le persone a superare gli effetti psicologici della guerra e della perdita dei propri beni."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/goma-cicatrices-invisibles-un-projet-photographique-sur-les-souffrances-psychologiques",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T12:35+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z8aa874bb",
+   "sez": "mondo",
+   "titolo": "Panama: il governo Mulino mobilita soccorsi via terra, aria e mare",
+   "orig": "Por aire, tierra y mar el gobierno del Presidente Mulino lleva ayuda a miles de panameños",
+   "lead": "Il governo del presidente Mulino a Panama ha attivato un'ampia operazione di assistenza per raggiungere migliaia di cittadini colpiti da recenti emergenze, utilizzando mezzi terrestri, aerei e navali. Gli interventi si dividono in due fasi principali: la riparazione delle abitazioni che hanno subito danni parziali e la ricostruzione totale di quelle andate completamente distrutte. L'obiettivo delle autorità è garantire che l'aiuto arrivi anche nelle zone più difficili da raggiungere, assicurando una risposta rapida alle necessità delle famiglie panamensi che hanno perso le proprie case o i propri beni. Lo riferisce Panamá América.",
+   "more": [
+    "La logistica dei soccorsi richiede il coordinamento tra diverse agenzie di protezione civile e forze di sicurezza per gestire la distribuzione di materiali e l'evacuazione di persone in caso di calamità naturali. Panama, data la sua conformazione geografica, necessita spesso di un approccio multimodale che includa imbarcazioni ed elicotteri per servire le comunità costiere e montane isolate."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/por-aire-tierra-y-mar-el-gobierno-del-presidente-mulino-lleva-ayuda-miles-de-panamenos",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z085d2caf",
+   "sez": "economia",
+   "titolo": "Panama: pagamenti anticipati per pensionati e jubilados questo venerdì",
+   "orig": "CSS adelanta para este viernes el pago a jubilados y pensionados",
+   "lead": "La Cassa di Previdenza Sociale di Panama ha annunciato che il pagamento spettante a pensionati e jubilados sarà anticipato a questo venerdì. L'ente ha confermato che tutte le agenzie dislocate sul territorio nazionale saranno regolarmente operative per gestire le erogazioni, con la sola eccezione della sede di Las Tablas. Questa iniziativa permette ai beneficiari di accedere ai propri fondi in anticipo rispetto al calendario ordinario, assicurando la copertura del servizio nella quasi totalità degli uffici previdenziali del Paese per facilitare le operazioni finanziarie della popolazione anziana. Lo riferisce Panamá América.",
+   "more": [
+    "Un sistema di previdenza sociale gestisce i fondi accantonati dai lavoratori per garantire una rendita economica durante la vecchiaia o in situazioni di invalidità. In molti Paesi dell'America Latina, gli enti previdenziali svolgono anche funzioni amministrative dirette sul territorio attraverso agenzie locali che si occupano dell'erogazione fisica dei contributi mensili."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/css-adelanta-para-este-viernes-el-pago-jubilados-y-pensionados-1267531",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zf77b3bee",
+   "sez": "mondo",
+   "titolo": "Panama: esperti avvertono che la ricostruzione potrebbe richiedere anni",
+   "orig": "Reconstrucción de zonas afectadas podría tardar años, señalan expertos",
+   "lead": "Secondo diversi esperti, la ricostruzione delle zone colpite da eventi calamitosi a Panama potrebbe protrarsi per diversi anni. I tecnici hanno sottolineato l'importanza vitale di impiegare materiali da costruzione dotati della necessaria resistenza per sopportare eventi simili in futuro, mantenendo al contempo standard costruttivi elevati. Il processo di ripristino richiederà non solo tempo, ma anche una pianificazione rigorosa per evitare che le nuove infrastrutture siano vulnerabili. La sfida principale sarà integrare la resilienza nelle pratiche edilizie locali per proteggere le comunità da prossime emergenze ambientali. Lo riferisce Panamá América.",
+   "more": [
+    "La resilienza urbana riguarda la capacità delle infrastrutture di resistere a shock esterni come inondazioni o terremoti e di tornare rapidamente funzionali. Questo concetto è fondamentale nella pianificazione moderna, poiché permette di ridurre i danni economici e umani nel lungo periodo attraverso l'adozione di norme tecniche severe e l'uso di tecnologie avanzate."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/reconstruccion-de-zonas-afectadas-podria-tardar-anos-senalan-expertos-1267525",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z0c4c97ce",
+   "sez": "mondo",
+   "titolo": "Haiti: ordinanza del comune di Kenscoff contro l'ingombro stradale",
+   "orig": "iciHaïti - Mairie de Kenscoff : AVIS officiel à la population",
+   "lead": "L'amministrazione comunale di Kenscoff ha emesso un avviso ufficiale rivolto a commercianti e venditori per vietare temporaneamente ogni installazione che ingombri la strada di Fermathe. La misura è stata presa per liberare la via pubblica e migliorare la viabilità in una zona cruciale della cittadina haitiana. Le autorità locali hanno informato la cittadinanza che non saranno tollerate occupazioni abusive della carreggiata, invitando i mercanti a rispettare le nuove disposizioni. Il provvedimento mira a garantire un transito più fluido per i veicoli e i pedoni, riducendo il caos nelle ore di punta. Lo riferisce Haïti Libre.",
+   "more": [
+    "Kenscoff è una località collinare situata a sud di Port-au-Prince, nota per la sua produzione agricola e come destinazione residenziale grazie al suo clima temperato. La gestione del traffico e degli spazi mercatali è una sfida ricorrente nelle zone urbane di Haiti, dove il commercio informale spesso si estende sulle principali arterie stradali."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48668-icihaiti-mairie-de-kenscoff-avis-officiel-a-la-population.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-15T09:54-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z534eb6be",
+   "sez": "mondo",
+   "titolo": "Haiti: l'ONU rinnova le sanzioni contro i gang per un altro anno",
+   "orig": "Haïti - Conseil de Sécurité : L'ONU renouvelle pour un an les sanctions contre Haïti afin de freiner les gangs",
+   "lead": "Il Consiglio di Sicurezza dell'ONU ha deliberato mercoledì 14 ottobre 2026 il rinnovo per un anno del regime di sanzioni contro Haiti. I provvedimenti mirano a colpire i responsabili della violenza nel Paese attraverso il congelamento dei beni, il divieto di viaggio e l'embargo sulle armi. La decisione è stata presa per cercare di contenere il potere dei gruppi criminali e dei gang che destabilizzano la nazione caraibica. La proroga degli strumenti sanzionatori rappresenta l'impegno della comunità internazionale nel voler frenare l'insicurezza e proteggere la popolazione civile haitiana dai continui abusi. Lo riferisce Haïti Libre.",
+   "more": [
+    "Il Consiglio di Sicurezza è l'organo delle Nazioni Unite responsabile del mantenimento della pace e della sicurezza internazionale. Le sanzioni economiche e gli embarghi sono strumenti diplomatici che mirano a isolare e indebolire individui o organizzazioni che violano i diritti umani o minacciano la stabilità politica di un territorio, senza ricorrere alla forza militare."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48667-haiti-conseil-de-securite-l-onu-renouvelle-pour-un-an-les-sanctions-contre-haiti-afin-de-freiner-les-gangs.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-15T09:46-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z58f00333",
+   "sez": "mondo",
+   "titolo": "Haiti: inaugurato un nuovo posto di polizia a Delmas 19",
+   "orig": "iciHaïti - Sécurité : Ouverture d'un poste de police à Delmas 19",
+   "lead": "La Polizia Nazionale di Haiti ha proceduto, mercoledì 14 ottobre 2026, all'apertura di un nuovo presidio nel quartiere di Delmas 19. L'inaugurazione della struttura fa parte di un piano strategico mirato a rafforzare la sicurezza nel comune di Delmas, un'area densamente popolata della regione metropolitana. Con questo nuovo posto di polizia, le autorità intendono incrementare la presenza delle forze dell'ordine sul territorio per prevenire attività criminose e garantire una risposta più rapida alle emergenze. L'iniziativa risponde alle crescenti richieste di protezione espresse dai residenti e dai commercianti della zona. Lo riferisce Haïti Libre.",
+   "more": [
+    "Delmas è uno dei comuni più importanti dell'area metropolitana di Port-au-Prince, caratterizzato da un'intensa attività commerciale e residenziale. In un contesto di forte insicurezza, la presenza capillare di posti di polizia è vitale per cercare di ristabilire l'ordine pubblico e contrastare il controllo esercitato dai gruppi criminali in diverse zone della città."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48666-icihaiti-securite-ouverture-d-un-poste-de-police-a-delmas-19.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-15T09:38-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z7c19c7f8",
+   "sez": "ambiente",
+   "titolo": "Haiti: allarme per la vendita di carburante pericoloso per i motori",
+   "orig": "Haïti - FLASH : Vente officielle dans les stations services d'un carburant dangereux pour les véhicules",
+   "lead": "Edouard L. Paultre, dell'organizzazione Ensemble Contre La Corruption, ha denunciato la commercializzazione di prodotti petroliferi pericolosi per i veicoli nelle stazioni di servizio haitiane. Secondo quanto riferito, all'inizio di settembre 2026 una nave avrebbe scaricato una cargaison al terminal di Varreux senza i dovuti controlli di qualità. Questo carburante, privo di garanzie tecniche, viene ora distribuito ufficialmente, mettendo a rischio l'integrità dei motori della popolazione. La denuncia evidenzia una grave lacuna nella vigilanza sulle importazioni energetiche e richiama l'attenzione sulle possibili conseguenze economiche e meccaniche per gli utenti. Lo riferisce Haïti Libre.",
+   "more": [
+    "Il carburante non controllato può contenere impurità o additivi dannosi che provocano l'usura precoce dei motori, intasano i filtri e danneggiano i sistemi di iniezione. La qualità dei prodotti petroliferi è fondamentale non solo per il funzionamento dei mezzi di trasporto, ma anche per limitare le emissioni inquinanti derivanti da una combustione inefficiente."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48665-haiti-flash-vente-officielle-dans-les-stations-services-d-un-carburant-dangereux-pour-les-vehicules.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-15T09:30-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z87f53bb3",
+   "sez": "economia",
+   "titolo": "Suriname: la presidente Geerlings-Simons chiede la diversificazione economica",
+   "orig": "Woorden versus daden",
+   "lead": "Durante l'International Business Conference, la presidente del Suriname Jennifer Geerlings-Simons ha chiarito che l'estrazione di petrolio e gas non sarà sufficiente a garantire la prosperità del Paese. Il capo di Stato ha sottolineato che la diversificazione economica rappresenta una necessità strategica imprescindibile per evitare una dipendenza rischiosa dalle risorse naturali. L'intervento punta a spronare le imprese e le istituzioni verso lo sviluppo di nuovi settori produttivi, evidenziando che solo una struttura economica varia può assicurare un benessere duraturo e proteggere la nazione dalle fluttuazioni dei prezzi dei combustibili fossili. Lo riferisce De Ware Tijd.",
+   "more": [
+    "La diversificazione economica è un processo attraverso il quale un Paese cerca di espandere le sue attività in settori differenti per ridurre la vulnerabilità a shock esterni. Molte nazioni ricche di materie prime adottano questa strategia per costruire infrastrutture e competenze in ambiti come l'agricoltura, il turismo o la tecnologia, garantendo stabilità economica nel lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/woorden-versus-daden/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-15T15:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z5988e3dd",
+   "sez": "mondo",
+   "titolo": "Bolivia: la formazione online aiuta a conciliare studio e famiglia",
+   "orig": "Estudiar sin descuidar a la familia: cómo Unifranz Online permite crecer profesionalmente",
+   "lead": "In Bolivia, il sistema Unifranz Online sta offrendo nuove opportunità di crescita professionale a chi deve gestire al contempo le responsabilità familiari. Molti genitori che scelgono di riprendere gli studi trovano nelle piattaforme digitali la flessibilità necessaria per riorganizzare i propri orari e creare spazi per l'apprendimento tra gli impegni quotidiani. L'analisi sottolinea che la sfida principale per molti non è la mancanza di volontà, ma la necessità di trovare un equilibrio pratico. Questi percorsi formativi permettono di acquisire nuove competenze professionali senza dover sacrificare il tempo dedicato alla cura dei figli o al lavoro. Lo riferisce Opinión (Bolivia).",
+   "more": [
+    "L'apprendimento online, o e-learning, utilizza strumenti informatici per consentire la frequenza di corsi universitari e specialistici a distanza. Questa modalità è diventata essenziale per promuovere l'inclusione educativa, permettendo a persone residenti in zone isolate o con carichi di lavoro importanti di accedere a un'istruzione di alto livello con ritmi personalizzati."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/innovacion-educativa/estudiar-descuidar-familia-como-unifranz-online-permite-crecer-profesionalmente/20261015100937997649.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T10:09-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z9b494b7b",
+   "sez": "mondo",
+   "titolo": "Sucre: aperti tre asili nido notturni per madri lavoratrici e studentesse",
+   "orig": "Sucre habilita tres guarderías nocturnas para 150 niños de madres que trabajan o estudian",
+   "lead": "Il comune di Sucre, in Bolivia, ha inaugurato tre asili nido notturni per assistere fino a 150 bambini di madri che lavorano o studiano durante le ore serali. Il servizio è attivo dalle 18:00 alle 22:00 in tre centri infantili specializzati, ciascuno con una capacità di 50 minori. Questa iniziativa mira a fornire un supporto concreto alle donne che cercano di migliorare la propria formazione o la situazione economica, garantendo ai figli un ambiente protetto e professionale durante le ore di impegno materno. Il provvedimento risponde a un bisogno urgente di conciliazione tra vita familiare e percorsi di crescita. Lo riferisce Opinión (Bolivia).",
+   "more": [
+    "Gli asili nido notturni sono servizi di assistenza all'infanzia pensati per coprire fasce orarie non coperte dalle strutture tradizionali. Rappresentano uno strumento fondamentale per le politiche di pari opportunità, permettendo ai genitori con turni di lavoro serali o che frequentano corsi universitari di non dover rinunciare alle proprie attività per mancanza di custodia sicura per i figli."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/sucre-habilita-tres-guarderias-nocturnas-150-ninos-madres-que-trabajan-estudian/20261015095732997647.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T09:57-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z90a0316f",
+   "sez": "cultura",
+   "titolo": "Iraq: resti ossei in una grotta rivelano compassione tra i Neanderthal",
+   "orig": "Bones from Iraqi cave hint at violence and compassion in Neanderthals",
+   "lead": "Il ritrovamento di antiche ossa in una grotta irachena ha offerto nuove prove sulla complessità del comportamento dei Neanderthal, rivelando segni di violenza ma anche di profonda compassione. Le analisi suggeriscono che questi ominidi fossero capaci di gesti di cura verso i membri feriti o malati della propria comunità, dimostrando una struttura sociale basata sulla solidarietà. La scoperta sfida l'immagine tradizionale di una specie esclusivamente brutale, suggerendo invece una natura empatica che aiutava i compagni a sopravvivere nonostante gravi limitazioni fisiche. I reperti offrono uno sguardo inedito sulla vita sociale e i sentimenti di questi antichi abitanti del cosmo. Lo riferisce CNA.",
+   "more": [
+    "I Neanderthal erano ominidi strettamente imparentati con l'uomo moderno, vissuti in Eurasia fino a circa 400 secoli fa. Studi archeologici recenti indicano che possedevano capacità cognitive avanzate, utilizzavano il fuoco, fabbricavano strumenti complessi e probabilmente praticavano riti funerari, suggerendo una vita psichica e sociale molto più articolata di quanto si pensasse in passato."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/bones-iraqi-cave-hint-violence-and-compassion-in-neanderthals-6463086",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T23:01+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z614b4c8b",
+   "sez": "sport",
+   "titolo": "Spagna: Santiago Bernabéu e Camp Nou tra le sedi della Coppa del Mondo 2035",
+   "orig": "Spain includes Bernabeu, Camp Nou among venues in 2035 World Cup bid",
+   "lead": "La Spagna ha presentato la propria candidatura per ospitare la Coppa del Mondo del 2035, includendo stadi iconici come il Santiago Bernabéu e il Camp Nou nella lista delle sedi ufficiali. La proposta spagnola punta sulla forza di infrastrutture calcistiche di livello mondiale e su una lunga tradizione sportiva per attrarre l'evento internazionale. L'inclusione dei principali impianti di Madrid e Barcellona sottolinea l'ambizione del Paese di ospitare il torneo in strutture all'avanguardia capaci di accogliere tifosi da tutto il mondo. La scelta delle sedi rappresenta un punto cardine del dossier presentato agli organizzatori mondiali. Lo riferisce CNA.",
+   "more": [
+    "La Coppa del Mondo è il principale torneo internazionale di calcio e la sua organizzazione richiede requisiti rigorosi in termini di capienza degli stadi, sicurezza e trasporti. Stadi come il Santiago Bernabéu e il Camp Nou sono stati recentemente oggetto di ampi lavori di ammodernamento tecnologico per ospitare non solo eventi sportivi ma anche grandi manifestazioni culturali."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/spain-includes-bernabeu-camp-nou-among-venues-in-2035-world-cup-bid-6462931",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T22:30+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z944d1a1f",
+   "sez": "sport",
+   "titolo": "Formula 1: il pilota brasiliano Camara sostituirà Ocon nel team Haas",
+   "orig": "Brazilian Camara to replace Ocon at Haas F1 team next season",
+   "lead": "Il pilota brasiliano Gabriel Camara prenderà il posto di Esteban Ocon nel team Haas a partire dalla prossima stagione di Formula 1. Il cambio di sedile segna una nuova fase per la scuderia statunitense, che punta sul talento sudamericano per rinnovare la propria formazione e migliorare i risultati in pista. La sostituzione avviene nel quadro di una riorganizzazione tecnica e sportiva del team, con l'obiettivo di affrontare le future sfide del campionato mondiale con una coppia di piloti competitiva. Camara si prepara così al debutto con la nuova squadra, lasciando Ocon libero di cercare nuove opportunità nel circuito. Lo riferisce CNA.",
+   "more": [
+    "La Formula 1 rappresenta l'apice delle competizioni automobilistiche mondiali, dove scuderie e piloti si sfidano utilizzando monoposto dotate di tecnologie ingegneristiche avanzatissime. I trasferimenti di piloti tra i team, noti come 'mercato piloti', sono momenti cruciali che influenzano lo sviluppo delle vetture e le strategie commerciali delle scuderie coinvolte nel campionato mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/brazilian-camara-replace-ocon-haas-f1-team-next-season-6462796",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T22:02+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z8ff4a4ce",
+   "sez": "economia",
+   "titolo": "Il Giappone avverte il G20 sulla necessità di monitorare i cambi",
+   "orig": "Japan tells G20 must watch FX moves with high sense of urgency",
+   "lead": "Durante l'incontro del G20, il Giappone ha sollecitato i paesi membri a monitorare con estrema urgenza i movimenti dei tassi di cambio. Il ministro delle finanze nipponico ha sottolineato come la volatilità dei mercati valutari richieda un'attenzione costante per evitare instabilità economica globale. La posizione espressa riflette le preoccupazioni di Tokyo riguardo alle fluttuazioni improvvise che potrebbero influenzare le bilance commerciali e la stabilità finanziaria internazionale. Lo riferisce CNA.",
+   "more": [
+    "Il G20 è un foro internazionale che riunisce le principali economie del mondo, incluse nazioni industrializzate e mercati emergenti, per discutere temi di stabilità finanziaria e cooperazione economica. Il monitoraggio dei tassi di cambio è fondamentale per prevenire squilibri competitivi e garantire una crescita sostenibile tra i partner commerciali globali."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/japan-tells-g20-must-watch-fx-moves-high-sense-urgency-6462726",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T21:32+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zd5570e78",
+   "sez": "mondo",
+   "titolo": "Le milizie Huthi attaccano la sede del governo nello Yemen",
+   "orig": "Kreise: Huthi-Miliz greift Regierungssitz im Jemen an",
+   "lead": "Secondo fonti locali, le milizie Huthi hanno lanciato un attacco contro la sede del governo nello Yemen. L'azione militare segna un'escalation nel conflitto civile che tormenta il Paese, colpendo direttamente il cuore delle istituzioni governative. Le dinamiche dell'assalto suggeriscono un tentativo coordinato di destabilizzare ulteriormente l'autorità centrale in un'area già fortemente contesa e segnata da anni di violenze tra fazioni opposte che lottano per il controllo territoriale. Lo riferisce ORF.",
+   "more": [
+    "Gli Huthi sono un gruppo armato che controlla diverse parti del territorio yemenita e si oppone al governo internazionalmente riconosciuto. Il conflitto nello Yemen coinvolge diverse potenze regionali e ha causato una grave crisi umanitaria, rendendo difficile la stabilità politica e la sicurezza dei civili nel paese situato nella penisola arabica."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445201/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T17:01+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z8743b17b",
+   "sez": "economia",
+   "titolo": "In Austria diminuiscono i sussidi per la sostituzione degli impianti di riscaldamento",
+   "orig": "Förderquote für Heizungstausch sinkt",
+   "lead": "In Austria, la quota di finanziamento pubblico destinata alla sostituzione degli impianti di riscaldamento è destinata a diminuire. Questa misura interessa i proprietari di immobili che intendono aggiornare i propri sistemi con tecnologie più moderne ed efficienti. La riduzione dei sussidi potrebbe rallentare il passaggio a soluzioni energetiche alternative, influenzando le decisioni di spesa delle famiglie e le politiche di transizione ecologica adottate dal Paese per il prossimo futuro. Lo riferisce ORF.",
+   "more": [
+    "Gli incentivi per il riscaldamento sono strumenti economici utilizzati dai governi per promuovere l'efficienza energetica e ridurre le emissioni di gas serra. Attraverso contributi a fondo perduto o detrazioni, si mira a sostituire caldaie obsolete con sistemi a basso impatto ambientale, come pompe di calore o impianti a biomassa."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445187/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T15:51+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z047aff4f",
+   "sez": "economia",
+   "titolo": "Tagliati 3.000 posti di lavoro nel settore dei fornitori auto",
+   "orig": "Autozulieferindustrie baute im Vorjahr 3.000 Jobs ab",
+   "lead": "L'industria dei fornitori per il settore automobilistico ha registrato una significativa contrazione occupazionale, con la perdita di 3.000 posti di lavoro nel corso dell'ultimo anno. Il dato evidenzia le difficoltà produttive e le trasformazioni strutturali che stanno colpendo il comparto manifatturiero legato ai trasporti. La riduzione della forza lavoro riflette un momento di incertezza economica e una possibile riorganizzazione delle catene di approvvigionamento a livello nazionale a causa dei cambiamenti del mercato. Lo riferisce ORF.",
+   "more": [
+    "Il settore della componentistica auto comprende tutte le aziende che producono parti e sistemi per i veicoli, dai motori ai componenti elettronici. Essendo strettamente legato all'andamento del mercato automobilistico globale, risente rapidamente dei cambiamenti tecnologici, come la transizione verso l'elettrico, e delle fluttuazioni della domanda dei consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445177/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T14:22+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z5062a57e",
+   "sez": "mondo",
+   "titolo": "Israele blocca l'importazione di merci commerciali verso Gaza",
+   "orig": "Israel lukker for import af kommercielle varer til Gaza",
+   "lead": "Le autorità israeliane hanno deciso di sospendere l'importazione di merci commerciali destinate alla Striscia di Gaza. Questo provvedimento blocca il flusso di prodotti non umanitari verso il territorio palestinese, aggravando potenzialmente le condizioni economiche locali già precarie. La chiusura delle frontiere ai beni commerciali rappresenta una misura di restrizione che incide direttamente sulla disponibilità di risorse per la popolazione e sulla stabilità delle attività mercantili all'interno dell'area costiera. Lo riferisce DR Nyheder.",
+   "more": [
+    "La Striscia di Gaza è un territorio costiero densamente popolato, soggetto a lunghi periodi di restrizioni ai valichi di frontiera per motivi di sicurezza. Il blocco delle merci commerciali limita la capacità delle imprese locali di operare e può causare carenze di beni di prima necessità e materiali da costruzione."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/israel-lukker-import-af-kommercielle-varer-til-gaza",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-15T14:24+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z44fc5bf1",
+   "sez": "economia",
+   "titolo": "Gli USA premono sull'FMI per sostituire il termine AI con superintelligenza",
+   "orig": "‘인공지능 대신 슈퍼지능 써라’…미 압박에 IMF 회원국들 ‘떨떠름’",
+   "lead": "Gli Stati Uniti stanno esercitando pressioni sui paesi membri del Fondo Monetario Internazionale affinché adottino il termine \"superintelligenza\" in sostituzione di \"intelligenza artificiale\" nei documenti ufficiali. La proposta americana ha suscitato perplessità e freddezza tra le altre nazioni partecipanti, che si mostrano riluttanti ad accettare questo cambio terminologico. La questione solleva interrogativi sulle definizioni tecnologiche globali e sull'influenza politica esercitata da Washington all'interno delle istituzioni finanziarie internazionali. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Il Fondo Monetario Internazionale è un'organizzazione che lavora per promuovere la cooperazione monetaria globale e la stabilità finanziaria. La discussione sulla terminologia tecnologica riflette l'importanza crescente dell'informatica avanzata e dei sistemi decisionali automatizzati nelle analisi economiche e nel progresso digitale delle nazioni."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/america/1282651.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z47850c5e",
+   "sez": "mondo",
+   "titolo": "Corea del Sud: braccialetto elettronico per chi commette violenza domestica",
+   "orig": "가정폭력 가해자도 ‘전자발찌 부착’ 검토…보복 범죄 막는다",
+   "lead": "In Corea del Sud è in fase di valutazione l'adozione di braccialetti elettronici per i colpevoli di violenza domestica, con l'obiettivo di prevenire crimini di ritorsione. Il governo cerca così di rafforzare gli strumenti di sicurezza legale per contrastare i reati violenti tra le mura domestiche. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/society/society_general/1282650.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z38880f98",
+   "sez": "economia",
+   "titolo": "USA: i prezzi alla produzione di settembre registrano un aumento dell'1,3%",
+   "orig": "미, 9월 생산자 물가 전월 대비 1.3% 급등…4년여만에 최고",
+   "lead": "Negli Stati Uniti d'America, l'indice dei prezzi alla produzione ha registrato un incremento dell'1,3% nel mese di settembre rispetto al mese precedente, toccando il valore più alto degli ultimi quattro anni. Questo dato segnala una forte pressione inflazionistica a monte della catena distributiva, che potrebbe trasferirsi successivamente sui prezzi al consumo finali. L'impennata dei costi rappresenta un campanello d'allarme per la politica monetaria e l'andamento generale dell'economia americana. Lo riferisce The Hankyoreh.",
+   "more": [
+    "L'indice dei prezzi alla produzione misura la variazione media dei prezzi ricevuti dai produttori domestici per la loro produzione. È considerato un indicatore anticipatore dell'inflazione, poiché l'aumento dei costi di produzione spesso induce le aziende ad aumentare i prezzi di vendita finale per i consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/america/1282647.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zd8f1bbf0",
+   "sez": "mondo",
+   "titolo": "Regno Unito: gruppo di vigilanti minaccia studenti indiani",
+   "orig": "'Final warning, go home': UK vigilante group confronts Indian students, sparks row",
+   "lead": "Un gruppo di vigilanti nel Regno Unito ha affrontato alcuni studenti indiani intimando loro di tornare nel proprio Paese, scatenando una forte polemica internazionale. L'episodio, descritto come un \"ultimo avvertimento\", ha sollevato gravi preoccupazioni sulla sicurezza dei cittadini stranieri e sulla crescita di sentimenti xenofobi nel territorio britannico. Le autorità locali sono chiamate a rispondere dell'accaduto, mentre il dibattito pubblico si interroga sulla protezione degli studenti internazionali e sulle tensioni sociali in corso. Lo riferisce Times of India.",
+   "more": [
+    "I gruppi di vigilanti sono organizzazioni di privati cittadini che si arrogano il diritto di far rispettare l'ordine o promuovere proprie agende politiche in modo autonomo, spesso scavalcando le forze dell'ordine ufficiali. Le loro azioni possono variare da atti di intimidazione verbale a scontri fisici nei confronti di minoranze."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/uk/final-warning-uk-vigilante-group-confronts-indian-students-in-park-tells-them-to-go-home/articleshow/134967133.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-15T17:44+05:30"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zadb4d2b1",
+   "sez": "cultura",
+   "titolo": "Designer degli Emirati vince il premio ADMAF x Dolce&Gabbana",
+   "orig": "Emirati designer wins prestigious ADMAF x Dolce&Gabbana award for cultural fusion",
+   "lead": "Una designer degli Emirati Arabi Uniti ha vinto il prestigioso premio ADMAF x Dolce&Gabbana, riconosciuto per la capacità di fondere diverse influenze culturali nelle proprie creazioni. Il riconoscimento celebra l'eccellenza nel design e la promozione del dialogo interculturale attraverso la moda e l'artigianato di alta qualità. La vittoria sottolinea la crescita del talento creativo nella regione del Golfo e la sua capacità di dialogare con i grandi nomi del settore del lusso internazionale. Lo riferisce Gulf News.",
+   "more": [
+    "Dolce&Gabbana è una celebre casa di moda italiana, mentre ADMAF è un'organizzazione culturale degli Emirati Arabi Uniti che promuove le arti. La loro collaborazione mira a scoprire e sostenere nuovi talenti nel campo del design, favorendo lo scambio di competenze e la valorizzazione dell'identità culturale nel panorama globale."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/abu-dhabi/emirati-designer-wins-prestigious-admaf-x-dolcegabbana-award-for-cultural-fusion-1.500712072",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-15T18:44+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z43815006",
+   "sez": "economia",
+   "titolo": "Il G20 esprime preoccupazione per rendimenti obbligazionari e cambi",
+   "orig": "Japan finance minister: G20 concerned over yields, FX volatility",
+   "lead": "Il ministro delle finanze giapponese ha dichiarato che i membri del G20 hanno espresso preoccupazione per i rendimenti obbligazionari e la volatilità dei tassi di cambio internazionali. Durante i colloqui, è emersa la necessità di monitorare attentamente i mercati finanziari per prevenire ripercussioni negative sulla stabilità economica globale. Le osservazioni di Tokyo evidenziano un consenso tra le maggiori economie sulla necessità di vigilanza di fronte alle fluttuazioni dei prezzi delle attività finanziarie sui mercati mondiali. Lo riferisce Nikkei Asia.",
+   "more": [
+    "I rendimenti obbligazionari rappresentano il guadagno che un investitore riceve per aver prestato denaro a un ente, come uno Stato. Quando la volatilità dei cambi e dei rendimenti aumenta, può generare incertezza negli investitori e influenzare il costo del debito pubblico, rendendo instabile l'equilibrio finanziario tra le nazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/markets/japan-finance-minister-g20-concerned-over-yields-fx-volatility",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zc6ec8774",
+   "sez": "mondo",
+   "titolo": "Giappone: navi straniere ammesse nella flotta di emergenza nazionale",
+   "orig": "Japan to enable foreign-flagged ships to be tapped for emergency fleet",
+   "lead": "Il governo del Giappone ha annunciato un piano per consentire l'impiego di navi battenti bandiera straniera all'interno della propria flotta di emergenza nazionale. Questa iniziativa punta a potenziare le capacità logistiche del Paese in caso di crisi o disastri naturali, garantendo un numero maggiore di imbarcazioni disponibili per il trasporto di beni. La decisione rappresenta un cambiamento significativo nelle politiche marittime nipponiche per migliorare la resilienza delle infrastrutture critiche in situazioni di necessità straordinaria. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Una flotta di emergenza è un insieme di navi messe a disposizione dello Stato per affrontare situazioni di eccezionale necessità, come terremoti o alluvioni. Consentire l'uso di navi registrate all'estero amplia le risorse mobilitabili rapidamente, superando i limiti della flotta commerciale nazionale in momenti di grave crisi logistica."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/transportation/japan-to-enable-foreign-flagged-ships-to-be-tapped-for-emergency-fleet",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z6a1fab2a",
+   "sez": "economia",
+   "titolo": "Servizio taxi vietnamita Green SM debutta a Los Angeles",
+   "orig": "VinFast-linked Green SM enters US with Los Angeles taxi launch",
+   "lead": "Green SM, società legata alla casa automobilistica vietnamita VinFast, ha ufficialmente fatto il suo ingresso nel mercato degli Stati Uniti d'America lanciando un servizio di taxi a Los Angeles. L'operazione segna l'espansione internazionale dell'azienda asiatica nel settore della mobilità sostenibile in California. L'iniziativa punta a integrare veicoli elettrici nel sistema di trasporto urbano americano, sfidando i concorrenti locali con una nuova flotta ecologica per il trasporto dei passeggeri in città. Lo riferisce Nikkei Asia.",
+   "more": [
+    "VinFast è un produttore di automobili vietnamita specializzato nella produzione di veicoli elettrici. L'espansione di servizi di taxi a zero emissioni rappresenta una strategia per promuovere l'adozione di mezzi ecologici nelle grandi aree metropolitane, contribuendo alla riduzione dell'inquinamento atmosferico e alla modernizzazione del trasporto pubblico urbano."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/automobiles/electric-vehicles/vinfast-linked-green-sm-enters-us-with-los-angeles-taxi-launch",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z4f5d3ae6",
+   "sez": "mondo",
+   "titolo": "Cina e Corea del Nord: nuovo ponte per potenziare gli scambi",
+   "orig": "China-North Korea traffic to increase with new bridge opening",
+   "lead": "L'apertura di un nuovo ponte tra Cina e Corea del Nord è destinata a incrementare sensibilmente il traffico e gli scambi commerciali tra i due Paesi. L'infrastruttura di collegamento transfrontaliero facilita il transito di merci e persone, segnando un rafforzamento dei legami logistici ed economici lungo la frontiera. Il completamento di questa opera rappresenta un passaggio chiave per la cooperazione regionale e per la gestione dei flussi mercantili in quest'area geografica altamente strategica. Lo riferisce Nikkei Asia.",
+   "more": [
+    "I ponti transfrontalieri tra Cina e Corea del Nord sono snodi vitali per l'economia nordcoreana, che dipende fortemente dal commercio con il vicino cinese. Queste infrastrutture hanno un profondo valore economico e simboleggiano la stabilità delle relazioni diplomatiche e il controllo coordinato delle frontiere terrestri tra le due nazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/politics/international-relations/china-north-korea-traffic-to-increase-with-new-bridge-opening",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z81dc0acc",
+   "sez": "economia",
+   "titolo": "L'indiana Lohum punta alle batterie per auto dopo l'apertura di una miniera in Zimbabwe",
+   "orig": "India's Lohum targets EV batteries after opening Zimbabwe lithium mine",
+   "lead": "L'azienda indiana Lohum ha rivolto la propria attenzione alla produzione di batterie per veicoli elettrici in seguito all'apertura di una miniera di litio nello Zimbabwe. Questa mossa strategica punta a garantire l'approvvigionamento diretto di materie prime essenziali per il settore della mobilità sostenibile. Integrando l'estrazione mineraria con la produzione tecnologica, l'impresa mira a rafforzare la propria posizione nella catena del valore globale, riducendo la dipendenza da fornitori esterni di minerali critici. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Il litio è un componente fondamentale per la fabbricazione delle batterie ricaricabili utilizzate nelle auto elettriche. Lo Zimbabwe possiede alcune delle più grandi riserve di questo minerale in Africa, rendendolo un partner cruciale per le aziende che cercano di assicurarsi le risorse necessarie per la transizione energetica globale e tecnologica."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/editor-s-picks/interview/india-s-lohum-targets-ev-batteries-after-opening-zimbabwe-lithium-mine",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z63a75603",
+   "sez": "mondo",
+   "titolo": "Il Tagikistan ospiterà una conferenza di pace ONU nel 2027",
+   "orig": "Tajikistan to host UN-backed peace conference in Dushanbe in May 2027",
+   "lead": "Il Tagikistan è stato scelto come sede per una conferenza di pace sostenuta dalle Nazioni Unite, che si terrà nella capitale Dušanbe nel maggio 2027. L'evento internazionale mira a discutere strategie globali per la risoluzione dei conflitti e la promozione della stabilità nelle aree di crisi. L'annuncio riflette l'impegno del Paese centrasiatico nel facilitare il dialogo diplomatico tra le nazioni e nel sostenere le iniziative umanitarie e politiche promosse dalle istituzioni internazionali. Lo riferisce Trend.",
+   "more": [
+    "Il Tagikistan è una repubblica dell'Asia centrale che cerca di posizionarsi come mediatore diplomatico regionale. Le conferenze di pace dell'ONU sono forum cruciali dove i rappresentanti degli Stati si incontrano per negoziare accordi e condividere buone pratiche per prevenire le ostilità e garantire la sicurezza internazionale su scala globale."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/tajikistan/4235368.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T18:23+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z7143ea27",
+   "sez": "mondo",
+   "titolo": "Il Kirghizistan si impegna per la sicurezza globale alle Nazioni Unite",
+   "orig": "Kyrgyzstan pledges global security support during 2027–2028 UN term",
+   "lead": "Il Kirghizistan si è impegnato a sostenere attivamente la sicurezza globale durante il suo mandato presso le Nazioni Unite previsto per il biennio 2027-2028. Le autorità del Paese hanno confermato la volontà di partecipare ai processi decisionali internazionali per garantire la pace e la protezione dei diritti in tutto il mondo. Questo impegno diplomatico mira a rafforzare il ruolo della nazione centrasiatica nelle istituzioni multilaterali e a contribuire alla stabilità delle relazioni tra i diversi blocchi regionali. Lo riferisce Trend.",
+   "more": [
+    "Il Kirghizistan è una nazione situata in Asia centrale, caratterizzata da un'importanza strategica lungo le antiche rotte commerciali. Partecipare agli organismi delle Nazioni Unite permette ai paesi di far sentire la propria voce su questioni di rilevanza mondiale e di influenzare le politiche internazionali di difesa, cooperazione e sviluppo sociale."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/kyrgyzstan/4235360.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T18:13+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zdef00ad6",
+   "sez": "mondo",
+   "titolo": "Controversia sul niqab all'Università di Dacca",
+   "orig": "Dhaka University niqab controversy and a teacher's suspension: Whose classroom is it, then?",
+   "lead": "L'Università di Dacca è al centro di un'accesa controversia riguardante l'uso del niqab e la sospensione di un insegnante. Il dibattito solleva interrogativi fondamentali sui diritti degli studenti, sulla libertà di espressione religiosa e sulla gestione degli spazi accademici in Bangladesh. La vicenda ha attirato l'attenzione pubblica sul ruolo delle istituzioni educative nel bilanciare le tradizioni culturali e le regole di condotta universitarie, portando a una discussione sui limiti della convivenza in aula. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "Il niqab è un velo islamico che copre il volto, lasciando scoperti solo gli occhi. L'Università di Dacca è una delle istituzioni accademiche più prestigiose del Bangladesh, spesso sede di dibattiti sociali che riflettono le trasformazioni culturali e le tensioni tra laicità e tradizione religiosa nella società bengalese contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/opinion/op-ed/5vfxhectzn",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-15T12:34+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z9332e302",
+   "sez": "salute",
+   "titolo": "Maldive: 955 borse di studio per le professioni sanitarie",
+   "orig": "Government opens 955 scholarships across 51 allied health professions",
+   "lead": "Il governo delle Maldive ha bandito 955 borse di studio dedicate a 51 diverse professioni sanitarie ausiliarie. L'iniziativa mira a potenziare le competenze nel settore medico nazionale e a garantire una formazione specialistica a un gran numero di cittadini. Questo investimento nel capitale umano punta a migliorare la qualità dell'assistenza sanitaria nel Paese, rispondendo alla necessità di personale qualificato in vari settori della sanità pubblica e privata dell'arcipelago. Lo riferisce Sun Online.",
+   "more": [
+    "Le professioni sanitarie alleate includono ruoli fondamentali come tecnici di radiologia, fisioterapisti e personale di laboratorio. Offrire borse di studio in questi ambiti è una strategia comune per colmare le lacune nei sistemi sanitari nazionali, garantendo che le strutture mediche possano contare su un supporto tecnico specializzato e aggiornato."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109581",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T20:10+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z21e6d9b6",
+   "sez": "mondo",
+   "titolo": "Il governo delle Maldive revoca la gestione di 14 terreni a Malé",
+   "orig": "Government reclaims 14 lands from Male' City Council, including Sultan Park and Artificial Beach",
+   "lead": "Il governo centrale delle Maldive ha revocato la gestione di 14 terreni al Consiglio cittadino di Malé, includendo aree pubbliche iconiche come Sultan Park e Artificial Beach. La decisione comporta un passaggio di autorità su spazi strategici della capitale, influenzando l'amministrazione del territorio e la pianificazione urbana. La manovra ha suscitato discussioni riguardanti l'autonomia delle autorità locali e la centralizzazione del controllo sui siti di maggior rilievo turistico e sociale della città. Lo riferisce Sun Online.",
+   "more": [
+    "Malé è la densamente popolata capitale delle Maldive, dove la gestione degli spazi pubblici è cruciale a causa della scarsità di terra ferma. Sultan Park e Artificial Beach sono aree di grande importanza per il tempo libero dei residenti e rappresentano rari punti di ritrovo all'aperto nell'atollo pesantemente urbanizzato."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109579",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T18:30+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z4455d764",
+   "sez": "mondo",
+   "titolo": "Malé: nuove restrizioni per i veicoli pesanti durante l'orario scolastico",
+   "orig": "New restrictions limit heavy-vehicle movement in Male' city area during school rush hours",
+   "lead": "Nuove restrizioni alla circolazione dei veicoli pesanti sono state introdotte nell'area urbana di Malé durante le ore di punta scolastiche. Il provvedimento mira a decongestionare il traffico e aumentare la sicurezza degli studenti negli orari di ingresso e uscita dagli istituti. Limitando il transito dei mezzi ingombranti, le autorità sperano di rendere più scorrevole la viabilità nella capitale maldiviana, notoriamente soggetta a forti rallentamenti a causa delle strade strette e dell'elevata densità abitativa. Lo riferisce Sun Online.",
+   "more": [
+    "Malé è caratterizzata da una rete stradale complessa e congestionata, essendo una delle capitali più densamente abitate al mondo. La gestione del traffico urbano è una sfida costante, che richiede spesso limitazioni temporali per i mezzi pesanti al fine di garantire la mobilità e la sicurezza dei pedoni e dei residenti."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109578",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T17:21+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z423532d7",
+   "sez": "salute",
+   "titolo": "Crisi di metanfetamine nelle Maldive: allarme per la diffusione di malattie",
+   "orig": "The growing meth crisis in the Maldives and threat of diseases such as HIV",
+   "lead": "Le Maldive stanno affrontando una crescente crisi legata al consumo di metanfetamine, una situazione che porta con sé la preoccupazione per una possibile diffusione di malattie infettive come l'HIV. L'allarme, che riguarda l'impatto sociale e sanitario sull'arcipelago, evidenzia la necessità di interventi tempestivi per contrastare il traffico di stupefacenti e proteggere la popolazione. Il fenomeno mette a dura prova il sistema sanitario locale, richiedendo una maggiore consapevolezza sui rischi medici correlati alla tossicodipendenza e alle pratiche a essa associate. Lo riferisce Sun Online.",
+   "more": [
+    "L'HIV è un virus che attacca il sistema immunitario, rendendo l'organismo più vulnerabile ad altre infezioni. Nelle comunità dove il consumo di droghe per via endovenosa è diffuso, il rischio di trasmissione aumenta drasticamente attraverso lo scambio di siringhe. Le metanfetamine sono potenti stimolanti che creano forte dipendenza e possono causare gravi danni fisici e neurologici a lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109577",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T17:18+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zc1c03942",
+   "sez": "mondo",
+   "titolo": "Elezioni 2026: pubblicati i risultati ufficiali nella provincia di Lima",
+   "orig": "Elecciones Regionales y Municipales 2026: resultados oficiales de ONPE en la provincia de Lima (Lima)",
+   "lead": "L'Ufficio Nazionale dei Processi Elettorali (ONPE) ha pubblicato i risultati ufficiali delle elezioni regionali e municipali 2026 per la provincia di Lima. I dati definitivi delineano la nuova composizione amministrativa della capitale peruviana, segnando un momento fondamentale per la governance locale e regionale del prossimo mandato. La pubblicazione dei risultati conclude il processo di spoglio e verifica delle schede, fornendo ai cittadini la conferma degli eletti alle cariche pubbliche territoriali e garantendo la trasparenza del processo democratico nel Paese. Lo riferisce El Comercio.",
+   "more": [
+    "Le elezioni municipali e regionali servono a scegliere i rappresentanti che gestiranno i servizi pubblici e lo sviluppo urbano locale. L'ONPE è l'organismo incaricato di organizzare e garantire la regolarità delle votazioni in Perù. La pubblicazione dei risultati definitivi è un passaggio obbligatorio per la proclamazione formale dei vincitori e per l'inizio effettivo del loro mandato amministrativo."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/elecciones/elecciones-regionales-y-municipales-2026-resultados-oficiales-de-onpe-en-la-provincia-de-lima-lima-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-15T15:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zbe858f95",
+   "sez": "sport",
+   "titolo": "Nuoto: Marrit Steenbergen stabilisce il nuovo record europeo nei 200 stile libero",
+   "orig": "La neerlandesa Steenbergen fija un nuevo récord de Europa de 200 libre en piscina corta",
+   "lead": "La nuotatrice olandese Marrit Steenbergen ha stabilito un nuovo record europeo nei 200 metri stile libero in vasca corta. La prestazione sportiva segna un importante traguardo nella carriera dell'atleta, confermando la sua competitività a livello internazionale nella disciplina del nuoto agonistico. Il primato è stato ottenuto durante una competizione ufficiale, dove Steenbergen ha migliorato il precedente tempo di riferimento per la categoria, aggiungendo un nuovo prestigioso successo al palmarès sportivo dei Paesi Bassi e consolidando il suo ruolo tra le velociste europee. Lo riferisce ABC Color.",
+   "more": [
+    "Le gare di nuoto in vasca corta si svolgono in piscine da 25 metri. Questo formato richiede una tecnica particolare nelle virate e nelle spinte dal bordo, influenzando significativamente i tempi record. I 200 metri stile libero sono una gara di media distanza che richiede un equilibrio perfetto tra velocità esplosiva iniziale e resistenza aerobica nel finale."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/polideportivo/2026/10/15/la-neerlandesa-steenbergen-fija-un-nuevo-record-de-europa-de-200-libre-en-piscina-corta/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T15:20+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "zd5fa13c3",
+   "sez": "tech",
+   "titolo": "iPhone 18: le cinque novità principali del nuovo modello Apple",
+   "orig": "Efecto cine, batería de emergencia o verificación: cinco novedades del iPhone 18",
+   "lead": "L'imminente iPhone 18 si presenta con cinque principali novità, tra cui spiccano l'effetto cinema migliorato, una batteria di emergenza e nuovi sistemi di verifica. Le anticipazioni tecnologiche suggeriscono un'evoluzione nelle capacità di ripresa video del dispositivo, oltre a soluzioni hardware progettate per prolungare l'autonomia in situazioni critiche. Queste innovazioni mirano a consolidare la posizione del prodotto nel mercato globale della telefonia, offrendo agli utenti funzionalità avanzate per la creatività digitale e nuovi protocolli per la sicurezza dei dati personali. Lo riferisce ABC Color.",
+   "more": [
+    "Gli smartphone moderni integrano componenti hardware e software complessi per migliorare l'esperienza d'uso. L'effetto cinema si riferisce a tecniche di ripresa che simulano la profondità di campo professionale. Le batterie di emergenza e i sistemi di verifica sono progettati per aumentare l'affidabilità e la protezione su dispositivi utilizzati quotidianamente per comunicazioni e transazioni digitali."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/ciencia/2026/10/15/efecto-cine-bateria-de-emergencia-o-verificacion-cinco-novedades-del-iphone-18/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T15:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z269ea735",
+   "sez": "mondo",
+   "titolo": "Argentina: evacuazioni e ponti chiusi per la piena dei fiumi",
+   "orig": "Decenas de personas son evacuadas y clausuran puentes por crecida de ríos en Argentina",
+   "lead": "In Argentina, la forte crescita del livello dei fiumi ha costretto decine di persone ad abbandonare le proprie abitazioni e ha portato alla chiusura precauzionale di diversi ponti. Le autorità locali sono intervenute per evacuare i cittadini residenti nelle aree a rischio inondazione, monitorando costantemente l'evolversi della situazione idrologica per prevenire ulteriori pericoli. I disagi alle infrastrutture stradali hanno isolato alcune zone, richiedendo sforzi logistici per garantire la sicurezza e l'assistenza alle comunità colpite dalle piene improvvise dei corsi d'acqua. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/15/decenas-de-personas-son-evacuadas-y-clausuran-puentes-por-crecida-de-rios-en-argentina/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T15:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a34d3a1",
+   "sez": "mondo",
+   "titolo": "Mauritius: il governo valuta leggi anti-terrorismo per i rivoltosi",
+   "orig": "Ramgoolam : «Nous envisageons de poursuivre les émeutiers sous la Prevention of Terrorism Act»",
+   "lead": "Il primo ministro delle Mauritius, Navin Ramgoolam, ha annunciato che il governo sta valutando la possibilità di perseguire i responsabili delle recenti sommosse ai sensi della legge sulla prevenzione del terrorismo (Prevention of Terrorism Act). La dichiarazione riflette una linea di fermezza contro i disordini pubblici che hanno colpito l'isola, suggerendo l'applicazione di misure legali più severe per contrastare la violenza e garantire l'ordine pubblico. La decisione di inquadrare gli atti di sommossa come reati di terrorismo rappresenta un'escalation nella risposta giudiziaria dello Stato alle proteste violente. Lo riferisce Defimedia.",
+   "more": [
+    "Una legge sulla prevenzione del terrorismo è uno strumento giuridico che conferisce poteri speciali alle autorità per indagare e punire atti che minacciano la sicurezza nazionale. Solitamente prevede sanzioni più pesanti rispetto al codice penale ordinario. L'applicazione di tali norme a episodi di sommossa indica una volontà politica di reprimere duramente le manifestazioni che sfociano in violenza."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/ramgoolam-nous-envisageons-de-poursuivre-les-emeutiers-sous-la-prevention-terrorism-act",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-15T17:23+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
+   "id": "ze7d02df4",
+   "sez": "economia",
+   "titolo": "Mauritius: incendi distruggono oltre 17.000 tonnellate di canna da zucchero",
+   "orig": "Incendies dans les champs : 17 450 tonnes de canne à sucre brûlées, indique Arvin Boolell",
+   "lead": "Arvin Boolell ha riferito che vasti incendi nei campi di canna da zucchero hanno causato la distruzione di circa 17.450 tonnellate di raccolto nelle Mauritius. Il danno agricolo rappresenta un duro colpo per il settore produttivo locale, colpendo direttamente la fornitura di materia prima per l'industria saccarifera nazionale. Le fiamme hanno devastato ampie aree coltivate, evidenziando la vulnerabilità del territorio rurale agli incendi boschivi e rurali, con conseguenze economiche significative per i produttori e per l'intera catena di approvvigionamento alimentare dell'isola. Lo riferisce Defimedia.",
+   "more": [
+    "La canna da zucchero è una delle principali colture tropicali utilizzate per la produzione di zucchero ed etanolo. Gli incendi nei campi non solo distruggono la biomassa, ma possono anche danneggiare la fertilità del suolo a lungo termine. La perdita di migliaia di tonnellate di prodotto richiede tempi lunghi per il recupero economico e può influenzare i prezzi del mercato locale."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/incendies-dans-les-champs-17-450-tonnes-de-canne-sucre-brulees-indique-arvin-boolell",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-15T17:22+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:55",
+   "uscita": "17"
+  },
+  {
    "id": "z83ea1ab1",
    "sez": "mondo",
    "titolo": "Mallalieu avverte: regole estere potrebbero non adattarsi a Barbados",
@@ -6972,6 +8755,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-15T22:46+08:00"
+    },
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533586/%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A-%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%82%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D9%81%D9%8A-%D8%B9%D8%AF%D9%86",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T15:54+01:00"
     }
    ],
    "data": "15 ott",
@@ -7411,6 +9203,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Guinea",
      "t": "2026-10-15T13:22+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/condamnation-de-dr-diane-le-parquet-special-annonce-un-pourvoi-en-cassation/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-15T15:16+00:00"
     }
    ],
    "data": "15 ott",
@@ -31896,7 +33697,82 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2312211f": "El Deber si concentra sul recupero dell'uomo in dubbio in vista della sfida di Guabirá.",
   "zdd41f4ad": "El Deber racconta la sorpresa della giovane vincitrice britannica per lo scatto premiato.",
   "zd57db8cd": "La Nación CR riporta l'annuncio della gravidanza come una sorpresa per i fan dell'attrice.",
-  "zb3affc26": "El Universo riporta l'appello della famiglia per rimpatriare le salme dei due fratelli."
+  "zb3affc26": "El Universo riporta l'appello della famiglia per rimpatriare le salme dei due fratelli.",
+  "z9b6fffd5": "El Universo mette in luce il legame tra il passato da prigioniero politico e l'attuale impegno per la libertà di espressione di Diamanti.",
+  "zecb6d595": "ABC Color sottolinea il ruolo cruciale dell'esercito nella gestione logistica dell'alloggio per gli sfollati.",
+  "z8147c7f6": "Lefaso.net riporta i progressi e le sfide concrete di un giovane innovatore burkinabé nel campo tecnologico.",
+  "z7b536b5d": "Lefaso.net pone l'accento sulla necessità di supportare le piccole imprese nella transizione verso l'economia formale.",
+  "z55639113": "Diari d'Andorra evidenzia il supporto sindacale alla mobilitazione popolare per una maggiore partecipazione democratica.",
+  "z841558d4": "Seneweb punta l'attenzione sulla severità del gendarme bancario regionale nei confronti delle irregolarità finanziarie.",
+  "z248b97cf": "Seneweb descrive l'annullamento della riforma legislativa come un importante freno istituzionale imposto dalla magistratura costituzionale.",
+  "zeaab470f": "Seneweb riporta la preoccupazione dei coltivatori tanzaniani di fronte all'imprevedibilità dei fenomeni meteorologici stagionali.",
+  "z2b35237a": "Tchadinfos propone il racconto di un'imprenditrice agricola come modello di sviluppo rurale sostenibile in Ciad.",
+  "zc695e2ce": "Tchadinfos segnala la fine di un lungo periodo di incomprensioni tra l'amministrazione locale e i giornalisti digitali.",
+  "z999b46ee": "Tchadinfos si concentra sull'importanza degli accordi istituzionali per elevare la professionalità e l'etica del giornalismo locale.",
+  "z30cc7ca7": "Tchadinfos ricorda la figura professionale di Mortordé e il suo ruolo nella comunicazione culturale del Paese.",
+  "zef6b2967": "Mosaïque Guinée evidenzia il paradosso di scuole chiuse in una regione che aveva registrato eccellenti risultati scolastici.",
+  "za8923ce8": "Guinée News riferisce i dettagli tecnici e burocratici che precedono la campagna elettorale per il Senato.",
+  "z2b493b00": "Actu Cameroun descrive la fermezza del ministro nel non riconoscere titoli accademici esteri privi di validità.",
+  "z7775f586": "Actu Cameroun analizza le turbolenze interne a un partito di opposizione attraverso il ritiro di un suo esponente.",
+  "zfe84a48d": "Actu Cameroun si sofferma sull'omaggio nazionale tributato alla memoria del magistrato scomparso.",
+  "zc031bd46": "Actu Cameroun sottolinea l'importanza della partecipazione cittadina nella fase di rettifica dei registri elettorali.",
+  "zaba4e1c7": "La Nouvelle Tribune evidenzia come l'evento combini la valorizzazione delle tradizioni spirituali con lo sviluppo turistico ed economico.",
+  "z7a88b007": "La Nouvelle Tribune riporta l'elezione come un riconoscimento alla carriera del magistrato beninese in ambito internazionale.",
+  "z23d82f1a": "La Nouvelle Tribune pone l'accento sul tema della qualità dell'istruzione come motore dello sviluppo sociale del Benin.",
+  "zf568d085": "La Nouvelle Tribune analizza lo scarto significativo tra i budget militari di due delle maggiori potenze europee.",
+  "zfc764ab5": "Gabonactu riferisce il senso di urgenza di una comunità costretta a convivere periodicamente con il problema delle acque stagnanti.",
+  "z9fbfa9d3": "L'attenzione della municipalità sulle infrastrutture mercatali e sulle necessità dei cittadini.",
+  "ze6751df4": "L'apertura dell'investimento ai cittadini comuni africani per promuovere l'azionariato diffuso.",
+  "zfe3df32f": "Il ritorno alle tradizioni iconografiche originali dopo le critiche alla nuova statua.",
+  "zf902a05c": "Il progresso dei cittadini verso abitudini sostenibili grazie a un progetto municipale.",
+  "z43c850ef": "La necessità di proteggere la fauna marina attraverso restrizioni temporanee al commercio.",
+  "z0da96a04": "La richiesta di rigore e serietà nell'attuazione dei piani di crescita locale.",
+  "zf1c47168": "Il valore simbolico della memoria storica tramandata alle nuove generazioni.",
+  "z6513c76d": "Il piano di salvataggio finanziario per un'azienda statale considerata strategica.",
+  "z0b2a4e7e": "L'aumento della pressione fiscale sulle attività di intrattenimento e concorsi a premio.",
+  "zdfc53daf": "L'adeguamento dei costi per la mobilità internazionale dei cittadini residenti.",
+  "z54eca989": "L'uso dell'arte fotografica per dare visibilità all'impatto psicologico dei conflitti.",
+  "z8aa874bb": "La vastità dell'impegno logistico messo in campo per fornire assistenza alla popolazione.",
+  "z085d2caf": "La puntualità e l'efficienza dei servizi previdenziali forniti ai cittadini.",
+  "zf77b3bee": "La necessità di una ricostruzione duratura basata su solide competenze tecniche.",
+  "z0c4c97ce": "Il ripristino dell'ordine stradale urbano attraverso nuove regolamentazioni comunali.",
+  "z534eb6be": "La proroga delle sanzioni internazionali come strumento per contenere la violenza interna.",
+  "z58f00333": "L'incremento del presidio di polizia per migliorare la sicurezza in un quartiere sensibile.",
+  "z7c19c7f8": "La denuncia della società civile sulla mancanza di controlli qualitativi sulle importazioni.",
+  "z87f53bb3": "Il monito presidenziale contro la dipendenza eccessiva dalle risorse fossili.",
+  "z5988e3dd": "La valorizzazione della flessibilità formativa per chi ha responsabilità familiari.",
+  "z9b494b7b": "Il supporto sociale diretto alle madri lavoratrici e studentesse attraverso nuovi servizi comunali.",
+  "z90a0316f": "La riscoperta della natura empatica dei Neanderthal attraverso nuove prove archeologiche.",
+  "z614b4c8b": "Il prestigio degli stadi selezionati per rafforzare la candidatura spagnola.",
+  "z944d1a1f": "Il cambio generazionale e tecnico nella scuderia in vista della prossima stagione.",
+  "z8ff4a4ce": "La testata evidenzia il richiamo del Giappone per una sorveglianza attiva sui cambi valutari.",
+  "zd5570e78": "ORF riporta la notizia di un attacco mirato degli Huthi contro il centro del potere yemenita.",
+  "z8743b17b": "ORF pone l'accento sulla riduzione degli aiuti statali per la modernizzazione energetica domestica.",
+  "z047aff4f": "ORF analizza il calo occupazionale registrato nell'ultimo anno all'interno del comparto automobilistico.",
+  "z5062a57e": "La testata danese evidenzia il nuovo blocco israeliano ai flussi commerciali diretti a Gaza.",
+  "z44fc5bf1": "La testata coreana riporta lo scetticismo globale verso la proposta linguistica statunitense sulla tecnologia.",
+  "z47850c5e": "The Hankyoreh mette in luce il piano governativo per aumentare la protezione delle vittime di abusi domestici.",
+  "z38880f98": "La testata analizza il picco dell'inflazione produttiva statunitense come segnale di tensione economica.",
+  "zd8f1bbf0": "La testata indiana evidenzia l'ostilità subita dai propri cittadini e le tensioni razziali in Gran Bretagna.",
+  "zadb4d2b1": "Gulf News celebra il successo internazionale della creatività emiratina nel campo del design di lusso.",
+  "z43815006": "Nikkei Asia sottolinea la visione comune dei leader finanziari globali sulle attuali turbolenze di mercato.",
+  "zc6ec8774": "La testata evidenzia l'apertura strategica del Giappone a risorse navali estere per la sicurezza nazionale.",
+  "z6a1fab2a": "Nikkei Asia segue l'espansione tecnologica vietnamita nel cuore del mercato della mobilità statunitense.",
+  "z4f5d3ae6": "La testata analizza il potenziamento dei collegamenti fisici come motore di crescita commerciale tra Pechino e Pyongyang.",
+  "z81dc0acc": "Nikkei Asia mette in evidenza l'espansione dell'industria indiana nell'estrazione di risorse in Africa.",
+  "z63a75603": "Trend sottolinea il ruolo crescente del Tagikistan come palcoscenico per la diplomazia internazionale.",
+  "z7143ea27": "La testata pone l'attenzione sulla nuova fase di attivismo diplomatico del Kirghizistan a livello ONU.",
+  "zdef00ad6": "Prothom Alo analizza le tensioni tra libertà religiosa e regolamenti accademici nella principale università del Paese.",
+  "z9332e302": "La testata maldiviana mette in risalto lo sforzo governativo per la formazione di nuove figure nel sistema sanitario.",
+  "z21e6d9b6": "Sun Online evidenzia lo scontro amministrativo tra il governo centrale e il consiglio comunale della capitale.",
+  "z4455d764": "La testata riporta le nuove regole del traffico introdotte per migliorare la sicurezza e la viabilità cittadina.",
+  "z423532d7": "La testata mette in risalto il legame diretto tra l'abuso di sostanze stupefacenti e il rischio sanitario per la nazione.",
+  "zc1c03942": "La testata peruviana segnala la conclusione dell'iter elettorale con l'ufficializzazione dei dati da parte dell'ONPE.",
+  "zbe858f95": "Viene dato risalto all'eccezionale performance atletica della nuotatrice olandese a livello continentale.",
+  "zd5fa13c3": "La testata elenca le specifiche tecniche e le innovazioni che caratterizzeranno la prossima generazione di smartphone Apple.",
+  "z269ea735": "ABC Color riporta la gravità dell'emergenza idrica in Argentina e le misure di sicurezza adottate per la popolazione.",
+  "z7a34d3a1": "Defimedia evidenzia la posizione autoritaria del primo ministro nel voler applicare leggi speciali per gestire i disordini interni.",
+  "ze7d02df4": "La testata mette in luce l'entità del danno economico subito dal settore agricolo a causa dei roghi."
  },
  "contesti": {
   "z18ad243f": "Harry e Meghan erano tornati a vivere nel Regno Unito dopo anni trascorsi negli Stati Uniti, ma non avevano ancora compiuto apparizioni pubbliche insieme fino a questa visita a Nottingham, città simbolicamente legata alla loro storia di coppia.",
@@ -42038,6 +43914,532 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Colombia"
    ],
    "pt": []
+  },
+  "z9b6fffd5": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zecb6d595": {
+   "n": "Paraguay",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z8147c7f6": {
+   "n": "Burkina Faso",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z7b536b5d": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z55639113": {
+   "n": "Andorra",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z841558d4": {
+   "n": "Senegal, Niger e Costa d'Avorio",
+   "p": [
+    "Senegal",
+    "Niger",
+    "Côte d'Ivoire"
+   ],
+   "pt": []
+  },
+  "z248b97cf": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zeaab470f": {
+   "n": "Bagamoyo",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z2b35237a": {
+   "n": "Medio Chari",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zc695e2ce": {
+   "n": "Abéché",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z999b46ee": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z30cc7ca7": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zef6b2967": {
+   "n": "Koubia",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "za8923ce8": {
+   "n": "Guinea",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z2b493b00": {
+   "n": "Cameroon",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z7775f586": {
+   "n": "Cameroon",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zfe84a48d": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zc031bd46": {
+   "n": "Cameroon",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zaba4e1c7": {
+   "n": "Ouidah",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z7a88b007": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z23d82f1a": {
+   "n": "Benin",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "zf568d085": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zfc764ab5": {
+   "n": "Port-Gentil",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z9fbfa9d3": {
+   "n": "Moanda",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "ze6751df4": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zfe3df32f": {
+   "n": "Antsohihy",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "zf902a05c": {
+   "n": "Antananarivo",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z43c850ef": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z0da96a04": {
+   "n": "Nouadhibou",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "zf1c47168": {
+   "n": "Biserta",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z6513c76d": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z0b2a4e7e": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zdfc53daf": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z54eca989": {
+   "n": "Goma",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z8aa874bb": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z085d2caf": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "zf77b3bee": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z0c4c97ce": {
+   "n": "Kenscoff",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z534eb6be": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z58f00333": {
+   "n": "Delmas",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z7c19c7f8": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z87f53bb3": {
+   "n": "Suriname",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z5988e3dd": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z9b494b7b": {
+   "n": "Sucre",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z90a0316f": {
+   "n": "Iraq",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z614b4c8b": {
+   "n": "Spain",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z944d1a1f": {
+   "n": "United States of America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8ff4a4ce": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zd5570e78": {
+   "n": "Yemen",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z8743b17b": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z047aff4f": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z5062a57e": {
+   "n": "Striscia di Gaza",
+   "p": [
+    "Palestine",
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z44fc5bf1": {
+   "n": "Fondo Monetario Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z47850c5e": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z38880f98": {
+   "n": "United States of America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd8f1bbf0": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zadb4d2b1": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z43815006": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zc6ec8774": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z6a1fab2a": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4f5d3ae6": {
+   "n": "Confine tra Cina e Corea del Nord",
+   "p": [
+    "China",
+    "North Korea"
+   ],
+   "pt": []
+  },
+  "z81dc0acc": {
+   "n": "Zimbabwe",
+   "p": [
+    "Zimbabwe",
+    "India"
+   ],
+   "pt": []
+  },
+  "z63a75603": {
+   "n": "Dušanbe",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z7143ea27": {
+   "n": "Kyrgyzstan",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "zdef00ad6": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z9332e302": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z21e6d9b6": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z4455d764": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z423532d7": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zc1c03942": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "zbe858f95": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "zd5fa13c3": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z269ea735": {
+   "n": "Argentina",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z7a34d3a1": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "ze7d02df4": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -42901,7 +45303,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z254a860a": 1,
   "z73b71c6a": 1,
   "z3cc6cf8e": 1,
-  "ze445dafa": 1,
+  "ze445dafa": 2,
   "zfc590e5d": 1,
   "z9c4808d6": 1,
   "z3db79a94": 1,
@@ -43242,7 +45644,82 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2312211f": 1,
   "zdd41f4ad": 1,
   "zd57db8cd": 1,
-  "zb3affc26": 1
+  "zb3affc26": 1,
+  "z9b6fffd5": 1,
+  "zecb6d595": 2,
+  "z8147c7f6": 1,
+  "z7b536b5d": 1,
+  "z55639113": 1,
+  "z841558d4": 1,
+  "z248b97cf": 1,
+  "zeaab470f": 1,
+  "z2b35237a": 1,
+  "zc695e2ce": 1,
+  "z999b46ee": 1,
+  "z30cc7ca7": 1,
+  "zef6b2967": 1,
+  "za8923ce8": 1,
+  "z2b493b00": 1,
+  "z7775f586": 1,
+  "zfe84a48d": 1,
+  "zc031bd46": 1,
+  "zaba4e1c7": 1,
+  "z7a88b007": 1,
+  "z23d82f1a": 1,
+  "zf568d085": 1,
+  "zfc764ab5": 1,
+  "z9fbfa9d3": 1,
+  "ze6751df4": 1,
+  "zfe3df32f": 1,
+  "zf902a05c": 1,
+  "z43c850ef": 1,
+  "z0da96a04": 1,
+  "zf1c47168": 1,
+  "z6513c76d": 1,
+  "z0b2a4e7e": 1,
+  "zdfc53daf": 1,
+  "z54eca989": 1,
+  "z8aa874bb": 1,
+  "z085d2caf": 1,
+  "zf77b3bee": 1,
+  "z0c4c97ce": 1,
+  "z534eb6be": 1,
+  "z58f00333": 1,
+  "z7c19c7f8": 1,
+  "z87f53bb3": 1,
+  "z5988e3dd": 1,
+  "z9b494b7b": 1,
+  "z90a0316f": 1,
+  "z614b4c8b": 1,
+  "z944d1a1f": 1,
+  "z8ff4a4ce": 1,
+  "zd5570e78": 1,
+  "z8743b17b": 1,
+  "z047aff4f": 1,
+  "z5062a57e": 1,
+  "z44fc5bf1": 1,
+  "z47850c5e": 1,
+  "z38880f98": 1,
+  "zd8f1bbf0": 1,
+  "zadb4d2b1": 1,
+  "z43815006": 1,
+  "zc6ec8774": 1,
+  "z6a1fab2a": 1,
+  "z4f5d3ae6": 1,
+  "z81dc0acc": 1,
+  "z63a75603": 1,
+  "z7143ea27": 1,
+  "zdef00ad6": 1,
+  "z9332e302": 1,
+  "z21e6d9b6": 1,
+  "z4455d764": 1,
+  "z423532d7": 1,
+  "zc1c03942": 1,
+  "zbe858f95": 1,
+  "zd5fa13c3": 1,
+  "z269ea735": 2,
+  "z7a34d3a1": 1,
+  "ze7d02df4": 1
  },
  "video": {},
  "pillole": []
