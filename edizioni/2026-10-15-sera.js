@@ -3,6 +3,2163 @@ window.EDIZIONI["2026-10-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zb2b4e8a8",
+   "sez": "cultura",
+   "titolo": "Il romanzo \"Shy\" di Max Porter diventa un'opera teatrale",
+   "orig": "Succesnovelle van Max Porter levert krachtig en grensoverschrijdend toneel op",
+   "lead": "L'attore e regista Romijn Scholten ha portato in scena a Rotterdam l'adattamento teatrale di \"Shy\", l'omonimo romanzo di Max Porter. La rappresentazione si distingue per la sua intensità, mettendo lo spettatore in una posizione di vulnerabilità e spingendo il pubblico a sentirsi direttamente responsabile per il destino del protagonista. L'opera è descritta come un teatro potente e trasgressivo, capace di abbattere le barriere tra attore e spettatore attraverso una narrazione cruda e coinvolgente che esplora i confini dell'animo umano. Lo riferisce NRC.",
+   "more": [
+    "Max Porter è uno scrittore britannico contemporaneo noto per il suo stile poetico e frammentario. Le sue opere esplorano spesso temi profondi come il dolore, la salute mentale e il passaggio all'età adulta, utilizzando strutture narrative non convenzionali che si prestano efficacemente all'adattamento per il palcoscenico, dove la componente emotiva e sonora può essere amplificata."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/grensoverschrijdend-toneel-over-een-jongen-die-geen-uitweg-ziet-a4938929",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T11:39+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zcc3cb7dd",
+   "sez": "cultura",
+   "titolo": "Un documentario rivela le difficoltà dell'assistenza ai disabili",
+   "orig": "Elke aflevering van ‘Zoals het komt: 100 dagen in de gehandicaptenzorg’ breekt je hart",
+   "lead": "Nicolaas Veul è il protagonista di \"Zoals het komt: 100 dagen in de gehandicaptenzorg\", una serie documentaria che segue la sua esperienza lavorativa in un centro di assistenza per persone con gravi disabilità mentali. La narrazione mette in luce un mondo di estremi difficili da conciliare, descritto come un'esperienza toccante che mette a dura prova la sensibilità degli operatori. Per la prima volta nella sua carriera, Veul ha deciso di non portare a termine il periodo di tirocinio previsto a causa dell'intensità emotiva della situazione. Lo riferisce NRC.",
+   "more": [
+    "L'assistenza a persone con disabilità intellettive gravi richiede competenze specifiche e un'elevata resilienza psicologica. Il settore si confronta spesso con sfide legate alla gestione dei comportamenti complessi e alla necessità di garantire una qualità della vita dignitosa in contesti istituzionali, dove le risorse umane e finanziarie possono influire direttamente sul benessere dei pazienti e degli operatori stessi."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/elke-aflevering-van-zoals-het-komt-100-dagen-in-de-gehandicaptenzorg-breekt-je-hart-a4939012",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T11:30+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z3d0151d9",
+   "sez": "economia",
+   "titolo": "Il Tribunale federale svizzero conferma il taglio dei bonus a Credit Suisse",
+   "orig": "Das Bundesgericht bestätigt: Die Streichung von Boni für CS-Kader war rechtmässig",
+   "lead": "Il Tribunale federale svizzero ha emesso una sentenza definitiva confermando che la cancellazione dei bonus destinati ai dirigenti di Credit Suisse è stata un'azione legittima. La massima istanza giuridica ha accolto i ricorsi presentati dalla Confederazione e da UBS, rigettando le pretese dei manager colpiti dal provvedimento. La decisione sancisce la correttezza giuridica dell'intervento statale volto a limitare le remunerazioni variabili in seguito alla crisi finanziaria e alla successiva acquisizione dell'istituto bancario, motivata dalla necessità di tutelare l'interesse pubblico. Lo riferisce NZZ.",
+   "more": [
+    "Il Tribunale federale è la massima autorità giudiziaria della Svizzera, con sede a Losanna. Ha il compito di garantire l'applicazione uniforme del diritto federale e di proteggere i diritti costituzionali dei cittadini. Le sue decisioni sono definitive e rappresentano un punto di riferimento cruciale per la giurisprudenza economica e amministrativa del Paese, specialmente in casi di rilevanza nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/wirtschaft/das-bundesgericht-bestaetigt-die-streichung-von-boni-fuer-cs-kader-war-rechtmaessig-ld.10034840",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-15T10:24+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z8fb40f99",
+   "sez": "sport",
+   "titolo": "Storica qualificazione ai Mondiali per la pallavolo femminile svizzera",
+   "orig": "Lange spielten die Schweizer Volleyballerinnen international kaum eine Rolle. Nun fahren sie erstmals an eine WM",
+   "lead": "Per la prima volta nella storia, la nazionale svizzera di pallavolo femminile si è qualificata per un Campionato Mondiale. Questo risultato arriva dopo anni di anonimato a livello internazionale e segna il culmine di un percorso di crescita professionale. Il successo è attribuito a una generazione di atlete di talento che ha richiesto strutture tecniche d'avanguardia e alla visione strategica del club Volero Zurigo, che ha contribuito in modo determinante allo sviluppo del movimento nel Paese attraverso investimenti e professionalità. Lo riferisce NZZ.",
+   "more": [
+    "La pallavolo è uno sport di squadra in cui la Svizzera ha storicamente faticato a competere con le grandi potenze mondiali. Lo sviluppo di club con strutture professionistiche permette alle atlete di allenarsi a livelli competitivi, facilitando la formazione di una nazionale capace di superare le fasi di qualificazione nei tornei internazionali più prestigiosi, come la World Cup o il Campionato Mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/sport/weitere-sportarten/volleyball-wie-sich-die-schweizerinnen-fuer-die-wm-qualifizierten-ld.10031518",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-15T09:41+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z58cddf3a",
+   "sez": "mondo",
+   "titolo": "Successione Parmelin: i papabili dell'UDC per il Consiglio federale",
+   "orig": "Guy Parmelins Nachfolge im Bundesrat: Das sind die Kandidatinnen und Kandidaten im Überblick",
+   "lead": "All'interno dell'Unione Democratica di Centro (SVP) è ufficialmente iniziata la corsa per la successione di Guy Parmelin nel Consiglio federale svizzero. I potenziali candidati, noti come \"papabili\", stanno iniziando a posizionarsi per ottenere il sostegno necessario. La selezione rappresenta un momento cruciale per gli equilibri politici del governo nazionale, con il partito impegnato a valutare i profili più autorevoli per mantenere la propria rappresentanza nell'esecutivo collegiale della Confederazione. Lo riferisce NZZ.",
+   "more": [
+    "Il Consiglio federale è l'organo esecutivo della Confederazione Svizzera, composto da sette membri eletti dall'Assemblea federale. Caratterizzato da una composizione collegiale, il governo segue una ripartizione consolidata per garantire la rappresentanza dei principali partiti politici e delle diverse regioni linguistiche del Paese, mantenendo una stabilità politica duratura e un sistema di presidenza rotante annuale."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/der-kronprinz-der-parteifuehrung-oder-die-vizepraesidentin-aus-dem-welschland-wer-guy-parmelin-nachfolgen-koennte-ld.10025132",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-15T08:33+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "za21f8cb3",
+   "sez": "mondo",
+   "titolo": "Céline Amaudruz ufficializza la candidatura al Consiglio federale",
+   "orig": "Céline Amaudruz sagt ja. Die Westschweizerin kandidiert für den Bundesrat. Ein Porträt",
+   "lead": "Céline Amaudruz, attuale vicepresidente dell'UDC, ha confermato ufficialmente la propria candidatura per un seggio nel Consiglio federale svizzero. La politica della Svizzera romanda mira a convincere la propria frazione parlamentare per entrare nel governo nazionale. Amaudruz, figura di rilievo già nota per aver influenzato passate elezioni federali, rappresenta una candidatura forte che potrebbe consolidare la posizione del suo partito nell'esecutivo, a condizione di superare le selezioni interne e il voto dell'Assemblea federale. Lo riferisce NZZ.",
+   "more": [
+    "Le elezioni del Consiglio federale in Svizzera non sono dirette ma avvengono tramite l'Assemblea federale plenaria. I candidati devono solitamente appartenere ai grandi partiti nazionali e rispettare equilibri linguistici; nel caso di Amaudruz, la sua provenienza dalla Svizzera francofona è un elemento centrale per mantenere la rappresentanza delle minoranze linguistiche nel governo di sette membri."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/celine-amaudruz-koennte-bundesraetin-werden-doch-zuerst-muss-sie-den-roestigraben-ueberwinden-ld.10033846",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-15T08:03+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z5183fd93",
+   "sez": "salute",
+   "titolo": "La ricerca scientifica sul benessere come fonte di senso",
+   "orig": "Den Fokus auf die eigenen Bedürfnisse lenken",
+   "lead": "La ricercatrice Tatjana Schnell ha identificato il benessere come una delle 26 fonti empiriche di significato nella vita umana. Secondo i suoi studi, il \"wellness\" non è solo una pratica estetica, ma un momento in cui l'individuo sposta l'attenzione sui propri bisogni primari, trovando appagamento e realizzazione. La ricerca esplora chi riesce a trovare soddisfazione in queste attività e in quali contesti specifici si manifesta questo senso di gratificazione profonda, contribuendo a definire i pilastri del senso della vita. Lo riferisce NZZ.",
+   "more": [
+    "La psicologia del benessere studia i fattori che contribuiscono a una vita soddisfacente e piena di significato. Oltre alla salute fisica, queste ricerche si concentrano sulla salute mentale e sulla capacità di rigenerarsi attraverso la cura di sé, identificando come le attività quotidiane e gli stili di vita possano influenzare la percezione di scopo e la resilienza individuale nel lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/wissenschaft/den-fokus-auf-die-eigenen-beduerfnisse-lenken-ld.10012923",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-15T07:45+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z0ad41126",
+   "sez": "mondo",
+   "titolo": "Quattro anni di guerra in Ucraina mappati giorno per giorno",
+   "orig": "INTERAKTIV - Alle Angriffe und Rückeroberungen der letzten vier Kriegsjahre – klicken Sie sich durch unsere Karte",
+   "lead": "In occasione del quarto anno di conflitto in Ucraina, è stata pubblicata una mappa interattiva che documenta ogni attacco e riconquista territoriale dall'inizio delle ostilità russe. Il progetto editoriale permette di visualizzare cronologicamente l'evoluzione della guerra, fornendo un archivio dettagliato di tutti gli eventi significativi registrati sul campo. Lo strumento offre agli utenti la possibilità di navigare tra i diversi fronti e comprendere la dinamica dei cambiamenti territoriali avvenuti negli ultimi quattro anni di combattimenti. Lo riferisce NZZ.",
+   "more": [
+    "La cartografia bellica digitale è diventata uno strumento essenziale per monitorare i conflitti moderni in tempo reale. Attraverso l'uso di dati satellitari, testimonianze verificate e bollettini militari, queste mappe permettono di visualizzare l'estensione delle aree occupate e l'impatto dei combattimenti sulla geografia del territorio, offrendo un quadro chiaro di situazioni spesso confuse e in rapida evoluzione."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/visuals/ukraine-krieg-karte-zum-aktuellen-frontverlauf-ld.1671603",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-15T07:20+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z3f11da0f",
+   "sez": "mondo",
+   "titolo": "Appello per un ritorno all'alleanza di centro-destra in Svezia",
+   "orig": "Insändare. C borde kunna byta sida utan större svekdebatt",
+   "lead": "In un editoriale firmato da Staffan Ericsson, viene suggerito che il Partito di Centro svedese dovrebbe riconsiderare la propria posizione politica per favorire una strategia economica orientata alla crescita. L'autore sostiene la necessità che i quattro partiti dell'ex Alleanza tornino a collaborare stabilmente. Senza questo cambiamento di rotta, il Centro rischierebbe di trovarsi costretto a formare un governo con il Partito della Sinistra, uno scenario considerato meno favorevole per le politiche di sviluppo economico e la stabilità del Paese. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "La politica svedese è stata storicamente dominata da blocchi contrapposti: quello di centro-destra, storicamente chiamato l'Alleanza, e quello guidato dai socialdemocratici. Il Partito di Centro occupa una posizione pivotale, spesso determinante per la formazione di coalizioni governative, agendo come ago della bilancia tra le diverse visioni di gestione economica e sociale dello Stato."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/insandare/c-borde-kunna-byta-sida-utan-storre-svekdebatt/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T12:44+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z6397b8f1",
+   "sez": "mondo",
+   "titolo": "Cina e Corea del Nord aprono un nuovo ponte dopo dodici anni",
+   "orig": "Till sist öppnar ”spökbron” – Kina och Nordkorea stärker banden",
+   "lead": "È stato ufficialmente inaugurato un nuovo ponte stradale che collega la Cina e la Corea del Nord, ponendo fine a un'attesa durata dodici anni. L'infrastruttura, precedentemente definita \"ponte fantasma\" a causa dei lunghi ritardi nella sua attivazione, mira a rafforzare i legami commerciali tra Pechino e il regime di Pyongyang. Questa apertura segue di poche settimane l'inaugurazione di un collegamento simile tra la Russia e la Corea del Nord, evidenziando una strategia coordinata di potenziamento delle vie di scambio regionali. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "La Corea del Nord subisce pesanti sanzioni internazionali che limitano il suo commercio. I collegamenti terrestri con Cina e Russia sono vitali per l'economia nordcoreana, poiché permettono l'afflusso di beni essenziali. Questi ponti rappresentano nodi strategici non solo per l'economia, ma anche per la stabilità geopolitica della regione asiatica, facilitando i movimenti logistici transfrontalieri."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/till-sist-oppnar-spokbron-kina-och-nordkorea-starker-banden/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T12:30+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zce8c11a5",
+   "sez": "economia",
+   "titolo": "Scontro tra UE e Stati Uniti sugli accordi per il diesel russo",
+   "orig": "EU-ledarna rasar över USA:s dieselavtal med Ryssland: ”Gåva till Putin”",
+   "lead": "I leader dell'Unione Europea hanno espresso forte irritazione nei confronti degli Stati Uniti per un accordo riguardante il diesel russo, definito dal primo ministro svedese Ulf Kristersson come un \"regalo a Putin\". A Bruxelles la tensione è alta, poiché si ritiene che tali intese minino l'efficacia delle sanzioni internazionali. Nonostante le critiche rivolte a Washington, diversi Stati membri dell'UE continuano a importare petrolio e gas dalla Russia, evidenziando le contraddizioni interne nella gestione coordinata dell'approvvigionamento energetico occidentale. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Le sanzioni internazionali mirano a ridurre le entrate della Russia per limitare il finanziamento del conflitto in Ucraina. Tuttavia, il mercato globale dell'energia è interconnesso, rendendo difficile una completa interruzione delle forniture. I prodotti raffinati come il diesel sono particolarmente critici per i trasporti, creando dilemmi politici tra la sicurezza energetica nazionale e la coerenza diplomatica alleata."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/eu-ledarna-rasar-over-usas-dieselavtal-med-ryssland-gava-till-putin/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T12:06+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z9d0544c8",
+   "sez": "cultura",
+   "titolo": "Successo per l'ultimo capitolo della trilogia di \"Nelly Rapp\"",
+   "orig": "Fenomenal final – ”Nelly Rapp” är underhållande mysrys av bästa märke",
+   "lead": "La trilogia cinematografica dedicata all'agente di mostri Nelly Rapp si conclude con il film \"La porta del sottomondo\", accolto positivamente dalla critica. Nella pellicola, la protagonista ritrova finalmente sua madre, ma la situazione prende una piega misteriosa e inquietante che mette alla prova le sue abilità. Il film è stato descritto come un intrattenimento di qualità capace di mescolare suspense e atmosfera familiare, chiudendo in bellezza il ciclo narrativo ispirato ai celebri libri per bambini svedesi. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Nelly Rapp è un personaggio letterario creato dall'autore svedese Martin Widmark. Le storie seguono una giovane ragazza che scopre di appartenere a un'accademia segreta di agenti il cui compito è gestire creature sovrannaturali in modo pacifico. Il franchise ha avuto un grande successo in Scandinavia, diventando un punto di riferimento per il genere horror-fantasy destinato ai giovani."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/kultur/fenomenal-final-nelly-rapp-ar-underhallande-mysrys-av-basta-marke/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T11:35+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z4d8f37fb",
+   "sez": "ambiente",
+   "titolo": "Inverno da record per la caccia al lupo in Svezia",
+   "orig": "Rekordstor vargjakt kan vänta i vinter",
+   "lead": "Le autorità provinciali svedesi hanno annunciato che a partire da gennaio potrebbe aprirsi una stagione di caccia al lupo senza precedenti. Dopo la sospensione delle attività venatorie avvenuta quest'anno, è stato autorizzato l'abbattimento di un totale di 72 animali durante il prossimo inverno. Il provvedimento risponde alle necessità di gestione della fauna selvatica, sebbene le dimensioni della quota fissata rappresentino un picco storico che sta già alimentando discussioni sulla conservazione della specie e l'equilibrio dell'ecosistema nel Paese. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "La gestione delle popolazioni di lupi è un tema controverso che vede scontrarsi le esigenze di protezione della biodiversità e le richieste degli allevatori per la tutela del bestiame. Le autorità ambientali utilizzano il monitoraggio scientifico per stabilire quote di abbattimento che garantiscano la stabilità della specie selvatica senza compromettere la sicurezza delle attività rurali e zootecniche locali."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/rekordstor-vargjakt-kan-vanta-i-vinter/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T11:17+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z3ebe9637",
+   "sez": "sport",
+   "titolo": "Seconda medaglia per la Svezia agli Europei di tennistavolo",
+   "orig": "Ny svensk medalj i bordtennis-EM: ”Jävligt starkt”",
+   "lead": "Kristian Karlsson e Anton Källberg hanno conquistato la seconda medaglia per la Svezia ai Campionati Europei di tennistavolo a Linz. La coppia svedese ha ottenuto il successo dopo una rimonta spettacolare nei quarti di finale contro i tedeschi Dang Qiu e Benedikt Duda. La vittoria, definita estremamente solida dagli stessi atleti, assicura alla squadra nazionale un posto sul podio, confermando l'ottimo stato di forma del movimento svedese e la competitività dei suoi giocatori nelle discipline di doppio. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Il tennistavolo è uno sport che richiede riflessi rapidissimi e precisione tecnica millimetrica. Le competizioni europee vedono tradizionalmente una forte rivalità tra le nazioni del Nord Europa e la Germania. Le gare di doppio richiedono non solo abilità individuali, ma anche una perfetta sintonia tattica tra i compagni per coprire il tavolo e anticipare le traiettorie dell'avversario."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sport/ny-svensk-medalj-i-bordtennis-em-javligt-starkt/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T11:07+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zd2825269",
+   "sez": "cultura",
+   "titolo": "\"Wśród nocnej ciszy\": il ritratto moderno di un crimine del passato",
+   "orig": "\"Wśród nocnej ciszy\" Jana Holoubka. To warto wiedzieć o serialu",
+   "lead": "Nonostante la vicenda sia accaduta quasi cinquant'anni fa, la narrazione di Holoubek riesce a essere attuale, offrendo un ritratto collettivo dei tempi moderni. L'opera è descritta come un racconto capace di reinterpretare un fatto di cronaca nera storico sotto una luce psicologica e sociale contemporanea, analizzando la natura umana attraverso una vicenda przerażającej (terrificante) del secondo dopoguerra polacco. Lo riferisce TVN24.",
+   "more": [
+    "Il cinema polacco ha mostrato negli ultimi anni una grande capacità di rielaborare fatti storici attraverso linguaggi visivi sofisticati. Queste produzioni utilizzano eventi del periodo socialista per riflettere sulle dinamiche di potere, sulla giustizia e sulla moralità, riscontrando successo sia a livello locale che internazionale grazie alla profondità delle analisi psicologiche dei protagonisti."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/kultura-i-styl/wsrod-nocnej-ciszy-jana-holoubka-to-warto-wiedziec-o-serialu-zdjecia-i-pierwsza-zapowiedz-wybor-wrony-st9284264?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T11:13+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z1838647b",
+   "sez": "tech",
+   "titolo": "Il governo polacco contro i contenuti pericolosi sui social media",
+   "orig": "Gawkowski: zamykają oczy i mówią \"nic się nie stało\"",
+   "lead": "Krzysztof Gawkowski, vicepremier e ministro della digitalizzazione in Polonia, ha annunciato un incontro con i rappresentanti delle principali piattaforme social per discutere la rimozione di contenuti pericolosi. Il ministro ha aspramente criticato le aziende tecnologiche che ignorano il problema, accusandole di fingere che nulla accada. Gawkowski ha dichiarato l'intenzione di informare ufficialmente l'opinione pubblica sulla mancanza di onestà delle piattaforme se non verranno presi provvedimenti concreti per garantire la sicurezza degli utenti e contrastare i contenuti dannosi. Lo riferisce TVN24.",
+   "more": [
+    "La regolamentazione dei contenuti online è un tema centrale nel dibattito tecnologico globale. I governi cercano di bilanciare la libertà di espressione con la necessità di combattere la disinformazione e la diffusione di materiale illegale. Il ruolo degli algoritmi e la responsabilità legale delle aziende tecnologiche sono al centro di nuove normative europee volte a rendere il web un ambiente più sicuro."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/tech/krzysztof-gawkowski-spotka-sie-z-przedstawicielami-platform-spolecznosciowych-zamykaja-oczy-i-mowia-nic-sie-nie-stalo-st9287978?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T11:07+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zda12d3ee",
+   "sez": "salute",
+   "titolo": "L'appello dell'OMS contro la BPCO, la malattia spesso sottovalutata",
+   "orig": "Ta choroba zabija miliony. Wciąż ją bagatelizujemy",
+   "lead": "La broncopneumopatia cronica ostruttiva (BPCO) rappresenta la terza causa di morte a livello mondiale, ma rimane ancora una patologia pericolosamente sottodiagnosticata. I suoi sintomi vengono frequentemente scambiati per asma o semplici infezioni respiratorie, rischiando inoltre di mascherare la presenza di tumori polmonari e ritardare cure essenziali. L'Organizzazione Mondiale della Sanità ha lanciato un appello per una diagnosi precoce e per l'attuazione di strategie globali coordinate che permettano di affrontare questa malattia cronica che continua a essere sottovalutata da pazienti e sistemi sanitari. Lo riferisce TVN24.",
+   "more": [
+    "La BPCO è una condizione polmonare cronica che causa una limitazione del flusso aereo e gravi problemi respiratori. È spesso associata all'esposizione prolungata a sostanze irritanti come il fumo di tabacco o l'inquinamento atmosferico. La gestione della malattia richiede terapie farmacologiche costanti e l'eliminazione dei fattori di rischio ambientali per prevenire il progressivo deterioramento delle funzioni polmonari."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/zdrowie/pochp-nie-dotyczy-tylko-seniorow-i-palaczy-who-ostrzega-przed-szkodliwym-mitem-st9288315?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T11:05+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z8dd236d9",
+   "sez": "mondo",
+   "titolo": "Inowrocław introduce metal detector in tutte le scuole elementari",
+   "orig": "Zmiany w szkołach. Prezydent zapowiedział pojawienie się bramek bezpieczeństwa",
+   "lead": "Il sindaco di Inowrocław, Arkadiusz Fajok, ha annunciato l'installazione di varchi di sicurezza in tutte le scuole elementari della città polacca. Sebbene non si siano verificati episodi di pericolo o violenza nelle strutture scolastiche locali, l'amministrazione comunale ha deciso di adottare questa misura precauzionale in accordo con i dirigenti degli istituti. L'obiettivo è prevenire potenziali minacce e garantire la massima sicurezza agli studenti attraverso l'uso di metal detector all'ingresso degli edifici, agendo preventivamente per tutelare la comunità scolastica. Lo riferisce TVN24.",
+   "more": [
+    "L'introduzione di metal detector nelle scuole è una pratica volta a controllare l'accesso di oggetti pericolosi negli edifici frequentati da minori. Sebbene più comune in contesti extra-europei, questa misura viene talvolta adottata come protocollo di sicurezza per elevare gli standard di protezione degli spazi pubblici sensibili, richiedendo un coordinamento stretto tra autorità locali, personale scolastico e famiglie."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/kujawsko-pomorskie/inowroclaw-prezydent-zapowiedzial-bramki-bezpieczenstwa-w-szkolach-st9288337?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T10:47+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z030778ee",
+   "sez": "mondo",
+   "titolo": "Richiesta la revoca dell'immunità per l'eurodeputato Daniel Obajtek",
+   "orig": "Jest wniosek o uchylenie immunitetu europosła Daniela Obajtka",
+   "lead": "Il ministro della giustizia polacco Waldemar Żurek ha presentato formalmente alla presidente del Parlamento Europeo, Roberta Metsola, la richiesta di revoca dell'immunità per l'eurodeputato Daniel Obajtek. La domanda include l'autorizzazione al fermo, al prigioniero forzato e alla custodia cautelare del politico. Obajtek, figura di spicco legata al precedente governo e già vertice del colosso energetico Orlen, è al centro di indagini giudiziarie che richiedono la rimozione dello scudo parlamentare per poter procedere con le misure restrittive richieste dalla magistratura. Lo riferisce TVN24.",
+   "more": [
+    "L'immunità parlamentare è un istituto giuridico che protegge i membri del Parlamento da procedimenti giudiziari ingiustificati per garantire l'indipendenza del loro mandato. Tuttavia, tale protezione può essere revocata su richiesta delle autorità competenti se l'assemblea ritiene che l'indagine non sia motivata da intenti politici, permettendo così il normale corso della giustizia per reati amministrativi o finanziari."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/z-kraju/jest-wniosek-o-uchylenie-immunitetu-europosla-daniela-obajtka-st9288437?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T10:45+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z174e4df8",
+   "sez": "tech",
+   "titolo": "Educare i giovani alla convivenza con l'intelligenza artificiale",
+   "orig": "Aprendendo a interrogar as máquinas entre nós",
+   "lead": "Con la rapida diffusione delle intelligenze artificiali generative e degli algoritmi, diventa fondamentale guidare i giovani nella comprensione di queste tecnologie. Gli strumenti digitali oggi offrono risposte pronte e scelgono contenuti al posto dell'utente, influenzando le decisioni quotidiane. La sfida educativa attuale è insegnare alle nuove generazioni come interrogare correttamente le macchine e come preservare la propria capacità di scelta autonoma, evitando di delegare completamente i processi critici e creativi ai sistemi automatizzati presenti nelle piattaforme social. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "L'intelligenza artificiale generativa è una tecnologia capace di creare testi, immagini o video partendo da semplici istruzioni. Sebbene offra opportunità di apprendimento, solleva interrogativi sull'originalità e sul pensiero critico. Gli algoritmi di raccomandazione influenzano la percezione della realtà, rendendo necessaria una nuova alfabetizzazione digitale per comprendere i meccanismi che regolano i contenuti fruiti online dai minori."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/aprendendo-a-interrogar-as-maquinas-entre-nos.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-15T08:00-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zb0ca2be9",
+   "sez": "ambiente",
+   "titolo": "San Paolo investe 29 miliardi contro gli effetti estremi di El Niño",
+   "orig": "Plano do governo de SP para o El Niño inclui investimento de R$ 29 bi e obras contra falta de água",
+   "lead": "Il governo dello Stato di San Paolo ha stanziato un investimento di 29 miliardi di real per contrastare gli impatti del fenomeno climatico El Niño, previsto in una fase di forte intensità per il prossimo mese. Il piano strategico include opere infrastrutturali urgenti per prevenire la carenza d'acqua e mitigare le conseguenze ambientali sul territorio. Le misure mirano a potenziare la resilienza del sistema idrico di fronte a eventi meteorologici estremi che potrebbero mettere a rischio l'approvvigionamento e la stabilità economica della regione brasiliana. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "El Niño è un fenomeno climatico periodico caratterizzato dal riscaldamento anomalo delle acque dell'Oceano Pacifico. Questo evento altera i modelli di pioggia a livello globale, causando spesso siccità prolungate in alcune aree e inondazioni in altre. In Brasile, i suoi effetti richiedono una pianificazione rigorosa per la gestione delle risorse idriche e la protezione delle infrastrutture urbane e agricole."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/plano-do-governo-de-sp-para-o-el-nino-inclui-investimento-de-r-29-bi-e-obras-contra-falta-de-agua.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-15T08:00-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zb91ae640",
+   "sez": "musica",
+   "titolo": "Jorge Ben Jor celebra la storia del caffè in una canzone \"dimenticata\"",
+   "orig": "Ben Jor, que faz show em SP, resumiu história do café em música 'esquecida'",
+   "lead": "In occasione del suo concerto a San Paolo presso il Nubank Parque, il celebre musicista Jorge Ben Jor ha riportato l'attenzione su un suo brano meno noto che sintetizza la storia del caffè in Brasile. Attraverso pochi versi, la canzone riesce a ripercorrere l'evoluzione e l'importanza economica e culturale di questa materia prima fondamentale per il Paese. L'esibizione dell'artista rappresenta un momento di riscoperta di un'opera che unisce la musica popolare alla narrativa storica nazionale, celebrando l'identità brasiliana attraverso il ritmo. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Jorge Ben Jor è una figura iconica della musica brasiliana, celebre per aver fuso samba, funk e rock. Il caffè è stato per decenni il motore trainante dell'economia del Brasile, influenzando la crescita delle città e la cultura nazionale. La celebrazione artistica di questo prodotto riflette il legame profondo tra l'arte e le radici economiche e agricole della società brasiliana."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/10/ben-jor-que-faz-show-em-sp-resumiu-historia-do-cafe-em-musica-esquecida.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-15T08:00-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z1d9cf446",
+   "sez": "economia",
+   "titolo": "Ricavi record per Anthropic in vista della possibile quotazione",
+   "orig": "Anthropic diz a investidores que receita aumentou quase 50% no terceiro trimestre",
+   "lead": "La società di intelligenza artificiale Anthropic ha comunicato ai propri investitori una crescita dei ricavi del 50% nel terzo trimestre, raggiungendo i 16,8 miliardi di dollari. L'azienda ha inoltre dichiarato di essere diventata lucrativa, un segnale di solidità mentre valuta il lancio di un'offerta pubblica iniziale (IPO) di grandi dimensioni. Nonostante i dubbi generali sulla sostenibilità finanziaria dei massicci investimenti nell'IA, Anthropic cerca di consolidare il proprio posizionamento sul mercato dimostrando risultati economici concreti e attirando l'interesse degli azionisti globali. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Un'offerta pubblica iniziale è il processo con cui una società privata quota le proprie azioni in borsa per raccogliere capitali dal pubblico. Anthropic è uno dei principali attori nel campo dell'IA generativa e la sua capacità di generare profitti è monitorata attentamente per valutare la maturità del settore tecnologico e la fattibilità di investimenti a lungo termine in sistemi automatizzati avanzati."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/anthropic-diz-a-investidores-que-receita-aumentou-quase-50-no-terceiro-trimestre.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-15T07:59-03:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10904173",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zdf5b4339",
+   "sez": "mondo",
+   "titolo": "Operazione antidroga in Brasile: bloccati beni per 24 milioni di real",
+   "orig": "Operação em MS mira grupo que trazia drogas da Bolívia e distribuía em quatro estados; Justiça bloqueia R$ 24 milhões",
+   "lead": "In Brasile, un'operazione della Polizia Federale denominata Capolinea ha preso di mira un'organizzazione criminale dedita al traffico di droga dalla Bolivia verso quattro stati brasiliani: Mato Grosso do Sul, San Paolo, Goiás e Minas Gerais. L'azione, che ha coinvolto circa cento agenti, ha portato all'esecuzione di 41 mandati tra arresti e perquisizioni. Su ordine della giustizia, sono stati bloccati e sequestrati beni per un valore stimato di 24 milioni di real. Il gruppo utilizzava camion carichi di minerali per nascondere gli stupefacenti in transito tra Corumbá e Puerto Quijarro. Lo riferisce G1.",
+   "more": [
+    "Il traffico transfrontaliero di stupefacenti rappresenta una sfida costante per le autorità sudamericane, a causa della porosità dei confini e dell'uso di carichi commerciali legittimi per occultare le sostanze illegali. Queste operazioni mirano a smantellare le basi finanziarie dei cartelli, colpendo non solo il trasporto fisico ma anche il patrimonio accumulato attraverso attività illecite in diversi territori nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/15/operacao-em-ms-mira-grupo-que-trazia-drogas-da-bolivia-e-distribuia-em-quatro-estados-justica-bloqueia-r-24-milhoes.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-15T11:13+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z4c7399d3",
+   "sez": "cultura",
+   "titolo": "Il sarto del Papa: Tomás Valentín Gómez realizza le vesti per Leone XIV",
+   "orig": "El sastre del Papa: quién es Tomás Valentín Gómez, el argentino que confeccionó la vestimenta de León XIV",
+   "lead": "Tomás Valentín Gómez, sarto argentino, è l'autore delle vesti cerimoniali confezionate per Papa Leone XIV. Gómez ha lavorato per mesi nel laboratorio di cucito del santuario di Lourdes, terminando la stola bianca appena due ore prima dell'arrivo del Pontefice. Nonostante un recente intervento chirurgico subito dal Papa, il Vaticano ha confermato che il sarto continuerà a seguire Leone XIV durante il suo tour apostolico, garantendo la preparazione degli abiti necessari per le diverse tappe della missione diplomatica e religiosa. Lo riferisce La Nación.",
+   "more": [
+    "La sartoria ecclesiastica è un'arte antica che richiede precisione tecnica e profonda conoscenza dei simboli liturgici. Ogni capo indossato dal Papa, dalla stola alla casula, risponde a canoni specifici che variano a seconda del tipo di celebrazione o visita ufficiale, rappresentando non solo un abito cerimoniale ma un elemento visivo centrale della tradizione e dell'identità della Santa Sede."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/sociedad/el-sastre-del-papa-quien-es-tomas-valentin-gomez-el-argentino-que-confecciono-la-vestimenta-de-leon-nid15102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T11:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z38b095fa",
+   "sez": "mondo",
+   "titolo": "Milei a Washington per incontrare investitori e ricevere un premio",
+   "orig": "Tras respaldar a Trump y a Bolsonaro, Milei expondrá ante empresarios e inversionistas en Washington",
+   "lead": "In missione diplomatica negli Stati Uniti, il presidente argentino Javier Milei terrà un discorso focalizzato sulle sfide della crescita economica presso la Camera di Commercio di Washington. Durante l'evento, Milei riceverà un riconoscimento e sarà presentato dal segretario per l'Energia statunitense, Chris Wright. L'agenda del presidente prevede incontri con imprenditori e investitori internazionali, consolidando il suo posizionamento politico dopo aver espresso sostegno a figure come Donald Trump e Jair Bolsonaro. L'obiettivo è attrarre capitali e rafforzare le relazioni commerciali del Paese sudamericano. Lo riferisce La Nación.",
+   "more": [
+    "L'Argentina sta attraversando una fase di profonda ristrutturazione economica, con l'obiettivo di ridurre l'inflazione e liberalizzare i mercati. Questi incontri internazionali rappresentano momenti cruciali per presentare il nuovo corso del Paese a chi gestisce i grandi flussi finanziari globali, cercando di ristabilire la fiducia nelle istituzioni e nelle potenzialità di sviluppo a lungo termine della nazione."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/politica/tras-respaldar-a-trump-y-a-bolsonaro-milei-expondra-ante-empresarios-e-inversionistas-en-washington-nid15102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T11:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zad8e7735",
+   "sez": "mondo",
+   "titolo": "Il Cile riapre i consolati in Venezuela dopo la rottura diplomatica",
+   "orig": "Cancillería anuncia apertura de consulados de Chile en Caracas y Puerto Ordaz en Venezuela",
+   "lead": "Il Ministero degli Esteri del Cile ha annunciato la riapertura dei propri uffici consolari a Caracas e Puerto Ordaz, in Venezuela. La ripresa delle attività avviene dopo un periodo di chiusura iniziato nei primi mesi del 2025, causato dalla sospensione formale delle relazioni diplomatiche tra le due nazioni sudamericane. Il governo cileno intende così ripristinare i servizi essenziali per i propri cittadini e gestire i flussi consolari che erano stati interrotti, segnando un primo passo verso la normalizzazione dei rapporti istituzionali tra i due Paesi. Lo riferisce La Tercera.",
+   "more": [
+    "I consolati svolgono funzioni fondamentali per l'assistenza ai cittadini residenti all'estero, gestendo il rilascio di documenti, visti e fornendo supporto legale e amministrativo. La riapertura di queste sedi indica spesso un allentamento delle tensioni politiche, permettendo la gestione pragmatica di questioni migratorie e burocratiche che hanno un impatto diretto sulla vita delle persone al di là dei conflitti governativi."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/cancilleria-anuncia-la-apertura-de-consulados-de-chile-en-caracas-y-puerto-ordaz-en-venezuela/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-15T10:26+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z2ffea9a4",
+   "sez": "sport",
+   "titolo": "Sanzionati quasi 3.000 tifosi della U per incidenti allo stadio",
+   "orig": "“Participaron en graves hechos”: los detalles del fallo que castigó a 2.866 hinchas de la U por incidentes ante Everton",
+   "lead": "Il Tribunale di Disciplina ha inflitto una pesante sanzione a 2.866 tifosi dell'Universidad de Chile a causa dei gravi incidenti avvenuti durante il match contro l'Everton presso lo stadio Sausalito. I sostenitori coinvolti, che occupavano il settore teatro dei disordini, non potranno assistere alle prossime quattro partite della squadra. Anche il club ospitante, l'Everton, è stato colpito da una multa pecuniaria. La sentenza sottolinea la gravità dei fatti accaduti e mira a scoraggiare futuri episodi di violenza negli stadi cileni. Lo riferisce La Tercera.",
+   "more": [
+    "Il sistema disciplinare sportivo interviene per sanzionare comportamenti dei sostenitori che violano le norme di sicurezza e correttezza durante gli eventi agonistici. Tali provvedimenti mirano a prevenire disordini e a promuovere un ambiente sicuro per il pubblico. La responsabilità delle società calcistiche e dei loro tifosi è centrale per il mantenimento dell'ordine pubblico nelle manifestazioni di massa."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/el-deportivo/noticia/participaron-en-graves-hechos-los-detalles-del-fallo-que-castigo-a-2866-hinchas-de-la-u-por-incidentes-ante-everton/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-15T10:18+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z5b378278",
+   "sez": "sport",
+   "titolo": "Polemiche sull'arbitraggio di Piero Maza in Vasco-Boca Juniors",
+   "orig": "“Es un horror”: Mariano Closs critica a Piero Maza por su arbitraje en el triunfo de Vasco da Gama sobre Boca Juniors",
+   "lead": "Mariano Closs, celebre telecronista argentino, ha rivolto dure critiche all'arbitro Piero Maza per la sua direzione di gara durante la semifinale di un torneo sottocontinentale che ha visto la vittoria del Vasco da Gama sul Boca Juniors. L'operato del giudice di gara è stato definito un orrore dal commentatore, scatenando polemiche sulle decisioni prese in campo durante il match. La prestazione dell'arbitro è finita al centro del dibattito sportivo per la sua gestione di episodi cruciali che avrebbero influenzato l'andamento della partita tra le due formazioni. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/el-deportivo/noticia/es-un-horror-mariano-closs-critica-a-piero-maza-por-su-arbitraje-en-el-triunfo-de-vasco-da-gama-sobre-boca-juniors/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-15T10:18+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z1f4ba9e7",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV conferma la visita in Perù nonostante le difficoltà",
+   "orig": "El desafío de León XIV: 10 ciudades, 12 vuelos y una exigente agenda para llegar al Perú",
+   "lead": "Papa Leone XIV mantiene ferma la sua volontà di visitare il Perù, nonostante l'impegnativa agenda che prevede la visita di dieci città e dodici voli. Il pontefice è determinato a portare a termine il viaggio apostolico nel Paese sudamericano, considerato una sfida logistica e fisica significativa data la complessità degli spostamenti richiesti. Il Vaticano non ha modificato i piani per il tour, confermando la fiducia nella capacità del Papa di affrontare gli impegni previsti nel calendario della visita pastorale prevista a Lima e in altre località. Lo riferisce El Comercio.",
+   "more": [
+    "Le visite apostoliche sono eventi di portata internazionale che coinvolgono complessi protocolli di sicurezza e organizzazione logistica, influenzando le relazioni tra la Santa Sede e le nazioni ospitanti attraverso messaggi di pace e cooperazione. La figura del pontefice rappresenta non solo una guida spirituale per milioni di fedeli, ma riveste anche un ruolo diplomatico di primo piano come capo di Stato."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/lima/sucesos/el-desafio-de-leon-xiv-10-ciudades-12-vuelos-y-una-exigente-agenda-para-llegar-al-peru-apuesplan-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-15T11:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z5574fb0f",
+   "sez": "viaggi",
+   "titolo": "Nuova rotta Colonia Express tra Carmelo e Buenos Aires",
+   "orig": "Tras otra pelea con Buquebus, Colonia Express comienza a operar ruta entre Carmelo y Buenos Aires",
+   "lead": "Colonia Express ha annunciato l'avvio di una nuova rotta di navigazione tra le città di Carmelo e Buenos Aires, in seguito a una nuova disputa con il concorrente Buquebus. Il servizio inaugurale è previsto per giovedì 19 novembre e prevede cinque frequenze settimanali tra l'Uruguay e l'Argentina. Questa nuova opzione di trasporto si inserisce in un contesto di accesa competizione tra le compagnie che gestiscono i collegamenti fluviali nell'area del Rio de la Plata, offrendo più alternative ai viaggiatori tra le due sponde. Lo riferisce El Observador.",
+   "more": [
+    "Il trasporto fluviale tra Argentina e Uruguay è un asse di collegamento essenziale per il commercio e il turismo nella regione del Rio de la Plata. La concorrenza tra diverse compagnie marittime favorisce l'apertura di nuove rotte e l'aumento delle frequenze, offrendo ai viaggiatori alternative diversificate. Carmelo rappresenta un punto di approdo strategico per chi si sposta tra le capitali e le zone costiere."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/economia-y-empresas/tras-otra-pelea-buquebus-colonia-express-comienza-operar-ruta-carmelo-y-buenos-aires-n6060490",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-15T05:00-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "ze46fc36e",
+   "sez": "mondo",
+   "titolo": "Sempre più uruguaiani scelgono la Spagna per gli studi superiori",
+   "orig": "Cada vez más uruguayos eligen España para estudiar: qué carreras cursan, dónde y por cuánto tiempo",
+   "lead": "Un numero crescente di cittadini uruguaiani decide di trasferirsi in Spagna per completare percorsi di laurea, master o dottorati. Negli ultimi anni, gli studenti iscritti sono passati da 364 a 541, mentre gli scambi temporanei sono aumentati di quasi dieci volte. La scelta della Spagna come destinazione accademica è motivata dalla varietà dell'offerta formativa e dalla lingua comune, facilitando l'integrazione degli studenti sudamericani nel sistema universitario europeo per periodi variabili di formazione specialistica. Lo riferisce El Observador.",
+   "more": [
+    "La mobilità studentesca internazionale è alimentata dalla ricerca di specializzazioni accademiche e dall'opportunità di vivere esperienze culturali diverse. La scelta di nazioni europee è spesso favorita da accordi di cooperazione tra università e dalla possibilità di ottenere titoli riconosciuti a livello globale. Questi flussi contribuiscono allo scambio di conoscenze e competenze che arricchiscono il capitale umano dei paesi di origine."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/cafe-y-negocios/cada-vez-mas-uruguayos-eligen-espana-estudiar-que-carreras-cursan-donde-y-cuanto-tiempo-n6060476",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-15T05:00-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "za10a97a9",
+   "sez": "economia",
+   "titolo": "Solaria punta sull'Uruguay con un progetto di data center",
+   "orig": "Quién es Solaria, la firma española detrás del megaproyecto de centros de datos en Uruguay",
+   "lead": "L'azienda spagnola Solaria ha pianificato un investimento di 5,7 miliardi di dollari per lo sviluppo di un megaprocetto di centri dati in Uruguay. La strategia della società punta a un modello di infrastruttura digitale alimentato da energia solare autoprodotta, avvalendosi di collaborazioni con partner tecnologici specializzati nel settore. Il progetto mira a posizionare l'Uruguay come un hub per l'archiviazione di dati, sfruttando le potenzialità energetiche rinnovabili del Paese e la crescente domanda di servizi di calcolo sostenibili a livello globale. Lo riferisce El Observador.",
+   "more": [
+    "I centri di dati sono infrastrutture fondamentali per l'economia digitale, richiedendo grandi quantità di energia e sistemi di raffreddamento efficienti. L'integrazione di questi impianti con fonti rinnovabili rappresenta una soluzione sostenibile per ridurre l'impatto ambientale delle tecnologie. Tali progetti attraggono investimenti significativi, creando opportunità di sviluppo tecnologico in settori ad alta intensità di capitale e innovazione."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/economia-y-empresas/quien-es-solaria-la-firma-espanola-detras-del-megaproyecto-centros-datos-uruguay-n6060467",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-15T05:00-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z1ecdfd4f",
+   "sez": "mondo",
+   "titolo": "Uruguay: dimissioni del direttore della Cancelleria Ricardo Baluga",
+   "orig": "Director de Cancillería renunció al cargo por dificultades de relacionamiento con el ministro Lubetkin",
+   "lead": "Ricardo Baluga, capo di gabinetto e direttore della Cancelleria in Uruguay, ha rassegnato le dimissioni dall'incarico a causa di persistenti difficoltà di relazione con il ministro Lubetkin. Il diplomatico, che ha ricoperto il ruolo da luglio dello scorso anno, ha chiesto ufficialmente un periodo di congedo citando problemi interni all'interno del ministero degli Esteri. La decisione segna un cambiamento significativo ai vertici della diplomazia uruguaiana e mette in luce tensioni amministrative e personali che hanno compromesso la stabilità del gruppo di lavoro diretto dal ministro titolare della cartella. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/director-cancilleria-renuncio-al-cargo-dificultades-relacionamiento-el-ministro-lubetkin-n6060487",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-15T05:00-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z10e313af",
+   "sez": "mondo",
+   "titolo": "Colombia: migliaia in piazza per il primo sciopero nazionale",
+   "orig": "Miles de colombianos se manifestaron en el primer paro nacional contra De la Espriella",
+   "lead": "Migliaia di colombiani hanno manifestato in diverse città del Paese nel corso del primo sciopero nazionale contro il governo di De la Espriella. La protesta ha riunito una vasta coalizione di soggetti, tra cui centrali sindacali, il movimento Pacto Histórico, collettivi LGBTI, comunità indigene, docenti e studenti universitari. I manifestanti hanno espresso il loro dissenso verso le politiche dell'esecutivo in una mobilitazione coordinata che ha coinvolto i principali centri urbani, segnando un momento di forte tensione sociale e opposizione politica organizzata. Lo riferisce El Nacional.",
+   "more": [
+    "In Colombia, la partecipazione di gruppi eterogenei come sindacati, comunità indigene e movimenti studenteschi riflette una pluralità di istanze sociali che chiedono ascolto alle istituzioni. Le manifestazioni nazionali sono strumenti di pressione politica utilizzati per contestare la gestione governativa, portando spesso a un confronto diretto sulle politiche pubbliche e sulla direzione politica ed economica intrapresa dal governo centrale."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/miles-de-colombianos-se-manifestaron-en-el-primer-paro-nacional-contra-de-la-espriella/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-15T10:07+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zeb2d69b9",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV in ripresa dopo l'intervento chirurgico al polmone",
+   "orig": "El papa León XIV pasó bien la noche, se levantó y desayunó",
+   "lead": "Papa Leone XIV ha trascorso una notte tranquilla, si è alzato e ha fatto colazione dopo essere stato sottoposto a un delicato intervento chirurgico al polmone destro. L'operazione, eseguita con una tecnica videoassistita per rimuovere il lobo inferiore, si è resa necessaria per risolvere una specifica condizione medica del pontefice. Nonostante la degenza post-operatoria, il Vaticano ha confermato che l'agenda del Papa resta invariata, con l'intenzione di proseguire i viaggi programmati e mantenere gli impegni assunti con i fedeli in vista dei prossimi tour internazionali. Lo riferisce El Nacional.",
+   "more": [
+    "Gli interventi chirurgici videoassistiti rappresentano tecniche moderne che riducono l'invasività delle operazioni toraciche, permettendo un recupero più rapido del paziente. Per una figura pubblica della rilevanza del Papa, lo stato di salute è oggetto di monitoraggio costante e comunicazioni ufficiali, data l'influenza che il suo benessere ha sulla gestione della Chiesa cattolica e sulle sue attività diplomatiche mondiali."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/el-papa-leon-xiv-paso-bien-la-noche-se-levanto-y-desayuno/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-15T09:45+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zc775dc85",
+   "sez": "salute",
+   "titolo": "Bolivia: il cancro al seno è la seconda causa di morte tra le donne",
+   "orig": "Cáncer de mama, segunda causa de muerte en mujeres",
+   "lead": "In Bolivia, il cancro al seno si conferma la seconda causa di morte tra le donne, spingendo le autorità governative di Santa Cruz a lanciare un appello per intensificare i controlli medici. La prevenzione e la diagnosi precoce sono indicate come fattori determinanti per aumentare le possibilità di superare la malattia. La campagna istituzionale sottolinea l'importanza di sottoporsi regolarmente a esami clinici per identificare tempestivamente eventuali anomalie e intervenire con le cure necessarie prima che la patologia progredisca. Lo riferisce El Deber.",
+   "more": [
+    "La diagnosi precoce è lo strumento più efficace per combattere le malattie oncologiche, poiché permette di intervenire quando le terapie hanno maggiori probabilità di successo. Le campagne di sensibilizzazione pubblica giocano un ruolo cruciale nell'informare le persone sull'importanza degli screening regolari. Collaborazioni tra enti locali e strutture sanitarie sono fondamentali per garantire che i servizi di controllo siano accessibili a tutta la popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/cancer-mama-segunda-causa-muerte-mujeres_1792062757",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T11:12+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "za59355d2",
+   "sez": "economia",
+   "titolo": "Bolivia: stallo sulle tariffe dei trasporti interdepartimentali",
+   "orig": "Persiste el desacuerdo por las tarifas interdepartamentales",
+   "lead": "Persiste il disaccordo tra i conducenti e l'Autorità di Regolazione dei Trasporti (ATT) riguardo all'incremento transitorio delle tariffe per i viaggi interdepartimentali in Bolivia. Le parti non hanno raggiunto un'intesa durante le trattative e hanno deciso di avviare una nuova pausa negoziale. Nel frattempo, presso i terminal degli autobus continua a vigere il regime di libera offerta e domanda, creando incertezza per i passeggeri e per i lavoratori del settore che attendono una regolamentazione definitiva sui prezzi dei biglietti. Lo riferisce El Deber.",
+   "more": [
+    "Le tariffe dei trasporti pubblici sono spesso oggetto di negoziazione tra i sindacati di categoria e le autorità statali per bilanciare i costi operativi dei fornitori e il potere d'acquisto degli utenti. In assenza di un accordo formale, la fluttuazione dei prezzi può generare tensioni nel mercato e difficoltà per i viaggiatori che dipendono da questi collegamenti per spostarsi tra diverse regioni del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/economia/persiste-desacuerdo-tarifas-interdepartamentales_1792061837",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T10:57+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zffbe760a",
+   "sez": "mondo",
+   "titolo": "Bolivia: polemiche e tensioni politiche sull'elezione di Mariaca",
+   "orig": "El caso Mariaca destapa tensiones políticas y saca revelaciones de su elección",
+   "lead": "Il caso del procuratore generale Róger Mariaca ha generato forti tensioni politiche in Bolivia, con accuse di favoritismi e prebende legate alla sua elezione. Mariaca è stato identificato da alcuni parlamentari come il candidato sostenuto dal movimento masista, il quale avrebbe orchestrato una campagna di voti basata su pagamenti e promesse per assicurare la sua nomina nell'Assemblea. Le rivelazioni sulle manovre politiche dietro la sua ascesa hanno scatenato un acceso dibattito sull'indipendenza delle istituzioni giudiziarie e sulle dinamiche interne al potere legislativo boliviano. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/caso-mariaca-destapa-tensiones-politicas-saca-revelaciones-eleccion_1792060667",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T10:37+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zbc375658",
+   "sez": "economia",
+   "titolo": "Costa Rica: nuova modalità di pensione a rendita stabile dal 2027",
+   "orig": "Así se calculará la pensión de renta estable, nueva modalidad del ROP que regirá a partir de 2027",
+   "lead": "La Cassa Costaricana di Previdenza Sociale ha definito le modalità di calcolo per la nuova pensione a rendita stabile, una tipologia prevista dal Regime Obbligatorio di Pensione che entrerà in vigore a partire dal 2027. Questo piano consentirà ai pensionati di ricevere pagamenti mensili che verranno adeguati annualmente in base all'inflazione positiva. Il sistema è progettato per garantire l'erogazione dei fondi fino all'esaurimento del saldo individuale accumulato, offrendo una nuova alternativa per la gestione del risparmio previdenziale dei lavoratori costaricani. Lo riferisce La Nación CR.",
+   "more": [
+    "I sistemi previdenziali basati sulla capitalizzazione individuale permettono ai lavoratori di accumulare risparmi durante la vita lavorativa per finanziare il periodo della pensione. L'introduzione di nuove modalità di erogazione, come la rendita stabile, mira a offrire maggiore flessibilità e protezione contro la svalutazione del denaro, cercando di bilanciare la sostenibilità dei fondi con la necessità di garantire un tenore di vita adeguato ai beneficiari."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/economia/asi-se-calculara-la-pension-de-renta-estable-nueva/POT44D6EBVGJTCQ5KOO3HA6GOY/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-15T09:45+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zb73cbc01",
+   "sez": "mondo",
+   "titolo": "Costa Rica: Patricia Solano sfida l'Esecutivo per la guida della Corte",
+   "orig": "Patricia Solano, aspirante a presidir la Corte: ‘Fue un pecado’ guardar silencio ante ataques del Ejecutivo",
+   "lead": "Patricia Solano, candidata alla presidenza della Corte in Costa Rica e attuale magistrata della Sala III, ha rotto il silenzio riguardo agli attacchi ricevuti dal ramo esecutivo, definendo un errore la scelta passata di non rispondere. Solano, che aspira a un secondo mandato come magistrata e alla guida del potere giudiziario, sostiene che l'istituzione debba difendersi dalle accuse politiche utilizzando argomenti tecnici e legali. La sua posizione evidenzia una nuova strategia di comunicazione istituzionale per proteggere l'indipendenza della magistratura dalle pressioni esterne del governo centrale. Lo riferisce La Nación CR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/politica/patricia-solano-aspirante-a-presidir-la-corte-fue/YYPXI5QBCNBYPNS67O6M2A4BGE/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-15T08:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z498a3947",
+   "sez": "mondo",
+   "titolo": "Algeria: nuove restrizioni per l'uso del francese nelle scuole private",
+   "orig": "Écoles privées : la langue française encore ciblée par Saadaoui",
+   "lead": "In Algeria, un nuovo decreto esecutivo pubblicato sulla Gazzetta Ufficiale ridefinisce le condizioni per il funzionamento e il controllo delle scuole private, prendendo nuovamente di mira l'insegnamento della lingua francese. Il provvedimento, promosso dal Ministero dell'Educazione Nazionale sotto la guida di Saadaoui, stabilisce nuovi criteri per l'accreditamento degli istituti. La normativa rimette al centro del dibattito educativo il ruolo del francese nel sistema scolastico algerino, imponendo restrizioni che influenzano le scelte pedagogiche delle istituzioni educative private che operano nel Paese. Lo riferisce Le Matin Algérie.",
+   "more": [
+    "Il sistema educativo algerino riflette storicamente le tensioni culturali e politiche legate al passato coloniale. Le riforme scolastiche che limitano o regolano l'uso di lingue straniere come il francese negli istituti privati sono spesso motivate dalla volontà di rafforzare l'insegnamento dell'arabo e di altre lingue nazionali, ridisegnando il panorama formativo delle nuove generazioni in un'ottica di sovranità culturale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/ecoles-privees-la-langue-francaise-encore-ciblee-par-saadaoui/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-15T08:22+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z3de34b72",
+   "sez": "mondo",
+   "titolo": "Ecuador: irregolarità nell'acquisto di un'auto blindata per il sindaco",
+   "orig": "Además de conciertos ‘fantasma’ y hospitales, Contraloría halló irregularidades en compra de vehículo blindado para alcalde Cristian Zamora",
+   "lead": "La Contraloría dell'Ecuador ha rilevato diverse irregolarità riguardanti l'acquisto di un veicolo blindato destinato al sindaco di Cuenca, Cristian Zamora. Oltre a questa contestazione, l'ente di controllo ha emesso rapporti critici su contratti relativi a festival ed eventi mai realizzati e sulla costruzione di tre ospedali cittadini. Le indagini evidenziano anomalie nei processi di aggiudicazione e gestione dei fondi pubblici, mettendo sotto esame l'operato dell'amministrazione comunale e la trasparenza degli investimenti effettuati per la sicurezza dei funzionari e per le infrastrutture sanitarie locali. Lo riferisce El Universo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/expedientes/contraloria-halla-irregularidades-compra-vehiculo-blindado-alcalde-cristian-zamora-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-15T11:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z541da570",
+   "sez": "mondo",
+   "titolo": "Ecuador: coprifuoco in cinque province e nuove estradizioni",
+   "orig": "Toque de queda se aplicará en Guayas, Manabí, Los Ríos, El Oro y Esmeraldas",
+   "lead": "John Reimberg ha confermato l'applicazione del coprifuoco nelle province ecuadoriane di Guayas, Manabí, Los Ríos, El Oro ed Esmeraldas. La misura di sicurezza accompagna le procedure per l'estradizione verso gli Stati Uniti di Daniel Salcedo e Ronald Hererra, mentre è previsto che il prossimo a essere trasferito sia Roberto Álvarez, noto con l'alias di Gerente. Il governo ha predisposto tutte le operazioni necessarie per garantire l'ordine pubblico durante questi delicati passaggi giudiziari internazionali legati alla criminalità organizzata. Lo riferisce El Universo.",
+   "more": [
+    "L'estradizione è un procedimento attraverso il quale uno Stato consegna una persona che si trova sul suo territorio a un altro Stato che ne ha fatto richiesta per sottoporla a processo o per l'esecuzione di una pena. Questo strumento è fondamentale nella cooperazione giudiziaria internazionale per combattere il crimine organizzato e il traffico di sostanze illecite, garantendo che i sospettati non possano sfuggire alla giustizia oltrepassando i confini nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/seguridad/toque-de-queda-se-aplicara-en-guayas-manabi-los-rios-el-oro-y-esmeraldas-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-15T11:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z81c7a403",
+   "sez": "ambiente",
+   "titolo": "Ecuador: a Durán la pioggia diventa riserva idrica per le famiglie",
+   "orig": "“El agua de san Pedro nos llega más limpia que la de la tubería”: la lluvia se convierte en reserva de agua para familias de Durán",
+   "lead": "Nella città ecuadoriana di Durán, la pioggia è diventata una risorsa vitale per numerose famiglie che si trovano a fronteggiare gravi carenze nella rete idrica comunale. Attraverso i social media, sono stati diffusi video che mostrano i residenti intenti a raccogliere l'acqua piovana in grandi serbatoi, sostenendo che questa sia qualitativamente superiore a quella che arriva saltuariamente dalle condutture domestiche. La situazione evidenzia la profonda crisi delle infrastrutture di base nella zona e la necessità per la popolazione di adattarsi autonomamente alla scarsità d'acqua potabile. Lo riferisce El Universo.",
+   "more": [
+    "La gestione delle risorse idriche è una sfida critica in molte aree urbane dove le infrastrutture esistenti risultano obsolete o insufficienti a soddisfare il fabbisogno della popolazione. La dipendenza da fenomeni atmosferici per l'approvvigionamento quotidiano evidenzia la necessità di interventi strutturali per garantire l'accesso sicuro all'acqua, diritto fondamentale che condiziona la salute e la qualità della vita dei cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/comunidad/ecuador/el-agua-de-san-pedro-nos-llega-mas-limpia-que-la-de-la-tuberia-la-lluvia-se-convierte-en-reserva-de-agua-para-familias-de-duran-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-15T11:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z796f6aa5",
+   "sez": "cultura",
+   "titolo": "Il gruppo americano The Missing Peace in tour nel Paraguay",
+   "orig": "The Missing Peace en Paraguay: ¿Qué hace un grupo de amigos del D.C. en nuestro país?",
+   "lead": "Il gruppo statunitense The Missing Peace si appresta a esibirsi in Paraguay durante il prossimo fine settimana, portando la propria musica in due diverse località del Paese. La prima tappa della formazione, composta da un gruppo di amici provenienti da Washington D.C., è prevista per sabato 17 a Asunción, mentre domenica 18 il tour proseguirà nella città di Caaguazú. L'arrivo della band americana sta suscitando interesse nel panorama culturale locale per la natura del loro progetto artistico. Lo riferisce ABC Color.",
+   "more": [
+    "Il Paraguay vanta una tradizione culturale che accoglie con favore gli scambi internazionali, specialmente nel settore musicale. Asunción, la capitale, funge spesso da centro nevralgico per questi eventi, mentre l'estensione dei tour a città come Caaguazú permette di coinvolgere un pubblico più vasto, promuovendo la diffusione di generi musicali stranieri all'interno del territorio nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/espectaculos/musica/2026/10/15/the-missing-peace-en-paraguay-que-hace-un-grupo-de-amigos-del-dc-en-nuestro-pais/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T11:16+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z18ca517d",
+   "sez": "mondo",
+   "titolo": "Caso Comisarías: il senatore Filizzola ricusa il giudice in Paraguay",
+   "orig": "Caso Comisarías: Filizzola recusa al juez y suspende audiencia preliminar",
+   "lead": "Rafael Filizzola, senatore d'opposizione del Partito Democratico Progressista in Paraguay, ha presentato un'istanza di ricusazione contro il giudice titolare del caso noto come 'Comisarías'. Questa iniziativa legale ha comportato la sospensione immediata dell'udienza preliminare che era stata programmata per discutere i dettagli del procedimento giudiziario. Il senatore, figura di rilievo della politica paraguaiana, sta affrontando un iter processuale complesso legato a presunte irregolarità avvenute durante la sua precedente gestione istituzionale presso il Ministero dell'Interno. Lo riferisce ABC Color.",
+   "more": [
+    "La ricusazione è uno strumento previsto dall'ordinamento giuridico che consente a una parte di chiedere la sostituzione di un giudice qualora esistano dubbi sulla sua imparzialità. Nel contesto paraguaiano, l'utilizzo di tale meccanismo in casi di alto profilo politico è frequente e porta spesso a significativi rallentamenti nei tempi della giustizia ordinaria."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/politica/2026/10/15/caso-comisarias-filizzola-recusa-al-juez-y-suspende-audiencia-preliminar/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T11:05+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z07a97f2c",
+   "sez": "salute",
+   "titolo": "Microplastiche e salute: scoperti i meccanismi chimici dei danni organici",
+   "orig": "Microplásticos y salud: el mecanismo químico que podría dañar el organismo",
+   "lead": "Una nuova ricerca scientifica ha fatto luce sui meccanismi chimici attraverso i quali le microplastiche possono danneggiare l'organismo umano. Secondo lo studio, queste microscopiche particelle di plastica, una volta entrate in contatto con l'acqua, scatenano reazioni chimiche spontanee estremamente nocive. Tali processi possono compromettere la salute dei tessuti e degli organi, aggravando le preoccupazioni globali circa la pervasività della plastica nell'ambiente e nella catena alimentare, con conseguenze dirette per il benessere delle persone. Lo riferisce ABC Color.",
+   "more": [
+    "Le microplastiche sono frammenti di materiale plastico di dimensioni inferiori ai cinque millimetri che derivano dalla degradazione di rifiuti più grandi o dalla produzione industriale. La loro capacità di trasportare sostanze tossiche e di interagire a livello cellulare è oggetto di intensi studi medici, poiché la loro presenza è ormai stata rilevata in quasi tutti gli ecosistemi del pianeta."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/ciencia/2026/10/15/microplasticos-y-salud-el-mecanismo-quimico-que-podria-danar-el-organismo/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T11:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z06772cd1",
+   "sez": "economia",
+   "titolo": "Andorra: UE e BEI acquistano debito sovrano per la prima volta",
+   "orig": "Lladós defensa la credibilitat d'Andorra en els mercats internacionals",
+   "lead": "Il ministro delle Finanze di Andorra, Ramon Lladós, ha difeso la credibilità del Principato sui mercati internazionali in seguito a un importante traguardo finanziario. Per la prima volta, infatti, sia la Commissione Europea sia la Banca Europea per gli Investimenti (BEI) hanno proceduto all'acquisto di debito pubblico andorrano. Lladós ha sottolineato che questo interesse da parte delle principali istituzioni europee convalida le politiche fiscali adottate dal governo e rafforza la fiducia degli investitori esteri nella stabilità economica del Paese montano. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "Il debito sovrano è lo strumento attraverso il quale uno Stato finanzia la propria spesa pubblica emettendo titoli obbligazionari. L'acquisto di questi titoli da parte di organismi come la Banca Europea per gli Investimenti è un segnale di forte affidabilità creditizia, indicando che il Paese è considerato in grado di onorare i propri impegni finanziari."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261015/llados-defensa-credibilitat-d-andorra-els-mercats-internacionals_206557.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T13:01+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zafd1209e",
+   "sez": "mondo",
+   "titolo": "Andorra lancia una rete digitale per studenti e ricercatori all'estero",
+   "orig": "Andorra crea una xarxa per connectar amb estudiants i investigadors del país a l’estranger",
+   "lead": "Il Principato di Andorra ha creato una nuova rete destinata a collegare i propri studenti e ricercatori residenti all'estero con il Paese d'origine. Il progetto prevede l'implementazione di una comunità digitale dedicata, lo svolgimento di azioni settoriali specifiche e l'organizzazione di un incontro in presenza durante le festività natalizie. L'obiettivo è mantenere vivi i legami professionali e personali tra i talenti andorrani nel mondo e il Principato, favorendo lo scambio di competenze e opportunità. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "La creazione di reti per la diaspora è una strategia comune per i piccoli Stati che desiderano contrastare la fuga di cervelli. Attraverso queste piattaforme, i governi possono mappare le competenze dei propri cittadini all'estero e coinvolgerli in progetti di sviluppo nazionale, trasformando l'emigrazione in un'opportunità di circolazione del talento."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261015/l-ari-crea-xarxa-per-connectar-talent-andorra-l-estranger_206554.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T12:31+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z33a84d0c",
+   "sez": "sport",
+   "titolo": "MoraBanc Andorra: Aixàs predica calma dopo l'avvio difficile",
+   "orig": "Aixàs: \"No toca preocupar-se ni posar-se nerviós\" malgrat l'inici del MoraBanc",
+   "lead": "Il presidente del MoraBanc Andorra, Gorka Aixàs, ha invitato alla tranquillità nonostante l'avvio di stagione non brillante della squadra di pallacanestro. Aixàs ha sottolineato gli aspetti positivi visti nell'ultima sfida contro la Penya, dove la squadra ha giocato bene per i primi tre quarti di gara. Secondo il dirigente, mantenendo questo livello di gioco i risultati non tarderanno ad arrivare, pertanto non è ancora il momento di preoccuparsi o cedere al nervosismo per la classifica attuale. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "Il MoraBanc Andorra è il principale club di basket del Principato e compete nella Liga ACB, il massimo campionato spagnolo, considerato tra i più difficili d'Europa. La gestione delle aspettative in una lega così competitiva è fondamentale per la stabilità del progetto sportivo e per il morale della squadra durante i periodi di flessione."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/esports/261015/aixas-toca-preocupar-posar-nervios-malgrat-l-inici-morabanc_206552.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T12:10+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z796cade9",
+   "sez": "economia",
+   "titolo": "Andorra: aumentano le persone in cerca di lavoro a settembre",
+   "orig": "El Servei d’Ocupació tanca el setembre amb 211 persones que busquen feina, un 7,1% més",
+   "lead": "Il Servizio per l'Occupazione di Andorra ha reso noto che il mese di settembre si è concluso con 211 persone attivamente in cerca di un impiego, segnando un incremento del 7,1% rispetto al periodo precedente. Parallelamente, le offerte di lavoro disponibili sul mercato sono diminuite del 7,3%, attestandosi a un totale di 1.240 posizioni. Questi dati indicano un leggero raffreddamento del mercato del lavoro nel Principato, in corrispondenza del cambio di stagione che influenza le dinamiche occupazionali locali. Lo riferisce Bondia.",
+   "more": [
+    "Nelle economie di dimensioni ridotte, le variazioni statistiche sull'occupazione possono apparire marcate anche con numeri assoluti contenuti. Il mercato del lavoro andorrano è caratterizzato da una forte stagionalità, legata principalmente ai flussi turistici invernali ed estivi, che determina ciclicamente l'apertura o la chiusura di numerose posizioni contrattuali."
+   ],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/economia/el-servei-d-ocupacio-tanca-el-setembre-amb-211-persones-que-busquen-feina-un-7-1-mes",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T13:12+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z7cc81fde",
+   "sez": "ambiente",
+   "titolo": "Andorra: proposta del PS per limitare le costruzioni nei parchi naturali",
+   "orig": "El PS vol limitar les noves construccions al parc natural nacional de les valls de Canillo i Ordino",
+   "lead": "Il Partito Socialdemocratico (PS) di Andorra ha avanzato una proposta per porre limiti alle nuove costruzioni all'interno del parco naturale nazionale delle valli di Canillo e Ordino. La formazione politica chiede di stabilire un termine perentorio per l'approvazione definitiva del Piano rettore, lo strumento normativo che disciplina l'uso del territorio in queste aree protette. L'iniziativa mira a preservare il patrimonio naturale del Principato dall'espansione edilizia, garantendo una tutela più rigorosa delle zone di alto valore ecologico. Lo riferisce Bondia.",
+   "more": [
+    "I parchi naturali sono aree soggette a regimi speciali di protezione per salvaguardare la biodiversità e il paesaggio. In Andorra, la gestione del territorio è un tema sensibile a causa della limitata disponibilità di suolo edificabile e della necessità di bilanciare lo sviluppo economico con la conservazione delle risorse ambientali montane."
+   ],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/politica/el-ps-vol-limitar-les-noves-construccions-al-parc-natural-nacional-de-les-valls-de-canillo-i-ordino",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-15T13:04+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z58386a1f",
+   "sez": "sport",
+   "titolo": "Samuel Eto'o attacca RFI: chiesta maggiore credibilità ed esemplarità",
+   "orig": "« Faites le ménage parmi vos collaborateurs ! » : Samuel Eto'o s'en prend à RFI !",
+   "lead": "Samuel Eto’o, presidente della Federazione calcistica del Camerun, ha reagito con forza a una pubblicazione di Radio France Internationale (RFI) riguardante presunte accuse di distrazione di fondi pubblici. L'ex campione ha esortato i collaboratori della testata a fare pulizia al proprio interno e a mantenere standard di credibilità ed esemplarità più elevati. La polemica nasce da un articolo che Eto'o ritiene infondato e lesivo della sua immagine e di quella dell'istituzione che dirige, aprendo un duro scontro tra l'ex calciatore e il media internazionale. Lo riferisce Seneweb.",
+   "more": [
+    "Samuel Eto'o è una figura centrale dello sport africano e mondiale, avendo militato in alcuni dei club più prestigiosi d'Europa prima di assumere la guida della federazione nazionale. Il suo ruolo pubblico lo espone costantemente all'attenzione dei media, spesso portando a tensioni riguardo alla gestione amministrativa del calcio nel suo Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/International/faites-le-menage-parmi-vos-collaborateurs-samuel-etoo-sen-prend-a-rfi_n_999000744.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T10:36+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z26bb5dee",
+   "sez": "mondo",
+   "titolo": "Ciad: al via i lavori stradali sulla via principale di Amtiman",
+   "orig": "Salamat : la mairie lance les travaux d’aménagement d’une voie principale à Amtiman",
+   "lead": "Ad Amtiman, nella provincia del Salamat in Ciad, il sindaco Mahamat Ali Ibrahim ha dato il via ai lavori di sistemazione della strada principale della città. L'intervento riguarda il tratto che collega il quartiere di Goz-Mabilé con il centro cittadino, un'arteria fondamentale per la mobilità locale. I lavori di riprofilatura si sono resi necessari per riparare le buche e i danni strutturali causati dal tempo e dall'usura. Alla cerimonia di apertura erano presenti consiglieri municipali e delegati provinciali per le infrastrutture. Lo riferisce Tchadinfos.",
+   "more": [
+    "Le infrastrutture stradali nelle province remote del Ciad sono vitali per garantire l'accesso ai servizi essenziali e facilitare il commercio locale. La riprofilatura è una tecnica di manutenzione che serve a ripristinare la corretta pendenza e regolarità del manto stradale, migliorando la sicurezza e la velocità di percorrenza dei veicoli."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/salamat-la-mairie-lance-les-travaux-damenagement-dune-voie-principale-a-amtiman/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T10:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z15ae7adb",
+   "sez": "cultura",
+   "titolo": "N’Djamena: iscrizioni aperte per la Settimana culturale del 1° arrondissement",
+   "orig": "Semaine culturelle du 1er arrondissement de N’Djaména : les inscriptions sont ouvertes jusqu’au 20 octobre",
+   "lead": "Il primo arrondissement di N’Djamena, la capitale del Ciad, ha lanciato un bando di candidatura per giovani talenti in vista della seconda edizione della Settimana culturale. L'evento, previsto dal 5 al 9 novembre 2026, è aperto a cantanti, rapper e interpreti di slam residenti nella circoscrizione. Gli interessati hanno tempo fino al 20 ottobre per iscriversi e partecipare alla manifestazione, che mira a promuovere la creatività giovanile e a offrire una vetrina artistica nel cuore della capitale. Lo riferisce Tchadinfos.",
+   "more": [
+    "Le settimane culturali cittadine rappresentano momenti fondamentali di aggregazione sociale e promozione dell'arte urbana. In Ciad, generi come lo slam e il rap sono molto popolari tra le giovani generazioni e vengono utilizzati come strumenti di espressione personale e commento sociale, radicandosi profondamente nella cultura metropolitana contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/semaine-culturelle-du-1er-arrondissement-de-ndjamena-les-inscriptions-sont-ouvertes-jusquau-20-octobre/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T09:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zf5a05b59",
+   "sez": "mondo",
+   "titolo": "Francia e Ciad firmano un'intesa sulla difesa dopo due anni di tensioni",
+   "orig": "Coopération militaire franco-tchadienne : « Si la nouvelle coopération reste asymétrique, on ne serait pas sortis de l’auberge », Dr Yamingué Bétinbaye",
+   "lead": "Il Ciad e la Francia hanno siglato a Parigi una dichiarazione d'intento riguardante la futura cooperazione in materia di difesa, ponendo fine a circa due anni di forti tensioni diplomatiche. Il documento, firmato il 13 ottobre, definisce i nuovi parametri della partnership militare tra i due Paesi. Tuttavia, l'analista politico Yamingué Bétinbaye ha avvertito che, affinché la collaborazione sia realmente efficace e duratura, occorre evitare che resti asimmetrica, garantendo un equilibrio che rispetti le esigenze di sicurezza e la sovranità nazionale ciadiana. Lo riferisce Tchadinfos.",
+   "more": [
+    "La cooperazione militare tra la Francia e i Paesi del Sahel è in una fase di profonda trasformazione. Questi accordi solitamente prevedono supporto logistico, addestramento e condivisione di informazioni strategiche, ma sono spesso oggetto di dibattito pubblico riguardo all'autonomia decisionale delle forze armate locali e all'effettivo beneficio per la stabilità regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/cooperation-militaire-franco-tchadienne-si-la-nouvelle-cooperation-reste-asymetrique-on-ne-sera-pas-sortis-de-lauberge-dr-yamingue-betinbaye/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T07:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z9b1d7ac9",
+   "sez": "mondo",
+   "titolo": "Camerun: Eto’o risponde a RFI sulle accuse di malversazione",
+   "orig": "Samuel Eto’o tacle RFI : « La crédibilité commence aussi par l’exemplarité »",
+   "lead": "Samuel Eto’o ha replicato pubblicamente a Radio France Internationale dopo la diffusione di un articolo che lo coinvolgeva in una presunta vicenda di distrazione di fondi pubblici in Camerun. L'ex attaccante e attuale dirigente sportivo ha sottolineato che la credibilità di una testata giornalistica deve necessariamente passare attraverso l'esemplarità del proprio operato. Eto’o ha respinto le accuse, ribadendo la correttezza della propria gestione alla guida della federazione e contestando le fonti del media francese. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Le accuse di gestione impropria dei fondi sono temi ricorrenti nel panorama delle federazioni sportive internazionali. Nel caso del Camerun, la figura carismatica e talvolta controversa di Eto'o attira l'attenzione costante dei media europei, portando a frequenti smentite e chiarimenti ufficiali per tutelare l'onore della dirigenza nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/samuel-etoo-tacle-rfi-la-credibilite-commence-aussi-par-lexemplarite/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T11:20+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z762886e9",
+   "sez": "sport",
+   "titolo": "Turchia: il Göztepe punta al rinnovo del camerunense Malcom Bokele",
+   "orig": "Göztepe veut blinder Malcom Bokele, le capitaine camerounais bientôt prolongé ?",
+   "lead": "Il club turco del Göztepe ha avviato le trattative per blindare il proprio capitano, il difensore camerunense Malcom Bokele, con un prolungamento del contratto. Bokele, arrivato in Turchia nel 2024, si è rapidamente affermato come uno dei pilastri fondamentali della squadra, dimostrando leadership e costanza nelle prestazioni. La dirigenza del club intende assicurarsi la permanenza del giocatore a lungo termine, riconoscendo il suo valore tecnico e carismatico all'interno dello spogliatoio e verso la tifoseria. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Il campionato di calcio turco è noto per attrarre talenti internazionali, offrendo una vetrina competitiva e appassionata. Il rinnovo del contratto di un capitano è una mossa strategica per i club che desiderano mantenere una spina dorsale solida e dare continuità ai propri progetti tecnici nelle competizioni nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/goztepe-veut-blinder-malcom-bokele-le-capitaine-camerounais-bientot-prolonge/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T11:13+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zf51f0023",
+   "sez": "sport",
+   "titolo": "Calciomercato: Inter e Porto osservano il giovane Aboubakar Nagida",
+   "orig": "Aboubakar Nagida dans le viseur de l’Inter Milan et du FC Porto",
+   "lead": "Il giovane calciatore camerunense Aboubakar Nagida, attualmente in forza allo Stade Rennais nel campionato francese, è finito nel mirino di due grandi club europei. L'Inter e il FC Porto starebbero seguendo con attenzione le prestazioni del giocatore, che si è messo in luce grazie a un ottimo inizio di stagione in Ligue 1. Il talento di Nagida sta attirando gli osservatori internazionali, pronti a valutare un possibile trasferimento nelle prossime finestre di mercato per rinforzare le proprie rose con un prospetto di grande interesse. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Lo scouting internazionale si concentra spesso su club francesi come il Rennes, noti per la capacità di lanciare giovani talenti pronti per i grandi palcoscenici. L'interesse di club storici come l'Inter e il Porto testimonia la crescita tecnica del giocatore e la sua capacità di adattarsi a ritmi di gioco elevati."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/aboubakar-nagida-dans-le-viseur-de-linter-milan-et-du-fc-porto/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-15T10:29+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z3254faeb",
+   "sez": "mondo",
+   "titolo": "Benin: chirurgo a processo per il rifiuto di un'evacuazione sanitaria",
+   "orig": "Bénin : un chirurgien à la barre pour une évacuation sanitaire refusée",
+   "lead": "Un chirurgo è comparso davanti al tribunale di Abomey-Calavi, in Benin, per rispondere della decisione di negare un'evacuazione sanitaria avvenuta alcuni anni fa. Durante l'udienza di mercoledì 14 ottobre 2026, il medico ha fornito le proprie spiegazioni in merito alla scelta compiuta nel 2022. Il caso, riportato originariamente da Bip Radio, ha sollevato questioni sulla responsabilità professionale e sui protocolli medici seguiti in situazioni d'emergenza che richiedono il trasferimento dei pazienti verso strutture più attrezzate. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "L'evacuazione sanitaria è un atto medico complesso che prevede il trasferimento di un paziente critico quando le cure necessarie non possono essere fornite localmente. Tali decisioni sono regolate da norme rigorose e la loro valutazione legale mira a verificare se il professionista abbia agito nel rispetto della deontologia e della sicurezza del malato."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-un-chirurgien-a-la-barre-pour-une-evacuation-sanitaire-refusee/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T11:05+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zbba06752",
+   "sez": "mondo",
+   "titolo": "Benin: appello dell'economista Noukpokinnou per un impegno civile",
+   "orig": "‎Bénin : Olivier Noukpokinnou appelle à un sursaut citoyen pour une société plus juste",
+   "lead": "In occasione della terza Conferenza pubblica sullo sviluppo inclusivo tenutasi a Cotonou mercoledì 14 ottobre, l'economista Olivier Noukpokinnou ha lanciato un forte appello alla cittadinanza beninese. Noukpokinnou ha esortato la società a un sussulto civile per costruire un Paese più giusto e solidale, sottolineando l'importanza della partecipazione attiva di ogni individuo al progresso nazionale. L'iniziativa, che ha visto la partecipazione di numerosi operatori dei media, si è concentrata sul tema di una cittadinanza consapevole come motore per lo sviluppo del Benin. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "Lo sviluppo inclusivo è un modello che mira a distribuire i benefici della crescita economica a tutti gli strati della popolazione, riducendo le disuguaglianze. In contesti in via di sviluppo, il ruolo degli economisti e degli intellettuali è spesso quello di stimolare il dibattito pubblico su come trasformare le riforme in vantaggi concreti per i cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-olivier-noukpokinnou-appelle-a-un-sursaut-citoyen-pour-un-benin-plus-juste/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T10:13+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zed737dba",
+   "sez": "mondo",
+   "titolo": "Guerra in Russia: Kiev rivendica la distruzione di sei bombardieri Su-34",
+   "orig": "Russie : six bombardiers Su-34 détruits sur une base aérienne, selon la marine ukrainienne",
+   "lead": "La marina ucraina ha dichiarato di aver distrutto sei bombardieri russi Su-34M durante un attacco notturno condotto il 15 ottobre presso la base aerea di Borisoglebsk, nella regione russa di Voronezh. Secondo le fonti di Kiev, l'operazione ha colpito anche diverse attrezzature tecniche fondamentali per la preparazione dei voli militari. L'azione rappresenta un duro colpo alla capacità offensiva aerea della Russia, mirando a neutralizzare i velivoli utilizzati per le incursioni sul territorio ucraino, nel quadro di una strategia di logoramento delle infrastrutture nemiche. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "Il Su-34 è un cacciabombardiere supersonico di fabbricazione russa progettato per attacchi al suolo e contro obiettivi navali. Colpire questi aerei a terra è una tattica volta a ridurre la pressione aerea nemica senza ingaggiare combattimenti diretti nei cieli, colpendo direttamente i punti di partenza e di manutenzione della flotta avversaria."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/russie-six-bombardiers-su-34-detruits-sur-une-base-aerienne-selon-la-marine-ukrainienne/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T10:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zda26e905",
+   "sez": "economia",
+   "titolo": "Benin: al via la settimana dedicata alla ripresa delle piccole imprese",
+   "orig": "Bénin : la SERERE 2026 met l’accent sur la reprise des PME",
+   "lead": "Il Benin si prepara a ospitare la seconda edizione della Settimana regionale della ripresa d'impresa (SERERE 2026), prevista dal 28 al 30 settembre. In vista dell'evento, gli organizzatori hanno incontrato i media mercoledì 14 ottobre per illustrare le novità di quest'anno, che si concentrerà in particolare sul sostegno alla continuità operativa delle piccole e medie imprese (PME). L'iniziativa mira a facilitare il passaggio di proprietà e il rilancio delle attività economiche locali, garantendo la stabilità dei posti di lavoro e la vitalità del tessuto produttivo beninese. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "La ripresa d'impresa è un processo critico attraverso il quale un'attività economica esistente passa a un nuovo proprietario. Questo passaggio è fondamentale per evitare la chiusura di aziende sane ma prive di successione, favorendo il ricambio generazionale e l'ingresso di nuovi capitali e competenze nel mercato locale."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-la-serere-2026-met-laccent-sur-la-reprise-des-pme/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T10:07+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zd83414d2",
+   "sez": "mondo",
+   "titolo": "Zelensky critica Trump: subisce il fascino dei leader autoritari",
+   "orig": "Zelensky révèle ce qu'il reproche à Trump dans sa relation avec Poutine",
+   "lead": "In un'intervista rilasciata al Financial Times il 14 ottobre, il presidente ucraino Volodymyr Zelensky ha espresso dure critiche nei confronti di Donald Trump, accusandolo di subire il fascino dei leader autoritari e delle grandi ricchezze. Queste dichiarazioni giungono in risposta a una precedente uscita di Trump del 10 ottobre, in cui l'ex presidente statunitense aveva suggerito la necessità di eleggere un nuovo leader in Ucraina. La tensione tra i due riflette le crescenti preoccupazioni di Kiev riguardo al futuro del sostegno americano nella guerra contro la Russia. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "Le relazioni tra l'Ucraina e i principali esponenti politici degli Stati Uniti sono cruciali per la stabilità internazionale. Le divergenze personali e politiche tra i leader possono influenzare direttamente le strategie di difesa e il flusso di aiuti economici e militari necessari per sostenere il conflitto contro l'invasione russa."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/zelensky-revele-ce-quil-reproche-a-trump-dans-sa-relation-avec-poutine/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T09:58+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z577baaf6",
+   "sez": "salute",
+   "titolo": "Guinea: screening per i tumori femminili all'ospedale Donka",
+   "orig": "Guinée-​« Protéger celles qui soignent » : L’Hôpital Donka au cœur de la sensibilisation et du dépistage des cancers féminins",
+   "lead": "L'ospedale Donka di Conakry, in Guinea, ha avviato una vasta campagna di sensibilizzazione e screening per i tumori femminili, significativamente intitolata 'Proteggere chi cura'. L'iniziativa è rivolta principalmente al personale sanitario femminile della struttura, che quotidianamente si dedica alla salute degli altri, spesso trascurando i propri controlli preventivi. Il progetto mira alla diagnosi precoce di patologie oncologiche come il cancro al seno e al collo dell'utero, garantendo alle operatrici ospedaliere l'accesso prioritario a esami salvavita e consulenze mediche specialistiche. Lo riferisce Africaguinee.",
+   "more": [
+    "La prevenzione oncologica è fondamentale per ridurre la mortalità legata ai tumori femminili, specialmente in contesti dove l'accesso alle cure può essere limitato. Gli screening regolari permettono di individuare le lesioni in fase iniziale, quando le possibilità di guarigione sono sensibilmente più elevate e i trattamenti risultano meno invasivi."
+   ],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/guinee-proteger-celles-qui-soignent-lhopital-donka-au-coeur-de-la-sensibilisation-et-du-depistage-des-cancers-feminins/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-15T07:50+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z759dc8a8",
+   "sez": "economia",
+   "titolo": "Gabon: debutta Alfred Jobs, la piattaforma per facilitare il lavoro",
+   "orig": "Trouver un emploi au Gabon, bientôt plus simple avec Alfred Jobs",
+   "lead": "Il Gabon vedrà il lancio ufficiale di Alfred Jobs, una nuova piattaforma digitale dedicata al reclutamento, previsto per giovedì 22 ottobre 2026 a Libreville. L'evento di presentazione si terrà presso la Baie des Rois e mira a introdurre uno strumento innovativo per mettere in contatto chi cerca occupazione con le aziende del territorio. Il servizio si propone di semplificare le procedure di selezione e rendere più efficiente il mercato del lavoro locale, offrendo nuove opportunità digitali ai cittadini gabonesi in cerca di una carriera professionale. Lo riferisce Gabonactu.",
+   "more": [
+    "Le piattaforme di e-recruitment utilizzano algoritmi e database digitali per ottimizzare l'incontro tra domanda e offerta di lavoro. In molti Paesi africani, queste tecnologie stanno diventando essenziali per modernizzare l'economia e fornire ai giovani strumenti più accessibili per entrare nel mondo del lavoro, superando le barriere informative tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/15/trouver-un-emploi-au-gabon-bientot-plus-simple-avec-alfred-jobs/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-15T10:36+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z56072f6e",
+   "sez": "mondo",
+   "titolo": "Gabon: inceneriti a Mouila 750 kg di cannabis sequestrata",
+   "orig": "Mouila : 750 kg de cannabis et 10 millions de FCFA réduits en cendres",
+   "lead": "Le autorità di Mouila, nella provincia della Ngounié in Gabon, hanno proceduto all'incenerimento di 750 chilogrammi di cannabis. Lo stupefacente distrutto martedì aveva un valore di mercato stimato in circa 10 milioni di franchi CFA. L'operazione, condotta sotto stretta supervisione ufficiale, rappresenta una tappa significativa della lotta al traffico di droga nella regione. La distruzione pubblica del materiale sequestrato mira a dimostrare l'impegno delle forze dell'ordine nel contrastare la diffusione di sostanze illecite e a garantire la sicurezza della comunità locale. Lo riferisce Gabonactu.",
+   "more": [
+    "L'incenerimento pubblico di sostanze stupefacenti sequestrate è una pratica consolidata per prevenire che le droghe possano rientrare illegalmente sul mercato. Queste operazioni sono fondamentali per monitorare lo smaltimento dei reperti e per sensibilizzare l'opinione pubblica sui rischi sociali ed economici legati al consumo e allo spaccio di narcotici."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/15/mouila-750-kg-de-cannabis-et-10-millions-de-fcfa-reduits-en-cendres/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-15T07:24+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z652c3316",
+   "sez": "economia",
+   "titolo": "Madagascar: missione economica francese attesa a novembre",
+   "orig": "COOPÉRATION – Le patronat français mène une nouvelle mission économique à Madagascar au mois de Novembre",
+   "lead": "Una delegazione di imprese francesi, guidata da Medef International, si recherà in missione economica in Madagascar dal 18 al 20 novembre. Inizialmente prevista per luglio, la visita è stata riprogrammata per mobilitare partner internazionali attorno ai progetti prioritari di rifondazione del Paese per il periodo 2026-2030. Gli incontri ad Antananarivo mirano a rafforzare la cooperazione economica tra i due Paesi, favorendo investimenti in settori strategici e consolidando i legami tra le comunità imprenditoriali francese e malgascia per lo sviluppo a lungo termine dell'isola. Lo riferisce 2424.mg.",
+   "more": [
+    "Medef International è la principale organizzazione di rappresentanza delle imprese francesi all'estero, che promuove lo sviluppo internazionale attraverso missioni diplomatiche ed economiche. Queste delegazioni servono a identificare opportunità di business, siglare accordi commerciali e sostenere la presenza economica della Francia in mercati strategici come quelli dell'Oceano Indiano."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/cooperation-le-patronat-francais-mene-une-nouvelle-mission-economique-a-madagascar-au-mois-de-novembre",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-15T10:38+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z3223176b",
+   "sez": "mondo",
+   "titolo": "Antananarivo: al via le sanzioni per chi non rispetta i semafori",
+   "orig": "ANTANANARIVO – Les contrevenants aux feux tricolores désormais passibles de sanctions",
+   "lead": "Ad Antananarivo, in Madagascar, è terminata la fase di sensibilizzazione riguardante il rispetto del codice della strada. Le autorità della Comune urbana hanno annunciato che da questo momento verranno applicate sanzioni effettive agli utenti della strada che non rispettano i segnali luminosi dei semafori. Il nuovo sistema di controllo, che era stato precedentemente testato per alcune settimane in un unico sito pilota, sarà ora esteso a nove diverse zone della capitale per migliorare la sicurezza e la fluidità del traffico urbano. Lo riferisce 2424.mg.",
+   "more": [
+    "Il sistema dei semafori tricolore è fondamentale per la gestione della viabilità nelle grandi aree metropolitane, dove il coordinamento dei flussi di veicoli e pedoni previene incidenti e riduce gli ingorghi. L'estensione dei controlli indica una volontà delle amministrazioni locali di modernizzare la gestione del traffico attraverso norme più rigorose."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/feux-tricolores-antananarivo-sanctionscirculation-les-contrevenants-aux-feux-tricolores-desormais-passibles-de-sanctions-le-dispositif-a-etendre-sur-neuf-sites",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-15T09:50+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zfc323a83",
+   "sez": "mondo",
+   "titolo": "Antananarivo: il Comune accetta di rivedere i moduli per il censimento dei commercianti",
+   "orig": "MARCHÉS URBAINS – La Commune urbaine d’Antananarivo accepte de revoir la fiche de recensement des commerçants après leur contestation",
+   "lead": "La Comune urbana di Antananarivo ha raggiunto un consenso con i venditori dei mercati della capitale malgascia in merito alla compilazione delle schede di censimento. Dopo una serie di contestazioni sollevate dai commercianti, l'amministrazione ha accettato di modificare i moduli. Le proteste riguardavano in particolare una clausola che obbligava i firmatari a liberare le proprie postazioni su semplice richiesta della Comune. L'accordo è stato raggiunto mercoledì durante un incontro tra i rappresentanti dei venditori e le autorità locali per risolvere le tensioni. Lo riferisce 2424.mg.",
+   "more": [
+    "Il censimento commerciale è uno strumento amministrativo utilizzato per mappare le attività economiche e regolare l'uso degli spazi pubblici. In contesti urbani densamente popolati, il controllo dei mercati rappresenta una sfida per bilanciare i diritti dei lavoratori autonomi con le necessità di pianificazione e riqualificazione delle aree cittadine."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/marches-antananarivo-cua-clause-contestee",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-15T09:20+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z6689921b",
+   "sez": "mondo",
+   "titolo": "Mauritania: il governo definisce il dialogo politico una scelta strategica",
+   "orig": "الحكومة: الحوار خيار استراتيجي والكرة في مرمى الطيف السياسي",
+   "lead": "Il governo della Mauritania ha ribadito che il dialogo con le diverse forze politiche del Paese rappresenta una scelta strategica fondamentale per la stabilità nazionale. Durante una comunicazione ufficiale a Nouakchott, le autorità hanno sottolineato che la palla passa ora alle opposizioni e allo spettro politico complessivo per concretizzare questo processo di confronto. L'iniziativa punta a rafforzare la coesione e a trovare soluzioni condivise per le sfide che il Paese deve affrontare, ponendo le basi per un clima politico più inclusivo e collaborativo. Lo riferisce Alakhbar.",
+   "more": [
+    "Il dialogo nazionale è una pratica diplomatica interna volta a risolvere crisi politiche o a prevenire tensioni attraverso il confronto tra maggioranza e opposizione. In molte nazioni africane, questi processi sono cruciali per garantire transizioni democratiche pacifiche e per legittimare le istituzioni agli occhi della popolazione e della comunità internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad0aaa30b4ddf00018c9268/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-15T10:28+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zccbb85d8",
+   "sez": "cultura",
+   "titolo": "L'artista Misá presenta la mostra interattiva \"Africa Unificata\" a Praia",
+   "orig": "​Misá apresenta exposição interativa “África Unificada” na Praia",
+   "lead": "A Praia, Capo Verde, l'artista Misá inaugura la mostra interattiva intitolata \"Africa Unificata\", un evento che celebra i suoi trent'anni di carriera dedicati allo sviluppo dei villaggi creativi. L'esposizione propone un percorso in cui ogni quadro è simbolicamente collegato a una persona e ogni individuo rappresenta una delle cinquantasette nazioni del continente africano. Misá attinge alle sue esperienze vissute in Senegal e a Porto Madeira per proporre uno spazio di incontro tra creazione, educazione, ambiente e diversità culturale. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "L'arte interattiva è una forma di espressione che richiede il coinvolgimento diretto dello spettatore per completare il significato dell'opera. In questo caso, l'artista utilizza il linguaggio visivo per promuovere l'integrazione panafricana, riflettendo sulle radici comuni e sulle specificità culturali dei diversi popoli del continente attraverso l'uso di storie e tradizioni locali."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/cultura/2026/10/15/misa-apresenta-exposicao-interativa-africa-unificada-na-praia/105099",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-15T09:52+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zbb123fd5",
+   "sez": "cucina",
+   "titolo": "Uno chef capoverdiano promuove la gastronomia nazionale alla FAO di Roma",
+   "orig": "Chef cabo-verdiano promove gastronomia nacional em exposição global da FAO em Roma",
+   "lead": "Lo chef Lamine Medina ha rappresentato Capo Verde durante un'esposizione globale organizzata dalla FAO a Roma, con l'obiettivo di far conoscere la ricchezza culinaria dell'arcipelago. Al centro della presentazione sono stati posti i prodotti locali e le abitudini alimentari tradizionali, con un'attenzione particolare alla sostenibilità dei sistemi alimentari. Medina ha cucinato la classica papa di mais con bivalvi, illustrando il legame profondo tra la cultura capoverdiana, la terra e il mare, e promuovendo l'uso di ingredienti locali per una dieta sana. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "La gastronomia nazionale non è solo un insieme di ricette, ma un patrimonio culturale che riflette la storia e l'ecologia di un territorio. Promuovere i piatti tradizionali in contesti internazionali aiuta a valorizzare la biodiversità agricola e a sostenere le economie locali, enfatizzando l'importanza dei sistemi alimentari che rispettano l'ambiente e la salute."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/lifestyle/2026/10/15/chef-cabo-verdiano-promove-gastronomia-nacional-em-exposicao-global-da-fao-em-roma/105097",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-15T09:31+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zb1991b17",
+   "sez": "mondo",
+   "titolo": "Tunisia: l'emergenza continua dei guasti infrastrutturali",
+   "orig": "La Tunisie passe son temps à réparer ses pannes",
+   "lead": "In Tunisia, la gestione dei guasti e delle inefficienze infrastrutturali sembra essere diventata una costante quotidiana. La testata Kapitalis sottolinea come il Paese spenda gran parte del proprio tempo e delle proprie risorse nel tentare di riparare malfunzionamenti ricorrenti. Un esempio emblematico è rappresentato dalla riqualificazione di piazza Barcellona a Tunisi, inaugurata nel settembre 2025: a distanza di poco tempo, sorgono già interrogativi sullo stato attuale del sito e sull'efficacia degli interventi di manutenzione urbana effettuati dalle autorità locali. Lo riferisce Kapitalis.",
+   "more": [
+    "Le infrastrutture urbane comprendono le reti di trasporto, le piazze e i servizi essenziali che permettono il funzionamento di una città. Una manutenzione carente o interventi di riqualificazione non duraturi possono causare disagi significativi alla cittadinanza, influenzando negativamente la qualità della vita e l'economia locale a causa della continua necessità di riparazioni d'emergenza."
+   ],
+   "fonti": [
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/15/la-tunisie-passe-son-temps-a-reparer-ses-pannes/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T07:49+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z2b56f3a1",
+   "sez": "mondo",
+   "titolo": "Angola: arrestati oltre 190 cittadini congolesi per ingresso illegale",
+   "orig": "Zaire: PN detém mais de 190 cidadãos da RDC por tentarem entrar ilegalmente em Angola",
+   "lead": "La Polizia di Frontiera angolana ha fermato 190 cittadini della Repubblica Democratica del Congo mentre tentavano di entrare clandestinamente nel Paese attraverso la provincia dello Zaire. Le operazioni di pattugliamento, condotte questa settimana nelle zone di Nóqui, Mpala e Cuimba, hanno permesso di intercettare il gruppo composto da 102 uomini e 90 donne. Gli stranieri sono stati consegnati al Servizio di Migrazione e Stranieri per le procedure di espulsione. L'azione rientra nel piano di contrasto all'immigrazione irregolare. Lo riferisce Novo Jornal.",
+   "more": [
+    "Le province di confine sono spesso aree sensibili dove le forze di sicurezza monitorano i flussi migratori per garantire il rispetto delle leggi nazionali. L'immigrazione clandestina rappresenta una sfida complessa per molti Stati, che devono bilanciare la sicurezza delle frontiere con la gestione umanitaria delle persone che cercano di attraversare i limiti territoriali senza autorizzazione."
+   ],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/sociedade/detalhe/zaire-pn-detem-mais-de-190-cidadaos-da-rdc-por-tentarem-entrar-ilegalmente-em-angola-75378.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-15T11:31+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z49bda934",
+   "sez": "salute",
+   "titolo": "Angola: sequestrate due tonnellate di pesce avariato nel Cuanza-Sul",
+   "orig": "Apreendidas duas toneladas de peixe estragado num terminal pesqueiro do Cuanza-Sul",
+   "lead": "Le autorità della provincia del Cuanza-Sul, in Angola, hanno sequestrato due tonnellate di pesce in avanzato stato di decomposizione presso un terminal di Sumbe. Il prodotto, appartenente alla società Xuefing Internacional, era pronto per essere immesso sul mercato nonostante fosse improprio per il consumo umano. L'intervento è scattato a seguito di una segnalazione, dopo che l'odore nauseabondo aveva causato il malore e lo svenimento di sette dipendenti della struttura. I lavoratori sono stati soccorsi dal personale medico e trasportati all'ospedale locale. Lo riferisce Novo Jornal.",
+   "more": [
+    "Il controllo sanitario sui prodotti ittici è essenziale per prevenire gravi intossicazioni alimentari. Il pesce avariato può sviluppare batteri e tossine pericolose che resistono anche alla cottura; pertanto, il monitoraggio della catena del freddo e dello stato di conservazione nei terminal di stoccaggio è un pilastro fondamentale della sicurezza alimentare pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/sociedade/detalhe/apreendidas-duas-toneladas-de-peixe-estragado-num-terminal-pesqueiro-do-cuanza-sul-75377.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-15T11:13+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z696334d7",
+   "sez": "mondo",
+   "titolo": "Ucraina: tensione tra Zelensky e Trump per il taglio dei dati satellitari",
+   "orig": "Rússia/Ucrânia: Zelensky acusa Trump de traição devido a negócio de gasóleo com Putin e restrições no acesso à intelligentsia norte-americana",
+   "lead": "I rapporti tra il presidente ucraino Volodymyr Zelensky e Donald Trump si sono deteriorati a causa della limitazione dell'accesso di Kiev alle informazioni strategiche dei satelliti militari statunitensi. Zelensky accusa Trump di aver compromesso la sicurezza nazionale ucraina, portando all'interruzione della fornitura di dati vitali raccolti dalle reti Starlink e Starshield. Queste informazioni erano fondamentali per rilevare preventivamente il lancio di missili e droni russi verso l'Ucraina. Il blocco dell'intelligence sta segnando un punto di rottura profondo nelle relazioni diplomatiche tra Washington e Kiev. Lo riferisce Novo Jornal.",
+   "more": [
+    "Le reti satellitari come Starlink forniscono connettività internet e dati in tempo reale che sono essenziali per le comunicazioni in zone di guerra e per la guida di sistemi difensivi. L'accesso privilegiato a queste tecnologie permette a un esercito di monitorare i movimenti nemici e di coordinare le risposte agli attacchi aerei con una precisione che altrimenti sarebbe impossibile."
+   ],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/internacional/detalhe/russiaucrania-zelensky-acusa-trump-de-traicao-devido-a-negocio-de-gasoleo-com-putin-e-restricoes-no-acesso-a-intelligentsia-norte-americana-75374.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-15T09:34+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z5b7784b6",
+   "sez": "mondo",
+   "titolo": "Angola: la sfida della povertà verso l'anno elettorale 2027",
+   "orig": "Angola à entrada do ano eleitoral de 2027: o principal desafio da governação, os problemas a resolver e os partidos políticos concorrentes",
+   "lead": "L'Angola si avvicina all'anno elettorale 2027 affrontando una grave crisi sociale, con un tasso di insicurezza alimentare che ha raggiunto il 71% nel 2023. Secondo i dati dell'Istituto Nazionale di Statistica, la povertà monetaria colpisce il 41% della popolazione, mentre quella multidimensionale arriva al 54%. Tra il 2017 e il 2025, il Prodotto Interno Lordo pro capite è diminuito di circa il 31%, mentre l'indice di Gini, che misura la disuguaglianza, è peggiorato significativamente, evidenziando una crescente disparità economica nel Paese. Lo riferisce Novo Jornal.",
+   "more": [
+    "L'insicurezza alimentare si verifica quando la popolazione non ha accesso fisico o economico a cibo sufficiente e nutriente. L'indice di Gini è un indicatore statistico che misura la distribuzione del reddito: un valore più alto indica una maggiore concentrazione della ricchezza nelle mani di pochi, segno di una società meno equa dal punto di vista economico."
+   ],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/opiniao/detalhe/angola-a-entrada-do-ano-eleitoral-de-2027-o-principal-desafio-da-governacao-os-problemas-a-resolver-e-os-partidos-politicos-concorrentes-75370.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-15T08:57+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zab873658",
+   "sez": "economia",
+   "titolo": "Tunisia: prestiti agevolati per le imprese locali nel bilancio 2027",
+   "orig": "ميزانية 2027: قروض دون فائدة أو ضمانات للتمويل الذاتي للشركات الأهلية",
+   "lead": "Il progetto di bilancio per il 2027 in Tunisia prevede l'introduzione di prestiti senza interessi o garanzie destinati al finanziamento delle imprese locali. Questa misura mira a promuovere l'autofinanziamento e a sostenere la crescita delle piccole realtà produttive nel territorio nazionale. L'iniziativa si inserisce in un quadro di riforme economiche volte a stimolare l'imprenditorialità e a facilitare l'accesso al credito per i soggetti che solitamente incontrano difficoltà nel sistema bancario tradizionale, puntando sull'emancipazione economica dei cittadini. Lo riferisce Mosaïque FM.",
+   "more": [
+    "L'autofinanziamento è la capacità di un'azienda di coprire i propri investimenti utilizzando risorse interne o crediti agevolati senza gravare eccessivamente sui bilanci futuri. Queste politiche sono studiate per incentivare la creazione di lavoro a livello locale, riducendo la dipendenza dai grandi istituti finanziari e favorendo l'inclusione economica delle categorie meno abbienti."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533539/%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D9%82%D8%B1%D9%88%D8%B6-%D8%AF%D9%88%D9%86-%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A3%D9%88-%D8%B6%D9%85%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A-%D9%84%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A%D8%A9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T12:08+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z185229f9",
+   "sez": "economia",
+   "titolo": "Tunisia: presentato in Parlamento il progetto di bilancio per il 2027",
+   "orig": "مشروع ميزانية 2027 في البرلمان.. وتقدير النفقات بحوالي 69 مليار دينار",
+   "lead": "Il Parlamento tunisino ha iniziato l'esame del progetto di bilancio per l'anno 2027, che prevede spese complessive stimate in circa 69 miliardi di dinari. Il documento definisce le priorità di spesa pubblica e le strategie fiscali per il prossimo triennio, cercando di bilanciare le necessità di investimento statale con la sostenibilità dei conti pubblici. La discussione parlamentare si concentrerà sull'allocazione delle risorse per i settori chiave e sulle misure per far fronte alle sfide economiche e inflattive che il Paese sta attraversando. Lo riferisce Mosaïque FM.",
+   "more": [
+    "Il bilancio statale è il documento contabile che elenca le entrate e le spese previste da un governo per un determinato periodo. È lo strumento principale di politica economica, poiché determina come vengono distribuite le tasse tra i vari ministeri e quali investimenti pubblici verranno prioritizzati per stimolare la crescita nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533530/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D9%82%D8%A7%D8%AA-%D8%A8%D8%AD%D9%88%D8%A7%D9%84%D9%8A-69-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T11:31+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z721bc003",
+   "sez": "economia",
+   "titolo": "Tunisia: finanziamenti fino a 50mila dinari per l'avvio di nuovi progetti",
+   "orig": "التمكين الاقتصادي: دعم يصل إلى 50 ألف دينار لبعث المشاريع",
+   "lead": "Nell'ambito delle politiche di potenziamento economico, le autorità tunisine hanno annunciato un piano di sostegno finanziario che prevede contributi fino a 50.000 dinari per la creazione di nuove imprese. L'obiettivo del provvedimento è incentivare i cittadini a intraprendere attività indipendenti, fornendo il capitale iniziale necessario per trasformare le idee progettuali in realtà economiche sostenibili. Questo supporto si rivolge a diversi settori produttivi e mira a ridurre la disoccupazione favorendo l'iniziativa privata e lo sviluppo locale. Lo riferisce Mosaïque FM.",
+   "more": [
+    "L'emancipazione economica passa attraverso il sostegno all'autoimprenditorialità, che permette a singoli individui di avviare attività senza disporre inizialmente di grandi capitali. Questi fondi sono spesso accompagnati da percorsi di tutoraggio per garantire che le nuove micro-imprese possano sopravvivere nel mercato e contribuire alla creazione di valore per la comunità."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%A7%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AA%D9%88%D9%86%D8%B3/1533528/%D8%A7%D9%84%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%AF%D8%B9%D9%85-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-50-%D8%A3%D9%84%D9%81-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%84%D8%A8%D8%B9%D8%AB-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T11:07+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zdbdfbfab",
+   "sez": "sport",
+   "titolo": "MLS: Cédric Bakambu segna ancora per il San Diego nel pareggio con Houston",
+   "orig": "MLS: Cédric Bakambu encore buteur avec San Diego...3 buts en 6 apparitions pour le congolais",
+   "lead": "L'attaccante congolese Cédric Bakambu ha confermato il suo ottimo stato di forma segnando un'altra rete con la maglia del San Diego nella Major League Soccer statunitense. Durante la ventinovesima giornata del campionato, la sfida contro lo Houston si è conclusa con un pareggio per 3-3, grazie anche al contributo di Bakambu, che ha così raggiunto la quota di tre gol in sole sei presenze. La prestazione del calciatore continua a essere determinante per la formazione nordamericana nel massimo campionato professionistico. Lo riferisce Actualite.cd.",
+   "more": [
+    "La Major League Soccer (MLS) è il principale campionato di calcio per club negli Stati Uniti e in Canada. Negli ultimi anni ha attirato numerosi talenti internazionali, aumentando il proprio livello competitivo e la propria visibilità globale, diventando una destinazione ambita per giocatori esperti provenienti dai campionati europei e africani."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/mls-cedric-bakambu-encore-buteur-avec-san-diego3-buts-en-6-apparitions-pour-le-congolais",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T10:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zb0a2b355",
+   "sez": "mondo",
+   "titolo": "Congo: gli Stati Uniti chiedono il completamento dei protocolli di Doha",
+   "orig": "Est de la RDC: malgré le changement de dénomination de l’AFC/M23, Washington réclame à la rébellion et à Kinshasa la finalisation des protocoles de Doha",
+   "lead": "Nonostante il cambio di nome della ribellione AFC/M23, ora denominata Front pour la refondation de la nation (FRN), il governo degli Stati Uniti ha esortato sia i ribelli che il governo di Kinshasa a finalizzare i protocolli di Doha. Washington segue con preoccupazione le reciproche accuse di violazione del cessate il fuoco nell'est della Repubblica Democratica del Congo. L'amministrazione statunitense insiste sulla necessità di rispettare gli impegni presi per stabilizzare la regione e porre fine al conflitto armato che colpisce i civili. Lo riferisce Actualite.cd.",
+   "more": [
+    "I protocolli di Doha sono documenti diplomatici che mirano alla risoluzione dei conflitti attraverso la negoziazione e la definizione di accordi di pace tra le parti belligeranti. Questi processi internazionali sono spesso mediati da potenze esterne per garantire la neutralità e facilitare il disarmo, la demobilitazione e il reintegro dei combattenti nella società civile."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/est-de-la-rdc-malgre-le-changement-de-denomination-de-lafcm23-washington-reclame-la",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T09:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z5fb0173a",
+   "sez": "mondo",
+   "titolo": "Nord-Kivu: sospeso il traffico stradale tra Nyabiondo e Pinga dopo gli scontri",
+   "orig": "Nord-Kivu : le FRN suspend le trafic sur l'axe Nyabiondo-Mutongo-Pinga après des affrontements contre les wazalendo",
+   "lead": "Nella provincia del Nord-Kivu, nella Repubblica Democratica del Congo, il traffico stradale è stato interrotto mercoledì 14 ottobre lungo l'asse Nyabiondo-Mutongo-Pinga. La decisione è stata presa dal Front pour la refondation de la nation (FRN) in seguito a violenti scontri con i gruppi di autodifesa locali noti come wazalendo. Il blocco stradale isola di fatto il territorio di Masisi da quello di Walikale, complicando ulteriormente la situazione logistica e la sicurezza dei trasporti in una regione già pesantemente colpita dalle ostilità belliche. Lo riferisce Actualite.cd.",
+   "more": [
+    "I gruppi wazalendo sono formazioni di autodifesa civile che si oppongono ai movimenti ribelli nell'est del Congo. La chiusura di assi stradali strategici durante i conflitti non solo limita i movimenti militari, ma impedisce il trasporto di beni di prima necessità e aiuti umanitari, aggravando la crisi di sussistenza per le popolazioni locali intrappolate nelle zone di scontro."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/nord-kivu-le-frn-suspend-le-trafic-sur-laxe-nyabiondo-mutongo-pinga-apres-des",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T08:31+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z6e7c7e02",
+   "sez": "sport",
+   "titolo": "Panama: istituito l'Ordine Nazionale \"Matador\" Tejada per calciatori e allenatori",
+   "orig": "Oficializan la Orden 'Matador' Tejada para exaltar a futbolistas y entrenadores panameños",
+   "lead": "È stata ufficializzata nella Gazzetta Ufficiale di Panama la legge che istituisce l'Ordine Nazionale al Merito Calcistico Luis 'Matador' Tejada Hansell. Questa onorificenza nasce per premiare i calciatori e gli allenatori panamensi che si distinguono per i loro meriti sportivi e per il contributo dato alla crescita del calcio nazionale. Il premio è intitolato alla memoria di Tejada, storico attaccante della nazionale, per onorare il suo lascito e ispirare le future generazioni di professionisti del settore sportivo. Lo riferisce Panamá América.",
+   "more": [
+    "Un ordine nazionale al merito è una delle massime distinzioni che uno Stato può conferire per riconoscere l'eccellenza in un campo specifico. Nel calcio, tali onorificenze servono a consolidare l'identità sportiva di una nazione e a riconoscere il ruolo degli atleti come ambasciatori culturali e modelli per i giovani, promuovendo i valori della disciplina e del fair play."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/deportes/oficializan-la-orden-matador-tejada-para-exaltar-futbolistas-y-entrenadores-panamenos",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z72f6ce9f",
+   "sez": "mondo",
+   "titolo": "Suriname: dieci piccoli imprenditori completano il corso di resilienza mentale",
+   "orig": "Tien deelnemers ontvangen certificaat voor training Mentale Weerbaarheid",
+   "lead": "A Paramaribo, in Suriname, dieci piccoli imprenditori hanno ricevuto martedì il certificato per aver completato con successo la formazione in \"Resilienza Mentale\". Il corso, organizzato dalla Stichting Productive Werk Eenheden (SPWE), è stato ideato per rafforzare la capacità personale di gestire lo stress, le emozioni e le sfide quotidiane, sia nella vita privata che sul posto di lavoro. Lo scopo dell'iniziativa è fornire strumenti pratici ai partecipanti per migliorare la loro produttività e il loro benessere psicologico all'interno del contesto lavorativo locale. Lo riferisce De Ware Tijd.",
+   "more": [
+    "La resilienza mentale è la capacità psicologica di adattarsi positivamente alle avversità e di riprendersi da situazioni difficili. Per un imprenditore, sviluppare questa competenza è cruciale per navigare l'incertezza economica, gestire la pressione decisionale e mantenere la motivazione necessaria per far crescere la propria attività nonostante gli ostacoli esterni."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/tien-deelnemers-ontvangen-certificaat-voor-training-mentale-weerbaarheid/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-15T10:59+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zc548a9e4",
+   "sez": "economia",
+   "titolo": "Cina e America Latina: scambi commerciali record e progetti sostenibili",
+   "orig": "China en Latijns-Amerika: recordhandel en duurzame hulp",
+   "lead": "La cooperazione economica tra la Cina e l'America Latina ha raggiunto un massimo storico lo scorso anno, segnando un nuovo record negli scambi commerciali tra le due regioni. Durante un incontro a Pechino, il rappresentante speciale cinese Qiu Xiaoqi ha evidenziato come entrambe le aree stiano puntando su progetti di sviluppo sostenibile su piccola scala. Pechino sottolinea l'importanza di aiuti duraturi e collaborazioni strategiche che coinvolgano anche l'area dei Caraibi per una crescita condivisa, focalizzata sulla sostenibilità ambientale. Lo riferisce De Ware Tijd.",
+   "more": [
+    "Gli scambi commerciali record riflettono un'integrazione economica profonda basata sull'esportazione di materie prime e l'importazione di manufatti e tecnologia. Lo sviluppo sostenibile in questo contesto si riferisce alla realizzazione di progetti che non compromettano le risorse future, favorendo l'energia pulita e l'agricoltura responsabile all'interno degli accordi bilaterali."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/china-en-latijns-amerika-recordhandel-en-duurzame-hulp/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-15T08:50+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "z8efc720d",
+   "sez": "sport",
+   "titolo": "Tennis: l'ATP punta a 350 milioni di dollari per i compensi dei giocatori entro il 2028",
+   "orig": "ATP eyes $350 million player compensation, welfare boost by 2028",
+   "lead": "L'ATP ha annunciato un ambizioso piano di potenziamento del benessere e dei compensi per i tennisti professionisti, fissando l'obiettivo di raggiungere i 350 milioni di dollari entro il 2028. Questa iniziativa mira a incrementare le tutele economiche per gli atleti e a migliorare le condizioni generali del circuito maschile mondiale. L'investimento riflette la volontà dell'associazione di distribuire in modo più equo i proventi derivanti dai tornei, garantendo una maggiore stabilità finanziaria anche ai giocatori che si trovano nelle posizioni meno elevate del ranking globale. Lo riferisce CNA.",
+   "more": [
+    "L'ATP (Association of Tennis Professionals) è l'ente che gestisce il circuito professionistico mondiale di tennis maschile. La compensazione dei giocatori include premi partita e bonus, e un aumento di tale entità mira a proteggere gli sportivi dalle spese elevate legate ai viaggi e agli staff tecnici, rendendo la professione sostenibile per un numero maggiore di atleti."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/atp-eyes-350-million-player-compensation-welfare-boost-2028-6462231",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T19:03+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
+   "id": "ze813c928",
+   "sez": "mondo",
+   "titolo": "Isole Salomone: sei borsisti Chevening rientrano con master dal Regno Unito",
+   "orig": "Six Chevening Scholars return home with UK Master’s degrees",
+   "lead": "Sei studenti delle Isole Salomone sono tornati in patria dopo aver completato con successo i loro studi di Master nel Regno Unito, grazie al programma di borse di studio Chevening. Gli studiosi hanno conseguito titoli accademici avanzati in diverse discipline presso prestigiose università britanniche, acquisendo competenze specialistiche da reinvestire nello sviluppo del proprio Paese. Il rientro di questi professionisti è considerato un importante arricchimento per il capitale umano nazionale e una testimonianza della continua collaborazione educativa tra le Isole Salomone e la Gran Bretagna. Lo riferisce SIBC.",
+   "more": [
+    "Il programma Chevening è una borsa di studio internazionale finanziata dal governo del Regno Unito che permette a studenti meritevoli di tutto il mondo di frequentare corsi post-laurea. Tali programmi sono essenziali per favorire lo scambio di conoscenze e per formare leader e professionisti che possano contribuire alla crescita sociale ed economica dei propri paesi d'origine."
+   ],
+   "fonti": [
+    {
+     "n": "SIBC",
+     "p": "XX",
+     "c": "Honiara",
+     "u": "https://www.sibconline.com.sb/six-chevening-scholars-return-home-with-uk-masters-degrees/",
+     "angolo": "",
+     "atlas": "Solomon Is.",
+     "t": "2026-10-15T07:54+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:02",
+   "uscita": "13"
+  },
+  {
    "id": "za1b68774",
    "sez": "mondo",
    "titolo": "Liberia e Stati Uniti rafforzano i legami bilaterali con il nuovo incaricato d'affari",
@@ -2831,29 +4988,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "p": "XX",
      "c": "Seul",
      "u": "https://www.koreaherald.com/article/10904186",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "13:44",
-   "uscita": "13"
-  },
-  {
-   "id": "z4ae8ae88",
-   "sez": "viaggi",
-   "titolo": "Corea del Sud, ricavi trimestrali record per Korean Air nel terzo trimestre",
-   "orig": "Korean Air posts record quarterly revenue in Q3",
-   "lead": "La compagnia aerea di bandiera sudcoreana Korean Air ha registrato entrate record nel terzo trimestre, raggiungendo un fatturato preliminare di 5.040 miliardi di won, pari a circa 3,8 miliardi di dollari. Il risultato segna un aumento del 26% su base annua, spinto dalla forte domanda di viaggi turistici in ingresso e dalla stabilità del trasporto merci, nonostante i costi elevati del carburante. L'utile operativo della società è cresciuto del 12% a quota 421,2 miliardi di won. Lo riferisce The Korea Herald.",
-   "more": [
-    "Il settore del trasporto aereo monitora con attenzione i volumi di traffico passeggeri e le tariffe cargo come indicatori della salute complessiva dei commerci globali."
-   ],
-   "fonti": [
-    {
-     "n": "The Korea Herald",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.koreaherald.com/article/10904173",
      "angolo": "",
      "atlas": "South Korea"
     }
@@ -6931,6 +9065,14 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "u": "https://www.panamaamerica.com.pa/sociedad/costa-del-este-causeway-balboa-y-ciudad-del-saber-enfrentarian-mayor-riesgo-ante-un-fuerte",
      "angolo": "",
      "atlas": "Panama"
+    },
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/provincias/mizrachi-impulsa-refugios-modulares-de-emergencia-tras-el-terremoto-1267506",
+     "angolo": "",
+     "atlas": "Panama"
     }
    ],
    "data": "15 ott",
@@ -7412,6 +9554,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Angola",
      "t": "2026-10-15T08:53+00:00"
+    },
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/politica/detalhe/presidente-da-republica-faz-hoje-o-seu-ultimo-discurso-no-parlamento-onde-durante-o-seu-mandato-foram-aprovados-388-diplomas-75372.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-15T09:15+00:00"
     }
    ],
    "data": "15 ott",
@@ -10600,6 +12751,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-15T10:58+00:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/10/15/ucrania-vai-retomar-os-ataques-as-refinarias-russas/105095",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-15T09:20+00:00"
     }
    ],
    "data": "15 ott",
@@ -13958,7 +16118,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zef27f301": "The Japan Times si concentra sull'impatto a lungo termine dell'invecchiamento della popolazione sui servizi pubblici cittadini.",
   "zeff3e9f1": "The Korea Herald evidenzia il piano dell'esercito sudcoreano per sostituire gradualmente le formazioni di fanteria con sistemi autonomi avanzati.",
   "z15246699": "The Korea Herald sottolinea la convergenza tra le ricadute occupazionali locali e le priorità strategiche statunitensi sui minerali critici.",
-  "z4ae8ae88": "The Korea Herald mette a fuoco i massimi storici di fatturato trimestrale dell'aerolinea nonostante il peso dei costi energetici.",
   "zb2fb953a": "The Hindu evidenzia il contrasto giudiziario e politico tra la tutela del diritto di manifestare e le misure restrittive governative.",
   "z037b42b7": "The Hindu dà risalto al bilancio dei progetti per l'emancipazione femminile citato dal capo di Stato indiano.",
   "z612ce8ad": "Times of India pone l'attenzione sulla sintonia interna tra i vertici di Meta nella gestione delle scelte operative più audaci.",
@@ -14096,7 +16255,97 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z181077c5": "El País mette a fuoco il clima di tensione preelettorale e lo scambio di accuse tra la destra madrilena e i socialisti.",
   "z2d8d0dc7": "Público denuncia la brutalità dell'intervento di polizia nei confronti dei cittadini che manifestavano contro la precarietà abitativa.",
   "zddeb8beb": "Público dà risalto alla constatazione ufficiale delle infrazioni ambientali sollevate dagli attivisti ecologisti.",
-  "zcc246a78": "NRC evidenzia la repentina svolta violenta di un movimento giovanile che reclamava trasparenza e riforme universitarie."
+  "zcc246a78": "NRC evidenzia la repentina svolta violenta di un movimento giovanile che reclamava trasparenza e riforme universitarie.",
+  "zb2b4e8a8": "NRC sottolinea l'impatto emotivo e la natura dirompente della performance di Romijn Scholten.",
+  "zcc3cb7dd": "NRC mette l'accento sulla carica emotiva della serie e sulla difficoltà estrema del lavoro di cura.",
+  "z3d0151d9": "NZZ evidenzia la vittoria legale del governo e di UBS contro i ricorsi dei vertici bancari.",
+  "z8fb40f99": "La testata sottolinea il passaggio epocale verso il professionismo e la visione lungimirante dei club locali.",
+  "z58cddf3a": "NZZ offre una panoramica del \"carosello dei candidati\" che si stanno posizionando per il seggio.",
+  "za21f8cb3": "NZZ traccia un ritratto della candidata, sottolineandone l'esperienza e l'ambizione politica.",
+  "z5183fd93": "L'articolo offre un'analisi scientifica e filosofica sul concetto di benessere come impulso vitale.",
+  "z0ad41126": "NZZ punta sul valore interattivo e documentaristico del proprio archivio cartografico quotidiano.",
+  "z3f11da0f": "La testata pubblica un'opinione esterna che sprona il Partito di Centro a un cambio di campo politico.",
+  "z6397b8f1": "Dagens Nyheter sottolinea il rafforzamento dei legami logistici tra Pyongyang e i suoi alleati regionali.",
+  "zce8c11a5": "La testata svedese mette in risalto lo scontento di Stoccolma e le ambiguità dei partner occidentali.",
+  "z9d0544c8": "Dagens Nyheter loda la conclusione della serie, definendola un brivido accogliente di alto livello.",
+  "z4d8f37fb": "La testata evidenzia l'entità eccezionale del numero di abbattimenti autorizzati per la prossima stagione.",
+  "z3ebe9637": "Dagens Nyheter celebra la rimonta al cardiopalma che ha garantito il podio ai due atleti svedesi.",
+  "zd2825269": "TVN24 sottolinea la capacità del regista di rendere universale e attuale un evento di cinquant'anni fa.",
+  "z1838647b": "TVN24 mette in risalto il tono deciso del ministro contro l'inerzia dei giganti tecnologici mondiali.",
+  "zda12d3ee": "La testata evidenzia l'urgenza dell'appello dell'OMS per una maggiore consapevolezza sulla gravità della BPCO.",
+  "z8dd236d9": "TVN24 pone l'accento sulla natura preventiva del provvedimento, adottato nonostante l'assenza di incidenti precedenti.",
+  "z030778ee": "TVN24 riporta la notizia con enfasi sulla determinazione del Ministero della Giustizia nel procedere legalmente.",
+  "z174e4df8": "Il quotidiano brasiliano riflette sull'impatto pedagogico della tecnologia e sulla perdita di autonomia individuale.",
+  "zb0ca2be9": "Folha de S.Paulo pone l'accento sull'ingente sforzo finanziario e sulla prevenzione della crisi idrica.",
+  "zb91ae640": "La testata sottolinea il valore culturale e storico del repertorio meno conosciuto dell'artista.",
+  "z1d9cf446": "La testata evidenzia la redditività di Anthropic come fattore chiave per attirare futuri investitori in borsa.",
+  "zdf5b4339": "G1 evidenzia l'entità economica del sequestro e la logistica del gruppo che sfruttava il trasporto minerario.",
+  "z4c7399d3": "La Nación dedica spazio alla storia personale del sarto argentino e al suo ruolo cruciale nei preparativi del tour papale.",
+  "z38b095fa": "La Nación pone l'accento sulla missione economica di Milei e sul suo legame con l'amministrazione americana e gli investitori.",
+  "zad8e7735": "La Tercera si focalizza sulla necessità di ripristinare i servizi ai cittadini dopo quasi due anni di stallo.",
+  "z2ffea9a4": "La Tercera sottolinea l'ampiezza della punizione collettiva e le sanzioni economiche ai club.",
+  "z5b378278": "La Tercera riporta le critiche specifiche del cronista Closs contro il direttore di gara cileno.",
+  "z1f4ba9e7": "El Comercio mette in luce l'imponente sforzo logistico richiesto per le tappe peruviane del Papa.",
+  "z5574fb0f": "El Observador si sofferma sulla concorrenza tra le due principali compagnie di navigazione fluviale.",
+  "ze46fc36e": "El Observador analizza i dati statistici della crescita esponenziale degli scambi accademici con la Spagna.",
+  "za10a97a9": "El Observador esamina il modello di business basato sull'integrazione tra tecnologia digitale ed energia solare.",
+  "z1ecdfd4f": "El Observador riporta la rottura interna ai vertici del Ministero degli Esteri uruguaiano.",
+  "z10e313af": "El Nacional sottolinea l'eterogeneità dei gruppi che hanno aderito alla protesta nazionale.",
+  "zeb2d69b9": "El Nacional riporta i dettagli positivi sulla convalescenza immediata del Papa e la conferma dei suoi impegni.",
+  "zc775dc85": "El Deber focalizza l'attenzione sull'appello della Gobernación per la prevenzione tempestiva.",
+  "za59355d2": "El Deber mette in risalto il perdurare del disaccordo e la situazione di incertezza nei terminal.",
+  "zffbe760a": "El Deber analizza le rivelazioni sulle presunte manovre politiche nell'Assemblea per l'elezione del procuratore.",
+  "zbc375658": "La Nación CR spiega i meccanismi di adeguamento all'inflazione del nuovo piano pensionistico.",
+  "zb73cbc01": "La Nación CR pone l'attenzione sulla volontà della magistrata di reagire politicamente alle accuse del governo.",
+  "z498a3947": "Le Matin Algérie sottolinea come la lingua francese sia nuovamente al centro di una stretta normativa del Ministero.",
+  "z3de34b72": "El Universo evidenzia le molteplici contestazioni della Contraloría che toccano sia la sicurezza che la sanità.",
+  "z541da570": "El Universo mette in relazione le misure di sicurezza restrittive con le operazioni di estradizione verso gli Stati Uniti.",
+  "z81c7a403": "El Universo riporta il fenomeno sociale della raccolta dell'acqua piovana documentato dai residenti online.",
+  "z796f6aa5": "ABC Color si focalizza sui dettagli logistici delle esibizioni del gruppo americano nel Paese.",
+  "z18ca517d": "La testata paraguaiana pone l'accento sulla mossa legale del senatore che ha bloccato l'iter giudiziario.",
+  "z07a97f2c": "ABC Color mette in evidenza la pericolosità delle reazioni chimiche spontanee causate dal contatto tra plastica e acqua.",
+  "z06772cd1": "La testata sottolinea l'importanza storica del riconoscimento ottenuto dai mercati e dalle istituzioni europee.",
+  "zafd1209e": "Diari d'Andorra pone l'accento sulla volontà del governo di non perdere il contatto con i propri professionisti qualificati.",
+  "z33a84d0c": "La testata evidenzia l'ottimismo della dirigenza basato sulla qualità delle prestazioni recenti.",
+  "z796cade9": "Bondia mette a confronto l'aumento della domanda di lavoro con la contestuale diminuzione delle offerte.",
+  "z7cc81fde": "Bondia evidenzia l'urgenza politica di approvare il Piano rettore per proteggere le valli protette.",
+  "z58386a1f": "Seneweb pone l'accento sulla durezza del commento rivolto da Eto'o ai giornalisti dell'emittente francese.",
+  "z26bb5dee": "Tchadinfos sottolinea l'impatto positivo dell'intervento per la cittadinanza di Amtiman.",
+  "z15ae7adb": "Tchadinfos invita i giovani artisti locali a cogliere l'opportunità offerta dall'amministrazione comunale.",
+  "zf5a05b59": "Tchadinfos analizza l'accordo diplomatico attraverso il commento critico di un esperto di politologia.",
+  "z9b1d7ac9": "Actu Cameroun evidenzia l'appello di Eto'o all'integrità e alla professionalità del giornalismo internazionale.",
+  "z762886e9": "Actu Cameroun mette in luce l'importanza di Bokele per il club turco e la volontà della società di trattenerlo.",
+  "zf51f0023": "Actu Cameroun sottolinea l'ascesa internazionale di Nagida e l'interesse dei top club europei.",
+  "z3254faeb": "La Nouvelle Tribune riporta i dettagli dell'udienza giudiziaria focalizzandosi sulla difesa del chirurgo.",
+  "zbba06752": "La testata evidenzia l'invito al risveglio civile proposto durante la conferenza pubblica.",
+  "zed737dba": "La Nouvelle Tribune riporta il comunicato della marina ucraina sull'esito dell'attacco strategico.",
+  "zda26e905": "La Nouvelle Tribune sottolinea l'importanza strategica dell'evento per il futuro delle PME nel Paese.",
+  "zd83414d2": "La testata mette in risalto il contrasto tra la visione democratica di Zelensky e il presunto autoritarismo di Trump.",
+  "z577baaf6": "Africaguinee pone l'accento sulla cura dedicata a chi, per professione, si prende cura dei pazienti ogni giorno.",
+  "z759dc8a8": "Gabonactu sottolinea l'imminente lancio del servizio come una svolta per l'occupazione nel Paese.",
+  "z56072f6e": "Gabonactu mette in risalto l'ingente valore della merce distrutta e l'efficacia dell'intervento delle autorità.",
+  "z652c3316": "La testata malgascia evidenzia l'importanza degli investimenti francesi per i futuri progetti di sviluppo nazionale.",
+  "z3223176b": "La testata mette in risalto il passaggio dalla fase educativa a quella punitiva per regolare il traffico cittadino.",
+  "zfc323a83": "Viene evidenziata la risoluzione di un conflitto attraverso il dialogo tra commercianti e amministrazione pubblica.",
+  "z6689921b": "La testata sottolinea la posizione proattiva del governo, che delega ora agli altri attori politici la responsabilità del successo del dialogo.",
+  "zccbb85d8": "L'attenzione è rivolta al valore simbolico della mostra e al traguardo dei trent'anni di attività dell'artista.",
+  "zbb123fd5": "Viene dato risalto alla proiezione internazionale della cultura di Capo Verde attraverso uno dei suoi esponenti culinari.",
+  "zb1991b17": "Kapitalis adotta un tono critico sulla gestione delle opere pubbliche e sulla durabilità degli interventi urbani.",
+  "z2b56f3a1": "L'attenzione è rivolta all'efficacia delle operazioni di pattugliamento della polizia di frontiera angolana.",
+  "z49bda934": "Viene messo in evidenza il grave rischio per la salute pubblica evitato grazie a una denuncia e all'intervento della polizia.",
+  "z696334d7": "La testata angolana pone l'accento sul senso di tradimento avvertito da Kiev e sulle conseguenze militari della perdita di intelligence.",
+  "z5b7784b6": "La testata mette a confronto i dati macroeconomici con la realtà quotidiana della povertà vissuta dalla popolazione.",
+  "zab873658": "Viene sottolineata la volontà del governo di abbattere le barriere finanziarie per le piccole imprese locali attraverso strumenti di credito non convenzionali.",
+  "z185229f9": "L'attenzione è focalizzata sull'entità della spesa pubblica programmata e sull'avvio dell'iter legislativo in Parlamento.",
+  "z721bc003": "Viene evidenziato il valore concreto del sostegno economico offerto ai cittadini per promuovere l'occupazione autonoma.",
+  "zdbdfbfab": "La testata celebra il successo individuale dell'atleta nazionale nel prestigioso campionato nordamericano.",
+  "zb0a2b355": "Viene evidenziata l'insistenza degli Stati Uniti affinché il cambio di nome della ribellione non diventi una scusa per ignorare gli accordi di pace.",
+  "z5fb0173a": "La testata pone l'attenzione sulle conseguenze pratiche degli scontri per la mobilità e la vita quotidiana nella regione.",
+  "z6e7c7e02": "Viene evidenziato il riconoscimento formale del valore sociale e sportivo del calcio attraverso l'omaggio a un'icona nazionale.",
+  "z72f6ce9f": "Viene dato risalto alla formazione personale come leva per il successo economico e il benessere degli imprenditori locali.",
+  "zc548a9e4": "Viene messo in luce il binomio tra record economico e l'impegno verso la sostenibilità come nuova frontiera della cooperazione.",
+  "z8efc720d": "L'ATP mette in evidenza un piano a lungo termine focalizzato sulla sostenibilità finanziaria dei propri atleti.",
+  "ze813c928": "Viene celebrato il successo accademico internazionale come risorsa strategica per il futuro della nazione."
  },
  "contesti": {
   "z18ad243f": "Harry e Meghan erano tornati a vivere nel Regno Unito dopo anni trascorsi negli Stati Uniti, ma non avevano ancora compiuto apparizioni pubbliche insieme fino a questa visita a Nottingham, città simbolicamente legata alla loro storia di coppia.",
@@ -14199,7 +16448,32 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2d8d0dc7": "Nelle scorse settimane attivisti e cittadini si erano mobilitati in diverse città portoghesi creando presidi stabili per denunciare i costi insostenibili degli immobili.",
   "zcc246a78": "Il malcontento sociale per i casi di corruzione diffusa e per le precarie condizioni delle università aveva dato vita a cortei e sit-in pacifici prolungatisi nel tempo.",
   "z614c132b": "L'inchiesta federale tedesca aveva portato nei mesi scorsi all'arresto dei due sospetti, individuati dai servizi di controspionaggio mentre monitoravano figure di spicco legate alla comunità ebraica e alle relazioni con Israele. Durante il dibattimento processuale ad Amburgo sono emerse prove documentali sulle attività di ricognizione e sui contatti clandestini tenuti dagli imputati con apparati d'intelligence iraniani, in un quadro di accresciuta allerta antiterrorismo per possibili ritorsioni orchestrate da Teheran in Europa.",
-  "z9f17b77c": "Il dibattito globale sull'impatto dei sistemi algoritmici ha visto crescere negli ultimi mesi l'attenzione delle organizzazioni per i diritti umani, preoccupate da discriminazioni automatizzate e violazioni della privacy. In qualità di vertice del Consiglio marocchino e leader della rete globale GANHRI, Amina Bouayach ha promosso diversi forum internazionali dedicati all'etica tecnologica, evidenziando la necessità che il Sud globale e le istituzioni indipendenti partecipino alla definizione delle normative internazionali sull'intelligenza artificiale."
+  "z9f17b77c": "Il dibattito globale sull'impatto dei sistemi algoritmici ha visto crescere negli ultimi mesi l'attenzione delle organizzazioni per i diritti umani, preoccupate da discriminazioni automatizzate e violazioni della privacy. In qualità di vertice del Consiglio marocchino e leader della rete globale GANHRI, Amina Bouayach ha promosso diversi forum internazionali dedicati all'etica tecnologica, evidenziando la necessità che il Sud globale e le istituzioni indipendenti partecipino alla definizione delle normative internazionali sull'intelligenza artificiale.",
+  "z3d0151d9": "In seguito al rischio di insolvenza di Credit Suisse nel marzo 2023, il governo svizzero ha orchestrato una fusione d'urgenza con UBS. Come parte del piano di salvataggio pubblico, sono state imposte restrizioni severe sui compensi dei dirigenti, inclusa la sospensione o il taglio dei bonus non ancora versati, scatenando una battaglia legale tra i vertici della banca e lo Stato.",
+  "z58cddf3a": "Il consigliere federale Guy Parmelin ha recentemente annunciato l'intenzione di lasciare il suo incarico, aprendo la ricerca per un successore all'interno dell'UDC. Il partito, che è la principale forza politica della destra svizzera, deve presentare candidature che possano ottenere il consenso delle altre forze parlamentari per assicurarsi il seggio governativo vacante.",
+  "za21f8cb3": "La corsa al Consiglio federale si è aperta dopo l'annuncio delle dimissioni di Guy Parmelin. Céline Amaudruz è tra le prime figure di spicco dell'UDC a uscire allo scoperto, dando il via a una fase di consultazioni interne che porterà il partito a presentare uno o più nomi ufficiali per il voto parlamentare previsto nei prossimi mesi.",
+  "z0ad41126": "L'invasione russa dell'Ucraina, iniziata su larga scala nel febbraio 2022, ha radici nel conflitto scoppiato nel 2014. In questi anni, il fronte si è spostato drasticamente dalle periferie di Kiev alle regioni orientali del Donbass e meridionali, trasformandosi in una guerra di logoramento caratterizzata da enormi perdite umane e cambiamenti costanti nei confini di controllo militare.",
+  "z6397b8f1": "Negli ultimi anni, la Corea del Nord ha cercato di rompere l'isolamento internazionale intensificando i rapporti con i suoi vicini storici. Mentre le tensioni con l'Occidente rimangono alte a causa del programma nucleare, Pyongyang ha trovato in Mosca e Pechino dei partner disposti a mantenere aperti canali logistici e commerciali per contrastare le pressioni esterne.",
+  "zce8c11a5": "Dall'inizio dell'invasione dell'Ucraina, l'Occidente ha imposto embargo e tetti ai prezzi delle risorse russe. L'UE ha cercato di diversificare i fornitori, ma la dipendenza storica ha portato a deroghe o a percorsi di importazione indiretti, creando frizioni costanti tra gli alleati della NATO e i partner europei sulla severità delle misure economiche.",
+  "z030778ee": "Daniel Obajtek è stato per anni uno degli uomini più influenti della Polonia sotto il governo del PiS, guidando l'azienda di stato Orlen. Dopo il cambio di esecutivo a Varsavia, sono emerse numerose inchieste su presunte irregolarità gestionali. Eletto al Parlamento Europeo, ha ottenuto l'immunità, che ora il nuovo governo polacco sta cercando di revocare ufficialmente a Bruxelles.",
+  "z38b095fa": "Javier Milei ha manifestato fin dall'inizio del suo mandato un forte allineamento ideologico con i movimenti conservatori internazionali. Il suo governo ha avviato riforme radicali per modificare la struttura economica argentina, cercando attivamente il supporto dei partner commerciali nordamericani per stabilizzare la moneta e promuovere uno sviluppo basato sull'iniziativa privata e sulla deregolamentazione.",
+  "zad8e7735": "Le relazioni tra Cile e Venezuela erano state interrotte all'inizio del 2025 a causa di divergenze politiche e diplomatiche insanabili. Questo blocco ha impedito a migliaia di persone l'accesso a servizi amministrativi basilari, aggravando le difficoltà dei migranti e dei residenti cileni in territorio venezuelano, in un contesto regionale segnato da forti polarizzazioni ideologiche.",
+  "z1f4ba9e7": "Papa Leone XIV ha recentemente affrontato problemi di salute che hanno richiesto un intervento chirurgico polmonare. Nonostante il periodo di convalescenza, la Santa Sede ha ribadito l'intenzione di mantenere gli impegni internazionali presi precedentemente, evidenziando l'importanza che la visita in Perù riveste per il pontefice e per la comunità cattolica locale.",
+  "z10e313af": "Il governo di De la Espriella, insediatosi recentemente, ha dovuto affrontare una crescente opposizione dovuta a riforme contestate e tensioni economiche. La formazione di un fronte unito tra sindacati e movimenti di sinistra rappresenta il primo grande test di stabilità per l'amministrazione, che deve gestire le richieste di settori della società civile storicamente attivi nella mobilitazione di piazza.",
+  "zeb2d69b9": "Papa Leone XIV era stato ricoverato martedì per un problema polmonare che richiedeva l'asportazione di una porzione dell'organo. La notizia dell'operazione aveva sollevato dubbi sulla fattibilità della sua prossima visita in Perù e su altri impegni internazionali, portando la Santa Sede a fornire aggiornamenti regolari sulla stabilità clinica del pontefice e sul successo della procedura chirurgica.",
+  "z541da570": "L'Ecuador attraversa da tempo una crisi di sicurezza che ha portato le autorità a dichiarare stati di eccezione e coprifuoco in diverse regioni. La collaborazione con gli Stati Uniti per l'estradizione di figure chiave della criminalità organizzata è una delle strategie centrali adottate dal governo per smantellare le reti criminali che operano all'interno del Paese, provocando spesso reazioni e necessità di controllo rafforzato sul territorio.",
+  "z18ca517d": "Il caso 'Comisarías' riguarda indagini su presunte irregolarità finanziarie e amministrative legate alla gestione delle stazioni di polizia in Paraguay. Rafael Filizzola è da tempo al centro di questo contenzioso legale, difendendo il proprio operato e denunciando quelle che considera manovre politiche contro la sua figura di oppositore.",
+  "z06772cd1": "Andorra ha intrapreso negli ultimi anni un percorso di riforme per allineare il proprio sistema finanziario agli standard internazionali di trasparenza. Questo sforzo è finalizzato a diversificare l'economia del Principato, tradizionalmente legata al turismo, e a integrarsi maggiormente nei meccanismi finanziari della zona euro pur non facendone parte ufficialmente.",
+  "zf5a05b59": "Le relazioni tra Parigi e N'Djamena sono state segnate da incertezze negli ultimi anni, mentre il Ciad cercava di rinegoziare i termini della presenza militare francese sul proprio territorio. La firma di questa intesa arriva dopo mesi di stallo diplomatico, in un contesto regionale in cui l'influenza francese nel Sahel è stata messa in discussione da diversi governi locali.",
+  "zed737dba": "Dall'inizio dell'invasione russa, l'Ucraina ha progressivamente intensificato gli attacchi contro basi aeree e depositi di munizioni situati all'interno dei confini della Federazione Russa. Queste operazioni mirano a ridurre la frequenza dei bombardamenti aerei russi, che utilizzano spesso i cacciabombardieri per lanciare ordigni guidati contro le città ucraine e le postazioni difensive lungo la linea del fronte.",
+  "zd83414d2": "Donald Trump ha espresso più volte dubbi sull'entità degli aiuti militari forniti dagli Stati Uniti all'Ucraina, sostenendo di poter negoziare una fine rapida del conflitto. Dall'altra parte, il governo di Kiev cerca di mantenere un dialogo aperto con entrambi gli schieramenti politici americani, consapevole che il supporto di Washington è fondamentale per resistere all'offensiva russa.",
+  "z652c3316": "Il Madagascar sta cercando attivamente di attrarre capitali stranieri per sostenere i propri piani di modernizzazione infrastrutturale e industriale. La Francia rimane storicamente uno dei principali partner commerciali del Paese, ma la stabilità politica e il miglioramento del clima economico sono considerati fattori determinanti per garantire il successo di nuove collaborazioni di lungo periodo.",
+  "z696334d7": "Il sostegno tecnologico degli Stati Uniti è stato un pilastro della difesa ucraina sin dall'inizio dell'invasione russa. Tuttavia, con il mutare del panorama politico a Washington, la disponibilità di queste risorse è diventata oggetto di negoziazione. La gestione privata e militare delle costellazioni satellitari pone interrogativi sulla sovranità tecnologica dei paesi coinvolti in conflitti ad alta intensità.",
+  "z5b7784b6": "L'economia angolana, fortemente dipendente dalle esportazioni di petrolio, ha subito gli effetti delle oscillazioni dei prezzi internazionali e della pandemia. Nonostante le riforme tentate dal governo per diversificare i settori produttivi, la popolazione ha visto erodere il proprio potere d'acquisto, portando a un aumento del malcontento sociale in vista delle prossime scadenze elettorali.",
+  "zb0a2b355": "Il conflitto nell'est della Repubblica Democratica del Congo vede contrapposte le forze governative e vari gruppi ribelli per il controllo del territorio e delle risorse. L'M23 è uno dei gruppi più attivi e la sua evoluzione in FRN non ha fermato gli scontri. La comunità internazionale ha tentato più volte di mediare una pace duratura per fermare le violenze che causano migliaia di sfollati.",
+  "zc548a9e4": "Negli ultimi decenni la Cina ha progressivamente aumentato la sua influenza economica in America Latina, diventando il principale partner commerciale per molti Paesi. Attraverso investimenti massicci in infrastrutture e nuove tecnologie, Pechino ha consolidato legami che sfidano la tradizionale egemonia statunitense nell'area, focalizzandosi ora sulla diversificazione dei progetti verso il settore green.",
+  "zb0ca2be9": "Negli ultimi mesi gli esperti climatici hanno rilevato la formazione di un nuovo episodio di El Niño nel Pacifico, con previsioni di intensificazione nelle prossime settimane. Il fenomeno, storicamente associato a siccità e sbalzi termici in Brasile, ha spinto le autorità di San Paolo a rivedere i piani idrici regionali dopo le crisi di approvvigionamento degli anni precedenti, culminate nell'annuncio odierno di un massiccio piano di investimenti preventivi.",
+  "z1d9cf446": "Nelle ultime settimane Anthropic ha rafforzato la propria posizione nel mercato dell'intelligenza artificiale generativa, ampliando accordi commerciali con grandi aziende e cloud provider e aumentando la base di clienti enterprise. Le voci su una possibile IPO si sono intensificate parallelamente alla crescita dei ricavi, mentre il settore tecnologico globale discute la sostenibilità dei massicci investimenti nell'IA, rendendo i risultati finanziari di Anthropic un test cruciale di credibilità."
  },
  "cronologie": {
   "z18ad243f": [
@@ -15424,6 +17698,296 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "Oggi",
     "Intervento pubblico di Bouayach con la richiesta di riforme legislative mirate"
+   ]
+  ],
+  "z3d0151d9": [
+   [
+    "Marzo 2023",
+    "Acquisizione d'urgenza di Credit Suisse da parte di UBS"
+   ],
+   [
+    "Aprile 2023",
+    "Il governo svizzero annuncia il taglio dei bonus per i dirigenti"
+   ],
+   [
+    "Ottobre 2024",
+    "Il Tribunale federale conferma la legittimità dei tagli ai bonus"
+   ]
+  ],
+  "z58cddf3a": [
+   [
+    "Settembre 2024",
+    "Guy Parmelin annuncia le future dimissioni dal Consiglio federale"
+   ],
+   [
+    "Ottobre 2024",
+    "Inizia il posizionamento ufficiale dei candidati all'interno dell'UDC"
+   ]
+  ],
+  "za21f8cb3": [
+   [
+    "Settembre 2024",
+    "Apertura della successione dopo l'annuncio di Parmelin"
+   ],
+   [
+    "15 Ottobre 2024",
+    "Céline Amaudruz conferma la sua candidatura per il governo"
+   ]
+  ],
+  "z0ad41126": [
+   [
+    "Febbraio 2022",
+    "Inizio dell'invasione russa su larga scala dell'Ucraina"
+   ],
+   [
+    "2023",
+    "Fasi alterne di controffensiva ucraina e stallo invernale"
+   ],
+   [
+    "2024",
+    "Raggiungimento del quarto anno di ostilità continuate"
+   ]
+  ],
+  "z6397b8f1": [
+   [
+    "2012",
+    "Inizio del progetto del ponte stradale Cina-Corea del Nord"
+   ],
+   [
+    "Settembre 2024",
+    "Inaugurazione del nuovo collegamento tra Russia e Corea del Nord"
+   ],
+   [
+    "Ottobre 2024",
+    "Apertura ufficiale del ponte dopo 12 anni di ritardo"
+   ]
+  ],
+  "zce8c11a5": [
+   [
+    "2022",
+    "L'Unione Europea approva le prime sanzioni energetiche contro la Russia"
+   ],
+   [
+    "2023",
+    "Introduzione del tetto globale al prezzo del petrolio russo"
+   ],
+   [
+    "Ottobre 2024",
+    "I leader UE contestano gli accordi USA sulle forniture di diesel russo"
+   ]
+  ],
+  "z030778ee": [
+   [
+    "Giugno 2024",
+    "Daniel Obajtek viene eletto al Parlamento Europeo"
+   ],
+   [
+    "Settembre 2024",
+    "Avanzamento delle indagini sulle attività finanziarie di Orlen"
+   ],
+   [
+    "Ottobre 2024",
+    "Richiesta ufficiale di revoca dell'immunità presentata a Roberta Metsola"
+   ]
+  ],
+  "z38b095fa": [
+   [
+    "Novembre 2023",
+    "Milei vince le elezioni presidenziali in Argentina"
+   ],
+   [
+    "Ottobre 2026",
+    "Il presidente argentino pianifica il viaggio a Washington per parlare alla Camera di Commercio"
+   ]
+  ],
+  "zad8e7735": [
+   [
+    "Inizio 2025",
+    "Sospensione totale delle relazioni diplomatiche tra Cile e Venezuela"
+   ],
+   [
+    "Ottobre 2026",
+    "Annuncio ufficiale della riapertura dei consolati a Caracas e Puerto Ordaz"
+   ]
+  ],
+  "z1f4ba9e7": [
+   [
+    "Martedì",
+    "Intervento chirurgico per la rimozione di parte di un polmone"
+   ],
+   [
+    "Ottobre 2026",
+    "Conferma dell'agenda papale per il viaggio in Perù"
+   ]
+  ],
+  "z10e313af": [
+   [
+    "Inizio mandato",
+    "De la Espriella assume la guida del governo colombiano"
+   ],
+   [
+    "Ottobre 2026",
+    "Primo sciopero nazionale con mobilitazioni massicce in tutto il Paese"
+   ]
+  ],
+  "zeb2d69b9": [
+   [
+    "Martedì pomeriggio",
+    "Il Papa viene sottoposto a chirurgia polmonare videoassistita"
+   ],
+   [
+    "Mercoledì mattina",
+    "Il pontefice si sveglia e fa colazione dopo una notte positiva"
+   ]
+  ],
+  "z541da570": [
+   [
+    "Ottobre 2026",
+    "Annuncio dell'estradizione imminente di Salcedo e Hererra"
+   ],
+   [
+    "Ottobre 2026",
+    "Implementazione del coprifuoco in cinque province strategiche dell'Ecuador"
+   ]
+  ],
+  "z18ca517d": [
+   [
+    "Anni precedenti",
+    "Apertura dell'inchiesta sulla gestione delle stazioni di polizia"
+   ],
+   [
+    "Settembre 2026",
+    "Fissazione dell'udienza preliminare per Rafael Filizzola"
+   ]
+  ],
+  "z06772cd1": [
+   [
+    "Anni scorsi",
+    "Andorra avvia riforme per la trasparenza e l'allineamento finanziario"
+   ],
+   [
+    "Ottobre 2026",
+    "Commissione UE e BEI acquistano per la prima volta titoli di debito andorrani"
+   ]
+  ],
+  "zf5a05b59": [
+   [
+    "2024-2025",
+    "Periodo di tensioni diplomatiche tra Francia e Ciad sulla difesa"
+   ],
+   [
+    "13 ottobre 2026",
+    "Firma a Parigi della dichiarazione d'intento sulla cooperazione militare"
+   ]
+  ],
+  "zed737dba": [
+   [
+    "Settembre 2024",
+    "Aumento degli attacchi ucraini contro basi aeree russe"
+   ],
+   [
+    "15 ottobre 2026",
+    "Attacco alla base di Borisoglebsk con distruzione di sei Su-34M"
+   ]
+  ],
+  "zd83414d2": [
+   [
+    "10 ottobre",
+    "Trump suggerisce che l'Ucraina dovrebbe eleggere un nuovo leader"
+   ],
+   [
+    "14 ottobre",
+    "Zelensky critica Trump in un'intervista al Financial Times"
+   ]
+  ],
+  "z652c3316": [
+   [
+    "Luglio 2026",
+    "Iniziale programmazione della missione francese, poi rinviata"
+   ],
+   [
+    "Novembre 2026",
+    "Nuove date fissate per la visita del Medef ad Antananarivo"
+   ]
+  ],
+  "z696334d7": [
+   [
+    "Novembre 2024",
+    "Esercitata pressione politica per limitare l'uso dei satelliti in aree di conflitto"
+   ],
+   [
+    "Ottobre 2025",
+    "Segnalati malfunzionamenti e restrizioni sui dati Starlink al fronte"
+   ],
+   [
+    "15 ottobre 2025",
+    "Zelensky denuncia pubblicamente l'interruzione della fornitura di informazioni strategiche"
+   ]
+  ],
+  "z5b7784b6": [
+   [
+    "2017-2025",
+    "Il PIL pro capite dell'Angola diminuisce del 31%"
+   ],
+   [
+    "2023",
+    "L'insicurezza alimentare colpisce il 71% dei cittadini"
+   ],
+   [
+    "2027",
+    "Data prevista per le prossime elezioni politiche nazionali"
+   ]
+  ],
+  "zb0a2b355": [
+   [
+    "Settembre 2025",
+    "Accordi preliminari di cessate il fuoco tra governo e ribelli"
+   ],
+   [
+    "Ottobre 2025",
+    "Il gruppo ribelle M23 cambia denominazione in FRN"
+   ],
+   [
+    "15 ottobre 2025",
+    "Gli Stati Uniti chiedono ufficialmente il completamento dei protocolli di Doha"
+   ]
+  ],
+  "zc548a9e4": [
+   [
+    "Anno scorso",
+    "Raggiungimento del record storico negli scambi commerciali Cina-America Latina"
+   ],
+   [
+    "14 ottobre",
+    "Briefing ufficiale a Pechino sulla cooperazione e gli aiuti sostenibili"
+   ]
+  ],
+  "zb0ca2be9": [
+   [
+    "Settembre 2026",
+    "Centri meteorologici segnalano rafforzamento di El Niño nel Pacifico"
+   ],
+   [
+    "Inizio ottobre 2026",
+    "Autorità paulista avvia tavoli tecnici su sicurezza idrica"
+   ],
+   [
+    "15 ottobre 2026",
+    "Annuncio dello stanziamento di 29 miliardi di real"
+   ]
+  ],
+  "z1d9cf446": [
+   [
+    "Agosto 2026",
+    "Anthropic amplia partnership enterprise e cloud"
+   ],
+   [
+    "Settembre 2026",
+    "Circolano prime indiscrezioni su una possibile IPO"
+   ],
+   [
+    "15 ottobre 2026",
+    "Comunicati ricavi record del terzo trimestre e redditività raggiunta"
    ]
   ]
  },
@@ -18198,13 +20762,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z4ae8ae88": {
-   "n": "Seul",
-   "p": [
-    "South Korea"
-   ],
-   "pt": []
-  },
   "zb2fb953a": {
    "n": "Nuova Delhi",
    "p": [
@@ -19164,6 +21721,635 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Albania"
    ],
    "pt": []
+  },
+  "zb2b4e8a8": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zcc3cb7dd": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z3d0151d9": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z8fb40f99": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z58cddf3a": {
+   "n": "Berna",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "za21f8cb3": {
+   "n": "Berna",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z5183fd93": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z0ad41126": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z3f11da0f": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z6397b8f1": {
+   "n": "Dandong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zce8c11a5": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z9d0544c8": {
+   "n": "Svezia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z4d8f37fb": {
+   "n": "Svezia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z3ebe9637": {
+   "n": "Linz",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zd2825269": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z1838647b": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zda12d3ee": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z8dd236d9": {
+   "n": "Inowrocław",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z030778ee": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z174e4df8": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zb0ca2be9": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zb91ae640": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z1d9cf446": {
+   "n": "San Francisco",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdf5b4339": {
+   "n": "Mato Grosso do Sul",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z4c7399d3": {
+   "n": "Lourdes",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z38b095fa": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zad8e7735": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z2ffea9a4": {
+   "n": "Viña del Mar",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z5b378278": {
+   "n": "Sud America",
+   "p": [
+    "Brazil",
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z1f4ba9e7": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z5574fb0f": {
+   "n": "Carmelo",
+   "p": [
+    "Uruguay",
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "ze46fc36e": {
+   "n": "Spagna",
+   "p": [
+    "Spain",
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "za10a97a9": {
+   "n": "Uruguay",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z1ecdfd4f": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z10e313af": {
+   "n": "Colombia",
+   "p": [
+    "Colombia"
+   ],
+   "pt": []
+  },
+  "zeb2d69b9": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "zc775dc85": {
+   "n": "Santa Cruz de la Sierra",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "za59355d2": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zffbe760a": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zbc375658": {
+   "n": "Costa Rica",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "zb73cbc01": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z498a3947": {
+   "n": "Algeria",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "z3de34b72": {
+   "n": "Cuenca",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z541da570": {
+   "n": "Ecuador",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z81c7a403": {
+   "n": "Durán",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z796f6aa5": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z18ca517d": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z07a97f2c": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z06772cd1": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zafd1209e": {
+   "n": "Andorra",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z33a84d0c": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z796cade9": {
+   "n": "Andorra",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z7cc81fde": {
+   "n": "Canillo",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z58386a1f": {
+   "n": "Camerun",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z26bb5dee": {
+   "n": "Amtiman",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z15ae7adb": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zf5a05b59": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9b1d7ac9": {
+   "n": "Camerun",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z762886e9": {
+   "n": "Smirne",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "zf51f0023": {
+   "n": "Rennes",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3254faeb": {
+   "n": "Abomey-Calavi",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "zbba06752": {
+   "n": "Cotonou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "zed737dba": {
+   "n": "Voronezh",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zda26e905": {
+   "n": "Benin",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "zd83414d2": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z577baaf6": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z759dc8a8": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z56072f6e": {
+   "n": "Mouila",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z652c3316": {
+   "n": "Antananarivo",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z3223176b": {
+   "n": "Antananarivo",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "zfc323a83": {
+   "n": "Antananarivo",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z6689921b": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "zccbb85d8": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
+  },
+  "zbb123fd5": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb1991b17": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z2b56f3a1": {
+   "n": "Zaire",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "z49bda934": {
+   "n": "Sumbe",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "z696334d7": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z5b7784b6": {
+   "n": "Angola",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "zab873658": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z185229f9": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z721bc003": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zdbdfbfab": {
+   "n": "San Diego",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb0a2b355": {
+   "n": "Repubblica Democratica del Congo",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z5fb0173a": {
+   "n": "Nord-Kivu",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z6e7c7e02": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z72f6ce9f": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "zc548a9e4": {
+   "n": "Pechino",
+   "p": [
+    "China",
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z8efc720d": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "ze813c928": {
+   "n": "Honiara",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -19410,7 +22596,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z065290e8": 1,
   "z87556cdb": 1,
   "z06afeeaf": 1,
-  "z48355900": 1,
+  "z48355900": 2,
   "zc512577c": 1,
   "zbb5d12c6": 1,
   "z483f3218": 2,
@@ -19550,7 +22736,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zef27f301": 1,
   "zeff3e9f1": 1,
   "z15246699": 1,
-  "z4ae8ae88": 1,
   "zb2fb953a": 2,
   "z037b42b7": 1,
   "z612ce8ad": 1,
@@ -19688,7 +22873,97 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z181077c5": 1,
   "z2d8d0dc7": 2,
   "zddeb8beb": 1,
-  "zcc246a78": 2
+  "zcc246a78": 2,
+  "zb2b4e8a8": 1,
+  "zcc3cb7dd": 1,
+  "z3d0151d9": 2,
+  "z8fb40f99": 1,
+  "z58cddf3a": 2,
+  "za21f8cb3": 2,
+  "z5183fd93": 1,
+  "z0ad41126": 2,
+  "z3f11da0f": 1,
+  "z6397b8f1": 2,
+  "zce8c11a5": 2,
+  "z9d0544c8": 1,
+  "z4d8f37fb": 1,
+  "z3ebe9637": 1,
+  "zd2825269": 1,
+  "z1838647b": 1,
+  "zda12d3ee": 1,
+  "z8dd236d9": 1,
+  "z030778ee": 2,
+  "z174e4df8": 1,
+  "zb0ca2be9": 2,
+  "zb91ae640": 1,
+  "z1d9cf446": 2,
+  "zdf5b4339": 1,
+  "z4c7399d3": 1,
+  "z38b095fa": 2,
+  "zad8e7735": 2,
+  "z2ffea9a4": 1,
+  "z5b378278": 1,
+  "z1f4ba9e7": 2,
+  "z5574fb0f": 1,
+  "ze46fc36e": 1,
+  "za10a97a9": 1,
+  "z1ecdfd4f": 1,
+  "z10e313af": 2,
+  "zeb2d69b9": 2,
+  "zc775dc85": 1,
+  "za59355d2": 1,
+  "zffbe760a": 1,
+  "zbc375658": 1,
+  "zb73cbc01": 1,
+  "z498a3947": 1,
+  "z3de34b72": 1,
+  "z541da570": 2,
+  "z81c7a403": 1,
+  "z796f6aa5": 1,
+  "z18ca517d": 1,
+  "z07a97f2c": 1,
+  "z06772cd1": 2,
+  "zafd1209e": 1,
+  "z33a84d0c": 1,
+  "z796cade9": 1,
+  "z7cc81fde": 1,
+  "z58386a1f": 1,
+  "z26bb5dee": 1,
+  "z15ae7adb": 1,
+  "zf5a05b59": 2,
+  "z9b1d7ac9": 1,
+  "z762886e9": 1,
+  "zf51f0023": 1,
+  "z3254faeb": 1,
+  "zbba06752": 1,
+  "zed737dba": 2,
+  "zda26e905": 1,
+  "zd83414d2": 2,
+  "z577baaf6": 1,
+  "z759dc8a8": 1,
+  "z56072f6e": 1,
+  "z652c3316": 1,
+  "z3223176b": 1,
+  "zfc323a83": 1,
+  "z6689921b": 1,
+  "zccbb85d8": 1,
+  "zbb123fd5": 1,
+  "zb1991b17": 1,
+  "z2b56f3a1": 1,
+  "z49bda934": 1,
+  "z696334d7": 2,
+  "z5b7784b6": 2,
+  "zab873658": 1,
+  "z185229f9": 1,
+  "z721bc003": 1,
+  "zdbdfbfab": 1,
+  "zb0a2b355": 2,
+  "z5fb0173a": 1,
+  "z6e7c7e02": 1,
+  "z72f6ce9f": 1,
+  "zc548a9e4": 2,
+  "z8efc720d": 1,
+  "ze813c928": 1
  },
  "video": {},
  "pillole": []
