@@ -25,7 +25,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "p": "IT",
      "c": "Roma",
      "u": "https://www.repubblica.it/cronaca/2026/10/15/news/papa_leone_buon_recupero_del_polmone_il_pontefice_ha_ripreso_l_attivita_lavorativa-425650021/",
-     "angolo": "Racconta la giornata di convalescenza del Papa, con la nota medica sul recupero del polmone e il commento più personale di Parolin: «mi dispiace enormemente per quanto è successo»."
+     "angolo": "Racconta la giornata di convalescenza del Papa, con la nota medica sul recupero del polmone e il commento più personale di Parolin: «mi dispiace veramente enormemente per quanto è successo»."
     },
     {
      "n": "Il Fatto Quotidiano",
@@ -106,9 +106,9 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "filo": "albania-proteste-2026",
    "titolo": "Albania, il premier Rama respinge le dimissioni mentre le proteste studentesche dilagano",
    "orig": "Albania’s prime minister vows not to resign over student-led protests",
-   "lead": "Il primo ministro albanese Edi Rama ha escluso le proprie dimissioni, chieste dai manifestanti al termine del terzo giorno consecutivo di proteste a Tirana, ormai estese ad altre città del Paese: «i governi si cambiano con le elezioni democratiche, non con le rivoluzioni», ha detto. Il movimento, nato a giugno attorno a un progetto di resort turistico legato alla famiglia Trump sulla costa albanese, è stato assunto questa settimana dagli studenti universitari e si è inasprito, con un incendio che ha coinvolto il ministero dell'Istruzione.",
+   "lead": "Il primo ministro albanese Edi Rama ha escluso le proprie dimissioni, chieste dai manifestanti al termine del terzo giorno consecutivo di proteste a Tirana, ormai estese ad altre città del Paese: «i governi si cambiano con le elezioni democratiche, abbiamo votato l'anno scorso, non con una rivoluzione», ha detto. Il movimento, nato a giugno attorno a un progetto di resort turistico legato a Jared Kushner, genero di Trump, è stato assunto questa settimana dagli studenti universitari e si è inasprito, con un incendio che ha coinvolto il ministero dell'Istruzione.",
    "more": [
-    "La Bbc ricorda che le proteste erano partite dalla richiesta di migliori condizioni negli atenei e di prospettive di lavoro per i laureati. Al Jazeera osserva che Rama parla di «caos» mentre il movimento, ora guidato dagli studenti, si allarga oltre la capitale Tirana."
+    "La Bbc ricorda che le proteste erano partite dalla richiesta di migliori condizioni negli atenei e di prospettive di lavoro per i laureati. Al Jazeera osserva che Rama parla di «caos» mentre il movimento, ora guidato dagli studenti, si allarga oltre la capitale Tirana; il New York Times lega la protesta anche al malcontento più ampio per la corruzione e il costo della vita."
    ],
    "fonti": [
     {
@@ -136,15 +136,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "n": "Deutsche Welle",
      "p": "DE",
      "c": "Bonn",
-     "u": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest",
-     "angolo": "Riferisce dell'incendio che ha coinvolto il ministero dell'Istruzione durante le manifestazioni."
+     "u": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193",
+     "angolo": "Riferisce del dispiegamento della polizia a Tirana e dell'incendio al ministero dell'Istruzione, accostando le proteste a quelle viste in Francia."
     },
     {
      "n": "The New York Times",
      "p": "US",
      "c": "New York",
-     "u": "https://www.nytimes.com/live/2026/10/15/world/albania-protests",
-     "angolo": "Segnala dagli Stati Uniti le proteste albanesi come parte di un clima di tensione politica in diversi Paesi europei."
+     "u": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
+     "angolo": "Dagli Stati Uniti, lega la protesta al progetto di resort legato a Jared Kushner e al malcontento più ampio per corruzione e costo della vita."
     }
    ],
    "data": "15 ott"
@@ -178,8 +178,8 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "n": "OC Media",
      "p": "XX",
      "c": "Baku",
-     "u": "https://oc-media.org/azerbaijani-activist-who-organised-tutoring-for-child-hijab-ban-protesters-reportedly-missing/",
-     "angolo": "Testata regionale del Caucaso: segue da vicino le proteste delle famiglie coinvolte nel divieto."
+     "u": "https://oc-media.org/erdogans-chief-adviser-claims-some-are-trying-to-cast-a-shadow-over-turkey-azerbaijan-alliance/",
+     "angolo": "Testata regionale del Caucaso: riporta le parole del consigliere di Erdogan, secondo cui «qualcuno cerca di gettare un'ombra» sull'alleanza turco-azera, sullo sfondo della tensione per il divieto di velo."
     },
     {
      "n": "Turkish Minute",
@@ -288,7 +288,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
  "contesti": {
   "papaparolin": "Papa Leone XIV è stato operato nei giorni scorsi al Policlinico Gemelli di Roma per l'asportazione di un tumore al polmone. La Santa Sede ha diffuso bollettini medici che descrivono una convalescenza regolare, con il pontefice che ha gradualmente ripreso a camminare, mangiare e celebrare messa in ospedale. Il 15 ottobre il cardinale segretario di Stato Pietro Parolin ha aperto per la prima volta alla possibilità di una rimodulazione degli impegni pontifici, parlando anche di un possibile Angelus guidato dal Gemelli.",
   "marnero": "La Romania, Paese Nato che confina con l'Ucraina, segnala da mesi avvistamenti di droni russi nel proprio spazio aereo e nelle acque del Mar Nero, lungo rotte usate anche dalle esportazioni ucraine di grano e carburanti. Attacchi a petroliere e mercantili nell'area sono diventati più frequenti nel corso della guerra, alimentando il timore di incidenti con la flotta commerciale. Il 15 ottobre due cisterne sono state incendiate nelle acque territoriali rumene, con l'equipaggio disperso.",
-  "albaniaproteste": "Da giugno l'Albania è attraversata da un movimento di protesta nato attorno a un progetto di resort turistico sulla costa, legato alla famiglia Trump, che i cittadini accusano di favorire interessi stranieri a scapito del territorio. Nelle ultime settimane il malcontento si è saldato con le richieste degli studenti universitari su condizioni degli atenei e prospettive di lavoro, fino a un'escalation nei primi giorni di ottobre con cortei e scontri davanti a edifici governativi a Tirana.",
+  "albaniaproteste": "Da giugno l'Albania è attraversata da un movimento di protesta nato attorno a un progetto di resort turistico sulla costa, legato a Jared Kushner, genero di Trump, che i cittadini accusano di favorire interessi stranieri a scapito del territorio. Nelle ultime settimane il malcontento si è saldato con le richieste degli studenti universitari su condizioni degli atenei e prospettive di lavoro, fino a un'escalation nei primi giorni di ottobre con cortei e scontri davanti a edifici governativi a Tirana.",
   "patriotstarlink": "Da martedì i terminali Starlink in dotazione ai militari ucraini avevano smesso di funzionare oltre i 160 km/h, limitando le missioni di drone; Zelensky aveva detto di sentirsi «tradito» da Trump e annunciato la ripresa degli attacchi alle raffinerie russe, sospesi nei giorni precedenti su pressione di Washington dopo una tregua sulle infrastrutture energetiche rispettata solo dall'Ucraina. Il 15 ottobre la rete satellitare è stata riattivata, mentre emergono nuove difficoltà sul fronte della difesa aerea.",
   "dieselmeloni": "Nelle ultime settimane l'amministrazione Trump ha negoziato con la Russia un'intesa per aumentare le forniture di gasolio sul mercato internazionale, nel tentativo di calmierarne i prezzi saliti per effetto della guerra in Ucraina e delle sanzioni. L'accordo è stato criticato da alcuni governi europei, compresa l'Italia di Giorgia Meloni; il 15 ottobre la Casa Bianca ha risposto pubblicamente alle critiche della premier italiana."
  },
