@@ -3,6 +3,516 @@ window.EDIZIONI["2026-10-15"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z7ceaf4fd",
+   "sez": "sport",
+   "titolo": "Coetzee mantiene un ampio vantaggio nella gara di ciclismo di endurance Rhino Run",
+   "orig": "Coetzee maintains big lead",
+   "lead": "A mezzogiorno di mercoledì 14 ottobre, il ciclista Drikus Coetzee ha conservato una posizione di netto comando nella gara di ciclismo di endurance Rhino Run. Dopo tre giorni trascorsi in sella, Coetzee ha percorso 1.170 chilometri, vantando un vantaggio di quasi cento chilometri rispetto al secondo classificato, il francese Stephane Lombard, che ha totalizzato 1.084 chilometri. Durante la competizione Lombard ha cercato con determinazione di ridurre il distacco. Lo riferisce The Namibian.",
+   "more": [
+    "La Rhino Run è una competizione di ultramaratona ciclistica di endurance che mette alla prova la resistenza fisica e mentale dei partecipanti su percorsi sterrati e di grande distanza, richiedendo giorni di pedalata continua in condizioni spesso difficili."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/coetzee-maintains-big-lead/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-14T22:25+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfdf43137",
+   "sez": "mondo",
+   "titolo": "Forze statunitensi distruggono un'imbarcazione affiliata all'Iran nel Golfo di Oman",
+   "orig": "US Forces Destroy Iranian-Affiliated Vessel in Gulf of Oman",
+   "lead": "Le forze del Comando Centrale degli Stati Uniti (CENTCOM) hanno distrutto nel Golfo di Oman un'imbarcazione affiliata all'Iran, coinvolta in attività di sorveglianza contro le navi della Marina statunitense. Secondo quanto reso noto da un comunicato ufficiale, i membri dell'equipaggio sono stati tratti in salvo prima della distruzione del natante e sono in corso le procedure per il loro rimpatrio. Lo riferisce Kurdistan24.",
+   "more": [
+    "Il Golfo di Oman rappresenta uno strategico braccio di mare che collega il Mar Arabico allo Stretto di Hormuz, snodo cruciale per il transito globale del petrolio e teatro frequente di tensioni geopolitiche e navali tra gli Stati Uniti e l'Iran."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946178/us-forces-destroy-iranian-affiliated-vessel-in-gulf-of-oman",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-14T23:27+03:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z139ae219",
+   "sez": "mondo",
+   "titolo": "La commissione anticorruzione di Timor Est avvia le verifiche sugli appalti per i farmaci",
+   "orig": "KAK Sei Buka Prova Ai-Moruk",
+   "lead": "La Commissione Anti-Corruzione di Timor Est ha avviato la raccolta di prove iniziali in merito a presunte irregolarità nelle procedure di appalto per l'acquisto di medicinali da parte del Ministero della Salute. L'organismo investigativo intende estendere gli accertamenti a tutta la struttura gerarchica e alle delegazioni di competenza, prima di procedere con le audizioni formali dei dirigenti e dei membri delle giurie coinvolte. Lo riferisce Timor Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/lei-no-justisa/tp-68448/kak-sei-buka-prova-ai-moruk/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-15T04:32+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcc77a91d",
+   "sez": "mondo",
+   "titolo": "Sospesi i processi a Dili: i giudici cercano il Primo Ministro Xanana Gusmão",
+   "orig": "Prosesu Julgamentu Tribunal Paradu, Juiz Buka Tuir PM Xanana",
+   "lead": "Il processo presso il Tribunale Giudiziario di Prima Istanza di Dili risulta interrotto a causa dell'assenza dei giudici in aula, recatisi al Palazzo del Governo per incontrare il Primo Ministro Kay Rala Xanana Gusmão. L'iniziativa dei magistrati mira a discutere direttamente con il capo del governo le questioni legate a disaccordi interni che interessano il settore giudiziario. Lo riferisce Timor Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/justisa/tp-68442/prosesu-julgamentu-tribunal-paradu-juiz-buka-tuir-pm-xanana/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-15T02:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z82dc1872",
+   "sez": "mondo",
+   "titolo": "L'ex ministro delle Finanze avverte: l'IVA al 5% non basta a colmare il deficit di Timor Est",
+   "orig": "IVA La Rezolve Defisit Fiskál",
+   "lead": "L'introduzione dell'Imposta sul Valore Aggiunto al 5% prevista per il 2028 rappresenterà un passo cruciale per sostenere il bilancio statale di Timor Est, ma da sola non basterà a risolvere il deficit fiscale stimato al 50%. L'allarme è stato lanciato dall'ex ministro delle Finanze Rui A. Gomes, il quale ha ricordato che la fine della produzione nel giacimento di Bayu-Undan, prevista per giugno 2025, azzererà i ricavi petroliferi tradizionali, minacciando la stabilità del Fondo Petrolifero nazionale. Lo riferisce Timor Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/finansas/tp-68432/iva-la-rezolve-defisit-fiskal/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-14T22:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7ae935a4",
+   "sez": "mondo",
+   "titolo": "Richiesta di chiarezza a Tonga sul ritardo nell'apertura del nuovo centro per la gestione dei disastri",
+   "orig": "Delayed opening of NDRMO Centre should be explained",
+   "lead": "Il recente ritardo nell'inaugurazione del nuovo Centro per i servizi meteorologici e l'ufficio nazionale per la gestione del rischio di disastri a Matatoa, a Tonga, ha sollevato interrogativi legati alla governance e alla trasparenza pubblica. Nonostante la struttura sia stata infine aperta, è stato chiesto al governo di chiarire le modalità di risoluzione delle controversie relative agli accordi di locazione fondiaria e di confermare il rispetto delle normative vigenti per tutelare i fondi pubblici. Lo riferisce Matangi Tonga.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Matangi Tonga",
+     "p": "XX",
+     "c": "Nuku'alofa",
+     "u": "https://matangitonga.to/2026/10/15/delayed-opening-ndrmo-centre-should-be-explained",
+     "angolo": "",
+     "atlas": "Tonga",
+     "t": "2026-10-15T04:44+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0f74f844",
+   "sez": "mondo",
+   "titolo": "Il ministro Mahama Ayariga presenta il progetto sul fiume Jimi per contrastare le inondazioni",
+   "orig": "Mahama Ayariga highlights Jimi reclamation project as effort to tackle flooding",
+   "lead": "Il ministro per il Governo Locale, le Chiese e gli Affari Religiosi del Ghana, Mahama Ayariga, ha illustrato il progetto di bonifica del territorio e di riabilitazione dei corsi d'acqua del fiume Jimi. L'intervento è stato definito essenziale per mitigare il fenomeno delle inondazioni urbane, migliorare la rete di drenaggio e contrastare il degrado ambientale. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/mahama-ayariga-highlights-jimi-reclamation-project-as-effort-to-tackle-flooding/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-15T05:48+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za6fd97b4",
+   "sez": "mondo",
+   "titolo": "Il ministro della Giustizia ghanese propone avvocati d'ufficio nei commissariati di polizia",
+   "orig": "Ayine pushes duty-lawyer scheme to protect suspects at police stations",
+   "lead": "Il procuratore generale e ministro della Giustizia del Ghana, Dominic A. Ayine, ha avanzato la proposta di garantire la presenza costante di avvocati presso i commissariati di polizia e i tribunali. L'iniziativa mira a tutelare efficacemente i diritti costituzionali delle persone sospettate di reati e a migliorare l'accesso a una difesa legale adeguata durante le fasi preliminari dei procedimenti penali. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/ayine-pushes-duty-lawyer-scheme-to-protect-suspects-at-police-stations/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-15T05:41+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfd3730e2",
+   "sez": "mondo",
+   "titolo": "La giudice Jane Frances Abodo invita i magistrati dei ricorsi elettorali a tutelare la propria salute",
+   "orig": "Abodo Urges Election Petition Judges to Protect Their Health",
+   "lead": "La giudice Jane Frances Abodo ha esortato i magistrati impegnati nella gestione dei ricorsi elettorali a pianificare con efficienza le udienze e a gestire lo stress lavorativo. L'obiettivo è garantire il deposito tempestivo delle decisioni senza compromettere il benessere psicofisico dei giudici e il diritto costituzionale delle parti a un equo processo. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/378625/abodo-urges-election-petition-judges-to-protect-their-health",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-15T08:04+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze3253b54",
+   "sez": "mondo",
+   "titolo": "Il ministero di Buganda invita gli uomini a destinare terra alle donne per la coltivazione del caffè",
+   "orig": "Buganda Minister Urges Men to Give Women Land for Coffee Growing",
+   "lead": "Mariam Nkalubo, ministro per le donne e i bambini del Regno di Buganda, ha esortato la popolazione maschile a concedere alle donne l'accesso ai terreni familiari per la coltivazione del caffè e altre attività produttive. Secondo il ministero, tale misura contribuirebbe ad accrescere i redditi familiari, mentre iniziative parallele come la piantumazione di alberi sosterrebbero la conservazione ambientale. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/agriculture/378614/buganda-minister-urges-men-to-give-women-land-for-coffee-growing",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-15T07:24+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd16b1a24",
+   "sez": "mondo",
+   "titolo": "L'intelligenza artificiale nelle università: il progetto tra accademici polacchi e ruandesi",
+   "orig": "The AI Revolution in Our Universities: Are We Teaching Students to Think?",
+   "lead": "Di fronte all'impatto dell'intelligenza artificiale sui metodi di insegnamento e sulla stesura degli elaborati accademici, una collaborazione tra il ricercatore polacco Wojciech Baluch e la società ruandese Nexus Inc. sta sperimentando un nuovo approccio pedagogico. L'obiettivo dell'iniziativa è comprendere come guidare gli studenti universitari nello sviluppo del pensiero critico nell'era digitale. Lo riferisce KT Press.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/10/the-ai-revolution-in-our-universities-are-we-teaching-students-to-think/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-10-14T22:36+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf0081433",
+   "sez": "mondo",
+   "titolo": "Il Ruanda batte il Sudan e conquista la semifinale del torneo CECAFA Under-17",
+   "orig": "Rwanda Break Through to CECAFA U-17 Semi-Finals",
+   "lead": "La nazionale Under-17 del Ruanda ha superato il Sudan con il punteggio di due a zero in un incontro valido per le qualificazioni zonali della Coppa d'Africa di categoria. Grazie a questo successo ottenuto al termine di una partita intensa, la selezione ruandese si è garantita l'accesso alle semifinali del torneo. Lo riferisce KT Press.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/10/rwanda-break-through-to-cecafa-u-17-semi-finals/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-10-14T22:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z90e1c934",
+   "sez": "mondo",
+   "titolo": "Il segretario generale dell'SPLM invita i candidati alle primarie a confrontarsi con i territori",
+   "orig": "SPLM SG directs aspirants to engage with constituencies in party primaries",
+   "lead": "Il segretario generale del Movimento di Liberazione del Popolo Sudanese (SPLM), Akol Paul Kordit, ha invitato tutti i candidati interni a fare ritorno nelle rispettive circoscrizioni. La direttiva, scaturita da un incontro con il presidente e leader del partito Salva Kiir Mayardit e con i vertici dell'organizzazione, richiede ai contendenti di intensificare il dialogo con le comunità locali e le strutture territoriali in vista delle imminenti elezioni primarie. Lo riferisce Eye Radio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/splm-sg-directs-aspirants-to-engage-with-constituencies-in-party-primaries/?utm_source=rss&utm_medium=rss&utm_campaign=splm-sg-directs-aspirants-to-engage-with-constituencies-in-party-primaries",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-15T05:23+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7c43e8c0",
+   "sez": "mondo",
+   "titolo": "Rilasciato a Juba senza accuse il direttore nazionale di Save the Children",
+   "orig": "Save the Children country director released after six days in custody in Juba",
+   "lead": "Il direttore nazionale dell'organizzazione umanitaria Save the Children in Sudan del Sud è tornato in libertà dopo aver trascorso sei giorni in custodia presso le autorità governative a Juba. La conferma del rilascio, avvenuto senza che venisse formalizzata alcuna accusa nei suoi confronti, è stata diffusa dai responsabili della comunicazione dell'ong internazionale. Lo riferisce Eye Radio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/save-the-children-country-director-released-after-six-days-in-custody-in-juba/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-children-country-director-released-after-six-days-in-custody-in-juba",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-14T21:21+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0d8bcd20",
+   "sez": "mondo",
+   "titolo": "Il consigliere presidenziale Tim Kabba invoca legami più stretti tra Africa e Russia",
+   "orig": "Presidential Adviser Tim Kabba Pushes for Stronger Africa-Russia Ties",
+   "lead": "Il consigliere presidenziale Alhaji Timothy Musa Kabba ha sottolineato la necessità di rafforzare le relazioni bilaterali e di cooperazione tra il continente africano e la Russia. Nel corso del suo intervento, Kabba ha esortato entrambe le parti a dare priorità agli investimenti nell'istruzione e nella formazione tecnica. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/kabba-calls-for-stronger-africa-russia-ties/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-14T22:34+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zebe60710",
+   "sez": "mondo",
+   "titolo": "Il fondatore dell'università BIUST propone di unire il nome di Mogae alla denominazione dell'istituto",
+   "orig": "Honour Mogae, Preserve BIUST — Founding VC",
+   "lead": "L'ex vicepresidente e fondatore dell'Università Internazionale di Scienza e Tecnologia del Botswana (BIUST), Kweku Bentil, ha proposto di mantenere l'attuale denominazione dell'ateneo affiancandola a quella di Festus Mogae. Tale soluzione di compromesso intende rispondere alle preoccupazioni sollevate dagli ex studenti in merito alla tutela dell'identità e della reputazione accademica dell'istituzione. Lo riferisce The Botswana Gazette.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/news/honour-mogae-preserve-biust-founding-vc/",
+     "angolo": "",
+     "atlas": "Botswana",
+     "t": "2026-10-14T21:18+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3566c5f4",
+   "sez": "mondo",
+   "titolo": "Unicef: quasi la metà dei bambini in Botswana vive in condizioni di povertà",
+   "orig": "Nearly Half of Children in Botswana Live in Poverty",
+   "lead": "Un rapporto dell'Unicef ha evidenziato una diffusa condizione di deprivazione tra i minori in Botswana, stimando che quasi la metà dei bambini del Paese viva in stato di povertà. Lo studio segnala gravi carenze strutturali nei settori dei servizi igienico-sanitari, dell'educazione della prima infanzia e nell'efficacia dei programmi di assistenza sociale a sostegno delle famiglie. Lo riferisce The Botswana Gazette.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/news/nearly-half-of-children-in-botswana-live-in-poverty/",
+     "angolo": "",
+     "atlas": "Botswana",
+     "t": "2026-10-14T21:17+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z17808f0e",
+   "sez": "mondo",
+   "titolo": "Roy Sesana commenta il dottorato onorario: «La terra ancestrale resta un sogno lontano»",
+   "orig": "Sesana: ‘Homeland Remains a Distant Dream’",
+   "lead": "L'attivista per i diritti dei popoli indigeni Roy Sesana ha espresso gratitudine per il dottorato honoris causa conferitogli dall'Università del Botswana in riconoscimento di decenni di lotte. Al contempo, Sesana ha ammonito che la campagna per il riconoscimento dei diritti territoriali ancestrali, dell'autodeterminazione e delle condizioni di vita delle comunità locali è ancora lontana dal considerarsi conclusa. Lo riferisce The Botswana Gazette.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/news/sesana-homeland-remains-a-distant-dream/",
+     "angolo": "",
+     "atlas": "Botswana",
+     "t": "2026-10-14T21:17+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7874098f",
+   "sez": "mondo",
+   "titolo": "Un sindacato del Botswana attacca il direttore delle accuse pubbliche per le dichiarazioni sul fondo pensioni",
+   "orig": "Stop Talking, Prosecute – Union to DPP",
+   "lead": "La Confederazione sindacale NALCGPWU ha rivolto pesanti critiche al direttore delle accuse pubbliche Kgosiitsile Ngakaagae, accusandolo di aver alimentato una campagna mediatica attorno alla presunta sottrazione di fondi pensionistici per 450 milioni di pula. Secondo il sindacato, le affermazioni pubbliche del funzionario danneggiano ingiustamente la reputazione dei leader sindacali prima di un regolare giudizio. Lo riferisce The Botswana Gazette.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/news/stop-talking-prosecute-union-to-dpp/",
+     "angolo": "",
+     "atlas": "Botswana",
+     "t": "2026-10-14T21:16+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z32a950a6",
+   "sez": "mondo",
+   "titolo": "Lo Stato barbadiano chiede la revoca del blocco giudiziario sul processo all'ex banchiere Leroy Parris",
+   "orig": "State: No exceptional circumstances to justify blocking Parris trial",
+   "lead": "Le autorità giudiziarie dello Stato stanno conducendo un'azione legale per riattivare il procedimento penale a carico di Leroy Parris, ex dirigente della società CLICO. L'iniziativa mira a ribaltare un'ingiunzione emessa dall'Alta Corte che attualmente impedisce al direttore delle accuse pubbliche di procedere con il giudizio. Lo riferisce Barbados Today.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/14/state-no-exceptional-circumstances-to-justify-blocking-parris-trial/",
+     "angolo": "",
+     "atlas": "Barbados",
+     "t": "2026-10-15T00:59+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za0668b9e",
+   "sez": "mondo",
+   "titolo": "Consulenti governativi a Barbados esamineranno i rilievi sindacali sulle valutazioni del pubblico impiego",
+   "orig": "Consultants to review union concerns over public service job evaluation",
+   "lead": "I consulenti incaricati dal governo di Barbados hanno accettato di esaminare le osservazioni critiche presentate dal sindacato NUPW in merito alle procedure di valutazione delle mansioni nel settore della pubblica amministrazione e nelle aziende a partecipazione statale. Lo riferisce Barbados Today.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/14/consultants-to-review-union-concerns-over-public-service-job-evaluation/",
+     "angolo": "",
+     "atlas": "Barbados",
+     "t": "2026-10-14T23:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za449ef8f",
+   "sez": "mondo",
+   "titolo": "Il ministro delle Infrastrutture di Barbados sollecita riforme nel settore edile in vista del boom economico",
+   "orig": "Humphrey urges construction reform ahead of building boom",
+   "lead": "Il ministro dei Trasporti e delle Infrastrutture di Barbados, Kirk Humphrey, ha avvertito la necessità di modernizzare le pratiche edilizie del Paese, contenere gli sforamenti di costo e realizzare strade più resistenti in previsione di una significativa fase di sviluppo del settore costruzioni. Lo riferisce Barbados Today.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/14/humphrey-urges-construction-reform-ahead-of-building-boom/",
+     "angolo": "",
+     "atlas": "Barbados",
+     "t": "2026-10-14T20:15+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfba97893",
+   "sez": "mondo",
+   "titolo": "Due storie di tumore al seno a Barbados: l'appello congiunto per la prevenzione precoce",
+   "orig": "Two women, two cancer journeys, one message: screen early",
+   "lead": "Attraverso le rispettive esperienze personali legate alla diagnosi di tumore al seno, scaturite da una mammografia di routine e dalla segnalazione di una studentessa, due donne di Barbados lanciano un appello condiviso sull'importanza vitale degli screening oncologici tempestivi. Lo riferisce Barbados Today.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/14/two-women-two-cancer-journeys-one-message-screen-early/",
+     "angolo": "",
+     "atlas": "Barbados",
+     "t": "2026-10-14T19:55+00:00"
+    }
+   ],
+   "data": "14 ott",
+   "ora": "08:56",
+   "uscita": "mattino"
+  },
+  {
    "id": "zcdf427ba",
    "sez": "mondo",
    "titolo": "La tempesta tropicale Trudy si forma nel Pacifico messicano e minaccia le coste",
@@ -10225,7 +10735,30 @@ window.EDIZIONI["2026-10-15"] = {
   "z2972db71": "The Punch dà risalto alle rassicurazioni fornite dai vertici elettorali nigeriani sull'indipendenza e sulla centralità del voto popolare rispetto alla tecnologia.",
   "ze700151a": "Il quotidiano keniota Daily Nation traccia un bilancio celebrativo dell'impatto politico di Raila Odinga sulla stabilità e sull'unità democratica del paese.",
   "z518d3f13": "Citizen Digital segue le ambizioni continentali della squadra keniota, evidenziando la preparazione atletica e gli obiettivi strategici per il torneo internazionale.",
-  "z64f14b52": "The Citizen riprende le rivelazioni dell'inchiesta televisiva britannica, focalizzandosi sullo scandalo scaturito dalle riprese in incognito sui candidati di Reform UK."
+  "z64f14b52": "The Citizen riprende le rivelazioni dell'inchiesta televisiva britannica, focalizzandosi sullo scandalo scaturito dalle riprese in incognito sui candidati di Reform UK.",
+  "z7ceaf4fd": "La testata evidenzia l'andamento e le distanze registrate dai principali contendenti in gara dopo le prime fasi della competizione.",
+  "zfdf43137": "L'emittente Kurdistan24 pone l'accento sulla rapida azione militare del CENTCOM e sulla messa in sicurezza dell'equipaggio prima dell'affondamento.",
+  "z139ae219": "Il quotidiano Timor Post evidenzia l'ampiezza dell'inchiesta, sottolineando che i controlli non si limiteranno alla massima autorità politica ma coinvolgeranno l'intera catena di responsabilità amministrativa.",
+  "zcc77a91d": "Il giornale locale segue la clamorosa protesta istituzionale dei giudici, che hanno interrotto le udienze ordinarie per un confronto diretto con l'esecutivo.",
+  "z82dc1872": "Il quotidiano locale pone l'accento sulla sostenibilità economica di lungo termine del Paese in vista della transizione post-petrolifera.",
+  "z7ae935a4": "Il giornale evidenzia l'importanza di controlli amministrativi rigorosi prima dell'avvio di opere pubbliche strategiche per la sicurezza civile.",
+  "z0f74f844": "La testata sottolinea l'importanza delle infrastrutture di drenaggio urbano e di recupero ambientale per la prevenzione delle emergenze idrogeologiche.",
+  "za6fd97b4": "Il portale d'informazione evidenzia la portata riformista della misura per la salvaguardia dei diritti civili nel sistema giudiziario del Paese.",
+  "zfd3730e2": "La testata pone l'accento sulla pressione psicologica e sui carichi di lavoro gravosi che pesano sui giudici durante le fasi post-elettorali.",
+  "ze3253b54": "Il giornale evidenzia il legame tra l'emancipazione economica femminile e lo sviluppo agricolo sostenibile a livello comunitario.",
+  "zd16b1a24": "La testata focalizza l'attenzione sulle sfide educative poste dall'avvento dell'intelligenza artificiale nei sistemi di istruzione superiore.",
+  "zf0081433": "Il giornale sportivo e generale ruandese celebra il traguardo della qualificazione continentale della giovane selezione nazionale.",
+  "z90e1c934": "L'emittente radiofonica evidenzia la linea della segreteria di partito volta a rafforzare il legame con la base elettorale in vista delle consultazioni interne.",
+  "z7c43e8c0": "L'emittente locale segue la vicenda evidenziando la conclusione positiva della detenzione per il rappresentante dell'organizzazione umanitaria.",
+  "z0d8bcd20": "Il portale d'informazione pone l'attenzione sulle prospettive di partenariato strategico ed educativo tra l'Africa e Mosca.",
+  "zebe60710": "Il settimanale locale evidenzia il dibattito sulla memoria storica e sull'identità istituzionale dell'università tecnologica.",
+  "z3566c5f4": "Il giornale pone l'accento sulle criticità sociali e sulle lacune nei programmi di welfare infantile rilevate dall'agenzia delle Nazioni Unite.",
+  "z17808f0e": "La testata locale valorizza il riconoscimento accademico all'attivista, dando voce alle sue rivendicazioni storiche sui diritti fondiari.",
+  "z7874098f": "Il giornale riporta lo scontro istituzionale tra le rappresentanze dei lavoratori e la pubblica accusa in merito alla gestione mediatica dell'indagine.",
+  "z32a950a6": "La testata economica e giudiziaria segue gli sviluppi legali legati al crac finanziario della compagnia CLICO e alle responsabilità dei vertici.",
+  "za0668b9e": "Il giornale locale mette in risalto il confronto sindacale sulle riforme strutturali e sulla classificazione dei ruoli nel pubblico impiego.",
+  "za449ef8f": "La testata evidenzia l'appello governativo alla pianificazione tecnica e infrastrutturale per sostenere la crescita economica locale.",
+  "zfba97893": "Il quotidiano valorizza le testimonianze personali per sensibilizzare la cittadinanza sull'importanza della prevenzione medica."
  },
  "contesti": {
   "houthi": "La guerra civile yemenita dura dal 2014 e dal 2015 una coalizione guidata dall'Arabia Saudita sostiene il governo riconosciuto contro gli Houthi, che controllano Sanaa e gran parte del Nord del Paese. Un'offensiva governativa lanciata a inizio ottobre, con il supporto aereo saudita, ha riacceso gli scontri intorno allo stretto di Bab el-Mandeb. Da allora gli Houthi rispondono con settimane di missili e droni contro Riyadh, colpendo anche impianti del colosso petrolifero Aramco: gli attacchi hanno già causato diversi morti e centinaia di feriti. Secondo alcune fonti, parte dei missili a lungo raggio del movimento includerebbe componenti di origine nordcoreana, e la coalizione avverte che anche Israele potrebbe diventare un bersaglio.",
@@ -14436,6 +14969,163 @@ window.EDIZIONI["2026-10-15"] = {
     "United Kingdom"
    ],
    "pt": []
+  },
+  "z7ceaf4fd": {
+   "n": "Namibia",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "zfdf43137": {
+   "n": "Gulf of Oman",
+   "p": [
+    "Iran",
+    "Oman",
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z139ae219": {
+   "n": "Dili",
+   "p": [],
+   "pt": []
+  },
+  "zcc77a91d": {
+   "n": "Dili",
+   "p": [],
+   "pt": []
+  },
+  "z82dc1872": {
+   "n": "Dili",
+   "p": [],
+   "pt": []
+  },
+  "z7ae935a4": {
+   "n": "Nuku'alofa",
+   "p": [
+    "Tonga"
+   ],
+   "pt": []
+  },
+  "z0f74f844": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "za6fd97b4": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zfd3730e2": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "ze3253b54": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zd16b1a24": {
+   "n": "Kigali",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "zf0081433": {
+   "n": "Kigali",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "z90e1c934": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z7c43e8c0": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z0d8bcd20": {
+   "n": "Freetown",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "zebe60710": {
+   "n": "Gaborone",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "z3566c5f4": {
+   "n": "Gaborone",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "z17808f0e": {
+   "n": "Gaborone",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "z7874098f": {
+   "n": "Gaborone",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "z32a950a6": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "za0668b9e": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "za449ef8f": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "zfba97893": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -14764,7 +15454,30 @@ window.EDIZIONI["2026-10-15"] = {
   "z2972db71": 1,
   "ze700151a": 1,
   "z518d3f13": 1,
-  "z64f14b52": 1
+  "z64f14b52": 1,
+  "z7ceaf4fd": 1,
+  "zfdf43137": 1,
+  "z139ae219": 1,
+  "zcc77a91d": 1,
+  "z82dc1872": 1,
+  "z7ae935a4": 1,
+  "z0f74f844": 1,
+  "za6fd97b4": 1,
+  "zfd3730e2": 1,
+  "ze3253b54": 1,
+  "zd16b1a24": 1,
+  "zf0081433": 1,
+  "z90e1c934": 1,
+  "z7c43e8c0": 1,
+  "z0d8bcd20": 1,
+  "zebe60710": 1,
+  "z3566c5f4": 1,
+  "z17808f0e": 1,
+  "z7874098f": 1,
+  "z32a950a6": 1,
+  "za0668b9e": 1,
+  "za449ef8f": 1,
+  "zfba97893": 1
  },
  "video": {},
  "pillole": [
