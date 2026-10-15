@@ -1093,7 +1093,7 @@ window.EDIZIONI["2026-10-15"] = {
    "sez": "sport",
    "titolo": "I Milwaukee Brewers a un passo dalle World Series dopo due fuoricampo consecutivi",
    "orig": "Brewers go one win from World Series as back-to-back homers sink Dodgers",
-   "lead": "Due fuoricampo consecutivi di Bauers e Mitchell hanno affondato i Los Angeles Dodgers, campioni in carica, regalando ai Milwaukee Brewers un vantaggio di 3-0 nella finale della National League: ai Brewers basta una vittoria per conquistare l'accesso alle World Series di baseball.",
+   "lead": "Secondo il Guardian, due fuoricampo consecutivi di Bauers e Mitchell hanno affondato i Los Angeles Dodgers, campioni in carica, regalando ai Milwaukee Brewers un vantaggio di 3-0 nella finale della National League: ai Brewers basta una vittoria per conquistare l'accesso alle World Series di baseball.",
    "fonti": [
     {
      "n": "The Guardian",
