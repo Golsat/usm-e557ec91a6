@@ -3,6 +3,1173 @@ window.EDIZIONI["2026-10-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z9c08819a",
+   "sez": "mondo",
+   "titolo": "Cinque paesi africani a Dakar per certificare la tracciabilità dei fondi climatici",
+   "orig": "Transparence de la finance climat : Cinq pays africains réunis à Dakar pour certifier la traçabilité des fonds",
+   "lead": "A Dakar si sono riuniti rappresentanti di cinque paesi africani per discutere di trasparenza nella finanza climatica. L'obiettivo dell'incontro è capire quanti miliardi vengono effettivamente mobilitati per la lotta al cambiamento climatico, dove finisce questo denaro e quali risultati concreti produce sul territorio, una questione considerata strategica per i paesi del continente. Lo riferisce Seneweb.",
+   "more": [
+    "La finanza climatica indica i flussi di denaro pubblico e privato destinati a progetti di adattamento e mitigazione del cambiamento climatico, spesso canalizzati verso paesi in via di sviluppo tramite fondi internazionali e accordi bilaterali."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Environnement/transparence-de-la-finance-climat-cinq-pays-africains-reunis-a-dakar-pour-certifier-la-tracabilite-des-fonds_n_999000784.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T16:47+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z76f9a16f",
+   "sez": "mondo",
+   "titolo": "Ricerca accademica: il Ministero vuole collegare le università senegalesi con laboratori misti",
+   "orig": "Recherche académique : Le Mesri veut décloisonner les universités avec des labos mixtes",
+   "lead": "Il Ministero dell'Istruzione superiore, della ricerca e dell'innovazione del Senegal intende favorire la collaborazione tra le università del paese attraverso la creazione di laboratori misti. Secondo il ministero, le otto università senegalesi attualmente operative non collaborano abbastanza tra loro, soprattutto sul fronte della ricerca scientifica, e serve quindi un maggiore coordinamento tra gli istituti. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Education/recherche-academique-le-mesri-veut-decloisonner-les-universites-avec-des-labos-mixtes_n_999000783.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T16:41+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdd1c2a9b",
+   "sez": "mondo",
+   "titolo": "Ciad: a Laoukassi il confronto tra agricoltori e allevatori al centro della visita del delegato governativo",
+   "orig": "Logone occidental : à Laoukassi, les tensions entre agriculteurs et éleveurs au cœur des échanges",
+   "lead": "Il delegato generale del governo per la provincia del Logone occidentale, Dago Yacoub, si è recato mercoledì 14 ottobre nella sottoprefettura di Laoukassi, nel dipartimento della Dodjé, per incontrare autorità amministrative e capi tradizionali. Al centro dei colloqui le tensioni tra agricoltori e allevatori della zona, con l'obiettivo di discutere misure per prevenire i conflitti legati all'uso della terra tra le due comunità. Lo riferisce Tchadinfos.",
+   "more": [
+    "I conflitti tra agricoltori e pastori sono una criticità ricorrente in diverse regioni del Sahel e dell'Africa centrale, spesso legati alla competizione per terra e risorse idriche, aggravata da cambiamenti climatici e crescita demografica."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/logone-occidental-a-laoukassi-les-tensions-entre-agriculteurs-et-eleveurs-au-coeur-des-echanges/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T18:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z710aefaa",
+   "sez": "mondo",
+   "titolo": "Ciad: l'Osservatorio sulle risorse umane dello Stato passa sotto il Segretariato generale del governo",
+   "orig": "L’Observatoire de suivi des ressources humaines de l’État désormais placé sous la tutelle du Secrétariat général du gouvernement",
+   "lead": "Con un decreto firmato il 15 ottobre, il governo del Ciad ha trasferito l'Osservatorio di monitoraggio delle risorse umane dello Stato dalla presidenza della Repubblica al Segretariato generale del governo. L'organismo, guidato da un coordinatore e da un vice scelti tra gli alti quadri dello Stato, continuerà a svolgere le sue funzioni ma sotto una nuova tutela istituzionale. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/lobservatoire-de-suivi-des-ressources-humaines-de-letat-desormais-place-sous-la-tutelle-du-secretariat-general-du-gouvernement/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T16:39+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc454051f",
+   "sez": "mondo",
+   "titolo": "Ciad: l'ATNOR apre le porte per far conoscere il ruolo della normalizzazione",
+   "orig": "Tchad : l’ATNOR ouvre ses portes pour faire découvrir le rôle de la normalisation",
+   "lead": "L'Agenzia ciadiana di normalizzazione (ATNOR) ha organizzato una giornata di porte aperte giovedì 15 ottobre in occasione della Giornata mondiale della normalizzazione. L'iniziativa ha avuto l'obiettivo di presentare al pubblico le missioni dell'agenzia, sensibilizzare i cittadini sull'importanza delle norme tecniche e mostrare come la normalizzazione riguardi praticamente tutti gli aspetti della vita quotidiana. Lo riferisce Tchadinfos.",
+   "more": [
+    "La normalizzazione tecnica è il processo con cui enti nazionali e internazionali stabiliscono standard comuni per prodotti, servizi e processi, al fine di garantire qualità, sicurezza e compatibilità tra diversi settori."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/15/tchad-latnor-ouvre-ses-portes-pour-faire-decouvrir-le-role-de-la-normalisation/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-15T16:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1a3c6414",
+   "sez": "mondo",
+   "titolo": "Camerun: il prefetto del Diamaré avverte contro le tensioni per un terreno dello Stato a Maroua",
+   "orig": "Maroua : le préfet du Diamaré met en garde contre les tensions autour d’un terrain de l’État",
+   "lead": "In un comunicato diffuso via radio e stampa il 14 ottobre 2026, il prefetto del dipartimento del Diamaré, Jean-Marc Ekoa Mbarga, denuncia manovre volte ad appropriarsi illecitamente di un terreno appartenente allo Stato nella zona di Maroua. Il prefetto ha lanciato un avvertimento contro chi è coinvolto in tali tentativi, senza fornire ulteriori dettagli sulle persone implicate. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/15/maroua-le-prefet-du-diamare-met-en-garde-contre-les-tensions-autour-dun-terrain-de-letat/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z123e56ba",
+   "sez": "economia",
+   "titolo": "Oro in Costa d'Avorio: cinque permessi concessi con l'obiettivo di superare il Ghana entro il 2035",
+   "orig": "Or en Côte d’Ivoire : 5 permis accordés avec pour objectif de détrôner le Ghana d’ici 2035",
+   "lead": "Il governo della Costa d'Avorio ha concesso cinque permessi di ricerca aurifera a quattro società, nell'ambito di una strategia per sfruttare pienamente il potenziale del settore minerario nazionale. L'ambizione del paese è diventare il primo produttore d'oro in Africa, superando il Ghana entro il 2035. Secondo fonti concordanti citate dalla testata, i permessi hanno una durata di validità definita. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "La Costa d'Avorio è uno dei principali produttori di materie prime dell'Africa occidentale; negli ultimi anni ha puntato sull'estrazione aurifera per diversificare un'economia storicamente legata al cacao e al caffè."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/or-en-cote-divoire-5-permis-accordes-avec-pour-objectif-de-detroner-le-ghana-dici-2035/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T16:31+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z81d26e35",
+   "sez": "mondo",
+   "titolo": "Guinea: l'ANAIM distribuisce kit scolastici alle scuole di Konta a Forécariah",
+   "orig": "Forécariah : L’ANAIM renforce son engagement communautaire à Konta par une remise de kits scolaires",
+   "lead": "L'Agenzia Nazionale per la Gestione delle Infrastrutture Minerarie (ANAIM) ha distribuito kit scolastici agli alunni delle scuole primarie di Taady e Konta, nel distretto di Konta, sottoprefettura di Faramoryah, prefettura di Forécariah. L'iniziativa rientra nelle azioni di prossimità che l'agenzia conduce con le comunità che vivono vicino alle sue zone di intervento minerario. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/forecariah-lanaim-renforce-son-engagement-communautaire-a-konta-par-une-remise-de-kits-scolaires/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-15T18:06+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf8f2c28b",
+   "sez": "mondo",
+   "titolo": "Guinea: a Nzérékoré 5.068 candidati attesi al concorso per la Funzione pubblica",
+   "orig": "Nzérékoré : 5 068 candidats de l’enseignement attendus au concours de recrutement dans la Fonction publique",
+   "lead": "Nella regione amministrativa di Nzérékoré si stanno completando i preparativi per il concorso di reclutamento nella Funzione pubblica, previsto in tutto il territorio nazionale sabato 17 ottobre 2026. Le autorità locali sono al lavoro per identificare i centri d'esame, allestire le aule, preparare le liste dei candidati e formare i sorveglianti, in vista dell'afflusso di 5.068 candidati. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/nzerekore-5-068-candidats-de-lenseignement-attendus-au-concours-de-recrutement-dans-la-fonction-publique/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-15T16:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "za0c0e301",
+   "sez": "mondo",
+   "titolo": "Mauritania: il nuovo ministro dell'Economia assume l'incarico e promette continuità",
+   "orig": "وزير الاقتصاد يتسلم مهامه ويؤكد عزمه مواصلة مسار البناء والعمل",
+   "lead": "Il ministro degli Affari economici e dello sviluppo della Mauritania ha assunto formalmente le sue funzioni, dichiarando l'intenzione di proseguire il percorso di costruzione economica avviato dal governo. Durante la cerimonia di passaggio di consegne, il nuovo ministro ha espresso l'impegno a continuare il lavoro già in corso nel settore. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad1178c31bb580001d17071/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-15T18:14+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcb56cba4",
+   "sez": "economia",
+   "titolo": "Mauritania: sette società in competizione per l'appalto di fornitura di carburanti",
+   "orig": "7 شركات تتنافس على صفقة تموين موريتانيا بالمحروقات",
+   "lead": "Sette società internazionali si contendono l'appalto per l'approvvigionamento di carburanti della Mauritania. La gara, descritta come molto competitiva, coinvolge diverse compagnie interessate a fornire il paese di idrocarburi nei prossimi anni. Lo riferisce Alakhbar.",
+   "more": [
+    "La Mauritania importa gran parte dei propri prodotti petroliferi, rendendo gli appalti di fornitura di carburante un elemento strategico per la sicurezza energetica e i prezzi interni del paese."
+   ],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad1093531bb580001d1704c/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-15T17:14+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zce953ca7",
+   "sez": "salute",
+   "titolo": "Capo Verde: dal 19 ottobre l'ospedale Agostinho Neto limiterà a due i visitatori per paziente",
+   "orig": "A partir de 19 de Outubro, HUAN só permite dois visitantes por doente",
+   "lead": "A partire dal 19 ottobre l'Hospital Universitário Agostinho Neto (HUAN) limiterà a due il numero massimo di visitatori per paziente. Secondo un avviso dell'amministrazione ospedaliera, solo un visitatore potrà restare accanto al malato per volta, mentre il secondo dovrà attendere fuori dall'area di ricovero, con obbligo di rotazione tra gli accompagnatori fuori dalla stanza. L'amministrazione chiede collaborazione per garantire sicurezza nelle strutture. Lo riferisce Expresso das Ilhas.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/15/a-partir-de-19-de-outubro-huan-so-permite-dois-visitantes-por-doente/105108",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-15T18:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd26197cc",
+   "sez": "mondo",
+   "titolo": "Capo Verde: l'Ordine degli Avvocati propone di riflettere sulla fusione dei Tribunali della Relação",
+   "orig": "Ordem dos Advogados defende reflexão sobre fusão dos Tribunais da Relação",
+   "lead": "Nell'ambito delle audizioni per raccogliere contributi da enti del settore giustizia, in vista del dibattito parlamentare su Capo Verde previsto per la seconda sessione plenaria di ottobre, l'Ordine degli Avvocati ha proposto di valutare con serenità l'unione dei due Tribunali della Relação, creando sezioni specializzate per gestire i processi urgenti, tra cui quelli penali accumulati e quelli civili, amministrativi e del lavoro. Secondo Júlio Martins, un tribunale unico con sette magistrati lavorerebbe meglio di due separati. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "I Tribunali da Relação sono organi giudiziari d'appello in alcuni paesi lusofoni; la loro eventuale fusione punta a razionalizzare risorse e ridurre l'arretrato giudiziario attraverso una gestione più efficiente dei magistrati disponibili."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/15/ordem-dos-advogados-defende-reflexao-sobre-fusao-dos-tribunais-da-relacao/105107",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-15T17:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z335887f3",
+   "sez": "mondo",
+   "titolo": "RDC: l'inviato ONU Huang Xia individua quattro priorità per una pace duratura nell'Est",
+   "orig": "Crise dans l’Est de la RDC : Huang Xia identifie quatre priorités pour réduire l’écart entre les avancées diplomatiques et la réalité du terrain en vue d’une paix durable",
+   "lead": "L'inviato speciale del segretario generale delle Nazioni Unite per la regione dei Grandi Laghi, Huang Xia, ha presentato giovedì 15 ottobre piste di soluzione per ridurre lo scarto, descritto come evidente, tra i progressi diplomatici raggiunti sulla crisi nell'est della Repubblica Democratica del Congo e la realtà sul terreno. L'inviato ha identificato quattro priorità da seguire per favorire una pace duratura nella regione. Lo riferisce Actualite.cd.",
+   "more": [
+    "La regione dei Grandi Laghi, in particolare l'est della RDC, è da anni teatro di conflitti armati legati a gruppi ribelli, risorse minerarie e tensioni regionali, oggetto di ripetuti tentativi diplomatici internazionali di mediazione."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/crise-dans-lest-de-la-rdc-huang-xia-identifie-quatre-priorites-pour-reduire-lecart-entre",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T17:40+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8771e080",
+   "sez": "mondo",
+   "titolo": "RDC: il FRN avvia a Goma il nuovo anno accademico nonostante la decisione di Kinshasa",
+   "orig": "RDC : le FRN lance une nouvelle année académique à Goma malgré la décision de Kinshasa",
+   "lead": "L'anno accademico 2026-2027 è stato ufficialmente avviato giovedì 15 ottobre a Goma, nel Nord Kivu, zona controllata dal Fronte per la rifondazione della nazione (FRN), nonostante una decisione contraria presa da Kinshasa. L'iniziativa evidenzia la frattura amministrativa tra il governo centrale congolese e le autorità che controllano il territorio nella regione orientale del paese. Lo riferisce Actualite.cd.",
+   "more": [
+    "Il Nord Kivu, nell'est della Repubblica Democratica del Congo, è attualmente controllato da gruppi armati che hanno creato strutture amministrative parallele a quelle statali, inclusi sistemi scolastici alternativi a quelli riconosciuti da Kinshasa."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/rdc-le-frn-lance-une-nouvelle-annee-academique-goma-malgre-la-decision-de-kinshasa",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T17:27+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd486712d",
+   "sez": "mondo",
+   "titolo": "RDC: a Kinshasa parte la cartografia censitaria del secondo censimento generale della popolazione",
+   "orig": "RGPH-2 : la cartographie censitaire démarre à Kinshasa, les équipes accueillies favorablement à Kingabwa et Ndanu",
+   "lead": "A Kinshasa è iniziata la cartografia censitaria del secondo censimento generale della popolazione e dell'habitat (RGPH-2), con la consegna del materiale di lavoro ai capi brigata lunedì 12 ottobre. Le squadre incaricate sono state accolte favorevolmente nei quartieri di Kingabwa e Ndanu, dove hanno iniziato le operazioni sul campo. Lo riferisce Actualite.cd.",
+   "more": [
+    "Il censimento generale della popolazione è un'operazione statistica periodica che serve a contare e descrivere la popolazione e le abitazioni di un paese, fornendo dati essenziali per pianificazione e politiche pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/rgph-2-la-cartographie-censitaire-demarre-kinshasa-les-equipes-accueillies-favorablement",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T17:23+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "za8662a17",
+   "sez": "mondo",
+   "titolo": "RDC: a Kinshasa i tassisti annunciano due giorni di sciopero contro la tassa di parcheggio",
+   "orig": "Kinshasa : flou autour de la taxe de stationnement et embouteillages, les chauffeurs annoncent une grève de deux jours à dater de ce lundi",
+   "lead": "La Corporazione delle associazioni dei conducenti della città di Kinshasa ha annunciato uno sciopero di due giorni, dal lunedì 19 al martedì 20 ottobre 2026, su tutto il territorio della capitale congolese. La protesta nasce dalla confusione sulla tassa di stazionamento e sugli ingorghi, su cui i conducenti chiedono chiarezza alle autorità cittadine. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/15/kinshasa-flou-autour-de-la-taxe-de-stationnement-et-embouteillages-les-chauffeurs",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T17:17+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb8770155",
+   "sez": "mondo",
+   "titolo": "Panama: la funivia tra la capitale e San Miguelito pronta tra il 2028 e il 2029",
+   "orig": "Teleférico de Panamá y San Miguelito estaría listo entre 2028 y 2029",
+   "lead": "Il progetto di funivia che collegherà Panama City e il distretto di San Miguelito dovrebbe essere completato tra il 2028 e il 2029. La linea avrà un'estensione di 6,6 chilometri e conterà sei stazioni, quattro delle quali si troveranno nel distretto di San Miguelito e due in quello di Panama. Lo riferisce Panamá América.",
+   "more": [
+    "Le funivie urbane sono sistemi di trasporto pubblico su cavo utilizzati in diverse città per collegare zone difficili da servire con mezzi tradizionali, spesso aree collinari o densamente urbanizzate con traffico intenso."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/teleferico-de-panama-y-san-miguelito-estaria-listo-entre-2028-y-2029-1267537",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1e7fd7fe",
+   "sez": "mondo",
+   "titolo": "Panama: il Ministero dell'Istruzione valuta il ritorno a lezioni in presenza, online o per moduli",
+   "orig": "Meduca evalúa retorno a clases presencial, virtual y por módulos",
+   "lead": "Il Ministero dell'Istruzione di Panama (Meduca) sta valutando diverse modalità per il ritorno alle lezioni, tra presenza in aula, didattica a distanza e sistema a moduli. La decisione definitiva dipenderà dalle condizioni degli edifici scolastici e dalle alternative didattiche che il ministero individuerà come più adeguate. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/meduca-evalua-retorno-clases-presencial-virtual-y-por-modulos-1267524",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2fae495a",
+   "sez": "mondo",
+   "titolo": "Panama: desolazione a Soná e Mariato, le comunità del sud di Veraguas ricevono i primi aiuti dopo il sismo",
+   "orig": "Desolación en Soná y Mariato: Comunidades del sur veragüense reciben primeras donaciones tras sismo",
+   "lead": "Le comunità di Soná e Mariato, nella provincia di Veraguas, nel sud di Panama, hanno iniziato a ricevere le prime donazioni dopo un sisma che ha causato danni severi nella zona. La popolazione locale affronta condizioni di desolazione mentre arrivano i primi soccorsi e aiuti materiali destinati agli abitanti colpiti dal terremoto. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/provincias/desolacion-en-sona-y-mariato-comunidades-del-sur-veraguense-reciben-primeras-donaciones",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z53db6d4a",
+   "sez": "mondo",
+   "titolo": "Bolivia: l'alleanza Unidad denuncerà e chiederà la decadenza di Nilton Condori e Alejandro Reyes",
+   "orig": "Unidad denunciará y pedirá quitar el curul a Nilton Condori y Alejandro Reyes",
+   "lead": "L'alleanza politica Unidad ha annunciato che denuncerà alle commissioni etiche il deputato Alejandro Reyes e il senatore Nilton Condori, chiedendo inoltre che venga loro revocato il seggio parlamentare. L'organizzazione accusa entrambi i parlamentari di essersi legati a personaggi ritenuti controversi. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/unidad-denunciara-pedira-quitar-curul-nilton-condori-alejandro-reyes/20261015131327997659.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T13:13-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0a4c70bb",
+   "sez": "economia",
+   "titolo": "Bolivia: aumentano fino al 35% i prezzi dei biglietti del trasporto interdipartimentale",
+   "orig": "Incrementan hasta el 35% los pasajes del transporte interdepartamental",
+   "lead": "Il governo boliviano e i trasportatori hanno concordato un aumento transitorio fino al 35% delle tariffe del trasporto interdipartimentale, attraverso una fascia tariffaria che fissa un prezzo massimo mantenendo invariato quello minimo già in vigore. L'accordo riguarda i collegamenti tra i diversi dipartimenti del paese. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/incrementan-35-pasajes-transporte-interdepartamental/20261015123605997657.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T12:36-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1c6b2375",
+   "sez": "sport",
+   "titolo": "Tennis: Carlos Alcaraz accetta una wild card per il torneo di Vienna",
+   "orig": "Carlos Alcaraz accepts wild-card berth in Vienna",
+   "lead": "Il tennista spagnolo Carlos Alcaraz ha accettato un invito come wild card per partecipare al torneo di Vienna. La partecipazione dello spagnolo, tra i protagonisti del circuito ATP, rafforza il livello del tabellone dell'evento austriaco. Lo riferisce CNA.",
+   "more": [
+    "La wild card è un invito a partecipare a un torneo concesso a un giocatore che non si è qualificato attraverso il normale sistema di ranking, spesso usato per attirare nomi di richiamo o favorire giocatori locali."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/carlos-alcaraz-accepts-wild-card-berth-in-vienna-6463631",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T02:07+08:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/tenis/831614/karlos-alkaras-se-nakon-pet-godina-vraca-u-bec",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-15T17:11+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z245f1747",
+   "sez": "sport",
+   "titolo": "Calcio: la FIFA modificherà l'articolo 27 del codice disciplinare dopo il caso Balogun",
+   "orig": "FIFA to amend Article 27 of disciplinary code after Balogun case",
+   "lead": "La FIFA ha annunciato l'intenzione di modificare l'articolo 27 del proprio codice disciplinare in seguito al caso che ha coinvolto il calciatore Balogun. La decisione segue le criticità emerse dal caso specifico, che hanno portato l'organo calcistico internazionale a rivedere la normativa vigente. Lo riferisce CNA.",
+   "more": [
+    "Il codice disciplinare della FIFA stabilisce le regole e le sanzioni applicabili a giocatori, allenatori e federazioni per violazioni delle norme sportive, comprese le questioni legate a eleggibilità e cambi di nazionalità sportiva."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/fifa-amend-article-27-disciplinary-code-after-balogun-case-6463341",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T01:49+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2772e022",
+   "sez": "tech",
+   "titolo": "Amazon lancia due nuovi dispositivi di ascolto portatili basati sull'IA",
+   "orig": "Amazon launches two new portable AI listening devices",
+   "lead": "Amazon ha lanciato due nuovi dispositivi di ascolto portatili basati sull'intelligenza artificiale, pensati per integrare funzioni di assistente vocale e analisi vocale avanzata nella vita quotidiana degli utenti. L'azienda punta ad ampliare la propria gamma di gadget indossabili dotati di IA, in un mercato sempre più competitivo dominato da grandi gruppi tecnologici. Lo riferisce CNA.",
+   "more": [
+    "Amazon è una delle maggiori aziende tecnologiche al mondo, nota per l'e-commerce e per l'assistente vocale Alexa; negli ultimi anni ha ampliato gli investimenti in dispositivi indossabili e intelligenza artificiale per restare competitiva rispetto a concorrenti come Google e Apple."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/amazon-launches-two-new-portable-ai-listening-devices-6463321",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T01:43+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z252f2aa1",
+   "sez": "tech",
+   "titolo": "Anthropic concede a METR l'accesso ai propri modelli IA",
+   "orig": "Anthropic grants AI evaluator METR employee-level access to its models",
+   "lead": "Anthropic ha concesso a METR, organizzazione indipendente di valutazione dei sistemi di intelligenza artificiale, un accesso di livello dipendente ai propri modelli, per consentire controlli più approfonditi sulla sicurezza e sulle capacità delle tecnologie sviluppate dall'azienda. La mossa rientra negli sforzi del settore per rendere più trasparenti le verifiche esterne sui sistemi di IA avanzata. Lo riferisce CNA.",
+   "more": [
+    "Anthropic è un'azienda statunitense specializzata nello sviluppo di modelli di intelligenza artificiale, nota per il chatbot Claude; METR è un gruppo di ricerca indipendente che valuta rischi e capacità dei sistemi di IA avanzati per conto di sviluppatori e regolatori."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/anthropic-grants-ai-evaluator-metr-employee-level-access-its-models-6463306",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T01:35+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z087b116c",
+   "sez": "economia",
+   "titolo": "Il Nasdaq scivola ai minimi da un mese mentre si aggrava la vendita dei titoli IA",
+   "orig": "Nasdaq slides to near one-month low as AI rout deepens",
+   "lead": "L'indice Nasdaq è sceso ai minimi di quasi un mese, mentre si intensifica la vendita dei titoli legati all'intelligenza artificiale sui mercati statunitensi. Il calo riflette le crescenti preoccupazioni degli investitori per le valutazioni elevate raggiunte dalle società tecnologiche legate all'IA. Lo riferisce CNA.",
+   "more": [
+    "Il Nasdaq è il principale indice borsistico statunitense per i titoli tecnologici; negli ultimi anni è stato trainato dalla corsa all'intelligenza artificiale, ma periodiche correzioni emergono quando gli investitori temono valutazioni eccessive rispetto ai profitti reali."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/nasdaq-slides-near-one-month-low-ai-rout-deepens-6463166",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T00:49+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z15260f4e",
+   "sez": "mondo",
+   "titolo": "Gli Houthi colpiscono il palazzo presidenziale ad Aden",
+   "orig": "Jemen: Huthis griffen Präsidentenpalast in Aden an",
+   "lead": "I ribelli Houthi hanno colpito con missili il palazzo presidenziale ad Aden, sede del governo yemenita riconosciuto internazionalmente, in quello che viene descritto come un nuovo attacco alle istituzioni statali. L'episodio si inserisce nel conflitto in corso tra gli Houthi, che controllano il nord dello Yemen, e il governo sostenuto dalla coalizione a guida saudita nel sud del paese. Lo riferisce ORF.",
+   "more": [
+    "Gli Houthi sono un movimento armato yemenita di ispirazione sciita che controlla gran parte del nord dello Yemen dal 2014, in guerra contro il governo yemenita riconosciuto a livello internazionale e la coalizione militare guidata dall'Arabia Saudita."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445220/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T20:14+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z13b6853c",
+   "sez": "mondo",
+   "titolo": "Francia e Germania spingono per ammorbidire ulteriormente lo stop ai motori a combustione",
+   "orig": "Verbrenner-Aus: Paris und Berlin für weitere Aufweichung",
+   "lead": "Francia e Germania si sono espresse a favore di un ulteriore ammorbidimento del divieto europeo sui motori a combustione interna previsto dal 2035, chiedendo maggiore flessibilità nelle regole sulle emissioni per l'industria automobilistica. La posizione dei due governi potrebbe influenzare il dibattito in sede europea sulla revisione della normativa. Lo riferisce ORF.",
+   "more": [
+    "Il divieto europeo di vendita di nuove auto a motore a combustione dal 2035 è una misura chiave del Green Deal dell'Unione europea per ridurre le emissioni dei trasporti; negli ultimi mesi diversi Paesi e case automobilistiche ne chiedono una revisione per le difficoltà del settore."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445218/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T20:01+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z969547fa",
+   "sez": "mondo",
+   "titolo": "Il parlamento austriaco vota per la revoca dell'immunità del deputato SPÖ Kocevar",
+   "orig": "Nationalrat: „Auslieferung“ für SPÖ-Mandatar Kocevar",
+   "lead": "Il Nationalrat, la camera bassa del parlamento austriaco, ha votato a favore della revoca dell'immunità del deputato socialdemocratico Kocevar, permettendo così la sua consegna alla giustizia per proseguire un procedimento a suo carico. Lo riferisce ORF.",
+   "more": [
+    "Il Nationalrat è la camera bassa del parlamento austriaco; i suoi membri godono di immunità parlamentare che può essere revocata con un voto dell'assemblea per consentire indagini giudiziarie nei loro confronti."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445216/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T19:45+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd321f81c",
+   "sez": "mondo",
+   "titolo": "La premio Nobel Matwijtschuk si esprime sulla situazione in Ucraina",
+   "orig": "Friedensnobelpreisträgerin Matwijtschuk zur Lage in der Ukraine",
+   "lead": "La premio Nobel per la pace Oleksandra Matwijtschuk ha espresso la propria valutazione sulla situazione in Ucraina, offrendo una prospettiva sulla guerra in corso nel paese. Lo riferisce ORF.",
+   "more": [
+    "Oleksandra Matviichuk è un'attivista ucraina per i diritti umani, insignita del Nobel per la pace nel 2022 come guida dell'organizzazione Center for Civil Liberties, impegnata nella documentazione dei crimini di guerra in Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445214/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T18:53+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zffc4f7ba",
+   "sez": "mondo",
+   "titolo": "Attacco a una petroliera al largo della costa rumena, marinai dispersi",
+   "orig": "Angriff auf Tanker vor rumänischer Küste: Seeleute vermisst",
+   "lead": "Una petroliera è stata attaccata al largo della costa rumena nel Mar Nero, e alcuni membri dell'equipaggio risultano dispersi dopo l'incidente. Le autorità stanno indagando sulle circostanze dell'attacco in un'area già teatro di tensioni legate alla guerra in Ucraina. Lo riferisce ORF.",
+   "more": [
+    "Il Mar Nero è diventato una zona di crescente pericolo per il traffico marittimo dall'inizio della guerra russo-ucraina, con attacchi a infrastrutture portuali e imbarcazioni che hanno coinvolto petroliere e navi commerciali di vari Paesi."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445212/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T18:44+02:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/15/mundo/noticia/novos-ataques-navios-largo-costa-bulgara-sete-marinheiros-desaparecidos-2191533",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-15T17:40+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z49d3311b",
+   "sez": "mondo",
+   "titolo": "Quattro persone in custodia cautelare in Norvegia per frode legata alla NATO",
+   "orig": "Fire varetægtsfængsles i Norge for Nato-fusk",
+   "lead": "Quattro persone sono state poste in custodia cautelare in Norvegia con l'accusa di frode legata alla NATO, in un'indagine che coinvolge presunte irregolarità collegate all'alleanza militare. Le autorità norvegesi proseguono gli accertamenti sul caso. Lo riferisce DR Nyheder.",
+   "more": [
+    "La NATO è l'alleanza militare occidentale di cui la Norvegia è membro fondatore; casi di frode legati a contratti o fondi collegati all'organizzazione vengono generalmente perseguiti dalle autorità giudiziarie nazionali dei Paesi membri."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/fire-varetaegtsfaengsles-i-norge-nato-fusk",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-15T17:58+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd091abbc",
+   "sez": "mondo",
+   "titolo": "Giornata delle donne rurali: le agricoltrici del Batéké chiedono più sostegno",
+   "orig": "Journée internationale des femmes rurales : sur le plateau des Batéké, les fermières réclament davantage de soutien",
+   "lead": "In occasione della Giornata internazionale delle donne rurali, le agricoltrici dell'altopiano dei Batéké, nella Repubblica Democratica del Congo, hanno chiesto un maggiore sostegno alle loro attività agricole, denunciando le difficoltà che affrontano quotidianamente nel loro lavoro. Lo riferisce Radio Okapi.",
+   "more": [
+    "L'altopiano dei Batéké è una regione rurale della Repubblica Democratica del Congo, vicino a Kinshasa, dove l'agricoltura rappresenta una delle principali fonti di sostentamento per le comunità locali, spesso con accesso limitato a infrastrutture e risorse."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/15/actualite/societe/journee-internationale-des-femmes-rurales-sur-le-plateau-des-bateke-les",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T17:16+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbb0dca21",
+   "sez": "mondo",
+   "titolo": "Seul annuncia il riesame sul caso dell'indagine sui figli di Han Dong-hoon",
+   "orig": "한동훈 자녀 부실 수사 의혹에…서울경찰청장 “재점검할 것”",
+   "lead": "Il capo della polizia di Seul ha annunciato che verrà riesaminato il caso riguardante i sospetti di un'indagine condotta in modo negligente sui figli del politico Han Dong-hoon, dopo le accuse sollevate sulla gestione del procedimento. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Han Dong-hoon è un politico sudcoreano, ex ministro della Giustizia ed ex leader del Partito del Potere Popolare, figura di rilievo nella politica conservatrice sudcoreana, spesso al centro di controversie politiche e giudiziarie."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/society/society_general/1282653.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb3349102",
+   "sez": "mondo",
+   "titolo": "I meteorologi seguono l'evoluzione di una tempesta tropicale nel Pacifico",
+   "orig": "Forecasters watch progress of Pacific storm",
+   "lead": "I meteorologi stanno monitorando l'evoluzione di una tempesta tropicale nel Pacifico che potrebbe avvicinarsi a Taiwan nei prossimi giorni. Le autorità seguono con attenzione la traiettoria del sistema per valutare eventuali rischi per l'isola. Lo riferisce Taipei Times.",
+   "more": [
+    "Taiwan si trova in un'area frequentemente colpita da tifoni e tempeste tropicali originati nel Pacifico occidentale, motivo per cui le autorità meteorologiche locali monitorano costantemente l'evoluzione di questi sistemi nella stagione."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866048",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z83a0675a",
+   "sez": "salute",
+   "titolo": "Taiwan evidenzia i risultati della raccolta di sigarette elettroniche",
+   "orig": "HPA touts e-cigarette collection rate",
+   "lead": "L'Health Promotion Administration (HPA) di Taiwan ha evidenziato i risultati raggiunti nella raccolta delle sigarette elettroniche, nell'ambito degli sforzi delle autorità sanitarie per contrastarne la diffusione sull'isola. Lo riferisce Taipei Times.",
+   "more": [
+    "L'Health Promotion Administration è l'agenzia governativa taiwanese responsabile delle politiche di prevenzione sanitaria, incluse le campagne contro il fumo e la regolamentazione delle sigarette elettroniche, sempre più diffuse tra i giovani."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866049",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc78b5a22",
+   "sez": "mondo",
+   "titolo": "Gli Stati Uniti valuterebbero di colpire l'Iran con una bomba MOAB, secondo CNN",
+   "orig": "US considering hitting Iran with ‘MOAB’: CNN",
+   "lead": "Gli Stati Uniti starebbero valutando di colpire l'Iran con una bomba MOAB, secondo quanto riportato da CNN e ripreso da Taipei Times, in un contesto di crescenti tensioni tra Washington e Teheran. Lo riferisce Taipei Times.",
+   "more": [
+    "Il MOAB (Massive Ordnance Air Blast) è una delle bombe convenzionali non nucleari più potenti nell'arsenale statunitense, utilizzata raramente e considerata un'arma di grande impatto distruttivo contro obiettivi fortificati o su larga area."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866050",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z03f6eb12",
+   "sez": "mondo",
+   "titolo": "Terzo round di colloqui sul futuro politico del Venezuela",
+   "orig": "Venezuela holds third round of talks on political future",
+   "lead": "Si è svolto un terzo round di colloqui sul futuro politico del Venezuela, nel quadro degli sforzi internazionali per trovare una soluzione alla crisi politica che attraversa il paese sudamericano. Lo riferisce Taipei Times.",
+   "more": [
+    "Il Venezuela attraversa da anni una grave crisi politica ed economica, con il governo di Nicolás Maduro contestato da parte dell'opposizione e da diversi Paesi occidentali, in un contesto di ripetuti tentativi di mediazione internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/16/2003866051",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z527438a4",
+   "sez": "mondo",
+   "titolo": "Taiwan resta in allerta per possibili nuove esercitazioni del PLA",
+   "orig": "Ministry on guard for PLA exercises",
+   "lead": "Il ministero della Difesa di Taiwan ha dichiarato di restare in allerta per possibili nuove esercitazioni militari dell'Esercito Popolare di Liberazione cinese nell'area circostante l'isola. Lo riferisce Taipei Times.",
+   "more": [
+    "L'Esercito Popolare di Liberazione è la forza armata della Repubblica Popolare Cinese, che negli ultimi anni ha intensificato esercitazioni militari attorno a Taiwan, isola che Pechino rivendica come proprio territorio nonostante l'autogoverno di fatto."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/16/2003866057",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4e45b5bb",
+   "sez": "mondo",
+   "titolo": "Lo Yuan esecutivo di Taiwan scettico sul piano per l'aeroporto di Songshan",
+   "orig": "Executive Yuan skeptical of Songshan plan",
+   "lead": "Lo Yuan esecutivo di Taiwan ha espresso scetticismo riguardo a un piano relativo all'aeroporto di Songshan, senza che siano stati forniti ulteriori dettagli sulle ragioni della contrarietà. Lo riferisce Taipei Times.",
+   "more": [
+    "Lo Yuan esecutivo è l'organo di governo di Taiwan, equivalente a un consiglio dei ministri; l'aeroporto di Songshan si trova a Taipei ed è oggetto da tempo di dibattiti sulle possibili trasformazioni del suo utilizzo."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/16/2003866058",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3e64c63e",
+   "sez": "mondo",
+   "titolo": "I ristoranti rurali giapponesi faticano ad attrarre lavoratori stranieri",
+   "orig": "Japan's rural restaurants go hungry in fight for foreign talent",
+   "lead": "I ristoranti nelle aree rurali del Giappone faticano ad attirare lavoratori stranieri, in un contesto di crescente concorrenza per la manodopera migrante con le aree urbane e altri settori economici. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Il Giappone affronta da anni una carenza di manodopera dovuta all'invecchiamento della popolazione, che ha spinto il governo ad aprire maggiormente a lavoratori stranieri, sebbene le zone rurali restino meno attrattive rispetto ai centri urbani."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/spotlight/japan-immigration/japan-s-rural-restaurants-go-hungry-in-fight-for-foreign-talent",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z128abdd1",
+   "sez": "mondo",
+   "titolo": "Aliyev incontra l'Emiro del Qatar, video pubblicato sui social",
+   "orig": "Footage about President Ilham Aliyev's meeting with with Amir of State of Qatar posted on his social media (VIDEO)",
+   "lead": "Il presidente azero Ilham Aliyev ha incontrato l'Emiro del Qatar, come mostrato in un video pubblicato sui suoi canali social ufficiali, nell'ambito dei rapporti diplomatici tra i due Paesi. Lo riferisce Trend.",
+   "more": [
+    "L'Azerbaigian e il Qatar intrattengono relazioni diplomatiche ed economiche, spesso rafforzate da incontri bilaterali tra i rispettivi capi di Stato su temi di cooperazione politica ed energetica."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4235397.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T21:45+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc2538db4",
+   "sez": "mondo",
+   "titolo": "Alena Aliyeva condivide immagini della conferenza sull'occupazione inclusiva a Baku",
+   "orig": "Alena Aliyeva shares footage from 1st International Inclusive Employment Conference in Baku (PHOTO/VIDEO)",
+   "lead": "Alena Aliyeva ha condiviso immagini e video della prima Conferenza internazionale sull'occupazione inclusiva svoltasi a Baku, un evento dedicato ai temi dell'inclusione lavorativa delle persone con disabilità. Lo riferisce Trend.",
+   "more": [
+    "L'occupazione inclusiva riguarda le politiche e le pratiche volte a garantire pari opportunità lavorative alle persone con disabilità, tema al centro di crescente attenzione internazionale da parte di governi e organizzazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4235390.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T21:10+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1fff9f47",
+   "sez": "mondo",
+   "titolo": "ECOLAND prevede il ripristino di 140.000 ettari in Uzbekistan",
+   "orig": "Uzbekistan to restore 140,000 hectares under ECOLAND project - UNDP (Exclusive)",
+   "lead": "Il progetto ECOLAND in Uzbekistan prevede il ripristino di 140.000 ettari di terreno, nell'ambito di un'iniziativa sostenuta dal Programma delle Nazioni Unite per lo sviluppo (UNDP) per promuovere mezzi di sussistenza rurali sostenibili. Lo riferisce Trend.",
+   "more": [
+    "L'UNDP è l'agenzia delle Nazioni Unite che sostiene programmi di sviluppo sostenibile nei Paesi membri; l'Uzbekistan, Paese dell'Asia centrale a forte vocazione agricola, affronta sfide ambientali legate alla desertificazione e alla gestione delle risorse idriche."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235316.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T21:00+04:00"
+    },
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235338.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T22:00+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "za50c6304",
+   "sez": "economia",
+   "titolo": "Audit: le perdite di WAMCO nel 2022 salgono a 127,88 milioni di rufiyaa",
+   "orig": "Audit reveals WAMCO’s 2022 losses unfurled to MVR 127.88m, with total losses past MVR 480m",
+   "lead": "Un audit ha rivelato che le perdite di WAMCO nel 2022 sono salite a 127,88 milioni di rufiyaa maldiviane, portando il totale delle perdite accumulate dall'azienda oltre i 480 milioni di rufiyaa. Lo riferisce Sun Online.",
+   "more": [
+    "WAMCO è un'azienda maldiviana attiva nella gestione dei rifiuti; le perdite finanziarie di aziende pubbliche sono spesso oggetto di controllo da parte delle autorità per valutare l'efficienza della gestione e l'uso dei fondi pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109584",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T23:07+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf224165d",
+   "sez": "mondo",
+   "titolo": "Il mancato uso dello Stretto di Hormuz colpisce l'agricoltura maldiviana",
+   "orig": "ހުރްމުޒް ކަނޑުއޮޅި ބޭނުން ނުކުރެވޭތީ ދަނޑުވެރިކަމުގެ ދާއިރާއަށް ނޭދެވޭ އަސަރުތައް",
+   "lead": "L'impossibilità di utilizzare lo Stretto di Hormuz sta avendo ripercussioni negative sul settore agricolo delle Maldive, con conseguenze sulle attività legate all'importazione di prodotti necessari all'agricoltura. Lo riferisce PSM News.",
+   "more": [
+    "Lo Stretto di Hormuz è un passaggio marittimo strategico tra il Golfo Persico e il Mar Arabico, cruciale per il trasporto di petrolio e merci; eventuali blocchi o restrizioni al suo utilizzo possono avere effetti su diversi settori economici nei Paesi della regione, incluse le Maldive che dipendono dalle importazioni."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190284",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T22:19+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2e1a15f2",
+   "sez": "mondo",
+   "titolo": "Japarov in visita ufficiale in Armenia dal 15 al 17 ottobre",
+   "orig": "Sadyr Japarov to pay official visit to Armenia on October 15-17",
+   "lead": "Il presidente kirghiso Sadyr Japarov effettuerà una visita ufficiale in Armenia dal 15 al 17 ottobre, nell'ambito dei rapporti bilaterali tra i due Paesi dell'area post-sovietica. Lo riferisce AKIpress.",
+   "more": [
+    "Il Kirghizistan e l'Armenia sono entrambi membri dell'Unione economica eurasiatica, organizzazione che promuove la cooperazione economica tra diversi Paesi dell'ex Unione Sovietica; le visite ufficiali tra capi di Stato rafforzano solitamente i legami politici e commerciali bilaterali."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925237",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-16T00:10+06:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
+   "id": "zef971536",
+   "sez": "mondo",
+   "titolo": "L'iniziativa Sasakawa migliora la nutrizione dei bambini reinseriti dalle strade di Kampala",
+   "orig": "Sasakawa Initiative Boosts Nutrition for Children Resettled from Kampala Streets",
+   "lead": "A Kampala, in Uganda, un programma legato all'iniziativa Sasakawa sta migliorando la nutrizione dei bambini che sono stati allontanati dalla vita di strada e reinseriti in percorsi di assistenza. L'iniziativa punta a garantire a questi minori un'alimentazione adeguata come parte del processo di recupero e reintegrazione sociale. Non sono riportati ulteriori dettagli su numeri o tempistiche dell'intervento. Lo riferisce Nile Post.",
+   "more": [
+    "Kampala, capitale dell'Uganda, convive da anni con il fenomeno dei minori di strada, spesso privi di accesso regolare a cibo, istruzione e cure sanitarie. Programmi di reinserimento come quello citato cercano di offrire loro percorsi di recupero attraverso assistenza alimentare, sanitaria ed educativa, in collaborazione con organizzazioni locali e internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/378978/sasakawa-initiative-boosts-nutrition-for-children-resettled-from-kampala-streets",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-15T21:10+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "21:06",
+   "uscita": "sera"
+  },
+  {
    "id": "z35bb6ca6",
    "sez": "mondo",
    "titolo": "Nilufar Allabergenova nominata vice procuratore di Tashkent",
@@ -939,30 +2106,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-15T18:45+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "21:03",
-   "uscita": "sera"
-  },
-  {
-   "id": "z3893a971",
-   "sez": "mondo",
-   "titolo": "Nuovi attacchi a navi al largo della costa bulgara nel Mar Nero: sette marinai scomparsi",
-   "orig": "Novos ataques a navios ao largo da costa búlgara. Sete marinheiros desaparecidos",
-   "lead": "Nei giorni scorsi si sono intensificati gli attacchi con drone nel Mar Nero al largo della costa bulgara. Una petroliera con bandiera di San Marino è stata colpita e sette marinai risultano scomparsi. Lo riferisce Público.",
-   "more": [
-    "Il Mar Nero è diventato teatro di crescenti tensioni militari e attacchi legati al conflitto in corso nella regione, con petroliere e navi mercantili spesso prese di mira da attacchi con drone, mettendo a rischio la sicurezza della navigazione commerciale internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/10/15/mundo/noticia/novos-ataques-navios-largo-costa-bulgara-sete-marinheiros-desaparecidos-2191533",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-15T17:40+00:00"
     }
    ],
    "data": "15 ott",
@@ -16284,30 +17427,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Montenegro",
      "t": "2026-10-15T17:14+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "17:42",
-   "uscita": "17"
-  },
-  {
-   "id": "z28d6ee72",
-   "sez": "sport",
-   "titolo": "Carlos Alcaraz torna a Vienna dopo cinque anni",
-   "orig": "Karlos Alkaras se nakon pet godina vraća u Beč",
-   "lead": "Il tennista spagnolo Carlos Alcaraz farà il suo ritorno al torneo di Vienna dopo cinque anni di assenza. Nel 2021, l'ultima volta che vi aveva giocato, si era dimostrato superiore al britannico Andy Murray in Austria. Lo riferisce Vijesti.",
-   "more": [
-    "Il torneo di Vienna è uno degli appuntamenti indoor più prestigiosi del circuito europeo di fine stagione, tradizionalmente frequentato dai migliori tennisti del mondo nelle settimane che precedono le ATP Finals."
-   ],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/sport/tenis/831614/karlos-alkaras-se-nakon-pet-godina-vraca-u-bec",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-15T17:11+02:00"
     }
    ],
    "data": "15 ott",
@@ -36492,6 +37611,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Angola",
      "t": "2026-10-15T09:15+00:00"
+    },
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/politica/detalhe/estado-da-nacao-oposicao-acusa-pr-de-ter-feito-discurso-alheado-da-realidade-economica-mpla-elogia-determinacao-modernizacao-e-desenvolvimento-75382.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-15T17:26+00:00"
     }
    ],
    "data": "15 ott",
@@ -43456,7 +44584,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z351b6a08": "HotNews riprende il racconto della rivista People sulla scoperta casuale della statua.",
   "z739dabee": "Prishtina Insight segnala lo scontro politico tra il governo e l'opposizione sul tema dei valori familiari.",
   "zc3a2016c": "Vijesti collega il sequestro alla chiusura della rotta siriana dopo la caduta di Assad.",
-  "z28d6ee72": "Vijesti sottolinea il precedente storico tra Alcaraz e Murray nel torneo austriaco.",
   "zc569ef18": "Vijesti collega la vicenda Guilfoyle a un pattern più ampio di nomine controverse dell'amministrazione Trump.",
   "z0d7cde30": "Si tratta di un commento d'opinione pubblicato da Vijesti nel contesto del dibattito sulla legge sugli stranieri.",
   "z4fe43c22": "OC Media evidenzia il rischio che le sanzioni ai media tradizionali si estendano al web.",
@@ -44145,7 +45272,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z5cd902d9": "La testata analizza il fascino del genere televisivo attraverso il ruolo dell'attrice protagonista.",
   "z4d7c5a6d": "El País riporta la posizione del collettivo che denuncia una disparità di trattamento tra categorie di nazionalizzati.",
   "z5c2cc0ec": "El Mundo sottolinea le criticità e le sanzioni comunali legate all'accampamento.",
-  "z3893a971": "Público riporta l'intensificarsi degli attacchi e il bilancio dei marinai scomparsi.",
   "z9b649eb1": "Público riporta le accuse con dettagli sulle ferite subite dai detenuti.",
   "zb7f2dd4d": "Público mette in luce il confronto politico tra PSD e PS sulle modifiche al testo normativo.",
   "z250d0601": "Público riporta il monito presidenziale sulla necessità del dialogo politico.",
@@ -44190,7 +45316,56 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zeacec47c": "Bondia evidenzia l'obiettivo di valorizzare i prodotti locali attraverso l'evento gastronomico.",
   "z05d82273": "Bondia riporta l'intervento del sindaco sulla capacità di adattamento istituzionale di Andorra.",
   "zf1fa5561": "Seneweb segnala la soglia record prevista per i consumi natalizi negli Stati Uniti.",
-  "z9d1684b9": "Seneweb riporta il punto di vista delle attiviste che considerano l'iniziativa una svolta."
+  "z9d1684b9": "Seneweb riporta il punto di vista delle attiviste che considerano l'iniziativa una svolta.",
+  "z9c08819a": "Seneweb mette in evidenza l'esigenza di controllo e rendicontazione sui fondi climatici destinati all'Africa.",
+  "z76f9a16f": "Seneweb riporta la volontà ministeriale di superare la frammentazione tra gli atenei senegalesi.",
+  "zdd1c2a9b": "Tchadinfos racconta l'iniziativa del governo locale per favorire il dialogo preventivo tra le comunità.",
+  "z710aefaa": "Tchadinfos riporta in breve il cambio di tutela amministrativa deciso per decreto.",
+  "zc454051f": "Tchadinfos descrive l'evento come occasione di avvicinamento tra l'agenzia e il pubblico.",
+  "z1a3c6414": "Actu Cameroun riporta l'allerta istituzionale senza approfondire i dettagli del contenzioso.",
+  "z123e56ba": "La Nouvelle Tribune presenta la mossa come parte di una strategia nazionale per la leadership regionale nell'oro.",
+  "z81d26e35": "Africaguinee presenta l'iniziativa come parte dell'impegno sociale dell'agenzia verso le comunità locali.",
+  "zf8f2c28b": "Africaguinee descrive l'ultima fase organizzativa in vista del concorso pubblico regionale.",
+  "za0c0e301": "Alakhbar riporta le dichiarazioni istituzionali del neo-ministro al momento dell'insediamento.",
+  "zcb56cba4": "Alakhbar segnala l'elevato numero di competitori per l'appalto energetico nazionale.",
+  "zce953ca7": "Expresso das Ilhas riporta le nuove regole ospedaliere motivate da esigenze di sicurezza e ordine interno.",
+  "zd26197cc": "Expresso das Ilhas riporta la proposta dell'Ordine degli Avvocati come contributo al dibattito parlamentare sulla giustizia.",
+  "z335887f3": "Actualite.cd riporta le valutazioni dell'inviato ONU sul divario tra diplomazia e realtà sul terreno.",
+  "z8771e080": "Actualite.cd segnala la sfida all'autorità centrale rappresentata dall'apertura dell'anno scolastico a Goma.",
+  "zd486712d": "Actualite.cd racconta l'avvio positivo delle operazioni sul campo nella capitale congolese.",
+  "za8662a17": "Actualite.cd riferisce le motivazioni della protesta annunciata dai conducenti kinois.",
+  "zb8770155": "Panamá América presenta i dettagli tecnici del progetto infrastrutturale e la sua tempistica.",
+  "z1e7fd7fe": "Panamá América riporta le opzioni ancora in valutazione da parte dell'autorità scolastica nazionale.",
+  "z2fae495a": "Panamá América documenta l'arrivo dei primi aiuti nelle comunità colpite dal sisma.",
+  "z53db6d4a": "Opinión riporta le accuse e le richieste dell'alleanza Unidad contro i due parlamentari.",
+  "z0a4c70bb": "Opinión descrive i termini dell'accordo tariffario raggiunto tra governo e trasportatori.",
+  "z1c6b2375": "CNA riporta semplicemente la decisione del tennista di accettare l'invito al torneo.",
+  "z245f1747": "CNA riporta l'annuncio della FIFA come conseguenza diretta del caso Balogun.",
+  "z2772e022": "CNA presenta il lancio come un passo dell'espansione di Amazon nei dispositivi indossabili basati sull'IA.",
+  "z252f2aa1": "CNA presenta l'iniziativa come segnale di maggiore apertura di Anthropic alla valutazione esterna.",
+  "z087b116c": "CNA inquadra il calo come parte di una più ampia correzione dei titoli legati all'IA.",
+  "z15260f4e": "ORF specifica che il bersaglio è stato il palazzo presidenziale ad Aden.",
+  "z13b6853c": "ORF riporta la richiesta congiunta di Parigi e Berlino per allentare le regole europee.",
+  "z969547fa": "ORF riporta il voto parlamentare sulla revoca dell'immunità.",
+  "zd321f81c": "ORF dà voce alla premio Nobel sulla situazione ucraina.",
+  "zffc4f7ba": "ORF segnala la scomparsa di marinai dopo l'attacco alla nave.",
+  "z49d3311b": "DR Nyheder riporta la custodia cautelare disposta per i quattro indagati.",
+  "zd091abbc": "Radio Okapi dà voce alle richieste delle agricoltrici locali.",
+  "zbb0dca21": "The Hankyoreh segnala l'impegno della polizia a riesaminare il caso.",
+  "zb3349102": "Taipei Times segue l'evoluzione della tempesta in avvicinamento.",
+  "z83a0675a": "Taipei Times mette in rilievo il dato sulla raccolta riuscita dall'HPA.",
+  "zc78b5a22": "Taipei Times riprende l'indiscrezione di CNN sui piani statunitensi.",
+  "z03f6eb12": "Taipei Times segnala la prosecuzione dei negoziati sul futuro del paese.",
+  "z527438a4": "Taipei Times evidenzia la vigilanza del ministero sulle manovre cinesi.",
+  "z4e45b5bb": "Taipei Times riporta la cautela del governo sul piano per l'aeroporto.",
+  "z3e64c63e": "Nikkei Asia mette in luce le difficoltà delle attività rurali giapponesi.",
+  "z128abdd1": "Trend diffonde le immagini dell'incontro pubblicate dallo stesso Aliyev.",
+  "zc2538db4": "Trend riprende il materiale condiviso da Aliyeva sull'evento.",
+  "z1fff9f47": "Trend fornisce il dato specifico sugli ettari da ripristinare nel progetto.",
+  "za50c6304": "Sun Online riporta i dati dell'audit sulle perdite accumulate dall'azienda.",
+  "zf224165d": "PSM News segnala le conseguenze economiche per il settore agricolo locale.",
+  "z2e1a15f2": "AKIpress annuncia il programma della visita presidenziale.",
+  "zef971536": "La testata ugandese presenta l'iniziativa in chiave positiva, sottolineando il beneficio nutrizionale per i minori coinvolti."
  },
  "contesti": {
   "z18ad243f": "Harry e Meghan erano tornati a vivere nel Regno Unito dopo anni trascorsi negli Stati Uniti, ma non avevano ancora compiuto apparizioni pubbliche insieme fino a questa visita a Nottingham, città simbolicamente legata alla loro storia di coppia.",
@@ -52618,13 +53793,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z28d6ee72": {
-   "n": "Vienna",
-   "p": [
-    "Austria"
-   ],
-   "pt": []
-  },
   "zc569ef18": {
    "n": "Washington",
    "p": [
@@ -57541,13 +58709,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "z3893a971": {
-   "n": "Mar Nero, al largo della Bulgaria",
-   "p": [
-    "Bulgaria"
-   ],
-   "pt": []
-  },
   "z9b649eb1": {
    "n": "Israele",
    "p": [
@@ -57859,6 +59020,350 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Dakar",
    "p": [
     "Senegal"
+   ],
+   "pt": []
+  },
+  "z9c08819a": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z76f9a16f": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zdd1c2a9b": {
+   "n": "Laoukassi",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z710aefaa": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zc454051f": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z1a3c6414": {
+   "n": "Maroua",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z123e56ba": {
+   "n": "Abidjan",
+   "p": [
+    "Côte d'Ivoire"
+   ],
+   "pt": []
+  },
+  "z81d26e35": {
+   "n": "Forécariah",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zf8f2c28b": {
+   "n": "Nzérékoré",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "za0c0e301": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "zcb56cba4": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "zce953ca7": {
+   "n": "Praia",
+   "p": [
+    "Cabo Verde"
+   ],
+   "pt": []
+  },
+  "zd26197cc": {
+   "n": "Praia",
+   "p": [
+    "Cabo Verde"
+   ],
+   "pt": []
+  },
+  "z335887f3": {
+   "n": "Goma",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z8771e080": {
+   "n": "Goma",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zd486712d": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "za8662a17": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zb8770155": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z1e7fd7fe": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z2fae495a": {
+   "n": "Veraguas",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z53db6d4a": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z0a4c70bb": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z1c6b2375": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z245f1747": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z2772e022": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z252f2aa1": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z087b116c": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z15260f4e": {
+   "n": "Aden",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z13b6853c": {
+   "n": "Unione europea",
+   "p": [
+    "France",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z969547fa": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zd321f81c": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zffc4f7ba": {
+   "n": "Mar Nero",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z49d3311b": {
+   "n": "Norvegia",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "zd091abbc": {
+   "n": "Altopiano dei Batéké",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zbb0dca21": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zb3349102": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z83a0675a": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zc78b5a22": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z03f6eb12": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z527438a4": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z4e45b5bb": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z3e64c63e": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z128abdd1": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zc2538db4": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z1fff9f47": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "za50c6304": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zf224165d": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z2e1a15f2": {
+   "n": "Armenia",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "zef971536": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
    ],
    "pt": []
   }
@@ -58772,7 +60277,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z351b6a08": 1,
   "z739dabee": 1,
   "zc3a2016c": 1,
-  "z28d6ee72": 1,
   "zc569ef18": 2,
   "z0d7cde30": 1,
   "z4fe43c22": 1,
@@ -59482,7 +60986,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z5cd902d9": 1,
   "z4d7c5a6d": 1,
   "z5c2cc0ec": 1,
-  "z3893a971": 2,
   "z9b649eb1": 1,
   "zb7f2dd4d": 1,
   "z250d0601": 1,
@@ -59527,7 +61030,56 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zeacec47c": 1,
   "z05d82273": 1,
   "zf1fa5561": 1,
-  "z9d1684b9": 1
+  "z9d1684b9": 1,
+  "z9c08819a": 1,
+  "z76f9a16f": 1,
+  "zdd1c2a9b": 1,
+  "z710aefaa": 1,
+  "zc454051f": 1,
+  "z1a3c6414": 1,
+  "z123e56ba": 1,
+  "z81d26e35": 1,
+  "zf8f2c28b": 1,
+  "za0c0e301": 1,
+  "zcb56cba4": 1,
+  "zce953ca7": 1,
+  "zd26197cc": 1,
+  "z335887f3": 1,
+  "z8771e080": 1,
+  "zd486712d": 1,
+  "za8662a17": 1,
+  "zb8770155": 1,
+  "z1e7fd7fe": 1,
+  "z2fae495a": 2,
+  "z53db6d4a": 1,
+  "z0a4c70bb": 1,
+  "z1c6b2375": 2,
+  "z245f1747": 1,
+  "z2772e022": 1,
+  "z252f2aa1": 1,
+  "z087b116c": 1,
+  "z15260f4e": 2,
+  "z13b6853c": 1,
+  "z969547fa": 1,
+  "zd321f81c": 1,
+  "zffc4f7ba": 2,
+  "z49d3311b": 1,
+  "zd091abbc": 1,
+  "zbb0dca21": 1,
+  "zb3349102": 1,
+  "z83a0675a": 1,
+  "zc78b5a22": 1,
+  "z03f6eb12": 1,
+  "z527438a4": 1,
+  "z4e45b5bb": 1,
+  "z3e64c63e": 1,
+  "z128abdd1": 1,
+  "zc2538db4": 1,
+  "z1fff9f47": 1,
+  "za50c6304": 1,
+  "zf224165d": 1,
+  "z2e1a15f2": 1,
+  "zef971536": 1
  },
  "video": {},
  "pillole": []
