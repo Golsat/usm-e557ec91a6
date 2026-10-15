@@ -3,15 +3,1236 @@ window.EDIZIONI["2026-10-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "ze2e30cfb",
-   "sez": "tech",
-   "titolo": "Pubblicità zero-click usate per infettare i dispositivi dei giornalisti con spyware",
-   "orig": "Zero-click ads used to infect journalists’ devices with spyware, investigation finds",
-   "lead": "Un'inchiesta basata su un rapporto di Citizen Lab ha rivelato che alcune società israeliane hanno condotto attacchi informatici mirati contro giornalisti sfruttando annunci pubblicitari online. Il sistema impiegato sfrutta la tecnologia zero-click, che non richiede alcuna interazione o clic da parte dell'utente per installare lo spyware sui dispositivi presi di mira. Lo riferisce The Globe and Mail.",
+   "id": "z75063c36",
+   "sez": "mondo",
+   "titolo": "Seul esprime preoccupazione per le parole del comandante delle forze Usa sul controllo operativo",
+   "orig": "Defense minister says S. Korea conveys concerns over USFK chief's OPCON remarks",
+   "lead": "Il ministro della Difesa sudcoreano Kang Shin-chul ha dichiarato giovedì che la Corea del Sud ha espresso formale preoccupazione in merito alle recenti dichiarazioni rilasciate dal comandante delle forze statunitensi di stanza nel Paese (Usfk). Al centro del confronto diplomatico e militare vi è il delicato tema del trasferimento del controllo operativo in tempo di guerra (Opcon), un passaggio strategico cruciale per l'alleanza bilaterale e per l'autonomia difensiva di Seul nella penisola coreana. Lo riferisce Yonhap.",
    "more": [
-    "Gli attacchi informatici definiti zero-click rappresentano una minaccia particolarmente insidiosa poiché riescono a compromettere telefoni e computer senza che la vittima compia alcuna azione, come aprire un file o premere su un collegamento. Gli spyware installati con queste modalità consentono il monitoraggio continuo delle attività digitali, la sottrazione di comunicazioni riservate e l'accesso ai dati personali."
+    "Il controllo operativo definisce l'autorità di comando sulle forze armate congiunte durante un conflitto su larga scala. Attualmente, in caso di guerra nella penisola coreana, la guida operativa spetta a un generale statunitense alla testa del comando congiunto, una formula risalente alla guerra di Corea che Seul cerca da tempo di riformare."
    ],
    "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261015010900315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-15T18:47+09:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z26b14386",
+   "sez": "economia",
+   "titolo": "Imprese di Corea del Sud e Usa chiedono sostegni per accelerare gli investimenti coreani",
+   "orig": "S. Korean, U.S. biz leaders call for support to accelerate Korean investment projects in U.S.",
+   "lead": "I vertici delle comunità imprenditoriali di Corea del Sud e Stati Uniti hanno rivolto un appello congiunto per ottenere un maggiore supporto istituzionale, con l'obiettivo di velocizzare e consolidare i progetti di investimento sudcoreani sul territorio statunitense. La richiesta è emersa durante un incontro di alto livello a Seul, in cui i leader aziendali hanno sottolineato la necessità di agevolare l'impegno finanziario e produttivo delle imprese per rafforzare le catene del valore condivise tra le due economie alleate. Lo riferisce Yonhap.",
+   "more": [
+    "Negli ultimi anni i colossi industriali della Corea del Sud hanno avviato imponenti piani di espansione negli Stati Uniti, in particolare nei settori strategici dei semiconduttori, delle batterie elettriche e delle tecnologie avanzate, spinti da incentivi governativi e dalla riorganizzazione delle filiere globali."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261015010800320",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-15T18:14+09:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z23060afa",
+   "sez": "economia",
+   "titolo": "Corea del Sud e Giappone prorogano di tre anni l'accordo di swap valutario da dieci miliardi",
+   "orig": "(LEAD) Seoul, Tokyo agree to extend US$10 bln currency swap deal by another 3 yrs",
+   "lead": "Corea del Sud e Giappone hanno raggiunto un'intesa a Bangkok per prolungare di altri tre anni il loro accordo di swap valutario da dieci miliardi di dollari. L'estensione del meccanismo finanziario bilaterale garantisce una solida rete di sicurezza contro eventuali shock di liquidità o instabilità nei mercati internazionali dei cambi, segnando un ulteriore passo in avanti nel percorso di distensione e collaborazione economica tra i governi di Seul e Tokyo sul fronte regionale asiatico. Lo riferisce Yonhap.",
+   "more": [
+    "Un accordo di swap valutario permette a due banche centrali di scambiarsi reciprocamente le proprie valute a tassi concordati. Questo strumento viene utilizzato per prevenire crisi finanziarie, offrendo riserve rapide in caso di improvvisa carenza di valuta estera o forti fluttuazioni valutarie."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261015008951320",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-15T17:18+09:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z702e88d8",
+   "sez": "economia",
+   "titolo": "Commercianti indiani valutano l'impatto delle future commissioni sulle transazioni Upi",
+   "orig": "India retailers weigh impact of upcoming UPI transaction fees",
+   "lead": "I negozianti in India stanno analizzando le ripercussioni legate alla prossima introduzione di commissioni sulle transazioni tramite il circuito di pagamento digitale Upi. L'avvio dei rincari, rinviato a dopo le festività di Deepavali, potrebbe spingere alcuni commercianti a incentivare metodi alternativi di pagamento, nonostante gli analisti ritengano tali tariffe indispensabili per garantire la sostenibilità e la manutenzione di una rete in rapidissima crescita su scala nazionale per le transazioni di ogni giorno. Lo riferisce CNA.",
+   "more": [
+    "La Unified Payments Interface è la piattaforma di pagamento istantaneo sviluppata in India che ha rivoluzionato il commercio locale, consentendo trasferimenti immediati tra conti bancari tramite telefoni cellulari e codici digitali diffusi sia nei grandi magazzini che nei piccoli banchi di strada."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/asia/upi-india-payment-charges-fees-digital-6462066",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T18:20+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z10c2dc36",
+   "sez": "economia",
+   "titolo": "Nuova Zelanda: il tribunale del lavoro riconosce cinque ballerine come lavoratrici dipendenti",
+   "orig": "Employment Court rules five Calendar Girls dancers were employees, not contractors",
+   "lead": "La corte del lavoro della Nuova Zelanda ha stabilito che cinque ex ballerine impiegate in uno strip club della catena Calendar Girls a Wellington erano a tutti gli effetti dipendenti e non lavoratrici autonome. Le donne hanno vinto la loro causa sostenendo di essere state gestite con i vincoli tipici del lavoro subordinato, pur avendo contratti formalmente registrati come collaboratrici esterne. La sentenza sancisce un principio rilevante sui diritti occupazionali nel settore dell'intrattenimento per adulti. Lo riferisce RNZ.",
+   "more": [
+    "La distinzione contrattuale tra dipendente e lavoratore autonomo incide su tutele fondamentali quali ferie pagate, indennità di malattia e tutele contro il licenziamento illegittimo. I tribunali del lavoro valutano il livello effettivo di controllo esercitato dal datore sull'attività quotidiana."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/crime-and-justice/1930800/employment-court-rules-five-calendar-girls-dancers-were-employees-not-contractors",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-15T20:51+13:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z274b1274",
+   "sez": "economia",
+   "titolo": "Hong Kong: a Shek Mun un'area residenziale all'asta per circa 960 alloggi",
+   "orig": "Shek Mun residential site to yield 960 flats",
+   "lead": "Il governo di Hong Kong metterà all'asta questo trimestre un terreno residenziale a Shek Mun, con un potenziale edificatorio stimato in circa 960 alloggi. Il segretario allo Sviluppo Bernadette Linn ha spiegato che il sito, posizionato tra Tai Chung Kiu Road e On Sum Street vicino alla stazione della metropolitana, sorge in un quartiere già sviluppato con servizi commerciali e trasporti completi. Nel solo terzo trimestre le aree private dovrebbero consentire la realizzazione di 3.845 appartamenti. Lo riferisce RTHK.",
+   "more": [
+    "Hong Kong affronta da decenni una grave carenza di alloggi e prezzi immobiliari tra i più alti al mondo. L'amministrazione locale gestisce l'offerta abitativa attraverso la vendita e la concessione di terreni demaniali a sviluppatori privati tramite gare periodiche."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874078-20261015.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-15T17:47+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z1bbae5af",
+   "sez": "mondo",
+   "titolo": "Tentativo di truffa telefonica al capo della sicurezza di Hong Kong Chris Tang",
+   "orig": "Security chief Chris Tang receives scam call",
+   "lead": "Il segretario alla Sicurezza di Hong Kong Chris Tang ha reso noto giovedì di aver ricevuto una telefonata truffaldina da un individuo che si spacciava per funzionario del suo stesso ufficio. L'interlocutore ha accusato Tang di aver violato leggi della Cina continentale, intimandogli di recarsi al decimo piano della sede governativa per un controllo d'identità. Il ministro ha replicato sfidando l'impostore a raggiungerlo sul posto, ricordando che gli uffici istituzionali non chiedono verifiche con tali modalità. Lo riferisce RTHK.",
+   "more": [
+    "Le truffe telefoniche in cui i malintenzionati si fingono funzionari di polizia o autorità giudiziarie per estorcere denaro o dati sensibili rappresentano un fenomeno diffuso nell'area asiatica, contrastato regolarmente con campagne informative delle forze dell'ordine."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874061-20261015.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-15T15:43+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z293d5aac",
+   "sez": "mondo",
+   "titolo": "Atene lancia il servizio digitale per il rilascio del permesso di circolazione nella Ztl",
+   "orig": "Δήμος Αθηναίων: Ενεργοποιήθηκε η ψηφιακή υπηρεσία για την έκδοση Κάρτας Δακτυλίου",
+   "lead": "Il Comune di Atene ha attivato una nuova piattaforma digitale per richiedere e gestire il rilascio della speciale carta di circolazione per la zona a traffico limitato (Daktylios). La procedura si sposta così in un ambiente interamente telematico, consentendo ai cittadini aventi diritto di inviare la documentazione richiesta senza doversi recare di persona presso gli uffici municipali. L'iniziativa mira a semplificare l'iter burocratico e ad accelerare l'evasione delle pratiche per l'accesso veicolare nella capitale greca. Lo riferisce ERT News.",
+   "more": [
+    "Il sistema del Daktylios ad Atene è una storica misura di regolazione del traffico urbano che limita l'accesso al centro storico in determinati giorni e orari a targhe alterne o veicoli a basse emissioni, con lo scopo di ridurre l'inquinamento atmosferico e la congestione stradale."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/roi-idiseon/dimos-athinaion-energopoiithike-i-psifiaki-ypiresia-gia-tin-ekdosi-kartas-daktyliou/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-15T11:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z655f2f9e",
+   "sez": "economia",
+   "titolo": "Grecia: nell'Ebro il gasolio da riscaldamento apre a 1,60 euro al litro grazie ai sussidi",
+   "orig": "Στο 1,60 ευρώ/λίτρο το πετρέλαιο στον Έβρο – «Θα αγοράζαμε στα 2 ευρώ χωρίς την επιδότηση» λένε οι πρατηριούχοι",
+   "lead": "Nel nord dell'Ebro i prezzi di vendita del gasolio da riscaldamento oscillano attualmente tra 1,58 e 1,62 euro al litro. Lo ha comunicato la presidente dei distributori di carburante della zona, Vasiliki Kalaitzi, sottolineando come l'intervento del sussidio pubblico abbia evitato che i prezzi al consumo raggiungessero la soglia dei 2 euro al litro. Nonostante le preoccupazioni degli ultimi tempi per le quotazioni energetiche, gli operatori locali hanno espresso sollievo per l'attenuazione dell'impatto sulle famiglie dell'area. Lo riferisce ERT News.",
+   "more": [
+    "L'Ebro è una regione periferica nel nord-est della Grecia, caratterizzata da inverni rigidi che rendono il riscaldamento domestico una voce di spesa primaria per la popolazione locale, spesso esposta a maggiori costi di trasporto dei combustibili."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/perifereia/sto-1-60-eyro-litro-to-petrelaio-ston-evro-tha-agorazame-sta-2-eyro-xoris-tin-epidotisi-lene-oi-pratiriouxoi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-15T11:07+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "za98d4787",
+   "sez": "economia",
+   "titolo": "Macedonia del Nord: Kromberg e Schubert investe a Bitola creando duemila posti per Audi",
+   "orig": "Нова инвестиција на „Кромберг и Шуберт“ - отвора 2.000 работни места во Битола за производство на делови за „Ауди“",
+   "lead": "L'azienda tedesca Kromberg e Schubert ha avviato un nuovo piano di investimenti nella città di Bitola, che prevede l'assunzione di duemila persone nell'arco dei prossimi quattro anni. Il progetto industriale è dedicato alla produzione di componentistica per autovetture a marchio Audi, consolidando la presenza della multinazionale in territorio macedone. L'iniziativa rappresenta una spinta economica rilevante per l'occupazione dell'area meridionale del Paese balcanico, attirando attività produttive specializzate per il settore automobilistico europeo. Lo riferisce MIA (inglese).",
+   "more": [
+    "L'industria della componentistica per auto è uno dei principali settori manifatturieri attratti nei Paesi dei Balcani occidentali, favorita da costi competitivi, manodopera qualificata e vicinanza geografica con gli impianti di assemblaggio dell'Unione Europea."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%98%D0%B0-%D0%BD%D0%B0-%D0%BA%D1%80%D0%BE%D0%BC%D0%B1%D0%B5%D1%80%D0%B3-%D0%B8-%D1%88%D1%83%D0%B1%D0%B5%D1%80%D1%82-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B0-2.000-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8-%D0%BC%D0%B5%D1%81%D1%82%D0%B0-%D0%B2%D0%BE-%D0%B1%D0%B8%D1%82%D0%BE%D0%BB%D0%B0-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0-%D0%B4%D0%B5%D0%BB%D0%BE%D0%B2%D0%B8-%D0%B7%D0%B0-%D0%B0%D1%83%D0%B4%D0%B8",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-15T13:19+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z4ca6e002",
+   "sez": "mondo",
+   "titolo": "Macedonia del Nord: cooperazione transfrontaliera e percorso Ue al centro dell'incontro con Atene",
+   "orig": "Прекуграничната соработка и европската интеграција, теми на средбата на Сали со новиот грчки амбасадор",
+   "lead": "La cooperazione transfrontaliera, i progetti sostenuti dal fondo europeo Ipa III e i progressi di Skopje verso l'adesione all'Unione Europea sono stati i temi principali discussi nell'incontro tra le autorità macedoni e la nuova rappresentanza diplomatica greca. Il colloquio ha ribadito l'impegno a rafforzare le relazioni di vicinato tra i due Paesi e a promuovere iniziative condivise per lo sviluppo economico e infrastrutturale delle regioni di confine, all'interno del quadro tracciato dagli accordi e dagli standard comunitari europei. Lo riferisce MIA (inglese).",
+   "more": [
+    "Lo strumento di assistenza preadesione (Ipa) dell'Unione Europea finanzia riforme e investimenti nei Paesi candidati per allinearli ai parametri comunitari, incentivando la collaborazione transfrontaliera e le infrastrutture comuni tra nazioni limitrofe."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BF%D1%80%D0%B5%D0%BA%D1%83%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B0%D1%82%D0%B0-%D1%81%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B8-%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%98%D0%B0-%D1%82%D0%B5%D0%BC%D0%B8-%D0%BD%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D0%B1%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BB%D0%B8-%D1%81%D0%BE-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BE%D1%82-%D0%B3%D1%80%D1%87%D0%BA%D0%B8-%D0%B0%D0%BC%D0%B1%D0%B0%D1%81%D0%B0%D0%B4%D0%BE%D1%80",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-15T13:06+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z32fa4a2c",
+   "sez": "mondo",
+   "titolo": "Moldavia: contributi fino a 300mila lei ai municipi per nuovi centri di aggregazione giovanile",
+   "orig": "Grants for APL up to 300 thousand lei for opening youth centers",
+   "lead": "Le amministrazioni comunali della Moldavia potranno beneficiare di sovvenzioni fino a 300mila lei destinate alla creazione di nuovi centri per la gioventù nel corso del 2027. Il programma di finanziamento è stato varato dall'Agenzia nazionale per i giovani (Ant) per incoraggiare le autorità pubbliche locali ad allestire spazi dedicati alla formazione, alle attività sociali e alla partecipazione civica delle nuove generazioni nelle diverse circoscrizioni del territorio moldavo. Lo riferisce IPN (inglese).",
+   "more": [
+    "I centri giovanili in Moldavia costituiscono strutture di riferimento a livello locale per promuovere il volontariato, lo sviluppo di competenze extrascolastiche e percorsi di aggregazione sociale contro l'isolamento dei giovani nei piccoli centri urbani e rurali."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/grants-for-apl-up-to-300-thousand-lei-for-opening-youth-centers/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-15T09:56+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z76c4cd90",
+   "sez": "economia",
+   "titolo": "Moldavia: sale a 150 chilowattora la soglia di consumo elettrico esente da Iva",
+   "orig": "The VAT-free electricity consumption ceiling increases from 100 to 150 kWh",
+   "lead": "Il governo della Moldavia ha stabilito l'innalzamento del tetto mensile di consumo di energia elettrica esente dall'imposta sul valore aggiunto, portandolo da 100 a 150 chilowattora. Su tale fascia di consumo non verrà applicata l'aliquota Iva del 20%, una misura confermata dal ministero dell'Energia per alleggerire l'impatto delle bollette energetiche sulle famiglie a basso o medio consumo e per offrire un sostegno mirato dinanzi ai costi delle utenze domestiche nel Paese. Lo riferisce IPN (inglese).",
+   "more": [
+    "Le imposte sui consumi energetici di base possono incidere pesantemente sul potere d'acquisto dei cittadini nei periodi freddi. L'esenzione fiscale parziale viene impiegata dai governi come scudo sociale per proteggere i consumi essenziali delle utenze domestiche."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/the-vat-free-electricity-consumption-ceiling-increases-from-100-to-150-kwh/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-15T09:42+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z28375719",
+   "sez": "economia",
+   "titolo": "Moldavia: inaugurate a Moldexpo le fiere dell'agricoltura Moldagrotech e Farmer 2026",
+   "orig": "The Moldagrotech and Farmer 2026 exhibitions were inaugurated at Moldexpo",
+   "lead": "Presso il centro espositivo Moldexpo sono state inaugurate giovedì le edizioni autunnali delle fiere internazionali Moldagrotech e Farmer 2026. L'appuntamento richiama produttori, agronomi e fornitori specializzati di macchinari e attrezzature per il settore agricolo, offrendo una vetrina dedicata all'innovazione tecnologica, alla modernizzazione delle coltivazioni e agli scambi commerciali per sostenere la competitività e l'efficienza delle aziende rurali nel contesto dei mercati regionali ed europei. Lo riferisce IPN (inglese).",
+   "more": [
+    "Il comparto agricolo ricopre un peso strategico primario per l'economia della Moldavia, rappresentando una quota fondamentale dell'occupazione e delle esportazioni, dove l'adozione di macchinari moderni è considerata cruciale per aumentare la produttività."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/the-moldagrotech-and-farmer-2026-exhibitions-were-inaugurated-at-moldexpo/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-15T09:40+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z6826cca0",
+   "sez": "mondo",
+   "titolo": "Armenia: si apre il processo a carico del leader politico Gagik Tsarukyan",
+   "orig": "Մեկնարկել է Գագիկ Ծառուկյանի դատավարությունը",
+   "lead": "Ha preso il via in Armenia il procedimento giudiziario nei confronti del noto politico e magnate Gagik Tsarukyan. Insieme a lui siedono sul banco degli imputati altre otto persone, tutte chiamate a rispondere delle accuse formalizzate dalla procura nell'ambito di un'indagine giudiziaria di alto profilo che interessa il panorama politico nazionale. L'avvio delle udienze segna l'inizio di un dibattimento seguito con grande attenzione da istituzioni e opinione pubblica. Lo riferisce Azatutyun (inglese).",
+   "more": [
+    "Gagik Tsarukyan è una delle figure più conosciute dell'imprenditoria e della politica armena contemporanea, fondatore del partito di opposizione Armenia Prospera e protagonista per anni della vita parlamentare ed economica del Paese caucasico."
+   ],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/meknarkel-e-gagik-tsaroukyani-datavaroutyouny/33877183.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-15T14:59+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z512292b3",
+   "sez": "ambiente",
+   "titolo": "Armenia: la Turchia parteciperà a livello ministeriale alla Cop17 sulla biodiversità",
+   "orig": "Թուրքիայից COP 17-ին նախարարական մակարդակով մասնակցություն լինելու է. Փաշինյան",
+   "lead": "La Turchia prenderà parte con una delegazione di livello ministeriale alla diciassettesima Conferenza delle parti sulla biodiversità (Cop17), che quest'anno sarà ospitata in Armenia. L'annuncio è stato dato dal primo ministro Nikol Pashinyan durante un punto stampa, nel quale ha invece precisato di non avere conferme circa la presenza di rappresentanti dell'Azerbaigian. L'evento rappresenta uno dei principali vertici delle Nazioni Unite dedicati alla conservazione degli ecosistemi planetari. Lo riferisce Azatutyun (inglese).",
+   "more": [
+    "La Convenzione sulla diversità biologica adottata sotto l'egida dell'Onu definisce impegni vincolanti per tutelare flora, fauna ed ecosistemi mondiali, riunendo periodicamente i governi per fissare traguardi sulla sostenibilità e sull'arresto del degrado naturale."
+   ],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33877138.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-15T13:50+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z16cb34d0",
+   "sez": "organizzazioni",
+   "titolo": "La Santa Sede all'Osa sollecita la cooperazione contro il crimine e la tutela della persona",
+   "orig": "La Santa Sede all'Osa: contro il crimine rafforzare la cooperazione tra Stati",
+   "lead": "Intervenendo presso l'Organizzazione degli Stati americani, monsignor Juan Antonio Cruz Serrano, osservatore permanente della Santa Sede, ha invitato i governi del continente a rafforzare la cooperazione internazionale per contrastare la criminalità. Il rappresentante vaticano ha ribadito la necessità imprescindibile di collocare la dignità della persona umana al centro di ogni strategia di pubblica sicurezza, promuovendo percorsi integrati di legalità che non trascurino la protezione dei soggetti più vulnerabili. Lo riferisce Vatican News (italiano).",
+   "more": [
+    "L'Organizzazione degli Stati americani (Osa) è un organismo multilaterale regionale che riunisce le nazioni del continente americano per promuovere il dialogo politico, la difesa dei diritti umani, la sicurezza continentale e la collaborazione democratica tra i membri."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/vaticano/news/2026-10/santa-sede-cruz-serrano-osa-crimine-organizzato-transnazionale.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-15T12:26+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z36de7fba",
+   "sez": "organizzazioni",
+   "titolo": "La Santa Sede all'Onu chiede il disarmo immediato e regole sull'intelligenza artificiale bellica",
+   "orig": "La Santa Sede alle Nazioni Unite: il disarmo non è rinviabile",
+   "lead": "Durante l'81ª sessione dell'Assemblea Generale dell'Onu, l'osservatore permanente monsignor El Kassis ha esortato gli Stati a considerare il disarmo come un dovere non più rinviabile. La Santa Sede ha proposto uno strumento internazionale vincolante per regolamentare l'uso dell'intelligenza artificiale nel settore degli armamenti e difendere civili e infrastrutture. Sul tema della povertà e della fame, il delegato ha invitato a tradurre le promesse in volontà politica e stanziamenti concreti. Lo riferisce Vatican News (italiano).",
+   "more": [
+    "Il dibattito all'Assemblea Generale delle Nazioni Unite sul controllo degli armamenti autonomi coinvolge scienziati ed esperti etici, preoccupati che l'impiego di algoritmi e robot nelle decisioni di attacco possa sfuggire a un reale comando umano."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/vaticano/news/2026-10/el-cassis-sicurezza-nutrizione-onu.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-15T11:00+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z0b496317",
+   "sez": "sport",
+   "titolo": "Calcio: il Tropical Coriano incassa un pesante passo falso casalingo con il Pontedera",
+   "orig": "Tropical Coriano è una sconfitta che pesa",
+   "lead": "Sconfitta interna pesante per il Tropical Coriano, caduto tra le mura amiche al cospetto del Pontedera. La formazione guidata dal tecnico Di Maio non è riuscita a imporsi contro un avversario considerato alla portata e reduce da un momento di evidente difficoltà in classifica. Il risultato negativo complica il cammino della squadra, che sarà chiamata a una pronta reazione nei prossimi due impegni ufficiali molto ravvicinati in calendario. Lo riferisce San Marino RTV.",
+   "more": [
+    "I tornei dilettantistici e interregionali di calcio prevedono calendari fitti in cui la gestione dei turni ravvicinati diventa determinante per mantenere la categoria, rendendo particolarmente pesanti le battute d'arresto casalinghe contro rivali dirette."
+   ],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/calcio-c14/tropical-coriano-e-una-sconfitta-che-pesa-a297287",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-15T12:25+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zdf09ab33",
+   "sez": "cultura",
+   "titolo": "San Marino Rtv: il presidente Valentini accoglie la conferma del direttore Sergio",
+   "orig": "Il Presidente Valentini accoglie positivamente la disponibilità del Direttore Sergio",
+   "lead": "Il presidente di San Marino Rtv Valentini ha espresso soddisfazione per la disponibilità confermata dal direttore generale Sergio a proseguire la guida dell'emittente radiotelevisiva statale sammarinese. La decisione segue la formale deliberazione del Consiglio di amministrazione della Rai, che ha approvato la continuazione dell'incarico del manager. L'accordo consente di dare stabilità alla linea gestionale dell'azienda pubblica, consolidando il legame operativo tra la televisione del Titano e il servizio pubblico italiano. Lo riferisce San Marino RTV.",
+   "more": [
+    "San Marino Rtv è l'emittente radiotelevisiva pubblica della Repubblica di San Marino, nata da una partecipazione paritetica tra la televisione pubblica sammarinese e la Rai italiana per garantire l'informazione e la produzione culturale locale."
+   ],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/news/attualita-c4/il-presidente-valentini-accoglie-positivamente-la-disponibilita-del-direttore-sergio-a297282",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-15T11:26+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z51fa988a",
+   "sez": "tech",
+   "titolo": "Robotica: il Bhutan ottiene due premi al FIRST Global Challenge 2026 in Corea del Sud",
+   "orig": "Team Bhutan wins two awards at FIRST Global Challenge 2026 in South Korea",
+   "lead": "La delegazione studentesca del Bhutan ha conquistato due riconoscimenti ufficiali al FIRST Global Challenge 2026, prestigiosa gara internazionale di robotica ospitata in Corea del Sud. La squadra asiatica, composta da quattro giovani e due mentori, ha raggiunto il 47° posto finale su 185 nazioni partecipanti. La manifestazione impegna annualmente allievi da ogni parte del mondo nella progettazione e movimentazione di robot capaci di risolvere complessi problemi tecnici e sociali. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "Il FIRST Global Challenge è una competizione internazionale per studenti delle scuole secondarie volta a promuovere le discipline scientifiche e tecnologiche, favorendo la collaborazione tra nazioni per affrontare sfide contemporanee tramite l'ingegneria robotica."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247463/",
+     "angolo": "",
+     "atlas": "Bhutan",
+     "t": "2026-10-15T09:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z19b25cb9",
+   "sez": "tech",
+   "titolo": "Bhutan: lanciati tre percorsi formativi per intelligenza artificiale ed edilizia pubblica",
+   "orig": "RCSC and RIM launch three programmes to strengthen civil service skills",
+   "lead": "La Royal Civil Service Commission e il Royal Institute of Management del Bhutan hanno inaugurato tre nuovi programmi mirati a consolidare le competenze del personale statale, promuovere l'uso responsabile dell'intelligenza artificiale e perfezionare la direzione dei cantieri edili. Le iniziative comprendono la Digital Skills Academy, il polo didattico Ai Learning Hub e il corso per il Construction Management, per ammodernare l'efficienza della pubblica amministrazione e lo sviluppo infrastrutturale nazionale. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "La transizione tecnologica nel settore pubblico mira a formare dipendenti capaci di adoperare sistemi digitali avanzati, minimizzando gli sprechi nella spesa pubblica e accelerando l'erogazione dei servizi ai cittadini mediante processi informatici trasparenti."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247440/",
+     "angolo": "",
+     "atlas": "Bhutan",
+     "t": "2026-10-15T07:48+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zdfac0189",
+   "sez": "mondo",
+   "titolo": "Londra minaccia il blocco degli ingressi per i cittadini eritrei sui rimpatri dei migranti",
+   "orig": "UK threatens to ban Eritreans over migrant return policy",
+   "lead": "La ministra dell'Interno britannica Shabana Mahmood ha minacciato di vietare l'ingresso nel Regno Unito a tutti i cittadini eritrei qualora il governo di Asmara non accetti un maggior numero di rimpatri per chi attraversa la Manica su piccole imbarcazioni o ha commesso reati. Da giovedì i diplomatici eritrei subiranno restrizioni ai movimenti al di fuori di Londra, mentre sono stati sospesi i visti agevolati per le personalità di spicco. Lo riferisce Daily News (Tanzania).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/uk-threatens-to-ban-eritreans-over-migrant-return-policy/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-15T11:19+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z28b680c2",
+   "sez": "mondo",
+   "titolo": "La Tanzania a Tianjin punta sulla formazione tecnica per il mercato globale del lavoro",
+   "orig": "Tanzania uses TVET Conference to advance technical skills that suit global labour market",
+   "lead": "La Tanzania punta ad ampliare la propria presenza nei partenariati internazionali per potenziare l'istruzione professionale e preparare i giovani ai requisiti del mercato occupazionale mondiale. Alla conferenza mondiale sui percorsi professionali in corso a Tianjin, la delegazione guidata dal viceministro dell'Istruzione, Scienza e Tecnologia Wanu Hafidh Ameir ha valorizzato le competenze tecniche come strumento decisivo per colmare il divario con gli standard produttivi globali. Lo riferisce Daily News (Tanzania).",
+   "more": [
+    "La formazione tecnica e professionale (Tvet) comprende programmi educativi orientati all'apprendimento pratico di mestieri tecnici e industriali, fondamentali nei Paesi emergenti per sostenere lo sviluppo industriale e frenare la disoccupazione giovanile."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzania-uses-tvet-conference-to-advance-technical-skills-that-suit-global-labour-market/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-15T10:56+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z9ca3bb89",
+   "sez": "mondo",
+   "titolo": "Perquisita a Mosca l'abitazione del direttore di Novaja Gazeta",
+   "orig": "Russian police search home of Novaya Gazeta editor-in-chief Sergei Sokolov",
+   "lead": "Le forze dell'ordine russe hanno condotto una perquisizione nell'abitazione moscovita di Sergei Sokolov, direttore responsabile del celebre quotidiano indipendente russo Novaja Gazeta. L'intervento degli inquirenti all'interno del domicilio del giornalista è stato reso noto attraverso le indiscrezioni fornite da fonti delle forze di sicurezza locali alle testate informative Baza e Rbc, evidenziando una rinnovata pressione giudiziaria nei confronti delle ultime voci critiche e non allineate attive all'interno dei confini della Federazione Russa durante la fase bellica in corso. Lo riferisce Meduza.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/15/russian-police-search-home-of-novaya-gazeta-editor-in-chief-sergei-sokolov",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-15T14:11+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z36638104",
+   "sez": "mondo",
+   "titolo": "I governi europei respingono il piano di Washington sui beni russi congelati",
+   "orig": "FT: U.S. proposed unfreezing some Russian assets and placing them under Washington’s control; Europe rejected the plan",
+   "lead": "Gli Stati Uniti hanno presentato una proposta ai partner europei per sbloccare una porzione degli asset finanziari russi sottoposti a congelamento sin dall'inizio dell'invasione su vasta scala dell'Ucraina, con l'intento di trasferirne la gestione diretta a un organismo posto sotto il controllo di Washington. Il piano avanzato dall'amministrazione statunitense è stato tuttavia respinto dai governi europei, decisi a mantenere la piena sovranità gestionale sui fondi sovrani immobilizzati negli istituti di credito del continente. La ricostruzione della trattativa e del conseguente dissenso comunitario è stata svelata da quattro fonti qualificate al Financial Times. Lo riferisce Meduza.",
+   "more": [
+    "I beni russi bloccati all'estero sono costituiti in larga parte da riserve della banca centrale di Mosca depositate presso istituzioni finanziarie e camere di compensazione internazionali situate soprattutto in Europa. La destinazione di questi capitali congelati e dei relativi rendimenti rappresenta uno dei nodi diplomatici più complessi legati al finanziamento della difesa e alla futura ricostruzione postbellica del territorio ucraino."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/15/ft-u-s-proposed-unfreezing-some-russian-assets-and-placing-them-under-washington-s-control-europe-rejected-the-plan",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-15T11:28+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zeafffa48",
+   "sez": "spazio",
+   "titolo": "La Casa Bianca nega ogni ruolo nelle limitazioni a Starlink in Ucraina",
+   "orig": "Axios: White House denies role in Starlink restrictions in Ukraine",
+   "lead": "Un alto funzionario dell'amministrazione presidenziale degli Stati Uniti ha categoricamente smentito qualsiasi coinvolgimento diretto della Casa Bianca nelle restrizioni operative imposte alla rete satellitare Starlink sul territorio ucraino. La dichiarazione governativa, rilasciata alla testata Axios, intende allontanare da Washington i sospetti in merito a interferenze politiche sul funzionamento dell'infrastruttura di telecomunicazione orbitale. Il servizio privato di connettività internet via satellite si è rivelato cruciale per le comunicazioni strategiche e civili dell'Ucraina nel corso dell'invasione russa. Lo riferisce Meduza.",
+   "more": [
+    "Starlink è una costellazione di satelliti operanti in orbita terrestre bassa sviluppata dalla società aerospaziale SpaceX. Il sistema è progettato per fornire connessioni a internet ad alta velocità e a bassa latenza anche in contesti privi di infrastrutture di terra, rivelandosi essenziale nelle zone colpite da conflitti o calamità naturali."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/15/axios-white-house-denies-role-in-starlink-restrictions-in-ukraine",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-15T10:55+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zd3b8cf0f",
+   "sez": "mondo",
+   "titolo": "L'Irlanda spinge per l'integrazione di Kyiv nell'Unione europea",
+   "orig": "Integrating Ukraine into EU a powerful response to Russia's attacks, says Irish PM",
+   "lead": "Il primo ministro irlandese Micheál Martin ha dichiarato che l'integrazione dell'Ucraina all'interno dell'Unione europea rappresenta una risposta potente e necessaria agli attacchi militari sferrati dalla Russia. Il capo del governo di Dublino ha definito spaventose e orribili le azioni condotte dalle forze armate russe, sottolineando come queste dimostrino chiaramente che Vladimir Putin non ha alcun reale interesse a raggiungere una composizione pacifica del conflitto. Martin ha rimarcato l'obbligo dei partner europei di manifestare sostegno a Kyiv attraverso modalità concrete. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "L'allargamento dell'Unione europea prevede un percorso formale che richiede riforme legislative, democratiche ed economiche per allineare gli standard nazionali ai parametri comunitari. L'Ucraina ha ottenuto lo status di paese candidato poco dopo l'inizio del conflitto con la Russia, avviando una procedura accelerata considerata una garanzia di ancoraggio geopolitico al blocco occidentale."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/integrating-ukraine-into-eu-a-powerful-response-to-russias-attacks-says-irish-pm/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-15T09:39+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z36afb62a",
+   "sez": "mondo",
+   "titolo": "Tribunale blocca le sanzioni Usa sui gruppi che collaborano con l'Aia",
+   "orig": "US court blocks sanctions on groups assisting ICC Gaza investigation",
+   "lead": "Un giudice federale degli Stati Uniti ha emesso un'ingiunzione preliminare con cui blocca l'amministrazione guidata da Donald Trump dall'imporre sanzioni contro i gruppi per i diritti umani che forniscono prove alla Corte penale internazionale sulle presunte violazioni commesse nella Striscia di Gaza. La decisione della magistratura tutela temporaneamente le organizzazioni umanitarie e legali impegnate a trasmettere documentazione e testimonianze sui crimini di guerra al tribunale dell'Aia, frenando il tentativo della Casa Bianca di colpire economicamente chi collabora con la corte internazionale. Lo riferisce Mail & Guardian.",
+   "more": [
+    "La Corte penale internazionale, con sede all'Aia, è un tribunale permanente istituito dallo Statuto di Roma incaricato di perseguire penalmente individui accusati di genocidio, crimini contro l'umanità e crimini di guerra. La sua giurisdizione incontra frequenti tensioni con stati non firmatari del trattato istitutivo, tra i quali figurano gli Stati Uniti e Israele."
+   ],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/international/2026-10-15-us-court-blocks-sanctions-on-groups-assisting-icc-gaza-investigation/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-15T09:28+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zbac972fb",
+   "sez": "musica",
+   "titolo": "Fireboy svela la lista delle tracce del nuovo album Zuko!",
+   "orig": "Fireboy unveils 13-track ‘ZUKO!’ album tracklist",
+   "lead": "Il musicista nigeriano Fireboy ha ufficialmente annunciato la composizione del suo nuovo lavoro in studio intitolato Zuko!, pubblicando la scaletta composta da tredici tracce. La divulgazione del progetto discografico arriva a distanza di due anni esatti dall'uscita di Adedamola, che rappresentava il quarto album in carriera registrato dal noto interprete della scena afrobeats contemporanea. L'annuncio della tracklist segna una nuova tappa nella produzione artistica del cantautore africano, ampliando il repertorio presentato al pubblico globale. Lo riferisce Premium Times.",
+   "more": [
+    "L'afrobeats è un genere musicale contemporaneo originario dell'Africa occidentale che fonde sonorità tradizionali, highlife, ritmi fuji, pop ed elementi hip hop. Negli ultimi anni ha conquistato una vastissima popolarità sui mercati internazionali grazie a collaborazioni globali e piattaforme di streaming."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/entertainment/music/917299-fireboy-unveils-13-track-zuko-album-tracklist.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-15T10:44+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zee4f05f2",
+   "sez": "salute",
+   "titolo": "Nigeria, oltre duecento blitz contro alimenti e farmaci contraffatti",
+   "orig": "NAFDAC records 213 raids, 474 new cases in eight months",
+   "lead": "L'agenzia nazionale nigeriana per l'amministrazione e il controllo di cibi e farmaci ha portato a termine duecentotredici blitz e aperto quattrocentosettantaquattro nuovi procedimenti legali nell'arco di soli otto mesi di attività ispettiva. Gli interventi operativi sul campo hanno interessato settori quali l'alimentazione, i prodotti medicinali, la cosmesi, i dispositivi sanitari, l'acqua confezionata, le bevande e i composti chimici. Le operazioni rientrano nell'azione di contrasto per proteggere i consumatori dalla diffusione di articoli privi di requisiti di sicurezza, falsificati o nocivi per la salute pubblica. Lo riferisce Premium Times.",
+   "more": [
+    "Il contrasto alla vendita di farmaci e alimenti contraffatti è un pilastro fondamentale delle politiche sanitarie, particolarmente rilevante nei paesi in via di sviluppo dove la circolazione di medicinali adulterati comporta gravi pericoli per la vita dei pazienti e mina la fiducia verso i presidi medici."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/health/health-news/917293-nafdac-records-213-raids-474-new-cases-in-eight-months.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-15T10:43+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z5082e37e",
+   "sez": "economia",
+   "titolo": "Maxi sanzione antitrust nelle Filippine contro il cartello delle cipolle",
+   "orig": "PCC slaps onion cartel with record fine of P1.76B",
+   "lead": "L'autorità della concorrenza delle Filippine ha inflitto una sanzione finanziaria senza precedenti pari a un miliardo e tre quarti di peso nei confronti di un cartello commerciale attivo nella compravendita delle cipolle. Tra i destinatari del provvedimento punitivo figura anche Lilia Cruz, indicata come la presunta mente dell'intesa illecita e ribattezzata la regina delle cipolle. La decisione dell'organismo statale rappresenta la multa più consistente mai deliberata nella storia dell'agenzia antitrust per reprimere manipolazioni sleali dei prezzi agricoli sul mercato locale. Lo riferisce Rappler.",
+   "more": [
+    "Le autorità per la concorrenza vigilano sul corretto funzionamento dei mercati sanzionando cartelli e accordi collusivi tra imprese volti a fissare i prezzi o limitare le forniture di beni essenziali. Pratiche anticoncorrenziali nel settore agricolo possono alterare fortemente il costo della vita dei cittadini riducendo l'accesso ai beni primari."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/pcc-slaps-record-fine-billions-against-onion-cartel/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-15T16:18+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z32401d86",
+   "sez": "tech",
+   "titolo": "Il nuovo vertice dell'Ict filippino deve sanare contenziosi e appalti",
+   "orig": "New DICT chief faces task of putting house in order amid digital ambitions",
+   "lead": "Il nuovo responsabile del dipartimento delle tecnologie dell'informazione e della comunicazione delle Filippine, Robert Joseph de Claro, assume la guida del ministero trovandosi ad affrontare complesse vertenze su appalti controversi, contenziosi interni all'amministrazione e forti dubbi sulla capacità dell'ente di erogare servizi digitali essenziali alla cittadinanza. Il neo dirigente riceve la gestione dell'apparato statale in una fase di delicate ambizioni per la transizione tecnologica nazionale, con il compito prioritario di riorganizzare le procedure istituzionali dell'agenzia pubblica. Lo riferisce Rappler.",
+   "more": [
+    "I dipartimenti governativi dedicati alla tecnologia e all'informazione coordinano le infrastrutture di rete, i piani di digitalizzazione dei servizi pubblici e le politiche di sicurezza informatica. Il funzionamento efficiente degli appalti in questo comparto è fondamentale per garantire la trasparenza e l'accesso ai servizi per l'intera popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/technology/features/dict-chief-robert-de-claro-faces-task-house-order-digital-ambitions/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-15T15:44+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z61dda3af",
+   "sez": "sport",
+   "titolo": "Il portiere Beiranvand rinnova per tre anni con il Tractor",
+   "orig": "تمدید سه‌ساله قرارداد بیرانوند با تراکتور پس از عذرخواهی از زنوزی و هواداران",
+   "lead": "La società calcistica iraniana Tractor Tabriz ha ufficializzato il rinnovo contrattuale triennale di Alireza Beiranvand, portiere titolare della nazionale dell'Iran. L'accordo è stato raggiunto dopo un periodo di tensioni e contrasti tra l'estremo difensore e i vertici dirigenziali del club, attriti che avevano determinato l'esclusione provvisoria del giocatore dalla prima squadra. La riconciliazione tra le parti e la successiva intesa sul prolungamento sono arrivate in seguito alla pubblicazione di un video contenente le scuse pubbliche rivolte da Beiranvand all'azionista Mohammad Reza Zonuzi e ai tifosi. Lo riferisce Iran International.",
+   "more": [
+    "Il Tractor Sports Club di Tabriz è una delle formazioni calcistiche più seguite e calorose del campionato iraniano, storicamente sostenuta dalla comunità azerbaigiana del paese. I rapporti tra calciatori di vertice e proprietà nei club professionistici locali sono spesso caratterizzati da un forte risalto pubblico e mediatico."
+   ],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202610153480",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-10-15T11:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zb49f010e",
+   "sez": "economia",
+   "titolo": "La rapida espansione dei discount Action in Italia e in Europa",
+   "orig": "I discount olandesi che sembrano cinesi e che stanno aprendo dappertutto",
+   "lead": "La catena olandese di negozi a basso costo Action sta conoscendo una crescita commerciale rapidissima, aprendo punti vendita in numerosissime aree urbane e periferiche. Nel giro di appena cinque anni il marchio commerciale ha inaugurato più di duecentosessanta strutture di vendita sul territorio italiano, arrivando a superare complessivamente quota tremila e cinquecento negozi operativi sul mercato europeo. I punti vendita, caratterizzati da un assortimento eterogeneo a prezzi particolarmente contenuti che ricorda l'impostazione dei grandi magazzini d'importazione, rappresentano uno dei fenomeni distributivi più rilevanti. Lo riferisce Il Post.",
+   "more": [
+    "Il modello del discount non alimentare si basa sulla vendita rapida di merci eterogenee, dalla cura della casa al bricolage e agli articoli per il tempo libero. Acquistando grandi quantità di merce e riducendo i costi di allestimento, queste catene riescono a proporre prezzi ridotti attirando ampie fasce di consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/15/action-discount-italia-paesi-bassi/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T10:03+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zece3d1fc",
+   "sez": "mondo",
+   "titolo": "L'Anc avverte gli alleati dopo il verdetto della Corte costituzionale",
+   "orig": "LOCAL ELECTIONS 2026: Mbalula fires DA warning after ANC’s ConCourt victory — ‘Nothing binds us forever’",
+   "lead": "A meno di tre settimane dallo svolgimento del voto, l'African National Congress ha vinto la propria battaglia giudiziaria presso la Corte costituzionale sudafricana ottenendo il reintegro di 181 candidati precedentemente esclusi dalle schede elettorali. Dopo la vittoria legale, il segretario generale Fikile Mbalula ha rivolto un duro monito all'alleanza di governo Democratic Alliance, schieratasi contro il ricorso dell'Anc. Il dirigente politico ha affermato che nulla vincola i partiti per sempre, ricordando l'esistenza di schieramenti parlamentari alternativi con cui costruire future intese di maggioranza. Lo riferisce Daily Maverick.",
+   "more": [
+    "Dopo le elezioni generali che hanno visto la perdita della maggioranza assoluta dell'Anc, in Sudafrica si è formato un governo di unità nazionale guidato congiuntamente con la Democratic Alliance. Questa insolita collaborazione tra partiti storicamente rivali genera costanti attriti in occasione delle consultazioni amministrative e locali."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-15-mbalula-fires-da-warning-after-concourt-victory-nothing-binds-us-forever/",
+     "angolo": "",
+     "atlas": "South Africa"
+    },
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-10-15-constitutional-court-rules-in-favour-of-anc-in-iec-candidate-nomination-dispute/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-15T08:50+00:00"
+    }
+   ],
+   "data": "",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zc5ebaea1",
+   "sez": "salute",
+   "titolo": "Sudafrica, esperti chiedono lo stop a sponsor di cibo ultraprocessato",
+   "orig": "Industry Influence: Experts call for ‘big food’ ban at future SA Nutrition Congresses",
+   "lead": "Un gruppo di esperti di nutrizione ha formalmente sollecitato gli organizzatori del Congresso sudafricano sulla nutrizione a vietare la partecipazione delle grandi multinazionali alimentari in qualità di finanziatori dei futuri eventi scientifici. I medici e i ricercatori sostengono che le sponsorizzazioni concesse dalle aziende produttrici di alimenti ultraprocessati generano palesi conflitti di interesse nell'ambito della ricerca medica. Secondo i promotori dell'appello, tali partnership comportano un concreto pericolo di operazioni d'immagine volte a ripulire la reputazione di cibi nocivi attraverso la conferenza scientifica. Lo riferisce Daily Maverick.",
+   "more": [
+    "Gli alimenti ultraprocessati sono preparazioni industriali formulate con additivi, conservanti, edulcoranti e zuccheri raffinati, spesso carenti di micronutrienti essenziali. Numerosi studi epidemiologici associano il loro consumo abituale a patologie croniche come obesità, diabete di tipo due e complicanze dell'apparato cardiovascolare."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-15-experts-call-for-big-food-ban-at-future-sa-nutrition-congresses/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "ze85de80b",
+   "sez": "mondo",
+   "titolo": "Merz respinge l'ipotesi di supervisione Usa sui beni russi in Europa",
+   "orig": "Merz respinge categoric o idee a americanilor privind activele rusești sechestrate în Europa: „Noi decidem”",
+   "lead": "I beni sovrani russi per un valore superiore a duecento miliardi di euro sequestrati in Europa in seguito all'invasione armata dell'Ucraina devono rimanere sotto il pieno controllo istituzionale europeo. Lo ha ribadito il cancelliere tedesco Friedrich Merz, respingendo fermamente l'idea trapelata su organi di stampa secondo cui gli Stati Uniti avrebbero avanzato la richiesta di supervisionare e gestire direttamente una porzione di tali riserve monetarie. Merz ha replicato con fermezza all'iniziativa americana ricordando che i capitali sono congelati all'interno degli istituti europei e che spetta all'Europa decidere. Lo riferisce HotNews.",
+   "more": [
+    "La Germania rappresenta la prima economia dell'Unione europea e riveste un ruolo determinante nelle decisioni comunitarie in materia sanzionatoria e finanziaria. La linea espressa da Berlino sul controllo degli asset sovrani mira a preservare la sovranità delle istituzioni dell'Unione rispetto alle pressioni e ai piani della diplomazia statunitense."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/merz-respinge-categoric-o-idee-a-americanilor-privind-activele-rusesti-sechestrate-in-europa-noi-decidem-2376913",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-15T11:06+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z40bb4971",
+   "sez": "economia",
+   "titolo": "Romania, passivo di 82 milioni di euro al giorno nei primi otto mesi del 2026",
+   "orig": "România, pe minus cu 82 de milioane de euro pe zi. La fiecare 100 de euro din exporturi, 14,5 merg la plata datoriei externe pe termen lung",
+   "lead": "Nei primi otto mesi del 2026 la Romania ha registrato un disavanzo significativo nei pagamenti con l'estero, versando quasi 20 miliardi di euro in più rispetto a quanto incassato. Il dato, diffuso dalla Banca Nazionale romena all'interno delle rilevazioni sulla bilancia dei pagamenti di agosto, corrisponde a un passivo quotidiano di 82 milioni di euro. Inoltre, per ogni 100 euro ricavati dalle esportazioni, 14,5 euro sono destinati al rimborso del debito estero a lungo termine. Lo riferisce HotNews.",
+   "more": [
+    "La bilancia dei pagamenti registra tutte le transazioni economiche effettuate tra i residenti di un Paese e il resto del mondo in un determinato arco temporale. Quando le uscite superano le entrate si genera un disavanzo, che incide sulle riserve valutarie e richiede spesso l'accensione o la gestione di impegni finanziari esteri."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/romania-pe-minus-cu-82-de-milioane-de-euro-pe-zi-la-fiecare-100-de-euro-din-exporturi-145-merg-la-plata-datoriei-externe-pe-termen-lung-2376909",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-15T10:56+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z7fa640c6",
+   "sez": "tech",
+   "titolo": "Tesla presenta il nuovo Roadster dopo anni di attesa",
+   "orig": "Tesla prezintă joi, după o mare întârziere, mașina sa de 200.000 de dolari",
+   "lead": "Tesla si prepara a mostrare al pubblico la versione riprogettata della Roadster, a circa nove anni dalla prima presentazione della vettura sportiva elettrica di nuova generazione. La casa automobilistica aveva mostrato un prototipo dell'auto nel 2017, con un prezzo fissato a circa 200.000 dollari e consegne inizialmente previste per il 2020. Il debutto ufficiale del modello aggiornato è previsto per giovedì, dopo prolungati rinvii rispetto ai piani originari comunicati dall'azienda produttrice. Lo riferisce HotNews.",
+   "more": [
+    "Tesla è un'azienda automobilistica e tecnologica statunitense specializzata nella progettazione e produzione di veicoli a trazione interamente elettrica, sistemi di accumulo di energia e soluzioni di ricarica. I suoi modelli di punta includono vetture sportive e berline mirate a dimostrare le prestazioni e l'efficienza della propulsione a batteria."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/tesla-prezinta-joi-dupa-o-mare-intarziere-prototipul-masinii-sale-de-200-000-de-dolari-2376818",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-15T10:35+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z2245f0af",
+   "sez": "mondo",
+   "titolo": "Montenegro e Kirghizistan siglano un accordo di cooperazione bilaterale",
+   "orig": "Crna Gora i Kirgistan potpisali Sporazum o saradnji u oblasti...",
+   "lead": "I governi di Montenegro e Kirghizistan hanno sottoscritto un accordo formale per rafforzare la cooperazione reciproca. L'intesa è stata siglata a margine del Forum interregionale tra Europa e Asia, un evento istituzionale organizzato dalle autorità montenegrine in collaborazione con l'agenzia delle Nazioni Unite per il Turismo. L'iniziativa diplomatica punta ad ampliare il dialogo e i legami tra le due nazioni nei settori condivisi durante l'incontro internazionale. Lo riferisce Vijesti.",
+   "more": [
+    "L'agenzia delle Nazioni Unite per il Turismo promuove lo sviluppo responsabile, sostenibile e accessibile del settore turistico su scala globale, incoraggiando partenariati tra governi e scambi tra diverse regioni del pianeta attraverso conferenze e accordi bilaterali."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/ekonomija/831566/crna-gora-i-kirgistan-potpisali-sporazum-o-saradnji-u-oblasti-turizma",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-15T13:17+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z5aef18bf",
+   "sez": "sport",
+   "titolo": "Marija Vuković premiata come migliore atleta dei Balcani per il 2026",
+   "orig": "Marijina 2026 - Crnogorka najbolja atletičarka Balkana",
+   "lead": "L'atleta montenegrina Marija Vuković è stata eletta migliore atleta dei Balcani per il 2026. L'annuncio è stato ufficializzato dalla Federazione di atletica leggera, che ha espresso grande soddisfazione per il traguardo raggiunto dalla sportiva. Secondo la federazione nazionale, questa nomina rappresenta un riconoscimento di primaria grandezza non soltanto per la carriera individuale di Vuković, ma anche per l'intero movimento sportivo e per l'atletica leggera del Montenegro in ambito regionale. Lo riferisce Vijesti.",
+   "more": [
+    "L'atletica leggera comprende numerose discipline sportive legate a corse su pista, salti, lanci e prove multiple. Nei Balcani le associazioni sportive regionali premiano periodicamente i concorrenti che si sono distinti maggiormente nei circuiti internazionali e nei tornei continentali."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/ostali-sportovi/831551/marijina-2026-crnogorka-najbolja-atleticarka-balkana",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-15T13:15+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z7df38e95",
+   "sez": "mondo",
+   "titolo": "Corte costituzionale del Montenegro al voto sull'accordo con gli Emirati",
+   "orig": "Ustavni sud će 19. oktobra ponovo odlučivati o sporazumu sa UAE",
+   "lead": "La Corte costituzionale del Montenegro tornerà a pronunciarsi il 19 ottobre sulla conformità dell'accordo con gli Emirati Arabi Uniti. In una precedente seduta tenutasi il 16 marzo, il collegio non era riuscito a deliberare a causa di un pareggio di tre voti a tre tra i magistrati. Con la recente nomina di due nuovi giudici, l'organo costituzionale ha reintegrato la propria composizione plenaria a sette membri, consentendo ora una decisione a maggioranza sul testo contestato. Lo riferisce Vijesti.",
+   "more": [
+    "La Corte costituzionale è il massimo organo di garanzia giuridica incaricato di verificare la conformità delle leggi e dei trattati internazionali rispetto ai principi stabiliti dalla carta costituzionale di uno Stato, operando attraverso decisioni collegiali."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/ekonomija/831563/ustavni-sud-ce-19-oktobra-ponovo-odlucivati-o-sporazumu-sa-uae",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-15T13:07+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z7b585369",
+   "sez": "mondo",
+   "titolo": "Mosca dichiara indesiderabile lo spazio culturale Frame a Tbilisi",
+   "orig": "Thursday, 15 October 2026",
+   "lead": "Il ministero della Giustizia della Federazione Russa ha classificato come organizzazione indesiderabile un ulteriore ente presente in Georgia. A seguito del provvedimento, lo spazio culturale Frame con sede a Tbilisi ha decretato la propria chiusura immediata. L'associazione, già registrata a febbraio come agente straniero, ha chiesto espressamente ai propri sostenitori di non condividere né commentare i contenuti online e di non citare la sigla per evitare conseguenze legali previste dalle norme russe. Lo riferisce OC Media.",
+   "more": [
+    "La legislazione russa sulle organizzazioni indesiderabili e sugli agenti stranieri impone pesanti restrizioni a enti, associazioni e individui, vietandone le attività sul territorio nazionale e sanzionando penalmente o amministrativamente chiunque mantenga legami o ne diffonda il materiale informativo."
+   ],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/thursday-15-october-2026/",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T09:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zca74dc44",
+   "sez": "mondo",
+   "titolo": "KIO respinge la proposta di colloqui di pace della giunta birmana",
+   "orig": "KIO/KIA rejects Myanmar junta’s offer of peace talks",
+   "lead": "L'Organizzazione per l'indipendenza Kachin e il suo braccio armato hanno respinto l'offerta di negoziati di pace avanzata dalla giunta militare al potere in Myanmar. Secondo la dirigenza del gruppo etnico, la mossa del regime giunge in un momento di crescente rafforzamento della presenza delle truppe governative nello Stato Kachin. Per questo motivo, l'organizzazione ha definito la proposta priva di reali effetti operativi sulla situazione sul campo, declinando ogni partecipazione alle trattative. Lo riferisce Myanmar Now.",
+   "more": [
+    "Lo Stato Kachin si trova nella parte settentrionale del Myanmar, al confine con Cina e India. Da decenni la regione è teatro di rivendicazioni autonomiste e scontri armati che vedono contrapposte le milizie locali alle forze armate regolari birmane."
+   ],
+   "fonti": [
+    {
+     "n": "Myanmar Now",
+     "p": "XX",
+     "c": "Yangon",
+     "u": "https://myanmar-now.org/en/news/kio-kia-rejects-myanmar-juntas-offer-of-peace-talks/",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-10-15T08:10+00:00"
+    },
+    {
+     "n": "The Irrawaddy",
+     "p": "XX",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/news/burma/myanmar-regime-denies-drafting-college-students-into-army.html",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-10-15T08:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zaaa201f4",
+   "sez": "economia",
+   "titolo": "Le tensioni geopolitiche globali frenano l'industria del Tagikistan",
+   "orig": "How geopolitical tensions are disrupting Tajikistan’s industry",
+   "lead": "L'instabilità internazionale e le crescenti tensioni geopolitiche stanno provocando pesanti ripercussioni sulle attività produttive del Tagikistan. Le criticità esterne influiscono sulle dinamiche economiche interne, creando interruzioni e difficoltà operative lungo le filiere del comparto manifatturiero e commerciale tagiko. L'analisi sottolinea come le turbolenze nei mercati confinanti e nei canali di scambio convenzionali mettano sotto forte pressione la stabilità del sistema produttivo del Paese dell'Asia centrale. Lo riferisce Asia-Plus.",
+   "more": [
+    "Il Tagikistan è una repubblica montuosa dell'Asia centrale la cui economia è tradizionalmente legata all'estrazione mineraria, alla lavorazione dell'alluminio e alle esportazioni di materie prime, fattori che la rendono particolarmente vulnerabile alle oscillazioni del contesto internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/15/how-geopolitics-is-halting-a-tajik-factory/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-10-15T10:48+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z35477283",
+   "sez": "viaggi",
+   "titolo": "Tagikistan, termine di registrazione per stranieri esteso a 15 giorni lavorativi",
+   "orig": "Tajikistan moves to extend registration deadline for foreign visitors to 15 working days",
+   "lead": "Il governo del Tagikistan ha avviato le procedure per allungare i termini temporali richiesti ai visitatori stranieri per formalizzare la registrazione dopo l'arrivo. In base alle nuove disposizioni in fase di approvazione, chi fa ingresso nel territorio nazionale avrà a disposizione 15 giorni lavorativi per completare la pratica burocratica, rispetto al limite precedente fissato in dieci giorni. La misura mira ad agevolare il soggiorno e la mobilità dei viaggiatori internazionali all'interno dei confini statali. Lo riferisce Asia-Plus.",
+   "more": [
+    "Le normative sull'obbligo di registrazione per i visitatori stranieri sono comuni in diversi Paesi dell'Asia centrale e prevedono la comunicazione dell'indirizzo di soggiorno alle autorità competenti entro un periodo prestabilito per convalidare il visto d'ingresso."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/15/tajikistan-to-extend-registration-period-for-foreigners/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-10-15T09:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z98987dae",
+   "sez": "mondo",
+   "titolo": "Presidente del Turkmenistan Berdimuhamedov in visita ufficiale a Baku",
+   "orig": "Президент Туркменистана прибыл с визитом в Азербайджан",
+   "lead": "Il presidente del Turkmenistan Serdar Berdimuhamedov è atterrato il 15 ottobre in Azerbaigian per prendere parte al settimo vertice della Conferenza sulle misure di interazione e rafforzamento della fiducia in Asia. All'arrivo presso l'aeroporto internazionale Heydar Aliyev di Baku, il capo di Stato è stato formalmente accolto dal vice primo ministro azerbaigiano Shahin Mustafayev e da altre cariche istituzionali. La precedente edizione del summit multilaterale si era svolta ad Astana nell'ottobre del 2022. Lo riferisce Chronicles of Turkmenistan.",
+   "more": [
+    "La Conferenza sulle misure di interazione e rafforzamento della fiducia in Asia è un forum intergovernativo regionale nato per consolidare la cooperazione, la sicurezza comune e la stabilità politica tra gli Stati del continente asiatico attraverso vertici periodici."
+   ],
+   "fonti": [
+    {
+     "n": "Chronicles of Turkmenistan",
+     "p": "XX",
+     "c": "Ashgabat",
+     "u": "https://www.hronikatm.com/2026/10/the-president-of-turkmenistan-has-arrived-in-azerbaijan-on-a-visit/",
+     "angolo": "",
+     "atlas": "Turkmenistan",
+     "t": "2026-10-15T08:24+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zbcd7d809",
+   "sez": "mondo",
+   "titolo": "Nuovo attacco dei ribelli Houthi contro l'aeroporto di Riad",
+   "orig": "Riyad dans le piège des Houthis ? Parlons-en avec A. Arefi, A. Bakawan et A. Samrani",
+   "lead": "I ribelli Houthi dello Yemen hanno rivendicato una nuova azione militare mirata contro l'aeroporto della capitale saudita Riad, segnando il secondo raid di questo genere nell'arco di pochi giorni. L'attacco riaccende il dibattito sulla vulnerabilità strategica del principale esportatore mondiale di petrolio e sulla sua capacità di contrastare efficacemente le milizie sciite a dieci anni dall'inizio delle operazioni militari nella regione yemenita, ponendo interrogativi su possibili risposte belliche da parte dell'Arabia Saudita. Lo riferisce France 24.",
+   "more": [
+    "Il movimento Houthi, radicato nello Yemen settentrionale, è impegnato in un lungo conflitto contro la coalizione a guida saudita, impiegando droni e vettori missilistici contro bersagli strategici e infrastrutture critiche nella penisola arabica."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261015-riyad-dans-le-pi%C3%A8ge-des-houthis-parlons-en-avec-a-arefi-a-bakawan-et-a-samrani",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T10:41+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z4f49ec36",
+   "sez": "mondo",
+   "titolo": "Francia, cresce l'attesa per la mobilitazione del 17 ottobre contro il carovita",
+   "orig": "Mobilisation du 17 octobre en France : À quoi faut-il s'attendre ?",
+   "lead": "In Francia si intensificano i preparativi per la giornata di protesta convocata per sabato 17 ottobre contro l'aumento del costo della vita e a favore di una maggiore rappresentanza democratica. L'appello a scendere in piazza rispolverando i simboli dei gilet gialli era stato lanciato sulle piattaforme social diverse settimane fa e ha guadagnato un forte slancio popolare nelle ultime giornate. I promotori auspicano una partecipazione estesa per contestare le difficoltà economiche dei cittadini. Lo riferisce France 24.",
+   "more": [
+    "Il movimento dei gilet gialli è nato in Francia nel 2018 come forma di protesta spontanea e diffusa contro l'aumento delle tasse sui carburanti e il calo del potere d'acquisto, estendendosi rapidamente a rivendicazioni più ampie sulle istituzioni democratiche."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261015-mobilisation-du-17-octobre-en-france-%C3%A0-quoi-faut-il-s-attendre",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T09:37+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "za8e1ec8a",
+   "sez": "tech",
+   "titolo": "Software spia diffusi tramite pubblicità online da un'azienda israeliana",
+   "orig": "Spyware-Methode aufgedeckt: Spionagesoftware per Onlinewerbung",
+   "lead": "Una società israeliana avrebbe impiegato la pubblicità sul web per veicolare e installare software spia sui dispositivi di bersagli selezionati. Lo svela un'indagine giornalistica condotta congiuntamente dalle redazioni di Bayerischer Rundfunk e netzpolitik.org. Secondo le informazioni emerse dall'inchiesta, tra i soggetti finiti nel mirino di questa sofisticata campagna di sorveglianza digitale figurano governi statali, organizzazioni internazionali, organi d'informazione e diverse società commerciali private di rilievo mondiale. Lo riferisce Tagesschau.",
+   "more": [
+    "Gli spyware sono programmi informatici malevoli progettati per infiltrarsi segretamente nei sistemi operativi, acquisire dati sensibili, monitorare comunicazioni e trasmettere informazioni private a terzi senza il consenso dell'utente colpito."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T12:00+02:00"
+    },
     {
      "n": "The Globe and Mail",
      "p": "XX",
@@ -23,7 +1244,589 @@ window.EDIZIONI["2026-10-15-sera"] = {
     }
    ],
    "data": "15 ott",
-   "ora": "13:36",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z25dc40bf",
+   "sez": "salute",
+   "titolo": "Il Bundestag tedesco approva la riforma della medicina d'urgenza",
+   "orig": "Bundestag beschließt Reform der Notfallmedizin",
+   "lead": "Il parlamento federale tedesco ha dato il proprio via libera definitivo alla riforma della medicina d'urgenza. Il Bundestag ha votato il pacchetto legislativo destinato a riorganizzare la gestione dei servizi di primo soccorso e dei reparti ospedalieri d'emergenza su scala nazionale. Il provvedimento punta a ottimizzare i percorsi di presa in carico per i pazienti in condizioni critiche e a ridurre la pressione sulle strutture sanitarie tedesche. Lo riferisce Tagesschau.",
+   "more": [
+    "La medicina d'urgenza e pronto soccorso riguarda l'assistenza medica immediata prestata a soggetti colpiti da traumi acuti o patologie improvvise che mettono a repentaglio la vita, richiedendo protocolli d'intervento coordinati tra ospedali e ambulanze."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1666594.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T11:49+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zefca124d",
+   "sez": "mondo",
+   "titolo": "Albania, violente proteste di piazza contro il premier Edi Rama",
+   "orig": "Gewaltsame Proteste gegen Regierungschef Rama",
+   "lead": "Gravi disordini e scontri di piazza sono scoppiati durante le manifestazioni convocate contro il capo del governo Edi Rama. Le contestazioni popolari, dirette a denunciare l'operato dell'esecutivo e a chiedere un cambiamento politico, sono degenerate in momenti di forte tensione nelle vie cittadine. I manifestanti si sono radunati per esprimere la loro aperta opposizione al primo ministro e alle politiche governative in corso. Lo riferisce Tagesschau.",
+   "more": [
+    "Edi Rama guida il governo albanese dal 2013 come leader del Partito Socialista. Nel corso degli anni, l'Albania ha registrato frequenti fasi di mobilitazione e dure contestazioni di piazza promosse dalle forze di opposizione parlamentare."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1666568.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T10:58+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z13cdd760",
+   "sez": "economia",
+   "titolo": "Vertice europeo sul bilancio: chiesta una stretta sui fondi per Bruxelles",
+   "orig": "\"Überweisungen nach Brüssel begrenzen\", Christian Feld, ARD Brüssel, zum EU-Haushaltsgipfel",
+   "lead": "In occasione del vertice europeo dedicato alla definizione del bilancio comunitario, si apre un confronto serrato sulla necessità di limitare i trasferimenti di risorse finanziarie verso Bruxelles. Il corrispondente di ARD Christian Feld illustra i punti chiave della discussione tra i rappresentanti degli Stati membri, evidenziando le pressioni di alcuni governi per imporre un tetto ai contributi e contenere la spesa dell'Unione Europea in una fase di complessi negoziati economici comunitari. Lo riferisce Tagesschau.",
+   "more": [
+    "Il bilancio dell'Unione Europea viene finanziato principalmente da quote proporzionali versate dai Paesi membri in base al rispettivo prodotto nazionale lordo e dai dazi doganali, alimentando programmi comunitari e fondi di coesione."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1666638.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T12:13+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z41f7424d",
+   "sez": "sport",
+   "titolo": "NBA, il portoghese Neemias Queta protagonista nella vittoria dei Boston Celtics",
+   "orig": "Neemias Queta em destaque nos Celtics",
+   "lead": "Il cestista portoghese Neemias Queta è stato tra i protagonisti del match casalingo di NBA vinto dai Boston Celtics contro gli Charlotte Hornets con il punteggio di 114 a 93. Nel corso della partita disputata mercoledì, il giocatore ha dato un contributo determinante al successo della franchigia del Massachusetts realizzando 16 punti sul parquet, confermandosi una risorsa efficace nelle rotazioni della squadra nel massimo campionato professionistico statunitense. Lo riferisce RTP.",
+   "more": [
+    "La National Basketball Association, nota come NBA, è la principale lega cestistica professionistica del Nord America e raggruppa le migliori formazioni di pallacanestro di Stati Uniti e Canada in una stagione regolare seguita dai playoff."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/basquetebol/neemias-queta-em-destaque-nos-celtics_d1771840",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z86f1a9a6",
+   "sez": "economia",
+   "titolo": "Portogallo, risarcimenti per blackout raddoppiati a 2,1 milioni nel 2025",
+   "orig": "Compensações por interrupções no fornecimento elétrico duplicam para 2,1 milhões em 2025",
+   "lead": "I rimborsi corrisposti ai consumatori per le interruzioni nella fornitura di energia elettrica in Portogallo hanno raggiunto la somma complessiva di 2,1 milioni di euro nel 2025, un importo doppio rispetto a quello dell'anno precedente. L'annata è stata condizionata da sette episodi classificati come eccezionali, tra i quali ha avuto un impatto prevalente il blackout generalizzato verificatosi nel mese di aprile sulle reti di distribuzione energetica nazionali. Lo riferisce RTP.",
+   "more": [
+    "La rete di distribuzione elettrica trasporta la corrente ad alta e media tensione fino alle utenze finali. Le autorità di regolazione del settore energetico impongono indennizzi automatici a carico dei distributori qualora si verifichino prolungate interruzioni del servizio."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/compensacoes-por-interrupcoes-no-fornecimento-eletrico-duplicam-para-21-milhoes-em-2025_n1771830",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-15T12:14+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z08adc5c7",
+   "sez": "economia",
+   "titolo": "Attacco hacker a Albert Heijn: riforniti i negozi, resta bloccato il web",
+   "orig": "Albert Heijn: bevoorrading winkels helemaal hervat, nog geen thuisbezorging",
+   "lead": "A quattro giorni dal tentato attacco informatico, la catena di supermercati Albert Heijn ha annunciato il ripristino completo delle forniture di alimentari freschi e a lunga conservazione in tutti i negozi del territorio olandese. Nonostante il progressivo riassortimento degli scaffali, la piena normalità è lontana: il sito ufficiale del marchio rimane inaccessibile, le consegne a domicilio degli acquisti online sono ancora sospese e i sistemi dei programmi fedeltà non sono operativi. Lo riferisce NOS.",
+   "more": [
+    "Albert Heijn è la principale catena di supermercati operante nei Paesi Bassi. Fa parte del gruppo della grande distribuzione Ahold Delhaize e gestisce una fitta rete di punti vendita fisici e servizi di spesa a domicilio."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635057",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T12:12+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z30808747",
+   "sez": "mondo",
+   "titolo": "Due petroliere in fiamme al largo della Romania dopo raid con droni",
+   "orig": "Twee schepen in brand na mogelijke droneaanvallen bij Roemeense kust",
+   "lead": "Due navi cisterna commerciali all'ancora nel Mar Nero al largo delle coste della Romania hanno preso fuoco a seguito di presunti attacchi sferrati con droni russi. Le squadre di soccorso hanno evacuato gran parte del personale marittimo ma risultano disperse sette persone dell'equipaggio di uno dei due natanti. Lo riferisce NOS.",
+   "more": [
+    "Il Mar Nero costituisce una rotta marittima vitale per il transito delle navi cisterna e dei carichi cerealicoli, bagnando le coste di Paesi della NATO come la Romania e Stati belligeranti come Ucraina e Russia, esponendo la navigazione commerciale a rischi costanti."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635056",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T12:10+02:00"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/mondo/petroliere_fiamme_mar_nero_attacco_droni_russi_romania-9826853.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "za9154c29",
+   "sez": "mondo",
+   "titolo": "Utrecht, trovati cinquanta potenti esplosivi nelle cantine di un condominio",
+   "orig": "Politie vindt 50 zware explosieven in kelderbox onder flat in Utrecht",
+   "lead": "Le forze dell'ordine olandesi hanno rinvenuto cinquanta micidiali ordigni pirotecnici all'interno di una cantina condominiale nel quartiere Overvecht a Utrecht. Gli agenti hanno arrestato un cinquantacinquenne residente nell'immobile e sequestrato il materiale, identificato nel modello Cobra 20 contenente in totale circa dieci chili di polvere detonante. Un ulteriore ordigno è stato trovato nell'appartamento dell'uomo durante le perquisizioni. La polizia ha denunciato il grave pericolo corso dagli abitanti della zona. Lo riferisce NOS.",
+   "more": [
+    "I manufatti noti come Cobra sono potenti fuochi d'artificio illegali ad alto potenziale esplosivo. Il loro utilizzo o stoccaggio in spazi chiusi residenziali presenta rischi paragonabili a quelli di cariche esplosive industriali non regolamentate."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635055",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T11:49+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z8d818936",
+   "sez": "economia",
+   "titolo": "I dubbi sull'intelligenza artificiale affondano le borse: ASML perde il 6,7%",
+   "orig": "Tech-aandelen dalen door AI-twijfels, ASML fors in de min",
+   "lead": "Giornata di forti ribassi sui mercati azionari in Europa e Asia per le società tecnologiche legate all'intelligenza artificiale. Sulla piazza finanziaria di Amsterdam il colosso ASML, costruttore di macchinari avanzati per semiconduttori, è arrivato a cedere il 6,7% rispetto alla chiusura precedente. A pesare sul sentiment degli investitori sono i dubbi circa l'effettiva redditività commerciale degli enormi capitali investiti dai giganti tech nello sviluppo dell'intelligenza artificiale e nell'infrastruttura dei data center. Lo riferisce NOS.",
+   "more": [
+    "ASML è un'azienda olandese leader a livello mondiale nella litografia ottica, fornendo sistemi complessi indispensabili ai principali produttori di microchip per fabbricare i circuiti integrati all'avanguardia necessari ai modelli di intelligenza artificiale."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635053",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T11:44+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z6f378b85",
+   "sez": "mondo",
+   "titolo": "Blankenberge, infrazioni dimezzate nella zona a traffico limitato",
+   "orig": "Bijna 50 procent minder overtredingen in autoluw centrum in Blankenberge door nieuwe signalisatiepalen",
+   "lead": "Il comune di Blankenberge ha registrato un calo di quasi il cinquanta per cento delle violazioni stradali nel centro cittadino a traffico limitato dopo l'introduzione di nuovi totem per la segnaletica. L'assessora alla Mobilità Sandy Buysschaert ha definito l'infrastruttura uno strumento estremamente efficace per orientare i conducenti. Nonostante la sensibile riduzione ottenuta, le telecamere di vigilanza hanno comunque sanzionato 5.514 veicoli entrati abusivamente nella zona pedonale tra i mesi di luglio e agosto. Lo riferisce VRT NWS.",
+   "more": [
+    "Le zone a traffico limitato vengono istituite dalle amministrazioni urbane per limitare l'accesso dei veicoli a motore nei centri storici o turistici, migliorando la vivibilità per i pedoni e riducendo l'inquinamento acustico e atmosferico."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/15/signalisatiepalen-blankenberge-centrum-gas-boetes.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-15T11:05+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z92241e39",
+   "sez": "sport",
+   "titolo": "Sci di fondo: la tedesca Victoria Carl rompe il silenzio dopo la squalifica per doping",
+   "orig": "Längdstjärnan Victoria Carl åkte fast för dopning – nu bryter hon tystnaden",
+   "lead": "La fondista tedesca Victoria Carl, 31 anni, ha rilasciato la sua prima intervista ai media svedesi dopo essere risultata positiva a un controllo antidoping, evento che le era costato l'esclusione dai Giochi olimpici. Ai microfoni di SVT Sport, l'atleta ha descritto la squalifica subita come un profondo shock personale, affrontando apertamente il percorso intrapreso nel tentativo di tornare alle competizioni. Lo riferisce SVT Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/sport/langdskidor/langdstjarnan-victoria-carl-akte-fast-for-dopning-nu-bryter-hon-tystnaden",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T13:15+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z38159b07",
+   "sez": "mondo",
+   "titolo": "Svezia: Ebba Busch punta a una coalizione di centrodestra dopo il voto parlamentare",
+   "orig": "Ebba Busch (KD) om statsministeromröstningen: Ser väg till blå regering",
+   "lead": "La leader dei Cristiano Democratici svedesi, Ebba Busch, ritiene ancora possibile la formazione di un governo di centrodestra dopo la votazione parlamentare per la carica di primo ministro. Busch ha ammesso che alcune forze politiche potrebbero prima tentare di sperimentare un'opzione centrista, ma ha assicurato il proprio impegno per portare al tavolo negoziale tutte le parti necessarie a dare vita a una maggioranza alternativa alla sinistra. Lo riferisce SVT Nyheter.",
+   "more": [
+    "In Svezia, il termine governo blu identifica tradizionalmente una coalizione guidata dai partiti di centrodestra e conservatori, opposta allo schieramento rossoverde guidato dai socialdemocratici per la guida del Riksdag."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/lokalt/ost/ebba-busch-kd-om-statsministeromrostningen-ser-vag-till-bla-regering",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T12:47+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z8488bf1d",
+   "sez": "ambiente",
+   "titolo": "Svezia: la contea di Västra Götaland autorizza l'abbattimento di 12 lupi",
+   "orig": "Beskedet: 12 vargar får skjutas i Västra Götaland",
+   "lead": "L'amministrazione provinciale della contea svedese di Västra Götaland ha approvato una licenza di caccia che consente l'abbattimento di un massimo di dodici lupi durante la stagione invernale. Si tratta della quota più elevata mai autorizzata nella regione da quando il sistema dei permessi venatori regolamentati è stato istituito nel 2010 per monitorare e gestire la popolazione locale di predatori. Lo riferisce SVT Nyheter.",
+   "more": [
+    "La caccia autorizzata con contingentamento numerico è uno strumento amministrativo impiegato per gestire le popolazioni di grandi carnivori, con l'obiettivo di bilanciare la tutela della biodiversità e le esigenze delle comunità rurali e degli allevatori."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/lokalt/vast/beskedet-12-vargar-far-skjutas-i-vastra-gotaland",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-15T10:55+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z877f62bf",
+   "sez": "sport",
+   "titolo": "Calcio: i successi delle squadre norvegesi contro Bayern e Dortmund fanno rumore in Germania",
+   "orig": "Dei norske bragdene skaper tyske reaksjonar: «Flause ved polarsirkelen»",
+   "lead": "Le recenti vittorie ottenute dalle formazioni calcistiche norvegesi contro giganti del calcio tedesco come il Bayern Monaco e il Borussia Dortmund stanno suscitando ampio scalpore sulla stampa sportiva internazionale. I commentatori in Germania hanno espresso forte disappunto per le prestazioni delle proprie squadre, arrivando a definire gli scivoloni sportivi avvenuti a ridosso del circolo polare artico come un vero e proprio imbarazzo per la Bundesliga. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/sport/viking-og-bodo_glimt-skapte-sjokkbolger_-_kva-er-det-som-skjer__-1.18054165",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-15T07:47+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "ze3b1e7dd",
+   "sez": "ambiente",
+   "titolo": "Norvegia: la corte d'appello respinge il ricorso del Parlamento Sami contro l'elettrificazione di Melkøya",
+   "orig": "Sametinget tapte mot staten – igjen",
+   "lead": "La corte d'appello di Borgarting ha confermato la validità della delibera del governo norvegese riguardante il piano di elettrificazione del sito energetico di Melkøya, respingendo l'azione legale promossa dal Parlamento Sami. La sentenza ha confermato in ogni punto il giudizio di primo grado sfavorevole all'organo di rappresentanza indigena, disponendo che quest'ultimo si faccia carico delle spese processuali sostenute dallo Stato. Lo riferisce NRK.",
+   "more": [
+    "Il Parlamento Sami è l'organo democratico autonomo istituito per tutelare i diritti, la lingua e la cultura del popolo indigeno Sami, tradizionalmente legato alle attività di pascolo e alla salvaguardia del territorio nell'area artica."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-15T07:07+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z27206b47",
+   "sez": "mondo",
+   "titolo": "Russia: arrestato un cittadino svedese accusato di pianificare attacchi militari",
+   "orig": "Russland har pågrepet svensk borger",
+   "lead": "I servizi di sicurezza russi dell'FSB hanno arrestato un cittadino svedese accusato di aver attraversato illegalmente il confine nazionale per condurre attacchi contro obiettivi militari sul territorio della Federazione. Secondo organi di stampa svedesi, che citano fonti dell'agenzia Tass, l'uomo fermato avrebbe operato in precedenza in Ucraina come responsabile di un'unità specializzata nell'impiego operativo di droni. Lo riferisce NRK.",
+   "more": [
+    "L'FSB, erede delle strutture di sicurezza sovietiche, è il principale servizio federale russo preposto alla difesa dei confini, alla sorveglianza interna e al contrasto di attività ritenute ostili da parte di agenti stranieri."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/nyheter/russland-har-pagrepet-svensk-borger-1.18055518",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-15T07:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z370d54ab",
+   "sez": "organizzazioni",
+   "titolo": "Crisi umanitarie: il Programma alimentare mondiale dell'ONU denuncia tagli record ai fondi",
+   "orig": "Færa frá þeim hungruðu til hinna sveltandi",
+   "lead": "Il Programma alimentare mondiale delle Nazioni Unite sta affrontando una contrazione dei finanziamenti senza precedenti storici, dovuta ai pesanti disimpegni decisi dalle principali economie globali per i programmi d'emergenza e cooperazione. A lanciare l'allarme è stata la vicedirettrice Raina Dagesh-Kamara, rimarcando come gli Stati Uniti, pur rimanendo i maggiori donatori, abbiano ridotto i loro contributi del quarantasei per cento tra il 2024 e il 2025. Lo riferisce RÚV.",
+   "more": [
+    "Il Programma alimentare mondiale è la principale agenzia umanitaria dell'ONU incaricata di distribuire aiuti alimentari salvavita nelle zone devastate da conflitti bellici, carestie e disastri ambientali nel mondo."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-15-faera-fra-theim-hungrudu-til-hinna-sveltandi-489994/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-15T10:53+00:00"
+    },
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/inovacao-para-enfrentar-crise-alimentar-e-tema-de-acao-no-brasil",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-15T07:32-03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zb84c002b",
+   "sez": "mondo",
+   "titolo": "Unione europea: Marine Le Pen contesta l'approvazione del bilancio pluriennale prima del voto francese",
+   "orig": "Vill skera niður framlög Frakka til Evrópusambandsins",
+   "lead": "Marine Le Pen ha espresso dura contrarietà all'eventuale accordo dei leader dell'Unione europea sul bilancio pluriennale prima delle elezioni presidenziali francesi di aprile, definendolo un grave scandalo democratico. Durante una conferenza stampa a Bruxelles in concomitanza con il vertice europeo, la leader politica ha contestato l'intenzione di definire le linee finanziarie comunitarie prima che i cittadini francesi ed europei siano chiamati alle urne. Lo riferisce RÚV.",
+   "more": [
+    "Il quadro finanziario pluriennale fissa i limiti di spesa e le priorità d'investimento dell'Unione europea per un arco temporale di sette anni, vincolando le risorse destinate alle politiche comunitarie."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-15-vill-skera-nidur-framlog-frakka-til-evropusambandsins-489991/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-15T10:41+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z41c788a6",
+   "sez": "ambiente",
+   "titolo": "Tunisia: il ministero dell'Agricoltura proroga il divieto di pesca del polpo fino al 2026",
+   "orig": "Tunisie : la pêche au poulpe interdite jusqu’au 15 novembre 2026",
+   "lead": "Il ministero tunisino dell'Agricoltura, delle Risorse idrauliche e della Pesca ha disposto il prolungamento del divieto di cattura del polpo lungo le coste del Paese fino al 15 novembre 2026. Il provvedimento di tutela biologica è stato adottato sulla base dei dati emersi dal monitoraggio scientifico annuale condotto dall'Istituto nazionale di scienze e tecnologie marine, al fine di salvaguardare gli stock riproduttivi della specie. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Il fermo biologico della pesca marina è una misura regolamentare volta a sospendere temporaneamente i prelievi di fauna ittica per consentire il ripopolamento naturale e la ricostituzione delle specie a rischio."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/15/tunisie-la-peche-au-poulpe-interdite-jusquau-15-novembre-2026/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T10:50+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zee4fc4ff",
+   "sez": "economia",
+   "titolo": "Tunisia: le piccole e medie imprese chiedono una riforma della Banca centrale e tagli ai tassi",
+   "orig": "PME tunisiennes : Abderrazak Houass réclame une révision de la loi sur la Banque centrale et de la politique monétaire",
+   "lead": "Il portavoce dell'Associazione tunisina delle piccole e medie imprese, Abderrazak Houass, ha rivolto un appello ai parlamentari per ridiscutere la normativa che disciplina la Banca centrale tunisina e la sua indipendenza. Intervenuto alla trasmissione radiofonica Ecomag, l'esponente dei piccoli imprenditori ha inoltre sollecitato un intervento immediato di riduzione del tasso d'interesse guida, finora mantenuto fermo dall'istituto centrale a spese dell'economia produttiva. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Il tasso guida stabilito da una banca centrale determina il costo del denaro per il sistema bancario ordinario, influenzando direttamente l'accesso al credito e la redditività delle imprese commerciali."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/15/pme-tunisiennes-abderrazak-houass-reclame-une-revision-de-la-loi-sur-la-banque-centrale-et-de-la-politique-monetaire/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T10:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "z122c2ff0",
+   "sez": "viaggi",
+   "titolo": "Tunisia: la federazione delle agenzie di viaggio prepara la fiera del turismo del 2027",
+   "orig": "FTAV : 2e édition du Tunisian Travel Market en 2027",
+   "lead": "La Federazione tunisina delle agenzie di viaggio e turismo ha avviato i preparativi per la seconda edizione del salone Tunisian Travel Market, programmato per l'anno 2027. La manifestazione fieristica rivestirà una particolare rilevanza promozionale in coincidenza con la designazione di Tunisi quale Capitale del turismo arabo per il medesimo anno, offrendo agli operatori turistici un'importante vetrina per consolidare i flussi verso il Paese. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/15/ftav-2e-edition-du-tunisian-travel-market-en-2027/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T10:05+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zfe3a7ebd",
+   "sez": "musica",
+   "titolo": "RD Congo: Jessica Mushosi Kiil lancia l'album 'Peace and Love' dedicato alla pace nell'est",
+   "orig": "Musique : Jessica Mushosi Kiil dédie son huitième album à la paix et à l'amour en RDC",
+   "lead": "La cantante congolese Jessica Mushosi Kiil, conosciuta con il nome d'arte di Mamou Africa, ha presentato il suo ottavo album musicale, intitolato 'Peace and Love'. Attraverso i nuovi brani, l'artista ha dichiarato di voler diffondere messaggi di solidarietà, speranza e unità nazionale, rivolgendosi soprattutto alle popolazioni colpite dalla persistenza delle violenze armate nella parte orientale della Repubblica Democratica del Congo. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/15/actualite/culture/musique-jessica-mushosi-kiil-dedie-son-huitieme-album-la-paix-et-lamour",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-15T09:22+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "za6c4f827",
+   "sez": "spazio",
+   "titolo": "Spazio: un astronauta pachistano salirà sulla stazione orbitale cinese Tiangong nel 2026",
+   "orig": "Un nouveau jalon historique : un astronaute pakistanais dans la station spatiale chinoise en 2026 (Par ZHAO Zhijin)",
+   "lead": "La Cina e il Pakistan hanno consolidato la loro collaborazione scientifica prevedendo l'invio del primo astronauta pachistano a bordo della stazione orbitale cinese Tiangong nel corso del 2026. L'iniziativa rappresenta un passaggio storico nei programmi di esplorazione spaziale di Pechino, evidenziando la volontà di aprire le proprie infrastrutture extra-atmosferiche a equipaggi internazionali e sancendo un nuovo traguardo nei rapporti bilaterali tra i due Paesi partner. Lo riferisce Le Soleil.",
+   "more": [
+    "Tiangong è la stazione spaziale permanente modulare realizzata dalla Cina in orbita terrestre bassa, destinata a esperimenti scientifici avanzati e a ospitare equipaggi stabili."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/technologie/un-nouveau-jalon-historique-un-astronaute-pakistanais-dans-la-station-spatiale-chinoise-en-2026-par-zhao-zhijin/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T10:59+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
+   "uscita": "13"
+  },
+  {
+   "id": "zd2bbb6ec",
+   "sez": "ambiente",
+   "titolo": "Senegal: l'Agenzia per l'energia rurale mobilita la regione di Sédhiou verso il mix energetico al 2030",
+   "orig": "Climat : le Sénégal continue la transition vers l’énergie mixte pour respecter ses engagements internationaux",
+   "lead": "L'Agenzia nazionale senegalese per l'energia rurale ha riunito le autorità e i decisori della regione di Sédhiou per presentare gli obiettivi nazionali di diversificazione delle fonti entro il 2030. L'incontro rientra nella strategia avviata dal governo nel 2022 per promuovere la transizione energetica attraverso lo sviluppo di un mix energetico equilibrato e rispettoso degli impegni internazionali sul clima assunti dal Paese. Lo riferisce Le Soleil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/environnement/climat-le-senegal-continue-la-transition-vers-lenergie-mixte-pour-respecter-ses-engagements-internationaux/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-15T10:40+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "13:41",
    "uscita": "13"
   },
   {
@@ -2056,6 +3859,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-15T10:14+00:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1666628.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T12:03+02:00"
     }
    ],
    "data": "15 ott",
@@ -3492,29 +5304,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zfd84108e",
-   "sez": "mondo",
-   "titolo": "Mar Nero, due petroliere in fiamme in acque romene dopo incursioni di droni russi",
-   "orig": "Mar Nero, due petroliere in fiamme in acque della Romania dopo le incursioni dei droni russi: sette marinai dispersi",
-   "lead": "Due petroliere sono andate in fiamme nelle acque della Romania, nel Mar Nero, in seguito a incursioni di droni russi avvenute nella notte. Sette marinai risultano al momento dispersi, in un episodio che segna una nuova escalation di tensione alle porte della Nato. Lo riferisce Il Messaggero.",
-   "more": [
-    "Il Mar Nero è diventato teatro di crescenti tensioni dall'inizio del conflitto russo-ucraino, con frequenti attacchi a infrastrutture navali e portuali che coinvolgono anche i Paesi costieri membri della Nato come la Romania."
-   ],
-   "fonti": [
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/mondo/petroliere_fiamme_mar_nero_attacco_droni_russi_romania-9826853.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
-   "ora": "13:32",
-   "uscita": "13"
-  },
-  {
    "id": "z4a6a3a68",
    "sez": "salute",
    "titolo": "Le realtà trascurate del cancro al seno in Uganda",
@@ -4651,6 +6440,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-10-15T07:46+00:00"
+    },
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-15-hefja-aftur-arasir-a-russneska-orkuinnvidi-489992/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-15T10:58+00:00"
     }
    ],
    "data": "15 ott",
@@ -5251,6 +7049,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-15T13:05+02:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635070",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T13:19+02:00"
     }
    ],
    "data": "15 ott",
@@ -5634,6 +7441,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Bahrain",
      "t": "2026-10-15T10:59+00:00"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/saudi-arabia-asian-cup-postponed-houthi-attacks-6462196",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T19:02+08:00"
     }
    ],
    "data": "15 ott",
@@ -6105,6 +7921,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-15T13:18+02:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/15/kopecky-afvalling.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-15T10:59+00:00"
     }
    ],
    "data": "15 ott",
@@ -7809,7 +9634,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zcfc5238c": "Il Sole 24 Ore sottolinea la novità dell'apertura al welfare culturale per l'edizione del decennale.",
   "zc7b40326": "Africaguinee presenta le semplificazioni come un sollievo concreto per i candidati al concorso.",
   "z2756d3e6": "Il Financial Times pone l'accento sulla difficoltà di bilanciare obiettivi economici contrapposti nello scenario attuale.",
-  "ze2e30cfb": "The Globe and Mail evidenzia le conclusioni del rapporto di Citizen Lab sul ruolo di società israeliane negli attacchi mirati ai reporter.",
   "z7fab09a9": "Panamá América si sofferma sull'importanza strategica del prossimo incontro tra le due formazioni della Liga Americana.",
   "z6721a948": "Egypt Independent sottolinea il dialogo ad alto livello per incrementare gli investimenti e lo scambio commerciale bilaterale.",
   "z5e026878": "South China Morning Post mette in luce i timori dei leader europei per le future elezioni in Francia nei negoziati sul bilancio.",
@@ -7893,7 +9717,82 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z3b544f41": "ERR News mette in luce l'iniziativa congiunta con i partner comunitari per superare il requisito della sentenza penale.",
   "z3372e016": "LSM valorizza l'evento pubblico internazionale organizzato dall'autorità finanziaria per analizzare le sanzioni contro Mosca.",
   "zdd02a652": "LSM pone l'accento sulla procedura d'urgenza adottata dal parlamento lettone per rafforzare la risposta penale sui confini.",
-  "ze6800755": "Yonhap mette in primo piano la sollecitazione presidenziale verso i vertici delle aziende statunitensi a espandersi a Seul."
+  "ze6800755": "Yonhap mette in primo piano la sollecitazione presidenziale verso i vertici delle aziende statunitensi a espandersi a Seul.",
+  "z75063c36": "Yonhap si concentra sulla reazione ufficiale del governo sudcoreano e sui timori sollevati dalle parole del vertice militare statunitense.",
+  "z26b14386": "Yonhap pone l'accento sulla cooperazione industriale tra le aziende coreane e americane e sull'esigenza di accelerare i cantieri negli Stati Uniti.",
+  "z23060afa": "Yonhap sottolinea il rafforzamento della cooperazione finanziaria e della stabilità economica tra Seul e Tokyo attraverso il rinnovo dell'accordo.",
+  "z702e88d8": "CNA illustra il contrasto tra i timori degli esercenti per i costi e le tesi degli esperti sulla tenuta economica dell'infrastruttura digitale.",
+  "z10c2dc36": "RNZ pone in risalto la vittoria giudiziaria delle lavoratrici e la riqualificazione formale dei loro contratti d'impiego.",
+  "z274b1274": "RTHK evidenzia l'impatto urbanistico della nuova asta e le stime governative sulla crescita del patrimonio residenziale cittadino.",
+  "z1bbae5af": "RTHK mette in luce la singolarità dell'episodio capitato al ministro e il suo messaggio per mettere in guardia la cittadinanza dai raggiri.",
+  "z293d5aac": "ERT News si sofferma sulla semplificazione burocratica per i residenti grazie alla completa digitalizzazione del servizio.",
+  "z655f2f9e": "ERT News evidenzia il ruolo decisivo delle sovvenzioni statali nel contenere le spese per i rifornimenti di gasolio delle famiglie.",
+  "za98d4787": "MIA concentra l'attenzione sulle prospettive occupazionali e sul rilancio produttivo legato alla fornitura di ricambi per il settore auto.",
+  "z4ca6e002": "MIA pone l'accento sul dialogo istituzionale con la Grecia e sullo stato di avanzamento delle riforme legate all'integrazione europea.",
+  "z32fa4a2c": "IPN evidenzia le opportunità economiche offerte ai comuni per migliorare i servizi e le infrastrutture dedicate alla popolazione giovanile.",
+  "z76c4cd90": "IPN mette a fuoco l'estensione del beneficio fiscale per i cittadini e l'intervento diretto del ministero dell'Energia sui costi elettrici.",
+  "z28375719": "IPN si sofferma sull'apertura delle due manifestazioni di settore come snodo per lo sviluppo di macchinari e tecnologie agricole.",
+  "z6826cca0": "Azatutyun concentra la notizia sull'avvio dell'iter giudiziario a carico dell'ex leader parlamentare e degli altri coimputati.",
+  "z512292b3": "Azatutyun pone l'attenzione sulla diplomazia climatica caucasica e sulla presenza turca all'importante conferenza ospitata a Erevan.",
+  "z16cb34d0": "Vatican News pone in primo piano il richiamo etico a mettere l'essere umano al cuore di ogni azione congiunta di contrasto all'illegalità.",
+  "z36de7fba": "Vatican News evidenzia l'urgenza di un quadro etico-giuridico per le tecnologie belliche e l'appello per risorse concrete contro la povertà.",
+  "z0b496317": "San Marino RTV si concentra sul momento negativo del club e sul rapido riscatto richiesto dai prossimi turni di campionato.",
+  "zdf09ab33": "San Marino RTV dà risalto alla continuità dei vertici aziendali dopo l'intesa e la delibera approvata dai vertici Rai.",
+  "z51fa988a": "Bhutan Broadcasting Service celebra i successi dei propri studenti e il piazzamento nella parte alta della graduatoria mondiale.",
+  "z19b25cb9": "Bhutan Broadcasting Service pone in rilievo l'aggiornamento professionale delle cariche pubbliche per l'innovazione digitale del Paese.",
+  "zdfac0189": "Daily News (Tanzania) enfatizza la linea dura delle autorità britanniche sulle politiche di asilo e le limitazioni ai diplomatici stranieri.",
+  "z28b680c2": "Daily News (Tanzania) mette in rilievo la cooperazione diplomatica in Cina per accrescere la qualificazione tecnica delle nuove generazioni.",
+  "z9ca3bb89": "Meduza dà risalto all'azione investigativa russa contro il vertice di uno dei principali giornali dissidenti.",
+  "z36638104": "Meduza evidenzia la proposta avanzata dagli Stati Uniti e la netta chiusura opposta dagli alleati europei.",
+  "zeafffa48": "Meduza riporta la secca smentita della presidenza americana raccolta da Axios sui blocchi al sistema satellitare.",
+  "zd3b8cf0f": "The Kyiv Independent dà risalto alle affermazioni del premier irlandese a sostegno del percorso europeo di Kyiv.",
+  "z36afb62a": "Mail & Guardian sottolinea la bocciatura giudiziaria delle sanzioni disposte dalla Casa Bianca contro le ong.",
+  "zbac972fb": "Premium Times pone in luce l'annuncio dei brani inediti e il ritorno discografico dell'artista nigeriano.",
+  "zee4f05f2": "Premium Times evidenzia il bilancio numerico delle operazioni investigative svolte a tutela della salute dei consumatori.",
+  "z5082e37e": "Rappler pone l'accento sull'entità storica della multa e sul ruolo attribuito alla presunta leader del cartello.",
+  "z32401d86": "Rappler descrive le difficoltà gestionali e gli scandali che gravano sul ministero affidato a De Claro.",
+  "z61dda3af": "Iran International mette in rilievo le scuse pubbliche e la fine delle frizioni societarie prima della firma del rinnovo.",
+  "zb49f010e": "Il Post analizza i numeri dell'espansione e le caratteristiche del modello commerciale della catena olandese.",
+  "zece3d1fc": "Daily Maverick valorizza le ripercussioni politiche sulla tenuta della coalizione di governo dopo il pronunciamento giudiziario.",
+  "zc5ebaea1": "Daily Maverick mette a fuoco le denunce dei nutrizionisti contro i rischi di conflitto di interessi nei consessi scientifici.",
+  "ze85de80b": "HotNews pone l'accento sulla fermezza del cancelliere tedesco nel rivendicare l'autonomia decisionale europea sui fondi.",
+  "z40bb4971": "HotNews mette in evidenza il peso del debito estero a lungo termine sui proventi delle esportazioni nazionali.",
+  "z7fa640c6": "HotNews sottolinea il lungo ritardo accumulato rispetto al calendario iniziale di consegna dell'auto sportiva.",
+  "z2245f0af": "Vijesti pone l'accento sulla cornice del forum congiunto Europa-Asia in cui è avvenuta la firma dell'intesa.",
+  "z5aef18bf": "Vijesti evidenzia l'orgoglio espresso dai vertici della federazione sportiva montenegrina per il premio assegnato.",
+  "z7df38e95": "Vijesti mette a fuoco il superamento dello stallo giudiziario grazie al completamento dell'organico della Corte.",
+  "z7b585369": "OC Media mette in luce i timori di ritorsioni legali che hanno spinto il centro culturale a chiudere subito.",
+  "zca74dc44": "Myanmar Now evidenzia l'incongruenza tra le aperture formali al dialogo e l'aumento delle truppe sul terreno.",
+  "zaaa201f4": "Asia-Plus si concentra sull'impatto diretto delle crisi geopolitiche esterne sulle fabbriche e sulle imprese del Paese.",
+  "z35477283": "Asia-Plus sottolinea l'alleggerimento delle tempistiche burocratiche per i turisti e gli ospiti internazionali.",
+  "z98987dae": "Chronicles of Turkmenistan evidenzia l'accoglienza ufficiale riservata alla delegazione al vertice internazionale.",
+  "zbcd7d809": "France 24 si sofferma sulle difficoltà strategiche saudite nel neutralizzare le minacce aeree degli Houthi.",
+  "z4f49ec36": "France 24 punta l'attenzione sulla ripresa dei cortei di piazza e sul riemergere delle rivendicazioni sociali.",
+  "za8e1ec8a": "Tagesschau mette in risalto il canale insolito degli annunci pubblicitari online come vettore per l'infezione informatica.",
+  "z25dc40bf": "Tagesschau evidenzia l'approvazione formale dell'aula parlamentare sul riassetto della sanità emergenziale.",
+  "zefca124d": "Tagesschau punta l'attenzione sulla violenza scoppiata durante le manifestazioni contro il premier albanese.",
+  "z13cdd760": "Tagesschau sottolinea la posizione critica sulla crescita dei trasferimenti finanziari a vantaggio del bilancio UE.",
+  "z41f7424d": "RTP pone l'accento sulla prestazione individuale del connazionale nel successo di squadra dei Boston Celtics.",
+  "z86f1a9a6": "RTP mette in risalto il netto incremento delle compensazioni economiche legate ai gravi guasti alla rete.",
+  "z08adc5c7": "NOS evidenzia la ripresa dei rifornimenti a terra a fronte del persistente blocco delle attività digitali e online.",
+  "z30808747": "NOS evidenzia il bilancio allarmante delle vittime in mare e il possibile coinvolgimento di droni russi.",
+  "za9154c29": "NOS sottolinea il pericolo estremo scongiurato dall'intervento tempestivo della polizia in un'area densamente abitata.",
+  "z8d818936": "NOS pone l'accento sullo scetticismo dei mercati finanziari rispetto ai ritorni economici reali degli investimenti in IA.",
+  "z6f378b85": "VRT NWS sottolinea l'efficacia dei nuovi cartelli informativi nel dimezzare i transiti non autorizzati.",
+  "z92241e39": "SVT Nyheter mette in rilievo le prime dichiarazioni pubbliche dell'atleta alla stampa scandinava dopo il provvedimento disciplinare subito.",
+  "z38159b07": "SVT Nyheter evidenzia l'ottimismo di Ebba Busch nella costruzione di un'alternativa di governo nonostante i veti incrociati.",
+  "z8488bf1d": "SVT Nyheter mette in luce il carattere record del contingente approvato dalle autorità provinciali per la stagione venatoria.",
+  "z877f62bf": "NRK focalizza l'attenzione sulla risonanza internazionale e sulla reazione critica dei media tedeschi di fronte ai risultati dei club norvegesi.",
+  "ze3b1e7dd": "NRK mette l'accento sulla sconfitta giudiziaria del Parlamento Sami, condannato anche al pagamento delle spese legali.",
+  "z27206b47": "NRK riporta le comunicazioni ufficiali diffuse dalle agenzie russe e rilanciate dai media svedesi sui presunti trascorsi militari del detenuto.",
+  "z370d54ab": "RÚV evidenzia il severo ridimensionamento delle quote erogate dagli Stati Uniti e la tenuta degli impegni finanziari di pochissimi Paesi come l'Islanda.",
+  "zb84c002b": "RÚV mette a fuoco le critiche della leader della destra francese verso l'accelerazione dei negoziati finanziari a Bruxelles.",
+  "z41c788a6": "La Presse de Tunisie evidenzia il rigore scientifico alla base del decreto ministeriale per tutelare l'ecosistema marino nazionale.",
+  "zee4fc4ff": "La Presse de Tunisie mette in luce la pressione del tessuto imprenditoriale sui parlamentari per modificare la politica monetaria nazionale.",
+  "z122c2ff0": "La Presse de Tunisie evidenzia la concomitanza tra la rassegna espositiva del settore viaggi e la nomina di Tunisi a capitale turistica regionale.",
+  "zfe3a7ebd": "Radio Okapi mette in evidenza l'impegno sociale della cantante nel contrastare la violenza attraverso la musica.",
+  "za6c4f827": "Le Soleil pone l'accento sull'espansione della diplomazia scientifica spaziale cinese attraverso accordi bilaterali strategici.",
+  "zd2bbb6ec": "Le Soleil valorizza il coinvolgimento degli amministratori regionali per attuare gli impegni ecologici ed energetici statali."
  },
  "contesti": {
   "z18ad243f": "Harry e Meghan erano tornati a vivere nel Regno Unito dopo anni trascorsi negli Stati Uniti, ma non avevano ancora compiuto apparizioni pubbliche insieme fino a questa visita a Nottingham, città simbolicamente legata alla loro storia di coppia.",
@@ -7912,7 +9811,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zebbce12e": "Negli ultimi mesi il governo italiano ha lavorato a una revisione complessiva del Codice della strada, affrontando in Consiglio dei ministri e in Parlamento temi come sicurezza stradale, mobilità ciclistica e sanzioni per chi circola senza assicurazione. Il provvedimento, discusso a più riprese nelle settimane precedenti, ha visto l'introduzione di controlli automatizzati sulle banche dati assicurative e nuove regole su multe e limiti di velocità, approdando ora alla fase attuativa.",
   "zb4331343": "Nelle settimane scorse forti precipitazioni monsoniche hanno colpito il bacino del fiume Budhigandaki in Nepal, provocando esondazioni che hanno travolto villaggi e aree agricole lungo il corso d'acqua. Le autorità locali e le squadre veterinarie si sono mobilitate per valutare i danni e assistere la popolazione, mentre il bilancio delle perdite di bestiame e infrastrutture rurali è stato progressivamente aggiornato nei giorni successivi all'evento.",
   "z9bbea3a7": "Negli ultimi mesi l'Unione Europea ha affrontato crescenti tensioni geopolitiche ed economiche. L'invasione russa dell'Ucraina ha imposto ingenti sforzi finanziari e militari a sostegno di Kiev, mentre la volatilità dei mercati energetici ha riacceso le preoccupazioni sull'inflazione. Contemporaneamente, le frizioni commerciali con la Cina, segnate dall'indagine sui dazi ai veicoli elettrici, hanno spinto Bruxelles a ridefinire le priorità strategiche e il quadro finanziario comunitario.",
-  "zfd84108e": "Dalla rottura dell'accordo sul grano nel Mar Nero, le forze armate russe hanno intensificato i raid contro i porti fluviali e marittimi ucraini lungo il Danubio, a ridosso del confine romeno. Nei mesi scorsi diversi frammenti di droni sono precipitati in territorio Nato, spingendo Bucarest e l'Alleanza Atlantica a rafforzare i pattugliamenti aerei e le difese antiaeree per scongiurare incidenti diretti con la flotta mercantile internazionale.",
   "z47fdc2a0": "Nel corso del conflitto contro l'Ucraina, Mosca ha accelerato la produzione interna di droni d'attacco Geran, derivati dai progetti iraniani Shahed, per colpire infrastrutture civili e militari. L'intelligence occidentale ha ripetutamente segnalato l'espansione di complessi industriali e siti di lancio nella Federazione Russa, evidenziando il rapido adeguamento logistico dell'esercito russo per sostenere offensive su larga scala e saturare le difese aeree ucraine e alleate.",
   "zb97d8ad3": "Il negoziato sul bilancio pluriennale dell'Unione Europea vede da tempo la Spagna in prima linea nel chiedere risorse adeguate per sostenere la transizione ecologica e la coesione sociale. Madrid ha contestato le proposte al ribasso avanzate dai Paesi frugali, sostenendo la necessità di introdurre risorse proprie comunitarie. In tale contesto, il governo spagnolo ha promosso tassazioni mirate sui profitti straordinari delle multinazionali e dei colossi energetici.",
   "z4f64b4de": "La definizione del quadro finanziario pluriennale 2028-2034 evidenzia la storica spaccatura tra gli Stati membri dell'Unione Europea. Negli ultimi mesi, nazioni del blocco rigorista come Germania, Austria e Paesi Bassi hanno ribadito l'esigenza di disciplina fiscale e tagli alla spesa comune. Al contrario, i Paesi meridionali e orientali chiedono un bilancio più consistente per finanziare difesa comune, transizione verde e politiche di coesione territoriale.",
@@ -7950,7 +9848,22 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z15d5be26": "Le verifiche sulla gestione delle risorse destinate al sostegno della popolazione vulnerabile sono state avviate dagli organi inquirenti dopo discrepanze nei registri di spesa. Gli accertamenti preliminari hanno portato a formalizzare i capi d'accusa contro i vertici dell'ente.",
   "z21ce34a8": "Negli ultimi mesi l'Unione Europea ha cercato di mantenere compatto il fronte delle sanzioni contro i combustibili fossili russi, mentre a Sofia si è riacceso lo scontro interno sulla sicurezza energetica. Il presidente bulgaro Rumen Radev, già critico verso la linea intransigente di Bruxelles, ha sfruttato l'apertura delle trattative internazionali tra Washington e Mosca per rivendicare l'esigenza di forniture a basso costo per l'industria nazionale, scatenando aspre proteste comunitarie.",
   "zf942072d": "La sicurezza delle infrastrutture energetiche nel Golfo Persico è tornata al centro dell'agenda internazionale dopo una serie di minacce e attacchi con droni rivendicati da milizie regionali. La prolungata crisi in Medio Oriente e le instabilità marittime avevano già spinto i mercati verso una marcata volatilità. L'improvviso raid contro il quartier generale di Aramco ha riacceso i timori di un'interruzione prolungata delle forniture petrolifere, allarmando le istituzioni finanziarie internazionali.",
-  "z5daaed3f": "Nelle ultime settimane la Turchia nordoccidentale ha fatto i conti con un'ondata di maltempo caratterizzata da violenti temporali e sbalzi termici anomali. Il servizio meteorologico statale aveva diramato avvisi per la regione di Marmara, ma l'intensità delle precipitazioni ha rapidamente saturato i canali di scolo della popolosa metropoli sul Bosforo. I corsi d'acqua esondati e le colate di fango hanno travolto interi quartieri, cogliendo di sorpresa numerosi residenti."
+  "z5daaed3f": "Nelle ultime settimane la Turchia nordoccidentale ha fatto i conti con un'ondata di maltempo caratterizzata da violenti temporali e sbalzi termici anomali. Il servizio meteorologico statale aveva diramato avvisi per la regione di Marmara, ma l'intensità delle precipitazioni ha rapidamente saturato i canali di scolo della popolosa metropoli sul Bosforo. I corsi d'acqua esondati e le colate di fango hanno travolto interi quartieri, cogliendo di sorpresa numerosi residenti.",
+  "z36638104": "Dall'avvio delle ostilità in territorio ucraino nel 2022, i paesi occidentali hanno congelato centinaia di miliardi di euro appartenenti alla Banca centrale russa. Nelle scorse settimane le cancellerie alleate hanno discusso ripetutamente le modalità legali ed economiche per utilizzare questi fondi o i relativi interessi per sostenere Kyiv, scontrandosi con questioni di sovranità giurisdizionale e con il timore di compromettere la stabilità del sistema finanziario continentale.",
+  "z36afb62a": "Nelle settimane scorse l'amministrazione presidenziale statunitense aveva minacciato e predisposto misure sanzionatorie punitive contro la Corte penale internazionale e le realtà collaborative, criticando le inchieste sulle operazioni militari israeliane a Gaza. Numerose organizzazioni non governative avevano contestato le disposizioni esecutive americane, denunciando la violazione dei diritti fondamentali e l'interruzione della raccolta di testimonianze giudiziarie.",
+  "zece3d1fc": "Nelle scorse settimane una sentenza del tribunale elettorale aveva depennato dalle liste 181 candidati dell'Anc per contestazioni procedurali. La decisione aveva provocato l'opposizione della Democratic Alliance e costretto la dirigenza del partito storico a impugnare il verdetto davanti alla corte suprema per evitare una pesante sconfitta per rinuncia nelle circoscrizioni locali.",
+  "ze85de80b": "Nelle scorse settimane le capitali europee e l'amministrazione statunitense hanno intensificato il confronto sulla destinazione degli attivi russi bloccati dopo l'attacco all'Ucraina nel 2022. I contrasti sono emersi con la comparsa di proposte d'oltreoceano orientate ad assumere la regia dei capitali, provocando la ferma reazione delle principali cancellerie dell'Unione decise a tutelare i propri assetti giuridici.",
+  "zca74dc44": "Negli ultimi mesi, l'Esercito per l'Indipendenza Kachin ha inferto pesanti sconfitte alle truppe della giunta birmana, conquistando snodi strategici e hub minerari lungo il confine con la Cina. Di fronte alla perdita di controllo territoriale e all'indebolimento delle proprie posizioni nel nord del Paese, il regime militare di Naypyidaw ha tentato di aprire canali negoziali con le milizie etniche, aumentando contemporaneamente lo spiegamento di forze e i bombardamenti nell'area.",
+  "zbcd7d809": "A dieci anni dall'intervento della coalizione araba a guida saudita in Yemen, le milizie Houthi hanno intensificato i lanci di droni e missili balistici verso il territorio del Regno. Già nei giorni scorsi un primo raid aveva preso di mira le infrastrutture aeroportuali della capitale Riad. Nonostante gli sforzi diplomatici di tregua, le forze ribelli filo-iraniane continuano a colpire nodi logistici ed energetici critici per dimostrare la vulnerabilità della difesa aerea saudita.",
+  "zefca124d": "Il clima politico in Albania si è progressivamente surriscaldato nelle ultime settimane a causa delle accuse di corruzione, autoritarismo e condizionamento elettorale rivolte dalle opposizioni al premier Edi Rama. Le forze antigovernative, guidate dal Partito Democratico, hanno promosso una serie di sit-in e scioperi per chiedere le dimissioni dell'esecutivo e un governo tecnico di transizione, culminati in cortei non autorizzati e assedi agli edifici istituzionali della capitale Tirana.",
+  "z30808747": "La sicurezza della navigazione mercantile nel Mar Nero è entrata in una fase critica a causa dei continui raid russi contro le rotte del grano e le infrastrutture portuali lungo il Danubio. Nei giorni precedenti all'incidente, le difese aeree regionali avevano segnalato ripetute incursioni di droni d'attacco in prossimità dei confini romeni e ucraini, aumentando l'allerta per il traffico marittimo civile in transito al largo delle coste della Nato.",
+  "z38159b07": "Negli ultimi giorni il Parlamento di Stoccolma ha affrontato delicate votazioni per la premiership che hanno evidenziato la frammentazione tra i blocchi politici. Di fronte a tentativi di intesa centrista e alla resistenza di alcuni partiti nel collaborare stabilmente con la destra, la leader cristiano-democratica Ebba Busch ha intensificato i contatti con le altre forze conservatrici per compattare l'alleanza e scongiurare uno stallo istituzionale o un ritorno al governo delle sinistre.",
+  "z370d54ab": "Nel corso dell'ultimo anno, le agenzie umanitarie delle Nazioni Unite hanno subito ripetute contrazioni di bilancio, causate dal ridimensionamento dei fondi per la cooperazione internazionale deciso dalle potenze occidentali. Le assemblee e i vertici dei donatori svoltisi nelle ultime settimane avevano già evidenziato l'impossibilità di coprire i fabbisogni globali per le carestie in corso, portando il Programma alimentare mondiale a dover ridurre le razioni destinate a milioni di rifugiati.",
+  "zb84c002b": "Nelle ultime settimane, i leader dell'Unione europea hanno accelerato i negoziati per definire gli assetti del bilancio comunitario e le risorse finanziarie dei prossimi anni. La concomitanza con la campagna elettorale per le presidenziali francesi ha tuttavia acceso lo scontro politico interno in Francia. I movimenti di opposizione guidati da Marine Le Pen contestano la tempistica dell'intesa comunitaria, ritenendo inaccettabile blindare scelte strategiche prima del pronunciamento democratico dei cittadini alle urne.",
+  "za8e1ec8a": "Negli ultimi anni il mercato dei software spia commerciali di matrice israeliana è finito sotto costante osservazione internazionale per violazioni della privacy e spionaggio politico. Nelle scorse settimane le redazioni di Bayerischer Rundfunk e netzpolitik.org hanno approfondito l'analisi tecnica di anomalie nei circuiti pubblicitari digitali. L'inchiesta ha svelato l'uso dell'ad-tech per veicolare malware invisibili direttamente sugli smartphone e sui computer di diplomatici, giornalisti e dirigenti d'azienda selezionati.",
+  "z27206b47": "Nelle ultime settimane le autorità di sicurezza russe hanno moltiplicato i controlli lungo le frontiere e intensificato le operazioni contro presunti sabotatori legati a Kiev. Il crescente coinvolgimento di volontari e istruttori occidentali nel conflitto ucraino, unito all'ingresso della Svezia nella Nato, ha inasprito i rapporti diplomatici con Mosca. L'FSB monitorava da tempo le reti di droni operanti lungo le linee di confine prima di procedere al fermo.",
+  "za6c4f827": "Negli ultimi anni, Islamabad e Pechino hanno intensificato la cooperazione strategica e tecnologica, estendendola al settore dell'esplorazione extra-atmosferica. La Cina ha completato l'assemblaggio della stazione orbitale modulare Tiangong, aprendola progressivamente a missioni scientifiche e astronauti di Paesi partner. Attraverso intese bilaterali con l'agenzia spaziale pachistana SUPARCO, le due nazioni hanno concordato percorsi congiunti di addestramento e ricerca, ponendo le basi per l'inserimento formale del primo rappresentante di Islamabad a bordo della stazione nel 2026.",
+  "z5206b28e": "Da diversi mesi le autorità tedesche e la compagnia ferroviaria Deutsche Bahn discutevano misure più stringenti per contrastare il degrado e gli episodi di violenza negli scali ferroviari. Numerosi sindaci e associazioni di categoria hanno sollecitato interventi mirati per garantire una maggiore tutela di pendolari e lavoratori. Dopo varie sperimentazioni a livello locale in singole città, i vertici federali e dei trasporti hanno concordato di estendere formalmente il divieto di consumo di alcolici a tutta la rete."
  },
  "cronologie": {
   "z18ad243f": [
@@ -8169,20 +10082,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "14 ottobre",
     "Confermata la presenza di Volodymyr Zelensky al vertice europeo"
-   ]
-  ],
-  "zfd84108e": [
-   [
-    "Luglio-Agosto",
-    "Attacchi russi contro le infrastrutture portuali ucraine sul Danubio"
-   ],
-   [
-    "Settembre",
-    "Nuovi allarmi per frammenti di droni caduti in territorio romeno"
-   ],
-   [
-    "Notte precedente",
-    "Raid di droni russi nel Mar Nero e attacco alle petroliere"
    ]
   ],
   "z47fdc2a0": [
@@ -8603,6 +10502,216 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "Nelle scorse ore",
     "Attacco missilistico Neptune delle forze navali ucraine e distruzione dei velivoli"
+   ]
+  ],
+  "z36638104": [
+   [
+    "Inizio 2022",
+    "I paesi occidentali congelano le riserve valutarie e gli attivi sovrani russi depositati all'estero"
+   ],
+   [
+    "Mesi scorsi",
+    "Apertura del confronto tra alleati per destinare le rendite degli asset a supporto dell'Ucraina"
+   ],
+   [
+    "Oggi",
+    "L'Europa respinge la richiesta americana di porre sotto controllo statunitense parte dei fondi bloccati"
+   ]
+  ],
+  "z36afb62a": [
+   [
+    "Settimane scorse",
+    "La presidenza Trump annuncia provvedimenti sanzionatori contro enti collegati alla Cpi"
+   ],
+   [
+    "Giorni scorsi",
+    "Ricorso giudiziario presentato dalle organizzazioni umanitarie contro le sanzioni federali"
+   ],
+   [
+    "Oggi",
+    "Ordinanza cautelare del tribunale che sospende le restrizioni dell'amministrazione Usa"
+   ]
+  ],
+  "zece3d1fc": [
+   [
+    "Settimane scorse",
+    "Il tribunale elettorale esclude decine di candidati dell'Anc per vizi di forma"
+   ],
+   [
+    "Giorni scorsi",
+    "Scontro nella coalizione di governo sulla richiesta di riammissione avanzata dall'Anc"
+   ],
+   [
+    "Oggi",
+    "La Corte costituzionale riammette le liste e Mbalula lancia un avvertimento agli alleati"
+   ]
+  ],
+  "ze85de80b": [
+   [
+    "Mesi scorsi",
+    "Blocco e consolidamento dei capitali russi in istituti europei dopo l'invasione dell'Ucraina"
+   ],
+   [
+    "Giorni scorsi",
+    "Pressioni di Washington per ottenere il controllo su una quota delle riserve sequestrate"
+   ],
+   [
+    "Oggi",
+    "Presa di posizione netta del cancelliere Merz che ribadisce l'esclusiva competenza europea"
+   ]
+  ],
+  "zca74dc44": [
+   [
+    "Settimane scorse",
+    "Il KIA conquista importanti avamposti e centri minerari nello Stato Kachin"
+   ],
+   [
+    "Giorni scorsi",
+    "La giunta militare propone l'apertura di negoziati di pace alle milizie"
+   ],
+   [
+    "Oggi",
+    "La dirigenza del KIO respinge formalmente l'offerta di dialogo"
+   ]
+  ],
+  "zbcd7d809": [
+   [
+    "Pochi giorni fa",
+    "Primo attacco con droni e missili rivendicato contro l'aeroporto di Riad"
+   ],
+   [
+    "Vigilia del raid",
+    "Rinnovate minacce degli Houthi contro infrastrutture strategiche saudite"
+   ],
+   [
+    "Oggi",
+    "Nuovo raid contro lo scalo della capitale rivendicato dai ribelli"
+   ]
+  ],
+  "za8e1ec8a": [
+   [
+    "Mesi scorsi",
+    "Rapporti su nuove vulnerabilità sfruttate dal settore dei cyber-armi"
+   ],
+   [
+    "Settimane scorse",
+    "Inchiesta congiunta tra BR e netzpolitik.org sui tracciamenti pubblicitari"
+   ],
+   [
+    "Oggi",
+    "Pubblicazione dei risultati sull'infezione tramite annunci mirati"
+   ]
+  ],
+  "zefca124d": [
+   [
+    "Settimane scorse",
+    "L'opposizione albanese lancia una campagna di disobbedienza civile"
+   ],
+   [
+    "Giorni scorsi",
+    "Appelli dei partiti rivali alla mobilitazione generale a Tirana"
+   ],
+   [
+    "Oggi",
+    "Cortei nel centro della capitale e duri scontri con la polizia"
+   ]
+  ],
+  "z30808747": [
+   [
+    "Giorni scorsi",
+    "Intensificazione dei raid aerei russi sui corridoi commerciali del Mar Nero"
+   ],
+   [
+    "Poche ore fa",
+    "Esplosioni e incendi a bordo di due petroliere all'ancora"
+   ],
+   [
+    "Oggi",
+    "Operazioni di soccorso della guardia costiera ed evacuazione degli equipaggi"
+   ]
+  ],
+  "z38159b07": [
+   [
+    "Giorni scorsi",
+    "Votazione al Riksdag per l'elezione del primo ministro"
+   ],
+   [
+    "Ieri",
+    "Ipotesi di colloqui esplorativi per una formula di compromesso al centro"
+   ],
+   [
+    "Oggi",
+    "Busch ribadisce la linea per un governo compatto di centrodestra"
+   ]
+  ],
+  "z27206b47": [
+   [
+    "Settimane scorse",
+    "Rafforzamento dei controlli dell'FSB nelle aree di confine con l'Ucraina"
+   ],
+   [
+    "Giorni scorsi",
+    "Intercettazione e arresto del cittadino svedese in territorio russo"
+   ],
+   [
+    "Oggi",
+    "Diffusione delle accuse formali di tentato sabotaggio militare"
+   ]
+  ],
+  "z370d54ab": [
+   [
+    "Mesi scorsi",
+    "Revisione al ribasso dei bilanci esteri dei principali governi donatori"
+   ],
+   [
+    "Settimane scorse",
+    "Allarmi del WFP sulla riduzione delle razioni alimentari nei teatri di crisi"
+   ],
+   [
+    "Oggi",
+    "Denuncia ufficiale dell'agenzia sul taglio del 46% dei fondi statunitensi"
+   ]
+  ],
+  "zb84c002b": [
+   [
+    "Fine 2021",
+    "Avvio del dibattito europeo sulla revisione del quadro finanziario"
+   ],
+   [
+    "Inizio 2022",
+    "Cresce la polemica delle opposizioni francesi in vista delle elezioni"
+   ],
+   [
+    "Vigilia del vertice",
+    "I vertici UE accelerano le trattative per blindare l'accordo a Bruxelles"
+   ]
+  ],
+  "za6c4f827": [
+   [
+    "Novembre 2022",
+    "Completamento dell'assemblaggio orbitale della stazione spaziale Tiangong"
+   ],
+   [
+    "2023",
+    "Pechino ufficializza l'apertura delle missioni a candidati astronauti internazionali"
+   ],
+   [
+    "Mesi scorsi",
+    "Definizione dell'intesa tra Cina e Pakistan per l'addestramento congiunto"
+   ]
+  ],
+  "z5206b28e": [
+   [
+    "Mesi scorsi",
+    "Avvio di progetti pilota con restrizioni sull'alcol in selezionate stazioni tedesche"
+   ],
+   [
+    "Settimane scorse",
+    "Crescono gli appelli dei sindacati dei trasporti per una maggiore sicurezza"
+   ],
+   [
+    "Pochi giorni fa",
+    "Definizione delle linee guida e via libera all'entrata in vigore del bando nazionale"
    ]
   ]
  },
@@ -9621,13 +11730,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    ],
    "pt": []
   },
-  "zfd84108e": {
-   "n": "Romania",
-   "p": [
-    "Romania"
-   ],
-   "pt": []
-  },
   "z4a6a3a68": {
    "n": "Uganda",
    "p": [
@@ -10049,13 +12151,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z2756d3e6": {
    "n": "Globale",
    "p": [],
-   "pt": []
-  },
-  "ze2e30cfb": {
-   "n": "Toronto",
-   "p": [
-    "Canada"
-   ],
    "pt": []
   },
   "z7fab09a9": {
@@ -10646,6 +12741,548 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "South Korea"
    ],
    "pt": []
+  },
+  "z75063c36": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z26b14386": {
+   "n": "Seul",
+   "p": [
+    "South Korea",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z23060afa": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand",
+    "South Korea",
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z702e88d8": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z10c2dc36": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z274b1274": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z1bbae5af": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z293d5aac": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z655f2f9e": {
+   "n": "Evros",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "za98d4787": {
+   "n": "Bitola",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "z4ca6e002": {
+   "n": "Skopje",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "z32fa4a2c": {
+   "n": "Moldavia",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z76c4cd90": {
+   "n": "Chișinău",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z28375719": {
+   "n": "Chișinău",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z6826cca0": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z512292b3": {
+   "n": "Erevan",
+   "p": [
+    "Armenia",
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z16cb34d0": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z36de7fba": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0b496317": {
+   "n": "Coriano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zdf09ab33": {
+   "n": "San Marino",
+   "p": [
+    "San Marino"
+   ],
+   "pt": []
+  },
+  "z51fa988a": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea",
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "z19b25cb9": {
+   "n": "Thimphu",
+   "p": [
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "zdfac0189": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom",
+    "Eritrea"
+   ],
+   "pt": []
+  },
+  "z28b680c2": {
+   "n": "Tianjin",
+   "p": [
+    "China",
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z9ca3bb89": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z36638104": {
+   "n": "Bruxelles",
+   "p": [
+    "United States of America",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zeafffa48": {
+   "n": "Washington",
+   "p": [
+    "United States of America",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zd3b8cf0f": {
+   "n": "Dublino",
+   "p": [
+    "Ireland",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z36afb62a": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbac972fb": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zee4f05f2": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z5082e37e": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z32401d86": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z61dda3af": {
+   "n": "Tabriz",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zb49f010e": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zece3d1fc": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zc5ebaea1": {
+   "n": "Città del Capo",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "ze85de80b": {
+   "n": "Berlino",
+   "p": [
+    "Germany",
+    "United States of America",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z40bb4971": {
+   "n": "Romania",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z7fa640c6": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2245f0af": {
+   "n": "Montenegro",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z5aef18bf": {
+   "n": "Montenegro",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z7df38e95": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z7b585369": {
+   "n": "Tbilisi",
+   "p": [
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "zca74dc44": {
+   "n": "Stato Kachin",
+   "p": [
+    "Myanmar"
+   ],
+   "pt": []
+  },
+  "zaaa201f4": {
+   "n": "Tagikistan",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z35477283": {
+   "n": "Tagikistan",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z98987dae": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zbcd7d809": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z4f49ec36": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "za8e1ec8a": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z25dc40bf": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zefca124d": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z13cdd760": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z41f7424d": {
+   "n": "Boston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z86f1a9a6": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z08adc5c7": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z30808747": {
+   "n": "Mar Nero",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "za9154c29": {
+   "n": "Utrecht",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z8d818936": {
+   "n": "Amsterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z6f378b85": {
+   "n": "Blankenberge",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z92241e39": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z38159b07": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z8488bf1d": {
+   "n": "Västra Götaland",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z877f62bf": {
+   "n": "Oslo",
+   "p": [
+    "Norway",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "ze3b1e7dd": {
+   "n": "Oslo",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z27206b47": {
+   "n": "Mosca",
+   "p": [
+    "Russia",
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z370d54ab": {
+   "n": "Roma",
+   "p": [
+    "Iceland",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb84c002b": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "France"
+   ],
+   "pt": []
+  },
+  "z41c788a6": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zee4fc4ff": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z122c2ff0": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zfe3a7ebd": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "za6c4f827": {
+   "n": "Pechino",
+   "p": [
+    "China",
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zd2bbb6ec": {
+   "n": "Sédhiou",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -10783,7 +13420,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zd43a8feb": 1,
   "zed0e5fe2": 1,
   "z883b926f": 1,
-  "zfd84108e": 2,
   "z4a6a3a68": 1,
   "zcf5b5eec": 1,
   "z6544e416": 1,
@@ -10845,7 +13481,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zcfc5238c": 1,
   "zc7b40326": 1,
   "z2756d3e6": 1,
-  "ze2e30cfb": 1,
   "z7fab09a9": 1,
   "z6721a948": 1,
   "z5e026878": 2,
@@ -10914,7 +13549,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z5d1784fd": 1,
   "z3ad3895a": 1,
   "z325c3b72": 1,
-  "z5206b28e": 1,
+  "z5206b28e": 2,
   "z59113767": 1,
   "zdcb7c30c": 1,
   "z6d63f003": 1,
@@ -10929,7 +13564,82 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z3b544f41": 1,
   "z3372e016": 1,
   "zdd02a652": 1,
-  "ze6800755": 1
+  "ze6800755": 1,
+  "z75063c36": 1,
+  "z26b14386": 1,
+  "z23060afa": 1,
+  "z702e88d8": 1,
+  "z10c2dc36": 1,
+  "z274b1274": 1,
+  "z1bbae5af": 1,
+  "z293d5aac": 1,
+  "z655f2f9e": 1,
+  "za98d4787": 1,
+  "z4ca6e002": 1,
+  "z32fa4a2c": 1,
+  "z76c4cd90": 1,
+  "z28375719": 1,
+  "z6826cca0": 1,
+  "z512292b3": 1,
+  "z16cb34d0": 1,
+  "z36de7fba": 1,
+  "z0b496317": 1,
+  "zdf09ab33": 1,
+  "z51fa988a": 1,
+  "z19b25cb9": 1,
+  "zdfac0189": 1,
+  "z28b680c2": 1,
+  "z9ca3bb89": 1,
+  "z36638104": 2,
+  "zeafffa48": 1,
+  "zd3b8cf0f": 1,
+  "z36afb62a": 2,
+  "zbac972fb": 1,
+  "zee4f05f2": 1,
+  "z5082e37e": 1,
+  "z32401d86": 1,
+  "z61dda3af": 1,
+  "zb49f010e": 1,
+  "zece3d1fc": 2,
+  "zc5ebaea1": 1,
+  "ze85de80b": 2,
+  "z40bb4971": 1,
+  "z7fa640c6": 1,
+  "z2245f0af": 1,
+  "z5aef18bf": 1,
+  "z7df38e95": 1,
+  "z7b585369": 1,
+  "zca74dc44": 2,
+  "zaaa201f4": 1,
+  "z35477283": 1,
+  "z98987dae": 1,
+  "zbcd7d809": 2,
+  "z4f49ec36": 1,
+  "za8e1ec8a": 2,
+  "z25dc40bf": 1,
+  "zefca124d": 2,
+  "z13cdd760": 1,
+  "z41f7424d": 1,
+  "z86f1a9a6": 1,
+  "z08adc5c7": 1,
+  "z30808747": 2,
+  "za9154c29": 1,
+  "z8d818936": 1,
+  "z6f378b85": 1,
+  "z92241e39": 1,
+  "z38159b07": 2,
+  "z8488bf1d": 1,
+  "z877f62bf": 1,
+  "ze3b1e7dd": 1,
+  "z27206b47": 2,
+  "z370d54ab": 2,
+  "zb84c002b": 2,
+  "z41c788a6": 1,
+  "zee4fc4ff": 1,
+  "z122c2ff0": 1,
+  "zfe3a7ebd": 1,
+  "za6c4f827": 2,
+  "zd2bbb6ec": 1
  },
  "video": {},
  "pillole": []
