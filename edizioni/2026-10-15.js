@@ -40,6 +40,13 @@ window.EDIZIONI["2026-10-15"] = {
      "c": "Seul",
      "u": "https://www.nknews.org/2026/10/how-north-korean-missiles-found-their-way-into-houthi-hands/",
      "angolo": "Testata specializzata sulla Corea del Nord: ricostruisce la filiera attraverso cui armi di origine nordcoreana sarebbero arrivate nelle mani degli Houthi."
+    },
+    {
+     "n": "Asia-Plus",
+     "p": "TJ",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/15/tajikistan-condemns-attacks-on-saudi-arabias-facilities/",
+     "angolo": "Dal Tagikistan, riferisce la condanna del ministero degli Esteri e l'appello a negoziare e cessare le ostilità."
     }
    ],
    "data": "14 ott"
@@ -501,8 +508,15 @@ window.EDIZIONI["2026-10-15"] = {
    "sez": "economia",
    "titolo": "Il Fmi avverte più Paesi africani sui rischi di bilancio, mentre lo shock del Golfo pesa sulla crescita",
    "orig": "Zambia Cuts Growth Forecasts As El Niño And Gulf War Cloud Outlook",
-   "lead": "Lo Zambia ha tagliato le previsioni di crescita per il 2027 e il 2028, al 4,9% e 5%, citando gli effetti di El Niño sull'agricoltura e il prolungarsi della guerra nel Golfo sui prezzi dell'energia. Nello stesso giorno il Fondo monetario internazionale ha sconsigliato alla Nigeria di reintrodurre i sussidi generalizzati sulla benzina, suggerendo invece aiuti mirati alle famiglie più vulnerabili, mentre in Kenya la crescita stimata dal Fmi resta un tema centrale della campagna elettorale.",
+   "lead": "Lo Zambia ha tagliato le previsioni di crescita per il 2027 e il 2028, al 4,9% e 5%, citando gli effetti di El Niño sull'agricoltura e il prolungarsi della guerra nel Golfo sui prezzi dell'energia. Nello stesso giorno il Fondo monetario internazionale ha sconsigliato alla Nigeria di reintrodurre i sussidi generalizzati sulla benzina, suggerendo invece aiuti mirati alle famiglie più vulnerabili, mentre in Kenya la crescita stimata dal Fmi resta un tema centrale della campagna elettorale e il Senegal, con l'assistenza del Fondo, ha avviato il piano per ristrutturare il proprio debito pubblico.",
    "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "SN",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Economie/cest-un-test-grandeur-nature-la-dg-du-fmi-explique-pourquoi-le-traitement-de-la-dette-senegalaise-est-crucial_n_999000714.html",
+     "angolo": "Dal Senegal, riporta le parole della direttrice del Fmi sul perché il trattamento del debito senegalese sia un «test su scala reale»."
+    },
     {
      "n": "Lusaka Times",
      "p": "ZM",
@@ -1155,6 +1169,466 @@ window.EDIZIONI["2026-10-15"] = {
     }
    ],
    "data": "15 ott"
+  },
+  {
+   "id": "albania",
+   "sez": "mondo",
+   "titolo": "Il ministro dell'Interno albanese visita in ospedale i 51 agenti feriti nelle proteste studentesche",
+   "orig": "Ministri Demo viziton në spital efektivët: 51 punonjës policie të lënduar në protestë",
+   "lead": "Secondo Euronews Albania, il ministro dell'Interno Ervin Demo ha visitato in ospedale gli agenti di polizia feriti durante la seconda giornata di proteste studentesche a Tirana, iniziate davanti al ministero dell'Istruzione e poi estese a varie zone della capitale.",
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "AL",
+     "c": "Tirana",
+     "u": "https://euronews.al/ministri-demo-viziton-ne-spital-efektivet-51-punonjes-policie-te-lenduar-ne-proteste/",
+     "angolo": "Segue la vicenda dal lato delle istituzioni, con la visita del ministro agli agenti feriti durante le proteste."
+    }
+   ],
+   "data": "14 ott"
+  },
+  {
+   "id": "azerbaigian",
+   "sez": "mondo",
+   "titolo": "Azerbaigian e Cina discutono di cooperazione economica e sicurezza del Corridoio di Mezzo",
+   "orig": "Azerbaijan, China discuss economic ties, security, Middle Corridor (PHOTO)",
+   "lead": "Secondo l'agenzia azera Trend, rappresentanti di Azerbaigian e Cina si sono incontrati a Baku per discutere il rafforzamento dei legami economici e della sicurezza lungo il Corridoio di Mezzo, la rotta commerciale che collega l'Asia centrale all'Europa evitando il territorio russo.",
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "AZ",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4234969.html",
+     "angolo": "Dà conto dell'incontro come tappa del rafforzamento dei legami economici lungo il Corridoio di Mezzo."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "pavelia",
+   "sez": "mondo",
+   "titolo": "Il presidente ceco Pavel: «L'intelligenza artificiale può amplificare la manipolazione»",
+   "orig": "Pavel warns AI could amplify manipulation, urges democratic oversight",
+   "lead": "In un videomessaggio al Forum 2000 di Praga, il presidente ceco Petr Pavel ha avvertito che l'intelligenza artificiale rischia di amplificare la manipolazione dell'informazione, e ha chiesto una sorveglianza democratica più stretta sulle nuove tecnologie, richiamando l'eredità di Václav Havel sulla responsabilità tecnologica.",
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "CZ",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/pavel-warns-ai-could-amplify-manipulation-urges-democratic-oversight",
+     "angolo": "Collega l'intervento del presidente alla tradizione di impegno civile legata a Václav Havel."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "estonia",
+   "sez": "tech",
+   "titolo": "L'Estonia testa di nuovo il suo allarme nazionale via sms, record di consegne ma lacune sui rifugi",
+   "orig": "Estonia's EE-ALARM test sets SMS record but sheltering gaps remain",
+   "lead": "Secondo l'emittente pubblica ERR News, il nuovo test del sistema di allarme nazionale EE-ALARM ha stabilito un record di messaggi consegnati, ma ha anche rivelato che molti residenti non sanno ancora come comportarsi quando risuonano le sirene né dove trovare rifugio.",
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "EE",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610166613/estonia-s-ee-alarm-test-sets-sms-record-but-sheltering-gaps-remain",
+     "angolo": "Segnala insieme al successo tecnico del test le lacune pratiche nella preparazione dei cittadini."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "figi",
+   "sez": "mondo",
+   "titolo": "Figi, un cavillo nella nuova Costituzione fa temere una crisi istituzionale",
+   "orig": "Constitutional Bill loophole raises fear of constitutional crisis",
+   "lead": "Secondo FBC News, un giurista delle Figi ha segnalato che una disposizione del progetto di nuova Costituzione potrebbe creare una crisi istituzionale se il testo entrasse in vigore tra il 24 e il 31 dicembre 2026, un periodo critico per i poteri del Parlamento.",
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "FJ",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/constitutional-bill-loophole-raises-fear-of-constitutional-crisis/",
+     "angolo": "Dà voce ai giuristi che segnalano il rischio tecnico nel calendario di entrata in vigore del nuovo testo."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "ghanapassaporti",
+   "sez": "mondo",
+   "titolo": "Il Ghana acquista venti veicoli per migliorare i servizi passaporti",
+   "orig": "Foreign Affairs Ministry procures 20 pickups to improve passport services",
+   "lead": "Secondo MyJoyOnline, il ministero degli Affari Esteri del Ghana ha acquistato venti veicoli pick-up da destinare ai centri per il rilascio dei passaporti in tutto il Paese, con l'obiettivo di migliorare la mobilità del personale e velocizzare il servizio ai cittadini.",
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "GH",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/foreign-affairs-ministry-procures-20-pickups-to-improve-passport-services/",
+     "angolo": "Presenta la misura come un intervento concreto per migliorare un servizio pubblico spesso criticato dai cittadini."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "guineaambasciata",
+   "sez": "mondo",
+   "titolo": "La Guinea nomina un nuovo ambasciatore a Mosca",
+   "orig": "Diplomatie : Mohamed Keita nommé ambassadeur de la Guinée en Russie (Décret)",
+   "lead": "Secondo Mosaïque Guinée, il presidente guineano Mamadi Doumbouya ha nominato con decreto l'ex ministro Mohamed Keita come nuovo ambasciatore della Guinea in Russia, annunciato nel telegiornale della televisione statale.",
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "GN",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/diplomatie-mohamed-keita-nomme-ambassadeur-de-la-guinee-en-russie-decret/",
+     "angolo": "Riporta la nomina come annunciata dal decreto presidenziale letto in televisione."
+    }
+   ],
+   "data": "14 ott"
+  },
+  {
+   "id": "undppoverta",
+   "sez": "economia",
+   "titolo": "Il capo dell'Undp avverte: la povertà cresce nella regione dopo lo shock della guerra in Iran",
+   "orig": "UNDP chief sounds alarm on growing poverty after Iran war shock",
+   "lead": "Secondo Iraqi News, il capo del Programma delle Nazioni Unite per lo sviluppo avverte che milioni di persone rischiano di cadere in povertà per l'aumento dei costi energetici, gli effetti di un intenso El Niño e tassi d'interesse più alti, con i Paesi più vulnerabili della regione spinti sull'orlo della crisi dagli shock ripetuti legati alla guerra in Iran.",
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "IQ",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/arab-world-news/undp-chief-sounds-alarm-on-growing-poverty-after-iran-war-shock/",
+     "angolo": "Riprende l'allarme dell'Undp sulle ricadute economiche regionali della guerra in Iran."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "laosminiere",
+   "sez": "mondo",
+   "titolo": "Il Laos sequestra 23 scavatori in due raid contro l'estrazione d'oro illegale",
+   "orig": "Authorites Seize 23 Excavators in Two Illegal Gold Mining Raids in Vientiane",
+   "lead": "Secondo The Laotian Times, le autorità laotiane hanno sequestrato 23 scavatori e altre attrezzature in due raid contro siti di estrazione illegale dell'oro nel distretto di Sangthong, vicino alla capitale Vientiane, insieme a schermi per la filtrazione dell'oro e generatori.",
+   "fonti": [
+    {
+     "n": "The Laotian Times",
+     "p": "LA",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/15/authorities-seizes-23-excavators-illegal-gold-mining-vientiane/",
+     "angolo": "Dà i dettagli operativi dei due raid, con l'elenco delle attrezzature sequestrate."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "rigastazione",
+   "sez": "ingegneria",
+   "titolo": "Riga riqualifica la piazza della stazione centrale",
+   "orig": "Rīga Central Station square to be redeveloped",
+   "lead": "Secondo l'emittente pubblica lettone LSM, il progetto «Migla», firmato dagli studi NOONSOON e Nemoralis, è stato scelto come miglior proposta nel concorso per la riqualificazione della piazza della stazione centrale di Riga.",
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "LV",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/society/environment/15.10.2026-riga-central-station-square-to-be-redeveloped.a667653/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "Presenta il progetto vincitore del concorso di architettura e paesaggio per la piazza della stazione."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "libiaallagamenti",
+   "sez": "mondo",
+   "titolo": "Tripoli ancora alle prese con i danni delle piogge torrenziali",
+   "orig": "Tripoli still clearing up after dramatic rainfall led to flooding of roads, homes and commercial premises",
+   "lead": "Secondo Libya Herald, Tripoli è ancora alle prese con i danni lasciati dal nubifragio del giorno precedente, che ha allagato strade, abitazioni e attività commerciali: almeno una persona è morta annegata nell'alluvione.",
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "LY",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/10/tripoli-still-clearing-up-after-dramatic-rainfall-led-to-flooding-of-roads-homes-and-commercial-premises/",
+     "angolo": "Documenta con tono sobrio l'entità dei danni lasciati dall'alluvione sulla capitale libica."
+    }
+   ],
+   "data": "14 ott"
+  },
+  {
+   "id": "lituaniadifesa",
+   "sez": "mondo",
+   "titolo": "Lituania, il premier chiede un uso più rapido dei fondi per la difesa",
+   "orig": "Sinkevičius: KAM paaiškinimus dėl gynybos lėšų suprantu, bet aparatas turi dirbti sparčiau",
+   "lead": "Secondo l'emittente pubblica lituana LRT, il premier Mindaugas Sinkevičius ha detto di comprendere le spiegazioni del ministero della Difesa sul perché, a fine anno, sia stata usata solo la metà dei fondi pianificati, ma ha chiesto alle agenzie di appalto di lavorare più rapidamente.",
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "LT",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3083052/sinkevicius-kam-paaiskinimus-del-gynybos-lesu-suprantu-bet-aparatas-turi-dirbti-sparciau",
+     "angolo": "Riporta le parole del premier sul ritardo nell'uso dei fondi per la difesa, in un contesto di crescente attenzione europea alla sicurezza."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "lussemburgoscatole",
+   "sez": "salute",
+   "titolo": "In Lussemburgo arrivano in altre 5.000 case le scatole gialle con le informazioni medicali",
+   "orig": "Boxes with vital medical information set to reach 5,000 more Luxembourg homes",
+   "lead": "Secondo Luxembourg Times, le «scatole gialle» contenenti le informazioni medicali essenziali dei residenti, pensate per aiutare i soccorritori in caso di emergenza, raggiungeranno altre 5.000 abitazioni del Granducato.",
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "LU",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/boxes-with-vital-medical-information-set-to-reach-5000-more-luxembourg-homes/163047422.html",
+     "angolo": "Presenta l'iniziativa come una misura concreta di prevenzione per le emergenze sanitarie domestiche."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "macedoniafestival",
+   "sez": "cultura",
+   "titolo": "Il festival del cinema di Skopje premia il regista turco Emin Alper",
+   "orig": "Отворен 11. Киненова, „Златна грива“ за Емин Алпер за придонес во светската филмска уметност",
+   "lead": "Secondo l'agenzia macedone MIA, l'undicesima edizione del festival Cinenova a Skopje si è aperta con la proiezione di un film e l'assegnazione del premio «Criniera d'Oro» al regista, sceneggiatore e attore turco Emin Alper per il suo contributo al cinema mondiale.",
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "MK",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD-11.-%D0%BA%D0%B8%D0%BD%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B7%D0%BB%D0%B0%D1%82%D0%BD%D0%B0-%D0%B3%D1%80%D0%B8%D0%B2%D0%B0-%D0%B7%D0%B0-%D0%B5%D0%BC%D0%B8%D0%BD-%D0%B0%D0%BB%D0%BF%D0%B5%D1%80-%D0%B7%D0%B0-%D0%BF%D1%80%D0%B8%D0%B4%D0%BE%D0%BD%D0%B5%D1%81-%D0%B2%D0%BE-%D1%81%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D1%84%D0%B8%D0%BB%D0%BC%D1%81%D0%BA%D0%B0-%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82",
+     "angolo": "Dà conto del premio al regista turco come momento clou dell'apertura del festival."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "malawimunicipio",
+   "sez": "mondo",
+   "titolo": "Il Malawi dà il via libera al restauro del municipio di Lilongwe",
+   "orig": "Lilongwe Town Hall facelift gets green light as Pakistani group vows to modernise landmark civic building",
+   "lead": "Secondo Nyasa Times, il consiglio comunale di Lilongwe ha autorizzato un gruppo pakistano a modernizzare lo storico edificio del municipio della capitale malawiana, nell'ambito di un accordo di collaborazione civica.",
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "MW",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/lilongwe-town-hall-facelift-gets-green-light-as-pakistani-group-vows-to-modernise-landmark-civic-building/?utm_source=rss&utm_medium=rss&utm_campaign=lilongwe-town-hall-facelift-gets-green-light-as-pakistani-group-vows-to-modernise-landmark-civic-building",
+     "angolo": "Presenta il restauro come un progetto di cooperazione tra il Malawi e un gruppo pakistano."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "moldaviaunione",
+   "sez": "mondo",
+   "titolo": "Moldavia, torna il dibattito sull'unione con la Romania dopo le parole di Sandu",
+   "orig": "The Union comes back into the spotlight. Who takes on the construction of the majority? Op-Ed by Anatol Taranu",
+   "lead": "Secondo l'agenzia moldava IPN, la dichiarazione della presidente Maia Sandu secondo cui la Moldavia sarebbe più sicura insieme alla Romania ha riacceso il dibattito pubblico su un tema che la classe politica del Paese non può più evitare.",
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "MD",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/the-union-comes-back-into-the-spotlight-who-takes-on-the-construction-of-the-majority-op-ed-by-anatol-taranu/",
+     "angolo": "Analizza il dibattito politico interno riacceso dalle parole della presidente sull'unione con la Romania."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "mozambicoministro",
+   "sez": "mondo",
+   "titolo": "Il presidente del Mozambico cambia il ministro dell'Istruzione e della Cultura",
+   "orig": "Mozambique: Chapo dismisses Samaria Tovela, appoints Edson Macuácua as Minister of Education and Culture",
+   "lead": "Secondo Club of Mozambique, il presidente Daniel Chapo ha destituito con decreto la ministra dell'Istruzione e della Cultura Samaria Tovela, sostituendola con Edson Macuácua, dottore di ricerca già noto nell'amministrazione pubblica del Paese.",
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "MZ",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-chapo-dismisses-samaria-tovela-appoints-edson-macuacua-as-minister-of-education-and-culture/",
+     "angolo": "Riporta il cambio di governo come un fatto istituzionale, con il profilo del nuovo ministro."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "myanmaropposizione",
+   "sez": "mondo",
+   "titolo": "In Myanmar l'opposizione in esilio fatica a guidare la resistenza, secondo un'analisi",
+   "orig": "Myanmar's Opposition Leadership Is Holding Back the Resistance",
+   "lead": "Secondo The Irrawaddy, testata dell'opposizione birmana in esilio, mentre il generale Min Aung Hlaing guadagna terreno diplomatico, la resistenza al regime militare avrebbe bisogno di una nuova leadership dall'interno del Paese per trasformare la resilienza armata in una vittoria politica.",
+   "fonti": [
+    {
+     "n": "The Irrawaddy",
+     "p": "MM",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/opinion/guest-column/myanmars-opposition-leadership-is-holding-back-the-resistance.html",
+     "angolo": "Analisi firmata dalla redazione in esilio, critica verso l'attuale leadership dell'opposizione birmana."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "kabilaribelli",
+   "sez": "mondo",
+   "titolo": "L'ex presidente Kabila nominato a capo di una nuova coalizione ribelle contro il governo del Congo",
+   "orig": "Ex-president named leader of new DR Congo rebel coalition",
+   "lead": "Secondo The Namibian, l'ex presidente congolese Joseph Kabila è stato nominato leader di una nuova coalizione ribelle, il Fronte per la Rifondazione della Nazione, che dice di voler coordinare le «forze di resistenza» contro il governo di Kinshasa «con ogni mezzo, inclusa la forza».",
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "NA",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/ex-president-named-leader-of-new-dr-congo-rebel-coalition/",
+     "angolo": "Riporta la notizia come sviluppo politico-militare regionale, senza una posizione propria sulle parti in causa."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "nepalponte",
+   "sez": "ingegneria",
+   "titolo": "In Nepal un'impresa costruisce in un mese un ponte sospeso di 268 metri dopo le alluvioni",
+   "orig": "Contractor builds 268-metre suspension bridge in a month after floods cut off communities",
+   "lead": "Secondo The Kathmandu Post, l'imprenditore Shailendra Raj Pyakurel ha usato un fondo del settore delle costruzioni per realizzare in un mese un ponte sospeso di 268 metri sul fiume Trishuli, essenziale per comunità rimaste isolate dalle alluvioni, con una spesa di circa 17,5 milioni di rupie, quasi la metà della stima del governo.",
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "NP",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/15/contractor-builds-268-metre-suspension-bridge-in-a-month-after-floods-cut-off-communities",
+     "angolo": "Racconta la rapidità del cantiere come un esempio di iniziativa privata di fronte all'emergenza post-alluvione."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "centrafricascuola",
+   "sez": "mondo",
+   "titolo": "Nella Repubblica Centrafricana la ripresa delle lezioni resta debole, tra gli alunni ancora nelle miniere",
+   "orig": "A Yaloké, la reprise des cours reste timide, des élèves encore sur les chantiers miniers",
+   "lead": "Secondo Radio Ndeke Luka, a più di tre settimane dall'inizio dell'anno scolastico, la frequenza resta scarsa nella località di Yaloké, nella prefettura dell'Ombella-M'Poko: parte degli alunni continua a lavorare nei cantieri minerari della zona invece di andare a scuola.",
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "CF",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107084-a-yaloke-le-reprise-des-cours-reste-timide-des-eleves-encore-sur-les-chantiers-miniers",
+     "angolo": "Documenta dal territorio il contrasto tra la ripresa scolastica ufficiale e la realtà dei cantieri minerari."
+    }
+   ],
+   "data": "14 ott"
+  },
+  {
+   "id": "stvincentradio",
+   "sez": "mondo",
+   "titolo": "Saint Vincent e Grenadine, la radio di opposizione sotto la lente del regolatore delle comunicazioni",
+   "orig": "NTRC's request for documents from Star FM began when ULP was still in office",
+   "lead": "Secondo iWitness News, la Commissione nazionale per le telecomunicazioni di Saint Vincent e Grenadine ha chiesto all'emittente Star FM, legata al partito di opposizione Ulp, di fornire un certificato di stato societario: una richiesta nata quando lo stesso partito era ancora al governo.",
+   "fonti": [
+    {
+     "n": "iWitness News",
+     "p": "VC",
+     "c": "Kingstown",
+     "u": "https://www.iwnsvg.com/2026/10/14/ntrcs-request-for-documents-from-star-fm-began-when-ulp-was-still-in-office/",
+     "angolo": "Ricostruisce la cronologia della richiesta amministrativa alla radio, in un contesto di tensione politica sui media."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "sierraleonezootecnia",
+   "sez": "ambiente",
+   "titolo": "In Sierra Leone un corso forma gli allevatori a produrre mangime e ridurre i conflitti per la terra",
+   "orig": "LLDP and SLARI Train Livestock Farmers to Produce Animal Feed and Reduce Conflicts",
+   "lead": "Secondo Sierraloaded, il progetto per lo sviluppo zootecnico LLDP e l'istituto di ricerca agricola SLARI hanno concluso un corso di due giorni per insegnare agli allevatori sierraleonesi a produrre mangime per il bestiame, con l'obiettivo di ridurre anche i conflitti legati all'uso della terra tra agricoltori e pastori.",
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "SL",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/local/lldp-slari-livestock-farmers-animal-feed/",
+     "angolo": "Presenta il corso come un intervento concreto contro i conflitti locali per l'uso della terra."
+    }
+   ],
+   "data": "14 ott"
+  },
+  {
+   "id": "slovacchiafico",
+   "sez": "mondo",
+   "titolo": "Slovacchia, la maggioranza dei cittadini critica il viaggio di Fico a Mosca",
+   "orig": "News digest: Fico's Moscow trip gets a thumbs-down from most Slovaks",
+   "lead": "Secondo The Slovak Spectator, la maggioranza degli slovacchi disapprova il recente viaggio del premier Robert Fico a Mosca; nello stesso giro di notizie i deputati della coalizione hanno approvato per un soffio il bilancio statale 2027 e il governo si prepara a colloqui a Leopoli in novembre.",
+   "fonti": [
+    {
+     "n": "The Slovak Spectator",
+     "p": "SK",
+     "c": "Bratislava",
+     "u": "https://spectator.sme.sk/politics-and-society/c/news-digest-fico-s-moscow-trip-gets-a-thumbs-down-from-most-slovaks?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss",
+     "angolo": "Dà conto del sondaggio sul viaggio di Fico insieme agli altri sviluppi politici della settimana slovacca."
+    }
+   ],
+   "data": "14 ott"
+  },
+  {
+   "id": "uzbekistanmahalle",
+   "sez": "mondo",
+   "titolo": "Tashkent progetta di modernizzare 400 quartieri entro il 2030",
+   "orig": "Tashkent Plans to Modernise 400 Mahallas by 2030",
+   "lead": "Secondo UzDaily, le autorità di Tashkent prevedono di modernizzare 400 mahalle, i tradizionali quartieri uzbeki, entro il 2030, ampliando al contempo la capacità di scuole e asili e sviluppando il nuovo centro commerciale del distretto di Uchtepa.",
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "UZ",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/tashkent-plans-to-modernise-400-mahallas-by-2030/",
+     "angolo": "Presenta il piano come un intervento di modernizzazione urbana su larga scala per la capitale."
+    }
+   ],
+   "data": "14 ott"
+  },
+  {
+   "id": "vietnamrefettorio",
+   "sez": "adolescenti",
+   "sub": "scuola",
+   "titolo": "In Vietnam apre una nuova mensa per oltre 400 studenti in collegio",
+   "orig": "New boarding kitchen opens for more than 400 primary students in Tay Ninh",
+   "lead": "Secondo VnExpress, una nuova mensa finanziata dall'azienda De Heus attraverso la Hope Foundation ha iniziato a servire pasti a oltre 400 studenti in collegio della scuola primaria Le Van Tam, nella provincia meridionale di Tay Ninh.",
+   "fonti": [
+    {
+     "n": "VnExpress",
+     "p": "VN",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/news/news/new-boarding-kitchen-opens-for-more-than-400-primary-students-in-tay-ninh-5132652.html",
+     "angolo": "Racconta l'iniziativa come un aiuto concreto agli studenti in collegio delle aree rurali."
+    }
+   ],
+   "data": "15 ott"
+  },
+  {
+   "id": "armeniahormuz",
+   "sez": "mondo",
+   "titolo": "Due navi affondano nello stretto di Hormuz in un solo giorno, tra gli attacchi in aumento",
+   "orig": "Հորմուզի նեղուցում մեկ օրում 2 նավ է խորտակվել",
+   "lead": "Secondo l'agenzia pubblica armena Azatutyun, due navi mercantili sono affondate nello stretto di Hormuz nell'arco di 24 ore: una era stata colpita in un attacco il giorno precedente, mentre le cause del secondo naufragio restano poco chiare. La notizia arriva citando Reuters, nel quadro dell'aumento degli attacchi alla navigazione nell'area dopo l'inizio della guerra tra Stati Uniti e Iran.",
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "AM",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/hormouzi-neghoutsoum-mek-%d6%85roum-2-nav-e-khortakvel/33876974.html",
+     "angolo": "Riprende Reuters per documentare l'aumento dei naufragi nello stretto di Hormuz."
+    }
+   ],
+   "data": "15 ott"
   }
  ],
  "quiz": [
@@ -1261,7 +1735,34 @@ window.EDIZIONI["2026-10-15"] = {
   "brewers": "Il Guardian britannico segue la serie di baseball americana con lo sguardo di chi la racconta da fuori, concentrandosi sul momento decisivo.",
   "rugbypacific": "RNZ Pacific, dalla Nuova Zelanda, dà conto delle scelte di tutte le nazionali del Pacifico in vista del torneo.",
   "psgcity": "France 24 racconta la vittoria del Psg come conferma dello status di doppio campione d'Europa del club parigino.",
-  "metanoonu": "La paraguaiana ABC Color riprende i dati delle Nazioni Unite sulla trasparenza delle aziende energetiche in materia di metano."
+  "metanoonu": "La paraguaiana ABC Color riprende i dati delle Nazioni Unite sulla trasparenza delle aziende energetiche in materia di metano.",
+  "albania": "Euronews Albania segue la vicenda dal lato delle istituzioni, con la visita del ministro agli agenti feriti.",
+  "azerbaigian": "L'agena azera Trend dà conto dell'incontro come tappa del rafforzamento dei legami economici lungo il Corridoio di Mezzo.",
+  "pavelia": "Expats.cz, dalla Cechia, collega l'intervento del presidente Pavel alla tradizione di impegno civile legata a Václav Havel.",
+  "estonia": "L'emittente pubblica estone ERR News segnala insieme al successo tecnico del test le lacune pratiche nella preparazione dei cittadini.",
+  "figi": "FBC News, dalle Figi, dà voce ai giuristi che segnalano il rischio tecnico nel calendario di entrata in vigore del nuovo testo costituzionale.",
+  "ghanapassaporti": "MyJoyOnline, dal Ghana, presenta la misura come un intervento concreto per migliorare un servizio pubblico spesso criticato.",
+  "guineaambasciata": "Mosaïque Guinée riporta la nomina diplomatica come annunciata dal decreto presidenziale letto in televisione.",
+  "undppoverta": "Iraqi News, dall'Iraq, riprende l'allarme dell'Undp sulle ricadute economiche regionali della guerra in Iran.",
+  "laosminiere": "The Laotian Times dà i dettagli operativi dei raid contro l'estrazione d'oro illegale vicino a Vientiane.",
+  "rigastazione": "L'emittente pubblica lettone LSM presenta il progetto vincitore del concorso di architettura per la piazza della stazione di Riga.",
+  "libiaallagamenti": "Libya Herald documenta con tono sobrio l'entità dei danni lasciati dall'alluvione sulla capitale libica.",
+  "lituaniadifesa": "L'emittente pubblica lituana LRT riporta le parole del premier sul ritardo nell'uso dei fondi per la difesa.",
+  "lussemburgoscatole": "Luxembourg Times presenta l'iniziativa delle scatole gialle come una misura concreta di prevenzione sanitaria domestica.",
+  "macedoniafestival": "L'agenzia macedone MIA dà conto del premio al regista turco Emin Alper come momento clou dell'apertura del festival di Skopje.",
+  "malawimunicipio": "Nyasa Times, dal Malawi, presenta il restauro del municipio come un progetto di cooperazione con un gruppo pakistano.",
+  "moldaviaunione": "L'agenzia moldava IPN analizza il dibattito politico interno riacceso dalle parole della presidente Sandu sull'unione con la Romania.",
+  "mozambicoministro": "Club of Mozambique riporta il cambio di governo come un fatto istituzionale, con il profilo del nuovo ministro.",
+  "myanmaropposizione": "The Irrawaddy, testata birmana in esilio, firma un'analisi critica verso l'attuale leadership dell'opposizione.",
+  "kabilaribelli": "The Namibian riporta la notizia come sviluppo politico-militare regionale, senza una posizione propria sulle parti in causa.",
+  "nepalponte": "The Kathmandu Post racconta la rapidità del cantiere come un esempio di iniziativa privata di fronte all'emergenza post-alluvione.",
+  "centrafricascuola": "Radio Ndeke Luka documenta dal territorio il contrasto tra la ripresa scolastica ufficiale e la realtà dei cantieri minerari.",
+  "stvincentradio": "iWitness News ricostruisce la cronologia della richiesta amministrativa alla radio, in un contesto di tensione politica sui media.",
+  "sierraleonezootecnia": "Sierraloaded presenta il corso di formazione come un intervento concreto contro i conflitti locali per l'uso della terra.",
+  "slovacchiafico": "The Slovak Spectator dà conto del sondaggio sul viaggio di Fico insieme agli altri sviluppi della settimana politica slovacca.",
+  "uzbekistanmahalle": "UzDaily presenta il piano di modernizzazione urbana di Tashkent su larga scala.",
+  "vietnamrefettorio": "VnExpress racconta la nuova mensa come un aiuto concreto agli studenti in collegio delle aree rurali.",
+  "armeniahormuz": "L'agenzia pubblica armena Azatutyun riprende Reuters per documentare l'aumento dei naufragi nello stretto di Hormuz."
  },
  "contesti": {
   "houthi": "La guerra civile yemenita dura dal 2014 e dal 2015 una coalizione guidata dall'Arabia Saudita sostiene il governo riconosciuto contro gli Houthi, che controllano Sanaa e gran parte del Nord del Paese. Un'offensiva governativa lanciata a inizio ottobre, con il supporto aereo saudita, ha riacceso gli scontri intorno allo stretto di Bab el-Mandeb. Da allora gli Houthi rispondono con settimane di missili e droni contro Riyadh, colpendo anche impianti del colosso petrolifero Aramco: gli attacchi hanno già causato diversi morti e centinaia di feriti. Secondo alcune fonti, parte dei missili a lungo raggio del movimento includerebbe componenti di origine nordcoreana, e la coalizione avverte che anche Israele potrebbe diventare un bersaglio.",
@@ -1825,7 +2326,34 @@ window.EDIZIONI["2026-10-15"] = {
    "n": "Internazionale",
    "p": [],
    "pt": []
-  }
+  },
+  "albania": { "n": "Tirana, Albania", "p": ["Albania"], "pt": [] },
+  "azerbaigian": { "n": "Baku, Azerbaigian", "p": ["Azerbaijan"], "pt": [] },
+  "pavelia": { "n": "Praga, Cechia", "p": ["Czechia"], "pt": [] },
+  "estonia": { "n": "Tallinn, Estonia", "p": ["Estonia"], "pt": [] },
+  "figi": { "n": "Suva, Figi", "p": ["Fiji"], "pt": [] },
+  "ghanapassaporti": { "n": "Accra, Ghana", "p": ["Ghana"], "pt": [] },
+  "guineaambasciata": { "n": "Conakry, Guinea", "p": ["Guinea"], "pt": [] },
+  "undppoverta": { "n": "Medio Oriente", "p": ["Iraq"], "pt": [] },
+  "laosminiere": { "n": "Vientiane, Laos", "p": ["Laos"], "pt": [] },
+  "rigastazione": { "n": "Riga, Lettonia", "p": ["Latvia"], "pt": [] },
+  "libiaallagamenti": { "n": "Tripoli, Libia", "p": ["Libya"], "pt": [] },
+  "lituaniadifesa": { "n": "Vilnius, Lituania", "p": ["Lithuania"], "pt": [] },
+  "lussemburgoscatole": { "n": "Lussemburgo", "p": ["Luxembourg"], "pt": [] },
+  "macedoniafestival": { "n": "Skopje, Macedonia del Nord", "p": ["Macedonia"], "pt": [] },
+  "malawimunicipio": { "n": "Lilongwe, Malawi", "p": ["Malawi"], "pt": [] },
+  "moldaviaunione": { "n": "Chisinau, Moldavia", "p": ["Moldova"], "pt": [] },
+  "mozambicoministro": { "n": "Maputo, Mozambico", "p": ["Mozambique"], "pt": [] },
+  "myanmaropposizione": { "n": "Myanmar", "p": ["Myanmar"], "pt": [] },
+  "kabilaribelli": { "n": "Rep. Dem. del Congo", "p": ["Dem. Rep. Congo"], "pt": [] },
+  "nepalponte": { "n": "Fiume Trishuli, Nepal", "p": ["Nepal"], "pt": [] },
+  "centrafricascuola": { "n": "Yaloké, Rep. Centrafricana", "p": ["Central African Rep."], "pt": [] },
+  "stvincentradio": { "n": "Kingstown, Saint Vincent e Grenadine", "p": ["St. Vin. and Gren."], "pt": [] },
+  "sierraleonezootecnia": { "n": "Freetown, Sierra Leone", "p": ["Sierra Leone"], "pt": [] },
+  "slovacchiafico": { "n": "Bratislava, Slovacchia", "p": ["Slovakia"], "pt": [] },
+  "uzbekistanmahalle": { "n": "Tashkent, Uzbekistan", "p": ["Uzbekistan"], "pt": [] },
+  "vietnamrefettorio": { "n": "Tay Ninh, Vietnam", "p": ["Vietnam"], "pt": [] },
+  "armeniahormuz": { "n": "Stretto di Hormuz", "p": ["Iran", "Oman"], "pt": [] }
  },
  "rilievo": {
   "houthi": 3,
