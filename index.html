@@ -1065,7 +1065,7 @@ function cardHTML(n){
     ${n.sub&&SUB[n.sub]?`<div class="subtag" style="--sc:${SUB[n.sub][2]}"><span aria-hidden="true">${SUB[n.sub][0]}</span> ${SUB[n.sub][1]}</div>`:""}
     <h3>${esc(n.titolo)}</h3>
     <p class="lead">${glossa(esc(n.lead))}</p>
-    <div class="more">${(CONTESTI[n.id]||CRONO[n.id])?`<div class="contesto"><b>Finora · cosa è successo nei giorni scorsi</b>${CONTESTI[n.id]?`<p>${glossa(esc(CONTESTI[n.id]))}</p>`:""}${CRONO[n.id]?`<ol class="crono">${CRONO[n.id].map(([d,t])=>`<li><b>${esc(d)}</b> ${glossa(esc(t))}</li>`).join("")}</ol>`:""}</div>`:""}${n.more.map(m=>`<p>${glossa(esc(m))}</p>`).join("")}${prisma}${filoDi(n)}${parlatoDi(n)}${SGUARDI[n.id]?`<p class="sguardo"><b>${multi?"Il commento · uno sguardo d'insieme":"Il commento · lo sguardo di "+esc(f0.c)}</b><br><i>${esc(SGUARDI[n.id])}</i></p>`:""}</div>
+    <div class="more">${(CONTESTI[n.id]||CRONO[n.id])?`<div class="contesto"><b>Finora · cosa è successo nei giorni scorsi</b>${CONTESTI[n.id]?`<p>${glossa(esc(CONTESTI[n.id]))}</p>`:""}${CRONO[n.id]?`<ol class="crono">${CRONO[n.id].map(([d,t])=>`<li><b>${esc(d)}</b> ${glossa(esc(t))}</li>`).join("")}</ol>`:""}</div>`:""}${(n.more||[]).map(m=>`<p>${glossa(esc(m))}</p>`).join("")}${prisma}${filoDi(n)}${parlatoDi(n)}${SGUARDI[n.id]?`<p class="sguardo"><b>${multi?"Il commento · uno sguardo d'insieme":"Il commento · lo sguardo di "+esc(f0.c)}</b><br><i>${esc(SGUARDI[n.id])}</i></p>`:""}</div>
     <div class="foot">Titolo originale: <i>${esc(n.orig)}</i><div class="acts">${acts}</div><div class="acts no-print"><span>Condividi:</span> <button class="btn sh" data-w="wa">WhatsApp</button> <button class="btn sh" data-w="mail">E-mail</button> <button class="btn sh" data-w="copy">Copia</button></div>Fonte: ${esc(f0.n)}, ${esc(f0.c)} (${esc(nPaese)}) · ${esc(n.data)}</div>
     <div class="row"><span class="meta">${(()=>{ const t = tempoTestata(n); return t ? `<span title="Data e ora dell'articolo originale (ora italiana)">${esc(oraIt(new Date(t)))}</span>` : `<span title="La testata non indica data e ora di pubblicazione">data non certificata</span>`; })()} · <span class="xp${game.aperti.includes(n.id)?" on":""}" title="Leggila con calma (resta aperta ${SECONDI_LETTURA} secondi) per guadagnare 10 XP">${game.aperti.includes(n.id)?"✓ +10 XP":"+10 XP"}</span> · <span class="tg">Apri ▾</span></span><span class="ctl"><button class="ascolta" aria-label="Ascolta questa notizia" title="Ascolta questa notizia">🔊</button><button class="nasc" aria-label="${nascoste.has(kn(n))?"Ripristina questa notizia":"Nascondi questa notizia"}" title="${nascoste.has(kn(n))?"Ripristina":"Nascondi (puoi recuperarla da «Nascoste»)"}">${nascoste.has(kn(n))?"↺ Ripristina":"✕ Nascondi"}</button><button class="star" aria-pressed="${salvati.has(n.id)}" aria-label="Da leggere" title="Da leggere">★</button></span></div>
   </article>`;
@@ -1082,7 +1082,7 @@ function visibile(n){
   if(filtroPaese && !n.fonti.some(f=>f.p===filtroPaese)) return false;
   if(soloSalvati && !salvati.has(n.id)) return false;
   if(query){
-    const h = (n.titolo+" "+n.lead+" "+n.more.join(" ")+" "+n.fonti.map(f=>f.n+" "+f.c).join(" ")).toLowerCase();
+    const h = (n.titolo+" "+n.lead+" "+(n.more||[]).join(" ")+" "+n.fonti.map(f=>f.n+" "+f.c).join(" ")).toLowerCase();
     if(!h.includes(query)) return false;
   }
   return true;
@@ -1926,7 +1926,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261013-2031";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261015-1508";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2144,7 +2144,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261013-2031";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261015-1508";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
