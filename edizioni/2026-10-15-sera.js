@@ -50,7 +50,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
     },
     {
      "n": "El Observador",
-     "p": "UY",
+     "p": "XX",
      "c": "Montevideo",
      "u": "https://www.elobservador.com.uy/mundo/papa-leon-xiv-retomo-su-actividad-laboral-el-hospital-gemelli-fue-operado-el-martes-un-cancer-pulmonar-n6060547",
      "angolo": "Dall'Uruguay, riprende la nota del Vaticano sulla normale convalescenza e ricorda che il pontefice è stato operato per un tumore al polmone."
@@ -92,7 +92,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
     },
     {
      "n": "Meduza",
-     "p": "RU",
+     "p": "XX",
      "c": "Riga (in esilio)",
      "u": "https://meduza.io/en/news/2026/10/15/two-tankers-catch-fire-off-romania-s-coast-amid-a-wave-of-deadly-drone-attacks-on-black-sea-shipping-more-than-half-a-dozen-sailors-are-missing",
      "angolo": "Redazione russa indipendente in esilio: riprende la ricostruzione di Reuters sulla ricerca dei marinai dispersi nell'ondata di attacchi alla navigazione nel Mar Nero."
@@ -204,7 +204,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "fonti": [
     {
      "n": "Meduza",
-     "p": "RU",
+     "p": "XX",
      "c": "Riga (in esilio)",
      "u": "https://meduza.io/en/news/2026/10/15/kyiv-has-run-out-of-missiles-for-its-patriot-air-defense-systems-cnn-reports",
      "angolo": "Redazione russa indipendente in esilio: riprende la notizia della Cnn sull'esaurimento delle scorte di missili Patriot ucraini."
