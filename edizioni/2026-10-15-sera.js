@@ -3,6 +3,2059 @@ window.EDIZIONI["2026-10-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zb9372e16",
+   "sez": "economia",
+   "titolo": "Il kyat myanmaro scende ancora dopo l'approvazione di un piano di prestiti da 2.100 miliardi",
+   "orig": "Kyat Slides Again as Regime Wins Approval for 2.1 Trillion-Kyat Borrowing Plan",
+   "lead": "La giunta militare del Myanmar ha ottenuto l'approvazione per un nuovo piano di indebitamento da 2.100 miliardi di kyat, mentre la valuta nazionale continua a deprezzarsi. La decisione alimenta i timori di un'ulteriore spinta inflazionistica in un Paese già alle prese con deficit crescenti e con i costi della guerra civile in corso. Lo riferisce The Irrawaddy.",
+   "more": [
+    "Il Myanmar è governato da una giunta militare dal colpo di stato del 2021, osteggiata da gruppi armati di opposizione in diverse regioni del Paese. Il conflitto interno ha aggravato le difficoltà economiche, con una moneta debole e una spesa pubblica sempre più orientata al sostegno dello sforzo bellico."
+   ],
+   "fonti": [
+    {
+     "n": "The Irrawaddy",
+     "p": "XX",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/news/burma/kyat-slides-again-as-regime-wins-approval-for-2-1-trillion-kyat-borrowing-plan.html",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-10-15T12:39+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z05af79a6",
+   "sez": "tech",
+   "titolo": "OpenAI accusa un ex dipendente di aver passato ad Apple informazioni su un dispositivo AI non ancora uscito",
+   "orig": "OpenAI accuses former employee of leaking intel on AI device to Apple",
+   "lead": "OpenAI ha accusato un ex dipendente di aver sottratto proprietà intellettuale relativa a un dispositivo basato sull'intelligenza artificiale non ancora pubblicato, condividendo poi parte delle informazioni con Apple. Secondo l'azienda, la persona aveva precedentemente lavorato per Apple, era poi passata a OpenAI per sei mesi, per infine tornare ad Apple. L'accusa emerge da un atto depositato in tribunale da OpenAI mercoledì. Lo riferisce Egypt Independent.",
+   "more": [
+    "OpenAI è la società statunitense che sviluppa ChatGPT ed è impegnata anche nella progettazione di nuovi dispositivi hardware basati sull'intelligenza artificiale, in collaborazione con figure note del design tecnologico. Apple è il colosso californiano produttore di iPhone e Mac, spesso visto come potenziale concorrente in questo nuovo segmento."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/openai-accuses-former-employee-of-leaking-intel-on-ai-device-to-apple/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-15T13:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z20115bde",
+   "sez": "musica",
+   "titolo": "Skrillex e Ring Noord remixano \"Starlight\" di Danny L Harle e PinkPantheress",
+   "orig": "Skrillex and Ring Noord Remix Danny L Harle and PinkPantheress’ “Starlight”",
+   "lead": "I produttori Skrillex e Ring Noord hanno realizzato un remix del brano \"Starlight\", firmato da Danny L Harle e PinkPantheress, aggiungendo una base ritmica più pesante alla versione originale tratta dall'album Cerulean. Lo riferisce Pitchfork.",
+   "more": [
+    "Skrillex è un produttore statunitense noto per aver contribuito a diffondere il dubstep nella musica elettronica mainstream, mentre PinkPantheress è un'artista britannica affermatasi con un sound che unisce pop, drum'n'bass e nostalgia anni 2000."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/skrillex-and-ring-noord-remix-danny-l-harle-and-pinkpantheress-starlight/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T15:05+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zd28f9197",
+   "sez": "salute",
+   "titolo": "La menopausa è diventata un business da 535 miliardi di euro",
+   "orig": "Menopause is a biological transition that's become a lucrative consumer business",
+   "lead": "La menopausa, a lungo relegata alla sfera privata, è oggi al centro di un'attenzione senza precedenti sia mediatica sia commerciale, con un mercato che vale 535 miliardi di euro (circa 600 miliardi di dollari). Libri, podcast, documentari, applicazioni digitali, integratori alimentari e programmi di coaching si moltiplicano per accompagnare le donne in questa fase della vita. Quello che un tempo era un tabù è diventato un settore economico in forte espansione. Lo riferisce Medical Xpress.",
+   "more": [
+    "La menopausa è la fase biologica che segna la fine del ciclo mestruale nelle donne, generalmente tra i 45 e i 55 anni, accompagnata da cambiamenti ormonali che possono comportare vari disturbi fisici e psicologici."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-menopause-biological-transition-lucrative-consumer.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T11:20-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "ze6ccf751",
+   "sez": "sport",
+   "titolo": "De Rossi: «La Roma mi fa paura contro il Real, averci già giocato mi aiuterà a restare freddo»",
+   "orig": "De Rossi: «Roma spaventosa contro il Real. Averci già giocato mi aiuterà ad essere più freddo»",
+   "lead": "Daniele De Rossi tornerà ad affrontare la Roma, questa volta per la terza volta da avversario e la seconda volta all'Olimpico. L'ex centrocampista giallorosso, pur restando legato affettivamente alla squadra della sua carriera, ha spiegato che l'esperienza di averci già giocato contro lo aiuterà ad affrontare la sfida con maggiore lucidità, definendo la Roma attuale «spaventosa» in vista del match contro il Real. Lo riferisce Il Messaggero.",
+   "more": [
+    "Daniele De Rossi è stato per anni capitano e simbolo della Roma, con cui ha vinto una Coppa Italia, prima di intraprendere la carriera da allenatore in diverse squadre italiane ed europee."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/calcio/de_rossi_roma_genoa_real_emozioni_conferenza_stampa-9827058.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z47a828c9",
+   "sez": "economia",
+   "titolo": "Angola ha recuperato quasi 13 miliardi di euro dalla lotta alla corruzione",
+   "orig": "Angola tem quase 13 mil milhões para recuperar do combate à corrupção e crime económico",
+   "lead": "Il presidente dell'Angola ha dichiarato che il governo resta impegnato a recuperare e rimpatriare l'equivalente di quasi 13 miliardi di euro identificati nell'ambito della lotta alla corruzione e alla criminalità economica. Lo riferisce RTP.",
+   "more": [
+    "L'Angola, Paese dell'Africa meridionale ricco di petrolio, ha avviato negli ultimi anni campagne contro la corruzione legata a decenni di gestione statale delle risorse naturali, cercando di recuperare fondi sottratti e trasferiti all'estero."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/angola-tem-quase-13-mil-milhoes-para-recuperar-do-combate-a-corrupcao-e-crime-economico_n1771892",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-15T16:02+01:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zaba7c243",
+   "sez": "tech",
+   "titolo": "L'assicurazione cyber dei supermercati francesi colpiti da un attacco informatico difficilmente coprirà le perdite alimentari",
+   "orig": "French supermarkets’ cyber insurance unlikely to cover food losses, insurers say",
+   "lead": "Secondo gli assicuratori, le polizze cyber sottoscritte dalle catene di supermercati francesi colpite da un attacco informatico difficilmente copriranno le perdite di prodotti alimentari subite. I costi complessivi dell'attacco potrebbero raggiungere decine di milioni di euro su scala nazionale. Lo riferisce The Straits Times.",
+   "more": [
+    "Le assicurazioni informatiche coprono generalmente i danni diretti legati a violazioni dei sistemi digitali, ma spesso escludono perdite indirette come il deterioramento delle merci, rendendo complesso per le aziende colpite ottenere un risarcimento completo."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/french-supermarkets-cyber-insurance-unlikely-to-cover-food-losses-insurers-say",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-15T21:46+08:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zca21061e",
+   "sez": "musica",
+   "titolo": "Stephanie Mills racconta un episodio «molto irrispettoso» con Lady Gaga: «È un'avvoltoia della cultura»",
+   "orig": "Stephanie Mills Recalls ‘Very Disrespectful’ Encounter With Lady Gaga: ‘She’s a Culture Vulture’",
+   "lead": "L'attrice e cantante Stephanie Mills, nota per il ruolo in The Wiz, ha raccontato un episodio definito «molto irrispettoso» avvenuto con Lady Gaga, dicendole «sento che mi devi delle scuse» e accusandola di essere una «culture vulture», ovvero di appropriarsi di elementi culturali altrui senza riconoscerne l'origine. Lo riferisce Billboard.",
+   "more": [
+    "Stephanie Mills è un'artista statunitense diventata celebre per il musical The Wiz, versione afroamericana del Mago di Oz, mentre Lady Gaga è una delle popstar più influenti della scena pop contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/music-news/stephanie-mills-lady-gaga-culture-vulture-asks-apology-1236361201/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T15:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z5a3414ef",
+   "sez": "salute",
+   "titolo": "Perché è ancora difficile trovare il giusto apparecchio acustico senza ricetta",
+   "orig": "Why it's still hard to get the right over-the-counter hearing aid",
+   "lead": "Chi cerca un apparecchio acustico da banco, acquistabile senza prescrizione medica, può trovarsi a dover scegliere tra decine di prodotti, capire quali sono regolamentati dalla FDA, verificare cosa copre l'assicurazione e trovare un esperto disposto ad aiutare nella scelta e nell'impostazione del dispositivo. Lo riferisce Medical Xpress.",
+   "more": [
+    "Gli apparecchi acustici da banco sono dispositivi pensati per persone con perdita uditiva lieve o moderata, resi acquistabili senza prescrizione medica per renderli più accessibili ed economici rispetto ai modelli tradizionali prescritti da audiologi."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-hard-counter-aid.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T11:00-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z989a86ad",
+   "sez": "sport",
+   "titolo": "Tresoldi, la Germania prova a blindarlo: l'Italia spera ancora",
+   "orig": "Tresoldi, la Germania prova a blindarlo: «Stiamo facendo di tutto per farlo restare con noi». L?Italia spera",
+   "lead": "La tripletta messa a segno contro l'Inter in Champions League ha acceso i riflettori su Nicolò Tresoldi, attaccante del Bruges, che si trova ora davanti a una scelta definitiva sulla propria carriera internazionale. La federazione tedesca sta facendo di tutto per convincerlo a restare con la propria selezione, mentre l'Italia continua a sperare di poterlo convocare. Lo riferisce Il Messaggero.",
+   "more": [
+    "Nicolò Tresoldi è un giovane attaccante con doppia possibilità di scelta nazionale, essendo cresciuto tra Italia e Germania; il Bruges è uno dei principali club del campionato belga, spesso vetrina per giovani talenti europei."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/nazionali/tresoldi_italia_germania_quale_sceglie_parole_ct_di_salvo-9827143.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z67f0886e",
+   "sez": "manga",
+   "titolo": "Shangri-La Frontier, svelati i combattenti della terza stagione nel primo visual della partita di esibizione",
+   "orig": "Shangri-La Frontier Season 3 Anime Chooses Its Fighters in 1st Exhibition Match Visual",
+   "lead": "La produzione della terza stagione dell'anime Shangri-La Frontier ha diffuso il primo visual dedicato a una partita di esibizione, mostrando i personaggi che si affronteranno. La nuova serie sarà trasmessa in streaming su Crunchyroll a partire dal prossimo anno. Lo riferisce Crunchyroll News.",
+   "more": [
+    "Shangri-La Frontier è un anime tratto da un manga ambientato in un videogioco immersivo di realtà virtuale, seguito da un pubblico affezionato per le sue ambientazioni fantasy e le sfide tra giocatori."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/15/shangri-la-frontier-season-3-anime-exhibition-match-visual",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T13:08+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z8aafe2e8",
+   "sez": "viaggi",
+   "titolo": "Uzbekistan e Georgia puntano a rafforzare la cooperazione turistica",
+   "orig": "Uzbekistan and Georgia Seek to Expand Tourism Cooperation",
+   "lead": "Uzbekistan e Georgia hanno espresso l'intenzione di rafforzare i legami nel settore del turismo dopo un roadshow organizzato a Tashkent, che ha riunito rappresentanti di 40 aziende del comparto viaggi per una serie di incontri d'affari. Lo riferisce UzDaily.",
+   "more": [
+    "Uzbekistan e Georgia sono due Paesi dell'Asia centrale e del Caucaso che negli ultimi anni hanno puntato sul turismo come leva di sviluppo economico, promuovendo collegamenti più stretti tra operatori e agenzie di viaggio regionali."
+   ],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-and-georgia-seek-to-expand-tourism-cooperation/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-15T19:30+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z679da96a",
+   "sez": "economia",
+   "titolo": "Chiude dopo sessant'anni la Fonderia di Bretagna, falliti tutti i tentativi di rilevamento",
+   "orig": "La fin de la Fonderie de Bretagne, après soixante années d’existence et une série de reprises infructueuses",
+   "lead": "Non essendo stata depositata alcuna offerta ferma di rilevamento, il tribunale di commercio di Lorient ha dichiarato giovedì 15 ottobre la liquidazione giudiziaria della Fonderia di Bretagna, sito industriale attivo da sessant'anni. La decisione comporta il licenziamento dei suoi 244 dipendenti, dopo una serie di tentativi di ripresa rivelatisi infruttuosi. Lo riferisce Le Monde.",
+   "more": [
+    "Le fonderie come quella di Bretagna producono componenti metallici, spesso per il settore automobilistico; in Francia molte di queste strutture industriali storiche hanno affrontato negli ultimi anni crisi legate alla concorrenza estera e alla trasformazione del comparto auto."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/economie/article/2026/10/15/la-fin-des-fonderies-de-bretagne-apres-soixante-annees-d-existence-et-une-serie-de-reprises-infructueuses_6794449_3234.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T15:07+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z4985c5dc",
+   "sez": "tech",
+   "titolo": "Non solo cyber: le aziende europee affrontano più minacce alla sicurezza che mai",
+   "orig": "Not just cyber – Europe's businesses face more security threats than ever before",
+   "lead": "In un editoriale scritto per Euronews, Marcelo Rodriguez, presidente dell'International Security Management Association (ISMA), avverte che le aziende europee affrontano rischi informatici crescenti ma anche minacce alla sicurezza più ampie. Secondo l'autore, imprese, dirigenti e dipendenti del continente si trovano oggi di fronte a livelli di rischio senza precedenti. Lo riferisce Euronews.",
+   "more": [
+    "L'International Security Management Association è un'organizzazione che riunisce professionisti della sicurezza aziendale, impegnata nello scambio di buone pratiche per la gestione dei rischi fisici e digitali nelle grandi imprese."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/15/cyber-europes-businesses-security-threats-ceo",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-15T15:31+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zf753eb67",
+   "sez": "salute",
+   "titolo": "Scoperto come il principale gene di rischio per l'Alzheimer danneggia l'isolamento dei neuroni",
+   "orig": "How the biggest Alzheimer's risk gene disrupts the process of insulating neurons",
+   "lead": "Una ricerca ha individuato uno dei principali meccanismi con cui la variante genetica APOE4, il più importante fattore di rischio genetico per l'Alzheimer a insorgenza tardiva, compromette il funzionamento dei circuiti cerebrali: disturbando il processo che isola i neuroni con una guaina grassa capace di ottimizzarne la trasmissione elettrica. Lo riferisce Medical Xpress.",
+   "more": [
+    "Il gene APOE4 è una variante del gene APOE, coinvolto nel metabolismo dei grassi, nota da tempo per aumentare significativamente il rischio di sviluppare la malattia di Alzheimer rispetto ad altre varianti dello stesso gene."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-biggest-alzheimer-gene-disrupts-insulating.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T11:00-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zc0a1d5d7",
+   "sez": "mondo",
+   "titolo": "Napoli, Allegri perde anche Neres: lesione alla coscia destra, fuori tre settimane",
+   "orig": "Napoli, Allegri perde pure Neres: lesione al muscolo della coscia destra. Resterà fuori tre settimane",
+   "lead": "Il Napoli di Max Allegri deve fare i conti con un'altra assenza pesante: David Neres, considerato l'attaccante più decisivo almeno sulla carta, si è fermato nuovamente per una lesione al muscolo della coscia destra e resterà fuori per tre settimane. Lo riferisce Il Messaggero.",
+   "more": [
+    "David Neres è un attaccante brasiliano arrivato al Napoli, squadra allenata da Massimiliano Allegri, che nelle ultime stagioni ha vinto lo scudetto italiano e milita regolarmente in Champions League."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/calcio/napoli_allegri_perde_pure_neres_lesione_al_muscolo_coscia_destra_restera_fuori_tre_settimane-9827164.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zb8db29b7",
+   "sez": "mondo",
+   "titolo": "Porto, partiti e consiglieri comunali chiedono chiarimenti sull'intervento della polizia contro i manifestanti",
+   "orig": "BE, Livre, PCP e vereadores do PS querem explicações sobre actuação policial no Porto",
+   "lead": "I partiti Bloco de Esquerda, Livre, PCP e i consiglieri comunali del PS hanno chiesto spiegazioni sull'uso presuntamente sproporzionato della forza da parte della polizia pubblica portoghese contro manifestanti nella notte di giovedì a Porto. I consiglieri del PS hanno annunciato una segnalazione formale alla Provedoria della Giustizia, l'istituzione portoghese che vigila sui diritti dei cittadini. Lo riferisce Público.",
+   "more": [
+    "La PSP è la polizia di sicurezza pubblica portoghese, responsabile dell'ordine nei centri urbani; la Provedoria de Justiça è un'istituzione indipendente che riceve denunce dei cittadini su possibili abusi da parte di enti pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/15/politica/noticia/be-livre-pcp-vereadores-ps-querem-explicacoes-actuacao-policial-porto-2191456",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-15T12:39+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zb96fe94e",
+   "sez": "economia",
+   "titolo": "Tunisia, legge di bilancio 2027: esenzioni per le batterie di accumulo, tasse ridotte sugli smartphone e tassa di viaggio più alta",
+   "orig": "PLF 2027 : Exonération fiscale pour les batteries de stockage, taxes réduites sur les smartphones et hausse de la taxe de voyage",
+   "lead": "Il testo del progetto di legge di finanza 2027 della Tunisia prevede che le batterie destinate all'accumulo di elettricità, classificate con una specifica voce doganale, siano esentate da dazi, dall'imposta sul valore aggiunto e dal contributo destinato al fondo di sviluppo. Il provvedimento introduce anche una riduzione delle tasse sugli smartphone e un aumento della tassa di viaggio. Le misure fanno parte del pacchetto fiscale che il governo tunisino sta predisponendo per il prossimo anno. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "La legge di finanza è lo strumento con cui ogni anno il governo tunisino stabilisce entrate, spese e misure fiscali per l'anno successivo, incidendo su imprese e famiglie attraverso dazi doganali, imposte e incentivi."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/15/plf-2027-exoneration-fiscale-pour-les-batteries-de-stockage-taxes-reduites-sur-les-smartphones-et-hausse-de-la-taxe-de-voyage/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-15T12:36+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "ze299d83d",
+   "sez": "ingegneria",
+   "titolo": "Abu Dhabi, nuova circolare per snellire le procedure edilizie e chiarire i ruoli di consulenti e appaltatori",
+   "orig": "Urban Planning and Permits Centre Issues Circular to Streamline Construction Procedures and Clarify Consultant and Contractor Roles in Abu Dhabi",
+   "lead": "L'Urban Planning and Permits Centre, parte del Dipartimento dei Comuni e dei Trasporti di Abu Dhabi, ha emesso la Circolare n. 9 del 2026 che regola ruoli e responsabilità dei consulenti di supervisione e degli appaltatori in tutte le fasi dei cantieri. L'obiettivo dichiarato è accelerare la consegna dei progetti, chiarire le responsabilità degli attori coinvolti e migliorare l'efficienza dei controlli, mantenendo elevati standard di qualità e sicurezza. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "Abu Dhabi è la capitale degli Emirati Arabi Uniti e uno dei principali centri di sviluppo immobiliare e infrastrutturale della regione del Golfo, con un settore edilizio regolato da enti pubblici che definiscono standard tecnici e procedure autorizzative."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/urban-planning-permits-centre-streamline-construction-procedures-urban-planning/",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-15T12:07+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z7066fb4c",
+   "sez": "musica",
+   "titolo": "\"Earrings\" di Malcolm Todd resta in vetta alla classifica Gabb Music Songs per il secondo mese",
+   "orig": "Malcolm Todd’s ‘Earrings’ Leads Top Gabb Music Songs for Second Month",
+   "lead": "Il brano \"Earrings\" di Malcolm Todd si conferma al primo posto della classifica Gabb Music Songs per il secondo mese consecutivo. La classifica vede una forte presenza di artiste donne, con \"Boston\" di Stella Lefty tra i brani più in evidenza. Lo riferisce Billboard.",
+   "more": [
+    "La classifica Gabb Music Songs raccoglie i brani più ascoltati su piattaforme pensate per un pubblico giovane, spesso legate a dispositivi e servizi musicali rivolti a famiglie e adolescenti."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/chart-beat/malcolm-todd-earrings-number-1-top-gabb-music-songs-sept-2026-1236361205/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T14:19+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z5b24afb2",
+   "sez": "salute",
+   "titolo": "L'esposizione precoce alla nicotina altera lo sviluppo immunitario e peggiora le infezioni da influenza nei topi",
+   "orig": "Early nicotine exposure alters immune development and worsens later flu infections in mice",
+   "lead": "Un nuovo studio dei ricercatori dell'Università della California a Santa Cruz mostra che l'esposizione alla nicotina durante la gravidanza e poco dopo la nascita può avere un impatto duraturo sul sistema immunitario e causare infezioni respiratorie più gravi in età successiva. La ricerca, condotta su modelli animali, suggerisce un legame tra esposizione precoce alla sostanza e maggiore vulnerabilità alle infezioni da influenza. Lo riferisce Medical Xpress.",
+   "more": [
+    "La nicotina è una sostanza presente nel tabacco e in prodotti come le sigarette elettroniche; gli studi sui suoi effetti durante lo sviluppo fetale e infantile aiutano a comprendere i rischi legati al fumo passivo o all'uso materno di tali prodotti."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-early-nicotine-exposure-immune-worsens.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T11:00-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z9f9d97bd",
+   "sez": "tech",
+   "titolo": "Come una superintelligenza potrebbe prendere il controllo del mondo: le ipotesi sul tavolo",
+   "orig": "How could a superintelligence take over the world? Let me count the ways",
+   "lead": "Un commento pubblicato dalla testata ripercorre il recente annuncio di OpenAI relativo a risultati originali su 377 problemi matematici di alto profilo, ottenuti come sottoprodotto dell'addestramento di un sistema di intelligenza artificiale. La notizia non è stata accolta con favore da tutta la comunità matematica: il professore Alvaro Lozano-Robledo dell'Università del Connecticut ha espresso perplessità su quella che ha definito una possibile \"presa di controllo\" ostile del panorama matematico da parte dell'IA. Lo riferisce South China Morning Post.",
+   "more": [
+    "OpenAI è l'azienda statunitense che sviluppa alcuni dei sistemi di intelligenza artificiale generativa più diffusi al mondo; i suoi modelli vengono addestrati su enormi quantità di dati e talvolta mostrano capacità impreviste, come la risoluzione di problemi scientifici complessi."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Tecnologia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/opinion/world-opinion/article/3370688/how-could-superintelligence-take-over-world-let-me-count-ways?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-15T12:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "ze82eb447",
+   "sez": "sport",
+   "titolo": "Kimi Antonelli e la disputa legale con la Minardi: il pilota dovrà mostrare contratti e pagamenti",
+   "orig": "Kimi Antonelli e la guerra legale con la Minardi, il pilota dovrà esibire contratti e pagamenti. Il legale della scuderia: «Senza intesa non ci fermeremo»",
+   "lead": "La controversia legale che coinvolge Kimi Antonelli, che ad Austin il 25 ottobre potrebbe laurearsi campione del mondo di Formula 1, entra in una fase decisiva: il pilota dovrà esibire contratti e documentazione sui pagamenti al centro della vicenda con la scuderia Minardi. Il legale della scuderia ha dichiarato che, senza un'intesa, la battaglia legale proseguirà. Lo riferisce Il Messaggero.",
+   "more": [
+    "La Minardi è una storica scuderia italiana di Formula 1, oggi attiva nella formazione di giovani piloti; le controversie legali tra team e piloti riguardano spesso contratti di sponsorizzazione o accordi economici stipulati nelle fasi iniziali della carriera."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_guerra_minardi_contratti_pagamenti_cosa_sta_succedendo-9827077.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "za5172fae",
+   "sez": "cultura",
+   "titolo": "Debutta a Londra Paraiso Fair, la prima fiera d'arte latinoamericana nel Regno Unito",
+   "orig": "Debuta Paraiso Fair, la primera feria de arte latinoamericano en Londres, donde crece el interés por esta región",
+   "lead": "Londra ospita il debutto di Paraiso Fair, la prima fiera dedicata esclusivamente all'arte latinoamericana organizzata in città, in un momento di crescente interesse per la regione. L'edizione di quest'anno è dedicata al Messico e si svolge dal 15 al 18 ottobre, in contemporanea con Frieze London. Tra i partecipanti c'è la galleria argentina Quimera, con tre artisti locali. Nello stesso periodo la città ospita anche mostre dedicate a Frida Kahlo, Ana Mendieta, Julio Le Parc e Cecilia Vicuña. Lo riferisce Clarín.",
+   "more": [
+    "Frieze London è una delle fiere d'arte contemporanea più importanti al mondo, che ogni anno richiama collezionisti e gallerie internazionali nella capitale britannica, creando un calendario parallelo di eventi ed esposizioni."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/cultura/debuta-paraiso-fair-primera-feria-arte-latinoamericano-londres-crece-interes-region_0_NqIkJ5lBbZ.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T14:32+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z8ff98a56",
+   "sez": "musica",
+   "titolo": "I Billboard Latin Music Awards lanciano la categoria Fan Favorite Artist: ecco i candidati e come votare",
+   "orig": "Billboard Latin Music Awards Announce New Fan Favorite Artist Category: Here’s Who Is Competing & How to Vote",
+   "lead": "Gli organizzatori dei Billboard Latin Music Awards hanno annunciato una nuova categoria, Fan Favorite Artist, che per la prima volta nella storia del premio sarà decisa direttamente dal voto dei fan. La testata presenta l'elenco dei candidati in gara e le modalità per partecipare al voto. Lo riferisce Billboard.",
+   "more": [
+    "I Billboard Latin Music Awards sono uno dei principali riconoscimenti dedicati alla musica latina, assegnati in base a classifiche di vendite, streaming e passaggi radiofonici negli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/latin/billboard-latin-music-awards-favorite-artist-vote-1236360901/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T13:45+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z81b9508c",
+   "sez": "salute",
+   "titolo": "Cibo ultra-processato collegato a possibili segni di ictus silenti",
+   "orig": "Ultra-processed food intake linked to possible signs of silent strokes",
+   "lead": "Uno studio riportato dalla testata indica che gli adulti sani che consumano grandi quantità di cibo ultra-processato, come snack confezionati, cereali zuccherati, bibite gassate, noodles istantanei e piatti pronti surgelati, mostrano più frequentemente segni di danno cerebrale che potrebbero aumentare il rischio di ictus clinico e futuri problemi di memoria. Lo riferisce Medical Xpress.",
+   "more": [
+    "Gli alimenti ultra-processati sono prodotti industriali con ingredienti e additivi che ne modificano profondamente la composizione rispetto agli alimenti freschi; numerosi studi ne indagano i legami con malattie cardiovascolari e neurologiche."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-ultra-food-intake-linked-silent.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T11:00-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z1fbf680e",
+   "sez": "tech",
+   "titolo": "Data center, in Italia gli annunci di lavoro crescono del 137% e aumentano le retribuzioni per i profili specializzati",
+   "orig": "Data center, in Italia annunci di lavoro a +137% e retribuzioni più alte per i profili specializzati",
+   "lead": "Secondo i dati raccolti da Indeed, ad agosto 2026 le offerte di lavoro legate ai data center in Italia risultano superiori del 137% rispetto alla media registrata tra dicembre 2019 e febbraio 2020. Il settore mostra anche retribuzioni più elevate per i profili tecnici specializzati, segno della crescente domanda di competenze legate alle infrastrutture digitali. Lo riferisce la Repubblica.",
+   "more": [
+    "I data center sono le infrastrutture che ospitano i server e i sistemi di elaborazione dati alla base di servizi cloud, intelligenza artificiale e digitalizzazione; la loro diffusione genera una domanda crescente di personale tecnico specializzato."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/15/news/data_center_italia_lavoro_retribuzioni_profili-425650342/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T16:48+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zfad8f1a9",
+   "sez": "mondo",
+   "titolo": "Bleach: Thousand-Year Blood War, stagione 4 episodio 9, quando esce la nuova puntata",
+   "orig": "Bleach Thousand-Year Blood War Season 4, Episode 9 Release Date & Time",
+   "lead": "Dopo una breve pausa, torna la quarta stagione di Bleach: Thousand-Year Blood War. La testata indica data e orario di uscita dell'episodio 49 della serie e dove sarà possibile vederlo. Lo riferisce CBR.",
+   "more": [
+    "Bleach: Thousand-Year Blood War è la serie anime che adatta l'ultimo arco narrativo del manga Bleach di Tite Kubo, seguito con grande attesa dai fan dopo anni di assenza della serie animata."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/bleach-tybw-season-4-episode-9-release-date-time/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T15:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zcb3d8aba",
+   "sez": "mondo",
+   "titolo": "All Blacks, la selezione a sorpresa che ha impedito ai lettori di indovinare la formazione perfetta",
+   "orig": "One surprise selection denied every reader a perfect All Blacks XV",
+   "lead": "Secondo un sondaggio tra i lettori di Stuff, la scelta di George Bower come pilone sinistro titolare e l'ordine scelto per i seconde linee sono stati gli aspetti più difficili da prevedere nella composizione della formazione ideale degli All Blacks. Nessun lettore è riuscito a indicare la XV perfetta. Lo riferisce Stuff NZ.",
+   "more": [
+    "Gli All Blacks sono la nazionale di rugby della Nuova Zelanda, una delle squadre più titolate e seguite al mondo, le cui scelte di formazione sono oggetto di grande attenzione da parte dei tifosi."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361047096/one-surprise-selection-denied-every-reader-perfect-all-blacks",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-15T15:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z37153578",
+   "sez": "cultura",
+   "titolo": "Scoperto in Turchia il relitto più antico del mondo: ecco i dettagli dell'imbarcazione",
+   "orig": "Hallazgo histórico en Turquía: descubren el naufragio más antiguo del mundo y revelan detalles de la embarcación",
+   "lead": "In Turchia è stato individuato quello che viene descritto come il naufragio più antico del mondo, con il ritrovamento di resti ceramici legati all'imbarcazione. I reperti recuperati saranno esposti nel nuovo Museo di Archeologia Subacquea di Antalya, dove saranno conservati e messi in mostra al pubblico. Lo riferisce El Tiempo.",
+   "more": [
+    "L'archeologia subacquea studia i relitti e i reperti sommersi per ricostruire rotte commerciali e tecniche di navigazione del passato; la costa turca, affacciata sul Mediterraneo, è ricca di siti di questo tipo."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/asia/hallazgo-historico-en-turquia-descubren-el-naufragio-mas-antiguo-del-mundo-y-revelan-detalles-de-la-embarcacion-3593704",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-15T07:48-05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zcd3ccddc",
+   "sez": "economia",
+   "titolo": "«Dialogo pubblico-privato per vincere la sfida di innovazione, crescita e sostenibilità»",
+   "orig": "«Dialogo pubblico-privato per vincere la sfida di innovazione, crescita e sostenibilità»",
+   "lead": "Al Forum di Remind si è svolto un confronto sulla competitività che ha coinvolto governo, istituzioni europee, imprese e rappresentanti dei settori produttivi. Al centro della discussione i temi dell'innovazione, della crescita economica e della sostenibilità, con un appello al dialogo tra settore pubblico e privato per affrontare le sfide comuni. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Remind è un'associazione italiana che riunisce manager e professionisti dell'innovazione, e organizza periodicamente forum di confronto tra istituzioni e imprese su temi di competitività e trasformazione digitale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/dialogo-pubblico-privato-vincere-sfida-innovazione-crescita-e-sostenibilita-AJI4mlkB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T15:01+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z7fa3e4c1",
+   "sez": "salute",
+   "titolo": "La «fai-da-te» in sanità è in aumento: ecco perché può essere pericolosa",
+   "orig": "DIY health care is on the rise—here's why it's so dangerous",
+   "lead": "Sempre più persone, di fronte a un disturbo, scelgono di affidarsi prima a una ricerca su Google che a un professionista sanitario, dal controllo dei sintomi online all'acquisto di farmaci in rete fino ai consigli raccolti sui social media da influencer. La testata descrive questa tendenza alla sanità fai-da-te come un fenomeno in crescita, con possibili rischi per la salute. Lo riferisce Medical Xpress.",
+   "more": [
+    "La diffusione di internet e dei social media ha reso più facile reperire informazioni mediche senza il filtro di un professionista, aumentando il rischio di diagnosi errate o di cure inadeguate basate su fonti non verificate."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-diy-health-dangerous.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T11:00-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zea37d06b",
+   "sez": "cultura",
+   "titolo": "«Se vuoi resto qui con te»: il saggio che racconta il grande inganno dell'intelligenza artificiale",
+   "orig": "«Se vuoi resto qui con te». Il grande inganno dell’AI, tra sentimenti simulati e pensiero delegato",
+   "lead": "Nel saggio \"Il grande inganno dell'AI\", la giornalista Martina Pennisi analizza le illusioni che accompagnano il rapporto tra persone e intelligenza artificiale, dalla simulazione dell'empatia da parte dei chatbot all'apparente neutralità dei loro output, fino al rischio di delegare alle macchine anche la capacità di pensare. Lo riferisce la Repubblica.",
+   "more": [
+    "I chatbot basati su intelligenza artificiale generativa sono programmi capaci di simulare conversazioni simili a quelle umane; la loro diffusione pone interrogativi su empatia simulata, manipolazione e dipendenza cognitiva degli utenti."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/15/news/il_grande_inganno_ai_libro-425650124/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T15:05+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z9cbf1df6",
+   "sez": "sport",
+   "titolo": "La Federazione calcistica della Bosnia Erzegovina potrebbe ricevere milioni dalla FIFA",
+   "orig": "Football Association BiH Could Receive Millions from FIFA",
+   "lead": "La FIFA sta valutando un significativo aumento dei fondi destinati allo sviluppo del calcio nel mondo. Secondo una nuova proposta, ciascuna delle 211 federazioni nazionali membre potrebbe ricevere 25 milioni di dollari, circa 42,5 milioni di marchi convertibili, nel prossimo ciclo quadriennale. La notizia è stata riportata dall'agenzia Associated Press. Lo riferisce Sarajevo Times.",
+   "more": [
+    "La FIFA è l'organismo internazionale che governa il calcio mondiale e distribuisce fondi alle federazioni nazionali affiliate per sostenere programmi di sviluppo, infrastrutture e formazione."
+   ],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/football-association-bih-could-receive-millions-from-fifa/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-15T14:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zb15ba4f1",
+   "sez": "ingegneria",
+   "titolo": "A Berlino un ex collegio sportivo diventa la nuova sede dell'Ufficio tecnico delle imposte",
+   "orig": "Sportinternat wird Technisches Finanzamt - Umnutzung in Berlin von NAK und W33",
+   "lead": "A Berlino è stato completato il riutilizzo di un edificio in cemento armato degli anni della modernità, un tempo collegio per sportivi e da anni abbandonato, trasformato nella nuova sede del Technisches Finanzamt del Land. L'intervento, firmato da un'associazione temporanea formata dagli studi berlinesi NAK Architekten e W33 Ingenieurgesellschaft, è stato commissionato dalla società pubblica BIM Berliner Immobilienmanagement. L'edificio ospita oggi il centro di calcolo e i servizi informatici dell'amministrazione fiscale, in una posizione centrale vicino alla stazione della S-Bahn e al velodromo progettato da Dominique Perrault. Lo riferisce Baunetz.",
+   "more": [
+    "La riconversione di edifici storici in disuso per nuovi usi pubblici è una pratica diffusa nelle grandi città tedesche, spesso al centro del dibattito tra conservazione e demolizione, specialmente per le costruzioni in cemento armato del Novecento."
+   ],
+   "fonti": [
+    {
+     "n": "Baunetz",
+     "p": "DE",
+     "c": "Berlino",
+     "u": "https://www.baunetz.de/meldungen/Meldungen-Umnutzung_in_Berlin_von_NAK_und_W33_10435102.html?context=4093",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T14:09+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "za1002408",
+   "sez": "economia",
+   "titolo": "In Italia si ricicla solo il 17% di smartphone e rasoi a fine vita, il ritiro in negozio resta poco usato",
+   "orig": "Smartphone e rasoi a fine vita, in Italia se ne raccoglie solo il 17%. Il ritiro nei negozi è obbligatorio ma resta poco usato",
+   "lead": "In Italia smartphone, auricolari, rasoi elettrici e cavi a fine vita restano spesso nei cassetti di casa o finiscono nei rifiuti indifferenziati. Per i piccoli rifiuti di apparecchiature elettriche ed elettroniche il tasso di raccolta si ferma al 17%, nonostante il ritiro gratuito in negozio sia obbligatorio per legge ma venga utilizzato raramente dai cittadini. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "I RAEE, rifiuti da apparecchiature elettriche ed elettroniche, contengono materiali preziosi e sostanze potenzialmente inquinanti; la normativa europea impone ai rivenditori di ritirare gratuitamente i piccoli dispositivi dismessi per favorirne il corretto smaltimento."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/smartphone-e-rasoi-fine-vita-italia-se-ne-raccoglie-solo-17percento-ritiro-negozi-e-obbligatorio-ma-resta-poco-usato-AJ0AwckB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T14:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z67adc152",
+   "sez": "musica",
+   "titolo": "Kid Rock racconta perché Eminem ha cambiato brano sul suo album a tema religioso",
+   "orig": "Kid Rock Shares Why Eminem Switched Songs on His Faith-Based Album – And Whether They Talk Politics Together",
+   "lead": "Kid Rock ha spiegato le ragioni per cui Eminem ha deciso di sostituire una canzone nel suo album \"Halfway 2 Jesus\", a tema religioso, che presenta anche collaborazioni con Lil Wayne e mostra un lato diverso dell'artista. Kid Rock ha inoltre raccontato se tra loro si parla anche di politica. Lo riferisce Billboard.",
+   "more": [
+    "Kid Rock è un musicista statunitense noto per uno stile che mescola rock, country e hip hop, spesso associato anche a posizioni politiche conservatrici espresse pubblicamente negli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/music-news/kid-rock-halfway-2-jesus-interview-1236360949/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T13:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z56469e6e",
+   "sez": "tech",
+   "titolo": "Come fanno le email a sapere se le abbiamo aperte? Il meccanismo dei tracking pixel",
+   "orig": "Come fanno le email a sapere se le abbiamo aperte? Il trucco dei tracking pixel",
+   "lead": "Nelle newsletter e nelle comunicazioni commerciali possono essere nascoste minuscole immagini invisibili, chiamate tracking pixel, capaci di segnalare al mittente quando un messaggio viene aperto. Dal 29 ottobre entreranno pienamente in vigore le nuove regole del Garante Privacy italiano sul loro utilizzo. Lo riferisce Geopop.",
+   "more": [
+    "I tracking pixel sono piccole immagini invisibili inserite nelle email che, caricandosi quando il messaggio viene aperto, inviano informazioni al mittente; il loro uso solleva questioni di privacy regolate dalle normative sulla protezione dei dati personali."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/come-fanno-le-email-a-sapere-se-le-abbiamo-aperte-il-trucco-dei-tracking-pixel/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T14:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z467db68d",
+   "sez": "salute",
+   "titolo": "Cipro, coscritto della Guardia Nazionale ricoverato dopo un arresto cardiaco",
+   "orig": "National Guard conscript hospitalised after suffering cardiac arrest",
+   "lead": "Un coscritto della Guardia Nazionale cipriota resta intubato in ospedale dopo aver subito un arresto cardiaco mentre svolgeva lavori di pulizia nei pressi di un posto di guardia nell'area di Faneromeni, giovedì. Secondo il ministero della Difesa, il militare si è sentito male e ha perso conoscenza durante le operazioni di pulizia; il personale presente si è accorto dell'accaduto. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/15/national-guard-conscript-hospitalised-after-suffering-cardiac-arrest",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-15T17:17+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zd8824ce7",
+   "sez": "ingegneria",
+   "titolo": "Volkwin Marg compie 90 anni: una carriera tra matite e aeroporti",
+   "orig": "Mit dem Bleistift am Gate - Zum 90. Geburtstag von Volkwin Marg",
+   "lead": "La testata celebra i 90 anni dell'architetto tedesco Volkwin Marg, ancora attivo nello studio gmp, ricordando un episodio avvenuto circa dodici anni fa, quando durante un'attesa in aeroporto a Monaco l'architetto tracciò a matita il progetto della Tecnopolo di Bologna, ampliamento dell'ex manifattura tabacchi progettata da Pier Luigi Nervi. L'articolo ripercorre la lunga e versatile storia professionale di Marg, legata allo studio sulla Elbchaussee di Amburgo. Lo riferisce Baunetz.",
+   "more": [
+    "Volkwin Marg è cofondatore dello studio di architettura tedesco gmp, noto a livello internazionale per progetti di grandi infrastrutture come stadi e aeroporti; Pier Luigi Nervi è stato un celebre ingegnere e architetto italiano del Novecento."
+   ],
+   "fonti": [
+    {
+     "n": "Baunetz",
+     "p": "DE",
+     "c": "Berlino",
+     "u": "https://www.baunetz.de/meldungen/Meldungen-Zum_90._Geburtstag_von_Volkwin_Marg_10441923.html?context=4093",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T14:30+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z47565339",
+   "sez": "economia",
+   "titolo": "Cdp lancia il primo Investor Day a Milano con oltre 150 protagonisti della finanza",
+   "orig": "Cdp cala l’asso dei mercati: a Milano il primo Investor Day con oltre 150 big della finanza",
+   "lead": "Cassa depositi e prestiti ha organizzato a Milano il suo primo Investor Day, un appuntamento che ha riunito oltre 150 esponenti di primo piano del mondo finanziario. L'incontro, nel capoluogo lombardo, è stato pensato per fare il punto sullo stato dell'economia italiana e per presentare agli investitori le attività delle società partecipate strategiche del gruppo. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Cassa depositi e prestiti è l'istituto finanziario pubblico italiano che sostiene investimenti infrastrutturali, imprese e progetti strategici, agendo come braccio operativo dello Stato nell'economia e nei settori considerati di interesse nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/cdp-cala-l-asso-mercati-milano-primo-investor-day-oltre-150-big-finanza-AJ1cgmkB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T13:54+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z9b90b622",
+   "sez": "musica",
+   "titolo": "Justice firma un brano per la colonna sonora di GTA 6",
+   "orig": "Justice are behind the ‘Grand Theft Auto 6’ soundtrack",
+   "lead": "Il duo musicale francese Justice ha realizzato un brano per la colonna sonora del videogioco Grand Theft Auto 6. Il pezzo, intitolato \"Flower In A Hurricane\", è una collaborazione con Tame Impala, SZA e King Gizzard & The Lizard Wizard e può essere ascoltato nel nuovo trailer di lancio del gioco. Lo riferisce NME.",
+   "more": [
+    "Grand Theft Auto è una celebre serie di videogiochi open world prodotta da Rockstar Games, nota per le ambientazioni urbane e le colonne sonore curate, che da sempre includono artisti di rilievo internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala-3973238?utm_source=rss&utm_medium=rss&utm_campaign=grand-theft-auto-6-soundtrack-justice-album-gta-rockstar-tame-impala",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-15T13:44+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "ze617b419",
+   "sez": "ambiente",
+   "titolo": "La lumaca rosa gigante che vive solo su un vulcano spento in Australia",
+   "orig": "La lumaca rosa gigante lunga 20 cm che vive solo su un vulcano spento in Australia",
+   "lead": "Sul monte Kaputar, in Australia, vive una lumaca rosa acceso lunga circa 20 centimetri, priva di guscio, che fa parte di una comunità unica di molluschi presente solo in quell'area. L'habitat isolato della specie è però minacciato dai cambiamenti climatici e dagli incendi, fenomeni che potrebbero mettere a rischio la sua sopravvivenza. Lo riferisce Geopop.",
+   "more": [
+    "Il monte Kaputar è un vulcano spento nel New South Wales, in Australia, il cui ecosistema isolato ha favorito l'evoluzione di specie endemiche rare, rendendolo un punto di interesse per la biodiversità del continente."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/la-lumaca-rosa-gigante-lunga-20-cm-che-vive-solo-su-un-vulcano-spento-in-australia/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T13:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zdc644aff",
+   "sez": "salute",
+   "titolo": "L'Uzbekistan chiarisce le modalità di accesso alle cure oncologiche sussidiate",
+   "orig": "Uzbekistan Clarifies Cancer Patients’ Treatment Referrals",
+   "lead": "Il Fondo statale di assicurazione sanitaria dell'Uzbekistan ha chiarito le procedure per l'emissione dei referti elettronici necessari ad accedere ai trattamenti oncologici sussidiati, e ha precisato come vengono pagati i relativi servizi medici. La misura riguarda i pazienti malati di cancro che necessitano di cure sostenute dal sistema sanitario pubblico del paese centroasiatico. Lo riferisce UzDaily.",
+   "more": [
+    "Il Fondo statale di assicurazione sanitaria è l'ente uzbeko che gestisce la copertura pubblica delle spese mediche, incluse le terapie oncologiche, per garantire l'accesso alle cure anche ai pazienti con minori risorse economiche."
+   ],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-clarifies-cancer-patients-treatment-referrals/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-15T20:15+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zfcc62c5a",
+   "sez": "sport",
+   "titolo": "Il Botswana rimonta e pareggia i conti contro il Marylebone Cricket Club",
+   "orig": "Baggy Blues Fight Back Against MCC",
+   "lead": "La selezione Baggy Blues del Botswana ha vinto due incontri consecutivi contro il Marylebone Cricket Club, squadra londinese in tour, dopo aver perso i primi due Twenty20 del confronto. La rimonta ha ripristinato la parità nella serie di nove partite che il club britannico sta disputando in Botswana. Lo riferisce The Botswana Gazette.",
+   "more": [
+    "Il Marylebone Cricket Club è uno storico club londinese, custode delle regole del cricket, che organizza tour internazionali per promuovere questo sport in paesi dove è meno diffuso a livello professionistico."
+   ],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/sport/baggy-blues-fight-back-against-mcc/",
+     "angolo": "",
+     "atlas": "Botswana",
+     "t": "2026-10-15T12:54+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z84cdcb3c",
+   "sez": "ingegneria",
+   "titolo": "Renzo Piano firma il nuovo ingresso del Cimitero delle Fontanelle a Napoli",
+   "orig": "A Napoli, Renzo Piano ha trasformato l’ingresso al misterioso Cimitero delle Fontanelle",
+   "lead": "L'architetto Renzo Piano ha realizzato una trasformazione dell'ingresso del Cimitero delle Fontanelle a Napoli, uno dei luoghi più enigmatici della città, noto per le sue catacombe e la tradizione popolare legata al culto delle anime pezzentelle. L'intervento riguarda l'accesso a questo sito storico partenopeo. Lo riferisce Domus.",
+   "more": [
+    "Il Cimitero delle Fontanelle è un ossario sotterraneo scavato in una cava di tufo nel quartiere Sanità di Napoli, celebre per i resti umani custoditi e per il culto popolare delle anime pezzentelle, legato alla devozione verso i defunti anonimi."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/2026/10/15/renzo-piano-cimitero-fontanelle-napoli-g124.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zf6deaf4f",
+   "sez": "economia",
+   "titolo": "Orsini: l'Europa è arbitro tra Usa e Cina, ma l'Italia vuole giocare la partita",
+   "orig": "Ue, Orsini: è arbitro tra gli Usa e la Cina ma noi vogliamo giocare la partita",
+   "lead": "Il presidente di Confindustria, Emanuele Orsini, ha dichiarato in conferenza stampa che l'Unione europea si trova nel ruolo di arbitro nella competizione tra Stati Uniti e Cina, ma che l'Italia vuole invece essere protagonista attiva. L'intervento è arrivato al termine degli incontri con Maros Sefcovic, commissario europeo per il Commercio e la sicurezza economica, e con Raffaele Fitto, vicepresidente esecutivo dell'Ue per la Coesione e le riforme. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Confindustria è la principale associazione delle imprese italiane, che rappresenta gli interessi del settore industriale nei confronti delle istituzioni nazionali ed europee, spesso intervenendo sui temi di politica commerciale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/ue-orsini-e-arbitro-gli-usa-e-cina-ma-noi-vogliamo-giocare-partita-AJ1njikB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T12:27+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z51e1de73",
+   "sez": "mondo",
+   "titolo": "Cosa hanno prodotto i controlli alle frontiere tedesche dopo due anni",
+   "orig": "What have Germany’s border controls achieved after two years?",
+   "lead": "A due anni dall'introduzione dei controlli alle frontiere da parte della Germania, un bilancio della situazione analizza i dati sul numero dei controlli effettuati e il loro impatto sui paesi vicini, in particolare Lussemburgo, Belgio e Francia. La misura, adottata dal governo tedesco, ha avuto conseguenze significative sulla circolazione transfrontaliera nell'area. Lo riferisce Luxembourg Times.",
+   "more": [
+    "Dal 2023 la Germania ha reintrodotto controlli sistematici lungo alcuni confini interni dello spazio Schengen, in risposta a preoccupazioni legate alla migrazione irregolare, suscitando critiche nei paesi vicini per l'impatto su mobilità e scambi quotidiani."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/what-have-germanys-border-controls-achieved-after-two-years/163107124.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-15T12:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z605c32e5",
+   "sez": "salute",
+   "titolo": "L'Uganda stanzia 961,2 miliardi di scellini per la sanità nel secondo trimestre",
+   "orig": "Government Releases Shs961.2 Billion to Health Sector for Second Quarter",
+   "lead": "Il governo dell'Uganda ha rilasciato 961,2 miliardi di scellini ugandesi destinati al settore sanitario per il secondo trimestre. Il Ministero della Salute, i National Medical Stores e gli istituti specializzati ricevono le quote maggiori del finanziamento, in un contesto di domanda crescente di farmaci e di richiesta di servizi sanitari migliori. Lo riferisce Nile Post.",
+   "more": [
+    "I National Medical Stores sono l'ente pubblico ugandese responsabile dell'approvvigionamento e della distribuzione di farmaci alle strutture sanitarie del paese, un tassello cruciale per garantire l'accesso alle cure."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/health/378906/government-releases-shs9612-billion-to-health-sector-for-second-quarter",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-15T17:34+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z1b7a0056",
+   "sez": "sport",
+   "titolo": "Scandalo nel calcio inglese: multe, titoli revocati o cessione forzata del club?",
+   "orig": "STATESIDE: Fines, stripped of titles or the owners being forced to sell?",
+   "lead": "Un club dominante sia nella Premier League maschile sia nella Women's Super League inglese è al centro di sviluppi recenti nel calcio europeo, con ipotesi che vanno da multe pesanti alla revoca di titoli fino alla possibile cessione forzata della proprietà. L'articolo di opinione analizza le diverse strade percorribili dalle autorità calcistiche inglesi. Lo riferisce The Tribune.",
+   "more": [
+    "La Premier League e la Women's Super League sono i massimi campionati di calcio maschile e femminile in Inghilterra, tra i più seguiti e ricchi al mondo, dove le violazioni delle regole finanziarie possono comportare sanzioni severe."
+   ],
+   "fonti": [
+    {
+     "n": "The Tribune (Bahamas)",
+     "p": "XX",
+     "c": "Nassau",
+     "u": "https://tribune242.com/news/2026/oct/15/stateside-fines-stripped-of-titles-or-the-owners-being-forced-to-sell/",
+     "angolo": "",
+     "atlas": "Bahamas",
+     "t": "2026-10-15T11:02-04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zf9585049",
+   "sez": "cultura",
+   "titolo": "Cosa ci ha insegnato \"Girls\" sulla difficoltà di diventare adulti",
+   "orig": "Girls ci ha insegnato che diventare adulti è difficile, anche quando hai una casa tutta tua",
+   "lead": "Un articolo ripercorre il significato della serie televisiva \"Girls\", sottolineando come il racconto mostri quanto sia complesso diventare adulti anche quando si possiede una casa propria. Il pezzo riflette sul tema della maturazione personale attraverso la lente della serie. Lo riferisce Domus.",
+   "more": [
+    "\"Girls\" è una serie televisiva statunitense creata da Lena Dunham, incentrata sulle vite di quattro giovani donne a New York alle prese con relazioni, carriera e crescita personale."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/2026/10/15/girls-serie-tv-case-appartamenti-hannah-lena-dunham.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z91c5d1a7",
+   "sez": "economia",
+   "titolo": "Anglo American: i giganti tech mostrano \"profondo interesse\" per le miniere",
+   "orig": "Anglo American chief says tech giants show ‘deep interest’ in mining stakes",
+   "lead": "L'amministratore delegato di Anglo American, Duncan Wanblad, ha dichiarato che le grandi aziende tecnologiche stanno manifestando un profondo interesse verso partecipazioni nel settore minerario. Secondo il dirigente, le preoccupazioni legate alla scarsità di risorse spingono queste società a cercare modi per assicurarsi forniture a lungo termine di metalli strategici. Lo riferisce Financial Times.",
+   "more": [
+    "Anglo American è un gruppo minerario globale con sede nel Regno Unito, attivo nell'estrazione di metalli e minerali strategici, fondamentali per le tecnologie avanzate e le transizioni energetiche."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/15d18ed4-543d-4004-ae38-f429a118daab?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-15T14:19+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z30f9fb1c",
+   "sez": "ambiente",
+   "titolo": "I dati smentiscono i dubbi sul solare in Nuova Zelanda",
+   "orig": "Stuff commenters said NZ isn’t sunny enough for solar. Here’s what the data says",
+   "lead": "Un'analisi pubblicata da Stuff NZ verifica l'affermazione, diffusa tra i commentatori del sito, secondo cui la Nuova Zelanda non riceverebbe abbastanza sole per sfruttare l'energia solare. I dati raccolti mostrano che le assunzioni comuni sulla scarsità delle ore di sole nel paese non sono del tutto accurate. Lo riferisce Stuff NZ.",
+   "more": [
+    "L'energia solare sfrutta pannelli fotovoltaici per convertire la luce del sole in elettricità; la sua efficacia dipende dalle ore di insolazione di una regione, un fattore spesso sovrastimato o sottostimato nelle percezioni comuni."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/money/361046929/stuff-commenters-said-nz-isnt-sunny-enough-solar-heres-what-data-says",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-15T15:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zaf7ad671",
+   "sez": "sport",
+   "titolo": "Al via a Santa Lucia il torneo Under-16 di netball",
+   "orig": "SJC, CCSS, Beanefield, Choiseul open U16 netball with wins",
+   "lead": "Il Dipartimento per lo sviluppo giovanile e lo sport di Santa Lucia ha dato il via al torneo Under-16 di netball mercoledì, con incontri disputati al Beausejour Gymnasium per il Girone A e al Micoud Court per il Girone B. St Joseph's Convent, Castries Comprehensive Secondary School, Beanefield Comprehensive e Choiseul Secondary hanno aperto la competizione con vittorie. Lo riferisce St. Lucia Times.",
+   "more": [
+    "Il netball è uno sport di squadra molto popolare nei paesi del Commonwealth, derivato dalla pallacanestro, giocato soprattutto da squadre femminili e particolarmente diffuso nelle scuole dei Caraibi e dell'Oceania."
+   ],
+   "fonti": [
+    {
+     "n": "St. Lucia Times",
+     "p": "XX",
+     "c": "Castries",
+     "u": "https://stluciatimes.com/184993/2026/10/sjc-ccss-beanefield-choiseul-open-u16-netball-with-wins/",
+     "angolo": "",
+     "atlas": "Saint Lucia",
+     "t": "2026-10-15T14:55+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zaf4ade85",
+   "sez": "cultura",
+   "titolo": "Pier Paolo Pasolini, il poeta che fu anche pittore",
+   "orig": "Ma tu lo sapevi che Pasolini era anche un pittore?",
+   "lead": "Un articolo di Domus riscopre la produzione pittorica di Pier Paolo Pasolini, figura nota soprattutto come scrittore, poeta e regista, ma che si è dedicato anche all'arte visiva. Il pezzo invita a considerare questo aspetto meno conosciuto della sua attività creativa. Lo riferisce Domus.",
+   "more": [
+    "Pier Paolo Pasolini è stato uno dei più importanti intellettuali italiani del Novecento, celebre come regista, scrittore e poeta, autore di opere fondamentali del cinema e della letteratura italiana, oltre che figura influente nel dibattito pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/2026/10/13/pasolini-pittore-mostra-dipinti-paesaggi-toscana.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T15:00+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z8945869c",
+   "sez": "economia",
+   "titolo": "Francia e Germania aprono al Regno Unito sulla politica auto Ue in cambio di allineamento sulla Cina",
+   "orig": "France and Germany to allow UK to join EU car policy if it aligns on China tariffs",
+   "lead": "Parigi e Berlino hanno raggiunto un accordo sul programma di sussidi \"Made in Europe\" dell'Unione europea e sulla fine graduale dei motori a combustione, concordando di permettere al Regno Unito di aderire alla politica automobilistica Ue a condizione che Londra si allinei sui dazi verso la Cina. L'intesa riguarda il futuro dell'industria automobilistica europea. Lo riferisce Financial Times.",
+   "more": [
+    "Il programma \"Made in Europe\" è un'iniziativa dell'Unione europea pensata per sostenere la produzione industriale interna, in particolare nel settore automobilistico, favorendo la transizione verso veicoli elettrici e riducendo la dipendenza da fornitori extraeuropei."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/f8e99974-9f18-4141-ac4a-1f072b7ebb24?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-15T14:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zee52ac64",
+   "sez": "sport",
+   "titolo": "La Roma spaventa il Real Madrid ma si fa riprendere in Champions League",
+   "orig": "À ROME, L’HISTOIRE GAGNE TOUJOURS",
+   "lead": "Nella partita di Champions League, la Roma ha dominato per 83 minuti contro il Real Madrid, passando in vantaggio al 20' con un gol di Marten de Roon dopo un pressing alto ed efficace. Il Real, in evidente difficoltà, si è salvato al 25' solo grazie a un gol fortunoso di Kylian Mbappé nato da un pallone contrato e trasformato in un lob imprevedibile. Lo riferisce Iwacu.",
+   "more": [
+    "La Roma e il Real Madrid sono due club storici del calcio europeo; il Real Madrid è tra le squadre più titolate al mondo in Champions League, la massima competizione calcistica continentale per club."
+   ],
+   "fonti": [
+    {
+     "n": "Iwacu",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.iwacu-burundi.org/a-rome-lhistoire-gagne-toujours/",
+     "angolo": "",
+     "atlas": "Burundi",
+     "t": "2026-10-15T14:11+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z27c5bd4d",
+   "sez": "mondo",
+   "titolo": "Un drone che minacciava una portacontainer CMA CGM abbattuto da una fregata francese",
+   "orig": "Un drone menaçant un porte-conteneurs CMA CGM abattu par une frégate française à Bab Al-Mandab, l’inquiétude gagne les équipages",
+   "lead": "Una fregata della marina francese che scortava una nave portacontainer del gruppo CMA CGM ha abbattuto un drone che minacciava l'imbarcazione, nella notte tra il 1° e il 2 ottobre, nello stretto di Bab al-Mandab. I sindacati criticano la mancanza di trasparenza della direzione dell'azienda, mentre cresce il numero di comandanti che rifiutano di attraversare lo stretto per motivi di sicurezza. Lo riferisce Le Monde.",
+   "more": [
+    "Bab al-Mandab è uno stretto strategico tra il Mar Rosso e il Golfo di Aden, attraversato da gran parte del traffico marittimo mondiale, diventato negli ultimi anni teatro di attacchi a navi commerciali legati alle tensioni nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/economie/article/2026/10/15/un-drone-menacant-un-porte-conteneurs-cma-cgm-abattu-par-une-fregate-francaise-a-bab-al-mandab-l-inquietude-gagne-les-equipages_6794445_3234.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T14:35+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z3df58ab0",
+   "sez": "economia",
+   "titolo": "Canada e Singapore ribadiscono i legami commerciali con la Cina nonostante la spinta all'autosufficienza",
+   "orig": "Canada, Singapore reaffirm China trade ties amid global push for self-sufficiency",
+   "lead": "In un forum economico a Nuova Delhi, funzionari di Canada e Singapore hanno ribadito l'impegno a rafforzare i legami commerciali con la Cina, nonostante la crescente frammentazione globale e la spinta di molti governi verso una maggiore autosufficienza. Il ministro canadese per il Commercio internazionale, Maninder Sidhu, ha sottolineato che la Cina è il secondo partner commerciale più importante del Canada, evidenziando opportunità di cooperazione. Lo riferisce South China Morning Post.",
+   "more": [
+    "Negli ultimi anni molte economie hanno cercato di ridurre la dipendenza dalla Cina per motivi geopolitici e di sicurezza delle catene di approvvigionamento, ma diversi paesi continuano a considerare Pechino un partner commerciale strategico."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/economy/global-economy/article/3370999/canada-singapore-reaffirm-china-trade-ties-amid-global-push-self-sufficiency?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-15T12:30+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z7dc7daa7",
+   "sez": "mondo",
+   "titolo": "Movimento liceale in Francia: la polizia cerca di controllare il racconto mediatico sui social",
+   "orig": "Mouvement lycéen : la police en quête de contrôle du récit médiatique sur les réseaux sociaux",
+   "lead": "Di fronte alla diffusione di numerosi video che mostrano violenze della polizia durante le proteste liceali in Francia, circolati su TikTok, X e Instagram nelle ultime settimane, la polizia nazionale francese ha riconosciuto di aver adattato la propria comunicazione su questi canali, presenti fin dal 2012. L'obiettivo dichiarato è gestire il modo in cui gli episodi vengono raccontati online. Lo riferisce Le Monde.",
+   "more": [
+    "I social network sono diventati negli ultimi anni uno strumento chiave per la comunicazione istituzionale e per il racconto in tempo reale di eventi di piazza, con le forze dell'ordine di diversi paesi che li utilizzano sempre più per orientare la narrazione pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/pixels/article/2026/10/15/mouvement-lyceen-la-police-en-quete-de-controle-du-recit-mediatique-sur-les-reseaux-sociaux_6794496_4408996.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-15T16:30+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z42e81f1d",
+   "sez": "tech",
+   "titolo": "\"GTA 6\": pubblicato il trailer di lancio di 90 secondi",
+   "orig": "»GTA 6«: 90-sekündiger »Launch Trailer« zum Spiel erschienen",
+   "lead": "Tredici anni dopo il quinto capitolo della serie, si avvicina l'uscita di \"Grand Theft Auto VI\": Rockstar Games ha pubblicato un nuovo trailer di lancio della durata di 90 secondi, segnale che la macchina promozionale del gioco entra ora nel vivo. Lo riferisce Der Spiegel.",
+   "more": [
+    "Grand Theft Auto è una delle serie videoludiche più vendute al mondo, sviluppata da Rockstar Games, nota per le ambientazioni open world e per l'attesa mediatica che accompagna ogni nuovo capitolo della saga."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/netzwelt/games/gta-6-90-sekuendiger-launch-trailer-zum-spiel-erschienen-a-7ec657da-923f-473d-8ce5-9c0337ea69dd#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T16:48+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z30272679",
+   "sez": "ambiente",
+   "titolo": "Ecomondo 2026 accende i riflettori sulla transizione ecologica e l'economia circolare in Italia",
+   "orig": "Ecomondo 2026 to spotlight ecological transition, circular economy in Italy",
+   "lead": "La 29esima edizione di Ecomondo si terrà dal 3 al 6 novembre al Rimini Expo Centre, riunendo aziende internazionali, decisori politici, innovatori ed esperti di sostenibilità per discutere i progressi dell'economia verde, blu e circolare. L'evento rappresenta un appuntamento di riferimento per il settore ambientale in Italia. Lo riferisce Daily News Egypt.",
+   "more": [
+    "Ecomondo è una delle principali fiere internazionali dedicate alla green economy e all'economia circolare, che ogni anno a Rimini riunisce operatori del settore ambientale per presentare tecnologie e politiche legate a sostenibilità e gestione delle risorse."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/15/ecomondo-2026-to-spotlight-ecological-transition-circular-economy-in-italy/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-15T13:33+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z27d28a2f",
+   "sez": "sport",
+   "titolo": "Stuttgart, il capitano Undav torna al gol in Champions League",
+   "orig": "Undav und der VfB Stuttgart: Es läuft jetzt wieder. Oder?",
+   "lead": "Nella vittoria per 3-0 in Champions League a Bratislava, il capitano del VfB Stuttgart Deniz Undav ha segnato finalmente il suo primo gol stagionale. Nonostante il successo, permangono alcune incertezze nelle prestazioni della squadra tedesca, secondo l'analisi della partita. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "Il VfB Stuttgart è un club calcistico tedesco della Bundesliga, qualificato alla Champions League, la massima competizione europea per squadre di club, che riunisce le migliori formazioni del continente."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/sport/vfb-stuttgart-champions-league-undav-bratislava-li.3563969",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-15T12:54+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z30950ef7",
+   "sez": "spazio",
+   "titolo": "Perché Starlink è cruciale per la guerra dei droni in Ucraina",
+   "orig": "Waarom satellietnetwerk Starlink cruciaal is voor de drone-oorlog van Oekraïne",
+   "lead": "Dopo un'interruzione durata alcuni giorni, l'Ucraina può tornare a utilizzare la rete satellitare statunitense Starlink. Mentre Mosca continua ad attaccare le centrali energetiche ucraine, Kiev riprende la propria campagna di attacchi contro l'industria petrolifera russa, in un conflitto in cui le comunicazioni satellitari si confermano decisive. Lo riferisce NRC.",
+   "more": [
+    "Starlink è il servizio di internet satellitare sviluppato da SpaceX, diventato uno strumento strategico per l'Ucraina durante il conflitto con la Russia, utilizzato per le comunicazioni militari e il coordinamento di operazioni."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/15/communicatie-met-starlinknetwerk-is-weer-hersteld-voor-oekraiense-drones-kyiv-hervat-aanvallen-op-russische-olieraffinaderijen-a4939051",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-15T14:53+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zbb1444f8",
+   "sez": "economia",
+   "titolo": "Hong Kong prevede solo due vendite di terreni nel trimestre nonostante la ripresa immobiliare",
+   "orig": "Hong Kong plans just 2 land sales this quarter despite housing rebound",
+   "lead": "Il governo di Hong Kong metterà in vendita soltanto due lotti di terreno nel trimestre ottobre-dicembre, uno per sviluppo residenziale e uno per un progetto di ostello studentesco, mantenendo un approccio cauto verso l'offerta abitativa nonostante il mercato immobiliare stia mostrando segnali di ripresa. Un'area residenziale di 8.015 metri quadrati a Sha Tin sarà offerta tramite gara nel terzo trimestre dell'anno finanziario 2026-2027, ha dichiarato la segretaria per lo Sviluppo Bernadette Linn Hon-ho. Lo riferisce South China Morning Post.",
+   "more": [
+    "Hong Kong gestisce l'offerta di terreni pubblici attraverso vendite periodiche decise dal governo, uno strumento chiave per regolare il mercato immobiliare in un territorio dove lo spazio edificabile è limitato e la domanda abitativa storicamente elevata."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/article/3371042/hong-kong-plans-just-two-land-sales-next-quarter-despite-housing-rebound?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-15T12:14+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z6831f47a",
+   "sez": "tech",
+   "titolo": "TikTok riceve un parere sfavorevole dall'avvocato generale Ue, ma la sentenza è ancora da emettere",
+   "orig": "TikTok z niekorzystną opinią. Wyrok dopiero zapadnie",
+   "lead": "L'avvocato generale della Corte di giustizia dell'Unione europea, Andrea Biondi, ha espresso un parere secondo cui TikTok dovrebbe perdere la disputa relativa alla sua inclusione nelle norme Ue pensate per limitare le pratiche anticoncorrenziali. Il parere non è vincolante per i giudici, che dovranno ancora emettere la sentenza definitiva. Lo riferisce TVN24.",
+   "more": [
+    "La Corte di giustizia dell'Unione europea è il massimo organo giudiziario Ue, che si pronuncia su controversie legate al diritto comunitario; gli avvocati generali forniscono pareri non vincolanti che spesso orientano la decisione finale dei giudici."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/tech/tiktok-przed-tsue-niekorzystna-opinia-w-sporze-z-komisja-europejska-st9288870?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-15T14:26+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "ze74b672c",
+   "sez": "sport",
+   "titolo": "Tre ricevitori venezuelani si contendono il Guante de Oro 2026",
+   "orig": "Dominio histórico: Un receptor venezolano se llevará el Guante de Oro en 2026",
+   "lead": "La candidatura di Freddy Fermín, Luis Torrens e Gabriel Moreno come migliori ricevitori difensivi della Lega Nazionale segna un precedente storico nelle Grandi Leghe di baseball: un ricevitore venezuelano si aggiudicherà infatti il premio Guante de Oro 2026, confermando il dominio dei catcher venezuelani in questo ruolo. Lo riferisce El Nacional.",
+   "more": [
+    "Il Guante de Oro (Gold Glove) è un premio assegnato ogni anno ai migliori giocatori difensivi del baseball professionistico nordamericano, considerato un riconoscimento di prestigio nella Major League Baseball."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/dominio-historico-un-receptor-venezolano-se-llevara-el-guante-de-oro-en-2026/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-15T15:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "za69a158b",
+   "sez": "mondo",
+   "titolo": "Carceri sotto pressione in Africa occidentale",
+   "orig": "Afrique de l’Ouest : Des prisons sous forte pression",
+   "lead": "Una serie di testate dell'Africa occidentale segnala una forte pressione sui sistemi carcerari di Mali, Senegal, Niger, Burkina Faso e Guinea, legata soprattutto a sovraffollamento e detenzione provvisoria prolungata. In Senegal il ministero della Giustizia ha censito 15.267 detenuti al 18 agosto 2025, di cui 547 in attesa di giudizio da almeno tre anni. Per rispondere alla crisi, l'amministrazione penitenziaria senegalese ha creato 1.390 posti in più tra 2024 e 2025 e ha lanciato un programma di modernizzazione delle strutture. Lo riferisce Journal du Mali.",
+   "more": [
+    "La detenzione provvisoria è la custodia in carcere di persone non ancora condannate, in attesa di processo: un prolungarsi eccessivo di questa fase, comune in molti sistemi giudiziari africani, aggrava il sovraffollamento carcerario e solleva interrogativi sui diritti degli imputati."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/afrique-de-louest-des-prisons-sous-forte-pression/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-10-15T15:13+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z15b1daec",
+   "sez": "sport",
+   "titolo": "Eto'o attacca RFI dopo l'articolo su una nuova denuncia in Camerun",
+   "orig": "Samuel Eto’o répond sèchement à RFI après un article sur une nouvelle plainte au Cameroun",
+   "lead": "Samuel Eto'o, presidente della Federazione camerunese di calcio, ha risposto duramente su Facebook a un articolo di RFI relativo a una nuova denuncia per presunta appropriazione indebita di fondi pubblici a suo carico. Nel messaggio l'ex attaccante ha attaccato alcuni collaboratori dell'emittente francese. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "Samuel Eto'o è un ex calciatore camerunese, tra i più noti attaccanti africani, vincitore di numerosi titoli con club europei; dal 2021 guida la federazione calcistica del suo paese ed è spesso al centro di polemiche legate alla gestione del calcio nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/samuel-etoo-repond-sechement-a-rfi-apres-un-article-sur-une-nouvelle-plainte-au-cameroun/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-15T14:12+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z0af54dff",
+   "sez": "italia",
+   "titolo": "Termosifoni, al via la stagione termica 2026/2027: le date città per città",
+   "orig": "Termosifoni, quando si possono accendere? Da Milano (che dà il via oggi) a Roma e Firenze, le date città per città",
+   "lead": "Da oggi, 15 ottobre, parte ufficialmente in Italia la stagione termica 2026/2027, con l'accensione dei termosifoni che inizia a Milano e prosegue nei giorni successivi nelle altre città, tra cui Roma e Firenze, secondo calendari differenti stabiliti per fascia climatica. Il Messaggero ricostruisce, città per città, le date in cui è consentito avviare il riscaldamento domestico con l'arrivo delle temperature più basse dell'autunno. Lo riferisce Il Messaggero.",
+   "more": [
+    "In Italia l'accensione dei riscaldamenti è regolata da fasce climatiche che assegnano a ciascun comune un periodo e un orario massimo di utilizzo, con l'obiettivo di contenere i consumi energetici."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/schede/termosifoni_quando_si_possono_accendere_data_calendario_milano_torino_bologna_roma_firenze-9826718.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z8de8b98a",
+   "sez": "mondo",
+   "titolo": "Un libro sulla sovranità del Mali dal 2020 al 2026",
+   "orig": "Dr Ahmadou Touré : « Aucun développement durable n’est possible sans souveraineté effective »",
+   "lead": "Il ricercatore maliano Ahmadou Touré, maître-assistant e direttore del Centro di ricerca su governance, mediazione e sicurezza nel Sahel, presenta il suo nuovo libro \"Souveraineté et refondation étatique au Mali (2020-2026): vers l'Alliance des États du Sahel\", in cui analizza il percorso politico apertosi nel 2020 e definisce i criteri di una sovranità effettiva. Nell'intervista sostiene che nessuno sviluppo duraturo è possibile senza una sovranità piena dello Stato sul piano politico, sicuritario, economico e diplomatico. Lo riferisce Journal du Mali.",
+   "more": [
+    "Il Mali ha vissuto una transizione politica avviata con un colpo di stato nel 2020, che ha portato al potere un governo militare e a un allontanamento dalle potenze occidentali, in parallelo alla creazione dell'Alleanza degli Stati del Sahel con Burkina Faso e Niger."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/dr-ahmadou-toure-aucun-developpement-durable-nest-possible-sans-souverainete-effective/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-10-15T15:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z165998c1",
+   "sez": "economia",
+   "titolo": "Italo sbarca in Germania nel 2028 con manager tedeschi",
+   "orig": "Italo, debutto in Germania nel 2028: manager tedeschi per treni e gestione",
+   "lead": "Italo, operatore ferroviario italiano dell'alta velocità, debutterà in Germania nel 2028 affidando la guida delle due società del gruppo a manager tedeschi: Marc Giesen ed Eva Kreienkamp assumeranno la direzione rispettivamente dei treni e della gestione operativa. Secondo la Repubblica, le operazioni saranno affidate a esperti del settore ferroviario con conoscenza diretta del concorrente pubblico tedesco e con esperienze nel settore privato. Lo riferisce la Repubblica.",
+   "more": [
+    "Italo è la società privata che gestisce treni ad alta velocità in Italia, in concorrenza con Trenitalia; la sua espansione in Germania la porrebbe in competizione diretta con Deutsche Bahn, l'operatore statale tedesco."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/15/news/italo_germania_nomina_manager_tedeschi-425650258/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T16:29+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z28387689",
+   "sez": "mondo",
+   "titolo": "Kidal: dopo l'esercito, la sfida di ricostruire lo Stato",
+   "orig": "Kidal : Après l’armée, réinstaller l’État",
+   "lead": "Le forze armate del Mali (FAMa) hanno riconquistato Kidal il 6 ottobre, quasi sei mesi dopo esserne state costrette a ritirarsi, consolidando la presenza dopo operazioni aeree e terrestri nell'ambito dell'operazione Dougoukoloko. Il Fronte di liberazione dell'Azawad, che controllava la città insieme al gruppo jihadista JNIM dagli attacchi del 25 aprile, afferma di aver effettuato un ripiegamento strategico per preservare uomini e mezzi. Il governo maliano annuncia ora il ritorno progressivo dell'amministrazione pubblica, mentre i gruppi armati restano attivi nella zona. Lo riferisce Journal du Mali.",
+   "more": [
+    "Kidal è una città del nord del Mali, roccaforte storica dei movimenti indipendentisti tuareg e teatro di scontri tra l'esercito maliano, gruppi armati locali e formazioni jihadiste legate ad al-Qaeda, come il JNIM, in un conflitto che dura da oltre un decennio."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/kidal-apres-larmee-reinstaller-letat/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-10-15T15:09+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z7659af66",
+   "sez": "economia",
+   "titolo": "Sessantadue imprenditori di Morobe puntano sui mercati globali",
+   "orig": "Sixty-two Morobe entrepreneurs eye global markets",
+   "lead": "Sessantadue imprenditori della provincia di Morobe, in Papua Nuova Guinea, hanno completato un programma di formazione aziendale pensato per rafforzare le loro attività e aiutarli a raggiungere i mercati nazionali e internazionali. Lo riferisce Post-Courier.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/sixty-two-morobe-entrepreneurs-eye-global-markets/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-15T13:07+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zc0dfd4a4",
+   "sez": "organizzazioni",
+   "titolo": "Le voci del Sahel alla sessione della Commissione africana a Dakar",
+   "orig": "Droits humains : Les voix du Sahel à Dakar",
+   "lead": "La 89esima sessione pubblica della Commissione africana dei diritti dell'uomo e dei popoli si svolge a Dakar dal 12 al 21 ottobre, in coincidenza con il 40° anniversario dell'entrata in vigore della Carta africana dei diritti dell'uomo e dei popoli, il 21 ottobre 1986. Sebbene il Sahel non sia un tema ufficiale dell'agenda, le sue criticità vengono portate all'attenzione degli undici commissari da organizzazioni della società civile e difensori dei diritti umani, in un incontro precedduto dal Forum delle ONG svoltosi dall'8 al 10 ottobre. Lo riferisce Journal du Mali.",
+   "more": [
+    "La Commissione africana dei diritti dell'uomo e dei popoli è l'organo dell'Unione africana incaricato di promuovere e vigilare sul rispetto dei diritti umani nel continente, esaminando i rapporti degli Stati membri e le denunce presentate da cittadini e organizzazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/droits-humains-les-voix-du-sahel-a-dakar/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-10-15T12:20+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z1db07a74",
+   "sez": "economia",
+   "titolo": "Il boom petrolifero offshore della Namibia corre davanti alle leggi marittime",
+   "orig": "Offshore Oil Races Ahead of Namibia’s Marine Laws",
+   "lead": "La Namibia si avvicina a un importante boom del settore petrolifero e del gas offshore, come emerso durante la Namibia Oil and Gas Conference and Exhibition svoltasi a Windhoek dal 18 al 20 agosto, che ha riunito rappresentanti governativi, dirigenti industriali, investitori ed esperti per discutere come il settore emergente possa generare benefici duraturi per il paese. Il titolo segnala che lo sviluppo offshore avanza più rapidamente dell'aggiornamento delle leggi marittime namibiane. Lo riferisce The Namibian.",
+   "more": [
+    "La Namibia ha scoperto negli ultimi anni importanti giacimenti petroliferi offshore che potrebbero trasformarla in un nuovo produttore africano di idrocarburi, suscitando l'interesse di grandi compagnie internazionali e al tempo stesso la necessità di aggiornare le normative ambientali e marittime."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/offshore-oil-races-ahead-of-namibias-marine-laws/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-15T15:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z7d5dfad7",
+   "sez": "salute",
+   "titolo": "Mali, aumentano i casi di congiuntivite \"Apollo\"",
+   "orig": "Agir contre « Apollo »",
+   "lead": "In Mali si moltiplicano i casi di congiuntivite, soprannominata popolarmente \"Apollo\", che si diffonde tra famiglie, quartieri e luoghi di lavoro, aggravata dal rientro scolastico in classi spesso sovraffollate dove i bambini condividono banchi, materiale e giochi. Il ministero della Salute ha riconosciuto il 30 settembre un aumento dei casi, giudicando però la situazione non allarmante; l'editoriale di Journal du Mali chiede che la prevenzione entri subito nelle scuole, senza attendere un'ulteriore crescita delle consultazioni. Lo riferisce Journal du Mali.",
+   "more": [
+    "La congiuntivite è un'infiammazione della membrana che riveste la parte interna delle palpebre e la superficie dell'occhio, spesso di origine virale o batterica, altamente contagiosa soprattutto in ambienti chiusi e affollati come le scuole."
+   ],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/agir-contre-apollo/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-10-15T12:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z4dc02080",
+   "sez": "economia",
+   "titolo": "Mozambico approva la legge sul contenuto locale",
+   "orig": "Mozambique advances economic growth through historic Local Content framework",
+   "lead": "Il governo del Mozambico ha raggiunto un traguardo storico con l'approvazione della Legge sul contenuto locale 9/2026, votata all'unanimità dal Parlamento in tempi record sotto la presidenza di Chapo. Il Consiglio dei ministri ha inoltre approvato questa settimana il regolamento attuativo e lo statuto dell'Autorità per il contenuto locale, completando il quadro normativo. Lo riferisce Club of Mozambique.",
+   "more": [
+    "Le leggi sul contenuto locale impongono alle imprese straniere, soprattutto nei settori estrattivo ed energetico, di coinvolgere fornitori, manodopera e capitali nazionali, con l'obiettivo di aumentare i benefici economici per il paese ospitante."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-advances-economic-growth-through-historic-local-content-framework/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-15T12:06+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zf8607f77",
+   "sez": "economia",
+   "titolo": "Le banche iraniane aumentano del 92% i prestiti alle startup",
+   "orig": "Iranian banks increase startup lending by 92.2% in August–September",
+   "lead": "Le banche iraniane hanno aumentato i prestiti alle startup del 92,2% tra agosto e settembre, secondo i dati riportati da Trend, segnalando un'accelerazione del sostegno creditizio all'imprenditoria innovativa nel paese. Lo riferisce Trend.",
+   "more": [
+    "In Iran il settore delle startup si è sviluppato negli ultimi anni nonostante le sanzioni internazionali, con il sostegno di programmi statali e bancari rivolti soprattutto ai comparti tecnologico e digitale."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/iran/4235057.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T19:16+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "za52373ad",
+   "sez": "economia",
+   "titolo": "Lussemburgo, la CFL spende 20.000 euro per rimuovere graffiti",
+   "orig": "Luxembourg rail company CFL has spent €20,000 removing graffiti in 2026 as cases rise",
+   "lead": "La società ferroviaria lussemburghese CFL ha speso 20.000 euro nel 2026 per rimuovere graffiti dai propri treni e dalle infrastrutture, dopo che il numero di episodi segnalati è triplicato tra il 2023 e l'anno scorso. Lo riferisce Luxembourg Times.",
+   "more": [
+    "CFL (Société nationale des Chemins de Fer Luxembourgeois) è l'operatore ferroviario nazionale del Lussemburgo, responsabile della gestione dei treni e di parte delle infrastrutture ferroviarie del paese."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/cfl-records-67-graffiti-incidents-in-2025-up-from-39-in-2024-and-21-in-2023/163125019.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-15T15:00+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zc33d4cd8",
+   "sez": "mondo",
+   "titolo": "Il premier del Qatar a Beirut per la cooperazione economica con il Libano",
+   "orig": "Qatari PM to tackle economic cooperation with Lebanon as KSA seeks UNIFIL solution",
+   "lead": "Il primo ministro del Qatar, Sheikh Mohammed bin Abdulrahman Al Thani, visiterà Beirut giovedì per discutere di cooperazione economica con il Libano, mentre l'Arabia Saudita cerca una soluzione sulla questione dell'UNIFIL. Fonti diplomatiche a Washington citate da Al-Jadeed e riprese da Naharnet indicano che la visita serve soprattutto a sostenere il governo del primo ministro libanese Nawaf Salam. Lo riferisce Naharnet.",
+   "more": [
+    "L'UNIFIL è la missione di peacekeeping delle Nazioni Unite nel Libano meridionale, istituita per monitorare il confine con Israele; il suo futuro è spesso al centro di negoziati diplomatici regionali legati alla stabilità del paese."
+   ],
+   "fonti": [
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://www.naharnet.com/stories/en/323126-qatari-pm-to-tackle-economic-cooperation-with-lebanon-as-ksa-seeks-unifil-solution",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-10-15T16:39+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z2c6c6b2e",
+   "sez": "economia",
+   "titolo": "Uzbekistan e Rhenus discutono l'espansione della logistica merci",
+   "orig": "Uzbekistan and Rhenus discuss expanding logistics infrastructure and freight links.",
+   "lead": "L'Uzbekistan e la società logistica tedesca Rhenus hanno discusso l'espansione dell'infrastruttura logistica e dei collegamenti merci, con l'obiettivo di accelerare la ricostruzione di un terminale per il trasporto merci ad Andijan e di stabilire rotte di carico più rapide. Lo riferisce Kun.uz.",
+   "more": [
+    "Rhenus è un gruppo logistico tedesco attivo a livello internazionale nel trasporto merci e nella gestione di terminali, mentre Andijan è una città dell'Uzbekistan orientale, importante nodo commerciale della regione della valle del Fergana."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/15/uzbekistan-and-rhenus-discuss-expanding-logistics-infrastructure-and-freight-links",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-15T17:45+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z2a6834ab",
+   "sez": "economia",
+   "titolo": "Il som uzbeko si svaluta verso i 12.000 per dollaro",
+   "orig": "Uzbek Soum Weakens in October as Dollar Nears 12,000 Soums",
+   "lead": "Il som uzbeko si è svalutato di oltre l'1% rispetto al dollaro statunitense nel mese di ottobre, con il cambio USD/UZS che si avvicina a 12.000 som in un contesto di pressioni inflattive e sulle riserve valutarie del paese. Lo riferisce UzDaily.",
+   "more": [
+    "Il som è la valuta nazionale dell'Uzbekistan; le sue oscillazioni rispetto al dollaro riflettono spesso le dinamiche dell'inflazione interna e della disponibilità di riserve estere della banca centrale."
+   ],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbek-soum-weakens-in-october-as-dollar-nears-12000-soums/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-15T20:00+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "za7b8b27e",
+   "sez": "economia",
+   "titolo": "Iran: petroliera in fiamme nel Golfo dell'Oman",
+   "orig": "Iran Says Oil Tanker Caught Fire in Gulf of Oman",
+   "lead": "Secondo l'Iran, una petroliera non conforme ha preso fuoco nel Golfo dell'Oman dopo essere stata identificata dalle squadre di sorveglianza della marina iraniana, come riportato dalla televisione statale citata da Kurdistan24. Lo riferisce Kurdistan24.",
+   "more": [
+    "Il Golfo dell'Oman è una via marittima strategica collegata allo Stretto di Hormuz, attraverso cui transita una quota significativa del petrolio mondiale, spesso teatro di tensioni e incidenti legati al trasporto di idrocarburi."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946323/iran-says-oil-tanker-caught-fire-in-gulf-of-oman",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-15T16:59+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z8f27f607",
+   "sez": "mondo",
+   "titolo": "Pezeshkian: Iran nel blocco più duro dal 1979, accusa gli USA",
+   "orig": "Pezeshkian Says Iran Faces Its Toughest Blockade Since 1979 Revolution, Accuses US of Seeking Unrest",
+   "lead": "Il presidente iraniano Masoud Pezeshkian ha dichiarato che l'Iran sta affrontando il blocco più duro dagli anni della rivoluzione del 1979, accusando gli Stati Uniti di usare la pressione economica per alimentare il malcontento pubblico, mentre il blocco statunitense dei porti iraniani aggrava le tensioni sullo Stretto di Hormuz. Lo riferisce Kurdistan24.",
+   "more": [
+    "Lo Stretto di Hormuz è un passaggio marittimo cruciale tra il Golfo Persico e l'Oceano Indiano, da cui transita gran parte del petrolio esportato dal Medio Oriente, e rappresenta da decenni un punto di frizione tra Iran e Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946307/pezeshkian-says-iran-faces-its-toughest-blockade-since-1979-revolution-accuses-us-of-seeking-unrest",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-15T15:33+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z94573e14",
+   "sez": "mondo",
+   "titolo": "Uganda, rilasciata su cauzione attivista anti-petrolio collassata in tribunale",
+   "orig": "Anti-Oil Activist Who Collapsed in Court Granted Bail",
+   "lead": "Shakira Kasoga, attivista ugandese impegnata contro le politiche petrolifere del paese, è stata rilasciata su cauzione non in contanti di 500.000 scellini dopo essere crollata durante una precedente udienza in tribunale, mentre gli avvocati esprimono preoccupazione per la detenzione degli attivisti che si oppongono alla politica petrolifera dell'Uganda. Lo riferisce Nile Post.",
+   "more": [
+    "L'Uganda sta sviluppando un settore petrolifero legato ai giacimenti del Lago Albert, un progetto contestato da attivisti ambientali e per i diritti umani che denunciano rischi ambientali e sociali legati alle estrazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/378924/anti-oil-activist-who-collapsed-in-court-granted-bail",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-15T18:17+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
    "id": "z5b320b2d",
    "sez": "mondo",
    "titolo": "Trump: «La fucilazione del killer di Fort Hood non sarà in streaming»",
@@ -276,6 +2329,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Cabo Verde",
      "t": "2026-10-15T09:20+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445145/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T15:58+02:00"
     }
    ],
    "data": "15 ott",
@@ -8464,6 +10526,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-15T13:03+02:00"
+    },
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/pop/celine-dion-signature-barbie-titanic-look-oscars-1236361162/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T13:14+00:00"
     }
    ],
    "data": "15 ott",
@@ -12277,6 +14348,14 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "u": "https://www.ilmessaggero.it/economia/news/dolomiti_superski_rimborsi_skipass_come_funziona_ultime_notizie-9826713.html",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/dolomiti_superski_rimborsi_skipass_come_funziona_ultime_notizie_cosa_succede-9826713.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "",
@@ -12469,6 +14548,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "Mozambique",
      "t": "2026-10-15T08:31+00:00"
+    },
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-president-wants-bpi-stake-in-bci-to-stay-in-domestic-hands-lusa-report/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-15T14:54+00:00"
     }
    ],
    "data": "15 ott",
@@ -14537,6 +16625,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-15T05:37-04:00"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/15/firefly-wedding-anime-kanon-amane-cast-as-yukari",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T12:20+00:00"
     }
    ],
    "data": "15 ott",
@@ -20123,7 +22220,78 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "za0246c72": "La testata descrive la competizione globale sulle terre rare come una delle principali sfide geostrategiche del secolo.",
   "zb50090d1": "La testata propone un'intervista approfondita con due membri della band sul significato del nuovo album.",
   "z828323dd": "La testata riporta i risultati dello studio come un campanello d'allarme sulle abitudini alimentari serali.",
-  "z11a11f1b": "La testata sottolinea l'incertezza e la scarsa comunicazione attorno all'infortunio del tennista."
+  "z11a11f1b": "La testata sottolinea l'incertezza e la scarsa comunicazione attorno all'infortunio del tennista.",
+  "zb9372e16": "La testata, in esilio e critica verso la giunta, sottolinea il legame tra indebitamento, guerra e crisi valutaria.",
+  "z05af79a6": "La testata riporta la versione di OpenAI così come emersa dal documento giudiziario.",
+  "zb96fe94e": "La testata riporta i dettagli tecnici delle nuove misure fiscali contenute nel progetto di bilancio.",
+  "ze299d83d": "La testata presenta il provvedimento come un passo verso maggiore chiarezza normativa nel settore delle costruzioni.",
+  "z7066fb4c": "La testata evidenzia la presenza di numerose artiste donne nella classifica.",
+  "z5b24afb2": "La testata riporta i risultati di uno studio su modelli animali senza generalizzarli automaticamente all'uomo.",
+  "z9f9d97bd": "Il commento riporta le reazioni critiche di alcuni matematici di fronte ai progressi dell'IA nella loro disciplina.",
+  "ze82eb447": "La testata si concentra sugli aspetti legali della vicenda e sulle dichiarazioni dell'avvocato della scuderia.",
+  "za5172fae": "La testata sottolinea il crescente interesse internazionale per l'arte latinoamericana.",
+  "z8ff98a56": "La testata invita il pubblico a partecipare attivamente al voto per la nuova categoria.",
+  "z81b9508c": "La testata presenta i risultati come un segnale di rischio da approfondire, non come una certezza clinica.",
+  "z1fbf680e": "La testata mette in evidenza la crescita occupazionale legata al settore digitale.",
+  "zfad8f1a9": "La testata fornisce informazioni pratiche sulla messa in onda per i fan della serie.",
+  "zcb3d8aba": "La testata coinvolge direttamente i lettori nel sondaggio sulla formazione.",
+  "z37153578": "La testata presenta la scoperta come un evento di rilievo storico-archeologico.",
+  "zcd3ccddc": "La testata riporta il confronto come occasione di dialogo tra attori pubblici e privati.",
+  "z7fa3e4c1": "La testata mette in guardia sui rischi di affidarsi a fonti non professionali per questioni di salute.",
+  "zea37d06b": "La testata presenta il saggio come una riflessione critica sul rapporto uomo-macchina.",
+  "z9cbf1df6": "La testata si concentra sulle ricadute della proposta per la federazione bosniaca.",
+  "zb15ba4f1": "La testata descrive l'intervento come un esempio di recupero di un edificio altrimenti destinato all'abbandono.",
+  "za1002408": "La testata evidenzia il divario tra obbligo normativo e comportamento effettivo dei consumatori.",
+  "z67adc152": "La testata riporta il racconto diretto dell'artista sulla lavorazione dell'album.",
+  "z56469e6e": "La testata spiega il funzionamento tecnico e richiama le nuove regole in arrivo.",
+  "z467db68d": "La testata riporta la versione fornita dal ministero della Difesa sull'accaduto.",
+  "zd8824ce7": "La testata racconta l'aneddoto personale per ripercorrere la lunga carriera dell'architetto.",
+  "z47565339": "Il Sole 24 Ore sottolinea la portata inedita dell'evento, mai organizzato prima da Cdp.",
+  "z9b90b622": "NME evidenzia il cast musicale di alto profilo riunito per il brano.",
+  "ze617b419": "Geopop pone l'accento sulla minaccia ambientale che pesa su questa specie unica.",
+  "zdc644aff": "UzDaily si concentra sugli aspetti burocratici e procedurali dell'accesso alle cure.",
+  "zfcc62c5a": "The Botswana Gazette celebra la rimonta della squadra locale.",
+  "z84cdcb3c": "Domus mette in rilievo l'intervento architettonico firmato da un progettista di fama internazionale.",
+  "zf6deaf4f": "Il Sole 24 Ore riporta la posizione del presidente di Confindustria sul ruolo dell'Europa nella competizione globale.",
+  "z51e1de73": "Luxembourg Times analizza l'effetto concreto dei controlli sui paesi confinanti, basandosi sui dati raccolti.",
+  "z605c32e5": "Nile Post dettaglia la ripartizione dei fondi tra i diversi enti sanitari.",
+  "z1b7a0056": "The Tribune riflette sulle possibili sanzioni per il club in questione.",
+  "zf9585049": "Domus propone una riflessione culturale sul tema dell'età adulta attraverso la serie.",
+  "z91c5d1a7": "Financial Times riporta le dichiarazioni dell'amministratore delegato sull'interesse crescente del settore tech.",
+  "z30f9fb1c": "Stuff NZ usa i dati per confutare un pregiudizio diffuso tra i propri lettori.",
+  "zaf7ad671": "St. Lucia Times segue da vicino l'avvio del torneo giovanile locale.",
+  "zaf4ade85": "Domus valorizza un aspetto meno noto della produzione artistica di Pasolini.",
+  "z8945869c": "Financial Times evidenzia le condizioni poste a Londra per l'ingresso nella politica automobilistica comune.",
+  "zee52ac64": "Iwacu racconta con toni entusiastici la prestazione della Roma nella prima parte della gara.",
+  "z27c5bd4d": "Le Monde dà voce alle preoccupazioni dei sindacati degli equipaggi marittimi.",
+  "z3df58ab0": "South China Morning Post riporta le dichiarazioni dei funzionari a favore del mantenimento dei legami con Pechino.",
+  "z7dc7daa7": "Le Monde analizza la strategia comunicativa della polizia di fronte alle critiche social.",
+  "z42e81f1d": "Der Spiegel segnala l'intensificarsi della promozione in vista dell'uscita del gioco.",
+  "z30272679": "Daily News Egypt presenta l'evento come appuntamento chiave per la transizione ecologica in Italia.",
+  "z27d28a2f": "Süddeutsche Zeitung nota il ritorno al gol di Undav ma mantiene un tono cauto sulla squadra.",
+  "z30950ef7": "NRC collega la disponibilità di Starlink alla capacità operativa ucraina sul fronte dei droni.",
+  "zbb1444f8": "South China Morning Post evidenzia la cautela del governo nonostante la ripresa del mercato.",
+  "z6831f47a": "TVN24 chiarisce la natura non definitiva del parere espresso.",
+  "ze74b672c": "El Nacional evidenzia con orgoglio il primato venezuelano tra i candidati al premio.",
+  "za69a158b": "Il giornale maliano inserisce il caso nazionale in un quadro regionale più ampio, mostrando dati puntuali sul Senegal come esempio delle difficoltà comuni.",
+  "z15b1daec": "La testata riporta la reazione diretta di Eto'o, riprendendo le sue parole pubblicate sui social.",
+  "z0af54dff": "Il quotidiano offre una guida pratica con il calendario differenziato tra le principali città italiane.",
+  "z8de8b98a": "Il giornale presenta l'analisi dell'autore attraverso un'intervista centrata sui concetti di sovranità e refondazione statale.",
+  "z165998c1": "Il quotidiano sottolinea la scelta strategica di affidare l'operazione a manager con esperienza diretta del mercato tedesco.",
+  "z28387689": "La testata descrive la fase successiva alla riconquista militare, concentrandosi sulle difficoltà di ripristinare i servizi pubblici.",
+  "z7659af66": "La testata evidenzia il numero di partecipanti e l'obiettivo del programma formativo, senza ulteriori dettagli disponibili oltre il paywall.",
+  "zc0dfd4a4": "Il giornale sottolinea come le preoccupazioni sahelian vengano veicolate da attori della società civile pur non figurando nell'agenda ufficiale.",
+  "z1db07a74": "La testata evidenzia il divario tra la rapidità dello sviluppo industriale e la lentezza dell'adeguamento normativo.",
+  "z7d5dfad7": "Il giornale adotta un tono di allerta preventiva, criticando l'eccessiva cautela delle autorità sanitarie.",
+  "z4dc02080": "La testata mette in evidenza la rapidità con cui il Parlamento ha approvato la legge, sottolineandone il carattere storico.",
+  "zf8607f77": "La testata azera riporta il dato come indicatore di crescita del settore finanziario a sostegno dell'innovazione iraniana.",
+  "za52373ad": "La testata evidenzia la crescita dei casi di vandalismo come problema in aumento per l'operatore ferroviario.",
+  "zc33d4cd8": "La testata libanese mette in relazione la visita qatariota con il più ampio sforzo diplomatico saudita sull'UNIFIL.",
+  "z2c6c6b2e": "La testata uzbeka presenta l'incontro come passo verso un rafforzamento della cooperazione logistica bilaterale.",
+  "z2a6834ab": "La testata uzbeka collega la svalutazione alle pressioni inflattive e di riserva segnalate nel mese.",
+  "za7b8b27e": "La notizia si basa unicamente sulla versione fornita dalla televisione statale iraniana.",
+  "z8f27f607": "La testata riporta direttamente le dichiarazioni del presidente iraniano sulla crisi economica in corso.",
+  "z94573e14": "La testata ugandese pone l'accento sulle condizioni di salute dell'attivista e sulle preoccupazioni legali dei suoi avvocati."
  },
  "contesti": {
   "z18ad243f": "Harry e Meghan erano tornati a vivere nel Regno Unito dopo anni trascorsi negli Stati Uniti, ma non avevano ancora compiuto apparizioni pubbliche insieme fino a questa visita a Nottingham, città simbolicamente legata alla loro storia di coppia.",
@@ -27044,6 +29212,604 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Italy"
    ],
    "pt": []
+  },
+  "zb9372e16": {
+   "n": "Myanmar",
+   "p": [
+    "Myanmar"
+   ],
+   "pt": []
+  },
+  "z05af79a6": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z20115bde": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd28f9197": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "ze6ccf751": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z47a828c9": {
+   "n": "Angola",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "zaba7c243": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zca21061e": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5a3414ef": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z989a86ad": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z67f0886e": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z8aafe2e8": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z679da96a": {
+   "n": "Lorient",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z4985c5dc": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "zf753eb67": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zc0a1d5d7": {
+   "n": "Napoli",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb8db29b7": {
+   "n": "Porto",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zb96fe94e": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "ze299d83d": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z7066fb4c": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5b24afb2": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9f9d97bd": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze82eb447": {
+   "n": "Austin",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za5172fae": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8ff98a56": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z81b9508c": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1fbf680e": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfad8f1a9": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zcb3d8aba": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z37153578": {
+   "n": "Antalya",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "zcd3ccddc": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7fa3e4c1": {
+   "n": "non specificato",
+   "p": [],
+   "pt": []
+  },
+  "zea37d06b": {
+   "n": "non specificato",
+   "p": [],
+   "pt": []
+  },
+  "z9cbf1df6": {
+   "n": "Bosnia ed Erzegovina",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "zb15ba4f1": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "za1002408": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z67adc152": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z56469e6e": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z467db68d": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "zd8824ce7": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z47565339": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9b90b622": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze617b419": {
+   "n": "Monte Kaputar",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zdc644aff": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zfcc62c5a": {
+   "n": "Botswana",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "z84cdcb3c": {
+   "n": "Napoli",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf6deaf4f": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z51e1de73": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z605c32e5": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z1b7a0056": {
+   "n": "Inghilterra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf9585049": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z91c5d1a7": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z30f9fb1c": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zaf7ad671": {
+   "n": "Castries",
+   "p": [
+    "Saint Lucia"
+   ],
+   "pt": []
+  },
+  "zaf4ade85": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8945869c": {
+   "n": "Francia e Germania",
+   "p": [
+    "France",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zee52ac64": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z27c5bd4d": {
+   "n": "Stretto di Bab al-Mandab",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z3df58ab0": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z7dc7daa7": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z42e81f1d": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z30272679": {
+   "n": "Rimini",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z27d28a2f": {
+   "n": "Bratislava",
+   "p": [
+    "Slovakia"
+   ],
+   "pt": []
+  },
+  "z30950ef7": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zbb1444f8": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z6831f47a": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "ze74b672c": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za69a158b": {
+   "n": "Africa occidentale",
+   "p": [
+    "Senegal",
+    "Mali",
+    "Niger",
+    "Burkina Faso",
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z15b1daec": {
+   "n": "Camerun",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z0af54dff": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8de8b98a": {
+   "n": "Mali",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "z165998c1": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z28387689": {
+   "n": "Kidal",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "z7659af66": {
+   "n": "Morobe",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "zc0dfd4a4": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z1db07a74": {
+   "n": "Namibia",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z7d5dfad7": {
+   "n": "Mali",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "z4dc02080": {
+   "n": "Mozambico",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "zf8607f77": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "za52373ad": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "zc33d4cd8": {
+   "n": "Beirut",
+   "p": [
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z2c6c6b2e": {
+   "n": "Andijan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z2a6834ab": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "za7b8b27e": {
+   "n": "Golfo dell'Oman",
+   "p": [
+    "Oman",
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z8f27f607": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z94573e14": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -27139,7 +29905,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z08d15962": 1,
   "z98e61812": 1,
   "z55c4c4ae": 1,
-  "z71792042": 1,
+  "z71792042": 2,
   "z1e7c77ad": 1,
   "zd3acd621": 1,
   "ze81f1570": 1,
@@ -27394,7 +30160,7 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z554b377b": 2,
   "z2637e07e": 1,
   "z38bbc7c5": 1,
-  "z1bdc7741": 1,
+  "z1bdc7741": 2,
   "zccb44b07": 1,
   "z6c20aa49": 1,
   "zfb91b3ca": 1,
@@ -27794,7 +30560,93 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "za0246c72": 1,
   "zb50090d1": 1,
   "z828323dd": 1,
-  "z11a11f1b": 1
+  "z11a11f1b": 1,
+  "zb9372e16": 1,
+  "z05af79a6": 1,
+  "z20115bde": 1,
+  "zd28f9197": 1,
+  "ze6ccf751": 1,
+  "z47a828c9": 1,
+  "zaba7c243": 1,
+  "zca21061e": 1,
+  "z5a3414ef": 1,
+  "z989a86ad": 1,
+  "z67f0886e": 1,
+  "z8aafe2e8": 1,
+  "z679da96a": 1,
+  "z4985c5dc": 1,
+  "zf753eb67": 1,
+  "zc0a1d5d7": 1,
+  "zb8db29b7": 1,
+  "zb96fe94e": 1,
+  "ze299d83d": 1,
+  "z7066fb4c": 1,
+  "z5b24afb2": 1,
+  "z9f9d97bd": 1,
+  "ze82eb447": 1,
+  "za5172fae": 1,
+  "z8ff98a56": 1,
+  "z81b9508c": 1,
+  "z1fbf680e": 1,
+  "zfad8f1a9": 1,
+  "zcb3d8aba": 1,
+  "z37153578": 1,
+  "zcd3ccddc": 1,
+  "z7fa3e4c1": 1,
+  "zea37d06b": 1,
+  "z9cbf1df6": 1,
+  "zb15ba4f1": 1,
+  "za1002408": 1,
+  "z67adc152": 1,
+  "z56469e6e": 1,
+  "z467db68d": 1,
+  "zd8824ce7": 1,
+  "z47565339": 1,
+  "z9b90b622": 1,
+  "ze617b419": 1,
+  "zdc644aff": 1,
+  "zfcc62c5a": 1,
+  "z84cdcb3c": 1,
+  "zf6deaf4f": 1,
+  "z51e1de73": 1,
+  "z605c32e5": 1,
+  "z1b7a0056": 1,
+  "zf9585049": 1,
+  "z91c5d1a7": 1,
+  "z30f9fb1c": 1,
+  "zaf7ad671": 1,
+  "zaf4ade85": 1,
+  "z8945869c": 1,
+  "zee52ac64": 1,
+  "z27c5bd4d": 1,
+  "z3df58ab0": 1,
+  "z7dc7daa7": 1,
+  "z42e81f1d": 1,
+  "z30272679": 1,
+  "z27d28a2f": 1,
+  "z30950ef7": 1,
+  "zbb1444f8": 1,
+  "z6831f47a": 1,
+  "ze74b672c": 1,
+  "za69a158b": 1,
+  "z15b1daec": 1,
+  "z0af54dff": 1,
+  "z8de8b98a": 1,
+  "z165998c1": 1,
+  "z28387689": 2,
+  "z7659af66": 1,
+  "zc0dfd4a4": 1,
+  "z1db07a74": 1,
+  "z7d5dfad7": 1,
+  "z4dc02080": 1,
+  "zf8607f77": 1,
+  "za52373ad": 1,
+  "zc33d4cd8": 1,
+  "z2c6c6b2e": 1,
+  "z2a6834ab": 1,
+  "za7b8b27e": 1,
+  "z8f27f607": 1,
+  "z94573e14": 1
  },
  "video": {},
  "pillole": []
