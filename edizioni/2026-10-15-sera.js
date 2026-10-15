@@ -3,6 +3,1178 @@ window.EDIZIONI["2026-10-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z6319ff04",
+   "sez": "economia",
+   "titolo": "Corte Costituzionale: illegittimo il ruolo del Comitato Nazionale del Vino",
+   "orig": "VfGH: Rolle des Nationalen Weinkomitees gesetzwidrig",
+   "lead": "La Corte Costituzionale austriaca (VfGH) ha stabilito che l'attuale ruolo del Comitato Nazionale del Vino è illegittimo dal punto di vista legale. La sentenza interviene sulla struttura normativa che regola il settore vinicolo nel Paese, mettendo in discussione le funzioni assegnate a questo organismo. Il verdetto rappresenta un punto di svolta per la regolamentazione della produzione e della commercializzazione del vino in Austria, richiedendo potenziali interventi legislativi per adeguare il sistema alle norme costituzionali. Lo riferisce ORF.",
+   "more": [
+    "La Corte Costituzionale austriaca è l'organo incaricato di garantire che le leggi e gli atti amministrativi rispettino la Costituzione nazionale. Il Comitato Nazionale del Vino è un ente che solitamente si occupa di definire gli standard qualitativi e le denominazioni, giocando un ruolo centrale nelle politiche agricole e commerciali del settore enologico austriaco."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445164/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T13:10+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zf56ade5a",
+   "sez": "mondo",
+   "titolo": "Il governo austriaco spende 5,8 milioni in pubblicità nel primo semestre",
+   "orig": "Regierung gab im ersten Halbjahr 5,8 Millionen für Werbung aus",
+   "lead": "Nel corso del primo semestre dell'anno, il governo austriaco ha investito un totale di 5,8 milioni di euro in campagne pubblicitarie. Il dato emerge dai rendiconti ufficiali sulla spesa pubblica per la comunicazione istituzionale e la promozione delle attività governative. Questi fondi sono stati impiegati per informare i cittadini e promuovere diverse iniziative statali attraverso vari canali mediatici nazionali. La cifra riflette l'impegno economico dell'esecutivo nel mantenere un dialogo con la popolazione durante la prima metà dell'anno in corso. Lo riferisce ORF.",
+   "more": [
+    "La spesa per la comunicazione istituzionale comprende le uscite che un governo affronta per diffondere informazioni di pubblica utilità, promuovere leggi o sensibilizzare la popolazione su temi sociali. In Austria, come in molti altri Paesi, questi investimenti sono soggetti a controlli di trasparenza per garantire che il denaro pubblico sia utilizzato in modo appropriato ed efficace."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445165/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T13:08+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z523491dc",
+   "sez": "mondo",
+   "titolo": "Attacchi in Arabia Saudita: l'UE annulla il vertice con i Paesi del Golfo",
+   "orig": "Angriffe auf Saudi-Arabien: EU sagt Gipfel mit Golfstaaten ab",
+   "lead": "L'Unione Europea ha deciso di annullare il vertice previsto con i Paesi del Golfo a seguito dei recenti attacchi subiti dall'Arabia Saudita. La decisione diplomatica riflette l'attuale stato di tensione nella regione e la necessità di riconsiderare le relazioni e i colloqui internazionali alla luce degli sviluppi bellici che hanno colpito il territorio saudita. La sospensione dell'incontro segna un momento di stallo nei rapporti tra il blocco europeo e le nazioni dell'area del Golfo, fortemente condizionato dall'instabilità della sicurezza locale. Lo riferisce ORF.",
+   "more": [
+    "Il Consiglio di Cooperazione del Golfo è un'organizzazione intergovernativa che riunisce sei stati della penisola arabica per promuovere la stabilità economica e politica. I vertici tra l'Unione Europea e queste nazioni sono cruciali per discutere di sicurezza energetica, commercio e stabilità geopolitica in una delle aree più strategiche per gli equilibri mondiali."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445163/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T12:49+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z039d02d6",
+   "sez": "economia",
+   "titolo": "Panini registra un aumento degli utili dell'80 per cento nel 2025",
+   "orig": "Panini steigerte Gewinn 2025 um 80 Prozent",
+   "lead": "La storica azienda Panini ha registrato una crescita straordinaria degli utili nel 2025, segnando un incremento dell'80 per cento rispetto ai risultati precedenti. Questo balzo economico evidenzia la solidità del gruppo, celebre in tutto il mondo per le sue collezioni di figurine e prodotti editoriali, che continua a espandere la propria presenza sul mercato internazionale. Il significativo aumento dei profitti sottolinea il successo delle strategie commerciali adottate dall'azienda e la persistente popolarità dei suoi prodotti tra i collezionisti di ogni età. Lo riferisce ORF.",
+   "more": [
+    "Fondata in Italia negli anni Sessanta, Panini è diventata un leader mondiale nel settore del collezionismo e dell'editoria per ragazzi. Oltre alle iconiche figurine dei calciatori, l'azienda gestisce licenze internazionali per fumetti, riviste e prodotti multimediali, mantenendo una quota di mercato rilevante grazie alla continua innovazione delle sue linee di prodotti fisici e digitali."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445162/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-15T12:39+02:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "ze60a2d88",
+   "sez": "mondo",
+   "titolo": "Ex politico locale condannato per riciclaggio di milioni in Danimarca",
+   "orig": "Tidligere nordsjællandsk byrådspolitiker dømt for hvidvask af millioner",
+   "lead": "Un ex esponente politico del consiglio comunale della Zelanda del Nord, in Danimarca, è stato condannato per il riciclaggio di diversi milioni di corone. La sentenza conclude un caso giudiziario che ha visto coinvolto l'ex politico in attività finanziarie illecite, mirate a nascondere la provenienza di ingenti somme di denaro. Il tribunale ha accertato le responsabilità dell'imputato, evidenziando la gravità del reato commesso da chi aveva ricoperto incarichi di rappresentanza pubblica a livello locale nella regione nordeuropea. Lo riferisce DR Nyheder.",
+   "more": [
+    "Il riciclaggio di denaro consiste nel compiere operazioni volte a nascondere la provenienza illecita di fondi, facendoli apparire come legali attraverso circuiti finanziari complessi. In Danimarca, le autorità di vigilanza e la magistratura sono particolarmente attente ai reati finanziari che coinvolgono figure pubbliche, per preservare la fiducia dei cittadini nelle istituzioni e nel sistema economico."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/tidligere-nordsjaellandsk-byraadspolitiker-doemt-hvidvask-af-millioner",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-15T11:10+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z5fbcad2e",
+   "sez": "mondo",
+   "titolo": "Condannati due uomini per aver pianificato attacchi contro obiettivi ebraici",
+   "orig": "To mænd fra Aarhus dømt for at planlægge angreb på jødiske mål i Tyskland",
+   "lead": "Due uomini residenti ad Aarhus, in Danimarca, sono stati condannati per aver pianificato attentati contro obiettivi ebraici in Germania. Le autorità hanno raccolto prove del coinvolgimento dei due individui nella preparazione di azioni violente di matrice terroristica, mirate a colpire istituzioni o luoghi frequentati dalla comunità ebraica tedesca. La sentenza mette in luce la cooperazione internazionale tra le forze di sicurezza per prevenire crimini d'odio e attacchi terroristici nel cuore dell'Europa, sventando un piano potenzialmente letale. Lo riferisce DR Nyheder.",
+   "more": [
+    "La pianificazione di attentati terroristici è un reato grave che prevede sanzioni pesanti in tutta l'Unione Europea. Aarhus è una città della Danimarca, mentre la Germania ospita numerose comunità ebraiche che negli ultimi anni sono state oggetto di misure di protezione speciali a causa dell'aumento delle minacce estremiste e della necessità di garantire la sicurezza dei luoghi di culto."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/maend-fra-aarhus-doemt-planlaegge-angreb-paa-joediske-maal-i-tyskland",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-15T10:29+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z91401563",
+   "sez": "economia",
+   "titolo": "Too Good To Go amplia la propria gamma di prodotti",
+   "orig": "Too Good To Go udvider sortiment",
+   "lead": "L'azienda Too Good To Go, nota per la sua applicazione dedicata alla riduzione degli sprechi alimentari, ha annunciato un ampliamento della propria gamma di prodotti offerti. L'iniziativa mira a coinvolgere un numero maggiore di partner e a diversificare le categorie di beni che i consumatori possono acquistare a prezzi ridotti per evitare che vadano buttati. Questa espansione rappresenta un passo avanti nella strategia di crescita della società, che punta a consolidare il proprio impatto positivo sull'ambiente e sull'economia circolare. Lo riferisce DR Nyheder.",
+   "more": [
+    "Too Good To Go è una piattaforma digitale nata con lo scopo di combattere lo spreco alimentare permettendo ai negozi di vendere a basso costo il cibo rimasto invenduto a fine giornata. Attraverso il sistema delle scatole a sorpresa, gli utenti possono ritirare prodotti freschi o confezionati, contribuendo a ridurre le emissioni associate allo smaltimento dei rifiuti."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/too-good-go-udvider-sortiment",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-15T09:31+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zd91d4bc1",
+   "sez": "salute",
+   "titolo": "Corea del Sud: interpretariato medico per i migranti senza documenti",
+   "orig": "“아기 잘 크네요”…‘동행’, 미등록 이주민에 의료 통역",
+   "lead": "Un'iniziativa chiamata \"Companion\" sta fornendo servizi di interpretariato medico essenziali per i migranti senza documenti in Corea del Sud, permettendo loro di accedere a cure adeguate. Durante le visite pediatriche, la presenza di interpreti assicura che i genitori ricevano informazioni chiare sulla crescita e sulla salute dei propri bambini, superando le barriere linguistiche che spesso impediscono l'assistenza sanitaria di base. Il progetto si concentra sul supporto a una fascia di popolazione vulnerabile, garantendo che anche i nuovi nati ricevano le attenzioni mediche necessarie. Lo riferisce The Hankyoreh.",
+   "more": [
+    "L'interpretariato medico è un servizio fondamentale che facilita la comunicazione tra professionisti sanitari e pazienti che non parlano la lingua locale. Questa attività non solo migliora la qualità delle diagnosi e dell'assistenza, ma è considerata un pilastro per il diritto alla salute delle popolazioni migranti che incontrano difficoltà linguistiche nell'accesso ai sistemi ospedalieri."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/area/yeongnam/1282637.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z6b48ce1b",
+   "sez": "mondo",
+   "titolo": "Seul: sospetti di corruzione sugli autobus del fiume Han",
+   "orig": "서울시, 한강버스 수주 ‘비리 의혹’ 알고도 1년 넘게 수사의뢰 안 해",
+   "lead": "L'amministrazione comunale di Seul è finita sotto accusa per non aver richiesto un'indagine ufficiale su sospetti di corruzione relativi all'appalto dell'Hangang Bus, nonostante fosse a conoscenza delle irregolarità da oltre un anno. La vicenda riguarda l'assegnazione dei contratti per i servizi di trasporto fluviale sul fiume Han, dove sarebbero emerse ombre sulla trasparenza delle procedure. Il ritardo nel denunciare i fatti alle autorità giudiziarie ha sollevato polemiche sulla gestione della legalità e del controllo interno nella capitale coreana. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Il fiume Han attraversa Seul ed è un'arteria vitale per il trasporto e il turismo della città. L'Hangang Bus è un progetto di mobilità acquatica volto a decongestionare il traffico stradale. In Corea del Sud, gli appalti pubblici per infrastrutture di trasporto sono soggetti a rigidi protocolli di trasparenza, la cui violazione può portare a gravi conseguenze politiche."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/area/area_general/1282635.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zcd61917b",
+   "sez": "cultura",
+   "titolo": "Corea: demolita una facciata multimediale nonostante le costose riparazioni",
+   "orig": "미디어파사드 유행이라지만…수리비 2천만원 쓰고도 철거",
+   "lead": "Nonostante la popolarità delle facciate multimediali, un'installazione tecnologica in Corea del Sud è stata demolita dopo che erano stati spesi 20 milioni di won per la sua riparazione. La decisione di abbattere la struttura solleva dubbi sulla gestione dei fondi e sulla manutenzione delle opere artistiche urbane. Il caso mette in discussione l'effettiva utilità di investire ingenti somme in tecnologie scenografiche che, pur essendo di tendenza, possono rivelarsi troppo costose da gestire o strutturalmente inadeguate a lungo termine. Lo riferisce The Hankyoreh.",
+   "more": [
+    "La facciata multimediale è una tecnica architettonica che trasforma le pareti esterne degli edifici in schermi luminosi tramite l'uso di LED o proiezioni video. Queste installazioni sono ampiamente utilizzate nelle metropoli asiatiche per scopi artistici o pubblicitari, ma richiedono una manutenzione costante e dispendiosa per resistere agli agenti atmosferici e all'usura tecnologica."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/area/yeongnam/1282631.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z58785eb5",
+   "sez": "mondo",
+   "titolo": "India: il NIT-T promuove la solidarietà con il programma 'Daan Utsav'",
+   "orig": "NIT-T conducts community outreach programme as part of ‘Daan Utsav’",
+   "lead": "L'Istituto Nazionale di Tecnologia di Tiruchirappalli (NIT-T) ha organizzato un programma di sensibilizzazione comunitaria nell'ambito dell'iniziativa nazionale \"Daan Utsav\". L'evento ha coinvolto studenti e personale in attività di volontariato e beneficenza rivolte alle fasce più deboli della popolazione locale. Attraverso questa iniziativa, l'ateneo indiano mira a promuovere la responsabilità sociale e lo spirito di donazione, consolidando il legame tra l'istituzione accademica e il territorio circostante durante la settimana dedicata alla generosità. Lo riferisce The Hindu.",
+   "more": [
+    "\"Daan Utsav\" è un festival del volontariato che si celebra annualmente in tutta l'India. L'iniziativa invita le persone di ogni estrazione sociale a compiere atti di generosità e a donare tempo o risorse per sostenere cause sociali, diventando un momento significativo di mobilitazione civile e cooperazione comunitaria nel Paese asiatico."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Tiruchirapalli/nit-t-conducts-community-outreach-programme-as-part-of-daan-utsav/article71587112.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-15T16:40+05:30"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z63e4ce7c",
+   "sez": "economia",
+   "titolo": "Collaborazione tecnologica tra l'indiana Raghu Vamsi e l'Università di Sheffield",
+   "orig": "Hyderabad’s Raghu Vamsi Group inks MoU with University of Sheffield’s AMRC",
+   "lead": "Il gruppo indiano Raghu Vamsi, con sede a Hyderabad, ha firmato un protocollo d'intesa con l'Advanced Manufacturing Research Centre (AMRC) dell'Università di Sheffield. L'accordo punta a favorire la collaborazione tecnologica e la ricerca nel campo della produzione avanzata, unendo l'esperienza industriale indiana con l'eccellenza accademica britannica. Questa partnership strategica mira a sviluppare nuove soluzioni per settori ad alta tecnologia, potenziando le capacità produttive e l'innovazione nel settore manifatturiero su scala internazionale. Lo riferisce The Hindu.",
+   "more": [
+    "Un protocollo d'intesa è un accordo formale tra due parti che stabilisce linee guida per una futura cooperazione. L'AMRC dell'Università di Sheffield è un centro di ricerca leader a livello mondiale che lavora a stretto contatto con partner industriali per applicare tecnologie all'avanguardia nei processi di produzione, in particolare nei settori aerospaziale."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-raghu-vamsi-group-inks-mou-with-university-of-sheffields-amrc/article71587568.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-15T16:33+05:30"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z15bc4eda",
+   "sez": "viaggi",
+   "titolo": "Dubai: inaugurata la nuova stagione del Global Village",
+   "orig": "What visitors are saying as Global Village opens",
+   "lead": "Con l'apertura ufficiale della nuova stagione di Global Village a Dubai, i visitatori hanno iniziato a condividere le proprie impressioni sull'offerta culturale e di intrattenimento dell'evento. La struttura accoglie ogni anno milioni di persone, proponendo padiglioni che rappresentano diversi Paesi del mondo, spettacoli dal vivo e specialità gastronomiche internazionali. Le prime testimonianze evidenziano l'entusiasmo per le novità introdotte quest'anno e per l'atmosfera multiculturale che caratterizza una delle principali destinazioni turistiche degli Emirati Arabi Uniti. Lo riferisce Gulf News.",
+   "more": [
+    "Global Village è un parco tematico stagionale situato a Dubai che combina elementi di un'esposizione universale, di un mercato e di un parco divertimenti. Ogni padiglione è dedicato a una nazione o regione specifica, offrendo artigianato locale, prodotti tipici e performance artistiche, rendendolo un punto di riferimento per il turismo internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/people/what-visitors-are-saying-as-global-village-opens-1.500711662",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-15T14:59+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z759a3bff",
+   "sez": "viaggi",
+   "titolo": "Dubai: un ponte pedonale collega ora Etihad Rail e la metropolitana",
+   "orig": "Dubai Etihad Rail–Metro pedestrian bridge opens: Five-minute walk connects stations",
+   "lead": "A Dubai è stato inaugurato il nuovo ponte pedonale che collega la rete ferroviaria Etihad Rail con la metropolitana cittadina, permettendo ai passeggeri di spostarsi tra le due stazioni in soli cinque minuti a piedi. L'infrastruttura è stata progettata per migliorare l'integrazione del sistema di trasporto pubblico, facilitando gli scambi per i pendolari e i turisti che utilizzano i diversi servizi ferroviari dell'emirato. Il completamento di quest'opera rappresenta un tassello fondamentale nello sviluppo della mobilità intermodale della regione. Lo riferisce Gulf News.",
+   "more": [
+    "Etihad Rail è il progetto ferroviario nazionale degli Emirati Arabi Uniti, destinato a collegare i principali centri industriali e urbani. L'integrazione con la metropolitana di Dubai, un sistema di trasporto rapido automatizzato, è essenziale per creare una rete di trasporto fluida che riduca la dipendenza dai veicoli privati e ottimizzi i tempi di percorrenza."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/living-in-uae/transport/dubai-etihad-rail-metro-pedestrian-bridge-now-open-1.500711688",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-15T14:54+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z48930238",
+   "sez": "sport",
+   "titolo": "In vendita il trofeo della Coppa del Mondo sollevato da Messi",
+   "orig": "FIFA World Cup trophy lifted by Lionel Messi goes up for sale",
+   "lead": "Il trofeo della Coppa del Mondo FIFA sollevato da Lionel Messi durante le celebrazioni della vittoria è stato messo in vendita. L'oggetto, carico di valore simbolico e storico per il calcio mondiale, rappresenta uno dei cimeli più ambiti dai collezionisti sportivi, legato indissolubilmente al trionfo dell'Argentina nel mondiale del 2022. La notizia della messa sul mercato di questo pezzo iconico ha suscitato grande interesse tra gli appassionati e gli esperti del settore dei memorabilia sportivi internazionali. Lo riferisce Gulf News.",
+   "more": [
+    "Lionel Messi è considerato uno dei più grandi calciatori di tutti i tempi e la vittoria della Coppa del Mondo FIFA nel 2022 è stata l'apice della sua carriera internazionale. I cimeli legati a questo evento, dalle maglie ai trofei celebrativi, raggiungono spesso cifre record nelle aste internazionali per la loro rarità e il legame con la storia dello sport."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/sport/fifa-world-cup-trophy-lifted-by-lionel-messi-goes-up-for-sale-1.500711506",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-15T14:54+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zcc555ff4",
+   "sez": "sport",
+   "titolo": "Vela: Fletcher loda il percorso di Dubai per il ritorno di SailGP",
+   "orig": "‘It’s a fantastic racecourse’: Dylan Fletcher on SailGP’s return to Dubai",
+   "lead": "In vista del ritorno della competizione SailGP a Dubai, il velista Dylan Fletcher ha elogiato il percorso di gara definendolo fantastico per le regate. Il ritorno di questo prestigioso circuito internazionale di vela negli Emirati Arabi Uniti promette spettacolo, grazie alla velocità dei catamarani e alle condizioni tecniche offerte dalle acque locali. Fletcher, veterano della disciplina, ha sottolineato come la location si presti perfettamente a ospitare eventi di alto livello, attirando l'attenzione della comunità velistica globale e dei fan degli sport acquatici. Lo riferisce Gulf News.",
+   "more": [
+    "SailGP è un campionato velico internazionale che vede competere squadre nazionali su catamarani F50 ad alte prestazioni, capaci di raggiungere velocità elevatissime. Le gare si svolgono solitamente vicino alla costa per permettere al pubblico di assistere facilmente dalle rive, trasformando le regate in eventi spettacolari che combinano tecnologia e abilità atletica."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/sport/its-a-fantastic-racecourse-dylan-fletcher-on-sailgps-return-to-dubai-1.500711666",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-15T14:39+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z9ebe6747",
+   "sez": "economia",
+   "titolo": "Azerbaigian: limiti alle transazioni per contrastare le scommesse illegali",
+   "orig": "CBA clarifies unified limit for illegal betting transactions",
+   "lead": "La Banca Centrale dell'Azerbaigian (CBA) ha fornito chiarimenti in merito al limite unificato stabilito per le transazioni legate alle scommesse illegali. Il provvedimento mira a rafforzare i controlli sui flussi finanziari sospetti e a contrastare le attività di gioco d'azzardo non autorizzate nel Paese. Definendo soglie chiare per il monitoraggio bancario, l'istituto centrale intende prevenire l'uso del sistema finanziario nazionale per scopi illeciti, garantendo una maggiore trasparenza e sicurezza nelle operazioni di trasferimento di denaro tra gli istituti di credito. Lo riferisce Trend.",
+   "more": [
+    "La Banca Centrale è l'autorità monetaria principale di un Paese, incaricata di regolare il sistema bancario. Il monitoraggio delle transazioni finanziarie è uno strumento chiave per la lotta al riciclaggio di denaro e al gioco d'azzardo clandestino, che spesso opera al di fuori dei circuiti fiscali regolamentati per evadere i controlli statali."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/business/4235146.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T15:17+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z4ebdfb00",
+   "sez": "mondo",
+   "titolo": "Forum New Silk Way: in discussione l'espansione del Corridoio di Mezzo",
+   "orig": "New Silk Way forum in Kazakhstan discusses Middle Corridor expansion",
+   "lead": "Durante il forum \"New Silk Way\" tenutosi in Kazakistan, i partecipanti hanno discusso l'espansione del cosiddetto \"Corridoio di Mezzo\", una rotta commerciale strategica che collega l'Asia all'Europa. L'incontro ha riunito esperti e leader del settore dei trasporti per analizzare le possibilità di potenziare le infrastrutture logistiche e semplificare i transiti attraverso il Mar Caspio. Il progetto mira a rendere il trasporto delle merci più rapido ed efficiente, offrendo un'alternativa vitale alle rotte tradizionali in un contesto di crescente integrazione economica eurasiatica. Lo riferisce Trend.",
+   "more": [
+    "Il Corridoio di Mezzo è una rotta di trasporto multimodale che attraversa l'Asia centrale, il Mar Caspio e il Caucaso fino a raggiungere l'Europa, evitando il territorio russo. Questa via di comunicazione è considerata fondamentale per la sicurezza delle catene di approvvigionamento globali e per lo sviluppo economico dei Paesi dell'Asia centrale."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/kazakhstan/4235223.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T15:13+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zd1b98427",
+   "sez": "economia",
+   "titolo": "Digitalizzazione logistica: via al progetto e-CMR tra Astana e Mosca",
+   "orig": "Kazakhstan, Russia launch first e-CMR freight pilot on Astana-Moscow route",
+   "lead": "Kazakistan e Russia hanno avviato il primo progetto pilota per l'utilizzo della lettera di vettura elettronica (e-CMR) lungo la rotta commerciale tra Astana e Mosca. Questa iniziativa di digitalizzazione dei trasporti merci mira a ridurre la burocrazia e a migliorare l'efficienza degli scambi transfrontalieri tra i due Paesi. L'adozione del formato elettronico per i documenti di trasporto permette un tracciamento più rapido e sicuro delle spedizioni, segnando un passo importante verso la modernizzazione dei corridoi logistici regionali e la semplificazione delle procedure doganali. Lo riferisce Trend.",
+   "more": [
+    "La CMR è la convenzione internazionale che regola il trasporto stradale di merci. La versione elettronica (e-CMR) sostituisce i moduli cartacei, consentendo lo scambio di dati in tempo reale tra vettori, mittenti e autorità doganali, con benefici significativi in termini di costi amministrativi, sostenibilità ambientale e trasparenza operativa nei trasporti su gomma."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/kazakhstan/4235212.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T15:06+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "ze640f945",
+   "sez": "mondo",
+   "titolo": "Turchia: legami più forti per lo sviluppo sostenibile in Asia",
+   "orig": "Turkish FM says stronger ties to drive sustainable development across Asia",
+   "lead": "Il Ministro degli Esteri turco ha dichiarato che il rafforzamento dei legami diplomatici ed economici sarà il motore principale per lo sviluppo sostenibile in tutta l'Asia. Durante un intervento ufficiale, il capo della diplomazia di Ankara ha sottolineato l'importanza della cooperazione regionale per affrontare le sfide globali e promuovere la crescita economica in modo duraturo e rispettoso dell'ambiente. La Turchia punta a giocare un ruolo di ponte tra le diverse aree del continente, favorendo intese che possano garantire stabilità e progresso per tutte le nazioni coinvolte. Lo riferisce Trend.",
+   "more": [
+    "Lo sviluppo sostenibile è un modello di crescita che mira a soddisfare i bisogni attuali senza compromettere le generazioni future, integrando tutela ambientale e progresso sociale. La Turchia, per la sua posizione geografica, persegue una politica di diplomazia economica volta a stabilizzare le aree limitrofe e potenziare gli scambi commerciali tra Europa e Asia."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/politics/4235202.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-15T15:04+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zcb26eec3",
+   "sez": "mondo",
+   "titolo": "Progetto fiume Teesta: appello per una gestione libera da influenze geopolitiche",
+   "orig": "How can the Teesta project be kept free of geopolitical influence?",
+   "lead": "Il dibattito sulla gestione del progetto legato al fiume Teesta si concentra sulla necessità di proteggere l'iniziativa dalle influenze geopolitiche che ne complicano l'attuazione. Esperti e osservatori si interrogano su quali strategie adottare affinché lo sviluppo delle risorse idriche rimanga focalizzato sui benefici ambientali e sociali per le popolazioni locali, piuttosto che diventare terreno di scontro tra gli interessi delle potenze regionali. La questione rimane centrale per la stabilità e la sicurezza alimentare delle aree interessate dal corso d'acqua tra India e Bangladesh. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "Il fiume Teesta è un corso d'acqua cruciale che attraversa l'India e il Bangladesh. La gestione delle sue acque è oggetto di lunghe contese diplomatiche riguardanti la divisione delle risorse per l'irrigazione e l'energia idroelettrica. Progetti di sviluppo in quest'area richiedono un delicato equilibrio tra le necessità tecniche e le sensibilità politiche dei due Paesi vicini."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/opinion/op-ed/zrt07yblaj",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-15T10:38+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zdcbfa1b2",
+   "sez": "mondo",
+   "titolo": "Bangladesh: incertezza sugli stipendi per gli insegnanti delle liste MPO",
+   "orig": "When will MPO-listed teachers receive salary under new pay structure, what the ministry says",
+   "lead": "Gli insegnanti inseriti nelle liste MPO del Bangladesh sono in attesa di conoscere quando potranno percepire i propri stipendi secondo la nuova struttura retributiva definita dal governo. Il ministero dell'Istruzione ha fornito dei chiarimenti in merito alle tempistiche e alle procedure necessarie per l'adeguamento dei pagamenti, cercando di rispondere alle crescenti preoccupazioni del corpo docente. La questione riguarda migliaia di educatori che operano in istituzioni private sostenute dallo Stato e che attendono l'applicazione effettiva dei nuovi parametri salariali. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "Il sistema MPO (Monthly Pay Order) in Bangladesh è il meccanismo attraverso il quale il governo finanzia gli stipendi degli insegnanti delle scuole private. Questo sistema è fondamentale per garantire l'istruzione nel Paese, ma è spesso al centro di dibattiti riguardanti la puntualità dei pagamenti e l'equità delle scale retributive rispetto al settore pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/4q4zvkopa0",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-15T09:37+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z6fbd4d37",
+   "sez": "mondo",
+   "titolo": "Dacca: la polizia disperde i lavoratori tessili dopo un blocco stradale",
+   "orig": "Police disperse garment workers after nearly 4-hour road blockade in Uttara",
+   "lead": "Le forze di polizia sono intervenute per disperdere i lavoratori del settore tessile che hanno bloccato per quasi quattro ore una strada principale nel quartiere di Uttara, a Dacca. La protesta, nata per rivendicazioni salariali, ha causato pesanti disagi alla circolazione prima dell'intervento degli agenti. Le manifestazioni nel comparto dell'abbigliamento sono frequenti in Bangladesh, dove i lavoratori chiedono migliori condizioni e il pagamento puntuale delle spettanze, portando spesso a tensioni con le autorità e i proprietari delle fabbriche locali. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "L'industria tessile è il pilastro dell'economia del Bangladesh, rappresentando la maggioranza delle esportazioni nazionali. Le condizioni di lavoro in questo settore sono monitorate internazionalmente, poiché le fabbriche riforniscono i principali marchi di moda globali. Uttara è una zona commerciale strategica di Dacca, spesso sede di mobilitazioni sindacali."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/city/ejp35nxsmd",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-15T08:20+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z7a2a003d",
+   "sez": "cultura",
+   "titolo": "Bangladesh: ricorso legale per la protezione delle attività culturali",
+   "orig": "Writ seeks directives to protect cultural activities",
+   "lead": "È stato presentato un ricorso legale per richiedere direttive ufficiali volte alla protezione e alla promozione delle attività culturali in Bangladesh. L'azione giudiziaria mira a ottenere misure vincolanti che garantiscano il libero svolgimento di eventi, manifestazioni artistiche e tradizioni locali, proteggendole da eventuali interferenze o restrizioni esterne. Il ricorso sottolinea l'importanza della cultura come elemento d'identità nazionale e chiede allo Stato un impegno formale per salvaguardare gli spazi e le espressioni creative nel Paese. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "Un ricorso legale di questo tipo (writ) è un ordine emesso da un tribunale che obbliga un ente pubblico a compiere un'azione a tutela di un diritto. In ambito culturale, tali strumenti vengono utilizzati per difendere la libertà di espressione e assicurare che il patrimonio artistico sia protetto dalle autorità secondo i principi costituzionali vigenti."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/0jy646agu0",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-15T08:07+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zaba7451d",
+   "sez": "mondo",
+   "titolo": "Maldive, medaglie d'oro a tre poliziotti per aver salvato vite in un naufragio",
+   "orig": "Three policemen receive gold medals for saving lives in deadly landing craft sinking",
+   "lead": "Tre agenti di polizia delle Maldive hanno ricevuto medaglie d'oro per il loro coraggioso intervento durante il tragico affondamento di un mezzo da sbarco. Gli agenti sono stati premiati per aver salvato diverse vite umane nel corso dell'incidente mortale, dimostrando eccezionale dedizione al dovere in una situazione di estremo pericolo in mare. Il riconoscimento sottolinea l'importanza del pronto intervento delle forze dell'ordine durante le emergenze marittime che colpiscono l'arcipelago. Lo riferiscono Sun Online e PSM News.",
+   "more": [
+    "I mezzi da sbarco sono imbarcazioni a fondo piatto utilizzate solitamente per il trasporto di merci, veicoli o attrezzature pesanti tra le diverse isole dell'arcipelago maldiviano. La loro stabilità può essere compromessa da condizioni meteo avverse o sovraccarico, rendendo le operazioni di salvataggio particolarmente complesse per le squadre di soccorso che operano in mare aperto."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109573",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T16:10+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z70fe4896",
+   "sez": "mondo",
+   "titolo": "Maldive, Nazeem nominato ministro di Stato per lo sport",
+   "orig": "Nazeem appointed as state minister for sports after RDC dismissal",
+   "lead": "Mohamed Nazeem è stato nominato nuovo ministro di Stato per lo sport dal governo maldiviano. La sua nomina arriva a seguito del licenziamento dai vertici della Road Development Corporation (RDC). Questo spostamento di incarichi riflette una riorganizzazione interna dell'amministrazione guidata dal presidente Muizzu, che continua a rimescolare le cariche istituzionali per ottimizzare la gestione dei diversi dipartimenti statali e degli investimenti pubblici. Lo riferisce Sun Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109569",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T14:50+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zddd0ef40",
+   "sez": "mondo",
+   "titolo": "Maldive, il presidente Muizzu in visita ufficiale in Pakistan dal 20 ottobre",
+   "orig": "President Muizzu to fly out on Oct 20 in first Pakistan visit by a Maldivian leader in a decade",
+   "lead": "Il presidente delle Maldive, Mohamed Muizzu, si recherà in Pakistan il prossimo 20 ottobre per una visita ufficiale di rilievo diplomatico. Si tratta del primo viaggio di un leader maldiviano in Pakistan negli ultimi dieci anni. L'incontro punta a rafforzare i legami e la cooperazione tra le due nazioni asiatiche, segnando un importante passo nella nuova strategia di politica estera regionale del governo di Malé. Lo riferisce Sun Online.",
+   "more": [
+    "Le visite di Stato a livello presidenziale sono strumenti diplomatici fondamentali per negoziare accordi commerciali, di sicurezza e di cooperazione culturale. Per le Maldive, rafforzare i legami con i vicini dell'Asia meridionale è essenziale per garantire stabilità regionale e nuove opportunità di investimento in settori chiave come le infrastrutture e il commercio marittimo."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109568",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T14:34+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "za071b52c",
+   "sez": "viaggi",
+   "titolo": "Accordo per i servizi aerei tra Bielorussia e Maldive",
+   "orig": "Belarusian pres. greenlights air services agreement with Maldives",
+   "lead": "Il presidente della Bielorussia ha approvato ufficialmente un nuovo accordo sui servizi aerei con le Maldive. L'intesa è finalizzata a stabilire collegamenti aerei facilitati tra i due Paesi, incentivando lo scambio turistico e le relazioni commerciali bilaterali. Il via libera presidenziale rappresenta il passaggio formale decisivo per l'avvio delle operazioni e la cooperazione tra le rispettive autorità dell'aviazione civile. Lo riferisce Sun Online.",
+   "more": [
+    "Gli accordi sui servizi aerei sono trattati bilaterali che regolano il traffico dell'aviazione civile tra due nazioni, definendo le rotte, la frequenza dei voli e le tariffe. Tali patti sono essenziali per le nazioni turistiche come le Maldive per espandere i propri mercati di provenienza dei viaggiatori e facilitare i flussi internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109567",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T13:29+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zabc84e88",
+   "sez": "mondo",
+   "titolo": "Maldive, il presidente punta sulla produzione alimentare contro gli shock globali",
+   "orig": "President: Boosting Maldives’ food production is crucial for weathering global shocks",
+   "lead": "Il presidente delle Maldive ha dichiarato che potenziare la produzione alimentare interna è fondamentale per proteggere l'arcipelago dalle crisi economiche globali. Il governo intende investire in tecnologie moderne per formare i cittadini maldiviani alle pratiche agricole, riducendo la dipendenza dalle importazioni estere. Questa strategia mira a garantire la sicurezza alimentare della nazione e a renderla più resiliente di fronte alle interruzioni delle catene di approvvigionamento internazionali. Lo riferiscono Sun Online e PSM News.",
+   "more": [
+    "La sicurezza alimentare nelle nazioni insulari è spesso minacciata dalla vulnerabilità ai mercati globali e dai cambiamenti climatici. L'adozione di tecnologie avanzate, come l'idroponica o l'agricoltura in ambienti protetti, permette di coltivare prodotti freschi anche in territori con suoli poco fertili, contribuendo all'autosufficienza nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109566",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T13:08+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z35a95ac4",
+   "sez": "mondo",
+   "titolo": "Malé, il governo acquisisce 14 terreni per nuovi progetti pubblici",
+   "orig": "މާލޭގެ 14 ބިމެއް ސަރުކާރުގެ ދަށަށް، މަޝްރޫޢުތައްވެސް ވަނީ އިޢުލާނުކޮށްފައި",
+   "lead": "Il governo delle Maldive ha annunciato l'acquisizione di 14 lotti di terreno nella capitale Malé per destinarli a nuovi progetti di sviluppo statale. L'iniziativa è stata formalizzata insieme alla presentazione dei piani infrastrutturali che verranno realizzati su queste aree. L'operazione punta a riorganizzare lo spazio urbano della capitale, una delle città più sature al mondo, per far posto a opere di pubblica utilità già programmate. Lo riferisce PSM News.",
+   "more": [
+    "Malé è caratterizzata da una densità abitativa tra le più alte a livello globale, il che rende ogni intervento di edilizia o infrastruttura pubblica una sfida complessa. L'acquisizione di terreni privati o sottoutilizzati da parte dello Stato è spesso l'unica via per creare spazi per servizi essenziali o parchi urbani necessari alla popolazione residente."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190267",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T16:21+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z3f73167f",
+   "sez": "mondo",
+   "titolo": "Iran, accuse di aiuti esteri ai terroristi contro le forze di sicurezza",
+   "orig": "އީރާނުގެ ސަލާމަތީ ބާރުތަކަށް ހަމަލާދޭ ނިރުބަވެރިންނަށް ބޭރު ފަރާތްތަކުން އެހީވަނީ",
+   "lead": "Le autorità iraniane hanno denunciato il coinvolgimento di soggetti stranieri nel sostegno logistico e finanziario a gruppi terroristici responsabili di attacchi contro le proprie forze di sicurezza. Secondo la denuncia, elementi esterni starebbero alimentando le violenze con l'obiettivo di destabilizzare l'ordine interno del Paese. La notizia si inserisce in un contesto di accese tensioni tra Teheran e diversi attori internazionali della regione. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190260",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T15:41+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z12ebfac8",
+   "sez": "mondo",
+   "titolo": "Gaza, bimbo di due anni salvato dalle fiamme dopo un attacco israeliano",
+   "orig": "ޔަހޫދީންގެ ހަމަލާއަކުން 2 އަހަރުގެ ތުއްތުކުއްޖާ ސަލާމަތްކުރީ އަލިފާނުގެ ތެރެއިން",
+   "lead": "Un bambino di soli due anni è stato miracolosamente tratto in salvo da un violento incendio divampato a seguito di un bombardamento israeliano nella Striscia di Gaza. I soccorritori sono riusciti a estrarre il piccolo dalle fiamme e dalle macerie dell'edificio colpito, salvandolo da una situazione di estremo pericolo. L'evento drammatico evidenzia i rischi costanti per la popolazione civile, in particolare per i bambini, nelle aree interessate dalle operazioni militari. Lo riferisce PSM News.",
+   "more": [
+    "Le operazioni di soccorso in contesti di guerra urbana sono estremamente pericolose a causa della possibilità di nuovi crolli o attacchi. La Striscia di Gaza, essendo una delle aree più densamente popolate al mondo, vede un numero elevato di minori coinvolti negli incidenti derivanti da bombardamenti e incendi boschivi o urbani che ne conseguono."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190256",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T15:34+05:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z50af9409",
+   "sez": "economia",
+   "titolo": "Kirghizistan, 31 partecipanti al programma di contratto sociale superano un milione di som annui",
+   "orig": "31 participants in social contract program earn over 1 million soms annually",
+   "lead": "Trentuno partecipanti al programma governativo di contratto sociale in Kirghizistan hanno raggiunto un reddito superiore al milione di som all'anno. Questo progetto mira a fornire sostegno finanziario e formazione per consentire a cittadini in situazioni economiche difficili di avviare piccole attività imprenditoriali. Il successo economico di questo gruppo dimostra l'impatto positivo delle politiche di inclusione sociale e di micro-autoimprenditorialità promosse dallo Stato. Lo riferisce AKIpress.",
+   "more": [
+    "Il contratto sociale è una forma di assistenza statale che non si limita a un sussidio passivo, ma richiede al beneficiario di investire le risorse ricevute in un'attività lavorativa o formativa. In Asia centrale, tali programmi sono utilizzati per combattere la povertà e stimolare lo sviluppo delle piccole imprese a livello locale."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925222",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-15T17:05+06:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z47bf04fb",
+   "sez": "economia",
+   "titolo": "Il presidente Japarov invita gli imprenditori cambogiani a investire in Kirghizistan",
+   "orig": "President Japarov invites Cambodian business to invest in Kyrgyzstan",
+   "lead": "Il presidente del Kirghizistan, Sadyr Japarov, ha rivolto un invito formale alla comunità imprenditoriale della Cambogia per investire nel proprio Paese. Durante un incontro ufficiale, Japarov ha illustrato le potenzialità del mercato kirghiso, cercando di favorire nuove collaborazioni economiche e l'ingresso di capitali stranieri. L'iniziativa punta a diversificare le partnership internazionali del Kirghizistan e a stimolare la crescita in settori strategici. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925224",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-15T17:03+06:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z965b1c90",
+   "sez": "mondo",
+   "titolo": "Estradato dalla Russia il presunto leader di una banda di trafficanti di mefedrone",
+   "orig": "Kazakhstan extradites suspected mephedrone group leader from Russia",
+   "lead": "Il Kazakistan ha ottenuto dalla Russia l'estradizione di un uomo sospettato di essere a capo di un gruppo criminale dedito al traffico di mefedrone. Il sospettato è stato trasferito per essere processato dalle autorità kazake nell'ambito di una vasta operazione di contrasto alle droghe sintetiche. L'estradizione rappresenta un importante risultato nella cooperazione giudiziaria tra i due Paesi contro il crimine organizzato transfrontaliero. Lo riferisce AKIpress.",
+   "more": [
+    "Il mefedrone è una sostanza psicoattiva sintetica appartenente alla classe dei catinoni, spesso commercializzata illegalmente sotto forma di polvere o capsule. Il traffico di tali sostanze è diventato una priorità per le forze di polizia dell'Asia centrale, dove le rotte della droga interessano diversi confini nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925214",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-15T16:41+06:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zd413327e",
+   "sez": "cultura",
+   "titolo": "Kirghizistan, primo concerto per l'akyn Jetigen uulu dopo la scarcerazione",
+   "orig": "Kyrgyz akyn Askat Jetigen uulu holds first concert after prison release",
+   "lead": "L'akyn kirghiso Askat Jetigen uulu ha tenuto il suo primo concerto pubblico dopo essere stato rilasciato dalla prigione. L'artista, figura nota della musica tradizionale locale, è tornato a esibirsi davanti al suo pubblico in un evento molto atteso che segna il suo ritorno ufficiale sulla scena culturale. La sua liberazione e il successivo rientro sul palco hanno riscosso un forte interesse tra i cultori della tradizione poetica nazionale. Lo riferisce AKIpress.",
+   "more": [
+    "L'akyn è un poeta e cantautore improvvisatore tipico delle culture dell'Asia centrale, in particolare di quella kirghisa e kazaka. Questi artisti accompagnano i loro versi cantati con strumenti a corda tradizionali e ricoprono un ruolo sociale e culturale fondamentale, essendo considerati i custodi della memoria orale e delle tradizioni popolari."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925205",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-15T16:11+06:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z2319c276",
+   "sez": "salute",
+   "titolo": "Uganda, campagna igienica per oltre 650.000 studenti",
+   "orig": "Over 650,000 Schoolchildren Targeted as Reckitt ,Chil Group Launch Phase 3 of Dettol Hygiene Quest in Uganda",
+   "lead": "Reckitt e Chil Group hanno lanciato in Uganda la terza fase del progetto 'Dettol Hygiene Quest', con l'obiettivo di coinvolgere oltre 650.000 bambini in età scolare. La campagna mira a educare gli studenti alle corrette pratiche igieniche per prevenire la diffusione di malattie trasmissibili e migliorare gli standard sanitari generali nelle comunità scolastiche. L'iniziativa si configura come uno dei più grandi sforzi di prevenzione sanitaria nel Paese. Lo riferisce Nile Post.",
+   "more": [
+    "Le campagne di educazione all'igiene nelle scuole sono fondamentali per ridurre l'incidenza di malattie legate alla scarsa pulizia delle mani o dell'acqua. Insegnare pratiche corrette fin dall'infanzia ha un effetto moltiplicatore, poiché i bambini spesso portano queste nuove abitudini all'interno delle proprie famiglie, migliorando la salute pubblica a lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/378756/over-650000-schoolchildren-targeted-as-reckitt-chil-group-launch-phase-3-of-dettol-hygiene-quest-in-uganda",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-15T13:38+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z07c19e2b",
+   "sez": "salute",
+   "titolo": "Uganda, C-Care acquisisce l'ospedale Roswell per espandere la rete sanitaria",
+   "orig": "C-Care Acquires Roswell Hospital to Continue With Expansion Drive",
+   "lead": "La società sanitaria C-Care ha completato l'acquisizione dell'ospedale Roswell in Uganda, proseguendo la propria strategia di espansione territoriale. L'operazione punta a rafforzare la capacità del gruppo di offrire servizi medici di alta qualità e a estendere la rete di strutture assistenziali a disposizione dei cittadini. L'acquisizione si inserisce in un piano di investimenti volto a modernizzare e ampliare l'accesso alle cure nel Paese. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/health/378732/c-care-acquires-roswell-hospital-to-continue-with-expansion-drive",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-15T12:59+03:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zcaf3d10f",
+   "sez": "economia",
+   "titolo": "Euro in America Latina: quotazioni e tendenze di giovedì 15 ottobre 2026",
+   "orig": "Euro hoy en Venezuela: precio y cotización de la divisa este jueves 15 de octubre de 2026",
+   "lead": "Giovedì 15 ottobre 2026, la testata Clarín riporta l'andamento del mercato valutario in diversi Paesi dell'America Latina, focalizzandosi sulla quotazione dell'euro. L'analisi copre Venezuela, Paraguay, Uruguay, Perù, Nicaragua e Panama, descrivendo i prezzi attuali, le variazioni giornaliere e i valori di riferimento per i cittadini. Viene inoltre evidenziata la tendenza della moneta europea dall'inizio dell'anno, fornendo un quadro aggiornato per chi opera con queste valute o segue le dinamiche economiche regionali per scopi commerciali o di risparmio.",
+   "more": [
+    "L'euro è la moneta ufficiale dell'Eurozona, ampiamente utilizzata come valuta di riserva e per il commercio internazionale. In molti Paesi latinoamericani, il tasso di cambio con le divise locali influisce direttamente sull'inflazione e sul potere d'acquisto. Monitorare queste variazioni è fondamentale per le imprese che importano beni dall'Europa e per i risparmiatori che cercano stabilità finanziaria in mercati emergenti spesso soggetti a volatilità."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-jueves-15-de-octubre-de-2026_0_ax6j6EV0hZ.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T10:45+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-jueves-15-de-octubre-de-2026_0_XK4hzBLiA7.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T10:45+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-jueves-15-de-octubre-de-2026_0_46jxObIwUd.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T10:45+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/economia/euro-hoy-en-peru-precio-y-cotizacion-de-la-divisa-este-jueves-15-de-octubre-de-2026_0_lTcvfyRGBD.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T10:45+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/economia/euro-hoy-en-nicaragua-precio-y-cotizacion-de-la-divisa-este-jueves-15-de-octubre-de-2026_0_Cz097d2hoa.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T10:45+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/economia/euro-hoy-en-panama-precio-y-cotizacion-de-la-divisa-este-jueves-15-de-octubre-de-2026_0_o6ZwYMZJnT.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-15T10:45+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zcf58eadd",
+   "sez": "mondo",
+   "titolo": "Polizia di Tokyo: controlli negli hotel di Kabukicho per proteggere i minori",
+   "orig": "「宿泊者の確認や少年保護を」警視庁が歌舞伎町のホテル事業者に要請",
+   "lead": "La polizia di Tokyo ha rivolto un appello formale ai gestori degli hotel situati nel quartiere di Kabukicho, richiedendo una maggiore attenzione nella verifica dell'identità degli ospiti. L'iniziativa, promossa dal Dipartimento di Polizia Metropolitana, mira specificamente a rafforzare le misure di protezione dei minori, cercando di prevenire situazioni di rischio o sfruttamento all'interno delle strutture ricettive. Le autorità sottolineano l'importanza della collaborazione tra il settore privato e le forze dell'ordine per garantire la sicurezza in una zona ad alta densità turistica. Lo riferisce Asahi Shimbun (giapponese).",
+   "more": [
+    "Kabukicho, situato nel distretto di Shinjuku a Tokyo, è considerato uno dei quartieri dei divertimenti più famosi del mondo. Caratterizzato da una fitta rete di cinema, ristoranti e strutture ricettive, l'area è costantemente monitorata dalle autorità per garantire la sicurezza di cittadini e turisti, specialmente nelle ore notturne, cercando di bilanciare la vivacità economica con la necessità di tutelare le fasce più vulnerabili della popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBH3CDGVBHUTIL01CM.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-15T20:00+09:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z45b9e6a5",
+   "sez": "mondo",
+   "titolo": "Indonesia: rimosso il capo dei soccorsi per corruzione durante gli incendi",
+   "orig": "Indonesia sustituye al jefe de desastres por un caso de corrupción durante los incendios",
+   "lead": "Il governo indonesiano ha sostituito il responsabile nazionale per la gestione dei disastri a seguito di un caso di corruzione emerso durante le operazioni di contrasto agli incendi. La decisione punta a ripristinare la fiducia nell'agenzia incaricata di gestire le emergenze ambientali, fondamentali per la sicurezza del Paese. Il caso solleva serie preoccupazioni sulla gestione dei fondi pubblici destinati alla protezione civile in momenti di crisi ecologica e sociale, portando a un cambio immediato al vertice del dipartimento. Lo riferisce ABC Color.",
+   "more": [
+    "Le agenzie governative per la gestione dei disastri hanno il compito di coordinare i soccorsi e prevenire danni causati da eventi naturali estremi. In contesti geografici dove il rischio di incendi boschivi è elevato, queste istituzioni gestiscono budget significativi per l'acquisto di attrezzature e il dispiegamento di personale. La trasparenza amministrativa è essenziale per assicurare che le risorse vengano utilizzate esclusivamente per la protezione ambientale e civile."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/15/indonesia-sustituye-al-jefe-de-desastres-por-un-caso-de-corrupcion-durante-los-incendios/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T11:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "ze04322fd",
+   "sez": "mondo",
+   "titolo": "Iowa: l'aumento dei casi di cancro diventa tema centrale nelle elezioni",
+   "orig": "El auge del cáncer en Iowa, un arma electoral para el candidato al que comparan con JFK",
+   "lead": "Nello stato dell'Iowa, l'incremento delle diagnosi di cancro è diventato un tema cruciale della campagna elettorale. Un candidato, spesso paragonato a John F. Kennedy, sta utilizzando questa emergenza sanitaria come un'arma politica per sfidare i suoi avversari. La situazione ha acceso un dibattito sulla qualità della salute pubblica e sulle possibili cause ambientali dell'aumento della malattia, trasformando un problema di medicina in una questione di primaria importanza per gli elettori in vista delle prossime consultazioni. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/15/el-auge-del-cancer-en-iowa-un-arma-electoral-para-el-candidato-al-que-comparan-con-jfk/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T11:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "z3941b67d",
+   "sez": "sport",
+   "titolo": "Barcellona: Raphinha e de Jong tornano in gruppo per gli allenamenti",
+   "orig": "Raphinha y de Jong participan en el entrenamiento; Christensen y Roony, únicos lesionados",
+   "lead": "Il Futbol Club Barcelona ha aggiornato lo stato di salute della propria rosa in vista dei prossimi impegni. Raphinha e Frenkie de Jong sono tornati a partecipare regolarmente agli allenamenti con il resto della squadra, segnalando un recupero importante per il tecnico. Al momento, Andreas Christensen e Roony Bardghji rimangono gli unici calciatori ancora indisponibili a causa di infortuni, costringendo lo staff medico a proseguire con i programmi di riabilitazione personalizzati per il loro rientro in campo. Lo riferisce ABC Color.",
+   "more": [
+    "Il Fútbol Club Barcelona è una delle società calcistiche più prestigiose al mondo. La gestione della rosa e degli infortuni è un aspetto critico per il successo della squadra, poiché la condizione fisica dei giocatori chiave determina le prestazioni nelle competizioni nazionali e continentali. Lo staff medico lavora quotidianamente per garantire il rapido recupero degli atleti e la loro integrità atletica durante la stagione."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/15/raphinha-y-de-jong-participan-en-el-entrenamiento-christensen-y-roony-unicos-lesionados/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-15T11:15+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zd3677024",
+   "sez": "viaggi",
+   "titolo": "Mauritius: servizio autobus ridotto questo giovedì 15 ottobre",
+   "orig": "Les services d’autobus prendront fin à 18 heures ce jeudi 15 octobre, selon la NLTA",
+   "lead": "L'Autorità Nazionale per il Trasporto Terrestre (NLTA) di Mauritius ha annunciato che il servizio di autobus terminerà anticipatamente alle ore 18:00 di giovedì 15 ottobre. Il provvedimento modifica gli orari abituali dei trasporti pubblici sull'isola, richiedendo ai cittadini e ai viaggiatori di pianificare i propri spostamenti con anticipo per evitare di rimanere senza collegamenti. Non sono state fornite motivazioni specifiche per questa variazione temporanea dell'orario di fine servizio, che coinvolge l'intera rete di trasporti locale. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/les-services-dautobus-prendront-fin-18-heures-ce-jeudi-15-octobre-selon-la-nlta",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-15T14:50+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zd48b98a1",
+   "sez": "mondo",
+   "titolo": "Mauritius: la Northfields School sfida l'ordine di chiusura",
+   "orig": "Northfields International School : les cours maintenus malgré l’ordre de fermeture ; la PSEA intervient",
+   "lead": "Nonostante un ordine ufficiale di chiusura, la Northfields International School a Mauritius ha deciso di mantenere attive le lezioni. La situazione ha richiesto l'intervento della PSEA, l'autorità incaricata di supervisionare l'educazione secondaria privata, per gestire il conflitto tra l'istituto e le direttive governative. Il caso ha sollevato tensioni all'interno del sistema scolastico locale, mettendo in evidenza divergenze sulla gestione della sicurezza e dei protocolli educativi tra i gestori della scuola e i regolatori statali. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/northfields-international-school-les-cours-maintenus-malgre-lordre-de-fermeture-la-psea-intervient",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-15T14:19+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "ze8cd1814",
+   "sez": "mondo",
+   "titolo": "Mauritius: riapertura di asili e centri per l'infanzia dal 16 ottobre",
+   "orig": "Crèches et garderies rouvrent dès ce vendredi 16 octobre",
+   "lead": "A Mauritius, la riapertura di asili nido e centri per l'infanzia è stata ufficialmente fissata per venerdì 16 ottobre. La decisione rappresenta un passo importante verso il ritorno alla normalità per molte famiglie locali dopo un periodo di chiusura forzata. Le autorità competenti hanno stabilito linee guida specifiche per garantire la sicurezza dei bambini e del personale scolastico, assicurando che le strutture siano pronte ad accogliere nuovamente i piccoli ospiti nel rispetto delle normative igieniche e di distanziamento vigenti. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/creches-et-garderies-rouvrent-des-ce-vendredi-16-octobre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-15T13:04+04:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zc7c80165",
+   "sez": "mondo",
+   "titolo": "Colón: incertezza sul futuro del servizio di raccolta rifiuti",
+   "orig": "Colón sigue en incertidumbre por futuro de servicio de aseo",
+   "lead": "La città di Colón, a Panama, vive una fase di forte incertezza riguardo al futuro del servizio di igiene urbana. Le preoccupazioni riguardano la continuità e la qualità della raccolta dei rifiuti, un servizio essenziale per la salute pubblica e il decoro della città. I residenti e le autorità locali attendono chiarimenti sui contratti e sulle modalità operative che verranno adottate per garantire la pulizia delle strade e la gestione dei rifiuti solidi nel prossimo futuro. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/provincias/colon-sigue-en-incertidumbre-por-futuro-de-servicio-de-aseo-1267523",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
+   "id": "zb512172d",
+   "sez": "economia",
+   "titolo": "Panama: la semplificazione burocratica chiave per le assunzioni",
+   "orig": "Simplificación de procesos es esencial para las contrataciones",
+   "lead": "A Panama, la semplificazione dei processi amministrativi è indicata come un elemento essenziale per favorire le nuove assunzioni e snellire il mercato del lavoro. Gli esperti del settore sottolineano che procedure burocratiche meno complesse faciliterebbero le imprese nella gestione dei contratti, stimolando la crescita economica e l'occupazione. L'obiettivo è creare un ambiente più agile per le aziende, riducendo i tempi e i costi legati alla stipula degli accordi lavorativi a livello nazionale. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/simplificacion-de-procesos-es-esencial-para-las-contrataciones-1267521",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "14:06",
+   "uscita": "13"
+  },
+  {
    "id": "zb2b4e8a8",
    "sez": "cultura",
    "titolo": "Il romanzo \"Shy\" di Max Porter diventa un'opera teatrale",
@@ -7690,6 +8862,15 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "u": "https://www.ilmessaggero.it/mondo/petroliere_fiamme_mar_nero_attacco_droni_russi_romania-9826853.html",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/otte-besaetningsmedlemmer-savnet-efter-brand-paa-skib-ved-rumaenien",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-15T09:28+00:00"
     }
    ],
    "data": "15 ott",
@@ -9314,6 +10495,24 @@ window.EDIZIONI["2026-10-15-sera"] = {
      "u": "https://tg24.sky.it/mondo/video/2026/10/15/alluvione-istanbul-oggi-maltempo-1131932",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190253",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-15T14:22+05:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/15/peshawar-sale-a-30-morti-il-bilancio-del-crollo-di-una-scuola_ec604147-ca10-4590-b761-dd86ff8eff7c.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-15T11:01+02:00"
     }
    ],
    "data": "15 ott",
@@ -12863,30 +14062,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z683cefb6",
-   "sez": "mondo",
-   "titolo": "Pakistan, sale a 30 morti il bilancio del crollo di una scuola a Peshawar",
-   "orig": "Peshawar, sale a 30 morti il bilancio del crollo di una scuola",
-   "lead": "Il bilancio delle vittime del crollo di un edificio scolastico a Peshawar, in Pakistan, è salito a 30 morti, di cui 27 bambini. Tre piani della scuola sono stati colpiti dal cedimento strutturale, e le autorità temono che altre persone possano trovarsi ancora sotto le macerie. Lo riferisce ANSA.",
-   "more": [
-    "Peshawar è una città nel nord-ovest del Pakistan, capitale della provincia del Khyber Pakhtunkhwa, dove crolli di edifici, spesso legati a carenze nelle norme costruttive, non sono infrequenti."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/15/peshawar-sale-a-30-morti-il-bilancio-del-crollo-di-una-scuola_ec604147-ca10-4590-b761-dd86ff8eff7c.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-15T11:01+02:00"
-    }
-   ],
-   "data": "15 ott",
-   "ora": "13:32",
-   "uscita": "13"
-  },
-  {
    "id": "z7df58a82",
    "sez": "sport",
    "titolo": "La BAL rinnova quattro campi da basket in Senegal",
@@ -15918,7 +17093,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z66bce54b": "Journal du Mali riporta la presentazione istituzionale dell'evento da parte degli organizzatori.",
   "zbd1f8306": "ANSA mette in luce le diverse priorità dei Paesi europei, dalla coesione agli aiuti a Kiev fino alla difesa del sistema ETS.",
   "z1337eff2": "Seneweb sottolinea l'orgoglio nazionale per la visibilità internazionale ottenuta dal patrimonio culturale senegalese.",
-  "z683cefb6": "ANSA riporta con tono sobrio l'aggiornamento del bilancio delle vittime, sottolineando il rischio che il numero possa ancora crescere.",
   "z7df58a82": "Seneweb evidenzia il beneficio diretto per il Senegal, che riceve la maggior parte dei campi rinnovati.",
   "z8c5bc8d6": "Seneweb riporta le parole critiche ma costruttive del nuovo selezionatore sulla qualità del gioco della nazionale.",
   "zcb5c3dcc": "Journal du Mali riporta i dati del rapporto ufficiale denunciando la gravità del sovraffollamento in diverse carceri maliane.",
@@ -16345,7 +17519,55 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z72f6ce9f": "Viene dato risalto alla formazione personale come leva per il successo economico e il benessere degli imprenditori locali.",
   "zc548a9e4": "Viene messo in luce il binomio tra record economico e l'impegno verso la sostenibilità come nuova frontiera della cooperazione.",
   "z8efc720d": "L'ATP mette in evidenza un piano a lungo termine focalizzato sulla sostenibilità finanziaria dei propri atleti.",
-  "ze813c928": "Viene celebrato il successo accademico internazionale come risorsa strategica per il futuro della nazione."
+  "ze813c928": "Viene celebrato il successo accademico internazionale come risorsa strategica per il futuro della nazione.",
+  "z6319ff04": "L'attenzione è rivolta all'illegittimità costituzionale di un organismo chiave per il settore vinicolo.",
+  "zf56ade5a": "Viene evidenziata l'entità della spesa pubblica destinata alle attività pubblicitarie del governo.",
+  "z523491dc": "L'attenzione è posta sulla cancellazione del vertice diplomatico a causa dell'instabilità in Medio Oriente.",
+  "z039d02d6": "Viene messo in risalto l'eccezionale risultato finanziario ottenuto dall'azienda nel corso dell'anno.",
+  "ze60a2d88": "L'attenzione è focalizzata sulla condanna penale di un ex politico per gravi reati finanziari.",
+  "z5fbcad2e": "La testata sottolinea il successo delle indagini nel fermare un piano terroristico transfrontaliero.",
+  "z91401563": "Viene evidenziata la crescita del servizio nel settore della sostenibilità alimentare.",
+  "zd91d4bc1": "Viene messo in luce l'impatto sociale di un progetto di assistenza sanitaria per comunità marginalizzate.",
+  "z6b48ce1b": "La testata evidenzia l'inerzia delle autorità municipali di fronte a possibili reati finanziari.",
+  "zcd61917b": "Viene criticato lo spreco di risorse per un'opera tecnologica rimossa prematuramente.",
+  "z58785eb5": "Viene messo in risalto l'impegno sociale dell'istituto universitario nel contesto di una festività nazionale.",
+  "z63e4ce7c": "L'attenzione è focalizzata sulla collaborazione internazionale tra industria e ricerca accademica.",
+  "z15bc4eda": "Viene riportato il clima di accoglienza e l'opinione del pubblico all'avvio della manifestazione.",
+  "z759a3bff": "L'attenzione è rivolta al miglioramento dell'efficienza dei trasporti pubblici e della connettività urbana.",
+  "z48930238": "Viene sottolineata l'eccezionalità della vendita di un oggetto legato a un momento storico del calcio.",
+  "zcc555ff4": "Viene data enfasi all'apprezzamento degli atleti per le caratteristiche tecniche del campo di gara a Dubai.",
+  "z9ebe6747": "L'attenzione è rivolta alle nuove misure di regolamentazione bancaria per contrastare l'illegalità finanziaria.",
+  "z4ebdfb00": "Viene evidenziata l'importanza strategica dello sviluppo delle rotte commerciali eurasiatiche.",
+  "zd1b98427": "La testata mette in risalto l'innovazione tecnologica applicata alla logistica internazionale.",
+  "ze640f945": "Viene posta l'attenzione sulla visione strategica della Turchia per la cooperazione asiatica.",
+  "zcb26eec3": "L'articolo analizza le sfide diplomatiche e tecniche legate a un importante progetto transfrontaliero.",
+  "zdcbfa1b2": "La testata focalizza l'attenzione sulle incertezze retributive di una vasta categoria di lavoratori dell'istruzione.",
+  "z6fbd4d37": "Viene evidenziato lo scontro tra le proteste dei lavoratori e l'intervento delle forze dell'ordine per ripristinare la viabilità.",
+  "z7a2a003d": "L'attenzione è posta sulla battaglia legale per la tutela delle libertà espressive e dei diritti culturali.",
+  "zaba7451d": "Sun Online e PSM News mettono in risalto l'eroismo degli agenti, premiati con la massima onorificenza per il soccorso prestato durante il naufragio.",
+  "z70fe4896": "Sun Online evidenzia la rotazione degli incarichi governativi decisa dal presidente dopo i recenti licenziamenti in una delle principali aziende statali.",
+  "zddd0ef40": "Sun Online sottolinea l'eccezionalità dell'evento, notando che un leader maldiviano non visitava ufficialmente il Pakistan da un decennio.",
+  "za071b52c": "La testata si concentra sull'approvazione formale dell'accordo che aprirà nuove rotte turistiche tra l'Europa orientale e l'arcipelago.",
+  "zabc84e88": "Sun Online e PSM News evidenziano la visione del presidente per un'agricoltura moderna come scudo contro l'instabilità dei mercati esteri.",
+  "z35a95ac4": "PSM News mette in luce l'impegno del governo nella pianificazione urbana attraverso l'acquisizione di aree strategiche nella capitale.",
+  "z3f73167f": "PSM News riporta la posizione ufficiale dell'Iran che incolpa potenze esterne per gli episodi di violenza contro i militari nazionali.",
+  "z12ebfac8": "PSM News focalizza l'attenzione sulla tragedia umana e sul salvataggio eroico di un bambino tra le fiamme causate dal conflitto.",
+  "z50af9409": "La testata evidenzia i risultati tangibili del programma sociale, misurati attraverso l'incremento del reddito dei beneficiari.",
+  "z47bf04fb": "AKIpress riporta l'attività diplomatica ed economica del presidente volta ad attrarre nuovi flussi di investimento dal sud-est asiatico.",
+  "z965b1c90": "AKIpress pone l'accento sulla riuscita operazione di estradizione e sulla lotta al traffico di sostanze sintetiche nella regione.",
+  "zd413327e": "La testata celebra il ritorno alla libertà e all'arte di una figura di spicco della cultura tradizionale kirghisa.",
+  "z2319c276": "Nile Post mette in risalto la portata dell'iniziativa e la partnership tra enti privati per la promozione della salute nelle scuole ugandesi.",
+  "z07c19e2b": "Nile Post sottolinea la crescita del gruppo C-Care nel mercato sanitario locale attraverso questa acquisizione strategica.",
+  "zcaf3d10f": "Clarín confronta i dati di sei nazioni diverse per offrire una panoramica coerente della forza dell'euro nella regione.",
+  "zcf58eadd": "La testata evidenzia l'appello diretto della polizia metropolitana agli operatori alberghieri della capitale.",
+  "z45b9e6a5": "La testata pone l'accento sulla sostituzione immediata del vertice a causa delle indagini in corso.",
+  "ze04322fd": "ABC Color mette in rilievo come una crisi sanitaria possa trasformarsi in un potente strumento di mobilitazione politica.",
+  "z3941b67d": "La testata si concentra sul parziale svuotamento dell'infermeria della squadra blaugrana.",
+  "zd3677024": "Defimedia riporta l'avviso di servizio pubblico emesso dall'autorità dei trasporti per informare i pendolari.",
+  "zd48b98a1": "La testata evidenzia il braccio di ferro tra l'istituzione scolastica privata e l'ente di controllo statale.",
+  "ze8cd1814": "Defimedia riporta la data ufficiale per la ripresa dei servizi educativi per l'infanzia nell'isola.",
+  "zc7c80165": "Panamá América si focalizza sui dubbi legati alla gestione dei servizi pubblici essenziali nella provincia di Colón.",
+  "zb512172d": "La testata mette in luce la necessità di riforme burocratiche per sostenere l'economia e l'occupazione."
  },
  "contesti": {
   "z18ad243f": "Harry e Meghan erano tornati a vivere nel Regno Unito dopo anni trascorsi negli Stati Uniti, ma non avevano ancora compiuto apparizioni pubbliche insieme fino a questa visita a Nottingham, città simbolicamente legata alla loro storia di coppia.",
@@ -16372,7 +17594,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zbd1f8306": "Nei giorni precedenti il Consiglio europeo, il negoziato sul futuro quadro finanziario pluriennale dell'Unione europea è entrato nel vivo. Tra le capitali sono emerse divergenze strategiche: da un lato la necessità di salvaguardare i fondi di coesione tradizionali sostenuta dai Paesi dell'Europa meridionale e orientale, dall'altro le richieste dei Paesi nordici di difendere le risorse per la transizione verde e il mercato ETS, accanto all'urgenza di finanziare gli aiuti all'Ucraina.",
   "z6e9095eb": "La rivalità tra la nazionale australiana e quella neozelandese di rugby a 13 rappresenta uno dei confronti più accesi nella storia della disciplina. Entrambe le formazioni arrivavano all'appuntamento inaugurale dopo intense sessioni di preparazione e amichevoli di rifinitura, con i campioni del mondo australiani chiamati a confermare la propria supremazia casalinga di fronte a una Nuova Zelanda decisa a invertire i recenti verdetti nei tornei internazionali.",
   "z3558bfc6": "La gestione di Gianni Infantino alla guida della FIFA è stata contrassegnata da crescenti polemiche relative alla trasparenza, alla governance e alla gestione dei comitati etici. Il recente «affare Balogun» ha riacceso le critiche interne ed esterne sull'indipendenza degli organi disciplinari. Per consolidare la propria leadership di fronte al malcontento, il vertice federale ha fatto leva su consistenti programmi di finanziamento destinati alle federazioni calcistiche mondiali.",
-  "z683cefb6": "Nelle ultime ore la città di Peshawar, nel nord-ovest del Pakistan, è stata teatro di una grave tragedia quando l'edificio di una scuola su tre piani ha subito un improvviso cedimento strutturale. Le squadre di soccorso, intervenute tempestivamente con il supporto delle forze di sicurezza e della popolazione locale, hanno iniziato a scavare tra i detriti per estrarre studenti e insegnanti rimasti intrappolati, mentre le autorità locali avviavano accertamenti sull'agibilità della struttura.",
   "ze71e186d": "Nelle ultime settimane la Federazione guineana di calcio ha avviato l'iter burocratico e regolamentare per il rinnovo della propria dirigenza. Dopo anni segnati da comitati di normalizzazione e instabilità gestionale nel calcio guineano, la Commissione elettorale ha esaminato i requisiti di eleggibilità e i ricorsi presentati dalle varie correnti. Il vaglio formale dei fascicoli ha permesso di verificare la conformità degli aspiranti vertici federali, completando la fase preliminare prima dell'ufficializzazione finale.",
   "z5c1da716": "Nel corso della Coppa d'Africa femminile, la nazionale del Camerun ha condotto un percorso sportivo netto che l'ha portata fino all'ultimo atto della competizione continentale. Tra le protagoniste indiscusse della cavalcata delle 'Leonesse indomabili', l'attaccante Marie Gisèle Ngah Manga si è distinta per prestazioni decisive nei turni a eliminazione diretta, attirando l'attenzione dei media alla vigilia della finalissima, vissuta con determinazione e concentrazione da parte dell'intero gruppo guidato dallo staff tecnico.",
   "z5e026878": "Il dibattito sul bilancio comunitario a lungo termine è entrato nel vivo a Bruxelles tra visioni divergenti sulle risorse da destinare alla competitività e ai vincoli di spesa. La prospettiva di consultazioni elettorali critiche nei principali Paesi membri ha spinto le istituzioni a cercare una rapida intesa per evitare veti politici successivi.",
@@ -16473,7 +17694,14 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "zb0a2b355": "Il conflitto nell'est della Repubblica Democratica del Congo vede contrapposte le forze governative e vari gruppi ribelli per il controllo del territorio e delle risorse. L'M23 è uno dei gruppi più attivi e la sua evoluzione in FRN non ha fermato gli scontri. La comunità internazionale ha tentato più volte di mediare una pace duratura per fermare le violenze che causano migliaia di sfollati.",
   "zc548a9e4": "Negli ultimi decenni la Cina ha progressivamente aumentato la sua influenza economica in America Latina, diventando il principale partner commerciale per molti Paesi. Attraverso investimenti massicci in infrastrutture e nuove tecnologie, Pechino ha consolidato legami che sfidano la tradizionale egemonia statunitense nell'area, focalizzandosi ora sulla diversificazione dei progetti verso il settore green.",
   "zb0ca2be9": "Negli ultimi mesi gli esperti climatici hanno rilevato la formazione di un nuovo episodio di El Niño nel Pacifico, con previsioni di intensificazione nelle prossime settimane. Il fenomeno, storicamente associato a siccità e sbalzi termici in Brasile, ha spinto le autorità di San Paolo a rivedere i piani idrici regionali dopo le crisi di approvvigionamento degli anni precedenti, culminate nell'annuncio odierno di un massiccio piano di investimenti preventivi.",
-  "z1d9cf446": "Nelle ultime settimane Anthropic ha rafforzato la propria posizione nel mercato dell'intelligenza artificiale generativa, ampliando accordi commerciali con grandi aziende e cloud provider e aumentando la base di clienti enterprise. Le voci su una possibile IPO si sono intensificate parallelamente alla crescita dei ricavi, mentre il settore tecnologico globale discute la sostenibilità dei massicci investimenti nell'IA, rendendo i risultati finanziari di Anthropic un test cruciale di credibilità."
+  "z1d9cf446": "Nelle ultime settimane Anthropic ha rafforzato la propria posizione nel mercato dell'intelligenza artificiale generativa, ampliando accordi commerciali con grandi aziende e cloud provider e aumentando la base di clienti enterprise. Le voci su una possibile IPO si sono intensificate parallelamente alla crescita dei ricavi, mentre il settore tecnologico globale discute la sostenibilità dei massicci investimenti nell'IA, rendendo i risultati finanziari di Anthropic un test cruciale di credibilità.",
+  "z523491dc": "L'area del Medio Oriente è caratterizzata da tensioni crescenti che coinvolgono diversi attori regionali e internazionali. Recentemente, la sicurezza delle infrastrutture in Arabia Saudita è stata messa a rischio da attacchi che hanno sollevato preoccupazioni globali sulla stabilità delle forniture energetiche e sulla sicurezza dei confini, portando le organizzazioni internazionali a riconsiderare i propri impegni diplomatici immediati.",
+  "z5fbcad2e": "La sicurezza delle comunità ebraiche in Europa è diventata un tema centrale per le forze di polizia internazionali a causa di una crescente ondata di minacce antisemite. Diversi Paesi, tra cui Danimarca e Germania, hanno intensificato il monitoraggio dei gruppi estremisti e la condivisione di informazioni di intelligence per prevenire attacchi coordinati che spesso vengono pianificati in uno Stato per essere eseguiti in un altro.",
+  "z4ebdfb00": "Negli ultimi anni, la necessità di trovare rotte commerciali alternative tra Oriente e Occidente è diventata una priorità a causa delle tensioni geopolitiche internazionali. Il potenziamento delle infrastrutture in Asia centrale è stato oggetto di numerosi accordi volti a modernizzare ferrovie e porti, facilitando il passaggio di merci attraverso nazioni come il Kazakistan e l'Azerbaigian.",
+  "zcb26eec3": "La disputa sulla spartizione delle acque del Teesta tra India e Bangladesh dura da decenni, con vari tentativi di accordo rimasti bloccati per ragioni politiche interne. Il fiume è vitale per l'agricoltura di milioni di contadini, e la costruzione di infrastrutture idriche è sempre stata un tema estremamente sensibile nei rapporti bilaterali tra Dacca e Nuova Delhi.",
+  "zddd0ef40": "Il presidente maldiviano Mohamed Muizzu ha intrapreso una politica estera volta a diversificare le alleanze strategiche dell'arcipelago. Dalla sua elezione nel 2023, ha promosso una maggiore vicinanza alla Cina, rinegoziando i rapporti storici con l'India. La ricerca di nuove collaborazioni con il Pakistan si inserisce in questo quadro di espansione dei legami con i partner regionali nell'Asia meridionale.",
+  "zcaf3d10f": "L’economia dell'America Latina è soggetta a forti pressioni esterne e dinamiche politiche locali che influenzano costantemente i tassi di cambio. Negli ultimi mesi, le oscillazioni dell'euro rispetto alle valute nazionali sono state monitorate attentamente per gestire le transazioni commerciali con l’Europa. Questi aggiornamenti quotidiani permettono di analizzare la stabilità delle riserve e l'andamento dell'inflazione nei principali mercati della regione.",
+  "z45b9e6a5": "L'Indonesia affronta regolarmente gravi emergenze legate agli incendi boschivi, che richiedono ingenti investimenti pubblici per il contenimento. Negli ultimi mesi, diverse organizzazioni avevano segnalato discrepanze nella gestione dei budget d'emergenza, portando a controlli più severi sulle cariche apicali dei dipartimenti di soccorso nazionale, nel tentativo di prevenire infiltrazioni illegali nella gestione delle crisi."
  },
  "cronologie": {
   "z18ad243f": [
@@ -16790,20 +18018,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "Prima dell'apertura",
     "L'Italia convoca a Bruxelles il gruppo informale degli 'amici della coesione'"
-   ]
-  ],
-  "z683cefb6": [
-   [
-    "Ore scorse",
-    "Cedimento strutturale improvviso della scuola di tre piani a Peshawar"
-   ],
-   [
-    "Poco dopo il crollo",
-    "Avvio delle operazioni di emergenza e primi soccorsi tra le macerie"
-   ],
-   [
-    "Nelle ultime ore",
-    "Il bilancio delle vittime sale a 30 morti con ricerche ancora in corso"
    ]
   ],
   "ze71e186d": [
@@ -17988,6 +19202,80 @@ window.EDIZIONI["2026-10-15-sera"] = {
    [
     "15 ottobre 2026",
     "Comunicati ricavi record del terzo trimestre e redditività raggiunta"
+   ]
+  ],
+  "z523491dc": [
+   [
+    "Settimane precedenti",
+    "Aumento delle tensioni regionali"
+   ],
+   [
+    "Giorni scorsi",
+    "Attacchi contro obiettivi in Arabia Saudita"
+   ]
+  ],
+  "z5fbcad2e": [
+   [
+    "Dicembre 2023",
+    "Arresti in Danimarca per sospetto terrorismo"
+   ],
+   [
+    "Gennaio 2024",
+    "Innalzamento dell'allerta sicurezza in Germania"
+   ]
+  ],
+  "z4ebdfb00": [
+   [
+    "2023",
+    "Accordi regionali per il potenziamento dei trasporti transcaspici"
+   ],
+   [
+    "Inizio 2024",
+    "Aumento dei flussi di merci lungo il Corridoio di Mezzo"
+   ]
+  ],
+  "zcb26eec3": [
+   [
+    "2011",
+    "Mancata firma di un accordo storico sulle acque del fiume"
+   ],
+   [
+    "Giugno 2024",
+    "Nuovi colloqui bilaterali sui progetti di gestione idrica"
+   ]
+  ],
+  "zddd0ef40": [
+   [
+    "Novembre 2023",
+    "Muizzu assume la presidenza delle Maldive"
+   ],
+   [
+    "Maggio 2024",
+    "Rafforzamento dei patti commerciali con la Cina"
+   ],
+   [
+    "Ottobre 2024",
+    "Annuncio della visita storica in Pakistan"
+   ]
+  ],
+  "zcaf3d10f": [
+   [
+    "Ottobre 2025",
+    "Inizio del monitoraggio annuale delle tendenze valutarie"
+   ],
+   [
+    "Gennaio 2026",
+    "Aumento della volatilità valutaria regionale"
+   ]
+  ],
+  "z45b9e6a5": [
+   [
+    "Settembre 2026",
+    "Segnalazione di irregolarità finanziarie nell'agenzia"
+   ],
+   [
+    "Ottobre 2026",
+    "Avvio dell'indagine ufficiale per corruzione"
    ]
   ]
  },
@@ -19344,13 +20632,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
    "n": "Parigi",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "z683cefb6": {
-   "n": "Peshawar",
-   "p": [
-    "Pakistan"
    ],
    "pt": []
   },
@@ -22350,6 +23631,355 @@ window.EDIZIONI["2026-10-15-sera"] = {
     "Solomon Is."
    ],
    "pt": []
+  },
+  "z6319ff04": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zf56ade5a": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z523491dc": {
+   "n": "Saudi Arabia",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z039d02d6": {
+   "n": "Modena",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze60a2d88": {
+   "n": "North Zealand",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z5fbcad2e": {
+   "n": "Aarhus",
+   "p": [
+    "Denmark",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z91401563": {
+   "n": "Copenaghen",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "zd91d4bc1": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z6b48ce1b": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zcd61917b": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z58785eb5": {
+   "n": "Tiruchirappalli",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z63e4ce7c": {
+   "n": "Hyderabad",
+   "p": [
+    "India",
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z15bc4eda": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z759a3bff": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z48930238": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zcc555ff4": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z9ebe6747": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z4ebdfb00": {
+   "n": "Kazakhstan",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "zd1b98427": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "ze640f945": {
+   "n": "Asia",
+   "p": [
+    "Turkey",
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zcb26eec3": {
+   "n": "Fiume Teesta",
+   "p": [
+    "Bangladesh",
+    "India"
+   ],
+   "pt": []
+  },
+  "zdcbfa1b2": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z6fbd4d37": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z7a2a003d": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zaba7451d": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z70fe4896": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zddd0ef40": {
+   "n": "Pakistan",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "za071b52c": {
+   "n": "Maldive",
+   "p": [
+    "Maldives",
+    "Belarus"
+   ],
+   "pt": []
+  },
+  "zabc84e88": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z35a95ac4": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z3f73167f": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z12ebfac8": {
+   "n": "Striscia di Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z50af9409": {
+   "n": "Kirghizistan",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z47bf04fb": {
+   "n": "Kirghizistan",
+   "p": [
+    "Kyrgyzstan",
+    "Cambodia"
+   ],
+   "pt": []
+  },
+  "z965b1c90": {
+   "n": "Kazakistan",
+   "p": [
+    "Kazakhstan",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zd413327e": {
+   "n": "Kirghizistan",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z2319c276": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z07c19e2b": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zcaf3d10f": {
+   "n": "America Latina",
+   "p": [
+    "Venezuela",
+    "Paraguay",
+    "Uruguay",
+    "Peru",
+    "Nicaragua",
+    "Panama"
+   ],
+   "pt": []
+  },
+  "zcf58eadd": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z45b9e6a5": {
+   "n": "Indonesia",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "ze04322fd": {
+   "n": "Iowa",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3941b67d": {
+   "n": "Barcellona",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zd3677024": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "zd48b98a1": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "ze8cd1814": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "zc7c80165": {
+   "n": "Colón",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "zb512172d": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -22536,7 +24166,6 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z66bce54b": 1,
   "zbd1f8306": 2,
   "z1337eff2": 1,
-  "z683cefb6": 2,
   "z7df58a82": 1,
   "z8c5bc8d6": 1,
   "zcb5c3dcc": 1,
@@ -22963,7 +24592,55 @@ window.EDIZIONI["2026-10-15-sera"] = {
   "z72f6ce9f": 1,
   "zc548a9e4": 2,
   "z8efc720d": 1,
-  "ze813c928": 1
+  "ze813c928": 1,
+  "z6319ff04": 1,
+  "zf56ade5a": 1,
+  "z523491dc": 2,
+  "z039d02d6": 1,
+  "ze60a2d88": 1,
+  "z5fbcad2e": 2,
+  "z91401563": 1,
+  "zd91d4bc1": 1,
+  "z6b48ce1b": 1,
+  "zcd61917b": 1,
+  "z58785eb5": 1,
+  "z63e4ce7c": 1,
+  "z15bc4eda": 1,
+  "z759a3bff": 1,
+  "z48930238": 1,
+  "zcc555ff4": 1,
+  "z9ebe6747": 1,
+  "z4ebdfb00": 2,
+  "zd1b98427": 1,
+  "ze640f945": 1,
+  "zcb26eec3": 2,
+  "zdcbfa1b2": 1,
+  "z6fbd4d37": 1,
+  "z7a2a003d": 1,
+  "zaba7451d": 1,
+  "z70fe4896": 1,
+  "zddd0ef40": 2,
+  "za071b52c": 1,
+  "zabc84e88": 1,
+  "z35a95ac4": 1,
+  "z3f73167f": 1,
+  "z12ebfac8": 1,
+  "z50af9409": 1,
+  "z47bf04fb": 1,
+  "z965b1c90": 1,
+  "zd413327e": 1,
+  "z2319c276": 1,
+  "z07c19e2b": 1,
+  "zcaf3d10f": 1,
+  "zcf58eadd": 1,
+  "z45b9e6a5": 1,
+  "ze04322fd": 1,
+  "z3941b67d": 1,
+  "zd3677024": 1,
+  "zd48b98a1": 1,
+  "ze8cd1814": 1,
+  "zc7c80165": 1,
+  "zb512172d": 1
  },
  "video": {},
  "pillole": []
