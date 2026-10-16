@@ -3,6 +3,720 @@ window.EDIZIONI["2026-10-16"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z0f3307e0",
+   "sez": "mondo",
+   "titolo": "Incendio in una fabbrica a Bucheon, un pompiere in arresto cardiaco",
+   "orig": "[포토] 부천 공장 불로 소방관 1명 심정지…동료 다친 현장 살피는 소방대원들",
+   "lead": "A Bucheon, in Corea del Sud, un incendio scoppiato in una fabbrica ha provocato l'arresto cardiaco di un vigile del fuoco intervenuto sul posto. Durante le operazioni di soccorso un collega è rimasto ferito. Le squadre dei pompieri stanno verificando le condizioni dello stabile e l'entità dei danni causati dalle fiamme. Non sono ancora stati forniti ulteriori dettagli sulle cause del rogo né sulle condizioni dei feriti. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/society/society_general/1282747.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5afa5424",
+   "sez": "mondo",
+   "titolo": "Delhi, un deputato del BJP: un fantoccio da 30 piedi a forma di scarafaggio sarà bruciato con Ravan",
+   "orig": "'Symbol of filth': Delhi BJP MLA on 30-ft 'cockroach' effigy to be burnt alongside Ravan",
+   "lead": "Un deputato dell'assemblea di Delhi del partito BJP ha definito un enorme fantoccio a forma di scarafaggio, alto circa nove metri, come 'simbolo della sporcizia'. L'effigie sarà data alle fiamme insieme a quella del demone Ravan durante le celebrazioni tradizionali indiane. L'iniziativa punta a denunciare problemi di igiene e decoro urbano nella capitale indiana. Lo riferisce Times of India.",
+   "more": [
+    "La festa di Dussehra celebra in India la vittoria del dio Rama sul demone Ravan e prevede tradizionalmente il rogo di grandi effigi del demone, spesso accompagnate da simboli satirici legati a problemi sociali di attualità."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/amplifies-swachh-bharat-ram-leela-committee-defends-burning-30-foot-cockroach-effigy-alongside-ravan/articleshow/134982194.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T09:54+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd80e577b",
+   "sez": "sport",
+   "titolo": "Dubai Basketball chiude con una vittoria su Milano una trasferta EuroLeague perfetta",
+   "orig": "Dubai Basketball complete perfect EuroLeague road trip with Milan win",
+   "lead": "La squadra Dubai Basketball ha completato una trasferta europea di EuroLeague senza sconfitte, battendo l'Olimpia Milano nell'ultima partita del ciclo di gare in Italia. Il successo consolida il buon avvio di stagione del club degli Emirati Arabi Uniti nella massima competizione cestistica europea. La vittoria arriva dopo altri risultati positivi raccolti nelle precedenti uscite del viaggio. Lo riferisce Gulf News.",
+   "more": [
+    "L'EuroLeague è la principale competizione cestistica per club a livello europeo, che riunisce le squadre più forti del continente, tra cui l'Olimpia Milano, storica formazione italiana."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/sport/dubai-basketball-complete-perfect-euroleague-road-trip-with-milan-win-1.500712706",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-16T09:55+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z504d24bc",
+   "sez": "mondo",
+   "titolo": "Babar Azam si unisce ad Afridi nel lutto per le vittime del crollo di una scuola in Pakistan",
+   "orig": "Babar Azam joins Shahid Afridi in mourning victims of Pakistan school collapse",
+   "lead": "Il campione di cricket pakistano Babar Azam ha espresso cordoglio per le vittime del crollo di un edificio scolastico in Pakistan, unendosi al messaggio di lutto già espresso dall'ex capitano Shahid Afridi. Il crollo ha causato vittime tra gli studenti, suscitando reazioni di solidarietà nel mondo dello sport pakistano. Non sono specificati nel testo il numero esatto delle vittime né la località precisa dell'incidente. Lo riferisce Gulf News.",
+   "more": [
+    "Babar Azam è uno dei giocatori di cricket più noti del Pakistan, ex capitano della nazionale, mentre Shahid Afridi è una leggenda dello sport pakistano, oggi spesso impegnato in iniziative pubbliche e benefiche."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/sport/babar-azam-joins-shahid-afridi-in-mourning-victims-of-pakistan-school-collapse-1.500712677",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-16T09:40+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc7a92ec4",
+   "sez": "economia",
+   "titolo": "BYD si affida a un assemblatore locale in Malaysia dopo aver accantonato il piano per un proprio impianto",
+   "orig": "China's BYD turns to local assembler in Malaysia after shelving plant plan",
+   "lead": "Il colosso cinese dei veicoli elettrici BYD ha deciso di collaborare con un assemblatore locale in Malaysia dopo aver messo da parte i piani per la costruzione di un proprio stabilimento produttivo nel Paese. La scelta segna un cambio di strategia per l'azienda cinese nel sud-est asiatico, mercato considerato strategico per l'espansione internazionale del gruppo. Non sono specificati nel testo ulteriori dettagli sui motivi dell'accantonamento del progetto originario. Lo riferisce Nikkei Asia.",
+   "more": [
+    "BYD è uno dei principali produttori mondiali di veicoli elettrici, con sede in Cina, in forte espansione nei mercati asiatici ed europei grazie a una strategia di investimenti diretti e partnership locali."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-turns-to-local-assembler-in-malaysia-after-shelving-plant-plan",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zadc974cb",
+   "sez": "economia",
+   "titolo": "Le compagnie assicurative giamaicane otterranno maggiore flessibilità negli investimenti",
+   "orig": "Insurers set to gain investment flexibility",
+   "lead": "In Giamaica è previsto un cambiamento normativo che darà alle compagnie di assicurazione maggiore flessibilità nella gestione dei propri investimenti. La misura dovrebbe consentire agli operatori del settore di diversificare meglio i propri portafogli finanziari. Il testo non specifica ulteriori dettagli sui tempi di attuazione né sull'autorità regolatrice coinvolta. Lo riferisce Jamaica Observer.",
+   "more": [
+    "Il settore assicurativo giamaicano è regolato da autorità finanziarie nazionali che stabiliscono i limiti e le modalità con cui le compagnie possono investire le riserve raccolte dai premi degli assicurati."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/16/insurers-set-gain-investment-flexibility/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-16T05:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6ba50c26",
+   "sez": "mondo",
+   "titolo": "Le autorità carcerarie negano una rissa tra P Diddy e Dudus",
+   "orig": "Prison officials deny reported fight between P Diddy and Dudus",
+   "lead": "Le autorità penitenziarie hanno smentito le voci di una rissa scoppiata in carcere tra il rapper statunitense Sean 'Diddy' Combs e Christopher 'Dudus' Coke, noto criminale giamaicano, entrambi detenuti. Le indiscrezioni circolavano da giorni ma sono state respinte come infondate dai responsabili della struttura. Non vengono fornite ulteriori informazioni sulle condizioni dei due detenuti. Lo riferisce Jamaica Observer.",
+   "more": [
+    "Sean 'Diddy' Combs è un noto produttore musicale e rapper statunitense, mentre Christopher 'Dudus' Coke è un ex boss criminale giamaicano estradato negli Stati Uniti e condannato per traffico di droga."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/15/prison-officials-deny-reported-fight-p-diddy-dudus/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-15T20:24+00:00"
+    }
+   ],
+   "data": "15 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zaae56f81",
+   "sez": "mondo",
+   "titolo": "Kazakistan e Repubblica Ceca firmano un accordo per ampliare la cooperazione ferroviaria",
+   "orig": "Kazakhstan, Czech Republic sign deal to expand railway cooperation",
+   "lead": "Il Kazakistan e la Repubblica Ceca hanno firmato un accordo volto a rafforzare la collaborazione nel settore ferroviario tra i due Paesi. L'intesa punta a favorire scambi tecnologici e commerciali nel comparto dei trasporti su rotaia. Il testo non specifica ulteriori dettagli sui contenuti operativi dell'accordo né sulla data della firma. Lo riferisce Trend.",
+   "more": [
+    "Il Kazakistan, Paese dell'Asia centrale ricco di risorse minerarie, punta a sviluppare le proprie infrastrutture ferroviarie come snodo strategico per i corridoi commerciali tra Asia ed Europa."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/kazakhstan/4235511.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T10:08+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze10eac67",
+   "sez": "economia",
+   "titolo": "Uzbekistan e il gruppo pachistano GO progettano un complesso zootecnico da 10 milioni di dollari",
+   "orig": "Uzbekistan, Pakistani GO Group plan $10M livestock complex in Kashkadarya",
+   "lead": "L'Uzbekistan e il gruppo pachistano GO hanno annunciato il progetto di un complesso per l'allevamento del bestiame nella regione di Kashkadarya, con un investimento stimato di 10 milioni di dollari. L'iniziativa rientra negli sforzi di sviluppo del settore agricolo uzbeko attraverso partenariati internazionali. Il testo non fornisce ulteriori dettagli sui tempi di realizzazione del progetto. Lo riferisce Trend.",
+   "more": [
+    "La regione di Kashkadarya, nel sud dell'Uzbekistan, è un'area a vocazione agricola e zootecnica che il governo punta a sviluppare attraendo investimenti stranieri nel settore alimentare."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235500.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T09:59+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcc96be9b",
+   "sez": "cultura",
+   "titolo": "In Bangladesh iniziano le celebrazioni del Durga Puja con il Maha Shashthi",
+   "orig": "Durga Puja begins today with Maha Shashthi",
+   "lead": "In Bangladesh sono iniziate le celebrazioni della Durga Puja, una delle principali festività religiose indù, con il rito del Maha Shashthi che segna l'avvio ufficiale delle cerimonie. Milioni di fedeli partecipano alle celebrazioni che si svolgono nei templi e nei padiglioni allestiti in tutto il Paese. Il testo non fornisce ulteriori dettagli sul programma delle giornate successive. Lo riferisce Prothom Alo.",
+   "more": [
+    "La Durga Puja è una delle festività indù più importanti, celebrata soprattutto nel Bengala, dedicata alla dea Durga e alla sua vittoria sul male; prevede riti, processioni e l'allestimento di statue elaborate."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/n4l9c9bjt3",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-16T04:15+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z57997ef3",
+   "sez": "mondo",
+   "titolo": "Attacchi Houthi: i passeggeri verso l'Arabia Saudita viaggiano su due rotte alternative",
+   "orig": "Houthi attacks: Passengers travel to Saudi Arabia via 2 alternative routes",
+   "lead": "A causa degli attacchi condotti dai ribelli Houthi, i viaggiatori diretti in Arabia Saudita sono costretti a utilizzare due percorsi alternativi per raggiungere la loro destinazione. La situazione sta creando disagi ai passeggeri, costretti a modificare i propri itinerari di viaggio per motivi di sicurezza. Il testo non specifica ulteriori dettagli sulle rotte interessate né sulla durata prevista della misura. Lo riferisce Prothom Alo.",
+   "more": [
+    "I ribelli Houthi, gruppo armato yemenita sostenuto dall'Iran, controllano ampie zone del Yemen e da anni conducono attacchi contro obiettivi regionali, compresa l'Arabia Saudita, nel quadro del conflitto yemenita."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/0zujocqoi9",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-16T03:54+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z45c281e9",
+   "sez": "mondo",
+   "titolo": "La coalizione saudita abbatte un missile da crociera su Medina",
+   "orig": "ސައުދީ އިއްތިހާދުން މަދީނާ މަތިން ކްރޫޒް މިސައިލެއް ވައްޓާލައިފި",
+   "lead": "La coalizione guidata dall'Arabia Saudita ha intercettato e abbattuto un missile da crociera sui cieli della città santa di Medina. L'episodio si inserisce nel quadro degli scontri in corso tra la coalizione e i ribelli Houthi yemeniti. Lo riferisce PSM News.",
+   "more": [
+    "Medina è una delle città più sacre dell'Islam, meta di pellegrinaggio, situata in Arabia Saudita; negli ultimi anni è stata più volte presa di mira da attacchi missilistici attribuiti ai ribelli Houthi yemeniti."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190312",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-16T10:28+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0fc87877",
+   "sez": "mondo",
+   "titolo": "Circa cento strutture sociali saranno inaugurate entro fine 2026 in Kirghizistan",
+   "orig": "Around 100 social facilities to be commissioned by end of 2026 in Kyrgyzstan",
+   "lead": "Il governo del Kirghizistan prevede di inaugurare circa cento nuove strutture sociali entro la fine del 2026, nel quadro di un piano di investimenti pubblici nel Paese centroasiatico. L'iniziativa punta a migliorare i servizi offerti alla popolazione in diverse regioni. Il testo non specifica ulteriori dettagli sui tipi di strutture previste né sulla loro distribuzione geografica. Lo riferisce AKIpress.",
+   "more": [
+    "Il Kirghizistan è una repubblica dell'Asia centrale impegnata negli ultimi anni in programmi di modernizzazione delle infrastrutture sociali, tra scuole, ospedali e centri comunitari, spesso finanziati anche con il supporto di partner internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925335",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-16T11:58+06:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z513cb0da",
+   "sez": "mondo",
+   "titolo": "Giappone, nella zona colpita a Kumamoto i volontari si sono dimezzati da agosto",
+   "orig": "熊本の被災地でボランティア不足 8月から半減、関東の豪雨も影響?",
+   "lead": "Nelle aree di Kumamoto danneggiate da disastri naturali, il numero di volontari impegnati nella ricostruzione si è dimezzato da agosto, con un possibile legame alle piogge intense che hanno colpito anche la regione del Kanto. La riduzione della manodopera volontaria rischia di rallentare le operazioni di recupero nelle zone disastrate. Lo riferisce Asahi Shimbun.",
+   "more": [
+    "Il Giappone è frequentemente colpito da terremoti e piogge torrenziali che danneggiano abitazioni e infrastrutture; la ricostruzione dipende spesso dal supporto di volontari organizzati che intervengono nelle aree più colpite."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBH0D0CVBHDIFI00QM.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-16T15:00+09:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfc66e182",
+   "sez": "mondo",
+   "titolo": "Giappone, sospetto di gonfiamento dei dati del censimento a Toyama: 180 reclami",
+   "orig": "国勢調査人口水増し疑惑、富山市に苦情など180件 業務の総点検へ",
+   "lead": "La città giapponese di Toyama ha ricevuto circa 180 reclami legati a un sospetto di manipolazione al rialzo dei dati del censimento nazionale della popolazione. L'amministrazione comunale ha annunciato un controllo generale delle procedure seguite nello svolgimento del censimento. Lo riferisce Asahi Shimbun.",
+   "more": [
+    "Il censimento nazionale è lo strumento con cui i governi rilevano periodicamente dati su popolazione e abitazioni, fondamentale per pianificare servizi pubblici e ripartire risorse; eventuali irregolarità minano l'attendibilità delle statistiche ufficiali."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBJ0PRCVBJOXIE03SM.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-16T14:29+09:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z66a2b925",
+   "sez": "economia",
+   "titolo": "Il FMI avverte sul debito eccessivo di «troppi paesi» e sollecita stabilità dei prezzi",
+   "orig": "El FMI insiste en la deuda excesiva de \"demasiados países\" y urge a estabilidad de precios",
+   "lead": "Il Fondo Monetario Internazionale ha ribadito la propria preoccupazione per il livello di debito eccessivo accumulato da «troppi paesi» nel mondo, invitando i governi a intervenire con misure di risanamento. L'istituzione ha inoltre sollecitato le autorità monetarie a mantenere la stabilità dei prezzi come priorità economica. Lo riferisce ABC Color.",
+   "more": [
+    "Il Fondo Monetario Internazionale è l'organizzazione che monitora la stabilità finanziaria globale e fornisce assistenza ai paesi in difficoltà economica, promuovendo politiche di bilancio sostenibili e il controllo dell'inflazione."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/el-fmi-insiste-en-la-deuda-excesiva-de-demasiados-paises-y-urge-a-estabilidad-de-precios/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T05:55+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0e07c450",
+   "sez": "economia",
+   "titolo": "La Borsa dell'Indonesia crolla oltre il 10% per il rischio di esclusione dall'MSCI",
+   "orig": "La Bolsa de Indonesia se desploma más del 10 % ante el riesgo de exclusión de MSCI",
+   "lead": "Il mercato borsistico indonesiano è crollato di più del 10% a causa del timore che il paese venga escluso dagli indici MSCI, importanti benchmark seguiti dagli investitori internazionali. Il calo riflette la preoccupazione degli operatori finanziari per le possibili conseguenze sugli investimenti stranieri nel paese. Lo riferisce ABC Color.",
+   "more": [
+    "MSCI è un fornitore di indici finanziari globali usati come riferimento da investitori e fondi internazionali; l'inclusione o esclusione di un mercato da questi indici può influenzare fortemente i flussi di capitale verso quel paese."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/la-bolsa-de-indonesia-se-desploma-mas-del-10-ante-el-riesgo-de-exclusion-de-msci/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T05:26+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5bff1600",
+   "sez": "ambiente",
+   "titolo": "Madagascar, il governo si prepara agli effetti del fenomeno El Niño",
+   "orig": "CLIMAT - Le gouvernement anticipe les effets d’El Niño",
+   "lead": "Il governo del Madagascar ha annunciato misure di anticipazione per fronteggiare gli effetti previsti del fenomeno climatico El Niño sul territorio nazionale. L'iniziativa punta a limitare l'impatto delle conseguenze climatiche attese nei prossimi mesi. Lo riferisce L'Express de Madagascar.",
+   "more": [
+    "El Niño è un fenomeno climatico ciclico legato al riscaldamento delle acque superficiali del Pacifico tropicale, che altera i regimi di piogge e temperature a livello globale, causando spesso siccità o alluvioni in diverse regioni del mondo."
+   ],
+   "fonti": [
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/1707811277344917457/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-16T05:55+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z638b70e3",
+   "sez": "sport",
+   "titolo": "Petanque, un quartetto interamente locale per il Mondiale 2027 in Madagascar",
+   "orig": "PÉTANQUE - MONDIAL 2027 - Un quatuor 100% local",
+   "lead": "Il Madagascar presenterà un quartetto composto esclusivamente da giocatori locali in vista del Campionato mondiale di petanque del 2027. La notizia sottolinea la scelta di puntare su atleti formati interamente nel paese per la competizione internazionale. Lo riferisce L'Express de Madagascar.",
+   "more": [
+    "La petanque è uno sport di origine francese che consiste nel lanciare palle metalliche verso un bersaglio, molto popolare in diversi paesi francofoni, tra cui il Madagascar, dove viene praticato a livello competitivo."
+   ],
+   "fonti": [
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/5644914540273701600/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-16T05:50+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z49533930",
+   "sez": "mondo",
+   "titolo": "Madagascar, la scomparsa di detenuti non avrebbe impatto sulle relazioni con la Cina",
+   "orig": "DISPARITION DE DÉTENUS - «Aucun impact sur la relation avec la Chine»",
+   "lead": "Le autorità del Madagascar hanno dichiarato che la scomparsa di alcuni detenuti non avrà alcun impatto sulle relazioni diplomatiche del paese con la Cina. La precisazione arriva in risposta a timori o speculazioni sorti dopo l'episodio, di cui non vengono forniti ulteriori dettagli. Lo riferisce L'Express de Madagascar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/5868818312918702948/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-16T05:50+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0123aa66",
+   "sez": "mondo",
+   "titolo": "Madagascar, allarme per airbag difettosi sui veicoli in circolazione",
+   "orig": "CIRCULATION - Alerte aux airbags défectueux",
+   "lead": "Le autorità del Madagascar hanno lanciato un allarme riguardante la presenza di airbag difettosi su veicoli attualmente in circolazione nel paese. L'avviso punta a informare i proprietari di auto sui rischi legati a questi componenti di sicurezza non conformi. Lo riferisce L'Express de Madagascar.",
+   "more": [
+    "Gli airbag sono dispositivi di sicurezza automobilistica progettati per proteggere gli occupanti in caso di incidente; difetti di fabbricazione in alcuni modelli hanno portato in passato a richiami internazionali di massa da parte dei produttori."
+   ],
+   "fonti": [
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/9143904266828131488/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-16T05:50+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zff020c81",
+   "sez": "mondo",
+   "titolo": "Mauritius, l'associazione Lawwa Lavenir si opponi all'abbassamento dell'età di responsabilità penale a 12 anni",
+   "orig": "Responsabilité pénale à 12 ans : Lawwa Lavenir s’oppose à la proposition du gouvernement",
+   "lead": "L'organizzazione Lawwa Lavenir si è opposta alla proposta del governo di Mauritius di fissare l'età minima della responsabilità penale a 12 anni. L'associazione contesta la misura, ritenuta inadeguata a tutelare i minori coinvolti nel sistema giudiziario. Lo riferisce Defimedia.",
+   "more": [
+    "L'età di responsabilità penale è la soglia fissata dalla legge sotto la quale un minore non può essere perseguito penalmente per i propri atti; molti paesi la fissano più in alto proprio per tutelare lo sviluppo e la rieducazione dei minori."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/responsabilite-penale-12-ans-lawwa-lavenir-soppose-la-proposition-du-gouvernement",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T09:28+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z05f6ae27",
+   "sez": "mondo",
+   "titolo": "Mauritius, l'avvocato Antoine Domingue chiede sanzioni proporzionate nei processi per comparizione immediata",
+   "orig": "Comparution immédiate : Me Antoine Domingue plaide pour des sanctions proportionnées",
+   "lead": "L'avvocato mauriziano Antoine Domingue ha chiesto che nei procedimenti con comparizione immediata vengano applicate sanzioni proporzionate ai reati commessi. L'intervento riguarda il dibattito sulla gestione giudiziaria dei casi trattati con rito accelerato a Mauritius. Lo riferisce Defimedia.",
+   "more": [
+    "La comparizione immediata è una procedura giudiziaria che consente di processare rapidamente un imputato, spesso per reati meno gravi o flagranti, bilanciando celerità della giustizia e garanzie per l'accusato."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/comparution-immediate-me-antoine-domingue-plaide-pour-des-sanctions-proportionnees",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T08:47+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zac40e79b",
+   "sez": "mondo",
+   "titolo": "Haiti, il Consiglio elettorale moltiplica le missioni all'estero per il voto della diaspora",
+   "orig": "Vote of the diaspora: the CEP multiplies missions abroad",
+   "lead": "Il Consiglio elettorale provvisorio (CEP) di Haiti ha intensificato le missioni all'estero in vista dell'organizzazione del voto della diaspora haitiana. L'iniziativa riguarda l'organizzazione logistica necessaria per consentire ai cittadini haitiani residenti fuori dal paese di partecipare alle elezioni. Lo riferisce Le Nouvelliste.",
+   "more": [
+    "Il voto della diaspora consente ai cittadini residenti all'estero di partecipare alle elezioni del proprio paese d'origine; organizzarlo richiede accordi logistici e diplomatici con i paesi ospitanti, spesso complessi da gestire."
+   ],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273000/vote-of-the-diaspora-the-cep-multiplies-missions-abroad",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-15T22:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb45f7b4f",
+   "sez": "mondo",
+   "titolo": "La BID apre la strada al finanziamento di tre nuove carceri e al rafforzamento dei poli giudiziari in Haiti",
+   "orig": "The IDB paves the way for funding the construction of three prisons and strengthening judicial hubs",
+   "lead": "La Banca Interamericana di Sviluppo (BID) ha avviato il percorso per finanziare la costruzione di tre nuove prigioni e il rafforzamento dei poli giudiziari ad Haiti. L'iniziativa si inserisce nel sostegno internazionale al rafforzamento del sistema giudiziario e carcerario del paese. Lo riferisce Le Nouvelliste.",
+   "more": [
+    "La Banca Interamericana di Sviluppo è un'istituzione finanziaria che sostiene progetti di sviluppo economico e sociale nei paesi dell'America Latina e dei Caraibi, spesso tramite prestiti per infrastrutture pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/272999/the-idb-paves-the-way-for-funding-the-construction-of-three-prisons-and-strengthening-judicial-hubs",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-15T22:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3633967c",
+   "sez": "mondo",
+   "titolo": "Haiti, il Consiglio elettorale sulle tracce del CPT",
+   "orig": "The CEP on the Track of the CPT",
+   "lead": "Il Consiglio elettorale provvisorio (CEP) di Haiti risulta impegnato in un percorso legato al Consiglio presidenziale di transizione (CPT), nel quadro del processo politico in corso nel paese. Il testo non fornisce ulteriori dettagli specifici sulla natura dell'azione. Lo riferisce Le Nouvelliste.",
+   "more": [
+    "Il Consiglio presidenziale di transizione è l'organo che guida attualmente la transizione politica di Haiti dopo la crisi istituzionale degli ultimi anni, incaricato di preparare il ritorno a elezioni regolari."
+   ],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273008/the-cep-on-the-track-of-the-cpt",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-15T23:03+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zaf599922",
+   "sez": "mondo",
+   "titolo": "Haiti, la Commissione interamericana discute con il Ministro della Giustizia le garanzie per i magistrati",
+   "orig": "Certification of magistrates: the IACHR and the Minister of Justice discuss judicial guarantees",
+   "lead": "La Commissione Interamericana dei Diritti Umani (IACHR) e il Ministro della Giustizia haitiano hanno discusso delle garanzie giudiziarie legate al processo di certificazione dei magistrati nel paese. L'incontro riguarda il tema della tutela dell'indipendenza e della qualità del corpo giudiziario haitiano. Lo riferisce Le Nouvelliste.",
+   "more": [
+    "La Commissione Interamericana dei Diritti Umani è un organismo dell'Organizzazione degli Stati Americani che vigila sul rispetto dei diritti umani nel continente, intervenendo spesso su questioni legate a giustizia e stato di diritto."
+   ],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273002/certification-of-magistrates-the-iachr-and-the-minister-of-justice-discuss-judicial-guarantees",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-15T22:15+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za526a367",
+   "sez": "economia",
+   "titolo": "Guatemala, il porto Quetzal riduce da oltre 50 a sette le navi in attesa",
+   "orig": "Puerto Quetzal reduce de más de 50 a siete los buques en espera",
+   "lead": "Il porto di Quetzal, in Guatemala, ha ridotto drasticamente il numero di navi in attesa di attracco, passando da oltre 50 a sette unità. Il miglioramento riflette un'efficienza nella gestione delle operazioni portuali dopo un periodo di congestione. Lo riferisce Prensa Libre.",
+   "more": [
+    "Puerto Quetzal è uno dei principali scali marittimi del Guatemala sulla costa pacifica, fondamentale per il commercio di import-export del paese; la congestione portuale può causare ritardi significativi nelle catene di approvvigionamento."
+   ],
+   "fonti": [
+    {
+     "n": "Prensa Libre",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://www.prensalibre.com/web-stories/puerto-quetzal-registra-reduccion-de-buques-en-espera-en-medio-de-cambios-en-la-administracion-portuaria/",
+     "angolo": "",
+     "atlas": "Guatemala",
+     "t": "2026-10-16T04:44+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z10b82428",
+   "sez": "ambiente",
+   "titolo": "Cambiamento climatico: i segni vitali della Terra che preoccupano gli scienziati",
+   "orig": "Cambio climático: los signos vitales de la Tierra que preocupan a científicos",
+   "lead": "Alcuni indicatori ambientali globali, descritti come «segni vitali della Terra», continuano a destare preoccupazione tra gli scienziati nel contesto del cambiamento climatico in corso. Il testo non specifica cifre o eventi puntuali, ma richiama l'attenzione sullo stato generale del pianeta. Lo riferisce Prensa Libre.",
+   "more": [
+    "Gli scienziati monitorano regolarmente parametri come temperature globali, livello dei ghiacciai e concentrazione di gas serra per valutare la salute del sistema climatico terrestre e l'evoluzione del riscaldamento globale."
+   ],
+   "fonti": [
+    {
+     "n": "Prensa Libre",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://www.prensalibre.com/web-stories/los-signos-vitales-de-la-tierra-alertan-sobre-un-cambio-climatico-que-podria-ser-irreversible/",
+     "angolo": "",
+     "atlas": "Guatemala",
+     "t": "2026-10-16T04:41+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf29ea584",
+   "sez": "viaggi",
+   "titolo": "Un nuovo ponte tra Guatemala e El Salvador cambierà l'attraversamento del confine",
+   "orig": "Nuevo puente entre Guatemala y El Salvador: qué cambia y cómo será el cruce fronterizo",
+   "lead": "È in costruzione un nuovo ponte di collegamento tra Guatemala ed El Salvador, destinato a modificare le modalità di attraversamento del confine tra i due paesi. L'infrastruttura promette di cambiare le condizioni di transito per viaggiatori e merci nella zona di frontiera. Lo riferisce Prensa Libre.",
+   "more": [
+    "I ponti di frontiera tra paesi centroamericani sono infrastrutture chiave per facilitare il commercio e la mobilità delle persone, spesso realizzati per sostituire valichi più lenti o meno sicuri lungo le rotte di collegamento regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Prensa Libre",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://www.prensalibre.com/web-stories/que-pasa-con-la-iglesia-catolica-mientras-el-papa-leon-xiv-se-recupera-copy/",
+     "angolo": "",
+     "atlas": "Guatemala",
+     "t": "2026-10-16T04:34+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:09",
+   "uscita": "mattino"
+  },
+  {
    "id": "z33ed6a28",
    "sez": "mondo",
    "titolo": "Proteste per la casa a Porto: come nascono e dove possono arrivare",
@@ -2930,6 +3644,15 @@ window.EDIZIONI["2026-10-16"] = {
      "angolo": "",
      "atlas": "Jordan",
      "t": "2026-10-16T08:11+03:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/un-terremoto-de-magnitud-69-sacude-la-peninsula-rusa-de-kamchatka/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T05:40+00:00"
     }
    ],
    "data": "16 ott",
@@ -15637,7 +16360,37 @@ window.EDIZIONI["2026-10-16"] = {
   "z31404e19": "DR Nyheder riporta la notizia come curiosità locale senza ulteriori approfondimenti.",
   "za6e25e49": "The Hankyoreh sottolinea la gravità dell'errore nell'emissione e ritiro dell'allarme.",
   "zde716463": "The Hankyoreh presenta il riconoscimento come conferma del valore artistico dell'album.",
-  "z8dd07fa1": "The Hankyoreh presenta l'intesa come un passo avanti per la tutela dei lavoratori."
+  "z8dd07fa1": "The Hankyoreh presenta l'intesa come un passo avanti per la tutela dei lavoratori.",
+  "z0f3307e0": "The Hankyoreh documenta con immagini la scena dell'incendio e l'intervento dei soccorritori.",
+  "z5afa5424": "Times of India riporta la dichiarazione del politico come presa di posizione simbolica in vista delle celebrazioni.",
+  "zd80e577b": "Gulf News celebra il risultato come conferma della crescita del basket emiratino a livello internazionale.",
+  "z504d24bc": "Gulf News evidenzia la reazione di solidarietà del mondo sportivo pakistano alla tragedia.",
+  "zc7a92ec4": "Nikkei Asia inquadra la vicenda come segnale delle difficoltà di espansione industriale diretta della Cina nel sud-est asiatico.",
+  "zadc974cb": "Jamaica Observer presenta la novità come un passo positivo per il settore finanziario locale.",
+  "z6ba50c26": "Jamaica Observer smentisce le voci riportando la posizione ufficiale delle autorità carcerarie.",
+  "zaae56f81": "Trend presenta l'accordo come parte della cooperazione economica tra Asia centrale ed Europa.",
+  "ze10eac67": "Trend evidenzia l'investimento come esempio di cooperazione economica tra Uzbekistan e Pakistan.",
+  "zcc96be9b": "Prothom Alo documenta l'avvio delle celebrazioni religiose nel Paese.",
+  "z57997ef3": "Prothom Alo si concentra sull'impatto pratico degli attacchi sui viaggiatori bangladesi.",
+  "z45c281e9": "PSM News sottolinea la capacità di difesa della coalizione saudita contro gli attacchi Houthi.",
+  "z0fc87877": "AKIpress presenta il piano come segnale dell'impegno governativo nello sviluppo sociale.",
+  "z513cb0da": "Asahi Shimbun segnala il calo dei volontari come un rischio per la ripresa delle zone colpite.",
+  "zfc66e182": "Asahi Shimbun riporta la vicenda come uno scandalo amministrativo locale ancora da verificare.",
+  "z66a2b925": "ABC Color riporta l'appello del FMI come un monito generale sulla sostenibilità fiscale globale.",
+  "z0e07c450": "ABC Color evidenzia l'entità eccezionale del crollo borsistico come segnale di allarme per gli investitori.",
+  "z5bff1600": "L'Express de Madagascar presenta l'azione del governo come misura preventiva di fronte a un rischio climatico imminente.",
+  "z638b70e3": "L'Express de Madagascar valorizza la scelta di un quartetto completamente locale come motivo di orgoglio sportivo.",
+  "z49533930": "L'Express de Madagascar riporta la rassicurazione delle autorità malgasce come tentativo di contenere le speculazioni diplomatiche.",
+  "z0123aa66": "L'Express de Madagascar mette in guardia gli automobilisti sul potenziale pericolo degli airbag difettosi.",
+  "zff020c81": "Defimedia riporta la posizione critica dell'associazione nei confronti della proposta governativa.",
+  "z05f6ae27": "Defimedia riporta l'appello dell'avvocato a favore di una giustizia più equilibrata nelle procedure rapide.",
+  "zac40e79b": "Le Nouvelliste segnala l'intensificazione delle missioni come segno di preparazione elettorale in corso.",
+  "zb45f7b4f": "Le Nouvelliste presenta il finanziamento come un passo verso il rafforzamento delle istituzioni giudiziarie haitiane.",
+  "z3633967c": "Le Nouvelliste segue gli sviluppi del rapporto tra l'organo elettorale e quello di transizione politica.",
+  "zaf599922": "Le Nouvelliste riporta il dialogo come parte degli sforzi per rafforzare le garanzie giudiziarie ad Haiti.",
+  "za526a367": "Prensa Libre sottolinea il miglioramento operativo del porto come una buona notizia logistica.",
+  "z10b82428": "Prensa Libre riporta l'allarme scientifico come monito generale sullo stato del pianeta.",
+  "zf29ea584": "Prensa Libre presenta l'opera come un cambiamento significativo per la mobilità transfrontaliera nella regione."
  },
  "contesti": {
   "houthi": "La guerra civile yemenita dura dal 2014: una coalizione guidata dall'Arabia Saudita sostiene il governo riconosciuto contro gli Houthi, alleati dell'Iran, che controllano Sanaa e il Nord del Paese. Il cessate il fuoco Onu in vigore dal 2022 è crollato dopo che le forze governative, con appoggio aereo saudita, hanno lanciato a inizio ottobre un'offensiva per riprendere il controllo dello stretto di Bab el-Mandeb. Da allora gli Houthi rispondono con settimane di missili e droni: l'11 ottobre un attacco a Riyadh ha causato la morte di 12 persone, il più letale sul Regno in oltre un decennio, seguito dai raid su Aramco.",
@@ -20269,6 +21022,217 @@ window.EDIZIONI["2026-10-16"] = {
     "South Korea"
    ],
    "pt": []
+  },
+  "z0f3307e0": {
+   "n": "Bucheon",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z5afa5424": {
+   "n": "Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zd80e577b": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z504d24bc": {
+   "n": "Pakistan",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zc7a92ec4": {
+   "n": "Malaysia",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zadc974cb": {
+   "n": "Giamaica",
+   "p": [
+    "Jamaica"
+   ],
+   "pt": []
+  },
+  "z6ba50c26": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zaae56f81": {
+   "n": "Kazakistan",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "ze10eac67": {
+   "n": "Kashkadarya",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zcc96be9b": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z57997ef3": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z45c281e9": {
+   "n": "Medina",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z0fc87877": {
+   "n": "Kirghizistan",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z513cb0da": {
+   "n": "Kumamoto, Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zfc66e182": {
+   "n": "Toyama, Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z66a2b925": {
+   "n": "Washington, Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0e07c450": {
+   "n": "Giacarta, Indonesia",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "z5bff1600": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z638b70e3": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z49533930": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z0123aa66": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "zff020c81": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z05f6ae27": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "zac40e79b": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zb45f7b4f": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z3633967c": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zaf599922": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "za526a367": {
+   "n": "Puerto Quetzal, Guatemala",
+   "p": [
+    "Guatemala"
+   ],
+   "pt": []
+  },
+  "z10b82428": {
+   "n": "Mondo",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf29ea584": {
+   "n": "Confine Guatemala-El Salvador",
+   "p": [
+    "Guatemala",
+    "El Salvador"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -20694,7 +21658,7 @@ window.EDIZIONI["2026-10-16"] = {
   "ze17b39fe": 1,
   "z5efa45b2": 1,
   "z74638d7a": 1,
-  "z18f96ea0": 1,
+  "z18f96ea0": 2,
   "z9c2634de": 1,
   "z43eaf0f1": 1,
   "z68c2f519": 1,
@@ -20845,7 +21809,37 @@ window.EDIZIONI["2026-10-16"] = {
   "z31404e19": 1,
   "za6e25e49": 1,
   "zde716463": 1,
-  "z8dd07fa1": 1
+  "z8dd07fa1": 1,
+  "z0f3307e0": 1,
+  "z5afa5424": 1,
+  "zd80e577b": 1,
+  "z504d24bc": 2,
+  "zc7a92ec4": 1,
+  "zadc974cb": 1,
+  "z6ba50c26": 1,
+  "zaae56f81": 1,
+  "ze10eac67": 1,
+  "zcc96be9b": 1,
+  "z57997ef3": 1,
+  "z45c281e9": 2,
+  "z0fc87877": 1,
+  "z513cb0da": 1,
+  "zfc66e182": 1,
+  "z66a2b925": 1,
+  "z0e07c450": 1,
+  "z5bff1600": 1,
+  "z638b70e3": 1,
+  "z49533930": 1,
+  "z0123aa66": 1,
+  "zff020c81": 1,
+  "z05f6ae27": 1,
+  "zac40e79b": 1,
+  "zb45f7b4f": 1,
+  "z3633967c": 1,
+  "zaf599922": 1,
+  "za526a367": 1,
+  "z10b82428": 1,
+  "zf29ea584": 1
  },
  "video": {},
  "pillole": []
