@@ -1355,6 +1355,15 @@ window.EDIZIONI["2026-10-16"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-16T03:02+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/aprehenden-exfiscal-paz-luis-carlos-torrez-quien-denuncia-persecucion-politica/20261015233041997682.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-15T23:30-04:00"
     }
    ],
    "data": "16 ott",
@@ -2591,30 +2600,6 @@ window.EDIZIONI["2026-10-16"] = {
      "angolo": "",
      "atlas": "Suriname",
      "t": "2026-10-16T00:24+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "09:07",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z241daa12",
-   "sez": "mondo",
-   "titolo": "Bolivia, arrestato l'ex procuratore di La Paz Luis Carlos Torrez",
-   "orig": "Aprehenden al exfiscal de La Paz, Luis Carlos Torrez, quien denuncia persecución política",
-   "lead": "L'ex procuratore dipartimentale di La Paz, Luis Carlos Torrez, è stato arrestato giovedì nell'ambito delle indagini collegate all'ex procuratore generale Roger Mariaca. Torrez ha definito \"illegale\" l'arresto, denunciando una persecuzione politica nei suoi confronti. Lo riferisce Opinión.",
-   "more": [
-    "Le indagini legate a Roger Mariaca riguardano presunti abusi nella gestione della procura boliviana; casi di arresti di ex funzionari giudiziari in Bolivia sono spesso accompagnati da accuse incrociate di persecuzione politica."
-   ],
-   "fonti": [
-    {
-     "n": "Opinión (Bolivia)",
-     "p": "XX",
-     "c": "La Paz",
-     "u": "https://www.opinion.com.bo/pais/aprehenden-exfiscal-paz-luis-carlos-torrez-quien-denuncia-persecucion-politica/20261015233041997682.html",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-15T23:30-04:00"
     }
    ],
    "data": "16 ott",
@@ -6394,7 +6379,7 @@ window.EDIZIONI["2026-10-16"] = {
   },
   {
    "id": "zab864545",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "L'Orchestra Cinese di Hong Kong conquista generazioni diverse di pubblico",
    "orig": "More than music: Hong Kong Chinese Orchestra strikes a chord across generations",
    "lead": "La Hong Kong Chinese Orchestra lavora da quasi cinquant'anni per portare la musica cinese a un pubblico più ampio, incluse persone che altrimenti non avrebbero mai pensato di entrare in una sala da concerto. La direttrice esecutiva Celina Chin Man-wah ha spiegato che l'orchestra ha sempre cercato di evitare che la musica cinese fosse percepita come lontana, formale o difficile da capire, commissionando nuove opere e programmi per un pubblico giovane. Lo riferisce South China Morning Post.",
@@ -10841,7 +10826,7 @@ window.EDIZIONI["2026-10-16"] = {
   },
   {
    "id": "z723b7d61",
-   "sez": "tech",
+   "sez": "mondo",
    "titolo": "Si ferma il progetto franco-tedesco del carro armato del futuro, si allontana la difesa comune europea",
    "orig": "Addio al carro armato del futuro franco-tedesco, difesa comune europea sempre più lontana",
    "lead": "Il progetto comune franco-tedesco per il carro armato del futuro, destinato a sostituire i Leclerc francesi, si è arenato a causa di divisioni tra Francia e Germania. La battuta d'arresto arriva dopo il fallimento del caccia comune FCAS, segnando un'ulteriore difficoltà per l'ambizione di costruire insieme sistemi d'arma avanzati e allontanando ulteriormente la prospettiva di una difesa comune europea.",
@@ -11147,7 +11132,7 @@ window.EDIZIONI["2026-10-16"] = {
   },
   {
    "id": "z27d93381",
-   "sez": "economia",
+   "sez": "organizzazioni",
    "titolo": "L'UE resiste ai tentativi di indebolire le norme sulle emissioni mentre i leader litigano sui costi energetici",
    "orig": "EU resists bid to weaken emissions rules as leaders spar over energy costs",
    "lead": "L'Unione Europea ha respinto i tentativi di alcuni Stati membri di ammorbidire le regole sulle emissioni, mentre i leader europei si confrontano sul tema dei costi energetici. Nella stessa newsletter viene segnalato anche il rebranding del think tank di Bruxelles preferito dal premier ungherese Viktor Orbán. Lo riferisce Financial Times.",
@@ -13125,7 +13110,7 @@ window.EDIZIONI["2026-10-16"] = {
   },
   {
    "id": "z6d945403",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Angèle, il nuovo album «Instinct» per conquistare il pubblico oltre il Belgio",
    "orig": "Angèle: Instinct review – Belgium’s biggest star is determined to do pop differently",
    "lead": "La cantante belga Angèle, già star nel suo paese ma meno conosciuta altrove, pubblica per RCA il terzo album «Instinct», con la collaborazione di Justice, Soulwax e Caroline Polachek, in un tentativo di allargare la propria popolarità internazionale. Secondo Le Monde, l'artista ha scelto suoni più radicali e un'urgenza nuova rispetto agli esordi allegri, lasciando parlare «le viscere» e la voce interiore senza smussare gli angoli, pur mantenendo ritornelli orecchiabili che riflettono un mondo percepito come caotico.",
@@ -13824,7 +13809,7 @@ window.EDIZIONI["2026-10-16"] = {
   },
   {
    "id": "z71a01480",
-   "sez": "economia",
+   "sez": "sport",
    "titolo": "JOJ Dakar 2026: finiture, budget ed eredità, parla Mamadou Diagna Ndiaye",
    "orig": "JOJ « DAKAR 2026 »: Finitions, budget, héritage… Mamadou Diagna Ndiaye lève le voile",
    "lead": "A due settimane dall'apertura dei Giochi olimpici giovanili, fissata per il 31 ottobre alle 17 a Diamniadio, Mamadou Diagna Ndiaye, presidente del comitato organizzatore, ha illustrato in un'intervista al quotidiano Le Soleil lo stato dei preparativi, il finanziamento e gli obiettivi dell'evento. L'intervista uscirà venerdì 16 ottobre 2026 nell'edizione a stampa. Nello stesso contesto, il network internazionale Africa Sports Nexus, con sede a Parigi, organizzerà domenica 1° novembre a Dakar una cena di networking con 25-30 membri e attori del sport africano per discutere dell'eredità dei Giochi.",
@@ -16351,7 +16336,6 @@ window.EDIZIONI["2026-10-16"] = {
   "z85b4aae0": "De Ware Tijd riporta la posizione di Abdoelgafoer sulla propria candidatura e sull'eredità di Bouterse.",
   "zd879dcc1": "De Ware Tijd sottolinea la risonanza internazionale dell'omaggio, estesa anche al Suriname e ai Paesi Bassi.",
   "z5da0b878": "De Ware Tijd riporta la comunicazione ufficiale della banca ai propri clienti.",
-  "z241daa12": "Opinión dà spazio alla replica di Torrez, che denuncia la natura politica del provvedimento.",
   "z317016b0": "Opinión riporta la posizione critica di Morales verso l'attuale governo boliviano.",
   "z2c9d5f70": "Opinión descrive l'ampliamento geografico del fenomeno migratorio verso il Cile.",
   "z3e7b6777": "San Marino RTV riporta le dichiarazioni dei giocatori dopo l'incontro.",
@@ -20953,13 +20937,6 @@ window.EDIZIONI["2026-10-16"] = {
    ],
    "pt": []
   },
-  "z241daa12": {
-   "n": "La Paz",
-   "p": [
-    "Bolivia"
-   ],
-   "pt": []
-  },
   "z317016b0": {
    "n": "La Paz",
    "p": [
@@ -21800,7 +21777,6 @@ window.EDIZIONI["2026-10-16"] = {
   "z85b4aae0": 1,
   "zd879dcc1": 1,
   "z5da0b878": 1,
-  "z241daa12": 1,
   "z317016b0": 1,
   "z2c9d5f70": 1,
   "z3e7b6777": 1,
