@@ -3,6 +3,150 @@ window.EDIZIONI["2026-10-16-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zcbc77da2",
+   "sez": "mondo",
+   "titolo": "Nuovi scontri con la polizia durante la protesta dei manifestanti attorno alla sede del governo albanese",
+   "orig": "Nuevos choques con la Policía al rodear los manifestantes la sede del Gobierno albanés",
+   "lead": "Si sono verificati nuovi scontri con le forze di polizia quando i manifestanti hanno circondato la sede del governo albanese. La protesta ha generato tensioni e momenti di forte animazione nei pressi degli edifici istituzionali. Lo riferisce ABC Color.",
+   "more": [
+    "Le manifestazioni di piazza attorno agli edifici governativi rappresentano una forma di contestazione politica che può talvolta degenerare in attriti e scontri con le forze dell'ordine preposte alla sicurezza pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/nuevos-choques-con-la-policia-al-rodear-los-manifestantes-la-sede-del-gobierno-albanes/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T15:11+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:00",
+   "uscita": "17"
+  },
+  {
+   "id": "z81a10bd4",
+   "sez": "mondo",
+   "titolo": "Coprifuoco: il governo punta a estenderlo a tutto il Paese e ad inasprire le sanzioni per porto d'armi offensive",
+   "orig": "Couvre-feu : le gouvernement veut permettre son extension à tout le pays et durcir les sanctions pour port d’arme offensive",
+   "lead": "Il governo intende estendere le misure di coprifuoco all'intero territorio nazionale e rendere più severe le sanzioni penali previste per il porto illegale di armi offensive. La proposta mira a rafforzare la sicurezza pubblica. Lo riferisce Defimedia.",
+   "more": [
+    "Il coprifuoco è una misura restrittiva della circolazione disposta dalle autorità in situazioni di grave emergenza o disordine pubblico per ristabilire l'ordine e proteggere i cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/couvre-feu-le-gouvernement-veut-permettre-son-extension-tout-le-pays-et-durcir-les-sanctions-pour",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T19:11+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:00",
+   "uscita": "17"
+  },
+  {
+   "id": "z62c191d8",
+   "sez": "mondo",
+   "titolo": "Disordini: 151 persone arrestate, tra cui 16 minori, dal 12 ottobre",
+   "orig": "Troubles : 151 personnes arrêtées, dont 16 mineurs, depuis le 12 octobre",
+   "lead": "Le autorità hanno eseguito un totale di 151 arresti, compresi 16 minori, nel quadro degli interventi legati ai disordini scoppiati a partire dallo scorso 12 ottobre. Lo riferisce Defimedia.",
+   "more": [
+    "Le forze dell'ordine procedono ad arresti mirati durante le proteste e i disordini di piazza per identificare i responsabili di atti di violenza, saccheggio o violazione delle norme di ordine pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/troubles-151-personnes-arretees-dont-16-mineurs-depuis-le-12-octobre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T19:02+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:00",
+   "uscita": "17"
+  },
+  {
+   "id": "zb10741a9",
+   "sez": "mondo",
+   "titolo": "Politica: Sydney Pierre si dimette dal PTr e lascia la maggioranza di governo",
+   "orig": "Politique : Sydney Pierre démissionne du PTr et quitte les rangs de la majorité gouvernementale",
+   "lead": "Sydney Pierre ha formalizzato le proprie dimissioni dal Partito Laburista (PTr) e ha annunciato l'abbandono dei ranghi della maggioranza parlamentare che sostiene il governo. Lo riferisce Defimedia.",
+   "more": [
+    "Nel sistema politico parlamentare, le dimissioni di un deputato e la sua uscita dalla maggioranza possono alterare gli equilibri numerici all'interno dell'assemblea legislativa."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/politique-sydney-pierre-demissionne-du-ptr-et-quitte-les-rangs-de-la-majorite-gouvernementale",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T18:30+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:00",
+   "uscita": "17"
+  },
+  {
+   "id": "z8ce7a1d8",
+   "sez": "mondo",
+   "titolo": "Poste-de-Flacq: bambino di due anni in terapia intensiva dopo aver ingerito metadone",
+   "orig": "Poste-de-Flacq : un enfant de deux ans aux soins intensifs après avoir avalé de la méthadone",
+   "lead": "Un bambino di due anni è ricoverato nel reparto di terapia intensiva a Poste-de-Flacq in seguito all'ingestione accidentale di metadone. Le sue condizioni di salute sono monitorate dai medici. Lo riferisce Defimedia.",
+   "more": [
+    "Il metadone è un farmaco oppiaceo utilizzato nei programmi di disintossicazione; la sua assunzione accidentale da parte dei bambini rappresenta un'intossicazione grave che richiede cure ospedaliere urgenti."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/poste-de-flacq-un-enfant-de-deux-ans-aux-soins-intensifs-apres-avoir-avale-de-la-methadone",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T17:47+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:00",
+   "uscita": "17"
+  },
+  {
+   "id": "z20ef2a86",
+   "sez": "mondo",
+   "titolo": "Educazione: ripresa delle lezioni scolastiche prevista per lunedì 19 ottobre",
+   "orig": "Éducation : reprise des classes ce lundi 19 octobre",
+   "lead": "Le attività didattiche e le lezioni scolastiche riprenderanno regolarmente lunedì 19 ottobre, dopo la pausa o la sospensione legata agli eventi recenti. Lo riferisce Defimedia.",
+   "more": [
+    "La riapertura delle scuole segna il ritorno alla normalità per le istituzioni educative e per le famiglie dopo periodi di interruzione dovuti a emergenze o festività."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/education-reprise-des-classes-ce-lundi-19-octobre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T17:33+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:00",
+   "uscita": "17"
+  },
+  {
    "id": "z71ce9961",
    "sez": "mondo",
    "titolo": "Presidente di Pdvsa: l'accordo petrolifero con gli Stati Uniti è già in vigore e operativo",
@@ -30525,7 +30669,13 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z4e1a7453": "La testata evidenzia le dichiarazioni del capo dello Stato sulla priorità strategica dell'autosufficienza e della sicurezza alimentare.",
   "z694a9f77": "La testata pone l'attenzione sulla conclusione del dibattimento processuale e sull'attesa per il verdetto dei giudici.",
   "zec1f2b67": "La testata dà risalto all'investimento immobiliare statale e alla cifra stanziata per l'acquisizione del terreno.",
-  "z93d78bdd": "La testata evidenzia la partecipazione del governo maldiviano a un vertice internazionale incentrato sul capitale umano e le politiche ambientali."
+  "z93d78bdd": "La testata evidenzia la partecipazione del governo maldiviano a un vertice internazionale incentrato sul capitale umano e le politiche ambientali.",
+  "zcbc77da2": "La testata ABC Color evidenzia il clima di tensione e gli scontri avvenuti durante la protesta antigovernativa.",
+  "z81a10bd4": "La testata Defimedia pone l'accento sulla stretta governativa riguardante sicurezza e misure restrittive.",
+  "z62c191d8": "La testata Defimedia evidenzia il bilancio numerico dei fermi effettuati dalle forze di sicurezza.",
+  "zb10741a9": "La testata Defimedia sottolinea la decisione del politico di lasciare partito e maggioranza.",
+  "z8ce7a1d8": "La testata Defimedia riporta la notizia di cronaca locale focalizzandosi sulle condizioni del minore.",
+  "z20ef2a86": "La testata Defimedia dà notizia del calendario per la ripresa della didattica."
  },
  "contesti": {
   "z1838bc4e": "Nei giorni precedenti erano emerse le polemiche sul piano segreto di Infantino per vendere quote del Mondiale a investitori privati, poi abbandonato, e sulle critiche al premio per la pace Fifa assegnato a Trump, ritenuto eccessivamente politicizzato dai membri del consiglio.",
@@ -38936,6 +39086,48 @@ window.EDIZIONI["2026-10-16-sera"] = {
     "Maldives"
    ],
    "pt": []
+  },
+  "zcbc77da2": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z81a10bd4": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z62c191d8": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "zb10741a9": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z8ce7a1d8": {
+   "n": "Poste-de-Flacq",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z20ef2a86": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -40107,7 +40299,13 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z4e1a7453": 1,
   "z694a9f77": 1,
   "zec1f2b67": 1,
-  "z93d78bdd": 1
+  "z93d78bdd": 1,
+  "zcbc77da2": 1,
+  "z81a10bd4": 1,
+  "z62c191d8": 1,
+  "zb10741a9": 1,
+  "z8ce7a1d8": 1,
+  "z20ef2a86": 1
  },
  "video": {},
  "pillole": []
