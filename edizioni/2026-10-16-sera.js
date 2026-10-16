@@ -3,6 +3,1341 @@ window.EDIZIONI["2026-10-16-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z97a754c8",
+   "sez": "mondo",
+   "titolo": "Tunisia rafforza l'innovazione agricola per affrontare il cambiamento climatico",
+   "orig": "تونس تعزز الابتكار الفلاحي لمواجهة التغير المناخي وتحقيق الأمن الغذائي",
+   "lead": "La Tunisia punta a rafforzare l'innovazione nel settore agricolo come strumento per contrastare gli effetti del cambiamento climatico e garantire la sicurezza alimentare del Paese. L'iniziativa, riportata dall'emittente tunisina, si inserisce in un più ampio sforzo nazionale di adattamento climatico che coinvolge il comparto agricolo, chiamato a modernizzarsi per rispondere alle sfide ambientali in corso. Lo riferisce Mosaïque FM.",
+   "more": [
+    "La sicurezza alimentare indica la capacità di un Paese di garantire a tutta la popolazione accesso costante a cibo sufficiente e nutriente, un obiettivo sempre più minacciato dagli effetti del cambiamento climatico sulle coltivazioni e sulle risorse idriche nelle regioni nordafricane."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533654/%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D9%8A-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-16T12:02+01:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z1a4be49d",
+   "sez": "mondo",
+   "titolo": "Tataouine, una carovana medica con 33 cardiologi specialisti",
+   "orig": "تطاوين: قافلة طبية بـ33 أستاذا واختصاصيا في أمراض القلب",
+   "lead": "Nella regione di Tataouine, nel sud della Tunisia, è stata organizzata una carovana medica composta da 33 professori e specialisti in malattie cardiache, destinata a offrire visite e assistenza alla popolazione locale. L'iniziativa risponde alla carenza di servizi sanitari specialistici in questa zona periferica del Paese. Lo riferisce Mosaïque FM.",
+   "more": [
+    "Le carovane medesse mediche sono missioni temporanee organizzate da ospedali o associazioni per portare cure specialistiche in aree rurali o periferiche prive di strutture sanitarie adeguate, spesso attraverso la mobilitazione volontaria di medici provenienti dai centri urbani principali."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533651/%D8%AA%D8%B7%D8%A7%D9%88%D9%8A%D9%86-%D9%82%D8%A7%D9%81%D9%84%D8%A9-%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A8%D9%8033-%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%D8%A7-%D9%88%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A3%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D9%82%D9%84%D8%A8",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-16T11:45+01:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z5de35fa8",
+   "sez": "mondo",
+   "titolo": "Carrefour Tunisia e i Villaggi SOS lanciano una raccolta fondi in oltre 100 negozi",
+   "orig": "كارفور تونس وقرى الأطفال «س و س» يطلقان حملة تبرعات بأكثر من 100 مغازة",
+   "lead": "Carrefour Tunisia e l'associazione tunisina dei Villaggi SOS per l'infanzia hanno lanciato una nuova iniziativa di raccolta donazioni presso le casse di oltre 100 negozi della catena. L'operazione punta a coinvolgere i clienti nel sostegno ai bambini accolti dai villaggi, attraverso piccole donazioni raccolte direttamente al momento del pagamento. Lo riferisce Mosaïque FM.",
+   "more": [
+    "I Villaggi SOS per l'infanzia sono una rete internazionale di strutture che accolgono e assistono bambini privi di cure familiari adeguate, offrendo loro un ambiente familiare alternativo e sostegno educativo e sociale nei diversi Paesi in cui operano."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3/1533646/%D9%83%D8%A7%D8%B1%D9%81%D9%88%D8%B1-%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D9%82%D8%B1%D9%89-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B3-%D9%88-%D8%B3-%D9%8A%D8%B7%D9%84%D9%82%D8%A7%D9%86-%D8%AD%D9%85%D9%84%D8%A9-%D8%AA%D8%A8%D8%B1%D8%B9%D8%A7%D8%AA-%D8%A8%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-100-%D9%85%D8%BA%D8%A7%D8%B2%D8%A9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-16T11:29+01:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z99b67be2",
+   "sez": "mondo",
+   "titolo": "RDC, Lambert Mende: «Chi accusava Kabila di collusione col Ruanda non aveva torto»",
+   "orig": "Lambert Mende : « Ceux qui accusaient Kabila de collusion avec le Rwanda n'avaient pas tort »",
+   "lead": "L'ex portavoce dei governi di Joseph Kabila, Lambert Mende, ha espresso giovedì 15 ottobre i suoi «rammarichi» e il suo «cuore pesante» di fronte alla decisione dell'ex presidente congolese di assumere la guida del Fronte per la refondazione della nazione (FRN). Mende ha ammesso che chi accusava Kabila di collusione con il Ruanda non aveva torto. Lo riferisce Actualite.cd.",
+   "more": [
+    "Il Fronte per la refondazione della nazione (FRN) è la nuova formazione politica guidata dall'ex presidente congolese Joseph Kabila, nata in un contesto di forte tensione tra la Repubblica Democratica del Congo e il Ruanda, accusato da Kinshasa di sostenere gruppi armati nell'est del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/16/lambert-mende-ceux-qui-accusaient-kabila-de-collusion-avec-le-rwanda-navaient-pas-tort",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-16T10:24+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zec253f4c",
+   "sez": "mondo",
+   "titolo": "RDC, il portavoce sospeso di Ensemble pour la République si ritira dal partito",
+   "orig": "RDC : Hervé Diakiese, porte-parole suspendu du parti Ensemble pour la République, se met en retrait du parti",
+   "lead": "Hervé Diakiese Kyungu, avvocato del foro di Matadi e portavoce del partito Ensemble pour la République dell'oppositore Moïse Katumbi, in esilio in Francia dal 2024, ha annunciato il suo ritiro temporaneo dal partito. La decisione segue la sua precedente sospensione dal ruolo di portavoce della formazione politica congolese. Lo riferisce Actualite.cd.",
+   "more": [
+    "Ensemble pour la République è il partito di opposizione fondato dall'imprenditore e politico congolese Moïse Katumbi, già governatore della provincia del Katanga, tra i principali oppositori del presidente Félix Tshisekedi nella scena politica della Repubblica Democratica del Congo."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/16/rdc-herve-diakiese-porte-parole-suspendu-du-parti-ensemble-pour-la-republique-se-met-en",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-16T09:59+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zf90fa78c",
+   "sez": "mondo",
+   "titolo": "RDC, nuovi combattimenti tra l'esercito e il FRN a Kibati",
+   "orig": "Walikale : de nouveaux combats éclatent à Kibati entre l'armée et le FRN",
+   "lead": "Nuovi scontri sono scoppiati la mattina di venerdì 16 ottobre a Kibati, nel raggruppamento Luberike, territorio di Walikale, nella provincia del Nord-Kivu, tra le forze armate congolesi e combattenti del Fronte per la refondazione della nazione (FRN), guidato dall'ex presidente Joseph Kabila. Lo riferisce Actualite.cd.",
+   "more": [
+    "Il Nord-Kivu è una provincia dell'est della Repubblica Democratica del Congo, al centro da anni di conflitti armati tra l'esercito regolare e diversi gruppi ribelli, in un contesto segnato anche dalle tensioni tra Kinshasa e il Ruanda."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/16/walikale-de-nouveaux-combats-eclatent-kibati-entre-larmee-et-le-frn",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-16T08:44+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zf63f5dfb",
+   "sez": "mondo",
+   "titolo": "RDC, la presidenza vieta ai suoi membri contatti con l'ambasciata del Belgio",
+   "orig": "RDC : la présidence interdit à ses membres tout contact avec l’ambassade de Belgique",
+   "lead": "Il direttore di gabinetto del presidente congolese Félix Tshisekedi, Anthony Nkinzo Kamole, ha vietato ai membri del gabinetto presidenziale qualsiasi contatto diretto o indiretto con l'ambasciata del Regno del Belgio nella Repubblica Democratica del Congo. La misura riguarda la presidenza e si inserisce in un clima di tensione diplomatica tra i due Paesi. Lo riferisce Actualite.cd.",
+   "more": [
+    "Il Belgio è l'ex potenza coloniale della Repubblica Democratica del Congo e mantiene rapporti diplomatici spesso complessi con Kinshasa, segnati da periodiche tensioni legate alla storia coloniale e alle posizioni assunte da Bruxelles sulle crisi politiche congolesi."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/16/rdc-la-presidence-interdit-ses-membres-tout-contact-avec-lambassade-de-belgique",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-16T08:07+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zd8b90643",
+   "sez": "mondo",
+   "titolo": "RDC, Prince Epenge difende Fayulu e chiede un dialogo nazionale inclusivo dopo la nascita del FRN",
+   "orig": "Création du FRN: Prince Epenge défend Fayulu et insiste sur le dialogue national inclusif",
+   "lead": "Il giorno dopo la creazione del Fronte per la refondazione della nazione (FRN), promosso a Goma dall'ex presidente Joseph Kabila, Prince Epenge, presidente di ADD Congo e portavoce della coalizione Lamuka, ha difeso la posizione dell'oppositore Martin Fayulu e insistito sulla necessità di un dialogo nazionale inclusivo nel Paese. Lo riferisce Actualite.cd.",
+   "more": [
+    "Lamuka è una coalizione dell'opposizione congolese che riunisce diverse personalità politiche critiche verso il governo di Félix Tshisekedi, tra cui Martin Fayulu, ex candidato presidenziale che contesta i risultati delle ultime elezioni nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/16/creation-du-frn-prince-epenge-defend-fayulu-et-insiste-sur-le-dialogue-national-inclusif",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-16T07:56+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z037cd988",
+   "sez": "mondo",
+   "titolo": "Gli Stati Uniti negano l'invio di 600 soldati a Panama riportato dal New York Times",
+   "orig": "EE. UU. desmiente envío de 600 soldados a Panamá publicado por The New York Times",
+   "lead": "Il governo statunitense ha smentito la notizia pubblicata dal New York Times secondo cui 600 soldati americani sarebbero stati inviati a Panama, chiarendo che sono presenti soltanto 120 militari impegnati in attività di formazione temporanea. La precisazione arriva in risposta all'articolo del quotidiano statunitense sulla presenza militare nel Paese centroamericano. Lo riferisce Panamá América.",
+   "more": [
+    "Panama ospita periodicamente personale militare statunitense per programmi di addestramento e cooperazione in materia di sicurezza, un tema sensibile nel Paese centroamericano per il suo passato legato al controllo americano del Canale di Panama."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/mundo/ee-uu-desmiente-envio-de-600-soldados-panama-publicado-por-new-york-times-1267555",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z191361dc",
+   "sez": "mondo",
+   "titolo": "La funivia di Panama City contribuirà alla creazione di posti di lavoro",
+   "orig": "Teleférico contribuirá con la generación de empleo",
+   "lead": "L'opera della nuova funivia di Panama City, la cui ordine di avvio dei lavori è stata consegnata giovedì, collegherà la capitale al distretto di San Miguelito attraverso un percorso di 6,6 chilometri. Il progetto è presentato come un contributo alla generazione di impiego nel Paese. Lo riferisce Panamá América.",
+   "more": [
+    "San Miguelito è un distretto densamente popolato dell'area metropolitana di Panama City, spesso interessato da problemi di congestione del traffico, per il quale le nuove infrastrutture di trasporto pubblico puntano a offrire collegamenti più rapidi con il centro della capitale."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/economia/teleferico-contribuira-con-la-generacion-de-empleo-1267561",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z7e2e3760",
+   "sez": "mondo",
+   "titolo": "Capo Verde, Mário Almeida nuovo presidente del consiglio d'amministrazione della TACV",
+   "orig": "Mário Almeida é o novo PCA da TACV: Estado recompõe órgãos sociais e define estratégia para o triénio 2026-2028",
+   "lead": "L'Assemblea Generale Ordinaria della compagnia aerea capoverdiana TACV, in programma venerdì 16 ottobre a Praia, dovrebbe confermare Mário Alberto Lopes Almeida come nuovo Presidente del Consiglio di Amministrazione. La decisione fa parte delle misure volte ad adeguare la governance societaria al quadro legale vigente e a definire la strategia aziendale per il triennio 2026-2028. Lo riferisce A Nação.",
+   "more": [
+    "La TACV è la compagnia aerea di bandiera di Capo Verde, controllata dallo Stato, che garantisce i collegamenti aerei tra le diverse isole dell'arcipelago e con l'estero, un servizio strategico per un Paese insulare dipendente dai trasporti aerei."
+   ],
+   "fonti": [
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/16/mario-almeida-e-o-novo-pca-da-tacv-estado-recompoe-orgaos-sociais-e-define-estrategia-para-o-trienio-2026-2028/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-16T10:44+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zf3401a8f",
+   "sez": "mondo",
+   "titolo": "Haiti, l'avanguardia dell'esercito del Bangladesh in partenza per il Paese",
+   "orig": "Haïti - FLASH : L'avant-garde de l'armée du Bangladesh en route pour Haïti",
+   "lead": "La direzione delle relazioni pubbliche interforze del Bangladesh ha confermato che una squadra avanzata composta da 50 militari, provenienti da cinque contingenti dell'esercito bengalese, è partita per Haiti giovedì 15 ottobre per unirsi alla Forza di risposta di Gang (FRG). Lo riferisce Haïti Libre.",
+   "more": [
+    "La Forza di risposta di Gang è la missione internazionale di sicurezza autorizzata per contrastare le bande armate che controllano ampie zone di Haiti, Paese caraibico attraversato da anni da una grave crisi di sicurezza e dal collasso delle istituzioni statali."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48673-haiti-flash-l-avant-garde-de-l-armee-du-bangladesh-en-route-pour-haiti.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-16T06:12-04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "ze7719726",
+   "sez": "mondo",
+   "titolo": "Suriname, apertura dell'anno formativo militare: «Conoscete il vostro Paese»",
+   "orig": "Opening opleidingsjaar IDO: ‘Militairen, leer uw land kennen’",
+   "lead": "Durante l'apertura dell'anno formativo 2026-2027 di un istituto militare in Suriname, il relatore principale Chas Mijnals ha affermato che un militare non deve limitarsi a conoscere il proprio mestiere, ma anche comprendere il motivo per cui serve il suo Paese, sottolineando che chi non conosce la propria nazione non può comprenderne pienamente le responsabilità. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/opening-opleidingsjaar-ido-militairen-leer-uw-land-kennen/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-16T11:03+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zbf1dbc60",
+   "sez": "mondo",
+   "titolo": "Suriname, un tratto della Slangenhoutstraat chiuso per una settimana",
+   "orig": "Deel Slangenhoutstraat week afgesloten",
+   "lead": "Il tratto della Slangenhoutstraat, a Paramaribo, compreso tra la Hernhutterstraat e la Van 't Hogerhuysstraat, sarà chiuso al traffico a partire da venerdì sera per lavori di scavo e di manutenzione delle condutture fognarie. La chiusura, comunicata dalla polizia surinamese, inizierà alle sette di sera e dovrebbe concludersi entro il 22 ottobre. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/deel-slangenhoutstraat-week-afgesloten/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-16T10:01+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z8204de7e",
+   "sez": "mondo",
+   "titolo": "Suriname e Guyana, il mondo degli affari riconosce la necessità di collaborare",
+   "orig": "Business community erkent: ‘Samenwerking tussen Suriname en Guyana is noodzaak’",
+   "lead": "L'ambasciatore della Guyana in Suriname, Virjanand Depoo, ha espresso entusiasmo durante un evento a Paramaribo per i progressi nella cooperazione tra i due Paesi, chiedendosi retoricamente se dieci anni fa qualcuno avrebbe immaginato lo sviluppo attuale delle relazioni economiche tra Suriname e Guyana. Il mondo degli affari presente ha riconosciuto la collaborazione come una necessità. Lo riferisce De Ware Tijd.",
+   "more": [
+    "Suriname e Guyana sono due Paesi confinanti del Sud America con risorse naturali, tra cui petrolio e gas, che negli ultimi anni hanno rafforzato i legami economici regionali in un contesto di crescente sviluppo delle rispettive economie."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/business-community-erkent-samenwerking-tussen-suriname-en-guyana-is-noodzaak/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-16T08:55+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z8bf2e0c7",
+   "sez": "mondo",
+   "titolo": "Suriname, bruciati 155 chilogrammi di droga sequestrata a Kraka",
+   "orig": "155 Kilogram drugs verbrand te Kraka",
+   "lead": "La Narcotics Brigade del Suriname ha bruciato giovedì 155 chilogrammi di sostanze stupefacenti a Kraka, nel distretto di Para. Si tratta di droghe sequestrate tra il 13 giugno e il 14 ottobre, tra cui 46,6 chilogrammi di cocaina solida, nove litri di cocaina liquida, 17,9 chilogrammi di marijuana, 76,6 chilogrammi di hashish, 472 pastiglie di ecstasy e altre sostanze. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/155-kilogram-drugs-verbrand-te-kraka/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-16T08:05+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z53fc0e6f",
+   "sez": "prima",
+   "titolo": "Zelensky cerca il sostegno dell'Ue mentre Trump lo definisce «più difficile di Putin»",
+   "orig": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha cercato di rafforzare il sostegno europeo in vista di un vertice dei leader dell'Ue a Bruxelles, mentre il presidente americano Donald Trump ha lanciato nuove critiche contro di lui, definendolo «più difficile da trattare di Putin» e dicendo di non essere «un grande fan» suo. Trump ha inoltre definito «una vergogna» la ripresa degli attacchi ucraini contro le raffinerie petrolifere russe, dopo il crollo di una tregua energetica tra i due Paesi.",
+   "more": [
+    "Dall'inizio dell'invasione russa dell'Ucraina, Trump ha più volte alternato posizioni critiche verso entrambe le parti, mentre l'Ue continua a discutere il sostegno militare ed economico a Kyiv. Le raffinerie russe sono un obiettivo strategico ucraino per colpire le entrate energetiche di Mosca che finanziano lo sforzo bellico."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c58jz174w89ro",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T10:37+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T10:01+00:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ukraine/2026/1016/1595586-ukraine-disgrace/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-16T03:15+01:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/16/trump-calls-zelensky-more-difficult-to-deal-with-than-putin-says-he-s-not-a-big-fan",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-16T10:45+03:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/16/kremlin-fully-agrees-with-trumps-zelensky-criticism-a94000",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-16T14:14+03:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/16/russia-repels-644-ukrainian-drones-as-trump-calls-attacks-on-russian-refineries-disgrace-a93997",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-16T11:45+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z6e819005",
+   "sez": "sport",
+   "titolo": "Jodar si scusa per aver imprecato contro una raccattapalle a Shanghai",
+   "orig": "Jodar apologises for swearing at ball kid in Shanghai",
+   "lead": "Il tennista Jodar ha pubblicamente chiesto scusa dopo aver imprecato contro una giovane raccattapalle durante un torneo a Shanghai. L'episodio, avvenuto in campo, ha suscitato reazioni e lo stesso giocatore ha voluto chiarire pubblicamente il proprio comportamento scusandosi per l'accaduto. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/jodar-apologises-swearing-ball-kid-in-shanghai-6465821",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T19:07+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zb872a8d0",
+   "sez": "tech",
+   "titolo": "La Germania presenterà la prossima settimana un accordo con Nvidia sull'IA",
+   "orig": "Germany to unveil Nvidia AI agreement next week, government sources say",
+   "lead": "Secondo fonti governative citate da CNA, la Germania renderà pubblico la prossima settimana un accordo con il colosso statunitense dei chip Nvidia riguardante l'intelligenza artificiale. Non sono stati forniti ulteriori dettagli sui contenuti specifici dell'intesa in attesa dell'annuncio ufficiale. Lo riferisce CNA.",
+   "more": [
+    "Nvidia è l'azienda statunitense leader mondiale nella produzione di chip utilizzati per l'addestramento di sistemi di intelligenza artificiale, diventata negli ultimi anni protagonista di accordi strategici con governi e aziende per lo sviluppo di infrastrutture tecnologiche nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/germany-unveil-nvidia-ai-agreement-next-week-government-sources-say-6465816",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T19:02+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zd831a649",
+   "sez": "tech",
+   "titolo": "Le azioni di Besi scendono dopo le voci su un prodotto rivale di ASML",
+   "orig": "Besi shares fall on report ASML is working on rival hybrid bonding product",
+   "lead": "Le azioni della società Besi sono calate in seguito a un rapporto secondo cui la concorrente olandese ASML starebbe lavorando a un prodotto rivale nel settore dell'hybrid bonding, una tecnologia utilizzata nella produzione di semiconduttori. La notizia ha pesato sul titolo in borsa. Lo riferisce CNA.",
+   "more": [
+    "L'hybrid bonding è una tecnica avanzata usata nella fabbricazione di chip per connettere più strati di semiconduttori con maggiore precisione ed efficienza, un segmento in forte crescita nell'industria dei microchip di cui ASML è uno dei principali produttori mondiali di apparecchiature."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/besi-shares-fall-report-asml-working-rival-hybrid-bonding-product-6465781",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T18:51+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z88cea30a",
+   "sez": "mondo",
+   "titolo": "Sudafrica, inchiesta sul partito MKP: appalti e finanziamenti al centro del caso Ngobese-Zuma",
+   "orig": "Watch — Ngobese-Zuma’s March and March: Tenders, funding and MKP",
+   "lead": "Un video d'inchiesta del Daily Maverick, intitolato «March and March», esamina il caso di Ngobese-Zuma e affronta temi legati ad appalti pubblici, finanziamenti e il partito MKP in Sudafrica. Il video presenta materiale raccolto dalla redazione sudafricana senza ulteriori dettagli esplicitati nel testo disponibile.",
+   "more": [
+    "L'MKP (uMkhonto weSizwe Party) è un partito politico sudafricano fondato negli ultimi anni, legato alla famiglia dell'ex presidente Jacob Zuma, diventato una forza politica di rilievo nel panorama sudafricano contemporaneo."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/video/2026-10-16-watch-ngobese-zumas-march-and-march-tenders-funding-and-mkp/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-16T11:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z8d29691d",
+   "sez": "economia",
+   "titolo": "La Russia pone altre aziende sotto controllo statale",
+   "orig": "Russland stellt weitere Firmen unter Staatsaufsicht",
+   "lead": "Il governo russo ha posto ulteriori imprese sotto supervisione statale, in una mossa che amplia il controllo pubblico sul tessuto economico del Paese. Il testo disponibile non fornisce ulteriori dettagli sui settori o le aziende coinvolte. Lo riferisce ORF.",
+   "more": [
+    "Negli ultimi anni la Russia ha intensificato il controllo statale su diversi settori strategici dell'economia, spesso giustificato con motivazioni di sicurezza nazionale o in risposta alle sanzioni internazionali imposte dopo l'invasione dell'Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445274/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-16T12:08+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z69a1cc67",
+   "sez": "italia",
+   "titolo": "Voli ritardati e cancellati in Italia dopo problemi tecnici",
+   "orig": "Forsinkede og aflyste fly i Italien efter tekniske problemer",
+   "lead": "Numerosi voli sono stati ritardati o cancellati in Italia a seguito di problemi tecnici che hanno colpito i sistemi aeroportuali del Paese. La situazione ha causato disagi diffusi ai passeggeri coinvolti. Lo riferisce DR Nyheder.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/forsinkede-og-aflyste-fly-i-italien-efter-tekniske-problemer",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-16T08:02+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z864017a8",
+   "sez": "mondo",
+   "titolo": "RDC, la nascita del FRN rilancia il dibattito sulle vie d'uscita dalla crisi",
+   "orig": "La création du FRN relance le débat sur les pistes de sortie de crise en RDC",
+   "lead": "La creazione del Fronte per la refondazione della nazione (FRN), guidato dall'ex presidente Joseph Kabila, ha riacceso il dibattito politico in Repubblica Democratica del Congo sulle possibili strade per risolvere la crisi che attraversa il Paese. Lo riferisce Radio Okapi.",
+   "more": [
+    "La Repubblica Democratica del Congo affronta da anni una crisi politica e di sicurezza complessa, segnata da conflitti nell'est del Paese e da tensioni tra il governo di Félix Tshisekedi e diverse forze di opposizione, inclusa quella legata all'ex presidente Kabila."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/16/emissions/parole-aux-auditeurs/la-creation-du-frn-relance-le-debat-sur-les-pistes-de",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-16T11:05+01:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z202120bf",
+   "sez": "cultura",
+   "titolo": "Corea del Sud, convegno accademico per il 60° anniversario della casa editrice Changbi",
+   "orig": "창비 60돌 ‘한국사상선’ 완간 기념 학술대회…‘문명의 전환과 변혁의 모색’ 주제로",
+   "lead": "In occasione del completamento della collana «Pensiero coreano» e del 60° anniversario della casa editrice Changbi, è stato organizzato un convegno accademico dedicato al tema della transizione civilizzazionale e della ricerca del cambiamento. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Changbi è una delle principali case editrici sudcoreane, storicamente legata alla pubblicazione di opere letterarie e di saggistica impegnata, con un ruolo rilevante nella diffusione del pensiero intellettuale coreano moderno."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/culture/religion/1282817.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z7a16f3ab",
+   "sez": "sport",
+   "titolo": "Judo, Lee Hyun-ji vince l'oro nei 78+ kg in 9 secondi ai Giochi nazionali coreani",
+   "orig": "‘9초’ 만에 한판 승…유도 여자 78㎏ 이상 이현지, 전국체전 금",
+   "lead": "La judoka Lee Hyun-ji ha conquistato la medaglia d'oro nella categoria oltre 78 kg femminile ai Giochi sportivi nazionali della Corea del Sud, vincendo il suo incontro decisivo in appena 9 secondi. Lo riferisce The Hankyoreh.",
+   "more": [
+    "I Giochi sportivi nazionali coreani sono una delle principali competizioni multisportive del Paese, dove atlete e atleti di tutte le regioni si confrontano in numerose discipline, incluso il judo."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/sports/sports_general/1282814.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z9efc0119",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, funzionario pubblico arrestato per aver venduto dati di residenti a una banda di recupero crediti",
+   "orig": "7급 공무원 구속 송치…보복대행 일당에 수수료 받고 주민 정보 넘겨",
+   "lead": "Un funzionario pubblico di settimo livello in Corea del Sud è stato arrestato e rinviato a giudizio per aver ceduto informazioni personali di residenti a una banda che si occupava di recupero crediti per conto terzi, in cambio di commissioni. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/society/society_general/1282810.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z84706535",
+   "sez": "mondo",
+   "titolo": "India, Kharge chiede a Modi un incontro con tutti i partiti sulla legge di delimitazione",
+   "orig": "'Don't try to bulldoze delimitation bill': Kharge tells PM Modi to hold all-party meet",
+   "lead": "Il leader del Congress Mallikarjun Kharge ha chiesto al premier indiano Narendra Modi di non 'forzare' l'approvazione della legge di delimitazione elettorale e di convocare invece un incontro con tutti i partiti politici. Lo riferisce Times of India.",
+   "more": [
+    "La delimitazione è il processo di ridisegno dei confini dei collegi elettorali in base ai dati demografici, una questione politicamente delicata in India per il suo impatto sulla rappresentanza regionale in parlamento."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/dont-try-to-bulldoze-another-constitutional-amendment-bill-kharge-writes-to-pm-modi/articleshow/134990356.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T15:54+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zf77384b0",
+   "sez": "viaggi",
+   "titolo": "Umm Al Quwain annuncia le date e le regole dei permessi per il campeggio invernale",
+   "orig": "UAE winter camping: Umm Al Quwain announces permit dates and rules",
+   "lead": "L'emirato di Umm Al Quwain, negli Emirati Arabi Uniti, ha annunciato le date e le regole per i permessi di campeggio invernale, in vista della stagione in cui molte famiglie e turisti scelgono di campeggiare nel deserto e sulle coste locali. Lo riferisce Gulf News.",
+   "more": [
+    "Umm Al Quwain è uno dei sette emirati che compongono gli Emirati Arabi Uniti, noto per le sue spiagge e aree desertiche frequentate durante la stagione invernale per il campeggio."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/uae-winter-camping-umm-al-quwain-announces-permit-dates-and-rules-1.500713039",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-16T14:36+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z5e0aa3fd",
+   "sez": "salute",
+   "titolo": "Quasi mille bambini hanno ricevuto cure medico specialistiche ad Abu Dhabi",
+   "orig": "Nearly 1,000 children receive specialised medical care in Abu Dhabi",
+   "lead": "Quasi 1.000 bambini hanno ricevuto cure medico specialistiche nella capitale degli Emirati Arabi Uniti, Abu Dhabi, nell'ambito di un'iniziativa sanitaria dedicata ai più piccoli. Lo riferisce Gulf News.",
+   "more": [
+    "Abu Dhabi ha sviluppato negli ultimi anni un sistema sanitario con centri specializzati nella cura pediatrica, spesso in collaborazione con istituzioni internazionali, per garantire assistenza avanzata ai bambini della regione."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/health/nearly-1000-children-receive-specialised-medical-care-in-abu-dhabi-1.500713027",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-16T14:31+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z43866545",
+   "sez": "tech",
+   "titolo": "Un produttore di componenti ottici triplicherà la capacità in Malaysia per far fronte alla carenza legata all'AI",
+   "orig": "Optical parts maker to triple Malaysian capacity to tackle AI supply crunch",
+   "lead": "Un'azienda produttrice di componenti ottici ha annunciato l'intenzione di triplicare la propria capacità produttiva in Malaysia, per rispondere alla crescente domanda legata alla carenza di forniture per l'intelligenza artificiale. Lo riferisce Nikkei Asia.",
+   "more": [
+    "I componenti ottici sono essenziali per le infrastrutture di trasmissione dati ad alta velocità, sempre più richieste dai centri dati che alimentano i modelli di intelligenza artificiale, causando tensioni nella catena di approvvigionamento globale."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z16237eee",
+   "sez": "cultura",
+   "titolo": "Alice Fregoso conquista Francesco Gabbani",
+   "orig": "Alice Fregoso conquista Francesco Gabbani",
+   "lead": "Il cantante Francesco Gabbani è rimasto conquistato da Alice Fregoso, secondo quanto riportato da Sky TG24 in un servizio dedicato all'evento. Lo riferisce Sky TG24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/spettacolo/tv-show/video/2026/10/16/alice-fregoso-x-factor-last-call-1132216",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z251f1a42",
+   "sez": "economia",
+   "titolo": "Uzbekistan avanza nei piani di export di energia verde con Azerbaigian e Kazakistan",
+   "orig": "Uzbekistan advances green power export plans with Azerbaijan, Kazakhstan",
+   "lead": "L'Uzbekistan ha fatto progressi nei piani per l'esportazione di energia verde in collaborazione con Azerbaigian e Kazakistan, nell'ambito di una strategia regionale per lo sviluppo delle rinnovabili in Asia centrale. Lo riferisce Trend.",
+   "more": [
+    "L'Asia centrale sta investendo in progetti di energia rinnovabile, in particolare solare ed eolica, puntando a diventare anche esportatrice di energia verde verso i mercati vicini attraverso nuove interconnessioni regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235755.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T15:07+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z78983fd6",
+   "sez": "mondo",
+   "titolo": "Azerbaigian discute lo sviluppo della CICA con il segretario generale",
+   "orig": "Azerbaijan discusses CICA development with secretary-general (PHOTO)",
+   "lead": "L'Azerbaigian ha discusso con il segretario generale della Conferenza sull'interazione e le misure di rafforzamento della fiducia in Asia (CICA) lo sviluppo futuro dell'organizzazione. Lo riferisce Trend.",
+   "more": [
+    "La CICA è un forum intergovernativo asiatico nato per promuovere la cooperazione in materia di sicurezza e fiducia reciproca tra i Paesi membri del continente asiatico."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/politics/4235732.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T14:37+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z0191c2ac",
+   "sez": "economia",
+   "titolo": "India approva il rinnovo dello swap valutario di 30 miliardi di rupie con le Maldive",
+   "orig": "India approves rollover of INR 30 billion currency swap facility to the Maldives",
+   "lead": "Il governo indiano ha approvato il rinnovo di una linea di swap valutario da 30 miliardi di rupie indiane a favore delle Maldive, un sostegno finanziario bilaterale tra i due Paesi. Lo riferisce Sun Online.",
+   "more": [
+    "Uno swap valutario è un accordo tra banche centrali che permette a un Paese di accedere a valuta estera per stabilizzare la propria economia; l'India è storicamente uno dei principali partner finanziari delle Maldive."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109593",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-16T15:40+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z3170afc8",
+   "sez": "economia",
+   "titolo": "Professionisti indiani all'estero tornano in India a condividere le proprie competenze",
+   "orig": "Coming home: Indian professionals bring their skills back to India",
+   "lead": "Un numero crescente di professionisti indiani che avevano lavorato all'estero sta facendo ritorno in India per metterne a frutto le competenze acquisite, secondo un'inchiesta pubblicata da Sun Online.",
+   "more": [
+    "Il fenomeno della 'reverse migration' riguarda i professionisti che, dopo anni di lavoro all'estero, scelgono di rientrare nel proprio Paese d'origine, spesso attratti da nuove opportunità economiche e dalla crescita dei mercati locali."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109592",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-16T15:18+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zd0967b30",
+   "sez": "mondo",
+   "titolo": "Turchia, tutti i sospettati dell'attentato di Reyhanli del 2013 sono ora in custodia",
+   "orig": "All suspects in 2013 Reyhanli bombings now in custody: Turkish security sources",
+   "lead": "Secondo fonti di sicurezza turche, tutti i sospettati coinvolti negli attentati del 2013 nella città di Reyhanli, al confine con la Siria, sono stati presi in custodia. Lo riferisce Sun Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109589",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-16T14:38+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "za93ebc81",
+   "sez": "mondo",
+   "titolo": "Il ministro degli Esteri delle Maldive in visita ufficiale in Iraq",
+   "orig": "ރަސްމީ ދަތުރުފުޅެއްގައި ޚާރިޖީ ވަޒީރު އިރާޤަށް",
+   "lead": "Il ministro degli Esteri delle Maldive si è recato in Iraq per una visita ufficiale, nell'ambito dei rapporti diplomatici tra i due Paesi. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190333",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-16T15:56+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z4f855548",
+   "sez": "economia",
+   "titolo": "Maldive, l'economia cresce del 2,4% in agosto grazie al settore finanziario",
+   "orig": "މާލީ ދާއިރާގެ ކުރިއެރުމާއެކު އޮގަސްޓު މަހު އިޤްތިޞާދު %2.4 ކުރިއަށް",
+   "lead": "L'economia delle Maldive è cresciuta del 2,4% nel mese di agosto, sostenuta dai progressi nel settore finanziario del Paese. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190331",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-16T14:29+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z280ec582",
+   "sez": "mondo",
+   "titolo": "Il Kirghizistan ospiterà nel 2027 gli incontri di cooperazione mediatica dell'OTS",
+   "orig": "Kyrgyzstan to host OTS media cooperation meetings in 2027",
+   "lead": "Il Kirghizistan ospiterà nel 2027 gli incontri di cooperazione tra i media dei Paesi membri dell'Organizzazione degli Stati Turchi (OTS). Lo riferisce AKIpress.",
+   "more": [
+    "L'Organizzazione degli Stati Turchi è un'organizzazione intergovernativa che riunisce Paesi di lingua e cultura turca, tra cui Turchia, Azerbaigian e diverse repubbliche dell'Asia centrale, per promuovere la cooperazione politica, economica e culturale."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925464",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-16T17:16+06:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zfc25aa88",
+   "sez": "mondo",
+   "titolo": "Kazakistan, il ministero degli Esteri definisce 'prassi standard' la nota russa sull'arresto di Navai",
+   "orig": "Kazakhstan's MFA calls Russian diplomatic note over Navai's arrest 'standard practice'",
+   "lead": "Il ministero degli Affari Esteri del Kazakistan ha definito 'prassi standard diplomatica' la nota di protesta inviata dalla Russia in seguito all'arresto di Navai. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925450",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-16T17:01+06:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "ze6a50b4d",
+   "sez": "cultura",
+   "titolo": "Completata la ricostruzione del complesso di Manas Ordo nella regione di Talas",
+   "orig": "Manas Ordo complex reconstruction completed in Talas region",
+   "lead": "È stata completata la ricostruzione del complesso storico-culturale di Manas Ordo, situato nella regione di Talas, in Kirghizistan. Lo riferisce AKIpress.",
+   "more": [
+    "Manas Ordo è un sito storico-culturale kirghiso legato alla figura leggendaria di Manas, eroe nazionale e protagonista dell'omonima epopea, considerata patrimonio culturale fondamentale del popolo kirghiso."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925445",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-16T16:41+06:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z0c6294df",
+   "sez": "ambiente",
+   "titolo": "Il presidente Japarov propone un fondo da 10 milioni di dollari per salvare il lago Issyk-Kul",
+   "orig": "President Japarov proposes $10M trust fund to save Lake Issyk-Kul",
+   "lead": "Il presidente del Kirghizistan Sadyr Japarov ha proposto la creazione di un fondo fiduciario da 10 milioni di dollari destinato a tutelare il lago Issyk-Kul, uno dei più grandi laghi di montagna del mondo. Lo riferisce AKIpress.",
+   "more": [
+    "Il lago Issyk-Kul è un vasto lago alpino situato nel nord-est del Kirghizistan, tra i più grandi al mondo per volume d'acqua, importante sia dal punto di vista ecologico che turistico per il Paese."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925424",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-16T16:09+06:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z6587761a",
+   "sez": "mondo",
+   "titolo": "Arrestato a Soroti un uomo accusato di essersi finto funzionario anticorruzione",
+   "orig": "Soroti Man Arrested Over Alleged Impersonation of Anti-Corruption Officer",
+   "lead": "Le autorità ugandesi hanno arrestato un uomo nella città di Soroti con l'accusa di essersi spacciato per un funzionario dell'agenzia anticorruzione nazionale. Il sospetto avrebbe usato la falsa identità per intimidire o estorcere persone nella zona. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/crime/379195/soroti-man-arrested-over-alleged-impersonation-of-anti-corruption-officer",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-16T13:29+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z00a8f001",
+   "sez": "ambiente",
+   "titolo": "L'autorità di Kampala valuta di raccogliere gas metano dalla discarica di Buyala",
+   "orig": "KCCA Eyes Methane Gas Harvesting at Buyala Landfill",
+   "lead": "La Kampala Capital City Authority (KCCA) sta valutando un progetto per raccogliere il gas metano prodotto dalla discarica di Buyala, a Kampala, come forma di gestione dei rifiuti e produzione energetica. L'iniziativa fa parte di un più ampio piano per migliorare la gestione dei rifiuti nella capitale ugandese. Lo riferisce Nile Post.",
+   "more": [
+    "Il metano è un gas serra prodotto dalla decomposizione dei rifiuti organici nelle discariche; raccoglierlo riduce l'impatto climatico e può essere riutilizzato come fonte di energia, trasformando un problema ambientale in una risorsa."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/379191/kcca-eyes-methane-gas-harvesting-at-buyala-landfill",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-16T13:27+03:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/379198/kcca-rules-out-buyala-landfill-expansion-plans-integrated-waste-management-facility",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-16T13:33+03:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/379187/kcca-moves-to-establish-waste-recovery-and-gas-extraction-facilities-at-buyala-landfill",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-16T13:24+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z73fc6fce",
+   "sez": "mondo",
+   "titolo": "Nella prefettura di Mie approvata la prima ordinanza nazionale contro gli abusi ai lavoratori con sanzioni penali",
+   "orig": "三重県で全国初の刑事罰付きカスハラ条例案が可決 来年4月施行へ",
+   "lead": "La prefettura giapponese di Mie ha approvato la prima ordinanza del paese contro il 'kasuhara', ossia gli abusi dei clienti verso i lavoratori, che prevede sanzioni penali. L'ordinanza entrerà in vigore ad aprile del prossimo anno. Lo riferisce Asahi Shimbun.",
+   "more": [
+    "Il termine 'kasuhara' (contrazione di 'customer harassment') descrive in Giappone il fenomeno dei comportamenti abusivi o vessatori dei clienti verso il personale di negozi e servizi, un problema sociale sempre più discusso nel paese."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBJ34XSVBJONFB001M.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-16T19:08+09:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z6546c4a0",
+   "sez": "tech",
+   "titolo": "Giappone, in sviluppo i treni di nuova generazione 'serie SO' per la Tokaido-Sanyo Shinkansen, debutto nel 2029",
+   "orig": "東海道・山陽新幹線、次世代車両「SO系」開発へ 29年デビュー",
+   "lead": "Le ferrovie giapponesi stanno sviluppando una nuova generazione di treni ad alta velocità, denominata 'serie SO', destinata alle linee Tokaido e Sanyo Shinkansen. Il debutto dei nuovi convogli è previsto per il 2029. Lo riferisce Asahi Shimbun.",
+   "more": [
+    "Lo Shinkansen è il sistema di treni ad alta velocità giapponese, tra i più avanzati al mondo; le linee Tokaido e Sanyo collegano le principali città del paese, da Tokyo fino al sud dell'arcipelago."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBJ32KFVBJUTIL00MM.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-16T19:00+09:00"
+    },
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/transportation/japan-bullet-trains-to-raise-super-express-fares-in-2027",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zb608491a",
+   "sez": "mondo",
+   "titolo": "Arrestato in Germania un membro del gruppo che nel 2023 attaccò ultradestristi a Budapest",
+   "orig": "Detenido en Alemania un miembro del grupo que atacó en 2023 a ultraderechistas en Budapest",
+   "lead": "Le autorità tedesche hanno arrestato un membro del gruppo accusato di aver compiuto un attacco contro militanti di estrema destra a Budapest nel 2023. L'arresto è avvenuto in Germania, dove il sospetto si trovava. Lo riferisce ABC Color.",
+   "more": [
+    "Nel 2023 un gruppo di militanti antifascisti avrebbe aggredito simpatizzanti di estrema destra riuniti a Budapest per un evento commemorativo, episodio che ha portato a indagini internazionali e richieste di estradizione in diversi paesi europei."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/detenido-en-alemania-un-miembro-del-grupo-que-ataco-en-2023-a-ultraderechistas-en-budapest/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T11:05+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zd34fbb0b",
+   "sez": "mondo",
+   "titolo": "Gli ucraini rientrati nelle loro case rischiano di dover fuggire di nuovo questo inverno, secondo l'OIM",
+   "orig": "Los ucranianos que regresaron a sus hogares podrían volver a huir este invierno, según OIM",
+   "lead": "Secondo l'Organizzazione internazionale per le migrazioni (OIM), molti ucraini che sono tornati nelle proprie case dopo essere fuggiti dalla guerra potrebbero essere costretti a fuggire nuovamente durante il prossimo inverno. L'avvertimento riguarda le condizioni di vita precarie e i rischi legati al conflitto in corso. Lo riferisce ABC Color.",
+   "more": [
+    "L'OIM è l'agenzia delle Nazioni Unite che si occupa di migrazione e sfollamento; in Ucraina segue da anni gli spostamenti di popolazione causati dalla guerra, inclusi i rientri spesso instabili nelle zone colpite dai combattimenti."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/los-ucranianos-que-regresaron-a-sus-hogares-podrian-volver-a-huir-este-invierno-segun-oim/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T11:05+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "ze9f99633",
+   "sez": "mondo",
+   "titolo": "Tebas paragona l'atteggiamento di Real Madrid TV ai meccanismi di propaganda della Germania nazista",
+   "orig": "Tebas compara la actitud de Real MadridTV con mecanismos de propaganda de la Alemania nazi",
+   "lead": "Il presidente della Liga spagnola Javier Tebas ha paragonato l'atteggiamento del canale televisivo Real Madrid TV a meccanismi di propaganda utilizzati nella Germania nazista. La dichiarazione arriva nel contesto delle tensioni tra Tebas e il club madrileno. Lo riferisce ABC Color.",
+   "more": [
+    "Javier Tebas è presidente della Liga, il massimo campionato di calcio spagnolo, e negli anni ha avuto scontri pubblici con il Real Madrid su temi come i diritti televisivi e la governance del calcio europeo."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/16/tebas-compara-la-actitud-de-real-madridtv-con-mecanismos-de-propaganda-de-la-alemania-nazi/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T11:05+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "zb1c56ca2",
+   "sez": "mondo",
+   "titolo": "Mauritius, il coprifuoco frena la vita notturna e l'economia",
+   "orig": "Couvre-feu : la vie nocturne et l’économie au ralenti",
+   "lead": "A Mauritius il coprifuoco imposto dalle autorità sta rallentando la vita notturna e l'attività economica dell'isola. La misura, adottata in un contesto di tensioni sociali, ha avuto un impatto diretto su locali, attività commerciali e lavoratori che dipendono dal turismo notturno. Lo riferisce Defimedia.",
+   "more": [
+    "Mauritius è un'isola dell'Oceano Indiano la cui economia dipende fortemente dal turismo; misure come il coprifuoco, spesso adottate per motivi di ordine pubblico, possono avere ripercussioni significative sui settori legati alla vita notturna e alla ricettività."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/couvre-feu-la-vie-nocturne-et-leconomie-au-ralenti",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T13:00+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z9da54fab",
+   "sez": "mondo",
+   "titolo": "Mauritius, quasi 17.450 tonnellate di canna da zucchero bruciate in tre giorni",
+   "orig": "Canne à sucre : près de 17 450 tonnes brûlées en trois jours",
+   "lead": "A Mauritius sono state bruciate quasi 17.450 tonnellate di canna da zucchero nel corso di tre giorni, secondo dati riportati da Defimedia. L'episodio si inserisce in un contesto di tensioni sociali e disordini che hanno colpito l'isola nelle ultime settimane. Lo riferisce Defimedia.",
+   "more": [
+    "La canna da zucchero è una delle principali colture economiche di Mauritius; incendi di questa portata possono derivare sia da pratiche agricole che da atti dolosi, con un impatto significativo sull'economia agricola dell'isola."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/canne-sucre-pres-de-17-450-tonnes-brulees-en-trois-jours",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T12:52+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z6d04f8c9",
+   "sez": "mondo",
+   "titolo": "Mauritius, le rivolte costano ai commercianti perdite per milioni di rupie",
+   "orig": "Émeutes : les commerces face à des pertes de plusieurs millions de roupies",
+   "lead": "I commercianti di Mauritius stanno affrontando perdite economiche per diversi milioni di rupie a causa dei recenti disordini e rivolte che hanno colpito l'isola. Le attività commerciali segnalano danni diretti e un calo delle vendite legato alle tensioni sociali in corso. Lo riferisce Defimedia.",
+   "more": [
+    "La rupia mauriziana è la valuta ufficiale dell'isola; i commercianti locali, spesso piccole imprese, risultano particolarmente vulnerabili a episodi di instabilità sociale che interrompono le normali attività economiche."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/emeutes-les-commerces-face-des-pertes-de-plusieurs-millions-de-roupies",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T12:10+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
+   "id": "z3f972e11",
+   "sez": "mondo",
+   "titolo": "Panama, il ministero dell'Istruzione valuta lezioni virtuali dopo il sisma mentre si avvicinano 54 mila laptop con IA",
+   "orig": "Meduca evalúa clases virtuales tras el sismo mientras en el horizonte están las 54 mil laptops con IA",
+   "lead": "Il ministero dell'Istruzione di Panama (Meduca) sta valutando l'ipotesi di lezioni virtuali in seguito a un sisma, mentre all'orizzonte si profila la distribuzione di 54 mila laptop dotati di intelligenza artificiale per gli studenti. La misura mira a garantire la continuità didattica nonostante le difficoltà causate dal terremoto. Lo riferisce Panamá América.",
+   "more": [
+    "Meduca è il Ministero dell'Educazione di Panama, responsabile della gestione del sistema scolastico pubblico del paese; la distribuzione di dispositivi tecnologici agli studenti fa parte di programmi di modernizzazione dell'istruzione già in corso in diversi paesi latinoamericani."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/meduca-evalua-clases-virtuales-tras-el-sismo-mientras-en-el-horizonte-estan-las-54-mil",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "13:50",
+   "uscita": "13"
+  },
+  {
    "id": "z84865689",
    "sez": "mondo",
    "titolo": "Paura dell'IA negli Stati Uniti: i data center diventano tema elettorale",
@@ -8724,6 +10059,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Azerbaijan",
      "t": "2026-10-16T14:40+04:00"
+    },
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235746.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T14:48+04:00"
     }
    ],
    "data": "16 ott",
@@ -8993,6 +10337,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-16T10:37+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445279/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-16T12:50+02:00"
     }
    ],
    "data": "16 ott",
@@ -15998,7 +17351,61 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "za627a350": "La testata riporta i dati ufficiali sull'epidemia e sulla distribuzione dei casi per genere.",
   "zaec9e6c9": "La testata riporta l'iniziativa di un partito di opposizione per prevenire irregolarità elettorali.",
   "z5945e740": "La testata presenta un'analisi sui rischi di escalation militare nel Golfo Persico legata a dinamiche elettorali.",
-  "z5c73abe3": "La testata mette in luce il divario di genere nella proprietà della terra nel settore agricolo tunisino."
+  "z5c73abe3": "La testata mette in luce il divario di genere nella proprietà della terra nel settore agricolo tunisino.",
+  "z97a754c8": "L'emittente presenta l'iniziativa come risposta istituzionale alla crisi climatica nel settore agricolo.",
+  "z1a4be49d": "L'emittente sottolinea il numero elevato di specialisti coinvolti nell'iniziativa sanitaria.",
+  "z5de35fa8": "L'emittente evidenzia la portata della campagna, estesa a oltre cento punti vendita.",
+  "z99b67be2": "La testata riporta il gesto critico di un ex fedelissimo di Kabila verso la nuova iniziativa politica dell'ex presidente.",
+  "zec253f4c": "La testata segue le tensioni interne al partito di opposizione dopo la sospensione del suo portavoce.",
+  "zf90fa78c": "La testata documenta la ripresa delle violenze armate nella regione orientale del Paese.",
+  "zf63f5dfb": "La testata segnala un nuovo episodio di tensione diplomatica tra Kinshasa e Bruxelles.",
+  "zd8b90643": "La testata riporta la reazione di un alleato di Fayulu alla nuova iniziativa politica di Kabila.",
+  "z037cd988": "La testata riporta la versione ufficiale americana contro le cifre pubblicate dal New York Times.",
+  "z191361dc": "La testata presenta l'opera sottolineando il suo impatto occupazionale.",
+  "z7e2e3760": "La testata segue da vicino la riorganizzazione della governance della compagnia aerea nazionale.",
+  "zf3401a8f": "La testata segue l'arrivo graduale dei contingenti internazionali destinati alla missione di sicurezza.",
+  "ze7719726": "La testata riporta il messaggio formativo rivolto ai nuovi militari in addestramento.",
+  "zbf1dbc60": "La testata informa i residenti sui disagi temporanei alla viabilità locale.",
+  "z8204de7e": "La testata evidenzia l'entusiasmo diplomatico per l'intensificarsi delle relazioni bilaterali.",
+  "z8bf2e0c7": "La testata documenta l'operazione di distruzione dei sequestri effettuata dalle forze antidroga locali.",
+  "z53fc0e6f": "Le testate confrontano la pressione diplomatica di Zelensky sull'Ue con le critiche crescenti di Trump, mentre il Cremlino sostiene la posizione americana.",
+  "z6e819005": "La testata riporta le scuse ufficiali del giocatore dopo l'episodio in campo.",
+  "zb872a8d0": "La testata anticipa un annuncio governativo basato su fonti ufficiali non ancora confermate pubblicamente.",
+  "zd831a649": "La testata segue l'impatto di borsa delle indiscrezioni sulla concorrenza tecnologica tra le due aziende olandesi.",
+  "z88cea30a": "La testata presenta un'inchiesta video su possibili irregolarità legate ad appalti e finanziamenti del partito.",
+  "z8d29691d": "La testata segnala un'ulteriore espansione del controllo statale sull'economia russa senza fornire dettagli specifici.",
+  "z69a1cc67": "La testata danese riporta i disagi causati dal malfunzionamento tecnico nel sistema aeroportuale italiano.",
+  "z864017a8": "La testata congolese riflette sull'impatto politico della nuova formazione di Kabila sul dibattito nazionale.",
+  "z202120bf": "La testata presenta l'evento come celebrazione culturale e accademica dell'anniversario editoriale.",
+  "z7a16f3ab": "The Hankyoreh evidenzia la rapidità della vittoria come dato di rilievo sportivo.",
+  "z9efc0119": "The Hankyoreh documenta il caso come esempio di corruzione nella pubblica amministrazione legata alla cessione illecita di dati personali.",
+  "z84706535": "Times of India riporta la richiesta dell'opposizione di maggiore condivisione sulla riforma elettorale.",
+  "zf77384b0": "Gulf News informa i residenti sulle nuove regole amministrative per il campeggio stagionale.",
+  "z5e0aa3fd": "Gulf News pone l'accento sull'impatto dell'iniziativa sanitaria sulla popolazione infantile.",
+  "z43866545": "Nikkei Asia evidenzia la corsa degli impianti produttivi asiatici per soddisfare la domanda legata all'AI.",
+  "z16237eee": "Sky TG24 racconta l'episodio come notizia di costume legata al mondo dello spettacolo.",
+  "z251f1a42": "Trend presenta l'iniziativa come parte della cooperazione energetica regionale in Asia centrale.",
+  "z78983fd6": "Trend documenta l'incontro diplomatico senza entrare nei dettagli dei contenuti discussi.",
+  "z0191c2ac": "Sun Online sottolinea il ruolo di sostegno finanziario dell'India verso le Maldive.",
+  "z3170afc8": "Sun Online racconta il fenomeno come segnale di attrattività economica dell'India.",
+  "zd0967b30": "Sun Online riprende la notizia dalle fonti di sicurezza turche senza ulteriori dettagli.",
+  "za93ebc81": "PSM News riporta la visita come parte dell'attività diplomatica regolare del governo maldiviano.",
+  "z4f855548": "PSM News attribuisce la crescita economica principalmente allo sviluppo del comparto finanziario.",
+  "z280ec582": "AKIpress riporta l'annuncio come parte della cooperazione culturale regionale.",
+  "zfc25aa88": "AKIpress riporta la posizione ufficiale kazaka come risposta diplomatica alla protesta russa.",
+  "ze6a50b4d": "AKIpress presenta il completamento dei lavori come valorizzazione del patrimonio culturale nazionale.",
+  "z0c6294df": "AKIpress riporta la proposta presidenziale come misura di tutela ambientale.",
+  "z6587761a": "Nile Post riporta l'arresto come un caso di cronaca locale legato a presunta frode d'identità.",
+  "z00a8f001": "Nile Post presenta l'iniziativa come un passo verso una gestione più sostenibile dei rifiuti a Kampala.",
+  "z73fc6fce": "Asahi Shimbun presenta l'ordinanza come un precedente nazionale nella tutela dei lavoratori.",
+  "z6546c4a0": "Asahi Shimbun riporta lo sviluppo come un progresso tecnologico nel trasporto ferroviario giapponese.",
+  "zb608491a": "ABC Color riporta l'arresto come sviluppo di un'indagine internazionale su un episodio di violenza politica.",
+  "zd34fbb0b": "ABC Color riporta l'allarme umanitario dell'OIM sulla fragilità dei rientri in Ucraina.",
+  "ze9f99633": "ABC Color riporta la polemica dichiarazione di Tebas contro l'emittente del club madrileno.",
+  "zb1c56ca2": "Defimedia documenta le conseguenze economiche del coprifuoco sulla vita notturna dell'isola.",
+  "z9da54fab": "Defimedia quantifica i danni materiali legati ai recenti disordini sull'isola.",
+  "z6d04f8c9": "Defimedia documenta l'impatto economico delle rivolte sui commercianti dell'isola.",
+  "z3f972e11": "Panamá América riporta la risposta del ministero alle conseguenze del sisma sul sistema scolastico."
  },
  "contesti": {
   "z1838bc4e": "Nei giorni precedenti erano emerse le polemiche sul piano segreto di Infantino per vendere quote del Mondiale a investitori privati, poi abbandonato, e sulle critiche al premio per la pace Fifa assegnato a Trump, ritenuto eccessivamente politicizzato dai membri del consiglio.",
@@ -16011,7 +17418,8 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z472c705a": "Nei giorni precedenti le proteste studentesche si sono susseguite a Tirana e in altre città albanesi, con richieste di dimissioni rivolte al governo e scontri ricorrenti con la polizia.",
   "z404807ee": "Nei giorni precedenti le proteste studentesche in Albania erano state segnate da scontri con la polizia e momenti di tensione, prima di arrivare a questa giornata più pacifica davanti al Ministero dell'Istruzione.",
   "zb6508fde": "Le proteste studentesche a Tirana sono proseguite per diversi giorni, portando a numerosi fermi e arresti da parte delle forze dell'ordine, con il sistema giudiziario chiamato a valutare le misure di sicurezza da adottare per i detenuti.",
-  "zfbb78924": "Le proteste studentesche in Albania si sono diffuse in diverse città del paese, tra cui Pogradec e Korça, con richieste di dimissioni rivolte al governo guidato da Edi Rama e riferimenti anche all'ex premier Sali Berisha."
+  "zfbb78924": "Le proteste studentesche in Albania si sono diffuse in diverse città del paese, tra cui Pogradec e Korça, con richieste di dimissioni rivolte al governo guidato da Edi Rama e riferimenti anche all'ex premier Sali Berisha.",
+  "z53fc0e6f": "Negli ultimi giorni era stata raggiunta una tregua informale sugli attacchi energetici tra Russia e Ucraina, poi collassata con la ripresa dei raid ucraini sulle raffinerie russe. Mosca ha respinto le critiche di Trump, mentre il Cremlino ha espresso pieno accordo con le sue posizioni su Zelensky, ribadendo la richiesta della cessione del Donetsk come condizione per un accordo."
  },
  "cronologie": {
   "z1838bc4e": [
@@ -16126,6 +17534,24 @@ window.EDIZIONI["2026-10-16-sera"] = {
    [
     "16 ottobre",
     "Nuovi scontri e fermi a Pogradec, i giovani tornano in piazza"
+   ]
+  ],
+  "z53fc0e6f": [
+   [
+    "Giorni scorsi",
+    "Russia e Ucraina avevano osservato una tregua informale sugli attacchi energetici"
+   ],
+   [
+    "15 ottobre",
+    "Kyiv riprende gli attacchi alle raffinerie russe, la tregua collassa"
+   ],
+   [
+    "15 ottobre",
+    "Trump critica Zelensky e definisce gli attacchi 'una vergogna'"
+   ],
+   [
+    "16 ottobre",
+    "Zelensky cerca sostegno al vertice Ue di Bruxelles"
    ]
   ]
  },
@@ -16249,6 +17675,46 @@ window.EDIZIONI["2026-10-16-sera"] = {
     }
    ],
    "divergono": "Il Messaggero è il solo a inserire l'emissione in un contesto macroeconomico più ampio, collegandola all'aumento dei tassi Bce e alla crisi in Medio Oriente, e a citare la cifra complessiva di 121 miliardi raccolti dalle precedenti emissioni. ANSA si concentra maggiormente sugli aspetti operativi del collocamento (date, modalità di sottoscrizione), dettaglio meno presente in Repubblica, che offre invece una sintesi più scarna dei soli tassi."
+  },
+  "z53fc0e6f": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Ricostruzione ampia e cronologica: cita il vertice UE, le dichiarazioni di von der Leyen e Costa, gli attacchi russi a Kharkiv e Volyn (270.000 utenze senza corrente) e i droni ucraini su Mosca. Riporta Trump che definisce Zelensky 'più difficile di Putin' e gli scambi 'una vergogna'.",
+     "b": "a"
+    },
+    {
+     "n": "RTÉ News",
+     "c": "Dublino",
+     "p": "XX",
+     "t": "Si concentra sul contrasto Trump-Zelensky, citando la frase 'non sono un grande fan di Zelensky' e il taglio dell'intelligence satellitare. Riporta oltre 100 civili uccisi in una settimana e la presenza del Taoiseach Micheál Martin al summit UE.",
+     "b": "a"
+    },
+    {
+     "n": "Meduza",
+     "c": "Riga (in esilio)",
+     "p": "XX",
+     "t": "Riporta in modo diretto le dichiarazioni di Trump, incluso l'invito a elezioni in Ucraina e il dubbio sul sostegno popolare a Zelensky. Cita le reazioni ucraine e russe sulla presunta tregua energetica, definita 'una notizia' per Zelensky.",
+     "b": "a"
+    },
+    {
+     "n": "Moscow Times",
+     "c": "Amsterdam (in esilio)",
+     "p": "XX",
+     "t": "Nel primo pezzo riporta la voce della Russia tramite Peskov, che dice di concordare 'pienamente' con Trump su Zelensky, e cita le richieste territoriali di Putin su Donetsk. Nel secondo pezzo si concentra sui dati militari: 644 droni ucraini intercettati, 94 su Mosca, voli cancellati e dichiarazione di Putin su danni 'non particolarmente significativi'.",
+     "b": "a"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Dà ampio spazio alle reazioni europee, citando Macron, Tusk e von der Leyen che promette un 22° pacchetto di sanzioni. Riporta anche la vicenda Starlink e le rassicurazioni del ministro Streeting, oltre alle parole di Trump su Zelensky 'più difficile di Putin'.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate divergono nei dettagli numerici degli attacchi russi: BBC parla di 270.000 utenze senza corrente in Volyn, Moscow Times di 370.000. Il Moscow Times dà ampio risalto alla posizione del Cremlino (Peskov, Putin) come fonte diretta, mentre BBC, RTÉ e Guardian si concentrano sul fronte europeo e sulle reazioni di leader UE nominati esplicitamente (von der Leyen, Costa, Macron, Tusk). The Guardian è l'unica a dettagliare il nuovo pacchetto sanzionatorio UE e il caso Starlink con la conferma di Streeting. Meduza approfondisce più delle altre la richiesta di Trump di elezioni in Ucraina."
   }
  },
  "luoghi": {
@@ -20364,6 +21830,384 @@ window.EDIZIONI["2026-10-16-sera"] = {
     "Tunisia"
    ],
    "pt": []
+  },
+  "z97a754c8": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z1a4be49d": {
+   "n": "Tataouine",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z5de35fa8": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z99b67be2": {
+   "n": "Goma",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zec253f4c": {
+   "n": "Matadi",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zf90fa78c": {
+   "n": "Walikale",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zf63f5dfb": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zd8b90643": {
+   "n": "Goma",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z037cd988": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z191361dc": {
+   "n": "Panama City",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z7e2e3760": {
+   "n": "Praia",
+   "p": [
+    "Cabo Verde"
+   ],
+   "pt": []
+  },
+  "zf3401a8f": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "ze7719726": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "zbf1dbc60": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z8204de7e": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z8bf2e0c7": {
+   "n": "Para",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z53fc0e6f": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z6e819005": {
+   "n": "Shanghai",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zb872a8d0": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zd831a649": {
+   "n": "Eindhoven",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z88cea30a": {
+   "n": "Città del Capo",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z8d29691d": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z69a1cc67": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z864017a8": {
+   "n": "Goma",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z202120bf": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z7a16f3ab": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z9efc0119": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z84706535": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zf77384b0": {
+   "n": "Umm Al Quwain",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z5e0aa3fd": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z43866545": {
+   "n": "Malaysia",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z16237eee": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z251f1a42": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z78983fd6": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z0191c2ac": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z3170afc8": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zd0967b30": {
+   "n": "Reyhanli",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "za93ebc81": {
+   "n": "Iraq",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z4f855548": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z280ec582": {
+   "n": "Kirghizistan",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "zfc25aa88": {
+   "n": "Kazakistan",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "ze6a50b4d": {
+   "n": "Talas",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z0c6294df": {
+   "n": "Lago Issyk-Kul",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z6587761a": {
+   "n": "Soroti",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z00a8f001": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z73fc6fce": {
+   "n": "Mie",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z6546c4a0": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zb608491a": {
+   "n": "Budapest",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "zd34fbb0b": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "ze9f99633": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zb1c56ca2": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z9da54fab": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z6d04f8c9": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z3f972e11": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -20971,7 +22815,61 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "za627a350": 1,
   "zaec9e6c9": 1,
   "z5945e740": 1,
-  "z5c73abe3": 1
+  "z5c73abe3": 1,
+  "z97a754c8": 1,
+  "z1a4be49d": 1,
+  "z5de35fa8": 1,
+  "z99b67be2": 1,
+  "zec253f4c": 1,
+  "zf90fa78c": 1,
+  "zf63f5dfb": 1,
+  "zd8b90643": 1,
+  "z037cd988": 1,
+  "z191361dc": 1,
+  "z7e2e3760": 1,
+  "zf3401a8f": 1,
+  "ze7719726": 1,
+  "zbf1dbc60": 1,
+  "z8204de7e": 1,
+  "z8bf2e0c7": 1,
+  "z53fc0e6f": 2,
+  "z6e819005": 1,
+  "zb872a8d0": 1,
+  "zd831a649": 1,
+  "z88cea30a": 1,
+  "z8d29691d": 1,
+  "z69a1cc67": 1,
+  "z864017a8": 1,
+  "z202120bf": 1,
+  "z7a16f3ab": 1,
+  "z9efc0119": 1,
+  "z84706535": 1,
+  "zf77384b0": 1,
+  "z5e0aa3fd": 1,
+  "z43866545": 1,
+  "z16237eee": 1,
+  "z251f1a42": 1,
+  "z78983fd6": 1,
+  "z0191c2ac": 1,
+  "z3170afc8": 1,
+  "zd0967b30": 1,
+  "za93ebc81": 1,
+  "z4f855548": 1,
+  "z280ec582": 1,
+  "zfc25aa88": 1,
+  "ze6a50b4d": 1,
+  "z0c6294df": 1,
+  "z6587761a": 1,
+  "z00a8f001": 1,
+  "z73fc6fce": 1,
+  "z6546c4a0": 2,
+  "zb608491a": 1,
+  "zd34fbb0b": 1,
+  "ze9f99633": 1,
+  "zb1c56ca2": 1,
+  "z9da54fab": 1,
+  "z6d04f8c9": 1,
+  "z3f972e11": 1
  },
  "video": {},
  "pillole": []
