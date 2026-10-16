@@ -435,30 +435,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zf39ab310",
-   "sez": "mondo",
-   "titolo": "L'Iran nega di voler acquisire armi nucleari e si dice pronto al dialogo",
-   "orig": "Irán niega querer dotarse de armas nucleares y se declara dispuesto a dialogar",
-   "lead": "Il leader iraniano ha respinto le accuse di voler dotarsi di armamento nucleare, definendole \"propaganda malevola\" e dichiarandosi aperto al dialogo. La dichiarazione arriva durante un vertice a Erevan, in Armenia, dove si cerca anche di migliorare i rapporti con la Georgia dopo l'interruzione dei collegamenti aerei causata dalle sanzioni statunitensi contro le compagnie aeree iraniane. Lo riferisce Clarín.",
-   "more": [
-    "Il programma nucleare iraniano è da anni al centro di tensioni diplomatiche internazionali, con accuse occidentali di finalità militari respinte da Teheran, che sostiene di perseguire solo scopi civili ed energetici."
-   ],
-   "fonti": [
-    {
-     "n": "Clarín",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.clarin.com/estados-unidos/iran-niega-querer-dotarse-de-armas-nucleares-y-se-declara-dispuesto-a-dialogar_0_NMEc4eOhnw.html",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-10-16T17:50+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:57",
-   "uscita": "sera"
-  },
-  {
    "id": "zce4efb58",
    "sez": "sport",
    "titolo": "Ramón Díaz parla di un possibile ritorno al River Plate",
@@ -804,30 +780,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "ze63f9a28",
-   "sez": "mondo",
-   "titolo": "Dopo 71 anni un presidente cileno torna in visita di Stato in Bolivia",
-   "orig": "Los Colorados tocaron el himno de Chile y un Hércules trajo a Kast: las postales de una visita histórica",
-   "lead": "Il presidente cileno José Antonio Kast è arrivato a El Alto, in Bolivia, a bordo di un aereo militare Hércules simile a quello che aveva trasportato aiuti umanitari durante la crisi dei blocchi stradali, in quella che è la prima visita di Stato di un presidente cileno in Bolivia dopo 71 anni. Durante la cerimonia i Colorados, corpo militare boliviano, hanno suonato l'inno cileno; l'altitudine di La Paz, la presenza dei governatori del nord del Cile e le fotografie dall'eliporto hanno segnato la giornata storica. Lo riferisce El Deber.",
-   "more": [
-    "Cile e Bolivia hanno relazioni storicamente complesse, segnate dalla disputa sull'accesso al mare persa dalla Bolivia nella guerra del Pacifico del XIX secolo. Una visita di Stato ad alto livello dopo decenni rappresenta quindi un evento diplomatico di forte valore simbolico per entrambi i Paesi."
-   ],
-   "fonti": [
-    {
-     "n": "El Deber",
-     "p": "XX",
-     "c": "Santa Cruz",
-     "u": "https://eldeber.com.bo/pais/colorados-tocaron-himno-chile-hercules-trajo-kast-postales-visita-historica_1792168443",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-16T16:34+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:57",
-   "uscita": "sera"
-  },
-  {
    "id": "z118bd802",
    "sez": "mondo",
    "titolo": "La vicegovernatrice di Santa Cruz andrà a La Paz per chiedere il bonus di vaccinazione",
@@ -893,30 +845,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Costa Rica",
      "t": "2026-10-16T18:14+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:57",
-   "uscita": "sera"
-  },
-  {
-   "id": "zf175fd92",
-   "sez": "sport",
-   "titolo": "I Dodgers perdono la corona delle Major League travolti da Milwaukee",
-   "orig": "Los Dodgers entregan su corona de las Grandes Ligas con una barrida ante Milwaukee",
-   "lead": "Il sogno dei Los Angeles Dodgers di conquistare il tricampionato delle Major League Baseball si è infranto nella Serie di Lega Nazionale, dove la squadra californiana è stata spazzata via (barrida) dai Milwaukee Brewers, consegnando così la propria corona di campioni. Lo riferisce La Nación CR.",
-   "more": [
-    "I Los Angeles Dodgers sono una delle franchigie più titolate della Major League Baseball, il principale campionato professionistico statunitense di baseball. La Serie di Lega Nazionale è una delle fasi dei playoff che determina la squadra finalista per le World Series."
-   ],
-   "fonti": [
-    {
-     "n": "La Nación CR",
-     "p": "XX",
-     "c": "San José",
-     "u": "https://www.nacion.com/puro-deporte/los-dodgers-entregan-su-corona-de-las-grandes/V7BJDIXJZBESBGVLH76TUQ32Y4/story/",
-     "angolo": "",
-     "atlas": "Costa Rica",
-     "t": "2026-10-16T18:03+00:00"
     }
    ],
    "data": "16 ott",
@@ -1559,51 +1487,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z355d9c60",
-   "sez": "mondo",
-   "titolo": "Coloni attaccano palestinesi in Cisgiordania",
-   "orig": "Bosættere angriber palæstinensere på Vestbredden",
-   "lead": "Coloni israeliani hanno attaccato palestinesi in Cisgiordania, secondo quanto riportato dall'emittente danese DR Nyheder. La notizia non specifica la località esatta dell'attacco né il numero di persone coinvolte, ma si inserisce nel contesto delle tensioni ricorrenti nei territori occupati tra coloni e popolazione palestinese. Lo riferisce DR Nyheder.",
-   "more": [
-    "La Cisgiordania è un territorio palestinese occupato da Israele dal 1967, dove numerosi insediamenti di coloni israeliani convivono con la popolazione palestinese, spesso in un clima di tensione segnato da episodi di violenza da entrambe le parti."
-   ],
-   "fonti": [
-    {
-     "n": "DR Nyheder",
-     "p": "XX",
-     "c": "Copenaghen",
-     "u": "https://www.dr.dk/nyheder/seneste/bosaettere-angriber-palaestinensere-paa-vestbredden",
-     "angolo": "",
-     "atlas": "Denmark",
-     "t": "2026-10-16T16:49+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:57",
-   "uscita": "sera"
-  },
-  {
-   "id": "z3097460c",
-   "sez": "mondo",
-   "titolo": "La Casa Bianca licenzia la portavoce dopo le polemiche sulla sua abilitazione da avvocato",
-   "orig": "[속보] ‘변호사 자격 논란’ 백악관 대변인, 취임 닷새 만에 해임",
-   "lead": "La Casa Bianca ha licenziato la propria portavoce a soli cinque giorni dall'insediamento, dopo una controversia sulla validità del suo titolo di avvocato. La notizia, riportata come \"ultima ora\" dal quotidiano sudcoreano The Hankyoreh, non specifica il nome della funzionaria né ulteriori dettagli sulla natura esatta della contestazione sulle sue credenziali professionali. Lo riferisce The Hankyoreh.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Hankyoreh",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.hani.co.kr/arti/international/america/1282827.html",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "20:57",
-   "uscita": "sera"
-  },
-  {
    "id": "zb7278220",
    "sez": "mondo",
    "titolo": "Il ministro capo di Delhi Rekha Gupta posa le prime pietre di quattro progetti agricoli",
@@ -1689,29 +1572,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "p": "XX",
      "c": "Taipei",
      "u": "https://www.taipeitimes.com/News/front/archives/2026/10/17/2003866112",
-     "angolo": "",
-     "atlas": "Taiwan"
-    }
-   ],
-   "data": "",
-   "ora": "20:57",
-   "uscita": "sera"
-  },
-  {
-   "id": "z37d2a808",
-   "sez": "mondo",
-   "titolo": "I leader dell'UE si schierano con Zelensky",
-   "orig": "EU leaders rally around Zelenskiy",
-   "lead": "I leader dell'Unione Europea hanno espresso sostegno al presidente ucraino Volodymyr Zelensky, secondo quanto riportato dal Taipei Times. La notizia non specifica il contesto dell'incontro o della dichiarazione di solidarietà, ma segnala un momento di convergenza politica europea a favore dell'Ucraina. Lo riferisce Taipei Times.",
-   "more": [
-    "Volodymyr Zelensky è il presidente dell'Ucraina, impegnato dal 2022 a guidare il paese nella difesa contro l'invasione russa; il sostegno dei leader europei si inserisce nel più ampio sforzo diplomatico e militare occidentale a favore di Kiev."
-   ],
-   "fonti": [
-    {
-     "n": "Taipei Times",
-     "p": "XX",
-     "c": "Taipei",
-     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/17/2003866113",
      "angolo": "",
      "atlas": "Taiwan"
     }
@@ -2426,6 +2286,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-16T17:44+01:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/iran-niega-querer-dotarse-de-armas-nucleares-y-se-declara-dispuesto-a-dialogar_0_NMEc4eOhnw.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T17:50+00:00"
     }
    ],
    "data": "16 ott",
@@ -2565,29 +2434,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "p": "IT",
      "c": "Roma",
      "u": "https://www.ilmessaggero.it/schede/nuovo_codice_della_strada_multe_pedoni_perche_cosa_cambia_nuove_regole-9829035.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
-   "ora": "20:55",
-   "uscita": "sera"
-  },
-  {
-   "id": "z780e5b18",
-   "sez": "italia",
-   "titolo": "Lega Nord, presentato esposto sul due per mille a due settimane dal congresso",
-   "orig": "Lega Nord, presentato esposto per 2 per mille",
-   "lead": "A due settimane dal congresso del partito, è stato depositato un esposto alla procura di Forlì, e poi per competenza anche alle procure di Milano e Roma, che solleva possibili profili di illegittimità contabile e penale nella gestione dei fondi del due per mille da parte della Lega Nord. Secondo Sky TG24 nei prossimi giorni potrebbero verificarsi nuovi sviluppi legati a questa vicenda, in un clima già descritto come agitato all'interno del partito. Lo riferisce Sky TG24.",
-   "more": [
-    "Il due per mille è un contributo che i cittadini italiani possono destinare ai partiti politici tramite la dichiarazione dei redditi; la gestione di questi fondi è soggetta a regole di trasparenza e controllo contabile."
-   ],
-   "fonti": [
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/politica/video/2026/10/16/lega-nord-presentato-esposto-per-2-per-mille-1132316",
      "angolo": "",
      "atlas": "Italy"
     }
@@ -4200,48 +4046,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zd8be1538",
-   "sez": "mondo",
-   "titolo": "Trump suggerisce alla portavoce Zacharia di ripensare il suo ruolo",
-   "orig": "Trump says Zacharia should reconsider spokeswoman role",
-   "lead": "Il presidente statunitense Donald Trump ha suggerito che la nuova portavoce della Casa Bianca, Katie Zacharia, potrebbe non restare a lungo nel suo incarico. Secondo Dawn, Trump ha dichiarato ai giornalisti di averle detto di riconsiderare il ruolo, dopo che la donna ha ammesso di non aver superato l'esame di abilitazione alla professione forense negli Stati Uniti. Il Daily Tribune riporta che Zacharia affronta richieste di un'indagine dopo questa ammissione.",
-   "more": [
-    "Negli Stati Uniti l'esame di abilitazione forense ('bar exam') è un requisito necessario per esercitare la professione di avvocato; il suo mancato superamento da parte di una figura che si era presentata come avvocato ha alimentato polemiche sulla credibilità della nuova portavoce della Casa Bianca."
-   ],
-   "fonti": [
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/world/2026/1016/1595623-katie-zacharia-donald-trump/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-10-16T10:21+01:00"
-    },
-    {
-     "n": "Dawn",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://www.dawn.com/news/2037596/trump-says-katie-zacharia-should-reconsider-white-house-spokeswoman-role-after-she-admits-to-failing-bar-exam",
-     "angolo": "",
-     "atlas": "Pakistan",
-     "t": "2026-10-16T23:06+05:00"
-    },
-    {
-     "n": "Daily Tribune (Bahrein)",
-     "p": "XX",
-     "c": "Manama",
-     "u": "https://www.newsofbahrain.com/en/article/trumps-press-secretary-admits-failing-us-bar-exam",
-     "angolo": "",
-     "atlas": "Bahrain",
-     "t": "2026-10-16T12:57+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:52",
-   "uscita": "sera"
-  },
-  {
    "id": "zf26fa260",
    "sez": "mondo",
    "titolo": "Il Nicaragua restituisce case di lusso confiscate a pensionati statunitensi",
@@ -4583,6 +4387,77 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Iraq",
      "t": "2026-10-16T21:10+03:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/16/trump-kritiek-zacharia.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-16T17:52+00:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/world/2026/1016/1595623-katie-zacharia-donald-trump/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-16T10:21+01:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2037596/trump-says-katie-zacharia-should-reconsider-white-house-spokeswoman-role-after-she-admits-to-failing-bar-exam",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-16T23:06+05:00"
+    },
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/trumps-press-secretary-admits-failing-us-bar-exam",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-16T12:57+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/katie-zacharia-pleaca-de-la-casa-alba-dupa-mai-putin-de-o-saptamana-in-functie-2378347",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-16T18:00+00:00"
+    },
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/kulfold/2026/10/16/kirugtak-a-feher-haz-szovivojet-ot-napig-huzta-katie-zacharia",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-16T19:52+02:00"
+    },
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/america/1282827.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/nyheter/trump-om-sin-nye-pressesjef_-bor-revurdere-stillingen-sin-1.18057205",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-16T17:21+00:00"
     }
    ],
    "data": "16 ott",
@@ -5242,7 +5117,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z01051409",
-   "sez": "mondo",
+   "sez": "organizzazioni",
    "titolo": "Vertice UE: Costa e von der Leyen chiedono rapidità su energia, commercio e bilancio",
    "orig": "Ευρωπαϊκό Συμβούλιο: Κόστα και φον ντερ Λάιεν ζητούν ταχύτητα σε ενέργεια, εμπόριο και προϋπολογισμό",
    "lead": "Il vertice del Consiglio europeo a Bruxelles si è concluso con un accordo per una risposta europea coordinata alla crisi energetica, il sostegno unanime alla Commissione europea nella gestione degli squilibri commerciali con la Cina e il mandato per una nuova proposta di finanziamento all'Ucraina per il 2027. Nella conferenza stampa finale, il presidente del Consiglio europeo Antonio Costa e la presidente della Commissione Ursula von der Leyen hanno sollecitato maggiore velocità decisionale su questi dossier. Lo riferisce ERT News.",
@@ -5426,30 +5301,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Macedonia",
      "t": "2026-10-16T19:35+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:52",
-   "uscita": "sera"
-  },
-  {
-   "id": "z7122c27d",
-   "sez": "salute",
-   "titolo": "Papa Leone XIV apparirà domenica per la prima volta dopo l'operazione ai polmoni",
-   "orig": "Պապը կիրակի օրը կհայտնվի հանրության առջև՝ առաջին անգամ վիրահատությունից հետո",
-   "lead": "Papa Leone XIV si presenterà domenica in pubblico per la prima volta dopo l'intervento chirurgico per un tumore ai polmoni. Il Vaticano ha annunciato che le condizioni di salute del 71enne pontefice stanno migliorando in modo stabile. Lo riferisce Azatutyun.",
-   "more": [
-    "Leone XIV è il nome assunto dal pontefice attualmente a capo della Chiesa cattolica; gli aggiornamenti sulle condizioni di salute del Papa, specialmente dopo interventi chirurgici, suscitano grande attenzione internazionale data la rilevanza istituzionale e spirituale della figura papale."
-   ],
-   "fonti": [
-    {
-     "n": "Azatutyun (inglese)",
-     "p": "XX",
-     "c": "Erevan",
-     "u": "https://www.azatutyun.am/a/papy-kiraki-%d6%85ry-khaytnvi-hanroutyan-arjev-arajin-angam-virahatoutyounits-heto/33878069.html",
-     "angolo": "",
-     "atlas": "Armenia",
-     "t": "2026-10-16T20:33+04:00"
     }
    ],
    "data": "16 ott",
@@ -5745,30 +5596,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zaf1e31d5",
-   "sez": "mondo",
-   "titolo": "Trump licenzia la portavoce della Casa Bianca dopo soli cinque giorni",
-   "orig": "Kirúgták a Fehér Ház szóvivőjét, öt napig húzta Katie Zacharia",
-   "lead": "Katie Zacharia è stata licenziata dall'incarico di portavoce della Casa Bianca dopo appena cinque giorni, in seguito a una conferenza stampa in cui aveva confuso il marito con il presidente. Donald Trump le avrebbe chiesto di riconsiderare se volesse davvero continuare in quel ruolo. Lo riferisce Telex English.",
-   "more": [
-    "Il ruolo di portavoce della Casa Bianca prevede comunicazioni quotidiane con i media sulla posizione dell'amministrazione presidenziale statunitense: un errore pubblico in questo incarico può avere conseguenze immediate sulla credibilità politica."
-   ],
-   "fonti": [
-    {
-     "n": "Telex English",
-     "p": "XX",
-     "c": "Budapest",
-     "u": "https://telex.hu/kulfold/2026/10/16/kirugtak-a-feher-haz-szovivojet-ot-napig-huzta-katie-zacharia",
-     "angolo": "",
-     "atlas": "Hungary",
-     "t": "2026-10-16T19:52+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:52",
-   "uscita": "sera"
-  },
-  {
    "id": "zcc04696d",
    "sez": "cultura",
    "titolo": "Il rapper che accusa T. Danny di plagio nel talent Megasztár è un caporale di riserva dell'esercito ungherese",
@@ -5856,30 +5683,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Hungary",
      "t": "2026-10-16T18:43+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:52",
-   "uscita": "sera"
-  },
-  {
-   "id": "z1f84f78a",
-   "sez": "mondo",
-   "titolo": "Trump licenzia la portavoce della Casa Bianca cinque giorni dopo il suo insediamento",
-   "orig": "Donald Trump o dă afară pe purtătoarea de cuvânt a Casei Albe, la cinci zile de la instalarea ei în funcție",
-   "lead": "Katie Zacharia, nuova portavoce del presidente Donald Trump, è stata licenziata venerdì dopo meno di una settimana dall'assunzione dell'incarico, secondo tre fonti citate dal New York Times. Un alto funzionario della Casa Bianca ha dichiarato a Fox News che Zacharia si sarebbe fatta da parte. Lo riferisce HotNews.",
-   "more": [
-    "Il ruolo di portavoce della Casa Bianca prevede comunicazioni quotidiane con i media sulla posizione dell'amministrazione presidenziale statunitense: un cambio così rapido nell'incarico è considerato inusuale."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/katie-zacharia-pleaca-de-la-casa-alba-dupa-mai-putin-de-o-saptamana-in-functie-2378347",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-16T18:00+00:00"
     }
    ],
    "data": "16 ott",
@@ -6287,30 +6090,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "ze61588cf",
-   "sez": "mondo",
-   "titolo": "Trump consiglia alla nuova portavoce Zacharia di riconsiderare il suo ruolo",
-   "orig": "Trump raadt nieuwe woordvoerster Zacharia aan over haar job na te denken: \"Misschien is dit niets voor jou\"",
-   "lead": "Il presidente statunitense Donald Trump ha suggerito alla portavoce della Casa Bianca Katie Zacharia di 'riflettere sulla sua funzione', dopo giorni di critiche nei suoi confronti. Secondo i media americani sarebbe già stata licenziata, ma la notizia non è stata confermata ufficialmente. Lo riferisce VRT NWS.",
-   "more": [
-    "Il ruolo di portavoce della Casa Bianca prevede la gestione quotidiana dei rapporti con la stampa e la comunicazione delle posizioni dell'amministrazione presidenziale statunitense."
-   ],
-   "fonti": [
-    {
-     "n": "VRT NWS",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.vrt.be/vrtnws/nl/2026/10/16/trump-kritiek-zacharia.rss.xml",
-     "angolo": "",
-     "atlas": "Belgium",
-     "t": "2026-10-16T17:52+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:52",
-   "uscita": "sera"
-  },
-  {
    "id": "z5ab18360",
    "sez": "tech",
    "titolo": "Pubblicità online usata come porta d'accesso per lo spionaggio informatico",
@@ -6336,7 +6115,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z4300e2b9",
-   "sez": "cultura",
+   "sez": "cucina",
    "titolo": "Un norvegese vince l'oro ai mondiali dei sommelier in Portogallo",
    "orig": "Aftenposten: Nordmann tok gull i vinkelner-VM",
    "lead": "Nikolai Haram Svorte, originario di Sula nella contea di Møre og Romsdal, ha vinto la finale mondiale per sommelier svoltasi in Portogallo. Secondo il quotidiano Aftenposten, è la prima volta in 37 anni che un norvegese raggiunge una finale mondiale di categoria. L'associazione norvegese dei sommelier ha definito il risultato storico e straordinario. La finale comprendeva degustazioni alla cieca, domande teoriche e una prova di servizio. Lo riferisce NRK.",
@@ -6352,28 +6131,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Norway",
      "t": "2026-10-16T18:10+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:52",
-   "uscita": "sera"
-  },
-  {
-   "id": "z75b8a89d",
-   "sez": "mondo",
-   "titolo": "Trump sulla sua nuova portavoce: dovrebbe riconsiderare il suo incarico",
-   "orig": "Trump om sin nye pressesjef: Bør revurdere stillingen sin",
-   "lead": "Il presidente statunitense Donald Trump ha dichiarato che la sua nuova portavoce Katie Zacharia dovrebbe 'riconsiderare' la sua posizione, aggiungendo che forse il ruolo di portavoce della Casa Bianca non è fatto per lei. Zacharia aveva attirato molta attenzione dopo una prima conferenza stampa segnata da una lettura esitante e nervosa, diventata virale. Giovedì ha anche ammesso di non aver superato l'esame di avvocato, nonostante si fosse definita avvocato in diverse occasioni. Lo riferisce NRK.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NRK",
-     "p": "XX",
-     "c": "Oslo",
-     "u": "https://www.nrk.no/nyheter/trump-om-sin-nye-pressesjef_-bor-revurdere-stillingen-sin-1.18057205",
-     "angolo": "",
-     "atlas": "Norway",
-     "t": "2026-10-16T17:21+00:00"
     }
    ],
    "data": "16 ott",
@@ -6494,30 +6251,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Brazil",
      "t": "2026-10-16T14:28-03:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:52",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze317170c",
-   "sez": "economia",
-   "titolo": "Brasile, promulgata la riforma che abolisce il turno 6x1 nel lavoro",
-   "orig": "Do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil",
-   "lead": "È stata promulgata in Brasile l'emenda costituzionale che elimina lo schema lavorativo di sei giorni di lavoro per uno di riposo, garantendo a tutti i lavoratori il diritto a due giorni di riposo settimanale. La riforma arriva dopo oltre un secolo di rivendicazioni per limiti alla giornata lavorativa e condizioni che garantiscano tempo libero oltre al lavoro. Agência Brasil ha ricostruito, con dati del Ministero del Lavoro e del Tribunale Superiore del Lavoro, le principali tappe storiche dell'evoluzione della giornata lavorativa nel paese, incluse le sue radici nel periodo schiavista. Lo riferisce Agência Brasil.",
-   "more": [
-    "Il regime di lavoro '6x1', diffuso in diversi settori brasiliani, prevede sei giorni consecutivi di lavoro seguiti da un solo giorno di riposo: una delle rivendicazioni storiche del sindacalismo brasiliano per orari più equi."
-   ],
-   "fonti": [
-    {
-     "n": "Agência Brasil",
-     "p": "XX",
-     "c": "Brasília",
-     "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/do-trabalho-sem-limites-ao-fim-da-escala-6x1-veja-evolucao-da-jornada",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-10-16T13:31-03:00"
     }
    ],
    "data": "16 ott",
@@ -6734,6 +6467,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-16T20:01+02:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/16/trump-strappa-con-kiev.-zelensky-allue-la-guerra-nel-2027-costera_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-16T16:52+02:00"
     }
    ],
    "data": "16 ott",
@@ -6815,30 +6557,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-10-16T17:40+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:48",
-   "uscita": "sera"
-  },
-  {
-   "id": "zb6189f54",
-   "sez": "mondo",
-   "titolo": "Il presidente iraniano denuncia l'impatto ambientale della guerra in Medio Oriente",
-   "orig": "Iran’s president condemns environmental impact of war in Middle East",
-   "lead": "Il presidente iraniano Masoud Pezeshkian ha condannato i danni ecologici provocati dai conflitti in corso in Medio Oriente, sottolineando le conseguenze ambientali della guerra sulla regione. Lo riferisce Al Jazeera.",
-   "more": [
-    "Masoud Pezeshkian è il presidente dell'Iran. I conflitti in Medio Oriente, oltre al pesante bilancio umano, comportano gravi effetti collaterali sull'ambiente, tra cui inquinamento, distruzione di ecosistemi e danni alle risorse idriche e al suolo nelle aree colpite."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-16T16:45+00:00"
     }
    ],
    "data": "16 ott",
@@ -7129,7 +6847,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z1f593ab1",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Il cantante di 'Babydoll' racconta i brividi per la collaborazione con Off Campus",
    "orig": "Off Campus star collaboration 'gave me chills', says Babydoll singer",
    "lead": "Il cantante gallese Jamie Miller ha raccontato di aver provato 'brividi' per la collaborazione nata con Off Campus, mentre il suo brano virale 'Babydoll' ha mancato di poco la vetta della classifica britannica dei singoli. Miller si dice speranzoso di 'rendere orgoglioso il Galles' con il successo del pezzo. Lo riferisce BBC News.",
@@ -7175,7 +6893,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z8fd5ddba",
-   "sez": "cucina",
+   "sez": "salute",
    "titolo": "Ho provato gli integratori GLP-1 per una settimana: ho ancora fame",
    "orig": "I Tried GLP-1 Supplements for a Week. I’m Still Hungry.",
    "lead": "Bon Appétit racconta l'esperienza personale di una settimana di assunzione di integratori GLP-1, concludendo che la sensazione di fame persiste nonostante il prodotto. L'articolo affronta anche lo scandalo Michelin in Texas e le nuove tecnologie che potrebbero cambiare il mondo della ristorazione. Lo riferisce Bon Appétit.",
@@ -7617,7 +7335,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z2f826483",
-   "sez": "ingegneria",
+   "sez": "tech",
    "titolo": "IEEE amplia i servizi per le città che vogliono diventare più “smart”",
    "orig": "IEEE Offers More Services to Cities That Want to Be Smarter",
    "lead": "Sempre più amministrazioni comunali nel mondo usano tecnologie avanzate per migliorare la vivibilità urbana, sfruttando dati da smartphone e sensori per il controllo del traffico e la gestione dei rifiuti, oltre a programmi di intelligenza artificiale e deep learning. Città come Dubai, Parigi e Coral Gables, in Florida, hanno investito molto in questi programmi. Accanto ai vantaggi, emergono però criticità legate a sicurezza, privacy e al deterioramento del rapporto tra residenti e amministrazioni, mentre non tutte le iniziative hanno dato risultati positivi. Lo riferisce IEEE Spectrum.",
@@ -7752,30 +7470,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-16T18:15+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:48",
-   "uscita": "sera"
-  },
-  {
-   "id": "zaa9a6002",
-   "sez": "economia",
-   "titolo": "Incontri FMI-Banca Mondiale puntano su rischi globali e potenziali benefici dell'IA",
-   "orig": "IMF-World Bank meetings focus on global risks and potential benefits of AI",
-   "lead": "Durante gli incontri annuali tra Fondo Monetario Internazionale e Banca Mondiale, la direttrice generale del FMI Kristalina Georgieva ha paragonato la rapida diffusione dell'intelligenza artificiale a una corsa, chiedendosi come introdurre barriere di sicurezza affinché, se qualcosa va storto, non si arrivi a conseguenze dannose per le persone. L'incontro ha discusso sia i rischi globali legati all'IA sia i suoi potenziali benefici economici. Lo riferisce PBS NewsHour.",
-   "more": [
-    "Gli incontri annuali tra FMI e Banca Mondiale riuniscono ministri delle finanze e banchieri centrali di tutto il mondo per discutere stabilità finanziaria globale, sviluppo economico e, negli ultimi anni, anche l'impatto delle nuove tecnologie come l'intelligenza artificiale sull'economia mondiale."
-   ],
-   "fonti": [
-    {
-     "n": "PBS NewsHour",
-     "p": "US",
-     "c": "Arlington",
-     "u": "https://www.pbs.org/newshour/world/imf-world-bank-meetings-focus-on-global-risks-and-potential-benefits-of-ai",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-16T13:30-04:00"
     }
    ],
    "data": "16 ott",
@@ -9164,6 +8858,24 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-16T18:44+02:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-16T10:27+00:00"
+    },
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/bosaettere-angriber-palaestinensere-paa-vestbredden",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-16T16:49+00:00"
     }
    ],
    "data": "16 ott"
@@ -9207,6 +8919,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Brazil",
      "t": "2026-10-16T10:39-03:00"
+    },
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/do-trabalho-sem-limites-ao-fim-da-escala-6x1-veja-evolucao-da-jornada",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-16T13:31-03:00"
     }
    ],
    "data": "16 ott"
@@ -21874,6 +21595,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Cameroon",
      "t": "2026-10-16T13:53+00:00"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/papy-kiraki-%d6%85ry-khaytnvi-hanroutyan-arjev-arajin-angam-virahatoutyounits-heto/33878069.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-16T20:33+04:00"
     }
    ],
    "data": "16 ott",
@@ -22340,30 +22070,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-16T13:00+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:28",
-   "uscita": "17"
-  },
-  {
-   "id": "z4728dc5f",
-   "sez": "italia",
-   "titolo": "Trump rompe con Kiev. Zelensky all'Ue: 'La guerra nel 2027 costerà 155 miliardi, ne chiedo 70 a voi'",
-   "orig": "Trump strappa con Kiev. Zelensky all'Ue: \"La guerra nel 2027 costerà 155 miliardi, ne chiedo 70 a voi\"",
-   "lead": "Secondo ANSA, il presidente ucraino Volodymyr Zelensky ha dichiarato al Consiglio europeo che il costo della guerra nel 2027 ammonterà a 155 miliardi, chiedendo 70 miliardi ai partner europei. Zelensky ha affermato che 'i veri leader sono nell'Ue', in un contesto segnato dalla rottura tra l'amministrazione Trump e Kiev. Fonti di Madrid riferiscono inoltre di un'intesa raggiunta il giorno precedente tra la premier italiana Giorgia Meloni e il presidente spagnolo Pedro Sanchez sulla revoca di alcuni controlli. Lo riferisce ANSA.",
-   "more": [
-    "Il Consiglio europeo è l'organo che riunisce i capi di Stato e di governo dell'Unione europea per definire le priorità politiche comuni. Il sostegno finanziario e militare europeo all'Ucraina resta centrale nel conflitto con la Russia, soprattutto in un momento di tensioni tra Kiev e Washington sulla continuità dell'aiuto statunitense."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/16/trump-strappa-con-kiev.-zelensky-allue-la-guerra-nel-2027-costera_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T16:52+02:00"
     }
    ],
    "data": "16 ott",
@@ -31056,6 +30762,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Thailand",
      "t": "2026-10-16T16:07+07:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/imf-world-bank-meetings-focus-on-global-risks-and-potential-benefits-of-ai",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-16T13:30-04:00"
     }
    ],
    "data": "16 ott",
@@ -33834,6 +33549,14 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Luxembourg",
      "t": "2026-10-16T10:34+00:00"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/17/2003866113",
+     "angolo": "",
+     "atlas": "Taiwan"
     }
    ],
    "data": "16 ott",
@@ -38226,30 +37949,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z921c6642",
-   "sez": "mondo",
-   "titolo": "Alberi di ulivo palestinesi incendiati mentre crescono i pogrom dei coloni durante la raccolta",
-   "orig": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-   "lead": "Durante la stagione della raccolta delle olive in Palestina, coloni israeliani hanno appiccato il fuoco a ulivi e veicoli di proprietà palestinese, in un'escalation di violenze descritte come pogrom. L'articolo documenta la distruzione degli alberi, fondamentali per l'economia agricola delle famiglie palestinesi, nel contesto di un'intensificazione degli attacchi dei coloni nelle aree agricole durante questo periodo dell'anno. Lo riferisce Al Jazeera.",
-   "more": [
-    "La raccolta delle olive è un momento centrale dell'anno agricolo palestinese, fonte di reddito per molte famiglie in Cisgiordania. Negli ultimi anni gli attacchi dei coloni israeliani contro uliveti e agricoltori durante questo periodo sono diventati un fenomeno ricorrente, denunciato da organizzazioni per i diritti umani."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-16T10:27+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
    "id": "zbbab7afe",
    "sez": "mondo",
    "titolo": "Trump esclude l'uso di una bomba nucleare contro l'Iran: perché conta",
@@ -39990,6 +39689,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Iraq",
      "t": "2026-10-16T12:21+03:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-16T16:45+00:00"
     }
    ],
    "data": "16 ott",
@@ -40725,7 +40433,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zf1eb835e": "The Guardian descrive l'entità dei danni materiali e il numero di persone coinvolte, evidenziando la rapidità con cui il livello del fiume è salito dopo la frana.",
   "z42e149b2": "The Guardian riporta le dichiarazioni dell'eurodeputato Bernd Lange sulla possibilità di un riavvicinamento rapido tra Regno Unito e Unione europea.",
   "zc711b9b8": "The Guardian riferisce le dichiarazioni di Bruce Hales e del figlio davanti a una commissione parlamentare australiana sulle accuse di coordinamento politico occulto.",
-  "z921c6642": "Al Jazeera documenta la distruzione di alberi e veicoli palestinesi da parte di coloni durante la stagione della raccolta.",
   "zbbab7afe": "Al Jazeera analizza il significato politico delle parole di Trump, evidenziando ciò che ha negato e ciò che ha lasciato aperto.",
   "zeecc24bf": "Al Jazeera riporta l'allarme delle Nazioni Unite sul rischio alluvioni per gli sfollati di Gaza in vista dell'inverno.",
   "z5e80f2fb": "La Repubblica illustra la struttura delle cedole crescenti e il rendimento complessivo ottenibile scegliendo la cedola unica.",
@@ -41319,7 +41026,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z7b59107b": "La BBC riporta le accuse ucraine sulle restrizioni al servizio, nel quadro della richiesta di chiarimenti da parte dei senatori americani.",
   "ze049d08e": "BBC Newsround punta sul coinvolgimento diretto del pubblico giovane, invitandolo a partecipare con le proprie domande.",
   "z12f1e6e0": "BBC Travel adotta un taglio narrativo e turistico, concentrandosi sull'unicità storica e culturale della città divisa.",
-  "z4728dc5f": "ANSA riporta sia le richieste finanziarie di Zelensky all'Ue sia l'accordo bilaterale tra Meloni e Sanchez, intrecciando la dimensione europea con quella italiana.",
   "z78d7a914": "Good News Network valorizza l'iniziativa personale del giovane inventore come risposta concreta a un problema reale emerso durante un disastro naturale.",
   "z750fa96d": "La BBC si limita a riportare l'annuncio sindacale, senza fornire dettagli sulla posizione delle autorità sanitarie nordirlandesi.",
   "z6dfccc1a": "Daily News riporta in modo diretto le priorità indicate dal governo tanzaniano senza offrire il punto di vista delle istituzioni finanziarie internazionali.",
@@ -41906,7 +41612,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z2c5ea364": "Al Jazeera dà spazio alle reazioni degli studenti, NPR si concentra sui fatti e sulla dichiarazione dell'autrice.",
   "z6b1fb45b": "The Guardian evidenzia la reazione cinese e l'apertura britannica come possibile svolta nei rapporti commerciali con l'Ue dopo la Brexit.",
   "zc01f33fd": "Al Jazeera riporta i dati ufficiali del CDC sull'espansione dell'epidemia.",
-  "zb6189f54": "Al Jazeera riporta la dichiarazione del presidente iraniano senza ulteriori dettagli.",
   "z4493f617": "Al Jazeera riporta la decisione della federazione spagnola di impugnare la sanzione.",
   "ze1db9cc0": "Deutsche Welle indaga le cause di un fenomeno insolito per il Paese, segnalando l'assenza di regole scritte.",
   "zdec27934": "Cyprus Mail riporta la decisione del ministero senza ulteriori dettagli.",
@@ -41931,7 +41636,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z004a1302": "Il Fatto Quotidiano dà rilievo alla posizione critica dell'urbanista Berdini espressa durante il convegno da esso stesso organizzato.",
   "z0ee1d9a6": "Skift analizza i dati sui flussi turistici mettendo a confronto le aree in crescita e quelle in calo.",
   "zb1ca31fa": "CBR propone una selezione soggettiva basata sul giudizio della redazione sulle aspettative rispetto alla qualità percepita delle serie.",
-  "zaa9a6002": "PBS NewsHour riporta le parole di Georgieva per evidenziare la cautela delle istituzioni finanziarie internazionali verso l'IA.",
   "zbfff5720": "Agência Brasil riporta l'azione del governo centrale in coordinamento con gli enti locali per contenere gli effetti sanitari della crisi.",
   "zb5b4a084": "The Guardian offre un'analisi equilibrata tra le aspettative generate dal costoso trasferimento e le prestazioni altalenanti mostrate finora.",
   "zfdf94a01": "IEEE Spectrum, in un contenuto sponsorizzato da COMSOL, presenta la simulazione come soluzione tecnica a un problema industriale concreto.",
@@ -41987,7 +41691,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb95f1a13": "RTP accosta nello stesso servizio la notizia calcistica su Durán a quella di una medaglia nel ciclismo.",
   "z4d4a5fd2": "Público riporta i dettagli finanziari dell'operazione, inclusa la valutazione complessiva del gruppo.",
   "z95d0058e": "CNA sottolinea la portata della vendita di azioni da parte del vertice dell'azienda dopo la quotazione.",
-  "zd8be1538": "Le testate concordano sulle pressioni su Zacharia, ma Daily Tribune aggiunge il dettaglio delle richieste di un'indagine.",
   "zd71cb625": "Der Spiegel e Der Standard, citando il New York Times, danno per certo il licenziamento, mentre ORF riporta ancora il suggerimento di Trump.",
   "z6f3b87e6": "BBS racconta il festival come occasione di salvaguardia culturale più che come evento turistico.",
   "z41e43419": "The Guardian si concentra sulle preoccupazioni di Zelensky e sulla richiesta di fondi all'UE, mentre Straits Times riporta la difesa di Trump sulla vicenda Starlink.",
@@ -42021,7 +41724,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zfdf13bd1": "ERT News riporta la posizione negoziale greca come difesa di interessi nazionali nel dibattito sul bilancio europeo.",
   "za12d586e": "MIA riporta la reazione dell'ex sindaco, che denuncia un pregiudizio nei suoi confronti senza entrare nel merito delle accuse.",
   "z882a4352": "MIA riprende la notizia dal settimanale Vreme, senza approfondire le motivazioni delle dimissioni.",
-  "z7122c27d": "Azatutyun riprende l'annuncio vaticano, concentrandosi sul miglioramento delle condizioni di salute del pontefice.",
   "z01083434": "Meduza documenta l'operazione come parte di una più ampia campagna di controllo su immigrati e reclutamento militare.",
   "zef60b055": "Meduza riprende la ricostruzione di Politico, concentrandosi sulle motivazioni diplomatiche della scelta europea.",
   "z844e0351": "Mail & Guardian riporta sia il dato record raggiunto sia il richiamo politico affinché gli investimenti producano effetti tangibili per le comunità.",
@@ -42034,12 +41736,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z68f39097": "Daily Maverick evidenzia la contraddizione tra l'assenza alla commissione e la presunta idoneità al viaggio.",
   "z81ef7303": "Dabanga dà voce alla denuncia della società civile locale sulle pratiche di arresto.",
   "z25675179": "Dabanga riporta la posizione ufficiale della Croce Rossa sulle difficoltà di accesso ai detenuti.",
-  "zaf1e31d5": "Telex English mette in evidenza la rapidità del licenziamento rispetto all'insediamento.",
   "zcc04696d": "Telex English collega la vicenda televisiva a un profilo militare inatteso del concorrente.",
   "zd0a42607": "Telex English segnala un miglioramento pratico per i viaggiatori ungheresi.",
   "zcfdb76ea": "Telex English celebra il riconoscimento ottenuto dal connazionale Szoboszlai.",
   "zd17a4e9a": "Telex English documenta con dati concreti l'entità dei fondi pubblici destinati a questi programmi.",
-  "z1f84f78a": "HotNews riprende la versione del New York Times e di Fox News sulla rapida uscita di scena della portavoce.",
   "zdf30cec7": "HotNews riporta le manovre politiche tra i partiti romeni in vista delle elezioni locali.",
   "z539039bf": "HotNews riporta le parole di autocritica di Bolojan di fronte alla sentenza.",
   "z66f59a68": "HotNews riporta le dichiarazioni del presidente romeno sul sostegno francese alla sicurezza regionale.",
@@ -42057,16 +41757,13 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z09880d1d": "NOS evidenzia la richiesta diretta di Zelensky in un momento di tensione con Washington.",
   "z63afeff8": "NOS riporta le preoccupazioni del settore olandese sulla mancanza di controllo giuridico indipendente.",
   "ze30098dd": "NOS segue l'evoluzione dei disservizi causati dall'attacco hacker del weekend precedente.",
-  "ze61588cf": "VRT NWS segnala l'incertezza sul futuro della portavoce dopo le critiche ricevute.",
   "z5ab18360": "ORF riprende lo studio accademico che individua rischi di sorveglianza tramite pubblicità digitale.",
   "z4300e2b9": "NRK riprende la notizia citando Aftenposten e sottolineando il valore storico del risultato.",
-  "z75b8a89d": "NRK insiste sulle contraddizioni emerse sulle credenziali professionali di Zacharia.",
   "z990a9537": "RÚV racconta la vicenda dal punto di vista personale dei proprietari colpiti.",
   "zacd9b849": "RÚV riporta le dichiarazioni dirette del selezionatore sulle scelte di formazione.",
   "zb4a06c77": "RÚV riporta le dichiarazioni scritte dell'amministratrice delegata di CCEP alla propria inchiesta.",
   "zdd53d1fb": "RÚV riprende la denuncia dell'associazione professionale e la recente raccolta fondi di solidarietà.",
   "z066ccb30": "Agência Brasil segue l'andamento quotidiano degli indici di qualità dell'aria nelle capitali brasiliane.",
-  "ze317170c": "Agência Brasil contestualizza storicamente la riforma con un'analisi delle tappe passate.",
   "zaa71dd0b": "Agência Brasil riporta i dettagli tecnici della nuova normativa pensionistica.",
   "z04fc0bfd": "La Presse de Tunisie riporta la pubblicazione istituzionale senza ulteriori commenti.",
   "z7b7455ae": "La Presse de Tunisie riporta le dichiarazioni del rappresentante FAO sulle potenzialità agricole del paese.",
@@ -42101,7 +41798,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "ze205204c": "Il Fatto Quotidiano riporta una teoria alternativa sull'infortunio di Alcaraz senza conferme ufficiali.",
   "ze26057b1": "Il Fatto Quotidiano riporta la posizione ufficiale del governo olandese sull'offerta francese.",
   "za8c3575c": "Il Messaggero spiega nel dettaglio i nuovi obblighi introdotti per i pedoni.",
-  "z780e5b18": "Sky TG24 segnala tensioni interne alla Lega legate a una possibile irregolarità contabile.",
   "zb935526c": "Hespress English riporta la fine della disputa diplomatica tra Roma e Madrid sui controlli di frontiera.",
   "z3106d490": "Hespress English riporta le dichiarazioni della nuova premier sulla composizione del governo.",
   "za52a666d": "Hespress English sottolinea la portata storica della presenza femminile nel nuovo esecutivo.",
@@ -42174,7 +41870,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z2570ad76": "Clarín offre una panoramica dei movimenti di mercato NBA in avvio di stagione.",
   "z77d204f0": "Clarín analizza le forze in campo nella divisione Southwest della NBA.",
   "z44298d8a": "Clarín segue da vicino l'evoluzione normativa del sistema FAL argentino.",
-  "zf39ab310": "Clarín riporta le dichiarazioni iraniane nel contesto del vertice regionale a Erevan.",
   "zce4efb58": "La Nación raccoglie le dichiarazioni dell'allenatore sul proprio futuro.",
   "z1ba26cd6": "La Nación sottolinea l'incertezza legata alla recente operazione del Papa e all'assenza di comunicazioni ufficiali del Vaticano.",
   "za1159483": "La Tercera dà risalto alle critiche interne alla coalizione di governo contro il ministro Poduje.",
@@ -42189,11 +41884,9 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zca92b6f3": "El Nacional riporta i dettagli dei reati attribuiti al capobanda espulso.",
   "z427035d3": "El Nacional sottolinea la portata dell'aiuto sanitario e la collaborazione con il ministero venezuelano.",
   "z23bf5f44": "El Nacional riporta la decisione svizzera come esito di un'indagine che non ha trovato irregolarità.",
-  "ze63f9a28": "El Deber racconta con enfasi il valore simbolico e storico della visita.",
   "z118bd802": "El Deber evidenzia la scelta della vicegovernatrice di protestare senza fermare i servizi sanitari.",
   "z422e76c4": "El Deber riporta i dettagli operativi dell'intervento di polizia e procura.",
   "z67caa34d": "La Nación CR riporta l'iniziativa legale della deputata contro le norme di bilancio.",
-  "zf175fd92": "La Nación CR racconta la sconfitta netta che pone fine alle ambizioni di tricampionato dei Dodgers.",
   "zf9d8a5d8": "El Universo riporta la misura come strumento per facilitare gli operativi contro le bande.",
   "z3d223ea1": "ABC Color documenta la protesta in pista senza spiegarne le cause precise.",
   "z0d264968": "Lefaso.net racconta la vicenda come un caso limite sul rapporto tra ricchezza e desiderio di discendenza.",
@@ -42221,13 +41914,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z1cf734af": "CNA si concentra sulla composizione della squadra indiana in vista dei test contro la Nuova Zelanda.",
   "z229d51d2": "RTP riporta la smentita di Montenegro rispetto alle accuse di egoismo verso i manifestanti.",
   "z3505414d": "RTP riporta la posizione di Moedas sul tema della casa, bilanciando legittimità delle rivendicazioni e rispetto delle norme.",
-  "z355d9c60": "DR Nyheder segnala un nuovo episodio di violenza da parte di coloni contro palestinesi in Cisgiordania.",
-  "z3097460c": "The Hankyoreh dà rilievo di ultima ora al rapido avvicendamento ai vertici della comunicazione della Casa Bianca.",
   "zb7278220": "The Hindu documenta l'avvio formale di nuovi progetti infrastrutturali agricoli promossi dal governo di Delhi.",
   "zad06afc5": "The Hindu riporta il numero di candidature presentate in vista del voto locale a Vizag.",
   "z76203670": "Il Taipei Times segnala l'approvazione legislativa come misura di sostegno agli anziani nel sistema sanitario.",
   "z18c1035d": "Il Taipei Times evidenzia la risposta delle autorità taiwanesi a un episodio ritenuto una minaccia al presidente.",
-  "z37d2a808": "Il Taipei Times sottolinea l'unità mostrata dai leader europei nei confronti di Zelensky.",
   "ze7e81581": "Il Taipei Times riporta il lancio di un'iniziativa governativa a sostegno dei consumatori per la riparazione di apparecchi domestici.",
   "z60d38dd6": "Il Taipei Times riporta un appello istituzionale alla gestione dei tempi per i passeggeri aerei.",
   "z105469b8": "Gulf News riporta l'allerta diffusa dagli Stati Uniti sui rischi per la sicurezza aeroportuale in Arabia Saudita.",
@@ -42871,13 +42561,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Canberra",
    "p": [
     "Australia"
-   ],
-   "pt": []
-  },
-  "z921c6642": {
-   "n": "Cisgiordania",
-   "p": [
-    "Palestine"
    ],
    "pt": []
   },
@@ -47319,13 +47002,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z4728dc5f": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "z78d7a914": {
    "n": "Turchia meridionale",
    "p": [
@@ -51573,13 +51249,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zb6189f54": {
-   "n": "Iran",
-   "p": [
-    "Iran"
-   ],
-   "pt": []
-  },
   "z4493f617": {
    "n": "Spagna",
    "p": [
@@ -51802,13 +51471,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Giappone",
    "p": [
     "Japan"
-   ],
-   "pt": []
-  },
-  "zaa9a6002": {
-   "n": "Washington, Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -52137,13 +51799,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zd8be1538": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zf26fa260": {
    "n": "Tola, Rivas",
    "p": [
@@ -52378,11 +52033,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z7122c27d": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
   "z01083434": {
    "n": "San Pietroburgo",
    "p": [
@@ -52467,13 +52117,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zaf1e31d5": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zcc04696d": {
    "n": "Ungheria",
    "p": [
@@ -52499,13 +52142,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Ungheria",
    "p": [
     "Hungary"
-   ],
-   "pt": []
-  },
-  "z1f84f78a": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -52628,13 +52264,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "ze61588cf": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z5ab18360": {
    "n": "Toronto",
    "p": [
@@ -52646,13 +52275,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Portogallo",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "z75b8a89d": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -52686,13 +52308,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   "z066ccb30": {
    "n": "Manaus",
-   "p": [
-    "Brazil"
-   ],
-   "pt": []
-  },
-  "ze317170c": {
-   "n": "Brasile",
    "p": [
     "Brazil"
    ],
@@ -52926,13 +52541,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "pt": []
   },
   "za8c3575c": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z780e5b18": {
    "n": "Italia",
    "p": [
     "Italy"
@@ -53442,13 +53050,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zf39ab310": {
-   "n": "Erevan",
-   "p": [
-    "Armenia"
-   ],
-   "pt": []
-  },
   "zce4efb58": {
    "n": "Buenos Aires",
    "p": [
@@ -53547,13 +53148,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "ze63f9a28": {
-   "n": "El Alto",
-   "p": [
-    "Bolivia"
-   ],
-   "pt": []
-  },
   "z118bd802": {
    "n": "La Paz",
    "p": [
@@ -53572,13 +53166,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "San José",
    "p": [
     "Costa Rica"
-   ],
-   "pt": []
-  },
-  "zf175fd92": {
-   "n": "Milwaukee",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -53771,18 +53358,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z355d9c60": {
-   "n": "Cisgiordania",
-   "p": [],
-   "pt": []
-  },
-  "z3097460c": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zb7278220": {
    "n": "Delhi",
    "p": [
@@ -53808,13 +53383,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Taipei",
    "p": [
     "Taiwan"
-   ],
-   "pt": []
-  },
-  "z37d2a808": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -53944,7 +53512,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zf1eb835e": 2,
   "z42e149b2": 1,
   "zc711b9b8": 1,
-  "z921c6642": 1,
   "zbbab7afe": 1,
   "zeecc24bf": 1,
   "z5e80f2fb": 2,
@@ -54594,7 +54161,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z7b59107b": 1,
   "ze049d08e": 1,
   "z12f1e6e0": 1,
-  "z4728dc5f": 2,
   "z78d7a914": 1,
   "z750fa96d": 1,
   "z6dfccc1a": 1,
@@ -55190,7 +54756,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z2c5ea364": 2,
   "z6b1fb45b": 1,
   "zc01f33fd": 1,
-  "zb6189f54": 1,
   "z4493f617": 1,
   "ze1db9cc0": 1,
   "zdec27934": 1,
@@ -55224,7 +54789,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z004a1302": 1,
   "z0ee1d9a6": 1,
   "zb1ca31fa": 1,
-  "zaa9a6002": 1,
   "zbfff5720": 1,
   "zb5b4a084": 1,
   "zfdf94a01": 1,
@@ -55284,7 +54848,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z1a7267bf": 1,
   "z66251247": 1,
   "z84d25fcb": 1,
-  "zd8be1538": 2,
   "zf26fa260": 1,
   "zd71cb625": 2,
   "z6f3b87e6": 1,
@@ -55325,7 +54888,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zfdf13bd1": 1,
   "za12d586e": 1,
   "z882a4352": 1,
-  "z7122c27d": 1,
   "z01083434": 1,
   "zef60b055": 1,
   "z844e0351": 1,
@@ -55338,12 +54900,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z68f39097": 1,
   "z81ef7303": 1,
   "z25675179": 1,
-  "zaf1e31d5": 2,
   "zcc04696d": 1,
   "zd0a42607": 1,
   "zcfdb76ea": 1,
   "zd17a4e9a": 1,
-  "z1f84f78a": 2,
   "zdf30cec7": 1,
   "z539039bf": 1,
   "z66f59a68": 1,
@@ -55361,16 +54921,13 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z09880d1d": 2,
   "z63afeff8": 1,
   "ze30098dd": 1,
-  "ze61588cf": 1,
   "z5ab18360": 1,
   "z4300e2b9": 1,
-  "z75b8a89d": 1,
   "z990a9537": 1,
   "zacd9b849": 1,
   "zb4a06c77": 1,
   "zdd53d1fb": 1,
   "z066ccb30": 1,
-  "ze317170c": 1,
   "zaa71dd0b": 1,
   "z04fc0bfd": 1,
   "z7b7455ae": 1,
@@ -55405,7 +54962,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "ze205204c": 1,
   "ze26057b1": 1,
   "za8c3575c": 1,
-  "z780e5b18": 1,
   "zb935526c": 1,
   "z3106d490": 1,
   "za52a666d": 1,
@@ -55478,7 +55034,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z2570ad76": 1,
   "z77d204f0": 1,
   "z44298d8a": 1,
-  "zf39ab310": 1,
   "zce4efb58": 1,
   "z1ba26cd6": 2,
   "za1159483": 1,
@@ -55493,11 +55048,9 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zca92b6f3": 1,
   "z427035d3": 2,
   "z23bf5f44": 1,
-  "ze63f9a28": 2,
   "z118bd802": 1,
   "z422e76c4": 1,
   "z67caa34d": 1,
-  "zf175fd92": 1,
   "zf9d8a5d8": 2,
   "z3d223ea1": 1,
   "z0d264968": 1,
@@ -55525,13 +55078,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z1cf734af": 1,
   "z229d51d2": 1,
   "z3505414d": 1,
-  "z355d9c60": 1,
-  "z3097460c": 1,
   "zb7278220": 1,
   "zad06afc5": 1,
   "z76203670": 1,
   "z18c1035d": 1,
-  "z37d2a808": 1,
   "ze7e81581": 1,
   "z60d38dd6": 1,
   "z105469b8": 1,
