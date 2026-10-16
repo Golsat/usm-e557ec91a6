@@ -3,6 +3,150 @@ window.EDIZIONI["2026-10-16-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z570f31cb",
+   "sez": "mondo",
+   "titolo": "Von der Leyen: la regolarizzazione dei migranti spetta alla Spagna ma ha impatto oltre i confini",
+   "orig": "Von der Leyen: la regularización de migrantes compete a España pero tiene impacto más allá",
+   "lead": "La presidente della Commissione europea Ursula von der Leyen ha affermato che la decisione sulla regolarizzazione dei migranti è una competenza della Spagna, ma ha precisato che le sue conseguenze si estendono oltre i confini nazionali, coinvolgendo l'intera Unione Europea. La dichiarazione arriva nel contesto del dibattito spagnolo su una possibile regolarizzazione di massa. Lo riferisce ABC Color.",
+   "more": [
+    "La Spagna discute da tempo di misure di regolarizzazione per i migranti irregolari presenti sul territorio, un tema sensibile che incide sulle politiche migratorie comuni dell'Unione Europea e sulla libera circolazione interna."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/von-der-leyen-la-regularizacion-de-migrantes-compete-a-espana-pero-tiene-impacto-mas-alla/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T18:11+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:59",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcc194697",
+   "sez": "mondo",
+   "titolo": "Il Sudafrica si unisce a una ventina di paesi contro l'ambasciata colombiana a Gerusalemme",
+   "orig": "Sudáfrica se suma a una veintena de países contra la embajada de Colombia en Jerusalén",
+   "lead": "Il Sudafrica ha aderito a un gruppo di circa venti paesi che si oppongono all'apertura o al mantenimento dell'ambasciata della Colombia a Gerusalemme. La questione riflette le tensioni diplomatiche internazionali legate al riconoscimento dello status della città contesa tra israeliani e palestinesi. Lo riferisce ABC Color.",
+   "more": [
+    "Gerusalemme è una città il cui status è contestato tra Israele, che la considera capitale, e i palestinesi, che ne reclamano una parte come futura capitale; la maggior parte della comunità internazionale non riconosce il trasferimento di ambasciate nella città."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/sudafrica-se-suma-a-una-veintena-de-paises-contra-la-embajada-de-colombia-en-jerusalen/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T18:11+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:59",
+   "uscita": "sera"
+  },
+  {
+   "id": "zad97ccf9",
+   "sez": "mondo",
+   "titolo": "Milei parla con Rubio di come rilanciare il commercio bilaterale dopo il suo viaggio a Washington",
+   "orig": "Milei habla con Rubio de cómo impulsar el comercio bilateral tras su viaje a Washington",
+   "lead": "Il presidente argentino Javier Milei ha avuto un colloquio con il segretario di Stato americano Marco Rubio per discutere di come rafforzare il commercio bilaterale tra Argentina e Stati Uniti, a seguito del recente viaggio di Milei a Washington. Lo riferisce ABC Color.",
+   "more": [
+    "Marco Rubio è il segretario di Stato degli Stati Uniti; i rapporti tra Washington e Buenos Aires si sono intensificati sotto la presidenza di Milei, con un allineamento politico ed economico più stretto con gli Usa."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/milei-habla-con-rubio-de-como-impulsar-el-comercio-bilateral-tras-su-viaje-a-washington/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T18:11+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:59",
+   "uscita": "sera"
+  },
+  {
+   "id": "z18d2df0f",
+   "sez": "tech",
+   "titolo": "Un attacco «senza clic» legato a un'azienda israeliana solleva un rischio per la sicurezza mondiale",
+   "orig": "Comment une attaque « sans clic » liée à une entreprise israélienne pose un risque pour la sécurité mondiale",
+   "lead": "Un'inchiesta descrive un attacco informatico di tipo «zero-click», che non richiede nessuna interazione da parte della vittima per infettare un dispositivo, collegato a un'azienda israeliana. Il caso viene presentato come un rischio significativo per la sicurezza informatica a livello globale, data la diffusione di tecnologie simili usate per sorveglianza e spionaggio. Lo riferisce Defimedia.",
+   "more": [
+    "Gli attacchi «zero-click» sfruttano vulnerabilità nei software senza che l'utente clicchi su alcun link, rendendoli particolarmente insidiosi; aziende israeliane come NSO Group sono già state al centro di polemiche internazionali per software di sorveglianza venduti a governi."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/comment-une-attaque-sans-clic-liee-une-entreprise-israelienne-pose-un-risque-pour-la-securite",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T22:12+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:59",
+   "uscita": "sera"
+  },
+  {
+   "id": "z64eded6f",
+   "sez": "mondo",
+   "titolo": "Mauritius: prime condanne dopo le proteste, cinque persone a pena detentiva",
+   "orig": "Troubles : les premières condamnations tombent, cinq personnes écopent de peines de prison",
+   "lead": "A Mauritius sono state pronunciate le prime condanne legate ai recenti disordini: cinque persone sono state condannate a pene detentive. La notizia segue un periodo di tensioni sociali nell'isola, culminate in disordini pubblici repressi dalle autorità. Lo riferisce Defimedia.",
+   "more": [
+    "Mauritius è uno stato insulare dell'Oceano Indiano; negli ultimi tempi è stato attraversato da proteste sociali che hanno portato le autorità a imporre misure straordinarie come il coprifuoco."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/troubles-les-premieres-condamnations-tombent-cinq-personnes-ecopent-de-peines-de-prison",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T22:03+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:59",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5566aab9",
+   "sez": "mondo",
+   "titolo": "Mauritius: coprifuoco mantenuto per il weekend, decisione sul seguito lunedì",
+   "orig": "Ramgoolam : couvre-feu maintenu ce week-end, la suite sera décidée lundi selon la situation sur le terrain",
+   "lead": "Il premier di Mauritius Navin Ramgoolam ha annunciato che il coprifuoco resterà in vigore per tutto il fine settimana, mentre la decisione su un'eventuale proroga sarà presa lunedì in base all'evoluzione della situazione sul campo. La misura segue i recenti disordini nell'isola. Lo riferisce Defimedia.",
+   "more": [
+    "Navin Ramgoolam è il primo ministro di Mauritius; il coprifuoco è una misura di emergenza adottata per contenere disordini pubblici e garantire la sicurezza della popolazione nelle ore notturne."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/ramgoolam-couvre-feu-maintenu-ce-week-end-la-suite-sera-decidee-lundi-selon-la-situation-sur-le",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T20:28+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:59",
+   "uscita": "sera"
+  },
+  {
    "id": "za7b9b036",
    "sez": "mondo",
    "titolo": "Tribunale di Madrid ordina di indagare sulla denuncia di Begoña Gómez contro Vito Quiles",
@@ -42094,7 +42238,13 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb59b4d97": "Trend evidenzia la concentrazione degli investimenti stranieri nella capitale uzbeka rispetto al resto del paese.",
   "zddf3c6d5": "Trend documenta con immagini la visita ufficiale del comandante emiratino in Azerbaigian.",
   "z4b6604d2": "Trend riporta le critiche della coalizione ambientalista verso l'Armenia come paese ospitante della COP17.",
-  "z8e37d4b1": "PSM News segnala l'impegno istituzionale a favore dello sviluppo agricolo nell'atollo di Addu."
+  "z8e37d4b1": "PSM News segnala l'impegno istituzionale a favore dello sviluppo agricolo nell'atollo di Addu.",
+  "z570f31cb": "ABC Color riporta la posizione di von der Leyen come un bilanciamento tra sovranità nazionale e impatto europeo.",
+  "zcc194697": "ABC Color riporta l'adesione sudafricana come parte di un fronte più ampio di critica.",
+  "zad97ccf9": "ABC Color riporta il colloquio come seguito diretto del viaggio presidenziale negli Stati Uniti.",
+  "z18d2df0f": "Defimedia presenta il caso come un allarme sulla sicurezza informatica globale.",
+  "z64eded6f": "Defimedia riporta le condanne come primo esito giudiziario delle proteste.",
+  "z5566aab9": "Defimedia riporta le parole del premier come segnale di prudenza e monitoraggio continuo."
  },
  "contesti": {
   "z1838bc4e": "Nei giorni precedenti erano emerse le polemiche sul piano segreto di Infantino per vendere quote del Mondiale a investitori privati, poi abbandonato, e sulle critiche al premio per la pace Fifa assegnato a Trump, ritenuto eccessivamente politicizzato dai membri del consiglio.",
@@ -53744,6 +53894,49 @@ window.EDIZIONI["2026-10-16-sera"] = {
     "Maldives"
    ],
    "pt": []
+  },
+  "z570f31cb": {
+   "n": "Spagna",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zcc194697": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zad97ccf9": {
+   "n": "Washington",
+   "p": [
+    "United States of America",
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z18d2df0f": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z64eded6f": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z5566aab9": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -55349,7 +55542,13 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb59b4d97": 1,
   "zddf3c6d5": 1,
   "z4b6604d2": 1,
-  "z8e37d4b1": 1
+  "z8e37d4b1": 1,
+  "z570f31cb": 1,
+  "zcc194697": 1,
+  "zad97ccf9": 1,
+  "z18d2df0f": 1,
+  "z64eded6f": 1,
+  "z5566aab9": 1
  },
  "video": {},
  "pillole": []
