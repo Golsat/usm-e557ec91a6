@@ -3,6 +3,126 @@ window.EDIZIONI["2026-10-16-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z1c6c5886",
+   "sez": "economia",
+   "titolo": "Le esportazioni della Georgia crescono del 19,6% tra gennaio e settembre, quasi quattro volte il ritmo delle importazioni",
+   "orig": "Georgia’s exports grow 19.6% in Jan-Sept, nearly 4 times import pace",
+   "lead": "Tra gennaio e settembre, la Georgia ha registrato una crescita delle esportazioni pari al 19,6%, un incremento che si muove a un ritmo quasi quattro volte superiore rispetto a quello delle importazioni nel medesimo periodo di riferimento. È quanto emerge dai dati relativi all'andamento commerciale del Paese caucasico comunicati a Baku. Lo riferisce Trend.",
+   "more": [
+    "Le esportazioni rappresentano il valore complessivo dei beni e dei servizi prodotti a livello nazionale e venduti sui mercati esteri. Un incremento significativo di questo indicatore, soprattutto se superiore alla crescita delle importazioni, evidenzia generalmente una maggiore competitività delle imprese locali e un rafforzamento della bilancia commerciale dello Stato interessato."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/scaucasus/georgia/4235584.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T20:11+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:21",
+   "uscita": "17"
+  },
+  {
+   "id": "zfb6d4272",
+   "sez": "mondo",
+   "titolo": "Salgono a 1.500 le famiglie evacuate a causa della piena del fiume Paraná lungo i confini del Paraguay",
+   "orig": "Suben a 1.500 las familias evacuadas por crecida del río Paraná en fronteras de Paraguay",
+   "lead": "Il numero delle famiglie evacuate a seguito della piena del fiume Paraná, lungo le zone di confine del Paraguay, ha raggiunto quota 1.500. L'esondazione e l'innalzamento delle acque fluviali hanno costretto le autorità a intervenire per mettere in sicurezza gli abitanti delle aree maggiormente colpite dal maltempo e dal livello critico del corso d'acqua. Lo riferisce ABC Color.",
+   "more": [
+    "Il fiume Paraná è uno dei principali corsi d'acqua dell'America del Sud, che scorre attraversando diversi Paesi tra cui il Brasile, il Paraguay e l'Argentina, e le cui piene stagionali o straordinarie possono causare gravi allagamenti nelle zone rivierasche."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/suben-a-1500-las-familias-evacuadas-por-crecida-del-rio-parana-en-fronteras-de-paraguay/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T16:05+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:21",
+   "uscita": "17"
+  },
+  {
+   "id": "z27a19d42",
+   "sez": "mondo",
+   "titolo": "Il futuro dello sviluppo dell'America Latina in un mondo instabile riunisce gli esperti in Perù",
+   "orig": "El futuro del desarrollo de Latinoamérica en un mundo inestable reúne a expertos en Perú",
+   "lead": "Esperti provenienti da diversi Paesi si sono dati appuntamento in Perù per discutere e analizzare il futuro dello sviluppo dell'America Latina all'interno di un contesto geopolitico ed economico globale caratterizzato da una marcata instabilità. I lavori si concentrano sulle sfide e sulle prospettive per la crescita della regione sudamericana. Lo riferisce ABC Color.",
+   "more": [
+    "L'America Latina è un'area geografica e culturale complessa, frequentemente soggetta a transizioni economiche e politiche che richiedono un costante confronto tra analisti e decisori politici per promuovere la stabilità e la cooperazione regionale."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/16/el-futuro-del-desarrollo-de-latinoamerica-en-un-mundo-inestable-reune-a-expertos-en-peru/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T16:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:21",
+   "uscita": "17"
+  },
+  {
+   "id": "za9827701",
+   "sez": "sport",
+   "titolo": "Rafa Jódar punta a Torino",
+   "orig": "Rafa Jódar apunta a Turín",
+   "lead": "Il tennista Rafa Jódar ha messo nel mirino la città di Torino in vista dei prossimi impegni agonistici di rilievo internazionale. L'atleta guarda con determinazione all'importante appuntamento piemontese che chiude la stagione del tennis professionistico maschile. Lo riferisce ABC Color.",
+   "more": [
+    "Torino ospita regolarmente le Nitto ATP Finals, il prestigioso torneo di fine anno che vede sfidarsi i migliori otto tennisti del ranking mondiale maschile."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/tenis/2026/10/16/rafa-jodar-apunta-a-turin/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T16:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:21",
+   "uscita": "17"
+  },
+  {
+   "id": "z266d9dbd",
+   "sez": "mondo",
+   "titolo": "Disordini: danneggiati otto posti di polizia, 31 veicoli delle forze dell'ordine e 162 telecamere Safe City",
+   "orig": "Troubles : 8 postes de police, 31 véhicules de la police et 162 caméras Safe City endommagés",
+   "lead": "A seguito di recenti disordini verificatisi nel Paese, il bilancio dei danni materiali registrato dalle autorità comprende otto posti di polizia presi di mira, 31 veicoli appartenenti alle forze dell'ordine danneggiati e 162 telecamere del sistema di sorveglianza Safe City rese inservibili. Lo riferisce Defimedia.",
+   "more": [
+    "I sistemi di videosorveglianza urbana noti come 'Safe City' vengono installati nelle aree metropolitane per monitorare la sicurezza pubblica, prevenire i reati e supportare le forze dell'ordine nella gestione dell'ordine pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/troubles-8-postes-de-police-31-vehicules-de-la-police-et-162-cameras-safe-city-endommages",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-16T20:05+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "18:21",
+   "uscita": "17"
+  },
+  {
    "id": "z0b4d4a8c",
    "sez": "italia",
    "titolo": "Il Papa sente Putin al telefono e chiede una tregua per la città di Oleshky",
@@ -32644,7 +32764,12 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb542189f": "La testata mette in luce l'iniziativa di servizio pubblico rivolta ai cittadini per migliorare l'efficienza postale e risolvere le controversie.",
   "zed309aed": "La testata evidenzia le scelte artistiche del festival culturale e il successo della serata musicale dedicata agli spettacoli locali.",
   "z15393785": "La testata mette in risalto l'avanzamento tecnologico e burocratico delle procedure di aggiornamento delle liste elettorali.",
-  "zc7fd4578": "La testata punta i riflettori sull'anteprima visiva della nuova produzione audiovisiva e sulla coppia di attori protagonisti."
+  "zc7fd4578": "La testata punta i riflettori sull'anteprima visiva della nuova produzione audiovisiva e sulla coppia di attori protagonisti.",
+  "z1c6c5886": "Trend evidenzia l'andamento positivo della bilancia commerciale georgiana nei primi nove mesi dell'anno.",
+  "zfb6d4272": "ABC Color documenta l'aggravarsi dell'emergenza umanitaria legata all'innalzamento del livello del fiume Paraná.",
+  "z27a19d42": "ABC Color pone l'attenzione sul dibattito economico e strategico che coinvolge gli esperti riuniti in territorio peruviano.",
+  "za9827701": "ABC Color evidenzia le ambizioni sportive del tennista in vista dell'importante appuntamento di fine stagione.",
+  "z266d9dbd": "Defimedia riporta il bilancio dettagliato dei danni provocati alle infrastrutture di sicurezza durante i disordini."
  },
  "contesti": {
   "z1838bc4e": "Nei giorni precedenti erano emerse le polemiche sul piano segreto di Infantino per vendere quote del Mondiale a investitori privati, poi abbandonato, e sulle critiche al premio per la pace Fifa assegnato a Trump, ritenuto eccessivamente politicizzato dai membri del consiglio.",
@@ -41667,6 +41792,41 @@ window.EDIZIONI["2026-10-16-sera"] = {
     "Italy"
    ],
    "pt": []
+  },
+  "z1c6c5886": {
+   "n": "Georgia",
+   "p": [
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "zfb6d4272": {
+   "n": "Paraguay",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z27a19d42": {
+   "n": "Perù",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "za9827701": {
+   "n": "Torino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z266d9dbd": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -42921,7 +43081,12 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb542189f": 1,
   "zed309aed": 1,
   "z15393785": 1,
-  "zc7fd4578": 1
+  "zc7fd4578": 1,
+  "z1c6c5886": 1,
+  "zfb6d4272": 1,
+  "z27a19d42": 1,
+  "za9827701": 1,
+  "z266d9dbd": 1
  },
  "video": {},
  "pillole": []
