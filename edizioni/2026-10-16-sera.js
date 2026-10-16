@@ -1010,30 +1010,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z2d2d2b57",
-   "sez": "mondo",
-   "titolo": "Etiopia: il governo istituisce un'amministrazione provvisoria di sei mesi nella regione del Tigrè",
-   "orig": "Governo etíope cria administração provisória no Tigray por seis meses",
-   "lead": "Il governo federale dell'Etiopia ha deciso la creazione di un'amministrazione provvisoria con durata semestrale nella regione settentrionale del Tigrè, segnata da prolungati combattimenti e finora controllata dai ribelli del Fronte di Liberazione Popolare del Tigrè. L'esecutivo guidato da Abiy Ahmed ha specificato attraverso i social network che il nuovo esecutivo locale avrà il compito di ristabilire la stabilità politica in vista di elezioni trasparenti. Lo riferisce Expresso das Ilhas.",
-   "more": [
-    "Il Tigrè è una regione montuosa situata nel nord dell'Etiopia, al centro di un grave conflitto armato e politico che ha contrapposto le forze federali ai movimenti ribelli locali."
-   ],
-   "fonti": [
-    {
-     "n": "Expresso das Ilhas",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://expressodasilhas.cv/mundo/2026/10/16/governo-etiope-cria-administracao-provisoria-no-tigray-por-seis-meses/105124",
-     "angolo": "",
-     "atlas": "Cabo Verde",
-     "t": "2026-10-16T15:18+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:59",
-   "uscita": "17"
-  },
-  {
    "id": "z3b238434",
    "sez": "mondo",
    "titolo": "Capo Verde: Kiari Trovoada e Nina Crisóstomo vincono l'edizione 2026 del premio Filma Kabu Verdi",
@@ -2037,7 +2013,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z498de793",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "La cinese DeepSeek colpita da un'interruzione dei servizi di intelligenza artificiale durata cinque ore",
    "orig": "China's DeepSeek hit by 5-hour AI service outage",
    "lead": "La società cinese DeepSeek ha subito un'interruzione dei propri servizi di intelligenza artificiale protrattasi per circa cinque ore. Il blocco temporaneo ha interessato gli utenti delle piattaforme tecnologiche gestite dall'azienda asiatica. Lo riferisce Nikkei Asia.",
@@ -2083,7 +2059,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "zacf2f786",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Il cofondatore di Anthropic sostiene standard di buon senso per la regolamentazione dell'intelligenza artificiale",
    "orig": "Anthropic co-founder backs 'common sense standards' for AI regulation",
    "lead": "Il cofondatore della società Anthropic si è espresso a favore dell'introduzione di standard basati sul buon senso per disciplinare lo sviluppo dell'intelligenza artificiale. L'appello sottolinea la necessità di regole condivise per governare la sicurezza e l'etica nel settore tecnologico. Lo riferisce Nikkei Asia.",
@@ -2657,30 +2633,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z903c7a1b",
-   "sez": "mondo",
-   "titolo": "Mauritius: proteste e tensioni sociali oltre la crisi idrica in una società fortemente diseguale",
-   "orig": "A l’île Maurice, une colère qui dépasse la crise de l’eau dans une société « très inégalitaire »",
-   "lead": "A seguito del grave ferimento di una giovane donna da parte di un agente di polizia, avvenuto venerdì 9 ottobre, diverse regioni di Mauritius sono state teatro di rivolte urbane. Le proteste evidenziano un disagio sociale profondo che va ben oltre la cronica penuria d'acqua, alimentato dalla frustrazione di una gioventù colpita dalle politiche di austerità in un contesto economico segnato da forti disuguaglianze. Lo riferisce Le Monde.",
-   "more": [
-    "L'isola di Mauritius affronta sfide strutturali legate alla gestione delle risorse idriche e alla distribuzione della ricchezza, fattori che influenzano la stabilità sociale della popolazione giovanile."
-   ],
-   "fonti": [
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/afrique/article/2026/10/16/a-l-ile-maurice-une-colere-qui-depasse-la-crise-de-l-eau-dans-une-societe-tres-inegalitaire_6795548_3212.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-16T14:27+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:53",
-   "uscita": "17"
-  },
-  {
    "id": "z526adc76",
    "sez": "mondo",
    "titolo": "Marine Le Pen intende bloccare gli aiuti finanziari all'ucraina in caso di vittoria: la posizione degli altri candidati",
@@ -2921,30 +2873,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z753f8445",
-   "sez": "tech",
-   "titolo": "Elon Musk presenta il nuovo Tesla volante nel contesto di recenti difficoltà d'immagine",
-   "orig": "Technik: Elon Düsentrieb",
-   "lead": "L'imprenditore Elon Musk ha svelato un nuovo modello di automobile Tesla in grado di volare, un annuncio che si inserisce in un periodo in cui la figura del magnate ha subito contraccolpi a causa di dispute di potere e manovre che ne hanno intaccato la posizione commerciale e mediatica. Lo riferisce Süddeutsche Zeitung.",
-   "more": [
-    "Le strategie industriali e mediatiche di Elon Musk uniscono costantemente innovazioni tecnologiche dirompenti e gestione personalistica dell'immagine aziendale."
-   ],
-   "fonti": [
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/kultur/elon-musk-tesla-roadster-mitarbeiter-ingenieure-li.3564479",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-16T12:10+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:53",
-   "uscita": "17"
-  },
-  {
    "id": "z7a53c2ae",
    "sez": "mondo",
    "titolo": "Un irritato Volodymyr Zelensky cerca rifugio politico tra i leader europei riuniti a Bruxelles",
@@ -3090,7 +3018,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z9bcb240d",
-   "sez": "cultura",
+   "sez": "cucina",
    "titolo": "Scienza e gastronomia si incontrano alla Fondazione Champalimaud",
    "orig": "Ciência e gastronomia, um encontro improvável na Fundação Champalimaud",
    "lead": "Per il secondo anno consecutivo, l'iniziativa Science Kitchen ha dimostrato durante una cena come scienziati e chef condividano molto più di quanto si possa immaginare. L'evento, tenutosi presso la Fondazione Champalimaud, ha evidenziato come la curiosità, la formulazione di ipotesi e la meticolosità siano elementi comuni a entrambi i mondi. Lo riferisce Público.",
@@ -3953,54 +3881,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "ze0104895",
-   "sez": "mondo",
-   "titolo": "Istanbul colpita dalla peggiore alluvione degli ultimi ottant'anni: quattro le vittime",
-   "orig": "U najgoroj poplavi u Istanbulu za 80 godina poginule četiri osobe",
-   "lead": "A Istanbul, in Turchia, una catastrofica alluvione ha causato la morte di quattro persone. Secondo quanto dichiarato dal ministro dell'Interno turco Mustafa Çiftçi, l'evento meteorologico estremo rappresenta la peggiore inondazione registrata nella metropoli negli ultimi ottant'anni. Lo riferisce N1 Serbia.",
-   "more": [
-    "Istanbul è la metropoli più popolosa della Turchia, situata sul Bosforo e storicamente vulnerabile a eventi climatici intensi e precipitazioni improvvise che mettono a dura prova le infrastrutture urbane e i sistemi di drenaggio."
-   ],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/svet/u-najgorioj-poplavi-u-istanbulu-za-80-godina-poginule-cetiri-osobe/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-16T16:30+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
-   "id": "z9bbfd351",
-   "sez": "mondo",
-   "titolo": "Mitingo elettorale della lista guidata da Aleksandar Vučić a Novi Sad",
-   "orig": "Gledajte UŽIVO Dan uživo: SNS miting u Novom Sadu",
-   "lead": "A Novi Sad si è tenuto il comizio elettorale della lista \"Aleksandar Vučić – Ujedinjena Srbija\", dopo almeno otto annunci relativi all'arrivo nella città serba. Si tratta del primo appuntamento di questo tipo organizzato nel centro urbano. L'evento è stato trasmesso in diretta televisiva per seguire gli sviluppi della campagna. Lo riferisce N1 Serbia.",
-   "more": [
-    "Novi Sad è la seconda città più importante della Serbia ed è un nodo culturale ed economico di rilievo nella regione autonoma della Voivodina, spesso al centro della contesa politica durante le tornate elettorali."
-   ],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/najave-emisija/dan-uzivo-sns-miting-u-novom-sadu/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-16T16:19+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
    "id": "z4ba3c433",
    "sez": "mondo",
    "titolo": "La Camera dei Rappresentanti nigeriana chiede leggi severe contro i prodotti alimentari tossici",
@@ -4192,7 +4072,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "za648708a",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Yamal protagonista e trascinatore in vista della sfida del Barcellona contro il Betis",
    "orig": "Yamal on song as entertainers Barcelona face Betis challenge",
    "lead": "A Nairobi, un resoconto di carattere sportivo evidenzia le lodi espresse dall'allenatore del Barcellona Hansi Flick nei confronti del giovane talento Yamal, definito un elemento capace di cambiare il volto della partita e di offrire prestazioni di altissimo livello. La squadra catalana si prepara intanto ad affrontare la prossima sfida di campionato contro il Betis. Lo riferisce Citizen Digital.",
@@ -4391,7 +4271,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z4e543673",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "Aespa e Ateez guidano la line-up dei Melon Music Awards mentre BTS e Blackpink ottengono le candidature",
    "orig": "Aespa, Ateez lead MMAs lineup, as BTS, Blackpink earn nominations",
    "lead": "A Seul, la piattaforma di streaming musicale Melon ha annunciato che la diciottesima edizione dei Melon Music Awards si estenderà per la prima volta a un evento di due giorni, in programma il 14 e 15 novembre presso il Gocheok Sky Dome. La manifestazione vedrà la partecipazione di artisti affermati della scena K-pop e di nuove leve, tra cui i gruppi Aespa e Ateez, e registrerà candidature per le band BTS e Blackpink, introducendo anche un nuovo premio basato sull'attività di streaming in Corea del Sud, Cina e Giappone. Lo riferisce The Korea Herald.",
@@ -4533,7 +4413,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z4b5d2729",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Shubman Gill torna in campo con il Punjab nel match di Ranji Trophy contro il Chhattisgarh",
    "orig": "Shubman Gill to turn out for Punjab in Ranji Trophy clash against Chhattisgarh",
    "lead": "A Mumbai, l'ambito sportivo registra il rientro in campo del giocatore Shubman Gill con la maglia del Punjab in vista della stagione 2026-27 del Ranji Trophy. L'atleta parteciperà alla partita del secondo turno contro il Chhattisgarh, in programma a partire dal 18 ottobre, dopo aver saltato il match inaugurale contro l'Assam. Di recente, Gill è stato insignito per la quinta volta del riconoscimento di Giocatore del Mese della ICC. Lo riferisce Times of India.",
@@ -4907,39 +4787,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-16T16:15+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:52",
-   "uscita": "17"
-  },
-  {
-   "id": "zb7104932",
-   "sez": "tech",
-   "titolo": "Tesla presenta il nuovo Roadster con capacità di volo: quale impatto su vendite e azioni?",
-   "orig": "Could Tesla’s flying car send sales and shares soaring?",
-   "lead": "La casa automobilistica Tesla ha svelato in Texas la nuova generazione della sua vettura sportiva Roadster, mostrando durante la presentazione un esemplare capace di esibirsi in manovre acrobatiche e di dimostrare capacità di volo. Tuttavia, nonostante lo spettacolare debutto, gli analisti interpellati da Euronews Business non prevedono che questo particolare modello possa generare un incremento significativo dei ricavi aziendali. Lo riferisce Euronews.",
-   "more": [
-    "Tesla è un'azienda statunitense leader nella produzione di veicoli elettrici e soluzioni per l'energia pulita, nota per le sue campagne di lancio innovative e ad alto impatto mediatico."
-   ],
-   "fonti": [
-    {
-     "n": "Euronews",
-     "p": "XX",
-     "c": "Lione",
-     "u": "https://www.euronews.com/2026/10/16/could-teslas-flying-car-send-sales-and-shares-soaring",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T16:04+02:00"
-    },
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-16T16:47+02:00"
     }
    ],
    "data": "16 ott",
@@ -6399,30 +6246,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zf3277350",
-   "sez": "mondo",
-   "titolo": "Il ministro dell'Agricoltura turco in visita a Yerevan per la conferenza sulla biodiversità",
-   "orig": "Turkish Minister Visits Armenia",
-   "lead": "Il ministro dell'Agricoltura della Turchia, İbrahim Yumakli, si è recato in visita a Yerevan per prendere parte alla conferenza delle Nazioni Unite sulla biodiversità in corso nella capitale armena. La presenza del rappresentante governativo si inserisce nel contesto dei lavori internazionali dedicati alla tutela ambientale e alla conservazione degli ecosistemi. Lo riferisce Azatutyun (inglese).",
-   "more": [
-    "Le conferenze delle Nazioni Unite sulla biodiversità riuniscono delegazioni internazionali per definire politiche globali di tutela della natura, della flora e della fauna selvatica."
-   ],
-   "fonti": [
-    {
-     "n": "Azatutyun (inglese)",
-     "p": "XX",
-     "c": "Erevan",
-     "u": "https://www.azatutyun.am/a/33877979.html",
-     "angolo": "",
-     "atlas": "Armenia",
-     "t": "2026-10-16T17:44+04:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:51",
-   "uscita": "17"
-  },
-  {
    "id": "zbfe86405",
    "sez": "mondo",
    "titolo": "Identificati oltre 281 mila soldati russi deceduti nel conflitto in Ucraina",
@@ -6918,6 +6741,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Iran",
      "t": "2026-10-16T14:26+00:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/magazin/scitech/otkrivena-prva-zvezda-koja-sija-zeleno-naucnici-objasnili-neobicnu-boju/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-16T13:11+02:00"
     }
    ],
    "data": "16 ott",
@@ -7038,30 +6870,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-16T14:07+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:51",
-   "uscita": "17"
-  },
-  {
-   "id": "zd9b9494e",
-   "sez": "mondo",
-   "titolo": "Ucraina, Zelensky e le incertezze del sostegno occidentale",
-   "orig": "Ukraine : Zelensky face aux incertitudes du soutien occidental",
-   "lead": "Durante una visita a Bruxelles, il presidente ucraino Volodymyr Zelensky ha rimarcato la totale dipendenza dell'Ucraina dal sistema satellitare Starlink, divenuto indispensabile per garantire le comunicazioni delle forze armate sul campo. Tale nodo strategico evidenzia la forte vulnerabilità di Kiev nei confronti delle decisioni strategiche prese da soggetti privati statunitensi, in un momento in cui la stabilità e la continuità del supporto politico e militare da parte di Washington appaiono sempre più incerte. Lo riferisce France 24.",
-   "more": [
-    "Le costellazioni di satelliti per le telecomunicazioni a bassa quota offrono una connettività a banda larga fondamentale per la gestione tattica delle operazioni militari e la continuità dei servizi essenziali nelle aree di conflitto."
-   ],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/vid%C3%A9o/20261016-ukraine-zelensky-face-aux-incertitudes-du-soutien-occidental",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-16T13:35+00:00"
     }
    ],
    "data": "16 ott",
@@ -7205,30 +7013,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-10-16T15:32+01:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:51",
-   "uscita": "17"
-  },
-  {
-   "id": "z3319853b",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV in miglioramento, celebra la messa e distribuisce la comunione in ospedale",
-   "orig": "Paus aan beterende hand, draagt mis op in ziekenhuis",
-   "lead": "Le condizioni di salute di Papa Leone XIV registrano progressi incoraggianti, confermati dai nuovi esami del sangue e dalle radiografie eseguite al Policlinico Gemelli, dove nei giorni scorsi gli è stato rimosso un piccolo nodulo maligno dal polmone. Nel pomeriggio il Pontefice ha celebrato una funzione religiosa all'interno della struttura ospedaliera, distribuendo anche la comunione alla presenza di operatori sanitari e membri della polizia vaticana. Il Papa ha espresso gratitudine al personale medico per l'assistenza prestata ai pazienti vulnerabili, mentre prosegue con gli esercizi respiratori e riprende gradualmente lo svolgimento autonomo delle proprie attività quotidiane. Lo riferisce NOS.",
-   "more": [
-    "Il Policlinico Gemelli di Roma è storicamente il punto di riferimento medico per i ricoveri e le cure ospedaliere dei Pontefici della Chiesa cattolica."
-   ],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635247",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-16T17:17+02:00"
     }
    ],
    "data": "16 ott",
@@ -8245,6 +8029,14 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-16T12:51+00:00"
+    },
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
+     "angolo": "",
+     "atlas": "Japan"
     }
    ],
    "data": "16 ott",
@@ -10210,30 +10002,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z6565879e",
-   "sez": "economia",
-   "titolo": "Le borse indonesiane crollano dopo il declassamento di MSCI",
-   "orig": "Jakarta shares plunge after downgrade shock",
-   "lead": "Il mercato azionario indonesiano ha subito venerdì il calo giornaliero più marcato dal 1998, dopo che MSCI ha annunciato che l'Indonesia non merita più lo status di \"mercato emergente\" e ha delineato un piano per rimuoverla da una serie di indici seguiti dai fondi di investimento. La decisione ha colto di sorpresa gli investitori. Lo riferisce Bangkok Post.",
-   "more": [
-    "MSCI è un fornitore globale di indici finanziari ampiamente utilizzati dai fondi d'investimento per allocare capitali; una riclassificazione di un paese, come il declassamento da mercato emergente, può provocare forti deflussi di capitali dai mercati locali."
-   ],
-   "fonti": [
-    {
-     "n": "Bangkok Post",
-     "p": "XX",
-     "c": "Bangkok",
-     "u": "https://www.bangkokpost.com/business/general/3338315/jakarta-shares-plunge-after-downgrade-shock",
-     "angolo": "",
-     "atlas": "Thailand",
-     "t": "2026-10-16T19:36+07:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:32",
-   "uscita": "17"
-  },
-  {
    "id": "z8f4a36fe",
    "sez": "sport",
    "titolo": "Bolivia, sorteggiati gli arbitri per i quarti di finale della Copa",
@@ -10496,30 +10264,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z27d9aa3f",
-   "sez": "mondo",
-   "titolo": "Albania: gli studenti chiedono un cambio politico e le dimissioni del premier Edi Rama",
-   "orig": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-   "lead": "Deutsche Welle racconta come gli studenti albanesi siano diventati protagonisti di un movimento di protesta che rappresenta la più grande sfida per il primo ministro Edi Rama negli ultimi anni. Tra aule universitarie vuote ed edifici in fiamme, i manifestanti chiedono un cambiamento politico e le dimissioni del capo del governo. Il movimento studentesco guida la mobilitazione, portando avanti rivendicazioni che coinvolgono l'intera scena politica del paese balcanico. Lo riferisce Deutsche Welle.",
-   "more": [
-    "Edi Rama è primo ministro dell'Albania da oltre un decennio, leader del Partito Socialista. Le proteste studentesche si inseriscono in un più ampio malcontento popolare verso il suo governo, alimentato da accuse di corruzione e dalla richiesta di maggiore trasparenza nella gestione pubblica del paese."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-16T14:23+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:28",
-   "uscita": "17"
-  },
-  {
    "id": "zf76faabd",
    "sez": "mondo",
    "titolo": "Folla in piazza a New Delhi con bandiere indiane tra proteste in escalation",
@@ -10597,6 +10341,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Guatemala",
      "t": "2026-10-14T22:26+00:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635247",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-16T17:17+02:00"
     }
    ],
    "data": "16 ott",
@@ -10699,75 +10452,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Bhutan",
      "t": "2026-10-16T12:40+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:28",
-   "uscita": "17"
-  },
-  {
-   "id": "za7fe9e8f",
-   "sez": "sport",
-   "titolo": "Condannati i cori pro-nazisti prima della partita di Europa League Hajduk Split-Ajax",
-   "orig": "Pro-Nazi chants before Hajduk Split-Ajax UEFA Europa League match slammed",
-   "lead": "Al Jazeera riporta la condanna dei cori pro-nazisti intonati dai tifosi del Hajduk Split prima della partita di Europa League contro l'Ajax, giocata giovedì in Croazia. I cori richiamavano il regime croato precedente alla Seconda guerra mondiale. Il presidente croato Milanovic, secondo la NOS, si è detto vergognato per le frasi intonate dai sostenitori, definendole inaccettabili. Le autorità croate hanno arrestato tre persone in relazione ai cori durante il corteo dei tifosi verso lo stadio, secondo Croatia Week.",
-   "more": [
-    "Hajduk Split è uno storico club calcistico croato. I cori contestati richiamavano simboli e frasi legati al regime filo-nazista instaurato in Croazia durante la Seconda guerra mondiale, un tema particolarmente sensibile nel paese per le ferite storiche legate a quel periodo."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-16T12:42+00:00"
-    },
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635244",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-16T16:47+02:00"
-    },
-    {
-     "n": "ERR News",
-     "p": "XX",
-     "c": "Tallinn",
-     "u": "https://news.err.ee/1610168527/estonian-players-have-mixed-fortunes-in-uefa-conference-league-clashes",
-     "angolo": "",
-     "atlas": "Estonia",
-     "t": "2026-10-16T16:07+03:00"
-    },
-    {
-     "n": "The Punch",
-     "p": "XX",
-     "c": "Lagos",
-     "u": "https://punchng.com/police-arrest-four-over-electricity-infrastructure-theft-in-calabar/?utm_source=rss.punchng.com&utm_medium=web",
-     "angolo": "",
-     "atlas": "Nigeria",
-     "t": "2026-10-16T15:11+00:00"
-    },
-    {
-     "n": "South China Morning Post",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371200/hong-kong-police-arrest-2-men-over-hk17-million-kowloon-break-spree?utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-16T14:04+00:00"
-    },
-    {
-     "n": "Croatia Week",
-     "p": "XX",
-     "c": "Zagabria",
-     "u": "https://www.croatiaweek.com/croatia-arrests-antisemitic-chants-hajduk-split-ajax/",
-     "angolo": "",
-     "atlas": "Croatia",
-     "t": "2026-10-16T13:28+00:00"
     }
    ],
    "data": "16 ott",
@@ -11059,47 +10743,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-16T12:19+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:28",
-   "uscita": "17"
-  },
-  {
-   "id": "z8546a179",
-   "sez": "ingegneria",
-   "titolo": "Tesla ha finalmente presentato la sua auto volante ed è ancora più estrema del previsto",
-   "orig": "Tesla ha finalmente presentato la sua auto volante ed è ancora più estrema del previsto",
-   "lead": "Domus descrive la presentazione della nuova auto sportiva di Tesla, la Roadster, capace di percorrere brevi distanze in volo grazie a propulsori a razzo. L'amministratore delegato Elon Musk ha annunciato il veicolo, definendolo più estremo di quanto ci si aspettasse. Il Messaggero conferma i dettagli, spiegando come funziona il sistema di volo e fornendo indicazioni sul prezzo del modello. La presentazione ha richiamato l'attenzione per l'uso di tecnologie aerospaziali applicate a un'automobile destinata al mercato.",
-   "more": [
-    "La Tesla Roadster è il modello sportivo di punta dell'azienda automobilistica di Elon Musk, già annunciato in passato con promesse di prestazioni estreme. L'integrazione di propulsori a razzo, derivati dall'esperienza di SpaceX, rappresenta un tentativo di superare i limiti tradizionali delle auto elettriche ad alte prestazioni."
-   ],
-   "fonti": [
-    {
-     "n": "Domus",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.domusweb.it/it/notizie/gallery/2026/10/16/tesla-roadster-auto-volante-elon-musk.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T17:00+02:00"
-    },
-    {
-     "n": "Il Messaggero – Tecnologia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/tecnologia/news/tesla_volante_come_funziona_quanto_costa-9828785.html",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-16T12:32+00:00"
     }
    ],
    "data": "16 ott",
@@ -19129,30 +18772,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z6d7f7aa5",
-   "sez": "mondo",
-   "titolo": "Scoperta la prima stella che brilla di verde",
-   "orig": "Otkrivena prva zvezda koja sija zeleno – naučnici objasnili neobičnu boju",
-   "lead": "Gli scienziati hanno individuato una nana bianca che emette una luce giallo-verdastra, candidandosi a essere la prima stella conosciuta con una tale tonalità. I ricercatori hanno fornito una spiegazione per questo colore insolito, raro tra i corpi celesti osservati finora. Lo riferisce N1 Serbia.",
-   "more": [
-    "Le nane bianche sono i resti collassati di stelle che hanno esaurito il combustibile nucleare, con dimensioni simili alla Terra ma massa paragonabile a quella del Sole; il loro colore dipende dalla temperatura superficiale, raramente percepito come verde a causa di come l'occhio umano mescola le lunghezze d'onda della luce."
-   ],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/magazin/scitech/otkrivena-prva-zvezda-koja-sija-zeleno-naucnici-objasnili-neobicnu-boju/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-16T13:11+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:41",
-   "uscita": "13"
-  },
-  {
    "id": "z1832e633",
    "sez": "mondo",
    "titolo": "Bandović: l'UE potrebbe non riconoscere il risultato delle elezioni in Serbia",
@@ -19201,6 +18820,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-16T13:06+02:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/najave-emisija/dan-uzivo-sns-miting-u-novom-sadu/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-16T16:19+02:00"
     }
    ],
    "data": "16 ott",
@@ -23366,6 +22994,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-16T18:15+08:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/10/16/governo-etiope-cria-administracao-provisoria-no-tigray-por-seis-meses/105124",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-16T15:18+00:00"
     }
    ],
    "data": "16 ott",
@@ -23627,6 +23264,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Monaco",
      "t": "2026-10-12T10:00+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261016-ukraine-zelensky-face-aux-incertitudes-du-soutien-occidental",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-16T13:35+00:00"
     }
    ],
    "data": "16 ott",
@@ -29436,29 +29082,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z2373b709",
-   "sez": "economia",
-   "titolo": "La Cina aggiunge intelligenza artificiale, biofarmaceutica e tecnologia solare alla lista dei controlli sull'export",
-   "orig": "China to add AI, biopharma and solar tech to export control list",
-   "lead": "La Cina si prepara ad ampliare la propria lista di controlli sulle esportazioni includendo tecnologie legate all'intelligenza artificiale, al settore biofarmaceutico e alla tecnologia solare. La mossa segue la strategia cinese di proteggere settori tecnologici strategici attraverso restrizioni commerciali. Lo riferisce Nikkei Asia.",
-   "more": [
-    "I controlli sulle esportazioni sono misure con cui un governo limita la vendita all'estero di tecnologie o materiali considerati strategici, spesso per motivi di sicurezza nazionale o di competitività economica internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Nikkei Asia",
-     "p": "XX",
-     "c": "Tokyo",
-     "u": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
-     "angolo": "",
-     "atlas": "Japan"
-    }
-   ],
-   "data": "",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
    "id": "z91e6026d",
    "sez": "economia",
    "titolo": "Il Kazakistan propone nuove iniziative su sicurezza, energia e cooperazione digitale al summit CICA di Baku",
@@ -29647,7 +29270,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb541b624": "The BMJ propone una riflessione sulla necessità di riformare la governance sanitaria globale mantenendo i diritti acquisiti.",
   "zf6deeb57": "Ars Technica offre una rassegna tecnica degli sviluppi nel settore dei lanciatori spaziali senza prendere posizione.",
   "ze7d32343": "South China Morning Post mette in luce il legame personale di Jones con la città come motivazione della scelta imprenditoriale.",
-  "z2373b709": "Nikkei Asia riporta la notizia come parte della più ampia strategia commerciale e tecnologica cinese.",
   "z91e6026d": "The Astana Times e AKIpress riportano entrambe le proposte di Tokayev con enfasi simile sul ruolo di leadership del Kazakistan nel summit.",
   "zbade36dd": "Il Post ricostruisce la biografia di Rimet evidenziando sia i successi calcistici che le ombre politiche della sua figura.",
   "zc9d6e588": "MIT Technology Review presenta il dispositivo come un'innovazione significativa per una malattia finora priva di trattamenti efficaci.",
@@ -29896,7 +29518,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zadd71284": "ANSA documenta la scena con un taglio quasi cronachistico, sottolineando la vicinanza tra il cardinale e il luogo di ricovero del Papa.",
   "z4c38b7b5": "Il Financial Times offre una lettura critica delle cifre spesso citate nel settore assicurativo, invitando a una valutazione più realistica.",
   "zd5de3bef": "N1 Serbia avvisa i passeggeri sulle possibili conseguenze pratiche del guasto tecnico in Italia.",
-  "z6d7f7aa5": "N1 Serbia presenta la scoperta come una rarità astronomica spiegata dagli scienziati.",
   "z1832e633": "N1 Serbia riporta un'opinione analitica sulle possibili conseguenze diplomatiche del voto serbo.",
   "zda0e9a91": "N1 Serbia segnala le ripercussioni logistiche sulla città causate dall'organizzazione del comizio del partito di governo.",
   "z080a72db": "Il New York Times ritrae la figura di Abbas come possibile ago della bilancia nel panorama politico israeliano.",
@@ -30154,12 +29775,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb4a26875": "La BBC mette in evidenza il salto di scala delle proteste di martedì rispetto ai mesi di manifestazioni precedenti.",
   "zc5b65bfc": "Al Jazeera pone l'accento sulla pericolosità globale di una tecnica che non richiede alcuna azione della vittima.",
   "z0f2b31a1": "Rai News riprende la nota ufficiale della Sala stampa vaticana, sottolineando il tono rassicurante sulle condizioni del Papa.",
-  "z27d9aa3f": "Deutsche Welle pone l'accento sul ruolo guida degli studenti nella protesta contro il governo di Edi Rama.",
   "zf76faabd": "NPR dà voce alle accuse dei critici, mentre riporta anche la versione del governo e della Commissione elettorale che le respingono.",
   "zec1f5959": "Le testate latinoamericane concordano nel sottolineare il buon aspetto del Papa nelle prime immagini diffuse, mentre Diario Libre e Prensa Libre si concentrano sulla ripresa dell'autonomia e sulla gestione della Chiesa durante la convalescenza.",
   "z742e5586": "14ymedio si concentra sui fatti essenziali dell'incendio, mentre gli altri articoli nello stesso elenco trattano temi slegati, dalla sicurezza in Brasile ai prezzi dei carburanti in Cile.",
   "z144ee37c": "CNA mette in luce l'ambivalenza del fenomeno per i pescatori britannici, mentre gli altri articoli dell'elenco affrontano minacce climatiche diverse, dalle tartarughe marine alla malnutrizione infantile.",
-  "za7fe9e8f": "Al Jazeera e NOS si concentrano sulla condanna politica dei cori, mentre Croatia Week riporta i dettagli degli arresti operati dalla polizia croata.",
   "zb887c710": "Gabonreview valorizza l'aspetto umano delle testimonianze raccolte a Libreville, elemento che ricorre anche nelle analoghe iniziative descritte da fonti guineane e burkinabé sullo stesso tema.",
   "zddb1af07": "Moscow Times sottolinea la distanza record del bersaglio dal confine ucraino, mentre Kyiv Independent riprende l'identificazione dell'impianto fornita da un attivista ucraino.",
   "z0a88e87b": "The Guardian adotta un tono ironico nel riportare i dettagli apparentemente minori che animano il dibattito attorno ai film biografici.",
@@ -30168,7 +29787,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zc299088f": "Gambero Rosso riporta la posizione provocatoria dell'enologo, che sfida le convenzioni territoriali della viticoltura italiana.",
   "z5e15e22a": "Rolling Stone Italia e Il Fatto Quotidiano riportano entrambi le parole dirette di Vasco Rossi sull'episodio, concentrandosi sul tono conciliante del suo messaggio.",
   "z99ffbe9a": "Anime News Network e Crunchyroll News riportano entrambi l'uscita del nuovo trailer in coincidenza con il debutto del film nei cinema giapponesi.",
-  "z8546a179": "Domus si concentra sulla spettacolarità tecnica del veicolo, mentre Il Messaggero approfondisce gli aspetti pratici, come funzionamento e prezzo della Roadster.",
   "z7b59107b": "La BBC riporta le accuse ucraine sulle restrizioni al servizio, nel quadro della richiesta di chiarimenti da parte dei senatori americani.",
   "ze049d08e": "BBC Newsround punta sul coinvolgimento diretto del pubblico giovane, invitandolo a partecipare con le proprie domande.",
   "z12f1e6e0": "BBC Travel adotta un taglio narrativo e turistico, concentrandosi sull'unicità storica e culturale della città divisa.",
@@ -30331,7 +29949,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zab7e90a2": "La testata presenta il risultato come una tappa importante nella stagione del tennista spagnolo.",
   "zacc1aafb": "La testata presenta il dato come segnale della vitalità economica del centro commerciale locale.",
   "zf8814ac0": "La testata riporta lo scontro verbale senza prendere posizione tra le parti.",
-  "z6565879e": "La testata descrive l'impatto immediato e drammatico della decisione sui mercati indonesiani.",
   "z8f4a36fe": "La testata si limita a riportare l'esito del sorteggio arbitrale.",
   "z68c5fe4d": "La testata riporta l'iniziativa istituzionale senza ulteriori dettagli.",
   "z9ab70de1": "La testata riporta l'appello di Macron come segnale di urgenza politica a Bruxelles.",
@@ -30347,7 +29964,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zcb5fd2b3": "La notizia mette in risalto il miglioramento dei collegamenti infrastrutturali tra la capitale moldava e il principale scalo aeroportuale.",
   "z9aca919a": "L'emittente evidenzia l'esclusione politica di una figura di primo piano della politica azera, già colpita da gravi procedimenti giudiziari.",
   "z21eaf9fd": "La testata pone l'accento sulla cooperazione energetica e sui colloqui in corso tra Mosca e Yerevan per lo sviluppo nucleare.",
-  "zf3277350": "L'articolo sottolinea la partecipazione del ministro turco a un vertice internazionale ospitato nella capitale armena.",
   "zbfe86405": "Il report evidenzia il lavoro di verifica dei dati sulle vittime militari compiuto da testate indipendenti e volontari.",
   "z2b0d92cb": "La rete radiotelevisiva nazionale promuove la propria programmazione culturale e di intrattenimento dedicata ai viaggi.",
   "z431d7d17": "La testata segnala la messa in onda della rubrica all'interno della programmazione del fine settimana.",
@@ -30374,14 +29990,12 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "za0a288ff": "La testata Daily NK sottolinea le difficoltà logistiche e strutturali che ostacolano l'attuazione pratica delle direttive politiche di cooperazione culturale tra Pyongyang e Mosca.",
   "z606ab938": "La testata France 24 pone l'accento sulla gravità dell'emergenza infrastrutturale e sull'enorme divario temporale stimato dalle autorità di controllo per la messa in sicurezza della rete idrica.",
   "z7495dc3e": "La testata France 24 evidenzia la testimonianza diretta di un vertice internazionale sulle pressioni politiche e le difficoltà operative affrontate dall'agenzia Onu nell'area mediorientale.",
-  "zd9b9494e": "La testata France 24 analizza la fragilità geopolitica e tecnologica di Kiev legata alla dipendenza da infrastrutture private straniere e alle fluttuazioni degli aiuti occidentali.",
   "z20a47b28": "La testata France 24 mette in risalto il passaggio da un singolo errore tecnologico a un caso di rilevanza politica internazionale sulla regolamentazione e la responsabilità delle aziende di IA.",
   "za19b9040": "La testata Tagesschau evidenzia la linea politica del ministero dell'Economia orientata verso una maggiore selettività degli aiuti sociali rispetto ai sussidi generalizzati.",
   "z7d5febde": "La testata RTP sottolinea la duplice presa di posizione del politico, critica verso le politiche sociali del governo ma intransigente sul mantenimento dell'ordine pubblico.",
   "zabb7e9a0": "La testata RTP focalizza l'attenzione sulla determinazione del tennista portoghese alla vigilia dell'appuntamento più rilevante della sua carriera agonistica.",
   "zd1c474a3": "La testata RTP evidenzia il voto dell'assemblea legislativa e il contesto territoriale locale legato alla campagna elettorale da cui è scaturita la vicenda giudiziaria.",
   "z426b6cfa": "La testata RTP dà risalto all'ampio consenso unanime ottenuto in parlamento da un pacchetto di riforme sociali di grande impatto per le famiglie.",
-  "z3319853b": "La testata NOS evidenzia la ripresa fisica del Papa e il forte valore simbolico della messa celebrata direttamente nella stanza d'ospedale.",
   "zc6bfe246": "La testata NOS sottolinea l'impatto economico e giuridico immediato delle tensioni diplomatiche internazionali sulle istituzioni finanziarie europee.",
   "zbd59e879": "La testata NOS offre una panoramica politica interna e internazionale attraverso il formato del podcast di approfondimento giornalistico.",
   "zd5a58b05": "La testata NOS evidenzia la conclusione di una lunga vertenza storica e istituzionale volta a riconoscere i diritti economici ai familiari dei reduci militari.",
@@ -30419,8 +30033,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z5915c609": "L'emittente serba evidenzia le dichiarazioni del leader politico in vista della scadenza elettorale.",
   "z1c9392a2": "La testata N1 Serbia mette in evidenza la critica istituzionale sulla trasparenza dei provvedimenti di clemenza governativi.",
   "z92d1cff5": "N1 Serbia pone l'accento sulla svolta aggressiva e priva di contenuti programmatici positivi della campagna elettorale del partito di governo.",
-  "ze0104895": "N1 Serbia evidenzia la portata storica e drammatica del disastro naturale che ha colpito la metropoli turca.",
-  "z9bbfd351": "N1 Serbia trasmette in diretta e monitora le tappe della campagna elettorale della coalizione di governo guidata da Aleksandar Vučić.",
   "z4ba3c433": "The Punch pone l'accento sulla risposta parlamentare ai pericoli per la salute pubblica derivanti dalla contraffazione e dalla contaminazione alimentare.",
   "z93c49c1d": "The Punch evidenzia l'attivismo delle organizzazioni studentesche nella richiesta di maggiori garanzie sanitarie nei luoghi di studio.",
   "z1e703803": "The Punch valorizza il riconoscimento internazionale ottenuto da un ricercatore nigeriano nel campo delle scienze ambientali e idriche.",
@@ -30459,7 +30071,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z80ed53c5": "La testata Sydney Morning Herald sottolinea gli investimenti nel settore alberghiero di lusso nella capitale della Thailandia.",
   "z347a5c8d": "La testata Sydney Morning Herald promuove un'attività ludica e interattiva dedicata ai lettori amanti delle curiosità.",
   "z9c218f06": "La testata Euronews sottolinea la tendenza dei marchi automobilistici a unire il design d'epoca con la tecnologia elettrica contemporanea.",
-  "zb7104932": "La testata Euronews evidenzia il divario tra lo stupore mediatico per il prototipo volante e le prudenti previsioni finanziarie degli esperti di mercato.",
   "z54fae5d8": "La testata South China Morning Post – Cina evidenzia la portata scientifica della scoperta fossile in grado di riscrivere le teorie classiche sull'evoluzione aviaria.",
   "ze2cdcb45": "La testata Il Fatto Quotidiano riporta le memorie dell'ex portavoce reale bilanciandole con le perplessità sulla costante esposizione mediatica della principessa.",
   "zdab63852": "La testata Il Fatto Quotidiano offre una riflessione di natura geopolitica sulle condizioni necessarie per raggiungere una soluzione diplomatica alla guerra.",
@@ -30524,7 +30135,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z4b793f32": "La testata boliviana evidenzia la cautela istituzionale rispetto a un'effettiva e immediata distensione dei rapporti diplomatici formali.",
   "z73d6b39e": "Brújula Digital evidenzia la mossa giudiziaria del detenuto e la richiesta formale di verifica indirizzata alle camere legislative.",
   "z62bce806": "Le Monde analizza la strategia di radicamento politico del partito di estrema destra attraverso la difesa degli interessi legati al settore dell'auto privata.",
-  "z903c7a1b": "Le Monde sottolinea come l'episodio di violenza poliziesca abbia fatto esplodere tensioni economiche e sociali preesistenti legate alla crisi idrica e all'austerità.",
   "z526adc76": "Le Figaro analizza la frammentazione delle posizioni dei candidati presidenziali francesi riguardo alla prosecuzione degli aiuti internazionali a Kiev.",
   "zafd1e642": "Libération evidenzia la strategia di convergenza delle lotte studentesche con il movimento sindacale contro il carovita.",
   "za3fff72c": "Libération focalizza l'attenzione sulla dura presa di posizione del corpo docente contro la gestione disciplinare e le autorità scolastiche.",
@@ -30535,7 +30145,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z1b46341b": "Süddeutsche Zeitung pone l'accento sulla prosecuzione dello scontro legale da parte del gestore sconfitto, intenzionato a coinvolgere la Corte costituzionale.",
   "z26c6315a": "Süddeutsche Zeitung riflette sulle implicazioni culturali ed etiche del linguaggio politico nei confronti dei giovani professionisti.",
   "z0f469815": "Süddeutsche Zeitung evidenzia la strategia di opposizione politica adottata dall'imputato all'interno delle aule di giustizia.",
-  "z753f8445": "Süddeutsche Zeitung collega la presentazione del nuovo veicolo futuristico alle recenti difficoltà di posizionamento pubblico del fondatore.",
   "z7a53c2ae": "FAZ sottolinea le tensioni diplomatiche e il clima di freddezza parziale riscontrato dal presidente ucraino durante i colloqui nella capitale belga.",
   "zc4fd074c": "FAZ propone un quadro informativo in tempo reale che unisce le dinamiche geopolitiche alle misure di ritorsione economica.",
   "zfa06f9df": "FAZ evidenzia la linea di fermezza espressa dal rappresentante politico tedesco nei confronti della tenuta economica e militare russa.",
@@ -30612,7 +30221,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z95e47931": "Alakhbar يسلط الضوء على دور البيانات وتأثيرها المهني على الصحافة والإعلام في موريتانيا.",
   "zd390699d": "Alakhbar يبرز الفرص الاقتصادية المتاحة أمام الدول النامية في مجالات البيئة والخدمات.",
   "z3bdcece7": "Alakhbar يركز على تصريحات مسؤولي التجارة العالمية بشأن مستقبل الاقتصاد الإفريقي الأخضر.",
-  "z2d2d2b57": "Expresso das Ilhas evidenzia la mossa politica del governo etiopico per normalizzare la situazione istituzionale nel Tigrè.",
   "z3b238434": "Expresso das Ilhas dà risalto ai giovani talenti vincitori del concorso audiovisivo nazionale.",
   "z13e54303": "Téla Nón sottolinea l'appello alla ricerca di un consenso politico allargato per superare l'assenza di una maggioranza monocolore.",
   "z29190f75": "Téla Nón informa la cittadinanza e gli operatori economici interessati sui cambiamenti logistici relativi al progetto stradale.",
@@ -31537,13 +31145,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Hong Kong",
    "p": [
     "Hong Kong"
-   ],
-   "pt": []
-  },
-  "z2373b709": {
-   "n": "Cina",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -35381,13 +34982,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "p": [],
    "pt": []
   },
-  "z27d9aa3f": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
   "zf76faabd": {
    "n": "Nuova Delhi",
    "p": [
@@ -35411,13 +35005,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Regno Unito",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "za7fe9e8f": {
-   "n": "Spalato",
-   "p": [
-    "Croatia"
    ],
    "pt": []
   },
@@ -35474,13 +35061,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Tokyo",
    "p": [
     "Japan"
-   ],
-   "pt": []
-  },
-  "z8546a179": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -36625,13 +36205,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z6565879e": {
-   "n": "Giacarta",
-   "p": [
-    "Indonesia"
-   ],
-   "pt": []
-  },
   "z8f4a36fe": {
    "n": "Bolivia",
    "p": [
@@ -36739,14 +36312,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "p": [
     "Armenia",
     "Russia"
-   ],
-   "pt": []
-  },
-  "zf3277350": {
-   "n": "Yerevan",
-   "p": [
-    "Armenia",
-    "Turkey"
    ],
    "pt": []
   },
@@ -36944,15 +36509,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zd9b9494e": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium",
-    "Ukraine",
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z20a47b28": {
    "n": "Washington",
    "p": [
@@ -36993,13 +36549,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Lisbona",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "z3319853b": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -37267,20 +36816,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   "z92d1cff5": {
    "n": "Belgrado",
-   "p": [
-    "Serbia"
-   ],
-   "pt": []
-  },
-  "ze0104895": {
-   "n": "Istanbul",
-   "p": [
-    "Turkey"
-   ],
-   "pt": []
-  },
-  "z9bbfd351": {
-   "n": "Novi Sad",
    "p": [
     "Serbia"
    ],
@@ -37559,13 +37094,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   "z9c218f06": {
    "n": "Paris",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "zb7104932": {
-   "n": "Lyon",
    "p": [
     "France"
    ],
@@ -38026,13 +37554,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z903c7a1b": {
-   "n": "Port Louis",
-   "p": [
-    "Mauritius"
-   ],
-   "pt": []
-  },
   "z526adc76": {
    "n": "Parigi",
    "p": [
@@ -38101,14 +37622,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Istanbul",
    "p": [
     "Turkey"
-   ],
-   "pt": []
-  },
-  "z753f8445": {
-   "n": "Monaco di Baviera",
-   "p": [
-    "Germany",
-    "United States of America"
    ],
    "pt": []
   },
@@ -38668,13 +38181,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z2d2d2b57": {
-   "n": "Praia",
-   "p": [
-    "Ethiopia"
-   ],
-   "pt": []
-  },
   "z3b238434": {
    "n": "Praia",
    "p": [],
@@ -39212,7 +38718,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb541b624": 1,
   "zf6deeb57": 1,
   "ze7d32343": 1,
-  "z2373b709": 1,
   "z91e6026d": 1,
   "zbade36dd": 1,
   "zc9d6e588": 1,
@@ -39500,7 +39005,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zadd71284": 1,
   "z4c38b7b5": 1,
   "zd5de3bef": 1,
-  "z6d7f7aa5": 1,
   "z1832e633": 1,
   "zda0e9a91": 1,
   "z080a72db": 1,
@@ -39775,12 +39279,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb4a26875": 1,
   "zc5b65bfc": 1,
   "z0f2b31a1": 1,
-  "z27d9aa3f": 1,
   "zf76faabd": 1,
   "zec1f5959": 2,
   "z742e5586": 1,
   "z144ee37c": 1,
-  "za7fe9e8f": 2,
   "zb887c710": 1,
   "zddb1af07": 2,
   "z0a88e87b": 1,
@@ -39789,7 +39291,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zc299088f": 1,
   "z5e15e22a": 2,
   "z99ffbe9a": 1,
-  "z8546a179": 2,
   "z7b59107b": 1,
   "ze049d08e": 1,
   "z12f1e6e0": 1,
@@ -39961,7 +39462,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zab7e90a2": 1,
   "zacc1aafb": 1,
   "zf8814ac0": 2,
-  "z6565879e": 2,
   "z8f4a36fe": 1,
   "z68c5fe4d": 1,
   "z9ab70de1": 1,
@@ -39977,7 +39477,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zcb5fd2b3": 1,
   "z9aca919a": 1,
   "z21eaf9fd": 1,
-  "zf3277350": 1,
   "zbfe86405": 1,
   "z2b0d92cb": 1,
   "z431d7d17": 1,
@@ -40004,14 +39503,12 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "za0a288ff": 1,
   "z606ab938": 1,
   "z7495dc3e": 1,
-  "zd9b9494e": 1,
   "z20a47b28": 1,
   "za19b9040": 1,
   "z7d5febde": 1,
   "zabb7e9a0": 1,
   "zd1c474a3": 1,
   "z426b6cfa": 1,
-  "z3319853b": 1,
   "zc6bfe246": 1,
   "zbd59e879": 1,
   "zd5a58b05": 1,
@@ -40049,8 +39546,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z5915c609": 1,
   "z1c9392a2": 1,
   "z92d1cff5": 1,
-  "ze0104895": 2,
-  "z9bbfd351": 1,
   "z4ba3c433": 1,
   "z93c49c1d": 1,
   "z1e703803": 1,
@@ -40089,7 +39584,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z80ed53c5": 1,
   "z347a5c8d": 1,
   "z9c218f06": 1,
-  "zb7104932": 2,
   "z54fae5d8": 1,
   "ze2cdcb45": 1,
   "zdab63852": 1,
@@ -40154,7 +39648,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z4b793f32": 1,
   "z73d6b39e": 1,
   "z62bce806": 1,
-  "z903c7a1b": 1,
   "z526adc76": 1,
   "zafd1e642": 1,
   "za3fff72c": 1,
@@ -40165,7 +39658,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z1b46341b": 1,
   "z26c6315a": 1,
   "z0f469815": 1,
-  "z753f8445": 1,
   "z7a53c2ae": 1,
   "zc4fd074c": 1,
   "zfa06f9df": 1,
@@ -40242,7 +39734,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z95e47931": 1,
   "zd390699d": 1,
   "z3bdcece7": 1,
-  "z2d2d2b57": 1,
   "z3b238434": 1,
   "z13e54303": 1,
   "z29190f75": 1,
