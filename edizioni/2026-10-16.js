@@ -3,6 +3,24 @@ window.EDIZIONI["2026-10-16"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "houthi",
+   "sez": "prima",
+   "filo": "yemen-houthi-2026",
+   "titolo": "Il diplomatico saudita accusa l'Iran di spingere l'escalation Houthi, mentre Riyadh resta sotto attacco",
+   "orig": "Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom",
+   "lead": "Un alto diplomatico saudita ha accusato l'Iran di incoraggiare l'escalation degli attacchi Houthi contro il Regno, nel giorno in cui i ribelli yemeniti hanno rivendicato l'abbattimento di un drone da ricognizione saudita sopra la provincia di Marib. Da una settimana gli Houthi colpiscono a ondate il territorio saudita: dopo il missile che l'11 ottobre ha causato la morte di 12 persone e il ferimento di altre 300 all'aeroporto Re Khalid di Riyadh, nei giorni successivi è stata centrata anche una sede amministrativa di Aramco a Dhahran. Il gruppo yemenita ha promesso di continuare a colpire scali e impianti petroliferi finché l'Arabia Saudita non cesserà il suo coinvolgimento nella guerra civile yemenita, alimentando i timori di un fronte aggiuntivo nella più ampia crisi con l'Iran.",
+   "more": [
+    "Un ex inviato Usa in Yemen, citato da Fox News, avverte che gli Houthi stanno costruendo una capacità missilistica sempre più autonoma da Teheran, trasformando il conflitto yemenita in una minaccia globale che va oltre il controllo iraniano."
+   ],
+   "fonti": [
+    {"n": "PBS NewsHour", "p": "US", "c": "Arlington", "u": "https://www.pbs.org/newshour/world/saudi-diplomat-says-iran-is-encouraging-houthi-escalation-of-attacks-on-the-kingdom", "angolo": "Legge l'escalation come il fronte più recente della guerra con l'Iran, sottolineando l'impatto sui mercati globali e le difficoltà saudite nell'intercettare gli attacchi."},
+    {"n": "Fox News", "p": "US", "c": "New York", "u": "https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy", "angolo": "Riporta l'allarme di un ex inviato americano in Yemen: gli Houthi stanno sviluppando armi proprie, al di fuori del controllo di Teheran, e il conflitto rischia di diventare una minaccia globale."},
+    {"n": "CGTN", "p": "CN", "c": "Pechino", "u": "https://news.cgtn.com/news/2026-10-15/Saudi-Houthi-strikes-continue-with-more-threats-to-infrastructure-1RfTzjjT4zu/p.html", "angolo": "La testata statale cinese si limita a cronacare il prosieguo degli scontri e le nuove minacce Houthi contro le infrastrutture, senza approfondire le responsabilità."},
+    {"n": "Middle East Eye", "p": "UK", "c": "Londra", "u": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-saudi-reconnaissance-drone-downed-over-marib", "angolo": "Riporta la versione Houthi: il gruppo rivendica di aver abbattuto un drone da ricognizione saudita Wing Loong II sopra Marib, definendolo in attività «ostili»."}
+   ],
+   "data": "15 ott"
+  },
+  {
    "id": "starlink",
    "sez": "prima",
    "filo": "ucraina-starlink",
@@ -507,6 +525,16 @@ window.EDIZIONI["2026-10-16"] = {
  ],
  "quiz": [
   {
+   "q": "Quante persone sono morte nell'attacco Houthi all'aeroporto Re Khalid di Riyadh dell'11 ottobre?",
+   "opts": [
+    "12",
+    "120",
+    "2"
+   ],
+   "ok": 0,
+   "rif": "houthi"
+  },
+  {
    "q": "A che velocità è stata limitata la connessione Starlink/Starshield dell'esercito ucraino?",
    "opts": [
     "Oltre i 160 km/h",
@@ -548,6 +576,7 @@ window.EDIZIONI["2026-10-16"] = {
   }
  ],
  "sguardi": {
+  "houthi": "L'americana PBS NewsHour e Fox News leggono la vicenda come l'ultimo fronte della più ampia guerra con l'Iran, con Fox che riprende l'allarme di un ex inviato Usa sull'autonomia crescente degli Houthi; la statale cinese CGTN si limita alla cronaca degli scontri; la britannica Middle East Eye dà voce alla versione Houthi sull'abbattimento del drone saudita.",
   "starlink": "L'ucraina Kyiv Independent ricostruisce il meccanismo tecnico della restrizione; la canadese Globe and Mail e la figiana FBC News riprendono la rivelazione Reuters sull'origine dell'ordine alla Casa Bianca; la russa TASS la riporta senza commento ucraino; lo spagnolo El Mundo e il paraguaiano ABC Color insistono sulla vulnerabilità della difesa aerea ucraina; l'italiana ANSA segue lo scontro politico Zelensky-Musk-Trump, mentre Rai News dà spazio alle critiche di Trump a Zelensky.",
   "marnero": "La tedesca Deutsche Welle ricostruisce i dettagli tecnici dei due incendi; il qatariota Al Jazeera si concentra sulle operazioni di ricerca dei dispersi; la britannica BBC inquadra l'episodio nella serie di attacchi del mese; il bahreinita Daily Tribune riprende l'ipotesi di consultazioni Nato sulla sicurezza marittima.",
   "istanbulalluvione": "Il qatariota Al Jazeera e la britannica Sky News si concentrano sul bilancio umano e sui soccorsi; le turche Turkish Minute e Bianet English raccontano rispettivamente gli episodi più mediatici e le cause strutturali del dissesto urbano.",
@@ -563,10 +592,29 @@ window.EDIZIONI["2026-10-16"] = {
   "teslaroadster": "Le testate italiane Il Post e Repubblica si concentrano sullo spettacolo della presentazione e sui dati tecnici; le tedesche Spiegel e FAZ guardano rispettivamente alla dichiarazione sulla guida umana e ai limiti della variante a razzo; l'austriaca Der Standard nota i ritardi di produzione; l'argentina La Nación riprende la cautela espressa da Musk stesso."
  },
  "contesti": {
+  "houthi": "La guerra civile yemenita dura dal 2014: una coalizione guidata dall'Arabia Saudita sostiene il governo riconosciuto contro gli Houthi, alleati dell'Iran, che controllano Sanaa e il Nord del Paese. Il cessate il fuoco Onu in vigore dal 2022 è crollato dopo che le forze governative, con appoggio aereo saudita, hanno lanciato a inizio ottobre un'offensiva per riprendere il controllo dello stretto di Bab el-Mandeb. Da allora gli Houthi rispondono con settimane di missili e droni: l'11 ottobre un attacco a Riyadh ha causato la morte di 12 persone, il più letale sul Regno in oltre un decennio, seguito dai raid su Aramco.",
   "starlink": "Da mesi Washington chiede a Kiev di fermare gli attacchi alle raffinerie russe in cambio del sostegno militare, nel quadro dei negoziati di pace promossi dall'amministrazione Trump dopo l'inizio della sua guerra con l'Iran lo scorso febbraio. Nella notte tra il 13 e il 14 ottobre i terminali Starshield/Starlink usati dall'esercito ucraino hanno smesso improvvisamente di funzionare oltre i 160 km/h: Musk ha attribuito la responsabilità al governo Usa, che controlla il sistema. Zelensky ha reagito annunciando la ripresa degli attacchi alle raffinerie, mentre Reuters ha rivelato che l'ordine di restrizione sarebbe partito proprio dalla Casa Bianca.",
   "marnero": "Da inizio ottobre almeno sette navi mercantili sono state colpite da droni al largo delle coste di Romania e Bulgaria, entrambi membri della Nato, nel Mar Nero già teatro di tensioni legate alla guerra in Ucraina e di ripetuti episodi di interferenza sulle rotte commerciali. La scia di attacchi ha fatto crescere nell'Alleanza il timore che la Russia stia deliberatamente testando la determinazione occidentale a sostenere Kiev, colpendo infrastrutture civili in acque di Paesi Nato senza dichiarare formalmente guerra."
  },
  "cronologie": {
+  "houthi": [
+   [
+    "5 ottobre",
+    "Le forze governative yemenite lanciano un'offensiva con copertura aerea saudita per riprendere il controllo dello stretto di Bab el-Mandeb"
+   ],
+   [
+    "11 ottobre",
+    "Un missile Houthi colpisce l'aeroporto Re Khalid di Riyadh: 12 morti e oltre 300 feriti, l'attacco più letale sul Regno in più di un decennio"
+   ],
+   [
+    "13-14 ottobre",
+    "Nuovi raid Houthi danneggiano una sede amministrativa di Aramco a Dhahran"
+   ],
+   [
+    "15 ottobre",
+    "Riyadh accusa l'Iran di incoraggiare l'escalation; gli Houthi rivendicano l'abbattimento di un drone saudita su Marib"
+   ]
+  ],
   "starlink": [
    [
     "14 ottobre",
@@ -605,6 +653,20 @@ window.EDIZIONI["2026-10-16"] = {
   ]
  },
  "luoghi": {
+  "houthi": {
+   "n": "Riyadh, Arabia Saudita",
+   "p": [
+    "Saudi Arabia",
+    "Yemen"
+   ],
+   "pt": [
+    [
+     24.63,
+     46.72,
+     "Riyadh"
+    ]
+   ]
+  },
   "starlink": {
    "n": "Ucraina",
    "p": [
@@ -778,6 +840,7 @@ window.EDIZIONI["2026-10-16"] = {
   }
  },
  "rilievo": {
+  "houthi": 3,
   "starlink": 3,
   "marnero": 3,
   "istanbulalluvione": 2,
