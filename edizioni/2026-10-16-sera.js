@@ -926,7 +926,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z3a4c1f6b",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "La Germania rilascia petrolio dalle riserve di Stato per contrastare i prezzi elevati",
    "orig": "Во Германија на пазарот пуштаат нафта од државните резерви поради високите цени",
    "lead": "Il Bundesrat tedesco ha approvato una proposta avanzata dal Ministero dell'Economia per immettere sul mercato quantitativi di petrolio e carburante provenienti direttamente dalle riserve strategiche statali. La misura è stata decisa nel tentativo di calmierare i prezzi dell'energia considerati troppo elevati. Lo riferisce MIA.",
@@ -1289,30 +1289,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z22a7cfb1",
-   "sez": "mondo",
-   "titolo": "Condanna in Serbia per il trasferimento di trattori a Novi Sad a sostegno di un comizio",
-   "orig": "Inicijativa za opstanak poljoprivrednika Srbije osuđuje dovoženje traktora u Novi Sad radi podrške mitingu SNS",
-   "lead": "L'Iniziativa per la sopravvivenza degli agricoltori della Serbia ha reso noto di condannare fermamente il tentativo di far confluire e parcheggiare dei trattori nella città di Novi Sad. L'azione, avvenuta alla vigilia del comizio organizzato dal partito SNS, viene considerata una strumentalizzazione del settore agricolo a fini politici. Lo riferisce N1 Serbia.",
-   "more": [
-    "L'Iniziativa per la sopravvivenza degli agricoltori è un'associazione che rappresenta le istanze e le proteste del comparto agricolo serbo di fronte alle politiche economiche e istituzionali del governo."
-   ],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/biznis/inicijativa-za-opstanak-poljoprivrednika-srbije-osudjuje-dovozenje-traktora-u-novi-sad-radi-podrske-mitingu-sns/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-16T18:01+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "18:20",
-   "uscita": "17"
-  },
-  {
    "id": "zba74cb7c",
    "sez": "mondo",
    "titolo": "Candidati governatori della DLA sostengono Tinubu per il 2027 ma escludono l'adesione all'APC",
@@ -1359,30 +1335,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z2896a2cb",
-   "sez": "mondo",
-   "titolo": "Gli organizzatori sauditi confermano: la Coppa d'Asia 2027 si terrà nei tempi previsti",
-   "orig": "Saudi organisers say 2027 Asian Cup 'on schedule' after attacks",
-   "lead": "Nonostante i recenti attacchi subiti dall'Arabia Saudita in un'escalation del conflitto con il gruppo Houthi sostenuto dall'Iran, gli organizzatori locali hanno confermato che i preparativi per la Coppa d'Asia del 2027 procedono regolarmente e che la manifestazione si svolgerà esattamente secondo la tabella di marcia stabilita. Lo riferisce Citizen Digital.",
-   "more": [
-    "La Coppa d'Asia è il massimo torneo continentale di calcio per nazionali organizzato dalla Confederazione calcistica asiatica, che assegna la prestigiosa coppa alla migliore squadra della regione."
-   ],
-   "fonti": [
-    {
-     "n": "Citizen Digital",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/saudi-organisers-say-2027-asian-cup-on-schedule-after-attacks-n392165",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-10-16T16:00+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "18:20",
-   "uscita": "17"
-  },
-  {
    "id": "ze5f40085",
    "sez": "mondo",
    "titolo": "Inaugurati lavori di sviluppo per 2,37 crore di rupie a Visakhapatnam West",
@@ -1421,29 +1373,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "p": "IT",
      "c": "Roma",
      "u": "https://tg24.sky.it/politica/2026/10/16/napoli-city-talks-2026-programma",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
-   "ora": "18:20",
-   "uscita": "17"
-  },
-  {
-   "id": "z4dee040e",
-   "sez": "mondo",
-   "titolo": "Giornata di scioperi e disservizi in Italia tra proteste studentesche, autotrasporti e guasti tecnici",
-   "orig": "Sky TG24 Timeline, venerdì di scioperi e proteste",
-   "lead": "L'Italia è stata paralizzata da tre grandi mobilitazioni: gli studenti in piazza a Torino contro il governo con pesanti scontri, gli autotrasportatori del Sud in sciopero contro il caro carburanti che svuota i supermercati, e i lavoratori dell'ex Ilva in rivolta a Taranto per lo spegnimento degli impianti. In aggiunta, un guasto tecnico alla rete dati Enav ha bloccato lo spazio aereo italiano prima del ripristino dell'operatività nel pomeriggio. Lo riferisce Sky TG24.",
-   "more": [
-    "Enav è la società per azioni che gestisce in Italia il controllo del traffico aereo civile, garantendo la sicurezza della navigazione nei cieli nazionali."
-   ],
-   "fonti": [
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/cronaca/video/2026/10/16/sky-tg24-timeline-venerdi-scioperi-proteste-1132297",
      "angolo": "",
      "atlas": "Italy"
     }
@@ -2664,6 +2593,24 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Costa Rica",
      "t": "2026-10-16T14:09+00:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/flashes/volodymyr-zelensky-donald-trump-silenzio/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-16T13:26+00:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/16/asked-whether-trump-is-making-him-a-scapegoat-for-his-own-low-approval-ratings-zelensky-simply-smiled",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-16T17:48+03:00"
     }
    ],
    "data": "16 ott",
@@ -2864,7 +2811,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z2c954bcc",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Cap-d'Ail e La Turbie: in chiusura l'inchiesta pubblica sulla galleria di sicurezza del tunnel Rainier-III",
    "orig": "Cap-d’Ail, la Turbie, bientôt la fin de l’enquête publique concernant la future galerie de sécurisation du tunnel Rainier-III : parcelles concernées, vente des tréfonds, montant des travaux, le projet décrypté",
    "lead": "È vicina alla conclusione l'inchiesta pubblica avviata nei comuni di La Turbie e Cap-d'Ail in merito al progetto di realizzazione della nuova galleria di sicurezza per il tunnel Rainier-III. La documentazione tecnica, che specifica i terreni interessati e le modalità di finanziamento dell'intervento infrastrutturale, resta consultabile presso gli uffici comunali e online, in vista della chiusura della fase di consultazione. Lo riferisce Monaco Matin.",
@@ -3096,30 +3043,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Guinea",
      "t": "2026-10-16T13:35+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:59",
-   "uscita": "17"
-  },
-  {
-   "id": "zac4d462e",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV supera positivamente la seconda notte al Policlinico Gemelli dopo l'operazione",
-   "orig": "Le pape Léon XIV passe une bonne deuxième nuit à l’hôpital Gemelli après son opération du poumon",
-   "lead": "Le condizioni di salute del pontefice Leone XIV registrano un cauto ottimismo all'interno del Vaticano. Il Santo Padre ha trascorso una seconda notte tranquilla presso l'ospedale Gemelli, dove si trova ricoverato in seguito al delicato intervento chirurgico ai polmoni a cui è stato sottoposto martedì per curare una patologia tumorale. Lo riferisce Actu Cameroun.",
-   "more": [
-    "Il Policlinico Universitario Agostino Gemelli di Roma è un importante centro ospedaliero cattolico e universitario italiano, storicamente punto di riferimento per le cure mediche prestate ai pontefici."
-   ],
-   "fonti": [
-    {
-     "n": "Actu Cameroun",
-     "p": "XX",
-     "c": "Yaoundé",
-     "u": "https://actucameroun.com/2026/10/16/le-pape-leon-xiv-passe-une-bonne-deuxieme-nuit-a-lhopital-gemelli-apres-son-operation-du-poumon/",
-     "angolo": "",
-     "atlas": "Cameroon",
-     "t": "2026-10-16T13:53+00:00"
     }
    ],
    "data": "16 ott",
@@ -3654,7 +3577,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "zf5691cb3",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Arriva l'album postumo di Cesária Évora con dieci brani inediti",
    "orig": "“Reina da Morna” resgata inéditos de Cesária Évora",
    "lead": "Arriva sulle piattaforme digitali e nei negozi il nuovo album postumo intitolato \"Reina da Morna\", che raccoglie dieci registrazioni inedite della celebre diva capoverdiana Cesária Évora. I brani sono stati preservati per anni negli archivi della Lusáfrica, la storica etichetta del produttore José “Djô” da Silva. La pubblicazione offre al pubblico l'opportunità di riascoltare la voce della leggendaria cantante. Lo riferisce A Nação.",
@@ -3965,30 +3888,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zd660f16e",
-   "sez": "mondo",
-   "titolo": "Il silenzio eloquente di Volodymyr Zelensky a una domanda su Donald Trump",
-   "orig": "Il silenzio molto eloquente di Zelensky a una domanda su Trump",
-   "lead": "Nel corso di un'intervista o di un'apparizione pubblica, il presidente ucraino Volodymyr Zelensky ha evitato di rispondere direttamente a un quesito relativo a Donald Trump, mantenendo un atteggiamento di marcato silenzio che non è passato inosservato agli osservatori internazionali. Lo riferisce Il Post.",
-   "more": [
-    "I leader politici coinvolti in conflitti internazionali adottano spesso una rigorosa prudenza diplomatica per non compromettere i delicati equilibri geopolitici e il sostegno dei futuri governi alleati."
-   ],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/flashes/volodymyr-zelensky-donald-trump-silenzio/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T13:26+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:59",
-   "uscita": "17"
-  },
-  {
    "id": "z5f4426d8",
    "sez": "mondo",
    "titolo": "La Cina invita la portavoce di Donald Trump dopo le battute sui servizi igienici",
@@ -4110,7 +4009,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z4a543d79",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Ripresi parzialmente i cantieri del tunnel del Fehmarnbelt dopo un attacco informatico",
    "orig": "Femern Bælt-byggeri delvist genoptaget efter cyberangreb",
    "lead": "I lavori di costruzione del tunnel sottomarino del Fehmarnbelt sono stati parzialmente riavviati in seguito alla temporanea interruzione causata da un attacco informatico che aveva compromesso i sistemi digitali del cantiere. Le attività riprendono gradualmente mentre proseguono le verifiche di sicurezza sulla rete. Lo riferisce DR Nyheder.",
@@ -4417,7 +4316,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z6918bbd0",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Il Dubai Miracle Garden ospiterà una camminata e una corsa per la sensibilizzazione sul cancro al seno",
    "orig": "Dubai Miracle Garden to host Breast Cancer Awareness Walk and Run",
    "lead": "Il Dubai Miracle Garden si prepara ad accogliere un evento podistico e una camminata dedicati alla sensibilizzazione sulla prevenzione del tumore al seno. L'iniziativa unisce la promozione della salute pubblica alla cornice floreale del celebre parco emiratino. Lo riferisce Gulf News.",
@@ -4654,7 +4553,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z17ecb5ae",
-   "sez": "mondo",
+   "sez": "ambiente",
    "titolo": "Un gigantesco mostro di plastica con un albero in mano compare sulla spiaggia di Cox's Bazar",
    "orig": "Giant plastic monster with a tree in hand emerges on Cox’s Bazar beach",
    "lead": "Un'installazione a forma di gigantesco mostro di plastica che stringe un albero in mano è apparsa sulla spiaggia di Cox's Bazar, in Bangladesh. L'opera artistica è stata realizzata per sensibilizzare i visitatori sui problemi dell'inquinamento marino e della tutela ambientale. Lo riferisce Prothom Alo (inglese).",
@@ -5422,7 +5321,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z2ecc7c43",
-   "sez": "cultura",
+   "sez": "sport",
    "titolo": "Valdano: Si parla poco del fatto che i calciatori fanno terapia",
    "orig": "Valdano: “Se habla poco de que los futbolistas hacen terapia”",
    "lead": "Nel terzo episodio del programma 'Tercer Acto', l'ex calciatore e comunicatore discute della necessità di guardare avanti nella vita, toccando temi come la dignità umana, la sua passione per la lettura, le problematiche del calcio moderno e la figura di Maradona. Durante la conversazione viene evidenziato come si parli ancora troppo poco del percorso terapeutico intrapreso dai calciatori. Lo riferisce El País.",
@@ -5566,7 +5465,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "zd37566b3",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "La svolta culturale nella ginnastica secondo Aimee Boorman",
    "orig": "Turncoach van Simone Biles en het Nederlands team: &#8216;Er is een cultuuromslag gaande in de turnwereld, maar fundamenteel zit er nog veel fout'",
    "lead": "Aimee Boorman, nota per essere stata per anni l'allenatrice di Simone Biles e successivamente ingaggiata per guidare la squadra nazionale dei Paesi Bassi durante una fase di profonda crisi legata a denunce di comportamenti inappropriati, sottolinea come sia in atto un cambiamento culturale nel mondo della ginnastica, pur evidenziando che persistono ancora diverse criticità fondamentali. Attualmente di ritorno nei Paesi Bassi in occasione dei Campionati Mondiali di ginnastica artistica a Rotterdam, l'allenatrice ribadisce che il suo obiettivo principale non sono le medaglie, bensì la serenità e il benessere delle atlete. Lo riferisce NRC.",
@@ -5654,30 +5553,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-10-16T14:00+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:53",
-   "uscita": "17"
-  },
-  {
-   "id": "zc4327c1f",
-   "sez": "mondo",
-   "titolo": "Aumentano gli attacchi iraniani nello Stretto di Hormuz mentre Stati Uniti e Teheran si preparano al conflitto",
-   "orig": "Mehr iranische Angriffe in der Strasse von Hormuz: Teheran und die USA rüsten für eine neue Runde des Kriegs",
-   "lead": "Gli Stati Uniti riducono il volume di petrolio greggio trasportato attraverso lo Stretto di Hormuz, mentre nella regione cresce il timore che Teheran e Washington possano imminentemente dare il via a una nuova serie di pesanti bombardamenti. L'aumento degli attacchi iraniani nella strategica via marittima alimenta le tensioni geopolitiche, i cui effetti potenziali sul mercato energetico globale sarebbero devastanti. Lo riferisce NZZ.",
-   "more": [
-    "Lo Stretto di Hormuz rappresenta una delle rotte marittime più critiche al mondo per il transito delle petroliere e il commercio globale di energia, rendendo quest'area geografica un punto nevralgico di frizione geopolitica tra le potenze occidentali e l'Iran."
-   ],
-   "fonti": [
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/international/iran-beschiesst-mehr-schiffe-in-hormuz-ein-neuer-krieg-wird-wahrscheinlicher-ld.10035596",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-16T13:53+00:00"
     }
    ],
    "data": "16 ott",
@@ -6404,7 +6279,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z5f21f12c",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "L'ospedale KNH in Kenya compie un record eseguendo il primo intervento chirurgico senza tubi sulla trachea in Africa",
    "orig": "KNH makes history by performing Africa's first tubeless windpipe surgery",
    "lead": "A Nairobi, il Kenyatta National Hospital (KNH) ha segnato un primato storico sul continente africano eseguendo con successo, il 24 settembre 2026, il primo intervento chirurgico alla trachea senza l'utilizzo di tubi respiratori. L'operazione, durata cinque ore presso il Prime Care Centre della struttura, è stata effettuata su Dennis Kaiser Omondi, un paziente di 26 anni che soffriva di gravi difficoltà respiratorie da quasi vent'anni. Lo riferisce Citizen Digital.",
@@ -6452,7 +6327,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z67516158",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Il presidente keniota Ruto ispeziona un progetto stradale da 4,4 miliardi di scellini per collegare West Pokot e la valle di Kerio",
    "orig": "Ruto inspects Ksh.4.4B road project to open up West Pokot, Kerio Valley",
    "lead": "A Nairobi, durante un tour di sviluppo nella contea di West Pokot, il presidente keniota William Ruto ha ispezionato i lavori di costruzione della strada Kopasi River-Lomut-Sigor-Marich Pass, un'infrastruttura lunga 35 chilometri. Il progetto, del valore di 4,4 miliardi di scellini kenioti, ha raggiunto il sessanta percento di completamento e mira ad aprire alla mobilità e allo sviluppo la regione e la valle di Kerio. Lo riferisce Citizen Digital.",
@@ -7802,7 +7677,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z033ce360",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Il ministro Phiri avvia un importante progetto di collegamento stradale da 15 miliardi a Lilongwe",
    "orig": "Minister Phiri launches major K15bn transport link for Lilongwe",
    "lead": "Il governo del Malawi ha dato il via a un progetto di viabilità del valore di 15 miliardi di kwacha per allegare i problemi di traffico nella capitale. Il ministro del Governo locale e dello Sviluppo rurale Ben Phiri ha inaugurato i lavori di costruzione della strada Msokera Presidential Drive e di un nuovo ponte per decongestionare le aree urbane in rapida espansione. Lo riferisce Nyasa Times.",
@@ -8291,7 +8166,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z7a23d34f",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "L'Uzbekistan avvia il primo censimento delle attività imprenditoriali fino al 30 novembre",
    "orig": "Uzbekistan launches first business census, running until 30 November",
    "lead": "Le autorità dell'Uzbekistan hanno avviato il primo censimento ufficiale delle entità commerciali del Paese, iniziato a metà ottobre e programmato per concludersi il 30 novembre. L'iniziativa mira a ottenere una valutazione accurata dell'attività economica nazionale, tenendo conto che in precedenza l'economia sommersa era stimata al 23% e che nel settore agricolo raggiunge il 60% del fatturato totale. Lo riferisce Gazeta.uz (inglese).",
@@ -8792,30 +8667,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "za64025db",
-   "sez": "mondo",
-   "titolo": "Zelensky risponde con un sorriso a Bruxelles sulle domande in merito a Donald Trump",
-   "orig": "Asked whether Trump is making him a scapegoat for his own low approval ratings, Zelensky simply smiled",
-   "lead": "Nel corso di una conferenza stampa tenuta a Bruxelles, il presidente ucraino Volodymyr Zelensky ha evitato di commentare direttamente la natura dei suoi rapporti con il presidente degli Stati Uniti Donald Trump. Alle domande dei giornalisti che chiedevano se l'inquilino della Casa Bianca lo stesse trasformando in un capro espiatorio per i bassi indici di gradimento, il leader ucraino ha risposto con un semplice sorriso. Lo riferisce Meduza.",
-   "more": [
-    "Le conferenze stampa internazionali dei capi di Stato rappresentano momenti chiave per la comunicazione politica e la gestione dei rapporti diplomatici con le superpotenze alleate."
-   ],
-   "fonti": [
-    {
-     "n": "Meduza",
-     "p": "XX",
-     "c": "Riga (in esilio)",
-     "u": "https://meduza.io/en/news/2026/10/16/asked-whether-trump-is-making-him-a-scapegoat-for-his-own-low-approval-ratings-zelensky-simply-smiled",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-10-16T17:48+03:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:51",
-   "uscita": "17"
-  },
-  {
    "id": "zd4cc7f76",
    "sez": "mondo",
    "titolo": "Stretta sulle leggi antidroga in Georgia: cittadini russi rischiano anni di detenzione per possesso di marijuana",
@@ -9282,7 +9133,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z20a47b28",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Errori dell'intelligenza artificiale: falsi colpevoli, fake news e danni reali",
    "orig": "Faux coupables, fausses infos, vrais dégâts : quand l'IA se trompe",
    "lead": "Dopo che Anthropic ha ammesso l'incidente il 9 ottobre, la vicenda ha assunto rilievo politico: il regolatore statunitense della tutela dei consumatori ha chiesto spiegazioni formali sia a OpenAI sia ad Anthropic riguardo ai livelli di sicurezza dei rispettivi sistemi informatici. Lo riferisce France 24.",
@@ -12158,7 +12009,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "z144f1be3",
-   "sez": "economia",
+   "sez": "ambiente",
    "titolo": "Lo stabilimento L'Oréal di Nairobi premiato per le prestazioni ambientali",
    "orig": "L’Oréal factory in Nairobi recognised for environmental performance",
    "lead": "Lo stabilimento L'Oréal lungo Mombasa Road a Nairobi è stato premiato per le sue prestazioni ambientali, ottenendo riconoscimenti nelle categorie gestione dell'energia, gestione dei rifiuti solidi, gestione delle emissioni di gas a effetto serra e conformità ambientale. Lo riferisce Citizen Digital.",
@@ -12620,30 +12471,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zc5b65bfc",
-   "sez": "tech",
-   "titolo": "Come il malware 'zero-click' di un'azienda israeliana minaccia la sicurezza globale",
-   "orig": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-   "lead": "Il malware viene distribuito attraverso le pubblicità online e riesce a infettare i dispositivi senza bisogno di un click o di un'interazione da parte dell'utente preso di mira. Lo riferisce Al Jazeera.",
-   "more": [
-    "Gli attacchi informatici 'zero-click' sono considerati tra i più insidiosi perché non richiedono che la vittima apra un link o scarichi un file: l'infezione avviene automaticamente, spesso attraverso falle nei sistemi di visualizzazione di contenuti online come la pubblicità digitale, rendendo la difesa particolarmente complessa."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-16T14:12+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:28",
-   "uscita": "17"
-  },
-  {
    "id": "z0f2b31a1",
    "sez": "italia",
    "titolo": "Il Papa 'in costante miglioramento'",
@@ -12754,6 +12581,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-16T17:17+02:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/16/le-pape-leon-xiv-passe-une-bonne-deuxieme-nuit-a-lhopital-gemelli-apres-son-operation-du-poumon/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-16T13:53+00:00"
     }
    ],
    "data": "16 ott",
@@ -21233,6 +21069,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-16T16:19+02:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/biznis/inicijativa-za-opstanak-poljoprivrednika-srbije-osudjuje-dovozenje-traktora-u-novi-sad-radi-podrske-mitingu-sns/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-16T18:01+02:00"
     }
    ],
    "data": "16 ott",
@@ -22280,6 +22125,14 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-16T05:10+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/cronaca/video/2026/10/16/sky-tg24-timeline-venerdi-scioperi-proteste-1132297",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "",
@@ -32161,7 +32014,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z3f972e11": "Panamá América riporta la risposta del ministero alle conseguenze del sisma sul sistema scolastico.",
   "zd5a80b7b": "Il Sole 24 Ore riporta le parole del capo dello Stato come monito sulla lentezza decisionale europea.",
   "zb4a26875": "La BBC mette in evidenza il salto di scala delle proteste di martedì rispetto ai mesi di manifestazioni precedenti.",
-  "zc5b65bfc": "Al Jazeera pone l'accento sulla pericolosità globale di una tecnica che non richiede alcuna azione della vittima.",
   "z0f2b31a1": "Rai News riprende la nota ufficiale della Sala stampa vaticana, sottolineando il tono rassicurante sulle condizioni del Papa.",
   "zf76faabd": "NPR dà voce alle accuse dei critici, mentre riporta anche la versione del governo e della Commissione elettorale che le respingono.",
   "zec1f5959": "Le testate latinoamericane concordano nel sottolineare il buon aspetto del Papa nelle prime immagini diffuse, mentre Diario Libre e Prensa Libre si concentrano sulla ripresa dell'autonomia e sulla gestione della Chiesa durante la convalescenza.",
@@ -32358,7 +32210,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z4e2aa3f3": "L'emittente nazionale bhutanese dà voce alle istanze dei residenti riguardo al decoro e alla cura della capitale.",
   "z4ec50644": "Il quotidiano tanzaniano sottolinea l'importanza dei rapporti diplomatici internazionali e dei nuovi insediamenti alla presidenza.",
   "zeac54e07": "Il giornale propone uno spazio letterario di commento e riflessione attraverso la poesia.",
-  "za64025db": "La testata indipendente russa in esilio evidenzia la reazione diplomatica e misurata del leader ucraino alle domande sulla politica statunitense.",
   "zd4cc7f76": "La testata approfondisce l'impatto del cambiamento normativo sui visitatori stranieri e sui turisti russi a Tbilisi.",
   "z5ba8ac1e": "Il quotidiano in esilio riporta la denuncia sulle condizioni di detenzione e sulla mancata assistenza sanitaria a un noto esperto elettorale.",
   "zd90672b4": "La testata in esilio sottolinea l'ennesimo provvedimento restrittivo nei confronti della stampa indipendente in Russia.",
@@ -32548,7 +32399,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z5dcb2040": "La testata focalizza l'attenzione sulla promozione di abitudini alimentari equilibrate e prive di sensi di colpa da parte di una celebre autrice di cucina.",
   "zc507c360": "La testata evidenzia il divario crescente tra la popolarità di un'attività tradizionale e la disponibilità di strutture pubbliche di verifica della sicurezza alimentare.",
   "z58c39a8f": "La testata racconta l'incontro calcistico evidenziando il contrasto tra il blasone storico delle società coinvolte e la realtà attuale dei campionati.",
-  "zc4327c1f": "La testata analizza l'escalation delle tensioni militari e marittime in un'area cruciale per il commercio internazionale di idrocarburi.",
   "z12b7448f": "La testata pone l'accento sulla sostenibilità economica delle cure preventive e sulle politiche sanitarie pubbliche per la tutela delle categorie a rischio.",
   "z83bf12f0": "La testata evidenzia i timori geopolitici europei legati alla stabilità del fronte ucraino e alle relazioni diplomatiche transatlantiche.",
   "zd19f49d3": "La testata analizza la risposta politica e strategica del continente europeo di fronte alle dinamiche della politica estera statunitense.",
@@ -32594,7 +32444,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "ze5fe992f": "La testata Mosaïque Guinée evidenzia le rassicurazioni ufficiali alla vigilia dell'importante concorso pubblico per la scuola.",
   "z3616604f": "La testata mette in luce la modernizzazione burocratica introdotta per gli operatori turistici locali.",
   "z8fc46ae5": "Guinée News pone l'accento sulle gravi difficoltà quotidiane dei cittadini di fronte alla prolungata penuria di combustibile.",
-  "zac4d462e": "Actu Cameroun segue con attenzione l'evoluzione clinica del Papa dopo la complessa operazione chirurgica.",
   "z896fca3a": "La testata evidenzia il bilancio positivo tracciato dalle autorità accademiche camerunensi.",
   "zf72725a2": "Actu Cameroun riporta le riflessioni personali e le critiche espresse dall'ex giornalista sulla propria esperienza di vita.",
   "z7cb33b42": "Actu Cameroun dà spazio al dibattito e alle polemiche tra gli opinionisti locali e i leader politici del Paese.",
@@ -32630,7 +32479,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zbbdabd51": "Il giornale evidenzia la difesa dell'ex funzionario e le sue accuse di matrice politica nei confronti dell'inchiesta.",
   "zb791a08a": "La testata sottolinea l'allerta lanciata dal governo statunitense sulla sicurezza informatica e sulla protezione del voto.",
   "z820bca74": "Il giornale evidenzia l'azione di controllo intrapresa dalle autorità giudiziarie e di vigilanza francesi nel settore tech.",
-  "zd660f16e": "La testata evidenzia la scelta comunicativa e la cautela diplomatica del leader ucraino di fronte a interrogativi politici delicati.",
   "z5f4426d8": "La testata mette in risalto la mossa diplomatica insolita con cui Pechino risponde alle critiche e alle battute della politica statunitense.",
   "zc15dd197": "La testata evidenzia la stretta normativa imposta dal governo cinese sulla circolazione internazionale del proprio know-how tecnologico.",
   "z4e602b51": "La testata pone l'accento sulla tutela della salute pubblica e sull'avviso di sicurezza diramato dalle autorità sanitarie.",
@@ -32717,13 +32565,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zbba5309d": "La testata RÚV evidenzia l'offerta di dialogo del governo alle opposizioni dopo le proteste suscitate dai tagli ai contingenti di pesca.",
   "za23287d3": "RÚV pone l'accento sulla profonda risonanza emotiva e sul valore artistico della nuova uscita discografica della celebre band islandese.",
   "z2be3b2ff": "N1 Serbia evidenzia l'intervento delle organizzazioni internazionali a tutela della trasparenza e della libertà di informazione nella regione.",
-  "z22a7cfb1": "N1 Serbia pone l'attenzione sulla polemica politica legata al raduno e al coinvolgimento dei mezzi agricoli nelle manifestazioni di partito.",
   "zba74cb7c": "The Punch evidenzia l'appoggio politico strategico concesso al capo dello Stato senza però sancire un'alleanza organica di partito.",
   "z8a190fa9": "The Punch sottolinea la necessità di orientare la ricerca accademica verso ricadute pratiche e industriali tangibili per il Paese.",
-  "z2896a2cb": "Citizen Digital mette in risalto la rassicurazione degli organizzatori di fronte alle tensioni geopolitiche e agli attacchi recenti.",
   "ze5f40085": "The Hindu evidenzia l'impegno istituzionale per il miglioramento delle infrastrutture urbane e dei servizi di quartiere.",
   "zb7da4a94": "Sky TG24 mette in evidenza la presenza di ministri e leader istituzionali al dibattito sulle sfide contemporanee a Napoli.",
-  "z4dee040e": "Sky TG24 sottolinea l'impatto combinato di proteste di piazza, vertenze industriali e criticità nei trasporti su scala nazionale.",
   "z4b8b1661": "The Baltic Times evidenzia la richiesta di una maggiore autonomia strategica e militare sollevata dai rappresentanti istituzionali europei.",
   "zd1acb738": "Cyprus Mail pone l'accento sulla cooperazione giudiziaria internazionale e sull'operazione della procura europea contro le frodi fiscali.",
   "ze98c2cd3": "Stuff NZ evidenzia i benefici pratici ed economici dell'integrazione tecnologica nei processi di lavoro professionali.",
@@ -37449,13 +37294,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zc5b65bfc": {
-   "n": "Israele",
-   "p": [
-    "Israel"
-   ],
-   "pt": []
-  },
   "z0f2b31a1": {
    "n": "Città del Vaticano",
    "p": [],
@@ -38839,15 +38677,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "za64025db": {
-   "n": "Brussels",
-   "p": [
-    "Belgium",
-    "Ukraine",
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zd4cc7f76": {
    "n": "Tbilisi",
    "p": [
@@ -40215,13 +40044,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zc4327c1f": {
-   "n": "Zurigo",
-   "p": [
-    "Switzerland"
-   ],
-   "pt": []
-  },
   "z12b7448f": {
    "n": "Zurigo",
    "p": [
@@ -40544,14 +40366,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zac4d462e": {
-   "n": "Yaoundé",
-   "p": [
-    "Cameroon",
-    "Italy"
-   ],
-   "pt": []
-  },
   "z896fca3a": {
    "n": "Yaoundé",
    "p": [
@@ -40809,15 +40623,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "p": [
     "France",
     "Singapore"
-   ],
-   "pt": []
-  },
-  "zd660f16e": {
-   "n": "Milano",
-   "p": [
-    "Italy",
-    "Ukraine",
-    "United States of America"
    ],
    "pt": []
   },
@@ -41450,13 +41255,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z22a7cfb1": {
-   "n": "Novi Sad",
-   "p": [
-    "Serbia"
-   ],
-   "pt": []
-  },
   "zba74cb7c": {
    "n": "Lagos",
    "p": [
@@ -41471,13 +41269,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z2896a2cb": {
-   "n": "Riyadh",
-   "p": [
-    "Saudi Arabia"
-   ],
-   "pt": []
-  },
   "ze5f40085": {
    "n": "Visakhapatnam",
    "p": [
@@ -41487,13 +41278,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   "zb7da4a94": {
    "n": "Napoli",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z4dee040e": {
-   "n": "Italy",
    "p": [
     "Italy"
    ],
@@ -42469,7 +42253,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z6d04f8c9": 1,
   "z3f972e11": 1,
   "zb4a26875": 1,
-  "zc5b65bfc": 1,
   "z0f2b31a1": 1,
   "zf76faabd": 1,
   "zec1f5959": 2,
@@ -42675,7 +42458,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z4e2aa3f3": 1,
   "z4ec50644": 1,
   "zeac54e07": 1,
-  "za64025db": 1,
   "zd4cc7f76": 1,
   "z5ba8ac1e": 1,
   "zd90672b4": 1,
@@ -42865,7 +42647,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z5dcb2040": 1,
   "zc507c360": 1,
   "z58c39a8f": 1,
-  "zc4327c1f": 1,
   "z12b7448f": 1,
   "z83bf12f0": 1,
   "zd19f49d3": 1,
@@ -42911,7 +42692,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "ze5fe992f": 1,
   "z3616604f": 1,
   "z8fc46ae5": 1,
-  "zac4d462e": 1,
   "z896fca3a": 1,
   "zf72725a2": 1,
   "z7cb33b42": 1,
@@ -42947,7 +42727,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zbbdabd51": 1,
   "zb791a08a": 1,
   "z820bca74": 1,
-  "zd660f16e": 1,
   "z5f4426d8": 1,
   "zc15dd197": 1,
   "z4e602b51": 1,
@@ -43034,13 +42813,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zbba5309d": 1,
   "za23287d3": 1,
   "z2be3b2ff": 1,
-  "z22a7cfb1": 1,
   "zba74cb7c": 1,
   "z8a190fa9": 1,
-  "z2896a2cb": 1,
   "ze5f40085": 1,
   "zb7da4a94": 1,
-  "z4dee040e": 2,
   "z4b8b1661": 1,
   "zd1acb738": 1,
   "ze98c2cd3": 1,
