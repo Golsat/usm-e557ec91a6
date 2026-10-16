@@ -218,29 +218,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z191361dc",
-   "sez": "mondo",
-   "titolo": "La funivia di Panama City contribuirà alla creazione di posti di lavoro",
-   "orig": "Teleférico contribuirá con la generación de empleo",
-   "lead": "L'opera della nuova funivia di Panama City, la cui ordine di avvio dei lavori è stata consegnata giovedì, collegherà la capitale al distretto di San Miguelito attraverso un percorso di 6,6 chilometri. Il progetto è presentato come un contributo alla generazione di impiego nel Paese. Lo riferisce Panamá América.",
-   "more": [
-    "San Miguelito è un distretto densamente popolato dell'area metropolitana di Panama City, spesso interessato da problemi di congestione del traffico, per il quale le nuove infrastrutture di trasporto pubblico puntano a offrire collegamenti più rapidi con il centro della capitale."
-   ],
-   "fonti": [
-    {
-     "n": "Panamá América",
-     "p": "XX",
-     "c": "Città di Panama",
-     "u": "https://www.panamaamerica.com.pa/economia/teleferico-contribuira-con-la-generacion-de-empleo-1267561",
-     "angolo": "",
-     "atlas": "Panama"
-    }
-   ],
-   "data": "",
-   "ora": "13:50",
-   "uscita": "13"
-  },
-  {
    "id": "z7e2e3760",
    "sez": "mondo",
    "titolo": "Capo Verde, Mário Almeida nuovo presidente del consiglio d'amministrazione della TACV",
@@ -441,6 +418,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Russia",
      "t": "2026-10-16T11:45+03:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/guerre-en-ukraine-trump-juge-zelensky-moins-dispose-a-negocier-que-poutine/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-16T09:24+00:00"
     }
    ],
    "data": "16 ott",
@@ -2711,6 +2697,14 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "u": "https://actucameroun.com/2026/10/16/le-cameroun-a-besoin-dargent-pour-survivre-et-non-des-discours-supplementaires-louis-marie-kakdeu/",
      "angolo": "",
      "atlas": "Cameroon"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/16/the-presidential-circular-on-the-2027-budget-is-out-of-line-with-the-countrys-economic-realities/",
+     "angolo": "",
+     "atlas": "Cameroon"
     }
    ],
    "data": "",
@@ -2788,30 +2782,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Cameroon",
      "t": "2026-10-16T07:58+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:47",
-   "uscita": "13"
-  },
-  {
-   "id": "zee8bf425",
-   "sez": "mondo",
-   "titolo": "Trump: Zelensky meno disposto a negoziare di Putin",
-   "orig": "Guerre en Ukraine : Trump juge Zelensky moins disposé à négocier que Poutine",
-   "lead": "Il presidente statunitense Donald Trump ha criticato duramente il suo omologo ucraino Volodymyr Zelensky dopo la ripresa degli attacchi ucraini contro le raffinerie russe, sostenendo che complica le trattative per porre fine alla guerra. Nel corso di un'intervista alla rete americana Newsmax andata in onda giovedì 15 ottobre, Trump ha affermato che Zelensky risulta meno disposto a negoziare rispetto a Vladimir Putin. Lo riferisce La Nouvelle Tribune.",
-   "more": [
-    "Il conflitto tra Russia e Ucraina, iniziato nel 2022, ha visto diversi tentativi di mediazione internazionale, con gli Stati Uniti spesso protagonisti di pressioni diplomatiche su entrambe le parti per arrivare a una tregua."
-   ],
-   "fonti": [
-    {
-     "n": "La Nouvelle Tribune",
-     "p": "XX",
-     "c": "Cotonou",
-     "u": "https://lanouvelletribune.info/2026/10/guerre-en-ukraine-trump-juge-zelensky-moins-dispose-a-negocier-que-poutine/",
-     "angolo": "",
-     "atlas": "Benin",
-     "t": "2026-10-16T09:24+00:00"
     }
    ],
    "data": "16 ott",
@@ -3271,30 +3241,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Angola",
      "t": "2026-10-16T11:03+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:47",
-   "uscita": "13"
-  },
-  {
-   "id": "z5945e740",
-   "sez": "mondo",
-   "titolo": "Medio Oriente: cresce il rischio di guerra, Trump evoca la «madre di tutte le bombe»",
-   "orig": "Médio Oriente: Guerra é agora mais certa que nunca e Trump pede ajuda à \"mãe&hellip; de todas as bombas\" &ndash; Calendário eleitoral nos EUA e em Israel dita regras no Golfo Pérsico",
-   "lead": "Un'analisi di Novo Jornal segnala che il rischio di un ritorno della guerra nel Golfo Persico è ora più alto che mai, con il presidente statunitense Donald Trump che minaccia di usare armi eccezionali contro il regime iraniano, tra cui la GBU-43/B, nota come «madre di tutte le bombe». L'articolo collega l'evoluzione della crisi al calendario elettorale negli Stati Uniti e in Israele. Lo riferisce Novo Jornal.",
-   "more": [
-    "La GBU-43/B è la più potente bomba non nucleare dell'arsenale statunitense, usata per la prima e unica volta in Afghanistan nel 2017; il suo impiego ha forte valore simbolico e mediatico oltre che militare."
-   ],
-   "fonti": [
-    {
-     "n": "Novo Jornal",
-     "p": "XX",
-     "c": "Luanda",
-     "u": "http://novojornal.co.ao/internacional/detalhe/medio-oriente-guerra-e-agora-mais-certa-que-nunca-e-trump-pede-ajuda-a-mae-de-todas-as-bombas-calendario-eleitoral-nos-eua-e-em-israel-dita-regras-no-golfo-persico-75397.html",
-     "angolo": "",
-     "atlas": "Angola",
-     "t": "2026-10-16T11:02+00:00"
     }
    ],
    "data": "16 ott",
@@ -4118,7 +4064,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   {
    "id": "zc340d437",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Tashkent inizia la costruzione di un lago artificiale di 1,7 ettari nel distretto di Sergeli",
    "orig": "Tashkent begins construction of 1.7-hectare artificial lake in Sergeli district",
    "lead": "Tashkent ha avviato i lavori per un lago artificiale di 1,7 ettari con fontana e un'area ricreativa di cinque ettari nel distretto di Sergeli, nell'ambito di un progetto cittadino che prevede la costruzione di 12 bacini artificiali per migliorare il microclima locale ed espandere gli spazi pubblici dedicati al tempo libero. Lo riferisce Daryo.",
@@ -5195,30 +5141,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zc7e9ec42",
-   "sez": "mondo",
-   "titolo": "Rufián critica i vertici di ERC e Comuns per il mancato accordo in Catalogna",
-   "orig": "Gabriel Rufián: “He hecho todo lo posible para simplificar la oferta electoral”",
-   "lead": "Gabriel Rufián, capolista di ERC per le elezioni spagnole del 29 novembre, afferma di aver fatto tutto il possibile per semplificare l'offerta elettorale e critica apertamente i vertici del suo partito e di Comuns per non essere riusciti a trovare un accordo in Catalogna. Lo riferisce El País.",
-   "more": [
-    "ERC (Esquerra Republicana de Catalunya) è un partito indipendentista catalano di sinistra, mentre Comuns è una coalizione di sinistra alleata di Sumar in Catalogna. Le trattative tra queste forze mirano a evitare la frammentazione del voto progressista."
-   ],
-   "fonti": [
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/espana/elecciones-generales/2026-10-16/gabriel-rufian-he-hecho-todo-lo-posible-para-simplificar-la-oferta-electoral.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-16T09:31+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:44",
-   "uscita": "13"
-  },
-  {
    "id": "z2bf70401",
    "sez": "mondo",
    "titolo": "Spagna, caos nei patti dell'estrema sinistra: rottura in Valencia",
@@ -5260,6 +5182,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-16T10:50+02:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-10-16/gabriel-rufian-he-hecho-todo-lo-posible-para-simplificar-la-oferta-electoral.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-16T09:31+00:00"
     }
    ],
    "data": "16 ott",
@@ -5758,39 +5689,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Dem. Rep. Congo",
      "t": "2026-10-16T10:29+01:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:41",
-   "uscita": "13"
-  },
-  {
-   "id": "z56096afd",
-   "sez": "mondo",
-   "titolo": "Il governo congolese vieta le attività di 13 partiti politici, tra cui PPRD e LGD",
-   "orig": "Le gouvernement interdit les activités de 13 partis politiques, dont le PPRD et le LGD",
-   "lead": "Il governo della Repubblica Democratica del Congo ha ordinato l'interdizione immediata delle attività di tredici partiti e formazioni politiche su tutto il territorio nazionale. La decisione è stata annunciata giovedì 15 ottobre tramite un messaggio ufficiale firmato dal vice primo ministro responsabile dell'Interno, della Sicurezza, della Decentralizzazione e degli Affari consuetudinari, Jacquemain Shabani. Lo riferisce Radio Okapi.",
-   "more": [
-    "Il PPRD è il partito dell'ex presidente Joseph Kabila; il divieto imposto a diverse formazioni politiche solleva interrogativi sul pluralismo democratico nel paese, in un contesto segnato da tensioni politiche e dalla gestione dell'ordine pubblico da parte dell'esecutivo."
-   ],
-   "fonti": [
-    {
-     "n": "Radio Okapi",
-     "p": "XX",
-     "c": "Kinshasa",
-     "u": "https://www.radiookapi.net/2026/10/16/actualite/politique/le-gouvernement-interdit-les-activites-de-13-partis-politiques-dont",
-     "angolo": "",
-     "atlas": "Dem. Rep. Congo",
-     "t": "2026-10-16T09:18+01:00"
-    },
-    {
-     "n": "KT Press",
-     "p": "XX",
-     "c": "Kigali",
-     "u": "https://www.ktpress.rw/2026/10/dr-congo-president-bars-his-government-from-contact-with-belgian-embassy/",
-     "angolo": "",
-     "atlas": "Rwanda",
-     "t": "2026-10-16T11:09+00:00"
     }
    ],
    "data": "16 ott",
@@ -7255,30 +7153,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zad645fa3",
-   "sez": "mondo",
-   "titolo": "Il comitato ONU approva la risoluzione sul Sahara con 152 voti, citando il piano di autonomia marocchino",
-   "orig": "UN committee backs Sahara resolution with 152 votes, references Morocco autonomy framework",
-   "lead": "La Quarta Commissione dell'Assemblea Generale dell'ONU ha approvato giovedì la consueta risoluzione annuale sul Sahara Occidentale con 152 voti favorevoli e due contrari, includendo un riferimento alla decisione del Consiglio di Sicurezza dell'anno scorso che ha fatto della proposta di autonomia marocchina la base per i negoziati sul territorio conteso. Sia il Marocco che l'Algeria hanno sostenuto il testo durante la riunione a New York. Lo riferisce Hespress English.",
-   "more": [
-    "Il Sahara Occidentale è un territorio conteso dell'Africa nord-occidentale, rivendicato dal Marocco e dal movimento indipendentista Fronte Polisario, al centro di un negoziato internazionale sotto l'egida delle Nazioni Unite da decenni."
-   ],
-   "fonti": [
-    {
-     "n": "Hespress English",
-     "p": "XX",
-     "c": "Rabat",
-     "u": "https://en.hespress.com/147386-un-committee-backs-sahara-resolution-with-152-votes-references-morocco-autonomy-framework.html",
-     "angolo": "",
-     "atlas": "Morocco",
-     "t": "2026-10-16T09:15+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:41",
-   "uscita": "13"
-  },
-  {
    "id": "ze8eed95d",
    "sez": "economia",
    "titolo": "CySEC multa Titanedge per 100.000 euro per violazioni negli investimenti",
@@ -8723,30 +8597,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z64d78bda",
-   "sez": "mondo",
-   "titolo": "Vertice UE: al centro gli aiuti finanziari e militari all'Ucraina",
-   "orig": "EU-Gipfel: Finanzielle und militärische Hilfe für die Ukraine im Fokus",
-   "lead": "Al vertice dei leader dell'Unione Europea a Bruxelles la discussione si è concentrata sugli aiuti finanziari e militari da garantire all'Ucraina nella sua resistenza all'invasione russa. Il tema resta prioritario nell'agenda europea, in un contesto segnato da posizioni divergenti tra i vari Stati membri sull'entità e la durata del sostegno da assicurare a Kiev. Lo riferisce Tagesschau.",
-   "more": [
-    "Gli aiuti europei all'Ucraina comprendono forniture di armi, finanziamenti per la ricostruzione e sostegno al bilancio statale ucraino, discussi periodicamente nei vertici dei capi di Stato e di governo UE."
-   ],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/video/video-1667212.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-16T11:17+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:37",
-   "uscita": "13"
-  },
-  {
    "id": "ze2abc83d",
    "sez": "mondo",
    "titolo": "Portogallo, mancano insegnanti per l'educazione speciale",
@@ -8954,6 +8804,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-16T12:15+02:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1667212.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T11:17+02:00"
     }
    ],
    "data": "16 ott",
@@ -9424,30 +9283,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z88839e41",
-   "sez": "economia",
-   "titolo": "Il sistema ETS divide i leader dell'Unione Europea sugli obiettivi climatici",
-   "orig": "ETS splits EU leaders and tests bloc's climate goals",
-   "lead": "I leader dell'Unione Europea sono divisi sul sistema di scambio delle quote di emissione (ETS), nel tentativo di contrastare il forte aumento dei prezzi dell'energia. Alcuni paesi sostengono che il meccanismo di tariffazione del carbonio stia danneggiando la competitività del blocco europeo, mentre altri ne difendono il ruolo per il raggiungimento degli obiettivi climatici. Lo riferisce Euronews.",
-   "more": [
-    "L'ETS è il sistema europeo di scambio delle quote di emissione di CO2, che impone alle industrie di acquistare permessi per inquinare, con l'obiettivo di ridurre le emissioni e finanziare la transizione verso un'economia più verde."
-   ],
-   "fonti": [
-    {
-     "n": "Euronews",
-     "p": "XX",
-     "c": "Lione",
-     "u": "https://www.euronews.com/2026/10/16/ets-splits-eu-leaders-and-tests-blocs-climate-goals",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T12:47+02:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:34",
-   "uscita": "13"
-  },
-  {
    "id": "zff05b057",
    "sez": "economia",
    "titolo": "L'UE sostiene un «kill switch» commerciale mentre crescono le esportazioni cinesi",
@@ -9607,6 +9442,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-16T11:58+02:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/16/ets-splits-eu-leaders-and-tests-blocs-climate-goals",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T12:47+02:00"
     }
    ],
    "data": "16 ott",
@@ -9782,30 +9626,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z53201859",
-   "sez": "economia",
-   "titolo": "Per il presidente della Fed l'IA è il cambiamento più importante mai visto nell'economia",
-   "orig": "IA é a mudança mais importante que a economia que já viu, diz presidente do Fed",
-   "lead": "Il presidente della Federal Reserve ha dichiarato venerdì che l'intelligenza artificiale rappresenta il \"cambiamento più importante\" mai osservato per l'economia mondiale, prevedendo un impatto complessivamente positivo ma un percorso \"accidentato\" nei prossimi anni. Le dichiarazioni arrivano in un momento di forte attenzione sugli investimenti legati all'IA e sui rischi finanziari che potrebbero derivarne. Lo riferisce Folha de S.Paulo.",
-   "more": [
-    "La Federal Reserve è la banca centrale degli Stati Uniti, responsabile della politica monetaria; le sue valutazioni sull'economia influenzano i mercati finanziari globali."
-   ],
-   "fonti": [
-    {
-     "n": "Folha de S.Paulo",
-     "p": "XX",
-     "c": "San Paolo",
-     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/ia-e-a-mudanca-mais-importante-que-a-economia-que-ja-viu-diz-presidente-do-fed.shtml",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-10-16T08:06-03:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:34",
-   "uscita": "13"
-  },
-  {
    "id": "za563af61",
    "sez": "economia",
    "titolo": "La fascinazione per l'apocalisse nell'era dell'intelligenza artificiale",
@@ -9850,27 +9670,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
     }
    ],
    "data": "16 ott",
-   "ora": "13:34",
-   "uscita": "13"
-  },
-  {
-   "id": "zd42b1700",
-   "sez": "economia",
-   "titolo": "La circolare presidenziale sul bilancio 2027 giudicata fuori sintonia con la realtà economica del Camerun",
-   "orig": "The Presidential Circular on the 2027 Budget Is Out of Line with the Country’s Economic Realities",
-   "lead": "Un commento di Actu Cameroun critica la circolare presidenziale sul bilancio 2027, sostenendo che i consulenti economici della presidenza non sono in linea con il reale funzionamento del paese. L'articolo prevede un nuovo scontro simile a quello che si ripete ogni anno tra le indicazioni del potere centrale e la realtà economica camerunese. Lo riferisce Actu Cameroun.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Actu Cameroun",
-     "p": "XX",
-     "c": "Yaoundé",
-     "u": "https://actucameroun.com/2026/10/16/the-presidential-circular-on-the-2027-budget-is-out-of-line-with-the-countrys-economic-realities/",
-     "angolo": "",
-     "atlas": "Cameroon"
-    }
-   ],
-   "data": "",
    "ora": "13:34",
    "uscita": "13"
   },
@@ -10260,92 +10059,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Dominica",
      "t": "2026-10-15T18:30+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:34",
-   "uscita": "13"
-  },
-  {
-   "id": "z11b3dabd",
-   "sez": "prima",
-   "titolo": "Guasto alla rete Enav rallenta il traffico aereo in Italia",
-   "orig": "Anomalie rete, traffico aereo rallentato",
-   "lead": "Un'anomalia alla rete di trasmissione dati che supporta i servizi di controllo del traffico aereo ha causato forti rallentamenti sui movimenti aerei in tutta Italia, con gravi disagi a Fiumicino, Malpensa e Orio al Serio. Enav ha escluso che il guasto sia dovuto a un attacco hacker e ha detto di lavorare con il fornitore Tim per ripristinare la piena funzionalità del sistema, utilizzando nel frattempo la rete satellitare di backup con capacità sopra il 50%.",
-   "more": [
-    "Enav è la società pubblica che gestisce il controllo del traffico aereo in Italia, responsabile della sicurezza e della regolarità dei voli nello spazio aereo nazionale; un guasto alla sua rete dati può causare ritardi e cancellazioni su larga scala."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/anomalie-rete-traffico-aereo-rallentato-abe4905a-c46e-4339-8230-15184514e334.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T07:00+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/16/disagi-al-traffico-aereo-per-guasto-alla-rete-di-controllo-voli-non_d9146593-74cc-47ae-9c1f-a00c71879b3f.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T12:40+02:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/2026/10/16/news/voli_cancellati_ritardo_guasto_enav_diritti_passeggeri-425652292/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T10:40+00:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/2026/10/16/news/traffico_aereo_anomalie_rete_dati_enav-425651498/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T06:02+00:00"
-    },
-    {
-     "n": "la Repubblica – Economia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/2026/10/16/news/voli_cancellati_ritardo_guasto_enav_diritti_passeggeri-425652292/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T12:40+02:00"
-    },
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/cronaca/2026/10/16/problemi-aerei-italia-oggi",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-16T10:37+00:00"
-    },
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445279/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-16T12:50+02:00"
     }
    ],
    "data": "16 ott",
@@ -11158,39 +10871,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z4a63dbdf",
-   "sez": "mondo",
-   "titolo": "Ucraina, senatori Usa chiedono chiarezza sul rallentamento di Starlink",
-   "orig": "Krieg in der Ukraine: US-Senatoren verlangen Klarheit über Starlink-Drosselung in der Ukraine",
-   "lead": "Senatori statunitensi di entrambi i partiti chiedono chiarimenti sul temporaneo rallentamento della connessione satellitare Starlink utilizzata dalle forze armate ucraine, episodio che secondo un rapporto di Reuters sarebbe stato ordinato dalla Casa Bianca. La vicenda si inserisce in un contesto di crescenti tensioni, con il presidente Donald Trump che ha definito i rapporti con il presidente ucraino Zelensky \"più difficili che con Putin\", mentre Ursula von der Leyen e Antonio Costa hanno assicurato sostegno a Kiev durante un vertice UE.",
-   "more": [
-    "Starlink, la rete di satelliti di SpaceX, è diventata uno strumento cruciale per le comunicazioni militari ucraine durante il conflitto con la Russia, rendendo ogni interruzione del servizio un tema politicamente sensibile a Washington."
-   ],
-   "fonti": [
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-li.3563283",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-16T09:11+00:00"
-    },
-    {
-     "n": "FAZ",
-     "p": "DE",
-     "c": "Francoforte",
-     "u": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-us-senatoren-verlangen-klarheit-ueber-starlink-drosselung-faz-110683325.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-16T04:15+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:34",
-   "uscita": "13"
-  },
-  {
    "id": "z52e93436",
    "sez": "mondo",
    "titolo": "Ayuso chiude la stazione della metro di Sol per pulizia dopo l'accampamento",
@@ -11403,6 +11083,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-16T10:10+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/mattarella-ormai-indispensabili-decisioni-piu-veloci-ue-AJGwyplB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-16T10:05+00:00"
     }
    ],
    "data": "16 ott",
@@ -12826,30 +12515,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zefcfd483",
-   "sez": "cultura",
-   "titolo": "Steven Soderbergh subentra per completare \"The Batman 2\"",
-   "orig": "Steven Soderbergh is stepping in to finish ‘The Batman 2’",
-   "lead": "Il regista Steven Soderbergh interverrà per terminare le riprese di \"The Batman 2\" dopo che Matt Reeves ha lasciato temporaneamente il progetto per occuparsi di una questione privata. Lo riferisce NME.",
-   "more": [
-    "Matt Reeves è il regista del precedente film \"The Batman\" con Robert Pattinson; Steven Soderbergh è un cineasta statunitense di lunga esperienza, noto per la sua versatilità produttiva e per aver spesso assunto ruoli dietro le quinte in grandi produzioni hollywoodiane."
-   ],
-   "fonti": [
-    {
-     "n": "NME",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.nme.com/news/film/batman-sequel-steven-soderbergh-matt-reeves-director-3973308?utm_source=rss&utm_medium=rss&utm_campaign=batman-sequel-steven-soderbergh-matt-reeves-director",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-16T09:08+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:30",
-   "uscita": "13"
-  },
-  {
    "id": "zb0ca4582",
    "sez": "sport",
    "titolo": "Roma, l'orgoglio resta dopo la sconfitta con il Real Madrid",
@@ -12984,30 +12649,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Namibia",
      "t": "2026-10-16T10:44+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:30",
-   "uscita": "13"
-  },
-  {
-   "id": "zbbc83eb3",
-   "sez": "economia",
-   "titolo": "Putin pone sotto amministrazione temporanea altri beni di aziende straniere, tra cui Tarkett",
-   "orig": "Putin places assets of several more foreign companies, including flooring manufacturer Tarkett, under temporary management",
-   "lead": "Il presidente russo Vladimir Putin ha disposto l'amministrazione temporanea dei beni russi di diverse società europee, tra cui il produttore francese di pavimentazioni Tarkett, nominando Tsentr Kapital come società gestore. Lo riferisce Meduza.",
-   "more": [
-    "Da quando è iniziata la guerra in Ucraina, la Russia ha posto sotto controllo statale i beni di numerose aziende occidentali che hanno lasciato o ridotto le attività nel paese, spesso affidandone la gestione a entità russe designate dal Cremlino."
-   ],
-   "fonti": [
-    {
-     "n": "Meduza",
-     "p": "XX",
-     "c": "Riga (in esilio)",
-     "u": "https://meduza.io/en/news/2026/10/16/putin-places-assets-of-several-more-foreign-companies-including-flooring-manufacturer-tarkett-under-temporary-management",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-10-16T12:11+03:00"
     }
    ],
    "data": "16 ott",
@@ -13921,30 +13562,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Peru",
      "t": "2026-10-16T11:01+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:30",
-   "uscita": "13"
-  },
-  {
-   "id": "zb89c0354",
-   "sez": "mondo",
-   "titolo": "Mattarella: la UE ha bisogno di decisioni più rapide",
-   "orig": "Mattarella: ormai indispensabili decisioni più veloci della Ue",
-   "lead": "Il presidente della Repubblica Sergio Mattarella ha dichiarato che, come \"anziano presidente\", negli ultimi dodici anni ha visto crescere progressivamente la consapevolezza che l'Unione europea abbia bisogno di modalità decisionali più snelle e veloci. Secondo Mattarella, senza rapidità nelle decisioni l'Unione rischia di restare indietro nelle sfide globali che richiedono risposte immediate. Lo riferisce Il Sole 24 Ore.",
-   "more": [
-    "Sergio Mattarella è presidente della Repubblica Italiana dal 2015; nei suoi interventi pubblici affronta spesso temi legati al futuro dell'integrazione europea e alla necessità di riforme istituzionali dell'Unione."
-   ],
-   "fonti": [
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/mattarella-ormai-indispensabili-decisioni-piu-veloci-ue-AJGwyplB",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T10:05+00:00"
     }
    ],
    "data": "16 ott",
@@ -15470,39 +15087,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zd01ba846",
-   "sez": "musica",
-   "titolo": "X Factor 2026, dopo le Last Call si va ai live in 12+1 concorrenti",
-   "orig": "X Factor 2026, le pagelle delle Last Call: ai live si va in 12+1, chi sceglierà Giorgia?",
-   "lead": "Giovedì iniziano i live di X Factor 2026 con dodici concorrenti selezionati durante le Last Call, a cui la conduttrice Giorgia potrà aggiungere due eliminati ripescati dal pubblico. Secondo Rolling Stone Italia, tra le esibizioni spiccano quelle di Camilla Guerini e Patrizia Napolano, mentre non mancano inediti giudicati di scarsa qualità. Il Fatto Quotidiano racconta inoltre che, durante le selezioni del 15 ottobre, Giorgia ha assistito la cantante Kora, poi eliminata, colta da un attacco di tachicardia nel backstage, consigliandole di fare una camminata.",
-   "more": [
-    "X Factor è un talent show musicale italiano in onda su Sky, in cui aspiranti cantanti si contendono un contratto discografico attraverso fasi di selezione e serate live in diretta."
-   ],
-   "fonti": [
-    {
-     "n": "Rolling Stone Italia",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.rollingstone.it/cinema-tv/classifiche-liste-cinema-tv/x-factor-2026-le-pagelle-delle-last-call-ai-live-si-va-in-121-chi-scegliera-giorgia/1042554/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T07:14+00:00"
-    },
-    {
-     "n": "Il Fatto Quotidiano",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilfattoquotidiano.it/2026/10/16/aspettate-un-attimo-e-un-attacco-di-tachicardia-posso-consigliarti-di-fare-una-camminata-giorgia-nel-backstage-di-x-factor-2026-aiuta-la-cantante-poi-eliminata-kora/8540608/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-16T11:01+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
    "id": "zb58a31ec",
    "sez": "manga",
    "titolo": "Annunciati due nuovi membri del cast per l'anime 'Magical Sisters Lulutto Lilly'",
@@ -16472,6 +16056,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-16T07:33+00:00"
+    },
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/film/batman-sequel-steven-soderbergh-matt-reeves-director-3973308?utm_source=rss&utm_medium=rss&utm_campaign=batman-sequel-steven-soderbergh-matt-reeves-director",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T09:08+00:00"
     }
    ],
    "data": "16 ott",
@@ -16842,7 +16435,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zf2ce02e8": "N1 Bosnia offre indicazioni pratiche agli utenti per tutelare la propria privacy su Android.",
   "z3ff8e05c": "RTP e Público concordano sulla medaglia di bronzo, con Público che aggiunge dettagli sull'andamento tattico della gara.",
   "z3211ac7c": "Il Sole 24 Ore analizza il fabbisogno abitativo nazionale, mentre la Repubblica si concentra sui consumi delle famiglie straniere in Italia.",
-  "zd01ba846": "Rolling Stone Italia valuta le performance dei concorrenti, mentre Il Fatto Quotidiano racconta un episodio umano avvenuto dietro le quinte.",
   "zb58a31ec": "Anime News Network riporta in forma di notizia breve l'annuncio del nuovo cast.",
   "z5255fb56": "BBC News riporta la preoccupazione di un'attivista per i diritti degli alunni rispetto alla misura scolastica.",
   "ze35afb5f": "Il video presenta una riflessione personale dell'autore sull'adattamento culturale dopo anni vissuti in Giappone.",
@@ -16923,7 +16515,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "ze6151551": "Times of India riporta le dichiarazioni di Brin sull'accelerazione dello sviluppo dell'IA in Google.",
   "z35ee1da2": "Construction Index segnala l'avvio del cantiere con dettaglio sui finanziamenti pubblici coinvolti.",
   "zf67a16de": "The Namibian ripercorre la carriera e il ruolo simbolico di Hindjou nel calcio namibiano.",
-  "zbbc83eb3": "Meduza, testata russa in esilio, documenta l'ulteriore stretta del Cremlino sugli asset occidentali.",
   "zf44fa8f9": "Haaretz pubblica dati del servizio carcerario israeliano sull'uso dell'isolamento verso minori palestinesi.",
   "z03fea1c1": "The Architectural Review rilancia i temi di Manplan come ancora attuali nel dibattito architettonico.",
   "z516a5886": "Nyasa Times riporta la decisione della federazione motivata da ragioni di sicurezza climatica.",
@@ -16961,7 +16552,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z4dc1bab9": "Il Sole 24 Ore mette in guardia i propri lettori spiegando come riconoscere i tentativi di truffa che usano il suo nome.",
   "zb3cc20a8": "Geopop valorizza gli indizi di solidarietà sociale e cura reciproca tra i Neanderthal emersi dal ritrovamento.",
   "zf239276e": "El Comercio celebra il risultato come il miglior momento del Perù nella storia della UFC.",
-  "zb89c0354": "Il Sole 24 Ore riporta le parole del capo dello Stato come monito sulla lentezza decisionale europea.",
   "z7c7ae7e9": "Moldova.org sottolinea il legame tra immaginario popolare e innovazione tecnologica nel progetto.",
   "zeb5b68a6": "La Nouvelle Tribune riprende la notizia rivelata da Footy Headlines e confermata da As, presentandola come la successione naturale a Mbappé nel marketing sportivo.",
   "zeeec7b71": "Il Sole 24 Ore presenta l'iniziativa come un'occasione di sinergia tra produzione locale e distribuzione.",
@@ -16986,7 +16576,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z6033a19e": "The Straits Times nota il cambiamento di strategia comunicativa russa e le critiche di Trump verso Kiev.",
   "z5875f745": "Middle East Eye riporta la versione ufficiale della marina iraniana senza ulteriori conferme indipendenti sull'episodio.",
   "z6d521eee": "Euronews riporta l'iniziativa del sindaco come una misura destinata a essere discussa formalmente dal consiglio comunale.",
-  "z88839e41": "Euronews evidenzia la frattura tra paesi europei sulla gestione del sistema ETS in un contesto di prezzi energetici elevati.",
   "zff05b057": "Il South China Morning Post cita fonti anonime riguardo alle discussioni interne dei leader UE sulla misura.",
   "zd9f6a54e": "South China Morning Post conferma le proprie precedenti anticipazioni sul rinvio della riforma.",
   "za6693b9e": "South China Morning Post evidenzia le aspettative degli investitori globali sulle possibili aperture dei mercati cinesi.",
@@ -17001,10 +16590,8 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z8f08c943": "Daryo evidenzia l'interesse dei due paesi a diversificare la cooperazione industriale oltre i settori tradizionali.",
   "z4c2a55ca": "14ymedio, testata cubana in esilio, riporta criticamente la difesa del regime rispetto alle nuove sanzioni statunitensi.",
   "z884e625c": "Libération sottolinea come le tensioni politiche interne francesi pesino sulle trattative europee in corso.",
-  "z53201859": "Folha de S.Paulo riporta l'enfasi del presidente della Fed sull'impatto epocale dell'IA sull'economia globale.",
   "za563af61": "Clarín analizza il fenomeno culturale delle previsioni apocalittiche legate all'IA in prospettiva storica.",
   "z51d5e5cb": "Clarín fornisce un monitoraggio continuo delle quotazioni valutarie per il pubblico argentino.",
-  "zd42b1700": "Actu Cameroun offre una lettura critica delle scelte di bilancio della presidenza camerunese.",
   "zabd632a1": "La Nouvelle Tribune descrive le priorità del governo beninese nell'allocazione delle risorse locali per il 2027.",
   "za0e40107": "Téla Nón riporta l'avviso governativo relativo all'uso dei fondi del progetto climatico.",
   "z18a08076": "Téla Nón riporta l'avviso di procurement pubblicato dal governo santomense.",
@@ -17019,7 +16606,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z23b8db12": "BBC News si concentra sulla sanzione record contro Bank of America negli USA, mentre KT Press e Mimi Mefo Info seguono l'indagine belga sulle proprietà della famiglia Tshisekedi legata a presunti proventi minerari illeciti.",
   "zff27078b": "Club of Mozambique presenta l'incontro come passo per migliorare i servizi di frontiera.",
   "z94292467": "Kun.uz segnala la proroga come misura amministrativa a favore degli studenti.",
-  "z11b3dabd": "Le testate si concentrano sui disagi ai passeggeri e sui diritti al rimborso, oltre alle rassicurazioni di Enav sull'esclusione di un attacco hacker.",
   "z0e483035": "Vatican News valorizza il messaggio di speranza del cardinale Parolin.",
   "zf999e950": "RTHK e Hong Kong Free Press concordano sulla percentuale di adesioni e sulle eccezioni gestite caso per caso.",
   "z12101ea8": "Meduza dà voce alle testimonianze dei familiari dei detenuti in sciopero della fame.",
@@ -17043,7 +16629,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z88150280": "Daryo aggiunge il dettaglio dell'incontro diretto con il presidente Erdogan, non menzionato da UzDaily.",
   "z03b15232": "MyJoyOnline specifica la composizione del pacchetto tra sussidi EU e prestito EIB, dettaglio ripreso in modo simile da 3News.",
   "z62ad9698": "Libération si concentra sui consigli di sicurezza diffusi sui social per i manifestanti alle prime armi, mentre Le Figaro racconta lo scontro sui percorsi autorizzati.",
-  "z4a63dbdf": "Entrambe le testate tedesche riportano la stessa notizia d'agenzia sulle pressioni bipartisan al Senato Usa riguardo al rallentamento di Starlink.",
   "z52e93436": "El Mundo riprende lo stesso annuncio di Ayuso aggiungendo il riferimento esplicito all'\"accampamento illegale\" come causa dell'insalubrità.",
   "z62da2768": "APS si concentra sull'appello del premier a sospendere lo sciopero generale, mentre Seneweb sottolinea le attese del settore media e dell'istruzione verso il governo.",
   "z8fe25711": "Público fornisce il dettaglio sul numero di feriti tra i manifestanti, non presente nel breve lancio di RTP.",
@@ -17106,7 +16691,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zbaf63813": "France 24 segue la vigilia della protesta annunciando la convergenza tra più movimenti sociali.",
   "z76c2fd22": "France 24 riporta l'inchiesta giudiziaria belga che coinvolge direttamente la famiglia del capo di Stato congolese.",
   "z23837b76": "Tagesschau sottolinea le rassicurazioni europee a Zelensky nonostante la linea più dura di Trump.",
-  "z64d78bda": "Tagesschau mette in evidenza il tema degli aiuti come punto centrale dell'agenda del vertice.",
   "ze2abc83d": "RTP documenta sul campo la carenza di personale specializzato in una scuola della regione di Maia.",
   "z461f665f": "RTP riprende il dato Eurostat segnalando il forte peggioramento rispetto all'anno precedente.",
   "z9daf87b4": "RTP riporta le previsioni settimanali dell'ACP sui prezzi dei carburanti.",
@@ -17134,7 +16718,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z61ef6bff": "La Presse de Tunisie elenca in modo dettagliato le misure concrete previste dal testo, con attenzione agli effetti sui cittadini comuni.",
   "zaf9ff4ad": "La Presse de Tunisie valorizza il buon posizionamento del paese nel confronto continentale.",
   "zcd93972e": "Radio Okapi riporta il sostegno politico locale all'azione militare congiunta contro le violenze armate.",
-  "z56096afd": "Radio Okapi riporta la misura come decisione governativa unilaterale, senza riportare reazioni dei partiti colpiti.",
   "zc3eb8739": "Radio Okapi riporta la cifra esatta dei detenuti liberati, distinguendo tra civili, militari e poliziotti.",
   "zc04e9971": "Le Soleil mette in risalto l'impegno logistico delle autorità locali in vista dell'evento internazionale.",
   "z27092a81": "Le Soleil dà voce a una tecnica sul campo per spiegare le potenzialità della filiera risicola locale.",
@@ -17195,7 +16778,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z80d9d22a": "Sky TG24 racconta in diretta una giornata segnata da proteste parallele su scuola e trasporti, con focolai di tensione in diverse città.",
   "z2ba3c3f1": "Sky TG24 documenta l'estensione della protesta su scala nazionale a difesa dell'occupazione nel settore siderurgico.",
   "z1ef4aa22": "The Standard presenta la decisione come un rafforzamento dei poteri dell'Ispettore Generale rispetto alla commissione di controllo.",
-  "zad645fa3": "Hespress English sottolinea il sostegno condiviso di Marocco e Algeria al testo, nonostante le tensioni storiche tra i due paesi sulla questione.",
   "zd50f477b": "La testata riporta l'iniziativa come esempio positivo di sicurezza alimentare promossa dal governo.",
   "z060b6d9f": "La testata dà voce alle autorità locali che sottolineano i benefici del trasferimento di competenze.",
   "z96a5c0d4": "La testata evidenzia l'entità dell'aumento dei casi come giustificazione dell'intervento sanitario rafforzato.",
@@ -17329,7 +16911,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zba4fe6d1": "La testata celebra il riconoscimento internazionale a un intellettuale africano.",
   "z9fdf5339": "La testata sottolinea l'incontro bilaterale a margine di un vertice internazionale.",
   "z9060ecf8": "La testata documenta lo svolgimento delle cerimonie funebri dedicate alla figura.",
-  "zee8bf425": "La testata riporta le dichiarazioni di Trump critiche verso Zelensky, in un'intervista televisiva americana.",
   "z20c89778": "La testata riporta le valutazioni di Trump sulla corsa nucleare globale.",
   "z88558a52": "La testata elenca la composizione del nuovo organo dirigente del partito d'opposizione beninese.",
   "z98dd88d3": "La testata racconta le difficoltà quotidiane di un mestiere artigianale tradizionale.",
@@ -17350,7 +16931,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z2d40fbfd": "La testata offre una prospettiva giuridico-economica sulle relazioni commerciali tra i due paesi nordafricani.",
   "za627a350": "La testata riporta i dati ufficiali sull'epidemia e sulla distribuzione dei casi per genere.",
   "zaec9e6c9": "La testata riporta l'iniziativa di un partito di opposizione per prevenire irregolarità elettorali.",
-  "z5945e740": "La testata presenta un'analisi sui rischi di escalation militare nel Golfo Persico legata a dinamiche elettorali.",
   "z5c73abe3": "La testata mette in luce il divario di genere nella proprietà della terra nel settore agricolo tunisino.",
   "z97a754c8": "L'emittente presenta l'iniziativa come risposta istituzionale alla crisi climatica nel settore agricolo.",
   "z1a4be49d": "L'emittente sottolinea il numero elevato di specialisti coinvolti nell'iniziativa sanitaria.",
@@ -17361,7 +16941,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zf63f5dfb": "La testata segnala un nuovo episodio di tensione diplomatica tra Kinshasa e Bruxelles.",
   "zd8b90643": "La testata riporta la reazione di un alleato di Fayulu alla nuova iniziativa politica di Kabila.",
   "z037cd988": "La testata riporta la versione ufficiale americana contro le cifre pubblicate dal New York Times.",
-  "z191361dc": "La testata presenta l'opera sottolineando il suo impatto occupazionale.",
   "z7e2e3760": "La testata segue da vicino la riorganizzazione della governance della compagnia aerea nazionale.",
   "zf3401a8f": "La testata segue l'arrivo graduale dei contingenti internazionali destinati alla missione di sicurezza.",
   "ze7719726": "La testata riporta il messaggio formativo rivolto ai nuovi militari in addestramento.",
@@ -17405,13 +16984,13 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zb1c56ca2": "Defimedia documenta le conseguenze economiche del coprifuoco sulla vita notturna dell'isola.",
   "z9da54fab": "Defimedia quantifica i danni materiali legati ai recenti disordini sull'isola.",
   "z6d04f8c9": "Defimedia documenta l'impatto economico delle rivolte sui commercianti dell'isola.",
-  "z3f972e11": "Panamá América riporta la risposta del ministero alle conseguenze del sisma sul sistema scolastico."
+  "z3f972e11": "Panamá América riporta la risposta del ministero alle conseguenze del sisma sul sistema scolastico.",
+  "zd5a80b7b": "Il Sole 24 Ore riporta le parole del capo dello Stato come monito sulla lentezza decisionale europea."
  },
  "contesti": {
   "z1838bc4e": "Nei giorni precedenti erano emerse le polemiche sul piano segreto di Infantino per vendere quote del Mondiale a investitori privati, poi abbandonato, e sulle critiche al premio per la pace Fifa assegnato a Trump, ritenuto eccessivamente politicizzato dai membri del consiglio.",
   "z21291750": "Negli ultimi giorni si sono intensificati gli attacchi Houthi contro il governo yemenita e le minacce alla navigazione nello Stretto di Hormuz, mentre l'Arabia Saudita ha risposto con raid aerei e gli Stati Uniti hanno rafforzato le sanzioni contro l'Iran, accusato di sostenere i ribelli.",
   "z8c3639db": "Nei giorni scorsi sono emerse notizie su un possibile dispiegamento militare statunitense in America Latina di proporzioni storiche, mentre proseguivano negoziati Usa-Venezuela da cui Machado si dice esclusa; la sua piattaforma ha intanto organizzato una mobilitazione nazionale per fine mese.",
-  "z11b3dabd": "Nella notte Enav aveva garantito l'operatività normale fino alle 6 del mattino, poi le anomalie sono peggiorate con l'aumento di decolli e atterraggi, causando ritardi e cancellazioni che hanno coinvolto diversi scali italiani.",
   "z5e80f2fb": "Il Tesoro italiano ricorre periodicamente al Btp Valore, titolo di Stato pensato per i piccoli risparmiatori, collocato esclusivamente tramite piattaforme bancarie e postali senza commissioni. Le precedenti emissioni, lanciate dal 2023, hanno riscosso ampio successo raccogliendo decine di miliardi di euro, grazie a cedole crescenti nel tempo (step-up) e a un premio fedeltà per chi mantiene il titolo fino a scadenza, strategia confermata anche nella nuova emissione.",
   "z80d9d22a": "Nei giorni scorsi la protesta studentesca si è intensificata con cortei in diverse città italiane, culminati in scontri con le forze dell'ordine a Torino. Contemporaneamente gli autotrasportatori hanno annunciato mobilitazioni contro l'aumento dei costi del carburante.",
   "z2ba3c3f1": "Le proteste sono iniziate lunedì 12 ottobre e si sono estese nei giorni successivi a diverse città italiane, coinvolgendo i lavoratori dei vari stabilimenti del gruppo siderurgico.",
@@ -17450,16 +17029,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    [
     "16 ottobre",
     "Machado denuncia la propria esclusione dai negoziati su Caracas e annuncia una mobilitazione per il 22 ottobre"
-   ]
-  ],
-  "z11b3dabd": [
-   [
-    "notte del 16 ottobre",
-    "Enav garantisce operatività normale fino alle 6"
-   ],
-   [
-    "mattina del 16 ottobre",
-    "le anomalie peggiorano con l'aumento dei voli"
    ]
   ],
   "z5e80f2fb": [
@@ -17595,53 +17164,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
     }
    ],
    "divergono": "Il Guardian pone al centro la vicenda del premio per la pace a Trump e le pressioni per abolirlo, aspetto assente in Actu Cameroun che si concentra invece sul bilancio positivo di Infantino. PBS NewsHour e Hespress English condividono le stesse citazioni critiche di Neuendorf e Hewitt sull'assenza di risposte, mentre Actu Cameroun riporta solo le parole di scuse di Infantino senza le reazioni critiche europee. Le cifre differiscono: PBS parla di piano da 4,2 miliardi di dollari e fondo di sviluppo, Hespress cita 6,35 miliardi per il fondo sviluppo e 25 milioni per federazione, dato ripreso anche da Actu Cameroun."
-  },
-  "z11b3dabd": {
-   "voci": [
-    {
-     "n": "Rai News",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Riporta solo titolo e occhiello: segnala il rallentamento del traffico aereo per anomalie alla rete e cita Enav che esclude un «attacco hacker». Giudizio parziale per assenza del testo completo.",
-     "b": "t"
-    },
-    {
-     "n": "Deutsche Welle",
-     "c": "Bonn",
-     "p": "DE",
-     "t": "Riferisce la voce della Germania su un guasto che ha ridotto il traffico aereo italiano al 50%, citando Enav che parla di «problema di trasmissione dati» e esclude «atti malevoli». Riporta i disagi a Roma e Milano e l'invito di Enav a verificare i voli con le compagnie.",
-     "b": "a"
-    },
-    {
-     "n": "ANSA",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Dà grande spazio ai dettagli tecnici di Enav (rete secondaria satellitare, oltre il 50% delle tratte garantite) e alle dichiarazioni di Salvini, che attribuisce la colpa alla rete gestita da Tim e minaccia richieste di danni. Elenca disagi aeroporto per aeroporto e ricorda i diritti dei passeggeri secondo il regolamento Ce 261/2004.",
-     "b": "a"
-    },
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Definisce la giornata un «venerdì nero» e si concentra sui diritti dei passeggeri, distinguendo tra circostanza eccezionale e responsabilità della compagnia. Cita l'esperta Maria Pisanò e una recente sentenza Ue (C-108/2026) sui limiti alla motivazione dei ritardi.",
-     "b": "t"
-    },
-    {
-     "n": "la Repubblica – Economia",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Stesso contenuto dell'articolo di Repubblica sui diritti dei passeggeri: centra l'attenzione sulla sentenza Ue C-108/2026 e sulle dichiarazioni dell'esperta Pisanò, più che sulla cronaca del guasto.",
-     "b": "a"
-    },
-    {
-     "n": "Sky TG24",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Offre un resoconto cronologico con aggiornamenti sulla percentuale di capacità operativa (dal 50% al 75% nel pomeriggio) e cita sia Enav sia Salvini, che incolpa Tim per il «blocco della rete». Aggiunge il contesto dello sciopero Easyjet e un riferimento ai rincari del cherosene legati alla crisi in Medio Oriente.",
-     "b": "a"
-    }
-   ],
-   "divergono": "ANSA, Sky TG24 e Deutsche Welle riportano le dichiarazioni di Salvini che attribuisce la responsabilità a Tim, mentre Rai News e Repubblica non citano questo dettaglio nei testi disponibili. Sky TG24 è la sola a dare un aggiornamento numerico sulla capacità operativa salita al 75% nel pomeriggio, mentre ANSA si ferma a «oltre il 50%». Repubblica sposta il focus dalla cronaca del guasto ai diritti dei passeggeri e a una sentenza Ue, aspetto assente nelle altre testate. Solo Sky TG24 collega la giornata anche ai rincari del cherosene legati alla crisi in Medio Oriente."
   },
   "z5e80f2fb": {
    "voci": [
@@ -17959,13 +17481,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   "z3211ac7c": {
    "n": "Roma e Milano",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "zd01ba846": {
-   "n": "Italia",
    "p": [
     "Italy"
    ],
@@ -18661,13 +18176,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zbbc83eb3": {
-   "n": "Mosca",
-   "p": [
-    "Russia"
-   ],
-   "pt": []
-  },
   "zf44fa8f9": {
    "n": "Territori palestinesi",
    "p": [],
@@ -18921,13 +18429,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zb89c0354": {
-   "n": "non specificato",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z7c7ae7e9": {
    "n": "Barcellona",
    "p": [
@@ -19094,13 +18595,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z88839e41": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "zff05b057": {
    "n": "Bruxelles",
    "p": [
@@ -19199,24 +18693,10 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z53201859": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z51d5e5cb": {
    "n": "Buenos Aires",
    "p": [
     "Argentina"
-   ],
-   "pt": []
-  },
-  "zd42b1700": {
-   "n": "Yaoundé",
-   "p": [
-    "Cameroon"
    ],
    "pt": []
   },
@@ -19315,13 +18795,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Uzbekistan",
    "p": [
     "Uzbekistan"
-   ],
-   "pt": []
-  },
-  "z11b3dabd": {
-   "n": "Italia",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -19481,13 +18954,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Parigi",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "z4a63dbdf": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -20031,13 +19497,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "pt": []
   },
   "z23837b76": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
-  "z64d78bda": {
    "n": "Bruxelles",
    "p": [
     "Belgium"
@@ -20605,13 +20064,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zad645fa3": {
-   "n": "Sahara Occidentale",
-   "p": [
-    "Morocco"
-   ],
-   "pt": []
-  },
   "ze8eed95d": {
    "n": "Limassol",
    "p": [
@@ -21173,13 +20625,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zc7e9ec42": {
-   "n": "Catalogna",
-   "p": [
-    "Spain"
-   ],
-   "pt": []
-  },
   "z2bf70401": {
    "n": "Spagna",
    "p": [
@@ -21670,13 +21115,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "zee8bf425": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z20c89778": {
    "n": "Washington",
    "p": [
@@ -21817,13 +21255,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "z5945e740": {
-   "n": "Golfo Persico",
-   "p": [
-    "Iran"
-   ],
-   "pt": []
-  },
   "z5c73abe3": {
    "n": "Tunisia",
    "p": [
@@ -21889,13 +21320,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   },
   "z037cd988": {
    "n": "Panama",
-   "p": [
-    "Panama"
-   ],
-   "pt": []
-  },
-  "z191361dc": {
-   "n": "Panama City",
    "p": [
     "Panama"
    ],
@@ -22247,7 +21671,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zf2ce02e8": 1,
   "z3ff8e05c": 1,
   "z3211ac7c": 1,
-  "zd01ba846": 1,
   "zb58a31ec": 1,
   "z5255fb56": 1,
   "ze35afb5f": 1,
@@ -22344,14 +21767,12 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z31c4293e": 1,
   "zfefcb40f": 2,
   "zf5a9bd95": 1,
-  "zefcfd483": 1,
   "zb0ca4582": 1,
   "zcbc629c2": 1,
   "za89f976b": 1,
   "ze6151551": 1,
   "z35ee1da2": 1,
   "zf67a16de": 1,
-  "zbbc83eb3": 1,
   "zf44fa8f9": 2,
   "z03fea1c1": 1,
   "z516a5886": 1,
@@ -22389,7 +21810,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z4dc1bab9": 1,
   "zb3cc20a8": 1,
   "zf239276e": 1,
-  "zb89c0354": 1,
   "z7c7ae7e9": 1,
   "zeb5b68a6": 1,
   "zeeec7b71": 1,
@@ -22414,7 +21834,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z6033a19e": 1,
   "z5875f745": 1,
   "z6d521eee": 2,
-  "z88839e41": 1,
   "zff05b057": 1,
   "zd9f6a54e": 1,
   "za6693b9e": 1,
@@ -22429,10 +21848,8 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z8f08c943": 1,
   "z4c2a55ca": 1,
   "z884e625c": 1,
-  "z53201859": 1,
   "za563af61": 1,
   "z51d5e5cb": 1,
-  "zd42b1700": 1,
   "zabd632a1": 1,
   "za0e40107": 1,
   "z18a08076": 1,
@@ -22447,7 +21864,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z23b8db12": 2,
   "zff27078b": 1,
   "z94292467": 1,
-  "z11b3dabd": 3,
   "z0e483035": 2,
   "zf999e950": 2,
   "z12101ea8": 1,
@@ -22471,7 +21887,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z88150280": 1,
   "z03b15232": 1,
   "z62ad9698": 1,
-  "z4a63dbdf": 1,
   "z52e93436": 1,
   "z62da2768": 1,
   "z8fe25711": 1,
@@ -22551,7 +21966,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zbaf63813": 1,
   "z76c2fd22": 1,
   "z23837b76": 2,
-  "z64d78bda": 1,
   "ze2abc83d": 1,
   "z461f665f": 1,
   "z9daf87b4": 1,
@@ -22579,7 +21993,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z61ef6bff": 1,
   "zaf9ff4ad": 1,
   "zcd93972e": 1,
-  "z56096afd": 2,
   "zc3eb8739": 1,
   "zc04e9971": 1,
   "z27092a81": 1,
@@ -22641,7 +22054,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z80d9d22a": 2,
   "z2ba3c3f1": 2,
   "z1ef4aa22": 1,
-  "zad645fa3": 1,
   "ze8eed95d": 1,
   "zd50f477b": 1,
   "z060b6d9f": 1,
@@ -22722,7 +22134,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zceb43203": 1,
   "z6faec604": 1,
   "z0609c241": 1,
-  "zc7e9ec42": 1,
   "z2bf70401": 1,
   "zff67890e": 1,
   "zb0d66567": 1,
@@ -22793,7 +22204,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zba4fe6d1": 1,
   "z9fdf5339": 1,
   "z9060ecf8": 1,
-  "zee8bf425": 2,
   "z20c89778": 1,
   "z88558a52": 1,
   "z98dd88d3": 1,
@@ -22814,7 +22224,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z2d40fbfd": 1,
   "za627a350": 1,
   "zaec9e6c9": 1,
-  "z5945e740": 1,
   "z5c73abe3": 1,
   "z97a754c8": 1,
   "z1a4be49d": 1,
@@ -22825,7 +22234,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zf63f5dfb": 1,
   "zd8b90643": 1,
   "z037cd988": 1,
-  "z191361dc": 1,
   "z7e2e3760": 1,
   "zf3401a8f": 1,
   "ze7719726": 1,
