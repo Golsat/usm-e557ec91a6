@@ -3,6 +3,1836 @@ window.EDIZIONI["2026-10-16-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "za7b9b036",
+   "sez": "mondo",
+   "titolo": "Tribunale di Madrid ordina di indagare sulla denuncia di Begoña Gómez contro Vito Quiles",
+   "orig": "La Audiencia de Madrid estima el recurso de Begoña Gómez y ordena investigar su denuncia contra Vito Quiles por coacciones",
+   "lead": "L'Audiencia Provincial di Madrid ha accolto il ricorso di Begoña Gómez, moglie del presidente del governo spagnolo, e ha ordinato di riaprire le indagini sulla denuncia per coazione presentata contro l'attivista Vito Quiles dopo un episodio avvenuto in un ristorante. Il tribunale ha ribaltato la decisione del giudice che aveva archiviato il caso non ravvisando alcun reato nell'incontro tra i due. Lo riferisce El Mundo.",
+   "more": [
+    "Begoña Gómez è finita al centro di diverse inchieste giudiziarie in Spagna negli ultimi anni, alimentando un acceso dibattito politico sul ruolo dei familiari dei leader di governo e sui limiti tra vita privata e pressioni pubbliche nei confronti di figure istituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/16/6ad21491fdddffac738b4582.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-16T19:36+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z652294ea",
+   "sez": "economia",
+   "titolo": "Fitch prevede un deficit portoghese nel 2027 ma elogia il calo del debito",
+   "orig": "Fitch prevê défice em 2027, mas elogia descida da dívida presente no OE",
+   "lead": "L'agenzia di rating Fitch ha pubblicato un'analisi sulla proposta di bilancio portoghese per il 2027, prevedendo un ritorno al deficit ma sottolineando come il proseguimento della tendenza di riduzione del debito pubblico registrata negli ultimi anni rappresenti il principale punto di forza della situazione fiscale del Paese. Lo riferisce Público.",
+   "more": [
+    "Fitch è una delle principali agenzie internazionali di rating del credito, insieme a Moody's e S&P, e le sue valutazioni influenzano il costo a cui gli Stati possono finanziarsi sui mercati finanziari internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/16/economia/noticia/fitch-preve-defice-2027-elogia-descida-divida-presente-oe-2191655",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-16T17:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb4ba1268",
+   "sez": "mondo",
+   "titolo": "Partiti di governo e Chega uniti per limitare l'accesso al servizio sanitario ai non residenti",
+   "orig": "Partidos do Governo e Chega juntam-se para limitar acesso de não residentes ao SNS",
+   "lead": "In Portogallo i partiti della coalizione di governo e il partito Chega hanno votato insieme per limitare l'accesso al Servizio Nazionale di Salute da parte dei non residenti. È stata respinta sia la proposta del Bloco de Esquerda per eliminare i ticket sanitari, sia quella di Chega per applicare tariffe all'assistenza alle donne incinte straniere non residenti. Lo riferisce Público.",
+   "more": [
+    "Il Serviço Nacional de Saúde è il sistema sanitario pubblico portoghese, finanziato dallo Stato e storicamente orientato a garantire assistenza universale, un principio oggi al centro di un dibattito politico sempre più acceso."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/16/politica/noticia/partidos-governo-chega-juntamse-limitar-acesso-nao-residentes-sns-2191618",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-16T16:56+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z48491a76",
+   "sez": "mondo",
+   "titolo": "Migliaia in piazza a Tirana, proteste in Albania si intensificano",
+   "orig": "Milhares nas ruas de Tirana: protestos intensificam-se na Albânia",
+   "lead": "Per il terzo giorno consecutivo migliaia di manifestanti sono scesi nelle strade di Tirana, capitale dell'Albania, mentre continua a crescere la violenza negli scontri tra polizia e dimostranti. Lo riferisce Público.",
+   "more": [
+    "Tirana è la capitale dell'Albania, Paese candidato all'ingresso nell'Unione Europea; negli ultimi anni ha conosciuto diverse ondate di proteste legate a questioni politiche e sociali interne."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/16/video/protestos-estudantis-intensificamse-albania-primeroministro-rejeita-demissao-20261016-171224",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-16T16:49+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z716ca879",
+   "sez": "musica",
+   "titolo": "Addio a Tony Scott, pioniere dell'hip house olandese",
+   "orig": "Hiphousepionier Tony Scott (1971-2026) wilde tot het laatst een rolmodel zijn",
+   "lead": "L'artista, che insegnava anche musica, aveva dovuto ridurre l'attività a causa della sclerosi multipla, malattia neurologica cronica. Fino alla fine ha voluto essere un modello per i giovani. Lo riferisce NRC.",
+   "more": [
+    "La hip house è un genere musicale nato tra gli anni Ottanta e Novanta che fonde elementi dell'hip hop con la musica house, diffondendosi anche in Europa grazie ad artisti e producer locali."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/16/hiphousepionier-tony-scott-1971-2026-wilde-tot-het-laatst-een-rolmodel-zijn-a4938508",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-16T19:11+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "za824eedb",
+   "sez": "mondo",
+   "titolo": "Un esperto svedese: Stoccolma potrebbe cedere missili Patriot all'Ucraina",
+   "orig": "Expert: Sverige skulle kunna ge Patriotrobotar till Ukraina",
+   "lead": "Secondo quanto riportato da Dagens Nyheter, l'Ucraina avrebbe esaurito le scorte di missili Patriot dopo un autunno di attacchi russi sempre più intensi contro le infrastrutture elettriche e di riscaldamento. L'esperto militare Johan Huovinen sostiene che la Svezia potrebbe permettersi di cedere alcuni di questi missili a Kiev, ma il primo ministro Ulf Kristersson ritiene che siano necessari per la difesa del proprio Paese. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "I sistemi Patriot sono missili antiaerei di produzione statunitense impiegati per intercettare missili balistici e aerei nemici; l'Ucraina li utilizza dall'inizio dell'invasione russa per proteggere le proprie città e infrastrutture critiche."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/expert-sverige-skulle-kunna-ge-patriotrobotar-till-ukraina/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-16T20:12+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfaba2771",
+   "sez": "mondo",
+   "titolo": "Fonti repubblicane temono di perdere la Camera, puntano a salvare il Senato",
+   "orig": "Källor: Republikaner befarar förlust – försöker rädda senaten",
+   "lead": "Secondo diverse fonti citate da Politico e riprese da Dagens Nyheter, molti esponenti di vertice del Partito Repubblicano statunitense non credono più in una possibile maggioranza alla Camera dei rappresentanti. Le speranze si concentrano ora sul mantenimento del controllo del Senato, mentre alcuni politici starebbero prendendo le distanze dal presidente. Secondo Dag Blanck, professore all'Università di Uppsala, alcuni repubblicani iniziano a considerare Trump un peso elettorale. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Negli Stati Uniti il Congresso è diviso in Camera dei rappresentanti e Senato; le elezioni di metà mandato, che si tengono a due anni dal voto presidenziale, possono ribaltare gli equilibri di potere e condizionare l'azione del presidente in carica."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/kallor-republikaner-befarar-forlust-forsoker-radda-senaten/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-16T19:36+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z34234b99",
+   "sez": "sport",
+   "titolo": "Tifanny Abreu si rivolge alla giustizia sportiva per tornare a giocare nell'Osasco",
+   "orig": "Tifanny vai à Justiça Desportiva para tentar reverter decisão da CBV e voltar a atuar pelo Osasco",
+   "lead": "La pallavolista Tifanny Abreu, dell'Osasco, ha comunicato di aver presentato un nuovo ricorso giudiziario d'urgenza per cercare di ribaltare la decisione di agosto della Confederazione Brasiliana di Pallavolo (CBV), che vieta la partecipazione di atlete transgender alle competizioni femminili. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Il dibattito sulla partecipazione delle atlete transgender alle competizioni sportive femminili è al centro di controversie in diverse federazioni internazionali, che bilanciano inclusione e presunti vantaggi fisici nelle regole di ammissione."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/tifanny-vai-a-justica-desportiva-para-tentar-reverter-decisao-da-cbv-e-voltar-a-atuar-pelo-osasco.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-16T15:07-03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf1f5c546",
+   "sez": "cultura",
+   "titolo": "Fernanda Montenegro compie 97 anni, omaggi dal mondo dello spettacolo brasiliano",
+   "orig": "Fernanda Montenegro faz 97 anos e recebe homenagens nas redes sociais",
+   "lead": "L'attrice Fernanda Montenegro ha compiuto 97 anni venerdì 16 ottobre e ha ricevuto numerosi omaggi sui social network. Tra i commenti alla pubblicazione sul suo profilo Instagram ufficiale figurano messaggi affettuosi di colleghe come Regina Casé, Bruna Lombardi e Astrid Fontenelle, che hanno celebrato la sua carriera e la sua importanza per la cultura brasiliana. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Fernanda Montenegro è una delle attrici più celebri del Brasile, nota a livello internazionale anche per la candidatura all'Oscar come miglior attrice, ed è considerata una figura simbolo del teatro e del cinema brasiliani."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/fernanda-montenegro-faz-97-anos-e-recebe-homenagens-nas-redes-sociais.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-16T14:53-03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2570ad76",
+   "sez": "sport",
+   "titolo": "Shai Gilgeous-Alexander e Oklahoma City Thunder cercano di tornare al vertice NBA",
+   "orig": "Shai Gilgeous-Alexander y el Thunder buscan volver a la cima",
+   "lead": "Shai Gilgeous-Alexander è diventato azionista dell'Atlético Madrid, mentre continua a guidare l'Oklahoma City Thunder in NBA dopo una sconfitta contro gli Spurs. Nel frattempo i Timberwolves rinforzano la rosa con LaMelo Ball, i Nuggets aggiungono DeRozan, mentre Portland e Utah puntano su nuovi acquisti per rinnovarsi. Lo riferisce Clarín.",
+   "more": [
+    "L'NBA è il massimo campionato professionistico di pallacanestro negli Stati Uniti; ogni stagione le squadre operano scambi e acquisti nel mercato dei giocatori per rafforzare le rose in vista dei play-off."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/shai-gilgeous-alexander-y-el-thunder-buscan-volver-a-la-cima_0_h6uzONLJZ5.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T18:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z77d204f0",
+   "sez": "sport",
+   "titolo": "Gli Spurs di Wembanyama favoriti nella Southwest, ma attenzione a Durant e Irving",
+   "orig": "Spurs de Wembanyama son el rival a vencer en el Suroeste, pero ojo con Durant e Irving",
+   "lead": "Victor Wembanyama, criticato dopo un'espulsione nei play-off, guida i San Antonio Spurs con rinnovata ambizione nella Division Southwest della NBA. Houston e Dallas si rinforzano con il ritorno di VanVleet e Irving, Memphis punta sui giovani e New Orleans confida in un Zion Williamson più determinato. Lo riferisce Clarín.",
+   "more": [
+    "La Southwest Division della NBA comprende squadre come San Antonio Spurs, Houston Rockets, Dallas Mavericks, Memphis Grizzlies e New Orleans Pelicans, storicamente una delle divisioni più competitive della lega."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/spurs-de-wembanyama-son-el-rival-a-vencer-en-el-suroeste-pero-ojo-con-durant-e-irving_0_8XmLiDgTyW.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T18:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z44298d8a",
+   "sez": "economia",
+   "titolo": "Argentina, si prevede un mese di rinvio per il fondo destinato ai licenziamenti",
+   "orig": "Fondo para despidos: se postergaría un mes el inicio del esquema para el pago de indemnizaciones",
+   "lead": "Secondo il mercato, l'avvio del sistema FAL, il fondo argentino destinato al pagamento delle indennità di licenziamento, potrebbe slittare di un mese, a dicembre. Si valuta inoltre un altro cambiamento chiave riguardante il momento in cui il denaro investito sarà disponibile per le aziende. Il FAL sarà obbligatorio per tutti i datori di lavoro, dalle piccole imprese alle grandi aziende. Lo riferisce Clarín.",
+   "more": [
+    "Un fondo per le indennità di licenziamento è uno strumento che accantona risorse per garantire ai lavoratori il pagamento previsto in caso di licenziamento, riducendo l'onere immediato per le imprese."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/economia/fondo-despidos-postergaria-mes-inicio-esquema-pago-indemnizaciones_0_Q2sMZngVUD.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T17:55+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf39ab310",
+   "sez": "mondo",
+   "titolo": "L'Iran nega di voler acquisire armi nucleari e si dice pronto al dialogo",
+   "orig": "Irán niega querer dotarse de armas nucleares y se declara dispuesto a dialogar",
+   "lead": "Il leader iraniano ha respinto le accuse di voler dotarsi di armamento nucleare, definendole \"propaganda malevola\" e dichiarandosi aperto al dialogo. La dichiarazione arriva durante un vertice a Erevan, in Armenia, dove si cerca anche di migliorare i rapporti con la Georgia dopo l'interruzione dei collegamenti aerei causata dalle sanzioni statunitensi contro le compagnie aeree iraniane. Lo riferisce Clarín.",
+   "more": [
+    "Il programma nucleare iraniano è da anni al centro di tensioni diplomatiche internazionali, con accuse occidentali di finalità militari respinte da Teheran, che sostiene di perseguire solo scopi civili ed energetici."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/iran-niega-querer-dotarse-de-armas-nucleares-y-se-declara-dispuesto-a-dialogar_0_NMEc4eOhnw.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T17:50+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zce4efb58",
+   "sez": "sport",
+   "titolo": "Ramón Díaz parla di un possibile ritorno al River Plate",
+   "orig": "Ramón Díaz habló sobre su posible regreso a River: “Esperando una oportunidad”",
+   "lead": "L'allenatore Ramón Díaz ha rivelato di aver rifiutato un'offerta del Corinthians per restare disponibile a un eventuale quarto ciclo alla guida del River Plate, club argentino noto come il Millonario. Lo riferisce La Nación.",
+   "more": [
+    "Ramón Díaz è uno degli allenatori più vincenti nella storia del River Plate, club di Buenos Aires tra i più titolati del calcio argentino, con cui ha già guidato la squadra in diverse epoche passate."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/deportes/ramon-diaz-hablo-sobre-su-posible-regreso-a-river-esperando-una-oportunidad-nid16102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T18:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1ba26cd6",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV in Argentina a novembre? Ecco cosa si sa del viaggio",
+   "orig": "¿Viene el papa León XIV a la Argentina? Esto es lo que se sabe de su visita de noviembre",
+   "lead": "Il quotidiano argentino La Nación fa il punto sulla possibile visita di papa Leone XIV in Sud America: il tour in Uruguay, Argentina e Perù è previsto dal 6 al 17 novembre, ma la sua recente convalescenza dopo un intervento chirurgico ai polmoni getta incertezza sulla tappa. Il Vaticano, al momento, non ha diffuso alcun comunicato ufficiale che annunci un rinvio o una modifica del programma del pontefice, lasciando aperte diverse ipotesi sui tempi effettivi del viaggio. Lo riferisce La Nación.",
+   "more": [
+    "Leone XIV è il pontefice succeduto a papa Francesco, al vertice della Chiesa cattolica. I viaggi apostolici in più Paesi richiedono condizioni fisiche adeguate, soprattutto dopo un intervento chirurgico, motivo per cui lo stato di salute del Papa è oggetto di attenzione quando si programmano tappe internazionali impegnative."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/el-mundo/viene-el-papa-leon-xiv-a-la-argentina-esto-es-lo-que-se-sabe-de-su-visita-de-noviembre-nid14102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T18:14+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "za1159483",
+   "sez": "mondo",
+   "titolo": "In Cile bufera politica dopo che un ministro ha definito Milei “pazzo”",
+   "orig": "“El gobierno debe exigir prudencia a sus autoridades”: Poduje desata críticas de libertarios por llamar “loco” a Milei",
+   "lead": "In Cile è scoppiata una polemica dopo che il ministro Ignacio Poduje ha definito il presidente argentino Javier Milei “pazzo”, scatenando le reazioni dei settori libertari vicini al presidente cileno José Antonio Kast. La deputata libertaria Paulina Muñoz ha criticato duramente l'episodio, sostenendo che il governo debba imporre prudenza alle proprie autorità e che, se a Kast piace affidare ministeri chiave a esponenti di sinistra, dovrebbe quantomeno allinearli nelle dichiarazioni pubbliche. Lo riferisce La Tercera.",
+   "more": [
+    "José Antonio Kast è il presidente cileno, espressione di una coalizione di destra, che include anche figure di orientamento diverso nel proprio governo. Javier Milei è il presidente argentino, noto per posizioni economiche liberiste e toni polemici, spesso al centro di dibattiti politici nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/el-gobierno-debe-exigir-prudencia-a-sus-autoridades-poduje-desata-criticas-de-liberarios-por-llamar-loco-a-milei/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-16T17:53+00:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/moreira-udi-pide-que-poduje-ofrezca-disculpas-publicas-por-llamar-loco-a-milei/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-16T18:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb43ae187",
+   "sez": "mondo",
+   "titolo": "Il direttore dell'INDH cileno risponde alle critiche del ministro sulla legge sulla sicurezza",
+   "orig": "Director del INDH responde a Arrau ante crítica del ministro a informe del organismo contra Ley Nain Retamal 2.0",
+   "lead": "In Cile il direttore dell'Istituto nazionale dei diritti umani (INDH), Yerko Ljubetic, ha replicato al ministro della Sicurezza Arrau, che aveva accusato l'organismo di mantenere una “visione ideologica” riguardo a un rapporto critico sulla legge Nain Retamal 2.0. Ljubetic ha affermato che il tono e le modalità delle dichiarazioni del ministro non corrispondono a quelle che dovrebbero intercorrere tra istituzioni dello Stato. Lo riferisce La Tercera.",
+   "more": [
+    "L'INDH è l'organismo cileno incaricato di vigilare sul rispetto dei diritti umani nel Paese. La legge Nain Retamal regola l'uso della forza da parte delle forze dell'ordine ed è spesso oggetto di dibattito tra chi la considera necessaria per la sicurezza e chi teme eccessi nell'uso della forza."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/nacional/noticia/director-del-indh-responde-a-arrau-ante-critica-del-ministro-a-informe-del-organismo-contra-ley-nain-retamal-20/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-16T17:29+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2c09f8aa",
+   "sez": "economia",
+   "titolo": "Le esportazioni cilene supereranno quelle di Argentina e Perù quest'anno",
+   "orig": "Valor de exportaciones de Chile superará el de Argentina y Perú este año, y en la región sólo quedará por debajo de dos países",
+   "lead": "Secondo le stime della Cepal, il valore delle esportazioni cilene supererà quest'anno quello di Argentina e Perù, collocando il Cile al terzo posto nella regione, dietro solo a due Paesi. L'organismo prevede una crescita del valore degli invii pari al 22%, anche se il volume complessivo delle esportazioni è destinato a diminuire. Lo riferisce La Tercera.",
+   "more": [
+    "La Cepal è la Commissione economica delle Nazioni Unite per l'America Latina e i Caraibi, che elabora analisi e previsioni economiche sulla regione. Le esportazioni sono un indicatore chiave della salute economica di un Paese, influenzato da prezzi delle materie prime, domanda internazionale e tassi di cambio."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/valor-de-exportaciones-de-chile-superara-el-de-argentina-y-peru-este-ano-y-en-la-region-solo-quedara-por-debajo-de-dos-paises/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-16T17:26+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z624f7df1",
+   "sez": "mondo",
+   "titolo": "Il Cile impone nuove regole severe per l'istruzione superiore online",
+   "orig": "Educación superior online: las estrictas exigencias que decretó la CNA para asegurar la calidad de carreras y cursos digitales",
+   "lead": "La Commissione nazionale di accreditamento (CNA) del Cile ha emesso due istruttorie con nuove esigenze per garantire la qualità dei corsi e delle carriere digitali, un settore cresciuto del 607,2% nell'ultimo decennio. Le nuove norme includono la valutazione dell'occupabilità dei laureati e l'idoneità del corpo accademico a impartire formazione a distanza. Il segretario esecutivo della CNA, Renato Bartet, ha spiegato la portata delle nuove normative. Lo riferisce La Tercera.",
+   "more": [
+    "La CNA è l'organismo cileno che certifica la qualità delle istituzioni e dei programmi di istruzione superiore. L'istruzione online è cresciuta rapidamente in molti Paesi, sollevando interrogativi su come garantire standard qualitativi paragonabili a quelli dell'insegnamento tradizionale in presenza."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/educacion/noticia/educacion-superior-online-las-estrictas-exigencias-que-decreto-la-cna-para-asegurar-la-calidad-de-carreras-y-cursos-digitales/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-16T17:11+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf419388a",
+   "sez": "mondo",
+   "titolo": "Perù: la viceministra delle Miniere fissa a 18 mesi il termine per la formalizzazione dei minatori",
+   "orig": "Viceministra de Minas: “Estamos estableciendo un plazo de 18 meses y no abrimos la puerta a una nueva ampliación”",
+   "lead": "La viceministra delle Miniere del Perù, Mayra Figueroa, ha difeso il progetto di legge MAPE del governo, spiegando che il termine concesso ai minatori informali per completare il processo di formalizzazione sarà di 18 mesi, e non più di due anni come previsto in precedenza. Figueroa ha inoltre chiarito che non si aprirà la porta a una nuova proroga del termine. Lo riferisce El Comercio.",
+   "more": [
+    "La legge MAPE in Perù riguarda la piccola estrazione mineraria e l'estrazione artigianale, settori diffusi nel Paese ma spesso operanti senza le dovute autorizzazioni. La formalizzazione mira a far rientrare queste attività nella legalità, con benefici su sicurezza, fisco e ambiente."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/politica/gobierno/entrevista-ley-mape-viceministra-de-minas-estamos-estableciendo-un-plazo-de-18-meses-y-no-abrimos-la-puerta-a-una-nueva-ampliacion-entrevista-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-16T16:44+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z223d4bd6",
+   "sez": "mondo",
+   "titolo": "Un'esperta peruviana: i governi locali hanno un ruolo chiave contro l'estorsione",
+   "orig": "Gisella Aragón: “El gran poder” de los gobiernos regionales y locales contra la extorsión es su capacidad de articulación",
+   "lead": "La docente e ricercatrice dell'Università del Pacifico, Gisella Aragón, sostiene che i governi regionali e locali in Perù possiedono una grande capacità di articolazione nella lotta contro l'estorsione. Secondo Aragón, le autorità subnazionali possono promuovere azioni preventive, attivare i comitati di sicurezza cittadina e coordinarsi con la Polizia nazionale e la Procura. Vista la scarsità di risorse, propone di dare priorità ai territori e avviare progetti pilota per individuare le misure più efficaci. Lo riferisce El Comercio.",
+   "more": [
+    "L'estorsione è diventata un problema crescente in diversi Paesi dell'America Latina, spesso legata alla criminalità organizzata che impone pagamenti a commercianti e cittadini. Il coordinamento tra livelli di governo locale, polizia e giustizia è considerato essenziale per contrastare il fenomeno in modo efficace."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/lima/sucesos/gisella-aragon-el-gran-poder-de-los-gobiernos-regionales-y-locales-contra-la-extorsion-es-su-capacidad-de-articulacion-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-16T16:33+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z971d24ab",
+   "sez": "mondo",
+   "titolo": "L'assenza di senatori di sinistra blocca il dibattito sulle facoltà delegate in Perù",
+   "orig": "Ausencia de senadores de izquierda y aliados frustra debate y votación de facultades: los entretelones de la sesión",
+   "lead": "Una sessione della Commissione di Costituzione del Senato peruviano è stata nuovamente bloccata dopo che rappresentanti delle bancate Juntos por el Perú, Ahora Nación, El Buen Gobierno e Obras hanno abbandonato l'aula Miguel Grau, impedendo il dibattito e il voto sul predictamen che delega facoltà all'Esecutivo in materia di fenomeno El Niño e sicurezza cittadina. Lo riferisce El Comercio.",
+   "more": [
+    "Il Senato peruviano è stato recentemente ripristinato nell'ambito di una riforma del sistema legislativo del Paese. Le facoltà delegate consentono al potere esecutivo di legiferare direttamente su temi specifici, senza passare per il normale iter parlamentare, generalmente per periodi e materie limitate."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/politica/bancadas-de-izquierda-y-aliados-frustan-debate-y-votacion-de-facultades-los-entretelones-de-la-sesion-de-la-comision-de-constitucion-apuesplan-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-16T16:41+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb067fd31",
+   "sez": "mondo",
+   "titolo": "A Montevideo torna il dibattito sull'eliminazione del divisorio nei taxi",
+   "orig": "La gremial del taxi presentó dos modelos de auto sin la mampara convencional y vuelve a la carga para eliminarla en Montevideo",
+   "lead": "La gremiale dei tassisti di Montevideo ha presentato due modelli di auto senza il divisorio convenzionale, tornando a chiedere l'eliminazione di questo elemento presente da oltre trent'anni nei taxi della città. L'intendenza ha assicurato che non promuoverà cambiamenti senza un accordo con il sindacato, mentre nella Giunta Dipartimentale il tema è allo studio, anche se in una fase molto iniziale. Lo riferisce El Observador.",
+   "more": [
+    "Il divisorio (mampara) nei taxi è una barriera fisica tra conducente e passeggeri, introdotta per ragioni di sicurezza. Il dibattito sulla sua eventuale eliminazione riflette un bilanciamento tra le esigenze di protezione dei conducenti e il comfort percepito dai passeggeri."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/la-gremial-del-taxi-presento-dos-modelos-taxi-la-mampara-convencional-y-vuelve-la-carga-eliminarla-montevideo-como-son-los-autos-n6060706",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-16T13:55-03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze70d737d",
+   "sez": "mondo",
+   "titolo": "Antel ammette “il peggior guasto” della sua storia in Uruguay",
+   "orig": "Antel admitió que fue \"el peor corte\" de su historia y explicó cómo afectó a WhatsApp, Netflix y a los cobros",
+   "lead": "L'azienda statale uruguaiana di telecomunicazioni Antel ha riconosciuto di aver subito quello che ha definito “il peggior guasto” della sua storia, spiegando come l'incidente abbia colpito servizi come WhatsApp e Netflix oltre ai sistemi di pagamento. Lavori sulle rotte 9 e 12 e la rottura causata da un privato vicino alla Interbalnearia hanno provocato il blocco dei POS, la caduta della rete mobile nell'est del Paese e congestione a livello nazionale. Lo riferisce El Observador.",
+   "more": [
+    "Antel è la compagnia pubblica di telecomunicazioni dell'Uruguay, che gestisce reti fisse, mobili e internet nel Paese. Guasti alle infrastrutture di rete possono avere effetti a catena su servizi quotidiani come i pagamenti elettronici, le comunicazioni e lo streaming, mostrando la dipendenza crescente da queste reti."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/ciencia-y-tecnologia/antel-admitio-que-fue-el-peor-corte-su-historia-y-explico-como-afecto-whatsapp-netflix-y-los-cobros-n6060702",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-16T13:43-03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zca92b6f3",
+   "sez": "mondo",
+   "titolo": "La Colombia espelle “alias Chachi”, capo del Tren del Llano",
+   "orig": "Colombia expulsa a alias Chachi, uno de los cabecillas del Tren del Llano",
+   "lead": "Le autorità colombiane hanno espulso Romer Eduardo Rodríguez Torrealba, noto come “alias Chachi”, uno dei capi della banda criminale venezuelana Tren del Llano. Lo riferisce El Nacional.",
+   "more": [
+    "Il Tren del Llano è una delle bande criminali attive tra Venezuela e Colombia, coinvolta in traffici illeciti e violenze nella regione di confine. L'espulsione di presunti criminali tra i due Paesi è una pratica frequente nella cooperazione per contrastare la criminalità organizzata transfrontaliera."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/colombia-expulsa-a-alias-chachi-uno-de-los-cabecillas-del-tren-del-llano/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-16T18:14+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z427035d3",
+   "sez": "mondo",
+   "titolo": "L'OPS consegna 27 tonnellate di aiuti medici in Venezuela dopo i terremoti",
+   "orig": "La OPS entregó 27 toneladas de ayuda médica en Caracas, Miranda y La Guaira tras los terremotos",
+   "lead": "L'Organizzazione Panamericana della Sanità (OPS) ha consegnato 27 tonnellate di aiuti medici nelle zone di Caracas, Miranda e La Guaira, colpite dai recenti terremoti in Venezuela. L'aiuto, gestito insieme al Ministero della Salute, include kit di protezione, prodotti chimici disinfettanti e ricambi per impianti idraulici, finalizzati a garantire il controllo di batteri e infezioni dopo l'assistenza massiccia a pazienti feriti. Lo riferisce El Nacional.",
+   "more": [
+    "L'OPS è l'organizzazione regionale che coordina la risposta sanitaria nelle Americhe, spesso attiva in situazioni di emergenza come terremoti o epidemie. Dopo i disastri naturali, il rischio di infezioni aumenta a causa del sovraffollamento negli ospedali e dei danni alle infrastrutture igienico-sanitarie."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/la-ops-entrego-27-toneladas-de-ayuda-medica-en-caracas-miranda-y-la-guaira-tras-los-terremotos/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-16T17:33+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z23bf5f44",
+   "sez": "mondo",
+   "titolo": "La Svizzera revoca il blocco dei beni alla moglie di Diosdado Cabello e a Jorge Arreaza",
+   "orig": "Suiza levanta el bloqueo de bienes a la esposa de Diosdado Cabello y a Jorge Arreaza",
+   "lead": "Il Dipartimento federale degli Affari esteri della Svizzera ha modificato il registro di congelamento preventivo dei beni appartenenti alla moglie del potente dirigente venezuelano Diosdado Cabello e a Jorge Arreaza, dopo aver verificato l'assenza di fondi o indizi di corruzione attribuibili ai due. Lo riferisce El Nacional.",
+   "more": [
+    "Diosdado Cabello è una delle figure più potenti del chavismo venezuelano, mentre Jorge Arreaza è stato un alto funzionario governativo. Il congelamento preventivo dei beni è una misura che diversi Paesi europei applicano a esponenti politici sospettati di corruzione o riciclaggio, in attesa di verifiche più approfondite."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/suiza-levanta-el-bloqueo-de-bienes-a-la-esposa-de-diosdado-cabello-y-a-jorge-arreaza/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-16T16:28+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze63f9a28",
+   "sez": "mondo",
+   "titolo": "Dopo 71 anni un presidente cileno torna in visita di Stato in Bolivia",
+   "orig": "Los Colorados tocaron el himno de Chile y un Hércules trajo a Kast: las postales de una visita histórica",
+   "lead": "Il presidente cileno José Antonio Kast è arrivato a El Alto, in Bolivia, a bordo di un aereo militare Hércules simile a quello che aveva trasportato aiuti umanitari durante la crisi dei blocchi stradali, in quella che è la prima visita di Stato di un presidente cileno in Bolivia dopo 71 anni. Durante la cerimonia i Colorados, corpo militare boliviano, hanno suonato l'inno cileno; l'altitudine di La Paz, la presenza dei governatori del nord del Cile e le fotografie dall'eliporto hanno segnato la giornata storica. Lo riferisce El Deber.",
+   "more": [
+    "Cile e Bolivia hanno relazioni storicamente complesse, segnate dalla disputa sull'accesso al mare persa dalla Bolivia nella guerra del Pacifico del XIX secolo. Una visita di Stato ad alto livello dopo decenni rappresenta quindi un evento diplomatico di forte valore simbolico per entrambi i Paesi."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/colorados-tocaron-himno-chile-hercules-trajo-kast-postales-visita-historica_1792168443",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T16:34+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z118bd802",
+   "sez": "mondo",
+   "titolo": "La vicegovernatrice di Santa Cruz andrà a La Paz per chiedere il bonus di vaccinazione",
+   "orig": "Paola Aguirre viajará a La Paz para exigir el bono de vacunación, pero rechaza un paro en hospitales",
+   "lead": "La vicegovernatrice di Santa Cruz, Paola Aguirre, ha annunciato che si recherà a La Paz, in Bolivia, per chiedere il pagamento del bonus viatico per la vaccinazione, invitando i lavoratori della sanità ad accompagnarla nella protesta. Aguirre ha però respinto l'ipotesi di uno sciopero che sospenda l'assistenza medica alla popolazione. Lo riferisce El Deber.",
+   "more": [
+    "In Bolivia i bonus viatici sono compensi aggiuntivi riconosciuti al personale sanitario per spostamenti legati a campagne di vaccinazione, spesso in zone remote. Le rivendicazioni salariali nel settore sanitario sono frequenti motivo di tensione tra lavoratori e governo centrale nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/paola-aguirre-viajara-paz-exigir-bono-vacunacion-rechaza-paro-hospitales_1792168636",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T16:37+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z422e76c4",
+   "sez": "mondo",
+   "titolo": "Perquisizione a Santa Cruz in un caso di traffico di armi",
+   "orig": "Allanan un inmueble en el barrio Héroes del Chaco dentro de un caso por tráfico de armas",
+   "lead": "Il gruppo di Intelligence della Polizia boliviana e la procura anticorruzione hanno perquisito un immobile nel quartiere Héroes del Chaco, a Santa Cruz, nell'ambito di un'indagine per traffico di armi. L'edificio, situato nella zona dell'avenida Tres Pasos al Frente tra il quarto e il quinto anello, è stato posto sotto sequestro. Lo riferisce El Deber.",
+   "more": [
+    "Le indagini sul traffico illegale di armi in Bolivia coinvolgono spesso la collaborazione tra forze di polizia specializzate e procure anticorruzione, data la frequente connessione di questi reati con reti criminali più ampie operanti a livello regionale."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/allanan-inmueble-barrio-heroes-chaco-dentro-caso-trafico-armas_1792168234",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T16:30+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z67caa34d",
+   "sez": "mondo",
+   "titolo": "Una deputata costaricana contesta in tribunale il congelamento di fondi per il Potere Giudiziario",
+   "orig": "Diputada del PLN cuestionará en Sala Constitucional normas presupuestarias que congelan ¢30.000 millones para el Poder Judicial en 2027",
+   "lead": "La deputata del Partito Liberazione Nazionale, Ángela Aguilar, ha annunciato ricorsi davanti alla Sala Costituzionale della Costa Rica contro le norme di bilancio 9, 10, 11 e 12, che congelano circa 30.000 milioni di colón destinati al Potere Giudiziario per il 2027. Secondo la deputata, le norme colpiscono duramente le spese operative di base di giudici, OIJ e Pubblico Ministero. Lo riferisce La Nación CR.",
+   "more": [
+    "Il Potere Giudiziario in Costa Rica include tribunali, Organismo di Investigazione Giudiziaria (OIJ) e Pubblico Ministero. Tagli o congelamenti di bilancio a queste istituzioni possono incidere sulla capacità di indagine, giudizio e gestione della giustizia nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/politica/diputada-del-pln-cuestionara-en-sala/T6ZCRQVXPFFYZBAPXJAOZ75SBM/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-16T18:14+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf175fd92",
+   "sez": "sport",
+   "titolo": "I Dodgers perdono la corona delle Major League travolti da Milwaukee",
+   "orig": "Los Dodgers entregan su corona de las Grandes Ligas con una barrida ante Milwaukee",
+   "lead": "Il sogno dei Los Angeles Dodgers di conquistare il tricampionato delle Major League Baseball si è infranto nella Serie di Lega Nazionale, dove la squadra californiana è stata spazzata via (barrida) dai Milwaukee Brewers, consegnando così la propria corona di campioni. Lo riferisce La Nación CR.",
+   "more": [
+    "I Los Angeles Dodgers sono una delle franchigie più titolate della Major League Baseball, il principale campionato professionistico statunitense di baseball. La Serie di Lega Nazionale è una delle fasi dei playoff che determina la squadra finalista per le World Series."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/puro-deporte/los-dodgers-entregan-su-corona-de-las-grandes/V7BJDIXJZBESBGVLH76TUQ32Y4/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-16T18:03+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf9d8a5d8",
+   "sez": "mondo",
+   "titolo": "Coprifuoco in cinque province dell'Ecuador per contrastare le bande criminali",
+   "orig": "Toque de queda en cinco provincias de Ecuador: limitación de movilidad busca facilitar operativos y contrarrestar accionar de bandas, según decreto",
+   "lead": "Un decreto governativo ha imposto il coprifuoco in cinque province dell'Ecuador, con limitazione della mobilità dalle 00:00 alle 05:00, nel tentativo di facilitare le operazioni di sicurezza e contrastare l'azione delle bande criminali. Lo riferisce El Universo.",
+   "more": [
+    "L'Ecuador affronta da tempo un'escalation di violenza legata alla criminalità organizzata e al traffico di droga, che ha portato il governo a dichiarare più volte stati di emergenza e a disporre misure straordinarie come coprifuochi per rafforzare il controllo del territorio."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/seguridad/toque-de-queda-en-cinco-provincias-de-ecuador-limitacion-de-movilidad-busca-facilitar-operativos-y-contrarrestar-accionar-de-bandas-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-16T18:05+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3d223ea1",
+   "sez": "sport",
+   "titolo": "I pattinatori protestano con un sit-in ai World Skate Games di Asunción",
+   "orig": "Los patinadores realizaron una sentata en protesta contra los World Skate Games Asu 2026",
+   "lead": "Un gruppo di pattinatori ha organizzato una protesta sedendosi in pista durante i World Skate Games Asunción 2026, in corso nella capitale paraguaiana. La manifestazione è avvenuta mentre una concorrente era in piena gara, segno di un malcontento verso l'organizzazione della competizione internazionale di pattinaggio. Lo riferisce ABC Color.",
+   "more": [
+    "I World Skate Games sono una manifestazione multisportiva che riunisce diverse discipline di pattinaggio a livello mondiale, organizzata periodicamente in città diverse e che coinvolge atleti professionisti e amatoriali provenienti da numerosi paesi."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/polideportivo/2026/10/16/los-patinadores-realizaron-una-sentata-en-reclamo-a-los-world-skate-games/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-16T16:49+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0d264968",
+   "sez": "mondo",
+   "titolo": "Il miliardario cinese dei videogiochi con oltre cento figli mai incontrati",
+   "orig": "Il a plus de cent enfants. Il n'en avait jamais rencontré un seul",
+   "lead": "Un'inchiesta avviata da un tribunale di Los Angeles nell'estate 2023, dopo che alcuni dipendenti notarono lo stesso nome ricorrere in numerosi certificati di nascita, ha portato alla luce la storia di Xu Bo, miliardario cinese del settore videoludico. L'uomo avrebbe generato più di cento figli attraverso procedure di maternità surrogata, nel tentativo di garantire una discendenza per il proprio impero economico, senza però mai incontrare personalmente nessuno di loro. Lo riferisce Lefaso.net.",
+   "more": [
+    "La maternità surrogata commerciale è un fenomeno regolato diversamente nei vari paesi; negli Stati Uniti, inclusa la California, è legale e spesso utilizzata da persone facoltose o straniere per avere figli biologici senza gestazione diretta."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150016",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-16T17:37+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze108f9d4",
+   "sez": "economia",
+   "titolo": "Perché la riforma dell'imposta fondiaria svela le debolezze di un paese",
+   "orig": "CE QU'UNE RÉFORME DE L'IMPÔT FONCIER DIT D'UN PAYS",
+   "lead": "Un'analisi pubblicata da Lefaso.net riprende una nota del Fondo Monetario Internazionale del 2024 secondo cui le entrate fiscali derivanti dalla proprietà immobiliare in Africa subsahariana rappresentavano appena lo 0,1% del PIL nel 2021, contro l'1% in Europa e l'1,4% nei paesi OCSE. Il testo si interroga sul perché un bene visibile e immobile come la proprietà resti così difficile da tassare, citando le esperienze di riforma fiscale condotte in alcune città come Freetown. Lo riferisce Lefaso.net.",
+   "more": [
+    "La tassazione della proprietà immobiliare è spesso considerata una delle leve fiscali più stabili per i governi, perché basata su beni non delocalizzabili; nei paesi in via di sviluppo la sua applicazione è però ostacolata da catasti incompleti e capacità amministrative limitate."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150007",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-16T16:24+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150008",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-16T16:39+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1da231ca",
+   "sez": "mondo",
+   "titolo": "Burkina Faso: la Fondazione Endeavour sostiene 504 studenti per la rentrée solidale 2026",
+   "orig": "Burkina/Rentrée solidaire 2026 : La Fondation Endeavour accompagne 504 élèves et étudiants",
+   "lead": "La Fondazione Endeavour ha annunciato il 10 ottobre 2026 a Ouagadougou il sostegno a 504 alunni e studenti del Burkina Faso, nell'ambito di un'iniziativa chiamata 'rentrée solidaire'. I beneficiari provengono in particolare dalle località di Houndé, Mana e Ouagadougou. L'obiettivo dichiarato dalla fondazione è favorire la riuscita scolastica e facilitare l'inserimento professionale degli studenti, puntando sull'accesso all'istruzione per tutti. Lo riferisce Lefaso.net.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150014",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-16T16:24+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z35678a4f",
+   "sez": "sport",
+   "titolo": "L'AS Monaco convince a Sofia, l'ex difensore Alain Roche elogia Filipe Luis",
+   "orig": "« Filipe Luis est assez bluffant »... L’ex-défenseur international Alain Roche partage son regard sur la victoire de l’AS Monaco à Sofia et les débuts de l’entraîneur brésilien",
+   "lead": "L'AS Monaco ha aperto la propria campagna europea con una vittoria per 2-1 sul campo del CSKA Sofia, giovedì sera in Conference League, restando imbattuto dopo nove partite in questa stagione. L'ex difensore internazionale francese Alain Roche, consulente per Canal+, emittente che ha trasmesso l'incontro, ha espresso apprezzamento per la solidità di squadra mostrata dai monegaschi sotto la guida del nuovo allenatore brasiliano Filipe Luis, definendolo 'piuttosto sorprendente'. Lo riferisce Monaco Matin.",
+   "more": [
+    "La Conference League è la terza competizione calcistica europea per club organizzata dalla UEFA, introdotta per dare opportunità internazionali a squadre di livello intermedio del continente."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/football/filipe-luis-est-assez-bluffant-l-ex-defenseur-international-alain-roche-partage-son-regard-sur-la-victoire-de-l-as-monaco-a-sofia-et-les-debuts-de-l-entraineur-bresilien-10741870",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-16T19:11+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z31bf7a2e",
+   "sez": "mondo",
+   "titolo": "False allarme a Monaco: le 'pistole' scoperte erano armi giocattolo air-soft",
+   "orig": "Deux « pistolets » découverts lors d’un contrôle policier à Monaco : il s’agissait d’armes factices de type air-soft",
+   "lead": "Una foto diffusa sui social network giovedì 15 ottobre 2026 mostrava il presunto ritrovamento di due armi da fuoco durante un controllo di polizia a Monaco. Il procuratore generale del Principato ha confermato a Monaco Matin che si trattava in realtà di armi giocattolo di tipo air-soft, chiarendo così un episodio che aveva suscitato allarme online. Lo riferisce Monaco Matin.",
+   "more": [
+    "Le armi air-soft sono replicare di armi vere usate per attività sportive e ricreative; sparano pallini di plastica a basso impatto e in molti paesi il loro possesso è regolamentato per evitare confusione con armi reali."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/faits-divers/deux-pistolets-decouverts-lors-d-un-controle-policier-a-monaco-il-s-agissait-d-armes-factices-de-type-air-soft-10741863",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-16T18:41+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z308780aa",
+   "sez": "mondo",
+   "titolo": "Senegal: il cronista Momo Cissé incriminato e poi rilasciato nel caso Nourah Ba",
+   "orig": "Affaire Nourah Ba : Le chroniqueur Momo Cissé inculpé puis libéré, procès fixé à mercredi",
+   "lead": "Il cronista senegalese Mamadou Cissé, noto come Momo, è stato condotto venerdì davanti al parquet di Dakar dalla Divisione speciale di cybersicurezza nel quadro dell'affare Nourah Ba, ma è stato successivamente rimesso in libertà. Il processo è stato fissato per mercoledì prossimo. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Justice/affaire-nourah-ba-le-chroniqueur-momo-cisse-inculpe-puis-libere-proces-fixe-a-mercredi_n_999000882.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-16T18:19+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z37fa1880",
+   "sez": "economia",
+   "titolo": "Senegal: interrogativi sulle esenzioni doganali per ENO, ISEP e CPG di Thiès",
+   "orig": "Exonérations douanières : Les zones d’ombre autour des ENO, de l’ISEP et du CPG de Thiès",
+   "lead": "Il direttore generale delle Dogane senegalesi, Malick Mbaye, è stato interrogato con insistenza su alcuni dossier sensibili riguardanti le esenzioni doganali concesse agli Spazi numerici aperti (ENO), all'ISEP e al CPG di Thiès. Le zone d'ombra su questi dossier sono al centro dell'attenzione pubblica in Senegal. Lo riferisce Seneweb.",
+   "more": [
+    "Le esenzioni doganali sono agevolazioni fiscali concesse a enti pubblici o progetti strategici per facilitare l'importazione di beni e attrezzature, spesso oggetto di controlli per prevenire abusi o mancanza di trasparenza."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Societe/exonerations-douanieres-les-zones-dombre-autour-des-eno-de-lisep-et-du-cpg-de-thies_n_999000881.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-16T17:48+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2b7733c9",
+   "sez": "mondo",
+   "titolo": "Costa d'Avorio e RDC rafforzano la cooperazione bilaterale a Kinshasa",
+   "orig": "Diplomatie : La Côte d'Ivoire et la RDC scellent le renforcement de leur coopération bilatérale à Kinshasa",
+   "lead": "Le relazioni diplomatiche tra Costa d'Avorio e Repubblica Democratica del Congo hanno raggiunto una nuova fase, con un rafforzamento della cooperazione bilaterale sancito a Kinshasa. Lo riferisce Seneweb, senza fornire ulteriori dettagli sui settori specifici coinvolti nell'intesa.",
+   "more": [
+    "Le relazioni bilaterali tra paesi africani si sviluppano spesso attraverso accordi di cooperazione economica, culturale e diplomatica, volti a rafforzare gli scambi regionali nel continente."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Afrique/diplomatie-la-cote-divoire-et-la-rdc-scellent-le-renforcement-de-leur-cooperation-bilaterale-a-kinshasa_n_999000877.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-16T17:25+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zed472eed",
+   "sez": "mondo",
+   "titolo": "Ciad: Abderrahim Younous Ali alla guida del consiglio d'amministrazione della SOPROFIM",
+   "orig": "Tchad : Dr Abderrahim Younous Ali prend les rênes du Conseil d’administration de la SOPROFIM",
+   "lead": "In Ciad, la Società di promozione fondiaria e immobiliare (SOPROFIM) ha celebrato il passaggio di consegne alla presidenza del proprio consiglio d'amministrazione. Il dottor Abderrahim Younous Ali succede al ministro Mahamat Assileck Halata, con il compito di rafforzare la governance dell'ente e accompagnare i grandi progetti fondiari e immobiliari del paese. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/16/tchad-dr-abderrahim-younous-ali-prend-les-renes-du-conseil-dadministration-de-la-soprofim/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-16T18:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z41875573",
+   "sez": "ambiente",
+   "titolo": "Ciad: lanciata la seconda edizione del concorso nazionale sui prodotti forestali non legnosi",
+   "orig": "La deuxième édition du Concours national d’innovation des produits forestiers non ligneux lancée",
+   "lead": "Il 16 ottobre è stata lanciata in Ciad la seconda edizione del Concorso nazionale d'innovazione dei prodotti forestali non legnosi, promossa dalla direttrice generale dello sviluppo sostenibile del ministero dell'Ambiente, della Pesca e dello Sviluppo sostenibile, Chérifié Habib Doutoum. L'iniziativa è dedicata al tema di innovare per strutturare, trasformare e commercializzare meglio questi prodotti. Lo riferisce Tchadinfos.",
+   "more": [
+    "I prodotti forestali non legnosi comprendono frutti, resine, piante medicinali e altri beni raccolti dalle foreste senza abbattere alberi, e rappresentano una risorsa economica importante per molte comunità rurali africane."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/16/la-deuxieme-edition-du-concours-national-dinnovation-des-produits-forestiers-non-ligneux-lancee/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-16T16:30+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb78d9e22",
+   "sez": "mondo",
+   "titolo": "Guinea: insegnanti contrattuali esclusi accettano il concorso diretto per entrare nella funzione pubblica",
+   "orig": "Fonction publique : l’intersyndicale et les contractuels non retenus se résignent au « concours direct »",
+   "lead": "In Guinea, gli insegnanti contrattuali comunali non inseriti nelle graduatorie dovranno ora sottoporsi al concorso di reclutamento diretto per 6.000 nuovi insegnanti se vogliono entrare nella funzione pubblica. L'intersindacale dell'Istruzione e il collettivo degli insegnanti contrattuali esclusi avrebbero infine accettato questa decisione, dopo una precedente posizione opposta, suscitando reazioni contrastanti. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/fonction-publique-lintersyndicale-et-les-contractuels-non-retenus-se-resignent-au-concours-direct/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-16T17:58+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7c64b379",
+   "sez": "salute",
+   "titolo": "Guinea: il medico Ben Youssouf Keita avverte sui pericoli invisibili del monossido di carbonio",
+   "orig": "Monoxyde de carbone : Dr Ben Youssouf Keita alerte sur un danger invisible du quotidien",
+   "lead": "In un'intervista concessa alla redazione di Mosaïque Guinée venerdì 16 ottobre 2026, il dottor Ben Youssouf Keita ha spiegato i pericoli del monossido di carbonio, un gas tossico, incolore e inodore che può provocare intossicazioni gravi fino alla morte. Il medico è tornato sui meccanismi di questa intossicazione, sottolineando quanto il gas sia difficile da individuare nella vita quotidiana. Lo riferisce Mosaïque Guinée.",
+   "more": [
+    "Il monossido di carbonio si forma dalla combustione incompleta di materiali come gas, legna o carbone ed è particolarmente pericoloso perché privo di odore e colore; si accumula in ambienti poco ventilati con stufe, caldaie o generatori mal funzionanti."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/monoxyde-de-carbone-dr-ben-youssouf-keita-alerte-sur-un-danger-invisible-du-quotidien/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-16T17:22+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z705448c2",
+   "sez": "mondo",
+   "titolo": "Guinea: la Corte d'appello restituisce a Sékou Kaké i beni attribuiti a Mohamed Diané",
+   "orig": "CRIEF : la Chambre des appels restitue à Sékou Kaké ses biens attribués à Dr Mohamed Diané",
+   "lead": "In Guinea, al termine del processo d'appello di Mohamed Diané svoltosi giovedì 15 ottobre, la Camera degli appelli della Corte di repressione delle infrazioni economiche e finanziarie (CRIEF) ha ordinato la restituzione di diversi immobili rivendicati dall'imprenditore Sékou Kaké e dalla sua società SOGEFEL SARL. Lo riferisce Mosaïque Guinée.",
+   "more": [
+    "La CRIEF è un tribunale speciale guineano istituito per giudicare i reati economici e finanziari, spesso coinvolto in processi contro ex funzionari ed ex dirigenti accusati di appropriazione indebita di beni pubblici o privati."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/crief-la-chambre-des-appels-restitue-a-sekou-kake-ses-biens-attribues-a-dr-mohamed-diane/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-16T17:07+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6e9faaf8",
+   "sez": "mondo",
+   "titolo": "Conakry chiude il Forum internazionale dei Segretari generali di Governo con focus sull'IA",
+   "orig": "Clôture du Forum international des SGG à Conakry : Le Réseau scelle l’ère de l’IA administrative",
+   "lead": "Si è concluso venerdì 16 ottobre 2026 a Conakry il Forum internazionale dei Segretari generali di Governo, che ha riunito oltre una decina di Segretari generali provenienti da diversi paesi africani ed europei in un complesso hôtelier della capitale guineana. Il ministro Segretario generale del Governo guineano si è detto soddisfatto della partecipazione internazionale all'evento, incentrato sull'uso dell'intelligenza artificiale nell'amministrazione pubblica. Lo riferisce Guinée News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/16/cloture-du-forum-international-des-sgg-a-conakry-le-reseau-scelle-lere-de-lia-administrative/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-16T18:07+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z791437c0",
+   "sez": "mondo",
+   "titolo": "Giornalisti africani francofoni in formazione a Pechino sulla cooperazione sino-africana",
+   "orig": "Coopération sino-africaine : des journalistes africains francophones en formation à Pékin",
+   "lead": "Un gruppo di giornalisti provenienti da diversi paesi dell'Africa francofona, tra cui un rappresentante di Africaguinee.com, insieme a colleghi dell'Isola della Réunion, partecipa a un seminario di formazione a Pechino. L'incontro è organizzato dal ministero del Commercio della Repubblica popolare cinese, nel quadro dei progetti di formazione previsti dal portafoglio della cooperazione sino-africana. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/cooperation-sino-africaine-des-journalistes-africains-francophones-en-formation-a-pekin/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-16T17:49+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc99e95fa",
+   "sez": "mondo",
+   "titolo": "Marocco: nominato un nuovo governo di 32 ministri, tra cui 7 donne",
+   "orig": "المغرب: تعيين حكومة جديدة تضم 32 وزيرا بينهم 7 نساء",
+   "lead": "Il re del Marocco Mohammed VI ha nominato un nuovo governo composto da 32 ministri, di cui 7 donne. L'annuncio arriva in un momento di riorganizzazione dell'esecutivo marocchino. Lo riferisce Alakhbar.",
+   "more": [
+    "Il Marocco è una monarchia costituzionale in cui il re nomina il capo del governo e, su sua proposta, i ministri; le nomine governative riflettono spesso equilibri politici e sociali del paese nordafricano."
+   ],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad25a7631bb580001d172d7/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-16T17:11+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zba302671",
+   "sez": "mondo",
+   "titolo": "Capo Verde: morosità e efficienza della giustizia al centro dell'apertura dell'anno giudiziario",
+   "orig": "Abertura do Ano Judicial: Morosidade e eficiência da Justiça no centro dos discursos",
+   "lead": "Durante la cerimonia solenne di apertura dell'Anno Giudiziario 2026-2027 a Praia, con interventi della Presidente della Repubblica interina, del presidente dell'Ordine degli Avvocati, del presidente del Consiglio Superiore della Magistratura Giudiziaria, del Procuratore generale in esercizio e del presidente del Supremo Tribunale di Giustizia, è emersa preoccupazione per la lentezza dei processi. Janira Hopffer Almada ha sottolineato come la morosità processuale resti tra i maggiori problemi nonostante gli investimenti fatti, chiedendo più personale e migliore gestione giudiziaria. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "L'apertura dell'anno giudiziario è una cerimonia istituzionale annuale in cui le massime autorità del sistema giudiziario fanno il punto sullo stato della giustizia nel paese, individuando priorità e criticità da affrontare."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/16/abertura-do-ano-judicial-responsaveis-defendem-medidas-para-combater-a-morosidade-e-melhorar-a-eficiencia-da-justica/105130",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-16T16:41+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2ca18aed",
+   "sez": "economia",
+   "titolo": "Tunisia: il bilancio 2027 punta a una crescita economica del 3,1%",
+   "orig": "مشروع الميزان الاقتصادي 2027: تونس تتطلع إلى تحقيق نمو اقتصادي بـ3.1%",
+   "lead": "Il progetto di bilancio economico della Tunisia per il 2027 prevede una crescita economica dell'ordine del 3,1%, contro il 2,7% stimato per l'intero 2026. Lo riferisce Mosaïque FM.",
+   "more": [
+    "Il bilancio economico è il documento con cui un governo fissa gli obiettivi macroeconomici dell'anno successivo, comprese le stime di crescita, inflazione e finanze pubbliche, utilizzato come base per la legge di finanza."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%A7%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AA%D9%88%D9%86%D8%B3/1533702/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-2027-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%AA%D8%B7%D9%84%D8%B9-%D8%A5%D9%84%D9%89-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%86%D9%85%D9%88-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A8%D9%803-1",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-16T17:32+01:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z73ef81fd",
+   "sez": "mondo",
+   "titolo": "RDC: Bemba dice di aver trovato un settore dei trasporti con 'deficit storici'",
+   "orig": "RDC : Jean-Pierre Bemba affirme avoir trouvé un secteur des transports « confronté à des déficits historiques »",
+   "lead": "Invitato alla plenaria del Senato venerdì 16 ottobre per spiegare la serie di incidenti marittimi, aerei, ferroviari e stradali che colpiscono il paese, il vice primo ministro e ministro dei Trasporti della Repubblica Democratica del Congo, Jean-Pierre Bemba, ha affermato di aver trovato un settore confrontato a deficit storici. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/16/rdc-jean-pierre-bemba-affirme-avoir-trouve-un-secteur-des-transports-confronte-des",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-16T18:10+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc1bd6744",
+   "sez": "mondo",
+   "titolo": "Crash di Kenge: Bemba illustra al Senato le ipotesi degli investigatori, prudenza sulle cause",
+   "orig": "Crash de Kenge : au Sénat, Bemba dévoile les hypothèses examinées par les enquêteurs et juge prématuré d’établir les causes du drame",
+   "lead": "Rispondendo venerdì 16 ottobre a un'interpellanza al Senato sulla recrudescenza degli incidenti nei trasporti, il vice primo ministro congolese Jean-Pierre Bemba Gombo ha presentato le ipotesi al momento esaminate dagli investigatori sul crash di Kenge, giudicando prematuro stabilire con certezza le cause del disastro. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/16/crash-de-kenge-au-senat-bemba-devoile-les-hypotheses-examinees-par-les-enqueteurs-et",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-16T17:10+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z70af152f",
+   "sez": "mondo",
+   "titolo": "Panama: Mulino sospende le parate alla Presidenza dopo i danni del terremoto",
+   "orig": "Mulino suspende las dianas en la Presidencia tras los daños causados por el terremoto",
+   "lead": "Il presidente panamense Mulino ha sospeso le cerimonie quotidiane di alzabandiera (dianas) nel palazzo presidenziale a causa dei danni causati dal recente terremoto. Il mandatario ha inoltre comunicato che il Consiglio dei Ministri valuterà la possibile sospensione delle sfilate patriottiche in programma. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/mulino-suspende-las-dianas-en-la-presidencia-tras-los-danos-causados-por-el-terremoto",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z97284151",
+   "sez": "mondo",
+   "titolo": "Panama: l'Istituto di Geoscienze conta 746 scosse di assestamento fino a venerdì",
+   "orig": "Instituto de Geociencias contabiliza 746 réplicas hasta este viernes",
+   "lead": "L'Istituto di Geoscienze di Panama ha registrato 746 scosse di assestamento fino a questo venerdì, dopo il recente terremoto. Gli specialisti indicano che il processo di riassestamento della crosta terrestre potrebbe prolungarsi nel tempo, mentre si indaga su possibili deformazioni nella zona costiera. Lo riferisce Panamá América.",
+   "more": [
+    "Le scosse di assestamento sono terremoti di minore intensità che seguono un sisma principale, causati dal riadattamento delle faglie; possono durare giorni o settimane e in rari casi indicano modifiche permanenti del terreno circostante."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/instituto-de-geociencias-contabiliza-746-replicas-hasta-este-viernes-1267579",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1cf734af",
+   "sez": "sport",
+   "titolo": "Pant attende il via libera medico, Bumrah torna per i test contro la Nuova Zelanda",
+   "orig": "Pant awaits fitness clearance as Bumrah returns for New Zealand tests",
+   "lead": "Il cricketer indiano Rishabh Pant è in attesa dell'autorizzazione medica per tornare in campo, mentre Jasprit Bumrah rientra in squadra per la serie di test contro la Nuova Zelanda. La notizia, riportata da CNA, riguarda la nazionale indiana di cricket in vista dei prossimi incontri. Lo riferisce CNA.",
+   "more": [
+    "Rishabh Pant e Jasprit Bumrah sono due dei giocatori di punta della nazionale indiana di cricket, rispettivamente battitore-portiere e bowler veloce, entrambi fondamentali per le prestazioni della squadra nei test match internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/pant-awaits-fitness-clearance-bumrah-returns-new-zealand-tests-6466901",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T00:36+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z229d51d2",
+   "sez": "mondo",
+   "titolo": "Montenegro nega di aver accusato i manifestanti di egoismo",
+   "orig": "19h Montenegro nega ter acusado manifestantes de egoísmo",
+   "lead": "Il primo ministro portoghese Luís Montenegro ha negato di aver accusato i manifestanti di egoismo, replicando così alle critiche ricevute dopo le sue dichiarazioni precedenti. La notizia, riportata da RTP alle 19, non fornisce ulteriori dettagli sul contesto specifico delle proteste a cui si riferisce la polemica. Lo riferisce RTP.",
+   "more": [
+    "Luís Montenegro è il primo ministro del Portogallo, a capo di una coalizione di centrodestra, spesso coinvolto in dibattiti pubblici su temi sociali ed economici che generano proteste e reazioni politiche nel paese."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/19h-montenegro-nega-ter-acusado-manifestantes-de-egoismo_a1_1772195",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3505414d",
+   "sez": "mondo",
+   "titolo": "Abitazione: \"causa giusta\" ma va rispettata la legge, dice Moedas",
+   "orig": "18h Habitação: \"causa justa\" mas deve respeitar a lei , diz Moedas",
+   "lead": "Il sindaco di Lisbona Carlos Moedas ha dichiarato che la questione della casa è una \"causa giusta\" ma che deve essere affrontata nel rispetto della legge. La dichiarazione, riportata da RTP alle 18, si inserisce nel dibattito portoghese sulla crisi abitativa e sulle proteste legate al tema. Lo riferisce RTP.",
+   "more": [
+    "Carlos Moedas è il sindaco di Lisbona, città dove negli ultimi anni la crisi degli affitti e dei prezzi delle case ha generato tensioni sociali e manifestazioni, rendendo il tema abitativo centrale nel dibattito politico locale."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/18h-habitacao-causa-justa-mas-deve-respeitar-a-lei-diz-moedas_a1_1772189",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z355d9c60",
+   "sez": "mondo",
+   "titolo": "Coloni attaccano palestinesi in Cisgiordania",
+   "orig": "Bosættere angriber palæstinensere på Vestbredden",
+   "lead": "Coloni israeliani hanno attaccato palestinesi in Cisgiordania, secondo quanto riportato dall'emittente danese DR Nyheder. La notizia non specifica la località esatta dell'attacco né il numero di persone coinvolte, ma si inserisce nel contesto delle tensioni ricorrenti nei territori occupati tra coloni e popolazione palestinese. Lo riferisce DR Nyheder.",
+   "more": [
+    "La Cisgiordania è un territorio palestinese occupato da Israele dal 1967, dove numerosi insediamenti di coloni israeliani convivono con la popolazione palestinese, spesso in un clima di tensione segnato da episodi di violenza da entrambe le parti."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/bosaettere-angriber-palaestinensere-paa-vestbredden",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-16T16:49+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3097460c",
+   "sez": "mondo",
+   "titolo": "La Casa Bianca licenzia la portavoce dopo le polemiche sulla sua abilitazione da avvocato",
+   "orig": "[속보] ‘변호사 자격 논란’ 백악관 대변인, 취임 닷새 만에 해임",
+   "lead": "La Casa Bianca ha licenziato la propria portavoce a soli cinque giorni dall'insediamento, dopo una controversia sulla validità del suo titolo di avvocato. La notizia, riportata come \"ultima ora\" dal quotidiano sudcoreano The Hankyoreh, non specifica il nome della funzionaria né ulteriori dettagli sulla natura esatta della contestazione sulle sue credenziali professionali. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/america/1282827.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb7278220",
+   "sez": "mondo",
+   "titolo": "Il ministro capo di Delhi Rekha Gupta posa le prime pietre di quattro progetti agricoli",
+   "orig": "Delhi CM Rekha Gupta lays foundation stones for four agricultural market development projects",
+   "lead": "La ministra capo di Delhi Rekha Gupta ha posato le prime pietre di quattro progetti di sviluppo dei mercati agricoli nella capitale indiana. La notizia è riportata dal quotidiano The Hindu, che non fornisce ulteriori dettagli sulla natura specifica dei progetti né sui tempi previsti per il loro completamento. Lo riferisce The Hindu.",
+   "more": [
+    "Delhi è la capitale dell'India e gode di uno statuto speciale con un proprio governo locale guidato da un ministro capo, responsabile di politiche su infrastrutture, agricoltura urbana e servizi per i cittadini della città."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Delhi/delhi-cm-rekha-gupta-lays-foundation-stones-for-four-agricultural-market-development-projects/article71593980.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T23:45+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zad06afc5",
+   "sez": "mondo",
+   "titolo": "66 candidati a Vizag presentano le candidature per le elezioni degli enti locali",
+   "orig": "66 Vizag candidates file nominations for local body polls",
+   "lead": "Sessantasei candidati hanno presentato le proprie nomination per le elezioni degli enti locali a Visakhapatnam (Vizag), in India, secondo quanto riportato dal quotidiano The Hindu. La notizia non specifica ulteriori dettagli sulle date del voto né sulle cariche in palio nelle amministrazioni locali della città. Lo riferisce The Hindu.",
+   "more": [
+    "Visakhapatnam, comunemente chiamata Vizag, è una delle principali città dello stato indiano dell'Andhra Pradesh, dove le elezioni degli enti locali determinano la composizione dei governi municipali responsabili dei servizi cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Visakhapatnam/66-vizag-candidates-file-nominations-for-local-body-polls/article71593225.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T23:37+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z76203670",
+   "sez": "mondo",
+   "titolo": "Il parlamento taiwanese approva sussidi dell'assicurazione sanitaria nazionale per gli anziani",
+   "orig": "Legislature passes NHI senior subsidies",
+   "lead": "Il parlamento di Taiwan ha approvato sussidi legati al sistema di assicurazione sanitaria nazionale (NHI) destinati agli anziani, secondo quanto riportato dal Taipei Times. La notizia non specifica l'importo dei sussidi né i criteri esatti di accesso per i beneficiari, ma segnala un intervento legislativo a favore della popolazione anziana taiwanese. Lo riferisce Taipei Times.",
+   "more": [
+    "Il National Health Insurance (NHI) è il sistema sanitario pubblico universale di Taiwan, che garantisce copertura medica a tutta la popolazione; interventi legislativi come questo mirano a ridurre i costi sanitari per le fasce più vulnerabili, come gli anziani."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/17/2003866110",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z18c1035d",
+   "sez": "mondo",
+   "titolo": "Studente cinese espulso per aver preso di mira il presidente Lai",
+   "orig": "Chinese student deported for targeting President Lai",
+   "lead": "Uno studente cinese è stato espulso da Taiwan dopo aver preso di mira il presidente Lai Ching-te, secondo quanto riportato dal Taipei Times. La notizia non specifica la natura esatta delle azioni dello studente nei confronti del capo dello stato taiwanese, né i dettagli della procedura di espulsione adottata dalle autorità. Lo riferisce Taipei Times.",
+   "more": [
+    "Lai Ching-te è l'attuale presidente di Taiwan, isola autogovernata che Pechino considera parte del proprio territorio; episodi che coinvolgono cittadini cinesi e la sicurezza delle istituzioni taiwanesi si inseriscono nel contesto delle tensioni tra Taipei e Pechino."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/17/2003866112",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z37d2a808",
+   "sez": "mondo",
+   "titolo": "I leader dell'UE si schierano con Zelensky",
+   "orig": "EU leaders rally around Zelenskiy",
+   "lead": "I leader dell'Unione Europea hanno espresso sostegno al presidente ucraino Volodymyr Zelensky, secondo quanto riportato dal Taipei Times. La notizia non specifica il contesto dell'incontro o della dichiarazione di solidarietà, ma segnala un momento di convergenza politica europea a favore dell'Ucraina. Lo riferisce Taipei Times.",
+   "more": [
+    "Volodymyr Zelensky è il presidente dell'Ucraina, impegnato dal 2022 a guidare il paese nella difesa contro l'invasione russa; il sostegno dei leader europei si inserisce nel più ampio sforzo diplomatico e militare occidentale a favore di Kiev."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/17/2003866113",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze7e81581",
+   "sez": "mondo",
+   "titolo": "Il ministero lancia un programma di voucher per la riparazione di elettrodomestici",
+   "orig": "Appliance repair focus of ministry voucher program",
+   "lead": "Un ministero taiwanese ha lanciato un programma di voucher dedicato alla riparazione di elettrodomestici, secondo quanto riportato dal Taipei Times. La notizia non specifica quale ministero sia coinvolto né i dettagli sull'importo dei voucher o sui criteri di accesso per i cittadini interessati all'iniziativa. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/17/2003866121",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z60d38dd6",
+   "sez": "viaggi",
+   "titolo": "Un funzionario invita i viaggiatori aerei a gestire bene i tempi",
+   "orig": "Official urges air travelers to manage time",
+   "lead": "Un funzionario ha esortato i viaggiatori aerei a gestire con attenzione i propri tempi, secondo quanto riportato dal Taipei Times. La notizia non specifica il contesto esatto dell'invito, se legato a controlli aeroportuali, scali o altre procedure, né l'identità del funzionario coinvolto. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/17/2003866123",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z105469b8",
+   "sez": "mondo",
+   "titolo": "Gli Stati Uniti emettono un allerta sicurezza per l'Arabia Saudita sui rischi di attacchi aeroportuali",
+   "orig": "US issues Saudi Arabia security alert over airport attack risks",
+   "lead": "Gli Stati Uniti hanno emesso un allerta sicurezza per l'Arabia Saudita, segnalando rischi di possibili attacchi negli aeroporti del paese. La notizia, riportata da Gulf News, non specifica ulteriori dettagli sulla natura della minaccia né sulle fonti di intelligence che hanno portato all'emissione dell'allerta da parte delle autorità statunitensi. Lo riferisce Gulf News.",
+   "more": [
+    "L'Arabia Saudita è un importante alleato degli Stati Uniti nel Golfo Persico e un hub strategico per i trasporti aerei nella regione; gli allerta di sicurezza statunitensi su possibili attacchi aeroportuali riflettono preoccupazioni su minacce terroristiche o instabilità regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/americas/us-issues-saudi-arabia-security-alert-over-airport-attack-risks-1.500713605",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-16T21:43+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zda246235",
+   "sez": "economia",
+   "titolo": "L'UE cerca uno strumento più rapido per diversificare e ridurre la dipendenza dalla Cina",
+   "orig": "EU seeks faster China de-risking with new diversification tool",
+   "lead": "L'Unione Europea sta cercando di accelerare il processo di \"de-risking\" dalla Cina attraverso un nuovo strumento per diversificare le catene di approvvigionamento, secondo quanto riportato da Nikkei Asia. La notizia non specifica i dettagli tecnici dello strumento né i settori economici prioritari individuati da Bruxelles. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Il \"de-risking\" è la strategia con cui l'Unione Europea mira a ridurre la dipendenza economica dalla Cina in settori strategici, senza interrompere del tutto i rapporti commerciali, in risposta a tensioni geopolitiche e preoccupazioni sulla sicurezza delle catene di fornitura."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/economy/trade/eu-seeks-faster-china-de-risking-with-new-diversification-tool",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2075623e",
+   "sez": "economia",
+   "titolo": "CalPERS e altri investitori istituzionali intensificano il controllo sulla governance dell'IA",
+   "orig": "CalPERS, other institutional investors step up scrutiny of AI governance",
+   "lead": "CalPERS e altri grandi investitori istituzionali stanno aumentando il livello di scrutinio sulla governance delle aziende legate all'intelligenza artificiale, secondo quanto riportato da Nikkei Asia. La notizia non specifica ulteriori dettagli sulle aziende coinvolte né sulle modalità concrete con cui questi investitori intendono esercitare la propria sorveglianza. Lo riferisce Nikkei Asia.",
+   "more": [
+    "CalPERS è il fondo pensione dei dipendenti pubblici della California, uno dei maggiori investitori istituzionali al mondo; il suo crescente interesse per la governance dell'IA riflette le preoccupazioni degli investitori sui rischi legati a questa tecnologia emergente."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/technology/artificial-intelligence/calpers-other-institutional-investors-step-up-scrutiny-of-ai-governance",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze419548a",
+   "sez": "mondo",
+   "titolo": "\"Profondamente preoccupante\": la JTA in allarme per 15 lettere di licenziamento a Kingston High",
+   "orig": "‘Deeply troubling’: JTA alarmed as 15 Kingston High teachers get termination letters",
+   "lead": "L'associazione degli insegnanti giamaicana JTA ha espresso allarme dopo che 15 docenti della Kingston High School hanno ricevuto lettere di licenziamento, definendo la situazione \"profondamente preoccupante\". La notizia, riportata dal Jamaica Observer, non specifica le motivazioni ufficiali addotte dalla scuola per i licenziamenti né i tempi previsti per la loro entrata in vigore. Lo riferisce Jamaica Observer.",
+   "more": [
+    "La Jamaica Teachers' Association (JTA) è il principale sindacato degli insegnanti in Giamaica, che interviene a tutela dei diritti del personale docente nelle scuole del paese in caso di controversie contrattuali o licenziamenti."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/16/deeply-troubling-jta-alarmed-15-kingston-high-teachers-get-termination-letters/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-16T17:15+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc4df8c7b",
+   "sez": "mondo",
+   "titolo": "Un'ingiunzione del tribunale blocca il tentativo del PNP di prendere il controllo della Clarendon Municipal Corporation",
+   "orig": "Court injunction blocks PNP bid to take control of Clarendon Municipal Corporation",
+   "lead": "Un'ingiunzione del tribunale ha bloccato il tentativo del Partito Nazionale Popolare (PNP) di assumere il controllo della Clarendon Municipal Corporation in Giamaica, secondo quanto riportato dal Jamaica Observer. La notizia non specifica le motivazioni giuridiche dell'ingiunzione né i prossimi passi legali previsti dalle parti coinvolte nella disputa amministrativa locale. Lo riferisce Jamaica Observer.",
+   "more": [
+    "La Clarendon Municipal Corporation è l'ente amministrativo locale della parrocchia di Clarendon in Giamaica; dispute politiche sul controllo di enti municipali sono frequenti nel sistema politico bipartitico giamaicano, diviso tra PNP e JLP."
+   ],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/16/courtt-injunction-blocks-pnp-bid-take-control-clarendon-municipal-corporation/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-16T16:29+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb59b4d97",
+   "sez": "economia",
+   "titolo": "Tashkent concentra il 62% delle imprese a capitale estero dell'Uzbekistan",
+   "orig": "Tashkent city accounts for 62% of Uzbekistan’s foreign-invested firms",
+   "lead": "La città di Tashkent ospita il 62% delle imprese con investimenti stranieri presenti in Uzbekistan, secondo quanto riportato dall'agenzia Trend. La notizia non specifica i settori economici prevalenti tra queste imprese né l'andamento recente degli investimenti esteri nel resto del paese. Lo riferisce Trend.",
+   "more": [
+    "Tashkent è la capitale e il principale centro economico dell'Uzbekistan, paese dell'Asia centrale che negli ultimi anni ha intrapreso riforme per attrarre investimenti stranieri e diversificare la propria economia."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235626.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T21:14+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "zddf3c6d5",
+   "sez": "mondo",
+   "titolo": "Il comandante della Guardia Presidenziale degli Emirati in visita in Azerbaigian",
+   "orig": "UAE Presidential Guard commander visits Azerbaijan (PHOTO)",
+   "lead": "Il comandante della Guardia Presidenziale degli Emirati Arabi Uniti ha effettuato una visita in Azerbaigian, secondo quanto riportato dall'agenzia Trend, che ha pubblicato anche foto dell'incontro. La notizia non specifica i temi discussi durante la visita né eventuali accordi bilaterali siglati tra le due delegazioni. Lo riferisce Trend.",
+   "more": [
+    "La Guardia Presidenziale degli Emirati Arabi Uniti è un corpo militare specializzato nella protezione delle istituzioni statali, e le visite dei suoi comandanti all'estero si inseriscono spesso in un contesto di cooperazione militare e diplomatica bilaterale."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/society/4235928.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T20:53+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4b6604d2",
+   "sez": "ambiente",
+   "titolo": "La coalizione Environmental Protection First definisce \"doppio standard\" l'ospitalità della COP17 da parte dell'Armenia",
+   "orig": "Environmental Protection First coalition calls Armenia’s COP17 hosting a double standard",
+   "lead": "La coalizione Environmental Protection First ha criticato come \"doppio standard\" la scelta dell'Armenia di ospitare la conferenza COP17, secondo quanto riportato dall'agenzia Trend. La notizia non specifica le ragioni precise alla base di questa accusa né la natura esatta delle contraddizioni ambientali segnalate dalla coalizione. Lo riferisce Trend.",
+   "more": [
+    "La COP è la Conferenza delle Parti sui cambiamenti climatici promossa dalle Nazioni Unite; accuse di \"doppio standard\" verso un paese ospitante solitamente riguardano incongruenze tra le politiche ambientali dichiarate e la pratica effettiva del governo in questione."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/politics/4235915.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-16T20:29+04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8e37d4b1",
+   "sez": "mondo",
+   "titolo": "Tre accordi importanti per promuovere l'agricoltura ad Addu Meedhoo",
+   "orig": "އައްޑޫ މީދޫގެ ދަނޑުވެރިކަން ކުރިއަރުވަން މުހިންމު 3 އެއްބަސްވުމެއް",
+   "lead": "Sono stati firmati tre accordi considerati importanti per lo sviluppo agricolo nella zona di Meedhoo, nell'atollo di Addu, nelle Maldive, secondo quanto riportato da PSM News. La notizia non specifica i contenuti esatti degli accordi né le parti coinvolte nella loro sottoscrizione. Lo riferisce PSM News.",
+   "more": [
+    "Addu è uno degli atolli più meridionali delle Maldive, dove lo sviluppo dell'agricoltura locale rappresenta un obiettivo per diversificare l'economia dell'arcipelago, tradizionalmente dipendente dal turismo e dalla pesca."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190362",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-16T21:40+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:57",
+   "uscita": "sera"
+  },
+  {
    "id": "z8c75ade0",
    "sez": "sport",
    "titolo": "Diego Poncelet è lo skateboarder più veloce della storia",
@@ -2104,30 +3934,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "data": "16 ott",
    "ora": "20:55",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze0adcb06",
-   "sez": "economia",
-   "titolo": "Analisi fiscale: cosa dice di un paese una riforma dell'imposta fondiaria",
-   "orig": "L'Analyse fiscale : Ce qu'une réforme de l'impôt foncier dit d'un pays",
-   "lead": "La rubrica di analisi economica di Lefaso.net dedica un numero alla dottoressa Joëlle Traoré, che esamina le difficoltà che limitano la riscossione dell'imposta fondiaria in Africa, attraverso i casi di Freetown e del Benin. L'analisi mostra come il potenziale considerevole di questa imposta resti ancora largamente inutilizzato nel continente e cosa le riforme avviate rivelano, oltre alle questioni catastali, sul funzionamento dei sistemi fiscali africani. Lo riferisce Lefaso.net.",
-   "more": [
-    "L'imposta fondiaria, applicata sulla proprietà immobiliare, è considerata in molti paesi africani una risorsa fiscale sottoutilizzata a causa di catasti incompleti e debolezze amministrative, mentre potrebbe finanziare servizi pubblici locali e ridurre la dipendenza da aiuti esterni."
-   ],
-   "fonti": [
-    {
-     "n": "Lefaso.net",
-     "p": "XX",
-     "c": "Ouagadougou",
-     "u": "https://lefaso.net/spip.php?article150008",
-     "angolo": "",
-     "atlas": "Burkina Faso",
-     "t": "2026-10-16T16:39+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "20:52",
    "uscita": "sera"
   },
   {
@@ -40036,7 +41842,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "ze838027e": "Le Monde riporta le critiche del collettivo al testo di bilancio presentato dal governo.",
   "zb95f1a13": "RTP accosta nello stesso servizio la notizia calcistica su Durán a quella di una medaglia nel ciclismo.",
   "z4d4a5fd2": "Público riporta i dettagli finanziari dell'operazione, inclusa la valutazione complessiva del gruppo.",
-  "ze0adcb06": "Lefaso.net propone un'analisi di merito sulle cause strutturali del mancato sfruttamento dell'imposta fondiaria in Africa.",
   "z95d0058e": "CNA sottolinea la portata della vendita di azioni da parte del vertice dell'azienda dopo la quotazione.",
   "zd8be1538": "Le testate concordano sulle pressioni su Zacharia, ma Daily Tribune aggiunge il dettaglio delle richieste di un'indagine.",
   "zd71cb625": "Der Spiegel e Der Standard, citando il New York Times, danno per certo il licenziamento, mentre ORF riporta ancora il suggerimento di Trump.",
@@ -40212,7 +42017,84 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zfc72239b": "La testata presenta la vicenda attraverso l'analisi di un antropologo sul significato storico della scoperta.",
   "z8a0010ca": "La testata presenta la nuova biografia come un'occasione di riscoperta letteraria.",
   "z21b201e6": "La testata analizza le tensioni interne alla SPD tra pragmatismo di governo e aspirazioni di sinistra.",
-  "z32666997": "La testata segue in diretta gli sviluppi della politica interna ed estera dell'amministrazione Trump."
+  "z32666997": "La testata segue in diretta gli sviluppi della politica interna ed estera dell'amministrazione Trump.",
+  "za7b9b036": "El Mundo sottolinea la revisione giudiziaria che smentisce il giudice di primo grado.",
+  "z652294ea": "Público riprende il giudizio di Fitch sulla proposta di bilancio portoghese.",
+  "zb4ba1268": "Público osserva la convergenza insolita tra governo e Chega su un tema sensibile.",
+  "z48491a76": "Público segnala l'escalation di violenza nel terzo giorno di proteste.",
+  "z716ca879": "NRC ricorda la carriera e l'impegno dell'artista fino agli ultimi anni di vita.",
+  "za824eedb": "Dagens Nyheter riporta il dibattito interno svedese sull'opportunità di cedere armamenti a Kiev.",
+  "zfaba2771": "Dagens Nyheter riprende le valutazioni interne ai repubblicani riportate da Politico.",
+  "z34234b99": "Folha de S.Paulo riporta l'iniziativa legale dell'atleta contro la federazione.",
+  "zf1f5c546": "Folha de S.Paulo raccoglie i messaggi di affetto ricevuti dall'attrice per il compleanno.",
+  "z2570ad76": "Clarín offre una panoramica dei movimenti di mercato NBA in avvio di stagione.",
+  "z77d204f0": "Clarín analizza le forze in campo nella divisione Southwest della NBA.",
+  "z44298d8a": "Clarín segue da vicino l'evoluzione normativa del sistema FAL argentino.",
+  "zf39ab310": "Clarín riporta le dichiarazioni iraniane nel contesto del vertice regionale a Erevan.",
+  "zce4efb58": "La Nación raccoglie le dichiarazioni dell'allenatore sul proprio futuro.",
+  "z1ba26cd6": "La Nación sottolinea l'incertezza legata alla recente operazione del Papa e all'assenza di comunicazioni ufficiali del Vaticano.",
+  "za1159483": "La Tercera dà risalto alle critiche interne alla coalizione di governo contro il ministro Poduje.",
+  "zb43ae187": "La Tercera mette a confronto le posizioni del ministro e del direttore dell'organismo per i diritti umani.",
+  "z2c09f8aa": "La Tercera sottolinea il contrasto tra crescita del valore e calo del volume delle esportazioni cilene.",
+  "z624f7df1": "La Tercera evidenzia la crescita esplosiva del settore e le nuove misure di controllo della qualità.",
+  "zf419388a": "El Comercio riporta la posizione del governo sulla stretta dei tempi di formalizzazione.",
+  "z223d4bd6": "El Comercio dà spazio alla proposta di un approccio territoriale e sperimentale alla sicurezza.",
+  "z971d24ab": "El Comercio ricostruisce i retroscena politici dietro l'ennesima sessione fallita.",
+  "zb067fd31": "El Observador riporta la posizione cauta dell'intendenza rispetto alle richieste della gremiale.",
+  "ze70d737d": "El Observador riporta direttamente l'ammissione dell'azienda sulla gravità del guasto.",
+  "zca92b6f3": "El Nacional riporta i dettagli dei reati attribuiti al capobanda espulso.",
+  "z427035d3": "El Nacional sottolinea la portata dell'aiuto sanitario e la collaborazione con il ministero venezuelano.",
+  "z23bf5f44": "El Nacional riporta la decisione svizzera come esito di un'indagine che non ha trovato irregolarità.",
+  "ze63f9a28": "El Deber racconta con enfasi il valore simbolico e storico della visita.",
+  "z118bd802": "El Deber evidenzia la scelta della vicegovernatrice di protestare senza fermare i servizi sanitari.",
+  "z422e76c4": "El Deber riporta i dettagli operativi dell'intervento di polizia e procura.",
+  "z67caa34d": "La Nación CR riporta l'iniziativa legale della deputata contro le norme di bilancio.",
+  "zf175fd92": "La Nación CR racconta la sconfitta netta che pone fine alle ambizioni di tricampionato dei Dodgers.",
+  "zf9d8a5d8": "El Universo riporta la misura come strumento per facilitare gli operativi contro le bande.",
+  "z3d223ea1": "ABC Color documenta la protesta in pista senza spiegarne le cause precise.",
+  "z0d264968": "Lefaso.net racconta la vicenda come un caso limite sul rapporto tra ricchezza e desiderio di discendenza.",
+  "ze108f9d4": "Lefaso.net usa i dati FMI per mettere in luce un paradosso fiscale africano.",
+  "z1da231ca": "Lefaso.net presenta l'iniziativa come un gesto di solidarietà verso l'istruzione nel paese.",
+  "z35678a4f": "Monaco Matin riporta il giudizio positivo di un ex calciatore sull'avvio di stagione della squadra.",
+  "z31bf7a2e": "Monaco Matin smentisce l'allarme diffuso sui social con la conferma ufficiale della procura.",
+  "z308780aa": "Seneweb segue l'evoluzione giudiziaria del caso con l'incriminazione e il rilascio del cronista.",
+  "z37fa1880": "Seneweb mette in evidenza le domande poste al direttore delle dogane senza fornire ancora risposte definitive.",
+  "z2b7733c9": "Seneweb presenta l'incontro come un passo avanti nelle relazioni tra i due paesi.",
+  "zed472eed": "Tchadinfos sottolinea la continuità istituzionale e le nuove ambizioni annunciate per l'ente.",
+  "z41875573": "Tchadinfos presenta il concorso come un'opportunità per valorizzare le risorse forestali locali.",
+  "zb78d9e22": "Mosaïque Guinée segnala il cambio di posizione dei sindacati come un voltafaccia rispetto alle rivendicazioni precedenti.",
+  "z7c64b379": "Mosaïque Guinée dà spazio alla spiegazione medica per sensibilizzare sui rischi domestici.",
+  "z705448c2": "Mosaïque Guinée riporta l'esito giudiziario come un sollievo per l'imprenditore coinvolto.",
+  "z6e9faaf8": "Guinée News valorizza la portata internazionale dell'evento e l'adesione al tema dell'IA amministrativa.",
+  "z791437c0": "Africaguinee racconta in prima persona la partecipazione al programma formativo cinese.",
+  "zc99e95fa": "Alakhbar riporta la composizione del nuovo esecutivo con dettaglio sulla presenza femminile.",
+  "zba302671": "Expresso das Ilhas riporta le voci istituzionali concordi sulla necessità di riforme nella giustizia.",
+  "z2ca18aed": "Mosaïque FM riporta le previsioni ufficiali di crescita per l'anno prossimo rispetto a quello in corso.",
+  "z73ef81fd": "Actualite.cd riporta la difesa di Bemba davanti ai senatori sulle criticità preesistenti del settore trasporti.",
+  "zc1bd6744": "Actualite.cd riporta la cautela del ministro nel non anticipare conclusioni sull'inchiesta in corso.",
+  "z70af152f": "Panamá América riferisce le misure precauzionali adottate dal governo dopo il sisma.",
+  "z97284151": "Panamá América segue l'evoluzione sismica con il conteggio aggiornato delle scosse.",
+  "z1cf734af": "CNA si concentra sulla composizione della squadra indiana in vista dei test contro la Nuova Zelanda.",
+  "z229d51d2": "RTP riporta la smentita di Montenegro rispetto alle accuse di egoismo verso i manifestanti.",
+  "z3505414d": "RTP riporta la posizione di Moedas sul tema della casa, bilanciando legittimità delle rivendicazioni e rispetto delle norme.",
+  "z355d9c60": "DR Nyheder segnala un nuovo episodio di violenza da parte di coloni contro palestinesi in Cisgiordania.",
+  "z3097460c": "The Hankyoreh dà rilievo di ultima ora al rapido avvicendamento ai vertici della comunicazione della Casa Bianca.",
+  "zb7278220": "The Hindu documenta l'avvio formale di nuovi progetti infrastrutturali agricoli promossi dal governo di Delhi.",
+  "zad06afc5": "The Hindu riporta il numero di candidature presentate in vista del voto locale a Vizag.",
+  "z76203670": "Il Taipei Times segnala l'approvazione legislativa come misura di sostegno agli anziani nel sistema sanitario.",
+  "z18c1035d": "Il Taipei Times evidenzia la risposta delle autorità taiwanesi a un episodio ritenuto una minaccia al presidente.",
+  "z37d2a808": "Il Taipei Times sottolinea l'unità mostrata dai leader europei nei confronti di Zelensky.",
+  "ze7e81581": "Il Taipei Times riporta il lancio di un'iniziativa governativa a sostegno dei consumatori per la riparazione di apparecchi domestici.",
+  "z60d38dd6": "Il Taipei Times riporta un appello istituzionale alla gestione dei tempi per i passeggeri aerei.",
+  "z105469b8": "Gulf News riporta l'allerta diffusa dagli Stati Uniti sui rischi per la sicurezza aeroportuale in Arabia Saudita.",
+  "zda246235": "Nikkei Asia segnala l'impegno europeo verso strumenti più efficaci di diversificazione economica rispetto alla Cina.",
+  "z2075623e": "Nikkei Asia evidenzia la crescente attenzione degli investitori istituzionali verso i rischi di governance legati all'intelligenza artificiale.",
+  "ze419548a": "Il Jamaica Observer dà voce alla preoccupazione del sindacato degli insegnanti per i licenziamenti alla Kingston High.",
+  "zc4df8c7b": "Il Jamaica Observer riporta l'intervento giudiziario che frena le mire politiche del PNP sull'ente locale.",
+  "zb59b4d97": "Trend evidenzia la concentrazione degli investimenti stranieri nella capitale uzbeka rispetto al resto del paese.",
+  "zddf3c6d5": "Trend documenta con immagini la visita ufficiale del comandante emiratino in Azerbaigian.",
+  "z4b6604d2": "Trend riporta le critiche della coalizione ambientalista verso l'Armenia come paese ospitante della COP17.",
+  "z8e37d4b1": "PSM News segnala l'impegno istituzionale a favore dello sviluppo agricolo nell'atollo di Addu."
  },
  "contesti": {
   "z1838bc4e": "Nei giorni precedenti erano emerse le polemiche sul piano segreto di Infantino per vendere quote del Mondiale a investitori privati, poi abbandonato, e sulle critiche al premio per la pace Fifa assegnato a Trump, ritenuto eccessivamente politicizzato dai membri del consiglio.",
@@ -50072,14 +51954,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    ],
    "pt": []
   },
-  "ze0adcb06": {
-   "n": "Africa",
-   "p": [
-    "Sierra Leone",
-    "Benin"
-   ],
-   "pt": []
-  },
   "z95d0058e": {
    "n": "Stati Uniti",
    "p": [
@@ -51331,6 +53205,543 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Washington",
    "p": [
     "United States of America"
+   ],
+   "pt": []
+  },
+  "za7b9b036": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z652294ea": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zb4ba1268": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z48491a76": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z716ca879": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "za824eedb": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zfaba2771": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z34234b99": {
+   "n": "Osasco",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zf1f5c546": {
+   "n": "Rio de Janeiro",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z2570ad76": {
+   "n": "Oklahoma City",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z77d204f0": {
+   "n": "San Antonio",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z44298d8a": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zf39ab310": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "zce4efb58": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z1ba26cd6": {
+   "n": "Argentina",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "za1159483": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zb43ae187": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z2c09f8aa": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z624f7df1": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zf419388a": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z223d4bd6": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z971d24ab": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "zb067fd31": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "ze70d737d": {
+   "n": "Uruguay",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "zca92b6f3": {
+   "n": "Colombia",
+   "p": [
+    "Colombia"
+   ],
+   "pt": []
+  },
+  "z427035d3": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z23bf5f44": {
+   "n": "Svizzera",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "ze63f9a28": {
+   "n": "El Alto",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z118bd802": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z422e76c4": {
+   "n": "Santa Cruz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z67caa34d": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "zf175fd92": {
+   "n": "Milwaukee",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf9d8a5d8": {
+   "n": "Ecuador",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z3d223ea1": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z0d264968": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze108f9d4": {
+   "n": "Africa subsahariana",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "z1da231ca": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z35678a4f": {
+   "n": "Sofia",
+   "p": [
+    "Bulgaria"
+   ],
+   "pt": []
+  },
+  "z31bf7a2e": {
+   "n": "Monaco",
+   "p": [
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "z308780aa": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z37fa1880": {
+   "n": "Thiès",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z2b7733c9": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zed472eed": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z41875573": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zb78d9e22": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z7c64b379": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z705448c2": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z6e9faaf8": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z791437c0": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zc99e95fa": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "zba302671": {
+   "n": "Praia",
+   "p": [
+    "Cabo Verde"
+   ],
+   "pt": []
+  },
+  "z2ca18aed": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z73ef81fd": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zc1bd6744": {
+   "n": "Kenge",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z70af152f": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z97284151": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z1cf734af": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z229d51d2": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z3505414d": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z355d9c60": {
+   "n": "Cisgiordania",
+   "p": [],
+   "pt": []
+  },
+  "z3097460c": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb7278220": {
+   "n": "Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zad06afc5": {
+   "n": "Visakhapatnam",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z76203670": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z18c1035d": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z37d2a808": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "ze7e81581": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z60d38dd6": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z105469b8": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zda246235": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z2075623e": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze419548a": {
+   "n": "Kingston",
+   "p": [
+    "Jamaica"
+   ],
+   "pt": []
+  },
+  "zc4df8c7b": {
+   "n": "Clarendon",
+   "p": [
+    "Jamaica"
+   ],
+   "pt": []
+  },
+  "zb59b4d97": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zddf3c6d5": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z4b6604d2": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z8e37d4b1": {
+   "n": "Addu",
+   "p": [
+    "Maldives"
    ],
    "pt": []
   }
@@ -52675,7 +55086,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "ze838027e": 1,
   "zb95f1a13": 1,
   "z4d4a5fd2": 1,
-  "ze0adcb06": 1,
   "z95d0058e": 1,
   "z719a2220": 1,
   "z1a7267bf": 1,
@@ -52862,7 +55272,84 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zfc72239b": 1,
   "z8a0010ca": 1,
   "z21b201e6": 1,
-  "z32666997": 1
+  "z32666997": 1,
+  "za7b9b036": 1,
+  "z652294ea": 1,
+  "zb4ba1268": 1,
+  "z48491a76": 2,
+  "z716ca879": 1,
+  "za824eedb": 1,
+  "zfaba2771": 2,
+  "z34234b99": 1,
+  "zf1f5c546": 1,
+  "z2570ad76": 1,
+  "z77d204f0": 1,
+  "z44298d8a": 1,
+  "zf39ab310": 1,
+  "zce4efb58": 1,
+  "z1ba26cd6": 2,
+  "za1159483": 1,
+  "zb43ae187": 1,
+  "z2c09f8aa": 1,
+  "z624f7df1": 1,
+  "zf419388a": 1,
+  "z223d4bd6": 1,
+  "z971d24ab": 1,
+  "zb067fd31": 1,
+  "ze70d737d": 1,
+  "zca92b6f3": 1,
+  "z427035d3": 2,
+  "z23bf5f44": 1,
+  "ze63f9a28": 2,
+  "z118bd802": 1,
+  "z422e76c4": 1,
+  "z67caa34d": 1,
+  "zf175fd92": 1,
+  "zf9d8a5d8": 2,
+  "z3d223ea1": 1,
+  "z0d264968": 1,
+  "ze108f9d4": 1,
+  "z1da231ca": 1,
+  "z35678a4f": 1,
+  "z31bf7a2e": 1,
+  "z308780aa": 1,
+  "z37fa1880": 1,
+  "z2b7733c9": 1,
+  "zed472eed": 1,
+  "z41875573": 1,
+  "zb78d9e22": 1,
+  "z7c64b379": 1,
+  "z705448c2": 1,
+  "z6e9faaf8": 1,
+  "z791437c0": 1,
+  "zc99e95fa": 2,
+  "zba302671": 1,
+  "z2ca18aed": 1,
+  "z73ef81fd": 1,
+  "zc1bd6744": 2,
+  "z70af152f": 2,
+  "z97284151": 2,
+  "z1cf734af": 1,
+  "z229d51d2": 1,
+  "z3505414d": 1,
+  "z355d9c60": 1,
+  "z3097460c": 1,
+  "zb7278220": 1,
+  "zad06afc5": 1,
+  "z76203670": 1,
+  "z18c1035d": 1,
+  "z37d2a808": 1,
+  "ze7e81581": 1,
+  "z60d38dd6": 1,
+  "z105469b8": 1,
+  "zda246235": 1,
+  "z2075623e": 1,
+  "ze419548a": 1,
+  "zc4df8c7b": 1,
+  "zb59b4d97": 1,
+  "zddf3c6d5": 1,
+  "z4b6604d2": 1,
+  "z8e37d4b1": 1
  },
  "video": {},
  "pillole": []
