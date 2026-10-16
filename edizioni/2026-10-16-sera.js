@@ -3,6 +3,1518 @@ window.EDIZIONI["2026-10-16-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z1cb0c038",
+   "sez": "mondo",
+   "titolo": "Il granadino Ian Noel consegue il master alla World Maritime University",
+   "orig": "Grenadian earns Master’s Degree from World Maritime University",
+   "lead": "Ian Noel, originario di Grenada, ha completato con successo i suoi studi superiori conseguendo un Master presso la World Maritime University. La sua formazione specialistica fornisce competenze avanzate destinate a sostenere la modernizzazione dei porti, l'efficienza energetica marittima, le tecnologie di spedizione pulita e la pianificazione di infrastrutture marittime resilienti nel paese caraibico. Lo riferisce NOW Grenada.",
+   "more": [
+    "La World Maritime University è un istituto di istruzione superiore operante sotto l'egida dell'Organizzazione marittima internazionale, specializzato nella formazione di esperti di alto livello per il settore dei trasporti e della logistica globale."
+   ],
+   "fonti": [
+    {
+     "n": "NOW Grenada",
+     "p": "XX",
+     "c": "St. George's",
+     "u": "https://nowgrenada.com/2026/10/grenadian-earns-masters-degree-from-world-maritime-university/",
+     "angolo": "",
+     "atlas": "Grenada",
+     "t": "2026-10-16T15:09+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z1d5fb994",
+   "sez": "mondo",
+   "titolo": "Celebrazione della Giornata dei Caraibi dedicata alle statistiche nel 2026",
+   "orig": "Celebrating Caribbean Statistics Day 2026",
+   "lead": "In occasione della Giornata dei Caraibi dedicata alle statistiche per il 2026, viene sottolineato il ruolo fondamentale dei dati numerici e delle informazioni georeferenziate per i governi della regione. Secondo quanto evidenziato, una raccolta di informazioni affidabile e tempestiva consente alle autorità locali di valutare i danni subiti, individuare le comunità maggiormente colpite, indirizzare le risorse laddove risultano più necessarie e guidare efficacemente la ripresa. Lo riferisce NOW Grenada.",
+   "more": [
+    "Le giornate dedicate alle statistiche nei contesti regionali mirano a rafforzare la capacità degli uffici di censimento e dei governi locali nel produrre dati pubblici accurati per la pianificazione economica e sociale."
+   ],
+   "fonti": [
+    {
+     "n": "NOW Grenada",
+     "p": "XX",
+     "c": "St. George's",
+     "u": "https://nowgrenada.com/2026/10/celebrating-caribbean-statistics-day-2026/",
+     "angolo": "",
+     "atlas": "Grenada",
+     "t": "2026-10-16T15:01+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "ze60e1d7e",
+   "sez": "mondo",
+   "titolo": "In primo piano la Giornata Mondiale dell'Alimentazione del 16 ottobre 2026",
+   "orig": "World Food Day 16 October 2026",
+   "lead": "In occasione della Giornata Mondiale dell'Alimentazione celebrata il 16 ottobre 2026, viene richiamata l'attenzione sulla necessità di sviluppare strategie agricole e alimentari basate sull'innovazione tecnologica e produttiva. Secondo quanto diffuso, tali innovazioni devono essere attentamente adattate alle realtà e ai bisogni locali, sostenute da politiche pubbliche adeguate e supportate da investimenti economici costanti nel tempo. Lo riferisce NOW Grenada.",
+   "more": [
+    "La Giornata Mondiale dell'Alimentazione è una ricorrenza internazionale promossa dalla FAO per sensibilizzare l'opinione pubblica globale sui temi della sicurezza alimentare, della lotta alla fame e della gestione sostenibile delle risorse agricole."
+   ],
+   "fonti": [
+    {
+     "n": "NOW Grenada",
+     "p": "XX",
+     "c": "St. George's",
+     "u": "https://nowgrenada.com/2026/10/world-food-day-16-october-2026/",
+     "angolo": "",
+     "atlas": "Grenada",
+     "t": "2026-10-16T13:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z37c9a4b0",
+   "sez": "mondo",
+   "titolo": "Il governo cubano introduce la via digitale per accelerare le richieste di precedenti penali",
+   "orig": "El Gobierno cubano habilita la vía digital para agilizar la solicitud de antecedentes penales",
+   "lead": "Il Ministero della Giustizia di Cuba ha introdotto una nuova modalità digitale per snellire la procedura di richiesta dei precedenti penali. L'iniziativa ha l'obiettivo di ridurre la burocrazia associata a un documento considerato indispensabile per il disbrigo delle pratiche migratorie dei cittadini. Lo riferisce 14ymedio.",
+   "more": [
+    "La gestione documentale e la burocrazia per i certificati ufficiali rappresentano da tempo un passaggio complesso e fortemente centralizzato all'interno delle procedure amministrative statali cubane."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/cuba-habilita-via-digital-agilizar_1_1132030.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-16T14:07+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za93ca3c1",
+   "sez": "salute",
+   "titolo": "Aumento della mortalità materna all'ospedale comunitario di Bangui: il ministro della Salute interviene duramente",
+   "orig": "Hausse de la mortalité maternelle à l’hôpital Communautaire de Bangui, le ministre de la Santé tape du poing sur la table",
+   "lead": "Il ministro della Salute Pierre Somsé si è recato all'ospedale comunitario di Bangui per verificare il dispositivo di risposta contro la propagazione del virus Ebola. Nel corso della visita, il rappresentante del governo ha denunciato pubblicamente la crescita della mortalità materna all'interno della struttura, puntando il dito contro l'indiscrezione, il mercantilismo e la mancanza di professionalità riscontrate nel servizio. Lo riferisce Radio Ndeke Luka.",
+   "more": [
+    "Le strutture sanitarie della Repubblica Centrafricana affrontano regolarmente criticità legate alla carenza di risorse, alle emergenze epidemiche e alla gestione del personale medico."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107206-hausse-de-la-mortalite-maternelle-a-lhopital-communautaire-de-bangui-le-ministre-de-la-sante-tape-du-poing-sur-la-table",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-16T13:07+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zf9c5ee48",
+   "sez": "mondo",
+   "titolo": "Ondata di reazioni e richieste di scarcerazione dopo l'arresto dei leader della società civile a Bangui",
+   "orig": "Dossier du jour : vague de réactions après l’arrestation des leaders de la société civile",
+   "lead": "Numerosi appelli si levano per chiedere la liberazione immediata dei leader della società civile che sono stati fermati a Bangui. Le richieste di scarcerazione giungono trasversalmente da organizzazioni non governative, esponenti vicini al potere e forze dell'opposizione democratica, mentre permangono interrogativi sulle motivazioni ufficiali del provvedimento restrittivo. Lo riferisce Radio Ndeke Luka.",
+   "more": [
+    "I rapporti tra le autorità governative e le organizzazioni della società civile in Africa centrale sono spesso caratterizzati da tensioni legate alla libertà di espressione e di riunione."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107204-dossier-du-jour-vague-de-reactions-apres-larrestation-des-leaders-de-la-societe-civile",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-16T13:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z489e8459",
+   "sez": "mondo",
+   "titolo": "Honduras: la storia del Paese che ha conquistato il cielo prima di sviluppare le strade",
+   "orig": "Honduras: El país que conquistó el cielo antes que las carreteras",
+   "lead": "Un percorso attraverso i principali momenti storici che hanno trasformato l'Honduras in un pioniere dell'aviazione civile, partendo dai primi voli pionieristici effettuati nel 1921 fino alla moderna era dell'Agenzia Aeronautica Civile (AHAC). L'analisi ripercorre come lo sviluppo dei collegamenti aerei abbia preceduto la costruzione di una rete stradale efficiente nel territorio nazionale. Lo riferisce Criterio.hn.",
+   "more": [
+    "La conformazione geografica particolarmente aspra e montuosa di alcune regioni dell'America Centrale ha storicamente favorito l'investimento nei trasporti aerei rispetto alla complessa realizzazione di infrastrutture viarie terrestri."
+   ],
+   "fonti": [
+    {
+     "n": "Criterio.hn",
+     "p": "XX",
+     "c": "Tegucigalpa",
+     "u": "https://criterio.hn/honduras-el-pais-que-conquisto-el-cielo-antes-que-las-carreteras/",
+     "angolo": "",
+     "atlas": "Honduras",
+     "t": "2026-10-16T11:58+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0644dc21",
+   "sez": "mondo",
+   "titolo": "Il presidente Kast arriva a La Paz per una visita protocollare incentrata su undici punti",
+   "orig": "Kast: “Comencemos a construir juntos, el futuro de nuestras naciones”",
+   "lead": "Il presidente cileno José Antonio Kast è giunto all'aeroporto di El Alto per compiere una visita di carattere protocollare in Bolivia, caratterizzata da un'agenda fitta focalizzata su undici punti specifici di cooperazione bilaterale. All'arrivo, il leader ha dichiarato l'intenzione di costruire insieme il futuro delle due nazioni. Lo riferisce Brújula Digital.",
+   "more": [
+    "I rapporti diplomatici tra Bolivia e Cile hanno attraversato complesse vicende storiche e territoriali, rendendo ogni visita ufficiale di alto livello un momento di estrema delicatezza politica."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/kast-comencemos-a-construir-juntos-el-futuro-de-nuestras-naciones",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T10:04-04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z4b793f32",
+   "sez": "mondo",
+   "titolo": "Ripristinare gli ambasciatori con il Cile è prematuro e richiederà tempo, secondo Aramayo",
+   "orig": "“Es muy temprano” para reestablecer embajadores con Chile, va a tomar tiempo, dice Aramayo",
+   "lead": "A seguito della visita istituzionale in Bolivia del presidente cileno José Antonio Kast, il funzionario Aramayo ha dichiarato che è ancora troppo presto per procedere alla reintegrazione dei rispettivi ambasciatori tra i due Paesi, precisando che la normalizzazione diplomatica completa richiederà del tempo. Lo riferisce Brújula Digital.",
+   "more": [
+    "Il ripristino delle rappresentanze diplomatiche al massimo livello tra Bolivia e Cile richiede passaggi negoziali complessi legati alle storiche controversie bilaterali."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/es-muy-temprano-para-reestablecer-embajadores-con-chile-va-a-tomar-tiempo-dice-aramayo",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T09:15-04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z73d6b39e",
+   "sez": "mondo",
+   "titolo": "Undici anni di detenzione a San Pedro: Willam Kushner chiede l'intervento del Legislativo sul suo processo",
+   "orig": "Once años en San Pedro: Kushner pide que el Legislativo exija respuestas por su proceso",
+   "lead": "L'istanza richiede al potere legislativo di esercitare funzioni di controllo e fiscalizzazione nei confronti del Tribunale Costituzionale Plurinazionale e del Consiglio della Magistratura in merito alle anomalie del suo procedimento giudiziario. Lo riferisce Brújula Digital.",
+   "more": [
+    "Il sistema penitenziario boliviano e i tempi della giustizia ordinaria sono al centro di frequenti polemiche riguardanti le condizioni di detenzione preventiva prolungata e l'efficacia dei controlli istituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/sociedad/once-anos-en-san-pedro-kushner-pide-que-el-legislativo-exija-respuestas-por-su-proceso",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T08:10-04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z62bce806",
+   "sez": "mondo",
+   "titolo": "Come il Rassemblement National ha trasformato l'automobile in uno strumento elettorale e di legittimazione",
+   "orig": "Comment le RN a fait de la voiture un outil électoral et de notabilisation",
+   "lead": "A partire dalla stagione delle proteste dei gilet gialli, il partito di estrema destra francese Rassemblement National ha sfruttato ogni occasione politica per posizionarsi come il principale difensore degli automobilisti e del loro potere d'acquisto. Sfruttando il malcontento popolare, la formazione politica ha intessuto relazioni strette con i costruttori nazionali, facendosi portavoce delle loro rivendicazioni contro le normative comunitarie europee in materia di mobilità. Lo riferisce Le Monde.",
+   "more": [
+    "Il settore automobilistico europeo e le politiche di transizione ecologica imposte dall'Unione Europea rappresentano un terreno di scontro politico rilevante nei dibattiti elettorali francesi."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-16T16:45+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z903c7a1b",
+   "sez": "mondo",
+   "titolo": "Mauritius: proteste e tensioni sociali oltre la crisi idrica in una società fortemente diseguale",
+   "orig": "A l’île Maurice, une colère qui dépasse la crise de l’eau dans une société « très inégalitaire »",
+   "lead": "A seguito del grave ferimento di una giovane donna da parte di un agente di polizia, avvenuto venerdì 9 ottobre, diverse regioni di Mauritius sono state teatro di rivolte urbane. Le proteste evidenziano un disagio sociale profondo che va ben oltre la cronica penuria d'acqua, alimentato dalla frustrazione di una gioventù colpita dalle politiche di austerità in un contesto economico segnato da forti disuguaglianze. Lo riferisce Le Monde.",
+   "more": [
+    "L'isola di Mauritius affronta sfide strutturali legate alla gestione delle risorse idriche e alla distribuzione della ricchezza, fattori che influenzano la stabilità sociale della popolazione giovanile."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/afrique/article/2026/10/16/a-l-ile-maurice-une-colere-qui-depasse-la-crise-de-l-eau-dans-une-societe-tres-inegalitaire_6795548_3212.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-16T14:27+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z526adc76",
+   "sez": "mondo",
+   "titolo": "Marine Le Pen intende bloccare gli aiuti finanziari all'ucraina in caso di vittoria: la posizione degli altri candidati",
+   "orig": "Marine Le Pen veut «arrêter» l’aide financière à l’Ukraine si elle est élue : comment se positionnent les autres candidats à la présidentielle ?",
+   "lead": "La candidata del Rassemblement National Marine Le Pen ha dichiarato l'intenzione di interrompere il sostegno finanziario fornito all'Ucraina qualora dovesse vincere le elezioni presidenziali. Il dibattito politico francese vede tuttavia contrapposti altri aspiranti alla massima carica dello Stato, divisi tra chi intende tagliare i fondi a Kiev e chi auspica invece il mantenimento o persino l'incremento dell'assistenza militare ed economica transalpina. Lo riferisce Le Figaro.",
+   "more": [
+    "Il sostegno occidentale all'Ucraina e la gestione delle spese militari statali rappresentano temi centrali nel confronto politico in vista delle elezioni presidenziali in Francia."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/programmes/marine-le-pen-veut-arreter-l-aide-financiere-a-l-ukraine-si-elle-est-elue-comment-se-positionnent-les-autres-candidats-a-la-presidentielle-20261016",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-16T16:20+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zafd1e642",
+   "sez": "mondo",
+   "titolo": "Il movimento studentesco liceale francese punta a una ripresa delle mobilitazioni il 17 ottobre",
+   "orig": "Le 17 octobre, un rebond bienvenu pour le mouvement lycéen",
+   "lead": "La mobilitazione dei giovani studenti delle scuole superiori, attiva fin dalla fine del mese di settembre, punta a trovare un nuovo slancio e a convergere con altre lotte sociali nella giornata di azione nazionale contro il carovita prevista per sabato 17 ottobre in tutto il Paese. Lo riferisce Libération.",
+   "more": [
+    "Le proteste giovanili contro l'aumento del costo della vita e le condizioni economiche generali si inseriscono in un clima di agitazioni sindacali e sociali ricorrenti in Francia."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/education/le-17-octobre-un-rebond-bienvenu-pour-le-mouvement-lyceen-20261016_CVQ6DU276FDRZG6LV6EJGWYHA4/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-16T13:02+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za3fff72c",
+   "sez": "mondo",
+   "titolo": "Tentato fermo di uno studente al liceo Paul-Éluard di Saint-Denis: un collettivo di docenti chiede le dimissioni del dirigente",
+   "orig": "Tentative d’interpellation d’un élève au lycée Paul-Eluard de Saint-Denis : un collectif de professeurs réclame la démission du proviseur",
+   "lead": "A seguito del tentativo di fermo di uno studente avvenuto all'interno del liceo Paul-Éluard di Saint-Denis, il collettivo sindacale e di insegnanti «Personnels Éluard en lutte» ha diffuso una nota in cui richiede formalmente le dimissioni del provvisore. L'associazione chiede inoltre l'immediato abbandono dei procedimenti giudiziari e l'amnistia per tutti gli studenti coinvolti nelle recenti tensioni, mentre il giovane brevemente fermato il giorno precedente dovrà comparire prossimamente davanti alle autorità di polizia. Lo riferisce Libération.",
+   "more": [
+    "I rapporti tra le istituzioni scolastiche superiori francesi e i movimenti di protesta studentesca generano frequentemente tensioni disciplinari e rivendicazioni sindacali del corpo docente."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/education/tentative-dinterpellation-dun-eleve-au-lycee-paul-eluard-de-saint-denis-un-collectif-de-professeurs-reclame-la-demission-du-proviseur-20261016_HTABZTKRFRBKREGZPDTXZTHQXU/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-16T13:25+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z1805ed5c",
+   "sez": "mondo",
+   "titolo": "Riepilogo delle notizie: attese mediche in Germania, tagli Eurowings e invasione di bruchi in Svizzera",
+   "orig": "News des Tages: Wartezeiten beim Arzt, Eurowings, Raupenplage in der Schweiz",
+   "lead": "La rassegna informativa serale di venerdì evidenzia diversi temi di attualità: molti cittadini tedeschi percepiscono i lunghi tempi di attesa negli studi medici come una questione di ingiustizia sociale, la compagnia aerea Eurowings procede alla cancellazione di voli valutando l'introduzione del lavoro ridotto, e milioni di bruchi stanno devastando la vegetazione in una regione della Svizzera. Lo riferisce Der Spiegel.",
+   "more": [
+    "I disservizi nei sistemi sanitari nazionali, le difficoltà economiche del settore aeronautico e i fenomeni ecologici anomali rappresentano problematiche ricorrenti nell'Europa centrale."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/politik/deutschland/news-des-tages-wartezeiten-beim-arzt-eurowings-raupenplage-in-der-schweiz-a-aec9d2b0-a6f4-42ad-aa72-2cdb863d4f17#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T16:57+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zb933e6a3",
+   "sez": "cultura",
+   "titolo": "In calo la presenza femminile nei ruoli di vertice delle serie televisive di successo",
+   "orig": "TV: An erfolgreichen Serien sind immer weniger Frauen maßgeblich beteiligt",
+   "lead": "Un'indagine condotta da un'organizzazione specializzata sulla composizione delle produzioni televisive popolari ha rivelato un dato allarmante: la percentuale di donne, persone non binarie e trans che partecipano in modo determinante alla realizzazione delle serie di successo risulta in costante diminuzione, nonostante lievi miglioramenti registrati in settori specifici. Lo riferisce Der Spiegel.",
+   "more": [
+    "Il tema della rappresentanza di genere e dell'inclusività nelle produzioni audiovisive e televisive globali è al centro di numerosi studi statistici e rivendicazioni sindacali del settore."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/kultur/tv/tv-in-serien-sind-immer-weniger-frauen-zu-sehen-a-66b7e66b-7285-4d5b-a366-14e211489055#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T16:37+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za8687ddf",
+   "sez": "mondo",
+   "titolo": "Amburgo: il politico dei Verdi Lars Boettger perde l'incarico in commissione dopo critiche ai vertici del partito",
+   "orig": "Grüne in Hamburg: Lars Boettger verliert Posten nach Kritik an Parteispitze",
+   "lead": "Il politico ambientalista Lars Boettger è stato rimosso dalla sua commissione dal gruppo consiliare dei Verdi ad Amburgo, in seguito alle critiche espresse pubblicamente contro la gestione della tesoreria e dei fondi interni da parte dei vertici del partito. La fazione politica ha tuttavia smentito ufficialmente l'esistenza di una correlazione diretta tra le dichiarazioni pubbliche e la destituzione. Lo riferisce Der Spiegel.",
+   "more": [
+    "Le dinamiche interne ai partiti politici tedeschi prevedono rigidi equilibri e gestione della disciplina di gruppo, soprattutto in caso di disallineamenti pubblici con la linea ufficiale."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/gesellschaft/gruene-in-hamburg-lars-boettger-verliert-posten-nach-kritik-an-parteispitze-a-6b4de672-f8c3-467d-86aa-bf891b907c1e#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T16:20+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z1bbe591c",
+   "sez": "mondo",
+   "titolo": "Previdenza integrativa in Germania: le polemiche sulla pensione a sostegno dei minori e l'equità sociale",
+   "orig": "Altersvorsorge: Wer die Frühstartrente unfair findet, hat sie nicht verstanden",
+   "lead": "Il governo federale si appresta a erogare centoventi euro all'anno per ciascun bambino da destinare alla previdenza complementare per la vecchiaia. Alcuni critici considerano tale misura ingiusta poiché le famiglie benestanti possiedono la capacità economica di versare somme aggiuntive notevolmente superiori, ma i sostenitori replicano che tale obiezione si fonda su un errore di valutazione strutturale del sistema. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "Le riforme del sistema pensionistico e le misure pubbliche per incentivare il risparmio privato dei minori generano regolarmente dibattiti accesi sull'equità fiscale in Germania."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/wirtschaft/fruehstartrente-kinder-altersvorsorge-depot-ungerecht-kommentar-li.3564454",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T13:57+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z1b46341b",
+   "sez": "mondo",
+   "titolo": "Oktoberfest: la questione dei tendoni si sposta verso il giudizio del tribunale costituzionale federale tedesco",
+   "orig": "Oktoberfest: Jetzt soll sogar das Bundesverfassungsgericht über die Wiesn entscheiden",
+   "lead": "Una nuova istanza giudiziaria ha stabilito che i tendoni della celebre festa della birra di Monaco non debbano necessariamente essere messi a bando tramite gare d'appalto europee. Sebbene la decisione sembri chiudere un grado di giudizio, la controversia non si placa: il gestore sconfitto Alexander Egger ha infatti annunciato l'intenzione di portare l'intera vicenda davanti al Bundesverfassungsgericht. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "L'assegnazione commerciale degli spazi e delle strutture di ospitalità all'Oktoberfest è soggetta a rigorose contese legali e commerciali tra i diversi operatori tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-2026-wiesnzelte-vergabe-urteil-verfassungsbeschwerde-alexander-egger-li.3547791",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T13:09+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z26c6315a",
+   "sez": "mondo",
+   "titolo": "Il linguaggio politico e l'attrattiva per le nuove generazioni: le riflessioni dopo l'addio di Bärbel Bas",
+   "orig": "Dieser eine Satz: Das klingt jetzt nicht so attraktiv für talentierte Nachwuchskräfte aus der Gen Z",
+   "lead": "A seguito delle dimissioni di Bärbel Bas, il leader dell'SPD Lars Klingbeil ha tracciato una linea netta sui comportamenti e le umiliazioni che un politico professionista dovrebbe essere in grado di tollerare, sollevando interrogativi sull'attrattiva che la carriera istituzionale riveste per i giovani talenti della cosiddetta Generazione Z. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "Il ricambio generazionale nella politica tedesca e le condizioni di stress psicologico connesse agli incarichi pubblici rappresentano temi di crescente dibattito pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/meinung/baerbel-bas-lars-klingbeil-spd-ruecktritt-gen-z-politik-mitgefuehl-kommentar-li.3564163",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T12:45+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0f469815",
+   "sez": "mondo",
+   "titolo": "Turchia: il processo contro Ekrem İmamoğlu trasformato in una tribuna politica contro il governo",
+   "orig": "Türkei: Erdoğans Angstgegner macht das Gericht zur politischen Bühne",
+   "lead": "Nel quadro del procedimento giudiziario in cui la pubblica accusa richiede una condanna a duemilaquattrocento anni di reclusione per presunta corruzione, l'ex sindaco di Istanbul e principale oppositore di Recep Tayyip Erdoğan, Ekrem İmamoğlu, ha scelto di non impostare una normale difesa tecnica. Al contrario, l'imputato ha pronunciato un discorso politico di forte impatto, trasformando l'aula di tribunale in una pubblica tribuna antigovernativa. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "I procedimenti giudiziari a carico di esponenti di primo piano dell'opposizione laica turca sono frequentemente interpretati come strumenti di pressione politica nel contesto istituzionale del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/tuerkei-ekrem-imamoglu-erdogan-istanbul-opposition-silivri-prozess-li.3564129",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T12:35+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z753f8445",
+   "sez": "tech",
+   "titolo": "Elon Musk presenta il nuovo Tesla volante nel contesto di recenti difficoltà d'immagine",
+   "orig": "Technik: Elon Düsentrieb",
+   "lead": "L'imprenditore Elon Musk ha svelato un nuovo modello di automobile Tesla in grado di volare, un annuncio che si inserisce in un periodo in cui la figura del magnate ha subito contraccolpi a causa di dispute di potere e manovre che ne hanno intaccato la posizione commerciale e mediatica. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "Le strategie industriali e mediatiche di Elon Musk uniscono costantemente innovazioni tecnologiche dirompenti e gestione personalistica dell'immagine aziendale."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/kultur/elon-musk-tesla-roadster-mitarbeiter-ingenieure-li.3564479",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T12:10+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a53c2ae",
+   "sez": "mondo",
+   "titolo": "Un irritato Volodymyr Zelensky cerca rifugio politico tra i leader europei riuniti a Bruxelles",
+   "orig": "Treffen in Brüssel: Ein gereizter Selenskyj unter „echten Anführern“",
+   "lead": "A seguito dell'ennesimo deterioramento dei rapporti diplomatici con Donald Trump, il presidente ucraino Volodymyr Zelensky si è recato a Bruxelles per un incontro ufficiale con i leader europei. La visita evidenzia tuttavia la presenza di divisioni e perplessità anche all'interno del contesto comunitario nei confronti dell'operato del capo dello Stato ucraino. Lo riferisce FAZ.",
+   "more": [
+    "Le relazioni diplomatiche tra Kiev e gli alleati occidentali subiscono costanti pressioni in base agli orientamenti politici mutevoli delle diverse amministrazioni internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ukraine/selenskyj-in-bruessel-darum-kann-die-eu-der-ukraine-nur-eingeschraenkt-helfen-201528169.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T14:17+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zc4fd074c",
+   "sez": "mondo",
+   "titolo": "Aggiornamenti sul conflitto in Ucraina: tra le dichiarazioni di Babiš e le misure economiche russe",
+   "orig": "Liveblog Ukrainekrieg: Der „Sündenbock“ Trumps? Selenskyj lächelt Frage weg",
+   "lead": "Nel flusso costante di notizie dal fronte bellico, il politico ceco Babiš sostiene che Donald Trump abbia tradito l'Europa, mentre le autorità russe hanno proceduto alla confisca dei beni appartenenti a un produttore tedesco di materiale d'imballaggio. Nel frattempo, alcuni senatori statunitensi chiedono chiarimenti ufficiali in merito alla limitazione della connessione Starlink e Volodymyr Zelensky reagisce con un sorriso alle domande sull'essere considerato il capro espiatorio dell'ex presidente americano. Lo riferisce FAZ.",
+   "more": [
+    "Le ripercussioni economiche internazionali del conflitto ucraino comprendono sanzioni incrociate, sequestri patrimoniali e delicate questioni tecnologiche legate alle telecomunicazioni satellitari."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-der-suendenbock-trumps-selenskyj-laechelt-frage-weg-faz-110683325.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T12:51+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zfa06f9df",
+   "sez": "mondo",
+   "titolo": "Johann Wadephul: la Russia incontrerà maggiori difficoltà nel sostenere il peso prolungato del conflitto",
+   "orig": "Johann Wadephul: „Russland wird die größeren Schwierigkeiten haben, diesen Krieg durchzuhalten“",
+   "lead": "Il ministro degli Esteri ed esponente della CDU Johann Wadephul ha dichiarato che la Russia affronterà difficoltà crescenti nel mantenere lo sforzo bellico a lungo termine. Il politico tedesco ha inoltre espresso la convinzione che la sua stessa formazione politica sia stata forse eccessivamente timida, potendo invece promuovere con maggiore risolutezza il sostegno internazionale all'Ucraina. Lo riferisce FAZ.",
+   "more": [
+    "Il dibattito politico tedesco sulla portata e sulla durata dell'assistenza militare ed economica a Kiev coinvolge direttamente i principali partiti di governo e di opposizione."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/johann-wadephul-russland-wird-groessere-schwierigkeiten-haben-ukraine-krieg-durchzuhalten-accg-201339551.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T13:07+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z87b542be",
+   "sez": "mondo",
+   "titolo": "Molestie nel surf professionistico: surfista minorenne e l'intervento della federazione",
+   "orig": "Metoo im Surfsport: „Es ist meine Pflicht als Frau, meine Geschichte öffentlich zu machen“",
+   "lead": "A seguito di gravi accuse relative a presunti abusi sessuali nei confronti di una minore, un surfista professionista è stato sospeso dal circuito internazionale delle competizioni Championship Tour. In seguito al provvedimento, una surfista tedesca ha rotto il silenzio denunciando pubblicamente le criticità e le condotte in seno all'intera industria sportiva del settore. Lo riferisce FAZ.",
+   "more": [
+    "Le denunce di abusi e la gestione della sicurezza degli atleti minori nei circuiti sportivi professionistici internazionali stanno portando a una revisione delle politiche disciplinari delle federazioni."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/metoo-noah-lia-klapp-erhebt-schwere-vorwuerfe-gegen-die-surfindustrie-201467491.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T13:06+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zb6a83f66",
+   "sez": "mondo",
+   "titolo": "Come affronta l'invecchiamento Reinhold Messner a 82 anni?",
+   "orig": "Abenteurer und Autor: Wie kommen Sie mit dem Altern zurecht, Herr Messner?",
+   "lead": "L'alpinista estremo Reinhold Messner, che nella sua vita è stato spesso il primo a compiere imprese straordinarie, riflette apertamente sul proprio declino fisico all'età di 82 anni. Durante la riflessione, l'autore si interroga anche su quale eredità intenda lasciare al mondo dopo una vita trascorsa a superare i limiti in montagna. Lo riferisce FAZ.",
+   "more": [
+    "L'alpinismo estremo richiede una straordinaria resistenza fisica e mentale, affrontando condizioni ambientali proibitive sulle vette più alte del pianeta. Con l'avanzare dell'età, i grandi protagonisti di questa disciplina devono fare i conti con il logoramento del corpo e la transizione verso il ruolo di narratori e custodi della memoria storica dell'alpinismo."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/im-blickpunkt-wie-kommen-sie-mit-dem-altern-zurecht-herr-messner-201340783.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T13:10+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z2ecc7c43",
+   "sez": "cultura",
+   "titolo": "Valdano: Si parla poco del fatto che i calciatori fanno terapia",
+   "orig": "Valdano: “Se habla poco de que los futbolistas hacen terapia”",
+   "lead": "Nel terzo episodio del programma 'Tercer Acto', l'ex calciatore e comunicatore discute della necessità di guardare avanti nella vita, toccando temi come la dignità umana, la sua passione per la lettura, le problematiche del calcio moderno e la figura di Maradona. Durante la conversazione viene evidenziato come si parli ancora troppo poco del percorso terapeutico intrapreso dai calciatori. Lo riferisce El País.",
+   "more": [
+    "Il benessere psicologico nel mondo del calcio professionistico è un tema sempre più centrale per la gestione dello stress e delle pressioni mediatiche a cui gli atleti sono sottoposti fin da giovanissimi, sebbene il ricorso al supporto psicologico sia stato a lungo considerato un tabù nell'ambiente sportivo."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/eps/2026-10-16/valdano-se-habla-poco-de-que-los-futbolistas-hacen-terapia.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-16T14:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z9bcb240d",
+   "sez": "cultura",
+   "titolo": "Scienza e gastronomia si incontrano alla Fondazione Champalimaud",
+   "orig": "Ciência e gastronomia, um encontro improvável na Fundação Champalimaud",
+   "lead": "Per il secondo anno consecutivo, l'iniziativa Science Kitchen ha dimostrato durante una cena come scienziati e chef condividano molto più di quanto si possa immaginare. L'evento, tenutosi presso la Fondazione Champalimaud, ha evidenziato come la curiosità, la formulazione di ipotesi e la meticolosità siano elementi comuni a entrambi i mondi. Lo riferisce Público.",
+   "more": [
+    "Il connubio tra scienza e cucina esplora le trasformazioni chimiche e fisiche degli alimenti attraverso un approccio rigoroso e metodico. Questo campo interdisciplinare unisce la creatività gastronomica alla ricerca scientifica per innovare le tecniche culinarie e comprendere i processi biologici e nutrizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/16/fugas/reportagem/ciencia-gastronomia-encontro-improvavel-fundacao-champalimaud-2191184",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-16T15:01+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z0aec56b2",
+   "sez": "economia",
+   "titolo": "Le lezioni del Nobel per l'economia: il valore della stabilità politica",
+   "orig": "Wat we kunnen leren van de Nobelprijs: de waarde van politieke rust",
+   "lead": "Le intuizioni degli economisti vincitori del Premio Nobel per l'economia offrono importanti insegnamenti, tra cui spicca l'importanza di una politica economica basata su un modello di governo credibile, trasparente e stabile. L'analisi sottolinea come la calma e la prevedibilità istituzionale rappresentino un valore fondamentale per lo sviluppo economico. Lo riferisce NRC.",
+   "more": [
+    "Il Premio Nobel per l'economia viene assegnato annualmente per contributi teorici o empirici di rilievo nella comprensione dei mercati, della crescita e delle politiche fiscali o monetarie, influenzando profondamente le decisioni macroeconomiche a livello globale."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/16/wat-we-kunnen-leren-van-de-nobelprijs-de-waarde-van-politieke-rust-a4939110",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-16T17:10+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z52352206",
+   "sez": "mondo",
+   "titolo": "Crisi dello studio nell'istruzione superiore: studenti meno partecipativi",
+   "orig": "Soms kwam er geen enkele student opdagen bij een les van de pabo in Rotterdam. Nu móéten studenten actief meedoen",
+   "lead": "Il sistema di istruzione superiore sta affrontando una crisi dello studio caratterizzata dal minor tempo dedicato dagli studenti alle attività accademiche, aule spesso semivuote e dall'uso di chatbot basati sull'intelligenza artificiale per completare i compiti. In risposta a questa situazione, documentata dai ricercatori, si richiede ora agli studenti di prendere parte attiva alle lezioni per stimolare il loro coinvolgimento diretto. Lo riferisce NRC.",
+   "more": [
+    "Le università e gli istituti superiori contemporanei affrontano sfide inedite legate alla digitalizzazione dell'apprendimento e al cambiamento delle abitudini degli studenti, spingendo i docenti a ripensare i metodi didattici tradizionali per contrastare la dispersione e l'assenteismo."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/16/soms-kwam-er-geen-enkele-student-opdagen-bij-een-les-van-de-pabo-in-rotterdam-nu-moeten-studenten-actief-meedoen-a4939015",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-16T17:06+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zb7892800",
+   "sez": "economia",
+   "titolo": "Soluzioni creative tra aziende per la congestione della rete elettrica",
+   "orig": "Omdat een (zwaardere) stroomaansluiting krijgen vaak niet lukt, trekken bedrijven samen op",
+   "lead": "La saturazione della rete elettrica rappresenta un ostacolo rilevante per le aziende che intendono procedere con l'elettrificazione, spingendo alcune realtà a collaborare per trovare soluzioni creative. A partire dalla scorsa settimana, ad esempio, l'azienda di trasporti Transdev ha iniziato a ricaricare i propri autobus presso la società di trasporto pubblico RET di Rotterdam, dimostrando uno spirito di cooperazione in cui il settore del trasporto pubblico non considera i rivali come semplici concorrenti. Lo riferisce NRC.",
+   "more": [
+    "La transizione energetica richiede infrastrutture di rete robuste per gestire la crescente domanda di energia pulita e la mobilità elettrica, rendendo necessarie soluzioni logistiche e accordi di condivisione tra operatori privati e pubblici per superare i limiti di capacità dei distributori locali."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/16/omdat-een-zwaardere-stroomaansluiting-krijgen-vaak-niet-lukt-trekken-bedrijven-samen-op-a4938765",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-16T16:30+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zc7bc281c",
+   "sez": "tech",
+   "titolo": "Competizione di hacking etico alla European Cybersecurity Challenge senza intelligenza artificiale",
+   "orig": "Een dag lang proberen ze elkaars server te hacken tijdens de European Cybersecurity Challenge – maar dan zonder AI",
+   "lead": "Più di 400 giovani hacker di talento partecipano alla dodicesima edizione della European Cybersecurity Challenge, una competizione finanziata dall'Unione Europea a Bochum per testare le capacità di difesa e attacco informatico sui server. L'evento si inserisce in un contesto segnato da una recente ondata di cyberattacchi che spesso sfruttano l'intelligenza artificiale, sebbene quest'ultima sia rigorosamente vietata all'interno della competizione stessa. Lo riferisce NRC.",
+   "more": [
+    "Le competizioni internazionali di sicurezza informatica riuniscono giovani talenti per simulare attacchi e difese su infrastrutture di rete, favorendo lo sviluppo di competenze specialistiche necessarie a proteggere enti pubblici e privati dalle minacce digitali moderne."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/16/een-dag-lang-proberen-ze-elkaars-server-te-hacken-tijdens-de-european-cybersecurity-challenge-maar-dan-zonder-ai-a4939023",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-16T16:23+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zd37566b3",
+   "sez": "mondo",
+   "titolo": "La svolta culturale nella ginnastica secondo Aimee Boorman",
+   "orig": "Turncoach van Simone Biles en het Nederlands team: &#8216;Er is een cultuuromslag gaande in de turnwereld, maar fundamenteel zit er nog veel fout'",
+   "lead": "Aimee Boorman, nota per essere stata per anni l'allenatrice di Simone Biles e successivamente ingaggiata per guidare la squadra nazionale dei Paesi Bassi durante una fase di profonda crisi legata a denunce di comportamenti inappropriati, sottolinea come sia in atto un cambiamento culturale nel mondo della ginnastica, pur evidenziando che persistono ancora diverse criticità fondamentali. Attualmente di ritorno nei Paesi Bassi in occasione dei Campionati Mondiali di ginnastica artistica a Rotterdam, l'allenatrice ribadisce che il suo obiettivo principale non sono le medaglie, bensì la serenità e il benessere delle atlete. Lo riferisce NRC.",
+   "more": [
+    "Il mondo della ginnastica artistica internazionale è stato interessato da inchieste e denunce relative a metodi di allenamento abusivi e pressioni psicologiche estreme esercitate sui giovani atleti, spingendo le federazioni a riformare i codici di condotta e a promuovere ambienti sportivi più sicuri."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/16/turncoach-van-simone-biles-en-het-nederlands-team-er-is-een-cultuuromslag-gaande-in-de-turnwereld-maar-fundamenteel-zit-er-nog-veel-fout-a4938944",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-16T16:17+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z5dcb2040",
+   "sez": "cucina",
+   "titolo": "La guida di Veggilaine per un'alimentazione sana e bilanciata",
+   "orig": "Veggilaine pleit voor gezond eten, maar een wit bolletje met Snickers mag ook. &#8216;Niemand wordt vijf kilo zwaarder van één koekje'",
+   "lead": "La nota food influencer olandese Ghislaine Voogd, conosciuta come Veggilaine, presenta nel suo secondo libro di ricette stagionali una cucina incentrata sulle verdure al loro meglio, senza tuttavia demonizzare piccoli sfizi come un panino bianco con una barretta di cioccolato. L'autrice sostiene l'importanza di mantenere un buon equilibrio alimentare, ricordando che concedersi occasionalmente uno snack non compromette la salute o il peso corporeo. Lo riferisce NRC.",
+   "more": [
+    "La divulgazione gastronomica digitale moderna valorizza spesso la stagionalità e l'uso di ingredienti vegetali freschi, promuovendo un approccio flessibile e sostenibile al cibo che rifiuta i regimi dietetici eccessivamente rigidi in favore del benessere psicofisico."
+   ],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/16/veggilaine-pleit-voor-gezond-eten-maar-een-wit-bolletje-met-snickers-mag-ook-niemand-wordt-vijf-kilo-zwaarder-van-een-koekje-a4937371",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-16T16:10+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zc507c360",
+   "sez": "mondo",
+   "titolo": "Cresce la passione per la raccolta dei funghi in Svizzera ma diminuiscono i centri di controllo",
+   "orig": "Immer mehr Menschen begeistern sich fürs «Pilzeln». Doch in der Schweiz verschwinden die Kontrollstellen zunehmend",
+   "lead": "Ogni autunno in Svizzera vengono raccolte diverse tonnellate di funghi, sebbene solo una parte di essi risulti commestibile. Nonostante l'interesse della popolazione per questa attività continui a crescere, i centri di controllo specializzati sul territorio svizzero stanno progressivamente scomparendo. Lo riferisce NZZ.",
+   "more": [
+    "La raccolta amatoriale di funghi selvatici richiede competenze specifiche per distinguere le specie edule da quelle tossiche o letali, motivo per cui storicamente molte comunità locali offrivano servizi di consulenza gratuita affidati a esperti micologi."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/panorama/die-pilzkontrolle-soll-in-der-schweiz-vor-vergiftungen-schuetzen-ld.10031591",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-16T15:14+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z58c39a8f",
+   "sez": "sport",
+   "titolo": "I Grasshoppers affrontano il FC Grenchen in Coppa Svizzera",
+   "orig": "Auf die Grasshoppers wartet in Grenchen eine Zeitreise – und ein Rendez-vous mit dem einstigen Meistertrainer «Bidu» Zaugg",
+   "lead": "In occasione dei sedicesimi di finale della Coppa Svizzera, il Grasshopper Club Zurigo si prepara ad affrontare l'FC Grenchen in una trasferta che sa di viaggio nel tempo. La squadra avversaria, vincitrice della coppa nel 1959, attraversa un periodo di profondo declino ma può contare sulla presenza di un direttore tecnico d'eccezione, il settantatreenne ex allenatore campione Bidu Zaugg, che conserva intatta la sua passione per il calcio. Lo riferisce NZZ.",
+   "more": [
+    "La Coppa Svizzera di calcio è una competizione storica in cui club delle leghe professionistiche affrontano formazioni delle categorie inferiori, offrendo spesso l'occasione a storiche società del passato di ritornare sotto i riflettori del calcio nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/sport/fussball/auf-die-grasshoppers-wartet-in-grenchen-eine-zeitreise-und-ein-rendez-vous-mit-dem-einstigen-meistertrainer-hans-peter-bidu-zaugg-ld.10034367",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-16T14:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zc4327c1f",
+   "sez": "mondo",
+   "titolo": "Aumentano gli attacchi iraniani nello Stretto di Hormuz mentre Stati Uniti e Teheran si preparano al conflitto",
+   "orig": "Mehr iranische Angriffe in der Strasse von Hormuz: Teheran und die USA rüsten für eine neue Runde des Kriegs",
+   "lead": "Gli Stati Uniti riducono il volume di petrolio greggio trasportato attraverso lo Stretto di Hormuz, mentre nella regione cresce il timore che Teheran e Washington possano imminentemente dare il via a una nuova serie di pesanti bombardamenti. L'aumento degli attacchi iraniani nella strategica via marittima alimenta le tensioni geopolitiche, i cui effetti potenziali sul mercato energetico globale sarebbero devastanti. Lo riferisce NZZ.",
+   "more": [
+    "Lo Stretto di Hormuz rappresenta una delle rotte marittime più critiche al mondo per il transito delle petroliere e il commercio globale di energia, rendendo quest'area geografica un punto nevralgico di frizione geopolitica tra le potenze occidentali e l'Iran."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/iran-beschiesst-mehr-schiffe-in-hormuz-ein-neuer-krieg-wird-wahrscheinlicher-ld.10035596",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-16T13:53+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z12b7448f",
+   "sez": "salute",
+   "titolo": "Incertezza sulla copertura della profilassi HIV PrEP da parte delle casse malati in Svizzera",
+   "orig": "Der Bund lanciert die Love-Life-Kampagne für Safer Sex. Doch ob die Krankenkassen die HIV-Schutzpille PrEP für schwule Männer weiter bezahlen, ist ungewiss",
+   "lead": "Il governo federale svizzero ha lanciato la campagna 'Love Life' dedicata alla promozione del sesso sicuro, ma rimane incerto se le compagnie di assicurazione sanitaria continueranno a coprire i costi della pillola preventiva anti-HIV PrEP destinata agli uomini omosessuali. Attualmente le casse malati rimborsano la profilassi in via temporanea fino alla fine dell'anno, in attesa della decisione definitiva delle autorità federali mentre le associazioni di categoria tracciano un bilancio della situazione. Lo riferisce NZZ.",
+   "more": [
+    "La profilassi pre-esposizione (PrEP) consiste nell'assunzione di farmaci antiretrovirali da parte di persone sieronegative ad alto rischio di contrarre il virus dell'HIV, rappresentando uno strumento fondamentale nella prevenzione della trasmissione sessuale e nelle politiche sanitarie pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/der-bund-lanciert-die-love-life-kampagne-fuer-safer-sex-doch-ob-die-krankenkassen-die-hiv-schutzpille-prep-fuer-schwule-maenner-weiter-bezahlen-ist-ungewiss-ld.10034689",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-16T13:44+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z83bf12f0",
+   "sez": "mondo",
+   "titolo": "Preoccupazioni in Europa per il conflitto di Kiev con Trump e il rischio di collasso dell'Ucraina",
+   "orig": "Kyjiws Streit mit Trump: In Europa geht die Sorge vor dem Zusammenbruch der Ukraine um",
+   "lead": "I capi di governo dell'Unione Europea ribadiscono il loro pieno sostegno all'Ucraina nella difesa contro la Russia, sebbene le modalità di finanziamento di tale supporto rimangano per il momento irrisolte. In Europa serpeggia intanto la preoccupazione per un possibile collasso di Kiev sullo sfondo delle tensioni politiche con Donald Trump. Lo riferisce Der Standard.",
+   "more": [
+    "Il sostegno finanziario e militare a lungo termine all'Ucraina da parte dei Paesi occidentali e dell'Unione Europea richiede ingenti risorse economiche e un coordinamento strategico complesso, reso ancor più delicato dai mutamenti degli equilibri politici negli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344558/kyjiws-streit-mit-trump-in-europa-geht-die-sorge-vor-dem-zusammenbruch-der-ukraine-um?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-16T14:22+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zd19f49d3",
+   "sez": "mondo",
+   "titolo": "Le responsabilità dell'Europa nella difesa dell'Ucraina dopo la svolta di Trump",
+   "orig": "Trump hat die Ukraine verraten – nun ist Europa gefordert",
+   "lead": "Da tempo si sottolinea la necessità che l'Europa si attivi autonomamente per garantire la difesa dell'Ucraina, un obiettivo che finora è stato spesso ostacolato da egoismi e particolarismi nazionali. Di fronte alla presa di posizione di Donald Trump nei confronti di Kiev, le istituzioni e i governi europei si trovano ora chiamati a colmare il vuoto strategico. Lo riferisce Der Standard.",
+   "more": [
+    "La politica di difesa comune dell'Unione Europea rappresenta storicamente un dossier complesso a causa delle divergenze tra le priorità strategiche dei singoli Stati membri e della tradizionale dipendenza dalle strutture di sicurezza della NATO."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344583/trump-hat-die-ukraine-verraten-nun-ist-europa-gefordert?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-16T13:49+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zadb7b473",
+   "sez": "mondo",
+   "titolo": "La strategia di Sabine Sagaerth alla guida del gruppo surgelati Ardo",
+   "orig": "Eiskalte Tiefkühl-Strategin mit Faible für Rahmspinat: Ardo-Chefin Sabine Sagaerth",
+   "lead": "La manager belga Sabine Sagaerth è alla guida del gruppo industriale di prodotti surgelati Ardo, una multinazionale che in Austria sta facendo discutere a causa di decisioni aziendali che non rientrano più nella nuova strategia commerciale della dirigente, la quale punta a una riorganizzazione delle attività produttive e logistiche. Lo riferisce Der Standard.",
+   "more": [
+    "Il settore della produzione e della distribuzione alimentare surgelata richiede una logistica complessa e una gestione efficiente degli impianti produttivi territoriali per rispondere alle fluttuazioni della domanda europea e mantenere la competitività sui mercati internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344567/eiskalte-tiefkuehl-strategin-mit-faible-fuer-rahmspinat-ardo-chefin-sabine-sagaerth?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-16T14:28+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z93615494",
+   "sez": "mondo",
+   "titolo": "Le previsioni di Elon Musk, dai progetti per Marte al Tesla Roadster",
+   "orig": "Vom Roadster bis zum Mars: Ein Einblick in die krude Zeitrechnung des Elon Musk",
+   "lead": "Il miliardario Elon Musk formula abitualmente previsioni a lungo termine su svariati fronti tecnologici, dalle missioni spaziali verso Marte fino al recente progetto del Tesla Roadster. L'articolo ripercorre due decenni di annunci e stime formulate dall'uomo più ricco del mondo, evidenziando come le sue scadenze temporali debbano essere prese con cautela. Lo riferisce Der Standard.",
+   "more": [
+    "Le aziende guidate da Elon Musk, come SpaceX e Tesla, hanno rivoluzionato rispettivamente l'industria aerospaziale e quella dei veicoli elettrici, pur caratterizzandosi spesso per tempistiche di sviluppo e lanci commerciali che subiscono ripetuti rinvii rispetto agli annunci iniziali."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344528/vom-roadster-bis-zum-mars-ein-einblick-in-die-krude-zeitrechnung-des-elon-musk?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-16T15:10+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za713f53c",
+   "sez": "mondo",
+   "titolo": "Proteste in Azerbaigian per il divieto del velo islamico nelle scuole",
+   "orig": "Slöjförbud i skolan väcker protester i Azerbajdzjan",
+   "lead": "Nuove regole introdotte nelle scuole dell'Azerbaigian impongono che l'abbigliamento degli studenti sia conforme al carattere laico dell'insegnamento, portando al divieto di indossare il velo islamico all'interno degli istituti. La misura ha provocato il blocco di studentesse e insegnanti ai cancelli scolastici e ha scatenato proteste nel Paese. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "La regolamentazione dell'abbigliamento religioso negli istituti scolastici pubblici rappresenta un tema delicato nei Paesi a maggioranza musulmana caratterizzati da una forte tradizione statale laica, generando tensioni tra le norme statali e la libertà di espressione religiosa."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/slojforbud-i-skolan-vacker-protester-i-azerbajdzjan/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-16T17:15+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zf63ee187",
+   "sez": "cultura",
+   "titolo": "Il film storico 'Palestina 36' della regista Annemarie Jacir",
+   "orig": "Schablonmässiga ”Palestina 36” går inte på djupet",
+   "lead": "La regista palestinese Annemarie Jacir riunisce un cast internazionale che include Jeremy Irons e Hiam Abbass per realizzare un dramma in costume ambientato nel decennio che precedette la divisione della Palestina in uno Stato ebraico e uno arabo. Secondo la critica, sebbene l'opera contenga scene affascinanti e sorprendenti, il risultato complessivo non convince pienamente a causa di una rappresentazione poco approfondita. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "Il cinema storico che affronta le vicende del Medio Oriente nel periodo precedente alla fondazione dello Stato di Israele utilizza spesso la narrazione drammatica per esplorare le radici di un conflitto complesso e radicato nelle dinamiche geopolitiche del Novecento."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/kultur/schablonmassiga-palestina-36-gar-inte-pa-djupet/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-16T17:00+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zfb1e666c",
+   "sez": "mondo",
+   "titolo": "Hanna Stjärne lascia la presidenza della Fondazione Nobel Center",
+   "orig": "Hanna Stjärne lämnar Stiftelsen Nobel Center efter krav från styrelsen",
+   "lead": "Il progetto multimiliardario del Nobel Center a Stoccolma affronta ritardi e tensioni interne a circa un anno dall'avvio dei cantieri. La situazione critica emersa durante l'autunno ha spinto il consiglio di amministrazione della fondazione a pretendere le dimissioni della presidente Hanna Stjärne, incarico che la dirigente ha di fatto abbandonato secondo la documentazione esaminata dalla testata svedese. Lo riferisce Dagens Nyheter.",
+   "more": [
+    "La realizzazione di grandi opere architettoniche e culturali destinate a ospitare istituzioni di rilievo internazionale incontra spesso ostacoli amministrativi, finanziari e di governance che possono causare frizioni prolungate all'interno dei consigli direttivi."
+   ],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/kultur/hanna-stjarne-lamnar-stiftelsen-nobel-center-efter-krav-fran-styrelsen/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-16T16:57+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z333550f1",
+   "sez": "mondo",
+   "titolo": "Il sorriso e il silenzio di Volodymyr Zelensky sulla presunta accusa di Donald Trump",
+   "orig": "\"Kozioł ofiarny\" Trumpa? Kilkanaście sekund ciszy i uśmiech Wołodymyra Zełenskiego",
+   "lead": "Durante una conferenza stampa a Bruxelles, al presidente ucraino Volodymyr Zelensky è stato chiesto se si consideri il capro espiatorio di cui Donald Trump si serve per giustificare i propri problemi. La sua reazione è consistita in una decina di secondi di silenzio accompagnati da un sorriso che ha divertito i presenti in sala. Lo riferisce TVN24.",
+   "more": [
+    "Il capo di Stato ucraino gestisce regolarmente la comunicazione internazionale affrontando interrogativi complessi sulle relazioni diplomatiche e sulle dinamiche politiche interne agli Stati Uniti, in particolare per quanto riguarda il sostegno militare ed economico al Paese in guerra."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/swiat/wolodymyr-zelenski-i-pytanie-o-kozla-ofiarnego-donalda-trumpa-cisza-i-usmiech-prezydenta-ukrainy-st9291241?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-16T15:09+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zccf45897",
+   "sez": "ambiente",
+   "titolo": "Emergenza siccità in Gran Bretagna: riserve d'acqua in calo nel sud",
+   "orig": "Susza w Wielkiej Brytanii. W zbiornikach retencyjnych na południu brakuje wody",
+   "lead": "La Gran Bretagna sta affrontando una grave fase di siccità che sta colpendo duramente la regione meridionale del Paese. Nei serbatoi di raccolta e nei bacini idrici locali, il livello delle risorse idriche è sceso al di sotto della soglia del venti per cento. Di fronte a questa criticità, le autorità competenti hanno avviato interventi mirati per ripristinare le scorte d'acqua. Lo riferisce TVN24.",
+   "more": [
+    "I bacini retentivi sono infrastrutture artificiali o naturali fondamentali per la gestione e la conservazione delle risorse idriche, progettate per accumulare l'acqua piovana o fluviale e rilasciarla gradualmente durante i periodi di scarsa piovosità e maggiore fabbisogno."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/tvnmeteo/swiat/susza-w-wielkiej-brytanii-w-zbiornikach-retencyjnych-na-poludniu-brakuje-wody-st9291172?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-16T15:09+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z8d3e35b1",
+   "sez": "cultura",
+   "titolo": "Addio a Barbara Gawryluk, traduttrice e scrittrice polacca",
+   "orig": "Nie żyje Barbara Gawryluk. \"Ogromna strata dla kultury polskiej i szwedzkiej\"",
+   "lead": "Nel corso della sua carriera ha pubblicato numerosi libri dedicati ai lettori più giovani e curato importanti traduzioni letterarie. L'ambasciata svedese ha espresso il proprio cordoglio definendo la scomparsa una perdita gravissima per il panorama culturale. Lo riferisce TVN24.",
+   "more": [
+    "La traduzione letteraria costituisce un ponte fondamentale tra culture diverse, permettendo la diffusione di opere narrative e saggistiche oltre i confini linguistici d'origine e arricchendo il patrimonio culturale dei Paesi di destinazione."
+   ],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/kultura-i-styl/barbara-gawryluk-nie-zyje-pisarka-tlumaczka-literatury-szwedzkiej-i-dziennikarka-zmarla-w-wieku-69-lat-st9291234?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-16T14:55+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z82b44b1c",
+   "sez": "salute",
+   "titolo": "Purging, breakout ed effetto rebound: cosa sono e come curarli nello skincare",
+   "orig": "Entenda o que é 'purging', 'breakout' e efeito rebote e como tratar",
+   "lead": "L'applicazione di un nuovo prodotto per la cura della pelle può talvolta provocare la comparsa improvvisa di imperfezioni e brufoli sul viso. Questa specifica reazione cutanea viene comunemente classificata come purging oppure come breakout, richiedendo trattamenti adeguati per ripristinare il benessere della pelle. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Lo skincare comprende l'insieme delle pratiche quotidiane e dei prodotti dermatologici utilizzati per la pulizia, l'idratazione e la protezione della pelle, con l'obiettivo di preservarne la barriera cutanea e prevenire disturbi o inestetismi."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/primeira-pele/2026/10/entenda-o-que-e-purging-breakout-e-efeito-rebote-e-como-tratar.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-16T12:00-03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zf038f9f2",
+   "sez": "spazio",
+   "titolo": "Haven-1: la prima stazione spaziale commerciale che potrebbe portare un brasiliano in orbita",
+   "orig": "Por dentro da Haven-1, a primeira estação espacial comercial que pode levar brasileiro ao espaço; VÍDEO",
+   "lead": "Nel corso del 2027 è prevista l'operatività di Haven-1, la prima stazione spaziale interamente commerciale destinata ad accogliere astronauti per soggiorni di lavoro, pernottamento e ricerca scientifica indipendenti dai governi. Tra gli scienziati selezionati per la missione figura il neurobrasiliano Alysson Muotri, docente presso l'Università della California a San Diego, il quale intende portare in orbita strutture di minicervelli umani per studiare l'Alzheimer. Lo riferisce G1.",
+   "more": [
+    "Le stazioni spaziali commerciali rappresentano una nuova frontiera nell'esplorazione e nella ricerca in microgravità, aperte alla collaborazione tra istituti di ricerca privati e università internazionali per lo studio di patologie complesse."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/ciencia/noticia/2026/10/16/por-dentro-da-haven-1-a-primeira-estacao-espacial-comercial-que-pode-levar-brasileiro-ao-espaco-video.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-16T15:10+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "za486aa0c",
+   "sez": "mondo",
+   "titolo": "Elezioni di midterm negli Stati Uniti: i democratici superano i repubblicani nella raccolta fondi",
+   "orig": "Midterms nos EUA: democratas superam republicanos na arrecadação de fundos",
+   "lead": "In vista delle imminenti elezioni di midterm per il rinnovo della Camera dei rappresentanti negli Stati Uniti, i candidati del Partito Democratico hanno registrato un vantaggio economico considerevole rispetto ai rivali repubblicani nella raccolta fondi per le campagne elettorali. Tale divario persiste nonostante il consistente sostegno finanziario erogato dal magnate Elon Musk a favore dello schieramento repubblicano. Lo riferisce G1.",
+   "more": [
+    "Le elezioni di midterm si tengono a metà del mandato presidenziale negli Stati Uniti e servono a rinnovare l'intero Congresso, costituendo un indicatore cruciale del consenso politico verso l'amministrazione in carica."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/mundo/noticia/2026/10/16/midterms-nos-eua-democratas-superam-republicanos-na-arrecadacao-de-fundos.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-16T15:06+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z18841aa3",
+   "sez": "cucina",
+   "titolo": "Come rimuovere il calcare e i depositi bianchi dal bollitore elettrico",
+   "orig": "Cómo sacar el sarro de la pava eléctrica y eliminar los depósitos blancos",
+   "lead": "La frequenza di utilizzo e la durezza dell'acqua impiegata influiscono sulla velocità con cui si accumula il calcare all'interno dei bollitori elettrici. La pulizia e la rimozione di questi depositi minerali bianchi possono essere effettuate facilmente utilizzando ingredienti di uso comune comunemente presenti in cucina. Lo riferisce Clarín.",
+   "more": [
+    "Il calcare è costituito principalmente da carbonato di calcio e magnesio, minerali che si precipitano e si solidificano quando l'acqua viene riscaldata ripetutamente all'interno di piccoli elettrodomestici da cucina."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/informacion-general/sacar-sarro-pava-electrica-eliminar-depositos-blancos_0_ar2kiPpib7.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T14:55+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z10b2a0f5",
+   "sez": "mondo",
+   "titolo": "Giornalista statunitense picchiata da coloni nella Cisgiordania occupata",
+   "orig": "Colonos dan una paliza a una periodista de EEUU en Cisjordania ocupada",
+   "lead": "Una fotoreporter americana è stata aggredita e picchiata da alcuni coloni in Cisgiordania mentre documentava le violenze contro i contadini impegnati nella raccolta delle olive. L'episodio è stato confermato dall'esercito israeliano, mentre le autorità degli Stati Uniti seguono da vicino l'evoluzione della situazione alla luce della crescente tensione nella regione. Lo riferisce Clarín.",
+   "more": [
+    "La Cisgiordania è un territorio palestinese occupato caratterizzato da frequenti attriti e tensioni legate alla presenza di insediamenti israeliani e alle attività agricole locali durante i periodi di raccolto."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/colonos-dan-una-paliza-a-una-periodista-de-eeuu-en-cisjordania-ocupada_0_gsOw6dhksb.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T14:50+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "ze691d269",
+   "sez": "ambiente",
+   "titolo": "La piena dei fiumi in Brasile mette in allerta diciassette porti del Litoral",
+   "orig": "El agua sigue bajando desde Brasil y ya pone en alerta a 17 puertos del Litoral",
+   "lead": "L'aumento dei flussi d'acqua provenienti dal Brasile continua a far salire i livelli dei fiumi Paranà e Uruguay, spingendo la piena verso il settore meridionale. Secondo gli ultimi dati ufficiali registrati, otto porti hanno superato la soglia di evacuazione mentre altri nove rimangono in stato di allerta. Lo riferisce La Nación.",
+   "more": [
+    "I sistemi fluviali sudamericani sono soggetti a variazioni stagionali di portata che, in presenza di abbondanti precipitazioni a monte, possono causare esondazioni e criticità lungo le rotte di navigazione commerciale."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/sociedad/el-agua-sigue-bajando-desde-brasil-y-ya-pone-en-alerta-a-17-puertos-del-litoral-nid16102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T15:20+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "ze35f2e09",
+   "sez": "salute",
+   "titolo": "Cinque abitudini quotidiane contro l'insonnia consigliate dallo psichiatra Fernando Mora",
+   "orig": "Fernando Mora, psiquiatra, sobre el insomnio: “Estos 5 hábitos de vida son mucho más efectivos que la medicación”",
+   "lead": "Per contrastare i problemi di insonnia in modo più efficace rispetto all'uso dei farmaci, lo psichiatra Fernando Mora suggerisce di adottare cinque specifiche abitudini di vita. Tra i consigli rientrano la limitazione dell'uso di schermi digitali, la riduzione del consumo di caffeina e alcol, il miglioramento della routine serale e la valutazione tempestiva del parere medico. Lo riferisce La Nación.",
+   "more": [
+    "L'igiene del sonno comprende l'insieme dei comportamenti quotidiani e ambientali raccomandati per favorire un riposo notturno regolare e prevenire i disturbi cronici del sonno."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/lifestyle/fernando-mora-psiquiatra-sobre-el-insomnio-estos-5-habitos-de-vida-son-mucho-mas-efectivos-que-la-nid16102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-16T15:14+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "zd475a4a4",
+   "sez": "economia",
+   "titolo": "Piccole e medie imprese in Cile segnalano costi del lavoro in aumento ma mantengono l'occupazione",
+   "orig": "Encuesta: pymes reportan fuerte alza en los costos laborales, pero logran contener el empleo",
+   "lead": "Secondo i dati del Termómetro Pyme elaborato da Propyme e defendadeudores.cl, le micro, piccole e medie imprese cilene affrontano una forte crescita dei costi lavorativi. Nonostante questo aggravio economico, la quota di aziende che ha proceduto a licenziamenti negli ultimi trenta giorni è scesa al ventinove percento nel mese di ottobre, registrando un calo di sette punti rispetto a settembre. Lo riferisce La Tercera.",
+   "more": [
+    "Le piccole e medie imprese rappresentano il pilastro principale dell'occupazione e della stabilità economica in molti Paesi latinoamericani, affrontando costantemente le sfide legate all'inflazione e ai costi di gestione."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/encuesta-pymes-reportan-fuerte-alza-en-los-costos-laborales-pero-logran-contener-el-empleo/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-16T15:04+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z28e48b93",
+   "sez": "mondo",
+   "titolo": "Accordo tra Spagna e Italia per rimuovere i controlli di frontiera Schengen, mentre persiste la crisi a Ceuta",
+   "orig": "España e Italia anuncian acuerdo para levantar los controles fronterizos mutuos en el espacio Schengen, mientras persiste la crisis en Ceuta",
+   "lead": "La Spagna e l'Italia hanno annunciato un'intesa bilaterale finalizzata alla rimozione dei controlli di frontiera reciproci all'interno dello spazio Schengen. La decisione si inserisce in un contesto politico complesso, segnato dalla recente e massiccia entrata di migranti provenienti dal Marocco attraverso l'enclave spagnola di Ceuta, che ha aperto una profonda crisi politica per il governo guidato da Pedro Sánchez. Lo riferisce El Tiempo.",
+   "more": [
+    "Lo spazio Schengen garantisce la libera circolazione delle persone senza controlli sistematici alle frontiere interne tra i Paesi aderenti dell'Unione Europea, pur consentendo misure straordinarie in caso di emergenze migratorie o di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/europa/espana-e-italia-anuncian-acuerdo-para-levantar-los-controles-fronterizos-mutuos-en-el-espacio-schengen-mientras-persiste-la-crisis-en-ceuta-3594028",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-16T10:06-05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z5bb871ce",
+   "sez": "mondo",
+   "titolo": "Ritrovamento fortuito di una statua monumentale del faraone Ramsés II in Egitto",
+   "orig": "Hombre descubre por accidente una estatua monumental del faraón Ramsés II en el terreno de su casa en Egipto",
+   "lead": "Durante i lavori in un terreno privato, un cittadino egiziano ha scoperto per caso i resti di un'antica statua monumentale raffigurante il faraone Ramsés II. Gli archeologi intervenuti sul posto hanno successivamente dissotterrato un torso alto due metri e quaranta centimetri con il tipico copricapo nemes, oltre a blocchi di granito recanti iscrizioni geroglifiche che riportano appellativi come «Figlio di Ra». Lo riferisce El Tiempo.",
+   "more": [
+    "Ramsés II, noto anche come Ramsés il Grande, fu uno dei faraoni più potenti e longevi della XIX dinastia egizia, celebrato per le sue imponenti realizzazioni architettoniche e le campagne militari."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/africa/hombre-descubre-por-accidente-una-estatua-monumental-del-faraon-ramses-ii-en-el-terreno-de-su-casa-en-egipto-3593977",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-16T07:51-05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z4328e997",
+   "sez": "ambiente",
+   "titolo": "Lampi rossi nel cielo della Francia meridionale durante un temporale: cosa sono i red sprites",
+   "orig": "Relámpagos rojos cubrieron el cielo de Francia en medio de una tormenta: ¿qué son los red sprites y por qué los asocian con desastres naturales?",
+   "lead": "Il fotografo Yohan Laurito ha immortalato due rari fenomeni luminosi noti come red sprites, comparsi nel cielo della Francia meridionale nel corso di un intenso temporale. Tali manifestazioni elettriche ad alta quota vengono spesso associate visivamente a eventi meteorologici estremi e calamità naturali. Lo riferisce El Tiempo.",
+   "more": [
+    "I red sprites o folletti rossi sono scariche elettriche su larga scala che si verificano nella mesosfera, molto al di sopra dei normali temporali troposferici, assumendo caratteristiche colorazioni rossastre."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/europa/relampagos-rojos-cubrieron-el-cielo-de-francia-en-medio-de-una-tormenta-que-son-los-red-sprites-y-por-que-los-asocian-con-desastres-naturales-3593958",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-16T07:08-05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z06c3caf9",
+   "sez": "economia",
+   "titolo": "Il governo peruviano presenta la nuova legge MAPE per la piccola miniera e la miniera artigianale",
+   "orig": "Proyecto de Ley MAPE del gobierno propone que plantas de beneficio sean fiscalizadas ¿que otras medidas incluye?",
+   "lead": "A pochi mesi dalla conclusione del termine fissato per il Reinfo, il governo peruviano si appresta a presentare al Congresso bicameral la nuova proposta per la Legge della Piccola Miniera e Miniera Artigianale, nota come Ley MAPE. Elaborato dal Ministero dell'Energia e delle Miniere, il testo prevede la fiscalizzazione diretta degli impianti di lavorazione e l'estensione del termine di formalizzazione di diciotto mesi. Lo riferisce El Comercio.",
+   "more": [
+    "La formalizzazione mineraria nei Paesi andini rappresenta un processo normativo complesso volto a integrare l'estrazione mineraria artigianale nei circuiti legali, ambientali e fiscali controllati dallo Stato."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/politica/gobierno/el-proyecto-de-ley-mape-del-gobierno-desde-la-fiscalizacion-a-las-plantas-al-ingreso-de-mineros-informales-al-sistema-bancario-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-16T15:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
+   "id": "z334287ef",
+   "sez": "mondo",
+   "titolo": "Delegazione dell'opposizione venezuelana incontra le ONG per discutere di diritti civili nel dialogo con il chavismo",
+   "orig": "Delegación opositora evaluó con ONG derechos civiles en el marco de diálogo con chavismo",
+   "lead": "Una delegazione di rappresentanti dell'opposizione venezuelana ha tenuto un incontro con diverse organizzazioni non governative per esaminare la situazione dei diritti civili nel contesto del processo di dialogo con il governo. All'incontro hanno partecipato esponenti di spicco di numerose realtà associative e per la difesa dei diritti umani nel Paese. Lo riferisce El Nacional.",
+   "more": [
+    "I tavoli di dialogo politico in Venezuela coinvolgono spesso la società civile e le organizzazioni non governative per monitorare il rispetto delle garanzie democratiche e dei diritti fondamentali."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/delegacion-opositora-evaluo-con-ong-derechos-civiles-en-el-marco-de-dialogo-con-chavismo/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-16T15:05+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:53",
+   "uscita": "17"
+  },
+  {
    "id": "z1c9392a2",
    "sez": "mondo",
    "titolo": "Il presidente dell'Ordine degli avvocati di Belgrado sui provvedimenti di clemenza e sul segreto dei nomi",
@@ -1021,6 +2533,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-16T16:04+02:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/mobilitaet/auto/tesla-roadster-fliegt-durch-die-luft-elon-musk-hat-die-bodenhaftung-verloren-buchstaeblich-a-ed7a0234-7b5c-4c95-8744-5e4575995ecb#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T16:47+02:00"
     }
    ],
    "data": "16 ott",
@@ -26584,7 +28105,70 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z209fbf7f": "La testata evidenzia la valenza simbolica e i rapporti storici tra la comunità curda e la Santa Sede.",
   "zd063eacd": "La testata pone l'accento sull'introduzione di regole a tutela dei consumatori e sulla formalizzazione del settore dei servizi di sosta.",
   "zfba9571c": "La testata evidenzia la severità delle nuove sanzioni introdotte dal legislatore uzbeko per proteggere le prerogative legali.",
-  "z78f86df7": "La testata evidenzia gli obiettivi di transizione ecologica e di incremento della capacità produttiva energetica fissati per il decennio."
+  "z78f86df7": "La testata evidenzia gli obiettivi di transizione ecologica e di incremento della capacità produttiva energetica fissati per il decennio.",
+  "z1cb0c038": "La testata NOW Grenada evidenzia il traguardo accademico e le ricadute positive della specializzazione per lo sviluppo delle infrastrutture nazionali.",
+  "z1d5fb994": "NOW Grenada pone l'accento sulla rilevanza strategica di dati statistici accurati per la gestione delle emergenze e la pianificazione amministrativa.",
+  "ze60e1d7e": "La testata mette in luce la necessità di coniugare innovazione tecnologica, politiche mirate e investimenti costanti per affrontare le sfide alimentari.",
+  "z37c9a4b0": "La testata indipendente focalizza l'attenzione sulle riforme burocratiche digitali introdotte per facilitare le pratiche dei cittadini diretti all'estero.",
+  "za93ca3c1": "Radio Ndeke Luka evidenzia la severità dell'intervento ministeriale di fronte al deterioramento degli standard assistenziali e alla gestione delle emergenze sanitarie.",
+  "zf9c5ee48": "L'emittente sottolinea il fronte comune e trasversale che si è formato nella società per chiedere la liberazione degli attivisti arrestati.",
+  "z489e8459": "La testata honduregna valorizza l'evoluzione storica dei trasporti aerei come elemento chiave dell'identità infrastrutturale del paese centroamericano.",
+  "z0644dc21": "Brújula Digital pone l'accento sull'arrivo ufficiale e sull'ampiezza dell'agenda diplomatica concordata tra i due capi di Stato.",
+  "z4b793f32": "La testata boliviana evidenzia la cautela istituzionale rispetto a un'effettiva e immediata distensione dei rapporti diplomatici formali.",
+  "z73d6b39e": "Brújula Digital evidenzia la mossa giudiziaria del detenuto e la richiesta formale di verifica indirizzata alle camere legislative.",
+  "z62bce806": "Le Monde analizza la strategia di radicamento politico del partito di estrema destra attraverso la difesa degli interessi legati al settore dell'auto privata.",
+  "z903c7a1b": "Le Monde sottolinea come l'episodio di violenza poliziesca abbia fatto esplodere tensioni economiche e sociali preesistenti legate alla crisi idrica e all'austerità.",
+  "z526adc76": "Le Figaro analizza la frammentazione delle posizioni dei candidati presidenziali francesi riguardo alla prosecuzione degli aiuti internazionali a Kiev.",
+  "zafd1e642": "Libération evidenzia la strategia di convergenza delle lotte studentesche con il movimento sindacale contro il carovita.",
+  "za3fff72c": "Libération focalizza l'attenzione sulla dura presa di posizione del corpo docente contro la gestione disciplinare e le autorità scolastiche.",
+  "z1805ed5c": "Der Spiegel offre una panoramica eterogenea che spazia dai problemi sanitari ed economici tedeschi ai danni ambientali registrati in territorio elvetico.",
+  "zb933e6a3": "Der Spiegel evidenzia i risultati negativi emersi dall'analisi statistica sulla rappresentanza di genere nell'industria dell'intrattenimento televisivo.",
+  "za8687ddf": "Der Spiegel sottolinea la sanzione politica inflitta al membro critico e la smentita ufficiale del partito circa le reali motivazioni del provvedimento.",
+  "z1bbe591c": "Süddeutsche Zeitung analizza le critiche e le difese relative alla misura statale di incentivazione previdenziale giovanile.",
+  "z1b46341b": "Süddeutsche Zeitung pone l'accento sulla prosecuzione dello scontro legale da parte del gestore sconfitto, intenzionato a coinvolgere la Corte costituzionale.",
+  "z26c6315a": "Süddeutsche Zeitung riflette sulle implicazioni culturali ed etiche del linguaggio politico nei confronti dei giovani professionisti.",
+  "z0f469815": "Süddeutsche Zeitung evidenzia la strategia di opposizione politica adottata dall'imputato all'interno delle aule di giustizia.",
+  "z753f8445": "Süddeutsche Zeitung collega la presentazione del nuovo veicolo futuristico alle recenti difficoltà di posizionamento pubblico del fondatore.",
+  "z7a53c2ae": "FAZ sottolinea le tensioni diplomatiche e il clima di freddezza parziale riscontrato dal presidente ucraino durante i colloqui nella capitale belga.",
+  "zc4fd074c": "FAZ propone un quadro informativo in tempo reale che unisce le dinamiche geopolitiche alle misure di ritorsione economica.",
+  "zfa06f9df": "FAZ evidenzia la linea di fermezza espressa dal rappresentante politico tedesco nei confronti della tenuta economica e militare russa.",
+  "z87b542be": "FAZ pone l'accento sulla denuncia pubblica e sull'impatto delle accuse all'interno dell'ambiente dello sport professionistico internazionale.",
+  "zb6a83f66": "La testata focalizza l'attenzione sulla riflessione personale e sull'eredità di una figura storica dell'alpinismo mondiale di fronte all'età che avanza.",
+  "z2ecc7c43": "La testata pone l'accento sulla riflessione culturale e umana legata al mondo del calcio e alle sfide psicologiche dei giocatori.",
+  "z9bcb240d": "La testata evidenzia l'insolito e stimolante dialogo tra il rigore della ricerca scientifica e la creatività dell'alta cucina.",
+  "z0aec56b2": "La testata analizza le implicazioni politiche e sistemiche derivate dai recenti riconoscimenti accademici nel campo economico.",
+  "z52352206": "La testata mette in luce le difficoltà metodologiche e di partecipazione che affliggono gli atenei e i corsi di formazione professionale.",
+  "zb7892800": "La testata evidenzia l'innovazione cooperativa tra aziende per fronteggiare i limiti infrastrutturali della rete energetica.",
+  "zc7bc281c": "La testata sottolinea l'importanza della formazione di esperti di sicurezza informatica di fronte alle crescenti minacce digitali globali.",
+  "zd37566b3": "La testata pone l'accento sulla trasformazione etica e sulla tutela del benessere degli atleti all'interno delle federazioni sportive internazionali.",
+  "z5dcb2040": "La testata focalizza l'attenzione sulla promozione di abitudini alimentari equilibrate e prive di sensi di colpa da parte di una celebre autrice di cucina.",
+  "zc507c360": "La testata evidenzia il divario crescente tra la popolarità di un'attività tradizionale e la disponibilità di strutture pubbliche di verifica della sicurezza alimentare.",
+  "z58c39a8f": "La testata racconta l'incontro calcistico evidenziando il contrasto tra il blasone storico delle società coinvolte e la realtà attuale dei campionati.",
+  "zc4327c1f": "La testata analizza l'escalation delle tensioni militari e marittime in un'area cruciale per il commercio internazionale di idrocarburi.",
+  "z12b7448f": "La testata pone l'accento sulla sostenibilità economica delle cure preventive e sulle politiche sanitarie pubbliche per la tutela delle categorie a rischio.",
+  "z83bf12f0": "La testata evidenzia i timori geopolitici europei legati alla stabilità del fronte ucraino e alle relazioni diplomatiche transatlantiche.",
+  "zd19f49d3": "La testata analizza la risposta politica e strategica del continente europeo di fronte alle dinamiche della politica estera statunitense.",
+  "zadb7b473": "La testata evidenzia le scelte manageriali e strategiche che interessano le attività di un grande gruppo alimentare in Europa.",
+  "z93615494": "La testata analizza lo stile comunicativo e la cronologia delle previsioni tecnologiche avanzate dal fondatore di Tesla e SpaceX.",
+  "za713f53c": "La testata pone l'attenzione sulle tensioni sociali e politiche derivate dall'applicazione delle norme sulla laicità scolastica.",
+  "zf63ee187": "La testata valuta l'efficacia artistica e narrativa di una produzione cinematografica internazionale dedicata a una delicata pagina storica.",
+  "zfb1e666c": "La testata rivela i retroscena istituzionali e le difficoltà gestionali che travagliano la realizzazione del nuovo polo culturale svedese.",
+  "z333550f1": "La testata polacca pone l'accento sulla reazione ironica e silenziosa del leader ucraino di fronte a una domanda diretta sui rapporti con la politica statunitense.",
+  "zccf45897": "L'emittente focalizza l'attenzione sulla drastica diminuzione delle riserve idriche nelle zone meridionali britanniche e sulle contromisure istituzionali.",
+  "z8d3e35b1": "La testata sottolinea l'ampio cordoglio istituzionale e culturale suscitato dalla scomparsa della traduttrice e autrice polacca.",
+  "z82b44b1c": "Il quotidiano brasiliano offre una guida divulgativa per comprendere e trattare le reazioni avverse della pelle ai nuovi trattamenti cosmetici.",
+  "zf038f9f2": "Il portale brasiliano evidenzia il carattere pionieristico del progetto spaziale privato e il coinvolgimento del ricercatore nazionale nella sperimentazione biomedica in orbita.",
+  "za486aa0c": "Il portale brasiliano pone l'accento sui dati ufficiali presentati alla Commissione Federale Elettorale riguardo ai finanziamenti politici statunitensi.",
+  "z18841aa3": "Il quotidiano argentino propone consigli pratici e casalinghi per la manutenzione e la pulizia degli apparecchi per la bollitura dell'acqua.",
+  "z10b2a0f5": "Il giornale argentino evidenzia l'attacco subito dalla giornalista straniera e la risposta delle autorità militari e diplomatiche.",
+  "ze691d269": "Il quotidiano argentino sottolinea la progressione della piena fluviale e l'elevato numero di porti coinvolti dalle misure di emergenza.",
+  "ze35f2e09": "Il quotidiano focalizza l'attenzione sui metodi non farmacologici per la gestione dei disturbi del sonno illustrati dallo specialista.",
+  "zd475a4a4": "Il quotidiano cileno analizza la resilienza dell'occupazione nelle pmi nonostante la pressione esercitata dall'aumento dei costi del lavoro.",
+  "z28e48b93": "Il quotidiano colombiano collega l'accordo bilaterale europeo con la difficile gestione della crisi migratoria ai confini spagnoli.",
+  "z5bb871ce": "Il giornale evidenzia l'eccezionalità del ritrovamento archeologico fortuito avvenuto in un'area residenziale privata.",
+  "z4328e997": "Il quotidiano colombiano descrive l'insolito evento atmosferico immortalato nel sud della Francia.",
+  "z06c3caf9": "Il quotidiano peruviano analizza i dettagli normativi e le misure di controllo proposte per il settore minerario artigianale.",
+  "z334287ef": "Il quotidiano venezuelano documenta il confronto tra la leadership oppositiva e le associazioni umanitarie sui temi dei diritti civili."
  },
  "contesti": {
   "z1838bc4e": "Nei giorni precedenti erano emerse le polemiche sul piano segreto di Infantino per vendere quote del Mondiale a investitori privati, poi abbandonato, e sulle critiche al premio per la pace Fifa assegnato a Trump, ritenuto eccessivamente politicizzato dai membri del consiglio.",
@@ -33855,6 +35439,460 @@ window.EDIZIONI["2026-10-16-sera"] = {
     "Uzbekistan"
    ],
    "pt": []
+  },
+  "z1cb0c038": {
+   "n": "St. George's",
+   "p": [
+    "Grenada"
+   ],
+   "pt": []
+  },
+  "z1d5fb994": {
+   "n": "St. George's",
+   "p": [
+    "Grenada"
+   ],
+   "pt": []
+  },
+  "ze60e1d7e": {
+   "n": "St. George's",
+   "p": [
+    "Grenada"
+   ],
+   "pt": []
+  },
+  "z37c9a4b0": {
+   "n": "L'Avana",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "za93ca3c1": {
+   "n": "Bangui",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "zf9c5ee48": {
+   "n": "Bangui",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z489e8459": {
+   "n": "Tegucigalpa",
+   "p": [
+    "Honduras"
+   ],
+   "pt": []
+  },
+  "z0644dc21": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia",
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z4b793f32": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia",
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z73d6b39e": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z62bce806": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z903c7a1b": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z526adc76": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zafd1e642": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "za3fff72c": {
+   "n": "Saint-Denis",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1805ed5c": {
+   "n": "Amburgo",
+   "p": [
+    "Germany",
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zb933e6a3": {
+   "n": "Amburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "za8687ddf": {
+   "n": "Amburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z1bbe591c": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z1b46341b": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z26c6315a": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z0f469815": {
+   "n": "Istanbul",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z753f8445": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7a53c2ae": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zc4fd074c": {
+   "n": "Francoforte",
+   "p": [
+    "Germany",
+    "Russia",
+    "Ukraine",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zfa06f9df": {
+   "n": "Francoforte",
+   "p": [
+    "Germany",
+    "Russia",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z87b542be": {
+   "n": "Francoforte",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zb6a83f66": {
+   "n": "Francoforte",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z2ecc7c43": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z9bcb240d": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z0aec56b2": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z52352206": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zb7892800": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zc7bc281c": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zd37566b3": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z5dcb2040": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zc507c360": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z58c39a8f": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zc4327c1f": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z12b7448f": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z83bf12f0": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zd19f49d3": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zadb7b473": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z93615494": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "za713f53c": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zf63ee187": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zfb1e666c": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z333550f1": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zccf45897": {
+   "n": "Gran Bretagna",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8d3e35b1": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z82b44b1c": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zf038f9f2": {
+   "n": "Rio de Janeiro",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "za486aa0c": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z18841aa3": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z10b2a0f5": {
+   "n": "Cisgiordania",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "ze691d269": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina",
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "ze35f2e09": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zd475a4a4": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z28e48b93": {
+   "n": "Bogotá",
+   "p": [
+    "Colombia",
+    "Spain",
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5bb871ce": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z4328e997": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z06c3caf9": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z334287ef": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -34816,7 +36854,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z80ed53c5": 1,
   "z347a5c8d": 1,
   "z9c218f06": 1,
-  "zb7104932": 1,
+  "zb7104932": 2,
   "z54fae5d8": 1,
   "ze2cdcb45": 1,
   "zdab63852": 1,
@@ -34869,7 +36907,70 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z209fbf7f": 1,
   "zd063eacd": 1,
   "zfba9571c": 1,
-  "z78f86df7": 1
+  "z78f86df7": 1,
+  "z1cb0c038": 1,
+  "z1d5fb994": 1,
+  "ze60e1d7e": 1,
+  "z37c9a4b0": 1,
+  "za93ca3c1": 1,
+  "zf9c5ee48": 1,
+  "z489e8459": 1,
+  "z0644dc21": 1,
+  "z4b793f32": 1,
+  "z73d6b39e": 1,
+  "z62bce806": 1,
+  "z903c7a1b": 1,
+  "z526adc76": 1,
+  "zafd1e642": 1,
+  "za3fff72c": 1,
+  "z1805ed5c": 1,
+  "zb933e6a3": 1,
+  "za8687ddf": 1,
+  "z1bbe591c": 1,
+  "z1b46341b": 1,
+  "z26c6315a": 1,
+  "z0f469815": 1,
+  "z753f8445": 1,
+  "z7a53c2ae": 1,
+  "zc4fd074c": 1,
+  "zfa06f9df": 1,
+  "z87b542be": 1,
+  "zb6a83f66": 1,
+  "z2ecc7c43": 1,
+  "z9bcb240d": 1,
+  "z0aec56b2": 1,
+  "z52352206": 1,
+  "zb7892800": 1,
+  "zc7bc281c": 1,
+  "zd37566b3": 1,
+  "z5dcb2040": 1,
+  "zc507c360": 1,
+  "z58c39a8f": 1,
+  "zc4327c1f": 1,
+  "z12b7448f": 1,
+  "z83bf12f0": 1,
+  "zd19f49d3": 1,
+  "zadb7b473": 1,
+  "z93615494": 1,
+  "za713f53c": 1,
+  "zf63ee187": 1,
+  "zfb1e666c": 1,
+  "z333550f1": 1,
+  "zccf45897": 1,
+  "z8d3e35b1": 1,
+  "z82b44b1c": 1,
+  "zf038f9f2": 1,
+  "za486aa0c": 1,
+  "z18841aa3": 1,
+  "z10b2a0f5": 1,
+  "ze691d269": 1,
+  "ze35f2e09": 1,
+  "zd475a4a4": 1,
+  "z28e48b93": 1,
+  "z5bb871ce": 1,
+  "z4328e997": 1,
+  "z06c3caf9": 1,
+  "z334287ef": 1
  },
  "video": {},
  "pillole": []
