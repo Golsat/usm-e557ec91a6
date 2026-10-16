@@ -3,6 +3,2315 @@ window.EDIZIONI["2026-10-16-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z1c9392a2",
+   "sez": "mondo",
+   "titolo": "Il presidente dell'Ordine degli avvocati di Belgrado sui provvedimenti di clemenza e sul segreto dei nomi",
+   "orig": "Novi dan: Predsednik AKB Vladimir Prijović o pomilovanjima i zašto se imena kriju od javnosti",
+   "lead": "A Belgrado, il presidente dell'Ordine degli avvocati di Belgrado Vladimir Prijović è intervenuto sul tema dei provvedimenti di clemenza, sottolineando che non si tratta di una questione legata a una libera o buona volontà individuale. Al contrario, secondo il rappresentante degli avvocati, costituisce un preciso diritto dei cittadini, in qualità di detentori della sovranità, conoscere l'identità delle persone graziate e le motivazioni alla base di tali decisioni. Lo riferisce N1 Serbia.",
+   "more": [
+    "L'Ordine degli avvocati rappresenta la categoria professionale forense a livello locale o nazionale, svolgendo funzioni di tutela delle norme deontologiche, di garanzia dei diritti dei cittadini e di interlocuzione con le istituzioni sulle questioni di carattere giuridico e costituzionale."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/video/novi-dan/novi-dan-predsednik-akb-vladimir-prijovic-o-pomilovanjima-i-zasto-se-imena-kriju-od-javnosti/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-16T17:00+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z92d1cff5",
+   "sez": "mondo",
+   "titolo": "Vuković: Il Partito Progressista Serbo privo di una chiara campagna elettorale, incentrata solo sulle accuse di tradimento",
+   "orig": "Vuković: Prvi put SNS nema jasnu kampanju - osim poruke da su svi sem njih izdajnici",
+   "lead": "A Belgrado, l'esponente politico Vuković ha analizzato la strategia elettorale del Partito Progressista Serbo (SNS), evidenziando come per la prima volta la campagna non presenti grandi promesse, né punti sull'identificazione visiva tra il partito e Aleksandar Vučić o su messaggi positivi. L'unica linea guida emersa sarebbe quella di dipingere tutti gli avversari politici come traditori. Lo riferisce N1 Serbia.",
+   "more": [
+    "Il Partito Progressista Serbo (SNS) è una delle principali forze politiche della scena serba contemporanea, guidata storicamente o politicamente da figure di primo piano come Aleksandar Vučić, e caratterizzata da una forte presenza nelle competizioni elettorali nazionali e locali."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/danilo-vukovic-srpska-napredna-stranka-izbori-2026-kampanja/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-16T16:57+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "ze0104895",
+   "sez": "mondo",
+   "titolo": "Istanbul colpita dalla peggiore alluvione degli ultimi ottant'anni: quattro le vittime",
+   "orig": "U najgoroj poplavi u Istanbulu za 80 godina poginule četiri osobe",
+   "lead": "A Istanbul, in Turchia, una catastrofica alluvione ha causato la morte di quattro persone. Secondo quanto dichiarato dal ministro dell'Interno turco Mustafa Çiftçi, l'evento meteorologico estremo rappresenta la peggiore inondazione registrata nella metropoli negli ultimi ottant'anni. Lo riferisce N1 Serbia.",
+   "more": [
+    "Istanbul è la metropoli più popolosa della Turchia, situata sul Bosforo e storicamente vulnerabile a eventi climatici intensi e precipitazioni improvvise che mettono a dura prova le infrastrutture urbane e i sistemi di drenaggio."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/u-najgorioj-poplavi-u-istanbulu-za-80-godina-poginule-cetiri-osobe/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-16T16:30+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z9bbfd351",
+   "sez": "mondo",
+   "titolo": "Mitingo elettorale della lista guidata da Aleksandar Vučić a Novi Sad",
+   "orig": "Gledajte UŽIVO Dan uživo: SNS miting u Novom Sadu",
+   "lead": "A Novi Sad si è tenuto il comizio elettorale della lista \"Aleksandar Vučić – Ujedinjena Srbija\", dopo almeno otto annunci relativi all'arrivo nella città serba. Si tratta del primo appuntamento di questo tipo organizzato nel centro urbano. L'evento è stato trasmesso in diretta televisiva per seguire gli sviluppi della campagna. Lo riferisce N1 Serbia.",
+   "more": [
+    "Novi Sad è la seconda città più importante della Serbia ed è un nodo culturale ed economico di rilievo nella regione autonoma della Voivodina, spesso al centro della contesa politica durante le tornate elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/najave-emisija/dan-uzivo-sns-miting-u-novom-sadu/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-16T16:19+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z4ba3c433",
+   "sez": "mondo",
+   "titolo": "La Camera dei Rappresentanti nigeriana chiede leggi severe contro i prodotti alimentari tossici",
+   "orig": "Reps seek tough laws against toxic chemicals in food",
+   "lead": "In Nigeria, la Camera dei Rappresentanti ha sollecitato l'introduzione di normative più rigorose in materia di sicurezza alimentare e un'applicazione più severa delle regole per proteggere i cittadini dai rischi legati alle sostanze chimiche tossiche e agli alimenti adulterati. L'iniziativa mira a rafforzare i controlli sanitari a tutela della popolazione. Lo riferisce The Punch.",
+   "more": [
+    "La Camera dei Rappresentanti è la camera bassa del parlamento federale bicamerale della Nigeria, con sede nella capitale Abuja, incaricata di legiferare sulle questioni di interesse nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/reps-seek-tough-laws-against-toxic-chemicals-in-food/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z93c49c1d",
+   "sez": "mondo",
+   "titolo": "L'associazione studentesca nigeriana NANS chiede all'ente NAFDAC di testare farmaci e cibi nei campus",
+   "orig": "NANS urges NAFDAC to test drugs, food sold on campuses",
+   "lead": "In Nigeria, l'Associazione Nazionale degli Studenti Nigeriani (NANS) ha esortato l'Agenzia nazionale per l'amministrazione e il controllo di cibo e farmaci (NAFDAC) a eseguire controlli e test sui medicinali, sui cibi e sulle bevande commercializzati all'interno dei campus universitari, a seguito di crescenti preoccupazioni sui potenziali rischi per la salute pubblica. Lo riferisce The Punch.",
+   "more": [
+    "La NAFDAC è l'agenzia federale nigeriana responsabile della regolamentazione e del controllo della qualità di cibo, farmaci, cosmetici e dispositivi medici nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/nans-urges-nafdac-to-test-drugs-food-sold-on-campuses/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z1e703803",
+   "sez": "mondo",
+   "titolo": "Ricercatore nigeriano vince un premio negli Stati Uniti per uno studio sulle acque sotterranee",
+   "orig": "Nigerian researcher wins US award for groundwater study",
+   "lead": "Negli Stati Uniti, il ricercatore di origine nigeriana Ayobami Oni è stato insignito del premio Blue Integrated Partnerships Extra Mile Award in riconoscimento dei suoi contributi scientifici e dei suoi studi dedicati alla gestione e alla tutela delle risorse idriche sotterranee. Lo riferisce The Punch.",
+   "more": [
+    "La ricerca sulle acque sotterranee riveste un ruolo fondamentale per la pianificazione e la gestione sostenibile delle risorse idriche globali, in particolare nelle aree geografiche vulnerabili ai cambiamenti climatici e alla siccità."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/nigerian-researcher-wins-us-award-for-groundwater-study/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-16T15:26+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z971ce636",
+   "sez": "mondo",
+   "titolo": "Bonifica di Ogoniland: la Camera dei Rappresentanti nigeriana chiede più fondi per l'agenzia HYPREP",
+   "orig": "Ogoni cleanup: Reps demand more funds for HYPREP",
+   "lead": "In Nigeria, la commissione per le comunità ospitanti della Camera dei Rappresentanti ha richiesto un incremento dei finanziamenti destinati all'agenzia HYPREP, ritenuto indispensabile per completare i progetti rimasti in sospeso nell'ambito del programma di risanamento ambientale e pulizia della regione di Ogoniland. Lo riferisce The Punch.",
+   "more": [
+    "Il programma di bonifica di Ogoniland è un'iniziativa ambientale avviata per rimediare ai gravi danni ecologici causati dall'estrazione petrolifera nel Delta del Niger."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/ogoni-cleanup-reps-demand-more-funds-for-hyprep/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-16T15:07+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z37404ca8",
+   "sez": "mondo",
+   "titolo": "Otunnu e Sall rischiano l'esclusione dalla corsa per la guida Onu mentre Trump preme per nuovi candidati",
+   "orig": "Otunnu, Sall face chop from UN race as Trump pushes for new entrants",
+   "lead": "A Nairobi, indiscrezioni indicano che i candidati Otunnu e Sall potrebbero essere esclusi dalla competizione per la segreteria o la guida di un organismo delle Nazioni Unite, in seguito alla spinta esercitata da Donald Trump per l'inserimento di nuovi contendenti. Gli Stati Uniti avrebbero suggerito l'inidoneità degli attuali sette candidati in lizza. Lo riferisce The EastAfrican.",
+   "more": [
+    "Le Nazioni Unite (Onu) sono un'organizzazione intergovernativa internazionale incaricata di promuovere la cooperazione internazionale, la pace e la sicurezza globale attraverso la diplomazia e vari organi sussidiari."
+   ],
+   "fonti": [
+    {
+     "n": "The EastAfrican",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.theeastafrican.co.ke/tea/news/world/otunnu-sall-face-chop-from-un-race-as-trump-pushes-for-new-entrants-5634392",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-16T12:32+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z5f21f12c",
+   "sez": "mondo",
+   "titolo": "L'ospedale KNH in Kenya compie un record eseguendo il primo intervento chirurgico senza tubi sulla trachea in Africa",
+   "orig": "KNH makes history by performing Africa's first tubeless windpipe surgery",
+   "lead": "A Nairobi, il Kenyatta National Hospital (KNH) ha segnato un primato storico sul continente africano eseguendo con successo, il 24 settembre 2026, il primo intervento chirurgico alla trachea senza l'utilizzo di tubi respiratori. L'operazione, durata cinque ore presso il Prime Care Centre della struttura, è stata effettuata su Dennis Kaiser Omondi, un paziente di 26 anni che soffriva di gravi difficoltà respiratorie da quasi vent'anni. Lo riferisce Citizen Digital.",
+   "more": [
+    "Il Kenyatta National Hospital è la principale e più antica struttura ospedaliera pubblica del Kenya e un centro di riferimento medico d'eccellenza per tutta l'Africa orientale."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/knh-makes-history-by-performing-africas-first-tubeless-windpipe-surgery-n392181",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-16T14:55+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zff8818d1",
+   "sez": "mondo",
+   "titolo": "Il ministro keniota Ruku ordina a 84 funzionari delle risorse umane di lasciare l'incarico per presunte frodi sulle paghe",
+   "orig": "CS Ruku orders 84 HR officers to step aside over suspected Ksh.6.2B payroll fraud",
+   "lead": "A Nairobi, il responsabile governativo Ruku ha ordinato a 84 funzionari delle risorse umane di mettersi in congedo e farsi da parte, in seguito al loro coinvolgimento in un presunto scandalo di frode sulle buste paga statali stimato intorno ai 6,2 miliardi di scellini kenioti. I segretari permanenti e i dirigenti responsabili dei dipartimenti statali interessati sono stati incaricati di applicare le disposizioni amministrative nel rispetto della legge. Lo riferisce Citizen Digital.",
+   "more": [
+    "Le frodi sulle buste paga e la gestione irregolare dei fondi pubblici rappresentano una delle problematiche di governance affrontate regolarmente dalle autorità di controllo amministrativo in Kenya."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/cs-ruku-orders-84-hr-officers-to-step-aside-over-suspected-ksh62b-payroll-fraud-n392183",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-16T14:12+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z67516158",
+   "sez": "mondo",
+   "titolo": "Il presidente keniota Ruto ispeziona un progetto stradale da 4,4 miliardi di scellini per collegare West Pokot e la valle di Kerio",
+   "orig": "Ruto inspects Ksh.4.4B road project to open up West Pokot, Kerio Valley",
+   "lead": "A Nairobi, durante un tour di sviluppo nella contea di West Pokot, il presidente keniota William Ruto ha ispezionato i lavori di costruzione della strada Kopasi River-Lomut-Sigor-Marich Pass, un'infrastruttura lunga 35 chilometri. Il progetto, del valore di 4,4 miliardi di scellini kenioti, ha raggiunto il sessanta percento di completamento e mira ad aprire alla mobilità e allo sviluppo la regione e la valle di Kerio. Lo riferisce Citizen Digital.",
+   "more": [
+    "I progetti di sviluppo infrastrutturale viario in Kenya mirano a migliorare la connettività regionale, agevolare il commercio locale e stimolare la crescita economica nelle contee periferiche."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/ruto-inspects-ksh44b-road-project-to-open-up-west-pokot-kerio-valley-n392182",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-16T14:06+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "za648708a",
+   "sez": "mondo",
+   "titolo": "Yamal protagonista e trascinatore in vista della sfida del Barcellona contro il Betis",
+   "orig": "Yamal on song as entertainers Barcelona face Betis challenge",
+   "lead": "A Nairobi, un resoconto di carattere sportivo evidenzia le lodi espresse dall'allenatore del Barcellona Hansi Flick nei confronti del giovane talento Yamal, definito un elemento capace di cambiare il volto della partita e di offrire prestazioni di altissimo livello. La squadra catalana si prepara intanto ad affrontare la prossima sfida di campionato contro il Betis. Lo riferisce Citizen Digital.",
+   "more": [
+    "Il FC Barcelona è uno dei club calcistici più prestigiosi e titolati al mondo, militante nella Liga spagnola e noto per la valorizzazione dei giovani talenti cresciuti nel proprio settore giovanile."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/yamal-on-song-as-entertainers-barcelona-face-betis-challenge-n392164",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-16T13:30+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z3ecc3a49",
+   "sez": "mondo",
+   "titolo": "Il vicepresidente keniota Kindiki invita i politici a evitare gli insulti e a puntare sullo sviluppo in vista del 2027",
+   "orig": "DP Kindiki urges politicians to shun insults, focus on development ahead of 2027 polls",
+   "lead": "A Nairobi, il vicepresidente keniota Kindiki ha esortato i politici locali a evitare le offese e gli insulti personali, concentrandosi invece sui programmi di sviluppo in vista delle elezioni generali del 2027. Ha inoltre invitato i cittadini a preservare la pace sociale durante il periodo elettorale, richiamando alla memoria i precedenti storici delle consultazioni del 1992 e del 2002. Lo riferisce Citizen Digital.",
+   "more": [
+    "Il Kenya ha una storia democratica complessa in cui le tornate elettorali presidenziali e legislative, come quelle del passato menzionate, hanno talvolta richiesto appelli alla moderazione per prevenire tensioni sociali."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/deputy-president-kithure-kindiki-has-urged-politicians-to-shun-insults-and-political-fights-calling-n392179",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-16T13:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zd2a70121",
+   "sez": "mondo",
+   "titolo": "Zelensky chiede all'Unione Europea ulteriori 79 miliardi di dollari per sostenere lo sforzo bellico dell'Ucraina",
+   "orig": "Zelensky asks EU for extra $79 billion to sustain Ukraine’s war effort",
+   "lead": "A Bruxelles, durante un intervento al vertice dell'Unione Europea, il presidente ucraino Volodymyr Zelensky ha chiesto ai leader comunitari di stanziare ulteriori 70 miliardi di euro, pari a circa 79 miliardi di dollari, per finanziare le esigenze belliche del Paese per l'anno prossimo. Zelensky ha sottolineato che il costo complessivo della guerra ammonterà a 155 miliardi di euro, richiedendo un forte supporto per la difesa, le armi e la resilienza di Kiev. Lo riferisce South China Morning Post.",
+   "more": [
+    "L'Unione Europea e i suoi Stati membri forniscono assistenza finanziaria, umanitaria e militare all'Ucraina dall'inizio dell'invasione russa, coordinando i pacchetti di aiuti nei vertici internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/europe/article/3371207/zelensky-asks-eu-extra-79-billion-sustain-ukraines-war-effort?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-16T15:09+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zc7982640",
+   "sez": "mondo",
+   "titolo": "Le dinamiche delle relazioni tra Stati Uniti e Cina viste da un'aula universitaria di Tsinghua",
+   "orig": "A US scholar’s take on how shifts in US-China relations are felt in a Tsinghua classroom",
+   "lead": "A Hong Kong, un'analisi accademica esamina gli effetti dei recenti mutamenti nelle relazioni bilaterali tra Stati Uniti e Cina direttamente dal punto di vista di un'aula di lezione dell'Università di Tsinghua. Nonostante i colloqui tra leader e i canali di dialogo sull'intelligenza artificiale per evitare crisi, permangono nodi irrisolti legati ai microchip avanzati e ai controlli sulle esportazioni. Lo riferisce South China Morning Post.",
+   "more": [
+    "L'Università di Tsinghua, situata a Pechino, è uno dei principali e più prestigiosi istituti di istruzione superiore e ricerca scientifica della Repubblica Popolare Cinese."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/article/3371126/us-scholars-take-how-shifts-us-china-relations-are-felt-tsinghua-classroom?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-16T15:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zf5a2c36a",
+   "sez": "mondo",
+   "titolo": "Cina: la spesa in ricerca e sviluppo cresce in modo costante mentre gli Stati Uniti tagliano i fondi",
+   "orig": "China’s R&D spending keeps up steady rise as No 1 US seeks further funding cuts",
+   "lead": "A Hong Kong, i dati pubblicati dall'Ufficio nazionale di statistica cinese indicano che gli investimenti in ricerca e sviluppo (R&S) in Cina sono cresciuti dell'8,2% nell'ultimo anno, superando i 3.900 miliardi di yuan (circa 583 miliardi di dollari) nel 2025. Tale incremento, trainato dalla scienza fondamentale e dai finanziamenti universitari, contrasta nettamente con i profondi tagli di bilancio registrati nel settore della ricerca negli Stati Uniti. Lo riferisce South China Morning Post.",
+   "more": [
+    "Gli investimenti in ricerca e sviluppo rappresentano un indicatore chiave della competitività tecnologica ed economica di una nazione nel panorama globale della scienza e dell'innovazione."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/science/article/3371198/chinas-rd-spending-keeps-steady-rise-no-1-us-seeks-further-funding-cuts?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-16T13:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z1be92126",
+   "sez": "mondo",
+   "titolo": "Il protezionismo anti-cina danneggia i piani dei produttori di auto americani sui veicoli elettrici, secondo un analista",
+   "orig": "Anti-China protectionism backfiring on American carmakers’ EV plans: analyst",
+   "lead": "A Hong Kong, l'analista macroeconomico David Zhang di Trivium China ha evidenziato come le misure protezionistiche adottate da Washington per bloccare i veicoli elettrici cinesi e proteggere l'industria automobilistica nazionale stiano sortendo l'effetto contrario. La mancanza di una politica industriale coerente e gli ostacoli agli investimenti a lungo termine finirebbero per penalizzare la competitività della transizione elettrica delle case automobilistiche di Detroit. Lo riferisce South China Morning Post.",
+   "more": [
+    "Il mercato dei veicoli elettrici (EV) è al centro della competizione industriale internazionale, con normative commerciali e barriere tariffarie spesso utilizzate per tutelare i produttori nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/economy/global-economy/article/3371167/anti-china-protectionism-backfiring-american-carmakers-ev-plans-analyst?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-16T13:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z8e9fbb21",
+   "sez": "mondo",
+   "titolo": "Secondo rapporto del gruppo The Japan Times sugli accessi non autorizzati e la potenziale fuga di dati",
+   "orig": "【第2報】当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性に関するご報告",
+   "lead": "A Tokyo, il gruppo editoriale che fa capo a The Japan Times e News2u Holdings ha diffuso un nuovo aggiornamento in merito all'accesso non autorizzato ai server di gestione aziendale rilevato nei giorni scorsi. La società ha comunicato i progressi delle attività di indagine e monitoraggio condotte in stretta collaborazione con enti specialistici esterni per verificare l'effettiva compromissione delle informazioni. Lo riferisce The Japan Times.",
+   "more": [
+    "La sicurezza informatica e la protezione dei dati aziendali rappresentano priorità critiche per le grandi aziende editoriali e digitali esposte a minacce cibernetiche."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/press/2026/10/16/notice-ransomware-incident-second-report-jp/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-16T21:30+09:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z3c7cb991",
+   "sez": "mondo",
+   "titolo": "La polizia sudcoreana identifica il sospettato dell'attacco con coltello avvenuto a Incheon",
+   "orig": "Police identify suspect in Incheon knife attack",
+   "lead": "A Seul, la polizia metropolitana di Incheon ha reso note le generalità, l'età e le fotografie del presunto aggressore responsabile del grave attacco con coltello avvenuto martedì nella città, che ha causato il ferimento di otto persone. Il sospettato è stato identificato nel cinquantanovenne Choi Chung-rak. La diffusione delle informazioni personali, approvata all'unanimità da un comitato di revisione di sette membri in base alla gravità dei crimini commessi, rimarrà pubblica fino al 16 novembre. Lo riferisce The Korea Herald.",
+   "more": [
+    "La polizia metropolitana della Corea del Sud applica specifiche normative per la divulgazione pubblica dell'identità dei sospettati nei casi di reati efferati e di forte impatto sociale."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10905517",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z4e543673",
+   "sez": "mondo",
+   "titolo": "Aespa e Ateez guidano la line-up dei Melon Music Awards mentre BTS e Blackpink ottengono le candidature",
+   "orig": "Aespa, Ateez lead MMAs lineup, as BTS, Blackpink earn nominations",
+   "lead": "A Seul, la piattaforma di streaming musicale Melon ha annunciato che la diciottesima edizione dei Melon Music Awards si estenderà per la prima volta a un evento di due giorni, in programma il 14 e 15 novembre presso il Gocheok Sky Dome. La manifestazione vedrà la partecipazione di artisti affermati della scena K-pop e di nuove leve, tra cui i gruppi Aespa e Ateez, e registrerà candidature per le band BTS e Blackpink, introducendo anche un nuovo premio basato sull'attività di streaming in Corea del Sud, Cina e Giappone. Lo riferisce The Korea Herald.",
+   "more": [
+    "I Melon Music Awards sono tra i riconoscimenti musicali più importanti della Corea del Sud, organizzati da Kakao Entertainment per premiare gli artisti più popolari dell'anno basandosi su dati di ascolto e votazioni."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10905485",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "ze72d6cca",
+   "sez": "mondo",
+   "titolo": "L'attrice Kim Hye-ja, protagonista del film 'Mother', ripercorre il passato",
+   "orig": "‘Mother’ star Kim Hye-ja goes back in time",
+   "lead": "A Seul, un approfondimento culturale celebra la carriera dell'attrice Kim Hye-ja, celebre per la sua interpretazione nel film thriller del 2009 'Mother' diretto da Bong Joon-ho, pellicola in cui vestiva i panni di una madre determinata a scagionare il figlio disabile. Riconosciuta da generazioni come la madre televisiva preferita del pubblico sudcoreano grazie ai suoi ruoli nei K-drama, l'attrice continua a essere un punto di riferimento della cinematografia locale. Lo riferisce The Korea Herald.",
+   "more": [
+    "Il cinema sudcoreano contemporaneo, grazie ad autori e interpreti di calibro internazionale, ha raggiunto una vasta popolarità globale, imponendosi nei principali festival e circuiti di critica."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10905411",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z2a934be4",
+   "sez": "mondo",
+   "titolo": "Il comitato distrettuale del CPI(M) nel Kerala esamina i risultati elettorali e le questioni organizzative",
+   "orig": "CPI(M) district committee meet in Keralam’s Pathanamthitta reviews poll setback, organisational issues",
+   "lead": "A Chennai, il comitato distrettuale del Partito Comunista d'India (Marxista) a Pathanamthitta, nel Kerala, ha tenuto una riunione per analizzare le battute d'arresto subite nelle recenti elezioni e affrontare diverse problematiche organizzative interne. Nel corso dell'incontro sono emerse speculazioni su possibili ulteriori provvedimenti disciplinari nei confronti del leader veterano A. Padmakumar, ex presidente del consiglio di amministrazione del tempio Travancore e legislatore, coinvolto come accusato nello scandalo del furto d'oro di Sabarimala. Lo riferisce The Hindu.",
+   "more": [
+    "Il Partito Comunista d'India (Marxista) è una forza politica di rilievo in alcuni Stati indiani, tra cui il Kerala, dove gestisce complesse dinamiche di governo locale e di disciplina interna."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/cpim-district-committee-meet-in-keralams-pathanamthitta-reviews-poll-setback-organisational-issues/article71551294.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T20:48+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zd554c295",
+   "sez": "mondo",
+   "titolo": "Proteste in India: l'opposizione trova un terreno comune ma si interroga sulla durata dell'alleanza",
+   "orig": "SIR protests: Opposition has found common ground. But can it stay united?",
+   "lead": "A Mumbai, i partiti di opposizione in India appaiono sempre più uniti nel sostenere le proteste contro il capo della commissione elettorale centrale. In seguito agli arresti dei leader della CJP, il politico Rahul Gandhi ha manifestato apertamente solidarietà, segnalando una possibile evoluzione strategica rispetto alle precedenti manifestazioni organizzate autonomamente dal Congresso. Resta tuttavia da verificare la tenuta di questa ritrovata coalizione unitaria. Lo riferisce Times of India.",
+   "more": [
+    "Il panorama politico indiano è caratterizzato da frequenti alleanze e contrapposizioni tra i partiti d'opposizione e la coalizione di governo guidata dal partito nazionale maggioritario."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/sir-protests-opposition-has-found-common-ground-but-can-it-stay-united/articleshow/134996763.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T19:49+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z442d64b1",
+   "sez": "mondo",
+   "titolo": "Il dilemma di Vivek Ramaswamy con la base MAGA in vista della corsa al governo dell'Ohio",
+   "orig": "Oh(io) No: Vivek Ramaswamy's Catch-22 problem with MAGA",
+   "lead": "A Mumbai, un'analisi politica esamina la candidatura di Vivek Ramaswamy alla carica di governatore dell'Ohio, considerata un trampolino di lancio per future ambizioni politiche nel partito. La sua forte associazione con Donald Trump rappresenta tuttavia un elemento di frizione e una responsabilità problematica tra gli elettori moderati e neutrali, mentre le sue convinzioni religiose e le sue origini etniche costituiscono talvolta un deterrente presso settori della base conservatrice del movimento MAGA. Lo riferisce Times of India.",
+   "more": [
+    "Il movimento MAGA (Make America Great Again) rappresenta una componente influente e fortemente polarizzata all'interno del Partito Repubblicano negli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/us/ohio-no-vivek-ramaswamys-catch-22-problem-with-maga-ahead-of-the-midterms/articleshow/134997625.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T20:28+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zff913673",
+   "sez": "mondo",
+   "titolo": "Ufficiale russo aiuta l'Ucraina eliminando oltre trecento soldati tramite la fuga di informazioni militari",
+   "orig": "Russian officer helped Ukraine kill over 300 troops by leaking military secrets",
+   "lead": "A Mumbai, viene riportato il caso del tenente dell'esercito russo Lev Stupnikov, il quale ha passato segretamente informazioni d'intelligence critiche alle forze ucraine. Le sue azioni avrebbero permesso l'eliminazione mirata di oltre trecento soldati russi e il sabotaggio di sistemi d'armamento, culminando nella sua diserzione verso il Corpo Volontario Russo come aperta opposizione alla leadership di Vladimir Putin. Lo riferisce Times of India.",
+   "more": [
+    "Il conflitto in corso in Ucraina ha generato episodi di dissidenza interna e casi di intelligence militare che hanno inciso sugli sviluppi operativi sul campo."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/europe/russian-officer-helped-ukraine-kill-over-300-troops-by-leaking-military-secrets-report/articleshow/134996936.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T19:25+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z4b5d2729",
+   "sez": "mondo",
+   "titolo": "Shubman Gill torna in campo con il Punjab nel match di Ranji Trophy contro il Chhattisgarh",
+   "orig": "Shubman Gill to turn out for Punjab in Ranji Trophy clash against Chhattisgarh",
+   "lead": "A Mumbai, l'ambito sportivo registra il rientro in campo del giocatore Shubman Gill con la maglia del Punjab in vista della stagione 2026-27 del Ranji Trophy. L'atleta parteciperà alla partita del secondo turno contro il Chhattisgarh, in programma a partire dal 18 ottobre, dopo aver saltato il match inaugurale contro l'Assam. Di recente, Gill è stato insignito per la quinta volta del riconoscimento di Giocatore del Mese della ICC. Lo riferisce Times of India.",
+   "more": [
+    "Il Ranji Trophy è la principale competizione nazionale di cricket di prima classe disputata in India tra squadre regionali e statali."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-to-turn-out-for-punjab-in-ranji-trophy-clash-against-chhattisgarh/articleshow/134998131.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T20:39+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z77f1cce1",
+   "sez": "mondo",
+   "titolo": "Il CEO di Airbnb Brian Chesky spiega la sua avversione per le email aziendali e la preferenza per il contatto diretto",
+   "orig": "Airbnb CEO Brian Chesky has an 'email problem'; does not remember the last email he wrote",
+   "lead": "A Mumbai, viene evidenziato l'approccio alla comunicazione sul lavoro adottato dal CEO di Airbnb Brian Chesky, il quale ha dichiarato di non ricordare l'ultima volta che ha scritto un'email. La società gestisce i rapporti con i suoi 8.200 dipendenti privilegiando metodi più immediati come le chiamate e i messaggi di testo, considerati strumenti più personali rispetto alla posta elettronica, giudicata antiquata. Vengono così favorite le interazioni dirette tramite incontri di persona e videoconferenze per favorire l'integrazione tra vita privata e lavoro. Lo riferisce Times of India.",
+   "more": [
+    "Airbnb è una piattaforma digitale globale che mette in contatto viaggiatori in cerca di alloggi con proprietari di case, guidata da un modello di gestione aziendale orientato all'innovazione organizzativa."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/technology/tech-news/airbnb-ceo-brian-chesky-has-an-email-problem-does-not-remember-the-last-email-he-wrote-says-i-will-rather-send-text-message-to-my-8000-plus-employees-as-that-is-/articleshow/134997402.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T19:46+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zd9553633",
+   "sez": "mondo",
+   "titolo": "La vendita di una fattoria di famiglia da 250.000 dollari in Pennsylvania bloccata da una disputa tra fratelli",
+   "orig": "Pennsylvania woman’s $250,000 family farm sale remains blocked after sibling dispute",
+   "lead": "A Mumbai, si segnala una controversia legale in Pennsylvania riguardante la proprietà di una fattoria di sessanta ettari del valore di 250.000 dollari. Una delle sorelle residenti sul terreno aveva tentato di venderlo nonostante godesse di un contratto di locazione a lungo termine, spingendo gli altri fratelli a presentare un ricorso d'urgenza per bloccare l'operazione in difesa dei diritti di proprietà. La Corte Superiore della Pennsylvania ha confermato l'ingiunzione, evidenziando le complessità della comproprietà immobiliare nelle vertenze familiari. Lo riferisce Times of India.",
+   "more": [
+    "Le controversie sulla successione e sulla gestione dei beni immobili familiari rappresentano una tipologia complessa di contenzioso civile nell'ordinamento giuridico statunitense."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-lived-on-a-60-acre-family-farm-for-22-years-then-agreed-to-sell-it-for-250000-with-a-proposed-99-year-lease-letting-her-stay-an-appeals-court-kept-the-sale-blocked-after-her-siblings-objected/articleshow/134995915.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-16T19:38+05:30"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z7f1f393b",
+   "sez": "mondo",
+   "titolo": "Ministro pachistano: il capo di un partito furioso per non essere diventato governatore",
+   "orig": "Political party head upset over not being appointed KP governor, claims Naqvi",
+   "lead": "Il ministro dell'Interno Mohsin Naqvi ha dichiarato venerdì a Lahore che il leader di un partito politico è estremamente contrariato per non aver ottenuto la nomina a governatore del Khyber Pakhtunkhwa nel nuovo assetto politico. Pur senza fare nomi, il riferimento sembra indirizzato al capo della Jamiat Ulema-i-Islam-Fazl, Maulana Fazlur Rehman, il quale ha criticato il governo federale per l'imposizione del rule del governatore nella provincia. Secondo Naqvi, questo politico è rimasto dipendente dall'establishment per decenni per fare carriera. Lo riferisce Dawn.",
+   "more": [
+    "Il Khyber Pakhtunkhwa è una delle province del Pakistan, situata nella parte nord-occidentale del Paese e caratterizzata da dinamiche politiche complesse e da un rapporto storico delicato tra i leader regionali e l'amministrazione centrale federale di Islamabad."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2037611/political-party-head-upset-over-not-being-appointed-kp-governor-claims-naqvi",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-16T20:19+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zd6525187",
+   "sez": "mondo",
+   "titolo": "Sudhakar Dalela nominato nuovo ambasciatore dell'India in Nepal",
+   "orig": "Sudhakar Dalela appointed India’s next ambassador to Nepal",
+   "lead": "Il diplomatico di carriera della classe 1993 Sudhakar Dalela è stato nominato nuovo ambasciatore dell'India in Nepal. Precedentemente in servizio come ambasciatore indiano in Bhutan e già responsabile degli affari legati a Nepal e Bhutan presso il ministero degli Esteri di Nuova Delhi, Dalela è atteso a breve nella capitale nepalese per assumere ufficialmente il suo nuovo incarico diplomatico. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il Nepal è uno Stato dell'Asia meridionale situato lungo la catena dell'Himalaya, storicamente legato all'India da intensi rapporti diplomatici, commerciali e culturali che vedono tradizionalmente la presenza di ambasciatori di alto profilo tra i due Paesi vicini."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/16/sudhakar-dalela-appointed-india-s-next-ambassador-to-nepal",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z0b5f45ae",
+   "sez": "cultura",
+   "titolo": "Come Rabindra Shakya mantiene viva l'arte antica del repoussé",
+   "orig": "How Rabindra Shakya is keeping the art of repoussé alive",
+   "lead": "L'artista Rabindra Shakya dedica la sua attività da oltre trentacinque anni alla pratica del repoussé, una tecnica artigianale secolare utilizzata per la lavorazione e la decorazione a sbalzo dei metalli. Questo complesso e antico procedimento richiede tempi di lavorazione estremamente lunghi, arrivando a impiegare persino circa due anni per il completamento di una singola opera di grandi dimensioni. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il repoussé è una tecnica di lavorazione artistica dei metalli in cui una lastra viene modellata a sbalzo dal rovescio mediante l'uso di martelli e ceselli, dando vita a rilievi dettagliati molto diffusi nella tradizione artigianale asiatica."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/videos/2026/10/16/repouss-art",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z89c07d70",
+   "sez": "sport",
+   "titolo": "PBA: esordio convincente per Marcellus Earlington con i Phoenix Fuel Masters",
+   "orig": "PBA: Marcellus Earlington impresses Phoenix with strong debut",
+   "lead": "Il tecnico dei Phoenix Fuel Masters Charles Tiu ha espresso grande soddisfazione per l'esordio di Marcellus Earlington nella 2026 PBA Governors' Cup, in una partita vinta contro i Meralco Bolts con il punteggio di 105-101 al Ynares Center di Antipolo. Schierato in sostituzione di BJ Johnson, Earlington ha trascinato la squadra con 20 punti, 14 rimbalzi e 5 assist, garantendo alla formazione l'accesso matematico ai quarti di finale del torneo filippino. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "La Philippine Basketball Association è la principale lega professionistica di pallacanestro delle Filippine ed è riconosciuta come il campionato di basket più antico d'Asia ancora in attività, seguito da un vasto pubblico appassionato."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://sports.inquirer.net/701923/pba-marcellus-earlington-impresses-phoenix-with-strong-debut",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-16T22:43+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z654e33e2",
+   "sez": "sport",
+   "titolo": "Wuhan Open: Sonay Kartal elimina la numero sei del mondo Elina Svitolina e vola in semifinale",
+   "orig": "Sonay Kartal stuns Elina Svitolina to reach Wuhan Open semifinals",
+   "lead": "La tennista britannica Sonay Kartal ha ottenuto la seconda vittoria in carriera contro una giocatrice della top ten mondiale, sconfiggendo l'ucraina e numero sei del ranking Elina Svitolina con il punteggio di 6-2, 2-6, 6-4 al torneo Wuhan Open. La ventiquattrenne, reduce da un'assenza di sei mesi per un infortunio da frattura da stress spinale che l'aveva fatta precipitare al numero 170 della classifica mondiale, è diventata la tennista con il ranking più basso nella storia a raggiungere le semifinali del torneo cinese, garantendosi contestualmente il rientro tra le prime cento giocatrici del mondo. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "Il Wuhan Open è un importante torneo professionistico di tennis femminile facente parte del circuito internazionale WTA, disputato annualmente in Cina e tradizionalmente caratterizzato da una partecipazione di altissimo livello tecnico."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://sports.inquirer.net/701920/sonay-kartal-stuns-elina-svitolina-to-reach-wuhan-open-semifinals",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-16T22:28+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z60628aa7",
+   "sez": "mondo",
+   "titolo": "Schianto aereo militare in Nigeria: le famiglie attendono ancora risposte",
+   "orig": "Families wait for answers after Nigerian military plane crash",
+   "lead": "A più di una settimana di distanza dall'incidente aereo che ha coinvolto un velivolo dell'Aeronautica militare nigeriana causando la morte di tutte le venticinque persone presenti a bordo, i familiari delle vittime denunciano di essere ancora in attesa di risposte ufficiali. Nel frattempo, le squadre di soccorso e militari proseguono le operazioni di ricerca dei resti umani e dei rottami all'interno di una complessa e paludosa area di terreno. Lo riferisce The Straits Times.",
+   "more": [
+    "Le zone paludose e remote della Nigeria presentano spesso notevoli difficoltà logistiche e tecniche per le operazioni di recupero in seguito a incidenti aerei o calamità di grande portata."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/families-wait-for-answers-after-nigerian-military-plane-crash",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T22:35+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z8d656e5f",
+   "sez": "spazio",
+   "titolo": "Ucraina, avvertiti i primi disservizi di Starlink sulle linee del fronte",
+   "orig": "Starlink disruptions are being felt on the front lines of Ukraine",
+   "lead": "Una divisione di artiglieria impegnata nei combattimenti nella regione orientale dell'Ucraina ha registrato un impatto immediato a seguito della decisione presa questa settimana dagli Stati Uniti di ridurre i servizi di connettività satellitare forniti dalla società Starlink alle forze militari locali. La limitazione operativa della rete satellitare sta dunque creando difficoltà tangibili sul campo per i reparti schierati al fronte. Lo riferisce The Straits Times.",
+   "more": [
+    "Starlink è una costellazione di satelliti in orbita terrestre bassa gestita da SpaceX, fondamentale per garantire comunicazioni internet ad alta velocità in aree isolate o colpite da conflitti armati."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/starlink-disruptions-are-being-felt-on-the-front-lines-of-ukraine",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-16T22:05+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z96943c7d",
+   "sez": "mondo",
+   "titolo": "Rassegna stampa estera: Kazakistan tra legami regionali, regole per l'IA e Corridoio di Mezzo",
+   "orig": "News Digest: Foreign Media on Kazakhstan’s Regional Ties, AI Rules and Middle Corridor Plans",
+   "lead": "L'edizione settimanale della rassegna stampa internazionale curata da The Astana Times ha focalizzato l'attenzione sui principali articoli apparsi sui media globali riguardo al Kazakistan. Tra i temi centrali figurano i partenariati strategici con l'Azerbaigian e il Belgio, le proposte normative per l'utilizzo dell'intelligenza artificiale all'interno delle redazioni giornalistiche e i piani di espansione per le infrastrutture logistiche del Corridoio di Mezzo, oltre all'incontro tra i presidenti Kassym-Jomart Tokayev e Ilham Aliyev suggellato dall'inaugurazione ufficiale del cavo in fibra ottica transcaspico. Lo riferisce The Astana Times.",
+   "more": [
+    "Il Corridoio di Mezzo è una rotta di trasporto intermodale internazionale che collega la Cina all'Europa attraverso l'Asia Centrale e il Caucaso, aggirando il territorio russo e assumendo un valore strategico crescente."
+   ],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/news-digest-foreign-media-on-kazakhstans-regional-ties-ai-rules-and-middle-corridor-plans/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-16T13:19+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z6a26e998",
+   "sez": "mondo",
+   "titolo": "«Bismillah, è l'oscurità»: come una presunta infiltrazione della polizia è diventata un meme di protesta in Francia",
+   "orig": "‘Bismillah, it's the darkness’: How a suspected police infiltration became a protest meme in France",
+   "lead": "Una frase che ironizza su un presunto tentativo da parte della polizia di infiltrarsi all'interno dei gruppi di studenti in agitazione è diventata un popolare slogan virale in tutta la Francia. Lo slogan satirico compare ormai regolarmente su cartelli esposti durante le manifestazioni, in video condivisi sui social media e nel corso delle proteste organizzate da studenti delle scuole superiori e delle università, trasformandosi in un simbolo di derisione contro i sospetti di infiltrazione e gli stereotipi razziali. Lo riferisce Middle East Eye.",
+   "more": [
+    "Le proteste studentesche in Francia rappresentano una forma tradizionale di mobilitazione giovanile contro le politiche governative o scolastiche, spesso caratterizzate da slogan ironici e da una forte diffusione virale sul web."
+   ],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/trending/bismillah-cest-les-tenebres-how-suspected-police-infiltration-became-protest-meme-france",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T15:42+01:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z1bcba6d5",
+   "sez": "mondo",
+   "titolo": "Sydney, cala il sipario sullo storico cinodromo di Wentworth Park",
+   "orig": "Wentworth Park’s race has been run as crowd flocks for one last lap",
+   "lead": "La lunga storia delle corse di levrieri all'impianto di Wentworth Park a Sydney si è conclusa nella serata di venerdì, ponendo ufficialmente fine a un'era iniziata nel lontano 1932. Numerosi appassionati e spettatori si sono affollati sugli spalti per assistere all'ultima giornata di gare e salutare per l'ultima volta la storica struttura sportiva della metropoli australiana. Lo riferisce Sydney Morning Herald.",
+   "more": [
+    "Wentworth Park è un celebre impianto polifunzionale situato a Sydney, storicamente noto come tempio delle corse dei cani e punto di riferimento per gli appassionati di questo sport in Australia."
+   ],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/nsw/wentworth-park-s-race-has-been-run-as-crowd-flocks-for-one-last-lap-20261017-p6169c.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-17T00:59+11:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z80ed53c5",
+   "sez": "viaggi",
+   "titolo": "Bangkok: un restyling da 70 milioni di dollari riporta un hotel storico ai vertici del lusso",
+   "orig": "$70 million makeover returns landmark Bangkok hotel to pinnacle of luxury",
+   "lead": "Un imponente intervento di rinnovamento dal valore di settanta milioni di dollari ha interessato uno degli alberghi storici più celebri di Bangkok, restituendo alla struttura il suo antico splendore e riportandola ai vertici dell'ospitalità alberghiera di lusso. La riqualificazione si inserisce nel contesto di una nuova età dell'oro per i soggiorni di alto livello nella capitale thailandese. Lo riferisce Sydney Morning Herald.",
+   "more": [
+    "Bangkok è una delle mete turistiche e commerciali più importanti dell'Asia sud-orientale, rinomata per la sua offerta alberghiera di lusso e per il dinamismo del suo settore turistico e ricettivo."
+   ],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/traveller/travel-news/70-million-makeover-returns-landmark-bangkok-hotel-to-pinnacle-of-luxury-20261017-p610if.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-17T00:00+11:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z347a5c8d",
+   "sez": "cultura",
+   "titolo": "Metti alla prova la tua cultura generale con il superquiz del Good Weekend",
+   "orig": "Test your general knowledge with the Good Weekend quiz",
+   "lead": "Gli appassionati di quiz e curiosità culturali possono cimentarsi nella prova interattiva proposta dal periodico, cercando di ottenere il punteggio massimo nel test di cultura generale pensato per stimolare le conoscenze dei lettori più esperti. Lo riferisce Sydney Morning Herald.",
+   "more": [
+    "I quiz di cultura generale pubblicati dai supplementi dei fine settimana sono una tradizione consolidata della stampa anglosassone per intrattenere e stimolare il pubblico con domande di varia natura."
+   ],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/test-your-general-knowledge-with-the-good-weekend-quiz-20261016-p61519.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-16T23:59+11:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z9c218f06",
+   "sez": "tech",
+   "titolo": "Salone dell'Auto di Parigi: Renault e Citroën presentano concept elettrici ispirati alle auto classiche",
+   "orig": "Paris Motor Show: Renault and Citroën unveil electric concepts inspired by classic cars",
+   "lead": "Alcune delle vetture europee più celebri tornano protagoniste al Salone dell'Auto di Parigi attraverso nuove versioni e concept car completamente elettriche, reinterpretate in chiave moderna per l'era della mobilità a zero emissioni. Le case automobilistiche francesi Renault e Citroën guidano questa tendenza celebrando il proprio patrimonio storico con tecnologie all'avanguardia. Lo riferisce Euronews.",
+   "more": [
+    "Il Salone dell'Auto di Parigi è una delle manifestazioni fieristiche internazionali più importanti del settore automotive, tradizionalmente scelta dai costruttori per svelare prototipi e innovazioni tecnologiche."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/video/2026/10/16/paris-motor-show-renault-and-citroen-unveil-electric-concepts-inspired-by-classic-cars",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T16:15+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zb7104932",
+   "sez": "tech",
+   "titolo": "Tesla presenta il nuovo Roadster con capacità di volo: quale impatto su vendite e azioni?",
+   "orig": "Could Tesla’s flying car send sales and shares soaring?",
+   "lead": "La casa automobilistica Tesla ha svelato in Texas la nuova generazione della sua vettura sportiva Roadster, mostrando durante la presentazione un esemplare capace di esibirsi in manovre acrobatiche e di dimostrare capacità di volo. Tuttavia, nonostante lo spettacolare debutto, gli analisti interpellati da Euronews Business non prevedono che questo particolare modello possa generare un incremento significativo dei ricavi aziendali. Lo riferisce Euronews.",
+   "more": [
+    "Tesla è un'azienda statunitense leader nella produzione di veicoli elettrici e soluzioni per l'energia pulita, nota per le sue campagne di lancio innovative e ad alto impatto mediatico."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/16/could-teslas-flying-car-send-sales-and-shares-soaring",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T16:04+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z54fae5d8",
+   "sez": "mondo",
+   "titolo": "Cina, scoperto il fossile di un uccello preistorico incapace di volare: scardina le teorie di Darwin",
+   "orig": "Sorry, Darwin: Chinese fossil shows that not all early birds evolved to fly",
+   "lead": "Un gruppo di scienziati cinesi ha portato alla luce in Cina un fossile risalente a centocinquanta milioni di anni fa, appartenente al tardo Giurassico e battezzato Yuezhuornis yangyuanensis. Si tratta del più antico uccello primitivo noto incapace di volare, una scoperta che offre prove concrete del fatto che non tutti i primi uccelli si sono evoluti per solcare i cieli. Il ritrovamento mette in discussione le ipotesi formulate a suo tempo da Charles Darwin secondo cui la perdita della capacità di volo negli uccelli sarebbe sorta esclusivamente come adattamento secondario successivo alla conquista dei cieli da parte delle specie ancestrali. Lo riferisce South China Morning Post – Cina.",
+   "more": [
+    "L'evoluzione degli uccelli a partire dai dinosauri teropodi è uno dei temi centrali della paleontologia moderna, e la scoperta di specie con caratteristiche anatomiche inattese aiuta a comprendere la complessità dei passaggi evolutivi."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/science/article/3371125/sorry-darwin-chinese-fossil-shows-not-all-early-birds-evolved-fly?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-16T12:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "ze2cdcb45",
+   "sez": "mondo",
+   "titolo": "Lady Diana e le uscite notturne per aiutare prostitute e senzatetto: la rivelazione dell'ex addetto stampa",
+   "orig": "“Lady Diana di sera si metteva a guidare per dare soldi alle prostitute, ma anche per passare e vedere come se la cavavano i senzatetto”: lo rivela l’ex addetto stampa",
+   "lead": "Nel suo nuovo libro intitolato «On Duty with», l'ex addetto stampa della famiglia reale britannica Dickie Arbiter svela dettagli sulle abitudini notturne di Lady Diana, la quale era solita guidare di persona durante la sera per distribuire denaro alle prostitute e per verificare le condizioni di vita dei senzatetto. Lo stesso Arbiter critica tuttavia il continuo ritorno mediatico sulla figura della principessa a quasi trenta anni dalla sua scomparsa, sottolineando come non vi sia ormai nulla di realmente nuovo da aggiungere. Lo riferisce Il Fatto Quotidiano.",
+   "more": [
+    "La famiglia reale britannica è una delle istituzioni monarchiche più seguite al mondo, e la figura di Lady Diana continua a suscitare un immenso interesse mediatico e pubblico a decenni dalla sua tragica morte."
+   ],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/16/lady-diana-di-sera-si-metteva-a-guidare-per-dare-soldi-alle-prostitute-ma-anche-per-vedere-come-se-la-cavavano-i-senzatetto-lo-rivela-lex-addetto-stampa/8540875/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-16T14:55+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zdab63852",
+   "sez": "mondo",
+   "titolo": "La pace in Ucraina e la necessità di rispettare le esigenze di sicurezza di entrambi i belligeranti",
+   "orig": "La pace in Ucraina dipenderà dal riconoscimento dell’esigenza di sicurezza di entrambi i belligeranti",
+   "lead": "Un'analisi firmata da Gerardo Ongaro riflette sulle prospettive di pace in Ucraina, sottolineando come un accordo duraturo ed efficace non potrà prescindere dal pieno riconoscimento delle legittime esigenze di sicurezza da parte di entrambi i fronti belligeranti coinvolti nel conflitto. Lo riferisce Il Fatto Quotidiano.",
+   "more": [
+    "Il conflitto in Ucraina rappresenta una delle crisi geopolitiche e militari più gravi in Europa dal secondo dopoguerra, caratterizzata da complesse trattative diplomatiche internazionali e da profonde divisioni strategiche."
+   ],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/16/guerra-ucraina-pace-russia-nato-notizie/8535753/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-16T14:28+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zd82be4a9",
+   "sez": "economia",
+   "titolo": "Bollette, intesa tra Palazzo Chigi e Unione Europea: attenuato l'impatto dei costi energetici",
+   "orig": "Bollette, palazzo Chigi: intesa con l'Ue. «Impatto dei costi energetici sarà attenuato»",
+   "lead": "Il governo italiano ha raggiunto un'intesa ufficiale con la Commissione Europea in merito al decreto-legge 21/2026 sulle bollette. L'accordo, comunicato da Palazzo Chigi, è stato definito nel pieno rispetto del quadro normativo europeo in materia di aiuti di Stato e della regolamentazione settoriale, con l'obiettivo dichiarato di attenuare l'impatto economico dei costi energetici per cittadini e imprese. Lo riferisce Il Messaggero.",
+   "more": [
+    "Le misure di sostegno e calmoterapia per le bollette energetiche rientrano nelle politiche di intervento statale soggette al vaglio e alle regole comunitarie sulla concorrenza e sugli aiuti di Stato."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/bollette_accordo_governo_ue_prezzi_come_cambiano_ultime_notizie-9829400.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z1657e14d",
+   "sez": "mondo",
+   "titolo": "Sondaggi politici: rallentamento temporaneo per Roberto Vannacci e Futuro Nazionale?",
+   "orig": "Sondaggi, perché Vannacci scende? Potrebbe essere una frenata temporanea? Le ipotesi",
+   "lead": "L'ascesa politica di Roberto Vannacci sembra aver subito una frenata nelle ultime settimane, come evidenziato dai recenti sondaggi d'opinione che mostrano una stagnazione nei consensi per la formazione Futuro Nazionale. Gli analisti politici si interrogano ora sulla natura di questo arresto, valutando se si tratti di un rallentamento meramente temporaneo o di un'inversione di tendenza più strutturata. Lo riferisce Il Messaggero.",
+   "more": [
+    "Il panorama politico italiano è attraversato da continue fluttuazioni nei sondaggi e dalla nascita di nuovi movimenti guidati da figure provenienti da ambiti non tradizionalmente partitici."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/politica/vannacci_sondaggi_calo_perche_futuro_nazionale_centrodestra_meloni-9829374.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zb3826cb5",
+   "sez": "mondo",
+   "titolo": "Ucraina, Zelensky in visita a Bruxelles per discutere i nuovi aiuti finanziari con i vertici UE",
+   "orig": "Ucraina, Zelensky a Bruxelles per gli aiuti finanziari",
+   "lead": "Il presidente ucraino Volodymyr Zelensky si è recato a Bruxelles per incontrare i massimi vertici dell'Unione Europea, Ursula von der Leyen e António Costa, al fine di affrontare il tema cruciale degli aiuti finanziari all'Ucraina. Kiev sta fronteggiando una pesante crisi di bilancio resa ancor più acuta dalle ingenti spese militari e dai continui attacchi russi mirati contro imprese e infrastrutture critiche. L'Unione Europea ha riconfermato il proprio appoggio a favore del Paese, mentre permangono timori circa una possibile contrazione del sostegno economico da parte degli Stati Uniti, alimentati anche dalle recenti critiche espresse da Donald Trump nei confronti dei raid ucraini contro le raffinerie russe. Lo riferisce Sky TG24.",
+   "more": [
+    "Il sostegno finanziario e militare all'Ucraina rappresenta uno dei pilastri della politica estera e di sicurezza dell'Unione Europea dallo scoppio del conflitto con la Russia."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/video/2026/10/16/ucraina-zelensky-a-bruxelles-per-gli-aiuti-finanziari-1132262",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zeab8a180",
+   "sez": "mondo",
+   "titolo": "Il commissario europeo Andrius Kubilius in Lituania per discutere il ruolo delle università nella sicurezza europea",
+   "orig": "EU Commissioner Kubilius to address role of universities in strengthening European security - The Baltic Times",
+   "lead": "Il commissario europeo per la Difesa e lo Spazio Andrius Kubilius ha dato inizio a una visita ufficiale di quattro giorni in Lituania. Nel corso della sua permanenza nel Paese baltico, l'esponente della Commissione Europea affronterà il tema strategico del contributo offerto dagli atenei e dalle istituzioni universitarie al rafforzamento della sicurezza e della difesa del continente europeo. Lo riferisce The Baltic Times.",
+   "more": [
+    "La sicurezza europea e la cooperazione nel settore della difesa e dello spazio rappresentano aree prioritarie per l'Unione Europea, particolarmente sensibili nell'area baltica e lungo i confini orientali."
+   ],
+   "fonti": [
+    {
+     "n": "The Baltic Times",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "http://www.baltictimes.com/eu_commissioner_kubilius_to_address_role_of_universities_in_strengthening_european_security/",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z5bae053d",
+   "sez": "mondo",
+   "titolo": "La Lituania proroga fino a metà novembre l'assistenza militare lungo il confine con Kaliningrad",
+   "orig": "Lithuania extends military assistance on Kaliningrad border until mid-Nov - The Baltic Times",
+   "lead": "Il ministro della Difesa lituano Robertas Kaunas ha disposto la proroga delle misure di assistenza e supporto militare lungo il confine di Stato che separa la Lituania con la regione russa di Kaliningrad, prolungando il dispositivo di sicurezza sino alla metà del mese di novembre. Lo riferisce The Baltic Times.",
+   "more": [
+    "La regione di Kaliningrad è un'enclave russa situata sul mar Baltico e confinata tra Polonia e Lituania, rappresentando storicamente un'area di particolare attenzione strategica e militare per l'Alleanza Atlantica e l'Unione Europea."
+   ],
+   "fonti": [
+    {
+     "n": "The Baltic Times",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "http://www.baltictimes.com/lithuania_extends_military_assistance_on_kaliningrad_border_until_mid-nov/",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zd1b64f78",
+   "sez": "mondo",
+   "titolo": "Il presidente lituano Nauseda chiede all'UE maggiore attenzione per le regioni di confine orientale",
+   "orig": "Lithuanian president urges EU to focus more on eastern border regions - The Baltic Times",
+   "lead": "Il presidente della Lituania, Gitanas Nauseda, ha esortato il Consiglio europeo a rivolgere una maggiore attenzione alle zone situate lungo i confini orientali dell'Unione Europea. La richiesta istituzionale punta a rafforzare la sicurezza e la cooperazione nelle aree geografiche più esposte alle tensioni geopolitiche esterne. Lo riferisce The Baltic Times.",
+   "more": [
+    "Il Consiglio europeo riunisce i capi di Stato o di governo dei paesi membri dell'Unione Europea insieme al presidente della Commissione europea. L'organo definisce l'orientamento politico generale e le priorità strategiche dell'UE, affrontando regolarmente le questioni cruciali legate alla sicurezza continentale, alla gestione delle frontiere e alla stabilità regionale."
+   ],
+   "fonti": [
+    {
+     "n": "The Baltic Times",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "http://www.baltictimes.com/lithuanian_president_urges_eu_to_focus_more_on_eastern_border_regions/",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z07a65f05",
+   "sez": "salute",
+   "titolo": "Mbadi: l'Ebola non ha ancora raggiunto una soglia tale da richiedere fondi di emergenza",
+   "orig": "Mbadi says Ebola hasn't reached a level to attract emergency funding yet",
+   "lead": "Il funzionario Mbadi ha dichiarato che i due casi di Ebola segnalati nel paese possono essere tracciati con precisione e attualmente non soddisfano i criteri necessari per essere classificati come un'epidemia. Per questo motivo la situazione non ha ancora raggiunto un livello tale da giustificare lo stanziamento di finanziamenti straordinari per l'emergenza sanitaria. Lo riferisce The Standard (Kenya).",
+   "more": [
+    "Il virus dell'Ebola provoca una grave febbre emorragica spesso letale negli esseri umani e nei primati. La gestione tempestiva dei contatti attraverso il tracciamento epidemiologico è fondamentale per circoscrivere i focolai e impedire la diffusione incontrollata dell'infezione all'interno della popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "The Standard (Kenya)",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.standardmedia.co.ke/article/2001560283/mbadi-says-ebola-hasn-t-reached-a-level-to-attract-emergency-funding-yet",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-16T18:07+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z047ccab0",
+   "sez": "mondo",
+   "titolo": "La principessa Lalla Meryem lancia il Meccanismo nazionale per l'eradicazione del lavoro minorile",
+   "orig": "Princess Lalla Meryem launches National Mechanism for Eradication of Child Labor",
+   "lead": "Sotto l'alto patronato di re Mohammed VI e guidato direttamente dalla principessa Lalla Meryem, l'Osservatorio nazionale per i diritti del fanciullo ha inaugurato a Rabat il Meccanismo nazionale per l'eradicazione del lavoro minorile. L'iniziativa istituzionale è dedicata a sostenere e proteggere i minori vulnerabili. Lo riferisce Hespress English.",
+   "more": [
+    "Il lavoro minorile rappresenta un fenomeno complesso che priva i bambini dell'infanzia, del potenziale e della dignità, ostacolando gravemente il loro sviluppo psicofisico e l'istruzione scolastica. Interventi statali mirati e organismi di tutela specifici sono essenziali per contrastare lo sfruttamento lavorativo dei minori."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147413-princess-lalla-meryem-launches-national-mechanism-for-eradication-of-child-labor.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-16T13:13+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z5c5f1b50",
+   "sez": "economia",
+   "titolo": "Il Tesoro del Marocco avvia cinque collocamenti di surplus per un valore di 24,5 miliardi di dirham",
+   "orig": "Morocco's Treasury launches five surplus placements worth MAD 24.5 bln",
+   "lead": "Il dipartimento del Tesoro e delle finanze esterne marocchino ha effettuato giovedì cinque operazioni di collocamento delle eccedenze di cassa per un ammontare complessivo pari a 24,5 miliardi di dirham. Il primo intervento, del valore di 10 miliardi di dirham, è avvenuto tramite un accordo di riacquisto a sette giorni con un tasso medio ponderato del 2,25 per cento. Lo riferisce Hespress English.",
+   "more": [
+    "I collocamenti di surplus e le operazioni di pronti contro termine rappresentano strumenti di gestione della liquidità a breve termine utilizzati dai governi e dalle tesorerie statali per regolare la disponibilità di denaro nel sistema finanziario e ottimizzare il rendimento delle risorse pubbliche temporaneamente disponibili."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147398-moroccos-treasury-launches-five-surplus-placements-worth-mad-24-5-bln.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-16T12:52+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z35a9de0a",
+   "sez": "mondo",
+   "titolo": "Il capo dell'anticorruzione del Marocco sollecita il nuovo governo a trasformare le riforme in risultati",
+   "orig": "Morocco’s anti-corruption Chief urges new government to turn reforms into results",
+   "lead": "Il responsabile dell'autorità nazionale per la prevenzione e la lotta alla corruzione ha affermato che il nuovo governo marocchino deve concretizzare le riforme in benefici tangibili per i cittadini e le imprese. Durante la presentazione del rapporto annuale a Rabat, Mohamed Benalilou ha inoltre invocato l'adozione di una nuova strategia nazionale e una maggiore coordinazione istituzionale. Lo riferisce Hespress English.",
+   "more": [
+    "Le autorità indipendenti di prevenzione della corruzione svolgono un ruolo di monitoraggio fondamentale nelle istituzioni democratiche, formulando raccomandazioni legislative e controllando l'efficacia delle politiche pubbliche volte a garantire la trasparenza amministrativa e la responsabilità dei funzionari statali."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147400-moroccos-anti-corruption-chief-urges-new-government-to-turn-reforms-into-results.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-16T12:30+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z469f4ce4",
+   "sez": "economia",
+   "titolo": "La commissione anticorruzione di Perlis recupera quasi 700.000 ringgit tramite confische dal 2024",
+   "orig": "Perlis MACC recovers nearly RM700,000 through forfeitures since 2024",
+   "lead": "La sezione dello stato di Perlis della Commissione malese anticorruzione ha recuperato una somma pari a 698.255,55 ringgit attraverso procedimenti di confisca avviati a partire dal 2024. L'attività investigativa e patrimoniale rientra negli sforzi istituzionali di contrasto ai reati finanziari e illeciti amministrativi nella regione. Lo riferisce Malay Mail.",
+   "more": [
+    "Le autorità anticorruzione dotate di poteri di confisca patrimoniale mirano a colpire i proventi illeciti derivanti da reati di corruzione e frode, sottraendo i beni accumulati illegalmente e restituendo risorse finanziarie alle casse pubbliche dello Stato."
+   ],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/16/perlis-macc-recovers-nearly-rm700000-through-forfeitures-since-2024/239383",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-16T20:21+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zfdf81bcc",
+   "sez": "mondo",
+   "titolo": "La storia e l'eredità duratura della minoranza dei tedeschi dei Carpazi in Slovacchia",
+   "orig": "Slovakia expelled most of its Germans. Their legacy is everywhere",
+   "lead": "La vicenda storica dei tedeschi dei Carpazi si estende attraverso secoli di prosperità medievale, il periodo del nazismo e la resistenza antifascista, culminando in un'espulsione postbellica che nel paese viene tuttavia discussa di raddo. L'eredità culturale e materiale di questa comunità è tuttora rintracciabile ovunque nel territorio slovacco. Lo riferisce The Slovak Spectator.",
+   "more": [
+    "I tedeschi dei Carpazi sono gruppi di popolazione di lingua tedesca insediatisi nel territorio dell'attuale Slovacchia a partire dal Basso Medioevo su invito dei monarchi ungheresi. Dopo la seconda guerra mondiale, la maggior parte di essi fu espulsa in seguito ai decreti di Benes emessi nell'Europa centrale."
+   ],
+   "fonti": [
+    {
+     "n": "The Slovak Spectator",
+     "p": "XX",
+     "c": "Bratislava",
+     "u": "https://spectator.sme.sk/culture-and-lifestyle/c/slovakia-expelled-most-of-its-germans-their-legacy-is-everywhere?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss",
+     "angolo": "",
+     "atlas": "Slovakia",
+     "t": "2026-10-16T14:59+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z5b701253",
+   "sez": "ambiente",
+   "titolo": "Allarme doganale a Cipro: rischio di diffusione dell'acaro parassita per le api",
+   "orig": "Customs warns of mite threat to Cyprus bees",
+   "lead": "Il dipartimento doganale cipriota ha diramato un'allerta ufficiale riguardo al pericolo di introduzione di un acaro parassita nocivo per le colonie di api sull'isola. Le autorità hanno invitato la cittadinanza a non trasportare api o attrezzature apistiche provenienti dalle zone settentrionali dell'isola, a seguito di indicazioni sulla presenza del parassita. Lo riferisce Cyprus Mail.",
+   "more": [
+    "Gli acari parassiti costituiscono una delle minacce biologiche più gravi per la sopravvivenza delle api mellifere e per la stabilità degli ecosistemi agricoli, potendo decimare gli alveari e compromettere la produzione di miele e l'impollinazione delle colture."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/16/customs-warns-of-mite-threat-to-cyprus-bees",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-16T18:14+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zc4d518cf",
+   "sez": "mondo",
+   "titolo": "A Cipro la Regata per la Pace, tra le più grandi mai organizzate nell'isola",
+   "orig": "Regatta for Peace one of the largest ever in Cyprus",
+   "lead": "La repubblica di Cipro ospita la prima tappa europea di un percorso velico internazionale che precede l'America's Cup del 2027 a Napoli. Oltre centoventi marinai a bordo di ventitré imbarcazioni partecipano alla Regata per la Pace, un evento che unisce la competizione sportiva alla cooperazione internazionale e alla condivisione delle tradizioni marittime. Lo riferisce Cyprus Mail.",
+   "more": [
+    "L'America's Cup è il trofeo velico più antico e prestigioso al mondo, le cui regate preliminari e tappe di avvicinamento coinvolgono spesso diverse località internazionali per promuovere la nautica da diporto e gli scambi culturali tra i paesi marinari."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/16/regatta-for-peace-one-of-the-largest-ever-in-cyprus",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-16T17:54+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z5cf13d83",
+   "sez": "mondo",
+   "titolo": "Cipro: residui di pesticidi oltre i limiti UE in oltre il 13% dei campioni alimentari testati",
+   "orig": "Cyprus pesticide residues breach EU limits in over 13 per cent of samples",
+   "lead": "I residui di pesticidi rilevati nei campioni di alimenti di origine vegetale analizzati a Cipro nell'anno precedente hanno superato i limiti consentiti dall'Unione Europea nel 13,1 per cento dei casi. Secondo il rapporto del laboratorio generale dello Stato, 61 campioni su 466 sono risultati non conformi alle normative vigenti. Lo riferisce Cyprus Mail.",
+   "more": [
+    "I controlli di sicurezza alimentare condotti dalle autorità sanitarie monitorano la presenza di residui chimici derivanti dai trattamenti fitosanitari nelle coltivazioni, garantendo che i prodotti immessi sul mercato rispettino le soglie di tolleranza stabilite per tutelare i consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/16/cyprus-pesticide-residues-breach-eu-limits-in-over-13-per-cent-of-samples",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-16T17:40+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zec77afe1",
+   "sez": "mondo",
+   "titolo": "Respinte entrambe le offerte per la realizzazione della strada tra Pafo e Polis Chrysochous",
+   "orig": "Both Paphos-Polis Road bids rejected",
+   "lead": "La commissione gare cipriota ha respinto all'unanimità entrambe le proposte presentate per la costruzione della nuova strada di collegamento stradale tra Pafo e Polis Chrysochous. La ministra dei Trasporti Evi Tsolaki ha definito la decisione del tutto attesa, spiegando che un'offerta è stata esclusa per la mancanza di documenti fondamentali, mentre l'altra superava ampiamente il budget previsto. Lo riferisce Cyprus Mail.",
+   "more": [
+    "Le procedure di appalto pubblico richiedono il rigoroso rispetto dei requisiti documentali e finanziari stabiliti dai bandi statali; il superamento dei tetti di spesa o l'assenza di certificazioni essenziali comportano l'immediata inammissibilità delle offerte ricevute."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/16/both-paphos-polis-road-bids-rejected",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-16T17:37+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "za11b89c0",
+   "sez": "sport",
+   "titolo": "Il viceministro Ballotti critica l'esclusione dei pugili dai premi sportivi in Namibia",
+   "orig": "Ballotti upset about boxers missing from awards",
+   "lead": "Il viceministro dello Sport Dino Ballotti ha espresso forte disappunto per l'assenza di atleti del pugilato tra i finalisti dei premi annuali dello sport namibiano per il 2026. Durante la cerimonia di presentazione delle candidature, il rappresentante governativo ha evidenziato che la selezione rappresenta le eccellenze nazionali escludendo tuttavia del tutto i pugili. Lo riferisce The Namibian.",
+   "more": [
+    "I premi sportivi nazionali celebrano annualmente i risultati agonistici di spicco ottenuti dagli atleti di varie discipline all'interno di un paese, fungendo da riconoscimento ufficiale per l'impegno e i successi maturati nelle competizioni nazionali e internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/ballotti-upset-about-boxers-missing-from-awards/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-16T11:50+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zf602caa6",
+   "sez": "mondo",
+   "titolo": "Il governo del Mozambico pianifica l'assunzione di nuovi docenti e operatori sanitari per l'anno prossimo",
+   "orig": "Mozambique: Government plans to recruit 2,920 more teachers, 598 healthcare workers next year",
+   "lead": "Il governo mozambicano ha inserito nel piano di bilancio statale l'obiettivo di reclutare 2.920 nuovi insegnanti e 598 operatori sanitari per l'anno 2027. La bozza economica prevede inoltre l'inserimento di oltre tredici mila giovani in programmi di tirocini pre-professionali per favorire l'occupazione giovanile. Lo riferisce Club of Mozambique.",
+   "more": [
+    "La pianificazione economica e sociale statale nei paesi in via di sviluppo include programmi di inserimento lavorativo e potenziamento dei servizi pubblici essenziali, come istruzione e sanità, per sostenere la crescita demografica e il welfare nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-government-plans-to-recruit-2920-more-teachers-598-healthcare-workers-next-year/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-16T14:43+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z1df2d1dd",
+   "sez": "mondo",
+   "titolo": "Mozambique: il ministro visita il progetto di sottostazione mobile per rafforzare l'energia a Cabo Delgado",
+   "orig": "Mozambique: Minister visits mobile substation project, set to reinforce power supply in six Cabo Delgado districts",
+   "lead": "Il ministro della Pianificazione e dello Sviluppo Salim Cripton Valá si è recato in visita alla sottostazione elettrica mobile destinata all'area di Awasse e alle torri di emergenza acquisite tramite il progetto di recupero della crisi settentrionale. L'infrastruttura mira a potenziare e stabilire in sicurezza la fornitura di energia elettrica in sei distretti della provincia di Cabo Delgado. Lo riferisce Club of Mozambique.",
+   "more": [
+    "Le sottostazioni elettriche mobili rappresentano soluzioni tecnologiche flessibili e rapidamente installabili per ripristinare la trasmissione di energia in zone colpite da conflitti, emergenze o danneggiamenti alle reti di distribuzione tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-minister-visits-mobile-substation-project-set-to-reinforce-power-supply-in-six-cabo-delgado-districts/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-16T14:29+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zff714699",
+   "sez": "mondo",
+   "titolo": "Mauritius: ripristinata la calma dopo gli episodi di disordine pubblico",
+   "orig": "Mauritius says calm restored following spasm of public disorder",
+   "lead": "Le autorità di polizia dell'isola di Mauritius hanno confermato che la situazione è tornata alla normalità, con la totale riapertura delle strade che risultano libere da qualsiasi ostruzione. Dopo il coprifuoco e gli arresti compiuti durante la notte, le attività lavorative e quotidiane hanno ripreso regolarmente. Lo riferisce Club of Mozambique.",
+   "more": [
+    "Le misure di sicurezza pubblica e il coprifuoco vengono imposti dalle autorità statali in risposta a proteste o disordini civili per garantire l'ordine pubblico, prevenire atti di vandalismo e tutelare l'incolumità dei cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mauritius-says-calm-restored-following-spasm-of-public-disorder/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-16T13:40+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z17cf84a5",
+   "sez": "mondo",
+   "titolo": "Il presidente sudafricano Ramaphosa reintegra il capo della polizia sospeso",
+   "orig": "Ramaphosa reinstates suspended police chief",
+   "lead": "Il presidente del Sudafrica Cyril Ramaphosa ha annunciato la reintegrazione nelle funzioni del commissario nazionale della polizia, Fannie Masemola, a sei mesi dalla sua sospensione. Il provvedimento disciplinare era stato adottato in seguito ad accuse di violazione delle regole di finanza pubblica nell'assegnazione irregolare di un appalto. Il capo della polizia riassumerà formalmente l'incarico. Lo riferisce Club of Mozambique.",
+   "more": [
+    "I procedimenti disciplinari a carico di alti funzionari dello Stato prevedono la sospensione cautelare durante le indagini preliminari, con la successiva riammissione in servizio qualora non emergano elementi sufficienti da parte delle autorità giudiziarie o inquirenti."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/ramaphosa-reinstates-suspended-police-chief/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-16T13:10+00:00"
+    },
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610160138.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T08:36+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "ze11e02ce",
+   "sez": "mondo",
+   "titolo": "Il dilemma del Partito del Congresso del Malawi: modificare la leadership o cambiare le regole",
+   "orig": "MCP’s temptation: change the leader or change the rules",
+   "lead": "Il dibattito interno al Partito del Congresso del Malawi solleva interrogativi sulla tenuta della democrazia interna quando le regole statutarie vengono adattate per favorire singoli dirigenti. Secondo il parere di analisti politici locali come George Chaima, tentare di modificare i regolamenti interni anziché sostituire i leader in difficoltà rappresenta una ricorrente tentazione politica. Lo riferisce Nyasa Times.",
+   "more": [
+    "La democrazia interna ai partiti politici si fonda sul rispetto delle norme statutarie e sulla contendibilità della leadership, elementi ritenuti fondamentali per garantire la trasparenza e la rappresentatività delle forze politiche all'interno di un sistema democratico."
+   ],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/mcps-temptation-change-the-leader-or-change-the-rules/?utm_source=rss&utm_medium=rss&utm_campaign=mcps-temptation-change-the-leader-or-change-the-rules",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-16T15:09+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z033ce360",
+   "sez": "mondo",
+   "titolo": "Il ministro Phiri avvia un importante progetto di collegamento stradale da 15 miliardi a Lilongwe",
+   "orig": "Minister Phiri launches major K15bn transport link for Lilongwe",
+   "lead": "Il governo del Malawi ha dato il via a un progetto di viabilità del valore di 15 miliardi di kwacha per allegare i problemi di traffico nella capitale. Il ministro del Governo locale e dello Sviluppo rurale Ben Phiri ha inaugurato i lavori di costruzione della strada Msokera Presidential Drive e di un nuovo ponte per decongestionare le aree urbane in rapida espansione. Lo riferisce Nyasa Times.",
+   "more": [
+    "I progetti di infrastrutture viarie urbane mirano a migliorare la mobilità cittadina, ridurre i tempi di percorrenza e stimolare lo sviluppo economico nei quartieri periferici e in forte crescita demografica attraverso la realizzazione di strade e collegamenti strategici."
+   ],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/minister-phiri-launches-major-k15bn-transport-link-for-lilongwe/?utm_source=rss&utm_medium=rss&utm_campaign=minister-phiri-launches-major-k15bn-transport-link-for-lilongwe",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-16T14:22+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zfcefc33b",
+   "sez": "economia",
+   "titolo": "L'azienda di regali culturali fondata da Brenda Brewer Moore si espande all'aeroporto internazionale Roberts",
+   "orig": "Curated Cultural Gifts Expands to Roberts International Airport",
+   "lead": "Curated Cultural Gifts, attività commerciale di proprietà liberiana fondata dall'imprenditrice Brenda Brewer Moore, ha ampliato la propria presenza sul territorio inaugurando un nuovo punto vendita all'interno dell'aeroporto internazionale Roberts. L'iniziativa commerciale punta a valorizzare l'artigianato e la cultura locale per i passeggeri in transito. Lo riferisce FrontPage Africa.",
+   "more": [
+    "Gli spazi commerciali situati all'interno degli aeroporti internazionali offrono alle piccole e medie imprese locali una vetrina strategica per raggiungere un pubblico globale, promuovendo al contempo i prodotti tipici e l'identità culturale del paese d'origine."
+   ],
+   "fonti": [
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/curated-cultural-gifts-expands-to-roberts-international-airport/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-10-16T13:50+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zb74bb315",
+   "sez": "economia",
+   "titolo": "Il Gruppo Crystal unisce Pure Capital e Qualion Finance in un accordo lussemburghese da 4,2 miliardi",
+   "orig": "Crystal Group combines Pure Capital and Qualion Finance in €4.2bn Luxembourg deal",
+   "lead": "Il gruppo francese Crystal ha perfezionato un'operazione finanziaria in Lussemburgo fondendo le attività di Pure Capital e Qualion Finance. Secondo quanto dichiarato dalla società, l'accordo dà vita al principale gestore patrimoniale indipendente operante nel Granducato, con un volume complessivo di beni gestiti pari a 4,2 miliardi di euro. Lo riferisce Luxembourg Times.",
+   "more": [
+    "Il settore della gestione patrimoniale indipendente riunisce società finanziarie specializzate nella consulenza e nell'amministrazione degli investimenti per conto di clienti privati e istituzionali, sfruttando hub finanziari europei stabili come il Lussemburgo."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/businessandfinance/crystal-group-combines-pure-capital-and-qualion-finance-in-4.2bn-luxembourg-deal/163187304.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-16T15:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z27206826",
+   "sez": "mondo",
+   "titolo": "L'agricoltore lussemburghese Nora Feyder premiata dalle Nazioni Unite",
+   "orig": "Luxembourg farmer honoured by the United Nations",
+   "lead": "Nora Feyder figura tra le cento donne selezionate a livello mondiale per ricevere un riconoscimento ufficiale dalle Nazioni Unite per il suo contributo straordinario all'agricoltura, ai sistemi alimentari e allo sviluppo rurale. Il premio celebra l'impegno femminile nella promozione di pratiche agricole sostenibili. Lo riferisce Luxembourg Times.",
+   "more": [
+    "Le Nazioni Unite promuovono regolarmente iniziative per valorizzare il ruolo cruciale svolto dalle donne nelle comunità rurali e nei settori agroalimentari, evidenziando il loro apporto alla sicurezza alimentare globale e alla salvaguardia dell'ambiente."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/luxembourg-farmer-honoured-by-the-united-nations/163183880.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-16T14:30+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z7fcaf00f",
+   "sez": "sport",
+   "titolo": "Le ambizioni delle Silver Ferns in vista della serie della Constellation Cup contro l'Australia",
+   "orig": "What’s on the line for Taurua as Silver Ferns face crucial Australia series",
+   "lead": "La nazionale di netball delle Silver Ferns della Nuova Zelanda si sta preparando ad affrontare quattro incontri ufficiali contro la selezione australiana delle Diamonds nel quadro della Constellation Cup. Le sfide giungono dopo che la squadra neozelandese non aveva affrontato le avversarie australiane in occasione della recente vittoria della medaglia d'oro ai Giochi del Commonwealth. Lo riferisce Stuff NZ.",
+   "more": [
+    "La Constellation Cup è una prestigiosa competizione internazionale di netball disputata regolarmente tra le nazionali femminili di Australia e Nuova Zelanda, considerata una delle rivalità sportive più intense e seguite nell'area dell'Oceania."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361047604/whats-line-dame-noeline-taurua-silver-ferns-face-crucial-australia-series",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-16T15:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z9afcd410",
+   "sez": "sport",
+   "titolo": "La calciatrice Tameka Yallop sceglie il Wellington Phoenix per rilanciare la sua carriera e la nazionale",
+   "orig": "Why 136-cap Matildas star chose Wellington for World Cup bid",
+   "lead": "L'atleta internazionale Tameka Yallop, forte di centotrentasei presenze con la maglia delle Matildas, ha scelto di trasferirsi al club Wellington Phoenix. La scelta della calciatrice è motivata dal desiderio di assicurare maggiore stabilità familiare e di riconquistare una convocazione stabile nella rappresentativa nazionale australiana. Lo riferisce Stuff NZ.",
+   "more": [
+    "Il campionato professionistico di calcio in Oceania e Australia vede la partecipazione di club in grado di attrarre giocatrici di grande esperienza internazionale, offrendo un palcoscenico competitivo utile per mantenere i massimi livelli di rendimento."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361042748/family-and-world-cup-dream-drive-matildas-star-tameka-yallop-wellington-phoenix",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-16T15:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z6493a336",
+   "sez": "viaggi",
+   "titolo": "Aumentano i posti a sedere offerti dalle compagnie aeree, ma scarseggiano le tariffe economiche",
+   "orig": "Airlines are flooding routes with seats. So where are the cheap fares?",
+   "lead": "Le compagnie aeree continuano a immettere un numero elevato di posti sui collegamenti internazionali, con l'aeroporto di Auckland pronto ad accogliere quasi sei milioni di posti e Christchurch che si avvia a vivere la sua stagione estiva più imponente con oltre 1,27 milioni di posti disponibili. Nonostante l'offerta abbondante, permane l'interrogativo sulla disponibilità di tariffe aeree economiche per i passeggeri. Lo riferisce Stuff NZ.",
+   "more": [
+    "Il mercato del trasporto aereo commerciale reagisce alle fluttuazioni della domanda globale modulando la capacità dei voli e l'offerta di posti, sebbene le dinamiche dei prezzi dei biglietti dipendano da molteplici fattori economici, inclusi i costi del carburante e le tasse aeroportuali."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/travel/361047375/airlines-are-flooding-routes-seats-so-where-are-cheap-fares",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-16T15:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z53c7e976",
+   "sez": "economia",
+   "titolo": "I risparmiatori perdono milioni in interessi bancari a causa dei dettagli nei conti deposito",
+   "orig": "Savers are leaving $500 million in interest on the table. Here’s why you’re probably missing out",
+   "lead": "Molti risparmiatori rischiano di rinunciare a somme considerevoli di interessi maturabili sui propri depositi bancari. L'analisi delle clausole e della stampa fine presenti nei contratti dei conti di risparmio evidenzia come la scarsa attenzione dei clienti finisca per penalizzare i rendimenti effettivi delle somme depositate. Lo riferisce Stuff NZ.",
+   "more": [
+    "La gestione consapevole dei conti di deposito richiede un'attenta lettura delle condizioni contrattuali, dei tassi d'interesse applicati e delle eventuali commissioni, poiché piccoli dettagli normativi possono incidere sensibilmente sui guadagni derivanti dal risparmio privato."
+   ],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/money/361047427/savers-are-leaving-500-million-interest-table-heres-why-youre-probably-missing-out",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-16T15:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z06ba807d",
+   "sez": "mondo",
+   "titolo": "Dodici personalità premiate per il rafforzamento dei legami tra la Croazia e gli Stati Uniti",
+   "orig": "12 people recognised for strengthening ties between Croatia and the US",
+   "lead": "L'Associazione dei professionisti croato-americani ha premiato dodici personalità suddivise in sei differenti categorie nel corso della propria cena di gala annuale. Il riconoscimento celebra l'impegno e il contributo offerti nel rinsaldare i rapporti di cooperazione e amicizia tra la Croazia e gli Stati Uniti d'America. Lo riferisce Croatia Week.",
+   "more": [
+    "Le associazioni professionali transnazionali svolgono una funzione importante nel promuovere la cooperazione economica, culturale e scientifica tra paesi differenti, valorizzando i talenti e le reti di relazioni della diaspora."
+   ],
+   "fonti": [
+    {
+     "n": "Croatia Week",
+     "p": "XX",
+     "c": "Zagabria",
+     "u": "https://www.croatiaweek.com/acap-croatian-american-awards-seattle-2026/",
+     "angolo": "",
+     "atlas": "Croatia",
+     "t": "2026-10-16T13:52+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z64c04d6f",
+   "sez": "cucina",
+   "titolo": "Due prodotti alimentari croati ottengono lo status protetto dall'Unione Europea",
+   "orig": "Two Croatian food products gain protected status",
+   "lead": "Due prodotti alimentari tradizionali della Croazia, il miele di castagno di Banski e il cavolo di Čepin, hanno ottenuto ufficialmente il riconoscimento europeo di denominazione di origine protetta (PDO). Il provvedimento attribuisce una tutela formale a queste eccellenze gastronomiche locali, valorizzando le produzioni tipiche del territorio croato all'interno del mercato comunitario. Lo riferisce Croatia Week.",
+   "more": [
+    "La denominazione di origine protetta è un marchio di tutela giuridica attribuito dall'Unione Europea agli alimenti le cui peculiarità dipendono essenzialmente o esclusiva dall'ambiente geografico di origine, comprensivo dei fattori naturali e umani, e la cui produzione, trasformazione ed elaborazione avvengono in un'area delimitata."
+   ],
+   "fonti": [
+    {
+     "n": "Croatia Week",
+     "p": "XX",
+     "c": "Zagabria",
+     "u": "https://www.croatiaweek.com/croatia-eu-protected-food-products-honey-cabbage/",
+     "angolo": "",
+     "atlas": "Croatia",
+     "t": "2026-10-16T11:59+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zee59a8a2",
+   "sez": "mondo",
+   "titolo": "Il premier Babiš avvisa: possibile futura ondata di migranti dall'Europa occidentale verso la Cechia",
+   "orig": "PM Babiš claims future wave of ‘migrants from Western Europe’ could come to Czechia",
+   "lead": "Il primo ministro Andrej Babiš ha dichiarato che la Repubblica Ceca si sta preparando a un possibile scenario in cui dovrà difendere i propri confini con la Germania dall'afflusso di migranti provenienti dall'Europa occidentale. L'esecutivo ceco valuta dunque misure preventive per fronteggiare questa eventuale futura ondata migratoria lungo i confini nazionali. Lo riferisce Expats.cz.",
+   "more": [
+    "La Repubblica Ceca è un Paese dell'Europa centrale che confina a ovest con la Germania, a nord con la Polonia, a sud con l'Austria e a est con la Slovacchia, trovandosi al centro delle principali direttrici di transito continentale."
+   ],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/prime-minister-babis-claims-future-wave-of-migrants-from-western-europe-could-come-to-czechia",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-16T16:51+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z317954b3",
+   "sez": "mondo",
+   "titolo": "La polizia della Federazione di Bosnia ed Erzegovina istituisce la prima squadra forense CBRN della regione",
+   "orig": "FBiH Police establish first CBRN forensic team in the region",
+   "lead": "L'amministrazione di polizia della Federazione di Bosnia ed Erzegovina, dipendente dal ministero dell'Interno, ha condotto il primo addestramento forense nazionale del Paese per la costituzione di una squadra specializzata in rischi chimici, biologici, radiologici e nucleari (CBRN). Si tratta del primo nucleo investigativo di questo tipo operativo nella regione balcanica. Lo riferisce N1 Bosnia.",
+   "more": [
+    "Le squadre forensi CBRN sono unità specializzate incaricate di intervenire in scenari caratterizzati dalla presenza di agenti chimici, biologici, radiologici o nucleari, raccogliendo prove in sicurezza e gestendo materiali pericolosi per la salute pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/english/news/fbih-police-establish-first-cbrn-forensic-team-in-the-region/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-16T16:30+02:00"
+    },
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/what-is-the-average-monthly-net-salary-in-the-federation-of-bih/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-16T13:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "ze24576d7",
+   "sez": "economia",
+   "titolo": "La Germania aumenta le accise sul tabacco: prezzo medio del pacchetto di sigarette a 14 euro entro il 2030",
+   "orig": "Njemačka povećava porez na duhan: Cijena kutije cigareta 14 eura do 2030.",
+   "lead": "Il ramo inferiore del Parlamento tedesco ha approvato un incremento graduale delle tasse sui prodotti a base di tabacco. La misura fiscale porterà progressivamente il prezzo medio di un pacchetto di sigarette a circa 14 euro entro l'anno 2030, con l'obiettivo di disincentivare il consumo e incrementare le entrate erariali. Lo riferisce N1 Bosnia.",
+   "more": [
+    "L'aumento delle accise sui prodotti del tabacco rappresenta uno strumento di politica fiscale e sanitaria ampiamente utilizzato dai governi europei per ridurre la diffusione del fumo, in particolare tra le generazioni più giovani, e limitare i costi sanitari correlati."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/njemacka-povecava-porez-na-duhan-cijena-kutije-cigareta-14-eura-do-2030/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-16T16:13+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z9fb6c6aa",
+   "sez": "mondo",
+   "titolo": "Il presidente bielorusso: Trump non deve dettare cosa deve fare l'Ucraina",
+   "orig": "Bjeloruski predsjednik: Trump ne bi trebalo da diktira šta Ukrajina treba da radi",
+   "lead": "Il presidente della Bielorussia ha affermato che il presidente degli Stati Uniti Donald Trump non dovrebbe dettare chi debba guidare l'Ucraina né stabilire le decisioni che il Paese deve intraprendere. Secondo il leader bielorusso, la gestione e le scelte politiche future rimangono una questione esclusiva che spetta alle istituzioni e ai cittadini ucraini. Lo riferisce N1 Bosnia.",
+   "more": [
+    "I rapporti diplomatici tra Stati Uniti, Bielorussia e Ucraina si inseriscono nel complesso quadro geopolitico dell'Europa orientale, segnato da alleanze strategiche contrapposte e da ripetuti interventi di mediazione internazionale riguardo al conflitto in corso."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/bjeloruski-predsjednik-trump-ne-bi-trebalo-da-diktira-sta-ukrajina-treba-da-radi/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-16T16:10+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z1108af80",
+   "sez": "mondo",
+   "titolo": "Il governo cantonale di Sarajevo nomina un team di esperti guidato da Amir Vuk Zec per salvare il centro Skenderija",
+   "orig": "Vlada KS imenovala tim stručnjaka na čelu sa Amirom Vukom Zecom da pokušaju spasiti Skenderiju: Evo šta on kaže šta će raditi",
+   "lead": "Il governo del Canton Sarajevo ha istituito un apposito gruppo di lavoro presieduto dall'architetto Amir Vuk Zec, con l'incarico di redigere un piano di gestione e tutela per salvare lo storico centro polifunzionale Skenderija. Il team definirà gli interventi necessari per la salvaguardia e il recupero della struttura. Lo riferisce N1 Bosnia.",
+   "more": [
+    "Il centro Skenderija è un noto complesso culturale, sportivo e commerciale situato a Sarajevo, inaugurato negli anni Sessanta e considerato un punto di riferimento architettonico e sociale per la capitale bosniaca."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/vlada-ks-imenovala-tim-strucnjaka-na-celu-sa-amirom-vukom-zecom-da-pokusaju-spasiti-skenderiju-evo-sta-on-kaze-sta-ce-raditi/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-16T16:05+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zaa86312a",
+   "sez": "salute",
+   "titolo": "Torna la seconda edizione di «Neuropalette», il festival dedicato alla salute mentale e alla neurodivergenza",
+   "orig": "Festivalul dedicat sănătății mintale și neurodivergenței „Neuropalette” revine cu a doua ediție",
+   "lead": "La capitale moldava ospita la seconda edizione di «Neuropalette», un festival culturale e sociale incentrato sul tema della salute mentale e della neurodivergenza. L'evento invita artisti, centri di assistenza psicologica e persone neurodivergenti a partecipare attivamente al programma, promuovendo il confronto e l'inclusione sociale. Lo riferisce Moldova.org.",
+   "more": [
+    "Il termine neurodivergenza descrive la variabilità delle funzioni cerebrali umane, comprendendo condizioni come l'autismo, l'adhd e la dislessia, e promuove un approccio culturale che valorizza le differenze cognitive anziché considerarle deficit da correggere."
+   ],
+   "fonti": [
+    {
+     "n": "Moldova.org",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://www.moldova.org/festivalul-dedicat-sanatatii-mintale-si-neurodivergentei-neuropalette-revine-cu-a-doua-editie/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-16T13:33+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z58a464a3",
+   "sez": "mondo",
+   "titolo": "Il presidente iraniano Pezeshkian: «Gli Stati Uniti cercano di sottomettere l'Iran, non lo accetteremo»",
+   "orig": "بزشكيان: الولايات المتحدة تسعى لإخضاع إيران ولن نقبل بذلك",
+   "lead": "Il presidente iraniano Masoud Pezeshkian ha ribadito che Teheran non intende cedere alle pressioni di Washington, accusando gli Stati Uniti di perseguire l'obiettivo di sottomettere la Repubblica Islamica. Il capo dello Stato ha confermato la ferma opposizione del Paese a qualsiasi tentativo di subordinazione esterna. Lo riferisce Roya News.",
+   "more": [
+    "I rapporti tra Stati Uniti e Iran sono caratterizzati da decenni di tensioni diplomatiche e sanzioni economiche, legate in particolare al programma nucleare iraniano e alla proiezione geopolitica della Repubblica Islamica nella regione mediorientale."
+   ],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397800",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-16T18:09+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z5c8902ba",
+   "sez": "mondo",
+   "titolo": "Giordania: emendamento al regolamento per l'uso dei mezzi elettronici nelle procedure giudiziarie civili per il 2026",
+   "orig": "صدور النظام المعدل لاستعمال الوسائل الإلكترونية في الإجراءات القضائية المدنية لسنة 2026",
+   "lead": "È stato pubblicato il regolamento modificato relativo all'impiego degli strumenti digitali e telematici nelle procedure dei procedimenti giudiziari civili per l'anno 2026. La normativa introduce disposizioni specifiche, tra cui la definizione ufficiale del recapito di posta digitale, per modernizzare il sistema giudiziario del Paese. Lo riferisce Roya News.",
+   "more": [
+    "La digitalizzazione dei procedimenti giudiziari rappresenta un processo di riforma volto a semplificare l'accesso alla giustizia, ridurre i tempi burocratici e garantire la certezza delle notifiche attraverso l'uso di piattaforme informatiche certificate."
+   ],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397798",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-16T17:29+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z2e3175ed",
+   "sez": "mondo",
+   "titolo": "Zelensky ai leader europei: «Servono 70 miliardi di euro per proseguire lo scontro militare»",
+   "orig": "زيلينسكي لقادة أوروبا: نحتاج 70 مليار يورو لمواصلة المواجهة العسكرية",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha rivolto un appello ai leader europei sottolineando l'urgente necessità di ottenere un sostegno finanziario aggiuntivo pari a 70 miliardi di euro. Secondo il governo di Kiev, tali risorse sono indispensabili per coprire le spese e garantire la prosecuzione delle operazioni militari. Lo riferisce Roya News.",
+   "more": [
+    "Gli aiuti finanziari e militari internazionali all'Ucraina costituiscono il pilastro economico fondamentale per sostenere il bilancio statale e la difesa nazionale nel contesto del conflitto in corso."
+   ],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397796",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-16T17:00+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z0f20d060",
+   "sez": "mondo",
+   "titolo": "Le forze yemenite annunciano avanzamenti territoriali nel nord e nel sud della provincia di Marib",
+   "orig": "القوات اليمنية تعلن التقدم شمال وجنوبي مأرب",
+   "lead": "Le forze governative yemenite hanno condotto un'offensiva su vasta scala contro le posizioni dei miliziani Houthi nell'area di Wadi Al-Hajla e nelle alture di Al-Raida, situate nel nord del distretto di Harib e nella parte meridionale della provincia di Marib. L'azione militare è stata accompagnata dall'intensificazione dei raid aerei mirati. Lo riferisce Yemen Monitor.",
+   "more": [
+    "La regione di Marib rappresenta uno dei teatri di battaglia strategici più importanti dello Yemen, ricca di risorse energetiche e contesa aspramente tra le forze governative e il movimento Houthi nel quadro del conflitto civile in corso."
+   ],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/184965?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a7%25d9%2584%25d9%2582%25d9%2588%25d8%25a7%25d8%25aa-%25d8%25a7%25d9%2584%25d9%258a%25d9%2585%25d9%2586%25d9%258a%25d8%25a9-%25d8%25aa%25d8%25b9%25d9%2584%25d9%2586-%25d8%25a7%25d9%2584%25d8%25aa%25d9%2582%25d8%25af%25d9%2585-%25d8%25b4%25d9%2585%25d8%25a7%25d9%2584-%25d9%2588%25d8%25ac%25d9%2586%25d9%2588%25d8%25a8",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-16T15:05+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a23d34f",
+   "sez": "mondo",
+   "titolo": "L'Uzbekistan avvia il primo censimento delle attività imprenditoriali fino al 30 novembre",
+   "orig": "Uzbekistan launches first business census, running until 30 November",
+   "lead": "Le autorità dell'Uzbekistan hanno avviato il primo censimento ufficiale delle entità commerciali del Paese, iniziato a metà ottobre e programmato per concludersi il 30 novembre. L'iniziativa mira a ottenere una valutazione accurata dell'attività economica nazionale, tenendo conto che in precedenza l'economia sommersa era stimata al 23% e che nel settore agricolo raggiunge il 60% del fatturato totale. Lo riferisce Gazeta.uz (inglese).",
+   "more": [
+    "I censimenti economici nazionali consentono ai governi di raccogliere dati statistici dettagliati sulla struttura produttiva, migliorando la pianificazione delle politiche fiscali e la regolarizzazione dei settori economici informali."
+   ],
+   "fonti": [
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/16/business-census/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-16T14:03+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z15c79abd",
+   "sez": "mondo",
+   "titolo": "L'Uzbekistan annuncia progetti per la costruzione di una seconda e una terza centrale nucleare",
+   "orig": "Plans to build second and third nuclear power plants in Uzbekistan announced",
+   "lead": "Il presidente uzbeko Shavkat Mirziyoyev ha annunciato che il Paese sta valutando la realizzazione non soltanto di una seconda, ma anche di una terza centrale nucleare sul proprio territorio nazionale. I colloqui ufficiali con i potenziali investitori esteri interessati al progetto del secondo impianto atomico sono stati programmati per il mese di ottobre. Lo riferisce Gazeta.uz (inglese).",
+   "more": [
+    "Lo sviluppo dell'energia nucleare civile rappresenta una strategia adottata da diversi Stati emergenti per diversificare le fonti di approvvigionamento energetico, ridurre le emissioni inquinanti e soddisfare la crescente domanda industriale."
+   ],
+   "fonti": [
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/16/nuclear-power-station/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-16T13:13+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z46c13a89",
+   "sez": "mondo",
+   "titolo": "Il consiglio del CHP espelle 48 membri accusati di servire fazioni rivali",
+   "orig": "CHP Board Expels 48 Members Accused of Serving Rival Wings",
+   "lead": "Il consiglio di disciplina del partito turco CHP ha espulso 48 membri e alti funzionari, tra cui Selin Sayek Böke, in seguito all'esame di cinquanta dossier da parte dell'organismo riunito ad Ankara. I provvedimenti disciplinari sono stati adottati nei confronti di esponenti accusati di aver agito per conto di fazioni politiche rivali. Lo riferisce Kurdistan24.",
+   "more": [
+    "Il CHP è il principale partito di opposizione laica in Turchia, fondato storicamente sui principi repubblicani e al centro di dinamiche congressuali e correntizie molto vivaci."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946518/chp-board-expels-48-members-accused-of-serving-rival-wings",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-16T18:13+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z07c63b26",
+   "sez": "mondo",
+   "titolo": "L'Iraq non cerca la guerra e sostiene le iniziative di pace, afferma il ministro degli Esteri",
+   "orig": "Iraq Does Not Seek War, Supports Peace Initiatives, FM Says",
+   "lead": "Il ministro degli Esteri iracheno ha ribadito che il suo Paese non persegue la guerra e sostiene fermamente i processi di pacificazione regionale. Le dichiarazioni sono state rese durante un incontro istituzionale con il ministro della Difesa italiano Guido Crosetto, svoltosi presso la sede del ministero della Difesa a Roma nell'ambito della visita ufficiale del capo della diplomazia di Baghdad nella capitale italiana. Lo riferisce Kurdistan24.",
+   "more": [
+    "Le relazioni diplomatiche e di cooperazione militare tra Italia e Iraq si inseriscono nei programmi internazionali di stabilizzazione del Medio Oriente e di supporto alle istituzioni irachene nella lotta al terrorismo."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946507/iraq-does-not-seek-war-supports-peace-initiatives-fm-says",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-16T17:21+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z209fbf7f",
+   "sez": "mondo",
+   "titolo": "Il rappresentante del KRG evidenzia i legami storici tra la regione del Kurdistan e il Vaticano",
+   "orig": "KRG Representative Highlights Historic Ties Between Kurdistan Region and Vatican",
+   "lead": "La rappresentante del governo regionale del Kurdistan (KRG) ha espresso grande orgoglio e soddisfazione nel ricordare la presenza della bandiera curda all'interno del Vaticano, portata dai cristiani locali. Durante l'intervento sono stati rimarcati i profondi legami storici e culturali che uniscono la regione curda alla Santa Sede. Lo riferisce Kurdistan24.",
+   "more": [
+    "I rapporti tra la regione autonoma del Kurdistan e la Città del Vaticano si fondano sulla tutela delle minoranze religiose cristiane presenti in Medio Oriente e sulle iniziative diplomatiche interreligiose."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946482/krg-representative-highlights-historic-ties-between-kurdistan-region-and-vatican",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-16T14:55+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zd063eacd",
+   "sez": "mondo",
+   "titolo": "L'Uzbekistan avvia l'iter per stabilire un quadro giuridico per i servizi di parcheggio con conducente",
+   "orig": "Uzbekistan moves to establish legal framework for valet parking services",
+   "lead": "Il parlamento dell'Uzbekistan sta esaminando una nuova normativa volta a regolamentare i servizi di parcheggio con conducente (valet parking). Le modifiche legislative proposte introducono standard operativi in materia di sicurezza dei veicoli, responsabilità degli operatori, coperture assicurative, diritti dei clienti e risarcimenti per eventuali danni, con l'obiettivo di prevenire la sosta abusiva e tutelare i consumatori senza penalizzare le imprese. Lo riferisce Daryo.",
+   "more": [
+    "La regolamentazione dei servizi di parcheggio privati risponde alla necessità di tutelare la proprietà privata degli utenti e garantire la trasparenza commerciale nelle aree urbane in rapida espansione economica."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/16/uzbekistan-moves-to-establish-legal-framework-for-valet-parking-services/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-16T15:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "zfba9571c",
+   "sez": "mondo",
+   "titolo": "L'Uzbekistan introduce pene detentive fino a otto anni per la violazione dei diritti di immunità",
+   "orig": "Uzbekistan introduces up to 8 years in prison for violating immunity rights",
+   "lead": "Il governo dell'Uzbekistan ha inasprito le sanzioni penali introducendo pene detentive che arrivano fino a otto anni di reclusione per la detenzione illegale di persone che godono di immunità o per la violazione delle loro tutele legali. La legge prevede sanzioni ancora più severe in caso di recidiva, azioni di gruppo, violenza o falsificazione di prove. Lo riferisce Daryo.",
+   "more": [
+    "La tutela dell'immunità legale e funzionale rappresenta una garanzia costituzionale volta a proteggere le funzioni pubbliche da interferenze o abusi di potere arbitrari da parte di autorità locali."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/16/uzbekistan-introduces-up-to-8-years-in-prison-for-violating-immunity-rights/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-16T13:24+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
+   "id": "z78f86df7",
+   "sez": "mondo",
+   "titolo": "L'Uzbekistan punta a generare oltre 129 miliardi di kWh di elettricità all'anno entro il 2030",
+   "orig": "Uzbekistan targets 129bn kWh in annual electricity generation by 2030",
+   "lead": "Il governo uzbeko ha programmato l'aumento della produzione annuale di energia elettrica a oltre 129 miliardi di kWh entro il 2030. Il piano prevede che le fonti rinnovabili rappresentino il 54% della produzione complessiva, accompagnate dallo sviluppo di 22.000 MW di nuova capacità generativa per far fronte alla crescente domanda e migliorare l'affidabilità della rete. Lo riferisce Daryo.",
+   "more": [
+    "La transizione energetica verso le fonti rinnovabili nei Paesi dell'Asia centrale è orientata a ridurre la dipendenza dai combustibili fossili tradizionali e a garantire la sostenibilità ambientale dello sviluppo industriale."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/16/uzbekistan-targets-129bn-kwh-in-annual-electricity-generation-by-2030/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-16T12:54+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:52",
+   "uscita": "17"
+  },
+  {
    "id": "z36e7e35b",
    "sez": "mondo",
    "titolo": "Kruševo ricorda Toše Proeski nel diciannovesimo anniversario della scomparsa",
@@ -1097,6 +3406,15 @@ window.EDIZIONI["2026-10-16-sera"] = {
      "angolo": "",
      "atlas": "Belgium",
      "t": "2026-10-16T15:15+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/16/news/leader_scarafaggi_india_arrestato_abhijeet_dipke-425652528/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-16T13:55+02:00"
     }
    ],
    "data": "16 ott",
@@ -13157,30 +15475,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zb0a36672",
-   "sez": "mondo",
-   "titolo": "Sudafrica: Masemola torna commissario di polizia dopo la revoca della sospensione da parte di Ramaphosa",
-   "orig": "South Africa: Masemola Back As Police Commissioner After Ramaphosa Lifts Suspension",
-   "lead": "Masemola era stato sospeso a titolo precauzionale nell'aprile 2026 dopo essere comparso in tribunale con accuse legate a un appalto da 360 milioni di rand per servizi sanitari della polizia. Nel frattempo la tenente generale Puleng Dimpane ha svolto il ruolo di commissario nazionale ad interim, e il presidente Ramaphosa ha dichiarato che ha servito con distinzione. Ora Masemola riprende il suo incarico. Lo riferisce allAfrica.",
-   "more": [
-    "Il commissario nazionale di polizia è il vertice delle forze dell'ordine sudafricane, nominato dal presidente. Il Sudafrica ha vissuto negli ultimi anni diversi scandali legati ad appalti pubblici e corruzione nelle istituzioni di sicurezza, con indagini che hanno coinvolto figure di alto livello."
-   ],
-   "fonti": [
-    {
-     "n": "allAfrica",
-     "p": "XX",
-     "c": "Washington",
-     "u": "https://allafrica.com/stories/202610160138.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T08:36+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:41",
-   "uscita": "13"
-  },
-  {
    "id": "zdb7f8a05",
    "sez": "mondo",
    "titolo": "Il sovrano malese di Negeri Sembilan ordina al capo del governo locale di sparire dalla sua vista in un raro rimprovero pubblico",
@@ -23685,7 +25979,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z770e973b": "Citizen Digital evidenzia le assenze per infortunio come possibile svantaggio per la squadra keniota all'esordio mondiale.",
   "z82ecfd8b": "Citizen Digital riporta l'iniziativa parlamentare come risposta a lamentele diffuse dei consumatori kenioti.",
   "z4725c2ac": "Citizen Digital riporta le dichiarazioni del giocatore come segnale della sua crescita di ruolo nel club londinese.",
-  "zb0a36672": "allAfrica riporta la decisione presidenziale come chiusura temporanea di una vicenda giudiziaria ancora aperta.",
   "zdb7f8a05": "South China Morning Post evidenzia l'inusuale intervento pubblico del sovrano come segnale di crisi istituzionale.",
   "zeb199852": "South China Morning Post racconta il sostegno popolare alla proposta attraverso testimonianze di genitori preoccupati.",
   "zd5241097": "The Japan Times riporta la notizia come segnale della competizione tecnologica tra case automobilistiche nel mercato cinese dei veicoli elettrici.",
@@ -24195,7 +26488,103 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z1f7b84f1": "Il quotidiano senegalese dà risalto all'analisi economica sulla capacità dello Stato di attrarre investimenti istituzionali.",
   "zbcf3eac5": "Il quotidiano britannico analizza le scelte dell'esecutivo e le richieste delle case costruttrici in merito alla transizione ecologica.",
   "zbac31390": "Il quotidiano economico londinese esamina la svolta assertiva della politica estera ucraina nei confronti degli alleati occidentali.",
-  "z5915c609": "L'emittente serba evidenzia le dichiarazioni del leader politico in vista della scadenza elettorale."
+  "z5915c609": "L'emittente serba evidenzia le dichiarazioni del leader politico in vista della scadenza elettorale.",
+  "z1c9392a2": "La testata N1 Serbia mette in evidenza la critica istituzionale sulla trasparenza dei provvedimenti di clemenza governativi.",
+  "z92d1cff5": "N1 Serbia pone l'accento sulla svolta aggressiva e priva di contenuti programmatici positivi della campagna elettorale del partito di governo.",
+  "ze0104895": "N1 Serbia evidenzia la portata storica e drammatica del disastro naturale che ha colpito la metropoli turca.",
+  "z9bbfd351": "N1 Serbia trasmette in diretta e monitora le tappe della campagna elettorale della coalizione di governo guidata da Aleksandar Vučić.",
+  "z4ba3c433": "The Punch pone l'accento sulla risposta parlamentare ai pericoli per la salute pubblica derivanti dalla contraffazione e dalla contaminazione alimentare.",
+  "z93c49c1d": "The Punch evidenzia l'attivismo delle organizzazioni studentesche nella richiesta di maggiori garanzie sanitarie nei luoghi di studio.",
+  "z1e703803": "The Punch valorizza il riconoscimento internazionale ottenuto da un ricercatore nigeriano nel campo delle scienze ambientali e idriche.",
+  "z971ce636": "The Punch sottolinea l'impegno del parlamento nel sollecitare risorse finanziarie adeguate per le bonifiche ambientali nel Delta del Niger.",
+  "z37404ca8": "The EastAfrican analizza le dinamiche diplomatiche e le pressioni esercitate da Washington sulle candidature internazionali di alto livello.",
+  "z5f21f12c": "Citizen Digital celebra il traguardo scientifico e chirurgico raggiunto dalla sanità keniota.",
+  "zff8818d1": "Citizen Digital pone l'accento sulla stretta amministrativa e sulla lotta alla corruzione all'interno della pubblica amministrazione keniota.",
+  "z67516158": "Citizen Digital documenta l'attività istituzionale e i progressi dei cantieri stradali nell'ambito della politica di sviluppo del governo keniota.",
+  "za648708a": "Citizen Digital riprende le dichiarazioni dei tecnici europei sul panorama calcistico internazionale.",
+  "z3ecc3a49": "Citizen Digital evidenzia l'appello istituzionale alla pacificazione e alla coesione politica in vista delle future scadenze elettorali.",
+  "zd2a70121": "South China Morning Post pone l'accento sulla richiesta economica avanzata da Kiev ai partner europei per sostenere le spese di difesa.",
+  "zc7982640": "South China Morning Post offre una prospettiva accademica e analitica sul confronto tecnologico e geopolitico tra Washington e Pechino.",
+  "zf5a2c36a": "South China Morning Post evidenzia il divario di tendenza negli investimenti scientifici tra le due superpotenze mondiali.",
+  "z1be92126": "South China Morning Post analizza le conseguenze economiche e industriali delle politiche protezionistiche statunitensi nel settore automobilistico.",
+  "z8e9fbb21": "The Japan Times traspare l'impegno nella gestione della crisi informatica attraverso aggiornamenti periodici al pubblico.",
+  "z3c7cb991": "The Korea Herald riporta i dettagli dell'identificazione del responsabile e le decisioni delle autorità investigative sudcoreane.",
+  "z4e543673": "The Korea Herald evidenzia l'evoluzione della kermesse musicale e il successo internazionale del fenomeno K-pop.",
+  "ze72d6cca": "The Korea Herald rende omaggio alla storia e all'impatto culturale delle grandi icone della recitazione sudcoreana.",
+  "z2a934be4": "The Hindu segue le vicende politiche interne e i riflessi giudiziari che coinvolgono i dirigenti del partito nel Kerala.",
+  "zd554c295": "Times of India analizza le strategie e le prospettive di unità delle forze di opposizione nel contesto delle tensioni istituzionali indiane.",
+  "z442d64b1": "Times of India esamina le contraddizioni e le sfide elettorali dei candidati conservatori nel sistema politico statunitense.",
+  "zff913673": "Times of India evidenzia le vicende di spionaggio e dissidenza militare collegate alla guerra in territorio ucraino.",
+  "z4b5d2729": "Times of India segue gli impegni agonistici dei principali campioni del cricket indiano nei tornei nazionali.",
+  "z77f1cce1": "Times of India mette in luce le tendenze manageriali moderne adottate dai vertici delle grandi aziende tecnologiche globali.",
+  "zd9553633": "Times of India racconta le storie di conflitti giudiziari legati al patrimonio immobiliare familiare all'estero.",
+  "z7f1f393b": "La testata Dawn evidenzia le dichiarazioni del ministro dell'Interno pachistano in merito alle polemiche sulle nomine politiche regionali.",
+  "zd6525187": "La testata The Kathmandu Post sottolinea l'esperienza diplomatica del nuovo rappresentante indiano e i suoi precedenti incarichi regionali.",
+  "z0b5f45ae": "La testata The Kathmandu Post focalizza l'attenzione sulla dedizione di un maestro artigiano nella preservazione di una tradizione manuale millenaria.",
+  "z89c07d70": "La testata Philippine Daily Inquirer evidenzia l'impatto immediato del nuovo giocatore straniero nella qualificazione della squadra.",
+  "z654e33e2": "La testata Philippine Daily Inquirer enfatizza la straordinaria impresa della tennista britannica, capace di risalire la china dopo un grave infortunio.",
+  "z60628aa7": "La testata The Straits Times pone l'accento sul dolore e sulla richiesta di chiarezza da parte dei parenti delle vittime a distanza di giorni dalla tragedia.",
+  "z8d656e5f": "La testata The Straits Times evidenzia le immediate conseguenze tattiche derivanti dalla decisione statunitense sulle telecomunicazioni militari.",
+  "z96943c7d": "La testata The Astana Times raccoglie e sintetizza l'eco internazionale sulle strategie geopolitiche ed economiche kazake.",
+  "z6a26e998": "La testata Middle East Eye racconta come la satira e i social network abbiano trasformato un episodio di contestazione in un fenomeno culturale virale.",
+  "z1bcba6d5": "La testata Sydney Morning Herald evidenzia la fine di una tradizione sportiva cittadina durata quasi un secolo.",
+  "z80ed53c5": "La testata Sydney Morning Herald sottolinea gli investimenti nel settore alberghiero di lusso nella capitale della Thailandia.",
+  "z347a5c8d": "La testata Sydney Morning Herald promuove un'attività ludica e interattiva dedicata ai lettori amanti delle curiosità.",
+  "z9c218f06": "La testata Euronews sottolinea la tendenza dei marchi automobilistici a unire il design d'epoca con la tecnologia elettrica contemporanea.",
+  "zb7104932": "La testata Euronews evidenzia il divario tra lo stupore mediatico per il prototipo volante e le prudenti previsioni finanziarie degli esperti di mercato.",
+  "z54fae5d8": "La testata South China Morning Post – Cina evidenzia la portata scientifica della scoperta fossile in grado di riscrivere le teorie classiche sull'evoluzione aviaria.",
+  "ze2cdcb45": "La testata Il Fatto Quotidiano riporta le memorie dell'ex portavoce reale bilanciandole con le perplessità sulla costante esposizione mediatica della principessa.",
+  "zdab63852": "La testata Il Fatto Quotidiano offre una riflessione di natura geopolitica sulle condizioni necessarie per raggiungere una soluzione diplomatica alla guerra.",
+  "zd82be4a9": "La testata Il Messaggero evidenzia il raggiungimento dell'accordo istituzionale tra Roma e Bruxelles sulle politiche energetiche nazionali.",
+  "z1657e14d": "La testata Il Messaggero analizza l'andamento dei flussi di consenso elettorale per le nuove forze della destra sovranista.",
+  "zb3826cb5": "La testata Sky TG24 sottolinea la missione diplomatica di Zelensky a Bruxelles alla ricerca di garanzie economiche in un momento di forte tensione internazionale.",
+  "zeab8a180": "La testata The Baltic Times evidenzia la visita istituzionale del commissario europeo e l'importanza strategica della cooperazione accademica per la difesa.",
+  "z5bae053d": "La testata The Baltic Times sottolinea il mantenimento delle misure di vigilanza rafforzata lungo i confini orientali della Lituania.",
+  "zd1b64f78": "La testata baltica sottolinea l'urgenza di focalizzare le politiche comunitarie sulle frontiere esterne dell'Unione.",
+  "z07a65f05": "Il quotidiano keniota riporta la valutazione ufficiale che esclude per il momento il ricorso a misure economiche straordinarie.",
+  "z047ccab0": "La testata marocchina evidenzia l'impegno istituzionale di alto livello nella tutela dei diritti dei minori.",
+  "z5c5f1b50": "Il portale economico evidenzia i dettagli tecnici e finanziari delle operazioni di gestione della liquidità statale.",
+  "z35a9de0a": "Il sito d'informazione marocchino pone l'accento sulla richiesta di efficacia concreta avanzata dall'autorità anticorruzione.",
+  "z469f4ce4": "Il quotidiano malese rende noti i dati ufficiali relativi ai recuperi di denaro derivanti dalle attività di confisca.",
+  "zfdf81bcc": "La testata slovacca approfondisce il profilo storico e la memoria collettiva legata a una minoranza spesso dimenticata.",
+  "z5b701253": "Il giornale cipriota mette in evidenza la misura di prevenzione sanitaria disposta dalle dogane per proteggere il patrimonio apistico.",
+  "zc4d518cf": "La testata isolana sottolinea la portata eccezionale della manifestazione velica e i legami marittimi tra Cipro e l'Italia.",
+  "z5cf13d83": "Il quotidiano cipriota riporta i dati allarmanti emersi dal rapporto ufficiale sulla sicurezza dei prodotti alimentari.",
+  "zec77afe1": "Il giornale di Nicosia evidenzia l'esito unanime della commissione e le motivazioni tecniche che hanno bloccato il progetto infrastrutturale.",
+  "za11b89c0": "La testata namibiana dà risalto alla polemica istituzionale sollevata in merito alle esclusioni nelle nomination ufficiali.",
+  "zf602caa6": "Il portale informativo mozambicano analizza le previsioni di spesa pubblica e le assunzioni previste dal bilancio statale.",
+  "z1df2d1dd": "La testata mozambicana descrive l'intervento governativo volto alla ricostruzione delle infrastrutture energetiche regionali.",
+  "zff714699": "Il sito informativo sottolinea il ritorno alla piena normalità sull'isola dopo i disordini dei giorni precedenti.",
+  "z17cf84a5": "La testata segue gli sviluppi istituzionali legati ai vertici della sicurezza in Sudafrica.",
+  "ze11e02ce": "Il periodico del Malawi offre un'analisi critica sulle dinamiche di potere e sulla riforma delle regole partitiche.",
+  "z033ce360": "Il giornale locale evidenzia l'impatto positivo dell'opera pubblica sulla circolazione stradale nella capitale.",
+  "zfcefc33b": "La testata liberiana documenta la crescita e l'espansione commerciale di un'impresa locale guidata da donne.",
+  "zb74bb315": "Il quotidiano lussemburghese sottolinea la rilevanza strategica della fusione per il mercato finanziario locale.",
+  "z27206826": "Il giornale mette in luce il prestigioso traguardo internazionale raggiunto dall'agricoltore lussemburghese.",
+  "z7fcaf00f": "La testata neozelandese analizza le aspettative agonistiche della squadra nazionale in vista del torneo.",
+  "z9afcd410": "Il sito neozelandese approfondisce le motivazioni personali e professionali dietro il trasferimento della giocatrice.",
+  "z6493a336": "La testata esamina il paradosso tra la forte crescita della capacità di trasporto aereo e i costi dei biglietti.",
+  "z53c7e976": "Il portale fornisce indicazioni ai consumatori sulle insidie nascoste nei contratti bancari di risparmio.",
+  "z06ba807d": "Il giornale croato celebra le eccellenze che contribuiscono a intensificare i rapporti diplomatici e culturali bilaterali.",
+  "z64c04d6f": "La testata evidenzia il riconoscimento europeo ottenuto da due specialità gastronomiche tradizionali del Paese.",
+  "zee59a8a2": "La testata pone l'accento sulle dichiarazioni del premier riguardo alla sicurezza dei confini nazionali e alla gestione di scenari migratori inediti.",
+  "z317954b3": "La testata sottolinea il primato regionale e nazionale nella creazione di una capacità investigativa e di sicurezza altamente specializzata.",
+  "ze24576d7": "La testata evidenzia l'impatto economico a lungo termine delle nuove misure fiscali approvate dal parlamento tedesco.",
+  "z9fb6c6aa": "La testata evidenzia la presa di posizione del leader bielorusso in merito alle interferenze esterne nelle dinamiche politiche ucraine.",
+  "z1108af80": "La testata mette in luce l'iniziativa istituzionale per il recupero di un'infrastruttura urbana di grande rilevanza storica e collettiva.",
+  "zaa86312a": "La testata pone l'accento sulla promozione dell'inclusione e sul coinvolgimento del mondo artistico e sanitario nell'evento.",
+  "z58a464a3": "La testata evidenzia la linea di fermezza e la risposta ufficiale del governo iraniano nei confronti della politica statunitense.",
+  "z5c8902ba": "La testata focalizza l'attenzione sull'aggiornamento normativo finalizzato all'innovazione digitale del sistema giudiziario.",
+  "z2e3175ed": "La testata evidenzia la richiesta economica urgente avanzata dal presidente ucraino ai partner europei.",
+  "z0f20d060": "La testata pone l'accento sui successi militari dichiarati dall'esercito regolare nelle zone contese del Paese.",
+  "z7a23d34f": "La testata evidenzia l'importanza statistica della prima rilevazione censuaria per stimare l'economia sommersa del Paese.",
+  "z15c79abd": "La testata pone l'accento sulle ambiziose strategie energetiche del governo uzbeko e sugli accordi con gli investitori internazionali.",
+  "z46c13a89": "La testata evidenzia la dura stretta disciplinare interna attuata dai vertici del partito di opposizione turco.",
+  "z07c63b26": "La testata sottolinea la linea diplomatica di distensione internazionale ribadita dal governo iracheno in Italia.",
+  "z209fbf7f": "La testata evidenzia la valenza simbolica e i rapporti storici tra la comunità curda e la Santa Sede.",
+  "zd063eacd": "La testata pone l'accento sull'introduzione di regole a tutela dei consumatori e sulla formalizzazione del settore dei servizi di sosta.",
+  "zfba9571c": "La testata evidenzia la severità delle nuove sanzioni introdotte dal legislatore uzbeko per proteggere le prerogative legali.",
+  "z78f86df7": "La testata evidenzia gli obiettivi di transizione ecologica e di incremento della capacità produttiva energetica fissati per il decennio."
  },
  "contesti": {
   "z1838bc4e": "Nei giorni precedenti erano emerse le polemiche sul piano segreto di Infantino per vendere quote del Mondiale a investitori privati, poi abbandonato, e sulle critiche al premio per la pace Fifa assegnato a Trump, ritenuto eccessivamente politicizzato dai membri del consiglio.",
@@ -27055,13 +29444,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
    "n": "Londra",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zb0a36672": {
-   "n": "Sudafrica",
-   "p": [
-    "South Africa"
    ],
    "pt": []
   },
@@ -30784,6 +33166,695 @@ window.EDIZIONI["2026-10-16-sera"] = {
     "Serbia"
    ],
    "pt": []
+  },
+  "z1c9392a2": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z92d1cff5": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "ze0104895": {
+   "n": "Istanbul",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z9bbfd351": {
+   "n": "Novi Sad",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z4ba3c433": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z93c49c1d": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z1e703803": {
+   "n": "Lagos",
+   "p": [
+    "United States of America",
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z971ce636": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z37404ca8": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5f21f12c": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zff8818d1": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z67516158": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "za648708a": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya",
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z3ecc3a49": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zd2a70121": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zc7982640": {
+   "n": "Hong Kong",
+   "p": [
+    "China",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf5a2c36a": {
+   "n": "Hong Kong",
+   "p": [
+    "China",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1be92126": {
+   "n": "Hong Kong",
+   "p": [
+    "China",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8e9fbb21": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z3c7cb991": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z4e543673": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "ze72d6cca": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z2a934be4": {
+   "n": "Chennai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zd554c295": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z442d64b1": {
+   "n": "Mumbai",
+   "p": [
+    "United States of America",
+    "India"
+   ],
+   "pt": []
+  },
+  "zff913673": {
+   "n": "Mumbai",
+   "p": [
+    "Russia",
+    "Ukraine",
+    "India"
+   ],
+   "pt": []
+  },
+  "z4b5d2729": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z77f1cce1": {
+   "n": "Mumbai",
+   "p": [
+    "United States of America",
+    "India"
+   ],
+   "pt": []
+  },
+  "zd9553633": {
+   "n": "Mumbai",
+   "p": [
+    "United States of America",
+    "India"
+   ],
+   "pt": []
+  },
+  "z7f1f393b": {
+   "n": "Lahore",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zd6525187": {
+   "n": "Katmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z0b5f45ae": {
+   "n": "Katmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z89c07d70": {
+   "n": "Antipolo",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z654e33e2": {
+   "n": "Wuhan",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z60628aa7": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z8d656e5f": {
+   "n": "Donetsk",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z96943c7d": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z6a26e998": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1bcba6d5": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z80ed53c5": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "z347a5c8d": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z9c218f06": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb7104932": {
+   "n": "Lyon",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z54fae5d8": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "ze2cdcb45": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zdab63852": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd82be4a9": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1657e14d": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb3826cb5": {
+   "n": "Brussels",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zeab8a180": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z5bae053d": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zd1b64f78": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z07a65f05": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z047ccab0": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z5c5f1b50": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z35a9de0a": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z469f4ce4": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zfdf81bcc": {
+   "n": "Bratislava",
+   "p": [
+    "Slovakia"
+   ],
+   "pt": []
+  },
+  "z5b701253": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "zc4d518cf": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z5cf13d83": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "zec77afe1": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "za11b89c0": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "zf602caa6": {
+   "n": "Maputo",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "z1df2d1dd": {
+   "n": "Maputo",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "zff714699": {
+   "n": "Maputo",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "z17cf84a5": {
+   "n": "Maputo",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "ze11e02ce": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z033ce360": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "zfcefc33b": {
+   "n": "Monrovia",
+   "p": [
+    "Liberia"
+   ],
+   "pt": []
+  },
+  "zb74bb315": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "z27206826": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "z7fcaf00f": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z9afcd410": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z6493a336": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z53c7e976": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z06ba807d": {
+   "n": "Zagabria",
+   "p": [
+    "Croatia"
+   ],
+   "pt": []
+  },
+  "z64c04d6f": {
+   "n": "Zagabria",
+   "p": [
+    "Croatia"
+   ],
+   "pt": []
+  },
+  "zee59a8a2": {
+   "n": "Praga",
+   "p": [
+    "Czechia",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z317954b3": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "ze24576d7": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z9fb6c6aa": {
+   "n": "Minsk",
+   "p": [
+    "Belarus",
+    "Ukraine",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1108af80": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "zaa86312a": {
+   "n": "Chisinau",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z58a464a3": {
+   "n": "Teheran",
+   "p": [
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5c8902ba": {
+   "n": "Amman",
+   "p": [
+    "Jordan"
+   ],
+   "pt": []
+  },
+  "z2e3175ed": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z0f20d060": {
+   "n": "Aden",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z7a23d34f": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z15c79abd": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z46c13a89": {
+   "n": "Ankara",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z07c63b26": {
+   "n": "Roma",
+   "p": [
+    "Iraq",
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z209fbf7f": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zd063eacd": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zfba9571c": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z78f86df7": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -31167,7 +34238,6 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z770e973b": 1,
   "z82ecfd8b": 1,
   "z4725c2ac": 1,
-  "zb0a36672": 1,
   "zdb7f8a05": 1,
   "zeb199852": 1,
   "zd5241097": 1,
@@ -31672,7 +34742,7 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "zc6bfe246": 1,
   "zbd59e879": 1,
   "zd5a58b05": 1,
-  "zed813f7f": 1,
+  "zed813f7f": 2,
   "z773cf293": 1,
   "z60acda89": 1,
   "z15910833": 1,
@@ -31703,7 +34773,103 @@ window.EDIZIONI["2026-10-16-sera"] = {
   "z1f7b84f1": 1,
   "zbcf3eac5": 1,
   "zbac31390": 1,
-  "z5915c609": 1
+  "z5915c609": 1,
+  "z1c9392a2": 1,
+  "z92d1cff5": 1,
+  "ze0104895": 2,
+  "z9bbfd351": 1,
+  "z4ba3c433": 1,
+  "z93c49c1d": 1,
+  "z1e703803": 1,
+  "z971ce636": 1,
+  "z37404ca8": 1,
+  "z5f21f12c": 1,
+  "zff8818d1": 1,
+  "z67516158": 1,
+  "za648708a": 1,
+  "z3ecc3a49": 1,
+  "zd2a70121": 2,
+  "zc7982640": 1,
+  "zf5a2c36a": 1,
+  "z1be92126": 1,
+  "z8e9fbb21": 1,
+  "z3c7cb991": 1,
+  "z4e543673": 1,
+  "ze72d6cca": 1,
+  "z2a934be4": 1,
+  "zd554c295": 1,
+  "z442d64b1": 1,
+  "zff913673": 1,
+  "z4b5d2729": 1,
+  "z77f1cce1": 1,
+  "zd9553633": 1,
+  "z7f1f393b": 1,
+  "zd6525187": 1,
+  "z0b5f45ae": 1,
+  "z89c07d70": 1,
+  "z654e33e2": 1,
+  "z60628aa7": 1,
+  "z8d656e5f": 1,
+  "z96943c7d": 1,
+  "z6a26e998": 1,
+  "z1bcba6d5": 1,
+  "z80ed53c5": 1,
+  "z347a5c8d": 1,
+  "z9c218f06": 1,
+  "zb7104932": 1,
+  "z54fae5d8": 1,
+  "ze2cdcb45": 1,
+  "zdab63852": 1,
+  "zd82be4a9": 1,
+  "z1657e14d": 1,
+  "zb3826cb5": 1,
+  "zeab8a180": 1,
+  "z5bae053d": 1,
+  "zd1b64f78": 1,
+  "z07a65f05": 1,
+  "z047ccab0": 1,
+  "z5c5f1b50": 1,
+  "z35a9de0a": 1,
+  "z469f4ce4": 1,
+  "zfdf81bcc": 1,
+  "z5b701253": 1,
+  "zc4d518cf": 1,
+  "z5cf13d83": 1,
+  "zec77afe1": 1,
+  "za11b89c0": 1,
+  "zf602caa6": 1,
+  "z1df2d1dd": 1,
+  "zff714699": 1,
+  "z17cf84a5": 2,
+  "ze11e02ce": 1,
+  "z033ce360": 1,
+  "zfcefc33b": 1,
+  "zb74bb315": 1,
+  "z27206826": 1,
+  "z7fcaf00f": 1,
+  "z9afcd410": 1,
+  "z6493a336": 1,
+  "z53c7e976": 1,
+  "z06ba807d": 1,
+  "z64c04d6f": 1,
+  "zee59a8a2": 1,
+  "z317954b3": 2,
+  "ze24576d7": 1,
+  "z9fb6c6aa": 1,
+  "z1108af80": 1,
+  "zaa86312a": 1,
+  "z58a464a3": 1,
+  "z5c8902ba": 1,
+  "z2e3175ed": 1,
+  "z0f20d060": 1,
+  "z7a23d34f": 1,
+  "z15c79abd": 1,
+  "z46c13a89": 1,
+  "z07c63b26": 1,
+  "z209fbf7f": 1,
+  "zd063eacd": 1,
+  "zfba9571c": 1,
+  "z78f86df7": 1
  },
  "video": {},
  "pillole": []
