@@ -1,8 +1,8 @@
 window.EVENTI={
- "aggiornato": "2026-10-10T20:50",
+ "aggiornato": "2026-10-16T08:00",
  "valido": [
-  "2026-10-10",
-  "2026-10-17"
+  "2026-10-16",
+  "2026-10-23"
  ],
  "avviso": "Date e orari presi dai siti ufficiali indicati; controlla sempre la scheda prima di andare.",
  "citta": {
@@ -27,128 +27,96 @@ window.EVENTI={
     {
      "n": "Palazzo Esposizioni Roma",
      "u": "https://www.palazzoesposizioniroma.it/"
+    },
+    {
+     "n": "Teatro di Roma",
+     "u": "https://www.teatrodiroma.net/"
     }
    ],
    "eventi": [
     {
-     "d": "2026-10-10",
-     "df": "2026-10-10",
+     "d": "2026-10-16",
+     "df": "2026-10-16",
+     "o": "15:00",
+     "t": "La Memoria dell'Avanguardia. Il performing media, dal videoteatro ai geopodcast (Carlo Infante)",
+     "l": "ICBSA – Istituto Centrale Beni Sonori e Audiovisivi",
+     "tipo": "incontro",
+     "u": "https://romaeuropa.net/festival-2026/la-memoria-dellavanguardia-il-performing-media-dal-videoteatro-ai-geopodcast/",
+     "f": "Romaeuropa Festival",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-18",
+     "df": "2026-10-18",
      "o": "19:00",
-     "t": "La Lalangue (Giacomo Luci)",
+     "t": "Fluxus Tree (Tempo Reale Electroacustic Ensemble)",
      "l": "Mattatoio",
-     "tipo": "danza",
-     "u": "https://romaeuropa.net/festival-2026/la-lalangue/",
+     "tipo": "musica",
+     "u": "https://romaeuropa.net/festival-2026/fluxus-tree/",
      "f": "Romaeuropa Festival",
      "g": false,
      "n": ""
     },
     {
-     "d": "2026-10-10",
-     "df": "2026-10-10",
-     "o": "20:00",
-     "t": "Coraggio. La sfortuna non esiste (Vidavé Company)",
+     "d": "2026-10-20",
+     "df": "2026-10-21",
+     "o": "21:00",
+     "t": "Orlando (Progetto Orlando)",
      "l": "Mattatoio",
-     "tipo": "danza",
-     "u": "https://romaeuropa.net/festival-2026/coraggio-la-sfortuna-non-esiste/",
+     "tipo": "teatro",
+     "u": "https://romaeuropa.net/festival-2026/progetto-orlando/",
      "f": "Romaeuropa Festival",
      "g": false,
      "n": ""
     },
     {
-     "d": "2026-10-10",
-     "df": "2026-10-10",
-     "o": "21:30",
-     "t": "AMAZZONI (Silvia Gribaudi)",
-     "l": "Mattatoio",
-     "tipo": "danza",
-     "u": "https://romaeuropa.net/festival-2026/amazzoni/",
-     "f": "Romaeuropa Festival",
-     "g": false,
-     "n": ""
-    },
-    {
-     "d": "2026-10-10",
-     "df": "2026-10-11",
-     "o": "",
-     "t": "Lemnos (Giorgina Pi)",
+     "d": "2026-10-20",
+     "df": "2026-10-21",
+     "o": "21:00",
+     "t": "The last Hamlet (Ben Duke)",
      "l": "Teatro Vascello",
      "tipo": "teatro",
-     "u": "https://romaeuropa.net/festival-2026/lemnos/",
-     "f": "Romaeuropa Festival",
-     "g": false,
-     "n": "7-11 ottobre, orari vari"
-    },
-    {
-     "d": "2026-10-11",
-     "df": "2026-10-11",
-     "o": "11:30",
-     "t": "Zizi Jeanmaire. Et le souvenir que je garde au coeur (Carmela Piccione)",
-     "l": "Mattatoio",
-     "tipo": "danza",
-     "u": "https://romaeuropa.net/festival-2026/zizi-jeanmaire-et-le-souvenir-que-je-garde-au-coeur/",
+     "u": "https://romaeuropa.net/festival-2026/the-last-hamlet/",
      "f": "Romaeuropa Festival",
      "g": false,
      "n": ""
     },
     {
-     "d": "2026-10-11",
-     "df": "2026-10-11",
-     "o": "16:00 e 21:00",
-     "t": "four seasons changed (Max Richter, Didem Coskunseven, Michiel Vandevelde, Jolente De Maeyer)",
-     "l": "Teatro Argentina",
-     "tipo": "musica",
-     "u": "https://romaeuropa.net/festival-2026/four-seasons-changed/",
+     "d": "2026-10-23",
+     "df": "2026-10-23",
+     "o": "19:00",
+     "t": "Heimat – Patria/Straniero. La trilogia di Belgrado di Biljana Srbljanovic (Fabiana Iacozzilli)",
+     "l": "Mattatoio",
+     "tipo": "teatro",
+     "u": "https://romaeuropa.net/festival-2026/heimat-patria-straniero-la-triologia-di-belgrado-di-biljana-srbljanovic/",
      "f": "Romaeuropa Festival",
      "g": false,
      "n": ""
     },
     {
-     "d": "2026-10-11",
-     "df": "2026-10-11",
-     "o": "17:00",
-     "t": "DNAppunti Coreografici 2026",
-     "l": "Mattatoio",
-     "tipo": "danza",
-     "u": "https://romaeuropa.net/festival-2026/dnappunti-coreografici-2026/",
-     "f": "Romaeuropa Festival",
+     "d": "2026-10-16",
+     "df": "2026-10-18",
+     "o": "20:00",
+     "t": "La sera della prima (Francesco Piccolo)",
+     "l": "Teatro Valle, via del Teatro Valle 21",
+     "tipo": "teatro",
+     "u": "https://www.teatrodiroma.net/appuntamento/la-sera-della-prima/",
+     "f": "Teatro di Roma",
      "g": false,
-     "n": ""
+     "n": "stagione 2026-2027 \"Il teatro è vita\""
     },
     {
-     "d": "2026-10-11",
-     "df": "2026-10-11",
-     "o": "19:30",
-     "t": "Everybody Has a Fate (Riccardo De Simone)",
-     "l": "Mattatoio",
-     "tipo": "danza",
-     "u": "https://romaeuropa.net/festival-2026/everybody-has-a-fate/",
-     "f": "Romaeuropa Festival",
-     "g": false,
-     "n": ""
-    },
-    {
-     "d": "2026-10-13",
-     "df": "2026-10-15",
-     "o": "",
-     "t": "Miasma (Giorgina Pi), video installazione",
-     "l": "MAXXI",
-     "tipo": "arte",
-     "u": "https://romaeuropa.net/festival-2026/miasma/",
-     "f": "Romaeuropa Festival",
-     "g": false,
-     "n": "13-15 ottobre, orari vari"
-    },
-    {
-     "d": "2026-10-15",
-     "df": "2026-10-15",
-     "o": "18:00",
-     "t": "Anni Luce – Osservatorio di futuri possibili (incontro con Rai Radio 3)",
-     "l": "Mattatoio",
+     "d": "2026-10-21",
+     "df": "2026-10-21",
+     "o": "10:00",
+     "t": "Rezza Mastrella a Tor Bella Monaca (passeggiata: ricognizione iniziale)",
+     "l": "Piazze e strade di Tor Bella Monaca",
      "tipo": "incontro",
-     "u": "https://romaeuropa.net/festival-2026/anni-luce-osservatorio-di-futuri-possibili/",
-     "f": "Romaeuropa Festival",
-     "g": false,
-     "n": ""
+     "u": "https://www.teatrodiroma.net/appuntamento/rezza-mastrella-a-tor-bella-monaca-2/",
+     "f": "Teatro di Roma",
+     "g": true,
+     "n": "parte di Haiku 26"
     },
     {
      "d": "2026-10-15",
@@ -223,18 +191,6 @@ window.EVENTI={
      "n": "13-25 ottobre"
     },
     {
-     "d": "2026-10-15",
-     "df": "2026-10-15",
-     "o": "",
-     "t": "Enrico Rava si racconta, per l'uscita del nuovo disco «Corners»",
-     "l": "Casa del Jazz",
-     "tipo": "musica",
-     "u": "https://www.auditorium.com/it/casa-del-jazz-15-ottobre-enrico-rava-si-racconta-in-occasione-delluscita-del-nuovo-disco-corners/",
-     "f": "Auditorium Parco della Musica",
-     "g": false,
-     "n": ""
-    },
-    {
      "d": "2026-10-11",
      "df": "2026-11-01",
      "o": "",
@@ -293,66 +249,6 @@ window.EVENTI={
      "f": "Roma Capitale · Culture",
      "g": true,
      "n": "9-18 ottobre"
-    },
-    {
-     "d": "2026-10-10",
-     "df": "2026-10-11",
-     "o": "",
-     "t": "La Manifestival 2026",
-     "l": "Garbatella (vari luoghi del quartiere)",
-     "tipo": "festival",
-     "u": "https://culture.roma.it/manifestazione/la-manifestival-2026/",
-     "f": "Roma Capitale · Culture",
-     "g": true,
-     "n": "9-11 ottobre"
-    },
-    {
-     "d": "2026-10-10",
-     "df": "2026-10-11",
-     "o": "",
-     "t": "Centocelle Buskers 2026",
-     "l": "Piazza dei Mirti e Piazzale dei Gerani",
-     "tipo": "musica",
-     "u": "https://culture.roma.it/manifestazione/centocelle-buskers-2026/",
-     "f": "Roma Capitale · Culture",
-     "g": true,
-     "n": "9-11 ottobre"
-    },
-    {
-     "d": "2026-10-10",
-     "df": "2026-10-10",
-     "o": "",
-     "t": "La città che ci abita 2026",
-     "l": "Teatro Patologico, Via Cassia 472",
-     "tipo": "teatro",
-     "u": "https://culture.roma.it/manifestazione/la-citta-che-ci-abita-2026/",
-     "f": "Roma Capitale · Culture",
-     "g": true,
-     "n": "9-10 ottobre"
-    },
-    {
-     "d": "2026-10-10",
-     "df": "2026-10-11",
-     "o": "",
-     "t": "Pietralata Narrata",
-     "l": "Centro Culturale Gabriella Ferri, Via Gabriele Galantara 7",
-     "tipo": "incontro",
-     "u": "https://culture.roma.it/appuntamento/pietralata-narrata-2/",
-     "f": "Roma Capitale · Culture",
-     "g": false,
-     "n": ""
-    },
-    {
-     "d": "2026-10-10",
-     "df": "2026-10-13",
-     "o": "",
-     "t": "Una striscia di terra feconda 2026",
-     "l": "Teatro Tor Bella Monaca, Via Bruno Cirino",
-     "tipo": "teatro",
-     "u": "https://culture.roma.it/appuntamento/una-striscia-di-terra-feconda-2026-2/",
-     "f": "Roma Capitale · Culture",
-     "g": false,
-     "n": "7-13 ottobre"
     },
     {
      "d": "2026-10-10",
