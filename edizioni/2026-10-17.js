@@ -538,7 +538,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z90e18bb2",
-   "sez": "ambiente",
+   "sez": "economia",
    "titolo": "In crescita il consumo di elettricità, in calo quello di petrolio e gas",
    "orig": "Forbruget af el stiger - imens falder forbrug af olie og gas",
    "lead": "Il consumo di elettricità è in aumento mentre quello di petrolio e gas è in calo, secondo dati riportati da DR Nyheder. Lo riferisce DR Nyheder.",
@@ -938,7 +938,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z215ed1aa",
-   "sez": "cultura",
+   "sez": "manga",
    "titolo": "La principessa Aiko visita una mostra su Detective Conan e racconta la sua passione per la serie",
    "orig": "愛子さま、「名探偵コナン」の展示鑑賞 映画やテレビも見たと明かす",
    "lead": "La principessa Aiko del Giappone ha visitato una mostra dedicata al celebre manga e anime 'Detective Conan', rivelando di aver seguito anche i film e le serie televisive legate al personaggio. La visita, riportata dal quotidiano Asahi Shimbun, offre uno spaccato degli interessi personali della principessa, figlia dell'imperatore Naruhito, per uno dei franchise di fumetti e animazione più popolari del Giappone. Lo riferisce Asahi Shimbun.",
@@ -2839,30 +2839,6 @@ window.EDIZIONI["2026-10-17"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z281588d5",
-   "sez": "mondo",
-   "titolo": "Francia verso una convergenza di proteste, Macron invita alla calma",
-   "orig": "Vers une convergence des colères samedi en France, Macron appelle \"au calme\"",
-   "lead": "Le autorità francesi si aspettano circa 200.000 manifestanti sabato in tutta la Francia, a sei mesi dalle elezioni presidenziali, per protestare contro il caro vita e chiedere maggiori risorse per i servizi pubblici. Il presidente Emmanuel Macron ha invitato alla calma in vista di quella che viene descritta come una possibile convergenza delle diverse proteste sociali in corso nel paese. Lo riferisce Seneweb.",
-   "more": [
-    "La Francia attraversa da tempo tensioni sociali legate al costo della vita e alle politiche economiche del governo, con mobilitazioni sindacali e di piazza che si sono ripetute negli ultimi anni in diverse forme."
-   ],
-   "fonti": [
-    {
-     "n": "Seneweb",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://www.seneweb.com/fr/news/International/vers-une-convergence-des-coleres-samedi-en-france-macron-appelle-au-calme_n_999000920.html",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-10-17T01:56+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "09:03",
-   "uscita": "mattino"
-  },
-  {
    "id": "z5af88463",
    "sez": "mondo",
    "titolo": "Abéché, le autorità chiedono ai giovani di preservare la pace e la convivenza",
@@ -2881,30 +2857,6 @@ window.EDIZIONI["2026-10-17"] = {
     }
    ],
    "data": "17 ott",
-   "ora": "09:03",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z136629e6",
-   "sez": "mondo",
-   "titolo": "Guerra in Sudan, l'ONU avverte del rischio di estensione ai paesi vicini",
-   "orig": "Guerre au Soudan : l’ONU met en garde contre un risque d’extension du conflit aux pays voisins",
-   "lead": "Le Nazioni Unite hanno avvertito venerdì che la guerra in Sudan rischia di estendersi ai paesi confinanti, mentre i combattimenti continuano e la situazione umanitaria si aggrava, in particolare nella regione del Darfur. L'avvertimento è arrivato durante una riunione del Consiglio di Sicurezza dedicata alla crisi sudanese. Lo riferisce Tchadinfos.",
-   "more": [
-    "Il conflitto in Sudan, scoppiato tra l'esercito regolare e forze paramilitari rivali, ha provocato una delle peggiori crisi umanitarie al mondo, con milioni di sfollati e un forte rischio di destabilizzazione per l'intera regione del Sahel e del Corno d'Africa."
-   ],
-   "fonti": [
-    {
-     "n": "Tchadinfos",
-     "p": "XX",
-     "c": "N'Djamena",
-     "u": "https://tchadinfos.com/2026/10/16/guerre-au-soudan-lonu-met-en-garde-contre-un-risque-dextension-du-conflit-aux-pays-voisins/",
-     "angolo": "",
-     "atlas": "Chad",
-     "t": "2026-10-16T21:48+00:00"
-    }
-   ],
-   "data": "16 ott",
    "ora": "09:03",
    "uscita": "mattino"
   },
@@ -5109,7 +5061,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z56af8199",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Il ponte di Katonga riapre dopo il completamento dei lavori permanenti",
    "orig": "Katonga bridge reopens today following completion of permanent works",
    "lead": "Il ponte di Katonga, in Uganda, riapre oggi al traffico dopo il completamento dei lavori permanenti di ricostruzione, portando un sollievo significativo per gli automobilisti che da tempo attendevano la fine degli interventi. Il ministro dei Lavori Pubblici si prepara a inaugurare ufficialmente la nuova struttura, segnando la conclusione di un intervento infrastrutturale atteso lungo una delle principali arterie di collegamento del paese. La riapertura dovrebbe normalizzare la circolazione sulla via interessata dopo il periodo di disagi legato ai lavori. Lo riferisce Daily Monitor.",
@@ -5443,30 +5395,6 @@ window.EDIZIONI["2026-10-17"] = {
      "angolo": "",
      "atlas": "Madagascar",
      "t": "2026-10-17T05:10+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "08:54",
-   "uscita": "mattino"
-  },
-  {
-   "id": "za1ea0302",
-   "sez": "mondo",
-   "titolo": "Settimana difficile per Zelensky tra Trump e Putin",
-   "orig": "Ukraine's bruising week at the hands of Trump and Putin",
-   "lead": "Il presidente ucraino Volodymyr Zelensky ha vissuto quella che viene descritta come la settimana più dura nei rapporti con Donald Trump dal famoso scontro nello Studio Ovale di 18 mesi fa, mentre affronta anche un grave problema di finanziamento per l'anno prossimo. La tensione riguarda sia i rapporti diplomatici con Washington che le pressioni legate alla posizione russa nel conflitto in corso. Lo riferisce RTÉ News.",
-   "more": [
-    "Lo scontro nello Studio Ovale tra Trump e Zelensky, avvenuto a inizio 2025, segnò un momento di forte tensione tra i due leader sul sostegno americano all'Ucraina nella guerra contro la Russia, dopo anni di aiuti militari ed economici da parte di Washington a Kiev."
-   ],
-   "fonti": [
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/2026/1017/1595711-ukraine-russia-eu/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-10-17T07:00+01:00"
     }
    ],
    "data": "17 ott",
@@ -6421,6 +6349,15 @@ window.EDIZIONI["2026-10-17"] = {
      "angolo": "",
      "atlas": "Belgium",
      "t": "2026-10-17T03:48+00:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1017/1595711-ukraine-russia-eu/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-17T07:00+01:00"
     }
    ],
    "data": "17 ott",
@@ -6454,6 +6391,15 @@ window.EDIZIONI["2026-10-17"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-17T05:30+02:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/International/vers-une-convergence-des-coleres-samedi-en-france-macron-appelle-au-calme_n_999000920.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T01:56+00:00"
     }
    ],
    "data": "17 ott",
@@ -6994,7 +6940,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "zcbf63252",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Il Kenya Ports Authority espande il porto di Mombasa",
    "orig": "KPA steps up port expansion to handle rising cargo volumes",
    "lead": "La Kenya Ports Authority (KPA) ha intensificato i lavori di espansione del porto per far fronte all'aumento dei volumi di merci. I progetti comprendono la costruzione del Dongo Kundu Berth One e del Berth 19B al porto di Mombasa, quest'ultimo destinato ad aumentare la capacità annuale di gestione dei container di circa 300mila TEU (unità equivalenti a container da venti piedi). Lo riferisce Citizen Digital.",
@@ -7259,30 +7205,6 @@ window.EDIZIONI["2026-10-17"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-17T05:06+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "08:49",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z79fa4fce",
-   "sez": "spazio",
-   "titolo": "Starshield, la 'sorella militare' di Starlink controllata dal governo statunitense",
-   "orig": "Starlink tem uma 'irmã militar' controlada pelos EUA; entenda o que é a Starshield",
-   "lead": "Le lamentele dell'Ucraina riguardo a presunte restrizioni della SpaceX di Elon Musk sui servizi Starlink di 'livello militare' hanno riacceso l'attenzione sulle differenze tra Starlink, il servizio commerciale di internet satellitare dell'azienda, e Starshield, la versione militare sviluppata per il Pentagono. Musk ha scritto sul social X che i sistemi Starshield sono di proprietà e sotto il controllo del governo degli Stati Uniti, aggiungendo precisazioni su eventuali limiti di velocità applicati al servizio. La vicenda riguarda l'uso dell'internet satellitare nel contesto del conflitto in Ucraina. Lo riferisce G1.",
-   "more": [
-    "Starlink è la rete di satelliti di SpaceX che fornisce internet in aree remote o prive di infrastrutture; Starshield è la variante pensata per scopi militari e governativi, con controllo diretto da parte delle autorità statunitensi."
-   ],
-   "fonti": [
-    {
-     "n": "G1",
-     "p": "XX",
-     "c": "Rio de Janeiro",
-     "u": "https://g1.globo.com/inovacao/noticia/2026/10/17/starlink-tem-uma-irma-militar-controlada-pelos-eua-entenda-o-que-e-a-starshield.ghtml",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-10-17T06:00+00:00"
     }
    ],
    "data": "17 ott",
@@ -8425,7 +8347,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z12863fbf",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Sierra Leone, firmati i contratti per la costruzione di quattro ponti con un progetto della Banca Mondiale da 74 milioni di dollari",
    "orig": "Sierra Leone Seals Deals for Four Bridges Construction Under $74M World Bank Project",
    "lead": "Il ministero dei Trasporti e dell'Aviazione della Sierra Leone ha firmato due contratti di costruzione per quattro ponti, nell'ambito di un progetto di 74 milioni di dollari finanziato dalla Banca Mondiale per migliorare le infrastrutture di trasporto rurale. Lo riferisce Sierraloaded.",
@@ -9012,6 +8934,15 @@ window.EDIZIONI["2026-10-17"] = {
      "angolo": "",
      "atlas": "S. Sudan",
      "t": "2026-10-16T14:49+00:00"
+    },
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/16/guerre-au-soudan-lonu-met-en-garde-contre-un-risque-dextension-du-conflit-aux-pays-voisins/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-16T21:48+00:00"
     }
    ],
    "data": "17 ott",
@@ -10535,6 +10466,15 @@ window.EDIZIONI["2026-10-17"] = {
      "angolo": "",
      "atlas": "Cyprus",
      "t": "2026-10-17T06:00+03:00"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/inovacao/noticia/2026/10/17/starlink-tem-uma-irma-militar-controlada-pelos-eua-entenda-o-que-e-a-starshield.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T06:00+00:00"
     }
    ],
    "data": "17 ott",
@@ -10634,7 +10574,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z53fde42d",
-   "sez": "cultura",
+   "sez": "cucina",
    "titolo": "Maitake, il fungo giapponese dall'aroma che fa 'danzare'",
    "orig": "Maitake: Mushrooms with an Aroma and Texture to Make You Dance",
    "lead": "Un tempo considerato un fungo raro da festeggiare quando veniva trovato nei boschi, il maitake è oggi un ingrediente accessibile e apprezzato della cucina giapponese, presente tutto l'anno nei menu del paese. Lo riferisce Nippon.com.",
@@ -11886,7 +11826,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z6c0067d2",
-   "sez": "ambiente",
+   "sez": "economia",
    "titolo": "Pandora investe 150 milioni di dollari in una fabbrica di gioielli sostenibile in Vietnam",
    "orig": "The world’s biggest fine jewellery factory: How Pandora aims to make more and pollute less in Vietnam",
    "lead": "Il gioielliere danese Pandora ha investito 150 milioni di dollari (132 milioni di euro) in una fabbrica in Vietnam, che l'azienda dichiara funzionerà interamente con energia rinnovabile. Si tratta di quella che viene descritta come la più grande fabbrica di gioielleria fine al mondo. L'azienda ha inoltre affermato di aver iniziato a utilizzare, già dal 2024, oro e argento riciclati al 100% nella produzione dei suoi gioielli. Lo riferisce Euronews.",
@@ -13411,7 +13351,6 @@ window.EDIZIONI["2026-10-17"] = {
   "z7c37b8ec": "SCMP presenta la sfida come gesto ispirazionale legato alla raccolta fondi sportiva.",
   "z34a1cb3c": "Il Sole 24 Ore analizza le novità normative dal punto di vista pratico per i ciclisti.",
   "z6d43437e": "Il Fatto Quotidiano valorizza il valore culturale delle produzioni indipendenti escluse dai grandi circuiti.",
-  "z79fa4fce": "G1 ricostruisce la distinzione tecnica e politica tra servizio civile e militare dei satelliti SpaceX.",
   "z1d52fde9": "El Comercio riporta l'allarme ufficiale delle autorità sanitarie peruviane.",
   "z5c5432ef": "Financial Times mette in luce il contrasto tra previsioni e dati reali sulla crescita britannica.",
   "z3c61eee2": "Il Messaggero enfatizza il valore simbolico della riapertura per la città.",
@@ -13728,9 +13667,7 @@ window.EDIZIONI["2026-10-17"] = {
   "z401bc986": "Diari d'Andorra riporta la precisazione del sindacato sul proprio ruolo nelle proteste in corso.",
   "z0132d8c6": "Monaco Matin presenta le ambizioni dichiarate dall'ex pilota per rinnovare l'istituzione.",
   "z875ecb81": "Monaco Matin valorizza la testimonianza del presidente sul prestigio internazionale del torneo.",
-  "z281588d5": "Seneweb riprende la notizia da fonti francesi sull'entità attesa delle manifestazioni e sull'appello presidenziale.",
   "z5af88463": "Tchadinfos descrive l'iniziativa come un momento di dialogo istituzionale con la comunità locale.",
-  "z136629e6": "Tchadinfos riporta l'allarme lanciato dall'ONU sul Consiglio di Sicurezza riguardo al rischio regionale.",
   "ze3041ebc": "Tchadinfos presenta l'iniziativa come parte di un programma istituzionale di responsabilità sociale.",
   "z8448d256": "Tchadinfos descrive il workshop come un passaggio chiave per una risposta umanitaria più mirata.",
   "zab2a7703": "Mosaïque Guinée presenta l'arrivo del carico come un sollievo per l'approvvigionamento nazionale.",
@@ -13786,7 +13723,8 @@ window.EDIZIONI["2026-10-17"] = {
   "z951f40c5": "Defimedia riporta la critica dell'opposizione senza la risposta del governo.",
   "z9f2ee49e": "Le Nouvelliste riporta la candidatura come fatto politico senza commenti aggiuntivi.",
   "zff9710a3": "Prensa Libre descrive lo stato dei lavori con taglio informativo locale.",
-  "z81659c9e": "Prensa Libre mette a confronto i due paesi per evidenziare le inefficienze guatemalteche."
+  "z81659c9e": "Prensa Libre mette a confronto i due paesi per evidenziare le inefficienze guatemalteche.",
+  "z8f541536": "G1 ricostruisce la distinzione tecnica e politica tra servizio civile e militare dei satelliti SpaceX."
  },
  "contesti": {
   "ucrainaguerra": "Da mesi Washington media tra Kyiv e Mosca nel quadro dei negoziati promossi dall'amministrazione Trump. Nella notte tra il 13 e il 14 ottobre i terminali Starshield/Starlink usati dall'esercito ucraino hanno smesso di funzionare oltre i 160 km/h su ordine della Casa Bianca: Zelensky, che si è detto «tradito», ha annunciato la ripresa degli attacchi alle raffinerie russe, mentre Musk ha attaccato pubblicamente il leader ucraino e Trump lo ha definito «più difficile di Putin». Una settimana fa Trump ha concordato con Putin l'arrivo di diesel russo sul mercato globale per calmierare i prezzi dei carburanti.",
@@ -15239,13 +15177,6 @@ window.EDIZIONI["2026-10-17"] = {
    ],
    "pt": []
   },
-  "z79fa4fce": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z1d52fde9": {
    "n": "Perù",
    "p": [
@@ -15790,13 +15721,6 @@ window.EDIZIONI["2026-10-17"] = {
    "n": "Antsiranana",
    "p": [
     "Madagascar"
-   ],
-   "pt": []
-  },
-  "za1ea0302": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -17310,24 +17234,10 @@ window.EDIZIONI["2026-10-17"] = {
    ],
    "pt": []
   },
-  "z281588d5": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z5af88463": {
    "n": "Abéché",
    "p": [
     "Chad"
-   ],
-   "pt": []
-  },
-  "z136629e6": {
-   "n": "Darfur",
-   "p": [
-    "Sudan"
    ],
    "pt": []
   },
@@ -17830,7 +17740,6 @@ window.EDIZIONI["2026-10-17"] = {
   "z7c37b8ec": 1,
   "z34a1cb3c": 1,
   "z6d43437e": 1,
-  "z79fa4fce": 1,
   "z1d52fde9": 1,
   "z5c5432ef": 1,
   "z3c61eee2": 1,
@@ -17922,7 +17831,6 @@ window.EDIZIONI["2026-10-17"] = {
   "z9f7bdbe4": 1,
   "z35777255": 1,
   "zec9be4c4": 1,
-  "za1ea0302": 1,
   "z4c50d6e0": 1,
   "zff009289": 1,
   "z52c5a58f": 1,
@@ -18155,9 +18063,7 @@ window.EDIZIONI["2026-10-17"] = {
   "z401bc986": 1,
   "z0132d8c6": 1,
   "z875ecb81": 1,
-  "z281588d5": 2,
   "z5af88463": 1,
-  "z136629e6": 2,
   "ze3041ebc": 1,
   "z8448d256": 1,
   "zab2a7703": 1,
