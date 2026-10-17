@@ -1,8 +1,8 @@
 window.EVENTI={
- "aggiornato": "2026-10-16T08:00",
+ "aggiornato": "2026-10-17T08:00",
  "valido": [
-  "2026-10-16",
-  "2026-10-23"
+  "2026-10-17",
+  "2026-10-24"
  ],
  "avviso": "Date e orari presi dai siti ufficiali indicati; controlla sempre la scheda prima di andare.",
  "citta": {
@@ -34,18 +34,6 @@ window.EVENTI={
     }
    ],
    "eventi": [
-    {
-     "d": "2026-10-16",
-     "df": "2026-10-16",
-     "o": "15:00",
-     "t": "La Memoria dell'Avanguardia. Il performing media, dal videoteatro ai geopodcast (Carlo Infante)",
-     "l": "ICBSA – Istituto Centrale Beni Sonori e Audiovisivi",
-     "tipo": "incontro",
-     "u": "https://romaeuropa.net/festival-2026/la-memoria-dellavanguardia-il-performing-media-dal-videoteatro-ai-geopodcast/",
-     "f": "Romaeuropa Festival",
-     "g": false,
-     "n": ""
-    },
     {
      "d": "2026-10-18",
      "df": "2026-10-18",
@@ -273,6 +261,174 @@ window.EVENTI={
      "f": "Roma Capitale · Culture",
      "g": true,
      "n": "10-25 ottobre"
+    },
+    {
+     "d": "2026-10-17",
+     "df": "2026-12-05",
+     "o": "",
+     "t": "Danza in Levare 2026",
+     "l": "Vari luoghi, Roma",
+     "tipo": "danza",
+     "u": "https://culture.roma.it/manifestazione/danza-in-levare-2026/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": "17 ottobre - 5 dicembre"
+    },
+    {
+     "d": "2026-10-17",
+     "df": "2026-10-18",
+     "o": "21:00",
+     "t": "La malattia dell'ostrica",
+     "l": "Teatro Tor Bella Monaca",
+     "tipo": "teatro",
+     "u": "https://culture.roma.it/appuntamento/la-malattia-dellostrica-3/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-18",
+     "df": "2026-10-18",
+     "o": "11:00",
+     "t": "I segreti di Wagner (Augias, Principe, Cappelletto)",
+     "l": "Auditorium Parco della Musica, Sala Santa Cecilia",
+     "tipo": "musica",
+     "u": "https://culture.roma.it/appuntamento/i-segreti-di-wagner/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-18",
+     "df": "2026-10-18",
+     "o": "11:30",
+     "t": "Il dialogo in musica di San Francesco e Rumi",
+     "l": "Teatro Villa Pamphilj",
+     "tipo": "musica",
+     "u": "https://culture.roma.it/appuntamento/il-dialogo-in-musica-di-san-francesco-e-rumi/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-18",
+     "df": "2026-10-18",
+     "o": "17:00",
+     "t": "Favola sismica",
+     "l": "Teatro Biblioteca Quarticciolo",
+     "tipo": "teatro",
+     "u": "https://culture.roma.it/appuntamento/favola-sismica-2/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-18",
+     "df": "2026-10-18",
+     "o": "17:30",
+     "t": "Apocalisse tascabile",
+     "l": "Teatro del Lido",
+     "tipo": "teatro",
+     "u": "https://culture.roma.it/appuntamento/apocalisse-tascabile-3/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-19",
+     "df": "2026-11-23",
+     "o": "",
+     "t": "Tramonto Occidentale",
+     "l": "Municipio VI (vari luoghi)",
+     "tipo": "teatro",
+     "u": "https://culture.roma.it/manifestazione/tramonto-occidentale/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": "19 ottobre - 23 novembre"
+    },
+    {
+     "d": "2026-10-19",
+     "df": "2026-11-08",
+     "o": "",
+     "t": "DislocAzioni Festival partecipativo di creatività urbana",
+     "l": "Vari luoghi, Roma",
+     "tipo": "festival",
+     "u": "https://culture.roma.it/manifestazione/dislocazioni-festival-partecipativo-di-creativita-urbana-2/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": "19 ottobre - 8 novembre"
+    },
+    {
+     "d": "2026-10-21",
+     "df": "2026-10-21",
+     "o": "18:00",
+     "t": "Wagner: Siegfried (Daniel Harding)",
+     "l": "Auditorium Parco della Musica, Sala Santa Cecilia",
+     "tipo": "musica",
+     "u": "https://santacecilia.it/concerto/siegfried-harding/?replica=1649",
+     "f": "Auditorium Parco della Musica",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-22",
+     "df": "2026-10-22",
+     "o": "19:00",
+     "t": "Romarivista, il magazine di Roma Capitale presenta il numero viola",
+     "l": "Mattatoio",
+     "tipo": "incontro",
+     "u": "https://culture.roma.it/appuntamento/romarivista-il-magazine-di-roma-capitale-presenta-il-numero-viola/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-22",
+     "df": "2026-10-22",
+     "o": "18:30",
+     "t": "Per sempre. Le parole, le persone, le cose dell'amicizia e dell'amore",
+     "l": "Biblioteca Mameli",
+     "tipo": "incontro",
+     "u": "https://culture.roma.it/appuntamento/per-sempre-le-parole-le-persone-le-cose-dellamicizia-e-dellamore/",
+     "f": "Roma Capitale · Culture",
+     "g": false,
+     "n": ""
+    },
+    {
+     "d": "2026-10-24",
+     "df": "2026-10-25",
+     "o": "",
+     "t": "Haribo Kimchi (Jaha Koo, CAMPO)",
+     "l": "Mattatoio",
+     "tipo": "teatro",
+     "u": "https://romaeuropa.net/festival-2026/haribo-kimchi/",
+     "f": "Romaeuropa Festival",
+     "g": false,
+     "n": "24-25 ottobre, orari vari"
+    },
+    {
+     "d": "2026-10-24",
+     "df": "2026-10-25",
+     "o": "",
+     "t": "No yogurt for the dead (Tiago Rodrigues, NTGent)",
+     "l": "Teatro Vascello",
+     "tipo": "teatro",
+     "u": "https://romaeuropa.net/festival-2026/no-yogurt-for-the-dead/",
+     "f": "Romaeuropa Festival",
+     "g": false,
+     "n": "24-25 ottobre, orari vari"
+    },
+    {
+     "d": "2026-10-14",
+     "df": "2026-12-02",
+     "o": "",
+     "t": "Contiamo l'Italia, contiamo per il futuro",
+     "l": "Palazzo Esposizioni Roma, via Milano 9a",
+     "tipo": "mostra",
+     "u": "https://www.palazzoesposizioniroma.it/mostra/contiamo-litalia-contiamo-per-il-futuro",
+     "f": "Palazzo Esposizioni / Roma Capitale",
+     "g": true,
+     "n": "l'Istat celebra il centenario della fondazione; ingresso gratuito"
     }
    ]
   }
