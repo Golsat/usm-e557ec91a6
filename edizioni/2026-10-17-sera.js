@@ -3,6 +3,1697 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z92f5ac5e",
+   "sez": "economia",
+   "titolo": "A Cipro si conclude lo sciopero dei lavoratori del petrolio turco-ciprioti",
+   "orig": "Turkish Cypriot fuel workers’ strike ends with layoff decisions reversed",
+   "lead": "I lavoratori della società Cyprus Turkish Petroleum (K-Pet), a Nicosia, hanno concluso sabato lo sciopero dopo che l'azienda ha ritirato la decisione di licenziare nove dipendenti. Il sindacato Petrol-Is, affiliato alla federazione Dev-Is, ha negoziato con la direzione aziendale raggiungendo l'accordo che ha posto fine alla protesta. A renderlo noto è stato Semih Kolozali, rappresentante Dev-Is, al giornale Yeniduzen. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/17/turkish-cypriot-fuel-workers-strike-ends-with-layoff-decisions-reversed",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-17T20:13+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z748ef3bd",
+   "sez": "salute",
+   "titolo": "Repubblica Dominicana, circa 2.609 nuovi casi di cancro al seno ogni anno",
+   "orig": "República Dominicana y el cáncer de mama: detección y tratamiento",
+   "lead": "Il Ministero della Salute Pubblica della Repubblica Dominicana ha rivelato che ogni anno circa 2.609 donne vengono diagnosticate con cancro al seno, pari a circa sette casi al giorno. Il dato è stato fornito dal medico Tammy Santana, responsabile del Programma Materno Infantile, durante l'evento per la Giornata Mondiale di Lotta contro il Cancro al Seno a Santo Domingo, guidato dal viceministro Eladio Pérez. Nell'occasione sono state presentate le azioni promosse dal ministero per la diagnosi precoce. Lo riferisce Diario Libre.",
+   "more": [
+    "Il cancro al seno resta uno dei tumori più diagnosticati nelle donne a livello globale. La diagnosi precoce tramite screening mammografico aumenta significativamente le possibilità di cura, motivo per cui molti governi promuovono campagne di sensibilizzazione come quella descritta."
+   ],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/actualidad/salud/2026/10/17/republica-dominicana-y-el-cancer-de-mama-deteccion-y-tratamiento/3691902",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-17T09:23+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z49b781c5",
+   "sez": "economia",
+   "titolo": "A Cipro, marcia di protesta contro il caro energia guidata da Fidias Panayiotou",
+   "orig": "Fidias leads protest against high electricity prices",
+   "lead": "Il leader di Direct Democracy Cyprus, Fidias Panayiotou, ha guidato sabato una marcia verso il palazzo presidenziale di Nicosia per protestare contro l'aumento dei prezzi dell'elettricità. I manifestanti hanno consegnato una lettera al presidente Nikos Christodoulides chiedendo che elettricità e carburante siano riconosciuti come beni di prima necessità. La protesta, descritta come nazionale, rivendica una riduzione dei costi energetici per i cittadini ciprioti. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/17/fidias-leads-protest-against-high-electricity-prices",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-17T20:08+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2d80c255",
+   "sez": "cultura",
+   "titolo": "Debutta a San José lo spettacolo 'CTRL-CURRÍCULUM' sulla precarietà lavorativa",
+   "orig": "‘CTRL-CURRÍCULUM’: La obra que confronta la precariedad laboral debuta en las tablas",
+   "lead": "Lo spettacolo teatrale 'CTRL-CURRÍCULUM', vincitore del certame Teatro del Sol 2026, debutta al Teatro Universitario di San José e sarà in scena dal 15 ottobre al 1 novembre. L'opera affronta il tema della precarietà lavorativa attraverso la messa in scena teatrale. La produzione ha ottenuto il riconoscimento nel concorso dedicato alle nuove opere teatrali costaricane. Lo riferisce La Nación CR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/revista-dominical/ctrl-curriculum-la-obra-que-confronta-la/RIG5EL3KXRC45BMI2YU2TSMQUM/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-17T16:53+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z551a8959",
+   "sez": "salute",
+   "titolo": "RDC, un deputato chiede sanzioni per la gestione dei fondi contro l'Ebola nell'Haut-Uele",
+   "orig": "Fonds Ebola : Joseph Bangakya réclame des sanctions au sein du caucus des élus du Haut-Uele",
+   "lead": "Il deputato nazionale Joseph Bangakya ha chiesto che vengano stabilite responsabilità all'interno del caucus degli eletti dell'Haut-Uele riguardo alla gestione dei fondi destinati alla sensibilizzazione comunitaria contro l'epidemia di Ebola Bundibugyo. La richiesta riguarda presunte irregolarità nell'utilizzo delle risorse stanziate per contrastare la diffusione del virus nella regione congolese. Bangakya reclama sanzioni per i responsabili individuati. Lo riferisce Actualite.cd.",
+   "more": [
+    "L'Ebola Bundibugyo è una delle varianti del virus Ebola, meno comune ma comunque letale. La Repubblica Democratica del Congo ha affrontato diverse epidemie negli ultimi anni, spesso con criticità nella gestione dei fondi internazionali destinati al contenimento sanitario."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/17/fonds-ebola-joseph-bangakya-reclame-des-sanctions-au-sein-du-caucus-des-elus-du-haut",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-17T15:49+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z48ed06ca",
+   "sez": "cultura",
+   "titolo": "A Santa Cruz il festival Sombrero de Saó riunisce 80 gruppi folkloristici",
+   "orig": "Festival Sombrero de Saó reunirá a 80 grupos y exhibirá una pieza de cinco metros",
+   "lead": "L'undicesima edizione del Festival Sombrero de Saó si svolge sabato 17 e domenica 18 ottobre a Santa Cruz, riunendo circa 80 gruppi di musica, danza e canto. L'evento culturale boliviano prevede come novità principale l'esposizione di un sombrero di cinque metri. La manifestazione celebra le tradizioni folkloristiche della regione nella capitale cruceña. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cultura/festival-sombrero-sao-reunira-80-grupos-exhibira-pieza-cinco-metros/20261017114005997746.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T11:40-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z918bedd0",
+   "sez": "sport",
+   "titolo": "Il Malawi di beach soccer si qualifica per la Coppa d'Africa battendo le Seychelles 10-1",
+   "orig": "Malawi beach soccer team qualify for Africa Cup of Nations with 10-1 win",
+   "lead": "La nazionale di beach soccer del Malawi si è qualificata per la fase finale della Coppa d'Africa delle Nazioni dopo aver sconfitto le Seychelles 10-1 nel ritorno degli spareggi a Salima, completando una vittoria complessiva di 16-3. Il Malawi aveva già vinto l'andata 6-2 alle Seychelles. Frank Mwenefumbo e il capitano Isaac Kajamu hanno segnato una tripletta ciascuno nella partita decisiva giocata sulla spiaggia di Livingstonia. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/malawi-beach-soccer-team-qualify-for-africa-cup-of-nations-with-10-1-win/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-beach-soccer-team-qualify-for-africa-cup-of-nations-with-10-1-win",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-17T17:00+00:00"
+    },
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/malawis-beach-soccer-stars-out-to-finish-the-job-as-seychelles-visit-salima/?utm_source=rss&utm_medium=rss&utm_campaign=malawis-beach-soccer-stars-out-to-finish-the-job-as-seychelles-visit-salima",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-17T00:24+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6f8c1af2",
+   "sez": "economia",
+   "titolo": "Banca Islamica di Sviluppo, 202 milioni di dollari per meccanizzare l'agricoltura in Uzbekistan",
+   "orig": "IsDB to Provide US$202 Million for Farm Mechanisation in Uzbekistan",
+   "lead": "L'Islamic Development Bank e l'Uzbekistan hanno firmato un accordo da 202 milioni di dollari per espandere l'accesso a macchinari agricoli moderni e aumentare la produttività delle fattorie del paese. L'iniziativa punta a modernizzare il settore agricolo uzbeko attraverso finanziamenti dedicati alla mecanizzazione. L'accordo rientra nella cooperazione tra Tashkent e l'istituto finanziario internazionale con sede a Gedda. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/isdb-to-provide-us202-million-for-farm-mechanisation-in-uzbekistan/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-17T20:12+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z45ecf2ab",
+   "sez": "economia",
+   "titolo": "Il Kurdistan iracheno denuncia di aver ricevuto solo il 4,2% del bilancio nazionale in 12 anni",
+   "orig": "Kurdistan Region Received Just 4.2% of Iraq’s Budget over 12 Years, Ministry Says",
+   "lead": "Il ministero delle Finanze del governo regionale del Kurdistan (KRG) ha dichiarato che Baghdad ha trasferito negli ultimi dodici anni fondi sufficienti a coprire solo 46 dei 144 pagamenti salariali mensili dovuti tra il 2014 e il 2025. Secondo il ministero, la regione curda ha ricevuto appena il 4,2% del bilancio complessivo iracheno nel periodo considerato. La denuncia alimenta le tensioni tra Erbil e il governo centrale iracheno sulla distribuzione delle risorse pubbliche. Lo riferisce Kurdistan24.",
+   "more": [
+    "Le tensioni finanziarie tra il governo centrale di Baghdad e la Regione del Kurdistan risalgono a anni di dispute sulla condivisione delle entrate petrolifere e sui pagamenti salariali ai dipendenti pubblici curdi, un tema ricorrente nei rapporti tra Erbil e Baghdad."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946725/kurdistan-region-received-just-42-of-iraqs-budget-over-12-years-ministry-says",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-17T18:32+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z38d893ff",
+   "sez": "economia",
+   "titolo": "Belize City dialoga con la Banca Interamericana di Sviluppo per rilanciare il centro storico",
+   "orig": "Belize City Council, IDB explore plans to revitalize historic Downtown",
+   "lead": "Il Consiglio Municipale di Belize City continua i colloqui con la Banca Interamericana di Sviluppo (IDB) su un programma per la rivitalizzazione del centro storico della città. Il piano in discussione riguarda il miglioramento degli spazi pubblici, il supporto alle attività commerciali e la conservazione del carattere storico dell'area, che comprende i corridoi di Albert e Regent Street. L'iniziativa fa parte di una più ampia strategia di sviluppo urbano per la capitale commerciale del Belize. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/17/belize-city-council-idb-explore-plans-to-revitalize-historic-downtown/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-17T17:27+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaedee8d2",
+   "sez": "sport",
+   "titolo": "Pallone d'Oro 2026, Messi tra i favoriti alla vigilia della premiazione",
+   "orig": "Balón de Oro 2026: favoritos y cuándo se entrega",
+   "lead": "Si avvicina la cerimonia di assegnazione del Pallone d'Oro 2026, premio conferito dalla rivista France Football al miglior calciatore della stagione. Tra i principali candidati torna a figurare Lionel Messi, nonostante la concorrenza di altri protagonisti del calcio internazionale. L'attribuzione del riconoscimento genera come ogni anno grande attesa tra tifosi e media sportivi. Lo riferisce La Nación.",
+   "more": [
+    "Il Pallone d'Oro, assegnato ogni anno dalla rivista francese France Football, è uno dei riconoscimenti individuali più prestigiosi nel calcio mondiale. Messi, vincitore record del premio, resta un nome ricorrente tra i candidati nonostante l'età avanzata per gli standard calcistici."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/deportes/futbol/balon-de-oro-2026-favoritos-y-cuando-se-entrega-nid17102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-17T17:31+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfb471c20",
+   "sez": "economia",
+   "titolo": "Austria, il budget delle università scende del 10% in termini reali",
+   "orig": "Uni-Budget sinkt real um rund zehn Prozent, steuerfreies Depot für Kinder startet Mitte 2027",
+   "lead": "Il bilancio delle università austriache si riduce di circa il 10% in termini reali, scendendo anche nominalmente a poco meno di 16 miliardi di euro. Contestualmente, il governo ha annunciato che dal gennaio 2027 i bambini nati riceveranno dallo Stato un conto deposito esentasse con un capitale iniziale di 500 euro, attivo da metà 2027. Le due misure fanno parte delle decisioni di bilancio del governo austriaco per i prossimi anni. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344621/uni-budget-sinkt-real-um-rund-zehn-prozent-steuerfreies-depot-fuer-kinder-startet-mitte-2027?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-17T17:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zea974694",
+   "sez": "sport",
+   "titolo": "AS Monaco, Lamine Camara parte per la trasferta di Lorient",
+   "orig": "Lamine Camara est bien du voyage, on connaît le groupe de l’AS Monaco pour le match à Lorient dimanche à 17h15",
+   "lead": "Lamine Camara è stato convocato dall'AS Monaco per la trasferta di campionato contro il Lorient, in programma domenica alle 17:15 per la settima giornata di Ligue 1. Il centrocampista senegalese, sostituito a metà partita giovedì sera nella sfida di Conference League contro il Levski Sofia, ha viaggiato con la squadra verso la Bretagna. Il gruppo monegasco punta a riscattarsi dopo l'impegno europeo. Lo riferisce Monaco Matin.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/football/lamine-camara-est-bien-du-voyage-on-connait-le-groupe-de-l-as-monaco-pour-le-match-a-lorient-dimanche-a-17h15-10742111",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-17T18:45+02:00"
+    },
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/football/lamine-camara-apte-deux-blesses-on-fait-le-point-sur-le-groupe-de-l-as-monaco-pour-le-deplacement-a-lorient-10742076",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-17T11:56+02:00"
+    },
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/football/sa-forme-sa-constance-le-ballon-d-or-la-ligue-des-champions-ansu-fati-se-livre-avant-le-deplacement-a-lorient-dimanche-en-ligue-1-10742209",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-17T12:39+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "za4e0d9cd",
+   "sez": "ambiente",
+   "titolo": "La Turchia punta a ridurre la produzione di rifiuti alla COP31 di Antalya",
+   "orig": "COP31 pretende estimular governos e empresas a reduzir geração de lixo",
+   "lead": "La Turchia intende proporre alla COP31, conferenza delle Nazioni Unite sui cambiamenti climatici che si terrà ad Antalya nel mese di novembre, misure per incentivare governi e aziende a ridurre la generazione di rifiuti. Il tema è indicato come una delle priorità turche per l'incontro internazionale. La conferenza rappresenta l'appuntamento annuale globale sulla crisi climatica, ospitato quest'anno dal paese anatolico. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Le conferenze COP riuniscono ogni anno quasi tutti i paesi del mondo per negoziare impegni comuni sulla riduzione delle emissioni e sull'adattamento ai cambiamenti climatici. La gestione dei rifiuti è un tema sempre più centrale per il suo legame con le emissioni di metano e l'economia circolare."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/cop31-pretende-estimular-governos-e-empresas-a-reduzir-geracao-de-lixo.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T14:00-03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zebeef237",
+   "sez": "ambiente",
+   "titolo": "Negli Stati Uniti un impianto trasforma le pale eoliche dismesse in fibra per cemento e asfalto",
+   "orig": "Una planta en Iowa tritura unas 30.000 toneladas anuales de palas de turbinas usadas sin calor ni productos químicos y las convierte en fibra que luego se utiliza en hormigón y asfalto",
+   "lead": "In Iowa, un impianto specializzato tritura ogni anno circa 30.000 tonnellate di pale di turbine eoliche dismesse, lunghe fino a 36 metri, senza utilizzare calore né prodotti chimici. Il materiale ottenuto viene trasformato in fibra, poi impiegata nella produzione di calcestruzzo e asfalto per l'edilizia e le infrastrutture. Il processo rappresenta una soluzione innovativa al problema dello smaltimento delle enormi pale eoliche, difficili da riciclare con i metodi tradizionali. Lo riferisce Clarín.",
+   "more": [
+    "Le pale delle turbine eoliche sono in genere realizzate con materiali compositi in fibra di vetro o carbonio, molto resistenti ma difficili da smaltire una volta giunte a fine vita, creando un problema ambientale crescente con l'espansione dell'energia eolica nel mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/planta-iowa-tritura-30000-toneladas-anuales-palas-turbinas-usadas-calor-productos-quimicos-convierte-fibra-luego-utiliza-hormigon-asfalto_0_MpFpiLK43x.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-17T17:25+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd1e72a15",
+   "sez": "economia",
+   "titolo": "Banca Mondiale: mancheranno 800 milioni di posti di lavoro per i giovani nei prossimi 15 anni",
+   "orig": "Banco Mundial advierte que faltarán 800 millones de empleos para jóvenes en los próximos 15 años",
+   "lead": "Ajay Banga, presidente del Gruppo Banca Mondiale, ha avvertito che il mondo si troverà davanti a un divario di circa 800 milioni di posti di lavoro per i giovani che entreranno nel mercato del lavoro nei prossimi 10-15 anni. L'allarme è stato lanciato venerdì, in un contesto di crescita demografica nei paesi in via di sviluppo non accompagnata da una crescita occupazionale sufficiente. Lo riferisce Opinión.",
+   "more": [
+    "La disoccupazione giovanile è considerata un fattore di instabilità sociale e politica, soprattutto nei paesi a basso e medio reddito, dove la popolazione under 30 cresce più rapidamente della capacità delle economie di creare nuovi impieghi formali."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/banco-mundial-advierte-que-faltaran-800-millones-empleos-jovenes-proximos-15-anos/20261017112140997744.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T11:21-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbe160c34",
+   "sez": "economia",
+   "titolo": "Giappone pronto a portare avanti il primo accordo economico del Bangladesh",
+   "orig": "Japan set to move forward with Bangladesh's first economic pact",
+   "lead": "Il Giappone si prepara a procedere con il primo accordo economico del Bangladesh con un partner internazionale, un passo che rafforzerebbe i legami commerciali tra i due paesi. L'intesa rappresenterebbe una pietra miliare per Dhaka, che non ha mai firmato prima un patto economico bilaterale di questo tipo. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Il Bangladesh, una delle economie in più rapida crescita dell'Asia meridionale, ha puntato negli ultimi anni a diversificare le proprie relazioni commerciali oltre il settore tessile, cercando accordi con grandi partner asiatici per attrarre investimenti."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/economy/trade/japan-set-to-move-forward-with-bangladesh-s-first-economic-pact",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z62192ac6",
+   "sez": "economia",
+   "titolo": "L'interscambio commerciale dell'Iran al valico di Astara raggiunge i 395 milioni di dollari",
+   "orig": "Iran's trade turnover via Astara border crossing reaches $395M - governor (Exclusive)",
+   "lead": "Il governatore della provincia ha dichiarato che il volume degli scambi commerciali dell'Iran attraverso il valico di frontiera di Astara ha raggiunto i 395 milioni di dollari. Il dato, diffuso in esclusiva, evidenzia l'importanza del confine con l'Azerbaigian come corridoio commerciale per Teheran. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/iran/4236169.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-17T20:00+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdc890583",
+   "sez": "salute",
+   "titolo": "Il chirurgo di papa Leone XIV: nessun motivo clinico per annullare il viaggio in Sudamerica",
+   "orig": "El cirujano que operó al papa León XIV habló sobre su viaje a Sudamérica: \"No hay motivos clínicos para no realizarlo\"",
+   "lead": "Il direttore dell'unità chirurgica del Policlinico Gemelli che ha operato papa Leone XIV ha dichiarato a Vatican News che non ci sono motivi clinici per annullare il viaggio del pontefice in Sudamerica. Il medico ha spiegato che il papa necessita ancora di una decina di giorni per completare la guarigione dopo l'intervento chirurgico per un tumore al polmone, sottolineando che il recupero procede favorevolmente.",
+   "more": [
+    "Papa Leone XIV è stato operato il 13 ottobre al Gemelli per la rimozione di un tumore al lobo inferiore del polmone destro. La sua agenda prevede un viaggio in Sudamerica, continente d'origine del pontefice."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/el-cirujano-que-opero-al-papa-leon-xiv-hablo-su-viaje-sudamerica-no-hay-motivos-clinicos-no-realizarlo-n6060793",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-17T13:06-03:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/internacional/europa/no-hay-razones-clinicas-para-cancelar-el-viaje-el-cirujano-del-papa-leon-xiv-sobre-su-recuperacion-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-17T16:30+00:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/17/leon-xiv-puede-afrontar-el-viaje-a-latinoamerica-segun-el-cirujano-que-le-opero/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-17T16:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8a02fecb",
+   "sez": "mondo",
+   "titolo": "Gli avvocati della deputata Ilhan Omar chiedono la restituzione dei beni sequestrati nel raid nella sua casa",
+   "orig": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
+   "lead": "Gli avvocati della deputata democratica Ilhan Omar hanno chiesto al Dipartimento di Giustizia americano la restituzione immediata dei beni sequestrati durante una perquisizione nella sua abitazione, sostenendo che l'operazione, legata a un'indagine per frode in materia di immigrazione, abbia violato le tutele costituzionali previste per i membri del Congresso. Il team legale ritiene che la perquisizione non fosse giustificata.",
+   "more": [
+    "Negli Stati Uniti i membri del Congresso godono di particolari protezioni legali contro perquisizioni che potrebbero interferire con le loro funzioni istituzionali, principio su cui si basa ora la contestazione degli avvocati di Omar."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T15:20+00:00"
+    },
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/world4/2026/Oct/206549/rep_ilhan_omars_attorneys_demand_return_of_property_seized_in_federal_search_of_her_home.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-17T16:26+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z279413d1",
+   "sez": "mondo",
+   "titolo": "L'ex presidente brasiliano José Sarney lascia l'ospedale dopo nove giorni di ricovero",
+   "orig": "José Sarney recebe alta hospitalar após nove dias de internação",
+   "lead": "José Sarney, ex presidente del Brasile di 96 anni, ha ricevuto le dimissioni sabato mattina dopo nove giorni di ricovero all'ospedale UDI della Rede D'Or, a São Luís, nello stato del Maranhão. Era stato ricoverato il 9 ottobre per sottoporsi a un intervento chirurgico addominale. Lo riferisce Agência Brasil.",
+   "more": [
+    "José Sarney è stato presidente del Brasile tra il 1985 e il 1990, il primo dopo la fine della dittatura militare, e resta una delle figure più longeve della politica brasiliana."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jose-sarney-recebe-alta-hospitalar-apos-nove-dias-de-internacao",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T12:33-03:00"
+    },
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/internacional/detalhe/papa-leao-xiv-tem-este-sabado-alta-hospitalar-75436.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-17T11:17+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z69670caf",
+   "sez": "salute",
+   "titolo": "Papa Leone XIV torna in Vaticano dopo l'operazione al polmone",
+   "orig": "Papa se vratio u Vatikan posle operacije raka pluća",
+   "lead": "Papa Leone XIV è tornato in Vaticano, quattro giorni dopo essere stato operato per un tumore al polmone all'ospedale Gemelli di Roma. Il pontefice, 71 anni, era stato sottoposto alla rimozione del lobo inferiore del polmone destro. I medici hanno indicato quando potrebbe completare la guarigione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/papa-se-vratio-u-vatikan-posle-operacije-raka-pluca/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-17T18:18+02:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/papa-lav-xiv-vratio-se-u-vatikan-nakon-operacije-raka-pluca-ljekari-otkrili-kada-bi-se-mogao-potpuno-oporaviti/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-17T19:20+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "za24a5275",
+   "sez": "mondo",
+   "titolo": "Burundi, dubbi sulla composizione del comitato anti-corruzione",
+   "orig": "Lutte contre la corruption : un comité qui interroge",
+   "lead": "Il 9 ottobre il presidente burundese Évariste Ndayishimiye ha lanciato ufficialmente l'attuazione della Strategia nazionale contro la corruzione e le malversazioni economiche. Tuttavia, la composizione del comitato nazionale incaricato di guidare questa lotta suscita interrogativi nella società civile, che contesta la possibilità che gli stessi soggetti incaricati di eseguire un programma possano anche valutarne i risultati. Lo riferisce Iwacu.",
+   "more": [
+    "Le strategie anti-corruzione in Africa spesso incontrano critiche quando gli organi di controllo non sono sufficientemente indipendenti dal potere esecutivo, un problema che limita l'efficacia reale di tali iniziative."
+   ],
+   "fonti": [
+    {
+     "n": "Iwacu",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.iwacu-burundi.org/lutte-contre-la-corruption-un-comite-qui-interroge/",
+     "angolo": "",
+     "atlas": "Burundi",
+     "t": "2026-10-16T06:22+00:00"
+    },
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/17/lutte-contre-le-trafic-de-drogue-la-dgsn-annonce-un-important-coup-de-filet/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T17:11+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb0b0d11f",
+   "sez": "mondo",
+   "titolo": "Gli Emirati Arabi Uniti lanciano iniziative per proteggere i minori nelle dispute familiari",
+   "orig": "UAE launches initiatives to protect children in family disputes",
+   "lead": "Gli Emirati Arabi Uniti hanno annunciato una serie di iniziative per tutelare i bambini coinvolti in controversie familiari, con particolare attenzione al miglioramento degli accordi di custodia, al supporto emotivo e al mantenimento della stabilità familiare. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/uae-launches-initiatives-to-protect-children-in-family-disputes-1.500714173",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-17T19:31+04:00"
+    },
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/uae-introduces-new-measures-to-protect-children-in-custody-disputes",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-17T17:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zec1a1b97",
+   "sez": "mondo",
+   "titolo": "Proteste contro il carovita in Francia, incendiate auto ed edifici",
+   "orig": "Buildings and cars set on fire as cost of living protests rock France",
+   "lead": "In Francia, le manifestazioni contro il carovita sono degenerate, con i manifestanti che hanno appiccato fuoco ad automobili ed edifici durante gli scontri con la polizia antisommossa. Le proteste si inseriscono in un'ondata di mobilitazioni sul tema del costo della vita che sta attraversando diversi paesi europei, tra cui il Portogallo, dove si registrano manifestazioni anche per la crisi abitativa.",
+   "more": [
+    "Negli ultimi anni l'aumento dei prezzi dell'energia e dei generi alimentari ha alimentato in Europa un diffuso malcontento sociale, spesso sfociato in proteste di piazza, specialmente dove i salari non hanno tenuto il passo con l'inflazione."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T16:00+00:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/17/portugal-sees-protests-over-cost-of-living-and-housing-crisis-as-demonstrations-sweep-euro",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T15:43+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "za1be0127",
+   "sez": "tech",
+   "titolo": "La Nigeria invita i cittadini a verificare i telefoni prima dell'acquisto componendo *315#",
+   "orig": "Dial *315# before buying phones, NCC tells Nigerians",
+   "lead": "La Commissione per le comunicazioni della Nigeria (NCC) ha invitato i cittadini a comporre il codice *315# prima di acquistare un telefono, per verificarne l'autenticità. Il direttore per gli standard tecnici e l'integrità della rete, Edoyemi Ogoh, ha spiegato che il processo protegge i consumatori dall'acquisto di dispositivi contraffatti e previene problemi di qualità del servizio causati da telefoni scadenti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/more-news/917827-dial-315-before-buying-phones-ncc-tells-nigerians.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-17T16:11+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/why-nigerians-should-verify-phones-before-purchase-ncc/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6348d2fd",
+   "sez": "italia",
+   "titolo": "Attentato a Ranucci, il Tribunale del Riesame: inverosimile la versione di Lavitola",
+   "orig": "Attentato a Sigfrido Ranucci, le motivazioni del Riesame: “Inverosimile” la versione di Lavitola. I giudici: “Materiale investigativo granitico”",
+   "lead": "I giudici del Tribunale del Riesame di Roma hanno definito inverosimile la versione fornita da Valter Lavitola sull'attentato subito dal giornalista Sigfrido Ranucci, confermando la custodia cautelare in carcere per l'ex editore. Nelle 31 pagine di motivazioni, i giudici parlano di risultanze investigative granitiche a carico di Lavitola, respingendo le richieste della difesa.",
+   "more": [
+    "Sigfrido Ranucci, conduttore del programma Report, era stato vittima di un attentato nei mesi scorsi; l'inchiesta ha portato all'arresto di Valter Lavitola, ex editore ed ex mediatore politico, già coinvolto in passati scandali giudiziari."
+   ],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/17/attentato-a-sigfrido-ranucci-le-motivazioni-del-riesame-inverosimile-la-versione-di-lavitola-i-giudici-materiale-investigativo-granitico/8541909/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T16:37+00:00"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/politica/lavitola_ranucci_rapporto_sentenza_motivazioni_oggi-9831226.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "za9a8a440",
+   "sez": "mondo",
+   "titolo": "Sierra Leone, polemiche sulla detenzione dell'ex Attorney General Joseph Fitzgerald Kamara",
+   "orig": "Contempt of court or contempt of due process? The detention of former Attorney General of Sierra Leone – Joseph Fitzgerald Kamara",
+   "lead": "In Sierra Leone si discute sulla detenzione dell'ex Attorney General e ministro della Giustizia Joseph Fitzgerald Kamara, legata agli eventi del 7 e 8 ottobre che hanno coinvolto il presidente della Corte Suprema Komba Kamanda durante le udienze sul disegno di legge di modifica costituzionale. Il caso solleva interrogativi sul rispetto del giusto processo. Lo riferisce The Sierra Leone Telegraph.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Sierra Leone Telegraph",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://www.thesierraleonetelegraph.com/contempt-of-court-or-contempt-of-due-process-the-detention-of-former-attorney-general-of-sierra-leone-joseph-fitzgerald-kamara/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-12T19:54+00:00"
+    },
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/politics/high-court-apc-publicity-secretary-contempt/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-17T14:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf80c40be",
+   "sez": "mondo",
+   "titolo": "Gabon, Stéphen Olouna Mouba si insedia al ministero dell'Ambiente e del Clima",
+   "orig": "Gabon : Stéphen Olouna Mouba prend les commandes du ministère de l’Environnement et du Climat",
+   "lead": "Cinque giorni dopo il rimpasto di governo dell'11 ottobre, Stéphen Olouna Mouba ha assunto ufficialmente le funzioni di ministro dell'Ambiente e del Clima, venerdì 16 ottobre, al termine di una cerimonia di passaggio di consegne presso la sede del ministero. La nomina sancisce la separazione di questo portafoglio da altre competenze precedentemente unite.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/gabon-stephen-olouna-mouba-prend-les-commandes-du-ministere-de-lenvironnement-et-du-climat/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-17T09:14+00:00"
+    },
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/gabon-georges-francois-waza-prend-les-commandes-du-ministere-de-la-peche/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-17T07:03+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/17/ministere-de-lenvironnement-stephen-olouna-mouba-prend-ses-fonctions/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-17T07:47+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0848582c",
+   "sez": "mondo",
+   "titolo": "Il Frente Amplio archivia il patto fallito con Podemos: basta unire i partiti, bisogna unire la gente",
+   "orig": "Frente Amplio pasa página del pacto fallido con Podemos: “Se acabó el tiempo de unir a los partidos, hay que unir a la gente”",
+   "lead": "Il partito spagnolo Frente Amplio ha chiuso la vicenda del mancato accordo con Podemos, affermando che è finito il tempo di unire i partiti e che ora bisogna unire la gente. Ada Colau si è scusata per il patto fallito, sottolineando che non si può obbligare nessuno a sedersi a un tavolo se non lo desidera, e si è impegnata a guidare l'alleanza.",
+   "more": [
+    "Il Frente Amplio è una coalizione di sinistra spagnola nata per unire diverse forze progressiste; le tensioni con Podemos hanno più volte complicato i tentativi di alleanza sulla sinistra spagnola negli ultimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-10-17/frente-amplio-pasa-pagina-sobre-el-fallido-pacto-con-podemos-se-acabo-el-tiempo-de-unir-a-los-partidos-hay-que-unir-a-la-gente.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-17T12:56+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/17/6ad3671afc6c83882f8b45b5.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-17T14:44+02:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/17/6ad343ef21efa0855b8b45b8.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-17T11:46+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1cd37def",
+   "sez": "economia",
+   "titolo": "La Guinea passa dalla categoria 7 alla categoria 6 nel rischio paese dell'OCSE",
+   "orig": "Risques pays : la Guinée quitte la catégorie 7 pour la catégorie 6 dans le classement de l’OCDE",
+   "lead": "La Guinea ha ottenuto un miglioramento nella classificazione del rischio paese stabilita dall'OCSE, passando dalla categoria 7 alla categoria 6. La nuova valutazione, pubblicata venerdì 16 ottobre, è stata confermata dai partecipanti all'Accordo dell'Organizzazione per la cooperazione e lo sviluppo economici. Lo riferisce Guinée News.",
+   "more": [
+    "La classificazione del rischio paese dell'OCSE, su una scala da 0 a 7, influisce sulle condizioni di finanziamento e assicurazione dei crediti all'esportazione verso un determinato paese; un miglioramento indica una minore percezione di rischio finanziario."
+   ],
+   "fonti": [
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/17/risques-pays-la-guinee-quitte-la-categorie-7-pour-la-categorie-6-dans-le-classement-de-locde/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T16:34+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/risque-pays-locde-ameliore-la-classification-de-la-guinee/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T16:38+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z968ddf41",
+   "sez": "mondo",
+   "titolo": "Zelenskyy chiede il sostegno per nuove sanzioni Usa contro la Russia",
+   "orig": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+   "lead": "Il presidente ucraino Volodymyr Zelenskyy ha esortato a sostenere nuove sanzioni americane contro Mosca, ore dopo che il presidente Donald Trump ha sospeso un pacchetto di restrizioni all'economia russa. Zelenskyy ha definito la mossa \"inopportuna\" e ha avvertito che incoraggerebbe la Russia a proseguire gli assalti. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T10:25-04:00"
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/zelenskyy-trump-russia-sanctions-9.7385125?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-17T08:27-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z32d45453",
+   "sez": "mondo",
+   "titolo": "Quale è la minaccia russa contro la Germania?",
+   "orig": "How big is Russia's threat against Germany?",
+   "lead": "Secondo gli esperti, la Germania non è stata sufficientemente preparata, né dal punto di vista militare né da quello mentale e psicologico, ad affrontare le provocazioni russe. Gli analisti sottolineano inoltre i significativi rischi di una politica intesa a ridurre il supporto all'Ucraina come strategia per accrescere la sicurezza tedesca. Lo riferisce Deutsche Welle.",
+   "more": [
+    "La questione della preparazione difensiva tedesca rimane centrale nel dibattito strategico europeo sulla sicurezza nel contesto della guerra russo-ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T15:23+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfd0a5794",
+   "sez": "mondo",
+   "titolo": "Perché i paesi latinoamericani si avvicinano a Israele",
+   "orig": "Why are Latin American countries building closer ties with Israel?",
+   "lead": "Una nuova ondata di leader latinoamericani sta invertendo le misure di isolamento contro Israele, rafforzando i legami bilaterali con lo Stato ebraico. La tendenza segue la guerra in corso a Gaza e rappresenta un cambio di direzione rispetto alle precedenti posizioni critiche. Lo riferisce Al Jazeera.",
+   "more": [
+    "Il cambio di rotta dei leader latinoamericani riflette dinamiche geopolitiche complesse tra gli equilibri regionali e il conflitto israelo-palestinese."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T16:54+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "za97d57e5",
+   "sez": "mondo",
+   "titolo": "Sondaggio: il partito ANO cala al 29,5%, STAN sale al 17%",
+   "orig": "Median poll: ANO party support falls to 29.5 percent as STAN rises to 17 percent",
+   "lead": "Secondo un sondaggio Median, il partito ANO perde consensi scendendo al 29,5% mentre il partito STAN guadagna terreno raggiungendo il 17%. I dati riflettono i mutamenti nell'assetto politico della Repubblica Ceca, con significativi spostamenti di preferenze nell'elettorato nazionale. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/median-poll-ano-party-support-falls-295-percent-stan-rises-17-percent-8900280",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-17T17:28+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "za76519c1",
+   "sez": "mondo",
+   "titolo": "La Romania abbatte due droni sul Mar Nero",
+   "orig": "Virš Juodosios jūros Rumunija numušė du dronus",
+   "lead": "La Romania ha abbattuto due droni nel suo spazio aereo sopra il Mar Nero durante un'operazione di difesa aerea. L'episodio si inserisce nel contesto della guerra russo-ucraina e delle crescenti tensioni militari nella regione del Mar Nero. Lo riferisce LRT.",
+   "more": [
+    "L'incidente rappresenta un'escalation delle operazioni di difesa aerea nel Mar Nero."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3085144/virs-juodosios-juros-rumunija-numuse-du-dronus",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-17T19:44+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc77cb8b2",
+   "sez": "mondo",
+   "titolo": "Conducenti che violano le regole cercano modi per evitare sanzioni tramite social media",
+   "orig": "Nusižengę vairuotojai ieško būdų kaip išvengti atsakomybės – padeda socialiniai tinklai",
+   "lead": "Su social network si cercano persone disposte ad assumersi responsabilità per violazioni del codice stradale altrui in cambio di denaro. La polizia lituana conferma che il fenomeno è critico, anche se non fornisce dati precisi sui casi registrati. Lo riferisce LRT.",
+   "more": [
+    "Il fenomeno della delega delle sanzioni tramite social media rappresenta una nuova forma di evasione delle responsabilità civili."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/eismas/7/3085117/nusizenge-vairuotojai-iesko-budu-kaip-isvengti-atsakomybes-padeda-socialiniai-tinklai",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-17T19:14+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6699eb92",
+   "sez": "mondo",
+   "titolo": "Il separatismo dell'Alberta passa da movimento marginale a referendum",
+   "orig": "How Alberta separatism went from fringe cause to referendum",
+   "lead": "L'Alberta non voterà per lasciare il Canada il 19 ottobre, ma gli elettori decideranno se la provincia dovrebbe rimanere nel Paese o avviare il processo legale verso un futuro referendum sulla separazione. L'elezione rappresenta una fase cruciale per il movimento separatista. Lo riferisce PBS NewsHour.",
+   "more": [
+    "La questione separatista dell'Alberta rappresenta una crescente tensione sulle autonomie regionali in Canada."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/how-alberta-separatism-went-from-fringe-cause-to-referendum",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T13:35-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z395f1268",
+   "sez": "mondo",
+   "titolo": "Lo Speaker Johnson contesta i sondaggi, sostiene che i Repubblicani manterranno la Camera",
+   "orig": "House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority",
+   "lead": "Il presidente della Camera Mike Johnson sostiene che i Repubblicani manterranno la loro maggioranza alla Camera, sfidando l'ondata di slancio democratico registrata negli ultimi sondaggi prima delle elezioni di midterm che determineranno il controllo del Congresso. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/house-speaker-mike-johnson-draws-on-faith-as-he-fights-to-hold-the-republican-majority",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T12:17-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9a83aaa7",
+   "sez": "mondo",
+   "titolo": "Scuola cristiana Gloriavale ordinata di chiudere per problemi di sicurezza",
+   "orig": "'Overuse of state power': Documents detail Gloriavale school's fight to stay open",
+   "lead": "La scuola privata della comunità cristiana Gloriavale è stata ordinata di chiudere poiché ritenuta fisicamente e psicologicamente non sicura per gli studenti. Documenti rivelano il ricorso della comunità contro l'ordine, accusando le autorità di abuso di potere. Lo riferisce RNZ.",
+   "more": [
+    "Il caso della scuola Gloriavale solleva questioni sulle comunità religiose chiuse e la tutela dei minori."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/education/1973926/overuse-of-state-power-documents-detail-gloriavale-school-s-fight-to-stay-open",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T06:42+13:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb4009e2a",
+   "sez": "mondo",
+   "titolo": "Nuovo porto di Huanggang, primi test dei viaggiatori hongkonghesi",
+   "orig": "Travellers get Chung Yeung headstart at Huanggang",
+   "lead": "Molte persone provenienti da Hong Kong hanno sperimentato il nuovo porto di Huanggang durante il fine settimana del Festival di Chung Yeung per raggiungere la Cina continentale. I viaggiatori hanno elogiato le moderne infrastrutture della struttura, considerandola più ampia e conveniente rispetto ai checkpoint precedenti. Lo riferisce RTHK.",
+   "more": [
+    "Il nuovo porto di Huanggang rappresenta una modernizzazione dei collegamenti tra Hong Kong e la Cina continentale."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874289-20261017.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T13:36+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7db45f8f",
+   "sez": "mondo",
+   "titolo": "Serres commemora gli 85 anni dal massacro di Kerdylia",
+   "orig": "Σέρρες: Με τιμές και συγκίνηση οι εκδηλώσεις μνήμης για τα 85 χρόνια από το Ολοκαύτωμα των Κερδυλλίων",
+   "lead": "La città di Serres ha commemorato sabato 17 ottobre il massacro di Kerdylia avvenuto 85 anni fa, con una cerimonia solenne cui hanno partecipato rappresentanti delle forze armate, della leadership politica e numerosissimi cittadini. L'evento ha sottolineato l'importanza della memoria storica. Lo riferisce ERT News.",
+   "more": [
+    "Il massacro di Kerdylia del 1941 rappresenta uno dei crimini di guerra della Seconda Guerra Mondiale nella Grecia settentrionale."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/perifereiakoi-stathmoi/seres/serres-me-times-kai-sygkinisi-oi-ekdiloseis-mnimis-gia-ta-85-xronia-apo-to-olokaytoma-ton-kerdyllion/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-17T17:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a5d216a",
+   "sez": "mondo",
+   "titolo": "Salonicco accoglie il 14° Half Marathon notturno internazionale",
+   "orig": "Στον ρυθμό του 14ου Διεθνούς Νυχτερινού Ημιμαραθωνίου η Θεσσαλονίκη – Τα πρώτα αποτελέσματα",
+   "lead": "Salonicco, in Grecia, ha ospitato il 14° Half Marathon notturno internazionale ZeniΘ con un record di partecipazioni: 11.000 corridori provenienti da 64 paesi e cinque continenti hanno percorso le strade della città. L'evento ha confermato l'ampio interesse globale per il torneo. Lo riferisce ERT News.",
+   "more": [
+    "L'evento rappresenta un importante appuntamento sportivo internazionale che consolida la reputazione di Salonicco."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/ert3/ston-rythmo-tou-14ou-diethnous-nyxterinou-imimarathoniou-i-thessaloniki-ta-prota-apotelesmata/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-17T16:41+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2ab9da3f",
+   "sez": "mondo",
+   "titolo": "Caso Mazonakis: cocktail mortale di otto sostanze, medica creava alibi con AI",
+   "orig": "Υπόθεση Μαζωνάκη: Το θανατηφόρο κοκτέιλ οκτώ ουσιών – Η γιατρός έχτιζε άλλοθι μέσω AI",
+   "lead": "Le indagini sulla morte del cantante greco Giorgos Mazonakis rivelano la presenza di otto sostanze nel suo corpo, tra cui anestetici ospedalieri, metanolo illegale e un antidoto somministrato all'ultimo momento. Emerge il coinvolgimento di medici e il ruolo dell'intelligenza artificiale nella creazione di falsi alibi. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/ellada/ypothesi-mazonaki-to-thanatiforo-kokteil-okto-ousion-i-giatros-extize-allothi-meso-ai/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-17T16:38+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6338427b",
+   "sez": "mondo",
+   "titolo": "Haaland batte il record: 100 gol in Premier League più velocemente della storia",
+   "orig": "Халанд најбрз во историјата на Премиер лигата што постигнал 100 гола од отворена игра",
+   "lead": "Erling Haaland del Manchester City è diventato il giocatore più veloce nella storia della Premier League a raggiungere la cifra di 100 gol da gioco aperto. L'attaccante norvegese ha segnato due reti nella partita della settima giornata contro l'Ipswich Town, consolidando il suo straordinario record realizzativo. Lo riferisce MIA.",
+   "more": [
+    "Il traguardo di Haaland rappresenta una notevole impresa statistica nel calcio inglese contemporaneo."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%85%D0%B0%D0%BB%D0%B0%D0%BD%D0%B4-%D0%BD%D0%B0%D1%98%D0%B1%D1%80%D0%B7-%D0%B2%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%98%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B5%D1%80-%D0%BB%D0%B8%D0%B3%D0%B0%D1%82%D0%B0-%D1%88%D1%82%D0%BE-%D0%BF%D0%BE%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB-100-%D0%B3%D0%BE%D0%BB%D0%B0-%D0%BE%D0%B4-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B0-%D0%B8%D0%B3%D1%80%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-17T19:50+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3c6f4bb6",
+   "sez": "mondo",
+   "titolo": "Rivolta di Kresna 1878: il ruolo di Kalmikov e Vojtkevich",
+   "orig": "Кресненско востание, 1878: Улогата на Калмиков и Војткевич",
+   "lead": "Un articolo storico esamina la Rivolta di Kresna del 1878, insurrection armata del popolo macedone contro il dominio ottomano, analizzando il ruolo decisivo dei leader Kalmikov e Vojtkevich nel conflitto e nella resistenza regionale. Lo riferisce MIA.",
+   "more": [
+    "La Rivolta di Kresna del 1878 rappresenta un episodio significativo della resistenza macedone durante il dominio ottomano."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BA%D1%80%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%BE-%D0%B2%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5-1878-%D1%83%D0%BB%D0%BE%D0%B3%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BB%D0%BC%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B8-%D0%B2%D0%BE%D1%98%D1%82%D0%BA%D0%B5%D0%B2%D0%B8%D1%87",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-17T19:32+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z837152cd",
+   "sez": "mondo",
+   "titolo": "Shkendija Aracinovo rischia sanzioni calcistiche",
+   "orig": "Шкендија Арачиново се соочува со казна",
+   "lead": "La Federazione Calcistica della Macedonia denuncerà la squadra Shkendija Aracinovo alle autorità competenti per un incidente verificatosi dopo la sconfitta odierna contro Struga in casa. La procedura disciplinare segue il comportamento non regolamentare della squadra durante la partita. Lo riferisce MIA.",
+   "more": [
+    "L'episodio segue conflitti comportamentali nel calcio macedone professionistico contemporaneo."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%88%D0%BA%D0%B5%D0%BD%D0%B4%D0%B8%D1%98%D0%B0-%D0%B0%D1%80%D0%B0%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE-%D1%81%D0%B5-%D1%81%D0%BE%D0%BE%D1%87%D1%83%D0%B2%D0%B0-%D1%81%D0%BE-%D0%BA%D0%B0%D0%B7%D0%BD%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-17T19:15+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1a67b7fc",
+   "sez": "mondo",
+   "titolo": "Zelenski: tre paesi potrebbero incontrarsi al G20 di Miami",
+   "orig": "Зеленски: Официјални претставници на Украина, САД и Русија би можеле да се сретнат за време на самитот на Г20",
+   "lead": "Il presidente ucraino Volodimir Zelenski dichiara che rappresentanti ufficiali di Ucraina, Stati Uniti e Russia potrebbero tenersi un incontro durante il vertice del G20 in programma nel dicembre 2026 a Miami. La dichiarazione avviene in un momento di tensioni crescenti tra i tre paesi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B8-%D0%BF%D1%80%D0%B5%D1%82%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D1%86%D0%B8-%D0%BD%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-%D1%81%D0%B0%D0%B4-%D0%B8-%D1%80%D1%83%D1%81%D0%B8%D1%98%D0%B0-%D0%B1%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%BB%D0%B5-%D0%B4%D0%B0-%D1%81%D0%B5-%D1%81%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%82-%D0%B7%D0%B0-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%B8%D1%82%D0%BE%D1%82-%D0%BD%D0%B0-%D0%B320",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-17T18:42+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z67dac5bf",
+   "sez": "mondo",
+   "titolo": "La portavoce della Casa Bianca si dimette dopo cinque giorni",
+   "orig": "Սպիտակ տան նոր խոսնակը պաշտոնավարել է ընդամենը հինգ օր",
+   "lead": "Katie Zakarian, nuova portavoce della Casa Bianca, si è dimessa dopo soli cinque giorni dal suo insediamento, a causa delle critiche sulla sua prima e unica intervista della durata di 15 minuti. Zakarian era stata nominata il 9 ottobre per sostituire Caroline Levitt.",
+   "more": [
+    "Zakarian aveva assunto l'incarico il 9 ottobre 2026, due settimane dopo la partenza di Levitt per maternità, rendendola una delle portavoci con il mandato più breve nella storia dell'ufficio stampa presidenziale."
+   ],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33878519.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-17T19:39+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1fe1e15a",
+   "sez": "mondo",
+   "titolo": "Mosca: oltre 350 voli cancellati per il pericolo di attacchi di droni",
+   "orig": "Մոսկվայի օդանավակայաններում ավելի քան 350 չվերթ է հետաձգվել կամ չեղարկվել",
+   "lead": "Più di 350 voli sono stati cancellati o ritardati nei quattro aeroporti di Mosca a causa del pericolo di attacchi di droni ucraini. È la seconda notte di chiusure parziali consecutive che provoca disagi ai passeggeri. L'aeroporto Sheremetyevo ha registrato il maggior numero di cancellazioni.",
+   "more": [
+    "Numerosi aerei diretti a Mosca sono stati dirottati su altre città, in particolare Nižnij Novgorod che ha accolto 22 aeromobili. Passeggeri hanno lamentato di restare intrappolati negli aerei per ore dopo l'atterraggio."
+   ],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33878444.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-17T15:47+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z997474a8",
+   "sez": "mondo",
+   "titolo": "FAO: crescenti restrizioni aggravano i rischi per gli agricoltori di Gaza",
+   "orig": "UN highlights Gaza farming risks",
+   "lead": "L'Organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura avverte che gli ostacoli crescenti all'accesso ai terreni agricoli nella Striscia di Gaza aumentano significativamente i rischi per gli agricoltori palestinesi e minacciano la sicurezza alimentare della popolazione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/world/news/2026-10/un-highlights-gaza-farming-risks.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-17T17:14+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze10b88bd",
+   "sez": "mondo",
+   "titolo": "Londra: da Assisi un faro di speranza per l'unità tra le religioni",
+   "orig": "Koovakad: da Assisi, l’unità tra le religioni diventi faro di speranza",
+   "lead": "A Londra il prefetto del Dicastero per il Dialogo Interreligioso del Vaticano ha affermato che l'unità tra le religioni nello spirito di Assisi deve divenire un faro di speranza mondiale. L'intervento è avvenuto il 17 ottobre presso la cattedrale di Westminster sul tema della pace.",
+   "more": [
+    "Il discorso ha ripercorso il magistero sulla pace e il ruolo delle fedi dal Concilio Vaticano II a Papa Francesco, ricordando la storica giornata del 27 ottobre 1986 ad Assisi."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/vaticano/news/2026-10/koovakad-londra-dialogo-interreligioso-assisi-preghiera-pace.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-17T18:30+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z602b21f2",
+   "sez": "mondo",
+   "titolo": "San Marino: Capitani Reggenti celebrano 60 anni del Panathalon",
+   "orig": "I Capitani Reggenti celebrano i 60 anni del Panathalon San Marino",
+   "lead": "I Capitani Reggenti di San Marino hanno celebrato il sessantesimo anniversario del Panathalon, il club sportivo nazionale fondato nel marzo 1966. La celebrazione marca sei decenni di attività dedicata allo sport e all'educazione giovanile nella comunità sammarinese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/i-capitani-reggenti-celebrano-i-60-anni-del-panathalon-san-marino-a297386",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-17T05:48+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9441c096",
+   "sez": "mondo",
+   "titolo": "Tanzania: collaborazione essenziale per migliorare le infrastrutture scolastiche",
+   "orig": "Collaboration key to improving school infrastructure across Tanzania",
+   "lead": "La collaborazione tra le comunità è fondamentale per migliorare le infrastrutture scolastiche in Tanzania, permettendo ai bambini di imparare in ambienti più sicuri e agli insegnanti di essere più efficaci. Il completamento di nuovi edifici scolastici rappresenta un'opportunità per il progresso educativo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/166312-2/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T17:17+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z72808155",
+   "sez": "mondo",
+   "titolo": "Ucraina: soldati russi hanno eseguito prigionieri di guerra nel Zaporizhzhia",
+   "orig": "Russian troops executed Ukrainian POWs in Zaporizhzhia Oblast, military says",
+   "lead": "L'esercito ucraino accusa soldati russi della 38ª Brigata motorizzata di avere eseguito prigionieri di guerra nell'Oblast di Zaporizhzhia. Il colonnello Valery Kazak è indicato come responsabile dell'ordine. L'accusa rappresenta un grave crimine di guerra secondo il diritto internazionale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/russian-troops-executed-ukrainian-pows-in-zaporizhzhia-oblast-military-says/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-17T16:31+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z42540276",
+   "sez": "mondo",
+   "titolo": "Sudafrica: ANC e DA si contendono il controllo delle grandi città",
+   "orig": "ELECTIONS: ANC AND DA WRESTLE FOR CONTROL OF TOP CITIES",
+   "lead": "In vista delle elezioni amministrative, il presidente Cyril Ramaphosa porta la campagna dell'ANC a Città del Capo mentre la candidata sindaca del DA Helen Zille presenta un piano di cinque punti per il salvataggio di Johannesburg. La contesa per il controllo dei centri urbani è decisiva.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-10-17-elections-anc-and-da-wrestle-for-control-of-top-cities/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-17T17:26+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd525352a",
+   "sez": "salute",
+   "titolo": "In gravidanza il gonfiore è comune: cosa devono sapere le donne",
+   "orig": "PT HEALTH WATCH: What pregnant women should know about bloating, warning signs",
+   "lead": "Un'ostetrica spiega perché il gonfiore è frequente durante la gravidanza, come le donne possono gestirlo in sicurezza e quali sintomi richiedono attenzione medica urgente. L'articolo fornisce informazioni pratiche per le future madri nel periodo perinatale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/health/health-news/917821-pt-health-watch-what-pregnant-women-should-know-about-bloating-warning-signs.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-17T16:02+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z29397827",
+   "sez": "mondo",
+   "titolo": "Cerignola in sciopero generale contro il carovita",
+   "orig": "A Cerignola sono tutti in sciopero contro il carovita",
+   "lead": "A Cerignola è stato proclamato uno sciopero generale contro l'aumento del costo della vita: negozi chiusi, supermercati vuoti, mancanza di benzina. La maggior parte della popolazione sostiene gli scioperi che continuano. L'azione di protesta rappresenta una risposta alla crisi economica locale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/17/cerignola-proteste-carovita/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T15:47+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7b1989c5",
+   "sez": "mondo",
+   "titolo": "Georgia: Ivanishvili riappare in pubblico al meeting di Georgian Dream",
+   "orig": "Ivanishvili Present as Georgian Dream Meets to Discuss ‘Domestic, Foreign Policy Issues’",
+   "lead": "Il miliardario Bidzina Ivanishvili, fondatore onorario del partito al potere Georgian Dream, ha presieduto il 17 ottobre a Tbilisi riunioni della giunta politica e della maggioranza parlamentare. È una rara apparizione pubblica di Ivanishvili che ha affrontato questioni di politica interna e estera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/755066",
+     "angolo": "",
+     "atlas": "Georgia",
+     "t": "2026-10-17T13:01+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z26f822cd",
+   "sez": "mondo",
+   "titolo": "CICA: nuovo capitolo della cooperazione asiatica a Baku",
+   "orig": "CICA’s Next Chapter in Asian Cooperation",
+   "lead": "Il vertice della Conferenza sulle misure di interazione e rafforzamento della fiducia in Asia si è svolto il 15 ottobre a Baku, Azerbaijan, aprendo un nuovo capitolo della cooperazione multilaterale tra i paesi asiatici per promuovere stabilità e dialogo regionale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/cicas-next-chapter-in-asian-cooperation/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-17T16:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z07c03b5b",
+   "sez": "mondo",
+   "titolo": "Romania: esplosione e incendio nella centrale termica di Iași",
+   "orig": "VIDEO Explozie urmată de incendiu la CET Iași",
+   "lead": "Un'esplosione seguita da un incendio si è verificata sabato sera nella centrale termica CET 1 di Iași in Romania, causata da un trasformatore elettrico. I vigili del fuoco hanno intervenuto per domare le fiamme divampate all'interno della struttura.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/video-explozie-urmata-de-incendiu-la-cet-iasi-2378859",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-17T17:23+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf387d638",
+   "sez": "mondo",
+   "titolo": "Europa: manifestazioni con slogan antisemiti e neofascisti in una città dell'Ue",
+   "orig": "Cei care au strigat „Auschwitz, Auschwitz!” într-un oraș din UE",
+   "lead": "Un articolo analizza manifestazioni politiche in cui sono stati scanditi slogan antisemiti e neofascisti, incluse invocazioni a Hitler e minacce contro gli ebrei, con richiami all'Olocausto. Simili episodi dovrebbero suscitare condanne internazionali ai massimi livelli.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/cei-care-au-strigat-auschwitz-auschwitz-intr-un-oras-din-ue-2378853",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-17T17:08+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcada5c01",
+   "sez": "mondo",
+   "titolo": "Kiev: centinaia protestano contro il sindaco Kliciko",
+   "orig": "Furie la Kiev. Protest rar împotriva primarului. „Fără Kliciko”",
+   "lead": "Centinaia di persone hanno manifestato sabato in piazza davanti al municipio di Kiev per chiedere le dimissioni del sindaco Vitali Kliciko, al potere da oltre dodici anni. Le proteste riflettono il malcontento crescente per l'inadeguata preparazione della città all'arrivo dell'inverno.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/furie-la-kiev-protest-rar-impotriva-primarului-fara-kliciko-2378847",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-17T17:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z15cb2a16",
+   "sez": "mondo",
+   "titolo": "Chi ricostruirà l'Ucraina? La crisi demografica della gioventù",
+   "orig": "Cine poate reconstrui Ucraina? Viața tinerilor ucraineni, între visul european și drumul spre casă",
+   "lead": "Un'analisi affronta la questione cruciale della ricostruzione dell'Ucraina esaminando la situazione dei giovani: circa 1,7 milioni hanno lasciato il paese dal 2022, centinaia di migliaia combattono al fronte, circa due milioni sono NEET. La manodopera giovanile sarà decisiva per il rilancio economico.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/cine-poate-reconstrui-ucraina-viata-tinerilor-ucraineni-intre-visul-european-si-drumul-spre-casa-2377896",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-17T16:47+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1aa431f7",
+   "sez": "economia",
+   "titolo": "Romania: produttori locali conquistano mercati con olio di oliva",
+   "orig": "Producătorii români de uleiuri de măsline: de la premium la premii",
+   "lead": "Accanto ai grandi brand di olio d'oliva spagnoli, italiani e greci, negli ultimi anni compaiono nei negozi bottiglie di olio prodotto in Grecia da aziende romane. Si tratta di prodotto interamente realizzato localmente, dalla raccolta alla lavorazione, non semplice reimbottigliamento commerciale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/producatorii-romani-de-uleiuri-de-masline-de-la-premium-la-premii-2373727",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-17T16:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
+   "id": "z794e7a89",
+   "sez": "mondo",
+   "titolo": "Montenegro: caserme diventano zone turistiche e residenziali",
+   "orig": "Turizam i stanovi umjesto kasarni i vojnika: Ministarstvo u...",
+   "lead": "Il ministero responsabile ha inviato sette linee guida per il trattamento dei siti militari nel nuovo piano di sviluppo urbano del Montenegro, proponendo la conversione di caserme e aree militari in strutture turistiche e residenziali. Il progetto rappresenta una riqualificazione strategica del territorio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/ekonomija/831974/turizam-i-stanovi-umjesto-kasarni-i-vojnika-ministarstvo-u-potpunosti-odustalo-od-skoro-svih-vojnih-lokacija-u-tivtu",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-17T19:50+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:00",
+   "uscita": "sera"
+  },
+  {
    "id": "zd02afba9",
    "sez": "mondo",
    "titolo": "Scontri tra polizia e manifestanti in tutta la Francia",
@@ -97,48 +1788,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-17T15:15+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "19:55",
-   "uscita": "sera"
-  },
-  {
-   "id": "z894806b0",
-   "sez": "mondo",
-   "titolo": "Coloni israeliani aggrediscono diplomatici Ue in Cisgiordania",
-   "orig": "Coloni israeliani aggrediscono diplomatici Ue, Netanyahu: 'Servono prove'",
-   "lead": "Coloni israeliani hanno aggredito diplomatici dell'Unione europea in Cisgiordania, colpendo le auto di rappresentanti belgi, polacchi e francesi secondo quanto riportato dalla radio militare israeliana. Il primo ministro israeliano Benjamin Netanyahu ha replicato chiedendo che vengano fornite prove dell'accaduto. L'episodio si inserisce nel contesto della crescente violenza dei coloni contro la popolazione e, in questo caso, anche contro rappresentanti istituzionali europei presenti nei Territori occupati. Lo riferisce ANSA.",
-   "more": [
-    "La violenza dei coloni israeliani in Cisgiordania è oggetto da anni di denunce da parte della comunità internazionale, che la considera un ostacolo alla stabilità della regione e alla tutela dei diritti della popolazione palestinese."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/coloni-israeliani-aggrediscono-diplomatici-europei-a-taybeh-in-cisgiordania_ac4f2ad6-0568-414f-a5ad-e5f880eec475.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-17T19:16+02:00"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-17T16:11+00:00"
-    },
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-17T17:18+00:00"
     }
    ],
    "data": "17 ott",
@@ -5127,28 +6776,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z7e129e08",
-   "sez": "mondo",
-   "titolo": "Lamine Camara idoneo, due indisponibili: AS Monaco prepara trasferta a Lorient",
-   "orig": "Lamine Camara apte, deux blessés... On fait le point sur le groupe de l’AS Monaco pour le déplacement à Lorient",
-   "lead": "L'AS Monaco, capolista di Ligue 1 e imbattuta, potrà contare sul centrocampista internazionale senegalese Lamine Camara per la trasferta a Lorient domenica 18 ottobre. Eric Dier e Stanis Idumbo restano indisponibili. Lo riferisce Monaco Matin.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Monaco Matin",
-     "p": "XX",
-     "c": "Monaco",
-     "u": "https://www.nicematin.com/sports/football/lamine-camara-apte-deux-blesses-on-fait-le-point-sur-le-groupe-de-l-as-monaco-pour-le-deplacement-a-lorient-10742076",
-     "angolo": "",
-     "atlas": "Monaco",
-     "t": "2026-10-17T11:56+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:42",
-   "uscita": "17"
-  },
-  {
    "id": "z05ac01f9",
    "sez": "mondo",
    "titolo": "Tom Mattoni disputerà i mondiali di paracadutismo negli USA fine ottobre",
@@ -8350,6 +9977,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-17T21:25+08:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/zelenski-cere-poloniei-romaniei-slovaciei-si-ungariei-sa-permita-tranzitul-transporturilor-de-cereale-prin-teritoriul-lor-2378795",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-17T15:59+00:00"
     }
    ],
    "data": "17 ott",
@@ -11540,6 +13176,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Argentina",
      "t": "2026-10-17T14:55+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/deportes/atletico-encuentra-premio-asedio-ultimo-suspiro_1792257150",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T17:12+00:00"
     }
    ],
    "data": "17 ott",
@@ -16178,30 +17823,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zb56c86eb",
-   "sez": "sport",
-   "titolo": "Beach soccer, il Malawi ospita le Seychelles per chiudere la qualificazione alla Coppa d'Africa",
-   "orig": "Malawi’s beach soccer stars out to finish the job as Seychelles visit Salima",
-   "lead": "Sabato 17 ottobre la nazionale di beach soccer del Malawi affronta le Seychelles nella gara di ritorno delle qualificazioni alla Coppa d'Africa, sulla spiaggia del Sunbird Livingstonia a Salima. All'andata il Malawi si è imposto per 6-2 e parte quindi con quattro gol di vantaggio. La squadra che prevarrà nel punteggio complessivo otterrà il pass per il torneo continentale. Lo riferisce Nyasa Times.",
-   "more": [
-    "Il beach soccer si gioca sulla sabbia, cinque contro cinque portieri compresi, in tre tempi da dodici minuti. Salima si affaccia sul lago Malawi, uno dei grandi laghi africani, le cui spiagge permettono al Paese, privo di sbocco sul mare, di praticare questa disciplina."
-   ],
-   "fonti": [
-    {
-     "n": "Nyasa Times",
-     "p": "XX",
-     "c": "Lilongwe",
-     "u": "https://www.nyasatimes.com/malawis-beach-soccer-stars-out-to-finish-the-job-as-seychelles-visit-salima/?utm_source=rss&utm_medium=rss&utm_campaign=malawis-beach-soccer-stars-out-to-finish-the-job-as-seychelles-visit-salima",
-     "angolo": "",
-     "atlas": "Malawi",
-     "t": "2026-10-17T00:24+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
    "id": "z222f122d",
    "sez": "economia",
    "titolo": "Nella corsa all'intelligenza artificiale domina l'Asia",
@@ -16516,30 +18137,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Bosnia and Herz.",
      "t": "2026-10-17T10:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "zf17d99b2",
-   "sez": "sport",
-   "titolo": "Ansu Fati si racconta prima di Lorient-Monaco",
-   "orig": "Sa forme, sa constance, le Ballon d’Or, la Ligue des champions… Ansu Fati se livre avant le déplacement de l’AS Monaco à Lorient",
-   "lead": "Sabato Ansu Fati ha parlato in conferenza stampa, alla vigilia della trasferta dell'AS Monaco a Lorient. La partita vale per la settima giornata di Ligue 1 e si gioca domenica alle 17.15. Giovedì l'attaccante spagnolo aveva segnato nella vittoria per 2-1 a Sofia in Conference League. Ai giornalisti ha parlato della sua forma e della continuità di rendimento. Ha commentato anche il Pallone d'Oro, la Champions League e il calcio internazionale. Lo riferisce Monaco Matin.",
-   "more": [
-    "Ansu Fati è cresciuto nel vivaio del Barcellona, dove ha esordito giovanissimo. Negli anni successivi ha avuto diversi problemi fisici, che hanno rallentato la sua carriera e reso difficile trovare continuità."
-   ],
-   "fonti": [
-    {
-     "n": "Monaco Matin",
-     "p": "XX",
-     "c": "Monaco",
-     "u": "https://www.nicematin.com/sports/football/sa-forme-sa-constance-le-ballon-d-or-la-ligue-des-champions-ansu-fati-se-livre-avant-le-deplacement-a-lorient-dimanche-en-ligue-1-10742209",
-     "angolo": "",
-     "atlas": "Monaco",
-     "t": "2026-10-17T12:39+02:00"
     }
    ],
    "data": "17 ott",
@@ -23799,7 +25396,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z7091e261": "La testata dà spazio alle indicazioni pratiche su rete, fonti e distinzione tra fatti e opinioni.",
   "z9a7d4edb": "La testata accosta le difficoltà dello United all'incertezza che grava sul City.",
   "za7904674": "La testata mette l'accento sulla sorpresa dell'Uruguay rispetto alle mete europee più note.",
-  "zb56c86eb": "La testata sottolinea il vantaggio accumulato all'andata dal Malawi.",
   "z222f122d": "La testata evidenzia la contrapposizione tra Paesi esportatori asiatici e acquisti cinesi.",
   "zc578efa6": "La testata racconta la vicenda come storia di riscatto personale.",
   "z1914ad1c": "La testata sottolinea il divario tra gli obiettivi annunciati e gli effetti sull'economia americana.",
@@ -23813,7 +25409,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z1036a266": "La testata riporta l'appello ai comuni a ottenere risultati misurabili.",
   "zb7a59226": "La testata mette in evidenza il doppio profilo di Lekjaa, tra calcio e bilancio pubblico.",
   "z44ed30ba": "La testata fornisce i numeri dei controlli e delle sanzioni.",
-  "zf17d99b2": "La testata dà spazio alle parole dell'attaccante sulla sua condizione e sulla costanza.",
   "zb7505dac": "La testata collega la decisione al miglioramento della situazione idrologica.",
   "zc0f32cf0": "La testata unisce il premio alla benedizione della tomba dell'inventore del rugby.",
   "z7f6a086a": "La testata celebra il riconoscimento ottenuto all'estero da un artista tunisino.",
@@ -24328,7 +25923,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zdf3db2d2": "Documenta l'iter procedurale amministrativo di regolamenti comunali sulla materia del lavoro.",
   "z7f95b8a9": "Propone un approccio narrativo incentrato sulle testimonianze dei protagonisti locali della fiera.",
   "z8fbe51df": "Enfatizza il ritorno del campione dopo un'assenza dalle competizioni e il carattere benefico della manifestazione.",
-  "z7e129e08": "Fornisce un rapporto sulle disponibilità della squadra per l'impegno stagionale.",
   "z05ac01f9": "Valorizza il percorso di un giovane atleta residente verso l'eccellenza sportiva internazionale.",
   "za151bde0": "Connette la preparazione dell'evento sportivo maggiore con le priorità di sicurezza stradale.",
   "z38687296": "Comunica una notizia sulla figura religiosa mondiale con informazione sintetica.",
@@ -24444,7 +26038,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zcaec2cad": "L'emittente qatariota segue in diretta l'evoluzione delle proteste parigine centrate sui temi della scuola pubblica",
   "zad6263e7": "Il quotidiano romano riporta l'attacco di Landini al governo sulle priorità di spesa pubblica",
   "zb6b0bbe9": "Il quotidiano romano sottolinea la crisi di risultati del Napoli dopo il ko in Champions",
-  "z894806b0": "L'agenzia italiana riporta la reazione cauta di Netanyahu alle accuse di aggressione ai diplomatici Ue",
   "z735dbccb": "L'emittente tedesca segnala le difficoltà di Merz nel mantenere il sostegno della base giovanile del partito",
   "z21741e7c": "L'emittente americana sottolinea la prevista partenza del Papa per l'America Latina a novembre",
   "z247a9c3a": "La Bbc evidenzia il ritorno anticipato del Papa agli impegni pubblici con l'Angelus di domenica",
@@ -24485,7 +26078,73 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z27b380a9": "Confidencial riporta le dure parole del segretario di Stato americano contro il governo di Ortega e Murillo.",
   "z5d2b85d2": "Hespress English sottolinea il ritorno in politica di una figura con esperienza istituzionale e tecnica nel settore energetico marocchino.",
   "zcb0f2e0f": "Sierraloaded evidenzia l'apertura della Sierra Leone verso la Cina per rafforzare il sistema sanitario nazionale.",
-  "z24bd954d": "Hespress English evidenzia le priorità sociali ed economiche fissate dal governo marocchino per il prossimo bilancio."
+  "z24bd954d": "Hespress English evidenzia le priorità sociali ed economiche fissate dal governo marocchino per il prossimo bilancio.",
+  "z92f5ac5e": "La testata documenta la vertenza sindacale e la sua risoluzione positiva per i lavoratori.",
+  "z748ef3bd": "La testata evidenzia i dati ufficiali del ministero sulla diffusione della malattia e le iniziative di prevenzione.",
+  "z49b781c5": "La testata riporta la mobilitazione popolare e le richieste consegnate direttamente al presidente.",
+  "z2d80c255": "La testata presenta l'opera come vincitrice di un premio e ne sottolinea il tema sociale.",
+  "z551a8959": "La testata riporta l'accusa politica di un deputato su presunte irregolarità nella gestione dei fondi sanitari.",
+  "z48ed06ca": "La testata evidenzia la dimensione della partecipazione e la novità dell'esposizione record.",
+  "z918bedd0": "La testata sottolinea il dominio netto della squadra malawiana nel doppio confronto.",
+  "z6f8c1af2": "La testata presenta l'accordo come strumento per modernizzare l'agricoltura uzbeka.",
+  "z45ecf2ab": "La testata riporta i dati ufficiali del ministero curdo per denunciare lo squilibrio nei trasferimenti di bilancio.",
+  "z38d893ff": "La testata descrive l'avanzamento dei colloqui tra il comune e la banca di sviluppo regionale.",
+  "zaedee8d2": "La testata sottolinea l'attesa per la cerimonia e la presenza di Messi tra i favoriti.",
+  "zfb471c20": "La testata evidenzia il taglio ai fondi universitari accanto alla nuova misura di sostegno natalità.",
+  "zea974694": "La testata conferma la presenza del giocatore senegalese nella lista dei convocati per la trasferta.",
+  "za4e0d9cd": "La testata anticipa una delle priorità turche in vista della conferenza climatica di novembre.",
+  "zebeef237": "Clarín presenta il riciclo delle pale come una soluzione tecnologica innovativa al problema dei rifiuti eolici.",
+  "zd1e72a15": "Opinión riporta l'allerta della Banca Mondiale sul divario occupazionale giovanile globale.",
+  "zbe160c34": "Nikkei Asia segnala l'avanzamento del primo accordo economico firmato dal Bangladesh.",
+  "z62192ac6": "Trend riporta in esclusiva il dato sull'interscambio commerciale iraniano al confine con l'Azerbaigian.",
+  "zdc890583": "El Observador riporta le dichiarazioni del chirurgo sulla possibilità che il papa mantenga il viaggio in Sudamerica.",
+  "z8a02fecb": "Al Jazeera riporta la richiesta legale della deputata di restituzione dei materiali sequestrati.",
+  "z279413d1": "Agência Brasil riporta le dimissioni dell'ex presidente dopo l'intervento chirurgico.",
+  "z69670caf": "N1 Serbia segue il ritorno del papa in Vaticano dopo l'operazione.",
+  "za24a5275": "Iwacu segnala le critiche della società civile sulla composizione del comitato anti-corruzione.",
+  "zb0b0d11f": "Gulf News riporta le nuove misure emiratine a tutela dei minori nei conflitti familiari.",
+  "zec1a1b97": "Al Jazeera documenta l'escalation violenta delle proteste contro il carovita in Francia.",
+  "za1be0127": "Premium Times riporta l'iniziativa della NCC per combattere la vendita di telefoni contraffatti in Nigeria.",
+  "z6348d2fd": "Il Fatto Quotidiano riporta le motivazioni del Riesame che respingono la versione di Lavitola.",
+  "za9a8a440": "The Sierra Leone Telegraph pone l'accento sulle questioni legali relative al giusto processo nel caso Kamara.",
+  "zf80c40be": "Gabonreview segue l'insediamento del nuovo ministro dell'Ambiente in seguito al rimpasto governativo.",
+  "z0848582c": "El País racconta come il Frente Amplio superi la rottura con Podemos puntando a un rapporto diretto con gli elettori.",
+  "z1cd37def": "Guinée News segnala il miglioramento della credibilità finanziaria internazionale del paese.",
+  "z968ddf41": "La testata statunitense copre il contrasto tra la posizione della Casa Bianca e le istanze di Kyiv sulle sanzioni economiche alla Russia.",
+  "z32d45453": "Deutsche Welle affronta l'analisi di esperti sulla vulnerabilità della Germania e sulla strategia di sicurezza europea.",
+  "zfd0a5794": "Al Jazeera analizza i reallineamenti geopolitici dei paesi latinoamericani verso Israele.",
+  "za97d57e5": "Radio Prague International fornisce dati di sondaggio sulle tendenze politiche ceche.",
+  "za76519c1": "LRT riferisce di operazioni di difesa aerea rumena nel Mar Nero.",
+  "zc77cb8b2": "LRT segnala un fenomeno criminale emergente legato all'uso dei social network.",
+  "z6699eb92": "PBS NewsHour affronta l'evoluzione del movimento separatista dell'Alberta verso forme istituzionali.",
+  "z395f1268": "PBS NewsHour riporta la posizione ottimista del presidente della Camera sulla corsa al controllo del Congresso.",
+  "z9a83aaa7": "RNZ copre il conflitto tra una comunità religiosa e le autorità scolastiche sulla sicurezza studentesca.",
+  "zb4009e2a": "RTHK copre l'inaugurazione pratica di una nuova infrastruttura di trasporto hongkonghese.",
+  "z7db45f8f": "ERT News copre una commemorazione pubblica di un episodio storico drammatico della Seconda Guerra Mondiale.",
+  "z6a5d216a": "ERT News copre un evento sportivo internazionale di grande rilevanza.",
+  "z2ab9da3f": "ERT News copre un'indagine su un caso di morte sospetta con professionisti medici implicati.",
+  "z6338427b": "MIA riporta un record statistico calcistico raggiunto da un giocatore di spicco della Premier League.",
+  "z3c6f4bb6": "MIA pubblica uno studio storico su un episodio della lotta macedone per l'indipendenza.",
+  "z837152cd": "MIA copre una procedura disciplinare nel sistema calcistico macedone.",
+  "z1a67b7fc": "Agenzia macedone sulla possibilità di negoziati multilaterali tra Usa, Russia e Ucraina",
+  "z67dac5bf": "Agenzie internazionali sulla brevissima carriera della portavoce alla Casa Bianca",
+  "z1fe1e15a": "Agenzia russa sulla situazione aeroportuale critica causata dalla minaccia di attacchi ucraini",
+  "z997474a8": "Agenzia vaticana sulla crisi agricola a Gaza e sui rischi per i coltivatori locali",
+  "ze10b88bd": "Agenzia vaticana sull'impegno della Chiesa nel dialogo interreligioso e nella ricerca della pace",
+  "z602b21f2": "Emittente sammarinese sulla commemorazione di un'importante istituzione locale dedicata allo sport",
+  "z9441c096": "Agenzia tanzaniana sulla necessità di cooperazione tra attori locali per lo sviluppo dell'istruzione",
+  "z72808155": "Agenzia ucraina sulla denuncia di crimini di guerra imputati alle forze russe",
+  "z42540276": "Agenzia sudafricana sulla campagna elettorale amministrativa tra i due principali partiti",
+  "zd525352a": "Agenzia nigeriana con consigli di salute dedicati alle donne in gravidanza",
+  "z29397827": "Testata italiana sulla mobilitazione popolare contro l'inflazione in un comune pugliese",
+  "z7b1989c5": "Agenzia georgiana sulla riapparizione pubblica della figura chiave del potere georgiano",
+  "z26f822cd": "Agenzia dell'Asia centrale sulla conferenza internazionale sulla cooperazione asiatica",
+  "z07c03b5b": "Agenzia romena sulla situazione di emergenza presso la centrale termica di Iași",
+  "zf387d638": "Agenzia romena su episodi di estremismo e antisemitismo in contesto europeo",
+  "zcada5c01": "Agenzia romena sulla mobilitazione popolare contro l'amministrazione di Kiev",
+  "z15cb2a16": "Agenzia romena su analisi della crisi generazionale e prospettive per la ricostruzione",
+  "z1aa431f7": "Agenzia romena sull'espansione internazionale di produttori locali nel settore agroalimentare",
+  "z794e7a89": "Agenzia montenegrina sulle strategie di pianificazione urbana e riconversione territoriale"
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -24513,7 +26172,9 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z21741e7c": "Il Papa era stato operato alcuni giorni prima al Gemelli per un adenocarcinoma polmonare, con la rimozione del lobo inferiore del polmone destro. Durante la degenza le sue udienze erano state cancellate e si era inizialmente previsto un ricovero più lungo di una settimana.",
   "z247a9c3a": "Leone XIV era stato operato al Gemelli per un adenocarcinoma al polmone destro, con rimozione del lobo inferiore. Le sue udienze pubbliche erano state cancellate fino a martedì e si temeva un ricovero prolungato.",
   "z6ece1088": "León XIV fue intervenido quirúrgicamente en el Gemelli para extirpar un tumor canceroso en el pulmón derecho. Durante su hospitalización se cancelaron sus audiencias y se esperaba inicialmente una estancia más larga.",
-  "z875d43f6": "Negli ultimi mesi l'amministrazione Trump ha alternato pressioni e aperture verso la Russia nel tentativo di favorire un negoziato sulla guerra in Ucraina, mentre Kiev ha più volte espresso timori che Washington possa alleggerire le sanzioni a Mosca senza garanzie di sicurezza per l'Ucraina."
+  "z875d43f6": "Negli ultimi mesi l'amministrazione Trump ha alternato pressioni e aperture verso la Russia nel tentativo di favorire un negoziato sulla guerra in Ucraina, mentre Kiev ha più volte espresso timori che Washington possa alleggerire le sanzioni a Mosca senza garanzie di sicurezza per l'Ucraina.",
+  "zdc890583": "Il 13 ottobre papa Leone XIV è stato sottoposto a un intervento chirurgico al Policlinico Gemelli per un tumore al polmone, con rimozione del lobo inferiore destro. Dopo giorni di degenza, sabato 17 ottobre ha ricevuto le dimissioni ed è tornato in Vaticano, mentre restava in discussione la possibilità di mantenere il viaggio in Sudamerica.",
+  "z69670caf": "Il 13 ottobre papa Leone XIV è stato operato al Gemelli per un tumore al polmone. Dopo la degenza post-operatoria, sabato 17 ottobre ha lasciato l'ospedale per tornare in Vaticano."
  },
  "cronologie": {
   "zs17fra": [
@@ -24588,6 +26249,26 @@ window.EDIZIONI["2026-10-17-sera"] = {
    [
     "2026-10-17",
     "Alta hospitalaria y regreso al Vaticano"
+   ]
+  ],
+  "zdc890583": [
+   [
+    "13 ottobre 2026",
+    "Il papa viene operato al Gemelli per un tumore al polmone"
+   ],
+   [
+    "17 ottobre 2026",
+    "Il papa riceve le dimissioni e torna in Vaticano"
+   ]
+  ],
+  "z69670caf": [
+   [
+    "13 ottobre 2026",
+    "Intervento chirurgico al polmone del papa"
+   ],
+   [
+    "17 ottobre 2026",
+    "Il papa lascia l'ospedale e torna in Vaticano"
    ]
   ]
  },
@@ -26457,13 +28138,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "zb56c86eb": {
-   "n": "Salima",
-   "p": [
-    "Malawi"
-   ],
-   "pt": []
-  },
   "z222f122d": {
    "n": "Asia",
    "p": [
@@ -26556,13 +28230,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Federazione di Bosnia ed Erzegovina",
    "p": [
     "Bosnia and Herz."
-   ],
-   "pt": []
-  },
-  "zf17d99b2": {
-   "n": "Lorient",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -30055,13 +31722,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z7e129e08": {
-   "n": "Monaco",
-   "p": [
-    "Monaco"
-   ],
-   "pt": []
-  },
   "z05ac01f9": {
    "n": "Stati Uniti",
    "p": [
@@ -30856,13 +32516,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z894806b0": {
-   "n": "Cisgiordania",
-   "p": [
-    "Palestine"
-   ],
-   "pt": []
-  },
   "z735dbccb": {
    "n": "Bonn",
    "p": [
@@ -31147,6 +32800,440 @@ window.EDIZIONI["2026-10-17-sera"] = {
     "Morocco"
    ],
    "pt": []
+  },
+  "z92f5ac5e": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z748ef3bd": {
+   "n": "Santo Domingo",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "z49b781c5": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z2d80c255": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z551a8959": {
+   "n": "Haut-Uele",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z48ed06ca": {
+   "n": "Santa Cruz de la Sierra",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z918bedd0": {
+   "n": "Salima",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z6f8c1af2": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z45ecf2ab": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z38d893ff": {
+   "n": "Belize City",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "zaedee8d2": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zfb471c20": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zea974694": {
+   "n": "Lorient",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "za4e0d9cd": {
+   "n": "Antalya",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "zebeef237": {
+   "n": "Iowa",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbe160c34": {
+   "n": "Dhaka",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z62192ac6": {
+   "n": "Astara",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zdc890583": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z279413d1": {
+   "n": "São Luís",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z69670caf": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "za24a5275": {
+   "n": "Gitega",
+   "p": [
+    "Burundi"
+   ],
+   "pt": []
+  },
+  "za1be0127": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z6348d2fd": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za9a8a440": {
+   "n": "Freetown",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "zf80c40be": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z0848582c": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z1cd37def": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z968ddf41": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z32d45453": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zfd0a5794": {
+   "n": "America Latina",
+   "p": [
+    "Argentina",
+    "Brazil",
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "za97d57e5": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "za76519c1": {
+   "n": "Romania",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zc77cb8b2": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z6699eb92": {
+   "n": "Alberta",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z395f1268": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9a83aaa7": {
+   "n": "Gloriavale",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zb4009e2a": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z7db45f8f": {
+   "n": "Serres",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z6a5d216a": {
+   "n": "Salonicco",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z2ab9da3f": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z6338427b": {
+   "n": "Manchester",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z3c6f4bb6": {
+   "n": "Kresna",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "z837152cd": {
+   "n": "Skopje",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "z1a67b7fc": {
+   "n": "Miami",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z67dac5bf": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1fe1e15a": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z997474a8": {
+   "n": "Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "ze10b88bd": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z602b21f2": {
+   "n": "San Marino",
+   "p": [
+    "San Marino"
+   ],
+   "pt": []
+  },
+  "z9441c096": {
+   "n": "Tanzania",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z72808155": {
+   "n": "Zaporizhzhia Oblast",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z42540276": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zd525352a": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z29397827": {
+   "n": "Cerignola",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7b1989c5": {
+   "n": "Tbilisi",
+   "p": [
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "z26f822cd": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z07c03b5b": {
+   "n": "Iași",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zf387d638": {
+   "n": "Romania",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zcada5c01": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z15cb2a16": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z1aa431f7": {
+   "n": "Romania",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z794e7a89": {
+   "n": "Montenegro",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -31403,7 +33490,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z7091e261": 1,
   "z9a7d4edb": 1,
   "za7904674": 1,
-  "zb56c86eb": 1,
   "z222f122d": 1,
   "zc578efa6": 1,
   "z1914ad1c": 1,
@@ -31417,7 +33503,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z1036a266": 1,
   "zb7a59226": 2,
   "z44ed30ba": 1,
-  "zf17d99b2": 1,
   "zb7505dac": 1,
   "zc0f32cf0": 1,
   "z7f6a086a": 1,
@@ -31634,7 +33719,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z7953210b": 1,
   "z7d4b4594": 1,
   "zce7244ac": 1,
-  "z3fbeba9b": 1,
+  "z3fbeba9b": 2,
   "z170ec725": 1,
   "z4edf5a2d": 2,
   "zdad132f2": 2,
@@ -31734,7 +33819,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zd50d9e76": 1,
   "z6e7166dc": 1,
   "zac2f0493": 1,
-  "z6c9fed4b": 1,
+  "z6c9fed4b": 2,
   "z75b39471": 1,
   "zf18e8018": 1,
   "z453826d4": 1,
@@ -31932,7 +34017,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zdf3db2d2": 1,
   "z7f95b8a9": 1,
   "z8fbe51df": 1,
-  "z7e129e08": 1,
   "z05ac01f9": 1,
   "za151bde0": 1,
   "z38687296": 1,
@@ -32048,7 +34132,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zcaec2cad": 1,
   "zad6263e7": 1,
   "zb6b0bbe9": 1,
-  "z894806b0": 2,
   "z735dbccb": 1,
   "z21741e7c": 3,
   "z247a9c3a": 2,
@@ -32089,7 +34172,73 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z27b380a9": 1,
   "z5d2b85d2": 1,
   "zcb0f2e0f": 1,
-  "z24bd954d": 1
+  "z24bd954d": 1,
+  "z92f5ac5e": 1,
+  "z748ef3bd": 1,
+  "z49b781c5": 1,
+  "z2d80c255": 1,
+  "z551a8959": 1,
+  "z48ed06ca": 1,
+  "z918bedd0": 1,
+  "z6f8c1af2": 1,
+  "z45ecf2ab": 1,
+  "z38d893ff": 1,
+  "zaedee8d2": 1,
+  "zfb471c20": 1,
+  "zea974694": 1,
+  "za4e0d9cd": 1,
+  "zebeef237": 1,
+  "zd1e72a15": 1,
+  "zbe160c34": 1,
+  "z62192ac6": 1,
+  "zdc890583": 1,
+  "z8a02fecb": 2,
+  "z279413d1": 1,
+  "z69670caf": 2,
+  "za24a5275": 1,
+  "zb0b0d11f": 1,
+  "zec1a1b97": 2,
+  "za1be0127": 1,
+  "z6348d2fd": 2,
+  "za9a8a440": 1,
+  "zf80c40be": 1,
+  "z0848582c": 2,
+  "z1cd37def": 1,
+  "z968ddf41": 2,
+  "z32d45453": 1,
+  "zfd0a5794": 1,
+  "za97d57e5": 1,
+  "za76519c1": 1,
+  "zc77cb8b2": 1,
+  "z6699eb92": 1,
+  "z395f1268": 1,
+  "z9a83aaa7": 1,
+  "zb4009e2a": 1,
+  "z7db45f8f": 1,
+  "z6a5d216a": 1,
+  "z2ab9da3f": 1,
+  "z6338427b": 1,
+  "z3c6f4bb6": 1,
+  "z837152cd": 1,
+  "z1a67b7fc": 1,
+  "z67dac5bf": 1,
+  "z1fe1e15a": 1,
+  "z997474a8": 1,
+  "ze10b88bd": 1,
+  "z602b21f2": 1,
+  "z9441c096": 1,
+  "z72808155": 1,
+  "z42540276": 1,
+  "zd525352a": 1,
+  "z29397827": 1,
+  "z7b1989c5": 1,
+  "z26f822cd": 1,
+  "z07c03b5b": 1,
+  "zf387d638": 1,
+  "zcada5c01": 1,
+  "z15cb2a16": 1,
+  "z1aa431f7": 1,
+  "z794e7a89": 1
  },
  "video": {},
  "pillole": []
