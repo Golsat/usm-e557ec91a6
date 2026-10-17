@@ -3,6 +3,72 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zcfef6251",
+   "sez": "mondo",
+   "titolo": "Netanyahu mette in dubbio attacco di coloni contro diplomatici europei",
+   "orig": "Netanyahu vuelve a poner en duda un ataque colono, esta vez contra diplomáticos europeos",
+   "lead": "Il primo ministro israeliano Benjamin Netanyahu ha nuovamente messo in dubbio un'accusa di attacco condotto da coloni israeliani, questa volta contro una delegazione di diplomatici europei. La dichiarazione si inserisce in un contesto di crescenti tensioni sulle responsabilità dei coloni negli incidenti ai danni di civili palestinesi ed europei. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/17/netanyahu-vuelve-a-poner-en-duda-un-ataque-colono-esta-vez-contra-diplomaticos-europeos/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-17T17:45+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3c0bc1af",
+   "sez": "mondo",
+   "titolo": "Leader sindacale portoghese non esclude nuovo sciopero generale",
+   "orig": "El líder sindical portugués no descarta otra huelga general por la carestía de la vida",
+   "lead": "Il leader del movimento sindacale portoghese non ha escluso sabato la possibilità di indire un nuovo sciopero generale per protestare contro l'aumento del costo della vita. La dichiarazione arriva mentre il Portogallo continua a fare i conti con l'inflazione e le pressioni economiche sui salari dei lavoratori. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/17/el-lider-sindical-portugues-no-descarta-otra-huelga-general-por-la-carestia-de-la-vida/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-17T17:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd2a6224b",
+   "sez": "mondo",
+   "titolo": "Squadra Under-15 haitiana completa preparazione per l'Azerbaigian",
+   "orig": "The Haitian U15 team wraps up its preparation beautifully before flying to Azerbaijan",
+   "lead": "La squadra Under-15 di Haiti ha concluso sabato la preparazione in vista della partenza verso l'Azerbaigian. Il team giovanile è pronto per rappresentare il paese nei prossimi impegni internazionali. Lo riferisce Le Nouvelliste.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273038/the-haitian-u15-team-wraps-up-its-preparation-beautifully-before-flying-to-azerbaijan",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-16T18:42+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
    "id": "z623b7f36",
    "sez": "mondo",
    "titolo": "Las Condes propone unità permanente di volontari della Protezione Civile",
@@ -31302,7 +31368,10 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z7d37c4fa": "Un focus tematico sulla coesione culturale e storica dei popoli turchi dell'Asia centrale.",
   "z4c1480c9": "Un rapporto su cooperazione bilaterale tra autorità di sicurezza cinesi e kirghize.",
   "z50c3d7bb": "Un rapporto sulla diffusione dei risultati ufficiali di consultazioni elettorali locali.",
-  "zaa47f846": "Un resoconto di un evento culturale tradizionale giapponese adattato ai cambiamenti climatici."
+  "zaa47f846": "Un resoconto di un evento culturale tradizionale giapponese adattato ai cambiamenti climatici.",
+  "zcfef6251": "Notizia sulla posizione diplomatica israeliana su responsabilità di coloni, con enfasi sulla negazione di Netanyahu.",
+  "z3c0bc1af": "Reportage sulla mobilitazione sindacale portoghese con focus sulla questione economica e del potere d'acquisto.",
+  "zd2a6224b": "Reportage sulla preparazione di una squadra sportiva giovanile haitiana per una competizione internazionale."
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -39893,6 +39962,28 @@ window.EDIZIONI["2026-10-17-sera"] = {
     "Japan"
    ],
    "pt": []
+  },
+  "zcfef6251": {
+   "n": "Israele-Palestina",
+   "p": [
+    "Palestine",
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z3c0bc1af": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zd2a6224b": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -41112,7 +41203,10 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z7d37c4fa": 2,
   "z4c1480c9": 2,
   "z50c3d7bb": 2,
-  "zaa47f846": 2
+  "zaa47f846": 2,
+  "zcfef6251": 2,
+  "z3c0bc1af": 2,
+  "zd2a6224b": 1
  },
  "video": {},
  "pillole": []
