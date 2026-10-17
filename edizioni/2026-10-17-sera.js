@@ -3,6 +3,293 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z67217c59",
+   "sez": "mondo",
+   "titolo": "Il presidente kirghiso Sadyr Japarov accolto a Yerevan per una visita ufficiale",
+   "orig": "Official welcoming ceremony for President Sadyr Japarov takes place in Yerevan",
+   "lead": "Il presidente del Kirghizistan Sadyr Japarov è stato accolto con una cerimonia ufficiale a Yerevan, capitale dell'Armenia, in occasione della sua missione bilaterale volta a consolidare i rapporti politici ed economici tra le due repubbliche ex sovietiche. Le autorità armene hanno reso gli onori di Stato al leader centroasiatico prima dell'avvio dei colloqui dedicati alla cooperazione regionale e agli accordi diplomatici. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925517",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-17T14:52+06:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "za58db2dc",
+   "sez": "mondo",
+   "titolo": "In Bielorussia si concludono le manovre militari congiunte della Csto",
+   "orig": "Final stages of CSTO exercises held in Belarus",
+   "lead": "Le forze armate dei Paesi appartenenti all'Organizzazione del Trattato di Sicurezza Collettiva hanno condotto le fasi conclusive delle esercitazioni militari congiunte sul territorio della Bielorussia. Le manovre hanno coinvolto reparti specializzati per testare il coordinamento tattico, la prontezza operativa e la gestione delle risposte a potenziali minacce comuni lungo le frontiere dell'alleanza guidata da Mosca. L'attività addestrativa rafforza i meccanismi di difesa dell'area post-sovietica. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925512",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-17T13:33+06:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "z932bb8b4",
+   "sez": "ambiente",
+   "titolo": "Uganda e Fao promuovono l'innovazione agricola per sostenere la sicurezza alimentare",
+   "orig": "FAO, Government Call for Farmer-Centred Innovation to Boost Food Security",
+   "lead": "Il governo dell'Uganda e l'Organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura hanno lanciato un appello congiunto per incentivare modelli di innovazione tecnologica incentrati direttamente sui piccoli coltivatori locali. L'iniziativa, presentata a Kampala, punta a rafforzare la resilienza del comparto agricolo di fronte ai cambiamenti climatici e ad aumentare la produttività interna, contrastando così le criticità legate all'insicurezza alimentare che colpiscono ampie fasce della popolazione. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/agriculture/379474/fao-government-call-for-farmer-centred-innovation-to-boost-food-security",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T13:31+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "zfa184304",
+   "sez": "mondo",
+   "titolo": "Mobilitazione per l'istruzione in Ciad e Guinea tra esami tecnici e assunzioni",
+   "orig": "‎BTS national 2026 : 4 583 candidats planchent sur les épreuves écrites à N’Djamena",
+   "lead": "Nel fine settimana oltre quattromila studenti hanno affrontato a N'Djamena le prove scritte del Brevet de technicien supérieur sotto la supervisione del ministero dell'Insegnamento superiore ciadiano. Contemporaneamente, in Guinea quasi quarantamila candidati hanno partecipato al concorso per selezionare seimila nuovi insegnanti destinati a colmare i gravi vuoti di organico nelle scuole, con le prime prove avviate a Mamou e Kankan sotto stretto monitoraggio governativo per garantire trasparenza.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/17/bts-national-2026-4-583-candidats-planchent-sur-les-epreuves-ecrites-a-ndjamena/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-17T13:30+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/recrutement-des-enseignants-seuls-les-meilleurs-seront-retenus-f-bourouno/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T11:59+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/bintou-keita-nous-avons-un-deficit-denseignants-plus-grand-que-les-6000/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T11:19+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/recrutement-de-6-000-enseignants-les-ministres-bourouno-et-keita-lancent-les-premieres-epreuves-a-mamou/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T11:11+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/17/recrutement-des-6-000-enseignants-a-kankan-les-mises-en-garde-de-djenabou-toure-aux-candidats/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T14:49+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/17/recrutement-de-6-000-enseignants-le-ministre-bourouno-lance-le-coup-denvoi-du-concours-a-mamou/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T14:38+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "z4549d9ad",
+   "sez": "mondo",
+   "titolo": "Mauritius, attese le riforme del governo dopo la recente crisi",
+   "orig": "Les Réformes attendues du GM - l’après-crise : les enjeux",
+   "lead": "A Mauritius si apre la fase post-crisi, con una crescente attenzione rivolta alle riforme strutturali attese dall'esecutivo. Il dibattito pubblico si concentra sulle risposte istituzionali ed economiche necessarie per superare le recenti tensioni sociali, stabilizzare il Paese e rispondere alle istanze della cittadinanza. La priorità resta l'attuazione di misure concrete per prevenire nuovi disordini e garantire una ripresa duratura nell'arcipelago. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/les-reformes-attendues-du-gm-lapres-crise-les-enjeux",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-17T18:00+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "z45b03041",
+   "sez": "mondo",
+   "titolo": "Mauritius, l'ex presidente Cassam Uteem difende l'identità pacifica del popolo",
+   "orig": "Cassam Uteem : «Ces évènements ne font pas de nous un peuple agressif»",
+   "lead": "L'ex presidente della Repubblica di Mauritius, Cassam Uteem, è intervenuto sui recenti disordini affermando con fermezza che gli episodi violenti non riflettono l'indole della nazione e non fanno dei mauriziani un popolo aggressivo. La dichiarazione mira a rassicurare la popolazione e a promuovere la coesione civile dopo i fatti di cronaca che hanno scosso l'opinione pubblica nell'isola dell'Oceano Indiano. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/cassam-uteem-ces-evenements-ne-font-pas-de-nous-un-peuple-agressif",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-17T17:30+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "z88105155",
+   "sez": "mondo",
+   "titolo": "Mauritius, incendi e saccheggi: analisi delle cause dietro i disordini",
+   "orig": "Incendies, pillages, vandalisme: des incidents aux solutions : mieux comprendre ce qui a fait déborder le vase",
+   "lead": "Incendi, saccheggi e atti di vandalismo hanno scosso Mauritius, spingendo le istituzioni e gli osservatori a interrogarsi sulle cause profonde che hanno innescato l'ondata di proteste. L'analisi degli incidenti evidenzia un diffuso malcontento sociale ed economico che ha fatto traboccare il vaso. La ricerca di soluzioni stabili diventa ora urgente per scongiurare nuove escalation di violenza sul territorio nazionale. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/incendies-pillages-vandalisme-des-incidents-aux-solutions-mieux-comprendre-ce-qui-fait-deborder-le",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-17T17:00+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "z76318aaa",
+   "sez": "mondo",
+   "titolo": "Mauritius, i fattori all'origine dei recenti incidenti di piazza",
+   "orig": "Les facteurs derrière les récents incidents",
+   "lead": "A Mauritius continua l'approfondimento sui molteplici fattori sociali, economici e politici che hanno favorito il verificarsi dei recenti gravi incidenti sul territorio nazionale. Il quadro che emerge mette in luce fragilità strutturali e tensioni crescenti all'interno della comunità, elementi che richiedono interventi mirati per ripristinare la fiducia nelle istituzioni ed evitare il ripetersi di simili tensioni. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/les-facteurs-derriere-les-recents-incidents",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-17T16:30+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "z8d2199d2",
+   "sez": "mondo",
+   "titolo": "Haiti, insicurezza alimentare cronica nei campi per sfollati interni",
+   "orig": "In Displacement Camps, Uncertainty Reigns Even in the Plate",
+   "lead": "Nei campi di accoglienza per sfollati a Port-au-Prince e nelle aree limitrofe, la crisi umanitaria si aggrava e l'incertezza regna sovrana anche sull'accesso quotidiano al cibo. Migliaia di famiglie fuggite dalle violenze delle bande criminali vivono in condizioni di estrema precarietà, prive di forniture alimentari regolari e di servizi di base, mentre gli aiuti faticano a raggiungere stabilmente le strutture di emergenza. Lo riferisce Le Nouvelliste.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273030/in-displacement-camps-uncertainty-reigns-even-in-the-plate",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-16T18:35+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "zb937620b",
+   "sez": "mondo",
+   "titolo": "Haiti, i gruppi REKONSILYE e SOLÈY chiedono calendario elettorale e sicurezza",
+   "orig": "Elections: REKONSILYE and SOLÈY Demand a Credible Timeline and Security Guarantees",
+   "lead": "Ad Haiti le formazioni REKONSILYE e SOLÈY hanno sollecitato la definizione di un calendario elettorale credibile accompagnato da garanzie stringenti sul fronte della sicurezza. In un contesto dominato dall'instabilità e dal controllo territoriale delle bande armate, le due organizzazioni insistono sulla necessità di creare condizioni politiche e materiali affidabili prima di procedere a qualsiasi consultazione democratica a livello nazionale. Lo riferisce Le Nouvelliste.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273036/elections-rekonsilye-and-soley-demand-a-credible-timeline-and-security-guarantees",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-16T18:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
+   "id": "z97303b57",
+   "sez": "mondo",
+   "titolo": "Guatemala, Claudia Palencia a processo per l'evasione dal carcere Fraijanes 2",
+   "orig": "Claudia Palencia queda ligada a proceso por caso de fuga de reos de Fraijanes 2",
+   "lead": "In Guatemala, Claudia Palencia è stata rinviata a giudizio nell'ambito dell'inchiesta giudiziaria aperta sulla clamorosa fuga di detenuti avvenuta dal penitenziario Fraijanes 2. La magistratura prosegue gli accertamenti per chiarire le responsabilità individuali e i livelli di connivenza interna che hanno consentito l'evasione dei reclusi dalla struttura di massima sicurezza, riaccendendo il dibattito sulla gestione del sistema carcerario. Lo riferisce Prensa Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prensa Libre",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://www.prensalibre.com/web-stories/se-entrega-ex-viceministra-claudia-palencia-por-caso-de-fuga-de-reos-en-fraijanes-2-y-queda-sujeta-a-proceso/",
+     "angolo": "",
+     "atlas": "Guatemala",
+     "t": "2026-10-16T22:01+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:48",
+   "uscita": "17"
+  },
+  {
    "id": "z11911b6b",
    "sez": "mondo",
    "titolo": "Il PSG osserva il difensore camerunese Aboubakar Nagida",
@@ -23163,7 +23450,18 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z993ea9dd": "PSM News riporta su dinamiche interne della gestione amministrativa americana.",
   "z61d4bd8a": "AKIpress riferisce su statistiche istituzionali riguardanti il sistema giudiziario.",
   "z734b390a": "AKIpress documenta i progetti di sviluppo infrastrutturale educativo regionale.",
-  "z19eb2785": "AKIpress copre i negoziati diplomatici tra leader caucasici."
+  "z19eb2785": "AKIpress copre i negoziati diplomatici tra leader caucasici.",
+  "z67217c59": "La testata kirghisa offre una cronaca istituzionale focalizzata sulla rappresentanza e sul protocollo diplomatico del proprio capo di Stato.",
+  "za58db2dc": "L'agenzia centroasiatica riferisce in modo neutrale e descrittivo lo svolgimento delle attività militari dell'alleanza di sicurezza regionale.",
+  "z932bb8b4": "Il quotidiano ugandese sottolinea la cooperazione tra istituzioni nazionali e agenzie dell'Onu nello sviluppo di pratiche sostenibili per i contadini.",
+  "zfa184304": "Le cronache africane documentano gli sforzi istituzionali paralleli volti alla qualificazione tecnica e al rafforzamento della scuola pubblica.",
+  "z4549d9ad": "L'articolo analizza le aspettative sociali e le priorità politiche del governo mauriziano nella fase successiva ai disordini.",
+  "z45b03041": "La testata evidenzia l'appello alla calma e la difesa dell'immagine pacifica della comunità mauriziana da parte dell'ex presidente.",
+  "z88105155": "Il giornale approfondisce i fattori di esasperazione economica e sociale all'origine delle recenti violenze urbane nell'arcipelago.",
+  "z76318aaa": "La testata offre una ricognizione analitica delle cause scatenanti e del contesto sociale dei disordini recenti.",
+  "z8d2199d2": "Il quotidiano documenta la gravissima emergenza umanitaria e la fame quotidiana che affliggono i rifugiati interni haitiani.",
+  "zb937620b": "La testata evidenzia le rivendicazioni dei movimenti politici haitiani circa la trasparenza elettorale e la sicurezza delle urne.",
+  "z97303b57": "Il quotidiano guatemalteco segue da vicino i risvolti legali e istituzionali dell'indagine sull'evasione carceraria."
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -29428,6 +29726,84 @@ window.EDIZIONI["2026-10-17-sera"] = {
     "Armenia"
    ],
    "pt": []
+  },
+  "z67217c59": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "za58db2dc": {
+   "n": "Bielorussia",
+   "p": [
+    "Belarus"
+   ],
+   "pt": []
+  },
+  "z932bb8b4": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zfa184304": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad",
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z4549d9ad": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z45b03041": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z88105155": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z76318aaa": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z8d2199d2": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zb937620b": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z97303b57": {
+   "n": "Città del Guatemala",
+   "p": [
+    "Guatemala"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -30334,7 +30710,18 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z993ea9dd": 1,
   "z61d4bd8a": 1,
   "z734b390a": 1,
-  "z19eb2785": 1
+  "z19eb2785": 1,
+  "z67217c59": 1,
+  "za58db2dc": 1,
+  "z932bb8b4": 1,
+  "zfa184304": 1,
+  "z4549d9ad": 1,
+  "z45b03041": 1,
+  "z88105155": 1,
+  "z76318aaa": 1,
+  "z8d2199d2": 1,
+  "zb937620b": 1,
+  "z97303b57": 1
  },
  "video": {},
  "pillole": []
