@@ -3,6 +3,2214 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z398a99f6",
+   "sez": "cucina",
+   "titolo": "Venti ricette salate per Halloween, semplici e divertenti",
+   "orig": "20 ricette di Halloween salate, facili e divertenti",
+   "lead": "In vista di Halloween, la rivista milanese La Cucina Italiana propone una raccolta di venti ricette salate pensate per portare in tavola piatti scenografici e allegri. La selezione spazia dagli antipasti ai secondi e si rivolge sia agli adulti sia ai bambini. L'obiettivo è offrire idee facili da realizzare a casa, capaci di unire il gusto al divertimento tipico della festa e di rendere la cena di fine ottobre un momento giocoso per tutta la famiglia. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Halloween si celebra la sera del 31 ottobre, vigilia di Ognissanti. La festa, di origine anglosassone e legata a tradizioni celtiche, si è diffusa in Italia soprattutto negli ultimi decenni. In cucina la ricorrenza è spesso associata alla zucca e a preparazioni dall'aspetto volutamente «spaventoso», particolarmente apprezzate dai più piccoli."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/gallery/ricette-salate-halloween/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T06:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z4cf2c46b",
+   "sez": "italia",
+   "titolo": "Terza fascia ATA 2027: probabile un aggiornamento con le regole attuali",
+   "orig": "Terza fascia ATA 2027, aggiornamento con le regole attuali è ipotesi più probabile. Pillole di Question Time",
+   "lead": "Il prossimo aggiornamento delle graduatorie di terza fascia per il personale ATA, previsto nel 2027, dovrebbe con ogni probabilità svolgersi secondo le regole oggi in vigore. Il tema è stato discusso nel Question Time del 7 ottobre 2026 trasmesso da OrizzonteScuola TV, condotto da Andrea Carlino con la partecipazione di Alberico Sorrentino, direttore dei servizi generali e amministrativi e rappresentante sindacale di ANIEF-Condir. L'incontro ha offerto indicazioni a chi intende presentare domanda per lavorare nelle scuole come personale non docente. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Il personale ATA (amministrativo, tecnico e ausiliario) comprende figure come collaboratori scolastici, assistenti amministrativi e tecnici. Le graduatorie di terza fascia d'istituto servono ad assegnare le supplenze e vengono aggiornate periodicamente, di norma ogni tre anni, consentendo nuovi inserimenti e l'aggiornamento dei punteggi da parte degli aspiranti."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/terza-fascia-ata-2027-aggiornamento-con-le-regole-attuali-e-ipotesi-piu-probabile-pillole-di-question-time/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T14:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z855d4f1c",
+   "sez": "spazio",
+   "titolo": "Cile, in pieno vigore la norma contro l'inquinamento luminoso",
+   "orig": "Chile’s Light-Pollution Standard Takes Full Effect",
+   "lead": "Il Cile ha reso pienamente operativa la propria normativa contro l'inquinamento luminoso. Il Paese sudamericano, che ospita alcuni dei principali osservatori astronomici del mondo, si impegna così a proteggere la qualità dei suoi cieli notturni lungo tutto il territorio, dal deserto di Atacama fino alla Terra del Fuoco. Il provvedimento mira a preservare le condizioni ideali per l'osservazione del cosmo, una risorsa scientifica di valore internazionale. Lo riferisce Sky & Telescope.",
+   "more": [
+    "Il deserto di Atacama è tra i luoghi più secchi della Terra e gode di cieli limpidi per gran parte dell'anno: per questo vi sorgono grandi strutture astronomiche internazionali. L'inquinamento luminoso, causato dall'illuminazione artificiale, rende il cielo più chiaro e ostacola l'osservazione degli oggetti celesti più deboli."
+   ],
+   "fonti": [
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/chiles-light-pollution-standard-takes-full-effect/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-16T18:35+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z2f9fd63a",
+   "sez": "tech",
+   "titolo": "Stranger Than Heaven, trailer narrativo per il primo atto «Kokura»",
+   "orig": "Stranger Than Heaven Game Streams Story Trailer for 1st Act 'Kokura'",
+   "lead": "Il videogioco Stranger Than Heaven ha diffuso in streaming un trailer dedicato alla trama del suo primo atto, intitolato «Kokura». Il titolo arriverà sul mercato il 15 gennaio e sarà disponibile per Xbox Series X|S, PlayStation 5 e PC tramite la piattaforma Steam. Il filmato serve a presentare ai giocatori l'ambientazione e la storia della parte iniziale dell'avventura, in attesa del lancio previsto per l'inizio del nuovo anno. Lo riferisce Anime News Network.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-17/stranger-than-heaven-game-streams-story-trailer-for-1st-act-kokura/.242936",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T03:45-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z16af0e68",
+   "sez": "ambiente",
+   "titolo": "Somalia, dopo le piogge i pastori del Medio Scebeli saldano i debiti della siccità",
+   "orig": "Brisk livestock sales help Middle Shabelle pastoralists to repay drought debtsr",
+   "lead": "Nel sud della Somalia, le famiglie di pastori dei distretti di Warsheikh e Adale, nella regione del Medio Scebeli, hanno cominciato a restituire i debiti contratti durante tre anni di siccità. A renderlo possibile è la ripresa delle vendite di bestiame: le piogge recenti hanno migliorato i pascoli e la disponibilità d'acqua, e di conseguenza anche le condizioni degli animali, tornati più appetibili sul mercato. Lo riferisce Hiiraan Online.",
+   "more": [
+    "In Somalia la pastorizia è una delle principali fonti di sostentamento e di reddito. Il Corno d'Africa è stato colpito negli ultimi anni da siccità prolungate, con perdite di bestiame e indebitamento delle famiglie. Le stagioni delle piogge sono quindi decisive per la sopravvivenza delle mandrie e delle comunità."
+   ],
+   "fonti": [
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/news4/2026/Oct/206544/brisk_livestock_sales_help_middle_shabelle_pastoralists_to_repay_drought_debtsr.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-17T07:47+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z362be387",
+   "sez": "economia",
+   "titolo": "Singapore, i consumatori invitati a non accaparrarsi mascherine N95",
+   "orig": "Consumers urged not to overbuy N95 masks; major retailers are 'actively replenishing' stocks: CASE",
+   "lead": "L'Associazione dei consumatori di Singapore (CASE) ha invitato i cittadini a non acquistare mascherine N95 in quantità eccessive, assicurando che le grandi catene di vendita stanno attivamente rifornendo le scorte. L'associazione ha inoltre raccomandato prudenza nell'acquisto di mascherine e purificatori d'aria sul mercato secondario, perché spesso non è possibile verificare l'affidabilità dei venditori. L'appello punta a evitare carenze e possibili raggiri. Lo riferisce CNA.",
+   "more": [
+    "Le mascherine N95 sono dispositivi filtranti in grado di trattenere gran parte delle particelle sospese nell'aria. Nel Sud-est asiatico la domanda cresce in genere durante gli episodi di foschia legati agli incendi di foreste e torbiere nella regione, che peggiorano la qualità dell'aria."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/singapore/n95-masks-stock-shortage-haze-case-6468201",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T19:45+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zf90ba2cc",
+   "sez": "sport",
+   "titolo": "Giochi Para Asiatici, seconda sconfitta per il bhutanese Cheyang Kuenchap",
+   "orig": "Cheyang Kuenchap loses second league match at Asian Para Games",
+   "lead": "Il quindicenne giocatore di para badminton bhutanese Cheyang Kuenchap ha perso la sua seconda partita del girone ai quinti Giochi Para Asiatici di Aichi-Nagoya 2026, in Giappone, contro un avversario della Malesia. L'atleta aveva debuttato nella competizione il giorno precedente. Nel singolare maschile categoria WH2 gareggiano diciannove atleti di dodici Paesi; inserito nel gruppo F, Cheyang deve ancora disputare un ultimo incontro del girone. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "Nel para badminton la classe WH2 riguarda gli atleti che giocano in carrozzina con un grado di disabilità minore rispetto alla classe WH1. I Giochi Para Asiatici sono la principale manifestazione multisportiva continentale per atleti con disabilità e si svolgono in concomitanza con i Giochi Asiatici."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247616/",
+     "angolo": "",
+     "atlas": "Bhutan",
+     "t": "2026-10-17T09:37+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "ze7489b39",
+   "sez": "mondo",
+   "titolo": "Nepal, il giornalista Kishor Shrestha convocato dal Cyber Bureau",
+   "orig": "Police take journalist Kishor Shrestha to Cyber Bureau for talks over complaints",
+   "lead": "In Nepal la polizia ha condotto il giornalista Kishor Shrestha presso il Cyber Bureau per un colloquio legato a una serie di denunce. Himesh Panta, esponente del partito di governo RSP, aveva denunciato il cronista per un articolo secondo cui la sua famiglia si sarebbe appropriata di terreni. Shrestha, a sua volta, ha presentato una controdenuncia per le dichiarazioni pubblicate da Panta sui social media. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/17/police-take-journalist-kishor-shrestha-to-cyber-bureau-for-talks-over-complaints",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z5075a1fc",
+   "sez": "cultura",
+   "titolo": "«L'appartamento» di Billy Wilder, perché il film del 1960 è un'icona della commedia",
+   "orig": "‘The Apartment’: Why this 1960 film about adultery is a comedy icon today",
+   "lead": "Il film «L'appartamento» di Billy Wilder, uscito nel 1960 e incentrato sul tema dell'adulterio, viene riletto come un classico della commedia ancora attuale. A discuterne sono il critico cinematografico e il vicedirettore di The Times of Israel, che esprimono opinioni diverse sull'opera. Lo spunto arriva da una recente intervista in cui l'attore Chris Rock ne ha parlato con grande entusiasmo. Lo riferisce The Times of Israel.",
+   "more": [
+    "«L'appartamento» ha come protagonisti Jack Lemmon e Shirley MacLaine e vinse l'Oscar come miglior film. Billy Wilder, regista di origine austriaca attivo a Hollywood, è autore anche di «A qualcuno piace caldo» e «Viale del tramonto», ed è considerato uno dei maestri della commedia americana."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Israel",
+     "p": "XX",
+     "c": "Gerusalemme",
+     "u": "https://www.timesofisrael.com/the-apartment-why-this-1960-film-about-adultery-is-a-comedy-icon-today/",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-17T08:07+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zf10705c5",
+   "sez": "cultura",
+   "titolo": "Signal Festival, proiezioni e performance illuminano la notte di Praga",
+   "orig": "projection mapping and performances make the night come alive at signal festival",
+   "lead": "Il Signal Festival, rassegna di arte digitale, trasforma strade, monumenti ed edifici storici di Praga con luci, suoni e spettacoli dal vivo, grazie anche alla tecnica del projection mapping. Il cofondatore Martin Pošta ripercorre le origini della manifestazione, spiegando come sia nata l'idea di animare la città di notte attraverso installazioni artistiche e performance. Lo riferisce Designboom.",
+   "more": [
+    "Il projection mapping è una tecnica che proietta immagini e animazioni su superfici tridimensionali, come le facciate degli edifici, adattandole alla loro forma. Praga, con il suo centro storico tutelato dall'UNESCO, offre un'ampia varietà di architetture che si prestano a questo tipo di interventi."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/art/projection-mapping-and-performances-make-the-night-come-alive-at-signal-festival/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T14:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zae31bb44",
+   "sez": "cucina",
+   "titolo": "Riso in cagnone con pesce persico, sapori del lago di Como",
+   "orig": "Riso in cagnone con pesce persico",
+   "lead": "Tra le specialità della provincia di Como figura il riso in cagnone accompagnato da filetto di pesce persico, piatto che si può gustare sulle rive del lago. La ricetta celebra il pesce d'acqua dolce, protagonista della tradizione gastronomica locale, e viene proposta come esempio della cucina lariana che valorizza i prodotti del territorio. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Il riso in cagnone è una preparazione tipica della Lombardia: il riso viene lessato e poi condito con burro fuso, spesso aromatizzato con salvia. Il pesce persico, impanato o dorato nel burro, è uno dei simboli della cucina dei laghi lombardi, in particolare del Lario."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/ricetta/riso-cagnone-filetto-pesce-persico/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T06:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z02c0c5e8",
+   "sez": "musica",
+   "titolo": "Le etichette discografiche del cuore, da Motown a Flying Nun",
+   "orig": "The Guide #265: Your favourite record labels, from Motown to Flying Nun",
+   "lead": "La newsletter settimanale The Guide del Guardian dedica il numero 265 alle etichette discografiche preferite da lettori e giornalisti musicali del quotidiano britannico, da Motown a Flying Nun. Dopo l'invito lanciato agli abbonati la settimana precedente, le risposte sono state numerose ed entusiaste. Il giornale osserva che, anche nell'era dello streaming che appiattisce album, singoli ed EP in un unico flusso, il fascino delle etichette resta forte perché spingono la musica verso territori nuovi. Lo riferisce The Guardian – Musica.",
+   "more": [
+    "Motown, fondata a Detroit da Berry Gordy, ha segnato la storia del soul e del pop afroamericano negli anni Sessanta. Flying Nun è un'etichetta indipendente neozelandese, nota per aver lanciato il cosiddetto «Dunedin sound», una delle scene indie più influenti degli anni Ottanta."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/culture/2026/oct/16/your-favourite-record-labels-from-motown-to-flying-nun",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T06:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zebc902b9",
+   "sez": "cultura",
+   "titolo": "«Masterplan», Stanley Tucci sprecato nel thriller Amazon sul furto della Gioconda",
+   "orig": "Masterplan review – Stanley Tucci is wasted in Amazon’s smooth-brained heist caper",
+   "lead": "Il Guardian boccia «Masterplan», film di Amazon con Stanley Tucci in cui una «famiglia» di criminali tenta di rubare la Monna Lisa dal Louvre. Secondo la recensione, il thriller è superficiale e destinato a essere dimenticato, nonostante un'idea che sulla carta prometteva bene. Il giornale ricorda come negli ultimi anni Tucci abbia regalato grandi soddisfazioni, tra programmi di cucina e ruoli di contorno in «Conclave» e «Il diavolo veste Prada 2», risultando adatto a un ruolo da protagonista. Lo riferisce The Guardian – Cinema.",
+   "more": [
+    "La Gioconda di Leonardo da Vinci è esposta al Louvre di Parigi ed è forse il dipinto più celebre al mondo. Nel 1911 fu realmente rubata dall'italiano Vincenzo Peruggia e ritrovata a Firenze due anni dopo, episodio che ha alimentato a lungo la sua fama."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/16/masterplan-stanley-tucci-movie-review",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T19:24+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z056efbd7",
+   "sez": "spazio",
+   "titolo": "Venere in congiunzione inferiore il 23-24 ottobre 2026",
+   "orig": "Inferior conjunction — Venus! October 23-24, 2026",
+   "lead": "Venere sta per raggiungere la congiunzione inferiore: il pianeta passerà tra la Terra e il Sole alle 4 del tempo universale coordinato del 24 ottobre 2026. Dopo questo allineamento, Venere tornerà visibile nel cielo del mattino, prima dell'alba. Per gli appassionati si tratta di un passaggio importante, che segna la fine della sua fase serale e l'inizio di quella mattutina. Lo riferisce EarthSky.",
+   "more": [
+    "La congiunzione inferiore avviene quando un pianeta interno, come Venere o Mercurio, si trova tra la Terra e il Sole. In quei giorni il pianeta è perso nel bagliore solare e non è osservabile. Venere ripete questo ciclo circa ogni 584 giorni, alternando apparizioni serali e mattutine."
+   ],
+   "fonti": [
+    {
+     "n": "EarthSky",
+     "p": "US",
+     "c": "Austin",
+     "u": "https://earthsky.org/astronomy-essentials/inferior-conjunction-venus-between-sun-and-earth/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T11:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zd7e71ea6",
+   "sez": "ambiente",
+   "titolo": "Abu Dhabi lancia una rete per il soccorso degli animali selvatici",
+   "orig": "Abu Dhabi launches wildlife rescue network to save injured and stranded animals",
+   "lead": "Abu Dhabi ha avviato una rete dedicata al soccorso della fauna selvatica, con l'obiettivo di salvare animali feriti o rimasti bloccati in difficoltà. L'iniziativa punta a organizzare in modo coordinato gli interventi a tutela delle specie presenti sul territorio dell'emirato. Non sono stati forniti, nelle informazioni disponibili, ulteriori dettagli sul funzionamento della rete o sugli enti coinvolti. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/environment/abu-dhabi-launches-wildlife-rescue-network-to-save-injured-and-stranded-animals-1.500714290",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-17T17:53+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z064ec795",
+   "sez": "economia",
+   "titolo": "Russia, raffineria di Ryazan ferma un impianto principale dopo un attacco di droni",
+   "orig": "Russian Ryazan oil refinery halts operations of one main unit after drone attack, Reuters reports",
+   "lead": "La raffineria di petrolio russa di Ryazan ha interrotto il funzionamento di una delle sue unità principali in seguito a un attacco con droni, secondo quanto riportato dall'agenzia Reuters. Dall'annuncio della ripresa degli attacchi fatto dal presidente ucraino Volodymyr Zelensky il 15 ottobre, Kiev non ha comunicato nuovi raid contro raffinerie russe né ha confermato le notizie su azioni di questo tipo. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "Le raffinerie sono un obiettivo ricorrente degli attacchi ucraini con droni a lungo raggio, perché la vendita di prodotti petroliferi è una fonte cruciale di entrate per la Russia. Quella di Ryazan, a sud-est di Mosca, è tra le più grandi del Paese ed è già stata colpita in passato."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/russian-ryazan-oil-refinery-halts-one-of-its-main-units-after-drone-attacks-reuters-reports/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-17T10:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z85174d29",
+   "sez": "sport",
+   "titolo": "Amar'e Stoudemire, dai Miami Heat alla polizia di Miami",
+   "orig": "Amar’e Stoudemire goes from Miami Heat to Miami police officer",
+   "lead": "L'ex cestista Amar'e Stoudemire, sei volte All-Star della NBA ed ex giocatore dei Miami Heat, è diventato agente di polizia a Miami. Con questa scelta l'ex campione realizza quello che ha definito un «sogno d'infanzia»: lavorare nelle forze dell'ordine. Una seconda vita professionale lontana dai parquet per uno dei lunghi più noti del basket statunitense degli ultimi decenni. Lo riferisce Rappler.",
+   "more": [
+    "Amar'e Stoudemire si è affermato nei Phoenix Suns all'inizio degli anni Duemila, vincendo il premio di matricola dell'anno, e ha poi giocato a lungo con i New York Knicks. Ha chiuso la carriera NBA con i Miami Heat nel 2016, prima di un'esperienza nel campionato israeliano."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/people/athletes/nba-amare-stoudemire-miami-heat-police-officer/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-17T11:00+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z460cb3e7",
+   "sez": "viaggi",
+   "titolo": "Forbes inserisce l'Egitto tra le sette mete consigliate per il 2027",
+   "orig": "Egypt named among 7 destinations recommended by Forbes for 2027",
+   "lead": "La rivista Forbes ha incluso l'Egitto in un elenco di sette destinazioni turistiche raccomandate per il 2027, sulla base delle scelte di OvationNetwork, società specializzata nei viaggi di lusso. Il riconoscimento mette in risalto la varietà dell'offerta del Paese, che va dai monumenti dell'antichità alle crociere di alta gamma sul Nilo, e ne conferma l'attrattiva per i viaggiatori internazionali. Lo riferisce Egypt Independent.",
+   "more": [
+    "Il turismo è una delle principali fonti di valuta estera per l'Egitto. Tra le mete più note figurano le piramidi di Giza, i templi di Luxor e Karnak e le località balneari del Mar Rosso. Le crociere sul Nilo collegano tradizionalmente Luxor e Assuan."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/egypt-named-among-7-destinations-recommended-by-forbes-for-2027/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-17T11:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z4d35e661",
+   "sez": "tech",
+   "titolo": "DeepSeek lancia un modello di IA aggiornato, «più veloce e snello»",
+   "orig": "DeepSeek pushes out ‘faster, leaner’ updated AI model",
+   "lead": "La società cinese DeepSeek ha rilasciato una versione aggiornata del suo modello di intelligenza artificiale, presentata come più veloce e leggera della precedente. Il nuovo modello è già disponibile sul sito web, nell'applicazione dell'azienda e sulla piattaforma destinata agli sviluppatori. L'aggiornamento si inserisce nella competizione internazionale sui sistemi di IA generativa. Lo riferisce The Straits Times.",
+   "more": [
+    "DeepSeek è una startup cinese di intelligenza artificiale con sede a Hangzhou. All'inizio del 2025 ha attirato l'attenzione mondiale con modelli competitivi sviluppati a costi dichiarati molto inferiori a quelli dei concorrenti statunitensi, provocando anche scossoni nei mercati tecnologici."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T22:37+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z149042df",
+   "sez": "cultura",
+   "titolo": "Dagli scarti di laboratorio all'arte: prototipi dismessi diventano sculture",
+   "orig": "from laboratory waste to art, discarded research prototypes transform into sculptural objects",
+   "lead": "Il progetto «the form that remained» si interroga su che cosa resti, materialmente, dell'innovazione. Prototipi scartati, esperimenti falliti e frammenti dimenticati della ricerca scientifica vengono trasformati in oggetti scultorei unici attraverso un processo di frammentazione, stratificazione e fusione dei materiali. Il lavoro restituisce così una nuova vita agli scarti dei laboratori, trasformandoli in opere d'arte. Lo riferisce Designboom.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/art/laboratory-waste-art-discarded-research-prototypes-sculptural-objects-ruben-moutinho/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T23:35+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z897a97d7",
+   "sez": "cucina",
+   "titolo": "Il brodo di pollo della nonna, rimedio della tradizione",
+   "orig": "Brodo di pollo della nonna: il rimedio tradizionale",
+   "lead": "La Cucina Italiana propone la ricetta del brodo di pollo della nonna, preparazione semplice e ricca di sapore che richiama il gusto della cucina di casa. Il piatto viene presentato come un rimedio tradizionale e come una vera coccola da portare in tavola, adatta soprattutto ai mesi più freddi. La rivista spiega passo dopo passo come realizzarlo. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Il brodo di pollo si ottiene facendo sobbollire a lungo la carne con verdure come carota, sedano e cipolla. Nella tradizione italiana è base di minestre e tortellini ed è considerato un piatto confortante, spesso servito quando si è raffreddati o convalescenti."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/brodo-pollo-ricetta-nonna-originale-classica/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T05:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z3ea5a618",
+   "sez": "musica",
+   "titolo": "I Justice nella colonna sonora di «Grand Theft Auto VI»",
+   "orig": "Ci sono anche i Justice nella super colonna sonora di ‘Grand Theft Auto VI’",
+   "lead": "Nel trailer di lancio del videogioco «Grand Theft Auto VI» compare «Flower in a Hurricane», nuovo singolo del duo francese Justice realizzato con Tame Impala, SZA e King Gizzard & the Lizard Wizard. Il brano entra così a far parte di una colonna sonora che si preannuncia ricca di nomi importanti. La presenza nel trailer offre ampia visibilità alla nuova canzone. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "«Grand Theft Auto» è una delle serie di videogiochi più vendute di sempre, sviluppata da Rockstar Games. I Justice, formati da Gaspard Augé e Xavier de Rosnay, sono tra i nomi di punta dell'elettronica francese e hanno vinto diversi Grammy. La serie è nota per le sue colonne sonore radiofoniche."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/news-musica/ci-sono-anche-i-justice-nella-super-colonna-sonora-di-grand-theft-auto-vi/1042660/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T08:33+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z3ea85163",
+   "sez": "spazio",
+   "titolo": "Pianeti visibili e cielo notturno: la guida di ottobre",
+   "orig": "Visible planets and night sky guide for October",
+   "lead": "EarthSky pubblica la sua guida al cielo notturno e ai pianeti visibili nel mese di ottobre. Tra gli spettacoli segnalati, a est prima dell'alba si possono osservare Giove e Marte, che appaiono sempre più vicini l'uno all'altro con il passare dei giorni. La guida aiuta gli appassionati a orientarsi nell'osservazione del cielo durante il mese. Lo riferisce EarthSky.",
+   "more": [
+    "Gli avvicinamenti apparenti tra pianeti, detti congiunzioni, sono effetti prospettici: i corpi celesti restano in realtà a enormi distanze tra loro. Giove e Marte sono facilmente riconoscibili a occhio nudo, il primo per la sua luminosità e il secondo per il caratteristico colore rossastro."
+   ],
+   "fonti": [
+    {
+     "n": "EarthSky",
+     "p": "US",
+     "c": "Austin",
+     "u": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T08:10+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zd58a3fab",
+   "sez": "cultura",
+   "titolo": "«The Prestige» compie vent'anni: che cosa rivela dell'ossessione di Nolan",
+   "orig": "What Christopher Nolan’s The Prestige reveals about his cinematic obsession 20 years on",
+   "lead": "A vent'anni dall'uscita, il South China Morning Post rilegge «The Prestige» di Christopher Nolan. Prima che «Il cavaliere oscuro» lo rendesse famoso nel 2008, il regista aveva firmato thriller complessi come «Following», «Memento» e «Insomnia». Il film del 2006, girato dopo «Batman Begins», è descritto come il più labirintico e personale: ambientato nella Londra di fine Ottocento, segue i prestigiatori Robert Angier e Alfred Borden, interpretati da Hugh Jackman e Christian Bale, disposti a rischiare la vita. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "«The Prestige» è tratto dall'omonimo romanzo di Christopher Priest. Nel cast figurano anche Michael Caine e Scarlett Johansson. Il cinema di Nolan è noto per le strutture narrative non lineari e per il tema dell'inganno e della percezione, ricorrente in molti suoi lavori."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/entertainment/article/3370672/what-christopher-nolans-prestige-reveals-about-his-cinematic-obsession-20-years?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T11:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z018e2567",
+   "sez": "manga",
+   "titolo": "Dieci episodi spaventosi da anime non horror",
+   "orig": "10 Scary Episodes From Non-Horror Anime",
+   "lead": "In vista di Halloween, Crunchyroll News propone una selezione di dieci episodi capaci di mettere paura pur appartenendo a serie anime che non rientrano nel genere horror. L'obiettivo è calare gli spettatori nell'atmosfera della festa, a volte cogliendoli di sorpresa con puntate inquietanti dove meno se le aspetterebbero. Lo riferisce Crunchyroll News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/features/2026/10/17/10-scary-episodes-from-non-horror-anime",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T15:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z6a545e25",
+   "sez": "economia",
+   "titolo": "Nigeria, Oyedele: per i mercati l'opposizione non è credibile sul ritorno dei sussidi",
+   "orig": "Subsidy Return: International investors, markets have written off Nigerian opposition politicians as unserious, says Oyedele",
+   "lead": "In Nigeria, l'economista Taiwo Oyedele sostiene che gli investitori internazionali e i mercati non prendono sul serio i politici dell'opposizione. La ragione, secondo lui, è nell'andamento dei mercati dei capitali. Né quello interno né quelli internazionali hanno incorporato nei prezzi l'ipotesi, avanzata dall'opposizione, di reintrodurre i sussidi. Per Oyedele questo indica che gli operatori considerano l'opposizione poco seria e non ritengono probabile un cambio di rotta sulla politica dei sussidi. Lo riferisce Premium Times.",
+   "more": [
+    "Nel 2023 la Nigeria ha abolito il sussidio sui carburanti, una misura molto costosa per le casse pubbliche. La riforma ha ridotto la spesa dello Stato ma ha fatto salire i prezzi per le famiglie. Per questo il possibile ritorno dei sussidi è un tema politico molto sensibile e i mercati ne valutano con attenzione la probabilità."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/917791-subsidy-return-international-investors-markets-have-written-off-nigerian-opposition-politicians-as-unserious-says-oyedele.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-17T13:56+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z248e6b2f",
+   "sez": "sport",
+   "titolo": "Le Golden State Valkyries, prima squadra femminile da un miliardo di dollari",
+   "orig": "La prima squadra femminile a valere un miliardo di dollari",
+   "lead": "Le Golden State Valkyries sono la prima squadra sportiva femminile a raggiungere un valore di un miliardo di dollari. Il club gioca nella WNBA, il campionato professionistico statunitense di basket femminile. La squadra si prepara ora a ospitare nel suo palazzetto, soprannominato «Ballhalla», la prima partita delle finali del torneo. Il traguardo economico arriva quindi insieme a un risultato sportivo importante e conferma la crescita di interesse per lo sport femminile. Lo riferisce Il Post.",
+   "more": [
+    "La WNBA è la lega professionistica femminile di pallacanestro degli Stati Uniti, collegata alla NBA. Negli ultimi anni ha registrato aumenti di pubblico, ascolti e sponsorizzazioni. Questa crescita ha fatto salire anche il valore delle franchigie, cioè le squadre che partecipano al campionato."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/17/golden-state-valkyries-wnba-finals-2026/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T13:12+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z8dc6f743",
+   "sez": "viaggi",
+   "titolo": "Turismo, l'Egitto è terzo in Africa nell'indice 2026 del World Economic Forum",
+   "orig": "Egypt ranks 3rd in Africa for tourism in 2026 Travel & Tourism Development Index",
+   "lead": "L'Egitto è al terzo posto in Africa e al 63° nel mondo nel Travel & Tourism Development Index 2026. L'indice misura lo sviluppo del settore turistico ed è pubblicato dal World Economic Forum insieme a Zurich Insurance Group. Il dato è stato diffuso dall'agenzia economica africana Ecofin. Nella classifica continentale l'Egitto è preceduto dalle Mauritius, prime in Africa e 59e nel mondo, e dal Sudafrica, secondo in Africa e 61° nel mondo. Lo riferisce Egypt Independent.",
+   "more": [
+    "Il Travel & Tourism Development Index confronta i Paesi su diversi fattori legati al turismo. Tra questi ci sono le infrastrutture, la sicurezza, le risorse naturali e culturali e il contesto economico. Per molti Paesi, compreso l'Egitto, il turismo è una fonte importante di valuta estera e di posti di lavoro."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/egypt-ranks-3rd-in-africa-for-tourism-in-2026-travel-tourism-development-index/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-17T10:07+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z40b1a11c",
+   "sez": "ingegneria",
+   "titolo": "Salonicco, la boutique Peace + Chaos tra zone monocrome e contrasti forti",
+   "orig": "saint of athens shapes peace + chaos boutique around monochromatic and high-contrast zones",
+   "lead": "Lo studio Saint of Athens ha progettato a Salonicco, in Grecia, il negozio principale del marchio di moda Peace + Chaos. Il progetto vuole tradurre nello spazio fisico la doppia identità del brand, già espressa nel nome. Il negozio alterna zone monocromatiche e minimaliste ad aree con motivi vivaci e materiali dall'aspetto energico. L'obiettivo è rappresentare l'equilibrio della moda tra calma e rottura. Lo riferisce Designboom.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/architecture/saint-of-athens-peace-chaos-boutique-monochromatic-high-contrast-zones-thessaloniki/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T15:45+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zf2c81a9e",
+   "sez": "cucina",
+   "titolo": "Miso da supermercato alla prova: i migliori e i peggiori",
+   "orig": "‘If AI were asked to make miso, it would taste like this’: the best (and worst) supermarket miso, tasted and rated",
+   "lead": "Il Guardian ha confrontato le paste di miso vendute nei supermercati britannici. Le ha sottoposte a un «test della zuppa» per capire quali hanno un sapore autentico e quali invece sono lontane dal prodotto tradizionale. Il miso si prepara facendo fermentare legumi, di solito soia, con sale e koji, un cereale inoculato con la muffa Aspergillus oryzae. Secondo la prova, con un'unica eccezione molto positiva, spendere di più non garantisce un prodotto migliore. Lo riferisce The Guardian – Cucina.",
+   "more": [
+    "Il miso è un ingrediente fondamentale della cucina giapponese. Si usa soprattutto nella zuppa di miso, ma anche in salse e marinature. Il tempo di fermentazione e il tipo di cereale usato cambiano molto il colore e il gusto, che va da varietà chiare e dolci a varietà scure e intense."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cucina",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/thefilter/2026/oct/17/best-worst-supermarket-miso-tasted-rated",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T12:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "za376e06a",
+   "sez": "tech",
+   "titolo": "I traditori seriali esistono davvero?",
+   "orig": "I traditori seriali esistono davvero?",
+   "lead": "Esistono davvero i traditori seriali? Secondo quanto riportato, chi ha tradito il partner in una relazione passata ha una probabilità tre volte più alta di farlo di nuovo in una relazione successiva. L'articolo spiega come i comportamenti di infedeltà nelle coppie tendano a ripetersi nel tempo. Esamina i meccanismi che portano alcune persone a riprodurre gli stessi schemi da un rapporto all'altro. Lo riferisce Focus.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/comportamento/psicologia/coppia-chi-tradisce-una-volta-e-piu-poratato-a-farlo-ancora",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T12:00+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "za2644a63",
+   "sez": "cultura",
+   "titolo": "Nicolas Cage e Antonio Banderas protagonisti della quinta stagione di «True Detective»",
+   "orig": "Nicolas Cage e Antonio Banderas saranno i protagonisti della quinta stagione di ‘True Detective’",
+   "lead": "Nicolas Cage e Antonio Banderas saranno i protagonisti della quinta stagione di «True Detective». La conferma del cast è arrivata da HBO. Come la stagione precedente, anche la nuova sarà scritta e diretta da Issa López. La storia sarà ambientata a Jamaica Bay, a New York. Le riprese cominceranno nel 2027, quindi l'uscita non è prevista a breve. Lo riferisce Rolling Stone Italia.",
+   "more": [
+    "«True Detective» è una serie antologica: ogni stagione ha una storia e personaggi diversi. Il debutto risale al 2014, con Matthew McConaughey e Woody Harrelson come protagonisti. Issa López ha firmato la quarta stagione, intitolata «Night Country», con Jodie Foster."
+   ],
+   "fonti": [
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/cinema-tv/news-cinema-tv/nicolas-cage-e-antonio-banderas-saranno-i-protagonisti-della-quinta-stagione-di-true-detective/1042656/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T06:46+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zfb565c1b",
+   "sez": "spazio",
+   "titolo": "Una nube di idrogeno senza stelle potrebbe essere una galassia oscura",
+   "orig": "Lone, starless cloud may be a 'dark' galaxy",
+   "lead": "Un gruppo di astronomi ha individuato con il radiotelescopio cinese FAST una nube compatta di idrogeno che non ha stelle visibili né galassie vicine. Potrebbe essere una delle candidate più solide finora a «galassia oscura» isolata. La nube contiene idrogeno neutro per una massa pari a circa 500.000 volte quella del Sole. Lo studio che descrive la scoperta è stato pubblicato come preprint su arXiv il 24 settembre. Lo riferisce Phys.org – Spazio.",
+   "more": [
+    "Le galassie oscure sono oggetti ipotetici: sarebbero fatte di gas e materia oscura ma quasi del tutto prive di stelle. Per questo non si vedono con i telescopi ottici. Si possono però individuare grazie all'emissione radio dell'idrogeno neutro. FAST, in Cina, è uno dei radiotelescopi a parabola singola più grandi del mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Phys.org – Spazio",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://phys.org/news/2026-10-lone-starless-cloud-dark-galaxy.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T09:40-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zfa125242",
+   "sez": "cultura",
+   "titolo": "Hong Kong, una mostra porta le storie della Città murata di Kowloon",
+   "orig": "A missionary’s stories of the Kowloon Walled City live on at a new exhibition in Hong Kong",
+   "lead": "A Hong Kong la St Stephen's Society, un ente benefico cristiano senza scopo di lucro che si occupa di riabilitazione, presenta le opere realizzate dai suoi ospiti. La fondatrice è Jackie Pullinger, una missionaria britannica che oggi ha più di ottant'anni. Il centro si trova nei Nuovi Territori e sembra quasi una galleria d'arte contemporanea. Una selezione delle opere sarà esposta nella mostra «285 and Counting…». Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "La Città murata di Kowloon era un'enclave di Hong Kong molto densamente popolata. A lungo rimase in gran parte fuori dal controllo delle autorità ed era conosciuta per il degrado e la criminalità. Fu demolita all'inizio degli anni Novanta. Jackie Pullinger lavorò al suo interno con i tossicodipendenti a partire dagli anni Sessanta."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/arts/article/3371165/missionarys-stories-kowloon-walled-city-live-new-exhibition-hong-kong?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T08:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zd9a45de0",
+   "sez": "manga",
+   "titolo": "«Reincarnated as a Sword» 2, Shiori Izawa sarà la voce di Stephan",
+   "orig": "Reincarnated as a Sword Season 2 Anime Casts Shiori Izawa as Stephan",
+   "lead": "La seconda stagione dell'anime «Reincarnated as a Sword» ha un nuovo membro nel cast. Shiori Izawa darà la voce al personaggio di Stephan. La serie è tratta da una saga di light novel fantasy del genere isekai e in questo periodo va in onda in Giappone. La nuova voce si aggiunge al cast della stagione già in programmazione. Lo riferisce Crunchyroll News.",
+   "more": [
+    "«Isekai» è un genere molto diffuso nella narrativa giapponese. Il protagonista viene trasportato in un altro mondo oppure vi si reincarna. In questa serie il protagonista si reincarna sotto forma di spada. Le light novel sono romanzi brevi illustrati e spesso vengono adattati in manga e anime."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/17/reincarnated-as-a-sword-season-2-anime-casts-shiori-izawa-as-stephan",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T12:48+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z5d9f0996",
+   "sez": "economia",
+   "titolo": "Georgia, redistribuite le quote del proprietario di Imedi TV, sanzionato da Londra",
+   "orig": "Shares of UK-Sanctioned Imedi TV Owner Redistributed Among Four Shareholders",
+   "lead": "In Georgia sono cambiati gli assetti proprietari di Georgian Media Production Group, la società che controlla l'emittente Imedi. Si tratta di una tv vicina al governo e colpita da sanzioni del Regno Unito. Secondo i documenti depositati il 16 ottobre presso l'Agenzia nazionale del registro pubblico, le azioni sono ora divise in parti uguali tra quattro persone, ciascuna con il 25%. Prima del cambiamento la società apparteneva a Prime Media Global, di proprietà di un imprenditore. Lo riferisce Civil.ge.",
+   "more": [
+    "Imedi è una delle principali televisioni private della Georgia. Gli osservatori la considerano allineata al partito di governo Sogno Georgiano. Negli ultimi anni i rapporti tra Tbilisi e i Paesi occidentali si sono fatti più tesi, e alcuni di questi Paesi hanno adottato sanzioni contro persone ed enti georgiani."
+   ],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/755050",
+     "angolo": "",
+     "atlas": "Georgia",
+     "t": "2026-10-17T11:17+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z33c6a750",
+   "sez": "ingegneria",
+   "titolo": "Motori elettrici più efficienti potrebbero liberare gigawatt di potenza",
+   "orig": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+   "lead": "Negli Stati Uniti la domanda di elettricità cresce e sta spingendo investimenti pubblici e privati in nuove centrali, sia a gas sia da fonti più pulite come il solare e la geotermia. Secondo l'articolo, però, gigawatt di potenza sono già disponibili. Si tratta dell'energia sprecata dai motori elettrici: circa 50 milioni di motori fanno funzionare ventole, pompe e compressori in molti settori dell'economia. L'articolo è stato pubblicato in origine da Canary Media. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "I motori elettrici consumano una parte molto grande dell'elettricità usata dall'industria. Spesso girano sempre alla massima velocità, anche quando non serve. Gli azionamenti a velocità variabile, detti inverter, adattano il funzionamento del motore al carico reale. In questo modo possono ridurre in modo significativo i consumi."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://spectrum.ieee.org/variable-frequency-drives",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T13:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z68c181d6",
+   "sez": "ambiente",
+   "titolo": "Come comunicano tra loro gli elefanti",
+   "orig": "Come si parlano tra loro gli elefanti?",
+   "lead": "Gli elefanti comunicano tra loro con un mezzo molto potente: i loro rombi, suoni profondi che vengono descritti come uno strumento di comunicazione efficace. Una ricerca ha scoperto che, quando gli animali «parlano» tra loro, armonizzano questi suoni. In pratica accordano le proprie vocalizzazioni con quelle degli altri membri del gruppo. Il risultato aggiunge un elemento nuovo a quanto si sa sul comportamento sociale dei pachidermi. Lo riferisce Focus.",
+   "more": [
+    "Molti dei rombi degli elefanti contengono frequenze infrasoniche, cioè troppo basse per essere sentite dall'orecchio umano. Questi suoni possono propagarsi per chilometri. Gli elefanti li usano per coordinarsi con il branco, riconoscersi a vicenda e mantenere i legami sociali."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/ambiente/animali/gli-elefanti-armonizzano-i-loro-richiami",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T11:00+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z42c86228",
+   "sez": "musica",
+   "titolo": "A$AP Rocky pubblica «Shroom Clouds» con Jeremih e Reggie",
+   "orig": "A$AP Rocky Recruits Jeremih and Reggie for “Shroom Clouds”",
+   "lead": "A$AP Rocky ha pubblicato «Shroom Clouds», un brano a cui partecipano anche Jeremih e Reggie. Il pezzo era stato anticipato già nel 2021 e ora arriva come apertura di «Don't Be Dumb – Disc 2». La pubblicazione conclude quindi un'attesa durata diversi anni per una canzone che i fan conoscevano da tempo solo come anteprima. Lo riferisce Pitchfork.",
+   "more": [
+    "A$AP Rocky è un rapper di Harlem, a New York, e uno dei nomi più conosciuti dell'hip hop statunitense. Il suo nuovo album, «Don't Be Dumb», è stato annunciato e rinviato più volte prima di uscire."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/asap-rocky-recruits-jeremih-and-reggie-for-shroom-clouds/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-16T16:58+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zd71d8c0e",
+   "sez": "cultura",
+   "titolo": "Ciotole di storia: la migrazione cinese raccontata a tavola",
+   "orig": "I grew up eating bowls of Chinese migration history. You?",
+   "lead": "Un autore racconta come la cucina della sua famiglia custodisse la storia della migrazione cinese. Per i suoi la cena era un momento quasi sacro: ogni giorno tutti dovevano riunirsi a tavola, qualunque fossero gli impegni o l'umore di ciascuno. Al centro della tavola c'era quasi sempre un pesce intero al vapore, di solito spigola. Veniva servito con zenzero, cipollotto, olio e salsa di soia, insieme a molti altri piatti. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Nel corso di secoli di emigrazione, le comunità cinesi all'estero hanno adattato le loro ricette alle tradizioni e agli ingredienti dei Paesi in cui si sono stabilite. Il pesce intero al vapore è un piatto tipico della cucina cantonese. È spesso associato all'abbondanza e alle occasioni in cui la famiglia si riunisce."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/opinion/world-opinion/article/3370657/i-grew-eating-bowls-chinese-migration-history-you?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T01:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zcf1790bd",
+   "sez": "viaggi",
+   "titolo": "Sagre e feste vicino a Roma nel fine settimana",
+   "orig": "Le sagre e le feste vicino Roma nel weekend: dalla seppia alla castagna, tutti gli appuntamenti",
+   "lead": "Nel fine settimana i borghi intorno a Roma ospitano numerose sagre e feste. Il programma va da quelle dedicate alla seppia a quelle legate alla castagna. L'articolo raccoglie tutti gli appuntamenti in calendario. Sottolinea anche che chi visita questi paesi viene accolto più come ospite che come semplice turista, da comunità desiderose di far conoscere il proprio territorio e le proprie tradizioni. Lo riferisce Il Messaggero – Roma.",
+   "more": [
+    "In autunno le sagre sono molto diffuse nel Lazio, come nel resto dell'Italia. Celebrano i prodotti tipici della stagione, come castagne, funghi e vino nuovo. Sono anche un'occasione importante per il turismo nei piccoli centri."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/metropoli/roma_sagre_weekend_vicino_cosa_fare-9830887.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zbf0c422c",
+   "sez": "economia",
+   "titolo": "Eurallumina, lavoratori e sindacati pronti alla mobilitazione",
+   "orig": "Eurallumina, vertenza senza sbocco: lavoratori e sindacati pronti alla mobilitazione",
+   "lead": "I lavoratori dell'Eurallumina di Portovesme, in Sardegna, e i sindacati annunciano che riprenderanno le proteste perché, dicono, «la pazienza è finita». La vertenza che riguarda lo stabilimento non ha ancora trovato una soluzione. L'azienda è il primo anello della filiera italiana dell'alluminio. La nuova mobilitazione nasce dalla mancanza di risposte sul futuro dell'impianto. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "L'Eurallumina si trova nel Sulcis, nel sud-ovest della Sardegna. Lo stabilimento produce allumina, la materia prima da cui si ricava l'alluminio. È fermo da anni e intorno al suo rilancio si sono intrecciati il tema del costo dell'energia e quello delle sanzioni che riguardano la proprietà, legata a capitali russi."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/eurallumina-vertenza-senza-sbocco-lavoratori-e-sindacati-pronti-mobilitazione-AJFwE4mB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T14:56+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zf47dedde",
+   "sez": "tech",
+   "titolo": "Tre smartphone provano a rompere l'uniformità del design",
+   "orig": "Three devices counter smartphone sameness with new features, design and form factors",
+   "lead": "Tecno, TCL e Xiaomi hanno presentato nuovi smartphone che cercano di distinguersi da un formato ormai molto uniforme. I tre dispositivi propongono funzioni nuove, scelte di design diverse e forme alternative rispetto ai modelli più comuni. L'intento è offrire qualcosa di diverso in un mercato in cui molti telefoni si somigliano. Lo riferisce Wallpaper*.",
+   "more": [
+    "Da anni il mercato degli smartphone segue un modello quasi standard: una lastra rettangolare con uno schermo che occupa quasi tutto il frontale. Per differenziarsi, i produttori sperimentano schermi pieghevoli, materiali particolari e funzioni dedicate, come quelle per la fotografia."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/tech/new-smartphones-by-tecno-tcl-and-xiaomi-review",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T11:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zfba5fa44",
+   "sez": "mondo",
+   "titolo": "Dolore, le donne ne soffrono più degli uomini",
+   "orig": "Dolore: soffrono di più gli uomini o le donne?",
+   "lead": "Uno studio condotto su oltre sei milioni di persone in tutto il mondo ha esaminato la diffusione del dolore. Il mal di schiena risulta il disturbo doloroso più comune a livello globale. La ricerca mostra inoltre che le donne riferiscono più dolore rispetto agli uomini. I risultati offrono un quadro su larga scala di come il dolore si distribuisce nella popolazione. Lo riferisce Focus.",
+   "more": [
+    "La lombalgia è una delle principali cause di disabilità nel mondo. Le differenze tra donne e uomini nella percezione del dolore possono avere diverse origini. Tra queste vengono considerati fattori biologici, come gli ormoni, ma anche fattori psicologici e sociali."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/salute/il-dolore-fisico-nel-mondo-soffrono-piu-gli-uomini-o-le-donne",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T09:00+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z1ead4e66",
+   "sez": "musica",
+   "titolo": "Becky G chiude a New York il festival per la Giornata della salute mentale",
+   "orig": "Becky G Brings World Mental Health Day Festival to a Powerful Close in NYC & More Uplifting Moments",
+   "lead": "La cantante Becky G si è esibita a New York nel concerto di chiusura di un festival dedicato alla Giornata mondiale della salute mentale. L'articolo raccoglie anche altre notizie dal mondo della musica. BMI ha avviato iniziative per sostenere le autrici della musica messicana. Lin-Manuel Miranda riceverà invece il Premio Corazón Latino di iHeartRadio. Lo riferisce Billboard.",
+   "more": [
+    "La Giornata mondiale della salute mentale si celebra ogni anno il 10 ottobre. Ha lo scopo di sensibilizzare l'opinione pubblica sui disturbi mentali e sull'accesso alle cure. Becky G è una cantante statunitense di origine messicana, molto popolare nella musica latina."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/latin/becky-g-world-mental-health-day-latin-grammys-leading-ladies-1236360559/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T14:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z1319f086",
+   "sez": "salute",
+   "titolo": "Ospedali, le cliniche della longevità come nuovo affare",
+   "orig": "Hospitals’ next lucrative bet — longevity clinics",
+   "lead": "L'ultima puntata di «The Readout LOUD», il podcast di STAT dedicato alle biotecnologie, parla del settore della longevità, oggi in forte crescita. Al centro della discussione ci sono gli ospedali, che vedono nelle cliniche della longevità una possibile nuova fonte di guadagno. Si tratta di servizi pensati per prolungare la vita in buona salute. La puntata esamina perché questo mercato stia attirando l'interesse delle strutture sanitarie. Lo riferisce STAT.",
+   "more": [
+    "Le cliniche della longevità offrono controlli approfonditi, test genetici e programmi personalizzati di prevenzione. Spesso questi servizi sono a pagamento e non sono coperti dalle assicurazioni sanitarie. Le prove scientifiche sull'efficacia di molti di questi interventi sono ancora limitate."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-16T15:34+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z50414886",
+   "sez": "cultura",
+   "titolo": "Totti nel suo libro: «Pier Silvio Berlusconi mi ha salvato la vita»",
+   "orig": "“Pier Silvio Berlusconi mi ha salvato la vita. Non volevo fare la fine di mio padre, ho detto: ‘Se devo morì, voglio morì a casa mia, non rinchiuso qui dentro senza rivedere i miei figli”: il racconto di Totti nel suo libro",
+   "lead": "Nel suo libro Francesco Totti racconta di aver avuto il Covid-19 nell'autunno del 2020, con una polmonite bilaterale grave. Era poche settimane dopo la morte del padre. Convinto di non farcela, l'ex capitano della Roma riunì i figli a distanza di sicurezza in una stanza della sua villa. Scrive che voleva morire a casa, non chiuso in un ospedale senza poter rivedere i figli. Attribuisce a Pier Silvio Berlusconi il merito di avergli salvato la vita. Lo riferisce Il Fatto Quotidiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/17/totti-pier-silvio-berlusconi-mi-ha-salvato-la-vita-non-volevo-fare-la-fine-di-mio-padre-ho-detto-se-devo-mori-voglio-mori-a-casa-mia-non-rinchiuso-qui-dentro-senza-rivedere-i-miei-figli/8541828/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T14:46+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zaa18af44",
+   "sez": "viaggi",
+   "titolo": "Il vantaggio più ambito negli hotel? L'accesso VIP ai grandi eventi sportivi",
+   "orig": "The Most Sought After Hotel Amenity? VIP Access to the World's Best Sports Events",
+   "lead": "Nel mondo dell'ospitalità di alto livello cambia ciò che i clienti considerano il servizio più prezioso. Secondo un'analisi della rivista di viaggi, oggi il vero valore aggiunto di un albergo non sta più nella camera o nella spa. Sta nella possibilità di ottenere posti in prima fila e un accesso ravvicinato ai campioni durante i principali eventi sportivi internazionali. È una tendenza che sposta l'attenzione dal soggiorno in sé all'esperienza esclusiva che l'hotel riesce a garantire. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "Il cosiddetto turismo sportivo è un segmento in crescita da anni: grandi eventi come tornei di tennis, Gran Premi di Formula 1 o finali calcistiche attirano visitatori disposti a spendere molto. Gli alberghi di lusso puntano sempre più sulle esperienze, cioè su servizi unici e difficili da ottenere, per distinguersi dalla concorrenza."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/the-most-sought-after-hotel-amenity-vip-access-to-the-worlds-best-sports-events",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T11:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z441ed289",
+   "sez": "manga",
+   "titolo": "Nuovo trailer per l'anime «Full Clearing Another World under a Goddess with Zero Believers»",
+   "orig": "Full Clearing Another World under a Goddess with Zero Believers Anime Reveals New Trailer",
+   "lead": "È stato diffuso un nuovo trailer dell'anime «Full Clearing Another World under a Goddess with Zero Believers», tratto da una serie di light novel di genere isekai fantasy. L'adattamento animato sarà disponibile in streaming sulla piattaforma Crunchyroll, che ne cura la distribuzione. Il filmato offre ai fan un nuovo assaggio della serie, ambientata in un altro mondo e legata alla figura di una dea priva di fedeli, come suggerisce il titolo stesso dell'opera. Lo riferisce Crunchyroll News.",
+   "more": [
+    "L'isekai è uno dei generi più popolari dell'animazione giapponese: racconta di protagonisti trasportati o reincarnati in un mondo diverso, spesso fantastico e con regole simili a quelle dei videogiochi di ruolo. Molti di questi anime nascono da light novel, romanzi brevi illustrati molto diffusi in Giappone."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/17/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-trailer",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T12:42+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z14ae87a9",
+   "sez": "ingegneria",
+   "titolo": "Uno studio di Brooklyn ripensa gli oggetti della vita quotidiana",
+   "orig": "A Brooklyn design studio reframes the objects of everyday life",
+   "lead": "Lo studio di design Sin, con sede a Brooklyn, a New York, ha presentato una nuova collezione di oggetti di uso quotidiano. Il progetto indaga il potenziale espressivo del metallo, materiale scelto per dare una forma nuova a strumenti e accessori comuni. L'obiettivo è reinterpretare le cose che usiamo ogni giorno, trasformandole in pezzi capaci di unire funzione ed estetica. Lo riferisce Wallpaper*.",
+   "more": [
+    "Il design di prodotto si occupa di oggetti destinati all'uso quotidiano, cercando un equilibrio tra funzionalità, materiali e aspetto. Il metallo è apprezzato per resistenza e durata, ma permette anche finiture e forme molto diverse, dalla lucidatura alla satinatura, che ne cambiano il carattere visivo."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/design-interiors/interior-accessories/virginia-sin-metal-objects-ritual-collection",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T11:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z0d1a9208",
+   "sez": "musica",
+   "titolo": "Miley Cyrus torna dal vivo alla Hollywood Bowl: «Sto vivendo tutto ciò che ho sempre desiderato»",
+   "orig": "‘I’m Experiencing Everything I’ve Ever Wanted’: Recapping Miley’s Live Return, On Her Own Terms",
+   "lead": "Miley Cyrus è tornata a esibirsi dal vivo con il primo di due concerti, entrambi esauriti, alla Hollywood Bowl di Los Angeles, uno dei palchi più celebri degli Stati Uniti. La cantante ha scelto di riprendere l'attività live alle proprie condizioni, e dal palco ha espresso tutta la sua soddisfazione dicendo di vivere ciò che ha sempre desiderato. La rivista ha ricostruito i momenti principali della serata. Lo riferisce Billboard.",
+   "more": [
+    "La Hollywood Bowl è un anfiteatro all'aperto di Los Angeles inaugurato negli anni Venti, famoso per la sua conchiglia acustica e per aver ospitato artisti di ogni genere. Miley Cyrus negli ultimi anni ha limitato i grandi tour, rendendo le sue apparizioni dal vivo particolarmente attese."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/lists/miley-hollywood-bowl-live-return-recap/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T08:09+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z82bf15b0",
+   "sez": "salute",
+   "titolo": "Come il sonno profondo aiuta muscoli, metabolismo e cervello",
+   "orig": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+   "lead": "Un gruppo di ricercatori ha individuato un rapporto reciproco tra sonno e ormone della crescita, mostrando come il cervello bilanci con precisione il recupero fisico e lo stato di veglia. Secondo gli scienziati, la scoperta potrebbe spiegare perché dormire male danneggi il metabolismo e la salute cerebrale. I risultati, inoltre, potrebbero aprire la strada a nuove terapie per i disturbi del sonno e per alcune malattie neurologiche. Lo riferisce ScienceDaily – Medicina.",
+   "more": [
+    "L'ormone della crescita, prodotto dall'ipofisi, non serve solo durante lo sviluppo: negli adulti contribuisce a mantenere muscoli e ossa e a regolare l'uso dei grassi. Gran parte della sua produzione avviene durante il sonno profondo, la fase in cui l'attività cerebrale rallenta e il corpo si dedica al recupero."
+   ],
+   "fonti": [
+    {
+     "n": "ScienceDaily – Medicina",
+     "p": "US",
+     "c": "Rockville",
+     "u": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T01:14-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z4ef760cb",
+   "sez": "tech",
+   "titolo": "Cina, i divieti all'export di tecnologie IA: costi nel breve periodo, vantaggi nel lungo",
+   "orig": "China’s proposed AI tech export bans may create short-term costs, long-term gains: analysts",
+   "lead": "La Cina ha proposto divieti e controlli sull'esportazione di tecnologie di intelligenza artificiale, con l'obiettivo di rafforzare il controllo di Pechino su un settore considerato strategico. Secondo diversi analisti, le misure potrebbero comportare costi nel breve periodo ma benefici nel lungo, pur mettendo in ombra le prospettive commerciali degli sviluppatori cinesi nella corsa globale all'IA. Le nuove regole arrivano mentre crescono i timori per i rischi dei sistemi avanzati, dopo una serie di attacchi informatici. Lo riferisce South China Morning Post – Tecnologia.",
+   "more": [
+    "I controlli sulle esportazioni tecnologiche sono strumenti con cui gli Stati limitano la vendita all'estero di prodotti ritenuti sensibili per la sicurezza nazionale. Gli Stati Uniti li applicano da anni ai chip avanzati destinati alla Cina; l'intelligenza artificiale è diventata un terreno centrale della competizione tra le due potenze."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Tecnologia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/tech/big-tech/article/3371247/chinas-proposed-ai-tech-export-bans-may-create-short-term-costs-long-term-gains-analysts?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T12:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z2dc23414",
+   "sez": "cultura",
+   "titolo": "Daverio e i canoni della bellezza, dall'abbronzatura di Coco Chanel alle curve di Rubens",
+   "orig": "“L’eleganza non è sovrabbondanza, ma sottrazione”: dall’abbronzatura di Coco Chanel alle curve di Rubens, Philippe Daverio svela come la storia ha cambiato i canoni della bellezza nel suo libro postumo",
+   "lead": "Esce un libro postumo di Philippe Daverio dedicato a come la storia abbia trasformato i canoni della bellezza e dell'eleganza. Il critico d'arte ripercorre i cambiamenti del gusto, dalle forme generose dipinte da Rubens all'abbronzatura resa di moda da Coco Chanel. Nel volume mostra come molti capi di oggi, dalle scarpe stringate alla giacca maschile di derivazione militare, siano veri reperti storici, sostenendo che l'eleganza nasce dalla sottrazione e non dall'eccesso. Lo riferisce Il Fatto Quotidiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/17/leleganza-non-e-sovrabbondanza-ma-sottrazione-dallabbronzatura-di-coco-chanel-alle-curve-di-rubens-philippe-daverio-svela-come-la-storia-ha-cambiato-i-canoni-della-bellezza-ne/8541814/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T14:09+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z200393ac",
+   "sez": "manga",
+   "titolo": "Sette personaggi di Boruto che Naruto non può sconfiggere dopo Shippuden",
+   "orig": "7 Boruto Characters Naruto Cannot Defeat After Shippuden",
+   "lead": "Alla fine di Naruto Shippuden, Naruto Uzumaki era il personaggio più forte della saga. Nel seguito, Boruto, diversi nuovi personaggi sono però riusciti a superarlo in potenza. Un approfondimento della testata specializzata elenca sette figure dell'universo di Boruto che il celebre protagonista, nella sua versione di fine Shippuden, non sarebbe in grado di battere, mettendo a confronto i livelli di forza tra le due serie. Lo riferisce CBR – Anime.",
+   "more": [
+    "Naruto è uno dei manga più venduti di sempre, creato da Masashi Kishimoto. Shippuden è la seconda parte della storia, con i protagonisti adolescenti. Boruto ne è il seguito e racconta le avventure del figlio di Naruto, introducendo nuovi nemici sempre più potenti."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/boruto-characters-naruto-cannot-defeat/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T14:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zc997f183",
+   "sez": "italia",
+   "titolo": "Chicco Lazzaretti dei «Ragazzi della 3ª C» diventa monologhista tv: «Non vedo l'ora di votare Meloni»",
+   "orig": "Caro Chicco Lazzaretti, ragazzo della Terza C, che male ti abbiamo fatto?",
+   "lead": "Fabio Ferrari, noto al pubblico per aver interpretato Chicco Lazzaretti nella serie degli anni Ottanta «I ragazzi della 3ª C», è diventato monologhista nei programmi televisivi vicini alla destra. L'attore ha dichiarato apertamente il proprio orientamento politico, affermando di non vedere l'ora di votare per Giorgia Meloni. Il quotidiano commenta con tono ironico la nuova veste del personaggio, rivolgendosi direttamente a lui. Lo riferisce la Repubblica.",
+   "more": [
+    "«I ragazzi della 3ª C» è stata una sitcom di grande successo trasmessa da Italia 1 tra il 1987 e il 1989, ambientata in un liceo romano. Chicco Lazzaretti, il compagno di classe sbruffone e ricco, era uno dei personaggi più popolari della serie."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/17/news/fabio_ferrari_chicco_terza_c_faccia_feroce_della_destra-425653723/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-16T23:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z547065a7",
+   "sez": "ingegneria",
+   "titolo": "La Thistle Creek House di Assembly Archive immersa nel paesaggio del Wyoming",
+   "orig": "Assembly Archive’s Thistle Creek House is embedded in the Wyoming landscape",
+   "lead": "Lo studio Assembly Archive ha realizzato la Thistle Creek House, un'abitazione costruita nella valle di Jackson Hole, nel Wyoming, negli Stati Uniti. La casa si distingue per l'eleganza delle linee e per una facciata in legno carbonizzato, pensata per integrarsi nel paesaggio circostante. Dalla struttura si gode una vista spettacolare sulle montagne della catena del Teton, che diventano parte integrante del progetto. Lo riferisce Wallpaper*.",
+   "more": [
+    "Il legno carbonizzato, ispirato alla tecnica giapponese chiamata shou sugi ban, consiste nel bruciare in superficie le tavole: lo strato annerito protegge il materiale da umidità, insetti e intemperie, aumentandone la durata. La catena del Teton è uno dei paesaggi montani più celebri degli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/architecture/residential/assembly-archive-thistle-creek-house-jackson-hole-valley",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T08:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z12972da3",
+   "sez": "salute",
+   "titolo": "Un nuovo farmaco fa regredire la steatosi epatica grave riparando l'intestino",
+   "orig": "New drug reverses severe fatty liver disease by repairing the gut",
+   "lead": "Un gruppo di scienziati ha scoperto che un potenziale nuovo farmaco è in grado di far regredire la forma grave di fegato grasso in modelli animali. Il composto agisce ripristinando la salute dell'intestino e impedendo che sostanze dannose raggiungano il fegato. Secondo i ricercatori, il risultato potrebbe aprire la strada a nuove cure per le malattie epatiche e, potenzialmente, per altre patologie serie, comprese quelle cardiovascolari. Lo riferisce ScienceDaily – Medicina.",
+   "more": [
+    "La steatosi epatica, o fegato grasso, è l'accumulo di grassi nelle cellule del fegato ed è spesso legata a obesità e diabete. Nelle forme gravi può causare infiammazione, fibrosi e cirrosi. Intestino e fegato sono collegati dalla vena porta, perciò ciò che attraversa la parete intestinale arriva direttamente al fegato."
+   ],
+   "fonti": [
+    {
+     "n": "ScienceDaily – Medicina",
+     "p": "US",
+     "c": "Rockville",
+     "u": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T09:45-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "ze691dafc",
+   "sez": "tech",
+   "titolo": "La carta di credito IA di Kimi trasforma le spese in potenza di calcolo, ma con limiti",
+   "orig": "Reporter’s notebook: Kimi’s AI credit card turns spending into computing quotas – with limits",
+   "lead": "Moonshot AI, la start-up cinese che ha sviluppato l'assistente Kimi, ha scelto una strada nuova per portare l'intelligenza artificiale ai consumatori: una carta di credito che converte le spese in quote di calcolo per i servizi IA. Il prodotto, realizzato con Agricultural Bank of China e American Express, è presentato come la prima carta di credito nativa IA al mondo. Un giornalista l'ha provata, trovando l'esperienza interessante ma con alcuni limiti. Lo riferisce South China Morning Post – Tecnologia.",
+   "more": [
+    "In Cina molte aziende di intelligenza artificiale faticano a convincere gli utenti a pagare abbonamenti, anche per la forte concorrenza di servizi gratuiti. Legare i benefici a una carta di credito ricorda i programmi a punti delle banche, dove gli acquisti generano premi spendibili."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Tecnologia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/tech/tech-trends/article/3371226/reporters-notebook-kimis-ai-credit-card-turns-spending-computing-quotas-limits?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T08:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zf00c5eed",
+   "sez": "economia",
+   "titolo": "Confindustria Mantova, il 19 ottobre l'assemblea su geopolitica, Europa e industria",
+   "orig": "Confindustria Mantova, il 19 ottobre l'assemblea su geopolitica, Europa e industria",
+   "lead": "Il 19 ottobre il Teatro Bibiena di Mantova ospiterà l'81ª Assemblea generale di Confindustria Mantova. L'incontro sarà dedicato a geopolitica, Europa e industria, con un confronto su infrastrutture, politica industriale, energia e competenze. Tra gli ospiti sono attesi il presidente di Confindustria Emanuele Orsini, il viceministro Edoardo Rixi ed Emma Marcegaglia. L'evento sarà trasmesso in diretta sui canali televisivi e in streaming sul sito della testata. Lo riferisce Sky TG24.",
+   "more": [
+    "Confindustria è la principale associazione delle imprese manifatturiere e di servizi in Italia ed è organizzata in sedi territoriali, che tengono ogni anno le proprie assemblee. Il Teatro Bibiena, del Settecento, è celebre anche perché vi si esibì un giovanissimo Mozart."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/economia/2026/10/17/confindustria-mantova",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z9ae02efd",
+   "sez": "viaggi",
+   "titolo": "Venti negozi straordinari per cui vale la pena viaggiare, scelti dai negozianti",
+   "orig": "20 Extraordinary Shops Worth Traveling For, Chosen by The Shopkeepers",
+   "lead": "La rivista di viaggi ha raccolto una selezione di venti negozi considerati meritevoli di un viaggio, indicati direttamente da altri commercianti. La lista spazia da attività di famiglia con oltre cento anni di storia a boutique contemporanee. Ciò che accomuna questi luoghi, secondo la selezione, è la capacità di trasmettere un forte legame con il territorio in cui si trovano e una particolare attenzione all'artigianato e alla qualità del lavoro manuale. Lo riferisce Condé Nast Traveler.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/gallery/20-extraordinary-shops-worth-traveling-for-chosen-by-the-shopkeepers",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-16T18:13+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z3d903d6a",
+   "sez": "manga",
+   "titolo": "Il nuovo film di Gundam avrà un modellino Gunpla in uscita un mese prima",
+   "orig": "Gundam's New Movie Gets First-Ever Gunpla Release 1 Month Early",
+   "lead": "I fan di Mobile Suit Gundam potranno mettere le mani su un modellino Gunpla legato al nuovo film «SEED Freedom Zero» con un mese di anticipo rispetto all'arrivo della pellicola nelle sale. Si tratta del primo modello da costruire dedicato a questo nuovo capitolo della saga. L'uscita anticipata permetterà agli appassionati di entrare nel mondo del film ancor prima di vederlo al cinema. Lo riferisce CBR – Anime.",
+   "more": [
+    "Gundam è una storica saga giapponese di robot giganti nata nel 1979. I Gunpla sono kit di montaggio in plastica dei suoi mezzi, prodotti da Bandai, e rappresentano un fenomeno commerciale enorme. SEED è uno dei filoni più amati della serie, nato nei primi anni Duemila."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/gundam-seed-freedom-zero-first-gunpla-murasame-kai-december-2026/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T14:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z0aacbfed",
+   "sez": "economia",
+   "titolo": "Il grafico della settimana: la spaccatura tra i titoli dei semiconduttori",
+   "orig": "Chart of the Week: The chip stock split",
+   "lead": "Le perdite che hanno colpito i titoli delle aziende di semiconduttori in Borsa non sono state distribuite in modo uniforme. È quanto emerge dal grafico della settimana pubblicato dal quotidiano finanziario, che mette in evidenza come alcune società del settore dei chip abbiano sofferto molto più di altre. L'analisi mostra quindi una divaricazione all'interno di un comparto spesso considerato come un blocco unico dagli investitori. Lo riferisce Financial Times.",
+   "more": [
+    "I semiconduttori sono i componenti alla base di computer, smartphone e sistemi di intelligenza artificiale. Il settore comprende realtà molto diverse: progettisti di chip, produttori conto terzi, fornitori di macchinari e memorie. Per questo le diverse aziende possono reagire in modo differente agli stessi cambiamenti di mercato."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/c5ed09fe-dc65-4f05-8c12-8f74f5dc7ccd?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T09:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zca6fd1f7",
+   "sez": "sport",
+   "titolo": "Chrispin Sankale di Nyahururu vince il primo torneo di golf Fore Tee-Tees a Limuru",
+   "orig": "Nyahururu’s Chrispin Sankale wins inaugural Golf Fore Tee-Tees Tournament in Limuru",
+   "lead": "Chrispin Sankale, golfista di Nyahururu, si è aggiudicato la prima edizione del torneo Golf Fore Tee-Tees, disputato a Limuru, in Kenya. Nel corso della competizione sono stati assegnati anche premi speciali: Allan Mugusha e Joy Gichuru hanno vinto il riconoscimento per il colpo più lungo rispettivamente tra uomini e donne, mentre Stephen Karabao e Julie Bagamuhunda si sono imposti nella prova del colpo più vicino alla bandiera. Lo riferisce Citizen Digital.",
+   "more": [
+    "Nei tornei di golf amatoriali sono comuni premi speciali come il «Longest Drive», per il tiro più lungo dalla partenza su una buca stabilita, e il «Nearest to the Pin», per la palla fermatasi più vicina alla bandiera su una buca corta."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/nyahururus-chrispin-sankale-wins-inaugural-golf-fore-tee-tees-tournament-in-limuru-n392214",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-17T09:16+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z1cb22485",
+   "sez": "ingegneria",
+   "titolo": "Giocare con la luce: come i designer rendono intimi i concerti negli stadi",
+   "orig": "Playing with light: how designers are making stadium shows feel intimate",
+   "lead": "I light designer Tobias Rylander e Michael Straun, che hanno lavorato tra gli altri per Beyoncé, Chappell Roan e The 1975, spiegano le tecniche con cui riescono a far sembrare piccola un'arena. I due raccontano in particolare il lavoro svolto per gli spettacoli di Hayley Williams, nei quali l'illuminazione viene usata per creare un senso di vicinanza tra l'artista e il pubblico anche in spazi molto grandi. Lo riferisce Wallpaper*.",
+   "more": [
+    "Il light design è la progettazione dell'illuminazione per spettacoli e concerti. Attraverso colori, intensità e direzione dei fasci luminosi può concentrare l'attenzione su un punto, nascondere parti del palco o modificare la percezione delle dimensioni di uno spazio. Hayley Williams è la cantante dei Paramore."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/art/music/lighting-designers-tobias-rylander-and-michael-straun-interview",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T07:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z08b1be7b",
+   "sez": "musica",
+   "titolo": "Sam Carter degli Architects racconta l'ansia per le critiche online alla sua voce",
+   "orig": "Architects’ Sam Carter speaks out on impact “anxiety and constant focus” on his voice after online criticism",
+   "lead": "Sam Carter, cantante della band britannica Architects, ha parlato apertamente delle conseguenze delle critiche ricevute online sulla sua voce. Il musicista ha spiegato che l'ansia e l'attenzione costante sulle sue prestazioni vocali lo hanno messo a dura prova: più si impegnava, più durante l'estate i commenti diventavano crudeli, fino a lasciarlo esausto sia fisicamente sia emotivamente. Lo riferisce NME.",
+   "more": [
+    "Gli Architects sono un gruppo metalcore di Brighton tra i più seguiti del genere. Il canto nel metal, che alterna voce pulita e tecniche estreme come lo scream, è molto impegnativo. I commenti sui social possono avere un forte impatto sulla salute mentale degli artisti, tema sempre più discusso nel mondo musicale."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/music/architects-sam-carter-speaks-out-on-impact-anxiety-and-constant-focus-on-his-voice-after-online-criticism-3973426?utm_source=rss&utm_medium=rss&utm_campaign=architects-sam-carter-speaks-out-on-impact-anxiety-and-constant-focus-on-his-voice-after-online-criticism",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T11:12+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z8ce540d0",
+   "sez": "salute",
+   "titolo": "Il nuovo microscopio di Stanford mostra le cellule vive come mai prima",
+   "orig": "Stanford’s new microscope reveals living cells like never before",
+   "lead": "Alcuni scienziati dell'Università di Stanford, negli Stati Uniti, hanno sviluppato un microscopio innovativo capace di mostrare in tempo reale il funzionamento interno delle cellule vive. Lo strumento non richiede le marcature fluorescenti, che possono alterare le osservazioni. Secondo i ricercatori, la tecnologia potrebbe offrire nuove conoscenze sul cancro, sulle malattie infettive e sul modo in cui i farmaci interagiscono con le cellule. Lo riferisce ScienceDaily – Medicina.",
+   "more": [
+    "In biologia si usano spesso sostanze fluorescenti per rendere visibili le strutture delle cellule al microscopio. Queste marcature però possono essere tossiche o modificare il comportamento cellulare. Le tecniche che ne fanno a meno permettono di osservare le cellule in condizioni più vicine a quelle naturali."
+   ],
+   "fonti": [
+    {
+     "n": "ScienceDaily – Medicina",
+     "p": "US",
+     "c": "Rockville",
+     "u": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-16T21:06-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z91c59707",
+   "sez": "tech",
+   "titolo": "Tornano i cannoni sulle navi da guerra: contro i droni i missili costano troppo",
+   "orig": "Il ritorno dei cannoni sulle grandi navi da guerra: contro i droni i missili costano troppo",
+   "lead": "Nella difesa navale si torna a puntare sui cannoni. Il motivo è economico: un drone da poche migliaia di euro può costringere una nave da guerra a lanciare un missile che ne costa milioni. Proprio questo squilibrio tra il costo della minaccia e quello della risposta sta riportando l'artiglieria al centro delle strategie di protezione delle grandi unità militari. Lo riferisce Il Messaggero.",
+   "more": [
+    "I droni a basso costo sono diventati una minaccia diffusa, come mostrato dagli attacchi alle navi nel Mar Rosso e dalla guerra in Ucraina. Usare missili antiaerei contro di essi rischia di esaurire rapidamente scorte costose. Cannoni con munizioni avanzate offrono una difesa meno cara per ogni colpo."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/navi_guerra_cannoni_intelligenti_droni_missili_costi-9831044.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z61ab2dea",
+   "sez": "viaggi",
+   "titolo": "Una Grecia per tutte le stagioni: viaggio d'autunno nel Peloponneso",
+   "orig": "A Greece for all seasons: my autumn roadtrip through the Peloponnese",
+   "lead": "Un viaggio fuori stagione attraverso il Peloponneso, in Grecia, rivela villaggi bizantini, spiagge deserte e taverne accoglienti. L'autore racconta il suo itinerario in auto in autunno, a partire dall'attraversamento della strada rialzata che collega la piccola isola fortificata di Monemvasia alla costa sud-orientale della penisola. Lì ricorda il poeta Yiannis Ritsos, che visse a Monemvasia in una casa oggi trasformata in museo vicino alle mura del castello. Lo riferisce The Guardian – Viaggi.",
+   "more": [
+    "Il Peloponneso è la grande penisola meridionale della Grecia, ricca di siti archeologici e medievali. Monemvasia è una città fortificata su uno sperone roccioso, legata alla terraferma da un sottile passaggio. Yiannis Ritsos è stato uno dei più importanti poeti greci del Novecento."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Viaggi",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/travel/2026/oct/17/peloponnese-greece-road-trip-autumn",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T06:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z636de920",
+   "sez": "manga",
+   "titolo": "Gli otto migliori anime fantasy del 2026",
+   "orig": "8 Best New Fantasy Anime of 2026",
+   "lead": "Il 2026 si sta rivelando un anno molto ricco per l'animazione giapponese, soprattutto nel genere fantasy. Il sito specializzato CBR ha stilato una classifica delle otto migliori nuove serie fantasy uscite quest'anno. Tra i titoli che hanno conquistato il pubblico spiccano Witch Hat Atelier e Magic Knight Rayearth, citati come esempi delle novità più apprezzate. Secondo la testata, la produzione di quest'anno rappresenta una vera miniera d'oro per chi ama storie di magia e mondi immaginari. Lo riferisce CBR – Anime.",
+   "more": [
+    "Il fantasy è uno dei generi più popolari dell'animazione giapponese. Molte serie nascono da manga di successo e vengono adattate in anime dagli studi di animazione. Magic Knight Rayearth è un'opera del collettivo Clamp, nata negli anni Novanta. Witch Hat Atelier è invece un manga più recente, apprezzato per i suoi disegni ricchi di dettagli."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/2026-best-new-fantasy-anime/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T13:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z7241a988",
+   "sez": "cultura",
+   "titolo": "Malawi, Bushiri dona 8 milioni di kwacha per il libro del profeta Hara",
+   "orig": "Bushiri splashes MK8m on Prophet Hara’s book",
+   "lead": "In Malawi il predicatore Justice Hara, noto come «The Game Changer», ha ringraziato pubblicamente due leader religiosi, Shepherd Bushiri e Khumbo Joram. I due hanno sostenuto con una forte somma di denaro il suo nuovo libro. Secondo il titolo dell'articolo, Bushiri ha speso 8 milioni di kwacha malawiani. I ringraziamenti sono arrivati dopo la presentazione del volume, un evento molto seguito che si è svolto a Lilongwe, la capitale del Paese, il 14 ottobre. Lo riferisce Nyasa Times.",
+   "more": [
+    "Il kwacha è la moneta del Malawi, Paese dell'Africa sud-orientale. Nella regione le chiese evangeliche e pentecostali sono molto diffuse e influenti. Alcuni predicatori, che si fanno chiamare «profeti», sono personaggi molto noti e seguiti da un vasto pubblico di fedeli."
+   ],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/bushiri-splashes-mk8m-on-prophet-haras-book/?utm_source=rss&utm_medium=rss&utm_campaign=bushiri-splashes-mk8m-on-prophet-haras-book",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-17T13:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z135e83eb",
+   "sez": "mondo",
+   "titolo": "Stati Uniti, la guerra commerciale con il Canada entra nella campagna elettorale",
+   "orig": "In some U.S. states, Trump’s trade war has made Canada an election issue",
+   "lead": "In alcuni Stati americani il Canada è diventato un tema della campagna elettorale. Si avvicinano le elezioni di metà mandato negli Stati Uniti. Alcuni candidati sostengono che il modo in cui il presidente Donald Trump tratta il Canada sia un buon motivo per votare contro di lui. Al centro della questione c'è la guerra commerciale voluta da Trump, cioè i dazi e le tensioni economiche con il vicino del nord. Lo riferisce The Globe and Mail.",
+   "more": [
+    "Le elezioni di metà mandato si tengono negli Stati Uniti a metà del mandato presidenziale. In quell'occasione si rinnovano tutta la Camera dei rappresentanti e una parte del Senato. Il Canada è uno dei principali partner commerciali degli Stati Uniti, soprattutto per gli Stati di confine."
+   ],
+   "fonti": [
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/us-politics/article-us-midterms-trump-trade-war-tariffs-canada-election-issue/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-17T11:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z277c8973",
+   "sez": "cultura",
+   "titolo": "Tanzania, festa all'aeroporto per Jihan dopo il risultato storico a Miss Grand International",
+   "orig": "Jihan lands in Tanzania after making history at Miss Grand International",
+   "lead": "Centinaia di tanzaniani entusiasti si sono radunati all'aeroporto internazionale Julius Nyerere di Dar es Salaam. Erano lì per accogliere Jihan, la rappresentante del Paese al concorso di bellezza Miss Grand International. Al suo ritorno in patria la ragazza è stata festeggiata perché ha fatto la storia della Tanzania in questa competizione. L'occhiello non specifica quale risultato abbia ottenuto. Lo riferisce The Citizen.",
+   "more": [
+    "Miss Grand International è un concorso di bellezza internazionale con sede in Thailandia, a cui partecipano rappresentanti di molti Paesi. L'aeroporto Julius Nyerere di Dar es Salaam porta il nome del primo presidente della Tanzania ed è il principale scalo del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Citizen",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/entertainment/jihan-lands-in-tanzania-after-making-history-at-miss-grand-international-5635696",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T10:56+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z0498aab9",
+   "sez": "salute",
+   "titolo": "Le cellule cerebrali che dovrebbero proteggerci potrebbero favorire il declino cognitivo",
+   "orig": "Brain cells meant to protect us may be fueling cognitive decline",
+   "lead": "Un gruppo di scienziati ha individuato una causa inattesa del declino cognitivo legato all'età. Il problema riguarda alcune cellule del cervello che finora erano considerate soltanto utili. Con l'invecchiamento queste cellule possono smettere di funzionare bene e produrre quantità anomale di mielina. In questo modo danneggiano le fibre nervose e potrebbero contribuire a peggiorare la memoria e la capacità di ragionare. Lo riferisce ScienceDaily – Medicina.",
+   "more": [
+    "La mielina è una guaina di grassi e proteine che avvolge le fibre nervose. Serve a rendere più veloce la trasmissione dei segnali elettrici tra i neuroni. Nel sistema nervoso centrale la mielina è prodotta da cellule chiamate oligodendrociti. Le alterazioni della mielina sono già collegate a diverse malattie neurologiche."
+   ],
+   "fonti": [
+    {
+     "n": "ScienceDaily – Medicina",
+     "p": "US",
+     "c": "Rockville",
+     "u": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T08:44-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zaaf18b42",
+   "sez": "viaggi",
+   "titolo": "Le compagnie aeree puntano sui menu d'autore al posto delle nuove cabine",
+   "orig": "Airlines Can’t Upgrade Every Plane – So They’re Upgrading the Menu",
+   "lead": "Le compagnie aeree non possono rinnovare tutti i loro aerei: installare cabine nuove costa molto, è complicato e richiede tempi lunghi. Per questo molte puntano sul cibo servito a bordo. Affidano i menu a chef famosi per offrire ai passeggeri un'esperienza più raffinata in modo più veloce. È anche un modo per giustificare i prezzi alti dei biglietti nelle classi più costose. Lo riferisce Skift.",
+   "more": [
+    "Nel trasporto aereo le classi premium, come la business e la prima classe, portano una parte importante dei guadagni delle compagnie. Per rinnovare le cabine bisogna aspettare i fornitori di sedili e ottenere le certificazioni di sicurezza, e spesso servono anni. Cambiare i servizi a bordo, come il menu, è invece molto più rapido."
+   ],
+   "fonti": [
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/17/airlines-cant-upgrade-every-plane-so-theyre-upgrading-the-menu/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T12:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zb372271c",
+   "sez": "manga",
+   "titolo": "Sei colpi di scena di One Piece che colpiscono di più alla seconda visione",
+   "orig": "6 One Piece Plot Twists That Hit Different on a Rewatch",
+   "lead": "Il sito specializzato CBR ha scelto sei colpi di scena dell'anime One Piece che fanno ancora più effetto quando si riguarda la serie. Secondo la testata, la storia è piena di svolte che l'autore aveva preparato con indizi seminati in anticipo, in modo molto abile. Proprio per questo, rivedendo gli episodi, lo spettatore riesce a notare quei segnali che alla prima visione erano sfuggiti. Lo riferisce CBR – Anime.",
+   "more": [
+    "One Piece è un manga di Eiichiro Oda, pubblicato dal 1997. È una delle opere a fumetti più vendute di sempre. L'anime tratto dal manga va in onda dal 1999 e ha superato i mille episodi. Racconta le avventure di Monkey D. Luffy e della sua ciurma di pirati."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/one-piece-plot-twists-better-on-a-rewatch/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T03:45+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zd5a1c731",
+   "sez": "cultura",
+   "titolo": "Erbil, al via la Fiera internazionale del libro con 400 editori da 18 Paesi",
+   "orig": "Erbil International Book Fair Opens Under \"I Am Kurdistani\" Theme With 400 Publishers From 18 Countries",
+   "lead": "Ad Erbil, nel Kurdistan iracheno, apre la Fiera internazionale del libro. Il tema scelto è «Sono kurdistano». Partecipano 400 editori da 18 Paesi. Dal 21 al 31 ottobre, nel parco Sami Abdulrahman, saranno esposti oltre un milione di titoli in molte lingue, tra cui arabo, curdo, inglese, francese, tedesco, persiano e turco. Il programma comprende più di 90 eventi culturali e letterari, e alcuni libri saranno scontati di oltre il 50 per cento. Lo riferisce Kurdistan24.",
+   "more": [
+    "Erbil è il capoluogo della Regione del Kurdistan, un'area dell'Iraq settentrionale che gode di ampia autonomia. Nella regione si parlano soprattutto il curdo e l'arabo. La fiera del libro di Erbil è uno dei principali appuntamenti culturali della zona."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946648/erbil-international-book-fair-opens-under-i-am-kurdistan-theme-with-400-publishers-from-18-countries",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-17T13:10+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z3bbe878a",
+   "sez": "ingegneria",
+   "titolo": "Nei Paesi Bassi un asilo ispirato alle case sull'albero",
+   "orig": "In Moglis Baumhaus - Kita und Hort von Natrufied Architecture in Vught",
+   "lead": "A Vught, nei Paesi Bassi, è stato costruito un nuovo asilo con doposcuola che si chiama Mowgli. È stato progettato dallo studio Natrufied Architecture, che ha sede a Bergen. Gli architetti spiegano di essersi ispirati alle case sull'albero. L'edificio sembra infatti una casa sull'albero su una collina: è pensato chiaramente per i bambini ed è diverso da molti asili dal disegno più rigido. Il piano più basso ospita gli spazi per i più piccoli. Lo riferisce Baunetz.",
+   "more": [
+    "Nei Paesi Bassi gli architetti progettano spesso scuole e asili con forme giocose e materiali naturali. L'obiettivo è creare spazi su misura per i bambini. Il nome Mowgli richiama il protagonista del Libro della giungla di Rudyard Kipling, il bambino cresciuto dagli animali nella foresta."
+   ],
+   "fonti": [
+    {
+     "n": "Baunetz",
+     "p": "DE",
+     "c": "Berlino",
+     "u": "https://www.baunetz.de/meldungen/Meldungen-Kita_und_Hort_von_Natrufied_Architecture_in_Vught_10442665.html?context=4093",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T18:00+02:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z3831cf84",
+   "sez": "economia",
+   "titolo": "Libia, le occasioni crescono ma le imprese americane restano assenti",
+   "orig": "Op-Ed: Libya's Opportunities Are Getting Better - American Business Isn't Showing Up",
+   "lead": "Un articolo di opinione pubblicato in Libia sostiene che il Paese offre sempre più occasioni di affari, ma che le aziende americane non le stanno cogliendo. Come esempio l'autore cita la compagnia petrolifera Chevron. Chevron era uscita dalla Libia nel 2010 ed è tornata ufficialmente quindici anni dopo: nel febbraio 2026 ha ottenuto l'Area 106, un giacimento sulla terraferma. Lo riferisce Libya Herald.",
+   "more": [
+    "La Libia possiede le maggiori riserve di petrolio dell'Africa. Dopo la caduta di Gheddafi nel 2011, il Paese ha vissuto un lungo periodo di instabilità politica e di divisione tra governi rivali. Questa situazione ha frenato gli investimenti stranieri nel settore dell'energia."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/10/op-ed-libyas-opportunities-are-getting-better-american-business-isnt-showing-up/",
+     "angolo": "",
+     "atlas": "Libya",
+     "t": "2026-10-16T20:00+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z5497fa5a",
+   "sez": "tech",
+   "titolo": "Occhiali con intelligenza artificiale come guide turistiche: economici in Cina, ma ancora imperfetti",
+   "orig": "AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption",
+   "lead": "In Cina si stanno diffondendo gli occhiali con intelligenza artificiale, che si collegano allo smartphone e si indossano come normali occhiali da vista. Possono fare da guida turistica, scattare foto senza usare le mani e tradurre altre lingue. Nel Paese costano relativamente poco. Secondo gli analisti, piacciono sempre di più ai viaggiatori, ma alcuni problemi tecnici ne frenano ancora la diffusione di massa. Lo riferisce South China Morning Post.",
+   "more": [
+    "I cosiddetti occhiali intelligenti uniscono fotocamere, microfoni e altoparlanti a un assistente basato sull'intelligenza artificiale. La Cina ha una grande industria dell'elettronica di consumo e molti produttori in concorrenza tra loro. Anche per questo, lì i prezzi di questi dispositivi tendono a essere più bassi che altrove."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/economy/china-economy/article/3370754/ai-glasses-travel-guides-cheaper-china-technical-hitches-slow-adoption?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T13:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "ze5d60658",
+   "sez": "salute",
+   "titolo": "Una molecola creata in laboratorio riduce la beta-amiloide nei topi",
+   "orig": "Lab-designed molecule reduces amyloid beta, the protein linked to Alzheimer's disease, in mice",
+   "lead": "Un gruppo di ricerca catalano ha individuato un peptide sintetico che riduce la produzione di beta-amiloide. È la proteina legata alla malattia di Alzheimer. Lo studio è guidato dall'Istituto di bioingegneria della Catalogna (IBEC) e vi hanno collaborato il laboratorio di Míriam Royo dell'IQAC-CSIC, l'Università di Barcellona e l'IRB Barcellona. Finora i risultati sono stati ottenuti solo sui topi. Lo riferisce Medical Xpress.",
+   "more": [
+    "I peptidi sono catene corte di amminoacidi. Nell'Alzheimer la beta-amiloide si accumula nel cervello e forma delle placche, considerate uno dei segni tipici della malattia. Prima di arrivare a una cura per le persone, i risultati ottenuti sugli animali devono essere confermati da studi clinici sull'uomo."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-lab-molecule-amyloid-beta-protein.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T10:40-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z949c5e9b",
+   "sez": "cultura",
+   "titolo": "Sette passaggi segreti in Europa, dal Castello Sforzesco a Parigi",
+   "orig": "7 passaggi segreti in Europa, dal tunnel sotterraneo del Castello Sforzesco ai cunicoli di Parigi",
+   "lead": "A Milano è stato scoperto un tunnel che collega il Castello Sforzesco alla chiesa di Santa Maria delle Grazie, e non è l'unico passaggio segreto della città. Partendo da questa scoperta, la testata racconta sette passaggi nascosti in Europa. Altri cunicoli sotterranei si trovano a Roma, Firenze, Taranto, Parigi e Londra: alcuni sono già conosciuti, altri sono ancora avvolti nel mistero. Lo riferisce Geopop.",
+   "more": [
+    "Nel Medioevo e nel Rinascimento molti castelli e palazzi avevano passaggi sotterranei. Servivano per fuggire in caso di pericolo, per difendersi o per spostarsi senza essere visti. Parigi è famosa anche per le sue catacombe, una rete di antiche cave sotterranee usate in passato come ossari."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/7-passaggi-segreti-in-europa-dal-tunnel-sotterraneo-del-castello-sforzesco-ai-cunicoli-di-parigi/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T13:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z31732ccc",
+   "sez": "viaggi",
+   "titolo": "Case Airbnb da brivido per un soggiorno autunnale",
+   "orig": "These Spooky Airbnbs Offer a Fright-Filled Stay Perfect for Fall",
+   "lead": "Con l'arrivo dell'autunno e di Halloween, la rivista di viaggi Matador Network propone una selezione di alloggi Airbnb dall'atmosfera spaventosa. Sono case pensate per chi vuole passare qualche notte con un po' di paura e vivere un soggiorno diverso dal solito. L'occhiello non dice quali siano le strutture né dove si trovino. Lo riferisce Matador Network.",
+   "more": [
+    "Airbnb è una piattaforma online che mette in contatto chi affitta case o stanze per brevi periodi con chi cerca un alloggio. In autunno, vicino ad Halloween, aumenta l'interesse per luoghi a tema horror o considerati infestati. Questo fenomeno fa parte del cosiddetto turismo dell'insolito."
+   ],
+   "fonti": [
+    {
+     "n": "Matador Network",
+     "p": "US",
+     "c": "Denver",
+     "u": "https://matadornetwork.com/read/spooky-airbnbs/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-16T20:09+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z213c30df",
+   "sez": "manga",
+   "titolo": "Sette personaggi secondari degli anime più amati dei protagonisti",
+   "orig": "7 Anime Side Characters Who Stole the Protagonist’s Spotlight",
+   "lead": "Il sito specializzato CBR ha messo in fila sette personaggi secondari degli anime che hanno rubato la scena ai protagonisti delle loro serie. Tra gli esempi ci sono Satoru Gojo e Osamu Dazai. Secondo la testata, i fan apprezzano questi comprimari ancora più dei personaggi principali delle storie. Lo riferisce CBR – Anime.",
+   "more": [
+    "Satoru Gojo è uno dei personaggi di Jujutsu Kaisen, il manga di Gege Akutami. Osamu Dazai appartiene invece a Bungo Stray Dogs e prende il nome da un celebre scrittore giapponese. Nel mondo degli anime capita spesso che un personaggio secondario diventi più popolare del protagonista."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/anime-side-characters-more-popular-than-protagonists/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T02:45+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z5e2c892c",
+   "sez": "cultura",
+   "titolo": "Eswatini, lo spettacolo «Finding My Voice» dà voce alle donne",
+   "orig": "Finding My Voice play empowers women",
+   "lead": "A Mbabane, la capitale dell'eSwatini, il Mbabane Theatre Club ha ospitato «Finding My Voice». È un nuovo spettacolo scritto e interpretato da Sibonisiwe Dlamini, con la regia di Samkelo Dlamini e gli arrangiamenti vocali di Zandile Malinga. L'opera affronta temi difficili: la violenza di genere, le aspettative delle famiglie e le differenze nel modo in cui la società cresce i figli. Lo riferisce Times of Eswatini.",
+   "more": [
+    "L'eSwatini, conosciuto in passato come Swaziland, è un piccolo regno dell'Africa australe. Come in altri Paesi della regione, la violenza di genere è considerata un problema sociale molto grave. Il teatro viene spesso usato per sensibilizzare il pubblico su questo tema."
+   ],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46546/lifestyle/finding-my-voice-play-empowers-women/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-17T10:01+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zdc292af1",
+   "sez": "economia",
+   "titolo": "Il Fondo monetario approva il taglio temporaneo delle tasse in Giappone",
+   "orig": "IMF official welcomes Japan’s temporary tax cut plan",
+   "lead": "Il Fondo monetario internazionale (FMI) ha accolto con favore il piano del Giappone per ridurre le tasse in modo temporaneo. Lo ha fatto Rahul Anand, vicedirettore del Fondo e capo della missione dedicata al Giappone. Anand ha definito questo approccio «un passo molto positivo». Lo riferisce The Japan Times.",
+   "more": [
+    "Il Fondo monetario internazionale controlla regolarmente l'economia dei Paesi membri e dà consigli sulle loro scelte. Il Giappone ha uno dei debiti pubblici più alti del mondo rispetto alla sua economia. Per questo le misure fiscali di Tokyo vengono seguite con attenzione: quelle temporanee pesano meno sui conti dello Stato nel lungo periodo."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/10/17/economy/imf-official-japan-tax-cut-plan/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-17T15:46+09:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "zde863844",
+   "sez": "sport",
+   "titolo": "Cricket, Clarke critica l'India per l'esclusione di Kuldeep",
+   "orig": "'Can't believe he's not first choice': Clarke slams India over Kuldeep snub",
+   "lead": "La nazionale indiana di cricket ha escluso il lanciatore Kuldeep Yadav dalla squadra per le partite T20, e la scelta ha acceso il dibattito tra gli esperti. Tra i critici c'è l'ex giocatore australiano Michael Clarke, che si dice incredulo perché Kuldeep non sia la prima scelta. Secondo gli esperti, la sua capacità di eliminare i battitori avversari è preziosa in questo formato. Naman Dhir ha svolto bene il ruolo di secondo lanciatore a effetto. I precedenti di Kuldeep contro le Indie Occidentali, però, sollevano dubbi sulle scelte future. Lo riferisce Times of India.",
+   "more": [
+    "Il T20 è il formato più breve del cricket internazionale: ogni squadra ha a disposizione venti serie di lanci, chiamate «over». Gli spinner sono lanciatori che danno effetto alla palla. Kuldeep Yadav è un lanciatore mancino indiano. Michael Clarke è stato capitano della nazionale australiana."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/cant-believe-he-is-not-their-first-choice-former-australian-captain-slams-management-for-benching-kuldeep-yadav/articleshow/135014419.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-17T18:15+05:30"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z20a9bf05",
+   "sez": "salute",
+   "titolo": "I dati del corpo potrebbero annunciare il mal di testa con un giorno di anticipo",
+   "orig": "Body data could provide a 24-hour warning for headaches",
+   "lead": "Alcune persone che hanno subito una commozione cerebrale soffrono poi di mal di testa e stanchezza. Secondo una ricerca, questi sintomi seguono uno schema regolare. Questo schema potrebbe essere usato per avvisare i pazienti un giorno intero prima che i disturbi compaiano. L'idea è usare i dati raccolti dal corpo per prevedere l'arrivo dei sintomi. Lo riferisce Medical Xpress.",
+   "more": [
+    "La commozione cerebrale è una lesione lieve del cervello, causata da un colpo o da un forte scossone alla testa. In alcuni casi i sintomi, come mal di testa, stanchezza e difficoltà di concentrazione, durano a lungo. Dispositivi indossabili come gli smartwatch possono misurare in modo continuo parametri come il battito cardiaco e il sonno."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-body-hour-headaches.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T09:40-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z32346ce0",
+   "sez": "italia",
+   "titolo": "Il punto più basso d'Italia è in Emilia-Romagna, a 3,44 metri sotto il mare",
+   "orig": "Il punto più basso d’Italia si trova a 3,44 m sotto il livello del mare ed è in Emilia Romagna",
+   "lead": "Il punto più basso d'Italia si trova a Jolanda di Savoia, in provincia di Ferrara, in Emilia-Romagna. Qui il terreno scende fino a 3,44 metri sotto il livello del mare. Il paese si trova in una depressione della Pianura Padana. Il suo nome ricorda la figlia primogenita del re Vittorio Emanuele III. Lo riferisce Geopop.",
+   "more": [
+    "Gran parte del territorio di Ferrara era coperta da paludi e valli, prosciugate tra Ottocento e Novecento con grandi opere di bonifica. Oggi queste terre restano asciutte grazie a canali e impianti di pompaggio che tolgono l'acqua in eccesso. Anche l'abbassamento naturale del suolo contribuisce a tenere queste zone sotto il livello del mare."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/il-punto-piu-basso-ditalia-si-trova-a-344-m-sotto-il-livello-del-mare-ed-e-in-emilia-romagna/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T11:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z1191fcd3",
+   "sez": "manga",
+   "titolo": "I dieci Autobot più deboli di sempre",
+   "orig": "10 Weakest Autobots of All Time, Ranked",
+   "lead": "Il sito specializzato CBR ha stilato una classifica dei dieci Autobot più deboli di sempre. Gli Autobot sono i robot buoni dell'universo dei Transformers. Come ricorda la testata, non tutti possono essere forti come il loro capo, Optimus Prime: la classifica raccoglie i combattenti meno potenti del gruppo. Lo riferisce CBR – Anime.",
+   "more": [
+    "I Transformers sono robot capaci di trasformarsi in veicoli. Nascono negli anni Ottanta da una linea di giocattoli creata da Hasbro insieme all'azienda giapponese Takara. Il marchio è poi diventato una serie di cartoni animati, fumetti e film. Optimus Prime è il capo degli Autobot, in lotta contro i Decepticon."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/transformers-weakest-autobots-of-all-time/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T02:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "za295a826",
+   "sez": "viaggi",
+   "titolo": "Namibia, accordo tra ente del turismo e Bipa sulla regolarità delle imprese",
+   "orig": "Tourism board and Bipa join forces on business compliance",
+   "lead": "In Namibia l'ente nazionale del turismo (NTB) e l'Autorità per le imprese e la proprietà intellettuale (Bipa) hanno firmato un accordo per collaborare. L'obiettivo è migliorare la registrazione delle imprese turistiche e il rispetto delle regole. L'intesa è stata firmata venerdì dai due direttori, Sebulon Chicalu per l'NTB e Ainna Kaundu per la Bipa. Prevede più cooperazione, lo scambio di informazioni e controlli comuni sulle aziende del settore. Lo riferisce The Namibian.",
+   "more": [
+    "Il turismo è uno dei settori più importanti dell'economia della Namibia, conosciuta per il deserto del Namib e per i parchi naturali come Etosha. La registrazione ufficiale delle imprese permette allo Stato di controllare la qualità dei servizi offerti ai visitatori e la loro regolarità fiscale."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/tourism-board-and-bipa-join-forces-on-business-compliance/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-17T07:32+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z01f86fdd",
+   "sez": "cultura",
+   "titolo": "Abel Ferrara: «Il cinema come business è finito, ora tutto è in mano ad Amazon e Netflix»",
+   "orig": "Abel Ferrara : « Avant il y avait encore un business pour le cinéma. Maintenant, c’est fini, tout est entre les mains d’Amazon ou de Netflix »",
+   "lead": "Il regista americano Abel Ferrara ha pubblicato le sue memorie e, in questa occasione, ha ripercorso la sua carriera. I suoi film sono segnati dalla violenza, dal crimine e da una mascolinità distruttiva. Ferrara ha anche criticato lo stato attuale del cinema: secondo lui, un tempo esisteva ancora un vero mercato per i film, mentre oggi tutto è nelle mani di Amazon e Netflix. Lo riferisce Le Monde.",
+   "more": [
+    "Abel Ferrara, nato nel Bronx nel 1951, è un regista del cinema indipendente americano. Tra i suoi film più noti ci sono «Il cattivo tenente» e «King of New York». Da anni vive e lavora in Italia, a Roma. Le piattaforme di streaming hanno cambiato profondamente il modo in cui i film vengono prodotti e distribuiti."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/cinema/article/2026/10/17/abel-ferrara-avant-il-y-avait-encore-un-business-pour-le-cinema-maintenant-c-est-fini-tout-est-entre-les-mains-d-amazon-ou-de-netflix_6796305_3476.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T14:00+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
+   "id": "z3b5b25b8",
+   "sez": "economia",
+   "titolo": "India, annullata la sanzione del 200% a un contribuente che aveva dichiarato i redditi dopo un avviso",
+   "orig": "Man skipped ITR, declared Rs 12.9 lakh income after notice; ITAT cancels 200% penalty",
+   "lead": "In India un uomo non aveva presentato la dichiarazione dei redditi e ha ricevuto un avviso dal Fisco. Solo dopo l'avviso ha presentato la dichiarazione per l'anno d'imposta 2018-19, indicando un reddito di 12,9 lakh di rupie. Il funzionario del Fisco ha ritenuto che quel reddito sarebbe rimasto nascosto senza l'avviso e gli ha applicato una sanzione del 200%. Il tribunale d'appello tributario (ITAT) ha però annullato la sanzione. Lo riferisce Times of India.",
+   "more": [
+    "Il lakh è un'unità di misura usata in India e corrisponde a centomila: 12,9 lakh sono quindi 1,29 milioni di rupie. L'ITAT è il tribunale indiano che decide i ricorsi in materia di imposte sul reddito contro le decisioni dell'amministrazione fiscale."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/business/india-business/man-skipped-filing-itr-and-got-tax-notice-so-he-declared-rs-12-9-lakh-income-department-imposed-200-penalty-of-rs-3-99-lakh-on-taxable-amount-but-itat-cancels-it/articleshow/134992210.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-17T20:08+05:30"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:07",
+   "uscita": "17"
+  },
+  {
    "id": "zce311e36",
    "sez": "economia",
    "titolo": "Il governatore della Banca d'Inghilterra lascia la riunione del Fmi per protesta contro la Russia",
@@ -779,6 +2987,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-16T19:10-04:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/16/news/catastrofe_umanitaria_oleshky_droni_mine_accuse_reciproche_mosca_kiev-425653505/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T14:30+02:00"
     }
    ],
    "data": "17 ott",
@@ -1002,6 +3219,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-17T09:41+00:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/17/pope-leo-xiv-cleared-for-discharge-from-hospital-vatican-says",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T12:15+02:00"
     }
    ],
    "data": "17 ott",
@@ -1430,6 +3656,33 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Madagascar",
      "t": "2026-10-17T09:34+00:00"
+    },
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/17/ligue-des-champions-esperance-de-tunis-al-swehly-demain-ou-suivre-en-direct-le-match/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T12:21+00:00"
+    },
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/17/css-afad-amadou-diallo-ou-regarder-le-match-de-la-coupe-de-la-caf-en-direct/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T12:38+00:00"
+    },
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/17/es-zarzis-as-real-bamako-ou-suivre-le-match-en-direct/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T12:33+00:00"
     }
    ],
    "data": "17 ott",
@@ -2826,6 +5079,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-16T14:03+00:00"
+    },
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/uk-advises-against-all-but-essential-travel-to-saudi-arabia-amid-houthi-strikes-as-missiles-hit-yemen-airport-13600096",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T11:21+01:00"
     }
    ],
    "data": "17 ott",
@@ -3649,7 +5911,100 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zc54b3fac": "La testata riporta l'allarme sottolineando che le informazioni non sono verificabili in modo indipendente.",
   "z752024c5": "La testata esalta la qualità visiva dello spettacolo e il suo valore di ponte culturale.",
   "z83bae9da": "La testata presenta il caso come esempio replicabile anche su piccoli appezzamenti.",
-  "ze1e37b51": "La testata evidenzia il sistema di rampe e il dialogo tra interno ed esterno."
+  "ze1e37b51": "La testata evidenzia il sistema di rampe e il dialogo tra interno ed esterno.",
+  "z398a99f6": "La testata punta sulla semplicità delle ricette e sul loro carattere divertente, adatto a grandi e piccoli.",
+  "z4cf2c46b": "La testata sottolinea che la conferma delle regole attuali è l'ipotesi considerata più probabile.",
+  "z855d4f1c": "La testata evidenzia il ruolo del Cile come sede di grandi osservatori e il suo impegno per i cieli bui.",
+  "z2f9fd63a": "La testata si concentra sul trailer narrativo e sulle piattaforme e la data d'uscita del gioco.",
+  "z16af0e68": "La testata mette in luce il legame tra il ritorno delle piogge e la ripresa economica delle famiglie di pastori.",
+  "z362be387": "La testata riporta l'appello alla moderazione e l'avvertimento sui rischi del mercato secondario.",
+  "zf90ba2cc": "La testata valorizza il debutto del giovanissimo atleta nazionale nonostante le sconfitte.",
+  "ze7489b39": "La testata presenta la vicenda come uno scontro di denunce incrociate tra un giornalista e un politico di governo.",
+  "z5075a1fc": "La testata propone un confronto tra due opinioni divergenti sul valore del film.",
+  "zf10705c5": "La testata dà voce al cofondatore del festival e alle sue origini.",
+  "zae31bb44": "La testata presenta il piatto come specialità del territorio legata al pesce di lago.",
+  "z02c0c5e8": "La testata celebra il ruolo creativo delle etichette discografiche anche nell'epoca dello streaming.",
+  "zebc902b9": "La testata giudica il film deludente e ritiene sprecato il talento di Stanley Tucci.",
+  "z056efbd7": "La testata fornisce l'orario preciso dell'evento e annuncia il ritorno di Venere nel cielo mattutino.",
+  "zd7e71ea6": "La testata evidenzia lo scopo di salvataggio di animali feriti e in difficoltà.",
+  "z064ec795": "La testata sottolinea che Kiev non ha confermato l'attacco dopo l'annuncio della ripresa dei raid.",
+  "z85174d29": "La testata racconta il cambio di vita dell'ex campione come la realizzazione di un sogno.",
+  "z460cb3e7": "La testata presenta la scelta di Forbes come un riconoscimento dell'attrattiva turistica egiziana.",
+  "z4d35e661": "La testata riporta la descrizione del modello come più rapido ed efficiente e la sua ampia disponibilità.",
+  "z149042df": "La testata pone l'accento sul destino fisico dei resti della ricerca e sulla loro trasformazione artistica.",
+  "z897a97d7": "La testata valorizza la semplicità della ricetta e il suo legame con la tradizione familiare.",
+  "z3ea5a618": "La testata mette in risalto la presenza di artisti di primo piano nella colonna sonora del gioco.",
+  "z3ea85163": "La testata segnala in particolare l'avvicinamento tra Giove e Marte nel cielo mattutino.",
+  "zd58a3fab": "La testata colloca il film nel percorso di Nolan come la sua opera più intricata e personale.",
+  "z018e2567": "La testata gioca sull'effetto sorpresa di episodi paurosi in serie di altro genere.",
+  "z6a545e25": "La testata evidenzia la lettura che Oyedele dà dei segnali dei mercati sulla credibilità dell'opposizione.",
+  "z248e6b2f": "La testata evidenzia il primato economico della squadra in coincidenza con le finali.",
+  "z8dc6f743": "La testata evidenzia il piazzamento dell'Egitto rispetto agli altri Paesi africani.",
+  "z40b1a11c": "La testata evidenzia il dialogo tra la calma degli spazi monocromi e l'energia delle zone a contrasto.",
+  "zf2c81a9e": "La testata evidenzia la distanza tra molti prodotti industriali e il miso tradizionale.",
+  "za376e06a": "La testata evidenzia il dato statistico sul rischio di recidiva nel tradimento.",
+  "za2644a63": "La testata evidenzia la scelta di due attori molto noti e la continuità della regia.",
+  "zfb565c1b": "La testata evidenzia che si tratta di una candidata forte, ma la natura dell'oggetto non è ancora confermata.",
+  "zfa125242": "La testata evidenzia il legame tra l'arte prodotta dagli ospiti e il loro percorso di riabilitazione.",
+  "zd9a45de0": "La testata evidenzia una nuova aggiunta al cast vocale della serie.",
+  "z5d9f0996": "La testata evidenzia il cambio di proprietà avvenuto dopo le sanzioni britanniche.",
+  "z33c6a750": "La testata evidenzia una fonte di risparmio energetico che di solito viene trascurata.",
+  "z68c181d6": "La testata evidenzia la scoperta che gli elefanti armonizzano i loro richiami.",
+  "z42c86228": "La testata evidenzia la lunga attesa prima dell'uscita del brano.",
+  "zd71d8c0e": "La testata evidenzia il valore della cucina come memoria familiare e collettiva.",
+  "zcf1790bd": "La testata evidenzia l'accoglienza delle comunità locali verso i visitatori.",
+  "zbf0c422c": "La testata evidenzia l'esasperazione dei lavoratori per lo stallo della vertenza.",
+  "zf47dedde": "La testata evidenzia i tentativi di uscire da un design ormai standard.",
+  "zfba5fa44": "La testata evidenzia la differenza tra i sessi e la grande diffusione del mal di schiena.",
+  "z1ead4e66": "La testata evidenzia i momenti positivi del mondo della musica latina.",
+  "z1319f086": "La testata evidenzia il potenziale economico del settore per gli ospedali.",
+  "z50414886": "La testata evidenzia il racconto personale di Totti e il ruolo che attribuisce a Pier Silvio Berlusconi.",
+  "zaa18af44": "La testata evidenzia come il lusso alberghiero si stia spostando dai servizi tradizionali alle esperienze esclusive legate allo sport.",
+  "z441ed289": "La testata mette in risalto il nuovo trailer e la disponibilità della serie sulla propria piattaforma di streaming.",
+  "z14ae87a9": "La testata evidenzia l'uso espressivo del metallo nel design degli oggetti comuni.",
+  "z0d1a9208": "La testata mette in risalto il ritorno dal vivo dell'artista e la sua scelta di farlo secondo le proprie regole.",
+  "z82bf15b0": "La testata sottolinea il legame a doppio senso tra sonno e ormone della crescita e le possibili applicazioni terapeutiche.",
+  "z4ef760cb": "La testata evidenzia le valutazioni degli analisti sui costi e sui benefici delle misure e il loro legame con la sicurezza nazionale.",
+  "z2dc23414": "La testata mette in risalto la tesi del libro secondo cui l'eleganza nasce dalla sottrazione e l'origine storica degli abiti contemporanei.",
+  "z200393ac": "La testata propone un confronto tra la forza di Naruto e quella dei nuovi personaggi del seguito.",
+  "zc997f183": "La testata adotta un tono ironico verso la svolta televisiva e politica dell'attore.",
+  "z547065a7": "La testata sottolinea l'integrazione della casa nel paesaggio e la scelta del legno carbonizzato.",
+  "z12972da3": "La testata evidenzia il ruolo dell'intestino nel meccanismo del farmaco, precisando che i risultati riguardano modelli animali.",
+  "ze691dafc": "La testata racconta la prova diretta del prodotto da parte di un suo giornalista, segnalandone pregi e limiti.",
+  "zf00c5eed": "La testata mette in risalto i temi in agenda, gli ospiti di rilievo e la propria diretta dell'evento.",
+  "z9ae02efd": "La testata sottolinea che la scelta è affidata ai negozianti stessi e valorizza artigianato e identità dei luoghi.",
+  "z3d903d6a": "La testata evidenzia il carattere inedito dell'uscita anticipata del modellino rispetto al film.",
+  "z0aacbfed": "La testata sottolinea la disomogeneità delle perdite tra le aziende del comparto dei chip.",
+  "zca6fd1f7": "La testata dà spazio sia al vincitore sia ai premi speciali assegnati.",
+  "z1cb22485": "La testata dà voce ai designer per spiegare le scelte tecniche dietro l'effetto di intimità.",
+  "z08b1be7b": "La testata riporta la testimonianza diretta del cantante sull'impatto emotivo delle critiche.",
+  "z8ce540d0": "La testata evidenzia l'assenza di marcatori fluorescenti e le possibili ricadute nella ricerca medica.",
+  "z91c59707": "La testata sottolinea lo squilibrio economico tra droni e missili come motore del cambiamento.",
+  "z61ab2dea": "La testata valorizza il fascino del viaggio fuori stagione e il legame tra luoghi e letteratura.",
+  "z636de920": "La testata presenta il 2026 come un anno eccezionale per gli anime fantasy.",
+  "z7241a988": "La testata mette in risalto la generosità economica dei leader religiosi verso il libro di Hara.",
+  "z135e83eb": "La testata canadese sottolinea come la politica di Trump verso il Canada pesi sul voto americano.",
+  "z277c8973": "La testata mette l'accento sull'entusiasmo popolare per il ritorno di Jihan.",
+  "z0498aab9": "La testata sottolinea il carattere sorprendente della scoperta.",
+  "zaaf18b42": "La testata presenta i menu degli chef come una strategia commerciale rapida per le compagnie.",
+  "zb372271c": "La testata loda la cura con cui la serie anticipa i suoi colpi di scena.",
+  "zd5a1c731": "La testata evidenzia le grandi dimensioni e il carattere internazionale della fiera.",
+  "z3bbe878a": "La testata mette a confronto il progetto con gli asili tedeschi, spesso più rigidi.",
+  "z3831cf84": "La testata invita le imprese statunitensi a investire di più in Libia.",
+  "z5497fa5a": "La testata mette a confronto le potenzialità dei dispositivi e i loro limiti attuali.",
+  "ze5d60658": "La testata sottolinea la collaborazione tra numerosi centri di ricerca di Barcellona.",
+  "z949c5e9b": "La testata mette in risalto il fascino e il mistero dei passaggi sotterranei.",
+  "z31732ccc": "La testata presenta gli alloggi come un'esperienza di viaggio legata alla stagione.",
+  "z213c30df": "La testata mette l'accento sulla popolarità dei comprimari presso i fan.",
+  "z5e2c892c": "La testata sottolinea il valore dello spettacolo per l'emancipazione femminile.",
+  "zdc292af1": "La testata mette in evidenza il giudizio positivo del Fondo sul piano.",
+  "zde863844": "La testata dà spazio alle critiche contro le scelte dei selezionatori indiani.",
+  "z20a9bf05": "La testata mette l'accento sulla possibilità di prevedere i sintomi.",
+  "z32346ce0": "La testata presenta una curiosità della geografia italiana.",
+  "z1191fcd3": "La testata propone una classifica di intrattenimento per gli appassionati.",
+  "za295a826": "La testata mette in evidenza la collaborazione tra le due istituzioni.",
+  "z01f86fdd": "La testata mette in evidenza la critica del regista al potere delle piattaforme di streaming.",
+  "z3b5b25b8": "La testata spiega il caso come un esempio utile per i contribuenti."
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -4566,6 +6921,591 @@ window.EDIZIONI["2026-10-17-sera"] = {
     "Kenya"
    ],
    "pt": []
+  },
+  "z398a99f6": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4cf2c46b": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z855d4f1c": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z2f9fd63a": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z16af0e68": {
+   "n": "Medio Scebeli",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z362be387": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "zf90ba2cc": {
+   "n": "Aichi-Nagoya",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "ze7489b39": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z5075a1fc": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf10705c5": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zae31bb44": {
+   "n": "Lago di Como",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z02c0c5e8": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zebc902b9": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z056efbd7": {
+   "n": "Cielo",
+   "p": [],
+   "pt": []
+  },
+  "zd7e71ea6": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z064ec795": {
+   "n": "Ryazan",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z85174d29": {
+   "n": "Miami",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z460cb3e7": {
+   "n": "Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z4d35e661": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z149042df": {
+   "n": "Non specificato",
+   "p": [],
+   "pt": []
+  },
+  "z897a97d7": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z3ea5a618": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3ea85163": {
+   "n": "Cielo",
+   "p": [],
+   "pt": []
+  },
+  "zd58a3fab": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z018e2567": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z6a545e25": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z248e6b2f": {
+   "n": "San Francisco",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8dc6f743": {
+   "n": "Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z40b1a11c": {
+   "n": "Salonicco",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zf2c81a9e": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "za376e06a": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "za2644a63": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zfb565c1b": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zfa125242": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zd9a45de0": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z5d9f0996": {
+   "n": "Tbilisi",
+   "p": [
+    "Georgia"
+   ],
+   "pt": []
+  },
+  "z33c6a750": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z68c181d6": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z42c86228": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd71d8c0e": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zcf1790bd": {
+   "n": "Lazio",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbf0c422c": {
+   "n": "Portovesme",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf47dedde": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zfba5fa44": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z1ead4e66": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1319f086": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z50414886": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zaa18af44": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z441ed289": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z14ae87a9": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0d1a9208": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z82bf15b0": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4ef760cb": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z2dc23414": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z200393ac": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zc997f183": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z547065a7": {
+   "n": "Jackson Hole",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z12972da3": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze691dafc": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zf00c5eed": {
+   "n": "Mantova",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9ae02efd": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z3d903d6a": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z0aacbfed": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zca6fd1f7": {
+   "n": "Limuru",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z1cb22485": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z08b1be7b": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8ce540d0": {
+   "n": "Stanford",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z91c59707": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z61ab2dea": {
+   "n": "Peloponneso",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z636de920": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z7241a988": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z135e83eb": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z277c8973": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "zb372271c": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zd5a1c731": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z3bbe878a": {
+   "n": "Vught",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z3831cf84": {
+   "n": "Libia",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "z5497fa5a": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "ze5d60658": {
+   "n": "Barcellona",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z949c5e9b": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z213c30df": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z5e2c892c": {
+   "n": "Mbabane",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "zdc292af1": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zde863844": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z32346ce0": {
+   "n": "Jolanda di Savoia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za295a826": {
+   "n": "Namibia",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z3b5b25b8": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -4645,7 +7585,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z683e81dc": 1,
   "z9f367a23": 1,
   "zb69bc667": 1,
-  "ze0534c41": 1,
+  "ze0534c41": 2,
   "z341a29e5": 1,
   "z1b8efef6": 1,
   "z0fae18aa": 1,
@@ -4693,7 +7633,100 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zc54b3fac": 1,
   "z752024c5": 1,
   "z83bae9da": 1,
-  "ze1e37b51": 1
+  "ze1e37b51": 1,
+  "z398a99f6": 1,
+  "z4cf2c46b": 1,
+  "z855d4f1c": 1,
+  "z2f9fd63a": 1,
+  "z16af0e68": 1,
+  "z362be387": 1,
+  "zf90ba2cc": 1,
+  "ze7489b39": 1,
+  "z5075a1fc": 1,
+  "zf10705c5": 1,
+  "zae31bb44": 1,
+  "z02c0c5e8": 1,
+  "zebc902b9": 1,
+  "z056efbd7": 1,
+  "zd7e71ea6": 1,
+  "z064ec795": 2,
+  "z85174d29": 1,
+  "z460cb3e7": 1,
+  "z4d35e661": 1,
+  "z149042df": 1,
+  "z897a97d7": 1,
+  "z3ea5a618": 1,
+  "z3ea85163": 1,
+  "zd58a3fab": 1,
+  "z018e2567": 1,
+  "z6a545e25": 1,
+  "z248e6b2f": 1,
+  "z8dc6f743": 1,
+  "z40b1a11c": 1,
+  "zf2c81a9e": 1,
+  "za376e06a": 1,
+  "za2644a63": 1,
+  "zfb565c1b": 1,
+  "zfa125242": 1,
+  "zd9a45de0": 1,
+  "z5d9f0996": 1,
+  "z33c6a750": 1,
+  "z68c181d6": 1,
+  "z42c86228": 1,
+  "zd71d8c0e": 1,
+  "zcf1790bd": 1,
+  "zbf0c422c": 1,
+  "zf47dedde": 1,
+  "zfba5fa44": 1,
+  "z1ead4e66": 1,
+  "z1319f086": 1,
+  "z50414886": 1,
+  "zaa18af44": 1,
+  "z441ed289": 1,
+  "z14ae87a9": 1,
+  "z0d1a9208": 1,
+  "z82bf15b0": 1,
+  "z4ef760cb": 2,
+  "z2dc23414": 1,
+  "z200393ac": 1,
+  "zc997f183": 1,
+  "z547065a7": 1,
+  "z12972da3": 1,
+  "ze691dafc": 1,
+  "zf00c5eed": 1,
+  "z9ae02efd": 1,
+  "z3d903d6a": 1,
+  "z0aacbfed": 1,
+  "zca6fd1f7": 1,
+  "z1cb22485": 1,
+  "z08b1be7b": 1,
+  "z8ce540d0": 1,
+  "z91c59707": 1,
+  "z61ab2dea": 1,
+  "z636de920": 1,
+  "z7241a988": 1,
+  "z135e83eb": 2,
+  "z277c8973": 1,
+  "z0498aab9": 1,
+  "zaaf18b42": 1,
+  "zb372271c": 1,
+  "zd5a1c731": 1,
+  "z3bbe878a": 1,
+  "z3831cf84": 1,
+  "z5497fa5a": 1,
+  "ze5d60658": 1,
+  "z949c5e9b": 1,
+  "z31732ccc": 1,
+  "z213c30df": 1,
+  "z5e2c892c": 1,
+  "zdc292af1": 1,
+  "zde863844": 1,
+  "z20a9bf05": 1,
+  "z32346ce0": 1,
+  "z1191fcd3": 1,
+  "za295a826": 1,
+  "z01f86fdd": 1,
+  "z3b5b25b8": 1
  },
  "video": {},
  "pillole": []
