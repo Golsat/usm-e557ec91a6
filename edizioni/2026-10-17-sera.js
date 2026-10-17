@@ -3,6 +3,205 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zaa47f846",
+   "sez": "mondo",
+   "titolo": "Fuochi d'artificio sul fiume Yodo a Osaka: la festa si svolge in ottobre per evitare il caldo",
+   "orig": "秋の夜空に大輪、なにわ淀川花火大会 暑さ避けて今年も10月開催",
+   "lead": "Ad Osaka torna la festa dei fuochi d'artificio sul fiume Yodo, con grandi fiori di luce nel cielo autunnale. Anche quest'anno l'appuntamento si tiene in ottobre, scelto per evitare il caldo estivo. Lo riferisce Asahi Shimbun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBK42N6VBKOXIE04CM.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-17T21:23+09:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z083783a2",
+   "sez": "mondo",
+   "titolo": "João Fonseca annuncia che non tornerà a competere fino al 2027",
+   "orig": "João Fonseca anuncia que no volverá a competir hasta 2027",
+   "lead": "Il tennista brasiliano João Fonseca ha annunciato che non tornerà a competere fino al 2027. Il testo non indica motivazioni né tornei coinvolti nella sospensione dell'attività agonistica. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/tenis/2026/10/17/joao-fonseca-anuncia-que-no-volvera-a-competir-hasta-2027/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-17T14:50+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "za779e258",
+   "sez": "mondo",
+   "titolo": "Araqchí all'OCI: lo Stretto di Hormuz potrebbe riaprire in sette giorni se gli USA accettano il piano iraniano",
+   "orig": "Araqchí dice en OCI que Ormuz podría reabrirse en siete días si EE.UU. acepta plan iraní",
+   "lead": "Araqchí ha dichiarato nel corso dell'Organizzazione per la Cooperazione Islamica (OCI) che lo Stretto di Hormuz potrebbe riaprire entro sette giorni. La condizione posta è che gli Stati Uniti accettino il piano proposto dall'Iran. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/17/araqchi-dice-en-oci-que-ormuz-podria-reabrirse-en-siete-dias-si-eeuu-acepta-plan-irani/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-17T14:35+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "zfa184304",
+   "sez": "mondo",
+   "titolo": "BTS nazionale 2026: 4.583 candidati alle prove scritte a N'Djamena",
+   "orig": "‎BTS national 2026 : 4 583 candidats planchent sur les épreuves écrites à N’Djamena",
+   "lead": "Sabato mattina sono iniziate a N'Djamena le prove scritte del Brevet de technicien supérieur (BTS) 2026, a cui partecipano 4.583 candidati. La cerimonia ufficiale di avvio si è svolta nel liceo-collegio evangelico, presieduta dal segretario generale del Ministero dell'Istruzione superiore, Reounodji Frédéric, alla presenza dei responsabili dell'ONECS. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/17/bts-national-2026-4-583-candidats-planchent-sur-les-epreuves-ecrites-a-ndjamena/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-17T13:30+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/recrutement-des-enseignants-seuls-les-meilleurs-seront-retenus-f-bourouno/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T11:59+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/bintou-keita-nous-avons-un-deficit-denseignants-plus-grand-que-les-6000/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T11:19+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/recrutement-de-6-000-enseignants-les-ministres-bourouno-et-keita-lancent-les-premieres-epreuves-a-mamou/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T11:11+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/17/recrutement-des-6-000-enseignants-a-kankan-les-mises-en-garde-de-djenabou-toure-aux-candidats/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T14:49+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/17/recrutement-de-6-000-enseignants-le-ministre-bourouno-lance-le-coup-denvoi-du-concours-a-mamou/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T14:38+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z6aac9b82",
+   "sez": "mondo",
+   "titolo": "Istruzione superiore: lunedì 19 ottobre riprendono regolarmente le lezioni",
+   "orig": "Enseignement supérieur : reprise normale des cours ce lundi 19 octobre",
+   "lead": "Lunedì 19 ottobre riprendono regolarmente le lezioni nell'istruzione superiore di Mauritius. Il testo indica la data di ripresa senza ulteriori dettagli sulle cause della sospensione. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/enseignement-superieur-reprise-normale-des-cours-ce-lundi-19-octobre",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-17T18:05+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z45b03041",
+   "sez": "mondo",
+   "titolo": "Cassam Uteem: «Questi eventi non fanno di noi un popolo aggressivo»",
+   "orig": "Cassam Uteem : «Ces évènements ne font pas de nous un peuple agressif»",
+   "lead": "L'ex presidente mauriziano Cassam Uteem afferma che gli eventi recenti «non fanno di noi un popolo aggressivo». La dichiarazione è riportata nel quadro delle tensioni nel Paese, di cui il testo non specifica i dettagli. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/cassam-uteem-ces-evenements-ne-font-pas-de-nous-un-peuple-agressif",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-17T17:30+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
+   "id": "z88105155",
+   "sez": "mondo",
+   "titolo": "Incendi, saccheggi, vandalismo: dagli episodi alle soluzioni, per capire cosa ha fatto traboccare il vaso",
+   "orig": "Incendies, pillages, vandalisme: des incidents aux solutions : mieux comprendre ce qui a fait déborder le vase",
+   "lead": "Defimedia analizza gli incendi, i saccheggi e gli atti di vandalismo avvenuti in Mauritius e le possibili soluzioni. Il servizio si propone di spiegare cosa abbia portato la situazione al punto di rottura. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/incendies-pillages-vandalisme-des-incidents-aux-solutions-mieux-comprendre-ce-qui-fait-deborder-le",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-17T17:00+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "17:32",
+   "uscita": "17"
+  },
+  {
    "id": "z8fbe51df",
    "sez": "mondo",
    "titolo": "Tadej Pogacar e Urska Žigart al via della 6ª edizione di Beking a Monaco, domenica 29 novembre",
@@ -84,28 +283,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-10-17T14:46+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:30",
-   "uscita": "17"
-  },
-  {
-   "id": "za91bd6ce",
-   "sez": "mondo",
-   "titolo": "L'Arabia Saudita giustizia cinque persone per «terrorismo» nell'est a maggioranza sciita del Paese",
-   "orig": "L'Arabie saoudite exécute cinq personnes pour \"terrorisme\" dans l'est à majorité chiite du pays",
-   "lead": "L'Arabia Saudita ha giustiziato sabato cinque cittadini sauditi per terrorismo, come annunciato dal ministero dell'Interno. Le esecuzioni sono avvenute nell'est del Paese, a maggioranza sciita. Secondo un conteggio dell'AFP, portano a 188 le esecuzioni nel 2026 nel Regno. Lo riferisce Seneweb.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Seneweb",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://www.seneweb.com/fr/news/International/larabie-saoudite-execute-cinq-personnes-pour-terrorisme-dans-lest-a-majorite-chiite-du-pays_n_999000966.html",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-10-17T14:16+00:00"
     }
    ],
    "data": "17 ott",
@@ -3238,6 +3415,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Tunisia",
      "t": "2026-10-17T14:30+01:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/International/larabie-saoudite-execute-cinq-personnes-pour-terrorisme-dans-lest-a-majorite-chiite-du-pays_n_999000966.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T14:16+00:00"
     }
    ],
    "data": "17 ott",
@@ -19025,7 +19211,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z05ac01f9": "Taglio locale che racconta un giovane residente, con l'orgoglio per il Principato.",
   "zd6874d8a": "Angolatura di politica interna, con la versione del partito dell'ex presidente.",
   "za151bde0": "Taglio istituzionale di sicurezza stradale, legato all'evento sportivo.",
-  "za91bd6ce": "Taglio di agenzia, con il dato del conteggio AFP sulle esecuzioni.",
   "z38687296": "Taglio di agenzia internazionale, senza ulteriori dettagli sanitari.",
   "zd7c66785": "Taglio locale di servizio sulle iniziative sanitarie e sociali nel Moyen-Chari.",
   "z30afb821": "Taglio di reportage sulla vita quotidiana urbana e sul lato sociale del cibo di strada.",
@@ -19081,7 +19266,14 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "ze18d996d": "Opinión (Bolivia) riporta le parole del presidente cileno con un focus sulla questione marittima tra i due Paesi.",
   "zc2b7854f": "Opinión (Bolivia) segnala un provvedimento amministrativo con ricadute pratiche sugli operatori del settore.",
   "z4f35dd0e": "Il quotidiano sudcoreano collega il crollo di Borsa al ricorso dei piccoli investitori al credito.",
-  "z4324f4bb": "La testata sudcoreana dà rilievo alla prestazione individuale di Kim Do-yeong."
+  "z4324f4bb": "La testata sudcoreana dà rilievo alla prestazione individuale di Kim Do-yeong.",
+  "zaa47f846": "Quotidiano giapponese che presenta un evento stagionale con taglio di cronaca di costume.",
+  "z083783a2": "Quotidiano paraguaiano che riporta una notizia sportiva con dettagli essenziali.",
+  "za779e258": "Quotidiano paraguaiano che riporta le parole di un esponente iraniano con la formulazione ufficiale della dichiarazione.",
+  "zfa184304": "Quotidiano ciadiano che copre un appuntamento scolastico nazionale con dati ufficiali.",
+  "z6aac9b82": "Quotidiano mauriziano che diffonde un avviso istituzionale di interesse per studenti e famiglie.",
+  "z45b03041": "Quotidiano mauriziano che dà spazio a una voce istituzionale sugli episodi di violenza.",
+  "z88105155": "Quotidiano mauriziano che sceglie un approccio analitico su episodi di violenza diffusa."
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -23934,13 +24126,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "za91bd6ce": {
-   "n": "Arabia Saudita",
-   "p": [
-    "Saudi Arabia"
-   ],
-   "pt": []
-  },
   "z38687296": {
    "n": "Italia",
    "p": [
@@ -24316,6 +24501,56 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Corea del Sud",
    "p": [
     "South Korea"
+   ],
+   "pt": []
+  },
+  "zaa47f846": {
+   "n": "Osaka",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z083783a2": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "za779e258": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Iran",
+    "Oman"
+   ],
+   "pt": []
+  },
+  "zfa184304": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z6aac9b82": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z45b03041": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z88105155": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
    ],
    "pt": []
   }
@@ -25010,7 +25245,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z05ac01f9": 1,
   "zd6874d8a": 1,
   "za151bde0": 1,
-  "za91bd6ce": 1,
   "z38687296": 1,
   "zd7c66785": 1,
   "z30afb821": 1,
@@ -25066,7 +25300,14 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "ze18d996d": 2,
   "zc2b7854f": 1,
   "z4f35dd0e": 1,
-  "z4324f4bb": 1
+  "z4324f4bb": 1,
+  "zaa47f846": 1,
+  "z083783a2": 1,
+  "za779e258": 1,
+  "zfa184304": 1,
+  "z6aac9b82": 1,
+  "z45b03041": 1,
+  "z88105155": 1
  },
  "video": {},
  "pillole": []
