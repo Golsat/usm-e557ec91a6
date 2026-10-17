@@ -1,0 +1,702 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<title>Dashboard del progetto</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;600&display=swap">
+<style>
+:root{
+  --paper:#f7f4ee; --card:#fdfcf9; --ink:#121212; --muted:#5f5b53; --hair:#d9d3c5; --accent:#0b2f5e;
+  --p1:#dce8f8; --p2:#dff1e3; --p3:#fde5d6; --p4:#d9f0f5; --p5:#efdcf0; --p6:#fff2c2;
+  --serif:Georgia,'Times New Roman',serif; --display:'Playfair Display',Georgia,serif; --sans:'Inter',system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{--paper:#15140f;--card:#1c1a15;--ink:#ece8de;--muted:#a39e90;--hair:#37332a;--accent:#8fb3e8;
+        --p1:#1f2b3d;--p2:#1d2f24;--p3:#37271d;--p4:#1b2f35;--p5:#33243a;--p6:#383116}
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:14.5px/1.5 var(--serif)}
+.wrap{max-width:1500px;margin:0 auto;padding:0 clamp(12px,2.5vw,36px) 40px}
+header{padding:14px 0 10px;border-bottom:4px double var(--ink);display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap}
+h1{font:900 clamp(26px,4vw,40px)/1.05 var(--display);margin:0}
+header p{margin:2px 0 0;color:var(--muted);font:13px var(--sans)}
+.btn{font:600 12px var(--sans);letter-spacing:.04em;text-transform:uppercase;border:1px solid var(--ink);color:var(--ink);background:transparent;padding:7px 12px;text-decoration:none;display:inline-block}
+.btn:hover{background:var(--ink);color:var(--paper)}
+h2{font:900 19px var(--display);margin:22px 0 8px}
+.kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin-top:14px}
+.kpi>div{padding:12px 14px;border:1px solid var(--hair);border-left-width:5px;font:13px var(--sans)}
+.kpi b{display:block;font:900 30px/1.1 var(--display)}
+.kpi>div:nth-child(1){background:var(--p1)} .kpi>div:nth-child(2){background:var(--p2)} .kpi>div:nth-child(3){background:var(--p3)}
+.kpi>div:nth-child(4){background:var(--p4)} .kpi>div:nth-child(5){background:var(--p5)} .kpi>div:nth-child(6){background:var(--p6)}
+table{width:100%;border-collapse:collapse;font:13.5px var(--sans);background:var(--card)}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--hair);vertical-align:top}
+th{font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+td.t{font-family:var(--serif)}
+.star{color:#e0a800;text-shadow:0 0 1px #7a5600}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
+.box{padding:12px 16px;border:1px solid var(--hair)}
+.box h3{font:700 15px var(--display);margin:0 0 6px}
+.box ul{margin:0;padding-left:18px;font:13.5px/1.5 var(--sans)}
+.box.a{background:var(--p2)} .box.b{background:var(--p6)} .box.c{background:var(--p3)} .box.d{background:var(--p1)}
+code{font:12.5px Consolas,monospace;background:color-mix(in srgb,var(--ink) 8%,transparent);padding:1px 5px;border-radius:3px}
+.fasi-card{background:var(--card);border:1px solid var(--hair);border-radius:6px;margin:14px 0 24px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.03)}
+.fasi-table{width:100%;border-collapse:collapse;font:13px var(--sans)}
+.fasi-table th{background:color-mix(in srgb,var(--paper) 75%,var(--hair));padding:10px 14px;border-bottom:2px solid var(--hair);font:700 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.fasi-table td{padding:9px 14px;border-bottom:1px solid var(--hair);vertical-align:top}
+.phase-row td{padding:10px 14px;font:700 14px var(--display);color:var(--ink);border-top:2px solid var(--hair)}
+.subphase-num{font-family:Consolas,monospace;font-weight:700;color:var(--accent);display:inline-block;min-width:28px}
+.subphase-name{font-weight:600;color:var(--ink);font-size:13.5px}
+.subphase-desc{font-size:12px;color:var(--muted);margin-top:2px;line-height:1.4}
+.subphase-desc code{font-size:11.5px}
+.badge{display:inline-block;padding:3px 8px;border-radius:12px;font:600 11px var(--sans);letter-spacing:.02em;white-space:nowrap}
+.badge-mech{background:var(--p2);color:#195b24;border:1px solid color-mix(in srgb,#195b24 25%,transparent)}
+.badge-llm{background:var(--p3);color:#9c1c1c;border:1px solid color-mix(in srgb,#9c1c1c 25%,transparent)}
+.badge-incluso{background:var(--p1);color:#124483;border:1px solid color-mix(in srgb,#124483 25%,transparent)}
+.badge-web{background:var(--p6);color:#705300;border:1px solid color-mix(in srgb,#705300 25%,transparent)}
+.consumo-val{font-family:Consolas,monospace;font-size:12px;text-align:right}
+.consumo-val b{font-size:13.5px;color:var(--ink)}
+.consumo-val small{display:block;font-size:11px;color:var(--muted);margin-top:1px}
+.consumo-val .pct{font-size:11px;color:var(--muted);font-weight:normal}
+.consumo-zero{color:var(--muted);font-size:12px;text-align:right;font-family:Consolas,monospace}
+/* Sezioni comprimibili */
+.sec-toggle{cursor:pointer;user-select:none;display:flex;justify-content:space-between;align-items:center;margin:28px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--hair);transition:color .15s ease}
+.sec-toggle:hover{color:var(--accent)}
+.btn-toggle{font-family:Consolas,monospace;font-size:11.5px;font-weight:700;letter-spacing:.02em;padding:3px 9px;border:1px solid var(--hair);border-radius:4px;background:var(--card);color:var(--muted);cursor:pointer;display:inline-flex;align-items:center;gap:4px}
+.sec-toggle:hover .btn-toggle{border-color:var(--accent);color:var(--accent)}
+.sec-content{transition:opacity .15s ease}
+.sec-content.collapsed{display:none !important}
+/* Tabella numeri compatta e scrollabile */
+.table-compact-wrap{max-height:330px;overflow-y:auto;border:1px solid var(--hair);border-radius:6px;background:var(--card);box-shadow:0 1px 4px rgba(0,0,0,0.03)}
+.table-compact-wrap table{margin:0;width:100%;border:none}
+.table-compact-wrap th{position:sticky;top:0;background:color-mix(in srgb,var(--paper) 80%,var(--hair));z-index:2;box-shadow:0 1px 2px rgba(0,0,0,0.06);padding:8px 10px;font-size:11px}
+.table-compact-wrap td{padding:5px 10px;font-size:12.5px;vertical-align:middle}
+.phase-toggle{font-family:Consolas,monospace;font-weight:700;display:inline-block;width:18px;color:var(--accent)}
+.phase-row{cursor:pointer;user-select:none;transition:background .15s ease}
+.phase-row:hover td{filter:brightness(0.97)}
+footer{margin-top:24px;font:12px var(--sans);color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div><h1>Uno sguardo sul mondo</h1><p>Riepilogo del progetto · tutti i numeri · stato dell'automazione</p></div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+    <a class="btn" href="index.html">📰 Apri l'ultima edizione</a>
+    <a class="btn" href="#passaggi" style="background:var(--accent);color:#fff;border-color:var(--accent)">📋 Fasi & Consumi 7gg</a>
+    <button class="btn" onclick="toggleAllSections(true)" style="cursor:pointer;padding:5px 9px;font-size:11px" title="Espandi tutte le sezioni">▾ Espandi tutto</button>
+    <button class="btn" onclick="toggleAllSections(false)" style="cursor:pointer;padding:5px 9px;font-size:11px" title="Comprimi tutte le sezioni">▴ Riduci tutto</button>
+  </div>
+</header>
+
+<div class="dash-tools" style="background:var(--card);border:1px solid var(--hair);border-radius:6px;padding:10px 14px;margin-bottom:18px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;box-shadow:0 1px 4px rgba(0,0,0,0.03)">
+  <div style="display:flex;align-items:center;gap:8px">
+    <span style="font-family:var(--display);font-weight:700;font-size:13px;color:var(--ink)">Cruscotti di Gestione & Supervisione:</span>
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+    <a class="btn" href="AVVIA_EDIZIONE.html" target="_blank" rel="noopener" title="Console web per triggerare o sbloccare esecuzioni cloud">🚀 Avvia / Sblocca Cloud</a>
+    <a class="btn" href="https://golsat.github.io/usm-e557ec91a6/redazione/ultimo.html" target="_blank" rel="noopener" title="Rapporto serale automatico di fine giornata: audit sezioni, doppioni e catalogo">⚖️ Report Serale (ultimo.html)</a>
+    <a class="btn" href="https://github.com/Golsat/usm-motore/actions" target="_blank" rel="noopener" title="Visualizza i workflow in tempo reale e i log di esecuzione cloud">⚡ GitHub Actions (Live Runs)</a>
+    <a class="btn" href="PUNTI-IN-SOSPESO.html" target="_blank" rel="noopener" title="Registro di bordo, checklist e questioni aperte">📝 Registro & Punti Aperti</a>
+    <a class="btn" href="https://dash.cloudflare.com" target="_blank" rel="noopener" title="Monitor Sveglia Cloudflare Worker (trigger 08:10/13:20/17:20/20:20)">⏰ Sveglia Cloudflare</a>
+    <a class="btn" href="https://github.com/Golsat/usm-motore" target="_blank" rel="noopener" title="Repository GitHub privato del motore di redazione">📦 Repo Motore</a>
+  </div>
+</div>
+
+<section class="kpi" id="kpi"></section>
+
+<h2 class="sec-toggle" onclick="toggleSec('sec-numeri')">
+  <span>Tutti i numeri delle edizioni (ordinate dalla più recente)</span>
+  <span class="btn-toggle" id="btn-sec-numeri">▼ comprimi (−)</span>
+</h2>
+<div id="sec-numeri" class="sec-content">
+  <div class="table-compact-wrap">
+    <table>
+      <thead><tr><th style="width:130px">Data</th><th style="width:90px">Edizione</th><th style="width:80px;text-align:right">Notizie</th><th style="width:110px">Copertura</th><th>In primo piano (top 2 storie)</th><th style="width:100px">Apri</th></tr></thead>
+      <tbody id="numeri"></tbody>
+    </table>
+  </div>
+</div>
+
+<h2 class="sec-toggle" onclick="toggleSec('sec-consumi')">
+  <span>Consumi di token e costi (dal più recente)</span>
+  <span class="btn-toggle" id="btn-sec-consumi">▼ comprimi (−)</span>
+</h2>
+<div id="sec-consumi" class="sec-content">
+  <p style="font:13px var(--sans);color:var(--muted);margin:0 0 8px">Misurati a ogni fase (scrittura, completamento a blocchi, traduzione dei titoli). «Ingresso» comprende i token letti dalla cache; il costo è quello indicativo restituito da Claude Code, non una fattura. Aggiornato a ogni chiusura (<code>strumenti/aggiorna_consumi.py</code>).</p>
+  <section class="kpi" id="kpiConsumi"></section>
+  <table style="margin-top:12px">
+    <thead><tr><th>Giorno</th><th>Fasi</th><th>Tempo misurato</th><th>Token in ingresso</th><th>Token in uscita</th><th>Costo indicativo</th></tr></thead>
+    <tbody id="consumiGiorni"></tbody>
+  </table>
+  <details style="margin-top:10px"><summary style="font:600 13px var(--sans);cursor:pointer">Dettaglio di ogni fase</summary>
+  <table>
+    <thead><tr><th>Quando</th><th>Fase</th><th>Blocchi</th><th>Durata</th><th>Ingresso</th><th>Uscita</th><th>Costo</th><th>Notizie</th></tr></thead>
+    <tbody id="consumiRighe"></tbody>
+  </table></details>
+</div>
+
+<h2 id="passaggi" class="sec-toggle" onclick="toggleSec('sec-passaggi')">
+  <span>Passaggi della redazione giornaliera e consumi medi (ultimi 7 giorni attivi)</span>
+  <span class="btn-toggle" id="btn-sec-passaggi">▼ comprimi (−)</span>
+</h2>
+<div id="sec-passaggi" class="sec-content">
+  <p style="font:13px var(--sans);color:var(--muted);margin:0 0 10px">Tutti i passaggi eseguiti ogni giorno (dalla sveglia del mattino al controllo serale), suddivisi per fase e sottofase. Clicca sull'intestazione di ciascuna fase per comprimerne o espanderne le sottofasi.</p>
+  <div class="fasi-card">
+    <table class="fasi-table">
+      <thead>
+        <tr>
+          <th style="width:58%">Fase & Sottofase del flusso editoriale</th>
+          <th style="width:16%">Tipo operazione</th>
+          <th style="width:26%;text-align:right">Consumo medio / giorno (ultimi 7 gg)</th>
+        </tr>
+      </thead>
+      <tbody id="fasiRedazioneCorpo"></tbody>
+    </table>
+  </div>
+</div>
+
+<h2 class="sec-toggle" onclick="toggleSec('sec-metodo')">
+  <span>Come stiamo sviluppando il progetto</span>
+  <span class="btn-toggle" id="btn-sec-metodo">▼ comprimi (−)</span>
+</h2>
+<div id="sec-metodo" class="sec-content">
+  <div class="cols">
+    <div class="box d"><h3>Il metodo in tre passaggi</h3><ul>
+      <li><b>1 · Prima scrittura</b>: dai titoli raccolti ogni giorno si scrive l'edizione con parole proprie, fonte e link sempre presenti</li>
+      <li><b>2 · Controllo e revisione</b>: <code>strumenti/controllo_congruita.py</code> (fonti, link, luoghi, cronaca nera, attribuzioni delle fonti uniche) più rilettura di ogni notizia contro l'originale</li>
+      <li><b>3 · Ultima stesura</b>: si corregge e si ripete fino a zero errori bloccanti</li>
+      <li>Tutto il meccanico è in un comando: <code>python -I strumenti/pipeline.py prepara</code> e <code>chiudi</code></li>
+    </ul></div>
+    <div class="box c"><h3>Le regole che non cambiano</h3><ul>
+      <li>Solo fonti autorevoli e notizie certe; le voci di Stato valgono come «sguardo», mai come prova</li>
+      <li>Niente cronaca nera; le buone notizie stanno dentro i temi</li>
+      <li>Sempre visibili: chi scrive (Paese e città) e dove accade il fatto, con sguardo interno ed esterno</li>
+      <li>Adolescenti: notizie anche PER i ragazzi (musica, videogiochi, scienza…), con etichetta di argomento</li>
+    </ul></div>
+    <div class="box a"><h3>Come ci si lavora</h3><ul>
+      <li>Gianluca indica cosa vuole, Claude costruisce e mostra in anteprima nel browser; si corregge insieme</li>
+      <li>Il giornale è pagina statica: nessun server, i dati sono file <code>.js</code> per giorno</li>
+      <li>Le modifiche all'aspetto si vedono subito su <code>localhost:8766</code></li>
+      <li>Il registro giorno per giorno è nella cartella <code>LOG/</code></li>
+    </ul></div>
+  </div>
+</div>
+
+<h2 class="sec-toggle" onclick="toggleSec('sec-stato')">
+  <span>Stato del progetto</span>
+  <span class="btn-toggle" id="btn-sec-stato">▼ comprimi (−)</span>
+</h2>
+<div id="sec-stato" class="sec-content">
+<div class="cols">
+  <div class="box a"><h3>Fatto</h3><ul>
+    <li>Pagina a colonne bilanciate, un carattere e una grafica per ogni tema, palette pastello, 15 sezioni (con Musica, Cucina, Adolescenti, Meteo)</li>
+    <li>Paese e città di chi scrive, luogo dei fatti, commento in corsivo, box «Finora» con cronologia, badge di verifica</li>
+    <li>Mappa Equal Earth cliccabile, pannello per Paese in box, sguardo interno ed esterno</li>
+    <li>Gamification: passaporto, 22 traguardi, serie di lettura, quiz; condivisione WhatsApp / e-mail / PDF</li>
+    <li>Catalogo di oltre 405 testate raggiungibili in 178 Paesi (più voci da Cina, Hong Kong, Giappone), database delle edizioni, controllo di congruità, pipeline</li>
+    <li>Sezioni nuove: Astronomia e spazio, Salute e ricerca (unione di <em>Medicina</em> e <em>Salute</em>, slug <code>salute</code>), Viaggi e turismo (con Tommaso in Giappone da YouTube), Manga e anime; Geopop e Focus per la scienza; testate italiane Il Post, Il Fatto Quotidiano, Il Messaggero, Repubblica per sezioni, Sky TG24 (feed); l'Italia sempre in cima in ogni sezione</li>
+    <li>Audit delle sezioni da script (<code>audit_sezioni.py</code>, parole chiave per sezione): corregge da solo le notizie fuori tema e produce una relazione in <code>bozze/audit-sezioni-*.md</code></li>
+    <li>Meno token: <code>claude_leggero.py</code> (chiamata unica, senza strumenti né connettori, effort basso): ~13.000 token in ingresso per blocco invece di ~250.000</li>
+    <li>Scrittura a blocchi (<code>completa_edizione.py</code>): tutte le storie buone della preselezione, 30 per volta in parallelo, con lead di 70-110 parole, approfondimento e controllo della sezione fatto da Claude</li>
+    <li>Rifinitura automatica (<code>rifinisci_edizione.py</code>): fonde i doppioni (anche tra sezioni e rispetto al mattino), rimette nella sezione giusta spazio/medicina fuori tema, toglie dalla prima pagina le notizie senza stelle e la cronaca nera</li>
+    <li>Aggiornamenti intermedi alle 13:00 e alle 17:00 (scrivono solo con almeno 5 novità; si aggiungono, mai sostituiscono), sul PC e nel cloud di riserva</li>
+    <li>App installabile e pubblicata su GitHub Pages (indirizzo non indicizzato)</li>
+    <li>Meteo con 20 città e mappe satellite e previsioni; lettura ad alta voce; nascondi/ripristina notizie</li>
+    <li><b>Sveglia esatta con Cloudflare Workers</b> (Worker <code>usm-sveglia</code>, creato su <a href="https://dash.cloudflare.com" target="_blank" rel="noopener">dash.cloudflare.com</a>): alle 08:10/13:20/17:20/20:20 ora italiana forza l'avvio diretto del workflow su GitHub, perché le esecuzioni automatiche <code>schedule</code> di GitHub sono «best effort» e arrivano in ritardo anche di ore; tre livelli PC → Cloudflare → GitHub come ultima rete, nessun doppione. Token GitHub dedicato (<a href="https://github.com/settings/personal-access-tokens" target="_blank" rel="noopener">github.com/settings/personal-access-tokens</a>, solo repo <code>usm-motore</code>, permesso Actions lettura/scrittura) scade l'<b>11/10/2027</b>: da rinnovare prima, altrimenti la sveglia smette senza avvisi.</li>
+    <li><b>11/10, notte</b>: nessun tetto per sezione e per il completamento (storie a turno tra le sezioni con «mondo» al triplo, manopola opzionale <code>USM_MAX_MONDO</code>); ripiego automatico su Gemini testato con esito positivo e esteso al cloud (<code>claude_cloud.sh</code> e workflow con <code>GEMINI_API_KEY</code>); avvisi di esecuzione e uscite saltate; avvio automatico silenzioso del server su <code>localhost:8766</code> all'accensione del PC; risolti tutti gli avvisi editoriali (link HTTPS, luoghi mancanti, attribuzione fonti uniche, catalogo a 405 testate). Edizione a 931 notizie (28 in prima pagina, 19 manga e anime).</li>
+    <li><b>11/10, notte</b>: <b>fusione sezioni</b> — <code>salute</code> e <code>medicina</code> unificate definitivamente in «Salute e ricerca» (slug interno <code>salute</code>); allineati catalogo (408 testate), <code>preseleziona.py</code>, <code>completa_edizione.py</code>, <code>controllo_congruita.py</code>, <code>sezioni_regole.py</code>, <code>rifinisci_edizione.py</code>, <code>PROMPT_REDAZIONE.md</code>, <code>CLAUDE.md</code> e <code>index.html</code>.</li>
+    <li><b>12/10, ore 18:30</b>: <b>Ordine elaborazione blocchi e ondate progressive</b>: per OGNI aggiornamento si processa a blocchi rigorosamente in ordine: 1. <b>Prima Pagina</b> per prima (lacune grandi testate + shortlist prima); 2. <b>Tutte le sezioni tematiche</b> a turno (con <em>The Plan, Domus, Abitare, Dezeen</em> aggiunte a Ingegneria e Architettura); 3. <b>«Mondo» per ultimo</b> (la sezione più grande). Ondate progressive a tappe attive per tutti gli aggiornamenti (anche intermedi 13 e 17).</li>
+    <li><b>12/10, ore 21:00</b>: <b>Ripristino Box «FINORA · COSA È SUCCESSO NEI GIORNI SCORSI» e Cronologia</b>: chiarito il motivo della temporanea assenza (con il passaggio a <code>claude_leggero.py</code> e alla scrittura rapida a blocchi dell'11/10, i campi <code>finora</code> e <code>cronologia</code> non erano stati inclusi nel prompt sintetico a blocchi). Ora reintrodotti come <b>obbligatori</b> in <code>completa_edizione.py</code>, nel prompt redazione e con lo script dedicato <code>arricchisci_prima_pagina.py</code> per tutte le notizie di Prima Pagina e di rilievo 2/3.</li>
+    <li><b>13/10, audit del mattino</b> (dettagli in <code>LOG/LOG - 2026-10-13 (audit mattino, Claude Code).md</code>): ondate che non perdono più notizie già uscite (prima si bloccavano dalla 5ª); <b>solo notizie del giorno</b> (articoli pubblicati dopo l'ultima uscita, link dei 3 giorni prima esclusi: il mattino ne ripubblicava 208 su 350 di ieri; pulizia una tantum: tolte 371); <b>data e ora certificate</b> dall'articolo originale e ordine nelle sezioni Italia → data/ora articolo; prima pagina con limite per uscita (12 mattino / 6 aggiornamenti); doppioni mattino↔sera; <b>correzioni a fine uscita</b> con Haiku e conferma di Sonnet (doppioni uniti, sezioni corrette); <b>«Ne abbiamo parlato»</b> dal database; <b>riga di stato</b> dell'uscita in alto e in fondo all'app; <b>controllo di fine giornata</b> con rapporto pubblicato in <a href="https://golsat.github.io/usm-e557ec91a6/redazione/ultimo.html" target="_blank" rel="noopener">redazione/ultimo.html</a>; pagina del Paese con un box per notizia e tag colorato di sezione; clic «In primo piano» corretto; AREA e Casabella nel catalogo (Arketipo non leggibile).</li>
+    <li><b>13/10, sezione dei titoli del Paese da Haiku</b>: nella pagina del Paese («Sguardo interno/esterno») la sezione la sceglie Haiku nella stessa risposta della traduzione, senza chiamate in più; lo script resta il ripiego. Misura sul 13/10: 381 titoli su 870 cambiano sezione («Mondo» da 804 a 452), circa 85-90% giusti, costo +25% sulla traduzione dei titoli (circa 2 centesimi al giorno). Anche i titoli già in italiano delle testate generali passano dal modello, solo per la sezione.</li>
+    <li><b>17/10, risoluzione colli di bottiglia e abbattimento token (-87%)</b>: <b>Fase 2.2</b> passata a scrittura snella e diretta (<code>strumenti/scrivi_prima_pagina.py</code>) in un unico passaggio strutturato senza turni agentici a vuoto (-99,7% token di ingresso); <b>Fase 4.2</b> (<code>strumenti/completa_edizione.py</code>) ottimizzata con prompt compresso, lead di «Mondo» a 55-75 parole stile agenzia e routing a due livelli Sonnet/Haiku (Sonnet per temi, Haiku per Mondo); dashboard aggiornata con sezioni comprimibili <code>(-)</code>, tabella numeri compatta per data decrescente e cruscotti di supervisione.</li>
+  </ul></div>
+  <div class="box b"><h3>Da fare</h3><ul>
+    <li><b>Dal 13/10</b>: verificare gli aggiornamenti delle 13 e delle 17 con le regole nuove; leggere stasera il primo rapporto di fine giornata e decidere le correzioni al codice; decidere la soglia della prima pagina (al mattino solo 3 notizie); capire perché l'attività delle 07:30 non parte sul PC di casa; <b>audit dei consumi LLM il 14/10 sera</b>, con il «piano allievo»: sempre meno LLM, solo dove serve davvero (gli script imparano dalle risposte dei modelli, poi il modello si spegne dove lo script va d'accordo; prima le correzioni di fine uscita); aggiungere a CLAUDE.md la regola sulla sezione dei titoli da Haiku (era bloccato da un'altra chat, testo nel LOG).</li>
+    <li>Liberare spazio sulla quota di Google Drive G: (svuotamento cestino web; archivio <code>BACKUP - 01-CLAUDE U.G</code> da 3,26 GB è il candidato principale)</li>
+    <li>Dopo il prossimo completamento: controllare manga e anime nella pagina e i consumi (nessun tetto; sezioni piccole prima di «mondo»)</li>
+    <li>Provare il ripiego su Gemini con un limite reale di Claude (finora testato solo con <code>USM_TEST_RIPIEGO=1</code>)</li>
+    <li>Aumentare Paesi e testate: sostituire le 55 testate non raggiungibili, aggiungere Paesi senza fonti</li>
+    <li>Più voci per ogni notizia (oggi molte hanno una sola testata)</li>
+    <li>Edizione serale e ricerca nell'archivio dalla pagina</li>
+  </ul></div>
+  <div class="box c"><h3>Automazione</h3><ul>
+    <li>Mattino 07:30 e sera 20:00 (la sera aggiunge al giorno), intermedi 13:00 e 17:00 (escono sempre, anche con 1 sola novità): raccolta dati, preselezione, scrittura a blocchi ordinati (Prima Pagina &rarr; Sezioni tematiche &rarr; Mondo) con Claude Code, pubblicazione progressiva a ondate (<code>USM_TAPPE=1</code>), rifinitura, database, pubblicazione</li>
+    <li>Cloud di riserva su GitHub Actions: 08:10, 13:20, 17:20, 20:20 (agisce solo se il PC non ha già pubblicato)</li>
+    <li>Solo sul computer dove è installata l'attività; il PC deve essere acceso</li>
+    <li>Registro: <code>bozze/log-redazione-AAAA-MM-GG-tipo.txt</code></li>
+    <li>Gemini / Antigravity può scrivere le edizioni con <code>strumenti/PROMPT_REDAZIONE.md</code></li>
+  </ul></div>
+  <div class="box d"><h3>Dove sta tutto</h3><ul>
+    <li><code>index.html</code> la dashboard del giornale</li>
+    <li><code>edizioni/</code> un file per edizione · <code>dati/</code> cambio, meteo, video</li>
+    <li><code>database/notizie.db</code> archivio consultabile (SQLite)</li>
+    <li><code>pdf/</code> edizioni in PDF · <code>strumenti/</code> script · <code>LEGGIMI.md</code></li>
+  </ul></div>
+</div>
+</div>
+
+<footer>Edizione di uso privato. Solo fonti riconosciute, nessuna cronaca nera, nessuna traduzione integrale di articoli protetti.</footer>
+</div>
+
+<script>
+window.toggleSec = function(id) {
+  const el = document.getElementById(id);
+  const btn = document.getElementById("btn-" + id);
+  if (!el) return;
+  const isCol = el.classList.toggle("collapsed");
+  if (btn) {
+    btn.innerHTML = isCol ? "▶ espandi (+)" : "▼ comprimi (−)";
+  }
+};
+
+window.toggleAllSections = function(expand) {
+  const secs = ["sec-numeri", "sec-consumi", "sec-passaggi", "sec-metodo", "sec-stato"];
+  secs.forEach(id => {
+    const el = document.getElementById(id);
+    const btn = document.getElementById("btn-" + id);
+    if (!el) return;
+    if (expand) {
+      el.classList.remove("collapsed");
+      if (btn) btn.innerHTML = "▼ comprimi (−)";
+    } else {
+      el.classList.add("collapsed");
+      if (btn) btn.innerHTML = "▶ espandi (+)";
+    }
+  });
+};
+
+window.togglePhase = function(fIdx) {
+  const rows = document.querySelectorAll(".phase-sub-" + fIdx);
+  const icon = document.getElementById("phase-arrow-" + fIdx);
+  if (!rows.length) return;
+  const isHidden = rows[0].style.display === "none";
+  rows.forEach(r => r.style.display = isHidden ? "" : "none");
+  if (icon) icon.textContent = isHidden ? "▼" : "▶";
+};
+
+function carica(src){ return new Promise(r=>{ const s=document.createElement("script"); s.src=src; s.onload=()=>r(true); s.onerror=()=>r(false); document.head.appendChild(s); }); }
+const esc = s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const PAESI = {UK:"Regno Unito",US:"Stati Uniti",IT:"Italia",DE:"Germania",QA:"Qatar",INT:"Internazionale"};
+(async function(){
+  await carica("edizioni/indice.js"); await carica("dati/catalogo.js"); await carica("database/consumi.js");
+  const lista = (window.INDICE||[]).slice();
+  /* Ordine rigorosamente decrescente per data (dal piu recente al piu vecchio) */
+  lista.sort((a, b) => b.k.localeCompare(a.k));
+  await Promise.all(lista.map(e=>carica("edizioni/"+e.k+".js")));
+  const righe = []; let totNotizie = 0; const paesi = new Set(), testate = new Set();
+  lista.forEach(e=>{
+    const d = window.EDIZIONI && window.EDIZIONI[e.k]; if(!d) return;
+    const news = d.news||[]; totNotizie += news.length;
+    const pe = new Set(), te = new Set();
+    news.forEach(n=>n.fonti.forEach(f=>{ pe.add(PAESI[f.p]||f.p); paesi.add(f.p); te.add(f.n); testate.add(f.n); }));
+    const top = news.filter(n=>((d.rilievo||{})[n.id]||0)===3).slice(0,2)
+      .map(n=>`<div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:440px"><span class="star" style="color:var(--accent)">★</span> ${esc(n.titolo)}</div>`)
+      .join("");
+    const data = new Date(e.k.slice(0,10)+"T12:00:00").toLocaleDateString("it-IT",{weekday:"short",day:"numeric",month:"short",year:"numeric"});
+    righe.push(`<tr>
+      <td style="font-weight:600;white-space:nowrap">${esc(data)}</td>
+      <td><span class="badge ${e.tipo==='sera'?'badge-incluso':'badge-mech'}">${e.tipo==="sera"?"Sera":"Mattino"}</span></td>
+      <td style="text-align:right"><b style="font-family:Consolas,monospace">${news.length}</b></td>
+      <td style="white-space:nowrap"><span title="${esc([...pe].join(', '))}"><b>${pe.size}</b> Paesi <small style="color:var(--muted)">(${te.size} test.)</small></span></td>
+      <td class="t">${top || '<span style="color:var(--muted)">–</span>'}</td>
+      <td style="white-space:nowrap"><a class="btn" style="padding:2px 7px;font-size:11px" href="index.html?e=${esc(e.k)}">Leggi</a>${e.pdf?` <a class="btn" style="padding:2px 7px;font-size:11px" href="pdf/Uno-sguardo-sul-mondo-${esc(e.k)}.pdf">PDF</a>`:""}</td>
+    </tr>`);
+  });
+  document.getElementById("numeri").innerHTML = righe.join("") || '<tr><td colspan="6">Nessuna edizione.</td></tr>';
+  const cat = window.CATALOGO||[], paesiCat = new Set(cat.map(r=>r[2]));
+  document.getElementById("kpi").innerHTML =
+    `<div><b>${lista.length}</b>edizioni pubblicate</div><div><b>${totNotizie}</b>notizie in archivio</div>
+     <div><b>${paesi.size}</b>Paesi che scrivono</div><div><b>${testate.size}</b>testate usate</div>
+     <div><b>${cat.length}</b>testate nel catalogo</div><div><b>${paesiCat.size}</b>Paesi nel catalogo</div>`;
+  /* consumi di token */
+  /* consumi di token e tempistiche */
+  const fmtTempo = s => {
+    if (s == null || s <= 0) return "–";
+    if (s < 60) return Math.round(s) + "s";
+    const m = Math.floor(s / 60), r = Math.round(s % 60);
+    return r > 0 ? `${m}m ${r}s` : `${m} min`;
+  };
+  const C = (window.CONSUMI||[]).slice(), fm = n=>Number(n||0).toLocaleString("it-IT"), usd = n=>n==null?"–":"$ "+Number(n).toFixed(2).replace(".",",");
+  const perGiorno = {};
+  C.forEach(r => {
+    const g = r.t.slice(0, 10);
+    const o = perGiorno[g] = perGiorno[g] || {fasi:0, i:0, o:0, c:0, sec:0};
+    o.fasi++;
+    o.i += r.in;
+    o.o += r.out;
+    o.c += r.usd || 0;
+    if (r.sec) o.sec += r.sec;
+  });
+  const giorni = Object.keys(perGiorno).sort().reverse();
+  const oggi = perGiorno[giorni[0]] || {fasi:0, i:0, o:0, c:0, sec:0};
+  const ult7 = giorni.slice(0, 7).reduce((a, g) => ({i: a.i + perGiorno[g].i, o: a.o + perGiorno[g].o, c: a.c + perGiorno[g].c, sec: a.sec + perGiorno[g].sec}), {i:0, o:0, c:0, sec:0});
+  document.getElementById("kpiConsumi").innerHTML = C.length
+    ? `<div><b>${usd(oggi.c)}</b>ultimo giorno (${esc(giorni[0]||"")})</div><div><b>${fm(oggi.i)}</b>token in ingresso, ultimo giorno</div><div><b>${fm(oggi.o)}</b>token in uscita, ultimo giorno</div>
+       <div><b>${usd(ult7.c)}</b>ultimi 7 giorni</div><div><b>${fmtTempo(ult7.sec / Math.min(7, giorni.length))}</b>tempo medio LLM / giorno</div><div><b>${C.length}</b>fasi misurate</div>`
+    : '<div>Ancora nessuna misura: compaiono dopo la prima edizione.</div>';
+  document.getElementById("consumiGiorni").innerHTML = giorni.map(g => `<tr><td>${esc(new Date(g+"T12:00:00").toLocaleDateString("it-IT",{weekday:"short",day:"numeric",month:"long"}))}</td><td>${perGiorno[g].fasi}</td><td style="font-family:Consolas,monospace"><b>${fmtTempo(perGiorno[g].sec)}</b></td><td>${fm(perGiorno[g].i)}</td><td>${fm(perGiorno[g].o)}</td><td>${usd(perGiorno[g].c)}</td></tr>`).join("") || '<tr><td colspan="6">–</td></tr>';
+  document.getElementById("consumiRighe").innerHTML = C.slice().reverse().map(r => `<tr><td>${esc(r.t.replace("T"," "))}</td><td>${esc(r.fase)}</td><td>${r.blocchi??"–"}</td><td style="font-family:Consolas,monospace"><b>${fmtTempo(r.sec)}</b></td><td>${fm(r.in)}</td><td>${fm(r.out)}</td><td>${usd(r.usd)}</td><td>${r.notizie??"–"}</td></tr>`).join("") || '<tr><td colspan="8">–</td></tr>';
+
+  /* passaggi della redazione giornaliera e consumi medi degli ultimi 7 giorni */
+  const giorni7 = giorni.slice(0, 7);
+  const N7 = Math.max(1, giorni7.length);
+  const cat7 = {
+    scrittura: { in: 0, out: 0, usd: 0, sec: 0, count: 0 },
+    traduzione: { in: 0, out: 0, usd: 0, sec: 0, count: 0 },
+    completamento: { in: 0, out: 0, usd: 0, sec: 0, count: 0 },
+    correzioni: { in: 0, out: 0, usd: 0, sec: 0, count: 0 },
+    controllo: { in: 0, out: 0, usd: 0, sec: 0, count: 0 }
+  };
+  let totUsd7 = 0, totOut7 = 0, totIn7 = 0, totSec7 = 0;
+  C.forEach(r => {
+    const g = r.t.slice(0, 10);
+    if (!giorni7.includes(g)) return;
+    const f = (r.fase || "").toLowerCase();
+    let k = null;
+    if (f.includes("scrittura")) k = "scrittura";
+    else if (f.includes("traduz")) k = "traduzione";
+    else if (f.includes("completamento")) k = "completamento";
+    else if (f.includes("correzion")) k = "correzioni";
+    else if (f.includes("controllo")) k = "controllo";
+    if (k) {
+      cat7[k].in += r.in || 0;
+      cat7[k].out += r.out || 0;
+      cat7[k].usd += r.usd || 0;
+      if (r.sec) cat7[k].sec += r.sec;
+      cat7[k].count++;
+    }
+    totUsd7 += r.usd || 0;
+    totOut7 += r.out || 0;
+    totIn7 += r.in || 0;
+    if (r.sec) totSec7 += r.sec;
+  });
+
+  const FASI = [
+    {
+      titolo: "FASE 1 · Preparazione e Raccolta Dati (07:30 / 08:10)",
+      colore: "var(--p1)",
+      sub: [
+        {
+          num: "1.1",
+          nome: "Prova di sistema & Autodiagnosi",
+          desc: "Controllo sintassi di tutti gli script, file dati, integrità della pagina e assenza di lock o anomalie.",
+          script: "strumenti/prova_sistema.py · check_passi.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~5s"
+        },
+        {
+          num: "1.2",
+          nome: "Verifica fonti & Catalogo testate",
+          desc: "Controllo disponibilità delle oltre 405 testate mondiali e generazione dati/catalogo.js.",
+          script: "strumenti/verifica_fonti.py · crea_catalogo_js.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~15s"
+        },
+        {
+          num: "1.3",
+          nome: "Raccolta titoli, cambi e meteo",
+          desc: "Scaricamento feed RSS da 178 Paesi, cambi BCE, meteo di 20 città e video YouTube.",
+          script: "strumenti/raccogli_dati.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~35s"
+        },
+        {
+          num: "1.4",
+          nome: "Preselezione notizie & Filtro disastri/cronaca",
+          desc: "Filtro euristico cronaca nera, esclusione doppioni 3 giorni prima, rilevamento Paesi nuovi.",
+          script: "strumenti/preseleziona.py · disastri.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~2s"
+        }
+      ]
+    },
+    {
+      titolo: "FASE 2 · Redazione e Scrittura Prima Pagina (Mattino e Sera)",
+      colore: "var(--p2)",
+      sub: [
+        {
+          num: "2.1",
+          nome: "Estrazione shortlist Prima Pagina",
+          desc: "Rilevamento notizie con 2+ grandi testate o 6+ fonti; prepara bozze/shortlist-prima-*.md e .json.",
+          script: "strumenti/prima_per_redazione.py · controllo_prime_pagine.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~1s"
+        },
+        {
+          num: "2.2",
+          nome: "Scrittura Prima Pagina (Snella & Diretta)",
+          desc: "Stesura mirata single-pass (8-12 storie mattino, 4+ sera): lead, approfondimento, finora e cronologia senza turni agentici a vuoto.",
+          script: "strumenti/scrivi_prima_pagina.py · claude_cloud.sh",
+          tipo: "llm",
+          cat: "scrittura",
+          badge: "LLM · Claude Sonnet",
+          tempo: "~20s",
+          nota: "Ottimizzato il 17/10: eliminato overhead turni agentici; durata ridotta da ~6m a ~20s, token in ingresso -99.6%."
+        },
+        {
+          num: "2.3",
+          nome: "Calendario Eventi Roma (solo mattino)",
+          desc: "Aggiornamento mostre, concerti e spettacoli di Roma per i 7 giorni successivi da fonti ufficiali.",
+          script: "dati/eventi.js (WebFetch)",
+          tipo: "web",
+          badge: "Meccanico / WebFetch",
+          tempo: "~10s"
+        }
+      ]
+    },
+    {
+      titolo: "FASE 3 · Traduzione dei Titoli Esteri e Classificazione",
+      colore: "var(--p6)",
+      sub: [
+        {
+          num: "3.1",
+          nome: "Traduzione titoli dei Paesi in italiano",
+          desc: "Traduzione a blocchi (da 90) di tutti i feed esteri per le schede dei singoli Paesi nel giornale.",
+          script: "strumenti/traduci_titoli.py",
+          tipo: "llm",
+          cat: "traduzione",
+          badge: "LLM · Haiku / Gemini",
+          tempo: "~25s"
+        },
+        {
+          num: "3.2",
+          nome: "Assegnazione sezione tematica del titolo",
+          desc: "Classificazione automatica del tema contestuale alla risposta di traduzione, senza chiamate extra.",
+          script: "strumenti/sezioni_regole.py + modello",
+          tipo: "incluso",
+          badge: "Incluso nel passo 3.1",
+          tempo: "0s (incluso)"
+        }
+      ]
+    },
+    {
+      titolo: "FASE 4 · Completamento a Blocchi dell'Edizione",
+      colore: "var(--p3)",
+      sub: [
+        {
+          num: "4.1",
+          nome: "Scrittura a blocchi storie tematiche e Mondo",
+          desc: "Elaborazione a blocchi da 30: Sonnet per sezioni tematiche (lead 70-110 p.), Haiku per Mondo (lead agenzia 55-75 p.) con prompt compresso.",
+          script: "strumenti/completa_edizione.py -> claude_leggero.py",
+          tipo: "llm",
+          cat: "completamento",
+          badge: "LLM · Tiered Sonnet/Haiku",
+          tempo: "~45s - 1m",
+          nota: "Ottimizzato il 17/10: routing Sonnet/Haiku, prompt compresso; durata abbattuta da ~15m a meno di 1m."
+        },
+        {
+          num: "4.2",
+          nome: "Fusione incrementale dell'edizione",
+          desc: "Unione non distruttiva con le notizie già pubblicate (le edizioni uscite non vengono mai sovrascritte).",
+          script: "strumenti/unisci_edizioni.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~2s"
+        },
+        {
+          num: "4.3",
+          nome: "Rifinitura automatica & de-duplicazione",
+          desc: "Fusione doppioni tra sezioni e tra uscite, rispetto tetti per uscita, rimozione cronaca residua.",
+          script: "strumenti/rifinisci_edizione.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~3s"
+        },
+        {
+          num: "4.4",
+          nome: "Box «Finora» e Cronologia a tappe",
+          desc: "Contesto storico e 2-4 tappe passate per le notizie di Prima Pagina e rilievo 3 (snellito il 15/10).",
+          script: "strumenti/arricchisci_prima_pagina.py",
+          tipo: "incluso",
+          badge: "Incluso in compl. (solo rilievo 3)",
+          tempo: "~5s"
+        },
+        {
+          num: "4.5",
+          nome: "Box «Sguardi a confronto» tra testate",
+          desc: "Analisi di tono e divergenze scaricando articoli integrali (max 3.000 parole per fonte).",
+          script: "strumenti/confronta_sguardi.py · testo_articolo.py",
+          tipo: "incluso",
+          badge: "15-30k in / storia prima pagina",
+          tempo: "~15s"
+        }
+      ]
+    },
+    {
+      titolo: "FASE 5 · Controlli, Revisione e Pubblicazione",
+      colore: "var(--p4)",
+      sub: [
+        {
+          num: "5.1",
+          nome: "Correzioni uscita a caldo (sezioni e doppioni)",
+          desc: "Haiku rileva casi dubbi sulle notizie appena scritte; Sonnet conferma prima di applicare modifiche.",
+          script: "strumenti/controllo_giornata.py --correggi",
+          tipo: "llm",
+          cat: "correzioni",
+          badge: "LLM · Haiku + Sonnet",
+          tempo: "~30s"
+        },
+        {
+          num: "5.2",
+          nome: "Controllo di congruità editoriale & Sintassi",
+          desc: "Verifica obbligatoria fonti reali, link corretti, luoghi geografici e sintassi JavaScript.",
+          script: "strumenti/controllo_congruita.py · node --check",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~4s"
+        },
+        {
+          num: "5.3",
+          nome: "Guardia regressione anti-calo notizie",
+          desc: "Blocco della pubblicazione se il numero di notizie (totale o per sezione) è calato rispetto all'uscita precedente.",
+          script: "strumenti/guardia_regressione.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~1s"
+        },
+        {
+          num: "5.4",
+          nome: "Collegamenti storici «Ne abbiamo parlato»",
+          desc: "Ricerca automatica nel database SQLite notizie.db degli articoli collegati degli ultimi 30 giorni.",
+          script: "strumenti/collega_precedenti.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM · SQLite)",
+          tempo: "~4s"
+        },
+        {
+          num: "5.5",
+          nome: "Database, Consumi e Stato app",
+          desc: "Popolamento notizie.db, aggiornamento consumi.js e riga di stato dinamica dati/stato.js per l'app.",
+          script: "aggiorna_database.py · aggiorna_consumi.py · stato_uscita.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~3s"
+        },
+        {
+          num: "5.6",
+          nome: "Pubblicazione GitHub Pages & Sincronizzazione motore",
+          desc: "Deploy dell'app su GitHub Pages e sincronizzazione degli strumenti sul repo privato usm-motore.",
+          script: "pubblica_github.py · sincronizza_motore.py",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM · Git)",
+          tempo: "~25s"
+        }
+      ]
+    },
+    {
+      titolo: "FASE 6 · Audit e Controllo Serale di Fine Giornata (dopo le 20:20)",
+      colore: "var(--p5)",
+      sub: [
+        {
+          num: "6.1",
+          nome: "Audit complessivo giornaliero sezioni e doppioni",
+          desc: "Rapporto completo sulle edizioni del giorno con proposte di miglioramento a catalogo e regole codice.",
+          script: "strumenti/controllo_giornata.py (report)",
+          tipo: "llm",
+          cat: "controllo",
+          badge: "LLM · Haiku",
+          tempo: "~1m"
+        },
+        {
+          num: "6.2",
+          nome: "Pubblicazione report web (redazione/ultimo.html)",
+          desc: "Rende consultabile il rapporto del controllo serale via web anche a PC spento.",
+          script: "strumenti/pubblica_github.py (upload artifact)",
+          tipo: "meccanico",
+          badge: "Meccanico (0 LLM)",
+          tempo: "~15s"
+        }
+      ]
+    }
+  ];
+
+  const htmlFasi = [];
+  FASI.forEach((f, fIdx) => {
+    htmlFasi.push(`
+      <tr class="phase-row" onclick="togglePhase(${fIdx})" style="background:color-mix(in srgb, ${f.colore} 40%, var(--card))" title="Clicca per comprimere o espandere questa fase">
+        <td colspan="3" style="font-weight:700">
+          <span class="phase-toggle" id="phase-arrow-${fIdx}">▼</span> ${esc(f.titolo)}
+        </td>
+      </tr>
+    `);
+    f.sub.forEach(s => {
+      let badgeCls = "badge-mech";
+      if (s.tipo === "llm") badgeCls = "badge-llm";
+      else if (s.tipo === "incluso") badgeCls = "badge-incluso";
+      else if (s.tipo === "web") badgeCls = "badge-web";
+
+      const tempoHtml = s.tempo ? `<span style="display:inline-block;margin-top:3px;font-family:Consolas,monospace;font-size:11.5px;color:var(--text);font-weight:600">⏱ ${esc(s.tempo)}</span>` : "";
+
+      let colConsumo = "";
+      if (s.tipo === "meccanico") {
+        colConsumo = `<div class="consumo-zero">0 token &middot; $ 0,00<small style="display:block;font-size:11px;color:var(--muted)">script locale/cloud</small>${tempoHtml}</div>`;
+      } else if (s.tipo === "web") {
+        colConsumo = `<div class="consumo-zero">0 token LLM<small style="display:block;font-size:11px;color:var(--muted)">download pagine HTTP</small>${tempoHtml}</div>`;
+      } else if (s.tipo === "incluso") {
+        colConsumo = `<div class="consumo-zero" style="font-size:11.5px">${esc(s.badge)}${tempoHtml ? `<br>${tempoHtml}` : ""}</div>`;
+      } else if (s.tipo === "llm") {
+        const dat = cat7[s.cat] || { in: 0, out: 0, usd: 0, sec: 0, count: 0 };
+        const mOut = Math.round(dat.out / N7);
+        const mIn = Math.round(dat.in / N7);
+        const mUsd = dat.usd / N7;
+        const mSec = dat.count > 0 ? dat.sec / dat.count : 0;
+        const pct = totUsd7 > 0 ? Math.round((dat.usd / totUsd7) * 100) : 0;
+        const misuratoStr = mSec > 0 ? ` (storico: ${fmtTempo(mSec)})` : "";
+        colConsumo = `
+          <div class="consumo-val">
+            <b>${usd(mUsd)} / gg</b> <span class="pct">(${pct}%)</span>
+            <small>${fm(mOut)} token out &middot; ${fm(mIn)} in/gg</small>
+            ${tempoHtml ? `<div>${tempoHtml}<span style="font-size:11px;color:var(--muted)">${misuratoStr}</span></div>` : ""}
+            ${s.nota ? `<small style="color:var(--accent);font-style:italic;display:block;margin-top:2px">${esc(s.nota)}</small>` : ""}
+          </div>
+        `;
+      }
+
+      htmlFasi.push(`
+        <tr class="phase-sub-${fIdx}">
+          <td>
+            <span class="subphase-num">${esc(s.num)}</span>
+            <span class="subphase-name">${esc(s.nome)}</span>
+            <div class="subphase-desc">${esc(s.desc)} &mdash; <code>${esc(s.script)}</code></div>
+          </td>
+          <td><span class="badge ${badgeCls}">${esc(s.badge)}</span></td>
+          <td>${colConsumo}</td>
+        </tr>
+      `);
+    });
+  });
+
+  htmlFasi.push(`
+    <tr style="background:color-mix(in srgb,var(--paper) 70%,var(--hair));font-weight:700">
+      <td colspan="2" style="padding:11px 14px;font-family:var(--display);font-size:14px">
+        TOTALE MEDIO GIORNALIERO (ultimi ${N7} giorni attivi misurati)
+        <div style="font-family:Consolas,monospace;font-size:12px;font-weight:normal;color:var(--muted);margin-top:3px">
+          ⏱ Tempo stimato ciclo di redazione completo: <b>~3 - 4 min</b> (prima delle ottimizzazioni: ~15 - 20 min)
+        </div>
+      </td>
+      <td style="text-align:right;padding:11px 14px">
+        <div class="consumo-val">
+          <b style="font-size:14.5px;color:var(--accent)">${usd(totUsd7 / N7)} / gg</b>
+          <small>${fm(Math.round(totOut7 / N7))} token out &middot; ${fm(Math.round(totIn7 / N7))} in/gg</small>
+          <div style="font-family:Consolas,monospace;font-size:12px;color:var(--text);margin-top:3px">
+            ⏱ Medio LLM / gg: <b>${fmtTempo(totSec7 / N7)}</b>
+          </div>
+        </div>
+      </td>
+    </tr>
+  `);
+
+  const elFasi = document.getElementById("fasiRedazioneCorpo");
+  if (elFasi) elFasi.innerHTML = htmlFasi.join("");
+})();
+</script>
+</body>
+</html>
