@@ -1028,5 +1028,35 @@ window.CONSUMI = [
   "usd": 0.02,
   "notizie": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-17T17:33:23",
+  "fase": "completamento (uscita 17, 32 min)",
+  "blocchi": 39,
+  "in": 298054,
+  "out": 819015,
+  "usd": 4.45,
+  "notizie": 829,
+  "sec": 1920
+ },
+ {
+  "t": "2026-10-17T17:35:50",
+  "fase": "correzioni uscita 17 (2026-10-17-sera)",
+  "blocchi": null,
+  "in": 127084,
+  "out": 31350,
+  "usd": 0.15,
+  "notizie": null,
+  "sec": null
+ },
+ {
+  "t": "2026-10-17T17:37:49",
+  "fase": "traduzione titoli",
+  "blocchi": 8,
+  "in": 47149,
+  "out": 120397,
+  "usd": 0.07,
+  "notizie": null,
+  "sec": null
  }
 ];
