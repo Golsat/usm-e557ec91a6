@@ -3,6 +3,441 @@ window.EDIZIONI["2026-10-17"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z9c0d80a1",
+   "sez": "italia",
+   "titolo": "Ex Ilva, chiesta la cassa integrazione straordinaria per 8.622 lavoratori",
+   "orig": "Ex Ilva, chiesto il raddoppio della cassa integrazione: coinvolti 8622 lavoratori su 9626",
+   "lead": "Acciaierie d'Italia, l'ex Ilva oggi in amministrazione straordinaria, ha chiesto di raddoppiare la cassa integrazione. La misura riguarderebbe fino a 8.622 dipendenti su un totale di 9.626. La quota più grande è a Taranto, con 6.694 lavoratori; seguono Genova con 870 e Novi Ligure con 515. Secondo l'azienda, lo spegnimento dell'area a caldo, previsto per il 9 ottobre, rende necessario un piano operativo diverso. La società definisce la richiesta «improcrastinabile». Il risultato sarebbe la sospensione dal lavoro di quasi tutta la forza lavoro del gruppo.",
+   "more": [
+    "L'ex Ilva è il principale gruppo siderurgico italiano. Il suo stabilimento più grande si trova a Taranto. L'area a caldo comprende gli altiforni e gli impianti che producono la ghisa e l'acciaio grezzo, cioè il cuore del ciclo produttivo. L'amministrazione straordinaria è la procedura pubblica usata per gestire le grandi imprese in crisi."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/17/news/ex_ilva_raddoppia_cassa_integrazione-425654015/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T06:46+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/ex-ilva-fino-a-8622-lavoratori-in-cigs-d86cf180-2987-4ea6-a13c-37d48f0015c9.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:10+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze9241db7",
+   "sez": "economia",
+   "titolo": "Giorgetti al Fondo monetario: debito sostenibile senza frenare la crescita",
+   "orig": "Giorgetti al Fmi: 'Salvaguardare la sostenibilità del debito proteggendo la crescita'",
+   "lead": "Il ministro dell'Economia Giancarlo Giorgetti è intervenuto ai lavori del Fondo monetario internazionale. Ha sostenuto che bisogna garantire la sostenibilità del debito pubblico e, allo stesso tempo, proteggere la crescita economica. Nella stessa occasione ha parlato anche la presidente della Banca centrale europea, Christine Lagarde. Secondo Lagarde, è impossibile ignorare lo shock energetico che pesa sulle economie. I due interventi mettono così in primo piano il difficile equilibrio tra conti pubblici, sviluppo e costi dell'energia. Lo riferisce ANSA.",
+   "more": [
+    "Il Fondo monetario internazionale è un'istituzione con sede a Washington. Riunisce quasi tutti i Paesi del mondo, sorveglia la stabilità finanziaria globale e concede prestiti agli Stati in difficoltà. La Bce è invece la banca centrale dei Paesi che usano l'euro: decide i tassi di interesse dell'area."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/10/17/giorgetti-salvaguardare-la-sostenibilita-del-debito_e898eb82-ee13-41f2-beb1-1525ce781315.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T09:47+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zea04e31e",
+   "sez": "tech",
+   "titolo": "Starshield, l'ordine di limitare l'uso ucraino sarebbe partito dalla Casa Bianca",
+   "orig": "Media: 'L'ordine per limitare uso di Starshield a Kiev è arrivato dalla Casa Bianca'",
+   "lead": "Secondo alcuni media, l'ordine di limitare l'uso del sistema satellitare Starshield da parte dell'Ucraina è arrivato dalla Casa Bianca. Le restrizioni avrebbero reso più difficili gli attacchi di Kiev contro obiettivi russi. Avrebbero anche rallentato l'impiego dei droni intercettori. In Italia il ministro della Difesa Guido Crosetto ha definito un errore limitare l'accesso di Kiev ai satelliti. Crosetto ha anche ricordato che il nostro Paese subisce centinaia di attacchi informatici ogni giorno.",
+   "more": [
+    "Starshield è la versione militare e governativa della rete satellitare Starlink, sviluppata da SpaceX, l'azienda di Elon Musk. Offre comunicazioni sicure e servizi di osservazione alle istituzioni. Per le forze ucraine i collegamenti satellitari sono essenziali per coordinare droni e operazioni."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/lordine-per-limitare-uso-di-starshield-a-kiev-e-arrivato-dalla-casa-bianca_83f25cb9-9abf-47e9-98b3-ef69fe52cdb8.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T09:31+02:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/crosetto-errore-limitare-accesso-kiev-a-satelliti-kiev--a5618009-b204-4298-bb26-a606895a20ed.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T06:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z99a0e976",
+   "sez": "cultura",
+   "titolo": "Elif Shafak e la crisi creativa: ha senso scrivere in tempi di caos?",
+   "orig": "‘Is there any value in writing a story in a time of chaos?’: novelist Elif Shafak on her creative crisis",
+   "lead": "In un'intervista la scrittrice Elif Shafak racconta la crisi creativa che ha dovuto superare. Parla della sua infanzia nomade, degli attacchi subiti dal governo turco e della depressione che ha affrontato prima di scrivere il suo ultimo romanzo. Shafak è considerata l'autrice più amata della Turchia, e i suoi libri passano di mano in mano tra i lettori. «There Are Rivers in the Sky», che segue una goccia di pioggia dall'antica Ninive al fiume Tigri nel 2018, è stato tra i romanzi letterari più venduti nel Regno Unito l'anno scorso. Lo riferisce The Guardian.",
+   "more": [
+    "Elif Shafak è una scrittrice turco-britannica che vive a Londra. Nei suoi romanzi intreccia storia, identità e memoria e affronta spesso temi delicati per la Turchia, come i diritti delle donne e le minoranze. Scrive sia in turco sia in inglese ed è tradotta in moltissime lingue."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/books/2026/oct/17/is-there-any-value-in-writing-a-story-in-a-time-of-chaos-novelist-elif-shafak-on-her-creative-crisis",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdb3e108e",
+   "sez": "mondo",
+   "titolo": "Ex produttrice di ESPN: inchieste sulle scommesse messe da parte",
+   "orig": "The ESPN producer who quit over gambling – and the stories she says went untold",
+   "lead": "La giornalista investigativa Nicole Noren ha lasciato la rete sportiva americana ESPN e ha deciso di raccontare pubblicamente le ragioni della sua scelta. Secondo Noren, l'emittente ha messo in secondo piano le inchieste sulle società di scommesse sportive. Questo sarebbe accaduto mentre gli accordi commerciali con il settore del gioco cambiavano le priorità della rete. Per una professionista abituata a lavorare dietro le quinte, esporsi in prima persona è stata una scelta insolita. Lo riferisce The Guardian.",
+   "more": [
+    "ESPN è la principale rete televisiva sportiva degli Stati Uniti e fa parte del gruppo Disney. Negli ultimi anni le scommesse sportive sono state legalizzate in molti Stati americani. Così è cresciuto il peso economico delle società del settore nei media sportivi, anche attraverso partnership dirette."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/2026/oct/17/espn-producer-nicole-noren-sports-betting-gambling-investigations",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1d6d8f65",
+   "sez": "ambiente",
+   "titolo": "Antartide, il ghiacciaio Thwaites si scioglie più in fretta del previsto",
+   "orig": "Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
+   "lead": "In Antartide il ghiacciaio Thwaites, grande quanto il Senegal, perde ghiaccio da decenni. Ora però cresce la preoccupazione che la perdita stia accelerando rapidamente, più di quanto si pensasse finora. Per questo il ghiacciaio è tra i più osservati dagli scienziati, che cercano di capire perché la sua evoluzione sia così importante per il pianeta. Lo riferisce Al Jazeera.",
+   "more": [
+    "Il Thwaites si trova nell'Antartide occidentale ed è soprannominato il «ghiacciaio dell'apocalisse». Funziona come un tappo che trattiene altri ghiacci dell'entroterra. Se dovesse collassare, contribuirebbe in modo significativo all'innalzamento del livello dei mari in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "XX",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T07:43+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6041109f",
+   "sez": "cultura",
+   "titolo": "Il flop di «Digger»: che cosa significa per Tom Cruise e Hollywood",
+   "orig": "The Digger disaster: what an epic movie flop means for Tom Cruise and Hollywood",
+   "lead": "«Digger», il film con Tom Cruise diretto da Alejandro González Iñárritu, rischia di diventare un clamoroso insuccesso. Secondo le stime perderà 245 milioni di dollari. L'analisi indica come cause errori di valutazione, tempi sbagliati e un'enorme arroganza. Eppure, quattro settimane fa, la prima mondiale a Londra era stata spettacolare. Erano presenti il principe e la principessa del Galles, accolti dalla fanfara della banda delle Irish Guards. Lo riferisce The Guardian.",
+   "more": [
+    "Tom Cruise è una delle star più redditizie di Hollywood, legato soprattutto a saghe d'azione come «Mission: Impossible». Alejandro González Iñárritu è un regista messicano, premiato con l'Oscar per film come «Birdman» e «Revenant». Il loro incontro era quindi tra i più attesi."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:12+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9c34c997",
+   "sez": "sport",
+   "titolo": "Hajduk Spalato-Ajax, arresti per cori filonazisti",
+   "orig": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
+   "lead": "In Croazia alcuni tifosi sono stati arrestati per cori filonazisti e insulti. I fatti sono avvenuti prima e durante la partita di Conference League tra Hajduk Spalato e Ajax, giocata a Spalato. L'intervento della polizia riguarda tifosi che hanno usato slogan di stampo nazista sugli spalti e nelle fasi che hanno preceduto il match. L'episodio riporta l'attenzione sul problema del razzismo e dell'estremismo nel tifo calcistico. Lo riferisce Al Jazeera.",
+   "more": [
+    "La Conference League è la terza competizione europea per club organizzata dalla Uefa, dopo Champions League ed Europa League. L'Hajduk Spalato è una delle squadre più popolari della Croazia. L'Ajax di Amsterdam è uno dei club più titolati dei Paesi Bassi."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "XX",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T07:45+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za87fc14e",
+   "sez": "economia",
+   "titolo": "Abi: a settembre prestiti in crescita del 3,7%, mutui al 3,6%",
+   "orig": "Abi, i prestiti a settembre salgono del 3,7%. Tasso sui mutui al 3,6 per cento",
+   "lead": "Secondo l'Abi, l'associazione delle banche italiane, a settembre i prestiti sono cresciuti del 3,7%. Il tasso medio sui nuovi mutui si è attestato al 3,6%. Sono però in aumento anche i crediti deteriorati, cioè i prestiti a rischio di non essere restituiti. Sono passati da 26 miliardi di maggio a 28,2 miliardi nel mese estivo considerato, e la loro incidenza sul totale degli impieghi è pari all'1,32%. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "L'Abi, Associazione bancaria italiana, rappresenta le banche che operano in Italia. Pubblica ogni mese un rapporto su prestiti, depositi e tassi di interesse. I crediti deteriorati sono i finanziamenti che i debitori faticano a restituire o non restituiscono affatto."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "XX",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/abi-prestiti-settembre-salgono-37percento-tasso-mutui-36-cento-AJgPdmmB",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:35+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0a30ca12",
+   "sez": "cultura",
+   "titolo": "Le carte di AS Byatt alla British Library: dentro la mente della scrittrice",
+   "orig": "‘I know I can do anything’: new archive of AS Byatt’s papers looks inside the writer’s extraordinary mind",
+   "lead": "La British Library ha acquisito l'archivio di AS Byatt, autrice di «Possession» e vincitrice del Booker Prize. Sono 68 scatole di quaderni, lettere e diari che mostrano come la scrittrice raccogliesse il materiale per i suoi romanzi, frutto di ricerche accuratissime. Nei diari giovanili emergono i suoi dubbi. Nel settembre 1956, a vent'anni, si chiedeva se prendersi sul serio come scrittrice e si rispondeva di no. Eppure la determinazione era già evidente nelle pagine del suo compleanno. Lo riferisce The Guardian.",
+   "more": [
+    "Antonia Susan Byatt è stata una delle scrittrici britanniche più celebri. «Possession», romanzo del 1990, intreccia una storia contemporanea con le vicende di due poeti vittoriani e ha vinto il Booker Prize. La British Library, a Londra, è la biblioteca nazionale del Regno Unito."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/books/2026/oct/17/as-byatt-british-library-literary-papers-archive",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T07:24+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z96190827",
+   "sez": "italia",
+   "titolo": "Quirinale, Zampetti racconta il metodo Mattarella nei momenti difficili",
+   "orig": "Quirinale, il metodo Mattarella per i momenti difficili: il racconto di Zampetti a Sky Tg 24",
+   "lead": "Ugo Zampetti, segretario generale del Quirinale, ha raccontato a Sky Tg24 come il presidente Sergio Mattarella affronta i momenti difficili. L'intervista fa parte di un ciclo dedicato ai «grand commis» dello Stato. Sono uomini e donne poco noti al grande pubblico, ma protagonisti delle decisioni che segnano la vita del Paese. Il racconto offre uno sguardo dall'interno sul funzionamento della presidenza della Repubblica. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Il segretario generale della presidenza della Repubblica guida l'apparato amministrativo del Quirinale e affianca il capo dello Stato nella sua attività. Con «grand commis» si indicano gli alti funzionari pubblici che garantiscono la continuità delle istituzioni al di là dei cambi di governo."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "XX",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/quirinale-zampetti-racconta-sky-tg-24-metodo-mattarella-i-momenti-difficili-si-concentra-soluzioni-piu-che-attardarsi-problemi-AJ1vopmB",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:34+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z65632955",
+   "sez": "ambiente",
+   "titolo": "Incendi, nel 2026 in Italia bruciata un'area grande quasi come Roma",
+   "orig": "Gli incendi nel 2026 hanno già distrutto un territorio grande quasi come Roma",
+   "lead": "Nel 2026 gli incendi in Italia hanno già distrutto un territorio esteso quasi quanto il comune di Roma. La superficie bruciata è in aumento, e quest'anno si sta rivelando particolarmente critico. I valori complessivi sono tra i più alti registrati negli ultimi anni. Il dato conferma come il fuoco sia diventato un'emergenza ambientale sempre più seria per il Paese. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Il comune di Roma è tra i più estesi d'Europa: il paragone rende l'idea di quanto sia vasta l'area andata in fumo. Gli incendi boschivi sono favoriti da siccità, alte temperature e abbandono dei terreni, e spesso hanno anche origine dolosa."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "XX",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/gli-incendi-2026-hanno-gia-distrutto-territorio-grande-quasi-come-roma-AJQ6tpmB",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:27+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3f838583",
+   "sez": "italia",
+   "titolo": "Avs, le proposte al voto in vista dell'assemblea di domenica",
+   "orig": "Avs, dal reddito universale alle rinnovabili: tutte le proposte al voto in vista dell’assemblea di domenica",
+   "lead": "Alleanza Verdi e Sinistra prepara l'assemblea di domenica con una serie di proposte da mettere al voto. Tra queste ci sono un reddito minimo garantito a livello europeo, la riduzione delle emissioni e trasporti gratuiti per chi ha meno di 30 anni. Si parla anche di matrimonio egualitario, contrasto all'omofobia e rinnovabili. Il documento delinea il programma con cui la formazione vuole presentarsi. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Alleanza Verdi e Sinistra è una formazione politica italiana nata dall'unione tra Europa Verde e Sinistra Italiana. È guidata da Angelo Bonelli e Nicola Fratoianni, si colloca all'opposizione e unisce temi ambientalisti, sociali e legati ai diritti civili."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "XX",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/avs-reddito-universale-rinnovabili-tutte-proposte-voto-vista-dell-assemblea-domenica-AJFxYomB",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T07:37+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z79a08910",
+   "sez": "mondo",
+   "titolo": "Francia, il premier: la rabbia degli studenti viene strumentalizzata",
+   "orig": "Are student protests being manipulated ahead of France's presidential election?",
+   "lead": "In Francia il primo ministro ha lasciato intendere che la rabbia degli studenti viene usata come un'arma politica in vista delle elezioni presidenziali. Intanto sindacati e altri gruppi si preparano a scendere in piazza. Alle proteste partecipano anche i Gilet gialli, mobilitati contro il carovita e le disuguaglianze. Le autorità temono che alcune manifestazioni possano degenerare in violenze.",
+   "more": [
+    "In Francia il presidente della Repubblica viene eletto direttamente dai cittadini e ha ampi poteri, mentre il primo ministro guida il governo. Le proteste di piazza, soprattutto di studenti e sindacati, hanno una lunga tradizione nel Paese e spesso influenzano il clima politico."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-15T23:25+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "XX",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:02+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2bf5ebbb",
+   "sez": "mondo",
+   "titolo": "Rubio in Uzbekistan, l'Asia centrale cerca nuovi partner",
+   "orig": "Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners",
+   "lead": "Il segretario di Stato americano Marco Rubio è in visita in Uzbekistan. Il viaggio mette in luce come i Paesi dell'Asia centrale stiano cercando partner diversi, senza legarsi a un solo alleato. Resta da capire se gli Stati Uniti riusciranno a riconquistare influenza nella regione. Washington punta su un approccio pragmatico, basato su accordi e convenienze reciproche. Lo riferisce Al Jazeera.",
+   "more": [
+    "L'Asia centrale comprende ex repubbliche sovietiche come Uzbekistan e Kazakistan, ricche di risorse naturali. Storicamente la regione è legata alla Russia, ma negli ultimi anni ha visto crescere anche l'influenza della Cina e l'interesse di altre potenze."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "XX",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T08:27+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4e874274",
+   "sez": "mondo",
+   "titolo": "Siria meridionale, raid e arresti israeliani mettono la popolazione allo stremo",
+   "orig": "Israeli raids and arrests in southern Syria push population to the brink",
+   "lead": "Nel sud della Siria i raid e gli arresti compiuti dalle forze israeliane stanno portando la popolazione al limite. Alcuni sopravvissuti raccontano condizioni di detenzione durissime. Parlano di percosse, di persone tenute legate e di abusi psicologici da parte dei soldati israeliani. Le testimonianze descrivono una situazione sempre più difficile per i civili della zona. Lo riferisce Al Jazeera.",
+   "more": [
+    "Il sud della Siria confina con le alture del Golan, occupate da Israele. Dopo la caduta del governo di Bashar al-Assad, l'esercito israeliano ha ampliato la sua presenza nella zona di confine. Israele motiva queste operazioni con ragioni di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "XX",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T07:17+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd961d60d",
+   "sez": "mondo",
+   "titolo": "Gerusalemme, torna il progetto della funivia: case palestinesi da demolire",
+   "orig": "Gerusalemme, Israele rilancia il piano per la funivia: “Demolite case palestinesi per costruirla”",
+   "lead": "Israele rilancia il progetto della funivia di Gerusalemme, fermo da anni. L'impianto dovrebbe collegare la parte occidentale della città al parco della Città di David, il complesso turistico che i coloni stanno realizzando in un quartiere di Gerusalemme Est. Secondo la denuncia, per costruirla sarebbero demolite case palestinesi. Nella consulenza tecnica era stata coinvolta all'inizio una società con sede a Bolzano, che a ottobre ha deciso di ritirarsi. Lo riferisce la Repubblica.",
+   "more": [
+    "Gerusalemme Est è la parte della città abitata in prevalenza da palestinesi, che la rivendicano come capitale del loro futuro Stato. Israele la occupa e l'ha annessa. La Città di David è un sito archeologico nel quartiere di Silwan, al centro di forti tensioni per l'espansione dei coloni."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/17/news/gerusalemme_israele_rilancia_progetto_funivia_demolite_case_palestinesi_silwan-425654125/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T07:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "10:49",
+   "uscita": "mattino"
+  },
+  {
    "id": "z7749ef03",
    "sez": "mondo",
    "titolo": "Missione Onu incontra il capo della gendarmeria mauritana",
@@ -7276,6 +7711,15 @@ window.EDIZIONI["2026-10-17"] = {
      "u": "https://www.ilmessaggero.it/roma/spettacoli/teatro_valle_roma_apertura-9829830.html",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/10/16/rinasce-il-teatro-valle-di-roma-si-rialza-il-sipario-dopo-16-anni_ce2f0652-ef26-40cc-ada7-f96d9ff58999.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T09:34+02:00"
     }
    ],
    "data": "",
@@ -12795,6 +13239,24 @@ window.EDIZIONI["2026-10-17"] = {
      "angolo": "",
      "atlas": "Bosnia and Herz.",
      "t": "2026-10-17T08:06+02:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/trump-sospende-sanzioni-e-dazi-alla-russia-sullexport_c94c6910-154f-4071-9bce-b30372b93263.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T10:28+02:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/alt-trump-a-graham-act-con-dazi-a-mosca-7c9e7cca-1839-4a9e-8720-e2566462207a.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T05:00+00:00"
     }
    ],
    "data": "17 ott"
@@ -13724,7 +14186,24 @@ window.EDIZIONI["2026-10-17"] = {
   "z9f2ee49e": "Le Nouvelliste riporta la candidatura come fatto politico senza commenti aggiuntivi.",
   "zff9710a3": "Prensa Libre descrive lo stato dei lavori con taglio informativo locale.",
   "z81659c9e": "Prensa Libre mette a confronto i due paesi per evidenziare le inefficienze guatemalteche.",
-  "z8f541536": "G1 ricostruisce la distinzione tecnica e politica tra servizio civile e militare dei satelliti SpaceX."
+  "z8f541536": "G1 ricostruisce la distinzione tecnica e politica tra servizio civile e militare dei satelliti SpaceX.",
+  "z9c0d80a1": "Repubblica dà il dettaglio dei numeri per ciascuno stabilimento. Rai News insiste invece sull'urgenza della richiesta, legata allo spegnimento dell'area a caldo.",
+  "ze9241db7": "ANSA mette a confronto la linea del governo italiano sul debito e l'allarme di Lagarde sull'energia.",
+  "zea04e31e": "ANSA ricostruisce da dove è partito l'ordine e quali effetti ha avuto sul campo. Rai News sceglie il punto di vista italiano, con la critica di Crosetto e l'allarme sugli attacchi informatici.",
+  "z99a0e976": "The Guardian si concentra sul lato personale della scrittrice e sul suo successo presso i lettori.",
+  "zdb3e108e": "The Guardian mette al centro il possibile conflitto tra informazione sportiva e interessi commerciali legati alle scommesse.",
+  "z1d6d8f65": "Al Jazeera mette l'accento sull'accelerazione della fusione e sulle conseguenze che può avere.",
+  "z6041109f": "The Guardian mette a confronto lo sfarzo della prima londinese e le enormi perdite previste.",
+  "z9c34c997": "Al Jazeera mette in evidenza gli arresti e il carattere filonazista dei cori.",
+  "za87fc14e": "Il Sole 24 Ore mette accanto la crescita del credito e l'aumento dei prestiti a rischio.",
+  "z0a30ca12": "The Guardian si concentra sul metodo di lavoro della scrittrice e sui dubbi dei suoi esordi.",
+  "z96190827": "Il Sole 24 Ore fa conoscere le figure tecniche che lavorano dietro le istituzioni.",
+  "z65632955": "Il Sole 24 Ore punta sul paragone con Roma per far capire quanto sia grave il fenomeno.",
+  "z3f838583": "Il Sole 24 Ore elenca in modo ordinato le proposte del partito su temi sociali, ambientali e di diritti.",
+  "z79a08910": "La BBC si chiede se la protesta studentesca venga strumentalizzata in vista del voto. Deutsche Welle guarda invece all'ampiezza della mobilitazione e al rischio di scontri.",
+  "z2bf5ebbb": "Al Jazeera inserisce la visita nella competizione tra potenze nella regione e nella strategia di equilibrio dei Paesi locali.",
+  "z4e874274": "Al Jazeera dà voce alle testimonianze dei detenuti sui maltrattamenti subiti.",
+  "zd961d60d": "Repubblica mette in risalto le demolizioni e il legame italiano con il progetto."
  },
  "contesti": {
   "ucrainaguerra": "Da mesi Washington media tra Kyiv e Mosca nel quadro dei negoziati promossi dall'amministrazione Trump. Nella notte tra il 13 e il 14 ottobre i terminali Starshield/Starlink usati dall'esercito ucraino hanno smesso di funzionare oltre i 160 km/h su ordine della Casa Bianca: Zelensky, che si è detto «tradito», ha annunciato la ripresa degli attacchi alle raffinerie russe, mentre Musk ha attaccato pubblicamente il leader ucraino e Trump lo ha definito «più difficile di Putin». Una settimana fa Trump ha concordato con Putin l'arrivo di diesel russo sul mercato globale per calmierare i prezzi dei carburanti.",
@@ -17620,6 +18099,123 @@ window.EDIZIONI["2026-10-17"] = {
     "Costa Rica"
    ],
    "pt": []
+  },
+  "z9c0d80a1": {
+   "n": "Taranto",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze9241db7": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zea04e31e": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z99a0e976": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zdb3e108e": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1d6d8f65": {
+   "n": "Antartide",
+   "p": [],
+   "pt": []
+  },
+  "z6041109f": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z9c34c997": {
+   "n": "Spalato",
+   "p": [
+    "Croatia"
+   ],
+   "pt": []
+  },
+  "za87fc14e": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z0a30ca12": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z96190827": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z65632955": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z3f838583": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z79a08910": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z2bf5ebbb": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z4e874274": {
+   "n": "Siria meridionale",
+   "p": [
+    "Syria"
+   ],
+   "pt": []
+  },
+  "zd961d60d": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -17742,7 +18338,7 @@ window.EDIZIONI["2026-10-17"] = {
   "z6d43437e": 1,
   "z1d52fde9": 1,
   "z5c5432ef": 1,
-  "z3c61eee2": 1,
+  "z3c61eee2": 2,
   "z8c6f9c2b": 1,
   "z2e6f6e4e": 1,
   "zb39f9632": 1,
@@ -18119,7 +18715,24 @@ window.EDIZIONI["2026-10-17"] = {
   "z951f40c5": 1,
   "z9f2ee49e": 1,
   "zff9710a3": 1,
-  "z81659c9e": 1
+  "z81659c9e": 1,
+  "z9c0d80a1": 2,
+  "ze9241db7": 1,
+  "zea04e31e": 2,
+  "z99a0e976": 1,
+  "zdb3e108e": 1,
+  "z1d6d8f65": 1,
+  "z6041109f": 1,
+  "z9c34c997": 1,
+  "za87fc14e": 1,
+  "z0a30ca12": 1,
+  "z96190827": 1,
+  "z65632955": 1,
+  "z3f838583": 1,
+  "z79a08910": 2,
+  "z2bf5ebbb": 1,
+  "z4e874274": 1,
+  "zd961d60d": 1
  },
  "video": {},
  "pillole": []
