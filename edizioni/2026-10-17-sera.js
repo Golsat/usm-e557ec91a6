@@ -3,6 +3,1945 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z8b1e411c",
+   "sez": "mondo",
+   "titolo": "Cercatori di souvenir saccheggiando le torri demolite a Praga con smerigliatrici",
+   "orig": "Souvenir hunters descend on fallen Czech towers armed with angle grinders",
+   "lead": "Una ditta di demolizione denuncia furti e massicce violazioni di proprietà presso il sito della ex stazione trasmittente di Praga, dove cercatori di souvenir armati di smerigliatrici continuano ad asportare parti dei resti. La polizia ceca sostiene tuttavia di non avere ancora ricevuto denunce ufficiali sui saccheggi. Lo riferisce Expats.cz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/souvenir-hunters-descend-on-fallen-czech-towers-armed-with-angle-grinders",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-17T15:32+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z9a0b6559",
+   "sez": "mondo",
+   "titolo": "Nati due cuccioli rari di leopardo dello Sri Lanka nello zoo di Ostrava",
+   "orig": "Rare leopard cubs born at Ostrava Zoo boost European breeding program",
+   "lead": "Due cuccioli di leopardo dello Sri Lanka sono nati nello zoo di Ostrava e vengono allevati dalla madre in aree non aperte al pubblico, segnando un raro successo del programma europeo di riproduzione in cattività per la specie. La nascita rappresenta un importante traguardo conservazionistico. Lo riferisce Expats.cz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/rare-leopard-cubs-born-at-ostrava-zoo-boost-european-breeding-program",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-17T15:14+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z5a71423a",
+   "sez": "mondo",
+   "titolo": "Le strade più pericolose di Praga e il crimine violento",
+   "orig": "Prague’s most dangerous streets: These areas had the most violent offenses",
+   "lead": "Un'analisi decennale identifica dieci strade di Praga e le zone limitrofe come responsabili del 29 per cento dei crimini violenti registrati nella capitale ceca. Lo studio rivela una concentrazione geografica significativa della criminalità violenta, tracciando una mappa dei quadranti ad alta incidenza. Lo riferisce Expats.cz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/prague-s-crime-hotspots-the-streets-with-the-most-recorded-violent-offenses",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-17T13:20+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z8eb6c912",
+   "sez": "mondo",
+   "titolo": "Sondaggi settimanali su temi caldi cechi",
+   "orig": "This week's news: Here's what you had to say",
+   "lead": "Expats.cz pubblica i risultati dei sondaggi settimanali condotti tra i lettori della Repubblica Ceca sui temi più attuali e dibattuti nel paese. L'indagine continua a monitorare il sentiment pubblico e le priorità della popolazione su questioni di interesse nazionale. Lo riferisce Expats.cz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/this-weeks-news-in-polls-on-october-17-2026",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-17T10:30+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zd6782474",
+   "sez": "mondo",
+   "titolo": "Un quarto della Repubblica Ceca denuncia discriminazione, donne più colpite",
+   "orig": "Nearly a quarter in Czechia report discrimination, with women hit harder",
+   "lead": "Un sondaggio rappresentativo rivela che quasi il 25 per cento della popolazione ceca riferisce episodi di discriminazione, con le donne che segnalano tassi significativamente superiori rispetto agli uomini. La maggior parte dei rispondenti identifica barriere sostanziali nell'accesso a protezione e supporto. Lo riferisce Expats.cz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/nearly-a-quarter-in-czechia-report-discrimination-with-women-hit-harder",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-17T08:13+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z71ea3f75",
+   "sez": "mondo",
+   "titolo": "Bosnia ed Erzegovina, lotta per cariche e alleanze tra partiti nazionali",
+   "orig": "Tačka na 7: Borba za novu vlasti i brak (ne)nacionalnih stranaka!",
+   "lead": "Nel periodo post-elettorale in Bosnia ed Erzegovina accelera la corsa per posizioni di governo e accesso alle risorse pubbliche. Partiti nazionali e formazioni non-nazionali annunciano collaborazioni strategiche per la composizione del nuovo esecutivo e la redistribuzione dei ruoli. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/tacka-na-7-borba-za-novu-vlasti-i-brak-nenacionalnih-stranaka/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-17T15:46+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z3c1d837f",
+   "sez": "mondo",
+   "titolo": "Esercito libanese schiera truppe dopo tensioni con simpatizzanti Hezbollah",
+   "orig": "Army deploys after Hezbollah tensions involving a depot standoff, overnight protests and an unconfirmed report",
+   "lead": "L'esercito libanese ha dispiegato unità militari a Dahieh e nelle zone adiacenti di Beirut in seguito a tensioni che coinvolgono sostenitori di Hezbollah. I deploymenti seguono segnalazioni di un blitz su un deposito, proteste notturne e notizie non ancora ufficialmente confermate. Lo riferisce Naharnet.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://www.naharnet.com/stories/en/323166-army-deploys-after-hezbollah-tensions-involving-a-depot-standoff-overnight-protests-and-an-unconfirmed-report",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-10-17T14:01+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z124eb2c2",
+   "sez": "mondo",
+   "titolo": "UNIFIL si prepara al ritiro mentre ONU ribadisce impegno per la pace in Libano",
+   "orig": "Lacroix reaffirms UN commitment to peace and stability as UNIFIL prepares for drawdown",
+   "lead": "Jean-Pierre Lacroix, sottosegretario generale ONU per le operazioni di pace, conclude una visita di tre giorni in Libano riaffermando l'impegno dell'organizzazione per la stabilità del paese. UNIFIL prepara il ritiro con scadenza finale a fine dicembre 2026. Lo riferisce Naharnet.",
+   "more": [
+    "La risoluzione 1701 del Consiglio di sicurezza rimane fondamentale per gli equilibri regionali mentre il mandato UNIFIL giunge a conclusione dopo quasi due decenni di presenza."
+   ],
+   "fonti": [
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://www.naharnet.com/stories/en/323165-lacroix-reaffirms-un-commitment-to-peace-and-stability-as-unifil-prepares-for-drawdown",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-10-17T13:01+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z7aba643e",
+   "sez": "mondo",
+   "titolo": "Arabia Saudita esegue sentenza di morte per cinque condannati per terrorismo",
+   "orig": "تنفيذ حكم القتل تعزيرا بحق 5 سعوديين أدينوا بجرائم إرهابية",
+   "lead": "L'Arabia Saudita ha eseguito la sentenza di morte nei confronti di cinque cittadini sauditi condannati per crimini a sfondo terroristico, secondo quanto annunciato dal ministero dell'Interno del regno. Le esecuzioni si inquadrano nella lotta antiterrorismo della nazione. Lo riferisce Roya News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397869",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-17T16:04+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zf7ade335",
+   "sez": "mondo",
+   "titolo": "Yemen, esercito frustra attacchi degli Houthi a Taiz",
+   "orig": "تواصل المعارك في تعز والجيش اليمني يعلن إحباط هجومين منفصلين للحوثيين",
+   "lead": "L'esercito yemenita, sostenuto dalle forze di resistenza popolare, ha frustrato sabato due distinti attacchi sferrati dai militanti Houthi in aree della provincia di Taiz, nel sud-ovest del paese. Gli scontri hanno causato perdite significative tra i combattenti delle milizie ribelli. Lo riferisce Yemen Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185086?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25aa%25d9%2588%25d8%25a7%25d8%25b5%25d9%2584-%25d8%25a7%25d9%2584%25d9%2585%25d8%25b9%25d8%25a7%25d8%25b1%25d9%2583-%25d9%2581%25d9%258a-%25d8%25aa%25d8%25b9%25d8%25b2-%25d9%2588%25d8%25a7%25d9%2584%25d8%25ac%25d9%258a%25d8%25b4-%25d8%25a7%25d9%2584%25d9%258a%25d9%2585%25d9%2586%25d9%258a-%25d9%258a%25d8%25b9%25d9%2584",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-17T13:46+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z8e404d46",
+   "sez": "mondo",
+   "titolo": "Marina francese confisca 8,6 tonnellate di droga in Oceano Indiano",
+   "orig": "French Navy Seizes 8.6 Tonnes of Narcotics",
+   "lead": "La marina militare francese ha confiscato quasi 6,9 tonnellate di cocaina e 1,7 tonnellate di marijuana durante una serie di operazioni condotte in ottobre in collaborazione con partner internazionali nel teatro dell'Oceano Indiano. Lo riferisce Daily Tribune.",
+   "more": [
+    "Le operazioni si inseriscono nel quadro del monitoraggio francese sulle principali rotte del traffico di droga verso l'Europa."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/french-navy-seizes-86-tonnes-of-narcotics",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-17T11:48+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z79717e34",
+   "sez": "ambiente",
+   "titolo": "Arabia Saudita avverte di flash flood mentre tempeste attraversano il regno",
+   "orig": "Saudi Arabia warns of flash floods as storms sweep across Kingdom",
+   "lead": "L'Arabia Saudita ha emesso avvertimenti ufficiali per inondazioni lampo previste in diversi territori mentre forti temporali, pioggia intensa e grandinate interessano il regno. Le autorità esortano i residenti a evitare valli e aree note per il rischio di allagamento. Lo riferisce Daily Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/saudi-arabia-warns-of-flash-floods-as-storms-sweep-across-kingdom",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-17T11:48+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z78e25e7b",
+   "sez": "mondo",
+   "titolo": "Segretario generale ONU, veti dei Paesi permanenti minacciano i candidati",
+   "orig": "Vetoes Threaten Top Candidates in Race for Next UN Chief",
+   "lead": "Tutti e sette i candidati alla carica di segretario generale dell'Onu affrontano opposizioni da parte di almeno un membro permanente del Consiglio di sicurezza. La candidata della Costa Rica Rebeca Grynspan mantiene complessivamente il vantaggio nei sondaggi tra i candidati. Lo riferisce Daily Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/vetoes-threaten-top-candidates-in-race-for-next-un-chief",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-17T11:48+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z0632795d",
+   "sez": "mondo",
+   "titolo": "Tashkent spiega i cambiamenti di colore e odore dell'acqua calda",
+   "orig": "Tashkent Explains Changes in Hot Water Colour and Smell",
+   "lead": "Le autorità di Tashkent spiegano i mutamenti di colore, odore e limpidità dell'acqua calda segnalati in cinque distretti della capitale uzbeka, collegandoli alle attività di manutenzione programmata della rete di riscaldamento in vista della stagione invernale. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/tashkent-explains-changes-in-hot-water-colour-and-smell/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-17T12:45+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zefcc6709",
+   "sez": "ambiente",
+   "titolo": "Uzbekistan pianifica 140 milioni di alberi nel progetto Yashil Makon",
+   "orig": "Uzbekistan plans to plant 140mn saplings in autumn 2026 under Yashil Makon project",
+   "lead": "L'Uzbekistan prevede di piantare 140 milioni di giovani alberi in autunno 2026 nel quadro del progetto Yashil Makon. Le iniziative includono creazione di parchi verdi, marciapiedi ombreggiati e servizi di piantumazione estesi a 8.992 quartieri con supporto alla manutenzione arborea. Lo riferisce Daryo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/17/uzbekistan-plans-to-plant-140mn-saplings-in-autumn-2026-under-yashil-makon-project/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-17T10:47+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a66f7a5",
+   "sez": "economia",
+   "titolo": "Uzbekistan, accordi con SOCAR e BP su idrocarburi dell'Ustyurt",
+   "orig": "Uzbekistan, SOCAR and BP focus on Ustyurt hydrocarbon development",
+   "lead": "L'Uzbekistan mira a espandere la cooperazione con la società petrolifera azera SOCAR e la britannica BP sullo sviluppo di giacimenti di idrocarburi nell'Ustyurt, nuovi progetti e forniture energetiche a lungo termine. Gli accordi seguono colloqui tra il presidente Shavkat Mirziyoyev e dirigenti delle due società. Lo riferisce Daryo.",
+   "more": [
+    "L'Ustyurt rappresenta una frontiera strategica per l'approvvigionamento energetico dell'Asia centrale mentre i partner internazionali rafforzano la loro presenza nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/17/uzbekistan-socar-and-bp-focus-on-ustyurt-hydrocarbon-development/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-17T09:42+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z139ffb4e",
+   "sez": "mondo",
+   "titolo": "Ghana, 54 candidati alle elezioni regionali della NDC iniziano il processo di selezione",
+   "orig": "NDC Western Region Executive Elections: 54 aspirants begin vetting",
+   "lead": "Cinquantaquattro candidati hanno avviato il processo di selezione per le elezioni regionali della National Democratic Congress nella regione occidentale del Ghana. Gli aspiranti hanno espresso ottimismo circa il completamento della procedura presso la sede regionale del partito nella città di Sekondi. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/ndc-western-region-executive-elections-54-aspirants-begin-vetting",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T14:03+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "za2b18c4a",
+   "sez": "mondo",
+   "titolo": "Ghana, guasti equipaggiamento e cavi dietro ai blackout nella regione Ashanti",
+   "orig": "Equipment failure, cable faults caused recent power outages in Ashanti Region – ECG explains",
+   "lead": "Guasti all'equipaggiamento e difetti ai cavi sono stati i fattori determinanti dei recenti blackout nella regione Ashanti del Ghana, secondo quanto spiegato dalla compagnia elettrica ECG durante incontri con il regolatore PURC. Le discussioni hanno affrontato affidabilità dei servizi e conformità agli standard. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/equipment-failure-cable-faults-caused-recent-power-outages-in-ashanti-region-ecg-explains",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T10:49+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "ze172ed20",
+   "sez": "mondo",
+   "titolo": "Ghana, infermieri: i laboratori di competenze sono essenziali per il nuovo curriculum",
+   "orig": "Skills Labs key to making Competency-Based Curriculum meaningful - Nursing Educators",
+   "lead": "Gli educatori infermieristici del Ghana sostengono che i laboratori di competenze siano fondamentali per dare significato al nuovo curriculum basato su competenze introdotto dalle istituzioni formative nel febbraio 2026. Il nuovo approccio sposta l'addestramento dalla sola teoria alla dimostrazione pratica di competenze cliniche. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/skills-labs-key-to-making-competency-based-curriculum-meaningful-nursing-educators",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T10:38+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z5ad5bd19",
+   "sez": "mondo",
+   "titolo": "Ghana, politico chiede dimissioni della commissaria elettorale Emelia Agbenyo",
+   "orig": "I think Emelia Agbenyo should resign from the EC - Senyo Hosi",
+   "lead": "Il parlamentare Senyo Hosi ha dichiarato che Emelia Agbenyo dovrebbe rassegnare le dimissioni dalla Commissione elettorale ghanese, definendo questa nomina come una delle più grandi delusioni dell'amministrazione NDC. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/i-think-emelia-agbenyo-should-resign-from-the-ec-senyo-hosi",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T10:36+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z8c28433c",
+   "sez": "economia",
+   "titolo": "La crescita del credito in Ghana raggiunge il 34% ad agosto 2026",
+   "orig": "Credit growth rose 34% to GH¢128.3 billion as of August 2026 – BoG",
+   "lead": "La Banca del Ghana segnala una crescita del credito al 34%, raggiungendo 128,3 miliardi di cedis ad agosto 2026. Secondo il Rapporto sulla politica monetaria di settembre, l'espansione è stata trainata da prestiti più forti al settore privato e dal rimbalzo del credito al settore pubblico. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/credit-growth-rose-34-to-gh%c2%a2128-3-billion-as-of-august-2026-bog/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T13:25+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zaedcf764",
+   "sez": "economia",
+   "titolo": "La passione per la moda: la storia imprenditoriale di Exzanita Aidoo",
+   "orig": "From passion to enterprise: Exzanita Aidoo journey into fashion entrepreneurship",
+   "lead": "Exzanita Aidoo rappresenta una nuova generazione di giovani imprenditori africani che trasformano la passione in opportunità economiche. La sua strada nel settore della moda riflette come ambizione, determinazione e coraggio di intraprendere guidano molti giovani verso l'indipendenza finanziaria e l'empowerment economico. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/from-passion-to-enterprise-exzanita-aidoo-journey-into-fashion-entrepreneurship/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T13:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z4061a0fe",
+   "sez": "economia",
+   "titolo": "Il vice ministro delle Finanze del Ghana chiede controlli interni più severi",
+   "orig": "Dep. Finance Minister calls for stronger internal controls to protect public funds",
+   "lead": "Il vice ministro delle Finanze del Ghana ha sollecitato controlli interni più rigidi per proteggere le risorse pubbliche, intervenendo al 25° anniversario dell'Istituto dei revisori interni del paese. Ha esortato i revisori a passare dall'identificazione di debolezze dopo il verificarsi a una prevenzione attiva delle perdite finanziarie. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/dep-finance-minister-calls-for-stronger-internal-controls-to-protect-public-funds/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T12:55+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zb61eae73",
+   "sez": "tech",
+   "titolo": "Le frodi al mobile money in Ghana sfruttano l'ingegneria sociale, non l'hacking",
+   "orig": "Social engineering, not hacking, driving MoMo fraud in Ghana – MobileMoney Fintech",
+   "lead": "I frodi ai danni del mobile money in Ghana sfruttano sempre più tecniche di ingegneria sociale piuttosto che sofisticate tecniche di hacking, secondo Moses Tetteh di MobileMoney Fintech. I truffatori manipolano gli utenti per ottenere informazioni sensibili usate poi per accedere ai portafogli digitali e alle applicazioni bancarie. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/social-engineering-not-hacking-driving-momo-fraud-in-ghana-mobilemoney-fintech/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T12:43+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zf839f135",
+   "sez": "mondo",
+   "titolo": "Evacuazione dal Sudafrica: l'opposizione ghanese chiede un audit",
+   "orig": "South Africa Evacuation: We haven’t accused Ablakwa of wrongdoing; we want an audit – Minority",
+   "lead": "L'esponente di minoranza del Parlamento ghanese Samuel Abu Jinapor ha precisato che l'opposizione non accusa il ministro degli Esteri Ablakwa di irregolarità nell'evacuazione dei cittadini dal Sudafrica, ma richiede comunque un audit completo e trasparente della controversa operazione di rimpatrio. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/south-africa-evacuation-we-havent-accused-ablakwa-of-wrongdoing-we-want-an-audit-minority/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T12:26+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z77cffd84",
+   "sez": "mondo",
+   "titolo": "Michael Tetteh Kwetey candidato alle elezioni regionali NDC di Accra",
+   "orig": "Michael Tetteh Kwetey picks Number 1 on ballot for NDC Greater Accra Chairmanship race",
+   "lead": "Michael Tetteh Kwetey ha estratto il numero 1 sulla scheda per le elezioni alla presidenza regionale della NDC di Accra. Le elezioni regionali del principale partito di opposizione ghanese sono fissate per novembre 2026, momento in cui gli iscritti eleggeranno nuovi dirigenti. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/michael-tetteh-kwetey-picks-number-1-on-ballot-for-ndc-greater-accra-chairmanship-race/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T12:23+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z5bb55fc8",
+   "sez": "salute",
+   "titolo": "L'Uganda raggiunge solo l'11% della popolazione che necessita cure palliative",
+   "orig": "Uganda Reaches Only 11% of People in Need of Palliative Care",
+   "lead": "Solo l'11% dei circa 500.000 ugandesi che necessitano cure palliative ha accesso ai servizi disponibili, secondo il ministero della Sanità. La grave carenza è causata da insufficienza critica di operatori qualificati e dal persistere di importanti lacune nella gestione del dolore dei pazienti. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/health/379473/uganda-reaches-only-11-of-people-in-need-of-palliative-care",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T14:06+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z2379527e",
+   "sez": "mondo",
+   "titolo": "L'istituto giudiziario ugandese chiede migliori sentenze e mediazione contro i ritardi",
+   "orig": "Judicial Training Institute Urges Magistrates to Improve Judgments, Embrace Mediation to Cut Delays",
+   "lead": "Il direttore dell'Istituto di formazione giudiziaria dell'Uganda sostiene che una migliore redazione delle sentenze e l'uso della risoluzione alternativa delle controversie potrebbero ridurre significativamente i ritardi della giustizia. I procedimenti presso il tribunale magistratuale impiegano attualmente una media di 730 giorni per concludersi. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/379469/judicial-training-institute-urges-magistrates-to-improve-judgments-embrace-mediation-to-cut-delays",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T12:40+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "za7f035e2",
+   "sez": "mondo",
+   "titolo": "Il primo ministro ugandese Kiwanuka incontrò Kennedy nel 1961",
+   "orig": "Today in History: Benedicto Kiwanuka Meets US President John F. Kennedy",
+   "lead": "Il primo ministro dell'Uganda Benedicto Kiwanuka incontrò il presidente americano John F. Kennedy alla Casa Bianca il 17 ottobre 1961, periodo cruciale in cui il paese africano muoveva i decisivi primi passi verso l'autogoverno interno e l'indipendenza dalla dominazione coloniale britannica. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/today-in-history/379462/today-in-history-benedicto-kiwanuka-meets-us-president-john-f-kennedy",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T12:32+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zc498b257",
+   "sez": "mondo",
+   "titolo": "Il governo ugandese riconosce ufficialmente Nyabongo I come Omukama di Tooro",
+   "orig": "Govt gazettes Nyabongo I as Omukama of Tooro",
+   "lead": "Il governo dell'Uganda ha ufficialmente pubblicato in gazzetta la nomina di Nyabongo I come Omukama del regno tradizionale di Tooro. La procedura conclude il riconoscimento governativo della sua legittima successione al trono, una questione affrontata in precedenza con certa complessità. Lo riferisce Daily Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/news/national/govt-gazettes-nyabongo-i-as-omukama-of-tooro-5635766",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T11:31+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z7364b47a",
+   "sez": "economia",
+   "titolo": "Gli stakeholder chiedono di trasferire l'innovazione agricola dai laboratori ai campi",
+   "orig": "Shift agriculture innovations from labs to farms, stakeholders urge government",
+   "lead": "Gli stakeholder del settore agricolo ugandese chiedono al governo di trasferire le innovazioni sviluppate nei laboratori alle fattorie reali. Emmanuel Rutsimba, capo del Programma alimentare mondiale nella regione sud-occidentale, sottolinea come la ricerca scientifica resti spesso inapplicata nei terreni. Lo riferisce Daily Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/news/national/shift-agriculture-innovations-from-labs-to-farms-stakeholders-urge-government-5635746",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T11:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "za65e65e8",
+   "sez": "mondo",
+   "titolo": "Il ministro ugandese: disciplina e integrità essenziali per il futuro del paese",
+   "orig": "Discipline, integrity essential for Uganda’s future, says Minister Bahati",
+   "lead": "Un ministro del governo ugandese sottolinea come disciplina e integrità morale siano fondamentali per il futuro della nazione africana. Il funzionario sostiene che l'educazione ai valori corretti potrebbe risolvere i problemi sistemici come la corruzione, spesso causa di rallentamento dello sviluppo. Lo riferisce Daily Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/news/national/discipline-integrity-essential-for-uganda-s-future-says-minister-bahati--5635742",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T10:57+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "ze8e8fb5e",
+   "sez": "mondo",
+   "titolo": "Nuova leadership ribelle potrebbe rivitalizzare il movimento armato nel Congo orientale",
+   "orig": "Will a new leader and a new name boost the rebellion in eastern Congo?",
+   "lead": "L'avvento di una nuova leadership e un cambio di denominazione potrebbero rinascere l'insurrezione nel Congo orientale, teatro di conflitti prolungati. La domanda chiave è se Kabila possa convertire il suo stature politico internazionale e il supporto regionale in una rivitalizzazione del movimento ribelle. Lo riferisce Daily Monitor.",
+   "more": [
+    "Il Congo orientale è stato teatro di conflitti armati di lungo corso. Il cambio di comando e denominazione del movimento ribelle rappresenta un tentativo di ricostituire consenso e riorientare la strategia della lotta armata nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/news/will-a-new-leader-and-a-new-name-boost-the-rebellion-in-eastern-congo--5635722",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T10:44+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zbfc980fe",
+   "sez": "mondo",
+   "titolo": "Forze lealiste a Laftagareen conquistano diversi distretti nella regione di Bay",
+   "orig": "Forces loyal to Laftagareen seize several districts and strategic areas in Bay region",
+   "lead": "Le forze fedeli all'ex presidente della Somalia sud-occidentale Abdiaziz Hassan Mohamed Laftagareen hanno catturato diversi distretti e aree strategiche cruciali nella regione di Bay. I combattimenti si estendono progressivamente oltre Baidoa, coinvolgendo le forze governative federali e le milizie regionali nella regione. Lo riferisce Hiiraan Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/news4/2026/Oct/206547/forces_loyal_to_laftagareen_seize_several_districts_and_strategic_areas_in_bay_region.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-17T08:31+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z9ca45af1",
+   "sez": "mondo",
+   "titolo": "Un alto ufficiale militare kenyota visita le truppe AUSSOM a Kismayo",
+   "orig": "Senior Kenyan military commander visits troops serving under AUSSOM in Kismayo",
+   "lead": "Un alto comandante militare keniano ha visitato questa settimana le truppe dello Kenya impegnate nella missione africana di peacekeeping a Kismayo, sottolineando importanza della preparazione operativa, della disciplina e del benessere dei soldati durante le operazioni di sicurezza nel sud della Somalia. Lo riferisce Hiiraan Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/security4/2026/Oct/206546/senior_kenyan_military_commander_visits_troops_serving_under_aussom_in_kismayo.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-17T08:05+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zd3cf9c3d",
+   "sez": "mondo",
+   "titolo": "Nuovo parlamento della Galmudug giura in carica prima delle elezioni di leadership",
+   "orig": "New Galmudug parliament sworn in ahead of leadership elections",
+   "lead": "I deputati neoletti del parlamento dello stato federale somalo di Galmudug hanno prestato solenne giuramento nella cittadina di Dhusamareb. Il passo precede le elezioni per i vertici parlamentari e della leadership regionale, fase critica nel processo di consolidamento istituzionale dello stato. Lo riferisce Hiiraan Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/news4/2026/Oct/206545/new_galmudug_parliament_sworn_in_ahead_of_leadership_elections.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-17T07:55+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z1cfb8255",
+   "sez": "economia",
+   "titolo": "Brevettare un'idea in Rwanda costa poco più di 10 mila franchi ruandesi",
+   "orig": "In Rwanda, You Can Now Patent Your Idea For As Low As Rwf 10,000 ($7)",
+   "lead": "Il Rwanda ha ridotto drasticamente i costi per ottenere brevetti nazionali, consentendo agli inventori di proteggere le proprie idee a soli 10.000 franchi ruandesi, equivalenti a circa 7 dollari americani. L'iniziativa punta ad incentivare l'innovazione e l'imprenditoria tra agricoltori, sviluppatori informatici e creatori. Lo riferisce KT Press.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/10/in-rwanda-you-can-now-patent-your-idea-for-as-low-as-rwf-10000-7/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-10-16T14:23+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zcd3bf504",
+   "sez": "mondo",
+   "titolo": "Il governo somalo perde tutti i principali centri urbani di Bay a Laftagaren",
+   "orig": "Somalia’s government loses all major Bay towns but Baidoa to Laftagaren",
+   "lead": "Il governo federale somalo ha perso tutti i principali centri urbani della regione di Bay eccetto Baidoa di fronte alle forze dell'ex leader sud-occidentale Abdiasis Laftagaren, in una controffensiva che ha annullato i guadagni ottenuti nell'offensiva di marzo. Laftagaren ha conquistato Burhakabo, Dinsor e Berdale. Lo riferisce Somali Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/somalia-government-loses-bay-region-towns-baidoa-laftagaren/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-17T12:07+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zf077e5d0",
+   "sez": "mondo",
+   "titolo": "Il Sud Sudan chiede supporto al Sudafrica in vista delle elezioni di dicembre",
+   "orig": "South Sudan seeks electoral support from South Africa ahead of December polls",
+   "lead": "Il presidente della Commissione elettorale nazionale del Sud Sudan Gabriel Bol ha annunciato di richiedere assistenza al Sudafrica per materiali, supporto tecnico e logistico. Mancano 67 giorni alle elezioni generali fissate per il 22 dicembre 2026, quando il paese voterà i nuovi leader. Lo riferisce Eye Radio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/south-sudan-seeks-electoral-support-from-south-africa-ahead-of-december-polls/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-seeks-electoral-support-from-south-africa-ahead-of-december-polls",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-17T10:52+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zfb5d1495",
+   "sez": "mondo",
+   "titolo": "Il presidente del Sud Sudan esorta i leader regionali a risolvere pacificamente le controversie elettorali",
+   "orig": "Kiir urges leaders from Warrap, Unity, Ruweng and Abyei to resolve electoral disputes peacefully",
+   "lead": "Il presidente del Sud Sudan Salva Kiir ha esortato i leader degli stati di Warrap e Unity e delle aree amministrative di Abyei e Ruweng a risolvere pacificamente le questioni comunitarie, enfatizzando l'importanza dell'unità nazionale. L'appello è avvenuto in una riunione consultiva il 16 ottobre 2026. Lo riferisce Eye Radio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/kiir-urges-leaders-from-warrap-unity-ruweng-and-abyei-to-resolve-electoral-disputes-peacefully/?utm_source=rss&utm_medium=rss&utm_campaign=kiir-urges-leaders-from-warrap-unity-ruweng-and-abyei-to-resolve-electoral-disputes-peacefully",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-16T15:40+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zce051814",
+   "sez": "mondo",
+   "titolo": "Il ministro dell'Educazione della Sierra Leone chiede maggiore tutela e empowerment delle ragazze",
+   "orig": "Education Minister Conrad Sackey Calls for Greater Protection and Empowerment of Girls",
+   "lead": "Il ministro dell'Istruzione di base e secondaria della Sierra Leone Conrad Sackey ha lanciato un appello per una maggiore protezione, migliore accesso all'educazione e pari opportunità sociali ed economiche per le ragazze. Chiede al governo e alla società di affrontare discriminazioni ancora diffuse. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/local/conrad-sackey-protection-empowerment-girls/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-17T13:08+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zee2b15a2",
+   "sez": "mondo",
+   "titolo": "La High Commission britannica ricerca un consulente per la politica educativa",
+   "orig": "British High Commission Opens Applications for Education Policy Advisor Role",
+   "lead": "La High Commission britannica a Freetown ha aperto le candidature per una nuova posizione di consulente sulla politica educativa della Sierra Leone. Il ruolo è destinato a professionisti con esperienza nel settore scolastico e nelle politiche educative internazionali di cooperazione. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/local/british-high-commission-education-policy-advisor/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-17T11:27+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z73cb03b8",
+   "sez": "mondo",
+   "titolo": "La polizia della Sierra Leone smentisce un falso comunicato su promozioni",
+   "orig": "SLP Disowns Fake Press Release on Promotion of Long-Serving Officers",
+   "lead": "La polizia della Sierra Leone ha diffuso un avvertimento ufficiale rivolto ai propri agenti e al pubblico generale circa la circolazione non autorizzata di un falso comunicato stampa sui social media riguardante promozioni di ufficiali di lungo servizio dell'istituzione. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/local/police-fake-press-release-promotion-officers/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-17T10:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zdcad9077",
+   "sez": "mondo",
+   "titolo": "Annunciata la data della quarta edizione della gara di oratoria femminile in Sierra Leone",
+   "orig": "PAN Announces Date for Fourth Public Speaking for Girls Competition",
+   "lead": "La Patriotic Advocacy Network della Sierra Leone ha annunciato la data della quarta edizione della sua competizione annuale di oratoria per ragazze, riconosciuto evento importante per sviluppare competenze di advocacy e comunicazione pubblica nelle giovani donne sierraleonesi. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/local/pan-fourth-public-speaking-girls-competition/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-17T09:47+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zc82174fe",
+   "sez": "mondo",
+   "titolo": "Giornalista di Breaking Belize News riconosciuta per il supporto alla scuola tecnica",
+   "orig": "BBN Journalist recognized for supporting Mopan Technical High School",
+   "lead": "La giornalista Zoila Palma di Breaking Belize News è stata riconosciuta come importante stakeholder della scuola tecnica Mopan durante la prima cena degli stakeholder dell'istituzione, in riconoscimento del suo supporto continuativo nella promozione dei programmi e dei successi della scuola. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/17/bbn-journalist-recognized-for-supporting-mopan-technical-high-school/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-17T14:07+00:00"
+    },
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/17/mopan-technical-high-school-hosts-first-ever-stakeholder-dinner-seeks-support-for-new-projects/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-17T14:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zf7a701d7",
+   "sez": "mondo",
+   "titolo": "Bimba di due anni smarrita a Belize City ritrovata con i genitori",
+   "orig": "Police seek public’s help to identify two-year-old girl found in Belize City",
+   "lead": "La polizia di Belize City aveva lanciato un appello pubblico per identificare una bimba di due anni trovata abbandonata in Carissa Street il 16 ottobre 2026. L'ultimo aggiornamento della polizia conferma con sollievo che la piccola è stata riunita con i genitori. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/16/police-seek-publics-help-to-identify-two-year-old-girl-found-in-belize-city/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-17T00:03+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z7ba2f308",
+   "sez": "mondo",
+   "titolo": "Uomo accusato di incendio contro i veicoli Hotchandani ancora senza avvocato mentre il caso si trasferisce in Alta Corte",
+   "orig": "Man accused of torching Hotchandani family’s $485,000 vehicles still without attorney as arson case heads to High Court",
+   "lead": "Nearly two years after the alleged arson attack that destroyed three luxury vehicles worth $485,000 belonging to businessman Bob Hotchandani and his son, 24-year-old Manuel Anthony Moralez continues without legal representation as his case advances toward trial in Belmopan's High Court. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/16/man-accused-of-torching-hotchandani-familys-485000-vehicles-still-without-attorney-as-arson-case-heads-to-high-court/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-16T23:13+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "ze57c8436",
+   "sez": "mondo",
+   "titolo": "Giovane scarcerato su cauzione per lesioni",
+   "orig": "Young man bailed on wounding charge",
+   "lead": "Un ventenne di Bridgetown, Dashon Jamar Edward Oxley, è stato scarcerato su cauzione in attesa del processo per una ferita. L'udienza proseguirà il 15 gennaio presso il tribunale distrettuale. Lo riferisce Barbados Today.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/17/young-man-bailed-on-wounding-charge/",
+     "angolo": "",
+     "atlas": "Barbados",
+     "t": "2026-10-17T13:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zc661cea4",
+   "sez": "mondo",
+   "titolo": "Ayton dei Wizards si adatta al nuovo ruolo",
+   "orig": "Wizards&#x27; Ayton adjusting to new role",
+   "lead": "Il centro bahamiano Deandre 'D.A.' Ayton ha registrato 4 punti, 7 rimbalzi e 4 assist nella sconfitta dei Washington Wizards contro i Brooklyn Nets (122-131) lunedì sera durante la preseason NBA. Il giocatore continua l'adattamento al suo nuovo ruolo. Lo riferisce The Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Tribune (Bahamas)",
+     "p": "XX",
+     "c": "Nassau",
+     "u": "https://tribune242.com/news/2026/oct/16/wizards-ayton-adjusting-to-new-role/",
+     "angolo": "",
+     "atlas": "Bahamas",
+     "t": "2026-10-16T12:10-04:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z44272bec",
+   "sez": "mondo",
+   "titolo": "Le scuole di Gros Islet ricevono forniture per l'igiene mestruale",
+   "orig": "Gros Islet schools receive menstrual hygiene supplies",
+   "lead": "L'organizzazione Empowering Our Women Saint Lucia ha donato cinque unità di stoccaggio completamente fornite di prodotti per l'igiene mestruale alle scuole primarie e secondarie della comunità di Gros Islet. L'iniziativa affronta le sfide affrontate da molte ragazze durante le mestruazioni a scuola. Lo riferisce St. Lucia Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "St. Lucia Times",
+     "p": "XX",
+     "c": "Castries",
+     "u": "https://stluciatimes.com/185040/2026/10/gros-islet-schools-receive-menstrual-hygiene-supplies/",
+     "angolo": "",
+     "atlas": "Saint Lucia",
+     "t": "2026-10-16T18:36+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z6183bf7d",
+   "sez": "mondo",
+   "titolo": "Sopravvissuto a collisione di barche sostiene che i locali non ricevono briefing sulla sicurezza",
+   "orig": "Boat collision survivor claims locals don’t get safety briefings",
+   "lead": "Un sopravvissuto alla collisione fatale tra le barche Cazorla Jr e un'altra imbarcazione ad Anse Cochon ha testimoniato mercoledì davanti a una Commissione d'inchiesta che i passeggeri locali non ricevono sistematicamente briefing sulla sicurezza. La collisione si è verificata il 18 luglio. Lo riferisce St. Lucia Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "St. Lucia Times",
+     "p": "XX",
+     "c": "Castries",
+     "u": "https://stluciatimes.com/185020/2026/10/boat-collision-survivor-claims-locals-dont-get-safety-briefings/",
+     "angolo": "",
+     "atlas": "Saint Lucia",
+     "t": "2026-10-16T15:04+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zb3e118db",
+   "sez": "mondo",
+   "titolo": "Campionato All-Comers di Grenada nel giugno 2027",
+   "orig": "Grenada All-Comers Championship in June 2027",
+   "lead": "Grenada sta introducendo il Grenada All-Comers Championship, descritto come una delle aggiunte più significative al calendario locale di atletica degli ultimi anni. Il campionato si svolgerà a giugno 2027. Lo riferisce NOW Grenada.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOW Grenada",
+     "p": "XX",
+     "c": "St. George's",
+     "u": "https://nowgrenada.com/2026/10/grenada-all-comers-championship-in-june-2027/",
+     "angolo": "",
+     "atlas": "Grenada",
+     "t": "2026-10-16T15:26+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zbedf514b",
+   "sez": "mondo",
+   "titolo": "Grenada rafforza la capacità di controllo marittimo",
+   "orig": "Grenada strengthens maritime law enforcement capacity",
+   "lead": "Grenada ha rafforzato la capacità di indagine e persecuzione nel settore marittimo, supportando la Royal Grenada Police Force, la Guardia Costiera, la Divisione della Pesca, la Dogana, l'Immigrazione e altre agenzie che operano nel dominio marittimo. La mossa mira a combattere crimini e violazioni marittime. Lo riferisce NOW Grenada.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOW Grenada",
+     "p": "XX",
+     "c": "St. George's",
+     "u": "https://nowgrenada.com/2026/10/grenada-strengthens-maritime-law-enforcement-capacity/",
+     "angolo": "",
+     "atlas": "Grenada",
+     "t": "2026-10-16T15:17+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zc4ac08b2",
+   "sez": "mondo",
+   "titolo": "Dominica si classifica nona tra i passaporti CARICOM",
+   "orig": "Dominica ranks ninth among CARICOM Passports",
+   "lead": "Il passaporto di Dominica si classifica nono tra i 14 paesi della Comunità caraibica (CARICOM) secondo i dati di Passport Reports al 16 ottobre 2026, con una posizione globale di 59°. Il ranking riflette la potenza e il valore del documento di viaggio dominicano. Lo riferisce Dominica News Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dominica News Online",
+     "p": "XX",
+     "c": "Roseau",
+     "u": "https://dominicanewsonline.com/news/homepage/news/dominica-ranks-ninth-among-caricom-passports/",
+     "angolo": "",
+     "atlas": "Dominica",
+     "t": "2026-10-16T17:32+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z16e928fd",
+   "sez": "mondo",
+   "titolo": "Il cancro ai polmoni di Papa Leone e cosa significa per i non fumatori",
+   "orig": "Pope Leo’s Lung Cancer and what it means for non-smokers",
+   "lead": "Papa Leone XIV è stato diagnosticato con adenocarcinoma polmonare dopo un intervento chirurgico toracico programmato durante il quale i chirurghi hanno rimosso il lobo inferiore del polmone destro. L'annuncio è stato fatto dalla Sala stampa della Santa Sede martedì. Lo riferisce Dominica News Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dominica News Online",
+     "p": "XX",
+     "c": "Roseau",
+     "u": "https://dominicanewsonline.com/news/homepage/pope-leos-lung-cancer-and-what-it-means-for-non-smokers/",
+     "angolo": "",
+     "atlas": "Dominica",
+     "t": "2026-10-16T17:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zac2e5419",
+   "sez": "mondo",
+   "titolo": "Il Sudafrica domina la Imbube Marathon",
+   "orig": "South Africa rules Imbube Marathon",
+   "lead": "Corridori sudafricani hanno dominato la Imbube Marathon ad Eswatini sabato 17 ottobre 2026. Siphamandla Nkosi ha vinto la gara di 42 chilometri con il tempo di 2:30:00, aggiudicandosi il premio di E40.000. I favoriti locali sono rimasti indietro. Lo riferisce Times of Eswatini.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46555/sports/south-africa-rules-imbube-marathon/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-17T11:51+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z875f82a9",
+   "sez": "mondo",
+   "titolo": "I deputati temono di perdere alle elezioni 2028",
+   "orig": "MPs fear losing in 2028 elections",
+   "lead": "I membri del Parlamento di Eswatini hanno espresso apertamente i loro timori di non essere rieletti quando il paese andrà alle urne nel 2028. Oltre all'incertezza su un eventuale ritorno a Parlamento, i legislatori temono che perdere i propri seggi potrebbe lasciare loro senza protezione finanziaria. Lo riferisce Times of Eswatini.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46518/news/mps-fear-losing-in-2028-elections/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-17T02:27+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zeaacf683",
+   "sez": "mondo",
+   "titolo": "E98 milioni per la costruzione di gradinate nello stadio nazionale Somhlolo",
+   "orig": "E98m bill for: Somhlolo ‘no man’s land’ stands construction",
+   "lead": "Il Ministero dello Sport, della Cultura e degli Affari Giovanili di Eswatini ha rivelato che avrà bisogno di E98 milioni per costruire gradinate nell'area 'no man's land' dello Stadio Nazionale Somhlolo. Il ministro Bongani Nzima ha precisato che è stato già coinvolto un appaltatore per la valutazione del terreno. Lo riferisce Times of Eswatini.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46529/sports/e98m-bill-for-somhlolo-no-mans-land-stands-construction/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-17T01:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z6d4be6a4",
+   "sez": "mondo",
+   "titolo": "Lo stipendio del personale dell'Ambasciata cubana negli USA è al di sotto della soglia di povertà",
+   "orig": "El salario medio del personal de la Embajada cubana en EE UU está por debajo del umbral de pobreza",
+   "lead": "Gli stipendi del personale dell'Ambasciata cubana negli Stati Uniti sono al di sotto della soglia di povertà, secondo i dati del governo cubano. Il governo destina più del doppio dei fondi agli affitti delle residenze diplomatiche rispetto agli stipendi, pagando 8.569 dollari mensili per la residenza dell'ambasciatrice. Lo riferisce 14ymedio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/salario-medio-personal-embajada-cubana_1_1132052.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-16T18:51+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z0d6d46aa",
+   "sez": "mondo",
+   "titolo": "L'OCDH chiede di indagare su irregolarità nel processo contro Henry Constantín",
+   "orig": "El Ocdh exige investigar irregularidades en el proceso contra Henry Constantín",
+   "lead": "L'Organizzazione cubana per i diritti umani (OCDH) ha richiesto un'indagine su irregolarità nel processo contro Henry Constantín. L'organizzazione sostiene che il coltello trovato nella sua cella potrebbe essere una prova fabbricata per incriminarlo. La denuncia sottolinea vizi procedurali nel caso. Lo riferisce 14ymedio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/ocdh-exige-investigar-irregularidades-proceso_1_1132051.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-16T18:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zdf28094a",
+   "sez": "mondo",
+   "titolo": "Fino a 12 anni di carcere per il furto di bombole di gas in oltre 20 abitazioni di Sancti Spíritus",
+   "orig": "Hasta 12 años de prisión por robar balitas de gas en más de 20 viviendas de Sancti Spíritus",
+   "lead": "Un uomo è stato condannato a fino a 12 anni di carcere per aver rubato bombole di gas in più di 20 abitazioni a Sancti Spíritus, Cuba. Due altri imputati sono stati condannati per l'acquisto, la rivendita dei cilindri e il commercio non autorizzato del contenuto. Le operazioni di furto hanno interessato la provincia. Lo riferisce 14ymedio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/12-anos-prision-robar-balitas_1_1132049.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-16T17:42+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z7466fa62",
+   "sez": "mondo",
+   "titolo": "Tumulti sociali: «Fa parte del paesaggio della democrazia», Mathurin Dimbélé Nakoé",
+   "orig": "Remous sociaux : « Ça fait partie du décor de la démocratie », Mathurin Dimbélé Nakoé",
+   "lead": "Il deputato della Repubblica Centrafricana Mathurin Dimbélé Nakoé ha commentato il tumulto sociale causato dall'aumento dei prezzi dei carburanti, definendo tali manifestazioni come «parte del paesaggio della democrazia». Il commento riflette le tensioni economiche e politiche nel paese. Lo riferisce Radio Ndeke Luka.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107226-remous-sociaux-ca-fait-partie-du-decor-de-la-democratie-mathurin-dimbele-nakoe",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-17T09:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zefa363f0",
+   "sez": "mondo",
+   "titolo": "Esenzioni: come trovare il giusto equilibrio?",
+   "orig": "Exonérations : comment trouver le juste équilibre ?",
+   "lead": "Un servizio sulla Repubblica Centrafricana affronta le questioni economiche attorno alle esenzioni fiscali e doganali. Il ministero delle Finanze discute la necessità di trovare l'equilibrio giusto tra incentivi economici e entrate governative. L'intervistato è il direttore di gabinetto del ministro delle Finanze. Lo riferisce Radio Ndeke Luka.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107224-exonerations-comment-trouver-le-juste-equilibre",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-17T09:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z40e3b271",
+   "sez": "mondo",
+   "titolo": "Le piogge torrenziali rivelano la sfiducia verso i sindaci di San Miguel Petapa e Mixco",
+   "orig": "Aguaceros sacan a flote desconfianza de vecinos hacia munis de San Miguel Petapa y Mixco",
+   "lead": "Piogge torrenziali hanno causato inondazioni a San Miguel Petapa e Mixco in Guatemala, facendo emergere la sfiducia dei residenti verso le amministrazioni municipali. Il fiume Pinula minaccia ulteriori devastazioni nel settore di Villa Hermosa, mentre i cedimenti continentali colpiscono diversi quartieri. I cittadini accusano i comuni di non agire tempestivamente. Lo riferisce Plaza Pública.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Plaza Pública",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://plazapublica.com.gt/medio-ambiente/reportaje/aguaceros-sacan-a-flote-desconfianza-de-vecinos-hacia-munis-de-san-miguel-petapa-y-mixco/",
+     "angolo": "",
+     "atlas": "Guatemala",
+     "t": "2026-10-16T18:27+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zc0f960d8",
+   "sez": "mondo",
+   "titolo": "Elezioni democratiche nella Scuola di Scienze Psicologiche",
+   "orig": "Elecciones democráticas en la Escuela de Ciencias Psicológicas",
+   "lead": "La Scuola di Scienze Psicologiche dell'Università di San Carlos in Guatemala ha subito processi elettorali irregolari, secondo le accuse di numerose autorità universitarie. Molti responsabili sono rimasti in carica oltre i termini previsti dai regolamenti, protetti da una rete di irregolarità procedurali. Lo riferisce Plaza Pública.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Plaza Pública",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://plazapublica.com.gt/opinion/opinion/elecciones-democraticas-en-la-escuela-de-ciencias-psicologicas/",
+     "angolo": "",
+     "atlas": "Guatemala",
+     "t": "2026-10-16T14:53+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zf346dcd7",
+   "sez": "mondo",
+   "titolo": "Tra gli imperi si capiscono",
+   "orig": "Entre imperios se entienden",
+   "lead": "Nel contesto di tre conflitti simultanei in corso - Gaza, l'Iran e l'Ucraina - emerge un fenomeno politico ricorrente: negoziati e pace vengono presentati come obiettivi finali mentre la guerra viene strumentalizzata come mezzo per raggiungerli. Tuttavia, secondo l'analisi, la storia insegna una lezione molto diversa sulla vera natura del nesso tra questi conflitti internazionali. Lo riferisce Confidencial.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/opinion/entre-imperios-se-entienden/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-10-17T07:10+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z85bbe240",
+   "sez": "mondo",
+   "titolo": "Non riuscirai a smettere di guardarli! I 'microdramas' invadono gli smartphone",
+   "orig": "¡No puedes dejar de mirarlos! Los ‘microdramas’ invaden nuestros móviles",
+   "lead": "I microdramas - episodi di un minuto fruibili in formato verticale con colpi di scena avvincenti - conquistano milioni di utenti sui telefoni cellulari. Le trame vedono donne scoprire infedeltà, madri innamorarsi di criminali, eredi nascondere segreti, il tutto in tempo brevissimo. Questo nuovo genere di serialità modella il consumo di contenuti della generazione digitale. Lo riferisce Confidencial.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/revista-niu/no-puedes-dejar-de-mirarlos-los-microdramas-invaden-nuestros-moviles/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-10-16T15:30+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z4c11077e",
+   "sez": "mondo",
+   "titolo": "Kast conclude la visita in Bolivia: 'Si aprono nuove porte, nuovi orizzonti'",
+   "orig": "Kast cerró su visita a Bolivia: “Se abren nuevas puertas, nuevos horizontes” para ambos países",
+   "lead": "Il presidente cileno José Antonio Kast ha concluso la sua visita ufficiale in Bolivia, ringraziando il presidente boliviano Rodrigo Paz per l'accoglienza e sottolineando gli incontri positivi con autorità nazionali e regionali. Kast ha espresso la speranza che Paz contraccambi la visita in Cile ricevendo un'accoglienza analoga, segnando un momento di avvicinamento diplomatico bilaterale.",
+   "more": [
+    "Il viaggio rappresenta un tentativo di normalizzare i rapporti tra i due paesi andini, storicamente complicati da dispute frontaliere e questioni economiche."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/kast-cerro-su-visita-a-bolivia-se-abren-nuevas-puertas-nuevos-horizontes-para-ambos-paises",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T08:55-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zbb276ac4",
+   "sez": "mondo",
+   "titolo": "Il governatore di Tarapacá afferma che Paz si è impegnato a non regolarizzare veicoli rubati",
+   "orig": "Gobernador de Tarapacá afirma que Paz se comprometió a no regularizar vehículos robados en Chile",
+   "lead": "Il governatore cileno di Tarapacá José Miguel Carvajal ha dichiarato che il presidente boliviano Rodrigo Paz ha assunto l'impegno di non regolarizzare veicoli rubati in Cile presso le autorità boliviane. L'accordo è emerso durante il colloquio bilaterale tra il presidente cileno Kast e Paz svoltosi a La Paz.",
+   "more": [
+    "Il traffico di veicoli rubati dal Cile verso la Bolivia rappresenta un problema persistente per le relazioni bilaterali e una sfida per le forze dell'ordine cilene."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/economia/gobernador-de-tarapaca-afirma-que-paz-se-comprometio-a-no-regularizar-vehiculos-robados-en-chile",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T09:23-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z339a544c",
+   "sez": "mondo",
+   "titolo": "Olivier Cahn, giurista: 'La custodia cautelare è usata per ridurre manifestanti e prevenire disordini'",
+   "orig": "Olivier Cahn, juriste : « La garde à vue au chalut est désormais utilisée pour réduire le nombre de manifestants et prévenir des troubles »",
+   "lead": "Il professor Olivier Cahn, esperto di diritto penale francese, esprime preoccupazione sulla giudicializzazione del mantenimento dell'ordine pubblico. Secondo il giurista, l'autorità pubblica starebbe imponendo ai manifestanti le proprie condizioni di esercizio della libertà di manifestazione utilizzando la custodia cautelare come strumento di controllo preventivo. Lo riferisce Le Monde.",
+   "more": [
+    "La tendenza alla criminalizzazione amministrativa delle proteste è considerata da giuristi e attivisti un rischio per le libertà civili nel contesto francese contemporaneo."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/idees/article/2026/10/17/olivier-cahn-juriste-la-garde-a-vue-au-chalut-est-desormais-utilisee-pour-reduire-le-nombre-de-manifestants-et-prevenir-des-troubles_6795888_3232.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T06:30+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z57605404",
+   "sez": "mondo",
+   "titolo": "'Mi dicono sempre che faccio 25 anni': donne francesi in Corea del Sud per trattamenti dermatologici",
+   "orig": "« On me dit toujours que je fais 25 ans » : en quête d’une peau parfaite, ces Françaises qui partent en Corée du Sud pour des traitements dermatologiques de pointe",
+   "lead": "La cosmesi coreana, la K-beauty, con rituali antichi e tecniche innovative, attrae sempre più cittadine francesi che scelgono di viaggiare a Seul per trattamenti dermatologici avanzati. Migliaia di donne francesi si offrono soggiorni dedicati alla cura della pelle, promossi sui social come soluzione per una carnagione luminosa. Il fenomeno rappresenta un aspetto del soft power culturale sudcoreano. Lo riferisce Le Monde.",
+   "more": [
+    "La K-beauty rappresenta un ecosistema di pratiche cosmetiche che combina saperi tradizionali asiatici con tecnologie dermatologiche contemporanee, attirando turismo medico-estetico internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/m-perso/article/2026/10/17/on-me-dit-toujours-que-je-fais-25-ans-en-quete-d-une-peau-parfaite-elles-partent-en-coree-du-sud-pour-des-traitements-dermatologiques-de-pointe_6795853_4497916.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T06:00+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z30b817c3",
+   "sez": "mondo",
+   "titolo": "Elezioni presidenziali 2027: intorno a David Lisnard, 'sta succedendo qualcosa'",
+   "orig": "Présidentielle 2027 : autour de la candidature de David Lisnard, « il se passe quelque chose », mais quoi ?",
+   "lead": "David Lisnard, candidato di destra liberale annunciato da fine marzo, ha visto crescere significativamente la sua notorietà in autunno grazie ai social network. La sua visibilità online pone interrogativi: bolla digitale temporanea o inizio di autentica svolta politica? L'aumento di riconoscibilità aiuta il presidente di Nuova Energia a colmare il suo deficitario profilo pubblico nazionale.",
+   "more": [
+    "La campagna presidenziale 2027 francese rappresenta un momento di fluidità politica con candidature provenienti da fronti non tradizionali che sfruttano i social media."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-autour-de-la-candidature-de-david-lisnard-il-se-passe-quelque-chose-mais-quoi_6796307_823448.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T14:00+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z9acfcac0",
+   "sez": "mondo",
+   "titolo": "Il sindaco di Marsiglia annuncia rinforzi di polizia dopo colloquio con Macron",
+   "orig": "Le maire de Marseille annonce avoir obtenu des renforts de police après un échange avec Macron",
+   "lead": "A Marsiglia manifestanti hanno brevemente occupato l'atrio del municipio e un commissariato sulla Canebière è stato attaccato, con scritte evocative 'È la Rivoluzione, prendiamo la Bastiglia'. Successivamente il sindaco ha annunciato di aver ottenuto rinforzi di polizia grazie a discussioni con il presidente francese Emmanuel Macron per contenere i tumulti.",
+   "more": [
+    "Le manifestazioni in corso in Francia riflettono tensioni sociali diffuse su riforme governative che hanno mobilitato movimenti dalle gilet gialle ai sindacati di settore."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/marseille/c-est-la-revolution-on-prend-la-bastille-a-marseille-des-manifestants-penetrent-brievement-dans-le-hall-de-la-mairie-un-poste-de-police-attaque-20261017",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T14:34+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z4d5faa72",
+   "sez": "mondo",
+   "titolo": "'Il 17 è una zona di guerra!': influencer Rayan Psn in custodia per incitamento a rivolte",
+   "orig": "«Le 17, c’est war zone!»: l'influenceur Rayan psn placé en garde à vue après des incitations aux émeutes",
+   "lead": "L'influencer Rayan Psn è stato messo in custodia cautelare dopo aver incitato su Twitch a fomentare tumulti, lanciando appelli come 'voglio capi di meute, persone senza paura che hanno già subito fermi'. Il prefetto di polizia di Parigi aveva denunciato il caso alla magistratura lunedì in seguito ai messaggi diffusi in diretta streaming.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/faits-divers/le-17-c-est-war-zone-l-influenceur-rayan-psn-place-en-garde-a-vue-apres-des-incitations-aux-emeutes-20261017",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T14:38+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z21a75d01",
+   "sez": "mondo",
+   "titolo": "Manifestazioni del 17 ottobre: restrizioni al traffico e stazioni metro chiuse a Parigi",
+   "orig": "Manifestations du 17 octobre : restrictions de circulation, stations de métro fermées… À quoi faut-il s’attendre à Paris ?",
+   "lead": "Gilet gialli, liceali e studenti, insieme a funzionari e agricoltori, hanno programmato una manifestazione per il pomeriggio del 17 ottobre a Parigi. La prefettura di polizia ha disposto diverse misure di sicurezza per proteggere i palazzi governativi e i quartieri strategici della capitale francese durante la protesta prevista.",
+   "more": [
+    "Le manifestazioni di massa francesi di questo autunno 2026 riflettono dissenso su politiche governative federali che coinvolgono settori eterogenei della società."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/conjoncture/manifestations-du-17-octobre-restrictions-de-circulation-stations-de-metro-fermees-a-quoi-faut-il-s-attendre-a-paris-20261017",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T12:46+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z46195f1e",
+   "sez": "mondo",
+   "titolo": "Sede di CNews ed Europe 1 danneggiata, atti di 'intimidazione' che portano a 21 arresti",
+   "orig": "Le siège de CNews et Europe 1 dégradé, des actes «d’intimidation» qui ont conduit à l’interpellation de 21 personnes",
+   "lead": "Durante le manifestazioni parigine, la sede della rete CNews e della radio Europe 1 è stata bersaglio di attivisti: barriere rovesciate, proiettili lanciati, vetrate infrante. Gli episodi sono stati qualificati come atti di intimidazione dai magistrati, che hanno portato all'arresto di ventun persone secondo le autorità.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/medias/a-paris-le-siege-de-cnews-cible-par-des-manifestants-21-personnes-interpellees-20261017",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T14:37+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z2a4ad7a0",
+   "sez": "mondo",
+   "titolo": "Rima Hassan: amata e odiata, l'ascesa controversa di una figura di LFI",
+   "orig": "Rima Hassan : adulée ou détestée, l’ascension controversée d’une figure de LFI",
+   "lead": "L'europarlamentare di La France Insoumise Rima Hassan, divenuta negli ultimi tre anni simbolo della causa palestinese nel panorama europeo, sarà processata a partire da lunedì 19 ottobre a Parigi con l'accusa di apologia del terrorismo. L'articolo ripercorre la straordinaria e controversa traiettoria dell'attivista nel panorama politico francese.",
+   "more": [
+    "La figura di Hassan incarna tensioni nel dibattito europeo tra libertà di espressione politica e questioni di hate speech in relazione al conflitto israelo-palestinese."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/rima-hassan-adulee-ou-detestee-lascension-controversee-dune-figure-de-lfi-20261017_BXILHYF5HBHEXDUTNWMMSNFKRI/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T08:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z05ed108c",
+   "sez": "mondo",
+   "titolo": "Philippe Lazzarini, ex capo UNRWA: 'Sulla questione palestinese avviene un cambio fondamentale'",
+   "orig": "Philippe Lazzarini, ancien patron de l’Unrwa : «Sur la question palestinienne, un changement fondamental est en train de s’opérer»",
+   "lead": "L'ex commissario generale dell'UNRWA Philippe Lazzarini pubblica 'Testimone di Gaza', resoconto della sua battaglia contro la distruzione dell'enclave palestinese e l'inazione della comunità internazionale. Nell'intervista denuncia l'assenza di prospettive politiche per i palestinesi e avverte sui gravissimi pericoli del loro avvenire umanitario.",
+   "more": [
+    "La testimonianza di Lazzarini riflette il dibattito internazionale sulla crisi umanitaria palestinese e il ruolo delle agenzie Onu nel contesto di conflitti regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/moyen-orient/philippe-lazzarini-ancien-patron-de-lunrwa-sur-la-question-palestinienne-un-changement-fondamental-est-en-train-de-soperer-20261017_DOYJMJT7HBDT7KUSNYT42GFLLY/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T12:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "za75f897c",
+   "sez": "mondo",
+   "titolo": "'Non me l'aspettavo': genitori di fronte agli adolescenti che rifiutano l'affidamento condiviso",
+   "orig": "«Je ne m’y attendais pas» : le désarroi des parents face aux ados qui ne veulent plus de garde alternée",
+   "lead": "In Francia più di un bambino su dieci cresce con affidamento condiviso tra genitori, ma questa proporzione cala costantemente dopo gli undici anni. Durante l'adolescenza gli spostamenti frequenti tra due case possono diventare fonte di sofferenza per ragazzi che contemporaneamente ricercano emancipazione e stabilità domestica.",
+   "more": [
+    "La questione dell'affidamento condiviso riflette trasformazioni familiari contemporanee e il dibattito sulla gestione psicologica della separazione genitoriale nei minori francesi."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/familles/je-ne-my-attendais-pas-le-desarroi-des-parents-face-aux-ados-qui-ne-veulent-plus-de-garde-alternee-20261017_GG4I3NMG7FCTNFAQSIRCGHLRZY/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T09:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z200f44e5",
+   "sez": "mondo",
+   "titolo": "Attacco informatico alle università - Voti e orari offline",
+   "orig": "Cyberangriff auf Hochschulen – Noten und Stundenpläne offline",
+   "lead": "Un attacco informatico ha colpito diverse università della regione tedesca del Baden-Württemberg, mettendo offline voti, orari scolastici e molti sistemi essenziali di gestione. Come conseguenza grave gli insegnanti non hanno ricevuto i loro stipendi per settimane. L'identità e la provenienza dell'attacco rimangono ignote alle autorità. Lo riferisce Der Spiegel.",
+   "more": [
+    "Gli attacchi informatici a infrastrutture critiche tedesche rappresentano una vulnerabilità crescente della sicurezza digitale nelle istituzioni pubbliche educative."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/justiz/cyberangriff-auf-hochschulen-noten-und-stundenplaene-offline-a-687e1d42-2ef5-427f-9361-790f43b1f292#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T16:01+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zdef1377a",
+   "sez": "mondo",
+   "titolo": "Guerra d'Ucraina: La vita quotidiana nella zona di combattimento a Isjum",
+   "orig": "Ukrainekrieg: So sieht der Alltag im Frontgebiet in Isjum aus",
+   "lead": "Witalij Papirnyj e Lilija Dschemiljewa hanno dovuto abbandonare la loro abitazione a causa dell'avanzata delle truppe russe. Tentano ora di riconstruire la vita nella città di Isjum, ma il fronte militare si avvicina costantemente rendendo precaria la loro situazione. La loro esperienza riflette la realtà di migliaia di civili intrappolati nelle zone di combattimento. Lo riferisce Der Spiegel.",
+   "more": [
+    "La città di Isjum nella regione di Kharkiv rimane un teatro critico del conflitto ucraino dove civili affrontano il dilemma tra sfollamento e permanenza."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/ukrainekrieg-so-sieht-der-alltag-im-frontgebiet-in-isjum-aus-a-0b6b80a0-2233-449f-b82a-0e3c21872fe0#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T15:22+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z4b832a50",
+   "sez": "mondo",
+   "titolo": "Maschilità nei film universitari: il collegamento con il caso 'Cornell Seven'",
+   "orig": "Männlichkeit in Uni- und Collegefilmen: Was Campusfilme mit dem Fall »Cornell Seven« verbindet",
+   "lead": "Una donna ubriaca e incosciente, un uomo che coglie l'occasione della sua vulnerabilità. Questo motivo narrativo era ricorrente nelle commedie universitarie. Un'analisi esamina il collegamento tra questa stereotipia cinematografica e il caso di violenza presso l'università di Cornell, evidenziando come il cinema ha normalizzato certi comportamenti.",
+   "more": [
+    "La rappresentazione della maschilità nei film di genere comedy universitario americano ha contribuito a consolidare pratiche sociali di molestia sessuale e violenza di genere."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/kultur/maennlichkeit-in-uni-und-collegefilmen-was-campusfilme-mit-dem-fall-cornell-seven-verbindet-a-15b102e9-2ccf-4685-bcd6-10af5858ddac#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T15:14+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a5303a9",
+   "sez": "mondo",
+   "titolo": "L'adattamento teatrale di 'Le olandesi' di Dorothee Elmiger al Deutsches Theater di Berlino",
+   "orig": "Dorothee Elmigers »Die Holländerinnen«: Bühnenadaption im Deutschen Theater Berlin",
+   "lead": "Il romanzo acclamato e enigmatico 'Le olandesi' di Dorothee Elmiger è divenuto soggetto privilegiato per adattamenti teatrali in diverse scene germaniche. Al Deutsches Theater di Berlino il regista Jan Friedrich trasforma il testo in una straordinaria evocazione spettrale sul palcoscenico. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/kultur/dorothee-elmigers-die-hollaenderinnen-buehnenadaption-im-deutschen-theater-berlin-a-1ce94116-d4e6-42fb-9fca-499c13fede13#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T14:57+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "zd0c696a2",
+   "sez": "mondo",
+   "titolo": "Assemblea dei Liberi Elettori: 'Smettete di portare avanti il caos di sinistra a Berlino'",
+   "orig": "Landesversammlung der Freien Wähler: „Hört auf, den ganzen linken Unsinn in Berlin mitzutragen“",
+   "lead": "Hubert Aiwanger, leader dei Liberi Elettori, ha aspramente criticato il ruolo dell'Unione nella coalizione governativa federale tedesca durante l'assemblea regionale del suo partito. Aiwanger dipinge i Liberi Elettori come più conservatori e autenticamente borghesi della stessa CSU, mentre mantiene una prudente riservatezza sul partner di coalizione SPD.",
+   "more": [
+    "I Liberi Elettori rappresentano una forza politica bavarese che tenta di posizionarsi a destra della CSU nel panorama conservatore tedesco."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/bayern/freie-waehler-hubert-aiwanger-landesversammlung-guenzburg-2026-li.3562135",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T13:07+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z71e76cf5",
+   "sez": "mondo",
+   "titolo": "USA: Ricercati leali e compiacenti",
+   "orig": "USA: Gesucht: Loyalisten und Jasagerinnen",
+   "lead": "Il presidente americano ha sollevato Katie Zacharia dalla posizione di portavoce dopo soli sette giorni di incarico. Lo schema ricorrente di Trump nei confronti delle proprie portavoce rivela una ricerca di lealtà incondizionata e conformità totale nel team comunicativo, fattore che genera elevata instabilità amministrativa. Lo riferisce Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/medien/trump-pressesprecherin-zacharia-leavitt-frauen-li.3564855",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T09:05+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
+   "id": "z26ad5c86",
+   "sez": "mondo",
+   "titolo": "Successo nei colloqui: il farisaismo della coalizione rosso-verde-rosso",
+   "orig": "Erfolg in Sondierungen: Rot-grün-rotes Pharisäertum",
+   "lead": "Nei delicati e poco glorificati negoziati per la formazione di un nuovo governo berlinese si nascondono significative implicazioni per l'equilibrio di potere federale tedesco. L'analisi della FAZ mette in luce come gli scontri locali rispecchiano dinamiche politiche nazionali ben più ampie e strategiche.",
+   "more": [
+    "I colloqui berlinesi tra SPD, Verdi e Die Linke rappresentano un momento cruciale per definire le alleanze progressiste in Germania prima di eventuali elezioni federali."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-in-berlin-ein-lehrstueck-in-politischem-pharisaeertum-201340119.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T13:09+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:45",
+   "uscita": "17"
+  },
+  {
    "id": "z03378b6e",
    "sez": "mondo",
    "titolo": "La Corte chiede documenti sul mega-affare dell'aeroporto di Nairobi",
@@ -7265,6 +9204,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-17T12:40+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-oezdemir-warnt-berliner-gruene-vor-koalition-mit-linken-faz-110093143.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T13:56+00:00"
     }
    ],
    "data": "17 ott",
@@ -11665,6 +13613,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Bosnia and Herz.",
      "t": "2026-10-17T14:59+02:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/saudi-arabien-droht-nach-den-angriffen-der-huthis-ein-offener-krieg-mit-iran-a-fa38d23f-136e-45e5-9ce1-690f7219e46a#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T15:37+02:00"
     }
    ],
    "data": "17 ott",
@@ -13046,7 +15003,93 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "za16371c0": "La testata documenta limitazioni alla libertà di stampa durante eventi di protesta civile.",
   "z572b957a": "La testata evidenzia la tensione tra diritto di protesta e accesso ai servizi emergenziali.",
   "z73df7075": "La testata documenta le dinamiche di confronto tra manifestanti e forze dell'ordine.",
-  "zea4d9c3d": "La testata fornisce un aggiornamento sulla situazione sanitaria durante i disordini civili."
+  "zea4d9c3d": "La testata fornisce un aggiornamento sulla situazione sanitaria durante i disordini civili.",
+  "z8b1e411c": "Cronaca locale che evidenzia il fenomeno di saccheggio di siti storici",
+  "z9a0b6559": "Notizia positiva sulla conservazione di specie a rischio attraverso programmi internazionali",
+  "z5a71423a": "Reportage che mappa geograficamente il fenomeno criminale per identificare aree critiche",
+  "z8eb6c912": "Rassegna di opinione pubblica tramite sondaggi online settimanali",
+  "zd6782474": "Indagine che emerge sulla persistenza della discriminazione nella società ceca",
+  "z71ea3f75": "Cronaca dei negoziati politici post-elettorali per la composizione del governo",
+  "z3c1d837f": "Cronaca di sicurezza che documenta il redeployment militare in risposta a tensioni comunitarie",
+  "z124eb2c2": "Comunicato che riafferma l'importanza della diplomazia multilaterale nel contesto del ritiro militare internazionale",
+  "z7aba643e": "Cronaca giudiziaria che documenta l'applicazione della pena capitale nel contesto antiterrorismo",
+  "zf7ade335": "Cronaca delle operazioni militari nel conflitto yemenita in corso",
+  "z8e404d46": "Cronaca delle operazioni navali francesi per il contrasto al traffico di stupefacenti",
+  "z79717e34": "Alert meteorologico su fenomeni atmosferici estremi di imminente manifestazione",
+  "z78e25e7b": "Cronaca dei negoziati per l'elezione del massimo funzionario dell'organizzazione mondiale",
+  "z0632795d": "Comunicato che rassicura i residenti sulla natura temporanea dei problemi ai servizi",
+  "zefcc6709": "Lancio del grande progetto di forestazione urbana e periurbana in ambito nazionale",
+  "z7a66f7a5": "Cronaca di accordi commerciali strategici nel settore energetico",
+  "z139ffb4e": "Cronaca delle procedure interne di selezione dei candidati regionali",
+  "za2b18c4a": "Rapporto tecnico su interruzioni di servizio e affidabilità della rete",
+  "ze172ed20": "Reportage su innovazione nei metodi di formazione infermieristica",
+  "z5ad5bd19": "Dichiarazione politica che critica una nomina della giunta amministrativa",
+  "z8c28433c": "La testata sottolinea il ruolo della ripresa del credito al settore privato nella crescita economica complessiva.",
+  "zaedcf764": "La testata valorizza le storie di giovani imprenditori come modello contemporaneo di sviluppo economico locale.",
+  "z4061a0fe": "La testata enfatizza l'importanza della prevenzione sulla sola identificazione di problemi già avvenuti.",
+  "zb61eae73": "La testata sottolinea come il fattore umano rappresenta il punto debole nelle frodi al mobile money.",
+  "zf839f135": "La testata segnala le richieste di trasparenza sulla gestione dell'evacuazione.",
+  "z77cffd84": "La testata copre i preparativi interni dei partiti per le competizioni elettorali regionali.",
+  "z5bb55fc8": "La testata evidenzia il divario critico tra domanda e offerta di servizi essenziali di sanità.",
+  "z2379527e": "La testata evidenzia le soluzioni strutturali per affrontare l'arretrato dei tribunali.",
+  "za7f035e2": "La testata utilizza ricorrenze storiche per illustrare i momenti cruciali della storia politica nazionale.",
+  "zc498b257": "La testata copre il riconoscimento formale delle autorità tradizionali africane.",
+  "z7364b47a": "La testata approfondisce il divario tra ricerca agricola e implementazione sul terreno.",
+  "za65e65e8": "La testata riporta appelli alla moralità politica come risposta ai problemi sistemici.",
+  "ze8e8fb5e": "La testata analizza le dinamiche politiche e militari dei movimenti armati congolesi.",
+  "zbfc980fe": "La testata segue lo sviluppo del conflitto tra leadership rivali nella Somalia sud-occidentale.",
+  "z9ca45af1": "La testata copre le operazioni di peacekeeping regionale in Somalia.",
+  "zd3cf9c3d": "La testata segue i processi democratici e istituzionali nella Somalia federale.",
+  "z1cfb8255": "La testata valorizza le politiche di democratizzazione dell'accesso alla protezione intellettuale.",
+  "zcd3bf504": "La testata documenta il rapido rovesciamento dell'equilibrio militare nel conflitto somalo.",
+  "zf077e5d0": "La testata evidenzia le sfide logistiche nella preparazione delle elezioni generali.",
+  "zfb5d1495": "La testata segnala il ruolo della presidenza nel contenimento delle tensioni elettorali locali.",
+  "zce051814": "La testata sottolinea gli appelli alle istituzioni per il miglioramento dei diritti educativi delle donne.",
+  "zee2b15a2": "La testata riferisce bandi di lavoro e opportunità professionali da istituzioni internazionali.",
+  "z73cb03b8": "La testata denuncia la diffusione di informazioni false attraverso i social media.",
+  "zdcad9077": "La testata valorizza le iniziative che sviluppano competenze di advocacy tra le donne.",
+  "zc82174fe": "La testata valorizza il ruolo dei media nel supportare le istituzioni scolastiche locali.",
+  "zf7a701d7": "La testata riferisce il lieto fine della ricerca della bimba smarrita.",
+  "z7ba2f308": "La testata mette in risalto la mancanza di assistenza legale dell'imputato durante i procedimenti.",
+  "ze57c8436": "La testata riporta un procedimento giudiziario di minore entità nella giurisdizione locale.",
+  "zc661cea4": "La testata riporta l'adattamento del giocatore bahamiano al ruolo nei Wizards della NBA.",
+  "z44272bec": "La testata evidenzia un'iniziativa per affrontare il disagio mestruale nelle scuole locali.",
+  "z6183bf7d": "La testata si concentra sulla carenza di procedure di sicurezza per i passeggeri locali nelle traversate marittime.",
+  "zb3e118db": "La testata segnala l'importanza del nuovo evento nel calendario atletico locale.",
+  "zbedf514b": "La testata pone l'accento sul rafforzamento del controllo nell'ambito marittimo regionale.",
+  "zc4ac08b2": "La testata riporta la posizione del documento dominicano nei ranking internazionali.",
+  "z16e928fd": "La testata fornisce informazioni sulla diagnosi papale e le implicazioni sanitarie.",
+  "zac2e5419": "La testata sottolinea il dominio dei corridori sudafricani sulla competizione locale.",
+  "z875f82a9": "La testata evidenzia le preoccupazioni dei legislatori riguardanti le elezioni future.",
+  "zeaacf683": "La testata riporta sul progetto infrastrutturale dello stadio nazionale.",
+  "z6d4be6a4": "La testata documenta le condizioni economiche difficili del personale diplomatico cubano.",
+  "z0d6d46aa": "La testata segnala denunce sulla corretta condotta del processo legale.",
+  "zdf28094a": "La testata riferisce sulla sentenza penale per furto di risorse energetiche.",
+  "z7466fa62": "La testata amplifica la posizione del politico locale sulla protesta sociale.",
+  "zefa363f0": "La testata esamina le questioni economiche delle politiche fiscali nazionali.",
+  "z40e3b271": "La testata evidenzia la sfiducia civile verso le autorità municipali in situazioni di calamità.",
+  "zc0f960d8": "La testata denuncia i vizi procedurali nei processi elettorali universitari.",
+  "zf346dcd7": "Commento critico sul paradosso dei negoziati che presentano la guerra come strumento e pace come obiettivo nei conflitti contemporanei",
+  "z85bbe240": "Reportage su un trend emergente di micro-serialità verticale per smartphone che sta modificando i consumi di intrattenimento digitale",
+  "z4c11077e": "Resoconto costruttivo della missione presidenziale cilena incentrato su cooperazione regionale andina",
+  "zbb276ac4": "Notizia su una promessa di cooperazione tra governi andini riguardante il controllo del traffico illegale di automobili",
+  "z339a544c": "Intervista critica di un accademico di diritto sulla gestione giudiziaria delle manifestazioni in Francia",
+  "z57605404": "Reportage su un fenomeno di turismo medico-estetico tra donne francesi verso la Corea del Sud",
+  "z30b817c3": "Analisi della crescita virale di un candidato presidenziale attraverso piattaforme digitali nella campagna 2027 francese",
+  "z9acfcac0": "Breve sulla risposta amministrativa alle manifestazioni urbane a Marsiglia e interventi centrali dello Stato",
+  "z4d5faa72": "Notizia su una denuncia giudiziaria relativa a incitamento virtuale ai disordini e gestione della comunicazione pubblica su social",
+  "z21a75d01": "Avviso su misure di ordine pubblico adottate in previsione di manifestazione multisettoriale programmata nel capoluogo francese",
+  "z46195f1e": "Breve su danni materiali e disordini avvenuti presso sedi di media durante manifestazioni parigine",
+  "z2a4ad7a0": "Profilo biografico-politico di un'europarlamentare insoumise in vista di un processo per apologia di terrorismo",
+  "z05ed108c": "Intervista a un funzionario Onu uscente che critica l'inerzia della comunità internazionale sulla questione palestinese",
+  "za75f897c": "Inchiesta sociologica sul rifiuto degli adolescenti verso l'affidamento condiviso e le motivazioni psicologiche sottostanti",
+  "z200f44e5": "Reportage su cyber-attacco a sistema universitario regionale tedesco con ripercussioni sul pagamento dello staff",
+  "zdef1377a": "Reportage umano sulla quotidianità di civili nella zona di combattimento della guerra ucraina",
+  "z4b832a50": "Critica culturale che collega tropi cinematografici a forme di violenza sessuale universitaria normalizzata",
+  "z7a5303a9": "Critica teatrale positiva di un adattamento scenico del romanzo di Elmiger presso teatro di Berlino",
+  "zd0c696a2": "Resoconto di una riunione partitica con critiche interne alle dinamiche coalitive federali tedesche",
+  "z71e76cf5": "Analisi critica sui criteri di selezione e gestione dello staff comunicativo presidenziale americano",
+  "z26ad5c86": "Commento analitico sulle implicazioni federali dei negoziati di coalizione a Berlino"
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -16392,6 +18435,608 @@ window.EDIZIONI["2026-10-17-sera"] = {
     "Albania"
    ],
    "pt": []
+  },
+  "z8b1e411c": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z9a0b6559": {
+   "n": "Ostrava",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z5a71423a": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z8eb6c912": {
+   "n": "Repubblica Ceca",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zd6782474": {
+   "n": "Repubblica Ceca",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z71ea3f75": {
+   "n": "Bosnia ed Erzegovina",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z3c1d837f": {
+   "n": "Beirut",
+   "p": [
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z124eb2c2": {
+   "n": "Libano",
+   "p": [
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z7aba643e": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zf7ade335": {
+   "n": "Yemen",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z8e404d46": {
+   "n": "Oceano Indiano",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z79717e34": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z78e25e7b": {
+   "n": "Nazioni Unite",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0632795d": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zefcc6709": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z7a66f7a5": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z139ffb4e": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "za2b18c4a": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "ze172ed20": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z5ad5bd19": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z8c28433c": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zaedcf764": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z4061a0fe": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zb61eae73": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zf839f135": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z77cffd84": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z5bb55fc8": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z2379527e": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "za7f035e2": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zc498b257": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z7364b47a": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "za65e65e8": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "ze8e8fb5e": {
+   "n": "Congo",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zbfc980fe": {
+   "n": "Somalia",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z9ca45af1": {
+   "n": "Somalia",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "zd3cf9c3d": {
+   "n": "Somalia",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z1cfb8255": {
+   "n": "Rwanda",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "zcd3bf504": {
+   "n": "Somalia",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "zf077e5d0": {
+   "n": "Sud Sudan",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "zfb5d1495": {
+   "n": "Sud Sudan",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "zce051814": {
+   "n": "Sierra Leone",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "zee2b15a2": {
+   "n": "Sierra Leone",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "z73cb03b8": {
+   "n": "Sierra Leone",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "zdcad9077": {
+   "n": "Sierra Leone",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "zc82174fe": {
+   "n": "Belize",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "zf7a701d7": {
+   "n": "Belize",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "z7ba2f308": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "ze57c8436": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "zc661cea4": {
+   "n": "Nassau",
+   "p": [
+    "Bahamas"
+   ],
+   "pt": []
+  },
+  "z44272bec": {
+   "n": "Gros Islet",
+   "p": [
+    "Saint Lucia"
+   ],
+   "pt": []
+  },
+  "z6183bf7d": {
+   "n": "Anse Cochon",
+   "p": [
+    "Saint Lucia"
+   ],
+   "pt": []
+  },
+  "zb3e118db": {
+   "n": "St. George's",
+   "p": [
+    "Grenada"
+   ],
+   "pt": []
+  },
+  "zbedf514b": {
+   "n": "St. George's",
+   "p": [
+    "Grenada"
+   ],
+   "pt": []
+  },
+  "zc4ac08b2": {
+   "n": "Roseau",
+   "p": [
+    "Dominica"
+   ],
+   "pt": []
+  },
+  "z16e928fd": {
+   "n": "Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "zac2e5419": {
+   "n": "Lobamba",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "z875f82a9": {
+   "n": "Mbabane",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "zeaacf683": {
+   "n": "Mbabane",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "z6d4be6a4": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0d6d46aa": {
+   "n": "Cuba",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "zdf28094a": {
+   "n": "Sancti Spíritus",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "z7466fa62": {
+   "n": "Bangui",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "zefa363f0": {
+   "n": "Bangui",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z40e3b271": {
+   "n": "Mixco",
+   "p": [
+    "Guatemala"
+   ],
+   "pt": []
+  },
+  "zc0f960d8": {
+   "n": "Città del Guatemala",
+   "p": [
+    "Guatemala"
+   ],
+   "pt": []
+  },
+  "zf346dcd7": {
+   "n": "Gaza, Teheran e Kiev",
+   "p": [
+    "Palestine",
+    "Israel",
+    "Iran",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z85bbe240": {
+   "n": "Global",
+   "p": [],
+   "pt": []
+  },
+  "z4c11077e": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zbb276ac4": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z339a544c": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z57605404": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z30b817c3": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9acfcac0": {
+   "n": "Marsiglia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z4d5faa72": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z21a75d01": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z46195f1e": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z2a4ad7a0": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z05ed108c": {
+   "n": "Gaza",
+   "p": [
+    "Palestine",
+    "Israel"
+   ],
+   "pt": []
+  },
+  "za75f897c": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z200f44e5": {
+   "n": "Baden-Württemberg",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zdef1377a": {
+   "n": "Isjum",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z4b832a50": {
+   "n": "Cornell",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7a5303a9": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zd0c696a2": {
+   "n": "Monaco",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z71e76cf5": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z26ad5c86": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -16882,7 +19527,93 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "za16371c0": 1,
   "z572b957a": 1,
   "z73df7075": 1,
-  "zea4d9c3d": 1
+  "zea4d9c3d": 1,
+  "z8b1e411c": 1,
+  "z9a0b6559": 1,
+  "z5a71423a": 1,
+  "z8eb6c912": 1,
+  "zd6782474": 1,
+  "z71ea3f75": 1,
+  "z3c1d837f": 1,
+  "z124eb2c2": 1,
+  "z7aba643e": 1,
+  "zf7ade335": 1,
+  "z8e404d46": 1,
+  "z79717e34": 1,
+  "z78e25e7b": 1,
+  "z0632795d": 1,
+  "zefcc6709": 1,
+  "z7a66f7a5": 1,
+  "z139ffb4e": 1,
+  "za2b18c4a": 1,
+  "ze172ed20": 1,
+  "z5ad5bd19": 1,
+  "z8c28433c": 1,
+  "zaedcf764": 1,
+  "z4061a0fe": 1,
+  "zb61eae73": 1,
+  "zf839f135": 1,
+  "z77cffd84": 1,
+  "z5bb55fc8": 1,
+  "z2379527e": 1,
+  "za7f035e2": 1,
+  "zc498b257": 1,
+  "z7364b47a": 1,
+  "za65e65e8": 1,
+  "ze8e8fb5e": 1,
+  "zbfc980fe": 1,
+  "z9ca45af1": 1,
+  "zd3cf9c3d": 1,
+  "z1cfb8255": 1,
+  "zcd3bf504": 1,
+  "zf077e5d0": 1,
+  "zfb5d1495": 1,
+  "zce051814": 1,
+  "zee2b15a2": 1,
+  "z73cb03b8": 1,
+  "zdcad9077": 1,
+  "zc82174fe": 1,
+  "zf7a701d7": 1,
+  "z7ba2f308": 1,
+  "ze57c8436": 1,
+  "zc661cea4": 1,
+  "z44272bec": 1,
+  "z6183bf7d": 1,
+  "zb3e118db": 1,
+  "zbedf514b": 1,
+  "zc4ac08b2": 1,
+  "z16e928fd": 1,
+  "zac2e5419": 1,
+  "z875f82a9": 1,
+  "zeaacf683": 1,
+  "z6d4be6a4": 1,
+  "z0d6d46aa": 1,
+  "zdf28094a": 1,
+  "z7466fa62": 1,
+  "zefa363f0": 1,
+  "z40e3b271": 1,
+  "zc0f960d8": 1,
+  "zf346dcd7": 1,
+  "z85bbe240": 1,
+  "z4c11077e": 1,
+  "zbb276ac4": 1,
+  "z339a544c": 1,
+  "z57605404": 1,
+  "z30b817c3": 1,
+  "z9acfcac0": 1,
+  "z4d5faa72": 1,
+  "z21a75d01": 1,
+  "z46195f1e": 1,
+  "z2a4ad7a0": 1,
+  "z05ed108c": 1,
+  "za75f897c": 1,
+  "z200f44e5": 1,
+  "zdef1377a": 1,
+  "z4b832a50": 1,
+  "z7a5303a9": 1,
+  "zd0c696a2": 1,
+  "z71e76cf5": 1,
+  "z26ad5c86": 1
  },
  "video": {},
  "pillole": []
