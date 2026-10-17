@@ -3,6 +3,1334 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zd02afba9",
+   "sez": "mondo",
+   "titolo": "Scontri tra polizia e manifestanti in tutta la Francia",
+   "orig": "Police clash with protesters as tens of thousands take to streets across France",
+   "lead": "Decine di migliaia di persone sono scese in piazza sabato in diverse città francesi per protestare contro il carovita e il deterioramento del sistema di welfare, unendosi alle mobilitazioni degli studenti già in corso. A Parigi la polizia ha lanciato gas lacrimogeni contro i manifestanti, mentre a Marsiglia un gruppo ha fatto irruzione nel municipio. Le autorità hanno attribuito gli episodi di violenza a frange dell'estrema sinistra. Le proteste nascono dal malcontento per i prezzi elevati e per i tagli ai servizi pubblici, in un contesto di crescente crisi fiscale del Paese.",
+   "more": [
+    "La Francia attraversa da mesi una fase di instabilità politica e di tensioni sociali legate ai tentativi di riduzione della spesa pubblica e al peggioramento del potere d'acquisto, fattori che alimentano periodicamente mobilitazioni di piazza su larga scala."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T16:55+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T11:57-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcaec2cad",
+   "sez": "mondo",
+   "titolo": "A Parigi le proteste contro i tagli alla scuola degenerano in violenza",
+   "orig": "Al Jazeera reports from Paris as protests turns violent",
+   "lead": "A Parigi migliaia di persone hanno manifestato contro la carenza di insegnanti, le condizioni precarie delle scuole e i tagli ai servizi pubblici, in una giornata di mobilitazione che in alcuni momenti è degenerata in scontri. La protesta rientra nel più ampio movimento di piazza che sabato ha coinvolto diverse città francesi, animato dal malcontento per il carovita e per la riduzione della spesa sociale. Non vengono precisati numero esatto di partecipanti né eventuali feriti o arresti. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T16:56+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zad6263e7",
+   "sez": "italia",
+   "titolo": "Landini annuncia lo sciopero generale del 20 novembre",
+   "orig": "Landini annuncia lo sciopero generale del 20 novembre: «No ai 14 miliardi per le armi»",
+   "lead": "Il segretario della Cgil, Maurizio Landini, ha annunciato dal palco di piazza del Popolo a Roma uno sciopero generale per il 20 novembre, rilanciando la mobilitazione insieme agli studenti. Landini ha attaccato il governo sui temi della precarietà lavorativa, della sicurezza sul lavoro, della politica fiscale e, in particolare, sulla scelta di destinare 14 miliardi di euro alle spese militari. L'annuncio arriva in un clima di crescente tensione sindacale e sociale nel Paese. Lo riferisce la Repubblica.",
+   "more": [
+    "Negli ultimi mesi la Cgil ha più volte criticato le scelte di bilancio del governo, in particolare sull'aumento della spesa per la difesa, chiedendo invece maggiori investimenti su sanità, scuola e sicurezza sul lavoro."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/17/news/sciopero_generale_20_novembre_2026_cgil_landini-425655032/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T16:01+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb6b0bbe9",
+   "sez": "sport",
+   "titolo": "Il Napoli crolla in casa contro il Venezia, De Bruyne sbaglia un rigore",
+   "orig": "Napoli, è crisi: vince 1-0 il Venezia. De Bruyne sbaglia un rigore. Allegri: “Serve lucidità”",
+   "lead": "Il Napoli ha perso 1-0 in casa contro il Venezia, che era ancora a zero punti in classifica, nella prima partita di campionato guidata da Davide Nicola sulla panchina veneta. Kevin De Bruyne ha sbagliato un calcio di rigore che avrebbe potuto riequilibrare il match. Per Luciano Spalletti... in realtà per Allegri, arriva un'altra battuta d'arresto dopo la sconfitta in Champions League, con l'allenatore che ha chiesto più lucidità alla squadra. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/17/news/venezia_napoli_gol-425654936/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T15:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z894806b0",
+   "sez": "mondo",
+   "titolo": "Coloni israeliani aggrediscono diplomatici Ue in Cisgiordania",
+   "orig": "Coloni israeliani aggrediscono diplomatici Ue, Netanyahu: 'Servono prove'",
+   "lead": "Coloni israeliani hanno aggredito diplomatici dell'Unione europea in Cisgiordania, colpendo le auto di rappresentanti belgi, polacchi e francesi secondo quanto riportato dalla radio militare israeliana. Il primo ministro israeliano Benjamin Netanyahu ha replicato chiedendo che vengano fornite prove dell'accaduto. L'episodio si inserisce nel contesto della crescente violenza dei coloni contro la popolazione e, in questo caso, anche contro rappresentanti istituzionali europei presenti nei Territori occupati. Lo riferisce ANSA.",
+   "more": [
+    "La violenza dei coloni israeliani in Cisgiordania è oggetto da anni di denunce da parte della comunità internazionale, che la considera un ostacolo alla stabilità della regione e alla tutela dei diritti della popolazione palestinese."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/coloni-israeliani-aggrediscono-diplomatici-europei-a-taybeh-in-cisgiordania_ac4f2ad6-0568-414f-a5ad-e5f880eec475.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T19:16+02:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T16:11+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T17:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z735dbccb",
+   "sez": "mondo",
+   "titolo": "Merz incontra i giovani conservatori della Cdu a Bonn",
+   "orig": "Germany news: Merz faces conservative youth wing in Bonn",
+   "lead": "Il cancelliere tedesco Friedrich Merz, che ha faticato a trovare pieno sostegno all'interno del suo partito, ha incontrato sabato a Bonn la Unione dei Giovani della Cdu/Csu, che conta circa 90mila iscritti. Nello stesso giorno, nel Land dello Schleswig-Holstein, si attendevano circa 3mila persone a un raduno giovanile organizzato da AfD. L'incontro mette in luce le tensioni interne al centrodestra tedesco e la crescita dell'estrema destra tra i più giovani. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Negli ultimi anni l'AfD ha guadagnato consensi crescenti tra i giovani elettori tedeschi, un fenomeno che preoccupa i partiti tradizionali come la Cdu, costretti a confrontarsi con un'ala giovanile sempre più critica verso la linea moderata del cancelliere."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T10:34+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z21741e7c",
+   "sez": "prima",
+   "titolo": "Papa Leone XIV lascia l'ospedale dopo l'intervento per il cancro al polmone",
+   "orig": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+   "lead": "Papa Leone XIV ha lasciato sabato l'ospedale Gemelli di Roma, quattro giorni dopo l'intervento chirurgico che ha rimosso il lobo inferiore del polmone destro a causa di un tumore. Il pontefice, 71 anni, è apparso in buone condizioni mentre usciva a piedi, salutando pazienti e fedeli. È attualmente previsto che il Papa compia un viaggio in America Latina nel mese di novembre, e i medici non hanno riscontrato impedimenti clinici a tale programma.",
+   "more": [
+    "Leone XIV, eletto pontefice nel 2025, è il primo papa statunitense della storia. Il suo intervento per cancro al polmone ha riacceso l'attenzione sulle condizioni di salute dei pontefici e sulla gestione della sua futura agenda internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T11:10-04:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T13:59+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T15:47+00:00"
+    },
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/pope-leo-to-leave-hospital-today-after-lung-cancer-surgery-the-vatican-says-13600129",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T10:40+01:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1017/1595751-pope-cancer/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-17T11:09+01:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T16:17+00:00"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-pope-leo-leaves-hospital-four-days-after-lung-cancer-surgery/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-17T14:23+00:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/world/europe/pope-leo-walks-out-of-rome-hospital-unaided-four-days-after-lung-cancer-surgery-20261018-p616ev.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-18T01:36+11:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z247a9c3a",
+   "sez": "prima",
+   "titolo": "Il Papa dimesso dall'ospedale dopo l'intervento per cancro al polmone",
+   "orig": "Pope discharged from hospital days after lung cancer surgery",
+   "lead": "Papa Leone XIV è stato dimesso dall'ospedale Gemelli di Roma sabato, giorni dopo l'operazione per rimuovere un tumore canceroso dal polmone. Secondo i medici il pontefice era clinicamente pronto per lasciare la struttura dopo analisi del sangue e una radiografia al torace risultate positive. Domenica il Papa terrà la tradizionale preghiera dell'Angelus e la benedizione in piazza San Pietro. Il chirurgo che lo ha operato ha dichiarato che non vi sono ragioni cliniche che impediscano il previsto viaggio in America Latina il mese prossimo.",
+   "more": [
+    "La convalescenza rapida del Papa, rientrato prima del previsto rispetto alla settimana di ricovero inizialmente stimata dal Vaticano, è stata accolta come un segnale positivo sul decorso post-operatorio, sebbene non sia stata resa nota l'estensione della malattia."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T13:51+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T13:41+00:00"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/world/2203537",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-17T16:52+03:00"
+    },
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T07:19-04:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/pope-leo-returns-to-the-vatican-4-days-after-lung-cancer-surgery",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T11:27-04:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361047878/pope-returns-vatican-days-after-surgery-surgeon-says-he-s",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-17T17:44+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6ece1088",
+   "sez": "salute",
+   "titolo": "León XIV abandona el hospital Gemelli y regresa al Vaticano",
+   "orig": "León XIV sale del hospital Gemelli para regresar al Vaticano tras recibir el alta hospitalaria",
+   "lead": "El papa León XIV, de 71 años, salió del hospital Gemelli de Roma el sábado tras recibir el alta médica, días después de una cirugía por cáncer de pulmón. El pontífice caminó con normalidad, sonriente, saludando a pacientes y fieles congregados en la puerta principal, y se detuvo a conversar con una niña y su familia antes de subir al coche que lo trasladó al Vaticano. Permaneció hospitalizado cinco días y evolucionó con normalidad.",
+   "more": [
+    "La rápida recuperación del papa tras la intervención por un adenocarcinoma pulmonar ha sido vista como una señal positiva, aunque no se ha revelado el tamaño del tumor ni si la enfermedad se había extendido a los ganglios linfáticos cercanos."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/mundo/leon-xiv-sale-del-hospital-gemelli-para-regresar-al-vaticano-tras-recibir-el-alta-hospitalaria",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T12:40-04:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/europa/leon-xiv-salio-del-hospital-en-roma-y-regresara-al-vaticano-en-la-tarde-de-este-sabado-tras-la-cirugia-por-cancer-de-pulmon-3594250",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-17T11:15-05:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/mundo/europa/2026/10/17/alta-hospitalaria-del-papa-leon-xiv-tras-cirugia-en-roma/3691913",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-17T09:42+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/mundo/papa-leon-xiv-recibe-alta-medica-regresa-vaticano/20261017110959997739.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T11:09-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze1d10729",
+   "sez": "sport",
+   "titolo": "Gli All Blacks dominano ancora i Wallabies nella Bledisloe Cup",
+   "orig": "Wallabies outclassed as All Blacks continue Bledisloe Cup domination",
+   "lead": "La Nuova Zelanda ha sconfitto l'Australia 43-21 a Sydney, estendendo a 13 vittorie consecutive il proprio dominio sui Wallabies nella Bledisloe Cup. Gli All Blacks hanno segnato sette mete contro le tre dei padroni di casa, con doppiette di Beauden Barrett e Josh Moorby. Il risultato confirma la netta superiorità della squadra neozelandese nel confronto trans-tasmaniano, in vista degli impegni della prossima Coppa del Mondo.",
+   "more": [
+    "La Bledisloe Cup, disputata ogni anno tra Nuova Zelanda e Australia, è una delle rivalità storiche più sentite del rugby mondiale: la striscia di vittorie consecutive degli All Blacks testimonia un lungo periodo di superiorità neozelandese nel confronto diretto."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-17/rugby-bledisloe-cup-wallabies-all-blacks-wallaroos-scotland/107279014",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-17T00:28+00:00"
+    },
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/rugby/international-rugby/article/3371263/all-blacks-coach-vows-stick-running-game-world-cup-after-humbling-wallabies-again?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T12:35+00:00"
+    },
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/rampant-all-blacks-crush-wallabies-43-21-to-extend-dominance/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-17T14:25+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z321f03b6",
+   "sez": "mondo",
+   "titolo": "Un ufficio turistico incendiato a Lione durante le proteste in Francia",
+   "orig": "Lyon tourism office set ablaze amid French protests",
+   "lead": "Manifestanti hanno dato fuoco a una sede dell'ufficio turistico di Lione sabato, a margine delle manifestazioni nazionali contro il carovita che hanno coinvolto diverse città francesi. L'edificio è stato anche vandalizzato prima dell'incendio. L'episodio si inserisce nella giornata di protesta che ha visto scontri e tensioni in più città del Paese, legati al malcontento per l'aumento dei prezzi e per i tagli ai servizi pubblici.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1017/1595755-france-protests/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-17T12:00+01:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/video/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T17:30+02:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946684/protesters-set-tourism-office-ablaze-in-lyon-at-cost-of-living-rallies",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-17T16:28+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z98fcd2ff",
+   "sez": "economia",
+   "titolo": "Trump suspende temporalmente sanciones del Congreso contra Rusia",
+   "orig": "El presidente Donald Trump suspende temporalmente sanciones del Congreso contra Rusia por 'interés nacional'",
+   "lead": "El presidente estadounidense Donald Trump suspendió temporalmente la aplicación de sanciones del Congreso contra Rusia, invocando el 'interés nacional' de Estados Unidos. La medida permitirá importar más de 300.000 toneladas de diésel ruso hasta 2027, con el objetivo declarado de abaratar los costos energéticos. La decisión ha generado críticas de congresistas, que rechazan la exención de las sanciones impuestas por la Ley Graham, firmada por el propio Trump el mes pasado.",
+   "more": [
+    "La Ley Graham forma parte del paquete de sanciones estadounidenses contra Rusia por la guerra en Ucrania; la exención temporal muestra las tensiones entre la política energética interna y la presión internacional para aislar económicamente a Moscú."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/el-presidente-donald-trump-suspende-temporalmente-sanciones-del-congreso-contra-rusia-por-interes-nacional-3594233",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-17T02:40-05:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/usa/actualidad/2026/10/17/congresistas-rechazan-exencion-de-sanciones-a-rusia-por-trump/3692035",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-17T12:51+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8927b855",
+   "sez": "economia",
+   "titolo": "Orsini: l'Ue è miope sull'energia, Meloni si è battuta per l'industria",
+   "orig": "Orsini: Ue miope sull’energia. Meloni si è battuta per l’industria",
+   "lead": "Il presidente di Confindustria, Emanuele Orsini, ha criticato la politica energetica dell'Unione europea definendola 'miope', intervenendo a margine del 41esimo Convegno di Capri dei Giovani Imprenditori. Orsini ha affermato che un tetto al prezzo del gas fissato a 40 euro avrebbe fatto la differenza per le imprese, e ha chiesto debito comune europeo a sostegno della competitività industriale, criticando inoltre il sistema Ets. Palazzo Chigi ha definito importante il riconoscimento di Orsini al lavoro della premier Giorgia Meloni per l'industria.",
+   "more": [
+    "Il dibattito sul tetto al prezzo del gas e sugli strumenti di debito comune europeo è al centro del confronto tra imprese e istituzioni Ue da quando la crisi energetica, aggravata dalla guerra in Ucraina, ha colpito duramente la competitività industriale del continente."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/energia-orsini-ets-vanno-sospesi-e-questione-competitivita-AJy0cwmB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T11:35+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/17/news/orsini_giovani_imprenditori_ets_legge_di_bilancio-425654661/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T14:50+02:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/17/news/orsini_giovani_imprenditori_ets_legge_di_bilancio-425654661/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T12:24+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z40aeab86",
+   "sez": "cultura",
+   "titolo": "L'Estonia trasforma le case estive sovietiche in patrimonio museale",
+   "orig": "Estonia's Soviet-era summer cottage culture to become museum exhibit",
+   "lead": "Ricercatori estoni stanno mappando le tradizionali suvila, le casette estive con orto costruite in Estonia durante l'epoca sovietica, un patrimonio architettonico e culturale che sta progressivamente scomparendo. L'iniziativa punta a documentare e valorizzare questa eredità prima che vada perduta, trasformandola in un futuro esempio museale della vita quotidiana durante il periodo sovietico. Lo riferisce ERR News.",
+   "more": [
+    "Le suvila erano piccole case con orto assegnate alle famiglie urbane durante l'era sovietica, usate per coltivare frutta e verdura e come rifugio estivo. Rappresentano un pezzo di storia sociale baltica oggi minacciato dall'urbanizzazione e dal cambiamento degli stili di vita."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610168656/estonia-s-soviet-era-summer-cottage-culture-to-become-museum-exhibit",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-17T10:19+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd4207bf7",
+   "sez": "ambiente",
+   "titolo": "Una comunità in Nigeria riceve l'elettricità dopo 17 anni di attesa",
+   "orig": "Gombe community gets electricity after 17 years",
+   "lead": "La comunità di Talasse, nello stato di Gombe, in Nigeria, ha ottenuto l'accesso all'elettricità dopo 17 anni di attesa grazie alla messa in funzione di una mini-rete solare da 1 megawatt realizzata dal governo. Il progetto segna una svolta per gli abitanti della zona, rimasti a lungo senza energia elettrica. Lo riferisce The Punch.",
+   "more": [
+    "Le mini-reti solari sono impianti decentralizzati che permettono di portare energia elettrica in aree rurali non collegate alla rete nazionale, spesso più rapidamente ed economicamente rispetto all'estensione delle infrastrutture tradizionali, un approccio sempre più usato in molte regioni dell'Africa subsahariana."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/gombe-community-gets-electricity-after-17-years/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5ac340c1",
+   "sez": "musica",
+   "titolo": "Iron Maiden annuncia il tour nordamericano 2027 per il 50° anniversario",
+   "orig": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
+   "lead": "Gli Iron Maiden hanno annunciato la terza e ultima tappa del loro tour per il 50° anniversario, intitolata 'Run for Your Lives', che toccherà il Nord America. La serie di concerti partirà nell'aprile 2027. La band metal britannica conclude così un ciclo di celebrazioni iniziato per festeggiare mezzo secolo di carriera. Lo riferisce Billboard.",
+   "more": [
+    "Gli Iron Maiden sono una delle formazioni più influenti della storia dell'heavy metal, attivi dal 1975, noti per album come 'The Number of the Beast' e per spettacoli dal vivo spettacolari con elaborate scenografie a tema."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T17:52+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9ac2142e",
+   "sez": "mondo",
+   "titolo": "I cristalli di sale potrebbero svelare indizi di vita sotto il ghiaccio di Encelado",
+   "orig": "Salt crystals could hold clues to life beneath Enceladus's ice",
+   "lead": "Sotto chilometri di ghiaccio, la luna di Saturno Encelado ospita un oceano le cui tracce raggiungono la superficie attraverso getti vicino al polo sud, che spruzzano vapore acqueo e particelle di ghiaccio. Gli scienziati studiano i cristalli di sale presenti in questi getti come possibile indizio sulla composizione dell'oceano sotterraneo, senza bisogno di perforare il ghiaccio per raggiungerlo direttamente. Lo riferisce Phys.org.",
+   "more": [
+    "Encelado è considerato uno dei luoghi più promettenti del Sistema Solare per la ricerca di vita extraterrestre, grazie al suo oceano sotterraneo di acqua liquida riscaldato da forze di marea, già esplorato in passato dalla sonda Cassini della NASA."
+   ],
+   "fonti": [
+    {
+     "n": "Phys.org – Spazio",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://phys.org/news/2026-10-salt-crystals-clues-life-beneath.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T11:40-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3c182f31",
+   "sez": "salute",
+   "titolo": "Un'intelligenza artificiale conversazionale per la cura adattiva dell'epilessia",
+   "orig": "Conversational brain AI for adaptive epilepsy care",
+   "lead": "Un gruppo di ricercatori ha sviluppato un sistema di intelligenza artificiale in grado di dialogare con l'attività cerebrale per adattare in tempo reale il trattamento dell'epilessia. La tecnologia punta a rendere la cura della malattia più personalizzata, interpretando segnali cerebrali e modulando di conseguenza la terapia. Lo riferisce Nature Medicine.",
+   "more": [
+    "L'epilessia è un disturbo neurologico caratterizzato da crisi ricorrenti dovute ad anomalie dell'attività elettrica cerebrale; le terapie basate su dispositivi impiantabili che monitorano e regolano l'attività neurale in tempo reale rappresentano una frontiera crescente della neurologia."
+   ],
+   "fonti": [
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04719-6",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T00:00+00:00"
+    },
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-brain-injury-guidelines.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T13:00-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb180d285",
+   "sez": "viaggi",
+   "titolo": "Île Seguin, l'isola vicino Parigi diventa nuova meta culturale della città",
+   "orig": "Île Seguin: This tiny island just outside Paris is about to become the city's newest cultural destination",
+   "lead": "L'Île Seguin, una piccola isola nella periferia di Parigi, sta per diventare una nuova destinazione culturale grazie all'apertura, prevista a ottobre, di un centro d'arte contemporanea. L'inaugurazione rappresenta un'ulteriore tappa nella trasformazione di questo ex sito industriale situato sulla Senna in un polo culturale e turistico. Lo riferisce Condé Nast Traveler.",
+   "more": [
+    "L'Île Seguin, ex sede degli stabilimenti automobilistici Renault, è da anni oggetto di un ampio progetto di riqualificazione urbana che ha già portato alla creazione della Seine Musicale, sala da concerti aperta nel 2017."
+   ],
+   "fonti": [
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/this-tiny-island-outside-paris-is-frances-newest-arts-hub",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T15:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4f8c3966",
+   "sez": "mondo",
+   "titolo": "Zelensky denuncia il persistente rallentamento di Starlink in Ucraina",
+   "orig": "Ukraine: Wolodymyr Selenskyj beklagt anhaltende Drosselung von Starlink in der Ukraine",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha denunciato un persistente rallentamento del servizio Starlink in Ucraina, che secondo lui impedisce all'esercito ucraino di controllare correttamente i propri droni militari. Zelensky ha osservato che in altri Paesi europei il servizio funziona senza problemi, lasciando intendere una limitazione specifica per l'Ucraina. Lo riferisce Der Spiegel.",
+   "more": [
+    "Starlink, il servizio di internet satellitare di SpaceX, è diventato cruciale per le comunicazioni militari ucraine durante la guerra con la Russia; in passato sono emerse tensioni tra Kiev e l'azienda di Elon Musk sulla gestione e disponibilità del servizio in determinate aree del fronte."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/urkaine-wolodymyr-selenskyj-beklagt-anhaltende-drosselung-von-starlink-in-der-ukraine-a-8e43cbbd-11bc-4a8a-a33c-1a6a24b6e981#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T17:51+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd433ee78",
+   "sez": "cultura",
+   "titolo": "A Libreville polemica su «La Messe de la Nature», il curato denuncia blasfemia",
+   "orig": "«La Messe de la Nature» : le curé crie au blasphème, l’ambassade de France défend l’humour",
+   "lead": "A Libreville, in Gabon, è scoppiata una polemica attorno all'iniziativa «Rire pour la Nature», uno spettacolo umoristico a tema ambientale annunciato per il 5 novembre all'Istituto francese del Gabon. Il parroco della parrocchia di Notre-Dame de Lourdes ha accusato l'evento, intitolato «La Messe de la Nature», di essere una parodia blasfema del culto cattolico. Contattata telefonicamente, l'ambasciata di Francia ha respinto le accuse, difendendo la natura umoristica dell'iniziativa pensata per sensibilizzare sui temi ecologici. Lo riferisce Gabonreview.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/la-messe-de-la-nature-le-cure-crie-au-blaspheme-lambassade-de-france-defend-lhumour/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-16T17:54+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9bcd80a0",
+   "sez": "mondo",
+   "titolo": "Zelensky accusa Starlink di un'operazione pianificata contro le difese ucraine",
+   "orig": "Zelensky acusa Starlink de “operação planeada” para prejudicar defesas da Ucrânia contra a Rússia",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha accusato Starlink, la società satellitare di Elon Musk, di aver condotto una «operazione pianificata» per danneggiare le difese ucraine contro la Russia. Secondo test citati dal quotidiano portoghese Público, i terminali Starlink funzionano correttamente nell'Unione Europea ma presentano malfunzionamenti in Ucraina. Musk ha respinto le accuse, attribuendo la responsabilità all'ex presidente americano Donald Trump. La vicenda alimenta tensioni sul ruolo cruciale della connettività satellitare nel conflitto in corso tra Kiev e Mosca. Lo riferisce Público.",
+   "more": [
+    "Starlink fornisce da anni connettività internet satellitare essenziale per le comunicazioni militari e civili ucraine durante la guerra con la Russia, rendendo l'affidabilità del servizio una questione strategica di primo piano per Kiev."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/17/mundo/noticia/zelensky-acusa-starlink-operacao-planeada-prejudicar-defesas-ucrania-russia-2191724",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T15:47+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8bbfca1a",
+   "sez": "sport",
+   "titolo": "Iwobi regala al Fulham la prima vittoria in Premier League, Hull sconfitto",
+   "orig": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
+   "lead": "Il Fulham ha conquistato la sua prima vittoria in Premier League battendo l'Hull a Craven Cottage, grazie a un gol di Alex Iwobi. La partita ha alleggerito la pressione sull'allenatore Álvaro Arbeloa, che non era riuscito a vincere nelle settimane precedenti pur creando numerose occasioni. L'Hull ha sfiorato il pareggio in pieno recupero con una punizione di Mohamed Belloumi, finita sopra la traversa. Lo riferisce The Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/oct/17/fulham-hull-premier-league-match-report",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T16:08+00:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/sport/soccer/iwobi-ends-fulhams-pain-20261018-p616ez.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-18T04:35+11:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zedd6291c",
+   "sez": "salute",
+   "titolo": "In Gran Bretagna oltre un milione di non fumatori ora usa le sigarette elettroniche",
+   "orig": "Why people who have never smoked are getting hooked on vapes",
+   "lead": "Secondo dati dell'Office for National Statistics (ONS) citati dalla BBC, più di un milione di persone nel Regno Unito che non hanno mai fumato tabacco sono diventate dipendenti dalle sigarette elettroniche. Il fenomeno riguarda in particolare giovani e adulti che non avevano precedenti esperienze con il fumo tradizionale, sollevando preoccupazioni sanitarie sulla diffusione del vaping come abitudine autonoma e non più solo come alternativa al fumo. Lo riferisce BBC News.",
+   "more": [
+    "Il vaping è stato promosso inizialmente come strumento per smettere di fumare tabacco, ma dati recenti mostrano una crescita preoccupante del consumo tra chi non ha mai avuto dipendenza da nicotina, specie tra adolescenti e giovani adulti, alimentando il dibattito su regolamentazione e rischi sanitari a lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ck62y33489zqo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T23:49+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z159f65d1",
+   "sez": "salute",
+   "titolo": "Nuova Zelanda, torna la richiesta di una tassa sullo zucchero per la salute dentale dei bambini",
+   "orig": "Fresh call for sugar tax to combat children's deteriorating oral health",
+   "lead": "In Nuova Zelanda cresce la richiesta di introdurre una tassa sullo zucchero per contrastare il deterioramento della salute orale infantile. Secondo RNZ, il numero di bambini che devono farsi estrarre denti cariati è in costante aumento, con quasi 8mila estrazioni di denti multipli registrate nell'ultimo anno. Gli esperti collegano il fenomeno al consumo eccessivo di bevande e alimenti zuccherati tra i più piccoli, rilanciando il dibattito su misure fiscali per scoraggiarne il consumo. Lo riferisce RNZ.",
+   "more": [
+    "Le tasse sullo zucchero sono già state adottate in diversi Paesi, tra cui Regno Unito e Messico, con l'obiettivo di ridurre il consumo di bevande zuccherate e contrastare obesità e carie infantili, spesso con risultati misurabili nella riduzione degli acquisti di tali prodotti."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/health/1973927/fresh-call-for-sugar-tax-to-combat-children-s-deteriorating-oral-health",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T06:42+13:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcdc24af0",
+   "sez": "cultura",
+   "titolo": "Recife ospiterà in novembre il maggiore festival di animazione del Brasile",
+   "orig": "Recife vai sediar maior festival de animação do Brasil, o Animage",
+   "lead": "La città di Recife sarà sede nel mese di novembre della 16ª edizione dell'Animage, il più importante festival di cinema d'animazione del Brasile e uno dei principali dell'America Latina. Quest'anno la manifestazione introduce due novità: una mostra competitiva dedicata ai lungometraggi e l'iniziativa Animage Conecta, pensata per creare opportunità di business nel settore e discutere le sfide future dell'animazione. Lo riferisce Agência Brasil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/recife-vai-sediar-maior-festival-de-animacao-do-brasil-o-animage",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T12:21-03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z20b0ce8b",
+   "sez": "tech",
+   "titolo": "Una nuova formula calcola l'età dei cani in anni umani, superando la regola del «per 7»",
+   "orig": "Quanti anni ha il cane: come si calcola l’età con una formula al posto della regola del “per 7”",
+   "lead": "Un gruppo di ricercatori dell'Università della California ha smentito la tradizionale regola secondo cui l'età di un cane si calcola moltiplicandola per sette, dimostrando che l'invecchiamento canino non segue un ritmo costante. Analizzando il DNA di 104 esemplari di Labrador, gli scienziati hanno elaborato una nuova formula matematica che traduce l'età del cane in equivalente umano: 16 moltiplicato per il logaritmo naturale dell'età del cane, più 31. Lo riferisce Geopop.",
+   "more": [
+    "Il metodo si basa sull'epigenetica, lo studio di come l'espressione genica cambia nel tempo, un approccio già usato per stimare l'età biologica umana e che si sta rivelando utile anche per altre specie animali, offrendo stime più precise rispetto a formule semplificate basate solo su rapporti fissi."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/quanti-anni-ha-il-cane-come-si-calcola-leta-con-una-formula-al-posto-della-regola-del-per-7/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T16:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z897f84e7",
+   "sez": "ambiente",
+   "titolo": "L'IPCC chiude la riunione senza accordo, a rischio i futuri negoziati sul clima",
+   "orig": "Reunião do IPCC acaba sem acordo, pondo em risco negociações sobre o clima",
+   "lead": "Una riunione dell'IPCC, il principale organismo scientifico mondiale sui cambiamenti climatici, si è conclusa senza raggiungere un accordo, mettendo a rischio il processo decisionale basato sul consenso che caratterizza l'istituzione. Secondo Público, le divergenze tra i Paesi, legate ai diversi livelli di sviluppo economico, sono alla base della spaccatura emersa durante i lavori, con conseguenze potenziali sulle future negoziazioni internazionali sul clima. Lo riferisce Público.",
+   "more": [
+    "L'IPCC (Intergovernmental Panel on Climate Change) produce i rapporti scientifici di riferimento su cui si basano i negoziati climatici internazionali, come la COP; le sue valutazioni richiedono tradizionalmente l'unanimità dei governi membri, un meccanismo che negli ultimi anni è stato più volte messo sotto pressione da divergenze geopolitiche ed economiche."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/17/azul/noticia/reuniao-ipcc-acaba-acordo-pondo-risco-negociacoes-clima-2191729",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T17:05+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z178b2497",
+   "sez": "sport",
+   "titolo": "Serie A, Bologna-Inter in campo per la settima giornata",
+   "orig": "Serie A, in campo Bologna-Inter DIRETTA",
+   "lead": "Si gioca allo stadio Dall'Ara la partita tra Bologna e Inter, valida per la settima giornata del campionato di Serie A. Le due squadre, secondo i resoconti sportivi, stanno vivendo momenti di forma diversi in questa fase della stagione. L'incontro è stato trasmesso in diretta televisiva su Sky e Dazn. Lo riferiscono ANSA e Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/serie-a-bologna-inter-in-campo-alle-18-diretta_5e337012-61f7-4e66-8bdf-7c6e282f61bd.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T19:32+02:00"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/bologna_inter_formazioni_ufficiali_dove_vederla_dazn_sky_canale_tv_orario_classifica_serie_a-9827532.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z74b9efd5",
+   "sez": "salute",
+   "titolo": "Papa Leone XIV saluta una giovane sopravvissuta al cancro all'uscita dall'ospedale Gemelli",
+   "orig": "Pope Leo greets young Ukrainian cancer survivor as he departs hospital",
+   "lead": "Lasciando l'ospedale Gemelli di Roma, Papa Leone XIV ha incontrato nuovamente Varvara, una tredicenne ucraina conosciuta il 31 dicembre scorso mentre attendeva un intervento chirurgico per un tumore. La ragazza gli ha donato una fotografia del loro abbraccio in piazza San Pietro e un peluche, simile a quello che l'aveva accompagnata durante la fuga dalla guerra nel suo Paese. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-greets-ukrainian-girl-cancer-survivor-gemelli.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-17T16:12+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2c11e588",
+   "sez": "italia",
+   "titolo": "Scontri a Milano, Sala: proteste comprensibili ma violenze ingiustificabili. Fontana con le forze dell'ordine",
+   "orig": "Sala: ragioni della protesta comprensibili, le violenze ingiustificabili. Fontana: solidarietà a forze dell’ordine",
+   "lead": "A Milano il sindaco ha dichiarato comprensibili le ragioni della protesta ma ha condannato come ingiustificabili gli episodi di violenza verificatisi durante le manifestazioni. Il presidente della Regione Lombardia, Fontana, ha invece espresso solidarietà alle forze dell'ordine, ribadendo come il diritto di manifestare debba conciliarsi con quello alla sicurezza dei cittadini e degli agenti impegnati. Lo riferisce Il Sole 24 Ore.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/tajani-inaccettabile-violenza-e-chi-dall-opposizione-soffia-fuoco-fontana-solidarieta-forze-dell-ordine-AJTiXAnB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T17:42+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z82470734",
+   "sez": "cultura",
+   "titolo": "Hello Kitty torna alla parata di Macy's dopo 9 anni, con un nuovo design per il centenario",
+   "orig": "After 9 Years, Hello Kitty Officially Returns to Macy’s Thanksgiving Day Parade With Brand-New Design",
+   "lead": "Dopo nove anni di assenza, Hello Kitty farà il suo ritorno ufficiale alla parata del Giorno del Ringraziamento organizzata da Macy's, in occasione del centesimo anniversario dell'evento. L'azienda giapponese Sanrio ha presentato un nuovo design del palloncino dedicato al celebre personaggio, accompagnato da una linea di abbigliamento esclusivo legata alla ricorrenza. Lo riferisce CBR.",
+   "more": [
+    "La parata del Giorno del Ringraziamento di Macy's, tradizione newyorkese dal 1924, è nota per i suoi palloncini gigantografici dedicati a personaggi popolari; Hello Kitty, mascotte Sanrio creata nel 1974, è un'icona globale della cultura pop giapponese presente in numerosi prodotti commerciali."
+   ],
+   "fonti": [
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/hello-kitty-macys-thanksgiving-day-parade-2026-new-balloon-design/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T16:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z300da7c1",
+   "sez": "cultura",
+   "titolo": "La storia dimenticata dei vichinghi arrivati in America 500 anni prima di Colombo",
+   "orig": "A 'história esquecida' dos vikings que chegaram à América 500 anos antes de Cristóvão Colombo",
+   "lead": "Un articolo della Folha de S.Paulo ripercorre la storia, spesso trascurata, dell'arrivo dei vichinghi nel continente americano circa 500 anni prima del viaggio di Cristoforo Colombo, che toccò le Bahamas nel 1492. Il testo ricorda come Colombo non sia stato il primo europeo a raggiungere le terre oggi conosciute come America, riportando l'attenzione su esplorazioni norrene precedenti rimaste a lungo poco conosciute al grande pubblico. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Gli insediamenti vichinghi in Nord America, in particolare a L'Anse aux Meadows in Canada, risalgono a circa l'anno 1000 e sono attribuiti a esploratori norreni come Leif Erikson; i resti archeologici scoperti nel XX secolo hanno confermato scientificamente questa presenza europea precedente a Colombo."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/a-historia-esquecida-dos-vikings-que-chegaram-a-america-500-anos-antes-de-cristovao-colombo.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T14:39-03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8f80aef5",
+   "sez": "sport",
+   "titolo": "Bundesliga, Füllkrug decisivo: il Werder Bremen rimonta, l'Amburgo vince ancora",
+   "orig": "Fußball-Bundesliga: Füllkrug-Tore, Werder-Wende und der HSV gewinnt wieder",
+   "lead": "Nella sesta giornata di Bundesliga il Werder Brema ha completato una rimonta da 0-2 grazie a gol decisivi di Niclas Füllkrug, mentre l'Amburgo ha ottenuto un'altra vittoria grazie a un marcatore inaspettato. L'Elversberg ha offerto spettacolo con numerosi gol segnati, mentre il Borussia Dortmund non è riuscito a convincere, deludendo nella trasferta contro l'Union Berlino. Lo riferiscono Der Spiegel e Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-fuellkrug-tore-werder-wende-und-der-hsv-gewinnt-wieder-a-5dbb186f-05be-44e2-ae6c-f823e11209d1#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T18:00+02:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/sport/bundesliga-fussball-6-spieltag-elversberg-werder-li.3564589",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T15:52+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0588c81f",
+   "sez": "cultura",
+   "titolo": "Tunisi, aperta nella Medina la quarta edizione del Festival internazionale dell'Oud",
+   "orig": "Médina de Tunis : Ouverture du festival international du Oud",
+   "lead": "Nella Medina di Tunisi è stata inaugurata venerdì sera la quarta edizione del Festival internazionale dell'oud, il tradizionale liuto arabo, ospitata al Club culturale Tahar Haddad. La manifestazione, che si protrarrà fino al 24 ottobre, è stata aperta da un concerto del virtuoso tunisino dell'oud Ziad Gharsa. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "L'oud è uno strumento a corde pizzicate di origine mediorientale, antenato del liuto europeo, fondamentale nella musica classica araba e nordafricana; festival dedicati a questo strumento promuovono la trasmissione di repertori tradizionali e il dialogo tra musicisti di diverse tradizioni regionali."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/17/medina-de-tunis-ouverture-du-festival-international-du-oud/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T16:07+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z35870070",
+   "sez": "sport",
+   "titolo": "Il PSG ribalta lo Strasburgo di Hugo Oliveira grazie ai suoi fuoriclasse",
+   "orig": "PSG recorre às estrelas para dar a volta ao Estrasburgo, de Hugo Oliveira",
+   "lead": "Lo Strasburgo guidato dal tecnico portoghese Hugo Oliveira era in vantaggio sul Paris Saint-Germain nel campionato francese di calcio, ma i bicampioni d'Europa hanno ribaltato il risultato portandolo a 3-1 dopo aver inserito in campo un quintetto di giocatori di altissimo livello. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/futebol-internacional/psg-recorre-as-estrelas-para-dar-a-volta-ao-estrasburgo-de-hugo-oliveira_d1772379",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze30e68ce",
+   "sez": "economia",
+   "titolo": "Decreto bollette: l'accordo del Governo al Consiglio europeo",
+   "orig": "Dl Bollette: cosa prevede l’accordo siglato dal Governo al Consiglio europeo",
+   "lead": "Il Governo italiano ha raggiunto un'intesa preliminare al Consiglio europeo per introdurre un meccanismo di controllo dei costi energetici ispirato al modello spagnolo, con condizioni precise e limitate nel tempo. La misura rientra nel decreto bollette e punta a contenere i prezzi dell'energia per famiglie e imprese. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Il modello spagnolo citato è il cosiddetto 'cap' sul prezzo del gas usato per la generazione elettrica, introdotto nel 2022 insieme al Portogallo per disaccoppiare parzialmente il prezzo dell'elettricità da quello del gas, misura che l'Italia ha più volte valutato per contenere le bollette dei consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/dl-bollette-cosa-prevede-l-accordo-siglato-governo-consiglio-europeo-AJJiFqmB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T09:25+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze21e8eff",
+   "sez": "sport",
+   "titolo": "L'AVS sorprende il Moreirense nella Coppa del Portogallo",
+   "orig": "AVS surpreende Moreirense na terceira eliminatória",
+   "lead": "L'AVS ha battuto oggi il Moreirense, squadra della Prima Liga portoghese, per 1-0 nella terza eliminatoria della Taça de Portugal di calcio, grazie al gol di Rodrigo Pinho segnato nei primi minuti di gara. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/futebol-nacional/avs-surpreende-moreirense-na-terceira-eliminatoria_d1772378",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc770f7d2",
+   "sez": "ambiente",
+   "titolo": "Gli ecoguardiani del parco di Upemba premiati agli African Conservation Awards 2026",
+   "orig": "RDC : les écogardes de l’Upemba récompensés aux African Conservation Awards 2026",
+   "lead": "Gli ecoguardiani del parco nazionale di Upemba, nella provincia dell'Alto Katanga, nella Repubblica Democratica del Congo, hanno vinto il premio 'Best Ranger Team' agli African Conservation Awards 2026. L'annuncio è stato fatto martedì scorso dalla Game Rangers Association of Africa, che assegnerà il riconoscimento ufficiale in una cerimonia prevista prossimamente. Lo riferisce Radio Okapi.",
+   "more": [
+    "Gli African Conservation Awards premiano ogni anno il lavoro dei guardiani dei parchi africani impegnati nella protezione della fauna selvatica contro il bracconaggio, spesso in condizioni di grande rischio personale, in aree remote e con risorse limitate rispetto alle minacce che devono affrontare."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/17/actualite/societe/rdc-les-ecogardes-de-lupemba-recompenses-aux-african-conservation",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-17T16:36+01:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf135d1b3",
+   "sez": "salute",
+   "titolo": "Il cancro in terapia intensiva pesa anche su familiari e amici dei pazienti",
+   "orig": "When cancer turns critical, the patient isn't the only one suffering",
+   "lead": "Mentre i medici lottano per salvare la vita dei malati di cancro in terapia intensiva, familiari, partner e amici si trovano spesso a sostenere un pesante carico emotivo. Una ricerca rivela diffusa ansia, depressione, esaurimento e peggioramento del benessere tra chi assiste una persona cara durante una malattia critica. Lo riferisce Medical Xpress.",
+   "more": [
+    "Il supporto psicologico ai familiari dei malati gravi è un tema crescente in oncologia, dove il cosiddetto 'caregiver burden' può portare a conseguenze sulla salute mentale e fisica di chi assiste, spingendo molti sistemi sanitari a introdurre servizi dedicati di assistenza psicologica per i caregiver."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-cancer-critical-patient-isnt.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T12:00-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7fa7132b",
+   "sez": "sport",
+   "titolo": "La Sierra Leone Under 15 vola a Baku per il Festival mondiale FIFA",
+   "orig": "Sierra Leone U-15 Team Heads to Baku for Landmark FIFA Youth Festival",
+   "lead": "La squadra under 15 della Sierra Leone affronterà avversari internazionali in Azerbaigian la prossima settimana, unendosi alla prima edizione del FIFA U-15 World Cup and Festival. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/sport/sierra-leone-15-team-baku-landmark-fifa/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-17T16:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z875d43f6",
+   "sez": "mondo",
+   "titolo": "Trump revoca sanzioni alla Russia, Kiev condanna la decisione",
+   "orig": "Kiev condanna revoca sanzioni alla Russia",
+   "lead": "Il presidente degli Stati Uniti Donald Trump ha firmato un ordine esecutivo che sospende un ampio pacchetto di sanzioni e dazi sull'export imposti alla Russia dal Graham Act, pochi giorni prima che entrassero in vigore. Mosca ha definito la decisione un 'segnale storico', mentre il presidente ucraino Zelensky l'ha criticata duramente, rilanciando però la prospettiva di nuovi negoziati. Lo riferisce Sky TG24.",
+   "more": [
+    "Il Graham Act è una legge statunitense che prevedeva sanzioni severe contro la Russia per la guerra in Ucraina, promossa dal senatore repubblicano Lindsey Graham. La sua sospensione segna un cambio di rotta nella politica statunitense verso Mosca sotto l'amministrazione Trump, in un momento di tentativi di riavvicinamento diplomatico."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/video/2026/10/17/kiev-condanna-revoca-sanzioni-alla-russia-1132472",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z27b380a9",
+   "sez": "mondo",
+   "titolo": "Rubio accusa il Nicaragua di 'teatro politico hostile' per il rifiuto dell'ambasciatrice USA",
+   "orig": "Rubio califica de “teatro político hostil” el rechazo de la embajadora de EE. UU. en Nicaragua",
+   "lead": "Il segretario di Stato americano Marco Rubio ha definito 'teatro politico hostile' la decisione del regime di Daniel Ortega e Rosario Murillo di negare il beneplacito all'ambasciatrice statunitense designata Natasha Franceschi. Rubio ha affermato che tale atteggiamento mina la rappresentanza degli Stati Uniti e costituisce un ulteriore esempio di comportamento conflittuale da parte del governo nicaraguense. Lo riferisce Confidencial.",
+   "more": [
+    "Il Nicaragua di Daniel Ortega ha avuto negli ultimi anni rapporti diplomatici tesi con gli Stati Uniti, culminati in sanzioni reciproche e accuse di repressione interna, mentre Washington ha più volte criticato il governo nicaraguense per violazioni dei diritti umani e restrizioni alle libertà civili."
+   ],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/noticias/rubio-califica-de-teatro-politico-hostil-el-rechazo-de-la-embajadora-de-ee-uu-en-nicaragua/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-10-17T16:08+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5d2b85d2",
+   "sez": "mondo",
+   "titolo": "Charafat Afailal torna al governo marocchino come ministro dell'Energia",
+   "orig": "Seven years after controversial Government exit, Charafat Afailal makes cabinet return",
+   "lead": "Charafat Afailal è stata nominata dal re del Marocco Mohammed VI nuovo ministro dell'Energia, delle Miniere e dello Sviluppo Sostenibile, tornando al governo sette anni dopo un'uscita controversa. Afailal, che in passato ha guidato il settore dell'acqua, succede a Leila Benali e porta con sé un background da ingegnere, esperienza parlamentare e un ruolo di lunga data nel Partito del Progresso e del Socialismo. Lo riferisce Hespress English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147502-seven-years-after-controversial-government-exit-charafat-afailal-makes-cabinet-return.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-17T17:37+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcb0f2e0f",
+   "sez": "salute",
+   "titolo": "Sierra Leone chiede il sostegno della Cina per sanità ospedaliera e preparazione sanitaria",
+   "orig": "Sierra Leone Seeks China’s Support to Strengthen Hospital Services and Public Health Preparedness",
+   "lead": "Il ministro della Salute della Sierra Leone, Austin Demby, ha incontrato la Commissione nazionale sanitaria cinese per esplorare nuove forme di cooperazione bilaterale nel campo delle infrastrutture sanitarie e della preparazione alle emergenze di sanità pubblica. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/sierra-leone-seeks-china-hospital-services/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-17T17:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
+   "id": "z24bd954d",
+   "sez": "economia",
+   "titolo": "Il re Mohammed VI approva le priorità del bilancio 2027 del Marocco",
+   "orig": "King Mohammed VI chairs Ministerial Council approving Morocco’s 2027 budget priorities",
+   "lead": "Il re del Marocco Mohammed VI ha presieduto un Consiglio dei ministri che ha approvato le priorità della legge finanziaria 2027, che punterà su potere d'acquisto delle famiglie, assistenza sociale, occupazione giovanile e sviluppo regionale, con un'allocazione di 25 miliardi di dirham per programmi di sviluppo territoriale integrato. Lo riferisce Hespress English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147510-king-mohammed-vi-chairs-ministerial-council-approving-moroccos-2027-budget-priorities.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-17T15:42+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "19:55",
+   "uscita": "sera"
+  },
+  {
    "id": "z67217c59",
    "sez": "mondo",
    "titolo": "Il presidente kirghiso Sadyr Japarov accolto a Yerevan per una visita ufficiale",
@@ -18672,30 +20000,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z90c08ec8",
-   "sez": "economia",
-   "titolo": "Orsini: «Miope tagliare il bilancio europeo», e chiede debito comune per l'industria",
-   "orig": "Orsini: “Miope tagliare il bilancio europeo. Tetto al gas? A 40 euro avrebbe fatto la differenza”",
-   "lead": "Il presidente di Confindustria, Emanuele Orsini, ha definito miope l'ipotesi di ridurre il bilancio dell'Unione europea. Il leader degli imprenditori chiede che si ricorra a debito comune per sostenere la competitività dell'industria europea. Sul prezzo del gas, ha affermato che un tetto fissato a 40 euro avrebbe fatto la differenza. Orsini ha poi attaccato il sistema Ets, che ha definito una follia, chiedendo che tutte le risorse raccolte vengano restituite alle imprese. Lo riferisce la Repubblica.",
-   "more": [
-    "L'Ets è il sistema europeo di scambio delle quote di emissione: le aziende che inquinano devono acquistare permessi per la CO2 emessa. Gli introiti finiscono in gran parte agli Stati. Le imprese energivore lo considerano un costo che pesa sulla loro competitività rispetto ai concorrenti extraeuropei."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/2026/10/17/news/orsini_giovani_imprenditori_ets_legge_di_bilancio-425654661/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-17T12:24+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:03",
-   "uscita": "17"
-  },
-  {
    "id": "zeb224098",
    "sez": "italia",
    "titolo": "Manovra, lunedì vertice di maggioranza con Meloni e Giorgetti",
@@ -22277,7 +23581,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z58bc7f6e": "la Repubblica sottolinea il valore affettivo e nostalgico della Panda nell'immaginario italiano.",
   "zce311e36": "The Guardian sottolinea il ruolo di Bailey all'interno della protesta collettiva dei Paesi europei.",
   "z3687fa62": "Al Jazeera inserisce Trudy in una sequenza di tempeste che hanno colpito il Messico quest'anno.",
-  "z90c08ec8": "la Repubblica dà spazio alle richieste di Confindustria su bilancio Ue, gas ed Ets.",
   "zeb224098": "ANSA si concentra sui partecipanti al vertice di maggioranza.",
   "ze2e996ae": "Le testate alternano il risalto alla doppietta di Neto e all'infortunio di Martínez.",
   "z67848839": "Le testate spagnole evidenziano la finale nazionale, le altre la sorpresa contro Zverev.",
@@ -23136,7 +24439,53 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z88105155": "Il giornale approfondisce i fattori di esasperazione economica e sociale all'origine delle recenti violenze urbane nell'arcipelago.",
   "z8d2199d2": "Il quotidiano documenta la gravissima emergenza umanitaria e la fame quotidiana che affliggono i rifugiati interni haitiani.",
   "zb937620b": "La testata evidenzia le rivendicazioni dei movimenti politici haitiani circa la trasparenza elettorale e la sicurezza delle urne.",
-  "z97303b57": "Il quotidiano guatemalteco segue da vicino i risvolti legali e istituzionali dell'indagine sull'evasione carceraria."
+  "z97303b57": "Il quotidiano guatemalteco segue da vicino i risvolti legali e istituzionali dell'indagine sull'evasione carceraria.",
+  "zd02afba9": "Il quotidiano britannico sottolinea la convergenza tra proteste studentesche e malcontento sociale più ampio",
+  "zcaec2cad": "L'emittente qatariota segue in diretta l'evoluzione delle proteste parigine centrate sui temi della scuola pubblica",
+  "zad6263e7": "Il quotidiano romano riporta l'attacco di Landini al governo sulle priorità di spesa pubblica",
+  "zb6b0bbe9": "Il quotidiano romano sottolinea la crisi di risultati del Napoli dopo il ko in Champions",
+  "z894806b0": "L'agenzia italiana riporta la reazione cauta di Netanyahu alle accuse di aggressione ai diplomatici Ue",
+  "z735dbccb": "L'emittente tedesca segnala le difficoltà di Merz nel mantenere il sostegno della base giovanile del partito",
+  "z21741e7c": "L'emittente americana sottolinea la prevista partenza del Papa per l'America Latina a novembre",
+  "z247a9c3a": "La Bbc evidenzia il ritorno anticipato del Papa agli impegni pubblici con l'Angelus di domenica",
+  "z6ece1088": "El medio boliviano destaca el gesto cercano del papa con los fieles al salir del hospital",
+  "ze1d10729": "I media australiani e neozelandesi sottolineano la schiacciante superiorità degli All Blacks e lo stile di gioco offensivo scelto in vista del Mondiale",
+  "z321f03b6": "I media europei documentano gli episodi di violenza più gravi registrati durante le proteste nazionali francesi",
+  "z98fcd2ff": "El diario colombiano señala las críticas bipartidistas en el Congreso por la decisión de Trump",
+  "z8927b855": "Il Sole 24 Ore riporta le critiche di Orsini all'Ue e l'apprezzamento del governo per la posizione del presidente di Confindustria",
+  "z40aeab86": "La testata evidenzia il valore storico e identitario di un'architettura informale che rischia di scomparire.",
+  "zd4207bf7": "La testata sottolinea il forte impatto sociale dell'elettrificazione dopo quasi due decenni di assenza di servizio.",
+  "z5ac340c1": "La testata presenta l'annuncio come l'atto finale di una lunga celebrazione anniversaria della band.",
+  "z9ac2142e": "La testata evidenzia come l'analisi chimica dei getti ghiacciati possa offrire indizi sull'abitabilità dell'oceano nascosto.",
+  "z3c182f31": "La rivista presenta il sistema come un passo verso terapie neurologiche personalizzate basate sull'IA.",
+  "zb180d285": "La testata presenta l'apertura come un ulteriore passo nella rinascita culturale dell'ex area industriale.",
+  "z4f8c3966": "La testata riporta la denuncia di Zelensky come un problema operativo che pesa sulle capacità militari ucraine.",
+  "zd433ee78": "Gabonreview riporta lo scontro tra il curato locale e l'ambasciata francese sul tono dello spettacolo ambientale.",
+  "z9bcd80a0": "Público sottolinea le accuse di Zelensky contro Starlink basate su test di funzionamento comparati tra UE e Ucraina.",
+  "z8bbfca1a": "The Guardian evidenzia il sollievo per Arbeloa dopo settimane di pressione senza vittorie a Craven Cottage.",
+  "zedd6291c": "La BBC pone l'accento sui dati ONS che mostrano la diffusione del vaping tra chi non ha mai fumato.",
+  "z159f65d1": "RNZ mette in evidenza i dati sulle estrazioni dentarie infantili per sostenere la proposta di una tassa sullo zucchero.",
+  "zcdc24af0": "Agência Brasil sottolinea le novità dell'edizione 2026 del festival, tra mostra competitiva e spazio dedicato al business.",
+  "z20b0ce8b": "Geopop evidenzia la base scientifica della nuova formula, derivata dall'analisi del DNA di cani Labrador.",
+  "z897f84e7": "Público segnala il rischio per il processo di consenso scientifico internazionale sul clima dopo la mancata intesa.",
+  "z178b2497": "ANSA e Il Messaggero seguono in diretta la sfida tra due squadre in momenti di forma differenti.",
+  "z74b9efd5": "Vatican News racconta il gesto affettuoso tra il Pontefice e la giovane sopravvissuta al cancro durante la fuga dalla guerra.",
+  "z2c11e588": "Il Sole 24 Ore riporta le dichiarazioni distinte di Sala e Fontana sugli episodi di violenza durante le proteste milanesi.",
+  "z82470734": "CBR evidenzia il ritorno del personaggio Sanrio con un design inedito per il centenario della parata.",
+  "z300da7c1": "La Folha de S.Paulo ripropone la vicenda storica delle esplorazioni vichinghe anteriori a Colombo.",
+  "z8f80aef5": "Der Spiegel e Süddeutsche Zeitung raccontano un pomeriggio di campionato ricco di gol e sorprese nella Bundesliga tedesca.",
+  "z0588c81f": "La Presse de Tunisie descrive la serata inaugurale animata dal concerto del virtuoso Ziad Gharsa.",
+  "z35870070": "RTP evidenzia la rimonta del PSG grazie all'ingresso delle sue stelle contro una squadra guidata da un allenatore portoghese.",
+  "ze30e68ce": "Il Sole 24 Ore mette in luce i dettagli tecnici dell'accordo raggiunto in sede europea.",
+  "ze21e8eff": "RTP evidenzia la sorpresa del risultato contro una squadra della massima divisione portoghese.",
+  "zc770f7d2": "Radio Okapi sottolinea il riconoscimento internazionale ottenuto dagli ecoguardiani congolesi per il loro impegno.",
+  "zf135d1b3": "Medical Xpress evidenzia l'impatto psicologico sui familiari dei malati di cancro in condizioni critiche.",
+  "z7fa7132b": "Sierraloaded sottolinea la partecipazione storica della Sierra Leone a questo nuovo torneo giovanile internazionale organizzato dalla FIFA.",
+  "z875d43f6": "Sky TG24 mette in evidenza le reazioni contrastanti tra Mosca, soddisfatta, e Kiev, critica verso la decisione americana.",
+  "z27b380a9": "Confidencial riporta le dure parole del segretario di Stato americano contro il governo di Ortega e Murillo.",
+  "z5d2b85d2": "Hespress English sottolinea il ritorno in politica di una figura con esperienza istituzionale e tecnica nel settore energetico marocchino.",
+  "zcb0f2e0f": "Sierraloaded evidenzia l'apertura della Sierra Leone verso la Cina per rafforzare il sistema sanitario nazionale.",
+  "z24bd954d": "Hespress English evidenzia le priorità sociali ed economiche fissate dal governo marocchino per il prossimo bilancio."
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -23160,7 +24509,11 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z488796a0": "I tumulti politici del 2025 hanno interrotto i programmi sanitari critici, inclusa la copertura vaccinale.",
   "ze40e9e3f": "La convenzione del Congresso nepalese rappresenta un processo significativo per determinare la leadership del partito.",
   "zb1e85da1": "Migliaia di residenti rimangono sfollati anni dopo la fine ufficiale del conflitto armato.",
-  "z2246c08b": "Pons proviene da una carriera di successo nella pallavolo da spiaggia, dove ha sviluppato competenze specifiche diverse da quelle richieste dal gioco indoor."
+  "z2246c08b": "Pons proviene da una carriera di successo nella pallavolo da spiaggia, dove ha sviluppato competenze specifiche diverse da quelle richieste dal gioco indoor.",
+  "z21741e7c": "Il Papa era stato operato alcuni giorni prima al Gemelli per un adenocarcinoma polmonare, con la rimozione del lobo inferiore del polmone destro. Durante la degenza le sue udienze erano state cancellate e si era inizialmente previsto un ricovero più lungo di una settimana.",
+  "z247a9c3a": "Leone XIV era stato operato al Gemelli per un adenocarcinoma al polmone destro, con rimozione del lobo inferiore. Le sue udienze pubbliche erano state cancellate fino a martedì e si temeva un ricovero prolungato.",
+  "z6ece1088": "León XIV fue intervenido quirúrgicamente en el Gemelli para extirpar un tumor canceroso en el pulmón derecho. Durante su hospitalización se cancelaron sus audiencias y se esperaba inicialmente una estancia más larga.",
+  "z875d43f6": "Negli ultimi mesi l'amministrazione Trump ha alternato pressioni e aperture verso la Russia nel tentativo di favorire un negoziato sulla guerra in Ucraina, mentre Kiev ha più volte espresso timori che Washington possa alleggerire le sanzioni a Mosca senza garanzie di sicurezza per l'Ucraina."
  },
  "cronologie": {
   "zs17fra": [
@@ -23205,6 +24558,36 @@ window.EDIZIONI["2026-10-17-sera"] = {
    [
     "17 ottobre 2026",
     "Zelensky denuncia nuova strategia russa per il blackout invernale"
+   ]
+  ],
+  "z21741e7c": [
+   [
+    "giorni precedenti",
+    "Intervento chirurgico al Gemelli per cancro al polmone"
+   ],
+   [
+    "2026-10-17",
+    "Dimissione dall'ospedale e ritorno in Vaticano"
+   ]
+  ],
+  "z247a9c3a": [
+   [
+    "giorni precedenti",
+    "Intervento chirurgico per cancro al polmone"
+   ],
+   [
+    "2026-10-17",
+    "Dimissione e ritorno in Vaticano, Angelus previsto per domenica"
+   ]
+  ],
+  "z6ece1088": [
+   [
+    "días previos",
+    "Cirugía por cáncer de pulmón"
+   ],
+   [
+    "2026-10-17",
+    "Alta hospitalaria y regreso al Vaticano"
    ]
   ]
  },
@@ -23295,6 +24678,114 @@ window.EDIZIONI["2026-10-17-sera"] = {
     }
    ],
    "divergono": "Le testate indicano canali diversi per l'annuncio: Facebook per Tchadinfos, un comunicato stampa per Le Soleil, una dichiarazione firmata a Marrakech e rilanciata su X per La Nouvelle Tribune, i social network per RTP. Le Soleil e Tchadinfos riportano solo le motivazioni di Sall. Seneweb e La Nouvelle Tribune danno spazio a voci critiche, Gassama e Boukari-Yabara, che spiegano il ritiro con il bilancio o con l'ego dell'ex presidente; Seneweb aggiunge la mancanza del sostegno dell'Unione africana. Solo RTP riporta il voto contrario dei cinque membri permanenti su tutti i candidati e i risultati numerici dei favoriti."
+  },
+  "z21741e7c": {
+   "voci": [
+    {
+     "n": "NPR",
+     "c": "Washington",
+     "p": "US",
+     "t": "Centra l'articolo sui dettagli medici: parla di adenocarcinoma, cita esperti esterni (Brawley, Gupta, Villena Vargas) su prognosi e tempi di recupero. Riporta anche la malattia del fratello del Papa e le sue abitudini sportive.",
+     "b": "a"
+    },
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "Riporta i fatti principali in modo sintetico, citando la frase del Papa \"I am better, thank you\". Sottolinea che non sono stati resi noti dimensioni del tumore né eventuale diffusione ai linfonodi, elementi chiave per la prognosi.",
+     "b": "a"
+    },
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Il testo completo non è leggibile (paywall/blocco): dall'occhiello risulta solo che l'intervento è definito \"successful\". Giudizio parziale.",
+     "b": "t"
+    },
+    {
+     "n": "Sky News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Il testo completo non è leggibile: dall'occhiello emerge solo la notizia essenziale delle dimissioni dopo quattro giorni. Giudizio parziale.",
+     "b": "t"
+    },
+    {
+     "n": "RTÉ News",
+     "c": "Dublino",
+     "p": "XX",
+     "t": "Dà ampio spazio alla trasparenza del Papa nell'annuncio della malattia e descrive episodi come la telefonata con Putin e l'incontro con una ragazza. Cita il chirurgo Margaritora e indica il viaggio in America Latina come prossimo banco di prova.",
+     "b": "a"
+    },
+    {
+     "n": "The Globe and Mail",
+     "c": "Toronto",
+     "p": "XX",
+     "t": "Mette in primo piano l'episodio della ragazza ucraina tredicenne con la bambola papale, raccontato con dettagli personali. Cita fonti mediche vaticane e specialisti oncologici esterni sui tempi per volare in aereo.",
+     "b": "a"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "c": "Sydney",
+     "p": "XX",
+     "t": "Articolo informativo e sintetico, centrato sulle dichiarazioni dei medici che non hanno ancora rivelato dimensioni del tumore né eventuale diffusione ai linfonodi. Nota lo shock per la diagnosi vista l'età relativamente giovane del Papa.",
+     "b": "a"
+    },
+    {
+     "n": "The New York Times",
+     "c": "New York",
+     "p": "US",
+     "t": "Il testo completo non è leggibile: titolo e occhiello riportano solo il fatto delle dimissioni dopo il cancro al polmone. Giudizio parziale.",
+     "b": "t"
+    }
+   ],
+   "divergono": "RTÉ News e The Globe and Mail raccontano con dettaglio l'episodio della ragazza ucraina con la bambola papale, assente in NPR, Deutsche Welle e Sydney Morning Herald. NPR approfondisce maggiormente gli aspetti clinici con interviste a più esperti statunitensi, mentre Deutsche Welle e Sydney Morning Herald si limitano a constatare che dimensione del tumore e diffusione ai linfonodi non sono ancora note. Solo RTÉ e The Globe and Mail menzionano esplicitamente il prossimo viaggio in America Latina come elemento di attenzione medica."
+  },
+  "z247a9c3a": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Collega le dimissioni alla telefonata con Putin, riportata come richiesta di \"dialogo e pace\" e cessate il fuoco a Oleshky, citando anche un reportage BBC sulla fame nella città. Cita dichiarazioni ufficiali dei medici su test ematici e radiografia.",
+     "b": "a"
+    },
+    {
+     "n": "TASS",
+     "c": "Mosca",
+     "p": "XX",
+     "t": "Riporta sinteticamente la voce ufficiale vaticana sui medici che dichiarano il Papa pronto per le dimissioni, citando la diagnosi di adenocarcinoma confermata dall'esame istologico. Menziona la telefonata con Putin senza commento.",
+     "b": "a"
+    },
+    {
+     "n": "Fox News",
+     "c": "New York",
+     "p": "US",
+     "t": "Dà risalto alla folla che grida \"Papa!\" e alle lettere dei bambini del reparto oncologico, in particolare quella di una bambina di nome Eleonora. Riporta ampiamente la telefonata con Putin sulla situazione umanitaria a Oleshky e cita reazioni politiche come quella di Trump.",
+     "b": "a"
+    },
+    {
+     "n": "Stuff NZ",
+     "c": "Wellington",
+     "p": "XX",
+     "t": "Il testo completo non è leggibile: dall'occhiello risulta solo che il chirurgo ha detto che non ci sono \"ragioni cliniche\" contro il viaggio in America Latina. Giudizio parziale.",
+     "b": "t"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Cita la dichiarazione medica ufficiale \"fit for discharge\" e approfondisce le parole del chirurgo Margaritora sul recupero completo in \"circa 10 giorni\" e sull'assenza di controindicazioni al viaggio. Ricorda il precedente di Giovanni Paolo II al Gemelli.",
+     "b": "a"
+    },
+    {
+     "n": "PBS NewsHour",
+     "c": "Arlington",
+     "p": "US",
+     "t": "Articolo dettagliato (Associated Press) che riporta le spiegazioni del chirurgo Margaritora su come il nodulo sia stato scoperto per caso durante esami addominali di routine. Descrive le opzioni terapeutiche future (chemioterapia, immunoterapia, terapia orale mirata) e l'episodio della ragazza ucraina con la bambola.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Fox News e BBC News danno ampio spazio alla telefonata con Putin sulla situazione di Oleshky, ma Fox News aggiunge dettagli come le lettere dei bambini oncologici e la reazione di Trump, assenti altrove. TASS, in quanto voce ufficiale russa, riporta la telefonata senza commento, limitandosi ai fatti medici essenziali. The Guardian e PBS NewsHour sono le uniche a riportare le dichiarazioni estese del chirurgo Margaritora sulla scoperta casuale del nodulo e sulle possibili terapie future, aspetto non presente in BBC News o TASS."
   }
  },
  "luoghi": {
@@ -23532,13 +25023,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Costa pacifica del Messico",
    "p": [
     "Mexico"
-   ],
-   "pt": []
-  },
-  "z90c08ec8": {
-   "n": "Italia",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -29343,6 +30827,326 @@ window.EDIZIONI["2026-10-17-sera"] = {
     "Guatemala"
    ],
    "pt": []
+  },
+  "zd02afba9": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zcaec2cad": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zad6263e7": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb6b0bbe9": {
+   "n": "Napoli",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z894806b0": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z735dbccb": {
+   "n": "Bonn",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z21741e7c": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z247a9c3a": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z6ece1088": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze1d10729": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z321f03b6": {
+   "n": "Lione",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z98fcd2ff": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8927b855": {
+   "n": "Capri",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z40aeab86": {
+   "n": "Estonia",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zd4207bf7": {
+   "n": "Gombe",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z5ac340c1": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9ac2142e": {
+   "n": "Encelado",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3c182f31": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb180d285": {
+   "n": "Île Seguin, Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z4f8c3966": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zd433ee78": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z9bcd80a0": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z8bbfca1a": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zedd6291c": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z159f65d1": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zcdc24af0": {
+   "n": "Recife",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z20b0ce8b": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z897f84e7": {
+   "n": "non specificato",
+   "p": [],
+   "pt": []
+  },
+  "z178b2497": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z74b9efd5": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2c11e588": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z82470734": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z300da7c1": {
+   "n": "non specificato",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z8f80aef5": {
+   "n": "Brema",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z0588c81f": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z35870070": {
+   "n": "Strasburgo",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze30e68ce": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "ze21e8eff": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zc770f7d2": {
+   "n": "Alto Katanga",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zf135d1b3": {
+   "n": "Douglas",
+   "p": [
+    "Isle of Man"
+   ],
+   "pt": []
+  },
+  "z7fa7132b": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z875d43f6": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z27b380a9": {
+   "n": "Managua",
+   "p": [
+    "Nicaragua"
+   ],
+   "pt": []
+  },
+  "z5d2b85d2": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "zcb0f2e0f": {
+   "n": "Freetown",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "z24bd954d": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -29381,7 +31185,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z58bc7f6e": 1,
   "zce311e36": 2,
   "z3687fa62": 1,
-  "z90c08ec8": 1,
   "zeb224098": 1,
   "ze2e996ae": 1,
   "z67848839": 1,
@@ -30240,7 +32043,53 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z88105155": 1,
   "z8d2199d2": 1,
   "zb937620b": 1,
-  "z97303b57": 1
+  "z97303b57": 1,
+  "zd02afba9": 2,
+  "zcaec2cad": 1,
+  "zad6263e7": 1,
+  "zb6b0bbe9": 1,
+  "z894806b0": 2,
+  "z735dbccb": 1,
+  "z21741e7c": 3,
+  "z247a9c3a": 2,
+  "z6ece1088": 1,
+  "ze1d10729": 2,
+  "z321f03b6": 1,
+  "z98fcd2ff": 2,
+  "z8927b855": 2,
+  "z40aeab86": 1,
+  "zd4207bf7": 1,
+  "z5ac340c1": 1,
+  "z9ac2142e": 1,
+  "z3c182f31": 1,
+  "zb180d285": 1,
+  "z4f8c3966": 2,
+  "zd433ee78": 1,
+  "z9bcd80a0": 2,
+  "z8bbfca1a": 1,
+  "zedd6291c": 1,
+  "z159f65d1": 1,
+  "zcdc24af0": 1,
+  "z20b0ce8b": 1,
+  "z897f84e7": 2,
+  "z178b2497": 1,
+  "z74b9efd5": 1,
+  "z2c11e588": 2,
+  "z82470734": 1,
+  "z300da7c1": 1,
+  "z8f80aef5": 1,
+  "z0588c81f": 1,
+  "z35870070": 1,
+  "ze30e68ce": 1,
+  "ze21e8eff": 1,
+  "zc770f7d2": 1,
+  "zf135d1b3": 1,
+  "z7fa7132b": 1,
+  "z875d43f6": 2,
+  "z27b380a9": 1,
+  "z5d2b85d2": 1,
+  "zcb0f2e0f": 1,
+  "z24bd954d": 1
  },
  "video": {},
  "pillole": []
