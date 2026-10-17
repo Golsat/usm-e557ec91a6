@@ -574,7 +574,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "ze7a9a57f",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Patrick Vieira osserva il campionato senegalese in cerca di talenti",
    "orig": "Ligue 1 sénégalaise : Patrick Vieira à l’affût des talents locaux",
    "lead": "Patrick Vieira, commissario tecnico della nazionale di calcio senegalese, ha assistito sabato all'apertura ufficiale del campionato senegalese a Dakar. La partecipazione dell'allenatore francese sottolinea l'impegno della federazione nello scouting dei talenti locali emergenti per rafforzare la squadra nazionale. Lo riferisce Seneweb.",
@@ -909,6 +909,14 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Tunisia",
      "t": "2026-10-17T18:45+01:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/futebol-internacional/psg-recorre-as-estrelas-para-dar-a-volta-ao-estrasburgo-de-hugo-oliveira_d1772379",
+     "angolo": "",
+     "atlas": "Portugal"
     }
    ],
    "data": "17 ott",
@@ -1285,27 +1293,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zc4cb8ee6",
-   "sez": "mondo",
-   "titolo": "Zelenskiy critica Trump: riduzione sanzioni ricompensa Putin",
-   "orig": "Trump’s sanctions waiver ‘rewards’ Putin: Zelenskiy",
-   "lead": "Il presidente ucraino Volodymyr Zelenskiy ha dichiarato che la riduzione decisa delle sanzioni statunitensi verso la Russia costituisce una vera ricompensa per il presidente Putin. La critica arriva mentre proseguono negoziati complessi e delicati sulla risoluzione del conflitto in Ucraina e sul futuro assetto geopolitico della regione. Zelenskiy chiede il fermo mantenimento delle pressioni economiche. Lo riferisce Taipei Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Taipei Times",
-     "p": "XX",
-     "c": "Taipei",
-     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866160",
-     "angolo": "",
-     "atlas": "Taiwan"
-    }
-   ],
-   "data": "",
-   "ora": "20:12",
-   "uscita": "sera"
-  },
-  {
    "id": "ze022d965",
    "sez": "tech",
    "titolo": "Taiwan acquista 292 droni VTOL dalla società americana Shield AI",
@@ -1486,7 +1473,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z07c8c46a",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Cricket: Ervine e Taylor salvano lo Zimbabwe dopo l'inizio forte di Taskin",
    "orig": "Ervine, Taylor rescue Zimbabwe after Taskin’s early burst",
    "lead": "Nel corso di una partita di cricket internazionale, il duo di battitori Ervine e Taylor ha realizzato una rimonta significativa per lo Zimbabwe, contrastando un inizio forte della squadra di bowling guidata da Taskin. La parata offensiva ha cambiato l'inerzia della partita e il risultato finale della competizione. Lo riferisce Prothom Alo.",
@@ -2045,28 +2032,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zee46c18c",
-   "sez": "mondo",
-   "titolo": "Premier League: Hull City sconfitto dal Fulham, Jakirović spinto nella realtà",
-   "orig": "Jakirovićev Hull brutalno vraćen u realnost: \"Izgledalo je kao da igraju muškarci protiv dječaka\"",
-   "lead": "L'Hull City, allenato dal bosniaco Sergej Jakirović, ha subito una sconfitta in trasferta contro il Fulham per 1-0 nella settima giornata della Premier League inglese. La performance ha deluso le aspettative, con Jakirović che ha definito la differenza come se gli uomini giocassero contro ragazzi.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "N1 Bosnia",
-     "p": "XX",
-     "c": "Sarajevo",
-     "u": "https://n1info.ba/sport/nogomet/jakirovicev-hull-brutalno-vracen-u-realnost-izgledalo-je-kao-da-igraju-muskarci-protiv-djecaka/",
-     "angolo": "",
-     "atlas": "Bosnia and Herz.",
-     "t": "2026-10-17T19:26+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:08",
-   "uscita": "sera"
-  },
-  {
    "id": "z1e623d4a",
    "sez": "mondo",
    "titolo": "Bosnia: inquinamento dell'aria a Kakanj, focus sulla cementeria industriale",
@@ -2156,7 +2121,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z9f9b4246",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Bahrein: nuovo programma di assicurazione sanitaria nazionale dal 31 ottobre",
    "orig": "SCH Chairman: National Health Insurance Programme for Residents to take effect on 31 October",
    "lead": "Il Bahrein avvierà un programma obbligatorio di assicurazione sanitaria nazionale per i residenti a partire dal 31 ottobre 2026. La copertura includerà cure primarie e secondarie, trattamenti d'emergenza e incidenti, con esclusioni per determinati gruppi di popolazione.",
@@ -2290,7 +2255,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z2d208c15",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Fanaka e Ghana Investment Institute integrano la formazione sui mercati",
    "orig": "Fanaka International University & GISI sign MoU to enhance professional capital market training",
    "lead": "Fanaka International University College e Ghana Investment and Securities Institute (GISI) hanno sottoscritto un memorandum d'intesa per integrare la formazione professionale sui mercati finanziari nel programma Master of Science in Finance di Fanaka. L'accordo mira a rafforzare le competenze specialistiche nel settore degli investimenti e dei mercati di capitali tra i professionisti in formazione. Lo riferisce MyJoyOnline.",
@@ -2638,7 +2603,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zbf05d726",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Ottobre rosa: il ministero della Pianificazione sensibilizza sul cancro al seno e dell'utero",
    "orig": "Octobre rose : au ministère de la Planification, le dépistage au cœur de la prévention",
    "lead": "Il ministero della Pianificazione e della Prospettiva del Gabon ha organizzato il 16 ottobre 2026 una giornata di sensibilizzazione dedicata ai suoi agenti sui cancri al seno e del collo dell'utero. L'evento mira a rafforzare le conoscenze su queste malattie, incoraggiare la diagnosi precoce e combattere i pregiudizi culturali. Lo riferisce Gabonreview.",
@@ -2817,30 +2782,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z522ffb3b",
-   "sez": "mondo",
-   "titolo": "Albania: la 'rivoluzione dei fenicotteri rosa' si radicalizza nel quinto giorno di scontri",
-   "orig": "En Albanie, la «révolution des flamants roses» se radicalise, cinquième jour de violentes manifestations à Tirana",
-   "lead": "Proseguono le violente manifestazioni a Tirana nel quinto giorno della 'rivoluzione dei fenicotteri rosa', un movimento nato inizialmente contro un progetto di lusso legato a Ivanka Trump. Gli scontri si sono radicalizzati diventando proteste contro la corruzione e le disuguaglianze percepite. Lo riferisce Libération.",
-   "more": [
-    "Il movimento prende il nome da un simbolo ambientale locale e rappresenta la crescente frustrazione popolare albanese contro l'establishment politico percepito come corrotto e strettamente collegato a interessi economici stranieri."
-   ],
-   "fonti": [
-    {
-     "n": "Libération",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.liberation.fr/international/europe/en-albanie-la-revolution-des-flamants-roses-se-radicalise-cinquieme-jour-de-violentes-manifestations-a-tirana-20261017_EBABEGT77VBTVCMWUEH6N4YWJM/",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-17T16:02+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:08",
-   "uscita": "sera"
-  },
-  {
    "id": "zac1b6ec3",
    "sez": "mondo",
    "titolo": "Saint-Brieuc: una squadra di calcio femminile per dare spazio alle ragazze nel cortile",
@@ -2977,28 +2918,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z3c4b3636",
-   "sez": "mondo",
-   "titolo": "Lisbona: manifestazioni per il diritto alla casa, tensioni tra movimenti di protesta",
-   "orig": "Protestos em Lisboa: “Na rua nos querem, na rua nos verão”",
-   "lead": "Lisbona è teatro di due manifestazioni simultanee per il diritto all'abitazione sabato 17 ottobre. La CGTP ha organizzato una marcia con cartelli sulla crisi abitativa, mentre il movimento Acampada ha montato tende in Rossio, simboleggiando l'assenza di alloggi. Lo riferisce Público.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/10/17/sociedade/reportagem/protestos-lisboa-rua-querem-rua-verao-2191732",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-17T17:12+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:08",
-   "uscita": "sera"
-  },
-  {
    "id": "ze505b0b6",
    "sez": "mondo",
    "titolo": "Portogallo: 1.168 nuovi studenti collocati nella terza fase del concorso universitario",
@@ -3058,28 +2977,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-17T18:28+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:08",
-   "uscita": "sera"
-  },
-  {
-   "id": "z63023e49",
-   "sez": "salute",
-   "titolo": "Papa Leo dimesso dall'ospedale quattro giorni dopo l'intervento per il cancro",
-   "orig": "Papst Leo verlässt vier Tage nach Krebs-Operation das Krankenhaus",
-   "lead": "Papa Leo è stato dimesso dall'ospedale quattro giorni dopo un intervento chirurgico per il cancro, grazie a risultati favorevoli degli ultimi esami clinici. Rimangono tuttavia incertezze significative sulla eventuale presenza di metastasi e sulla natura e la durata del trattamento successivo che il Pontefice dovrà affrontare. Lo riferisce NZZ.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/international/nach-krebsoperation-papst-leo-xiv-kann-am-samstag-das-spital-verlassen-ld.10036701",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-17T14:15+00:00"
     }
    ],
    "data": "17 ott",
@@ -4079,30 +3976,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z6e2ea63d",
-   "sez": "mondo",
-   "titolo": "Che cos'è il secondo intercalare e perché sarà abolito?",
-   "orig": "Hvað er hlaupsekúnda og af hverju verður hún afnumin?",
-   "lead": "L'organismo internazionale di standardizzazione ha deciso di abolire il secondo intercalare, aggiunto agli orologi 27 volte dal 1972 per sincronizzare gli orologi con la rotazione della Terra attorno al sole. Sarà introdotto un nuovo sistema di misurazione basato sul tempo atomico internazionale di precisione. La misura entrerà in vigore gradualmente nei prossimi anni per evitare disruzioni. Lo riferisce RÚV.",
-   "more": [
-    "L'umanità ha misurato il tempo basandosi sulla posizione del sole per migliaia di anni, ma la rotazione terrestre non è mai perfettamente costante. Questa variabilità ha reso necessario l'aggiustamento periodico."
-   ],
-   "fonti": [
-    {
-     "n": "RÚV",
-     "p": "XX",
-     "c": "Reykjavík",
-     "u": "https://www.ruv.is/frettir/erlent/2026-10-17-hvad-er-hlaupsekunda-og-af-hverju-verdur-hun-afnumin-490186/",
-     "angolo": "",
-     "atlas": "Iceland",
-     "t": "2026-10-17T16:09+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:03",
-   "uscita": "sera"
-  },
-  {
    "id": "z6f9b04f3",
    "sez": "mondo",
    "titolo": "Rio istituisce riserva marina di 3mila ettari per l'ambiente",
@@ -4687,6 +4560,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-18T01:15+08:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/17/sociedade/reportagem/protestos-lisboa-rua-querem-rua-verao-2191732",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T17:12+00:00"
     }
    ],
    "data": "17 ott",
@@ -4780,27 +4662,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
     }
    ],
    "data": "17 ott",
-   "ora": "20:03",
-   "uscita": "sera"
-  },
-  {
-   "id": "z07c746e2",
-   "sez": "mondo",
-   "titolo": "Cassazione: breve attività lavorativa non comporta perdita di pensione",
-   "orig": "Pensioni, la Cassazione ora cambia Quota 100: stop alla restituzione di un anno di assegni, cosa dice la sentenza",
-   "lead": "La Corte di Cassazione ha stabilito che una breve attività lavorativa, retribuita anche con poche centinaia di euro, non può comportare la perdita di un'intera annualità di pensione. La sentenza cambia le precedenti applicazioni della normativa sulla Quota 100. Lo riferisce Il Messaggero.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/economia/schede/pensioni_quota_100_cambia_restituzione_assegno_sentenza_cassazione-9831476.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
    "ora": "20:03",
    "uscita": "sera"
   },
@@ -4984,7 +4845,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z0d8620a5",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Papua Nuova Guinea, Kumuls superano il Libano nella Coppa del Mondo di rugby league",
    "orig": "Kumuls overcome ‘Rust’ to power past Lebanon as Samoa showdown looms",
    "lead": "I Kumuls della Papua Nuova Guinea hanno superato il Libano con una vittoria ad alto punteggio nella Coppa del Mondo di rugby league. L'allenatore Jason Demetriou e il capitano Rhys Martin hanno elogiato la resilienza della squadra e segnalato la necessità di miglioramenti prima dello scontro con Samoa. Lo riferisce Post-Courier.",
@@ -5582,37 +5443,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z69670caf",
-   "sez": "salute",
-   "titolo": "Papa Leone XIV torna in Vaticano dopo l'operazione al polmone",
-   "orig": "Papa se vratio u Vatikan posle operacije raka pluća",
-   "lead": "Papa Leone XIV è tornato in Vaticano, quattro giorni dopo essere stato operato per un tumore al polmone all'ospedale Gemelli di Roma. Il pontefice, 71 anni, era stato sottoposto alla rimozione del lobo inferiore del polmone destro. I medici hanno indicato quando potrebbe completare la guarigione.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/svet/papa-se-vratio-u-vatikan-posle-operacije-raka-pluca/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-17T18:18+02:00"
-    },
-    {
-     "n": "N1 Bosnia",
-     "p": "XX",
-     "c": "Sarajevo",
-     "u": "https://n1info.ba/svijet/papa-lav-xiv-vratio-se-u-vatikan-nakon-operacije-raka-pluca-ljekari-otkrili-kada-bi-se-mogao-potpuno-oporaviti/",
-     "angolo": "",
-     "atlas": "Bosnia and Herz.",
-     "t": "2026-10-17T19:20+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:00",
-   "uscita": "sera"
-  },
-  {
    "id": "za24a5275",
    "sez": "mondo",
    "titolo": "Burundi, dubbi sulla composizione del comitato anti-corruzione",
@@ -6043,30 +5873,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z6699eb92",
-   "sez": "mondo",
-   "titolo": "Il separatismo dell'Alberta passa da movimento marginale a referendum",
-   "orig": "How Alberta separatism went from fringe cause to referendum",
-   "lead": "L'Alberta non voterà per lasciare il Canada il 19 ottobre, ma gli elettori decideranno se la provincia dovrebbe rimanere nel Paese o avviare il processo legale verso un futuro referendum sulla separazione. L'elezione rappresenta una fase cruciale per il movimento separatista. Lo riferisce PBS NewsHour.",
-   "more": [
-    "La questione separatista dell'Alberta rappresenta una crescente tensione sulle autonomie regionali in Canada."
-   ],
-   "fonti": [
-    {
-     "n": "PBS NewsHour",
-     "p": "US",
-     "c": "Arlington",
-     "u": "https://www.pbs.org/newshour/world/how-alberta-separatism-went-from-fringe-cause-to-referendum",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-17T13:35-04:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:00",
-   "uscita": "sera"
-  },
-  {
    "id": "z395f1268",
    "sez": "mondo",
    "titolo": "Lo Speaker Johnson contesta i sondaggi, sostiene che i Repubblicani manterranno la Camera",
@@ -6208,7 +6014,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z6338427b",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Haaland batte il record: 100 gol in Premier League più velocemente della storia",
    "orig": "Халанд најбрз во историјата на Премиер лигата што постигнал 100 гола од отворена игра",
    "lead": "Erling Haaland del Manchester City è diventato il giocatore più veloce nella storia della Premier League a raggiungere la cifra di 100 gol da gioco aperto. L'attaccante norvegese ha segnato due reti nella partita della settima giornata contro l'Ipswich Town, consolidando il suo straordinario record realizzativo. Lo riferisce MIA.",
@@ -6272,52 +6078,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Macedonia",
      "t": "2026-10-17T19:15+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:00",
-   "uscita": "sera"
-  },
-  {
-   "id": "z1a67b7fc",
-   "sez": "mondo",
-   "titolo": "Zelenski: tre paesi potrebbero incontrarsi al G20 di Miami",
-   "orig": "Зеленски: Официјални претставници на Украина, САД и Русија би можеле да се сретнат за време на самитот на Г20",
-   "lead": "Il presidente ucraino Volodimir Zelenski dichiara che rappresentanti ufficiali di Ucraina, Stati Uniti e Russia potrebbero tenersi un incontro durante il vertice del G20 in programma nel dicembre 2026 a Miami. La dichiarazione avviene in un momento di tensioni crescenti tra i tre paesi.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "MIA (inglese)",
-     "p": "XX",
-     "c": "Skopje",
-     "u": "https://mia.mk/story/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B8-%D0%BF%D1%80%D0%B5%D1%82%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D1%86%D0%B8-%D0%BD%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-%D1%81%D0%B0%D0%B4-%D0%B8-%D1%80%D1%83%D1%81%D0%B8%D1%98%D0%B0-%D0%B1%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%BB%D0%B5-%D0%B4%D0%B0-%D1%81%D0%B5-%D1%81%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%82-%D0%B7%D0%B0-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%B8%D1%82%D0%BE%D1%82-%D0%BD%D0%B0-%D0%B320",
-     "angolo": "",
-     "atlas": "Macedonia",
-     "t": "2026-10-17T18:42+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:00",
-   "uscita": "sera"
-  },
-  {
-   "id": "z67dac5bf",
-   "sez": "mondo",
-   "titolo": "La portavoce della Casa Bianca si dimette dopo cinque giorni",
-   "orig": "Սպիտակ տան նոր խոսնակը պաշտոնավարել է ընդամենը հինգ օր",
-   "lead": "Katie Zakarian, nuova portavoce della Casa Bianca, si è dimessa dopo soli cinque giorni dal suo insediamento, a causa delle critiche sulla sua prima e unica intervista della durata di 15 minuti. Zakarian era stata nominata il 9 ottobre per sostituire Caroline Levitt.",
-   "more": [
-    "Zakarian aveva assunto l'incarico il 9 ottobre 2026, due settimane dopo la partenza di Levitt per maternità, rendendola una delle portavoci con il mandato più breve nella storia dell'ufficio stampa presidenziale."
-   ],
-   "fonti": [
-    {
-     "n": "Azatutyun (inglese)",
-     "p": "XX",
-     "c": "Erevan",
-     "u": "https://www.azatutyun.am/a/33878519.html",
-     "angolo": "",
-     "atlas": "Armenia",
-     "t": "2026-10-17T19:39+04:00"
     }
    ],
    "data": "17 ott",
@@ -6703,39 +6463,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zd02afba9",
-   "sez": "mondo",
-   "titolo": "Scontri tra polizia e manifestanti in tutta la Francia",
-   "orig": "Police clash with protesters as tens of thousands take to streets across France",
-   "lead": "Decine di migliaia di persone sono scese in piazza sabato in diverse città francesi per protestare contro il carovita e il deterioramento del sistema di welfare, unendosi alle mobilitazioni degli studenti già in corso. A Parigi la polizia ha lanciato gas lacrimogeni contro i manifestanti, mentre a Marsiglia un gruppo ha fatto irruzione nel municipio. Le autorità hanno attribuito gli episodi di violenza a frange dell'estrema sinistra. Le proteste nascono dal malcontento per i prezzi elevati e per i tagli ai servizi pubblici, in un contesto di crescente crisi fiscale del Paese.",
-   "more": [
-    "La Francia attraversa da mesi una fase di instabilità politica e di tensioni sociali legate ai tentativi di riduzione della spesa pubblica e al peggioramento del potere d'acquisto, fattori che alimentano periodicamente mobilitazioni di piazza su larga scala."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-17T16:55+00:00"
-    },
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-17T11:57-04:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "19:55",
-   "uscita": "sera"
-  },
-  {
    "id": "zcaec2cad",
    "sez": "mondo",
    "titolo": "A Parigi le proteste contro i tagli alla scuola degenerano in violenza",
@@ -6908,22 +6635,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Australia",
      "t": "2026-10-18T01:36+11:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "19:55",
-   "uscita": "sera"
-  },
-  {
-   "id": "z247a9c3a",
-   "sez": "prima",
-   "titolo": "Il Papa dimesso dall'ospedale dopo l'intervento per cancro al polmone",
-   "orig": "Pope discharged from hospital days after lung cancer surgery",
-   "lead": "Papa Leone XIV è stato dimesso dall'ospedale Gemelli di Roma sabato, giorni dopo l'operazione per rimuovere un tumore canceroso dal polmone. Secondo i medici il pontefice era clinicamente pronto per lasciare la struttura dopo analisi del sangue e una radiografia al torace risultate positive. Domenica il Papa terrà la tradizionale preghiera dell'Angelus e la benedizione in piazza San Pietro. Il chirurgo che lo ha operato ha dichiarato che non vi sono ragioni cliniche che impediscano il previsto viaggio in America Latina il mese prossimo.",
-   "more": [
-    "La convalescenza rapida del Papa, rientrato prima del previsto rispetto alla settimana di ricovero inizialmente stimata dal Vaticano, è stata accolta come un segnale positivo sul decorso post-operatorio, sebbene non sia stata resa nota l'estensione della malattia."
-   ],
-   "fonti": [
+    },
     {
      "n": "BBC News",
      "p": "UK",
@@ -6977,6 +6689,77 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "New Zealand",
      "t": "2026-10-17T17:44+00:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/papa-se-vratio-u-vatikan-posle-operacije-raka-pluca/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-17T18:18+02:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/papa-lav-xiv-vratio-se-u-vatikan-nakon-operacije-raka-pluca-ljekari-otkrili-kada-bi-se-mogao-potpuno-oporaviti/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-17T19:20+02:00"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33878512.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-17T19:14+04:00"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/pope-leo-will-leave-hospital-return-vatican-oct-17-holy-see-6468156",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T18:14+08:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/2026/10/17/papa-leone-xiv-ospedale-dimissioni-angelus-ultime-news",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/swiat/rzym-papiez-leon-xiv-opuscil-szpital-w-niedziele-pojawi-sie-w-watykanie-st9292085?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-17T10:22+00:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635375",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-17T17:35+02:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/nach-krebsoperation-papst-leo-xiv-kann-am-samstag-das-spital-verlassen-ld.10036701",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-17T14:15+00:00"
     }
    ],
    "data": "17 ott",
@@ -7438,6 +7221,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Australia",
      "t": "2026-10-18T04:35+11:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/sport/nogomet/jakirovicev-hull-brutalno-vracen-u-realnost-izgledalo-je-kao-da-igraju-muskarci-protiv-djecaka/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-17T19:26+02:00"
     }
    ],
    "data": "17 ott",
@@ -7593,28 +7385,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z74b9efd5",
-   "sez": "salute",
-   "titolo": "Papa Leone XIV saluta una giovane sopravvissuta al cancro all'uscita dall'ospedale Gemelli",
-   "orig": "Pope Leo greets young Ukrainian cancer survivor as he departs hospital",
-   "lead": "Lasciando l'ospedale Gemelli di Roma, Papa Leone XIV ha incontrato nuovamente Varvara, una tredicenne ucraina conosciuta il 31 dicembre scorso mentre attendeva un intervento chirurgico per un tumore. La ragazza gli ha donato una fotografia del loro abbraccio in piazza San Pietro e un peluche, simile a quello che l'aveva accompagnata durante la fuga dalla guerra nel suo Paese. Lo riferisce Vatican News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Vatican News (inglese)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-greets-ukrainian-girl-cancer-survivor-gemelli.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-10-17T16:12+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "19:55",
-   "uscita": "sera"
-  },
-  {
    "id": "z2c11e588",
    "sez": "italia",
    "titolo": "Scontri a Milano, Sala: proteste comprensibili ma violenze ingiustificabili. Fontana con le forze dell'ordine",
@@ -7733,51 +7503,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Tunisia",
      "t": "2026-10-17T16:07+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "19:55",
-   "uscita": "sera"
-  },
-  {
-   "id": "z35870070",
-   "sez": "sport",
-   "titolo": "Il PSG ribalta lo Strasburgo di Hugo Oliveira grazie ai suoi fuoriclasse",
-   "orig": "PSG recorre às estrelas para dar a volta ao Estrasburgo, de Hugo Oliveira",
-   "lead": "Lo Strasburgo guidato dal tecnico portoghese Hugo Oliveira era in vantaggio sul Paris Saint-Germain nel campionato francese di calcio, ma i bicampioni d'Europa hanno ribaltato il risultato portandolo a 3-1 dopo aver inserito in campo un quintetto di giocatori di altissimo livello. Lo riferisce RTP.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/futebol-internacional/psg-recorre-as-estrelas-para-dar-a-volta-ao-estrasburgo-de-hugo-oliveira_d1772379",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
-   "ora": "19:55",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze30e68ce",
-   "sez": "economia",
-   "titolo": "Decreto bollette: l'accordo del Governo al Consiglio europeo",
-   "orig": "Dl Bollette: cosa prevede l’accordo siglato dal Governo al Consiglio europeo",
-   "lead": "Il Governo italiano ha raggiunto un'intesa preliminare al Consiglio europeo per introdurre un meccanismo di controllo dei costi energetici ispirato al modello spagnolo, con condizioni precise e limitate nel tempo. La misura rientra nel decreto bollette e punta a contenere i prezzi dell'energia per famiglie e imprese. Lo riferisce Il Sole 24 Ore.",
-   "more": [
-    "Il modello spagnolo citato è il cosiddetto 'cap' sul prezzo del gas usato per la generazione elettrica, introdotto nel 2022 insieme al Portogallo per disaccoppiare parzialmente il prezzo dell'elettricità da quello del gas, misura che l'Italia ha più volte valutato per contenere le bollette dei consumatori."
-   ],
-   "fonti": [
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/dl-bollette-cosa-prevede-l-accordo-siglato-governo-consiglio-europeo-AJJiFqmB",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-17T09:25+00:00"
     }
    ],
    "data": "17 ott",
@@ -14973,6 +14698,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-17T21:10+08:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8-%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B8-%D0%BF%D1%80%D0%B5%D1%82%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D1%86%D0%B8-%D0%BD%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-%D1%81%D0%B0%D0%B4-%D0%B8-%D1%80%D1%83%D1%81%D0%B8%D1%98%D0%B0-%D0%B1%D0%B8-%D0%BC%D0%BE%D0%B6%D0%B5%D0%BB%D0%B5-%D0%B4%D0%B0-%D1%81%D0%B5-%D1%81%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%82-%D0%B7%D0%B0-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%B8%D1%82%D0%BE%D1%82-%D0%BD%D0%B0-%D0%B320",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-17T18:42+02:00"
     }
    ],
    "data": "17 ott",
@@ -15930,6 +15664,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Luxembourg",
      "t": "2026-10-17T17:17+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/europe/en-albanie-la-revolution-des-flamants-roses-se-radicalise-cinquieme-jour-de-violentes-manifestations-a-tirana-20261017_EBABEGT77VBTVCMWUEH6N4YWJM/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T16:02+00:00"
     }
    ],
    "data": "17 ott",
@@ -16414,63 +16157,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Moldova",
      "t": "2026-10-17T07:59+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:30",
-   "uscita": "17"
-  },
-  {
-   "id": "z8bbc2478",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV dimesso dall'ospedale Gemelli dopo l'intervento al polmone",
-   "orig": "Հռոմի պապը դուրս է գրվել հիվանդանոցից՝ թոքի քաղցկեղի վիրահատությունից հետո",
-   "lead": "Papa Leone XIV è stato dimesso oggi dall'ospedale Gemelli di Roma dopo l'intervento di resezione tumorale al polmone effettuato quattro giorni fa. Il pontefice 71enne ha camminato autonomamente e ha salutato i fedeli presenti alla struttura. I medici hanno confermato il buon esito dell'operazione. È stato diagnosticato un adenocarcinoma polmonare. Lo riferisce Azatutyun.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Azatutyun (inglese)",
-     "p": "XX",
-     "c": "Erevan",
-     "u": "https://www.azatutyun.am/a/33878512.html",
-     "angolo": "",
-     "atlas": "Armenia",
-     "t": "2026-10-17T19:14+04:00"
-    },
-    {
-     "n": "CNA",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.channelnewsasia.com/world/pope-leo-will-leave-hospital-return-vatican-oct-17-holy-see-6468156",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-17T18:14+08:00"
-    },
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/mondo/2026/10/17/papa-leone-xiv-ospedale-dimissioni-angelus-ultime-news",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "TVN24",
-     "p": "XX",
-     "c": "Varsavia",
-     "u": "https://tvn24.pl/swiat/rzym-papiez-leon-xiv-opuscil-szpital-w-niedziele-pojawi-sie-w-watykanie-st9292085?source=rss",
-     "angolo": "",
-     "atlas": "Poland",
-     "t": "2026-10-17T10:22+00:00"
-    },
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635375",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-17T17:35+02:00"
     }
    ],
    "data": "17 ott",
@@ -19132,6 +18818,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-17T15:55+02:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/how-alberta-separatism-went-from-fringe-cause-to-referendum",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T13:35-04:00"
     }
    ],
    "data": "17 ott",
@@ -19451,6 +19146,14 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Canada",
      "t": "2026-10-17T12:13+00:00"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866160",
+     "angolo": "",
+     "atlas": "Taiwan"
     }
    ],
    "data": "17 ott",
@@ -20314,6 +20017,24 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-17T11:45+02:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T16:55+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T11:57-04:00"
     }
    ],
    "data": "17 ott",
@@ -21513,6 +21234,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-17T15:50+02:00"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-greets-ukrainian-girl-cancer-survivor-gemelli.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-17T16:12+02:00"
     }
    ],
    "data": "17 ott",
@@ -21968,6 +21698,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-17T09:00+00:00"
+    },
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-17-hvad-er-hlaupsekunda-og-af-hverju-verdur-hun-afnumin-490186/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-17T16:09+00:00"
     }
    ],
    "data": "17 ott",
@@ -30656,7 +30395,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z89c88e57": "L'emittente greca copre l'evento come cronaca locale, enfatizzando l'intervento dei servizi di emergenza.",
   "z7e514548": "L'agenzia macedone enfatizza l'accessibilità dell'amministratore locale e il suo impegno nel dialogo diretto con i cittadini.",
   "zeb4c5b6e": "L'agenzia moldava segnala l'incidente come violazione della sovranità nazionale, sottolineando le questioni di coordinamento transfrontaliero.",
-  "z8bbc2478": "L'agenzia armena copre l'evento come notizia di interesse internazionale riguardante il capo della Chiesa cattolica.",
   "zc1f1c518": "Vatican News propone una rassegna in lingua classica dei principali eventi della Santa Sede.",
   "zd127d022": "San Marino RTV sottolinea il successo sportivo della coppia nazionale nel contesto dei campionati mondiali.",
   "z96149959": "San Marino RTV celebra un anniversario istituzionale del marchio vinicolo nazionale, enfatizzando l'importanza della continuità generazionale.",
@@ -31041,13 +30779,11 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z8d2199d2": "Il quotidiano documenta la gravissima emergenza umanitaria e la fame quotidiana che affliggono i rifugiati interni haitiani.",
   "zb937620b": "La testata evidenzia le rivendicazioni dei movimenti politici haitiani circa la trasparenza elettorale e la sicurezza delle urne.",
   "z97303b57": "Il quotidiano guatemalteco segue da vicino i risvolti legali e istituzionali dell'indagine sull'evasione carceraria.",
-  "zd02afba9": "Il quotidiano britannico sottolinea la convergenza tra proteste studentesche e malcontento sociale più ampio",
   "zcaec2cad": "L'emittente qatariota segue in diretta l'evoluzione delle proteste parigine centrate sui temi della scuola pubblica",
   "zad6263e7": "Il quotidiano romano riporta l'attacco di Landini al governo sulle priorità di spesa pubblica",
   "zb6b0bbe9": "Il quotidiano romano sottolinea la crisi di risultati del Napoli dopo il ko in Champions",
   "z735dbccb": "L'emittente tedesca segnala le difficoltà di Merz nel mantenere il sostegno della base giovanile del partito",
   "z21741e7c": "L'emittente americana sottolinea la prevista partenza del Papa per l'America Latina a novembre",
-  "z247a9c3a": "La Bbc evidenzia il ritorno anticipato del Papa agli impegni pubblici con l'Angelus di domenica",
   "z6ece1088": "El medio boliviano destaca el gesto cercano del papa con los fieles al salir del hospital",
   "ze1d10729": "I media australiani e neozelandesi sottolineano la schiacciante superiorità degli All Blacks e lo stile di gioco offensivo scelto in vista del Mondiale",
   "z321f03b6": "I media europei documentano gli episodi di violenza più gravi registrati durante le proteste nazionali francesi",
@@ -31069,14 +30805,11 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z20b0ce8b": "Geopop evidenzia la base scientifica della nuova formula, derivata dall'analisi del DNA di cani Labrador.",
   "z897f84e7": "Público segnala il rischio per il processo di consenso scientifico internazionale sul clima dopo la mancata intesa.",
   "z178b2497": "ANSA e Il Messaggero seguono in diretta la sfida tra due squadre in momenti di forma differenti.",
-  "z74b9efd5": "Vatican News racconta il gesto affettuoso tra il Pontefice e la giovane sopravvissuta al cancro durante la fuga dalla guerra.",
   "z2c11e588": "Il Sole 24 Ore riporta le dichiarazioni distinte di Sala e Fontana sugli episodi di violenza durante le proteste milanesi.",
   "z82470734": "CBR evidenzia il ritorno del personaggio Sanrio con un design inedito per il centenario della parata.",
   "z300da7c1": "La Folha de S.Paulo ripropone la vicenda storica delle esplorazioni vichinghe anteriori a Colombo.",
   "z8f80aef5": "Der Spiegel e Süddeutsche Zeitung raccontano un pomeriggio di campionato ricco di gol e sorprese nella Bundesliga tedesca.",
   "z0588c81f": "La Presse de Tunisie descrive la serata inaugurale animata dal concerto del virtuoso Ziad Gharsa.",
-  "z35870070": "RTP evidenzia la rimonta del PSG grazie all'ingresso delle sue stelle contro una squadra guidata da un allenatore portoghese.",
-  "ze30e68ce": "Il Sole 24 Ore mette in luce i dettagli tecnici dell'accordo raggiunto in sede europea.",
   "ze21e8eff": "RTP evidenzia la sorpresa del risultato contro una squadra della massima divisione portoghese.",
   "zc770f7d2": "Radio Okapi sottolinea il riconoscimento internazionale ottenuto dagli ecoguardiani congolesi per il loro impegno.",
   "zf135d1b3": "Medical Xpress evidenzia l'impatto psicologico sui familiari dei malati di cancro in condizioni critiche.",
@@ -31107,7 +30840,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zdc890583": "El Observador riporta le dichiarazioni del chirurgo sulla possibilità che il papa mantenga il viaggio in Sudamerica.",
   "z8a02fecb": "Al Jazeera riporta la richiesta legale della deputata di restituzione dei materiali sequestrati.",
   "z279413d1": "Agência Brasil riporta le dimissioni dell'ex presidente dopo l'intervento chirurgico.",
-  "z69670caf": "N1 Serbia segue il ritorno del papa in Vaticano dopo l'operazione.",
   "za24a5275": "Iwacu segnala le critiche della società civile sulla composizione del comitato anti-corruzione.",
   "zb0b0d11f": "Gulf News riporta le nuove misure emiratine a tutela dei minori nei conflitti familiari.",
   "zec1a1b97": "Al Jazeera documenta l'escalation violenta delle proteste contro il carovita in Francia.",
@@ -31122,7 +30854,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zfd0a5794": "Al Jazeera analizza i reallineamenti geopolitici dei paesi latinoamericani verso Israele.",
   "za97d57e5": "Radio Prague International fornisce dati di sondaggio sulle tendenze politiche ceche.",
   "zc77cb8b2": "LRT segnala un fenomeno criminale emergente legato all'uso dei social network.",
-  "z6699eb92": "PBS NewsHour affronta l'evoluzione del movimento separatista dell'Alberta verso forme istituzionali.",
   "z395f1268": "PBS NewsHour riporta la posizione ottimista del presidente della Camera sulla corsa al controllo del Congresso.",
   "z9a83aaa7": "RNZ copre il conflitto tra una comunità religiosa e le autorità scolastiche sulla sicurezza studentesca.",
   "zb4009e2a": "RTHK copre l'inaugurazione pratica di una nuova infrastruttura di trasporto hongkonghese.",
@@ -31132,8 +30863,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z6338427b": "MIA riporta un record statistico calcistico raggiunto da un giocatore di spicco della Premier League.",
   "z3c6f4bb6": "MIA pubblica uno studio storico su un episodio della lotta macedone per l'indipendenza.",
   "z837152cd": "MIA copre una procedura disciplinare nel sistema calcistico macedone.",
-  "z1a67b7fc": "Agenzia macedone sulla possibilità di negoziati multilaterali tra Usa, Russia e Ucraina",
-  "z67dac5bf": "Agenzie internazionali sulla brevissima carriera della portavoce alla Casa Bianca",
   "z1fe1e15a": "Agenzia russa sulla situazione aeroportuale critica causata dalla minaccia di attacchi ucraini",
   "z997474a8": "Agenzia vaticana sulla crisi agricola a Gaza e sui rischi per i coltivatori locali",
   "ze10b88bd": "Agenzia vaticana sull'impegno della Chiesa nel dialogo interreligioso e nella ricerca della pace",
@@ -31179,7 +30908,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z12427058": "La testata danese sottolinea il pericolo rappresentato da conducenti confusi su infrastrutture critiche.",
   "zce7b714a": "La testata islandese racconta il dramma delle attività in zone remote e difficili da raggiungere.",
   "z30734802": "La testata islandese sottolinea i rischi fisici affrontati dai manifestanti durante le proteste francesi.",
-  "z6e2ea63d": "La testata islandese spiega una decisione tecnica internazionale di portata globale con taglio divulgativo.",
   "z6f9b04f3": "La testata brasiliana evidenzia l'equilibrio tra conservazione ambientale e sviluppo economico.",
   "z3be4de84": "La testata brasiliana documenta gli effetti dei fenomeni meteorologici estremi sulle infrastrutture.",
   "zf36ad4c0": "La testata senegalese sottolinea l'impegno governativo nel dialogo con il settore dei media.",
@@ -31210,7 +30938,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z49d5eb92": "Cronaca di insicurezza marittima nelle acque dello Yemen in conflitto.",
   "z4ee416dc": "Testata colpita che segnala attacchi coordinati alla libertà di stampa durante le proteste francesi.",
   "z28d5bece": "Narrazione che enfatizza il contrasto tra il ritorno al passato e la modernità agricola.",
-  "z07c746e2": "Giurisprudenza che protegge i diritti previdenziali da interpretazioni ristrette della legge.",
   "zf304a1db": "Cronaca che evidenzia l'uso crescente della tecnologia IA nelle indagini di polizia.",
   "z795a1f52": "Analisi mediatica del rapporto tra salute papale e governance vaticana.",
   "zbdb5a9d5": "Cronaca che segnala lo scontro tra autorità dello stato e i patrimoni della vecchia élite politica.",
@@ -31240,7 +30967,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z9a0b6559": "La testata celebra una nascita rara come successo di conservazione e riproduzione biologica nel contesto zootecnico europeo.",
   "z2006367e": "La testata riporta i dati di escalation del conflitto yemenita attraverso le dichiarazioni delle parti belligeranti.",
   "z2547dd72": "La testata critica le debolezze dei meccanismi di giustizia internazionale per i crimini di guerra nei Balcani.",
-  "zee46c18c": "La testata copre il risultato negativo di una squadra guidata da un allenatore bosniaco in competizione inglese d'élite.",
   "z1e623d4a": "La testata documenta le preoccupazioni ambientali delle comunità locali riguardo all'inquinamento industriale e alla salute pubblica.",
   "za3f060f4": "La testata riporta analisi economiche su scenari recessivi e geopolitica internazionale da parte di un analista internazionale.",
   "zc52d2c4f": "La testata riporta l'accusa ufficiale del governo yemenita contro il ruolo iraniano nel conflitto.",
@@ -31274,18 +31000,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z746c071c": "La testata francese presenta una scoperta paleontologica che illumina la violenza e il comportamento umano nella preistoria",
   "z9acfcac0": "La testata francese mette in rilievo la risposta amministrativa alle manifestazioni e il simbolismo delle proteste a Marsiglia",
   "z5569378b": "La testata affronta il dibattito sulla legittimità storica e territoriale dello stato di Israele attraverso lo scambio tra Netanyahu e Obama",
-  "z522ffb3b": "La testata sottolinea la trasformazione della protesta da questione ambientale a movimento di contestazione politica più ampia",
   "zac1b6ec3": "La testata francese sottolinea una iniziativa comunitaria volta a sfidare le dinamiche di genere negli spazi pubblici scolastici",
   "z047acdd7": "La testata tedesca riporta il dissenso interno al Congresso republicano sulla politica estera di Trump verso la Russia",
   "z0191cf12": "La testata tedesca si concentra sul rischio sanitario crescente delle droghe sintetiche fra gli adolescenti tedeschi",
   "z71810294": "La testata sottolinea la mossa tattica del partito di estrema destra nella costruzione dell'alleanza di centrodestra spagnola",
   "zbd6a9701": "La testata spagnola riporta il conflitto istituzionale tra il Difensore del popolo e la Corte suprema sulla legittimità della legge sulla cittadinanza",
   "z0e59f409": "La testata portoghese sottolinea il rovescio elettorale del leader euroscettico ceco durante il fine settimana",
-  "z3c4b3636": "La testata portoghese documenta la crescente mobilitazione sulla crisi abitativa in Portogallo attraverso diverse forme di protesta",
   "ze505b0b6": "La testata portoghese riporta i risultati finali del processo di accesso all'istruzione superiore della stagione accademica in corso",
   "za156f369": "La testata olandese documenta la mobilitazione della diaspora americana in Europa contro l'amministrazione Trump",
   "z285b2f1e": "La testata olandese documenta l'escalation della tensione sociale in Francia attorno alle questioni economiche",
-  "z63023e49": "La testata svizzera riferisce un aggiornamento sulla condizione di salute del Pontefice con cautela sulla prognosi",
   "ze634bc42": "La testata austriaca riporta una decisione di politica mediatica che mira a sostenere l'industria editoriale nazionale",
   "z0aacae68": "La testata austriaca celebra il contributo del cartoonista alla satira culturale austriaca attraverso due decenni",
   "z147ba8eb": "Commento critico sulla retorica della soft power cinese e la facilità di ingannare le voci occidentali.",
@@ -31354,7 +31077,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z70870851": "Coinvolgimento dei civili in attività di difesa territoriale.",
   "z0640e23a": "Allerta su potenziali interferenze esterne nei processi decisionali pubblici.",
   "zea61be3b": "Trend economico legato a sfide demografiche dell'invecchiamento.",
-  "zc4cb8ee6": "Critica ucraina alle politiche sanzionatorie statunitensi verso Mosca.",
   "ze022d965": "Investimento in tecnologie di difesa autonoma per rafforzare le capacità militari.",
   "z0a7f2037": "Un focus sulle comunità diasporiche e le celebrazioni culturali nel Golfo Persico.",
   "z08d17c3d": "Un resoconto di una riforma amministrativa nei concorsi di bellezza caraibici.",
@@ -31397,11 +31119,9 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zb1e85da1": "Migliaia di residenti rimangono sfollati anni dopo la fine ufficiale del conflitto armato.",
   "z2246c08b": "Pons proviene da una carriera di successo nella pallavolo da spiaggia, dove ha sviluppato competenze specifiche diverse da quelle richieste dal gioco indoor.",
   "z21741e7c": "Il Papa era stato operato alcuni giorni prima al Gemelli per un adenocarcinoma polmonare, con la rimozione del lobo inferiore del polmone destro. Durante la degenza le sue udienze erano state cancellate e si era inizialmente previsto un ricovero più lungo di una settimana.",
-  "z247a9c3a": "Leone XIV era stato operato al Gemelli per un adenocarcinoma al polmone destro, con rimozione del lobo inferiore. Le sue udienze pubbliche erano state cancellate fino a martedì e si temeva un ricovero prolungato.",
   "z6ece1088": "León XIV fue intervenido quirúrgicamente en el Gemelli para extirpar un tumor canceroso en el pulmón derecho. Durante su hospitalización se cancelaron sus audiencias y se esperaba inicialmente una estancia más larga.",
   "z875d43f6": "Negli ultimi mesi l'amministrazione Trump ha alternato pressioni e aperture verso la Russia nel tentativo di favorire un negoziato sulla guerra in Ucraina, mentre Kiev ha più volte espresso timori che Washington possa alleggerire le sanzioni a Mosca senza garanzie di sicurezza per l'Ucraina.",
-  "zdc890583": "Il 13 ottobre papa Leone XIV è stato sottoposto a un intervento chirurgico al Policlinico Gemelli per un tumore al polmone, con rimozione del lobo inferiore destro. Dopo giorni di degenza, sabato 17 ottobre ha ricevuto le dimissioni ed è tornato in Vaticano, mentre restava in discussione la possibilità di mantenere il viaggio in Sudamerica.",
-  "z69670caf": "Il 13 ottobre papa Leone XIV è stato operato al Gemelli per un tumore al polmone. Dopo la degenza post-operatoria, sabato 17 ottobre ha lasciato l'ospedale per tornare in Vaticano."
+  "zdc890583": "Il 13 ottobre papa Leone XIV è stato sottoposto a un intervento chirurgico al Policlinico Gemelli per un tumore al polmone, con rimozione del lobo inferiore destro. Dopo giorni di degenza, sabato 17 ottobre ha ricevuto le dimissioni ed è tornato in Vaticano, mentre restava in discussione la possibilità di mantenere il viaggio in Sudamerica."
  },
  "cronologie": {
   "zs17fra": [
@@ -31458,16 +31178,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
     "Dimissione dall'ospedale e ritorno in Vaticano"
    ]
   ],
-  "z247a9c3a": [
-   [
-    "giorni precedenti",
-    "Intervento chirurgico per cancro al polmone"
-   ],
-   [
-    "2026-10-17",
-    "Dimissione e ritorno in Vaticano, Angelus previsto per domenica"
-   ]
-  ],
   "z6ece1088": [
    [
     "días previos",
@@ -31486,16 +31196,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    [
     "17 ottobre 2026",
     "Il papa riceve le dimissioni e torna in Vaticano"
-   ]
-  ],
-  "z69670caf": [
-   [
-    "13 ottobre 2026",
-    "Intervento chirurgico al polmone del papa"
-   ],
-   [
-    "17 ottobre 2026",
-    "Il papa lascia l'ospedale e torna in Vaticano"
    ]
   ]
  },
@@ -31647,53 +31347,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
     }
    ],
    "divergono": "RTÉ News e The Globe and Mail raccontano con dettaglio l'episodio della ragazza ucraina con la bambola papale, assente in NPR, Deutsche Welle e Sydney Morning Herald. NPR approfondisce maggiormente gli aspetti clinici con interviste a più esperti statunitensi, mentre Deutsche Welle e Sydney Morning Herald si limitano a constatare che dimensione del tumore e diffusione ai linfonodi non sono ancora note. Solo RTÉ e The Globe and Mail menzionano esplicitamente il prossimo viaggio in America Latina come elemento di attenzione medica."
-  },
-  "z247a9c3a": {
-   "voci": [
-    {
-     "n": "BBC News",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Collega le dimissioni alla telefonata con Putin, riportata come richiesta di \"dialogo e pace\" e cessate il fuoco a Oleshky, citando anche un reportage BBC sulla fame nella città. Cita dichiarazioni ufficiali dei medici su test ematici e radiografia.",
-     "b": "a"
-    },
-    {
-     "n": "TASS",
-     "c": "Mosca",
-     "p": "XX",
-     "t": "Riporta sinteticamente la voce ufficiale vaticana sui medici che dichiarano il Papa pronto per le dimissioni, citando la diagnosi di adenocarcinoma confermata dall'esame istologico. Menziona la telefonata con Putin senza commento.",
-     "b": "a"
-    },
-    {
-     "n": "Fox News",
-     "c": "New York",
-     "p": "US",
-     "t": "Dà risalto alla folla che grida \"Papa!\" e alle lettere dei bambini del reparto oncologico, in particolare quella di una bambina di nome Eleonora. Riporta ampiamente la telefonata con Putin sulla situazione umanitaria a Oleshky e cita reazioni politiche come quella di Trump.",
-     "b": "a"
-    },
-    {
-     "n": "Stuff NZ",
-     "c": "Wellington",
-     "p": "XX",
-     "t": "Il testo completo non è leggibile: dall'occhiello risulta solo che il chirurgo ha detto che non ci sono \"ragioni cliniche\" contro il viaggio in America Latina. Giudizio parziale.",
-     "b": "t"
-    },
-    {
-     "n": "The Guardian",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Cita la dichiarazione medica ufficiale \"fit for discharge\" e approfondisce le parole del chirurgo Margaritora sul recupero completo in \"circa 10 giorni\" e sull'assenza di controindicazioni al viaggio. Ricorda il precedente di Giovanni Paolo II al Gemelli.",
-     "b": "a"
-    },
-    {
-     "n": "PBS NewsHour",
-     "c": "Arlington",
-     "p": "US",
-     "t": "Articolo dettagliato (Associated Press) che riporta le spiegazioni del chirurgo Margaritora su come il nodulo sia stato scoperto per caso durante esami addominali di routine. Descrive le opzioni terapeutiche future (chemioterapia, immunoterapia, terapia orale mirata) e l'episodio della ragazza ucraina con la bambola.",
-     "b": "a"
-    }
-   ],
-   "divergono": "Fox News e BBC News danno ampio spazio alla telefonata con Putin sulla situazione di Oleshky, ma Fox News aggiunge dettagli come le lettere dei bambini oncologici e la reazione di Trump, assenti altrove. TASS, in quanto voce ufficiale russa, riporta la telefonata senza commento, limitandosi ai fatti medici essenziali. The Guardian e PBS NewsHour sono le uniche a riportare le dichiarazioni estese del chirurgo Margaritora sulla scoperta casuale del nodulo e sulle possibili terapie future, aspetto non presente in BBC News o TASS."
   }
  },
  "luoghi": {
@@ -35116,13 +34769,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z8bbc2478": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zc1f1c518": {
    "n": "Città del Vaticano",
    "p": [],
@@ -37701,13 +37347,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "zd02afba9": {
-   "n": "Francia",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zcaec2cad": {
    "n": "Parigi",
    "p": [
@@ -37737,13 +37376,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "pt": []
   },
   "z21741e7c": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z247a9c3a": {
    "n": "Roma",
    "p": [
     "Italy"
@@ -37895,13 +37527,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z74b9efd5": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z2c11e588": {
    "n": "Milano",
    "p": [
@@ -37934,20 +37559,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Tunisi",
    "p": [
     "Tunisia"
-   ],
-   "pt": []
-  },
-  "z35870070": {
-   "n": "Strasburgo",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "ze30e68ce": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -38147,11 +37758,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z69670caf": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
   "za24a5275": {
    "n": "Gitega",
    "p": [
@@ -38238,13 +37844,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z6699eb92": {
-   "n": "Alberta",
-   "p": [
-    "Canada"
-   ],
-   "pt": []
-  },
   "z395f1268": {
    "n": "Washington",
    "p": [
@@ -38305,20 +37904,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Skopje",
    "p": [
     "Macedonia"
-   ],
-   "pt": []
-  },
-  "z1a67b7fc": {
-   "n": "Miami",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z67dac5bf": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -38637,11 +38222,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z6e2ea63d": {
-   "n": "International",
-   "p": [],
-   "pt": []
-  },
   "z6f9b04f3": {
    "n": "Rio de Janeiro",
    "p": [
@@ -38854,13 +38434,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z07c746e2": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zf304a1db": {
    "n": "Roma",
    "p": [
@@ -39059,13 +38632,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Bosnia e Erzegovina",
    "p": [
     "Bosnia and Herz."
-   ],
-   "pt": []
-  },
-  "zee46c18c": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -39300,13 +38866,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z522ffb3b": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
   "zac1b6ec3": {
    "n": "Saint-Brieuc",
    "p": [
@@ -39349,13 +38908,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z3c4b3636": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal"
-   ],
-   "pt": []
-  },
   "ze505b0b6": {
    "n": "Lisbona",
    "p": [
@@ -39375,11 +38927,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "p": [
     "France"
    ],
-   "pt": []
-  },
-  "z63023e49": {
-   "n": "Città del Vaticano",
-   "p": [],
    "pt": []
   },
   "ze634bc42": {
@@ -39853,13 +39400,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Taipei",
    "p": [
     "Taiwan"
-   ],
-   "pt": []
-  },
-  "zc4cb8ee6": {
-   "n": "Kyiv",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -40491,7 +40031,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z89c88e57": 1,
   "z7e514548": 1,
   "zeb4c5b6e": 1,
-  "z8bbc2478": 2,
   "zc1f1c518": 1,
   "zd127d022": 1,
   "z96149959": 1,
@@ -40876,13 +40415,11 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z8d2199d2": 1,
   "zb937620b": 1,
   "z97303b57": 1,
-  "zd02afba9": 2,
   "zcaec2cad": 1,
   "zad6263e7": 1,
   "zb6b0bbe9": 1,
   "z735dbccb": 1,
   "z21741e7c": 3,
-  "z247a9c3a": 2,
   "z6ece1088": 1,
   "ze1d10729": 2,
   "z321f03b6": 1,
@@ -40904,14 +40441,11 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z20b0ce8b": 1,
   "z897f84e7": 2,
   "z178b2497": 1,
-  "z74b9efd5": 1,
   "z2c11e588": 2,
   "z82470734": 1,
   "z300da7c1": 1,
   "z8f80aef5": 1,
   "z0588c81f": 1,
-  "z35870070": 1,
-  "ze30e68ce": 1,
   "ze21e8eff": 1,
   "zc770f7d2": 1,
   "zf135d1b3": 1,
@@ -40942,7 +40476,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zdc890583": 1,
   "z8a02fecb": 2,
   "z279413d1": 1,
-  "z69670caf": 2,
   "za24a5275": 1,
   "zb0b0d11f": 1,
   "zec1a1b97": 2,
@@ -40957,7 +40490,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zfd0a5794": 1,
   "za97d57e5": 1,
   "zc77cb8b2": 1,
-  "z6699eb92": 1,
   "z395f1268": 1,
   "z9a83aaa7": 1,
   "zb4009e2a": 1,
@@ -40967,8 +40499,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z6338427b": 1,
   "z3c6f4bb6": 1,
   "z837152cd": 1,
-  "z1a67b7fc": 1,
-  "z67dac5bf": 1,
   "z1fe1e15a": 1,
   "z997474a8": 1,
   "ze10b88bd": 1,
@@ -41014,7 +40544,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z12427058": 1,
   "zce7b714a": 1,
   "z30734802": 1,
-  "z6e2ea63d": 1,
   "z6f9b04f3": 1,
   "z3be4de84": 1,
   "zf36ad4c0": 1,
@@ -41045,7 +40574,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z49d5eb92": 1,
   "z4ee416dc": 1,
   "z28d5bece": 1,
-  "z07c746e2": 1,
   "zf304a1db": 1,
   "z795a1f52": 1,
   "zbdb5a9d5": 1,
@@ -41075,7 +40603,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z9a0b6559": 1,
   "z2006367e": 1,
   "z2547dd72": 1,
-  "zee46c18c": 1,
   "z1e623d4a": 1,
   "za3f060f4": 1,
   "zc52d2c4f": 1,
@@ -41109,18 +40636,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z746c071c": 1,
   "z9acfcac0": 1,
   "z5569378b": 1,
-  "z522ffb3b": 1,
   "zac1b6ec3": 1,
   "z047acdd7": 1,
   "z0191cf12": 1,
   "z71810294": 1,
   "zbd6a9701": 1,
   "z0e59f409": 1,
-  "z3c4b3636": 1,
   "ze505b0b6": 1,
   "za156f369": 1,
   "z285b2f1e": 1,
-  "z63023e49": 1,
   "ze634bc42": 1,
   "z0aacae68": 1,
   "z147ba8eb": 1,
@@ -41189,7 +40713,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z70870851": 1,
   "z0640e23a": 1,
   "zea61be3b": 1,
-  "zc4cb8ee6": 1,
   "ze022d965": 1,
   "z0a7f2037": 2,
   "z08d17c3d": 2,
