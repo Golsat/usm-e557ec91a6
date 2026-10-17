@@ -3,6 +3,2201 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zf26e9925",
+   "sez": "mondo",
+   "titolo": "Merz parla al Deutschlandtag della Gioventù Unione: discorso ricevuto con reazioni contrastanti",
+   "orig": "\"Ist gemischt angekommen\", Philip Kuntschner, ARD Berlin, zur Merz-Rede beim \"Deutschlandtag\" der JU",
+   "lead": "Friedrich Merz, cancelliere tedesco, ha tenuto un discorso al Deutschlandtag della Junge Union (JU) di Bonn, incontrando la principale ala giovanile della CDU/CSU. Secondo l'analista dell'ARD Philip Kuntschner, la reazione è stata mista. Merz ha avvertito la Spd di cessare certe pratiche, ottenendo consenso tra i giovani conservatori. Lo riferisce Tagesschau.",
+   "more": [
+    "La Junge Union conta circa 90mila iscritti ed è il principale segmento giovanile del partito conservatore tedesco."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1667852.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T13:56+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/friedrich-merz-bei-der-jungen-union-frust-ungeduld-und-kritik-an-der-spd-accg-201596345.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T11:24+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T10:34+00:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1667850.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T13:52+02:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/deutschlandtag-junge-union-bonn-johannes-winkel-hendrik-wuest-li.3564260",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-16T20:22+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zd50e8cf1",
+   "sez": "mondo",
+   "titolo": "Trump sospende nuovo pacchetto di sanzioni contro la Russia",
+   "orig": "US-Präsident Trump stoppt neues Sanktionspaket gegen Russland",
+   "lead": "Il presidente americano Donald Trump ha fermato un nuovo pacchetto di sanzioni nei confronti della Russia. Il presidente ucraino Volodymyr Zelensky ha criticato la decisione, affermando che allentare la pressione su Mosca offre incentivi al Cremlino per proseguire l'aggressione militare. Lo riferisce Tagesschau.",
+   "more": [
+    "La sospensione arriva mentre il conflitto in Ucraina continua da oltre due anni."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1667856.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T13:58+02:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-sanktionen-russland-li.3563283",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T11:40+00:00"
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/zelenskyy-trump-russia-sanctions-9.7385125?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-17T08:27-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z23a37271",
+   "sez": "mondo",
+   "titolo": "Mega-Sena: sorteggio della lotteria brasiliana con jackpot di 170 milioni di real",
+   "orig": "Mega-Sena sorteia prêmio acumulado em R$ 170 milhões neste domingo",
+   "lead": "La Mega-Sena sorteggia domenica 18 ottobre un premio stimato di 170 milioni di reais. L'estrazione del concorso 3.071 avrà luogo a partire dalle 11 (ora di Brasilia) nello Spazio della Sorte di San Paolo. Le scommesse rimangono aperte fino alle 22 di sabato presso le agenzie autorizzate dalla Caixa. Lo riferisce Agência Brasil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-sorteia-premio-acumulado-em-r-170-milhoes-neste-domingo",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T08:32-03:00"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/17/tres-rios-recebe-corrida-e-caminhada-do-sest-senat-neste-domingo.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T13:46+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zbb31d42c",
+   "sez": "mondo",
+   "titolo": "Decesso di Mody Niang, ex presidente della società editrice Le Soleil in Senegal",
+   "orig": "Lamine Niang rend hommage à Mody Niang, un homme droit et probe",
+   "lead": "Mody Niang, ex presidente del consiglio d'amministrazione del quotidiano senegalese Le Soleil e ispettore dell'istruzione in pensione, è deceduto sabato a Dakar. Figura di rilievo nel settore dell'istruzione e del giornalismo, sarà inumato a Koki, sua città natale nella regione di Louga. Lo riferisce Le Soleil.",
+   "more": [
+    "Niang è stato personalità di spicco nel settore dell'istruzione e della stampa senegalese."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/medias/lamine-niang-rend-hommage-a-mody-niang-un-homme-droit-et-probe/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T11:02+00:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/deces-de-mody-niang-inspecteur-de-leducation-a-la-retraite/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T10:05+00:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/a-la-fildak-la-nation-rend-hommage-a-lecrivain-cheikh-hamidou-kane/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T08:29+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z1bc056cd",
+   "sez": "mondo",
+   "titolo": "Mama Ida si scusa con gli ospiti fischiati al memoriale di Raila Odinga",
+   "orig": "Mama Ida apologises to guests booed at Raila memorial, faults politicians",
+   "lead": "Ida Odinga, vedova dell'ex leader politico keniano Raila Odinga, ha espresso scuse agli ospiti che sono stati fischiati e disturbati durante la commemorazione del marito. Ha criticato i politici per le interruzioni che hanno mancato di rispetto alla memoria di Raila e ai migliaia di partecipanti pacifici. Lo riferisce Citizen Digital.",
+   "more": [
+    "La commemorazione ricorda uno dei principali leader dell'opposizione keniota scomparso di recente."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/mama-ida-odinga-has-apologised-to-guests-who-were-booed-and-intimidated-during-the-first-anniversary-n392218",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-17T12:11+00:00"
+    },
+    {
+     "n": "The Standard (Kenya)",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.standardmedia.co.ke/article/2001560318/ida-odinga-condemns-politicians-conduct-at-raila-s-anniversary",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-17T14:46+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zb54f41bb",
+   "sez": "mondo",
+   "titolo": "Pakistan: tribunale rifiuta l'arresto preventivo per ex capo del Gilgit-Baltistan",
+   "orig": "Islamabad ATC rejects police request for physical remand of ex-GB CM Khalid Khurshid",
+   "lead": "Un tribunale anti-terrorismo di Islamabad ha respinto la richiesta della polizia per l'arresto preventivo di 30 giorni del leader del Ptí Khalid Khurshid, ex ministro del Gilgit-Baltistan. Il giudice Abul Hasnat Muhammad Zulqarnain lo ha rimesso in custodia giudiziaria per il caso legato alle proteste del 26 novembre. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2037838/islamabad-atc-rejects-police-request-for-physical-remand-of-ex-gb-cm-khalid-khurshid",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-17T19:00+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2635359/karachi-court-extends-journalist-iqrarul-hassans-physical-remand-by-two-days",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-17T09:18+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z5548a18c",
+   "sez": "mondo",
+   "titolo": "Bosnia: oltre 1.200 militari in esercitazione 'Risposta Immediata 26'",
+   "orig": "Military Exercise ‘Immediate response 26’, more than 1,200 Members of the Armed Forces of BiH participate",
+   "lead": "Più di 1.200 membri delle Forze armate bosniache parteciperanno all'esercitazione militare 'Immediate Response 26' dal 19 al 23 ottobre presso il Campo di addestramento principale di Manjača. Si tratta di uno degli esercizi più complessi e significativi delle Forze armate bosniache nel 2026, con l'obiettivo di testare la prontezza operativa. Lo riferisce Sarajevo Times.",
+   "more": [
+    "L'esercitazione coinvolge anche personale Nato, rafforzando la cooperazione della Bosnia nei quadri atlantici."
+   ],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/military-exercise-immediate-response-26-more-than-1200-members-of-the-armed-forces-of-bih-participate/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-17T12:00+00:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/english/news/more-than-1200-bosnian-and-nato-personnel-to-take-part-in-major-military-exercise/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-17T15:53+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "za65323b5",
+   "sez": "mondo",
+   "titolo": "Baghdad ospita la 52ª sessione del Consiglio dei Ministri degli Esteri dell'OIC",
+   "orig": "52nd OIC Council of Foreign Ministers convenes in Baghdad with 55 nations",
+   "lead": "La 52ª sessione del Consiglio dei Ministri degli Esteri dell'Organizzazione della Conferenza Islamica (OIC) ha ufficialmente aperto sabato 17 ottobre nella capitale irachena con la partecipazione di 55 nazioni. Il primo ministro iracheno Ali al-Zaidi ha invitato all'unità e ha proposto di collegare le reti energetiche regionali. Lo riferisce Iraqi News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/baghdad-hosts-52nd-oic-council-foreign-ministers-session-october-2026/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-17T07:08+00:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946652/iraqi-pm-zaidi-urges-unity-at-oic-ministers-meeting-in-baghdad",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-17T13:43+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "ze2886cd0",
+   "sez": "mondo",
+   "titolo": "Dellien avanza in semifinale della Copa Bolivia di tennis",
+   "orig": "Tenis: un imparable Dellien avanza a semifinales de la Copa Bolivia",
+   "lead": "Hugo Dellien, numero uno del tennis boliviano, ha superato ai quarti di finale il brasiliano Miguel (Guto), considerato il miglior giovane giocatore al mondo, avanzando in semifinale della Copa Bolivia di Santa Cruz. Il tennista boliviano punta al bicampeonato nel torneo nazionale più prestigioso. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/deportes/tenis-un-imparable-dellien-avanza-a-semifinales-de-la-copa-bolivia",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T23:43-04:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/deportes/dellien-va-final-bolivia-open-serna_1792208230",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T03:37+00:00"
+    },
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/sport/bordtennis/anton-kallberg-klar-for-em-semifinal-slog-norrmannen",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-17T14:19+02:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sport/kallberg-sakrade-em-medalj-slog-norske-skrallmannen/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-17T15:34+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zf6e4c9d2",
+   "sez": "mondo",
+   "titolo": "Sánchez porta la moglie Begoña Gómez in campagna per le elezioni del 29 novembre",
+   "orig": "Sánchez mete a Begoña Gómez en campaña: “Nos han intentado quebrar y estamos más fuertes. Te quiero”",
+   "lead": "Il presidente spagnolo Pedro Sánchez ha incluso la moglie Begoña Gómez nei comizi di chiusura della campagna per le elezioni del 29 novembre, reivindicando pubblicamente il suo sostegno e denunciando una presunta persecuzione giudiziaria con fini politici. Begoña Gómez è imputata per traffico di influenze e malversazione. Lo riferisce El País.",
+   "more": [
+    "La moglie del presidente è al centro di un procedimento giudiziario che ha dominato il dibattito politico spagnolo nell'ultimo periodo."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-10-17/sanchez-mete-a-begona-gomez-en-campana-nos-han-intentado-quebrar-y-estamos-mas-fuertes-te-quiero.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-17T12:35+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/17/6ad3428ffc6c8357118b4573.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-17T12:42+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z264423ec",
+   "sez": "mondo",
+   "titolo": "Guinea: rinviata l'apertura della piattaforma per il reclutamento di 4.500 agenti sanitari",
+   "orig": "Concours Santé 2026 : l’ouverture de la plateforme d’inscription reportée au 22 octobre 2026",
+   "lead": "La Guinea rinvia al 22 ottobre l'apertura della piattaforma di iscrizione per il concorso di reclutamento di 4.500 agenti di sanità, inizialmente prevista per il 16 ottobre. Lo ha annunciato il ministero della Modernizzazione dell'Amministrazione e della Funzione Pubblica. I candidati potranno iscriversi dal 22 ottobre alle 18 locali. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/concours-sante-2026-louverture-de-la-plateforme-dinscription-reportee-au-22-octobre-2026/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T07:02+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/17/la-date-douverture-de-la-plateforme-dinscription-au-recrutement-des-agents-de-la-sante-reportee-communique-mmafp/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T10:26+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z9cd0513a",
+   "sez": "mondo",
+   "titolo": "Uganda: vicepresidente Alupo esorta i dirigenti imprenditoriali a prioritizzare qualità",
+   "orig": "Alupo Urges East African Businesses to Uphold Quality and Integrity",
+   "lead": "Il vicepresidente ugandese Alupo ha esortato i leader imprenditoriali dell'Africa orientale a prioritizzare la qualità e l'aggiunta di valore per raggiungere competitività globale. L'intervento si inquadra nel più ampio sforzo di promuovere l'eccellenza negli affari regionali e nel marchio dell'Africa orientale. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/business/379477/alupo-urges-east-african-businesses-to-uphold-quality-and-integrity",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T13:37+03:00"
+    },
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/news/national/vp-alupo-urges-regional-business-leaders-to-prioritise-quality-value-addition-5635640",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-17T09:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zbb54d35a",
+   "sez": "mondo",
+   "titolo": "Usa: insegnante affronta attentatore, padre armato spara al sospetto",
+   "orig": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+   "lead": "Negli Stati Uniti, un insegnante ha affrontato un sospetto attentatore di 16 anni in una scuola primaria prima che il padre di uno studente, armato, sparasse al presunto aggressore più volte. Secondo la polizia, il sospetto aveva frequentato in precedenza la scuola e aveva preso di mira una classe di educazione speciale. Lo riferisce BBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T09:58+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zd70a60b9",
+   "sez": "mondo",
+   "titolo": "Attrice Selma Blair: 'Non ho inteso nuocere' dopo scontro in aereo",
+   "orig": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+   "lead": "L'attrice Selma Blair ha dichiarato di non avere inteso arrecare danno durante un'alterazione in aereo. Secondo una nota della sua pubblicista, l'incidente sarebbe scaturito da un'emergenza medica; Blair soffre di un disturbo neurologico che può causare reazioni incontrollate. Lo riferisce BBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T01:55+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z9be416ae",
+   "sez": "mondo",
+   "titolo": "Usa: giudice archivia accuse di abuso su minore contro l'attore Timothy Busfield",
+   "orig": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+   "lead": "Un giudice americano ha archiviato le accuse di abuso sessuale su minore contro l'attore Timothy Busfield, ritenendo che il pubblico ministero 'non ha agito in maniera corretta e imparziale'. La decisione rappresenta lo scioglimento dei procedimenti legali contro l'attore. Lo riferisce BBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-17T00:38+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zeac20196",
+   "sez": "mondo",
+   "titolo": "Usa: spesa pubblicitaria elettorale supera i 10 miliardi di dollari",
+   "orig": "Perspective: Midterm money madness",
+   "lead": "Negli Stati Uniti la spesa per annunci pubblicitari elettorali ha raggiunto oltre 10 miliardi di dollari in questo ciclo di elezioni mentre gli elettori faticano a permettersi cibo e carburante. Le ingenti risorse dedicate alla campagna contrastano con le difficoltà economiche vissute dalle famiglie americane. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T08:00-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zd3802c02",
+   "sez": "mondo",
+   "titolo": "Minnesota: dibattito televisivo per il Senato su economia e politiche Trump",
+   "orig": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+   "lead": "I candidati dei due principali partiti per il seggio al Senato del Minnesota hanno partecipato a un dibattito della durata di un'ora su MPR News venerdì, affrontando temi come la frode, l'accessibilità economica e le conseguenze delle politiche dell'amministrazione Trump. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T07:43-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z6554dd37",
+   "sez": "mondo",
+   "titolo": "Sud Africa: tre decenni dopo l'apartheid, ricerca di giustizia per crimini del passato",
+   "orig": "Decades after apartheid, South Africans seek justice for crimes of the past",
+   "lead": "Con l'avanzare dell'età di sopravvissuti e colpevoli, una nuova ondata di sforzi legali cerca verità, responsabilità e risarcimenti prima che sia troppo tardi. Lo riferisce NPR.",
+   "more": [
+    "Il periodo dell'apartheid in Sud Africa (1948-1994) causò sofferenze immense e crimini sistematici."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T07:00-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z802c461d",
+   "sez": "mondo",
+   "titolo": "Usa: movimento No Kings concentra gli sforzi sul voto nel fine settimana",
+   "orig": "No Kings turns its focus to voting this weekend. Here's what we know",
+   "lead": "La coalizione dietro le proteste anti-Trump in tutto il Paese sta cambiando strategia nel fine settimana per concentrarsi sulla partecipazione alle urne. Gli organizzatori affermano che gli eventi di sabato costituiscono uno sforzo bipartisan per spingere le persone al voto. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T05:00-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z3f98876d",
+   "sez": "tech",
+   "titolo": "California: governatore Newsom incrementa la regolamentazione dell'intelligenza artificiale",
+   "orig": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+   "lead": "Il governatore della California Gavin Newsom, considerato candidato presidenziale per il 2028, ha firmato un decreto esecutivo per esaminare i 'kill switch' per i modelli di intelligenza artificiale e altre misure che aveva precedentemente respinto. La mossa segue un'evoluzione della sua posizione sulla regolazione dell'IA. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T13:56+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z70de8466",
+   "sez": "mondo",
+   "titolo": "Irlanda: ministro O'Donovan tornerà al lavoro quando i trattamenti si stabilizzeranno",
+   "orig": "O'Donovan to return to work when treatment 'beds down'",
+   "lead": "Il ministro per le Comunicazioni irlandese Patrick O'Donovan tornerà al suo dipartimento 'non appena i nuovi trattamenti si saranno stabilizzati', dopo che si è ammalato all'inizio della settimana, ha dichiarato la sua famiglia. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ireland/2026/1017/1595740-patrick-odonovan-work/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-17T10:26+01:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z6427b544",
+   "sez": "mondo",
+   "titolo": "Irlanda: Sinn Féin accusa il governo di 'giocare con il fuoco' verso i dipendenti pubblici",
+   "orig": "Govt 'playing chicken' with public sector workers - SF",
+   "lead": "La leader di Sinn Féin Mary Lou McDonald ha criticato il governo irlandese, affermando che lo sciopero del settore pubblico della scorsa settimana avrebbe potuto essere evitato se il governo avesse svolto il suo lavoro e si fosse impegnato con i sindacati. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ireland/2026/1017/1595725-pay-talks-meeting/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-17T07:00+01:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z1cabd273",
+   "sez": "mondo",
+   "titolo": "Repubblica Ceca: il Palazzo Industriale restaurato di Praga apre gratuitamente al pubblico",
+   "orig": "Prague’s restored Industrial Palace opens to the public for free",
+   "lead": "Il Palazzo Industriale di Praga, sottoposto a restauro, apre gratuitamente al pubblico in una riapertura che reca significato storico e culturale per la capitale ceca. Lo riferisce Radio Prague International.",
+   "more": [
+    "Il Palazzo Industriale, costruito nel 1891 per l'Esposizione generale cecoslovacca, è un'importante struttura storica di Praga."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/pragues-restored-industrial-palace-opens-public-free-8900264",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-17T11:04+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zd205e7fe",
+   "sez": "mondo",
+   "titolo": "Lituania: governo approva modifica dei confini della municipalità di Telšiai",
+   "orig": "Vyriausybė – už siūlymą keisti Telšių savivaldybės gyvenamųjų vietovių teritorijų ribas",
+   "lead": "Il governo lituano ha approvato questa settimana la proposta di modifica dei confini territoriali tra la città di Telšiai e il villaggio di Kalnėnai adiacente. Lo riferisce LRT (Lituanian Radio and Television).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3085075/vyriausybe-uz-siulyma-keisti-telsiu-savivaldybes-gyvenamuju-vietoviu-teritoriju-ribas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-17T17:12+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zbd2da47a",
+   "sez": "mondo",
+   "titolo": "La Kika Group compie 35 anni e si espande a Estonia e Bielorussia",
+   "orig": "„Kikai“ jau 35: savininkai pasakoja apie sėkmę Estijoje ir parduotą verslą Baltarusijoje",
+   "lead": "La Kika Group, azienda nata a Kaune nel 1991 come toelettatura per cani, celebra 35 anni trasformandosi in ecosistema internazionale di servizi per il benessere animale. I fondatori Janita Januškauskaitė e Tauras Plungės descrivono i principali ostacoli affrontati: la costruzione e l'espansione in Estonia e l'ingresso nel mercato bielorusso. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3070297/kikai-jau-35-savininkai-pasakoja-apie-sekme-estijoje-ir-parduota-versla-baltarusijoje",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-17T17:01+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zeeeb77bf",
+   "sez": "mondo",
+   "titolo": "Il Sabah Baku travolge la Gabala nella KPL azera di Dambrauski",
+   "orig": "Įvarčiais prapliupę Dambrausko auklėtiniai Azerbaidžane sutriuškino dar vienus varžovus",
+   "lead": "La squadra allenata da Valdo Dambrauski prosegue con solidità nel campionato calcistico azero. In trasferta il Sabah travolge la Gabala con il netto punteggio di 4-0 (1-0 al primo tempo), consolidando la propria posizione di vertice nella classifica del torneo. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3085103/ivarciais-prapliupe-dambrausko-aukletiniai-azerbaidzane-sutriuskino-dar-vienus-varzovus",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-17T16:59+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z74ad703f",
+   "sez": "mondo",
+   "titolo": "Il film sloveno \"Digeris\" critica la contraddizione fra apocalisse e capitalismo",
+   "orig": "Dmitrijus Gluščevskis. „Digeris“ – savo kūrėjų narcisizmo auka",
+   "lead": "Il critico Dmitrijus Gluščevskis analizza il film sloveno \"Digeris\", osservando come riproduca il paradosso individuato dal filosofo Žižek nel cinema apocalittico commerciale: distrugge mondi interi ma preserva i fondamenti del capitalismo. La riflessione mette in luce il divario fra l'immaginabilità della fine del mondo e quella di una società senza capitale. Lo riferisce LRT.",
+   "more": [
+    "La critica riflette tensioni fra la rappresentazione filmica del collasso civile e la persistenza delle strutture economiche nel genere apocalittico."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/kultura/12/3080093/dmitrijus-gluscevskis-digeris-savo-kureju-narcisizmo-auka",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-17T16:48+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z1e13d47a",
+   "sez": "mondo",
+   "titolo": "Scoperte 140 sepolture sotto la chiesa del Ss. Sacramento di Kaune durante il restauro",
+   "orig": "Kauno Švč. Sakramento bažnyčios požemiuose rasta apie 140 palaidojimų",
+   "lead": "Durante i lavori di restauro della chiesa del Ss. Sacramento a Kaune sono state scoperte circa 140 sepolture, resti di bare e strutture murarie non segnalate sulla planimetria storica. I ricercatori non escludono l'esistenza di ulteriori cripte sconosciute nei sotterranei dell'edificio sacro. Lo riferisce LRT.",
+   "more": [
+    "La scoperta amplia la conoscenza sulla funzione cimiteriale della chiesa nei secoli passati e sulla struttura complessa dei suoi livelli sotterranei."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3085102/kauno-svc-sakramento-baznycios-pozemiuose-rasta-apie-140-palaidojimu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-17T16:45+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zc5dcfa32",
+   "sez": "mondo",
+   "titolo": "A Tallinn il rifugio civile decorato con murale sulla natura estone",
+   "orig": "Gallery: Public bomb shelter in Tallinn hidden behind woodland mural",
+   "lead": "Un rifugio civile di protezione a livello stradale nel centro di Tallinn è stato trasformato con un murale raffigurante flora e fauna autoctone estoni. L'intervento artistico rende meno austero lo spazio dedicato alla protezione della popolazione in caso di emergenza. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610169313/gallery-public-bomb-shelter-in-tallinn-hidden-behind-woodland-mural",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-17T17:06+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zaf3a0fde",
+   "sez": "mondo",
+   "titolo": "La nuotatrice estone Jefimova vince nei 100 rana all'università della California",
+   "orig": "Estonia's Eneli Jefimova sweeps skins event, snags MVP at college swim meet",
+   "lead": "La star del nuoto estone Eneli Jefimova ha vinto tutte le prove di rana \"skins\" (eliminazione diretta) in una competizione universitaria californiana venerdì, conquistando il titolo di MVP e stabilendo un primato personale. La sua alma mater, la North Carolina State, ha beneficiato della straordinaria prestazione. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610169265/estonia-s-eneli-jefimova-sweeps-skins-event-snags-mvp-at-college-swim-meet",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-17T14:59+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z934e3655",
+   "sez": "mondo",
+   "titolo": "Il nodo stradale di Mäo in Estonia centrale riapre dopo l'ammodernamento",
+   "orig": "Gallery: Central Estonia's upgraded Mäo junction reopens to traffic",
+   "lead": "La stazione stradale di Mäo in Estonia centrale ha riaperto al traffico dopo l'ammodernamento con cinque fermate di autobus, due rotatorie e un parcheggio da 30 posti auto. L'intervento migliora significativamente i collegamenti dei bus a lunga percorrenza nella regione centrale. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610169223/gallery-central-estonia-s-upgraded-mao-junction-reopens-to-traffic",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-17T13:35+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z427887c8",
+   "sez": "mondo",
+   "titolo": "Famiglie estoni perdono migliaia di euro per gite scolastiche cancellate",
+   "orig": "Canceled school trips abroad leave dozens of families chasing refunds",
+   "lead": "Decine di famiglie in Estonia denunciano perdite di migliaia di euro per gite linguistiche scolastiche estere non realizzate. Un operatore turistico è ancora debitore di circa 50 mila euro di rimborsi ai partecipanti. Le famiglie coinvolte attendono il recupero dei fondi versati in anticipo. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610168770/canceled-school-trips-abroad-leave-dozens-of-families-chasing-refunds",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-17T11:24+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "ze07ba9c3",
+   "sez": "ambiente",
+   "titolo": "ONG estone contesta l'incostituzionalità del bonus per i parchi eolici",
+   "orig": "Wind farm bonus unconstitutional, NGO says as ministry pushes plan",
+   "lead": "Un'organizzazione non governativa estone contesta la costituzionalità di un bonus pianificato per i governi locali che sviluppano parchi eolici entro i propri confini amministrativi. Il ministero dell'energia persegue l'attuazione del programma di incentivi. Lo riferisce ERR News.",
+   "more": [
+    "Il dibattito riflette tensioni fra incentivi per le energie rinnovabili e principi costituzionali di uguaglianza fra le amministrazioni locali."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610168791/wind-farm-bonus-unconstitutional-ngo-says-as-ministry-pushes-plan",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-17T09:21+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zcf8ac4c5",
+   "sez": "mondo",
+   "titolo": "Liepāja capitale europea della cultura 2027, ecco il programma",
+   "orig": "Where to go and what to do in Liepāja next year? Ask Armands.",
+   "lead": "La città lettone di Liepāja, designata Capitale europea della cultura per il 2027, ha presentato il programma culturale che caratterizzerà il suo mandato di rilievo continentale. LSM ha seguito l'annuncio pubblico con approfondimento sulle iniziative previste. Lo riferisce LSM.",
+   "more": [
+    "Liepāja si prepara a ospitare una serie di eventi culturali nel 2027 quale tappa importante della programmazione europea."
+   ],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/features/features/17.10.2026-where-to-go-and-what-to-do-in-liepaja-next-year-ask-armands.a666955/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-10-17T08:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z03f0971e",
+   "sez": "mondo",
+   "titolo": "Trump in tour di campagna fra accuse di dichiarazioni controverse pre-midterm",
+   "orig": "Examining the controversial claims Trump is making at his midterm rallies",
+   "lead": "Il presidente Trump prosegue il tour di campagna negli stati in bilico prima delle elezioni di metà mandato, cercando di consolidare il supporto della sua base. La corrispondente della Casa Bianca Liz Landers ha sottoposto a verifica fattuale alcune delle sue affermazioni chiave pronunciate ai comizi. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/show/examining-the-controversial-claims-trump-is-making-at-his-midterm-rallies",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-16T18:45-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z9661ee8a",
+   "sez": "mondo",
+   "titolo": "Naile consolida il suo ruolo nei playoff della KBO con la vittoria dei Tigers",
+   "orig": "(LEAD) Naile strengthens stellar postseason resume in Tigers' victory",
+   "lead": "Due anni dopo aver contribuito alla vittoria del campionato coreano di baseball dei Kia Tigers, il giocatore rafforza ulteriormente la sua candidatura nei playoff affrontando i rivali a Gwangju. La prestazione solida del fuoriclasse evidenzia il ruolo centrale nella ricerca del titolo della squadra. Lo riferisce Yonhap.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261017002851315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-17T18:16+09:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261017002751315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-17T17:58+09:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261017002900315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-17T17:17+09:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z97fb62e3",
+   "sez": "mondo",
+   "titolo": "Il manager dei Tigers elogia la capacità del fuoriclasse di colpire fuoricampi",
+   "orig": "Tigers manager marvels at All-Star slugger: 'He knows how to hit home runs'",
+   "lead": "L'allenatore Lee Bum-ho dei Kia Tigers esprime apprezzamento esplicito per le capacità del suo All-Star nel generare home run decisivi nei playoff della KBO. Il commento del tecnico testimonia l'eccezionalità della contribuzione del giocatore nei momenti cruciali della stagione. Lo riferisce Yonhap.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261017003000315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-17T17:50+09:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z79cb612f",
+   "sez": "mondo",
+   "titolo": "A Singapore una madre ricostruisce la vita dopo la perdita del marito aiutando gli altri",
+   "orig": "She had to rebuild her life after losing her husband. Now this mother of 3 helps others find their footing",
+   "lead": "La signora Zarina Jaffar, dopo aver perso il coniuge e ricostruito la propria esistenza a Singapore, dedica tempo ad aiutare altre persone a trovare stabilità e consapevolezza. Il suo impegno solidale le ha procurato nuove amicizie e una seconda opportunità d'amore, sebbene abbia richiesto significativi sacrifici familiari. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/cna-insider/up-close/single-mother-children-charity-zarina-jaffar-6451711",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T21:30+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z1284d7e8",
+   "sez": "mondo",
+   "titolo": "A Singapore i rifugi anti-smog rimangono sottoutilizzati ma apprezzati dai visitatori",
+   "orig": "Few use Singapore haze shelters, but visitors welcome respite from heat",
+   "lead": "Un'indagine di CNA in otto rifugi civili disposti sull'isola di Singapore rivela che la maggior parte rimane vuota o chiusa, ma coloro che vi accedono apprezzano lo spazio rinfrescato gratuitamente durante le ondate di caldo intenso. Il contrasto fra la capacità disponibile e l'utilizzo attuale emerge dalla ricerca sul campo. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/singapore/singapore-haze-shelters-heat-visitors-community-centres-6468211",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T21:13+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z9d31cd3c",
+   "sez": "ambiente",
+   "titolo": "Sri Lanka colpita da blackout nazionale, energia assente per oltre due ore",
+   "orig": "Sri Lanka suffers nationwide electricity blackout",
+   "lead": "L'isola dello Sri Lanka rimane senza energia dalla rete elettrica nazionale per oltre due ore sabato 17 ottobre, mentre non è stato comunicato un tempo preventivato per il ripristino della fornitura. Le cause del collasso simultaneo del sistema energetico rimangono inizialmente poco chiarite. Lo riferisce CNA.",
+   "more": [
+    "Il blackout riflette fragilità infrastrutturale nel sistema energetico dello Sri Lanka, esposto a vulnerabilità tecniche e di gestione."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/asia/sri-lanka-blackout-6468131",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T17:26+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zd3eb87ce",
+   "sez": "mondo",
+   "titolo": "Le Wallaroos australiane cercano di migliorare ancora oltre il 56-12 sulla Scozia",
+   "orig": "Wallaroos not content with simply being 'better versions' of themselves",
+   "lead": "Il dilagante 56-12 ottenuto contro la Scozia non sazia l'appetito competitivo delle Wallaroos, la nazionale femminile australiana di rugby. La squadra intende proseguire il percorso di miglioramento oltre la vittoria schiacciante già conseguita, dimostrando un atteggiamento agonistico senza compromessi e orientato all'eccellenza. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-17/wallaroos-defeat-scotland-rugby-test-global-xv-series/107279624",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-17T09:28+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z7cad5820",
+   "sez": "mondo",
+   "titolo": "Geelong sale al vertice dell'AFLW, Adelaide rompe la striscia di Gold Coast",
+   "orig": "Cats underline AFLW premiership credentials as Crows snap Suns' winning run",
+   "lead": "I Geelong Cats si posizionano al primo posto della Australian Football League femminile dopo una vittoria di 53 punti su West Coast, mentre i Crows di Adelaide rientrano nei playoff interrompendo la serie di sei vittorie consecutive dei Suns di Gold Coast. Le due squadre consolidano posizioni di rilievo. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-17/aflw-crows-suns-bulldogs-carlton-lions-port-eagles-cats/107279312",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-17T05:32+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z556698aa",
+   "sez": "mondo",
+   "titolo": "Artista tatuatore queenslandese disegna la divisa AFLW Pride con simbologie queer",
+   "orig": "Tattoo artist brings queer joy to AFLW pride jumper",
+   "lead": "Un artista tatuatore del Queensland firma il design della divisa da Pride round dell'AFLW dei Gold Coast Suns con delfini stilizzati e moschettoni che riflettono una celebrazione giocosa dell'identità queer. Il design inusuale per lo sport d'élite rappresenta un riconoscimento della diversità nel calcio femminile australiano. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-17/sunshine-coast-artist-brings-queer-joy-to-aflw-pride-round/107275926",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-16T22:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z7c6f81f7",
+   "sez": "mondo",
+   "titolo": "Rugby, Orchids e Kumuls vincono al debutto mondiale",
+   "orig": "Orchids and Kumuls pile on tries in respective World Cup victories",
+   "lead": "Le squadre di rugby Papua Nuova Guinea Orchids e Kumuls hanno entrambe vinto le rispettive partite di esordio al Mondiale, giocate a Port Moresby. I due team nazionali hanno segnato numerose mete nelle sfide inaugurali della competizione. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1972159/orchids-and-kumuls-pile-on-tries-in-respective-world-cup-victories",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-17T19:52+13:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z63c635d5",
+   "sez": "mondo",
+   "titolo": "Medico richiamato dal ritiro per staffare clinica sottodimensionata in Nuova Zelanda",
+   "orig": "General practitioner called out of retirement to staff undermanned Horowhenua clinic",
+   "lead": "Un medico è stato richiamato dal pensionamento per far fronte alla grave carenza di personale presso la clinica di Horowhenua. Una dozzina di dipendenti hanno rassegnato dimissioni o dato preavviso dopo il trasferimento del direttore medico lo scorso anno. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/health/1972192/general-practitioner-called-out-of-retirement-to-staff-undermanned-horowhenua-clinic",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-17T18:14+13:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zba5aa1ad",
+   "sez": "mondo",
+   "titolo": "Rugby, il Samoa riceve elogi nonostante la pesante sconfitta nel Mondiale",
+   "orig": "Fetū Samoa win praise despite loss",
+   "lead": "La nazionale samoan Fetū Samoa ha ricevuto complimenti dai commentatori nonostante la sconfitta 40-0 subita dall'Australia nel Mondiale. La squadra oceanica ha guadagnato il rispetto per l'impegno dimostrato nella competizione internazionale malgrado il risultato. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1964574/fetu-samoa-win-praise-despite-loss",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-17T17:59+13:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a0fc554",
+   "sez": "mondo",
+   "titolo": "Isole Cook, ciclone tropicale Wati minaccia Aitutaki",
+   "orig": "Aitutaki residents urged to heed updates as Wati approaches",
+   "lead": "I residenti di Aitutaki nelle Isole Cook meridionali sono esortati a seguire gli aggiornamenti meteo per l'avvicinamento del ciclone tropicale Wati. Le condizioni atmosferiche dovrebbero deteriorarsi progressivamente con l'arrivo del sistema. Le autorità invitano alla massima allerta e preparazione. Lo riferisce RNZ Pacific.",
+   "more": [
+    "Wati rappresenta una minaccia significativa per l'arcipelago del Pacifico meridionale, con rischi di forti venti e piogge intense."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1972158/aitutaki-residents-urged-to-heed-updates-as-wati-approaches",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-17T17:54+13:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z351168c5",
+   "sez": "mondo",
+   "titolo": "Grecia, seminario su malattie dell'olivo ad Antica Olimpia",
+   "orig": "Ημερίδα για τις ασθένειες της ελιάς στην Αρχαία Ολυμπία",
+   "lead": "Si è tenuto ad Antica Olimpia un seminario dedicato alle malattie dell'olivo, in particolare il dacus e il gloeosporium. L'evento ha affrontato strategie integrate di contrasto a questi significativi problemi dell'olivicoltura greca. Obiettivo proteggere la produzione olearia della regione. Lo riferisce ERT News.",
+   "more": [
+    "Le malattie dell'ulivo rappresentano una minaccia rilevante per la produzione agroalimentare mediterranea."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/imerida-gia-tis-astheneies-tis-elias-stin-arxaia-olympia/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-17T14:11+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z91d22af8",
+   "sez": "mondo",
+   "titolo": "Grecia, gelo inaspettato a metà ottobre nel nord del paese",
+   "orig": "Ο χειμώνας δείχνει τα δόντια του: Μείον 1 έδειξε το θερμόμετρο στο Κάτω Νευροκόπι",
+   "lead": "Il termometro ha segnato -1 grado Celsius a Kato Nevrokopi nella provincia di Drava sabato 17 ottobre, evidenziando un insolito arrivo di condizioni invernali a metà mese. I residenti locali hanno paragonato le condizioni atmosferiche a fine novembre. Lo riferisce ERT News.",
+   "more": [
+    "L'evento rappresenta un'anomalia climatica per la stagione, suscitando preoccupazioni circa un possibile anticipo dell'inverno nel nord della Grecia."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/roi-idiseon/o-xeimonas-deixnei-ta-dontia-tou-meion-1-edeikse-to-thermometro-sto-kato-neyrokopi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-17T13:52+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z3a00f099",
+   "sez": "mondo",
+   "titolo": "Grecia, 32 migranti rinvenuti sull'isola di Farmakonissi",
+   "orig": "Λέρος: 32 μετανάστες εντοπίστηκαν στο Φαρμακονήσι",
+   "lead": "Le autorità greche hanno rinvenuto 32 migranti sull'isola di Farmakonissi nelle prime ore di sabato 17 ottobre. Il gruppo era composto da 24 uomini e 8 donne. I migranti sono stati trasportati via mare dalle unità della Guardia Costiera-Guardia Finanziera. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/leros-32-metanastes-entopistikan-sto-farmakonisi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-17T13:45+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z33ef41b4",
+   "sez": "mondo",
+   "titolo": "Grecia, il segretario del Partito Comunista visiterà Kastellorizo e Rodi",
+   "orig": "Στο Καστελλόριζο και τη Ρόδο ο Δημήτρης Κουτσούμπας στις 23 Οκτωβρίου",
+   "lead": "Il segretario generale della Commissione Centrale del Partito Comunista greco Dimitris Koutsoumbas visiterà il 23 ottobre Kastellorizo e Rodi. La visita prevede incontri con i comandi militari e visite a scuole e strutture pubbliche della comunità locale. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/perifereia/sto-kastellorizo-kai-ti-rodo-o-dimitris-koutsoumpas-stis-23-oktovriou/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-17T13:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zed1345db",
+   "sez": "mondo",
+   "titolo": "Macedonia del Nord, 871 violazioni per monopattini elettrici a settembre",
+   "orig": "МВР: 871 прекршок за електрични тротинети во септември, најчесто возење без кацига",
+   "lead": "Il ministero dell'Interno macedone ha registrato 871 violazioni relative all'uso di monopattini elettrici durante il mese di settembre. Le violazioni hanno riguardato principalmente la guida senza dispositivi di protezione come il casco. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BC%D0%B2%D1%80-871-%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D1%88%D0%BE%D0%BA-%D0%B7%D0%B0-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B8-%D1%82%D1%80%D0%BE%D1%82%D0%B8%D0%BD%D0%B5%D1%82%D0%B8-%D0%B2%D0%BE-%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D0%BC%D0%B2%D1%80%D0%B8-%D0%BD%D0%B0%D1%98%D1%87%D0%B5%D1%81%D1%82%D0%BE-%D0%B2%D0%BE%D0%B7%D0%B5%D1%9A%D0%B5-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%B0%D1%86%D0%B8%D0%B3%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-17T15:50+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z47b1cb8b",
+   "sez": "mondo",
+   "titolo": "Moldavia, piano per ridurre le importazioni di energia al 40% entro il 2050",
+   "orig": "Moldova aims to reduce electricity imports to 40% by 2050",
+   "lead": "La Moldavia ha stabilito l'obiettivo di ridurre le importazioni di energia dal 77% attuale al 40% entro il 2050, investendo massicciamente in produzione domestica e fonti rinnovabili. L'annuncio è stato fatto dal ministro dell'Energia Dorin Junghietu. Lo riferisce IPN.",
+   "more": [
+    "La strategia riflette il desiderio della Moldavia di ridurre la dipendenza energetica dalla Russia."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/moldova-aims-to-reduce-electricity-imports-to-40-by-2050/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-17T11:55+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "ze9e913a5",
+   "sez": "mondo",
+   "titolo": "Sollevamento pesi, il moldavo Baldji campione europeo U20",
+   "orig": "Alexandr Baldji, U20 European weightlifting champion, with a new European record",
+   "lead": "Il sollevatore moldavo Alexandr Baldji ha conquistato il titolo di campione europeo U20 nella categoria fino a 85 chilogrammi a Durazzo in Albania. L'atleta ha stabilito anche un nuovo record europeo nella sua categoria. Lo riferisce IPN.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/alexandr-baldji-u20-european-weightlifting-champion-with-a-new-european-record/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-17T08:55+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z24a6c9b6",
+   "sez": "mondo",
+   "titolo": "Moldavia, congestione al valico di Giurgiulești con 250 camion in attesa",
+   "orig": "Approximately 250 trucks are waiting at Giurgiulești. The Customs Service is seeking solutions to streamline traffic",
+   "lead": "Circa 250 camion erano in attesa nella zona di Giurgiulești al confine moldavo venerdì, creando significative congestioni nei tempi di attraversamento. Le autorità doganali moldave stanno cercando soluzioni per snellire il traffico e ridurre i ritardi ai valichi. Lo riferisce IPN.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/approximately-250-trucks-are-waiting-at-giurgiulesti-the-customs-service-is-seeking-solutions-to-streamline-traffic/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-17T08:20+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zfda28447",
+   "sez": "mondo",
+   "titolo": "Armenia, Pashinyan sostiene che le risorse minerarie appartengono al popolo",
+   "orig": "Փաշինյան․ ընդերքը ՀՀ ժողովրդի ու պետության սեփականությունն է",
+   "lead": "Il primo ministro armeno Nikol Pashinyan ha dichiarato che le risorse minerarie del sottosuolo appartengono interamente al popolo e allo Stato armeno. L'affermazione è stata fatta durante il Forum minerario armeno 2026, sottolineando che il settore deve essere percepito come proprio dai cittadini. Lo riferisce Azatutyun.",
+   "more": [
+    "La dichiarazione riflette il dibattito armeno sulla gestione e il controllo delle risorse naturali nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33878482.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-17T17:38+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z53464009",
+   "sez": "mondo",
+   "titolo": "Il Papa incontra la ragazza ucraina guarita da tumore all'ospedale Gemelli",
+   "orig": "Il saluto del Papa a Varvara, tredicenne ucraina guarita da un tumore",
+   "lead": "Il Papa ha sorprendentemente incontrato all'uscita dell'ospedale Gemelli di Roma Varvara, una sedicenne ucraina guarita da un tumore, che aveva già incontrato il 31 dicembre precedente. La giovane ha consegnato al Pontefice una foto del loro precedente abbraccio a San Pietro e un peluche simbolico. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/papa/news/2026-10/papa-leone-xiv-incontro-varvara-gemelli-ucraina-tumore.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-17T15:50+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z8087d2d4",
+   "sez": "mondo",
+   "titolo": "Ricordati 30 anni dalla morte del cardinale Bernardin, figura di riferimento per la Chiesa",
+   "orig": "La figura del cardinale Bernardin, esempio attuale per la Chiesa e il mondo",
+   "lead": "A trent'anni dalla morte del cardinale Joseph Louis Bernardin, arcivescovo di Chicago dal 1982 al 1996, la diocesi di Trento ha organizzato iniziative commemorative dedicate al prelato di origini trentine. Il suo insegnamento continua a stimolare e interrogare la Chiesa contemporanea. Lo riferisce Vatican News.",
+   "more": [
+    "Bernardin è rimasto una figura emblematica del dialogo ecumenico e della riflessione morale cattolica contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/chiesa/news/2026-10/bernarden-cupich-trento-chicago-usa-chiesa.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-17T12:08+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zb800027e",
+   "sez": "mondo",
+   "titolo": "Vaticano, accordo per restauro e digitalizzazione di 415 manoscritti Orsini",
+   "orig": "Biblioteca Vaticana e Fondazione Orsini, sinergia per valorizzare 415 volumi",
+   "lead": "La Biblioteca Vaticana e la Fondazione Orsini hanno sottoscritto un accordo quadriennale per il restauro, la digitalizzazione e lo studio di 415 manoscritti del Cinquecento appartenuti a Fulvio Orsini. L'iniziativa mira a valorizzare il patrimonio bibliografico con una circolarità virtuosa tra conservazione e consultazione digitale. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/vaticano/news/2026-10/biblioteca-vaticana-fondazione-orsini-restaurio-digitalizzazione.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-17T11:00+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z41008efd",
+   "sez": "mondo",
+   "titolo": "San Marino, il movimento Futuro Nazionale presenta iniziative per italiani all'estero",
+   "orig": "Il partito di Vannacci approda anche a San Marino. Primo incontro pubblico al COMITES",
+   "lead": "Il movimento Futuro Nazionale ha tenuto il primo incontro pubblico a San Marino presso il COMITES, affrontando temi locali e l'emergenza idrica che interessa gli italiani all'estero. L'evento rappresenta l'arrivo della formazione politica nel Paese. Lo riferisce San Marino RTV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/news/politica-c2/il-partito-di-vannacci-approda-anche-a-san-marino-primo-incontro-pubblico-al-comites-a297379",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-17T01:51+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z8e1f1fc1",
+   "sez": "mondo",
+   "titolo": "San Marino firma l'Accordo di Associazione con l'Ue",
+   "orig": "San Marino - UE: una storia che parte da lontano",
+   "lead": "San Marino appone lunedì 19 ottobre la firma ufficiale sull'Accordo di Associazione con l'Unione Europea, segnando un momento storico particolarmente cruciale nelle complesse relazioni tra il Titano e le istituzioni di Bruxelles. L'intesa rappresenta il culmine di un lungo e articolato percorso di avvicinamento diplomatico e istituzionale intrapreso negli anni. Lo riferisce San Marino RTV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/news/attualita-c4/san-marino-ue-una-storia-che-parte-da-lontano-a297378",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-17T01:41+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z23e67beb",
+   "sez": "mondo",
+   "titolo": "San Marino, sport e disabilità: Attiva-Mente chiede diritti concreti",
+   "orig": "San Marino, sport e disabilità: Attiva-Mente promuove la riforma, ma chiede diritti concreti",
+   "lead": "A San Marino il Comitato Olimpico Nazionale diventa anche Comitato Paralimpico. L'associazione Attiva-Mente apprezza questo cambiamento ma chiede l'accesso concreto allo sport, maggiori informazioni e sostegni economici effettivi per le persone con disabilità, sottolineando che la riforma normativa non basta a garantire inclusione reale nei fatti. Lo riferisce San Marino RTV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/news/politica-c2/san-marino-sport-e-disabilita-attiva-mente-promuove-la-riforma-ma-chiede-diritti-concreti-a297374",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-17T12:45+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z760ccae4",
+   "sez": "mondo",
+   "titolo": "In Bhutan volontari preparano l'evento dei 108 chorten",
+   "orig": "Volunteers unite to prepare for 108 chorten event",
+   "lead": "In Bhutan, a Gelephu, volontari lavorano quotidianamente ai preparativi dell'evento dei 108 Jangchub Chorten. Diversi gruppi, tra cui circa 16 conducenti di Bolero, dedicano ore e giorni ai lavori di allestimento. Il loro contributo collettivo, dai compiti più grandi ai più piccoli, avvicina il cantiere al completamento dell'evento molto atteso. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "Il progetto rappresenta un'iniziativa comunitaria che mette insieme diverse categorie di persone nel Paese buddhista, riflettendo il valore culturale e spirituale dell'evento nella società bhutanese."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247622/",
+     "angolo": "",
+     "atlas": "Bhutan",
+     "t": "2026-10-17T11:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z75df9338",
+   "sez": "mondo",
+   "titolo": "Bhutan forma caregiver per l'invecchiamento della popolazione",
+   "orig": "Caregivers learn safe manual handling as Bhutan’s population ages",
+   "lead": "Circa 20 infermieri e caregiver del Bhutan ricevono formazione specializzata sui corretti movimenti per assistere anziani in totale sicurezza, affrontando il crescente invecchiamento della popolazione nazionale. La formazione risulta essenziale poiché tecniche errate espongono sia chi assiste che l'assistito al significativo rischio di infortuni gravi e incapacitanti. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "Il Bhutan affronta la sfida demografica dell'invecchiamento della popolazione con programmi di formazione specializzata per operatori sanitari, anticipando le necessità future del sistema assistenziale."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247608/",
+     "angolo": "",
+     "atlas": "Bhutan",
+     "t": "2026-10-17T08:24+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "ze565beb1",
+   "sez": "mondo",
+   "titolo": "Bhutan avvia miglioramenti stradali a Samdrup Jongkhar",
+   "orig": "Road improvement under way for Gomdar and Wangphu residents",
+   "lead": "A Samdrup Jongkhar in Bhutan, sono iniziati i lavori di miglioramento su una strada di 22 chilometri tra Narphung e il Gewog Centre di Gomdar, per facilitare gli spostamenti dei residenti. Il progetto include la costruzione di un nuovo ponte-canale a Kheshingri per risolvere i problemi di attraversamento di un tratto critico. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [
+    "Il progetto infrastrutturale rappresenta un intervento lungo atteso dalla comunità locale, migliorando la connettività e la mobilità nelle aree rurali del Bhutan orientale."
+   ],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247610/",
+     "angolo": "",
+     "atlas": "Bhutan",
+     "t": "2026-10-17T07:54+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z7306cedb",
+   "sez": "mondo",
+   "titolo": "Fiji, cittadino chiede riforme costituzionali eque per tutti",
+   "orig": "Sigatoka resident calls for reforms that benefit all",
+   "lead": "In Fiji, durante le consultazioni pubbliche sulla proposta di legge di riforma costituzionale a Lawai nel distretto di Sigatoka, il cittadino Selvin Kumar ha sottolineato la necessità che i cambiamenti tutelino l'uguaglianza e i diritti mentre migliorano la responsabilità democratica del governo. Ha esortato il comitato a garantire riforme eque. Lo riferisce FBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/sigatoka-resident-calls-for-reforms-that-benefit-all/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-10-17T04:57+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "ze8ebe5ca",
+   "sez": "mondo",
+   "titolo": "Tanzanie, il settore assicurativo punta ai guadagni regionali",
+   "orig": "Tanzania’s insurance industry eyes regional gains",
+   "lead": "L'industria assicurativa della Tanzania si posiziona sempre più come pilastro della sicurezza finanziaria, dal proteggere i risparmi familiari all'ammortizzare gli shock economici generali. Il principale organo di regolamentazione assicurativa tanzaniano ha assunto un ruolo di leadership regionale per plasmare l'integrazione finanziaria tra gli stati africani limitrofi e dell'area. Lo riferisce Daily News.",
+   "more": [
+    "La Tanzania, con la sua industria assicurativa in espansione e l'integrazione economica regionale, si posiziona come hub finanziario nell'Africa orientale."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzanias-insurance-industry-eyes-regional-gains/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T09:07+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z850801fc",
+   "sez": "mondo",
+   "titolo": "Kibaha vieta l'estrazione di sabbia nel fiume Mpiji",
+   "orig": "Kibaha bans sand mining in Mpiji River valley",
+   "lead": "Kibaha in Tanzania ha vietato l'estrazione di sabbia nella valle del fiume Mpiji a Vikawe Bondeni Street, nel Ward di Pangani, per contenere il degrado ambientale della zona. Il sindaco ha deciso dopo aver accertato che nessun permesso formale era stato rilasciato per autorizzare l'estrazione della sabbia nel corso del tempo. Lo riferisce Daily News.",
+   "more": [
+    "Il divieto rappresenta un'azione protettiva contro il saccheggio illegale di risorse naturali che minaccia gli ecosistemi fluviali tanzaniani."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/kibaha-bans-sand-mining-in-mpiji-river-valley/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T08:56+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z618153f8",
+   "sez": "mondo",
+   "titolo": "Tanzania, gruppi svantaggiati vincono appalti pubblici per 74 miliardi",
+   "orig": "Special groups win 74.32bn/- in govt tenders",
+   "lead": "In Tanzania, più di 33.500 gruppi che rappresentano giovani, donne, anziani e persone con disabilità hanno ottenuto 3.466 appalti governativi per un valore complessivo di 74,32 miliardi di scellini tra luglio 2023 e ottobre 2026. L'Autorità di regolamentazione degli appalti pubblici ha avviato questa iniziativa per ampliare l'accesso alle opportunità di procurement. Lo riferisce Daily News.",
+   "more": [
+    "Il programma di appalti inclusivi rappresenta uno sforzo della Tanzania per promuovere l'accesso economico dei gruppi storicamente marginalizzati nella pubblica amministrazione."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/special-groups-win-74-32bn-in-govt-tenders/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T08:43+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z63d73ff1",
+   "sez": "mondo",
+   "titolo": "Tanzania, STAMICO pianifica tre nuove miniere",
+   "orig": "STAMICO plans three new mines",
+   "lead": "La State Mining Corporation (STAMICO) della Tanzania progetta di aprire tre nuove miniere, due d'oro e una di grafite, per espandere la produzione mineraria e rafforzare il portafoglio di investimenti. L'espansione mira anche ad aumentare la partecipazione domestica nel settore estrattivo. Il piano segue un significativo miglioramento della performance finanziaria della società. Lo riferisce Daily News.",
+   "more": [
+    "La Tanzania continua a basare la sua strategia di sviluppo sull'espansione dell'industria estrattiva, sfruttando le risorse minerarie per la crescita economica nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/stamico-plans-three-new-mines/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T08:33+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z6810abf8",
+   "sez": "mondo",
+   "titolo": "Tanzania, vicepresidente ordina accelerazione dei progetti di sviluppo",
+   "orig": "PROJECTS IMPLEMENTATION: VP orders timely delivery",
+   "lead": "Il vicepresidente Deogratius Ndejembi della Tanzania ha ordinato ai ministri e ai funzionari governativi di accelerare l'implementazione dei progetti di sviluppo nella regione di Songwe, avvertendo che i cittadini necessitano di risultati tangibili come acqua affidabile, elettricità costante e strade in buone condizioni, non di promesse ripetute. Ha tenuto riunioni pubbliche a Tunduma, Vwawa e Mlowo. Lo riferisce Daily News.",
+   "more": [
+    "Il vicepresidente enfatizza il divario tra promesse politiche e risultati concreti, evidenziando le aspettative crescenti dei cittadini tanzaniani per i servizi pubblici essenziali."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/projects-implementation-vp-orders-timely-delivery/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T08:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z7960115f",
+   "sez": "mondo",
+   "titolo": "Zelensky avverte: la Russia potrebbe cercare i beni congelati attraverso i partner",
+   "orig": "Russia may seek to get back frozen assets through Ukraine's partners, Zelensky says",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha avvertito che la Russia potrebbe cercare di recuperare i miliardi di beni congelati attraverso i partner dell'Ucraina, ma ha osservato che attualmente rimangono \"al sicuro\" perché sotto il controllo europeo. L'Ue mantiene così la custodia dei patrimoni russi sequestrati come sanzione per l'invasione. Lo riferisce The Kyiv Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/russia-may-seek-to-get-back-frozen-assets-through-ukraines-partners-zelensky-says/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-17T13:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zcfb15813",
+   "sez": "mondo",
+   "titolo": "Ucraina, oltre la metà dei droni russi abbattuti dagli aerei",
+   "orig": "Over half of Russian jet-powered drones downed by Ukraine's aircraft, Zelensky says",
+   "lead": "L'Ucraina ha assicurato contratti e garanzie dai partner per forniture aggiuntive di munizioni F-16, ha dichiarato il presidente Zelensky, aggiungendo che il livello attuale delle consegne è soddisfacente. Più della metà dei droni a reazione russi utilizzati in battaglia viene abbattuta dagli aerei da combattimento ucraini durante le operazioni. Lo riferisce The Kyiv Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/over-half-of-russian-jet-powered-drones-downed-by-ukraines-aircraft-zelensky-says/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-17T13:12+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z88445e6f",
+   "sez": "mondo",
+   "titolo": "Sudafrica chiede a COP31 di triplicare i finanziamenti per l'adattamento climatico",
+   "orig": "SA to push for triple adaptation finance by 2035 at COP31",
+   "lead": "Il Sudafrica sostiene una proposta vincolante per triplicare i finanziamenti per l'adattamento climatico entro il 2035 a COP31 in Turchia, affrontando la grave carenza di risorse che affligge i paesi in via di sviluppo vulnerabili ai cambiamenti climatici. La misura punta a proteggere le nazioni più esposte agli effetti dei mutamenti ambientali globali. Lo riferisce Mail & Guardian.",
+   "more": [
+    "Il Sudafrica, come nazione africana vulnerabile ai mutamenti climatici, si posiziona come leader nella rivendicazione di una finanza climatica più equa nei forum internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/the-green-guardian/2026-10-16-sa-to-push-for-triple-adaptation-finance-by-2035-at-cop31/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-16T15:21+00:00"
+    },
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/oceans-will-be-negotiated-at-cop31/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-10-17T04:55+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z482b81a4",
+   "sez": "mondo",
+   "titolo": "Coppa del Mondo femminile U-17, Nigeria-Polonia: cinque giocatori da seguire",
+   "orig": "Poland vs Nigeria: Five Players to watch as Flamingos begin World Cup campaign",
+   "lead": "La Nigeria inizia la sua campagna alla Coppa del Mondo femminile Under-17 in Marocco affrontando la Polonia. Harmony Chidi guida gli attacchi nigeriani mentre la giocatrice polacca Zofia Burzan e altri talenti emergenti rappresentano una minaccia significativa per il primo risultato utile della squadra africana nel torneo mondiale. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/917794-poland-vs-nigeria-five-players-to-watch-as-flamingos-begin-world-cup-campaign.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-17T14:08+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zd1f3118b",
+   "sez": "mondo",
+   "titolo": "Johnvents trasforma le sfide del cacao nigeriano in azienda globale",
+   "orig": "INTERVIEW: How Johnvents is turning Nigeria’s cocoa challenges into a global agribusiness",
+   "lead": "John Alamu, fondatore e amministratore delegato di Capitalsage Holdings, spiega come la sua azienda Johnvents affronta le sfide del settore agricolo nigeriano attraverso la trasformazione del cacao, il supporto ai piccoli agricoltori, l'approvvigionamento sostenibile e l'aggiunta di valore ai prodotti, espandendosi progressivamente in tutta l'Africa e nei mercati internazionali emergenti. Lo riferisce Premium Times.",
+   "more": [
+    "Johnvents rappresenta un modello nigeriano di agribusiness che integra sostenibilità, supporto ai produttori locali e espansione regionale nel settore del cacao."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/business/business-news/917750-interview-how-johnvents-is-turning-nigerias-cocoa-challenges-into-a-global-agribusiness.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-17T11:11+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z4b42634a",
+   "sez": "mondo",
+   "titolo": "Nigeria, EFCC conferma custodia del figlio di Maina",
+   "orig": "EFCC confirms custody of Maina’s son, speaks on next steps",
+   "lead": "La Commissione anticorruzione nigeriana (EFCC) ha confermato di avere in custodia il figlio di Maina, come dichiarato dal portavoce Dele Oyewale. Per il trasferimento in un istituto penitenziario dove scontare la pena, sarà necessario un apposito ordine del tribunale competente. Le procedure amministrative e legali rimangono in corso. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/917749-efcc-confirms-custody-of-mainas-son-speaks-on-next-steps.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-17T10:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zea2f0642",
+   "sez": "mondo",
+   "titolo": "Gelo Gonzales di Rappler nominato Jefferson Fellow 2026",
+   "orig": "Rappler’s Gelo Gonzales named 2026 East-West Center Jefferson Fellow",
+   "lead": "Il giornalista Gelo Gonzales di Rappler è stato nominato Jefferson Fellow 2026 dell'East-West Center. La fellowship di tre settimane lo porterà a Honolulu, Tokyo e Seoul per esaminare l'impatto cruciale dell'intelligenza artificiale sulle società democratiche e sulla sicurezza economica nella regione Asia-Pacifico nel contesto contemporaneo. Lo riferisce Rappler.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/technology/gelo-gonzales-2026-east-west-center-jefferson-fellow/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-17T17:02+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zde46732a",
+   "sez": "mondo",
+   "titolo": "Rom Dongeto, il compositore sconosciuto di \"Kanlungan\"",
+   "orig": "Filipino composer Rom Dongeto and the song we thought we knew",
+   "lead": "Decenni dopo che uno spot televisivo ha propulsato la canzone \"Kanlungan\" nella corrente principale della cultura popolare filippina, l'inno attivista popolarizzato dalla voce inconfondibile di Noel Cabangon continua a trascendere le generazioni come classico agrodolce. Pochi però sanno che è stata originariamente composta dal musicista Rom Dongeto, figura poco nota al pubblico generale. Lo riferisce Rappler.",
+   "more": [
+    "La storia di Rom Dongeto riflette il fenomeno delle canzoni che diventano culturalmente significative ma i cui autori rimangono nell'anonimato popolare."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/people/artists/filipino-composer-rom-dongeto-song-kanlungan/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-17T16:00+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zd52d7c02",
+   "sez": "mondo",
+   "titolo": "Filippine, cinque giudici si contendono la posizione di capo della magistratura",
+   "orig": "5 Supreme Court justices vie to become next chief justice",
+   "lead": "Cinque giudici della Corte Suprema filippina si candidano e si contendono la posizione di capo della magistratura nazionale. Tra i candidati figurano due tra i magistrati più esperti e influenti: il giudice emerito Marvic Leonen e il giudice associato Alfredo Benjamin Caguioa, che rappresentano la vecchia guardia della corte. Lo riferisce Rappler.",
+   "more": [
+    "La successione della guida della Corte Suprema filippina riflette le tensioni istituzionali e le dinamiche di potere all'interno dell'apparato giudiziario nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/supreme-court-chief-justice-candidates-2026/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-17T11:50+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zcbb48c62",
+   "sez": "mondo",
+   "titolo": "Il principe Reza Pahlavi parlerà del Medio Oriente all'Accademia militare belga",
+   "orig": "شاهزاده رضا پهلوی در آکادمی سلطنتی نظامی بلژیک، درباره خاورمیانه سخنرانی می‌کند",
+   "lead": "Il ministro della difesa belga Theo Francken ha annunciato che il principe Reza Pahlavi parlerà del Medio Oriente venerdì 6 novembre presso l'Accademia militare reale belga a Bruxelles. Francken ha dichiarato su X che accoglierà personalmente il principe all'interno dell'accademia per una lezione sulle questioni mediorientali contemporanee. Lo riferisce Iran International.",
+   "more": [
+    "L'evento rappresenta un'occasione di visibilità internazionale per il principe, figure cruciale negli ambienti dell'opposizione iraniana in esilio."
+   ],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202610178526",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-10-17T13:23+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zb8940fb2",
+   "sez": "mondo",
+   "titolo": "Italia, Stato deve quasi 1 miliardo ai magistrati per arretrati stipendiali",
+   "orig": "Lo Stato deve quasi 1 miliardo ai magistrati",
+   "lead": "Il Consiglio di Stato italiano ha stabilito che gli adeguamenti degli stipendi dei magistrati erano stati calcolati erroneamente nel corso dei decenni passati, ordinando ufficialmente al governo di pagare la differenza complessiva pari a circa 1 miliardo di euro per le retribuzioni non corrisposte. La sentenza conclude una controversia di lungo corso. Lo riferisce Il Post.",
+   "more": [
+    "La decisione della magistratura amministrativa rappresenta una vittoria legale per i magistrati italiani nella loro rivendicazione di retribuzioni adeguate."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/17/legge-bilancio-arretrati-magistrati/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T12:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z27566ae5",
+   "sez": "mondo",
+   "titolo": "Il peggior alleato dell'Ucraina: gli Stati Uniti di Trump",
+   "orig": "Il peggior alleato dell’Ucraina",
+   "lead": "Secondo Il Post, gli Stati Uniti sotto l'amministrazione Trump si sono dimostrati alleati dell'Ucraina tanto indispensabili nella fornitura di armi e supporto strategico quanto inaffidabili sul piano della costanza diplomatica, una contraddizione manifestatasi chiaramente anche negli ultimi giorni di complesse negoziazioni e discussioni geopolitiche con i partner europei e ucraini. Lo riferisce Il Post.",
+   "more": [
+    "L'analisi riflette il dibattito in corso sulla coerenza della politica estera americana verso l'Ucraina e il ruolo degli Stati Uniti nel conflitto europeo."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/17/trump-zelensky-rapporti-cambiati/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T10:43+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zf1676744",
+   "sez": "mondo",
+   "titolo": "Ricordi dalle frontiere della Cina travolte dalle alluvioni",
+   "orig": "Ricordi dalle frontiere della Cina",
+   "lead": "Un inviato ricorda i suoi viaggi alle frontiere della Cina, tra cui i confini con la Corea del Sud, il Vietnam, il Kazakistan e soprattutto quello tra Nepal e Tibet, spazzato via dall'esondazione catastrofica di agosto. Descrive questi luoghi come tra i più intensi da lui visitati, oggi sommersi dal fango e da sofferenze incommensurabili. Lo riferisce Il Post.",
+   "more": [
+    "Il testo è una riflessione personale di un corrispondente su frontiere geografiche e umane della Cina alterate da catastrofi naturali."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/17/sala-ricordi-dalle-frontiere-della-cina/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T10:01+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z3b34a175",
+   "sez": "mondo",
+   "titolo": "Polonia ritira proposta di criminalizzare l'aiuto ai migranti irregolari",
+   "orig": "Poland drops proposal to criminalise providing help to illegal migrants following outcry",
+   "lead": "La Polonia ha ritirato la proposta di legge che avrebbe criminalizzato il fornimento di aiuti ai migranti irregolari dopo le massicce proteste dei critici e della società civile. La legge avrebbe esposto i volontari umanitari e gli attivisti al rischio di fino a tre anni di detenzione nel carcere. Lo riferisce Notes from Poland.",
+   "more": [
+    "Il ritiro della proposta rappresenta una vittoria per i diritti umani e la libertà di azione umanitaria dopo l'opposizione della comunità civile polacca."
+   ],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/10/16/poland-drops-proposal-to-criminalise-providing-help-to-illegal-migrants-following-outcry/",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-16T14:38+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "zfd2cddff",
+   "sez": "mondo",
+   "titolo": "La settimana in foto: 10-16 ottobre 2026",
+   "orig": "I have a picture for you! 10 October-16 October",
+   "lead": "Daily Maverick presenta la galleria settimanale di foto della newsletter \"First Thing\", raccogliendo le immagini più significative e rappresentative dal 10 al 16 ottobre 2026 provenienti da diverse aree tematiche, geografiche e di interesse generale. Una rassegna visuale curata dei momenti e degli eventi più rilevanti della settimana appena conclusa. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-16-i-have-a-picture-for-you-10-october-16-october/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-16T14:21+00:00"
+    },
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/world/the-week-in-photos-october-10-16-2026/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-17T12:15+08:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
+   "id": "z7b1989c5",
+   "sez": "mondo",
+   "titolo": "Georgia, Ivanishvili presente a riunione del Sogno georgiano su questioni politiche",
+   "orig": "Ivanishvili Present as Georgian Dream Meets to Discuss ‘Domestic, Foreign Policy Issues’",
+   "lead": "Bidzina Ivanishvili, fondatore del partito di governo Sogno georgiano (Georgian Dream), ha fatto una rara apparizione pubblica il 17 ottobre presiedendo riunioni del consiglio politico e della maggioranza parlamentare del partito. Il primo ministro Irakli Kobakhidze ha riferito discussioni su questioni politiche domestiche e estere senza fornire dettagli sostanziali sugli esiti. Lo riferisce Civil.ge.",
+   "more": [
+    "L'apparizione di Ivanishvili rappresenta un momento significativo nella politica georgiana, data la sua solitamente bassa visibilità pubblica nonostante l'influenza sul partito."
+   ],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/755066",
+     "angolo": "",
+     "atlas": "Georgia",
+     "t": "2026-10-17T13:01+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "16:33",
+   "uscita": "17"
+  },
+  {
    "id": "z16ec17bd",
    "sez": "salute",
    "titolo": "Ciad: il ministro della Sanità mobilita le forze vive del Mandoul contro il verme di Guinea",
@@ -114,6 +2309,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Angola",
      "t": "2026-10-17T11:17+00:00"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/asia/pope-leo-will-leave-hospital-return-vatican-oct-17-holy-see-6468156",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T18:14+08:00"
     }
    ],
    "data": "17 ott",
@@ -1645,37 +3849,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z50d4a85c",
-   "sez": "mondo",
-   "titolo": "Giovani Unione CDU si presenta con fiducia al Deutschlandtag tedesco",
-   "orig": "Junge Union präsentiert sich mit enormem Selbstbewusstsein beim \"Deutschlandtag\"",
-   "lead": "La Junge Union (Giovani Unione), ala giovanile della CDU tedesca, si è presentata al 'Deutschlandtag' con straordinaria fiducia e ambizioni politiche. Il capo Johannes Winkel è stato riconfermato con il 94 per cento dei voti e ha esortato il partito del cancelliere a maggiore credibilità. L'evento ha visto la gioventù conservatrice sottolineare il proprio ruolo politico crescente.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/video/video-1667850.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-17T13:52+02:00"
-    },
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/politik/deutschlandtag-junge-union-bonn-johannes-winkel-hendrik-wuest-li.3564260",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-16T20:22+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "16:26",
-   "uscita": "17"
-  },
-  {
    "id": "z58735e3c",
    "sez": "mondo",
    "titolo": "Francia: massicce proteste contro il governo Macron, scontri con polizia e 166 arresti",
@@ -1700,6 +3873,33 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Venezuela",
      "t": "2026-10-17T13:30+00:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%B5-%D0%B2%D0%BE-%D0%BF%D0%B0%D1%80%D0%B8%D0%B7-%D0%BB%D0%B8%D0%BE%D0%BD-%D0%B8-%D1%81%D1%82%D1%80%D0%B0%D0%B7%D0%B1%D1%83%D1%80-%D0%B5%D1%81%D0%BA%D0%B0%D0%BB%D0%B8%D1%80%D0%B0%D0%B0-%D0%B2%D0%BE-%D1%81%D1%83%D0%B4%D0%B8%D1%80%D0%B8-%D1%81%D0%BE-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D1%98%D0%B0%D1%82%D0%B0-%D1%83%D0%B0%D0%BF%D1%81%D0%B5%D0%BD%D0%B8-166-%D0%BB%D0%B8%D1%86%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-17T15:41+02:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445381/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-17T15:04+02:00"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344680/landesweiter-protesttag-in-frankreich-mit-blockaden-und-demonstrationen-begonnen?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-17T11:06+00:00"
     }
    ],
    "data": "17 ott",
@@ -4875,6 +7075,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-10-17T16:40+08:00"
+    },
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874311-20261017.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T18:25+08:00"
     }
    ],
    "data": "17 ott",
@@ -6605,9 +8814,95 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zdb70a8d4": "The Straits Times inquadra la protesta come sfida crescente al potere presidenziale.",
   "z58e39350": "Radio Prague International documenta i risultati delle elezioni senatoriali con copertura tecnica.",
   "z72b3a7f1": "Turkish Minute documenta la repressione mediatica come parte della strategia del governo.",
-  "z50d4a85c": "Tagesschau e Süddeutsche Zeitung coprono il congresso come momento di assertività della ala giovane.",
   "z58735e3c": "La Nación e El Nacional coprono le proteste come crisi politica e sociale per la Francia.",
-  "za46a8524": "El Tiempo analizza il fallimento della strategia commerciale protezionista americana."
+  "za46a8524": "El Tiempo analizza il fallimento della strategia commerciale protezionista americana.",
+  "zf26e9925": "La testata tedesca evidenzia la recezione mista del messaggio di Merz tra i giovani conservatori.",
+  "zd50e8cf1": "La testata tedesca inquadra la mossa americana come potenziale allentamento della pressione sulla Russia.",
+  "z23a37271": "L'agenzia brasiliana riferisce sulla lotteria settimanale con premio accumulato significativo.",
+  "zbb31d42c": "La testata senegalese rende omaggio a una figura storica del giornalismo nazionale.",
+  "z1bc056cd": "La testata keniota riporta le recriminazioni della vedova Odinga contro l'interferenza politica durante la commemorazione.",
+  "zb54f41bb": "La testata pakistana riporta la decisione del tribunale sulla custodia dell'oppositore politico.",
+  "z5548a18c": "La testata bosniaca riporta lo svolgimento di una delle maggiori esercitazioni militari annuali del paese.",
+  "za65323b5": "L'agenzia irachena enfatizza i messaggi di unità del primo ministro presso la principale organizzazione islamica internazionale.",
+  "ze2886cd0": "La testata boliviana segue il cammino del campione nazionale verso la difesa del titolo.",
+  "zf6e4c9d2": "La testata spagnola riferisce sulla strategia di Sánchez di mobilitare l'elettorato progressista attorno ai cosiddetti attacchi giudiziari.",
+  "z264423ec": "La testata guineana riporta il rinvio amministrativo del bando di reclutamento nel settore sanitario.",
+  "z9cd0513a": "La testata ugandese riporta il messaggio del vicepresidente ai vertici imprenditoriali dell'Africa orientale.",
+  "zbb54d35a": "La testata britannica riporta su un tentativo di attacco in una scuola americana sventato dalla risposta istintiva di un genitore.",
+  "zd70a60b9": "La testata britannica riporta la spiegazione dell'attrice per il suo comportamento durante l'incidente in volo.",
+  "z9be416ae": "La testata britannica riporta l'archiviazione delle accuse contro l'attore per difetto dell'imputazione.",
+  "zeac20196": "La testata americana sottolinea il contrasto tra il massiccio investimento in pubblicità elettorale e le difficoltà economiche dei cittadini.",
+  "zd3802c02": "La testata americana riferisce su un dibattito televisivo locale sui temi che dividono l'elettorato del Minnesota.",
+  "z6554dd37": "La testata americana enfatizza la lotta per la giustizia storica che prosegue decenni dopo la fine del regime razzista.",
+  "z802c461d": "La testata americana riporta sullo spostamento della strategia del movimento No Kings verso la mobilitazione elettorale.",
+  "z3f98876d": "Il canale qatarino riferisce sul cambio di rotta di Newsom sulla regolazione dell'IA mentre guarda ai presidenziali 2028.",
+  "z70de8466": "La testata irlandese riporta sullo stato di salute del ministro e i piani per il suo ritorno agli incarichi.",
+  "z6427b544": "La testata irlandese riporta sul contenzioso tra governo e sindacati dei dipendenti pubblici.",
+  "z1cabd273": "La testata ceca annuncia la riapertura al pubblico di un monumento storico della capitale.",
+  "zd205e7fe": "L'emittente pubblica lituana riferisce su una decisione amministrativa riguardante l'assetto territoriale locale.",
+  "zbd2da47a": "LRT copre la crescita dell'azienda locale attraverso le testimonianze dirette dei fondatori.",
+  "zeeeb77bf": "LRT segue le prestazioni impressionanti della squadra azera allenata dal tecnico lituano.",
+  "z74ad703f": "LRT propone un'analisi filosofica dei contenuti filmici contemporanei attraverso la critica culturale.",
+  "z1e13d47a": "LRT riporta i risultati archeologici con interesse alla ricerca storica locale.",
+  "zc5dcfa32": "ERR News documenta il progetto di valorizzazione estetica dell'infrastruttura difensiva civile.",
+  "zaf3a0fde": "ERR News valorizza i successi internazionali dell'atleta estone negli USA.",
+  "z934e3655": "ERR News copre i lavori infrastrutturali di rilevanza regionale.",
+  "z427887c8": "ERR News evidenzia un conflitto consumeristico nell'offerta didattica internazionale.",
+  "ze07ba9c3": "ERR News riporta la controversia fra il settore ambientale e la programmazione energetica statale.",
+  "zcf8ac4c5": "LSM promuove gli eventi culturali della città lettone quale capitale europea designata.",
+  "z03f0971e": "PBS NewsHour effettua fact-checking sulle dichiarazioni presidenziali nel contesto della campagna elettorale.",
+  "z9661ee8a": "Yonhap segue le performance dei giocatori stellari della KBO nei playoff.",
+  "z97fb62e3": "Yonhap riporta i commenti tecnici del manager sulla prestazione del fuoriclasse.",
+  "z79cb612f": "CNA presenta un profilo umano sulla resilienza e l'altruismo nel contesto della società singaporiana.",
+  "z1284d7e8": "CNA documenta l'utilizzo reale dei rifugi civili di Singapore durante l'emergenza climatica.",
+  "z9d31cd3c": "CNA riporta l'interruzione critica dell'energia in Sri Lanka.",
+  "zd3eb87ce": "ABC News Australia copre l'atteggiamento competitivo della nazionale di rugby femminile australiana.",
+  "z7cad5820": "ABC News Australia segue le dinamiche competitive della lega calcistica femminile australiana.",
+  "z556698aa": "ABC News Australia evidenzia l'inclusione di simboliche LGBTQ+ nell'ambito dello sport australiano.",
+  "z7c6f81f7": "RNZ copre gli esordi mondiali del rugby oceanico con focus sui successi locali.",
+  "z63c635d5": "RNZ evidenzia la crisi di personale nel sistema sanitario rurale neozelandese.",
+  "zba5aa1ad": "RNZ valorizza la partecipazione del Samoa evidenziando il progresso oltre il risultato.",
+  "z7a0fc554": "RNZ Pacific avverte sui pericoli meteo imminenti in una zona vulnerabile del Pacifico.",
+  "z351168c5": "ERT News enfatizza l'impegno locale contro le patologie che danneggiano le coltivazioni di olivo.",
+  "z91d22af8": "ERT News documenta fenomeni meteorologici insoliti in controtendenza con le previsioni stagionali.",
+  "z3a00f099": "ERT News riporta i soccorsi in mare nell'area del Dodecaneso dove continuano i transiti migratori.",
+  "z33ef41b4": "ERT News annuncia l'agenda politica di una figura di rilievo del partito comunista greco nel Dodecaneso.",
+  "zed1345db": "MIA evidenzia i problemi di sicurezza stradale legati ai veicoli di micro-mobilità in rapida diffusione.",
+  "z47b1cb8b": "IPN evidenzia gli ambiziosi piani moldavi verso l'autonomia energetica.",
+  "ze9e913a5": "IPN celebra i successi atletici moldavi in competizioni internazionali.",
+  "z24a6c9b6": "IPN segnala le difficoltà infrastrutturali dei valichi di confine moldavi.",
+  "zfda28447": "Azatutyun riporta le posizioni del governo armeno sulla sovranità delle risorse naturali.",
+  "z53464009": "Vatican News enfatizza l'interazione personale del Papa con una giovane in difficoltà.",
+  "z8087d2d4": "Vatican News valorizza l'eredità di un cardinale cattolico riconosciuto globalmente.",
+  "zb800027e": "Vatican News celebra un progetto di conservazione e digitalizzazione del patrimonio culturale vaticano.",
+  "z41008efd": "San Marino RTV riporta l'attività politica di una nuova formazione tra la comunità italiana.",
+  "z8e1f1fc1": "San Marino RTV descrive l'evento con prospettiva istituzionale favorevole all'integrazione con l'Ue.",
+  "z23e67beb": "San Marino RTV segnala l'apprezzamento della riforma ma mette in rilievo le criticità ancora irrisolte nell'inclusione sportiva.",
+  "z760ccae4": "Bhutan Broadcasting Service enfatizza il carattere collettivo e inclusivo del lavoro preparatorio.",
+  "z75df9338": "Bhutan Broadcasting Service presenta la formazione come risposta istituzionale a un'esigenza sociale crescente.",
+  "ze565beb1": "Bhutan Broadcasting Service presenta il progetto come conclusione di un lungo periodo di attesa della comunità.",
+  "z7306cedb": "FBC News presenta la posizione di un cittadino che enfatizza l'importanza dell'equità nelle riforme costituzionali.",
+  "ze8ebe5ca": "Daily News presenta l'espansione del settore assicurativo come opportunità di sviluppo economico regionale e nazionale.",
+  "z850801fc": "Daily News riferisce il divieto amministrativo come misura di protezione ambientale delle risorse idriche locali.",
+  "z618153f8": "Daily News presenta l'iniziativa come progresso verso l'inclusione economica e l'ampliamento delle opportunità di partecipazione al mercato pubblico.",
+  "z63d73ff1": "Daily News presenta l'espansione mineraria come conseguenza logica del miglioramento finanziario della società di stato.",
+  "z6810abf8": "Daily News presenta l'ordine del vicepresidente come esortazione all'efficienza amministrativa e all'accelerazione delle infrastrutture sociali.",
+  "z7960115f": "The Kyiv Independent riferisce una valutazione ucraina dei rischi economici legati alle sanzioni e al sequestro dei beni russi.",
+  "zcfb15813": "The Kyiv Independent segnala il successo tattico ucraino nell'abbattimento dei droni e la prosecuzione dei flussi di armamenti da parte degli alleati.",
+  "z88445e6f": "Mail & Guardian segnala la posizione advocacy del Sudafrica per una redistribuzione più giusta dei finanziamenti climatici globali.",
+  "z482b81a4": "Premium Times presenta il confronto tattico tra giocatrici chiave dei due paesi in occasione della Coppa del Mondo.",
+  "zd1f3118b": "Premium Times presenta un profilo imprenditoriale che enfatizza l'innovazione nel settore agricolo nigeriano.",
+  "z4b42634a": "Premium Times riferisce i dettagli amministrativi della custodia e dei prossimi passaggi legali nel procedimento.",
+  "zea2f0642": "Rappler segnala il riconoscimento internazionale accordato a un proprio giornalista per l'approfondimento su temi di rilevanza regionale.",
+  "zde46732a": "Rappler dedica attenzione alla storia negletta di un compositore importante della musica attivista filippina.",
+  "zd52d7c02": "Rappler segue il processo di selezione della nuova leadership giudiziaria come questione di rilevanza istituzionale.",
+  "zcbb48c62": "Iran International documenta l'attività diplomatica e pubblica del principe Reza Pahlavi nei circoli europei.",
+  "zb8940fb2": "Il Post riporta la sentenza del Consiglio di Stato come conclusione di un contenzioso tra lo Stato e la categoria giudiziaria.",
+  "z27566ae5": "Il Post fornisce un'analisi critica sulla contraddittorietà della posizione americana nel supporto all'Ucraina.",
+  "zf1676744": "Il Post offre un reportage riflessivo sulle conseguenze umane dei disastri ambientali nelle aree di confine cinesi.",
+  "z3b34a175": "Notes from Poland segnala il ritiro come esito della pressione della società civile su una questione di diritti umani.",
+  "zfd2cddff": "Daily Maverick propone una selezione fotografica settimanale che sintetizza i principali avvenimenti globali.",
+  "z7b1989c5": "Civil.ge documenta la comparsa pubblica come evento raro nel contesto della leadership della Georgian Dream."
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -8141,13 +10436,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z50d4a85c": {
-   "n": "Bonn",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
   "z58735e3c": {
    "n": "Francia",
    "p": [
@@ -8159,6 +10447,615 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Stati Uniti",
    "p": [
     "United States of America"
+   ],
+   "pt": []
+  },
+  "zf26e9925": {
+   "n": "Bonn",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zd50e8cf1": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z23a37271": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zbb31d42c": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z1bc056cd": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zb54f41bb": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z5548a18c": {
+   "n": "Manjača",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "za65323b5": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "ze2886cd0": {
+   "n": "Santa Cruz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zf6e4c9d2": {
+   "n": "Fuenlabrada",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z264423ec": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z9cd0513a": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zbb54d35a": {
+   "n": "Non specificato",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd70a60b9": {
+   "n": "Non specificato",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9be416ae": {
+   "n": "Non specificato",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zeac20196": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd3802c02": {
+   "n": "Minnesota",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6554dd37": {
+   "n": "Pretoria",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z802c461d": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3f98876d": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z70de8466": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z6427b544": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z1cabd273": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zd205e7fe": {
+   "n": "Telšiai",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zbd2da47a": {
+   "n": "Kaune",
+   "p": [
+    "Lithuania",
+    "Estonia",
+    "Belarus"
+   ],
+   "pt": []
+  },
+  "zeeeb77bf": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z74ad703f": {
+   "n": "Lubiana",
+   "p": [
+    "Slovenia"
+   ],
+   "pt": []
+  },
+  "z1e13d47a": {
+   "n": "Kaune",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zc5dcfa32": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zaf3a0fde": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z934e3655": {
+   "n": "Mäo",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z427887c8": {
+   "n": "Estonia",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "ze07ba9c3": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zcf8ac4c5": {
+   "n": "Liepāja",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "z03f0971e": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9661ee8a": {
+   "n": "Gwangju",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z97fb62e3": {
+   "n": "Gwangju",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z79cb612f": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z1284d7e8": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z9d31cd3c": {
+   "n": "Colombo",
+   "p": [
+    "Sri Lanka"
+   ],
+   "pt": []
+  },
+  "zd3eb87ce": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z7cad5820": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z556698aa": {
+   "n": "Gold Coast",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z7c6f81f7": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z63c635d5": {
+   "n": "Horowhenua",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zba5aa1ad": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z7a0fc554": {
+   "n": "Aitutaki",
+   "p": [
+    "Cook Is."
+   ],
+   "pt": []
+  },
+  "z351168c5": {
+   "n": "Antica Olimpia",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z91d22af8": {
+   "n": "Kato Nevrokopi",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z3a00f099": {
+   "n": "Farmakonissi",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z33ef41b4": {
+   "n": "Kastellorizo",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zed1345db": {
+   "n": "Skopje",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "z47b1cb8b": {
+   "n": "Chisinau",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "ze9e913a5": {
+   "n": "Durazzo",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z24a6c9b6": {
+   "n": "Giurgiulești",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "zfda28447": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z53464009": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8087d2d4": {
+   "n": "Chicago",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb800027e": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z41008efd": {
+   "n": "San Marino",
+   "p": [
+    "San Marino"
+   ],
+   "pt": []
+  },
+  "z8e1f1fc1": {
+   "n": "San Marino",
+   "p": [
+    "San Marino"
+   ],
+   "pt": []
+  },
+  "z23e67beb": {
+   "n": "San Marino",
+   "p": [
+    "San Marino"
+   ],
+   "pt": []
+  },
+  "z760ccae4": {
+   "n": "Gelephu",
+   "p": [
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "z75df9338": {
+   "n": "Bhutan",
+   "p": [
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "ze565beb1": {
+   "n": "Samdrup Jongkhar",
+   "p": [
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "z7306cedb": {
+   "n": "Sigatoka",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "ze8ebe5ca": {
+   "n": "Tanzania",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z850801fc": {
+   "n": "Kibaha",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z618153f8": {
+   "n": "Tanzania",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z63d73ff1": {
+   "n": "Tanzania",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z6810abf8": {
+   "n": "Songwe",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z7960115f": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zcfb15813": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z88445e6f": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z482b81a4": {
+   "n": "Marocco",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "zd1f3118b": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z4b42634a": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zea2f0642": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zde46732a": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zd52d7c02": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zcbb48c62": {
+   "n": "Belgio",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zb8940fb2": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z27566ae5": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zf1676744": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z3b34a175": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zfd2cddff": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z7b1989c5": {
+   "n": "Georgia",
+   "p": [
+    "Georgia"
    ],
    "pt": []
   }
@@ -8393,9 +11290,95 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zdb70a8d4": 2,
   "z58e39350": 2,
   "z72b3a7f1": 2,
-  "z50d4a85c": 2,
   "z58735e3c": 2,
-  "za46a8524": 2
+  "za46a8524": 2,
+  "zf26e9925": 2,
+  "zd50e8cf1": 2,
+  "z23a37271": 1,
+  "zbb31d42c": 1,
+  "z1bc056cd": 1,
+  "zb54f41bb": 1,
+  "z5548a18c": 1,
+  "za65323b5": 1,
+  "ze2886cd0": 2,
+  "zf6e4c9d2": 1,
+  "z264423ec": 1,
+  "z9cd0513a": 1,
+  "zbb54d35a": 1,
+  "zd70a60b9": 1,
+  "z9be416ae": 1,
+  "zeac20196": 1,
+  "zd3802c02": 1,
+  "z6554dd37": 1,
+  "z802c461d": 1,
+  "z3f98876d": 1,
+  "z70de8466": 1,
+  "z6427b544": 1,
+  "z1cabd273": 1,
+  "zd205e7fe": 1,
+  "zbd2da47a": 1,
+  "zeeeb77bf": 1,
+  "z74ad703f": 1,
+  "z1e13d47a": 1,
+  "zc5dcfa32": 1,
+  "zaf3a0fde": 1,
+  "z934e3655": 1,
+  "z427887c8": 1,
+  "ze07ba9c3": 1,
+  "zcf8ac4c5": 1,
+  "z03f0971e": 1,
+  "z9661ee8a": 1,
+  "z97fb62e3": 1,
+  "z79cb612f": 1,
+  "z1284d7e8": 1,
+  "z9d31cd3c": 1,
+  "zd3eb87ce": 1,
+  "z7cad5820": 1,
+  "z556698aa": 1,
+  "z7c6f81f7": 1,
+  "z63c635d5": 1,
+  "zba5aa1ad": 1,
+  "z7a0fc554": 1,
+  "z351168c5": 1,
+  "z91d22af8": 1,
+  "z3a00f099": 1,
+  "z33ef41b4": 1,
+  "zed1345db": 1,
+  "z47b1cb8b": 1,
+  "ze9e913a5": 1,
+  "z24a6c9b6": 1,
+  "zfda28447": 1,
+  "z53464009": 1,
+  "z8087d2d4": 1,
+  "zb800027e": 1,
+  "z41008efd": 1,
+  "z8e1f1fc1": 1,
+  "z23e67beb": 1,
+  "z760ccae4": 1,
+  "z75df9338": 1,
+  "ze565beb1": 1,
+  "z7306cedb": 1,
+  "ze8ebe5ca": 1,
+  "z850801fc": 1,
+  "z618153f8": 1,
+  "z63d73ff1": 1,
+  "z6810abf8": 1,
+  "z7960115f": 1,
+  "zcfb15813": 1,
+  "z88445e6f": 2,
+  "z482b81a4": 1,
+  "zd1f3118b": 1,
+  "z4b42634a": 1,
+  "zea2f0642": 1,
+  "zde46732a": 1,
+  "zd52d7c02": 1,
+  "zcbb48c62": 1,
+  "zb8940fb2": 1,
+  "z27566ae5": 1,
+  "zf1676744": 1,
+  "z3b34a175": 1,
+  "zfd2cddff": 2,
+  "z7b1989c5": 1
  },
  "video": {},
  "pillole": []
