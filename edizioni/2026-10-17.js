@@ -3,6 +3,1084 @@ window.EDIZIONI["2026-10-17"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z7749ef03",
+   "sez": "mondo",
+   "titolo": "Missione Onu incontra il capo della gendarmeria mauritana",
+   "orig": "بعثة أممية تتباحث مع قائد أركان الدرك الموريتاني",
+   "lead": "A Nouakchott una delegazione congiunta delle Nazioni Unite ha avuto colloqui con il comandante dello stato maggiore della gendarmeria mauritana. L'incontro rientra in un quadro di cooperazione tra l'organizzazione internazionale e le forze di sicurezza del Paese nordafricano. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad2cc9231bb580001d173bd/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-17T01:17+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf93b6861",
+   "sez": "mondo",
+   "titolo": "Recuperati i corpi di 12 migranti morti al naufragio al largo del Gambia",
+   "orig": "انتشال جثامين 12 مهاجرا غرق قاربهم السواحل الغامبية",
+   "lead": "L'associazione per la Croce Rossa gambiana ha recuperato venerdì i corpi di 12 migranti, dopo l'affondamento della loro imbarcazione lungo le coste del Gambia. La tragedia si inserisce nel fenomeno delle traversate irregolari dall'Africa occidentale verso l'Europa, spesso effettuate su mezzi di fortuna sovraccarichi e privi di sicurezza. Lo riferisce Alakhbar.",
+   "more": [
+    "Le coste dell'Africa occidentale, tra cui Senegal e Gambia, sono diventate negli ultimi anni punto di partenza di molte traversate migratorie verso le Canarie spagnole, rotta pericolosa segnata da frequenti naufragi."
+   ],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad285d631bb580001d1731b/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-16T20:16+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z554f6edb",
+   "sez": "mondo",
+   "titolo": "Tunisia, scuole più sicure per la nuova rentrée con fondi per lo sviluppo locale",
+   "orig": "Développement local intégré | Une rentrée scolaire plus sûre et plus accueillante",
+   "lead": "Per l'anno scolastico 2026, 32 scuole primarie nelle regioni di Béja, Jendouba, Kasserine, Gafsa e Tataouine hanno riaperto con aree esterne completamente rinnovate. L'iniziativa, legata a un programma di sviluppo locale integrato, ha permesso a circa 7.200 alunni di beneficiare di recinzioni, ingressi sicuri, aree di attesa per i genitori, marciapiedi, illuminazione a LED, spazi verdi e percorsi accessibili. Lo riferisce Kapitalis.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/16/developpement-local-integre-une-rentree-scolaire-plus-sure-et-plus-accueillante/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-16T21:39+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb7f655a4",
+   "sez": "salute",
+   "titolo": "Kenya, registrato un nuovo caso di virus Ebola",
+   "orig": "كينيا: تسجيل إصابة جديدة بفيروس إيبولا",
+   "lead": "Le autorità sanitarie del Kenya hanno confermato la registrazione di un nuovo caso di infezione da virus Ebola nel Paese. La notizia arriva in un contesto di attenzione regionale verso la diffusione della malattia in Africa orientale. Lo riferisce Mosaïque FM.",
+   "more": [
+    "L'Ebola è una febbre emorragica virale altamente letale che si trasmette tramite contatto con fluidi corporei infetti; i focolai in Africa vengono generalmente gestiti con isolamento dei casi, tracciamento dei contatti e campagne di vaccinazione mirata."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533711/%D9%83%D9%8A%D9%86%D9%8A%D8%A7-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-16T23:23+01:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9c957b6c",
+   "sez": "economia",
+   "titolo": "Kairouan, raccolta di olive promettente: previste 57mila tonnellate di olio",
+   "orig": "57 ألف طن من زيت الزيتون.. صابة واعدة مرتقبة في القيروان",
+   "lead": "La produzione di olive da olio nel governatorato tunisino di Kairouan per la stagione in corso è stimata in 275mila tonnellate, equivalenti a circa 57mila tonnellate di olio d'oliva, con un aumento del 4% rispetto alla stagione precedente. Lo riferisce Mosaïque FM.",
+   "more": [
+    "Kairouan è una delle principali regioni olivicole della Tunisia, Paese tra i maggiori produttori ed esportatori mondiali di olio d'oliva, settore chiave per l'economia agricola nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D9%88%D9%86%D8%B3-%D8%AC%D9%87%D8%A7%D8%AA/1533716/57-%D8%A3%D9%84%D9%81-%D8%B7%D9%86-%D9%85%D9%86-%D8%B2%D9%8A%D8%AA-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D8%B5%D8%A7%D8%A8%D8%A9-%D9%88%D8%A7%D8%B9%D8%AF%D8%A9-%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%8A%D8%B1%D9%88%D8%A7%D9%86",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-16T20:56+01:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd5d9f1b9",
+   "sez": "mondo",
+   "titolo": "Panama, cliniche veterinarie gratuite per gli animali colpiti dal terremoto ad Azuero",
+   "orig": "Asistencia para las otras víctimas del sismo: realizarán jornadas veterinarias gratuitas en Azuero",
+   "lead": "L'Università di Panama e associazioni veterinarie organizzano il 17 e 18 ottobre giornate di assistenza veterinaria gratuita, con esami ematologici, per gli animali domestici colpiti dal recente terremoto nella regione di Azuero. L'iniziativa punta a dare sostegno anche alle vittime non umane del sisma che ha colpito l'area. Lo riferisce Panamá América.",
+   "more": [
+    "Azuero è una penisola nel sud di Panama, regione a vocazione rurale e agricola, dove un recente terremoto ha causato danni significativi a persone, abitazioni e animali domestici."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/provincias/asistencia-para-las-otras-victimas-del-sismo-realizaran-jornadas-veterinarias-gratuitas",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z05f94621",
+   "sez": "economia",
+   "titolo": "Panama riceverà 17,4 milioni di dollari dall'assicurazione CCRIF per la ricostruzione post-sisma",
+   "orig": "Panamá recibirá $17.4 millones del seguro parametrizado CCRIF para la reconstrucción post-sismo",
+   "lead": "Il fondo assicurativo parametrico CCRIF SPC erogherà a Panama 17,4 milioni di dollari a seguito del recente terremoto che ha colpito il Paese. I fondi, gestiti tramite il meccanismo FAP, arriveranno in meno di 14 giorni e saranno destinati alla ricostruzione delle aree danneggiate. Lo riferisce Panamá América.",
+   "more": [
+    "Il CCRIF è un meccanismo assicurativo regionale caraibico e centroamericano che eroga rapidamente fondi ai governi colpiti da disastri naturali, basandosi su parametri oggettivi come intensità del sisma, senza attendere verifiche dei danni effettivi."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/economia/panama-recibira-174-millones-del-seguro-parametrizado-ccrif-para-la-reconstruccion-post",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb0415d65",
+   "sez": "mondo",
+   "titolo": "Panama, scienziati indagano su un possibile tsunami a Isla Cañas dopo il terremoto",
+   "orig": "¿Hubo un tsunami en Isla Cañas tras el sismo? Científicos investigan",
+   "lead": "Dopo il recente terremoto, i residenti di Isla Cañas hanno segnalato onde anomale lungo la costa, facendo sospettare un possibile tsunami. I ricercatori non hanno ancora stabilito se il fenomeno osservato sia effettivamente dovuto a uno tsunami o ad altre cause. Lo riferisce Panamá América.",
+   "more": [
+    "Isla Cañas è un'isola della costa pacifica di Panama, nella regione di Azuero, nota anche come area di nidificazione di tartarughe marine."
+   ],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/hubo-un-tsunami-en-isla-canas-tras-el-sismo-cientificos-investigan-1267568",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8cc3427f",
+   "sez": "salute",
+   "titolo": "Panama, il presidente Mulino inaugura il nuovo centro oncologico di Bugaba",
+   "orig": "Panama’s President Mulino Inaugurates the New Cancer Center in Bugaba.",
+   "lead": "Il presidente di Panama José Raúl Mulino ha inaugurato il Centro di Oncologia e Medicina Nucleare di Bugaba, una struttura destinata a fornire servizi di cura dei tumori nella regione. Lo riferisce Newsroom Panama.",
+   "more": [
+    "Bugaba è un distretto della provincia di Chiriquí, nell'ovest di Panama, area che finora disponeva di un accesso limitato a servizi oncologici specializzati, costringendo molti pazienti a spostarsi verso la capitale."
+   ],
+   "fonti": [
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/16/panamas-president-mulino-inaugurates-the-new-cancer-center-in-bugaba/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-10-17T00:16+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z08d7689e",
+   "sez": "mondo",
+   "titolo": "Panama, il sindaco Mizrachi consegna una terza casa temporanea a una famiglia colpita dal terremoto",
+   "orig": "Panama’s Mayor, Mayer Mizrachi Delivers a Third Temporary Home to the Family of a Child with Cerebral Palsy in Macaracas.",
+   "lead": "Il sindaco di Panama City, Mayer Mizrachi, ha consegnato una terza abitazione temporanea alla famiglia di un bambino con paralisi cerebrale a Macaracas, colpita dal recente terremoto. La campagna di raccolta fondi collegata all'iniziativa ha superato i 500mila dollari. Lo riferisce Newsroom Panama.",
+   "more": [
+    "Macaracas è una località nella regione di Azuero, area che ha subito danni significativi nel recente terremoto che ha colpito il sud di Panama."
+   ],
+   "fonti": [
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/16/panamas-mayor-mayer-mizrachi-delivers-a-third-temporary-home-to-the-family-of-a-child-with-cerebral-palsy-in-macaracas/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-10-17T00:04+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0c8f833e",
+   "sez": "mondo",
+   "titolo": "Suriname, acqua potabile per il quartiere di Sunny Point a Paramaribo",
+   "orig": "Sunny Point krijgt toegang tot schoon drinkwater",
+   "lead": "La presidente del Suriname Jennifer Simons e il direttore della società idrica statale SWM, Clifton Lienga, hanno inaugurato venerdì il sistema di acqua potabile nel quartiere di Sunny Point a Paramaribo. La presidente ha sottolineato l'importanza dell'accesso all'acqua pulita e del suo uso responsabile. Lo riferisce De Ware Tijd.",
+   "more": [
+    "La SWM è l'azienda statale responsabile della fornitura di acqua potabile in Suriname, Paese sudamericano dove molte aree periferiche hanno storicamente avuto accesso limitato a reti idriche moderne."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/sunny-point-krijgt-toegang-tot-schoon-drinkwater/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-17T03:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6acd01ee",
+   "sez": "mondo",
+   "titolo": "Suriname, il ministero dell'Agricoltura punta sui giovani per la Giornata mondiale dell'alimentazione",
+   "orig": "Wereldvoedseldag: LVV wil jongeren stimuleren om kansen in de landbouw te benutten",
+   "lead": "In occasione della Giornata mondiale dell'alimentazione, il ministro dell'Agricoltura, Zootecnia e Pesca del Suriname, Mike Noersalim, ha invitato i cittadini a sostenere i produttori locali, gestire in modo sostenibile le risorse naturali e costruire un sistema alimentare resiliente. Il ministro ha sottolineato la necessità di coraggio, investimenti e fiducia per coinvolgere i giovani nelle opportunità del settore agricolo. Lo riferisce De Ware Tijd.",
+   "more": [
+    "La Giornata mondiale dell'alimentazione si celebra ogni anno per promuovere la sicurezza alimentare globale e il ruolo dell'agricoltura sostenibile, temi particolarmente rilevanti per piccoli Paesi come il Suriname che dipendono in parte dalle importazioni."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/wereldvoedseldag-lvv-wil-jongeren-stimuleren-om-kansen-in-de-landbouw-te-benutten/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-17T01:15+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2c9211ad",
+   "sez": "mondo",
+   "titolo": "Suriname, il ministero del Welfare cambia rotta: più autonomia e meno assistenzialismo",
+   "orig": "Sozavo legt focus op zelfredzaamheid, gezinsversterking en modernisering",
+   "lead": "Il ministero degli Affari Sociali e dell'Edilizia Popolare del Suriname (Sozavo) sta attuando una svolta politica, spostando il focus dall'assistenza materiale passiva al rafforzamento familiare attivo e alla promozione dell'autonomia dei cittadini. Il dicastero lavora inoltre alla modernizzazione e alla revisione degli elenchi dei beneficiari per aumentare l'efficienza e liberare risorse da destinare ad altri cittadini. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/sozavo-legt-focus-op-zelfredzaamheid-gezinsversterking-en-modernisering/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-16T23:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z62762ac7",
+   "sez": "mondo",
+   "titolo": "Suriname, il capo della polizia vuole ridurre la distanza con la società",
+   "orig": "Korpschef wil afstand tussen politie en samenleving verkleinen",
+   "lead": "Il capo della polizia del Suriname, Melvin Pinas, ha visitato venerdì i mercati Centrale e Vreedzaam a Paramaribo come parte dell'iniziativa 'Kon Mit' KC', con l'obiettivo di ridurre la distanza tra il Corpo di Polizia e la popolazione. Pinas ha dichiarato di voler stare vicino alla comunità insieme al suo team. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/korpschef-pinas-wil-afstand-tussen-politie-en-samenleving-verkleinen/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-16T21:18+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z962da3d3",
+   "sez": "mondo",
+   "titolo": "Bolivia e Cile, Paz e Kast concordano di modernizzare le relazioni economiche senza toccare il tema marittimo",
+   "orig": "Kast y Paz acuerdan modernizar las relaciones económicas y no aluden al tema marítimo",
+   "lead": "Il presidente boliviano Rodrigo Paz ha valutato positivamente l'incontro con il presidente cileno José Antonio Kast, definendolo storico e sottolineando i progressi concordati sul piano economico. Nella dichiarazione congiunta i due leader non hanno fatto riferimento alla questione dell'accesso al mare, da sempre centrale nelle relazioni tra i due Paesi. Lo riferisce Opinión.",
+   "more": [
+    "La disputa sull'accesso al mare risale alla Guerra del Pacifico del XIX secolo, quando la Bolivia perse il proprio litorale a favore del Cile; il tema resta una questione sensibile nelle relazioni bilaterali tra i due Paesi andini."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/kast-paz-acuerdan-modernizar-relaciones-economicas-aluden-tema-maritimo/20261016223518997726.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T22:35-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2053b037",
+   "sez": "mondo",
+   "titolo": "Bolivia, la Chiesa cattolica contro l'eutanasia: 'la vita è un dono sacro di Dio'",
+   "orig": "Iglesia cuestiona la eutanasia: “la vida es un don sagrado de Dios, no es una propiedad de la que podamos disponer”",
+   "lead": "La Chiesa Cattolica in Bolivia ha espresso il proprio rifiuto verso la legalizzazione dell'eutanasia, difendendo il valore della vita umana come dono di Dio in tutte le sue fasi, dalla concezione alla fase terminale. Il pronunciamento arriva mentre nel Paese si discute il tema. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/iglesia-cuestiona-eutanasia-vida-es-don-sagrado-dios-es-propiedad-que-podamos-disponer/20261016192730997724.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T19:27-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z35e43c84",
+   "sez": "mondo",
+   "titolo": "Bolivia, indagati 12 funzionari per presunti 'posti fantasma' in un ospedale di Chuquisaca",
+   "orig": "Investigan a 12 funcionarios por presuntos ítems fantasma en el Hospital de Tercer Nivel de Chuquisaca",
+   "lead": "Il responsabile dell'Unità di Trasparenza del governo autonomo departamental di Chuquisaca, Adrián Zárate, ha informato che è in corso un'indagine su una denuncia riguardante 12 funzionari che sarebbero stati assunti per circa sei mesi nell'ospedale di terzo livello della regione senza svolgere effettivamente le funzioni previste. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/investigan-12-funcionarios-presuntos-items-fantasma-hospital-tercer-nivel-chuquisaca/20261016192012997720.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-16T19:20-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb495faaf",
+   "sez": "mondo",
+   "titolo": "Pugilato, Figueroa perde il titolo WBA dei pesi piuma per non aver fatto il peso",
+   "orig": "Figueroa loses WBA featherweight title after missing weight",
+   "lead": "Il pugile Figueroa è stato privato del titolo mondiale WBA dei pesi piuma dopo essersi presentato oltre il limite di peso previsto per la categoria. Lo riferisce CNA.",
+   "more": [
+    "Nel pugilato, il mancato rispetto del limite di peso stabilito per una categoria comporta generalmente la perdita automatica del titolo in palio, indipendentemente dal risultato dell'incontro."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/figueroa-loses-wba-featherweight-title-after-missing-weight-6467986",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T13:19+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdca3a6fa",
+   "sez": "economia",
+   "titolo": "Grandi banche di sviluppo intensificano il sostegno alle filiere dei minerali critici",
+   "orig": "Major development banks step up support for critical minerals value chains",
+   "lead": "Importanti banche multilaterali di sviluppo hanno annunciato un rafforzamento del sostegno alle catene di valore dei minerali critici, risorse fondamentali per tecnologie come batterie ed energie rinnovabili. Lo riferisce CNA.",
+   "more": [
+    "I minerali critici, tra cui litio, cobalto e terre rare, sono essenziali per la produzione di batterie, pannelli solari e dispositivi tecnologici, e la loro catena di approvvigionamento è oggetto di crescente attenzione geopolitica ed economica globale."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/major-development-banks-step-up-support-critical-minerals-value-chains-6467911",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-17T12:14+08:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z263775ee",
+   "sez": "mondo",
+   "titolo": "Isole Salomone, il ministro degli Esteri accoglie il nuovo console honorario filippino",
+   "orig": "Foreign Minister Houenipwela welcomes the appointment of Philippines Honorary Consul to Solomon Islands",
+   "lead": "Il ministro degli Esteri delle Isole Salomone, Houenipwela, ha accolto favorevolmente la nomina del nuovo console honorario delle Filippine presso le Isole Salomone, in un gesto di rafforzamento delle relazioni diplomatiche bilaterali. Lo riferisce SIBC.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SIBC",
+     "p": "XX",
+     "c": "Honiara",
+     "u": "https://www.sibconline.com.sb/foreign-minister-houenipwela-welcomes-the-appointment-of-philippines-honorary-consul-to-solomon-islands/",
+     "angolo": "",
+     "atlas": "Solomon Is.",
+     "t": "2026-10-17T03:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z75ecd476",
+   "sez": "mondo",
+   "titolo": "Cresce l'appello per salvare l'isola di Gamua, a rischio scomparsa",
+   "orig": "Calls grow to save North Malaita’s disappearing Gamua Island",
+   "lead": "Nel nord di Malaita, nelle Isole Salomone, si moltiplicano gli appelli per salvare l'isola di Gamua, che sta progressivamente scomparendo a causa dell'erosione costiera. Lo riferisce SIBC.",
+   "more": [
+    "Le piccole isole del Pacifico sono particolarmente vulnerabili all'innalzamento del livello del mare e all'erosione, fenomeni che minacciano la sopravvivenza di comunità costiere e interi ecosistemi insulari in tutta la regione."
+   ],
+   "fonti": [
+    {
+     "n": "SIBC",
+     "p": "XX",
+     "c": "Honiara",
+     "u": "https://www.sibconline.com.sb/calls-grow-to-save-north-malaitas-disappearing-gamua-island/",
+     "angolo": "",
+     "atlas": "Solomon Is.",
+     "t": "2026-10-17T02:34+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z007528c8",
+   "sez": "mondo",
+   "titolo": "Giornata mondiale contro la povertà, proteste contro il costo della vita",
+   "orig": "06h No Dia Mundial da Erradicação da Pobreza há protestos contra o aumento do custo de vida",
+   "lead": "Nella Giornata mondiale per l'eliminazione della povertà si sono registrate proteste contro l'aumento del costo della vita. Lo riferisce RTP.",
+   "more": [
+    "La Giornata mondiale per l'eliminazione della povertà, istituita dalle Nazioni Unite, ricorre ogni anno per sensibilizzare sulle condizioni di miseria che colpiscono milioni di persone nel mondo e sollecitare azioni politiche concrete."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/06h-no-dia-mundial-da-erradicacao-da-pobreza-ha-protestos-contra-o-aumento-do-custo-de-vida_a1_1772253",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za561f9a1",
+   "sez": "mondo",
+   "titolo": "Trump rinvia nuove sanzioni contro la Russia",
+   "orig": "05h Donald Trump adia novas sanções contra a Rússia",
+   "lead": "Il presidente degli Stati Uniti Donald Trump ha rinviato l'imposizione di nuove sanzioni contro la Russia. Lo riferisce RTP.",
+   "more": [
+    "Le sanzioni occidentali contro Mosca, intensificate dopo l'invasione dell'Ucraina nel 2022, sono uno strumento di pressione economica usato da Stati Uniti e alleati per colpire settori strategici dell'economia russa."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/05h-donald-trump-adia-novas-sancoes-contra-a-russia_a1_1772249",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T06:21+01:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z90e18bb2",
+   "sez": "ambiente",
+   "titolo": "In crescita il consumo di elettricità, in calo quello di petrolio e gas",
+   "orig": "Forbruget af el stiger - imens falder forbrug af olie og gas",
+   "lead": "Il consumo di elettricità è in aumento mentre quello di petrolio e gas è in calo, secondo dati riportati da DR Nyheder. Lo riferisce DR Nyheder.",
+   "more": [
+    "La transizione energetica verso fonti elettriche e rinnovabili è un processo in atto in molti paesi per ridurre la dipendenza dai combustibili fossili e le relative emissioni di gas serra."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/forbruget-af-el-stiger-imens-falder-forbrug-af-olie-og-gas",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-17T05:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd8db0c97",
+   "sez": "mondo",
+   "titolo": "La Moldova condanna la Russia dopo l'intrusione di drone nello spazio aereo",
+   "orig": "Moldova fordømmer Rusland efter droners indtrængen i luftrum",
+   "lead": "La Moldova ha condannato la Russia dopo l'intrusione di un drone nel proprio spazio aereo. Lo riferisce DR Nyheder.",
+   "more": [
+    "La Moldova, paese confinante con l'Ucraina, ha segnalato più volte violazioni del proprio spazio aereo nel contesto del conflitto russo-ucraino, episodi che alimentano tensioni diplomatiche con Mosca."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/moldova-fordoemmer-rusland-efter-droners-indtraengen-i-luftrum",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-17T04:56+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z86d9abfc",
+   "sez": "sport",
+   "titolo": "Insulti razzisti al calciatore sudcoreano Eom Ji-seong, arrestato un 50enne in Inghilterra",
+   "orig": "몸 풀던 엄지성에 인종차별 폭언…50대 남성, 영국 경찰에 체포",
+   "lead": "Un uomo di circa cinquant'anni è stato arrestato dalla polizia britannica dopo aver pronunciato insulti razzisti contro il calciatore sudcoreano Eom Ji-seong mentre si riscaldava in campo. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Episodi di razzismo negli stadi britannici restano un tema sensibile nel calcio, con le autorità e le federazioni che negli ultimi anni hanno intensificato i controlli e le sanzioni contro i responsabili di insulti discriminatori."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/europe/1282847.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z74196795",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, 'profondo rammarico' per nuova offerta del premier giapponese al santuario Yasukuni",
+   "orig": "정부, 일본 총리 야스쿠니 공물 또 봉납하자…“깊은 실망과 유감”",
+   "lead": "Il governo sudcoreano ha espresso profonda delusione e rammarico dopo che il primo ministro giapponese ha nuovamente inviato un'offerta al santuario Yasukuni. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Il santuario Yasukuni a Tokyo onora i caduti giapponesi, compresi criminali di guerra condannati, e le visite o offerte di leader politici giapponesi suscitano regolarmente proteste da Corea del Sud e Cina per il suo legame con il passato militarista."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/japan/1282846.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z713f00bb",
+   "sez": "mondo",
+   "titolo": "Mumbai, demolita parte della villa di Ajay Devgn per presunta costruzione illegale",
+   "orig": "Ajay Devgn’s Juhu bungalow: BMC demolishes part of alleged illegal construction",
+   "lead": "Le autorità municipali di Mumbai (BMC) hanno demolito parte della villa dell'attore Ajay Devgn a Juhu, ritenuta frutto di una costruzione illegale. Lo riferisce Gulf News.",
+   "more": [
+    "Juhu è un quartiere residenziale di prestigio a Mumbai, in India, popolato da celebrità del cinema di Bollywood; le violazioni edilizie e le demolizioni da parte delle autorità municipali sono frequenti nella città."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/entertainment/bollywood/ajay-devgns-juhu-bungalow-bmc-demolishes-part-of-alleged-illegal-construction-1.500713893",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-17T09:47+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z51bbbef5",
+   "sez": "tech",
+   "titolo": "Il sud-est asiatico si trova tra i blocchi concorrenti dell'IA di Stati Uniti e Cina",
+   "orig": "Southeast Asia caught amid competing US and Chinese AI blocs",
+   "lead": "I paesi del sud-est asiatico si trovano stretti tra i blocchi tecnologici rivali di Stati Uniti e Cina nel settore dell'intelligenza artificiale. Lo riferisce Nikkei Asia.",
+   "more": [
+    "La competizione tecnologica tra Washington e Pechino nel campo dell'intelligenza artificiale coinvolge infrastrutture, chip e standard, costringendo molti paesi terzi a scegliere con cautela le proprie alleanze tecnologiche ed economiche."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5270328f",
+   "sez": "ingegneria",
+   "titolo": "Sumitomo e Hankyu testeranno un sistema ferroviario a basso consumo nelle Filippine",
+   "orig": "Japan's Sumitomo, Hankyu to test Philippine power-saving rail system",
+   "lead": "Le giapponesi Sumitomo e Hankyu testeranno nelle Filippine un sistema ferroviario pensato per il risparmio energetico. Lo riferisce Nikkei Asia.",
+   "more": [
+    "Le aziende giapponesi del settore ferroviario esportano da tempo tecnologie per il trasporto su rotaia in Asia, spesso puntando sull'efficienza energetica per rispondere alla crescente domanda di mobilità urbana nei paesi in sviluppo."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/transportation/japan-s-sumitomo-hankyu-to-test-philippine-power-saving-rail-system",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5c45f340",
+   "sez": "mondo",
+   "titolo": "Iran e Kazakistan vogliono rafforzare la cooperazione ferroviaria regionale",
+   "orig": "Iran, Kazakhstan seek to strengthen regional railway cooperation",
+   "lead": "Iran e Kazakistan cercano di rafforzare la cooperazione nel settore ferroviario regionale. Lo riferisce Trend.",
+   "more": [
+    "I corridoi ferroviari tra Asia centrale e Iran sono considerati strategici per i collegamenti commerciali tra Asia, Caucaso e Europa, offrendo rotte alternative ai tradizionali percorsi marittimi."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/iran/4236007.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-17T10:10+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z59bb4178",
+   "sez": "mondo",
+   "titolo": "Elezioni comunali in California, tre candidati bangladesi-americani in tre città",
+   "orig": "California city council elections: 3 Bangladeshi-Americans run in 3 cities",
+   "lead": "Tre candidati di origine bangladese si presentano alle elezioni dei consigli comunali in tre diverse città della California. Lo riferisce Prothom Alo.",
+   "more": [
+    "La diaspora bangladese negli Stati Uniti è attiva in diversi ambiti, inclusa la politica locale, con una crescente partecipazione alle elezioni amministrative in varie città americane."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/5qyu595w5c",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-17T05:19+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdfc3a5f6",
+   "sez": "cultura",
+   "titolo": "Durga Puja, oggi il Maha Saptami",
+   "orig": "Durga Puja: Maha Saptami today",
+   "lead": "Oggi si celebra il Maha Saptami, una delle giornate principali della festività induista Durga Puja. Lo riferisce Prothom Alo.",
+   "more": [
+    "Durga Puja è una delle festività induiste più importanti nel Bengala e in altre regioni del subcontinente indiano, celebrata con riti, processioni e l'adorazione della dea Durga per diversi giorni consecutivi."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/w2z340pr3u",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-17T05:06+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9662e414",
+   "sez": "mondo",
+   "titolo": "Gaza, persiste la fame imposta da Israele nonostante il cessate il fuoco",
+   "orig": "Israeli-enforced starvation persists in Gaza despite ceasefire",
+   "lead": "Nonostante il cessate il fuoco in vigore, nella Striscia di Gaza persiste una situazione di fame imposta da Israele. Lo riferisce Sun Online.",
+   "more": [
+    "Dopo mesi di conflitto, un cessate il fuoco a Gaza ha ridotto le operazioni militari, ma le organizzazioni umanitarie continuano a denunciare gravi carenze di cibo e aiuti per la popolazione civile palestinese."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109606",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-17T10:09+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf83a9461",
+   "sez": "mondo",
+   "titolo": "Consiglio comunale di Malé farà causa al governo per la ripresa di 14 lotti di terreno",
+   "orig": "Male’ City Council to file court case over govt repossession of 14 land plots",
+   "lead": "Il Consiglio comunale di Malé intende presentare un'azione legale contro il governo maldiviano per la riappropriazione di 14 lotti di terreno. Lo riferisce Sun Online.",
+   "more": [
+    "Malé è la densamente popolata capitale delle Maldive, dove la scarsità di terreni edificabili rende particolarmente delicate le dispute tra autorità locali e governo centrale sulla gestione del suolo urbano."
+   ],
+   "fonti": [
+    {
+     "n": "Sun Online",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://see.mv/109603",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-17T00:38+05:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze6f3ad03",
+   "sez": "mondo",
+   "titolo": "Abbattuto un missile diretto verso Yanbu, in Arabia Saudita",
+   "orig": "ސަޢުދީގެ ޔަންބުޢަށް އަމާޒުވި މިސައިލެއް ވައްޓާލައިފި",
+   "lead": "Un missile diretto verso la città saudita di Yanbu è stato intercettato e abbattuto. Lo riferisce PSM News.",
+   "more": [
+    "Yanbu è un importante porto industriale ed energetico sul Mar Rosso, in Arabia Saudita, che negli ultimi anni è stato occasionalmente preso di mira da attacchi missilistici legati alle tensioni regionali in Medio Oriente."
+   ],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190386",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-17T10:41+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd1e000be",
+   "sez": "mondo",
+   "titolo": "Avviate consultazioni sul progetto Arise in 13 isole delle Maldive",
+   "orig": "އެރައިޒް މަޝްރޫއަށް ޚިޔާލު ހޯދުމުގެ ބައްދަލުވުންތައް 13 ރަށެއްގައި ފަށައިފި",
+   "lead": "Sono iniziate incontri di consultazione pubblica sul progetto Arise in 13 isole delle Maldive. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190383",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-17T10:09+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z68451151",
+   "sez": "mondo",
+   "titolo": "Il presidente del Kirghizistan discute con il direttore generale dell'UNESCO di espandere la cooperazione",
+   "orig": "President of Kyrgyzstan and UNESCO Director-General discuss expanding cooperation",
+   "lead": "Il presidente del Kirghizistan ha incontrato il direttore generale dell'UNESCO per discutere l'ampliamento della cooperazione tra il paese e l'organizzazione. Lo riferisce AKIpress.",
+   "more": [
+    "L'UNESCO è l'agenzia delle Nazioni Unite per l'educazione, la scienza e la cultura, impegnata in programmi di cooperazione internazionale con gli Stati membri su patrimonio culturale, istruzione e scienza."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925502",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-17T10:47+06:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd0154063",
+   "sez": "mondo",
+   "titolo": "Dastan Murzaliev nominato sindaco della città di Nookat",
+   "orig": "Dastan Murzaliev appointed mayor of Nookat city",
+   "lead": "Dastan Murzaliev è stato nominato sindaco della città di Nookat, in Kirghizistan. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925490",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-17T09:35+06:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z965cc09c",
+   "sez": "mondo",
+   "titolo": "Sudafrica, pazienti incatenati salvati in un presunto centro di riabilitazione illegale",
+   "orig": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+   "lead": "In Sudafrica alcuni pazienti sono stati trovati incatenati e soccorsi in un centro di riabilitazione sospettato di operare illegalmente. Lo riferisce Nile Post.",
+   "more": [
+    "I centri di riabilitazione non autorizzati per dipendenze o disturbi psichiatrici restano un problema in diversi paesi africani, dove la mancanza di controlli può portare a gravi abusi sui pazienti ricoverati."
+   ],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/379409/patients-in-chains-rescued-from-suspected-illegal-rehab-centre-in-south-africa",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-16T22:04+03:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z215ed1aa",
+   "sez": "cultura",
+   "titolo": "La principessa Aiko visita una mostra su Detective Conan e racconta la sua passione per la serie",
+   "orig": "愛子さま、「名探偵コナン」の展示鑑賞 映画やテレビも見たと明かす",
+   "lead": "La principessa Aiko del Giappone ha visitato una mostra dedicata al celebre manga e anime 'Detective Conan', rivelando di aver seguito anche i film e le serie televisive legate al personaggio. La visita, riportata dal quotidiano Asahi Shimbun, offre uno spaccato degli interessi personali della principessa, figlia dell'imperatore Naruhito, per uno dei franchise di fumetti e animazione più popolari del Giappone. Lo riferisce Asahi Shimbun.",
+   "more": [
+    "'Detective Conan' è un celebre manga e anime giapponese ideato da Gosho Aoyama, con protagonista un giovane detective trasformato in bambino, diventato un fenomeno di cultura popolare in Giappone con numerosi film e serie derivate."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBK1322VBKPQIP004M.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-17T12:39+09:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5b0a2161",
+   "sez": "ambiente",
+   "titolo": "Un rapporto del Perù avverte: gli effetti di El Niño potrebbero durare fino a metà 2027",
+   "orig": "Los efectos de El Niño pueden extenderse hasta mediados de 2027, advierte informe de Perú",
+   "lead": "Un rapporto diffuso in Perù avverte che gli effetti del fenomeno climatico El Niño potrebbero estendersi fino alla metà del 2027. Il documento, citato dal quotidiano paraguaiano ABC Color, mette in guardia sulle possibili conseguenze prolungate di questo fenomeno oceanico-atmosferico che influenza il clima in diverse regioni del mondo, con particolare impatto sulle coste sudamericane del Pacifico. Lo riferisce ABC Color.",
+   "more": [
+    "El Niño è un fenomeno climatico ciclico legato al riscaldamento anomalo delle acque superficiali dell'Oceano Pacifico, che altera i regimi di piogge e temperature a livello globale, causando siccità in alcune regioni e alluvioni in altre, specialmente in Sud America."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/17/los-efectos-de-el-nino-pueden-extenderse-hasta-mediados-de-2027-advierte-informe-de-peru/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-17T06:05+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z951f40c5",
+   "sez": "mondo",
+   "titolo": "Mauritius: Lesjongard denuncia 'dilettantismo' del governo sulla responsabilità penale dei minori",
+   "orig": "Responsabilité pénale des mineurs : Lesjongard dénonce «l’amateurisme» du gouvernement",
+   "lead": "Il politico mauriziano Lesjongard ha criticato duramente il governo di Mauritius, accusandolo di 'dilettantismo' nella gestione della questione della responsabilità penale dei minori. La dichiarazione, riportata dal quotidiano Defimedia, si inserisce in un dibattito politico interno sulle riforme legate alla giustizia minorile nell'isola dell'Oceano Indiano. Lo riferisce Defimedia.",
+   "more": [
+    "Mauritius è uno stato insulare dell'Oceano Indiano con un sistema politico parlamentare multipartitico, dove le questioni di giustizia penale, inclusa quella relativa ai minori, sono spesso oggetto di confronto tra governo e opposizione."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/responsabilite-penale-des-mineurs-lesjongard-denonce-lamateurisme-du-gouvernement",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-17T06:30+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9f2ee49e",
+   "sez": "mondo",
+   "titolo": "Michel Martelly è ufficialmente candidato alla presidenza di Haiti",
+   "orig": "Michel Martelly officially a presidential candidate",
+   "lead": "L'ex presidente di Haiti Michel Martelly è diventato ufficialmente candidato alla carica presidenziale del paese caraibico, secondo quanto riportato dal quotidiano Le Nouvelliste. La notizia segna il ritorno in campo politico dell'ex capo di stato, in un contesto haitiano segnato da anni di instabilità politica e sicurezza precaria. Lo riferisce Le Nouvelliste.",
+   "more": [
+    "Michel Martelly è stato presidente di Haiti dal 2011 al 2016. Il paese caraibico attraversa da anni una profonda crisi politica, economica e di sicurezza, con elezioni spesso rinviate e un vuoto di governance che ha favorito l'espansione di gruppi armati."
+   ],
+   "fonti": [
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273047/michel-martelly-officially-a-presidential-candidate",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-16T21:35+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zff9710a3",
+   "sez": "ingegneria",
+   "titolo": "Guatemala: a che punto sono i lavori della linea 2 dell'AeroMetro sulla Roosevelt",
+   "orig": "AeroMetro línea 2: qué trabajos avanzan en la Roosevelt y cuándo estará terminada",
+   "lead": "Il quotidiano guatemalteco Prensa Libre fa il punto sui lavori in corso per la linea 2 dell'AeroMetro lungo l'avenida Roosevelt, a Città del Guatemala, descrivendo lo stato di avanzamento del cantiere e le prospettive sui tempi di completamento dell'infrastruttura di trasporto pubblico. Il progetto rientra nei piani di ampliamento della rete di trasporto rapido della capitale guatemalteca. Lo riferisce Prensa Libre.",
+   "more": [
+    "L'AeroMetro è un sistema di trasporto rapido su gomma in fase di sviluppo a Città del Guatemala, pensato per alleviare la congestione del traffico nella capitale attraverso corsie dedicate e stazioni lungo i principali assi viari della città."
+   ],
+   "fonti": [
+    {
+     "n": "Prensa Libre",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://www.prensalibre.com/web-stories/aerometro-linea-2-que-trabajos-se-realizan-en-la-roosevelt-y-cuando-podria-estar-terminada-la-obra/",
+     "angolo": "",
+     "atlas": "Guatemala",
+     "t": "2026-10-17T04:06+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z81659c9e",
+   "sez": "mondo",
+   "titolo": "Megacarceri: il Costa Rica ci ha messo 10 mesi, il Guatemala accumula quattro anni di ritardi",
+   "orig": "Megacárceles: Costa Rica tardó 10 meses y Guatemala suma cuatro años de retrasos",
+   "lead": "Il quotidiano Prensa Libre confronta i tempi di realizzazione delle 'megacarceri' in Centro America, rilevando che il Costa Rica ha completato la propria struttura in 10 mesi, mentre il Guatemala accumula quattro anni di ritardi nella costruzione del proprio progetto carcerario. Il confronto mette in luce le difficoltà amministrative e infrastrutturali che affliggono il paese guatemalteco rispetto ai vicini. Lo riferisce Prensa Libre.",
+   "more": [
+    "Le 'megacarceri' sono grandi complessi penitenziari costruiti in diversi paesi latinoamericani per contrastare il sovraffollamento carcerario e il potere delle gang criminali, seguendo un modello reso noto da El Salvador negli ultimi anni."
+   ],
+   "fonti": [
+    {
+     "n": "Prensa Libre",
+     "p": "XX",
+     "c": "Città del Guatemala",
+     "u": "https://www.prensalibre.com/web-stories/costa-rica-construyo-una-megacarcel-en-10-meses-por-que-guatemala-lleva-anos-sin-lograrlo/",
+     "angolo": "",
+     "atlas": "Guatemala",
+     "t": "2026-10-17T04:01+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "09:06",
+   "uscita": "mattino"
+  },
+  {
    "id": "z5d6e2a61",
    "sez": "mondo",
    "titolo": "Otto giovani imprenditori in gara per il Business Plan Innovation Award 2026 a Dominica",
@@ -12662,7 +13740,53 @@ window.EDIZIONI["2026-10-17"] = {
   "za81c1cb7": "La Nouvelle Tribune riporta le dichiarazioni di Putin sull'obiettivo politico dietro l'avanzata militare.",
   "z1786cd0e": "La Nouvelle Tribune riporta la dichiarazione vaga di Trump senza ulteriori chiarimenti sul contenuto promesso.",
   "z6fc1872a": "La Nouvelle Tribune riporta l'impegno francese ribadito al vertice europeo.",
-  "z4b19b6e0": "Gabonactu riporta l'iniziativa legale dei partiti come contestazione formale della riforma governativa."
+  "z4b19b6e0": "Gabonactu riporta l'iniziativa legale dei partiti come contestazione formale della riforma governativa.",
+  "z7749ef03": "Alakhbar riporta l'incontro come parte della cooperazione istituzionale tra ONU e autorità mauritane.",
+  "zf93b6861": "Alakhbar riporta il bilancio diffuso dalla Croce Rossa gambiana.",
+  "z554f6edb": "Kapitalis presenta l'iniziativa come parte di un programma più ampio di sviluppo locale nelle regioni interne della Tunisia.",
+  "zb7f655a4": "Mosaïque FM riporta la conferma del caso senza ulteriori dettagli.",
+  "z9c957b6c": "Mosaïque FM riporta le stime ufficiali sulla produzione regionale.",
+  "zd5d9f1b9": "Panamá América evidenzia l'attenzione alle conseguenze del sisma sugli animali, oltre che sulle persone.",
+  "z05f94621": "Panamá América riporta i dettagli dell'erogazione dei fondi assicurativi.",
+  "zb0415d65": "Panamá América segnala l'incertezza scientifica sulla natura del fenomeno osservato.",
+  "z8cc3427f": "Newsroom Panama presenta l'inaugurazione come un investimento sanitario per la regione.",
+  "z08d7689e": "Newsroom Panama evidenzia l'impegno personale del sindaco nella campagna di solidarietà.",
+  "z0c8f833e": "De Ware Tijd riporta l'evento come intervento infrastrutturale del governo.",
+  "z6acd01ee": "De Ware Tijd riporta l'appello del ministro durante le celebrazioni ufficiali.",
+  "z2c9211ad": "De Ware Tijd descrive la riforma come un cambiamento strutturale nella politica sociale del governo.",
+  "z62762ac7": "De Ware Tijd racconta la visita come parte di una strategia di avvicinamento tra forze dell'ordine e cittadini.",
+  "z962da3d3": "Opinión mette in evidenza l'assenza di riferimenti al tema marittimo nell'incontro.",
+  "z2053b037": "Opinión riporta la posizione ufficiale della Chiesa cattolica boliviana sul tema.",
+  "z35e43c84": "Opinión riporta i dettagli dell'indagine avviata dall'unità anticorruzione locale.",
+  "zb495faaf": "CNA riporta la decisione senza fornire ulteriori dettagli sull'incontro.",
+  "zdca3a6fa": "CNA riporta l'iniziativa senza ulteriori dettagli su cifre o Paesi coinvolti.",
+  "z263775ee": "SIBC riporta la dichiarazione del ministro senza ulteriori dettagli sulla figura nominata.",
+  "z75ecd476": "SIBC documenta la mobilitazione locale per la tutela dell'isola minacciata.",
+  "z007528c8": "RTP collega la giornata simbolica alle proteste sul caro vita in corso.",
+  "za561f9a1": "RTP segnala il rinvio come scelta politica di Washington nel dossier Russia.",
+  "z90e18bb2": "DR Nyheder presenta il dato come segnale della transizione energetica in corso.",
+  "zd8db0c97": "DR Nyheder riporta la condanna ufficiale moldava come reazione diretta all'episodio.",
+  "z86d9abfc": "The Hankyoreh sottolinea la pronta reazione della polizia britannica all'episodio.",
+  "z74196795": "The Hankyoreh riporta la protesta diplomatica ufficiale di Seul.",
+  "z713f00bb": "Gulf News riporta l'intervento municipale come caso di applicazione delle norme edilizie.",
+  "z51bbbef5": "Nikkei Asia analizza le pressioni geopolitiche sui paesi della regione.",
+  "z5270328f": "Nikkei Asia presenta l'iniziativa come test tecnologico giapponese nel mercato filippino.",
+  "z5c45f340": "Trend riporta l'intesa come passo verso una maggiore integrazione regionale.",
+  "z59bb4178": "Prothom Alo segue la partecipazione politica della comunità bangladese-americana.",
+  "zdfc3a5f6": "Prothom Alo segnala la ricorrenza religiosa nel suo calendario di festività.",
+  "z9662e414": "Sun Online denuncia la persistenza della crisi alimentare nonostante la tregua formale.",
+  "zf83a9461": "Sun Online riporta la posizione del consiglio comunale contro la decisione governativa.",
+  "ze6f3ad03": "PSM News riporta brevemente l'episodio senza ulteriori dettagli sull'origine dell'attacco.",
+  "zd1e000be": "PSM News documenta il processo partecipativo legato al progetto.",
+  "z68451151": "AKIpress riporta l'incontro come segnale di rafforzamento dei legami internazionali del paese.",
+  "zd0154063": "AKIpress riporta la nomina come notizia amministrativa locale.",
+  "z965cc09c": "Nile Post denuncia le condizioni di abuso scoperte nel centro.",
+  "z215ed1aa": "Asahi Shimbun racconta l'episodio come curiosità personale legata alla famiglia imperiale giapponese.",
+  "z5b0a2161": "ABC Color riprende l'allarme di un rapporto peruviano senza ulteriori fonti di conferma.",
+  "z951f40c5": "Defimedia riporta la critica dell'opposizione senza la risposta del governo.",
+  "z9f2ee49e": "Le Nouvelliste riporta la candidatura come fatto politico senza commenti aggiuntivi.",
+  "zff9710a3": "Prensa Libre descrive lo stato dei lavori con taglio informativo locale.",
+  "z81659c9e": "Prensa Libre mette a confronto i due paesi per evidenziare le inefficienze guatemalteche."
  },
  "contesti": {
   "ucrainaguerra": "Da mesi Washington media tra Kyiv e Mosca nel quadro dei negoziati promossi dall'amministrazione Trump. Nella notte tra il 13 e il 14 ottobre i terminali Starshield/Starlink usati dall'esercito ucraino hanno smesso di funzionare oltre i 160 km/h su ordine della Casa Bianca: Zelensky, che si è detto «tradito», ha annunciato la ripresa degli attacchi alle raffinerie russe, mentre Musk ha attaccato pubblicamente il leader ucraino e Trump lo ha definito «più difficile di Putin». Una settimana fa Trump ha concordato con Putin l'arrivo di diesel russo sul mercato globale per calmierare i prezzi dei carburanti.",
@@ -16276,6 +17400,316 @@ window.EDIZIONI["2026-10-17"] = {
     "Gabon"
    ],
    "pt": []
+  },
+  "z7749ef03": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "zf93b6861": {
+   "n": "Gambia",
+   "p": [
+    "Gambia"
+   ],
+   "pt": []
+  },
+  "z554f6edb": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zb7f655a4": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z9c957b6c": {
+   "n": "Kairouan",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zd5d9f1b9": {
+   "n": "Azuero",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z05f94621": {
+   "n": "Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "zb0415d65": {
+   "n": "Isla Cañas",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z8cc3427f": {
+   "n": "Bugaba",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z08d7689e": {
+   "n": "Macaracas",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z0c8f833e": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z6acd01ee": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z2c9211ad": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z62762ac7": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z962da3d3": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z2053b037": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z35e43c84": {
+   "n": "Chuquisaca",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z263775ee": {
+   "n": "Honiara",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
+  },
+  "z75ecd476": {
+   "n": "Malaita",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
+  },
+  "z007528c8": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "za561f9a1": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z90e18bb2": {
+   "n": "Danimarca",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "zd8db0c97": {
+   "n": "Moldova",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z86d9abfc": {
+   "n": "Inghilterra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z74196795": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z713f00bb": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z51bbbef5": {
+   "n": "Sud-est asiatico",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z5270328f": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z5c45f340": {
+   "n": "Asia centrale",
+   "p": [
+    "Iran",
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z59bb4178": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdfc3a5f6": {
+   "n": "Bengala",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z9662e414": {
+   "n": "Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zf83a9461": {
+   "n": "Malé",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "ze6f3ad03": {
+   "n": "Yanbu",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zd1e000be": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "z68451151": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "zd0154063": {
+   "n": "Nookat",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z965cc09c": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z215ed1aa": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z5b0a2161": {
+   "n": "Perù",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z951f40c5": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z9f2ee49e": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zff9710a3": {
+   "n": "Città del Guatemala",
+   "p": [
+    "Guatemala"
+   ],
+   "pt": []
+  },
+  "z81659c9e": {
+   "n": "Guatemala",
+   "p": [
+    "Guatemala",
+    "Costa Rica"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -16733,7 +18167,53 @@ window.EDIZIONI["2026-10-17"] = {
   "za81c1cb7": 2,
   "z1786cd0e": 1,
   "z6fc1872a": 2,
-  "z4b19b6e0": 1
+  "z4b19b6e0": 1,
+  "z7749ef03": 1,
+  "zf93b6861": 2,
+  "z554f6edb": 1,
+  "zb7f655a4": 1,
+  "z9c957b6c": 1,
+  "zd5d9f1b9": 1,
+  "z05f94621": 2,
+  "zb0415d65": 1,
+  "z8cc3427f": 1,
+  "z08d7689e": 1,
+  "z0c8f833e": 1,
+  "z6acd01ee": 1,
+  "z2c9211ad": 1,
+  "z62762ac7": 1,
+  "z962da3d3": 2,
+  "z2053b037": 1,
+  "z35e43c84": 1,
+  "zb495faaf": 1,
+  "zdca3a6fa": 1,
+  "z263775ee": 1,
+  "z75ecd476": 1,
+  "z007528c8": 1,
+  "za561f9a1": 2,
+  "z90e18bb2": 1,
+  "zd8db0c97": 2,
+  "z86d9abfc": 1,
+  "z74196795": 1,
+  "z713f00bb": 1,
+  "z51bbbef5": 1,
+  "z5270328f": 1,
+  "z5c45f340": 1,
+  "z59bb4178": 1,
+  "zdfc3a5f6": 1,
+  "z9662e414": 2,
+  "zf83a9461": 1,
+  "ze6f3ad03": 1,
+  "zd1e000be": 1,
+  "z68451151": 1,
+  "zd0154063": 1,
+  "z965cc09c": 2,
+  "z215ed1aa": 1,
+  "z5b0a2161": 1,
+  "z951f40c5": 1,
+  "z9f2ee49e": 1,
+  "zff9710a3": 1,
+  "z81659c9e": 1
  },
  "video": {},
  "pillole": []
