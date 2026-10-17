@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z5cd57e1a":[["2026-10-15","z7f8ac585","15 ott","NBA: Kasparas Jakučionis critico dopo l'esordio con i Bucks"]],"z1f8056f8":[["2026-10-15-sera","zfad8f1a9","15 ott","Bleach: Thousand-Year Blood War, stagione 4 episodio 9, quando esce la nuova puntata"]]});
