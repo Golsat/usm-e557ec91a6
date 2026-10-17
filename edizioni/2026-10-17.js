@@ -190,7 +190,7 @@ window.EDIZIONI["2026-10-17"] = {
    "sez": "prima",
    "titolo": "La Corea del Nord dice di aver testato un torpedo di precisione guidato dall'intelligenza artificiale",
    "orig": "N. Korea conducts underwater test of new precision-guided torpedo using AI: KCNA",
-   "lead": "L'agenzia di Stato nordcoreana KCNA ha riferito che Pyongyang ha condotto un test subacqueo di un nuovo torpedo di precisione, chiamato «Zam-2.0», guidato dall'intelligenza artificiale. L'annuncio arriva pochi giorni dopo che la Corea del Nord aveva detto di aver lanciato da un sottomarino due tipi di missili da crociera, in una sequenza di test che punta a mostrare l'integrazione crescente di sistemi autonomi nell'arsenale militare del regime.",
+   "lead": "L'agenzia di Stato nordcoreana KCNA ha riferito che Pyongyang ha condotto un test subacqueo di un nuovo torpedo di precisione guidato dall'intelligenza artificiale, indicato dall'agenzia venezuelana El Nacional come «Zam-2.0». L'annuncio arriva pochi giorni dopo che la Corea del Nord aveva detto di aver lanciato da un sottomarino due tipi di missili da crociera, in una sequenza di test che punta a mostrare l'integrazione crescente di sistemi autonomi nell'arsenale militare del regime.",
    "more": [
     "L'agenzia venezuelana El Nacional inquadra il test come parte della strategia di Pyongyang per integrare autonomia e IA nel proprio arsenale strategico, mentre il quotidiano delle Maldive Sun Online si limita a riprendere la notizia diffusa da KCNA."
    ],
@@ -303,7 +303,7 @@ window.EDIZIONI["2026-10-17"] = {
    "orig": "Katie Zacharia leaving White House role less than five days into job",
    "lead": "Katie Zacharia ha lasciato l'incarico di portavoce della Casa Bianca dopo appena cinque giorni, il mandato più breve nella storia del ruolo. Il suo debutto pubblico alla guida dei briefing era stato travolto dalle critiche sulle sue credenziali professionali: Zacharia, che per anni si era definita «avvocato» in interviste e apparizioni pubbliche, ha dovuto ammettere di non aver mai superato l'esame di abilitazione né di essere mai stata iscritta a un albo degli avvocati negli Stati Uniti. La Casa Bianca ha confermato che è «in uscita» dal ruolo.",
    "more": [
-    "Secondo la Bbc, il debutto di Zacharia alla guida dei briefing era già stato segnato da una diffusa copertura critica sulla sua preparazione; la Deutsche Welle nota che il caso arriva a pochi giorni dall'inizio dell'incarico, in un momento comunque turbolento per la comunicazione della Casa Bianca."
+    "Secondo la BBC, il debutto di Zacharia alla guida dei briefing era già stato segnato da una diffusa copertura critica sulla sua preparazione; la Deutsche Welle nota che il caso arriva a pochi giorni dall'inizio dell'incarico, in un momento comunque turbolento per la comunicazione della Casa Bianca."
    ],
    "fonti": [
     {
