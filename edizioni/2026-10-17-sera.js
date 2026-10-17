@@ -3,590 +3,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z884cb364",
-   "sez": "salute",
-   "titolo": "Medici chiedono di ridurre il tempo davanti agli schermi nelle scuole inglesi",
-   "orig": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
-   "lead": "Un gruppo di medici britannici ha lanciato un appello per ridurre l'uso della tecnologia nelle aule scolastiche inglesi, avvertendo che l'esposizione prolungata agli schermi sta contribuendo a un aumento di problemi di salute tra gli studenti, come la miopia. I clinici sottolineano la necessità di intervenire per prevenire conseguenze di lungo periodo sulla salute dei più giovani. Lo riferisce BBC News.",
-   "more": [
-    "La miopia e altri disturbi visivi legati all'uso eccessivo di dispositivi digitali sono un tema crescente di preoccupazione sanitaria in molti Paesi, specialmente tra bambini e adolescenti che passano sempre più tempo davanti a tablet, computer e lavagne interattive a scuola."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-13T09:35+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T11:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "zebc902b9",
-   "sez": "cultura",
-   "titolo": "Masterplan: Stanley Tucci sprecato nella commedia di rapine di Amazon",
-   "orig": "Masterplan review – Stanley Tucci is wasted in Amazon’s smooth-brained heist caper",
-   "lead": "La recensione del Guardian critica la nuova serie Amazon \"Masterplan\", una commedia a tinte heist in cui una \"famiglia\" di criminali tenta di rubare la Monna Lisa dal Louvre. Il giornale definisce il prodotto pulp e dimenticabile, sottolineando che l'attore Stanley Tucci, protagonista insieme al nipote dell'attore Jean-Paul Belmondo, Victor Belmondo, e a Simona Tabasco (nota per The White Lotus), meriterebbe un progetto più all'altezza del suo talento. Lo riferisce The Guardian.",
-   "more": [
-    "Stanley Tucci è un attore statunitense noto per ruoli in film come Il diavolo veste Prada e Conclave, oltre che per i suoi documentari culinari, apprezzato per la sua eleganza e versatilità sullo schermo."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/film/2026/oct/16/masterplan-stanley-tucci-movie-review",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T19:24+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "za6295022",
-   "sez": "sport",
-   "titolo": "Everton-Chelsea: diretta Premier League",
-   "orig": "Everton v Chelsea: Premier League – live",
-   "lead": "Everton e Chelsea si affrontano in un match della Premier League con calcio d'inizio alle 12.30 ora britannica. Una vittoria permetterebbe a entrambe le squadre di salire al quarto posto in classifica, almeno temporaneamente. Il Guardian ricorda che l'Everton ha vinto sei delle ultime nove sfide contro il Chelsea in questa competizione, perdendo solo una volta. Lo riferisce The Guardian.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T10:45+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z21073fe4",
-   "sez": "economia",
-   "titolo": "Abi: accelera la crescita dei prestiti a famiglie e imprese, +3,7%",
-   "orig": "Abi: 'Accelera la crescita dei prestiti a famiglie e imprese, +3,7%'",
-   "lead": "Secondo l'Associazione Bancaria Italiana, i prestiti bancari a famiglie e imprese stanno accelerando, con una crescita del 3,7%. I finanziamenti alle famiglie risultano in aumento ininterrotto da ventuno mesi consecutivi, segnale di una ripresa della domanda di credito nel sistema bancario italiano. Lo riferisce ANSA.",
-   "more": [
-    "L'Abi è l'associazione che rappresenta le banche italiane e pubblica periodicamente dati sull'andamento del credito, un indicatore utile per valutare la salute dell'economia e la fiducia di famiglie e imprese verso il sistema finanziario."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/17/-abi-accelera-crescita-dei-prestiti-a-famiglie-e-imprese-37-_d5a98eb6-fd47-4f5f-9424-89f82781068a.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T12:58+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z89546592",
-   "sez": "italia",
-   "titolo": "Da domenica pioggia sull'Italia, in calo le temperature",
-   "orig": "Da domenica arriva pioggia sull'Italia e calano le temperature",
-   "lead": "Secondo le previsioni meteo, a partire da domenica l'Italia sarà interessata da precipitazioni diffuse su gran parte del territorio, accompagnate da un calo delle temperature. Le piogge dovrebbero proseguire fino a venerdì della prossima settimana, coinvolgendo numerose regioni del Paese. Lo riferisce ANSA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/meteo-da-domenica-arrivano-le-piogge-e-calano-le-temperature_384eef23-ee9b-49dc-a79c-5b11c00ed68e.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T13:10+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z6e80c204",
-   "sez": "salute",
-   "titolo": "La salute del Papa non va presa 'per scontata', dice diplomatico vaticano",
-   "orig": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
-   "lead": "L'arcivescovo Paul Gallagher, alto diplomatico vaticano, ha dichiarato alla BBC che la salute di Papa Francesco non dovrebbe essere considerata garantita, dopo l'operazione subita dal pontefice questa settimana. Gallagher ha precisato che non c'erano segnali evidenti di problemi di salute prima dell'intervento. Lo riferisce BBC News.",
-   "more": [
-    "Il Vaticano è lo Stato della Chiesa cattolica guidato dal Papa, e la salute del pontefice è da sempre oggetto di grande attenzione pubblica e diplomatica, data l'importanza del suo ruolo spirituale e istituzionale a livello globale."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T05:01+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z40f101b9",
-   "sez": "sport",
-   "titolo": "James McClean: 'Indossare il papavero non sarebbe mai successo'",
-   "orig": "James McClean: ‘Wearing the poppy was just never going to happen’",
-   "lead": "L'ex calciatore della nazionale irlandese James McClean ha raccontato al Guardian la sua infanzia in una comunità ancora segnata dai Troubles nordirlandesi e le polemiche che hanno accompagnato la sua carriera, legate al suo rifiuto di indossare il papavero commemorativo britannico. McClean, che ha giocato 14 anni in Inghilterra, ora si trova in conflitto con il suo attuale club, il Derry City. Lo riferisce The Guardian.",
-   "more": [
-    "Il papavero rosso è un simbolo commemorativo britannico indossato in occasione dell'Armistizio, ma per molti nordirlandesi cattolici rappresenta anche l'esercito britannico coinvolto nel conflitto dei Troubles, rendendone il rifiuto un gesto politico controverso nel mondo del calcio."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T05:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "za3da39e1",
-   "sez": "sport",
-   "titolo": "Serie A: Venezia-Napoli, diretta alle 15",
-   "orig": "Serie A: Venezia-Napoli in campo alle 15 DIRETTA",
-   "lead": "Venezia e Napoli si affrontano oggi alle 15 in una partita di Serie A. Il tecnico del Napoli, Massimiliano Allegri, ha cercato di smorzare le tensioni legate al caso De Bruyne, parlando di un semplice 'incomprensione' con il centrocampista belga. Lo riferisce ANSA.",
-   "more": [
-    "Kevin De Bruyne è un centrocampista belga arrivato in Serie A dopo una lunga carriera in Premier League con il Manchester City, considerato uno dei migliori giocatori della sua generazione per visione di gioco e qualità nei passaggi."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/16/serie-a-venezia-napoli-in-campo-sabato-alle-15-diretta_4b9dbd4b-e40f-450f-9e4c-2fc17932d705.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T10:45+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z60f91962",
-   "sez": "italia",
-   "titolo": "Meloni e Sánchez, prove di disgelo su frontiere e migranti",
-   "orig": "Prove di disgelo Meloni-Sánchez: “Frontiere aperte e controlli”. Ma è lite sui migranti in Consiglio",
-   "lead": "La premier Giorgia Meloni e il presidente spagnolo Pedro Sánchez hanno avuto un colloquio su frontiere aperte e controlli, mentre al Consiglio europeo è scoppiata una lite sui migranti. È stato deciso lo stop a Schengen per altri sette giorni prima della riapertura. Meloni ha stretto un asse con la premier danese per una nuova linea più dura, mentre il presidente francese Macron ha definito 'brutto' il dibattito sul tema. Lo riferisce la Repubblica.",
-   "more": [
-    "Schengen è l'area europea di libera circolazione tra i Paesi membri senza controlli alle frontiere interne; la sua sospensione temporanea, decisa in situazioni eccezionali, consente ai singoli Stati di reintrodurre controlli ai confini per motivi di sicurezza o gestione dei flussi migratori."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/politica/2026/10/17/news/meloni_sanchez_prove_disgelo_lite_migranti_consiglio-425653766/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T23:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z33af670c",
-   "sez": "sport",
-   "titolo": "Hall of Famer contro gamer: l'eliminazione dei Dodgers dimostra che i soldi non bastano",
-   "orig": "Hall of Famers v bunch of gamers: the Dodgers’ exit proves money can’t buy everything",
-   "lead": "I Milwaukee Brewers hanno eliminato i Los Angeles Dodgers con una sweep per 4-0 nella NLCS di baseball, smontando la squadra definita 'quella che ha rovinato il baseball' grazie al suo enorme monte ingaggi. Il manager dei Brewers, Pat Murphy, ha commentato che la sua squadra di 'gamers' ha battuto un gruppo di 'Hall of Famers' dei Dodgers. Lo riferisce The Guardian.",
-   "more": [
-    "La National League Championship Series (NLCS) è la serie di playoff che determina la squadra della National League che accede alle World Series di baseball, il campionato professionistico nordamericano."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/sport/2026/oct/16/los-angeles-dodgers-milwaukee-brewers-nlcs-payroll-world-series",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T13:15+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "zc997f183",
-   "sez": "italia",
-   "titolo": "Fabio Ferrari, l'attore della Terza C diventato monologhista della destra",
-   "orig": "Caro Chicco Lazzaretti, ragazzo della Terza C, che male ti abbiamo fatto?",
-   "lead": "Fabio Ferrari, celebre per il ruolo del personaggio Chicco Lazzaretti nella serie anni Ottanta 'I Ragazzi della Terza C', è oggi diventato un monologhista nei programmi televisivi vicini alla destra politica. L'attore ha dichiarato di non vedere l'ora di votare per Giorgia Meloni, suscitando reazioni sul suo percorso personale e artistico. Lo riferisce la Repubblica.",
-   "more": [
-    "'I Ragazzi della Terza C' è una celebre sitcom televisiva italiana andata in onda negli anni Ottanta, diventata un classico della cultura pop del periodo e un riferimento generazionale per il pubblico che seguì le vicende dei suoi giovani protagonisti."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/politica/2026/10/17/news/fabio_ferrari_chicco_terza_c_faccia_feroce_della_destra-425653723/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T23:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "zbb54d35a",
-   "sez": "mondo",
-   "titolo": "Oregon, insegnante affronta aggressore armato prima che un padre lo colpisse 'più volte'",
-   "orig": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-   "lead": "In Oregon un'insegnante ha affrontato un aggressore armato entrato in una scuola primaria, prima che un padre armato sparasse al sospetto 'più volte'. Secondo la polizia, il presunto responsabile, un sedicenne che aveva già frequentato la scuola, avrebbe preso di mira una classe per studenti con bisogni educativi speciali. Lo riferiscono BBC News e Al Jazeera, che precisa che l'aggressore era un ex studente con bisogni speciali.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T09:58+00:00"
-    },
-    {
-     "n": "Al Jazeera",
-     "p": "XX",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T08:04+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "zd70a60b9",
-   "sez": "mondo",
-   "titolo": "L'attrice Selma Blair: 'Non volevo far del male a nessuno' nell'alterco in aereo",
-   "orig": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-   "lead": "L'attrice Selma Blair ha dichiarato di non aver avuto intenzione di fare del male a nessuno durante un alterco avvenuto su un volo. Il suo portavoce ha spiegato che l'episodio è legato a un'emergenza medica, precisando che l'attrice soffre di un disturbo neurologico che può causare reazioni fuori controllo. Lo riferisce BBC News.",
-   "more": [
-    "La sclerosi multipla, patologia nota per essere stata diagnosticata a Selma Blair, è una malattia neurologica che può causare sintomi improvvisi e difficili da controllare, incluse reazioni comportamentali legate a episodi acuti della condizione."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T01:55+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z9be416ae",
-   "sez": "mondo",
-   "titolo": "Giudice archivia le accuse di abusi sessuali su minori contro l'attore Timothy Busfield",
-   "orig": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-   "lead": "Un giudice ha respinto le accuse di abusi sessuali su minori contro l'attore Timothy Busfield, affermando venerdì che il pubblico ministero 'non ha agito in modo equo e imparziale' nella gestione del caso. Lo riferisce BBC News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T00:38+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z6554dd37",
-   "sez": "mondo",
-   "titolo": "A decenni dall'apartheid, i sudafricani cercano ancora giustizia per i crimini del passato",
-   "orig": "Decades after apartheid, South Africans seek justice for crimes of the past",
-   "lead": "Con il passare del tempo, sia i superstiti che i responsabili invecchiano, e una nuova ondata di iniziative legali cerca di ottenere verità, responsabilità e riparazioni prima che sia troppo tardi. Lo riferisce NPR.",
-   "more": [
-    "L'apartheid è stato il sistema di segregazione razziale imposto in Sudafrica dal governo bianco fino al 1994, quando si concluse con le prime elezioni democratiche multirazziali; da allora il Paese cerca ancora di elaborare le ferite di quel periodo attraverso processi di verità e giustizia."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "XX",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T07:00-04:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z802c461d",
-   "sez": "mondo",
-   "titolo": "No Kings punta sul voto nel weekend negli Stati Uniti",
-   "orig": "No Kings turns its focus to voting this weekend. Here's what we know",
-   "lead": "La coalizione che organizza le proteste anti-Trump negli Stati Uniti, nota come No Kings, sta spostando la propria strategia verso la mobilitazione degli elettori. Gli organizzatori definiscono gli eventi del sabato un'iniziativa non partigiana per portare le persone alle urne. Lo riferisce NPR.",
-   "more": [
-    "Le proteste No Kings sono manifestazioni organizzate negli Stati Uniti in opposizione all'amministrazione Trump, viste da alcuni come un movimento di protesta civica diffuso su scala nazionale contro quello che i partecipanti descrivono come un accumulo eccessivo di potere presidenziale."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "XX",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T05:00-04:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z23988338",
-   "sez": "sport",
-   "titolo": "Diretta: India-West Indies, quinto T20 Internazionale",
-   "orig": "LIVE: India vs West Indies – fifth T20 International",
-   "lead": "India e West Indies si affrontano nel quinto e decisivo incontro della serie di cricket T20 Internazionale. Al Jazeera segue in diretta testuale il match, con aggiornamenti sul sorteggio e le formazioni delle due squadre. Lo riferisce Al Jazeera.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "XX",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T09:54+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z793d10af",
-   "sez": "mondo",
-   "titolo": "Le forze governative yemenite possono sostenere l'offensiva contro gli Houthi?",
-   "orig": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-   "lead": "Al Jazeera analizza se le forze del governo yemenita riconosciuto a livello internazionale possano sostenere la loro offensiva contro i ribelli Houthi, in un contesto in cui gli attacchi missilistici Houthi minacciano rotte di approvvigionamento chiave sulla costa yemenita del Mar Rosso, aumentando la pressione sulle forze governative. Lo riferisce Al Jazeera.",
-   "more": [
-    "Il conflitto yemenita vede da anni il governo riconosciuto, sostenuto da una coalizione regionale, contrapposto ai ribelli Houthi che controllano il nord del Paese; il Mar Rosso è una rotta commerciale strategica, resa instabile dagli attacchi Houthi alle navi."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "XX",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T06:41+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z0d9e07c9",
-   "sez": "tech",
-   "titolo": "Le paure sull'IA usate come arma dai colossi tecnologici",
-   "orig": "AI fears are being weaponised",
-   "lead": "Al Jazeera denuncia che le grandi aziende tecnologiche stanno alimentando timori sull'intelligenza artificiale per difendere le proprie posizioni dominanti dalla concorrenza dei modelli open-source economici. Secondo l'analisi, la paura diventa uno strumento strategico usato dai giganti del settore per scoraggiare lo sviluppo di alternative gratuite e accessibili, che minacciano il loro controllo sul mercato dell'IA. Lo riferisce Al Jazeera.",
-   "more": [
-    "I modelli open-source di intelligenza artificiale sono sistemi con codice e parametri accessibili pubblicamente, che chiunque può usare, modificare o migliorare senza pagare licenze, a differenza dei modelli proprietari sviluppati dalle grandi aziende tecnologiche che ne mantengono il controllo esclusivo."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "XX",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T06:21+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z1675870e",
-   "sez": "mondo",
-   "titolo": "Chi potrebbe succedere a Netanyahu in Israele",
-   "orig": "The Israeli politicians seeking to replace Netanyahu",
-   "lead": "Al Jazeera presenta una panoramica dei principali leader dell'opposizione israeliana, dei loro partiti e delle posizioni che condividono su Gaza e sugli altri conflitti in corso. L'articolo analizza le figure politiche che potrebbero candidarsi a guidare il paese dopo Benjamin Netanyahu, evidenziando come, nonostante le differenze interne, molti di essi mantengano un approccio simile sulle principali questioni di sicurezza e politica estera israeliana. Lo riferisce Al Jazeera.",
-   "more": [
-    "L'opposizione israeliana comprende diversi partiti e figure politiche che si contrappongono al governo guidato da Netanyahu, spesso su temi di gestione interna o corruzione, pur condividendo in molti casi linee dure simili sulle questioni di sicurezza nazionale e sui conflitti regionali, incluso quello a Gaza."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "XX",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T05:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "zab522f4a",
-   "sez": "italia",
-   "titolo": "La famiglia del bosco torna nel casolare dopo 11 mesi",
-   "orig": "Famiglia nel bosco, dopo 11 mesi i bambini tornano nel casolare",
-   "lead": "Dopo undici mesi, i bambini della famiglia che viveva isolata nel bosco sono tornati nel casolare di Palmoli, in provincia di Chieti. Nathan e Catherine, i genitori, li hanno accompagnati in auto fino all'abitazione dove la famiglia aveva scelto di vivere lontano dai centri abitati, una situazione che aveva attirato l'attenzione delle autorità e dell'opinione pubblica. Lo riferisce ANSA.",
-   "more": [
-    "Palmoli è un piccolo comune dell'entroterra abruzzese, in provincia di Chieti, dove una famiglia straniera aveva scelto di vivere isolata in un casolare nel bosco con i figli, suscitando l'intervento dei servizi sociali per verificare le condizioni dei minori."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/famiglia-nel-bosco-dopo-11-mesi-i-bambini-tornano-nel-casolare_17861bf6-56ed-45ff-8d10-173ed3dae63a.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T13:15+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z5d5028c3",
-   "sez": "sport",
-   "titolo": "Zverev eliminato a Shanghai, Davidovich Fokina in finale",
-   "orig": "Zverev ko a Shanghai, in finale va Davidovich Fokina",
-   "lead": "Alexander Zverev, futuro numero uno del mondo, è stato sconfitto nel torneo ATP di Shanghai. In finale accederà lo spagnolo Alejandro Davidovich Fokina, che ha vinto il match rimontando lo svantaggio iniziale contro il tedesco. Lo riferisce ANSA.",
-   "more": [
-    "Il torneo di Shanghai è uno degli appuntamenti più importanti del circuito ATP Masters 1000, che riunisce i migliori tennisti del mondo in Asia ogni anno in autunno."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/17/zverev-ko-a-shanghai-in-finale-va-davidovich-fokina_d79d2847-1186-4aa0-909e-ad39efa89cfa.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T12:53+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "za406c96c",
-   "sez": "mondo",
-   "titolo": "Fragile ma protagonista: il messaggio di Papa Leone al mondo",
-   "orig": "Fragile ma protagonista: il segnale che il Papa vuole mandare al mondo",
-   "lead": "Secondo la Repubblica, il Papa, ricoverato in condizioni di salute precarie, intende comunque restare protagonista sulla scena internazionale. L'impegno per la pace viene descritto come il tratto distintivo del suo pontificato: Prevost rivendica il proprio ruolo nonostante il momento delicato legato alla sua salute, mandando un segnale di continuità e presenza nonostante la fragilità fisica. Lo riferisce la Repubblica.",
-   "more": [
-    "Il pontificato di Papa Leone, nato Prevost, si è caratterizzato finora per un forte impegno diplomatico sui temi della pace nei conflitti internazionali, anche in momenti di difficoltà personale legati alla salute del pontefice."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/cronaca/2026/10/17/news/papa_leone_xiv_impegno_pace-425653787/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T23:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z4ac54b6d",
-   "sez": "sport",
-   "titolo": "Tacconi racconta l'aneurisma e la finale persa con l'Argentina",
-   "orig": "Tacconi: “Con l’Argentina Zenga aveva i miei guanti, quel gol non fu colpa sua”",
-   "lead": "L'ex portiere della Juventus Stefano Tacconi ricorda l'aneurisma che lo ha colpito nel 2022 e racconta un episodio del passato: nella finale contro l'Argentina, Walter Zenga indossava i suoi guanti, ma il gol subito non fu colpa del portiere. Tacconi si definisce \"un animale in gabbia\", ammette che non tornerà come prima ma dice di non aver mai avuto paura. Ricorda anche la multa da 10 milioni ricevuta da Boniperti per una battuta su Berlusconi. Lo riferisce la Repubblica.",
-   "more": [
-    "Stefano Tacconi è stato un portiere storico della Juventus negli anni Ottanta e Novanta, vincitore di numerosi trofei con il club bianconero; nel 2022 è stato colpito da un grave aneurisma cerebrale da cui si sta lentamente riabilitando."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/sport/calcio/2026/10/17/news/tacconi_intervista_italia_argentina_zenga-425653644/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T23:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
    "id": "zf2a34c31",
    "sez": "italia",
    "titolo": "Il Papa lascia l'ospedale nel pomeriggio, domani l'Angelus dal Palazzo apostolico",
@@ -721,6 +137,48 @@ window.EDIZIONI["2026-10-17-sera"] = {
     }
    ],
    "data": "17 ott",
+   "ora": "13:02",
+   "uscita": "13"
+  },
+  {
+   "id": "zc32d318f",
+   "sez": "economia",
+   "titolo": "Regno Unito, crescita a sorpresa ad agosto. Healey: «Segno di resilienza»",
+   "orig": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+   "lead": "Ad agosto l'economia britannica è cresciuta dello 0,1 per cento, mentre gli analisti si aspettavano una leggera contrazione. Il cancelliere dello Scacchiere John Healey ha definito il dato un «segno di resilienza», a poche settimane dalla presentazione della legge di bilancio. Healey ha anche sostenuto le ragioni della crescita a favore della terza pista dell'aeroporto di Heathrow, anche se il primo ministro non si è espresso. Il capo di Heathrow, Thomas Woldbye, avverte che rinunciarvi sarebbe un'enorme occasione persa.",
+   "more": [
+    "Il cancelliere dello Scacchiere è il ministro britannico delle Finanze. Ogni anno presenta il Budget, cioè il bilancio dello Stato. Heathrow è il più grande aeroporto di Londra e del Regno Unito, e il progetto di una terza pista è discusso da molti anni per il suo impatto economico e ambientale."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ck8dz1me439no",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-15T13:25+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T04:59+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T21:30+00:00"
+    }
+   ],
+   "data": "16 ott",
    "ora": "13:02",
    "uscita": "13"
   },
@@ -1404,15 +862,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-17T06:36+00:00"
-    },
-    {
-     "n": "BBC News",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T23:54+00:00"
     }
    ],
    "data": "17 ott",
@@ -1555,6 +1004,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z462ac143": "Al Jazeera racconta come i rincari legati alla guerra stiano cambiando le scelte energetiche delle famiglie filippine.",
   "z3025a501": "Al Jazeera mette in evidenza il peso del debito sui bilanci dei Paesi a basso reddito.",
   "z36f6f410": "ANSA mette in fila i numeri dei fermi e degli arresti, compreso il blitz negli uffici di CNews.",
+  "zc32d318f": "La BBC punta sul dato del Pil e sull'appello del capo di Heathrow. Il Guardian sottolinea la distanza tra Healey e il primo ministro sulla terza pista.",
   "zc22645e8": "La BBC segue le puntate concentrandosi su emozioni e colpi di scena. Il Guardian sposta l'attenzione sul nuovo programma di Amol Rajan, che giudica deludente.",
   "z11a49368": "Il Guardian racconta il conflitto attraverso il calcio e i campioni in campo. Deutsche Welle allarga lo sguardo alle conseguenze sulla leadership regionale ed economica saudita.",
   "zae425303": "BBC News mette in risalto il lato curioso della vicenda: il furto da dilettanti e il nascondiglio dentro una mela.",
@@ -1585,31 +1035,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zfbd461bb": "la Repubblica dà risalto ai successi rivendicati da Kiev e al conseguente spostamento della pressione russa verso sud.",
   "z9de08c09": "la Repubblica presenta il provvedimento come un divieto di solidarietà, evidenziando il contrasto tra assistenza ai migranti e attività di svago.",
   "zdc39533c": "la Repubblica mette in primo piano il dato sui tumori e l'annuncio fatto da Decaro proprio ai lavoratori dell'ex Ilva.",
-  "z58bc7f6e": "la Repubblica sottolinea il valore affettivo e nostalgico della Panda nell'immaginario italiano.",
-  "z884cb364": "BBC News riporta l'allarme dei clinici sulle conseguenze sanitarie della tecnologia nelle scuole.",
-  "zebc902b9": "Il Guardian giudica la serie debole nonostante un cast di prestigio.",
-  "za6295022": "The Guardian segue in diretta la partita sottolineando la posta in classifica per entrambe le squadre.",
-  "z21073fe4": "ANSA riporta i dati Abi evidenziando la crescita continuativa del credito alle famiglie.",
-  "z89546592": "ANSA fornisce le previsioni meteo per la settimana, segnalando un cambiamento diffuso delle condizioni climatiche.",
-  "z6e80c204": "BBC News raccoglie la dichiarazione del diplomatico vaticano sulle condizioni di salute del Papa.",
-  "z40f101b9": "The Guardian dà spazio al racconto personale di McClean sulle sue origini e le polemiche vissute.",
-  "za3da39e1": "ANSA segue la diretta della partita e riporta le dichiarazioni di Allegri sul caso De Bruyne.",
-  "z60f91962": "la Repubblica racconta sia l'apertura diplomatica con la Spagna sia le tensioni interne al Consiglio europeo sui migranti.",
-  "z33af670c": "The Guardian sottolinea il contrasto tra il budget stellare dei Dodgers e il gioco di squadra dei Brewers.",
-  "zc997f183": "la Repubblica ripercorre la trasformazione pubblica dell'ex attore in commentatore politico.",
-  "zbb54d35a": "BBC News e Al Jazeera concordano sui fatti, con Al Jazeera che sottolinea il passato dell'aggressore come ex studente con bisogni speciali nella stessa scuola.",
-  "zd70a60b9": "BBC News riporta la versione dell'entourage dell'attrice sull'episodio.",
-  "z9be416ae": "BBC News riporta la decisione del giudice e le critiche alla conduzione dell'accusa.",
-  "z6554dd37": "NPR dà voce alle famiglie delle vittime che chiedono giustizia dopo decenni di attesa.",
-  "z802c461d": "NPR descrive il cambio di strategia del movimento, dalla protesta di piazza alla mobilitazione elettorale.",
-  "z23988338": "Al Jazeera offre la cronaca in tempo reale dell'incontro decisivo della serie.",
-  "z793d10af": "Al Jazeera valuta la sostenibilità militare dell'offensiva governativa alla luce delle minacce sulle rotte del Mar Rosso.",
-  "z0d9e07c9": "Al Jazeera mette in evidenza un conflitto economico dietro il dibattito pubblico sui rischi dell'IA.",
-  "z1675870e": "Al Jazeera analizza il panorama politico israeliano concentrandosi sui potenziali successori di Netanyahu.",
-  "zab522f4a": "ANSA segue l'evoluzione della vicenda della famiglia che aveva scelto l'isolamento nel bosco.",
-  "z5d5028c3": "ANSA sottolinea la rimonta dello spagnolo contro uno dei favoriti del torneo.",
-  "za406c96c": "la Repubblica interpreta la fragilità fisica del Papa come scelta di non ritirarsi dalla scena pubblica.",
-  "z4ac54b6d": "la Repubblica raccoglie la testimonianza personale di Tacconi sulla malattia e su episodi della sua carriera."
+  "z58bc7f6e": "la Repubblica sottolinea il valore affettivo e nostalgico della Panda nell'immaginario italiano."
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli."
@@ -1665,6 +1091,13 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Francia",
    "p": [
     "France"
+   ],
+   "pt": []
+  },
+  "zc32d318f": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
    ],
    "pt": []
   },
@@ -1878,170 +1311,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
     "Italy"
    ],
    "pt": []
-  },
-  "z884cb364": {
-   "n": "Inghilterra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zebc902b9": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "za6295022": {
-   "n": "Liverpool",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
-  "z21073fe4": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z89546592": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z6e80c204": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
-  "z40f101b9": {
-   "n": "Derry",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
-  "za3da39e1": {
-   "n": "Venezia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z60f91962": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
-  "z33af670c": {
-   "n": "Los Angeles",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "zc997f183": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "zbb54d35a": {
-   "n": "Oregon",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "zd70a60b9": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z9be416ae": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z6554dd37": {
-   "n": "Sudafrica",
-   "p": [
-    "South Africa"
-   ],
-   "pt": []
-  },
-  "z802c461d": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z23988338": {
-   "n": "India",
-   "p": [
-    "India"
-   ],
-   "pt": []
-  },
-  "z793d10af": {
-   "n": "Yemen",
-   "p": [
-    "Yemen"
-   ],
-   "pt": []
-  },
-  "z0d9e07c9": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z1675870e": {
-   "n": "Israele",
-   "p": [
-    "Israel"
-   ],
-   "pt": []
-  },
-  "zab522f4a": {
-   "n": "Palmoli",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z5d5028c3": {
-   "n": "Shanghai",
-   "p": [
-    "China"
-   ],
-   "pt": []
-  },
-  "za406c96c": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
-  "z4ac54b6d": {
-   "n": "Torino",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
   }
  },
  "rilievo": {
@@ -2051,6 +1320,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z462ac143": 1,
   "z3025a501": 1,
   "z36f6f410": 2,
+  "zc32d318f": 2,
   "zc22645e8": 2,
   "z11a49368": 2,
   "zae425303": 1,
@@ -2077,35 +1347,11 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z2d712fbf": 1,
   "zaa3cbc55": 1,
   "zeccf11d3": 1,
-  "z7fa900c5": 2,
+  "z7fa900c5": 1,
   "zfbd461bb": 1,
   "z9de08c09": 1,
   "zdc39533c": 1,
-  "z58bc7f6e": 1,
-  "z884cb364": 1,
-  "zebc902b9": 1,
-  "za6295022": 1,
-  "z21073fe4": 1,
-  "z89546592": 1,
-  "z6e80c204": 1,
-  "z40f101b9": 1,
-  "za3da39e1": 1,
-  "z60f91962": 1,
-  "z33af670c": 1,
-  "zc997f183": 1,
-  "zbb54d35a": 2,
-  "zd70a60b9": 1,
-  "z9be416ae": 1,
-  "z6554dd37": 1,
-  "z802c461d": 1,
-  "z23988338": 1,
-  "z793d10af": 1,
-  "z0d9e07c9": 1,
-  "z1675870e": 1,
-  "zab522f4a": 1,
-  "z5d5028c3": 1,
-  "za406c96c": 1,
-  "z4ac54b6d": 1
+  "z58bc7f6e": 1
  },
  "video": {},
  "pillole": []
