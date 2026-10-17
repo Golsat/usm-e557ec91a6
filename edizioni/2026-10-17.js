@@ -60,39 +60,6 @@ window.EDIZIONI["2026-10-17"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zea04e31e",
-   "sez": "tech",
-   "titolo": "Starshield, l'ordine di limitare l'uso ucraino sarebbe partito dalla Casa Bianca",
-   "orig": "Media: 'L'ordine per limitare uso di Starshield a Kiev è arrivato dalla Casa Bianca'",
-   "lead": "Secondo alcuni media, l'ordine di limitare l'uso del sistema satellitare Starshield da parte dell'Ucraina è arrivato dalla Casa Bianca. Le restrizioni avrebbero reso più difficili gli attacchi di Kiev contro obiettivi russi. Avrebbero anche rallentato l'impiego dei droni intercettori. In Italia il ministro della Difesa Guido Crosetto ha definito un errore limitare l'accesso di Kiev ai satelliti. Crosetto ha anche ricordato che il nostro Paese subisce centinaia di attacchi informatici ogni giorno.",
-   "more": [
-    "Starshield è la versione militare e governativa della rete satellitare Starlink, sviluppata da SpaceX, l'azienda di Elon Musk. Offre comunicazioni sicure e servizi di osservazione alle istituzioni. Per le forze ucraine i collegamenti satellitari sono essenziali per coordinare droni e operazioni."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/lordine-per-limitare-uso-di-starshield-a-kiev-e-arrivato-dalla-casa-bianca_83f25cb9-9abf-47e9-98b3-ef69fe52cdb8.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T09:31+02:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/crosetto-errore-limitare-accesso-kiev-a-satelliti-kiev--a5618009-b204-4298-bb26-a606895a20ed.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T06:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "10:49",
-   "uscita": "mattino"
-  },
-  {
    "id": "z99a0e976",
    "sez": "cultura",
    "titolo": "Elif Shafak e la crisi creativa: ha senso scrivere in tempi di caos?",
@@ -2201,7 +2168,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "zaace2013",
-   "sez": "tech",
+   "sez": "adolescenti",
    "titolo": "Occhiali smart a scuola: strumento per imbrogliare, spionaggio o aiuto medico?",
    "orig": "Streitfall Smartbrillen: Schummel-Tool, Spionagegerät – oder doch medizinisches Hilfsmittel?",
    "lead": "Il caso di uno studente austriaco con occhiali intelligenti ha suscitato polemiche, secondo Der Standard. Alcuni esperti avvertono però di non demonizzare questi dispositivi in modo generico: possono essere utili alle persone non vedenti, mentre per i casi di ADHD mancherebbe ancora evidenza scientifica a supporto del loro uso terapeutico. Lo riferisce Der Standard.",
@@ -4006,7 +3973,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z78f0dad2",
-   "sez": "mondo",
+   "sez": "ambiente",
    "titolo": "Il presidente iraniano Pezeshkian definisce 'ecocidio' i danni ambientali delle guerre regionali",
    "orig": "Pezeshkian calls environmental destruction caused by regional wars 'ecocide'",
    "lead": "Il presidente iraniano Masoud Pezeshkian ha definito \"ecocidio\" la distruzione degli ecosistemi causata dalle \"guerre di aggressione\" nella regione, invitando la comunità internazionale a stabilire meccanismi efficaci e applicabili per proteggere la biodiversità durante i conflitti armati. Parlando al Summit dei leader della 17esima Conferenza delle Parti sulla Diversità Biologica a Yerevan, in Armenia, venerdì, Pezeshkian ha affermato che la guerra tra Stati Uniti e Israele ha danneggiato impianti industriali ed energetici, causato incendi e rilasciato inquinanti, contaminando suolo e acqua. Lo riferisce Middle East Eye.",
@@ -4220,7 +4187,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z6456610b",
-   "sez": "italia",
+   "sez": "salute",
    "titolo": "Liste di attesa, un medico contro chi minimizza: 'Basta spingere verso il privato'",
    "orig": "Le liste di attesa non sono ‘percepite’. Ai politici che minimizzano dico: basta spingere verso il privato",
    "lead": "In Italia un medico interviene sul tema delle liste di attesa nel sistema sanitario, criticando politici e commentatori che le definiscono un problema 'percepito' più che reale. L'autore si dice allibito da questa narrazione, soprattutto mentre si avvicina un anno cruciale con elezioni nazionali, elezioni locali importanti come quella di Milano e la nomina del nuovo presidente della Repubblica. Chiede di fermare la tendenza a spingere i pazienti verso il settore privato. Lo riferisce Il Fatto Quotidiano.",
@@ -5980,7 +5947,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "zd12dccdb",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "L'ente previdenziale greco e-EFKA accelera la digitalizzazione dei servizi",
    "orig": "e-ΕΦΚΑ: Ψηφιακός μετασχηματισμός με 135 ηλεκτρονικές υπηρεσίες – Διπλό στοίχημα η λιγότερη γραφειοκρατία και ταχύτερη εξυπηρέτηση",
    "lead": "L'ente previdenziale greco e-EFKA sta intensificando la propria trasformazione digitale con l'obiettivo di spostare un numero crescente di pratiche assicurative su computer e smartphone, semplificando la vita di assicurati, pensionati, liberi professionisti, agricoltori e datori di lavoro. Secondo dirigenti dell'ente, i servizi elettronici disponibili sono passati da 80 nel 2023 a 135 previsti nel 2026, grazie anche all'introduzione di nuove funzionalità. L'obiettivo dichiarato è duplice: ridurre la burocrazia e velocizzare l'erogazione dei servizi ai cittadini greci. Lo riferisce ERT News.",
@@ -6924,7 +6891,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z57d8fe61",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Mistero sui fondi per l'emergenza ebola in Africa",
    "orig": "Óvíst hvað varð um 85 milljarða sem ráðstafa átti til viðbragðs við ebólufaraldri",
    "lead": "L'Africa CDC segnala incertezza sulla destinazione di fondi destinati alla risposta all'epidemia di ebola, pari a 700 milioni di dollari, circa 85 miliardi di corone islandesi. Secondo l'agenzia Reuters, che cita la stessa agenzia sanitaria africana e le autorità sanitarie congolesi, mancherebbe trasparenza sui fondi gestiti dalle organizzazioni umanitarie. Le autorità temono che la vicenda possa generare diffidenza e portare a una riduzione del sostegno necessario per contrastare l'epidemia, che colpisce in particolare la Repubblica Democratica del Congo. Non è ancora chiaro se si sia verificata una vera e propria appropriazione indebita di fondi, ma emerge la necessità di rafforzare i controlli sulla contabilità delle organizzazioni umanitarie.",
@@ -8051,7 +8018,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z944977fe",
-   "sez": "cultura",
+   "sez": "mondo",
    "titolo": "Rosa María Payá riceve a Madrid il Premio FAES per la Libertà con due oppositrici di Iran e Russia",
    "orig": "Rosa María Payá recibe en Madrid el Premio FAES de la Libertad junto a dos opositoras de Irán y Rusia",
    "lead": "A Madrid l'ex presidente spagnolo José María Aznar ha consegnato il Premio FAES per la Libertà alla dissidente cubana Rosa María Payá, insieme alla giornalista iraniana Masih Alinejad e all'attivista russa Yulia Navalnaya. La cerimonia è stata segnata da forti critiche ai regimi autoritari. Lo riferisce 14ymedio.",
@@ -10549,7 +10516,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z618f1c50",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Roghun, cosa è cambiato per le condizioni di lavoro degli operai",
    "orig": "Roghun HPP: What has changed in working conditions, safety and compensation for workers?",
    "lead": "Nel cantiere della centrale idroelettrica di Roghun, in Tagikistan, è stato introdotto un sistema digitale per la raccolta dei reclami dei lavoratori, ma persistono problemi legati agli straordinari, all'alloggio e ai trasporti per gli operai impiegati nella costruzione. Lo riferisce Asia-Plus.",
@@ -10919,6 +10886,24 @@ window.EDIZIONI["2026-10-17"] = {
      "angolo": "",
      "atlas": "Brazil",
      "t": "2026-10-17T06:00+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/17/lordine-per-limitare-uso-di-starshield-a-kiev-e-arrivato-dalla-casa-bianca_83f25cb9-9abf-47e9-98b3-ef69fe52cdb8.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T09:31+02:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "XX",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/crosetto-errore-limitare-accesso-kiev-a-satelliti-kiev--a5618009-b204-4298-bb26-a606895a20ed.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T06:00+00:00"
     }
    ],
    "data": "17 ott",
@@ -11144,7 +11129,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z5445a9f6",
-   "sez": "musica",
+   "sez": "cultura",
    "titolo": "'Trainspotting' torna al cinema 30 anni dopo in versione restaurata 4K",
    "orig": "‘Trainspotting’ 30 anni dopo, ovvero il paradosso della ribellione restaurata",
    "lead": "Il 19, 20 e 21 ottobre il film cult di Danny Boyle 'Trainspotting' torna nelle sale cinematografiche in versione restaurata in 4K, trent'anni dopo la sua uscita originale. La rivista riflette su come il tempo abbia trasformato la carica trasgressiva del film in un classico ormai consolidato, mutando il senso stesso della sua ribellione. Lo riferisce Rolling Stone Italia.",
@@ -12247,7 +12232,7 @@ window.EDIZIONI["2026-10-17"] = {
   },
   {
    "id": "z77029fdc",
-   "sez": "cultura",
+   "sez": "mondo",
    "titolo": "Nepal, i leader invitano all'unità durante il Dashain tra difficoltà economiche",
    "orig": "Nepal’s leaders call for unity as Shah highlights Dashain’s financial strain",
    "lead": "I principali leader politici del Nepal hanno lanciato un appello all'unità in occasione della festività del Dashain. Il primo ministro Balendra Shah ha sottolineato come le difficoltà economiche non debbano trasformare la festa in un peso per le famiglie, mentre il presidente e il vicepresidente hanno richiamato l'importanza dell'armonia sociale e del sostegno alle famiglie colpite da disastri. Lo riferisce The Kathmandu Post.",
@@ -14189,7 +14174,6 @@ window.EDIZIONI["2026-10-17"] = {
   "z8f541536": "G1 ricostruisce la distinzione tecnica e politica tra servizio civile e militare dei satelliti SpaceX.",
   "z9c0d80a1": "Repubblica dà il dettaglio dei numeri per ciascuno stabilimento. Rai News insiste invece sull'urgenza della richiesta, legata allo spegnimento dell'area a caldo.",
   "ze9241db7": "ANSA mette a confronto la linea del governo italiano sul debito e l'allarme di Lagarde sull'energia.",
-  "zea04e31e": "ANSA ricostruisce da dove è partito l'ordine e quali effetti ha avuto sul campo. Rai News sceglie il punto di vista italiano, con la critica di Crosetto e l'allarme sugli attacchi informatici.",
   "z99a0e976": "The Guardian si concentra sul lato personale della scrittrice e sul suo successo presso i lettori.",
   "zdb3e108e": "The Guardian mette al centro il possibile conflitto tra informazione sportiva e interessi commerciali legati alle scommesse.",
   "z1d6d8f65": "Al Jazeera mette l'accento sull'accelerazione della fusione e sulle conseguenze che può avere.",
@@ -18114,13 +18098,6 @@ window.EDIZIONI["2026-10-17"] = {
    ],
    "pt": []
   },
-  "zea04e31e": {
-   "n": "Ucraina",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z99a0e976": {
    "n": "Londra",
    "p": [
@@ -18718,7 +18695,6 @@ window.EDIZIONI["2026-10-17"] = {
   "z81659c9e": 1,
   "z9c0d80a1": 2,
   "ze9241db7": 1,
-  "zea04e31e": 2,
   "z99a0e976": 1,
   "zdb3e108e": 1,
   "z1d6d8f65": 1,
