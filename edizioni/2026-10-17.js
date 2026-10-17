@@ -3,6 +3,78 @@ window.EDIZIONI["2026-10-17"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "ucrainaguerra",
+   "sez": "prima",
+   "filo": "ucraina-sanzioni-finanziamenti-2026",
+   "titolo": "Trump congela le sanzioni alla Russia, Zelensky chiede all'Ue altri 70 miliardi mentre lo strappo con Washington si allarga",
+   "orig": "Trump waives several Russia sanctions as new US law takes effect",
+   "lead": "Donald Trump ha firmato un ordine esecutivo che congela gran parte delle nuove sanzioni e dei dazi contro la Russia previsti dalla legge bipartisan sulle sanzioni (la Sanctioning Russia Act, promossa dal senatore Lindsey Graham) proprio nei giorni in cui sarebbero dovuti entrare in vigore, definendo la misura «nell'interesse nazionale» degli Stati Uniti. La decisione arriva una settimana dopo l'accordo tra Trump e Putin per immettere sul mercato globale centinaia di migliaia di tonnellate di diesel russo, in un momento in cui i prezzi dei carburanti sono alle stelle. Lo stesso giorno, al summit Ue di Bruxelles, il presidente ucraino Volodymyr Zelensky ha chiesto ai leader europei altri 70 miliardi di euro per il 2027, sostenendo che il costo della guerra salirà a 155 miliardi l'anno prossimo; la presidente della Commissione Ursula von der Leyen ha confermato che la cifra «va coperta» e ha chiesto ai Paesi membri di contribuire, mentre Francia e Germania hanno detto che ne discuteranno entro fine anno.",
+   "more": [
+    "Lo strappo tra Washington e Kyiv si è aggravato nei giorni scorsi dopo che i terminali Starlink/Starshield in dotazione all'esercito ucraino sono stati rallentati su ordine della Casa Bianca: Elon Musk ha attaccato pubblicamente Zelensky invitandolo a lasciare la guida del Paese, mentre Trump lo ha definito «più difficile di Putin». Nella notte, riferisce Al Jazeera, nuovi attacchi russi su Kharkiv, Kramatorsk, Volyn e Rivne hanno causato la morte di almeno 8 persone e interrotto la corrente a circa un milione di persone, mentre Mosca prosegue la campagna contro la rete elettrica ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+     "angolo": "Riporta la giustificazione di Trump: le sanzioni avrebbero danneggiato gli interessi nazionali americani in un momento di prezzi energetici già alti."
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law",
+     "angolo": "Colloca la mossa a due giorni dalla scadenza delle sanzioni e una settimana dopo l'accordo sul diesel con Putin, leggendola come un favore a Mosca."
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/us/2026/1017/1595735-trump-executive-order-russia/",
+     "angolo": "Spiega che l'ordine esecutivo congela sanzioni e dazi sui proventi energetici russi firmati in legge appena un mese fa."
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/trump-waiver-russia-sanctions-ukraine-9.7385045?cmp=rss",
+     "angolo": "Riporta la certificazione inviata da Trump al Congresso: la sospensione è «nell'interesse nazionale» degli Stati Uniti."
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/17/world/politics/trump-waives-russia-sanctions/",
+     "angolo": "Collega la mossa alla richiesta di Zelensky all'Ue di quasi 70 miliardi di euro, mentre i rapporti con Washington peggiorano."
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/zelensky-ai-leader-ue-vi-chiedo-70mld-abbb909d-9286-41a7-aec3-a5cc17aa0d65.html",
+     "angolo": "Riporta le parole di Zelensky ai leader Ue: «Vi chiedo 70 miliardi, per la difesa, per le armi, per la nostra resilienza»."
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340",
+     "angolo": "Nota che il buco di bilancio ucraino, aggravato dallo scontro con Washington su Russia e Starlink, renderà difficile il prossimo inverno per Kyiv."
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T05:19+00:00"
+    }
+   ],
+   "data": "17 ott"
+  },
+  {
    "id": "brasileballottaggio",
    "sez": "prima",
    "filo": "brasile-elezioni-2026",
@@ -305,6 +377,16 @@ window.EDIZIONI["2026-10-17"] = {
  ],
  "quiz": [
   {
+   "q": "Quanti miliardi di euro in più ha chiesto Zelensky ai leader Ue per il 2027?",
+   "opts": [
+    "70 miliardi",
+    "7 miliardi",
+    "700 milioni"
+   ],
+   "ok": 0,
+   "rif": "ucrainaguerra"
+  },
+  {
    "q": "Al livello più basso da quando anno la deforestazione dell'Amazzonia brasiliana è scesa quest'anno?",
    "opts": [
     "Dal 1988",
@@ -347,11 +429,30 @@ window.EDIZIONI["2026-10-17"] = {
  ],
  "sguardi": {},
  "contesti": {
+  "ucrainaguerra": "Da mesi Washington media tra Kyiv e Mosca nel quadro dei negoziati promossi dall'amministrazione Trump. Nella notte tra il 13 e il 14 ottobre i terminali Starshield/Starlink usati dall'esercito ucraino hanno smesso di funzionare oltre i 160 km/h su ordine della Casa Bianca: Zelensky, che si è detto «tradito», ha annunciato la ripresa degli attacchi alle raffinerie russe, mentre Musk ha attaccato pubblicamente il leader ucraino e Trump lo ha definito «più difficile di Putin». Una settimana fa Trump ha concordato con Putin l'arrivo di diesel russo sul mercato globale per calmierare i prezzi dei carburanti.",
   "brasileballottaggio": "Il 4 ottobre il senatore Flávio Bolsonaro, figlio dell'ex presidente Jair, ha vinto il primo turno delle presidenziali con il 47% dei voti contro il 45,2% del presidente in carica Lula, mandando il Brasile al ballottaggio del 25 ottobre in un clima di svolta a destra in linea con l'amministrazione Trump. Le due campagne si contendono il voto anche sul terreno ambientale, mentre i sondaggi degli ultimi giorni danno Bolsonaro in vantaggio di oltre tre punti su Lula.",
   "duellobanche": "Nelle scorse settimane il governo aveva più volte lasciato intendere un possibile taglio dell'Irpef nella manovra 2027, aspettative poi disattese per i vincoli di bilancio; l'annuncio di un prelievo sul settore bancario per finanziare parte della manovra aveva già scatenato polemiche durissime dell'Abi, che il 12 ottobre aveva parlato di misura «negoziata» in modo unilaterale. Giorgetti è tornato a difendere la misura assicurando che non comprometterà la stabilità del settore.",
   "albaniaproteste": "Dalla settimana scorsa migliaia di studenti sono scesi nelle strade di Tirana per protestare contro le condizioni delle università, le tasse elevate e, più in generale, contro il governo di Edi Rama, al potere dal 2013. Le manifestazioni, inizialmente pacifiche, si sono inasprite nei giorni scorsi con scontri con la polizia davanti al ministero dell'Istruzione e l'incendio di un edificio del Collegio d'Europa vicino alla sede del governo; Rama ha sempre respinto le rivendicazioni definendole manipolate da interessi esterni."
  },
  "cronologie": {
+  "ucrainaguerra": [
+   [
+    "14 ottobre",
+    "I terminali Starshield/Starlink dell'esercito ucraino vengono rallentati su ordine della Casa Bianca"
+   ],
+   [
+    "15-16 ottobre",
+    "Zelensky riprende i raid sulle raffinerie russe e si dice «tradito»; Musk attacca il leader ucraino, Trump lo definisce «più difficile di Putin»"
+   ],
+   [
+    "16 ottobre",
+    "Al summit Ue di Bruxelles Zelensky chiede altri 70 miliardi di euro per il 2027; von der Leyen conferma che la cifra «va coperta»"
+   ],
+   [
+    "16-17 ottobre",
+    "Trump firma un ordine esecutivo che congela gran parte delle nuove sanzioni alla Russia, citando l'interesse nazionale Usa"
+   ]
+  ],
   "brasileballottaggio": [
    [
     "4 ottobre",
@@ -400,6 +501,26 @@ window.EDIZIONI["2026-10-17"] = {
   ]
  },
  "luoghi": {
+  "ucrainaguerra": {
+   "n": "Washington e Bruxelles",
+   "p": [
+    "United States of America",
+    "Ukraine",
+    "Belgium"
+   ],
+   "pt": [
+    [
+     38.90,
+     -77.04,
+     "Washington"
+    ],
+    [
+     50.85,
+     4.35,
+     "Bruxelles"
+    ]
+   ]
+  },
   "brasileballottaggio": {
    "n": "Brasília, Brasile",
    "p": [
@@ -512,6 +633,7 @@ window.EDIZIONI["2026-10-17"] = {
   }
  },
  "rilievo": {
+  "ucrainaguerra": 3,
   "brasileballottaggio": 3,
   "tigraygoverno": 2,
   "torpedocoreano": 2,
