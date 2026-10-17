@@ -3,6 +3,1556 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z623b7f36",
+   "sez": "mondo",
+   "titolo": "Las Condes propone unità permanente di volontari della Protezione Civile",
+   "orig": "Proponen crear unidad permanente de voluntarios de la Defensa Civil para emergencias en Las Condes",
+   "lead": "Le autorità di Las Condes propongono l'istituzione di un'unità permanente di volontari della Protezione Civile - la UDPRE - specializzata nel primo intervento per emergenze quali alluvioni, incendi forestali e terremoti. L'iniziativa è stata annunciata in risposta al recente alluv che ha colpito il comune di Santiago. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/nacional/noticia/proponen-crear-unidad-permanente-de-voluntarios-de-la-defensa-civil-para-emergencias-en-las-condes/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-17T16:46+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4e185c60",
+   "sez": "mondo",
+   "titolo": "Perù: attività sismica registrata il 14 ottobre",
+   "orig": "Sismos registrados en el Perú este miércoles 14 de octubre",
+   "lead": "L'Istituto Geofisico del Perù ha documentato l'attività sismica che ha interessato il paese il 14 ottobre. Il rapporto ufficiale dell'IGP comprende informazioni sulla posizione degli epicentri, la magnitudo dei terremoti e i dati geografici delle scosse registrate. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/peru/temblor-hoy-en-peru-consulta-donde-ocurrio-el-ultimo-sismo-magnitud-y-reporte-segun-el-igp-tdpe-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-16T21:49+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6bd3c083",
+   "sez": "mondo",
+   "titolo": "Cile: terremoto registrato il 17 ottobre",
+   "orig": "Temblor en Chile: epicentro y magnitud reportados del sábado 17 de octubre",
+   "lead": "Un evento sismico è stato registrato nel territorio cileno il 17 ottobre secondo i dati del Centro Sismologico Nazionale. L'ente informa su epicentro esatto, magnitudo della scossa e coordinate geografiche complete. I dati provengono dalla rete nazionale di stazioni sismiche. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-en-vivo-y-ultimos-sismos-segun-el-csn-del-17-y-18-de-octubre-de-2026-centro-sismologico-nacional-santiago-socaire-atacama-lbposting-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-17T14:23+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/temblor-en-peru-hoy-en-vivo-y-reportes-via-el-igp-ultimos-sismos-del-17-y-18-de-octubre-de-2026-instituto-geofisico-del-peru-lima-callao-ica-lbposting-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-17T13:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1b95887d",
+   "sez": "mondo",
+   "titolo": "Perù: elezioni regionali, risultati al 95,431 percento",
+   "orig": "Resultados ONPE al 95.431 % de las Elecciones Regionales: revisa aquí el conteo oficial",
+   "lead": "La Giuria Nazionale di Elezioni del Perù ha stabilito il 6 dicembre 2026 come data per la Seconda Elezione Regionale dello scrutinio 2026. Il conteggio ufficiale dei voti raggiunge il 95,431 percento dei risultati. L'ente incaricato ha comunicato la data per le consultazioni regionali. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/elecciones/resultados-onpe-elecciones-regionales-y-municipales-2026-en-vivo-conteo-oficial-para-saber-quien-gana-las-elecciones-de-alcaldes-y-gobernadores-en-el-peru-erm-2026-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-17T15:37+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z321a3ba4",
+   "sez": "mondo",
+   "titolo": "Uruguay: governo propone pensionamento anticipato a 60 anni",
+   "orig": "El Poder Ejecutivo envió al Parlamento proyecto de ley para habilitar la jubilación anticipada a los 60 años",
+   "lead": "Il governo uruguayano ha presentato al Parlamento un progetto di legge che consentirebbe il pensionamento anticipato a 60 anni per categorie di lavoratori che affrontano difficoltà occupazionali derivanti dall'avanzamento tecnologico e dall'automazione. L'età pensionabile ordinaria rimane fissata a 65 anni. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/el-poder-ejecutivo-envio-al-parlamento-proyecto-ley-habilitar-la-jubilacion-anticipada-los-60-anos-n6060794",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-17T14:02-03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc061c1ec",
+   "sez": "mondo",
+   "titolo": "Uruguay: indagine Bouvier, controversia su competenze della Jutep",
+   "orig": "Investigación sobre Bouvier: la discusión por las \"potestades\" de la Jutep y las sanciones de la Corte Electoral por violar la Constitución",
+   "lead": "Si sviluppa controversia sulla competenza della Jutep, ente incaricato della selezione giudiziaria, nell'indagine sul caso Bouvier. Il politico Pedro Bordaberry ha annunciato l'intenzione di denunciare il vicepresidente della Jutep per aver avanzato l'inchiesta quando la Corte Elettorale già indaga su violazioni costituzionali. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/investigacion-bouvier-la-discusion-las-potestades-la-jutep-y-las-sanciones-la-corte-electoral-violar-la-constitucion-n6060735",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-17T05:00-03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z495dd2a3",
+   "sez": "mondo",
+   "titolo": "Diaspora venezuelana chiede fissare data elezioni presidenziali",
+   "orig": "Diáspora venezolana exigió en todo el mundo fijar la fecha de las elecciones presidenciales",
+   "lead": "La diaspora venezuelana, organizzatasi globalmente e mobilitata attraverso manifestazioni coordinate in diversi paesi, ha indirizzato un appello alla comunità internazionale chiedendo pressioni diplomatiche significative per fissare una data ufficiale e certa per elezioni presidenziali libere, trasparenti e democratiche. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/diaspora-venezolana-exigio-en-todo-el-mundo-establecer-la-fecha-de-las-elecciones-presidenciales/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-17T17:44+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z85dcfd8b",
+   "sez": "mondo",
+   "titolo": "Venezuela: opposizione consulta ordine avvocati su riforme giudiziarie",
+   "orig": "Delegación opositora consulta al Colegio de Abogados sobre reformas al sistema judicial durante el diálogo con el chavismo",
+   "lead": "Delegazione rappresentativa dell'opposizione venezuelana ha tenuto consultazioni ufficiali con l'Ordine degli Avvocati durante la terza ronda di dialogo con il governo chavista riguardante possibili riforme al sistema giudiziario nazionale. I colloqui affrontano questioni istituzionali strategiche. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/delegacion-opositora-consulta-al-colegio-de-abogados-sobre-reformas-al-sistema-judicial-durante-el-dialogo-con-el-chavismo/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-17T17:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z78ca8611",
+   "sez": "mondo",
+   "titolo": "Venezuela: coltivatori di caffè chiedono rispetto della struttura dei costi",
+   "orig": "Caficultores de Lara y Portuguesa instalan campamento y exigen a la agroindustria el respeto a la estructura de costos del café",
+   "lead": "Coltivatori di caffè provenienti dalle province di Lara e Portuguesa hanno installato un campamento permanente di protesta esigendo dall'agroindustria il pieno rispetto della struttura dei costi della materia prima. Gli agricoltori avvertono che le misure di pressione continueranno e potrebbero intensificarsi senza una risposta formale. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/caficultores-de-lara-y-portuguesa-instalan-campamento-y-exigen-a-la-agroindustria-el-respeto-a-la-estructura-de-costos-del-cafe/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-17T17:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf5a51e52",
+   "sez": "mondo",
+   "titolo": "Houston: corpo di giovane venezuelano ritrovato senza vita nel fiume",
+   "orig": "Localizaron sin vida a joven zuliano en aguas de un río en Houston tras varios días desaparecido",
+   "lead": "Il corpo di un giovane venezuelano originario dello stato di Zulia è stato ritrovato senza vita nelle acque di un fiume a Houston, Texas, dopo giorni di scomparsa. Il ragazzo era stato denunciato come disperso dalla mattina del lunedì precedente, con ultimo contatto via messaggio che riportava persecuzione. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/localizaron-sin-vida-a-joven-zuliano-en-aguas-de-un-rio-en-houston-tras-varios-dias-desaparecido/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-17T15:16+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc5bb8b72",
+   "sez": "mondo",
+   "titolo": "Bolivia: Onu dichiara paese centro operazioni cartelli internazionali droga",
+   "orig": "La ONU dice que Bolivia es un centro de operaciones para carteles internacionales de droga",
+   "lead": "L'Ufficio Onu per le Droghe e il Crimine dichiara che la Bolivia costituisce un centro strategico di operazioni per cartelli internazionali della droga. La rappresentante dell'agenzia internazionale Mónica Mendoza segnala l'espansione di organizzazioni estere con infiltrazioni istituzionali. Propone di contrastare i flussi finanziari. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/onu-dice-bolivia-centro-operaciones-carteles-internacionales-droga_1792258910",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T17:41+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb165b45b",
+   "sez": "salute",
+   "titolo": "La Paz: influenza B predominante tra infezioni respiratorie in aumento",
+   "orig": "Influenza tipo B predomina en La Paz en medio del aumento de las infecciones respiratorias",
+   "lead": "Influenza di tipo B predomina nella popolazione di La Paz, Bolivia, nel contesto di un aumento significativo delle infezioni respiratorie complesive. Il virus rappresenta il 72 percento delle malattie di influenza rilevate durante il monitoraggio epidemiologico. I casi sono cresciuti da 18.859 a circa 24.000 in sette giorni. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/influenza-tipo-b-predomina-paz-medio-aumento-infecciones-respiratorias_1792256831",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T17:07+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z834130ca",
+   "sez": "mondo",
+   "titolo": "Bolivia: smantellato deposito illegale carburante, due adolescenti fermati",
+   "orig": "Intervienen un punto de acopio ilegal de combustible tras seguir a un camión; dos adolescentes fueron aprehendidos",
+   "lead": "La polizia boliviana ha smantellato un deposito illegale di carburante a Chuquisaca durante un'operazione mirata seguendo tracciamento di un camion sospetto. Due adolescenti sono stati fermati durante l'operazione. Gli agenti hanno confiscato un totale di 13.000 litri di carburante. Ulteriori arresti in province associate. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/intervienen-punto-acopio-ilegal-combustible-seguir-camion-dos-adolescentes-fueron-aprehendidos_1792253894",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T16:18+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf2366452",
+   "sez": "sport",
+   "titolo": "Bolivia: giocatori Blooming non si concentrano per stipendi arretrati",
+   "orig": "Blooming no concentró por salarios adeudados",
+   "lead": "I giocatori della squadra calcistica boliviana Blooming non si sono presentati al concentramento nella notte precedente la partita in protesta contro stipendi adebitati dal club. La misura di protesta avveniva alla vigilia di un incontro cruciale di campionato contro Independiente. I giocatori denunciano significativi debiti economici. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/blooming/blooming-no-concentro-salarios-adeudados_1792254115",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T16:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7afe3e12",
+   "sez": "mondo",
+   "titolo": "Marocco: sistema di sorveglianza per reprimere dissidenza",
+   "orig": "Maroc : un système inédit de surveillance de voix dissidentes",
+   "lead": "Un'organizzazione non governativa di difesa dei diritti umani pubblica un rapporto inedito sul sistema di sorveglianza marocchino utilizzato dalle autorità per perseguitare attivisti della libertà di espressione e giornalisti. Lo studio documenta tattiche repressive di monitoraggio sistematico e discriminazione. Lo riferisce Le Matin Algérie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/maroc-un-systeme-inedit-de-surveillance-de-voix-dissidentes/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-17T15:48+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z28d5ea90",
+   "sez": "mondo",
+   "titolo": "Ecuador: ispezioni ospedali e ordine miglioramenti approvvigionamento farmaci",
+   "orig": "Gellibert recorre hospitales del IESS de Guayaquil y dispone mejorar el abastecimiento de fármacos",
+   "lead": "Una rappresentante della struttura sanitaria pubblica IESS ha compiuto ispezioni ufficiali presso ospedali di Guayaquil raccogliendo osservazioni da utenti e personale medico. Ha ordinato implementazione di miglioramenti significativi nei servizi offerti e nell'approvvigionamento di farmaci presso le strutture ospedaliere della metropoli. Lo riferisce El Universo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/comunidad/guayaquil/gellibert-recorre-hospitales-del-iess-de-guayaquil-y-dispone-mejorar-abastecimiento-de-farmacos-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-17T17:16+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb2e3fdd1",
+   "sez": "mondo",
+   "titolo": "Ecuador: operazione militare a Posorja scopre resti umani, cinque fermati",
+   "orig": "Operativo militar en Posorja deja cinco detenidos tras hallazgo de restos humanos",
+   "lead": "Un'operazione militare a Posorja, in Ecuador, ha portato alla scoperta di resti umani e all'arresto di cinque persone sospettate di appartenenza a organizzazioni criminali. Gli agenti hanno acquisito evidenze significative. Ulteriori arresti sono stati effettuati anche nelle province di Los Ríos e Manabí. Lo riferisce El Universo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/seguridad/operativo-militar-en-posorja-cinco-detenidos-tras-hallazgos-de-restos-humanos-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-17T17:04+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfeffe590",
+   "sez": "salute",
+   "titolo": "Repubblica Dominicana: progressi nel trattamento cancro al seno",
+   "orig": "Mastóloga: \"Más mujeres se curan del cáncer de mama\"",
+   "lead": "Una specialista in oncologia mammaria evidenzia progressi significativi nel trattamento del cancro al seno pur sottolineando ostacoli rilevanti alla diagnosi precoce. La paura della prognosi, miti relativi ai test di imaging e ritardo nell'accesso medico compromettono l'individuazione tempestiva della malattia. Migliorare consapevolezza rimane essenziale. Lo riferisce Diario Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/revista/buena-vida/2026/10/17/mastologa-mas-mujeres-se-curan-del-cancer-de-mama/3691377",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-17T12:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z28194cc0",
+   "sez": "mondo",
+   "titolo": "Repubblica Dominicana: spagnolo fermato con cocaina a Punta Cana",
+   "orig": "Arrestan español con 20 paquetes de cocaína en aeropuerto",
+   "lead": "Agenti della Direzione Nazionale di Controllo della Droga, coordinati dal Ministero Pubblico con supporto di autorità aeroportuali specializzate, hanno arrestato un cittadino spagnolo di 24 anni all'aeroporto internazionale di Punta Cana, provincia di La Altagracia. Lo straniero trasportava 20 pacchetti di cocaina. Lo riferisce Diario Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/actualidad/sucesos/2026/10/17/arrestan-espanol-con-20-paquetes-de-cocaina-en-aeropuerto/3692032",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-17T12:47+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc2007565",
+   "sez": "mondo",
+   "titolo": "Ambasciatrice USA riunisce politici dominicani a Baní",
+   "orig": "Leah Campos reúne a políticos dominicanos en colmadón de Baní",
+   "lead": "Leah Francis Campos, ambasciatrice degli Stati Uniti in Repubblica Dominicana, ha presieduto venerdì un incontro presso il Súper Colmado El León Rojo a Baní con figure di spicco della politica dominicana. Hanno partecipato il senatore del Distretto Nazionale Omar Fernández, il dirigente del Partito della Liberazione Dominicana Gonzalo Castillo e il direttore esecutivo dell'istituto nazionale delle acque. Lo riferisce Diario Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/actualidad/nacional/2026/10/17/leah-campos-reune-a-politicos-dominicanos-en-colmadon-de-bani/3691967",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-17T11:11+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdf66e3bf",
+   "sez": "ambiente",
+   "titolo": "Allerta per piogge intense in Catalogna nel fine settimana",
+   "orig": "Alerta per pluges intenses a Catalunya durant el cap de setmana",
+   "lead": "Allerta meteo con previsione di piogge intense sulla Catalogna durante il fine settimana. L'episodio meteorologico potrebbe interessare significativamente la circolazione stradale verso Barcellona e altre aree litoranee, causando possibili disagi sulla rete ferroviaria Rodalies. Lo riferisce Diari d'Andorra.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261017/alerta-per-pluges-intenses-catalunya-durant-cap-setmana_206717.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-17T18:55+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6cd22f76",
+   "sez": "mondo",
+   "titolo": "Mody Niang, percorso di un intellettuale senegalese impegnato",
+   "orig": "Mody Niang: Le parcours d’un intellectuel intransigeant",
+   "lead": "Mody Niang, ex insegnante diventato ispettore dell'istruzione, saggista e commentatore politico senegalese, ha dedicato gran parte della sua carriera all'educazione e alla sorveglianza critica dell'azione pubblica. Il suo percorso professionale illustra l'impegno continuo nel settore scolastico e nel controllo democratico delle istituzioni. Lo riferisce Seneweb.",
+   "more": [
+    "Niang ha rappresentato una figura intellettuale di riferimento nel panorama senegalese contemporaneo, coniugando la pratica dell'insegnamento con la riflessione critica sui processi decisionali pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Portrait/mody-niang-le-parcours-dun-intellectuel-intransigeant_n_999000984.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T17:35+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Contribution/mody-niang-une-conscience-seteint-un-heritage-demeure-par-abdoulaye-dieng_n_999000981.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T17:09+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze7a9a57f",
+   "sez": "mondo",
+   "titolo": "Patrick Vieira osserva il campionato senegalese in cerca di talenti",
+   "orig": "Ligue 1 sénégalaise : Patrick Vieira à l’affût des talents locaux",
+   "lead": "Patrick Vieira, commissario tecnico della nazionale di calcio senegalese, ha assistito sabato all'apertura ufficiale del campionato senegalese a Dakar. La partecipazione dell'allenatore francese sottolinea l'impegno della federazione nello scouting dei talenti locali emergenti per rafforzare la squadra nazionale. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/ligue-1-senegalaise-patrick-vieira-a-laffut-des-talents-locaux_n_999000983.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T17:26+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2f82754b",
+   "sez": "mondo",
+   "titolo": "Ex ministro Anne critica lo sciopero degli insegnanti senegalesi",
+   "orig": "«Je ne suis pas en phase avec vous »: Les vérités de Cheikh Oumar Anne aux syndicats d’enseignants",
+   "lead": "Cheikh Oumar Anne, sindaco di Ndioum ed ex ministro dell'Educazione nazionale senegalese, esprime pubblicamente il suo disaccordo con lo sciopero di 72 ore pianificato dall'intersindicale G7 dei sindacati dell'insegnamento. Anne critica il movimento sindacale dichiarando di non essere in sintonia con le rivendicazioni. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Societe/je-ne-suis-pas-en-phase-avec-vous-les-verites-de-cheikh-oumar-anne-aux-syndicats-denseignants_n_999000982.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T17:19+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z10a50a10",
+   "sez": "mondo",
+   "titolo": "Avvertimento sulla successione al segretariato generale dell'ONU",
+   "orig": "Souleymane Jules Diop alerte : « Un scénario invraisemblable risque de se présenter à l’ONU »",
+   "lead": "Souleymane Jules Diop, dalle colonne di Seneweb, avverte che uno scenario improbabile rischia di presentarsi nel processo di elezione del nuovo segretario generale delle Nazioni Unite in sostituzione di António Guterres. L'osservatore punta l'attenzione sulle possibili anomalie procedurali nel processo di successione. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/souleymane-jules-diop-alerte-un-scenario-invraisemblable-risque-de-se-presenter-a-lonu_n_999000980.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T16:59+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "za0977228",
+   "sez": "mondo",
+   "titolo": "Commemorazione per il tecnico radio Mbaïhilamé Zéphyrin in Ciad",
+   "orig": "Un dernier hommage à Mbaïhilamé Zéphyrin de la radio FM Liberté",
+   "lead": "Radio FM Liberté di N'Djamena ha ospitato una cerimonia commemorativa per Mbaïhilamé Zéphyrin, tecnico storico della stazione radiofonica ciadiana. Colleghi, familiari e ascoltatori si sono riuniti per rendere tributo all'uomo che ha lavorato discretamente dietro le quinte per il funzionamento tecnico della radio. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/17/un-dernier-hommage-a-mbaihilame-zephyrin-de-la-radio-fm-liberte/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-17T16:36+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8e33a4a9",
+   "sez": "mondo",
+   "titolo": "Ciad: ostaggi liberati e consegnati alle autorità cameruensi",
+   "orig": "Logone oriental : des otages libérés et remis aux autorités camerounaises",
+   "lead": "Il prefetto del dipartimento dei Monti di Lam, Idriss Souleymane Bouyemé, ha presieduto giovedì la cerimonia ufficiale di rilascio di ostaggi alle autorità cameruensi a Koutéré, al confine tra Ciad e Camerun. L'evento si è svolto alla presenza di funzionari civili, militari e leader tradizionali. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/17/logone-oriental-des-otages-liberes-et-remis-aux-autorites-camerounaises/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-17T16:30+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfe0220b7",
+   "sez": "mondo",
+   "titolo": "Federazione pallavolo camerunese rafforza disciplina per stagione 2026-2027",
+   "orig": "Volleyball camerounais : la FECAVOLLEY mise sur la rigueur et la bonne gouvernance pour la saison 2026-2027",
+   "lead": "La Federazione camerunese di pallavolo (FECAVOLLEY) ha adottato una serie di misure disciplinari dopo otto ore di deliberazioni del Consiglio d'amministrazione, al fine di rafforzare la disciplina e la governance nella stagione 2026-2027. Le iniziative intendono migliorare il funzionamento dell'intero movimento pallavolistico camerunese. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/17/volleyball-camerounais-la-fecavolley-mise-sur-la-rigueur-et-la-bonne-gouvernance-pour-la-saison-2026-2027/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-17T16:25+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zced21073",
+   "sez": "mondo",
+   "titolo": "Camerun: orientamento scolastico al centro della strategia di sviluppo locale",
+   "orig": "Guidance Counselling Takes Centre Stage in Cameroon’s Local Development Drive",
+   "lead": "L'orientamento scolastico (guidance counselling) assume un ruolo centrale nella strategia di sviluppo locale del Camerun, con l'obiettivo di indirizzare gli studenti verso percorsi formativi e professionali in linea con i loro talenti personali e le attitudini. L'approccio integra consulenza educativa e sviluppo locale sostenibile. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/17/guidance-counselling-takes-centre-stage-in-cameroons-local-development-drive/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-17T09:29+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/17/lorientation-scolaire-au-coeur-de-la-dynamique-de-developpement-local-au-cameroun/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-17T09:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf938b8f6",
+   "sez": "economia",
+   "titolo": "Africa centrale: monete del 1958 ritirate dalla circolazione da novembre",
+   "orig": "Voici les pièces de monnaie retirées de la circulation dès novembre 2026",
+   "lead": "A partire dal 1° novembre 2026, monete coniate dalle serie 1958 in poi vengono ritirate dalla circolazione fiduciaria nell'area dell'Africa centrale, segnando una svolta storica nel paesaggio monetario regionale. Il provvedimento rientra nelle riforme valutarie dell'Unione economica e monetaria dell'Africa centrale. Lo riferisce Actu Cameroun.",
+   "more": [
+    "La riforma monetaria rappresenta una modernizzazione della circolazione fiduciaria della regione CEMAC, allineandosi alle dinamiche di integrazione economica africana."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/17/voici-les-pieces-de-monnaie-retirees-de-la-circulation-des-novembre-2026/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-17T09:24+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z961ab199",
+   "sez": "mondo",
+   "titolo": "Trump ammette di truccarsi personalmente durante comizio a Dalton",
+   "orig": "Trump avoue à Dalton pourquoi il se maquille lui-même, en plein meeting",
+   "lead": "Donald Trump ha ammesso venerdì 16 ottobre durante un comizio politico a Dalton, in Georgia, di truccarsi personalmente. Il presidente americano ha spiegato alla folla che utilizza poco trucco e lo applica da solo, fornendo le proprie giustificazioni dietro questa scelta di autogestione. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/trump-avoue-a-dalton-pourquoi-il-se-maquille-lui-meme-en-plein-meeting/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-17T17:32+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1cb5101f",
+   "sez": "mondo",
+   "titolo": "Educazione e IA: l'istruzione moderna deve andare oltre la trasmissione di conoscenze",
+   "orig": "Éducation et IA : « L’école ne doit plus seulement transmettre des connaissances », selon la professeure Liu Heping",
+   "lead": "Liu Heping, professoressa all'Università delle lingue e culture di Pechino, sostiene sabato 17 ottobre che l'istruzione contemporanea deve affrontare le sfide poste dall'intelligenza artificiale, ampliando il suo mandato oltre la semplice trasmissione di conoscenze. L'accademica sottolinea il ruolo essenziale della scuola nello sviluppo socioeconomico del paese. Lo riferisce Africaguinee.",
+   "more": [
+    "Liu Heping illustra come il settore educativo deve evolvere per adattarsi alle trasformazioni tecnologiche globali e mantenere la sua rilevanza nel paradigma dell'IA."
+   ],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/education-et-ia-lecole-ne-doit-plus-seulement-transmettre-des-connaissances-selon-la-professeure-liu-heping/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-17T16:58+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z88406e8b",
+   "sez": "mondo",
+   "titolo": "Venti giornalisti africani in formazione presso istituto cinese",
+   "orig": "Une vingtaine de journalistes africains en immersion en Chine",
+   "lead": "Circa venti giornalisti africani partecipano a un programma di formazione e immersione presso il centro di formazione del Gruppo di comunicazione internazionale cinese (CICG IISAT). Il programma offre visite guidate a province cinesi, siti patrimonio culturale e opportunità di apprendimento sui media cinesi. Lo riferisce Gabonactu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/17/une-vingtaine-de-journalistes-africains-en-immersion-en-chine/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-17T17:20+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0b6461e8",
+   "sez": "economia",
+   "titolo": "Madagascar: norme da rispettare per accedere al mercato africano di 1,4 miliardi",
+   "orig": "COMMERCE – Des normes à respecter pour accéder au marché africain de 1,4 milliard de consommateurs, selon le ministère du Commerce",
+   "lead": "Haingotiana Andriamadison, ministro del Commercio e dei Consumi del Madagascar, sottolinea che le imprese malgasce devono rispettare le normative dei mercati africani per accedere efficacemente ai 1,4 miliardi di consumatori del continente. La celebrazione della Giornata mondiale della normalizzazione offre l'occasione per questo richiamo. Lo riferisce 2424.mg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/commerce-des-normes-a-respecter-pour-acceder-au-marche-africain-de-14-milliard-de-consommateurs-selon-le-ministere-du-commerce",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-17T16:24+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6c9878ba",
+   "sez": "economia",
+   "titolo": "Mauritania: analisi sui fallimenti sistematici dei grandi progetti",
+   "orig": "لماذا أصبح تعثر المشاريع الكبرى في موريتانيا عادةً لا مفر منها؟",
+   "lead": "Un'analisi pubblicata da Alakhbar esamina le cause strutturali e ricorrenti dei fallimenti e dei ritardi dei grandi progetti infrastrutturali in Mauritania. Lo studio evidenzia problemi persistenti nella gestione, nel finanziamento e nell'esecuzione che ostacolano significativamente lo sviluppo economico e sociale della nazione. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad3b2ad31bb580001d17584/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-17T17:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf1cb159e",
+   "sez": "economia",
+   "titolo": "Mauritania: opposizione analizza sette anni di spesa pubblica",
+   "orig": "7413 مليارا في 7 سنوات.. قوى الإنقاذ يستعرض \"بلغة الأرقام\" مسار إنفاق البلاد",
+   "lead": "Le forze di salvezza e il movimento di opposizione mauritano presentano un'analisi numerica dettagliata del percorso di spesa pubblica statale nell'arco di sette anni, quantificando gli importi in miliardi di unità monetarie. L'esame illustra l'allocazione e l'utilizzo delle risorse nazionali nel periodo considerato. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad3ac3631bb580001d1754f/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-17T17:11+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7bc79008",
+   "sez": "mondo",
+   "titolo": "Dembélé conduce il PSG alla rimonta su Strasburgo",
+   "orig": "ديمبيليه يقود باريس سان جرمان لقلب الطاولة على ستراسبورغ",
+   "lead": "Ousmane Dembélé guida il Paris Saint-Germain alla rimonta vittoriosa contro lo Strasburgo con un risultato finale di 3-1 sabato nella settima giornata del campionato di calcio francese. L'attaccante internazionale francese, utilizzato come cambio, si è dimostrato determinante nella rimonta dei parigini. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/1533793/%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86-%D9%8A%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D8%B9%D9%84%D9%89-%D8%B3%D8%AA%D8%B1%D8%A7%D8%B3%D8%A8%D9%88%D8%B1%D8%BA-%D8%A8%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%AF%D9%8A%D9%85%D8%A8%D9%8A%D9%84%D9%8A%D9%87",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T18:45+01:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze47aca3d",
+   "sez": "mondo",
+   "titolo": "Panama: annullate le festività tradizionali dell'11 novembre",
+   "orig": "Panama’s Traditional November 3rd Festivities Have Been Canceled at the Presidential Palace Next Month.",
+   "lead": "Il presidente della Repubblica di Panama, José Raúl Mulino, ha confermato l'annullamento delle tradizionali festività dell'11 novembre che avrebbero dovuto svolgersi presso il palazzo presidenziale il prossimo mese di novembre. La decisione rappresenta una rottura con una lunga tradizione di celebrazioni ufficiali. Lo riferisce Newsroom Panama.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/17/panamas-traditional-november-3rd-festivities-have-been-canceled-at-the-presidential-palace-next-month/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-10-17T17:45+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc3e6c8c4",
+   "sez": "economia",
+   "titolo": "Aeroporto Tocumen di Panama consolida status di hub centro-americano",
+   "orig": "Panama’s Tocumen International Airport Solidifies its Position of being the Busiest Airport in Central America.",
+   "lead": "L'aeroporto internazionale Tocumen di Panama consolida ulteriormente la sua posizione di scalo più trafficato dell'America centrale, consolidando il ruolo di hub logistico regionale. La struttura continua a giocare un ruolo decisivo nel collegamento e nella distribuzione dei flussi di passeggeri e merci dell'intera area. Lo riferisce Newsroom Panama.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/17/panamas-tocumen-international-airport-solidifies-its-position-of-being-the-busiest-airport-in-central-america/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-10-17T17:31+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0ff8c6ca",
+   "sez": "mondo",
+   "titolo": "Il charter CFA cresce di rilevanza per Panama",
+   "orig": "The CFA Charter: A Global Standard with Growing Relevance for Panama",
+   "lead": "La certificazione CFA (Chartered Financial Analyst) acquisisce una rilevanza crescente per Panama, che mira a consolidare la propria posizione internazionale nei settori bancario, logistico e del commercio globale. Secondo l'analisi di Shondell Sabad, l'ottenimento della certificazione CFA può aprire significative opportunità di carriera e accrescere la competitività professionale nel mercato finanziario mondiale. Lo riferisce Newsroom Panama.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/16/the-cfa-charter-a-global-standard-with-growing-relevance-for-panama/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-10-17T00:11+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z62f5fe3d",
+   "sez": "mondo",
+   "titolo": "Praia: muore Alcides Évora, storico combattente per la libertà",
+   "orig": "Praia: Faleceu Alcides Évora (Batcha), Combatente da Liberdade da Pátria",
+   "lead": "Secondo l'Associazione dei Combattenti per la Libertà della Patria, Évora era un combattente di carattere affabile, persona sempre ben disposta e disponibile. La scomparsa rappresenta una perdita per il paese. Lo riferisce A Nação.",
+   "more": [
+    "Alcides Évora è una figura storica nel processo di indipendenza del Capo Verde, contribuendo alla lotta per la liberazione dalla dominazione coloniale portoghese."
+   ],
+   "fonti": [
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/16/praia-faleceu-alcides-evora-batcha-combatente-da-liberdade-da-patria/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-16T20:02+00:00"
+    }
+   ],
+   "data": "16 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0e4fe923",
+   "sez": "mondo",
+   "titolo": "Bolivia: Oviedo annuncia equipaggiamenti e formazione per Umopar",
+   "orig": "Oviedo anuncia dotación de equipos y mayor formación para efectivos de Umopar en su aniversario",
+   "lead": "Il ministro della Sicurezza boliviano Marco Antonio Oviedo ha annunciato sabato, in occasione del 43º anniversario della Unidad Móvil de Patrullaje Rural (Umopar), una dotazione di equipaggiamenti più moderni e programmi di formazione ulteriormente rafforzati per i membri dell'unità specializzata nella lotta al traffico di droga. L'annuncio rappresenta un concreto investimento nel rafforzamento delle capacità operative della polizia. Lo riferisce Opinión Bolivia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/oviedo-anuncia-dotacion-equipos-mayor-formacion-efectivos-umopar-aniversario/20261017132913997751.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T13:29-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3c12fca6",
+   "sez": "economia",
+   "titolo": "Bolivia: panificatori propongono riduzione transitoria del prezzo del pane",
+   "orig": "Panificadores proponen vender el pan a Bs 1 de forma transitoria y se reunirán el lunes con el Gobierno",
+   "lead": "I panificatori boliviani hanno proposto di ridurre il prezzo del pane a un boliviano per unità in modo transitorio per fronteggiare la crisi economica del settore. La proposta sarà discussa lunedì durante un incontro ufficiale con il governo della Bolivia nel capoluogo La Paz. L'intesa potrebbe rappresentare un punto di svolta nelle negoziazioni sui prezzi del pane. Lo riferisce Opinión Bolivia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/panificadores-proponen-vender-pan-bs-1-forma-transitoria-reuniran-lunes-gobierno/20261017132600997749.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T13:26-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3e71d890",
+   "sez": "mondo",
+   "titolo": "Francia: oltre 800mila in piazza contro il rialzo del costo della vita",
+   "orig": "More than 800,000 involved in nationwide protests in France over rising cost of living, organizers say",
+   "lead": "Oltre 800mila persone hanno partecipato secondo gli organizzatori a proteste nazionali in Francia contro il rialzo del costo della vita e l'inflazione che colpisce soprattutto beni essenziali. I manifestanti chiedono misure di sostegno economico e interventi governativi sui prezzi di alimenti e servizi. La mobilitazione rappresenta una delle più significative negli ultimi mesi nel paese. Lo riferisce CBC News.",
+   "more": [
+    "La Francia affronta da mesi pressioni inflazionistiche che colpiscono in particolare le fasce meno abbienti della popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-17T08:46-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z732eb34a",
+   "sez": "mondo",
+   "titolo": "Lisbona: tende al Rossio per protestare contro politiche di abitazione",
+   "orig": "18h São montadas tendas no Rossio no protesto contra as políticas de habitação",
+   "lead": "A Lisbona sono state montate tende nella piazza del Rossio per una protesta contro le politiche di abitazione portoghesi ritenute inadeguate e discriminatorie. Il presidio denuncia l'inaccessibilità della casa per i ceti medi e bassi a causa dei prezzi crescenti degli affitti e delle proprietà immobiliari. La manifestazione prosegue le mobilitazioni contro la crisi abitativa. Lo riferisce RTP.",
+   "more": [
+    "Portogallo affronta una crisi abitativa con prezzi degli affitti e proprietà in crescita, specialmente nella capitale."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/18h-sao-montadas-tendas-no-rossio-no-protesto-contra-as-politicas-de-habitacao_a1_1772376",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1c0efa1a",
+   "sez": "mondo",
+   "titolo": "Repubblica Ceca: l'opposizione mantiene la maggioranza al Senato",
+   "orig": "Tschechien: Opposition verteidigt Mehrheit im Senat",
+   "lead": "L'opposizione ceca ha mantenuto la propria maggioranza al Senato nelle elezioni di ballottaggio per il rinnovo parziale della camera alta del parlamento nazionale. Il risultato consolida il ruolo della coalizione di opposizione rispetto alla maggioranza governativa e influenzerà la gestione politica dei prossimi mesi. La vittoria rappresenta una chiara conferma della volontà popolare espressa alle urne. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445408/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-17T19:40+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd19e4b90",
+   "sez": "economia",
+   "titolo": "Austria: governo d'accordo su bilancio universitario e Zukunftsdepot",
+   "orig": "Regierung bei Unibudget und „Zukunftsdepot“ einig",
+   "lead": "Il governo austriaco ha raggiunto un accordo sul bilancio universitario e sul \"Zukunftsdepot\", il fondo speciale destinato a investimenti e sviluppo futuro del paese. L'intesa rappresenta un passo significativo nelle negoziazioni di bilancio dopo settimane intensive di trattative tra i partner della coalizione di governo. L'accordo mira a fornire finanziamenti adeguati all'educazione superiore austriaca. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445404/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-17T18:25+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze0c4160c",
+   "sez": "mondo",
+   "titolo": "Romania: abbattuti due droni nello spazio aereo nazionale",
+   "orig": "Rumænien nedskyder to droner i deres luftrum",
+   "lead": "La Romania ha abbattuto due droni nello spazio aereo nazionale durante la notte. L'episodio evidenzia le tensioni geopolitiche e di sicurezza nella regione in seguito al conflitto in corso in Ucraina e alle crescenti incursioni aeree dal fronte di guerra. La Romania, membro NATO confinante direttamente con l'Ucraina, ha progressivamente potenziato i sistemi di difesa aerea. Lo riferisce DR Nyheder.",
+   "more": [
+    "La Romania, come membro NATO confinante con l'Ucraina, ha incrementato i sistemi di difesa aerea in risposta alle incursioni aeree dalla zona di conflitto."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/rumaenien-nedskyder-droner-i-deres-luftrum",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-17T17:22+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd70dc67b",
+   "sez": "ambiente",
+   "titolo": "Amazzonia: deforestazione al livello più basso mai registrato",
+   "orig": "Afskovning i Amazonas er faldet til det hidtil laveste niveau",
+   "lead": "La deforestazione in Amazzonia è calata al livello più basso mai registrato finora. Il dato rappresenta un progresso significativo negli sforzi globali di contrasto al disboscamento della più grande foresta pluviale mondiale. Il risultato riflette politiche ambientali brasiliane e pressioni internazionali per la preservazione del bioma cruciale per la regolazione climatica. Lo riferisce DR Nyheder.",
+   "more": [
+    "Il calo della deforestazione in Amazzonia riflette politiche ambientali brasiliane e pressioni internazionali per la preservazione del bioma cruciale per la regolazione climatica globale."
+   ],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/afskovning-i-amazonas-er-faldet-til-det-hidtil-laveste-niveau",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-17T08:15+00:00"
+    },
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/17/de-ontbossing-van-de-amazone-gaat-minder-hard-precies-zoals-de-braziliaanse-president-lula-heeft-beloofd-a4939180",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-17T18:46+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3c4d1368",
+   "sez": "economia",
+   "titolo": "India: Kerala aumenta indennità di caro-vita dal 35% al 37%",
+   "orig": "Keralam govt. increases DA, DR from 35% to 37%",
+   "lead": "Il governo dello stato del Kerala in India ha aumentato i DA (dearness allowance, indennità di caro-vita) e DR (dearness relief, compenso al costo della vita) dal 35% al 37% per i dipendenti pubblici statali. L'incremento mira a proteggere il potere d'acquisto dei salariati dall'inflazione galopante che colpisce il paese. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/keralam-govt-increases-da-dr-from-35-to-37/article71597567.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-17T23:15+05:30"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z70870851",
+   "sez": "mondo",
+   "titolo": "Taiwan: esercito recluta civili per mappare le coste",
+   "orig": "Military to enlist civilians to map coast",
+   "lead": "L'esercito di Taiwan ha lanciato un programma innovativo per reclutare civili volontari con l'obiettivo strategico di mappare completamente le coste dell'isola e le aree costiere. L'iniziativa è parte integrale dei preparativi difensivi volti a rafforzare la conoscenza territoriale e le capacità di risposta nelle operazioni di sicurezza costiera. La partecipazione civile amplifica notevolmente le risorse disponibili. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866157",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0640e23a",
+   "sez": "mondo",
+   "titolo": "Taiwan: ufficiale avverte dei rischi di sondaggi dalla Cina",
+   "orig": "Official warns of China poll risk",
+   "lead": "Un ufficiale taiwanese ha avvertito pubblicamente dei rischi significativi legati a sondaggi d'opinione e operazioni di influenza provenienti dalla Cina continentale. L'avviso mira a sensibilizzare la pubblica opinione su possibili interferenze esterne e manipolazioni subdole nei processi decisionali e nelle competizioni elettorali dell'isola. Taiwan rimane profondamente preoccupata dalle crescenti pressioni informatiche e psicologiche. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866158",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zea61be3b",
+   "sez": "economia",
+   "titolo": "Taiwan: mutui per anziani raggiungono picco storico",
+   "orig": "Mortgage numbers for seniors surge to historic peak",
+   "lead": "I mutui ipotecari per gli anziani a Taiwan hanno raggiunto un picco storico, riflettendo le sfide economiche e demografiche affrontate dall'isola. Il trend è spiegato dall'invecchiamento della popolazione e dalle difficoltà finanziarie crescenti degli anziani nell'accesso alla proprietà immobiliare. Taiwan, come molti paesi sviluppati, affronta sfide demografiche significative con invecchiamento accelerato. Lo riferisce Taipei Times.",
+   "more": [
+    "Taiwan, come molti paesi sviluppati, affronta sfide demografiche con invecchiamento della popolazione che incrementa la domanda di soluzioni abitative alternative."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866159",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc4cb8ee6",
+   "sez": "mondo",
+   "titolo": "Zelenskiy critica Trump: riduzione sanzioni ricompensa Putin",
+   "orig": "Trump’s sanctions waiver ‘rewards’ Putin: Zelenskiy",
+   "lead": "Il presidente ucraino Volodymyr Zelenskiy ha dichiarato che la riduzione decisa delle sanzioni statunitensi verso la Russia costituisce una vera ricompensa per il presidente Putin. La critica arriva mentre proseguono negoziati complessi e delicati sulla risoluzione del conflitto in Ucraina e sul futuro assetto geopolitico della regione. Zelenskiy chiede il fermo mantenimento delle pressioni economiche. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866160",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze022d965",
+   "sez": "tech",
+   "titolo": "Taiwan acquista 292 droni VTOL dalla società americana Shield AI",
+   "orig": "Taiwan to buy 292 VTOL drones from Shield AI",
+   "lead": "Taiwan ha annunciato ufficialmente l'acquisto di 292 droni VTOL (vertical takeoff and landing) dall'azienda americana Shield AI, specializzata in sistemi autonomi avanzati. L'accordo rientra nei programmi strategici di potenziamento deciso delle capacità difensive e operative dell'isola dinanzi alle crescenti minacce regionali. I droni rappresentano una tecnologia chiave per operazioni di ricognizione e risposta tattica. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866167",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0a7f2037",
+   "sez": "mondo",
+   "titolo": "Oltre 15mila persone celebrano l'Iraq a Dubai",
+   "orig": "‘It warms our hearts’: Over 15,000 people celebrate Iraq in Dubai",
+   "lead": "Oltre 15mila persone si sono radunate nel corso di un evento speciale a Dubai per celebrare il patrimonio culturale dell'Iraq e l'identità nazionale. La manifestazione ha rappresentato un momento di riunione per la numerosa comunità irachena residente negli Emirati Arabi Uniti, trasformandosi in un'occasione di festa. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/people/it-warms-our-hearts-over-15000-people-celebrate-iraq-in-dubai-1.500714454",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-17T21:11+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z08d17c3d",
+   "sez": "mondo",
+   "titolo": "Cambiamenti in arrivo per il concorso Miss Jamaica World",
+   "orig": "Changes coming for Miss Jamaica World pageant",
+   "lead": "Il concorso Miss Jamaica World andrà incontro a significativi cambiamenti organizzativi e procedurali nei prossimi tempi. Le modifiche interesseranno la struttura e le modalità di svolgimento della manifestazione che rappresenta il Paese nella competizione internazionale di bellezza. I dettagli specifici sui cambiamenti rimangono in corso di definizione. Lo riferisce Jamaica Observer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/17/changes-coming-miss-jamaica-world-pageant/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-17T09:26+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf78d2c93",
+   "sez": "mondo",
+   "titolo": "Da Spanish Town al riconoscimento nella Florida: storia di successo giamaicana",
+   "orig": "From Spanish Town dreams to Broward County honour",
+   "lead": "Una persona originaria di Spanish Town ha conseguito un significativo riconoscimento a Broward County nella Florida, compiendo un notevole percorso di successo dalla sua città natale giamaicana fino agli Stati Uniti. La storia testimonia il cammino personale di riscatto e realizzazione professionale e umana. Lo riferisce Jamaica Observer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Jamaica Observer",
+     "p": "XX",
+     "c": "Kingston",
+     "u": "https://www.jamaicaobserver.com/2026/10/17/spanish-town-dreams-broward-county-honour/",
+     "angolo": "",
+     "atlas": "Jamaica",
+     "t": "2026-10-17T09:25+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z85389555",
+   "sez": "mondo",
+   "titolo": "Judoka azeri conquistano otto medaglie all'Aktau Asian Open",
+   "orig": "Azerbaijani judokas win 8 medals on first day of Aktau Asian Open",
+   "lead": "Gli atleti dell'Azerbaigian hanno ottenuto una prestazione notevole nella prima giornata dell'Aktau Asian Open, conquistando un totale di otto medaglie nella competizione internazionale di judo. Il risultato testimonia la consolidata tradizione di eccellenza e il livello competitivo degli judoka azeri nel panorama sportivo asiatico. La competizione proseguirà nei giorni successivi. Lo riferisce Trend.",
+   "more": [
+    "L'Azerbaigian ha una consolidata tradizione di eccellenza nel judo, con atleti regolarmente presenti nelle competizioni internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4236195.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-17T21:09+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z64db3682",
+   "sez": "economia",
+   "titolo": "Uzbekneftegaz produce 3,47 miliardi di dollari di beni industriali in nove mesi",
+   "orig": "Uzbekneftegaz produces $3.47B in industrial goods in nine months",
+   "lead": "La società energetica di Stato uzbeka Uzbekneftegaz ha generato un volume di 3,47 miliardi di dollari in prodotti industriali durante i primi nove mesi del 2026, dimostrando prestazioni solide nel settore dei combustibili fossili e dell'energia. Il dato riflette l'importanza della società nel panorama energetico dell'Asia centrale. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235917.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-17T20:25+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z08990ab6",
+   "sez": "economia",
+   "titolo": "ADB stanzia 500 milioni per la centrale idroelettrica di Rogun",
+   "orig": "ADB plans $500 million for Rogun hydropower plant",
+   "lead": "La Banca asiatica per lo sviluppo ha programmato un significativo investimento di 500 milioni di dollari destinato alla realizzazione della centrale idroelettrica di Rogun, uno dei progetti energetici più importanti dell'intera Asia centrale. Il finanziamento rappresenta un importante passo nel percorso di sviluppo infrastrutturale della regione. Lo riferisce Trend.",
+   "more": [
+    "Rogun, in Tajikistan, è il progetto di diga più ambizioso della regione e potrebbe diventare una delle dighe più alte del mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/tajikistan/4236162.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-17T19:47+04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1159d082",
+   "sez": "mondo",
+   "titolo": "Ministro bangladese partecipa a blitz antidroga armato, suscita dubbi su operato",
+   "orig": "State Minister Ishraque joins anti-drug drive with firearm, faces questions over its use",
+   "lead": "Un ministro di Stato del Bangladesh ha partecipato direttamente a un'operazione di contrasto al traffico di droga portando con sé un'arma da fuoco, episodio che successivamente ha sollevato domande sull'uso della pistola durante l'intervento. L'incidente pone questioni sulla modalità di condotta e sui protocolli di sicurezza delle autorità durante le operazioni antidroga. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/jr9y66iu2c",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-17T16:27+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z07c8c46a",
+   "sez": "mondo",
+   "titolo": "Cricket: Ervine e Taylor salvano lo Zimbabwe dopo l'inizio forte di Taskin",
+   "orig": "Ervine, Taylor rescue Zimbabwe after Taskin’s early burst",
+   "lead": "Nel corso di una partita di cricket internazionale, il duo di battitori Ervine e Taylor ha realizzato una rimonta significativa per lo Zimbabwe, contrastando un inizio forte della squadra di bowling guidata da Taskin. La parata offensiva ha cambiato l'inerzia della partita e il risultato finale della competizione. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/sports/cricket/gihx880jy6",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-17T15:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaec1825b",
+   "sez": "mondo",
+   "titolo": "Tragedia nel resort: donna perde tre sorelle e cinque bambini",
+   "orig": "\"My 3 sisters lost 5 children, they came to visit in a group of 9\"",
+   "lead": "Una donna ha testimoniato di aver perso tre sorelle e cinque bambini nel corso della tragedia occorsa nel resort di Cox's Bazar, spiegando che il gruppo composto da nove persone era partito insieme dalla capitale per una visita congiunta. La testimonianza illustra l'ampiezza dell'impatto umano e familiare dell'evento devastante. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/local-news/pnf7g90w7x",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-17T13:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7d37c4fa",
+   "sez": "mondo",
+   "titolo": "Il mondo turco: dalla storia condivisa verso un futuro comune",
+   "orig": "The Turkic World: From Shared History to a Shared Future",
+   "lead": "Un importante convegno esamina le dinamiche del mondo turco dalle radici storiche comuni condivise dai popoli di lingua turca fino a una visione del futuro comune nella regione. Il tema riflette l'attenzione crescente sui legami culturali, linguistici e storici tra le diverse comunità turche dell'Asia centrale. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925537",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-17T21:07+06:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4c1480c9",
+   "sez": "mondo",
+   "titolo": "Kirghizistan e Cina scambiano esperienze sulla sicurezza interna",
+   "orig": "Chui Region Main Internal Affairs Directorate and law enforcement agencies of Shaanxi province exchange experience",
+   "lead": "Agenzie di sicurezza interna della regione di Chui nel Kirghizistan hanno avviato un programma formale di scambio di esperienze e migliori pratiche nel campo della sicurezza pubblica e dell'ordine pubblico con omologhi della provincia dello Shaanxi in Cina. La collaborazione bilaterale rappresenta un rafforzamento dei legami di sicurezza tra i due Paesi. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925560",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-17T15:18+06:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z50c3d7bb",
+   "sez": "mondo",
+   "titolo": "Peru: risultati ufficiali elezioni regionali e municipali nella provincia di Trujillo",
+   "orig": "Elecciones Regionales y Municipales 2026: resultados oficiales de ONPE en la provincia de Trujillo (La Libertad)",
+   "lead": "L'ufficio nazionale delle elezioni peruviano ha reso noti e diffuso ufficialmente i risultati definitivi delle elezioni regionali e municipali del 2026 nella provincia di Trujillo, situata nella regione di La Libertad nel nord del Paese. I risultati completano il processo di scrutinio elettorale in questa importante circonoscrizione nazionale. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/elecciones/elecciones-regionales-y-municipales-2026-resultados-oficiales-de-onpe-en-la-provincia-de-trujillo-la-libertad-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-17T17:50+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaa47f846",
+   "sez": "mondo",
+   "titolo": "Osaka: il festival dei fuochi d'artificio Naniwa Yodo si tiene ad ottobre per evitare il caldo",
+   "orig": "秋の夜空に大輪、なにわ淀川花火大会 暑さ避けて今年も10月開催",
+   "lead": "Il festival tradizionale dei fuochi d'artificio Naniwa Yodo a Osaka si è tenuto nel mese di ottobre per sfuggire alle temperature estive elevate e al caldo torrido, proseguendo una pratica reintrodotta negli ultimi anni. L'evento ha trasformato il cielo notturno con uno spettacolo di luci e colori. Lo riferisce Asahi Shimbun.",
+   "more": [
+    "Il trasferimento del festival a ottobre rappresenta un adattamento alle temperature estive sempre più elevate in Giappone."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBK42N6VBKOXIE04CM.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-17T21:23+09:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
    "id": "z357cd9cf",
    "sez": "mondo",
    "titolo": "Lascia la finanza per aprire uno studio artistico: il progetto di Shan Gasimzade a Lussemburgo",
@@ -1420,30 +2970,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-17T19:03+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "20:08",
-   "uscita": "sera"
-  },
-  {
-   "id": "za339940b",
-   "sez": "ambiente",
-   "titolo": "Brasile: la deforestazione dell'Amazzonia raggiunge il minimo dal 1988 sotto Lula",
-   "orig": "De ontbossing van de Amazone gaat minder hard. Precies zoals de Braziliaanse president Lula heeft beloofd",
-   "lead": "La deforestazione del polmone verde brasiliano è scesa ai livelli più bassi dal 1988, un risultato che rispecchia gli impegni del presidente Lula sulla protezione della foresta pluviale. Il dato tuttavia non garantisce il successo elettorale imminente di Lula nelle prossime elezioni presidenziali brasiliane. Lo riferisce NRC.",
-   "more": [
-    "L'Amazzonia rappresenta uno dei biomi più critici del pianeta per la regolazione del clima globale. Lula ha posto la protezione della foresta al centro della sua piattaforma politica, cercando di invertire i danni ambientali dell'amministrazione precedente."
-   ],
-   "fonti": [
-    {
-     "n": "NRC",
-     "p": "XX",
-     "c": "Rotterdam",
-     "u": "https://www.nrc.nl/nieuws/2026/10/17/de-ontbossing-van-de-amazone-gaat-minder-hard-precies-zoals-de-braziliaanse-president-lula-heeft-beloofd-a4939180",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-17T18:46+02:00"
     }
    ],
    "data": "17 ott",
@@ -6708,28 +8234,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Cameroon",
      "t": "2026-10-17T10:03+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:46",
-   "uscita": "17"
-  },
-  {
-   "id": "za4ec5e22",
-   "sez": "mondo",
-   "titolo": "Camerun, l'orientamento scolastico al centro dello sviluppo locale",
-   "orig": "L’Orientation Scolaire au Cœur de la Dynamique de Développement Local au Cameroun",
-   "lead": "Il Camerun pone l'orientamento scolastico tra i fattori cruciali dello sviluppo locale, incoraggiando gli studenti a scegliere percorsi formativi coerenti con i loro talenti e le esigenze lavorative nazionali. L'iniziativa mira a migliorare l'adeguatezza tra formazione scolastica e bisogni del mercato del lavoro camerunese. Lo riferisce Actu Cameroun.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Actu Cameroun",
-     "p": "XX",
-     "c": "Yaoundé",
-     "u": "https://actucameroun.com/2026/10/17/lorientation-scolaire-au-coeur-de-la-dynamique-de-developpement-local-au-cameroun/",
-     "angolo": "",
-     "atlas": "Cameroon",
-     "t": "2026-10-17T09:39+00:00"
     }
    ],
    "data": "17 ott",
@@ -29376,7 +30880,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zcbbfd39d": "Propone dichiarazioni di un atleta sulla consapevolezza del ruolo internazionale.",
   "z11911b6b": "Testata camerunese che segnala l'interesse di club europei ai giocatori locali.",
   "zf99d3ad3": "Testata che segue i movimenti della scena politica camerunese.",
-  "za4ec5e22": "Testata che evidenzia le strategie camerunesi di sviluppo umano e locale.",
   "z1731fb90": "Testata beninese che evidenzia i nodi della distribuzione agricola locale.",
   "zdfe4a556": "Testata che segue la cooperazione beninese con organismi internazionali per la sicurezza.",
   "z8d31b892": "Testata beninese che copre incidenti diplomatici nord africani.",
@@ -29715,7 +31218,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z3c4b3636": "La testata portoghese documenta la crescente mobilitazione sulla crisi abitativa in Portogallo attraverso diverse forme di protesta",
   "ze505b0b6": "La testata portoghese riporta i risultati finali del processo di accesso all'istruzione superiore della stagione accademica in corso",
   "za156f369": "La testata olandese documenta la mobilitazione della diaspora americana in Europa contro l'amministrazione Trump",
-  "za339940b": "La testata olandese evidenzia il successo ambientale di Lula mentre mantiene scetticismo sulla sua rilevanza elettorale",
   "z285b2f1e": "La testata olandese documenta l'escalation della tensione sociale in Francia attorno alle questioni economiche",
   "z63023e49": "La testata svizzera riferisce un aggiornamento sulla condizione di salute del Pontefice con cautela sulla prognosi",
   "ze634bc42": "La testata austriaca riporta una decisione di politica mediatica che mira a sostenere l'industria editoriale nazionale",
@@ -29732,7 +31234,75 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z4e081c60": "Mobilitazione della sinistra peronista a sostegno di Cristina Kirchner in giornata simbolica.",
   "zb3eaa522": "Monitoraggio serrato della corsa elettorale brasiliana verso ballottaggio con margine che si restringe.",
   "z83314e2e": "Allerta sanitaria in risposta a calamità naturali dopo tempeste frontali con previsione di precipitazioni ulteriori.",
-  "zb664842c": "Cronaca delle polemiche del ministro dei Lavori Pubblici cileno con dichiarazioni di discontinuità."
+  "zb664842c": "Cronaca delle polemiche del ministro dei Lavori Pubblici cileno con dichiarazioni di discontinuità.",
+  "z623b7f36": "Cronaca di amministrazione locale dopo evento calamitoso.",
+  "z4e185c60": "Rendicontazione tecnica di fenomeni sismici.",
+  "z6bd3c083": "Monitoraggio tecnico di fenomeni sismici in tempo reale.",
+  "z1b95887d": "Annuncio ufficiale del cronoprogramma elettorale regionale.",
+  "z321a3ba4": "Proposta legislativa su benefici previdenziali in risposta ai cambiamenti del mercato del lavoro.",
+  "zc061c1ec": "Disputa istituzionale su ambiti di competenza in procedimento investigativo.",
+  "z495dd2a3": "Mobilitazione della diaspora per pressioni internazionali su calendario elettorale.",
+  "z85dcfd8b": "Consultazioni tecniche su materia costituzionale durante fase negoziale.",
+  "z78ca8611": "Protesta settoriale su prezzi agricoli con avviso di escalation.",
+  "zf5a51e52": "Vicenda migratoria che tocca drammatica conclusione.",
+  "zc5bb8b72": "Rapporto internazionale su fenomeno di criminalità organizzata.",
+  "zb165b45b": "Bollettino epidemiologico su diffusione di patogeni respiratori.",
+  "z834130ca": "Operazione anticontrabbando di carburante con sequestri significativi.",
+  "zf2366452": "Azione di protesta di squadra calcistica per contenziosi economici.",
+  "z7afe3e12": "Inchiesta su strumenti repressivi di controllo istituzionale.",
+  "z28d5ea90": "Visita ispettiva del sistema sanitario con disposizioni correttive.",
+  "zb2e3fdd1": "Operazione antimafia con scoperta di vittime potenziali.",
+  "zfeffe590": "Intervista specialistica su patologia oncologica e fattori ostacolanti diagnosi precoce.",
+  "z28194cc0": "Operazione antidroghe con sequestro di stupefacenti in infrastruttura aeroportuale.",
+  "zc2007565": "Incontro diplomatico informale tra rappresentante americano e leadership politica dominicana.",
+  "zdf66e3bf": "Previsione meteo con focus su impatti sulla mobilità e i trasporti regionali.",
+  "z6cd22f76": "Profilo biografico di figura intellettuale che ha incarnato l'impegno civile nel panorama educativo senegalese.",
+  "ze7a9a57f": "Attenzione della federazione calcistica senegalese alla ricerca di nuovi talenti nel campionato interno.",
+  "z2f82754b": "Presa di posizione critica di esponente politico nei confronti di azione sindacale nel settore educativo.",
+  "z10a50a10": "Commento critico su dinamiche geopolitiche internazionali riguardanti il vertice onusiano.",
+  "za0977228": "Omaggio a figure tecniche che operano dietro le quinte del settore radiotelevisivo.",
+  "z8e33a4a9": "Evento diplomatico transfrontaliero legato alla risoluzione di questioni umanitarie.",
+  "zfe0220b7": "Misure di riforma amministrativa e disciplinare nel movimento pallavolistico nazionale.",
+  "zced21073": "Politica educativa camerunese focalizzata sul matching tra attitudini studentesche e opportunità formative.",
+  "zf938b8f6": "Riforma monetaria e valutaria nell'area CEMAC con impatti sulla circolazione fiduciaria.",
+  "z961ab199": "Dichiarazione personale di figura politica americana durante evento di campagna.",
+  "z1cb5101f": "Riflessione su evoluzione del sistema educativo di fronte alle sfide dell'intelligenza artificiale.",
+  "z88406e8b": "Scambio formativo e di cooperazione tra professionisti media africani e istituzioni cinesi.",
+  "z0b6461e8": "Focus su conformità normativa quale requisito essenziale per l'accesso ai mercati continentali.",
+  "z6c9878ba": "Inchiesta critica su problematiche strutturali nella realizzazione di grandi infrastrutture nazionali.",
+  "zf1cb159e": "Analisi della spesa statale presentata dalla coalizione di opposizione mauritana.",
+  "z7bc79008": "Cronaca di match della Ligue 1 con focus su rimonta e prestazioni individuali.",
+  "ze47aca3d": "Decisione amministrativa di cancellazione di celebrazione nazionale storica.",
+  "zc3e6c8c4": "Analisi su ruolo strategico e traffico dell'infrastruttura aeroportuale panamense.",
+  "z0ff8c6ca": "Focus su opportunità di sviluppo professionale e competitività internazionale nel settore finanziario.",
+  "z62f5fe3d": "Necrologica di una figura storica della resistenza anticoloniale nel Capo Verde.",
+  "z0e4fe923": "Annuncio di investimenti nelle forze di polizia specializzate durante cerimonia commemorativa.",
+  "z3c12fca6": "Negoziato tra settore panificatorio e governo su politiche di prezzo per affrontare difficoltà economiche.",
+  "z3e71d890": "Mobilitazione di massa contro crisi economica e povertà.",
+  "z732eb34a": "Protesta popolare contro politiche abitative ritenute inadeguate a fronte della crisi immobiliare.",
+  "z1c0efa1a": "Successo elettorale delle forze di opposizione nel rinnovo parziale del Senato.",
+  "zd19e4b90": "Intesa di governo su investimenti educativi e fondi futuri.",
+  "ze0c4160c": "Azione difensiva nel contesto della sicurezza regionale post-invasione ucraina.",
+  "zd70dc67b": "Dato positivo nella tutela dell'ecosistema amazzonico e della biodiversità.",
+  "z3c4d1368": "Aumento delle indennità per contrastare gli effetti dell'inflazione sui dipendenti pubblici.",
+  "z70870851": "Coinvolgimento dei civili in attività di difesa territoriale.",
+  "z0640e23a": "Allerta su potenziali interferenze esterne nei processi decisionali pubblici.",
+  "zea61be3b": "Trend economico legato a sfide demografiche dell'invecchiamento.",
+  "zc4cb8ee6": "Critica ucraina alle politiche sanzionatorie statunitensi verso Mosca.",
+  "ze022d965": "Investimento in tecnologie di difesa autonoma per rafforzare le capacità militari.",
+  "z0a7f2037": "Un focus sulle comunità diasporiche e le celebrazioni culturali nel Golfo Persico.",
+  "z08d17c3d": "Un resoconto di una riforma amministrativa nei concorsi di bellezza caraibici.",
+  "zf78d2c93": "Un profilo biografico su percorsi di migrazione e successo dalla Giamaica agli USA.",
+  "z85389555": "Una notizia sportiva sulle performances degli atleti azeri in una competizione regionale.",
+  "z64db3682": "Una notizia economica sulla produzione industriale di un'azienda di Stato centrale-asiatica.",
+  "z08990ab6": "Un rapporto su investimenti infrastrutturali nei progetti energetici dell'Asia centrale.",
+  "z1159d082": "Un resoconto critico su una controversia che riguarda l'uso della forza nelle operazioni di sicurezza.",
+  "z07c8c46a": "Un resoconto sportivo su una partita internazionale di cricket.",
+  "zaec1825b": "Una testimonianza personale sull'impatto umano della tragedia nel resort.",
+  "z7d37c4fa": "Un focus tematico sulla coesione culturale e storica dei popoli turchi dell'Asia centrale.",
+  "z4c1480c9": "Un rapporto su cooperazione bilaterale tra autorità di sicurezza cinesi e kirghize.",
+  "z50c3d7bb": "Un rapporto sulla diffusione dei risultati ufficiali di consultazioni elettorali locali.",
+  "zaa47f846": "Un resoconto di un evento culturale tradizionale giapponese adattato ai cambiamenti climatici."
  },
  "contesti": {
   "zs17fra": "Nei giorni scorsi le mobilitazioni dei liceali francesi sono state accompagnate da danni a scuole, tra incendi e mobili distrutti, che le regioni ora faticano a quantificare e a far pagare, come riferisce Le Figaro. La protesta di oggi allarga il fronte a sindacati e Gilet gialli.",
@@ -35408,13 +36978,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "za4ec5e22": {
-   "n": "Yaoundé",
-   "p": [
-    "Cameroon"
-   ],
-   "pt": []
-  },
   "z1731fb90": {
    "n": "Cotonou",
    "p": [
@@ -37738,13 +39301,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "za339940b": {
-   "n": "Brasília",
-   "p": [
-    "Brazil"
-   ],
-   "pt": []
-  },
   "z285b2f1e": {
    "n": "Parigi",
    "p": [
@@ -37859,6 +39415,482 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Cile",
    "p": [
     "Chile"
+   ],
+   "pt": []
+  },
+  "z623b7f36": {
+   "n": "Las Condes",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z4e185c60": {
+   "n": "Perù",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z6bd3c083": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z1b95887d": {
+   "n": "Perù",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z321a3ba4": {
+   "n": "Uruguay",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "zc061c1ec": {
+   "n": "Uruguay",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z495dd2a3": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z85dcfd8b": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z78ca8611": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zf5a51e52": {
+   "n": "Houston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc5bb8b72": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zb165b45b": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z834130ca": {
+   "n": "Chuquisaca",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zf2366452": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z7afe3e12": {
+   "n": "Marocco",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z28d5ea90": {
+   "n": "Guayaquil",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "zb2e3fdd1": {
+   "n": "Posorja",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "zfeffe590": {
+   "n": "Repubblica Dominicana",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "z28194cc0": {
+   "n": "Punta Cana",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "zc2007565": {
+   "n": "Baní",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "zdf66e3bf": {
+   "n": "Catalogna",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z6cd22f76": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "ze7a9a57f": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z2f82754b": {
+   "n": "Ndioum",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z10a50a10": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "za0977228": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z8e33a4a9": {
+   "n": "Koutéré",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zfe0220b7": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zced21073": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zf938b8f6": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z961ab199": {
+   "n": "Dalton",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1cb5101f": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z88406e8b": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z0b6461e8": {
+   "n": "Antananarivo",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z6c9878ba": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "zf1cb159e": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "z7bc79008": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze47aca3d": {
+   "n": "Panama City",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "zc3e6c8c4": {
+   "n": "Panama City",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z0ff8c6ca": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z62f5fe3d": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
+  },
+  "z0e4fe923": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z3c12fca6": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z3e71d890": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z732eb34a": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z1c0efa1a": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zd19e4b90": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "ze0c4160c": {
+   "n": "Romania",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zd70dc67b": {
+   "n": "Amazzonia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z3c4d1368": {
+   "n": "Kerala",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z70870851": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z0640e23a": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zea61be3b": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zc4cb8ee6": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "ze022d965": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z0a7f2037": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z08d17c3d": {
+   "n": "Kingston",
+   "p": [
+    "Jamaica"
+   ],
+   "pt": []
+  },
+  "zf78d2c93": {
+   "n": "Spanish Town",
+   "p": [
+    "Jamaica",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z85389555": {
+   "n": "Aktau",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z64db3682": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z08990ab6": {
+   "n": "Rogun",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z1159d082": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z07c8c46a": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zaec1825b": {
+   "n": "Cox's Bazar",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z7d37c4fa": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z4c1480c9": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan",
+    "China"
+   ],
+   "pt": []
+  },
+  "z50c3d7bb": {
+   "n": "Trujillo",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "zaa47f846": {
+   "n": "Osaka",
+   "p": [
+    "Japan"
    ],
    "pt": []
   }
@@ -38658,7 +40690,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zcbbfd39d": 1,
   "z11911b6b": 1,
   "zf99d3ad3": 1,
-  "za4ec5e22": 1,
   "z1731fb90": 1,
   "zdfe4a556": 1,
   "z8d31b892": 1,
@@ -38997,7 +41028,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z3c4b3636": 1,
   "ze505b0b6": 1,
   "za156f369": 1,
-  "za339940b": 1,
   "z285b2f1e": 1,
   "z63023e49": 1,
   "ze634bc42": 1,
@@ -39014,7 +41044,75 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z4e081c60": 2,
   "zb3eaa522": 1,
   "z83314e2e": 1,
-  "zb664842c": 1
+  "zb664842c": 1,
+  "z623b7f36": 1,
+  "z4e185c60": 1,
+  "z6bd3c083": 1,
+  "z1b95887d": 1,
+  "z321a3ba4": 1,
+  "zc061c1ec": 1,
+  "z495dd2a3": 1,
+  "z85dcfd8b": 1,
+  "z78ca8611": 1,
+  "zf5a51e52": 1,
+  "zc5bb8b72": 1,
+  "zb165b45b": 1,
+  "z834130ca": 1,
+  "zf2366452": 1,
+  "z7afe3e12": 1,
+  "z28d5ea90": 1,
+  "zb2e3fdd1": 1,
+  "zfeffe590": 1,
+  "z28194cc0": 1,
+  "zc2007565": 1,
+  "zdf66e3bf": 1,
+  "z6cd22f76": 1,
+  "ze7a9a57f": 1,
+  "z2f82754b": 1,
+  "z10a50a10": 1,
+  "za0977228": 1,
+  "z8e33a4a9": 1,
+  "zfe0220b7": 1,
+  "zced21073": 1,
+  "zf938b8f6": 1,
+  "z961ab199": 1,
+  "z1cb5101f": 1,
+  "z88406e8b": 1,
+  "z0b6461e8": 1,
+  "z6c9878ba": 1,
+  "zf1cb159e": 1,
+  "z7bc79008": 1,
+  "ze47aca3d": 1,
+  "zc3e6c8c4": 1,
+  "z0ff8c6ca": 1,
+  "z62f5fe3d": 1,
+  "z0e4fe923": 1,
+  "z3c12fca6": 1,
+  "z3e71d890": 1,
+  "z732eb34a": 1,
+  "z1c0efa1a": 1,
+  "zd19e4b90": 1,
+  "ze0c4160c": 1,
+  "zd70dc67b": 2,
+  "z3c4d1368": 1,
+  "z70870851": 1,
+  "z0640e23a": 1,
+  "zea61be3b": 1,
+  "zc4cb8ee6": 1,
+  "ze022d965": 1,
+  "z0a7f2037": 2,
+  "z08d17c3d": 2,
+  "zf78d2c93": 2,
+  "z85389555": 2,
+  "z64db3682": 2,
+  "z08990ab6": 2,
+  "z1159d082": 2,
+  "z07c8c46a": 2,
+  "zaec1825b": 1,
+  "z7d37c4fa": 2,
+  "z4c1480c9": 2,
+  "z50c3d7bb": 2,
+  "zaa47f846": 2
  },
  "video": {},
  "pillole": []
