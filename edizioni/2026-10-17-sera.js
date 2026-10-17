@@ -3,30 +3,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z6d3fdc40",
-   "sez": "mondo",
-   "titolo": "Gli Houthi colpiscono Aden in Yemen: cosa significa",
-   "orig": "Houthis strike Yemen’s Aden: What that means",
-   "lead": "I ribelli Houthi hanno lanciato un attacco contro la città yemenita di Aden, colpendo il palazzo presidenziale e l'aeroporto. L'azione segna un'escalation nel conflitto che vede gli Houthi opposti al governo yemenita riconosciuto internazionalmente, che ha sede proprio ad Aden dopo la perdita della capitale Sana'a. L'attacco solleva interrogativi sulla capacità del governo di difendere i propri centri di potere e sulle conseguenze per la stabilità della regione. Lo riferisce Al Jazeera.",
-   "more": [
-    "Gli Houthi sono un movimento armato yemenita di ispirazione sciita che controlla ampie zone del nord del Paese, inclusa la capitale Sana'a, e combatte da anni contro il governo yemenita sostenuto da una coalizione regionale, in un conflitto che ha causato una grave crisi umanitaria."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "XX",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T09:16+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
    "id": "z884cb364",
    "sez": "salute",
    "titolo": "Medici chiedono di ridurre il tempo davanti agli schermi nelle scuole inglesi",
@@ -273,7 +249,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zc997f183",
-   "sez": "cultura",
+   "sez": "italia",
    "titolo": "Fabio Ferrari, l'attore della Terza C diventato monologhista della destra",
    "orig": "Caro Chicco Lazzaretti, ragazzo della Terza C, che male ti abbiamo fatto?",
    "lead": "Fabio Ferrari, celebre per il ruolo del personaggio Chicco Lazzaretti nella serie anni Ottanta 'I Ragazzi della Terza C', è oggi diventato un monologhista nei programmi televisivi vicini alla destra politica. L'attore ha dichiarato di non vedere l'ora di votare per Giorgia Meloni, suscitando reazioni sul suo percorso personale e artistico. Lo riferisce la Repubblica.",
@@ -292,30 +268,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
     }
    ],
    "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
-   "id": "z08b5fda9",
-   "sez": "economia",
-   "titolo": "Energia, Palazzo Chigi: nell'intesa Ue recepite le priorità italiane",
-   "orig": "Energia, P.Chigi: recepite priorità Roma",
-   "lead": "Il Governo italiano, tramite Palazzo Chigi, ha fatto sapere che l'intesa raggiunta con l'Unione europea sul decreto Bollette recepisce le priorità indicate da Roma. La dichiarazione conferma la linea italiana nel negoziato europeo sui costi energetici. Lo riferisce Rai News.",
-   "more": [
-    "Palazzo Chigi è la sede del governo italiano e della presidenza del Consiglio dei ministri, da cui vengono diffuse le posizioni ufficiali dell'esecutivo su temi di politica interna ed europea."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/energia-pchigi-recepite-priorita-roma-9ea5bb63-90d7-4f1e-aa3f-ce2fef93151f.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T15:30+00:00"
-    }
-   ],
-   "data": "16 ott",
    "ora": "13:23",
    "uscita": "13"
   },
@@ -587,30 +539,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z0b9b843b",
-   "sez": "cultura",
-   "titolo": "\"The Diplomat\" diventa italiano: la serie Netflix arriva in Toscana",
-   "orig": "“The Diplomat” goes Italian: Netflix’s hit series lands in Tuscany",
-   "lead": "La serie di successo Netflix \"The Diplomat\", con Keri Russell, Rufus Sewell e Ali Ahn, ha scelto l'Italia come ambientazione per la nuova stagione. Le riprese si sono svolte in Toscana, tra Lucca, Firenze e Prato, portando la produzione internazionale a girare nelle città storiche della regione. Lo riferisce la Repubblica.",
-   "more": [
-    "\"The Diplomat\" è una serie televisiva drammatica Netflix ambientata nel mondo della diplomazia internazionale, con Keri Russell nel ruolo principale di un'ambasciatrice statunitense alle prese con intrighi politici e personali."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://europe.repubblica.it/en/culture/2026/10/17/news/netflix_the_diplomat_tuscany_filming_locations-425653227/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T04:00+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "13:23",
-   "uscita": "13"
-  },
-  {
    "id": "za406c96c",
    "sez": "mondo",
    "titolo": "Fragile ma protagonista: il messaggio di Papa Leone al mondo",
@@ -793,48 +721,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
     }
    ],
    "data": "17 ott",
-   "ora": "13:02",
-   "uscita": "13"
-  },
-  {
-   "id": "zc32d318f",
-   "sez": "economia",
-   "titolo": "Regno Unito, crescita a sorpresa ad agosto. Healey: «Segno di resilienza»",
-   "orig": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-   "lead": "Ad agosto l'economia britannica è cresciuta dello 0,1 per cento, mentre gli analisti si aspettavano una leggera contrazione. Il cancelliere dello Scacchiere John Healey ha definito il dato un «segno di resilienza», a poche settimane dalla presentazione della legge di bilancio. Healey ha anche sostenuto le ragioni della crescita a favore della terza pista dell'aeroporto di Heathrow, anche se il primo ministro non si è espresso. Il capo di Heathrow, Thomas Woldbye, avverte che rinunciarvi sarebbe un'enorme occasione persa.",
-   "more": [
-    "Il cancelliere dello Scacchiere è il ministro britannico delle Finanze. Ogni anno presenta il Budget, cioè il bilancio dello Stato. Heathrow è il più grande aeroporto di Londra e del Regno Unito, e il progetto di una terza pista è discusso da molti anni per il suo impatto economico e ambientale."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/ck8dz1me439no",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-15T13:25+00:00"
-    },
-    {
-     "n": "BBC News",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-14T04:59+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T21:30+00:00"
-    }
-   ],
-   "data": "16 ott",
    "ora": "13:02",
    "uscita": "13"
   },
@@ -1669,7 +1555,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z462ac143": "Al Jazeera racconta come i rincari legati alla guerra stiano cambiando le scelte energetiche delle famiglie filippine.",
   "z3025a501": "Al Jazeera mette in evidenza il peso del debito sui bilanci dei Paesi a basso reddito.",
   "z36f6f410": "ANSA mette in fila i numeri dei fermi e degli arresti, compreso il blitz negli uffici di CNews.",
-  "zc32d318f": "La BBC punta sul dato del Pil e sull'appello del capo di Heathrow. Il Guardian sottolinea la distanza tra Healey e il primo ministro sulla terza pista.",
   "zc22645e8": "La BBC segue le puntate concentrandosi su emozioni e colpi di scena. Il Guardian sposta l'attenzione sul nuovo programma di Amol Rajan, che giudica deludente.",
   "z11a49368": "Il Guardian racconta il conflitto attraverso il calcio e i campioni in campo. Deutsche Welle allarga lo sguardo alle conseguenze sulla leadership regionale ed economica saudita.",
   "zae425303": "BBC News mette in risalto il lato curioso della vicenda: il furto da dilettanti e il nascondiglio dentro una mela.",
@@ -1701,7 +1586,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z9de08c09": "la Repubblica presenta il provvedimento come un divieto di solidarietà, evidenziando il contrasto tra assistenza ai migranti e attività di svago.",
   "zdc39533c": "la Repubblica mette in primo piano il dato sui tumori e l'annuncio fatto da Decaro proprio ai lavoratori dell'ex Ilva.",
   "z58bc7f6e": "la Repubblica sottolinea il valore affettivo e nostalgico della Panda nell'immaginario italiano.",
-  "z6d3fdc40": "Al Jazeera ricostruisce le circostanze dell'attacco e il suo significato politico-militare.",
   "z884cb364": "BBC News riporta l'allarme dei clinici sulle conseguenze sanitarie della tecnologia nelle scuole.",
   "zebc902b9": "Il Guardian giudica la serie debole nonostante un cast di prestigio.",
   "za6295022": "The Guardian segue in diretta la partita sottolineando la posta in classifica per entrambe le squadre.",
@@ -1713,7 +1597,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z60f91962": "la Repubblica racconta sia l'apertura diplomatica con la Spagna sia le tensioni interne al Consiglio europeo sui migranti.",
   "z33af670c": "The Guardian sottolinea il contrasto tra il budget stellare dei Dodgers e il gioco di squadra dei Brewers.",
   "zc997f183": "la Repubblica ripercorre la trasformazione pubblica dell'ex attore in commentatore politico.",
-  "z08b5fda9": "Rai News riporta la posizione del governo sull'esito del negoziato europeo.",
   "zbb54d35a": "BBC News e Al Jazeera concordano sui fatti, con Al Jazeera che sottolinea il passato dell'aggressore come ex studente con bisogni speciali nella stessa scuola.",
   "zd70a60b9": "BBC News riporta la versione dell'entourage dell'attrice sull'episodio.",
   "z9be416ae": "BBC News riporta la decisione del giudice e le critiche alla conduzione dell'accusa.",
@@ -1725,7 +1608,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z1675870e": "Al Jazeera analizza il panorama politico israeliano concentrandosi sui potenziali successori di Netanyahu.",
   "zab522f4a": "ANSA segue l'evoluzione della vicenda della famiglia che aveva scelto l'isolamento nel bosco.",
   "z5d5028c3": "ANSA sottolinea la rimonta dello spagnolo contro uno dei favoriti del torneo.",
-  "z0b9b843b": "la Repubblica evidenzia il prestigio delle location toscane scelte da una produzione internazionale di rilievo.",
   "za406c96c": "la Repubblica interpreta la fragilità fisica del Papa come scelta di non ritirarsi dalla scena pubblica.",
   "z4ac54b6d": "la Repubblica raccoglie la testimonianza personale di Tacconi sulla malattia e su episodi della sua carriera."
  },
@@ -1783,13 +1665,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Francia",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "zc32d318f": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -2004,13 +1879,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z6d3fdc40": {
-   "n": "Aden",
-   "p": [
-    "Yemen"
-   ],
-   "pt": []
-  },
   "z884cb364": {
    "n": "Inghilterra",
    "p": [
@@ -2083,13 +1951,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z08b5fda9": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -2170,13 +2031,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z0b9b843b": {
-   "n": "Toscana",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "za406c96c": {
    "n": "Città del Vaticano",
    "p": [],
@@ -2197,7 +2051,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z462ac143": 1,
   "z3025a501": 1,
   "z36f6f410": 2,
-  "zc32d318f": 2,
   "zc22645e8": 2,
   "z11a49368": 2,
   "zae425303": 1,
@@ -2229,7 +2082,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z9de08c09": 1,
   "zdc39533c": 1,
   "z58bc7f6e": 1,
-  "z6d3fdc40": 1,
   "z884cb364": 1,
   "zebc902b9": 1,
   "za6295022": 1,
@@ -2241,7 +2093,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z60f91962": 1,
   "z33af670c": 1,
   "zc997f183": 1,
-  "z08b5fda9": 1,
   "zbb54d35a": 2,
   "zd70a60b9": 1,
   "z9be416ae": 1,
@@ -2253,7 +2104,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z1675870e": 1,
   "zab522f4a": 1,
   "z5d5028c3": 1,
-  "z0b9b843b": 1,
   "za406c96c": 1,
   "z4ac54b6d": 1
  },
