@@ -195,20 +195,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Mauritius",
      "t": "2026-10-17T17:00+04:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:48",
-   "uscita": "17"
-  },
-  {
-   "id": "z76318aaa",
-   "sez": "mondo",
-   "titolo": "Mauritius, i fattori all'origine dei recenti incidenti di piazza",
-   "orig": "Les facteurs derrière les récents incidents",
-   "lead": "A Mauritius continua l'approfondimento sui molteplici fattori sociali, economici e politici che hanno favorito il verificarsi dei recenti gravi incidenti sul territorio nazionale. Il quadro che emerge mette in luce fragilità strutturali e tensioni crescenti all'interno della comunità, elementi che richiedono interventi mirati per ripristinare la fiducia nelle istituzioni ed evitare il ripetersi di simili tensioni. Lo riferisce Defimedia.",
-   "more": [],
-   "fonti": [
+    },
     {
      "n": "Defimedia",
      "p": "XX",
@@ -467,7 +454,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zc208ee59",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Gabon, sensibilizzazione sui tumori femminili presso la CPPF",
    "orig": "Cancers féminins : CPPF « unie contre l’unique »",
    "lead": "Il personale della Cassa pensioni e prestazioni familiari gabonese (CPPF) partecipa a una sessione di sensibilizzazione dedicata ai tumori femminili come componente di un programma di prevenzione sanitaria più ampio. L'evento sottolinea l'importanza della consapevolezza su questi cancri femminili diffusi e della diagnosi precoce. Lo riferisce Gabonactu.",
@@ -555,7 +542,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zac94df76",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Gabon, 2.400 persone curate in campagna oftalmologica a Port-Gentil",
    "orig": "Port-Gentil : plus de 2 400 personnes reçues pour les yeux",
    "lead": "Una campagna di cure oftalmologiche svoltasi dal 10 al 15 ottobre presso il Centro ospedaliero regionale di Port-Gentil ha fornito assistenza a 2.447 persone. L'operazione rientra in un programma più ampio di assistenza sanitaria pubblica volto a migliorare l'accesso ai servizi oculistici per la popolazione regionale. Lo riferisce Gabonactu.",
@@ -598,7 +585,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z5ae5e564",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Madagascar, software per usare l'IA senza esporre dati sensibili",
    "orig": "JUSTICE – Un logiciel d’anonymisation pour permettre aux magistrats d’utiliser l’IA sans exposer les données des justiciables",
    "lead": "Il Consiglio di Stato malgascio mette a disposizione dei magistrati un software di anonimizzazione che elimina automaticamente le informazioni personali prima dell'utilizzo di strumenti di intelligenza artificiale nei procedimenti giudiziari. Lo strumento rappresenta un tentativo di coniugare innovazione tecnologica con la necessaria tutela della privacy dei cittadini. Lo riferisce 2424.mg.",
@@ -788,6 +775,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Tunisia",
      "t": "2026-10-17T12:21+00:00"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147492-tunisians-demonstrate-over-living-costs-freedoms.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-17T14:13+00:00"
     }
    ],
    "data": "17 ott",
@@ -893,7 +889,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z59fa1249",
-   "sez": "mondo",
+   "sez": "ambiente",
    "titolo": "Sacchetti di plastica vietati circolano ancora nei mercati di Luanda",
    "orig": "Após entrada em vigor das novas regras, sacos plásticos proibidos continuam a circular nos mercados",
    "lead": "Venticinque giorni dopo l'entrata in vigore del divieto dei sacchetti di plastica con spessore inferiore a 50 micron in Angola, i prodotti continuano a circolare nei mercati di Luanda. Commercianti citano mancanza di informazioni e stock antichi come cause del mancato rispetto della misura. Lo riferisce Novo Jornal.",
@@ -984,50 +980,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "za7b72526",
-   "sez": "mondo",
-   "titolo": "Club Africano pareggia in Congo nei preliminari della Coppa CAF",
-   "orig": "النادي الافريقي يعود بتعادل ثمين من لوبومباشي",
-   "lead": "Il Club Africano tunisino ha pareggiato 1-1 con l'TP Mazembe della Repubblica Democratica del Congo il 17 ottobre 2026 nella sfida d'andata del turno preliminare finale della Coppa dei Campioni CAF. La gara di ritorno determinerà l'accesso alla competizione. Lo riferisce Mosaïque FM.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Mosaïque FM",
-     "p": "XX",
-     "c": "Tunisi",
-     "u": "https://www.mosaiquefm.net/ar/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/1533780/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A8%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%AB%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D9%84%D9%88%D8%A8%D9%88%D9%85%D8%A8%D8%A7%D8%B4%D9%8A",
-     "angolo": "",
-     "atlas": "Tunisia",
-     "t": "2026-10-17T16:09+01:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:46",
-   "uscita": "17"
-  },
-  {
-   "id": "zc858f35d",
-   "sez": "mondo",
-   "titolo": "Arabia Saudita esegue cinque condannati per terrorismo",
-   "orig": "السعودية تعدم 5 مواطنين بعد إدانتهم بجرائم إرهابية",
-   "lead": "Il ministero dell'Interno saudita ha annunciato il 17 ottobre 2026 l'esecuzione di cinque cittadini condannati per reati di terrorismo nella provincia orientale del regno. Lo riferisce Mosaïque FM.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Mosaïque FM",
-     "p": "XX",
-     "c": "Tunisi",
-     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533770/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AF%D9%85-5-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%AF%D8%A7%D9%86%D8%AA%D9%87%D9%85-%D8%A8%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9",
-     "angolo": "",
-     "atlas": "Tunisia",
-     "t": "2026-10-17T14:30+01:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:46",
-   "uscita": "17"
-  },
-  {
    "id": "z3334c1a5",
    "sez": "mondo",
    "titolo": "TP Mazembe fermato dal Club Africano, tutto si decide a Tunisi",
@@ -1043,6 +995,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Dem. Rep. Congo",
      "t": "2026-10-17T15:19+00:00"
+    },
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/1533780/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D9%8A%D8%B9%D9%88%D8%AF-%D8%A8%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%AB%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D9%84%D9%88%D8%A8%D9%88%D9%85%D8%A8%D8%A7%D8%B4%D9%8A",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T16:09+01:00"
     }
    ],
    "data": "17 ott",
@@ -1144,7 +1105,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "ze2278a36",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Ex direttore panamense previdenza ricoverato per infarto",
    "orig": "Enrique Lau Cortés, exdirector de la CSS, ingresado tras supuesto infarto",
    "lead": "Enrique Lau Cortés, ex direttore dell'Istituto di Sicurezza Sociale di Panama (CSS), è stato ricoverato nel reparto Cardiologia con sospetto infarto. L'ex funzionario è attualmente indagato per arricchimento illecito di cinquecentomila dollari. Lo riferisce Panamá América.",
@@ -1224,22 +1185,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Cabo Verde",
      "t": "2026-10-17T13:20+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:46",
-   "uscita": "17"
-  },
-  {
-   "id": "z546cfcb1",
-   "sez": "economia",
-   "titolo": "TACV: blocco su riduzioni stipendiali impedisce elezione nuovi organi",
-   "orig": "Impasse na TACV: redução salarial inviabiliza eleição de novos órgãos sociais e atual administração continua em funções",
-   "lead": "L'assemblea generale della TACV del 16 ottobre si è conclusa senza consenso a causa del conflitto sulla proposta di riduzione retributiva per il consiglio amministrazione. L'impossibilità di eleggere nuovi organi sociali mantiene l'attuale amministrazione in carica. Lo riferisce A Nação.",
-   "more": [
-    "Lo stallo riflette tensioni ricorrenti nel settore delle compagnie aeree in Africa, dove misure di austerità si scontrano con la resistenza dei dirigenti."
-   ],
-   "fonti": [
+    },
     {
      "n": "A Nação",
      "p": "XX",
@@ -1250,7 +1196,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "t": "2026-10-16T20:06+00:00"
     }
    ],
-   "data": "16 ott",
+   "data": "17 ott",
    "ora": "17:46",
    "uscita": "17"
   },
@@ -1364,7 +1310,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z6bfefd11",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Trasferimenti bloccati nel calcio del Suriname, la commissione non decide",
    "orig": "Transferperikelen en halsstarrigheid Player Status-commissie houden SML-clubs achter",
    "lead": "Nel campionato di calcio del Suriname, i trasferimenti rimangono bloccati mentre la competizione è già iniziata. La Player Status-commissione, organo deputato a risolvere le controversie tra club, non prende decisioni su alcuni casi presentati secondo le procedure regolamentari. Alcuni di questi casi risalgono persino alla stagione precedente, lasciando i giocatori interessati impossibilitati a scendere in campo e paralizzando le operazioni di mercato. Lo riferisce De Ware Tijd.",
@@ -1456,7 +1402,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zbf6dde2f",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Australia ancora indecisa sulla formazione per il secondo test contro il Sud Africa",
    "orig": "Australia still undecided on starting XI for second test v S Africa",
    "lead": "La nazionale australiana di cricket rimane incerta sulla composizione della formazione che scenderà in campo per il secondo test match contro il Sud Africa a Singapore, con gli allenatori impegnati a valutare le diverse opzioni disponibili per la competizione internazionale, cercando la combinazione ottimale di giocatori. Lo riferisce CNA.",
@@ -1758,29 +1704,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z55deff8f",
-   "sez": "mondo",
-   "titolo": "Cina, ergastolo per il funzionario che mescolò vernice nel cibo della mensa scolastica",
-   "orig": "유치원 급식 색감 내려고 물감 섞어…중국, 책임자에 무기징역 선고",
-   "lead": "In Cina, un responsabile è stato condannato all'ergastolo per aver mescolato vernice nel cibo servito nella mensa di un asilo nido al fine di alterarne l'aspetto visivo, commettendo un grave crimine contro la sicurezza alimentare e il benessere dei bambini iscritti. Lo riferisce The Hankyoreh.",
-   "more": [
-    "Il caso rappresenta uno degli scandali di sicurezza alimentare più gravi in Cina, sottolineando l'importanza del controllo sulla qualità dei pasti nelle istituzioni scolastiche."
-   ],
-   "fonti": [
-    {
-     "n": "The Hankyoreh",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.hani.co.kr/arti/area/capital/1282860.html",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "17:46",
-   "uscita": "17"
-  },
-  {
    "id": "z4f35dd0e",
    "sez": "economia",
    "titolo": "Corea del Sud, crollo del KOSPI per strategie di trading ad alto rischio",
@@ -1818,27 +1741,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "p": "XX",
      "c": "Seul",
      "u": "https://www.hani.co.kr/arti/politics/bluehouse/1282858.html",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "17:46",
-   "uscita": "17"
-  },
-  {
-   "id": "z4324f4bb",
-   "sez": "mondo",
-   "titolo": "Kim Do-young guida il KIA alla vittoria contro il LG nella semifinale dei playoff",
-   "orig": "김도영, 홈런 2방 포함 4타점 맹활약…KIA, LG와 준PO 1차전 승리",
-   "lead": "Kim Do-young ha brillato nel baseball coreano con una prestazione straordinaria caratterizzata da due fuoricampo e quattro punti battuti, guidando la squadra KIA alla vittoria nel primo match della semifinale dei playoff contro il rivale LG nella competizione di baseball sudcoreana. Lo riferisce The Hankyoreh.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Hankyoreh",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.hani.co.kr/arti/sports/baseball/1282853.html",
      "angolo": "",
      "atlas": "South Korea"
     }
@@ -2079,7 +1981,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "ze8409b22",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "L'Iran prosegue la costruzione della ferrovia Nord-Sud strategica",
    "orig": "Iran continues construction for key North-South railway (Exclusive)",
    "lead": "L'Iran continua i lavori di costruzione della ferrovia Nord-Sud, un'infrastruttura cruciale per i commerci e la connettività regionale nell'Asia sud-occidentale. Il progetto mira a collegare il nord del paese con il sud, creando un corridoio di trasporto merci strategico. I lavori procedono secondo i piani iniziali. Lo riferisce Trend.",
@@ -2103,7 +2005,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z41f23fe7",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Il Tagikistan costruisce una strada da 51,4 chilometri lungo il bacino del Rogun",
    "orig": "Tajikistan to build 51.4-km road along Rogun reservoir",
    "lead": "Il governo del Tagikistan ha avviato la costruzione di un'infrastruttura stradale da 51,4 chilometri che costeggia il bacino del Rogun, uno dei progetti idroelettrici più importanti dell'Asia Centrale. La strada collegherà aree remote e isolate della nazione. Il progetto rappresenta un investimento significativo nello sviluppo infrastrutturale regionale. Lo riferisce Trend.",
@@ -2851,28 +2753,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zb626d9dd",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV esce dall'ospedale, domenica la benedizione Angelus",
-   "orig": "Papież Leon XIV opuścił szpital. Już w niedzielę odmówi modlitwę",
-   "lead": "Papa Leone XIV è stato dimesso dall'ospedale sabato dopo l'analisi positiva dei risultati degli esami medici post-operatori per il tumore polmonare. Domenica il pontefice reciterà la preghiera dell'Angelus dalla finestra del suo appartamento nel Palazzo Apostolico e si rivolgerà ai fedeli. Lo riferisce TVN24.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "TVN24",
-     "p": "XX",
-     "c": "Varsavia",
-     "u": "https://tvn24.pl/swiat/rzym-papiez-leon-xiv-opuscil-szpital-w-niedziele-pojawi-sie-w-watykanie-st9292085?source=rss",
-     "angolo": "",
-     "atlas": "Poland",
-     "t": "2026-10-17T10:22+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:42",
-   "uscita": "17"
-  },
-  {
    "id": "z97fbe10c",
    "sez": "mondo",
    "titolo": "Cuba, tonnellate di rifiuti bloccano traffico stradale e ferroviario",
@@ -3144,7 +3024,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z722baf0a",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Cuiabá dedica il giorno alla prevenzione del cancro e delle malattie sessualmente trasmissibili",
    "orig": "Cuiabá terá preventivo, orientações sobre mamografia e testes de ISTs neste sábado",
    "lead": "Sabato 17 ottobre, la municipalità di Cuiabá avvia una giornata dedicata all'Ottobre Rosa con controlli medici gratuiti in 72 centri sanitari pubblici della città. Le visite includono test preventivi per cancro mammario, cervicale e malattie sessualmente trasmissibili. La partecipazione non richiede prenotazione. Lo riferisce G1.",
@@ -4226,20 +4106,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Cameroon",
      "t": "2026-10-17T13:23+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:42",
-   "uscita": "17"
-  },
-  {
-   "id": "zc7986f63",
-   "sez": "mondo",
-   "titolo": "Merlin Wendeu Lako in Nazionale: pazienza e dedizione per scalare gerarchie",
-   "orig": "Merlin Wendeu Lako chez les Lions Indomptables : la patience et le travail pour bousculer la hiérarchie",
-   "lead": "A 27 anni, Merlin Wendeu Lako esordisce nella selezione nazionale camerunese per le competizioni imminenti. L'atleta conta sulla dedizione nel club per eventualmente aumentare le presenze internazionali. Lo riferisce Actu Cameroun.",
-   "more": [],
-   "fonti": [
+    },
     {
      "n": "Actu Cameroun",
      "p": "XX",
@@ -4347,6 +4214,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-10-17T14:16+00:00"
+    },
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533770/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AF%D9%85-5-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%AF%D8%A7%D9%86%D8%AA%D9%87%D9%85-%D8%A8%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T14:30+01:00"
     }
    ],
    "data": "17 ott",
@@ -4467,7 +4343,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "ze1973794",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "L'Asia Centrale resta dipendente dalle esportazioni di materie prime",
    "orig": "EFSR: Central Asian Countries Still Export Mainly Raw Materials",
    "lead": "Secondo uno studio della banca EFSR, le economie dell'Asia Centrale rimangono fortemente dipendenti dalle esportazioni di materie prime, mentre l'Uzbekistan compie progressi verso posizionamenti più elevati nelle catene del valore globale. Lo studio evidenzia la necessità di diversificazione economica. Lo riferisce UzDaily.",
@@ -4851,28 +4727,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "za1823872",
-   "sez": "mondo",
-   "titolo": "Macky Sall abbandona candidatura per segretario generale Onu",
-   "orig": "Macky Sall, Fronted By Burundi President, Withdraws From UN Candidacy",
-   "lead": "L'ex presidente senegalese Macky Sall, supportato dal presidente del Burundi, ha ritirato la sua candidatura al posto di segretario generale dell'Onu. La decisione giunge dopo una votazione nel Consiglio di sicurezza che ha rivelato insufficienti consensi all'interno dell'organismo per proseguire la candidatura. Sall ha così deciso di abbandonare la corsa alla guida della più importante organizzazione internazionale. Lo riferisce KT Press.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "KT Press",
-     "p": "XX",
-     "c": "Kigali",
-     "u": "https://www.ktpress.rw/2026/10/macky-sall-fronted-by-burundi-president-withdraws-from-un-candidacy/",
-     "angolo": "",
-     "atlas": "Rwanda",
-     "t": "2026-10-17T13:45+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
    "id": "z6cad888c",
    "sez": "mondo",
    "titolo": "Uganda: Bahati reintegrato alla guida del partito NRM nel distretto",
@@ -5125,7 +4979,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z94fe47e7",
-   "sez": "ambiente",
+   "sez": "adolescenti",
    "titolo": "Belize: studenti agricoli cercano finanziamenti per l'impresa",
    "orig": "Mopan Technical High School’s Agri-Business students seek support to grow production and build young entrepreneurs",
    "lead": "Il dipartimento di agroalimentare della Mopan Technical High School coltiva non solo polli, uova e verdure, ma sviluppa anche competenze pratiche e idee imprenditoriali rilevanti per il settore agricolo di Belize. Gli studenti entusiasti cercano assistenza finanziaria e partenariati commerciali per migliorare la presentazione e il confezionamento dei loro prodotti. Lo riferisce Breaking Belize News.",
@@ -5143,7 +4997,8 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "data": "17 ott",
    "ora": "17:38",
-   "uscita": "17"
+   "uscita": "17",
+   "sub": "scuola"
   },
   {
    "id": "zddf94b3b",
@@ -5200,7 +5055,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z75625c0a",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Il prezzo della vittoria: equilibrio tra allenamento e recupero",
    "orig": "EMPIRE SPORTS MEDICINE SERIES: The Price of Winning",
    "lead": "Secondo un'analisi del Tribune delle Bahamas, l'eccesso di allenamento senza adeguato recupero non migliora le prestazioni atletiche ma accumula fatica, rischiando di compromettere salute e performance. L'equilibrio tra stress muscolare e adattamento fisico è essenziale per gli atleti. Lo riferisce The Tribune (Bahamas).",
@@ -5708,7 +5563,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zd512a358",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Coppa Simón Bolívar: il Virginia di Santa Cruz approda ai quarti",
    "orig": "Simón Bolívar: el cruceño Virginia ya está en cuartos de final",
    "lead": "Nel campionato Simón Bolívar di calcio boliviano, il Virginia di Santa Cruz si è qualificato ai quarti di finale. Questo fine settimana si disputano le partite di ritorno degli ottavi, dopo le quali rimarranno in gara otto squadre in lotta per la promozione. Lo riferisce Brújula Digital.",
@@ -5889,30 +5744,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z46195f1e",
-   "sez": "mondo",
-   "titolo": "Sede di CNews e Europe 1 danneggiata, atti «d'intimidazione» portano all'arresto di 21 persone",
-   "orig": "Le siège de CNews et Europe 1 dégradé, des actes «d’intimidation» qui ont conduit à l’interpellation de 21 personnes",
-   "lead": "La sede di CNews e Europe 1 a Parigi è stata danneggiata in atti d'intimidazione che hanno portato all'arresto di 21 persone. Sui social media circolavano immagini di barriere abbattute, mentre manifestanti lanciavano oggetti e infrangevano vetri della struttura.",
-   "more": [
-    "I danni si inscrivono nel contesto delle proteste per il deterioramento dell'istruzione pubblica francese e degli scontri tra polizia e studenti."
-   ],
-   "fonti": [
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/medias/a-paris-le-siege-de-cnews-cible-par-des-manifestants-21-personnes-interpellees-20261017",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-17T14:37+02:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:38",
-   "uscita": "17"
-  },
-  {
    "id": "z13883fb1",
    "sez": "mondo",
    "titolo": "Aggressioni contro Europe 1 e CNews: sui social i giornalisti esprimono «pieno appoggio»",
@@ -5928,6 +5759,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-17T16:53+02:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/medias/a-paris-le-siege-de-cnews-cible-par-des-manifestants-21-personnes-interpellees-20261017",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T14:37+02:00"
     }
    ],
    "data": "17 ott",
@@ -6444,7 +6284,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z05711659",
-   "sez": "mondo",
+   "sez": "cultura",
    "titolo": "Ozu ha mostrato la strada: un documentarista cerca l'uomo dietro la leggenda",
    "orig": "‘Ozu showed the way’: A documentarian looks for the man behind the legend",
    "lead": "Il documentarista americano Daniel Raim, celebre per i suoi film dedicati ai cineasti statunitensi, ha realizzato un progetto documentaristico su Yasujiro Ozu, il maestro giapponese, eseguito con grande cura e ammirazione. L'opera intende illuminare la figura dell'uomo dietro la leggenda del cinema. Lo riferisce The Japan Times.",
@@ -7372,7 +7212,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zf6be2296",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Livorno costretta a rivelare: il difensore Regazzetti operato per tumore ai testicoli",
    "orig": "L’odio social costringe il Livorno a rompere la privacy per Regazzetti: “Operato per un tumore ai testicoli”",
    "lead": "La società calcistica Livorno ha dovuto rivelare la vera diagnosi medica del difensore Samuele Regazzetti a causa del dilagare di commenti su social media. Il giocatore della squadra di Serie C è stato operato per un tumore ai testicoli, una scelta comunicativa concordata con il diretto interessato in risposta alla pressione mediatica. Lo riferisce Il Fatto Quotidiano.",
@@ -7481,28 +7321,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Morocco",
      "t": "2026-10-17T15:05+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:34",
-   "uscita": "17"
-  },
-  {
-   "id": "z404a97bb",
-   "sez": "mondo",
-   "titolo": "Tunisiani manifestano contro crisi del costo della vita e violazione libertà",
-   "orig": "Tunisians demonstrate over living costs, freedoms",
-   "lead": "Più di 3.000 persone hanno manifestato sabato a Tunisi contro il carovita e l'erosione dei diritti e delle libertà civili. La marcia, organizzata dall'Unione Generale dei Lavoratori Tunisini e da partiti di opposizione, porta gli slogan 'Niente democrazia senza libertà' e 'Niente dignità nella povertà'. Lo riferisce Hespress English.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Hespress English",
-     "p": "XX",
-     "c": "Rabat",
-     "u": "https://en.hespress.com/147492-tunisians-demonstrate-over-living-costs-freedoms.html",
-     "angolo": "",
-     "atlas": "Morocco",
-     "t": "2026-10-17T14:13+00:00"
     }
    ],
    "data": "17 ott",
@@ -7645,7 +7463,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z7df77779",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Penang, strada collegamento verso Silicon Island avanza verso primo ponte",
    "orig": "Penang’s RM420m link road to Silicon Island targets first bridge opening by 2028",
    "lead": "Il progetto della strada di collegamento verso Silicon Island a Penang, del valore di 420 milioni, avanza: sono stati recuperati 202,3 ettari di terreno dall'inizio della bonifica. I costruttori puntano all'apertura del primo ponte entro il 2028, segnando un progresso verso il completamento dell'importante infrastruttura. Lo riferisce Malay Mail.",
@@ -7937,7 +7755,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z88f8a254",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Rugby femminile: Silver Ferns inseguono la Constellation Cup",
    "orig": "Silver Ferns out to add Constellation Cup to Commonwealth Games gold",
    "lead": "La nazionale femminile di rugby della Nuova Zelanda (Silver Ferns) punta ad aggiungere la Constellation Cup ai titoli conquistati ai Commonwealth Games. In campo il primo test match della competizione che la oppone alle Australian Diamonds dell'Australia. La sfida rappresenta un momento cruciale per entrambe le squadre nel prosieguo del torneo. Lo riferisce Stuff NZ.",
@@ -8071,7 +7889,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z82f094ef",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Croazia: piano da 932 milioni per sviluppo intelligenza artificiale",
    "orig": "Croatia sets out €932 million plan for artificial intelligence development",
    "lead": "La Croazia ha lanciato un piano nazionale per lo sviluppo dell'intelligenza artificiale esteso fino al 2032, dotato di un investimento di 932,1 milioni di euro. L'iniziativa si propone di incrementare competenze e capacità tecnologiche nel settore dell'IA nel paese. Il programma rappresenta un impegno strategico verso la trasformazione digitale della nazione nei prossimi anni. Lo riferisce Croatia Week.",
@@ -8110,28 +7928,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
     }
    ],
    "data": "16 ott",
-   "ora": "17:34",
-   "uscita": "17"
-  },
-  {
-   "id": "z3be2429b",
-   "sez": "mondo",
-   "titolo": "Portogallo: proteste contro il carovita, manifestazioni in tutta Europa",
-   "orig": "Protesta në të gjithë Portugalinë kundër rritjes së kostos së jetesës, demonstratat përfshijnë Evropën",
-   "lead": "Migliaia di cittadini portoghesi si mobilitano in proteste contro l'aumento del costo della vita, in un'ondata di manifestazioni che riguarda diversi paesi europei. Ai movimenti per i diritti abitativi si sono unite le organizzazioni sindacali confederate, che esigono aumenti salariali e pensionistici, miglioramento dei servizi pubblici e l'attuazione di misure di protezione sociale. Lo riferisce Euronews Albania.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/protesta-ne-te-gjithe-portugaline-kunder-rritjes-se-kostos-se-jeteses-demonstratat-perfshijne-evropen/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-17T15:08+00:00"
-    }
-   ],
-   "data": "17 ott",
    "ora": "17:34",
    "uscita": "17"
   },
@@ -8283,7 +8079,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z0422f0c0",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Källberg raggiunge la semifinale del campionato europeo di ping pong",
    "orig": "Anton Källberg klar för EM-semifinal – slog norrmannen",
    "lead": "L'atleta svedese Anton Källberg ha eliminato il norvegese Borgar Haug nei quarti di finale del campionato europeo di tennistavolo in Slovenia, conquistando l'accesso alla semifinale con il punteggio di 4-2 nei set. Källberg ha espresso soddisfazione per la vittoria: \"Sono molto contento e felice adesso\", ha dichiarato subito dopo la partita.",
@@ -8453,7 +8249,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z1cabd273",
-   "sez": "mondo",
+   "sez": "cultura",
    "titolo": "Praga: il restaurato Palazzo Industriale apre gratuitamente al pubblico",
    "orig": "Prague’s restored Industrial Palace opens to the public for free",
    "lead": "Il Palazzo Industriale di Praga, dopo importanti lavori di restauro, ha aperto al pubblico con accesso gratuito. L'edificio storico rappresenta un capolavoro dell'architettura industriale ceca della fine dell'Ottocento ed è ora nuovamente accessibile a residenti e turisti.",
@@ -8523,7 +8319,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z4dc95e23",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Basket: Bayern Munich sconfitta da Beşiktaş senza Jokubaitis",
    "orig": "Be Jokubiačio žaidusi „Bayern“ ekipa nusileido „Bešiktaš“ krepšininkams",
    "lead": "La squadra di basket del Bayern Monaco ha subito una sconfitta dalle mani del Beşiktaş nella competizione di basket europeo, in assenza del giocatore lituano Roko Jokubaitis. Il Bayern, con record di 2-4 nella competizione, non ha potuto beneficiare del contributo del suo atleta lituano nella gara di venerdì.",
@@ -8545,7 +8341,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z14eee370",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Basket: Laso spiega la difesa vincente dell'Anadolu Efes contro il Žalgiri",
    "orig": "„Žalgirį“ sustabdęs Laso išskyrė gynybos planą: negalėjome leisti dominuoti Valančiūnui",
    "lead": "L'allenatore spagnolo Pablo Laso della squadra turca Anadolu Efes ha illustrato la strategia difensiva che ha portato alla vittoria di 85-70 su Žalgiri nel campionato Eurolega. Laso ha sottolineato l'importanza della fisicità, della lotta per il rimbalzo e dell'efficace contenimento dei principali attaccanti della squadra avversaria.",
@@ -8559,28 +8355,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Lithuania",
      "t": "2026-10-16T22:02+03:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "17:30",
-   "uscita": "17"
-  },
-  {
-   "id": "z801af033",
-   "sez": "mondo",
-   "titolo": "Baltici sospettosi sulla virata di Trump verso la Russia",
-   "orig": "Trumpo posūkis Rusijos link: kodėl Baltieji rūmai glumina amerikiečius?",
-   "lead": "Secondo fonti citate da Reuters, l'amministrazione statunitense avrebbe ordinato a Kyiv di limitare l'accesso ai servizi satellitari Starlink. Il presidente Trump nega di aver impartito direttive in merito, ma il cambio di rotta della politica americana verso la Russia desta preoccupazione nei Paesi baltici e tra gli stessi cittadini americani intervistati.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "LRT",
-     "p": "XX",
-     "c": "Vilnius",
-     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3084381/trumpo-posukis-rusijos-link-kodel-baltieji-rumai-glumina-amerikiecius",
-     "angolo": "",
-     "atlas": "Lithuania",
-     "t": "2026-10-16T21:57+03:00"
     }
    ],
    "data": "16 ott",
@@ -8732,6 +8506,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "u": "https://tg24.sky.it/mondo/2026/10/17/papa-leone-xiv-ospedale-dimissioni-angelus-ultime-news",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/swiat/rzym-papiez-leon-xiv-opuscil-szpital-w-niedziele-pojawi-sie-w-watykanie-st9292085?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-17T10:22+00:00"
     }
    ],
    "data": "17 ott",
@@ -9014,7 +8797,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "ze87aa694",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "Polemica intorno al cantante balcanico Jozinovic per canzone di estremista croato",
    "orig": "Neuer Balkan-Pop inmitten alter Konflikte",
    "lead": "Il cantante croato Jakov Jozinovic, 21 anni, domina i palcoscenici dei Balcani reinterpretando classici della musica popolare regionale, ma accese proteste sorgono dopo che un video lo mostra cantare un brano del musicista di estrema destra croato Thompson. Il cantante sostiene di non aver voluto offendere. L'episodio accende dibattiti identitari nella regione. Lo riferisce ORF.",
@@ -9194,7 +8977,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z323e928b",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Oncologia: alleanza Tunisia-Francia per la cura dei pazienti",
    "orig": "Oncologie : l’Institut Salah Azaïez s’allie à l’Institut Paoli-Calmettes de Marseille pour renforcer la prise en charge",
    "lead": "Il ministro della Sanità tunisino Mustapha Ferjani ha presieduto venerdì 16 ottobre la firma di un memorandum di cooperazione tra l'Istituto Salah Azaïez e l'Istituto Paoli-Calmettes di Marsiglia. L'accordo mira al supporto della formazione medica, al rafforzamento della ricerca e al miglioramento dell'assistenza ai pazienti oncologici. Lo riferisce La Presse de Tunisie.",
@@ -9537,7 +9320,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zfd53e896",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Kenya: KMPDU protesta esclusione dalle misure Ebola",
    "orig": "KMPDU protests exclusion from Ebola response measures",
    "lead": "Il sindacato dei medici KMPDU protesta per l'esclusione dei professionisti sanitari dalle misure di contenimento dell'Ebola, avvertendo che è necessaria una risposta coordinata. Il segretario generale Davji Atellah denuncia il mancato coinvolgimento adeguato del personale medico formato nella gestione della malattia. Lo riferisce Citizen Digital.",
@@ -10127,30 +9910,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "ze30e68ce",
-   "sez": "economia",
-   "titolo": "Decreto bollette: l'accordo del Governo al Consiglio europeo",
-   "orig": "Dl Bollette: cosa prevede l’accordo siglato dal Governo al Consiglio europeo",
-   "lead": "Il Governo italiano ha siglato un'intesa preliminare al Consiglio europeo per adottare un meccanismo di controllo dei costi energetici ispirato al modello spagnolo, con condizioni precise e di natura temporanea. L'accordo rientra nel decreto bollette, misura con cui l'esecutivo intende contenere l'impatto dei rincari energetici su famiglie e imprese. Lo riferisce Il Sole 24 Ore.",
-   "more": [
-    "Il modello spagnolo di controllo dei prezzi energetici, noto come 'eccezione iberica', prevede un tetto al prezzo del gas usato per produrre elettricità, misura adottata da Spagna e Portogallo per contenere i costi dell'energia elettrica per i consumatori."
-   ],
-   "fonti": [
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/dl-bollette-cosa-prevede-l-accordo-siglato-governo-consiglio-europeo-AJJiFqmB",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-17T09:25+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:24",
-   "uscita": "17"
-  },
-  {
    "id": "z71dcf106",
    "sez": "cultura",
    "titolo": "A Tunisi una mostra unisce design contemporaneo e riciclo dei rifiuti",
@@ -10627,59 +10386,8 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z342369c6",
-   "sez": "mondo",
-   "titolo": "Francia, i gilet gialli si rimobilitano spinti dalla protesta dei liceali",
-   "orig": "Mobilisation du 17 octobre : les gilets jaunes remobilisés par «cette jeunesse déjà partie devant»",
-   "lead": "In Francia, ex e attuali gilet gialli, da Bordeaux ad Amiens, si rimobilitano per la giornata di protesta di sabato 17 ottobre, inizialmente guardata con sospetto per il suo appello anonimo. Il movimento liceale, nato nelle scuole della periferia parigina, ha dato loro la spinta che non osavano più dare da soli. Decine di migliaia di persone erano attese in diverse città francesi per manifestare contro il caro vita, con studenti, sindacati e movimenti sociali.",
-   "more": [
-    "I gilet gialli, movimento nato nel 2018 contro l'aumento delle tasse sul carburante, avevano scosso a lungo la presidenza Macron prima di affievolirsi negli anni successivi; la loro rimobilitazione segna un possibile ritorno di tensioni sociali legate al costo della vita in Francia."
-   ],
-   "fonti": [
-    {
-     "n": "Libération",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.liberation.fr/societe/les-gilets-jaunes-remobilises-par-cette-jeunesse-deja-partie-devant-20261016_D2YHGU6EVBAQ5K2MAW55CJP34I/",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-16T15:15+00:00"
-    },
-    {
-     "n": "Le Matin Algérie",
-     "p": "XX",
-     "c": "Algeri",
-     "u": "https://lematindalgerie.com/france-etudiants-syndicats-et-anciens-gilets-jaunes-appeles-a-manifester-contre-la-vie-chere/",
-     "angolo": "",
-     "atlas": "Algeria",
-     "t": "2026-10-17T09:10+00:00"
-    },
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-17T11:21+00:00"
-    },
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/article-france-protests-high-fuel-prices-cost-of-living/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-17T11:48+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:24",
-   "uscita": "17"
-  },
-  {
    "id": "z482b81a4",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Polonia-Nigeria: cinque giocatrici da seguire nell'esordio mondiale delle Flamingos",
    "orig": "Poland vs Nigeria: Five Players to watch as Flamingos begin World Cup campaign",
    "lead": "La Nigeria, detta Flamingos, debutta nella Coppa del mondo femminile Under 17 della FIFA in Marocco contro la Polonia. Per le africane il riferimento è Harmony Chidi, indicata come leader della squadra, mentre tra le polacche spicca Zofia Burzan, insieme ad altre giovani promesse. Il match è importante per partire con il piede giusto nel torneo. Lo riferisce Premium Times.",
@@ -10847,28 +10555,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Georgia",
      "t": "2026-10-17T09:23+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:17",
-   "uscita": "17"
-  },
-  {
-   "id": "zad91af30",
-   "sez": "mondo",
-   "titolo": "Pullman per portare gente: il comizio di Vučić a Novi Sad ricorda la Békemenet ungherese",
-   "orig": "Buszokkal hozták az embereket, a magyar Békemenetet idézte Vučić újvidéki kampánygyűlése",
-   "lead": "Il comizio elettorale di Aleksandar Vučić a Novi Sad è stato paragonato alla Békemenet ungherese, per l'arrivo di persone in autobus che hanno bloccato il traffico. Due giornalisti sono stati coinvolti in un incidente. Il premier slovacco Fico è volato dal vertice Ue per sostenere Vučić, che si prepara a tornare alla guida del governo dopo la presidenza. Lo riferisce Telex English.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Telex English",
-     "p": "XX",
-     "c": "Budapest",
-     "u": "https://telex.hu/kulfold/2026/10/17/vucic-ujvidek-sns-kampany-buszoztatas-vajdasag-valasztas-helyszini-riport",
-     "angolo": "",
-     "atlas": "Hungary",
-     "t": "2026-10-17T14:52+02:00"
     }
    ],
    "data": "17 ott",
@@ -11172,7 +10858,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z036a8b32",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "La Turchia chiede il processo per 37 persone nello scandalo dei fondi",
    "orig": "Turkish regulator seeks prosecution of 37 in fund scandal",
    "lead": "Il regolatore dei mercati finanziari turco, la Capital Markets Board (SPK), ha chiesto venerdì il perseguimento penale di 37 persone, tra cui un ex deputato del partito di governo e un ex vicegovernatore della banca centrale. Sono sospettate di manipolazione del mercato azionario nello scandalo dei fondi di investimento. Le segnalazioni riguardano 22 persone per le operazioni sulla società mineraria Vişne Madencilik. Lo riferisce Turkish Minute.",
@@ -11340,6 +11026,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-17T13:05+00:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3084381/trumpo-posukis-rusijos-link-kodel-baltieji-rumai-glumina-amerikiecius",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-16T21:57+03:00"
     }
    ],
    "data": "17 ott",
@@ -12018,28 +11713,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z74204da4",
-   "sez": "mondo",
-   "titolo": "Uno squalo fuori rotta diventa una celebrità in Corea del Sud",
-   "orig": "A Wayward Shark Becomes a Celebrity in South Korea",
-   "lead": "Uno squalo lungo circa tre metri è rimasto bloccato per settimane in un canale portuale, attirando oltre un milione di spettatori. Mentre il pesce resta in zona, le autorità cercano di guidarlo di nuovo verso il mare aperto. La vicenda ha trasformato l'animale in un caso di grande interesse pubblico. Lo riferisce The New York Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-17T12:55+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:17",
-   "uscita": "17"
-  },
-  {
    "id": "zc4e3b293",
    "sez": "mondo",
    "titolo": "Perché ci sono proteste in Francia?",
@@ -12400,7 +12073,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "za46a8524",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Deficit commerciale Usa torna ai livelli pre-dazi di Trump",
    "orig": "Déficit comercial de Estados Unidos vuelve a niveles previos a los aranceles de Donald Trump: las razones detrás del fracaso de la guerra comercial",
    "lead": "Il deficit commerciale degli Stati Uniti è tornato ai livelli precedenti all'avvio dei dazi voluti dal presidente Donald Trump. Ad agosto il divario ha toccato i 105,6 miliardi di dollari. Secondo El Tiempo, i dazi frenano le importazioni, ma aumentano i costi e penalizzano le esportazioni, indebolendo l'efficacia della guerra commerciale. Lo riferisce El Tiempo.",
@@ -13103,28 +12776,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z735dbccb",
-   "sez": "mondo",
-   "titolo": "Germania: Merz davanti all'ala giovanile conservatrice a Bonn",
-   "orig": "Germany news: Merz faces conservative youth wing in Bonn",
-   "lead": "Friedrich Merz, in difficoltà nel sostegno all'interno del suo partito, incontra sabato a Bonn la Giovane Unione, l'organizzazione giovanile della CDU/CSU che conta 90.000 iscritti. Nello Schleswig-Holstein sono attesi 3.000 partecipanti a un raduno giovanile dell'AfD. Il doppio appuntamento mette in evidenza il confronto con i giovani conservatori e la mobilitazione dei giovani di estrema destra. Lo riferisce Deutsche Welle.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-17T10:34+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:13",
-   "uscita": "17"
-  },
-  {
    "id": "z3f98876d",
    "sez": "mondo",
    "titolo": "Il governatore della California Newsom rafforza la regolamentazione sull'AI in vista del 2028",
@@ -13214,7 +12865,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "ze028bc48",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Nei campionati nazionali Chelsea e Atletico prolungano le serie di vittorie",
    "orig": "Nacionaliniuose čempionatuose pergalių serijas pratęsė „Chelsea“ ir „Atletico“",
    "lead": "Nel campionato inglese di Premier League il Chelsea ha ottenuto la seconda vittoria consecutiva, mentre nella LaLiga spagnola l'Atletico Madrid ha conquistato il quinto successo di fila. Le due squadre proseguono così le rispettive serie positive. Il Chelsea gioca a Londra, l'Atletico a Madrid, in due sfide distinte dello stesso turno di campionato. Lo riferisce LRT.",
@@ -13412,7 +13063,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z12d9ec25",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Lo slugger è all'altezza della fama: due fuoricampo nella vittoria nei playoff KBO",
    "orig": "(LEAD) Slugger lives up to superstar billing with 2 homers in KBO postseason victory",
    "lead": "A Gwangju, nella prima partita della serie di playoff KBO contro i Twins, il 17 ottobre, uno slugger dei Kia Tigers si è messo in luce con due fuoricampo. Il giocatore, già all-star, ha guidato la squadra alla vittoria. Entrando nella serie di postseason, la sua squadra aveva affrontato l'avversario con grandi aspettative. Lo riferisce Yonhap.",
@@ -13471,6 +13122,14 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "South Korea",
      "t": "2026-10-17T17:07+09:00"
+    },
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/sports/baseball/1282853.html",
+     "angolo": "",
+     "atlas": "South Korea"
     }
    ],
    "data": "17 ott",
@@ -13479,7 +13138,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "za34e3bf2",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Ace americano e veterano locale si sfidano nei playoff KBO",
    "orig": "American ace, homegrown veteran to duel in KBO postseason game",
    "lead": "I Kia Tigers punteranno a una seconda vittoria consecutiva nei playoff KBO, a Gwangju, il 17 ottobre. Nella partita è previsto il duello tra un lanciatore americano e un veterano del campionato coreano. La squadra cerca di consolidare il proprio cammino nella postseason. Lo riferisce Yonhap.",
@@ -13611,7 +13270,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zaed1c300",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "I Dees travolgono i Tigers e conquistano la qualificazione alle finali AFLW",
    "orig": "Dees dismantle Tigers to seal AFLW finals series berth",
    "lead": "Melbourne si è qualificata per le finali AFLW dopo aver battuto con facilità Richmond nel Pride Round. La squadra ha dominato la partita e ha ottenuto il posto nella fase finale del campionato. La vittoria chiude il percorso di qualificazione. Lo riferisce ABC News Australia.",
@@ -13655,7 +13314,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z63c635d5",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Medico di base richiamato dalla pensione per coprire la clinica di Horowhenua con organico ridotto",
    "orig": "General practitioner called out of retirement to staff undermanned Horowhenua clinic",
    "lead": "Un medico di base è stato richiamato dalla pensione per lavorare nella clinica di Horowhenua, a corto di personale. Dodici dipendenti hanno lasciato o hanno dato le dimissioni da quando il dottor Andy van de Vyver ha lasciato Taitoko Health l'anno scorso. La clinica fatica quindi a garantire il servizio. Lo riferisce RNZ.",
@@ -13720,50 +13379,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z39112ffa",
-   "sez": "mondo",
-   "titolo": "Polizia: «spiacevole» la ripetizione della frode legata agli iPhone Duo",
-   "orig": "Police call repeat iPhone fraud incident 'regrettable'",
-   "lead": "A Hong Kong la polizia ha ricevuto oltre 110 segnalazioni di presunto uso illecito di carte di credito legate ai preordini dell'iPhone Duo. L'importo coinvolto è di circa 4,6 milioni di dollari di Hong Kong, con una perdita massima vicina a 230mila. Non ci sono ancora arresti. Lo riferisce RTHK.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTHK",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://news.rthk.hk/rthk/en/component/k2/1874311-20261017.htm",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-17T18:25+08:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:13",
-   "uscita": "17"
-  },
-  {
-   "id": "zb4009e2a",
-   "sez": "mondo",
-   "titolo": "A Huanggang i viaggiatori anticipano il weekend di Chung Yeung",
-   "orig": "Travellers get Chung Yeung headstart at Huanggang",
-   "lead": "Sabato molti residenti di Hong Kong hanno provato il nuovo porto di Huanggang, all'inizio del lungo weekend del Festival Chung Yeung. Tra loro un viaggiatore ha detto che preferirà questo valico al checkpoint di Lok Ma Chau, perché più grande e bello. I viaggiatori hanno espresso apprezzamento per la struttura. Lo riferisce RTHK.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTHK",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://news.rthk.hk/rthk/en/component/k2/1874289-20261017.htm",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-17T13:36+08:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "17:13",
-   "uscita": "17"
-  },
-  {
    "id": "zbbcc321d",
    "sez": "mondo",
    "titolo": "Manifestazioni a Tunisi contro il presidente Saied",
@@ -13809,7 +13424,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z47b1cb8b",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "La Moldavia punta a ridurre al 40% le importazioni di elettricità entro il 2050",
    "orig": "Moldova aims to reduce electricity imports to 40% by 2050",
    "lead": "La Moldavia intende ridurre le importazioni di elettricità dal 77% attuale al 40% entro il 2050. L'obiettivo sarà raggiunto con investimenti nella produzione di energia interna e nelle rinnovabili. Il ministro dell'Energia Dorin Junghietu ha annunciato il target. Lo riferisce IPN.",
@@ -14104,7 +13719,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z2bfa3584",
-   "sez": "mondo",
+   "sez": "ambiente",
    "titolo": "Gli oceani saranno al centro dei negoziati della COP31",
    "orig": "Oceans will be negotiated at COP31",
    "lead": "I Paesi del Pacifico chiedono un trattamento paritario e un maggiore riconoscimento della propria voce nei negoziati climatici internazionali, in vista della COP31 in Turchia. L'inviato per l'Oceano Pacifico, Inia Seruiratu, afferma che le piccole nazioni insulari continuano a riporre speranza nella cooperazione internazionale. Per loro, chiedere un'azione climatica più forte significa difendere il diritto alla vita. Lo riferisce FBC News.",
@@ -15017,7 +14632,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z93483840",
-   "sez": "mondo",
+   "sez": "organizzazioni",
    "titolo": "Il Consiglio europeo avverte le aziende: conseguenze per chi partecipa all'insediamento israeliano E1",
    "orig": "European Council warns companies against Israel's E1 settlement construction",
    "lead": "Il Consiglio europeo, l'organismo che stabilisce l'indirizzo politico dell'Unione, ha avvertito venerdì le imprese che rischiano «conseguenze legali, economiche e reputazionali» se si coinvolgono nella costruzione dell'insediamento E1 nella Cisgiordania occupata da Israele. L'intervento, giudicato di grande peso, arriva a pochi giorni dalla scadenza del 19 ottobre per la presentazione delle offerte in uno degli appalti legati al progetto, con l'obiettivo di scoraggiare la partecipazione delle aziende. Lo riferisce Middle East Eye.",
@@ -16243,6 +15858,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Cabo Verde",
      "t": "2026-10-17T12:10+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/protesta-ne-te-gjithe-portugaline-kunder-rritjes-se-kostos-se-jeteses-demonstratat-perfshijne-evropen/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-17T15:08+00:00"
     }
    ],
    "data": "17 ott",
@@ -16402,6 +16026,14 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-10-17T04:10+00:00"
+    },
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/area/capital/1282860.html",
+     "angolo": "",
+     "atlas": "South Korea"
     }
    ],
    "data": "17 ott",
@@ -16759,6 +16391,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Bosnia and Herz.",
      "t": "2026-10-17T16:44+02:00"
+    },
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/kulfold/2026/10/17/vucic-ujvidek-sns-kampany-buszoztatas-vajdasag-valasztas-helyszini-riport",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-17T14:52+02:00"
     }
    ],
    "data": "17 ott",
@@ -17688,7 +17329,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "zd71d8c0e",
-   "sez": "cultura",
+   "sez": "cucina",
    "titolo": "Ciotole di storia: la migrazione cinese raccontata a tavola",
    "orig": "I grew up eating bowls of Chinese migration history. You?",
    "lead": "Un autore racconta come la cucina della sua famiglia custodisse la storia della migrazione cinese. Per i suoi la cena era un momento quasi sacro: ogni giorno tutti dovevano riunirsi a tavola, qualunque fossero gli impegni o l'umore di ciascuno. Al centro della tavola c'era quasi sempre un pesce intero al vapore, di solito spigola. Veniva servito con zenzero, cipollotto, olio e salsa di soia, insieme a molti altri piatti. Lo riferisce South China Morning Post – Cultura.",
@@ -19304,6 +18945,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-10-17T14:58+00:00"
+    },
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/10/macky-sall-fronted-by-burundi-president-withdraws-from-un-candidacy/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-10-17T13:45+00:00"
     }
    ],
    "data": "17 ott",
@@ -20538,6 +20188,15 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-10-17T16:40+08:00"
+    },
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874311-20261017.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T18:25+08:00"
     }
    ],
    "data": "17 ott",
@@ -22538,6 +22197,42 @@ window.EDIZIONI["2026-10-17-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-15T23:25+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/les-gilets-jaunes-remobilises-par-cette-jeunesse-deja-partie-devant-20261016_D2YHGU6EVBAQ5K2MAW55CJP34I/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-16T15:15+00:00"
+    },
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/france-etudiants-syndicats-et-anciens-gilets-jaunes-appeles-a-manifester-contre-la-vie-chere/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-17T09:10+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-17T11:21+00:00"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-france-protests-high-fuel-prices-cost-of-living/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-17T11:48+00:00"
     }
    ],
    "data": "17 ott",
@@ -22885,7 +22580,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z6554dd37": "NPR racconta la ricerca di giustizia delle famiglie con un taglio narrativo di lungo periodo.",
   "z802c461d": "NPR presenta la mobilitazione in chiave pratica e informativa, sottolineando il carattere non partitico.",
   "z724dc40e": "DW evidenzia la portata globale della regolamentazione cinese sul settore videoludico.",
-  "z735dbccb": "DW collega l'incontro di Bonn al raduno giovanile dell'AfD nello Schleswig-Holstein.",
   "z3f98876d": "Al Jazeera inquadra la decisione nelle ambizioni presidenziali di Newsom.",
   "z8b73c3f4": "Al Jazeera dà risalto alla condanna palestinese della decisione.",
   "z98ab83d5": "RTÉ News segue l'iter giudiziario con aggiornamenti sulla vicenda locale.",
@@ -22911,8 +22605,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z63c635d5": "RNZ collega la vicenda locale alla questione più ampia della carenza di personale sanitario.",
   "zba5aa1ad": "RNZ riporta le valutazioni esterne sulla prestazione di una squadra del Pacifico.",
   "z7a0fc554": "RNZ Pacific segnala il rischio meteo per le isole del Pacifico.",
-  "z39112ffa": "RTHK riporta le dichiarazioni ufficiali della polizia sull'episodio.",
-  "zb4009e2a": "RTHK raccoglie le testimonianze dei viaggiatori sul nuovo valico.",
   "zbbcc321d": "MIA riporta la protesta dal punto di vista dell'agenzia macedone, con cronaca sintetica.",
   "zed1345db": "MIA riporta i dati ufficiali del Ministero dell'Interno sulle infrazioni stradali.",
   "z47b1cb8b": "IPN riporta l'annuncio del governo sulla strategia energetica nazionale.",
@@ -22946,7 +22638,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zb8940fb2": "Il Post riporta la sentenza evidenziando l'impatto economico sullo Stato.",
   "z27566ae5": "Il Post adotta un tono critico, da commento, verso la politica americana.",
   "z327fea42": "Civil.ge segue i rapporti diplomatici di Tbilisi con Teheran, con attenzione al quadro regionale.",
-  "zad91af30": "Telex English mette in risalto le modalità del comizio e il contesto politico serbo.",
   "zd1024994": "Keep Talking Greece riporta l'annuncio ufficiale con i dettagli su date e lavori.",
   "z12ab016f": "HotNews riprende il lancio dell'AFP con focus sull'impasse nella successione.",
   "zb2fe8201": "HotNews riporta le motivazioni dei dirigenti del partito senza aggiungere valutazioni proprie.",
@@ -22998,7 +22689,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zffc02164": "L'emittente riporta la testimonianza diretta della consigliera, senza ulteriori verifiche indipendenti.",
   "zcada85d4": "N1 riprende un articolo straniero, offrendo uno sguardo comparato sulla mobilitazione giovanile.",
   "zfbe9b8c3": "Il quotidiano statunitense ricostruisce la figura politica a partire dalle sue presenze nei cortei.",
-  "z74204da4": "Il quotidiano statunitense racconta l'episodio con tono di curiosità e cronaca.",
   "zc4e3b293": "Il quotidiano statunitense inquadra le proteste come espressione di un malessere economico più ampio.",
   "z58721235": "Il quotidiano statunitense pone l'accento sulla trasparenza delle comunicazioni vaticane.",
   "z72f57363": "Il quotidiano canadese propone un ritratto personale di un candidato critico verso il sistema dei partiti.",
@@ -23026,7 +22716,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "za0299df6": "IPN riporta i dati forniti da un esperto sui risparmi e l'indebitamento delle famiglie moldave.",
   "z9ec9be88": "The Guardian riporta la richiesta di dimissioni avanzata dal Real Madrid contro Tebas.",
   "z6580446e": "Focus riporta i risultati di uno studio del Politecnico di Milano sull'uso dell'IA da parte dei medici.",
-  "ze30e68ce": "Il Sole 24 Ore illustra i contenuti dell'accordo siglato dal Governo sul decreto bollette.",
   "z71dcf106": "Kapitalis presenta la mostra ospitata dalla galleria tunisina.",
   "zdba964aa": "Financial Times riporta la decisione di Trump di esentare la Russia da nuove sanzioni.",
   "z6ccc8cab": "The Astana Times riporta i temi discussi durante la visita del premier cambogiano.",
@@ -23044,7 +22733,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zdad132f2": "Le testate belghe e olandesi seguono l'episodio e la resa dell'uomo armato.",
   "z42c9f2eb": "Le testate asiatiche analizzano la crescita dell'export cinese in diversi settori produttivi.",
   "z69bd00d7": "Le testate sudamericane seguono le tensioni tra il governo brasiliano e la piattaforma Meta.",
-  "z342369c6": "I quotidiani francesi e nordafricani seguono la ripresa della mobilitazione sociale in Francia.",
   "z0422f0c0": "La stampa svedese evidenzia il successo di Källberg nei quarti e rimarca il primato della Svezia nella discipline",
   "z23a37271": "L'agenzia governativa brasiliana comunica i dettagli della prossima estrazione",
   "z6880dfad": "La stampa boliviana riferisce l'azione repressiva contro il commercio illegale di combustibili",
@@ -23056,7 +22744,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z48e17674": "Il broadcaster lituano sottolinea la natura trasversale e l'impatto tangibile degli attacchi informatici",
   "z4dc95e23": "La testata lituana enfatizza l'assenza del giocatore locale nella sconfitta della squadra tedesca",
   "z14eee370": "La media lituana evidenzia l'analisi tattica dell'allenatore della squadra vincente",
-  "z801af033": "La televisione lituana evidenzia la perplessità baltica e americana di fronte al riorientamento geopolitico di Trump",
   "zcf8ac4c5": "Il broadcaster lettone celebra la designazione della città come capitale culturale europea",
   "z2646ec5c": "L'agenzia hongkonghese enfatizza le sfide di sicurezza e sanità pubblica che interessano la regione.",
   "z89c88e57": "L'emittente greca copre l'evento come cronaca locale, enfatizzando l'intervento dei servizi di emergenza.",
@@ -23154,7 +22841,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zb12d2275": "Documenta l'esibizione di forza militare russa in un contesto di tensioni geopolitiche.",
   "z93a4e83f": "Documenta gli attacchi ai giornalisti e gli episodi di violenza nel contesto del conflitto israeliano-palestinese.",
   "z1f031c88": "Documenta gli sviluppi dell'evento calcistico internazionale ospitato dal Marocco.",
-  "z404a97bb": "Focus sulla crisi economica e democratica della Tunisia",
   "zf634b054": "Ripresa del controllo parlamentare su uno dei principali progetti agricoli",
   "z702bbcee": "Notifica del calendario legislativo e programma di governo",
   "z18593f2e": "Enfasi sulla transizione ordinata dei poteri esecutivi",
@@ -23182,7 +22868,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zab71469a": "Breve su nuovo collegamento infrastrutturale per i trasporti locali",
   "z82f094ef": "Annuncio di piano strategico nazionale per l'innovazione tecnologica",
   "za0169979": "Reportage su espansione infrastrutturale urbana del trasporto pubblico",
-  "z3be2429b": "Reportage sulle proteste sociali per il carovita che interessano l'Europa",
   "z86251534": "Aggiornamento cronologico sugli scontri in corso presso il governo",
   "z5a71423a": "Inchiesta statistica sulla distribuzione territoriale della criminalità violenta",
   "zd6782474": "Indagine rappresentativa su percezione e diffusione della discriminazione sociale",
@@ -23214,7 +22899,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z5bb55fc8": "Nile Post evidenzia il collasso dei servizi sanitari essenziali nel paese.",
   "z2379527e": "Nile Post mette a fuoco l'inefficienza della giustizia ugandese come ostacolo allo stato di diritto.",
   "za7f035e2": "Nile Post celebra un momento cruciale della storia nazionale ugandese e dei rapporti con gli Stati Uniti.",
-  "za1823872": "KT Press sottolinea il fallimento della candidatura africana al vertice dell'Onu.",
   "z6cad888c": "Daily Monitor registra una riconciliazione interna nel partito di governo ugandese.",
   "zf5868aa5": "Daily Monitor riporta l'appello etico della gerarchia cattolica ugandese.",
   "zc498b257": "Daily Monitor documenta il formalizzazione della successione al trono del regno di Tooro.",
@@ -23259,7 +22943,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zb5b26802": "Le Monde traccia le dinamiche di convergenza dentro la destra francese alla vigilia della sfida presidenziale.",
   "z30b817c3": "Le Monde analizza il fenomeno mediatico e digitale di Lisnard come possibile rottura negli equilibri della destra francese.",
   "z4d5faa72": "Le Figaro riferisce l'intervento repressivo contro chi amplifica disordini tramite piattaforme digitali.",
-  "z46195f1e": "Le Figaro evidenzia gli atti di violenza contro strutture mediatrici come escalation del conflitto.",
   "z13883fb1": "Le Figaro sottolinea la solidarietà della comunità giornalistica contro gli attacchi alle sedi editoriali.",
   "z05ed108c": "Libération accoglie la testimonianza di un testimone privilegiato sulla crisi palestinese e le responsabilità della comunità internazionale.",
   "z81a95307": "Libération esamina la tensione tra la nascente libertà di parola sulla menopausa e la persistenza di discriminazioni nei servizi sanitari.",
@@ -23296,7 +22979,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z2bd5fa49": "Dagens Nyheter riporta sugli sviluppi di una minaccia biologica inizialmente allarmante.",
   "z499db3d0": "TVN24 fornisce aggiornamenti sulle previsioni meteorologiche per l'Europa.",
   "z9484e46a": "TVN24 analizza le dinamiche della violenza durante i movimenti di protesta francesi.",
-  "zb626d9dd": "TVN24 riporta sulle condizioni di salute del pontefice dopo il ricovero.",
   "z97fbe10c": "TVN24 documenta la crisi di gestione dei rifiuti a Cuba.",
   "ze1539fa8": "TVN24 copre le tensioni politiche in Polonia sulla giustizia costituzionale.",
   "z3013ee9d": "La Jornada rende omaggio a una figura storica della drammaturgia messicana.",
@@ -23357,7 +23039,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z4b22bbba": "Documenta l'appello pubblico per il ripristino di infrastrutture viarie critiche.",
   "zdfcd56d4": "Documenta riunioni sulla gestione finanziaria delle amministrazioni locali.",
   "zcbbfd39d": "Propone dichiarazioni di un atleta sulla consapevolezza del ruolo internazionale.",
-  "zc7986f63": "Copre il percorso iniziale di carriera internazionale di un giocatore camerunese.",
   "z11911b6b": "Testata camerunese che segnala l'interesse di club europei ai giocatori locali.",
   "zf99d3ad3": "Testata che segue i movimenti della scena politica camerunese.",
   "za4ec5e22": "Testata che evidenzia le strategie camerunesi di sviluppo umano e locale.",
@@ -23389,8 +23070,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zd53385b0": "Enfasi su successi nel rafforzamento dell'autonomia sanitaria nazionale.",
   "z21118308": "Celebrazione del primo anno di una nuova emittente nel competitivo panorama radiofonico di Luanda.",
   "z8a233cca": "Intervista esclusiva che illustra il pivot strategico di Mosca verso partnerships economiche concrete in Africa.",
-  "za7b72526": "Copertura del match preliminare continentale con enfasi sul pareggio come punto favorevole per la gara di ritorno.",
-  "zc858f35d": "Comunicato del ministero dell'Interno su esecuzioni capitali per crimini terroristici.",
   "z3334c1a5": "Commento sulla difficoltà della gara casalinga e rinvio della decisione alla sfida di ritorno.",
   "zdbd1d21a": "Reportage pre-partita che enfatizza il clima positivo intorno alla squadra congolese.",
   "zaf7f5aa9": "Prospettiva locale che oppone regolamentazione ambientale alle esigenze di approvvigionamento alimentare.",
@@ -23400,7 +23079,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z5ff6c829": "Appello di specialisti per una gestione patrimoniale più rigorosa.",
   "z29b41d2c": "Analisi scientifica delle cause e conseguenze del terremoto nel contesto geologico regionale.",
   "z4b6098fe": "Cronaca di governance aziendale con evidenza del conflitto sulle nuove strutture direttive.",
-  "z546cfcb1": "Copertura del conflitto interno alla governance della compagnia aerea di bandiera capoverdiana.",
   "z3b9e1c04": "Posizionamento di Haiti nei negoziati internazionali su equilibrio fra rigore fiscale e protezione sociale.",
   "z9b1d6665": "Iniziativa di empowerment femminile in un settore economico tradizionale.",
   "z071e5a6a": "Cronaca di operazione antidroga della polizia nazionale.",
@@ -23422,10 +23100,8 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z1ad575d1": "La testata segnala la crisi umanitaria che colpisce i minori vulnerabili nella RDC.",
   "z920b81f9": "La testata riporta le pressioni sociali sul governo riguardanti la crisi del settore educativo.",
   "zb32bca8f": "La testata affronta le sfide fiscali strutturali del governo keniano.",
-  "z55deff8f": "La testata riporta i provvedimenti penali contro i reati di sicurezza alimentare.",
   "z4f35dd0e": "La testata segnala i rischi della speculazione finanziaria nel mercato coreano.",
   "zada966aa": "La testata riporta i momenti di connessione emotiva tra le istituzioni e i cittadini colpiti.",
-  "z4324f4bb": "La testata copre i progressi sportivi del baseball professionistico sudcoreano.",
   "z94f40fca": "La testata segue le campagne elettorali nel contesto politico indiano.",
   "z253f8a15": "La testata segnala le iniziative di sensibilizzazione su sicurezza informatica e protezione minorile.",
   "z14dea3b5": "La testata informa sulla sicurezza stradale durante le precipitazioni meteorologiche.",
@@ -23458,7 +23134,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z4549d9ad": "L'articolo analizza le aspettative sociali e le priorità politiche del governo mauriziano nella fase successiva ai disordini.",
   "z45b03041": "La testata evidenzia l'appello alla calma e la difesa dell'immagine pacifica della comunità mauriziana da parte dell'ex presidente.",
   "z88105155": "Il giornale approfondisce i fattori di esasperazione economica e sociale all'origine delle recenti violenze urbane nell'arcipelago.",
-  "z76318aaa": "La testata offre una ricognizione analitica delle cause scatenanti e del contesto sociale dei disordini recenti.",
   "z8d2199d2": "Il quotidiano documenta la gravissima emergenza umanitaria e la fame quotidiana che affliggono i rifugiati interni haitiani.",
   "zb937620b": "La testata evidenzia le rivendicazioni dei movimenti politici haitiani circa la trasparenza elettorale e la sicurezza delle urne.",
   "z97303b57": "Il quotidiano guatemalteco segue da vicino i risvolti legali e istituzionali dell'indagine sull'evasione carceraria."
@@ -25887,13 +25562,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z735dbccb": {
-   "n": "Bonn",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
   "z3f98876d": {
    "n": "California",
    "p": [
@@ -26064,20 +25732,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Aitutaki",
    "p": [
     "Cook Is."
-   ],
-   "pt": []
-  },
-  "z39112ffa": {
-   "n": "Hong Kong",
-   "p": [
-    "Hong Kong"
-   ],
-   "pt": []
-  },
-  "zb4009e2a": {
-   "n": "Huanggang",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -26309,13 +25963,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Erevan",
    "p": [
     "Armenia"
-   ],
-   "pt": []
-  },
-  "zad91af30": {
-   "n": "Novi Sad",
-   "p": [
-    "Serbia"
    ],
    "pt": []
   },
@@ -26674,13 +26321,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z74204da4": {
-   "n": "Corea del Sud",
-   "p": [
-    "South Korea"
-   ],
-   "pt": []
-  },
   "zc4e3b293": {
    "n": "Francia",
    "p": [
@@ -26868,13 +26508,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "ze30e68ce": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "z71dcf106": {
    "n": "Tunisi",
    "p": [
@@ -26995,13 +26628,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z342369c6": {
-   "n": "Francia",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z0422f0c0": {
    "n": "Slovenia",
    "p": [
@@ -27074,13 +26700,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Lituania",
    "p": [
     "Lithuania"
-   ],
-   "pt": []
-  },
-  "z801af033": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -27666,13 +27285,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z404a97bb": {
-   "n": "Tunis",
-   "p": [
-    "Tunisia"
-   ],
-   "pt": []
-  },
   "zf634b054": {
    "n": "Rabat",
    "p": [
@@ -27859,13 +27471,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "n": "Praga",
    "p": [
     "Czechia"
-   ],
-   "pt": []
-  },
-  "z3be2429b": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal"
    ],
    "pt": []
   },
@@ -28083,13 +27688,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   "za7f035e2": {
    "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "za1823872": {
-   "n": "New York",
    "p": [
     "United States of America"
    ],
@@ -28398,13 +27996,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z46195f1e": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z13883fb1": {
    "n": "Parigi",
    "p": [
@@ -28653,11 +28244,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "p": [
     "France"
    ],
-   "pt": []
-  },
-  "zb626d9dd": {
-   "n": "Vaticano",
-   "p": [],
    "pt": []
   },
   "z97fbe10c": {
@@ -29083,13 +28669,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "zc7986f63": {
-   "n": "Yaoundé",
-   "p": [
-    "Cameroon"
-   ],
-   "pt": []
-  },
   "z11911b6b": {
    "n": "Yaoundé",
    "p": [
@@ -29295,20 +28874,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "za7b72526": {
-   "n": "Lubumbashi",
-   "p": [
-    "Dem. Rep. Congo"
-   ],
-   "pt": []
-  },
-  "zc858f35d": {
-   "n": "Provincia orientale",
-   "p": [
-    "Saudi Arabia"
-   ],
-   "pt": []
-  },
   "z3334c1a5": {
    "n": "Lubumbashi",
    "p": [
@@ -29366,11 +28931,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "pt": []
   },
   "z4b6098fe": {
-   "n": "Praia",
-   "p": [],
-   "pt": []
-  },
-  "z546cfcb1": {
    "n": "Praia",
    "p": [],
    "pt": []
@@ -29520,13 +29080,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z55deff8f": {
-   "n": "China",
-   "p": [
-    "China"
-   ],
-   "pt": []
-  },
   "z4f35dd0e": {
    "n": "South Korea",
    "p": [
@@ -29535,13 +29088,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "pt": []
   },
   "zada966aa": {
-   "n": "South Korea",
-   "p": [
-    "South Korea"
-   ],
-   "pt": []
-  },
-  "z4324f4bb": {
    "n": "South Korea",
    "p": [
     "South Korea"
@@ -29771,13 +29317,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "pt": []
   },
   "z88105155": {
-   "n": "Port Louis",
-   "p": [
-    "Mauritius"
-   ],
-   "pt": []
-  },
-  "z76318aaa": {
    "n": "Port Louis",
    "p": [
     "Mauritius"
@@ -30145,7 +29684,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z6554dd37": 1,
   "z802c461d": 1,
   "z724dc40e": 1,
-  "z735dbccb": 1,
   "z3f98876d": 1,
   "z8b73c3f4": 1,
   "z98ab83d5": 1,
@@ -30171,8 +29709,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z63c635d5": 1,
   "zba5aa1ad": 1,
   "z7a0fc554": 1,
-  "z39112ffa": 1,
-  "zb4009e2a": 1,
   "zbbcc321d": 1,
   "zed1345db": 1,
   "z47b1cb8b": 1,
@@ -30206,7 +29742,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zb8940fb2": 1,
   "z27566ae5": 1,
   "z327fea42": 1,
-  "zad91af30": 1,
   "zd1024994": 1,
   "z12ab016f": 1,
   "zb2fe8201": 1,
@@ -30258,7 +29793,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zffc02164": 1,
   "zcada85d4": 1,
   "zfbe9b8c3": 1,
-  "z74204da4": 1,
   "zc4e3b293": 1,
   "z58721235": 1,
   "z72f57363": 1,
@@ -30286,7 +29820,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "za0299df6": 1,
   "z9ec9be88": 1,
   "z6580446e": 1,
-  "ze30e68ce": 1,
   "z71dcf106": 1,
   "zdba964aa": 2,
   "z6ccc8cab": 1,
@@ -30304,7 +29837,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zdad132f2": 2,
   "z42c9f2eb": 1,
   "z69bd00d7": 2,
-  "z342369c6": 2,
   "z0422f0c0": 1,
   "z23a37271": 1,
   "z6880dfad": 1,
@@ -30316,7 +29848,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z48e17674": 1,
   "z4dc95e23": 1,
   "z14eee370": 1,
-  "z801af033": 1,
   "zcf8ac4c5": 1,
   "z2646ec5c": 1,
   "z89c88e57": 1,
@@ -30414,7 +29945,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zb12d2275": 1,
   "z93a4e83f": 2,
   "z1f031c88": 1,
-  "z404a97bb": 1,
   "zf634b054": 1,
   "z702bbcee": 1,
   "z18593f2e": 1,
@@ -30442,7 +29972,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zab71469a": 2,
   "z82f094ef": 1,
   "za0169979": 1,
-  "z3be2429b": 1,
   "z86251534": 2,
   "z5a71423a": 2,
   "zd6782474": 1,
@@ -30474,7 +30003,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z5bb55fc8": 1,
   "z2379527e": 1,
   "za7f035e2": 1,
-  "za1823872": 1,
   "z6cad888c": 1,
   "zf5868aa5": 1,
   "zc498b257": 1,
@@ -30519,7 +30047,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zb5b26802": 1,
   "z30b817c3": 1,
   "z4d5faa72": 1,
-  "z46195f1e": 1,
   "z13883fb1": 1,
   "z05ed108c": 1,
   "z81a95307": 1,
@@ -30556,7 +30083,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z2bd5fa49": 1,
   "z499db3d0": 1,
   "z9484e46a": 1,
-  "zb626d9dd": 1,
   "z97fbe10c": 1,
   "ze1539fa8": 1,
   "z3013ee9d": 1,
@@ -30617,7 +30143,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z4b22bbba": 1,
   "zdfcd56d4": 1,
   "zcbbfd39d": 1,
-  "zc7986f63": 1,
   "z11911b6b": 1,
   "zf99d3ad3": 1,
   "za4ec5e22": 1,
@@ -30649,8 +30174,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "zd53385b0": 1,
   "z21118308": 1,
   "z8a233cca": 1,
-  "za7b72526": 1,
-  "zc858f35d": 1,
   "z3334c1a5": 1,
   "zdbd1d21a": 1,
   "zaf7f5aa9": 1,
@@ -30660,7 +30183,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z5ff6c829": 1,
   "z29b41d2c": 1,
   "z4b6098fe": 1,
-  "z546cfcb1": 1,
   "z3b9e1c04": 1,
   "z9b1d6665": 1,
   "z071e5a6a": 1,
@@ -30682,10 +30204,8 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z1ad575d1": 2,
   "z920b81f9": 1,
   "zb32bca8f": 1,
-  "z55deff8f": 2,
   "z4f35dd0e": 2,
   "zada966aa": 1,
-  "z4324f4bb": 1,
   "z94f40fca": 1,
   "z253f8a15": 1,
   "z14dea3b5": 1,
@@ -30718,7 +30238,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z4549d9ad": 1,
   "z45b03041": 1,
   "z88105155": 1,
-  "z76318aaa": 1,
   "z8d2199d2": 1,
   "zb937620b": 1,
   "z97303b57": 1
