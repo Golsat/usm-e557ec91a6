@@ -70,7 +70,7 @@ window.EDIZIONI["2026-10-17-sera"] = {
   },
   {
    "id": "z462ac143",
-   "sez": "ambiente",
+   "sez": "economia",
    "titolo": "Filippine, boom del solare mentre la guerra all'Iran fa salire i costi dell'energia",
    "orig": "Solar power booms in Philippines as war on Iran spikes energy costs",
    "lead": "Nelle Filippine l'energia solare è in forte crescita. La guerra contro l'Iran ha fatto salire i costi dell'energia e le bollette elettriche, già le più alte del Sud-est asiatico, sono aumentate ancora. Per difendersi da questi rincari, molti filippini stanno investendo nei pannelli fotovoltaici da installare sui tetti di case ed edifici. In questo modo cercano di produrre da sé almeno una parte dell'elettricità che consumano e di ridurre la spesa. Lo riferisce Al Jazeera.",
@@ -701,39 +701,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z08b5fda9",
-   "sez": "economia",
-   "titolo": "Energia, Palazzo Chigi: nell'intesa con l'Ue sul decreto bollette recepite le priorità italiane",
-   "orig": "Energia, P.Chigi: recepite priorità Roma",
-   "lead": "Palazzo Chigi sostiene che le priorità indicate da Roma sono state accolte nell'accordo raggiunto con l'Unione europea sul decreto legge dedicato alle bollette. La presidenza del Consiglio rivendica così un risultato nel confronto con Bruxelles su un provvedimento che riguarda i costi dell'energia per famiglie e imprese. Le informazioni disponibili non precisano quali siano nel dettaglio le priorità italiane recepite né i contenuti specifici dell'intesa. La posizione del governo arriva al termine del dialogo con le istituzioni europee sul testo del decreto. Lo riferisce Rai News.",
-   "more": [
-    "Palazzo Chigi è la sede della presidenza del Consiglio dei ministri. Un decreto legge è un atto con forza di legge che il governo adotta in casi di necessità e urgenza e che il Parlamento deve poi convertire. Quando un provvedimento tocca materie come gli aiuti pubblici o il mercato dell'energia, il governo si confronta con la Commissione europea."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "XX",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/energia-pchigi-recepite-priorita-roma-9ea5bb63-90d7-4f1e-aa3f-ce2fef93151f.html",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-16T15:30+00:00"
-    },
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "XX",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/dl-bollette-cosa-prevede-l-accordo-siglato-governo-consiglio-europeo-AJJiFqmB",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-17T09:25+00:00"
-    }
-   ],
-   "data": "16 ott",
-   "ora": "13:02",
-   "uscita": "13"
-  },
-  {
    "id": "z8a5d5d93",
    "sez": "economia",
    "titolo": "Istat: nel 2024 cresce l'economia sommersa, oltre 3 milioni di lavoratori irregolari",
@@ -1058,7 +1025,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z321cc724": "Il Sole 24 Ore presenta il progetto come un polo scientifico e industriale, lanciato con una vetrina internazionale.",
   "z5a6f8888": "Il Sole 24 Ore mette in evidenza il livello record del gasolio sulla rete autostradale.",
   "zf9333780": "Rai News riporta la reazione russa, centrata sui possibili danni ai mercati globali.",
-  "z08b5fda9": "Rai News riporta la posizione di Palazzo Chigi, mettendo in evidenza la rivendicazione del governo sull'esito del negoziato con l'Ue.",
   "z8a5d5d93": "Rai News mette in evidenza la crescita del sommerso e il numero dei lavoratori irregolari.",
   "z9d9d31a7": "Il Sole 24 Ore, coorganizzatore dell'evento, sottolinea il peso economico del turismo e i relatori dell'iniziativa.",
   "z67be5b8e": "NPR mette in evidenza lo scarto tra la promessa di Trump e la sua agenda reale, letto come segnale di difficoltà per i repubblicani.",
@@ -1268,13 +1234,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
    ],
    "pt": []
   },
-  "z08b5fda9": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z8a5d5d93": {
    "n": "Italia",
    "p": [
@@ -1382,7 +1341,6 @@ window.EDIZIONI["2026-10-17-sera"] = {
   "z321cc724": 1,
   "z5a6f8888": 1,
   "zf9333780": 1,
-  "z08b5fda9": 2,
   "z8a5d5d93": 1,
   "z9d9d31a7": 1,
   "z67be5b8e": 1,
