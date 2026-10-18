@@ -329,28 +329,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z5cf291a7",
-   "sez": "mondo",
-   "titolo": "Attacchi in Cisgiordania mettono in difficoltà Benjamin Netanyahu",
-   "orig": "Angriffe im Westjordanland bringen Benjamin Netanyahu in Bedrängnis",
-   "lead": "Coloni israeliani radicali avrebbero aggredito una giornalista statunitense e diplomatici europei in Cisgiordania. La vicenda crea difficoltà al premier Benjamin Netanyahu. Anche stretti alleati di Israele hanno reagito con indignazione. Il caso riguarda la sicurezza dei cittadini stranieri nei territori occupati. Lo riferisce NZZ.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/international/angriffe-im-westjordanland-bringen-benjamin-netanyahu-in-bedraengnis-ld.10037347",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-18T10:33+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:07",
-   "uscita": "13"
-  },
-  {
    "id": "zedf901b6",
    "sez": "mondo",
    "titolo": "Opinione: il Partito di Sinistra deve accettare il ruolo di partito di sostegno",
@@ -734,28 +712,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zc4219c51",
-   "sez": "mondo",
-   "titolo": "Cedeao e alleanza del Sahel riprendono il dialogo in Senegal",
-   "orig": "La Cedeao y la alianza del Sahel retoman diálogo en Senegal hacia un marco de cooperación",
-   "lead": "La Comunità economica dell'Africa occidentale (Cedeao) e l'alleanza del Sahel hanno ripreso il dialogo in Senegal, con l'obiettivo di arrivare a un quadro di cooperazione. I rapporti tra la Cedeao e i Paesi del Sahel sono stati tesi negli ultimi anni, dopo l'uscita di Mali, Burkina Faso e Niger dall'organizzazione regionale. Lo riferisce ABC Color.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ABC Color",
-     "p": "XX",
-     "c": "Asunción",
-     "u": "https://www.abc.com.py/internacionales/2026/10/18/la-cedeao-y-la-alianza-del-sahel-retoman-dialogo-en-senegal-hacia-un-marco-de-cooperacion/",
-     "angolo": "",
-     "atlas": "Paraguay",
-     "t": "2026-10-18T10:30+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:07",
-   "uscita": "13"
-  },
-  {
    "id": "z8edb2a47",
    "sez": "mondo",
    "titolo": "Paesi del Golfo sostengono le misure saudite contro gli huthi",
@@ -817,30 +773,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-18T11:36+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:03",
-   "uscita": "13"
-  },
-  {
-   "id": "z12dc42c4",
-   "sez": "italia",
-   "titolo": "Il Papa ai fedeli: «Ho sentito il vostro sostegno»",
-   "orig": "Il Papa: \"Ho sentito il vostro sostegno\"",
-   "lead": "Il Papa si è affacciato per la preghiera dell'Angelus ed è stato accolto dagli applausi della folla radunata per vederlo. Rivolgendosi ai fedeli, il pontefice ha detto di aver avvertito la loro vicinanza e il loro sostegno. L'apparizione arriva dopo un periodo di assenza dagli appuntamenti pubblici ed è stata seguita con calore dai presenti. Il momento ha assunto il valore di un ringraziamento reciproco tra il Papa e i fedeli che lo hanno accompagnato. Lo riferisce Rai News.",
-   "more": [
-    "La domenica a mezzogiorno il Papa recita l'Angelus affacciandosi su piazza San Pietro. Si tratta di uno degli appuntamenti più seguiti dai fedeli: dopo la preghiera il pontefice rivolge di solito un breve messaggio sui temi di attualità."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/il-papa-ho-sentito-il-vostro-sostegno-6e382942-d997-4dd7-aa90-1a42a19e8fa6.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T10:27+00:00"
     }
    ],
    "data": "18 ott",
@@ -1185,6 +1117,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-18T12:36+02:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/il-papa-ho-sentito-il-vostro-sostegno-6e382942-d997-4dd7-aa90-1a42a19e8fa6.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T10:27+00:00"
     }
    ],
    "data": "18 ott",
@@ -1935,30 +1876,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Moldova",
      "t": "2026-10-18T10:30+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:03",
-   "uscita": "13"
-  },
-  {
-   "id": "z20899068",
-   "sez": "mondo",
-   "titolo": "Lituania, forte esplosione vicino al confine lettone: forse un drone",
-   "orig": "Լիտվայում ուժգին պայթյուն է որոտացել․ ենթադրաբար անօդաչու է ընկել",
-   "lead": "La mattina del 18 ottobre una forte esplosione è stata avvertita nel nord della Lituania, vicino al confine con la Lettonia. Si ipotizza che un drone sia precipitato ed esploso, ma le autorità non hanno ancora chiarito di che apparecchio si tratti né a chi appartenga. Nel villaggio di Juodeikiai, nel distretto di Pasvalys, sono stati trovati presunti frammenti. Un'auto di passaggio è stata danneggiata, senza feriti. In mattinata era scattato l'allarme aereo in Lituania e Lettonia. Lo riferisce Azatutyun.",
-   "more": [
-    "I Paesi baltici, membri della NATO e confinanti con Russia e Bielorussia, hanno segnalato più volte negli ultimi anni sconfinamenti di droni nel proprio spazio aereo. Episodi simili spingono le autorità ad attivare sistemi di allerta e a indagare sull'origine dei velivoli."
-   ],
-   "fonti": [
-    {
-     "n": "Azatutyun (inglese)",
-     "p": "XX",
-     "c": "Erevan",
-     "u": "https://www.azatutyun.am/a/33878827.html",
-     "angolo": "",
-     "atlas": "Armenia",
-     "t": "2026-10-18T14:30+04:00"
     }
    ],
    "data": "18 ott",
@@ -3031,7 +2948,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z136234c0": "La testata riporta l'incidente con una sintesi essenziale, senza ulteriori dettagli sulle cause.",
   "z8b75a349": "Al Jazeera mette al centro il dramma umano delle famiglie separate e mette in dubbio la reale tenuta del cessate il fuoco.",
   "z3aab2d1c": "ANSA dà risalto al numero record di fermi comunicato dalla polizia francese.",
-  "z12dc42c4": "Rai News evidenzia il legame affettivo tra il Papa e la folla che lo ha applaudito.",
   "zc243347e": "Al Jazeera punta sui giocatori più noti, mentre The Guardian sottolinea la pressione che grava sul Manchester United.",
   "za229b547": "CBC News insiste sulla scala eccezionale dell'attacco, mentre Ukrinform elenca nel dettaglio gli obiettivi colpiti.",
   "zc5a32d4f": "BBC News mette in luce l'impatto concreto dell'iniziativa e il successo che ha ottenuto in rete.",
@@ -3073,7 +2989,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z83c0db46": "ERT News collega la memoria storica al messaggio politico del ministro sulla forza della Grecia.",
   "zb2a86ab5": "MIA collega l'infortunio alla prolungata astinenza dal gol dell'attaccante.",
   "ze24f667c": "IPN inserisce l'evento nel calendario culturale della capitale moldava.",
-  "z20899068": "Azatutyun sottolinea che l'origine e la natura dell'oggetto non sono ancora confermate.",
   "zbe9eff26": "La testata tanzaniana riporta l'evento con il tono celebrativo tipico delle cerimonie comunitarie.",
   "zb3236e27": "Il quotidiano tanzaniano affronta lo sviluppo economico attraverso la questione dello stato di diritto.",
   "zc5bf2f41": "La testata in esilio propone una lettura critica e pessimista del modello sociale francese.",
@@ -3121,7 +3036,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zcb40d0b1": "Der Spiegel affronta il tema con un taglio di policy, sottolineando le posizioni contrastanti sull'impatto climatico.",
   "z0f3b0c57": "FAZ confronta la percezione cinese con quella occidentale, con un taglio analitico e comparativo.",
   "zac8a5acb": "FAZ propone un'analisi economica di indirizzo, con un taglio di raccomandazione politica.",
-  "z5cf291a7": "NZZ inquadra l'episodio come questione politica interna a Israele e nei rapporti con gli alleati.",
   "zedf901b6": "Dagens Nyheter ospita una voce d'opinione dei lettori, espressione di un dibattito interno alla sinistra.",
   "zd5edaded": "TVN24 racconta l'episodio come curiosità, con un taglio leggero e basato sul video.",
   "z6b99763b": "G1 segue l'evento in chiave di servizio per i candidati, con un taglio informativo e pratico.",
@@ -3139,7 +3053,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z72e6a76e": "Quotidiano surinamese che dà spazio al dibattito sociale e ai diritti, con attenzione alle dichiarazioni dei ministri.",
   "z9f77f02e": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
   "z5874bdd9": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
-  "zc4219c51": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
   "z8edb2a47": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida."
  },
  "contesti": {
@@ -3372,13 +3285,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Parigi",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "z12dc42c4": {
-   "n": "Città del Vaticano",
-   "p": [
-    "Vatican"
    ],
    "pt": []
   },
@@ -3667,13 +3573,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Chișinău",
    "p": [
     "Moldova"
-   ],
-   "pt": []
-  },
-  "z20899068": {
-   "n": "distretto di Pasvalys",
-   "p": [
-    "Lithuania"
    ],
    "pt": []
   },
@@ -4009,11 +3908,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z5cf291a7": {
-   "n": "Cisgiordania",
-   "p": [],
-   "pt": []
-  },
   "zedf901b6": {
    "n": "Stoccolma",
    "p": [
@@ -4132,13 +4026,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zc4219c51": {
-   "n": "Senegal",
-   "p": [
-    "Senegal"
-   ],
-   "pt": []
-  },
   "z8edb2a47": {
    "n": "Arabia Saudita",
    "p": [
@@ -4165,7 +4052,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z136234c0": 2,
   "z8b75a349": 1,
   "z3aab2d1c": 2,
-  "z12dc42c4": 2,
   "zc243347e": 3,
   "za229b547": 2,
   "zc5a32d4f": 1,
@@ -4207,7 +4093,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z83c0db46": 1,
   "zb2a86ab5": 1,
   "ze24f667c": 1,
-  "z20899068": 2,
   "zbe9eff26": 1,
   "zb3236e27": 1,
   "zc5bf2f41": 1,
@@ -4255,7 +4140,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zcb40d0b1": 1,
   "z0f3b0c57": 1,
   "zac8a5acb": 1,
-  "z5cf291a7": 1,
   "zedf901b6": 1,
   "zd5edaded": 1,
   "z6b99763b": 1,
@@ -4273,7 +4157,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z72e6a76e": 1,
   "z9f77f02e": 1,
   "z5874bdd9": 1,
-  "zc4219c51": 1,
   "z8edb2a47": 1
  },
  "video": {},
