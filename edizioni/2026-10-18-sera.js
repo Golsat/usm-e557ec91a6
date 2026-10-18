@@ -3,6 +3,95 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z1811d7ff",
+   "sez": "prima",
+   "titolo": "Francia, tra 1.800 e 2.000 fermati dopo le proteste: scontri, saccheggi e 600 agenti feriti",
+   "orig": "Los detenidos en las protestas en Francia ascienden a 2.000 y hay 600 agentes heridos",
+   "lead": "Le proteste di sabato in Francia sono degenerate in scontri, attacchi a edifici pubblici e saccheggi di negozi. Il numero dei fermati oscilla tra 1.800 e 2.000 e circa 600 agenti risultano feriti. A Parigi si registrano 855 arresti, cifra record. Un incendio ha colpito il municipio di Limoges, poi messo sotto controllo domenica. Le manifestazioni protestano contro l'alto costo della vita. Il presidente Emmanuel Macron parlerà alla nazione in serata.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/mundo/los-detenidos-en-las-protestas-en-francia-ascienden-a-2000-y-hay-600-agentes-heridos",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T10:32-04:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/internacional/2026-10-18/francia-hace-balance-tras-el-mayor-estallido-de-violencia-y-caos-en-decadas-1800-detenidos-y-un-millar-de-comercios-saqueados.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T15:08+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/internacional/2026/10/18/6ad46f11e85ece497e8b457f.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T18:48+02:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/el-mundo/macron-hablara-por-tv-tras-los-saqueos-y-disturbios-en-francia-al-menos-1800-detenidos-nid18102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T17:52+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/donald-trump-culpa-a-la-inmigracion-por-las-violentas-protestas-en-francia-que-dejaron-1-800-detenidos-y-exige-cerrar-las-fronteras-esta-en-llamas-3594415",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-18T10:45-05:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/mundo/detenidos-protestas-francia-ascienden-2-000-600-agentes-heridos_1792335390",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T14:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc31a83c5",
+   "sez": "mondo",
+   "titolo": "Mélenchon: la crisi in Francia può diventare incontrollabile se Macron non dà soluzioni",
+   "orig": "Mélenchon: Crisis en Francia podría volverse \"incontrolable\" si Macron no da soluciones",
+   "lead": "Il leader della France insoumise Jean-Luc Mélenchon ha avvertito che la crisi in Francia potrebbe diventare incontrollabile se il presidente Emmanuel Macron non darà soluzioni. Le parole arrivano nel pieno delle proteste e dei disordini che hanno interessato il Paese nel fine settimana. Il monito riguarda la capacità del governo di rispondere alle richieste sociali. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/18/melenchon-crisis-en-francia-podria-volverse-incontrolable-si-macron-no-da-soluciones/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-18T17:41+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
    "id": "zd708d9cd",
    "sez": "mondo",
    "titolo": "Il problema è la scuola e non i social media?",
@@ -18700,7 +18789,9 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z5a9c4db1": "Il Taipei Times riporta la comunicazione ufficiale del MAC con un taglio di cronaca politica.",
   "z6e8ade27": "Nikkei Asia segue la notizia con un taglio economico e industriale, attento alle implicazioni per il settore.",
   "zc5ee7465": "Trend presenta la notizia come esclusiva, con un taglio economico centrato sulle prospettive della banca.",
-  "z3b5107d8": "Prothom Alo, quotidiano di Dacca, affronta la vicenda con un taglio politico legato agli equilibri interni al partito e al governo."
+  "z3b5107d8": "Prothom Alo, quotidiano di Dacca, affronta la vicenda con un taglio politico legato agli equilibri interni al partito e al governo.",
+  "z1811d7ff": "Il quotidiano boliviano privilegia il bilancio numerico di fermati, feriti e danni, con un titolo centrato sugli arresti.",
+  "zc31a83c5": "ABC Color, quotidiano paraguaiano, riprende le parole di un leader dell'opposizione francese senza commento aggiuntivo."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -18708,7 +18799,8 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z7e018b17": "La Francia vive da anni una protesta sociale ricorrente contro il carovita. Nel 2018 l'aumento delle tasse sui carburanti fece nascere il movimento dei gilet gialli. Nel settembre 2025 la mobilitazione «Bloquons tout» e gli scioperi sindacali contro l'austerità di bilancio avevano riportato migliaia di persone in piazza. La nuova ondata di proteste è partita dal mondo della scuola e si è poi allargata a sindacati e gilet gialli.",
   "z592659ee": "Da quando Washington condivide informazioni d'intelligence con Kiev dopo l'invasione russa del febbraio 2022, quei dati sono stati decisivi per anticipare gli attacchi missilistici. Già nel marzo 2025 l'amministrazione Trump li aveva sospesi dopo lo scontro con Zelensky alla Casa Bianca, ripristinandoli dopo i colloqui di Gedda. Negli ultimi giorni il flusso si era nuovamente interrotto, mentre proseguivano gli attacchi reciproci con missili e droni.",
   "zf27882ee": "Le proteste sono partite dalla mobilitazione degli studenti delle superiori. Al centro c'erano i mezzi destinati all'istruzione. Nel fine settimana il movimento si è esteso ad altri settori. Sabato 17 ottobre le manifestazioni hanno toccato diverse grandi città francesi e ci sono stati incidenti. Il presidente Macron ha chiesto unità contro chi semina il caos, mentre gli operatori economici cominciano a contare i danni.",
-  "z0f7e45e3": "Le proteste contro il carovita e il deterioramento dei servizi pubblici si sono estese a tutta la Francia e si sono trasformate in violenze e saccheggi. Le testate parlano di 1.200 arresti e 150 tra poliziotti e gendarmi feriti, mentre altri bilanci indicano circa 1.800 arresti. Il presidente Macron ha annunciato un discorso alla nazione."
+  "z0f7e45e3": "Le proteste contro il carovita e il deterioramento dei servizi pubblici si sono estese a tutta la Francia e si sono trasformate in violenze e saccheggi. Le testate parlano di 1.200 arresti e 150 tra poliziotti e gendarmi feriti, mentre altri bilanci indicano circa 1.800 arresti. Il presidente Macron ha annunciato un discorso alla nazione.",
+  "z1811d7ff": "La mobilitazione contro l'alto costo della vita è sfociata sabato in una giornata di proteste in tutta la Francia, degenerata in scontri con le forze dell'ordine, attacchi a edifici pubblici e saccheggi di negozi. I fermati sono tra 1.800 e 2.000, di cui 855 a Parigi, cifra record, e circa 600 agenti sono rimasti feriti. A Limoges è stato incendiato il municipio. Il presidente Emmanuel Macron parlerà alla nazione."
  },
  "cronologie": {
   "zc243347e": [
@@ -18805,6 +18897,24 @@ window.EDIZIONI["2026-10-18-sera"] = {
    [
     "18 ottobre 2026",
     "Proseguono le operazioni di spegnimento; Macron annuncia un discorso alle 20"
+   ]
+  ],
+  "z1811d7ff": [
+   [
+    "Sabato 17 ottobre",
+    "Proteste contro il carovita in tutta la Francia degenerano in scontri e saccheggi"
+   ],
+   [
+    "Sabato 17 ottobre",
+    "Tra 1.800 e 2.000 fermati, 855 a Parigi; circa 600 agenti feriti"
+   ],
+   [
+    "Domenica 18 ottobre",
+    "Messo sotto controllo l'incendio al municipio di Limoges"
+   ],
+   [
+    "Domenica 18 ottobre",
+    "Atteso in serata il discorso alla nazione di Emmanuel Macron"
    ]
   ]
  },
@@ -19022,6 +19132,53 @@ window.EDIZIONI["2026-10-18-sera"] = {
     }
    ],
    "divergono": "Delle cinque testate, solo Le Figaro e Africaguinee parlano delle proteste del 17 ottobre; La Nouvelle Tribune e Monaco Matin raccontano altri eventi della stessa data, e il titolo di L'Express de Madagascar non sembra riguardarle. Le Figaro descrive le manifestazioni come mobilitazioni «contro il carovita» disturbate da «casseur» e ne guarda le conseguenze economiche per il turismo, citando rappresentanti di categoria. Africaguinee indica invece come origine la protesta liceale sull'istruzione, poi allargata. Inoltre dà spazio solo alla risposta istituzionale di Macron e non parla di turismo. Nella parte leggibile, Le Figaro non cita Macron."
+  },
+  "z1811d7ff": {
+   "voci": [
+    {
+     "n": "Brújula Digital",
+     "c": "La Paz",
+     "p": "XX",
+     "t": "Giudizio parziale, basato solo su titolo e occhiello. Mette al centro il bilancio: 2.000 fermati e 600 agenti feriti. Cita scontri, attacchi a edifici pubblici, saccheggi di negozi e l'incendio del municipio di Limoges, spento domenica. Tono informativo.",
+     "b": "t"
+    },
+    {
+     "n": "El País",
+     "c": "Madrid",
+     "p": "XX",
+     "t": "Giudizio parziale, basato solo su titolo e occhiello. Parla della «maggiore esplosione di violenza da decenni»: 2.000 fermati, un migliaio di negozi saccheggiati, 855 arresti «record» a Parigi. Descrive strade «rase al suolo» a Parigi, Marsiglia e Lione e annuncia il discorso di Macron.",
+     "b": "t"
+    },
+    {
+     "n": "El Mundo",
+     "c": "Madrid",
+     "p": "XX",
+     "t": "Racconta una «guerriglia urbana»: oltre 2.000 fermati, 500 agenti feriti, 1.500 negozi danneggiati, il municipio di Limoges distrutto. Cita una diciassettenne che ha perso un occhio e un giovane che ha perso una mano. Riporta le accuse di Lecornu e Núñez all'estrema sinistra, di Bardella a Mélenchon, e le critiche dei sindaci alla polizia «sopraffatta».",
+     "b": "a"
+    },
+    {
+     "n": "La Nación",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "Dispaccio AFP: quasi 2.000 arresti, una persona morta d'infarto, 550.000 manifestanti secondo le autorità e 800.000 secondo gli organizzatori, con un richiamo ai «gilet gialli». Riporta testimonianze di parigini e lo scontro tra Le Pen e Mélenchon. Cita Trump, che collega i disordini all'immigrazione, e precisa che le autorità non lo fanno.",
+     "b": "a"
+    },
+    {
+     "n": "El Tiempo",
+     "c": "Bogotá",
+     "p": "XX",
+     "t": "Giudizio parziale: il testo disponibile contiene solo materiale promozionale del sito. Il titolo mette al centro Trump, che attribuisce le proteste all'immigrazione, chiede di chiudere le frontiere e scrive che la Francia è «in fiamme». Indica 1.800 fermati.",
+     "b": "a"
+    },
+    {
+     "n": "El Deber",
+     "c": "Santa Cruz",
+     "p": "XX",
+     "t": "Resoconto informativo basato soprattutto sul ministro Núñez: 2.000 fermati e 600 feriti tra agenti, gendarmi e pompieri, cifre provvisorie. Attribuisce le violenze a «migliaia di individui di ultrasinistra» e a delinquenti. Riporta 1.500 negozi danneggiati, la partecipazione alle manifestazioni e la richiesta dei Verdi di dimissioni di Núñez.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Il numero degli agenti feriti varia: 600 per Brújula Digital ed El Deber, 500 per El Mundo. Anche i fermati non coincidono: 1.800 nei titoli di La Nación ed El Tiempo, 2.000 nelle altre testate. Per i negozi, El País parla di un migliaio saccheggiati, mentre El Mundo ed El Deber ne indicano 1.500 danneggiati. El Tiempo mette in primo piano l'accusa di Trump all'immigrazione; La Nación la riporta precisando che le autorità non la condividono, e le altre testate non la citano. Solo La Nación segnala un morto per infarto. Solo El Mundo riferisce dei feriti gravi tra i manifestanti e delle critiche alla gestione della polizia."
   }
  },
  "luoghi": {
@@ -24082,6 +24239,20 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "Bangladesh"
    ],
    "pt": []
+  },
+  "z1811d7ff": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc31a83c5": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -24815,7 +24986,9 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z5a9c4db1": 1,
   "z6e8ade27": 1,
   "zc5ee7465": 1,
-  "z3b5107d8": 1
+  "z3b5107d8": 1,
+  "z1811d7ff": 2,
+  "zc31a83c5": 1
  },
  "video": {},
  "pillole": []
