@@ -3,6 +3,1895 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z8b75a349",
+   "sez": "mondo",
+   "titolo": "Gaza, un capitano della Protezione civile cerca di ritrovare la famiglia dopo il «cessate il fuoco»",
+   "orig": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+   "lead": "Un capitano della Protezione civile di Gaza prova a ricongiungersi con i propri familiari, da cui la guerra lo ha tenuto lontano per oltre un anno. La vicenda è raccontata in un reportage dedicato alle famiglie che, dopo il «cessate il fuoco», cercano di ritrovarsi nella Striscia. La testata mette tra virgolette il termine tregua, segnalando dubbi sulla sua effettiva tenuta. La storia personale del soccorritore diventa così lo specchio delle tante separazioni provocate dal conflitto tra la popolazione civile. Lo riferisce Al Jazeera.",
+   "more": [
+    "La Striscia di Gaza è un territorio palestinese densamente popolato, affacciato sul Mediterraneo. Negli ultimi anni è stata colpita da un conflitto che ha causato distruzioni estese e lo sfollamento di gran parte dei suoi abitanti. Le squadre della Protezione civile locale si occupano del soccorso e del recupero delle persone rimaste sotto le macerie."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T10:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z3aab2d1c",
+   "sez": "mondo",
+   "titolo": "Francia, la polizia: record di 855 fermi a Parigi durante le proteste",
+   "orig": "La polizia francese: 'Numero record di 855 fermi a Parigi durante le proteste'",
+   "lead": "In Francia la polizia ha comunicato di aver fermato 855 persone a Parigi durante le proteste, un numero che definisce da record. Il dato riguarda soltanto la capitale: nel resto del Paese i fermi hanno superato quota 1.200. Le cifre ufficiali danno la misura dell'ampiezza delle manifestazioni e della risposta delle forze dell'ordine. La notizia non precisa però le ragioni della mobilitazione. Lo riferisce ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/la-polizia-francese-numero-record-di-855-fermi-a-parigi-durante-le-proteste_2aeef560-dded-49f0-b82b-97ffd9004684.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T11:36+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z12dc42c4",
+   "sez": "italia",
+   "titolo": "Il Papa ai fedeli: «Ho sentito il vostro sostegno»",
+   "orig": "Il Papa: \"Ho sentito il vostro sostegno\"",
+   "lead": "Il Papa si è affacciato per la preghiera dell'Angelus ed è stato accolto dagli applausi della folla radunata per vederlo. Rivolgendosi ai fedeli, il pontefice ha detto di aver avvertito la loro vicinanza e il loro sostegno. L'apparizione arriva dopo un periodo di assenza dagli appuntamenti pubblici ed è stata seguita con calore dai presenti. Il momento ha assunto il valore di un ringraziamento reciproco tra il Papa e i fedeli che lo hanno accompagnato. Lo riferisce Rai News.",
+   "more": [
+    "La domenica a mezzogiorno il Papa recita l'Angelus affacciandosi su piazza San Pietro. Si tratta di uno degli appuntamenti più seguiti dai fedeli: dopo la preghiera il pontefice rivolge di solito un breve messaggio sui temi di attualità."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/il-papa-ho-sentito-il-vostro-sostegno-6e382942-d997-4dd7-aa90-1a42a19e8fa6.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T10:27+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc243347e",
+   "sez": "sport",
+   "titolo": "Premier League: Leeds-Manchester United in diretta",
+   "orig": "LIVE: Leeds United vs Manchester United – Premier League",
+   "lead": "Domenica in Premier League va in scena la sfida tra Leeds United e Manchester United, seguita con una cronaca in diretta che riporta anche le formazioni. Tra i protagonisti più attesi ci sono Bruno Fernandes e Marcus Rashford. Il Manchester United arriva a Leeds sotto pressione. La giornata calcistica offre anche altre notizie: il portiere Emi Martínez ha ringraziato i tifosi dopo un intervento chirurgico alla mandibola, mentre in MLS Lionel Messi ha segnato due gol nel 3-1 dell'Inter Miami in casa dell'Atlanta United.",
+   "more": [
+    "Leeds e Manchester United sono protagonisti di una delle rivalità più sentite del calcio inglese, alimentata da ragioni storiche e geografiche. La Premier League è la massima serie del campionato inglese ed è tra i tornei più seguiti al mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T09:16+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/live/2026/oct/18/manchester-united-feeling-the-heat-as-they-travel-to-leeds-matchday-live",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T10:51+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/live/2026/oct/18/chelsea-v-tottenham-womens-super-league-live",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T10:37+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-udinese-lecce-in-campo-alle-12.30-diretta_c6865c6e-554a-4fd9-a729-bc399f86e2a3.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T12:52+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13",
+   "top": true
+  },
+  {
+   "id": "za229b547",
+   "sez": "mondo",
+   "titolo": "Kiev lancia oltre mille droni sulla Russia: in fiamme siti petroliferi a San Pietroburgo",
+   "orig": "Blazes ignite at St. Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia",
+   "lead": "Domenica l'Ucraina ha lanciato più di mille droni contro il territorio russo, in uno dei suoi bombardamenti aerei più massicci di sempre. A San Pietroburgo gli attacchi hanno incendiato un terminal per l'esportazione del petrolio. Secondo fonti ucraine, durante la notte sono stati colpiti anche impianti petroliferi, un magazzino di Ozon e un centro dati di VKontakte. L'offensiva prende di mira infrastrutture energetiche e servizi digitali di grande importanza per la Russia.",
+   "more": [
+    "San Pietroburgo è la seconda città della Russia e un importante porto sul Baltico, da cui passano consistenti esportazioni di petrolio. Ozon è uno dei principali gruppi russi del commercio elettronico, mentre VKontakte è il social network più diffuso nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/fire-russian-oil-sites-ukrain-drone-attacks-9.7385770?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-18T06:48-04:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-ato/4175563-drones-strike-oil-facilities-ozon-warehouse-and-vkontakte-data-center-in-st-petersburg.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-18T09:58+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc5a32d4f",
+   "sez": "ambiente",
+   "titolo": "Un uomo ripulisce gratis i sentieri della sua città e conquista i social",
+   "orig": "Free clear-up has big engagement on social media",
+   "lead": "Nel Regno Unito un uomo ha intrapreso una battaglia personale contro le erbacce e i sentieri invasi dalla vegetazione della sua città, pulendoli senza chiedere alcun compenso. Il suo impegno volontario ha cambiato in modo visibile l'aspetto dei luoghi ed è diventato molto popolare sui social network, dove ha raccolto un ampio seguito. Una piccola iniziativa individuale dimostra così di poter avere effetti concreti sulla vita di un'intera comunità locale. Lo riferisce BBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cly8q2rryejo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T10:59+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zed1c9933",
+   "sez": "salute",
+   "titolo": "Hong Kong eccelle nella ricerca medica, ma cosa la frena?",
+   "orig": "Hong Kong excels at medical research. So what is holding it back?",
+   "lead": "Hong Kong si distingue per la qualità della sua ricerca medica, ma fatica a trasformarla in cure concrete per i pazienti. Un'inchiesta, la prima di una serie in quattro puntate dedicata alla medicina d'avanguardia, analizza che cosa servirebbe alla città per diventare un polo mondiale dell'innovazione biomedica. Tra gli esempi citati c'è Raymond Tong Kai-yu, che ha impiegato dieci anni a superare ostacoli di costi e produzione per realizzare una mano robotica che aiuta chi ha avuto un ictus a recuperare la mobilità. Lo riferisce South China Morning Post.",
+   "more": [
+    "Il passaggio dalla ricerca di laboratorio alle applicazioni cliniche, chiamato ricerca traslazionale, richiede finanziamenti, capacità produttiva e percorsi di approvazione. È proprio in questa fase che molte scoperte promettenti incontrano gli ostacoli maggiori. La riabilitazione robotica è oggi uno dei campi in cui la tecnologia aiuta a recuperare il movimento dopo un ictus."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/health-environment/article/3371262/hong-kong-excels-medical-research-so-what-holding-it-back?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T11:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z30c77402",
+   "sez": "economia",
+   "titolo": "Eurostat: in Italia il 22,6% della popolazione è a rischio povertà",
+   "orig": "Rischio povertà in Italia al 22,6%: oltre 13,2 milioni di cittadini vivono in condizione fragile. Sud e Isole più colpiti. I dati Eurostat",
+   "lead": "Secondo i dati Eurostat, in Italia il 22,6% della popolazione è a rischio di povertà o esclusione sociale: si tratta di oltre 13,2 milioni di persone. Le aree più colpite sono il Sud e le Isole. Nel 2025, nei 27 Paesi dell'Unione europea, le persone in questa condizione sono state 92,7 milioni, pari al 20,9% della popolazione complessiva. Il dato italiano risulta quindi superiore alla media europea e conferma le forti disuguaglianze sociali presenti nel continente. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Eurostat è l'ufficio statistico dell'Unione europea. L'indicatore del rischio di povertà o esclusione sociale tiene conto di tre fattori: il reddito basso, la grave deprivazione materiale e sociale e la bassa intensità di lavoro all'interno della famiglia."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/rischio-poverta-in-italia-al-226-oltre-132-milioni-di-cittadini-vivono-in-condizione-fragile-sud-e-isole-piu-colpiti-i-dati-eurostat/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T10:42+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zcb436073",
+   "sez": "mondo",
+   "titolo": "Brčko, si ripete il voto in un seggio",
+   "orig": "Repeat Elections held Today at a Polling Station in the Brcko District",
+   "lead": "Nel distretto di Brčko, in Bosnia ed Erzegovina, si è tenuta oggi la ripetizione del voto in un solo seggio, allestito nella scuola elementare di Bukvik. Le operazioni sono iniziate in orario e si sono svolte senza problemi, come ha riferito Ljiljana Orendi, componente della commissione elettorale locale. Il seggio è rimasto aperto dalle 7 alle 19, secondo quanto comunicato dalla Commissione elettorale centrale. Gli elettori iscritti erano 406. Lo riferisce Sarajevo Times.",
+   "more": [
+    "Il distretto di Brčko è un'unità amministrativa autonoma della Bosnia ed Erzegovina. È governato separatamente dalle due entità del Paese, la Federazione e la Republika Srpska, e il suo status speciale fu stabilito da un arbitrato internazionale successivo alla guerra degli anni Novanta."
+   ],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/repeat-elections-held-today-at-a-polling-station-in-the-brcko-district/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T10:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zda6a72e2",
+   "sez": "ambiente",
+   "titolo": "Kerala, il dipartimento forestale ritira l'ordine sul taglio degli alberi",
+   "orig": "After backlash, Keralam Forest dept withdraws controversial order permitting tree-felling on assigned land",
+   "lead": "Nello Stato indiano del Kerala il dipartimento forestale ha revocato un'ordinanza contestata che permetteva di abbattere alberi sui terreni assegnati. La decisione è arrivata dopo un'ondata di proteste e critiche suscitate dal provvedimento. La fonte non indica altri dettagli sul contenuto dell'ordine né sui soggetti che si erano opposti. Lo riferisce The Hindu.",
+   "more": [
+    "Il Kerala è uno Stato dell'India sud-occidentale, noto per le estese aree verdi e per le foreste dei Ghati occidentali, una catena montuosa ricca di biodiversità. La gestione degli alberi e dei terreni pubblici assegnati ai privati è spesso al centro di dibattiti ambientali."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/after-backlash-keralam-forest-dept-withdraws-controversial-order-permitting-tree-felling-on-assigned-land/article71591751.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:23+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z963cc9bc",
+   "sez": "economia",
+   "titolo": "Regno Unito, che cos'è la legge di bilancio e che cosa potrebbe contenere",
+   "orig": "What is the Budget and what could be in it?",
+   "lead": "Nel Regno Unito il Cancelliere dello Scacchiere John Healey presenterà il 28 ottobre i suoi piani in materia fiscale con la legge di bilancio. In vista dell'appuntamento, una scheda informativa spiega che cos'è il Budget e quali misure potrebbe introdurre. Le decisioni annunciate riguarderanno le tasse nel Paese e avranno effetti su famiglie e imprese britanniche. Lo riferisce BBC News.",
+   "more": [
+    "Il Budget è la manovra con cui il governo britannico stabilisce le politiche fiscali e di spesa. Viene illustrato in Parlamento dal Cancelliere dello Scacchiere, il ministro responsabile delle finanze pubbliche, ed è accompagnato dalle previsioni economiche di un organismo indipendente."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T10:22+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z7894fcbf",
+   "sez": "mondo",
+   "titolo": "Un raduno di pony raccoglie fondi per l'eliambulanza",
+   "orig": "Pony herd gathering raises money for air ambulance",
+   "lead": "Nel Regno Unito il raduno di una mandria di pony è stato trasformato in un'occasione per raccogliere fondi a favore del servizio di eliambulanza. Secondo Kristina Auckland, la mandria era composta da circa cento animali. L'iniziativa unisce una tradizione legata agli allevamenti locali al sostegno di un servizio di soccorso sanitario. La fonte non specifica la somma raccolta. Lo riferisce BBC News.",
+   "more": [
+    "Nel Regno Unito molti servizi di eliambulanza sono gestiti da enti di beneficenza e si reggono in gran parte sulle donazioni e sulle raccolte fondi organizzate dalle comunità locali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cqe9lx01ynj8o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T10:25+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z32102fc3",
+   "sez": "sport",
+   "titolo": "La Stella Rossa ingaggia un nuovo centro dalla NBA",
+   "orig": "Crvena zvezda iz NBA dovela novog centra",
+   "lead": "La Stella Rossa, la squadra di pallacanestro di Belgrado, ha ingaggiato un nuovo centro proveniente dalla NBA. Il giocatore è camerunese e ha disputato 122 partite nella lega di basket più forte del mondo. Con questo acquisto il club punta a rafforzare il proprio reparto lunghi. La fonte non riporta il nome del giocatore. Lo riferisce Vijesti.",
+   "more": [
+    "La Stella Rossa (Crvena zvezda) è una delle società sportive più prestigiose della Serbia. La sua sezione di pallacanestro partecipa all'Eurolega, la principale competizione europea per club."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/kosarka/832042/crvena-zvezda-iz-nba-dovela-novog-centra",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T12:43+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "za1dc74fa",
+   "sez": "prima",
+   "titolo": "Papa Leone XIV, prima apparizione pubblica dopo l'intervento",
+   "orig": "‘With help of God & your prayers’: Pope makes first public appearance after surgery",
+   "lead": "Papa Leone XIV è apparso in pubblico per la prima volta dopo l'intervento chirurgico per un tumore al polmone. Il pontefice ha ringraziato per le preghiere e la vicinanza ricevute durante la convalescenza. Ha poi confermato che riprenderà i suoi impegni in modo graduale, affidandosi alla preghiera e all'aiuto di Dio. Il prossimo appuntamento importante è previsto a novembre e comprende un viaggio all'estero in Sud America. Lo riferisce Times of India.",
+   "more": [
+    "Leone XIV è il primo Papa nato negli Stati Uniti. Prima dell'elezione, Robert Francis Prevost aveva svolto a lungo la sua missione in Perù, Paese di cui ha anche la cittadinanza."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/europe/with-help-of-god-your-prayers-pope-leo-xiv-makes-first-public-appearance-after-lung-cancer-surgery/articleshow/135027289.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:12+05:30"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/world/pope-leo-emerges-from-hospital-after-cancer-surgery-20261018-p616ix.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-18T21:55+11:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/pope-leo-greets-crowds-at-vatican-in-first-event-since-cancer-surgery",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-18T18:20+08:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T10:54+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/il-papa-si-affaccia-per-langelus-riprendero-le-attivita-gradualmente-_74dcf119-92a0-46e7-986f-16343122a321.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T12:44+02:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445448/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T12:36+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "za1cbf353",
+   "sez": "economia",
+   "titolo": "Nepal, riapre il valico di Tatopani: corsa dei commercianti a importare le merci per il Dashain",
+   "orig": "Traders race to bring in Dashain goods as Tatopani border reopens",
+   "lead": "Con la riapertura del valico di frontiera di Tatopani, tra Nepal e Cina, i commercianti nepalesi si affrettano a far entrare le merci destinate alla festa del Dashain. Oltre 45 container carichi di prodotti per le celebrazioni sono però ancora fermi in Cina. Gli operatori temono anche di non sapere per quanto tempo il passaggio resterà aperto. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il Dashain è la festa più importante del calendario nepalese e porta con sé un forte aumento dei consumi. Il valico di Tatopani è uno dei principali passaggi commerciali tra il Nepal e la Cina, attraverso l'Himalaya."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/18/traders-race-to-bring-in-dashain-goods-as-tatopani-border-reopens",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z072133dc",
+   "sez": "musica",
+   "titolo": "Michael Stipe sul palco con i The National per «E-Bow The Letter» dei R.E.M.",
+   "orig": "Watch Michael Stipe join members of The National for R.E.M.’s ‘E-Bow The Letter’",
+   "lead": "Michael Stipe, storico cantante dei R.E.M., si è unito a sorpresa ad alcuni membri dei The National per eseguire «E-Bow The Letter», brano del repertorio della sua band. La collaborazione è avvenuta durante un fine settimana organizzato per festeggiare i cinquant'anni di Aaron e Bryce Dessner. Il video dell'esibizione è stato diffuso online. Lo riferisce NME.",
+   "more": [
+    "I R.E.M. sono stati una delle band più influenti del rock alternativo statunitense. I gemelli Aaron e Bryce Dessner sono chitarristi e compositori dei The National e lavorano anche come produttori per altri artisti."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/music/watch-michael-stipe-join-members-the-national-rem-ebow-the-letter-3973454?utm_source=rss&utm_medium=rss&utm_campaign=watch-michael-stipe-join-members-the-national-rem-ebow-the-letter",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T10:40+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zee3d7c78",
+   "sez": "economia",
+   "titolo": "Sudafrica, il programma della PA promette cancellazione dei debiti e tre mesi senza tributi locali",
+   "orig": "MANIFESTO TEST: PA promises debt write-offs and a 3-month rates holiday",
+   "lead": "In Sudafrica il partito PA ha presentato un programma elettorale che promette la cancellazione di alcuni debiti e una sospensione di tre mesi del pagamento dei tributi locali. Un'analisi giornalistica lo definisce un manifesto populista, ma ricco di idee ingegnose. Il dubbio principale riguarda però la possibilità che queste misure vengano davvero realizzate. Lo riferisce Daily Maverick.",
+   "more": [
+    "Nei comuni sudafricani i «rates» sono le imposte locali sulla proprietà immobiliare, con cui le amministrazioni finanziano i servizi pubblici. Per questo le promesse che li riguardano hanno un peso rilevante nelle campagne elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-18-pa-promises-debt-write-offs-and-a-3-month-rates-holiday/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc9540db5",
+   "sez": "mondo",
+   "titolo": "Mar Nero, attacchi con droni alle porte della NATO: sei navi colpite in dieci giorni",
+   "orig": "Atacurile cu drone aduc războiul la țărmurile NATO: Marea Neagră riscă să devină o „zonă moartă” după șase lovituri în 10 zile, cu mai multe victime decât a avut SUA în conflictul cu Iranul",
+   "lead": "In appena dieci giorni sei navi commerciali sono state attaccate con droni nel Mar Nero, nelle acque territoriali e nello spazio aereo di Romania e Bulgaria. Secondo i contatti diplomatici in corso, gli attacchi potrebbero portare all'invocazione dell'articolo 4 del Trattato NATO. Lo riferisce HotNews.",
+   "more": [
+    "L'articolo 4 del Trattato del Nord Atlantico prevede che gli alleati si consultino quando uno di loro ritiene minacciata la propria integrità territoriale, l'indipendenza politica o la sicurezza. È diverso dall'articolo 5, che riguarda invece la difesa collettiva in caso di attacco armato."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/atacurile-cu-drone-aduc-razboiul-la-tarmurile-nato-marea-neagra-risca-sa-devina-o-zona-moarta-dupa-sase-lovituri-in-10-zile-cu-mai-multe-victime-decat-in-conflictul-cu-iranul-2379085",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T10:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z177ca5f7",
+   "sez": "salute",
+   "titolo": "Tumore al seno, speranza, fede e famiglia nel percorso di guarigione",
+   "orig": "Hope, faith, family support fan breast cancer patients' path to recovery",
+   "lead": "A Iligan City, nelle Filippine, due donne sopravvissute al tumore al seno hanno raccontato la propria esperienza. Grace Lao Isidro, farmacista in pensione, convive da 19 anni con un tumore al quarto stadio. Bebot Oleban è invece libera dalla malattia da 17 anni, dopo una diagnosi in stadio 2B. Entrambe hanno spiegato quanto la fede, le cure mediche e il sostegno dei familiari le abbiano aiutate. Hanno poi invitato le donne a sottoporsi alla diagnosi precoce e i pazienti a non perdere la speranza. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "La diagnosi precoce del tumore al seno, ottenuta per esempio con la mammografia, aumenta in modo significativo le possibilità di cura. Lo stadio della malattia indica quanto il tumore si è esteso: il quarto stadio corrisponde alla presenza di metastasi in altri organi."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2326070/hope-faith-family-support-fan-breast-cancer-patients-path-to-recovery",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-18T18:42+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z2f0ee0bb",
+   "sez": "sport",
+   "titolo": "Juventus-Lazio: dove vederla in tv, orario e probabili formazioni",
+   "orig": "Juventus-Lazio: dove vederla in tv (Sky, Dazn), orario, probabili formazioni e classifica Serie A",
+   "lead": "La settima giornata di Serie A propone uno dei suoi incontri di maggior richiamo, Juventus-Lazio. Le due squadre, entrambe ambiziose, si contendono le posizioni alte della classifica, ma arrivano alla partita in un momento non semplice. La guida alla gara fornisce le informazioni sulla trasmissione televisiva su Sky e DAZN, l'orario, le probabili formazioni e la classifica. Lo riferisce Il Messaggero.",
+   "more": [
+    "In Italia i diritti televisivi della Serie A sono suddivisi tra DAZN, che trasmette tutte le partite, e Sky, che ne manda in onda una parte. Juventus e Lazio sono due tra le squadre più titolate del calcio italiano."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/juventus_lazio_dove_vederla_tv_sky_dazn_orario_probabili_formazioni_classifica_serie_a-9831365.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zfe6bad19",
+   "sez": "economia",
+   "titolo": "Yambio, gli agricoltori chiedono mercati e magazzini migliori",
+   "orig": "Farmers in Yambio call for better markets, storage",
+   "lead": "A Yambio, in Sud Sudan, gli agricoltori chiedono mercati più efficienti e migliori strutture per conservare i raccolti. Le autorità dello Stato dell'Equatoria Occidentale, il Regno Azande e i partner per lo sviluppo hanno sollecitato più investimenti nel settore. L'obiettivo è sostenere i produttori locali e migliorare le loro condizioni. Lo riferisce Radio Tamazuj.",
+   "more": [
+    "L'Equatoria Occidentale è una regione agricola del Sud Sudan. Yambio ne è il capoluogo ed è il centro principale del popolo Azande. In molti Paesi la mancanza di magazzini adeguati provoca forti perdite dei raccolti dopo la mietitura."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/farmers-in-yambio-call-for-better-markets-storage",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-18T10:55+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc6d8688c",
+   "sez": "tech",
+   "titolo": "Insegnanti su TikTok, tra rivoluzione didattica e ricerca del successo",
+   "orig": "Enseignants sur TikTok : Entre révolution pédagogique et course au buzz",
+   "lead": "In Senegal una nuova generazione di insegnanti sta portando la scuola sui social network, in particolare su TikTok. Questi professori si riprendono durante le lezioni con l'intento di rinnovare l'insegnamento e uscire dai confini dell'aula. Il fenomeno però divide: da una parte può essere un'innovazione pedagogica, dall'altra rischia di diventare una corsa alla visibilità, con docenti che possono apparire alla moda ma anche poco maturi. Lo riferisce Le Soleil.",
+   "more": [
+    "TikTok è una piattaforma di brevi video molto diffusa soprattutto tra i giovani. Il suo utilizzo nell'educazione divide gli esperti: alcuni ne apprezzano il potenziale divulgativo, altri sollevano preoccupazioni legate alla privacy degli studenti e alla qualità dei contenuti."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/opinions/enseignants-sur-tiktok-entre-revolution-pedagogique-et-course-au-buzz/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T10:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z5531a472",
+   "sez": "sport",
+   "titolo": "UAAP, la NU chiude il primo turno in testa battendo la FEU",
+   "orig": "UAAP: Streaking NU ends first round on top, beats FEU",
+   "lead": "Domenica, alla Blue Eagle Gym dell'Ateneo, a Manila, la National University ha battuto di misura la Far Eastern University per 69-65 nel torneo di basket maschile della UAAP, giunto alla stagione 89. Con la terza vittoria consecutiva i Bulldogs salgono a un bilancio di 5-2 e chiudono il primo turno al primo posto. Il record è lo stesso dell'Università delle Filippine, ma la NU è avanti grazie al successo nello scontro diretto del mese scorso. Per i Tamaraws è arrivata un'altra sconfitta. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "La UAAP (University Athletic Association of the Philippines) è una delle principali leghe sportive universitarie delle Filippine. Il suo torneo di pallacanestro è molto seguito in un Paese dove il basket è lo sport più popolare."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://sports.inquirer.net/702213/uaap-streaking-nu-ends-first-round-on-top-beats-feu",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-18T18:29+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "ze0518465",
+   "sez": "cucina",
+   "titolo": "Tashkent ospita un festival dedicato al pesce",
+   "orig": "Tashkent Hosts O! Mega-Fest Mintay! Fish Food Festival",
+   "lead": "A Tashkent, in Uzbekistan, si è svolto il festival O! Mega-Fest Mintay!, pensato per promuovere i prodotti ittici e in particolare i piatti a base di merluzzo d'Alaska. Il programma prevedeva degustazioni, laboratori di cucina e attività dedicate alle famiglie. L'evento ha voluto avvicinare il pubblico al consumo di pesce. Lo riferisce UzDaily.",
+   "more": [
+    "L'Uzbekistan è un Paese dell'Asia centrale senza sbocco sul mare, con una cucina tradizionalmente basata sulla carne. Il merluzzo d'Alaska, chiamato «mintay» in russo, è un pesce bianco molto pescato nel Pacifico settentrionale."
+   ],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/tashkent-hosts-o-mega-fest-mintay-fish-food-festival/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T15:40+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "za7b5bb34",
+   "sez": "mondo",
+   "titolo": "I palestinesi guardano al voto in Israele sperando nel «male minore»",
+   "orig": "Palestinians watch Israel's election, hoping for the 'lesser evil'",
+   "lead": "Nei territori palestinesi, tra Cisgiordania e Striscia di Gaza, si segue con attenzione la vigilia delle elezioni israeliane, in programma la prossima settimana. Molti palestinesi sono convinti che il voto non cambierà la loro condizione politica. Restano però preoccupati, perché l'esito delle urne potrà incidere in modo decisivo sulla loro sicurezza personale e sulla possibilità di affrontare la vita di ogni giorno. Da qui la speranza che prevalga quello che considerano il «male minore». Lo riferisce Haaretz.",
+   "more": [
+    "La Cisgiordania e la Striscia di Gaza sono i territori palestinesi. Le politiche dei governi israeliani su sicurezza, insediamenti e movimenti delle persone hanno effetti diretti sulla popolazione. Per questo il voto in Israele viene seguito con attenzione anche da chi non può parteciparvi."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/elections/2026-10-18/ty-article/.premium/palestinians-watch-israels-election-hoping-for-the-lesser-evil/000001a1-4e31-da52-a3f1-4e7f06b60000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-18T13:39+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zafbb93b1",
+   "sez": "sport",
+   "titolo": "Milan-Atalanta, la sfida di Serie A dopo il successo europeo dei rossoneri",
+   "orig": "Milan-Atalanta: dove vederla in tv (Sky, Dazn), orario, probabili formazioni e classifica Serie A",
+   "lead": "Il Milan affronta l'Atalanta in Serie A con l'obiettivo di dare continuità al momento positivo. La squadra guidata da Amorim ha ritrovato fiducia con una vittoria convincente in Europa League contro il Salisburgo. Ora i rossoneri devono trasformare quel risultato in certezze anche in campionato, dove li attende un avversario impegnativo. La partita sarà trasmessa da Sky e Dazn, mentre l'attesa riguarda le formazioni e le ricadute sulla classifica. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/milan_atalanta_dove_vederla_tv_sky_dazn_orario_probabili_formazioni_classifica_serie_a-9831460.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zadf06e9b",
+   "sez": "cultura",
+   "titolo": "Hercule Florence, pioniere dimenticato della fotografia, riscoperto a Monaco",
+   "orig": "Hercule Florence, ce pionnier de la photographie méconnu que Monaco remet en lumière",
+   "lead": "Monaco rende omaggio a Hercule Florence, esploratore e inventore cresciuto nel Principato e poi trasferitosi in Brasile nell'Ottocento. Un film documentario, prodotto dai suoi discendenti, ripercorre la sua vita e mette in risalto il suo contributo alle tecniche per fissare le immagini. Un lavoro che, secondo il film, lo colloca tra i precursori dell'invenzione della fotografia, nonostante il suo nome sia rimasto a lungo poco conosciuto rispetto ad altri pionieri. Lo riferisce Monaco Matin.",
+   "more": [
+    "La nascita della fotografia viene di solito associata a figure come Niépce e Daguerre, attivi in Francia nella prima metà dell'Ottocento. In quegli stessi decenni, però, diversi sperimentatori in varie parti del mondo lavoravano a metodi per fissare le immagini con la luce."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/culture/hercule-florence-ce-pionnier-de-la-photographie-meconnu-que-monaco-remet-en-lumiere-10741350",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-18T12:30+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z9d95ce5e",
+   "sez": "sport",
+   "titolo": "Golf, a Kigali la tappa ruandese della NCBA Golf Series",
+   "orig": "NCBA Golf Series Brings Rwanda’s Golfing Community Together",
+   "lead": "Sabato 17 ottobre il Kigali Golf Resort & Villas ha ospitato la tappa ruandese della NCBA Golf Series, che ha aperto la corsa ai posti per la finale del 2026 in programma a Nairobi. La giornata ha riunito i golfisti del Ruanda, impegnati a completare il percorso per guadagnarsi l'accesso all'atto conclusivo del circuito. L'evento è stato presentato come un momento di incontro per la comunità golfistica del Paese. Lo riferisce KT Press.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/10/ncba-golf-series-brings-rwandas-golfing-community-together/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-10-18T10:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z3efab38b",
+   "sez": "economia",
+   "titolo": "Venezuela, le banche chiamate a rivedere la strategia",
+   "orig": "Análisis de entorno: Cómo debe refrescar su estrategia la banca venezolana",
+   "lead": "In Venezuela un'analisi dedicata al sistema bancario invita gli istituti di credito ad aggiornare le proprie strategie. Il punto di partenza è una previsione: nel prossimo futuro l'economia del Paese sarà trainata inevitabilmente dalla ripresa e dall'espansione del settore del petrolio e del gas. Le banche, secondo questa lettura, dovranno quindi adattarsi a uno scenario in cui l'energia torna a essere il motore principale della crescita. Lo riferisce El Nacional.",
+   "more": [
+    "Il Venezuela possiede alcune delle maggiori riserve di petrolio al mondo e la sua economia dipende storicamente dagli idrocarburi. Negli ultimi anni la produzione è calata molto, tra crisi economica e sanzioni, e ogni ipotesi di rilancio del settore pesa sull'intero sistema finanziario."
+   ],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/analisis-de-entorno-como-debe-refrescar-su-estrategia-la-banca-venezolana/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-18T10:32+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zb4e2e0af",
+   "sez": "cultura",
+   "titolo": "Premio Assia Djebar, tre romanzi premiati nell'ottava edizione",
+   "orig": "Prix Assia-Djebar du roman : trois lauréats distingués pour la 8e édition",
+   "lead": "In Algeria si è svolta la cerimonia dell'ottava edizione del grande premio Assia Djebar per il romanzo, che ha premiato tre autori, uno per ciascuna delle lingue previste dal riconoscimento. Sara Mohamed Maarich ha vinto per l'opera in arabo, Farida Sahoui per il romanzo in tamazight e Hosni Kitouni per il testo in francese. Il premio valorizza così la pluralità linguistica della letteratura algerina. Lo riferisce Le Matin d'Algérie.",
+   "more": [
+    "Assia Djebar è stata una delle più importanti scrittrici algerine, autrice in lingua francese ed eletta all'Académie française. Il premio a lei intitolato riflette le tre lingue della produzione letteraria del Paese: arabo, tamazight, cioè berbero, e francese."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/prix-assia-djebar-du-roman-trois-laureats-distingues-pour-la-8e-edition/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-18T10:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "za35f2ae4",
+   "sez": "ambiente",
+   "titolo": "Piogge torrenziali su Seul: strade allagate e alberi abbattuti",
+   "orig": "Heavy downpours flood Seoul streets, cause damage",
+   "lead": "Domenica 18 ottobre forti piogge accompagnate da raffiche di vento hanno colpito Seul, provocando danni in diverse zone della capitale sudcoreana. Strade allagate, alberi sradicati e traffico in tilt in molte parti della città. Nel distretto di Seodaemun-gu, il sottopasso sotto il ponte Jeungsan è stato chiuso in entrambe le direzioni alle 15.04 a causa dell'acqua, prima della riapertura. Nello stesso giorno piogge intense hanno interessato anche alcuni distretti dello Stato indiano del Tamil Nadu.",
+   "more": [
+    "I sottopassi stradali sono tra i punti più vulnerabili durante le piogge intense, perché l'acqua vi si accumula rapidamente. Per questo, in caso di nubifragi, le autorità li chiudono spesso in via preventiva per evitare che i veicoli restino intrappolati."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261018003000315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-18T19:56+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10906334",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/tamil-nadu/heavyrain-lashes-salem-krishnagiri-and-dharmapuri-districts/article71599532.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:23+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zb9e3754d",
+   "sez": "mondo",
+   "titolo": "Estonia, il partito Eesti 200 si interroga sul proprio futuro",
+   "orig": "Gallery: Eesti 200 council meets to discuss party's future",
+   "lead": "Domenica in Estonia si è riunito il consiglio del partito Eesti 200 per discutere del futuro della formazione. Il partito è in difficoltà: i sondaggi lo collocano nettamente sotto la soglia di sbarramento in vista delle elezioni per il Riigikogu, il Parlamento estone, previste per il 7 marzo. Il confronto interno serve a definire come affrontare la campagna elettorale. Sempre in questi giorni, in Georgia, il fondatore di Sogno Georgiano Bidzina Ivanishvili ha presieduto riunioni del partito al governo.",
+   "more": [
+    "In molti sistemi proporzionali, come quello estone, i partiti devono superare una soglia minima di voti per ottenere seggi in Parlamento. Restare sotto questa quota significa rischiare di sparire dall'assemblea, ed è per questo che i sondaggi negativi spingono le formazioni a ripensare strategia e leadership."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610169667/gallery-eesti-200-council-meets-to-discuss-party-s-future",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-18T13:49+03:00"
+    },
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/755066",
+     "angolo": "",
+     "atlas": "Georgia",
+     "t": "2026-10-17T13:01+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z81fa4917",
+   "sez": "organizzazioni",
+   "titolo": "L'Uzbekistan nomina il primo rappresentante permanente presso l'Unione Africana",
+   "orig": "Uzbekistan appoints first permanent representative to African Union.",
+   "lead": "L'Uzbekistan ha nominato per la prima volta un proprio rappresentante permanente presso l'Unione Africana. L'incarico è stato affidato al diplomatico Ashraf Khodjaev, che il 14 ottobre ha presentato le credenziali al presidente della Commissione dell'Unione Africana, Mahmoud Ali Youssouf. Khodjaev è già ambasciatore uzbeko in Qatar, Sudafrica ed Etiopia. La nomina segna un rafforzamento dei rapporti tra il Paese centroasiatico e l'organizzazione che riunisce 55 Stati del continente africano.",
+   "more": [
+    "L'Unione Africana ha sede ad Addis Abeba, in Etiopia, ed è l'organizzazione che raccoglie gli Stati del continente. Molti Paesi non africani vi accreditano rappresentanti permanenti, spesso affidando l'incarico all'ambasciatore già presente in Etiopia, come in questo caso."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/16/uzbekistan-appoints-first-permanent-representative-to-african-union",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-16T16:03+05:00"
+    },
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/16/african-union/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-16T11:37+00:00"
+    },
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-appoints-deputy-heads-of-livestock-agency/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T15:30+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "za1f93a66",
+   "sez": "economia",
+   "titolo": "Germania, la giornata lavorativa di otto ore è a rischio?",
+   "orig": "Is Germany's eight-hour workday under threat?",
+   "lead": "In Germania i partiti della coalizione di governo, CDU/CSU da una parte e SPD dall'altra, si scontrano sulla riforma della legge sull'orario di lavoro. Al centro del confronto ci sono la flessibilità sul posto di lavoro, il ruolo dei contratti collettivi e le norme a tutela dei lavoratori. Il dibattito solleva interrogativi sul futuro della giornata di otto ore, fino all'ipotesi di turni continuativi di dodici ore. Lo riferisce Deutsche Welle.",
+   "more": [
+    "La legge tedesca sull'orario di lavoro fissa oggi un limite giornaliero di riferimento di otto ore. Una delle ipotesi di riforma discusse in Germania è passare a un tetto settimanale, che permetterebbe giornate più lunghe compensate da altre più brevi."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T10:28+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc059ed61",
+   "sez": "mondo",
+   "titolo": "Repubblica Ceca, dopo il voto scendono a 14 le donne in Senato",
+   "orig": "Number of women in Czech Senate falls to 14 after elections",
+   "lead": "In Repubblica Ceca le recenti elezioni per il rinnovo parziale del Senato hanno ridotto la presenza femminile nella camera alta del Parlamento. Dopo il voto, le senatrici sono scese a quattordici. Il dato riaccende l'attenzione sulla rappresentanza delle donne nelle istituzioni del Paese, anche se le informazioni disponibili non indicano quante fossero prima né le cause del calo. Lo riferisce Radio Prague International.",
+   "more": [
+    "Il Senato ceco conta 81 membri, eletti in collegi uninominali per un mandato di sei anni. Ogni due anni si vota per rinnovarne circa un terzo, per questo la sua composizione cambia gradualmente."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/number-women-czech-senate-falls-14-after-elections-8900305",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-18T12:20+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zdf5bac24",
+   "sez": "cultura",
+   "titolo": "Lituania, una sinagoga abbandonata a Šiauliai tornerà a vivere",
+   "orig": "„Situacija tragiška“ – apleista sinagoga Šiauliuose bus prikelta naujam gyvenimui",
+   "lead": "A Šiauliai, in Lituania, una sinagoga in stato di abbandono si prepara a una nuova vita. Il progetto è portato avanti dalla squadra del museo «Lo shtetl scomparso», inaugurato un anno fa a Šeduva. I promotori descrivono come tragica la situazione attuale dell'edificio e intendono restituirlo alla comunità attraverso il recupero. Non sono stati resi noti tempi e dettagli dell'intervento. Lo riferisce LRT.",
+   "more": [
+    "Lo shtetl era il piccolo centro abitato a forte presenza ebraica, diffuso nell'Europa orientale prima della Seconda guerra mondiale. In Lituania la comunità ebraica fu quasi cancellata dall'Olocausto, e molte sinagoghe rimasero abbandonate o adibite ad altri usi."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/kultura/12/3047398/situacija-tragiska-apleista-sinagoga-siauliuose-bus-prikelta-naujam-gyvenimui",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T13:48+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z727e30ad",
+   "sez": "sport",
+   "titolo": "Eurolega, dal 2027-2028 il torneo passa a 24 squadre",
+   "orig": "Eurolygos prezidentas patvirtino: kitą sezoną turnyre varžysis 24 komandos",
+   "lead": "Il presidente dell'Eurolega, Dejan Bodiroga, ha confermato un importante cambiamento per la massima competizione europea di basket per club. A partire dalla stagione 2027-2028, al torneo parteciperanno 24 squadre. L'annuncio ufficializza l'allargamento della competizione, mentre non sono stati indicati i criteri con cui verranno scelte le nuove formazioni né il formato del campionato. Lo riferisce LRT.",
+   "more": [
+    "L'Eurolega è il principale torneo europeo di pallacanestro per club. Negli ultimi anni ha già ampliato il numero delle partecipanti; un ulteriore allargamento comporta più partite e incide su calendari, ricavi e equilibrio con i campionati nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3086062/eurolygos-prezidentas-patvirtino-kita-sezona-turnyre-varzysis-24-komandos",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T13:47+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zfdc99299",
+   "sez": "mondo",
+   "titolo": "Lituania, Vytautas Landsbergis compie 94 anni",
+   "orig": "94-ąjį gimtadienį mini pirmasis atkurtos Lietuvos valstybės vadovas Landsbergis",
+   "lead": "Domenica 18 ottobre il professor Vytautas Landsbergis festeggia il suo novantaquattresimo compleanno. Landsbergis è stato il primo capo dello Stato della Lituania dopo il ripristino dell'indipendenza, una figura centrale nella storia recente del Paese baltico. La ricorrenza viene ricordata in patria come omaggio a uno dei protagonisti del passaggio della Lituania a Stato indipendente. Lo riferisce LRT.",
+   "more": [
+    "Landsbergis guidò il movimento Sąjūdis e presiedeva il Consiglio supremo quando, l'11 marzo 1990, la Lituania proclamò il ripristino dell'indipendenza dall'Unione Sovietica, prima tra le repubbliche sovietiche. È anche musicologo e docente."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3086063/94-aji-gimtadieni-mini-pirmasis-atkurtos-lietuvos-valstybes-vadovas-landsbergis",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T13:44+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z6f0cd694",
+   "sez": "cultura",
+   "titolo": "Arūnas Sakalauskas ricorda il film «La mia piccola moglie»",
+   "orig": "Legendinę laidą prisiminęs Arūnas Sakalauskas: tarp žiūrovų ten matau daug būsimų aktorių",
+   "lead": "In Lituania l'attore Arūnas Sakalauskas è tornato con la memoria a «La mia piccola moglie», dramma romantico di Raimundas Banionis uscito nelle sale nel 1984. Fu il debutto del regista nel cinema di finzione e segnò anche l'inizio della carriera di attori oggi molto noti, come Saulius Balandis e Ingeborga Dapkūnaitė. Sakalauskas, allora studente, vi recitò in un piccolo ruolo e osserva che tra il pubblico di quell'epoca vede molti futuri attori. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/laisvalaikis/13/3082339/legendine-laida-prisimines-arunas-sakalauskas-tarp-ziurovu-ten-matau-daug-busimu-aktoriu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T13:39+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc7aee071",
+   "sez": "cultura",
+   "titolo": "Katerina Bei: «Non smetterei di scrivere nemmeno per milioni»",
+   "orig": "Κατερίνα Μπέη στο EΡΤnews: «Αν μου έδιναν […] εκατομμύρια για να σταματήσω να γράφω, δεν θα τα έπαιρνα»",
+   "lead": "In Grecia la sceneggiatrice Katerina Bei, autrice dei film «Eftychia» e «Ypárcho», ha parlato della sua nuova pellicola, «La valigia», in un'intervista televisiva. Ha raccontato la collaborazione con il regista Angelos Frantzis per la biografia del cantante Nikos Xylouris e ha affrontato temi come l'intelligenza artificiale e la solitudine. Ha anche indicato ciò che, a suo giudizio, frena ancora il cinema greco, ribadendo che non rinuncerebbe a scrivere nemmeno in cambio di milioni. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/roi-idiseon/katerina-mpei-sto-ertnews-an-mou-edinan-ekatommyria-gia-na-stamatiso-na-grafo-den-tha-ta-epairna/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T10:58+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc3030fe8",
+   "sez": "salute",
+   "titolo": "Morte di Mazonakis, una medica: «La sedazione non doveva essere somministrata»",
+   "orig": "Παγώνη στο ΕΡΤnews για τον θάνατο Μαζωνάκη: Οι ουσίες που βρέθηκαν στο αίμα του χορηγούνται υπό ειδικές προϋποθέσεις – Δεν έπρεπε να του δοθεί μέθη",
+   "lead": "Intervenendo in una trasmissione televisiva, ha spiegato che le sostanze trovate nel suo sangue si usano solo in condizioni particolari. Secondo lei, la sedazione non andava praticata senza i requisiti necessari e senza un adeguato controllo medico preliminare. Lo riferisce ERT News.",
+   "more": [
+    "La sedazione farmacologica comporta rischi per respirazione e circolazione. Per questo le linee mediche prevedono una valutazione preventiva del paziente e il monitoraggio costante durante e dopo la somministrazione, in ambienti attrezzati per gestire eventuali complicazioni."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/ellada/pagoni-sto-ertnews-gia-ton-thanato-mazonaki-oi-ousies-pou-vrethikan-sto-aima-tou-xorigountai-ypo-eidikes-proypotheseis-den-eprepe-na-tou-dothei-methi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T10:54+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z83c0db46",
+   "sez": "mondo",
+   "titolo": "Grecia, Gerapetritis ricorda gli 82 anni della liberazione di Karpathos",
+   "orig": "Γεραπετρίτης: Γνωρίζουν τη δύναμη της Ελλάδας όσοι μας επιβουλεύονται – 82 χρόνια από την απελευθέρωση της Καρπάθου",
+   "lead": "Al Pireo si è svolta una cerimonia per gli 82 anni dalla liberazione dell'isola greca di Karpathos, organizzata dall'associazione degli originari di Menetes. Era presente il ministro degli Esteri Giorgos Gerapetritis, che ha ricordato il movimento di liberazione partito proprio da Menetes. Nel suo intervento ha affermato che chi ha mire ostili verso la Grecia conosce la forza del Paese. Lo riferisce ERT News.",
+   "more": [
+    "Karpathos fa parte del Dodecaneso, arcipelago che fu sotto amministrazione italiana e poi occupato durante la Seconda guerra mondiale. Le isole furono unite ufficialmente alla Grecia nel 1947-48."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/ellada/politiki/gerapetritis-gnorizoun-ti-dynami-tis-elladas-osoi-mas-epivouleyontai-82-xronia-apo-tin-apeleytherosi-tis-karpathou/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T10:36+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zb2a86ab5",
+   "sez": "sport",
+   "titolo": "Rashford ha giocato tutta la stagione con un infortunio",
+   "orig": "Рашфорд играше со повреда цела сезона",
+   "lead": "Marcus Rashford, attaccante del Manchester United, ha disputato l'intera stagione nonostante un problema muscolare alla coscia. L'infortunio aiuta a spiegare il periodo difficile del calciatore inglese, che non è riuscito a segnare in otto partite. La notizia è emersa il 18 ottobre a Manchester. Non sono stati resi noti i tempi di recupero né l'eventualità di uno stop. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%80%D0%B0%D1%88%D1%84%D0%BE%D1%80%D0%B4-%D0%B8%D0%B3%D1%80%D0%B0%D1%88%D0%B5-%D1%81%D0%BE-%D0%BF%D0%BE%D0%B2%D1%80%D0%B5%D0%B4%D0%B0-%D1%86%D0%B5%D0%BB%D0%B0-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T12:49+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "ze24f667c",
+   "sez": "cultura",
+   "titolo": "Chișinău, al via la Settimana della lingua italiana nel mondo",
+   "orig": "IPN | Cultural Agenda | October 19",
+   "lead": "Il 19 ottobre l'Ambasciata d'Italia a Chișinău inaugura in Moldova la ventiseiesima edizione della Settimana della lingua italiana nel mondo. L'iniziativa si tiene ogni anno in oltre 130 Paesi e rientra nell'agenda culturale della capitale moldava. L'evento punta a promuovere la lingua e la cultura italiana all'estero, ma non sono stati resi noti i dettagli del programma previsto. Lo riferisce IPN.",
+   "more": [
+    "La Settimana della lingua italiana nel mondo è promossa dal ministero degli Esteri italiano attraverso ambasciate, consolati e Istituti italiani di cultura. Ogni edizione è dedicata a un tema e propone incontri, mostre e spettacoli."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/ipn-cultural-agenda-october-19-2/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-18T10:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z20899068",
+   "sez": "mondo",
+   "titolo": "Lituania, forte esplosione vicino al confine lettone: forse un drone",
+   "orig": "Լիտվայում ուժգին պայթյուն է որոտացել․ ենթադրաբար անօդաչու է ընկել",
+   "lead": "La mattina del 18 ottobre una forte esplosione è stata avvertita nel nord della Lituania, vicino al confine con la Lettonia. Si ipotizza che un drone sia precipitato ed esploso, ma le autorità non hanno ancora chiarito di che apparecchio si tratti né a chi appartenga. Nel villaggio di Juodeikiai, nel distretto di Pasvalys, sono stati trovati presunti frammenti. Un'auto di passaggio è stata danneggiata, senza feriti. In mattinata era scattato l'allarme aereo in Lituania e Lettonia. Lo riferisce Azatutyun.",
+   "more": [
+    "I Paesi baltici, membri della NATO e confinanti con Russia e Bielorussia, hanno segnalato più volte negli ultimi anni sconfinamenti di droni nel proprio spazio aereo. Episodi simili spingono le autorità ad attivare sistemi di allerta e a indagare sull'origine dei velivoli."
+   ],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33878827.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-18T14:30+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zbe9eff26",
+   "sez": "mondo",
+   "titolo": "I Sikh Awards celebrano 15 anni di eccellenza globale",
+   "orig": "Sikh Awards mark 15 years of celebrating global excellence",
+   "lead": "A Sandton, al Summer Place, il 10 ottobre 2026 si è svolta la quindicesima edizione dei Sikh Awards. La cerimonia ha premiato i risultati dei sikh di diversi Paesi nel servizio alla comunità, nell'istruzione, negli affari, nell'intrattenimento e nello sport. Presenti personalità internazionali, l'evento ha celebrato eccellenza, leadership e servizio all'umanità. Lo riferisce Daily News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/sikh-awards-mark-15-years-of-celebrating-global-excellence/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-18T10:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zb3236e27",
+   "sez": "mondo",
+   "titolo": "Il sistema giudiziario può favorire la Vision 2050 della Tanzania",
+   "orig": "Legal system holds huge potential to spur Vision 2050",
+   "lead": "Secondo un'analisi del Daily News, la Tanzania potrebbe costruire autostrade moderne, ampliare i porti, produrre più elettricità e attrarre miliardi di scellini di investimenti. Tuttavia, senza un sistema giudiziario affidabile, il Paese rischia di non raggiungere le proprie ambizioni economiche. Cittadini e investitori devono poter contare sulla legge per tutelare la proprietà, far rispettare i contratti e risolvere le controversie in modo equo. Lo riferisce Daily News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/legal-system-holds-huge-potential-to-spur-vision-2050/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-18T10:22+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc5bf2f41",
+   "sez": "mondo",
+   "titolo": "Francia: lettura di un declino",
+   "orig": "فرانسه: خوانشی از یک انحطاط",
+   "lead": "Iran International, testata in lingua persiana con redazione in esilio a Londra, pubblica un articolo sulla Francia che ne descrive un declino. Secondo il testo, il governo si trova in una situazione tragica: è piegato dal peso delle sue promesse di welfare. La società, però, considera ogni taglio o riforma come un tradimento della civiltà. Lo riferisce Iran International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202610184473",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-10-18T10:41+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z6d4f2909",
+   "sez": "mondo",
+   "titolo": "Verifica: davvero nascono meno bambini per colpa di Magyar Péter e del Tisza, come afferma Takács Péter?",
+   "orig": "Fact-check: Tényleg Magyar Péter és a Tisza Párt miatt születik kevesebb gyerek, ahogy Takács Péter állítja?",
+   "lead": "Il deputato di Fidesz Péter Takács sostiene che, dall'estate 2024, il numero delle concezioni in Ungheria sia crollato in modo drastico, attribuendone la responsabilità a Péter Magyar. Telex ha verificato l'affermazione, cercando di capire che cosa ci sia di vero. Il tema riguarda la natalità e il suo presunto legame con il partito Tisza. Lo riferisce Telex.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/ellenorzo/2026/10/18/csokkeno-szuletesszam-magyar-takacs-tisza-part-statisztika",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-18T12:56+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z5fe5c24f",
+   "sez": "mondo",
+   "titolo": "C'è uno Stato membro Ue in cui le donne guadagnano più degli uomini",
+   "orig": "Van egy uniós tagállam, ahol a nők keresnek többet",
+   "lead": "Nel 2024 nell'Unione europea il divario di reddito tra uomini e donne è stato in media dell'11,1%, a favore degli uomini. Secondo Telex, l'Ungheria, con il 16,9%, è il quarto Stato membro più diseguale per questo indicatore. L'articolo segnala anche che esiste un Paese Ue in cui le donne guadagnano più degli uomini. Lo riferisce Telex.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/g7/adat/2026/10/18/ferfiak-nok-fizetesek-egyenlotlenseg-magyarorszag-csehorszag-luxemburg",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-18T12:20+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zf4585bca",
+   "sez": "mondo",
+   "titolo": "Media in Montenegro: utile complessivo di 1,88 milioni di euro nel 2025",
+   "orig": "SMCG: Zbirna dobit medija u 2025. godini 1,88 miliona eura",
+   "lead": "Lo SMCG ha reso noti i dati sui media del Montenegro per il 2025: il risultato complessivo è di 1,88 milioni di euro di utile. La cifra è la somma dei risultati dei singoli media del Paese. Vijesti sottolinea di aver ottenuto il miglior risultato economico tra i quotidiani a stampa e le televisioni private. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/drustvo/832041/smcg-zbirna-dobit-medija-u-2025-godini-188-miliona-eura",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T12:31+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z29207b38",
+   "sez": "mondo",
+   "titolo": "La AUF elegge un nuovo leader: è Fawzi Warsame",
+   "orig": "AUF har valgt ny leder",
+   "lead": "Fawzi Warsame, 28 anni, è stato eletto nuovo leader dell'AUF, l'organizzazione giovanile del Partito laburista norvegese. Succede a Gaute Børstad Skjervø, che guidava l'organizzazione dal 2024. Warsame, giurista e avvocato praticante, è membro del consiglio comunale di Oslo e vicerappresentante allo Storting. In precedenza è stato leader internazionale nel comitato centrale dell'AUF. I suoi genitori sono arrivati dalla Somalia come rifugiati. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/nyheter/auf-har-valgt-ny-leder-1.18057853",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-18T10:32+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zb626412f",
+   "sez": "mondo",
+   "titolo": "Peca Popović: il Paese può cambiare con le elezioni, gli studenti hanno restituito speranza",
+   "orig": "Peca Popović: Ova zemlja može da se promeni izborima, studenti su \"rehabilitovali\" nadu",
+   "lead": "Il giornalista e critico musicale Petar Peca Popović sostiene che la Serbia possa cambiare attraverso le elezioni. Secondo lui, l'impegno degli studenti ha restituito speranza a una parte dei cittadini che aveva perso fiducia. Popović ha espresso questa valutazione in un intervento pubblico sulla situazione politica. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/peca-popovic-ova-zemlja-moze-da-se-promeni-izborima-studenti-su-rehabilitovali-nadu/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-18T12:50+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z8ed6d6d5",
+   "sez": "mondo",
+   "titolo": "Il Parlamento europeo vota contro l'entrismo islamista e la Fratellanza musulmana",
+   "orig": "European Parliament votes to confront Muslim Brotherhood, 'Islamist entryism' in overwhelming vote",
+   "lead": "Il Parlamento europeo ha approvato con un'ampia maggioranza, 381 voti favorevoli e 167 contrari, una risoluzione che condanna l'entrismo islamista e l'influenza della Fratellanza musulmana. Il voto è stato definito storico. I critici sostengono che la parte più difficile sarà trasformare la risoluzione in una legislazione concreta. Lo riferisce Fox News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/european-parliament-votes-confront-muslim-brotherhood-islamist-entryism-overwhelming-vote",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T06:30-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z5b960d07",
+   "sez": "mondo",
+   "titolo": "2027: la coalizione arcobaleno non conquisterà voti in Kwara, secondo il partito Accord",
+   "orig": "2027: Rainbow coalition won’t win votes in Kwara — Accord Party",
+   "lead": "Il partito Accord nello Stato di Kwara prevede che la Rainbow Coalition non otterrà consensi alle elezioni del 2027. Secondo il partito, la coalizione non ha un sostegno di base sul territorio. Accord cita la scarsa presenza tra la gente comune come motivo della previsione. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-rainbow-coalition-wont-win-votes-in-kwara-accord-party/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zf695567c",
+   "sez": "mondo",
+   "titolo": "Eleggere Sifuna metterebbe in dubbio il destino del Kenya, avverte Mudavadi",
+   "orig": "Electing Sifuna is second-guessing Kenya's destiny, Mudavadi warns",
+   "lead": "Il Prime CS keniota Mudavadi ha messo in guardia dal voto a Sifuna, sostenendo che significherebbe mettere in dubbio il destino del Paese. Secondo Mudavadi, alcune persone si sono svegliate sei mesi prima della scadenza fissata dalla IEBC, hanno fondato partiti e ora ambiscono alla massima carica dello Stato. Le sue parole arrivano nel pieno del dibattito sulle prossime elezioni. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/mudavadi-says-electing-sifuna-is-second-guessing-kenyas-destiny-n392258",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-18T10:34+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z81882728",
+   "sez": "mondo",
+   "titolo": "Venti ristoranti perseguiti per aver ammesso cani senza permesso dall'avvio del programma",
+   "orig": "20 restaurants prosecuted for allowing dogs without permits since scheme launched",
+   "lead": "Le autorità di Hong Kong hanno perseguito 20 ristoranti per aver fatto entrare cani senza autorizzazione dall'avvio del programma dei locali pet-friendly, lanciato a luglio. Domenica il dipartimento per l'igiene alimentare e ambientale ha reso noto che altre sette persone sono state perseguite per aver portato cani nei locali senza permesso, e quattro per non aver tenuto i cani al guinzaglio. Il portavoce ha detto che il dipartimento adotta un approccio «pragmatico e flessibile». Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/health-environment/article/3371303/20-restaurants-prosecuted-allowing-dogs-without-permits-scheme-launched?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T10:23+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z33471a4d",
+   "sez": "mondo",
+   "titolo": "Con l'aumento dei cani domestici in Kerala, l'università KVASU potenzia la formazione dei conduttori",
+   "orig": "As pet population rises in Keralam, KVASU steps up dog handler training",
+   "lead": "L'università KVASU del Kerala propone un programma di sei settimane per formare gli addestratori di cani. Il corso comprende comportamento canino, obbedienza, gestione in sicurezza e norme sul benessere animale. L'iniziativa risponde alla carenza di addestratori qualificati e punta a ridurre gli abbandoni legati a problemi comportamentali. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/as-pet-population-rises-in-keralam-kvasu-steps-up-dog-handler-training/article71592881.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:26+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z27e0cef6",
+   "sez": "mondo",
+   "titolo": "Il Vicepresidente indiano chiede sforzi congiunti per tutelare il patrimonio culturale",
+   "orig": "Vice-President calls for concerted efforts to preserve India’s cultural heritage",
+   "lead": "Il Vicepresidente dell'India ha chiesto sforzi coordinati per preservare il patrimonio culturale del Paese. Ha sottolineato in particolare la tradizione del Kerala di partecipazione interreligiosa alle feste. Ha detto che le persone celebrano occasioni come il Ramadan, il Natale e l'Onam indipendentemente dalla propria appartenenza religiosa. Il tema della tutela dell'identità culturale è al centro dell'intervento. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/vice-president-calls-for-concerted-efforts-to-preserve-indias-cultural-heritage/article71592706.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:26+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z5af65657",
+   "sez": "mondo",
+   "titolo": "Il CPI(M) lancia una mobilitazione contro la notifica ESA a Kannur",
+   "orig": "CPI(M) to launch agitation over ESA notification in Kannur",
+   "lead": "Il CPI(M), il Partito comunista indiano (marxista), lancia una mobilitazione contro la notifica ESA riguardante Kannur, nel Kerala. Le proteste saranno continue dopo il 25 ottobre e si concentreranno su Kottiyoor, Cheruvanchery e Aralam. ESA indica le aree ecologicamente sensibili, al centro della contestazione del partito. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/cpim-to-launch-agitation-over-esa-areas-in-kannur/article71592011.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:25+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zb30e8441",
+   "sez": "mondo",
+   "titolo": "Il turismo minaccia di spingere gli elefanti fuori dai pascoli di Mattupetty, a Munnar",
+   "orig": "Tourism infrastructure threatens to push elephants out of Mattupetty grasslands in Keralam’s Munnar",
+   "lead": "A Munnar, in Kerala, nuove infrastrutture turistiche previste nei pascoli naturali di Mattupetty rischiano di compromettere l'accesso a cibo e acqua per gli elefanti. Gli ambientalisti temono che possa aggravarsi il conflitto tra esseri umani ed elefanti, e chiedono lo stop immediato e una valutazione ecologica indipendente. Il KLDB sostiene che il piano rispetti un turismo responsabile e non alteri la topografia. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/mattupetty-grasslands-in-keralams-munnar-under-threat-as-tourism-push-raises-alarm-over-elephant-habitat/article71592770.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:23+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zde278a69",
+   "sez": "mondo",
+   "titolo": "Quattro studenti creano una patch RCP grande come un portafoglio con guida luminosa: vincono 10mila dollari",
+   "orig": "Four students build wallet-sized CPR patch with live guidance, win $10,000 prize",
+   "lead": "Quattro studenti della University of Washington hanno ideato CPRight, una patch delle dimensioni di un portafoglio che usa luci LED per guidare i soccorritori durante la rianimazione cardiopolmonare. Il dispositivo fornisce un feedback in tempo reale su profondità e ritmo delle compressioni toraciche, senza richiedere attrezzature aggiuntive. L'invenzione ha vinto il primo premio per studenti universitari, da 10mila dollari, al Collegiate Inventors Competition 2026. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/science/discovery/four-university-of-washington-students-built-a-wallet-sized-patch-that-gives-rescuers-real-time-led-guidance-during-cpr-the-invention-has-now-won-the-2026-collegiate-inventors-competition-and-a-10000-prize/articleshow/135026473.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:01+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z6cbcab95",
+   "sez": "mondo",
+   "titolo": "Il premier Shehbaz inaugura una Daanish School a Islamabad: pari opportunità di istruzione",
+   "orig": "PM Shehbaz inaugurates Daanish School in Islamabad, stresses equal academic opportunities",
+   "lead": "Domenica il premier pakistano Shehbaz Sharif ha inaugurato a Islamabad una Daanish School, affermando che l'iniziativa mira a offrire istruzione di qualità a studenti talentuosi provenienti da contesti svantaggiati. Il premier ha sottolineato l'obiettivo di garantire opportunità pari a quelle dei figli delle famiglie benestanti. Le scuole Daanish, avviate dal governo del Punjab, sono destinate a studenti emarginati e di talento. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038025/pm-shehbaz-inaugurates-daanish-school-in-islamabad-stresses-equal-academic-opportunities",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T15:43+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z42c520b6",
+   "sez": "mondo",
+   "titolo": "PBA, Geo Chiu punta a migliorare dopo un anno da esordiente altalenante",
+   "orig": "PBA: Geo Chiu seeks improvement after up-and-down rookie year",
+   "lead": "Il lavoro continua per Geo Chiu di Terrafirma, al termine di una stagione da rookie nella PBA fatta di alti e bassi. Chiu riconosce di poter ancora migliorare dopo l'esperienza nelle due conference con i Dyip. Terrafirma ha chiuso la Governors' Cup e la 50ª stagione con un 149-117 su Titan Ultra sabato all'Ynares Center di Antipolo. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://sports.inquirer.net/702216/pba-geo-chiu-seeks-improvement-after-up-and-down-rookie-year",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-18T18:39+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z65e5a908",
+   "sez": "mondo",
+   "titolo": "Emirati Arabi Uniti: la registrazione universitaria si riduce del 70% grazie a una nuova piattaforma digitale",
+   "orig": "UAE cuts university registration time by 70% through new digital platform",
+   "lead": "Gli Emirati Arabi Uniti hanno ridotto del 70% il tempo necessario per la registrazione universitaria grazie a una nuova piattaforma digitale. La novità riguarda le procedure con cui gli studenti si iscrivono agli atenei del Paese. L'articolo non riporta ulteriori dettagli sul funzionamento del sistema. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/education/uae-cuts-university-registration-time-by-70-through-new-digital-platform-1.500714950",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T14:30+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z95ce9f76",
+   "sez": "mondo",
+   "titolo": "Chiude dopo 28 anni l'Osteria al Buso di Pordenone: scaduto il contratto, cambiata la serratura",
+   "orig": "Osteria chiude dopo 28 anni: scade il contratto e viene cambiata la serratura al locale in centro",
+   "lead": "A Pordenone chiude dopo 28 anni l'Osteria al Buso, locale storico di piazza del Cristo 5, nel cuore del centro storico. Il locale, punto di ritrovo per la città, è stato chiuso dopo la scadenza del contratto, e la serratura è stata sostituita. Il racconto evidenzia il ruolo che il locale ha avuto nella vita cittadina. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/italia/osteria_chiude_pordenone_contratto_scaduto_serratura_cambiata-9832862.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z26206177",
+   "sez": "mondo",
+   "titolo": "Pastore con foglio di via trasloca con 400 pecore: il sindaco minaccia il prefetto",
+   "orig": "?Pastore \"fuorilegge\" col foglio di via trasloca con il gregge da 400 pecore. Il sindaco: «O riga dritto o chiamo il prefetto»",
+   "lead": "A Val di Zoldo un pastore destinatario di un foglio di via si sposta con il gregge di circa 400 pecore. Tra gli animali ci sono agnellini appena nati, che limitano le trasferte lunghe. Il sindaco ha avvertito il pastore: o rispetta le regole o sarà segnalato al prefetto. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/italia/pastore_fuorilegge_trasloca_gregge_pecore_luciano_varago_ultime_notizie-9832866.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zd8821d0a",
+   "sez": "mondo",
+   "titolo": "Elezioni a Melaka, più ampio ricorso al sistema OCR-VA dopo i test della MCMC",
+   "orig": "Melaka election to see wider use of OCR‑VA system, Election Commission confident after MCMC tests",
+   "lead": "In vista delle elezioni di Melaka, la Commissione elettorale malese si dice fiduciosa su un uso più ampio del sistema OCR-VA. La valutazione segue i test condotti insieme alla Commissione malese per le comunicazioni e il multimedia (MCMC). La notizia arriva da Alor Gajah nella giornata del 18 ottobre. Lo riferisce Malay Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/18/melaka-election-to-see-wider-use-of-ocrva-system-election-commission-confident-after-mcmc-tests/239635",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-18T18:57+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zf2f08244",
+   "sez": "mondo",
+   "titolo": "Yusuf Islam fa visita all'ex premier Mahathir in lutto e prega per la scomparsa di Tun Hasmah",
+   "orig": "Singer Yusuf Islam visits grieving Dr Mahathir, offers prayers for late Tun Dr Hasmah",
+   "lead": "Il cantautore britannico Yusuf Islam, noto come Cat Stevens, ha fatto visita all'ex premier Mahathir Mohamad, in lutto, offrendo preghiere per la scomparsa di Tun Dr Hasmah. Il gesto è avvenuto a Kuala Lumpur nella giornata del 18 ottobre. La visita si inserisce nel cordoglio per la moglie dell'ex leader. Lo riferisce Malay Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/18/singer-yusuf-islam-visits-grieving-dr-mahathir-offers-prayers-for-late-tun-dr-hasmah/239633",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-18T18:34+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc0f95582",
+   "sez": "mondo",
+   "titolo": "Un piccolo mammifero simile a una lontra nuotava nei laghi al tempo dei dinosauri",
+   "orig": "Otter-like critter swam lakes and rivers in the age of dinosaurs",
+   "lead": "Circa 165 milioni di anni fa, un piccolo mammifero peloso nuotava come un ornitorinco, cacciava come una lontra e aveva una coda simile a quella del castoro. Viveva nei laghi e nei fiumi dell'attuale Cina, predando pesci e salamandre. I ricercatori lo descrivono come il più antico esempio noto di stile di vita semiacquatico nell'evoluzione dei mammiferi. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/18/otter-like-critter-swam-lakes-and-rivers-in-the-age-of-dinosaurs",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-18T13:30+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zb335c007",
+   "sez": "mondo",
+   "titolo": "Il progetto Flames di Pasuwa sotto esame, tra risultati deludenti e ranking in calo",
+   "orig": "Pasuwa’s Flames project under scrutiny as results and Malawi rankings decline",
+   "lead": "Il futuro del ct della nazionale malawiana Kalisto Pasuwa è sempre più in discussione dopo una lunga serie di risultati negativi. La squadra ha vinto una sola partita su dieci, è scesa sensibilmente nel ranking FIFA e ha cambiato spesso la rosa. Il quadro alimenta dubbi sulla direzione dei Flames. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/pasuwas-flames-project-under-scrutiny-as-results-and-malawi-rankings-decline/?utm_source=rss&utm_medium=rss&utm_campaign=pasuwas-flames-project-under-scrutiny-as-results-and-malawi-rankings-decline",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-18T10:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z9db5bc41",
+   "sez": "mondo",
+   "titolo": "Albania, sesto giorno di protesta davanti al Ministero dell'Istruzione: studente strappa il certificato di Olimpiade",
+   "orig": "Nis protesta e gjashtë para Ministrisë së Arsimit, i riu gris certifikatën e Olimpiadës",
+   "lead": "Nel sesto giorno di protesta degli studenti, a Tirana i manifestanti si sono radunati davanti al Ministero dell'Istruzione. Tra bandiere nazionali e richieste di dimissioni del premier Edi Rama, alla mobilitazione si sono uniti altri cittadini. Un giovane ha strappato il proprio certificato di Olimpiade. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/nis-protesta-e-gjashte-para-ministrise-se-arsimit-i-riu-gris-certifikaten-e-olimpiades-se-historise/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T10:55+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zc5e17520",
+   "sez": "mondo",
+   "titolo": "Albania, l'arcivescovo Joan invita a decisioni sagge e ponderate al servizio del Paese",
+   "orig": "Apeli i Kryepeshkopit Joan: Merrni vendime të urta dhe të pjekura në shërbim të vendit",
+   "lead": "Al termine della Liturgia Divina, l'arcivescovo Joan ha chiesto a tutti coloro che hanno responsabilità decisionali di prendere decisioni sagge e ponderate, al servizio del Paese. Nella sua preghiera ha invocato che Dio illumini chi governa. L'appello arriva in un momento di forte tensione. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/apeli-i-kryepeshkopit-joan-merrni-vendime-te-urta-dhe-te-pjekura-ne-sherbim-te-vendit/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T10:40+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z9c692677",
+   "sez": "mondo",
+   "titolo": "Albania, Rama accusa attori stranieri di alimentare le proteste violente contro il governo",
+   "orig": "Premijer Albanije optužio strane aktere da se miješaju u nasilne proteste protiv vlade",
+   "lead": "Il premier albanese Edi Rama ha dichiarato domenica che le autorità hanno neutralizzato un «drone con esplosivo» che, secondo lui, era diretto verso un edificio. Rama accusa attori stranieri di interferire nelle proteste violente contro il governo. La dichiarazione arriva nel pieno delle manifestazioni contro l'esecutivo. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/premijer-albanije-optuzio-strane-aktere-da-se-mijesaju-u-nasilne-proteste-protiv-vlade/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T12:49+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z43333c60",
+   "sez": "mondo",
+   "titolo": "Congressisti chiedono a Trump se gli Usa abbiano favorito un esito filorusso alle elezioni in Bosnia",
+   "orig": "Kongresmeni traže odgovore od Trumpa: Jesu li SAD pomogle da izbori u BiH prevagnu u proruskom pravcu?",
+   "lead": "In una lettera al presidente Donald Trump, resa nota dalla congressista Dina Titus, alcuni parlamentari americani chiedono spiegazioni sull'eventuale coinvolgimento dei consiglieri politici del presidente nelle elezioni in Bosnia-Erzegovina. Il quesito riguarda la possibilità che Washington abbia contribuito a favorire un esito in direzione filorussa. La lettera chiede risposte ufficiali. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/kongresmeni-traze-odgovore-od-trumpa-jesu-li-sad-pomogle-da-izbori-u-bih-prevagnu-u-proruskom-pravcu/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T12:32+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "zfd2820a2",
+   "sez": "mondo",
+   "titolo": "Mujanović: perché gli interessi americani in Bosnia dovrebbero essere letti attraverso un leader che vuole distruggerla?",
+   "orig": "Mujanović: Zašto bi se američki interesi u BiH tumačili kroz stavove lidera koji je želi razbiti?",
+   "lead": "Il politologo Jasmin Mujanović ha criticato duramente un testo sugli interessi americani in Bosnia-Erzegovina. Secondo lo studioso, non è corretto interpretare tali interessi attraverso le posizioni di un leader che punta a dividere il Paese. La critica si rivolge all'impostazione dell'articolo. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/mujanovic-zasto-bi-se-americki-interesi-u-bih-tumacili-kroz-stavove-lidera-koji-je-zeli-razbiti/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T12:21+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
+   "id": "z5df39805",
+   "sez": "mondo",
+   "titolo": "Giappone, il sostegno al governo Takaichi scende sotto il 50% per la prima volta",
+   "orig": "Yaponiyada Takaiçi hökumətinə dəstəyin 50 %-dən aşağı düşdüyü bildirilib",
+   "lead": "Il sostegno al governo guidato dalla premier Sanae Takaichi è sceso sotto il 50% per la prima volta da quando è arrivata al potere nell'ottobre 2025. Secondo il sondaggio, il 49,1% degli intervistati dichiara di appoggiare l'esecutivo. Il dato segna un calo rispetto alle rilevazioni precedenti. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/diger-olkeler/yaponiyada-takaici-hokumetine-desteyin-50-den-asagi-dusduyu-bildirilib",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T14:21+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:03",
+   "uscita": "13"
+  },
+  {
    "id": "ze4434e7e",
    "sez": "mondo",
    "titolo": "Tunisia: l'accumulo di frustrazioni e collere",
@@ -364,11 +2253,202 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z67605e6d": "N1 Bosnia riporta le parole di Rubio sull'aggressione a una giornalista americana.",
   "z10c8c2d3": "Angolazione di approfondimento culturale sul rapporto tra fitness e radicalizzazione.",
   "ze4434e7e": "La testata legge la protesta di gennaio come sintomo di un malessere diffuso e non come episodio isolato.",
-  "z136234c0": "La testata riporta l'incidente con una sintesi essenziale, senza ulteriori dettagli sulle cause."
+  "z136234c0": "La testata riporta l'incidente con una sintesi essenziale, senza ulteriori dettagli sulle cause.",
+  "z8b75a349": "Al Jazeera mette al centro il dramma umano delle famiglie separate e mette in dubbio la reale tenuta del cessate il fuoco.",
+  "z3aab2d1c": "ANSA dà risalto al numero record di fermi comunicato dalla polizia francese.",
+  "z12dc42c4": "Rai News evidenzia il legame affettivo tra il Papa e la folla che lo ha applaudito.",
+  "zc243347e": "Al Jazeera punta sui giocatori più noti, mentre The Guardian sottolinea la pressione che grava sul Manchester United.",
+  "za229b547": "CBC News insiste sulla scala eccezionale dell'attacco, mentre Ukrinform elenca nel dettaglio gli obiettivi colpiti.",
+  "zc5a32d4f": "BBC News mette in luce l'impatto concreto dell'iniziativa e il successo che ha ottenuto in rete.",
+  "zed1c9933": "Il South China Morning Post evidenzia il divario tra l'eccellenza della ricerca e la sua applicazione concreta.",
+  "z30c77402": "Orizzonte Scuola sottolinea il divario territoriale che penalizza il Sud e le Isole.",
+  "zcb436073": "Sarajevo Times evidenzia lo svolgimento regolare delle operazioni di voto.",
+  "zda6a72e2": "The Hindu sottolinea il passo indietro delle autorità di fronte alle critiche.",
+  "z963cc9bc": "BBC News propone una guida per spiegare il bilancio al grande pubblico.",
+  "z7894fcbf": "BBC News mette in risalto la dimensione solidale dell'evento.",
+  "z32102fc3": "Vijesti mette l'accento sull'esperienza NBA del nuovo arrivato.",
+  "za1dc74fa": "Times of India evidenzia la gratitudine del Papa e il viaggio in Sud America previsto a novembre.",
+  "za1cbf353": "The Kathmandu Post sottolinea l'incertezza dei commercianti sulla durata della riapertura.",
+  "z072133dc": "NME dà risalto al carattere inatteso della collaborazione.",
+  "zee3d7c78": "Daily Maverick mette in dubbio la fattibilità delle promesse elettorali.",
+  "zc9540db5": "HotNews sottolinea come la guerra si stia avvicinando ai confini della NATO e i rischi che ne derivano per i commerci.",
+  "z177ca5f7": "Il Philippine Daily Inquirer valorizza le testimonianze delle pazienti e il messaggio sulla prevenzione.",
+  "z2f0ee0bb": "Il Messaggero offre una guida pratica alla partita con un accenno al momento delle due squadre.",
+  "zfe6bad19": "Radio Tamazuj dà voce alle richieste degli agricoltori e delle istituzioni locali.",
+  "zc6d8688c": "Le Soleil mette a confronto le potenzialità didattiche del fenomeno e i rischi della ricerca di visibilità.",
+  "z5531a472": "Il Philippine Daily Inquirer sottolinea la striscia di vittorie della NU e il ruolo decisivo dello scontro diretto.",
+  "ze0518465": "UzDaily presenta il festival come un'iniziativa per promuovere il consumo di pesce.",
+  "za7b5bb34": "Haaretz evidenzia il contrasto tra la sfiducia politica dei palestinesi e la loro preoccupazione concreta per la sicurezza quotidiana.",
+  "zafbb93b1": "Il Messaggero lega la partita al bisogno del Milan di confermare in campionato quanto mostrato in Europa.",
+  "zadf06e9b": "Monaco Matin valorizza il legame di Florence con il Principato e il ruolo del documentario nel restituirgli visibilità.",
+  "z9d95ce5e": "KT Press sottolinea la funzione aggregativa del torneo per i golfisti ruandesi.",
+  "z3efab38b": "El Nacional lega il futuro delle banche venezuelane al rilancio del comparto energetico.",
+  "zb4e2e0af": "Le Matin d'Algérie mette in evidenza il carattere trilingue del premio e dei vincitori.",
+  "za35f2ae4": "Le testate coreane descrivono i disagi concreti in città, dalla viabilità agli alberi abbattuti.",
+  "zb9e3754d": "ERR News inquadra la riunione come un momento decisivo per la sopravvivenza politica del partito.",
+  "z81fa4917": "Le testate uzbeke sottolineano il primato della nomina e il profilo del diplomatico scelto.",
+  "za1f93a66": "Deutsche Welle pone l'accento sulle conseguenze concrete della riforma per i lavoratori.",
+  "zc059ed61": "Radio Prague International mette in evidenza il calo della rappresentanza femminile.",
+  "zdf5bac24": "LRT sottolinea il degrado dell'edificio e l'impegno del museo nel recuperarlo.",
+  "z727e30ad": "LRT riporta la conferma ufficiale arrivata dal vertice dell'Eurolega.",
+  "zfdc99299": "LRT ricorda il ruolo storico di Landsbergis nella rinascita dello Stato lituano.",
+  "z6f0cd694": "LRT valorizza il film come trampolino per una generazione di interpreti lituani.",
+  "zc7aee071": "ERT News mette in risalto la passione della sceneggiatrice per la scrittura e le sue critiche al cinema greco.",
+  "zc3030fe8": "ERT News dà spazio ai dubbi medici sulle modalità con cui i farmaci sarebbero stati somministrati.",
+  "z83c0db46": "ERT News collega la memoria storica al messaggio politico del ministro sulla forza della Grecia.",
+  "zb2a86ab5": "MIA collega l'infortunio alla prolungata astinenza dal gol dell'attaccante.",
+  "ze24f667c": "IPN inserisce l'evento nel calendario culturale della capitale moldava.",
+  "z20899068": "Azatutyun sottolinea che l'origine e la natura dell'oggetto non sono ancora confermate.",
+  "zbe9eff26": "La testata tanzaniana riporta l'evento con il tono celebrativo tipico delle cerimonie comunitarie.",
+  "zb3236e27": "Il quotidiano tanzaniano affronta lo sviluppo economico attraverso la questione dello stato di diritto.",
+  "zc5bf2f41": "La testata in esilio propone una lettura critica e pessimista del modello sociale francese.",
+  "z6d4f2909": "Telex adotta il formato del fact-checking per verificare un'accusa politica di un parlamentare.",
+  "z5fe5c24f": "La testata ungherese mette in luce la posizione del proprio Paese in un confronto europeo sul divario salariale.",
+  "zf4585bca": "La testata montenegrina dà risalto al proprio risultato economico nel comparto dei media.",
+  "z29207b38": "La tv pubblica norvegese presenta il nuovo leader con un profilo biografico legato all'impegno politico e alla storia familiare.",
+  "zb626412f": "La testata serba dà spazio a voci critiche e a commenti sul ruolo della mobilitazione giovanile.",
+  "z8ed6d6d5": "La testata statunitense mette in primo piano il tema dell'islamismo politico e l'esito del voto europeo.",
+  "z5b960d07": "La testata nigeriana riporta le dichiarazioni di un partito locale in vista del voto del 2027.",
+  "zf695567c": "La testata keniota riporta le parole di un membro del governo contro nuove candidature presidenziali.",
+  "z81882728": "La testata hongkonghese riporta i dati ufficiali sulle sanzioni con tono descrittivo, senza commenti sulla politica.",
+  "z33471a4d": "Il quotidiano indiano presenta il corso come risposta concreta alla crescita della popolazione di animali domestici.",
+  "z27e0cef6": "Il quotidiano indiano riporta un appello istituzionale con un'enfasi sulla convivenza religiosa.",
+  "z5af65657": "Il quotidiano indiano dà conto della mobilitazione politica locale con focus sulle aree interessate.",
+  "zb30e8441": "Il quotidiano indiano dà voce alle preoccupazioni ambientali e alla posizione di chi promuove il progetto.",
+  "zde278a69": "Il giornale racconta l'invenzione come innovazione applicata al soccorso, sottolineando il premio ottenuto dagli studenti.",
+  "z6cbcab95": "Il quotidiano pakistano riporta le parole del premier e presenta il progetto come strumento di equità educativa.",
+  "z42c520b6": "Il quotidiano filippino racconta il bilancio sportivo attraverso le dichiarazioni dell'esordiente, con uno sguardo centrato sul singolo giocatore.",
+  "z65e5a908": "Il quotidiano emiratino presenta la novità come miglioramento dei servizi per gli studenti, con un taglio informativo.",
+  "z95ce9f76": "Il quotidiano romano segue la vicenda con un taglio di cronaca locale legato alla memoria urbana.",
+  "z26206177": "Il quotidiano romano racconta la vicenda con toni di cronaca locale, dando spazio alle parole del sindaco e del pastore.",
+  "zd8821d0a": "Il quotidiano malese riporta la posizione istituzionale della Commissione elettorale, con un taglio tecnico-politico.",
+  "zf2f08244": "Il quotidiano malese dà rilievo alla dimensione personale e religiosa della visita di cordoglio.",
+  "zc0f95582": "Il quotidiano cipriota presenta la scoperta paleontologica con tono divulgativo.",
+  "zb335c007": "Il sito malawiano segue il dibattito sportivo con una lettura critica sulla gestione tecnica della nazionale.",
+  "z9db5bc41": "Il sito albanese racconta la protesta studentesca dando spazio ai gesti dei partecipanti e alle richieste politiche.",
+  "zc5e17520": "Il sito albanese riporta l'appello religioso come intervento morale sulla vita pubblica.",
+  "z9c692677": "Il portale bosniaco riporta la versione del governo albanese, senza approfondire le prove a sostegno delle accuse.",
+  "z43333c60": "Il portale bosniaco dà rilievo alle domande rivolte a Washington sul ruolo americano nel voto.",
+  "zfd2820a2": "Il portale bosniaco ospita una critica politica di un analista, con un taglio di opinione.",
+  "z5df39805": "L'agenzia azera riporta i dati del sondaggio con un taglio di aggiornamento politico."
  },
- "contesti": {},
- "cronologie": {},
- "confronti": {},
+ "contesti": {
+  "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
+  "za1dc74fa": "Robert Francis Prevost è stato eletto l'8 maggio 2025 come primo pontefice statunitense e ha scelto il nome di Leone XIV. Di recente si è sottoposto a un intervento chirurgico per un tumore al polmone, a cui è seguita la convalescenza. In questo periodo ha ricevuto preghiere e messaggi di vicinanza. Oggi è tornato in pubblico per la prima volta e ha annunciato una ripresa graduale degli impegni, in vista del viaggio in Sud America previsto a novembre."
+ },
+ "cronologie": {
+  "zc243347e": [
+   [
+    "Luglio 2023",
+    "Messi approda all'Inter Miami"
+   ],
+   [
+    "Primavera 2025",
+    "Il Leeds vince la Championship e torna in Premier League"
+   ],
+   [
+    "Nei giorni scorsi",
+    "Emi Martínez operato alla mandibola"
+   ],
+   [
+    "Oggi",
+    "Leeds-Manchester United e doppietta di Messi nel 3-1 ad Atlanta"
+   ]
+  ],
+  "za1dc74fa": [
+   [
+    "8 maggio 2025",
+    "Elezione di Leone XIV al soglio pontificio"
+   ],
+   [
+    "Nelle scorse settimane",
+    "Intervento chirurgico per un tumore al polmone e convalescenza"
+   ],
+   [
+    "Oggi",
+    "Prima apparizione pubblica dopo l'operazione"
+   ],
+   [
+    "Novembre",
+    "Previsto il viaggio apostolico in Sud America"
+   ]
+  ]
+ },
+ "confronti": {
+  "zc243347e": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Giudizio parziale: articolo non leggibile, disponibili solo titolo e occhiello. Presenta una diretta testuale di Leeds-Manchester United con aggiornamenti e notizie sulle formazioni, indicando come protagonisti Bruno Fernandes e Marcus Rashford. Tono informativo e neutro.",
+     "b": "t"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Blog di giornata su più partite: Leeds-Manchester United è uno dei temi, non l'unico. Sottolinea la «pressione crescente» su Michael Carrick, il peggior avvio di campionato «in 40 anni» e le critiche di Lisandro Martínez ai vertici del club. Dà spazio anche alla Women's Super League, alla chirurgia mascellare di Emi Martínez e a ricordi storici.",
+     "b": "a"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Non riguarda questa notizia: il titolo annuncia la diretta di Udinese-Lecce di Serie A. Il testo disponibile è solo l'avviso su cookie e abbonamento, senza contenuti sulla partita. Giudizio parziale.",
+     "b": "a"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Non riguarda Leeds-Manchester United: è la diretta di Chelsea-Tottenham di Women's Super League. Riporta formazioni, cambi e contesto di classifica, ricordando il bilancio di Tottenham contro Chelsea: «13 partite, 13 sconfitte». Tono informativo, con qualche battuta.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Delle quattro voci, solo Al Jazeera e il primo articolo di The Guardian riguardano Leeds-Manchester United. Al Jazeera mette in primo piano i giocatori Bruno Fernandes e Marcus Rashford, ma ne conosciamo solo titolo e occhiello. The Guardian centra il racconto sulla crisi del Manchester United: la pressione su Carrick, l'avvio negativo e le critiche di Lisandro Martínez alla società. Il confronto resta quindi limitato."
+  },
+  "za1dc74fa": {
+   "voci": [
+    {
+     "n": "Times of India",
+     "c": "Mumbai",
+     "p": "XX",
+     "t": "Giudizio parziale: disponibili solo titolo e occhiello. Mette al centro la prima apparizione pubblica dopo l'operazione per tumore al polmone. Cita la gratitudine del Papa per le preghiere e il ritorno graduale ai suoi impegni, «con l'aiuto di Dio».",
+     "b": "t"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "c": "Sydney",
+     "p": "XX",
+     "t": "Giudizio parziale: disponibili solo titolo e occhiello. Riferisce in modo neutro la prima apparizione pubblica di Leone XIV dopo l'intervento per tumore al polmone. Il titolo parla di uscita dall'ospedale.",
+     "b": "t"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "Dispaccio Reuters. Riporta età (71 anni), data dell'intervento (13 ottobre), asportazione del lobo inferiore del polmone destro e dimissioni il 17 ottobre. Ricorda le speculazioni sugli effetti della malattia sul pontificato e sottolinea la «voce ferma» del Papa, affacciatosi «senza aiuto».",
+     "b": "a"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Racconta l'Angelus in cronaca, descrivendo un Papa in «discreta forma» che legge con lentezza ma senza esitazioni. Riporta ampie citazioni: i ringraziamenti al personale del Gemelli, la vicinanza ai malati e il commento al Vangelo («rendere a Cesare»). Non fornisce dettagli clinici.",
+     "b": "a"
+    },
+    {
+     "n": "ORF",
+     "c": "Vienna",
+     "p": "XX",
+     "t": "Dà ampio spazio alle dichiarazioni del chirurgo Stefano Margaritora, citato da Vatican News: intervento di routine, «paziente ideale», guarigione in circa dieci giorni. Riporta il viaggio in Uruguay, Argentina e Perù dal 6 al 17 novembre, le udienze annullate fino a martedì e le eventuali terapie, ancora da decidere.",
+     "b": "a"
+    }
+   ],
+   "divergono": "I fatti di base coincidono tra le testate: dimissioni dal Gemelli il giorno prima, Angelus, ripresa graduale delle attività. Cambiano gli aspetti messi in primo piano. ORF è l'unica a riportare il parere del chirurgo, il viaggio in America Latina, le udienze annullate e l'incertezza su chemioterapia o radioterapia in attesa dell'esame istologico. The Straits Times inserisce le speculazioni sul futuro del pontificato e precisa i dati dell'intervento. ANSA si concentra sulle parole del Papa, compreso il commento al Vangelo, e sul suo aspetto. Times of India e Sydney Morning Herald sono valutabili solo dai titoli."
+  }
+ },
  "luoghi": {
   "zfc5666f6": {
    "n": "Abuja",
@@ -470,6 +2550,547 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "Yemen"
    ],
    "pt": []
+  },
+  "z8b75a349": {
+   "n": "Striscia di Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z3aab2d1c": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z12dc42c4": {
+   "n": "Città del Vaticano",
+   "p": [
+    "Vatican"
+   ],
+   "pt": []
+  },
+  "zc243347e": {
+   "n": "Leeds",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "za229b547": {
+   "n": "San Pietroburgo",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zc5a32d4f": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zed1c9933": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z30c77402": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zcb436073": {
+   "n": "Brčko",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "zda6a72e2": {
+   "n": "Kerala",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z963cc9bc": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z7894fcbf": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z32102fc3": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "za1dc74fa": {
+   "n": "Città del Vaticano",
+   "p": [
+    "Vatican"
+   ],
+   "pt": []
+  },
+  "za1cbf353": {
+   "n": "Tatopani",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z072133dc": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zee3d7c78": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zc9540db5": {
+   "n": "Mar Nero",
+   "p": [
+    "Romania",
+    "Bulgaria"
+   ],
+   "pt": []
+  },
+  "z177ca5f7": {
+   "n": "Iligan",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z2f0ee0bb": {
+   "n": "Torino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfe6bad19": {
+   "n": "Yambio",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "zc6d8688c": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z5531a472": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "ze0518465": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "za7b5bb34": {
+   "n": "Cisgiordania e Striscia di Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zafbb93b1": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zadf06e9b": {
+   "n": "Monaco",
+   "p": [
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "z9d95ce5e": {
+   "n": "Kigali",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "z3efab38b": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zb4e2e0af": {
+   "n": "Algeria",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "za35f2ae4": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zb9e3754d": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z81fa4917": {
+   "n": "Addis Abeba",
+   "p": [
+    "Ethiopia"
+   ],
+   "pt": []
+  },
+  "za1f93a66": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zc059ed61": {
+   "n": "Repubblica Ceca",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zdf5bac24": {
+   "n": "Šiauliai",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z727e30ad": {
+   "n": "Europa",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zfdc99299": {
+   "n": "Lituania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z6f0cd694": {
+   "n": "Lituania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zc7aee071": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zc3030fe8": {
+   "n": "Grecia",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z83c0db46": {
+   "n": "Pireo",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zb2a86ab5": {
+   "n": "Manchester",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "ze24f667c": {
+   "n": "Chișinău",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z20899068": {
+   "n": "distretto di Pasvalys",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zbe9eff26": {
+   "n": "Sandton",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zb3236e27": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "zc5bf2f41": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z6d4f2909": {
+   "n": "Budapest",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "z5fe5c24f": {
+   "n": "Ungheria",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "zf4585bca": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z29207b38": {
+   "n": "Oslo",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "zb626412f": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z8ed6d6d5": {
+   "n": "Parlamento europeo",
+   "p": [
+    "France",
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z5b960d07": {
+   "n": "Stato di Kwara",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zf695567c": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z81882728": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z33471a4d": {
+   "n": "Kerala",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z27e0cef6": {
+   "n": "Kerala",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z5af65657": {
+   "n": "Kannur",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zb30e8441": {
+   "n": "Munnar",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zde278a69": {
+   "n": "Seattle",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6cbcab95": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z42c520b6": {
+   "n": "Antipolo",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z65e5a908": {
+   "n": "Emirati Arabi Uniti",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z95ce9f76": {
+   "n": "Pordenone",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z26206177": {
+   "n": "Val di Zoldo",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd8821d0a": {
+   "n": "Melaka",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zf2f08244": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zc0f95582": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zb335c007": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z9db5bc41": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "zc5e17520": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z9c692677": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z43333c60": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zfd2820a2": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z5df39805": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -487,7 +3108,84 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z67605e6d": 1,
   "z10c8c2d3": 1,
   "ze4434e7e": 2,
-  "z136234c0": 2
+  "z136234c0": 2,
+  "z8b75a349": 1,
+  "z3aab2d1c": 2,
+  "z12dc42c4": 2,
+  "zc243347e": 3,
+  "za229b547": 2,
+  "zc5a32d4f": 1,
+  "zed1c9933": 1,
+  "z30c77402": 2,
+  "zcb436073": 1,
+  "zda6a72e2": 1,
+  "z963cc9bc": 1,
+  "z7894fcbf": 1,
+  "z32102fc3": 1,
+  "za1dc74fa": 2,
+  "za1cbf353": 1,
+  "z072133dc": 1,
+  "zee3d7c78": 1,
+  "zc9540db5": 2,
+  "z177ca5f7": 1,
+  "z2f0ee0bb": 1,
+  "zfe6bad19": 1,
+  "zc6d8688c": 1,
+  "z5531a472": 1,
+  "ze0518465": 1,
+  "za7b5bb34": 2,
+  "zafbb93b1": 1,
+  "zadf06e9b": 1,
+  "z9d95ce5e": 1,
+  "z3efab38b": 1,
+  "zb4e2e0af": 1,
+  "za35f2ae4": 1,
+  "zb9e3754d": 1,
+  "z81fa4917": 1,
+  "za1f93a66": 1,
+  "zc059ed61": 1,
+  "zdf5bac24": 1,
+  "z727e30ad": 1,
+  "zfdc99299": 1,
+  "z6f0cd694": 1,
+  "zc7aee071": 1,
+  "zc3030fe8": 1,
+  "z83c0db46": 1,
+  "zb2a86ab5": 1,
+  "ze24f667c": 1,
+  "z20899068": 2,
+  "zbe9eff26": 1,
+  "zb3236e27": 1,
+  "zc5bf2f41": 1,
+  "z6d4f2909": 1,
+  "z5fe5c24f": 1,
+  "zf4585bca": 1,
+  "z29207b38": 1,
+  "zb626412f": 1,
+  "z8ed6d6d5": 1,
+  "z5b960d07": 1,
+  "zf695567c": 1,
+  "z81882728": 1,
+  "z33471a4d": 1,
+  "z27e0cef6": 1,
+  "z5af65657": 1,
+  "zb30e8441": 1,
+  "zde278a69": 1,
+  "z6cbcab95": 1,
+  "z42c520b6": 1,
+  "z65e5a908": 1,
+  "z95ce9f76": 1,
+  "z26206177": 1,
+  "zd8821d0a": 1,
+  "zf2f08244": 1,
+  "zc0f95582": 1,
+  "zb335c007": 1,
+  "z9db5bc41": 1,
+  "zc5e17520": 1,
+  "z9c692677": 1,
+  "z43333c60": 1,
+  "zfd2820a2": 1,
+  "z5df39805": 1
  },
  "video": {},
  "pillole": []
