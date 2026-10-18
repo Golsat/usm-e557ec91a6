@@ -3,6 +3,2035 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z0730d2b3",
+   "sez": "mondo",
+   "titolo": "Enem 2026: domenica scade il termine per scegliere la lingua straniera",
+   "orig": "Termina neste domingo prazo escolher idioma da prova do Enem 2026",
+   "lead": "Domenica 18 ottobre scade il termine per i candidati iscritti automaticamente all'Enem 2026, l'esame nazionale brasiliano, per scegliere la lingua della prova straniera: inglese o spagnolo. La scelta va fatta nella Página do Participante. È la prima volta che l'esame prevede l'iscrizione automatica per gli studenti in uscita dalla scuola pubblica, con l'obiettivo di aumentarne la partecipazione. Lo riferisce Agência Brasil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/termina-neste-domingo-prazo-escolher-idioma-da-prova-do-enem-2026",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T13:15-03:00"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/sp/piracicaba-regiao/educacao/noticia/2026/10/18/unicamp-2027-regiao-de-piracicaba-aplica-prova-para-33-mil-candidatos-em-duas-cidades-neste-domingo-veja-detalhes.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T10:11+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc467977b",
+   "sez": "mondo",
+   "titolo": "Mobilità aeree avanzate: l'Oman presenta a Tunisi la sua strategia",
+   "orig": "Mobilités aériennes avancées : Oman partage à Tunis sa stratégie pour bâtir une nouvelle économie de basse altitude",
+   "lead": "A Tunisi, in occasione di Bigtech Africa 2026 (12-13 ottobre), l'Oman ha condiviso la propria strategia per la mobilità aerea avanzata (Advanced Air Mobility, AAM), con l'obiettivo di costruire una nuova economia a bassa quota. Al tavolo hanno partecipato rappresentanti istituzionali ed esperti provenienti dal Sultanato, mentre si discuteva di innovazione, industria e sviluppo economico. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/18/mobilites-aeriennes-avancees-oman-partage-a-tunis-sa-strategie-pour-batir-une-nouvelle-economie-de-basse-altitude/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T16:30+00:00"
+    },
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/17/tunis-une-nouvelle-peine-de-prison-confirmee-en-appel-contre-khayam-turki/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T19:27+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z02d57f03",
+   "sez": "mondo",
+   "titolo": "Patrick Kabou eletto presidente del Collectif africain pour la paix",
+   "orig": "Collectif africain pour la paix : Me Patrick Kabou élu président",
+   "lead": "Il Collectif africain pour la paix (CAP), organizzazione panafricana, ha rinnovato il proprio ufficio ed eletto presidente l'avvocato senegalese Patrick Kabou, al termine della terza Assemblea generale svoltasi a Dakar, presso l'ICAGI Amadou Mahtar Mbow. Il CAP intende rafforzare le azioni di prevenzione e risoluzione dei conflitti e accelerare il riconoscimento ufficiale in Senegal. Kabou è anche docente e ricercatore, secondo l'agenzia APS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/societe-fait-divers/collectif-africain-pour-la-paix-me-patrick-kabou-elu-president/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T17:35+00:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/me-patrick-kabou-porte-a-la-tete-du-collectif-africain-pour-la-paix/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T14:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z050ea655",
+   "sez": "mondo",
+   "titolo": "Sifuna: «Sarò il primo senatore a un solo mandato a diventare presidente»",
+   "orig": "Sifuna: I will be the first one-term Senator to become president",
+   "lead": "Il senatore keniota Edwin Sifuna ha dichiarato di voler diventare il primo senatore a un solo mandato a guidare il Paese. Respingendo i dubbi sulla sua esperienza e sulle sue risorse finanziarie, Sifuna si è detto fiducioso che il nuovo movimento politico otterrà sostegno in tutto il Kenya. Ha inoltre chiesto unità all'opposizione. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/sifuna-i-will-be-the-first-one-term-senator-to-become-president-n392281",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-18T17:22+00:00"
+    },
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610160466.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T13:41+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1765389c",
+   "sez": "mondo",
+   "titolo": "Sei feriti a Najran per un proiettile Houthi, dice la protezione civile saudita",
+   "orig": "Six injured as Houthi projectile hits Najran, says Saudi Civil Defence",
+   "lead": "Sei persone sono rimaste ferite nel sud dell'Arabia Saudita dopo che un proiettile lanciato dagli Houthi yemeniti ha colpito un'area residenziale di Najran, vicino al confine con lo Yemen. L'episodio è avvenuto domenica. Lo ha reso noto la Protezione civile saudita, secondo cui sono state danneggiate tre abitazioni e tre veicoli, oltre ai feriti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2635502/saudi-led-coalition-says-two-officers-killed-in-helicopter-crash-in-najran",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T06:08+05:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-strike-injures-six-southern-saudi-arabia",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T17:35+01:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3086132/per-husiu-smugi-saudo-arabijos-pietuose-suzeisti-sesi-zmones",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T19:59+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc06286bd",
+   "sez": "mondo",
+   "titolo": "Trump appoggia Netanyahu in vista delle elezioni israeliane",
+   "orig": "Trump gives Netanyahu ‘complete and total endorsement’ ahead of Israeli election",
+   "lead": "Il presidente statunitense Donald Trump ha dichiarato il proprio «sostegno completo e totale» al premier israeliano Benjamin Netanyahu in vista delle elezioni, previste tra meno di dieci giorni. In un messaggio pubblicato domenica sul social Truth Social e rivolto al popolo israeliano, Trump ha definito Netanyahu «forte, coraggioso e brillante». Il voto è fissato per il 27 ottobre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-gives-netanyahu-complete-and-total-endorsement-ahead-israeli",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T18:36+01:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946965/trump-endorses-netanyahu-for-re-election-links-israel-vote-to-future-of-us-campaign-against-iran",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T20:16+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1ea8437d",
+   "sez": "mondo",
+   "titolo": "TRIBE Culture Fest sfida il ministro dello Sport: provi le accuse sui 611mila dollari",
+   "orig": "TRIBE Culture Fest challenges Sports Minister to provide evidence for alleged US$611,000 payments, threatens legal action",
+   "lead": "Il festival TRIBE Culture Fest ha chiesto al ministro dello Sport e della Ricreazione, Kofi Adams, di presentare prove a sostegno dell'accusa secondo cui il suo amministratore delegato, Nana Boateng Gyimah, avrebbe ricevuto illegalmente 611.000 dollari evitando di restituirli. Il festival minaccia azioni legali. Nella conferenza stampa di domenica ha respinto l'accusa di aver ricevuto denaro da privati legato alla vicenda dei visti per i Mondiali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/tribe-culture-fest-challenges-sports-minister-to-provide-evidence-for-alleged-us-611-000-payments-threatens-legal-action",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T16:56+00:00"
+    },
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/world-cup-visa-saga-tribe-culture-fest-rejects-sports-ministers-allegation-of-receiving-611000-from-individuals/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T16:57+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zef612b4e",
+   "sez": "mondo",
+   "titolo": "Heil non esclude la candidatura alla guida della SPD",
+   "orig": "Newsblog zur Bundespolitik: Heil deutet Kandidatur für SPD-Vorsitz im Januar an",
+   "lead": "L'ex ministro del Lavoro tedesco Heil non esclude una propria candidatura alla guida della SPD, con l'elezione del nuovo presidente del partito prevista a gennaio. «Non posso escludere che io mi candidi», ha dichiarato. Le dichiarazioni arrivano nel quadro del dibattito politico interno al partito socialdemocratico.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-vorsitz-hubertus-heil-li.3529564",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T17:44+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-heil-ich-kann-nicht-ausschliessen-dass-ich-fuer-den-spd-vorsitz-kandidiere-faz-110093143.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T17:06+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z331a85d2",
+   "sez": "mondo",
+   "titolo": "Artisti lamentano la morte di Lua Blanco, scomparsa a 39 anni",
+   "orig": "Larissa Manoela, Alice Wegmann e outros artistas lamentam morte de Lua Blanco",
+   "lead": "Numerosi artisti che hanno lavorato con lei o seguito la sua carriera, tra cui Larissa Manoela e Alice Wegmann, ne hanno lamentato la scomparsa. Lua Blanco era nota per il ruolo di Roberta nella versione brasiliana della telenovela Rebelde.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/larissa-manoela-alice-wegmann-e-outros-artistas-lamentam-morte-de-lua-blanco.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T14:30-03:00"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/morre-a-atriz-lua-blanco-a-roberta-da-versao-brasileira-de-rebelde-aos-39-anos.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T14:15-03:00"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/pop-arte/noticia/2026/10/18/integrantes-de-rebelde-lamentam-morte-de-lua-blanco.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T17:36+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6944e338",
+   "sez": "mondo",
+   "titolo": "Arrestato il senatore Condori: accusa di istigazione e terrorismo",
+   "orig": "Aprehenden al senador Condori por instigación y una orden fiscal lo vincula con terrorismo",
+   "lead": "In Bolivia la polizia ha fermato a El Alto il senatore supplente Nilton Condori, sospeso, mentre si dirigeva verso un'assemblea politica. Un ordine della procura lo collega a un'indagine per terrorismo e istigazione pubblica a commettere reati, legata a dichiarazioni fatte durante un'assemblea. Il documento include anche l'ex presidente Evo Morales.",
+   "more": [
+    "Il riferimento è ai 53 giorni di blocchi stradali che hanno assediato La Paz, periodo durante il quale il senatore sarebbe stato parte attiva della mobilitazione, secondo El Deber. Il portavoce presidenziale ha collegato il caso a quei blocchi."
+   ],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/aprehenden-condori-instigacion-orden-fiscal-vincula-terrorismo_1792338892",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T15:54+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/denuncian-aprehension-senador-nilton-condori-alto_1792337179",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T15:26+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/que-fue-aprehendido-senador-nilton-condori/20261018133753997802.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T13:37-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/aprehenden-senador-nilton-condori-alto/20261018122026997799.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T12:20-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z06eeae52",
+   "sez": "mondo",
+   "titolo": "Ventura propone un pacchetto di emergenza per la casa",
+   "orig": "18h André Ventura propõe um pacote de emergência para resolver a crise na habitação em Portugal",
+   "lead": "Il partito Chega, guidato da André Ventura, ha proposto un «pacchetto legislativo di emergenza» per la crisi abitativa in Portogallo. Tra le misure: fine dei benefici fiscali per gli stranieri, maggiori detrazioni IRS per le spese abitative e revisione dell'Imposto Municipal sobre Imóveis (IMI).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/18h-andre-ventura-propoe-um-pacote-de-emergencia-para-resolver-a-crise-na-habitacao-em-portugal_a1_1772523",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/politica/noticia/chega-quer-pacote-legislativo-emergencia-habitacao-2191779",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T17:05+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7a298b79",
+   "sez": "mondo",
+   "titolo": "Trump appoggia Netanyahu nelle elezioni legislative israeliane",
+   "orig": "Trump endorses Netanyahu in Israeli legislative elections",
+   "lead": "Il presidente statunitense Donald Trump ha dato il proprio appoggio al premier israeliano Benjamin Netanyahu in vista delle elezioni legislative del 27 ottobre. In un post sui social, Trump ha definito Netanyahu un leader «forte, coraggioso e brillante». Il messaggio è stato diffuso prima del voto, in un Paese dove il premier si misura con la campagna elettorale. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T16:36+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T16:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6441f4aa",
+   "sez": "mondo",
+   "titolo": "HSE: pagati oltre 30 milioni di euro in più ai dipendenti in tre anni",
+   "orig": "HSE overpaid staff more than €30m over three years",
+   "lead": "Il Servizio sanitario irlandese, HSE, ha pagato ai propri dipendenti più di 30 milioni di euro oltre il dovuto nell'arco di tre anni. Sono coinvolte migliaia di persone, che hanno ricevuto somme alle quali non avevano diritto. Si tratta di un importo complessivo, riferito all'intero periodo di tre anni. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/health/2026/1018/1595877-hse-staff-overpayments/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-18T17:28+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze89c0165",
+   "sez": "mondo",
+   "titolo": "Chwalinska vince il WTA 1000 di Wuhan",
+   "orig": "„WTA 1000“ teniso turnyre Vuhane triumfavo lenkė Chwalinska",
+   "lead": "La tennista polacca Maja Chwalinska, numero 22 del ranking WTA, ha vinto il torneo WTA 1000 di Wuhan, in Cina, concluso domenica. Si tratta di una delle serie più prestigiose del circuito femminile, e la sua vittoria rappresenta un risultato importante per il tennis polacco. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3086134/wta-1000-teniso-turnyre-vuhane-triumfavo-lenke-chwalinska",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T20:21+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc98b8258",
+   "sez": "mondo",
+   "titolo": "Ricerca: nucleare e intelligenza artificiale tra le minacce di estinzione entro il 2100",
+   "orig": "Didžiausių grėsmių tyrimas: branduolinis karas ir DI kelia išnykimo riziką iki 2100 m.",
+   "lead": "Una commissione di esperti della rivista The Lancet ha analizzato le principali minacce sanitarie del XXI secolo, individuandone 17 «catastrofiche». Due in particolare si distinguono: il rischio di un conflitto nucleare e i pericoli legati all'uso malevolo dell'intelligenza artificiale, che potrebbero mettere a rischio la sopravvivenza umana entro il 2100. Il quadro emerge da un'analisi ampia sui rischi per la salute dell'umanità. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/3083382/didziausiu-gresmiu-tyrimas-branduolinis-karas-ir-di-kelia-isnykimo-rizika-iki-2100-m",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T20:04+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z29f79e5c",
+   "sez": "mondo",
+   "titolo": "Drone caduto in Lituania: il ministro lega l'episodio all'attacco ucraino a San Pietroburgo",
+   "orig": "Robertas Kaunas: nukritęs dronas – Ukrainos atakos prieš Sankt Peterburgą pasekmė",
+   "lead": "Un drone entrato domenica mattina nel territorio lituano è caduto nel distretto di Pasvalys. Il ministro della Difesa Robertas Kaunas ha affermato che l'incidente è la conseguenza di un attacco ucraino contro San Pietroburgo. Il caso riguarda la sicurezza del territorio nazionale. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3086130/robertas-kaunas-nukrites-dronas-ukrainos-atakos-pries-sankt-peterburga-pasekme",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T19:52+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z27f61e22",
+   "sez": "mondo",
+   "titolo": "Corruzione di un militare: la società accusata non si dichiara colpevole",
+   "orig": "Kariuomenės atstovo papirkimu kaltinamos bendrovės advokatė: įmonė kalta neprisipažįsta",
+   "lead": "Nel processo a carico della società di costruzioni Versiculus, registrata a Vilnius, l'azienda è accusata di aver corrotto un rappresentante dell'esercito. Secondo la legale che la rappresenta in tribunale, la società non si riconosce colpevole. Il caso riguarda accuse di corruzione legate ai rapporti con le forze armate. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3086129/kariuomenes-atstovo-papirkimu-kaltinamos-bendroves-advokate-imone-kalta-neprisipazista",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T19:50+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z800f25ad",
+   "sez": "mondo",
+   "titolo": "Vance incalzato su guerra in Iran e immigrazione in un town hall CBS",
+   "orig": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
+   "lead": "Il vicepresidente JD Vance è stato incalzato con domande difficili durante un town hall della CBS su guerra contro l'Iran, immigrazione e altri temi. Alcune domande sono arrivate da elettori che dicevano di averlo sostenuto, insieme al presidente Trump. L'episodio anticipa le difficoltà che Vance potrebbe affrontare se si candidasse alla presidenza nel 2028. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T11:25-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze8916551",
+   "sez": "mondo",
+   "titolo": "Il sostegno di Trump non garantisce un vantaggio a Netanyahu",
+   "orig": "Trump endorses Netanyahu in Israeli election",
+   "lead": "Non è certo che l'appoggio del presidente statunitense Donald Trump dia slancio al premier Benjamin Netanyahu e al suo partito di destra, il Likud. Il sostegno popolare israeliano verso Trump è diminuito a causa dei disaccordi tra Israele e Stati Uniti sull'Iran. L'endorsement arriva nel pieno della campagna per le elezioni legislative israeliane. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/trump-endorses-netanyahu-in-israeli-election-6469761",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T00:59+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc2a5f42b",
+   "sez": "mondo",
+   "titolo": "Sistemi di sicurezza ferroviaria da evolvere: treni che superano i semafori rossi",
+   "orig": "Rail safety systems 'have to evolve' as concerns raised over trains running red lights",
+   "lead": "In Nuova Zelanda cresce la preoccupazione per i treni che passano con il segnale rosso. Gran parte della rete ferroviaria si basa ancora sulla visibilità dei segnali da parte dei macchinisti. La Commissione per l'investigazione sugli incidenti dei trasporti (TAIC) sostiene che questo sistema debba cambiare e che i sistemi di sicurezza debbano evolvere. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/community/2009896/rail-safety-systems-have-to-evolve-as-concerns-raised-over-trains-running-red-lights",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T06:00+13:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z86f18592",
+   "sez": "mondo",
+   "titolo": "Più giovani nelle liste elettorali: la campagna a una settimana dalla scadenza",
+   "orig": "Behind the push to get more young people on the electoral roll",
+   "lead": "Mancano meno di una settimana alla scadenza per l'iscrizione alle liste elettorali in Nuova Zelanda. Una campagna guidata da giovani sta cercando di coinvolgere i più giovani adottando un approccio diverso, per parlare ai rangatahi, termine māori che indica i giovani. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/politics_election-2026/2009402/behind-the-push-to-get-more-young-people-on-the-electoral-roll",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T05:40+13:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd1cfa39b",
+   "sez": "mondo",
+   "titolo": "Spiegazione: cosa sono le elezioni di metà mandato negli USA e perché contano",
+   "orig": "Explainer: What are the US midterms and why are they a big deal?",
+   "lead": "Le elezioni di metà mandato, dette midterm, negli Stati Uniti potrebbero modificare gli equilibri di potere nell'America di Trump. Un approfondimento divulgativo spiega cosa sono le midterm, come funzionano e perché sono considerate così rilevanti per la politica americana, con un focus sui possibili effetti sugli equilibri al Congresso. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/world/2009371/explainer-what-are-the-us-midterms-and-why-are-they-a-big-deal",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T05:38+13:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z515d929a",
+   "sez": "mondo",
+   "titolo": "Trump approva lo stato di emergenza per Guam e le Marianne settentrionali mentre il tifone Champi si allontana",
+   "orig": "Trump approves emergency declarations for Guam, CNMI as Champi moves away",
+   "lead": "Il presidente Donald Trump ha approvato dichiarazioni di emergenza per Guam e per le Isole Marianne Settentrionali, dopo che il super tifone Champi ha mancato di poco Guam e si sta allontanando. Il provvedimento riguarda due territori statunitensi del Pacifico, esposti alla minaccia del ciclone. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2011143/trump-approves-emergency-declarations-for-guam-cnmi-as-champi-moves-away",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-19T06:50+13:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfeb0acde",
+   "sez": "mondo",
+   "titolo": "Gasperini elogia Koulierakis dopo la prestazione con la Roma",
+   "orig": "Έπαινοι του Γκασπερίνι για την εμφάνιση του Κουλιεράκη με τη Ρόμα",
+   "lead": "Il tecnico della Roma Gian Piero Gasperini ha espresso soddisfazione per la prestazione di Konstantinos Koulierakis, difensore greco, nella partita di sabato 17 ottobre contro il Genoa. Il tecnico ha evidenziato aspetti del gioco del difensore che potranno rivelarsi preziosi per la squadra. Secondo la testata, Koulierakis sta guadagnando progressivamente la fiducia dell'allenatore. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/athlitismos/epainoi-tou-gkasperini-gia-tin-emfanisi-tou-koulieraki-me-ti-roma/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T17:55+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z871c039b",
+   "sez": "mondo",
+   "titolo": "Dalla Lefkopigi di Kozani ai monti Pamir, il sogno in moto del 28enne Vangelis",
+   "orig": "Από τη Λευκοπηγή Κοζάνης στα βουνά Παμίρ – Το όνειρο του 28χρονου Βαγγέλη που ταξιδεύει με μοτοσικλέτα",
+   "lead": "Vangelis Kerasiotis, 28 anni, originario di Lefkopigi a Kozani, percorre lunghe distanze in moto, attraversa frontiere e scopre il mondo su due ruote. Il suo viaggio arriva fino alle montagne del Pamir, in Asia centrale, una tappa che racconta la passione per l'avventura e la libertà della strada. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/perifereiakoi-stathmoi/kozani/apo-ti-leykopigi-kozanis-sta-vouna-pamir-to-oneiro-tou-28xronou-vaggeli-pou-taksideyei-me-motosikleta/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T17:46+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze5603397",
+   "sez": "mondo",
+   "titolo": "Panathinaikos-Asteras Tripolis 5-1: il Panathinaikos torna alla vittoria e resta primo in classifica",
+   "orig": "Παναθηναϊκός – Αστέρας Τρίπολης 5-1: Επιστροφή στις νίκες με εμφατικό τρόπο για τους «πράσινους»",
+   "lead": "Il Panathinaikos ha battuto 5-1 l'Asteras Tripolis all'OAKA di Atene, nella settima giornata della Super League greca, tornando alla vittoria dopo la sconfitta nel derby con l'Olympiakos. Con il successo il club resta da solo in testa alla classifica. La testata definisce la prestazione la migliore della stagione. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/athlitismos/panathinaikos-asteras-tripolis-5-1-epistrofi-stis-nikes-me-emfatiko-tropo-gia-tous-prasinous/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T16:38+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdc1b9a8f",
+   "sez": "mondo",
+   "titolo": "DIK: alle 18:30 affluenza al 44,57%, hanno votato 7.241 elettori",
+   "orig": "ДИК: До 18:30 излезеноста 44,57 отсто, гласале 7.241 избирачи",
+   "lead": "La Commissione elettorale statale (DIK) comunica che alle 18:30 l'affluenza ha raggiunto il 44,57%, con 7.241 elettori che hanno votato. Il dato si basa sui dati pervenuti da 24 seggi elettorali, secondo il conteggio della Commissione. La notizia è datata Skopje, 18 ottobre 2026. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B4%D0%B8%D0%BA-%D0%B4%D0%BE-1830-%D0%B8%D0%B7%D0%BB%D0%B5%D0%B7%D0%B5%D0%BD%D0%BE%D1%81%D1%82%D0%B0-4457-%D0%BE%D1%82%D1%81%D1%82%D0%BE-%D0%B3%D0%BB%D0%B0%D1%81%D0%B0%D0%BB%D0%B5-7.241-%D0%B8%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%87%D0%B8",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T19:02+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf25a3c50",
+   "sez": "mondo",
+   "titolo": "DIK: a Brvenica affluenza al 39,34% alle 17, hanno votato 6.392 cittadini",
+   "orig": "ДИК: До 17 часот излезеноста во Брвеница 39,34 проценти, гласале 6.392 граѓани",
+   "lead": "Alle 17 l'affluenza per le elezioni del sindaco del Comune di Brvenica ha raggiunto il 39,34%, con 6.392 cittadini che hanno votato, secondo i dati della Commissione elettorale statale (DIK). Il dato riguarda la consultazione per la carica di sindaco di questo comune della Macedonia del Nord. La notizia è datata Skopje, 18 ottobre 2026. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B4%D0%B8%D0%BA-%D0%B4%D0%BE-17-%D1%87%D0%B0%D1%81%D0%BE%D1%82-%D0%B8%D0%B7%D0%BB%D0%B5%D0%B7%D0%B5%D0%BD%D0%BE%D1%81%D1%82%D0%B0-%D0%B2%D0%BE-%D0%B1%D1%80%D0%B2%D0%B5%D0%BD%D0%B8%D1%86%D0%B0-3934-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%B8-%D0%B3%D0%BB%D0%B0%D1%81%D0%B0%D0%BB%D0%B5-6.392-%D0%B3%D1%80%D0%B0%D1%93%D0%B0%D0%BD%D0%B8",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T18:03+02:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B4%D0%B8%D0%BA-%D0%B8%D0%B7%D0%BB%D0%B5%D0%B7%D0%B5%D0%BD%D0%BE%D1%81%D1%82%D0%B0-%D0%B2%D0%BE-%D0%B1%D1%80%D0%B2%D0%B5%D0%BD%D0%B8%D1%86%D0%B0-%D0%B4%D0%BE-15-%D1%87%D0%B0%D1%81%D0%BE%D1%82-3117-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%B8-%D0%B3%D0%BB%D0%B0%D1%81%D0%B0%D0%BB%D0%B5-5.064-%D0%B3%D1%80%D0%B0%D1%93%D0%B0%D0%BD%D0%B8Nnt",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T16:11+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfffaef72",
+   "sez": "mondo",
+   "titolo": "Tra le tensioni con Baku, Erdoğan augura all'«Azerbaigian fratello» la Giornata dell'indipendenza",
+   "orig": "Անկարա-Բաքու տարաձայնությունների ֆոնին Էրդողանը շնորհավորել է «եղբայրական Ադրբեջանին»",
+   "lead": "Il presidente turco Recep Tayyip Erdoğan ha inviato le congratulazioni all'Azerbaigian per la Giornata del ripristino dell'indipendenza, ribadendo i «rapporti fraterni» tra i due Paesi. Nel messaggio ha salutato il presidente azero Ilham Aliyev, definito «mio fratello», e il popolo azero, con cui ha detto di condividere gioie e dolori. Gli auguri arrivano in un momento di divergenze tra Ankara e Baku. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33878916.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-18T20:47+04:00"
+    },
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/xarici-siyaset/ai-numayendeliyi-musteqilliyin-berpasi-gunu-azerbaycana-qurur-sevinc-rifah-getirsin",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T18:16+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z99dcad52",
+   "sez": "mondo",
+   "titolo": "Come Starlink ha dato all'Ucraina il vantaggio dei droni a «medio raggio», ora a rischio",
+   "orig": "How Starlink gave Ukraine a ‘middle strike’ advantage that is now at risk",
+   "lead": "I droni ucraini a «medio raggio» colpiscono in profondità dietro le linee russe, dando la caccia a carburante, munizioni e rinforzi che Mosca usa per sostenere le sue offensive. Il sistema satellitare Starlink ha reso possibile questa campagna, ma la dipendenza da questa tecnologia espone Kiev a un rischio. L'analisi valuta se l'Ucraina può mantenere il vantaggio ottenuto. Lo riferisce The Kyiv Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/how-starlink-gave-ukraine-a-middle-strike-advantage-that-is-now-at-risk-2/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-18T17:07+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9a2f686f",
+   "sez": "mondo",
+   "titolo": "Territori occupati: 11 ucraini, tra cui una donna di 96 anni, evacuati dalla Russia",
+   "orig": "News from occupied Ukraine: 11 Ukrainians, including 96-year-old woman, evacuated from Russian occupation",
+   "lead": "Undici ucraini, tra cui una donna di 96 anni, sono stati evacuati dai territori occupati dalla Russia, secondo quanto riferito dal difensore civico ucraino. Nel consueto aggiornamento settimanale, la testata richiama la crescente stretta del Cremlino sull'informazione nei territori occupati. Le notizie riportate sono aggiornate al 17 ottobre. Lo riferisce The Kyiv Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/news-from-occupied-ukraine-11-ukrainians-including-96-year-old-woman-evacuated-from-russian-occupation/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-18T16:44+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z73a1f6dd",
+   "sez": "mondo",
+   "titolo": "Lagos pronta a ospitare i CAF Awards 2026, assicura il governatore Sanwo-Olu",
+   "orig": "Lagos ready to host CAF 2026 Awards, Gov Sanwo-Olu assures",
+   "lead": "Il governatore dello Stato di Lagos, Sanwo-Olu, ha assicurato che la città è pronta a ospitare i premi annuali del calcio africano, previsti il 7 dicembre. Il governatore ha indicato come priorità la sicurezza, la logistica, il branding e l'accesso alle sedi dell'evento. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/sports/football/918067-lagos-ready-to-host-caf-2026-awards-gov-sanwo-olu-assures.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T17:54+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcf42b5e9",
+   "sez": "mondo",
+   "titolo": "2027: Uba Sani punta a 3 milioni di voti a Kaduna mentre alleati di El-Rufai passano all'APC",
+   "orig": "2027: Uba Sani targets 3 million votes in Kaduna as top El-Rufai allies defect to APC",
+   "lead": "Uba Sani punta a 3 milioni di voti in Kaduna per le elezioni del 2027, dopo aver promesso in precedenza due milioni. Nello Stato sono registrati 4,6 milioni di elettori e il 96% ha già ricevuto la tessera elettorale. Intanto alcuni importanti alleati di El-Rufai passano all'APC. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/918056-2027-uba-sani-targets-3-million-votes-in-kaduna-as-top-el-rufai-allies-defect-to-apc.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T16:26+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb04c39b2",
+   "sez": "mondo",
+   "titolo": "2027: «Non ci ritireremo per Atiku», replica di Kwankwaso all'ADC",
+   "orig": "2027: We’ll not step down for Atiku — Kwankwaso replies ADC",
+   "lead": "Kwankwaso ha replicato al Consiglio della campagna presidenziale dell'ADC (ADC-PCC), rifiutando di fare un passo indietro in favore di Atiku. In una dichiarazione su Facebook domenica, ha accusato il gruppo di condurre campagne diffamatorie per confondere gli elettori alla vigilia del voto. La polemica riguarda la candidatura presidenziale in vista del 2027. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/918054-2027-well-not-step-down-for-atiku-kwankwaso-replies-adc.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T16:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1b6f8a2b",
+   "sez": "mondo",
+   "titolo": "Il consiglio di campagna trasversale di Tinubu: ruoli per politici fuori dall'APC",
+   "orig": "Inside Tinubu’s Cross-party Campaign Council: Roles for politicians outside APC",
+   "lead": "Tinubu ha ampliato il Consiglio della campagna elettorale affidando ruoli di rilievo anche a politici di PDP, APGA e Accord, pur non appartenenti all'APC. La scelta ha suscitato critiche sulla lealtà di partito, mentre continua una disputa legale sulla candidatura presidenziale di Accord. Il consiglio ha quindi un profilo trasversale. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/918047-inside-tinubus-cross-party-campaign-council-roles-for-politicians-outside-apc.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T15:39+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze0fc0d45",
+   "sez": "economia",
+   "titolo": "Breve storia dell'ex Ilva, dalla Grande depressione a oggi",
+   "orig": "Breve storia dell’ex Ilva, dalla Grande depressione a oggi",
+   "lead": "Ora che l'acciaieria di Taranto ha avviato la chiusura, Il Post ripercorre la storia dell'ex Ilva, dalla Grande depressione fino a oggi. Il racconto ricostruisce le tappe che hanno portato l'impianto siderurgico alla decisione di chiudere, con uno sguardo lungo sulla vicenda industriale. Lo riferisce Il Post.",
+   "more": [
+    "Lo stabilimento di Taranto, costruito negli anni Sessanta dall'Italsider, passò nel 1995 al gruppo Riva durante la privatizzazione della siderurgia pubblica. Nel 2018 la gestione fu affidata ad ArcelorMittal, mentre le criticità economiche e ambientali si accumularono negli anni."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/18/ex-ilva-storia/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T15:24+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5c46f530",
+   "sez": "mondo",
+   "titolo": "Privatizzazione del porto a rischio: ex dipendenti Transnet richiamati per il Durban Gateway Terminal",
+   "orig": "PRIVATISATION PIVOT: Port in peril — former Transnet workers recalled to cover for Durban Gateway Terminal",
+   "lead": "A Durban, ex dipendenti di Transnet sono stati richiamati per coprire le attività del Durban Gateway Terminal, mentre il ministro dei Trasporti Barbara Creecy cerca di rassicurare il settore marittimo, sempre più insofferente verso il porto. I lavoratori denunciano di essere stati penalizzati dall'alleanza di Transnet con il settore privato. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-18-port-in-peril-former-transnet-workers-recalled-to-cover-for-durban-gateway-terminal/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z34689e63",
+   "sez": "mondo",
+   "titolo": "Sudafrica, Seshibe ritira il ricorso: il cda di SAA può proseguire nella selezione del CEO",
+   "orig": "LEGAL TURBULENCE: SAA group CEO recruitment drama takes a new turn as Seshibe withdraws court challenge",
+   "lead": "Il ricorso in tribunale presentato da Seshibe nel processo di selezione dell'amministratore delegato di South African Airways (SAA) è stato ritirato, consentendo al consiglio di amministrazione di proseguire. Il reclutamento resta però confuso, come sottolinea la testata riguardo alla scelta del vertice della compagnia di bandiera sudafricana. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-18-saa-group-ceo-recruitment-drama-takes-a-new-turn-as-seshibe-withdraws-court-challenge/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z53e35c68",
+   "sez": "economia",
+   "titolo": "Dove investire: iOCO riuscirà a mantenere le promesse di rilancio?",
+   "orig": "WHERE TO INVEST: Can iOCO deliver on turnaround promises and unlock future growth?",
+   "lead": "Dopo un forte recupero dai problemi ereditati da EOH, il fornitore di servizi ICT sudafricano iOCO deve ora dimostrare di saper destinare in modo oculato i flussi di cassa previsti e di far crescere i suoi business principali. L'analisi della testata si concentra sulle prospettive dell'azienda. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-18-can-ioco-deliver-on-turnaround-promises-and-unlock-future-growth/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-18T16:43+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdd338df3",
+   "sez": "mondo",
+   "titolo": "Opinione: come navigheranno i sudanesi nel nuovo sistema d'asilo egiziano",
+   "orig": "Op-ed: Performing refugeehood – How will Sudanese navigate Egypt’s incoming asylum system?",
+   "lead": "Dabanga pubblica un intervento d'opinione di Joseph A. Owens sul nuovo sistema di asilo in arrivo in Egitto e su come i rifugiati sudanesi potranno orientarsi al suo interno. Secondo l'autore, il Paese ha progressivamente ridotto i propri impegni in materia di protezione. Lo riferisce Dabanga.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dabanga",
+     "p": "XX",
+     "c": "Amsterdam",
+     "u": "https://www.dabangasudan.org/en/all-news/article/op-ed-performing-refugeehood-how-will-sudanese-navigate-egypts-incoming-asylum-system",
+     "angolo": "",
+     "atlas": "Sudan",
+     "t": "2026-10-18T16:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z57c20a27",
+   "sez": "mondo",
+   "titolo": "Trump definisce Netanyahu «forte, coraggioso e geniale» e ne promette il sostegno",
+   "orig": "Erősnek, bátornak és zseniálisnak nevezte Trump Netanjahut, és biztosította a támogatásáról",
+   "lead": "Il presidente Donald Trump ha definito il premier israeliano Benjamin Netanyahu «forte», «coraggioso» e «geniale», assicurandogli il proprio sostegno. Nel messaggio lo ha descritto come un eccellente leader di guerra e un partner nella pace. Il tono elogiativo sottolinea la vicinanza tra i due leader. Lo riferisce Telex English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/kulfold/2026/10/18/donald-trump-tamogatas-benjamin-netanjahu-parlamenti-valasztas",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-18T19:38+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb5a5064d",
+   "sez": "mondo",
+   "titolo": "Ilhan Omar, deputata democratica nel mirino di Trump, sottoposta a perquisizione domiciliare",
+   "orig": "Régóta Trump bögyében van a progresszív demokrata képviselőnő, akinél házkutatást tartottak",
+   "lead": "Secondo i media statunitensi, l'amministrazione Trump cercherebbe di privare della cittadinanza Ilhan Omar, deputata democratica progressista di origine somala, per poi poterla deportare. Nei suoi confronti l'ufficio immigrazione ha avviato un'indagine per presunta frode in materia di immigrazione. In passato indagini analoghe erano state chiuse per mancanza di prove. Lo riferisce Telex English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/kulfold/2026/10/18/ilhan-omar-demokrata-kepviselono-hazkutatas-nyomozas-bevandorlas-donald-trump-egyesult-allamok",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-18T19:07+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze922c440",
+   "sez": "ambiente",
+   "titolo": "Balaton: cittadini chiedono lo stop immediato ai cantieri e l'acquisto delle aree costiere",
+   "orig": "Azonnal leállítanának építkezéseket a civilek, hogy megmentsék a Balatont, az államtól pedig kisajátítást várnak",
+   "lead": "Cittadini chiedono al governo di sospendere subito le nuove costruzioni sulle rive del Balaton e di acquistare le aree costiere ancora libere, mentre si aspettano dallo Stato un'espropriazione. Secondo i ricercatori, l'edificazione lungo il lago ha raggiunto un livello critico, che mette a rischio lo stato ecologico del bacino. Lo riferisce Telex English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/techtud/2026/10/18/a-kisajatitasok-segithetnenek-a-balaton-okologiajana-beepites",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-18T18:31+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbc5c509d",
+   "sez": "mondo",
+   "titolo": "La tutela dei segnalanti a Malta lascia molto a desiderare, secondo un'esperta",
+   "orig": "Malta’s whistleblower protection leaves much to be desired, expert says",
+   "lead": "A Malta l'infrastruttura per la protezione dei whistleblower viene utilizzata in modo che lascia molto a desiderare. Lo sostiene la direttrice esecutiva di Whistleblowing International Network, la rete internazionale che si occupa della tutela di chi segnala illeciti, secondo cui il sistema maltese non risponde pienamente alle esigenze dei segnalanti. Il commento arriva da Valletta. Lo riferisce MaltaToday.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MaltaToday",
+     "p": "XX",
+     "c": "Valletta",
+     "u": "https://www.maltatoday.com.mt/news/national/145093/maltas_whistleblower_protection_leaves_much_to_be_desired_expert_says",
+     "angolo": "",
+     "atlas": "Malta",
+     "t": "2026-10-18T19:23+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc994687a",
+   "sez": "mondo",
+   "titolo": "Tre primati per l'esercito romeno, annunciati dal ministro della Difesa nel caso dei droni abbattuti",
+   "orig": "Trei premiere pentru armata română, anunțate de ministrul Apărării în cazul dronelor doborâte. Ce fel de aparate erau",
+   "lead": "Il ministro interino della Difesa nazionale, Radu Miruță, ha dichiarato domenica che sono stati registrati tre primati nel caso dei due droni abbattuti sabato sera dai piloti militari romeni nello spazio aereo del Paese. Il ministro ha illustrato il primo dei tre punti riguardo ai due velivoli, precisando di che tipo di apparecchi si trattava. La vicenda riguarda l'esercito romeno. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/trei-premiere-pentru-armata-romana-anuntate-de-ministrul-apararii-in-cazul-dronelor-doborate-ce-fel-de-aparate-erau-2379343",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T17:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3e8f87cf",
+   "sez": "mondo",
+   "titolo": "George Simion, reazione ironica dopo l'episodio denunciato da Marius Lulea: «Se va avanti ancora qualche giorno, probabilmente sarò colpevole anche della pioggia»",
+   "orig": "George Simion, reacție ironică după incidentul reclamat de Marius Lulea. „Dacă mai continuă câteva zile, probabil voi fi vinovat și că plouă”",
+   "lead": "Il presidente dell'AUR, George Simion, chiede un'inchiesta rapida e «prove, non verdetti televisivi» sull'episodio che ha coinvolto Marius Lulea, cofondatore del partito. Domenica mattina Lulea ha presentato denuncia alla polizia, riferendo di aver trovato davanti alla propria abitazione una testa di maiale e un manifesto minaccioso. Simion ha commentato con ironia la vicenda, affermando che potrebbe essere accusato anche della pioggia. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/george-simion-reactie-ironica-dupa-incidentul-reclamat-de-marius-lulea-daca-mai-continua-cateva-zile-probabil-voi-fi-vinovat-si-ca-ploua-2379344",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T17:51+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb61da18b",
+   "sez": "mondo",
+   "titolo": "Nuove proteste a Parigi: lancio di bottiglie e pietre, la polizia risponde con gas lacrimogeni",
+   "orig": "Noi proteste la Paris. Sticle și pietre aruncate spre forțele de ordine, care au intervenit cu gaze lacrimogene",
+   "lead": "Nuovi scontri a Parigi: domenica, nella piazza della Repubblica, sono state lanciate bottiglie e pietre contro le forze dell'ordine, che sono intervenute con gas lacrimogeni. Secondo i giornalisti dell'agenzia di stampa, si sono radunate alcune centinaia di persone, in seguito a inviti diffusi per l'occasione. Il giorno prima le manifestazioni nazionali erano degenerate in violenze, caos e saccheggi. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/noi-violente-la-paris-protestatarii-au-aruncat-cu-sticle-si-pietre-spre-fortele-de-ordine-care-au-intervenit-cu-gaze-lacrimogene-2379322",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T17:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z41a807d0",
+   "sez": "mondo",
+   "titolo": "Il capo di Dacia Romania: gli stabilimenti in Marocco pagano l'energia meno della metà del prezzo praticato in Romania",
+   "orig": "Șeful Dacia România: Uzinele din Maroc plătesc pentru energie mai puțin de jumătate din prețul României",
+   "lead": "Il direttore di Dacia Romania, Mihai Bordeanu, ha illustrato i piani di riduzione dei costi e ha citato il Marocco, dove, secondo lui, lo stabilimento Renault ha ricevuto un sostegno statale «enorme». In un'intervista a Economedia, a margine del Salone dell'auto di Parigi, ha affermato che gli impianti marocchini pagano l'energia meno della metà del prezzo praticato in Romania. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/seful-dacia-romania-uzinele-din-maroc-platesc-pentru-energie-mai-putin-de-jumatate-din-pretul-romaniei-2379310",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T16:38+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze9eaab97",
+   "sez": "mondo",
+   "titolo": "Dopo quattro anni torna in streaming la serie di successo con Chris Pratt, con una nuova stagione",
+   "orig": "După patru ani, serialul de succes cu Chris Pratt revine în streaming cu un nou sezon",
+   "lead": "La serie d'azione «The Terminal List», con Chris Pratt nel ruolo principale, torna con una seconda stagione sulla piattaforma di streaming Prime Video. Il nuovo ciclo arriva a quattro anni di distanza dal precedente e comprende otto episodi. La storia riprende il percorso di James Reece, ex combattente delle forze speciali. Lo riferisce HotNews, che cita CBR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/dupa-patru-ani-serialul-de-succes-cu-chris-pratt-revine-in-streaming-cu-un-nou-sezon-2379305",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T16:18+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5bfc6653",
+   "sez": "mondo",
+   "titolo": "Budućnost, con il derby, punta al primo posto: il teenager Vujović ancora protagonista",
+   "orig": "Budućnost kroz derbi do prvog mjesta: Tinejdžer Vujović opet...",
+   "lead": "Budućnost ha superato Dečić a Tuzi e, almeno fino a lunedì pomeriggio, si porta in testa alla classifica del campionato montenegrino CFL. La squadra di Podgorica ha vinto il derby, risultato che le consente di salire al primo posto. Nella partita si è messo in luce ancora una volta il giovane Vujović. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/fudbal/832116/buducnost-kroz-derbi-do-prvog-mjesta-tinejdzer-vujovic-opet-pokazao-kakav-je-talenat",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T19:53+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2df50864",
+   "sez": "mondo",
+   "titolo": "Con i versi verso una società migliore: la giovane poetessa Jovana Vujošević",
+   "orig": "Stihom do boljeg društva: Mlada pjesnikinja Jovana Vujošević...",
+   "lead": "Jovana Vujošević, diciassettenne poetessa di Spuž, ha pubblicato la prima raccolta quando frequentava ancora la scuola elementare. Nei suoi versi parla di infanzia, famiglia e delle sfide della società contemporanea. Di recente si è classificata terza al concorso nazionale e sta preparando una nuova raccolta di poesie. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/drustvo/832115/stihom-do-boljeg-drustva-mlada-pjesnikinja-jovana-vujosevic-rijecima-prkosi-modernom-dobu",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T19:35+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbb53b930",
+   "sez": "mondo",
+   "titolo": "Milan Vukadinović lascia il partito Demokrate",
+   "orig": "Milan Vukadinović napustio Demokrate",
+   "lead": "Milan Vukadinović ha lasciato il partito Demokrate. Ex presidente del consiglio dei direttori della società comunale Čistoća di Podgorica ed ex direttore facente funzione della Direzione per l'ecologia nel Ministero dell'ecologia, dello sviluppo sostenibile e dello sviluppo del nord, ha spiegato di aver preso la decisione dopo una riflessione personale e in linea con le proprie convinzioni. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/politika/832114/milan-vukadinovic-napustio-demokrate",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T19:31+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z756d9bc9",
+   "sez": "mondo",
+   "titolo": "Il campione sa come si vincono le partite brutte: l'Arsenal continua la corsa",
+   "orig": "Šampion zna kako se dobijaju ružni mečevi - Arsenal nastavlja trku...",
+   "lead": "L'Arsenal ha finalmente vinto al City Ground, battendo 1-0 il Nottingham Forest grazie a un gol di Noni Madueke. La squadra di Mikel Arteta è riuscita a conquistare il successo in una partita difficile, proseguendo la sua corsa in classifica. Il gol è stato decisivo per il risultato finale. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/fudbal/832113/sampion-zna-kako-se-dobijaju-ruzni-mecevi-arsenal-nastavlja-trku-sa-maksimalnim-sitijem",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T19:29+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd5e76b88",
+   "sez": "mondo",
+   "titolo": "Decine di migliaia in piazza in Italia, Belgio e Portogallo contro il carovita e la crisi abitativa",
+   "orig": "Desetine hiljada ljudi na protestima u Italiji, Portugalu i...",
+   "lead": "Un'ondata di proteste contro l'alto costo della vita e la crisi abitativa ha coinvolto Italia, Belgio e Portogallo. Decine di migliaia di persone sfilano pacificamente, mentre in alcune città si sono verificati violenti scontri di strada. Le manifestazioni si svolgono nello stesso periodo nei tre Paesi. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/evropa/832112/desetine-hiljada-ljudi-na-protestima-u-italiji-portugalu-i-belgiji-zbog-skupoce-i-nepravde",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T19:16+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc101ddb8",
+   "sez": "mondo",
+   "titolo": "I bacini idrici di Istanbul ai livelli più alti degli ultimi otto anni dopo giorni di forti piogge",
+   "orig": "İstanbul reservoir levels at highest in eight years after days of heavy rain",
+   "lead": "I bacini idrici di Istanbul hanno raggiunto il livello più alto degli ultimi otto anni dopo giorni di forti piogge. Il tasso di riempimento delle dighe della provincia è salito dal 38% a oltre il 52% in quattro giorni. Il dato riguarda la più grande città turca e mostra una rapida crescita delle riserve idriche. Lo riferisce Bianet English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bianet English",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://bianet.org/haber/istanbul-reservoir-levels-at-highest-in-eight-years-after-days-of-heavy-rain-324561",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-10-18T20:41+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze308c5e1",
+   "sez": "mondo",
+   "titolo": "Coppa del Portogallo: il Casa Pia fatica ma passa ad Alpendorada",
+   "orig": "Taça de Portugal. Casa Pia sofre para vencer em Alpendorada",
+   "lead": "Il Casa Pia ha battuto 1-0 in trasferta l'Alpendorada, squadra del Campeonato de Portugal, nel turno di Coppa del Portogallo di calcio. Il gol decisivo è stato segnato da Seba Pérez al 72° minuto, domenica. Con questo successo i «gansos» accedono alla quarta eliminatoria della competizione. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/futebol-nacional/taca-de-portugal-casa-pia-sofre-para-vencer-em-alpendorada_d1772524",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "za1c0c1f9",
+   "sez": "mondo",
+   "titolo": "Il Marítimo elimina l'Alcochetense con due reti nella ripresa",
+   "orig": "Marítimo elimina Alcochetense com golos na segunda parte",
+   "lead": "Il Marítimo ha vinto 2-1 in trasferta sul campo dell'Alcochetense, nel Campeonato de Portugal, e si è qualificato alla quarta eliminatoria della Coppa del Portogallo. La partita, giocata ad Alcochete, non ha registrato gol nel primo tempo. Le reti sono arrivate tutte nella seconda frazione. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/futebol-nacional/maritimo-elimina-alcochetense-com-golos-na-segunda-parte_d1772519",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z727f8cba",
+   "sez": "mondo",
+   "titolo": "Molto sole e temperature alte: la prossima settimana l'autunno sembra farsi strada",
+   "orig": "Na veel zon en hoge temperaturen, lijkt de herfst komende week op toeren te komen",
+   "lead": "Dopo un periodo di sole e temperature relativamente elevate, nei Paesi Bassi l'autunno non si è ancora fatto sentire davvero. Nella prossima settimana le perturbazioni si avvicineranno gradualmente, portando più vento e tempo instabile. Lunedì e martedì saranno giorni asciutti, con vento moderato da est; lunedì si toccheranno circa 15 gradi. Lo riferisce NOS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635519",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-18T19:01+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb69e8992",
+   "sez": "mondo",
+   "titolo": "Edizione record per le Jeneverfeesten di Hasselt: 145.000 visitatori nel centro",
+   "orig": "Topeditie voor Hasseltse Jeneverfeesten: 145.000 bezoekers zakken af naar binnenstad",
+   "lead": "Le Jeneverfeesten di Hasselt hanno attirato circa 145.000 visitatori nel centro città durante il fine settimana. Sabato sono arrivate 85.000 persone, domenica altre 60.000. Secondo gli organizzatori, il successo è dovuto al bel tempo di sabato, alla tradizione legata a un noto prodotto regionale e al teatro di strada. Lo riferisce VRT NWS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/18/topeditie-voor-hasseltse-jeneverfeesten-145-000-bezoekers-zakke.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-18T16:40+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z19f976a7",
+   "sez": "mondo",
+   "titolo": "Le università prevedono «conseguenze negative»",
+   "orig": "Universitäten erwarten „negative Folgen“",
+   "lead": "La Conferenza delle università austriache (uniko) prevede «conseguenze enormemente negative» per atenei, studenti e ricercatori a causa del budget per gli anni 2028-2030. La presidente Brigitte Hütter sostiene che, a prima vista, nulla è cambiato rispetto all'annuncio catastrofico della primavera. L'intesa era stata comunicata sabato dal governo, ma restano questioni aperte. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445449/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T18:10+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z47b59c13",
+   "sez": "mondo",
+   "titolo": "Calamari in aumento nel Mare del Nord: «Le ventose non danno fastidio, è davvero buono»",
+   "orig": "Bläckfisken ökar i Nordsjön: ”Sugkopparna gör ingenting – det är jättegott”",
+   "lead": "Nel Mare del Nord la cattura di calamari è triplicata in un anno, mentre altri stock ittici sono sotto pressione. Lo sostiene il professor danese Ole G. Mouritsen, secondo cui, quando il mare cambia «menu», anche ciò che si serve nel piatto dovrebbe cambiare. Le ventose non sono un problema e il sapore è davvero buono. Lo riferisce SVT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/utrikes/blackfisken-okar-i-nordsjon-sugkopparna-gor-ingenting-det-ar-jattegott",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T19:44+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc1c5aaf3",
+   "sez": "mondo",
+   "titolo": "Rigore, gol da sogno e uomo partita: «È la vendetta»",
+   "orig": "Straffebom, drømmescoring og matchvinner: – Det er hevnen sin",
+   "lead": "Nella sfida contro il Brann, Lucas Haren del Vålerenga è stato il grande protagonista, con un intervento tra rigore decisivo e gol da sogno. La squadra parla di rivincita dopo la partita. Il giocatore è risultato determinante per l'esito dell'incontro. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/sport/straffebom_-drommescoring-og-matchvinner_-_-det-er-hevnen-sin-1.18057999",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-18T16:57+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5b47c229",
+   "sez": "mondo",
+   "titolo": "Altri vogliono sorvegliare le baite dopo gli incendi non chiariti: «Siamo preoccupati»",
+   "orig": "Fleire vil overvake hyttene etter uoppklarte brannar: – Vi er bekymra",
+   "lead": "Due nuovi incendi di baite sull'Emblemsfjellet, ad Ålesund, hanno creato forte preoccupazione per una possibile nuova ondata di roghi. Diversi proprietari di baite stanno ora valutando di installare telecamere di sorveglianza. Le cause dei fuochi non sono ancora chiarite. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/mr/mange-er-uroa-etter-to-hyttebrannar-pa-emblemsfjellet-i-alesund-_-vil-sette-opp-kamera-1.18057795",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-18T16:25+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbfcd83ea",
+   "sez": "mondo",
+   "titolo": "Agenti in borghese con il volto coperto hanno fermato una tredicenne rimasta sola in casa",
+   "orig": "Óeinkennisklæddir lögreglumenn með grímur tóku 13 ára stúlku höndum",
+   "lead": "Agenti in borghese, con il volto coperto da maschere, hanno fermato una tredicenne rimasta sola in casa. Hanno bussato con forza a una finestra del piano inferiore e, quando la ragazza ha aperto la porta, si sono trovati davanti tre uomini mascherati. Spaventata, è fuggita verso le scale e uno degli uomini l'ha bloccata tenendole le mani dietro la schiena. Lo riferisce RÚV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-18-oeinkennisklaeddir-logreglumenn-med-grimur-toku-13-ara-stulku-hondum-490286/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-18T17:46+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z31c4a513",
+   "sez": "mondo",
+   "titolo": "Il consenso non equivale a un permesso per ogni tipo di violenza",
+   "orig": "Samþykki ekki sama og leyfi fyrir alls kyns ofbeldi",
+   "lead": "«Il consenso non dà un permesso illimitato di fare qualsiasi cosa e non cancella i diritti umani delle persone». Lo afferma Guðný S. Bjarnadóttir, presidente di Vitund, associazione contro la violenza di genere. La corte si è divisa: due giudici hanno assolto, il terzo ha votato per confermare la condanna. Lo riferisce RÚV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-18-samthykki-ekki-sama-og-leyfi-fyrir-alls-kyns-ofbeldi-490285/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-18T16:57+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze4b1058b",
+   "sez": "mondo",
+   "titolo": "Elettore senza biometria può votare al secondo turno delle elezioni",
+   "orig": "Eleitor sem biometria pode votar no segundo turno das eleições",
+   "lead": "Chi non ha la biometria registrata può votare anche al secondo turno delle elezioni, perché la registrazione biometrica non è obbligatoria. Lo precisa il Tribunale superiore elettorale (TSE), secondo cui può votare anche chi ha problemi di riconoscimento in seggio. Il ballottaggio è fissato per domenica 25 ottobre. La raccolta dei dati biometrici si è chiusa il 6 maggio, data di chiusura del registro elettorale. Lo riferisce Agência Brasil, che cita il TSE.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T14:02-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2fca2e61",
+   "sez": "mondo",
+   "titolo": "Gli studenti tornano protagonisti in un momento decisivo per il Paese, secondo l'UNE",
+   "orig": "Estudantes retomam protagonismo em momento decisivo no país, diz UNE",
+   "lead": "A pochi giorni dal secondo turno delle presidenziali, il movimento studentesco torna nelle piazze brasiliane. Migliaia di studenti hanno organizzato manifestazioni in diverse città per difendere la democrazia e l'istruzione pubblica, e per esprimere posizioni sui candidati e sulle loro proposte. Lo afferma la presidente dell'Unione nazionale degli studenti (UNE), Bianca Borges, in un'intervista. Lo riferisce Agência Brasil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/estudantes-retomam-protagonismo-em-momento-decisivo-no-pais-diz-une",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T12:45-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z51453857",
+   "sez": "mondo",
+   "titolo": "Tunisi, «Kharjet El Alam» per il 199° anniversario della bandiera",
+   "orig": "Tunis : « Kharjet El Alam » pour le 199e anniversaire du drapeau",
+   "lead": "Domenica, sull'avenue Habib Bourguiba a Tunisi, si è svolta la manifestazione «Kharjet El Alam» (Uscita della bandiera), in occasione del 199° anniversario della creazione della bandiera tunisina. L'iniziativa, partita da place du Théâtre, mira a ravvivare la memoria nazionale e a rafforzare il sentimento patriotico tra le giovani generazioni. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/18/tunis-kharjet-el-alam-pour-le-199e-anniversaire-du-drapeau/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T17:03+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3cbecc26",
+   "sez": "mondo",
+   "titolo": "Dall'amicizia al partenariato: Tunisia e Giappone celebrano 70 anni di relazioni",
+   "orig": "De l’amitié au partenariat : La Tunisie et le Japon célèbrent 70 ans de relations",
+   "lead": "Tunisia e Giappone celebrano 70 anni di relazioni diplomatiche, tappa storica per consolidare i legami di amicizia e rafforzare la cooperazione tra i due Paesi in economia, investimenti, energia, cultura e scambi umani. Lo ha sottolineato l'ambasciatore straordinario e plenipotenziario del Giappone, in occasione del 70° anniversario dell'istituzione delle relazioni diplomatiche. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/18/de-lamitie-au-partenariat-la-tunisie-et-le-japon-celebrent-70-ans-de-relations/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T17:03+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z972a0712",
+   "sez": "mondo",
+   "titolo": "Scrivere l'intimo in musica: «Le Tango de la déesse des dunes» di Wafa Ghorbel",
+   "orig": "« Le Tango de la déesse des dunes » de Wafa Ghorbel : Ecrire l’intime en musiques",
+   "lead": "La scrittrice, musicista e accademica Wafa Ghorbel ha riedito per Hkeyet Editions il suo secondo romanzo, «Le Tango de la déesse des dunes». Il romanzo, pubblicato inizialmente nel 2017 e già premiato, segue l'emergere e il progressivo deterioramento di un'intimità condivisa, tra confronti culturali, complicità amorosa e infine la rottura. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/18/le-tango-de-la-deesse-des-dunes-de-wafa-ghorbel-ecrire-lintime-en-musiques/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T17:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1f533405",
+   "sez": "mondo",
+   "titolo": "Riti funebri in Ituri: tra tradizioni ancestrali e pratiche moderne, spiega il professor Bagamba Arali",
+   "orig": "Rites funéraires en Ituri : entre traditions ancestrales et pratiques modernes, le professeur Bagamba Arali explique.",
+   "lead": "In Ituri, nella Repubblica Democratica del Congo, un tempo la casa del defunto diventava luogo di raduno per parenti, amici, vicini e membri della comunità. Veglie, canti, parole degli anziani e cerimonie accompagnavano gli ultimi momenti prima della sepoltura. Il professor Bagamba Arali spiega come tradizioni ancestrali e pratiche moderne si intreccino nei riti funebri. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/18/emissions/identite-culturelle/rites-funeraires-en-ituri-entre-traditions-ancestrales-et",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-18T16:33+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z539f55b6",
+   "sez": "mondo",
+   "titolo": "FILDAK 2026: leggere libera (video)",
+   "orig": "[Vidéo] FILDAK 2026 : Lire délivre",
+   "lead": "Dal 15 al 19 ottobre 2026 il CICES, a Dakar, ospita la 18ª edizione della FILDAK. Nel servizio video, realizzato da Oumar B. Ndongo e Pape L. Faye, due ex visitatori diventati espositori, Arame Ndiaye e Ibrahima Cissé, raccontano il loro percorso. Altri intervenuti, a loro volta, sottolineano l'importanza dell'evento e del libro. Lo riferisce Le Soleil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/arts-et-culture/video-fildak-2026-lire-delivre/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T17:26+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zea0b7aee",
+   "sez": "mondo",
+   "titolo": "Stati Uniti minacciano l'Europa sulle restrizioni a Starlink",
+   "orig": "US threatens Europe over Starlink restrictions",
+   "lead": "L'ambasciatore statunitense Andrew Puzder avverte che Washington risponderebbe con una ritorsione «devastante» se Bruxelles andrà avanti con i piani per limitare l'accesso allo spettro per le aziende non comunitarie. Il riferimento è al servizio satellitare Starlink. La questione riguarda la regolamentazione dell'uso dello spettro, un nodo che coinvolge direttamente i rapporti tra Unione europea e Stati Uniti. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T16:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdac50ee2",
+   "sez": "mondo",
+   "titolo": "Kraljevo, raduno studentesco «Zavirimo u početke» (video)",
+   "orig": "(VIDEO) Studentski skup \"Zavirimo u početke\" u Kraljevu",
+   "lead": "A Kraljevo, città della Serbia, si è svolto il raduno studentesco «Zavirimo u početke», indetto dagli studenti nella piazza Trg srpskih ratnika. I sostenitori della Studentska lista si sono riuniti a partire dalle 18. L'appuntamento rientra nella campagna elettorale della lista studentesca. Il raduno è uno degli appuntamenti in vista del voto. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/video-studentski-skup-zavirimo-u-pocetke-u-kraljevu/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-18T19:41+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1feff942",
+   "sez": "mondo",
+   "titolo": "Serbia, ultimi quattro giorni di campagna: la macchina dell'SNS ridotta a tre persone",
+   "orig": "Do kraja kampanje još četiri dana: SNS mašinerija svela se na tri osobe, dok studente predstavlja svih 250",
+   "lead": "Restano quattro giorni prima dell'inizio del silenzio pre-elettorale previsto in Serbia. Secondo il portale, la campagna elettorale resta di fatto sempre della stessa intensità, mentre il Partito progressista serbo (SNS) avrebbe ridotto la propria macchina a tre persone e gli studenti sono rappresentati da tutti i 250 nomi della loro lista. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/do-kraja-kampanje-jos-cetiri-dana-sns-masinerija-svela-se-na-tri-osobe-dok-studente-predstavlja-svih-250/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-18T19:36+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z78cd8519",
+   "sez": "mondo",
+   "titolo": "Studenti e cittadini riprendono le marce: un gruppo verso Ljig, l'altro verso Petrovac na Mlavi",
+   "orig": "Studenti i građani nastavili pešačenje: Jedna grupa danas do Ljiga, druga do Petrovca na Mlavi",
+   "lead": "Sono riprese nuovamente le passeggiate studentesche verso Belgrado, in vista del raduno di Slavija del 22 ottobre. Oggi un gruppo arriverà a Ljig, mentre un altro si dirige a Petrovac na Mlavi. Le marce coinvolgono studenti e cittadini che si muovono a piedi lungo il percorso verso la capitale. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/studenti-i-gradjani-nastavili-pesacenje-jedna-grupa-danas-do-ljiga-druga-do-petrovca-na-mlavi/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-18T19:20+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z644bb719",
+   "sez": "mondo",
+   "titolo": "Studenti annunciano il comizio finale «Pobeda zove» a Slavija",
+   "orig": "Studenti objavili kada počinje završni skup \"Pobeda zove\" na Slaviji",
+   "lead": "Il comizio conclusivo della lista elettorale «Studentska lista - Studenti pobeđuju» si terrà giovedì 22 ottobre a Slavija, a Belgrado, con inizio alle ore 18.00. Il comizio chiude la fase finale della campagna elettorale in vista del voto. Gli studenti hanno annunciato l'orario, con il titolo «Pobeda zove» («La vittoria chiama»). Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/studenti-objavili-kada-pocinje-zavrsni-skup-pobeda-zove-na-slaviji/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-18T19:20+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z08fec66e",
+   "sez": "mondo",
+   "titolo": "Ponoš: senza cambio di governo, Serbia verso miseria, inflazione, visti e soffocamento di internet",
+   "orig": "Ponoš: Ako ne dođe do promene vlasti Srbiju čekaju nemaština, inflacija, vize, gušenje interneta",
+   "lead": "Zdravko Ponoš, uno dei capilista della lista Evropska Srbija, ha dichiarato che, se non ci sarà un cambio di governo, la Serbia dovrà affrontare miseria, inflazione, problemi con i visti e il soffocamento di internet. Ponoš ha accusato l'SNS di rubare tutte le elezioni da quando è arrivato al potere nel 2012. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/ponos-ako-ne-dodje-do-promene-vlasti-srbiju-cekaju-nemastina-inflacija-vize-gusenje-interneta/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-18T19:06+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9b31998f",
+   "sez": "mondo",
+   "titolo": "Dov'è Macron? Il presidente francese criticato per un concerto mentre crescono le rivolte",
+   "orig": "Where's Macron? French leader blasted for attending concert as riots escalated",
+   "lead": "Il presidente francese Emmanuel Macron è stato criticato per aver partecipato a un concerto mentre in tutta la Francia le proteste si intensificavano. Le manifestazioni violente hanno portato a quasi 1.800 arresti nel Paese. Macron è chiamato a rispondere alle domande sulla sua reazione e si prepara a rivolgersi alla nazione. Lo riferisce Fox News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/wheres-macron-french-leader-blasted-attending-concert-riots-escalated",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T12:10-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1c27ed44",
+   "sez": "mondo",
+   "titolo": "Meloni condanna le «bande di teppisti» dopo le proteste violente in Italia",
+   "orig": "Meloni condemns ‘gangs of thugs’ after protests turned violent across Italy",
+   "lead": "La premier italiana Giorgia Meloni ha condannato le «bande di teppisti» dopo che le proteste anti-governative si sono trasformate in violenza in tutta Italia. Gli scontri a Milano, Bologna e Torino hanno ferito agenti di polizia. Meloni ha espresso sostegno alle forze dell'ordine dopo gli scontri, che hanno coinvolto più città del Paese. Lo riferisce Fox News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/meloni-condemns-gangs-thugs-after-protests-turned-violent-across-italy",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T11:34-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbceff981",
+   "sez": "mondo",
+   "titolo": "Diocesi di Awka minaccia di lasciare la Chiesa di Nigeria per la sospensione del vescovo",
+   "orig": "Awka diocese threatens to quit Church of Nigeria over bishop’s suspension",
+   "lead": "La diocesi di Awka, in Nigeria, ha respinto la sospensione del proprio vescovo, il vescovo Alexander Ibezim, e ha minacciato apertamente di ritirarsi dalla Chiesa di Nigeria. La diocesi contesta formalmente il provvedimento che colpisce il suo vescovo. Il caso segna un possibile strappo tra la diocesi e la struttura ecclesiastica nazionale. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/awka-diocese-threatens-to-quit-church-of-nigeria-over-bishops-suspension/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd1d286e0",
+   "sez": "mondo",
+   "titolo": "NDC ritira il riconoscimento delle sezioni della diaspora dopo una sentenza",
+   "orig": "NDC withdraws recognition of diaspora chapters over court judgment",
+   "lead": "Il Nigeria Democratic Congress (NDC) ha ritirato il riconoscimento delle proprie sezioni della diaspora, citando una sentenza del tribunale che dichiara illegali le filiali straniere del partito. La decisione segue direttamente il verdetto giudiziario, che ha colpito proprio le sezioni costituite all'estero. Il partito ha dunque smesso di riconoscere queste strutture come parte della propria organizzazione ufficiale. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/ndc-withdraws-recognition-of-diaspora-chapters-over-court-judgment/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbfd98109",
+   "sez": "mondo",
+   "titolo": "Ruto promette latte a 65 scellini e una New KCC di proprietà degli allevatori",
+   "orig": "Ruto’s dairy promise: Sh65 milk and farmer-owned New KCC",
+   "lead": "Il presidente keniano William Ruto ha promesso latte a 65 scellini e una New KCC di proprietà degli allevatori, puntando sul settore lattiero-caseario del Paese. Il governo ha investito 8 miliardi di scellini nella società negli ultimi tre anni. Il quotidiano sottolinea che la misura punta a rendere il prodotto più accessibile. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/politics/ruto-s-dairy-promise-sh65-milk-and-farmer-owned-new-kcc-5637000",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-18T16:34+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc8a06459",
+   "sez": "mondo",
+   "titolo": "Il Leeds reagisce e nega al Man Utd una vittoria che avrebbe dato morale",
+   "orig": "Leeds hit back to deny Man Utd morale-boosting win",
+   "lead": "Il Leeds ha reagito e ha negato al Manchester United una vittoria che avrebbe potuto dare nuovo morale. I Red Devils erano arrivati in trasferta sul campo dei rivali storici, disperatamente in cerca di uno scossone dopo appena due vittorie in nove partite disputate in tutte le competizioni in questa stagione. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/leeds-hit-back-to-deny-man-utd-morale-boosting-win-n392276",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-18T15:19+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfce9b37f",
+   "sez": "mondo",
+   "titolo": "Hong Kong, ascensori di altri 74 edifici Taizoom senza componenti di sicurezza: totale a 152",
+   "orig": "Lifts at 74 more buildings serviced by Taizoom lack safety parts, taking total to 152",
+   "lead": "Le autorità di Hong Kong hanno individuato altri 74 edifici privati con ascensori installati da Taizoom Elevator privi di componenti dei telai delle porte, portando il totale a 152. I dati sono stati forniti domenica sera dal Dipartimento per i servizi elettrici e meccanici, mentre proseguono le ispezioni su tutti gli ascensori gestiti da Taizoom. Questi componenti proteggono gli occupanti da fiamme e fumo in caso di incendio. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/society/article/3371325/lifts-74-more-buildings-serviced-taizoom-lack-safety-parts-taking-total-152?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T15:47+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:11",
+   "uscita": "sera"
+  },
+  {
    "id": "z0a431156",
    "sez": "italia",
    "titolo": "Milano, seconda giornata di guerriglia: saccheggi in via Torino e bombe carta in Duomo",
@@ -2052,6 +4081,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Ecuador",
      "t": "2026-10-18T01:53+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/o-bijuterie-neorenascentista-ce-a-supravietuit-doua-razboaie-mondiale-facuta-scrum-de-hoarde-de-salbatici-in-cele-mai-grave-violente-din-franta-2379316",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T16:58+00:00"
     }
    ],
    "data": "18 ott",
@@ -3722,28 +5760,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z5b85c446",
-   "sez": "mondo",
-   "titolo": "UE: il Giorno del Ripristino dell'Indipendenza porti all'Azerbaigian orgoglio, gioia e prosperità",
-   "orig": "Aİ Nümayəndəliyi: Qoy Müstəqilliyin Bərpası Günü Azərbaycana qürur, sevinc, rifah gətirsin",
-   "lead": "La Delegazione dell'Unione europea ha rivolto gli auguri al popolo azero in occasione del Giorno del Ripristino dell'Indipendenza, auspicando che porti orgoglio, gioia e prosperità. Lo riferisce Report.az.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Report.az",
-     "p": "XX",
-     "c": "Baku",
-     "u": "https://report.az/xarici-siyaset/ai-numayendeliyi-musteqilliyin-berpasi-gunu-azerbaycana-qurur-sevinc-rifah-getirsin",
-     "angolo": "",
-     "atlas": "Azerbaijan",
-     "t": "2026-10-18T18:16+04:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:13",
-   "uscita": "17"
-  },
-  {
    "id": "z0d39330c",
    "sez": "mondo",
    "titolo": "La ginnasta azera Selcan Mahsudova vince l'oro in Coppa del Mondo",
@@ -5156,28 +7172,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Dem. Rep. Congo",
      "t": "2026-10-18T12:21+01:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "z4df82c61",
-   "sez": "mondo",
-   "titolo": "Il Papa: «Riprenderò gradualmente le attività»",
-   "orig": "Il Papa: “Riprenderò le attività gradualmente”",
-   "lead": "In 15mila hanno partecipato al primo Angelus dopo l'operazione a cui è stato sottoposto il Papa. Nel saluto ai fedeli, il pontefice ha ringraziato i medici e tutti coloro che lo hanno sostenuto, annunciando che riprenderà gradualmente le sue attività. Lo riferisce ANSA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/videogallery/italia/2026/10/18/il-papa-riprendero-le-attivita-gradualmente_fe6a0f6e-3ea9-4539-afc4-6c324aab803f.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T13:50+02:00"
     }
    ],
    "data": "18 ott",
@@ -6911,6 +8905,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-10-18T16:27+00:00"
+    },
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/kulfold/2026/10/18/ukrajna-egyesult-allamok-hirszerzesi-jelentes-megosztas",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-18T18:36+02:00"
     }
    ],
    "data": "18 ott",
@@ -7610,28 +9613,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Greece",
      "t": "2026-10-18T13:57+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:07",
-   "uscita": "17"
-  },
-  {
-   "id": "zf36d2b49",
-   "sez": "mondo",
-   "titolo": "Elezioni a Brvenica, affluenza al 31,17% alle 15: hanno votato 5.064 cittadini",
-   "orig": "ДИК: Излезеноста во Брвеница до 15 часот 31,17 проценти, гласале 5.064 граѓани",
-   "lead": "Alle 15 l'affluenza alle elezioni anticipate per il sindaco del Comune di Brvenica, in Macedonia del Nord, è al 31,17%, con 5.064 cittadini che hanno votato. Il dato si riferisce alle ore fino alle 15. Secondo la Commissione elettorale statale (DIK), le operazioni di voto si svolgono regolarmente e senza difficoltà segnalate. Lo riferisce MIA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "MIA (inglese)",
-     "p": "XX",
-     "c": "Skopje",
-     "u": "https://mia.mk/story/%D0%B4%D0%B8%D0%BA-%D0%B8%D0%B7%D0%BB%D0%B5%D0%B7%D0%B5%D0%BD%D0%BE%D1%81%D1%82%D0%B0-%D0%B2%D0%BE-%D0%B1%D1%80%D0%B2%D0%B5%D0%BD%D0%B8%D1%86%D0%B0-%D0%B4%D0%BE-15-%D1%87%D0%B0%D1%81%D0%BE%D1%82-3117-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%B8-%D0%B3%D0%BB%D0%B0%D1%81%D0%B0%D0%BB%D0%B5-5.064-%D0%B3%D1%80%D0%B0%D1%93%D0%B0%D0%BD%D0%B8Nnt",
-     "angolo": "",
-     "atlas": "Macedonia",
-     "t": "2026-10-18T16:11+02:00"
     }
    ],
    "data": "18 ott",
@@ -8965,6 +10946,24 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Sweden",
      "t": "2026-10-18T15:37+02:00"
+    },
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/sport/bordtennis/anton-kallberg-forlorade-em-finalen-efter-jatterysare",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T19:00+02:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sport/kallberg-foll-i-em-finalen-trakigt/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T19:47+02:00"
     }
    ],
    "data": "18 ott",
@@ -10991,6 +12990,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Ecuador",
      "t": "2026-10-18T16:39+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T15:28+00:00"
     }
    ],
    "data": "18 ott",
@@ -11368,6 +13376,24 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Poland",
      "t": "2026-10-18T14:14+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/papa-leone-allangelus-dopo-il-ricovero-riprendero-gradualmente_74dcf119-92a0-46e7-986f-16343122a321.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T19:40+02:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/videogallery/italia/2026/10/18/il-papa-riprendero-le-attivita-gradualmente_fe6a0f6e-3ea9-4539-afc4-6c324aab803f.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T13:50+02:00"
     }
    ],
    "data": "18 ott",
@@ -13412,7 +15438,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z7060c51b": "LRT dà conto della fase di selezione con tono informativo.",
   "z08d4215e": "ERT News, testata greca, dà rilievo all'infortunio di un giocatore ellenico del Borussia Dortmund.",
   "zd15fc91d": "ERT News, testata pubblica greca, evidenzia la risposta della Protezione civile regionale alle forti piogge.",
-  "zf36d2b49": "MIA, agenzia di stampa macedone, riporta i dati ufficiali sull'affluenza senza commenti aggiuntivi.",
   "zbacc7bd7": "MIA riporta in sintesi i risultati della giornata di campionato, con focus sulle squadre ospiti.",
   "z24df0a4e": "Daily News, quotidiano tanzaniano, presenta il tema dei rifiuti dei mercati come risorsa per l'agricoltura.",
   "z68091d48": "Daily News, quotidiano tanzaniano, riporta l'impegno diplomatico olandese nel settore avicolo.",
@@ -13442,7 +15467,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z295dcc47": "L'agenzia pubblica segue il riconoscimento con un taglio umano, centrato sulle storie personali delle pescatrici.",
   "z08a05de3": "Il quotidiano tunisino accoglie la misura come un passo di trasparenza fiscale, con un tono più commentato che neutro.",
   "zf68d3edf": "La radio congolese riporta i dati umanitari dell'Onu, mettendo in evidenza l'impatto sulla popolazione civile.",
-  "z4df82c61": "L'agenzia italiana segue il ritorno del Papa alle attività pubbliche con un taglio sobrio, centrato sulle sue parole.",
   "z9c7dc368": "Il quotidiano britannico sottolinea la difficoltà dell'esecutivo francese, con un taglio centrato sulla gestione dell'ordine pubblico.",
   "z921f781b": "Il quotidiano britannico inquadra il referendum in chiave di equilibri nazionali e rapporti con Washington.",
   "ze378efb0": "La testata serba riporta la posizione di un leader politico sulla politica estera del Paese, senza commenti.",
@@ -13497,7 +15521,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z65c8a584": "Euronews Albania dà conto dell'intervento di polizia e della dispersione dei manifestanti in più zone del centro.",
   "z571ed80d": "Report.az riporta l'emergenza con taglio di cronaca essenziale, concentrato sul bilancio delle vittime.",
   "zeb639834": "Report.az collega le proteste italiane a quelle francesi, sottolineandone l'escalation.",
-  "z5b85c446": "Report.az riporta il messaggio diplomatico con taglio istituzionale e celebrativo.",
   "z0d39330c": "Report.az dà risalto al successo sportivo di un'atleta nazionale, con taglio informativo.",
   "z9391f272": "Report.az segue la missione parlamentare con taglio istituzionale.",
   "zb3c04a5a": "Report.az copre l'evento sportivo nazionale con taglio di cronaca sintetica.",
@@ -13680,7 +15703,92 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z33b57d11": "Le testate collegano l'evento al riscaldamento del Mediterraneo e ne evidenziano l'impatto sui voli.",
   "zc23eb716": "Le testate sottolineano il contrasto tra la lealtà al regime degli anziani e la loro attuale miseria.",
   "zdfa11935": "La testata ecuadoriana si sofferma sulle parole pronunciate dal sacerdote poco prima della tragedia.",
-  "z06608176": "La testata monegasca critica la prestazione della squadra, giudicata molle e senza ispirazione."
+  "z06608176": "La testata monegasca critica la prestazione della squadra, giudicata molle e senza ispirazione.",
+  "z0730d2b3": "Taglio di servizio pubblico sulle scadenze per gli studenti dell'Enem.",
+  "zc467977b": "Angolatura economico-tecnologica, dal punto di vista della stampa tunisina e dell'evento di Tunisi.",
+  "z02d57f03": "Taglio istituzionale, con il resoconto dell'assemblea e del nuovo vertice dell'organizzazione.",
+  "z050ea655": "Angolatura politica che riporta le dichiarazioni del protagonista.",
+  "z1765389c": "Taglio di cronaca internazionale con il bilancio fornito dalle autorità saudite.",
+  "zc06286bd": "Angolatura internazionale centrata sul messaggio del presidente USA e sul voto israeliano.",
+  "z1ea8437d": "Taglio di cronaca ghanese che dà voce alle parti in contesa.",
+  "zef612b4e": "Taglio politico-interno tedesco centrato sulle dichiarazioni dell'ex ministro.",
+  "z331a85d2": "Taglio di cronaca culturale, centrato sulle reazioni del mondo dello spettacolo.",
+  "z6944e338": "Taglio di cronaca politico-giudiziaria, con attenzione alle versioni delle istituzioni.",
+  "z06eeae52": "Taglio politico-sociale centrato sulla proposta del partito Chega.",
+  "z7a298b79": "Taglio internazionale centrato sul messaggio del presidente USA e sul voto israeliano.",
+  "z6441f4aa": "Taglio economico-amministrativo sulla gestione dei pagamenti del servizio sanitario irlandese.",
+  "ze89c0165": "Taglio sportivo centrato sul successo della tennista polacca.",
+  "zc98b8258": "Taglio scientifico-divulgativo sui rischi globali individuati dal rapporto.",
+  "z29f79e5c": "Taglio di cronaca sulla sicurezza, con la posizione del ministro lituano.",
+  "z27f61e22": "Taglio giudiziario, con la posizione della difesa.",
+  "z800f25ad": "Taglio politico statunitense centrato sulle domande degli elettori al vicepresidente.",
+  "ze8916551": "Angolatura analitica sull'effetto elettorale dell'endorsement.",
+  "zc2a5f42b": "Taglio di sicurezza e trasporti, con la posizione dell'ente investigativo.",
+  "z86f18592": "Taglio civico-elettorale sulla campagna per la partecipazione giovanile.",
+  "zd1cfa39b": "RNZ adotta un taglio esplicativo, pensato per spiegare il meccanismo delle midterm e il loro peso politico.",
+  "z515d929a": "RNZ Pacific segue la vicenda dal punto di vista dei territori americani del Pacifico.",
+  "zfeb0acde": "ERT News riporta le parole del tecnico della Roma con un taglio sportivo e positivo.",
+  "z871c039b": "ERT News racconta un viaggio individuale con tono narrativo e di valorizzazione personale.",
+  "ze5603397": "ERT News dà risalto alla prova del Panathinaikos, presentata come una ripartenza dopo il derby perso.",
+  "zdc1b9a8f": "MIA riporta i dati parziali ufficiali sull'affluenza, senza commenti.",
+  "zf25a3c50": "MIA riporta i dati parziali sull'affluenza locale, senza commenti.",
+  "zfffaef72": "Azatutyun evidenzia le tensioni tra Ankara e Baku attraverso il messaggio di auguri.",
+  "z99dcad52": "Il Kyiv Independent analizza il ruolo tecnologico di Starlink e i rischi legati alla dipendenza dal sistema.",
+  "z9a2f686f": "Il Kyiv Independent offre un aggiornamento sulla vita sotto occupazione, con attenzione alla stretta sull'informazione.",
+  "z73a1f6dd": "Premium Times riporta le assicurazioni del governatore con un taglio istituzionale.",
+  "zcf42b5e9": "Premium Times dà voce alle dichiarazioni elettorali del politico, in vista del 2027.",
+  "zb04c39b2": "Premium Times riporta la versione di Kwankwaso nella polemica con l'ADC.",
+  "z1b6f8a2b": "Premium Times analizza la composizione del consiglio di campagna e le critiche che ne derivano.",
+  "ze0fc0d45": "Il Post offre una ricostruzione storica della vicenda dell'ex Ilva.",
+  "z5c46f530": "Daily Maverick dà voce ai lavoratori e raccoglie le critiche alla privatizzazione del porto.",
+  "z34689e63": "Daily Maverick segue il contenzioso con un taglio cronachistico.",
+  "z53e35c68": "Daily Maverick propone un'analisi finanziaria dell'azienda, con taglio da guida agli investimenti.",
+  "zdd338df3": "Dabanga pubblica un'opinione critica sulla politica di asilo egiziana, con tono analitico.",
+  "z57c20a27": "Telex English riporta il messaggio di Trump con tono cronachistico.",
+  "zb5a5064d": "Telex English riporta la vicenda attraverso fonti statunitensi, evidenziando le accuse politiche.",
+  "ze922c440": "Telex English riporta le richieste di cittadini e ricercatori sulla tutela del Balaton.",
+  "zbc5c509d": "MaltaToday dà spazio al giudizio critico di un'esperta sulle criticità del sistema di tutela dei segnalanti.",
+  "zc994687a": "HotNews riporta le dichiarazioni ufficiali del ministro, senza approfondire tecnicamente i dettagli dei droni.",
+  "z3e8f87cf": "HotNews dà spazio alla reazione politica di Simion, sottolineandone il tono ironico rispetto alla denuncia.",
+  "zb61da18b": "HotNews privilegia la cronaca degli scontri e dell'intervento delle forze dell'ordine.",
+  "z41a807d0": "HotNews riprende le parole del dirigente, mettendo a confronto i costi energetici tra Romania e Marocco.",
+  "ze9eaab97": "HotNews presenta la serie come notizia di streaming, riportandone i dati essenziali di lancio.",
+  "z5bfc6653": "Vijesti racconta il risultato sportivo con attenzione alla classifica e al ruolo del giovane protagonista.",
+  "z2df50864": "Vijesti dà spazio alla storia personale di una giovane autrice, con un taglio di interesse locale.",
+  "zbb53b930": "Vijesti riporta la scelta di un ex dirigente pubblico, riferendone le motivazioni personali.",
+  "z756d9bc9": "Vijesti segue il risultato con tono cronachistico, sottolineando la difficoltà della vittoria.",
+  "zd5e76b88": "Vijesti inquadra le proteste come fenomeno comune in più Paesi europei, legato al carovita e alla crisi abitativa.",
+  "zc101ddb8": "Bianet English privilegia il dato idrico, misurato attraverso il tasso di riempimento delle dighe.",
+  "ze308c5e1": "RTP riporta il risultato con focus sulla qualificazione del Casa Pia.",
+  "za1c0c1f9": "RTP segue il risultato sottolineando che i gol sono arrivati solo nella ripresa.",
+  "z727f8cba": "NOS fornisce un quadro meteorologico di servizio per la settimana, con previsioni per i giorni successivi.",
+  "zb69e8992": "VRT NWS sottolinea il dato di affluenza e le ragioni addotte dagli organizzatori.",
+  "z19f976a7": "ORF riporta la posizione critica dell'università, con attenzione alle questioni ancora aperte.",
+  "z47b59c13": "SVT dà risalto al cambiamento dell'ecosistema marino attraverso il punto di vista di un esperto.",
+  "zc1c5aaf3": "NRK racconta la prestazione del giocatore con tono sportivo e celebrativo.",
+  "z5b47c229": "NRK segnala la preoccupazione dei residenti per la serie di incendi non chiariti.",
+  "zbfcd83ea": "RÚV si concentra sul racconto dell'episodio vissuto dalla ragazza.",
+  "z31c4a513": "RÚV affronta il tema del consenso partendo da una sentenza e dal commento di un'associazione.",
+  "ze4b1058b": "Agência Brasil fornisce un'informazione pratica per l'elettorato in vista del ballottaggio.",
+  "z2fca2e61": "Agência Brasil dà voce alle posizioni del movimento studentesco alla vigilia del ballottaggio.",
+  "z51453857": "La Presse de Tunisie privilegia la cronaca degli eventi celebrativi nazionali, con tono istituzionale.",
+  "z3cbecc26": "La testata riporta la celebrazione diplomatica con tono positivo, dando voce direttamente all'ambasciatore.",
+  "z972a0712": "La Presse de Tunisie dà spazio alla segnalazione culturale di opere letterarie tunisine, con taglio descrittivo.",
+  "z1f533405": "Radio Okapi offre un approfondimento culturale che dà voce a un esperto locale sulle tradizioni funerarie.",
+  "z539f55b6": "Le Soleil dà spazio all'evento culturale attraverso le testimonianze dirette di espositori e visitatori.",
+  "zea0b7aee": "Il Financial Times riporta la posizione dell'amministrazione statunitense con taglio di politica economica internazionale.",
+  "zdac50ee2": "N1 segue la mobilitazione studentesca con taglio di cronaca diretta delle iniziative.",
+  "z1feff942": "N1 adotta un'angolatura di analisi politica che contrappone la campagna del governo a quella degli studenti.",
+  "z78cd8519": "N1 segue la mobilitazione con cronaca dei percorsi e delle tappe dei cortei.",
+  "z644bb719": "N1 riporta l'annuncio degli organizzatori studenteschi, con attenzione agli appuntamenti elettorali.",
+  "z08fec66e": "N1 dà voce all'opposizione con una dichiarazione critica verso il governo, riportata senza ulteriori commenti.",
+  "z9b31998f": "Fox News dà risalto alla critica politica al presidente, con focus sulla sua assenza dalla scena delle proteste.",
+  "z1c27ed44": "Fox News dà spazio alla posizione della premier, con focus sulla condanna delle violenze.",
+  "zbceff981": "The Punch riporta il conflitto interno alla Chiesa con taglio di cronaca dalla diocesi.",
+  "zd1d286e0": "The Punch segue la vicenda con approccio di cronaca giudiziaria e istituzionale.",
+  "zbfd98109": "Daily Nation segue l'annuncio governativo con attenzione alle ricadute sul prezzo del latte e sulla proprietà della società.",
+  "zc8a06459": "Citizen Digital propone un taglio sportivo, incentrato sul momento della squadra ospite.",
+  "zfce9b37f": "SCMP segue il caso con taglio di servizio sulle verifiche e sui rischi per la sicurezza."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -15751,13 +17859,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zf36d2b49": {
-   "n": "Brvenica",
-   "p": [
-    "Macedonia"
-   ],
-   "pt": []
-  },
   "zbacc7bd7": {
    "n": "Skopje",
    "p": [
@@ -15959,13 +18060,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Djugu",
    "p": [
     "Dem. Rep. Congo"
-   ],
-   "pt": []
-  },
-  "z4df82c61": {
-   "n": "Città del Vaticano",
-   "p": [
-    "Vatican"
    ],
    "pt": []
   },
@@ -16346,13 +18440,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Italia",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z5b85c446": {
-   "n": "Azerbaigian",
-   "p": [
-    "Azerbaijan"
    ],
    "pt": []
   },
@@ -17629,6 +19716,606 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "France"
    ],
    "pt": []
+  },
+  "z0730d2b3": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zc467977b": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z02d57f03": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z050ea655": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z1765389c": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zc06286bd": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z1ea8437d": {
+   "n": "Ghana",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zef612b4e": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z331a85d2": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z6944e338": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z06eeae52": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z7a298b79": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z6441f4aa": {
+   "n": "Irlanda",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "ze89c0165": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zc98b8258": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z29f79e5c": {
+   "n": "Lituania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z27f61e22": {
+   "n": "Lituania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z800f25ad": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze8916551": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zc2a5f42b": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z86f18592": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zd1cfa39b": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z515d929a": {
+   "n": "Guam e Isole Marianne Settentrionali",
+   "p": [
+    "Guam"
+   ],
+   "pt": []
+  },
+  "zfeb0acde": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z871c039b": {
+   "n": "Monti Pamir (Asia centrale)",
+   "p": [
+    "Tajikistan",
+    "Kyrgyzstan",
+    "Afghanistan"
+   ],
+   "pt": []
+  },
+  "ze5603397": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zdc1b9a8f": {
+   "n": "Macedonia del Nord",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "zf25a3c50": {
+   "n": "Brvenica (Macedonia del Nord)",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "zfffaef72": {
+   "n": "Turchia e Azerbaigian",
+   "p": [
+    "Turkey",
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z99dcad52": {
+   "n": "Ucraina e Russia",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z9a2f686f": {
+   "n": "Ucraina e Russia",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z73a1f6dd": {
+   "n": "Lagos (Nigeria)",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zcf42b5e9": {
+   "n": "Kaduna (Nigeria)",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zb04c39b2": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z1b6f8a2b": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "ze0fc0d45": {
+   "n": "Taranto (Italia)",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5c46f530": {
+   "n": "Durban (Sudafrica)",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z34689e63": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z53e35c68": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zdd338df3": {
+   "n": "Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z57c20a27": {
+   "n": "Stati Uniti e Israele",
+   "p": [
+    "United States of America",
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zb5a5064d": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze922c440": {
+   "n": "Lago Balaton (Ungheria)",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "zbc5c509d": {
+   "n": "Malta",
+   "p": [
+    "Malta"
+   ],
+   "pt": []
+  },
+  "zc994687a": {
+   "n": "Romania",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z3e8f87cf": {
+   "n": "Romania",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zb61da18b": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z41a807d0": {
+   "n": "Marocco e Romania",
+   "p": [
+    "Morocco",
+    "Romania"
+   ],
+   "pt": []
+  },
+  "ze9eaab97": {
+   "n": "Stati Uniti d'America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5bfc6653": {
+   "n": "Tuzi",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z2df50864": {
+   "n": "Spuž",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "zbb53b930": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z756d9bc9": {
+   "n": "Nottingham",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zd5e76b88": {
+   "n": "Italia, Belgio e Portogallo",
+   "p": [
+    "Italy",
+    "Belgium",
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zc101ddb8": {
+   "n": "Istanbul",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "ze308c5e1": {
+   "n": "Alpendorada",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "za1c0c1f9": {
+   "n": "Alcochete",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z727f8cba": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zb69e8992": {
+   "n": "Hasselt",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z19f976a7": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z47b59c13": {
+   "n": "Mare del Nord",
+   "p": [],
+   "pt": []
+  },
+  "zc1c5aaf3": {
+   "n": "Oslo",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z5b47c229": {
+   "n": "Ålesund",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "zbfcd83ea": {
+   "n": "Islanda",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "z31c4a513": {
+   "n": "Islanda",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "ze4b1058b": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z2fca2e61": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z51453857": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z3cbecc26": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z972a0712": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z1f533405": {
+   "n": "Ituri",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z539f55b6": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zea0b7aee": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zdac50ee2": {
+   "n": "Kraljevo",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z1feff942": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z78cd8519": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z644bb719": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z08fec66e": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z9b31998f": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1c27ed44": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbceff981": {
+   "n": "Awka",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zd1d286e0": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zbfd98109": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zc8a06459": {
+   "n": "Leeds",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zfce9b37f": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -17788,7 +20475,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zf5c14527": 1,
   "zb4f53b04": 1,
   "z6200edc5": 1,
-  "z883c3c7e": 1,
+  "z883c3c7e": 2,
   "z4f1a151f": 1,
   "zfc7806cd": 1,
   "zae1669a4": 2,
@@ -17890,7 +20577,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z7060c51b": 1,
   "z08d4215e": 1,
   "zd15fc91d": 1,
-  "zf36d2b49": 1,
   "zbacc7bd7": 1,
   "z24df0a4e": 1,
   "z68091d48": 1,
@@ -17920,7 +20606,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z295dcc47": 1,
   "z08a05de3": 1,
   "zf68d3edf": 1,
-  "z4df82c61": 1,
   "z9c7dc368": 1,
   "z921f781b": 1,
   "ze378efb0": 1,
@@ -17975,7 +20660,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z65c8a584": 1,
   "z571ed80d": 1,
   "zeb639834": 1,
-  "z5b85c446": 1,
   "z0d39330c": 1,
   "z9391f272": 1,
   "zb3c04a5a": 1,
@@ -18151,14 +20835,99 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zc059c5d6": 1,
   "z1ed2fb4d": 1,
   "z6d13dff0": 1,
-  "z0f7e45e3": 1,
+  "z0f7e45e3": 2,
   "zfed13cc2": 1,
   "z9a082db7": 1,
   "z53b62061": 1,
   "z33b57d11": 1,
   "zc23eb716": 1,
   "zdfa11935": 1,
-  "z06608176": 2
+  "z06608176": 2,
+  "z0730d2b3": 1,
+  "zc467977b": 1,
+  "z02d57f03": 1,
+  "z050ea655": 1,
+  "z1765389c": 2,
+  "zc06286bd": 1,
+  "z1ea8437d": 1,
+  "zef612b4e": 1,
+  "z331a85d2": 1,
+  "z6944e338": 1,
+  "z06eeae52": 1,
+  "z7a298b79": 2,
+  "z6441f4aa": 1,
+  "ze89c0165": 1,
+  "zc98b8258": 1,
+  "z29f79e5c": 1,
+  "z27f61e22": 1,
+  "z800f25ad": 1,
+  "ze8916551": 1,
+  "zc2a5f42b": 1,
+  "z86f18592": 1,
+  "zd1cfa39b": 1,
+  "z515d929a": 1,
+  "zfeb0acde": 1,
+  "z871c039b": 1,
+  "ze5603397": 1,
+  "zdc1b9a8f": 1,
+  "zf25a3c50": 1,
+  "zfffaef72": 2,
+  "z99dcad52": 1,
+  "z9a2f686f": 1,
+  "z73a1f6dd": 1,
+  "zcf42b5e9": 1,
+  "zb04c39b2": 1,
+  "z1b6f8a2b": 1,
+  "ze0fc0d45": 1,
+  "z5c46f530": 1,
+  "z34689e63": 1,
+  "z53e35c68": 1,
+  "zdd338df3": 1,
+  "z57c20a27": 1,
+  "zb5a5064d": 1,
+  "ze922c440": 1,
+  "zbc5c509d": 1,
+  "zc994687a": 1,
+  "z3e8f87cf": 1,
+  "zb61da18b": 1,
+  "z41a807d0": 1,
+  "ze9eaab97": 1,
+  "z5bfc6653": 1,
+  "z2df50864": 1,
+  "zbb53b930": 1,
+  "z756d9bc9": 1,
+  "zd5e76b88": 1,
+  "zc101ddb8": 1,
+  "ze308c5e1": 1,
+  "za1c0c1f9": 1,
+  "z727f8cba": 1,
+  "zb69e8992": 1,
+  "z19f976a7": 1,
+  "z47b59c13": 1,
+  "zc1c5aaf3": 1,
+  "z5b47c229": 1,
+  "zbfcd83ea": 1,
+  "z31c4a513": 1,
+  "ze4b1058b": 1,
+  "z2fca2e61": 1,
+  "z51453857": 1,
+  "z3cbecc26": 1,
+  "z972a0712": 1,
+  "z1f533405": 1,
+  "z539f55b6": 1,
+  "zea0b7aee": 1,
+  "zdac50ee2": 1,
+  "z1feff942": 1,
+  "z78cd8519": 1,
+  "z644bb719": 1,
+  "z08fec66e": 1,
+  "z9b31998f": 1,
+  "z1c27ed44": 1,
+  "zbceff981": 1,
+  "zd1d286e0": 1,
+  "zbfd98109": 1,
+  "zc8a06459": 1,
+  "zfce9b37f": 1
  },
  "video": {},
  "pillole": []
