@@ -1108,5 +1108,25 @@ window.CONSUMI = [
   "usd": 0.01,
   "notizie": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-18T12:23:34",
+  "fase": "completamento (uscita mattino, 18 min)",
+  "blocchi": 21,
+  "in": 161390,
+  "out": 404731,
+  "usd": 1.78,
+  "notizie": 444,
+  "sec": 1080
+ },
+ {
+  "t": "2026-10-18T12:25:37",
+  "fase": "correzioni uscita mattino (2026-10-18)",
+  "blocchi": null,
+  "in": 116493,
+  "out": 25654,
+  "usd": 0.12,
+  "notizie": null,
+  "sec": null
  }
 ];
