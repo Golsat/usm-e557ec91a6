@@ -3,6 +3,1836 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z3982c218",
+   "sez": "mondo",
+   "titolo": "Accuse a Parigi: come sono scoppiate le violenze in Francia",
+   "orig": "Vorwürfe gegen Paris: Wie kam es zum Gewaltausbruch in Frankreich?",
+   "lead": "Dopo le violente proteste che hanno scosso la Francia, la politica francese è divisa su come rispondere al caos. Alcuni parlano di un «gioco con il fuoco», altri accusano l'estrema sinistra di «fascismo rosso» e di aver tenuto il Paese «in ostaggio». Il dibattito, acceso nei giorni successivi ai disordini, riguarda le responsabilità politiche degli scontri e le misure da adottare per contenerli. Lo riferisce FAZ.",
+   "more": [
+    "Le proteste sono nate da un movimento iniziato a fine settembre con manifestazioni studentesche ed è poi degenerato il 17 ottobre in scontri e devastazioni in diverse città francesi, in un clima di forte tensione sociale legata al costo della vita e a riforme rimaste bloccate per anni."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-paris-pluenderer-traenengas-und-ein-toter-accg-201597796.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T11:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb534324a",
+   "sez": "economia",
+   "titolo": "Uzbekistan e Austria ampliano la cooperazione nell'allevamento",
+   "orig": "Uzbekistan and Austria to Expand Livestock Cooperation",
+   "lead": "Uzbekistan e Austria hanno annunciato piani per rafforzare la collaborazione nei settori della zootecnia, della medicina veterinaria e del commercio di prodotti animali. Tra le iniziative previste figurano progetti congiunti di trasferimento embrionale, finalizzati a migliorare la qualità del bestiame nei due Paesi. L'accordo rientra in un più ampio rapporto bilaterale tra Tashkent e Vienna. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-and-austria-to-expand-livestock-cooperation/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T18:45+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z448c9126",
+   "sez": "sport",
+   "titolo": "Lo PEC Zwolle batte 4-1 il Go Ahead Eagles nel derby dopo l'esonero dell'allenatore",
+   "orig": "Een trainer ontslaan levert meestal niets op – maar voor PEC Zwolle nu even wel: 4-1 winst in derby tegen Go Ahead Eagles",
+   "lead": "Nel derby dell'IJssel contro il Go Ahead Eagles, lo PEC Zwolle ha vinto a sorpresa per 4-1, in una partita giocata sotto grande tensione dopo il licenziamento dell'allenatore Henry van der Vegt. La squadra, inizialmente in difficoltà, ha scaricato tutta la frustrazione accumulata nella ripresa, ottenendo un successo netto proprio nel momento più delicato della stagione. Lo riferisce NRC.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/18/een-trainer-ontslaan-levert-meestal-niets-op-maar-voor-pec-zwolle-nu-even-wel-4-1-winst-in-derby-tegen-go-ahead-eagles-a4939104",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-18T16:12+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb551e311",
+   "sez": "sport",
+   "titolo": "Johan Manzambi conquista la Premier League e affascina il principe William",
+   "orig": "Johan Manzambi hat bereits seinen eigenen Fan-Song – und verzückt Prinz William, den Edelfan von Aston Villa",
+   "lead": "Il centrocampista svizzero Johan Manzambi si è imposto con prestazioni brillanti nella Premier League inglese, suscitando l'entusiasmo non solo dell'allenatore dell'Aston Villa Unai Emery ma anche del principe William, grande tifoso del club. Il giovane giocatore ha già un suo coro dedicato tra i tifosi, segno della rapida popolarità conquistata in Inghilterra. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/sport/fussball/johan-manzambi-hat-bereits-seinen-eigenen-fan-song-und-verzueckt-prinz-william-den-edelfan-von-aston-villa-ld.10037449",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T14:01+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z690229f6",
+   "sez": "economia",
+   "titolo": "Il governo ugandese distribuisce 70mila piantine di cacao ai coltivatori di Buikwe",
+   "orig": "Government Distributes 70,000 Cocoa Seedlings to Buikwe Farmers",
+   "lead": "Il governo ugandese ha distribuito 70.000 piantine di cacao ai coltivatori del distretto di Buikwe, nel tentativo di rilanciare la produzione dopo anni di prezzi in calo che avevano spinto molti agricoltori ad abbandonare la coltura. I produttori chiedono ora servizi di assistenza tecnica migliori e mercati di vendita più stabili per sostenere la ripresa del settore. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/agriculture/379624/government-distributes-70000-cocoa-seedlings-to-buikwe-farmers",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-18T15:30+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z7086b082",
+   "sez": "economia",
+   "titolo": "Richiesta in tribunale per annullare 70 titoli di proprietà a Ssese per coltivatori di palma",
+   "orig": "Court petitioned to cancel 70 land titles for Ssese oil palm growers",
+   "lead": "Una richiesta è stata presentata in tribunale per annullare settanta titoli di proprietà terriera concessi a coltivatori di palma da olio nella regione di Ssese, in Uganda. L'istanza arriva mentre la polizia di Masaka indaga sulle circostanze in cui tali titoli sono stati rilasciati, in un contesto di crescenti tensioni legate all'uso delle terre per le coltivazioni di palma. Lo riferisce Daily Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/news/national/court-petitioned-to-cancel-70-land-titles-for-ssese-oil-palm-growers-5636622",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-18T11:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z1acd7b5f",
+   "sez": "economia",
+   "titolo": "Il FMI prevede una crescita lenta per la Sierra Leone nel 2027",
+   "orig": "IMF Projection: Sierra Leone to Record Slow Growth in 2027",
+   "lead": "Il Fondo Monetario Internazionale ha stimato che l'economia della Sierra Leone crescerà del 4,4% nel 2027, in leggero aumento rispetto al 4,0% previsto per l'anno in corso. La proiezione indica comunque un ritmo di crescita contenuto per il Paese africano, in un contesto economico che resta fragile nonostante i progressi registrati. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/imf-projection-sierra-leone-growth-2027/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-18T13:34+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf62bf54b",
+   "sez": "economia",
+   "titolo": "A Guantánamo avere soldi in banca non basta per poter comprare",
+   "orig": "En Guantánamo, tener dinero en el banco no significa poder comprar",
+   "lead": "A Guantánamo, Cuba, la carenza di contante è diventata un problema quotidiano che colpisce sia i consumatori che i commercianti, nonostante la disponibilità di denaro sui conti bancari. Molte persone non riescono a effettuare acquisti semplici proprio per la mancanza di liquidità in circolazione, un fenomeno che aggrava le difficoltà economiche già diffuse nel Paese. Lo riferisce 14ymedio.",
+   "more": [
+    "La crisi di liquidità a Cuba è legata a problemi strutturali dell'economia cubana, tra cui l'inflazione, le sanzioni internazionali e un sistema bancario poco efficiente, che da anni rendono difficile l'accesso al contante per cittadini e piccoli commercianti."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/guantanamo-dinero-banco-no-significa_1_1132092.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-18T12:01+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "ze617c6f7",
+   "sez": "economia",
+   "titolo": "Austria, accordo del governo sul budget delle università: tra tagli e aumenti",
+   "orig": "Von Kürzung über Erhöhung bis Demo: Die wichtigsten Fragen und Antworten zum Uni-Budget",
+   "lead": "Il governo austriaco ha presentato sabato un'intesa sul futuro finanziamento delle università, un tema a lungo dibattuto tra richieste di tagli e di aumenti dei fondi. L'annuncio arriva dopo mesi di tensioni e manifestazioni nel settore accademico, e apre ora a nuove fasi di attuazione delle misure concordate, con conseguenze dirette su studenti e personale universitario. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344719/von-kuerzung-ueber-erhoehung-bis-demo-die-wichtigsten-fragen-und-antworten-zum-uni-budget?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T13:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z2b208319",
+   "sez": "sport",
+   "titolo": "Luis Suárez entra nella storia dell'Inter Miami con 100 gol-contributi e 300 assist in carriera",
+   "orig": "Inter Miami felicitó a Luis Suárez porque \"entró en la historia\", al llegar a 100 contribuciones a goles en el club y a 300 asistencias en su carrera; mirá el video",
+   "lead": "L'Inter Miami ha celebrato Luis Suárez per aver raggiunto 100 contributi a reti segnate con il club e 300 assist complessivi nella sua carriera. Il club ha pubblicato un video per festeggiare il traguardo dell'attaccante uruguaiano, che continua a collezionare primati significativi nonostante l'età avanzata per gli standard del calcio professionistico. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/futbol-internacional/inter-miami-felicio-luis-suarez-porque-entro-la-historia-al-llegar-100-contribuciones-goles-el-club-y-300-asistencias-su-carrera-mira-el-video-n6060845",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-18T10:59-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z097016f7",
+   "sez": "mondo",
+   "titolo": "Camerun: l'analista Pierre Blériot Nyemeck critica la logica delle nomine politiche",
+   "orig": "Cameroun : Les vérités crues de Pierre Blériot Nyemeck sur la logique des nominations politiques",
+   "lead": "L'analista politico camerunese Pierre Blériot Nyemeck è tornato nella trasmissione domenicale «Libre Expression» su Info TV per esprimere giudizi critici sulla logica seguita nelle nomine politiche in Camerun. Il suo intervento, atteso dopo un periodo di assenza dai dibattiti televisivi, ha riacceso il confronto pubblico sulle dinamiche di potere nel Paese. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/18/cameroun-les-verites-crues-de-pierre-bleriot-nyemeck-sur-la-logique-des-nominations-politiques/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z435596ac",
+   "sez": "mondo",
+   "titolo": "Camerun: un giornalista denuncia l'ingerenza straniera nelle rivolte africane",
+   "orig": "L’ombre de l’ingérence : Quand les forces impérialistes façonnent les rébellions africaines",
+   "lead": "Il giornalista e analista camerunese Jean De... (nome parziale) è intervenuto nella trasmissione «Grand Débat» su CAM 10 Télévision per sostenere che forze straniere, definite «imperialiste», contribuirebbero a plasmare le rivolte che attraversano diversi Paesi africani. L'intervento ha riacceso il dibattito sulle responsabilità esterne nelle crisi politiche del continente. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/18/lombre-de-lingerence-quand-les-forces-imperialistes-faconnent-les-rebellions-africaines/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zeafa0340",
+   "sez": "sport",
+   "titolo": "Benin: Celtiis concede sussidi a club, nazionali e federazione calcistica",
+   "orig": "Football béninois : Celtiis accorde des subventions aux clubs, aux sélections nationales et à la Fbf",
+   "lead": "L'operatore telefonico Celtiis Bénin ha consegnato venerdì 16 ottobre assegni a club, selezioni nazionali e alla Federazione beninese di calcio (Fbf), nel quadro del proprio partenariato con il calcio locale. La cerimonia si è svolta allo stadio dell'Amitié Général Mathieu Kérékou di Cotonou, dove sono stati premiati club campioni e vicecampioni. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/football-beninois-celtiis-accorde-des-subventions-aux-clubs-aux-selections-nationales-et-a-la-fbf/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T13:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zef309312",
+   "sez": "mondo",
+   "titolo": "Zelensky: decine di migliaia di famiglie senza corrente dopo la tregua energetica proposta da Trump",
+   "orig": "Zelensky reveals how many Russian attacks have followed Trump's energy ceasefire",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha denunciato numerosi attacchi russi avvenuti dopo la proposta di tregua energetica avanzata da Trump, sottolineando che decine di migliaia di famiglie ucraine restano senza elettricità. Zelensky ha inoltre avvertito che un eventuale sostegno di Trump alla Russia sarebbe un «errore storico», mentre ha elogiato i «veri leader» europei in un momento di tensioni crescenti con Washington, anche riguardo a possibili restrizioni ai servizi satellitari Starlink usati dall'esercito ucraino.",
+   "more": [
+    "Le relazioni tra Kyiv e Washington si sono raffreddate negli ultimi mesi, con l'amministrazione Trump che spinge per una soluzione negoziata del conflitto, mentre l'Ucraina teme concessioni eccessive a Mosca e continua a subire attacchi sulle infrastrutture energetiche in piena stagione invernale."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/zelensky-tells-trump-russia-keeps-violating-his-energy-ceasefire/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-18T08:35+00:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T14:30+00:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/zelensky-praises-real-leaders-in-europe-as-his-relationship-with-trump-deteriorates/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-18T12:35+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z2cc54d9f",
+   "sez": "mondo",
+   "titolo": "Trump accusa l'immigrazione per i disordini in Francia e invita a chiudere le frontiere",
+   "orig": "Trump afirma que a França \"está a arder\" e culpa imigração pelos distúrbios",
+   "lead": "Il presidente statunitense Donald Trump ha attribuito all'immigrazione la responsabilità dei violenti disordini scoppiati in Francia sabato, esortando Parigi a inasprire urgentemente la propria politica di accoglienza. Trump ha parlato di persone provenienti da «un mondo completamente diverso, con odio nel cuore», sostenendo che l'immigrazione abbia devastato un Paese che un tempo era grande. Le proteste di sabato si sono concluse con gravi danni e circa 1.800 arresti, a sei mesi dalle elezioni francesi.",
+   "more": [
+    "Le dichiarazioni arrivano all'indomani di manifestazioni di massa in tutta la Francia contro il caro vita, degenerate in scontri e saccheggi in diverse città. Il tema dell'immigrazione resta centrale nel dibattito politico francese ed europeo, con la destra radicale che ne fa spesso un punto cardine delle proprie campagne."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/trump-afirma-que-a-franca-esta-a-arder-e-culpa-imigracao-pelos-disturbios_n1772485",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T15:25+01:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/mundo/donald-trump-acuso-inmigrantes-graves-disturbios-francia-cierren-fronteras-tomen-control-tarde_0_Bkv4wu4RmG.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T14:24+00:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/mundo/noticia/trump-pide-a-francia-cerrar-sus-fronteras-antes-de-que-sea-demasiado-tarde-y-achaca-el-deterioro-del-pais-a-la-inmigracion/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T13:26+00:00"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33878868.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-18T17:02+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z79605664",
+   "sez": "mondo",
+   "titolo": "Francia, Macron convoca una riunione di crisi dopo le violenze nelle proteste",
+   "orig": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+   "lead": "Il giorno dopo le massicce violenze registrate durante le proteste in Francia, l'entità dei danni è diventata evidente in diverse città del Paese. Il governo francese ha attribuito la responsabilità dei disordini a gruppi di estrema sinistra, mentre il presidente Emmanuel Macron ha convocato una riunione di crisi e si è rivolto in serata alla nazione con un discorso televisivo per affrontare la situazione. Lo riferisce Tagesschau.",
+   "more": [
+    "Le proteste sono nate a fine settembre da un movimento di studenti e insegnanti che chiedevano migliori condizioni di studio, trasformandosi poi in un movimento nazionale più ampio contro il caro vita, culminato nelle violenze del 17 ottobre in numerose città francesi."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T15:56+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/pulverfass-frankreich-warum-reformen-in-paris-so-lange-verschleppt-wurden-201597964.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T12:23+00:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T13:50+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261018-mobilisations-massives-du-17-octobre-qui-sont-les-casseurs",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T13:34+00:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/evropa/832076/francuska-vise-od-1800-uhapsenih-poslije-jucerasnjih-protesta-makron-se-veceras-obraca-naciji",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T16:08+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zfa4c6754",
+   "sez": "mondo",
+   "titolo": "Caccia romeni abbattono 2 droni nel Mar Nero",
+   "orig": "Romanian fighter jets shoot down 2 drones over Black Sea",
+   "lead": "F-16 romeni hanno abbattuto due droni sulle acque territoriali della Romania nel Mar Nero sabato, secondo il ministero della difesa di Bucarest. L'episodio avviene dopo il colpimento di due navi petroliere chimiche nei giorni precedenti al largo della costa nera romena. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T17:51+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/romanian-f-16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-waters",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-18T22:00+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc2be085f",
+   "sez": "mondo",
+   "titolo": "L'Australia batte la Nuova Zelanda per due wicket nella prima T20 femminile",
+   "orig": "Aussies survives dramatic collapse to beat New Zealand in first women's T20",
+   "lead": "L'Australia ha sconfitto la Nuova Zelanda per due wicket nella prima partita di T20 femminile al North Sydney Oval domenica, scampando a una drammatica rimonta finale delle ospiti. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-18T12:37+00:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361046316/australia-beat-white-ferns-three-wickets-first-twenty20-international",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T11:26+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf08a1cc4",
+   "sez": "mondo",
+   "titolo": "Elezioni 2027: il governatore di Katsina chiede unità nell'APC",
+   "orig": "2027 Polls: Katsina governor seeks forgiveness, urges APC unity – News Agency of Nigeria",
+   "lead": "Il governatore dello stato nigeriano di Katsina chiede perdono ai membri del Partito dei Progressisti Uniti e li esorta a unirsi, mobilitare gli elettori e intensificare le campagne locali per assicurare vittoria nei collegi elettorali delle elezioni 2027. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/918024-2027-polls-katsina-governor-seeks-forgiveness-urges-apc-unity-news-agency-of-nigeria.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T13:28+00:00"
+    },
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/gender/two-thirds-gender-rule-women-governors-seek-cross-party-support-for-bills-before-2027-polls-5633890",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-18T10:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z34dd9e7b",
+   "sez": "mondo",
+   "titolo": "Taiwan respinge 16 navi cinesi in operazioni di molestia marittima",
+   "orig": "Taiwan says drives away 16 Chinese ships involved in ‘maritime harassment’",
+   "lead": "Taiwan ha dichiarato domenica di aver respinto 16 navi della guardia costiera cinese, di ricerca e pesca coinvolte in operazioni simultanee di molestia marittima. Un numero insolitamente grande di imbarcazioni ha preso parte a manovre coordinate intorno all'isola principale e a Pratas. Lo riferisce Hong Kong Free Press.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/10/18/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment/",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T12:53+00:00"
+    },
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.inquirer.net/493320/pcg-drives-away-foreign-fishing-vessel-from-kota-island/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-18T21:16+08:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445457/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T13:56+02:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/taiwan-kuestenwache-draengt-16-chinesische-schiffe-zurueck-a-8c850e18-5875-4f4c-a0d5-f5fe6a2bfea6#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T15:26+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb74850ca",
+   "sez": "mondo",
+   "titolo": "Usa riprendono condivisione intelligence con l'Ucraina dopo pausa",
+   "orig": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says",
+   "lead": "Gli Stati Uniti hanno ripreso a fornire a Kiev informazioni critiche per difendersi dai missili russi dopo una breve interruzione, ha dichiarato domenica il presidente ucraino Volodymyr Zelenski. Lo riferiscono The Straits Times e Ukrinform.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-18T22:01+08:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-polytics/4175668-us-resumes-intelligence-sharing-with-ukraine-zelensky.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-18T17:05+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z61525fe3",
+   "sez": "mondo",
+   "titolo": "Secondo mandato: Oyebanji promette prosperità condivisa a Ekiti",
+   "orig": "Second term: Oyebanji pledges shared prosperity for Ekiti",
+   "lead": "Il governatore dello stato nigeriano di Ekiti Biodun Oyebanji ha promesso prosperità condivisa per il territorio in seguito alla sua inaugurazione per un secondo mandato domenica. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/second-term-oyebanji-pledges-shared-prosperity-for-ekiti/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T13:37+00:00"
+    },
+    {
+     "n": "Tatoli (inglese)",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://en.tatoli.tl/2026/10/16/7th-britacof-opens-with-focus-on-smart-taxation-and-shared-prosperity/12/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-16T03:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "za972178b",
+   "sez": "mondo",
+   "titolo": "Ucraina lancia il più grande attacco di droni su San Pietroburgo",
+   "orig": "Ucrania responde a Trump golpeando la ciudad de Putin con el mayor ataque de drones",
+   "lead": "L'Ucraina ha lanciato il suo più vasto attacco di droni su San Pietroburgo e la regione di Leningrado sabato e domenica con circa 150 apparecchi, danneggiando infrastrutture petrolifere, logistiche e digitali della città. Lo riferisce 14ymedio.",
+   "more": [
+    "Il ministero della difesa russo ha affermato che 1.015 droni ucraini sono stati neutralizzati in quindici regioni meridionali e occidentali durante l'operazione."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/internacional/ucrania-responde-trump-golpeando-ciudad_1_1132104.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-18T13:10+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/rfi/ucrania-ataca-instalaciones-petroleras-de-san-petersburgo-la-segunda-ciudad-mas-grande-de-rusia-2026101881518",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T11:15+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z70766a11",
+   "sez": "mondo",
+   "titolo": "Il municipio di Limoges divorato dalle fiamme durante le proteste francesi",
+   "orig": "El Ayuntamiento de Limoges, devorado por las llamas en la jornada de protestas en Francia",
+   "lead": "Un gruppo di manifestanti ha attaccato domenica il municipio di Limoges, dichiarato monumento storico e costruito nel diciannovesimo secolo, incendiandolo. Lo riferisce El País.",
+   "more": [
+    "L'edificio storico è stato preso di mira durante le proteste contro l'aumento del costo della vita."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/internacional/2026-10-17/el-ayuntamiento-de-limoges-destruido-por-las-llamas-en-la-jornada-de-protestas-en-francia.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-17T22:12+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mundo/europa/protestas-en-francia-limoges-tras-el-incendio-en-la-protesta-que-destruyo-el-ayuntamiento-es-desolador-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-18T14:27+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z2dc7d605",
+   "sez": "mondo",
+   "titolo": "Prete muore quando una croce di legno cade durante messa in diretta in Ecuador",
+   "orig": "Sacerdote murió en plena misa transmitida en vivo en Ecuador: una enorme cruz de madera se desplomó sobre él ante los feligreses",
+   "lead": "L'Arcidiocesi di Guayaquil ha confermato il decesso. Lo riferisce El Tiempo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/latinoamerica/sacerdote-murio-en-plena-misa-transmitida-en-vivo-en-ecuador-una-enorme-cruz-de-madera-se-desplomo-sobre-el-ante-los-feligreses-3594389",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-18T07:18-05:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/18/video-muere-un-sacerdote-en-ecuador-tras-caerle-una-cruz-durante-una-misa/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-18T14:32+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "ze6c30359",
+   "sez": "mondo",
+   "titolo": "Haiti lancia programma di formazione in energie rinnovabili",
+   "orig": "iciHaïti - INFP : Lancement d'un nouveau programme de formation en énergies renouvelables",
+   "lead": "Sotto la direzione di Franck Lauture, direttore generale dell'Istituto Nazionale di Formazione Professionale haitiano, è stato lanciato un nuovo Programma di formazione in energie rinnovabili elaborato secondo l'approccio per competenze. Lo riferisce Haïti Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48688-icihaiti-infp-lancement-d-un-nouveau-programme-de-formation-en-energies-renouvelables.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-18T09:06-04:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/kidira-lancement-dun-programme-culturel-et-de-dialogue-pour-renforcer-les-liens-entre-dakar-et-bamako/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T13:45+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zd9207f35",
+   "sez": "mondo",
+   "titolo": "Nuova agenzia investigativa della Corea del Sud fa il primo arresto",
+   "orig": "New investigation agency makes 1st arrest since launch",
+   "lead": "Una nuova agenzia investigativa incaricata di gestire i crimini gravi ha effettuato il suo primo arresto domenica, sedici giorni dopo il suo lancio. L'ufficio di Seul del Bureau investigativo narcotrafficanti della Serious Crime Investigation Agency ha fermato un sospetto. Lo riferisce Yonhap.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261018003200315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-18T20:49+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10906357",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z813b710e",
+   "sez": "mondo",
+   "titolo": "La società dell'acqua di Lagos serve solo l'1,03% della popolazione",
+   "orig": "Lagos water corporation serves only 1.03% of population — Official",
+   "lead": "La Lagos Water Corporation dichiara che la sua rete serve solo l'1,03% dei venti milioni di residenti dello stato, con molti costretti a spendere migliaia di naira per fonti alternative. La produzione giornaliera reale è il 3% della capacità installata. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/918019-lagos-water-corporation-serves-only-1-03-of-population-official.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T13:23+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/lagos-water-network-reaches-only-1-03-of-residents-lwc/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T14:19+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z331934b2",
+   "sez": "mondo",
+   "titolo": "Doppietta di Persson quando il Sirius perde punti nel finale",
+   "orig": "Joakim Persson med dubbla fullträffar när Sirius tappade poäng sent",
+   "lead": "Joakim Persson ha segnato due gol in tre minuti per il Sirius nella partita di campionato svedese di domenica a Stoccolma, ma l'Elfsborg ha pareggiato nel finale 2-2. I due gol di Persson danno al Sirius il vantaggio, ma gli ospiti non mantengono il risultato. Lo riferisce SVT Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/sport/fotboll/joakim-persson-med-dubbla-fulltraffar-nar-sirius-tappade-poang-sent",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T15:50+02:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sport/sirius-tappade-sent-fick-noja-sig-med-en-poang/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T16:34+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zca6bea80",
+   "sez": "mondo",
+   "titolo": "Ex procuratore generale della Sierra Leone in carcere per quattra notti",
+   "orig": "Joseph F Kamara, Sierra Leone’s former attorney-general & minister of justice: The man who sacrificed his freedom, titles and position in pursuit of constitutionality",
+   "lead": "Joseph Fitzgerald Kamara, ex procuratore generale e ministro della giustizia della Sierra Leone, ha trascorso la quarta notte in carcere presso la prigione di Pademba Road secondo quanto documentato il 13 ottobre. Lo riferisce The Sierra Leone Telegraph.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Sierra Leone Telegraph",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://www.thesierraleonetelegraph.com/joseph-f-kamara-sierra-leones-former-attorney-general-minister-of-justice-the-man-who-sacrificed-his-freedom-titles-and-position-in-pursuit-of-constitutionality/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-13T10:36+00:00"
+    },
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/alpha-sesay-uni-commercialise-research/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-18T14:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zb0af3fcd",
+   "sez": "mondo",
+   "titolo": "Le storie spaventose sono un grande affare commerciale",
+   "orig": "If you have the scratch, they have the scares",
+   "lead": "Le storie spaventose rappresentano più di un semplice intrattenimento: costituiscono un importante settore economico. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T08:00-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z7240e23b",
+   "sez": "mondo",
+   "titolo": "Francia: i giovani elettori indifferenti ai Socialisti di Glucksmann",
+   "orig": "France: Young voters blase about Glucksmann's Socialists",
+   "lead": "Raphael Glucksmann intende guidare il Partito Socialista francese al potere senza collaborare con il populista Jean-Luc Mélenchon, che gode di popolarità tra gli elettori giovani. Ma come il candidato di centro-sinistra può conquistarli? Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T13:31+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z93e517f1",
+   "sez": "mondo",
+   "titolo": "Perché Trump incoraggia ora il voto per corrispondenza?",
+   "orig": "Why is Trump now encouraging mail-in voting?",
+   "lead": "Donald Trump ha affermato per anni che il voto per corrispondenza è corrotto, ma ora lo incoraggia. Al Jazeera spiega il cambio di posizione nel candidato americano. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T14:09+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z6590f8f1",
+   "sez": "mondo",
+   "titolo": "L'India antica era una superpotenza dimenticata del mondo?",
+   "orig": "Was ancient India the world’s forgotten superpower?",
+   "lead": "Nell'ultimo episodio di Deja Vu, lo storico William Dalrymple esplora l'influenza globale dell'India antica e come sia stata trascurata dalla storiografia contemporanea. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T13:17+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zec16e745",
+   "sez": "mondo",
+   "titolo": "Netanyahu: «O la destra o la Palestina»",
+   "orig": "Netanyahu: \"O la destra o la Palestina\"",
+   "lead": "Il primo ministro israeliano Benjamin Netanyahu dichiara durante una campagna elettorale che ogni voto conta e ogni persona può fare la differenza nel determinare il futuro politico. Lo riferisce Rai News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/netanyahu-o-la-destra-o-la-palestina-ebab6716-103b-4498-a6b8-ea13f73a8729.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T14:25+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z060e9672",
+   "sez": "mondo",
+   "titolo": "Attese folle in lutto per una famiglia inglese a Waterford",
+   "orig": "Crowds expected to pay respects at English family reposal",
+   "lead": "Centinaia di persone si sono recate domenica pomeriggio alla Chiesa del Sacro Cuore a Waterford per rendere omaggio a Kim e Philip English e ai loro figli Callum e Jayden. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ireland/2026/1018/1595863-waterford-english-family/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-18T14:50+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z65cc7fca",
+   "sez": "mondo",
+   "titolo": "Un'insegnante lituana porta gli scarponi da trekking in classe",
+   "orig": "Žygio batus į mokyklą atsinešanti mokytoja: spalį – ramiau, o šiaip kasdien – staigmena",
+   "lead": "Jūratė Orlovienė, insegnante di geografia al liceo \"Versmė\" di Tauragė, ideato lezioni di escursionismo per far conoscere agli studenti l'ambiente circostante, portando anche gli scarponi da trekking in aula. Ha percorso a piedi 8,5 chilometri per preparare il piano didattico. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/svietimas/45/3084368/zygio-batus-i-mokykla-atsinesanti-mokytoja-spali-ramiau-o-siaip-kasdien-staigmena",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T15:23+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zefad7f46",
+   "sez": "mondo",
+   "titolo": "Nella causa dei «chequetti» il deputato Nedzinskas contesta gli importi della procura",
+   "orig": "„Čekiukų“ byloje ieškinio sulaukęs Nedzinskas: prokuratūros apetitas didėja bevalgant",
+   "lead": "Durante il processo civile davanti al tribunale regionale di Vilnius a Trakai, il deputato lituano Antanas Nedzinskas contesta che gli importi della procura sono cambiati, rendendo difficile determinare quale sia il calcolo corretto. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3086084/cekiuku-byloje-ieskinio-sulaukes-nedzinskas-prokuraturos-apetitas-dideja-bevalgant",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T15:22+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z110bbf21",
+   "sez": "mondo",
+   "titolo": "Lituana: incidenti informatici dimezzati in un anno",
+   "orig": "NKSC: kibernetinių incidentų Lietuvoje per metus sumažėjo perpus",
+   "lead": "Durante i primi nove mesi del 2026 il Centro Nazionale per la Sicurezza Informatica lituano ha registrato 1.172 incidenti informatici, il 50% in meno rispetto allo stesso periodo del 2025 quando erano stati 2.451. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/3086080/nksc-kibernetiniu-incidentu-lietuvoje-per-metus-sumazejo-perpus",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T15:09+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "ze7bd53c4",
+   "sez": "mondo",
+   "titolo": "La città occupata di Oleshky affamata e devastata: «Moriremo in autunno»",
+   "orig": "„Rudenį mirsime“: sugriautas ir užtvindytas Rusijos okupuotas Oleškų miestas badauja",
+   "lead": "Un residente della città di Oleshky nel sud dell'Ucraina, occupata dalla Russia ma amministrata da Kiev, descrive condizioni disperate: \"Moriremo in autunno\". Riferisce razioni alimentari minime composte da verdure e cereali appena sufficienti per sopravvivere. Lo riferisce LRT.",
+   "more": [
+    "La città è stata danneggiata dalla guerra e sommersa da inondazioni, con la popolazione in grave carenza di cibo e risorse."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3083285/rudeni-mirsime-sugriautas-ir-uztvindytas-rusijos-okupuotas-olesku-miestas-badauja",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T14:46+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z26e6e327",
+   "sez": "mondo",
+   "titolo": "Shanghai: Davidovich Fokina vince il Masters di tennis",
+   "orig": "Ispaniškame „Masters“ turnyro Šanchajuje finale – Davidovichiaus Fokinos triumfas",
+   "lead": "Domenica pomeriggio si è concluso il torneo Masters di tennis di Shanghai con la vittoria dello spagnolo Alejandro Davidovich Fokina, classificato ATP-13. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3086059/ispaniskame-masters-turnyro-sanchajuje-finale-davidovichiaus-fokinos-triumfas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T14:45+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "ze9fdbb25",
+   "sez": "mondo",
+   "titolo": "Zelenski in colloqui con inviati di Trump per nuovi negoziati di pace",
+   "orig": "Bloomberg: Συνομιλίες Ζελένσκι με Γουίτκοφ και Κούσνερ για νέα συνάντηση με στόχο την ειρήνη – «Οι ΗΠΑ επανέφεραν την παροχή κρίσιμων πληροφοριών στην Ουκρανία»",
+   "lead": "Il presidente ucraino Volodymyr Zelenski ha dichiarato di essere in colloqui con gli inviati del presidente americano Donald Trump, Whitcoff e Kushner, per organizzare un nuovo incontro finalizzato alla pace. Zelenski ha suggerito che l'incontro potrebbe tenersi entro la settimana in corso. Lo riferisce Bloomberg News.",
+   "more": [
+    "Gli Stati Uniti avrebbero ripreso a fornire informazioni critiche all'Ucraina, secondo quanto affermato dal presidente ucraino."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/bloomberg-synomilies-zelenski-me-gouitkof-kai-kousner-gia-nea-synantisi-me-stoxo-tin-eirini-oi-ipa-epaneferan-tin-paroxi-krisimon-pliroforion-stin-oukrania/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T14:28+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z08d4215e",
+   "sez": "mondo",
+   "titolo": "Karetsa infortunato alla caviglia nella Borussia Dortmund",
+   "orig": "Ανησυχία για Καρέτσα στη Ντόρτμουντ και πιθανή απουσία για αρκετές εβδομάδες",
+   "lead": "Il giovane centrocampista greco Konstantinos Karetsa si è infortunato alla caviglia destra durante la partita tra Borussia Dortmund e Union Berlino giocatasi il 17 ottobre 2026. Il calciatore è stato costretto a lasciare il campo dopo appena otto minuti dal suo ingresso, al 62º minuto di gioco. Potrebbe rimanere fermo per diverse settimane. Lo riferisce ERT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/athlitismos/anisyxia-gia-karetsa-sti-ntortmount-kai-pithani-apousia-gia-arketes-evdomades/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T14:19+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zf36d2b49",
+   "sez": "mondo",
+   "titolo": "Macedonia del Nord: elezioni sindaco Brvjenica, affluenza al 31%",
+   "orig": "ДИК: Излезеноста во Брвеница до 15 часот 31,17 проценти, гласале 5.064 граѓани",
+   "lead": "Alle elezioni anticipate per sindaco del Comune di Brvjenica, in Macedonia del Nord, l'affluenza alle urne fino alle 15 del 18 ottobre 2026 ha raggiunto il 31,17 per cento. Complessivamente 5.064 cittadini hanno partecipato al voto in questa tornata elettorale amministrativa locale. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B4%D0%B8%D0%BA-%D0%B8%D0%B7%D0%BB%D0%B5%D0%B7%D0%B5%D0%BD%D0%BE%D1%81%D1%82%D0%B0-%D0%B2%D0%BE-%D0%B1%D1%80%D0%B2%D0%B5%D0%BD%D0%B8%D1%86%D0%B0-%D0%B4%D0%BE-15-%D1%87%D0%B0%D1%81%D0%BE%D1%82-3117-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%B8-%D0%B3%D0%BB%D0%B0%D1%81%D0%B0%D0%BB%D0%B5-5.064-%D0%B3%D1%80%D0%B0%D1%93%D0%B0%D0%BD%D0%B8Nnt",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T16:11+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zbacc7bd7",
+   "sez": "mondo",
+   "titolo": "Macedonia del Nord: squadre ospiti vincenti nel 10° turno di calcio",
+   "orig": "Гостинските екипи поуспешни и на двете неделни средби од 10. коло во ПМФЛ",
+   "lead": "Nel decimo turno della Prima Lega Calcistica Macedone, le squadre in trasferta hanno conquistato la vittoria nelle gare disputate il 17 ottobre 2026. La squadra del Silex ha battuto nettamente la squadra del Bashkimi in una prestazione convincente. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D0%B5%D0%BA%D0%B8%D0%BF%D0%B8-%D0%BF%D0%BE%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%B8-%D0%B8-%D0%BD%D0%B0-%D0%B4%D0%B2%D0%B5%D1%82%D0%B5-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%BD%D0%B8-%D1%81%D1%80%D0%B5%D0%B4%D0%B1%D0%B8-%D0%BE%D0%B4-10.-%D0%BA%D0%BE%D0%BB%D0%BE-%D0%B2%D0%BE-%D0%BF%D0%BC%D1%84%D0%BB",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T16:03+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "za291683e",
+   "sez": "mondo",
+   "titolo": "Albania: premier Rama rifiuta dimissioni, accusa forze esterne",
+   "orig": "Рама одбива да поднесе оставка, тврди дека зад протестите стојат надворешни сили",
+   "lead": "Il primo ministro albanese Edi Rama ha rifiutato pressioni e richieste di dimissioni mentre il paese è scosso da intensificate proteste di strada in corso da giorni. Rama ha accusato forze esterne di fomentare le manifestazioni, escludendo categoricamente la possibilità di rassegnare le dimissioni. Lo riferisce MIA.",
+   "more": [
+    "Le proteste proseguono con crescente intensità in territorio albanese con rivendicazioni legate a questioni economiche e sociali."
+   ],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%80%D0%B0%D0%BC%D0%B0-%D0%BE%D0%B4%D0%B1%D0%B8%D0%B2%D0%B0-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%B4%D0%BD%D0%B5%D1%81%D0%B5-%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D1%82%D0%B2%D1%80%D0%B4%D0%B8-%D0%B4%D0%B5%D0%BA%D0%B0-%D0%B7%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%B5-%D1%81%D1%82%D0%BE%D1%98%D0%B0%D1%82-%D0%BD%D0%B0%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%88%D0%BD%D0%B8-%D1%81%D0%B8%D0%BB%D0%B8",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T16:20+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zaf73fc81",
+   "sez": "mondo",
+   "titolo": "Iran: offerta agli USA per riaprire lo Stretto di Hormuz rimane aperta",
+   "orig": "Арагчи: Понудата до САД за повторно отворање на Ормускиот теснец сè уште е на маса",
+   "lead": "Il ministro degli Esteri iraniano Abbas Araghchi ha dichiarato che la proposta dell'Iran agli Stati Uniti per riaprire lo Stretto di Hormuz rimane attualmente sul tavolo dei negoziati internazionali. La dichiarazione è stata rilasciata il 18 ottobre 2026 a Bagdad. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B0%D1%80%D0%B0%D0%B3%D1%87%D0%B8-%D0%BF%D0%BE%D0%BD%D1%83%D0%B4%D0%B0%D1%82%D0%B0-%D0%B4%D0%BE-%D1%81%D0%B0%D0%B4-%D0%B7%D0%B0-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%80%D0%BC%D1%83%D1%81%D0%BA%D0%B8%D0%BE%D1%82-%D1%82%D0%B5%D1%81%D0%BD%D0%B5%D1%86-%D1%81%C3%A8-%D1%83%D1%88%D1%82%D0%B5-%D0%B5-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%81%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T15:17+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zddf92e0e",
+   "sez": "mondo",
+   "titolo": "Montenegro: legale contesta ministro Difesa su presunti abusi di fondi",
+   "orig": "Radulović: Krapović uzalud pokušava da sumnje u moguće zloupotrebe predstavi kao političku kampanju",
+   "lead": "L'avvocato Veselin Radulović ha accusato il ministro della Difesa montenegrino Dragan Krapović di tentare di liquidare come campagna politica i dubbi riguardanti possibili abusi di funzione pubblica. Radulović sostiene che il ministro ha speso 120 milioni di euro di denaro pubblico senza adeguata trasparenza amministrativa. Lo riferisce RTCG.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTCG",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://rtcg.me/vijesti/drustvo/894030/radulovic-krapovic-uzalud-pokusava-da-sumnje-u-moguce-zloupotrebe-predstavi-kao-politicku-kampanju.html",
+     "angolo": "",
+     "atlas": "Montenegro"
+    }
+   ],
+   "data": "",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z24df0a4e",
+   "sez": "mondo",
+   "titolo": "Tanzania: scarti vegetali trasformati in fertilizzante a Dar es Salaam",
+   "orig": "Waste is an opportunity, not rubbish to be thrown away",
+   "lead": "Al mercato di Tandale a Dar es Salaam, gli scarti di frutta e verdura invenduti e scartati dai commercianti vengono trasformati in fertilizzante per migliorare la produzione agricola locale. Questo approccio innovativo trasforma i rifiuti in risorse preziose per il settore agricolo della regione. Lo riferisce Daily News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/waste-is-an-opportunity-not-rubbish-to-be-thrown-away/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-18T13:57+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z68091d48",
+   "sez": "mondo",
+   "titolo": "Tanzania: Ambasciata Olandese sostiene sviluppo industria avicola",
+   "orig": "Dutch Embassy expresses commitment to supporting sustainable growth of Tanzania’s poultry industry",
+   "lead": "L'Ambasciata dei Paesi Bassi in Tanzania ha ribadito l'impegno nel supportare l'implementazione della Strategia Nazionale di Sviluppo Avicolo nei prossimi dieci anni in tutto il territorio tanzano. L'annuncio è stato fatto durante l'apertura del Tanzania-Netherlands Poultry Business Forum a Dar es Salaam il 18 ottobre 2026. Lo riferisce Daily News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/dutch-embassy-expresses-commitment-to-supporting-sustainable-growth-of-tanzanias-poultry-industry/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-18T12:28+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zed7571fa",
+   "sez": "mondo",
+   "titolo": "Nigeria: comunità Fulani di Jigawa sostiene Tinubu per le elezioni 2027",
+   "orig": "2027: Jigawa Fulani community endorses Tinubu, Namadi, commends livestock development initiatives",
+   "lead": "La comunità Fulani dello stato di Jigawa in Nigeria ha espresso pubblico supporto per il presidente Bola Tinubu e il governatore Namadi alle elezioni presidenziali del 2027. L'endorsement è stato annunciato durante una riunione comunitaria a Dutse, riconoscendo gli sforzi locali per lo sviluppo dell'allevamento. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/promoted/918016-2027-jigawa-fulani-community-endorses-tinubu-namadi-commends-livestock-development-initiatives.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T13:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc799ac1b",
+   "sez": "mondo",
+   "titolo": "Nigeria: inaugurato impianto da 3,5 miliardi di naira a Jigawa",
+   "orig": "Jigawa governor commissions ₦3.5bn asphalt and precast plant to boost indigenous constructions",
+   "lead": "Il governatore dello stato di Jigawa in Nigeria ha inaugurato un impianto da 3,5 miliardi di naira per la produzione di asfalto e materiali prefabbricati per l'edilizia. L'infrastruttura mira a migliorare l'accesso locale ai materiali da costruzione e a stimolare l'economia regionale. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/promoted/918008-jigawa-governor-commissions-%e2%82%a63-5bn-asphalt-and-precast-plant-to-boost-indigenous-constructions.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T12:58+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zbd50d34d",
+   "sez": "mondo",
+   "titolo": "Iran: pensionati protestano contro crisi economica e repressione",
+   "orig": "بازنشستگان در شهرهای مختلف ایران علیه مشکلات معیشتی و سرکوب تجمع کردند",
+   "lead": "Pensionati dell'assicurazione sociale e dell'industria siderurgica hanno manifestato in varie città iraniane il 18 ottobre 2026 protestando contro il caro vita, le difficoltà economiche e sanitarie, nonché i mancati pagamenti delle spettanze. Manifestazioni si sono tenute a Teheran, Rasht, Kermanshah, Isfahan, Susà e Ahvaz. Lo riferisce Iran International.",
+   "more": [
+    "In numerose città, i manifestanti hanno anche protestato contro corruzione, repressione governativa e condanne a morte."
+   ],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202610189387",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-10-18T14:08+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc9f4c213",
+   "sez": "tech",
+   "titolo": "Video game mix creati con AI rivelano il futuro del settore",
+   "orig": "I mix di videogiochi fatti con l’AI",
+   "lead": "Sono stati sviluppati mix di videogiochi utilizzando l'intelligenza artificiale che, pur non essendo direttamente giocabili, forniscono informazioni significative sul futuro del settore videoludico e dell'industria digitale. Questi esperimenti rappresentano una prospettiva interessante sulle evoluzioni tecnologiche in corso. Lo riferisce Il Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/18/mix-videogiochi-ai/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T14:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z03b31a9d",
+   "sez": "italia",
+   "titolo": "Italia: governo propone maggiore prudenza dei pedoni sulle strisce pedonali",
+   "orig": "Il governo vuole che i pedoni facciano più attenzione sulle strisce",
+   "lead": "Il governo italiano propone una modifica al Codice della strada che obbligherebbe i pedoni a fermarsi e verificare che gli automobilisti si arrestino prima di attraversare sulle strisce pedonali. La misura mira a incrementare la sicurezza stradale dei pedoni italiani. Lo riferisce Il Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/18/regole-pedoni-nuovo-codice-strada/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T14:05+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "ze826593a",
+   "sez": "mondo",
+   "titolo": "Europa: a Putin rimane solo Fico tra gli alleati politici europei",
+   "orig": "A Putin resta solo Robert Fico in Europa",
+   "lead": "Con l'uscita di scena di Viktor Orbán dalla scena politica ungherese, il primo ministro slovacco Robert Fico rimane tra i pochi alleati politici europei della Russia. In attesa di valutare le posizioni di Marine Le Pen, Roberto Vannacci e dell'AfD tedesca, il panorama dell'europeismo filorusso si è considerevolmente ristretto. Lo riferisce Il Post.",
+   "more": [
+    "Il riallineamento politico europeo allontana progressivamente dai sostenitori di Mosca gli amministratori di grande peso continentale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/18/putin-fico-europa/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T12:35+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z61e3ddb2",
+   "sez": "mondo",
+   "titolo": "Sudafrica: elezioni locali 4 novembre, nessun partito atteso vincere in maggioranza",
+   "orig": "LOCAL ELECTIONS 2026: Build your own coalition in Joburg, eThekwini, Tshwane and Cape Town",
+   "lead": "Alle elezioni amministrative sudafricane del 4 novembre 2026, nessun partito dovrebbe conseguire una maggioranza assoluta nei principali comuni come Johannesburg, eThekwini, Tshwane e Città del Capo. Le coalizioni post-electorali saranno decisive per la formazione dei governi amministrativi locali. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-18-build-your-own-coalition-in-joburg-ethekwini-tshwane-and-cape-town/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-18T14:49+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc126e929",
+   "sez": "mondo",
+   "titolo": "Sudafrica: Tshwane ha bisogno di ferrovie merci per sviluppo automobilistico",
+   "orig": "MOTOR CITY: Tshwane needs better freight rail to become SA’s automotive capital",
+   "lead": "Pretoria/Tshwane potrebbe diventare la porta dell'Africa per il settore automobilistico sudafricano ma necessita di migliori infrastrutture ferroviarie per il trasporto merci e merci. L'articolo sottolinea l'importanza del coinvolgimento dello stato nel sviluppo delle infrastrutture critiche. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-18-tshwane-needs-better-freight-rail-to-become-sas-automotive-capital/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-18T14:42+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc406c691",
+   "sez": "mondo",
+   "titolo": "Romania: medico avverte sui rischi sanitari dopo avvistamento di volpe in città",
+   "orig": "Avertismentul unui medic, după ce o vulpe a fost văzută în Iași. „Nu este un semn de prietenie”",
+   "lead": "Un professionista medico ha lanciato un avvertimento pubblico dopo l'avvistamento di una volpe per le strade del quartiere Copou a Iași, in Romania, il 18 ottobre 2026. L'esperto sottolinea che gli animali selvatici in ambiente urbano, per quanto possano sembrare pacifici, rappresentano rischi sanitari concreti per la popolazione. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/avertismentul-unui-medic-dupa-ce-o-vulpe-a-fost-vazuta-in-iasi-nu-este-un-semn-de-prietenie-2379226",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T14:09+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zcdd707ba",
+   "sez": "mondo",
+   "titolo": "Albania: polizia usa gas lacrimogeni e idranti contro manifestanti a Tirana",
+   "orig": "Încă o capitală europeană în flăcări: Gaze lacrimogene, tunuri cu apă și gloanțe de cauciuc împotriva protestatarilor care cer demisia premierului albanez, în Tirana",
+   "lead": "Per il sesto giorno consecutivo, domenica 18 ottobre 2026, la polizia albanese ha usato gas lacrimogeni e idranti contro centinaia di manifestanti a Tirana che chiedono le dimissioni del premier Edi Rama, il quale ha escluso categoricamente la possibilità di dimettersi. Lo riferisce HotNews.",
+   "more": [
+    "Le proteste proseguono con crescente intensità contro le scelte politiche del governo albanese da giorni."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/inca-o-capitala-europeana-in-flacari-gaze-lacrimogene-tunuri-cu-apa-si-gloante-de-cauciuc-impotriva-protestatarilor-care-cer-demisia-premierului-albanez-in-tirana-2379202",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T13:39+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z0a48ada8",
+   "sez": "mondo",
+   "titolo": "Trump critica la Francia: scontri causati dall'immigrazione",
+   "orig": "„Franța arde!”. Îndemnul lui Trump pentru autoritățile de la Paris, după protestele violente din țară",
+   "lead": "Il presidente americano Donald Trump ha criticato duramente la Francia per gli scontri violenti durante le manifestazioni di questi giorni, attribuendoli principalmente all'immigrazione da paesi \"con odio nei cuori\". Ha invitato le autorità francesi ad adottare norme più stringenti sulla migrazione. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/franta-arde-indemnul-lui-trump-pentru-autoritatile-de-la-paris-dupa-protestele-violente-din-tara-2379204",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T13:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z767d75c4",
+   "sez": "mondo",
+   "titolo": "Montenegro rafforza i legami diplomatici con la Cina",
+   "orig": "Ibrahimović: Crna Gora nastavlja da razvija odnose sa Kinom",
+   "lead": "Durante un incontro con il ministro degli Esteri cinese Wang Yi, il governo del Montenegro ha discusso il rafforzamento delle relazioni bilaterali, con particolare focus su cooperazione economica, progetti infrastrutturali, turismo e cultura. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/politika/832081/ibrahimovic-crna-gora-nastavlja-da-razvija-odnose-sa-kinom",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T16:33+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z0c711ddb",
+   "sez": "mondo",
+   "titolo": "Azerbaijan, proteste contro il divieto del hijab nelle scuole",
+   "orig": "Protesti zbog zabrane hidžaba u Azerbejdžanu: Zašto su u njih...",
+   "lead": "In Azerbaijan il divieto del hijab nelle scuole ha scatenato proteste di studenti e insegnanti. Il conflitto sulle regole dell'abbigliamento religioso amplifica il dibattito sulla laicità scolastica e sulle influenze geopolitiche di Turchia e Iran nella regione. Lo riferisce Vijesti.",
+   "more": [
+    "Le dispute sulle regole del hijab negli istituti scolastici azeri riflettono più ampie contrapposizioni tra orientamenti secolaristi e pressioni da attori regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/globus/832079/protesti-zbog-zabrane-hidzaba-u-azerbejdzanu-zasto-su-u-njih-ukljucena-djeca",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T16:22+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zfcf7afa3",
+   "sez": "mondo",
+   "titolo": "Francia, 17 ottobre: la polizia è stata superata dagli eventi?",
+   "orig": "Mobilisation du 17 octobre : la police dépassée par les évènements ?",
+   "lead": "Dopo gli scontri della manifestazione del 17 ottobre in Francia, il dibattito si accende sulla capacità delle forze di polizia di contenere la violenza durante proteste su larga scala. France 24 ospita Axel Ronde, brigadiere-capo e portavoce del sindacato CFTC. Lo riferisce France 24.",
+   "more": [
+    "Le manifestazioni del 17 ottobre hanno registrato violenze inedite con centinaia di scontri diffusi nelle città francesi."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261018-mobilisation-du-17-octobre-la-police-d%C3%A9pass%C3%A9e-par-les-%C3%A9v%C3%A8nements",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T13:42+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261018-mobilisation-du-17-octobre-comment-en-est-on-arriv%C3%A9-%C3%A0-une-telle-escalade",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T13:03+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z1231afd1",
+   "sez": "mondo",
+   "titolo": "Francia, i segni delle violenze dopo il 17 ottobre",
+   "orig": "17 octobre : la France face aux stigmates de violences inédites",
+   "lead": "La Francia misura i danni materiali dalle violenze che hanno accompagnato la manifestazione del 17 ottobre a Parigi, con attenzione ai segni sui monumenti e nelle piazze pubbliche della capitale. Lo riferisce France 24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261018-17-octobre-la-france-face-aux-stigmates-de-violences-in%C3%A9dites",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T13:05+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z45e2917a",
+   "sez": "mondo",
+   "titolo": "Violenze durante le proteste anche in Italia",
+   "orig": "Gewalt bei Protesten beschäftigt auch Italien",
+   "lead": "Sabato in Italia si sono verificati violenti scontri durante le manifestazioni, con episodi particolarmente gravi a Milano. La premier Giorgia Meloni ha condannato la violenza, mentre i manifestanti rivendicavano aumenti salariali e maggiori investimenti. Lo riferisce Tagesschau.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T16:27+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zc23b0308",
+   "sez": "mondo",
+   "titolo": "Francia, il racconto da Parigi: \"Provocazioni scatenate in mezzo alla folla\"",
+   "orig": "\"Provokation in Menge gestartet\", Michael Strempel, ARD Paris, zur Eskalation in Teilen Frankreichs",
+   "lead": "Michael Strempel, corrispondente ARD da Parigi, descrive come provocazioni abbiano scatenato l'escalation di violenza durante le manifestazioni francesi del 17 ottobre, affermando che i tumulti sono stati innescati direttamente dalla massa dei manifestanti. Lo riferisce Tagesschau.",
+   "more": [
+    "I disordini hanno interessato piazza della Repubblica e altri quartieri parigini con scontri diretti fra manifestanti e forze di ordine."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1668342.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T14:14+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "zba490cf2",
+   "sez": "mondo",
+   "titolo": "Militari ucraini in riabilitazione in Portogallo",
+   "orig": "Militares ucranianos em Portugal para reabilitação",
+   "lead": "Militari ucraini ricevono trattamento medico e di riabilitazione in un centro di recupero nel comune di Ourém in Portogallo per curare ferite e effetti psicologici della guerra. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/militares-ucranianos-em-portugal-para-reabilitacao_v1772488",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T15:29+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z112783e9",
+   "sez": "mondo",
+   "titolo": "Donna danese intrappolata tre giorni in cella sotterranea",
+   "orig": "Deense schoonmaker zit ruim drie dagen vast in ondergrondse cel",
+   "lead": "Una donna danese rimane intrappolata per oltre tre giorni in una cella sotterranea dell'ex corte suprema di Copenaghen senza possibilità di comunicare. Priva di telefono cellulare, non ha potuto chiedere aiuto fino al recupero. Lo riferisce NOS.",
+   "more": [
+    "La donna stava effettuando lavori di pulizia quando una porta della cella in cantina si è chiusa accidentalmente alle spalle, senza possibilità di apertura dall'interno."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635486",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-18T15:13+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z07c53926",
+   "sez": "mondo",
+   "titolo": "Albert Heijn riavvia consegne venerdì dopo attacco cibernetico",
+   "orig": "Opstart bezorging door Albert Heijn opnieuw uitgesteld, app en site werken weer",
+   "lead": "Dopo l'attacco cibernetico che ha paralizzato i servizi online, app e sito di Albert Heijn tornano operativi, mentre la consegna dei pacchi riparte venerdì in modo graduale. I clienti non possono ancora effettuare ordini. Lo riferisce NOS.",
+   "more": [
+    "La catena olandese ha subito un attacco informatico che ha compromesso i sistemi di ordinazione online, costringendo ad annullare i precedenti ordini."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635476",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-18T14:38+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
+   "id": "z4079ea69",
+   "sez": "mondo",
+   "titolo": "Naufragio nello Skagerrak, quattro persone salvate",
+   "orig": "Nødsignal fra fiskebåt: Fire personer var ombord",
+   "lead": "Quattro persone sono state salvate con un elicottero di soccorso dopo un incendio scoppiato a bordo di un peschereccio nello Skagerrak tra Norvegia e Danimarca. Soccorritori di entrambi i paesi e la nave da crociera italiana AidaNova hanno partecipato all'operazione. Lo riferisce NRK.",
+   "more": [
+    "I quattro marinai sono stati prelevati da una zattera di soccorso e caricati a bordo della nave da crociera italiana, risultando illesi dall'incidente."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/sorlandet/nodsignal-fra-fiskebat_-fire-personer-var-ombord-1.18057946",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-18T13:15+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "16:49",
+   "uscita": "17"
+  },
+  {
    "id": "zdf5de5ad",
    "sez": "prima",
    "titolo": "Parigi si risveglia tra i danni delle proteste e negozi saccheggiati",
@@ -4079,6 +5909,24 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "India",
      "t": "2026-10-18T16:23+05:30"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261018003051315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-18T22:12+09:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/perifereiakoi-stathmoi/volos/sporades-pos-anteksan-tin-kakokairia-me-ypsi-vroxis-pou-kseperasan-ta-250-xiliosta/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T13:57+00:00"
     }
    ],
    "data": "18 ott",
@@ -4112,6 +5960,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Georgia",
      "t": "2026-10-17T13:01+00:00"
+    },
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610169724/eesti-200-and-greens-will-not-merge",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-18T16:45+03:00"
     }
    ],
    "data": "18 ott",
@@ -5668,11 +7525,85 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zd349f94e": "Sierraloaded sottolinea la sorpresa rappresentata dalla vittoria sui campioni in carica.",
   "z488bc7a5": "CNA riporta la notizia citando un giornale sudcoreano come fonte.",
   "zb93dc412": "Post-Courier riporta l'appello del premier alla popolazione in vista di difficoltà economiche.",
-  "z15a2ec50": "Iraqi News riporta l'annuncio come parte del sostegno pubblico al settore immobiliare."
+  "z15a2ec50": "Iraqi News riporta l'annuncio come parte del sostegno pubblico al settore immobiliare.",
+  "z3982c218": "La testata riporta le accuse reciproche tra forze politiche francesi sulle responsabilità dei disordini.",
+  "zb534324a": "La testata presenta l'accordo come un passo verso una maggiore cooperazione economica bilaterale.",
+  "z448c9126": "La testata sottolinea come un cambio di allenatore raramente porti benefici immediati, ma in questo caso abbia coinciso con una vittoria larga.",
+  "zb551e311": "La testata evidenzia l'ascesa rapida del giocatore svizzero in uno dei massimi campionati europei.",
+  "z690229f6": "La testata presenta l'iniziativa come un tentativo di rilanciare un settore agricolo in difficoltà.",
+  "z7086b082": "La testata segnala un'indagine della polizia sulle irregolarità nell'assegnazione delle terre.",
+  "z1acd7b5f": "La testata riporta le previsioni del FMI come indicatore di una crescita ancora moderata.",
+  "zf62bf54b": "La testata descrive un paradosso quotidiano vissuto dai cubani, tra denaro depositato e impossibilità di spenderlo.",
+  "ze617c6f7": "La testata spiega cosa cambia concretamente con il nuovo accordo sul budget universitario.",
+  "z2b208319": "La testata celebra un traguardo statistico della carriera di Suárez negli Stati Uniti.",
+  "z097016f7": "La testata riporta le critiche di un analista sulle prassi di nomina nella politica camerunese.",
+  "z435596ac": "La testata riporta la tesi secondo cui potenze straniere influenzerebbero le ribellioni in Africa.",
+  "zeafa0340": "La testata presenta l'iniziativa come un sostegno economico al calcio nazionale beninese.",
+  "zef309312": "Le testate riportano le accuse di Zelensky contro la Russia e le crescenti tensioni con l'amministrazione Trump.",
+  "z2cc54d9f": "Le testate riportano le dichiarazioni di Trump come un attacco frontale alla politica migratoria francese.",
+  "z79605664": "La testata descrive la reazione del governo francese all'entità dei danni causati dalle violenze.",
+  "zfa4c6754": "Agenzia tedesca inquadra la difesa aerea in una crisi di sicurezza regionale in allargamento.",
+  "zc2be085f": "Emittente australiana celebra il recupero della nazionale nell'esordio del torneo femminile.",
+  "zf08a1cc4": "Testata nigeriana riporta appelli di riconciliazione interna alla coalizione di governo.",
+  "z34dd9e7b": "Organo hongkonghese amplifica l'angolazione taiwanese di aggressione coordinata cinese nello Stretto.",
+  "zb74850ca": "Agenzie riferiscono il ripristino del supporto americano come conferma di continuità strategica.",
+  "z61525fe3": "Testata nigeriana riporta impegno del governatore per il nuovo termine amministrativo.",
+  "za972178b": "Organo cubano in esilio inquadra l'attacco come risposta diretta a Trump e sfida alla Russia.",
+  "z70766a11": "Quotidiano spagnolo documenta il danno al patrimonio francese come simbolo dell'escalation dei disordini.",
+  "z2dc7d605": "Testata colombiana riferisce l'incidente tragico avvenuto dinanzi ai fedeli durante la celebrazione.",
+  "ze6c30359": "Testata haitiana annuncia l'iniziativa di sviluppo professionale nel settore delle rinnovabili.",
+  "zd9207f35": "Agenzia sudcoreana riporta l'operatività della nuova struttura investigativa nel suo esordio.",
+  "z813b710e": "Testata nigeriana documenta il grave deficit infrastrutturale nel servizio idrico della metropoli.",
+  "z331934b2": "Emittente svedese copre il pareggio tarante nella gara decisiva della lotta al titolo.",
+  "zca6bea80": "Testata sierraleonese riporta il caso del magistrato che ha sacrificato libertà per principi costituzionali.",
+  "zb0af3fcd": "Emittente americana analizza il fenomeno culturale ed economico delle narrazioni horror.",
+  "z7240e23b": "Agenzia tedesca esamina la sfida di Glucksmann nel coalizzare il voto giovanile per le elezioni francesi.",
+  "z93e517f1": "Emittente qatariana evidenzia la contraddizione nella posizione trumpiana sul voto per corrispondenza.",
+  "z6590f8f1": "Emittente qatariana propone una rivisitazione storica dell'importanza dell'India nei secoli antichi.",
+  "zec16e745": "Emittente pubblica italiana riporta il messaggio elettorale di Netanyahu con enfasi sulla scelta politica.",
+  "z060e9672": "Emittente irlandese riferisce la cerimonia di lutto nella comunità locale.",
+  "z65cc7fca": "Emittente lituana evidenzia l'approccio innovativo e pratico dell'insegnante alla didattica geografica.",
+  "zefad7f46": "Emittente lituana copre il dibattito in aula sul contenzioso amministrativo relativo ai fondi pubblici.",
+  "z110bbf21": "Emittente lituana riporta il miglioramento significativo della resilienza informatica nazionale.",
+  "ze7bd53c4": "Emittente lituana documenta la crisi umanitaria nella città occupata attraverso testimonianze dirette.",
+  "z26e6e327": "Emittente lituana riporta il trionfo dello spagnolo nel torneo Masters asiatico.",
+  "ze9fdbb25": "L'agenzia greca enfatizza i movimenti diplomatici per un negoziato di pace con l'intermediazione americana",
+  "z08d4215e": "La stampa greca segue con attenzione gli infortuni dei propri calciatori nei principali campionati europei",
+  "zf36d2b49": "L'agenzia macedone riporta dati sulla partecipazione elettorale nel ballottaggio amministrativo",
+  "zbacc7bd7": "L'agenzia macedone segue i risultati del campionato calcistico nazionale",
+  "za291683e": "L'agenzia macedone riporta la posizione ferma del governo albanese di fronte ai disordini interni",
+  "zaf73fc81": "L'agenzia macedone riporta sviluppi nei dialoghi diplomatici tra Teheran e Washington su questioni strategiche globali",
+  "zddf92e0e": "La tv pubblica montenegrina documenta le accuse rivolte al ministro della Difesa da parte della società civile",
+  "z24df0a4e": "La stampa tanzana evidenzia iniziative di economia circolare e sostenibilità nel settore agricolo nazionale",
+  "z68091d48": "La stampa tanzana riporta la cooperazione internazionale per lo sviluppo del settore agricolo nazionale",
+  "zed7571fa": "La stampa nigeriana riporta il sostegno della comunità pastorale ai vertici istituzionali nazionali",
+  "zc799ac1b": "La stampa nigeriana evidenzia gli investimenti infrastrutturali del governo locale per lo sviluppo economico regionale",
+  "zbd50d34d": "L'agenzia iraniana in esilio documenta il malcontento della popolazione nei confronti delle condizioni economiche e della repressione statale",
+  "zc9f4c213": "Il quotidiano italiano affronta l'impatto dell'intelligenza artificiale sul settore dei videogiochi",
+  "z03b31a9d": "Il quotidiano italiano analizza le proposte governative di modifica della normativa sulla sicurezza stradale",
+  "ze826593a": "Il quotidiano italiano traccia una mappa dei rapporti geopolitici europei e dell'isolamento crescente della Russia",
+  "z61e3ddb2": "La stampa sudafricana analizza gli scenari post-elettorali e il ruolo delle alleanze politiche nella governance locale",
+  "zc126e929": "La stampa sudafricana analizza i fabbisogni infrastrutturali per posizionare la regione come hub automobilistico continentale",
+  "zc406c691": "La stampa romena documenta i rischi sanitari derivanti dalla presenza di fauna selvatica in aree urbane",
+  "zcdd707ba": "La stampa romena riporta gli scontri tra manifestanti e forze dell'ordine nella capitale albanese",
+  "z0a48ada8": "La testata riporta le accuse di Trump sugli effetti della migrazione nelle violenze francesi.",
+  "z767d75c4": "La testata balcanica copre gli sviluppi della diplomazia regionale verso Pechino.",
+  "z0c711ddb": "La testata balcanica copre le tensioni socioculturali del Caucaso moderno.",
+  "zfcf7afa3": "La testata francese analizza le responsabilità e i limiti della polizia durante la giornata di proteste.",
+  "z1231afd1": "La testata documenta le conseguenze fisiche della giornata di proteste a Parigi.",
+  "z45e2917a": "La testata tedesca riporta la propagazione dei disordini di protesta dal contesto francese al territorio italiano.",
+  "zc23b0308": "La testata tedesca riporta l'analisi di un corrispondente estero sulla dinamica degli scontri francesi.",
+  "zba490cf2": "La testata portoghese segnala gli aiuti medici offerti dal Paese ai combattenti ucraini.",
+  "z112783e9": "La testata riporta un episodio straordinario di isolamento involontario in una struttura pubblica.",
+  "z07c53926": "La testata monitora il recupero della piattaforma di e-commerce dopo l'incidente di cybersecurity.",
+  "z4079ea69": "La testata norvegese riporta un'operazione di soccorso internazionale nel mare del Nord."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
-  "zdf5de5ad": "Da settimane la Francia è attraversata da una crescente mobilitazione sociale contro il caro vita, i tagli alla spesa pubblica e le carenze nel sistema scolastico. Sindacati e collettivi studenteschi hanno organizzato cortei in diverse città, spesso affiancati da frange più radicali. Il governo, già fragile dopo mesi di instabilità politica, non è riuscito a placare il malcontento, mentre le tensioni sociali si sono progressivamente intensificate fino alla manifestazione di sabato."
+  "zdf5de5ad": "Da settimane la Francia è attraversata da una crescente mobilitazione sociale contro il caro vita, i tagli alla spesa pubblica e le carenze nel sistema scolastico. Sindacati e collettivi studenteschi hanno organizzato cortei in diverse città, spesso affiancati da frange più radicali. Il governo, già fragile dopo mesi di instabilità politica, non è riuscito a placare il malcontento, mentre le tensioni sociali si sono progressivamente intensificate fino alla manifestazione di sabato.",
+  "zef309312": "Negli ultimi mesi i tentativi di mediazione internazionale per porre fine alla guerra russo-ucraina si sono intensificati, ma Mosca ha continuato gli attacchi contro il sistema energetico ucraino nonostante le proposte di tregua. Parallelamente sono cresciute le tensioni tra Kyiv e Washington, con dubbi sul sostegno militare e tecnologico statunitense, incluso l'accesso ai servizi satellitari Starlink.",
+  "z2cc54d9f": "Le manifestazioni contro il caro vita, organizzate il 17 ottobre in Francia, hanno riunito tra 550.000 e 800.000 persone secondo le stime del ministero dell'Interno e degli organizzatori. La giornata si è conclusa con scontri, saccheggi e circa 1.800 arresti, in un clima di forte tensione sociale a pochi mesi dalle prossime elezioni francesi.",
+  "z79605664": "A fine settembre studenti, insegnanti e sindacati sono scesi in piazza per chiedere migliori condizioni di studio, dando il via a un movimento di protesta nazionale. Il 17 ottobre le manifestazioni contro il caro vita sono degenerate in violenze e devastazioni in diverse città, spingendo il governo ad attribuire le responsabilità all'estrema sinistra."
  },
  "cronologie": {
   "zc243347e": [
@@ -5709,6 +7640,44 @@ window.EDIZIONI["2026-10-18-sera"] = {
    [
     "18 ottobre 2026",
     "Residenti e commercianti parigini scoprono i danni al mattino, mentre si aprono indagini sugli episodi di violenza"
+   ]
+  ],
+  "zef309312": [
+   [
+    "Ottobre 2026",
+    "Proposta di tregua energetica legata agli sforzi diplomatici statunitensi"
+   ],
+   [
+    "17-18 ottobre 2026",
+    "Zelensky denuncia nuovi attacchi russi e tensioni con Trump su Starlink e sostegno a Mosca"
+   ]
+  ],
+  "z2cc54d9f": [
+   [
+    "Fine settembre 2026",
+    "Inizio delle proteste studentesche in Francia"
+   ],
+   [
+    "17 ottobre 2026",
+    "Manifestazioni di massa contro il caro vita degenerano in violenze e saccheggi"
+   ],
+   [
+    "18 ottobre 2026",
+    "Trump attribuisce i disordini all'immigrazione e invita la Francia a chiudere le frontiere"
+   ]
+  ],
+  "z79605664": [
+   [
+    "Fine settembre 2026",
+    "Studenti, insegnanti e sindacati avviano le proteste sulle condizioni scolastiche"
+   ],
+   [
+    "17 ottobre 2026",
+    "Le manifestazioni contro il caro vita degenerano in violenze diffuse"
+   ],
+   [
+    "18 ottobre 2026",
+    "Macron convoca una riunione di crisi e si rivolge alla nazione in televisione"
    ]
   ]
  },
@@ -7290,6 +9259,507 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "Iraq"
    ],
    "pt": []
+  },
+  "z3982c218": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb534324a": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z448c9126": {
+   "n": "Zwolle",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zb551e311": {
+   "n": "Birmingham",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z690229f6": {
+   "n": "Buikwe",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z7086b082": {
+   "n": "Ssese",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z1acd7b5f": {
+   "n": "Freetown",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "zf62bf54b": {
+   "n": "Guantánamo",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "ze617c6f7": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z2b208319": {
+   "n": "Miami",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z097016f7": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z435596ac": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zeafa0340": {
+   "n": "Cotonou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "zef309312": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z2cc54d9f": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z79605664": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zfa4c6754": {
+   "n": "Mar Nero",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zc2be085f": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zf08a1cc4": {
+   "n": "Stato di Katsina",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z34dd9e7b": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zb74850ca": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z61525fe3": {
+   "n": "Stato di Ekiti",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "za972178b": {
+   "n": "San Pietroburgo",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z70766a11": {
+   "n": "Limoges",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z2dc7d605": {
+   "n": "Guayaquil",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "ze6c30359": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zd9207f35": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z813b710e": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z331934b2": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zca6bea80": {
+   "n": "Freetown",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "zb0af3fcd": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7240e23b": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z93e517f1": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6590f8f1": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zec16e745": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z060e9672": {
+   "n": "Waterford",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z65cc7fca": {
+   "n": "Tauragė",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zefad7f46": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z110bbf21": {
+   "n": "Lituania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "ze7bd53c4": {
+   "n": "Oleshky",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z26e6e327": {
+   "n": "Shanghai",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "ze9fdbb25": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z08d4215e": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zf36d2b49": {
+   "n": "Brvjenica",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "zbacc7bd7": {
+   "n": "Macedonia del Nord",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "za291683e": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "zaf73fc81": {
+   "n": "Bagdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zddf92e0e": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z24df0a4e": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z68091d48": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "zed7571fa": {
+   "n": "Jigawa",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zc799ac1b": {
+   "n": "Jigawa",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zbd50d34d": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zc9f4c213": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z03b31a9d": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze826593a": {
+   "n": "Europa",
+   "p": [
+    "Slovakia",
+    "Hungary",
+    "Russia",
+    "France",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z61e3ddb2": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zc126e929": {
+   "n": "Tshwane",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zc406c691": {
+   "n": "Iași",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zcdd707ba": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z0a48ada8": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z767d75c4": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z0c711ddb": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zfcf7afa3": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1231afd1": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z45e2917a": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc23b0308": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zba490cf2": {
+   "n": "Ourém",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z112783e9": {
+   "n": "Copenaghen",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z07c53926": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z4079ea69": {
+   "n": "Skagerrak",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -7335,8 +9805,8 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z9d95ce5e": 1,
   "z3efab38b": 1,
   "zb4e2e0af": 1,
-  "za35f2ae4": 1,
-  "zb9e3754d": 1,
+  "za35f2ae4": 2,
+  "zb9e3754d": 2,
   "z81fa4917": 1,
   "za1f93a66": 1,
   "zc059ed61": 1,
@@ -7516,7 +9986,78 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zd349f94e": 1,
   "z488bc7a5": 1,
   "zb93dc412": 1,
-  "z15a2ec50": 1
+  "z15a2ec50": 1,
+  "z3982c218": 2,
+  "zb534324a": 1,
+  "z448c9126": 1,
+  "zb551e311": 1,
+  "z690229f6": 1,
+  "z7086b082": 1,
+  "z1acd7b5f": 1,
+  "zf62bf54b": 1,
+  "ze617c6f7": 1,
+  "z2b208319": 1,
+  "z097016f7": 1,
+  "z435596ac": 1,
+  "zeafa0340": 1,
+  "zef309312": 1,
+  "z2cc54d9f": 2,
+  "z79605664": 2,
+  "zfa4c6754": 1,
+  "zc2be085f": 1,
+  "zf08a1cc4": 1,
+  "z34dd9e7b": 2,
+  "zb74850ca": 1,
+  "z61525fe3": 1,
+  "za972178b": 1,
+  "z70766a11": 1,
+  "z2dc7d605": 1,
+  "ze6c30359": 1,
+  "zd9207f35": 1,
+  "z813b710e": 1,
+  "z331934b2": 1,
+  "zca6bea80": 1,
+  "zb0af3fcd": 1,
+  "z7240e23b": 1,
+  "z93e517f1": 1,
+  "z6590f8f1": 1,
+  "zec16e745": 1,
+  "z060e9672": 1,
+  "z65cc7fca": 1,
+  "zefad7f46": 1,
+  "z110bbf21": 1,
+  "ze7bd53c4": 1,
+  "z26e6e327": 1,
+  "ze9fdbb25": 1,
+  "z08d4215e": 1,
+  "zf36d2b49": 1,
+  "zbacc7bd7": 1,
+  "za291683e": 1,
+  "zaf73fc81": 1,
+  "zddf92e0e": 2,
+  "z24df0a4e": 1,
+  "z68091d48": 1,
+  "zed7571fa": 2,
+  "zc799ac1b": 1,
+  "zbd50d34d": 2,
+  "zc9f4c213": 1,
+  "z03b31a9d": 1,
+  "ze826593a": 1,
+  "z61e3ddb2": 2,
+  "zc126e929": 1,
+  "zc406c691": 1,
+  "zcdd707ba": 1,
+  "z0a48ada8": 1,
+  "z767d75c4": 1,
+  "z0c711ddb": 1,
+  "zfcf7afa3": 1,
+  "z1231afd1": 1,
+  "z45e2917a": 1,
+  "zc23b0308": 1,
+  "zba490cf2": 1,
+  "z112783e9": 1,
+  "z07c53926": 1,
+  "z4079ea69": 1
  },
  "video": {},
  "pillole": []
