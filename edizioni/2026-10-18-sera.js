@@ -3,6 +3,94 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zac286419",
+   "sez": "mondo",
+   "titolo": "Il governo approva il trasferimento del Segretariato a Sher-e-Bangla Nagar",
+   "orig": "Cabinet approves proposal to relocate Secretariat to Sher-e-Bangla Nagar",
+   "lead": "Il governo del Bangladesh ha approvato una proposta per trasferire il Segretariato nel quartiere di Sher-e-Bangla Nagar, a Dacca. La decisione riguarda la sede dei principali uffici amministrativi del Paese, con un provvedimento approvato dal gabinetto. Il testo non indica tempi né costi dell'operazione. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/mqbffep126",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T13:39+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:19",
+   "uscita": "17"
+  },
+  {
+   "id": "z9a2f672b",
+   "sez": "mondo",
+   "titolo": "L'autorità del ponte individua 14 fattori dietro le perdite del tunnel di Karnaphuli",
+   "orig": "Bridge Authority flags 14 factors behind Karnaphuli Tunnel’s losses",
+   "lead": "L'autorità preposta al ponte ha individuato 14 fattori alla base delle perdite registrate dal tunnel di Karnaphuli, infrastruttura che passa sotto il fiume omonimo a Chattogram. Il documento non è stato ancora discusso nel dettaglio e le conclusioni riguardano le cause economiche e gestionali del calo dei ricavi. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/rkltkpa2k0",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T12:57+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:19",
+   "uscita": "17"
+  },
+  {
+   "id": "zfd5b796f",
+   "sez": "mondo",
+   "titolo": "Erogati solo 5,61 miliardi di taka per riaprire le fabbriche chiuse, a fronte di 200 miliardi stanziati",
+   "orig": "Only Tk 5.61b disbursed to reopen closed factories, despite Tk 200b allocation",
+   "lead": "Il governo del Bangladesh ha erogato finora solo 5,61 miliardi di taka per riaprire le fabbriche chiuse, nonostante uno stanziamento complessivo di 200 miliardi. Lo scarto tra fondi disponibili e fondi effettivamente utilizzati è al centro dell'attenzione. Il dato riguarda le imprese rimaste ferme e le misure di sostegno previste per farle ripartire. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/business/o7yzkiminz",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T12:43+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:19",
+   "uscita": "17"
+  },
+  {
+   "id": "zcad3cc54",
+   "sez": "mondo",
+   "titolo": "La Chamber court sospende l'ordine di recupero di 6,66 miliardi di taka di tasse arretrate da Grameen Kalyan",
+   "orig": "Chamber court stays order to recover Tk 6.66b in outstanding taxes from Grameen Kalyan",
+   "lead": "La Chamber court ha sospeso un ordine che imponeva il recupero di 6,66 miliardi di taka di tasse arretrate a carico di Grameen Kalyan. Il provvedimento blocca temporaneamente l'azione delle autorità fiscali. La vicenda riguarda il contenzioso tributario della società. Lo riferisce Prothom Alo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/hz83usxzpw",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T12:31+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:19",
+   "uscita": "17"
+  },
+  {
    "id": "ze05c13fe",
    "sez": "mondo",
    "titolo": "Francia, proteste: manifestanti devastano diverse città, Macron parla in tv",
@@ -11810,7 +11898,11 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zac08d9e3": "De Ware Tijd riporta il messaggio di congedo del diplomatico, con taglio diplomatico e istituzionale.",
   "zd6e988c8": "Opinión (Bolivia) riporta l'agenda ufficiale dell'insediamento, con taglio di servizio.",
   "z1e422117": "Opinión (Bolivia) privilegia l'aspetto sanitario e sociale del lavoro informale di riciclaggio.",
-  "z5c12e1bc": "Opinión (Bolivia) segue la festività religiosa con taglio locale e di servizio."
+  "z5c12e1bc": "Opinión (Bolivia) segue la festività religiosa con taglio locale e di servizio.",
+  "zac286419": "Il quotidiano bengalese in inglese segue da vicino le decisioni del governo e le scelte amministrative del Paese.",
+  "z9a2f672b": "Il quotidiano bengalese in inglese dà spazio ai problemi di gestione delle infrastrutture pubbliche del Paese.",
+  "zfd5b796f": "Il quotidiano bengalese in inglese mette in evidenza la distanza tra stanziamenti e spesa reale.",
+  "zcad3cc54": "Il quotidiano bengalese in inglese segue i procedimenti giudiziari legati alle questioni fiscali."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -15322,6 +15414,34 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "Bolivia"
    ],
    "pt": []
+  },
+  "zac286419": {
+   "n": "Sher-e-Bangla Nagar, Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z9a2f672b": {
+   "n": "Chattogram",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zfd5b796f": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zcad3cc54": {
+   "n": "Dacca",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -15784,7 +15904,11 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zac08d9e3": 1,
   "zd6e988c8": 1,
   "z1e422117": 1,
-  "z5c12e1bc": 1
+  "z5c12e1bc": 1,
+  "zac286419": 1,
+  "z9a2f672b": 1,
+  "zfd5b796f": 1,
+  "zcad3cc54": 1
  },
  "video": {},
  "pillole": []
