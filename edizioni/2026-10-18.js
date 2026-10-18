@@ -4,7 +4,7 @@ window.EDIZIONI["2026-10-18"] = {
  "news": [
   {
    "id": "zcd9f4320",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Giappone: aumentano i costi dei medicinali da banco a marzo",
    "orig": "OTC類似薬、3月から負担増 線引き複雑、がん患者などにも条件",
    "lead": "A partire da marzo 2026 il Giappone introdurrà un aumento dei costi per i medicinali da banco simili alle medicine prescritte. La nuova classificazione presenta criteri di applicazione complessi e avrà conseguenze significative anche sui pazienti oncologici, per i quali sono previste però particolari condizioni di tutela. Lo riferisce Asahi Shimbun.",
@@ -118,7 +118,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z7c770eeb",
-   "sez": "mondo",
+   "sez": "cucina",
    "titolo": "Il piatto francese che continua ad affascinare i chef nonostante le controversie",
    "orig": "El manjar francés que sigue fascinando a los chefs pese a la polémica",
    "lead": "Un prodotto della cucina francese tradizionale continua ad affascinare chef e gastronomi internazionali per la sua texture e sapore caratteristico, nonostante generi controversia significativa sui metodi produttivi utilizzati. Le questioni etiche legate alla sua realizzazione non hanno diminuito l'apprezzamento globale nel settore culinario contemporaneo. Lo riferisce La Nación.",
@@ -420,6 +420,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-18T01:34+00:00"
+    },
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/deportes/blooming-sigue-sin-ganar-y-corre-el-riesgo-de-quedarse-sin-nada",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T21:57-04:00"
     }
    ],
    "data": "18 ott",
@@ -615,7 +624,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z6a61188f",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Luqueño si gioca la permanenza contro San Lorenzo",
    "orig": "Luqueño se juega puntos de permanencia contra San Lorenzo",
    "lead": "Sportivo Luqueño affronta Sportivo San Lorenzo nello stadio Luis Salinas di Itauguá in una partita decisiva per il mantenimento della categoria nel campionato calcistico paraguayano. L'incontro rappresenta uno snodo cruciale nella lotta alla retrocessione della squadra. Lo riferisce ABC Color.",
@@ -978,7 +987,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z6671b4bd",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Guinea: dibattito parlamentare su strada Labé-Tougué",
    "orig": "Route Labé-Tougué et brettelle Banti-Koubia : une vingtaine de recommandations formulées, le projet en débat à l’hémicycle",
    "lead": "L'assemblea nazionale della Guinea ha discusso il progetto di costruzione e bitumatura della strada nazionale Labé-Tougué (148,860 km) con raccordo Banti-Koubia (11,443 km) e ponte sul fiume Bafing. Una ventina di raccomandazioni sono emerse nel dibattito parlamentare sulla ratifica della convenzione di credito per l'infrastruttura. Lo riferisce Mosaïque Guinée.",
@@ -1001,28 +1010,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z843101fb",
-   "sez": "mondo",
-   "titolo": "MRC Camerun: nuovo corso con rinnovata leadership",
-   "orig": "MRC : une phase s’achève avec l’émergence d’un nouveau leadership",
-   "lead": "Il Movimento per la Rinascita del Camerun (MRC) attraversa un momento cruciale della sua storia con l'emergere di una nuova leadership dopo anni segnati dalla figura centrale del precedente presidente. La transizione politica rappresenta un punto di svolta organizzativo per il partito camerunese. Lo riferisce Actu Cameroun.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Actu Cameroun",
-     "p": "XX",
-     "c": "Yaoundé",
-     "u": "https://actucameroun.com/2026/10/18/mrc-une-phase-sacheve-avec-lemergence-dun-nouveau-leadership/",
-     "angolo": "",
-     "atlas": "Cameroon",
-     "t": "2026-10-18T00:04+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:46",
-   "uscita": "mattino"
-  },
-  {
    "id": "z53f41fef",
    "sez": "mondo",
    "titolo": "Camerun: Tiriane Noah nuova presidente del MRC",
@@ -1038,6 +1025,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Cameroon",
      "t": "2026-10-17T23:39+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/18/mrc-une-phase-sacheve-avec-lemergence-dun-nouveau-leadership/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-18T00:04+00:00"
     }
    ],
    "data": "18 ott",
@@ -1485,28 +1481,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z141792bc",
-   "sez": "mondo",
-   "titolo": "Francia: crolla il municipio di Limoges durante le proteste",
-   "orig": "Il crollo del municipio di Limoges, dato alle fiamme durante le proteste in Francia",
-   "lead": "Il municipio di Limoges è crollato dopo essere stato dato alle fiamme durante le proteste che hanno interessato la Francia nei giorni scorsi. Lo riferisce Il Post.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/flashes/il-crollo-del-municipio-di-limoges-dato-alle-fiamme-durante-le-proteste-in-francia/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-17T20:58+00:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "08:46",
-   "uscita": "mattino"
-  },
-  {
    "id": "z55866ff3",
    "sez": "mondo",
    "titolo": "Portogallo: ministro nega responsabilità del governo nella crisi abitativa",
@@ -1553,30 +1527,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-10-18T02:21+01:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:46",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z1663f65e",
-   "sez": "mondo",
-   "titolo": "Portogallo: allestito campo di protesta a Lisbona contro la crisi abitativa",
-   "orig": "Protestcamp gegen Wohnungsmisere in Lissabon errichtet",
-   "lead": "A Lisbona è stato allestito un campo di protesta contro la crisi abitativa che colpisce il Portogallo, come parte della mobilitazione in corso nel paese. Lo riferisce ORF.",
-   "more": [
-    "La crisi abitativa portoghese ha generato movimenti di protesta in diverse città del paese."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445426/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-18T08:08+02:00"
     }
    ],
    "data": "18 ott",
@@ -1661,48 +1611,6 @@ window.EDIZIONI["2026-10-18"] = {
      "p": "XX",
      "c": "Seul",
      "u": "https://www.hani.co.kr/arti/economy/finance/1282894.html",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "08:46",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z96f2b007",
-   "sez": "mondo",
-   "titolo": "Francia: 550mila in piazza tra studenti e lavoratori, bruciati edifici pubblici",
-   "orig": "시청도 불지르고…프랑스 학생 시위에 노동자 합세 ‘55만명’",
-   "lead": "Circa 550mila persone hanno partecipato a una manifestazione in Francia dove studenti e lavoratori si sono uniti in protesta. Nel corso dei disordini sono stati bruciati alcuni edifici pubblici, incluso un municipio. La mobilitazione rappresenta la convergenza di due movimenti distinti. Lo riferisce The Hankyoreh.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Hankyoreh",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.hani.co.kr/arti/international/international_general/1282893.html",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "08:46",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z1e67a136",
-   "sez": "mondo",
-   "titolo": "Tampa Bay batte Cleveland 2-2 in ALCS, bene Aranda con tre colpi",
-   "orig": "탬파베이, 클리블랜드 꺾고 ALCS 2승2패…아란다 3안타 활약",
-   "lead": "Tampa Bay ha sconfitto Cleveland nella serie di campionato dell'American League portando il computo a parità 2-2. Il giocatore Aranda ha fornito una prestazione eccezionale realizzando tre validi nella partita. I due team rimangono in equilibrio verso il prosieguo della competizione. Lo riferisce The Hankyoreh.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Hankyoreh",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.hani.co.kr/arti/sports/baseball/1282892.html",
      "angolo": "",
      "atlas": "South Korea"
     }
@@ -1969,7 +1877,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z65f3f2c2",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Bangladesh sconfitta da Zimbabwe di 99 run nella tri-nation cricket series",
    "orig": "Bangladesh suffer 99-run defeat to Zimbabwe in tri-nation series opener",
    "lead": "La nazionale di cricket del Bangladesh subisce una sconfitta di 99 run dallo Zimbabwe nella prima partita della serie tri-nazione internazionale di cricket. Il risultato segna un inizio difficile per la squadra bangladese nella competizione regionale. Lo riferisce Prothom Alo.",
@@ -2859,28 +2767,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zf5c845cb",
-   "sez": "mondo",
-   "titolo": "Blooming senza gol contro Independiente, sprecato rigore",
-   "orig": "Blooming sigue sin ganar y corre el riesgo de quedarse sin nada",
-   "lead": "Il Blooming non ha convertito alcun gol nella partita contro Independiente in Bolivia, sprecando anche un calcio di rigore quando Menacho ha tirato il pallone contro il palo. La gara è terminata sullo 0-0, aggravando la situazione del club cruceño nella ricerca della prima vittoria stagionale. Lo riferisce Brújula Digital.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Brújula Digital",
-     "p": "XX",
-     "c": "La Paz",
-     "u": "https://brujuladigital.net/deportes/blooming-sigue-sin-ganar-y-corre-el-riesgo-de-quedarse-sin-nada",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-17T21:57-04:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:41",
-   "uscita": "mattino"
-  },
-  {
    "id": "z14684bb7",
    "sez": "mondo",
    "titolo": "Banca Centrale Bolivia esclude nuovi corralitos e pegno riserve oro",
@@ -2896,30 +2782,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-17T20:48-04:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:41",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z44ea07f4",
-   "sez": "mondo",
-   "titolo": "Trump blocca sanzioni sulla Russia, Russia continua attacchi all'Ucraina",
-   "orig": "Trump exempte la Russie de nouvelles sanctions, alors que Moscou cible les infrastructures énergétiques ukrainiennes",
-   "lead": "Il presidente Trump ha congelato l'applicazione di una legge che prevedeva pesanti sanzioni contro gli importatori di idrocarburi russi. Dopo l'accordo annunciato l'11 ottobre per l'acquisto di gasolio dalla Russia, Trump continua con manovre volte a mostrare sensibilità al costo della vita, grande preoccupazione americana in vista delle elezioni di midterm del 3 novembre. Lo riferisce Le Monde.",
-   "more": [
-    "La mossa rientra in una strategia più ampia di riduzione del costo energetico per gli americani in vista delle elezioni cruciali."
-   ],
-   "fonti": [
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/international/article/2026/10/18/trump-exempte-la-russie-de-nouvelles-sanctions-alors-que-moscou-cible-les-infrastructures-energetiques-ukrainiennes_6796993_3210.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-18T06:00+02:00"
     }
    ],
    "data": "18 ott",
@@ -3076,30 +2938,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-18T07:28+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:41",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z4e1847af",
-   "sez": "mondo",
-   "titolo": "Francia: premier Lecornu denuncia \"terribile livello di violenza\" il 17 ottobre",
-   "orig": "Unruhen in Frankreich: Premierminister Lecornu:„Entsetzliches Ausmaß an Gewalt“",
-   "lead": "Il primo ministro francese Lecornu ha denunciato un \"terribile livello di violenza\" durante le proteste del 17 ottobre contro il costo della vita. Nel capoluogo di Limoges il municipio è stato invaso e dato alle fiamme, simbolo dell'escalation durante la mobilitazione nazionale. Lo riferisce FAZ.",
-   "more": [
-    "La violenza durante le proteste ha sorpreso per intensità e coordinamento, colpendo simboli istituzionali."
-   ],
-   "fonti": [
-    {
-     "n": "FAZ",
-     "p": "DE",
-     "c": "Francoforte",
-     "u": "https://www.faz.net/aktuell/politik/ausland/unruhen-bei-protesten-in-frankreich-entsetzliches-ausmass-an-gewalt-accg-201596707.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-18T03:30+00:00"
     }
    ],
    "data": "18 ott",
@@ -3457,7 +3295,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zfe9a1edd",
-   "sez": "mondo",
+   "sez": "cultura",
    "titolo": "Il flop cinematografico di «Digger»: quando il genio fallisce",
    "orig": "«Digger» ist der Kino-Flop des Jahres – und in allerbester Gesellschaft",
    "lead": "Il film «Digger» rappresenta il maggiore insuccesso cinematografico dell'anno, ma secondo la NZZ il fallimento artistico è parte intrinseca del processo creativo. Il critico osserva che nella storia dell'arte il tentativo fallito rimane legittimo e non invalida la ricerca dei maestri. Lo riferisce NZZ.",
@@ -3527,7 +3365,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z6c999724",
-   "sez": "ambiente",
+   "sez": "sport",
    "titolo": "Sci mondiale: il caldo anomalo costringe gli allenamenti lontano",
    "orig": "Skisport nach dem Hitzesommer: Wer das beste Training will, muss weit reisen",
    "lead": "La stagione sciistica mondiale si apre dopo un'estate con temperature record, costringendo atleti e federazioni a cercare condizioni di neve adeguate in zone remote. Secondo Der Standard, la federazione austriaca di sci sviluppa strategie alternative affrontando costi crescenti e complessità logistiche senza precedenti. Lo riferisce Der Standard.",
@@ -3592,28 +3430,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zf330b988",
-   "sez": "mondo",
-   "titolo": "Ucraina attacca San Pietroburgo: raid con droni contro infrastrutture energetiche",
-   "orig": "Stort ukrainskt anfall mot Sankt Petersburg i natt",
-   "lead": "L'Ucraina ha condotto un attacco notturno con droni contro San Pietroburgo, colpendo un terminal petrolifero, un data center, una strada e la rete elettrica. Secondo Dagens Nyheter, il raid rappresenta il proseguimento della strategia ucraina di colpire le infrastrutture energetiche e logistiche russe. Lo riferisce Dagens Nyheter.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Dagens Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.dn.se/varlden/stort-ukrainskt-anfall-mot-sankt-petersburg-i-natt/",
-     "angolo": "",
-     "atlas": "Sweden",
-     "t": "2026-10-18T07:41+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:41",
-   "uscita": "mattino"
-  },
-  {
    "id": "zce4807e3",
    "sez": "mondo",
    "titolo": "B-Dog, il comico a quattro zampe che sfida gli stereotipi sull'avere cani",
@@ -3658,46 +3474,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z8f24e76e",
-   "sez": "mondo",
-   "titolo": "Francia: 1200 arrestati durante disordini di inusitata intensità",
-   "orig": "Premier Francji: 1200 osób aresztowanych po zamieszkach",
-   "lead": "In Francia si susseguono disordini pubblici di scala definita senza precedenti dalle autorità locali. TVN24 riporta che il premier Sébastien Lecornu ha dichiarato 1200 persone arrestate e 150 tra poliziotti e gendarmi feriti durante i tumulti di inusitata intensità che investono il territorio francese. Lo riferisce TVN24.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "TVN24",
-     "p": "XX",
-     "c": "Varsavia",
-     "u": "https://tvn24.pl/swiat/zamieszki-we-francji-premier-sebastien-lecornu-o-aresztowaniach-st9292730?source=rss",
-     "angolo": "",
-     "atlas": "Poland",
-     "t": "2026-10-18T06:02+00:00"
-    },
-    {
-     "n": "N1 Bosnia",
-     "p": "XX",
-     "c": "Sarajevo",
-     "u": "https://n1info.ba/svijet/francuska-u-plamenu-1200-uhicenih-ozlijedjeno-150-policajaca-cudo-sto-brojke-nisu-i-vece/",
-     "angolo": "",
-     "atlas": "Bosnia and Herz.",
-     "t": "2026-10-18T07:57+02:00"
-    },
-    {
-     "n": "Mosaïque FM",
-     "p": "XX",
-     "c": "Tunisi",
-     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533819/%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D9%82%D9%88%D9%81%D9%8A%D9%86-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-150-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%A7",
-     "angolo": "",
-     "atlas": "Tunisia",
-     "t": "2026-10-17T23:00+01:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:41",
-   "uscita": "mattino"
-  },
-  {
    "id": "z603e44ca",
    "sez": "mondo",
    "titolo": "Brasile: servizi di intelligence dovranno essere controllati democraticamente",
@@ -3721,7 +3497,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "ze041a5ea",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "San Paolo: Jorge Ben Jor emoziona 50mila spettatori in concerto al Nubank Parque",
    "orig": "Jorge Ben Jor se emociona e leva público ao delírio em show cheio de alquimia",
    "lead": "Jorge Ben Jor ha eseguito un concerto carico di emozione sabato 17 ottobre al Nubank Parque di San Paolo, davanti a 50mila spettatori. Secondo Folha de S.Paulo, lo show si è distinto per l'alchimia musicale e la profonda connessione emotiva del cantante con il pubblico brasiliano. Lo riferisce Folha de S.Paulo.",
@@ -3765,7 +3541,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z7d98bfc1",
-   "sez": "ambiente",
+   "sez": "cucina",
    "titolo": "Gramado: pane con salsiccia diviene patrimonio culturale immateriale",
    "orig": "Saiba por que pão de R$ 9 virou patrimônio cultural de Gramado, principal destino turístico da Serra Gaúcha",
    "lead": "Il tradizionale pane con salsiccia venduto a 9 reais nei forni del centro di Gramado, nella Serra Gaúcha, è stato dichiarato patrimonio culturale immateriale. Secondo G1, la legge municipale valorizza la ricetta e il metodo artigianale preservato da generazioni nel principale polo turistico della regione meridionale. Lo riferisce G1.",
@@ -3853,7 +3629,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zc25c5aa2",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Nigeria eliminata dal Mondiale U17: la Polonia passa a Rabat",
    "orig": "FIFA U17 Women’s World Cup: Flamingos Fall to Poland in Rabat",
    "lead": "La Nigeria (Flamingos) ha subito una sconfitta nel Campionato mondiale Under 17 femminile di calcio in corso a Rabat, in Marocco, perdendo contro la Polonia in una partita importante del torneo. Le calciatrici nigeriane hanno cercato il pareggio nei momenti finali, ma le avversarie polacche hanno mantenuto saldamente il vantaggio fino al fischio finale. Lo riferisce Premium Times.",
@@ -3969,7 +3745,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z93e253ce",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Romania: solo uno su cinque studi dentistici convenzionati con sanità pubblica",
    "orig": "Mai puțin de unul din cinci cabinete stomatologice oferă servicii decontate prin CNAS. De ce nu vor medicii să lucreze cu Casa de Asigurări. Se întâmplă și în alte țări?",
    "lead": "In Romania solo il 21 per cento dei 17.450 studi dentistici privati offre servizi rimborsati dalla Casa di Assicurazione Sanitaria Nazionale. Molti pazienti titolari di assicurazione sanitaria faticano a trovare professionisti odontoiatrici disposti a erogare prestazioni convenzionate, creando disparità significative nell'accesso alle cure. Lo riferisce HotNews.",
@@ -4099,28 +3875,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-18T05:38+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:35",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z58f59269",
-   "sez": "mondo",
-   "titolo": "Usa: manifestazione \"No Kings\" ad Atlanta trasforma protesta in mobilitazione elettorale",
-   "orig": "\"No Kings\" : à Atlanta, une manifestation anti-Trump tournée vers les urnes",
-   "lead": "La manifestazione \"No Kings\" organizzata ad Atlanta protesta contro le politiche di Donald Trump su immigrazione, conflitti internazionali e costo della vita. A tre settimane dalle elezioni di metà mandato, il movimento intende trasformare la rabbia civica in mobilitazione elettorale per incoraggiare il voto dei cittadini americani. Lo riferisce France 24.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/vid%C3%A9o/20261018-no-kings-%C3%A0-atlanta-une-manifestation-anti-trump-tourn%C3%A9e-vers-les-urnes",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-18T01:29+00:00"
     }
    ],
    "data": "18 ott",
@@ -4419,30 +4173,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z739cc6fb",
-   "sez": "mondo",
-   "titolo": "Romania abbatte droni presumibilmente russi nel Mar Nero",
-   "orig": "Drónar sem skotnir voru niður í landhelgi Rúmeníu líklega rússneskir",
-   "lead": "Caccia F-16 rumeni hanno abbattuto due droni non identificati che volavano nel Mar Nero all'interno della zona economica esclusiva romena. Secondo i media di stato iraniani il naviglio operava in violazione e aveva disattivato i sistemi di tracciamento. Si sospetta siano droni russi. Lo riferisce RÚV.",
-   "more": [
-    "La Romania, che confina con l'Ucraina per 614 chilometri, registra incursioni regolari di droni russi dal febbraio 2022 inizio dell'invasione."
-   ],
-   "fonti": [
-    {
-     "n": "RÚV",
-     "p": "XX",
-     "c": "Reykjavík",
-     "u": "https://www.ruv.is/frettir/erlent/2026-10-18-dronar-sem-skotnir-voru-nidur-i-landhelgi-rumeniu-liklega-russneskir-490263/",
-     "angolo": "",
-     "atlas": "Iceland",
-     "t": "2026-10-18T05:24+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:35",
-   "uscita": "mattino"
-  },
-  {
    "id": "z07ae1bef",
    "sez": "mondo",
    "titolo": "JD Vance accusa gli immigrati dei disordini in Francia",
@@ -4650,7 +4380,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "za3a9e658",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "La Germania aumenta progressivamente le tasse sul tabacco",
    "orig": "Nemačka postepeno povećava porez na duvan: Paklica cigareta biće i do 14 evra",
    "lead": "La Germania aumenterà gradualmente le tasse sul tabacco nei prossimi anni, con il prezzo di un pacchetto di sigarette che potrebbe raggiungere fino a 14 euro. Il Bundestag ha approvato la modifica della legge fiscale in una votazione notturna fra giovedì e venerdì. Lo riferisce N1 Serbia.",
@@ -4666,28 +4396,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-18T07:28+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:35",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zbd9dbd92",
-   "sez": "mondo",
-   "titolo": "Disordini durante manifestazioni in Francia contro il costo della vita",
-   "orig": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-   "lead": "Disordini hanno segnato una giornata nazionale di proteste in Francia mentre il movimento studentesco si allarga a livello nazionale. Migliaia di persone hanno manifestato pacificamente contro il costo della vita e le scarse condizioni scolastiche, mentre nuclei di manifestanti hanno incendiato proprietà e scontrato con le forze dell'ordine. Lo riferisce il New York Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-17T22:06+00:00"
     }
    ],
    "data": "18 ott",
@@ -5374,28 +5082,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z48bf7184",
-   "sez": "mondo",
-   "titolo": "L'esercito israeliano ha ignorato le richieste di soccorso durante gli attacchi dei coloni per due ore",
-   "orig": "Israeli military sat on distress calls about settler attacks for two hours, report says",
-   "lead": "Secondo una denuncia del quotidiano Haaretz, l'esercito israeliano ha ignorato per quasi due ore le chiamate di soccorso di attivisti minacciati da coloni nella Cisgiordania occupata, non intervenendo fino al termine dell'attacco su diplomatici e altri civili. La questione solleva preoccupazioni sulla responsabilità militare nei confronti dei cittadini. Lo riferisce Middle East Eye.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Middle East Eye",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-sat-distress-calls-about-settler-attacks-two-hours",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-18T03:44+01:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:35",
-   "uscita": "mattino"
-  },
-  {
    "id": "zf82ef285",
    "sez": "mondo",
    "titolo": "Una famiglia paga 1,79 milioni per una casa a Newport, 10.000 sotto la riserva",
@@ -5691,20 +5377,7 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Pakistan",
      "t": "2026-10-18T01:25+05:00"
-    }
-   ],
-   "data": "17 ott",
-   "ora": "08:31",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z815bb559",
-   "sez": "economia",
-   "titolo": "Il commercio al valico di Taftan si blocca completamente",
-   "orig": "Trade at Taftan comes to a grinding halt",
-   "lead": "Il traffico commerciale al confine di Taftan tra Pakistan e Iran si è fermato dopo che il cancello di immigrazione è stato chiuso su istruzioni di alti funzionari di Islamabad. La misura, collegata alla sospensione dei corridoi commerciali con l'Iran annunciata dal ministero del Commercio pakistano, blocca uno dei principali punti di scambio tra i due paesi. Lo riferisce The Express Tribune.",
-   "more": [],
-   "fonti": [
+    },
     {
      "n": "The Express Tribune",
      "p": "XX",
@@ -6384,6 +6057,68 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-17T22:19+02:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/flashes/il-crollo-del-municipio-di-limoges-dato-alle-fiamme-durante-le-proteste-in-francia/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T20:58+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ausland/unruhen-bei-protesten-in-frankreich-entsetzliches-ausmass-an-gewalt-accg-201596707.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T03:30+00:00"
+    },
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/international_general/1282893.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T22:06+00:00"
+    },
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/swiat/zamieszki-we-francji-premier-sebastien-lecornu-o-aresztowaniach-st9292730?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T06:02+00:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/francuska-u-plamenu-1200-uhicenih-ozlijedjeno-150-policajaca-cudo-sto-brojke-nisu-i-vece/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T07:57+02:00"
+    },
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533819/%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D9%82%D9%88%D9%81%D9%8A%D9%86-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-150-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%A7",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T23:00+01:00"
     }
    ],
    "data": "18 ott",
@@ -6566,7 +6301,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zdda9162c",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Governor's Cup: Talisay e Naga continuano imbattute, Lacuna domina con 35 punti",
    "orig": "Gov's Cup: Talisay, Naga stay unbeaten at 3-0; Lacuna drops 35 in Boljoon win",
    "lead": "Nel torneo di basket U18 Coppa del Governatore nelle Filippine, Talisay City e Naga City rimangono imbattute dopo tre giornate di gara. I campioni in carica di Talisay hanno travolto il Municipio di Badian 88-42, mentre Boljoon ha beneficiato della prestazione da 35 punti di Lacuna nella vittoria. Lo riferisce Philippine Daily Inquirer.",
@@ -6661,7 +6396,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zb3680912",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Calcio Uruguay: Nacional sfida Maldonado, rivale complicato della stagione",
    "orig": "Nacional ante Deportivo Maldonado, el rival que más lo complicó este año y le hizo 7 goles, en un nuevo desafío para la racha de Daniel Carreño",
    "lead": "Nacional affronterà lunedì il Deportivo Maldonado, squadra che in questa stagione ha dimostrato di essere un avversario particolarmente complicato, segnando sette gol contro la formazione tricolore in precedenti confronti. La sfida rappresenta un nuovo test cruciale per confermare la continuità positiva della squadra allenata da Daniel Carreño. Lo riferisce El Observador.",
@@ -6829,7 +6564,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zc6890b33",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Senegal: campionato triathlon in preparazione alle Olimpiadi della gioventù",
    "orig": "Triathlon : Une journée de championnat pour peaufiner la préparation des JOJ Dakar 2026",
    "lead": "La Federazione senegalese di triathlon ha organizzato domenica 18 ottobre una giornata di campionato nazionale a Pointe Sarène in preparazione dei Giochi olimpici della gioventù Dakar 2026, in programma dal 31 ottobre al 13 novembre. L'evento permette agli atleti di affinare la preparazione per la competizione olimpica. Lo riferisce Le Soleil.",
@@ -6966,7 +6701,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z9fec70d0",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Pakistan: governo adotta misure contro l'accaparramento di gas in vista dell'inverno",
    "orig": "Govt moves to curb LPG hoarding ahead of winter",
    "lead": "Il governo pakistano ha adottato misure coordinate per contrastare l'accaparramento di gas di petrolio liquefatto in vista dell'imminente stagione invernale. La Divisione del petrolio ha segnalato sollevamenti irregolari di Gpl importato dai terminal, mentre l'Autorità di regolamentazione petrolifera è stata incaricata di garantire forniture ai prezzi notificati. Lo riferisce Dawn.",
@@ -7135,6 +6870,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-10-18T03:30+01:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445426/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T08:08+02:00"
     }
    ],
    "data": "18 ott",
@@ -7191,7 +6935,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z62e5cc6e",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "La band bluegrass ceca Druhá tráva festeggia 35 anni con concerto a Praga",
    "orig": "Bluegrass band Druhá tráva to mark 35 years with major concert",
    "lead": "La band bluegrass ceca Druhá tráva, attiva dal 1991 con Robert Křesťan come membro fondamentale, celebra il significativo traguardo di 35 anni di carriera musicale. I festeggiamenti per questo importante anniversario culmineranno con un grande concerto spettacolo previsto nella capitale ceca di Praga. Lo riferisce Radio Prague International.",
@@ -7213,7 +6957,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z24a27bcf",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Arizona Wildcats vincono gara di controllo con Krivas autore di una doppia doppia",
    "orig": "Kontrolinėse rungtynėse – galingas Krivo dvigubas dviženklis ir „Wildcats“ pergalė",
    "lead": "La squadra di basket Arizona Wildcats ha vinto la gara di controllo grazie alla prestazione di Motiejus Krivas, autore di una doppia doppia nel primo tempo di stagione. Lo riferisce LRT da Vilnius.",
@@ -7510,28 +7254,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zfbe91a92",
-   "sez": "mondo",
-   "titolo": "Forze ucraine effettuano attacchi con droni su San Pietroburgo e regione Leningrado",
-   "orig": "Украинските сили извршија напади со дронови врз Санкт Петербург и Ленинградската област",
-   "lead": "Le forze armate ucraine hanno lanciato nella notte un attacco coordinato con droni verso San Pietroburgo e la regione di Leningrado, secondo quanto comunicato dal governatore locale Aleksandr Drozdenko. L'operazione fa parte della strategia ucraina di colpire infrastrutture strategiche russe nel conflitto in corso. Lo riferisce MIA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "MIA (inglese)",
-     "p": "XX",
-     "c": "Skopje",
-     "u": "https://mia.mk/story/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D1%81%D0%B8%D0%BB%D0%B8-%D0%B8%D0%B7%D0%B2%D1%80%D1%88%D0%B8%D1%98%D0%B0-%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4%D0%B8-%D1%81%D0%BE-%D0%B4%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8-%D0%B2%D1%80%D0%B7-%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82",
-     "angolo": "",
-     "atlas": "Macedonia",
-     "t": "2026-10-18T08:05+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:31",
-   "uscita": "mattino"
-  },
-  {
    "id": "z58211f59",
    "sez": "mondo",
    "titolo": "Primo ministro Fiji valuta preoccupazioni pubbliche su immunità costituzionale",
@@ -7597,6 +7319,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-10-17T22:16+00:00"
+    },
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-18-dronar-sem-skotnir-voru-nidur-i-landhelgi-rumeniu-liklega-russneskir-490263/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-18T05:24+00:00"
     }
    ],
    "data": "18 ott",
@@ -7647,39 +7378,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "data": "18 ott",
    "ora": "08:31",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z7e719013",
-   "sez": "italia",
-   "titolo": "Meloni attacca la sinistra sulle violenze, il Pd risponde",
-   "orig": "Meloni contro la sinistra: “Basta essere ambigui”, il Pd: “No alle violenze”",
-   "lead": "La premier Giorgia Meloni ha attaccato le opposizioni di sinistra dopo i violenti scontri avvenuti durante le manifestazioni di ieri a Milano, Bologna, Torino e Bergamo, che hanno causato 5 agenti feriti e 50 fermati. Meloni ha chiesto che le opposizioni condannino senza ambiguità la violenza, affermando che \"non si possono tenere in ostaggio le città\". Il Pd ha risposto dicendo \"no alle violenze\", respingendo le accuse di ambiguità.",
-   "more": [
-    "Le tensioni tra governo e opposizioni sulle manifestazioni di piazza si inseriscono in un clima politico già acceso, in un periodo di proteste sociali legate a temi di politica estera ed economica in diverse città italiane."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/politica/2026/10/18/news/scontri_manifestazione_reazioni_meloni_centrosinistra_cgil-425655638/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-17T23:00+00:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/meloni-manifestare-e-un-diritto-le-violenze-non-lo-sono-31792858-7848-4ade-8d8b-53746e6abe19.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T00:23+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:26",
    "uscita": "mattino"
   },
   {
@@ -7823,6 +7521,14 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Japan",
      "t": "2026-10-18T13:58+09:00"
+    },
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/sports/baseball/1282892.html",
+     "angolo": "",
+     "atlas": "South Korea"
     }
    ],
    "data": "18 ott",
@@ -8196,7 +7902,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z8b20478b",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Céline Dion chiude in bellezza la sua prima serie di concerti a Parigi",
    "orig": "Céline Dion clôt en beauté sa première série de concerts à Paris : « Je m’ennuie déjà de vous ! »",
    "lead": "Céline Dion ha concluso a Parigi la sua prima serie di concerti dopo il ritorno sulle scene, con un totale di 16 spettacoli tenuti dal 12 settembre al Plenitude Arena. La cantante ha salutato il pubblico con parole di commozione, dicendo di sentirne già la mancanza. Secondo altre fonti, più di mezzo milione di spettatori hanno assistito agli show, tra cui personalità note come Michelle Obama, Rihanna, Zinedine Zidane, Julia Roberts e Zendaya. Dion ha definito l'esperienza la realizzazione di un sogno.",
@@ -9155,6 +8861,14 @@ window.EDIZIONI["2026-10-18"] = {
      "u": "https://www.ilmessaggero.it/sport/as_roma/gasperini_sapevo_avremmo_reagito_dopo_real_giovani_dybala_spero_di_averlo_napoli-9831777.html",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/as_roma/de_rossi_roma_casa_ma_cerchero_sempre_di_batterla_nostro_destino_finche_saremo_diversi-9831779.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "",
@@ -9205,6 +8919,24 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Greece",
      "t": "2026-10-18T05:43+00:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D1%81%D0%B8%D0%BB%D0%B8-%D0%B8%D0%B7%D0%B2%D1%80%D1%88%D0%B8%D1%98%D0%B0-%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4%D0%B8-%D1%81%D0%BE-%D0%B4%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8-%D0%B2%D1%80%D0%B7-%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T08:05+02:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/stort-ukrainskt-anfall-mot-sankt-petersburg-i-natt/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T07:41+02:00"
     }
    ],
    "data": "",
@@ -9232,27 +8964,6 @@ window.EDIZIONI["2026-10-18"] = {
     }
    ],
    "data": "18 ott",
-   "ora": "08:26",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zd9faa6db",
-   "sez": "sport",
-   "titolo": "De Rossi torna all'Olimpico e cade di nuovo contro la sua Roma",
-   "orig": "De Rossi: «Roma è casa mia, ma cercherò sempre di batterla. È il nostro destino finché saremo diversi»",
-   "lead": "Daniele De Rossi è tornato all'Olimpico da allenatore del Genoa, accolto con affetto dai tifosi giallorossi prima del fischio d'inizio. Come già un anno fa, la sua squadra è uscita battuta 2-0 dalla Roma, suo ex club da giocatore e simbolo della sua carriera. De Rossi ha definito la Capitale «casa mia», pur ribadendo l'impegno a batterla sempre quando si affrontano. Lo riferisce Il Messaggero.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Messaggero – Sport",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/sport/as_roma/de_rossi_roma_casa_ma_cerchero_sempre_di_batterla_nostro_destino_finche_saremo_diversi-9831779.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
    "ora": "08:26",
    "uscita": "mattino"
   },
@@ -9397,6 +9108,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-17T22:29+02:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-sat-distress-calls-about-settler-attacks-two-hours",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T03:44+01:00"
     }
    ],
    "data": "18 ott",
@@ -9448,6 +9168,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-17T14:26-04:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261018-no-kings-%C3%A0-atlanta-une-manifestation-anti-trump-tourn%C3%A9e-vers-les-urnes",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T01:29+00:00"
     }
    ],
    "data": "18 ott",
@@ -9567,6 +9296,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Sweden",
      "t": "2026-10-18T07:09+02:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/18/trump-exempte-la-russie-de-nouvelles-sanctions-alors-que-moscou-cible-les-infrastructures-energetiques-ukrainiennes_6796993_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T06:00+02:00"
     }
    ],
    "data": "18 ott",
@@ -9663,6 +9401,24 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Hungary",
      "t": "2026-10-18T07:47+02:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/18/news/scontri_manifestazione_reazioni_meloni_centrosinistra_cgil-425655638/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T23:00+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/meloni-manifestare-e-un-diritto-le-violenze-non-lo-sono-31792858-7848-4ade-8d8b-53746e6abe19.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T00:23+00:00"
     }
    ],
    "data": "18 ott",
@@ -9727,7 +9483,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z101d73f8": "Le testate italiane concordano nel definire la giornata una vera guerriglia urbana, sottolineando l'ampiezza dei disordini e il numero elevato di feriti e fermati.",
   "ze172d5f5": "La BBC adotta un approccio narrativo basato sulle testimonianze dirette di chi vive la crisi, dai consumatori agli operatori del settore, per restituire la complessità del fenomeno.",
   "z7944099e": "Al Jazeera adotta una prospettiva attenta alle condizioni di vita della popolazione tunisina, mettendo in luce il contrasto tra le promesse post-rivoluzionarie e la realtà attuale.",
-  "z7e719013": "Repubblica mette in evidenza lo scontro politico tra Meloni e il Pd sulla condanna delle violenze.",
   "z18475058": "Repubblica evidenzia la nuova minaccia di Putin come ostacolo ai negoziati di pace.",
   "z0ba34710": "ANSA riporta le parole di Landini sulla richiesta di risposte concrete nella manovra.",
   "z63e7cf15": "DW si concentra sulle misure delle autorità dopo la tragedia durante le festività.",
@@ -9788,7 +9543,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z3d6fc289": "La testata celebra la reazione della Roma dopo la sconfitta europea, evidenziando il traguardo personale di Gasperini.",
   "z74d19907": "La testata collega l'attacco alle tensioni diplomatiche sulle sanzioni statunitensi alla Russia.",
   "zf0bd802b": "La testata mette in luce un divario sociale legato al reddito ma non riducibile solo a esso.",
-  "zd9faa6db": "La testata enfatizza il legame affettivo di De Rossi con la Roma nonostante la sconfitta da avversario.",
   "zeef8fb5a": "La testata presenta l'incontro come segnale di interesse statunitense verso le risorse energetiche nordafricane.",
   "zc2ce2f9f": "La testata sottolinea la pressione politica sulle banche per i ripetuti episodi di violazione dati.",
   "zbdc2ab60": "La testata evidenzia la scelta del Marocco come sede dei test militari statunitensi anti-drone.",
@@ -9796,7 +9550,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zd4e281c9": "La testata inquadra l'annuncio cinese come una minaccia concreta al dominio dei produttori coreani e americani.",
   "z4ada9875": "La testata sottolinea il forte interesse dei consumatori nonostante i lunghi tempi di attesa per la consegna.",
   "za0f39a39": "La testata riporta la decisione ufficiale citando direttamente il memorandum ministeriale.",
-  "z815bb559": "La testata riporta fonti interne che segnalano l'origine della decisione nelle alte sfere del governo.",
   "zfed0f7fb": "La testata collega l'aumento dei prezzi alla dipendenza nepalese dalle importazioni cinesi.",
   "z9d0bf370": "Gulf News fa il punto sui dati economici del semestre a Dubai.",
   "zeb04af4c": "Daily News Egypt riporta i contenuti dell'incontro governativo sul piano economico.",
@@ -9857,7 +9610,6 @@ window.EDIZIONI["2026-10-18"] = {
   "ze4c0c215": "Monitoraggio di un evento meteorologico che minaccia comunità nel Pacifico",
   "z8fcec697": "Iniziativa di Hong Kong per attrarre investimenti farmaceutici e ricerca medica",
   "z3cb7753c": "Testimonianza diretta sulla portata geografica dei disordini urbani",
-  "zfbe91a92": "Rapporto sulla continuazione dei bombardamenti ucraini su obiettivi russi",
   "z58211f59": "Discussione del processo consultivo sulla modifica costituzionale",
   "zc88e1803": "Impatto della guerra sulla catena di fornitura automobilistica europea",
   "zd1cdef61": "Reazione della difesa aerea NATO alla proliferazione di droni d'attacco",
@@ -9874,7 +9626,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z8ea9bcff": "Notizia su interventi di cooperazione internazionale per lo sviluppo in area colpita da insicurezza alimentare",
   "ze4aacfa1": "Breve segnalazione di operazione militare aerea in zona di conflitto armato",
   "z53cb472e": "Notizia su ciclo arresto-liberazione di leader attivista di movimento radicale",
-  "z58f59269": "Profilo di movimento di protesta che canalizza scontento verso partecipazione democratica",
   "z243db602": "Aggiornamento anniversario su furto di importanza storica rimasto irrisolto",
   "zb4d25a55": "Cronaca di scontri tra polizia e studenti durante manifestazioni contro riforme educative",
   "z3024853b": "Bollettino domenicale che sottolinea il ritorno del Pontefice alle funzioni ordinarie dopo la convalescenza.",
@@ -9887,7 +9638,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zc02d1eb9": "Cronaca della ripresa produttiva in un sito chiave per la transizione energetica europea dopo il default aziendale.",
   "z4214c416": "Storia di cittadinanza attiva che si trasforma in vocazione professionale nel soccorso pubblico.",
   "z56dd1318": "Inchiesta sul conflitto tra domanda tecnologica globale e reticenza locale verso l'infrastruttura digitale.",
-  "z739cc6fb": "Cronaca dell'intensificazione dei conflitti aerei nei cieli contesi del Mar Nero.",
   "z07ae1bef": "Dichiarazione politica che lega migrazioni internazionali a instabilità civile in Europa.",
   "z1f862b63": "Mossa di contenimento legale contro manifestazioni di protesta politica e culturale.",
   "z76eea3e1": "Analisi economica degli effetti recessivi di politiche di riduzione della spesa sociale.",
@@ -9898,7 +9648,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z6265a16a": "Il Financial Times fotografa il caos interno della nuova amministrazione americana attraverso il fallimento della strategia comunicativa.",
   "z2a247c44": "Il Financial Times collega l'ascesa politica dell'AfD alle implicazioni economiche e agli allarmi degli investitori tedeschi e internazionali.",
   "za3a9e658": "N1 Serbia riporta i dettagli tecnici della riforma fiscale tedesca e gli impatti economici attesi sul mercato del tabacco.",
-  "zbd9dbd92": "Il New York Times documenta il contrasto fra le proteste pacifiche di massa e i nuclei di violenza urbana durante le manifestazioni francesi.",
   "z82c5034a": "Libya Herald riporta gli sviluppi politici del governo riconosciuto di Tripoli nel processo di ripresa istituzionale libica.",
   "z703f88aa": "Citizen Digital evidenzia la posizione critica della vicepresidenza kenyana verso la qualità dell'esecuzione dei progetti pubblici.",
   "zb2251c8b": "South China Morning Post sottolinea il ruolo di Hong Kong come centro di dibattito internazionale su educazione, umanesimo e tecnologia.",
@@ -9929,7 +9678,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zb3f7c556": "Comunicazione delle scelte politiche nazionali di medio termine",
   "z4cc979d9": "Analisi della strategia nucleare americana nei confronti dell'Iran",
   "z642d3318": "Copertura dei progressi nel processo di pace nello Yemen",
-  "z48bf7184": "Inchiesta sulla responsabilità militare e protezione dei civili",
   "zf82ef285": "Report sul mercato immobiliare australiano durante la trasparenza delle riserve",
   "z7dcb156f": "Analisi visiva della personalità presidenziale americana attraverso il fotoggiornalismo",
   "zc680e6ee": "Esame critico della preparazione militare britannica e della volontà civile",
@@ -9971,16 +9719,13 @@ window.EDIZIONI["2026-10-18"] = {
   "zdcd0f415": "Cronaca sportiva locale su campionato calcistico eswatiniano.",
   "zcd99c223": "Dichiarazioni ufficiali su questione di credibilità accademica.",
   "z5a9deb07": "Analisi della retorica presidenziale trumpiana sui risultati geopolitici.",
-  "zf5c845cb": "Cronaca sportiva boliviana su match calcistico cruciale.",
   "z14684bb7": "Dichiarazioni rassicuranti da banca centrale su accesso ai depositi e riserve.",
-  "z44ea07f4": "Analisi critica della linea geopolitica trumpiana verso Russia e impatto domestico.",
   "z69a96e99": "Reportage su movimento di protesta diffuso negli Usa con focus su tensioni emotive.",
   "z43563e16": "Profilo politico critico su figura militare e politica controversa.",
   "z4b2efa94": "Dichiarazioni governative di difesa della gestione dell'ordine pubblico.",
   "z3aba28c3": "Reportage su dinamiche tattiche dei manifestanti e loro penetrazione nelle aree protette.",
   "zeb265b28": "Analisi del dibattito politico su interpretazione e responsabilità dei disordini.",
   "zd3eb5c17": "Cronaca di scontri regionali tra forze iraniane e saudite per procura.",
-  "z4e1847af": "Cronaca di disordini con commenti governativi sulla gravità della situazione.",
   "zb7fbbc89": "Analisi critica di retorica campagna francese su rivalità franco-tedesca.",
   "z333571ef": "Profilo biografico di figura imprenditoriale di spicco legata all'establishment tedesco.",
   "zcf9fd1c0": "Analisi critica del vuoto politico nel governo francese di fronte alle spinte estremiste.",
@@ -10002,10 +9747,8 @@ window.EDIZIONI["2026-10-18"] = {
   "z6c999724": "Focus sugli effetti tangibili del riscaldamento climatico sui calendari e i budget dello sport professionistico",
   "z324aeccc": "Reportage su rivalità geopolitiche emergenti attorno alle risorse e alle rotte artiche",
   "zf48e51db": "Inchiesta sulla capacità della tecnologia di contrastare pratiche commerciali basate sull'inerzia consumatrice",
-  "zf330b988": "Resoconto di operazioni militari notturne nell'ambito del conflitto Russia-Ucraina",
   "zce4807e3": "Feature umoristico su personaggio canino utilizzato come strumento di satira sociale",
   "z88524a47": "Avviso pubblico su interventi infrastrutturali con effetti sulla viabilità nazionale",
-  "z8f24e76e": "Notizia su escalation di disordini civili francesi con violenti scontri e operazioni di ordine pubblico",
   "z603e44ca": "Editoriale sulla necessità di equilibrio fra sicurezza nazionale e diritti civili nei servizi segreti",
   "ze041a5ea": "Cronaca di evento culturale e reazione emotiva del pubblico a performance artistica",
   "zb7108a4e": "Cronaca di match di calcio brasiliano con implicazioni sulla classifica stagionale",
@@ -10054,7 +9797,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zeec7a2ab": "Reportage su controversia amministrativa e securitaria riguardante conflitti territoriali.",
   "zc9aa5bef": "Notizia di iniziativa ambientale e pulizia urbana coordinata dalle autorità locali.",
   "z6671b4bd": "Copertura parlamentare di progetto infrastrutturale nazionale con vincoli finanziari.",
-  "z843101fb": "Resoconto sulla transizione politica di partito di opposizione camerunese.",
   "z53f41fef": "Notizia di elezione con enfasi sul rinnovamento generazionale della leadership.",
   "z8ef20e22": "Reportage su questione di diritti umani e applicazione della giustizia penale.",
   "zf98bc167": "Resoconto di negoziazioni diplomatiche internazionali su conflitto e questioni energetiche.",
@@ -10075,16 +9817,12 @@ window.EDIZIONI["2026-10-18"] = {
   "z8fb3fa50": "La testata informa i cittadini sulle conseguenze dei lavori di manutenzione stradale.",
   "zb16d234d": "La testata olandese riporta il commento del presidente americano sulla guerra geopolitica.",
   "zb29bd489": "La testata boliviana documenta l'operazione di contrasto al traffico illegale di carburante.",
-  "z141792bc": "La testata italiana documenta uno degli episodi di distruzione più gravi avvenuti durante le manifestazioni francesi.",
   "z55866ff3": "La testata riporta la posizione difensiva dell'esecutivo sul tema della crisi abitativa.",
   "z04e5ae48": "La testata documenta la persistenza dei disordini nonostante l'ultimatum.",
-  "z1663f65e": "La testata austriaca riferisce sulla modalità di protesta adottata dal movimento.",
   "zec3cd3ea": "La testata austriaca riferisce sui piani economici del governo venezuelano.",
   "z636cd01e": "La testata danese riferisce sulla stabilizzazione della situazione idraulica.",
   "zb0228077": "La testata sudcoreana riferisce le speculazioni politiche sulla situazione del presidente.",
   "zfc2449e1": "La testata sudcoreana documenta i problemi di credibilità finanziaria nel sistema bancario nazionale.",
-  "z96f2b007": "La testata coreana segue gli sviluppi delle proteste in Europa con particolare attenzione ai movimenti di piazza.",
-  "z1e67a136": "La testata coreana copre gli sviluppi delle competizioni sportive americane di rilievo.",
   "z3b9f49ec": "The Hindu documenta il movimento di protesta giovanile contro le istituzioni federali indiane.",
   "z0b79a451": "Times of India traccia la mobilitazione della diaspora indiana e l'attivismo oltre i confini nazionali.",
   "z30c4cc8e": "Taipei Times riferisce sui flussi di viaggio tra Taiwan e la Cina continentale come indicatore di dinamiche regionali.",
@@ -10418,13 +10156,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Tunisia",
    "p": [
     "Tunisia"
-   ],
-   "pt": []
-  },
-  "z7e719013": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -10839,13 +10570,6 @@ window.EDIZIONI["2026-10-18"] = {
    "p": [],
    "pt": []
   },
-  "zd9faa6db": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zeef8fb5a": {
    "n": "Tripoli",
    "p": [
@@ -10890,13 +10614,6 @@ window.EDIZIONI["2026-10-18"] = {
   },
   "za0f39a39": {
    "n": "Balochistan",
-   "p": [
-    "Pakistan"
-   ],
-   "pt": []
-  },
-  "z815bb559": {
-   "n": "Taftan",
    "p": [
     "Pakistan"
    ],
@@ -11315,13 +11032,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "zfbe91a92": {
-   "n": "San Pietroburgo",
-   "p": [
-    "Russia"
-   ],
-   "pt": []
-  },
   "z58211f59": {
    "n": "Fiji",
    "p": [
@@ -11434,13 +11144,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z58f59269": {
-   "n": "Atlanta",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z243db602": {
    "n": "Parigi",
    "p": [
@@ -11526,13 +11229,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z739cc6fb": {
-   "n": "Romania",
-   "p": [
-    "Romania"
-   ],
-   "pt": []
-  },
   "z07ae1bef": {
    "n": "Francia",
    "p": [
@@ -11601,13 +11297,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Germania",
    "p": [
     "Germany"
-   ],
-   "pt": []
-  },
-  "zbd9dbd92": {
-   "n": "Francia",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -11815,13 +11504,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Yemen",
    "p": [
     "Yemen"
-   ],
-   "pt": []
-  },
-  "z48bf7184": {
-   "n": "Cisgiordania",
-   "p": [
-    "Palestine"
    ],
    "pt": []
   },
@@ -12114,24 +11796,10 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "zf5c845cb": {
-   "n": "La Paz",
-   "p": [
-    "Bolivia"
-   ],
-   "pt": []
-  },
   "z14684bb7": {
    "n": "La Paz",
    "p": [
     "Bolivia"
-   ],
-   "pt": []
-  },
-  "z44ea07f4": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -12174,13 +11842,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Riyadh",
    "p": [
     "Saudi Arabia"
-   ],
-   "pt": []
-  },
-  "z4e1847af": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -12331,13 +11992,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "zf330b988": {
-   "n": "San Pietroburgo",
-   "p": [
-    "Russia"
-   ],
-   "pt": []
-  },
   "zce4807e3": {
    "n": "Stoccolma",
    "p": [
@@ -12349,13 +12003,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Varsavia",
    "p": [
     "Poland"
-   ],
-   "pt": []
-  },
-  "z8f24e76e": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -12696,13 +12343,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z843101fb": {
-   "n": "Yaoundé",
-   "p": [
-    "Cameroon"
-   ],
-   "pt": []
-  },
   "z53f41fef": {
    "n": "Yaoundé",
    "p": [
@@ -12844,13 +12484,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z141792bc": {
-   "n": "Limoges",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z55866ff3": {
    "n": "Lisbona",
    "p": [
@@ -12859,13 +12492,6 @@ window.EDIZIONI["2026-10-18"] = {
    "pt": []
   },
   "z04e5ae48": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal"
-   ],
-   "pt": []
-  },
-  "z1663f65e": {
    "n": "Lisbona",
    "p": [
     "Portugal"
@@ -12897,20 +12523,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Seul",
    "p": [
     "South Korea"
-   ],
-   "pt": []
-  },
-  "z96f2b007": {
-   "n": "Francia",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "z1e67a136": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -13042,7 +12654,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z101d73f8": 3,
   "ze172d5f5": 2,
   "z7944099e": 2,
-  "z7e719013": 2,
   "z18475058": 1,
   "z0ba34710": 2,
   "z63e7cf15": 1,
@@ -13103,7 +12714,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z3d6fc289": 1,
   "z74d19907": 2,
   "zf0bd802b": 1,
-  "zd9faa6db": 1,
   "zeef8fb5a": 1,
   "zc2ce2f9f": 1,
   "zbdc2ab60": 1,
@@ -13111,7 +12721,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zd4e281c9": 2,
   "z4ada9875": 2,
   "za0f39a39": 2,
-  "z815bb559": 1,
   "zfed0f7fb": 1,
   "z9d0bf370": 1,
   "zeb04af4c": 1,
@@ -13172,7 +12781,6 @@ window.EDIZIONI["2026-10-18"] = {
   "ze4c0c215": 1,
   "z8fcec697": 1,
   "z3cb7753c": 1,
-  "zfbe91a92": 1,
   "z58211f59": 1,
   "zc88e1803": 1,
   "zd1cdef61": 1,
@@ -13189,7 +12797,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z8ea9bcff": 1,
   "ze4aacfa1": 1,
   "z53cb472e": 1,
-  "z58f59269": 1,
   "z243db602": 1,
   "zb4d25a55": 2,
   "z3024853b": 1,
@@ -13202,7 +12809,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zc02d1eb9": 1,
   "z4214c416": 1,
   "z56dd1318": 1,
-  "z739cc6fb": 1,
   "z07ae1bef": 1,
   "z1f862b63": 1,
   "z76eea3e1": 1,
@@ -13213,7 +12819,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z6265a16a": 1,
   "z2a247c44": 1,
   "za3a9e658": 1,
-  "zbd9dbd92": 1,
   "z82c5034a": 1,
   "z703f88aa": 1,
   "zb2251c8b": 1,
@@ -13244,7 +12849,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zb3f7c556": 1,
   "z4cc979d9": 1,
   "z642d3318": 1,
-  "z48bf7184": 1,
   "zf82ef285": 1,
   "z7dcb156f": 1,
   "zc680e6ee": 1,
@@ -13286,16 +12890,13 @@ window.EDIZIONI["2026-10-18"] = {
   "zdcd0f415": 1,
   "zcd99c223": 1,
   "z5a9deb07": 1,
-  "zf5c845cb": 1,
   "z14684bb7": 1,
-  "z44ea07f4": 1,
   "z69a96e99": 2,
   "z43563e16": 1,
   "z4b2efa94": 1,
   "z3aba28c3": 1,
   "zeb265b28": 1,
   "zd3eb5c17": 2,
-  "z4e1847af": 1,
   "zb7fbbc89": 1,
   "z333571ef": 1,
   "zcf9fd1c0": 1,
@@ -13317,10 +12918,8 @@ window.EDIZIONI["2026-10-18"] = {
   "z6c999724": 1,
   "z324aeccc": 1,
   "zf48e51db": 1,
-  "zf330b988": 1,
   "zce4807e3": 1,
   "z88524a47": 1,
-  "z8f24e76e": 2,
   "z603e44ca": 1,
   "ze041a5ea": 1,
   "zb7108a4e": 1,
@@ -13369,7 +12968,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zeec7a2ab": 1,
   "zc9aa5bef": 1,
   "z6671b4bd": 1,
-  "z843101fb": 1,
   "z53f41fef": 1,
   "z8ef20e22": 2,
   "zf98bc167": 2,
@@ -13390,16 +12988,12 @@ window.EDIZIONI["2026-10-18"] = {
   "z8fb3fa50": 1,
   "zb16d234d": 1,
   "zb29bd489": 1,
-  "z141792bc": 1,
   "z55866ff3": 1,
   "z04e5ae48": 1,
-  "z1663f65e": 1,
   "zec3cd3ea": 1,
   "z636cd01e": 1,
   "zb0228077": 1,
   "zfc2449e1": 1,
-  "z96f2b007": 1,
-  "z1e67a136": 1,
   "z3b9f49ec": 1,
   "z0b79a451": 1,
   "z30c4cc8e": 1,
