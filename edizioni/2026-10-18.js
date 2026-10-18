@@ -3,6 +3,1807 @@ window.EDIZIONI["2026-10-18"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z14f2c1a0",
+   "sez": "mondo",
+   "titolo": "Elezioni Usa, Trump minaccia legge marziale se sconfitta alle midterm",
+   "orig": "L’ultima minaccia Maga: “Pronta la legge marziale se perdiamo le midterm”",
+   "lead": "Trump avrebbe fatto preparare misure straordinarie, inclusa la legge marziale, nel caso ritenesse truccate le elezioni di midterm statunitensi. Secondo le indiscrezioni di Axios, il rischio riguarderebbe scenari analoghi al 6 gennaio 2021, quando sostenitori di Trump assaltarono il Campidoglio. Lo riferisce la Repubblica.",
+   "more": [
+    "Le midterm di metà mandato rappresentano una prova storica di popolarità presidenziale negli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/18/news/trump_legge_marziale_elezioni_midterm-425655541/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T01:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z39d4c63c",
+   "sez": "mondo",
+   "titolo": "Iran, Araghchi ribadisce disponibilità al dialogo nel rispetto reciproco",
+   "orig": "Guerra Iran, Araghchi: \"Paese non cede a pressioni ma pronto al dialogo\". LIVE",
+   "lead": "Il ministro degli Esteri iraniano Araghchi ha ribadito la disponibilità al dialogo nel rispetto reciproco durante il Consiglio dei Ministri dell'Organizzazione della Cooperazione Islamica, respingendo pressioni e minacce. Nel frattempo la Croce Rossa comunica che gli Houthi hanno liberato 159 prigionieri combattenti schierati con il governo yemenita. Lo riferisce Sky TG24.",
+   "more": [
+    "Le dichiarazioni arrivano in contesto di crescenti tensioni regionali in Medio Oriente."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/2026/10/18/guerra-iran-usa-trump-news-diretta",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z12df611a",
+   "sez": "mondo",
+   "titolo": "Marocco, Chahid nominato ministro del Lavoro dall'opposizione sindacale al governo",
+   "orig": "From opposition to Government: Morocco’s new Employment Minister faces a test of his own convictions",
+   "lead": "Abderrahim Chahid, ex leader sindacale e attivista per i diritti umani nelle oasi del Draa sud-orientale, è stato nominato ministro del Lavoro e Dialogo Sociale. Ha costruito una carriera lontano dai tradizionali centri di potere di Rabat, attraverso sindacalismo e advocacy comunitaria nei territori periferici. Lo riferisce Hespress English.",
+   "more": [
+    "La nomina rappresenta un'apertura governativa verso figure provenienti da movimenti sociali e sindacali."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147524-from-opposition-to-government-moroccos-new-employment-minister-faces-a-test-of-his-own-convictions.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-17T22:32+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zadc12ac9",
+   "sez": "mondo",
+   "titolo": "Marocco, Akhannouch conclude il mandato quinquennale ringraziando il re",
+   "orig": "Akhannouch thanks King as he concludes five-year tenure as Morocco’s Head of Government",
+   "lead": "Il primo ministro in uscita Aziz Akhannouch ha concluso sabato il suo mandato quinquennale con un messaggio di gratitudine al re Mohammed VI, sottolineando gli obiettivi raggiunti dal governo nel servire il paese. Lo riferisce Hespress English.",
+   "more": [
+    "Il cambio di leadership governativa coincide con nuove nomine ministeriali, segnando una transizione istituzionale in Marocco."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147539-akhannouch-thanks-king-as-he-concludes-five-year-tenure-as-moroccos-head-of-government.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-17T22:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z62c57992",
+   "sez": "mondo",
+   "titolo": "Namibia, afta epizootica nello Zambezi blocca vendite di bestiame",
+   "orig": "Zula to survive",
+   "lead": "La regione dello Zambezi ha confermato il 7 ottobre un focolaio di afta epizootica (FMD) con 12 campioni positivi a Kalala Island nel Kabbe. I divieti sulle vendite di bestiame hanno costretto allevatori e commercianti informali a contare ingenti perdite economiche. Lo riferisce The Namibian.",
+   "more": [
+    "L'afta epizootica è una malattia virale contagiosa che colpisce il bestiame, richiedendo severe misure di contenimento."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/zula-to-survive-3/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-18T06:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8dd108b8",
+   "sez": "mondo",
+   "titolo": "Zambia, Hichilema inaugura salone minerario con delegazioni del Congo e Botswana",
+   "orig": "Hichilema to Open 2026 Mining Insaka as DRC and Botswana Send Presidential Envoys",
+   "lead": "Il presidente zambiano Hakainde Hichilema inaugurerà il 19 ottobre il Salone Minerario e degli Investimenti 2026 di Lusaka, con oltre 1.500 partecipanti attesi. All'evento parteciperanno inviati speciali dei presidenti di Congo e Botswana. La manifestazione si terrà fino al 23 ottobre. Lo riferisce Lusaka Times.",
+   "more": [
+    "L'evento rappresenta una piattaforma regionale cruciale per gli investimenti nel settore estrattivo africano."
+   ],
+   "fonti": [
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/18/zambia-hichilema-open-2026-mining-insaka-drc-botswana-envoys/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-10-18T04:33+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfd04fb48",
+   "sez": "mondo",
+   "titolo": "Albania, ambasciata Usa esorta manifestanti alla non-violenza",
+   "orig": "Ambasada e SHBA: Qytetarët të protestojnë në mënyrë paqësore, pa akte të dhunshme",
+   "lead": "L'ambasciata americana a Tirana ha esortato i manifestanti ad aderire a proteste pacifiche e senza violenza durante le recenti manifestazioni che hanno scosso il paese. Ha lanciato appello a tutte le parti per autocontrollo, distensione e abbandono di atti violenti. Lo riferisce Euronews Albania.",
+   "more": [
+    "La nota diplomatica americana interviene mentre l'Albania sperimenta scontri fra manifestanti e forze di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/ambasada-e-shba-qytetaret-te-protestojne-ne-menyre-paqesore-pa-akte-te-dhunshme/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-17T21:00+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2878c41a",
+   "sez": "mondo",
+   "titolo": "Albania, 59 feriti negli scontri durante protesta a Tirana",
+   "orig": "59 të lënduar nga protesta në Tiranë! 34 efektivë, 21 protestues dhe 4 kalimtarë",
+   "lead": "Cinquantanove persone sono state ricoverate per ferite durante la protesta di domenica a Tirana. Fra i feriti 34 agenti di polizia, 21 manifestanti e 4 passanti, incluso un minore. Gli scontri fra manifestanti e forze dell'ordine hanno caratterizzato la manifestazione nel capoluogo albanese. Lo riferisce Euronews Albania.",
+   "more": [
+    "I numeri dei feriti testimoniano tensioni significative fra cittadini e forze di sicurezza nell'Albania contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/59-te-lenduar-nga-protesta-ne-tirane-34-efektive-21-protestues-dhe-4-kalimtare/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-17T20:08+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za6738b15",
+   "sez": "mondo",
+   "titolo": "Francia, Macron condanna la violenza nelle proteste, promette azioni penali",
+   "orig": "Protestat në Francë, Macron: Dhuna nuk ka vend në demokracinë tonë",
+   "lead": "Il presidente francese Emmanuel Macron ha condannato gli atti di violenza negli scontri a Parigi e altre grandi città francesi, affermando che \"la violenza non ha posto nella nostra democrazia\". Ha promesso persecuzione penale per chi ha attaccato stazioni di polizia, comuni e negozi. Lo riferisce Euronews Albania.",
+   "more": [
+    "La dichiarazione presidenziale evidenzia la risposta dello Stato francese agli episodi di disordine civile."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/protestat-ne-france-macron-dhuna-nuk-ka-vend-ne-demokracine-tone/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-17T19:40+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2d696020",
+   "sez": "mondo",
+   "titolo": "Repubblica Ceca, rivista la legge sui vaccini in farmacia",
+   "orig": "Czech pharmacy vaccination plan faces revisions after government debate",
+   "lead": "Il Ministero della Salute della Repubblica Ceca sta effettuando una revisione della legislazione per consentire le vaccinazioni presso le farmacie del paese, ma non è stata ancora fissata una data precisa per il ritorno della proposta al governo per l'approvazione finale. Lo riferisce Expats.cz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/czech-pharmacy-vaccination-plan-faces-revisions-after-government-debate",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-18T07:16+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2d03bd2d",
+   "sez": "mondo",
+   "titolo": "Bisonti cechi trasferiti in Ucraina per ricostituire il patrimonio genetico",
+   "orig": "Czech bison to help rebuild Ukrainian herd devastated by Russia’s war",
+   "lead": "Tre bisonti maschi dalla riserva di Milovice saranno trasferiti in un parco vicino a Kiev per ricostituire l'allevamento ucraino devastato dalla guerra russa, dove la perdita di riproduttori ha compromesso la capacità riproduttiva del branco rimasto. Lo riferisce Expats.cz.",
+   "more": [
+    "L'iniziativa rientra negli sforzi conservazionisti transnazionali per recuperare biodiversità in aree colpite dal conflitto."
+   ],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/czech-bison-to-help-rebuild-ukrainian-herd-devastated-by-russia-s-war",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-18T06:57+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z20b33696",
+   "sez": "mondo",
+   "titolo": "Bosnia, cresce la povertà estrema: uomini vivono in automobile",
+   "orig": "Jusuf mjesecima živi i spava u automobilu: Hladno je, ne mogu izdržati, težak je život",
+   "lead": "Un uomo di nome Jusuf vive e dorme in automobile a causa della povertà diffusa in Bosnia-Erzegovina, dove molti cittadini non riescono a permettersi nemmeno un pasto al giorno. Solo nella città di Mostar circa mille persone vivono in condizioni di marginalità analoga. Lo riferisce N1 Bosnia.",
+   "more": [
+    "La situazione socio-economica della Bosnia mostra segnali di deterioramento con aumento dei fenomeni di esclusione abitativa."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/jusuf-mjesecima-zivi-i-spava-u-automobilu-hladno-je-ne-mogu-izdrzati-tezak-je-zivot/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T07:46+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z076c0b18",
+   "sez": "mondo",
+   "titolo": "Yemen, ambasciata in Malesia onora 14 ricercatori accademici",
+   "orig": "سفارة اليمن في ماليزيا تكرّم 14 باحثاً وأكاديمياً تقديراً لانجازاتهم العلمية",
+   "lead": "L'ambasciata dello Yemen in Malesia ha riconosciuto sabato 14 ricercatori e accademici yemeniti per i loro risultati scientifici eccellenti e la presenza nelle classificazioni internazionali, inclusi tre iscritti nella top 2% dei ricercatori globali secondo la metodologia Stanford-Elsevier. Lo riferisce Yemen Monitor.",
+   "more": [
+    "Il riconoscimento evidenzia l'importanza della diaspora accademica yemenita nella ricerca internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185140?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25b3%25d9%2581%25d8%25a7%25d8%25b1%25d8%25a9-%25d8%25a7%25d9%2584%25d9%258a%25d9%2585%25d9%2586-%25d9%2581%25d9%258a-%25d9%2585%25d8%25a7%25d9%2584%25d9%258a%25d8%25b2%25d9%258a%25d8%25a7-%25d8%25aa%25d9%2583%25d8%25b1%25d9%2591%25d9%2585-14-%25d8%25a8%25d8%25a7%25d8%25ad%25d8%25ab%25d8%25a7%25d9%258b-%25d9%2588",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-17T21:23+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z144911e9",
+   "sez": "mondo",
+   "titolo": "Ufficiali iraniani aiutano gli Houti negli attacchi contro Arabia Saudita",
+   "orig": "وول ستريت جورنال: ضباط إيرانيون يساعدون الحوثيين في توجيه الهجمات على السعودية",
+   "lead": "Il Wall Street Journal rivela che ufficiali della Guardia Rivoluzionaria iraniana assistono il gruppo Houti nello sferrare attacchi missilistici e con droni contro l'Arabia Saudita, nonché nel dispiegamento di sistemi che minacciano la navigazione nel Mar Rosso e nello stretto di Bab al-Mandab. Lo riferisce Yemen Monitor.",
+   "more": [
+    "L'inchiesta colloca la questione yemenita entro la più ampia dinamica geopolitica medio-orientale e la competizione regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185138?utm_source=rss&utm_medium=rss&utm_campaign=%25d9%2588%25d9%2588%25d9%2584-%25d8%25b3%25d8%25aa%25d8%25b1%25d9%258a%25d8%25aa-%25d8%25ac%25d9%2588%25d8%25b1%25d9%2586%25d8%25a7%25d9%2584-%25d8%25b6%25d8%25a8%25d8%25a7%25d8%25b7-%25d8%25a5%25d9%258a%25d8%25b1%25d8%25a7%25d9%2586%25d9%258a%25d9%2588%25d9%2586-%25d9%258a%25d8%25b3%25d8%25a7%25d8%25b9%25d8%25af%25d9%2588",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-17T20:56+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z09c6430d",
+   "sez": "mondo",
+   "titolo": "Yemen, protesta contro i Houti per detenuti da anni",
+   "orig": "وقفة احتجاجية لأهالي «الزُوب» بالبيضاء ترفض تعسفات الحوثيين واستمرار اعتقال 4 من أبنائهم",
+   "lead": "Abitanti della zona di Al-Zuub nella provincia di Al-Bayda, Yemen centrale, hanno organizzato sabato una manifestazione di protesta contro il gruppo armato Houti, chiedendo il rilascio di quattro compaesani in detenzione, due dei quali tenuti in ostaggio da sette anni. Lo riferisce Yemen Monitor.",
+   "more": [
+    "La protesta evidenzia le violazioni dei diritti umani perpetrate dalle milizie nel contesto del conflitto yemenita."
+   ],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185123?utm_source=rss&utm_medium=rss&utm_campaign=%25d9%2588%25d9%2582%25d9%2581%25d8%25a9-%25d8%25a7%25d8%25ad%25d8%25aa%25d8%25ac%25d8%25a7%25d8%25ac%25d9%258a%25d8%25a9-%25d9%2584%25d8%25a3%25d9%2587%25d8%25a7%25d9%2584%25d9%258a-%25d8%25a7%25d9%2584%25d8%25b2%25d9%2588%25d8%25a8-%25d8%25a8%25d8%25a7%25d9%2584%25d8%25a8%25d9%258a%25d8%25b6%25d8%25a7",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-17T20:36+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9392c033",
+   "sez": "mondo",
+   "titolo": "Yemen, under-17 vince 2-0 all'esordio in Coppa del Golfo",
+   "orig": "اليمن يستهل كأس الخليج للناشئين بالفوز على العراق 2-صفر",
+   "lead": "La nazionale calcistica under-17 dello Yemen ha inaugurato il suo percorso nella Coppa del Golfo battendo l'Iraq 2-0 nella partita disputata sabato allo stadio Saoud bin Abdulrahman di Doha, nella seconda girone della competizione. Lo riferisce Yemen Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185117?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a7%25d9%2584%25d9%258a%25d9%2585%25d9%2586-%25d9%258a%25d8%25b3%25d8%25aa%25d9%2587%25d9%2584-%25d9%2583%25d8%25a3%25d8%25b3-%25d8%25a7%25d9%2584%25d8%25ae%25d9%2584%25d9%258a%25d8%25ac-%25d9%2584%25d9%2584%25d9%2586%25d8%25a7%25d8%25b4%25d8%25a6%25d9%258a%25d9%2586-%25d8%25a8%25d8%25a7%25d9%2584%25d9%2581%25d9%2588",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-17T19:12+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z43ad715d",
+   "sez": "mondo",
+   "titolo": "USA avvertono di possibili attacchi agli aeroporti sauditi",
+   "orig": "US Warns of Possible Further Attacks on Saudi Airports, Urges Travellers to Exercise Caution",
+   "lead": "Gli Stati Uniti hanno avvertito i propri cittadini in Arabia Saudita di esercitare estrema cautela nei viaggi aerei, sulla base di segnalazioni di possibili ulteriori attacchi agli aeroporti seguiti ai recenti colpi missilistici e con droni perpetrati nella regione. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [
+    "L'allerta riflette la volatilità della sicurezza aerea nel Golfo Persico dovuta alle operazioni armate regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/us-warns-of-possible-further-attacks-on-saudi-airports-urges-travellers-to-exercise-caution",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-17T20:19+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd4f1ceff",
+   "sez": "mondo",
+   "titolo": "Uzbekistan conquista cinque medaglie agli Asiatici di judo in Kazakistan",
+   "orig": "Uzbekistan Wins Five More Medals at Aktau Asian Open 2026",
+   "lead": "L'Uzbekistan ha conquistato altri cinque medaglie agli Asiatici Open 2026 di judo di Aktau in Kazakistan, con le judoke Fotimakhon Tursunboeva e Nizomiddinkhodja Toshpulatov che hanno guadagnato l'oro, mentre tre compagni di squadra hanno ottenuto bronzo nelle rispettive categorie. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-wins-five-more-medals-at-aktau-asian-open-2026/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-17T23:40+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z38bdb9b5",
+   "sez": "mondo",
+   "titolo": "Iran accusa Washington, dialogo con Iraq durante vertice OIC",
+   "orig": "Araghchi Tells Iraq's PM Washington Disrupted Diplomacy And Caused Maritime Insecurity",
+   "lead": "Il ministro degli Esteri iraniano Araghchi ha incontrato il primo ministro iracheno al-Zaidi durante il 52esimo Consiglio dei Ministri degli Esteri dell'Organizzazione della Conferenza Islamica a Baghdad, primo vertice in Iraq in 45 anni, affermando che Washington ha interrotto la diplomazia e causato insicurezza marittima. Lo riferisce Kurdistan24.",
+   "more": [
+    "L'incontro rappresenta un momento cruciale di diplomazia multilaterale in Medio Oriente con implicazioni regionali significative."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946788/araghchi-tells-iraqs-pm-washington-disrupted-diplomacy-and-caused-maritime-insecurity",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T08:48+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z55c9837e",
+   "sez": "mondo",
+   "titolo": "Kurdistan iracheno pianifica 16 zone industriali per sviluppo economico",
+   "orig": "KRG Plans 16 Industrial Zones as Investment Creates 161,000 Jobs",
+   "lead": "Il Governo Regionale del Kurdistan iracheno pianifica l'istituzione di 16 zone industriali per supportare lo sviluppo economico locale, con i progetti di investimento finora realizzati che hanno generato 161mila posti di lavoro e fornito supporto al settore agricolo regionale, secondo il presidente della Giunta per gli Investimenti Mohammed Shukri. Lo riferisce Kurdistan24.",
+   "more": [
+    "Le zone industriali rappresentano una strategia di diversificazione economica per l'economia regionale curda."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946786/krg-plans-16-industrial-zones-as-investment-creates-161000-jobs",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T08:42+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za0577305",
+   "sez": "mondo",
+   "titolo": "Uzbekistan istituisce Accademia Internazionale di Moda a Tashkent",
+   "orig": "Uzbekistan to establish Tashkent International Fashion Academy",
+   "lead": "L'Uzbekistan istituirà l'Accademia Internazionale di Moda di Tashkent per formare specialisti destinati ai settori tessile, abbigliamento, maglieria, cuoio e calzaturiero del paese, con i corsi che avranno inizio nell'anno accademico 2026-2027 presso le strutture appositamente dedicate. Lo riferisce Daryo.",
+   "more": [
+    "L'iniziativa si inserisce nei programmi di modernizzazione dell'istruzione tecnica centro-asiatica."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/18/uzbekistan-to-establish-tashkent-international-fashion-academy/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T06:05+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9fb0f82f",
+   "sez": "mondo",
+   "titolo": "Ghana, giornalismo è vocazione secondo presidente associazione",
+   "orig": "Journalism is a calling, not just a profession – GJA President tells journalists",
+   "lead": "Il presidente dell'Associazione Giornalistica del Ghana ha affermato che il giornalismo rappresenta una vocazione e non una semplice professione, esortando i colleghi ad acquisire competenze specializzate, superare la cronaca di routine e dimostrare eccellenza nella pratica giornalistica per incidere positivamente sulla società. Lo riferisce 3News.",
+   "more": [
+    "La dichiarazione evidenzia le aspirazioni professionali e il ruolo civico della comunità giornalistica ghanese."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/journalism-is-a-calling-not-just-a-profession-gja-president-tells-journalists",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T23:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3f14152b",
+   "sez": "mondo",
+   "titolo": "Ghana, evitare arbitrato come ultima risorsa nel sistema legale",
+   "orig": "Let&#39;s stop making ADR a last resort - Board Chairman of ADR Centre",
+   "lead": "Il presidente della Giunta dell'ADR Centre sottolinea l'esigenza di evitare il ricorso all'arbitrato come extrema ratio, evidenziando la necessità di rafforzare le capacità professionali del settore affinché i soggetti disputanti possano raggiungere accordi equi e duraturi attraverso la mediazione. Lo riferisce 3News.",
+   "more": [
+    "La riflessione si inserisce nel dibattito più ampio sulla risoluzione alternativa dei conflitti in Africa."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/lets-stop-making-adr-a-last-resort-board-chairman-of-adr-centre",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T23:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z62b79729",
+   "sez": "mondo",
+   "titolo": "Ghana, 20 militari completano corso operazioni speciali",
+   "orig": "20 Ghana Armed Forces personnel graduate from Special Operations Course after 9 months of intensive training",
+   "lead": "Venti appartenenti alle forze armate ghanesi hanno concluso un corso di nove mesi dedicato alle operazioni speciali, progettato per sviluppare resistenza fisica, resilienza mentale, competenze tattiche e capacità di leadership richieste per operare in ambienti di sicurezza complessi e ad alto rischio. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/20-ghana-armed-forces-personnel-graduate-from-special-operations-course-after-9-months-of-intensive-training",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-17T22:39+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8f4a8235",
+   "sez": "mondo",
+   "titolo": "Ghana, avvocato ritorna alla scuola come ospite di onore",
+   "orig": "Joyce Bawah Mogtari shares O-Level setback and success story at Assisi Girls SHS anniversary",
+   "lead": "Joyce Bawah Mogtari, oggi avvocato senior e consigliera presidenziale, è ritornata sabato alla Assisi Girls' Senior High School di Jirapa dove, dopo un primo esame O-Level fallito, ricevette una seconda opportunità che le permise di completare gli studi. Attualmente è anche assistente speciale del presidente John Dramani Mahama. Lo riferisce MyJoyOnline.",
+   "more": [
+    "La storia rappresenta un esempio di mobilità sociale e resilienza nel contesto dell'istruzione e della carriera pubblica ghanese."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/joyce-bawah-mogtari-shares-o-level-setback-and-success-story-at-assisi-girls-shs-anniversary/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T05:24+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb7ea759d",
+   "sez": "mondo",
+   "titolo": "Belize, asta pubblica di attrezzature industriali il 28 ottobre",
+   "orig": "Public auction at Belmopan Aggregates and Hardware set for October 28",
+   "lead": "Una asta pubblica di attrezzature industriali, attrezzi commerciali, generatori, macchinari da ufficio e rifornimenti in eccedenza si terrà mercoledì 28 ottobre alle 8:00 presso Belmopan Aggregates and Hardware a Belmopan, Belize, con aggiudicazione al miglior offerente in contanti secondo le modalità previste. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/17/public-auction-at-belmopan-aggregates-and-hardware-set-for-october-28/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-17T23:32+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z688766fb",
+   "sez": "ambiente",
+   "titolo": "Belize, allerta alluvioni per piogge previste nel fine settimana",
+   "orig": "Flood alert remains in effect as continued rains affect Belize",
+   "lead": "Un'allerta alluvioni rimane in vigore in Belize mentre il Servizio Meteorologico Nazionale prevede ulteriori precipitazioni nel fine settimana, con tra 2 e 4 pollici di pioggia attesi domenica. I residenti in aree basse, zone soggette a inondazioni e comunità fluviali sono esortati a mantenere massima vigilanza. Lo riferisce Breaking Belize News.",
+   "more": [
+    "L'allerta rientra nel quadro di rischi idrogeologici frequenti nel territorio beliziano."
+   ],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/17/flood-alert-remains-in-effect-as-continued-rains-affect-belize/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-17T20:27+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze7e0fd46",
+   "sez": "mondo",
+   "titolo": "Belize, vigili del fuoco onorati per anni di servizio",
+   "orig": "National Fire Service honors 27 officers for long service",
+   "lead": "Il Servizio Nazionale Antincendi del Belize ha riconosciuto 27 ufficiali per i loro anni di servizio dedicato nella protezione della vita, salvaguardia del patrimonio e risposta alle emergenze su tutto il territorio nazionale, in una cerimonia svoltasi a Belize City il 16 ottobre 2026. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/17/national-fire-service-honors-27-officers-for-long-service/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-17T20:21+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc2cd4b0e",
+   "sez": "mondo",
+   "titolo": "Barbados, commissario diritti umani chiede azione su sicurezza scuole",
+   "orig": "Human Rights Commissioner: Act on school safety research",
+   "lead": "Il Commissario dei Diritti Umani di Barbados ha sollecitato le autorità scolastiche a intervenire sulla base della ricerca condotta da studenti riguardante i problemi di sicurezza negli istituti, inclusi bagni igienicamente carenti, accumuli di rifiuti, banchi danneggiati da termiti e episodi di bullismo diffuso. Lo riferisce Barbados Today.",
+   "more": [
+    "L'inchiesta studentesca fornisce una base fattuale per le riforme sulla sicurezza scolastica."
+   ],
+   "fonti": [
+    {
+     "n": "Barbados Today",
+     "p": "XX",
+     "c": "Bridgetown",
+     "u": "https://barbadostoday.bb/2026/10/17/human-rights-commissioner-act-on-school-safety-research/",
+     "angolo": "",
+     "atlas": "Barbados",
+     "t": "2026-10-17T18:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zadf33207",
+   "sez": "mondo",
+   "titolo": "Santa Lucia, domenica lavori fognature e variazioni traffico",
+   "orig": "Sunday traffic diversions planned for sewer works in Castries",
+   "lead": "La Water and Sewerage Company (WASCO) effettuerà domenica 18 ottobre lavori di collegamento delle reti fognaturarie a Castries, installando una nuova tubazione dal Vendors Arcade su Jeremie Street fino a Laborie Street dalle 8:00 del mattino, con conseguenti variazioni al traffico nella zona urbana. Lo riferisce St. Lucia Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "St. Lucia Times",
+     "p": "XX",
+     "c": "Castries",
+     "u": "https://stluciatimes.com/185050/2026/10/sunday-traffic-diversions-planned-for-sewer-works-in-castries/",
+     "angolo": "",
+     "atlas": "Saint Lucia",
+     "t": "2026-10-17T22:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8400eb1f",
+   "sez": "mondo",
+   "titolo": "Eswatini, inchiesta su importazione cemento malgrado produzione locale",
+   "orig": "Mall JV imports concrete despite local capacity",
+   "lead": "Un'inchiesta investigativa del Times of Eswatini rivela che la joint venture WBHO-J&E Construction sta importando materiale cemento nel paese nonostante la disponibilità di produzione locale su larga scala di materiali prefabbricati e articoli cementizi. L'importazione riguarda il progetto di riqualificazione del Manzini Mall. Lo riferisce Times of Eswatini.",
+   "more": [
+    "La pratica evidenzia questioni relative al valore aggiunto locale e alle scelte di approvvigionamento in appalti infrastrutturali."
+   ],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46563/news/mall-jv-imports-concrete-despite-local-capacity/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-18T02:18+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdcd0f415",
+   "sez": "mondo",
+   "titolo": "Nsingizini Hotspurs batte Mbabane Highlanders con gol di Dlamini",
+   "orig": "Nsingizini Hotspurs heap more misery on ‘Bull’",
+   "lead": "Nsingizini Hotspurs ha sconfitto Mbabane Highlanders AM per 1-0 allo stadio King Sobhuza II Memorial di Nhlangano, infliggendo una seconda sconfitta consecutiva ai \"Bull\". Il gol di Quality Dlamini al 41° minuto ha punito ancora una volta gli Highlanders, già battuti 2-0 da Royal Leopard il weekend precedente. Lo riferisce Times of Eswatini.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46585/sports/nsingizini-hotspurs-heap-more-misery-on-bull/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-18T02:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcd99c223",
+   "sez": "mondo",
+   "titolo": "Ministro Eswatini: le università responsabili dei falsi dottoramenti",
+   "orig": "Universities to blame for fake doctorates – Owen",
+   "lead": "Il ministro dell'Educazione e della Formazione eswatiniano Owen Nxumalo sostiene che le responsabilità dei falsi dottoramenti ricadono direttamente sulle università, che approccerebbero proattivamente gli individui per offrire loro lauree honoris causa. Il ministro afferma di essere stato contattato in passato da un'università prestigiosa. Lo riferisce Times of Eswatini.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46583/news/universities-to-blame-for-fake-doctorates-owen/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-18T02:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5a9deb07",
+   "sez": "mondo",
+   "titolo": "Trump all'Onu presenta bilancio di vittorie politiche",
+   "orig": "El mundo ya superó el punto álgido de Trump",
+   "lead": "Il presidente Donald Trump ha pronunciato un discorso di bilancio all'Assemblea Generale dell'Onu, presentando una lista di risultati conseguiti nel suo mandato, tra cui la risoluzione di otto conflitti internazionali. Trump ha rimarcato i successi come promesso ai suoi sostenitori durante precedenti campagne elettorali. Lo riferisce Confidencial.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/opinion/el-mundo-ya-supero-el-punto-algido-de-trump/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-10-18T06:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf5c845cb",
+   "sez": "mondo",
+   "titolo": "Blooming senza gol contro Independiente, sprecato rigore",
+   "orig": "Blooming sigue sin ganar y corre el riesgo de quedarse sin nada",
+   "lead": "Il Blooming non ha convertito alcun gol nella partita contro Independiente in Bolivia, sprecando anche un calcio di rigore quando Menacho ha tirato il pallone contro il palo. La gara è terminata sullo 0-0, aggravando la situazione del club cruceño nella ricerca della prima vittoria stagionale. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/deportes/blooming-sigue-sin-ganar-y-corre-el-riesgo-de-quedarse-sin-nada",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T21:57-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z14684bb7",
+   "sez": "mondo",
+   "titolo": "Banca Centrale Bolivia esclude nuovi corralitos e pegno riserve oro",
+   "orig": "El BCB asegura que no habrá más “corralitos” de dólares ni empeñará las reservas de oro",
+   "lead": "Il presidente interino della Banca Centrale Boliviana David Espinoza ha assicurato che i risparmiatori non affronteranno più restrizioni nel prelievo dei depositi in dollari e che la banca non userà nuovamente le riserve auree come garanzia per ottenere finanziamenti. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/economia/el-bcb-asegura-que-no-habra-mas-corralitos-de-dolares-ni-empenara-las-reservas-de-oro",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T20:48-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z60ec4bd4",
+   "sez": "mondo",
+   "titolo": "Universitario di Vinto batte San Antonio, entrambi a rischio retrocessione",
+   "orig": "U de Vinto vence a San Antonio, ambos buscan escapar del descenso",
+   "lead": "L'Universitario di Vinto ha conquistato una vittoria nello scontro diretto con San Antonio in Bolivia, offrendo respiro a entrambi i club rimasti nella zona pericolo retrocessione. Le squadre continuano a lottare contro il concreto rischio di scendere negli ultimi posti della classifica. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/deportes/u-de-vinto-vence-a-san-antonio-ambos-buscan-escapar-del-descenso",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T20:30-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z44ea07f4",
+   "sez": "mondo",
+   "titolo": "Trump blocca sanzioni sulla Russia, Russia continua attacchi all'Ucraina",
+   "orig": "Trump exempte la Russie de nouvelles sanctions, alors que Moscou cible les infrastructures énergétiques ukrainiennes",
+   "lead": "Il presidente Trump ha congelato l'applicazione di una legge che prevedeva pesanti sanzioni contro gli importatori di idrocarburi russi. Dopo l'accordo annunciato l'11 ottobre per l'acquisto di gasolio dalla Russia, Trump continua con manovre volte a mostrare sensibilità al costo della vita, grande preoccupazione americana in vista delle elezioni di midterm del 3 novembre. Lo riferisce Le Monde.",
+   "more": [
+    "La mossa rientra in una strategia più ampia di riduzione del costo energetico per gli americani in vista delle elezioni cruciali."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/18/trump-exempte-la-russie-de-nouvelles-sanctions-alors-que-moscou-cible-les-infrastructures-energetiques-ukrainiennes_6796993_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T06:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z69a96e99",
+   "sez": "mondo",
+   "titolo": "Proteste \"No Kings\" negli Usa: oppositori di Trump tra speranza e timori",
+   "orig": "Aux Etats-Unis, dans les manifestations « No Kings », les opposants à Donald Trump entre espoir de changement et inquiétudes",
+   "lead": "Le manifestazioni \"No Kings\", principale movimento di protesta contro la politica di Trump, hanno radunato migliaia di partecipanti sabato in tutti gli Stati Uniti. Le proteste, pervase da preoccupazioni e speranze di cambiamento, si sono svolte a poche settimane dalle cruciali elezioni di midterm previste per il 3 novembre. Lo riferisce Le Monde.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/18/aux-etats-unis-dans-les-manifestations-no-kings-les-opposants-a-donald-trump-entre-espoir-de-changement-et-inquietudes_6797035_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T06:25+02:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T07:29+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z43563e16",
+   "sez": "mondo",
+   "titolo": "Muhoozi Kainerugaba, erede tirannico e stravagante del presidente ugandese",
+   "orig": "« Dès qu’une tête dépasse, il la coupe » : Muhoozi Kainerugaba, héritier brutal et fantasque du président ougandais",
+   "lead": "Muhoozi Kainerugaba, figlio del presidente ugandese, già a capo delle forze armate e successore presunto del padre alla presidenza, è accusato di molteplici violazioni dei diritti umani. I suoi interventi sui social media sono caratterizzati da dichiarazioni altrettanto bizzarre quanto terrificanti. Lo riferisce Le Monde.",
+   "more": [
+    "Kainerugaba incarna la figura dell'erede autocrate che, nonostante la brutalità, mantiene visibilità pubblica attraverso i social."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/afrique/article/2026/10/18/des-qu-une-tete-depasse-il-la-coupe-muhoozi-kainerugaba-heritier-brutal-et-fantasque-du-president-ougandais_6796997_3212.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T06:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4b2efa94",
+   "sez": "mondo",
+   "titolo": "Ministra Interno francese: dispositivo non era sottodimensionato il 17 ottobre",
+   "orig": "Violences lors de la journée du 17 octobre : «Le dispositif n’était pas sous-dimensionné», défend Laurent Nuñez",
+   "lead": "Il ministro dell'Interno francese Laurent Nuñez ha affermato che il dispositivo di ordine pubblico non era insufficiente durante la giornata di manifestazioni del 17 ottobre. Nuñez ha spiegato che \"delinquenti d'occasione\" hanno sfruttato la mobilitazione per colpire e saccheggiare negozi in tutta la città. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/violences-lors-de-la-journee-du-17-octobre-le-dispositif-n-etait-pas-sous-dimensionne-defend-laurent-nunez-20261017",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T23:19+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3aba28c3",
+   "sez": "mondo",
+   "titolo": "Manifestanti raggiungono pochi metri dall'Eliseo durante proteste francesi",
+   "orig": "Mobilisation du 17 octobre : «On est proche de l’Elysée, je pensais pas qu’on arriverait aussi proche»",
+   "lead": "Sabato 17 ottobre, migliaia di manifestanti organizzati in gruppi molto mobili e dispersi hanno raggiunto pochi centinaia di metri dalla presidenza della Repubblica francese durante il tardo pomeriggio, sorprendendo i partecipanti che non si aspettavano di giungere così vicino al palazzo presidenziale. Lo riferisce Libération.",
+   "more": [
+    "La capacità dei manifestanti di avvicinarsi al cuore del potere ha destato preoccupazione negli apparati di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/police-justice/mobilisation-du-17-octobre-on-est-proche-de-lelysee-je-pensais-pas-quon-arriverait-aussi-proche-20261018_3K3JJG64VNBN5KYWU3A2O3IQOM/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T05:24+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zeb265b28",
+   "sez": "mondo",
+   "titolo": "Scontro politico: \"violenze anti-polizia\" o \"violenze poliziesche\" del 17 ottobre",
+   "orig": "Mouvement du 17 octobre : «violences anti-flic» ou «violences policières», les politiques réagissent",
+   "lead": "Destra, sinistra e governo hanno dibattuto sull'interpretazione dei disordini del 17 ottobre, definiti alternativamente come \"violenze anti-polizia\" o \"violenze poliziesche\" secondo la linea politica. Il primo ministro ha denunciato un \"allenamento\" della sinistra radicale in vista della prossima presidenziale. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/mouvement-du-17-octobre-violences-anti-flic-ou-violences-policieres-les-politiques-reagissent-20261017_ASWMKRDUJBCCDOOUZFWXYZJG6I/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T18:55+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd3eb5c17",
+   "sez": "mondo",
+   "titolo": "Arabia Saudita abbatte razzi e droni Huthi lanciati dallo Yemen",
+   "orig": "Krieg in Nahost: Saudi-Arabien fängt ballistische Raketen und Drohnen aus Jemen ab",
+   "lead": "L'Arabia Saudita ha intercettato razzi balistici e droni lanciati dalla milizia Huthi, alleata dell'Iran, nel corso dei continui attacchi contro il regno saudita durante la guerra in Medio Oriente. La milizia yemenita prosegue la sua campagna di attacchi contro le infrastrutture del vicino regno sunnita. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "Gli attacchi Huthi si concentrano su infrastrutture energetiche strategiche saudite."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-huthi-saudi-arabien-drohnen-raketen-li.3560260",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T01:39+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445039/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T07:28+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4e1847af",
+   "sez": "mondo",
+   "titolo": "Francia: premier Lecornu denuncia \"terribile livello di violenza\" il 17 ottobre",
+   "orig": "Unruhen in Frankreich: Premierminister Lecornu:„Entsetzliches Ausmaß an Gewalt“",
+   "lead": "Il primo ministro francese Lecornu ha denunciato un \"terribile livello di violenza\" durante le proteste del 17 ottobre contro il costo della vita. Nel capoluogo di Limoges il municipio è stato invaso e dato alle fiamme, simbolo dell'escalation durante la mobilitazione nazionale. Lo riferisce FAZ.",
+   "more": [
+    "La violenza durante le proteste ha sorpreso per intensità e coordinamento, colpendo simboli istituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ausland/unruhen-bei-protesten-in-frankreich-entsetzliches-ausmass-an-gewalt-accg-201596707.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T03:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb7fbbc89",
+   "sez": "mondo",
+   "titolo": "Campagna francese: Mélenchon e Le Pen usano Germania come metafora del male",
+   "orig": "Wahlkampf in Frankreich: Warum Deutschland zur Metapher des Bösen wird",
+   "lead": "Nel dibattito sulla campagna presidenziale francese, sia il candidato Jean-Luc Mélenchon che Marine Le Pen utilizzano la Germania come metafora del male per ragioni storiche. Entrambi coltivano da lungo tempo un odio verso il paese tedesco, elemento che preoccupa gli osservatori europei. Lo riferisce FAZ.",
+   "more": [
+    "La Germania storicamente rappresenta nei discorsi francesi radicali il simbolo dell'oppressione e della dominio economico."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/feuilleton/debatten/len-pen-und-melenchon-deutschland-als-feindbild-accg-201339307.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T05:54+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z333571ef",
+   "sez": "mondo",
+   "titolo": "Ulrich Bettermann: imprenditore tedesco della vecchia guardia, amico di Schröder",
+   "orig": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
+   "lead": "Ulrich Bettermann, imprenditore ottantenne del Sauerland, amico di Schröder e noto a Merz, incarna il profilo del capitalista della vecchia guardia tedesca. Ancora attivo e ricco di storie avventurose, pilota e cacciatore, rappresenta una figura rara nell'imprenditoria contemporanea tedesca. Lo riferisce FAZ.",
+   "more": [
+    "Bettermann emblematizza l'imprenditore dello scorso secolo che mantiene uno stile di vita avventuroso."
+   ],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ulrich-bettermann-patriarch-aus-dem-sauerland-mit-milliardenvermoegen-201312041.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T19:13+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcf9fd1c0",
+   "sez": "mondo",
+   "titolo": "Francia: il secondo mandato Macron distaccato dalla società in crisi",
+   "orig": "Francia prende fuego al macronismo",
+   "lead": "Il secondo mandato presidenziale di Macron, distaccato dalla società, affronta sei lunghi mesi in cui la Francia deve approvare il bilancio e trovare risposte all'inarrestabile ascesa dell'estrema destra politica nel paese. Le proteste recenti evidenziano la profonda crisi di legittimità del governo. Lo riferisce El País.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T03:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbe9917c4",
+   "sez": "mondo",
+   "titolo": "Sinistra spagnola divisa alle elezioni del 29 novembre: opportunità perduta",
+   "orig": "La oportunidad perdida de la izquierda: razones y consecuencias de ir dividida al 29-N",
+   "lead": "La sinistra spagnola ha disperso le aspettative iniziali sottoscrivendo un accordo frammentato tra quindici partiti per le elezioni del 29 novembre. L'assenza di Podemos, pur rappresentando un peso elettorale ridotto, indebolisce l'effetto mobilitante dello spazio progressista. Lo riferisce El País.",
+   "more": [
+    "La divisione della sinistra ripropone il problema strutturale della frammentazione che consente avanzate della destra."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-10-18/la-oportunidad-perdida-de-la-izquierda-razones-y-consecuencias-de-ir-dividida-al-29-n.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T03:30+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-10-18/rufian-el-gran-prestidigitador.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T03:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1bb71723",
+   "sez": "mondo",
+   "titolo": "Senato spagnolo: fronte progressista contro fronte conservatore per il controllo",
+   "orig": "Un frente de izquierdas y otro de derechas se disputarán a cara de perro el control del Senado",
+   "lead": "Due fronti si contendono il controllo del Senato spagnolo prima delle elezioni del 29 novembre. Vox studia l'opzione di non presentare candidati in alcune province per sostenere il Partito Popolare al fine di frenare la coalizione progressista. Lo riferisce El País.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-10-18/un-frente-de-izquierdas-y-otro-de-derechas-se-disputaran-a-cara-de-perro-el-control-del-senado.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T03:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1cb42898",
+   "sez": "mondo",
+   "titolo": "Blocco dati della \"legge dei nipoti\": rischio impugnazioni di voto dopo elezioni",
+   "orig": "El bloqueo de Exteriores a los datos de la 'ley de nietos' abocará a impugnaciones masivas del voto tras las elecciones",
+   "lead": "Il blocco del Ministero degli Esteri nel fornire dati relativi alla \"legge dei nipoti\" minaccia di provocare impugnazioni di voto massicce dopo le elezioni spagnole del 29 novembre. Il ritardo nel compilare le informazioni delle persone prive di diritto di voto apre una battaglia legale inevitabile. Lo riferisce El Mundo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/17/6ad3c675fdddff332c8b456d.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-17T22:59+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zca5f3c65",
+   "sez": "mondo",
+   "titolo": "Sergi, grande proprietario di Lleida, affonda campagna abitativa del PSOE",
+   "orig": "El imperio de Sergi, el gran casero de Lérida que hundió la campaña del PSOE: \"En dos meses teníamos la licencia, lo normal era un año\"",
+   "lead": "Sergi, il grande proprietario immobiliare di Lleida e marito di Montse Mínguez, ha danneggiato la strategia abitativa del PSOE durante la campagna. Le sue attività immobiliari aggressive contraddicono il messaggio del partito sulla \"vivienda con v\", secondo residenti critici e osservatori. Lo riferisce El Mundo.",
+   "more": [
+    "La figura di Sergi personifica il conflitto tra dichiarazioni politiche progressiste sulla casa e comportamenti capitalistici nel mercato immobiliare."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/cronica/2026/10/17/6ad28ca4e4d4d868398b4598.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-17T22:58+02:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z91bfb016",
+   "sez": "mondo",
+   "titolo": "Governo usa dibattito pensioni per raggiungere elettori over 65 prima del 29 novembre",
+   "orig": "El Gobierno exprime el debate sobre las pensiones tras la caída de Mínguez: a por 9 millones de votos donde se resiente Vox",
+   "lead": "Il governo sfrutta il dibattito sulle pensioni in seguito alle dimissioni di Montse Mínguez, cercando di attrarre il voto dei maggiori di 65 anni dove il PSOE mantiene vantaggi rispetto a Vox. La sinistra mira a mobilitare questo segmento decisivo prima delle elezioni del 29 novembre. Lo riferisce El Mundo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/18/6ad3b836fdddff74548b45bf.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T01:24+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf6a855e9",
+   "sez": "mondo",
+   "titolo": "Patto di non aggressione tra PP e Vox per il Senato spagnolo",
+   "orig": "\"Pacto de no agresión\" de Feijóo y Abascal con la mirada en el Senado",
+   "lead": "PP e Vox hanno raggiunto un patto di non aggressione politica focalizzato sulla strategia al Senato spagnolo. Secondo El Mundo, l'intesa rappresenta una tregua tra i due principali partiti conservatori iberici durante la discussione sulla gestione della Camera Alta. Lo riferisce El Mundo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/18/6ad3a436fdddfffb408b459c.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T01:25+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4cefb0ea",
+   "sez": "mondo",
+   "titolo": "Servizio Sanitario Nazionale portoghese: deficit di due miliardi di euro",
+   "orig": "Faltam dois mil milhões no orçamento do SNS",
+   "lead": "Il Servizio Sanitario Nazionale portoghese presenta un deficit di due miliardi di euro nel bilancio per l'anno corrente. Secondo Público, l'esecuzione incontrollata di quest'anno ha portato a previsioni ancora meno realistiche per il 2027 rispetto alle attese. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/opiniao/opiniao/faltam-dois-mil-milhoes-orcamento-sns-2191231",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T23:25+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd705cf55",
+   "sez": "mondo",
+   "titolo": "Facilitismo nell'accesso all'insegnamento superiore portoghese",
+   "orig": "Facilitismo no acesso ao ensino superior",
+   "lead": "Il lassismo nelle valutazioni e negli esami sta determinando negligenza tra studenti, scuole e governi portoghesi. Secondo l'opinione di José Ferreira Gomes su Público, la mancanza di rigore nel sistema educativo compromette la qualità della preparazione accademica e genera derive nelle politiche scolastiche. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/opiniao/opiniao/facilitismo-acesso-ensino-superior-2191562",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T23:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z94c977d5",
+   "sez": "mondo",
+   "titolo": "La menopausa come questione politica portoghese",
+   "orig": "A menopausa (também) é uma questão política",
+   "lead": "La menopausa rappresenta un tema di uguaglianza che uno Stato consapevole non può ignorare, secondo Helena Gonçalo Ferreira su Público. L'opinione sostiene che il Portogallo non può sprecare la salute e il talento di milioni di cittadine che vivono questa esperienza biologica cruciale. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/opiniao/opiniao/menopausa-tambem-questao-politica-2191514",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T23:15+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z92853fdf",
+   "sez": "mondo",
+   "titolo": "Media Pluralism Monitor 2026: democrazia e pluralismo sotto pressione",
+   "orig": "MPM 2026: saúde democrática e pluralismo dos media sob pressão",
+   "lead": "L'edizione 2026 del Media Pluralism Monitor evidenzia un contesto di elevata incertezza per la salute democratica e il pluralismo informativo in Europa. Secondo Público, questa situazione richiede risposte politiche e normative robuste per proteggere il sistema mediatico dalle vulnerabilità. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/opiniao/opiniao/mpm-2026-saude-democratica-pluralismo-media-pressao-2191504",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T23:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zca209829",
+   "sez": "mondo",
+   "titolo": "Oltre duemila migranti maghrebini scomparsi in Svizzera nel 2025",
+   "orig": "«Wir werden behandelt wie Hunde»: Mehr als 2000 Algerier, Marokkaner und Tunesier tauchten letztes Jahr in der Schweiz unter",
+   "lead": "Più di duemila cittadini provenienti da Algeria, Marocco e Tunisia sono scomparsi dai registri amministrativi svizzeri durante il 2025. Secondo la NZZ, giovani uomini nordafricani si sottraggono ai controlli senza alcun obbligo legale di notifica, sparendo fisicamente nel territorio elvetico. Lo riferisce NZZ.",
+   "more": [
+    "La Svizzera affronta un fenomeno ricorrente di migranti che scelgono l'invisibilità amministrativa per sfuggire alle autorità federali e ai vincoli normativi, rappresentando una sfida significativa nel monitoraggio demografico del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/wir-werden-behandelt-wie-hunde-mehr-als-2000-algerier-marokkaner-und-tunesier-tauchten-letztes-jahr-in-der-schweiz-unter-ld.10032797",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T03:31+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z79f64b4b",
+   "sez": "economia",
+   "titolo": "Mercato immobiliare a Zurigo si distende: prime riduzioni di affitti",
+   "orig": "Schöner wohnen in Zürich – bald billiger?",
+   "lead": "Il mercato abitativo di Zurigo mostra i primi segnali di normalizzazione con riduzioni dei canoni di locazione in alcuni settori. Secondo la NZZ, il mercato si distende, sollevando questioni sull'opportunità effettiva di interventi statali come il divieto di Airbnb nel capoluogo svizzero. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/schoener-wohnen-in-zuerich-bald-billiger-ld.10035777",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T03:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfe9a1edd",
+   "sez": "mondo",
+   "titolo": "Il flop cinematografico di «Digger»: quando il genio fallisce",
+   "orig": "«Digger» ist der Kino-Flop des Jahres – und in allerbester Gesellschaft",
+   "lead": "Il film «Digger» rappresenta il maggiore insuccesso cinematografico dell'anno, ma secondo la NZZ il fallimento artistico è parte intrinseca del processo creativo. Il critico osserva che nella storia dell'arte il tentativo fallito rimane legittimo e non invalida la ricerca dei maestri. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/feuilleton/spektakulaer-daneben-ld.10035188",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T03:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2d0c4f4d",
+   "sez": "mondo",
+   "titolo": "Commento: shock salutare per le finanze AVS svizzere",
+   "orig": "KOMMENTAR - Das Land braucht einen heilsamen Schock: Lasst die AHV-Finanzierung platzen!",
+   "lead": "L'aumento dell'IVA proposto per finanziare la 13ª rata dell'AVS potrebbe fallire al voto popolare, secondo un commento della NZZ. Il giudizio critico denuncia la distribuzione indiscriminata di risorse pubbliche mediante promesse elettorali, paragonandola alle crisi di bilancio dei Paesi europei vicini. Lo riferisce NZZ.",
+   "more": [
+    "Il commento critica il modello di welfare finanziato con aumenti fiscali, usando come ammonimento le difficoltà fiscali di Francia, Italia e altri stati europei gravati da debiti pubblici insostenibili."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/meinung/das-land-braucht-einen-heilsamen-schock-lasst-die-ahv-finanzierung-platzen-ld.10034954",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T03:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z41ec85fb",
+   "sez": "mondo",
+   "titolo": "Weber: il neoliberismo ha fallito e apre la strada al fascismo",
+   "orig": "Ökonomin Weber: \"Wir liefern die Bevölkerung den Marktkräften aus. So wird die Demokratie hohl\"",
+   "lead": "L'economista Isabella Weber critica il modello neoliberista per aver compromesso la democrazia e facilitato l'ascesa di partiti di estrema destra in Europa. Secondo Der Standard, Weber propone un cambiamento radicale di rotta economica per arrestare il consolidamento del fascismo politico nelle società europee. Lo riferisce Der Standard.",
+   "more": [
+    "Weber sostiene che l'abbandono della popolazione alle dinamiche di mercato ha creato vulnerabilità socioeconomiche, che i movimenti estremisti sfruttano, richiedendo un'alternativa di controllo democratico dell'economia."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344518/oekonomin-weber-wir-liefern-die-bevoelkerung-den-marktkraeften-aus-so-wird-die-demokratie-hohl?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T04:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6c999724",
+   "sez": "ambiente",
+   "titolo": "Sci mondiale: il caldo anomalo costringe gli allenamenti lontano",
+   "orig": "Skisport nach dem Hitzesommer: Wer das beste Training will, muss weit reisen",
+   "lead": "La stagione sciistica mondiale si apre dopo un'estate con temperature record, costringendo atleti e federazioni a cercare condizioni di neve adeguate in zone remote. Secondo Der Standard, la federazione austriaca di sci sviluppa strategie alternative affrontando costi crescenti e complessità logistiche senza precedenti. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344389/skisport-nach-dem-hitzesommer-wer-das-beste-training-will-muss-weit-reisen?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T04:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z324aeccc",
+   "sez": "mondo",
+   "titolo": "Artico: regioni europee al centro della nuova geopolitica",
+   "orig": "Plötzlich im Fokus der Geopolitik: Wie arktische Regionen mit ihrer neuen Rolle umgehen",
+   "lead": "Lo scioglimento dei ghiacci artici e la transizione energetica globale accendono interessi geopolitici e militari sulle regioni artiche europee. Secondo Der Standard, le aree artiche europee chiedono all'Unione Europea maggior impegno politico e normativo per affrontare la loro crescente rilevanza strategica mondiale. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344581/ploetzlich-im-fokus-der-geopolitik-wie-arktische-regionen-mit-ihrer-neuen-rolle-umgehen?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T04:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf48e51db",
+   "sez": "tech",
+   "titolo": "Il business della pigrizia: l'IA può aiutare a risparmiare?",
+   "orig": "Das Geschäft mit der Faulheit: Kann ich mit KI ordentlich Geld sparen?",
+   "lead": "Interi settori commerciali traggono profitto dall'inerzia dei consumatori che non disdettano abbonamenti né cambiano fornitore di servizi. Der Standard ha testato se un agente IA automatizzato può invertire questa dinamica generando risparmi concreti per gli utenti attraverso interventi intelligenti. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344417/das-geschaeft-mit-der-faulheit-kann-ich-mit-ki-ordentlich-geld-sparen?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T06:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf330b988",
+   "sez": "mondo",
+   "titolo": "Ucraina attacca San Pietroburgo: raid con droni contro infrastrutture energetiche",
+   "orig": "Stort ukrainskt anfall mot Sankt Petersburg i natt",
+   "lead": "L'Ucraina ha condotto un attacco notturno con droni contro San Pietroburgo, colpendo un terminal petrolifero, un data center, una strada e la rete elettrica. Secondo Dagens Nyheter, il raid rappresenta il proseguimento della strategia ucraina di colpire le infrastrutture energetiche e logistiche russe. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/stort-ukrainskt-anfall-mot-sankt-petersburg-i-natt/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T07:41+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zce4807e3",
+   "sez": "mondo",
+   "titolo": "B-Dog, il comico a quattro zampe che sfida gli stereotipi sull'avere cani",
+   "orig": "Herr B: Veterinären trodde inte att B-Dog skulle klara sig",
+   "lead": "B-Dog, definito l'unico comico satirico del Nord Europa, affronta il tema tabù dei rapporti umani con i cani domestici. Secondo Dagens Nyheter, il cane, giudicato irrecuperabile dal veterinario, è diventato una voce critica sulla relazione tra umani e animali nelle società nordeuropee contemporanee. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/kultur/herr-b-veterinaren-trodde-inte-att-b-dog-skulle-klara-sig/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T07:30+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z88524a47",
+   "sez": "mondo",
+   "titolo": "Polonia: lavori di ampliamento autostrada A2, disagi dal lunedì",
+   "orig": "Przygotowania do rozbudowy autostrady. Od poniedziałku utrudnienia na węzłach",
+   "lead": "La Polonia avvia lavori di ampliamento dell'autostrada A2 tra Varsavia e Łódź con conseguenti disagi al traffico su A2, S2 e S8. Secondo TVN24, gli automobilisti devono attendersi restringimenti e limitazioni di velocità a partire da lunedì, con impatti sulla mobilità stradale regionale. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-przygotowania-do-rozbudowy-autostrady-a2-lista-i-mapa-utrudnien-na-wezlach-st9291832?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T06:02+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8f24e76e",
+   "sez": "mondo",
+   "titolo": "Francia: 1200 arrestati durante disordini di inusitata intensità",
+   "orig": "Premier Francji: 1200 osób aresztowanych po zamieszkach",
+   "lead": "In Francia si susseguono disordini pubblici di scala definita senza precedenti dalle autorità locali. TVN24 riporta che il premier Sébastien Lecornu ha dichiarato 1200 persone arrestate e 150 tra poliziotti e gendarmi feriti durante i tumulti di inusitata intensità che investono il territorio francese. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/swiat/zamieszki-we-francji-premier-sebastien-lecornu-o-aresztowaniach-st9292730?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T06:02+00:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/francuska-u-plamenu-1200-uhicenih-ozlijedjeno-150-policajaca-cudo-sto-brojke-nisu-i-vece/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T07:57+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z603e44ca",
+   "sez": "mondo",
+   "titolo": "Brasile: servizi di intelligence dovranno essere controllati democraticamente",
+   "orig": "Inteligência forte é inteligência controlada",
+   "lead": "Le minacce e interferenze esterne contro il Brasile dimostrano la necessità di servizi d'intelligence efficienti, secondo l'editoriale di Folha de S.Paulo. L'opinione sostiene che l'efficienza deve equilibrare rigore operativo e protezione della privacy dei cittadini senza violazioni arbitrarie di diritti fondamentali. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/inteligencia-forte-e-inteligencia-controlada.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T01:28-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze041a5ea",
+   "sez": "mondo",
+   "titolo": "San Paolo: Jorge Ben Jor emoziona 50mila spettatori in concerto al Nubank Parque",
+   "orig": "Jorge Ben Jor se emociona e leva público ao delírio em show cheio de alquimia",
+   "lead": "Jorge Ben Jor ha eseguito un concerto carico di emozione sabato 17 ottobre al Nubank Parque di San Paolo, davanti a 50mila spettatori. Secondo Folha de S.Paulo, lo show si è distinto per l'alchimia musicale e la profonda connessione emotiva del cantante con il pubblico brasiliano. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/jorge-ben-jor-se-emociona-e-leva-publico-ao-delirio-em-show-cheio-de-alquimia.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T23:24-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb7108a4e",
+   "sez": "mondo",
+   "titolo": "San Paolo batte il Vasco 1-0 e allarga il margine sulla retrocessione",
+   "orig": "Gol de Artur dá vitória ao São Paulo sobre o Vasco no Morumbi",
+   "lead": "Il San Paolo ha vinto 1-0 contro il Vasco al Morumbi sabato 17 ottobre con gol di Artur, davanti a 31.501 spettatori. Secondo Folha de S.Paulo, la vittoria nella 31ª giornata del Campionato Brasiliano consente al San Paolo di allargare il distacco dalla zona di retrocessione. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/gol-de-artur-da-vitoria-ao-sao-paulo-sobre-o-vasco-no-morumbi.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-17T23:21-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7d98bfc1",
+   "sez": "ambiente",
+   "titolo": "Gramado: pane con salsiccia diviene patrimonio culturale immateriale",
+   "orig": "Saiba por que pão de R$ 9 virou patrimônio cultural de Gramado, principal destino turístico da Serra Gaúcha",
+   "lead": "Il tradizionale pane con salsiccia venduto a 9 reais nei forni del centro di Gramado, nella Serra Gaúcha, è stato dichiarato patrimonio culturale immateriale. Secondo G1, la legge municipale valorizza la ricetta e il metodo artigianale preservato da generazioni nel principale polo turistico della regione meridionale. Lo riferisce G1.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/18/pao-linguica-patrimonio-cultural-gramado-serra-gaucha-rs.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T06:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5a4955ed",
+   "sez": "mondo",
+   "titolo": "Paraná: agricoltore realizza il sogno artistico del figlio travestendosi da drag queen",
+   "orig": "'Me senti realizado', diz agricultor que se vestiu de drag queen para realizar sonho do filho no Paraná",
+   "lead": "L'agricoltore João Zocatelli, 64 anni, si è travestito da drag queen per partecipare a un progetto artistico del figlio fotografo Danilo, 37 anni, a Marialva, Paraná. Secondo G1, l'esperienza ha sorpreso Zocatelli per il calore ricevuto dalla comunità locale, realizzando il sogno creativo del figlio. Lo riferisce G1.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/18/agricultor-que-se-vestiu-de-drag-queen-parana.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T06:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z723fb228",
+   "sez": "ambiente",
+   "titolo": "Manaus: qualità dell'aria rimane pessima, concentrate particelle inquinanti a Sud e Est",
+   "orig": "Concentração de poluentes persiste nas zonas Sul e Leste de Manaus após dia de fumaça intensa; há previsão de chuvas, diz meteorologista",
+   "lead": "Manaus rimane avvolta dalla fumaça da incendi per dieci giorni consecutivi, con qualità dell'aria classificata come pessima in vaste aree della capitale amazzonica brasiliana. Secondo la meteorologa Andrea Ramos intervistata da G1, piogge previste per domenica 18 e lunedì 19 potrebbero ridurre le polveri senza garantire miglioramento. Lo riferisce G1.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/am/amazonas/noticia/2026/10/18/concentracao-de-poluentes-persiste-nas-zonas-sul-e-leste-de-manaus-apos-dia-de-fumaca-intensa-ha-previsao-de-chuvas-diz-meteorologista.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T05:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z19e0d7ba",
+   "sez": "mondo",
+   "titolo": "Brasile: Celina Leão e Leandro Grass propongono strategie contro eventi climatici estremi",
+   "orig": "2º turno no DF: conheça as propostas de Celina e Grass para enfrentar desastres climáticos",
+   "lead": "Nella corsa al ballottaggio per il governo del Distretto Federale brasiliano, i candidati Celina Leão (PP) e Leandro Grass (PT) presentano piani per prevenire disastri climatici come alluvioni e incendi. Secondo G1, entrambi prioritizzano la resilienza climatica nelle piattaforme elettorali presentate al Tribunale Superiore Elettorale. Lo riferisce G1.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/18/2o-turno-no-df-conheca-as-propostas-de-celina-e-grass-para-enfrentar-desastres-climaticos.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T05:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:41",
+   "uscita": "mattino"
+  },
+  {
    "id": "zc25c5aa2",
    "sez": "mondo",
    "titolo": "Nigeria eliminata dal Mondiale U17: la Polonia passa a Rabat",
@@ -421,30 +2222,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Belgium",
      "t": "2026-10-18T04:24+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:35",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z2ec0c199",
-   "sez": "mondo",
-   "titolo": "Milizia Huthi produce razzi indipendentemente dall'Iran",
-   "orig": "Huthis bauen Rakete unabhängig von Iran",
-   "lead": "La milizia Huthi presente nello Yemen sviluppa una versione propria della razzo iraniana Cheibar Shekan rafforzando il suo arsenale bellico. Il gruppo controlla nuovi territori nel conflitto con la coalizione a guida saudita e conduce attacchi quotidiani a obiettivi strategici in Arabia Saudita. Lo riferisce ORF.",
-   "more": [
-    "Questo sviluppo segna l'evoluzione della capacità militare della milizia in un conflitto regionale esacerbato dagli interventi esterni, particolarmente dall'escalation Usa-Israele di febbraio 2024."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445039/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-18T07:28+02:00"
     }
    ],
    "data": "18 ott",
@@ -2550,6 +4327,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-17T22:55+02:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/les-images-terribles-de-l-incendie-de-l-hotel-de-ville-de-limoges-en-marge-de-la-manifestation-du-17-octobre-20261017",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T22:19+02:00"
     }
    ],
    "data": "18 ott",
@@ -3881,6 +5667,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-17T22:30+02:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/edhe-italia-perfshihet-nga-protestat-kaos-dhe-perleshje-mes-qytetareve-dhe-policise/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-17T19:19+00:00"
     }
    ],
    "data": "17 ott",
@@ -5706,6 +7501,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-18T02:37+00:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/nya-beskeden-om-trumps-lattade-sanktioner-60-dagars-paus/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T07:09+02:00"
     }
    ],
    "data": "18 ott",
@@ -6020,7 +7824,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zc77ffcd9": "Intervista retrospettiva con il corrispondente in congedo che riflette sul proprio incarico estero.",
   "z454246b6": "Cronaca di intossicazione accidentale durante una visita industriale.",
   "za6f97862": "Resoconto della stabilizzazione istituzionale dopo un lutto che tocca la stabilità costituzionale.",
-  "z2ec0c199": "Analisi della crescente autonomia militare dei gruppi proxy nel conflitto yemenita.",
   "z5f57b5f9": "Resoconto delle vulnerabilità democratiche esposte dal ricorso crescente a tecnologie generative nel processo elettorale.",
   "zb23c106c": "Rappresentazione simbolica di contrasti programmatici che potrebbero paralizzare le trattative di governo.",
   "zff190504": "Analisi dei nodi critici che potrebbero impedire la formazione di una coalizione stabile alle sinistre svedesi.",
@@ -6076,7 +7879,84 @@ window.EDIZIONI["2026-10-18"] = {
   "z5784389a": "Approfondimento tecnico su soluzioni software per il mercato cinese",
   "z51235c14": "Analisi geopolitica della dottrina militare americana nel Pacifico",
   "zb742a257": "Argomentazione per il dialogo interculturale come strumento di pace",
-  "z58d431db": "Speculazione analitica sui comportamenti elettorali italiani e fattori psicologici"
+  "z58d431db": "Speculazione analitica sui comportamenti elettorali italiani e fattori psicologici",
+  "z14f2c1a0": "La Repubblica affronta il tema come questione di minaccia costituzionale alla democrazia americana.",
+  "z39d4c63c": "Sky TG24 bilancia la posizione diplomatica iraniana con sviluppi umanitari nel conflitto regionale.",
+  "z12df611a": "Hespress English sottolinea il percorso inusuale di Chahid dalle periferie rurali alle responsabilità ministeriali.",
+  "zadc12ac9": "Hespress English evidenzia il bilancio positivo del mandato e la continuità istituzionale fra governo e corona.",
+  "z62c57992": "The Namibian enfatizza l'impatto economico della malattia su comunità rurali e piccole imprese zootecniche.",
+  "z8dd108b8": "Lusaka Times sottolinea il significato geopolitico della manifestazione con la presenza di delegazioni di paesi rivieraschi.",
+  "zfd04fb48": "Euronews Albania riporta l'intervento diplomatico statunitense a sostegno della stabilità democratica.",
+  "z2878c41a": "Euronews Albania documenta l'escalation di violenza durante le proteste con suddivisione precisa dei feriti per categoria.",
+  "za6738b15": "Euronews Albania presenta il messaggio di Macron come affermazione di principi democratici contro l'estremismo.",
+  "z2d696020": "Copertura della questione amministrativa sull'estensione dei servizi vaccinali al settore farmaceutico ceco.",
+  "z2d03bd2d": "Angolazione eco-conservazionista che integra ricostituzione biologica e contesto bellico.",
+  "z20b33696": "Reportage inchiestivo sulla dimensione umanitaria della povertà urbana nei Balcani.",
+  "z076c0b18": "Enfasi su celebrazione istituzionale di eccellenze accademiche e soft power culturale.",
+  "z144911e9": "Analisi di intelligence sulla dimensione internazionale degli scontri nello Yemen.",
+  "z09c6430d": "Copertura della resistenza civile e delle violazioni umanitarie nel conflitto interno yemenita.",
+  "z9392c033": "Resoconto sportivo di una manifestazione calcistica giovanile regionale.",
+  "z43ad715d": "Comunicazione ufficiale di sicurezza relativa a minacce aeree in ambito medio-orientale.",
+  "zd4f1ceff": "Resoconto di una manifestazione internazionale di lotta olimpica in Asia centrale.",
+  "z38bdb9b5": "Copertura della diplomazia multilaterale con focus sulla retorica geopolitica iraniana.",
+  "z55c9837e": "Copertura della strategia di sviluppo infrastrutturale e occupazionale regionale.",
+  "za0577305": "Comunicazione di un'istituzione educativa specializzata nel settore moda e tessile.",
+  "z9fb0f82f": "Enfasi sulla deontologia e sull'identità professionale della categoria giornalistica.",
+  "z3f14152b": "Analisi del sistema alternativo di risoluzione delle controversie in ambito giuridico.",
+  "z62b79729": "Copertura della preparazione militare specializzata nel contesto della difesa nazionale.",
+  "z8f4a8235": "Profilo umano di successo professionale e ascesa nel contesto politico nazionale.",
+  "zb7ea759d": "Comunicazione commerciale di una iniziativa di alienazione beni.",
+  "z688766fb": "Copertura delle allerte meteorologiche e della protezione civile.",
+  "ze7e0fd46": "Cerimonia di riconoscimento istituzionale del servizio pubblico.",
+  "zc2cd4b0e": "Enfasi su raccomandazioni di policy basate su dati provenienti da inchiesta indipendente.",
+  "zadf33207": "Comunicazione di lavori infrastrutturali e disagi al traffico urbano.",
+  "z8400eb1f": "Inchiesta critica sulle scelte di sourcing in un'opera infrastrutturale con implicazioni occupazionali locali.",
+  "zdcd0f415": "Cronaca sportiva locale su campionato calcistico eswatiniano.",
+  "zcd99c223": "Dichiarazioni ufficiali su questione di credibilità accademica.",
+  "z5a9deb07": "Analisi della retorica presidenziale trumpiana sui risultati geopolitici.",
+  "zf5c845cb": "Cronaca sportiva boliviana su match calcistico cruciale.",
+  "z14684bb7": "Dichiarazioni rassicuranti da banca centrale su accesso ai depositi e riserve.",
+  "z60ec4bd4": "Cronaca sportiva boliviana su match determinante per salvezza.",
+  "z44ea07f4": "Analisi critica della linea geopolitica trumpiana verso Russia e impatto domestico.",
+  "z69a96e99": "Reportage su movimento di protesta diffuso negli Usa con focus su tensioni emotive.",
+  "z43563e16": "Profilo politico critico su figura militare e politica controversa.",
+  "z4b2efa94": "Dichiarazioni governative di difesa della gestione dell'ordine pubblico.",
+  "z3aba28c3": "Reportage su dinamiche tattiche dei manifestanti e loro penetrazione nelle aree protette.",
+  "zeb265b28": "Analisi del dibattito politico su interpretazione e responsabilità dei disordini.",
+  "zd3eb5c17": "Cronaca di scontri regionali tra forze iraniane e saudite per procura.",
+  "z4e1847af": "Cronaca di disordini con commenti governativi sulla gravità della situazione.",
+  "zb7fbbc89": "Analisi critica di retorica campagna francese su rivalità franco-tedesca.",
+  "z333571ef": "Profilo biografico di figura imprenditoriale di spicco legata all'establishment tedesco.",
+  "zcf9fd1c0": "Analisi critica del vuoto politico nel governo francese di fronte alle spinte estremiste.",
+  "zbe9917c4": "Analisi critica sulla strategia di coalizione della sinistra spagnola.",
+  "z1bb71723": "Analisi strategica dei giochi politici per il controllo dell'istituzione alta.",
+  "z1cb42898": "Cronaca amministrativa che evidenzia complessità della gestione elettorale.",
+  "zca5f3c65": "Inchiesta sulla coerenza tra politiche dichiarate e interessi economici di esponenti.",
+  "z91bfb016": "Analisi strategica della campagna governo su tema generazionale.",
+  "zf6a855e9": "Focus sulla tattica politica dei due principali partiti conservatori spagnoli per il controllo della Camera Alta",
+  "z4cefb0ea": "Critica alla gestione e alla previsione del bilancio sanitario portoghese",
+  "zd705cf55": "Analisi critica del declino degli standard educativi nel sistema portoghese",
+  "z94c977d5": "Prospettiva femminista sulla salute riproduttiva come tema di responsabilità politica nazionale",
+  "z92853fdf": "Allerta sulla vulnerabilità del pluralismo mediatico e delle istituzioni democratiche",
+  "zca209829": "Reportage investigativo su fenomeno di migrazione irregolare e mancanza di registrazioni amministrative",
+  "z79f64b4b": "Riflessione sulla convergenza tra normalizzazione del mercato e opportunità di deregulation",
+  "zfe9a1edd": "Prospettiva culturale che rivaluta il fallimento come componente naturale del percorso artistico",
+  "z2d0c4f4d": "Critica editoriale ai programmi di welfare finanziati con aumento fiscale, visti come insostenibili",
+  "z41ec85fb": "Analisi critica che collega il fallimento neoliberista alla destabilizzazione democratica",
+  "z6c999724": "Focus sugli effetti tangibili del riscaldamento climatico sui calendari e i budget dello sport professionistico",
+  "z324aeccc": "Reportage su rivalità geopolitiche emergenti attorno alle risorse e alle rotte artiche",
+  "zf48e51db": "Inchiesta sulla capacità della tecnologia di contrastare pratiche commerciali basate sull'inerzia consumatrice",
+  "zf330b988": "Resoconto di operazioni militari notturne nell'ambito del conflitto Russia-Ucraina",
+  "zce4807e3": "Feature umoristico su personaggio canino utilizzato come strumento di satira sociale",
+  "z88524a47": "Avviso pubblico su interventi infrastrutturali con effetti sulla viabilità nazionale",
+  "z8f24e76e": "Notizia su escalation di disordini civili francesi con violenti scontri e operazioni di ordine pubblico",
+  "z603e44ca": "Editoriale sulla necessità di equilibrio fra sicurezza nazionale e diritti civili nei servizi segreti",
+  "ze041a5ea": "Cronaca di evento culturale e reazione emotiva del pubblico a performance artistica",
+  "zb7108a4e": "Cronaca di match di calcio brasiliano con implicazioni sulla classifica stagionale",
+  "z7d98bfc1": "Reportage su riconoscimento giuridico di tradizione culinaria locale come patrimonio culturale territoriale",
+  "z5a4955ed": "Feature umana su generosità intergenerazionale e accettazione comunitaria di espressione artistica",
+  "z723fb228": "Reportage su crisi ambientale urbana da incendi forestali con analisi dei fattori meteorologici",
+  "z19e0d7ba": "Copertura comparativa di strategie ambientali nella competizione elettorale distrettuale"
  },
  "contesti": {
   "z3699f7d3": "Nei giorni precedenti era già stato segnalato un attacco a un fotografo statunitense nella stessa zona della Cisgiordania, episodio che aveva acceso i timori per la sicurezza di operatori e osservatori stranieri nella regione, in un contesto di crescente tensione legato agli insediamenti.",
@@ -7459,14 +9339,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z2ec0c199": {
-   "n": "Yemen",
-   "p": [
-    "Yemen",
-    "Saudi Arabia"
-   ],
-   "pt": []
-  },
   "z5f57b5f9": {
    "n": "Israele",
    "p": [
@@ -7856,6 +9728,547 @@ window.EDIZIONI["2026-10-18"] = {
     "Italy"
    ],
    "pt": []
+  },
+  "z14f2c1a0": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z39d4c63c": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z12df611a": {
+   "n": "Marocco",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "zadc12ac9": {
+   "n": "Marocco",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z62c57992": {
+   "n": "Namibia",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z8dd108b8": {
+   "n": "Zambia",
+   "p": [
+    "Zambia"
+   ],
+   "pt": []
+  },
+  "zfd04fb48": {
+   "n": "Albania",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z2878c41a": {
+   "n": "Albania",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "za6738b15": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z2d696020": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z2d03bd2d": {
+   "n": "Praga",
+   "p": [
+    "Czechia",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z20b33696": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z076c0b18": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z144911e9": {
+   "n": "Yemen",
+   "p": [
+    "Yemen",
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z09c6430d": {
+   "n": "Al-Bayda",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z9392c033": {
+   "n": "Doha",
+   "p": [
+    "Qatar"
+   ],
+   "pt": []
+  },
+  "z43ad715d": {
+   "n": "Riad",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zd4f1ceff": {
+   "n": "Aktau",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z38bdb9b5": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z55c9837e": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "za0577305": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z9fb0f82f": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z3f14152b": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z62b79729": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z8f4a8235": {
+   "n": "Jirapa",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zb7ea759d": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "z688766fb": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "ze7e0fd46": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "zc2cd4b0e": {
+   "n": "Bridgetown",
+   "p": [
+    "Barbados"
+   ],
+   "pt": []
+  },
+  "zadf33207": {
+   "n": "Castries",
+   "p": [
+    "Saint Lucia"
+   ],
+   "pt": []
+  },
+  "z8400eb1f": {
+   "n": "Mbabane",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "zdcd0f415": {
+   "n": "Nhlangano",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "zcd99c223": {
+   "n": "Mbabane",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "z5a9deb07": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf5c845cb": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z14684bb7": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z60ec4bd4": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z44ea07f4": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z69a96e99": {
+   "n": "United States of America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z43563e16": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z4b2efa94": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3aba28c3": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zeb265b28": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zd3eb5c17": {
+   "n": "Riyadh",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z4e1847af": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb7fbbc89": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z333571ef": {
+   "n": "Sauerland",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zcf9fd1c0": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zbe9917c4": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z1bb71723": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z1cb42898": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zca5f3c65": {
+   "n": "Lleida",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z91bfb016": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zf6a855e9": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z4cefb0ea": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zd705cf55": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z94c977d5": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z92853fdf": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zca209829": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z79f64b4b": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zfe9a1edd": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z2d0c4f4d": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z41ec85fb": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z6c999724": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z324aeccc": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zf48e51db": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zf330b988": {
+   "n": "San Pietroburgo",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zce4807e3": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z88524a47": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z8f24e76e": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z603e44ca": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "ze041a5ea": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zb7108a4e": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z7d98bfc1": {
+   "n": "Gramado",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z5a4955ed": {
+   "n": "Marialva, Paraná",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z723fb228": {
+   "n": "Manaus",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z19e0d7ba": {
+   "n": "Brasília",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -7868,7 +10281,7 @@ window.EDIZIONI["2026-10-18"] = {
   "z7944099e": 2,
   "z7e719013": 2,
   "z18475058": 1,
-  "z0ba34710": 1,
+  "z0ba34710": 2,
   "z63e7cf15": 1,
   "z84a1570a": 1,
   "z725a011c": 2,
@@ -7958,7 +10371,7 @@ window.EDIZIONI["2026-10-18"] = {
   "zd82b4efb": 1,
   "zf21a2dad": 1,
   "z325a201f": 1,
-  "z57e40695": 1,
+  "z57e40695": 2,
   "zcd770f57": 1,
   "z14d7490a": 1,
   "z312e7aa1": 1,
@@ -8020,7 +10433,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zc77ffcd9": 1,
   "z454246b6": 1,
   "za6f97862": 1,
-  "z2ec0c199": 1,
   "z5f57b5f9": 1,
   "zb23c106c": 1,
   "zff190504": 1,
@@ -8076,7 +10488,84 @@ window.EDIZIONI["2026-10-18"] = {
   "z5784389a": 1,
   "z51235c14": 1,
   "zb742a257": 1,
-  "z58d431db": 1
+  "z58d431db": 1,
+  "z14f2c1a0": 1,
+  "z39d4c63c": 1,
+  "z12df611a": 1,
+  "zadc12ac9": 1,
+  "z62c57992": 1,
+  "z8dd108b8": 1,
+  "zfd04fb48": 1,
+  "z2878c41a": 1,
+  "za6738b15": 1,
+  "z2d696020": 1,
+  "z2d03bd2d": 1,
+  "z20b33696": 1,
+  "z076c0b18": 1,
+  "z144911e9": 1,
+  "z09c6430d": 1,
+  "z9392c033": 1,
+  "z43ad715d": 1,
+  "zd4f1ceff": 1,
+  "z38bdb9b5": 1,
+  "z55c9837e": 1,
+  "za0577305": 1,
+  "z9fb0f82f": 1,
+  "z3f14152b": 1,
+  "z62b79729": 1,
+  "z8f4a8235": 1,
+  "zb7ea759d": 1,
+  "z688766fb": 1,
+  "ze7e0fd46": 1,
+  "zc2cd4b0e": 1,
+  "zadf33207": 1,
+  "z8400eb1f": 1,
+  "zdcd0f415": 1,
+  "zcd99c223": 1,
+  "z5a9deb07": 1,
+  "zf5c845cb": 1,
+  "z14684bb7": 1,
+  "z60ec4bd4": 1,
+  "z44ea07f4": 1,
+  "z69a96e99": 2,
+  "z43563e16": 1,
+  "z4b2efa94": 1,
+  "z3aba28c3": 1,
+  "zeb265b28": 1,
+  "zd3eb5c17": 2,
+  "z4e1847af": 1,
+  "zb7fbbc89": 1,
+  "z333571ef": 1,
+  "zcf9fd1c0": 1,
+  "zbe9917c4": 1,
+  "z1bb71723": 1,
+  "z1cb42898": 1,
+  "zca5f3c65": 1,
+  "z91bfb016": 1,
+  "zf6a855e9": 1,
+  "z4cefb0ea": 1,
+  "zd705cf55": 1,
+  "z94c977d5": 1,
+  "z92853fdf": 1,
+  "zca209829": 1,
+  "z79f64b4b": 1,
+  "zfe9a1edd": 1,
+  "z2d0c4f4d": 1,
+  "z41ec85fb": 1,
+  "z6c999724": 1,
+  "z324aeccc": 1,
+  "zf48e51db": 1,
+  "zf330b988": 1,
+  "zce4807e3": 1,
+  "z88524a47": 1,
+  "z8f24e76e": 2,
+  "z603e44ca": 1,
+  "ze041a5ea": 1,
+  "zb7108a4e": 1,
+  "z7d98bfc1": 1,
+  "z5a4955ed": 1,
+  "z723fb228": 1,
+  "z19e0d7ba": 1
  },
  "video": {},
  "pillole": []
