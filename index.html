@@ -718,6 +718,8 @@ section.sec.t-eventi,nav.sections a.t-eventi{--t:#d9822b}
 .t-musica .card{border-radius:14px 14px 14px 14px;border-left:6px solid var(--t);background-image:repeating-linear-gradient(0deg,color-mix(in srgb,var(--t) 9%,transparent) 0 1px,transparent 1px 9px)}
 .t-musica h3{font-style:italic}
 section.sec.t-adolescenti,nav.sections a.t-adolescenti{--t:#e07aa0}
+section.sec.t-dibattito,nav.sections a.t-dibattito{--t:#a8773a}
+.dib-nota{margin:0 0 10px;padding:8px 12px;border-left:4px solid var(--t);background:color-mix(in srgb,var(--t) 9%,var(--card));font:13.5px/1.45 var(--sans);color:var(--ink)}
 section.sec.t-meteo,nav.sections a.t-meteo{--t:#5aa7d8}
 /* Organizzazioni: filetto istituzionale · Cucina: bordo a quadretti da tovaglia · Adolescenti: angoli morbidi e fumetto · Meteo: tabella limpida */
 .t-organizzazioni .card{border-top-width:5px;border-radius:0}
@@ -758,7 +760,7 @@ section.sec>h2 .ico{color:color-mix(in srgb,var(--t) 70%,var(--ink))}
 .nz-tit small{display:block;margin-top:4px}.nz-tit .orig{display:block;margin-top:3px;font:italic 11.5px/1.35 var(--sans);color:var(--muted)}
 .nz-sez{display:table;margin:0 0 5px;padding:1px 7px;border-radius:3px;background:var(--t,#8a8576);color:#fff;font:700 10px/1.6 var(--sans);letter-spacing:.05em;text-transform:uppercase}
 .nazbar .nz-t[class*=" t-"]{border-top-color:var(--t)}
-.nazbar .t-prima{--t:#8a8576} .nazbar .t-italia{--t:#4a9a68} .nazbar .t-mondo{--t:#4f7fc0} .nazbar .t-organizzazioni{--t:#7a86b8} .nazbar .t-economia{--t:#e0804a} .nazbar .t-ingegneria{--t:#b08a4a} .nazbar .t-tech{--t:#2a9db5} .nazbar .t-spazio{--t:#5b6bd6} .nazbar .t-ambiente{--t:#6aa84f} .nazbar .t-salute{--t:#3aa59e} .nazbar .t-cultura{--t:#a86bb0} .nazbar .t-viaggi{--t:#c4572e} .nazbar .t-manga{--t:#d63fa1} .nazbar .t-musica{--t:#8b6fd1} .nazbar .t-cucina{--t:#c9a227} .nazbar .t-adolescenti{--t:#e07aa0} .nazbar .t-sport{--t:#e0564b} .nazbar .t-eventi{--t:#d9822b} .nazbar .t-meteo{--t:#5aa7d8}   /* colori delle sezioni anche nella pagina del Paese (13/10) */
+.nazbar .t-prima{--t:#8a8576} .nazbar .t-italia{--t:#4a9a68} .nazbar .t-mondo{--t:#4f7fc0} .nazbar .t-organizzazioni{--t:#7a86b8} .nazbar .t-economia{--t:#e0804a} .nazbar .t-ingegneria{--t:#b08a4a} .nazbar .t-tech{--t:#2a9db5} .nazbar .t-spazio{--t:#5b6bd6} .nazbar .t-ambiente{--t:#6aa84f} .nazbar .t-salute{--t:#3aa59e} .nazbar .t-cultura{--t:#a86bb0} .nazbar .t-viaggi{--t:#c4572e} .nazbar .t-manga{--t:#d63fa1} .nazbar .t-musica{--t:#8b6fd1} .nazbar .t-cucina{--t:#c9a227} .nazbar .t-adolescenti{--t:#e07aa0} .nazbar .t-sport{--t:#e0564b} .nazbar .t-eventi{--t:#d9822b} .nazbar .t-meteo{--t:#5aa7d8} .nazbar .t-dibattito{--t:#a8773a}   /* colori delle sezioni anche nella pagina del Paese (13/10) */
 </style>
 </head>
 <body>
@@ -878,6 +880,7 @@ const SEZIONI = [
   {id:"prima", nome:"Prima pagina", front:true},
   {id:"italia", nome:"Italia"},
   {id:"mondo", nome:"Mondo"},
+  {id:"dibattito", nome:"Temi in dibattito"},
   {id:"organizzazioni", nome:"Organizzazioni internazionali"},
   {id:"economia", nome:"Economia"},
   {id:"ingegneria", nome:"Ingegneria e architettura"},
@@ -1089,6 +1092,7 @@ function visibile(n){
 }
 
 function subBar(s){                                   // riga di filtri per sottotema, in testa alla sezione
+  if(s.id==="dibattito") return `<p class="dib-nota">Temi in discussione in Italia e in Europa e proteste, spiegati senza prendere posizione: che cosa si chiede, chi lo chiede e perché. Ogni posizione è attribuita a chi la sostiene; le polemiche tra partiti restano nelle altre sezioni.</p>`;
   if(s.id!=="adolescenti") return "";
   const conta = {}; NEWS.filter(n=>n.sez===s.id && n.sub && SUB[n.sub]).forEach(n=>conta[n.sub] = (conta[n.sub]||0)+1);
   const k = Object.keys(conta); if(k.length<2) return "";
@@ -1614,7 +1618,7 @@ function pilloleHTML(){
 }
 
 /* ===== ELENCO FISSO DELLE SEZIONI (a sinistra) ===== */
-const TEMA_COL = {prima:"#8a8576",italia:"#4a9a68",mondo:"#4f7fc0",economia:"#e0804a",ingegneria:"#b08a4a",organizzazioni:"#7a86b8",cucina:"#c9a227",musica:"#8b6fd1",adolescenti:"#e07aa0",meteo:"#5aa7d8",tech:"#2a9db5",ambiente:"#6aa84f",salute:"#3aa59e",spazio:"#5b6bd6",medicina:"#d0506a",viaggi:"#c4572e",manga:"#d63fa1",cultura:"#a86bb0",sport:"#e0564b",eventi:"#d9822b"};
+const TEMA_COL = {prima:"#8a8576",italia:"#4a9a68",mondo:"#4f7fc0",economia:"#e0804a",ingegneria:"#b08a4a",organizzazioni:"#7a86b8",cucina:"#c9a227",musica:"#8b6fd1",adolescenti:"#e07aa0",dibattito:"#a8773a",meteo:"#5aa7d8",tech:"#2a9db5",ambiente:"#6aa84f",salute:"#3aa59e",spazio:"#5b6bd6",medicina:"#d0506a",viaggi:"#c4572e",manga:"#d63fa1",cultura:"#a86bb0",sport:"#e0564b",eventi:"#d9822b"};
 function renderRail(){
   const el = $("#rail"); if(!el) return;
   const fs = filtroSezione, fb = filtroSub; filtroSezione = null; filtroSub = null;     // i conteggi non devono dipendere dalla sezione o dall'argomento scelti
@@ -1717,6 +1721,7 @@ const ICONE = {
   prima:'<rect x="4" y="4" width="16" height="16" rx="1.5"/><path d="M7.5 8.5h9M7.5 12h9M7.5 15.5h5"/>',
   mondo:'<circle cx="12" cy="12" r="8.5"/><ellipse cx="12" cy="12" rx="3.6" ry="8.5"/><path d="M3.5 12h17M5 7.5q7 2.4 14 0M5 16.5q7-2.4 14 0"/>',
   italia:'<path d="M4 9.5 12 4l8 5.5M6 10v8M10 10v8M14 10v8M18 10v8M4 19h16"/>',
+  dibattito:'<path d="M4 5h10v7H8l-3 3v-3H4zM10 14h9v6h-1v2l-3-2h-5z"/>',
   economia:'<path d="M5 19V11M10 19V6M15 19v-6M20 19V9M3.5 19.5h17"/>',
   ingegneria:'<path d="M12 3v3M12 6 6 20M12 6l6 14M8.500 15h7M9.800 11h4.400M4 20h16"/>',
   organizzazioni:'<path d="M6 21V4M6 5h11l-2 3.500 2 3.500H6"/>',
@@ -1926,7 +1931,7 @@ $("#archivio").addEventListener("change",e=>apri(e.target.value));
 document.addEventListener("click",e=>{ const a=e.target.closest("a[data-ed]"); if(a){ e.preventDefault(); apri(a.dataset.ed); window.scrollTo({top:0,behavior:"smooth"}); } });
 
 /* in locale i dati si ricaricano sempre (niente copie vecchie nella cache); online si usa il numero di versione */
-const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261018-2023";
+const BUST = (location.protocol==="file:" || location.hostname==="localhost" || location.hostname==="127.0.0.1") ? Date.now() : "20261018-2355";
 function carica(src){
   return new Promise(res=>{ const s=document.createElement("script"); s.src=src+(src.includes("?")?"&":"?")+"v="+BUST; s.onload=()=>res(true); s.onerror=()=>res(false); document.head.appendChild(s); });
 }
@@ -2144,7 +2149,7 @@ function renderFontiBox(){
     </ul>`;
 }
 /* ===== PIÈ DI PAGINA: fonti dell'edizione e versione del programma (uguale nell'app) ===== */
-const VERSIONE = "2.0", BUILD = "20261018-2023";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
+const VERSIONE = "2.0", BUILD = "20261018-2355";          // BUILD è sostituita a ogni pubblicazione; in locale resta «locale»
 function renderPiede(){
   const v = $("#versione");
   if(v) v.textContent = `Uno sguardo sul mondo · versione ${VERSIONE} · ${BUILD.startsWith("__")?"copia locale":"aggiornamento "+BUILD} · edizione del ${EDIZIONE}`;
