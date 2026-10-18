@@ -3,6 +3,2073 @@ window.EDIZIONI["2026-10-18"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "zc2ce2f9f",
+   "sez": "economia",
+   "titolo": "I vertici delle banche sudcoreane chiamati a rispondere sui cyberattacchi",
+   "orig": "Top bank chiefs face grilling over cyberattacks",
+   "lead": "I presidenti di cinque grandi banche commerciali sudcoreane - KB Kookmin, Shinhan, Hana, Woori e NH NongHyup - compariranno lunedì davanti alla Commissione per le politiche nazionali dell'Assemblea Nazionale a Seul per rispondere a domande su una serie di cyberattacchi che hanno esposto dati personali di clienti e dipendenti. La mozione per convocare i cinque amministratori delegati come testimoni era stata approvata l'8 ottobre, nell'ambito di un'audizione parlamentare sulla vigilanza finanziaria. Lo riferisce The Korea Herald.",
+   "more": [
+    "La Corea del Sud ha visto negli ultimi anni un aumento degli attacchi informatici contro istituti finanziari, spingendo le autorità a rafforzare i controlli sulla sicurezza dei dati bancari. Le audizioni parlamentari periodiche servono a verificare che le aziende private rispettino gli standard di protezione informatica richiesti dalla legge."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10906198",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbdc2ab60",
+   "sez": "tech",
+   "titolo": "L'esercito americano testerà tecnologie anti-drone in Marocco nel 2027",
+   "orig": "US Army to test counter-drone technologies in Morocco in 2027",
+   "lead": "L'esercito statunitense organizzerà nella primavera del 2027 il suo primo evento di accelerazione tecnologica a Tan-Tan, nel sud del Marocco, dedicato al contrasto dei piccoli drone e alla protezione di centri di comando e sistemi tattici. L'iniziativa coinvolgerà la Southern European Task Force, Africa (SETAF-AF) dell'esercito americano insieme al Global Tactical Advanced Technology Program. Lo riferisce Hespress English, citando un comunicato dell'esercito statunitense.",
+   "more": [
+    "Le minacce rappresentate dai piccoli drone militari e commerciali sono diventate una priorità per gli eserciti occidentali dopo i conflitti recenti, dove sistemi economici hanno mostrato grande efficacia contro mezzi costosi. Il Marocco, partner strategico degli Stati Uniti in Africa, ospita già esercitazioni militari congiunte come l'African Lion."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147536-us-army-to-test-counter-drone-technologies-in-morocco-in-2027.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-18T00:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z250fe90f",
+   "sez": "economia",
+   "titolo": "Samsung e SK hynix, peggior settimana in borsa dal 2008",
+   "orig": "Samsung, SK hynix suffer worst weekly stock rout since 2008",
+   "lead": "I due colossi sudcoreani dei semiconduttori, Samsung Electronics e SK hynix, hanno registrato nell'ultima settimana il calo azionario più severo dal 2008, colpiti da vendite record di investitori stranieri. A pesare sono i timori legati ai tassi d'interesse statunitensi, al rischio di una bolla negli investimenti sull'intelligenza artificiale e alla crescente concorrenza dei produttori cinesi di memorie. Secondo la Borsa di Corea, le azioni Samsung sono crollate del 17,8% tra lunedì e venerdì, passando da 262.000 a 215.500 won. Lo riferisce The Korea Herald.",
+   "more": [
+    "Samsung e SK hynix dominano il mercato globale dei chip di memoria, settore cruciale per data center e intelligenza artificiale. L'ascesa di produttori cinesi come CXMT, che punta a tecnologie DRAM più efficienti, minaccia la leadership sudcoreana e alimenta i dubbi sulla sostenibilità dei margini legati al boom dell'AI."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10906189",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd4e281c9",
+   "sez": "economia",
+   "titolo": "Il 'chip bomb' cinese di CXMT scuote i mercati tecnologici globali",
+   "orig": "What is CXMT's 'Chinese chip bomb' that has wiped billions off the US stock market",
+   "lead": "Il produttore cinese di memorie CXMT ha annunciato progressi su un design DRAM denso 4F² e piani per un modulo di memoria server entro fine 2026, provocando un crollo dei titoli dei principali concorrenti mondiali. Micron, SK Hynix e Samsung hanno perso miliardi di valore in borsa, mentre gli investitori si chiedono per quanto tempo i profitti legati all'intelligenza artificiale nel settore delle memorie potranno continuare a crescere. Lo riferisce Times of India.",
+   "more": [
+    "CXMT (ChangXin Memory Technologies) è diventata negli ultimi anni il principale produttore cinese di chip di memoria, sostenuto da investimenti statali per ridurre la dipendenza di Pechino dalle tecnologie straniere. I progressi tecnici cinesi nel settore DRAM minacciano l'oligopolio storico detenuto da Samsung, SK Hynix e Micron."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/technology/tech-news/what-is-cxmts-chinese-chip-bomb-that-has-wiped-billions-off-the-us-stock-market/articleshow/135023858.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T10:09+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4ada9875",
+   "sez": "tech",
+   "titolo": "Il primo iPhone pieghevole di Apple esaurito in pochi minuti, consegne a gennaio",
+   "orig": "Apple’s First Foldable iPhone Sells Out in Minutes as Delivery Delays Stretch to January",
+   "lead": "I preordini del primo smartphone pieghevole di Apple, l'iPhone Duo, sono andati esauriti in pochi minuti dall'apertura venerdì 16 ottobre. Le stime di consegna si sono allungate dalla data di lancio iniziale del 23 ottobre fino a fine gennaio 2027, segno di una domanda superiore alle attese per il nuovo dispositivo. Lo riferisce Daily Tribune.",
+   "more": [
+    "L'iPhone pieghevole arriva dopo anni in cui concorrenti come Samsung hanno già proposto smartphone con schermo flessibile. L'ingresso di Apple in questo segmento è considerato un test importante per capire se il formato pieghevole può diventare uno standard di massa nel mercato premium degli smartphone."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/apples-first-foldable-iphone-sells-out-in-minutes-as-delivery-delays-stretch-to-january",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-17T18:34+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za0f39a39",
+   "sez": "economia",
+   "titolo": "Pakistan sospende i corridoi commerciali con l'Iran per motivi di sicurezza",
+   "orig": "Pakistan suspends Iran trade corridors over 'security, smuggling concerns'",
+   "lead": "Il Pakistan ha sospeso con effetto immediato gli scambi commerciali con l'Iran attraverso i valichi ufficiali di Gabd-Rimdan e Taftan, come emerso sabato. Il ministero del Commercio ha ritirato con un memorandum l'ordine precedente del 3 ottobre che regolava il commercio con l'Iran. Secondo Shahid Rind, consulente del governo del Balochistan per i media, la chiusura temporanea serve ad affrontare problemi di sicurezza e a prevenire il contrabbando. Lo riferisce Dawn.",
+   "more": [
+    "I valichi di frontiera tra Pakistan e Iran, situati nella provincia instabile del Balochistan, sono stati più volte teatro di attacchi e contrabbando, in un'area segnata da tensioni separatiste e traffici illegali. La regione è strategica per gli scambi commerciali tra i due paesi vicini."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2037865/pakistan-suspends-iran-trade-corridors-over-security-smuggling-concerns",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T01:25+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z815bb559",
+   "sez": "economia",
+   "titolo": "Il commercio al valico di Taftan si blocca completamente",
+   "orig": "Trade at Taftan comes to a grinding halt",
+   "lead": "Il traffico commerciale al confine di Taftan tra Pakistan e Iran si è fermato dopo che il cancello di immigrazione è stato chiuso su istruzioni di alti funzionari di Islamabad. La misura, collegata alla sospensione dei corridoi commerciali con l'Iran annunciata dal ministero del Commercio pakistano, blocca uno dei principali punti di scambio tra i due paesi. Lo riferisce The Express Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2635441/trade-at-taftan-comes-to-a-grinding-halt",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T00:43+05:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfed0f7fb",
+   "sez": "economia",
+   "titolo": "Interruzioni al confine fanno salire i prezzi delle mele prima del Dashain in Nepal",
+   "orig": "Border disruptions push up apple prices ahead of Dashain",
+   "lead": "I prezzi delle mele in Nepal stanno salendo in vista della festività del Dashain a causa di interruzioni alla frontiera che hanno aumentato i costi di trasporto. La Cina fornisce la maggior parte delle mele importate dal Nepal, lasciando il mercato vulnerabile all'aumento dei costi di spedizione, nonostante la crescita della produzione interna. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il Dashain è la festività induista più importante del Nepal, periodo in cui la domanda di beni alimentari, inclusa la frutta, aumenta notevolmente. Il paese dipende fortemente dalle importazioni cinesi per alcuni prodotti agricoli, rendendolo sensibile a variazioni logistiche e commerciali al confine."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/money/2026/10/18/border-disruptions-push-up-apple-prices-ahead-of-dashain",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9d0bf370",
+   "sez": "economia",
+   "titolo": "Come è andata l'economia di Dubai nel primo semestre 2026",
+   "orig": "How did Dubai’s economy perform in the first half of 2026?",
+   "lead": "Gulf News analizza l'andamento dell'economia di Dubai nella prima metà del 2026, offrendo un quadro delle performance registrate dall'emirato negli ultimi sei mesi. L'articolo si concentra sui principali indicatori economici della città, simbolo della crescita del Golfo. Lo riferisce Gulf News.",
+   "more": [
+    "Dubai rappresenta uno dei principali centri finanziari e commerciali del Medio Oriente, con un'economia diversificata che spazia da turismo e immobiliare a finanza e logistica, spesso usata come indicatore della salute economica regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/business/how-did-dubais-economy-perform-in-the-first-half-of-2026-1.500714731",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T09:29+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zeb04af4c",
+   "sez": "economia",
+   "titolo": "Egitto, il premier riesamina il programma di trasformazione economica nazionale",
+   "orig": "Egypt reviews National Economic Transformation Programme ahead of 2026 forum",
+   "lead": "Il primo ministro egiziano Mostafa Madbouly ha riesaminato il Programma Nazionale di Trasformazione Economica in vista della sua presentazione al prossimo Egypt Forum 2026. Durante un incontro di sabato con il ministro delle Finanze Ahmed Kouchouk e il ministro della Pianificazione e dello Sviluppo Economico Ahmed Rostom, Madbouly ha sottolineato l'obiettivo di costruire un'economia resiliente capace di crescita sostenibile. Lo riferisce Daily News Egypt.",
+   "more": [
+    "L'Egitto sta attraversando un percorso di riforme economiche per affrontare debito pubblico elevato e pressioni inflazionistiche, con l'obiettivo di attrarre investimenti stranieri e diversificare l'economia oltre i settori tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/17/egypt-reviews-national-economic-transformation-programme-ahead-of-2026-forum/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-17T18:37+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z34505ffc",
+   "sez": "tech",
+   "titolo": "A Zagabria debutta il primo robotaxi d'Europa",
+   "orig": "Look, no hands: Euronews rode driverless in Europe's first robotaxi in Zagreb",
+   "lead": "Euronews ha testato il servizio di robotaxi senza conducente avviato a Zagabria, il primo del genere in Europa, nato dalla collaborazione tra un'azienda statunitense, la società locale Verne e l'impresa cinese di intelligenza artificiale Pony.ai. La partnership punta a espandere il servizio in altre città europee. Durante il test, i giornalisti hanno potuto verificare di persona il funzionamento del veicolo autonomo nella capitale croata. Lo riferisce Euronews.",
+   "more": [
+    "I robotaxi, veicoli a guida completamente autonoma senza conducente umano, sono già operativi in alcune città di Stati Uniti e Cina e rappresentano una delle frontiere più discusse della mobilità urbana, tra sfide tecniche, normative e di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/18/look-no-hands-euronews-rode-driverless-in-europes-first-robotaxi-in-zagreb",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T08:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfc83de92",
+   "sez": "economia",
+   "titolo": "Mercato degli uffici diviso in due: i migliori e tutti gli altri",
+   "orig": "For investors, there are now just 2 kinds of offices: the best and the rest",
+   "lead": "Secondo un'analisi del South China Morning Post basata su dati di Morgan Stanley e JLL, il mercato globale degli uffici, da Hong Kong a New York, si sta spaccando in due: edifici di pregio molto richiesti dagli inquilini e immobili secondari colpiti da calo degli affitti, bassa occupazione e difficoltà di finanziamento. Questa divergenza riflette una fuga verso la qualità, ma anche uno scollamento tra il miglioramento dei fondamentali di locazione e la ripresa dei valori immobiliari. Lo riferisce South China Morning Post.",
+   "more": [
+    "La polarizzazione del mercato uffici è legata ai cambiamenti nelle abitudini di lavoro post-pandemia e alla crescente attenzione di aziende e investitori verso edifici sostenibili e tecnologicamente avanzati, che penalizza gli immobili più datati."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/article/3371225/investors-there-are-now-just-2-kinds-offices-best-and-rest?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T06:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z81b533ab",
+   "sez": "italia",
+   "titolo": "Roma, proroga per un anno i divieti sulla Ztl fascia verde",
+   "orig": "Ztl Roma, nella fascia verde il Comune proroga divieti ed esenzioni: accesso per benzina da euro 3 in su e diesel euro 4",
+   "lead": "Il Comune di Roma si avvia a prorogare per un altro anno l'attuale ordinanza che regola l'accesso dei veicoli alla Ztl fascia verde. Resterà quindi in vigore il sistema attuale, che consente l'ingresso ai veicoli a benzina Euro 3 e superiori e ai diesel Euro 4 e superiori. Il provvedimento riguarda cittadini e pendolari che attraversano quotidianamente l'area soggetta a limitazioni. Lo riferisce Il Messaggero.",
+   "more": [
+    "Le zone a traffico limitato a fascia verde sono state introdotte in diverse città italiane, Roma compresa, per contenere l'inquinamento atmosferico, limitando la circolazione dei veicoli più vecchi e inquinanti nei centri urbani."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/metropoli/ztl_roma_fascia_verde_divieti_proroga-9831692.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zaf6557dd",
+   "sez": "italia",
+   "titolo": "Piano di sviluppo di Fiumicino, arriva l'ok bipartisan",
+   "orig": "Piano di sviluppo di Fiumicino. C'è l'ok bipartisan",
+   "lead": "Il futuro dell'aeroporto di Fiumicino passa dal confronto con il territorio: cittadini, istituzioni e realtà locali che vivono intorno allo scalo della Capitale sono stati coinvolti nella discussione sul piano di sviluppo, che ha ottenuto un via libera condiviso tra diverse forze politiche. Il progetto riguarda l'ampliamento e il potenziamento del principale scalo romano. Lo riferisce Il Messaggero.",
+   "more": [
+    "L'aeroporto di Fiumicino è il principale hub italiano per traffico internazionale e negli ultimi anni è stato oggetto di piani di espansione per aumentare la capacità, spesso al centro di dibattiti su impatto ambientale e rapporti con il territorio circostante."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/piano_di_sviluppo_fiumicino_investimenti_crescita_consenso-9831714.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4380c43e",
+   "sez": "economia",
+   "titolo": "Via libera a Qivalis, la stablecoin in euro delle banche",
+   "orig": "Via libera a Qivalis la stablecoin in euro. Le banche accelerano sulla blockchain",
+   "lead": "È arrivato il via libera per Qivalis, una nuova stablecoin ancorata all'euro sostenuta da un gruppo di banche, che punta ad accelerare i trasferimenti di denaro senza attendere l'apertura dei mercati tradizionali. Lo strumento dovrebbe permettere di regolare pagamenti nel momento esatto dello scambio di merci o titoli, sfruttando la tecnologia blockchain. Il settore bancario accelera così sull'adozione di queste tecnologie digitali. Lo riferisce Il Messaggero.",
+   "more": [
+    "Le stablecoin sono criptovalute il cui valore è ancorato a una moneta tradizionale come l'euro o il dollaro, pensate per ridurre la volatilità tipica delle criptovalute e facilitare pagamenti e trasferimenti più rapidi tramite tecnologia blockchain."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/qivalis_stablecoin_euro_blockchain_banche-9831696.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf64a7bb0",
+   "sez": "economia",
+   "titolo": "Ue, nuova stretta sull'e-commerce dalla Cina: spedizioni più care da novembre",
+   "orig": "Acquisti online, stretta Ue sull'e-commerce dalla Cina: spedizioni più care ma il modello cambierà",
+   "lead": "L'Unione europea introdurrà da novembre un nuovo prelievo di 2 euro su tutte le spedizioni in arrivo da fuori Ue, che si aggiungerà a quello già esistente di 3 euro per i beni di valore inferiore a 150 euro. La misura punta a rendere più costosi gli acquisti online dalla Cina e a modificare il modello dell'e-commerce transfrontaliero verso l'Europa. Lo riferisce la Repubblica.",
+   "more": [
+    "L'Unione europea ha intensificato i controlli sull'e-commerce extra-Ue, in particolare sui colossi cinesi come Shein e Temu, per contrastare l'elusione fiscale e la concorrenza considerata sleale verso i rivenditori europei, oltre a tutelare i consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/18/news/tasse_mini_pacchi_extra_ue_aumento_costo_spedizioni_online-425655208/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T05:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc55efac0",
+   "sez": "economia",
+   "titolo": "Smartphone sempre più cari: addio ai modelli economici",
+   "orig": "L’inflazione nello smartphone: addio cellulari economici. Ecco perché e quanto aumentano i prezzi",
+   "lead": "La crisi delle memorie sta facendo salire i prezzi degli smartphone, rendendo sempre più difficile acquistare un modello nuovo spendendo poco. Molti consumatori rimandano il cambio del telefono o si orientano verso l'usato: le vendite sono in calo e il terzo trimestre dell'anno è stato il peggiore registrato dal 2012. Lo riferisce la Repubblica.",
+   "more": [
+    "L'aumento dei prezzi dei chip di memoria, dovuto a carenza produttiva e forte domanda legata all'intelligenza artificiale, si riflette sui costi di produzione degli smartphone, spingendo i produttori ad alzare i prezzi anche dei modelli entry-level."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/18/news/prezzo_smartphone_economici_aumenti_motivi_confronto-425655205/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T05:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd85153f1",
+   "sez": "economia",
+   "titolo": "Icop sfida Webuild: l'ad Petrucco chiede a Cdp di valutare il progetto su Trevi",
+   "orig": "Petrucco (Icop): “Cdp valuti il nostro progetto su Trevi”",
+   "lead": "Il gruppo Icop, che sfida Webuild nella corsa su Trevi, chiede attraverso il suo amministratore delegato Petrucco che Cassa Depositi e Prestiti valuti il progetto presentato dall'azienda romagnola. Petrucco intende inserire Trevi nel percorso di crescita del gruppo e portare a termine il lavoro di risanamento svolto da Cdp, che ha condotto la società dalla crisi alla stabilità. Lo riferisce la Repubblica.",
+   "more": [
+    "Trevi è un gruppo specializzato in ingegneria del sottosuolo e fondazioni speciali, uscito negli anni scorsi da una fase di crisi finanziaria grazie anche al sostegno di Cassa Depositi e Prestiti, e oggi oggetto di interesse da parte di diversi operatori industriali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/18/news/trevi_icop_webuild_intervista_piero_petrucco-425655099/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T01:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7aaa5c6d",
+   "sez": "economia",
+   "titolo": "Cipro, la crescita economica prevista per il 2027 nonostante le crisi internazionali",
+   "orig": "Cyprus Business Now: weekly wrap-up",
+   "lead": "Il bilancio settimanale di Cyprus Mail riporta che l'economia cipriota è prevista in crescita il prossimo anno nonostante le difficoltà legate alle crisi internazionali in corso. Il ministro delle Finanze Makis Keravnos ha presentato lunedì il bilancio statale per il 2027, indicando le previsioni di crescita del Pil per il periodo 2027-2029. Lo riferisce Cyprus Mail.",
+   "more": [
+    "Cipro, piccola economia mediterranea fortemente legata a turismo e servizi finanziari, ha dovuto gestire negli ultimi anni le ricadute delle tensioni geopolitiche regionali sulla propria stabilità economica, mantenendo comunque un percorso di crescita moderata."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/18/cyprus-business-now-weekly-wrap-up-183",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-18T09:00+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0814ea32",
+   "sez": "tech",
+   "titolo": "Previsto un boom delle spedizioni di monitor OLED grazie al calo dei prezzi",
+   "orig": "Falling prices drive forecast surge in OLED monitor shipments",
+   "lead": "Secondo la società di ricerca Omdia, le spedizioni globali di pannelli per monitor OLED sono previste in crescita del 79% nel 2026, raggiungendo 6,1 milioni di unità, grazie al calo dei prezzi, all'espansione della capacità produttiva e alla crescente concorrenza tra produttori. Le spedizioni dovrebbero salire ulteriormente a 7,5 milioni di unità nel 2027, con l'entrata in funzione di nuova capacità produttiva. Lo riferisce Cyprus Mail.",
+   "more": [
+    "La tecnologia OLED, già diffusa in televisori e smartphone, sta progressivamente guadagnando terreno anche nel segmento dei monitor per computer grazie a colori più vividi e neri più profondi, con prezzi in calo dovuti all'aumento della concorrenza produttiva."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/18/falling-prices-drive-forecast-surge-in-oled-monitor-shipments",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-18T07:30+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf1d83abc",
+   "sez": "economia",
+   "titolo": "Un'azienda saudita formerà i lavoratori namibiani di petrolio e gas",
+   "orig": "Saudi company to train Namibian oil and gas workers",
+   "lead": "Una società saudita ha aperto un ufficio in Namibia per formare lavoratori locali nelle competenze necessarie all'industria offshore del petrolio e del gas. Eram Holdings, fondata e interamente controllata dall'imprenditore indiano Siddeek Ahmed, gestisce già programmi di sviluppo professionale in Kerala, in India, oltre ad altre attività internazionali. Lo riferisce The Namibian.",
+   "more": [
+    "La Namibia ha recentemente scoperto importanti giacimenti offshore di petrolio e gas che potrebbero trasformarne l'economia, ma il paese necessita di manodopera qualificata per sostenere lo sviluppo di questo nuovo settore industriale."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/saudi-company-to-train-namibian-oil-and-gas-workers/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-18T06:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcff110da",
+   "sez": "economia",
+   "titolo": "Il consiglio d'affari USA-Kurdistan porta nuove aziende americane a Zakho",
+   "orig": "USKBC Brings New American Companies to Zakho",
+   "lead": "Il presidente dell'USKBC David Tafuri ha annunciato che nuove aziende statunitensi stanno visitando la città di Zakho, nel Kurdistan iracheno, mentre il consiglio continua a lavorare per espandere gli investimenti americani in tutta la regione. Lo riferisce Kurdistan24.",
+   "more": [
+    "La Regione del Kurdistan iracheno punta da anni ad attrarre investimenti stranieri, in particolare statunitensi, per diversificare la propria economia oltre il settore energetico e rafforzare i legami commerciali con gli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946750/uskbc-brings-new-american-companies-to-zakho",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-17T22:42+03:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6b6cea91",
+   "sez": "economia",
+   "titolo": "Ghana, dubbi sui vantaggi economici dell'adesione ai BRICS",
+   "orig": "Samuel Jinapor questions expected economic benefits of Ghana’s proposed BRICS partnership",
+   "lead": "Samuel Jinapor, membro di spicco della Commissione per gli Affari Esteri del Parlamento ghanese, ha messo in dubbio i benefici economici prospettati dal governo per la proposta partnership del Ghana con i BRICS, definendo le aspettative poco realistiche. Lo riferisce MyJoyOnline.",
+   "more": [
+    "I BRICS, blocco economico composto originariamente da Brasile, Russia, India, Cina e Sudafrica e successivamente ampliato, puntano a rafforzare la cooperazione economica tra economie emergenti come alternativa alle istituzioni finanziarie occidentali."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/samuel-jinapor-questions-expected-economic-benefits-of-ghanas-proposed-brics-partnership/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T04:58+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z00fba63b",
+   "sez": "economia",
+   "titolo": "Suriname, la presidente: ambizione economica oltre la semplice ripresa",
+   "orig": "President Geerlings-Simons: ‘Onze ambitie gaat verder dan economisch herstel’",
+   "lead": "La presidente del Suriname Jennifer Geerlings-Simons ha dichiarato che l'ambizione del governo va oltre la semplice ripresa economica, nel corso del primo Suriname Banking and Finance Summit 2026, dedicato a costruire un settore finanziario affidabile e resiliente per la prossima fase economica del paese. Secondo la presidente l'obiettivo è un'economia che produca ed esporti di più. Lo riferisce De Ware Tijd.",
+   "more": [
+    "Il Suriname, piccolo paese sudamericano con risorse naturali tra cui petrolio offshore in via di sviluppo, punta a rafforzare il proprio settore finanziario per sostenere una crescita economica più diversificata e orientata all'export."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/president-geerlings-simons-onze-ambitie-gaat-verder-dan-economisch-herstel/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-17T21:45+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb15542ab",
+   "sez": "mondo",
+   "titolo": "Iran: due petroliere in fiamme dopo aver colpito mine nello Stretto di Hormuz",
+   "orig": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+   "lead": "L'Iran ha riferito che due petroliere, ciascuna con circa due milioni di barili di petrolio a bordo, hanno preso fuoco dopo aver urtato mine nello Stretto di Hormuz mentre seguivano una rotta non autorizzata, secondo quanto dichiarato dai Guardiani della Rivoluzione. Il portavoce del Comando centrale statunitense ha precisato che la maggior parte dei tentativi di attacco iraniani nello stretto fallisce e che la via resta aperta al traffico commerciale, mentre il Comando ha segnalato il dirottamento di 138 navi per far rispettare il blocco contro i porti iraniani. Lo riferiscono Al Jazeera, Fox News e Kurdistan24.",
+   "more": [
+    "Lo Stretto di Hormuz, passaggio obbligato per gran parte del petrolio mondiale, è da tempo teatro di tensioni militari tra Iran e Stati Uniti, con incidenti su navi commerciali che alimentano il timore di un'escalation capace di colpire le forniture energetiche globali."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T01:54+00:00"
+    },
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T11:46-04:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946775/centcom-reports-138-vessels-redirected-to-enforce-iran-blockade",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T08:15+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3b9fb74d",
+   "sez": "mondo",
+   "titolo": "ECOWAS e Alleanza del Sahel, a Dakar i primi passi verso un accordo",
+   "orig": "Entre la CEDEAO et l’AES, les premiers ponts se construisent à Dakar",
+   "lead": "La Comunità Economica degli Stati dell'Africa Occidentale (ECOWAS) e la Confederazione degli Stati del Sahel (AES) hanno tenuto a Dakar la prima sessione del loro dialogo ministeriale sulla cooperazione, concordando di creare gruppi di lavoro congiunti i cui risultati dovranno portare a un accordo quadro tra le due organizzazioni. L'incontro, coprediseduto da Cheikh Niang e Karamoko Jean-Marie Traoré, si è svolto il 17 ottobre 2026 in un clima descritto come costruttivo. Lo riferiscono Le Soleil, Lefaso.net e La Nouvelle Tribune.",
+   "more": [
+    "L'AES, formata da Mali, Burkina Faso e Niger dopo i rispettivi colpi di stato militari, ha rotto i legami con l'ECOWAS, organizzazione regionale storica dell'Africa occidentale, creando una divisione che le due parti cercano ora di superare attraverso un dialogo diplomatico graduale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/non-classe/entre-la-cedeao-et-laes-les-premiers-ponts-se-construisent-a-dakar/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T20:13+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150031",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-17T23:00+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/a-dakar-la-cedeao-et-laes-decident-de-creer-des-groupes-conjoints-pour-preparer-un-accord/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-17T20:36+00:00"
+    },
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/ecowas-alliance-technical-meeting-dakar/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-17T19:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd82b4efb",
+   "sez": "mondo",
+   "titolo": "Tanzania e Cina firmano accordo per formazione professionale e occupazione giovanile",
+   "orig": "Tanzania, China sign pact to boost vocational training, youth jobs",
+   "lead": "Tanzania e Cina hanno firmato un nuovo accordo volto a rafforzare l'istruzione tecnica e professionale nel Paese africano, creando maggiori opportunità occupazionali per la popolazione giovanile. L'intesa si inserisce nel contesto di una crescente cooperazione bilaterale tra i due Paesi e mira a preparare meglio i giovani ai settori strategici. Lo riferisce The Citizen.",
+   "more": [
+    "L'accordo rappresenta parte di una più ampia strategia di collaborazione sino-africana in cui Pechino investe in infrastrutture e capitale umano nel continente, mentre acquisisce accesso a risorse e mercati di esportazione."
+   ],
+   "fonti": [
+    {
+     "n": "The Citizen",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-china-sign-pact-to-boost-vocational-training-youth-jobs-5635820",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T12:31+00:00"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/436209/indonesia-senegal-chambers-sign-pact-to-boost-trade-investment",
+     "angolo": "",
+     "atlas": "Indonesia",
+     "t": "2026-10-17T20:21+07:00"
+    },
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/18/sahabat-madani-selangor-to-boost-youth-participation-in-community-service-says-tengku-zafrul/239574",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-18T12:55+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf21a2dad",
+   "sez": "mondo",
+   "titolo": "Perù-Stati Uniti: nuova fase nelle relazioni bilaterali",
+   "orig": "Una nueva etapa en la relación entre el Perú y Estados Unidos",
+   "lead": "La visita del segretario di Stato americano Marco Rubio in Perù e l'incorporazione di Lima al Programma Escudo de las Américas segnano un momento favorevole nelle relazioni bilaterali tra i due Paesi. L'analisi di El Comercio sottolinea come la cooperazione sia in crescita, confermando i 200 anni di relazioni diplomatiche celebrati lo scorso maggio con una fase di intesa storica.",
+   "more": [
+    "L'agenda di collaborazione è stata costruita sin da febbraio 2024, consolidando i legami che vanno oltre l'ambito economico e di sicurezza, con implicazioni regionali rilevanti."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/opinion/columnistas/una-nueva-etapa-en-la-relacion-entre-el-peru-y-estados-unidos-por-alfredo-ferrero-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-18T05:35+00:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/17/mas-de-2500-eventos-de-no-kings-impulsan-el-voto-anticipado-en-estados-unidos/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-18T00:40+00:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/usa/actualidad/2026/10/17/unos-2500-eventos-de-no-kings-impulsan-voto-anticipado-en-ee-uu/3692287",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-17T23:05+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z325a201f",
+   "sez": "mondo",
+   "titolo": "An Se-young raggiunge la finale del Denmark Open, caccia al nono titolo stagionale",
+   "orig": "An Se-young reaches Denmark Open final, eyes ninth title of season",
+   "lead": "An Se-young, campionessa mondiale di badminton, ha raggiunto la finale del Denmark Open inseguendo il nono titolo della stagione 2026. L'atleta sudcoreana prosegue la sua striscia positiva nel circuito internazionale, confermandosi tra le migliori interpreti della disciplina a livello mondiale. Lo riferisce Yonhap.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261018001600320",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-18T13:58+09:00"
+    },
+    {
+     "n": "The Citizen",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/sports/football/yanga-s-second-half-surge-puts-fourth-straight-caf-group-stage-berth-within-reach-5635914",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-17T14:16+00:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10906210",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z57e40695",
+   "sez": "mondo",
+   "titolo": "Incendio distrugge la storica Prefettura di Limoges, quasi 143 anni di storia in fiamme",
+   "orig": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
+   "lead": "Un incendio doloso ha quasi completamente distrutto la storica Prefettura di Limoges, edificio di 143 anni nel cuore della Francia centrale, durante i disordini diffusi nel Paese. Il tetto della struttura è crollato e vaste porzioni del palazzo storico sono andate perse in quella che rappresenta una perdita significativa per il patrimonio francese.",
+   "more": [
+    "L'incendio si inserisce in una serie di atti vandalici e distruttivi avvenuti durante le proteste nazionali che hanno interessato diverse città francesi a causa di questioni socioeconomiche critiche."
+   ],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T18:56-04:00"
+    },
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/europe/watch-historic-french-town-hall-burns-shops-looted-tear-gas-fired-as-55000-protest-in-france/articleshow/135022961.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T08:15+05:30"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/video/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-17T22:55+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcd770f57",
+   "sez": "mondo",
+   "titolo": "Super tifone Champi evita collisione diretta con Guam, entra in Philippine Area domenica",
+   "orig": "Category 4 Typhoon Champi narrowly misses Guam",
+   "lead": "Il super tifone Champi, classificato di categoria 4, ha evitato per poco di colpire direttamente l'isola di Guam domenica scorsa, risparmiando il territorio da danni potenzialmente catastrofici. Secondo le previsioni meteorologiche ufficiali, il potente sistema temporalesco si avvicinerà alla Philippine Area of Responsibility il prossimo 20 ottobre. Lo riferiscono RNZ e Rappler.",
+   "more": [
+    "I tifoni di questa intensità rappresentano minacce significative per le comunità del Pacifico occidentale, con potenziale di tempeste estreme, inondazioni e frane nei centri abitati."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1987119/category-4-typhoon-champi-narrowly-misses-guam",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T15:06+13:00"
+    },
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/weather/super-typhoon-champi-itcz-easterlies-update-pagasa-forecast-october-18-2026-11am/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-18T13:40+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z14d7490a",
+   "sez": "mondo",
+   "titolo": "Marchi occidentali di lusso sotto pressione: il second-hand boom in Cina",
+   "orig": "Western brands under pressure as 'pre-owned' luxury booms in China",
+   "lead": "I marchi occidentali di lusso subiscono crescenti pressioni in Cina con l'esplosione del mercato dei beni di lusso usati, spingendo il mercato del pre-owned. Louis Vuitton ha chiuso cinque punti vendita nella Cina continentale negli ultimi due anni, mentre Galeries Lafayette ha abbandonato il suo flagship di Pechino a maggio, segnalando una trasformazione strutturale del mercato.",
+   "more": [
+    "La debolezza economica post-pandemia cinese ha incentivato i consumatori a orientarsi verso il second-hand o marchi locali emergenti, alterando significativamente le dinamiche di consumo di lusso nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/east-asia/western-brands-under-pressure-pre-owned-luxury-booms-in-china-6469201",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-18T11:40+08:00"
+    },
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/10/18/western-brands-under-pressure-as-pre-owned-luxury-booms-in-china/",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T03:29+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z312e7aa1",
+   "sez": "mondo",
+   "titolo": "Rugby league: Tonga abbatte l'Inghilterra, storica prima vittoria al mondiale",
+   "orig": "'Outstanding' Tonga puts England on the brink of World Cup elimination",
+   "lead": "Tonga ha inflitto una storica e clamorosa sconfitta all'Inghilterra nella Coppa del Mondo di rugby league, portando i Leoni rossi sull'orlo dell'eliminazione dal torneo internazionale. La vittoria rappresenta il primo successo della nazione del Pacifico contro l'Inghilterra nella storia della competizione mondiale di rugby league. Lo riferiscono ABC News Australia e RNZ Pacific.",
+   "more": [
+    "Il rugby league è uno sport di grande rilevanza culturale nel Pacifico, con Tonga che emerge come forza crescente nella competizione internazionale grazie a un gruppo coeso e ben preparato."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-18/tonga-getting-better-and-better-after-england-world-cup-win/107280336",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-17T22:25+00:00"
+    },
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-17/rugby-league-world-cup-mitchell-moses-injury/107279314",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-17T09:19+00:00"
+    },
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1973679/world-cup-tonga-upsets-england-with-olakau-atu-double",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-18T05:21+13:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z37c487fb",
+   "sez": "mondo",
+   "titolo": "Russia e Kirghizistan sottoscrivono piano cooperazione militare per 2027",
+   "orig": "Russia and Kyrgyzstan Sign Military Cooperation Plan for 2027",
+   "lead": "Russia e Kirghizistan hanno sottoscritto un piano di cooperazione militare per l'anno 2027 il 15 ottobre, a pochi giorni dall'approvazione di misure correlate da parte del Parlamento russo. L'accordo strategico riflette il consolidamento dei legami di sicurezza tra i due partner dello spazio post-sovietico nell'Asia centrale. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "L'Asia centrale rimane una zona geopolitica critica caratterizzata da conflitti pendenti, in cui la Russia mantiene saldamente la sua influenza attraverso accordi bilaterali mentre affronta la crescente competizione con altre potenze regionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/russia-kyrgyzstan-military-cooperation-plan-2027/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-16T12:10+00:00"
+    },
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925545",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-18T11:48+06:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z329302a7",
+   "sez": "mondo",
+   "titolo": "Giornalista afghano lancia piattaforma per genitori nell'era dell'intelligenza artificiale",
+   "orig": "Afghan Journalist Launches Platform to Assist Parenting in The Age of AI",
+   "lead": "Un giornalista afghano con base negli Stati Uniti ha lanciato una piattaforma online destinata ad assistere genitori ed educatori nel navigare le molteplici sfide della crescita e dell'educazione dei figli nell'era contemporanea dell'intelligenza artificiale. L'iniziativa risponde a una necessità critica di fornire supporto pratico in un contesto di trasformazione tecnologica sempre più rapida. Lo riferisce TOLOnews.",
+   "more": [
+    "La piattaforma rappresenta una risposta innovativa alle incertezze educative poste dall'IA generativa, tema centrale nei dibattiti globali sulla preparazione dei giovani al futuro del lavoro, con una prospettiva afghana consapevole."
+   ],
+   "fonti": [
+    {
+     "n": "TOLOnews",
+     "p": "XX",
+     "c": "Kabul",
+     "u": "https://www.tolonews.com/afghanistan-201204",
+     "angolo": "",
+     "atlas": "Afghanistan",
+     "t": "2026-10-14T14:26+00:00"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/436229/abu-dhabi-launches-tamm-global-to-bring-its-ai-native-government-platform-to-the-world",
+     "angolo": "",
+     "atlas": "Indonesia",
+     "t": "2026-10-18T12:19+07:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdda9162c",
+   "sez": "mondo",
+   "titolo": "Governor's Cup: Talisay e Naga continuano imbattute, Lacuna domina con 35 punti",
+   "orig": "Gov's Cup: Talisay, Naga stay unbeaten at 3-0; Lacuna drops 35 in Boljoon win",
+   "lead": "Nel torneo di basket U18 Coppa del Governatore nelle Filippine, Talisay City e Naga City rimangono imbattute dopo tre giornate di gara. I campioni in carica di Talisay hanno travolto il Municipio di Badian 88-42, mentre Boljoon ha beneficiato della prestazione da 35 punti di Lacuna nella vittoria. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/776425/govs-cup-talisay-naga-stay-unbeaten-at-3-0-lacuna-drops-35-in-boljoon-win",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-18T14:06+08:00"
+    },
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/richies-shooterz-stay-unbeaten-while-anjo-wholesale-beat-sledge-o-ballers-in-business-basketball-league/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-10-16T01:04+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0df5789c",
+   "sez": "mondo",
+   "titolo": "Ascesa della Cina in Asia centrale: quale futuro nei prossimi dieci anni?",
+   "orig": "China’s Rise and Central Asia: What Will Next Ten Years Look Like?",
+   "lead": "L'Astana Times analizza le prospettive dei prossimi dieci anni nei rapporti tra la Cina e l'Asia centrale, mentre Pechino consolida la sua influenza geopolitica nella regione attraverso investimenti in veicoli elettrici e infrastrutture. Lo scenario riflette una trasformazione economica e commerciale che sta ridefinendo gli equilibri regionali. Lo riferisce The Astana Times.",
+   "more": [
+    "La Cina ha intensificato la sua penetrazione economica in Asia centrale attraverso la Nuova Via della Seta, mentre compete con la Russia e con i Paesi occidentali per influenza geopolitica nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/chinas-rise-and-central-asia-what-will-next-ten-years-look-like/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-18T05:00+00:00"
+    },
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/article/3371232/beyond-evs-and-perception-how-china-gaining-ground-central-asia?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-17T22:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z69ca70c5",
+   "sez": "mondo",
+   "titolo": "USA: vicepresidente Vance affronta critiche su guerra con l'Iran e immigrazione",
+   "orig": "Vance enfrenta preguntas difíciles sobre la guerra con Irán, inmigración y más en un foro de CBS",
+   "lead": "Il vicepresidente americano affronta critiche su temi difficili tra cui la guerra con l'Iran, l'immigrazione e l'eredità del governo in un forum televisivo di CBS. Vance ha ammesso errori nella condotta della guerra con l'Iran mentre difende le politiche attuali, subendo pressione per i suoi controversi commenti sui migranti. Lo riferisce Clarín.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/vance-enfrenta-preguntas-dificiles-sobre-la-guerra-con-iran-inmigracion-y-mas-en-un-foro-de-cbs_0_U5o1jWEhIe.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T05:40+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/puro-deporte/joseph-joseph-habla-de-oscar-ramirez-y-responde/JTS7OQRY2RC43ENKKZYQTSABFI/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-18T05:13+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb3680912",
+   "sez": "mondo",
+   "titolo": "Calcio Uruguay: Nacional sfida Maldonado, rivale complicato della stagione",
+   "orig": "Nacional ante Deportivo Maldonado, el rival que más lo complicó este año y le hizo 7 goles, en un nuevo desafío para la racha de Daniel Carreño",
+   "lead": "Nacional affronterà lunedì il Deportivo Maldonado, squadra che in questa stagione ha dimostrato di essere un avversario particolarmente complicato, segnando sette gol contro la formazione tricolore in precedenti confronti. La sfida rappresenta un nuovo test cruciale per confermare la continuità positiva della squadra allenata da Daniel Carreño. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/futbol/nacional-deportivo-maldonado-el-rival-que-mas-lo-complico-este-ano-y-le-hizo-7-goles-un-nuevo-desafio-la-racha-daniel-carreno-n6060814",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-17T19:02-03:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/balbino-fuenmayor-lidero-remontada-de-caribes-ante-leones-y-tigres-vencio-a-tiburones/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-18T02:15+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z580ab152",
+   "sez": "mondo",
+   "titolo": "Senegal: smantellata rete di furti di motocicli a Dakar",
+   "orig": "Un réseau de voleurs de deux-roues démantelé par la police de Jaxaay",
+   "lead": "La Brigata di ricerca del commissariato di polizia di Jaxaay a Dakar ha smantellato una rete criminale di giovani sospettati di essere coinvolti nel furto sistematico e nel riciclaggio di motocicli nella capitale senegalese. L'operazione rappresenta un colpo significativo alla criminalità organizzata specializzata nel settore dei furti di veicoli a due ruote. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Societe/un-reseau-de-voleurs-de-deux-roues-demantele-par-la-police-de-jaxaay_n_999001013.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T02:40+00:00"
+    },
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/17/un-reseau-de-blanchiment-dargent-demantele-a-sousse/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-17T21:26+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb547226c",
+   "sez": "mondo",
+   "titolo": "Bolivia: deceduto Jorge Quiroga Luizaga, padre dell'ex presidente",
+   "orig": "El padre de Jorge Tuto Quiroga falleció este sábado y Alianza Libre expresa sus condolencias",
+   "lead": "Jorge Quiroga Luizaga, padre dell'ex presidente boliviano Jorge Tuto Quiroga e figura di spicco nella storia politica della Bolivia, è deceduto sabato 17 ottobre. La morte ha suscitato manifestazioni di solidarietà da parte della coalizione politica Alianza Libre e dai principali esponenti della classe politica boliviana. Lo riferisce Brújula Digital.",
+   "more": [
+    "La famiglia Quiroga e il Paese hanno perso una figura di rilievo nella memoria storica della Repubblica della transizione democratica boliviana del XX secolo."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/sociedad/el-padre-de-jorge-tuto-quiroga-fallecio-este-sabado-y-alianza-libre-expresa-sus-condolencias",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T21:16-04:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/fallece-jorge-quiroga-padre-lider-libre-tuto-quiroga_1792287446",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T01:37+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/fallece-padre-expresidente-jorge-tuto-quiroga/20261017224500997784.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T22:45-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5622e94d",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda: valanga su Monte Dixon uccide una persona",
+   "orig": "One person killed in avalanche on Mount Dixon",
+   "lead": "Una valanga si è verificata sul Monte Dixon nel Parco Nazionale di Aoraki Mount Cook in Nuova Zelanda domenica 18 ottobre, provocando la morte di una persona. Il corpo della vittima è stato recuperato dalle autorità di soccorso dopo le operazioni di ricerca. L'incidente sottolinea il pericolo persistente dei terreni montani alpini. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/emergencies_local/1992354/one-person-killed-in-avalanche-on-mount-dixon",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T18:00+13:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/nz-news/361048003/person-dies-after-being-trapped-southern-alps-avalanche",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T04:45+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0c6bd593",
+   "sez": "mondo",
+   "titolo": "Germania: colloqui esplorativi Spd-Verdi-Linke a Berlino positivi",
+   "orig": "Sondierungsgespräche zwischen Rot-Rot-Grün in Berlin positiv verlaufen",
+   "lead": "I colloqui esplorativi tra il Partito socialdemocratico (Spd), Die Linke e i Verdi a Berlino si sono svolti positivamente nel corso della giornata, secondo quanto comunicato dalle parti coinvolte. La possibile formazione di una coalizione tripartita nella capitale tedesca genera dibattiti significativi sulle implicazioni politiche e sulla stabilità governativa dell'amministrazione locale. Lo riferisce Tagesschau.",
+   "more": [
+    "Il tema genera controversia nella CDU berlinese, con il presidente locale Evers che critica duramente l'ipotesi coalitiva nei negoziati per la formazione del governo locale."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/tagesthemen/video-1668180.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T00:11+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-evers-erfolgreiche-sondierung-von-rot-gruen-rot-in-berlin-ein-dammbruch-faz-110093143.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T13:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc6890b33",
+   "sez": "mondo",
+   "titolo": "Senegal: campionato triathlon in preparazione alle Olimpiadi della gioventù",
+   "orig": "Triathlon : Une journée de championnat pour peaufiner la préparation des JOJ Dakar 2026",
+   "lead": "La Federazione senegalese di triathlon ha organizzato domenica 18 ottobre una giornata di campionato nazionale a Pointe Sarène in preparazione dei Giochi olimpici della gioventù Dakar 2026, in programma dal 31 ottobre al 13 novembre. L'evento permette agli atleti di affinare la preparazione per la competizione olimpica. Lo riferisce Le Soleil.",
+   "more": [
+    "I Giochi olimpici della gioventù rappresentano una piattaforma importante per lo sviluppo del talento atletico giovanile nel continente africano, con il Senegal come nazione ospitante nel 2026."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/triathlon-une-journee-de-championnat-pour-peaufiner-la-preparation-des-joj-dakar-2026/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T21:00+00:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/empreinte-100-ans-lart-au-service-de-la-paix-et-des-joj-dakar-2026/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T03:44+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5bb19e5e",
+   "sez": "mondo",
+   "titolo": "Francia: sociologo Fourquet analizza la rabbia dei giovani e il patto generazionale rotto",
+   "orig": "Il sociologo Fourquet: “Nei giovani francesi tanta rabbia, si è rotto il patto tra generazioni”",
+   "lead": "Il sociologo francese Jérôme Fourquet, direttore del dipartimento Opinioni dell'istituto Ifop, analizza in profondità la diffusa rabbia tra i giovani francesi attribuendola a una palese rottura del patto generazionale. Secondo l'esperto, il privilegiamento della spesa per le pensioni rispetto a investimenti pubblici quali l'istruzione ha alimentato significativamente la frustrazione e la rabbia della gioventù. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/18/news/proteste_studenti_francia_sociologo_fourquet_rabbia_rotto_il_patto_tra_generazioni-425655282/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T23:00+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/18/news/proteste_studenti_francia_sociologo_fourquet_rabbia_rotto_il_patto_tra_generazioni-425655282/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T01:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z99aeb896",
+   "sez": "mondo",
+   "titolo": "Italia: studentessa coordinatrice dichiara: non faremo la guerra, diserteremo",
+   "orig": "La studentessa: “Le tende il nostro simbolo, ci impongono le guerre ma vogliamo studio e lavoro”",
+   "lead": "Angela Verdecchia, coordinatrice nazionale degli studenti medi italiani, dichiara apertamente che i giovani non hanno intenzione di partecipare alle guerre imposte, minacciando il ricorso al diserzione di massa come forma di protesta. Gli studenti chiedono prioritariamente l'accesso garantito allo studio e al lavoro dignitoso, evidenziando il profondo disagio rispetto alle politiche attuali. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/18/news/studenti_piazza_cgil_tende_guerre_angela_verdecchia_intervista-425655581/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T23:00+00:00"
+    },
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/lia-entra-a-scuola-ma-la-decisione-resta-umana-valutazioni-mansioni-e-provvedimenti-perche-nessun-algoritmo-potra-decidere-da-solo-sul-nostro-lavoro/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-17T15:59+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z658643d3",
+   "sez": "mondo",
+   "titolo": "Somalia: governo accoglie calendario elettorale per parlamento e presidenza",
+   "orig": "Somalia: Somalia's Govt Welcomes Election Timetable and Urges Political Dialogue",
+   "lead": "Il governo federale della Somalia ha accolto con favore il calendario elettorale annunciato dalla Commissione nazionale indipendente per le elezioni e i confini, coprendo le elezioni per entrambe le camere del parlamento federale e per la carica presidenziale della Repubblica. L'approvazione del cronoprogramma rappresenta un passo verso la stabilizzazione dei processi democratici. Lo riferisce allAfrica.",
+   "more": [
+    "La Somalia continua il percorso di consolidamento istituzionale dopo anni di instabilità politica, con il calendario elettorale come elemento critico della ricostruzione dello stato nelle ultime settimane e mesi."
+   ],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610160182.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T10:12+00:00"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/somalia-president-rejects-opposition-consensus-election/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-17T19:05+00:00"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/larry-andre-somalia-government-illegitimate-southwest-conflict/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-13T11:27+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9fec70d0",
+   "sez": "mondo",
+   "titolo": "Pakistan: governo adotta misure contro l'accaparramento di gas in vista dell'inverno",
+   "orig": "Govt moves to curb LPG hoarding ahead of winter",
+   "lead": "Il governo pakistano ha adottato misure coordinate per contrastare l'accaparramento di gas di petrolio liquefatto in vista dell'imminente stagione invernale. La Divisione del petrolio ha segnalato sollevamenti irregolari di Gpl importato dai terminal, mentre l'Autorità di regolamentazione petrolifera è stata incaricata di garantire forniture ai prezzi notificati. Lo riferisce Dawn.",
+   "more": [
+    "L'accaparramento di carburanti costituisce un fenomeno ricorrente in Pakistan durante l'inverno, creando penuria artificiale e aumenti di prezzo che gravano sulle comunità vulnerabili specialmente nelle aree remote."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2037906/govt-moves-to-curb-lpg-hoarding-ahead-of-winter",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T06:39+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2635487/kundi-moves-to-curb-dengue-as-cases-surge",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T04:16+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z90fa76ba",
+   "sez": "mondo",
+   "titolo": "Calcio Germania: Bayern Monaco travolge Lipsia 6-1, Díaz protagonista assoluto",
+   "orig": "FC Bayern gegen Leipzig: Herbstblues? Herbststurm!",
+   "lead": "Il Bayern Monaco ha dominato completamente la sfida del campionato tedesco contro RB Leipzig vincendo 6-1, riprendendo piena fiducia e consapevolezza dopo recenti delusioni contro Augsburg e Stavanger nelle settimane precedenti. Luis Díaz è stato il protagonista assoluto della larghissima vittoria bavarese con prestazioni eccezionali sulla fascia sinistra offensiva. Lo riferisce Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-bundesliga-debakel-li.3564598",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T18:42+00:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-einzelkritik-li.3564600",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T18:33+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-um-luis-diaz-spielen-rb-leipzig-schwindelig-201304065.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-17T18:31+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z33d3b169",
+   "sez": "mondo",
+   "titolo": "Bolivia: ex procuratore Torrez inviato in carcere nel caso Roma",
+   "orig": "Exfiscal Torrez es enviado a prisión por 6 meses; su defensa desmiente dinero y arma encontradas",
+   "lead": "L'ex procuratore Torrez è stato inviato in carcere per sei mesi nel contesto dell'inchiesta sul caso Roma, riguardante presunte attività di organizzazione criminale e protezione del narcotraffico in Bolivia. La difesa dell'accusato ha contestato il provvedimento, sostenendo che non sono state scoperte prove credibili che lo incriminano, e ha annunciato ricorso. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/exfiscal-torrez-enviado-prision-6-meses-defensa-desmiente-dinero-arma-encontradas_1792282827",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T00:20+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/exfiscal-torrez-es-enviado-san-pedro-defensa-apela-fallo/20261017201038997777.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-17T20:10-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zace58558",
+   "sez": "mondo",
+   "titolo": "Senegal: smantellato sito illegale di estrazione aurea a Kédougou",
+   "orig": "Coup d'arrêt à l'orpaillage clandestin à Kédougou : la Gendarmerie de Mako démantèle un site illégal",
+   "lead": "La gendarmeria di Mako nella regione di Kédougou, Senegal, ha smantellato un sito illegale di estrazione aurea clandestina in operazione congiunta contro il saccheggio delle risorse minerarie della zona. L'azione rappresenta un'intensificazione della lotta governativa contro l'estrazione non autorizzata di oro nella regione ricca di risorse. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Societe/coup-darret-a-lorpaillage-clandestin-a-kedougou-la-gendarmerie-de-mako-demantele-un-site-illegal_n_999001012.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T02:27+00:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/kedougou-des-kits-scolaires-remis-a-70-meilleurs-eleves-filles-des-villages-impactes-de-la-mine-dor-de-mako/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-17T20:17+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2601bf6e",
+   "sez": "mondo",
+   "titolo": "Portogallo: manifestanti abitativi rimangono in strada a Lisbona e Porto",
+   "orig": "03h Manifestantes permanecem em Lisboa e no Porto para lá da hora legal",
+   "lead": "I manifestanti del movimento per il diritto abitativo rimangono accampati a Lisbona e Porto oltre l'orario legale consentito per protestare contro l'inaccessibilità abitativa nel Paese. Nel Porto è stato deciso di tornare ad accamparsi nella storica Piazza Dom João I per proseguire la mobilitazione e i negoziati. Lo riferiscono RTP e altre fonti portoghesi.",
+   "more": [
+    "La crisi abitativa portoghese rappresenta un tema critico con crescenti manifestazioni giovanili e popolari contro i prezzi proibitivi degli affitti e dell'edilizia nelle principali città del Paese contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/03h-manifestantes-permanecem-em-lisboa-e-no-porto-para-la-da-hora-legal_a1_1772420",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T04:38+01:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/17/sociedade/noticia/manifestantes-porto-decidem-voltar-acampar-praca-d-joao-i-2191743",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-17T21:30+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/02h-contentor-incendiado-junto-ao-protesto-na-praca-d-joao-i-no-porto_a1_1772417",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T03:30+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf69cf8b8",
+   "sez": "mondo",
+   "titolo": "India: intelligenza artificiale aiuta manifestanti bloccati a tornare a casa a Nuova Delhi",
+   "orig": "AI tool helps stranded protesters find their way home in the Indian capital",
+   "lead": "Uno strumento di intelligenza artificiale messo in funzione a New Delhi aiuta i manifestanti rimasti bloccati durante le proteste a trovare la strada per tornare a casa, collegandoli con volontari che garantiscono trasporti sicuri. L'iniziativa rappresenta un ponte digitale importante per le persone trattenute dalla polizia nella capitale indiana. Lo riferisce Al Jazeera.",
+   "more": [
+    "La soluzione tecnologica rappresenta un'innovazione nel supporto ai manifestanti durante contestazioni sociali, offrendo solidarietà organizzata attraverso piattaforme digitali coordinate nell'era contemporanea dei movimenti sociali."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T05:37+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z553aa4c1",
+   "sez": "mondo",
+   "titolo": "Forum Sicurezza Varsavia: l'Europa esprime fiducia nel contrastare minacce russe future",
+   "orig": "Warsaw Security Forum: A message of confidence, not panic",
+   "lead": "Nonostante i crescenti rapporti di presunti sabotaggi russi in Europa nei mesi recenti, la maggior parte dei partecipanti al Warsaw Security Forum esprime valutazioni ottimiste e incoraggianti sulla capacità dell'Europa di contrastare efficacemente eventuali minacce future provenienti dalla Russia. Il foro internazionale emerge con un messaggio di fiducia. Lo riferisce RTÉ News.",
+   "more": [
+    "Le preoccupazioni sui sabotaggi russi includono operazioni ibride contro infrastrutture critiche e campagne di disinformazione, elementi centrali nei dibattiti sulla sicurezza europea del biennio 2024-2026."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1018/1595769-warsaw-security-forum-a-message-of-confidence-not-panic/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-18T06:00+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z62e5cc6e",
+   "sez": "mondo",
+   "titolo": "La band bluegrass ceca Druhá tráva festeggia 35 anni con concerto a Praga",
+   "orig": "Bluegrass band Druhá tráva to mark 35 years with major concert",
+   "lead": "La band bluegrass ceca Druhá tráva, attiva dal 1991 con Robert Křesťan come membro fondamentale, celebra il significativo traguardo di 35 anni di carriera musicale. I festeggiamenti per questo importante anniversario culmineranno con un grande concerto spettacolo previsto nella capitale ceca di Praga. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/bluegrass-band-druha-trava-mark-35-years-major-concert-8899926",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-18T00:05+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z24a27bcf",
+   "sez": "mondo",
+   "titolo": "Arizona Wildcats vincono gara di controllo con Krivas autore di una doppia doppia",
+   "orig": "Kontrolinėse rungtynėse – galingas Krivo dvigubas dviženklis ir „Wildcats“ pergalė",
+   "lead": "La squadra di basket Arizona Wildcats ha vinto la gara di controllo grazie alla prestazione di Motiejus Krivas, autore di una doppia doppia nel primo tempo di stagione. Lo riferisce LRT da Vilnius.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3086015/kontrolinese-rungtynese-galingas-krivo-dvigubas-dvizenklis-ir-wildcats-pergale",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T09:00+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z178bc588",
+   "sez": "mondo",
+   "titolo": "Lituania annulla allarme aereo: drone non era visivamente identificato",
+   "orig": "Ministras Kaunas: galimo drono numušti negalėjome, nes jis vizualiai nebuvo matomas",
+   "lead": "Il centro nazionale di gestione delle crisi della Lituania ha annullato l'allarme aereo dopo circa un'ora di stato di allerta nel sabato pomeriggio. Il ministro della Difesa ha spiegato che non è stato possibile abbattere il possibile drone perché non era visivamente identificato, requisito obbligatorio in tempo di pace secondo la normativa internazionale. Lo riferisce LRT.",
+   "more": [
+    "La Lituania, membro NATO al confine con la Bielorussia, rimane in allerta per possibili minacce aeree nella regione a seguito della situazione geopolitica europea."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3086016/ministras-kaunas-galimo-drono-numusti-negalejome-nes-jis-vizualiai-nebuvo-matomas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T08:35+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zaf539a15",
+   "sez": "mondo",
+   "titolo": "Golden State Valkyries di Justė Jocytė vince gara 1 della finale WNBA",
+   "orig": "Jocytės komanda pergalingai pradėjo WNBA finalo seriją",
+   "lead": "La squadra Golden State Valkyries, rappresentata dalla giocatrice lituana Justė Jocytė, ha vinto la prima gara della finale della WNBA nel fine settimana. Lo riferisce LRT da Vilnius.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3086007/jocytes-komanda-pergalingai-pradejo-wnba-finalo-serija",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-18T07:29+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcf75a441",
+   "sez": "mondo",
+   "titolo": "Lettonia: terminato allarme possibile minaccia aerea",
+   "orig": "Possible air threat warning in Bauskas, Aizkraukles and Ogres municipalities of Latvia is over",
+   "lead": "Le autorità militari della Lettonia hanno emesso un allarme per possibile minaccia allo spazio aereo nei comuni di Bauskas, Aizkraukles e Ogres, informando i residenti tramite alert cellulare di emergenza. L'avviso è stato revocato poco dopo la sua diffusione. Lo riferisce LSM.",
+   "more": [
+    "La Lettonia, membro NATO sul Mar Baltico, ha adottato misure di vigilanza nella regione a seguito della situazione geopolitica."
+   ],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/society/defence/18.10.2026-possible-air-threat-warning-in-bauskas-aizkraukles-and-ogres-municipalities-of-latvia-is-over.a664326/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-10-18T04:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2ab43aab",
+   "sez": "mondo",
+   "titolo": "Candidati governatori repubblicani ritirano posizioni su aborto",
+   "orig": "The Republican governor candidates walking back some of their abortion stances",
+   "lead": "Candidati governatori repubblicani hanno iniziato a fare dietrofront su posizioni restrittive sull'aborto durante la campagna elettorale. Il ritiro suggerisce che le conseguenze politiche di spingere nuove restrizioni rimangono sostanziali, nonostante i diritti riproduttivi non siano più centrali nel dibattito nazionale e gli elettori diano priorità alle questioni economiche. Lo riferisce PBS NewsHour.",
+   "more": [
+    "Le elezioni di midterm mostrano come il tema dell'aborto rimanga politicamente significativo per gli elettori americani nonostante fosse stato accantonato dal dibattito nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/the-republican-governor-candidates-walking-back-some-of-their-abortion-stances",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T17:23-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za5b1ea5c",
+   "sez": "mondo",
+   "titolo": "Comunità ebraica americana divisa in vista elezioni Israele",
+   "orig": "America's politically divided Jewish community braces for Israel's elections",
+   "lead": "La comunità ebraica americana si prepara alle elezioni israeliane profondamente divisa politicamente e ideologicamente. I sostenitori di Netanyahu, soprattutto tra gli ebrei ortodossi, lo vedono come protettore di uno stato centrale nella loro identità collettiva. Molti ebrei liberali e giovani americani ritengono le sue politiche danneggino la posizione globale e la reputazione di Israele. Lo riferisce PBS NewsHour.",
+   "more": [
+    "La diaspora ebraica americana riflette tensioni tra diversi modelli identitari e visioni sulla politica israeliana."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/americas-politically-divided-jewish-community-braces-for-israels-elections",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-17T14:41-04:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za3621d1a",
+   "sez": "mondo",
+   "titolo": "Primo ministro Corea del Sud si impegna per riprendere dialogo inter-coreano",
+   "orig": "PM vows continued efforts to resume inter-Korean dialogue",
+   "lead": "Il primo ministro sudcoreano Han Seong-sook ha dichiarato domenica che il governo proseguirà gli sforzi dedicati per riprendere il dialogo diplomatico inter-coreano attualmente interrotto. Il suo impegno rappresenta la continuità della priorità governativa nel trovare soluzioni pacifiche ai conflitti ricorrenti sulla penisola coreana. Lo riferisce Yonhap.",
+   "more": [
+    "Le relazioni inter-coreane rimangono tese, con il dialogo interrotto da tensioni ricorrenti sulla penisola."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261018001700315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-18T14:01+09:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3fb31f58",
+   "sez": "mondo",
+   "titolo": "Malaysia: BN annuncerà candidati elezioni Melaka il 28 ottobre",
+   "orig": "Malaysia’s BN to announce candidates for Melaka polls on Oct 28: State chairman",
+   "lead": "La coalizione Barisan Nasional della Malaysia annuncerà il 28 ottobre i candidati ufficiali per le elezioni dello stato di Melaka. Lo ha comunicato il presidente dello stato Abu Rauf Yusoh, che ricopre anche l'incarico di ministro caretaker, sottolineando la responsabilità di continuare il mandato della coalizione. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/asia/malaysias-bn-announce-candidates-melaka-polls-oct-28-state-chairman-6469281",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-18T12:40+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze65e2205",
+   "sez": "mondo",
+   "titolo": "Reema El Qassem, prima giocatrice di basket in sedia a rotelle con velo",
+   "orig": "Meet the first hijab-wearing non-verbal wheelchair basketballer",
+   "lead": "Reema El Qassem è diventata la prima giocatrice di basket in sedia a rotelle a indossare l'hijab nella lega professionistica australiana. Dopo 320 giorni di ospedalizzazione a causa di una grave lesione, si è elevata ai vertici della sua disciplina sportiva, dimostrando che chiunque può praticare sport professionistico. Lo riferisce ABC News Australia.",
+   "more": [
+    "El Qassem rappresenta un passo avanti nell'inclusività dello sport professionistico, abbattendo barriere sia fisiche che culturali."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-18/reema-el-qassem-wheelchair-basketball-sydney-uni-lions/107220160",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-17T18:39+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze4c0c215",
+   "sez": "mondo",
+   "titolo": "Ciclone tropicale Wati si rinforza a categoria 2 nelle Isole Cook",
+   "orig": "TC Wati strengthens to Category 2",
+   "lead": "Il ciclone tropicale Wati ha continuato ad intensificarsi raggiungendo il livello di categoria 2 mentre si muove nelle acque delle Isole Cook nel Pacifico meridionale. Il rafforzamento del sistema meteorologico rappresenta una crescente minaccia per le comunità locali dell'arcipelago polinesiano. Lo riferisce RNZ.",
+   "more": [
+    "Il rafforzamento del sistema meteorologico rappresenta una minaccia significativa per gli atolli e le comunità nella regione del Pacifico meridionale."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/1974118/tc-wati-strengthens-to-category-2",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-18T08:45+13:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8fcec697",
+   "sez": "mondo",
+   "titolo": "Hong Kong attirerà grandi aziende farmaceutiche nel nuovo programma strategico",
+   "orig": "Top pharma firms in new batch of strategic businesses",
+   "lead": "Le principali aziende farmaceutiche globali entreranno nel nuovo programma strategico di Hong Kong per condurre studi clinici e ricerca farmacologica avanzata nel territorio. Circa 10-20 imprese parteciperanno al programma, divise equamente tra aziende continentali e straniere, ha annunciato il direttore di Oases Peter Yan. Lo riferisce RTHK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874352-20261018.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T11:17+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3cb7753c",
+   "sez": "mondo",
+   "titolo": "Visitatore greco descrive disordini a Parigi: violenti, diffusi in tutta la città",
+   "orig": "Έλληνας επισκέπτης στο Παρίσι περιγράφει στο ΕΡΤnews τις αναταραχές: «Δεν περιορίζονταν σε ένα σημείο, ήταν σε όλη την πόλη – Αυτό με τρόμαξε»",
+   "lead": "Un visitatore greco a Parigi ha descritto i violenti disordini in corso nella capitale francese durante il fine settimana, segnalando fuochi accesi nelle strade, cassonetti incendiati, lacrimogeni e stazioni della metropolitana chiuse al pubblico. Ha sottolineato che gli scontri non erano circoscritti a una specifica zona ma diffusi in tutta la città. Lo riferisce ERT News.",
+   "more": [
+    "I disordini a Parigi riflettono tensioni sociali e protestazioni che colpiscono la capitale francese."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/ellinas-episkeptis-sto-parisi-perigrafei-sto-ertnews-tis-anataraxes-den-periorizontan-se-ena-simeio-itan-se-oli-tin-poli-ayto-me-tromakse/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T06:08+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfbe91a92",
+   "sez": "mondo",
+   "titolo": "Forze ucraine effettuano attacchi con droni su San Pietroburgo e regione Leningrado",
+   "orig": "Украинските сили извршија напади со дронови врз Санкт Петербург и Ленинградската област",
+   "lead": "Le forze armate ucraine hanno lanciato nella notte un attacco coordinato con droni verso San Pietroburgo e la regione di Leningrado, secondo quanto comunicato dal governatore locale Aleksandr Drozdenko. L'operazione fa parte della strategia ucraina di colpire infrastrutture strategiche russe nel conflitto in corso. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D1%81%D0%B8%D0%BB%D0%B8-%D0%B8%D0%B7%D0%B2%D1%80%D1%88%D0%B8%D1%98%D0%B0-%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4%D0%B8-%D1%81%D0%BE-%D0%B4%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8-%D0%B2%D1%80%D0%B7-%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T08:05+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z58211f59",
+   "sez": "mondo",
+   "titolo": "Primo ministro Fiji valuta preoccupazioni pubbliche su immunità costituzionale",
+   "orig": "PM weighs public concerns over immunity",
+   "lead": "Il primo ministro fijiano Sitiveni Rabuka ha dichiarato che le disposizioni proposte di immunità costituzionale affronteranno ulteriore scrutinio prima che il disegno di legge di modifica torni al Parlamento. Ha affermato che le preoccupazioni pubbliche devono essere valutate rispetto agli argomenti per mantenere le protezioni legali. Lo riferisce FBC News.",
+   "more": [
+    "La riforma costituzionale in Fiji affronta dibattiti sulla responsabilità dei pubblici ufficiali e l'immunità dal perseguimento legale."
+   ],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/pm-weighs-public-concerns-over-immunity/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-10-18T01:45+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc88e1803",
+   "sez": "mondo",
+   "titolo": "Stabilimento Kromberg and Schubert a Lutsk sospende operazioni dopo attacco russo",
+   "orig": "Kromberg and Schubert electrical wiring plant in Lutsk halts operations following Russian attack",
+   "lead": "Lo stabilimento Kromberg and Schubert di Lutsk, che produce sistemi di cablaggio per i principali costruttori automobilistici europei come BMW, Audi, Mercedes-Benz, Porsche e Skoda, ha sospeso le operazioni dopo il violento attacco con droni russi del 16 ottobre. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "L'attacco rientra nella strategia russa di colpire le infrastrutture produttive ucraine per paralizzare l'economia del paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/kromberg-and-schubert-electrical-wiring-plant-in-lutsk-halts-operations-following-russian-attack/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-18T00:32+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd1cdef61",
+   "sez": "mondo",
+   "titolo": "F-16 rumeni abbattono due droni dopo violazione spazio aereo",
+   "orig": "Romanian F-16s down two jet-powered drones after airspace incursion",
+   "lead": "Due droni alimentati a reazione appartenenti alla famiglia Geran, frequentemente usata dalla Russia, sono stati abbattuti dagli F-16 rumeni dopo aver violato lo spazio aereo nazionale. Il ministero della Difesa rumeno non ha precisato a quale nazione i droni appartengono ufficialmente. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "La Romania, membro NATO, intensifica la sorveglianza aerea della regione a seguito degli attacchi russi sull'Ucraina vicina."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/romanian-f-16s-down-two-jet-powered-drones-after-airspace-incursion/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-17T22:16+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb3c6ffe9",
+   "sez": "mondo",
+   "titolo": "Zelensky avverte: Russia potrebbe espandere minacce missilistiche dalla Bielorussia",
+   "orig": "Zelensky warns Russia may expand missile threats from Belarus against western Ukraine",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha avvertito che la Russia potrebbe ampliare le minacce missilistiche contro l'Ucraina occidentale lanciandole dalla Bielorussia. La guardia di frontiera ucraina ha riferito che equipaggiamenti basati in Bielorussia aiutano a trasmettere i segnali per i droni Shahed e Geran verso obiettivi ucraini occidentali. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "Il coinvolgimento della Bielorussia nelle operazioni russe rappresenta un'estensione geografica della minaccia per l'Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/zelensky-warns-russia-may-expand-missile-threats-from-belarus-against-western-ukraine/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-17T20:26+00:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z97bc8379",
+   "sez": "mondo",
+   "titolo": "Piattaforma Ask AA di Atiku: domande importanti ma risposte incomplete",
+   "orig": "Atiku’s Ask AA publishes tough questions, but some answers leave gaps",
+   "lead": "Un'analisi condotta da Premium Times su 100 risposte pubbliche della piattaforma Ask AA dell'ex vicepresidente nigeriano Atiku Abubakar ha rilevato che domande critiche sono pubblicate, ma diverse risposte omettono documenti richiesti, dati finanziari completi o specifici impegni politici. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/headlines/917917-atikus-ask-aa-publishes-tough-questions-but-some-answers-leave-gaps.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T05:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:31",
+   "uscita": "mattino"
+  },
+  {
    "id": "z7e719013",
    "sez": "italia",
    "titolo": "Meloni attacca la sinistra sulle violenze, il Pd risponde",
@@ -1540,6 +3607,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-10-18T01:34+00:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/rosia-pyrkagia-se-petrelaiko-termatiko-stathmo-tis-agias-petroupolis-meta-apo-oukraniki-epithesi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T05:43+00:00"
     }
    ],
    "data": "",
@@ -1696,6 +3772,24 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-10-18T03:44+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/moyen-orient/en-cisjordanie-un-maire-francais-roue-de-coups-par-des-colons-israeliens-lors-de-lattaque-dun-convoi-diplomatique-europeen-20261017_MYBG2DLIGZFCLPHW4C7QD3XQSI/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-17T16:46+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/cisjordanie-un-maire-francais-frappe-par-des-colons-israeliens-pendant-une-visite/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-17T23:00+00:00"
     }
    ],
    "data": "18 ott",
@@ -2043,7 +4137,80 @@ window.EDIZIONI["2026-10-18"] = {
   "z74d19907": "La testata collega l'attacco alle tensioni diplomatiche sulle sanzioni statunitensi alla Russia.",
   "zf0bd802b": "La testata mette in luce un divario sociale legato al reddito ma non riducibile solo a esso.",
   "zd9faa6db": "La testata enfatizza il legame affettivo di De Rossi con la Roma nonostante la sconfitta da avversario.",
-  "zeef8fb5a": "La testata presenta l'incontro come segnale di interesse statunitense verso le risorse energetiche nordafricane."
+  "zeef8fb5a": "La testata presenta l'incontro come segnale di interesse statunitense verso le risorse energetiche nordafricane.",
+  "zc2ce2f9f": "La testata sottolinea la pressione politica sulle banche per i ripetuti episodi di violazione dati.",
+  "zbdc2ab60": "La testata evidenzia la scelta del Marocco come sede dei test militari statunitensi anti-drone.",
+  "z250fe90f": "La testata quantifica con precisione il crollo in borsa definendolo il peggiore da 17 anni.",
+  "zd4e281c9": "La testata inquadra l'annuncio cinese come una minaccia concreta al dominio dei produttori coreani e americani.",
+  "z4ada9875": "La testata sottolinea il forte interesse dei consumatori nonostante i lunghi tempi di attesa per la consegna.",
+  "za0f39a39": "La testata riporta la decisione ufficiale citando direttamente il memorandum ministeriale.",
+  "z815bb559": "La testata riporta fonti interne che segnalano l'origine della decisione nelle alte sfere del governo.",
+  "zfed0f7fb": "La testata collega l'aumento dei prezzi alla dipendenza nepalese dalle importazioni cinesi.",
+  "z9d0bf370": "Gulf News fa il punto sui dati economici del semestre a Dubai.",
+  "zeb04af4c": "Daily News Egypt riporta i contenuti dell'incontro governativo sul piano economico.",
+  "z34505ffc": "Euronews descrive in prima persona l'esperienza a bordo del robotaxi a Zagabria.",
+  "zfc83de92": "South China Morning Post cita analisi di Morgan Stanley e JLL sulla divaricazione del mercato immobiliare uffici.",
+  "z81b533ab": "Il Messaggero segnala la proroga in arrivo delle regole di accesso alla Ztl fascia verde.",
+  "zaf6557dd": "Il Messaggero evidenzia il consenso bipartisan raggiunto sul piano di sviluppo dello scalo.",
+  "z4380c43e": "Il Messaggero descrive il lancio della stablecoin bancaria in euro Qivalis.",
+  "zf64a7bb0": "la Repubblica descrive la nuova tassa Ue sulle spedizioni extra-comunitarie in arrivo da novembre.",
+  "zc55efac0": "la Repubblica analizza l'impatto della crisi delle memorie sui prezzi degli smartphone.",
+  "zd85153f1": "la Repubblica riporta le dichiarazioni dell'ad di Icop sul progetto per Trevi.",
+  "z7aaa5c6d": "Cyprus Mail riassume le notizie economiche della settimana sull'isola, incluso il bilancio statale 2027.",
+  "z0814ea32": "Cyprus Mail cita i dati di Omdia sulla crescita prevista del mercato dei monitor OLED.",
+  "zf1d83abc": "The Namibian riporta l'apertura dell'ufficio namibiano della società saudita Eram Holdings.",
+  "zcff110da": "Kurdistan24 riporta le dichiarazioni del presidente dell'USKBC sulle visite aziendali a Zakho.",
+  "z6b6cea91": "MyJoyOnline riporta le critiche del parlamentare Jinapor sulla partnership BRICS.",
+  "z00fba63b": "De Ware Tijd riporta le dichiarazioni della presidente suriLimese al summit bancario.",
+  "zb15542ab": "Al Jazeera riporta la versione iraniana, mentre Fox News e Kurdistan24 citano le dichiarazioni del Comando centrale statunitense sul blocco navale.",
+  "z3b9fb74d": "Le testate dell'Africa occidentale riportano con favore il primo passo di dialogo tra le due organizzazioni rivali.",
+  "zd82b4efb": "La testata tanzaniana enfatizza il valore della cooperazione internazionale nella formazione professionale",
+  "zf21a2dad": "El Comercio interpreta la fase come punto di svolta positivo nelle relazioni bilaterali",
+  "z325a201f": "Yonhap celebra i progressi atletici dell'icona sportiva coreana nel ranking mondiale",
+  "z57e40695": "Fox News inquadra l'evento come simbolo della violenza dei disordini civili che hanno colpito la Francia",
+  "zcd770f57": "Le agenzie riferiscono con tono di sollievo sull'evitamento di impatto diretto sulle comunità di Guam",
+  "z14d7490a": "CNA analizza il fenomeno come indicatore della sofferenza economica dei marchi occidentali in Asia",
+  "z312e7aa1": "I media australiani enfatizzano l'impresa storica della nazione del Pacifico nel mondiale",
+  "z37c487fb": "The Times of Central Asia presenta l'intesa come consolidamento della partnership regionale",
+  "z329302a7": "TOLOnews evidenzia l'innovazione sociale nella risposta alle sfide della modernità tecnologica",
+  "zdda9162c": "Philippine Daily Inquirer copre gli sviluppi del torneo locale di basket con attenzione ai risultati e alle prestazioni individuali",
+  "z0df5789c": "The Astana Times presenta la questione come tema di rilevanza strategica per la stabilità regionale",
+  "z69ca70c5": "Clarín sottolinea le contraddizioni e le pressioni politiche affrontate dalla Amministrazione durante la campagna elettorale",
+  "zb3680912": "El Observador inquadra la sfida come momento chiave nella stagione calcistica locale",
+  "z580ab152": "Seneweb riferisce l'operazione di polizia con tono informativo neutro",
+  "zb547226c": "I media boliviani trattano l'evento con tono di commemorazione della figura paterna",
+  "z5622e94d": "RNZ riporta l'evento con tono informativo neutrale sulla sicurezza in montagna",
+  "z0c6bd593": "Tagesschau presenta i colloqui come momento cruciale nella formazione governativa berlinese",
+  "zc6890b33": "Le Soleil enfatizza l'importanza della preparazione olimpica nel contesto dello sviluppo sportivo giovanile locale",
+  "z5bb19e5e": "La Repubblica presenta l'analisi sociologica come interpretazione critica della conflittualità generazionale francese",
+  "z99aeb896": "La Repubblica riporta la posizione studentesca come critica alle politiche governative e militari",
+  "z658643d3": "allAfrica presenta l'evento come progresso nel cammino democratico somalo",
+  "z9fec70d0": "Dawn presenta le misure governative come risposta alla crisi energetica invernale",
+  "z90fa76ba": "Süddeutsche Zeitung celebra il ritorno al dominio del Bayern nel campionato",
+  "z33d3b169": "El Deber riporta il procedimento giudiziario con tono informativo sulla questione legale",
+  "zace58558": "Seneweb presenta l'operazione come parte della lotta contro l'illegittimità nell'estrazione mineraria",
+  "z2601bf6e": "RTP riporta le proteste come manifestazione della crisi abitativa nazionale",
+  "zf69cf8b8": "Al Jazeera enfatizza l'utilizzo di IA come strumento di supporto civile durante le proteste",
+  "z553aa4c1": "RTÉ News presenta il forum come momento di affermazione della resilienza europea",
+  "z62e5cc6e": "Celebrazione del patrimonio musicale ceco nel genere bluegrass",
+  "z24a27bcf": "Nota sulla preparazione della squadra universitaria americana verso la stagione regolare",
+  "z178bc588": "Focus sulla vulnerabilità della difesa aerea alle minacce tecnologiche non identificate",
+  "zaf539a15": "Cronaca della competizione sportiva femminile nordamericana di basket professionistico",
+  "zcf75a441": "Reazione alle minacce di sicurezza nella regione baltica",
+  "z2ab43aab": "Analisi della ricalibrazione tattica conservatrice su questioni sociali",
+  "za5b1ea5c": "Inchiesta sulla polarizzazione interna di una comunità diasporica",
+  "za3621d1a": "Dichiarazione istituzionale sulla prosecuzione dei negoziati regionali",
+  "z3fb31f58": "Cronaca del calendario elettorale malese",
+  "ze65e2205": "Profilo di una atleta che sfida i pregiudizi nello sport professionistico",
+  "ze4c0c215": "Monitoraggio di un evento meteorologico che minaccia comunità nel Pacifico",
+  "z8fcec697": "Iniziativa di Hong Kong per attrarre investimenti farmaceutici e ricerca medica",
+  "z3cb7753c": "Testimonianza diretta sulla portata geografica dei disordini urbani",
+  "zfbe91a92": "Rapporto sulla continuazione dei bombardamenti ucraini su obiettivi russi",
+  "z58211f59": "Discussione del processo consultivo sulla modifica costituzionale",
+  "zc88e1803": "Impatto della guerra sulla catena di fornitura automobilistica europea",
+  "zd1cdef61": "Reazione della difesa aerea NATO alla proliferazione di droni d'attacco",
+  "zb3c6ffe9": "Allerta sulla dilatazione della zona di combattimento verso il confine bielorusso",
+  "z97bc8379": "Analisi sulla trasparenza della comunicazione politica di un candidato nigeriano"
  },
  "contesti": {
   "z3699f7d3": "Nei giorni precedenti era già stato segnalato un attacco a un fotografo statunitense nella stessa zona della Cisgiordania, episodio che aveva acceso i timori per la sicurezza di operatori e osservatori stranieri nella regione, in un contesto di crescente tensione legato agli insediamenti.",
@@ -2054,7 +4221,9 @@ window.EDIZIONI["2026-10-18"] = {
   "ze172d5f5": "La crisi degli oppioidi negli Stati Uniti si è progressivamente evoluta negli ultimi anni, passando da sostanze tradizionali a droghe sintetiche sempre più accessibili e letali, prodotte con metodi artigianali che rendono difficile per le autorità sanitarie e di controllo contrastarne la diffusione.",
   "z7944099e": "Negli ultimi anni la Tunisia ha affrontato una successione di crisi economiche, aggravate da instabilità politica e difficoltà nei negoziati con le istituzioni finanziarie internazionali, con un progressivo deterioramento delle condizioni di vita per ampie fasce della popolazione, soprattutto giovanile.",
   "z9c62c4a9": "Nei giorni precedenti si erano susseguite proteste contro le penurie d'acqua e l'aumento del costo della vita, culminate in violenze che hanno portato all'imposizione del coprifuoco su parte dell'isola e a decine di arresti.",
-  "z74d19907": "Negli ultimi mesi gli attacchi con drone tra Russia e Ucraina si sono intensificati, colpendo infrastrutture energetiche e civili da entrambe le parti, mentre Washington ha oscillato tra pressioni sanzionatorie e aperture diplomatiche verso Mosca."
+  "z74d19907": "Negli ultimi mesi gli attacchi con drone tra Russia e Ucraina si sono intensificati, colpendo infrastrutture energetiche e civili da entrambe le parti, mentre Washington ha oscillato tra pressioni sanzionatorie e aperture diplomatiche verso Mosca.",
+  "zb15542ab": "Le tensioni nello Stretto di Hormuz si sono intensificate nelle ultime settimane tra Iran e forze statunitensi, con accuse reciproche di blocchi navali e attacchi a petroliere. Washington ha rafforzato la presenza militare nella regione, mentre Teheran ha più volte minacciato di chiudere la rotta marittima strategica per il trasporto di petrolio.",
+  "z3b9fb74d": "Negli ultimi anni i rapporti tra ECOWAS e i paesi del Sahel guidati da governi militari si erano fortemente deteriorati, con l'uscita di Mali, Burkina Faso e Niger dall'organizzazione regionale e la formazione dell'Alleanza degli Stati del Sahel come blocco alternativo."
  },
  "cronologie": {
   "z3699f7d3": [
@@ -2792,6 +4961,510 @@ window.EDIZIONI["2026-10-18"] = {
     "Libya"
    ],
    "pt": []
+  },
+  "zc2ce2f9f": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zbdc2ab60": {
+   "n": "Tan-Tan",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z250fe90f": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zd4e281c9": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z4ada9875": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za0f39a39": {
+   "n": "Balochistan",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z815bb559": {
+   "n": "Taftan",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zfed0f7fb": {
+   "n": "Nepal",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z9d0bf370": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zeb04af4c": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z34505ffc": {
+   "n": "Zagabria",
+   "p": [
+    "Croatia"
+   ],
+   "pt": []
+  },
+  "zfc83de92": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z81b533ab": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zaf6557dd": {
+   "n": "Fiumicino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4380c43e": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf64a7bb0": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zc55efac0": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd85153f1": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7aaa5c6d": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "zf1d83abc": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "zcff110da": {
+   "n": "Zakho",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z6b6cea91": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z00fba63b": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "zb15542ab": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z3b9fb74d": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zd82b4efb": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "zf21a2dad": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z325a201f": {
+   "n": "Copenhagen",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z57e40695": {
+   "n": "Limoges",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zcd770f57": {
+   "n": "Guam",
+   "p": [
+    "Guam"
+   ],
+   "pt": []
+  },
+  "z14d7490a": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z312e7aa1": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z37c487fb": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z329302a7": {
+   "n": "non specificato",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdda9162c": {
+   "n": "Cebu City",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z0df5789c": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z69ca70c5": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb3680912": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z580ab152": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zb547226c": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z5622e94d": {
+   "n": "Mount Cook",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z0c6bd593": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zc6890b33": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z5bb19e5e": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z99aeb896": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z658643d3": {
+   "n": "Mogadiscio",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z9fec70d0": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z90fa76ba": {
+   "n": "Monaco",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z33d3b169": {
+   "n": "Santa Cruz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zace58558": {
+   "n": "Kédougou",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z2601bf6e": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zf69cf8b8": {
+   "n": "New Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z553aa4c1": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z62e5cc6e": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z24a27bcf": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z178bc588": {
+   "n": "Lithuania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zaf539a15": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zcf75a441": {
+   "n": "Latvia",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "z2ab43aab": {
+   "n": "United States of America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za5b1ea5c": {
+   "n": "United States of America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za3621d1a": {
+   "n": "Seoul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z3fb31f58": {
+   "n": "Malaysia",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "ze65e2205": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "ze4c0c215": {
+   "n": "Cook Islands",
+   "p": [
+    "Cook Is."
+   ],
+   "pt": []
+  },
+  "z8fcec697": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z3cb7753c": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zfbe91a92": {
+   "n": "San Pietroburgo",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z58211f59": {
+   "n": "Fiji",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "zc88e1803": {
+   "n": "Lutsk",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zd1cdef61": {
+   "n": "Romania",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zb3c6ffe9": {
+   "n": "Ukraine",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z97bc8379": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -2864,7 +5537,80 @@ window.EDIZIONI["2026-10-18"] = {
   "z74d19907": 2,
   "zf0bd802b": 1,
   "zd9faa6db": 1,
-  "zeef8fb5a": 1
+  "zeef8fb5a": 1,
+  "zc2ce2f9f": 1,
+  "zbdc2ab60": 1,
+  "z250fe90f": 2,
+  "zd4e281c9": 2,
+  "z4ada9875": 2,
+  "za0f39a39": 2,
+  "z815bb559": 1,
+  "zfed0f7fb": 1,
+  "z9d0bf370": 1,
+  "zeb04af4c": 1,
+  "z34505ffc": 1,
+  "zfc83de92": 1,
+  "z81b533ab": 1,
+  "zaf6557dd": 1,
+  "z4380c43e": 1,
+  "zf64a7bb0": 1,
+  "zc55efac0": 1,
+  "zd85153f1": 1,
+  "z7aaa5c6d": 1,
+  "z0814ea32": 1,
+  "zf1d83abc": 1,
+  "zcff110da": 1,
+  "z6b6cea91": 1,
+  "z00fba63b": 1,
+  "zb15542ab": 1,
+  "z3b9fb74d": 2,
+  "zd82b4efb": 1,
+  "zf21a2dad": 1,
+  "z325a201f": 1,
+  "z57e40695": 1,
+  "zcd770f57": 1,
+  "z14d7490a": 1,
+  "z312e7aa1": 1,
+  "z37c487fb": 1,
+  "z329302a7": 1,
+  "zdda9162c": 1,
+  "z0df5789c": 1,
+  "z69ca70c5": 1,
+  "zb3680912": 1,
+  "z580ab152": 1,
+  "zb547226c": 1,
+  "z5622e94d": 1,
+  "z0c6bd593": 1,
+  "zc6890b33": 1,
+  "z5bb19e5e": 1,
+  "z99aeb896": 1,
+  "z658643d3": 1,
+  "z9fec70d0": 1,
+  "z90fa76ba": 1,
+  "z33d3b169": 1,
+  "zace58558": 1,
+  "z2601bf6e": 1,
+  "zf69cf8b8": 1,
+  "z553aa4c1": 1,
+  "z62e5cc6e": 1,
+  "z24a27bcf": 1,
+  "z178bc588": 1,
+  "zaf539a15": 1,
+  "zcf75a441": 1,
+  "z2ab43aab": 1,
+  "za5b1ea5c": 1,
+  "za3621d1a": 1,
+  "z3fb31f58": 1,
+  "ze65e2205": 1,
+  "ze4c0c215": 1,
+  "z8fcec697": 1,
+  "z3cb7753c": 1,
+  "zfbe91a92": 1,
+  "z58211f59": 1,
+  "zc88e1803": 1,
+  "zd1cdef61": 1,
+  "zb3c6ffe9": 1,
+  "z97bc8379": 1
  },
  "video": {},
  "pillole": []
