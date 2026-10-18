@@ -180,28 +180,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zc6ac2bdd",
-   "sez": "mondo",
-   "titolo": "Piogge in Spagna: \"Le prossime ore saranno critiche\"",
-   "orig": "Ulewy w Hiszpanii. \"Nadchodzące godziny będą krytyczne\"",
-   "lead": "In Spagna sono in vigore avvertimenti per pioggia e temporali, con il livello massimo in alcune zone. Il maltempo è legato a una depressione carica di pioggia. Nei dintorni di Barcellona un'alluvione ha causato la morte di una persona. Le prossime ore sono definite critiche. Lo riferisce TVN24.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "TVN24",
-     "p": "XX",
-     "c": "Varsavia",
-     "u": "https://tvn24.pl/tvnmeteo/swiat/burza-dana-w-hiszpanii-nadchodzace-godziny-beda-krytyczne-st9293515?source=rss",
-     "angolo": "",
-     "atlas": "Poland",
-     "t": "2026-10-18T17:17+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
    "id": "ze2fe6e9f",
    "sez": "mondo",
    "titolo": "Caetano Veloso annuncia Sônia Braga all'atto per la democrazia a Rio",
@@ -217,28 +195,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Brazil",
      "t": "2026-10-18T14:00-03:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "z195efe10",
-   "sez": "mondo",
-   "titolo": "Milano, secondo giorno di proteste con saccheggi e scontri con la polizia",
-   "orig": "Segundo dia de protestos em Milão tem saques e confronto com a polícia",
-   "lead": "A Milano la polizia è entrata in confronto domenica 18 ottobre con manifestanti che hanno lanciato pietre e saccheggiato negozi. La protesta riguarda il peggioramento dei servizi pubblici e l'aumento del costo della vita. Gli scontri seguono disordini analoghi avvenuti il giorno prima in altre città italiane. Gli agenti hanno usato gas lacrimogeni e cannoni ad acqua. Lo riferisce G1.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "G1",
-     "p": "XX",
-     "c": "Rio de Janeiro",
-     "u": "https://g1.globo.com/mundo/noticia/2026/10/18/segundo-dia-de-protestos-em-milao-tem-saques-e-confronto-com-a-policia.ghtml",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-10-18T17:45+00:00"
     }
    ],
    "data": "18 ott",
@@ -1043,28 +999,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z327f5d80",
-   "sez": "mondo",
-   "titolo": "Trump appoggia Netanyahu per la rielezione e avverte Israele di non scegliere il «leader sbagliato»",
-   "orig": "Trump endorses Bibi for re-election, warns Israel against choosing 'wrong leader'",
-   "lead": "Il presidente degli Stati Uniti Donald Trump ha espresso il suo sostegno alla rielezione del premier israeliano Benjamin Netanyahu, detto «Bibi». Nello stesso intervento ha messo in guardia Israele dal scegliere quello che ha definito il «leader sbagliato». Le dichiarazioni arrivano in vista del voto in Israele. Lo riferisce Times of India.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Times of India",
-     "p": "XX",
-     "c": "Mumbai",
-     "u": "https://timesofindia.indiatimes.com/world/middle-east/trump-endorses-bibi-for-re-election-warns-israel-against-choosing-wrong-leader/articleshow/135031238.cms",
-     "angolo": "",
-     "atlas": "India",
-     "t": "2026-10-18T21:15+05:30"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
    "id": "z30147749",
    "sez": "mondo",
    "titolo": "Discrepanze e dubbi nella revisione speciale delle liste elettorali a Ghaziabad",
@@ -1335,7 +1269,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "z8a3de7eb",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Il Nepal importa 2 milioni di mazzi di carte in due mesi",
    "orig": "Nepal imports 2 million packs of playing cards in two months",
    "lead": "Il Nepal ha importato 2 milioni di mazzi di carte da gioco nei primi due mesi dell'attuale anno fiscale, per un valore di 51,8 milioni di rupie nepalesi. Le importazioni hanno generato 31,1 milioni di rupie di entrate doganali, cifra che contribuisce alle entrate pubbliche del Paese. Il dato riguarda il commercio di beni di consumo e l'impatto sui conti statali. Lo riferisce The Kathmandu Post.",
@@ -1392,28 +1326,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-19T01:35+08:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:14",
-   "uscita": "sera"
-  },
-  {
-   "id": "z85ced58a",
-   "sez": "mondo",
-   "titolo": "Parigi, nuovi scontri tra polizia, manifestanti e saccheggiatori",
-   "orig": "Paris police in new battles with protesters and looters",
-   "lead": "La polizia di Parigi è tornata a scontrarsi con manifestanti e saccheggiatori, dopo che alcune centinaia di persone si sono radunate in place de la République seguendo appelli diffusi sui social media. Le nuove tensioni arrivano dopo gli incidenti di sabato. Il caos di sabato ha lasciato auto incendiate, vetrine distrutte e detriti da rimuovere. Lo riferisce The Straits Times.",
-   "more": [],
-   "fonti": [
+    },
     {
-     "n": "The Straits Times",
+     "n": "G1",
      "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/paris-police-in-new-battles-with-protesters-and-looters",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/mundo/noticia/2026/10/18/segundo-dia-de-protestos-em-milao-tem-saques-e-confronto-com-a-policia.ghtml",
      "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-19T00:52+08:00"
+     "atlas": "Brazil",
+     "t": "2026-10-18T17:45+00:00"
     }
    ],
    "data": "18 ott",
@@ -1554,7 +1475,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "zdb5ef799",
-   "sez": "mondo",
+   "sez": "viaggi",
    "titolo": "'387 miliardi di pesos': sviluppatori puntano su hotel nelle Filippine, Mindanao emerge nel turismo",
    "orig": "‘₱387 billion’: Developers double down on Philippine hotels, Mindanao's quiet rise in tourism",
    "lead": "Gli sviluppatori immobiliari stanno puntando con decisione sugli hotel nelle Filippine, per una cifra di 387 miliardi di pesos. Parallelamente la regione di Mindanao mostra una crescita silenziosa nel settore turistico. La testata accompagna il servizio con immagini di edifici in costruzione al Bonifacio Global City, a Manila. Lo riferisce Gulf News.",
@@ -1872,37 +1793,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Cyprus",
      "t": "2026-10-18T19:00+03:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:14",
-   "uscita": "sera"
-  },
-  {
-   "id": "za90ccfd3",
-   "sez": "mondo",
-   "titolo": "Trump appoggia il premier israeliano Netanyahu in corsa per la rielezione",
-   "orig": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for re-election",
-   "lead": "Domenica il presidente statunitense Donald Trump ha sostenuto pubblicamente il premier israeliano Benjamin Netanyahu per la rielezione, in una fase in cui Netanyahu è in difficoltà. L'appoggio è molto ricercato per la popolarità di Trump. Il leader Usa lo aveva però negato per mesi, perché le strategie dei due Paesi in Medio Oriente divergevano. Lo riferisce Stuff.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Stuff NZ",
-     "p": "XX",
-     "c": "Wellington",
-     "u": "https://www.stuff.co.nz/world-news/361048042/trump-endorses-embattled-israeli-prime-minister-benjamin-net",
-     "angolo": "",
-     "atlas": "New Zealand",
-     "t": "2026-10-18T15:26+00:00"
-    },
-    {
-     "n": "Clarín",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.clarin.com/mundo/luego-meses-silencio-donald-trump-respaldo-benjamin-netanyahu-busca-reeleccion_0_vxXkQ7faLr.html",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-10-18T17:30+00:00"
     }
    ],
    "data": "18 ott",
@@ -2490,28 +2380,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "ze5dca2e9",
-   "sez": "mondo",
-   "titolo": "Francia: nuovi disordini a Parigi, la polizia usa i lacrimogeni",
-   "orig": "Frankreich: Neue Ausschreitungen in Paris – Polizei setzt Tränengas ein",
-   "lead": "Dopo gli eccessi del giorno precedente, a Parigi tornano le violenze. In place de la République vengono saccheggiati negozi mentre la polizia usa gas lacrimogeni. Nella città di Mulhouse, nell'est della Francia, una adolescente ha perso un occhio. Lo riferisce Der Spiegel.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-18T18:43+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:14",
-   "uscita": "sera"
-  },
-  {
    "id": "zd64c4a8c",
    "sez": "mondo",
    "titolo": "SPD in crisi: l'anima fragile dei socialdemocratici",
@@ -2549,6 +2417,42 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-18T16:46+00:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T18:43+02:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/paris-police-in-new-battles-with-protesters-and-looters",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T00:52+08:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/noi-violente-la-paris-protestatarii-au-aruncat-cu-sticle-si-pietre-spre-fortele-de-ordine-care-au-intervenit-cu-gaze-lacrimogene-2379322",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T17:12+00:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/en-direct-au-lendemain-des-violences-du-17-octobre-la-france-se-reveille-sous-le-choc-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T16:41+02:00"
     }
    ],
    "data": "18 ott",
@@ -2571,28 +2475,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-18T16:42+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:14",
-   "uscita": "sera"
-  },
-  {
-   "id": "zbf9ac152",
-   "sez": "mondo",
-   "titolo": "Parigi dopo la battaglia: «Non sembra la Francia, non ho mai visto una barbarie così»",
-   "orig": "París después de la batalla: \"Esto no parece Francia, yo nunca he visto un salvajismo así\"",
-   "lead": "Più di venti negozi sono stati saccheggiati e parzialmente distrutti nelle manifestazioni di sabato sul boulevard Magenta a Parigi. Nel reportage compare la frase di un testimone: «Non sembra la Francia, non ho mai visto una barbarie simile». Il racconto restituisce il clima di una città ferita. Lo riferisce El Mundo.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "El Mundo",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://www.elmundo.es/internacional/2026/10/18/6ad4e0edfdddffdf498b4585.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-18T17:23+02:00"
     }
    ],
    "data": "18 ott",
@@ -2645,7 +2527,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "zd0055257",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "La squadra di hockey di Rotterdam «autogestita» ottiene i primi punti dopo quattro turni",
    "orig": "‘Zelfsturend’ hockeyteam Rotterdam grijpt na vier rondes de eerste punten",
    "lead": "Il campione in carica Rotterdam ha battuto 5-2 lo SCHC, con la prima vittoria della stagione. Il giornale sottolinea però che non c'è euforia. Il nuovo allenatore Jeroen Hertzberger deve portare la squadra a «un livello successivo», ascoltando i giocatori. Lo riferisce NRC.",
@@ -3065,6 +2947,96 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Bosnia and Herz.",
      "t": "2026-10-18T19:55+02:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T16:36+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T16:52+00:00"
+    },
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T15:50+01:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/elections/2026-10-18/ty-article/.premium/trump-endorses-netanyahu-in-israels-upcoming-election-citing-war-in-iran/000001a1-4f80-d25a-a7ff-7fd8ba620000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-18T17:54+03:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/trump-and-netanyahus-once-blossoming-bromance-sours-at-a-pivotal-moment-for-both-men/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-18T12:30+00:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T12:18-04:00"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-trump-netanyahu-endorse-israel-election/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-18T15:54+00:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361048042/trump-endorses-embattled-israeli-prime-minister-benjamin-net",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T15:26+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/mundo/luego-meses-silencio-donald-trump-respaldo-benjamin-netanyahu-busca-reeleccion_0_vxXkQ7faLr.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T17:30+00:00"
+    },
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/middle-east/trump-endorses-bibi-for-re-election-warns-israel-against-choosing-wrong-leader/articleshow/135031238.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T21:15+05:30"
     }
    ],
    "data": "18 ott",
@@ -3248,37 +3220,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-10-18T17:05+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:11",
-   "uscita": "sera"
-  },
-  {
-   "id": "z7a298b79",
-   "sez": "mondo",
-   "titolo": "Trump appoggia Netanyahu nelle elezioni legislative israeliane",
-   "orig": "Trump endorses Netanyahu in Israeli legislative elections",
-   "lead": "Il presidente statunitense Donald Trump ha dato il proprio appoggio al premier israeliano Benjamin Netanyahu in vista delle elezioni legislative del 27 ottobre. In un post sui social, Trump ha definito Netanyahu un leader «forte, coraggioso e brillante». Il messaggio è stato diffuso prima del voto, in un Paese dove il premier si misura con la campagna elettorale. Lo riferisce Al Jazeera.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-18T16:36+00:00"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-18T16:52+00:00"
     }
    ],
    "data": "18 ott",
@@ -3529,7 +3470,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "zfeb0acde",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Gasperini elogia Koulierakis dopo la prestazione con la Roma",
    "orig": "Έπαινοι του Γκασπερίνι για την εμφάνιση του Κουλιεράκη με τη Ρόμα",
    "lead": "Il tecnico della Roma Gian Piero Gasperini ha espresso soddisfazione per la prestazione di Konstantinos Koulierakis, difensore greco, nella partita di sabato 17 ottobre contro il Genoa. Il tecnico ha evidenziato aspetti del gioco del difensore che potranno rivelarsi preziosi per la squadra. Secondo la testata, Koulierakis sta guadagnando progressivamente la fiducia dell'allenatore. Lo riferisce ERT News.",
@@ -4008,28 +3949,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zc994687a",
-   "sez": "mondo",
-   "titolo": "Tre primati per l'esercito romeno, annunciati dal ministro della Difesa nel caso dei droni abbattuti",
-   "orig": "Trei premiere pentru armata română, anunțate de ministrul Apărării în cazul dronelor doborâte. Ce fel de aparate erau",
-   "lead": "Il ministro interino della Difesa nazionale, Radu Miruță, ha dichiarato domenica che sono stati registrati tre primati nel caso dei due droni abbattuti sabato sera dai piloti militari romeni nello spazio aereo del Paese. Il ministro ha illustrato il primo dei tre punti riguardo ai due velivoli, precisando di che tipo di apparecchi si trattava. La vicenda riguarda l'esercito romeno. Lo riferisce HotNews.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/trei-premiere-pentru-armata-romana-anuntate-de-ministrul-apararii-in-cazul-dronelor-doborate-ce-fel-de-aparate-erau-2379343",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-18T17:52+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:11",
-   "uscita": "sera"
-  },
-  {
    "id": "z3e8f87cf",
    "sez": "mondo",
    "titolo": "George Simion, reazione ironica dopo l'episodio denunciato da Marius Lulea: «Se va avanti ancora qualche giorno, probabilmente sarò colpevole anche della pioggia»",
@@ -4045,28 +3964,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Romania",
      "t": "2026-10-18T17:51+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:11",
-   "uscita": "sera"
-  },
-  {
-   "id": "zb61da18b",
-   "sez": "mondo",
-   "titolo": "Nuove proteste a Parigi: lancio di bottiglie e pietre, la polizia risponde con gas lacrimogeni",
-   "orig": "Noi proteste la Paris. Sticle și pietre aruncate spre forțele de ordine, care au intervenit cu gaze lacrimogene",
-   "lead": "Nuovi scontri a Parigi: domenica, nella piazza della Repubblica, sono state lanciate bottiglie e pietre contro le forze dell'ordine, che sono intervenute con gas lacrimogeni. Secondo i giornalisti dell'agenzia di stampa, si sono radunate alcune centinaia di persone, in seguito a inviti diffusi per l'occasione. Il giorno prima le manifestazioni nazionali erano degenerate in violenze, caos e saccheggi. Lo riferisce HotNews.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/noi-violente-la-paris-protestatarii-au-aruncat-cu-sticle-si-pietre-spre-fortele-de-ordine-care-au-intervenit-cu-gaze-lacrimogene-2379322",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-18T17:12+00:00"
     }
    ],
    "data": "18 ott",
@@ -4119,7 +4016,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "z5bfc6653",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Budućnost, con il derby, punta al primo posto: il teenager Vujović ancora protagonista",
    "orig": "Budućnost kroz derbi do prvog mjesta: Tinejdžer Vujović opet...",
    "lead": "Budućnost ha superato Dečić a Tuzi e, almeno fino a lunedì pomeriggio, si porta in testa alla classifica del campionato montenegrino CFL. La squadra di Podgorica ha vinto il derby, risultato che le consente di salire al primo posto. Nella partita si è messo in luce ancora una volta il giovane Vujović. Lo riferisce Vijesti.",
@@ -4184,28 +4081,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z756d9bc9",
-   "sez": "mondo",
-   "titolo": "Il campione sa come si vincono le partite brutte: l'Arsenal continua la corsa",
-   "orig": "Šampion zna kako se dobijaju ružni mečevi - Arsenal nastavlja trku...",
-   "lead": "L'Arsenal ha finalmente vinto al City Ground, battendo 1-0 il Nottingham Forest grazie a un gol di Noni Madueke. La squadra di Mikel Arteta è riuscita a conquistare il successo in una partita difficile, proseguendo la sua corsa in classifica. Il gol è stato decisivo per il risultato finale. Lo riferisce Vijesti.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/sport/fudbal/832113/sampion-zna-kako-se-dobijaju-ruzni-mecevi-arsenal-nastavlja-trku-sa-maksimalnim-sitijem",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-18T19:29+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:11",
-   "uscita": "sera"
-  },
-  {
    "id": "zd5e76b88",
    "sez": "mondo",
    "titolo": "Decine di migliaia in piazza in Italia, Belgio e Portogallo contro il carovita e la crisi abitativa",
@@ -4251,7 +4126,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "ze308c5e1",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Coppa del Portogallo: il Casa Pia fatica ma passa ad Alpendorada",
    "orig": "Taça de Portugal. Casa Pia sofre para vencer em Alpendorada",
    "lead": "Il Casa Pia ha battuto 1-0 in trasferta l'Alpendorada, squadra del Campeonato de Portugal, nel turno di Coppa del Portogallo di calcio. Il gol decisivo è stato segnato da Seba Pérez al 72° minuto, domenica. Con questo successo i «gansos» accedono alla quarta eliminatoria della competizione. Lo riferisce RTP.",
@@ -4381,7 +4256,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "zc1c5aaf3",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Rigore, gol da sogno e uomo partita: «È la vendetta»",
    "orig": "Straffebom, drømmescoring og matchvinner: – Det er hevnen sin",
    "lead": "Nella sfida contro il Brann, Lucas Haren del Vålerenga è stato il grande protagonista, con un intervento tra rigore decisivo e gol da sogno. La squadra parla di rivincita dopo la partita. Il giocatore è risultato determinante per l'esito dell'incontro. Lo riferisce NRK.",
@@ -4785,28 +4660,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z1c27ed44",
-   "sez": "mondo",
-   "titolo": "Meloni condanna le «bande di teppisti» dopo le proteste violente in Italia",
-   "orig": "Meloni condemns ‘gangs of thugs’ after protests turned violent across Italy",
-   "lead": "La premier italiana Giorgia Meloni ha condannato le «bande di teppisti» dopo che le proteste anti-governative si sono trasformate in violenza in tutta Italia. Gli scontri a Milano, Bologna e Torino hanno ferito agenti di polizia. Meloni ha espresso sostegno alle forze dell'ordine dopo gli scontri, che hanno coinvolto più città del Paese. Lo riferisce Fox News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Fox News",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.foxnews.com/world/meloni-condemns-gangs-thugs-after-protests-turned-violent-across-italy",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-18T11:34-04:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:11",
-   "uscita": "sera"
-  },
-  {
    "id": "zbceff981",
    "sez": "mondo",
    "titolo": "Diocesi di Awka minaccia di lasciare la Chiesa di Nigeria per la sospensione del vescovo",
@@ -4864,28 +4717,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Kenya",
      "t": "2026-10-18T16:34+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:11",
-   "uscita": "sera"
-  },
-  {
-   "id": "zc8a06459",
-   "sez": "mondo",
-   "titolo": "Il Leeds reagisce e nega al Man Utd una vittoria che avrebbe dato morale",
-   "orig": "Leeds hit back to deny Man Utd morale-boosting win",
-   "lead": "Il Leeds ha reagito e ha negato al Manchester United una vittoria che avrebbe potuto dare nuovo morale. I Red Devils erano arrivati in trasferta sul campo dei rivali storici, disperatamente in cerca di uno scossone dopo appena due vittorie in nove partite disputate in tutte le competizioni in questa stagione. Lo riferisce Citizen Digital.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Citizen Digital",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/leeds-hit-back-to-deny-man-utd-morale-boosting-win-n392276",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-10-18T15:19+00:00"
     }
    ],
    "data": "18 ott",
@@ -5167,7 +4998,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "z1e5aeb6c",
-   "sez": "tech",
+   "sez": "mondo",
    "titolo": "Regno Unito, da novembre vietata la pornografia con strangolamento o incesto",
    "orig": "Porn showing choking or incest to be banned from early November, government says",
    "lead": "Il governo britannico ha annunciato che dall'inizio di novembre sarà vietata la pornografia online che mostra soffocamento, strangolamento o rapporti incestuosi. Il provvedimento nasce da una revisione delle regole sulla pornografia condotta nel 2025 dalla baronessa conservatrice Gabby Bertin. Il divieto colpisce contenuti ritenuti dannosi e diffusi in rete.",
@@ -5377,30 +5208,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-18T15:29+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:06",
-   "uscita": "sera"
-  },
-  {
-   "id": "z46549380",
-   "sez": "italia",
-   "titolo": "Meloni sostiene la polizia dopo le proteste violente contro il carovita",
-   "orig": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
-   "lead": "La presidente del Consiglio Giorgia Meloni ha espresso sostegno alle forze di polizia dopo che le proteste contro il carovita sono degenerate in violenze in diverse città italiane. A spingere gli italiani in piazza sono la rabbia per l'aumento del costo della vita e i salari bassi. Un grande sindacato ha proclamato uno sciopero generale per il 20 novembre. Lo riferisce Deutsche Welle.",
-   "more": [
-    "Negli ultimi anni in Italia i salari reali sono cresciuti meno che in molti altri Paesi europei. Il potere d'acquisto delle famiglie è stato eroso dall'inflazione. Per questo il tema delle retribuzioni è diventato centrale nel confronto tra sindacati e governo."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-18T16:02+00:00"
     }
    ],
    "data": "18 ott",
@@ -6920,66 +6727,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z0f7e45e3",
-   "sez": "mondo",
-   "titolo": "Francia, il municipio storico di Limoges distrutto da un incendio durante le proteste",
-   "orig": "El incendio del ayuntamiento de Limoges el día después del ataque: “Es inadmisible, hay que castigar a los culpables”",
-   "lead": "Il municipio di Limoges, edificio storico costruito tra il 1876 e il 1883 e classificato come monumento storico, è stato in parte distrutto da un incendio. Le fiamme sono state appiccate durante un assalto di manifestanti nella giornata di proteste che sabato ha attraversato la Francia. Sotto il fuoco è crollata anche la cupola. Domenica i vigili del fuoco erano ancora al lavoro per spegnere l'incendio, mentre in città cresceva l'indignazione e c'era chi chiedeva di punire i colpevoli.",
-   "more": [
-    "Limoges è il capoluogo dell'Haute-Vienne, nel centro-ovest della Francia, ed è nota per la sua tradizione nella porcellana. La Francia ha una lunga storia di grandi mobilitazioni sociali, come quella dei gilet gialli nata nel 2018 proprio dalla protesta contro il caro carburante."
-   ],
-   "fonti": [
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/videos/2026-10-18/el-incendio-del-ayuntamiento-de-limoges-el-dia-despues-del-ataque-es-inadmisible-hay-que-castigar-a-los-culpables.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-18T16:15+00:00"
-    },
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/internacional/2026-10-17/el-ayuntamiento-de-limoges-destruido-por-las-llamas-en-la-jornada-de-protestas-en-francia.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-17T22:12+00:00"
-    },
-    {
-     "n": "El Tiempo",
-     "p": "XX",
-     "c": "Bogotá",
-     "u": "https://www.eltiempo.com/mundo/europa/video-asi-se-derrumbo-la-cupula-del-ayuntamiento-historico-de-limoges-un-edificio-de-143-anos-durante-un-incendio-en-las-protestas-en-francia-3594379",
-     "angolo": "",
-     "atlas": "Colombia",
-     "t": "2026-10-18T03:41-05:00"
-    },
-    {
-     "n": "El Universo",
-     "p": "XX",
-     "c": "Guayaquil",
-     "u": "https://eluniverso.com/internacional/europa/ataque-de-manifestantes-provoca-un-incendio-que-destruye-el-historico-edificio-del-ayuntamiento-de-limoges-francia-nota/",
-     "angolo": "",
-     "atlas": "Ecuador",
-     "t": "2026-10-18T01:53+00:00"
-    },
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/o-bijuterie-neorenascentista-ce-a-supravietuit-doua-razboaie-mondiale-facuta-scrum-de-hoarde-de-salbatici-in-cele-mai-grave-violente-din-franta-2379316",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-18T16:58+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:06",
-   "uscita": "sera"
-  },
-  {
    "id": "zfed13cc2",
    "sez": "sport",
    "titolo": "Serie A, Krstović segna a San Siro ma l'Atalanta perde 3-2 col Milan",
@@ -7100,6 +6847,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-18T15:09+00:00"
+    },
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/tvnmeteo/swiat/burza-dana-w-hiszpanii-nadchodzace-godziny-beda-krytyczne-st9293515?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T17:17+00:00"
     }
    ],
    "data": "18 ott",
@@ -7133,39 +6889,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Colombia",
      "t": "2026-10-18T05:01-05:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "20:06",
-   "uscita": "sera"
-  },
-  {
-   "id": "zdfa11935",
-   "sez": "mondo",
-   "titolo": "Ecuador, le ultime parole di padre Patricio Sánchez prima dell'incidente in chiesa",
-   "orig": "“Un día, todos los que estamos aquí vamos a morir y a veces el tiempo que hemos utilizado en cosas no tiene tanto sentido como el tiempo que utilizamos en Dios”: la frase que reflexionó el padre Patricio Sánchez antes de morir tras accidente en iglesia",
-   "lead": "Prima di morire per l'incidente avvenuto nella sua chiesa, padre Patricio Sánchez aveva rivolto ai fedeli una riflessione sulla morte. Sánchez apparteneva alla Congregazione del Santissimo Redentore ed era parroco della chiesa di Nostra Signora del Perpetuo Soccorso, a Guayaquil.",
-   "more": [
-    "La Congregazione del Santissimo Redentore, i cui membri sono detti redentoristi, è un ordine religioso cattolico fondato nel 1732 da sant'Alfonso Maria de' Liguori. Ai redentoristi è tradizionalmente affidato il culto dell'icona della Madonna del Perpetuo Soccorso."
-   ],
-   "fonti": [
-    {
-     "n": "El Universo",
-     "p": "XX",
-     "c": "Guayaquil",
-     "u": "https://eluniverso.com/comunidad/guayaquil/un-dia-todos-los-que-estamos-aqui-vamos-a-morir-y-a-veces-el-tiempo-que-hemos-utilizado-en-cosas-no-tiene-tanto-sentido-como-el-tiempo-que-lo-utilizamos-en-dios-la-frase-que-reflexiono-el-padre-patricio-sanchez-antes-de-morir-tras-accidente-en-iglesia-nota/",
-     "angolo": "",
-     "atlas": "Ecuador",
-     "t": "2026-10-18T15:58+00:00"
-    },
-    {
-     "n": "La Tercera",
-     "p": "XX",
-     "c": "Santiago",
-     "u": "https://www.latercera.com/pulso/noticia/leon-fernandez-de-castro-aqui-no-se-han-hecho-locuras-no-se-han-hecho-cosas-fuera-de-la-norma/",
-     "angolo": "",
-     "atlas": "Chile",
-     "t": "2026-10-18T10:00+00:00"
     }
    ],
    "data": "18 ott",
@@ -9347,28 +9070,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-18T16:30+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:13",
-   "uscita": "17"
-  },
-  {
-   "id": "z1a4b38a4",
-   "sez": "mondo",
-   "titolo": "DIRETTA: nuove tensioni in place de la République a Parigi durante un raduno improvvisato",
-   "orig": "EN DIRECT - De nouvelles tensions place de la République à Paris, lors d’un rassemblement sauvage",
-   "lead": "Nuove tensioni in place de la République, a Parigi, durante un raduno improvvisato dopo la giornata di mobilitazione del 17 ottobre contro il carovita. La giornata è stata segnata da scene di guerriglia urbana e saccheggi in molte città. Il premier Sébastien Lecornu ha riferito di 1.200 fermi e 150 tra poliziotti e gendarmi feriti. A Limoges un incendio ha distrutto in gran parte il municipio. Lo riferisce Le Figaro.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/actualite-france/en-direct-au-lendemain-des-violences-du-17-octobre-la-france-se-reveille-sous-le-choc-20261018",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-18T16:41+02:00"
     }
    ],
    "data": "18 ott",
@@ -11697,6 +11398,24 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-18T19:25+02:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/comunidad/guayaquil/un-dia-todos-los-que-estamos-aqui-vamos-a-morir-y-a-veces-el-tiempo-que-hemos-utilizado-en-cosas-no-tiene-tanto-sentido-como-el-tiempo-que-lo-utilizamos-en-dios-la-frase-que-reflexiono-el-padre-patricio-sanchez-antes-de-morir-tras-accidente-en-iglesia-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-18T15:58+00:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/leon-fernandez-de-castro-aqui-no-se-han-hecho-locuras-no-se-han-hecho-cosas-fuera-de-la-norma/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T10:00+00:00"
     }
    ],
    "data": "18 ott",
@@ -11892,66 +11611,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Brazil",
      "t": "2026-10-18T08:12-03:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:07",
-   "uscita": "17"
-  },
-  {
-   "id": "zcd895b99",
-   "sez": "mondo",
-   "titolo": "Trump sostiene Netanyahu in vista delle elezioni israeliane",
-   "orig": "Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'",
-   "lead": "Il presidente degli Stati Uniti Donald Trump ha dato il proprio appoggio a Benjamin Netanyahu in vista delle elezioni israeliane in programma entro la fine del mese. Trump lo ha definito un «grande primo ministro guerriero» e ha motivato il sostegno richiamando la guerra con l'Iran. Si tratta di un'aperta presa di posizione di Washington a favore del premier uscente in una campagna elettorale in corso.",
-   "more": [
-    "Benjamin Netanyahu è il primo ministro più longevo nella storia di Israele. Il sostegno pubblico di un presidente statunitense a un candidato in elezioni straniere è insolito, ma Trump ha già espresso apertamente in passato la sua vicinanza al leader del Likud."
-   ],
-   "fonti": [
-    {
-     "n": "Sky News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-18T15:50+01:00"
-    },
-    {
-     "n": "Haaretz",
-     "p": "XX",
-     "c": "Tel Aviv",
-     "u": "https://www.haaretz.com/israel-news/elections/2026-10-18/ty-article/.premium/trump-endorses-netanyahu-in-israels-upcoming-election-citing-war-in-iran/000001a1-4f80-d25a-a7ff-7fd8ba620000",
-     "angolo": "",
-     "atlas": "Israel",
-     "t": "2026-10-18T17:54+03:00"
-    },
-    {
-     "n": "Egypt Independent",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.egyptindependent.com/trump-and-netanyahus-once-blossoming-bromance-sours-at-a-pivotal-moment-for-both-men/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-10-18T12:30+00:00"
-    },
-    {
-     "n": "PBS NewsHour",
-     "p": "US",
-     "c": "Arlington",
-     "u": "https://www.pbs.org/newshour/politics/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-18T12:18-04:00"
-    },
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/article-trump-netanyahu-endorse-israel-election/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-18T15:54+00:00"
     }
    ],
    "data": "18 ott",
@@ -12958,6 +12617,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-18T17:31+00:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/fudbal/832113/sampion-zna-kako-se-dobijaju-ruzni-mecevi-arsenal-nastavlja-trku-sa-maksimalnim-sitijem",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-18T19:29+02:00"
     }
    ],
    "data": "18 ott",
@@ -15878,6 +15546,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-18T15:39+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/leeds-hit-back-to-deny-man-utd-morale-boosting-win-n392276",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-18T15:19+00:00"
     }
    ],
    "data": "18 ott",
@@ -18296,7 +17973,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zfa4c6754": "Le testate collegano l'abbattimento ai recenti attacchi con droni contro navi cisterna al largo della Romania.",
   "zc2be085f": "Le testate australiane insistono sullo spavento finale, quelle neozelandesi sul resoconto della partita.",
   "z6f9e81b1": "Un commento di OC Media evidenzia la contraddizione tra lo slogan della COP17 e la riapertura della miniera.",
-  "zcd895b99": "Haaretz evidenzia il riferimento alla guerra con l'Iran come motivazione del sostegno.",
   "ze6c30359": "La testata attribuisce il nuovo programma all'impulso del direttore dell'INFP e ne sottolinea il metodo didattico.",
   "zd9207f35": "Le testate evidenziano la rapidità del primo arresto, a poco più di due settimane dalla nascita dell'agenzia.",
   "z813b710e": "Premium Times riporta la voce ufficiale sulla produzione reale, The Punch la copertura della rete: entrambe puntano sul divario tra capacità installata e servizio.",
@@ -18431,7 +18107,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z3e1c5779": "Brújula Digital, testata boliviana, si concentra sulle critiche di analisti e legislatori alla gestione diplomatica.",
   "zae74e236": "Le Monde dà voce a una testimonianza personale, con un taglio umano legato all'incendio.",
   "zfc12d444": "Le Monde analizza le dinamiche elettorali spagnole con un taglio politico e di prospettiva.",
-  "z1a4b38a4": "Il live segue in tempo reale gli sviluppi, con un tono da cronaca concitata che riporta i bilanci ufficiali.",
   "z94644cec": "Il tono è di allarme morale: l'editoriale legge la giornata come simbolo di una frattura più profonda.",
   "za7371cb7": "L'articolo dà spazio all'iniziativa civica e al messaggio del sindaco, con un taglio positivo sulla reazione della città.",
   "z8224b5a7": "L'intervista offre la critica di un esperto alla gestione dell'ordine pubblico, contrapposta alla linea del governo.",
@@ -18511,7 +18186,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z064c7198": "Wallpaper* mette in risalto il design degli spazi e l'offerta gastronomica.",
   "zd7c9aa81": "Orizzonte Scuola mette in evidenza il principio dell'autonomia di giudizio dei docenti.",
   "zf5bd2ca8": "La stampa boliviana celebra il primo gol del connazionale nonostante la sconfitta.",
-  "z46549380": "Deutsche Welle collega gli scontri alle cause economiche delle proteste.",
   "z6fc8a544": "Rai News riporta la linea della maggioranza contro l'opposizione.",
   "z0d75c0f2": "RNZ sottolinea i rischi di riservatezza legati all'uso improprio dell'IA.",
   "z0a16d00a": "OndaRock mette in evidenza il valore documentario della registrazione.",
@@ -18574,13 +18248,11 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zc059c5d6": "La testata valorizza il peso economico della sartoria per una comunità molto piccola.",
   "z1ed2fb4d": "La testata riporta la posizione del mondo imprenditoriale, che lega la ricostruzione al mantenimento dell'attività economica.",
   "z6d13dff0": "La testata mette in evidenza l'entità percentuale dell'aumento e lo collega ai prezzi del petrolio.",
-  "z0f7e45e3": "Le testate ispaniche insistono sul valore storico dell'edificio e sull'indignazione dei cittadini.",
   "zfed13cc2": "La testata montenegrina racconta la partita dal punto di vista del proprio connazionale.",
   "z9a082db7": "La testata keniana celebra la stagione della propria atleta, sottolineando la continuità dei risultati.",
   "z53b62061": "La testata presenta l'onorificenza come un segnale della solidità dei rapporti tra Bahrein e Francia.",
   "z33b57d11": "Le testate collegano l'evento al riscaldamento del Mediterraneo e ne evidenziano l'impatto sui voli.",
   "zc23eb716": "Le testate sottolineano il contrasto tra la lealtà al regime degli anziani e la loro attuale miseria.",
-  "zdfa11935": "La testata ecuadoriana si sofferma sulle parole pronunciate dal sacerdote poco prima della tragedia.",
   "z06608176": "La testata monegasca critica la prestazione della squadra, giudicata molle e senza ispirazione.",
   "z0730d2b3": "Taglio di servizio pubblico sulle scadenze per gli studenti dell'Enem.",
   "zc467977b": "Angolatura economico-tecnologica, dal punto di vista della stampa tunisina e dell'evento di Tunisi.",
@@ -18593,7 +18265,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z331a85d2": "Taglio di cronaca culturale, centrato sulle reazioni del mondo dello spettacolo.",
   "z6944e338": "Taglio di cronaca politico-giudiziaria, con attenzione alle versioni delle istituzioni.",
   "z06eeae52": "Taglio politico-sociale centrato sulla proposta del partito Chega.",
-  "z7a298b79": "Taglio internazionale centrato sul messaggio del presidente USA e sul voto israeliano.",
   "z6441f4aa": "Taglio economico-amministrativo sulla gestione dei pagamenti del servizio sanitario irlandese.",
   "ze89c0165": "Taglio sportivo centrato sul successo della tennista polacca.",
   "zc98b8258": "Taglio scientifico-divulgativo sui rischi globali individuati dal rapporto.",
@@ -18626,15 +18297,12 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zb5a5064d": "Telex English riporta la vicenda attraverso fonti statunitensi, evidenziando le accuse politiche.",
   "ze922c440": "Telex English riporta le richieste di cittadini e ricercatori sulla tutela del Balaton.",
   "zbc5c509d": "MaltaToday dà spazio al giudizio critico di un'esperta sulle criticità del sistema di tutela dei segnalanti.",
-  "zc994687a": "HotNews riporta le dichiarazioni ufficiali del ministro, senza approfondire tecnicamente i dettagli dei droni.",
   "z3e8f87cf": "HotNews dà spazio alla reazione politica di Simion, sottolineandone il tono ironico rispetto alla denuncia.",
-  "zb61da18b": "HotNews privilegia la cronaca degli scontri e dell'intervento delle forze dell'ordine.",
   "z41a807d0": "HotNews riprende le parole del dirigente, mettendo a confronto i costi energetici tra Romania e Marocco.",
   "ze9eaab97": "HotNews presenta la serie come notizia di streaming, riportandone i dati essenziali di lancio.",
   "z5bfc6653": "Vijesti racconta il risultato sportivo con attenzione alla classifica e al ruolo del giovane protagonista.",
   "z2df50864": "Vijesti dà spazio alla storia personale di una giovane autrice, con un taglio di interesse locale.",
   "zbb53b930": "Vijesti riporta la scelta di un ex dirigente pubblico, riferendone le motivazioni personali.",
-  "z756d9bc9": "Vijesti segue il risultato con tono cronachistico, sottolineando la difficoltà della vittoria.",
   "zd5e76b88": "Vijesti inquadra le proteste come fenomeno comune in più Paesi europei, legato al carovita e alla crisi abitativa.",
   "zc101ddb8": "Bianet English privilegia il dato idrico, misurato attraverso il tasso di riempimento delle dighe.",
   "ze308c5e1": "RTP riporta il risultato con focus sulla qualificazione del Casa Pia.",
@@ -18661,11 +18329,9 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z644bb719": "N1 riporta l'annuncio degli organizzatori studenteschi, con attenzione agli appuntamenti elettorali.",
   "z08fec66e": "N1 dà voce all'opposizione con una dichiarazione critica verso il governo, riportata senza ulteriori commenti.",
   "z9b31998f": "Fox News dà risalto alla critica politica al presidente, con focus sulla sua assenza dalla scena delle proteste.",
-  "z1c27ed44": "Fox News dà spazio alla posizione della premier, con focus sulla condanna delle violenze.",
   "zbceff981": "The Punch riporta il conflitto interno alla Chiesa con taglio di cronaca dalla diocesi.",
   "zd1d286e0": "The Punch segue la vicenda con approccio di cronaca giudiziaria e istituzionale.",
   "zbfd98109": "Daily Nation segue l'annuncio governativo con attenzione alle ricadute sul prezzo del latte e sulla proprietà della società.",
-  "zc8a06459": "Citizen Digital propone un taglio sportivo, incentrato sul momento della squadra ospite.",
   "zfce9b37f": "SCMP segue il caso con taglio di servizio sulle verifiche e sui rischi per la sicurezza.",
   "ze67c4f26": "Il quotidiano indiano segue la vicenda dal punto di vista della politica locale, con attenzione alle posizioni del JD(S).",
   "z7afa06ac": "Il quotidiano indiano inquadra la vicenda come un tema di regolazione digitale e responsabilità delle piattaforme.",
@@ -18674,7 +18340,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z8a3de7eb": "Il quotidiano nepalese dà rilievo a un dato economico-commerciale con ricadute sulle entrate fiscali.",
   "z130e775a": "Il quotidiano filippino privilegia l'aspetto di tutela dei connazionali all'estero.",
   "z8e9591b8": "Il quotidiano di Singapore riporta gli eventi italiani con taglio di cronaca internazionale.",
-  "z85ced58a": "Il quotidiano di Singapore privilegia la cronaca degli scontri, con attenzione alla mobilitazione sui social.",
   "z1e5870c2": "La testata israeliana si concentra sulla questione dell'antisemitismo nelle università e sulla rappresentanza degli studenti ebrei.",
   "z2cad50ba": "La testata israeliana riporta il briefing preelettorale con attenzione alle dichiarazioni del premier.",
   "z7f8a9303": "Il quotidiano israeliano riporta lo scontro verbale tra due esponenti del governo in vista del voto.",
@@ -18695,7 +18360,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z6f34ec1b": "Il Fatto Quotidiano segue il dibattito interno al Pd, con attenzione alle divisioni tra segreteria e riformisti.",
   "z8c99abd5": "Hespress English riporta i dati ufficiali del Consiglio superiore della magistratura marocchina.",
   "z281b70f3": "Cyprus Mail legge il vertice come una tregua temporanea piuttosto che come una soluzione.",
-  "za90ccfd3": "Stuff presenta il sostegno Usa a Netanyahu come una svolta politica attesa da tempo.",
   "z40b546f5": "Euronews Albania riporta la replica russa collocandola nel dibattito interno sulle proteste.",
   "z1da399af": "Euronews Albania dà rilievo alla condanna della violenza da parte di una figura politica nazionale.",
   "z1d9d00cb": "Euronews Albania descrive la fase di scontri intorno alla sede socialista.",
@@ -18722,11 +18386,9 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zd0357c71": "Il giornale dà spazio alle voci dell'opposizione israeliana sul tema del conflitto con i palestinesi.",
   "z01779c20": "Il commento critica le letture di destra e attribuisce i disordini a responsabilità interne alla Francia.",
   "z5ae5a6ea": "Il quotidiano segue il club con toni critici sull'andamento della squadra.",
-  "ze5dca2e9": "Il giornale racconta le violenze concentrandosi sui danni e sulle conseguenze per le persone.",
   "zd64c4a8c": "Il quotidiano conservatore analizza con tono critico la crisi dei socialdemocratici.",
   "z4b2d4f38": "Il quotidiano spagnolo segue gli scontri con una cronaca diretta dal campo.",
   "zfc30f079": "Il giornale distingue la violenza dalle proteste studentesche, che definisce legittime.",
-  "zbf9ac152": "Il giornale privilegia le testimonianze dirette e il racconto emotivo dei fatti.",
   "zd39cc956": "Il quotidiano riporta la vicenda giudiziaria con attenzione ai dettagli processuali.",
   "z0aa37524": "Il giornale mette in evidenza i dati ufficiali dell'istituto meteorologico nazionale.",
   "zd0055257": "Il quotidiano segue lo sport con uno sguardo critico sulla gestione tecnica della squadra.",
@@ -18742,9 +18404,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z75b85967": "Il quotidiano pubblica un'opinione che legge la questione fiscale e sociale attraverso il prestigio locale.",
   "z130547d5": "Il quotidiano sottolinea la rarità della presenza navale statunitense nel Golfo di Botnia.",
   "z69526ada": "La testata riporta le parole del premier con focus sulla linea del governo in materia di migrazione.",
-  "zc6ac2bdd": "La testata privilegia l'allerta meteo e il bilancio delle vittime nella zona di Barcellona.",
   "ze2fe6e9f": "Il quotidiano presenta l'iniziativa come mobilitazione culturale a sostegno della democrazia.",
-  "z195efe10": "La testata inquadra le proteste come episodi legati al disagio sociale e al costo della vita in Italia.",
   "z6aaa5d86": "La testata presenta la misura come provvedimento ufficiale con effetti concreti sui pagamenti.",
   "zd5ae58c8": "La testata descrive le divisioni nell'opposizione argentina dopo il voto sul decreto.",
   "zf5ab8cb4": "La testata segue il caso di scomparsa con attenzione alle ricerche e alle indagini della polizia.",
@@ -18781,7 +18441,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z431cd497": "Taglio di costume e scienza, con attenzione alla storia personale della ricercatrice.",
   "z0629671c": "Taglio politico, basato sulla valutazione espressa da un parlamentare.",
   "zacc9d1ba": "The Hindu racconta la vicenda con un taglio di cronaca locale, concentrandosi sulle misure di sicurezza in vista del voto.",
-  "z327f5d80": "Il Times of India riporta le parole di Trump in chiave di cronaca politica, mettendo in evidenza il messaggio rivolto agli elettori israeliani.",
   "z30147749": "The Indian Express segue la vicenda con un approccio di cronaca, dando voce alle domande dei cittadini sulle procedure.",
   "z532faa7e": "The Indian Express dà rilievo allo studio con un taglio scientifico e divulgativo, pensato per un pubblico generale.",
   "z9d8e3bc8": "Il Taipei Times riporta le parole del presidente con un taglio politico, favorevole alla linea di Taipei.",
@@ -18799,7 +18458,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z7e018b17": "La Francia vive da anni una protesta sociale ricorrente contro il carovita. Nel 2018 l'aumento delle tasse sui carburanti fece nascere il movimento dei gilet gialli. Nel settembre 2025 la mobilitazione «Bloquons tout» e gli scioperi sindacali contro l'austerità di bilancio avevano riportato migliaia di persone in piazza. La nuova ondata di proteste è partita dal mondo della scuola e si è poi allargata a sindacati e gilet gialli.",
   "z592659ee": "Da quando Washington condivide informazioni d'intelligence con Kiev dopo l'invasione russa del febbraio 2022, quei dati sono stati decisivi per anticipare gli attacchi missilistici. Già nel marzo 2025 l'amministrazione Trump li aveva sospesi dopo lo scontro con Zelensky alla Casa Bianca, ripristinandoli dopo i colloqui di Gedda. Negli ultimi giorni il flusso si era nuovamente interrotto, mentre proseguivano gli attacchi reciproci con missili e droni.",
   "zf27882ee": "Le proteste sono partite dalla mobilitazione degli studenti delle superiori. Al centro c'erano i mezzi destinati all'istruzione. Nel fine settimana il movimento si è esteso ad altri settori. Sabato 17 ottobre le manifestazioni hanno toccato diverse grandi città francesi e ci sono stati incidenti. Il presidente Macron ha chiesto unità contro chi semina il caos, mentre gli operatori economici cominciano a contare i danni.",
-  "z0f7e45e3": "Le proteste contro il carovita e il deterioramento dei servizi pubblici si sono estese a tutta la Francia e si sono trasformate in violenze e saccheggi. Le testate parlano di 1.200 arresti e 150 tra poliziotti e gendarmi feriti, mentre altri bilanci indicano circa 1.800 arresti. Il presidente Macron ha annunciato un discorso alla nazione.",
   "z1811d7ff": "La mobilitazione contro l'alto costo della vita è sfociata sabato in una giornata di proteste in tutta la Francia, degenerata in scontri con le forze dell'ordine, attacchi a edifici pubblici e saccheggi di negozi. I fermati sono tra 1.800 e 2.000, di cui 855 a Parigi, cifra record, e circa 600 agenti sono rimasti feriti. A Limoges è stato incendiato il municipio. Il presidente Emmanuel Macron parlerà alla nazione."
  },
  "cronologie": {
@@ -18887,16 +18545,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    [
     "18 ottobre 2026",
     "Gli operatori del turismo temono ricadute sulle prenotazioni di fine anno"
-   ]
-  ],
-  "z0f7e45e3": [
-   [
-    "17 ottobre 2026",
-    "Giornata di mobilitazione nazionale contro il carovita; a Limoges i manifestanti assaltano il municipio e lo incendiano"
-   ],
-   [
-    "18 ottobre 2026",
-    "Proseguono le operazioni di spegnimento; Macron annuncia un discorso alle 20"
    ]
   ],
   "z1811d7ff": [
@@ -20780,14 +20428,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zcd895b99": {
-   "n": "Israele",
-   "p": [
-    "Israel",
-    "United States of America"
-   ],
-   "pt": []
-  },
   "ze6c30359": {
    "n": "Haiti",
    "p": [
@@ -21728,13 +21368,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z1a4b38a4": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z94644cec": {
    "n": "Parigi",
    "p": [
@@ -22291,13 +21924,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z46549380": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z6fc8a544": {
    "n": "Italia",
    "p": [
@@ -22723,13 +22349,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z0f7e45e3": {
-   "n": "Limoges",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zfed13cc2": {
    "n": "Milano",
    "p": [
@@ -22762,13 +22381,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Cuba",
    "p": [
     "Cuba"
-   ],
-   "pt": []
-  },
-  "zdfa11935": {
-   "n": "Guayaquil",
-   "p": [
-    "Ecuador"
    ],
    "pt": []
   },
@@ -22853,13 +22465,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Portogallo",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "z7a298b79": {
-   "n": "Israele",
-   "p": [
-    "Israel"
    ],
    "pt": []
   },
@@ -23091,24 +22696,10 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zc994687a": {
-   "n": "Romania",
-   "p": [
-    "Romania"
-   ],
-   "pt": []
-  },
   "z3e8f87cf": {
    "n": "Romania",
    "p": [
     "Romania"
-   ],
-   "pt": []
-  },
-  "zb61da18b": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -23145,13 +22736,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Podgorica",
    "p": [
     "Montenegro"
-   ],
-   "pt": []
-  },
-  "z756d9bc9": {
-   "n": "Nottingham",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -23337,13 +22921,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z1c27ed44": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zbceff981": {
    "n": "Awka",
    "p": [
@@ -23362,13 +22939,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Kenya",
    "p": [
     "Kenya"
-   ],
-   "pt": []
-  },
-  "zc8a06459": {
-   "n": "Leeds",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -23425,13 +22995,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Milano",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z85ced58a": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -23572,13 +23135,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Stati Uniti",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "za90ccfd3": {
-   "n": "Israele",
-   "p": [
-    "Israel"
    ],
    "pt": []
   },
@@ -23764,13 +23320,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "ze5dca2e9": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zd64c4a8c": {
    "n": "Germania",
    "p": [
@@ -23787,13 +23336,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   "zfc30f079": {
    "n": "Francia",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "zbf9ac152": {
-   "n": "Parigi",
    "p": [
     "France"
    ],
@@ -23904,24 +23446,10 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zc6ac2bdd": {
-   "n": "Barcellona",
-   "p": [
-    "Spain"
-   ],
-   "pt": []
-  },
   "ze2fe6e9f": {
    "n": "Rio de Janeiro",
    "p": [
     "Brazil"
-   ],
-   "pt": []
-  },
-  "z195efe10": {
-   "n": "Milano",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -24174,13 +23702,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Palnadu, Andhra Pradesh",
    "p": [
     "India"
-   ],
-   "pt": []
-  },
-  "z327f5d80": {
-   "n": "Israele",
-   "p": [
-    "Israel"
    ],
    "pt": []
   },
@@ -24493,7 +24014,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zfa4c6754": 2,
   "zc2be085f": 1,
   "z6f9e81b1": 1,
-  "zcd895b99": 2,
   "ze6c30359": 1,
   "zd9207f35": 1,
   "z813b710e": 1,
@@ -24628,7 +24148,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z3e1c5779": 2,
   "zae74e236": 1,
   "zfc12d444": 2,
-  "z1a4b38a4": 1,
   "z94644cec": 1,
   "za7371cb7": 1,
   "z8224b5a7": 1,
@@ -24708,7 +24227,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z064c7198": 1,
   "zd7c9aa81": 1,
   "zf5bd2ca8": 1,
-  "z46549380": 2,
   "z6fc8a544": 1,
   "z0d75c0f2": 1,
   "z0a16d00a": 1,
@@ -24771,13 +24289,11 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zc059c5d6": 1,
   "z1ed2fb4d": 1,
   "z6d13dff0": 1,
-  "z0f7e45e3": 2,
   "zfed13cc2": 1,
   "z9a082db7": 1,
   "z53b62061": 1,
   "z33b57d11": 1,
   "zc23eb716": 1,
-  "zdfa11935": 1,
   "z06608176": 2,
   "z0730d2b3": 1,
   "zc467977b": 1,
@@ -24790,7 +24306,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z331a85d2": 1,
   "z6944e338": 1,
   "z06eeae52": 1,
-  "z7a298b79": 2,
   "z6441f4aa": 1,
   "ze89c0165": 1,
   "zc98b8258": 1,
@@ -24823,15 +24338,12 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zb5a5064d": 1,
   "ze922c440": 1,
   "zbc5c509d": 1,
-  "zc994687a": 1,
   "z3e8f87cf": 1,
-  "zb61da18b": 1,
   "z41a807d0": 1,
   "ze9eaab97": 1,
   "z5bfc6653": 1,
   "z2df50864": 1,
   "zbb53b930": 1,
-  "z756d9bc9": 1,
   "zd5e76b88": 1,
   "zc101ddb8": 1,
   "ze308c5e1": 1,
@@ -24858,11 +24370,9 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z644bb719": 1,
   "z08fec66e": 1,
   "z9b31998f": 1,
-  "z1c27ed44": 1,
   "zbceff981": 1,
   "zd1d286e0": 1,
   "zbfd98109": 1,
-  "zc8a06459": 1,
   "zfce9b37f": 1,
   "ze67c4f26": 1,
   "z7afa06ac": 1,
@@ -24871,7 +24381,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z8a3de7eb": 1,
   "z130e775a": 1,
   "z8e9591b8": 1,
-  "z85ced58a": 1,
   "z1e5870c2": 1,
   "z2cad50ba": 1,
   "z7f8a9303": 1,
@@ -24892,7 +24401,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z6f34ec1b": 1,
   "z8c99abd5": 1,
   "z281b70f3": 1,
-  "za90ccfd3": 2,
   "z40b546f5": 1,
   "z1da399af": 1,
   "z1d9d00cb": 1,
@@ -24919,11 +24427,9 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zd0357c71": 1,
   "z01779c20": 1,
   "z5ae5a6ea": 1,
-  "ze5dca2e9": 1,
   "zd64c4a8c": 1,
   "z4b2d4f38": 1,
   "zfc30f079": 1,
-  "zbf9ac152": 1,
   "zd39cc956": 1,
   "z0aa37524": 1,
   "zd0055257": 1,
@@ -24939,9 +24445,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z75b85967": 1,
   "z130547d5": 1,
   "z69526ada": 1,
-  "zc6ac2bdd": 1,
   "ze2fe6e9f": 1,
-  "z195efe10": 1,
   "z6aaa5d86": 1,
   "zd5ae58c8": 1,
   "zf5ab8cb4": 1,
@@ -24978,7 +24482,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z431cd497": 1,
   "z0629671c": 1,
   "zacc9d1ba": 1,
-  "z327f5d80": 1,
   "z30147749": 1,
   "z532faa7e": 1,
   "z9d8e3bc8": 1,
