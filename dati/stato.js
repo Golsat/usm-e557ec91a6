@@ -1,1 +1,1 @@
-window.STATO = {"giorno": "2026-10-18", "uscita": "17", "nome": "Aggiornamento delle 17", "fase": "in_corso", "dettaglio": "ondata 5 di 5", "notizie": 1262, "agg": "2026-10-18T17:01:16+02:00", "prossima": "alle 20:00"};
+window.STATO = {"giorno": "2026-10-18", "uscita": "17", "nome": "Aggiornamento delle 17", "fase": "in_corso", "dettaglio": "ondata 1 di 6", "notizie": 950, "agg": "2026-10-18T17:04:00+02:00", "prossima": "alle 20:00"};
