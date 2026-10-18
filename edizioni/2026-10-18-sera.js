@@ -3,6 +3,915 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z81c95b3d",
+   "sez": "mondo",
+   "titolo": "Hasan Piker, il socialista che divide i Democratici",
+   "orig": "Hasan Piker – socialisten som splittrar Demokraterna",
+   "lead": "Hasan Piker, streamer di Twitch di 35 anni, è celebrato come guida politica da una parte della sinistra americana, mentre gli avversari lo definiscono un estremista maschilista. Secondo quanto riportato, il suo peso potrebbe influire sulle elezioni di metà mandato, ma il suo profilo polarizza anche il Partito Democratico, diviso sul suo ruolo e sulla sua immagine pubblica. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/hasan-piker-socialisten-som-splittrar-demokraterna/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T11:44+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zc707f273",
+   "sez": "mondo",
+   "titolo": "In attesa di diventare padre quando il ponte è crollato: «Parenti preparati con una barca»",
+   "orig": "På väg att bli pappa – när bron havererade: ”Släkt var förberedda med båt”",
+   "lead": "A Strömsund, in Svezia, un ponte si è spezzato a metà. Nella località cresce la frustrazione e gli abitanti adattano la vita quotidiana a una situazione nuova. Tra loro Felix Ottosson, in procinto di diventare padre quando il ponte ha ceduto: la coppia ha subito organizzato un piano d'emergenza, con parenti dall'altra parte del lago già attrezzati con una barca. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/pa-vag-att-bli-pappa-nar-bron-havererade-slakt-var-forberedda-med-bat/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T10:39+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z58edfd51",
+   "sez": "mondo",
+   "titolo": "Elettricità carissima in arrivo: fissare il prezzo nel contratto potrebbe costare ancora di più",
+   "orig": "Svindyr el väntas – binda kan bli ännu dyrare",
+   "lead": "Nel Sud della Svezia il prezzo dell'elettricità è già al livello più alto dell'anno e, secondo le previsioni, potrebbe salire ancora. Chi vuole bloccare il prezzo in un contratto vincolante troverebbe però condizioni molto più care. Finora è stato conveniente farlo solo in pochissime occasioni. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/svindyr-el-vantas-binda-kan-bli-annu-dyrare/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T10:09+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z49254c95",
+   "sez": "mondo",
+   "titolo": "Trump: non rispondevano alle mie telefonate, ora mi stanno addosso",
+   "orig": "Trump: nie odbierali ode mnie telefonów, teraz włażą mi w tyłek",
+   "lead": "Durante un comizio in Kentucky, Donald Trump ha parlato del potere che esercita nel secondo mandato alla Casa Bianca, vantandosi di riuscire a compiere cose incredibili. Ha poi commentato con espressioni molto dure i suoi rapporti con Google. Il presidente americano ha usato toni diretti per descrivere le relazioni con l'azienda tecnologica. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/ze-swiata/trump-nie-odbierali-ode-mnie-telefonow-teraz-wlaza-mi-w-tylek-st9292882?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T09:38+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z1aaa9a26",
+   "sez": "mondo",
+   "titolo": "Dice che i medici l'hanno rimandata a casa; ore dopo ha partorito in casa. L'ospedale racconta altro",
+   "orig": "Twierdzi, że lekarze ją odesłali. Po kilku godzinach w domu urodziła syna. Szpital podaje inną wersję",
+   "lead": "Una donna, Wiktoria, ha partorito un figlio nel bagno di casa dopo essere stata, a suo dire, rimandata a casa dai medici. Aveva raggiunto l'ospedale con dolori addominali alcune ore prima. La struttura sostiene invece che, dopo gli esami, la paziente abbia lasciato di sua volontà il reparto di ginecologia e ostetricia. Il caso è stato segnalato al Rzecznik Praw Pacjenta. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-domowy-porod-i-awantura-w-szpitalu-w-miedzylesiu-placowka-i-pacjentka-podaja-odmienne-wersje-zdarzen-st9292839?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T09:06+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z4c28089e",
+   "sez": "mondo",
+   "titolo": "Cambio d'ora: pubblicato il nuovo calendario",
+   "orig": "Zmiana czasu. Podano nowy harmonogram",
+   "lead": "Presto si tornerà all'ora solare, con un'ora di sonno in più. Intanto l'Unione Europea discute da anni di abolire il cambio d'ora, senza risultati concreti. È stato ora pubblicato un nuovo calendario con le date dei passaggi fino al 2031. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/ze-swiata/zmiana-czasu-podano-nowy-harmonogram-st9292853?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T08:48+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zde3fd1cf",
+   "sez": "mondo",
+   "titolo": "Editoriale: Chihuahua, non ostacolare la giustizia",
+   "orig": "Editorial: Chihuahua: no obstruir la justicia",
+   "lead": "L'ex procuratore di Chihuahua César Gustavo Jáuregui Moreno è stato arrestato ieri mattina in un'operazione condotta da agenti del Ministero Pubblico e dalla polizia statale. Le accuse sono di esercizio illegale del servizio pubblico e coalizione di funzionari pubblici, oltre a reati analoghi contestati per un altro incarico. In seguito la Fiscalía General de la República ha reso noto di aver eseguito un mandato di cattura. Lo riferisce La Jornada.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Jornada",
+     "p": "XX",
+     "c": "Città del Messico",
+     "u": "https://www.jornada.com.mx/2026/10/18/opinion/002a1edi?partner=rss",
+     "angolo": "",
+     "atlas": "Mexico",
+     "t": "2026-10-18T08:45+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zd93c3389",
+   "sez": "mondo",
+   "titolo": "Proseguono i tavoli di lavoro",
+   "orig": "Continúan las mesas de trabajo",
+   "lead": "Il Sindacato nazionale dei lavoratori del Seguro Social ha annunciato sui social di aver chiesto al Centro federale di conciliazione e registrazione del lavoro una proroga fino al 15 novembre. L'obiettivo è evitare lo sciopero e proseguire le trattative sulla revisione salariale. Il termine originario per raggiungere un accordo era fissato al 15 ottobre. Lo riferisce La Jornada.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Jornada",
+     "p": "XX",
+     "c": "Città del Messico",
+     "u": "https://www.jornada.com.mx/2026/10/18/politica/005n2pol?partner=rss",
+     "angolo": "",
+     "atlas": "Mexico",
+     "t": "2026-10-18T08:45+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z38e6da69",
+   "sez": "mondo",
+   "titolo": "Lo scioglimento delle Alpi svela sci, statuetta e punte di freccia millenarie",
+   "orig": "Derretimento dos Alpes revela esqui, estatueta e pontas de flecha milenares",
+   "lead": "Le Alpi perdono ghiaccio più rapidamente di quasi ogni altro luogo del pianeta. Con la ritirata di ghiacciai e nevai riemergono oggetti rimasti nascosti per millenni, tra cui sci, una statuetta e punte di freccia di età antichissima. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/derretimento-dos-alpes-revela-esqui-estatueta-e-pontas-de-flecha-milenares.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T06:00-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "za15a10b7",
+   "sez": "mondo",
+   "titolo": "Da poligono di tiro a santuario: l'arcipelago di Alcatrazes (SP) rinasce dieci anni dopo il decreto",
+   "orig": "De local de tiro a santuário, arquipélago de Alcatrazes (SP) renasce dez anos após decreto",
+   "lead": "L'arcipelago di Alcatrazes, sulla costa nord dello stato di San Paolo, dove un tempo la Marina svolgeva esercitazioni di tiro, è diventato un rifugio naturale. Dieci anni dopo il decreto del 2 agosto 2016, che ha trasformato l'area della Marina in riserva per la fauna selvatica, la ripresa ambientale è evidente: si sentono il tamburellare delle fregate maschio e il silenzio della foresta. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/de-local-de-tiro-a-santuario-arquipelago-de-alcatrazes-sp-renasce-dez-anos-apos-decreto.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T05:00-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zc2190732",
+   "sez": "mondo",
+   "titolo": "Estendere il mandato nella PEC sulla fine della rielezione potrebbe essere incostituzionale, dicono gli esperti",
+   "orig": "Ampliar mandato em PEC do fim da reeleição pode ser inconstitucional, dizem especialistas",
+   "lead": "Il senatore Flávio Bolsonaro (PL-RJ), candidato alla Presidenza, sostiene una modifica della Costituzione che elimini la possibilità di rielezione. Secondo lui la misura dovrebbe valere anche per lui se eletto, e il Congresso dovrebbe stabilire se il mandato duri quattro o cinque anni. Alcuni esperti avvertono però che allungare il mandato potrebbe essere incostituzionale. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ampliar-mandato-em-pec-do-fim-da-reeleicao-pode-ser-inconstitucional-dizem-especialistas.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T04:03-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "za6602ec1",
+   "sez": "mondo",
+   "titolo": "L'Iran nomina un nuovo ministro della Difesa dopo otto mesi di guerra",
+   "orig": "Irán nombra a un nuevo ministro de Defensa tras ocho meses de guerra",
+   "lead": "L'Iran ha designato un nuovo responsabile della Difesa dopo la morte del predecessore in attacchi internazionali. Il nominato ha decenni di esperienza nel ministero. Promette di rafforzare le alleanze regionali nonostante le sanzioni dell'ONU. Lo riferisce Clarín.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/iran-nombra-a-un-nuevo-ministro-de-defensa-tras-ocho-meses-de-guerra_0_rsuqjRrtrJ.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T09:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z93f29a4a",
+   "sez": "mondo",
+   "titolo": "Alfredo Edwards, ingegnere idraulico: «Il margine lasciato al fiume Mapocho è stato troppo ristretto, e questo genera rischi»",
+   "orig": "Alfredo Edwards, ingeniero hidráulico: “Fue muy mezquino el ancho que se le dejó al río Mapocho, y eso genera riesgos”",
+   "lead": "L'ingegnere idraulico Alfredo Edwards ripercorre la storia fisica, personale e culturale del fiume Mapocho, che ha plasmato Santiago. Secondo lo specialista, lo spazio lasciato al corso d'acqua è stato troppo ristretto, e questo genera rischi. Edwards analizza il recente aluvión a San Carlos de Apoquindo e riconosce i miglioramenti urbani attorno al fiume, oggi dotato di una dinamica «impressionante». Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/nacional/noticia/alfredo-edwards-ingeniero-hidraulico-fue-muy-mezquino-el-ancho-que-se-le-dejo-al-rio-mapocho-y-eso-genera-riesgos/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T09:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zfa796960",
+   "sez": "mondo",
+   "titolo": "Carlos Peña: «Trasformare la condanna della violenza in un mero gesto nevrotico che si ripete non porta da nessuna parte»",
+   "orig": "Carlos Peña: “Transformar la condena de la violencia en un mero gesto neurótico que se repite una y otra vez no conduce a ninguna parte”",
+   "lead": "A sette anni dall'estallido sociale, il rettore della Universidad Diego Portales Carlos Peña sostiene che il Cile non ha elaborato il trauma dell'ottobre 2019. Secondo lui, condannare la violenza non basta a comprendere quanto accaduto. Peña critica l'illusione rivoluzionaria della sinistra e la lettura dell'«estallido delictual», avvertendo che le disuguaglianze alla base del malessere restano irrisolte. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/carlos-pena-transformar-la-condena-de-la-violencia-en-un-mero-gesto-neurotico-que-se-repite-una-y-otra-vez-no-conduce-a-ninguna-parte/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T09:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zcaec7f76",
+   "sez": "mondo",
+   "titolo": "Sondaggio Descifra sul gabinetto di Kast: Quiroz continua a imporre la sua agenda in un momento complesso per il governo",
+   "orig": "Test Descifra-Gabinete de Kast: Quiroz sigue imponiendo su agenda en complejo momento del gabinete",
+   "lead": "Il settimo sondaggio Descifra, realizzato da Copesa e Artool, fotografa un momento complesso per il gabinetto del presidente cileno José Antonio Kast. Alvarado, Quiroz e Poduje registrano le valutazioni peggiori, mentre Arrau resta al 42%. Il ministro degli Esteri debutta tra i cinque ministri più presenti sui media, ma con numeri negativi. Quiroz, sottolinea la testata, continua a imporre la propria agenda. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/test-descifra-gabinete-de-kast-quiroz-sigue-imponiendo-su-agenda-en-complejo-momento-del-gabinete/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T09:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zb1539cb1",
+   "sez": "mondo",
+   "titolo": "Sebastián Sichel: «O Quiroz cambia e capisce la politica, o bisogna cercare un ministro politico che gli faccia da contrappeso»",
+   "orig": "Sebastián Sichel: “O Quiroz cambia y entiende de política o se tiene que buscar un ministro político que le haga contrapeso”",
+   "lead": "L'alcalde di Ñuñoa ed ex candidato presidenziale della centrodestra, Sebastián Sichel, critica l'ascendente del ministro delle Finanze Quiroz sulla rotta del governo di José Antonio Kast. Secondo Sichel, o Quiroz cambia e comprende la politica, oppure servirà un ministro politico che gli faccia da contrappeso. Per l'ex candidato, la mancanza di empatia del ministro è tra le cause della scarsa adesione che colpisce l'esecutivo. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/sebastian-sichel-o-quiroz-cambia-y-entiende-de-politica-o-se-tiene-que-buscar-un-ministro-politico-que-le-haga-contrapeso/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T09:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z504e6e17",
+   "sez": "mondo",
+   "titolo": "Cécile Michaud: «La vita peruviana di Paul Gauguin era quella di un principino»",
+   "orig": "Cécile Michaud: “La vida peruana de Paul Gauguin era la de un principito”",
+   "lead": "In un'intervista, Cécile Michaud presenta la ricerca «I mondi peruviani di Paul Gauguin», pubblicata dall'Università Cattolica del Perù, che illumina gli anni dell'infanzia del pittore postimpressionista. Secondo la studiosa, la vita peruviana del pittore era quella di un principino. Michaud sottolinea la profonda impronta lasciata dalla casa di Pío Tristán, nel centro di Lima. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/eldominical/entrevista/cecile-michaud-la-vida-peruana-de-paul-gauguin-era-la-de-un-principito-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-18T09:05+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z2915e8d0",
+   "sez": "mondo",
+   "titolo": "Solo un nucleo su sei è riuscito a risparmiare: la realtà per quartiere e dove si concentra il 24% che non arriva a fine mese",
+   "orig": "Solo uno de cada seis hogares pudo ahorrar: mirá la realidad por barrios y dónde se concentra el 24% de que no llega siquiera a fin de mes",
+   "lead": "Solo un nucleo familiare su sei in Uruguay è riuscito a risparmiare, mentre il 24% non arriva nemmeno a fine mese. Lo mostra un'analisi per quartieri, che evidenzia dove si concentra questa difficoltà. Le famiglie guidate da donne o con minori a carico hanno più problemi di finanziamento, e in quasi due su dieci di questi nuclei si accumulano bollette non pagate. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/solo-uno-cada-seis-hogares-pudo-ahorrar-mira-el-mapa-barrios-y-donde-se-concentra-el-24-que-no-llega-siquiera-fin-mes-n6060611",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-18T05:00-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "za5b80139",
+   "sez": "mondo",
+   "titolo": "Un giudice avverte del rischio di intimidazione dei testimoni nel caso del contratto da 2,3 milioni di Asosejud per un concerto di Snoop Dogg",
+   "orig": "Juez advierte riesgo de amedrentamiento de testigos sobre millonaria inversión de Asosejud en concierto de Snoop Dogg",
+   "lead": "Un giudice ha avvertito del rischio di intimidazione dei testimoni nel caso legato al contratto da 2,3 milioni (in $) stipulato dall'associazione Asosejud per un concerto di Snoop Dogg. L'allerta arriva dopo il licenziamento del consulente legale dell'associazione. Il caso ruota attorno a un investimento rilevante e alla gestione del contratto. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/sucesos/juez-advierte-riesgo-de-amedrentamiento-de/R7FKCQGPG5EINMP57FZD2EBSKY/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-18T09:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z9217a7bd",
+   "sez": "mondo",
+   "titolo": "Patricia Vargas, aspirante a presiedere la Corte: «Non possiamo prestarci all'attacco o alla discussione che si è degradata»",
+   "orig": "Patricia Vargas, aspirante a presidir la Corte: ‘No podemos prestarnos para el ataque o la discusión que ha sido degradada’",
+   "lead": "La magistrata della Sala III Patricia Vargas, aspirante a presiedere la Corte Suprema, difende il dialogo rispettoso tra i poteri dello Stato. Vargas afferma che non possiamo prestarci all'attacco o a una discussione degradata. Mette in guardia dai tagli di bilancio e propone cambiamenti nella comunicazione del Potere giudiziario. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/politica/patricia-vargas-aspirante-a-presidir-la-corte-no/UDU6ENCGENCK3P72YFMCTAH7HY/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-18T07:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z224f6925",
+   "sez": "salute",
+   "titolo": "Orologio biologico e maternità: cosa rivela il professor Moreira sui rischi di rinviare una gravidanza",
+   "orig": "Horloge biologique et maternité : Ce que révèle le Pr Moreira sur les risques de repousser une grossesse",
+   "lead": "Con il progressivo spostamento in avanti dell'età della prima maternità, il professor Moreira mette in guardia dai rischi legati al rinvio della gravidanza, collegati al cosiddetto «orologio biologico». Secondo lui, l'informazione sulla salute riproduttiva non dovrebbe più essere un tabù riservato ai trentenni. La questione riguarda la salute di chi sceglie di rimandare la maternità. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sante/horloge-biologique-et-maternite-ce-que-revele-le-pr-moreira-sur-les-risques-de-repousser-une-grossesse_n_999001017.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T09:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z6cda6323",
+   "sez": "mondo",
+   "titolo": "Moyen-Chari: autorità mobilitate contro il verme di Guinea a Massakaba",
+   "orig": "Moyen-Chari : les autorités mobilisées contre le ver de Guinée à Massakaba",
+   "lead": "Sensibilizzazione contro il verme di Guinea: le autorità del Moyen-Chari si sono riunite sabato 17 ottobre 2026 nel cantone di Massakaba, dipartimento del Lac Iro, in Ciad. All'incontro ha partecipato il ministro della Sanità pubblica e della Prevenzione, Abdelmadjid Abderahim Mahamat. L'obiettivo è rafforzare l'impegno delle comunità e accelerare la lotta contro la malattia. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/18/moyen-chari-les-autorites-mobilisees-contre-le-ver-de-guinee-a-massakaba/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-18T07:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z075f8913",
+   "sez": "mondo",
+   "titolo": "Mondiali 2030: Ibrahima Barry Blasco vede il Marocco ospitare la finale",
+   "orig": "Mondial 2030 : Ibrahima Barry Blasco voit le Maroc accueillir la finale",
+   "lead": "Il segretario generale della Federazione guinéenne di calcio, Ibrahima Barry Blasco, ritiene che il Marocco abbia seri vantaggi per ospitare la finale dei Mondiali 2030. Lo ha dichiarato in un'intervista al media marocchino Sport Le360. Il Marocco è coorganizzatore del torneo insieme a Spagna e Portogallo. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/mondial-2030-ibrahima-barry-blasco-voit-le-maroc-accueillir-la-finale/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T10:01+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zf48adace",
+   "sez": "mondo",
+   "titolo": "Guinea: elezioni senatoriali e regionali, due scrutini, una sola cauzione: i motivi",
+   "orig": "Guinée : Sénatoriales et régionales, deux scrutins, une seule caution, les raisons",
+   "lead": "In vista delle elezioni regionali del 29 novembre e senatoriali del 20 dicembre 2026, la Direzione generale delle elezioni (DGE) ha ricevuto il rapporto della commissione finanziaria. La commissione deve proporre l'importo della cauzione e il tetto delle spese di campagna per le senatoriali. Il quesito centrale riguarda le ragioni di questa scelta. Lo riferisce Guinée News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/18/guinee-senatoriales-et-regionales-deux-scrutins-une-seule-caution-les-raisons/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T08:44+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/18/senatoriales-et-regionales-en-guinee-ouverture-du-depot-des-candidatures-des-ce-lundi-dge/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T08:29+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zb5ac44a2",
+   "sez": "mondo",
+   "titolo": "Portogallo: Cristiano Ronaldo investe in uno stabilimento che produrrà 500 milioni di litri d'acqua l'anno",
+   "orig": "Portugal : Cristiano Ronaldo investit dans une usine qui produira 500 millions de litres d'eau par an",
+   "lead": "Cristiano Ronaldo si appresta a entrare nella produzione di acqua in bottiglia in Portogallo, secondo il quotidiano portoghese DNoticias. A Gostei, villaggio del comune di Bragança, nel nord del Paese, è in costruzione uno stabilimento con un investimento vicino a 20 milioni di euro. Lo riferisce La Nouvelle Tribune, che cita Sportune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/portugal-cristiano-ronaldo-investit-dans-une-usine-qui-produira-500-millions-de-litres-deau-par-an/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T08:36+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zfa4ac16a",
+   "sez": "mondo",
+   "titolo": "Africa del Nord – Il presidente egiziano al-Sisi annuncia l'uscita dal potere nel 2030",
+   "orig": "AFRIQUE DU NORD – Le président égyptien Abdel Fattah al-Sissi annonce son départ du pouvoir en 2030",
+   "lead": "Sabato il presidente egiziano Abdel Fattah al-Sisi ha annunciato che non cercherà di prolungare la permanenza al potere oltre il 2030, alla scadenza del mandato attuale. Ha inoltre evocato una revisione costituzionale. Figure dell'opposizione temono però una modifica delle regole che gli permetterebbe di restare alla guida del Paese. Lo riferisce 2424.mg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/afrique-du-nord-le-president-egyptien-abdel-fattah-al-sissi-annonce-son-depart-du-pouvoir-en-2030",
+     "angolo": "",
+     "atlas": "Madagascar"
+    }
+   ],
+   "data": "",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zb731fb0d",
+   "sez": "mondo",
+   "titolo": "Agricoltura – La Tranoben'ny Tantsaha chiede più tecnici agricoli accanto ai produttori",
+   "orig": "AGRICULTURE – La Tranoben’ny Tantsaha réclame davantage de techniciens agricoles au plus près des producteurs pour les accompagner",
+   "lead": "La Tranoben'ny Tantsaha chiede un rafforzamento dell'assistenza tecnica agli agricoltori del Madagascar, con una presenza maggiore di tecnici sul campo e nelle comunità rurali. Angéline Lydia Razafimbololona, presidente della Camera di agricoltura del Madagascar, sottolinea il ruolo della diffusione dei risultati della ricerca. Lo riferisce 2424.mg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/agriculture-la-tranobenny-tantsaha-reclame-davantage-de-techniciens-agricoles-au-plus-pres-des-producteurs-pour-les-accompagner",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-18T10:01+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "ze4434e7e",
+   "sez": "mondo",
+   "titolo": "Tunisia: l'accumulo di frustrazioni e collere",
+   "orig": "Tunisie | L’agrégation des frustrations et des colères",
+   "lead": "Dopo la grande marcia di protesta del 17 gennaio 2026 a Tunisi, il potere non può far finta che nulla sia accaduto. L'analisi esamina l'accumularsi di frustrazioni e collere nel Paese. Lo riferisce Kapitalis.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/18/tunisie-lagregation-des-frustrations-et-des-coleres/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T07:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z136234c0",
+   "sez": "mondo",
+   "titolo": "Si schianta un elicottero da ricognizione vicino allo Yemen: muoiono piloti sauditi",
+   "orig": "تحطم مروحية استطلاع قرب اليمن يودي بحياة طيارين سعوديين",
+   "lead": "Un elicottero da ricognizione si è schiantato vicino allo Yemen, causando la morte di piloti sauditi. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533834/%D8%AA%D8%AD%D8%B7%D9%85-%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%8A%D9%88%D8%AF%D9%8A-%D8%A8%D8%AD%D9%8A%D8%A7%D8%A9-%D8%B7%D9%8A%D8%A7%D8%B1%D9%8A%D9%86-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%8A%D9%86",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T10:41+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z1d234fe2",
+   "sez": "mondo",
+   "titolo": "Maï-Ndombe: dopo oltre un mese di sciopero, il ministro dell'Istruzione scioglie l'intersindacale e ordina la ripresa delle lezioni",
+   "orig": "Maï-Ndombe : après plus d’un mois de grève, le ministre de l’Éducation dissout l’intersyndicale et ordonne la reprise des cours",
+   "lead": "Nella provincia di Maï-Ndombe, nella Repubblica Democratica del Congo, il ministro provinciale dell'Istruzione nazionale ha sciolto l'intersindacale degli insegnanti e ordinato la ripresa dei corsi dopo più di un mese di sciopero. Lo scontro tra il ministro e il sindacato è emerso pubblicamente. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/18/mai-ndombe-apres-plus-dun-mois-de-greve-le-ministre-de-leducation-dissout",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-18T08:55+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z8f3bb24f",
+   "sez": "mondo",
+   "titolo": "Accordo di Washington: i progressi contro le FDLR devono accompagnarsi al ritiro immediato e incondizionato delle truppe rwandesi dalla RDC (USA)",
+   "orig": "Accord de Washington : « les progrès réalisés en matière de neutralisation des FDLR doivent s’accompagner du retrait immédiat et sans condition des troupes et du matériel militaire rwandais de la RDC » (USA)",
+   "lead": "Gli Stati Uniti, mediatori nella crisi tra Repubblica Democratica del Congo e Rwanda e garanti dell'accordo di pace di Washington, chiedono il ritiro immediato e senza condizioni delle truppe e del materiale militare rwandesi dalla RDC. Secondo Washington, i progressi nella neutralizzazione delle FDLR devono accompagnarsi a questo passo. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/18/accord-de-washington-les-progres-realises-en-matiere-de-neutralisation-des-fdlr-doivent",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-18T08:49+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z7cb47d97",
+   "sez": "mondo",
+   "titolo": "Haiti – FLASH: 500 militari dello Sri Lanka in rinforzo alla Forza di repressione delle bande (FRG)",
+   "orig": "Haïti - FLASH : 500 militaires sri-lankais en renfort pour la FRG",
+   "lead": "Lo Sri Lanka ha inviato 498 militari supplementari e della Forza speciale d'intervento per rafforzare la Forza di repressione delle bande (FRG) ad Haiti. Due contingenti hanno lasciato il Paese nell'arco di tre giorni. Lo riferisce Haïti Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48687-haiti-flash-500-militaires-sri-lankais-en-renfort-pour-la-frg.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-18T05:34-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zd5675cf0",
+   "sez": "mondo",
+   "titolo": "Il FMI prevede un aumento del potenziale di crescita sudcoreano per il secondo anno consecutivo",
+   "orig": "1986년 ‘3저 호황’ 40년 만…IMF, 한국 잠재성장률 2년 연속 상승 전망",
+   "lead": "Il Fondo monetario internazionale prevede che il potenziale di crescita della Corea del Sud salga per il secondo anno consecutivo. Il dato richiama il «boom dei tre bassi» del 1986, a quarant'anni di distanza. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/economy/economy_general/1282939.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z57f6504b",
+   "sez": "mondo",
+   "titolo": "Come la SSC ha usato un «archivio di domande» per prevenire le fughe di prove negli ultimi cinque anni",
+   "orig": "How SSC used a ‘question vault’ to prevent paper leaks in past 5 years",
+   "lead": "La Staff Selection Commission (SSC) indiana ha usato un «archivio di domande» per prevenire le fughe di prove negli ultimi cinque anni. Lo riferisce The Indian Express.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Indian Express",
+     "p": "XX",
+     "c": "Nuova Delhi",
+     "u": "https://indianexpress.com/article/explained/ssc-q-vault-system-question-paper-leaks-nta-reforms-neet-10926797/",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T09:39+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zf1033784",
+   "sez": "mondo",
+   "titolo": "Scuole chiuse in tutta l'India il 19 e 20 ottobre per Dussehra",
+   "orig": "Schools across India to remain closed on October 19-20 for Dussehra",
+   "lead": "Le scuole di tutta l'India resteranno chiuse il 19 e 20 ottobre in occasione della festività di Dussehra. Lo riferisce The Indian Express.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Indian Express",
+     "p": "XX",
+     "c": "Nuova Delhi",
+     "u": "https://indianexpress.com/article/education/school-holidays-2026-october-19-20-dussehra-durga-ashtami-10926706/",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T09:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z1e0f0aee",
+   "sez": "economia",
+   "titolo": "I contratti di affitto a Dubai superano per la prima volta il milione, con un valore di 127,4 miliardi di dirham",
+   "orig": "Dubai rental contracts exceed 1 million for first time as value hits Dh127.4b",
+   "lead": "I contratti di locazione a Dubai hanno superato per la prima volta quota un milione, con un valore di 127,4 miliardi di dirham. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/business/property/dubai-rental-contracts-exceed-1-million-for-first-time-as-value-hits-dh1274b-1.500714905",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T13:39+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z8e528e5b",
+   "sez": "economia",
+   "titolo": "Le azioni di Uzbektelecom salgono di oltre dieci volte nel 2026",
+   "orig": "Uzbektelecom shares surge more than tenfold in 2026",
+   "lead": "Le azioni di Uzbektelecom sono cresciute più di dieci volte nel 2026. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235925.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T12:13+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zeb11661a",
+   "sez": "mondo",
+   "titolo": "Fuga di domande: 5.386 candidati superano il test di reclutamento ripetuto",
+   "orig": "Question leak controversy: 5,386 pass repeat recruitment test",
+   "lead": "Dopo la polemica sulla fuga di domande, 5.386 candidati hanno superato il test di reclutamento ripetuto. Lo riferisce Prothom Alo (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/youth/employment/5buufxa8iv",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T07:58+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "z1356c429",
+   "sez": "mondo",
+   "titolo": "Tutelare interessi nazionali e sovranità resta l'impegno principale del Bangladesh, afferma il premier",
+   "orig": "Safeguarding national interests, sovereignty to remain Bangladesh's core commitment: PM",
+   "lead": "Il primo ministro del Bangladesh ha affermato che la tutela degli interessi nazionali e della sovranità resta l'impegno principale del Paese. Lo riferisce Prothom Alo (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/mtqp59gpsp",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T07:46+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "ze99b41c1",
+   "sez": "mondo",
+   "titolo": "La polizia avvia un'indagine sull'uso di armi da fuoco del ministro di Stato Ishraque nella campagna antidroga",
+   "orig": "Police order probe into State Minister Ishraque's use of firearms in anti-drug drive",
+   "lead": "La polizia ha ordinato un'indagine sull'uso di armi da fuoco da parte del ministro di Stato Ishraque nella campagna antidroga. Lo riferisce Prothom Alo (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/fxcs83wchk",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T07:15+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
+   "id": "zcfd45c11",
+   "sez": "mondo",
+   "titolo": "Il 68% dei reati informatici avviene tramite i social media",
+   "orig": "ސައިބަރ ކުށުގެ %68 އަކީ ސޯޝަލް މީޑިއާ މެދުވެރިކޮށް ހިންގާ ކުށްތައް",
+   "lead": "Il 68% dei reati informatici avviene attraverso i social media. Lo riferisce PSM News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PSM News",
+     "p": "XX",
+     "c": "Malé",
+     "u": "https://psmnews.mv/190456",
+     "angolo": "",
+     "atlas": "Maldives",
+     "t": "2026-10-18T12:50+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "12:18",
+   "uscita": "13"
+  },
+  {
    "id": "zc76a024b",
    "sez": "mondo",
    "titolo": "Elezioni israeliane 2026: cosa sapere",
@@ -770,6 +1679,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Iran",
      "t": "2026-10-18T09:42+00:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/mena/egypt-approves-sending-troops-to-saudi-arabia-at-defence-council-level-1.500714917",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T13:41+04:00"
     }
    ],
    "data": "18 ott",
@@ -1144,6 +2062,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-18T11:56+02:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/mairie-de-limoges-incendiee-ce-que-lon-sait-apres-les-accusations-de-jd-vance/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T08:59+00:00"
     }
    ],
    "data": "18 ott",
@@ -1655,7 +2582,48 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z3968ec3e": "Taglio politico in forma di diretta, legato alla precampagna del partito.",
   "z0e613d05": "Taglio di cronaca urbana e abitativa dal Portogallo.",
   "z7edb8066": "Angolazione diplomatica, con attenzione alle divisioni tra i Paesi membri.",
-  "ze4dbdf52": "Taglio d'intervista, centrato sulle opinioni del meteorologo."
+  "ze4dbdf52": "Taglio d'intervista, centrato sulle opinioni del meteorologo.",
+  "z81c95b3d": "Taglio analitico sulla polarizzazione interna al Partito Democratico americano.",
+  "zc707f273": "Racconto dal basso, centrato sulla vita dei residenti dopo il crollo.",
+  "z58edfd51": "Lettura economica focalizzata sui rischi dei contratti a prezzo fisso per i consumatori.",
+  "z49254c95": "Cronaca dei toni del presidente, con attenzione alle dichiarazioni più polemiche.",
+  "z1aaa9a26": "Racconto centrato sulla versione della donna, con la posizione dell'ospedale riportata in parallelo.",
+  "z4c28089e": "Notizia di servizio per i lettori, con focus sul quadro europeo.",
+  "zde3fd1cf": "Angolatura editoriale che chiede di non ostacolare la giustizia.",
+  "zd93c3389": "Notizia sindacale con attenzione al rinvio della scadenza e allo sciopero evitato.",
+  "z38e6da69": "Taglio di divulgazione scientifica sugli effetti dello scioglimento dei ghiacci.",
+  "za15a10b7": "Reportage ambientale sul recupero di un'ex area militare.",
+  "zc2190732": "Approccio giuridico-politico sui limiti costituzionali della proposta.",
+  "za6602ec1": "Cronaca geopolitica sulle conseguenze militari del conflitto.",
+  "z93f29a4a": "L'intervista privilegia la lettura tecnica e storica del fiume, con un accento sui rischi legati alla gestione urbana.",
+  "zfa796960": "Il quotidiano dà spazio a una lettura critica e personale del dibattito sull'estallido, espressa dall'intellettuale.",
+  "zcaec7f76": "La testata privilegia i punteggi dei singoli ministri e il loro peso mediatico nel quadro del governo.",
+  "zb1539cb1": "L'intervista è una critica interna al governo, espressa da una figura della stessa area politica.",
+  "z504e6e17": "Il quotidiano racconta una ricerca culturale attraverso la voce dell'autrice, con un taglio di approfondimento artistico.",
+  "z2915e8d0": "Il quotidiano usa i dati per mostrare le differenze sociali tra quartieri e tipologie di famiglia.",
+  "za5b80139": "Il quotidiano collega la decisione del giudice al licenziamento del consulente legale, mantenendo un taglio giudiziario.",
+  "z9217a7bd": "Il quotidiano riporta la posizione della candidata, mettendo in evidenza il richiamo al rispetto tra poteri.",
+  "z224f6925": "Il sito adotta un taglio informativo di salute pubblica, basato sulle dichiarazioni dell'esperto.",
+  "z6cda6323": "La testata ricostruisce l'iniziativa locale come un passo operativo di sensibilizzazione sanitaria nel Ciad meridionale.",
+  "z075f8913": "La testata riporta la posizione di un dirigente sportivo africano su una candidatura sostenuta dal Marocco.",
+  "zf48adace": "La testata si concentra sugli aspetti tecnici e finanziari del calendario elettorale guineano.",
+  "zb5ac44a2": "La testata presenta l'iniziativa come un investimento imprenditoriale dell'ex calciatore, riportando la fonte portoghese.",
+  "zfa4ac16a": "La testata sottolinea le riserve dell'opposizione sull'annuncio presidenziale.",
+  "zb731fb0d": "La testata dà voce alle richieste del mondo agricolo sull'assistenza tecnica.",
+  "ze4434e7e": "La testata legge la protesta di gennaio come sintomo di un malessere diffuso e non come episodio isolato.",
+  "z136234c0": "La testata riporta l'incidente con una sintesi essenziale, senza ulteriori dettagli sulle cause.",
+  "z1d234fe2": "La testata inquadra il provvedimento come l'epilogo di un braccio di ferro tra autorità e insegnanti.",
+  "z8f3bb24f": "La testata riporta la posizione ufficiale statunitense sulla crisi nella regione dei Grandi Laghi.",
+  "z7cb47d97": "La testata privilegia il dato sui numeri e sui movimenti dei contingenti, senza commenti sulle cause.",
+  "zd5675cf0": "La testata coreana inquadra la previsione del FMI in chiave storica, con il richiamo al boom del 1986.",
+  "z57f6504b": "La testata indiana illustra il meccanismo adottato contro le fughe di prove, senza valutazioni esterne.",
+  "zf1033784": "La testata indiana fornisce un'informazione di servizio rivolta alle famiglie.",
+  "z1e0f0aee": "La testata emiratina valorizza il dato record del mercato immobiliare locale.",
+  "z8e528e5b": "La testata azera riporta il dato di borsa con taglio di cronaca finanziaria.",
+  "zeb11661a": "La testata bengalese in lingua inglese dà risalto ai numeri della prova ripetuta.",
+  "z1356c429": "La testata bengalese riporta le parole del premier senza commento aggiuntivo.",
+  "ze99b41c1": "La testata bengalese riporta l'inchiesta sull'uso di armi da parte di un ministro, senza ulteriori commenti.",
+  "zcfd45c11": "La testata maldiviana riporta il dato statistico senza ulteriori commenti."
  },
  "contesti": {},
  "cronologie": {},
@@ -2146,6 +3114,296 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "Austria"
    ],
    "pt": []
+  },
+  "z81c95b3d": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc707f273": {
+   "n": "Strömsund",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z58edfd51": {
+   "n": "Svezia meridionale",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z49254c95": {
+   "n": "Kentucky, Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1aaa9a26": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z4c28089e": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "zde3fd1cf": {
+   "n": "Chihuahua (Messico)",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "zd93c3389": {
+   "n": "Città del Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "z38e6da69": {
+   "n": "Alpi",
+   "p": [
+    "Switzerland",
+    "Austria",
+    "Italy",
+    "France",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "za15a10b7": {
+   "n": "Alcatrazes (San Paolo, Brasile)",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zc2190732": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "za6602ec1": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z93f29a4a": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zfa796960": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zcaec7f76": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zb1539cb1": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z504e6e17": {
+   "n": "Perù",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z2915e8d0": {
+   "n": "Uruguay",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "za5b80139": {
+   "n": "Costa Rica",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z9217a7bd": {
+   "n": "Costa Rica",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z224f6925": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z6cda6323": {
+   "n": "Massakaba, Ciad",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z075f8913": {
+   "n": "Conakry, Guinea",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zf48adace": {
+   "n": "Conakry, Guinea",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zb5ac44a2": {
+   "n": "Bragança, Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zfa4ac16a": {
+   "n": "Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zb731fb0d": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "ze4434e7e": {
+   "n": "Tunisi, Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z136234c0": {
+   "n": "Yemen",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z1d234fe2": {
+   "n": "Maï-Ndombe, Repubblica Democratica del Congo",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z8f3bb24f": {
+   "n": "Repubblica Democratica del Congo",
+   "p": [
+    "Dem. Rep. Congo",
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "z7cb47d97": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zd5675cf0": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z57f6504b": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zf1033784": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z1e0f0aee": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z8e528e5b": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zeb11661a": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z1356c429": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "ze99b41c1": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zcfd45c11": {
+   "n": "Maldive",
+   "p": [
+    "Maldives"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -2210,7 +3468,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zce88b7c3": 1,
   "zf75c3d71": 1,
   "z75c3034c": 1,
-  "z46fa0487": 1,
+  "z46fa0487": 2,
   "za858ad31": 1,
   "zb7213619": 1,
   "zee8992d5": 1,
@@ -2218,7 +3476,48 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z3968ec3e": 1,
   "z0e613d05": 1,
   "z7edb8066": 1,
-  "ze4dbdf52": 1
+  "ze4dbdf52": 1,
+  "z81c95b3d": 1,
+  "zc707f273": 1,
+  "z58edfd51": 1,
+  "z49254c95": 1,
+  "z1aaa9a26": 1,
+  "z4c28089e": 1,
+  "zde3fd1cf": 1,
+  "zd93c3389": 1,
+  "z38e6da69": 1,
+  "za15a10b7": 1,
+  "zc2190732": 1,
+  "za6602ec1": 1,
+  "z93f29a4a": 1,
+  "zfa796960": 1,
+  "zcaec7f76": 1,
+  "zb1539cb1": 1,
+  "z504e6e17": 1,
+  "z2915e8d0": 1,
+  "za5b80139": 1,
+  "z9217a7bd": 1,
+  "z224f6925": 1,
+  "z6cda6323": 1,
+  "z075f8913": 1,
+  "zf48adace": 2,
+  "zb5ac44a2": 1,
+  "zfa4ac16a": 1,
+  "zb731fb0d": 1,
+  "ze4434e7e": 2,
+  "z136234c0": 2,
+  "z1d234fe2": 1,
+  "z8f3bb24f": 1,
+  "z7cb47d97": 2,
+  "zd5675cf0": 1,
+  "z57f6504b": 1,
+  "zf1033784": 1,
+  "z1e0f0aee": 1,
+  "z8e528e5b": 1,
+  "zeb11661a": 1,
+  "z1356c429": 1,
+  "ze99b41c1": 1,
+  "zcfd45c11": 1
  },
  "video": {},
  "pillole": []
