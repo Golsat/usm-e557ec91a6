@@ -1058,5 +1058,25 @@ window.CONSUMI = [
   "usd": 0.07,
   "notizie": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-18T12:03:30",
+  "fase": "scrittura (sera)",
+  "blocchi": null,
+  "in": 4022,
+  "out": 5517,
+  "usd": 0.1425,
+  "notizie": null,
+  "sec": 49
+ },
+ {
+  "t": "2026-10-18T12:04:23",
+  "fase": "traduzione titoli",
+  "blocchi": 6,
+  "in": 35311,
+  "out": 81852,
+  "usd": 0.05,
+  "notizie": null,
+  "sec": null
  }
 ];
