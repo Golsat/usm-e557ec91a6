@@ -3,6 +3,1495 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z98c22b11",
+   "sez": "mondo",
+   "titolo": "Marocco, annunciate sedi e arbitri delle due gare di novembre contro il Niger",
+   "orig": "Morocco announces venues, referees for November AFCON qualifiers against Niger",
+   "lead": "La Federazione marocchina di calcio (FRMF) ha comunicato le sedi e gli arbitri delle due partite di novembre contro il Niger, valide per il terzo e quarto turno di qualificazione alla Coppa d'Africa 2027. La gara casalinga si giocherà il 13 novembre al Mohammed V di Casablanca, alle 20:00, e sarà diretta dal somalo Omar Abdulkadir Artan. Lo riferisce Hespress English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147559-morocco-announces-venues-referees-for-november-afcon-qualifiers-against-niger.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-18T13:13+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zd23f8a93",
+   "sez": "mondo",
+   "titolo": "Erhurman: Guterres ha definito «scoraggiante» la cancellazione del campo di Barcellona",
+   "orig": "Erhurman: Guterres said Barcelona camp cancellation was ‘discouraging’",
+   "lead": "Il leader turcocipriota Tufan Erhurman ha riferito domenica che il segretario generale dell'ONU Antonio Guterres gli ha detto che le iniziative della parte greco-cipriota per far annullare eventi internazionali organizzati dai turcociprioti durante l'estate sono «scoraggianti». Erhurman ha citato anche la cancellazione del campo di Barcellona. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/18/erhurman-guterres-said-barcelona-camp-cancellation-was-discouraging",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-18T14:31+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z0834b92d",
+   "sez": "mondo",
+   "titolo": "Parigi, 1.800 arresti dopo scontri e saccheggi durante una protesta",
+   "orig": "Paris police report 1800 arrests after violent clashes and looting during protests",
+   "lead": "Secondo quanto comunicato domenica dalla polizia, nella regione parigina sono state arrestate 1.800 persone dopo che gruppi violenti hanno scontrato gli agenti e saccheggiato negozi durante una marcia di protesta. La manifestazione aveva richiamato circa 110.000 persone. Lo riferisce Stuff.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361048040/paris-police-report-855-arrests-after-violent-clashes-and-lo",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T11:49+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zd9f9f599",
+   "sez": "mondo",
+   "titolo": "L'aeroporto di Sarajevo registra il settembre più trafficato di sempre",
+   "orig": "Sarajevo Airport registered its busiest September on record",
+   "lead": "L'aeroporto di Sarajevo ha registrato il settembre più trafficato di sempre, con 231.725 passeggeri, in crescita del 4,4%. Il dato interrompe una serie di tre mesi consecutivi di calo dei passeggeri. Il risultato è arrivato nonostante una diminuzione del 6,4% dei movimenti aerei, un segnale di voli con carichi più pieni. Lo riferisce Sarajevo Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/sarajevo-airport-registered-its-busiest-september-on-record/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T13:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zde25f87f",
+   "sez": "mondo",
+   "titolo": "Dizić vince quattro ori in Slovacchia",
+   "orig": "Dizic wins Four Gold Medals in Slovakia",
+   "lead": "Il Sarajevo Swimming Club ha conquistato 14 medaglie al 31° meeting internazionale di nuoto «Pohár Delfína», disputato a Nové Zámky, in Slovacchia, con circa 300 atleti in gara. La più brillante è stata Esma Dizić, classe 2015, che ha vinto quattro ori nelle quattro gare disputate. Lo riferisce Sarajevo Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/dizic-wins-four-gold-medals-in-slovakia/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T12:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z32227a19",
+   "sez": "mondo",
+   "titolo": "Proteste a Tirana: manifestanti si spostano sul viale Zogu i Parë, vetrine rotte e ambulanza fermata",
+   "orig": "Protestuesit zhvendosen te “Zogu i Parë”, thyejnë xhama të bizneseve, djegin kosha dhe ndalojnë ambulancën (VIDEO)",
+   "lead": "Nella capitale albanese Tirana proseguono i disordini tra manifestanti e polizia. Dopo che le forze dell'ordine hanno disperso i manifestanti dal boulevard «Dëshmorët e Kombit», questi si sono spostati sul boulevard «Zogu i Parë», dove alcuni hanno rotto le vetrine di attività private, bruciato cassonetti e fermato un'ambulanza per controllarne il contenuto. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/protestuesit-zhvendosen-te-zogu-i-pare-thyejne-xhama-te-bizneseve-djegin-kosha-dhe-ndalojne-ambulancen-video/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T14:45+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zb93b511c",
+   "sez": "mondo",
+   "titolo": "Una manifestante sviene davanti al Ministero dell'Interno e viene portata in ospedale",
+   "orig": "Protestuesja humb ndjenjat pranë Ministrisë së Brendshme, transportohet me ambulancë në spital",
+   "lead": "Dopo l'intervento della polizia per allontanare i manifestanti dal boulevard «Dëshmorët e Kombit», secondo le fonti una donna è stata trovata priva di sensi, distesa a terra, vicino al Ministero dell'Interno a Tirana. Sul posto sono arrivati altri manifestanti e un'ambulanza con medici, che l'hanno trasportata in ospedale. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/protestuesja-humb-ndjenjat-prane-ministrise-se-brendshme-transportohet-me-ambulance-ne-spital/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T14:17+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z7d222906",
+   "sez": "mondo",
+   "titolo": "Manifestanti danno fuoco ai cassonetti vicino alla Corte Suprema e lanciano oggetti contro l'edificio",
+   "orig": "Protestuesit u vënë flakën koshave dhe hedhin sende të forta drejt godinës së Gjykatës së Lartë",
+   "lead": "Dopo che la polizia ha disperso i manifestanti dal boulevard «Dëshmorët e Kombit» con gas lacrimogeni e acqua, alcuni di loro hanno dato fuoco ai cassonetti dei rifiuti sulla strada principale vicino alla Corte Suprema. Il traffico è stato bloccato, mentre alcuni stanno lanciando oggetti duri contro l'edificio. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/protestuesit-u-vene-flaken-koshave-dhe-hedhin-sende-te-forta-drejt-godines-se-gjykates-se-larte/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T14:01+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zc4643fcf",
+   "sez": "mondo",
+   "titolo": "Protesta a Tirana, annullata la visita di Edi Rama a Vienna",
+   "orig": "Protestat në Tiranë, anulohet vizita e Edi Ramës në Vjenë",
+   "lead": "La visita ufficiale che il premier albanese Edi Rama avrebbe dovuto svolgere lunedì 19 ottobre a Vienna è stata annullata dalla parte albanese. Lo rende noto il portale austriaco OTS.at, che diffonde comunicati stampa. Secondo la nota, l'incontro con il cancelliere federale Christian Stocker non si terrà. Il provvedimento arriva mentre a Tirana proseguono le proteste. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/protestat-ne-tirane-anulohet-vizita-e-edi-rames-ne-vjene/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T13:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z65c8a584",
+   "sez": "mondo",
+   "titolo": "Polizia disperde i manifestanti vicino al Palazzo del Governo con gas lacrimogeni e idranti",
+   "orig": "Policia shpërndan protestuesit pranë Kryeministrisë me gaz lotsjellës dhe ujë",
+   "lead": "Domenica la polizia ha usato grandi quantità di gas lacrimogeno e acqua per allontanare i manifestanti dalla piazza vicino alla sede del primo ministro a Tirana, in una giornata di proteste nella capitale. Dopo l'intervento, i dimostranti si sono dispersi verso il fiume Lana, il Parco di Taiwan e piazza Skanderbeg. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/policia-shperndan-protestuesit-prane-kryeministrise-me-gaz-lotsjelles-dhe-uje/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T13:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z571ed80d",
+   "sez": "mondo",
+   "titolo": "Turchia, sale a sei il numero delle vittime delle alluvioni",
+   "orig": "Türkiyədə sel nəticəsində ölənlərin sayı altı nəfərə çatıb",
+   "lead": "Il bilancio delle vittime delle piene e degli allagamenti che hanno colpito le città turche di Istanbul e Kocaeli è salito a sei. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/region-xeberleri/turkiyede-sel-neticesinde-olenlerin-sayi-alti-nefere-catib",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T18:24+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zeb639834",
+   "sez": "mondo",
+   "titolo": "Dopo la Francia, anche in Italia le proteste sfociano in disordini: fino a 200 persone fermate",
+   "orig": "Fransadan sonra İtaliyada da etirazlar iğtişaşlara çevrilib, 200-dək insan saxlanılıb",
+   "lead": "In Italia le manifestazioni contro il caro vita, i prezzi dei carburanti e le tasse sono degenerate in disordini. Fino a 200 persone sono state fermate. Il fenomeno segue quanto accaduto in Francia. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/diger-olkeler/fransadan-sonra-italiyada-da-etirazlar-igtisaslara-cevrilib",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T18:17+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z5b85c446",
+   "sez": "mondo",
+   "titolo": "UE: il Giorno del Ripristino dell'Indipendenza porti all'Azerbaigian orgoglio, gioia e prosperità",
+   "orig": "Aİ Nümayəndəliyi: Qoy Müstəqilliyin Bərpası Günü Azərbaycana qürur, sevinc, rifah gətirsin",
+   "lead": "La Delegazione dell'Unione europea ha rivolto gli auguri al popolo azero in occasione del Giorno del Ripristino dell'Indipendenza, auspicando che porti orgoglio, gioia e prosperità. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/xarici-siyaset/ai-numayendeliyi-musteqilliyin-berpasi-gunu-azerbaycana-qurur-sevinc-rifah-getirsin",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T18:16+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z0d39330c",
+   "sez": "mondo",
+   "titolo": "La ginnasta azera Selcan Mahsudova vince l'oro in Coppa del Mondo",
+   "orig": "Azərbaycan gimnastı Selcan Mahsudova Dünya Kubokunda qızıl medal qazanıb",
+   "lead": "L'azera Selcan Mahsudova, della nazionale di ginnastica al trampolino, ha conquistato la medaglia d'oro alla Coppa del Mondo di Cottbus, in Germania. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/ferdi/azerbaycan-gimnasti-selcan-mahsudova-dunya-kubokunda-qizil-medal-qazanib",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T18:00+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z9391f272",
+   "sez": "mondo",
+   "titolo": "Sahibə Qafarova in visita in Kirghizistan",
+   "orig": "Sahibə Qafarova Qırğız Respublikasında səfərdədir",
+   "lead": "La presidente del Milli Majlis Sahibə Qafarova guida una delegazione parlamentare azera in visita nella Repubblica Kirghisa. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/milli-meclis/sahibe-qafarova-qirgiz-respublikasinda-seferdedir",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T17:55+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zb3c04a5a",
+   "sez": "mondo",
+   "titolo": "Corsa campestre, resi noti i vincitori del campionato azero",
+   "orig": "Kros qaçışı üzrə Azərbaycan çempionatının qalibləri bəlli olub",
+   "lead": "Il Ministero della Gioventù e dello Sport, insieme alla Federazione di Atletica dell'Azerbaigian, ha organizzato il campionato autunnale nazionale di corsa campestre. Ne sono stati resi noti i vincitori. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/ferdi/kros-qacisi-uzre-azerbaycan-cempionatinin-qalibleri-belli-olub",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T17:43+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z94011348",
+   "sez": "mondo",
+   "titolo": "Iraq, verso la nomina di Al Halbousi e Al Fayyadh come vicepresidenti",
+   "orig": "Iraq to appoint Al Halbousi and Al Fayyadh as vice presidents",
+   "lead": "Le fazioni politiche irachene della Coalizione dell'Amministrazione statale hanno raggiunto un accordo preliminare per riattivare la carica di vicepresidente della Repubblica, da tempo inattiva. Lo riferisce Iraqi News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraq-coalition-reactivate-vice-presidency-halbousi-fayyadh-2026/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T14:41+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z98a94119",
+   "sez": "mondo",
+   "titolo": "Esplode un deposito di munizioni delle PMF a Baghdad",
+   "orig": "PMF’s ammunition depot explodes in Baghdad",
+   "lead": "Un'esplosione ha colpito un deposito di munizioni in una base delle Forze di mobilitazione popolare (PMF) a Baghdad. Il primo ministro Ali al-Zaidi ha ordinato un'indagine sulle circostanze dell'accaduto. Lo riferisce Iraqi News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/pmfs-ammunition-depot-explodes-in-baghdad/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T12:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zbaf110b7",
+   "sez": "mondo",
+   "titolo": "Lavrov: restiamo partner dei Paesi del Golfo, il piano Trump per Gaza non è diventato realtà",
+   "orig": "لافروف: نتمسك بالشراكة مع دول الخليج وخطة ترمب لغزة لم تتحول لواقع",
+   "lead": "Il ministro degli Esteri russo Sergej Lavrov ha ribadito la necessità di mantenere la partnership con i Paesi del Golfo. Ha inoltre affermato che il piano di Trump per Gaza non si è ancora tradotto in realtà. Lo riferisce Roya News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397953",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-18T17:49+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zd3160a8b",
+   "sez": "mondo",
+   "titolo": "Fayez al-Sayegh: centrale l'investimento nell'istruzione alla posa della prima pietra del centro IQ",
+   "orig": "فايق الصايغ يؤكد مركزية الاستثمار في التعليم خلال وضع حجر الأساس لمركز التميز (IQ) في الجامعة الأردنية",
+   "lead": "All'Università giordana, sotto l'egida del presidente Nadhir Obeidat, è stata posata la prima pietra del Centro di eccellenza IQ. Fayez al-Sayegh ha ribadito che investire nell'istruzione è centrale. Lo riferisce Roya News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397948",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-18T15:52+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z62429538",
+   "sez": "mondo",
+   "titolo": "Il Bahrein presiede la 30ª riunione del GCC su cooperazione postale e telecomunicazioni",
+   "orig": "Bahrain Leads 30th GCC Meeting on Postal and Telecom Cooperation help community",
+   "lead": "Il Bahrein presiede la trentesima riunione dei ministri del GCC dedicata alla cooperazione in ambito postale e delle telecomunicazioni. Al centro del confronto trasformazione digitale, intelligenza artificiale e cooperazione regionale. Lo riferisce Daily Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/bahrain-leads-30th-gcc-meeting-on-postal-and-telecom-cooperation-help-community",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-18T14:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z42bd0a3d",
+   "sez": "mondo",
+   "titolo": "Emesse allerte preventive per frane in diversi distretti",
+   "orig": "Landslide early warnings issued for several districts",
+   "lead": "Sono state emesse allerte preventive per il rischio di frane in diversi distretti. Lo riferisce Ada Derana.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/250148",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z6f90b9d3",
+   "sez": "mondo",
+   "titolo": "855 arresti per le violenze durante le proteste a Parigi, un «record»",
+   "orig": "'Record' 855 people arrested over Paris protest violence",
+   "lead": "Sono 855 le persone arrestate per le violenze scoppiate durante le proteste a Parigi, numero che viene definito un «record». Lo riferisce Ada Derana.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/250147",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "za9959545",
+   "sez": "economia",
+   "titolo": "Airbus prevede che il mercato dei servizi aerei raddoppierà entro il 2045",
+   "orig": "Airbus Sees Aviation Services Market Doubling by 2045",
+   "lead": "Airbus stima che il mercato globale dei servizi di aviazione civile raggiungerà 422 miliardi di dollari entro il 2045. La crescita sarà trainata dall'espansione delle flotte, dall'aumento del traffico passeggeri e dalla digitalizzazione. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/airbus-sees-aviation-services-market-doubling-by-2045/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T19:00+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "za48a9bf0",
+   "sez": "mondo",
+   "titolo": "Uzbekistan, a Samarcanda un ponte da 310 miliardi di som",
+   "orig": "Uzbekistan Builds 310 Billion Soum Bridge in Samarkand",
+   "lead": "L'Uzbekistan sta costruendo a Samarcanda un ponte lungo 780 metri, del valore di 310 miliardi di som. L'opera collegherà il quartiere residenziale di Shirin alla città e al suo aeroporto internazionale. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-builds-310-billion-soum-bridge-in-samarkand/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T18:38+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zb8a5046a",
+   "sez": "salute",
+   "titolo": "Uzbekistan, sequestrati medicinali per 5,2 miliardi di som",
+   "orig": "Uzbekistan Seizes Medicines Worth 5.2 Billion Soums",
+   "lead": "Le autorità di Namangan hanno sequestrato 46.865 unità di 287 tipi di medicinali, stimati in 5,2 miliardi di som, da cinque depositi illegali. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-seizes-medicines-worth-52-billion-soums/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T18:35+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zbac8d506",
+   "sez": "mondo",
+   "titolo": "Shavkat Mirziyoyev visita il complesso di Hazrati Khizr a Samarcanda",
+   "orig": "Shavkat Mirziyoyev Visits Hazrati Khizr Complex in Samarkand",
+   "lead": "Il presidente uzbeko Shavkat Mirziyoyev ha visitato il complesso di Hazrati Khizr a Samarcanda e ha deposto fiori sulla tomba di Islam Karimov. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/shavkat-mirziyoyev-visits-hazrati-khizr-complex-in-samarkand/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T17:31+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zfcad7045",
+   "sez": "mondo",
+   "titolo": "Iraq e Iran ribadiscono l'impegno alla diplomazia nei colloqui di Baghdad",
+   "orig": "Iraq, Iran Reaffirm Commitment to Diplomacy in Baghdad Talks",
+   "lead": "Secondo una dichiarazione pubblicata da Hussein sul suo account ufficiale X, i due ministri hanno esaminato le relazioni tra Baghdad e Teheran. Al centro anche gli ultimi sviluppi politici e di sicurezza nella regione e le prospettive di pace. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946922/iraq-iran-reaffirm-commitment-to-diplomacy-in-baghdad-talks",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T17:10+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zda4514f1",
+   "sez": "mondo",
+   "titolo": "Un'associazione di veterani statunitensi chiede di continuare a sostenere la Regione del Kurdistan",
+   "orig": "U.S. Veterans Advocate Urges Continued Support for Kurdistan Region",
+   "lead": "Il direttore dell'associazione IAVA, Jerritt Lynn, sostiene che il continuo sostegno statunitense alla Regione del Kurdistan e ai Peshmerga serve gli interessi di sicurezza e strategici di Washington. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946907/us-veterans-advocate-urges-continued-support-for-kurdistan-region",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T16:02+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z8e92e657",
+   "sez": "ambiente",
+   "titolo": "Erbil, nuova fase di piantumazione per ampliare la cintura verde",
+   "orig": "New Planting Phase Expands Erbil's Green Belt",
+   "lead": "Il progetto della cintura verde di Erbil entra nella seconda fase: sabato saranno piantati 400.000 alberi e entro fine anno sono attese quasi 800.000 nuove piantine. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946901/new-planting-phase-expands-erbils-green-belt",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T15:43+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "ze532af63",
+   "sez": "mondo",
+   "titolo": "Il KRG avvia a Erbil i colloqui su una politica di protezione dei civili",
+   "orig": "KRG Launches Talks on Civilian Protection Policy in Erbil",
+   "lead": "Il coordinatore per le raccomandazioni internazionali del KRG ha annunciato l'avvio a Erbil del dialogo su una politica per proteggere i civili nei conflitti, in tempo di pace e nelle calamità. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946892/krg-launches-talks-on-civilian-protection-policy-in-erbil",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T14:47+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z4297e406",
+   "sez": "mondo",
+   "titolo": "L'Egitto schiera truppe in Arabia Saudita",
+   "orig": "Egypt Deploys Troops To Saudi Arabia",
+   "lead": "Almeno due aerei egiziani C-130H sono atterrati alla base aerea re Fahd in Arabia Saudita. Si tratta del primo schieramento militare egiziano confermato dall'inizio del conflitto. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946890/egypt-deploys-troops-to-saudi-arabia",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T14:34+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "ze556a15e",
+   "sez": "mondo",
+   "titolo": "Uzbekistan e Cina valutano di aumentare i voli tra le città",
+   "orig": "Uzbekistan and China consider increasing flights between cities",
+   "lead": "Uzbekistan e Cina stanno valutando di incrementare il numero di voli tra le proprie città, in un contesto di crescente cooperazione in turismo, commercio, energia e infrastrutture. Lo riferisce Daryo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/18/uzbekistan-and-china-consider-increasing-flights-between-cities/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T12:46+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zbf77e723",
+   "sez": "mondo",
+   "titolo": "Il Comando regionale dei Vigili del fuoco intensifica le ispezioni antincendio in vista dell'harmattan",
+   "orig": "Western Regional Fire Command intensifies safety inspections ahead of harmattan",
+   "lead": "Il Comando regionale occidentale del Servizio nazionale antincendi del Ghana ha intensificato le ispezioni di sicurezza antincendio in centri commerciali, stazioni radio e altre strutture pubbliche della municipalità di Sekondi-Takoradi. Il giro di controlli anticipa l'arrivo della stagione secca dell'harmattan. Le verifiche riguardano luoghi molto frequentati dal pubblico, dove la sicurezza è un tema centrale. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/western-regional-fire-command-intensifies-safety-inspections-ahead-of-harmattan",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T13:09+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z844b2975",
+   "sez": "mondo",
+   "titolo": "Il ministero degli Esteri pubblica nomi, firme e pagamenti dei 1.964 evacuati dal Sudafrica",
+   "orig": "Foreign Affairs Ministry releases 1,964 South Africa evacuees’ payment records, signatures",
+   "lead": "Il ministero degli Esteri ghanese ha reso pubblici i nomi e le firme dei cittadini evacuati dal Sudafrica, insieme ai registri dei pagamenti effettuati in loro favore. Il documento riguarda le 1.964 persone rimpatriate e include i dettagli delle somme versate. La pubblicazione dell'elenco completo rende accessibili i dati sull'operazione. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/foreign-affairs-ministry-releases-1-964-south-africa-evacuees-payment-records-signatures",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T11:55+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zfede9a61",
+   "sez": "mondo",
+   "titolo": "Il vicepresidente liberiano Jeremiah Koung arriva in Ghana per il Mining in Motion Summit 2026",
+   "orig": "Liberia’s Vice President Jeremiah Koung arrives in Ghana for Mining in Motion Summit 2026",
+   "lead": "Il vicepresidente della Liberia, Jeremiah Koung, è arrivato in Ghana per partecipare al Mining in Motion Summit 2026, il vertice dedicato al futuro delle risorse minerarie del continente. Ad accoglierlo è stato il ministro ghanese delle Terre e delle Risorse naturali, Emmanuel Armah-Kofi Buah. Il summit di tre giorni si terrà ad Accra dal 19 al 21 ottobre, con la partecipazione di leader africani e operatori del settore. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/liberias-vice-president-jeremiah-koung-arrives-in-ghana-for-mining-in-motion-summit-2026/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T14:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z115c2aac",
+   "sez": "mondo",
+   "titolo": "La polizia di Ashaiman demolisce covi di presunti criminali a Fitter-Line",
+   "orig": "Ashaiman police demolish suspected criminal hideouts at Fitter-Line",
+   "lead": "La Polizia distrettuale di Ashaiman ha demolito strutture individuate come presunti covi criminali a Fitter-Line. L'intervento rientra in un'operazione volta a contrastare le attività illecite nella zona. L'azione è stata avviata in vista delle festività natalizie. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/ashaiman-police-demolish-suspected-criminal-hideouts-at-fitter-line/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T14:39+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z33d1d26e",
+   "sez": "mondo",
+   "titolo": "Il governo spende 49,7 milioni di GH¢ per evacuare 1.964 cittadini dal Sudafrica, pubblicati i nomi",
+   "orig": "Gov’t spends GH¢49.7m to evacuate 1,964 citizens from South Africa, names published",
+   "lead": "Il governo ghanese ha speso 49,72 milioni di GH¢ per evacuare 1.964 connazionali dal Sudafrica, in seguito a una nuova ondata di attacchi xenofobi. Lo ha dichiarato il ministro degli Esteri Samuel Okudzeto Ablakwa, che ha anche reso pubblici i nomi degli evacuati. L'operazione ha riguardato cittadini ghanesi rimpatriati dal Paese dell'Africa australe. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/govt-spends-gh49-7m-to-evacuate-1964-citizens-from-south-africa-names-published/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T14:26+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zc78507fe",
+   "sez": "mondo",
+   "titolo": "Il NPP celebra a Goaso un servizio di ringraziamento nazionale dopo le elezioni interne",
+   "orig": "NPP holds national thanksgiving service in Goaso after successful internal elections",
+   "lead": "Il Nuovo Partito Patriottico (NPP) ha tenuto a Goaso, nella Regione dell'Ahafo, un servizio nazionale di ringraziamento presso la chiesa avventista del settimo giorno. L'evento vuole esprimere gratitudine dopo quelle che il partito descrive come elezioni riuscite dei suoi dirigenti e del portabandiera. La cerimonia si è svolta nella chiesa avventista della città. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/npp-holds-national-thanksgiving-service-in-goaso-after-successful-internal-elections/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T13:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z31b30ce6",
+   "sez": "mondo",
+   "titolo": "Il partito Revive South Sudan nomina Meen Mabor Meen presidente ad interim",
+   "orig": "Revive South Sudan Party appoints Meen Mabor Meen as Interim Chairman",
+   "lead": "Il Revive South Sudan Party (RSSP) ha annunciato la nomina di Meen Mabor Meen a presidente ad interim, per guidare il movimento durante la fase di transizione. Lo ha reso noto un comunicato stampa ufficiale datato 17 ottobre. La decisione è stata presa dal Comitato centrale fondatore del partito, in conformità con l'articolo 16(3)(b). Lo riferisce Eye Radio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/revive-south-sudan-party-appoints-meen-mabor-meen-as-interim-chairman/?utm_source=rss&utm_medium=rss&utm_campaign=revive-south-sudan-party-appoints-meen-mabor-meen-as-interim-chairman",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-18T12:02+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z4ecd2d19",
+   "sez": "mondo",
+   "titolo": "La ICPNC incontra i giornalisti in vista della conferenza di Bintumani sull'unità",
+   "orig": "ICPNC Engages Journalists Ahead of Bintumani Unity Conference",
+   "lead": "La Commissione indipendente per la pace e la coesione nazionale (ICPNC) ha incontrato i giornalisti nella propria sede, in vista della Conferenza nazionale sull'unità e la coesione sociale. L'appuntamento è in programma prossimamente. Il testo disponibile non indica ulteriori dettagli sull'incontro. Lo riferisce Sierraloaded.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/icpnc-journalist-bintumani-unity-conference/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-18T12:23+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z0682d50d",
+   "sez": "mondo",
+   "titolo": "Indignazione per gli allenatori «affittati» in Eswatini",
+   "orig": "Outrage over rented coaches in Eswatini",
+   "lead": "In Eswatini alcuni club utilizzerebbero allenatori «affittati», registrati come manager per aggirare i severi requisiti di licenza. Secondo quanto riferito, la denuncia è stata fatta dal segretario della Eswatini Football Coaches Association (EFCA), James Kunene. Il dato è emerso durante l'assemblea generale annuale svoltasi domenica 18 ottobre a Mbabane, poco partecipata. Lo riferisce Times of Eswatini.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46622/sports/outrage-over-rented-coaches-in-eswatini/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-18T14:14+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z2264564c",
+   "sez": "italia",
+   "titolo": "Scontri a Milano, danni in centro dopo la guerriglia urbana",
+   "orig": "Scontri a Milano, i danni in centro dopo la guerriglia urbana. FOTO",
+   "lead": "Le proteste di sabato a Milano hanno provocato pesanti devastazioni nel centro cittadino. Piazza Duomo è stata messa a ferro e fuoco da alcune centinaia di manifestanti violenti, che si sono scontrati con le forze dell'ordine. Tra vetrine distrutte, negozi saccheggiati e arredi dati alle fiamme, il quadro dei danni è emerso il giorno dopo. Lo riferisce Sky TG24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/cronaca/2026/10/18/milano-scontri-guerriglia-danni-devastazioni",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z9fd5427f",
+   "sez": "mondo",
+   "titolo": "La scarsità di elettricità a Cuba provoca una «guerra dei circuiti»",
+   "orig": "La escasez de electricidad en Cuba provoca una “guerra de circuitos”",
+   "lead": "A Cuba la scarsità di energia elettrica ha generato quella che il giornale chiama «guerra dei circuiti». Nel testo si riporta la protesta di chi chiede fino a quando i vantaggi resteranno a pochi, mentre gli altri sono costretti a sopportare. Il fenomeno riflette il disagio quotidiano legato ai frequenti blackout. Lo riferisce 14ymedio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/escasez-electricidad-cuba-provoca-guerra_1_1132109.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-18T14:01+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z56f06f43",
+   "sez": "mondo",
+   "titolo": "Il leader della sinistra radicale francese prende le distanze dai saccheggi nelle manifestazioni violente",
+   "orig": "El instigador de las manifestaciones violentas en Francia se desmarca de los pillajes",
+   "lead": "Jean-Luc Mélenchon, leader della sinistra radicale francese, si smarca dai saccheggi avvenuti durante le manifestazioni violente. Il leader attribuisce alla Polizia la responsabilità della deriva delle proteste. Le mobilitazioni hanno causato danni considerevoli a edifici e negozi. Lo riferisce 14ymedio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/internacional/instigador-manifestaciones-violentas-francia-desmarca_1_1132111.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-18T14:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z3e1c5779",
+   "sez": "mondo",
+   "titolo": "Paz arriva al primo anno con un solo ambasciatore e critiche per le nomine diplomatiche",
+   "orig": "Paz llega a su primer año con un solo embajador y críticas por designaciones diplomáticas",
+   "lead": "Il governo di Paz compie il primo anno con un solo ambasciatore nominato e critiche sulle designazioni diplomatiche. Analisti e legislatori avvertono che il ritardo può incidere sull'assistenza ai boliviani all'estero, sulla difesa degli interessi nazionali e sull'arrivo di investimenti. Il governo attribuisce parte del ritardo ai debiti ereditati. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/cancilleria-sin-rumbo-paz-llega-a-su-primer-ano-con-un-solo-embajador-y-criticas-por-designaciones-diplomaticas",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T08:45-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zae74e236",
+   "sez": "mondo",
+   "titolo": "«Finché non si mettono piede nelle ceneri della propria casa, non si può capire fino in fondo quello che ho vissuto»",
+   "orig": "« Tant que l’on n’a pas mis les pieds dans les cendres de sa maison, on ne peut pas tout à fait comprendre ce que j’ai vécu »",
+   "lead": "Alain, 78 anni, ha visto la propria casa distrutta dall'incendio che l'8 luglio 2025 ha devastato il quartiere dell'Estaque, a Marsiglia. Oggi attende di poter ricostruire l'abitazione. Il racconto ruota attorno al difficile percorso di chi deve ricominciare dopo la perdita della casa. Lo riferisce Le Monde.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/intimites/article/2026/10/18/tant-que-l-on-n-a-pas-mis-les-pieds-dans-les-cendres-de-sa-maison-on-ne-peut-pas-tout-a-fait-comprendre-ce-que-j-ai-vecu_6797071_6190330.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T14:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zfc12d444",
+   "sez": "mondo",
+   "titolo": "In Spagna la sinistra radicale affronta le elezioni in ordine sparso",
+   "orig": "En Espagne, la gauche radicale aborde les élections en ordre dispersé",
+   "lead": "In Spagna le formazioni alla sinistra del Partito socialista operaio spagnolo (PSOE) si presenteranno separatamente nella maggior parte delle circoscrizioni. Il motivo è la mancanza di un accordo tra Frente Amplio e Podemos. La divisione rischia di pesare sul risultato alle urne. Lo riferisce Le Monde.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/18/en-espagne-la-gauche-radicale-aborde-les-elections-en-ordre-disperse_6797079_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T16:30+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zffc4ac31",
+   "sez": "mondo",
+   "titolo": "«Non metterò più un soldo nella macchina»: i parigini esasperati per saccheggi e vandalismi dopo le violenze del 17 ottobre",
+   "orig": "«Je ne mettrai plus un sou dans la machine» : les Parisiens ulcérés face aux pillages et au vandalisme après les violences du 17 octobre",
+   "lead": "Dopo la fiammata di violenze del 17 ottobre, Parigi si risveglia sotto choc: decine di negozi sono stati saccheggiati e vandalizzati nella capitale. Un reportage raccoglie l'indignazione dei residenti, esasperati dai danni. Le scene di saccheggio seguono la giornata di mobilitazione contro il carovita, durante la quale si sono verificati scontri e distruzioni. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/je-ne-mettrai-plus-un-sou-dans-la-machine-les-parisiens-ulceres-face-aux-pillages-et-au-vandalisme-apres-les-violences-du-17-octobre-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T16:44+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z1a4b38a4",
+   "sez": "mondo",
+   "titolo": "DIRETTA: nuove tensioni in place de la République a Parigi durante un raduno improvvisato",
+   "orig": "EN DIRECT - De nouvelles tensions place de la République à Paris, lors d’un rassemblement sauvage",
+   "lead": "Nuove tensioni in place de la République, a Parigi, durante un raduno improvvisato dopo la giornata di mobilitazione del 17 ottobre contro il carovita. La giornata è stata segnata da scene di guerriglia urbana e saccheggi in molte città. Il premier Sébastien Lecornu ha riferito di 1.200 fermi e 150 tra poliziotti e gendarmi feriti. A Limoges un incendio ha distrutto in gran parte il municipio. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/en-direct-au-lendemain-des-violences-du-17-octobre-la-france-se-reveille-sous-le-choc-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T16:41+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z94644cec",
+   "sez": "mondo",
+   "titolo": "Editoriale di Vincent Trémolet de Villers: «La Francia sfigurata»",
+   "orig": "L’éditorial de Vincent Trémolet de Villers : «La France défigurée»",
+   "lead": "Nell'editoriale, Vincent Trémolet de Villers descrive la giornata del 17 ottobre come una giornata nera, in cui sarebbe andato in fumo un intero sistema di valori. Il riferimento è alle violenze, ai saccheggi e agli incendi che hanno colpito diverse città francesi durante la mobilitazione contro il carovita. Il commento lega l'accaduto alla perdita di valori condivisi. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/vox/societe/l-editorial-de-vincent-tremolet-de-villers-la-france-defiguree-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T13:30+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "za7371cb7",
+   "sez": "mondo",
+   "titolo": "«Vi invito a venire ad aiutarci»: il sindaco di Parigi chiede ai cittadini di ripulire le strade dopo i saccheggi del 17 ottobre",
+   "orig": "«J’invite chacun à venir nous aider» : au lendemain des saccages du 17 octobre, le maire de Paris appelle les habitants à nettoyer les rues",
+   "lead": "Il giorno dopo i saccheggi del 17 ottobre, il sindaco di Parigi Emmanuel Grégoire invita i cittadini a dare una mano a ripulire le strade. L'appello è stato lanciato su X, dove il sindaco ha elogiato l'«élan de solidarité» di alcuni parigini accorsi a sostegno delle squadre comunali di pulizia e manutenzione. Il gesto arriva dopo una notte di devastazioni nella capitale. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/conjoncture/j-invite-chacun-a-venir-nous-aider-au-lendemain-des-saccages-du-17-octobre-le-maire-de-paris-appelle-les-habitants-a-nettoyer-les-rues-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T14:42+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z3dd6db6c",
+   "sez": "mondo",
+   "titolo": "«Una bandiera francese è tutto ciò che resterà del municipio»: a Limoges, una domenica tra lacrime, incomprensione e rabbia",
+   "orig": "«Un drapeau français, c’est tout ce qu’il restera de la mairie» : à Limoges, un dimanche entre larmes, incompréhension et colère",
+   "lead": "A Limoges il municipio, edificio simbolo della città, è stato quasi interamente distrutto dalle fiamme durante la giornata di mobilitazione del 17 ottobre contro il carovita. Domenica la popolazione è rimasta sotto choc, tra lacrime e incomprensione, mentre le istituzioni locali si stanno già organizzando. La devastazione si inserisce nei disordini ai margini delle manifestazioni in Francia. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/un-drapeau-francais-cest-tout-ce-quil-restera-de-la-mairie-a-limoges-un-dimanche-entre-larmes-incomprehension-et-colere-20261018_EKSTMPYJRJCL5P5NOO7L63HZVE/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T13:57+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/in-frances-limoges-the-fire-ravaged-town-hall-rekindles-memories-of-notre-dame",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-18T19:50+08:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/la-douleur-et-la-colere-a-limoges-au-pied-de-l-hotel-de-ville-en-ruines-j-en-ai-pleure-comme-si-c-etait-ma-maison-qui-brulait-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T13:22+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z8224b5a7",
+   "sez": "mondo",
+   "titolo": "«La giornata del 17 ottobre rivela impreparazione e dilettantismo totale delle forze dell'ordine»",
+   "orig": "«La journée du 17 octobre traduit une impréparation et un amateurisme total de la part des forces de l’ordre»",
+   "lead": "Il sociologo Sébastian Roché, esperto di ordine pubblico, giudica la giornata del 17 ottobre contro il carovita un fallimento della risposta di polizia. Secondo lui la presenza agenti è stata massicciamente sottodimensionata durante violenze, saccheggi e scontri. Il governo, invece, nega questa realtà. L'intervista arriva al giorno dopo una giornata finita nel caos. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/police-justice/la-journee-du-17-octobre-traduit-une-impreparation-et-un-amateurisme-total-de-la-part-des-forces-de-lordre-20261018_XMWD6MFAJNAJRITE5PGOPO2E7U/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T12:27+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z4b958bae",
+   "sez": "mondo",
+   "titolo": "Cisgiordania: l'UE chiede conseguenze dopo l'attacco al convoglio di diplomatici",
+   "orig": "Westjordanland: EU fordert Konsequenzen nach Angriff auf Diplomatenkonvoi",
+   "lead": "Dopo l'assalto di coloni radicali a un convoglio di diplomatici, l'Unione europea chiede conseguenze. Il premier israeliano Benjamin Netanyahu parla invece di una «campagna di diffamazione» contro i coloni. L'episodio riguarda la Cisgiordania, con un confronto politico acceso tra Bruxelles e Gerusalemme. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/westjordanland-eu-fordert-konsequenzen-nach-angriff-auf-diplomatenkonvoi-a-68da6950-51ae-4718-8999-5f1ce64f0f93#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T16:40+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z03bb46e0",
+   "sez": "mondo",
+   "titolo": "San Pietroburgo: immagini di incendi dopo gli attacchi con droni",
+   "orig": "Sankt Petersburg: Aufnahmen zeigen Brände nach Drohnenangriffen",
+   "lead": "Russia riferisce di oltre cento droni ucraini abbattuti. Su primi video verificati si vedono però esplosioni e incendi a San Pietroburgo, la città natale di Putin. Il quadro dei danni resta da chiarire. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/sankt-petersburg-aufnahmen-zeigen-braende-nach-drohnenangriffen-a-be0c7667-478f-4878-91ea-e6a9a72749b3#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T15:42+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z407f907b",
+   "sez": "mondo",
+   "titolo": "Rete ferroviaria: i progetti di ampliamento della Deutsche Bahn potrebbero richiedere 30 anni",
+   "orig": "Schienennetz: Ausbau-Vorhaben der Bahn könnten 30 Jahre brauchen",
+   "lead": "In Germania i progetti di ampliamento della rete ferroviaria della Deutsche Bahn potrebbero richiedere fino a trent'anni. Secondo la stima, a beneficiarne sarà probabilmente la prossima generazione, o addirittura quella successiva. Ci sono comunque alcuni segnali positivi. Lo riferisce la Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/wirtschaft/schienennetz-deutsche-bahn-ausbau-verkehrspolitik-infrastruktur-li.3564245",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T12:28+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z400025d1",
+   "sez": "mondo",
+   "titolo": "VfB Stoccarda: diventare una squadra di vertice è difficile, restarci lo è ancora di più",
+   "orig": "VfB Stuttgart: Eine Spitzenmannschaft zu werden, ist schwer. Eine zu bleiben, noch schwerer",
+   "lead": "Il VfB Stoccarda vive un avvio di stagione difficile, che il giornale definisce forse un semplice passo falso o l'inizio di una piccola crisi. Il club dimostra che il buon lavoro del passato non protegge dalle ricadute nel presente. Il commento riflette sulla fragilità della squadra. Lo riferisce la Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/sport/vfb-stuttgart-hamburger-sv-fehlstart-bundesliga-kommentar-li.3565285",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T12:17+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z9a733a27",
+   "sez": "mondo",
+   "titolo": "Russia e Giappone: in manette direttamente verso Mosca",
+   "orig": "Russland und Japan: In Handschellen direkt nach Moskau",
+   "lead": "La Russia ha arrestato su un'isola un giornalista giapponese con l'accusa di spionaggio, poi trasferito direttamente a Mosca. Il quotidiano si chiede se il Cremlino voglia usare il caso come strumento di pressione nei confronti di Tokyo. La vicenda riguarda i rapporti tra i due Paesi. Lo riferisce la Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/japan-journalist-spionage-russland-festnahme-li.3564564",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T12:05+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z96815a16",
+   "sez": "mondo",
+   "titolo": "Berlino: l'immagine del nemico dell'alleanza rosso-verde-rosso pesa soltanto",
+   "orig": "Berlin: Das Feindbild von Rot-Grün-Rot belastet nur",
+   "lead": "A Berlino l'Unione critica con toni duri i piani di alleanza rosso-verde-rosso. Secondo il giornale, questa retorica rischia di ritorcersi contro la stessa Unione. Il commento riguarda la polemica politica in vista della coalizione nella capitale. Lo riferisce la Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/meinung/berlin-sondierung-spd-linke-gruene-cdu-li.3565290",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T12:03+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "ze5390ad7",
+   "sez": "mondo",
+   "titolo": "Violenza in Francia: Parigi, una polveriera",
+   "orig": "Gewalt in Frankreich: Pulverfass Paris",
+   "lead": "Il giornale commenta le violenze esplose a Parigi, definendo la città una polveriera. Secondo l'analisi, il ritardo pluriennale nelle riforme in Francia ha prodotto effetti devastanti. Nulla di questo giustifica la violenza, scrive il quotidiano, ma tutto ciò è motivo di grande preoccupazione. Lo riferisce la FAZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/pulverfass-frankreich-warum-reformen-in-paris-so-lange-verschleppt-wurden-201597964.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T12:23+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zb87a4817",
+   "sez": "mondo",
+   "titolo": "Attacco dei coloni: «Venite subito», era la richiesta d'aiuto rimasta senza seguito",
+   "orig": "Attacke von Siedlern: „Kommt schnell“, lautete der folgenlose Hilferuf",
+   "lead": "Giornalisti e diplomatici sono stati aggrediti da coloni israeliani, e la richiesta d'aiuto «Kommt schnell» è rimasta senza conseguenze. L'esercito cerca di scaricare la responsabilità, mentre il premier Netanyahu mette in dubbio la ricostruzione dei fatti. Il caso riguarda la Cisgiordania. Lo riferisce la FAZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ausland/netanjahu-stellt-siedlerattacken-auf-diplomaten-und-journalisten-infrage-accg-201598165.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T14:06+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z5cc882af",
+   "sez": "mondo",
+   "titolo": "Il PP denuncia una «manovra deliberata» del ministero degli Esteri per bloccare la sospensione della «legge sui nipoti»",
+   "orig": "El PP denuncia una \"maniobra deliberada\" de Exteriores para impedir \"por la vía de los hechos\" la suspensión de la 'ley de nietos'",
+   "lead": "Il Partito Popolare denuncia una «manovra deliberata» del ministero degli Esteri per impedire, di fatto, la sospensione della «legge sui nipoti». Il PP sospetta che il governo voglia rendere impossibile l'applicazione della sospensione del voto per 163.000 naturalizzati. La questione riguarda chi ha ottenuto la nazionalità in base alla norma. Lo riferisce El Mundo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/18/6ad4c213fc6c83c1078b4575.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T14:57+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zbce42255",
+   "sez": "mondo",
+   "titolo": "La Generalitat invia un altro Es-Alert per le forti piogge che lasciano fino a 200 litri in diversi punti di Valencia",
+   "orig": "La Generalitat envía otro Es-Alert por las fuertes lluvias que dejan hasta 200 litros en diversos puntos de Valencia",
+   "lead": "La Generalitat valenciana ha inviato un nuovo Es-Alert per le forti piogge che colpiscono Valencia. In diversi punti sono caduti fino a 200 litri d'acqua per metro quadrato. La Safor è la comarca più colpita, con 217 litri a Real de Gandía e 213 a Rafelcofer. Lo riferisce El Mundo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/comunidad-valenciana/2026/10/18/6ad4adf2fc6c8311138b4583.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T13:47+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "zc0acc3a0",
+   "sez": "mondo",
+   "titolo": "A 99 anni, Helga è l'acrobata aerea più anziana del mondo",
+   "orig": "Aos 99 anos, Helga é a mais velha acrobata áerea do mundo",
+   "lead": "La britannica Helga, a 99 anni, è diventata l'acrobata aerea più anziana del mondo, superando un record che durava appena da due mesi. Afferma di non aver avuto paura durante l'esibizione. Il precedente primatista dice che, quando compirà 100 anni, tenterà di superarla. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/impar/noticia/99-anos-helga-velha-acrobata-aerea-mundo-2191768",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T13:19+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z911d5560",
+   "sez": "mondo",
+   "titolo": "Il leader di Pro, Jesse Klaver, vuole negoziare la settimana prossima con il premier Jetten sul piano fiscale e chiede tasse più alte sui patrimoni",
+   "orig": "Pro-leider Klaver wil komende week onderhandelen met premier Jetten over Belastingplan, eist hogere belasting op vermogens",
+   "lead": "Il leader di Pro, Jesse Klaver, vuole avviare la prossima settimana «serie negoziazioni» con il premier Rob Jetten sul piano fiscale. Chiede tasse più alte sui patrimoni. I colloqui dovrebbero svolgersi durante la pausa autunnale della Tweede Kamer, la camera bassa del Parlamento. Lo riferisce NRC.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/18/pro-leider-klaver-wil-komende-week-onderhandelen-met-premier-jetten-over-belastingplan-eist-hogere-belasting-op-vermogens-a4939203",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-18T15:59+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
+   "id": "z33f2c19a",
+   "sez": "mondo",
+   "titolo": "A Parigi tornano termini come «guerra civile» e «guerriglia urbana»: una manifestazione devastante come mai visto",
+   "orig": "In Parijs klinken termen als ‘burgeroorlog’ en ‘stadsguerrilla’. Zo’n verwoestende demonstratie heeft niemand hier eerder meegemaakt",
+   "lead": "A Parigi si usano termini come «guerra civile» e «guerriglia urbana» dopo una manifestazione devastante. Sabato la polizia non è riuscita a contenere saccheggiatori e rivoluzionari che si sono mescolati ai manifestanti in tutta la Francia. Mancano sei mesi alle presidenziali, e i candidati affilano i coltelli. Lo riferisce NRC.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/18/in-parijs-klinken-termen-als-burgeroorlog-en-stadsguerrilla-zon-verwoestende-demonstratie-heeft-niemand-hier-eerder-meegemaakt-a4939207",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-18T14:30+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:13",
+   "uscita": "17"
+  },
+  {
    "id": "ze111c90d",
    "sez": "mondo",
    "titolo": "La «Dust Bowl» ha piegato l'America per decenni",
@@ -1143,28 +2632,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Thailand",
      "t": "2026-10-18T18:49+07:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "z73468b50",
-   "sez": "mondo",
-   "titolo": "A Limoges il municipio in fiamme riaccende il ricordo di Notre-Dame",
-   "orig": "In France’s Limoges, the fire-ravaged town hall rekindles memories of Notre Dame",
-   "lead": "A Limoges, in Francia, il municipio ottocentesco in stile neorinascimentale è stato incendiato da un gruppo di persone mascherate. Il rogo ha riportato alla mente l'incendio che nel 2019 devastò la cattedrale di Notre-Dame a Parigi. L'edificio, ornato e simbolo della città, è ora al centro dell'attenzione per i danni subiti. Lo riferisce The Straits Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/in-frances-limoges-the-fire-ravaged-town-hall-rekindles-memories-of-notre-dame",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-18T19:50+08:00"
     }
    ],
    "data": "18 ott",
@@ -2653,6 +4120,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Sierra Leone",
      "t": "2026-10-18T14:30+00:00"
+    },
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/ecsl-pprc-sierra-global-electoral-manila/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-18T11:58+00:00"
     }
    ],
    "data": "18 ott",
@@ -6931,6 +8407,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-18T11:09+00:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/mundo/noticia/leao-xiv-promete-regresso-gradual-funcoes-evento-apos-cirurgia-2191765",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T11:50+00:00"
     }
    ],
    "data": "18 ott",
@@ -9046,7 +10531,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z8a647178": "Il quotidiano filippino dà spazio alla festa del MassKara, con taglio di costume e cronaca locale.",
   "zbea5946b": "Il quotidiano filippino racconta la partita dal punto di vista del coach, concentrandosi sull'espulsione.",
   "z7d64e3a2": "Il Bangkok Post si concentra sui disagi pratici dei cittadini colpiti dalle inondazioni nelle procedure di risarcimento.",
-  "z73468b50": "Il quotidiano di Singapore collega il rogo al simbolico ricordo di Notre-Dame, senza approfondire le cause.",
   "z01f3b478": "Il quotidiano di Singapore inquadra le proteste albanesi come minaccia all'adesione UE, più che alla tenuta del governo.",
   "zd41253f9": "Il Times of Israel sottolinea la mancanza di arresti e la pressione internazionale sul governo israeliano.",
   "z9782b25a": "Il Times of Israel descrive il blocco come episodio di tensione tra manifestanti e automobilisti, senza feriti.",
@@ -9060,7 +10544,74 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z82e040f6": "Il Messaggero spiega in chiave pratica cosa cambia per chi chiede e usa i benefici della Legge 104.",
   "z3253604b": "La Repubblica – Esteri legge la cena come termometro dei rapporti Roma-Washington e del voto di novembre.",
   "z05a4c711": "Sky TG24 dà voce alla mobilitazione civica dopo l'aggressione, con attenzione alla sicurezza dei minori.",
-  "zf9090367": "Sky TG24 raccoglie la testimonianza diretta, mettendo in primo piano l'età dei responsabili."
+  "zf9090367": "Sky TG24 raccoglie la testimonianza diretta, mettendo in primo piano l'età dei responsabili.",
+  "z98c22b11": "Hespress riporta l'annuncio della federazione marocchina con dettagli su date, stadio e arbitri.",
+  "zd23f8a93": "Cyprus Mail riporta le dichiarazioni del leader turcocipriota senza verifiche indipendenti.",
+  "z0834b92d": "Stuff riporta il bilancio ufficiale della polizia, senza ulteriori dettagli sulle cause della protesta.",
+  "zd9f9f599": "Sarajevo Times valorizza il dato come ripresa dopo tre mesi di calo.",
+  "zde25f87f": "Sarajevo Times dà risalto ai risultati del club sarajevese nel meeting slovacco.",
+  "z32227a19": "Euronews Albania segue gli episodi di piazza con cronaca dettagliata e immagini video.",
+  "zb93b511c": "Euronews Albania privilegia il racconto dal campo degli episodi di piazza.",
+  "z7d222906": "Euronews Albania descrive in modo diretto la sequenza degli episodi, dalla dispersione agli scontri.",
+  "zc4643fcf": "Euronews Albania riprende un comunicato austriaco e lo collega alle proteste in corso in patria.",
+  "z65c8a584": "Euronews Albania dà conto dell'intervento di polizia e della dispersione dei manifestanti in più zone del centro.",
+  "z571ed80d": "Report.az riporta l'emergenza con taglio di cronaca essenziale, concentrato sul bilancio delle vittime.",
+  "zeb639834": "Report.az collega le proteste italiane a quelle francesi, sottolineandone l'escalation.",
+  "z5b85c446": "Report.az riporta il messaggio diplomatico con taglio istituzionale e celebrativo.",
+  "z0d39330c": "Report.az dà risalto al successo sportivo di un'atleta nazionale, con taglio informativo.",
+  "z9391f272": "Report.az segue la missione parlamentare con taglio istituzionale.",
+  "zb3c04a5a": "Report.az copre l'evento sportivo nazionale con taglio di cronaca sintetica.",
+  "z94011348": "Iraqi News riporta la notizia con taglio politico, sulla base di una fonte informata.",
+  "z98a94119": "Iraqi News riporta il fatto con taglio di cronaca, mettendo in rilievo la risposta del governo.",
+  "zbaf110b7": "Roya News riporta le dichiarazioni del ministro russo con taglio diplomatico.",
+  "zd3160a8b": "Roya News riporta l'evento universitario con taglio istituzionale.",
+  "z62429538": "Daily Tribune riporta l'incontro istituzionale con taglio informativo sulla cooperazione regionale.",
+  "z42bd0a3d": "Ada Derana riporta l'allerta con taglio di servizio pubblico.",
+  "z6f90b9d3": "Ada Derana dà rilievo al dato sugli arresti, sottolineandone la portata.",
+  "za9959545": "UzDaily riporta le previsioni del costruttore aeronautico con taglio economico.",
+  "za48a9bf0": "UzDaily riporta il progetto infrastrutturale con taglio informativo locale.",
+  "zb8a5046a": "UzDaily riporta il sequestro con taglio di cronaca amministrativa.",
+  "zbac8d506": "UzDaily riporta la visita presidenziale con taglio protocollare.",
+  "zfcad7045": "Kurdistan24 riporta il colloquio bilaterale basandosi sulla dichiarazione di una delle parti.",
+  "zda4514f1": "Kurdistan24 dà voce a una posizione favorevole al sostegno a Erbil, con taglio d'opinione.",
+  "z8e92e657": "Kurdistan24 riporta il progetto ambientale con taglio informativo.",
+  "ze532af63": "Kurdistan24 riporta l'iniziativa del governo regionale con taglio istituzionale.",
+  "z4297e406": "Kurdistan24 segnala lo schieramento militare con taglio di aggiornamento sul conflitto.",
+  "ze556a15e": "Daryo riporta il tema con taglio economico e di cooperazione bilaterale.",
+  "zbf77e723": "3News segue la cronaca locale ghanese con taglio informativo sulla prevenzione degli incendi.",
+  "z844b2975": "3News riporta la notizia con attenzione ai dati documentali forniti dal governo.",
+  "zfede9a61": "MyJoyOnline privilegia la cronaca diplomatica e istituzionale ghanese con un taglio informativo.",
+  "z115c2aac": "MyJoyOnline racconta l'azione delle forze dell'ordine con un taglio di cronaca locale.",
+  "z33d1d26e": "MyJoyOnline riporta le dichiarazioni ufficiali del ministro con attenzione ai costi dell'operazione.",
+  "zc78507fe": "MyJoyOnline riporta l'evento con una descrizione fedele della versione fornita dal partito.",
+  "z31b30ce6": "Eye Radio riporta il comunicato ufficiale del partito, citandone la base statutaria.",
+  "z4ecd2d19": "Sierraloaded segue le iniziative istituzionali sierraleonesi con un taglio informativo sintetico.",
+  "z0682d50d": "Times of Eswatini dà spazio alle denunce interne del mondo calcistico nazionale.",
+  "z2264564c": "Sky TG24 documenta i danni con un taglio visivo e cronachistico.",
+  "z9fd5427f": "14ymedio, testata dell'esilio cubano con sede a Madrid, racconta la crisi energetica con un taglio critico verso il governo.",
+  "z56f06f43": "14ymedio riporta le posizioni politiche con un taglio critico e di analisi.",
+  "z3e1c5779": "Brújula Digital, testata boliviana, si concentra sulle critiche di analisti e legislatori alla gestione diplomatica.",
+  "zae74e236": "Le Monde dà voce a una testimonianza personale, con un taglio umano legato all'incendio.",
+  "zfc12d444": "Le Monde analizza le dinamiche elettorali spagnole con un taglio politico e di prospettiva.",
+  "zffc4ac31": "Il reportage privilegia il racconto emotivo dei parigini, con un taglio sul disagio urbano più che sul quadro istituzionale.",
+  "z1a4b38a4": "Il live segue in tempo reale gli sviluppi, con un tono da cronaca concitata che riporta i bilanci ufficiali.",
+  "z94644cec": "Il tono è di allarme morale: l'editoriale legge la giornata come simbolo di una frattura più profonda.",
+  "za7371cb7": "L'articolo dà spazio all'iniziativa civica e al messaggio del sindaco, con un taglio positivo sulla reazione della città.",
+  "z3dd6db6c": "Il servizio unisce il racconto dei residenti alla dimensione istituzionale della ripresa, con tono partecipe.",
+  "z8224b5a7": "L'intervista offre la critica di un esperto alla gestione dell'ordine pubblico, contrapposta alla linea del governo.",
+  "z4b958bae": "Il titolo mette in primo piano la richiesta europea, riportando in sintesi la posizione di Netanyahu.",
+  "z03bb46e0": "Il titolo punta sulle immagini verificate, dando rilievo ai video rispetto alla versione ufficiale russa.",
+  "z407f907b": "Il giornale mette in evidenza i tempi lunghi dei cantieri, con un taglio critico ma non privo di spunti positivi.",
+  "z400025d1": "Il commento sportivo adotta un approccio analitico, leggendo la crisi come problema di continuità più che di singoli episodi.",
+  "z9a733a27": "Il titolo punta sull'ipotesi politica dietro l'arresto, lasciando la questione aperta.",
+  "z96815a16": "Commento che critica il linguaggio dell'Unione e ne mette in dubbio l'efficacia politica.",
+  "ze5390ad7": "Commento che lega le violenze alle riforme rinviate, condannando la violenza ma riconoscendo le cause politiche.",
+  "zb87a4817": "Il pezzo evidenzia le responsabilità contestate e le versioni contrapposte delle istituzioni israeliane.",
+  "z5cc882af": "Il quotidiano riporta la denuncia dell'opposizione, mettendo in primo piano la posizione del PP.",
+  "zbce42255": "Cronaca meteo con dati puntuali sulle precipitazioni, attenta alle aree più colpite.",
+  "zc0acc3a0": "Taglio di curiosità leggera, che punta sulla storia personale più che su un fatto di cronaca dura.",
+  "z911d5560": "Il pezzo riporta la richiesta di Klaver sulla fiscalità, con un taglio di cronaca politica.",
+  "z33f2c19a": "Il quotidiano olandese dà conto del clima politico francese con sguardo esterno, enfatizzando la gravità degli scontri."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -11658,13 +13209,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z73468b50": {
-   "n": "Limoges",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z01f3b478": {
    "n": "Tirana",
    "p": [
@@ -11760,6 +13304,474 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Milano",
    "p": [
     "Italy"
+   ],
+   "pt": []
+  },
+  "z98c22b11": {
+   "n": "Casablanca",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "zd23f8a93": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z0834b92d": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zd9f9f599": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "zde25f87f": {
+   "n": "Nové Zámky",
+   "p": [
+    "Slovakia"
+   ],
+   "pt": []
+  },
+  "z32227a19": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "zb93b511c": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z7d222906": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "zc4643fcf": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z65c8a584": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z571ed80d": {
+   "n": "Turchia",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "zeb639834": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5b85c446": {
+   "n": "Azerbaigian",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z0d39330c": {
+   "n": "Cottbus, Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z9391f272": {
+   "n": "Kirghizistan",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "zb3c04a5a": {
+   "n": "Azerbaigian",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z94011348": {
+   "n": "Iraq",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z98a94119": {
+   "n": "Iraq",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zbaf110b7": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zd3160a8b": {
+   "n": "Giordania",
+   "p": [
+    "Jordan"
+   ],
+   "pt": []
+  },
+  "z62429538": {
+   "n": "Bahrein",
+   "p": [
+    "Bahrain"
+   ],
+   "pt": []
+  },
+  "z42bd0a3d": {
+   "n": "Sri Lanka",
+   "p": [
+    "Sri Lanka"
+   ],
+   "pt": []
+  },
+  "z6f90b9d3": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "za9959545": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "za48a9bf0": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zb8a5046a": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zbac8d506": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zfcad7045": {
+   "n": "Iraq",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zda4514f1": {
+   "n": "Kurdistan iracheno",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z8e92e657": {
+   "n": "Erbil, Iraq",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "ze532af63": {
+   "n": "Erbil, Iraq",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z4297e406": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "ze556a15e": {
+   "n": "Uzbekistan e Cina",
+   "p": [
+    "Uzbekistan",
+    "China"
+   ],
+   "pt": []
+  },
+  "zbf77e723": {
+   "n": "Sekondi-Takoradi",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z844b2975": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zfede9a61": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z115c2aac": {
+   "n": "Ashaiman",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z33d1d26e": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zc78507fe": {
+   "n": "Goaso",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z31b30ce6": {
+   "n": "Giuba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z4ecd2d19": {
+   "n": "Freetown",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "z0682d50d": {
+   "n": "Mbabane",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "z2264564c": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9fd5427f": {
+   "n": "Cuba",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "z56f06f43": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3e1c5779": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zae74e236": {
+   "n": "Marsiglia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zfc12d444": {
+   "n": "Spagna",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zffc4ac31": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1a4b38a4": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z94644cec": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "za7371cb7": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3dd6db6c": {
+   "n": "Limoges",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z8224b5a7": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z4b958bae": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z03bb46e0": {
+   "n": "San Pietroburgo",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z407f907b": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z400025d1": {
+   "n": "Stoccarda",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z9a733a27": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z96815a16": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "ze5390ad7": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb87a4817": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z5cc882af": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zbce42255": {
+   "n": "Valencia",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zc0acc3a0": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z911d5560": {
+   "n": "L'Aia",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z33f2c19a": {
+   "n": "Parigi",
+   "p": [
+    "France"
    ],
    "pt": []
   }
@@ -12015,7 +14027,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z331934b2": 1,
   "zc3c86dbb": 1,
   "z253e374b": 1,
-  "zca6bea80": 1,
+  "zca6bea80": 2,
   "z28f0acd8": 1,
   "zcce74442": 1,
   "z7240e23b": 1,
@@ -12094,7 +14106,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z8a647178": 1,
   "zbea5946b": 1,
   "z7d64e3a2": 1,
-  "z73468b50": 1,
   "z01f3b478": 1,
   "zd41253f9": 2,
   "z9782b25a": 1,
@@ -12108,7 +14119,74 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z82e040f6": 1,
   "z3253604b": 1,
   "z05a4c711": 1,
-  "zf9090367": 1
+  "zf9090367": 1,
+  "z98c22b11": 1,
+  "zd23f8a93": 1,
+  "z0834b92d": 1,
+  "zd9f9f599": 1,
+  "zde25f87f": 1,
+  "z32227a19": 1,
+  "zb93b511c": 1,
+  "z7d222906": 1,
+  "zc4643fcf": 1,
+  "z65c8a584": 1,
+  "z571ed80d": 1,
+  "zeb639834": 1,
+  "z5b85c446": 1,
+  "z0d39330c": 1,
+  "z9391f272": 1,
+  "zb3c04a5a": 1,
+  "z94011348": 1,
+  "z98a94119": 1,
+  "zbaf110b7": 1,
+  "zd3160a8b": 1,
+  "z62429538": 1,
+  "z42bd0a3d": 1,
+  "z6f90b9d3": 1,
+  "za9959545": 1,
+  "za48a9bf0": 1,
+  "zb8a5046a": 1,
+  "zbac8d506": 1,
+  "zfcad7045": 1,
+  "zda4514f1": 1,
+  "z8e92e657": 1,
+  "ze532af63": 1,
+  "z4297e406": 1,
+  "ze556a15e": 1,
+  "zbf77e723": 1,
+  "z844b2975": 2,
+  "zfede9a61": 2,
+  "z115c2aac": 1,
+  "z33d1d26e": 1,
+  "zc78507fe": 1,
+  "z31b30ce6": 2,
+  "z4ecd2d19": 1,
+  "z0682d50d": 1,
+  "z2264564c": 1,
+  "z9fd5427f": 2,
+  "z56f06f43": 2,
+  "z3e1c5779": 2,
+  "zae74e236": 1,
+  "zfc12d444": 2,
+  "zffc4ac31": 1,
+  "z1a4b38a4": 1,
+  "z94644cec": 1,
+  "za7371cb7": 1,
+  "z3dd6db6c": 2,
+  "z8224b5a7": 1,
+  "z4b958bae": 1,
+  "z03bb46e0": 1,
+  "z407f907b": 1,
+  "z400025d1": 1,
+  "z9a733a27": 1,
+  "z96815a16": 1,
+  "ze5390ad7": 1,
+  "zb87a4817": 1,
+  "z5cc882af": 1,
+  "zbce42255": 1,
+  "zc0acc3a0": 1,
+  "z911d5560": 1,
+  "z33f2c19a": 1
  },
  "video": {},
  "pillole": []
