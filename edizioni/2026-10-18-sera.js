@@ -3,6 +3,823 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zdf5de5ad",
+   "sez": "mondo",
+   "titolo": "Parigi si risveglia tra vetrine saccheggiate e danni da protesta",
+   "orig": "Parisians wake up to protest damage and looted shops",
+   "lead": "Sabato violenti scontri hanno attraversato la Francia durante nuove manifestazioni contro le condizioni nelle scuole e il caro vita, lasciando Parigi con negozi saccheggiati e danni diffusi. I disordini si sono concentrati nella capitale, dove gruppi di manifestanti hanno affrontato le forze dell'ordine nella notte tra sabato e domenica. Le proteste rientrano in un'ondata di malcontento sociale che negli ultimi giorni ha coinvolto più paesi europei, alimentata dal rincaro del costo della vita e dal deterioramento dei servizi pubblici. Lo riferisce BBC News.",
+   "more": [
+    "La Francia ha conosciuto negli ultimi anni ricorrenti mobilitazioni sociali legate all'inflazione e ai tagli alla spesa pubblica, movimenti che spesso si intrecciano con le tensioni politiche attorno alle scelte di bilancio del governo."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T10:58+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zc400f65c",
+   "sez": "mondo",
+   "titolo": "Le proteste per il caro vita si estendono a Lisbona e Milano",
+   "orig": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+   "lead": "Le tensioni legate al costo della vita e alla crisi abitativa, già esplose in Spagna e Francia nelle ultime settimane, si sono estese anche a Italia e Portogallo. A Lisbona centinaia di persone hanno allestito un accampamento di tende per chiedere misure sul diritto alla casa, mentre a Milano un corteo iniziato pacificamente sabato si è concluso con scontri, incendi e danni provocati da manifestanti incappucciati. La premier italiana Giorgia Meloni ha accusato dei teppisti di aver strumentalizzato la manifestazione nella capitale. Lo riferisce The Guardian.",
+   "more": [
+    "Negli ultimi anni il rincaro degli affitti e dell'energia ha alimentato in diversi paesi europei movimenti di protesta contro il costo della vita, spesso accompagnati da occupazioni abitative e tensioni con le forze dell'ordine durante le manifestazioni di piazza."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T11:02+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zd8c96154",
+   "sez": "mondo",
+   "titolo": "I tour organizzati da Sionismo Religioso tra le rovine della Cisgiordania",
+   "orig": "And on your left, smoldering ruins: What you really see on Religious Zionism's West Bank trails",
+   "lead": "Il partito israeliano Sionismo Religioso, che ha rivendicato una 'rivoluzione degli insediamenti' nei territori occupati, propone ora tour autogestiti nella Cisgiordania. Seguendo uno di questi percorsi, Haaretz ha documentato ingiustizie, caos e danni ambientali legati all'espansione delle colonie. Il reportage mostra come le strutture turistiche promosse dal partito nascondano le conseguenze reali dell'occupazione sul territorio e sulla popolazione palestinese. Lo riferisce Haaretz.",
+   "more": [
+    "Il movimento dei coloni israeliani in Cisgiordania è cresciuto significativamente negli ultimi anni, spesso con il sostegno di settori del governo israeliano, sollevando critiche internazionali per violazioni del diritto internazionale e impatti su comunità palestinesi e risorse naturali."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/life/2026-10-18/ty-article-magazine/.premium/what-you-really-see-on-religious-zionisms-west-bank-trail/000001a1-1b3b-d14e-aff7-5bbf3ae60000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-18T14:07+03:00"
+    },
+    {
+     "n": "The New York Times – Viaggi",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/14/travel/bike-rides-trails.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-14T15:22+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zf4e32e4e",
+   "sez": "sport",
+   "titolo": "Roma batte il Genoa 2-0, bene Castro e primo gol per Lulli",
+   "orig": "Roma-Genoa 2-0, le pagelle: Castro (7,5) gol stupendo, Lulli (7) prima volta in Serie A",
+   "lead": "La Roma di Gasperini ha superato 2-0 il Genoa all'Olimpico, risalendo a due punti dalla vetta della classifica occupata dall'Inter. Nel match, segnato dal ritorno amaro di De Rossi sulla panchina avversaria, si sono distinti Castro, autore di un gol spettacolare, e il giovane Lulli, premiato con il primo gol in Serie A nella sua carriera e accolto dall'abbraccio dei compagni. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/roma_genoa_pagelle_castro_lulli_de_rossi_classifica_serie_a-9831759.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/lulli_chi_e_roma_genoa_primo_gol_serie_a_eta_altezza_carriera_ruolo_vita_privata_stipendio-9831753.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zbf6593c2",
+   "sez": "tech",
+   "titolo": "Anche in Italia crescono le proteste contro i data center",
+   "orig": "Le proteste contro i data center sono arrivate anche in Italia",
+   "lead": "Decine di comitati italiani si sono riuniti per chiedere una moratoria sulla costruzione di nuovi data center, mentre attorno a Milano i progetti per questi impianti continuano ad aumentare. La mobilitazione riflette preoccupazioni crescenti sull'impatto ambientale e sul consumo energetico delle infrastrutture digitali, un fenomeno già diffuso in altri paesi. Lo riferisce Il Post.",
+   "more": [
+    "I data center richiedono grandi quantità di energia e acqua per il funzionamento e il raffreddamento dei server, e la loro proliferazione, spinta dalla crescita del cloud computing e dell'intelligenza artificiale, ha generato proteste locali in diverse parti del mondo per i timori ambientali e territoriali."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/18/movimento-stop-data-center-italia/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T11:13+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z251616dd",
+   "sez": "mondo",
+   "titolo": "Rahul Gandhi: il sistema educativo indiano esclude i più poveri",
+   "orig": "Education system now an exclusion system designed to keep millions of youth out: Rahul",
+   "lead": "Il leader dell'opposizione indiana Rahul Gandhi ha criticato il sistema scolastico del paese, definendolo un meccanismo di esclusione che spinge fuori milioni di giovani privi di mezzi economici o che non parlano inglese. Secondo Gandhi, chi non ha denaro, potere o non conosce la lingua inglese viene escluso dal sistema educativo senza alcuna considerazione. Lo riferisce The Hindu.",
+   "more": [
+    "In India il sistema scolastico presenta forti disparità tra istituti pubblici e privati, spesso legate a classe sociale e conoscenza dell'inglese, lingua usata nei percorsi universitari e professionali più prestigiosi, alimentando dibattiti politici sull'equità dell'accesso all'istruzione."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/education-system-now-an-exclusion-system-designed-to-keep-millions-of-youth-out-rahul/article71599621.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:39+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z2c799086",
+   "sez": "adolescenti",
+   "titolo": "Valditara: oltre 2 miliardi di euro per le scuole della Sicilia",
+   "orig": "Valditara: “2 miliardi e 118 milioni per la scuola siciliana”. Edifici, mense e palestre per contrastare la dispersione. Il piano",
+   "lead": "Il ministro dell'Istruzione Giuseppe Valditara ha annunciato un investimento di 2 miliardi e 118 milioni di euro destinato alla scuola siciliana, per interventi su edifici, mense e palestre con l'obiettivo di contrastare la dispersione scolastica. L'annuncio è arrivato durante l'apertura degli 'Stati Generali dell'Istruzione' ai Cantieri Culturali alla Zisa di Palermo, il 14 ottobre 2026, evento dedicato al patrimonio edilizio scolastico e alle opportunità educative per le famiglie siciliane. Lo riferisce Orizzonte Scuola.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/valditara-2-miliardi-e-118-milioni-per-la-scuola-siciliana-edifici-mense-e-palestre-per-contrastare-la-dispersione-il-piano/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T11:16+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13",
+   "sub": "scuola"
+  },
+  {
+   "id": "z9150704d",
+   "sez": "mondo",
+   "titolo": "Il PKK resta presente su Gara e Khwakurk, secondo una fonte",
+   "orig": "PKK Still Present in Gara and Khwakurk, Source Says",
+   "lead": "Secondo una fonte citata ad Amedi, il PKK avrebbe evacuato diversi tunnel sul Monte Matin consegnandoli alle forze turche, ma resterebbe comunque presente nelle aree di Matin, Gara e Khwakurk, nel nord dell'Iraq. L'informazione arriva in un contesto di operazioni militari turche contro le postazioni del gruppo armato kurdo nella regione del Kurdistan iracheno. Lo riferisce Kurdistan24.",
+   "more": [
+    "Il PKK, considerato organizzazione terroristica da Turchia, Stati Uniti e Unione Europea, mantiene da decenni basi nelle montagne del Kurdistan iracheno, da cui la Turchia conduce regolarmente operazioni militari e aeree per contrastarne la presenza lungo il confine."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946881/pkk-still-present-in-gara-and-khwakurk-source-says",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T14:12+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z7484971b",
+   "sez": "salute",
+   "titolo": "Le lezioni delle riforme sanitarie nigeriane per il prossimo capo dell'OMS",
+   "orig": "What the next WHO director-general must learn from Nigeria’s health reforms, By Chinedu Moghalu",
+   "lead": "Un contributo di opinione pubblicato da Premium Times sostiene che il prossimo direttore generale dell'Organizzazione Mondiale della Sanità dovrebbe guardare alle riforme sanitarie della Nigeria. L'autore cita dati secondo cui entro agosto 2026 l'Autorità nazionale per l'assicurazione sanitaria ha garantito cure materne d'emergenza a 80.000 donne, mentre le iscrizioni assicurative hanno superato i 23 milioni entro settembre. La lezione proposta riguarda un metodo di rendicontazione che segua i fondi dalle allocazioni ai servizi effettivi. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/opinion/917982-what-the-next-who-director-general-must-learn-from-nigerias-health-reforms-by-chinedu-moghalu.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-18T11:15+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z3d4a57c0",
+   "sez": "mondo",
+   "titolo": "Un drone fa scattare l'allarme in Lituania e Lettonia e si schianta al confine",
+   "orig": "Drone provoca alertas na Lituânia e na Letónia e despenha-se em território lituano",
+   "lead": "Un drone non identificato ha provocato nella notte un allarme aereo in Lituania e Lettonia, spingendo la NATO a far decollare caccia per intercettarlo. L'oggetto si è infine schiantato vicino a Pasvalys, nel nord della Lituania, in prossimità del confine con la Lettonia. L'episodio si inserisce in una serie di incidenti con velivoli non identificati che negli ultimi tempi hanno interessato i cieli dei paesi baltici. Lo riferisce RTP.",
+   "more": [
+    "Negli ultimi anni i paesi baltici, membri della NATO confinanti con la Russia e la Bielorussia, hanno segnalato più volte incursioni di droni o violazioni dello spazio aereo, episodi che alimentano le tensioni con Mosca nel contesto della guerra in Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/drone-provoca-alertas-na-lituania-e-na-letonia-e-despenha-se-em-territorio-lituano_n1772465",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z3d79b994",
+   "sez": "economia",
+   "titolo": "Malesia, i fondi per Sabah copriranno anche gli stipendi pubblici",
+   "orig": "Masidi: RM18.7b Sabah allocation covers civil service salaries, not just projects",
+   "lead": "Il politico malese Masidi ha spiegato che i 18,7 miliardi di ringgit assegnati allo stato di Sabah nel Budget 2027 non sono destinati soltanto a progetti di sviluppo, ma servono anche a coprire gli stipendi dei dipendenti pubblici locali. La precisazione è arrivata durante un intervento a Kudat, nel contesto della discussione sulle risorse federali destinate alla regione. Lo riferisce Malay Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/18/masidi-rm187b-sabah-allocation-covers-civil-service-salaries-not-just-projects/239640",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-18T19:14+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z97825111",
+   "sez": "italia",
+   "titolo": "Scontri a Milano, chi sono i giovani fermati tra minorenni e look da 'maranza'",
+   "orig": "Scontri Milano, chi sono i ragazzi fermati: look da maranza e video su TikTok. I genitori increduli: «Iscritti alla privata. Metà sono minori, l'altra metà pirla»",
+   "lead": "Dopo gli scontri di sabato a Milano, durante una manifestazione contro il caro vita, è emerso che molti dei fermati sono minorenni, alcuni iscritti a scuole private, i cui genitori si sono detti sorpresi e ignari di quanto i figli stessero facendo. Il corteo, partito pacificamente, è degenerato in disordini con danni e tensioni con le forze dell'ordine. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/italia/scontri_milano_genitori_ragazzi_scuola_privata_chi_sono_look_maranza_video_tiktok_ultime_notizie-9832898.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zcfb5fa50",
+   "sez": "economia",
+   "titolo": "Il governo del Kurdistan iracheno punta a diversificare l'economia oltre il petrolio",
+   "orig": "KRG Moves to Diversify Economy Beyond Oil",
+   "lead": "Funzionari del governo regionale del Kurdistan iracheno hanno dichiarato a Kurdistan24 che la nuova strategia economica si basa su esenzioni doganali, assegnazione di terreni, ampliamento dei silos per il grano e collegamenti diretti tra fabbriche e agricoltori. L'obiettivo è ridurre la dipendenza della regione dalle entrate petrolifere. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946883/krg-moves-to-diversify-economy-beyond-oil",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T14:14+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z741ab896",
+   "sez": "salute",
+   "titolo": "Nuova Zelanda, appello ai vaccini per evitare che il morbillo disturbi gli esami",
+   "orig": "High school students urged to get vaccinated to prevent measles disrupting exams",
+   "lead": "Le autorità sanitarie neozelandesi hanno esortato gli studenti delle scuole superiori a vaccinarsi contro il morbillo, dopo che l'anno scorso un'epidemia aveva causato l'interruzione di esami e celebrazioni di fine anno per alcuni studenti. L'appello punta a evitare che un nuovo focolaio comprometta il calendario scolastico. Lo riferisce RNZ.",
+   "more": [
+    "Il morbillo è una malattia virale altamente contagiosa che si diffonde facilmente negli ambienti scolastici quando la copertura vaccinale scende sotto le soglie necessarie per l'immunità di gregge, rendendo cruciali le campagne di vaccinazione tra adolescenti."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/health/1994031/high-school-students-urged-to-get-vaccinated-to-prevent-measles-disrupting-exams",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T19:09+13:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/education/uae-students-weighing-medical-and-engineering-jobs-what-to-know-about-indias-entrance-exams-1.500714966",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T15:11+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zd374ecf6",
+   "sez": "mondo",
+   "titolo": "A Porto gli attivisti per la casa puliscono la piazza per poter restare accampati",
+   "orig": "Voluntários limpam chão da praça no Porto para evitar terem de levantar tendas",
+   "lead": "Al movimento per il diritto alla casa che da sabato occupa la Praça D. João I, nel centro di Porto, sei volontari hanno pulito la piazza per evitare che le condizioni del luogo costringano a smontare le tende. Centinaia di persone hanno passato la notte nell'accampamento, che è stato nuovamente allestito dopo essere stato temporaneamente smontato. Lo riferisce RTP.",
+   "more": [
+    "In Portogallo la crisi abitativa, legata all'aumento degli affitti e alla scarsità di alloggi accessibili, ha alimentato negli ultimi mesi mobilitazioni e accampamenti di protesta in diverse città, in particolare tra giovani e lavoratori a reddito medio-basso."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/voluntarios-limpam-chao-da-praca-no-porto-para-evitar-terem-de-levantar-tendas_n1772462",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T12:29+01:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/fotogaleria/centenas-pessoas-passaram-noite-praca-d-joao-i-porto-416115",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T07:54+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z0d49dae3",
+   "sez": "mondo",
+   "titolo": "San Paolo, cielo nuvoloso per l'atto in Avenida Paulista con Flávio Bolsonaro",
+   "orig": "São Paulo terá tempo nublado durante ato na Paulista neste domingo (18)",
+   "lead": "San Paolo si prepara a una domenica con cielo nuvoloso e possibilità di pioggia debole, condizioni che accompagneranno la manifestazione della campagna di Flávio Bolsonaro, prevista per le 11 nella centrale Avenida Paulista. Le temperature previste sono miti. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/sao-paulo-tera-tempo-nublado-durante-ato-na-paulista-neste-domingo-18.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T05:00-03:00"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/18/serra-de-sao-vicente-tera-bloqueio-na-br-364-neste-fim-de-semana.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T11:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zb96032e1",
+   "sez": "cultura",
+   "titolo": "Salonicco, premiati i vincitori del concorso di design orafo nell'ambito di Kosmima",
+   "orig": "Θεσσαλονίκη: Απονεμήθηκαν τα βραβεία του 37ου Πανελλήνιου Διαγωνισμού Φιλοτέχνησης Σχεδίου Κοσμήματος στο πλαίσιο της KOSMIMA",
+   "lead": "A Salonicco sono stati assegnati i premi del 37° Concorso panellenico di design orafo, dedicato al tema 'Verde: la forza della vita', nell'ambito della fiera Kosmima. Il concorso, organizzato dalla federazione panellenica degli artigiani orafi e orologiai insieme a DEΘ-Helexpo, ha raccolto 50 proposte, con tre premi principali e sei menzioni d'onore; il primo premio è andato a Ioanna. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/ert3/thessaloniki-aponemithikan-ta-vraveia-tou-37ou-panelliniou-diagonismou-filotexnisis-sxediou-kosmimatos-sto-plaisio-tis-kosmima/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T11:17+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zfdfe5486",
+   "sez": "mondo",
+   "titolo": "Macron parlerà alla nazione dopo il caos e gli scontri in Francia",
+   "orig": "Διάγγελμα Μακρόν μετά το χάος και τις αιματηρές συγκρούσεις στη Γαλλία",
+   "lead": "Il presidente francese Emmanuel Macron si rivolgerà alla nazione domenica alle 21 (ora greca) dopo i gravi episodi di violenza che hanno scosso il paese nel fine settimana, legati alla protesta contro il caro vita e le carenze dei servizi pubblici. L'annuncio è arrivato dall'ufficio presidenziale, mentre i disordini hanno lasciato dietro di sé danni e tensioni diffuse in diverse città francesi. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diaggelma-makron-meta-to-xaos-kai-tis-aimatires-sygkrouseis-sti-gallia/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-18T11:07+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zc1cf1e8d",
+   "sez": "mondo",
+   "titolo": "Una testa di porcello lasciata davanti a casa del co-fondatore di AUR, accuse a Simion",
+   "orig": "Un cap de porc, lăsat în fața casei lui Marius Lulea. Acesta îl acuză pe George Simion: „Îl cunosc bine” / Cum răspunde președintele AUR",
+   "lead": "Marius Lulea, co-fondatore del partito romeno AUR, ha denunciato alla polizia di aver trovato una testa di porcello davanti alla propria abitazione, insieme a un manifesto minaccioso attaccato al contatore del gas. Lulea ha accusato il leader di AUR George Simion, affermando di conoscerlo bene, mentre il partito ha risposto alle accuse. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/un-cap-de-porc-lasat-in-fata-casei-lui-marius-lulea-acesta-il-acuza-pe-george-simion-il-cunosc-bine-2379121",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T11:18+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z462f3570",
+   "sez": "mondo",
+   "titolo": "\"Con l'aiuto di Dio\", Papa riappare e torna a parlare a Piazza San Pietro",
+   "orig": "\"Com a ajuda de Deus\". Papa reaparece e volta a falar à Praça de São Pedro",
+   "lead": "Papa Leone XIV esce dall'ospedale Gemelli di Roma dopo un intervento chirurgico che ha confermato la diagnosi di cancro ai polmoni. In una riapparizione pubblica, torna a rivolgersi ai fedeli riuniti in Piazza San Pietro. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/com-a-ajuda-de-deus-papa-reaparece-e-volta-a-falar-a-praca-de-sao-pedro_n1772467",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z5082a3fe",
+   "sez": "mondo",
+   "titolo": "2027: l'aiutante di Akpabio mette in guardia i giovani dal farsi usare come teppisti",
+   "orig": "2027: Akpabio’s aide, youth leaders warn against using youths as thugs",
+   "lead": "L'aiutante del senatore Godswill Akpabio, Dauda Makama, e altri leader giovanili avvertono i giovani nigeriani a non farsi usare come teppisti da politici nelle elezioni 2027. L'appello mira a prevenire violenze elettorali. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-akpabios-aide-youth-leaders-warn-against-using-youths-as-thugs/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z39b3acfb",
+   "sez": "mondo",
+   "titolo": "Coppia coreana condannata per aver costretto figli a maltrattare il cane",
+   "orig": "Couple forces children to hit family dog, threatens them with knife",
+   "lead": "Una coppia coreana è stata condannata a 18 mesi di carcere (sospesi per tre anni) per abuso emotico e fisico su minori. Il marito costringeva la figlia a colpire il cane. La Corte ha ordinato 40 ore di corsi di prevenzione dei reati. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10906278",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zc60c1a52",
+   "sez": "mondo",
+   "titolo": "Scuola Ateneo di Zamboanga rafforza sicurezza per minacce non verificate",
+   "orig": "Ateneo de Zamboanga grade school beefs up security amid threat messages",
+   "lead": "La scuola elementare dell'Ateneo di Zamboanga aumenta le misure di sicurezza dopo la circolazione di messaggi non verificati che segnalano minacce di attacco violento previsto per il 19 ottobre. Le autorità scolastiche assicurano nessuna minaccia sostanziata identificata. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2326076/ateneo-de-zamboanga-grade-school-beefs-up-security-amid-threat-messages",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-18T19:17+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z0e069143",
+   "sez": "mondo",
+   "titolo": "Ex Ilva: settimana cruciale dopo scioperi e cortei",
+   "orig": "Ex Ilva, dopo scioperi e cortei si apre settimana cruciale",
+   "lead": "Settimana cruciale per l'ex Ilva dopo gli scioperi degli operai e il grande corteo di cittadini e associazioni. La Corte di Cassazione decide sullo spegnimento dell'area a caldo dello stabilimento di Taranto nel contesto della vertenza tra produzione industriale e diritti ambientali. Lo riferisce Sky TG24.",
+   "more": [
+    "L'ex Ilva di Taranto continua a rappresentare il nodo critico tra occupazione operaia e tutela dell'ambiente, con la sentenza della Cassazione destinata a segnare gli equilibri della vertenza."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/cronaca/video/2026/10/18/ex-ilva-dopo-scioperi-e-cortei-si-apre-settimana-cruciale-1132605",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z83f55d94",
+   "sez": "mondo",
+   "titolo": "Schlein: non usino violenti per coprire proteste pacifiche",
+   "orig": "Schlein: \"Non usino violenti per coprire proteste pacifiche\"",
+   "lead": "Elly Schlein, segretaria del Partito Democratico, denuncia l'uso di elementi violenti per coprire le proteste pacifiche. Le critiche della leader dem arrivano durante l'assemblea del partito, riferendosi agli scontri di sabato registrati in varie città, soprattutto a Milano. Lo riferisce Sky TG24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/politica/video/2026/10/18/schlein-non-usino-violenti-per-coprire-proteste-pacifiche-1132606",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z1ce6605c",
+   "sez": "mondo",
+   "titolo": "Caro gasolio, prosegue il blocco dei tir nel sud Italia",
+   "orig": "Caro gasolio, prosegue il blocco dei tir nel sud Italia",
+   "lead": "Prosegue il blocco dei camion nel sud Italia per protestare contro i rincari del gasolio. Gli autotrasportatori siciliani mantengono i tir fermi nei piazzali dei depositi e nei porti fino al 20 ottobre. Il tavolo tecnico con il ministro Salvini è ancora in fase di convocazione. Lo riferisce Sky TG24.",
+   "more": [
+    "La protesta dei trasportatori nel sud Italia evidenzia il peso dei costi energetici sui margini economici delle piccole imprese di logistica."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/cronaca/video/2026/10/18/caro-gasolio-prosegue-il-blocco-dei-tir-nel-sud-italia-1132604",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zf538403d",
+   "sez": "mondo",
+   "titolo": "Oltre 900 arrestati nelle proteste violente di Parigi",
+   "orig": "Mbi 900 të arrestuar në protestën në Paris, Macron: Nuk ka vend për dhunë në republikën tonë",
+   "lead": "Oltre 900 persone arrestate nelle manifestazioni violente di sabato a Parigi. Più di 500.000 persone hanno manifestato in decine di città francesi. Incendi, saccheggi e una vittima tra i manifestanti. Il presidente Macron si rivolgerà ai francesi domenica sera. Lo riferisce Euronews Albania.",
+   "more": [
+    "Le proteste francesi di sabato hanno assunto caratteri critici con episodi di violenza urbana significativi, spingendo il governo a una comunicazione urgente alla nazione."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/mbi-900-te-arrestuar-ne-protesten-ne-paris-macron-nuk-ka-vend-per-dhune-ne-republiken-tone/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T11:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zc3389b26",
+   "sez": "mondo",
+   "titolo": "Varsavia vuole vietare i monopattini elettrici dal centro città",
+   "orig": "Chcą się pozbyć hulajnóg elektrycznych z centrum stolicy. Co zmienia stanowisko radnych?",
+   "lead": "I consiglieri comunali di Varsavia approvano una risoluzione per vietare completamente i monopattini elettrici dal centro della capitale. Le autorità intendono escluderli dalle piattaforme di noleggio via app. La decisione risponde a problemi di sicurezza stradale. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-chca-sie-pozbyc-hulajnog-elektrycznych-z-centrum-stolicy-co-zmienia-stanowisko-radnych-st9292979?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T11:07+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "za99e9039",
+   "sez": "mondo",
+   "titolo": "\"Tutto si impara nel cammino\": le mamme di figli con disabilità raccontano le sfide",
+   "orig": "“Todo se aprende en el camino”: las madres también luchan por el espacio de sus hijos en la sociedad, la familia y la escuela",
+   "lead": "Nel giorno dedicato alle madri, tre donne raccontano le sfide quotidiane di essere madri di figli con disabilità. Le loro esperienze evidenziano le difficoltà nella famiglia, nella società e nel sistema scolastico. Imparare significa anche affrontare discriminazioni e barriere. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/sociedad/todo-se-aprende-en-el-camino-las-madres-tambien-luchan-por-el-espacio-de-sus-hijos-en-la-sociedad-la-nid18102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T11:14+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zeb8609e8",
+   "sez": "mondo",
+   "titolo": "ECOWAS e Confederazione del Sahel concordano sui principi delle relazioni",
+   "orig": "إيكواس وكونفدرالية الساحل تتفقان على المبادئ الموجهة لعلاقاتهما",
+   "lead": "ECOWAS e Confederazione del Sahel concordano i principi guida che orienteranno le loro relazioni future. L'accordo rappresenta un passo importante nella cooperazione tra i due organismi regionali africani e nella gestione delle questioni geopolitiche continentali. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad4aa0531bb580001d176a5/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-18T11:14+00:00"
+    },
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397939",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-18T14:17+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z756204b8",
+   "sez": "mondo",
+   "titolo": "Democrazia coreana: impeachment in discussione per coesione partitica",
+   "orig": "‘조희대 탄핵’ 만지작…민주, 지지층 결집 기대 속 중도 이탈 불안",
+   "lead": "Il Partito Democratico coreano discute una proposta di impeachment con l'obiettivo di riunire la base elettorale, ma teme la perdita del voto moderato. La mossa strategica comporta rischi di frattura interna nel partito e disorientamento dell'elettorato centrista. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/politics/politics_general/1282952.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z0324a7f0",
+   "sez": "mondo",
+   "titolo": "India: biomining a Vellalore completato a maggio 2027",
+   "orig": "Coimbatore Corporation says Phase II biomining at Vellalore will take until May 2027; NGT seeks comprehensive report",
+   "lead": "L'ufficio comunale di Coimbatore dichiara che la fase II dello smaltimento mediante biomining a Vellalore sarà completata entro maggio 2027. La Corte nazionale per l'ambiente richiede un rapporto completo sulla procedura. Lo riferisce The Hindu.",
+   "more": [
+    "Il progetto di biomining a Vellalore è stato controverso per le preoccupazioni ambientali relative al trattamento e smaltimento dei rifiuti nel territorio."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-corporation-says-phase-ii-biomining-at-vellalore-will-take-until-may-2027-ngt-seeks-comprehensive-report/article71599565.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T16:38+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "z9ca633e3",
+   "sez": "mondo",
+   "titolo": "USA e Cina: dialogo su intelligenza artificiale deve essere concreto",
+   "orig": "US and China must ensure AI dialogue is more than just hot air",
+   "lead": "Stati Uniti e Cina devono garantire che il dialogo sull'intelligenza artificiale sia sostanziale e non rimanga vuota retorica diplomatica. Esperto sottolinea l'importanza di tradurre gli impegni in azioni concrete. Lo riferisce Nikkei Asia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
+   "id": "zeccf4617",
+   "sez": "mondo",
+   "titolo": "Cappellani militari forniscono supporto spirituale ai soldati ucraini",
+   "orig": "Los capellanes militares brindan apoyo espiritual a los soldados ucranianos",
+   "lead": "Cappellani militari svolgono un ruolo cruciale nel fornire supporto spirituale ai soldati ucraini durante il conflitto in corso. Il loro operato è essenziale per il benessere psicologico e morale delle truppe impegnate nella guerra. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/18/los-capellanes-militares-brindan-apoyo-espiritual-a-los-soldados-ucranianos/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-18T11:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:25",
+   "uscita": "13"
+  },
+  {
    "id": "z24387335",
    "sez": "mondo",
    "titolo": "La centrale di Norochcholai resterà scollegata dalla rete nazionale per diversi giorni",
@@ -1126,6 +1943,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-18T10:27+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T11:09+00:00"
     }
    ],
    "data": "18 ott",
@@ -2467,6 +3293,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Albania",
      "t": "2026-10-18T10:55+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/live-protesta-ne-diten-e-gjashte-nis-grumbullimi-te-ministria-e-arsimit-rama-shteti-nuk-dorezohet-para-dhunes/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T11:07+00:00"
     }
    ],
    "data": "18 ott",
@@ -3053,7 +3888,41 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z72e6a76e": "Quotidiano surinamese che dà spazio al dibattito sociale e ai diritti, con attenzione alle dichiarazioni dei ministri.",
   "z9f77f02e": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
   "z5874bdd9": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
-  "z8edb2a47": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida."
+  "z8edb2a47": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
+  "zdf5de5ad": "BBC sottolinea l'entità dei danni materiali lasciati dai disordini notturni.",
+  "zc400f65c": "The Guardian mette in evidenza la diffusione internazionale delle proteste sul caro vita e sulla casa.",
+  "zd8c96154": "Haaretz denuncia le conseguenze ambientali e sociali dei percorsi turistici promossi dagli insediamenti.",
+  "zf4e32e4e": "Il Messaggero valorizza l'esordio al gol di Lulli e la prestazione della Roma nella corsa al vertice.",
+  "zbf6593c2": "Il Post segnala la crescita dei comitati di protesta contro i nuovi impianti attorno a Milano.",
+  "z251616dd": "The Hindu riporta le critiche di Rahul Gandhi al sistema scolastico indiano.",
+  "z2c799086": "Orizzonte Scuola riporta l'annuncio ministeriale sugli investimenti per l'edilizia scolastica siciliana.",
+  "z9150704d": "Kurdistan24 riporta informazioni da una fonte locale sulla presenza residua del PKK nell'area.",
+  "z7484971b": "Premium Times propone il modello nigeriano come esempio di accountability sanitaria per l'OMS.",
+  "z3d4a57c0": "RTP riferisce la mobilitazione dei caccia NATO dopo l'allarme per il drone.",
+  "z3d79b994": "Malay Mail riporta la precisazione del politico sulla destinazione dei fondi federali per Sabah.",
+  "z97825111": "Il Messaggero ricostruisce il profilo dei giovani fermati dopo gli scontri milanesi.",
+  "zcfb5fa50": "Kurdistan24 presenta la road-map governativa per diversificare l'economia regionale.",
+  "z741ab896": "RNZ riporta l'appello delle autorità sanitarie agli studenti prima degli esami.",
+  "zd374ecf6": "RTP documenta l'impegno degli attivisti per mantenere l'accampamento nella piazza di Porto.",
+  "z0d49dae3": "Folha de S.Paulo fornisce le previsioni meteo in vista dell'evento politico in Avenida Paulista.",
+  "zb96032e1": "ERT News riporta l'assegnazione dei premi del concorso orafo nell'ambito della fiera Kosmima.",
+  "zfdfe5486": "ERT News annuncia il discorso alla nazione di Macron dopo i disordini.",
+  "zc1cf1e8d": "HotNews riporta la denuncia e le accuse politiche legate all'episodio intimidatorio.",
+  "z462f3570": "Agenzia portoghese che copre la riapparizione del Papa dopo l'intervento",
+  "z5082a3fe": "Giornale nigeriano che riporta appello contro violenza elettorale",
+  "z39b3acfb": "Giornale coreano che riporta sentenza per abuso su minori",
+  "zc60c1a52": "Giornale filippino che copre le misure precauzionali scolastiche",
+  "z0e069143": "Testata italiana che segue l'evoluzione della crisi siderurgica",
+  "z83f55d94": "Testata italiana che riporta le dichiarazioni della leader Pd",
+  "z1ce6605c": "Testata italiana che segue la vertenza dei trasportatori meridionali",
+  "zf538403d": "Agenzia albanese che riporta i disordini francesi",
+  "zc3389b26": "Testata polacca che copre decisioni delle autorità cittadine",
+  "za99e9039": "Quotidiano argentino che affronta il tema della maternità con prospettiva inclusiva",
+  "zeb8609e8": "Agenzia mauritana che copre diplomazia regionale africana",
+  "z756204b8": "Giornale coreano che analizza dinamiche di politica interna",
+  "z0324a7f0": "Giornale indiano che segue vertenze ambientali territoriali",
+  "z9ca633e3": "Giornale economico giapponese che analizza geopolitica dell'innovazione tecnologica",
+  "zeccf4617": "Giornale paraguayano che copre aspetti umanitari del conflitto ucraino"
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -4032,6 +4901,244 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "Saudi Arabia"
    ],
    "pt": []
+  },
+  "zdf5de5ad": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc400f65c": {
+   "n": "Milano e Lisbona",
+   "p": [
+    "Italy",
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zd8c96154": {
+   "n": "Cisgiordania",
+   "p": [
+    "Israel",
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zf4e32e4e": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbf6593c2": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z251616dd": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z2c799086": {
+   "n": "Palermo",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9150704d": {
+   "n": "Kurdistan iracheno",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z7484971b": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z3d4a57c0": {
+   "n": "Pasvalys",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z3d79b994": {
+   "n": "Sabah",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z97825111": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zcfb5fa50": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z741ab896": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zd374ecf6": {
+   "n": "Porto",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z0d49dae3": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zb96032e1": {
+   "n": "Salonicco",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zfdfe5486": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc1cf1e8d": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z462f3570": {
+   "n": "Roma",
+   "p": [],
+   "pt": []
+  },
+  "z5082a3fe": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z39b3acfb": {
+   "n": "Chuncheon",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zc60c1a52": {
+   "n": "Pagadian",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z0e069143": {
+   "n": "Taranto",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z83f55d94": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1ce6605c": {
+   "n": "Sicilia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf538403d": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc3389b26": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "za99e9039": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zeb8609e8": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "z756204b8": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z0324a7f0": {
+   "n": "Coimbatore",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z9ca633e3": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zeccf4617": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -4157,7 +5264,41 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z72e6a76e": 1,
   "z9f77f02e": 1,
   "z5874bdd9": 1,
-  "z8edb2a47": 1
+  "z8edb2a47": 1,
+  "zdf5de5ad": 2,
+  "zc400f65c": 2,
+  "zd8c96154": 1,
+  "zf4e32e4e": 1,
+  "zbf6593c2": 1,
+  "z251616dd": 1,
+  "z2c799086": 1,
+  "z9150704d": 1,
+  "z7484971b": 1,
+  "z3d4a57c0": 2,
+  "z3d79b994": 1,
+  "z97825111": 2,
+  "zcfb5fa50": 1,
+  "z741ab896": 1,
+  "zd374ecf6": 2,
+  "z0d49dae3": 1,
+  "zb96032e1": 1,
+  "zfdfe5486": 2,
+  "zc1cf1e8d": 1,
+  "z462f3570": 1,
+  "z5082a3fe": 1,
+  "z39b3acfb": 1,
+  "zc60c1a52": 1,
+  "z0e069143": 1,
+  "z83f55d94": 1,
+  "z1ce6605c": 1,
+  "zf538403d": 1,
+  "zc3389b26": 1,
+  "za99e9039": 1,
+  "zeb8609e8": 2,
+  "z756204b8": 1,
+  "z0324a7f0": 1,
+  "z9ca633e3": 1,
+  "zeccf4617": 1
  },
  "video": {},
  "pillole": []
