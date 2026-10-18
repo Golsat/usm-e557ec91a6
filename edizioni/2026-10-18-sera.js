@@ -3,6 +3,781 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z24387335",
+   "sez": "mondo",
+   "titolo": "La centrale di Norochcholai resterà scollegata dalla rete nazionale per diversi giorni",
+   "orig": "Norochcholai Power Plant to remain disconnected from national grid for several days",
+   "lead": "La centrale elettrica di Norochcholai, in Sri Lanka, resterà scollegata dalla rete elettrica nazionale per diversi giorni. La notizia riguarda la durata della disconnessione dell'impianto, come indicato nel titolo e nell'occhiello, che non specificano cause né tempi precisi del ripristino. La testata che riporta il dato ha sede a Colombo. Lo riferisce Ada Derana.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/250142",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zff916d6f",
+   "sez": "mondo",
+   "titolo": "Esequie del Venerabile Kappetiyagoda Sirivimala Thera il 21 ottobre",
+   "orig": "Final rites of Ven. Kappetiyagoda Sirivimala Thera on October 21",
+   "lead": "Sono fissate per il 21 ottobre le esequie del Venerabile Kappetiyagoda Sirivimala Thera, monaco buddhista dello Sri Lanka. La notizia riguarda la cerimonia funebre conclusiva, indicata nel titolo senza ulteriori dettagli su luogo, orari o partecipanti. La testata che la riporta ha sede a Colombo, capitale del Paese. Lo riferisce Ada Derana.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/250141",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "ze0757020",
+   "sez": "mondo",
+   "titolo": "Dispiegata una squadra militare speciale per rintracciare l'elefante Agbo",
+   "orig": "Special military team deployed to locate tusker 'Agbo'",
+   "lead": "È stata dispiegata una squadra militare speciale per rintracciare Agbo, un elefante maschio con zanne. Il titolo non precisa il motivo dell'operazione né la zona in cui l'animale si trova, dettagli che l'occhiello non fornisce. La notizia è riportata dalla testata con sede a Colombo. Lo riferisce Ada Derana.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/250140",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z079c27ab",
+   "sez": "mondo",
+   "titolo": "L'ex campione srilankese Chaminda Vaas entra nello staff dei Delhi Capitals",
+   "orig": "Sri Lankan great Chaminda Vaas joins Delhi Capitals’ coaching staff",
+   "lead": "L'ex campione srilankese Chaminda Vaas entra a far parte dello staff tecnico dei Delhi Capitals. La notizia riguarda il suo ingresso nel gruppo di allenatori della squadra, indicato nel titolo come nuovo incarico. Il sito della testata ha sede a Colombo, capitale dello Sri Lanka. Lo riferisce Ada Derana.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Ada Derana",
+     "p": "XX",
+     "c": "Colombo",
+     "u": "https://adaderana.lk/news/250101",
+     "angolo": "",
+     "atlas": "Sri Lanka"
+    }
+   ],
+   "data": "",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "za27cb32c",
+   "sez": "mondo",
+   "titolo": "L'Uzbekistan entra nell'Alleanza internazionale della robotica",
+   "orig": "Uzbekistan Joins International Robotics Alliance",
+   "lead": "L'ufficio per l'innovazione giovanile dell'Uzbekistan è entrato nell'International Alliance of Robotics Associations. Il Paese ha firmato anche un accordo di cooperazione con un'organizzazione tecnologica cinese. L'adesione riguarda il settore della robotica e vede coinvolto il governo di Tashkent, capitale uzbeka. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-joins-international-robotics-alliance/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T15:20+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z03c027d7",
+   "sez": "mondo",
+   "titolo": "Anche i misdemeanours in Ghana possono portare al carcere, fino a 25 anni",
+   "orig": "No, misdemeanours do attract a prison term in Ghana, even 25 years",
+   "lead": "Il giudice Alexander Osei Tutu, della Corte d'appello, chiarisce che in Ghana anche i reati minori, i misdemeanours, possono comportare la detenzione, fino a 25 anni. Il magistrato spiega il quadro normativo su cauzione, pene detentive e applicazione del Community Service Act. La precisazione è stata diffusa da Accra, capitale del Paese. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/opinion/no-misdemeanours-do-attract-a-prison-term-in-ghana-even-25-years",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T10:29+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zfa4ebede",
+   "sez": "mondo",
+   "titolo": "Il Centro di riabilitazione di Accra chiede sostegno oltre alle donazioni alimentari",
+   "orig": "Accra Rehabilitation Centre appeals for more support beyond food donations",
+   "lead": "Il Centro di riabilitazione di Accra chiede un sostegno ulteriore rispetto alle donazioni di cibo ricevute finora. L'appello include materiali didattici, per rispondere alle esigenze dei detenuti ospitati nella struttura. La richiesta riguarda soprattutto l'istruzione, come indicato nel titolo e nell'occhiello. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/accra-rehabilitation-centre-appeals-for-more-support-beyond-food-donations/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T10:24+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z0013b60b",
+   "sez": "mondo",
+   "titolo": "Come 1,5 milioni di ruandesi sono usciti dalla povertà e cosa succede ora",
+   "orig": "How 1.5 Million Rwandans Moved Out of Poverty and What Comes Next",
+   "lead": "Circa 1,5 milioni di ruandesi sono usciti dalla povertà, secondo il percorso ricostruito dalla testata. Il racconto parte dalle difficoltà quotidiane di una famiglia: procurarsi il cibo, mandare i figli a scuola, investire in una piccola attività. Il servizio guarda anche a ciò che resta da fare dopo questo risultato. Lo riferisce KT Press.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/10/how-1-5-million-rwandans-moved-out-of-poverty-and-what-comes-next/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-10-18T10:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z706a8262",
+   "sez": "mondo",
+   "titolo": "Il sindaco di Juba mette in guardia le forze di sicurezza dalle detenzioni illegali",
+   "orig": "Juba mayor cautions security forces against unlawful detention in city sectors",
+   "lead": "Il sindaco facente funzione di Juba, Christopher Sarafino Wani Swaka, ha avvertito le forze di sicurezza schierate nei quartieri residenziali. Ha chiesto di non detenere illegalmente i sospetti criminali, ma di trasferirli nelle stazioni di polizia. L'avvertimento segue un episodio durante un'ispezione a Nyakuron West, detta Number Three. Lo riferisce Eye Radio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/juba-mayor-cautions-security-forces-against-unlawful-detention-in-city-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=juba-mayor-cautions-security-forces-against-unlawful-detention-in-city-sectors",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-18T10:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zf2c30b1d",
+   "sez": "mondo",
+   "titolo": "Sud Sudan e Uganda chiedono azioni congiunte su sicurezza di confine e dispute fondiarie",
+   "orig": "South Sudan, Uganda leaders call for joint action on border security, land disputes",
+   "lead": "I leader di Sud Sudan e Uganda hanno chiesto un'azione congiunta contro le armi illegali e le questioni fondiarie lungo il confine comune. Hanno sottolineato la necessità di dialogo, cooperazione e consultazione con le comunità locali. L'appello è arrivato nel fine settimana, durante un incontro transfrontaliero a Pogee, in Sud Sudan. Lo riferisce Eye Radio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/south-sudan-uganda-leaders-call-for-joint-action-on-border-security-land-disputes/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-uganda-leaders-call-for-joint-action-on-border-security-land-disputes",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-18T10:22+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zefc0f86b",
+   "sez": "mondo",
+   "titolo": "Taiwan potrebbe offrire mille posti di lavoro l'anno agli emaSwati",
+   "orig": "Taiwan eyes 1 000 emaSwati jobs annually",
+   "lead": "Taiwan potrebbe garantire ogni anno lavoro a circa 1.000 emaSwati e finanziare la costruzione di case per cittadini vulnerabili. Lo ha annunciato re Mswati III, riferendo della recente visita a Taiwan. Le due nazioni intendono rafforzare una cooperazione allo sviluppo di lunga data. Lo riferisce Times of Eswatini.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46607/news/taiwan-eyes-1-000-emaswati-jobs-annually/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-18T10:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zf26fcac4",
+   "sez": "mondo",
+   "titolo": "Parole di liceali: «È scioccante sentire ragazzi della mia età dire che l'uomo è superiore alla donna»",
+   "orig": "Paroles de lycéens : «C’est choquant d’entendre des garçons de mon âge dire que l’homme est supérieur à la femme»",
+   "lead": "Dopo la mobilitazione, il quotidiano francese Libération raccoglie le voci di studenti liceali in tutta la Francia, per capire come vivono gli adolescenti. Tra le testimonianze c'è quella di Samar, quindicenne di Chambéry, in Savoia, che racconta il ruolo del femminismo nella propria crescita. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/education/paroles-de-lyceens-cest-choquant-dentendre-des-garcons-de-mon-age-dire-que-lhomme-est-superieur-a-la-femme-20261018_FI7X42DO2FHCXOJESL2QEHQX5M/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T10:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zcb40d0b1",
+   "sez": "mondo",
+   "titolo": "Carburante: dopo l'intesa sulle auto a combustione arriva l'E20?",
+   "orig": "Tanken: Kommt nach der Verbrenner-Einigung jetzt der E20-Kraftstoff?",
+   "lead": "Circa quindici anni dopo l'introduzione dell'E10 in tutto il Paese, in Germania si valuta il passaggio al carburante E20. A favorirlo sarebbe il ministro dei Trasporti Steffen Bilger, dopo l'intesa sui motori a combustione. L'effetto sul clima, però, è considerato controverso. La questione riguarda la benzina venduta alla pompa. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/wirtschaft/service/tanken-kommt-nach-der-verbrenner-einigung-jetzt-der-e20-kraftstoff-a-59308fec-9a9a-4209-bcb0-1edaff28eeb1#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T12:25+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z0f3b0c57",
+   "sez": "mondo",
+   "titolo": "IA in Cina: anche i cinesi vedono l'umanità minacciata dall'intelligenza artificiale?",
+   "orig": "Ki in China: Sehen auch die Chinesen die Menschheit durch KI bedroht?",
+   "lead": "In Cina l'opinione pubblica guarda all'intelligenza artificiale con più ottimismo rispetto all'Occidente. Parallelamente, i ricercatori cinesi puntano su un'IA che non si limita a elaborare dati, ma interagisce con il mondo fisico attraverso i robot. Il tema è al centro di un'analisi sulla percezione dei rischi legati a questa tecnologia. Lo riferisce FAZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/feuilleton/debatten/fuerchtet-man-auch-in-china-dass-ki-die-menschheit-vernichtet-accg-201307435.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T10:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zac8a5acb",
+   "sez": "mondo",
+   "titolo": "Più crescita: imparare dalla crisi francese",
+   "orig": "Für mehr Wachstum: Von Frankreichs Krise lernen",
+   "lead": "Per restare l'ancora di stabilità d'Europa, la Germania dovrebbe dare priorità alla spesa pubblica. Per aumentare la crescita economica, l'autore suggerisce di migliorare la qualità del contesto produttivo, oggi deteriorata. Il ragionamento parte dalla situazione della Francia, presentata come monito. Lo riferisce FAZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/finanzen/joerg-kraemer-was-deutschland-von-frankreichs-krise-lernen-kann-accg-201527984.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T10:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z5cf291a7",
+   "sez": "mondo",
+   "titolo": "Attacchi in Cisgiordania mettono in difficoltà Benjamin Netanyahu",
+   "orig": "Angriffe im Westjordanland bringen Benjamin Netanyahu in Bedrängnis",
+   "lead": "Coloni israeliani radicali avrebbero aggredito una giornalista statunitense e diplomatici europei in Cisgiordania. La vicenda crea difficoltà al premier Benjamin Netanyahu. Anche stretti alleati di Israele hanno reagito con indignazione. Il caso riguarda la sicurezza dei cittadini stranieri nei territori occupati. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/angriffe-im-westjordanland-bringen-benjamin-netanyahu-in-bedraengnis-ld.10037347",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T10:33+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zedf901b6",
+   "sez": "mondo",
+   "titolo": "Opinione: il Partito di Sinistra deve accettare il ruolo di partito di sostegno",
+   "orig": "Insändare. V bör tänka om och acceptera rollen som stödparti",
+   "lead": "In una lettera dei lettori, l'autrice Anita Lilburn invita il Partito di Sinistra svedese a ripensare la propria posizione. Propone di accettare il ruolo di partito di sostegno a un governo S+MP, in cambio di un'influenza simile a quella avuta dai Democratici svedesi sul governo Tidö. L'autrice chiede di modificare le richieste per evitare altri quattro anni di governo Tidö. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/insandare/v-bor-tanka-om-och-acceptera-rollen-som-stodparti/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T12:23+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zd5edaded",
+   "sez": "mondo",
+   "titolo": "Un emù correva per le strade della città: il video",
+   "orig": "Emu biegał po ulicach miasta. Nagranie",
+   "lead": "Agenti della pattuglia stradale della contea di Santa Cruz, in California, hanno ricevuto una segnalazione insolita. A un incrocio, tra persone e veicoli, correva un emù. Il video dell'episodio è stato pubblicato dalla testata polacca. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/tvnmeteo/ciekawostki/kalifornia-emu-biegal-po-ulicach-miasta-nagranie-st9292966?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T10:21+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z6b99763b",
+   "sez": "mondo",
+   "titolo": "Unicamp 2027: arrivano i primi studenti per la prima fase del vestibolare",
+   "orig": "Unicamp 2027: primeiros estudantes chegam para o vestibular da 1ª fase",
+   "lead": "Sono arrivati i primi candidati per la prima fase del vestibolare Unicamp 2027, l'esame di ammissione dell'università statale di Campinas. La trasmissione in diretta inizia alle 15 di domenica 18, subito dopo la prova. Durante la diretta, i professori commenteranno le domande e le risposte corrette. Lo riferisce G1.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/sp/campinas-regiao/educacao/ao-vivo/unicamp-2027-correcao-ao-vivo-1-fase.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T10:42+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z4df8dadb",
+   "sez": "mondo",
+   "titolo": "Produttori dell'ovest paulista si preparano alle piogge e adattano le coltivazioni",
+   "orig": "Produtores do oeste paulista se preparam para período de chuvas e adaptam lavouras",
+   "lead": "Tra ottobre e marzo, il periodo chiamato stagione delle acque, i produttori rurali dell'ovest dello stato di San Paolo adottano misure per proteggere le coltivazioni dalla pioggia eccessiva. La stagione concentra circa il 70% delle precipitazioni annuali, con possibili danni in assenza di una gestione adeguata. Per questo i produttori adattano la gestione delle colture. Lo riferisce G1.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/10/18/produtores-do-oeste-paulista-se-preparam-para-periodo-de-chuvas-e-adaptam-lavouras.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T10:30+00:00"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/10/18/novas-geracoes-assumem-o-comando-nas-lavouras-do-interior-de-sp.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T10:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zfea66125",
+   "sez": "mondo",
+   "titolo": "Attivata l'Alerta Sofía per la scomparsa di un'adolescente di 15 anni sul ponte Paysandú–Colón",
+   "orig": "Activaron la Alerta Sofía por la desaparición de una adolescente de 15 años en el puente Paysandú–Colón",
+   "lead": "È stata attivata l'Alerta Sofía per la scomparsa di Camila Ayelén Rodríguez Caraballo, quindicenne. L'ultima volta è stata vista venerdì, secondo il Ministero della Sicurezza argentino. Anche le autorità uruguaiane hanno diffuso un avviso nazionale. La scomparsa riguarda la zona del ponte che collega Paysandú e Colón. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/seguridad/activaron-la-alerta-sofia-por-la-desaparicion-de-una-adolescente-de-15-anos-en-el-puente-nid18102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T10:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zcb4126d5",
+   "sez": "mondo",
+   "titolo": "Negoziati a Washington sul futuro dell'Argentina",
+   "orig": "Negociaciones en Washington sobre el futuro de la Argentina",
+   "lead": "Imprenditori e lobbisti portano negli uffici di Trump la disputa su minerali, farmaci ed energia nucleare argentini. Il sostegno politico e finanziario degli Stati Uniti è accompagnato da richieste concrete. Il tema riguarda i rapporti bilaterali tra i due Paesi. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/economia/negociaciones-en-washington-sobre-el-futuro-de-la-argentina-nid18102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T10:46+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zcc855438",
+   "sez": "mondo",
+   "titolo": "Patente e cittadinanza: la nuova norma cambia i requisiti per registrarsi come elettori in Ohio",
+   "orig": "Licencia de conducir y ciudadanía: la nueva norma que cambia los requisitos para registrarse como votante en el DMV de Ohio",
+   "lead": "In Ohio, per registrarsi come elettori presso il DMV, la motorizzazione statale, bisogna ora dimostrare la cittadinanza. È la prima volta che la norma si applica nel ciclo elettorale 2026. Il cambiamento riguarda chi chiede la registrazione presso l'ufficio. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/licencia-de-conducir-y-ciudadania-la-nueva-norma-que-cambia-los-requisitos-para-registrarse-como-nid18102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T10:40+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z9f05e7e7",
+   "sez": "mondo",
+   "titolo": "Previdenza sociale USA: nel 2027 il salario massimo soggetto a imposta sale a 192.300 dollari",
+   "orig": "Seguro Social en EE.UU. y el ajuste de 2027 que eleva a US$192.300 el salario máximo sujeto al impuesto",
+   "lead": "Negli Stati Uniti l'adeguamento della previdenza sociale per il 2027 porta il salario massimo soggetto al tributo a 192.300 dollari. L'aumento è di 7.800 dollari rispetto al livello precedente. La misura riguarda il calcolo dei contributi sui redditi da lavoro. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/estados-unidos/seguro-social-en-eeuu-y-el-ajuste-de-2027-que-eleva-a-us192300-el-salario-maximo-sujeto-al-impuesto-nid17102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T10:27+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z72f9f19a",
+   "sez": "economia",
+   "titolo": "Importazioni: un nuovo comitato per arbitrare, nel mirino le riserve valutarie",
+   "orig": "Importations : un nouveau comité pour arbitrer, les réserves de change en ligne de mire",
+   "lead": "In Algeria il primo ministro Sifi Ghrieb ha insediato sabato 17 ottobre il comitato permanente incaricato di seguire e trattare le domande di importazione. L'organismo è stato istituito con il decreto esecutivo n. 26-327 del 13 ottobre 2026, pubblicato sulla Gazzetta ufficiale, e arriva mentre le riserve di cambio del Paese registrano un'erosione preoccupante. Il comitato dovrà arbitrare le richieste in un momento di forte pressione sulle finanze esterne. Lo riferisce Le Matin Algérie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/importations-un-nouveau-comite-pour-arbitrer-les-reserves-de-change-en-ligne-de-mire/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-18T10:45+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "za796d722",
+   "sez": "mondo",
+   "titolo": "Mongo: una campagna sensibilizza sulle buone pratiche in ospedale",
+   "orig": "‎Mongo : une campagne sensibilise aux bonnes pratiques en milieu hospitalier",
+   "lead": "A Mongo, in Ciad, l'Associazione per lo Sviluppo Durevole e la Solidarietà (ADDS-Rayons d'Espoir), in partenariato con il Comune urbano di Mongo, ha organizzato giovedì 15 ottobre 2026 una campagna di sensibilizzazione presso l'ospedale provinciale. L'iniziativa illustra le buone pratiche da adottare in ambito ospedaliero, con l'obiettivo di migliorare le condizioni di degenza dei pazienti. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/18/mongo-une-campagne-sensibilise-aux-bonnes-pratiques-en-milieu-hospitalier/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-18T10:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zbd2c8ae0",
+   "sez": "mondo",
+   "titolo": "Lions U20: Mohaman Dahirou esprime le sue ambizioni prima della sfida con la Centrafrica",
+   "orig": "Lions U20 : Mohaman Dahirou affiche ses ambitions avant le choc face à la Centrafrique",
+   "lead": "Dopo l'incontro con il Ciad, i Lions U20 camerunesi hanno già voltato pagina e guardano alla prossima sfida. A poche ore dal confronto con la Repubblica Centrafricana, il giocatore Mohaman Dahirou ha espresso le proprie ambizioni in vista dell'appuntamento, ormai imminente. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/18/lions-u20-mohaman-dahirou-affiche-ses-ambitions-avant-le-choc-face-a-la-centrafrique/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-18T10:47+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zc1d32dc2",
+   "sez": "mondo",
+   "titolo": "Souaibou Marou in forma: una tripletta per il Charlotte Independence",
+   "orig": "Souaibou Marou en feu : un triplé pour offrir le titre à Charlotte Independence !",
+   "lead": "L'attaccante camerunese Souaibou Marou ha firmato una tripletta nella vittoria del Charlotte Independence per 3-0 sul Greenville, valida per la USL League One. La prestazione viene presentata come decisiva per la conquista del titolo della squadra. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/18/souaibou-marou-en-feu-un-triple-pour-offrir-le-titre-a-charlotte-independence/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-18T10:21+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z9b7a633c",
+   "sez": "mondo",
+   "titolo": "Traduzione della Bibbia in crioulo entra nella fase tecnica di preparazione e uniformazione linguistica",
+   "orig": "Tradução da Bíblia para crioulo entra na fase de preparação técnica e uniformização linguística- comissão",
+   "lead": "In Capo Verde il progetto di traduzione della Bibbia in crioulo entra nella fase di preparazione tecnica e uniformazione linguistica. Lo ha dichiarato a Inforpress padre Ricardo Monteiro, membro della commissione di traduzione, a margine di un seminario concluso nella capitale Praia. Secondo il sacerdote, dall'inizio dell'anno sono stati sviluppati strumenti essenziali, tra cui un vocabolario e una lista di parole. Lo riferisce Expresso das Ilhas.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/18/traducao-da-biblia-para-crioulo-entra-na-fase-de-preparacao-tecnica-e-uniformizacao-linguistica-comissao/105143",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-18T10:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zf8b9da00",
+   "sez": "mondo",
+   "titolo": "Walikale: proseguono per il terzo giorno i combattimenti tra FRN e FARDC a Kibati",
+   "orig": "Walikale : les combats entre le FRN et les FARDC appuyées par les Wazalendo se poursuivent pour le troisième jour à Kibati",
+   "lead": "Nel territorio di Walikale, nella Repubblica Democratica del Congo, proseguono per il terzo giorno consecutivo i combattimenti a Kibati. Gli scontri oppongono i ribelli del Fronte per la Rifondazione della Nazione (FRN) alle Forze armate congolesi (FARDC), sostenute dai Wazalendo. La notizia è stata pubblicata domenica 18 ottobre 2026. Il testo disponibile non riporta un bilancio delle vittime. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/18/walikale-les-combats-entre-le-frn-et-les-fardc-appuyees-par-les-wazalendo-se-poursuivent",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-18T10:42+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z72e6a76e",
+   "sez": "mondo",
+   "titolo": "Currie: «I bambini del gruppo LGBT ne fanno parte»",
+   "orig": "Currie: ‘Kinderen uit LGBT-groep horen erbij’",
+   "lead": "In Suriname il ministro dell'Istruzione, della Scienza e della Cultura Dirk Currie ha ricevuto venerdì il libro di Patrick Liesdek sulla storia LGBT del Paese. Nell'occasione il ministro ha ribadito il motto del dicastero, «No one left behind», e ha dichiarato che nessun bambino deve essere escluso. Currie ha illustrato quanto siano importanti alcuni elementi del volume per il sistema educativo. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/currie-kinderen-uit-lgbt-groep-horen-erbij/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-18T11:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z9f77f02e",
+   "sez": "mondo",
+   "titolo": "Ebola, l'Unione Africana sostiene il Kenya: casi saliti a sette",
+   "orig": "La Unión Africana brindará apoyo técnico a Kenia tras elevarse a siete los casos de ébola",
+   "lead": "L'Unione Africana offrirà supporto tecnico al Kenya, dopo che i casi di ebola sono saliti a sette. L'ebola è una malattia virale grave, che si trasmette per contatto diretto con sangue o fluidi corporei di persone infette. L'Unione Africana è l'organismo continentale con sede ad Addis Abeba. Il Kenya si trova in Africa orientale. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/18/la-union-africana-brindara-apoyo-tecnico-a-kenia-tras-elevarse-a-siete-los-casos-de-ebola/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-18T10:55+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z5874bdd9",
+   "sez": "mondo",
+   "titolo": "Mpox, il Sudafrica sale a 26 casi",
+   "orig": "Sudáfrica eleva a 26 los casos de mpox tras confirmar cuatro nuevos contagios",
+   "lead": "Il Sudafrica ha portato a 26 i casi di mpox, dopo aver confermato quattro nuovi contagi. Il vaiolo delle scimmie è una malattia virale causata da un orthopoxvirus, che si diffonde soprattutto per contatto stretto con persone infette. Il Paese si trova nell'Africa australe. Nel testo disponibile non sono riportate ulteriori informazioni sulle misure adottate. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/18/sudafrica-eleva-a-26-los-casos-de-mpox-tras-confirmar-cuatro-nuevos-contagios/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-18T10:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "zc4219c51",
+   "sez": "mondo",
+   "titolo": "Cedeao e alleanza del Sahel riprendono il dialogo in Senegal",
+   "orig": "La Cedeao y la alianza del Sahel retoman diálogo en Senegal hacia un marco de cooperación",
+   "lead": "La Comunità economica dell'Africa occidentale (Cedeao) e l'alleanza del Sahel hanno ripreso il dialogo in Senegal, con l'obiettivo di arrivare a un quadro di cooperazione. I rapporti tra la Cedeao e i Paesi del Sahel sono stati tesi negli ultimi anni, dopo l'uscita di Mali, Burkina Faso e Niger dall'organizzazione regionale. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/18/la-cedeao-y-la-alianza-del-sahel-retoman-dialogo-en-senegal-hacia-un-marco-de-cooperacion/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-18T10:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
+   "id": "z8edb2a47",
+   "sez": "mondo",
+   "titolo": "Paesi del Golfo sostengono le misure saudite contro gli huthi",
+   "orig": "Países del Golfo respaldan las medidas saudíes para defenderse de los hutíes",
+   "lead": "I Paesi del Golfo sostengono le misure dell'Arabia Saudita per difendersi dagli huthi, il movimento armato yemenita. Le tensioni con gli huthi, attivi nel nord dello Yemen, pesano da anni sulla sicurezza della regione. L'Arabia Saudita confina con lo Yemen a sud. La notizia riguarda dunque una posizione collettiva dei Paesi della regione. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/18/paises-del-golfo-respaldan-las-medidas-saudies-para-defenderse-de-los-huties/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-18T10:25+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "13:07",
+   "uscita": "13"
+  },
+  {
    "id": "z8b75a349",
    "sez": "mondo",
    "titolo": "Gaza, un capitano della Protezione civile cerca di ritrovare la famiglia dopo il «cessate il fuoco»",
@@ -2330,7 +3105,42 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z9c692677": "Il portale bosniaco riporta la versione del governo albanese, senza approfondire le prove a sostegno delle accuse.",
   "z43333c60": "Il portale bosniaco dà rilievo alle domande rivolte a Washington sul ruolo americano nel voto.",
   "zfd2820a2": "Il portale bosniaco ospita una critica politica di un analista, con un taglio di opinione.",
-  "z5df39805": "L'agenzia azera riporta i dati del sondaggio con un taglio di aggiornamento politico."
+  "z5df39805": "L'agenzia azera riporta i dati del sondaggio con un taglio di aggiornamento politico.",
+  "z24387335": "Ada Derana, testata di Colombo, dà la notizia con un taglio di cronaca locale e di servizio.",
+  "zff916d6f": "Ada Derana dà conto dell'evento religioso con un tono informativo e di servizio.",
+  "ze0757020": "Ada Derana presenta la vicenda come notizia di cronaca nazionale, con enfasi sull'intervento militare.",
+  "z079c27ab": "Ada Derana racconta il rientro sportivo di un proprio connazionale con un taglio locale e celebrativo.",
+  "za27cb32c": "UzDaily segue la notizia con un taglio istituzionale, concentrandosi sull'adesione e sull'accordo di cooperazione.",
+  "z03c027d7": "3News affronta il tema con un taglio giuridico, dando voce direttamente a un magistrato.",
+  "zfa4ebede": "MyJoyOnline dà voce alle richieste del centro con un taglio sociale e di denuncia dei bisogni.",
+  "z0013b60b": "KT Press adotta un taglio di analisi sociale, partendo dalle storie delle famiglie.",
+  "z706a8262": "Eye Radio riporta le parole del sindaco con un taglio istituzionale e di richiamo alla legalità.",
+  "zf2c30b1d": "Eye Radio privilegia il racconto diplomatico dell'incontro, sottolineando il tema della cooperazione bilaterale.",
+  "zefc0f86b": "Times of Eswatini riporta l'annuncio reale con un taglio governativo e focalizzato sull'occupazione.",
+  "zf26fcac4": "Libération privilegia il racconto diretto dei giovani, con un taglio sociale e di testimonianza.",
+  "zcb40d0b1": "Der Spiegel affronta il tema con un taglio di policy, sottolineando le posizioni contrastanti sull'impatto climatico.",
+  "z0f3b0c57": "FAZ confronta la percezione cinese con quella occidentale, con un taglio analitico e comparativo.",
+  "zac8a5acb": "FAZ propone un'analisi economica di indirizzo, con un taglio di raccomandazione politica.",
+  "z5cf291a7": "NZZ inquadra l'episodio come questione politica interna a Israele e nei rapporti con gli alleati.",
+  "zedf901b6": "Dagens Nyheter ospita una voce d'opinione dei lettori, espressione di un dibattito interno alla sinistra.",
+  "zd5edaded": "TVN24 racconta l'episodio come curiosità, con un taglio leggero e basato sul video.",
+  "z6b99763b": "G1 segue l'evento in chiave di servizio per i candidati, con un taglio informativo e pratico.",
+  "z4df8dadb": "G1 affronta il tema agricolo con un taglio pratico, legato al calendario delle piogge.",
+  "zfea66125": "La Nación dà rilievo alla dimensione transfrontaliera della ricerca, con un taglio di cronaca e di servizio.",
+  "zcb4126d5": "La Nación mette in evidenza gli interessi economici che accompagnano il rapporto con Washington, con un taglio critico.",
+  "zcc855438": "La Nación informa su una nuova regola amministrativa, con un taglio di servizio per i cittadini.",
+  "z9f05e7e7": "La Nación traduce un dato fiscale tecnico in un'informazione di servizio per i lettori.",
+  "z72f9f19a": "Quotidiano algerino che segue da vicino gli atti ufficiali e l'andamento delle riserve di cambio del Paese.",
+  "za796d722": "Testata ciadiana che racconta iniziative sociali e sanitarie dal territorio, con tono di cronaca di servizio.",
+  "zbd2c8ae0": "Sito camerunese focalizzato sul calcio giovanile nazionale, con attenzione alle dichiarazioni dei giocatori.",
+  "zc1d32dc2": "Testata camerunese che segue i connazionali all'estero, con toni enfatici sulle prestazioni individuali.",
+  "z9b7a633c": "Testata capoverdiana che riporta la voce della Chiesa locale sul progetto linguistico, con taglio informativo.",
+  "zf8b9da00": "Testata congolese di Kinshasa che segue il conflitto nell'est del Paese con aggiornamenti dal campo.",
+  "z72e6a76e": "Quotidiano surinamese che dà spazio al dibattito sociale e ai diritti, con attenzione alle dichiarazioni dei ministri.",
+  "z9f77f02e": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
+  "z5874bdd9": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
+  "zc4219c51": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
+  "z8edb2a47": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -3091,6 +3901,250 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "Japan"
    ],
    "pt": []
+  },
+  "z24387335": {
+   "n": "Norochcholai",
+   "p": [
+    "Sri Lanka"
+   ],
+   "pt": []
+  },
+  "zff916d6f": {
+   "n": "Sri Lanka",
+   "p": [
+    "Sri Lanka"
+   ],
+   "pt": []
+  },
+  "ze0757020": {
+   "n": "Sri Lanka",
+   "p": [
+    "Sri Lanka"
+   ],
+   "pt": []
+  },
+  "z079c27ab": {
+   "n": "Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "za27cb32c": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z03c027d7": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zfa4ebede": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z0013b60b": {
+   "n": "Kigali",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "z706a8262": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "zf2c30b1d": {
+   "n": "Pogee",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "zefc0f86b": {
+   "n": "Eswatini",
+   "p": [
+    "eSwatini",
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zf26fcac4": {
+   "n": "Chambéry",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zcb40d0b1": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z0f3b0c57": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zac8a5acb": {
+   "n": "Germania e Francia",
+   "p": [
+    "Germany",
+    "France"
+   ],
+   "pt": []
+  },
+  "z5cf291a7": {
+   "n": "Cisgiordania",
+   "p": [],
+   "pt": []
+  },
+  "zedf901b6": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zd5edaded": {
+   "n": "Contea di Santa Cruz",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6b99763b": {
+   "n": "Campinas",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z4df8dadb": {
+   "n": "Ovest di San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zfea66125": {
+   "n": "Ponte Paysandú–Colón",
+   "p": [
+    "Argentina",
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "zcb4126d5": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zcc855438": {
+   "n": "Ohio",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9f05e7e7": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z72f9f19a": {
+   "n": "Algeri",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "za796d722": {
+   "n": "Mongo",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "zbd2c8ae0": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zc1d32dc2": {
+   "n": "Charlotte",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9b7a633c": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
+  },
+  "zf8b9da00": {
+   "n": "Walikale",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z72e6a76e": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "z9f77f02e": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z5874bdd9": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zc4219c51": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z8edb2a47": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3185,7 +4239,42 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z9c692677": 1,
   "z43333c60": 1,
   "zfd2820a2": 1,
-  "z5df39805": 1
+  "z5df39805": 1,
+  "z24387335": 1,
+  "zff916d6f": 1,
+  "ze0757020": 1,
+  "z079c27ab": 1,
+  "za27cb32c": 1,
+  "z03c027d7": 1,
+  "zfa4ebede": 1,
+  "z0013b60b": 1,
+  "z706a8262": 1,
+  "zf2c30b1d": 1,
+  "zefc0f86b": 1,
+  "zf26fcac4": 1,
+  "zcb40d0b1": 1,
+  "z0f3b0c57": 1,
+  "zac8a5acb": 1,
+  "z5cf291a7": 1,
+  "zedf901b6": 1,
+  "zd5edaded": 1,
+  "z6b99763b": 1,
+  "z4df8dadb": 1,
+  "zfea66125": 1,
+  "zcb4126d5": 1,
+  "zcc855438": 1,
+  "z9f05e7e7": 1,
+  "z72f9f19a": 1,
+  "za796d722": 1,
+  "zbd2c8ae0": 1,
+  "zc1d32dc2": 1,
+  "z9b7a633c": 1,
+  "zf8b9da00": 1,
+  "z72e6a76e": 1,
+  "z9f77f02e": 1,
+  "z5874bdd9": 1,
+  "zc4219c51": 1,
+  "z8edb2a47": 1
  },
  "video": {},
  "pillole": []
