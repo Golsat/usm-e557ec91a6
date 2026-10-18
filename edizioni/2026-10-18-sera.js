@@ -290,6 +290,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-18T22:48+08:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T12:30+00:00"
     }
    ],
    "data": "18 ott",
@@ -502,75 +511,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
     }
    ],
    "data": "",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "z1811d7ff",
-   "sez": "prima",
-   "titolo": "Francia: oltre 2.000 arresti e 600 agenti feriti dopo le proteste violente",
-   "orig": "Los detenidos en las protestas en Francia ascienden a 2.000 y hay 600 agentes heridos",
-   "lead": "In Francia il numero di persone arrestate durante le proteste di sabato ha raggiunto le duemila, con circa seicento agenti di polizia feriti, secondo le prime stime diffuse domenica. Le manifestazioni sono degenerate in scontri, attacchi a edifici pubblici e saccheggi di negozi in diverse città, tra cui Parigi, Marsiglia e Lione. L'incendio che aveva colpito il municipio di Limoges è stato domato nella giornata di domenica. Il presidente Emmanuel Macron si è rivolto alla nazione nel pomeriggio, mentre il primo ministro Sébastien Lecornu ha convocato una riunione interministeriale d'urgenza per affrontare la crisi.",
-   "more": [
-    "La Federazione del Commercio e della Distribuzione francese ha stimato danni per centinaia di milioni di euro, con circa 1.500 negozi vandalizzati. L'episodio rappresenta una delle più gravi ondate di violenza urbana vissute dalla Francia negli ultimi decenni."
-   ],
-   "fonti": [
-    {
-     "n": "Brújula Digital",
-     "p": "XX",
-     "c": "La Paz",
-     "u": "https://brujuladigital.net/mundo/los-detenidos-en-las-protestas-en-francia-ascienden-a-2000-y-hay-600-agentes-heridos",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-18T10:32-04:00"
-    },
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/internacional/2026-10-18/francia-hace-balance-tras-el-mayor-estallido-de-violencia-y-caos-en-decadas-1800-detenidos-y-un-millar-de-comercios-saqueados.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-18T15:08+00:00"
-    },
-    {
-     "n": "El Mundo",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://www.elmundo.es/internacional/2026/10/18/6ad46f11e85ece497e8b457f.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-18T15:44+02:00"
-    },
-    {
-     "n": "El Deber",
-     "p": "XX",
-     "c": "Santa Cruz",
-     "u": "https://eldeber.com.bo/mundo/detenidos-protestas-francia-ascienden-2-000-600-agentes-heridos_1792335390",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-10-18T14:56+00:00"
-    },
-    {
-     "n": "La Nación CR",
-     "p": "XX",
-     "c": "San José",
-     "u": "https://www.nacion.com/el-mundo/francia-evalua-danos-tras-protestas-y-saqueos-que/LNJ5XKEECFFMZFALKFZ2PUWM7M/story/",
-     "angolo": "",
-     "atlas": "Costa Rica",
-     "t": "2026-10-18T15:01+00:00"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-18T14:15+00:00"
-    }
-   ],
-   "data": "18 ott",
    "ora": "17:26",
    "uscita": "17"
   },
@@ -1117,7 +1057,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "z1c848a8a",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Palline da tennis interrompono partita Bayer Leverkusen-Freiburg, allenatore protesta",
    "orig": "Teniske loptice prekinule utakmicu, trener pobjesnio, a Klopp se smijao (VIDEO)",
    "lead": "Una partita della Bundesliga tra Bayer Leverkusen e Freiburg è stata interrotta nei primissimi minuti dopo che i tifosi ospiti hanno lanciato palline da tennis sul campo di gioco. L'allenatore del Bayer si è irritato per l'episodio mentre Klopp ha riso dell'accaduto. Il Bayer ha vinto la partita 2-0. Lo riferisce N1 Bosnia.",
@@ -1359,6 +1299,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Peru",
      "t": "2026-10-18T15:05+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/deporte-total/running/asics-golden-run-2026-repasa-las-mejores-postales-que-dejo-la-competencia-en-la-costa-verde-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-18T14:29+00:00"
     }
    ],
    "data": "18 ott",
@@ -1569,7 +1518,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "z03da4c5f",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Serie A: Como batte Fiorentina 3-1",
    "orig": "1-3. El Como ahonda la crisis del Fiorentina",
    "lead": "La Fiorentina subisce una pesante sconfitta col risultato di 1-3 contro il Como nel campionato italiano di Serie A in corso. La sconfitta rappresenta un momento particolarmente critico nella stagione della squadra viola, che affronta una fase di profonde difficoltà nel torneo. L'esito negativo approfondisce la crisi della squadra provocata da una serie di risultati negativi successivi. Lo riferisce ABC Color.",
@@ -1961,7 +1910,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "z424d0830",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Repubblica Democratica del Congo: confermato rilevamento di Ebola in nuova provincia",
    "orig": "الكونغو الديمقراطية تعلن رصد إيبولا في ولاية جديدة",
    "lead": "Le autorità sanitarie della Repubblica Democratica del Congo hanno confermato il rilevamento del virus Ebola in una nuova provincia del territorio nazionale. L'annuncio rappresenta un'estensione geografica dell'epidemia nel contesto dell'Africa centrale. Sono in corso operazioni di contenimento e sorveglianza epidemiologica della malattia infettiva. Lo riferisce Mosaïque FM.",
@@ -3383,28 +3332,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z913f5f75",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV promette un graduale ritorno alle funzioni nel primo evento dopo l'intervento chirurgico",
-   "orig": "Leão XIV promete regresso gradual às funções no primeiro evento após cirurgia",
-   "lead": "Il Papa Leone XIV promette un ritorno graduale alle sue funzioni nel primo evento pubblico dopo l'intervento chirurgico. Ha annullato la sua agenda fino al 20 ottobre e non ha ancora informato quando terrà il prossimo evento pubblico. Un viaggio in America Latina è previsto per novembre. Lo riferisce Público.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/10/18/mundo/noticia/leao-xiv-promete-regresso-gradual-funcoes-evento-apos-cirurgia-2191765",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-18T11:50+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "16:57",
-   "uscita": "17"
-  },
-  {
    "id": "z911d5560",
    "sez": "mondo",
    "titolo": "Il leader dei Progressisti Klaver vuole negoziare questa settimana con il premier Jetten sul piano fiscale",
@@ -4047,28 +3974,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Peru",
      "t": "2026-10-18T14:33+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "16:57",
-   "uscita": "17"
-  },
-  {
-   "id": "zd52c8778",
-   "sez": "sport",
-   "titolo": "ASICS Golden Run 2026: la competizione sulla Costa Verde di Lima",
-   "orig": "ASICS Golden Run 2026: repasa las mejores postales que dejó la competencia en la Costa Verde",
-   "lead": "La competizione podistica ASICS Golden Run Lima 2026 ha proposto ai partecipanti percorsi da 10 chilometri lungo la Costa Verde fino a San Miguel, con una maratona di 21 chilometri che si estende fino a Chucuito nel Callao. Lo riferisce El Comercio.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "El Comercio",
-     "p": "XX",
-     "c": "Lima",
-     "u": "https://elcomercio.pe/deporte-total/running/asics-golden-run-2026-repasa-las-mejores-postales-que-dejo-la-competencia-en-la-costa-verde-noticia/",
-     "angolo": "",
-     "atlas": "Peru",
-     "t": "2026-10-18T14:29+00:00"
     }
    ],
    "data": "18 ott",
@@ -9575,30 +9480,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zd8e45088",
-   "sez": "mondo",
-   "titolo": "San Pietroburgo colpita dal più grande attacco di drone ucraino",
-   "orig": "St Petersburg endures biggest Ukrainian drone attack",
-   "lead": "San Pietroburgo ha subito il più ampio attacco di drone ucraino mai registrato, con colpi che hanno danneggiato infrastrutture tecnologiche dopo che la Russia aveva preso di mira sottostazioni elettriche in Ucraina. Lo riferisce Financial Times.",
-   "more": [
-    "Gli attacchi reciproci alle infrastrutture energetiche e tecnologiche sono diventati una costante del conflitto russo-ucraino, con entrambe le parti che colpiscono obiettivi strategici per minare la capacità produttiva e logistica dell'avversario."
-   ],
-   "fonti": [
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-18T12:30+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "16:45",
-   "uscita": "17"
-  },
-  {
    "id": "ze53ca5a2",
    "sez": "salute",
    "titolo": "Alcune varianti omicron si replicano meglio nell'intestino, rivela uno studio",
@@ -13957,7 +13838,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z8ff121f7": "Nyasa Times racconta l'atmosfera festosa delle danze tradizionali che aprono le celebrazioni Lhomwe.",
   "z3701c534": "The Guardian descrive la prestazione del Chelsea come una dimostrazione di forza nella corsa al titolo WSL.",
   "zd6db5f2e": "Financial Times mette in luce lo sforzo del Tesoro per prevenire anticipazioni non autorizzate.",
-  "zd8e45088": "Financial Times evidenzia l'escalation degli attacchi reciproci alle infrastrutture critiche.",
   "ze53ca5a2": "Medical Xpress sottolinea le diverse strategie di diffusione adottate dalle sottovarianti omicron.",
   "ze9a03b12": "Luxembourg Times ricostruisce l'evoluzione del settore cinematografico lussemburghese attraverso la testimonianza di uno dei suoi protagonisti.",
   "z442e05cd": "Egypt Independent descrive l'insofferenza crescente verso i contenuti generici prodotti dall'IA su LinkedIn.",
@@ -14171,7 +14051,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zbce42255": "La testata fornisce un aggiornamento urgente su condizioni meteo critiche e allerte per la popolazione.",
   "zc0acc3a0": "La testata riporta una curiosità umana che sfida le convenzionali aspettative sull'invecchiamento e i limiti fisici.",
   "zc6e81a5c": "La testata evidenzia come ingredienti e tradizioni culinarie diverse si incontrano nella cucina d'élite contemporanea.",
-  "z913f5f75": "La testata riferisce sul recupero del Pontefice in uno dei suoi primi gesti pubblici post-operazione.",
   "z911d5560": "La testata copre la negoziazione politica olandese su politiche fiscali redistributive e tassazione patrimoniale.",
   "z6e430a9d": "L'articolo esamina il legame storico e strutturale tra industria petrolifera e sviluppo nucleare nel XX secolo.",
   "ze61d2caa": "La testata evidenzia come il gravel cycling rappresenta l'evoluzione moderna del ciclismo competitivo e ricreativo.",
@@ -14200,7 +14079,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z2d879d46": "El Tiempo propone una riflessione editoriale sul valore acquisito del voto libero.",
   "ze0ef23e8": "El Tiempo documenta l'impatto transnazionale del fenomeno climatico sullo spazio geografico del Cono Sud.",
   "z801d5b25": "El Comercio affronta il recupero e la valorizzazione di un'opera poetica dispersa attraverso decenni e spazi geografici.",
-  "zd52c8778": "El Comercio documenta l'evento sportivo come appuntamento nel calendario podistico peruviano.",
   "z9db08014": "El Nacional riporta la documentazione di organizzazioni per i diritti umani sulla situazione critica della libertà di informazione.",
   "z301cb502": "La testata venezuelana riporta il messaggio di accusa del presidente ucraino verso la posizione strategica della Russia.",
   "z7c4f501e": "La testata documenta le carenze strutturali dell'infrastruttura energetica e l'auto-improvvisazione cittadina.",
@@ -14286,7 +14164,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z6661519a": "Vijesti ricorda la storia singolare del furto e del nascondiglio insolito usato per la gemma.",
   "z53e1424c": "Daryo segnala il primato negativo di Hayot Bank nella classifica dei reclami bancari.",
   "zdb2368fb": "The Korea Herald riporta la decisione dell'organizzatore di rimborsare integralmente i biglietti.",
-  "z1811d7ff": "El País e altre testate spagnole sottolineano l'entità record degli arresti e i danni economici provocati dai saccheggi.",
   "zcd14ac35": "RTHK e Times of India seguono la partecipazione delle rispettive delegazioni nazionali ai Giochi.",
   "z1682ecbc": "RTÉ News enfatizza l'aspetto umano della missione, sottolineando le difficoltà emotive dei peacekeepers nel disimpegnarsi dalla regione.",
   "z28fdc767": "ERT News inquadra il messaggio di Mitsotakis come affermazione di leadership greca nell'agenda Ue, mentre l'opposizione contesta le politiche economiche interne.",
@@ -14340,7 +14217,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z79605664": "A fine settembre studenti, insegnanti e sindacati sono scesi in piazza per chiedere migliori condizioni di studio, dando il via a un movimento di protesta nazionale. Il 17 ottobre le manifestazioni contro il caro vita sono degenerate in violenze e devastazioni in diverse città, spingendo il governo ad attribuire le responsabilità all'estrema sinistra.",
   "zcd895b99": "Negli ultimi mesi Netanyahu è sotto pressione politica interna, tra processi giudiziari in corso, tensioni nella coalizione di governo e critiche per la gestione della guerra a Gaza e del conflitto con l'Iran. Nel frattempo gli Stati Uniti, sotto la presidenza Trump, hanno intensificato il sostegno militare e diplomatico a Israele, in particolare dopo gli attacchi contro obiettivi iraniani legati al programma nucleare di Teheran.",
   "z21ad7f32": "Il Brighton ha iniziato la stagione di Premier League con un rendimento sorprendente, posizionandosi tra le prime squadre del campionato grazie a un gioco offensivo efficace sotto la guida di Fabian Hürzeler.",
-  "z1811d7ff": "Nei giorni precedenti la Francia aveva già vissuto tensioni sociali legate a misure di austerità e al malcontento politico, con il governo Lecornu sotto pressione. Le proteste di sabato si sono trasformate in una delle ondate di violenza urbana più gravi degli ultimi anni, coinvolgendo numerose città del Paese.",
   "zbda79b89": "Da diverse settimane Milano è attraversata da un'ondata di tensioni notturne in centro, con assembramenti organizzati tramite social network che spesso degenerano in scontri con le forze dell'ordine. Piazza Duomo e le vie limitrofe sono già state teatro di episodi simili, con lanci di oggetti, danni a locali e vetrine, e numerosi fermi per identificazione da parte della polizia, mentre le autorità cercano di contenere il fenomeno con presidi fissi."
  },
  "cronologie": {
@@ -14426,16 +14302,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    [
     "2026-10-18",
     "Il Brighton travolge il Crystal Palace 5-0"
-   ]
-  ],
-  "z1811d7ff": [
-   [
-    "2026-10-17",
-    "Scoppiano violenti disordini in diverse città francesi con saccheggi e incendi"
-   ],
-   [
-    "2026-10-18",
-    "Si contano oltre 2.000 arresti e circa 600 agenti feriti; Macron si rivolge alla nazione"
    ]
   ],
   "zbda79b89": [
@@ -14655,53 +14521,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
     }
    ],
    "divergono": "The Straits Times e Cyprus Mail riportano il testo della dichiarazione di Trump in modo quasi identico, senza aggiungere altro contesto. Il Messaggero, diversamente dalle altre testate, affianca la notizia a dati sul crollo del gradimento di Trump negli USA e a notizie di vittime civili a Gaza riportate da Wafa, ampliando il quadro politico-umanitario. Roya News è la sola a dare risalto esplicito al collegamento tra l'endorsement e la minaccia di un intervento militare USA in Iran, e a citare dichiarazioni di Netanyahu sugli avversari che vorrebbero la sua sconfitta, elemento assente nelle altre fonti leggibili."
-  },
-  "z1811d7ff": {
-   "voci": [
-    {
-     "n": "Brújula Digital",
-     "c": "La Paz",
-     "p": "XX",
-     "t": "Giudizio parziale: disponibili solo titolo e occhiello. Riporta 2.000 arresti, 600 agenti feriti e l'incendio controllato del municipio di Limoges, senza dettagli ulteriori.",
-     "b": "t"
-    },
-    {
-     "n": "El País",
-     "c": "Madrid",
-     "p": "XX",
-     "t": "Descrive un \"paisaje apocalíptico\" con 2.000 detenuti, 600 poliziotti feriti, 1.500 negozi saccheggiati e l'incendio del municipio di Limoges. Cita il sindaco di Parigi, Macron, Lecornu e lo scontro tra Le Pen e Mélenchon, attribuendo la violenza a individui di ultrasinistra secondo il governo.",
-     "b": "a"
-    },
-    {
-     "n": "El Mundo",
-     "c": "Madrid",
-     "p": "XX",
-     "t": "Parla di \"guerrilla urbana\" con 2.000 arresti dai \"perfiles peligrosos\" e 500 feriti tra le forze dell'ordine. Riporta dichiarazioni di prefetti, del ministro Darmanin e di Lecornu, menzionando anche il caso di un giovane che ha perso una mano a Saint-Étienne.",
-     "b": "a"
-    },
-    {
-     "n": "El Deber",
-     "c": "Santa Cruz",
-     "p": "XX",
-     "t": "Articolo informativo basato su dichiarazioni del ministro dell'Interno Núñez: 2.000 arresti, 600 feriti tra forze dell'ordine, danni per \"centinaia di milioni di euro\". Cita anche la richiesta di dimissioni di Núñez da parte della leader ecologista Tondelier.",
-     "b": "a"
-    },
-    {
-     "n": "La Nación CR",
-     "c": "San José",
-     "p": "XX",
-     "t": "Riporta un bilancio di 1.800 arresti (cifra diversa dalle altre), citando il ministro Núñez, e dà ampio spazio alle reazioni politiche, incluso un commento di Donald Trump sull'immigrazione e un'analisi di Eurasia Group. Cita anche un 17enne che ha perso una mano per una granata della polizia.",
-     "b": "a"
-    },
-    {
-     "n": "Financial Times",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Giudizio parziale: disponibili solo titolo e occhiello. Parla di rivolte violente \"senza precedenti\" e di un governo sotto pressione per non aver contenuto gli attacchi a negozi ed edifici pubblici.",
-     "b": "t"
-    }
-   ],
-   "divergono": "Le cifre degli arresti variano: 2.000 per Brújula Digital, El País, El Mundo ed El Deber, ma 1.800 per La Nación CR. Anche i feriti tra le forze dell'ordine oscillano tra 600 (El Deber, El País, Brújula Digital) e 500 (El Mundo), mentre La Nación CR cita inizialmente 150 feriti secondo Lecornu. La Nación CR è l'unica a riportare il commento di Trump sull'immigrazione e l'età del giovane ferito (17 anni), mentre El Mundo non ne specifica l'età. El País ed El Mundo si concentrano sullo scontro politico Le Pen-Mélenchon, mentre El Deber si limita ai dati ufficiali del ministero."
   }
  },
  "luoghi": {
@@ -15997,13 +15816,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Londra",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zd8e45088": {
-   "n": "San Pietroburgo",
-   "p": [
-    "Russia"
    ],
    "pt": []
   },
@@ -17406,11 +17218,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z913f5f75": {
-   "n": "Vaticano",
-   "p": [],
-   "pt": []
-  },
   "z911d5560": {
    "n": "Paesi Bassi",
    "p": [
@@ -17601,13 +17408,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   "z801d5b25": {
    "n": "Cajamarca",
-   "p": [
-    "Peru"
-   ],
-   "pt": []
-  },
-  "zd52c8778": {
-   "n": "Lima",
    "p": [
     "Peru"
    ],
@@ -18209,13 +18009,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z1811d7ff": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zcd14ac35": {
    "n": "Nagoya",
    "p": [
@@ -18723,7 +18516,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z8ff121f7": 1,
   "z3701c534": 1,
   "zd6db5f2e": 1,
-  "zd8e45088": 2,
   "ze53ca5a2": 1,
   "ze9a03b12": 1,
   "z442e05cd": 1,
@@ -18937,7 +18729,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zbce42255": 1,
   "zc0acc3a0": 1,
   "zc6e81a5c": 1,
-  "z913f5f75": 1,
   "z911d5560": 1,
   "z6e430a9d": 1,
   "ze61d2caa": 1,
@@ -18966,7 +18757,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z2d879d46": 1,
   "ze0ef23e8": 1,
   "z801d5b25": 1,
-  "zd52c8778": 1,
   "z9db08014": 1,
   "z301cb502": 1,
   "z7c4f501e": 1,
@@ -19052,7 +18842,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z6661519a": 1,
   "z53e1424c": 1,
   "zdb2368fb": 1,
-  "z1811d7ff": 2,
   "zcd14ac35": 2,
   "z1682ecbc": 1,
   "z28fdc767": 1,
