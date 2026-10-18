@@ -161,7 +161,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "zae535027",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Il lanciatore Oller debutta con solidità nei playoff KBO dei Tigers",
    "orig": "Tigers ace Oller makes strong KBO postseason debut",
    "lead": "Il lanciatore americano Adam Oller, titolare dei Kia Tigers, ha esordito nei playoff del campionato sudcoreano di baseball KBO a Gwangju, il 18 ottobre, con una prestazione solida. Il debutto in postseason è avvenuto nella serie contro i Twins, in una fase decisiva per la squadra. La partita è al centro della cronaca della giornata. Lo riferisce Yonhap.",
