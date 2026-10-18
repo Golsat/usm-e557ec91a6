@@ -3,6 +3,1241 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zbf819f59",
+   "sez": "mondo",
+   "titolo": "Il Movimento dei Senegalesi dell'estero saluta il ritiro della candidatura di Macky Sall all'ONU",
+   "orig": "Retrait candidature de Macky pour l'ONU : Le Mouvement des Sénégalais de l’extérieur salue une décision responsable",
+   "lead": "Il Movimento dei Senegalesi dell'estero ha salutato positivamente il ritiro della candidatura dell'ex presidente senegalese Macky Sall al posto di segretario generale dell'Organizzazione delle Nazioni Unite. Il movimento considera la decisione responsabile e coerente con i principi della responsabilità politica. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/retrait-candidature-de-macky-pour-lonu-le-mouvement-des-senegalais-de-lexterieur-salue-une-decision-responsable_n_999001038.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T14:08+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z462bf6db",
+   "sez": "mondo",
+   "titolo": "Diaobé-Kabendou: 105 motocicli sequestrati e tre bar clandestini smantellati",
+   "orig": "Diaobé-Kabendou : 105 motos immobilisées et 3 bars clandestins démantelés lors d’une opération de sécurisation",
+   "lead": "La brigata territoriale di Diaobé, supportata da un plotone dell'ESI di Kounkané, ha condotto un'operazione di sicurizzazione nella comune di Diaobé-Kabendou. L'azione ha portato al sequestro di 105 motocicli e allo smantellamento di tre esercizi commerciali gestiti illegalmente. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Societe/diaobe-kabendou-105-motos-immobilisees-et-3-bars-clandestins-demanteles-lors-dune-operation-de-securisation_n_999001036.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T13:40+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z0541dfdf",
+   "sez": "mondo",
+   "titolo": "Nuovo contratto Akilee-Senelec in discussione: SOS Consommateurs minaccia azione legale",
+   "orig": "Akilee-Senelec, un nouveau contrat en gestation : SOS Consommateurs menace de porter plainte",
+   "lead": "L'organizzazione SOS Consommateurs minaccia di ricorrere in giudizio in merito a un nuovo accordo contrattuale in corso di negoziazione tra Senelec e la società Akilee. Il presidente Me Massokhna Kane ha denunciato la questione durante un'intervista radiofonica su Sud FM. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Entretien/akilee-senelec-un-nouveau-contrat-en-gestation-sos-consommateurs-menace-de-porter-plainte_n_999001035.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T13:37+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zfe4bb8ea",
+   "sez": "mondo",
+   "titolo": "La dignità di una decisione, la fedeltà a una convinzione",
+   "orig": "La dignité d'une décision, la fidélité à une conviction (par Alioune NDOYE)",
+   "lead": "L'analista Alioune Ndoye riflette sulla dignità delle scelte politiche e sulla coerenza dei principi nel contesto senegalese contemporaneo. L'articolo approfondisce il significato della lealtà ideologica nelle decisioni pubbliche che caratterizzano la vita politica del paese. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Contribution/la-dignite-dune-decision-la-fidelite-a-une-conviction-par-alioune-ndoye_n_999001034.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T13:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z7e733abb",
+   "sez": "mondo",
+   "titolo": "Chad: Jean Miguina ordinato ufficialmente vescovo di Sarh",
+   "orig": "Religion : Jean Miguina installé officiellement évêque de Sarh",
+   "lead": "Jean Miguina è stato ordinato ufficialmente come nuovo vescovo della diocesi di Sarh il 17 ottobre 2026. La cerimonia di ordinazione episcopale si è svolta presso la cattedrale Notre-Dame dell'Immacolata Concezione, riunendo fedeli e autorità religiose e amministrative. Lo riferisce Tchadinfos.",
+   "more": [
+    "Sarh è una città importante nel sud del Ciad, centro diocesano con una significativa comunità cattolica nella regione dell'Africa centrale."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/18/religion-jean-miguina-installe-officiellement-eveque-de-sarh/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-18T13:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z642b5baa",
+   "sez": "mondo",
+   "titolo": "Camerun: il Social Democratic Front dichiara di essere pronto per le elezioni 2027",
+   "orig": "Moïse Nguidjol : « au SDF, nous sommes prêts à aller aux élections municipales et législatives »",
+   "lead": "Il Social Democratic Front camerunese ha dichiarato di essere pienamente preparato per le elezioni legislative e municipali previste nel 2027. Il rappresentante Moïse Nguidjol ha confermato la prontezza del partito durante un'intervista televisiva nel programma Dash. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/18/moise-nguidjol-au-sdf-nous-sommes-prets-a-aller-aux-elections-municipales-et-legislatives/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z02fab2ea",
+   "sez": "mondo",
+   "titolo": "Camerun: Banda Kani ricorda che il paese ha altre leggende oltre Samuel Eto'o",
+   "orig": "« Samuel Eto’o n’est pas la seule légende que le Cameroun a produite » : Le recadrage de Banda Kani",
+   "lead": "L'uomo politico e panafricanista camerunese Banda Kani ha sottolineato che il Camerun ha prodotto numerose figure di eccezione oltre al calciatore Samuel Eto'o. Kani ha ribadito che altre personalità meritano il riconoscimento per i loro contributi significativi al paese. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/18/samuel-etoo-nest-pas-la-seule-legende-que-le-cameroun-a-produite-le-recadrage-de-banda-kani/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-18T14:35+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z738f958e",
+   "sez": "mondo",
+   "titolo": "Vaticano: Papa Leone XIV fa la sua prima apparizione pubblica dopo l'operazione",
+   "orig": "Première apparition de Léon XIV depuis son opération : ce qu'il a dit à la foule",
+   "lead": "Papa Leone XIV si è rivolto ai fedeli davanti alla basilica di San Pietro domenica 18 ottobre 2026, meno di una settimana dopo l'intervento chirurgico di asportazione di un nodulo al polmone. Il Pontefice ha ringraziato coloro che hanno pregato per lui ed è stato dimesso dall'ospedale il giorno precedente. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/premiere-apparition-de-leon-xiv-depuis-son-operation-ce-quil-a-dit-a-la-foule/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T12:16+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z9d1acaa4",
+   "sez": "mondo",
+   "titolo": "Benin: il governo rassicura sulla disponibilità di riserve di carburante",
+   "orig": "Bénin : les réserves de carburant peuvent couvrir 3 à 6 mois, selon Léandre Houngbédji",
+   "lead": "Il ministro porte-parola Wilfried Léandre Houngbédji ha dichiarato che il Benin dispone di riserve di carburante sufficienti per tre-sei mesi, con l'obiettivo di rassicurare la popolazione dopo giorni di code alle stazioni di servizio. Le dichiarazioni sono state rilasciate nella trasmissione Face à l'actualité. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-les-reserves-de-carburant-peuvent-couvrir-3-a-6-mois-selon-leandre-houngbedji/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T11:59+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-leandre-houngbedji-evoque-une-perception-positive-de-la-gouvernance-wadagni/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T14:08+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z8594f94a",
+   "sez": "mondo",
+   "titolo": "Guinea: la Corte d'appello della CRIEF riabilita Sékou Kaké",
+   "orig": "CRIEF : La Chambre des appels réhabilite Sékou Kaké et ordonne la restitution de ses biens attribués « à tort » au Dr Mohamed Diané",
+   "lead": "La Camera d'appello della Corte di repressione dei reati economici e finanziari ha ordinato la restituzione di tutti i beni immobili di Sékou Kaké, presidente della società SOGEFEL SARL, che erano stati attribuiti erroneamente al Dr Mohamed Diané, ex ministro. La decisione rappresenta una vittoria processuale per l'imprenditore. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/crief-la-chambre-des-appels-rehabilite-sekou-kake-et-ordonne-la-restitution-de-ses-biens-attribues-a-tort-au-dr-mohamed-diane/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T13:32+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zf02a7aa7",
+   "sez": "mondo",
+   "titolo": "Gabon: il colonnello Cyrille Moudoumounene assume il comando della Legione Ovest della Gendarmeria",
+   "orig": "Port-Gentil : le colonel Cyrille Moudoumounene à la tête de la Légion Ouest de la Gendarmerie",
+   "lead": "Il colonnello Cyrille Moudoumounene ha ufficialmente assunto il comando della Legione Ovest della Gendarmeria nazionale il 16 ottobre 2026. La nomina segue la scomparsa del precedente comandante colonnello Jean Délis Makita. La Legione Ovest ha sede a Port-Gentil ed è responsabile della sicurezza territoriale. Lo riferisce Gabonactu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/18/port-gentil-le-colonel-cyrille-moudoumounene-a-la-tete-de-la-legion-ouest-de-la-gendarmerie/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-18T14:21+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zb1451d82",
+   "sez": "mondo",
+   "titolo": "Gabon: l'acqua potabile ritorna a Ondogo dopo oltre vent'anni",
+   "orig": "Libreville : l’eau potable revient après plus de 20 ans d’attente à Ondogo dans le 6e arrondissement",
+   "lead": "Un progetto pilota di infrastrutture idriche ha portato acqua potabile nel quartiere Ondogo del sesto arrondissement di Libreville dopo più di vent'anni di assenza. Il 96 percento delle abitazioni sulla strada campione è già allacciato alla rete idrica, con previsioni di tremila ulteriori allacci. Lo riferisce Gabonactu.",
+   "more": [
+    "Libreville, capitale del Gabon, ha affrontato significative sfide infrastrutturali nella distribuzione dell'acqua potabile in diversi quartieri periferici della città."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/18/libreville-leau-potable-revient-apres-plus-de-20-ans-dattente-a-ondogo-dans-le-6e-arrondissement/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-18T13:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zb6df0df2",
+   "sez": "mondo",
+   "titolo": "Madagascar: mantiene il livello 2 nel ranking USA sulla lotta al traffico di persone",
+   "orig": "TRAITE DES PERSONNES – Madagascar maintient son classement au “niveau 2”, 171 victimes recensées en un an",
+   "lead": "Madagascar rimane al livello 2 della classificazione americana sulla lotta al traffico umano, secondo il rapporto annuale del Dipartimento di Stato USA pubblicato l'8 ottobre 2026. Il governo malgascio non soddisfa completamente gli standard minimi ma dimostra impegno significativo. Lo riferisce 2424.mg.",
+   "more": [
+    "Il livello 2 indica governi che non soddisfano gli standard minimi sulla lotta al traffico umano ma compiono sforzi sostanziali, posizionando Madagascar in categoria intermedia."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/traite-des-personnes-madagascar-maintient-son-classement-au-niveau-2-171-victimes-recensees-en-un-an",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-18T14:02+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z8cc25336",
+   "sez": "mondo",
+   "titolo": "Marocco: Re Mohammed VI nomina nuovo governo con prima donna primo ministro",
+   "orig": "MAGHREB – Mohammed VI confie 13 portefeuilles ministériels sur 31 confiés à des ministres reconduits",
+   "lead": "Il Re Mohammed VI ha nominato il nuovo governo marocchino guidato da Fatima Ezzahra El Mansouri, la prima donna a ricoprire la carica di primo ministro in Marocco. Tredici ministri uscenti sono stati ricondotti nell'esecutivo, che comprende 31 portafogli. I titolari degli Affari Interni ed Esteri mantengono le loro funzioni. Lo riferisce 2424.mg.",
+   "more": [
+    "Il Marocco, membro dell'Unione Africana, è una monarchia costituzionale del Nordafrica che registra un cambio storico nella leadership governativa con la nomina della prima donna primo ministro."
+   ],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/maghreb-mohammed-vi-confie-13-portefeuilles-ministeriels-sur-31-confies-a-des-ministres-reconduits",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-18T13:22+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z7df17a83",
+   "sez": "mondo",
+   "titolo": "Mauritania: il partito di Hatim ribadisce l'impegno nel dialogo inclusivo",
+   "orig": "حاتم يؤكد التزامه بإنجاح الحوار ويدعو إلى استيعاب مكونات الأغلبية",
+   "lead": "Il partito mauritano Unione e Rinnovamento ha ribadito il suo impegno nel promozione di processi di dialogo costruttivo e ha domandato l'inclusione di tutte le componenti della coalizione di maggioranza nei processi decisionali nazionali. Il movimento sottolinea l'importanza di una governance inclusiva e partecipativa. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/htm-ywkd-ltzmh-bnjh-lhwr-wyd-w-l-sty-b-mkwnt-lglby/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-18T13:24+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z411ca641",
+   "sez": "mondo",
+   "titolo": "Tunisia: fra vulnerabilità regionali e ristrutturazione interna",
+   "orig": "La Tunisie et le fardeau du non-Maghreb",
+   "lead": "Un analista esamina la condizione critica della Tunisia impegnata in ristrutturazione economica e politica, enfatizzando la sua vulnerabilità rispetto alle pressioni geopolitiche dei paesi confinanti terrestri. L'articolo approfondisce le sfide strutturali che il paese affronта nel contesto regionale magrebino contemporaneo. Lo riferisce Kapitalis.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/18/la-tunisie-et-le-fardeau-du-non-maghreb/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T12:22+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z424d0830",
+   "sez": "mondo",
+   "titolo": "Repubblica Democratica del Congo: confermato rilevamento di Ebola in nuova provincia",
+   "orig": "الكونغو الديمقراطية تعلن رصد إيبولا في ولاية جديدة",
+   "lead": "Le autorità sanitarie della Repubblica Democratica del Congo hanno confermato il rilevamento del virus Ebola in una nuova provincia del territorio nazionale. L'annuncio rappresenta un'estensione geografica dell'epidemia nel contesto dell'Africa centrale. Sono in corso operazioni di contenimento e sorveglianza epidemiologica della malattia infettiva. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533833/%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B1%D8%B5%D8%AF-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D9%81%D9%8A-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T15:36+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z55be1c48",
+   "sez": "mondo",
+   "titolo": "Tunisia: sequestrati cinque fucili artigianali a El Kef",
+   "orig": "القلعة الكبرى: حجز 5 بنادق يدويّة الصنع والاحتفاظ بصاحبها",
+   "lead": "Le autorità tunisine hanno sequestrato cinque fucili costruiti artigianalmente nel corso di un'operazione di sicurezza a El Kef, capoluogo della provincia omonima. Una persona sospettata è stata fermata. L'operazione rientra in campagne di sicurezza contro la circolazione illegale di armi nel paese. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D9%88%D9%86%D8%B3-%D8%AC%D9%87%D8%A7%D8%AA/1533851/%D8%A7%D9%84%D9%82%D9%84%D8%B9%D8%A9-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-%D8%AD%D8%AC%D8%B2-5-%D8%A8%D9%86%D8%A7%D8%AF%D9%82-%D9%8A%D8%AF%D9%88%D9%8A-%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%B9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D8%B8-%D8%A8%D8%B5%D8%A7%D8%AD%D8%A8%D9%87%D8%A7",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T15:00+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z984182ee",
+   "sez": "mondo",
+   "titolo": "Iran: Araghchi afferma che lo stretto di Hormuz riaprirà se USA accettano condizioni",
+   "orig": "عراقجي: إذا امتثلت أمريكا لشروطنا سيفتح مضيق هرمز في 6 أيام",
+   "lead": "Un rappresentante iraniano ha dichiarato che se gli Stati Uniti accetteranno le condizioni dell'Iran, lo stretto di Hormuz, via navigabile strategica del Golfo Persico, sarà riaperto nel giro di sei giorni. La dichiarazione è stata comunicata via Telegram. I negoziati rimangono questione complessa di tensione internazionale. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533832/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D8%A5%D8%B0%D8%A7-%D8%A7%D9%85%D8%AA%D8%AB%D9%84%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%84%D8%B4%D8%B1%D9%88%D8%B7%D9%86%D8%A7-%D8%B3%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D9%81%D9%8A-6-%D8%A3%D9%8A%D8%A7%D9%85",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T13:57+01:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B0%D1%80%D0%B0%D0%B3%D1%87%D0%B8-%D0%BF%D0%BE%D0%BD%D1%83%D0%B4%D0%B0%D1%82%D0%B0-%D0%B4%D0%BE-%D1%81%D0%B0%D0%B4-%D0%B7%D0%B0-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%80%D0%BC%D1%83%D1%81%D0%BA%D0%B8%D0%BE%D1%82-%D1%82%D0%B5%D1%81%D0%BD%D0%B5%D1%86-%D1%81%C3%A8-%D1%83%D1%88%D1%82%D0%B5-%D0%B5-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%81%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T15:17+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z8d4dc9e6",
+   "sez": "mondo",
+   "titolo": "Tunisia: gli investimenti esteri del 2025 hanno creato oltre 14.000 posti di lavoro",
+   "orig": "وزارة الاقتصاد: الاستثمارات الأجنبية في 2025 وفرت أكثر من 14 ألف موطن",
+   "lead": "Il ministero dell'Economia tunisino ha annunciato che gli investimenti esteri realizzati nel 2025 hanno generato la creazione di più di 14.000 nuovi posti di lavoro nel paese. Il dato rappresenta un risultato positivo nel contesto economico tunisino. Le informazioni riflettono l'impatto dei flussi di capitali stranieri. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533840/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-2025-%D9%88%D9%81%D8%B1%D8%AA-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-14-%D8%A3%D9%84%D9%81-%D9%85%D9%88%D8%B7%D9%86",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T12:49+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z7755ea6f",
+   "sez": "mondo",
+   "titolo": "Haiti: carovana regionale per formalizzazione di cinquemila imprese",
+   "orig": "iciHaïti - Caravane régionale : Vers la formalisation de 5,000 entreprises",
+   "lead": "Il ministro del Commercio e dell'Industria haitiano James Monazard ha lanciato una carovana regionale dedicata alla formalizzazione e rivitalizzazione del commercio e dell'imprenditoria. L'iniziativa mira a formalizzare circa cinquemila aziende nel territorio nazionale. Il lancio ufficiale si è svolto il 16 ottobre presso l'hotel Montana. Lo riferisce Haïti Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48692-icihaiti-caravane-regionale-vers-la-formalisation-de-5-000-entreprises.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-18T10:14-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z64abb5c5",
+   "sez": "mondo",
+   "titolo": "Haiti: la selezione under 17 prosegue i preparativi per il Mondiale Qatar 2026",
+   "orig": "iciHaïti - Mondial Qatar 2026 : Nos Grenadiers U17 poursuivent leur préparation",
+   "lead": "La selezione under 17 maschile di Haiti, allenata da Kowsky Sainvil, continua la preparazione tecnica in vista della partecipazione al Mondiale della categoria previsto in Qatar nel 2026. La squadra ha disputato tre gare amichevoli nel corso della seconda fase di preparazione a Ouanaminthe. Lo riferisce Haïti Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48690-icihaiti-mondial-qatar-2026-nos-grenadiers-u17-poursuivent-leur-preparation.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-18T09:45-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zf014c24d",
+   "sez": "mondo",
+   "titolo": "Haiti: commemorazione del duecentventesimo anniversario dell'assassinio di Dessalines",
+   "orig": "Haïti - 220e de Jean-Jacques Dessalines : Cérémonie d'offrande florale et de recueillement",
+   "lead": "Il primo ministro haitiano Fils-Aimé ha presieduto la cerimonia di commemorazione del duecentventesimo anniversario dell'assassinio del generale Jean-Jacques Dessalines, fondatore di Haiti. La cerimonia, svoltasi il 17 ottobre al Museo del Pantheon Nazionale Haitiano, ha compreso il deposito di una corona di fiori in omaggio. Lo riferisce Haïti Libre.",
+   "more": [
+    "Jean-Jacques Dessalines fu leader della Rivoluzione haitiana e fondatore dello Stato indipendente haitiano nel 1804, figura centrale nella storia caribica e della lotta all'abolizione della schiavitù."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48689-haiti-220e-de-jean-jacques-dessalines-ceremonie-d-offrande-florale-et-de-recueillement.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-18T09:30-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zef339a76",
+   "sez": "mondo",
+   "titolo": "Suriname: il controllo della tubercolosi rimane insufficiente",
+   "orig": "Tuberculosebestrijding Suriname schiet tekort",
+   "lead": "Il ricercatore Eric Commiesie ha messo in guardia sulla situazione del controllo della tubercolosi in Suriname, sottolineando il persistere di elevati tassi di infezione e mortalità fra i gruppi a rischio, inclusi pazienti HIV-positivi e consumatori di droga. Il Programma Nazionale Tubercolosi affronta carenze strutturali di personale e finanziamenti. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/tuberculosebestrijding-suriname-schiet-tekort/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-18T14:02+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zac08d9e3",
+   "sez": "mondo",
+   "titolo": "Suriname: l'ambasciatore vietnamita sottolinea importanza di rafforzare legami commerciali",
+   "orig": "Scheidende Vietnamese ambassadeur: Economische handel met Suriname verder versterken",
+   "lead": "L'ambasciatore non residente del Vietnam Bùi Văn Nghị, in visita di congedo presso il Suriname, ha discusso con la presidente Jennifer Geerlings-Simons dell'importanza di rafforzare ulteriormente i legami commerciali e diplomatici tra i due paesi. L'incontro ha affrontato varie aree di cooperazione bilaterale. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/scheidende-vietnamese-ambassadeur-economische-handel-met-suriname-verder-versterken/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-18T13:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zd6e988c8",
+   "sez": "mondo",
+   "titolo": "Bolivia: Urioste insedia i nuovi procuratori dipartimentali a Sucre",
+   "orig": "Urioste posesionará a nuevos fiscales departamentales este lunes en Sucre",
+   "lead": "Il procuratore generale Urioste ha programmato l'insediamento ufficiale dei nuovi procuratori dipartimentali per lunedì presso la sede della Procura Generale dello Stato nella città di Sucre. La cerimonia ufficiale si svolgerà alle ore 11:00 di mattina e sarà trasmessa in diretta sulla piattaforma Facebook per la trasparenza pubblica. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/urioste-posesionara-nuevos-fiscales-departamentales-lunes-sucre/20261018091129997797.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T09:11-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z1e422117",
+   "sez": "mondo",
+   "titolo": "Bolivia: i riciclatori di El Alto ricevono valutazione medica sui rischi professionali",
+   "orig": "Recicladores de El Alto reciben atención médica ante los riesgos de su actividad laboral",
+   "lead": "L'Istituto Nazionale di Salute Occupazionale della Bolivia ha condotto giornate di valutazione medica rivolte ai lavoratori del riciclaggio informale di El Alto, esposti a rischi professionali significativi. Nel corso del programma di screening, 27 persone hanno ricevuto attenzione medica individualizzata per valutare la loro salute. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/recicladores-alto-reciben-atencion-medica-riesgos-actividad-laboral/20261018081808997791.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T08:18-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z5c12e1bc",
+   "sez": "mondo",
+   "titolo": "A Sacaba inizia la Prima Promessa verso la festa della Virgen del Amparo",
+   "orig": "Sacaba vive hoy la Primera Promesa rumbo a la festividad de la Virgen del Amparo",
+   "lead": "A Sacaba, nel dipartimento di La Paz in Bolivia, inizia oggi la Prima Promessa verso la festività della Virgen del Amparo. Parteciperanno 37 fraternità a partire dalle 14:00 al primo convito della celebrazione religiosa, i cui giorni centrali si terranno il 14 e 15 novembre prossimi. Prima del grande evento, la statua della Vergine visiterà il comune di Colcapirhua. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cochabamba/sacaba-vive-hoy-primera-promesa-rumbo-festividad-virgen-amparo/20261018080831997788.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T08:08-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zbc0c9aaf",
+   "sez": "mondo",
+   "titolo": "Bolivia, cinque fiere del weekend con gastronomia e artigianato",
+   "orig": "¿Sin planes para este domingo? Cinco ferias ofrecen gastronomía, música y artesanías",
+   "lead": "Questo weekend in Bolivia si terranno cinque fiere dedicate a gastronomia, musica e artigianato tradizionale locale. Gli eventi sono previsti a Cochabamba, Quillacollo, Vinto, Santiváñez e Villa Rivero–Punata. I visitatori potranno degustare piatti regionali e scoprire la produzione artigianale. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cochabamba/planes-domingo-cinco-ferias-ofrecen-gastronomia-musica-artesanias/20261018074203997786.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T07:42-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z0f174832",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV celebra primo Angelus dopo il ricovero",
+   "orig": "Il primo Angelus di papa Leone XIV dopo il ricovero",
+   "lead": "Papa Leone XIV ha celebrato il primo Angelus pubblico dopo il suo ricovero presso la struttura sanitaria vaticana, riprendendo le sue attività ordinarie. La celebrazione rappresenta il ritorno del Pontefice alle occasioni pubbliche formali e segna il progresso clinico nel suo recupero. L'Angelus rimane uno dei momenti più importanti del calendario istituzionale vaticano. Lo riferisce Il Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/flashes/primo-angelus-papa-leone-ricovero/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T11:28+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z432c4c11",
+   "sez": "mondo",
+   "titolo": "Lituania, segnalato tentato sabotaggio ai danni di Starlink",
+   "orig": "Litauen meldet „versuchten Sabotageakt“ auf Starlink",
+   "lead": "La Lituania ha segnalato un tentato sabotaggio ai danni di infrastrutture Starlink nel Paese baltico. L'incidente rappresenta una minaccia alla continuità della connettività satellitare nella regione. Trend e fonti locali ritengono la sicurezza delle reti critiche una priorità strategica. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445465/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T15:17+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z42a9db14",
+   "sez": "mondo",
+   "titolo": "Austria, Billa chiede orari di apertura più lunghi ai negozi",
+   "orig": "Billa drängt auf längere Öffnungszeiten",
+   "lead": "La catena di supermercati austriaca Billa chiede al governo la concessione di orari di apertura prolungati. La richiesta rientra nel dibattito sulla regolamentazione dei tempi commerciali in Austria e sulla competitività del settore retail. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445458/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T14:37+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z83f78f06",
+   "sez": "mondo",
+   "titolo": "Austria, il ministro Tanner chiede estensione del servizio civile",
+   "orig": "Tanner wüscht sich frühere Verlängerung des Zivildienstes",
+   "lead": "Il ministro austriaco Tanner auspica un'estensione anticipata della durata del servizio civile nel Paese. La proposta risponde a esigenze di ricambio generazionale e disponibilità di risorse umane nel settore pubblico austriaco. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445456/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T13:37+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "za681339e",
+   "sez": "mondo",
+   "titolo": "Danimarca, allarme sonoro su Fyn proveniva da azienda",
+   "orig": "Høj lyd på Fyn var alarm fra større virksomhed",
+   "lead": "L'allarme acustico registrato sull'isola di Fyn in Danimarca proveniva da una grande azienda della zona. L'evento non ha comportato pericoli per la popolazione locale di Fyn. Lo riferisce DR Nyheder.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/luftalarm-i-nordfyns-kommune-er-en-fejl",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-18T14:05+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z8c958874",
+   "sez": "mondo",
+   "titolo": "Albania, proteste continuano per il sesto giorno nella capitale",
+   "orig": "Protests continue sixth day in a row in Albania’s capital",
+   "lead": "A Tirana, la capitale dell'Albania, proseguono le proteste per il sesto giorno consecutivo. I dissensi coinvolgono fasce della popolazione in agitazione contro le autorità locali e nazionali. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/protests-continue-sixth-day-in-a-row-in-albanias-capital-n392270",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-18T14:24+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z3ed62ae4",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, mostra sulla sostenibilità nella Biblioteca di Gyeonggi",
+   "orig": "경기도서관 개관 1주년 기획전시…‘플라스틱 바다, 데이터의 파도’",
+   "lead": "La Biblioteca provinciale di Gyeonggi, nel primo anniversario dall'apertura, presenta l'esposizione \"Plastic Sea, Waves of Data\". L'iniziativa affronta le tematiche della sostenibilità ambientale e dell'inquinamento marino attraverso visualizzazioni dati interattive. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/area/capital/1282963.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zbf6d59eb",
+   "sez": "mondo",
+   "titolo": "Francia, Parigi devastata da saccheggi: estrema destra trae vantaggi",
+   "orig": "“전쟁 치른 듯” 약탈·방화로 파괴된 파리…“모든 상황이 극우에 호재”",
+   "lead": "Parigi subisce devastazioni causate da saccheggi e incendi che ricordano gli effetti di un conflitto bellico. Gli analisti avvertono che il caos favorisce le spinte della destra estrema francese. Lo riferisce The Hankyoreh.",
+   "more": [
+    "I recenti disordini in Francia hanno causato gravi danni al tessuto urbano parigino, suscitando preoccupazioni sulla stabilità politica del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/international/europe/1282962.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z8677f420",
+   "sez": "mondo",
+   "titolo": "India, scompare l'esperto di pesca B. Madhusoodana Kurup",
+   "orig": "Fisheries expert B. Madhusoodana Kurup passes away",
+   "lead": "L'esperto di pesca indiano B. Madhusoodana Kurup è scomparso. La figura aveva fornito importanti contributi tecnici e scientifici nel settore ittico dello sviluppo indiano. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/fisheries-expert-b-madhusoodana-kurup-passes-away/article71599989.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T20:04+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z0efd462d",
+   "sez": "mondo",
+   "titolo": "India, team SITAM vincono premi nella competizione nazionale di innovazione",
+   "orig": "SITAM teams sweep top prizes in Rasthriya Innovation Challenge competition",
+   "lead": "I team SITAM hanno vinto i principali premi nella competizione nazionale Rasthriya Innovation Challenge. I successi testimoniano l'eccellenza nella ricerca e nello sviluppo tecnologico indiano. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/andhra-pradesh/sitam-teams-sweep-top-prizes-in-rasthriya-innovation-challenge-competition/article71599873.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T20:04+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z6efd7f9b",
+   "sez": "mondo",
+   "titolo": "India, ritardi burocratici per permessi edilizi a Thiruvananthapuram",
+   "orig": "Thiruvananthapuram Corporation administration faces flak for delay in clearing building permit applications",
+   "lead": "L'amministrazione comunale di Thiruvananthapuram affronta critiche per i ritardi nel rilascio dei permessi di costruzione. I blocchi burocratici ostacolano lo sviluppo immobiliare e gli investimenti locali. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporation-administration-faces-flak-for-delay-in-clearing-building-permit-applications/article71600245.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T20:03+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z789217c3",
+   "sez": "mondo",
+   "titolo": "Trump attacca immigrazione sui disordini francesi, Vance avverte gli Usa",
+   "orig": "'People with hatred in heart': Trump blames immigrants as France burns; Vance warns US",
+   "lead": "Donald Trump attribuisce i disordini francesi all'immigrazione, mettendo in guardia gli Stati Uniti dal pericolo. Il vicepresidente JD Vance reitera gli avvertimenti alle autorità americane sui rischi di politiche migratorie permissive. Lo riferisce Times of India.",
+   "more": [
+    "Le tensioni sociali in Francia coincidono con il dibattito politico americano sulla politica migratoria in vista delle scadenze elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/us/hatred-in-their-hearts-trump-links-france-violence-to-immigration-urges-border-closure/articleshow/135029155.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T18:33+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "za52113cb",
+   "sez": "mondo",
+   "titolo": "Cosa devono sapere i residenti Emirati sulla guerra Iran-Usa",
+   "orig": "Iran-US war: What UAE residents need to know today (Oct 18, 2026)",
+   "lead": "Gulf News fornisce una guida informativa ai residenti degli Emirati Arabi Uniti sugli sviluppi della guerra tra Iran e Stati Uniti al 18 ottobre 2026. Le informazioni mirano a chiarire l'impatto sulla regione del Golfo Persico. Lo riferisce Gulf News.",
+   "more": [
+    "Il conflitto Iran-Usa rappresenta una criticità geopolitica che coinvolge direttamente gli interessi regionali della Penisola Arabica e del Golfo."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/iran-us-war-what-uae-residents-need-to-know-today-oct-18-2026-1.500715111",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T18:09+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zfd52fab7",
+   "sez": "mondo",
+   "titolo": "Dubai, completati progetti urbani per 1,6 miliardi di dirham",
+   "orig": "Dubai Municipality completes Dh1.6 billion worth of urban development projects in 2026",
+   "lead": "Il Comune di Dubai ha completato progetti di sviluppo urbano per un valore di 1,6 miliardi di dirham nel 2026. Gli interventi rientrano nel piano di modernizzazione e espansione infrastrutturale dell'emirato. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/dubai-municipality-completes-dh16-billion-worth-of-urban-development-projects-in-2026-1.500715066",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T17:10+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z3ab18189",
+   "sez": "mondo",
+   "titolo": "Lo spirito imprenditoriale: Stephen Schwarzman (17)",
+   "orig": "The Entrepreneurial Spirit: Stephen Schwarzman (17)",
+   "lead": "Nikkei Asia prosegue la serie dedicata allo spirito imprenditoriale con il diciassettesimo profilo, incentrato su Stephen Schwarzman, figura di rilievo della finanza e dell'industria globale. Lo riferisce Nikkei Asia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/spotlight/my-personal-history/the-entrepreneurial-spirit-stephen-schwarzman-17",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z3421fa6f",
+   "sez": "mondo",
+   "titolo": "Le relazioni tra Turchia e Azerbaijan: spiegazione",
+   "orig": "What is happening in relations between Türkiye and Azerbaijan? - explainer",
+   "lead": "Un'analisi approfondita esamina lo stato delle relazioni bilaterali tra Turchia e Azerbaijan. Trend illustra i fattori che caratterizzano i rapporti tra i due Paesi caucasici legati da vincoli storici e strategici. Lo riferisce Trend.",
+   "more": [
+    "La Turchia e l'Azerbaijan condividono legami storici, linguistici e strategici nella regione caucasica."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4236276.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T18:17+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zb5998892",
+   "sez": "mondo",
+   "titolo": "Olanda felicita Azerbaijan per festa dell'Indipendenza",
+   "orig": "Netherlands Embassy congratulates Azerbaijan on Restoration of Independence Day (PHOTO)",
+   "lead": "L'Ambasciata dei Paesi Bassi in Azerbaijan ha rilasciato un messaggio di congratulazioni in occasione della Festa del Restauro dell'Indipendenza azerbaigiana. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4236272.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T17:24+04:00"
+    },
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/politics/4236266.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T16:43+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zb9d1586d",
+   "sez": "mondo",
+   "titolo": "Fitch assegna rating BB- a Jizzakh in Uzbekistan",
+   "orig": "Fitch assigns Uzbekistan's Jizzakh Region BB- rating with stable outlook",
+   "lead": "L'agenzia di rating Fitch ha assegnato alla regione di Jizzakh in Uzbekistan una valutazione BB- con prospettive stabili. Il giudizio riflette la situazione finanziaria e gli sviluppi economici locali della provincia. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4235996.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T17:17+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z58da33b3",
+   "sez": "mondo",
+   "titolo": "IOI: pianificazione integrale essenziale per investimenti nel Caspio",
+   "orig": "IOI sees integrated planning as key to safer Caspian investment (Exclusive)",
+   "lead": "L'International Oil Industry sostiene che la pianificazione integrata rappresenta il requisito essenziale per investimenti sicuri nel Mar Caspio. Lo studio esclusivo rilancia le priorità per lo sviluppo sostenibile della regione. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/4236101.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T16:00+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z899f3802",
+   "sez": "mondo",
+   "titolo": "Bangladesh, la bellezza della tarda stagione autunnale nelle zone rurali",
+   "orig": "White mist, green fields and golden sunsets: Late autumn in rural Bangladesh",
+   "lead": "Prothom Alo offre un reportage fotografico sulla bellezza della tarda stagione autunnale nelle zone rurali del Bangladesh, con immagini di nebbia bianca, campi verdi e tramonti dorati. Lo riferisce Prothom Alo (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/photo/yq8nueam8o",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T13:43+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zac286419",
+   "sez": "mondo",
+   "titolo": "Bangladesh, governo approva trasferimento Segreteria a Sher-e-Bangla Nagar",
+   "orig": "Cabinet approves proposal to relocate Secretariat to Sher-e-Bangla Nagar",
+   "lead": "Il governo del Bangladesh ha approvato la proposta di trasferire la Segreteria di Stato presso il complesso di Sher-e-Bangla Nagar. La decisione riorganizza l'apparato amministrativo della capitale. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "Il trasferimento della Segreteria rappresenta un'importante riforma organizzativa della pubblica amministrazione bangladese."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/mqbffep126",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T13:39+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "z9a2f672b",
+   "sez": "mondo",
+   "titolo": "Bangladesh, identificati 14 fattori dietro le perdite del Tunnel Karnaphuli",
+   "orig": "Bridge Authority flags 14 factors behind Karnaphuli Tunnel’s losses",
+   "lead": "L'autorità preposta ai ponti e alle infrastrutture del Bangladesh ha identificato 14 fattori che determinano le perdite finanziarie del Tunnel di Karnaphuli. L'analisi mira a risolvere le criticità della struttura strategica. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "Il Tunnel di Karnaphuli rappresenta un'opera infrastrutturale strategica per la connettività regionale e il commercio del Bangladesh."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/rkltkpa2k0",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T12:57+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zfd5b796f",
+   "sez": "mondo",
+   "titolo": "Bangladesh, solo 5,61 miliardi di taka erogati per le fabbriche chiuse",
+   "orig": "Only Tk 5.61b disbursed to reopen closed factories, despite Tk 200b allocation",
+   "lead": "Il governo del Bangladesh ha erogato soltanto 5,61 miliardi di taka su 200 miliardi stanziati per il programma di riapertura di fabbriche chiuse. La discrepanza rivela problemi significativi nell'attuazione del programma di sostegno industriale. Lo riferisce Prothom Alo (inglese).",
+   "more": [
+    "Le difficoltà nel disborsamento dei fondi rappresentano un ostacolo critico alla ripresa economica e all'occupazione nel settore manifatturiero."
+   ],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/business/o7yzkiminz",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T12:43+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zcad3cc54",
+   "sez": "mondo",
+   "titolo": "Bangladesh, corte sospende ordine di recupero tasse per Grameen Kalyan",
+   "orig": "Chamber court stays order to recover Tk 6.66b in outstanding taxes from Grameen Kalyan",
+   "lead": "La corte camerale del Bangladesh ha sospeso l'ordine di recupero di 6,66 miliardi di taka in imposte arretrate dall'organizzazione Grameen Kalyan. La decisione rinvia temporaneamente il procedimento di riscossione fiscale. Lo riferisce Prothom Alo (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/bangladesh/hz83usxzpw",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-18T12:31+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
+   "id": "zde2b6b2b",
+   "sez": "mondo",
+   "titolo": "Al di là delle violenze, la realtà sociale nei quartieri di Mauritius",
+   "orig": "Au-delà des violences, la réalité des quartiers",
+   "lead": "Un articolo approfondisce la realtà sociale complessa nei quartieri di Mauritius, cercando di andare al di là dei semplici episodi di violenza per offrire una comprensione più profonda delle dinamiche sociali locali. La testata Defimedia propone un'analisi investigativa che mira a fornire contesto alla situazione contemporanea dei quartieri mauriziani. L'articolo evidenzia la necessità di una lettura più articolata dei fenomeni sociali. Lo riferisce Defimedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "http://defimedia.info/au-dela-des-violences-la-realite-des-quartiers",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-10-18T16:00+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:01",
+   "uscita": "17"
+  },
+  {
    "id": "zc78507fe",
    "sez": "mondo",
    "titolo": "Il Npp celebra i successi elettorali con servizio religioso a Goaso",
@@ -5338,28 +6573,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Macedonia",
      "t": "2026-10-18T16:20+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "16:49",
-   "uscita": "17"
-  },
-  {
-   "id": "zaf73fc81",
-   "sez": "mondo",
-   "titolo": "Iran: offerta agli USA per riaprire lo Stretto di Hormuz rimane aperta",
-   "orig": "Арагчи: Понудата до САД за повторно отворање на Ормускиот теснец сè уште е на маса",
-   "lead": "Il ministro degli Esteri iraniano Abbas Araghchi ha dichiarato che la proposta dell'Iran agli Stati Uniti per riaprire lo Stretto di Hormuz rimane attualmente sul tavolo dei negoziati internazionali. La dichiarazione è stata rilasciata il 18 ottobre 2026 a Bagdad. Lo riferisce MIA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "MIA (inglese)",
-     "p": "XX",
-     "c": "Skopje",
-     "u": "https://mia.mk/story/%D0%B0%D1%80%D0%B0%D0%B3%D1%87%D0%B8-%D0%BF%D0%BE%D0%BD%D1%83%D0%B4%D0%B0%D1%82%D0%B0-%D0%B4%D0%BE-%D1%81%D0%B0%D0%B4-%D0%B7%D0%B0-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%80%D0%BC%D1%83%D1%81%D0%BA%D0%B8%D0%BE%D1%82-%D1%82%D0%B5%D1%81%D0%BD%D0%B5%D1%86-%D1%81%C3%A8-%D1%83%D1%88%D1%82%D0%B5-%D0%B5-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%81%D0%B0",
-     "angolo": "",
-     "atlas": "Macedonia",
-     "t": "2026-10-18T15:17+02:00"
     }
    ],
    "data": "18 ott",
@@ -11632,7 +12845,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zf36d2b49": "L'agenzia macedone riporta dati sulla partecipazione elettorale nel ballottaggio amministrativo",
   "zbacc7bd7": "L'agenzia macedone segue i risultati del campionato calcistico nazionale",
   "za291683e": "L'agenzia macedone riporta la posizione ferma del governo albanese di fronte ai disordini interni",
-  "zaf73fc81": "L'agenzia macedone riporta sviluppi nei dialoghi diplomatici tra Teheran e Washington su questioni strategiche globali",
   "zddf92e0e": "La tv pubblica montenegrina documenta le accuse rivolte al ministro della Difesa da parte della società civile",
   "z24df0a4e": "La stampa tanzana evidenzia iniziative di economia circolare e sostenibilità nel settore agricolo nazionale",
   "z68091d48": "La stampa tanzana riporta la cooperazione internazionale per lo sviluppo del settore agricolo nazionale",
@@ -11834,7 +13046,61 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z3a4605f6": "La testata documenta l'impatto economico locale dei disordini sociali che coinvolgono la zona transfrontaliera.",
   "zd72d0fa3": "La testata anticipa le scelte tattico-tecniche dell'allenatore monegasco per la sfida del fine settimana.",
   "ze4707965": "La testata approfondisce le sfide organizzative e sociali della principalità di fronte al cambiamento demografico.",
-  "z764a8c45": "La testata avvisa circa le modifiche della viabilità regionale derivanti da lavori programmati di manutenzione."
+  "z764a8c45": "La testata avvisa circa le modifiche della viabilità regionale derivanti da lavori programmati di manutenzione.",
+  "zbf819f59": "La testata riporta il sostegno della diaspora senegalese alla scelta dell'ex presidente",
+  "z462bf6db": "Resoconto di operazione di polizia con focus sui risultati tangibili del controllo territoriale",
+  "z0541dfdf": "Critica consumérista a un accordo commerciale tra il fornitore nazionale di energia e un operatore privato",
+  "zfe4bb8ea": "Pezzo di opinione che affronta temi di etica politica e coerenza decisionale",
+  "z7e733abb": "Cronaca di evento ecclesiastico in una diocesi dell'Africa centrale",
+  "z642b5baa": "Annuncio politico sulla disponibilità di un partito di opposizione a competere in elezioni prossime",
+  "z02fab2ea": "Intervento che corregge la narrazione sulla prominenza di una singola figura nazionale",
+  "z738f958e": "Resoconto della ripresa pubblica del Papa dopo trattamento medico",
+  "z9d1acaa4": "Rassicurazione governativa sulla disponibilità di risorse energetiche di fronte a preoccupazioni pubbliche",
+  "z8594f94a": "Decisione giudiziaria di annullamento di precedente attribuzione di beni immobili in contesto di criminalità economica",
+  "zf02a7aa7": "Cambio di comando militare seguente a evento di scomparsa del predecessore",
+  "zb1451d82": "Resoconto su progresso infrastrutturale urbano nella fornitura di servizi essenziali",
+  "zb6df0df2": "Valutazione internazionale sul contrasto al traffico di persone con focus sulla situazione malgascia",
+  "z8cc25336": "Annuncio ufficiale di composizione governativa con enfasi su elemento storico di genere",
+  "z7df17a83": "Dichiarazione di un partito mauritano sulla necessità di dialogo inclusivo nella governance nazionale",
+  "z411ca641": "Analisi delle vulnerabilità tunisine nel contesto regionale magrebino",
+  "z424d0830": "Comunicato sanitario su diffusione geografica di epidemia virale nella regione dell'Africa centrale",
+  "z55be1c48": "Resoconto di operazione di polizia su confisca di armi illegali",
+  "z984182ee": "Dichiarazione diplomatica iraniana sulle condizioni per risoluzione di blocco navale strategico",
+  "z8d4dc9e6": "Divulgazione di dato economico positivo sui risultati occupazionali dell'investimento estero",
+  "z7755ea6f": "Annuncio di programma governativo di supporto alla formalizzazione economica nelle regioni",
+  "z64abb5c5": "Resoconto sull'andamento della preparazione di una selezione giovanile per competizione mondiale",
+  "zf014c24d": "Resoconto di cerimonia commemorativa ufficiale su figura storica nazionale",
+  "zef339a76": "Allarme medico-epidemiologico sul controllo insufficiente di malattia infettiva in paese del Sudamerica",
+  "zac08d9e3": "Dialogo diplomatico su consolidamento dei rapporti commerciali bilaterali fra paesi distanti",
+  "zd6e988c8": "Annuncio di evento istituzionale per rinnovamento della leadership della magistratura inquirente",
+  "z1e422117": "Iniziativa di monitoraggio sanitario occupazionale per lavoratori informali esposti a rischi ambientali",
+  "z5c12e1bc": "Cronaca locale sulla festa religiosa boliviana.",
+  "zbc0c9aaf": "Agenda locale su iniziative culturali e commerciali del fine settimana.",
+  "z0f174832": "Breve di cronaca vaticana.",
+  "z432c4c11": "Cronaca sulla sicurezza delle infrastrutture digitali.",
+  "z42a9db14": "Cronaca economica sulle pressioni del commercio retail.",
+  "z83f78f06": "Cronaca sulla politica austriaca.",
+  "za681339e": "Breve di cronaca locale.",
+  "z8c958874": "Cronaca sulle agitazioni sociali urbane.",
+  "z3ed62ae4": "Cronaca culturale su iniziative museali.",
+  "zbf6d59eb": "Cronaca dalla stampa sudcoreana su crisi francese.",
+  "z8677f420": "Necrologio di personalità scientifica.",
+  "z0efd462d": "Cronaca su competizioni accademiche.",
+  "z6efd7f9b": "Cronaca sulla gestione amministrativa.",
+  "z789217c3": "Cronaca politica internazionale.",
+  "za52113cb": "Guida informativa su conflitto internazionale.",
+  "zfd52fab7": "Cronaca economica e infrastrutturale.",
+  "z3ab18189": "Profilo biografico di personalità imprenditoriale.",
+  "z3421fa6f": "Articolo esplicativo su relazioni internazionali.",
+  "zb5998892": "Cronaca diplomatica.",
+  "zb9d1586d": "Cronaca finanziaria e di rating.",
+  "z58da33b3": "Analisi esclusiva su strategie energetiche.",
+  "z899f3802": "Reportage fotografico su paesaggi naturali.",
+  "zac286419": "Cronaca amministrativa e politica.",
+  "z9a2f672b": "Cronaca su criticità infrastrutturale.",
+  "zfd5b796f": "Cronaca economica su attuazione programmi governativi.",
+  "zcad3cc54": "Cronaca legale e fiscale.",
+  "zde2b6b2b": "Defimedia propone un'analisi sociale dei quartieri mauriziani attraverso una prospettiva di lungo periodo."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -13813,13 +15079,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zaf73fc81": {
-   "n": "Bagdad",
-   "p": [
-    "Iraq"
-   ],
-   "pt": []
-  },
   "zddf92e0e": {
    "n": "Podgorica",
    "p": [
@@ -15171,6 +16430,383 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "France"
    ],
    "pt": []
+  },
+  "zbf819f59": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z462bf6db": {
+   "n": "Diaobé-Kabendou",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z0541dfdf": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zfe4bb8ea": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z7e733abb": {
+   "n": "Sarh",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z642b5baa": {
+   "n": "Camerun",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z02fab2ea": {
+   "n": "Camerun",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z738f958e": {
+   "n": "Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z9d1acaa4": {
+   "n": "Benin",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z8594f94a": {
+   "n": "Guinea",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zf02a7aa7": {
+   "n": "Port-Gentil",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "zb1451d82": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "zb6df0df2": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z8cc25336": {
+   "n": "Marocco",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z7df17a83": {
+   "n": "Mauritania",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "z411ca641": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z424d0830": {
+   "n": "Repubblica Democratica del Congo",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z55be1c48": {
+   "n": "El Kef",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z984182ee": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8d4dc9e6": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z7755ea6f": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z64abb5c5": {
+   "n": "Ouanaminthe",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zf014c24d": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zef339a76": {
+   "n": "Suriname",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "zac08d9e3": {
+   "n": "Suriname",
+   "p": [
+    "Suriname",
+    "Vietnam"
+   ],
+   "pt": []
+  },
+  "zd6e988c8": {
+   "n": "Sucre",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z1e422117": {
+   "n": "El Alto",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z5c12e1bc": {
+   "n": "Sacaba",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zbc0c9aaf": {
+   "n": "Cochabamba",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z0f174832": {
+   "n": "Città del Vaticano",
+   "p": [],
+   "pt": []
+  },
+  "z432c4c11": {
+   "n": "Lituania",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z42a9db14": {
+   "n": "Austria",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z83f78f06": {
+   "n": "Austria",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "za681339e": {
+   "n": "Fyn",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z8c958874": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z3ed62ae4": {
+   "n": "Gyeonggi",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zbf6d59eb": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z8677f420": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z0efd462d": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z6efd7f9b": {
+   "n": "Thiruvananthapuram",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z789217c3": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "za52113cb": {
+   "n": "Emirati Arabi Uniti",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zfd52fab7": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z3ab18189": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z3421fa6f": {
+   "n": "Caucaso",
+   "p": [
+    "Turkey",
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zb5998892": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zb9d1586d": {
+   "n": "Jizzakh",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z58da33b3": {
+   "n": "Mare Caspio",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z899f3802": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zac286419": {
+   "n": "Dhaka",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "z9a2f672b": {
+   "n": "Karnaphuli",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zfd5b796f": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zcad3cc54": {
+   "n": "Bangladesh",
+   "p": [
+    "Bangladesh"
+   ],
+   "pt": []
+  },
+  "zde2b6b2b": {
+   "n": "Mauritius",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -15443,7 +17079,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zf36d2b49": 1,
   "zbacc7bd7": 1,
   "za291683e": 1,
-  "zaf73fc81": 1,
   "zddf92e0e": 2,
   "z24df0a4e": 1,
   "z68091d48": 1,
@@ -15645,7 +17280,61 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z3a4605f6": 1,
   "zd72d0fa3": 1,
   "ze4707965": 1,
-  "z764a8c45": 1
+  "z764a8c45": 1,
+  "zbf819f59": 1,
+  "z462bf6db": 1,
+  "z0541dfdf": 1,
+  "zfe4bb8ea": 1,
+  "z7e733abb": 1,
+  "z642b5baa": 1,
+  "z02fab2ea": 1,
+  "z738f958e": 1,
+  "z9d1acaa4": 1,
+  "z8594f94a": 1,
+  "zf02a7aa7": 1,
+  "zb1451d82": 1,
+  "zb6df0df2": 1,
+  "z8cc25336": 1,
+  "z7df17a83": 1,
+  "z411ca641": 1,
+  "z424d0830": 1,
+  "z55be1c48": 1,
+  "z984182ee": 2,
+  "z8d4dc9e6": 1,
+  "z7755ea6f": 1,
+  "z64abb5c5": 1,
+  "zf014c24d": 1,
+  "zef339a76": 1,
+  "zac08d9e3": 1,
+  "zd6e988c8": 1,
+  "z1e422117": 1,
+  "z5c12e1bc": 1,
+  "zbc0c9aaf": 1,
+  "z0f174832": 1,
+  "z432c4c11": 1,
+  "z42a9db14": 1,
+  "z83f78f06": 1,
+  "za681339e": 1,
+  "z8c958874": 1,
+  "z3ed62ae4": 1,
+  "zbf6d59eb": 1,
+  "z8677f420": 1,
+  "z0efd462d": 1,
+  "z6efd7f9b": 1,
+  "z789217c3": 1,
+  "za52113cb": 1,
+  "zfd52fab7": 1,
+  "z3ab18189": 1,
+  "z3421fa6f": 1,
+  "zb5998892": 1,
+  "zb9d1586d": 1,
+  "z58da33b3": 1,
+  "z899f3802": 1,
+  "zac286419": 1,
+  "z9a2f672b": 1,
+  "zfd5b796f": 1,
+  "zcad3cc54": 1,
+  "zde2b6b2b": 1
  },
  "video": {},
  "pillole": []
