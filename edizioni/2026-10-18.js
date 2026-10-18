@@ -3,6 +3,54 @@ window.EDIZIONI["2026-10-18"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "zcd9f4320",
+   "sez": "mondo",
+   "titolo": "Giappone: aumentano i costi dei medicinali da banco a marzo",
+   "orig": "OTC類似薬、3月から負担増 線引き複雑、がん患者などにも条件",
+   "lead": "A partire da marzo 2026 il Giappone introdurrà un aumento dei costi per i medicinali da banco simili alle medicine prescritte. La nuova classificazione presenta criteri di applicazione complessi e avrà conseguenze significative anche sui pazienti oncologici, per i quali sono previste però particolari condizioni di tutela. Lo riferisce Asahi Shimbun.",
+   "more": [
+    "La revisione della tassazione sui farmaci rappresenta una manovra economica rilevante con conseguenze sul sistema sanitario nazionale e sul carico economico delle famiglie, soprattutto per chi soffre di patologie croniche."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBG2H7YVBGUTFL01RM.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-18T11:00+09:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "08:48",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z73055355",
+   "sez": "mondo",
+   "titolo": "Cina: 'seggiolino auto' pericoloso rimosso dalla vendita online",
+   "orig": "中国から来た50グラムの「チャイルドシート」 商品ページは消えた",
+   "lead": "Un prodotto cinese pubblicizzato come seggiolino auto per bambini dal peso di soli 50 grammi è stato identificato come pericoloso dagli esperti di sicurezza stradale giapponesi. La pagina commerciale del prodotto è stata rimossa dai principali siti di e-commerce, confermando i gravi rischi per la sicurezza dei minori. Lo riferisce Asahi Shimbun.",
+   "more": [
+    "Il caso evidenzia i pericoli derivanti dall'importazione di prodotti contraffatti che contravvengono alle normative di sicurezza internazionali, mettendo a rischio i consumatori più vulnerabili."
+   ],
+   "fonti": [
+    {
+     "n": "Asahi Shimbun (giapponese)",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "http://www.asahi.com/articles/ASVBJ33C9VBJUTIL02SM.html?ref=rss",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-18T06:00+09:00"
+    }
+   ],
+   "data": "17 ott",
+   "ora": "08:48",
+   "uscita": "mattino"
+  },
+  {
    "id": "z6e899700",
    "sez": "mondo",
    "titolo": "La mamma della migliore panetteria del mondo: 'È il mio medico e il mio psicologo'",
@@ -10051,7 +10099,9 @@ window.EDIZIONI["2026-10-18"] = {
   "z65f3f2c2": "Prothom Alo copre gli sviluppi delle competizioni di cricket internazionali che coinvolgono il Bangladesh.",
   "z8a52f4ac": "Prothom Alo analizza il nesso tra qualità istituzionali e attrazione di investimenti diretti esteri.",
   "zf4cd16e5": "AKIpress riferisce sui progetti di sviluppo infrastrutturale e scolastico nel Kirghizistan.",
-  "za8ffa00b": "AKIpress copre gli incontri diplomatici ad alto livello tra i leader caucasici."
+  "za8ffa00b": "AKIpress copre gli incontri diplomatici ad alto livello tra i leader caucasici.",
+  "zcd9f4320": "Analisi dell'impatto sanitario ed economico delle politiche farmaceutiche sulle fasce di popolazione vulnerabile.",
+  "z73055355": "Segnalazione di pericoli per la sicurezza dei consumatori nel commercio online transfrontaliero."
  },
  "contesti": {
   "z3699f7d3": "Nei giorni precedenti era già stato segnalato un attacco a un fotografo statunitense nella stessa zona della Cisgiordania, episodio che aveva acceso i timori per la sicurezza di operatori e osservatori stranieri nella regione, in un contesto di crescente tensione legato agli insediamenti.",
@@ -12968,6 +13018,20 @@ window.EDIZIONI["2026-10-18"] = {
     "Armenia"
    ],
    "pt": []
+  },
+  "zcd9f4320": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z73055355": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -13350,7 +13414,9 @@ window.EDIZIONI["2026-10-18"] = {
   "z65f3f2c2": 1,
   "z8a52f4ac": 1,
   "zf4cd16e5": 1,
-  "za8ffa00b": 1
+  "za8ffa00b": 1,
+  "zcd9f4320": 2,
+  "z73055355": 2
  },
  "video": {},
  "pillole": []
