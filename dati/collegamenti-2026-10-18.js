@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z38422541":[["2026-10-16-sera","z2c5ea364","16 ott","Sally Rooney vieta la vendita dei suoi libri nel Regno Unito per sostegno a Palestine Action"],["2026-10-15","rooney","15 ott","Libri di Sally Rooney ritirati dagli scaffali nel Regno Unito per il suo sostegno a Palestine Action"]]});
