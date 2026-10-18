@@ -3,30 +3,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "zdf5de5ad",
-   "sez": "mondo",
-   "titolo": "Parigi si risveglia tra vetrine saccheggiate e danni da protesta",
-   "orig": "Parisians wake up to protest damage and looted shops",
-   "lead": "Sabato violenti scontri hanno attraversato la Francia durante nuove manifestazioni contro le condizioni nelle scuole e il caro vita, lasciando Parigi con negozi saccheggiati e danni diffusi. I disordini si sono concentrati nella capitale, dove gruppi di manifestanti hanno affrontato le forze dell'ordine nella notte tra sabato e domenica. Le proteste rientrano in un'ondata di malcontento sociale che negli ultimi giorni ha coinvolto più paesi europei, alimentata dal rincaro del costo della vita e dal deterioramento dei servizi pubblici. Lo riferisce BBC News.",
-   "more": [
-    "La Francia ha conosciuto negli ultimi anni ricorrenti mobilitazioni sociali legate all'inflazione e ai tagli alla spesa pubblica, movimenti che spesso si intrecciano con le tensioni politiche attorno alle scelte di bilancio del governo."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-18T10:58+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
    "id": "zc400f65c",
    "sez": "mondo",
    "titolo": "Le proteste per il caro vita si estendono a Lisbona e Milano",
@@ -80,35 +56,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
     }
    ],
    "data": "18 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
-   "id": "zf4e32e4e",
-   "sez": "sport",
-   "titolo": "Roma batte il Genoa 2-0, bene Castro e primo gol per Lulli",
-   "orig": "Roma-Genoa 2-0, le pagelle: Castro (7,5) gol stupendo, Lulli (7) prima volta in Serie A",
-   "lead": "La Roma di Gasperini ha superato 2-0 il Genoa all'Olimpico, risalendo a due punti dalla vetta della classifica occupata dall'Inter. Nel match, segnato dal ritorno amaro di De Rossi sulla panchina avversaria, si sono distinti Castro, autore di un gol spettacolare, e il giovane Lulli, premiato con il primo gol in Serie A nella sua carriera e accolto dall'abbraccio dei compagni. Lo riferisce Il Messaggero.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/sport/schede/roma_genoa_pagelle_castro_lulli_de_rossi_classifica_serie_a-9831759.html",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "Il Messaggero – Sport",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/sport/schede/lulli_chi_e_roma_genoa_primo_gol_serie_a_eta_altezza_carriera_ruolo_vita_privata_stipendio-9831753.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
    "ora": "13:25",
    "uscita": "13"
   },
@@ -230,29 +177,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z3d4a57c0",
-   "sez": "mondo",
-   "titolo": "Un drone fa scattare l'allarme in Lituania e Lettonia e si schianta al confine",
-   "orig": "Drone provoca alertas na Lituânia e na Letónia e despenha-se em território lituano",
-   "lead": "Un drone non identificato ha provocato nella notte un allarme aereo in Lituania e Lettonia, spingendo la NATO a far decollare caccia per intercettarlo. L'oggetto si è infine schiantato vicino a Pasvalys, nel nord della Lituania, in prossimità del confine con la Lettonia. L'episodio si inserisce in una serie di incidenti con velivoli non identificati che negli ultimi tempi hanno interessato i cieli dei paesi baltici. Lo riferisce RTP.",
-   "more": [
-    "Negli ultimi anni i paesi baltici, membri della NATO confinanti con la Russia e la Bielorussia, hanno segnalato più volte incursioni di droni o violazioni dello spazio aereo, episodi che alimentano le tensioni con Mosca nel contesto della guerra in Ucraina."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/mundo/drone-provoca-alertas-na-lituania-e-na-letonia-e-despenha-se-em-territorio-lituano_n1772465",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
    "id": "z3d79b994",
    "sez": "economia",
    "titolo": "Malesia, i fondi per Sabah copriranno anche gli stipendi pubblici",
@@ -271,27 +195,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
     }
    ],
    "data": "18 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
-   "id": "z97825111",
-   "sez": "italia",
-   "titolo": "Scontri a Milano, chi sono i giovani fermati tra minorenni e look da 'maranza'",
-   "orig": "Scontri Milano, chi sono i ragazzi fermati: look da maranza e video su TikTok. I genitori increduli: «Iscritti alla privata. Metà sono minori, l'altra metà pirla»",
-   "lead": "Dopo gli scontri di sabato a Milano, durante una manifestazione contro il caro vita, è emerso che molti dei fermati sono minorenni, alcuni iscritti a scuole private, i cui genitori si sono detti sorpresi e ignari di quanto i figli stessero facendo. Il corteo, partito pacificamente, è degenerato in disordini con danni e tensioni con le forze dell'ordine. Lo riferisce Il Messaggero.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/italia/scontri_milano_genitori_ragazzi_scuola_privata_chi_sono_look_maranza_video_tiktok_ultime_notizie-9832898.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
    "ora": "13:25",
    "uscita": "13"
   },
@@ -437,28 +340,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zfdfe5486",
-   "sez": "mondo",
-   "titolo": "Macron parlerà alla nazione dopo il caos e gli scontri in Francia",
-   "orig": "Διάγγελμα Μακρόν μετά το χάος και τις αιματηρές συγκρούσεις στη Γαλλία",
-   "lead": "Il presidente francese Emmanuel Macron si rivolgerà alla nazione domenica alle 21 (ora greca) dopo i gravi episodi di violenza che hanno scosso il paese nel fine settimana, legati alla protesta contro il caro vita e le carenze dei servizi pubblici. L'annuncio è arrivato dall'ufficio presidenziale, mentre i disordini hanno lasciato dietro di sé danni e tensioni diffuse in diverse città francesi. Lo riferisce ERT News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ERT News",
-     "p": "XX",
-     "c": "Atene",
-     "u": "https://www.ertnews.gr/eidiseis/diaggelma-makron-meta-to-xaos-kai-tis-aimatires-sygkrouseis-sti-gallia/",
-     "angolo": "",
-     "atlas": "Greece",
-     "t": "2026-10-18T11:07+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
    "id": "zc1cf1e8d",
    "sez": "mondo",
    "titolo": "Una testa di porcello lasciata davanti a casa del co-fondatore di AUR, accuse a Simion",
@@ -477,27 +358,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
     }
    ],
    "data": "18 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
-   "id": "z462f3570",
-   "sez": "mondo",
-   "titolo": "\"Con l'aiuto di Dio\", Papa riappare e torna a parlare a Piazza San Pietro",
-   "orig": "\"Com a ajuda de Deus\". Papa reaparece e volta a falar à Praça de São Pedro",
-   "lead": "Papa Leone XIV esce dall'ospedale Gemelli di Roma dopo un intervento chirurgico che ha confermato la diagnosi di cancro ai polmoni. In una riapparizione pubblica, torna a rivolgersi ai fedeli riuniti in Piazza San Pietro. Lo riferisce RTP.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/mundo/com-a-ajuda-de-deus-papa-reaparece-e-volta-a-falar-a-praca-de-sao-pedro_n1772467",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
    "ora": "13:25",
    "uscita": "13"
   },
@@ -633,30 +493,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zf538403d",
-   "sez": "mondo",
-   "titolo": "Oltre 900 arrestati nelle proteste violente di Parigi",
-   "orig": "Mbi 900 të arrestuar në protestën në Paris, Macron: Nuk ka vend për dhunë në republikën tonë",
-   "lead": "Oltre 900 persone arrestate nelle manifestazioni violente di sabato a Parigi. Più di 500.000 persone hanno manifestato in decine di città francesi. Incendi, saccheggi e una vittima tra i manifestanti. Il presidente Macron si rivolgerà ai francesi domenica sera. Lo riferisce Euronews Albania.",
-   "more": [
-    "Le proteste francesi di sabato hanno assunto caratteri critici con episodi di violenza urbana significativi, spingendo il governo a una comunicazione urgente alla nazione."
-   ],
-   "fonti": [
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/mbi-900-te-arrestuar-ne-protesten-ne-paris-macron-nuk-ka-vend-per-dhune-ne-republiken-tone/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-18T11:20+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
    "id": "zc3389b26",
    "sez": "mondo",
    "titolo": "Varsavia vuole vietare i monopattini elettrici dal centro città",
@@ -694,37 +530,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Argentina",
      "t": "2026-10-18T11:14+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:25",
-   "uscita": "13"
-  },
-  {
-   "id": "zeb8609e8",
-   "sez": "mondo",
-   "titolo": "ECOWAS e Confederazione del Sahel concordano sui principi delle relazioni",
-   "orig": "إيكواس وكونفدرالية الساحل تتفقان على المبادئ الموجهة لعلاقاتهما",
-   "lead": "ECOWAS e Confederazione del Sahel concordano i principi guida che orienteranno le loro relazioni future. L'accordo rappresenta un passo importante nella cooperazione tra i due organismi regionali africani e nella gestione delle questioni geopolitiche continentali. Lo riferisce Alakhbar.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Alakhbar",
-     "p": "XX",
-     "c": "Nouakchott",
-     "u": "https://www.alakhbar.info/6ad4aa0531bb580001d176a5/",
-     "angolo": "",
-     "atlas": "Mauritania",
-     "t": "2026-10-18T11:14+00:00"
-    },
-    {
-     "n": "Roya News",
-     "p": "XX",
-     "c": "Amman",
-     "u": "https://royanews.tv/news/397939",
-     "angolo": "",
-     "atlas": "Jordan",
-     "t": "2026-10-18T14:17+03:00"
     }
    ],
    "data": "18 ott",
@@ -1649,41 +1454,8 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "top": true
   },
   {
-   "id": "za229b547",
-   "sez": "mondo",
-   "titolo": "Kiev lancia oltre mille droni sulla Russia: in fiamme siti petroliferi a San Pietroburgo",
-   "orig": "Blazes ignite at St. Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia",
-   "lead": "Domenica l'Ucraina ha lanciato più di mille droni contro il territorio russo, in uno dei suoi bombardamenti aerei più massicci di sempre. A San Pietroburgo gli attacchi hanno incendiato un terminal per l'esportazione del petrolio. Secondo fonti ucraine, durante la notte sono stati colpiti anche impianti petroliferi, un magazzino di Ozon e un centro dati di VKontakte. L'offensiva prende di mira infrastrutture energetiche e servizi digitali di grande importanza per la Russia.",
-   "more": [
-    "San Pietroburgo è la seconda città della Russia e un importante porto sul Baltico, da cui passano consistenti esportazioni di petrolio. Ozon è uno dei principali gruppi russi del commercio elettronico, mentre VKontakte è il social network più diffuso nel Paese."
-   ],
-   "fonti": [
-    {
-     "n": "CBC News",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.cbc.ca/news/world/fire-russian-oil-sites-ukrain-drone-attacks-9.7385770?cmp=rss",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-18T06:48-04:00"
-    },
-    {
-     "n": "Ukrinform",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://www.ukrinform.net/rubric-ato/4175563-drones-strike-oil-facilities-ozon-warehouse-and-vkontakte-data-center-in-st-petersburg.html",
-     "angolo": "",
-     "atlas": "Ukraine",
-     "t": "2026-10-18T09:58+03:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:03",
-   "uscita": "13"
-  },
-  {
    "id": "zc5a32d4f",
-   "sez": "ambiente",
+   "sez": "mondo",
    "titolo": "Un uomo ripulisce gratis i sentieri della sua città e conquista i social",
    "orig": "Free clear-up has big engagement on social media",
    "lead": "Nel Regno Unito un uomo ha intrapreso una battaglia personale contro le erbacce e i sentieri invasi dalla vegetazione della sua città, pulendoli senza chiedere alcun compenso. Il suo impegno volontario ha cambiato in modo visibile l'aspetto dei luoghi ed è diventato molto popolare sui social network, dove ha raccolto un ampio seguito. Una piccola iniziativa individuale dimostra così di poter avere effetti concreti sulla vita di un'intera comunità locale. Lo riferisce BBC News.",
@@ -1865,93 +1637,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Montenegro",
      "t": "2026-10-18T12:43+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:03",
-   "uscita": "13"
-  },
-  {
-   "id": "za1dc74fa",
-   "sez": "prima",
-   "titolo": "Papa Leone XIV, prima apparizione pubblica dopo l'intervento",
-   "orig": "‘With help of God & your prayers’: Pope makes first public appearance after surgery",
-   "lead": "Papa Leone XIV è apparso in pubblico per la prima volta dopo l'intervento chirurgico per un tumore al polmone. Il pontefice ha ringraziato per le preghiere e la vicinanza ricevute durante la convalescenza. Ha poi confermato che riprenderà i suoi impegni in modo graduale, affidandosi alla preghiera e all'aiuto di Dio. Il prossimo appuntamento importante è previsto a novembre e comprende un viaggio all'estero in Sud America. Lo riferisce Times of India.",
-   "more": [
-    "Leone XIV è il primo Papa nato negli Stati Uniti. Prima dell'elezione, Robert Francis Prevost aveva svolto a lungo la sua missione in Perù, Paese di cui ha anche la cittadinanza."
-   ],
-   "fonti": [
-    {
-     "n": "Times of India",
-     "p": "XX",
-     "c": "Mumbai",
-     "u": "https://timesofindia.indiatimes.com/world/europe/with-help-of-god-your-prayers-pope-leo-xiv-makes-first-public-appearance-after-lung-cancer-surgery/articleshow/135027289.cms",
-     "angolo": "",
-     "atlas": "India",
-     "t": "2026-10-18T16:12+05:30"
-    },
-    {
-     "n": "Sydney Morning Herald",
-     "p": "XX",
-     "c": "Sydney",
-     "u": "https://www.smh.com.au/world/pope-leo-emerges-from-hospital-after-cancer-surgery-20261018-p616ix.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-     "angolo": "",
-     "atlas": "Australia",
-     "t": "2026-10-18T21:55+11:00"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/pope-leo-greets-crowds-at-vatican-in-first-event-since-cancer-surgery",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-18T18:20+08:00"
-    },
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-18T10:54+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/il-papa-si-affaccia-per-langelus-riprendero-le-attivita-gradualmente-_74dcf119-92a0-46e7-986f-16343122a321.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T12:44+02:00"
-    },
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445448/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-18T12:36+02:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/il-papa-ho-sentito-il-vostro-sostegno-6e382942-d997-4dd7-aa90-1a42a19e8fa6.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T10:27+00:00"
-    },
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-18T11:09+00:00"
     }
    ],
    "data": "18 ott",
@@ -3039,7 +2724,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   },
   {
    "id": "zb30e8441",
-   "sez": "mondo",
+   "sez": "viaggi",
    "titolo": "Il turismo minaccia di spingere gli elefanti fuori dai pascoli di Mattupetty, a Munnar",
    "orig": "Tourism infrastructure threatens to push elephants out of Mattupetty grasslands in Keralam’s Munnar",
    "lead": "A Munnar, in Kerala, nuove infrastrutture turistiche previste nei pascoli naturali di Mattupetty rischiano di compromettere l'accesso a cibo e acqua per gli elefanti. Gli ambientalisti temono che possa aggravarsi il conflitto tra esseri umani ed elefanti, e chiedono lo stop immediato e una valutazione ecologica indipendente. Il KLDB sostiene che il piano rispetti un turismo responsabile e non alteri la topografia. Lo riferisce The Hindu.",
@@ -3271,37 +2956,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Malawi",
      "t": "2026-10-18T10:53+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "13:03",
-   "uscita": "13"
-  },
-  {
-   "id": "z9db5bc41",
-   "sez": "mondo",
-   "titolo": "Albania, sesto giorno di protesta davanti al Ministero dell'Istruzione: studente strappa il certificato di Olimpiade",
-   "orig": "Nis protesta e gjashtë para Ministrisë së Arsimit, i riu gris certifikatën e Olimpiadës",
-   "lead": "Nel sesto giorno di protesta degli studenti, a Tirana i manifestanti si sono radunati davanti al Ministero dell'Istruzione. Tra bandiere nazionali e richieste di dimissioni del premier Edi Rama, alla mobilitazione si sono uniti altri cittadini. Un giovane ha strappato il proprio certificato di Olimpiade. Lo riferisce Euronews Albania.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/nis-protesta-e-gjashte-para-ministrise-se-arsimit-i-riu-gris-certifikaten-e-olimpiades-se-historise/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-18T10:55+00:00"
-    },
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/live-protesta-ne-diten-e-gjashte-nis-grumbullimi-te-ministria-e-arsimit-rama-shteti-nuk-dorezohet-para-dhunes/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-18T11:07+00:00"
     }
    ],
    "data": "18 ott",
@@ -3784,7 +3438,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z8b75a349": "Al Jazeera mette al centro il dramma umano delle famiglie separate e mette in dubbio la reale tenuta del cessate il fuoco.",
   "z3aab2d1c": "ANSA dà risalto al numero record di fermi comunicato dalla polizia francese.",
   "zc243347e": "Al Jazeera punta sui giocatori più noti, mentre The Guardian sottolinea la pressione che grava sul Manchester United.",
-  "za229b547": "CBC News insiste sulla scala eccezionale dell'attacco, mentre Ukrinform elenca nel dettaglio gli obiettivi colpiti.",
   "zc5a32d4f": "BBC News mette in luce l'impatto concreto dell'iniziativa e il successo che ha ottenuto in rete.",
   "zed1c9933": "Il South China Morning Post evidenzia il divario tra l'eccellenza della ricerca e la sua applicazione concreta.",
   "z30c77402": "Orizzonte Scuola sottolinea il divario territoriale che penalizza il Sud e le Isole.",
@@ -3793,7 +3446,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z963cc9bc": "BBC News propone una guida per spiegare il bilancio al grande pubblico.",
   "z7894fcbf": "BBC News mette in risalto la dimensione solidale dell'evento.",
   "z32102fc3": "Vijesti mette l'accento sull'esperienza NBA del nuovo arrivato.",
-  "za1dc74fa": "Times of India evidenzia la gratitudine del Papa e il viaggio in Sud America previsto a novembre.",
   "za1cbf353": "The Kathmandu Post sottolinea l'incertezza dei commercianti sulla durata della riapertura.",
   "z072133dc": "NME dà risalto al carattere inatteso della collaborazione.",
   "zee3d7c78": "Daily Maverick mette in dubbio la fattibilità delle promesse elettorali.",
@@ -3850,7 +3502,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zf2f08244": "Il quotidiano malese dà rilievo alla dimensione personale e religiosa della visita di cordoglio.",
   "zc0f95582": "Il quotidiano cipriota presenta la scoperta paleontologica con tono divulgativo.",
   "zb335c007": "Il sito malawiano segue il dibattito sportivo con una lettura critica sulla gestione tecnica della nazionale.",
-  "z9db5bc41": "Il sito albanese racconta la protesta studentesca dando spazio ai gesti dei partecipanti e alle richieste politiche.",
   "zc5e17520": "Il sito albanese riporta l'appello religioso come intervento morale sulla vita pubblica.",
   "z9c692677": "Il portale bosniaco riporta la versione del governo albanese, senza approfondire le prove a sostegno delle accuse.",
   "z43333c60": "Il portale bosniaco dà rilievo alle domande rivolte a Washington sul ruolo americano nel voto.",
@@ -3889,44 +3540,35 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z9f77f02e": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
   "z5874bdd9": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
   "z8edb2a47": "ABC Color, quotidiano paraguaiano, riporta notizie internazionali di agenzia con sintesi rapida.",
-  "zdf5de5ad": "BBC sottolinea l'entità dei danni materiali lasciati dai disordini notturni.",
   "zc400f65c": "The Guardian mette in evidenza la diffusione internazionale delle proteste sul caro vita e sulla casa.",
   "zd8c96154": "Haaretz denuncia le conseguenze ambientali e sociali dei percorsi turistici promossi dagli insediamenti.",
-  "zf4e32e4e": "Il Messaggero valorizza l'esordio al gol di Lulli e la prestazione della Roma nella corsa al vertice.",
   "zbf6593c2": "Il Post segnala la crescita dei comitati di protesta contro i nuovi impianti attorno a Milano.",
   "z251616dd": "The Hindu riporta le critiche di Rahul Gandhi al sistema scolastico indiano.",
   "z2c799086": "Orizzonte Scuola riporta l'annuncio ministeriale sugli investimenti per l'edilizia scolastica siciliana.",
   "z9150704d": "Kurdistan24 riporta informazioni da una fonte locale sulla presenza residua del PKK nell'area.",
   "z7484971b": "Premium Times propone il modello nigeriano come esempio di accountability sanitaria per l'OMS.",
-  "z3d4a57c0": "RTP riferisce la mobilitazione dei caccia NATO dopo l'allarme per il drone.",
   "z3d79b994": "Malay Mail riporta la precisazione del politico sulla destinazione dei fondi federali per Sabah.",
-  "z97825111": "Il Messaggero ricostruisce il profilo dei giovani fermati dopo gli scontri milanesi.",
   "zcfb5fa50": "Kurdistan24 presenta la road-map governativa per diversificare l'economia regionale.",
   "z741ab896": "RNZ riporta l'appello delle autorità sanitarie agli studenti prima degli esami.",
   "zd374ecf6": "RTP documenta l'impegno degli attivisti per mantenere l'accampamento nella piazza di Porto.",
   "z0d49dae3": "Folha de S.Paulo fornisce le previsioni meteo in vista dell'evento politico in Avenida Paulista.",
   "zb96032e1": "ERT News riporta l'assegnazione dei premi del concorso orafo nell'ambito della fiera Kosmima.",
-  "zfdfe5486": "ERT News annuncia il discorso alla nazione di Macron dopo i disordini.",
   "zc1cf1e8d": "HotNews riporta la denuncia e le accuse politiche legate all'episodio intimidatorio.",
-  "z462f3570": "Agenzia portoghese che copre la riapparizione del Papa dopo l'intervento",
   "z5082a3fe": "Giornale nigeriano che riporta appello contro violenza elettorale",
   "z39b3acfb": "Giornale coreano che riporta sentenza per abuso su minori",
   "zc60c1a52": "Giornale filippino che copre le misure precauzionali scolastiche",
   "z0e069143": "Testata italiana che segue l'evoluzione della crisi siderurgica",
   "z83f55d94": "Testata italiana che riporta le dichiarazioni della leader Pd",
   "z1ce6605c": "Testata italiana che segue la vertenza dei trasportatori meridionali",
-  "zf538403d": "Agenzia albanese che riporta i disordini francesi",
   "zc3389b26": "Testata polacca che copre decisioni delle autorità cittadine",
   "za99e9039": "Quotidiano argentino che affronta il tema della maternità con prospettiva inclusiva",
-  "zeb8609e8": "Agenzia mauritana che copre diplomazia regionale africana",
   "z756204b8": "Giornale coreano che analizza dinamiche di politica interna",
   "z0324a7f0": "Giornale indiano che segue vertenze ambientali territoriali",
   "z9ca633e3": "Giornale economico giapponese che analizza geopolitica dell'innovazione tecnologica",
   "zeccf4617": "Giornale paraguayano che copre aspetti umanitari del conflitto ucraino"
  },
  "contesti": {
-  "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
-  "za1dc74fa": "Robert Francis Prevost è stato eletto l'8 maggio 2025 come primo pontefice statunitense e ha scelto il nome di Leone XIV. Di recente si è sottoposto a un intervento chirurgico per un tumore al polmone, a cui è seguita la convalescenza. In questo periodo ha ricevuto preghiere e messaggi di vicinanza. Oggi è tornato in pubblico per la prima volta e ha annunciato una ripresa graduale degli impegni, in vista del viaggio in Sud America previsto a novembre."
+  "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United."
  },
  "cronologie": {
   "zc243347e": [
@@ -3945,24 +3587,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    [
     "Oggi",
     "Leeds-Manchester United e doppietta di Messi nel 3-1 ad Atlanta"
-   ]
-  ],
-  "za1dc74fa": [
-   [
-    "8 maggio 2025",
-    "Elezione di Leone XIV al soglio pontificio"
-   ],
-   [
-    "Nelle scorse settimane",
-    "Intervento chirurgico per un tumore al polmone e convalescenza"
-   ],
-   [
-    "Oggi",
-    "Prima apparizione pubblica dopo l'operazione"
-   ],
-   [
-    "Novembre",
-    "Previsto il viaggio apostolico in Sud America"
    ]
   ]
  },
@@ -3999,46 +3623,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
     }
    ],
    "divergono": "Delle quattro voci, solo Al Jazeera e il primo articolo di The Guardian riguardano Leeds-Manchester United. Al Jazeera mette in primo piano i giocatori Bruno Fernandes e Marcus Rashford, ma ne conosciamo solo titolo e occhiello. The Guardian centra il racconto sulla crisi del Manchester United: la pressione su Carrick, l'avvio negativo e le critiche di Lisandro Martínez alla società. Il confronto resta quindi limitato."
-  },
-  "za1dc74fa": {
-   "voci": [
-    {
-     "n": "Times of India",
-     "c": "Mumbai",
-     "p": "XX",
-     "t": "Giudizio parziale: disponibili solo titolo e occhiello. Mette al centro la prima apparizione pubblica dopo l'operazione per tumore al polmone. Cita la gratitudine del Papa per le preghiere e il ritorno graduale ai suoi impegni, «con l'aiuto di Dio».",
-     "b": "t"
-    },
-    {
-     "n": "Sydney Morning Herald",
-     "c": "Sydney",
-     "p": "XX",
-     "t": "Giudizio parziale: disponibili solo titolo e occhiello. Riferisce in modo neutro la prima apparizione pubblica di Leone XIV dopo l'intervento per tumore al polmone. Il titolo parla di uscita dall'ospedale.",
-     "b": "t"
-    },
-    {
-     "n": "The Straits Times",
-     "c": "Singapore",
-     "p": "XX",
-     "t": "Dispaccio Reuters. Riporta età (71 anni), data dell'intervento (13 ottobre), asportazione del lobo inferiore del polmone destro e dimissioni il 17 ottobre. Ricorda le speculazioni sugli effetti della malattia sul pontificato e sottolinea la «voce ferma» del Papa, affacciatosi «senza aiuto».",
-     "b": "a"
-    },
-    {
-     "n": "ANSA",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Racconta l'Angelus in cronaca, descrivendo un Papa in «discreta forma» che legge con lentezza ma senza esitazioni. Riporta ampie citazioni: i ringraziamenti al personale del Gemelli, la vicinanza ai malati e il commento al Vangelo («rendere a Cesare»). Non fornisce dettagli clinici.",
-     "b": "a"
-    },
-    {
-     "n": "ORF",
-     "c": "Vienna",
-     "p": "XX",
-     "t": "Dà ampio spazio alle dichiarazioni del chirurgo Stefano Margaritora, citato da Vatican News: intervento di routine, «paziente ideale», guarigione in circa dieci giorni. Riporta il viaggio in Uruguay, Argentina e Perù dal 6 al 17 novembre, le udienze annullate fino a martedì e le eventuali terapie, ancora da decidere.",
-     "b": "a"
-    }
-   ],
-   "divergono": "I fatti di base coincidono tra le testate: dimissioni dal Gemelli il giorno prima, Angelus, ripresa graduale delle attività. Cambiano gli aspetti messi in primo piano. ORF è l'unica a riportare il parere del chirurgo, il viaggio in America Latina, le udienze annullate e l'incertezza su chemioterapia o radioterapia in attesa dell'esame istologico. The Straits Times inserisce le speculazioni sul futuro del pontificato e precisa i dati dell'intervento. ANSA si concentra sulle parole del Papa, compreso il commento al Vangelo, e sul suo aspetto. Times of India e Sydney Morning Herald sono valutabili solo dai titoli."
   }
  },
  "luoghi": {
@@ -4164,13 +3748,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "za229b547": {
-   "n": "San Pietroburgo",
-   "p": [
-    "Russia"
-   ],
-   "pt": []
-  },
   "zc5a32d4f": {
    "n": "Regno Unito",
    "p": [
@@ -4224,13 +3801,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Belgrado",
    "p": [
     "Serbia"
-   ],
-   "pt": []
-  },
-  "za1dc74fa": {
-   "n": "Città del Vaticano",
-   "p": [
-    "Vatican"
    ],
    "pt": []
   },
@@ -4628,13 +4198,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z9db5bc41": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
   "zc5e17520": {
    "n": "Tirana",
    "p": [
@@ -4902,13 +4465,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zdf5de5ad": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zc400f65c": {
    "n": "Milano e Lisbona",
    "p": [
@@ -4922,13 +4478,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "p": [
     "Israel",
     "Palestine"
-   ],
-   "pt": []
-  },
-  "zf4e32e4e": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -4967,24 +4516,10 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z3d4a57c0": {
-   "n": "Pasvalys",
-   "p": [
-    "Lithuania"
-   ],
-   "pt": []
-  },
   "z3d79b994": {
    "n": "Sabah",
    "p": [
     "Malaysia"
-   ],
-   "pt": []
-  },
-  "z97825111": {
-   "n": "Milano",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -5023,23 +4558,11 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zfdfe5486": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zc1cf1e8d": {
    "n": "Bucarest",
    "p": [
     "Romania"
    ],
-   "pt": []
-  },
-  "z462f3570": {
-   "n": "Roma",
-   "p": [],
    "pt": []
   },
   "z5082a3fe": {
@@ -5084,13 +4607,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zf538403d": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zc3389b26": {
    "n": "Varsavia",
    "p": [
@@ -5102,13 +4618,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Buenos Aires",
    "p": [
     "Argentina"
-   ],
-   "pt": []
-  },
-  "zeb8609e8": {
-   "n": "Nouakchott",
-   "p": [
-    "Mauritania"
    ],
    "pt": []
   },
@@ -5160,7 +4669,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z8b75a349": 1,
   "z3aab2d1c": 2,
   "zc243347e": 3,
-  "za229b547": 2,
   "zc5a32d4f": 1,
   "zed1c9933": 1,
   "z30c77402": 2,
@@ -5169,7 +4677,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z963cc9bc": 1,
   "z7894fcbf": 1,
   "z32102fc3": 1,
-  "za1dc74fa": 2,
   "za1cbf353": 1,
   "z072133dc": 1,
   "zee3d7c78": 1,
@@ -5226,7 +4733,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zf2f08244": 1,
   "zc0f95582": 1,
   "zb335c007": 1,
-  "z9db5bc41": 1,
   "zc5e17520": 1,
   "z9c692677": 1,
   "z43333c60": 1,
@@ -5265,36 +4771,28 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z9f77f02e": 1,
   "z5874bdd9": 1,
   "z8edb2a47": 1,
-  "zdf5de5ad": 2,
   "zc400f65c": 2,
   "zd8c96154": 1,
-  "zf4e32e4e": 1,
   "zbf6593c2": 1,
   "z251616dd": 1,
   "z2c799086": 1,
   "z9150704d": 1,
   "z7484971b": 1,
-  "z3d4a57c0": 2,
   "z3d79b994": 1,
-  "z97825111": 2,
   "zcfb5fa50": 1,
   "z741ab896": 1,
   "zd374ecf6": 2,
   "z0d49dae3": 1,
   "zb96032e1": 1,
-  "zfdfe5486": 2,
   "zc1cf1e8d": 1,
-  "z462f3570": 1,
   "z5082a3fe": 1,
   "z39b3acfb": 1,
   "zc60c1a52": 1,
   "z0e069143": 1,
   "z83f55d94": 1,
   "z1ce6605c": 1,
-  "zf538403d": 1,
   "zc3389b26": 1,
   "za99e9039": 1,
-  "zeb8609e8": 2,
   "z756204b8": 1,
   "z0324a7f0": 1,
   "z9ca633e3": 1,
