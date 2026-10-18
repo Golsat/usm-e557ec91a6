@@ -664,7 +664,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z6cda6323",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Moyen-Chari: le autorità si mobilitano contro il verme di Guinea a Massakaba",
    "orig": "Moyen-Chari : les autorités mobilisées contre le ver de Guinée à Massakaba",
    "lead": "A Massakaba, cantone del dipartimento del Lac Iro nella provincia del Moyen-Chari, in Ciad, sabato 17 ottobre 2026 si è tenuto un incontro di sensibilizzazione contro il verme di Guinea. Presente il ministro della Sanità pubblica e della Prevenzione, Abdelmadjid Abderahim Mahamat. L'obiettivo è rafforzare l'impegno delle comunità e accelerare il percorso di contrasto alla malattia. Lo riferisce Tchadinfos.",
@@ -1040,7 +1040,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z73da7ed3",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Sunil Gavaskar: l'India dovrebbe smettere di cercare un sostituto per l'insostituibile Hardik Pandya",
    "orig": "India should stop seeking replacement for ‘irreplaceable’ Hardik Pandya, says Sunil Gavaskar",
    "lead": "L'ex campione Sunil Gavaskar invita la nazionale indiana di cricket a smettere di cercare un sostituto di Hardik Pandya, che definisce insostituibile. Le dichiarazioni arrivano nel dibattito sulle scelte della squadra. Gavaskar esprime quindi un parere netto sul valore del giocatore. Lo riferisce The Indian Express.",
@@ -1349,6 +1349,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Lebanon",
      "t": "2026-10-18T11:53+03:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/middle-east/its-family-lebanese-villagers-dread-looming-un-peacekeeper-pull-out",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-18T12:40+08:00"
     }
    ],
    "data": "18 ott",
@@ -2508,7 +2517,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z7eb91d25",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Nella contea di Lainya parte una campagna di vaccinazione antipolio di quattro giorni",
    "orig": "Central Equatoria’s Lainya County launches four-day polio vaccination campaign",
    "lead": "Nella contea di Lainya, nello Stato dell'Equatoria Centrale, è partita una campagna di vaccinazione antipolio della durata di quattro giorni. Il commissario ad interim Laku Micah Wani ha invitato genitori e tutori a far vaccinare tutti i bambini sotto i cinque anni. L'obiettivo è proteggere i minori dalla malattia e rafforzare la prevenzione sul territorio. Lo riferisce Eye Radio.",
@@ -2639,50 +2648,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z46fa0487",
-   "sez": "mondo",
-   "titolo": "Francia: il momento in cui crolla lo storico municipio di Limoges",
-   "orig": "Frankreich: Der Moment, in dem das historische Rathaus von Limoges einstürzt",
-   "lead": "Un filmato mostra il momento in cui crolla lo storico municipio di Limoges, nel corso di una giornata di proteste in Francia segnata dalla violenza. Il municipio è stato distrutto, diversi negozi sono stati saccheggiati e alcuni manifestanti e poliziotti sono rimasti feriti. La giornata di protesta è stata quindi tra le più gravi del movimento. Lo riferisce Der Spiegel.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-18T11:56+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:18",
-   "uscita": "mattino"
-  },
-  {
-   "id": "za313aa0f",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV dopo l'operazione al polmone: dovrebbe viaggiare in Sudamerica",
-   "orig": "Lungenkrebs-Operation: Papst Leo XIV. soll nach Rückkehr in den Vatikan nach Südamerika reisen",
-   "lead": "Dopo l'intervento chirurgico per un tumore al polmone, Papa Leone XIV dovrebbe compiere un viaggio in Sudamerica una volta rientrato in Vaticano. Il medico del Pontefice ha definito il Papa «un paziente assolutamente ideale» e ha escluso motivi sanitari che impediscano la trasferta. Dopo alcune preoccupazioni legate al viaggio, la conferma dell'agenda resta quindi valida. Lo riferisce Der Spiegel.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/panorama/leute/lungenkrebs-operation-papst-leo-xiv-soll-nach-rueckkehr-in-den-vatikan-nach-suedamerika-reisen-a-6c52e604-d93f-4820-837c-97cdb546e215#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-18T11:18+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:18",
-   "uscita": "mattino"
-  },
-  {
    "id": "za858ad31",
    "sez": "mondo",
    "titolo": "Francia: queste violenze giovano solo ai partiti estremi",
@@ -2720,28 +2685,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-18T07:23+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:18",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z04d4c445",
-   "sez": "mondo",
-   "titolo": "Berlino, sondaggi per il Senato rosso-verde-rosso: la Linke ottiene gran parte delle proprie richieste",
-   "orig": "Linke, Grüne, SPD: Berliner Sondierungspapier ohne Maß und Mitte",
-   "lead": "Nelle trattative per un Senato rosso-verde-rosso a Berlino, il partito della Linke ha ottenuto gran parte delle sue richieste. Secondo il commento della Frankfurter Allgemeine Zeitung, il documento risultante è privo di misura e di una linea di centro. Il risultato somiglia, a giudizio del quotidiano, a una pubblicità per la CDU. Lo riferisce FAZ.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "FAZ",
-     "p": "DE",
-     "c": "Francoforte",
-     "u": "https://www.faz.net/aktuell/politik/inland/berliner-sondierungsergebnis-ohne-mass-und-mitte-201597754.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-18T09:00+00:00"
     }
    ],
    "data": "18 ott",
@@ -2794,7 +2737,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z7857365e",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Una tatuatrice apre uno studio per donne e offre gratis le areole a chi ha avuto il cancro al seno",
    "orig": "Mara abriu um estúdio de tatuagens para mulheres – e tatua aréolas de graça a quem teve cancro da mama",
    "lead": "A Torres Vedras, in Portogallo, ha aperto il Lonely Hearts Club Tattoo, uno studio pensato come spazio confortevole per le donne. Dall'ottobre scorso lo studio propone gratuitamente tatuaggi realistici dell'areola a chi ha avuto un cancro al seno. L'iniziativa unisce attività professionale e sostegno alle pazienti oncologiche. Lo riferisce Público.",
@@ -2882,7 +2825,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z4506c458",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Bangladesh alle prese con un’epidemia mortale di morbillo; un’inchiesta evidenzia lacune nelle vaccinazioni",
    "orig": "Bangladesh battles deadly measles outbreak as investigation highlights vaccination gaps",
    "lead": "Il Bangladesh affronta un’epidemia di morbillo letale, mentre un’inchiesta mette in luce lacune nella campagna vaccinale. Il lavoro si basa sulla revisione di documenti dell’OMS e su interviste con più di una dozzina tra scienziati, operatori sanitari e funzionari. Le carenze nelle vaccinazioni emergono come nodo centrale del problema. Lo riferisce Premium Times.",
@@ -2969,28 +2912,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z69e3e4c9",
-   "sez": "mondo",
-   "titolo": "I luoghi delle proteste e delle devastazioni in Francia",
-   "orig": "I luoghi delle proteste e delle devastazioni in Francia",
-   "lead": "In Francia le proteste hanno lasciato devastazioni: negozi assaltati e saccheggiati un po’ ovunque e, in diverse città, anche sedi di municipi e uffici pubblici. Il titolo indica i luoghi colpiti dalle violenze. Il quadro dei danni è quello descritto nel sommario del pezzo. Lo riferisce Il Post.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/18/luoghi-proteste-francia-devastazioni/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T08:00+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:15",
-   "uscita": "mattino"
-  },
-  {
    "id": "zff7bc295",
    "sez": "mondo",
    "titolo": "Molto giovani i partecipanti agli scontri nelle piazze",
@@ -3014,7 +2935,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zbadc14dd",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Colmare un vuoto: gli studenti con disabilità affrontano rischi maggiori per la salute mentale",
    "orig": "FILLING A GAP: Disabled students face increased mental health risks, UWC student researcher finds",
    "lead": "Più dell’80% degli studenti con disabilità è risultato positivo allo screening per la depressione in un nuovo studio guidato da un ricercatore dell’Università del Western Cape. Dietro i numeri c’è un’esperienza personale: le difficoltà vissute a scuola hanno orientato il lavoro di ricerca. Lo riferisce Daily Maverick.",
@@ -3283,7 +3204,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zbd55f25c",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Cure contro il tumore al seno sempre migliori, ma la prevenzione resta indietro",
    "orig": "Terapija za rak dojke sve bolja, prevencija izostaje",
    "lead": "In Montenegro le donne non si ammalano di tumore al seno molto più spesso delle altre europee, ma il tasso di mortalità è il più alto. Secondo il dottor Nikola Milašević il cancro al seno nasce dall’intreccio di stile di vita, ormoni, fattori ambientali ed ereditarietà. Il servizio segnala anche pazienti che si ammalano senza una causa chiara. Lo riferisce Vijesti.",
@@ -3502,29 +3423,8 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z1c2dbe24",
-   "sez": "mondo",
-   "titolo": "In Portogallo proseguono gli accampamenti per il diritto alla casa",
-   "orig": "Manifestantes pelo direito à habitação mantêm acampamentos em Lisboa e Porto",
-   "lead": "In Portogallo, i manifestanti per il diritto alla casa restano accampati a Lisbona e Porto dopo la giornata di proteste di sabato. Chi protesta ha passato la notte al Rossio, nella capitale, e in Praça D. João I, a Porto. La contestazione riguarda anche l'aumento del costo della vita. L'emittente aggiorna le informazioni su questa ondata di mobilitazione. Lo riferisce RTP.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
-   "ora": "12:15",
-   "uscita": "mattino"
-  },
-  {
    "id": "z37a52645",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Iúri Leitão e Ivo Oliveira conquistano l'argento nel madison",
    "orig": "Iúri Leitão e Ivo Oliveira conquistam prata em madison",
    "lead": "Iúri Leitão e Ivo Oliveira, campioni olimpici, hanno conquistato oggi l'argento nella prova di madison ai Mondiali su pista di Shanghai. È la quarta medaglia del Portogallo nella rassegna cinese. La madison è una gara su pista a coppie, disputata dai due corridori in staffetta. Il risultato arriva durante una manifestazione iridata di alto livello. Lo riferisce RTP.",
@@ -3644,7 +3544,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z70ee5827",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "A Retie il mondiale di Backyard Ultra: si corre fino all'ultimo superstite",
    "orig": "Retie in de ban van WK Backyard Ultra: lopers gaan door tot er nog maar één overblijft",
    "lead": "A Retie, in Belgio, nel Domein Beverdonk, è in corso il campionato mondiale di Backyard Ultra per squadre nazionali. La gara è partita sabato, insieme a squadre di decine di altri Paesi. Ogni ora i corridori percorrono un giro di 6,706 chilometri e chi non è nello spazio di partenza all'ora successiva viene eliminato. La competizione termina solo quando resta un unico corridore, quindi nessuno sa in anticipo quanto durerà. Lo riferisce VRT NWS.",
@@ -3658,28 +3558,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Belgium",
      "t": "2026-10-18T09:28+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:15",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z1a343721",
-   "sez": "mondo",
-   "titolo": "Ampio varco nella recinzione dell'aeroporto di Lipsia, polizia in perlustrazione",
-   "orig": "Groot gat in hek van luchthaven Leipzig in Duitsland: politie zoekt terrein af",
-   "lead": "All'aeroporto di Lipsia, in Germania, le autorità hanno scoperto un ampio varco nella recinzione. La polizia sta perlustrando l'area alla ricerca di persone, oggetti e veicoli che non dovrebbero trovarsi lì. La pista settentrionale di decollo e atterraggio è stata chiusa. La chiusura incide sull'operatività dello scalo. Lo riferisce VRT NWS.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "VRT NWS",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.vrt.be/vrtnws/nl/2026/10/18/duitsland-leipzig-gat-in-hek.rss.xml",
-     "angolo": "",
-     "atlas": "Belgium",
-     "t": "2026-10-18T07:57+00:00"
     }
    ],
    "data": "18 ott",
@@ -3710,7 +3588,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z85eb3bab",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Kulusevski torna nella rosa del Tottenham dopo oltre un anno",
    "orig": "Dejan Kulusevski med i Tottenhams trupp – första gången på över ett år",
    "lead": "Dejan Kulusevski è tornato nella rosa del Tottenham per la partita contro il Coventry, dopo oltre un anno di assenza. Il giocatore svedese sarà in panchina, come ha spiegato l'allenatore Roberto De Zerbi. Il tecnico ha confermato la sua presenza nella lista per il match. Il ritorno del giocatore chiude un lungo periodo di attesa. Lo riferisce SVT Nyheter.",
@@ -3957,6 +3835,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Hungary",
      "t": "2026-10-18T09:54+02:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/18/luoghi-proteste-francia-devastazioni/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T08:00+00:00"
     }
    ],
    "data": "18 ott",
@@ -4177,28 +4064,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-18T07:00+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:15",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zc43e7e80",
-   "sez": "mondo",
-   "titolo": "Francia, arresti saliti a 1.800 mentre intere strade di Parigi sono «devastate»",
-   "orig": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-   "lead": "In Francia sono più di 1.800 le persone arrestate dopo le proteste di sabato, ha dichiarato il ministro dell'Interno Laurent Nunez. Su X, il ministro ha scritto che «la Repubblica non cederà», mentre oltre 500 tra poliziotti, gendarmi e vigili del fuoco sono rimasti feriti negli scontri. Si tratta delle peggiori proteste degli ultimi anni nel Paese. Lo riferisce The Guardian.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-18T09:15+00:00"
     }
    ],
    "data": "18 ott",
@@ -4515,7 +4380,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z8fdb8880",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Qian Jiang, ex esperto del Johns Hopkins, entra in un ospedale cinese",
    "orig": "Qian Jiang, former Johns Hopkins’ eye institute expert, joins hospital in China",
    "lead": "Qian Jiang, senior eye expert della Johns Hopkins University negli Stati Uniti, è tornato in Cina a tempo pieno per ricerche sui trapianti oculari. Per oltre vent'anni ha guidato l'hub di dati genetici del Wilmer Eye Institute. È stato accolto con una cerimonia il 5 ottobre allo Sir Run Run Shaw Hospital di Hangzhou, parte della Zhejiang University. Durante la cerimonia ha annunciato che lavorerà anche sulle «cellule virtuali», modelli computerizzati. Lo riferisce South China Morning Post.",
@@ -4667,7 +4532,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z9db01381",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Karnataka rende obbligatoria la presenza notturna dei medici negli ospedali taluk e nei PHC",
    "orig": "Karnataka makes night-time attendance mandatory for doctors at taluk hospitals, PHCs",
    "lead": "Il governo del Karnataka ha reso obbligatoria la presenza notturna dei medici negli ospedali di taluk e nei centri sanitari primari (PHC). Il provvedimento riguarda anche i dipendenti a contratto e in outsourcing che lavorano in tutti i dipartimenti, uffici, consigli, enti e istituzioni sovvenzionate dallo Stato. Lo riferisce The Hindu.",
@@ -6433,7 +6298,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z6a8e7b38",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Cibo o medicine? Le scelte impossibili dei malati cronici in Sudan",
    "orig": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
    "lead": "In Sudan i costi dei farmaci sono in crescita a causa della guerra civile, e molti malati cronici si trovano a dover scegliere tra cibo e medicine. Il conflitto rende sempre più difficile acquistare terapie essenziali per molte famiglie. Il servizio racconta le decisioni quotidiane di chi convive con malattie croniche. Lo riferisce Al Jazeera.",
@@ -6587,7 +6452,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z17df9eb1",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "I Kangaroos accendono la marcia e chiudono la resistenza dei Bombers",
    "orig": "Kangaroos flick switch to kill off Bombers' resistance",
    "lead": "Il North Melbourne è in posizione privilegiata per vincere la minor premiership dell'AFLW, cioè la stagione regolare. Decisivo il finale: la squadra ha segnato gli ultimi sette gol per respingere la sfida dell'Essendon. Il racconto della partita si concentra sul momento chiave del match. Lo riferisce ABC News Australia.",
@@ -6821,6 +6686,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-18T09:37+02:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T09:16+00:00"
     }
    ],
    "data": "18 ott",
@@ -6887,28 +6761,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Bhutan",
      "t": "2026-10-18T08:51+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:12",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z00ca3ab3",
-   "sez": "mondo",
-   "titolo": "Huanggang affollato al primo weekend lungo di viaggi",
-   "orig": "Huanggang busy on first long weekend travel rush",
-   "lead": "Il Segretario alla Sicurezza di Hong Kong, Chris Tang, ha dichiarato domenica che le autorità hanno intensificato la gestione in loco al valico di Huanggang per far fronte al maggior flusso di passeggeri. Il porto, appena riqualificato, ha registrato folla nella sala partenze durante il primo picco di viaggi, il lungo weekend del Festival di Chung Yeung. Secondo la piattaforma «Easy Boundary», verso le 14 i tempi d'attesa hanno raggiunto i 30 minuti. Lo riferisce RTHK.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTHK",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://news.rthk.hk/rthk/en/component/k2/1874374-20261018.htm",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-18T16:37+08:00"
     }
    ],
    "data": "18 ott",
@@ -7149,30 +7001,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-18T09:56+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:08",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z0052407b",
-   "sez": "mondo",
-   "titolo": "Yemen, si intensificano i combattimenti e si aggrava la crisi umanitaria",
-   "orig": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-   "lead": "Le organizzazioni umanitarie lanciano l'allarme: la crisi umanitaria, già grave, rischia di peggiorare ulteriormente con l'escalation dei combattimenti. Lo riferisce Al Jazeera.",
-   "more": [
-    "Lo Yemen è dilaniato dalla guerra civile dal 2014, quando gli Houthi presero la capitale Sanaa. Il conflitto ha coinvolto anche una coalizione guidata dall'Arabia Saudita e ha causato una delle peggiori crisi umanitarie al mondo, con milioni di persone dipendenti dagli aiuti."
-   ],
-   "fonti": [
+    },
     {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens",
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
      "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-18T09:16+00:00"
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T09:15+00:00"
     }
    ],
    "data": "18 ott",
@@ -7758,6 +7595,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-18T07:23+00:00"
+    },
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/live/il-ritorno-degli-strokes-in-italia-e-il-giubileo-dellindie/1042705/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T09:45+00:00"
     }
    ],
    "data": "18 ott",
@@ -8162,30 +8008,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z849d58cb",
-   "sez": "mondo",
-   "titolo": "Droni abbattuti nello spazio aereo romeno: le immagini dagli aerei sul Mar Nero",
-   "orig": "Drone doborâte în spațiul aerian românesc. Imagini din avion cu momentul doborârii deasupra Mării Negre",
-   "lead": "Il ministero della Difesa romeno ha diffuso domenica mattina su Facebook le immagini dell'abbattimento di alcuni droni entrati nello spazio aereo della Romania. Le riprese, effettuate dagli aerei, mostrano i caccia F-16 che colpiscono i velivoli sopra il Mar Nero: si vede il missile lanciato, poi una densa colonna di fumo nero con fiamme e diversi punti luminosi. La pubblicazione documenta l'intervento militare a difesa dello spazio aereo nazionale. Lo riferisce HotNews.",
-   "more": [
-    "La Romania è un Paese membro della NATO e confina con l'Ucraina. Dall'inizio dell'invasione russa dell'Ucraina il suo spazio aereo è stato più volte violato da droni, soprattutto nelle zone vicine al Danubio e al Mar Nero. L'F-16 è un caccia di fabbricazione statunitense in dotazione all'aeronautica romena."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/imagini-cu-momentul-doborarii-dronelor-deasupra-marii-negre-2379062",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-18T08:01+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:08",
-   "uscita": "mattino"
-  },
-  {
    "id": "z95e9165b",
    "sez": "salute",
    "titolo": "Mini-assemblee della salute nelle scuole per spiegare le malattie sessualmente trasmissibili",
@@ -8273,6 +8095,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-10-18T09:30+00:00"
+    },
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874374-20261018.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T16:37+08:00"
     }
    ],
    "data": "18 ott",
@@ -9033,7 +8864,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z2ee4a66b",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Queensland, oltre 10mila appartamenti in ritardo",
    "orig": "More than 10,000 apartments delayed across Queensland",
    "lead": "In Queensland, in Australia, i lavori di costruzione di oltre 10mila appartamenti tra Brisbane e la Gold Coast hanno accumulato ritardi. Lo mostrano dati diffusi di recente. Le cause principali sono la mancanza di manodopera e l'aumento dei costi dei materiali. I ritardi pesano sull'offerta di nuove abitazioni nella regione. Lo riferisce Sydney Morning Herald.",
@@ -9177,30 +9008,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-18T10:00+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "12:08",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z113526fc",
-   "sez": "musica",
-   "titolo": "Gli Strokes tornano in Italia: a Bologna un raduno per l'indie",
-   "orig": "Il ritorno degli Strokes in Italia è il giubileo dell’indie",
-   "lead": "Gli Strokes sono tornati a suonare in Italia con un concerto all'Unipol Arena di Bologna, l'unica data italiana del gruppo statunitense per quest'anno. La serata è stata vissuta come una sorta di pellegrinaggio dai fan della scena indie, un'occasione per ricordare con affetto i \"bei vecchi tempi\" della band. Il racconto del concerto prova però a non cedere del tutto alla nostalgia, pur ammettendo con ironia che non è chiaro se ci sia riuscito. Lo riferisce Rolling Stone Italia.",
-   "more": [
-    "Gli Strokes sono una band di New York diventata celebre all'inizio degli anni Duemila con l'album \"Is This It\", considerato uno dei dischi simbolo del revival del rock alternativo e indie di quel periodo, che influenzò molti gruppi successivi."
-   ],
-   "fonti": [
-    {
-     "n": "Rolling Stone Italia",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.rollingstone.it/musica/live/il-ritorno-degli-strokes-in-italia-e-il-giubileo-dellindie/1042705/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T09:45+00:00"
     }
    ],
    "data": "18 ott",
@@ -10479,6 +10286,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Benin",
      "t": "2026-10-17T20:58+00:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/leute/lungenkrebs-operation-papst-leo-xiv-soll-nach-rueckkehr-in-den-vatikan-nach-suedamerika-reisen-a-6c52e604-d93f-4820-837c-97cdb546e215#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T11:18+02:00"
     }
    ],
    "data": "18 ott",
@@ -10487,7 +10303,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zdcd519c3",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Ouagadougou: 63 persone certificate in intelligenza artificiale",
    "orig": "Horuslabs : 63 impétrants achèvent leur formation en intelligence artificielle, cybersécurité et investigation numérique",
    "lead": "Sessantatré persone hanno completato un programma formativo in intelligenza artificiale, cybersecurity e indagini digitali a Ouagadougou. La cerimonia di consegna dei certificati si è tenuta sabato 17 ottobre 2026 sotto la presidenza del delegato speciale del settore 11 di Ouagadougou, Oumarou Yameogo. La formazione rientra nel contesto del crescente ruolo della tecnologia. Lo riferisce Lefaso.net.",
@@ -11884,7 +11700,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "z2d696020",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Repubblica Ceca, rivista la legge sui vaccini in farmacia",
    "orig": "Czech pharmacy vaccination plan faces revisions after government debate",
    "lead": "Il Ministero della Salute della Repubblica Ceca sta effettuando una revisione della legislazione per consentire le vaccinazioni presso le farmacie del paese, ma non è stata ancora fissata una data precisa per il ritorno della proposta al governo per l'approvazione finale. Lo riferisce Expats.cz.",
@@ -12463,37 +12279,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z69a96e99",
-   "sez": "mondo",
-   "titolo": "Proteste \"No Kings\" negli Usa: oppositori di Trump tra speranza e timori",
-   "orig": "Aux Etats-Unis, dans les manifestations « No Kings », les opposants à Donald Trump entre espoir de changement et inquiétudes",
-   "lead": "Le manifestazioni \"No Kings\", principale movimento di protesta contro la politica di Trump, hanno radunato migliaia di partecipanti sabato in tutti gli Stati Uniti. Le proteste, pervase da preoccupazioni e speranze di cambiamento, si sono svolte a poche settimane dalle cruciali elezioni di midterm previste per il 3 novembre. Lo riferisce Le Monde.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/international/article/2026/10/18/aux-etats-unis-dans-les-manifestations-no-kings-les-opposants-a-donald-trump-entre-espoir-de-changement-et-inquietudes_6797035_3210.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-18T06:25+02:00"
-    },
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-18T07:29+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:41",
-   "uscita": "mattino"
-  },
-  {
    "id": "z43563e16",
    "sez": "mondo",
    "titolo": "Muhoozi Kainerugaba, erede tirannico e stravagante del presidente ugandese",
@@ -12722,28 +12507,6 @@ window.EDIZIONI["2026-10-18"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z1bb71723",
-   "sez": "mondo",
-   "titolo": "Senato spagnolo: fronte progressista contro fronte conservatore per il controllo",
-   "orig": "Un frente de izquierdas y otro de derechas se disputarán a cara de perro el control del Senado",
-   "lead": "Due fronti si contendono il controllo del Senato spagnolo prima delle elezioni del 29 novembre. Vox studia l'opzione di non presentare candidati in alcune province per sostenere il Partito Popolare al fine di frenare la coalizione progressista. Lo riferisce El País.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/espana/2026-10-18/un-frente-de-izquierdas-y-otro-de-derechas-se-disputaran-a-cara-de-perro-el-control-del-senado.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-18T03:30+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:41",
-   "uscita": "mattino"
-  },
-  {
    "id": "z1cb42898",
    "sez": "mondo",
    "titolo": "Blocco dati della \"legge dei nipoti\": rischio impugnazioni di voto dopo elezioni",
@@ -12827,6 +12590,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-18T01:25+02:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-10-18/un-frente-de-izquierdas-y-otro-de-derechas-se-disputaran-a-cara-de-perro-el-control-del-senado.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T03:30+00:00"
     }
    ],
    "data": "18 ott",
@@ -14116,7 +13888,7 @@ window.EDIZIONI["2026-10-18"] = {
   },
   {
    "id": "zb2251c8b",
-   "sez": "mondo",
+   "sez": "cultura",
    "titolo": "Forum di Hong Kong affronta il ruolo delle discipline umanistiche nell'era dell'IA",
    "orig": "Harvard and Cambridge to attend Hong Kong forum on role of humanities in AI age",
    "lead": "Università di prestigio come Harvard e Cambridge parteciperanno a un forum a Hong Kong alla fine di ottobre per discutere il ruolo delle discipline umanistiche nell'era dell'intelligenza artificiale. L'evento riunirà presidenti e alti dirigenti di oltre 50 università mondiali. Lo riferisce South China Morning Post.",
@@ -14523,6 +14295,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-18T14:05+08:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/18/duitsland-leipzig-gat-in-hek.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-18T07:57+00:00"
     }
    ],
    "data": "18 ott",
@@ -14545,28 +14326,6 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-18T14:00+08:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:35",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zc7614d00",
-   "sez": "mondo",
-   "titolo": "'È come una famiglia': i villaggi libanesi temono l'imminente ritiro dei peacekeeping dell'Onu",
-   "orig": "‘It’s family’: Lebanese villagers dread looming UN peacekeeper pull-out",
-   "lead": "Cittadini dei villaggi libanesi esprimono preoccupazione per il previsto ritiro della missione Unifil dell'Onu, che dal 1978 ha svolto il fondamentale ruolo di cuscinetto fra le forze israeliane e il Libano. La possibile riduzione del contingente desta timori di destabilizzazione della regione di confine. Lo riferisce The Straits Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/middle-east/its-family-lebanese-villagers-dread-looming-un-peacekeeper-pull-out",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-18T12:40+08:00"
     }
    ],
    "data": "18 ott",
@@ -15763,6 +15522,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Tunisia",
      "t": "2026-10-17T23:00+01:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/frankreich-der-moment-in-dem-das-historische-rathaus-von-limoges-einstuerzt-a-5ac30ec7-416f-4449-b1af-458dd7d392e1#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T11:56+02:00"
     }
    ],
    "data": "18 ott",
@@ -16169,6 +15937,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-17T13:56+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/berliner-sondierungsergebnis-ohne-mass-und-mitte-201597754.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T09:00+00:00"
     }
    ],
    "data": "18 ott",
@@ -16492,6 +16269,14 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-18T08:08+02:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
+     "angolo": "",
+     "atlas": "Portugal"
     }
    ],
    "data": "18 ott",
@@ -16875,6 +16660,15 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-18T05:24+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/imagini-cu-momentul-doborarii-dronelor-deasupra-marii-negre-2379062",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-18T08:01+00:00"
     }
    ],
    "data": "18 ott",
@@ -18709,6 +18503,24 @@ window.EDIZIONI["2026-10-18"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-18T01:29+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/18/aux-etats-unis-dans-les-manifestations-no-kings-les-opposants-a-donald-trump-entre-espoir-de-changement-et-inquietudes_6797035_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T06:25+02:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T07:29+02:00"
     }
    ],
    "data": "18 ott",
@@ -19143,7 +18955,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zd917bde4": "Analisi delle iniziative internazionali sulla stabilità finanziaria",
   "z03bb5811": "Cronaca di incidenti di sicurezza presso infrastrutture critiche",
   "z2ffc2272": "Valutazione della strategia geopolitica americana nella regione strategica",
-  "zc7614d00": "Sottolineatura delle implicazioni umanitarie del ritiro di peacekeeping",
   "zc776cc20": "Denuncia del ritmo inaccettabile di progresso verso la parità di genere",
   "z15cfa6bb": "Reportage su indagini penali che coinvolgono figure politiche di rilievo",
   "z9631312c": "Critica dell'establishment militare per presunta mancanza di trasparenza",
@@ -19192,7 +19003,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zcd99c223": "Dichiarazioni ufficiali su questione di credibilità accademica.",
   "z5a9deb07": "Analisi della retorica presidenziale trumpiana sui risultati geopolitici.",
   "z14684bb7": "Dichiarazioni rassicuranti da banca centrale su accesso ai depositi e riserve.",
-  "z69a96e99": "Reportage su movimento di protesta diffuso negli Usa con focus su tensioni emotive.",
   "z43563e16": "Profilo politico critico su figura militare e politica controversa.",
   "z4b2efa94": "Dichiarazioni governative di difesa della gestione dell'ordine pubblico.",
   "z3aba28c3": "Reportage su dinamiche tattiche dei manifestanti e loro penetrazione nelle aree protette.",
@@ -19202,7 +19012,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z333571ef": "Profilo biografico di figura imprenditoriale di spicco legata all'establishment tedesco.",
   "zcf9fd1c0": "Analisi critica del vuoto politico nel governo francese di fronte alle spinte estremiste.",
   "zbe9917c4": "Analisi critica sulla strategia di coalizione della sinistra spagnola.",
-  "z1bb71723": "Analisi strategica dei giochi politici per il controllo dell'istituzione alta.",
   "z1cb42898": "Cronaca amministrativa che evidenzia complessità della gestione elettorale.",
   "zca5f3c65": "Inchiesta sulla coerenza tra politiche dichiarate e interessi economici di esponenti.",
   "z91bfb016": "Analisi strategica della campagna governo su tema generazionale.",
@@ -19316,7 +19125,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z6e601d2f": "L'ANSA dà spazio sia alle parole di Meloni sia alle repliche dell'opposizione, mentre Rai News si concentra sul messaggio della premier agli agenti.",
   "z8e63cb97": "L'ANSA riporta la tempistica degli aiuti, mentre Rai News evidenzia anche l'allarme sulle intenzioni di Putin.",
   "z1fda9797": "BBC News descrive i danni lasciati nelle strade di Parigi e sottolinea il numero elevato di arresti.",
-  "z0052407b": "Al Jazeera collega l'intensificarsi degli scontri agli avvertimenti delle agenzie umanitarie.",
   "z19fd16d9": "la Repubblica lega la preparazione sportiva di Luna Rossa al tema del cambiamento climatico.",
   "z8645e7f6": "Deutsche Welle elenca gli ambiti coperti dall'accordo, che vanno oltre il semplice commercio.",
   "zd6b93f14": "Deutsche Welle presenta il voto come una battuta d'arresto politica per Babiš.",
@@ -19349,7 +19157,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z4dcfae11": "La BBC racconta il settore attraverso la storia personale di una lavoratrice.",
   "z16a16a6f": "Premium Times sottolinea il lungo isolamento della comunità e il numero di persone che beneficeranno dell'impianto.",
   "z62778790": "OndaRock legge il brano come un'opera disco dai toni apocalittici e ne ricostruisce le influenze.",
-  "z849d58cb": "HotNews punta sulle immagini diffuse dal ministero e sulla loro descrizione dettagliata.",
   "z95e9165b": "RTP lega l'iniziativa al dato sui nuovi casi di HIV tra i giovani.",
   "zcb05efbc": "The Guardian evidenzia anche la prevalenza di autori uomini ai vertici della classifica.",
   "z93aab004": "ANSA riporta il giudizio di una poetessa italiana sul Nobel e sulla salute della poesia in Italia.",
@@ -19390,7 +19197,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zd85ba2ab": "Le testate mostrano come le autorità di due Paesi africani affrontano i rincari dell'energia.",
   "zf1c4b51c": "Yonhap mette l'accento sull'occasione mancata di una prima vittoria nel circuito LPGA per una giocatrice sudcoreana.",
   "z38af7723": "Il Sole 24 Ore spiega in chiave pratica come funzionano i nuovi incentivi e come accedervi.",
-  "z113526fc": "Rolling Stone Italia legge il concerto come un rito collettivo sospeso tra celebrazione e nostalgia.",
   "z4b9931ce": "Il Messaggero verifica un consiglio domestico diventato virale, soffermandosi anche sui rischi.",
   "z251c8fbf": "SoraNews24 usa un caso curioso per mostrare quanto si evolvano le truffe in Giappone.",
   "z5483967e": "Kurdistan24 sottolinea l'obiettivo dichiarato degli aiuti: migliorare i servizi medici per i cittadini.",
@@ -19485,7 +19291,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z6e4bb3e3": "BBSCL dà rilievo al profilo personale dell'atleta.",
   "zdedc0e0d": "BBSCL racconta un problema economico-tradizionale legato al territorio.",
   "zcb934215": "BBSCL collega i dati ufficiali a una questione di sostenibilità delle risorse.",
-  "z00ca3ab3": "RTHK privilegia l'aspetto operativo e i disagi ai valichi.",
   "zce631c63": "RTHK riporta il messaggio di politica economica del governo locale.",
   "zc5968e8f": "Moscow Times segue la posizione americana sulle sanzioni alla Russia.",
   "z5d69a4a5": "Kyiv Independent segnala la posizione ungherese sul grano ucraino.",
@@ -19493,7 +19298,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z79ae22bc": "Rubrica d’opinione che contesta la retorica pacifica di Pechino.",
   "z78e91e69": "Taglio informativo, con un servizio video sugli effetti dei rinvii sul voto.",
   "z044e03d8": "Osservazione di costume politico, con lettura delle trasformazioni sociali alla base del fenomeno.",
-  "z69e3e4c9": "Cronaca dei danni con focus geografico sui luoghi colpiti.",
   "zff7bc295": "Lettura sociologica del profilo dei partecipanti più giovani agli scontri.",
   "zbadc14dd": "Taglio scientifico e sociale, centrato sulla salute mentale.",
   "z87f521a9": "Analisi di psicologia dello sport, ripresa da una fonte accademica.",
@@ -19516,14 +19320,12 @@ window.EDIZIONI["2026-10-18"] = {
   "zec688126": "France 24 insiste sul parallelo con le proteste del 2018 e sul contesto pre-elettorale.",
   "z3a49a902": "L'emittente analizza la reazione del governo con un taglio interpretativo e il commento di un esperto.",
   "z46c2f73b": "L'emittente racconta la vicenda giudiziaria mettendo in risalto il profilo controverso del consulente.",
-  "z1c2dbe24": "La testata portoghese segue le proteste con aggiornamenti sugli accampamenti notturni.",
   "z37a52645": "RTP evidenzia il risultato sportivo nazionale, sottolineando il numero di medaglie portoghesi.",
   "z22204fb7": "La testata lusitana racconta la sconfitta del tennista portoghese con taglio di cronaca sportiva.",
   "z8963d01a": "RTP riporta le dichiarazioni dell'azienda spagnola con focus sull'interesse per il mercato ferroviario portoghese.",
   "z6cc5f46c": "La testata olandese descrive i disagi per i viaggiatori con taglio di servizio pubblico.",
   "z945f42dd": "NOS riporta la sentenza citando le fonti statali cinesi, senza verifiche indipendenti.",
   "z70ee5827": "VRT NWS racconta il campionato con taglio leggero e attento al costume sportivo.",
-  "z1a343721": "La testata belga descrive l'episodio con attenzione alle misure di sicurezza dello scalo.",
   "z11dc9871": "SVT privilegia il bilancio dei danni e le richieste istituzionali dei sindaci.",
   "z85eb3bab": "L'emittente svedese segue il calciatore connazionale con tono informativo e attento alle parole dell'allenatore.",
   "z4f72594e": "SVT racconta le prestazioni di Messi con taglio sportivo e citazioni del commentatore.",
@@ -19546,7 +19348,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zd284e0ce": "Cronaca sportiva di preparazione, con numeri di delegazione e discipline.",
   "z19f2bb73": "Reportage su mobilità urbana e adozione di tecnologie a basso costo, con i limiti evidenziati.",
   "zd5f19ada": "Ritratto storico di taglio umano, costruito sul racconto della discendente.",
-  "zc43e7e80": "Aggiornamento in diretta che privilegia le dichiarazioni del governo e il bilancio degli arresti.",
   "z31fb06d6": "Intervista-podcast con toni analitici che mette a confronto le scelte politiche del protagonista.",
   "z2c207de7": "Intervista di taglio culturale legata a un evento festivaliero.",
   "z20c8c425": "Taglio di servizio e sensibilizzazione sulla protezione dell'infanzia.",
@@ -19639,11 +19440,8 @@ window.EDIZIONI["2026-10-18"] = {
   "zce88b7c3": "La testata dell'Eswatini segue la vigilia della trasferta della squadra giovanile nazionale con tono cronachistico.",
   "zf75c3d71": "Il quotidiano francese riporta la linea rassicurante del governo, mettendo in primo piano il sostegno ai commercianti.",
   "z75c3034c": "Il quotidiano francese dà voce alla categoria del turismo e della ristorazione, con una prospettiva centrata sulla sicurezza.",
-  "z46fa0487": "Il settimanale tedesco privilegia le immagini della giornata di violenza, con un taglio cronachistico.",
-  "za313aa0f": "Il settimanale tedesco mette in primo piano il bollettino medico e la ripresa dell'agenda del Pontefice.",
   "za858ad31": "Il quotidiano tedesco adotta un tono analitico e critico, orientato a leggere la crisi in chiave politica.",
   "zb7213619": "Il quotidiano bavarese racconta la stagione del Werder con un taglio sportivo ed esaltazione del singolo.",
-  "z04d4c445": "Il quotidiano conservatore tedesco esprime una critica netta all'orientamento dei negoziati.",
   "zee8992d5": "Il quotidiano economico tedesco legge la tendenza dal punto di vista dei manager, con attenzione al mercato del lavoro.",
   "z3968ec3e": "Il quotidiano spagnolo segue la mossa del PP in Catalogna con un taglio politico legato alla precampagna.",
   "z7857365e": "Il quotidiano portoghese racconta una storia di impegno sociale con taglio di interesse umano.",
@@ -21513,13 +21311,6 @@ window.EDIZIONI["2026-10-18"] = {
    "p": [],
    "pt": []
   },
-  "zc7614d00": {
-   "n": "Libano",
-   "p": [
-    "Lebanon"
-   ],
-   "pt": []
-  },
   "zc776cc20": {
    "n": "Kazakstan",
    "p": [
@@ -21858,13 +21649,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z69a96e99": {
-   "n": "United States of America",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z43563e16": {
    "n": "Kampala",
    "p": [
@@ -21922,13 +21706,6 @@ window.EDIZIONI["2026-10-18"] = {
    "pt": []
   },
   "zbe9917c4": {
-   "n": "Madrid",
-   "p": [
-    "Spain"
-   ],
-   "pt": []
-  },
-  "z1bb71723": {
    "n": "Madrid",
    "p": [
     "Spain"
@@ -22729,13 +22506,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z0052407b": {
-   "n": "Yemen",
-   "p": [
-    "Yemen"
-   ],
-   "pt": []
-  },
   "z19fd16d9": {
    "n": "Napoli",
    "p": [
@@ -22960,13 +22730,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Francia",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "z849d58cb": {
-   "n": "Mar Nero",
-   "p": [
-    "Romania"
    ],
    "pt": []
   },
@@ -23244,13 +23007,6 @@ window.EDIZIONI["2026-10-18"] = {
   },
   "z38af7723": {
    "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z113526fc": {
-   "n": "Bologna",
    "p": [
     "Italy"
    ],
@@ -23909,13 +23665,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z00ca3ab3": {
-   "n": "Huanggang (confine Cina-Hong Kong)",
-   "p": [
-    "China"
-   ],
-   "pt": []
-  },
   "zce631c63": {
    "n": "Hong Kong",
    "p": [
@@ -23963,13 +23712,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Stati Uniti",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z69e3e4c9": {
-   "n": "Francia",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -24125,13 +23867,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z1c2dbe24": {
-   "n": "Portogallo",
-   "p": [
-    "Portugal"
-   ],
-   "pt": []
-  },
   "z37a52645": {
    "n": "Cina",
    "p": [
@@ -24171,13 +23906,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Belgio",
    "p": [
     "Belgium"
-   ],
-   "pt": []
-  },
-  "z1a343721": {
-   "n": "Germania",
-   "p": [
-    "Germany"
    ],
    "pt": []
   },
@@ -24332,13 +24060,6 @@ window.EDIZIONI["2026-10-18"] = {
    "n": "Windsor",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zc43e7e80": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -24987,18 +24708,6 @@ window.EDIZIONI["2026-10-18"] = {
    ],
    "pt": []
   },
-  "z46fa0487": {
-   "n": "Limoges",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "za313aa0f": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
   "za858ad31": {
    "n": "Francia",
    "p": [
@@ -25008,13 +24717,6 @@ window.EDIZIONI["2026-10-18"] = {
   },
   "zb7213619": {
    "n": "Brema",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
-  "z04d4c445": {
-   "n": "Berlino",
    "p": [
     "Germany"
    ],
@@ -25661,7 +25363,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zd917bde4": 1,
   "z03bb5811": 1,
   "z2ffc2272": 1,
-  "zc7614d00": 1,
   "zc776cc20": 1,
   "z15cfa6bb": 1,
   "z9631312c": 1,
@@ -25710,7 +25411,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zcd99c223": 1,
   "z5a9deb07": 1,
   "z14684bb7": 1,
-  "z69a96e99": 2,
   "z43563e16": 1,
   "z4b2efa94": 1,
   "z3aba28c3": 1,
@@ -25720,7 +25420,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z333571ef": 1,
   "zcf9fd1c0": 1,
   "zbe9917c4": 1,
-  "z1bb71723": 1,
   "z1cb42898": 1,
   "zca5f3c65": 1,
   "z91bfb016": 1,
@@ -25834,7 +25533,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z6e601d2f": 3,
   "z8e63cb97": 3,
   "z1fda9797": 2,
-  "z0052407b": 2,
   "z19fd16d9": 1,
   "z8645e7f6": 1,
   "zd6b93f14": 2,
@@ -25867,7 +25565,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z4dcfae11": 1,
   "z16a16a6f": 1,
   "z62778790": 1,
-  "z849d58cb": 2,
   "z95e9165b": 1,
   "zcb05efbc": 1,
   "z93aab004": 1,
@@ -25908,7 +25605,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zd85ba2ab": 1,
   "zf1c4b51c": 1,
   "z38af7723": 1,
-  "z113526fc": 1,
   "z4b9931ce": 1,
   "z251c8fbf": 1,
   "z5483967e": 1,
@@ -26003,7 +25699,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z6e4bb3e3": 1,
   "zdedc0e0d": 1,
   "zcb934215": 1,
-  "z00ca3ab3": 1,
   "zce631c63": 1,
   "zc5968e8f": 1,
   "z5d69a4a5": 1,
@@ -26011,7 +25706,6 @@ window.EDIZIONI["2026-10-18"] = {
   "z79ae22bc": 1,
   "z78e91e69": 1,
   "z044e03d8": 1,
-  "z69e3e4c9": 1,
   "zff7bc295": 1,
   "zbadc14dd": 1,
   "z87f521a9": 1,
@@ -26034,14 +25728,12 @@ window.EDIZIONI["2026-10-18"] = {
   "zec688126": 1,
   "z3a49a902": 1,
   "z46c2f73b": 1,
-  "z1c2dbe24": 1,
   "z37a52645": 1,
   "z22204fb7": 1,
   "z8963d01a": 1,
   "z6cc5f46c": 1,
   "z945f42dd": 2,
   "z70ee5827": 1,
-  "z1a343721": 1,
   "z11dc9871": 1,
   "z85eb3bab": 1,
   "z4f72594e": 1,
@@ -26064,7 +25756,6 @@ window.EDIZIONI["2026-10-18"] = {
   "zd284e0ce": 1,
   "z19f2bb73": 1,
   "zd5f19ada": 1,
-  "zc43e7e80": 1,
   "z31fb06d6": 1,
   "z2c207de7": 1,
   "z20c8c425": 1,
@@ -26157,11 +25848,8 @@ window.EDIZIONI["2026-10-18"] = {
   "zce88b7c3": 1,
   "zf75c3d71": 1,
   "z75c3034c": 1,
-  "z46fa0487": 1,
-  "za313aa0f": 1,
   "za858ad31": 1,
   "zb7213619": 1,
-  "z04d4c445": 1,
   "zee8992d5": 1,
   "z3968ec3e": 1,
   "z7857365e": 1,
