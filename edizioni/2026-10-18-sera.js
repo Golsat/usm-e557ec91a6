@@ -3,6 +3,1172 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "ze05c13fe",
+   "sez": "mondo",
+   "titolo": "Francia, proteste: manifestanti devastano diverse città, Macron parla in tv",
+   "orig": "DIE NEUESTEN ENTWICKLUNGEN - Proteste in Frankreich: Demonstranten verwüsten mehrere Städte +++ Präsident Macron hält am Abend eine Fernsehansprache",
+   "lead": "In Francia la protesta, partita a fine settembre con studenti, insegnanti e sindacati che chiedono migliori condizioni di apprendimento, si è trasformata in un movimento nazionale. Nelle ultime ore manifestanti hanno devastato più città e il presidente Macron terrà un discorso televisivo serale. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T13:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z38f5afd3",
+   "sez": "mondo",
+   "titolo": "In Francia una violenza fuori controllo mette in difficoltà il governo",
+   "orig": "Entfesselter Mob überschattet Proteste in Frankreich, Regierung überfordert",
+   "lead": "In Francia le proteste sono degenerate in violenze, incendi e saccheggi di un'entità finora mai registrata nel Paese. Il governo fatica a gestire la situazione e attribuisce la responsabilità dei disordini a un candidato presidenziale. Il quadro è di forte sconcerto. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344750/entfesselter-mob-ueberschattet-proteste-in-frankreich-regierung-ueberfordert?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T11:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zc9366ab3",
+   "sez": "mondo",
+   "titolo": "Albania, proteste in escalation: il premier Rama annulla la visita a Vienna",
+   "orig": "Proteste in Albanien eskalieren, Premier Rama sagt Wienbesuch ab",
+   "lead": "In Albania le proteste si sono fatte più violente e il premier Rama ha annullato la visita prevista a Vienna. Un manifestante accusa i leader europei di restare a guardare per perseguire i propri obiettivi geopolitici. Il caso mette in luce le tensioni tra Tirana e l'Europa. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344744/waehrend-die-proteste-in-albanien-weiter-eskalieren-reist-premier-rama-nach-wien?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T12:58+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z8b5c56f7",
+   "sez": "spazio",
+   "titolo": "Individuata l'origine di un segnale radio dall'universo primordiale",
+   "orig": "Ursprung eines Radiosignals aus der Frühzeit des Universums entdeckt",
+   "lead": "Gli scienziati hanno identificato la galassia d'origine di un lampo radio emesso quando l'universo aveva appena tre miliardi di anni. La galassia risulta sorprendentemente piccola rispetto alle attese, un dato che offre indizi sulla sua formazione. Il segnale breve e intenso è stato rintracciato solo ora. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000343887/ursprung-eines-radiosignals-aus-der-fruehzeit-des-universums-entdeckt?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T14:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z9a42affe",
+   "sez": "mondo",
+   "titolo": "Svezia, Malmer Stenergard chiede a Israele di agire",
+   "orig": "Malmer Stenergard kräver att Israel agerar",
+   "lead": "La ministra degli Esteri svedese Maria Malmer Stenergard giudica grave l'attacco di coloni israeliani contro diplomatici europei in Cisgiordania. Chiede a Israele di intervenire. La ministra, esponente dei Moderati, sollecita quindi misure concrete. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/malmer-stenergard-kraver-att-israel-agerar/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T16:33+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z430146e8",
+   "sez": "mondo",
+   "titolo": "Nevéus: ora Zelensky non deve più nascondere il disprezzo per Trump",
+   "orig": "Ingmar Nevéus: Nu slipper Zelenskyj dölja sitt förakt för Trump",
+   "lead": "Nel suo commento da New York, il columnist Ingmar Nevéus sostiene che Trump ha fatto un ulteriore favore a Putin revocando le sanzioni contro la Russia già approvate. Secondo l'autore, la decisione permette ora a Zelensky di non celare più il suo disprezzo per Trump. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/ingmar-neveus-nu-slipper-zelenskyj-dolja-sitt-forakt-for-trump/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T15:50+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zf043956e",
+   "sez": "mondo",
+   "titolo": "Svezia, tre organizzazioni giovanili disponibili a trattare, il CUF dice no",
+   "orig": "Tre rödgröna ungdomsförbund förhandlingsredo – men CUF säger nej",
+   "lead": "In Svezia tre organizzazioni giovanili della sinistra e dei Verdi si dicono pronte a negoziare sulla formazione del governo, chiedendo ai partiti madre di accelerare. L'organizzazione giovanile del Centro (CUF) respinge però questa linea. Le posizioni sul modo di risolvere la questione di governo divergono. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/tre-rodgrona-ungdomsforbund-forhandlingsredo-men-cuf-sager-nej/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T14:14+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z31bcd509",
+   "sez": "mondo",
+   "titolo": "«Siberia o Estremo Oriente»: operai nordcoreani inviati in Russia senza scelta",
+   "orig": "\"Syberia lub Daleki Wschód\". Nie mają wyboru, muszą jechać do Rosji",
+   "lead": "La Corea del Nord invia lavoratori in Russia senza che possano scegliere né conoscere in anticipo la destinazione. Secondo il portale Daily NK, la pratica aumenta l'esportazione di manodopera nonostante le sanzioni dell'ONU. Le destinazioni indicate sono la Siberia o l'Estremo Oriente russo. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/ze-swiata/syberia-lub-daleki-wschod-nie-maja-wyboru-musza-jechac-do-rosji-st9292941?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T13:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z3bd113ac",
+   "sez": "mondo",
+   "titolo": "Scavato vicino a un pozzo un palo di confine dell'Ottocento",
+   "orig": "Był zakopany obok studni. To ślad XIX-wiecznej granicy",
+   "lead": "Vicino a Lipina, nel voivodato di Lublino, è stato dissotterrato un palo di confine lungo circa tre metri, con uno stemma a due teste d'aquila. Gli storici lo collegano al confine che dopo il 1809 separava l'Impero austriaco dal Granducato di Varsavia e, dopo il Congresso di Vienna, dal Regno di Polonia. Il reperto finirà in un museo. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/lublin/lipina-odkopali-xix-wieczny-slup-graniczny-oddzielal-cesarstwo-austriackie-od-krolestwa-polskiego-st9293381?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T13:14+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "ze00640b4",
+   "sez": "mondo",
+   "titolo": "Regno Unito, il capo dell'esercito: la popolazione si prepari a tempi di guerra",
+   "orig": "Chefe do Exército britânico diz que população deve ser preparada para tempos de guerra",
+   "lead": "Il capo dell'esercito britannico, generale Sir Roly Walker, afferma che la popolazione del Regno Unito dovrà essere pronta a fare sacrifici per rafforzare la difesa del Paese. Le sue parole arrivano in un contesto internazionale che il generale definisce di «extremo perigo», cioè di pericolo estremo. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/chefe-do-exercito-britanico-diz-que-populacao-deve-ser-preparada-para-tempos-de-guerra.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T11:48-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z9433053c",
+   "sez": "economia",
+   "titolo": "Germania, dal 2027 una «paghetta» di 10 euro al mese per i bambini",
+   "orig": "Alemanha vai dar mesada de 10 euros a crianças para aliviar previdência",
+   "lead": "Dal 2027 la Germania riconoscerà ai bambini nati o residenti nel Paese una sorta di paghetta statale: 10 euro al mese per chi compie sei anni, fino ai 18. Genitori, nonni o tutori potranno versare altri fondi, e anche il beneficiario potrà contribuire da adulto. Il capitale però sarà accessibile solo alla pensione. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/alemanha-vai-dar-mesada-de-10-euros-a-criancas-para-aliviar-previdencia.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T10:00-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zffcfb016",
+   "sez": "mondo",
+   "titolo": "Rubio: gli Stati Uniti sono «perturbati» dalle aggressioni dei coloni in Cisgiordania",
+   "orig": "Marco Rubio dice que EE.UU. está \"perturbado\" por las agresiones de colonos en Cisjordania",
+   "lead": "Il segretario di Stato americano Marco Rubio ha dichiarato che gli Stati Uniti sono «perturbati» dalle aggressioni dei coloni in Cisgiordania. Rubio ha chiesto a Israele di agire dopo le violenze contro giornalisti e palestinesi, ribadendo la necessità di evitare tensioni nella regione. Gli incidenti recenti ad Abu Falah sono in fase di indagine. Lo riferisce Clarín.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/marco-rubio-dice-que-ee-uu-esta-perturbado-por-las-agresiones-de-colonos-en-cisjordania_0_Ykvjux3CQw.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T14:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zb63139ba",
+   "sez": "mondo",
+   "titolo": "La Florida avviò un aeroporto cinque volte più grande del JFK: perché ne è rimasta una sola pista",
+   "orig": "Florida comenzó a construir un aeropuerto cinco veces más grande que el JFK: por qué solo quedó una pista",
+   "lead": "Negli Stati Uniti, in Florida, è stata avviata la costruzione di un aeroporto cinque volte più grande del JFK di New York. Il progetto ambizioso risale alla fine degli anni Sessanta, ma è rimasto ridotto a una sola pista. Il quotidiano argentino ricostruisce la vicenda e ne spiega le ragioni. Lo riferisce Clarín.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/florida-comenzo-construir-aeropuerto-veces-grande-jfk-solo-quedo-pista_0_Si9iasf53L.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T14:20+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z03cd46a9",
+   "sez": "mondo",
+   "titolo": "Trump si definisce un grande negoziatore, ma il suo storico dice il contrario",
+   "orig": "Trump dice ser un gran negociador, pero su historial señala lo contrario",
+   "lead": "Donald Trump si presenta come un grande negoziatore, ma il suo storico racconta un quadro diverso. Secondo l'analisi di Clarín, la sua carriera imprenditoriale e presidenziale mostra un percorso fatto di grandi promesse e risultati misti. Tra le critiche, il mancato raggiungimento di accordi annunciati, come la fine di conflitti internazionali, accanto a intese riuscite in altri casi. Lo riferisce Clarín.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/trump-dice-ser-un-gran-negociador-pero-su-historial-senala-lo-contrario_0_G8X2icEOkS.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-18T14:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z27e12986",
+   "sez": "mondo",
+   "titolo": "Sondaggio Criteria: approvazione del presidente Kast al 28%, disapprovazione al 60%",
+   "orig": "Criteria: aprobación de Presidente Kast llega a 28% y desaprobación anota un 60%",
+   "lead": "Il sondaggio Criteria indica che l'approvazione del presidente cileno Kast è salita al 28%, con un punto in più rispetto alla settimana precedente. La disapprovazione è scesa di quattro punti, arrivando al 60%. Il sondaggio misura anche le preferenze presidenziali spontanee, le percezioni a sette anni dall'«estallido social» e la valutazione della riduzione delle tariffe di Autopista Central. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/nacional/noticia/criteria-aprobacion-de-presidente-kast-llega-a-28-y-desaprobacion-anota-un-60/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T14:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z82844729",
+   "sez": "mondo",
+   "titolo": "Gajardo: «Decida la Corte» nei casi di condannati gravemente malati, ma niente indulto",
+   "orig": "Exministro Gajardo apunta a que “sea la Corte la que resuelva” en casos de condenados con enfermedades graves: “Pero no un indulto”",
+   "lead": "L'ex ministro Gajardo ritiene che, nei casi di condannati con malattie gravi, a decidere debba essere la Corte, ma esclude la grazia. Secondo lui l'indulto, cioè il perdono concesso dal capo dello Stato, non dovrebbe essere dato a un criminale di lesa umanità, perché il segnale per la società sarebbe troppo forte. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/exministro-gajardo-apunta-a-que-sea-la-corte-la-que-resuelva-en-casos-de-condenados-con-enfermedades-graves-pero-no-un-indulto/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T14:54+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z9afb160c",
+   "sez": "economia",
+   "titolo": "Da una nave vecchia a Puerto Varas all'ossigeno per i giganti del salmone",
+   "orig": "De desarmar un barco viejo en Puerto Varas a venderle oxígeno a los gigantes salmoneros del mundo",
+   "lead": "Oxzo è nata da un progetto Corfo nel sud del Cile, con fierros riciclati di una vecchia nave a Puerto Varas. Oggi fornisce ossigeno alle grandi aziende salmonicole del mondo. Un'iniezione di 25 milioni di dollari, da un fondo legato all'erede di Walmart, e sei famiglie di brevetti globali hanno portato la tecnologia fino ai fiordi della Norvegia. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/emprendimiento/noticia/de-desarmar-un-barco-viejo-en-puerto-varas-a-venderle-oxigeno-a-los-gigantes-salmoneros-del-mundo/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T14:34+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z796b1510",
+   "sez": "salute",
+   "titolo": "Studente universitario Usa avvelenato dopo aver bevuto acqua: i colleghi scoprono cosa è successo",
+   "orig": "Estudiante universitario en Estados Unidos sufrió un misterioso envenenamiento tras beber agua: sus colegas descubrieron qué pasó",
+   "lead": "Uno studente universitario negli Stati Uniti ha subito un misterioso avvelenamento dopo aver bevuto dell'acqua. Per diverse settimane si è rivolto alla clinica sanitaria dell'ateneo, senza ottenere una spiegazione chiara su quanto gli stesse accadendo. Alla fine sono stati i colleghi a chiarire cosa fosse successo. Lo riferisce El Tiempo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/estudiante-de-doctorado-habria-envenenado-a-su-companero-con-una-neurotoxina-en-una-universidad-de-estados-unidos-3594400",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-18T09:41-05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z3ea17dfc",
+   "sez": "mondo",
+   "titolo": "Vargas Llosa: «Gli Stati Uniti ci aiutano a recuperare la sovranità minacciata dalle mafie»",
+   "orig": "Álvaro Vargas Llosa: “EE.UU. nos está ayudando a recuperar la soberanía que las mafias ponen en peligro”",
+   "lead": "Álvaro Vargas Llosa assumerà l'incarico il 16 novembre e, in un'intervista, anticipa alcune linee della sua gestione. Sostiene che gli Stati Uniti stiano aiutando il Perù a recuperare una sovranità minacciata dalle mafie. Nel colloquio analizza anche l'approccio dell'amministrazione Trump verso il Paese, i rapporti commerciali e il fattore geopolitico. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/politica/alvaro-vargas-llosa-eeuu-embajador-del-peru-en-estados-unidos-entrevista-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-18T14:55+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z2a3ede6f",
+   "sez": "mondo",
+   "titolo": "Chiesto l'ergastolo per i fratelli Quispe Palomino per attentati terroristici nel Vraem",
+   "orig": "Fiscalía pide cadena perpetua contra hermanos Quispe Palomino por atentados terroristas en el Vraem",
+   "lead": "Il pubblico ministero peruviano ha chiesto l'ergastolo per Víctor Quispe Palomino, detto «José», e Jorge Quispe Palomino, detto «Raúl». Sono accusati di guidare il Militarizado Partido Comunista del Perú (MPCP), organizzazione terroristica attiva nella valle dei fiumi Apurímac, Ene e Mantaro (Vraem) tra il 2002 e il 2018. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/politica/fiscalia-pide-cadena-perpetua-contra-hermanos-quispe-palomino-por-atentados-terroristas-en-el-vraem-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-18T14:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z6c92afd0",
+   "sez": "mondo",
+   "titolo": "Il Congresso del Frente Amplio approva l'imposta sull'1% più ricco e chiede accordi nel 2027",
+   "orig": "Congreso del Frente Amplio respaldó creación de impuesto al 1% más rico y llamó a \"alcanzar acuerdos\" en 2027",
+   "lead": "Il Congresso del Frente Amplio uruguaiano ha approvato la creazione di un'imposta sull'1% più ricco del Paese e ha chiesto di «raggiungere accordi» nel 2027. La proposta del movimento sindacale prevede una sovrattassa annua dell'1% sull'Imposta sul Patrimonio delle persone fisiche, per chi ha un patrimonio fiscale superiore alla soglia non imponibile di un milione di dollari. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/congreso-del-frente-amplio-respaldo-creacion-impuesto-al-1-mas-rico-y-llamo-alcanzar-acuerdos-2027-n6060850",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-18T11:44-03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z9db08014",
+   "sez": "mondo",
+   "titolo": "Espacio Público: in Venezuela restano blocchi massicci a media e servizi VPN",
+   "orig": "Espacio Público señala que se mantienen bloqueos masivos a medios de comunicación y servicios VPN en Venezuela",
+   "lead": "L'organizzazione Espacio Público segnala che in Venezuela restano in vigore blocchi massicci a mezzi di comunicazione e servizi VPN. Secondo il rapporto, risultano 46 siti web sbloccati, 40 ancora bloccati e tre con anomalie moderate. Il dato indica un controllo ancora ampio sull'accesso online all'informazione. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/espacio-publico-senala-que-se-mantienen-bloqueos-masivos-a-medios-de-comunicacion-y-servicios-vpn-en-venezuela/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-18T14:03+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zebae1525",
+   "sez": "mondo",
+   "titolo": "Feriti nell'attacco al bus dei tifosi del Deportivo Táchira a Cojedes",
+   "orig": "Reportan varios heridos durante ataque a autobús de aficionados del Deportivo Táchira en Cojedes",
+   "lead": "Secondo le prime segnalazioni, diversi tifosi del Deportivo Táchira sono rimasti feriti nell'attacco al bus su cui viaggiavano a Cojedes, in Venezuela. I veicoli facevano ritorno a San Cristóbal dopo la partita contro il Carabobo FC, valida per la Liga FUTVE, disputata a Valencia. Il numero preciso dei feriti non è indicato nelle informazioni disponibili. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/reportan-9-heridos-durante-ataque-a-autobus-de-aficionados-del-deportivo-tachira-en-cojedes/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-18T12:31+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zae327b3c",
+   "sez": "ambiente",
+   "titolo": "La Bolivia chiede che il laboratorio più alto del mondo sia patrimonio dell'umanità",
+   "orig": "Bolivia busca que el laboratorio más alto del mundo sea patrimonio de la humanidad",
+   "lead": "La Bolivia chiede che il laboratorio più alto del mondo venga riconosciuto patrimonio dell'umanità. In montagna opera anche una stazione della rete di Vigilanza dell'Atmosfera Globale (GAW) dell'Organizzazione meteorologica mondiale, che misura gas serra, aerosol e radiazione. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/bolivia-busca-laboratorio-alto-mundo-sea-patrimonio-humanidad_1792334900",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T14:48+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zcf66f70f",
+   "sez": "economia",
+   "titolo": "Ferrovia Arica–La Paz: il rilancio per aumentare il trasporto di merci boliviane",
+   "orig": "Recuperación del ferrocarril Arica–La Paz como vía para incrementar el movimiento de carga boliviana",
+   "lead": "La Bolivia punta a rilanciare la ferrovia Arica–La Paz per aumentare il trasporto di merci nazionale. L'obiettivo è portare il movimento annuo di carico da 2,7 a 3,1 milioni di tonnellate, riducendo la dipendenza dal solo trasporto su strada. Il progetto mira a diversificare le vie logistiche del Paese. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/recuperacion-ferrocarril-arica-paz-via-incrementar-movimiento-carga-boliviana_1792334249",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T14:37+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zaa17e2b3",
+   "sez": "economia",
+   "titolo": "Oltre 50 opere stradali in Bolivia finanziate con un credito Fonplata da 75 milioni di dollari",
+   "orig": "Más de 50 obras viales se financiarán con $us 75 millones de crédito de Fonplata",
+   "lead": "Oltre 50 opere stradali in Bolivia saranno finanziate con un credito di 75 milioni di dollari della Fonplata. Il piano prevede 42 interventi di riabilitazione, 11 di conservazione e un intervento di riabilitazione maggiore sul tratto Comarapa–Santa Cruz. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/economia/50-obras-viales-financiaran-us-75-millones-credito-fonplata_1792333119",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T14:18+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z4cd1b0be",
+   "sez": "mondo",
+   "titolo": "Ligue 1 Mobilis: il MC Oran è primo a pari merito, la JSEB vince a Costantina",
+   "orig": "Ligue 1 Mobilis : le MCO coleader, la JSEB gagne à Constantine",
+   "lead": "Il MC Oran è salito in vetta alla Ligue 1 Mobilis algerina, a pari merito con il CR Belouizdad, dopo la vittoria di misura sull'USM Khenchela, sabato, in apertura della sesta giornata. Sensazione della giornata la JSEB, che a Costantina ha battuto il CS, centrando un successo esterno nella stessa giornata di campionato. Lo riferisce Le Matin Algérie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/ligue-1-mobilis-le-mco-coleader-la-jseb-gagne-a-constantine/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-18T14:54+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z752f9d17",
+   "sez": "mondo",
+   "titolo": "Visti per la Francia: Capago sospende il prepagamento online",
+   "orig": "Visas pour la France : Capago suspend le prépaiement en ligne",
+   "lead": "Capago, incaricato in Algeria della raccolta delle domande di visto per la Francia, ha sospeso provvisoriamente il prepagamento online delle tasse di visto e dei costi di servizio. I richiedenti sono invitati a pagare in contanti le somme dovute. La decisione colpisce gli algerini che si preparano a chiedere un visto per l'Europa. Lo riferisce Le Matin Algérie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/visas-pour-la-france-capago-suspend-le-prepaiement-en-ligne/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-18T14:46+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zb32291a5",
+   "sez": "mondo",
+   "titolo": "4 anni di carcere per un economista, universitari e dissidenti dietro le sbarre",
+   "orig": "4 ans de prison pour un économiste, des universitaires et des dissidents derrière les barreaux",
+   "lead": "Il tribunale di Dar El Beida, in Algeria, ha condannato l'economista e universitario Djelloul Slama a quattro anni di carcere, dopo le sue critiche sulla redditività del progetto minerario di Gara Djebilet. Il caso, secondo il giornale, richiama la situazione della libertà di espressione nel Paese, dove diversi universitari, giornalisti e militanti sono detenuti o perseguiti per le loro posizioni. Lo riferisce Le Matin Algérie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/4-ans-de-prison-pour-un-economiste-des-universitaires-et-des-dissidents-derriere-les-barreaux/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-18T14:39+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z841be8bb",
+   "sez": "mondo",
+   "titolo": "Tunisia: migliaia in piazza contro il carovita e il calo delle libertà",
+   "orig": "Tunisie : des milliers de personnes manifestent contre la hausse du coût de la vie et le recul des libertés",
+   "lead": "A Tunisi sabato 17 ottobre tra 3.000 e 6.000 persone hanno manifestato contro il carovita e l'arretramento delle libertà, su appello del sindacato UGTT e di altre nove organizzazioni, tra cui la Lega tunisina per i diritti umani e l'ordine degli avvocati. Il giornale sottolinea che la mobilitazione è stata di ampie dimensioni in un contesto in cui la piazza fatica a mobilitarsi. Lo riferisce Le Matin Algérie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/tunisie-des-milliers-de-personnes-manifestent-contre-la-hausse-du-cout-de-la-vie-et-le-recul-des-libertes/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-18T11:26+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zde79d5c9",
+   "sez": "mondo",
+   "titolo": "Joaquín Papa dopo la sconfitta con il Macará: «c'è molto dolore»",
+   "orig": "Joaquín Papa, técnico de Independiente del Valle, y la derrota ante Macará: “hay mucho dolor”",
+   "lead": "Il tecnico uruguaiano Joaquín Papa ha lamentato la sconfitta dell'Independiente del Valle contro il Macará, che nella giornata non ha permesso alla squadra di chiudere il bicampionato. «Hay mucho dolor», ha dichiarato l'allenatore, commentando la battuta d'arresto. Il bicampionato, quindi, è rimandato a un'altra occasione in una giornata che ha lasciato la squadra amareggiata. Lo riferisce El Universo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/deportes/campeonato-ecuatoriano/joaquin-papa-tecnico-de-independiente-del-valle-y-la-derrota-ante-macara-hay-mucho-dolor-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-18T14:36+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z20dd1abd",
+   "sez": "mondo",
+   "titolo": "Sucumbíos: pattuglia militare coinvolta in uno scontro con un gruppo armato",
+   "orig": "Patrulla militar se enfrenta a grupo armado en Sucumbíos",
+   "lead": "Una pattuglia militare è stata coinvolta in uno scontro a fuoco con un gruppo armato nella provincia ecuadoriana di Sucumbíos, nell'Amazzonia al confine con la Colombia. Il veicolo della pattuglia ha ricevuto colpi d'arma da fuoco durante il confronto. Non risultano, al momento, militari feriti o morti tra i militari coinvolti. Lo riferisce El Universo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/seguridad/patrulla-militar-se-enfrenta-a-grupo-armado-en-sucumbios-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-18T13:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z3a4605f6",
+   "sez": "mondo",
+   "titolo": "Pas de la Casa, meno clienti nel fine settimana di proteste",
+   "orig": "Els comerciants del Pas de la Casa noten menys afluència en un cap de setmana de protestes",
+   "lead": "Ad Pas de la Casa, in Andorra, albergatori e commercianti registrano meno affluenza durante un fine settimana di proteste. Secondo alcuni operatori si è ridotta soprattutto la presenza di clienti francesi, e alcuni collegano il calo alle rivolte e ai blocchi stradali. La località è una stazione sciistica al confine con la Francia. Lo riferisce Diari d'Andorra.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261018/els-comerciants-pas-casa-noten-menys-afluencia-cap-setmana-protestes-franca_206768.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-18T14:05+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zd72d0fa3",
+   "sez": "mondo",
+   "titolo": "AS Monaco-Lorient: l'undici di Filipe Luis, con Minamino e Fati",
+   "orig": "Minamino et Fati enchaînent, Camara titulaire... Le onze de l’AS Monaco face à Lorient",
+   "lead": "L'AS Monaco tenta di conservare la vetta della classifica domenica alle 17.15, nella settima giornata di Ligue 1, sul campo del Lorient. Filipe Luis schiera dal primo minuto Takumi Minamino e Ansu Fati, già titolari giovedì contro Sofia in Ligue Conférence. Titolare anche Lamine Camara, acciaccato e sostituito nella ripresa in Bulgaria. Lo riferisce Monaco Matin.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/football/minamino-et-fati-enchainent-camara-titulaire-le-onze-de-l-as-monaco-face-a-lorient-10742338",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-18T16:17+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "ze4707965",
+   "sez": "mondo",
+   "titolo": "Monaco si prepara all'invecchiamento della popolazione",
+   "orig": "Enjeu démographique : comment Monaco se prépare face au vieillissement de sa population",
+   "lead": "La Principauté di Monaco si prepara ad accompagnare un numero crescente di anziani, di fronte a una longevità record accentuata dal progressivo invecchiamento della popolazione. Il tema della gestione della terza età è al centro dell'articolo del quotidiano locale, che illustra come il Paese si stia organizzando per sostenere i senior. Lo riferisce Monaco Matin.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/societe/enjeu-demographique-comment-monaco-se-prepare-face-au-vieillissement-de-sa-population-10741762",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-18T16:00+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zba682828",
+   "sez": "mondo",
+   "titolo": "Senegal: i crediti presso la PNA soffocano l'approvvigionamento di farmaci",
+   "orig": "Ruptures de médicaments : La PNA étouffée par 20 milliards F CFA de créances",
+   "lead": "In Senegal i crediti accumulati presso la Pharmacie nationale d'approvisionnement (PNA), stimati tra 19 e 20 miliardi di franchi CFA, sono tra le principali cause delle difficoltà di approvvigionamento dei medicinali. La situazione riguarda la disponibilità dei farmaci nel Paese, in un contesto di tensione sulle forniture. La PNA risulta quindi soffocata da questi crediti. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sante/ruptures-de-medicaments-la-pna-etouffee-par-20-milliards-f-cfa-de-creances_n_999001039.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T14:54+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z0541dfdf",
+   "sez": "mondo",
+   "titolo": "Senegal, Akilee-Senelec: SOS Consommateurs minaccia denuncia",
+   "orig": "Akilee-Senelec, un nouveau contrat en gestation : SOS Consommateurs menace de porter plainte",
+   "lead": "Me Massokhna Kane, presidente dell'organizzazione consumerista SOS Consommateurs, ha criticato una nuova relazione contrattuale in gestazione tra la Senelec e la società Akilee. Intervenuto in diretta alla trasmissione «Objection» su Sud FM, ha minacciato di presentare denuncia. La relazione contrattuale, descritta come non ancora conclusa, è al centro della polemica sollevata dall'associazione. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Entretien/akilee-senelec-un-nouveau-contrat-en-gestation-sos-consommateurs-menace-de-porter-plainte_n_999001035.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T13:37+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z7e733abb",
+   "sez": "mondo",
+   "titolo": "Ciad, Jean Miguina installato vescovo di Sarh",
+   "orig": "Religion : Jean Miguina installé officiellement évêque de Sarh",
+   "lead": "Monsignor Jean Miguina è stato installato ufficialmente come vescovo della diocesi di Sarh, in Ciad, sabato 17 ottobre 2026. La cerimonia di ordinazione episcopale si è svolta nella cattedrale Notre-Dame de l'Immaculée-Conception, alla presenza di numerosi fedeli e di autorità religiose e amministrative. La celebrazione è iniziata con il discorso di benvenuto del parroco della cattedrale. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/18/religion-jean-miguina-installe-officiellement-eveque-de-sarh/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-18T13:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z9d1acaa4",
+   "sez": "mondo",
+   "titolo": "Benin: le riserve di carburante coprono 3-6 mesi, secondo Houngbédji",
+   "orig": "Bénin : les réserves de carburant peuvent couvrir 3 à 6 mois, selon Léandre Houngbédji",
+   "lead": "Il ministro portavoce del governo beninese Wilfried Léandre Houngbédji ha affermato che le riserve di carburante del Paese possono coprire da tre a sei mesi. Intervenuto domenica 18 ottobre 2026 sulla SRTB, ha cercato di rassicurare i beninesi dopo alcuni giorni di code nelle stazioni di servizio. La situazione riguarda il rifornimento di carburante nel Paese. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-les-reserves-de-carburant-peuvent-couvrir-3-a-6-mois-selon-leandre-houngbedji/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T11:59+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-leandre-houngbedji-evoque-une-perception-positive-de-la-gouvernance-wadagni/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T14:08+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z8594f94a",
+   "sez": "mondo",
+   "titolo": "Guinea, la CRIEF riabilita Sékou Kaké e ordina la restituzione dei suoi beni",
+   "orig": "CRIEF : La Chambre des appels réhabilite Sékou Kaké et ordonne la restitution de ses biens attribués « à tort » au Dr Mohamed Diané",
+   "lead": "A Conakry la Camera d'appello della Corte per la repressione delle infrazioni economiche e finanziarie (CRIEF) ha riabilitato l'imprenditore Sékou Kaké e la sua società SOGEFEL SARL. La decisione ordina la restituzione di tutti i beni immobiliari attribuiti «a tort», cioè a torto, al dottor Mohamed Diané, ex ministro. Una nuova vittoria giudiziaria per Kaké. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/crief-la-chambre-des-appels-rehabilite-sekou-kake-et-ordonne-la-restitution-de-ses-biens-attribues-a-tort-au-dr-mohamed-diane/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T13:32+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zf02a7aa7",
+   "sez": "mondo",
+   "titolo": "Gabon, il colonnello Cyrille Moudoumounene al comando della Legione Ovest della Gendarmeria",
+   "orig": "Port-Gentil : le colonel Cyrille Moudoumounene à la tête de la Légion Ouest de la Gendarmerie",
+   "lead": "Il colonnello Cyrille Moudoumounene ha assunto ufficialmente il comando della Legione Ovest della Gendarmeria nazionale a Port-Gentil, in Gabon. Il passaggio di consegne arriva all'indomani della scomparsa del predecessore, il colonnello Jean Délis Makita, e il nuovo incarico è stato formalizzato il 16 ottobre. Il nuovo comandante prende così la guida del reparto nell'ovest del Paese. Lo riferisce Gabonactu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/18/port-gentil-le-colonel-cyrille-moudoumounene-a-la-tete-de-la-legion-ouest-de-la-gendarmerie/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-18T14:21+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zb1451d82",
+   "sez": "mondo",
+   "titolo": "Libreville, l'acqua potabile torna a Ondogo dopo oltre vent'anni di attesa",
+   "orig": "Libreville : l’eau potable revient après plus de 20 ans d’attente à Ondogo dans le 6e arrondissement",
+   "lead": "A Libreville, nel 6° arrondissement, nel quartiere di Ondogo l'acqua potabile torna dopo oltre vent'anni di attesa. Nella strada campione il 96% delle abitazioni è già collegato alla rete idrica, e sono previsti altri 3.000 allacciamenti. Il cantiere pilota segna così un progresso importante per i residenti della zona. Lo riferisce Gabonactu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/18/libreville-leau-potable-revient-apres-plus-de-20-ans-dattente-a-ondogo-dans-le-6e-arrondissement/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-18T13:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z8cc25336",
+   "sez": "mondo",
+   "titolo": "Marocco, Mohammed VI nomina il nuovo governo guidato da Fatima Ezzahra El Mansouri",
+   "orig": "MAGHREB – Mohammed VI confie 13 portefeuilles ministériels sur 31 confiés à des ministres reconduits",
+   "lead": "Il re Mohammed VI ha nominato venerdì il nuovo governo marocchino, guidato da Fatima Ezzahra El Mansouri, prima donna a ricoprire la carica di primo ministro del Paese. Tredici dei 31 portafogli sono stati affidati a ministri uscenti riconfermati. I titolari dell'Interno e degli Affari esteri mantengono le loro funzioni. La scelta mantiene dunque la continuità ai vertici della sicurezza e della diplomazia. Lo riferisce 2424.mg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/maghreb-mohammed-vi-confie-13-portefeuilles-ministeriels-sur-31-confies-a-des-ministres-reconduits",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-18T13:22+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z984182ee",
+   "sez": "mondo",
+   "titolo": "Iran, Araghchi: se gli Usa rispettano le condizioni, Hormuz riapre in 6 giorni",
+   "orig": "عراقجي: إذا امتثلت أمريكا لشروطنا سيفتح مضيق هرمز في 6 أيام",
+   "lead": "Il ministro degli Esteri iraniano Araghchi, in un messaggio su Telegram, afferma che lo Stretto di Hormuz sarà riaperto entro 6 giorni se gli Stati Uniti rispetteranno le condizioni di Teheran. Le trattative riprenderebbero il settimo giorno. Il messaggio fissa dunque un calendario preciso alle parti coinvolte nella crisi nello stretto. Lo riferisce Mosaïque FM.",
+   "more": [
+    "Lo Stretto di Hormuz collega il Golfo Persico al Golfo di Oman e al mare Arabico, ed è uno dei principali passaggi al mondo per il trasporto di petrolio. Le sue condizioni di transito sono centrali negli equilibri tra Iran e Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1533832/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D8%A5%D8%B0%D8%A7-%D8%A7%D9%85%D8%AA%D8%AB%D9%84%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%84%D8%B4%D8%B1%D9%88%D8%B7%D9%86%D8%A7-%D8%B3%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D9%81%D9%8A-6-%D8%A3%D9%8A%D8%A7%D9%85",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T13:57+01:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B0%D1%80%D0%B0%D0%B3%D1%87%D0%B8-%D0%BF%D0%BE%D0%BD%D1%83%D0%B4%D0%B0%D1%82%D0%B0-%D0%B4%D0%BE-%D1%81%D0%B0%D0%B4-%D0%B7%D0%B0-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%80%D0%BC%D1%83%D1%81%D0%BA%D0%B8%D0%BE%D1%82-%D1%82%D0%B5%D1%81%D0%BD%D0%B5%D1%86-%D1%81%C3%A8-%D1%83%D1%88%D1%82%D0%B5-%D0%B5-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%81%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-18T15:17+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z7755ea6f",
+   "sez": "mondo",
+   "titolo": "Haiti, al via la carovana regionale per formalizzare 5.000 imprese",
+   "orig": "iciHaïti - Caravane régionale : Vers la formalisation de 5,000 entreprises",
+   "lead": "Venerdì 16 ottobre 2026, all'hotel Montana di Pétion-Ville, il ministro del Commercio e dell'Industria James Monazard ha lanciato la «Caravana regionale di formalizzazione e rivitalizzazione del commercio e dell'imprenditorialità». L'obiettivo dichiarato è portare alla formalizzazione 5.000 imprese. L'iniziativa riguarda il commercio e l'imprenditoria a livello regionale. Lo riferisce Haïti Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48692-icihaiti-caravane-regionale-vers-la-formalisation-de-5-000-entreprises.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-18T10:14-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z64abb5c5",
+   "sez": "mondo",
+   "titolo": "Haiti, la nazionale Under 17 intensifica la preparazione per il Mondiale Qatar 2026",
+   "orig": "iciHaïti - Mondial Qatar 2026 : Nos Grenadiers U17 poursuivent leur préparation",
+   "lead": "La nazionale haitiana Under 17 ha intensificato la preparazione in vista della partecipazione al Mondiale Qatar 2026. La seconda tappa del ritiro si è svolta a Ouanaminthe, nel nord-est del Paese. Lì la squadra allenata da Kowsky Sainvil ha disputato tre amichevoli di collaudo. Il programma prosegue in vista dell'appuntamento internazionale. Lo riferisce Haïti Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48690-icihaiti-mondial-qatar-2026-nos-grenadiers-u17-poursuivent-leur-preparation.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-18T09:45-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zf014c24d",
+   "sez": "mondo",
+   "titolo": "Haiti, cerimonia per il 220° anniversario della morte di Jean-Jacques Dessalines",
+   "orig": "Haïti - 220e de Jean-Jacques Dessalines : Cérémonie d'offrande florale et de recueillement",
+   "lead": "Il primo ministro haitiano Fils-Aimé ha deposto una corona di fiori al Museo del Panteon nazionale haitiano, nell'ambito delle commemorazioni del 220° anniversario dell'assassinio di Jean-Jacques Dessalines. Il rito di raccoglimento si è svolto il 17 ottobre. La cerimonia ha ricordato una delle figure centrali della storia nazionale. Lo riferisce Haïti Libre.",
+   "more": [
+    "Jean-Jacques Dessalines guidò Haiti alla proclamazione dell'indipendenza dalla Francia nel 1804 e fu assassinato nel 1806 in un'imboscata a Pont-Rouge. È considerato uno dei padri fondatori del Paese, figura centrale della rivoluzione haitiana."
+   ],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48689-haiti-220e-de-jean-jacques-dessalines-ceremonie-d-offrande-florale-et-de-recueillement.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-18T09:30-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zef339a76",
+   "sez": "mondo",
+   "titolo": "Suriname, la lotta alla tubercolosi resta insufficiente",
+   "orig": "Tuberculosebestrijding Suriname schiet tekort",
+   "lead": "In Suriname la lotta alla tubercolosi resta insufficiente, avverte il ricercatore Eric Commiesie. Il contagio continua a diffondersi soprattutto tra le persone con HIV e i consumatori di droghe, con alta mortalità tra le categorie a rischio. Il Programma nazionale per la tubercolosi da anni soffre di carenza di personale e risorse finanziarie, con ripercussioni sugli interventi necessari. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/tuberculosebestrijding-suriname-schiet-tekort/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-18T14:02+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zac08d9e3",
+   "sez": "mondo",
+   "titolo": "Suriname, l'ambasciatore vietnamita in uscita: rafforzare il commercio economico",
+   "orig": "Scheidende Vietnamese ambassadeur: Economische handel met Suriname verder versterken",
+   "lead": "A Paramaribo il diplomatico vietnamita Bùi Văn Nghị, ambasciatore non residente e in uscita dall'incarico, ha fatto visita di congedo alla presidente Jennifer Geerlings-Simons. Nel colloquio sono stati toccati vari temi di cooperazione, con l'obiettivo di consolidare il rapporto attuale. Secondo il diplomatico, i legami politici e diplomatici tra i due Paesi sono eccellenti, ma il commercio economico va ulteriormente rafforzato. Lo riferisce De Ware Tijd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/scheidende-vietnamese-ambassadeur-economische-handel-met-suriname-verder-versterken/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-18T13:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "zd6e988c8",
+   "sez": "mondo",
+   "titolo": "Bolivia, Urioste insedia i nuovi fiscali dipartimentali lunedì a Sucre",
+   "orig": "Urioste posesionará a nuevos fiscales departamentales este lunes en Sucre",
+   "lead": "Lunedì alle 11:00, nel Salone principale della Fiscalía General del Estado a Sucre, Urioste insedierà i nuovi fiscali dipartimentali. L'atto sarà trasmesso in diretta su Facebook. Si tratta di un passaggio istituzionale che riguarda la gestione dell'accusa pubblica nei dipartimenti del Paese. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/urioste-posesionara-nuevos-fiscales-departamentales-lunes-sucre/20261018091129997797.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T09:11-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z1e422117",
+   "sez": "mondo",
+   "titolo": "El Alto, recicladori ricevono assistenza medica per i rischi del lavoro",
+   "orig": "Recicladores de El Alto reciben atención médica ante los riesgos de su actividad laboral",
+   "lead": "A El Alto, i lavoratori informali del riciclaggio ricevono assistenza medica per i rischi legati alla loro attività. L'Istituto nazionale di salute occupazionale (INSO) ha organizzato giornate di valutazione medica, durante le quali 27 persone sono state assistite individualmente. Il lavoro quotidiano di riciclaggio espone questi lavoratori a pericoli sanitari. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/recicladores-alto-reciben-atencion-medica-riesgos-actividad-laboral/20261018081808997791.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T08:18-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
+   "id": "z5c12e1bc",
+   "sez": "mondo",
+   "titolo": "Sacaba, oggi la Prima Promessa verso la festa della Vergine del Amparo",
+   "orig": "Sacaba vive hoy la Primera Promesa rumbo a la festividad de la Virgen del Amparo",
+   "lead": "A Sacaba prende il via con la Prima Promessa la festa in onore della Vergine del Amparo. Dalle 14:00 sfileranno 37 fraternità nel primo convite della festività religiosa. Prima della sfilata l'immagine della Vergine farà tappa a Colcapirhua. I giorni centrali della festa saranno il 14 e il 15 novembre. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cochabamba/sacaba-vive-hoy-primera-promesa-rumbo-festividad-virgen-amparo/20261018080831997788.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T08:08-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "17:17",
+   "uscita": "17"
+  },
+  {
    "id": "z98c22b11",
    "sez": "mondo",
    "titolo": "Marocco, annunciate sedi e arbitri delle due gare di novembre contro il Niger",
@@ -676,28 +1842,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Iraq",
      "t": "2026-10-18T14:47+03:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:13",
-   "uscita": "17"
-  },
-  {
-   "id": "z4297e406",
-   "sez": "mondo",
-   "titolo": "L'Egitto schiera truppe in Arabia Saudita",
-   "orig": "Egypt Deploys Troops To Saudi Arabia",
-   "lead": "Almeno due aerei egiziani C-130H sono atterrati alla base aerea re Fahd in Arabia Saudita. Si tratta del primo schieramento militare egiziano confermato dall'inizio del conflitto. Lo riferisce Kurdistan24.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Kurdistan24",
-     "p": "XX",
-     "c": "Baghdad",
-     "u": "https://www.kurdistan24.net/en/story/946890/egypt-deploys-troops-to-saudi-arabia",
-     "angolo": "",
-     "atlas": "Iraq",
-     "t": "2026-10-18T14:34+03:00"
     }
    ],
    "data": "18 ott",
@@ -4506,28 +5650,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zaf73fc81",
-   "sez": "mondo",
-   "titolo": "Araghchi: l'offerta agli Stati Uniti per riaprire lo Stretto di Hormuz è ancora sul tavolo",
-   "orig": "Арагчи: Понудата до САД за повторно отворање на Ормускиот теснец сè уште е на маса",
-   "lead": "Il ministro degli Esteri iraniano Abbas Araghchi ha dichiarato domenica 18 ottobre 2026, da Baghdad, che l'offerta dell'Iran agli Stati Uniti per la riapertura dello Stretto di Hormuz è ancora sul tavolo. Il tema riguarda il passaggio marittimo tra il Golfo Persico e il Golfo di Oman. Lo riferisce MIA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "MIA (inglese)",
-     "p": "XX",
-     "c": "Skopje",
-     "u": "https://mia.mk/story/%D0%B0%D1%80%D0%B0%D0%B3%D1%87%D0%B8-%D0%BF%D0%BE%D0%BD%D1%83%D0%B4%D0%B0%D1%82%D0%B0-%D0%B4%D0%BE-%D1%81%D0%B0%D0%B4-%D0%B7%D0%B0-%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%80%D0%BC%D1%83%D1%81%D0%BA%D0%B8%D0%BE%D1%82-%D1%82%D0%B5%D1%81%D0%BD%D0%B5%D1%86-%D1%81%C3%A8-%D1%83%D1%88%D1%82%D0%B5-%D0%B5-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%81%D0%B0",
-     "angolo": "",
-     "atlas": "Macedonia",
-     "t": "2026-10-18T15:17+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:07",
-   "uscita": "17"
-  },
-  {
    "id": "z24df0a4e",
    "sez": "ambiente",
    "titolo": "Rifiuti come risorsa, non da buttare: il caso del mercato di Tandale",
@@ -5347,6 +6469,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Romania",
      "t": "2026-10-18T14:51+00:00"
+    },
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/ze-swiata/sabotaz-lub-dywersja-kolejny-incydent-ze-starlinkiem-st9293383?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T13:14+00:00"
     }
    ],
    "data": "18 ott",
@@ -8416,6 +9547,24 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-10-18T11:50+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/premiere-apparition-de-leon-xiv-depuis-son-operation-ce-quil-a-dit-a-la-foule/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-18T12:16+00:00"
+    },
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/swiat/papiez-leon-xiv-zwrocil-sie-do-wiernych-z-okna-palacu-apostolskiego-po-przebytej-operacji-st9293410?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-18T14:14+00:00"
     }
    ],
    "data": "18 ott",
@@ -10469,7 +11618,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zd15fc91d": "ERT News, testata pubblica greca, evidenzia la risposta della Protezione civile regionale alle forti piogge.",
   "zf36d2b49": "MIA, agenzia di stampa macedone, riporta i dati ufficiali sull'affluenza senza commenti aggiuntivi.",
   "zbacc7bd7": "MIA riporta in sintesi i risultati della giornata di campionato, con focus sulle squadre ospiti.",
-  "zaf73fc81": "MIA riporta la dichiarazione del ministro iraniano senza commenti aggiuntivi.",
   "z24df0a4e": "Daily News, quotidiano tanzaniano, presenta il tema dei rifiuti dei mercati come risorsa per l'agricoltura.",
   "z68091d48": "Daily News, quotidiano tanzaniano, riporta l'impegno diplomatico olandese nel settore avicolo.",
   "zf08a1cc4": "Premium Times, quotidiano nigeriano, riporta le parole del governatore dal punto di vista politico.",
@@ -10576,7 +11724,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zda4514f1": "Kurdistan24 dà voce a una posizione favorevole al sostegno a Erbil, con taglio d'opinione.",
   "z8e92e657": "Kurdistan24 riporta il progetto ambientale con taglio informativo.",
   "ze532af63": "Kurdistan24 riporta l'iniziativa del governo regionale con taglio istituzionale.",
-  "z4297e406": "Kurdistan24 segnala lo schieramento militare con taglio di aggiornamento sul conflitto.",
   "ze556a15e": "Daryo riporta il tema con taglio economico e di cooperazione bilaterale.",
   "zbf77e723": "3News segue la cronaca locale ghanese con taglio informativo sulla prevenzione degli incendi.",
   "z844b2975": "3News riporta la notizia con attenzione ai dati documentali forniti dal governo.",
@@ -10611,7 +11758,59 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zbce42255": "Cronaca meteo con dati puntuali sulle precipitazioni, attenta alle aree più colpite.",
   "zc0acc3a0": "Taglio di curiosità leggera, che punta sulla storia personale più che su un fatto di cronaca dura.",
   "z911d5560": "Il pezzo riporta la richiesta di Klaver sulla fiscalità, con un taglio di cronaca politica.",
-  "z33f2c19a": "Il quotidiano olandese dà conto del clima politico francese con sguardo esterno, enfatizzando la gravità degli scontri."
+  "z33f2c19a": "Il quotidiano olandese dà conto del clima politico francese con sguardo esterno, enfatizzando la gravità degli scontri.",
+  "ze05c13fe": "La NZZ segue la crisi francese con un aggiornamento in tempo reale, privilegiando la cronaca degli ultimi sviluppi.",
+  "z38f5afd3": "Der Standard punta sulla difficoltà politica del governo, collegando la violenza di piazza alle responsabilità della classe dirigente.",
+  "zc9366ab3": "Der Standard sottolinea la critica dei manifestanti verso l'Europa, mettendo in risalto le accuse di inerzia rivolte alle capitali europee.",
+  "z8b5c56f7": "Der Standard racconta la scoperta come un tassello per capire le origini dei fenomeni radio cosmici, con un'attenzione al dato sorprendente sulle dimensioni della galassia.",
+  "z9a42affe": "Dagens Nyheter riporta la posizione del governo svedese, mettendo in evidenza la richiesta diretta rivolta a Israele.",
+  "z430146e8": "Dagens Nyheter pubblica un'opinione critica verso Trump, con un taglio personale e polemico sulle sue scelte verso Mosca.",
+  "zf043956e": "Dagens Nyheter racconta lo scontro politico interno ai partiti svedesi, dando spazio alle voci delle organizzazioni giovanili.",
+  "z31bcd509": "TVN24 riprende un'inchiesta di Daily NK, mettendo in risalto le condizioni dei lavoratori e la violazione delle sanzioni.",
+  "z3bd113ac": "TVN24 valorizza la scoperta archeologica come traccia della storia dei confini polacchi nell'Ottocento.",
+  "ze00640b4": "Folha de S.Paulo riporta le parole del generale britannico, dando risalto al tema della preparazione civile alla difesa.",
+  "z9433053c": "Folha de S.Paulo presenta la misura come strumento di previdenza futura, sottolineando il vincolo di accesso alla pensione.",
+  "zffcfb016": "Clarín riporta le dichiarazioni di Rubio con un taglio centrato sulla posizione di Washington.",
+  "zb63139ba": "Clarín affronta la vicenda come curiosità storica, con un taglio divulgativo.",
+  "z03cd46a9": "Clarín adotta un taglio analitico, confrontando la retorica di Trump con i risultati concreti.",
+  "z27e12986": "La Tercera dà rilievo ai dati di consenso, leggendoli come segnale di miglioramento per il governo.",
+  "z82844729": "La Tercera riporta le posizioni di un ex ministro sul tema dei condannati malati, con un taglio di dibattito politico.",
+  "z9afb160c": "La Tercera racconta la storia dell'impresa come esempio di innovazione nata in Cile e cresciuta a livello internazionale.",
+  "z796b1510": "El Tiempo presenta il caso come vicenda di malasanità e di risposte mancate, con un taglio di interesse umano.",
+  "z3ea17dfc": "El Comercio dà spazio alle dichiarazioni del futuro incaricato, lette in chiave di rapporti con Washington.",
+  "z2a3ede6f": "El Comercio segue il processo giudiziario con un taglio di cronaca, riportando la richiesta della pubblica accusa.",
+  "z6c92afd0": "El Observador riporta la decisione interna del partito con un taglio di cronaca politica.",
+  "z9db08014": "El Nacional dà spazio a un rapporto di monitoraggio sulla libertà di accesso all'informazione in rete.",
+  "zebae1525": "El Nacional riporta l'episodio di violenza legato al calcio con un taglio di cronaca.",
+  "zae327b3c": "El Deber presenta la candidatura come iniziativa di valorizzazione scientifica e ambientale del Paese.",
+  "zcf66f70f": "El Deber inquadra il progetto ferroviario come strumento per alleggerire la dipendenza dalla gomma.",
+  "zaa17e2b3": "El Deber segue l'annuncio con un taglio informativo sugli investimenti infrastrutturali.",
+  "z4cd1b0be": "Il quotidiano algerino privilegia il racconto dei risultati e della classifica.",
+  "z752f9d17": "Il quotidiano algerino dà rilievo alle conseguenze pratiche per i richiedenti di visto.",
+  "zb32291a5": "Il quotidiano algerino inquadra la condanna nel più ampio tema della libertà di espressione.",
+  "z841be8bb": "Il quotidiano algerino dà conto della manifestazione sottolineandone le dimensioni.",
+  "zde79d5c9": "Il quotidiano ecuadoriano privilegia il commento del tecnico sulla sconfitta.",
+  "z20dd1abd": "Il quotidiano riferisce i fatti in modo sintetico, concentrandosi sull'impatto dello scontro sul veicolo militare.",
+  "z3a4605f6": "Il quotidiano andorrano privilegia le testimonianze di albergatori e commercianti locali.",
+  "zd72d0fa3": "Il quotidiano monegasco segue la squadra con taglio tecnico, dando risalto alle scelte di formazione.",
+  "ze4707965": "Il quotidiano locale privilegia il tema sociale e demografico del Principato.",
+  "zba682828": "Il sito senegalese riporta le cifre sui crediti senza entrare nel dettaglio delle responsabilità.",
+  "z0541dfdf": "Il sito riporta le posizioni dell'associazione dei consumatori, senza dati aggiuntivi sul contratto.",
+  "z7e733abb": "Il quotidiano ciadiano dà conto dell'evento con taglio cronachistico.",
+  "z9d1acaa4": "Il quotidiano riporta le rassicurazioni del governo sulla disponibilità di carburante.",
+  "z8594f94a": "Africaguinee presenta la decisione come una vittoria dell'imprenditore Kaké e della sua società.",
+  "zf02a7aa7": "Gabonactu dà risalto al passaggio di comando interno alla gendarmeria, con taglio di cronaca istituzionale.",
+  "zb1451d82": "Gabonactu sottolinea i risultati del cantiere pilota sull'acqua potabile, con dati su allacci e prospettive future.",
+  "z8cc25336": "2424.mg privilegia il dato sulle conferme ministeriali e sulla leadership femminile dell'esecutivo.",
+  "z984182ee": "Mosaïque FM riporta le parole di Araghchi, dando risalto alle condizioni poste da Teheran a Washington.",
+  "z7755ea6f": "Haïti Libre riporta l'annuncio ufficiale del ministero, senza valutazioni indipendenti sui risultati attesi.",
+  "z64abb5c5": "Haïti Libre segue la preparazione della nazionale giovanile con taglio di cronaca sportiva.",
+  "zf014c24d": "Haïti Libre registra la cerimonia commemorativa ufficiale con taglio di cronaca istituzionale.",
+  "zef339a76": "De Ware Tijd dà voce a un ricercatore critico verso il sistema sanitario, evidenziandone le carenze strutturali.",
+  "zac08d9e3": "De Ware Tijd riporta il messaggio di congedo del diplomatico, con taglio diplomatico e istituzionale.",
+  "zd6e988c8": "Opinión (Bolivia) riporta l'agenda ufficiale dell'insediamento, con taglio di servizio.",
+  "z1e422117": "Opinión (Bolivia) privilegia l'aspetto sanitario e sociale del lavoro informale di riciclaggio.",
+  "z5c12e1bc": "Opinión (Bolivia) segue la festività religiosa con taglio locale e di servizio."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -12771,14 +13970,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "zaf73fc81": {
-   "n": "Stretto di Hormuz",
-   "p": [
-    "Iran",
-    "Oman"
-   ],
-   "pt": []
-  },
   "z24df0a4e": {
    "n": "Dar es Salaam",
    "p": [
@@ -13522,13 +14713,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z4297e406": {
-   "n": "Arabia Saudita",
-   "p": [
-    "Saudi Arabia"
-   ],
-   "pt": []
-  },
   "ze556a15e": {
    "n": "Uzbekistan e Cina",
    "p": [
@@ -13772,6 +14956,370 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "n": "Parigi",
    "p": [
     "France"
+   ],
+   "pt": []
+  },
+  "ze05c13fe": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z38f5afd3": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc9366ab3": {
+   "n": "Albania",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z8b5c56f7": {
+   "n": "Spazio profondo",
+   "p": [],
+   "pt": []
+  },
+  "z9a42affe": {
+   "n": "Cisgiordania",
+   "p": [],
+   "pt": []
+  },
+  "z430146e8": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf043956e": {
+   "n": "Svezia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z31bcd509": {
+   "n": "Corea del Nord e Russia",
+   "p": [
+    "North Korea",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z3bd113ac": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "ze00640b4": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z9433053c": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zffcfb016": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zb63139ba": {
+   "n": "Florida",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z03cd46a9": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z27e12986": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z82844729": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z9afb160c": {
+   "n": "Puerto Varas (Cile) e fiordi norvegesi",
+   "p": [
+    "Chile",
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z796b1510": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3ea17dfc": {
+   "n": "Perù",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z2a3ede6f": {
+   "n": "Valle dei fiumi Apurímac, Ene e Mantaro (Vraem)",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z6c92afd0": {
+   "n": "Uruguay",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z9db08014": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zebae1525": {
+   "n": "Cojedes",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zae327b3c": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zcf66f70f": {
+   "n": "Arica–La Paz",
+   "p": [
+    "Chile",
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zaa17e2b3": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z4cd1b0be": {
+   "n": "Costantina",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "z752f9d17": {
+   "n": "Algeria",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "zb32291a5": {
+   "n": "Dar El Beida",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "z841be8bb": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zde79d5c9": {
+   "n": "Ecuador",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z20dd1abd": {
+   "n": "Sucumbíos",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z3a4605f6": {
+   "n": "Pas de la Casa",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zd72d0fa3": {
+   "n": "Lorient",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze4707965": {
+   "n": "Monaco",
+   "p": [
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "zba682828": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z0541dfdf": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z7e733abb": {
+   "n": "Sarh",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z9d1acaa4": {
+   "n": "Benin",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z8594f94a": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zf02a7aa7": {
+   "n": "Port-Gentil",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "zb1451d82": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z8cc25336": {
+   "n": "Marocco",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z984182ee": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Iran",
+    "Oman"
+   ],
+   "pt": []
+  },
+  "z7755ea6f": {
+   "n": "Pétion-Ville",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z64abb5c5": {
+   "n": "Ouanaminthe",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zf014c24d": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "zef339a76": {
+   "n": "Suriname",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "zac08d9e3": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "zd6e988c8": {
+   "n": "Sucre",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z1e422117": {
+   "n": "El Alto",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z5c12e1bc": {
+   "n": "Sacaba",
+   "p": [
+    "Bolivia"
    ],
    "pt": []
   }
@@ -14044,7 +15592,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zd15fc91d": 1,
   "zf36d2b49": 1,
   "zbacc7bd7": 1,
-  "zaf73fc81": 1,
   "z24df0a4e": 1,
   "z68091d48": 1,
   "zf08a1cc4": 1,
@@ -14151,7 +15698,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zda4514f1": 1,
   "z8e92e657": 1,
   "ze532af63": 1,
-  "z4297e406": 1,
   "ze556a15e": 1,
   "zbf77e723": 1,
   "z844b2975": 2,
@@ -14186,7 +15732,59 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zbce42255": 1,
   "zc0acc3a0": 1,
   "z911d5560": 1,
-  "z33f2c19a": 1
+  "z33f2c19a": 1,
+  "ze05c13fe": 1,
+  "z38f5afd3": 1,
+  "zc9366ab3": 1,
+  "z8b5c56f7": 1,
+  "z9a42affe": 1,
+  "z430146e8": 1,
+  "zf043956e": 1,
+  "z31bcd509": 1,
+  "z3bd113ac": 1,
+  "ze00640b4": 1,
+  "z9433053c": 1,
+  "zffcfb016": 1,
+  "zb63139ba": 1,
+  "z03cd46a9": 1,
+  "z27e12986": 1,
+  "z82844729": 1,
+  "z9afb160c": 1,
+  "z796b1510": 1,
+  "z3ea17dfc": 1,
+  "z2a3ede6f": 1,
+  "z6c92afd0": 1,
+  "z9db08014": 1,
+  "zebae1525": 1,
+  "zae327b3c": 1,
+  "zcf66f70f": 1,
+  "zaa17e2b3": 1,
+  "z4cd1b0be": 1,
+  "z752f9d17": 1,
+  "zb32291a5": 1,
+  "z841be8bb": 1,
+  "zde79d5c9": 1,
+  "z20dd1abd": 1,
+  "z3a4605f6": 1,
+  "zd72d0fa3": 1,
+  "ze4707965": 1,
+  "zba682828": 1,
+  "z0541dfdf": 1,
+  "z7e733abb": 1,
+  "z9d1acaa4": 1,
+  "z8594f94a": 1,
+  "zf02a7aa7": 1,
+  "zb1451d82": 1,
+  "z8cc25336": 1,
+  "z984182ee": 2,
+  "z7755ea6f": 1,
+  "z64abb5c5": 1,
+  "zf014c24d": 1,
+  "zef339a76": 1,
+  "zac08d9e3": 1,
+  "zd6e988c8": 1,
+  "z1e422117": 1,
+  "z5c12e1bc": 1
  },
  "video": {},
  "pillole": []
