@@ -3,6 +3,1641 @@ window.EDIZIONI["2026-10-18-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "ze67c4f26",
+   "sez": "mondo",
+   "titolo": "Karnataka: il ministro Kumaraswamy chiede un'indagine SIT sul presunto video 'sting'",
+   "orig": "Karnataka: Union Minister H.D. Kumaraswamy seeks SIT probe into alleged sting video",
+   "lead": "Il ministro dell'Unione H.D. Kumaraswamy chiede un'indagine speciale SIT sul presunto video 'sting' nello Stato indiano del Karnataka. Di recente Kumaraswamy ha partecipato a un sit-in davanti all'ufficio del Commissario di polizia di Bengaluru, protestando contro il fermo di due collaboratori dell'ala informatica del JD(S), accusati di aver diffuso il video in questione. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/karnataka/karnataka-union-minister-hd-kumaraswamy-seeks-sit-probe-into-alleged-sting-video/article71596338.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T23:03+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7afa06ac",
+   "sez": "mondo",
+   "titolo": "Il Governo indiano chiede a Meta di rivedere la promozione dei contenuti su Facebook e Instagram",
+   "orig": "Centre tells Meta to overhaul content promotion system on Facebook, Instagram",
+   "lead": "Il governo indiano ha imposto a Meta di rivedere il sistema di promozione dei contenuti su Facebook e Instagram, chiedendo algoritmi di raccomandazione diversificati. Il Ministero dell'Elettronica e dell'Informatica ha diffuso un avviso che richiama la due diligence prevista dalle regole IT, sottolineando l'urgenza di individuare e rivedere rapidamente i contenuti capaci di generare disordini pubblici. Meta dovrà inoltre fornire tempestivamente informazioni alle forze dell'ordine. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/centre-issues-advisory-to-meta-asks-it-to-overhaul-content-promotion-system-on-facebook-instagram/articleshow/135031374.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T22:07+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7486a445",
+   "sez": "mondo",
+   "titolo": "Amazon minaccia di spostare 5.000 posti di consegna fuori da New York per la legge di Mamdani",
+   "orig": "Amazon threatens to pull 5,000 delivery jobs out of New York City over Mamdani's bill",
+   "lead": "Amazon minaccia di chiudere 15 magazzini e trasferire migliaia di posti di lavoro nelle consegne fuori da New York, per opporsi al Delivery Protection Act, legge sostenuta dal sindaco Zohran Mamdani. Il provvedimento obbligherebbe Amazon ad assumere direttamente 5.000 autisti oggi a contratto. Secondo gli esperti di logistica il gruppo potrebbe farlo davvero, come già accaduto a Montreal, dove ha chiuso sette magazzini dopo una campagna sindacale. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/technology/tech-news/unhappy-with-new-york-city-mayor-zohran-mamdanis-labour-bill-amazon-threatens-to-take-5000-delivery-jobs-out-of-the-city-and-experts-point-to-what-the-company-did-in-canada-when-/articleshow/135031122.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-18T21:11+05:30"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5f7a269a",
+   "sez": "mondo",
+   "titolo": "Bilawal: l'amministrazione del governatore in KP potrebbe finire se l'opposizione collabora sul terrorismo",
+   "orig": "Bilawal says KP governor's rule could end if opposition engages with Centre on counterterrorism policy",
+   "lead": "Il leader del PPP Bilawal Bhutto-Zardari dice che l'amministrazione del governatore e lo stato di emergenza nel Khyber Pakhtunkhwa, provincia pakistana, potrebbero finire se l'opposizione si impegnerà nella lotta al terrorismo e collaborerà con il Centro su un piano comune. Parlando domenica con la stampa a Karachi, durante la visita al Monumento Karsaz nel 19° anniversario dell'attentato, ha espresso la sua posizione. Il provvedimento è stato adottato una settimana fa. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038032/bilawal-says-kp-governors-rule-could-end-if-opposition-engages-with-centre-on-counterterrorism-policy",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T21:25+05:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038032/bilawal-says-kp-governors-rule-could-end-if-opposition-agrees-to-fight-against-terrorism",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T19:39+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8a3de7eb",
+   "sez": "mondo",
+   "titolo": "Il Nepal importa 2 milioni di mazzi di carte in due mesi",
+   "orig": "Nepal imports 2 million packs of playing cards in two months",
+   "lead": "Il Nepal ha importato 2 milioni di mazzi di carte da gioco nei primi due mesi dell'attuale anno fiscale, per un valore di 51,8 milioni di rupie nepalesi. Le importazioni hanno generato 31,1 milioni di rupie di entrate doganali, cifra che contribuisce alle entrate pubbliche del Paese. Il dato riguarda il commercio di beni di consumo e l'impatto sui conti statali. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/money/2026/10/18/nepal-imports-2-million-packs-of-playing-cards-in-two-months",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z130e775a",
+   "sez": "mondo",
+   "titolo": "Tulfo esorta i lavoratori filippini in Francia, Arabia Saudita e Israele alla massima prudenza",
+   "orig": "Tulfo urges OFWs in France, Saudi Arabia, Israel to stay vigilant",
+   "lead": "Il senatore filippino Erwin Tulfo, vicepresidente della commissione Relazioni Estere del Senato, invita i lavoratori filippini all'estero in Francia, Arabia Saudita e Israele a intensificare la prudenza. Il richiamo segue notizie di disordini violenti, attacchi e minacce alla sicurezza nei tre Paesi. In particolare, Tulfo chiede ai connazionali a Parigi di restare vigili davanti agli scontri tra manifestanti e forze dell'ordine e ai casi di saccheggio. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://globalnation.inquirer.net/342569/tulfo-urges-ofws-in-france-saudi-arabia-israel-to-stay-vigilant",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T00:42+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8e9591b8",
+   "sez": "mondo",
+   "titolo": "Milano, la polizia si scontra con i manifestanti nel secondo giorno di disordini",
+   "orig": "Milan police clash with protesters on second day of unrest",
+   "lead": "A Milano, il 18 ottobre, la polizia si è scontrata con i manifestanti, che hanno lanciato pietre e saccheggiato negozi durante le proteste contro i servizi carenti e il rincaro della vita. Il giorno prima disordini simili erano scoppiati in diverse città italiane. Si tratta del secondo giorno consecutivo di tensioni nel capoluogo lombardo. Le proteste riguardano i servizi pubblici e il costo della vita. Lo riferisce The Straits Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/milan-police-clash-with-protesters-on-second-day-of-unrest",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T01:35+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z85ced58a",
+   "sez": "mondo",
+   "titolo": "Parigi, nuovi scontri tra polizia, manifestanti e saccheggiatori",
+   "orig": "Paris police in new battles with protesters and looters",
+   "lead": "La polizia di Parigi è tornata a scontrarsi con manifestanti e saccheggiatori, dopo che alcune centinaia di persone si sono radunate in place de la République seguendo appelli diffusi sui social media. Le nuove tensioni arrivano dopo gli incidenti di sabato. Il caos di sabato ha lasciato auto incendiate, vetrine distrutte e detriti da rimuovere. Lo riferisce The Straits Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/paris-police-in-new-battles-with-protesters-and-looters",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T00:52+08:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1e5870c2",
+   "sez": "mondo",
+   "titolo": "Università di Pittsburgh pubblica rapporto sull'antisemitismo senza consultare studenti ebrei",
+   "orig": "U of Pittsburgh publishes antisemitism report without consulting Jewish students",
+   "lead": "L'Università di Pittsburgh, negli Stati Uniti, ha pubblicato un rapporto sull'antisemitismo senza consultare i 1.400 studenti ebrei dell'ateneo, che non sono mai stati interpellati come testimoni. Il gruppo di lavoro che lo ha redatto è composto da ebrei, ma chi ha scritto il testo parla di un gruppo 'molto diversificato'. Lo riferisce The Times of Israel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Times of Israel",
+     "p": "XX",
+     "c": "Gerusalemme",
+     "u": "https://www.timesofisrael.com/u-of-pittsburgh-publishes-antisemitism-report-without-consulting-jewish-students/",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-18T16:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2cad50ba",
+   "sez": "mondo",
+   "titolo": "In un briefing pre-elettorale il premier promette di abbattere il regime iraniano e minimizza la violenza dei coloni",
+   "orig": "In pre-election briefing, PM vows to topple Iranian regime, downplays settler violence",
+   "lead": "Nel corso di un raro incontro con la stampa in vista delle elezioni, il premier israeliano Benjamin Netanyahu ha promesso di abbattere il regime iraniano e ha minimizzato la violenza dei coloni. Ha avvertito che sono in gioco le sorti esistenziali del Paese nel voto della prossima settimana, ha ribadito l'impegno a completare gli obiettivi della guerra e ha illustrato una nuova dottrina di sicurezza offensiva. Lo riferisce The Times of Israel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Times of Israel",
+     "p": "XX",
+     "c": "Gerusalemme",
+     "u": "https://www.timesofisrael.com/in-pre-election-briefing-pm-vows-to-topple-iranian-regime-downplays-settler-violence/",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-18T15:50+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7f8a9303",
+   "sez": "mondo",
+   "titolo": "Netanyahu smentisce Ben-Gvir: non lo escluderà dalla prossima coalizione",
+   "orig": "Netanyahu rejects Ben-Gvir's claims that PM vowed to keep him out of the next coaltion",
+   "lead": "Il premier Benjamin Netanyahu ha respinto le affermazioni del ministro Itamar Ben-Gvir, secondo cui il premier gli avrebbe promesso di tenerlo fuori dalla prossima coalizione di governo. Netanyahu ha dichiarato alla stampa di voler formare una coalizione con il partito di Ben-Gvir dopo le elezioni. Ben-Gvir sostiene invece che Netanyahu abbia detto ai Paesi dell'Unione Europea che il ministro di estrema destra non entrerà nel governo. Lo riferisce Haaretz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/elections/2026-10-18/ty-article/.premium/netanyahu-rejects-ben-gvirs-claims-that-pm-vowed-too-keep-him-out-of-next-govt/000001a1-4fc2-df02-a7e9-cfffd1d80000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-18T20:45+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf325b6c1",
+   "sez": "mondo",
+   "titolo": "Il miliardario legato a Trump dona un record di 250 milioni di dollari all'Università Ebraica",
+   "orig": "Trump-tied businessman donates record $250 million to Jerusalem's Hebrew University",
+   "lead": "Il miliardario John Paulson, sostenitore e consigliere del presidente statunitense Donald Trump, ha donato 250 milioni di dollari all'Università Ebraica di Gerusalemme, in Israele. È la donazione più grande mai ricevuta dall'ateneo. Paulson sostiene Trump dalla sua prima candidatura nel 2016. Il sostegno arriva da un uomo d'affari legato alla politica statunitense, come sottolinea la testata. Lo riferisce Haaretz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/2026-10-18/ty-article/.premium/american-businessman-donates-record-250m-to-jerusalems-hebrew-university/000001a1-4f21-de3e-adef-cf75ac790000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-18T18:27+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "za857bc71",
+   "sez": "mondo",
+   "titolo": "Abdullah bin Zayed discute con il Segretario principale del premier canadese il rafforzamento dei legami bilaterali",
+   "orig": "Abdullah bin Zayed, Canadian Prime Minister’s Principal Secretary discuss strengthening bilateral ties",
+   "lead": "Abdullah bin Zayed ha incontrato il Segretario principale del primo ministro canadese per discutere del rafforzamento dei rapporti bilaterali tra Emirati Arabi Uniti e Canada. Il colloquio si inserisce nei contatti tra i due Paesi per consolidare la cooperazione bilaterale. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/government/abdullah-bin-zayed-canadian-prime-ministers-principal-secretary-discuss-strengthening-bilateral-ties-1.500715252",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T21:40+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8776a2ee",
+   "sez": "mondo",
+   "titolo": "Cinque convogli emiratini con 789 tonnellate di aiuti entrano a Gaza",
+   "orig": "Five UAE aid convoys carrying 789 tonnes of supplies enter Gaza under Operation Gallant Knight 3",
+   "lead": "Cinque convogli di aiuti degli Emirati Arabi Uniti, con 789 tonnellate di forniture, sono entrati nella Striscia di Gaza nell'ambito di un'operazione umanitaria emiratina. Il carico è destinato all'assistenza umanitaria nella Striscia, colpita dal conflitto. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/mena/five-uae-aid-convoys-carrying-789-tonnes-of-supplies-enter-gaza-under-operation-gallant-knight-3-1.500715220",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T21:13+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdb5ef799",
+   "sez": "mondo",
+   "titolo": "'387 miliardi di pesos': sviluppatori puntano su hotel nelle Filippine, Mindanao emerge nel turismo",
+   "orig": "‘₱387 billion’: Developers double down on Philippine hotels, Mindanao's quiet rise in tourism",
+   "lead": "Gli sviluppatori immobiliari stanno puntando con decisione sugli hotel nelle Filippine, per una cifra di 387 miliardi di pesos. Parallelamente la regione di Mindanao mostra una crescita silenziosa nel settore turistico. La testata accompagna il servizio con immagini di edifici in costruzione al Bonifacio Global City, a Manila. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/asia/philippines/387-billion-developers-double-down-on-philippine-hotels-mindanaos-quiet-rise-in-tourism-1.500694499",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T20:22+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z61a12d18",
+   "sez": "mondo",
+   "titolo": "Egitto e Giappone trasformano 20 scuole tecniche in istituti per infermieristica e IT",
+   "orig": "Japanese education group, Egypt to transform 20 technical schools for nursing and IT",
+   "lead": "L'Egitto collabora con il gruppo educativo giapponese Kyoto Ikueikan per trasformare entro il prossimo anno accademico 20 scuole tecniche in istituti internazionali di tecnologia applicata. Gli istituti si specializzeranno in infermieristica, assistenza agli anziani e informatica. Il ministro dell'Istruzione e dell'Istruzione Tecnica Mohamed Abdel Latif ha incontrato domenica Hidetaka Matsuo, amministratore delegato del gruppo. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/18/japanese-education-group-egypt-to-transform-20-technical-schools-for-nursing-and-it/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-18T15:57+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdf7d72ff",
+   "sez": "mondo",
+   "titolo": "Imprese giapponesi ottengono supporto normativo e garanzie sui permessi di lavoro in Egitto",
+   "orig": "Japanese businesses secure regulatory support and work permit assurances during talks with Egyptian labour ministry",
+   "lead": "Il ministero del Lavoro egiziano ha lanciato una Unità di facilitazione per gli investitori per semplificare le procedure regolamentari. Il ministro Hassan Radad si è impegnato domenica a risolvere le criticità sui permessi di lavoro per stranieri, per favorire l'espansione delle aziende giapponesi nel mercato interno. L'annuncio è arrivato durante un incontro nella sede del ministero nella Nuova Capitale Amministrativa. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/18/japanese-businesses-secure-regulatory-support-and-work-permit-assurances-during-talks-with-egyptian-labour-ministry/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-18T15:54+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z130aeb68",
+   "sez": "mondo",
+   "titolo": "L'Egitto firma contratti da 4,6 miliardi di EGP per gestire 11 impianti di dissalazione",
+   "orig": "Egypt signs EGP 4.6bn contracts to operate, maintain 11 desalination plants",
+   "lead": "L'Egitto ha firmato contratti per circa 4,6 miliardi di sterline egiziane per gestire e mantenere 11 impianti di dissalazione dell'acqua di mare, con capacità progettuale complessiva di 485.000 metri cubi al giorno. L'obiettivo del governo è migliorare l'efficienza operativa ed estendere la partecipazione del settore privato nel comparto idrico. I contratti riguardano impianti collegati a tre enti per l'acqua potabile e le acque reflue. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/18/egypt-signs-egp-4-6bn-contracts-to-operate-maintain-11-desalination-plants/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-18T15:52+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze10c1550",
+   "sez": "mondo",
+   "titolo": "Il vicepresidente emiratino discute con il ministro saudita degli sviluppi regionali ad Abu Dhabi",
+   "orig": "UAE vice president discusses regional developments with Saudi minister in Abu Dhabi, WAM reports",
+   "lead": "Il vicepresidente degli Emirati Arabi Uniti Mansour bin Zayed Al Nahyan ha discusso dei recenti sviluppi in Medio Oriente con il ministro della Difesa saudita Khalid bin Salman, in visita ad Abu Dhabi. Lo ha riferito domenica l'agenzia di stampa emiratina WAM. Il colloquio arriva poche settimane dopo una visita di Mansour a Riad, prima trasferta di un alto funzionario emiratino nel regno dopo una profonda frattura tra i due Paesi. Lo riferisce Middle East Eye.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T17:11+01:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/government/mansour-bin-zayed-meets-saudi-defence-minister-khalid-bin-salman-in-abu-dhabi-1.500715180",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T20:14+04:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/government/c2szucy-uae-president-receives-prince-khalid-bin-salman-1.500715193",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-18T20:32+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zca21f2f2",
+   "sez": "mondo",
+   "titolo": "Netanyahu ringrazia Trump per il 'tremendo sostegno' prima del voto in Israele",
+   "orig": "Netanyahu thanks Trump for 'tremendous support' before Israel elections",
+   "lead": "Il premier israeliano Benjamin Netanyahu ha ringraziato domenica il presidente statunitense Donald Trump per il suo sostegno in vista delle elezioni parlamentari del 27 ottobre. In un post su X ha scritto: 'Grazie, presidente Trump, per il tuo tremendo sostegno!'. Il messaggio segue una lettera con cui Trump ha assicurato il pieno appoggio al premier. Lo riferisce Middle East Eye.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-thanks-trump-tremendous-support-israel-elections",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T16:33+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z27f67c7e",
+   "sez": "mondo",
+   "titolo": "Scott Boland irresistibile per il Sudafrica, e per Nathan Lyon",
+   "orig": "Scott Boland was irresistible for South Africa - and for Nathan Lyon",
+   "lead": "In una giornata dominata dalla pioggia, Scott Boland ha firmato un doppio colpo decisivo contro il Sudafrica. La sua prestazione ha pesato anche sulla scelta di escludere Nathan Lyon, un'omissione che ha assunto un significato particolare. Lo riferisce Sydney Morning Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/sport/cricket/scott-boland-was-irresistible-for-south-africa-and-for-nathan-lyon-20261019-p616je.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-19T04:59+11:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z57609ebc",
+   "sez": "mondo",
+   "titolo": "'Come se ci fosse stata una guerra': la Francia conta i danni delle proteste violente",
+   "orig": "‘Like we had a war’: France counts cost of violent protests",
+   "lead": "Le autorità di Parigi riferiscono di 557 persone in custodia dopo 855 arresti avvenuti sabato, durante le violente proteste in Francia. Le manifestazioni contro il carovita sono degenerate in scontri, incendi e saccheggi in diverse città. Il bilancio delle violenze viene descritto con l'immagine di una guerra. Lo riferisce NZ Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/like-we-had-a-war-france-counts-cost-of-violent-protests/JES4DCHJYVEIVLWOREGBWVJW3M/",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T17:31+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbaee79ed",
+   "sez": "mondo",
+   "titolo": "Commercianti difendono i negozi dai saccheggiatori mascherati durante le rivolte in Francia",
+   "orig": "Shopkeepers defend their livelihood from masked looters during the French riots",
+   "lead": "Sabato, in diverse città francesi, i commercianti hanno tentato di difendere i loro negozi dai saccheggiatori mascherati durante le rivolte. Gli scontri hanno causato danni alle attività e lasciato i proprietari molto preoccupati per il futuro dei loro esercizi. Le violenze arrivano mentre il Paese è attraversato da forti tensioni sociali. Lo riferisce Euronews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/video/2026/10/18/shopkeepers-defend-their-livelihood-from-masked-looters-during-the-french-riots",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T19:45+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z42cd262f",
+   "sez": "mondo",
+   "titolo": "Le Pen avverte di una «minaccia per la democrazia» e attacca il «potere macronista esausto»",
+   "orig": "Marine Le Pen warns of 'threat to democracy' and blasts 'exhausted Macronist power'",
+   "lead": "La candidata di estrema destra alle presidenziali del 2027, Marine Le Pen, interviene il giorno dopo una giornata di rivolte che hanno scosso la Francia. Mentre a Parigi i saccheggi sono ripresi, Le Pen parla di una minaccia per la democrazia e critica duramente il potere macronista, definito esausto. Le sue dichiarazioni arrivano mentre il Paese fa i conti con le violenze. Lo riferisce Euronews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/18/marine-le-pen-warns-of-threat-to-democracy-and-blasts-exhausted-macronist-power",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T18:34+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z83a9321a",
+   "sez": "mondo",
+   "titolo": "Magyar collega le rivolte in Francia all'immigrazione e dice che le «scene scioccanti» giustificano una linea dura",
+   "orig": "Magyar links French riots to migration, says ‘shocking scenes’ justify hard line",
+   "lead": "Il leader ungherese Péter Magyar sostiene che le rivolte in Francia giustifichino la sua linea dura sull'immigrazione, posizione condivisa dal polacco Donald Tusk. Le critiche della sinistra lo accusano di strumentalizzare i disordini, anche se la maggior parte dei manifestanti è di nazionalità francese. Il tema è entrato nel dibattito politico europeo. Lo riferisce Euronews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/18/magyar-links-french-riots-to-migration-says-shocking-scenes-justify-hard-line",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T18:22+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6f34ec1b",
+   "sez": "mondo",
+   "titolo": "Il nodo Ucraina nel Pd: Schlein, «sostegno a Kiev ma serve sforzo diplomatico»; i riformisti: «l'invio di armi resta linea rossa»",
+   "orig": "Il nodo Ucraina nel Pd, Schlein: “Sostegno a Kiev, ma serve sforzo diplomatico”. I riformisti incalzano: “Invio armi resta linea rossa”",
+   "lead": "Durante l'assemblea nazionale del Partito democratico a Roma, la segretaria Elly Schlein si è detta pronta a correre come candidata premier della coalizione progressista, con o senza primarie. Secondo quanto deciso, in caso di gazebo sarebbe l'unica candidata dem, con l'astensione della minoranza riformista. Resta aperto il nodo delle armi all'Ucraina, che i riformisti considerano una linea rossa. Lo riferisce Il Fatto Quotidiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/18/pd-ucraina-schlein-armi-riformisti-video-notizie/8542492/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T16:42+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7632906c",
+   "sez": "mondo",
+   "titolo": "Trump: «pieno e totale sostegno» a Netanyahu per le elezioni in Israele, mentre il suo gradimento tocca il minimo",
+   "orig": "Trump: «Pieno e totale sostegno a Netanyahu per le elezioni in Israele». Ma Donald crolla nei sondaggi: gradimento mai così basso",
+   "lead": "Il presidente statunitense Donald Trump, con un post su Truth indirizzato al «grande popolo di Israele», ha espresso pieno e totale sostegno a Benjamin Netanyahu nella sua corsa elettorale. Nel frattempo, il gradimento di Trump nei sondaggi risulta il più basso mai registrato. Il contrasto tra endorsement e consensi è al centro della notizia. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/mondo/trump_oggi_sostegno_israele_gradimento_sondaggi_usa-9833200.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/diger-olkeler/sorgu-trampin-reytinqi-rekord-hedde-enib",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T21:40+04:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/anketa-nezadovoljstvo-trumpom-raste-uoci-izbora-za-kongres/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-18T19:55+02:00"
+    }
+   ],
+   "data": "",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8c99abd5",
+   "sez": "mondo",
+   "titolo": "I tribunali marocchini hanno approvato oltre 10.600 richieste di matrimonio di minorenni nel 2024, nonostante il calo delle domande",
+   "orig": "Moroccan courts approved over 10,600 underage marriage requests in 2024 despite 17% decline",
+   "lead": "Nel 2024 i tribunali del Marocco hanno approvato 10.691 richieste di matrimonio di minorenni, nonostante un calo del 17% delle domande presentate. Secondo i dati del Consiglio superiore della magistratura, le domande ricevute sono state 16.755, contro le 20.192 del 2023. Le approvazioni sono scese da 12.629 a 10.691. Lo riferisce Hespress English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147567-moroccan-courts-approved-over-10600-underage-marriage-requests-in-2024-despite-17-decline.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-18T16:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z281b70f3",
+   "sez": "mondo",
+   "titolo": "Il vertice Trump-Xi ha solo rinviato i problemi",
+   "orig": "Trump-Xi meeting just kicked can down the road",
+   "lead": "Il vertice di settembre alla Casa Bianca tra i presidenti statunitense e cinese ha prodotto una relativa stabilizzazione dei mercati, ma ha lasciato irrisolte le tensioni geopolitiche. I due leader hanno cercato di colmare le profonde differenze, almeno temporaneamente. Le fratture strutturali tra i due Paesi restano aperte. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/18/trump-xi-meeting-just-kicked-can-down-the-road",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-18T19:00+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "za90ccfd3",
+   "sez": "mondo",
+   "titolo": "Trump appoggia il premier israeliano Netanyahu in corsa per la rielezione",
+   "orig": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for re-election",
+   "lead": "Domenica il presidente statunitense Donald Trump ha sostenuto pubblicamente il premier israeliano Benjamin Netanyahu per la rielezione, in una fase in cui Netanyahu è in difficoltà. L'appoggio è molto ricercato per la popolarità di Trump. Il leader Usa lo aveva però negato per mesi, perché le strategie dei due Paesi in Medio Oriente divergevano. Lo riferisce Stuff.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361048042/trump-endorses-embattled-israeli-prime-minister-benjamin-net",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-18T15:26+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z40b546f5",
+   "sez": "mondo",
+   "titolo": "Mosca replica a Rama sulle accuse di interferenze nelle proteste in Albania",
+   "orig": "Moska i përgjigjet Ramës mbi akuzat për ndërhyrje në protestat në Shqipëri",
+   "lead": "La portavoce del ministero degli Esteri russo, Maria Zakharova, ha risposto alle dichiarazioni del premier albanese Edi Rama sul coinvolgimento di Russia e Iran nelle proteste in corso in Albania. Con una nota diffusa dall'ambasciata russa a Tirana, Zakharova nega ingerenze straniere. Attribuisce le manifestazioni al malcontento dei cittadini albanesi. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/moska-i-pergjigjet-rames-mbi-akuzat-per-nderhyrje-ne-protestat-ne-shqiperi/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T17:48+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1da399af",
+   "sez": "mondo",
+   "titolo": "Ahmeti condanna la violenza nella protesta di Tirana: «Nessuna forma di violenza può essere risposta alla crisi»",
+   "orig": "Ali Ahmeti reagon për protestën në Tiranë: Asnjë formë dhune nuk mund të jetë përgjigje ndaj krizës",
+   "lead": "Ali Ahmeti, guida del partito Bashkimi Demokratik për Integrim, ha condannato l'uso della violenza emersa durante la protesta a Tirana. In una dichiarazione, ha invitato manifestanti e istituzioni a evitare un'escalation. Scontri e distruzione di proprietà, ha affermato, non possono portare a soluzioni. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/ali-ahmeti-reagon-per-protesten-ne-tirane-asnje-forme-dhune-nuk-mund-te-jete-pergjigje-ndaj-krizes/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T17:44+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1d9d00cb",
+   "sez": "mondo",
+   "titolo": "Manifestanti lasciano la sede del Partito socialista, la polizia usa gas lacrimogeni",
+   "orig": "Protestuesit largohen nga PS, policia hedh gaz lotsjellës",
+   "lead": "La sede del Partito socialista a Tirana è tornata di nuovo epicentro di scontri durante la protesta. Un gruppo di manifestanti ha lanciato molotov e fuochi d'artificio contro l'edificio. La polizia è intervenuta subito con gas lacrimogeni per respingere i dimostranti e allontanare la folla dagli ambienti della sede. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/protestuesit-largohen-nga-ps-policia-hedh-gaz-lotsjelles/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T17:35+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z160c6f4f",
+   "sez": "mondo",
+   "titolo": "Protesta con tensioni nei pressi dei ministeri dell'Interno e delle Infrastrutture a Tirana",
+   "orig": "Protesta vijon me tensione te blloku i ministrisë së Brendshme dhe Infrastrukturës, hidhet fishekzjarre në drejtim të policisë",
+   "lead": "Nell'area dei ministeri dell'Interno e delle Infrastrutture di Tirana proseguono le tensioni tra manifestanti e polizia. Gli scontri si sono intensificati nelle ultime ore. I dimostranti hanno lanciato petardi contro gli agenti, che hanno usato gas lacrimogeni per disperdere la folla e riportare la situazione sotto controllo. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/protesta-vijon-me-tensione-te-blloku-i-ministrise-se-brendshme-dhe-infrastruktures-hidhet-fishekzjarre-ne-drejtim-te-policise/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T17:12+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z26e3fa05",
+   "sez": "mondo",
+   "titolo": "Brucia il ministero delle Infrastrutture dopo le tensioni a Tirana",
+   "orig": "Merr flakë Ministria e Infrastrukturës pas tensioneve në Tiranë",
+   "lead": "L'edificio del ministero delle Infrastrutture di Tirana è stato coinvolto dalle fiamme durante la protesta, dopo forti scontri tra manifestanti e polizia. Nella giornata si sono registrati lanci di molotov e l'uso di gas lacrimogeni in diverse zone della capitale. La situazione resta tesa e non ci sono ancora informazioni complete sulla portata dei danni. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/merr-flake-ministria-e-infrastruktures-pas-tensioneve-ne-tirane/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T17:07+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z509ce1d3",
+   "sez": "mondo",
+   "titolo": "«La Francia sta bruciando»: Trump accusa l'immigrazione e chiede di chiudere i confini",
+   "orig": "“Franca po digjet”, Trump fajëson emigracionin për trazirat e dhunshme: Mbyllni kufinjtë!",
+   "lead": "Il presidente statunitense Donald Trump ha attribuito all'immigrazione l'ondata di disordini che ha investito la Francia. Ha chiesto alle autorità francesi di chiudere le frontiere e di riprendere il controllo della situazione. La dichiarazione arriva dopo settimane di proteste contro il rincaro del costo della vita e il peggioramento dei servizi pubblici, degenerate in violenza. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/franca-po-digjet-trump-fajeson-emigracionin-per-trazirat-e-dhunshme-mbyllni-kufinjte/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T17:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbf6e1552",
+   "sez": "mondo",
+   "titolo": "Judo, l'Azerbaigian chiude il Torneo Asiatico Aperto con 14 medaglie",
+   "orig": "Azərbaycan cüdoçuları Asiya Açıq Turnirini 14 medalla başa vurublar",
+   "lead": "I judoka dell'Azerbaigian hanno concluso la loro partecipazione al Torneo Asiatico Aperto, disputato ad Aktau, in Kazakhstan. Il bilancio complessivo è di 14 medaglie: un oro, cinque argenti e otto bronzi. Il risultato colloca la delegazione azera tra i protagonisti della competizione continentale, che si è svolta nella città kazaka con la partecipazione di atleti di diversi Paesi. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/ferdi/azerbaycan-cudoculari-asiya-aciq-turnirini-14-medalla-basa-vurublar",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T21:08+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z69b3cfd0",
+   "sez": "mondo",
+   "titolo": "Chris Wright: l'accordo con Mosca sul diesel è una soluzione innovativa al conflitto russo-ucraino",
+   "orig": "Kris Rayt: Moskva ilə müqavilə Rusiya-Ukrayna münaqişəsinin innovativ həllidir",
+   "lead": "Chris Wright ha affermato che l'accordo con Mosca sul carburante diesel rappresenta una soluzione innovativa al conflitto tra Russia e Ucraina. Secondo quanto riportato, il presidente statunitense Donald Trump sta cercando modi nuovi per risolvere la crisi, e l'intesa sul diesel con la Russia è uno di questi strumenti. Le dichiarazioni sono state diffuse dalla testata, che le inquadra nel quadro degli sforzi di Washington per trovare una via d'uscita al conflitto. Lo riferisce Report.az.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Report.az",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://report.az/diger-olkeler/kris-rayt-moskva-ile-muqavileni-rusiya-ukrayna-munaqisesinin-innovativ-helli-adlandirib",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-18T21:04+04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbbf428ba",
+   "sez": "mondo",
+   "titolo": "Netanyahu: zone cuscinetto e barriere ai confini porteranno sicurezza a Israele",
+   "orig": "نتنياهو يزعم أن المناطق العازلة والحواجز الأمنية على الحدود مع الدول المحيطة ستجلب الأمن لـ إسرائيل",
+   "lead": "Il premier israeliano Benjamin Netanyahu ha affermato che le zone cuscinetto e le barriere di sicurezza lungo i confini con i Paesi confinanti garantiranno sicurezza a Israele. La tesi, espressa dal capo del governo israeliano, riguarda la strategia di difesa delle frontiere adottata dal suo esecutivo, che il premier presenta come misura necessaria per la protezione del Paese. Lo riferisce Roya News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/397960",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-18T20:07+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z50de0d5d",
+   "sez": "mondo",
+   "titolo": "Marib, otto missili balistici Houthi sulla città: 24 lanci in 72 ore",
+   "orig": "سلطات مأرب تكشف تعرض المدينة لقصف بـ8 صواريخ باليستية من قبل الحوثيين",
+   "lead": "Le autorità locali della provincia di Marib, nello Yemen orientale, hanno denunciato che la città, abitata da civili, è stata colpita oggi da otto missili balistici lanciati dai ribelli Houthi. Il bilancio complessivo dei missili e dei proiettili lanciati nelle ultime 72 ore raggiunge quota 24, secondo quanto comunicato dall'ufficio media del governatorato in una nota. Le autorità definiscono l'episodio un'escalation militare continua che colpisce la provincia. Lo riferisce Yemen Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185189?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25b3%25d9%2584%25d8%25b7%25d8%25a7%25d8%25aa-%25d9%2585%25d8%25a3%25d8%25b1%25d8%25a8-%25d8%25aa%25d9%2583%25d8%25b4%25d9%2581-%25d8%25aa%25d8%25b9%25d8%25b1%25d8%25b6-%25d8%25a7%25d9%2584%25d9%2585%25d8%25af%25d9%258a%25d9%2586%25d8%25a9-%25d9%2584%25d9%2582%25d8%25b5%25d9%2581-%25d8%25a8%25d9%25808-%25d8%25b5%25d9%2588",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-18T17:17+00:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-target-yemens-marib-missiles",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T17:53+01:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4cc730d2",
+   "sez": "economia",
+   "titolo": "Uzbekistan, export tessili a 2,1 miliardi di dollari: +26,9% nei primi otto mesi del 2026",
+   "orig": "Uzbekistan’s Textile Exports Rise 26.9% to US$2.1 Billion",
+   "lead": "Le esportazioni uzbeke di prodotti tessili hanno raggiunto 2,1 miliardi di dollari nel periodo gennaio-agosto 2026, con un aumento del 26,9% su base annua. Il dato è basato su statistiche ufficiali diffuse dalle autorità del Paese dell'Asia centrale. La crescita indica un rafforzamento del comparto tessile nelle vendite all'estero dell'Uzbekistan nei primi otto mesi dell'anno. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistans-textile-exports-rise-269-to-us21-billion-18-10-2026/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-18T21:10+05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0c75e02a",
+   "sez": "mondo",
+   "titolo": "Kurdistan, sconto del 75% sulle multe per visti e permessi di soggiorno fino a fine 2026",
+   "orig": "KRG Announces 75% Reduction in Visa and Residency Fines Until End of 2026",
+   "lead": "Il Governo regionale del Kurdistan ha annunciato una riduzione del 75% delle multe per visti e permessi di soggiorno, valida fino alla fine del 2026. La misura è prevista dall'ordinanza ministeriale n. 32557, emessa il 15 ottobre. Le persone idonee possono beneficiare dello sconto recandosi presso una delle direzioni residenziali della Regione del Kurdistan entro la scadenza. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/946973/krg-announces-75-reduction-in-visa-and-residency-fines-until-end-of-2026",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-18T20:46+03:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcee75e3b",
+   "sez": "mondo",
+   "titolo": "Obuasi, abusi nella scuola: la reverenda Apprey denuncia una cultura di tolleranza",
+   "orig": "Obuasi SHTS abuse: Culture of tolerance enabled sexual abuse – Rev. Apprey",
+   "lead": "La reverenda Amesika Apprey ha condannato quella che definisce una cultura di tolleranza e favoreggiamento, che avrebbe permesso il perdurare di presunti abusi sessuali alla Obuasi Senior High Technical School, in Ghana. Il caso riguarda un istituto scolastico della città di Obuasi, nella regione di Ashanti. Lo riferisce MyJoyOnline.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/obuasi-shts-abuse-culture-of-tolerance-enabled-sexual-abuse-rev-apprey/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T17:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze9fbd041",
+   "sez": "italia",
+   "titolo": "Abruzzo, al via il Mondiale di papere galleggianti sul fiume Aterno",
+   "orig": "Abruzzo, Mondiale di papere galleggianti sul fiume Aterno",
+   "lead": "Nel fiume Aterno, tra Tione degli Abruzzi e Acciano, si è svolta la prima edizione del World Duck Race Championship, il Mondiale di papere galleggianti. L'evento si è tenuto all'interno del Parco Naturale Regionale Sirente-Velino, in Abruzzo. L'iniziativa ha unito la raccolta fondi per il Museo Diffuso Sirente-Velino alla promozione della prevenzione e del rispetto dell'ambiente. Lo riferisce Sky TG24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/cronaca/video/2026/10/18/abruzzo-mondiale-di-papere-galleggianti-sul-fiume-aterno-1132643",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7c7e1442",
+   "sez": "mondo",
+   "titolo": "Costa Rica, la presidente Fernández difende la «mano dura» ispirata a Bukele",
+   "orig": "Presidenta de Costa Rica defiende “mano dura” inspirada en Bukele",
+   "lead": "La presidente della Costa Rica, Laura Fernández, ha difeso la linea della «mano dura» contro la criminalità, ispirata al modello del collega salvadoregno Nayib Bukele. Fernández è entusiasta della strategia di sicurezza del presidente salvadoregno, che è però stato criticato per abusi commessi durante la sua guerra alle bande. Mercoledì Fernández ha inaugurato il Centro de Alta Contención contra el Crimen Organizado, un carcere di alta contenzione contro la criminalità organizzata. Lo riferisce Confidencial.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/mundo/presidenta-de-costa-rica-defiende-mano-dura-inspirada-en-bukele/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-10-18T17:35+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf49eca24",
+   "sez": "mondo",
+   "titolo": "Bolivia, sicariati e narcotraffico in aumento nel primo anno della presidenza Paz",
+   "orig": "Sangre y drogas: muertes por encargo se disparan en Bolivia en el primer año de Paz",
+   "lead": "Autorità ed esperti attribuiscono l'escalation a scontri tra bande brasiliane, in un nuovo scenario politico. Il fenomeno è legato al traffico di droga e agli equilibri tra gruppi criminali nel Paese andino. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/reportajes/sangre-y-drogas-muertes-por-encargo-se-disparan-en-bolivia-en-el-primer-ano-de-paz",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T13:33-04:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z12f8b7d1",
+   "sez": "mondo",
+   "titolo": "Mélenchon nel vortice della violenza: le accuse dopo i disordini del 17 ottobre",
+   "orig": "Le jeu trouble de Jean-Luc Mélenchon dans l’engrenage de la violence",
+   "lead": "Il leader della France insoumise Jean-Luc Mélenchon è accusato di ambiguità dopo le scene di saccheggi e rivolte urbane che hanno accompagnato la mobilitazione del 17 ottobre in Francia. Mélenchon ha attribuito la responsabilità del caos al governo, senza condannare chiaramente gli eccessi. Molti commentatori lo accusano di giocare il ruolo di «pompiere piromane», ovvero di alimentare la tensione che dice di voler spegnere. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/le-jeu-trouble-de-jean-luc-melenchon-dans-l-engrenage-de-la-violence-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T19:31+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z31770a24",
+   "sez": "mondo",
+   "titolo": "«Bisognerà che obbediscano»: come Jean-Luc Mélenchon intende mettere lo Stato ai suoi ordini",
+   "orig": "«Il va falloir qu’ils obéissent» : comment Jean-Luc Mélenchon compte mettre l’État à sa botte",
+   "lead": "Convinto di essere eletto nel 2027, il leader della sinistra radicale francese Jean-Luc Mélenchon vuole rifondare in profondità l'apparato statale e fare pulizia nell'alta amministrazione. Il progetto riguarda il funzionamento dello Stato e i rapporti con i vertici della burocrazia. Il racconto ricostruisce le intenzioni del fondatore di La France insoumise. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/il-va-falloir-qu-ils-obeissent-comment-jean-luc-melenchon-compte-mettre-l-etat-a-sa-botte-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T18:44+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z214b70b0",
+   "sez": "mondo",
+   "titolo": "Éric Delbecque: «La responsabilità morale e politica di LFI nella disinibizione della violenza è evidente»",
+   "orig": "Éric Delbecque : « La responsabilité morale et politique de LFI dans la désinhibition de la violence est évidente »",
+   "lead": "Secondo l'esperto di sicurezza Éric Delbecque, gli scontri del 17 ottobre a Parigi segnano il superamento di una nuova soglia nel crescere della violenza. Per lui questa escalation nasce da quarant'anni di carenze di mezzi umani, tecnologici e di giustizia. Nell'intervista l'esperto attribuisce a La France insoumise una responsabilità morale e politica. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/vox/societe/eric-delbecque-la-responsabilite-morale-et-politique-de-lfi-dans-la-desinhibition-de-la-violence-est-evidente-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T17:33+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z85d07889",
+   "sez": "mondo",
+   "titolo": "«Dietro ogni negozio saccheggiato c'è una persona»: il pesante conto del 17 ottobre per i commercianti «che non ne possono più»",
+   "orig": "«Derrière chaque boutique saccagée, il y a une personne»: la très lourde facture du 17 octobre pour ces commerçants qui «n’en peuvent plus»",
+   "lead": "Dopo un sabato nero nelle strade di numerose città francesi, i commercianti denunciano già ingenti perdite. Le violenze hanno colpito negozi e attività in diverse località del Paese. Il settore teme difficoltà anche nelle settimane successive. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/social/derriere-chaque-boutique-saccagee-il-y-a-une-personne-la-tres-lourde-facture-du-17-octobre-pour-ces-commercants-qui-n-en-peuvent-plus-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T18:13+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf32c6cb4",
+   "sez": "mondo",
+   "titolo": "Di fronte alle violenze del 17 ottobre, lo sconforto",
+   "orig": "Face aux violences du 17 octobre, la désolation",
+   "lead": "Le azioni dei vandali e le legittime domande sulla strategia delle forze dell'ordine hanno oscurato le rivendicazioni dei giovani e di una parte della società. Intanto la classe politica guarda quasi solo alle presidenziali. Il quadro è quello delle manifestazioni del 17 ottobre in Francia, segnate da violenze e tensioni. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/idees-et-debats/editorial/face-aux-violences-du-17-octobre-la-desolation-20261018_URPGYUMIANGZTL6AZ3KNZ5QEYA/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T17:36+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4b300a74",
+   "sez": "mondo",
+   "titolo": "Il mio 17 ottobre in place de la République: non ho capito nulla di quello che ho visto",
+   "orig": "Mon 17 octobre place de la République : je n’ai rien compris à ce que j’ai vu",
+   "lead": "Il giornalista di Libération, inviato a coprire le manifestazioni di sabato a Parigi, racconta la giornata. Descrive la pioggia di lacrimogeni e i cordoni chiusi dalle forze dell'ordine che hanno circondato i manifestanti. Propone un confronto collettivo su quanto accaduto. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/mon-17-octobre-place-de-la-republique-je-nai-rien-compris-a-ce-que-jai-vu-20261018_QVSVIGFE7FCXXCVBQE3AG4INVU/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T16:26+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zba4314d5",
+   "sez": "mondo",
+   "titolo": "Corteo del 17 ottobre: questa foto di anziani in sottoveste è autentica o generata dall'IA?",
+   "orig": "Mouvement du 17 octobre : cette photo de personnes âgées en sous-vêtements est-elle authentique ou générée par IA ?",
+   "lead": "Sui social ha suscitato emozione la notizia, non confermata, della spoliazione di una coppia anziana a Parigi durante la giornata «contro il carovita» del 17 ottobre. Libération segnala però che la foto che circola online è stata generata o modificata con l'intelligenza artificiale. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/checknews/mouvement-du-17-octobre-cette-photo-de-personnes-agees-en-sous-vetements-est-elle-authentique-ou-generee-par-ia-20261018_LRDPMTYFGJDATNRVGGIV2EUQXI/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T16:53+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd0357c71",
+   "sez": "mondo",
+   "titolo": "Elezioni legislative in Israele: a sinistra, il tabù della questione palestinese",
+   "orig": "Législatives en Israël : à gauche, le tabou de la question palestinienne",
+   "lead": "In Israele, Paese traumatizzato dagli attacchi del 7 ottobre, i militanti dell'opposizione non fanno campagna su un processo di pace. Concentrano invece la propria azione sull'eventuale sconfitta del premier Benjamin Netanyahu. Libération ha incontrato alcuni di loro in vista del voto. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-a-gauche-le-tabou-de-la-question-palestinienne-20261018_YR3BMMS5URCNBPEH4CE24ZEJRU/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T15:43+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z01779c20",
+   "sez": "mondo",
+   "titolo": "Francia: la violenza è fatta in casa – Commento",
+   "orig": "Frankreich: Die Gewalt ist hausgemacht – Kommentar",
+   "lead": "Alcuni ideologi di destra sostengono un legame tra i disordini del fine settimana e l'origine di molti dei responsabili. Per l'autore del commento si tratta di una menzogna razzista, che serve a coprire le responsabilità dello Stato francese. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar-a-51c264d3-adde-4de5-8d11-2d29b6552ddb#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T19:51+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5ae5a6ea",
+   "sez": "mondo",
+   "titolo": "Borussia Mönchengladbach perde anche con l'Hoffenheim: zero punti, cambio di allenatore senza effetto",
+   "orig": "Borussia Mönchengladbach verliert auch gegen Hoffenheim: Null Punkte, Trainerwechsel ohne Wirkung",
+   "lead": "Il Borussia Mönchengladbach ha perso ancora, questa volta contro il Hoffenheim, penultimo in classifica. Con il nuovo allenatore Alexander Blessin è arrivata la seconda sconfitta, e la squadra resta senza punti. La situazione in classifica appare minacciosa. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/sport/fussball/borussia-moenchengladbach-verliert-auch-gegen-hoffenheim-null-punkte-trainerwechsel-ohne-wirkung-a-29a48117-575a-4bca-8972-c4a51d56e67b#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T19:34+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze5dca2e9",
+   "sez": "mondo",
+   "titolo": "Francia: nuovi disordini a Parigi, la polizia usa i lacrimogeni",
+   "orig": "Frankreich: Neue Ausschreitungen in Paris – Polizei setzt Tränengas ein",
+   "lead": "Dopo gli eccessi del giorno precedente, a Parigi tornano le violenze. In place de la République vengono saccheggiati negozi mentre la polizia usa gas lacrimogeni. Nella città di Mulhouse, nell'est della Francia, una adolescente ha perso un occhio. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T18:43+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd64c4a8c",
+   "sez": "mondo",
+   "titolo": "SPD in crisi: l'anima fragile dei socialdemocratici",
+   "orig": "SPD in der Krise: Die arme Parteiseele der Sozialdemokraten",
+   "lead": "Il partito socialdemocratico tedesco attraversa una crisi profonda, e la FAZ ne descrive l'anima ferita. Nel dibattito sulla presidenza della SPD emerge il nome di Manuela Schwesig, e la domanda è se tutto converga su di lei. Il tema riguarda la guida futura del partito. Lo riferisce FAZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/spd-vorsitz-laeuft-jetzt-alles-auf-manuela-schwesig-zu-accg-201313117.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T17:41+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4b2d4f38",
+   "sez": "mondo",
+   "titolo": "I disordini tornano nel centro di Parigi un giorno dopo la grande rivolta",
+   "orig": "Los disturbios vuelven al centro de París un día después de la gran revuelta",
+   "lead": "Nei dintorni di place de la République la polizia e vari gruppi di agitatori si scontrano tra barricate, fuochi e gas lacrimogeni. Il ritorno della violenza arriva il giorno dopo la grande rivolta nel centro della capitale francese. Gli scontri proseguono nella stessa zona. Lo riferisce El País.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/internacional/2026-10-18/los-disturbios-vuelven-al-centro-de-paris-un-dia-despues-de-la-gran-revuelta.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T16:46+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfc30f079",
+   "sez": "mondo",
+   "titolo": "La Francia nel caos",
+   "orig": "Francia ante el caos",
+   "lead": "La violenza nichilista colpisce i simboli repubblicani e oscura le legittime proteste studentesche. Il quotidiano El País descrive un Paese nel caos dopo le manifestazioni e gli scontri dei giorni scorsi. Il giornale distingue tra il disagio studentesco, considerato legittimo, e le azioni violente. Lo riferisce El País.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/opinion/2026-10-18/francia-ante-el-caos.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T16:42+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbf9ac152",
+   "sez": "mondo",
+   "titolo": "Parigi dopo la battaglia: «Non sembra la Francia, non ho mai visto una barbarie così»",
+   "orig": "París después de la batalla: \"Esto no parece Francia, yo nunca he visto un salvajismo así\"",
+   "lead": "Più di venti negozi sono stati saccheggiati e parzialmente distrutti nelle manifestazioni di sabato sul boulevard Magenta a Parigi. Nel reportage compare la frase di un testimone: «Non sembra la Francia, non ho mai visto una barbarie simile». Il racconto restituisce il clima di una città ferita. Lo riferisce El Mundo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/internacional/2026/10/18/6ad4e0edfdddffdf498b4585.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T17:23+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd39cc956",
+   "sez": "mondo",
+   "titolo": "Giudice chiede mezzo milione di euro alla donna che lo aveva accusato di pedopornografia",
+   "orig": "Juiz pede meio milhão a prostituta que o acusou de pornografia infantil",
+   "lead": "Un magistrato portoghese chiede 500mila euro di risarcimento alla imprenditrice del settore che lo aveva accusato di pornografia infantile. Il giudice è stato scagionato da quelle accuse. Secondo il pubblico ministero, la donna gli avrebbe rovinato la reputazione. Il processo inizia lunedì. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/sociedade/noticia/juiz-pede-meio-milhao-prostituta-acusou-pornografia-infantil-2191774",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T17:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0aa37524",
+   "sez": "mondo",
+   "titolo": "Il Portogallo batte il record con nove ondate di calore nel 2026",
+   "orig": "Portugal bateu recorde com nove ondas de calor em 2026",
+   "lead": "Il Portogallo ha registrato nove ondate di calore nel 2026, un record. Si contano già 98 giorni in ondata di calore, il valore più alto dal 1942. Gli episodi si sono verificati in tutte le stagioni dell'anno, secondo l'istituto meteorologico IPMA. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/18/azul/noticia/portugal-bateu-recorde-nove-ondas-calor-2026-2191778",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-18T16:35+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd0055257",
+   "sez": "mondo",
+   "titolo": "La squadra di hockey di Rotterdam «autogestita» ottiene i primi punti dopo quattro turni",
+   "orig": "‘Zelfsturend’ hockeyteam Rotterdam grijpt na vier rondes de eerste punten",
+   "lead": "Il campione in carica Rotterdam ha battuto 5-2 lo SCHC, con la prima vittoria della stagione. Il giornale sottolinea però che non c'è euforia. Il nuovo allenatore Jeroen Hertzberger deve portare la squadra a «un livello successivo», ascoltando i giocatori. Lo riferisce NRC.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/18/zelfsturend-hockeyteam-rotterdam-grijpt-na-vier-rondes-de-eerste-punten-a4939064",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-18T19:04+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaed2a820",
+   "sez": "mondo",
+   "titolo": "Scuole bloccate, scontri violenti, migliaia in strada: le proteste in Francia in immagini",
+   "orig": "BILDSTRECKE - Blockierte Schulen, gewalttätige Ausschreitungen, Tausende auf der Strasse: die Proteste in Frankreich in Bildern",
+   "lead": "Le proteste in Francia, partite a fine settembre 2026 come manifestazione pacifica, si sono trasformate in una mobilitazione nazionale. Decine di migliaia di persone chiedono migliori condizioni nelle scuole, mentre gli istituti sono bloccati e si registrano violenze di piazza. Il servizio fotografico documenta la situazione. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/franzoesische-schueler-fordern-mit-landesweiten-blockaden-bessere-lernbedingungen-ld.10026489",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T17:13+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z13611b55",
+   "sez": "mondo",
+   "titolo": "L'FC Aarau vacilla dopo il grande cambiamento, ma lancia un forte segnale: elimina lo FC Zürich dalla Coppa",
+   "orig": "Der FC Aarau wankt nach dem grossen Umbruch, setzt aber ein lautes Zeichen: Er wirft den FC Zürich aus dem Cup",
+   "lead": "Il FC Aarau ha eliminato lo Zurigo dalla Coppa svizzera con un 2-0, la sola sorpresa del weekend. Il club ha perso molto terreno in Challenge League in avvio di stagione. Dopo un grande cambiamento la squadra resta in difficoltà, ma ha ottenuto un risultato di prestigio. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/sport/fussball/der-fc-zuerich-scheitert-im-cup-sechzehntelfinal-am-fc-aarau-ld.10037490",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T17:00+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6be9cec8",
+   "sez": "mondo",
+   "titolo": "EHC Kloten e ZSC Lions separati da 24 punti dopo dodici turni",
+   "orig": "Den EHC Kloten und die ZSC Lions trennen nach zwölf Runden sagenhafte 24 Punkte",
+   "lead": "L'EHC Kloten, ultimo in classifica, è stato sconfitto 5-2 a Losanna. È la decima sconfitta nelle ultime undici partite. Mai il club aveva iniziato così male una stagione dal 2017/18, anno della retrocessione. Il divario dallo ZSC Lions è di 24 punti. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/sport/eishockey/den-ehc-kloten-und-die-zsc-lions-trennen-nicht-nur-mehrere-millionen-franken-im-budget-sondern-nach-zwoelf-runden-bereits-sagenhafte-24-punkte-ld.10037086",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T16:22+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8e1e0236",
+   "sez": "mondo",
+   "titolo": "Elisabeth Baume-Schneider al congresso del PS: «La critica all'IVA più alta è una cortina fumogena»",
+   "orig": "Elisabeth Baume-Schneider am SP-Parteitag: «Die Kritik an der höheren Mehrwertsteuer ist eine Nebelpetarde»",
+   "lead": "Al congresso del Partito socialista svizzero, i delegati lanciano un'iniziativa per la protezione delle donne dalla violenza. Si discute anche dell'aumento dell'IVA per finanziare la tredicesima AVS. Elisabeth Baume-Schneider critica duramente gli oppositori della misura. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/elisabeth-baume-schneider-am-sp-parteitag-die-kritik-an-der-hoeheren-mehrwertsteuer-ist-eine-nebelpetarde-ld.10037369",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T16:19+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z550ba0ec",
+   "sez": "mondo",
+   "titolo": "Contro «la sinistra e gli stanchi di patria»: l'UDC festeggia se stessa all'assemblea dei delegati",
+   "orig": "Gegen «Linke und Heimatmüde»: Die SVP feiert an der Delegiertenversammlung sich selbst",
+   "lead": "I delegati dell'UDC, riuniti sabato a Bulle, hanno fissato le parole d'ordine per la votazione di novembre. All'assemblea non era in agenda la successione di Parmelin. Il partito si è celebrato con toni polemici contro la sinistra. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/gegen-linke-und-heimatmuede-die-svp-feiert-an-der-delegiertenversammlung-sich-selbst-ld.10036159",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-18T16:18+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaee3030f",
+   "sez": "mondo",
+   "titolo": "Il grave infortunio del portiere Chudjakow oscura il 6-1 dello Sturm sul GAK",
+   "orig": "Schwere Verletzung von Goalie Chudjakow überschattet Sturms 6:1-Sieg gegen den GAK",
+   "lead": "Lo Sturm Graz ha battuto 6-1 il GAK, ribaltando lo 0-1 iniziale. La partita è stata segnata dal grave infortunio del portiere Chudjakow. Diakite ha segnato tre volte, mentre Weinhandl, Heil e Gorenc Stankovic hanno trovato il gol. Il GAK ha subìto la prima sconfitta sotto la guida di Scheiblehner. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344775/schwere-verletzung-von-goalie-chudjakow-ueberschattet-sturms-61-sieg-gegen-den-gak?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T17:19+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1bde8692",
+   "sez": "mondo",
+   "titolo": "Escalation colpisce la popolazione: «Shock e dolore negli occhi dei bambini»",
+   "orig": "Upptrappning slår mot befolkningen: ”Chock och sorg i barnens ögon”",
+   "lead": "Più di un milione di yemeniti sono intrappolati nella strategica città montuosa di Taiz. La causa sono gli scontri tra le parti della guerra civile, che ora hanno raggiunto lo stretto di Bab al-Mandab, una delle rotte marittime più importanti al mondo. Il medico Fathi Hazam, 55 anni, descrive una situazione umanitaria peggiorata. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/upptrappning-slar-mot-befolkningen-chock-och-sorg-i-barnens-ogon/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T19:51+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z81183d7a",
+   "sez": "mondo",
+   "titolo": "Gli huthi manovrano abilmente con idee medievali nel Medio Oriente moderno",
+   "orig": "Huthierna manövrerar skickligt med medeltida idéer i det moderna Mellanöstern",
+   "lead": "Un tempo gli attacchi degli huthi yemeniti avrebbero fatto notizia, ora si perdono tra altre emergenze mediorientali. Il gruppo, nato come milizia settaria, ha preso il controllo di uno snodo chiave del commercio mondiale. Con una serie di attacchi missilistici precisi ha sorpreso l'Arabia Saudita. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/huthierna-manovrerar-skickligt-med-medeltida-ideer-i-det-moderna-mellanostern/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-18T19:51+02:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
    "id": "z0730d2b3",
    "sez": "mondo",
    "titolo": "Enem 2026: domenica scade il termine per scegliere la lingua straniera",
@@ -191,6 +1826,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Iraq",
      "t": "2026-10-18T20:16+03:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-endorses-netanyahu-israels-upcoming-election",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-18T16:27+01:00"
     }
    ],
    "data": "18 ott",
@@ -1763,6 +3407,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-18T16:00+00:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-18T19:19+02:00"
     }
    ],
    "data": "18 ott",
@@ -7662,28 +9315,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z23c63b51",
-   "sez": "mondo",
-   "titolo": "Bilawal: il governatorato nel Khyber Pakhtunkhwa potrebbe finire se l'opposizione accetta la lotta al terrorismo",
-   "orig": "Bilawal says KP governor's rule could end if opposition agrees to fight against terrorism",
-   "lead": "Bilawal Bhutto-Zardari, presidente del PPP, ha detto che il governatorato e lo stato d'emergenza nel Khyber Pakhtunkhwa potrebbero cessare se l'opposizione accetterà di combattere il terrorismo e di concordare un piano. Parlando con i giornalisti a Karachi, durante la visita al monumento Karsaz nel diciannovesimo anniversario dell'attentato. La dichiarazione arriva a una settimana dall'imposizione della misura da parte del governo federale. Lo riferisce Dawn.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Dawn",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://www.dawn.com/news/2038032/bilawal-says-kp-governors-rule-could-end-if-opposition-agrees-to-fight-against-terrorism",
-     "angolo": "",
-     "atlas": "Pakistan",
-     "t": "2026-10-18T19:39+05:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
    "id": "z0756ae86",
    "sez": "mondo",
    "titolo": "Il presidente delle Maldive Muizzu in visita in Pakistan dal 20 al 22 ottobre",
@@ -7972,6 +9603,15 @@ window.EDIZIONI["2026-10-18-sera"] = {
      "angolo": "",
      "atlas": "Australia",
      "t": "2026-10-18T23:30+11:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/politics/federal/greens-insiders-break-cover-to-demand-public-findings-in-steele-john-inquiry-20261019-p616hn.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-19T04:08+11:00"
     }
    ],
    "data": "18 ott",
@@ -15489,7 +17129,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zede737f3": "The Hindu riporta le accuse di Kharge verso Kumaraswamy.",
   "zc15b528a": "The Hindu inquadra le elezioni come strategia di partito.",
   "z9291c80b": "Times of India propone un racconto storico sull'Alaska.",
-  "z23c63b51": "Dawn riporta le dichiarazioni di Bilawal sull'emergenza in KP.",
   "z0756ae86": "Dawn riporta l'annuncio ufficiale della visita del Foreign Office.",
   "z4ec6f1cf": "Philippine Daily Inquirer racconta il match in ottica di classifica.",
   "z174c6957": "Il quotidiano filippino riporta la versione dell'esercito sullo scontro con i presunti ribelli NPA.",
@@ -15788,7 +17427,79 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zd1d286e0": "The Punch segue la vicenda con approccio di cronaca giudiziaria e istituzionale.",
   "zbfd98109": "Daily Nation segue l'annuncio governativo con attenzione alle ricadute sul prezzo del latte e sulla proprietà della società.",
   "zc8a06459": "Citizen Digital propone un taglio sportivo, incentrato sul momento della squadra ospite.",
-  "zfce9b37f": "SCMP segue il caso con taglio di servizio sulle verifiche e sui rischi per la sicurezza."
+  "zfce9b37f": "SCMP segue il caso con taglio di servizio sulle verifiche e sui rischi per la sicurezza.",
+  "ze67c4f26": "Il quotidiano indiano segue la vicenda dal punto di vista della politica locale, con attenzione alle posizioni del JD(S).",
+  "z7afa06ac": "Il quotidiano indiano inquadra la vicenda come un tema di regolazione digitale e responsabilità delle piattaforme.",
+  "z7486a445": "Il quotidiano indiano presenta la vicenda come uno scontro tra un colosso dell'e-commerce e la politica del lavoro newyorkese.",
+  "z5f7a269a": "Il quotidiano pakistano riporta le dichiarazioni del leader PPP con taglio di politica interna.",
+  "z8a3de7eb": "Il quotidiano nepalese dà rilievo a un dato economico-commerciale con ricadute sulle entrate fiscali.",
+  "z130e775a": "Il quotidiano filippino privilegia l'aspetto di tutela dei connazionali all'estero.",
+  "z8e9591b8": "Il quotidiano di Singapore riporta gli eventi italiani con taglio di cronaca internazionale.",
+  "z85ced58a": "Il quotidiano di Singapore privilegia la cronaca degli scontri, con attenzione alla mobilitazione sui social.",
+  "z1e5870c2": "La testata israeliana si concentra sulla questione dell'antisemitismo nelle università e sulla rappresentanza degli studenti ebrei.",
+  "z2cad50ba": "La testata israeliana riporta il briefing preelettorale con attenzione alle dichiarazioni del premier.",
+  "z7f8a9303": "Il quotidiano israeliano riporta lo scontro verbale tra due esponenti del governo in vista del voto.",
+  "zf325b6c1": "Il quotidiano israeliano sottolinea il legame tra il donatore e la politica statunitense.",
+  "za857bc71": "Il quotidiano emiratino riporta un incontro diplomatico con taglio di cronaca istituzionale.",
+  "z8776a2ee": "Il quotidiano emiratino dà risalto alla dimensione umanitaria dell'iniziativa.",
+  "zdb5ef799": "Il quotidiano emiratino guarda al turismo filippino con taglio economico.",
+  "z61a12d18": "Il quotidiano egiziano dà risalto alla cooperazione con partner giapponesi nel settore dell'istruzione.",
+  "zdf7d72ff": "Il quotidiano egiziano segue l'iniziativa governativa per attrarre imprese giapponesi.",
+  "z130aeb68": "Il quotidiano egiziano riporta gli sviluppi del settore idrico con focus sulla partecipazione privata.",
+  "ze10c1550": "Il sito londinese riporta fonti emiratine sul colloquio con il ministro saudita.",
+  "zca21f2f2": "Il sito londinese dà spazio alla reazione di Netanyahu al sostegno di Trump.",
+  "z27f67c7e": "Il quotidiano australiano legge la partita attraverso le scelte di squadra e le prestazioni dei singoli.",
+  "z57609ebc": "Il quotidiano neozelandese riporta il bilancio degli arresti, sottolineando la gravità della situazione.",
+  "zbaee79ed": "Euronews racconta le rivolte dal punto di vista dei commercianti colpiti dai saccheggi.",
+  "z42cd262f": "Euronews dà spazio alle parole della leader di estrema destra, in chiave di attacco al governo.",
+  "z83a9321a": "Euronews sottolinea il collegamento politico tra disordini e immigrazione, insieme alle critiche della sinistra.",
+  "z6f34ec1b": "Il Fatto Quotidiano segue il dibattito interno al Pd, con attenzione alle divisioni tra segreteria e riformisti.",
+  "z7632906c": "Il Messaggero collega il sostegno di Trump a Netanyahu al calo dei suoi consensi nei sondaggi.",
+  "z8c99abd5": "Hespress English riporta i dati ufficiali del Consiglio superiore della magistratura marocchina.",
+  "z281b70f3": "Cyprus Mail legge il vertice come una tregua temporanea piuttosto che come una soluzione.",
+  "za90ccfd3": "Stuff presenta il sostegno Usa a Netanyahu come una svolta politica attesa da tempo.",
+  "z40b546f5": "Euronews Albania riporta la replica russa collocandola nel dibattito interno sulle proteste.",
+  "z1da399af": "Euronews Albania dà rilievo alla condanna della violenza da parte di una figura politica nazionale.",
+  "z1d9d00cb": "Euronews Albania descrive la fase di scontri intorno alla sede socialista.",
+  "z160c6f4f": "Euronews Albania segue gli scontri vicino ai ministeri, con dettagli sull'intervento della polizia.",
+  "z26e3fa05": "Euronews Albania riporta l'incendio con cautela, sottolineando l'assenza di dati completi.",
+  "z509ce1d3": "Euronews Albania riporta le parole di Trump sulla Francia, senza commenti propri.",
+  "zbf6e1552": "Racconta il risultato sportivo della delegazione nazionale con tono celebrativo.",
+  "z69b3cfd0": "Riporta le dichiarazioni di Wright senza commenti propri, inquadrandole nella linea di Washington.",
+  "zbbf428ba": "Riprende la dichiarazione del premier israeliano dando spazio alla sua tesi sulla sicurezza.",
+  "z50de0d5d": "Dà voce alla versione delle autorità locali di Marib sugli attacchi.",
+  "z4cc730d2": "Riprende dati ufficiali con tono informativo e attenzione alla crescita economica nazionale.",
+  "z0c75e02a": "Informa sulla misura amministrativa con dettagli pratici per i cittadini interessati.",
+  "zcee75e3b": "Riporta la denuncia della reverenda con focus sulle responsabilità dell'istituto.",
+  "ze9fbd041": "Racconta l'evento con taglio di colore e attenzione alla dimensione ambientale.",
+  "z7c7e1442": "Riporta la difesa della presidente, citando le critiche rivolte al modello Bukele.",
+  "zf49eca24": "Segue il fenomeno della violenza legata al narcotraffico, con focus su autorità ed esperti.",
+  "z12f8b7d1": "Analisi in formato decryptage che mette in discussione la posizione del leader insoumis.",
+  "z31770a24": "Il quotidiano conservatore osserva il progetto di Mélenchon con la preoccupazione tipica di un giornale di centrodestra.",
+  "z214b70b0": "Il giornale dà spazio a un esperto che attribuisce la responsabilità della violenza a una forza politica di sinistra.",
+  "z85d07889": "Il quotidiano dà voce al disagio dei commercianti colpiti dai saccheggi e dai danni.",
+  "zf32c6cb4": "Il quotidiano di sinistra mette in primo piano le rivendicazioni giovanili e le critiche alla gestione della piazza.",
+  "z4b300a74": "Il racconto in prima persona privilegia l'esperienza diretta del cronista sul campo.",
+  "zba4314d5": "Il quotidiano si concentra sulla verifica delle immagini diffuse online.",
+  "zd0357c71": "Il giornale dà spazio alle voci dell'opposizione israeliana sul tema del conflitto con i palestinesi.",
+  "z01779c20": "Il commento critica le letture di destra e attribuisce i disordini a responsabilità interne alla Francia.",
+  "z5ae5a6ea": "Il quotidiano segue il club con toni critici sull'andamento della squadra.",
+  "ze5dca2e9": "Il giornale racconta le violenze concentrandosi sui danni e sulle conseguenze per le persone.",
+  "zd64c4a8c": "Il quotidiano conservatore analizza con tono critico la crisi dei socialdemocratici.",
+  "z4b2d4f38": "Il quotidiano spagnolo segue gli scontri con una cronaca diretta dal campo.",
+  "zfc30f079": "Il giornale distingue la violenza dalle proteste studentesche, che definisce legittime.",
+  "zbf9ac152": "Il giornale privilegia le testimonianze dirette e il racconto emotivo dei fatti.",
+  "zd39cc956": "Il quotidiano riporta la vicenda giudiziaria con attenzione ai dettagli processuali.",
+  "z0aa37524": "Il giornale mette in evidenza i dati ufficiali dell'istituto meteorologico nazionale.",
+  "zd0055257": "Il quotidiano segue lo sport con uno sguardo critico sulla gestione tecnica della squadra.",
+  "zaed2a820": "Il quotidiano svizzero documenta le proteste francesi con un servizio fotografico.",
+  "z13611b55": "Il giornale sottolinea la sorpresa sportiva e le difficoltà del club.",
+  "z6be9cec8": "Il quotidiano analizza con dati statistici il pessimo avvio del club.",
+  "z8e1e0236": "Il giornale riporta le posizioni socialiste e le critiche alla riforma fiscale.",
+  "z550ba0ec": "Il giornale racconta l'assemblea del partito con tono critico verso la retorica adottata.",
+  "zaee3030f": "Il quotidiano racconta la partita con focus sul risultato e sull'infortunio del portiere.",
+  "z1bde8692": "Il quotidiano svedese dà voce alle testimonianze umanitarie dal Paese.",
+  "z81183d7a": "Il giornale analizza il gruppo huthi come attore politico-militare nel Medio Oriente."
  },
  "contesti": {
   "zc243347e": "Il Manchester United arriva a Elland Road sotto pressione per i risultati recenti. Il Leeds è tornato in Premier League dopo aver vinto la Championship nella stagione 2024-25. Nella stessa giornata, il portiere Emi Martínez ha ringraziato i tifosi dopo un'operazione alla mandibola. In MLS Lionel Messi, all'Inter Miami dal 2023, ha segnato una doppietta nel successo per 3-1 in casa dell'Atlanta United.",
@@ -18219,13 +19930,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
    ],
    "pt": []
   },
-  "z23c63b51": {
-   "n": "Pakistan",
-   "p": [
-    "Pakistan"
-   ],
-   "pt": []
-  },
   "z0756ae86": {
    "n": "Pakistan",
    "p": [
@@ -20316,6 +22020,510 @@ window.EDIZIONI["2026-10-18-sera"] = {
     "China"
    ],
    "pt": []
+  },
+  "ze67c4f26": {
+   "n": "Karnataka",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z7afa06ac": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z7486a445": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5f7a269a": {
+   "n": "Khyber Pakhtunkhwa",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z8a3de7eb": {
+   "n": "Nepal",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z130e775a": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z8e9591b8": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z85ced58a": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1e5870c2": {
+   "n": "Pittsburgh",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2cad50ba": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z7f8a9303": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zf325b6c1": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "za857bc71": {
+   "n": "Emirati Arabi Uniti",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z8776a2ee": {
+   "n": "Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zdb5ef799": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z61a12d18": {
+   "n": "Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zdf7d72ff": {
+   "n": "Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z130aeb68": {
+   "n": "Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "ze10c1550": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zca21f2f2": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z27f67c7e": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z57609ebc": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zbaee79ed": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z42cd262f": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z83a9321a": {
+   "n": "Ungheria",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "z6f34ec1b": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7632906c": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z8c99abd5": {
+   "n": "Marocco",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z281b70f3": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za90ccfd3": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z40b546f5": {
+   "n": "Albania",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z1da399af": {
+   "n": "Albania",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z1d9d00cb": {
+   "n": "Albania",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z160c6f4f": {
+   "n": "Albania",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z26e3fa05": {
+   "n": "Albania",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z509ce1d3": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zbf6e1552": {
+   "n": "Aktau",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z69b3cfd0": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zbbf428ba": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z50de0d5d": {
+   "n": "Marib",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z4cc730d2": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z0c75e02a": {
+   "n": "Kurdistan iracheno",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zcee75e3b": {
+   "n": "Obuasi",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "ze9fbd041": {
+   "n": "Tione degli Abruzzi",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7c7e1442": {
+   "n": "Costa Rica",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "zf49eca24": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z12f8b7d1": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z31770a24": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z214b70b0": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z85d07889": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zf32c6cb4": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z4b300a74": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zba4314d5": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zd0357c71": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z01779c20": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z5ae5a6ea": {
+   "n": "Mönchengladbach",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "ze5dca2e9": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zd64c4a8c": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z4b2d4f38": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zfc30f079": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zbf9ac152": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zd39cc956": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z0aa37524": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zd0055257": {
+   "n": "Rotterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zaed2a820": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z13611b55": {
+   "n": "Aarau",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z6be9cec8": {
+   "n": "Losanna",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z8e1e0236": {
+   "n": "Svizzera",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z550ba0ec": {
+   "n": "Bulle",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zaee3030f": {
+   "n": "Graz",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z1bde8692": {
+   "n": "Taiz",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z81183d7a": {
+   "n": "Yemen",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -20628,7 +22836,6 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zede737f3": 1,
   "zc15b528a": 1,
   "z9291c80b": 1,
-  "z23c63b51": 1,
   "z0756ae86": 1,
   "z4ec6f1cf": 1,
   "z174c6957": 1,
@@ -20848,7 +23055,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z02d57f03": 1,
   "z050ea655": 1,
   "z1765389c": 2,
-  "zc06286bd": 1,
+  "zc06286bd": 2,
   "z1ea8437d": 1,
   "zef612b4e": 1,
   "z331a85d2": 1,
@@ -20915,7 +23122,7 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "z972a0712": 1,
   "z1f533405": 1,
   "z539f55b6": 1,
-  "zea0b7aee": 1,
+  "zea0b7aee": 2,
   "zdac50ee2": 1,
   "z1feff942": 1,
   "z78cd8519": 1,
@@ -20927,7 +23134,79 @@ window.EDIZIONI["2026-10-18-sera"] = {
   "zd1d286e0": 1,
   "zbfd98109": 1,
   "zc8a06459": 1,
-  "zfce9b37f": 1
+  "zfce9b37f": 1,
+  "ze67c4f26": 1,
+  "z7afa06ac": 1,
+  "z7486a445": 1,
+  "z5f7a269a": 1,
+  "z8a3de7eb": 1,
+  "z130e775a": 1,
+  "z8e9591b8": 1,
+  "z85ced58a": 1,
+  "z1e5870c2": 1,
+  "z2cad50ba": 1,
+  "z7f8a9303": 1,
+  "zf325b6c1": 1,
+  "za857bc71": 1,
+  "z8776a2ee": 1,
+  "zdb5ef799": 1,
+  "z61a12d18": 1,
+  "zdf7d72ff": 1,
+  "z130aeb68": 1,
+  "ze10c1550": 2,
+  "zca21f2f2": 1,
+  "z27f67c7e": 1,
+  "z57609ebc": 1,
+  "zbaee79ed": 1,
+  "z42cd262f": 1,
+  "z83a9321a": 1,
+  "z6f34ec1b": 1,
+  "z7632906c": 2,
+  "z8c99abd5": 1,
+  "z281b70f3": 1,
+  "za90ccfd3": 1,
+  "z40b546f5": 1,
+  "z1da399af": 1,
+  "z1d9d00cb": 1,
+  "z160c6f4f": 1,
+  "z26e3fa05": 1,
+  "z509ce1d3": 1,
+  "zbf6e1552": 1,
+  "z69b3cfd0": 1,
+  "zbbf428ba": 1,
+  "z50de0d5d": 2,
+  "z4cc730d2": 1,
+  "z0c75e02a": 1,
+  "zcee75e3b": 1,
+  "ze9fbd041": 1,
+  "z7c7e1442": 1,
+  "zf49eca24": 1,
+  "z12f8b7d1": 1,
+  "z31770a24": 1,
+  "z214b70b0": 1,
+  "z85d07889": 1,
+  "zf32c6cb4": 1,
+  "z4b300a74": 1,
+  "zba4314d5": 1,
+  "zd0357c71": 1,
+  "z01779c20": 1,
+  "z5ae5a6ea": 1,
+  "ze5dca2e9": 1,
+  "zd64c4a8c": 1,
+  "z4b2d4f38": 1,
+  "zfc30f079": 1,
+  "zbf9ac152": 1,
+  "zd39cc956": 1,
+  "z0aa37524": 1,
+  "zd0055257": 1,
+  "zaed2a820": 1,
+  "z13611b55": 1,
+  "z6be9cec8": 1,
+  "z8e1e0236": 1,
+  "z550ba0ec": 1,
+  "zaee3030f": 1,
+  "z1bde8692": 1,
+  "z81183d7a": 1
  },
  "video": {},
  "pillole": []
