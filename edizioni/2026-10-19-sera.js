@@ -3,6 +3,680 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zeee20ef4",
+   "sez": "tech",
+   "titolo": "La ripresa di Nokia riapre il dibattito sul primato tecnologico finlandese",
+   "orig": "Kan Nokia åter göra Finland till ett ledande teknikland?",
+   "lead": "Dopo il declino del settore della telefonia mobile, il titolo di Nokia torna a salire sul mercato, riaccendendo l'attenzione sul possibile ruolo del gruppo nel rilancio della Finlandia come punto di riferimento mondiale per l'innovazione tecnica, sebbene le quotazioni restino ancora lontane dai picchi storici raggiunti nel 2000. Lo riferisce SVT Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/uutiset/svenska/kan-nokia-ater-gora-finland-till-ett-ledande-teknikland",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-19T11:40+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z366db284",
+   "sez": "mondo",
+   "titolo": "In Norvegia crescono le richieste per riaprire il dibattito sull'adesione all'UE",
+   "orig": "Vil ha ny norsk EU-debatt: – Mye har skjedd siden 1994",
+   "lead": "A distanza di oltre tre decenni dal referendum del 1994, in Norvegia si riaccende il confronto sull'eventuale ingresso nell'Unione europea. Sebbene la questione continui a dividere profondamente l'opinione pubblica, una quota crescente di cittadini e osservatori si dichiara ora favorevole a ridiscutere l'integrazione comunitaria. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/stor-oslo/vil-ha-ny-norsk-eu-debatt_-_-mye-har-skjedd-siden-1994-1.17994600",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-19T08:43+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z92361e8a",
+   "sez": "spazio",
+   "titolo": "Detriti spaziali nei fondali norvegesi: manca una normativa per il recupero",
+   "orig": "Rakettdelar hamnar i havet – ingen har ryddeansvar",
+   "lead": "Gli investimenti norvegesi nel settore aerospaziale procedono a ritmo sostenuto, ma i resti dei razzi lanciati continuano a depositarsi sui fondali marini. L'assenza di un quadro normativo specifico fa sì che nessun soggetto sia formalmente tenuto a recuperare i rifiuti accumulati nelle acque. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/nordland/rakettdelar-hamnar-i-havet_-utgjer-minimal-miljoskade_-ifolgje-andoya-space-1.18017139",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-19T08:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z10381243",
+   "sez": "economia",
+   "titolo": "Icelandair acquisisce il 49% di Fly Play Europe nonostante le critiche dei piloti",
+   "orig": "Icelandair búið að kaupa hlutinn í Fly Play Europe",
+   "lead": "Icelandair ha completato l'acquisizione del 49% di Fly Play Europe, entità con licenza a Malta nata nell'orbita del vettore Play. L'operazione punta ad aumentare flessibilità e competitività aziendale, ma i piloti contestano la decisione, sostenendo che l'accordo rischi di indebolire la contrattazione collettiva islandese. Lo riferisce RÚV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-19-icelandair-buid-ad-kaupa-hlutinn-i-fly-play-europe-490327/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-19T09:38+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z61e42254",
+   "sez": "economia",
+   "titolo": "Islanda: Landsbankinn stima crescita moderata e inflazione in calo",
+   "orig": "Áfram lítill hagvöxtur en minnkandi verðbólga",
+   "lead": "L'economia islandese attraverserà una fase di rallentamento nei prossimi mesi, con una crescita del PIL stimata all'1,3% quest'anno e all'1,5% nel prossimo. Secondo le previsioni di Landsbankinn, l'inflazione è comunque destinata a ridursi rapidamente, aprendo la strada a possibili tagli dei tassi d'interesse all'inizio dell'anno venturo. Lo riferisce RÚV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-19-afram-litill-hagvoxtur-en-minnkandi-verdbolga-490325/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-19T09:32+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z0419dbac",
+   "sez": "mondo",
+   "titolo": "Zelensky accusa: nessun avviso dagli alleati sull'ondata di missili e droni russi",
+   "orig": "Fengu engar viðvaranir um árásir",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha dichiarato che le forze di Kiev non hanno ricevuto avvisi preventivi dagli alleati sull'attacco notturno russo, condotto con sedici missili e oltre duecento droni. L'episodio segue le recenti critiche di Kiev a Washington per la presunta riduzione della condivisione di informazioni d'intelligence. Lo riferisce RÚV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-19-fengu-engar-vidvaranir-um-arasir-490322/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-19T09:03+00:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T12:25+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z741ecc84",
+   "sez": "mondo",
+   "titolo": "Il ministro degli Esteri tunisino Nafti a Baghdad per colloqui bilaterali arabi",
+   "orig": "Nafti s’entretient, à Bagdad, avec ses homologues irakien, égyptien, djiboutien et yéménite : Concertation sur les questions d’intérêt commun",
+   "lead": "A margine della cinquantaduesima sessione del Consiglio dei ministri degli Esteri dell'Organizzazione della cooperazione islamica a Baghdad, il capo della diplomazia tunisina Mohamed Ali Nafti ha incontrato i colleghi di Iraq, Egitto, Gibuti e Yemen per esaminare questioni regionali di comune interesse e rafforzare il coordinamento diplomatico. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/19/nafti-sentretient-a-bagdad-avec-ses-homologues-irakien-egyptien-djiboutien-et-yemenite-concertation-sur-les-questions-dinteret-commun/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-19T09:29+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "zb6aaec09",
+   "sez": "ambiente",
+   "titolo": "RDC: la peste dei piccoli ruminanti uccide quasi duecento capre a Idjwi",
+   "orig": "La peste des petits ruminants décime près de 200 chèvres à Idjwi, les autorités appellent à l’aide",
+   "lead": "Nella chefferie di Rubenga, nel territorio insulare di Idjwi in Sud-Kivu, almeno centonovantuno capre sono morte a causa della peste dei piccoli ruminanti tra giugno e ottobre. L'ispettorato locale dell'agricoltura e allevamento ha sollecitato un intervento veterinario urgente per frenare il contagio tra gli animali. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/19/actualite/sante/la-peste-des-petits-ruminants-decime-pres-de-200-chevres-idjwi-les",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-19T09:46+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "zfdb1e78d",
+   "sez": "mondo",
+   "titolo": "RDC: estorsioni ai danni degli agricoltori a Oïcha, l'esercito apre un'inchiesta",
+   "orig": "L’ONG Afrika Amani dénonce des extorsions visant les agriculteurs à Oïcha",
+   "lead": "L'organizzazione per i diritti umani Afrika Amani ha denunciato estorsioni sistematiche ai danni dei contadini lungo le strade tra Oïcha, Maleki e Mamove, nella provincia del Nord-Kivu, operate da uomini in uniforme durante il trasporto dei raccolti. Il comando militare locale ha dichiarato di aver avviato un'indagine formale. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/19/actualite/societe/long-afrika-amani-denonce-des-extorsions-visant-les-agriculteurs-oicha",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-19T08:44+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z36dd171a",
+   "sez": "ambiente",
+   "titolo": "Alluvioni tra Valencia e Alicante: duemila persone evacuate da un campeggio",
+   "orig": "Alluvioni fra Valencia e Alicante, evacuati 2mila persone da camping",
+   "lead": "Piogge torrenziali hanno colpito la Spagna tra le province di Valencia e Alicante, costringendo all'evacuazione di circa duemila persone da un campeggio. L'allerta rossa per maltempo riguarda in particolare le zone di Safor e Marina Alta, dove centinaia di residenti e turisti sono rimasti intrappolati. Lo riferisce ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/19/alluvioni-fra-valencia-e-alicante-evacuati-2mila-persone-da-camping_a4f8fa4a-a47e-41eb-8f4e-6e8931628d47.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T11:14+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "zc02fb689",
+   "sez": "economia",
+   "titolo": "Battaglia legale da nove miliardi di dollari tra Kroger e Albertsons per la fusione fallita",
+   "orig": "US grocery giants head to court in $9bn battle over failed merger",
+   "lead": "I giganti statunitensi della grande distribuzione alimentare Kroger e Albertsons si affrontano in tribunale in una contesa legale da nove miliardi di dollari scaturita dal fallimento del loro progetto di fusione. Entrambe le aziende si accusano reciprocamente di essere responsabili del naufragio dell'intesa. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/086e66dd-1e1b-4279-ae6b-2ac88757998f?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T10:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z1f4823f3",
+   "sez": "mondo",
+   "titolo": "Indipendenza della Scozia, Swinney sfida le proposte di devoluzione del Labour",
+   "orig": "Swinney tests limits of Burnham’s devolution pitch to Scotland",
+   "lead": "Il primo ministro scozzese John Swinney mette alla prova l'offerta di devoluzione avanzata da Andy Burnham verso la Scozia. Nonostante la volontà del governo britannico di evitare nuove tensioni separatiste, lo Scottish National Party ribadisce il proprio fermo impegno a perseguire la rottura con Londra. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/d98a97e4-5ba4-481e-af20-35dcb2fc3a14?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T08:30+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z5f4dd86f",
+   "sez": "mondo",
+   "titolo": "Proteste violente in Albania, ferma condanna da parte della Commissione europea",
+   "orig": "Evropska komisija osudila nasilje na protestima u Albaniji",
+   "lead": "La Commissione europea ha condannato duramente le violenze scoppiate durante le recenti proteste a Tirana e in altre città dell'Albania. Bruxelles ha censurato gli attacchi incendiari diretti contro le istituzioni statali e la devastazione di beni pubblici verificatisi nel corso delle manifestazioni antigovernative. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/region/evropska-komisija-osuda-nasilje-protest-albanija/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-19T12:19+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z80745420",
+   "sez": "mondo",
+   "titolo": "Vertice del Processo di Berlino, il Montenegro riunisce i leader dei Balcani occidentali",
+   "orig": "Crna Gora okuplja lidere Zapadnog Balkana na Samitu Berlinskog procesa",
+   "lead": "Il Montenegro ospiterà il 22 ottobre a Miločer, vicino a Budva, il vertice del Processo di Berlino dedicato ai Balcani occidentali. L'incontro internazionale riunirà i leader dei sei paesi della regione insieme ai partner europei per discutere di cooperazione e integrazione comunitaria. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/region/crna-gora-berlinski-proces-zapadni-balkan-predsedavanje/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-19T12:16+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z2f910121",
+   "sez": "mondo",
+   "titolo": "Spedizione nel Pacifico, nessun risultato nella nuova ricerca dell'aereo di Amelia Earhart",
+   "orig": "Nova potraga za avionom Amelije Erhart završena bez rezultata",
+   "lead": "Si è conclusa senza alcun riscontro utile la recente spedizione organizzata su una remota isola del Pacifico meridionale per localizzare il relitto del velivolo di Amelia Earhart. L'esplorazione mirava a far luce sul mistero della celebre aviatrice statunitense scomparsa nel nulla durante la trasvolata oceanica. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/magazin/scitech/nova-potraga-za-avionom-amelije-erhart-zavrsena-bez-rezultata/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-19T12:11+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z00315e4c",
+   "sez": "mondo",
+   "titolo": "Disordini in Francia, l'estrema destra di Rassemblement National punta sull'ordine pubblico",
+   "orig": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
+   "lead": "L'ondata di violenze e scontri di piazza che scuote la Francia offre spazio politico all'estrema destra del Rassemblement National. Il partito guidato da Marine Le Pen, già in testa nei sondaggi nazionali, si propone all'elettorato come l'unica forza capace di ripristinare la sicurezza pubblica. Lo riferisce The New York Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T09:13+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z39502a3d",
+   "sez": "mondo",
+   "titolo": "Haiti, cinque soldati di El Salvador dispersi dopo un'imboscata delle bande criminali",
+   "orig": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
+   "lead": "Cinque militari salvadoregni risultano dispersi ad Haiti in seguito a un attacco armato subito in una zona controllata dalle gang criminali. La missione multinazionale sostenuta dall'ONU per contrastare le violenze sull'isola ha avviato intense operazioni di ricerca per rintracciare i componenti del contingente aggredito. Lo riferisce The New York Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T06:43+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z196457fa",
+   "sez": "economia",
+   "titolo": "Lo Sri Lanka perde il partner cinese nel polo logistico del porto di Colombo",
+   "orig": "China pulls out of Sri Lanka port logistics venture",
+   "lead": "Un'impresa statale cinese ha deciso di ritirarsi dal progetto congiunto da 392 milioni di dollari destinato a creare un importante polo logistico nel porto di Colombo. La rinuncia rappresenta una battuta d'arresto per i piani di espansione infrastrutturale dello scalo principale dello Sri Lanka. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/china-pulls-out-of-sri-lanka-port-logistics-venture/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "zcdf9e3ef",
+   "sez": "salute",
+   "titolo": "Egitto, il governo spinge sul ruolo del settore privato nella sanità e nei farmaci",
+   "orig": "Egypt highlights private sector role in healthcare development, pharmaceutical localization",
+   "lead": "Il ministro della Salute egiziano Khaled Abdel Ghaffar ha sottolineato l'importanza centrale degli investimenti privati per modernizzare le strutture sanitarie nazionali. L'Egitto punta con decisione sulla produzione domestica di vaccini e medicinali, che già garantisce oltre il novantuno per cento del fabbisogno del mercato interno. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/egypt-highlights-private-sector-role-in-healthcare-development-pharmaceutical-localization/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-19T09:53+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "zffad9a4f",
+   "sez": "mondo",
+   "titolo": "L'istituzione islamica di Al-Azhar chiede una commissione di mediazione per il Medio Oriente",
+   "orig": "Azhar calls for urgent mediation committee to end regional conflicts",
+   "lead": "La prestigiosa università islamica del Cairo, Al-Azhar, ha proposto l'istituzione immediata di un comitato di mediazione formato da autorevoli personalità del mondo arabo e musulmano. Il grand imam Ahmed al-Tayyeb ha rivolto un accorato appello per arrestare tempestivamente le guerre e i conflitti regionali. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/azhar-calls-for-urgent-mediation-committee-to-end-regional-conflicts/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-19T09:36+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z2adad086",
+   "sez": "mondo",
+   "titolo": "Tensioni in Medio Oriente, i vertici militari dell'Iran minacciano una nuova escalation con Washington",
+   "orig": "‘The world will be amazed:’ Iran’s commanders prepare for further war",
+   "lead": "I vertici militari di Teheran hanno intensificato gli annunci bellicosi dichiarando di essere pronti a una nuova fase di scontro contro gli Stati Uniti. Le minacce mirano a dissuadere il presidente americano Donald Trump dalla ripresa delle ostilità armate tra le due potenze nella regione mediorientale. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/the-world-will-be-amazed-irans-commanders-prepare-for-further-war/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-19T09:05+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-responde-a-ameacas-dos-eua-querem-tentar-a-sorte-de-novo_n1772636",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T11:11+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z82a150e4",
+   "sez": "mondo",
+   "titolo": "Kenya, il presidente Ruto promulga due disegni di legge per rafforzare le contee",
+   "orig": "President Ruto assents two Senate Bills into law",
+   "lead": "Il presidente del Kenya William Ruto ha promulgato due disegni di legge approvati dal Senato per sostenere il decentramento amministrativo nazionale. I provvedimenti intendono garantire alle amministrazioni di contea le risorse finanziarie necessarie a erogare servizi efficienti e migliorare concretamente le condizioni dei cittadini kenioti. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/president-ruto-assents-two-senate-bills-into-law-n392320",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-19T09:34+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z8f461870",
+   "sez": "tech",
+   "titolo": "Cavi sottomarini nelle Filippine, le lentezze burocratiche frenano l'hub digitale",
+   "orig": "Is Philippines’ laws on underwater cables lagging behind its digital hub goal?",
+   "lead": "Gli operatori di telecomunicazioni delle Filippine denunciano come le lente autorizzazioni per le riparazioni dei cavi sottomarini rischino di compromettere le ambizioni digitali del Paese. Il colosso PLDT e vari analisti sollecitano una revisione normativa e maggiore collaborazione tra le istituzioni governative per modernizzare la rete. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/week-asia/economics/article/3371383/philippines-laws-underwater-cables-lagging-behind-its-digital-hub-goal?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T09:36+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z4bfb528d",
+   "sez": "mondo",
+   "titolo": "Malesia: scandalo tra i fondatori agita il partito riformista Bersama",
+   "orig": "Can Malaysian reform party Bersama survive a founders’ scandal?",
+   "lead": "Il partito riformista malese Bersama affronta un momento critico in vista delle elezioni nello Stato di Malacca, dopo che uno dei suoi fondatori, l’ex ministro Nik Nazmi Nik Ahmad, è stato escluso per una presunta violazione morale religiosa, minacciando il consenso tra gli elettori disillusi. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/asia/southeast-asia/article/3371381/can-malaysian-reform-party-bersama-survive-founders-scandal?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T09:25+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z6da66e11",
+   "sez": "mondo",
+   "titolo": "Hong Kong rivede i fondi per le arti performative puntando sul merito",
+   "orig": "Art or box office? How Hong Kong plans to measure the value of a play, ballet or symphony",
+   "lead": "Il governo di Hong Kong ha annunciato una riforma del modello di finanziamento per le arti performative a favore di un sistema flessibile e meritocratico, riducendo i sussidi ai grandi gruppi per favorire le compagnie emergenti, mentre gli operatori temono difficoltà nella raccolta di fondi privati. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/society/article/3371380/art-or-box-office-how-hong-kong-plans-measure-value-play-ballet-or-symphony?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T09:14+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z88e83b1c",
+   "sez": "mondo",
+   "titolo": "La Cina rivela il lancio di un missile da un sottomarino nucleare avanzato",
+   "orig": "China reveals advanced nuclear sub was used to test-fire missile",
+   "lead": "La Cina ha reso noto di aver impiegato un sottomarino nucleare avanzato per effettuare un test missilistico, dopo che in precedenza le uniche prove note di missili balistici intercontinentali nel Pacifico erano state condotte da terra prima del mese di luglio. Lo riferisce The Japan Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/china-nuclear-sub-test-fire/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-19T18:59+09:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z2b6129c0",
+   "sez": "mondo",
+   "titolo": "Tensioni tra Russia e Giappone oscurano l'anniversario della dichiarazione del 1956",
+   "orig": "Tensions overshadow 70th anniversary of key Japan-Soviet declaration",
+   "lead": "Il settantesimo anniversario della storica dichiarazione congiunta tra Unione Sovietica e Giappone si scontra con il gelo diplomatico bilaterale: in risposta alle sanzioni di Tokyo, la Russia ha sospeso i colloqui per il trattato di pace e ha dichiarato risolta la disputa territoriale sulle isole contese. Lo riferisce The Japan Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/19/japan/politics/japan-soviet-union-declation-anniversary/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-19T17:44+09:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "zda5f4ae3",
+   "sez": "economia",
+   "titolo": "Corea del Sud: LS MnM valuta tagli al rame per il crollo dei margini",
+   "orig": "LS MnM weighs copper output cuts as smelting margins collapse",
+   "lead": "La sudcoreana LS MnM, unica fonderia di rame del Paese, sta valutando di ridurre gli acquisti di concentrato e la produzione nello stabilimento di Ulsan per proteggere la redditività, penalizzata dal crollo ai minimi storici delle tariffe di lavorazione causato dallo squilibrio di mercato. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10907713",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z9ff6260a",
+   "sez": "tech",
+   "titolo": "Samsung Electro-Mechanics firma un contratto da 271 milioni di dollari sui substrati",
+   "orig": "Samsung Electro-Mechanics wins W360.5b memory substrate supply deal",
+   "lead": "Samsung Electro-Mechanics ha annunciato la firma di una commessa da 360,5 miliardi di won, pari a circa 271 milioni di dollari, per fornire fino al termine del 2027 substrati ad alte prestazioni per chip di memoria a un grande cliente internazionale non rivelato. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10907706",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
+   "id": "z195b4bca",
+   "sez": "mondo",
+   "titolo": "Corea del Sud: il ministero dell'Agricoltura valuta azioni legali contro le fake news",
+   "orig": "Agriculture Ministry eyes legal action over egg import, farmland claims",
+   "lead": "Il ministero dell'Agricoltura sudcoreano sta valutando azioni legali contro post sui social network, inclusi YouTube e Instagram, relativi a presunte importazioni di uova dal Brasile e indagini sui terreni agricoli, definendoli disinformazione diffusa maliziosamente per distorcere le politiche governative. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10907694",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "12:46",
+   "uscita": "13"
+  },
+  {
    "id": "z2edc2048",
    "sez": "mondo",
    "titolo": "Libano, gli aiuti iraniani a Hezbollah aumentano le pressioni degli Usa sul governo",
@@ -1149,28 +1823,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zbc53b334",
-   "sez": "mondo",
-   "titolo": "Kiev sotto attacco russo con missili e droni, frizioni tra Zelensky e Rubio sugli allarmi",
-   "orig": "Russland greift Kiew offenbar erneut mit Raketen an",
-   "lead": "La Russia ha lanciato una nuova serie di attacchi con missili e droni contro l'Ucraina. Il presidente Volodymyr Zelensky ha lamentato l'assenza di un preavviso tempestivo da parte dei partner occidentali prima dei raid, ma il segretario di Stato americano Marco Rubio ha smentito questa ricostruzione. Lo riferisce Tagesschau.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-19T12:25+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:44",
-   "uscita": "13"
-  },
-  {
    "id": "z16b480fe",
    "sez": "ambiente",
    "titolo": "Allerta meteo massima a Maiorca, avvisi di emergenza inviati sui telefoni",
@@ -1280,28 +1932,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z10301ad6",
-   "sez": "mondo",
-   "titolo": "Teheran replica alle minacce di Trump e mette in guardia Washington",
-   "orig": "Irão responde a ameaças dos EUA: \"Querem tentar a sorte de novo?\"",
-   "lead": "Il governo di Teheran ha risposto con fermezza agli avvertimenti di Donald Trump, che aveva minacciato di concludere rapidamente l'azione contro l'Iran in assenza di un cambio di rotta. Il ministro degli Esteri iraniano ha replicato sfidando gli Stati Uniti sui rischi di una ripresa degli attacchi militari. Lo riferisce RTP.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-responde-a-ameacas-dos-eua-querem-tentar-a-sorte-de-novo_n1772636",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-19T11:11+01:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:44",
-   "uscita": "13"
-  },
-  {
    "id": "z3d78d684",
    "sez": "mondo",
    "titolo": "Paesi Bassi, nuovo sciopero del trasporto regionale indetto per giovedì",
@@ -1317,28 +1947,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-19T12:26+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:44",
-   "uscita": "13"
-  },
-  {
-   "id": "z9dff02f0",
-   "sez": "mondo",
-   "titolo": "Striscia di Gaza, il Pam costretto a privare mezzo milione di persone dei viveri",
-   "orig": "500.000 Palestijnen in Gaza voortaan zonder noodhulp van Wereldvoedselprogramma",
-   "lead": "A causa di gravi deficit di bilancio, il Programma alimentare mondiale dell'ONU ridurrà l'assistenza alimentare a Gaza, lasciando 500 mila palestinesi privi di razioni mensili. L'agenzia esprime forte allarme per l'avvicinarsi dell'inverno in un contesto dove quasi l'intera popolazione versa già in condizioni di acuta insicurezza alimentare. Lo riferisce NOS.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635561",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-19T09:52+02:00"
     }
    ],
    "data": "19 ott",
@@ -5195,6 +5803,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-19T11:36+02:00"
+    },
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/utrikes/australiensisk-parlamentsledamot-skadad-i-attack-med-bil",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-19T11:06+02:00"
     }
    ],
    "data": "19 ott",
@@ -5324,6 +5941,24 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-10-19T09:20+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/19/wfp-pochi-i-fondi-a-gaza-500-mila-resteranno-senza-aiuti_a6d3ec57-5fe3-45b0-a599-12f80f2c4aeb.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T09:22+02:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635561",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-19T09:52+02:00"
     }
    ],
    "data": "19 ott",
@@ -7782,15 +8417,42 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zf4cf449a": "L'analisi sottolinea l'estrema sensibilità diplomatica e di sovranità che circonda le dichiarazioni dei vertici militari americani a Seul.",
   "z968adf2a": "Il notiziario si sofferma sull'assetto di prontezza difensiva sudcoreano e sui ritocchi al calendario delle esercitazioni con Washington.",
   "zb0dbfb46": "Il notiziario tedesco racconta il malcontento civile nella capitale ucraina, pressata dall'imminente emergenza energetica invernale.",
-  "zbc53b334": "La testata pubblica tedesca dà risalto al contrasto diplomatico e informativo tra la presidenza ucraina e Washington.",
   "z16b480fe": "Il servizio tedesco segnala la serietà dell'emergenza climatica e l'attivazione del sistema di allerta digitale per la popolazione.",
   "z5e9c2c83": "Il corrispondente della televisione tedesca osserva le divisioni intestine nella sinistra durante i delicati negoziati di coalizione.",
   "z54d0d29c": "La testata evidenzia l'ansia strategica della presidenza ucraina di fronte a possibili mutamenti di rotta della diplomazia americana.",
   "zb6cacf84": "L'emittente pubblica portoghese registra il passaggio burocratico definitivo di una misura approvata all'unanimità dalle forze politiche.",
   "z7282a1e7": "Il servizio portoghese descrive la determinazione dei movimenti sociali contro l'emergenza abitativa e il caro affitti nel Paese.",
-  "z10301ad6": "La televisione portoghese pone l'accento sull'escalation verbale e sui rischi di uno scontro militare diretto tra Washington e l'Iran.",
   "z3d78d684": "Il servizio olandese analizza l'impatto della vertenza sindacale sui pendolari e le richieste dei lavoratori del trasporto pubblico.",
-  "z9dff02f0": "Il servizio pubblico olandese evidenzia la drammatica concomitanza tra i tagli finanziari e l'imminente peggioramento delle condizioni climatiche."
+  "zeee20ef4": "L'emittente svedese analizza le nuove strategie industriali di Nokia e il loro impatto sulla reputazione economica della Finlandia.",
+  "z366db284": "L'emittente pubblica norvegese evidenzia il mutato contesto geopolitico che spinge parte della società a riconsiderare il legame con Bruxelles.",
+  "z92361e8a": "Il servizio norvegese mette in luce il contrasto tra le ambizioni spaziali del Paese e il vuoto legislativo ambientale sui residui marini.",
+  "z10381243": "L'emittente islandese riporta le motivazioni finanziarie dell'azienda affiancandole alle rimostranze avanzate dai sindacati di categoria.",
+  "z61e42254": "Il media radiotelevisivo islandese sintetizza le stime dell'istituto bancario nazionale tra debolezza congiunturale e prospettive monetarie.",
+  "z0419dbac": "La radiotelevisione islandese mette in risalto le tensioni tra la presidenza ucraina e gli Stati Uniti sul flusso di comunicazioni militari.",
+  "z741ecc84": "Il quotidiano tunisino sottolinea l'agenda diplomatica del ministro a sostegno della cooperazione interaraba e islamica.",
+  "zb6aaec09": "La radio congolese documenta l'allarme dei tecnici agricoli locali per contenere l'epidemia che minaccia i mezzi di sussistenza della popolazione rurale.",
+  "zfdb1e78d": "L'emittente delle Nazioni Unite in Congo pone l'accento sulla vulnerabilità dei coltivatori locali e sulla risposta annunciata dalle autorità armate.",
+  "z36dd171a": "L'agenzia evidenzia la gravità dell'emergenza meteorologica e l'impatto sui soccorsi nelle zone costiere colpite.",
+  "zc02fb689": "Il quotidiano finanziario pone l'accento sullo scontro giudiziario e sul rimpallo di responsabilità contrattuali tra i due colossi.",
+  "z1f4823f3": "La testata analizza la persistente frattura costituzionale tra le istanze autonomiste scozzesi e la strategia del governo centrale.",
+  "z5f4dd86f": "L'emittente serba segue con attenzione le reazioni delle istituzioni di Bruxelles agli scontri politici nei Balcani occidentali.",
+  "z80745420": "Il canale si concentra sulle dinamiche diplomatiche regionali e sui passi avanti verso l'integrazione europea.",
+  "z2f910121": "L'emittente dà conto del persistente fallimento nei tentativi di svelare uno dei misteri più noti della storia dell'aviazione.",
+  "z00315e4c": "Il giornale statunitense analizza l'opportunità elettorale colta dalle forze di destra sull'onda delle tensioni sociali francesi.",
+  "z39502a3d": "La testata americana sottolinea le crescenti criticità e i rischi operativi affrontati dalla forza di sicurezza internazionale.",
+  "z196457fa": "Il giornale evidenzia le ripercussioni economiche dell'abbandono cinese per le ambizioni commerciali marittime srilankesi.",
+  "zcdf9e3ef": "La testata egiziana illustra le strategie ministeriali tese a rafforzare l'autosufficienza farmaceutica e la cooperazione pubblico-privata.",
+  "zffad9a4f": "Il quotidiano del Cairo valorizza l'iniziativa di diplomazia religiosa promossa dalla massima autorità sunnita egiziana.",
+  "z2adad086": "Il giornale mette in risalto i messaggi di deterrenza militare diffusi da Teheran nei confronti della Casa Bianca.",
+  "z82a150e4": "La testata keniota dà risalto all'attuazione del programma governativo a sostegno dell'autonomia e delle risorse locali.",
+  "z8f461870": "Il quotidiano di Hong Kong esamina gli ostacoli regolatori che frenano la competitività tecnologica nell'area asiatica.",
+  "z4bfb528d": "Il quotidiano evidenzia i rischi elettorali per il movimento che prometteva una rottura con l'establishment politico tradizionale.",
+  "z6da66e11": "La testata esamina il dibattito tra sostenibilità economica e valore artistico per il settore culturale locale.",
+  "z88e83b1c": "Il quotidiano giapponese pone l'accento sull'espansione e sulla diversificazione delle capacità strategiche militari di Pechino nel Pacifico.",
+  "z2b6129c0": "La testata mette in risalto il deterioramento delle relazioni diplomatiche a causa delle sanzioni legate al conflitto in Ucraina.",
+  "zda5f4ae3": "Il quotidiano evidenzia la pressione sui margini di raffinazione dell'operatore industriale a fronte di rincari della materia prima.",
+  "z9ff6260a": "Il quotidiano sudcoreano sottolinea la crescita della domanda globale di componenti avanzati legati alla memoria e ai semiconduttori.",
+  "z195b4bca": "La testata riporta la linea dura del governo di Seul nel contrastare la disinformazione virale sul comparto agroalimentare."
  },
  "contesti": {
   "za5836191": "Dopo il cessate il fuoco e la tregua a Gaza, gli aiuti umanitari sono aumentati ma restano insufficienti rispetto ai bisogni della popolazione, segnata da mesi di conflitto, distruzioni e sfollamenti. Le agenzie Onu, incluso il Wfp, hanno più volte lanciato l'allarme sulla carenza di finanziamenti internazionali, costrette a razionare e ridurre progressivamente l'assistenza alimentare mentre la crisi umanitaria resta acuta.",
@@ -9848,14 +10510,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "zbc53b334": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine",
-    "Russia"
-   ],
-   "pt": []
-  },
   "z16b480fe": {
    "n": "Maiorca",
    "p": [
@@ -9893,14 +10547,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z10301ad6": {
-   "n": "Teheran",
-   "p": [
-    "Iran",
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z3d78d684": {
    "n": "Hilversum",
    "p": [
@@ -9908,10 +10554,213 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z9dff02f0": {
-   "n": "Gaza",
+  "zeee20ef4": {
+   "n": "Finlandia",
    "p": [
-    "Palestine"
+    "Finland"
+   ],
+   "pt": []
+  },
+  "z366db284": {
+   "n": "Norvegia",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z92361e8a": {
+   "n": "Norvegia",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z10381243": {
+   "n": "Reykjavík",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "z61e42254": {
+   "n": "Reykjavík",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "z0419dbac": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z741ecc84": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zb6aaec09": {
+   "n": "Idjwi",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zfdb1e78d": {
+   "n": "Oïcha",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z36dd171a": {
+   "n": "Comunità Valenciana",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zc02fb689": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1f4823f3": {
+   "n": "Scozia",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z5f4dd86f": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z80745420": {
+   "n": "Miločer",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z2f910121": {
+   "n": "Oceano Pacifico",
+   "p": [],
+   "pt": []
+  },
+  "z00315e4c": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z39502a3d": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z196457fa": {
+   "n": "Colombo",
+   "p": [
+    "Sri Lanka"
+   ],
+   "pt": []
+  },
+  "zcdf9e3ef": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zffad9a4f": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z2adad086": {
+   "n": "Teheran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z82a150e4": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z8f461870": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z4bfb528d": {
+   "n": "Malacca",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z6da66e11": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong",
+    "China"
+   ],
+   "pt": []
+  },
+  "z88e83b1c": {
+   "n": "Oceano Pacifico",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z2b6129c0": {
+   "n": "Tokyo",
+   "p": [
+    "Japan",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zda5f4ae3": {
+   "n": "Ulsan",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z9ff6260a": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z195b4bca": {
+   "n": "Sejong",
+   "p": [
+    "South Korea"
    ],
    "pt": []
   }
@@ -10188,15 +11037,42 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zf4cf449a": 1,
   "z968adf2a": 1,
   "zb0dbfb46": 1,
-  "zbc53b334": 1,
   "z16b480fe": 1,
   "z5e9c2c83": 1,
   "z54d0d29c": 1,
   "zb6cacf84": 1,
   "z7282a1e7": 1,
-  "z10301ad6": 1,
   "z3d78d684": 1,
-  "z9dff02f0": 1
+  "zeee20ef4": 1,
+  "z366db284": 1,
+  "z92361e8a": 1,
+  "z10381243": 1,
+  "z61e42254": 1,
+  "z0419dbac": 2,
+  "z741ecc84": 1,
+  "zb6aaec09": 1,
+  "zfdb1e78d": 1,
+  "z36dd171a": 1,
+  "zc02fb689": 1,
+  "z1f4823f3": 1,
+  "z5f4dd86f": 1,
+  "z80745420": 1,
+  "z2f910121": 1,
+  "z00315e4c": 1,
+  "z39502a3d": 1,
+  "z196457fa": 1,
+  "zcdf9e3ef": 1,
+  "zffad9a4f": 1,
+  "z2adad086": 2,
+  "z82a150e4": 1,
+  "z8f461870": 1,
+  "z4bfb528d": 1,
+  "z6da66e11": 1,
+  "z88e83b1c": 1,
+  "z2b6129c0": 1,
+  "zda5f4ae3": 1,
+  "z9ff6260a": 1,
+  "z195b4bca": 1
  },
  "video": {},
  "pillole": []
