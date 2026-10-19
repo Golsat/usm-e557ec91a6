@@ -3,6 +3,2271 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z8b01cc01",
+   "sez": "sport",
+   "titolo": "Grave infortunio al portiere dello Sturm Graz sconvolge il derby cittadino",
+   "orig": "\"Fühle mich schrecklich\": Die schwere Verletzung des Sturm-Goalies brachte das Grazer Derby zum Kippen",
+   "lead": "Nel derby di Graz tra Sturm e GAK, il portiere della squadra di casa ha subito un grave infortunio dopo un contrasto di Jacob Italiano, giudicato impetuoso ma non intenzionale. L'episodio ha cambiato l'andamento della partita, con il GAK che ha poi condotto il derby. Il calciatore coinvolto ha espresso dispiacere per quanto accaduto. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344828/fuehle-mich-schrecklich-die-schwere-verletzung-des-sturm-goalies-brachte-das-grazer-derby-zum-kippen?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T09:57+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z6d210b2f",
+   "sez": "economia",
+   "titolo": "I mercati azionari americani puntano al rimbalzo dopo il crollo legato all'IA",
+   "orig": "US stocks set for rebound after AI sell-off",
+   "lead": "Wall Street si prepara a un rimbalzo dopo la peggiore settimana dai tempi delle tensioni commerciali di aprile 2025. I futures del Nasdaq 100 salgono dell'1% dopo giorni di forti vendite legate ai titoli dell'intelligenza artificiale, che avevano fatto temere una bolla speculativa sul settore. Gli investitori guardano con cautela ai prossimi dati economici per capire se la ripresa sarà duratura o solo temporanea. Lo riferisce il Financial Times.",
+   "more": [
+    "I titoli tecnologici legati all'intelligenza artificiale hanno guidato i rialzi di Wall Street negli ultimi anni, ma le valutazioni elevate alimentano timori di una bolla simile a quella delle dot-com. Ogni oscillazione di questi titoli, come Nvidia o Microsoft, si riflette pesantemente su indici come il Nasdaq, influenzando i mercati globali."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T09:16+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z1f93936d",
+   "sez": "sport",
+   "titolo": "Un anno dopo il Mondiale Under 20 in Chile: che fine hanno fatto i giovani protagonisti",
+   "orig": "Un año después: qué ha pasado con las figuras que deslumbraron en el Mundial Sub 20 de Chile",
+   "lead": "Un anno fa, il 19 ottobre 2025, si chiudeva in Cile il Mondiale Under 20 con la vittoria del Marocco. Il torneo aveva offerto a molti giovani calciatori una vetrina importante per mettersi in mostra davanti ai club. Oggi diversi di quei talenti hanno cambiato squadra e visto crescere notevolmente il proprio valore di mercato. La Tercera ripercorre i percorsi di quei giocatori, ricordando come il torneo abbia lanciato alcune carriere. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/el-deportivo/noticia/un-ano-despues-que-ha-pasado-con-las-figuras-que-deslumbraron-en-el-mundial-sub-20-de-chile/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-19T10:13+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zea9139f6",
+   "sez": "economia",
+   "titolo": "Come un'industria da mille miliardi di dollari ripulisce l'oro illegale",
+   "orig": "How a Trillion-Dollar Industry Launders Illegal Gold",
+   "lead": "Un'inchiesta del New York Times svela come il confine tra oro sporco e oro pulito sia in gran parte una finzione costruita dall'industria estrattiva globale. Wall Street e numerosi governi traggono profitto da oro proveniente da circuiti criminali, gruppi armati e situazioni di lavoro minorile. Il settore, che vale migliaia di miliardi di dollari, continuerebbe a beneficiare di controlli insufficienti lungo la catena di fornitura, permettendo che metallo di origine illegale entri nei mercati finanziari internazionali. Lo riferisce il New York Times.",
+   "more": [
+    "Il commercio internazionale dell'oro è spesso difficile da tracciare perché il metallo, una volta fuso, perde ogni traccia della sua provenienza. Questo rende complesso distinguere l'oro estratto legalmente da quello proveniente da miniere controllate da gruppi criminali o armati, specialmente in regioni dell'Africa e del Sud America dove i controlli sono deboli."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T09:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zc1fb5034",
+   "sez": "sport",
+   "titolo": "Alianza Lima soffre ma vince al debutto nella Liga Peruana de Vóley",
+   "orig": "¡Partidazo! Alianza Lima sufrió para vencer 3-2 a Rebaza Acosta por la Liga Peruana de Vóley",
+   "lead": "Alianza Lima ha iniziato la stagione 2026-2027 della Liga Peruana de Vóley con una vittoria sofferta per 3-2 contro Rebaza Acosta. La partita, definita combattuta dalla stampa locale, ha visto la squadra di Lima faticare prima di conquistare i punti al tie-break decisivo. Si tratta del primo risultato della nuova stagione del campionato peruviano di pallavolo. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/deporte-total/voley/alianza-lima-vs-rebaza-acosta-en-vivo-hora-y-donde-ver-la-fecha-1-de-la-liga-peruana-de-voley-sets-y-puntos-latina-tv-tdpe-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-19T06:29+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z97e52d0b",
+   "sez": "mondo",
+   "titolo": "L'Ucraina usa gli F-16 per abbattere i drone russi a propulsione a getto",
+   "orig": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+   "lead": "L'Ucraina sta impiegando i caccia F-16 per contrastare i drone russi di nuova generazione, dotati di propulsione a getto e più rapidi dei modelli precedenti. Questi velivoli rappresentano l'arma scelta da Mosca per i suoi attacchi più recenti. Utilizzare aerei da combattimento multimilionari per abbattere drone, però, non è una soluzione efficiente dal punto di vista economico e operativo, secondo l'analisi del New York Times. Lo riferisce il New York Times.",
+   "more": [
+    "Dall'inizio dell'invasione russa, la Russia ha intensificato l'uso di drone per colpire infrastrutture e città ucraine, spingendo Kyiv a cercare contromisure sempre più sofisticate. Gli F-16, forniti dagli alleati occidentali, sono tra i mezzi più avanzati a disposizione dell'Ucraina, ma il loro costo elevato rende il loro impiego contro i drone una soluzione non ottimale sul lungo periodo."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T09:15+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zb1a2d2b0",
+   "sez": "sport",
+   "titolo": "Mourinho su Yan Diomandé: \"È giovane e ingenuo, un prodotto non ancora finito\"",
+   "orig": "José Mourinho sur Yan Diomandé : « Il est jeune, naïf. C’est encore un produit qui n’est pas fini »",
+   "lead": "Dopo la vittoria del Real Madrid sul Siviglia nella nona giornata di Liga, l'allenatore José Mourinho ha commentato le qualità del giovane calciatore Yan Diomandé, definendolo ancora immaturo e non del tutto formato come giocatore. Le dichiarazioni sono arrivate all'indomani della partita giocata domenica 18 ottobre, vinta nettamente dai blancos. Mourinho ha sottolineato la giovane età del calciatore come fattore da considerare nella valutazione del suo rendimento. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/jose-mourinho-sur-yan-diomande-il-est-jeune-naif-cest-encore-un-produit-qui-nest-pas-fini_n_999001108.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-19T10:15+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z712d9f7c",
+   "sez": "economia",
+   "titolo": "La crisi del Golfo potrebbe favorire i porti dell'Africa orientale",
+   "orig": "Gulf crisis could be a blessing in disguise for EA ports",
+   "lead": "Un'agenzia delle Nazioni Unite sollecita i paesi dell'Africa orientale a rafforzare gli scambi commerciali nell'ambito dell'Area di libero scambio continentale africana (AfCFTA), approfittando dei mutamenti negli equilibri globali causati dalla crisi del Golfo. Secondo l'agenzia, la situazione attuale potrebbe trasformarsi in un'opportunità per i porti della regione, che potrebbero beneficiare di nuovi flussi commerciali dirottati dalle tensioni nel Golfo. Lo riferisce The EastAfrican.",
+   "more": [
+    "L'Area di libero scambio continentale africana (AfCFTA) è un accordo tra i paesi africani nato per facilitare il commercio interno al continente, riducendo dazi e barriere. I porti dell'Africa orientale, come Mombasa e Dar es Salaam, sono snodi strategici per le rotte commerciali che collegano l'Africa all'Asia e al Medio Oriente."
+   ],
+   "fonti": [
+    {
+     "n": "The EastAfrican",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.theeastafrican.co.ke/tea/business-tech/gulf-crisis-could-be-a-blessing-in-disguise-for-ea-ports-5637118",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-19T07:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z94070c3f",
+   "sez": "sport",
+   "titolo": "Il Madagascar amplia il collegio elettorale per le elezioni della federazione calcistica",
+   "orig": "FOOTBALL – Des représentants de clubs et d’autres acteurs intègrent le collège électoral pour élire les futurs dirigeants de la FMF",
+   "lead": "La Federazione malgascia di calcio (FMF) ha deciso di ampliare da 21 a 41 membri il collegio elettorale che sceglierà i futuri dirigenti. L'elezione del prossimo presidente non sarà più riservata ai soli presidenti delle leghe regionali, ma coinvolgerà anche rappresentanti dei club, arbitri e altri soggetti del mondo del calcio. La riforma mira a rendere più rappresentativo il processo di scelta dei vertici della federazione. Lo riferisce 2424.mg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/football-des-representants-de-clubs-et-dautres-acteurs-integrent-le-college-electoral-pour-elire-les-futurs-dirigeants-de-la-fmf",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-19T09:18+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z114923be",
+   "sez": "ingegneria",
+   "titolo": "A Torino le ex Fonderie Nebiolo diventeranno un polo culturale con una moschea",
+   "orig": "A Torino, le ex Fonderie Nebiolo stanno per diventare un polo culturale con una moschea all’interno",
+   "lead": "A Torino le storiche ex Fonderie Nebiolo stanno per essere trasformate in un nuovo polo culturale che includerà anche una moschea. Il progetto prevede il recupero di uno spazio industriale dismesso per restituirlo alla città con nuove funzioni pubbliche e culturali. Si tratta di un intervento di riqualificazione urbana che unisce la valorizzazione del patrimonio industriale storico a nuove destinazioni sociali e religiose per il quartiere. Lo riferisce Domus.",
+   "more": [
+    "Le Fonderie Nebiolo furono un importante stabilimento industriale torinese attivo nella produzione di caratteri tipografici e componenti meccanici. Come molte aree industriali dismesse nelle città italiane, il complesso è oggetto da anni di progetti di recupero e riconversione verso usi culturali o abitativi."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/gallery/2026/10/16/ex-fonderie-nebiolo-torino-recupero-moschea-studentato.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T11:00+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zfddfe874",
+   "sez": "sport",
+   "titolo": "Il Daring Club Virunga perde l'andata contro il Primeiro de Agosto in Coppa CAF",
+   "orig": "CAF-C2 : « on va repartir au travail pour préparer le match retour espérant renverser la situation » (Hamid Brimil)",
+   "lead": "Il Daring Club Virunga, squadra congolese, è stato sconfitto 2-1 dal Primeiro de Agosto d'Angola nella gara d'andata del secondo turno della Coppa della Confederazione CAF. Il tecnico Hamid Brimil ha dichiarato che la squadra tornerà ad allenarsi per preparare il match di ritorno, con l'obiettivo di ribaltare il risultato negativo dell'andata. La qualificazione al turno successivo resta ancora aperta in vista della partita decisiva. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/19/caf-c2-va-repartir-au-travail-pour-preparer-le-match-retour-esperant-renverser-la",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-19T08:46+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z9e94b21a",
+   "sez": "economia",
+   "titolo": "La Borsa di Mumbai chiude in forte calo, il Sensex perde oltre 870 punti",
+   "orig": "Sensex ends over 870 points down, Nifty50 below 22,900 - top reasons for fall",
+   "lead": "La Borsa indiana ha chiuso la seduta in netto ribasso, con l'indice Sensex sceso di 876 punti, pari all'1,17%, a 73.852,90 punti, e il Nifty50 calato dell'1,11% a 22.888,95 punti. Il crollo ha provocato una perdita di capitalizzazione di mercato stimata in quasi 4.700 miliardi di rupie per le società quotate alla Borsa di Bombay, portando il valore complessivo a circa 467.000 miliardi di rupie. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-today-why-bse-sensex-nifty50-have-crashed-on-october-19-2026-oil-price-banking-stocks-profit-booking-fiis-top-reasons-for-fall/articleshow/135044024.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T14:04+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zf77ddd76",
+   "sez": "sport",
+   "titolo": "L'Uganda batte il Burundi e si qualifica per la Coppa d'Africa di beach soccer",
+   "orig": "Uganda beat Burundi to qualify for Beach Soccer AFCON",
+   "lead": "La nazionale ugandese di calcio da spiaggia ha sconfitto il Burundi, ottenendo così la qualificazione alla fase finale della Coppa d'Africa di Beach Soccer. Il risultato rappresenta un passo importante per il movimento calcistico ugandese nella disciplina del beach soccer, in crescita nel continente africano. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/sports/379691/uganda-beat-burundi-to-qualify-for-beach-soccer-afcon",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-19T12:56+03:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/sports/379695/uganda-cubs-book-u-17-afcon-ticket-after-thrashing-ethiopia",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-19T12:58+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z14ff4356",
+   "sez": "economia",
+   "titolo": "Dopo il vertice di Avaza, nuove opportunità commerciali per l'Asia centrale",
+   "orig": "From Transit to Trade: Economic Opportunity After Avaza",
+   "lead": "L'ottavo Incontro Consultivo dei capi di Stato dell'Asia centrale, tenutosi ad Avaza, in Turkmenistan, l'8 ottobre, è stato il primo vertice regolare da quando l'Azerbaijan è diventato partecipante a pieno titolo del formato, nel novembre 2025. L'incontro è avvenuto in un anno in cui i cinque Stati centroasiatici e l'Azerbaijan celebrano il 35° anniversario della loro indipendenza, aprendo nuove prospettive di cooperazione economica e commerciale tra i sei paesi. Lo riferisce The Astana Times.",
+   "more": [
+    "L'Asia centrale, formata da Kazakistan, Uzbekistan, Turkmenistan, Kirghizistan e Tagikistan, ha intensificato negli ultimi anni il dialogo regionale per sviluppare corridoi commerciali alternativi, in particolare verso il Caucaso e l'Europa, riducendo la dipendenza dalle rotte attraverso la Russia."
+   ],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/from-transit-to-trade-economic-opportunity-after-avaza/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-19T10:04+00:00"
+    },
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/kazakhstan/4236516.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-19T14:07+04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z638a8462",
+   "sez": "economia",
+   "titolo": "Il Fondo eurasiatico alza le stime di crescita del Kazakistan al 5% per il 2027",
+   "orig": "EFSD Raises Kazakhstan’s 2027 Growth Forecast to 5%, Expects Inflation to Ease",
+   "lead": "Il Fondo eurasiatico per la stabilizzazione e lo sviluppo (EFSD) ha rivisto al rialzo le previsioni di crescita economica del Kazakistan per il 2027, portandole al 5%, rispetto al precedente 4,6%. Il fondo prevede inoltre un graduale calo dell'inflazione fino al 2029. Per il 2026 la crescita del PIL kazako è stimata al 5%, dopo il 6,5% registrato in precedenza. Lo riferisce The Astana Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/efsd-raises-kazakhstans-2027-growth-forecast-to-5-expects-inflation-to-ease/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-19T07:48+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z799b9ebc",
+   "sez": "economia",
+   "titolo": "L'attore Daniel Wu amplia i suoi affari in Cina con un brand di mobili",
+   "orig": "From English courses to furniture, actor Daniel Wu expands his business interests in China",
+   "lead": "L'attore e filmmaker di Hong Kong Daniel Wu Yin-cho, nato negli Stati Uniti, ha lanciato un nuovo marchio di mobili chiamato Arox, ultima delle sue iniziative imprenditoriali per sfruttare la propria notorietà nel mercato cinese. Wu, 52 anni, si è progressivamente allontanato dalla recitazione negli ultimi anni, dedicandosi a diversi progetti commerciali, tra cui un corso di inglese lanciato l'anno scorso, un marchio di caffè chiamato Whatever e un progetto di design di caschi da ciclismo. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/article/3371356/english-courses-furniture-actor-daniel-wu-expands-his-business-interests-china?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T08:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z8f7e3bcd",
+   "sez": "economia",
+   "titolo": "Gli investitori cinesi continuano a sostenere il mercato immobiliare di Hong Kong nonostante la nuova tassa",
+   "orig": "Why mainland Chinese still drive Hong Kong’s housing market despite Beijing’s 20% tax",
+   "lead": "Nonostante il governo cinese abbia introdotto una tassa del 20% sui redditi da affitto e sulle plusvalenze derivanti da proprietà estere trasferite in trust offshore da residenti cinesi, gli investitori del continente restano un fattore determinante per il mercato immobiliare di Hong Kong, secondo gli agenti del settore. Il Ministero delle Finanze e l'Amministrazione fiscale cinese avevano annunciato la misura nel luglio scorso, riguardante i guadagni da affitti e vendite di immobili, azioni e altre partecipazioni. Lo riferisce South China Morning Post.",
+   "more": [
+    "Negli ultimi anni Pechino ha rafforzato i controlli fiscali sui capitali dei cittadini cinesi investiti all'estero, nel tentativo di limitare la fuga di capitali e aumentare le entrate fiscali. Hong Kong, grazie ai suoi legami storici e fiscali con la Cina continentale, resta una delle destinazioni preferite dagli investitori cinesi per l'acquisto di immobili."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/markets/article/3371345/why-mainland-chinese-still-drive-hong-kongs-housing-market-despite-beijings-20-tax?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T06:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zb4ac5b94",
+   "sez": "mondo",
+   "titolo": "Takaichi deve ricostruire la fiducia pubblica dopo le dimissioni del ministro dell'Agricoltura",
+   "orig": "Takaichi Must Rebuild Public Trust After Agriculture Minister Resigns",
+   "lead": "Il primo ministro giapponese Takaichi si trova a dover ricostruire la fiducia dei cittadini dopo le dimissioni del ministro dell'Agricoltura, coinvolto in uno scandalo. La situazione arriva in un momento delicato, con una legge sul taglio delle tasse sul cibo e una revisione della strategia di sicurezza nazionale in discussione. Secondo l'editoriale di Japan Forward, il governo non può permettersi che lo scandalo eroda ulteriormente la credibilità dell'esecutivo in un periodo di decisioni cruciali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Japan Forward",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://japan-forward.com/takaichi-agriculture-minister-yanagi-resigns-rebuild-trust/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-19T10:30+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zb9d516db",
+   "sez": "economia",
+   "titolo": "A Siena scontro sulla Fondazione Mps, Lovaglio cerca di salvare la fusione con Mediobanca",
+   "orig": "Verso plebiscito contro le Ops di Lovaglio, che prova a salvare la fusione Mps-Mediobanca",
+   "lead": "A Siena è esploso un caso interno alla Fondazione Monte dei Paschi legato alla figura del presidente Coppini, mentre si profila un plebiscito contrario alle offerte pubbliche di scambio promosse dall'amministratore delegato Luigi Lovaglio, che tenta di salvare la fusione tra Mps e Mediobanca. La vicenda apre una resa dei conti interna alla Fondazione, storico azionista della banca senese, in un momento delicato per le sorti dell'operazione finanziaria. Lo riferisce la Repubblica.",
+   "more": [
+    "La Fondazione Monte dei Paschi di Siena è storicamente legata alle sorti della banca senese, di cui è stata per decenni il principale azionista. L'operazione di fusione tra Mps e Mediobanca, annunciata negli ultimi mesi, rappresenta una delle principali ricomposizioni del panorama bancario italiano, con implicazioni rilevanti per gli assetti proprietari del settore."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/19/news/verso_plebiscito_contro_le_ops_di_lovaglio_che_prova_a_salvare_la_fusione_mps-mediobanca-425657855/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T11:53+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z7f766844",
+   "sez": "viaggi",
+   "titolo": "Per nove italiani su dieci internet è essenziale per sentirsi sicuri in viaggio",
+   "orig": "Viaggi: per nove italiani su dieci la connessione a internet è fondamentale per sentirsi al sicuro",
+   "lead": "Secondo un'indagine di YouGov, nove italiani su dieci considerano la connessione internet fondamentale per sentirsi al sicuro durante i viaggi. Tra gli strumenti più utilizzati dai viaggiatori figurano le applicazioni dedicate ai viaggi, quelle di traduzione e i sistemi di geolocalizzazione, ritenuti indispensabili per orientarsi e affrontare eventuali imprevisti lontano da casa. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/osserva-italia/osserva-viaggi/2026/10/19/news/viaggi_per_nove_italiani_su_dieci_la_connessione_a_internet_e_fondamentale_per_sentirsi_al_sicuro-425657821/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T11:40+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z878dfa8e",
+   "sez": "economia",
+   "titolo": "Lufthansa acquista compagnie aeree ma vende i software che gestiscono i voli",
+   "orig": "Lufthansa compra compagnie ma vende i software che fanno volare gli aerei",
+   "lead": "Lufthansa sta valutando la vendita dei sistemi digitali che pianificano le rotte, assegnano gli equipaggi e controllano i ricavi dei biglietti, mentre contemporaneamente procede ad acquisizioni di altre compagnie aeree. Le attività legate a questi software servono circa 350 clienti internazionali e hanno attirato l'interesse di diversi fondi di private equity, interessati a rilevare questa parte del business del gruppo tedesco. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/19/news/lufthansa_compra_compagnie_ma_vende_i_software-425657450/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T08:52+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zc599e216",
+   "sez": "ambiente",
+   "titolo": "L'Italia frena sulla transizione energetica: crescono le rinnovabili ma non l'elettrico",
+   "orig": "La transizione ferma a metà. Più rinnovabili ma l’elettrico non sfonda",
+   "lead": "Un bilancio sugli obiettivi climatici italiani al 2030 mostra un quadro misto: le fonti rinnovabili continuano a crescere ma a ritmo in calo, mentre l'elettrificazione dei consumi domestici e dei trasporti resta ferma. Il rapporto, pubblicato oggi, evidenzia come il Paese non stia procedendo in modo uniforme verso gli impegni assunti a livello europeo per la riduzione delle emissioni. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "Gli obiettivi europei al 2030 prevedono una forte riduzione delle emissioni di gas serra attraverso la diffusione di energie rinnovabili e l'elettrificazione di settori come i trasporti e il riscaldamento domestico. L'Italia, come altri Stati membri, deve presentare piani nazionali per il clima e l'energia che misurano i progressi su questi fronti, spesso disomogenei tra i diversi comparti."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/19/news/transizione_energia_rinnovabili_auto_pniec_ecco_la_pagella-425653552/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T08:00+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zfcc1e4c5",
+   "sez": "mondo",
+   "titolo": "Papua Nuova Guinea ratifica 11 trattati marittimi dell'IMO",
+   "orig": "PNG ratifies 11 critical IMO Maritime Instruments to safeguard Oceans and advance Blue Economy",
+   "lead": "Il Parlamento di Papua Nuova Guinea ha votato a larga maggioranza mercoledì la ratifica di undici trattati e protocolli dell'Organizzazione Marittima Internazionale (IMO), dedicati alla protezione dell'ambiente marino, alla responsabilità delle navi e alla gestione degli incidenti in mare. La decisione viene definita una tappa storica per il settore marittimo nazionale e per la governance degli oceani del Paese, nell'ottica di sviluppare la cosiddetta economia blu. Lo riferisce Post-Courier.",
+   "more": [
+    "L'Organizzazione Marittima Internazionale è l'agenzia delle Nazioni Unite che regola la sicurezza, l'ambiente e la responsabilità nel trasporto marittimo globale. L'adesione ai suoi trattati impegna gli Stati a rispettare standard comuni su inquinamento, sicurezza delle navi e risarcimenti in caso di incidenti, rafforzando la cooperazione internazionale sulla gestione sostenibile degli oceani."
+   ],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/png-ratifies-11-critical-imo-maritime-instruments-to-safeguard-oceans-and-advance-blue-economy/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-19T07:51+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za086ad39",
+   "sez": "economia",
+   "titolo": "Banca Mondiale: entro cinque anni finanziamenti per minerali critici moltiplicati per cinque",
+   "orig": "World Bank’s Banga sets goal of quintupling critical minerals financing in five years",
+   "lead": "Il presidente della Banca Mondiale Ajay Banga ha annunciato venerdì l'obiettivo di quintuplicare entro cinque anni il volume dei finanziamenti dell'istituto destinati ai minerali critici. Banga ha individuato 20 paesi con cui la Banca Mondiale potrà collaborare su progetti di sviluppo in questo settore. L'annuncio è arrivato durante un intervento in una sessione plenaria del Fondo Monetario Internazionale. Lo riferisce Club of Mozambique.",
+   "more": [
+    "I minerali critici, come litio, cobalto e terre rare, sono essenziali per tecnologie quali batterie, pannelli solari e dispositivi elettronici. La domanda globale è in forte crescita per la transizione energetica, spingendo istituzioni internazionali e governi a investire nell'estrazione e nella lavorazione di queste risorse, spesso concentrate in paesi in via di sviluppo."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/world-banks-banga-sets-goal-of-quintupling-critical-minerals-financing-in-five-years/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-19T07:56+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zce49f414",
+   "sez": "economia",
+   "titolo": "Fitch: il settore bancario del Ghana mostra buona redditività",
+   "orig": "Ghana&#39;s banking sector enjoying healthy profitability metrics - Fitch",
+   "lead": "L'agenzia di rating Fitch ha valutato positivamente la redditività del settore bancario ghanese, confermando quanto già osservato dal Governatore della Banca del Ghana. Secondo il giudizio dell'agenzia, le banche del Paese mantengono indicatori di profitto solidi, anche se restano preoccupazioni legate ai livelli dei prestiti in sofferenza (non-performing loan). Lo riferisce 3News.",
+   "more": [
+    "Il rapporto tra prestiti in sofferenza e totale dei crediti erogati è un indicatore chiave della salute di un sistema bancario: valori elevati segnalano rischi per la stabilità finanziaria. Le agenzie di rating come Fitch valutano periodicamente banche e paesi per orientare investitori e istituzioni internazionali sulla solidità economica."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/ghanas-banking-sector-enjoying-healthy-profitability-metrics-fitch",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-19T10:09+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z8b8c4be2",
+   "sez": "economia",
+   "titolo": "FMI: rischi crescenti per i mercati finanziari globali da IA, rendimenti obbligazionari e cyberattacchi",
+   "orig": "IMF: Global financial markets face growing risks from AI, bond yields, and cyberattacks",
+   "lead": "Il Fondo Monetario Internazionale ha segnalato un aumento dei rischi per i mercati finanziari mondiali legati a tre fattori: l'intelligenza artificiale, l'andamento dei rendimenti obbligazionari e gli attacchi informatici. Secondo l'FMI, con l'aumento delle vulnerabilità i responsabili politici dovrebbero contenere la leva finanziaria, rafforzare la sostenibilità del debito e potenziare le difese cibernetiche. Lo riferisce 3News.",
+   "more": [
+    "Il Fondo Monetario Internazionale pubblica periodicamente rapporti sulla stabilità finanziaria globale, analizzando rischi sistemici come debito eccessivo, bolle speculative e minacce tecnologiche. L'espansione dell'intelligenza artificiale nei mercati finanziari e l'aumento degli attacchi informatici sono temi sempre più centrali per regolatori e banche centrali in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/imf-global-financial-markets-face-growing-risks-from-ai-bond-yields-and-cyberattacks",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-19T09:19+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zecc95854",
+   "sez": "economia",
+   "titolo": "Uno studio: il sistema fiscale ugandese grava in modo sproporzionato sulle donne",
+   "orig": "Uganda tax system disproportionately burdens women, study finds",
+   "lead": "Un nuovo studio condotto in Uganda ha rilevato che il sistema fiscale del Paese pesa in modo sproporzionato sulle donne rispetto agli uomini. La ricerca invita le autorità a introdurre agevolazioni fiscali sui beni di prima necessità per ridurre questo squilibrio, che colpisce in particolare le fasce di popolazione a basso reddito. Lo riferisce Daily Monitor.",
+   "more": [
+    "Le tasse sui consumi, come l'IVA su beni essenziali, tendono a colpire proporzionalmente più le famiglie a basso reddito e le donne, spesso responsabili della spesa domestica e più presenti nell'economia informale. Politiche di esenzione o riduzione fiscale su prodotti di prima necessità sono strumenti comuni per attenuare questo effetto regressivo."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/news/national/uganda-tax-system-disproportionately-burdens-women-study-finds-5637564",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-19T09:04+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z5d08aa4e",
+   "sez": "economia",
+   "titolo": "Sciopero paralizza 34 linee di autobus a San Paolo",
+   "orig": "Greve de funcionários da antiga Transwolff paralisa 34 linhas de ônibus em SP",
+   "lead": "I dipendenti della ex Transwolff, azienda che ha gestito per anni linee di autobus nella città brasiliana di San Paolo, sono entrati in sciopero lunedì, paralizzando 34 linee. Il contratto dell'azienda era stato revocato dall'amministrazione del sindaco Ricardo Nunes per sospetti legami con l'organizzazione criminale PCC. I lavoratori protestano per rivendicazioni legate alla rottura del contratto. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Il PCC (Primeiro Comando da Capital) è una delle principali organizzazioni criminali brasiliane, con ramificazioni che negli anni hanno coinvolto anche settori economici come i trasporti pubblici in alcune città. La revoca di contratti pubblici per sospetti legami criminali è una misura che le amministrazioni locali adottano per contrastare l'infiltrazione della criminalità organizzata negli appalti."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/greve-de-funcionarios-da-antiga-transwolff-paralisa-34-linhas-de-onibus-em-sp.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-19T06:57-03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z1ac5a554",
+   "sez": "economia",
+   "titolo": "L'aumento del diesel preoccupa gli operatori di autobus in Costa Rica",
+   "orig": "Alza en combustibles presiona costos de operación de autobuseros y encarecería tarifas",
+   "lead": "L'aumento del prezzo del diesel sta facendo salire i costi operativi delle aziende di trasporto pubblico su autobus in Costa Rica. L'associazione di categoria Canatrans ha chiesto all'autorità regolatrice Aresep di adottare misure per evitare che l'intero aumento dei costi venga trasferito direttamente sulle tariffe pagate dagli utenti. Lo riferisce La Nación CR.",
+   "more": [
+    "In Costa Rica, come in molti paesi, il prezzo dei carburanti è regolato o monitorato da enti pubblici per limitare l'impatto sui servizi essenziali come il trasporto pubblico. Un aumento del diesel si riflette direttamente sui costi delle flotte di autobus, spingendo le aziende a chiedere interventi normativi per non ricadere interamente sui passeggeri."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/economia/alza-en-combustibles-presiona-costos-de-operacion/IPMISNDECFAVDKN7WUZZWIHYVE/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T09:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z0c4bff10",
+   "sez": "economia",
+   "titolo": "Il presidente della Banca Centrale avverte: in Costa Rica prezzi più alti per l'aumento dei combustibili",
+   "orig": "Consumidores enfrentarían precios más altos por alza en combustibles, según presidente del Banco Central",
+   "lead": "Il presidente della Banca Centrale di Costa Rica ha avvertito che i consumatori del Paese dovranno affrontare prezzi più alti a causa dell'aumento del costo dei combustibili. Secondo quanto riportato, l'aumento degli idrocarburi si tradurrà in un impatto diffuso sui prezzi di beni e servizi, con effetti che si faranno sentire attraverso diversi canali economici. Lo riferisce La Nación CR.",
+   "more": [
+    "Gli aumenti del prezzo dei carburanti si trasmettono tipicamente ai prezzi al consumo attraverso i costi di trasporto e produzione, generando pressioni inflazionistiche generalizzate. Le banche centrali monitorano questi effetti perché possono influenzare le decisioni di politica monetaria, come i tassi di interesse, per mantenere la stabilità dei prezzi nell'economia."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/economia/consumidores-enfrentarian-precios-mas-altos-por/IIMNFD3EKVFV3FDVYWWNABSDEQ/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T08:15+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z73a2f115",
+   "sez": "economia",
+   "titolo": "Il Benin è il 20° mercato finanziario più attrattivo in Africa secondo Absa Group",
+   "orig": "Afrique : le Bénin classé 20e marché financier le plus attractif en 2026 selon Absa Group",
+   "lead": "Il Benin occupa la 20esima posizione tra 29 paesi africani nell'edizione 2026 dell'Absa Africa Financial Markets Index, pubblicata il 14 ottobre dal gruppo sudafricano Absa in collaborazione con l'OMFIF. Il paese ottiene 51 punti su 100, superando nove economie del continente, tra cui Camerun, Repubblica Democratica del Congo e Senegal. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "L'Absa Africa Financial Markets Index è un indicatore annuale che valuta l'apertura e la maturità dei mercati finanziari dei paesi africani, considerando fattori come liquidità, trasparenza normativa e capacità di attrarre investimenti stranieri. Viene utilizzato da investitori e analisti per confrontare le opportunità economiche nelle diverse economie del continente."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/afrique-le-benin-classe-20e-marche-financier-le-plus-attractif-en-2026-selon-absa-group/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-19T09:05+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z0a5b18f1",
+   "sez": "economia",
+   "titolo": "Le azioni indonesiane continuano a crollare per il timore di un declassamento MSCI",
+   "orig": "Indonesian stocks continue to plunge as MSCI downgrade fears deepen",
+   "lead": "I titoli azionari indonesiani hanno proseguito il loro calo sui mercati, alimentato dai timori di un possibile declassamento da parte dell'indice MSCI. La notizia arriva in un contesto di crescente preoccupazione tra gli investitori per l'andamento della borsa indonesiana, con ripercussioni sul sentiment generale verso i mercati del sud-est asiatico. Lo riferisce Nikkei Asia.",
+   "more": [
+    "MSCI è un fornitore di indici finanziari globali usato da molti fondi d'investimento internazionali per decidere come allocare capitali tra i mercati emergenti. Un declassamento di un paese in questi indici può portare a disinvestimenti automatici da parte dei fondi che replicano quegli indici, causando ulteriori pressioni al ribasso sui mercati coinvolti."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/markets/indonesian-stocks-continue-to-plunge-as-msci-downgrade-fears-deepen",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zbe8d5916",
+   "sez": "mondo",
+   "titolo": "Uomo richiede al tribunale di bloccare pubblicazione accuse sessuali",
+   "orig": "'Well-known' man asks court to stop publication of sexual offence allegation",
+   "lead": "Un uomo ritenuto 'noto' ha presentato ricorso alla Corte d'Appello di Londra per bloccare la pubblicazione di gravi accuse di reati sessuali. Secondo BBC News, il ricorrente sostiene che la diffusione delle allegazioni causerebbe danno significativo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c674pz3l0e73o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T18:46+00:00"
+    },
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/education/2024693/gloriavale-school-board-defends-response-to-allegation-of-historic-sexual-assault",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T19:44+13:00"
+    },
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/19/jay-jay-banda-case-rights-advocate-asks-amnesty-to-weigh-the-allegations-as-well-as-the-arrest/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-10-19T05:22+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z32de1822",
+   "sez": "mondo",
+   "titolo": "Albania, sesto giorno di manifestazioni, primo ministro rifiuta dimissioni",
+   "orig": "Albanie : sixième jour de manifestations, le Premier ministre refuse de démissionner",
+   "lead": "Prosegue in Albania la sesta giornata di violente manifestazioni studentesche contro le precarie condizioni universitarie, i costi elevati e la corruzione. Il primo ministro rifiuta le dimissioni richieste dai manifestanti che si radunano davanti al ministero dell'Istruzione.",
+   "more": [
+    "Le proteste, iniziate il 13 ottobre con manifestazioni che hanno paralizzato la capitale albanese, rappresentano una significativa sfida alla stabilità politica del governo."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261019-albanie-sixi%C3%A8me-jour-de-manifestations-le-premier-ministre-refuse-de-d%C3%A9missionner",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T10:22+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/emeutes-en-france-emmanuel-macron-refuse-la-demission-de-son-ministre-de-linterieur/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T09:43+00:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/france-emmanuel-macron-reconduit-son-ministre-de-linterieur-demissionnaire-et-reclame-une-nouvelle-methode-face-aux-casseurs",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-19T10:06+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z3cb4011a",
+   "sez": "mondo",
+   "titolo": "Filippine, deputato appoggia richiesta di task force nazionale anti-droga",
+   "orig": "Las Piñas solon backs PDEA call for national anti-drug task force",
+   "lead": "Il deputato di Las Piñas Mark Anthony Santos sostiene la richiesta della PDEA (Agenzia filippina anti-droga) di istituire una task force nazionale per intensificare il contrasto ai traffici illegali. La richiesta segue il caso di un cittadino che ha contrabbandato 521 chilogrammi di metanfetamina dal Laos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2326464/las-pinas-solon-backs-pdea-call-for-national-anti-drug-task-force",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T17:56+08:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/yakani-urges-regional-task-force-led-by-jakaya-kikwete-to-review-december-election-readiness/?utm_source=rss&utm_medium=rss&utm_campaign=yakani-urges-regional-task-force-led-by-jakaya-kikwete-to-review-december-election-readiness",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-19T09:26+00:00"
+    },
+    {
+     "n": "The Sierra Leone Telegraph",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://www.thesierraleonetelegraph.com/chief-of-staff-of-ecowas-standby-force-pays-courtesy-call-on-the-nigerian-chief-of-army-staff/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-12T18:48+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za2b8eeba",
+   "sez": "mondo",
+   "titolo": "Sarina Wiegman rinnova contratto con Inghilterra fino a 2029",
+   "orig": "England women's coach Wiegman extends contract to 2029",
+   "lead": "La commissaria tecnica Sarina Wiegman ha rinnovato il contratto come allenatore della nazionale femminile di calcio dell'Inghilterra fino al 2029. L'intesa le consente di guidare le Lionesses verso tre possibili vittorie consecutive ai campionati europei.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/england-womens-coach-wiegman-extends-contract-2029-6471586",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T18:06+08:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T10:00+00:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/futbol/internacional/2026/10/19/wiegman-renueva-con-inglaterra-hasta-2029/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-19T10:20+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z170db2c0",
+   "sez": "mondo",
+   "titolo": "Reshuffling governativo in Russia, Putin approva cambiamenti ministeriali",
+   "orig": "Russian government reshuffle sees finance minister and three other officials tapped for deputy prime minister posts",
+   "lead": "Il premier russo Mikhail Mishustin ha presentato a Vladimir Putin una serie di cambiamenti ministeriali discussi lunedì mattina nel Cremlino. I mutamenti interesseranno quasi la metà dei vicepremiér del governo, tra cui il ministro delle Finanze proposto per incarico di vicepremier.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/19/russian-government-reshuffle-sees-finance-minister-and-three-other-officials-tapped-for-deputy-prime-minister-posts",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-19T11:51+03:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/19/putin-approves-major-government-cabinet-reshuffle-a94017",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-19T11:44+03:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/putin-approves-russian-government-reshuffle-after-parliamentary-election-state-media-report",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T15:10+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z38c1f28f",
+   "sez": "mondo",
+   "titolo": "Media cinesi: Lunga Marcia insegna necessità di forte leadership comunista",
+   "orig": "Long March shows why the Communist Party needs strong leadership: state media",
+   "lead": "I media statali cinesi sottolineano come la Lunga Marcia dimostri la necessità di una leadership di partito forte e centralizzata. Il South China Morning Post riporta che solo con un nucleo unitario il Partito comunista può coordinare efficacemente gli ordini e mantenere l'autorità.",
+   "more": [
+    "La Lunga Marcia del 1934-1935 rappresenta un capitolo fondamentale della storia del Partito comunista cinese, segnando un punto di svolta dopo una grave crisi militare e politica della rivoluzione comunista."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/politics/article/3371388/long-march-shows-why-communist-party-needs-strong-leadership-state-media?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T10:00+00:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2635616/pti-panel-to-probe-long-march-failure",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-18T22:27+05:00"
+    },
+    {
+     "n": "CGTN – Cina",
+     "p": "XX",
+     "c": "Pechino",
+     "u": "https://news.cgtn.com/news/2026-10-16/Long-March-Why-it-was-a-defining-turning-point-in-CPC-history-1RhJQ7XXF7O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-16T06:42+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z18a1527b",
+   "sez": "mondo",
+   "titolo": "Rubio nega pausa nella condivisione di intelligence americana con Ucraina",
+   "orig": "Rubio says there was no US pause in intelligence sharing with Ukraine",
+   "lead": "Il segretario di Stato americano Marco Rubio ha negato che gli Stati Uniti abbiano sospeso la condivisione di informazioni militari con l'Ucraina riguardanti i lanci di missili russi. Il presidente Zelensky ha confermato che lo scambio di intelligence è stato ripristinato e funziona correttamente.",
+   "more": [
+    "L'Ucraina si affida pesantemente all'intelligence americana trasmessa tramite il sistema Starshield per rilevare tempestivamente i missili balistici ad alta velocità lanciati dalla Russia contro le città."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-19T08:58+00:00"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/us-resumes-intel-sharing-on-russian-missile-launches-with-ukraine-zelensky-says/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-18T15:10+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za8e9e1cf",
+   "sez": "mondo",
+   "titolo": "Germania, uomo anziano fermato in protesta contro Elbit Systems",
+   "orig": "Elderly man forcibly detained at Elbit Systems protest in Germany",
+   "lead": "Un anziano è stato fermato con la forza dalla polizia durante una manifestazione contro Elbit Systems nella città tedesca di Ulm. L'uomo è stato fisicamente contenuto dalle forze dell'ordine durante il corteo di protesta contro il produttore di sistemi di difesa israeliano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/19/elderly-man-forcibly-detained-at-elbit-systems-protest-in-germany",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-19T08:04+00:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/blogs/the-arms-race/2026-10-19/ty-article/.premium/elbit-systems-to-open-laser-defense-production-hub-in-sweden-by-2027/000001a1-534e-d1de-a3a5-737e74c70000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-19T12:20+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z0dd357fb",
+   "sez": "mondo",
+   "titolo": "Parigi, nuovi scontri in piazza e arresti",
+   "orig": "Parigi, nuovi scontri di piazza e fermi",
+   "lead": "Nuovi violenti scontri scoppiano a Parigi con il mobilitamento di reparti speciali di polizia antisommossa. Decine di persone rimangono ferite, inclusi quasi mille tra poliziotti e gendarmi, sette dei quali in modo grave. Numerosi arresti vengono effettuati durante gli episodi.",
+   "more": [
+    "Le proteste parigine, iniziate il 13 ottobre per motivi legati al sistema universitario, hanno visto escalation di violenza e saccheggi in città, con il governo francese che riconosce perdite di controllo territoriale."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/parigi-nuovi-scontri-di-piazza-e-fermi-0cdda467-0f92-41ac-a813-c950cf305c50.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T17:00+00:00"
+    },
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/news/mondo-c8/parigi-350-fermi-nella-notte-decine-di-persone-in-custodia-cautelare-a297439",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-19T09:15+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z7d5a2743",
+   "sez": "mondo",
+   "titolo": "Singapore critica dichiarazioni indonesiane su smog transfrontaliero",
+   "orig": "Shanmugam calls Indonesian official's 'oxygen' remarks disappointing, welcomes Prabowo's actions on haze",
+   "lead": "Il viceministro singaporiano K Shanmugam critica come 'deludenti' le affermazioni di un funzionario indonesiano riguardanti lo smog transfrontaliero. Secondo Shanmugam, l'inquinamento non è un fenomeno naturale ma conseguenza di aziende che perseguono profitti tramite incendi boschivi.",
+   "more": [
+    "Il fumo da incendi boschivi in Indonesia crea una crisi di inquinamento atmosferico transfrontaliero che colpisce il Sud-Est asiatico, in particolare Singapore, Malesia e Tailandia, causando danni significativi alla salute pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/singapore/haze-indonesia-official-oxygen-comments-disappointing-shanmugam-6471166",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T17:00+08:00"
+    },
+    {
+     "n": "VnExpress",
+     "p": "XX",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/news/news/environment/oxygen-tanks-purifier-sales-spike-as-haze-crisis-hits-southeast-asia-5133853.html",
+     "angolo": "",
+     "atlas": "Vietnam",
+     "t": "2026-10-19T06:00+07:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zb768dd7d",
+   "sez": "mondo",
+   "titolo": "Simone Biles, parteciperà alle prossime Olimpiadi?",
+   "orig": "Che farà Simone Biles?",
+   "lead": "La ginnasta americana Simone Biles, oggi trentanovenne, non gareggia dal 2024. Cresce l'interrogativo negli ambienti dello sport circa una possibile partecipazione della campionessa olimpica alle prossime Olimpiadi. La leggenda non ha ancora comunicato pubblicamente le sue intenzioni.",
+   "more": [
+    "Biles è una delle atlete più decorate della storia olimpica. Si era ritirata dai Giochi di Tokyo 2020 per difficoltà psicologiche legate alla pressione agonistica prima di tornare per completare la competizione."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/19/simone-biles-mondiali-ginnastica-artistica-olimpiadi-los-angeles-2028/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T09:37+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/simone-biles-construyo-mansion-3-millones-dolares-frente-agua-texas-casa-diseno-medida_0_rYOPso3Gye.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-19T09:38+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zd3a8f67a",
+   "sez": "mondo",
+   "titolo": "Ottobre rosa, campagna di sensibilizzazione al cancro del seno",
+   "orig": "Octobre rose : campagne de sensibilisation au cancer du sein dans les outre-mer",
+   "lead": "Prosegue il mese di Ottobre rosa con campagne di sensibilizzazione contro il cancro della mammella su tutto il territorio francese e negli oltremare. In Francia ogni anno diecimila donne muoiono per questa malattia, rappresentando la prima causa di mortalità femminile nel Paese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261019-octobre-rose-campagne-de-sensibilisation-au-cancer-du-sein-dans-les-outre-mer",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T10:08+00:00"
+    },
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/18/moyen-chari-des-medecins-sensibilisent-sur-la-prevention-du-cancer-du-sein-et-des-ist/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-18T19:30+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zc96a8ff2",
+   "sez": "mondo",
+   "titolo": "Aereo Tel Aviv-Vienna costretto atterrare per minaccia bomba",
+   "orig": "Flugzeug von Tel Aviv nach Wien muss wegen Bombendrohung notlanden",
+   "lead": "Un aereo in volo da Tel Aviv verso Vienna è stato costretto a effettuare un atterraggio di emergenza a causa di una minaccia di bomba segnalata a bordo. L'episodio rappresenta un nuovo allarme per la sicurezza aerea nella regione medio-orientale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1668672.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T07:48+02:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/zuerich/kantonspolizei-zuerich-nimmt-zwei-maenner-fest-und-stellt-60-kilogramm-drogen-sicher-ld.10026004",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T08:21+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z91143bb9",
+   "sez": "mondo",
+   "titolo": "Benito di Paula muore a 84 anni",
+   "orig": "Ícone da MPB, Benito di Paula morre em São Paulo aos 84 anos",
+   "lead": "Aveva 84 anni e da circa un anno si sottoponeva a cure per il cancro presso il policlinico 9 de Julho della città.",
+   "more": [
+    "Benito di Paula, nome anagrafico Uday Vellozo originario di Nova Friburgo, conquistò fama nazionale negli anni Settanta e Ottanta con uno stile che mescolava samba e romanticismo, caratterizzato da piano e voce inconfondibile, precursore dello stile pagode."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/icone-da-mpb-benito-di-paula-morre-em-sao-paulo-aos-84-anos",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-18T23:39-03:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/19/publico-brasil/noticia/morre-benito-di-paula-autor-retalhos-cetim-mulher-brasileira-84-anos-2191824",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T09:55+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z9b1b6733",
+   "sez": "mondo",
+   "titolo": "Portogallo, prezzi alimentari aumentati 30% in 5 anni",
+   "orig": "Bens alimentares aumentaram 30% nos últimos 5 anos",
+   "lead": "I prezzi dei generi alimentari in Portogallo hanno subito incrementi medi di circa il 30 per cento nel quinquennio precedente al 2026. La dinamica dei prezzi è associata ai conflitti internazionali in Ucraina e Medio Oriente oltre a fattori economici strutturali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/bens-alimentares-aumentaram-30-nos-ultimos-5-anos_n1772638",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T11:13+01:00"
+    },
+    {
+     "n": "Téla Nón",
+     "p": "XX",
+     "c": "São Tomé",
+     "u": "https://www.telanon.info/sociedade/2026/10/18/54635/missao-medica-portuguesa-devolveu-visao-a-5000-sao-tomenses-nos-ultimos-3-anos/",
+     "angolo": "",
+     "atlas": "São Tomé and Principe",
+     "t": "2026-10-18T23:41+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zf1a52de3",
+   "sez": "mondo",
+   "titolo": "Proteste Francia, comunisti e sindacati alimentano ribellione globale",
+   "orig": "WHO'S WHO: Inside France's 'Chaos Inc' franchise of communist groups, labor unions and global activists",
+   "lead": "Comitati comunisti, sindacati e organizzazioni di attivisti globali - 54 in totale - alimentano una ribellione globale legata alle manifestazioni studentesche in Francia. Il leader comunista Vijay Prashad ha celebrato le proteste come espressione di una rivolta più ampia.",
+   "more": [
+    "Le manifestazioni studentesche francesi, scoppiate in ottobre, contestano lo stato della formazione scolastica secondaria e universitaria, mobilitando decine di migliaia di giovani in proteste su larga scala."
+   ],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/whos-who-inside-frances-chaos-inc-franchise-communist-groups-labor-unions-global-activists",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T04:00-04:00"
+    },
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/news/2026/oct/14/frances-class-action-inside-the-16-october-guardian-weekly",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-14T17:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zba044c2a",
+   "sez": "mondo",
+   "titolo": "Asia Business Law Journal nomina top 100 avvocati filippini",
+   "orig": "Asia Business Law Journal names PH’s top 100 lawyers, legal icons",
+   "lead": "L'Asia Business Law Journal ha pubblicato l'elenco dei migliori 100 avvocati e figure legali delle Filippine, riconoscendo i professionisti per 'eccezionali standard di servizio e impegno verso le best practice'. La lista si basa su indagini che hanno coinvolto migliaia di esperti internazionali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://globalnation.inquirer.net/342711/asia-business-law-journal-names-phs-top-100-lawyers-legal-icons",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T18:09+08:00"
+    },
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/logistics-news/dp-world-names-jason-varsamidis-to-lead-asia-pacific-region/",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-19T06:22+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zf7bd9802",
+   "sez": "mondo",
+   "titolo": "Egitto, ministro estero in contatti con Pakistan, Oman e Somalia",
+   "orig": "Egypt’s FM holds calls with Pakistan, Oman and Somalia on regional de-escalation",
+   "lead": "Il ministro degli Esteri egiziano Badr Abdelatty ha tenuto telefonate separate con i ministri di Pakistan, Oman e Somalia domenica. I colloqui hanno affrontato temi di escalation militare regionale, iniziative diplomatiche di de-escalation e sviluppi nel Corno d'Africa e nel Mar Rosso.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/18/egypts-fm-holds-calls-with-pakistan-oman-and-somalia-on-regional-de-escalation/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-18T17:12+00:00"
+    },
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/politics4/2026/Oct/206561/egypts_fm_holds_calls_with_pakistan_oman_and_somalia_on_regional_deescalation.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-19T07:46+00:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2635682/irans-foreign-minister-accuses-netanyahu-of-pushing-us-toward-another-war-to-avoid-prison",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T07:35+05:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947072/russian-foreign-minister-lavrov-heads-to-tehran-for-iran-war-talks",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-19T11:03+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z41f6d989",
+   "sez": "mondo",
+   "titolo": "Liberia ospita sedicesimo Campionato africano di Scrabble",
+   "orig": "Tiles, Triumph, and Territory: 24 Nations Converge as Liberia Hosts Historic 16th Africa Scrabble Championship",
+   "lead": "La Liberia ospita il sedicesimo Campionato africano di Scrabble con partecipazione di ventiquattro nazioni continentali. L'evento marca una pietra miliare storica per il Paese nel consolidare il suo ruolo di hub per competizioni intellettuali continentali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/tiles-triumph-and-territory-24-nations-converge-as-liberia-hosts-historic-16th-africa-scrabble-championship/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-10-19T05:13+00:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361048367/leroy-carter-ruled-out-nations-championship-after-hip-drop-tackle-forces-ankle-surgery",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T06:39+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za976295d",
+   "sez": "mondo",
+   "titolo": "Iraq, apertura ammissioni università pubbliche per diplomati scuole internazionali",
+   "orig": "Iraq opens public university admissions for international schools’ graduates",
+   "lead": "Il ministero dell'Istruzione superiore e della ricerca scientifica iracheno ha annunciato lunedì 19 ottobre l'apertura del portale di ammissione elettronica alle università pubbliche per i diplomati delle scuole internazionali. L'iniziativa amplia l'accesso all'istruzione universitaria nel Paese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraq-higher-education-opens-public-university-admissions-international-schools-2026/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-19T08:33+00:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/education/379706/victoria-university-graduates-2500-students-urges-them-to-embrace-ai-and-innovation",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-19T13:05+03:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/379702/victoria-university-graduates-2500-urges-students-to-embrace-ai",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-19T13:14+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "ze667accb",
+   "sez": "mondo",
+   "titolo": "Francia, governo ammette perdita controllo in alcune città",
+   "orig": "El Gobierno francés admite la pérdida de control en algunas ciudades y el fracaso en la gestión de las protestas",
+   "lead": "Il governo francese ha ammesso la perdita di controllo delle forze dell'ordine in alcune città durante le manifestazioni di sabato. Il ministro della Giustizia avverte che l'estremismo di sinistra costituisce una minaccia per la Francia. Gli scontri hanno causato gravi danni.",
+   "more": [
+    "Le violenze che hanno accompagnato le proteste francesi hanno registrato quasi mille tra poliziotti e gendarmi feriti, sette dei quali in modo grave, oltre a episodi di saccheggi in diverse città."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/internacional/gobierno-frances-admite-perdida-control_1_1132128.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-19T09:07+00:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/10/19/ministro-do-interior-frances-admite-perda-de-controlo-da-policia/105147",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-19T09:07+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z2b967aec",
+   "sez": "mondo",
+   "titolo": "Burundi, arresto di Papy Jamaica dopo lite in Assemblea nazionale",
+   "orig": "Burundi : ce que l’on sait de l’arrestation de Papy Jamaica après un différend à l’Assemblée nationale",
+   "lead": "In Burundi è stato arrestato Amani Papy Ndikumana, noto come Papy Jamaica, produttore audiovisivo legato all'Assemblea nazionale del Paese. L'arresto segue un disaccordo che si è verificato durante una sessione parlamentare con dinamiche politiche interne.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SOS Médias Burundi",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.sosmediasburundi.org/2026/10/14/burundi-ce-que-lon-sait-de-larrestation-de-papy-jamaica-apres-un-differend-a-lassemblee-nationale/",
+     "angolo": "",
+     "atlas": "Burundi",
+     "t": "2026-10-14T14:10+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/assemblee-nationale-reconduit-a-son-poste-de-secretaire-general-aboubacar-camara-exprime-sa-gratitude-au-chef-de-letat/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T08:50+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z00dc286c",
+   "sez": "mondo",
+   "titolo": "Spagna, sinistra in crisi perde seggi in 29 province",
+   "orig": "La izquierda se desangra por toda España: puede perder escaños en 29 provincias mientras la derecha se impone en el 80% del mapa",
+   "lead": "La sinistra spagnola è in evidente crisi politica rischiando di perdere seggi in ventinove province mentre la destra domina l'ottanta per cento della mappa geografica del Paese. Il socialista Sánchez può vincere solo in cinque circoscrizioni mentre il conservatore Feijóo potrebbe prevalere in ventisette.",
+   "more": [
+    "In diverse province, il partito di estrema destra Vox raccoglie consensi tra gli elettori in fuga da PSOE e Fronte Ampio, rafforzando complessivamente il blocco conservatore-sovranista nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad4f168e9cf4a2c7a8b458b.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-19T01:28+02:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-pais/ccss-evalua-utilizar-las-terapias-glp-1-para/OLF3JU4VJVGG5GDSDG3YEFW4JE/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T07:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z048db049",
+   "sez": "mondo",
+   "titolo": "La morte di Maximiliano Machín: la nuova difesa contesta prove e indagini incomplete",
+   "orig": "La muerte de Maximiliano Machín, tres policías presos y las pistas clave que, según la nueva defensa, Fiscalía dejó sin investigar",
+   "lead": "La nuova difesa nel caso Machín contesta le prove della Fiscalía e segnala diligenze investigative mai condotte. L'avvocato solleva questioni su una presunta situazione di violenza antecedente il decesso che sostiene non sia stata investigata adeguatamente.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/la-muerte-maximiliano-machini-tres-policias-presos-y-las-pistas-clave-que-segun-la-nueva-defensa-fiscalia-dejo-investigar-n6060418",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-19T05:00-03:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/policial/cochabamba-registra-14-feminicidios-fiscalia-investiga-muerte-mujer-hallada-enterrada-casa/20261018141257997811.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T14:12-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z326bc336",
+   "sez": "mondo",
+   "titolo": "La Turbie celebra gli sport d'affrontamento con torneo internazionale di tiro alla fune",
+   "orig": "« Beaucoup de jeunes se tournent vers les sports d’affrontement » : La Turbie a réveillé la force ce dimanche",
+   "lead": "La Turbie ha ospitato domenica manifestazioni dedicate ai cosiddetti 'sport d'affrontamento' con il primo torneo internazionale di tiro alla fune e una competizione di braccio di ferro sulla Piazza Nuova del Principato.",
+   "more": [
+    "L'evento riflette una crescente tendenza tra i giovani verso sport di contatto e competizioni tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/beaucoup-de-jeunes-se-tournent-vers-les-sports-d-affrontement-la-turbie-a-reveille-la-force-ce-dimanche-10743135",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-18T19:37+02:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/les-jeunes-de-la-banlieue-dakaroise-invites-a-se-tourner-vers-lentrepreneuriat/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-19T07:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z98558c5e",
+   "sez": "mondo",
+   "titolo": "Marsiglia vieta le manifestazioni dopo violenti scontri",
+   "orig": "Nach Ausschreitungen: Marseille verbietet Demos",
+   "lead": "L'amministrazione di Marsiglia ha vietato le manifestazioni nella città francese dopo gli scontri violenti di sabato 17 ottobre, durante i quali sono rimasti feriti più di 600 agenti di polizia.",
+   "more": [
+    "I disordini hanno interessato la Francia meridionale nel contesto di tensioni sociali più ampie."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445527/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T11:38+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ausland/zerstoerung-in-frankreich-marseille-verbietet-demonstrationen-201599021.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T09:52+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z2b88822c",
+   "sez": "mondo",
+   "titolo": "Programma alimentare mondiale riduce gli aiuti a Gaza di un terzo",
+   "orig": "Welternährungsprogramm reduziert Gaza-Hilfe deutlich",
+   "lead": "Il Programma alimentare mondiale ridurrà significativamente gli aiuti umanitari nella Striscia di Gaza mentre il conflitto tra Israele e Hamas continua. La situazione umanitaria rimane critica nella regione.",
+   "more": [
+    "La riduzione degli aiuti avviene in un contesto di tregua instabile e della mancata implementazione completa del piano di pace americano."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445521/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T11:14+02:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/waffenruhe-im-gazastreifen-guterres-warnt-vor-100-millionen-us-dollar-grosser-finanzierungsluecke-bei-palaestinenserhilfswerk-unrwa-ld.1920307",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T09:20+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "za40d11b4",
+   "sez": "mondo",
+   "titolo": "Naufragi nel Mar Egeo: 12 morti, tra cui un neonato",
+   "orig": "Naufragi barconi, 12 morti in Mar Egeo",
+   "lead": "Due naufragi nel Mar Egeo hanno causato 12 morti, incluso un neonato. Sei vittime hanno perso la vita dopo una collisione con una motovedetta della polizia al largo di Lesbo, altre sei in un capovolgimento al largo di Samo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/naufragi-barconi-12-morti-in-mar-egeo-1cf70986-53e7-42bc-be5e-f5f6d850c258.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T07:30+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/19/due-naufragi-nellegeo-morti-12-migranti-tra-cui-neonato_213b7a28-aa2d-4711-86f5-6615385f8083.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T09:10+02:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/19/news/due_naufragi_migranti_egeo_grecia_morti-425657533/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T09:59+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z0c312792",
+   "sez": "mondo",
+   "titolo": "L'Uzbekistan aderisce agli Accordi di Artemide per l'esplorazione spaziale",
+   "orig": "Uzbekistan joins Artemis Accords on peaceful space exploration.",
+   "lead": "L'Uzbekistan ha aderito agli Accordi di Artemide per l'esplorazione pacifica dello spazio, diventando il 77esimo paese a sottoscrivere il patto internazionale. L'accordo comprende cooperazione con gli USA per l'esplorazione della Luna e di Marte.",
+   "more": [
+    "Gli Accordi di Artemide rappresentano un quadro internazionale per l'esplorazione dello spazio e la cooperazione scientifica multilaterale."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/19/uzbekistan-joins-artemis-accords-on-peaceful-space-exploration",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T13:32+05:00"
+    },
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/19/saidov-and-rubio-discuss-expanding-us-uzbekistan-strategic-partnership",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T12:01+05:00"
+    },
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/19/artemis-accords-uzbekistan/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T07:45+00:00"
+    },
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/19/dialogue/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T07:34+00:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/19/uzbekistan-u-s-hold-first-strategic-partnership-dialogue-sign-artemis-accords/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T09:05+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zbecbf284",
+   "sez": "mondo",
+   "titolo": "Tanzania completa perforazioni per aumentare riserve di gas naturale",
+   "orig": "Tanzania eyes to increase natural gas reserves to 57.54 trillion cubic feet from three wells at Mnazi Bay",
+   "lead": "La Tanzania ha completato la perforazione di tre pozzi di gas naturale nella Baia di Mnazi nella regione di Mtwara. Le scoperte dovrebbero aumentare significativamente le riserve attuali del paese a 57,54 trilioni di piedi cubici.",
+   "more": [
+    "Il governo tanzaniano prevede di lanciare ufficialmente i nuovi pozzi con implicazioni significative per l'economia energetica nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzania-eyes-to-increase-natural-gas-reserves-to-57-54-trillion-cubic-feet-from-three-wells-at-mnazi-bay/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-19T10:26+00:00"
+    },
+    {
+     "n": "The Citizen",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-to-announce-new-natural-gas-finds-soon-5637012",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-18T16:38+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z550e38dc",
+   "sez": "mondo",
+   "titolo": "Senatore filippino Marcoleta sospeso per 90 giorni per case di peculato",
+   "orig": "Sandiganbayan suspends Marcoleta as senator over plunder case",
+   "lead": "La Corte Sandiganbayan ha sospeso il senatore filippino Rodante Marcoleta per 90 giorni per un caso di peculato legato a donazioni di campagna non giustificate di 75 milioni di pesos. Sono in corso indagini su come l'uomo abbia accettato tali fondi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/sandiganbayan-suspends-rodante-marcoleta-senator-plunder-case/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T16:57+08:00"
+    },
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2326472/sandiganbayan-suspends-marcoleta-as-senator",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T18:20+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z0cdcdb5b",
+   "sez": "mondo",
+   "titolo": "Processo a Machar rinviato per mancanza di carburante",
+   "orig": "Machar trial adjourned over lack of generator fuel",
+   "lead": "La Corte speciale che giudica il caso contro l'ex vicepresidente sud sudanese Riek Machar e sette imputati ha rinviato il processo al 23 ottobre per carenza di carburante per i generatori nella 122esima sessione.",
+   "more": [
+    "Il rinvio evidenzia difficoltà operative della magistratura nel sistema giudiziario sud sudanese."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/machar-trial-adjourned-over-lack-of-generator-fuel",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-19T09:54+00:00"
+    },
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/special-court-adjourns-machars-trial-over-fuel-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=special-court-adjourns-machars-trial-over-fuel-shortage",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-19T09:42+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z8bf8a833",
+   "sez": "mondo",
+   "titolo": "Ministro degli Esteri pakistano parte per riunione SCO in Tajikistan",
+   "orig": "DPM Dar departs for high-level SCO moot in Tajikistan",
+   "lead": "Il Vice Primo Ministro e Ministro degli Esteri del Pakistan Mohammad Ishaq Dar è partito per Dushanbe per guidare la delegazione del Pakistan alla riunione del Consiglio dei Capi di Governo della Shanghai Cooperation Organisation il 19-20 ottobre.",
+   "more": [
+    "L'incontro riunisce i capi di governo di Bielorussia, Cina, Kazakistan, Kirghizistan, Russia, Tajikistan e Uzbekistan."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038263/dpm-dar-departs-for-high-level-sco-moot-in-tajikistan",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T14:04+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2635678/fm-dar-to-lead-pakistan-delegation-at-sco-meeting-in-tajikistan",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T07:16+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zb606e2d8",
+   "sez": "mondo",
+   "titolo": "Sud Sudan laurea 500 agenti per rafforzare sicurezza dei giacimenti petroliferi",
+   "orig": "NSS graduates 500 personnel in Paloch to strengthen oilfield security",
+   "lead": "Il Servizio di sicurezza nazionale del Sud Sudan ha laureato circa 500 elementi a Paloch, nello Stato del Nilo Superiore, per rafforzare la sicurezza attorno ai giacimenti petroliferi e proteggere i civili nella regione.",
+   "more": [
+    "La cerimonia di laurea è stata presieduta da esponenti della sicurezza nazionale e dell'amministrazione locale."
+   ],
+   "fonti": [
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/nss-graduates-500-personnel-in-paloch-to-strengthen-oilfield-security/?utm_source=rss&utm_medium=rss&utm_campaign=nss-graduates-500-personnel-in-paloch-to-strengthen-oilfield-security",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-19T07:33+00:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/nss-graduates-500-personnel-in-paloch-to-secure-oilfields-in-upper-nile/?utm_source=rss&utm_medium=rss&utm_campaign=nss-graduates-500-personnel-in-paloch-to-secure-oilfields-in-upper-nile",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-19T04:41+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z4dd9620f",
+   "sez": "mondo",
+   "titolo": "Francia, analisi dei fallimenti della sicurezza durante scontri di sabato",
+   "orig": "Défaut d’anticipation, effectifs débordés, bâtiments sans protection : les raisons d’un fiasco sécuritaire",
+   "lead": "Le Figaro analizza i fallimenti della sicurezza durante gli scontri di sabato 17 ottobre quando le forze dell'ordine sono state sopraffatte dal numero di vandali e dalla molteplicità dei focolai di rivolta, perdendo il controllo della situazione.",
+   "more": [
+    "Carenze nell'anticipazione, personale insufficiente e assenza di protezione hanno contribuito al caos urbano."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/defaut-d-anticipation-effectifs-debordes-batiments-sans-protection-les-raisons-d-un-fiasco-securitaire-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T22:06+02:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/le-17-octobre-des-pans-entiers-de-nos-villes-ont-ete-laisses-sans-protection-par-emmanuel-gregoire-benoit-payan-et-gregory-doucet-20261019_JMSGE2DLYZCU3JK5DMPA4UDI3Y/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T07:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z7628da0b",
+   "sez": "mondo",
+   "titolo": "Giudice spagnolo conferma revoca mandato d'arresto Puigdemont",
+   "orig": "Llarena confirma su decisión de levantar la orden de detención de Puigdemont con críticas al Constitucional",
+   "lead": "Il giudice istruttore del procedimento catalano Llarena ha confermato la decisione di revocare il mandato d'arresto contro Puigdemont, applicando la dottrina del Tribunale costituzionale, pur criticando la mancanza di equilibrio della corte.",
+   "more": [
+    "La decisione si estende anche agli imputati Puig e Comín seguendo la linea delle garantie costituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-10-19/llarena-confirma-su-decision-de-levantar-la-orden-de-detencion-de-puigdemont-con-criticas-al-constitucional.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-19T08:30+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/19/6ad5d6bafc6c83be138b4576.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-19T12:15+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z95fdb070",
+   "sez": "mondo",
+   "titolo": "Parlamentare australiana in gravi condizioni dopo investimento, attacco intenzionale",
+   "orig": "Una parlamentare australiana è in gravi condizioni dopo essere stata investita: per il primo ministro è stato un attacco intenzionale",
+   "lead": "Una parlamentare australiana è ricoverata in gravi condizioni dopo essere stata investita da un'auto. Il Primo Ministro ha definito l'episodio un attacco intenzionale e le autorità hanno fermato il conducente armato di coltello serramanico.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/19/parlamentare-australiana-investita-attacco/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T10:04+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/19/deputata-austrialiana-investita-da-auto-attacco-mirato_a5c57ee6-c0e4-4544-aafa-7dc5045ac91a.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T11:22+02:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445531/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T12:01+02:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/australien-abgeordnete-offenbar-mit-auto-angegriffen-a-ed7de294-8974-4128-b3f6-fb4cb4f26a89#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T12:12+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zcdef2841",
+   "sez": "mondo",
+   "titolo": "Perché i risultati di alcune gare di midterm richiederanno settimane",
+   "orig": "The real reason it's going to take a while to know who won in some midterm races",
+   "lead": "Un'analisi della NPR esamina perché i risultati di alcune gare delle elezioni di midterm americane richiederanno settimane per essere determinati, andando oltre il noto problema della lentezza nello spoglio della California.",
+   "more": [
+    "La questione riguarda procedure di verifica del ballottaggio e conteggio dei voti in vari stati."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T05:00-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z4a0ec8af",
+   "sez": "ambiente",
+   "titolo": "Onda di Kelvin alza i livelli del mare sulla costa occidentale americana",
+   "orig": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+   "lead": "Un'onda di Kelvin ha causato l'aumento significativo del livello del mare sulla costa occidentale degli USA. Gli scienziati affermano che il fenomeno è provocato da El Niño e che altre onde simili arriveranno nei prossimi periodi.",
+   "more": [
+    "Le onde di Kelvin sono grandi ondate sottomarine che si muovono verso l'Equatore e influenzano il clima globale."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T05:00-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z9c39f3cc",
+   "sez": "mondo",
+   "titolo": "Grecia: almeno 12 migranti annegati nel Mar Egeo",
+   "orig": "Greece: At least 12 die in migrant drownings overnight",
+   "lead": "Almeno 12 migranti, incluso un neonato, hanno perso la vita in due naufragi separati nelle acque greche durante la notte. Altre 22 persone sono state soccorse e è in corso un'operazione internazionale di ricerca e soccorso.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T10:19+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zee96311d",
+   "sez": "mondo",
+   "titolo": "Deepfake e bot: come l'IA sta influenzando le elezioni israeliane",
+   "orig": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
+   "lead": "Per la prima volta l'intelligenza artificiale svolge un ruolo importante nelle elezioni israeliane. Gli osservatori mettono in guardia sui rischi dei deepfake, dei bot e delle campagne di influenza che potrebbero alterare il risultato del voto.",
+   "more": [
+    "L'uso dell'IA rappresenta una novità nelle competizioni elettorali israeliane con potenziali rischi per l'integrità del processo."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T08:26+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zecc64a56",
+   "sez": "economia",
+   "titolo": "Berlino ospita vertice per attirare investimenti in Germania",
+   "orig": "Germany news: Berlin conference seeks to drum up investment",
+   "lead": "Un vertice 'Invest in Germany' si svolge a Berlino con l'obiettivo di attrarre investimenti stranieri mentre il governo tedesco cerca di colmare i vuoti nei finanziamenti pubblici per infrastrutture e sviluppo.",
+   "more": [
+    "La conferenza riflette le sfide economiche della Germania nel reperire capitali per progetti pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T06:49+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z127e3eaf",
+   "sez": "mondo",
+   "titolo": "India: leader CJP denunciano ritardo deliberato in rilascio",
+   "orig": "India news: CJP alleges 'deliberate' delay in leaders' release",
+   "lead": "I leader del CJP Saurav Das e Ashutosh Ranka, che avrebbero dovuto essere liberati domenica, rimangono in detenzione. Il giudice si è ricusato dopo aver affermato di essere stato minacciato. Il partito denuncia un ritardo deliberato.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T06:25+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "z724bed0c",
+   "sez": "mondo",
+   "titolo": "Messico: manifestanti invadono parlamento statale per acqua pulita",
+   "orig": "Mexican protesters demanding clean water storm state congress",
+   "lead": "Manifestanti messicani che reclamano accesso all'acqua potabile hanno invaso il parlamento statale in protesta contro la crisi idrica che affligge il paese. La questione dell'accesso all'acqua rimane critica in diverse regioni.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-19T10:08+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
+   "id": "zb59aa19d",
+   "sez": "mondo",
+   "titolo": "Giocatore NFL onora bambini palestinesi per la quinta settimana consecutiva",
+   "orig": "NFL’s Azeez Al-Shaair honours Palestinian children for fifth straight week",
+   "lead": "Il giocatore NFL Azeez Al-Shaair ha onorato i bambini palestinesi per la quinta settimana consecutiva, scrivendo il nome di Maryam Ghanem, una ragazza di Gaza costretta a testimoniare la morte della madre, sulla sua benda da gioco.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-19T08:45+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:43",
+   "uscita": "13"
+  },
+  {
    "id": "zc375bd25",
    "sez": "cultura",
    "titolo": "Il museo del vetro di Jablonec apre una nuova esposizione con 6.000 decorazioni natalizie",
@@ -547,28 +2812,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Uzbekistan",
      "t": "2026-10-19T12:14+05:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:39",
-   "uscita": "13"
-  },
-  {
-   "id": "za44aedaa",
-   "sez": "sport",
-   "titolo": "L'Uganda conquista il pass per la Coppa d'Africa U-17 battendo l'Etiopia",
-   "orig": "Uganda Cubs book U-17 AFCON ticket after thrashing Ethiopia",
-   "lead": "La nazionale ugandese Under-17, conosciuta come Uganda Cubs, si è qualificata per la Coppa d'Africa di categoria dopo aver sconfitto nettamente l'Etiopia in un incontro decisivo. Il risultato garantisce alla squadra la partecipazione al torneo continentale giovanile. Lo riferisce Nile Post.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Nile Post",
-     "p": "XX",
-     "c": "Kampala",
-     "u": "https://nilepost.co.ug/sports/379695/uganda-cubs-book-u-17-afcon-ticket-after-thrashing-ethiopia",
-     "angolo": "",
-     "atlas": "Uganda",
-     "t": "2026-10-19T12:58+03:00"
     }
    ],
    "data": "19 ott",
@@ -1783,7 +4026,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zb406c9a4",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Cisgiordania, Israele arresta 10 sospetti per gli attacchi di coloni contro giornalista Usa e diplomatici europei",
    "orig": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
    "lead": "La polizia israeliana ha arrestato dieci sospetti in relazione agli attacchi compiuti da coloni contro un fotogiornalista statunitense e diplomatici europei nella Cisgiordania occupata. Secondo l'organizzazione israeliana per i diritti umani Yesh Din, dal 27 settembre si sono registrati almeno 170 attacchi di coloni nella regione. Gli arresti, condotti da polizia di frontiera, esercito israeliano e servizio di sicurezza Shin Bet, seguono la condanna internazionale suscitata dagli episodi di violenza del fine settimana. Lo riferisce Deutsche Welle.",
@@ -1826,6 +4069,51 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-19T07:32+01:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635555",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-19T08:32+02:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/19/politie-voorkempen-schilde-zoersel-brecht-malle-inbraken-diefsta.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-19T10:19+00:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/19/steekpartij-kattendijkdok-westkaai-antwerpen-verdachte-opgepakt.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-19T10:06+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445516/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T11:48+02:00"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344815/festnahmen-nach-siedler-angriffen-im-westjordanland?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T07:16+00:00"
     }
    ],
    "data": "19 ott",
@@ -1906,6 +4194,24 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-19T11:40+02:00"
+    },
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/papa/news/2026-10/papa-recupero-vaticano-castel-gandolfo-udienza-generale.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-19T11:30+02:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/19/el-papa-sigue-su-recuperacion-en-el-vaticano-y-presidira-el-miercoles-la-audiencia-general/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-19T10:10+00:00"
     }
    ],
    "data": "19 ott",
@@ -2291,6 +4597,33 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Uzbekistan",
      "t": "2026-10-19T07:29+00:00"
+    },
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/19/marco-rubio-visits-registan-square-in-samarkand-photos",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T09:30+05:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/19/welcome-to-uzbekistan-mr-secretary-saida-mirziyoyeva-welcomes-marco-rubio/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T05:04+00:00"
+    },
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925835",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-19T16:01+06:00"
     }
    ],
    "data": "19 ott",
@@ -3907,7 +6240,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z3172facc": "Malay Mail riporta l'annuncio del ministro sui tempi della nuova legge",
   "zdf13ced8": "Radio Prague International segnala il rinvio della misura fiscale senza ulteriori dettagli",
   "z81eed361": "Kun.uz riporta l'annuncio ufficiale di Google durante un evento regionale a Samarcanda",
-  "za44aedaa": "Nile Post celebra la qualificazione della nazionale giovanile ugandese",
   "zc589e0e2": "LSM riporta il nuovo record segnalato dall'operatore della rete elettrica lettone",
   "z4be06888": "la Repubblica riporta le polemiche seguite all'episodio e il commento dell'arbitro italiano presente",
   "z11210a08": "LSM evidenzia la crescita costante dei prezzi delle abitazioni a Riga nel 2026.",
@@ -3949,13 +6281,91 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zc0a318a7": "Il quotidiano tedesco descrive un clima di forte preoccupazione all'interno del club dopo l'ultima sconfitta.",
   "z9a01fb04": "Il quotidiano economico riporta i dati sull'età dei fermati e sul possibile ruolo dei social network nell'organizzazione dei raid, citando le valutazioni della sicurezza.",
   "za4f61adb": "La testata di design e stile presenta la collaborazione come un incontro tra moda e arte tessile contemporanea.",
-  "z14419c08": "La testata ghanese riporta le dichiarazioni della giocatrice sulle difficoltà del prossimo playoff dopo il percorso complicato nella Coppa d'Africa."
+  "z14419c08": "La testata ghanese riporta le dichiarazioni della giocatrice sulle difficoltà del prossimo playoff dopo il percorso complicato nella Coppa d'Africa.",
+  "z8b01cc01": "Der Standard racconta l'infortunio come il momento che ha deciso l'esito del derby",
+  "z6d210b2f": "Il Financial Times sottolinea il tentativo di recupero dopo un crollo definito il peggiore da aprile 2025",
+  "z1f93936d": "La Tercera ripercorre l'evoluzione di carriera dei giovani che si sono distinti al Mondiale U20 2025",
+  "zea9139f6": "Il New York Times denuncia la complicità di governi e istituzioni finanziarie nel commercio di oro di origine illegale",
+  "zc1fb5034": "El Comercio descrive una partita combattuta decisa al quinto set",
+  "z97e52d0b": "Il New York Times evidenzia i limiti economici di usare caccia costosi contro i drone russi",
+  "zb1a2d2b0": "Seneweb riporta il giudizio di Mourinho su un giovane talento dopo la vittoria del Real Madrid",
+  "z712d9f7c": "The EastAfrican riporta l'invito dell'ONU a rafforzare il commercio regionale africano",
+  "z94070c3f": "2424.mg descrive l'ampliamento del collegio elettorale come un passo verso una maggiore rappresentatività",
+  "z114923be": "Domus racconta la trasformazione di un'area industriale storica torinese in polo culturale multifunzionale",
+  "zfddfe874": "Actualite.cd riporta le dichiarazioni dell'allenatore dopo la sconfitta nella gara d'andata",
+  "z9e94b21a": "Times of India quantifica le perdite di capitalizzazione causate dal calo degli indici",
+  "zf77ddd76": "Nile Post riporta la qualificazione dell'Uganda alla Coppa d'Africa di beach soccer",
+  "z14ff4356": "The Astana Times evidenzia le opportunità economiche aperte dal vertice regionale di Avaza",
+  "z638a8462": "The Astana Times riporta le nuove stime di crescita economica diffuse dall'EFSD",
+  "z799b9ebc": "South China Morning Post ripercorre le diverse iniziative imprenditoriali dell'attore nel mercato cinese",
+  "z8f7e3bcd": "South China Morning Post segnala la persistente influenza degli investitori cinesi sul mercato immobiliare locale",
+  "zb4ac5b94": "Japan Forward sottolinea l'urgenza per il governo di ricostruire la fiducia pubblica",
+  "zb9d516db": "la Repubblica racconta le tensioni interne alla Fondazione Mps sulla gestione della fusione bancaria",
+  "z7f766844": "la Repubblica riporta i risultati di un sondaggio sull'importanza della connessione internet per i viaggiatori italiani",
+  "z878dfa8e": "la Repubblica descrive la strategia di Lufthansa tra acquisizioni di compagnie e cessione di asset tecnologici",
+  "zc599e216": "La Repubblica sottolinea il rallentamento della crescita delle rinnovabili e lo stallo sull'elettrico.",
+  "zfcc1e4c5": "Post-Courier definisce la ratifica una tappa storica per il settore marittimo del Paese.",
+  "za086ad39": "Club of Mozambique riporta l'annuncio di Banga sull'espansione dei finanziamenti.",
+  "zce49f414": "3News riporta il giudizio positivo di Fitch sulla redditività bancaria ghanese.",
+  "z8b8c4be2": "3News riporta l'avvertimento del FMI sui rischi crescenti per i mercati globali.",
+  "zecc95854": "Daily Monitor riporta i risultati dello studio e l'appello per agevolazioni fiscali.",
+  "z5d08aa4e": "Folha de S.Paulo collega lo sciopero alla rottura del contratto per sospetti legami criminali.",
+  "z1ac5a554": "La Nación CR riporta la richiesta di Canatrans all'Aresep per contenere l'impatto sulle tariffe.",
+  "z0c4bff10": "La Nación CR riporta l'avvertimento del presidente della Banca Centrale sui futuri aumenti dei prezzi.",
+  "z73a2f115": "La Nouvelle Tribune evidenzia il posizionamento del Benin rispetto ad altre economie africane.",
+  "z0a5b18f1": "Nikkei Asia collega il calo delle azioni indonesiane ai timori di declassamento MSCI.",
+  "zbe8d5916": "Tribunale britannico su richiesta di oscuramento di accuse sessuali di una personalità anonima",
+  "z32de1822": "Cronaca di crisi universitaria e politica in Albania durante i giorni di protesta nazionale",
+  "z3cb4011a": "Pressione parlamentare per rafforzare la lotta al narcotraffico nel Sud-Est asiatico",
+  "za2b8eeba": "Conferma della continuità tecnica della nazionale calcistica femminile britannica",
+  "z170db2c0": "Reshuffle del governo russo con promozioni di quattro funzionari a vicepremiér",
+  "z38c1f28f": "Interpretazione politica contemporanea di un evento storico da parte della propaganda ufficiale cinese",
+  "z18a1527b": "Smentita americana su presunte interruzioni nel supporto informativo a Kiev",
+  "za8e9e1cf": "Episodio di controllo dell'ordine pubblico durante una protesta contro azienda di armamenti",
+  "z0dd357fb": "Escalation della violenza nelle proteste francesi con scontri fra manifestanti e forze dell'ordine",
+  "z7d5a2743": "Accusa di responsabilità indonesiana per la crisi dello smog regionale da parte di Singapore",
+  "zb768dd7d": "Interrogativo sul futuro agonistico di una campionessa olimpica pluridecorata",
+  "zd3a8f67a": "Iniziativa di sanità pubblica per la prevenzione e il dépistage di una malattia oncologica femminile",
+  "zc96a8ff2": "Incidente di sicurezza aerea conseguente a minaccia di attentato su rotta internazionale",
+  "z91143bb9": "Morte di un'importante personalità della musica brasiliana riconosciuto a livello internazionale",
+  "z9b1b6733": "Analisi dell'inflazione nel settore agroalimentare portoghese legata a fattori geopolitici",
+  "zf1a52de3": "Dimensione internazionale e organizzazione del movimento di protesta francese con regia sinistra",
+  "zba044c2a": "Riconoscimento di eccellenze nella professione legale filippina secondo selezione internazionale",
+  "zf7bd9802": "Diplomazia egiziana attiva su crisi regionali nel Medio Oriente e Africa nordorientale",
+  "z41f6d989": "Manifestazione continentale di giochi strategici con partecipazione africana",
+  "za976295d": "Provvedimento amministrativo di inclusione nell'istruzione superiore irachena",
+  "ze667accb": "Ammissione governativa francese di fallimento nella gestione dell'ordine pubblico",
+  "z2b967aec": "Cronaca politica burundese riguardante un professionista dei media legato al parlamento",
+  "z00dc286c": "Analisi della frammentazione della sinistra spagnola a favore dello schieramento conservatore",
+  "z048db049": "Il focus della testata è sulla strategia difensiva e sui vuoti investigativi nel fascicolo.",
+  "z326bc336": "La testata celebra iniziative locali promosse come contraltare a forme di intrattenimento per i giovani.",
+  "z98558c5e": "ORF riporta l'azione amministrativa come risposta diretta ai disordini del fine settimana.",
+  "z2b88822c": "ORF riporta la decisione nel contesto della crisi umanitaria acutizzatasi.",
+  "za40d11b4": "Rai News riporta i due episodi separati di tragedia migrante nelle acque greche.",
+  "z0c312792": "Kun.uz sottolinea l'adesione come tappa nel rafforzamento dei legami con gli USA.",
+  "zbecbf284": "Daily News enfatizza l'importanza del progetto di estrazione per lo sviluppo economico.",
+  "z550e38dc": "Rappler riporta l'azione giudiziaria contro il senatore in primo aggiornamento.",
+  "z0cdcdb5b": "Radio Tamazuj riporta il rinvio tecnico legato a problemi logistici della corte.",
+  "z8bf8a833": "Dawn riporta la partenza del ministro per partecipare al vertice multilaterale.",
+  "zb606e2d8": "Sudans Post riporta l'iniziativa nel contesto della protezione delle infrastrutture energetiche.",
+  "z4dd9620f": "Le Figaro critica l'assenza di preparazione adeguata alle manifestazioni.",
+  "z7628da0b": "El País enfatizza il contrasto tra la decisione del giudice e le sue critiche al Costituzionale.",
+  "z95fdb070": "Il Post riporta l'episodio evidenziando la valutazione ufficiale del governo australiano.",
+  "zcdef2841": "NPR fornisce un'analisi approfondita dei ritardi nel processo di conteggio.",
+  "z4a0ec8af": "NPR riporta l'impatto climatico di El Niño sulla costa americana.",
+  "z9c39f3cc": "Deutsche Welle riporta il bilancio tragico dei naufragi nel Mar Egeo.",
+  "zee96311d": "Deutsche Welle evidenzia l'impatto crescente della tecnologia AI nel voto.",
+  "zecc64a56": "Deutsche Welle riporta l'iniziativa del governo tedesco per attirare capitali esteri.",
+  "z127e3eaf": "Deutsche Welle riporta le accuse di ritardo nel processo del CJP.",
+  "z724bed0c": "Al Jazeera riporta l'azione di protesta contro la crisi idrica nazionale.",
+  "zb59aa19d": "Al Jazeera riporta i gesti del giocatore come forma di solidarietà ai civili della Striscia di Gaza."
  },
  "contesti": {
   "za5836191": "Dopo il cessate il fuoco e la tregua a Gaza, gli aiuti umanitari sono aumentati ma restano insufficienti rispetto ai bisogni della popolazione, segnata da mesi di conflitto, distruzioni e sfollamenti. Le agenzie Onu, incluso il Wfp, hanno più volte lanciato l'allarme sulla carenza di finanziamenti internazionali, costrette a razionare e ridurre progressivamente l'assistenza alimentare mentre la crisi umanitaria resta acuta.",
   "zcd5f48ef": "Negli ultimi mesi Washington ha rafforzato i contatti diplomatici con i governi centroasiatici, promuovendo investimenti e scambi commerciali come parte di una strategia regionale più ampia.",
   "zd731ffdd": "I lavoratori dell'ex Ilva vivono da anni una condizione di incertezza produttiva e occupazionale, aggravata dalla gestione commissariale e dalla mancanza di un piano industriale definitivo. Negli ultimi mesi si sono susseguiti annunci di cassa integrazione e proteste sindacali contro il rischio di ulteriori fermate produttive, in attesa di decisioni sul futuro del gruppo e degli stabilimenti italiani, inclusa Genova Cornigliano.",
-  "z4c8f6fef": "Il caso della morte di David Rossi, avvenuta nel 2013 durante la crisi di Monte dei Paschi di Siena, è stato riaperto più volte nel corso degli anni tra inchieste giudiziarie e parlamentari, senza una conclusione definitiva sulle cause del decesso, tra le ipotesi di suicidio e quelle di omicidio legate a pressioni sulla banca."
+  "z4c8f6fef": "Il caso della morte di David Rossi, avvenuta nel 2013 durante la crisi di Monte dei Paschi di Siena, è stato riaperto più volte nel corso degli anni tra inchieste giudiziarie e parlamentari, senza una conclusione definitiva sulle cause del decesso, tra le ipotesi di suicidio e quelle di omicidio legate a pressioni sulla banca.",
+  "zb406c9a4": "Nelle ultime settimane la Cisgiordania occupata ha registrato una marcata escalation di violenze da parte di coloni israeliani estremisti contro residenti palestinesi, osservatori internazionali e operatori dei media. Secondo le organizzazioni per i diritti umani, le aggressioni si sono moltiplicate dall'inizio dell'autunno, culminando nell'assalto a una delegazione diplomatica europea e a un fotoreporter statunitense, episodi che hanno innescato un'ondata di indignazione internazionale e costretto le forze di sicurezza israeliane a intervenire con arresti mirati."
  },
  "cronologie": {
   "z4c8f6fef": [
@@ -3994,6 +6404,20 @@ window.EDIZIONI["2026-10-19-sera"] = {
    [
     "19 ottobre 2025",
     "Occupazione dell'aeroporto di Genova da parte dei lavoratori in protesta"
+   ]
+  ],
+  "zb406c9a4": [
+   [
+    "Dal 27 settembre",
+    "Forte incremento delle violenze dei coloni in Cisgiordania, con almeno 170 attacchi censiti"
+   ],
+   [
+    "Fine settimana",
+    "Gruppi di coloni aggrediscono diplomatici europei e feriscono un fotogiornalista statunitense"
+   ],
+   [
+    "Nelle ore successive",
+    "Ferma condanna internazionale e avvio del blitz congiunto tra Shin Bet, esercito e polizia"
    ]
   ]
  },
@@ -4063,6 +6487,67 @@ window.EDIZIONI["2026-10-19-sera"] = {
     }
    ],
    "divergono": "Il Post è l'unica testata a quantificare i partecipanti alla protesta (circa 500 operai), dato assente in ANSA e la Repubblica. La Repubblica aggiunge dettagli non presenti in ANSA, come la presenza del presidente della Regione Bucci con una sua dichiarazione sul piano alternativo per Genova, la presenza di figli dei lavoratori e dei parlamentari Pd Ghio e Pandolfo. ANSA, a differenza della Repubblica, non menziona Bucci né i parlamentari. Rai News non è confrontabile nel dettaglio per mancanza del testo completo."
+  },
+  "zb406c9a4": {
+   "voci": [
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "Riferisce dell'arresto di dieci sospetti dopo le violenze dei coloni contro una fotoreporter, a cui sono state fratturate vertebre, e diplomatici europei. Riporta le accuse del ministro Saar a «sediziosi israeliani», i dubbi di Netanyahu e i dati di Yesh Din sull'impunità dei coloni.",
+     "b": "a"
+    },
+    {
+     "n": "Sky News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Il giudizio è parziale per l'assenza del testo. Titolo e occhiello riportano in modo neutro l'annuncio della polizia israeliana sull'arresto di dieci sospetti legati alle recenti violenze in Cisgiordania, inclusi gli attacchi a una fotogiornalista americana e a diplomatici europei.",
+     "b": "t"
+    },
+    {
+     "n": "Haaretz",
+     "c": "Tel Aviv",
+     "p": "XX",
+     "t": "Il giudizio è parziale per la mancanza dell'articolo. Titolo e occhiello evidenziano l'arresto di dieci persone per le aggressioni a diplomatici e alla fotoreporter, sottolineando l'azione congiunta di esercito, polizia e Shin Bet scattata dopo una diffusa «condanna internazionale».",
+     "b": "t"
+    },
+    {
+     "n": "Middle East Eye",
+     "c": "Londra",
+     "p": "XX",
+     "t": "Il giudizio è parziale non essendo disponibile il testo completo. Titolo e occhiello riportano in tono descrittivo l'annuncio della polizia israeliana, indicando però il fermo di otto sospetti nell'ambito dell'indagine sulle violenze del fine settimana contro la reporter e i diplomatici.",
+     "b": "t"
+    },
+    {
+     "n": "NOS",
+     "c": "Hilversum",
+     "p": "XX",
+     "t": "Descrive l'aggressione alla fotografa e al convoglio diplomatico durante la raccolta delle olive. Riporta le parole di Levine, che definisce gli assalitori «terroristi ebrei», le scuse del presidente Herzog, i richiami internazionali di Rubio e UE e le statistiche di Yesh Din.",
+     "b": "a"
+    },
+    {
+     "n": "VRT NWS",
+     "c": "Bruxelles",
+     "p": "XX",
+     "t": "Il giudizio è parziale poiché l'articolo non è leggibile. Titolo e occhiello non menzionano la Cisgiordania, ma riportano un avviso della polizia locale belga che mette in guardia dall'aumento dei furti domestici con l'accorciarsi delle giornate.",
+     "b": "t"
+    },
+    {
+     "n": "VRT NWS",
+     "c": "Bruxelles",
+     "p": "XX",
+     "t": "Il giudizio è parziale data l'assenza del testo. Titolo e occhiello trattano una vicenda del tutto estranea: l'arresto ad Anversa di un venticinquenne per il ferimento a coltellate di un uomo di 68 anni, fuori pericolo di vita.",
+     "b": "t"
+    },
+    {
+     "n": "ORF",
+     "c": "Vienna",
+     "p": "XX",
+     "t": "Informa dell'arresto di dieci israeliani, specificando che Levine ha subito un intervento alla mano. Dà risalto alle proteste di Francia e Belgio, alla replica dell'ufficio di Netanyahu che parla di «campagna diffamatoria» e alle parole del ministro Saar contro i facinorosi.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Il numero di arrestati diverge: dieci per Deutsche Welle, Sky News, Haaretz, NOS e ORF, mentre Middle East Eye ne indica otto. Sulle ferite inferte a Heidi Levine, Deutsche Welle riporta vertebre rotte, ORF un'operazione alla mano e NOS il pestaggio e il furto di attrezzature. Anche la stima dei coloni in Cisgiordania differisce: NOS ne conta oltre 700.000, ORF più di 500.000. Inoltre, Deutsche Welle e NOS presentano intervalli temporali e cifre discordanti per lo studio di Yesh Din sui procedimenti giudiziari. I due lanci di VRT NWS risultano invece del tutto estranei al fatto narrato."
   }
  },
  "luoghi": {
@@ -4763,13 +7248,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "za44aedaa": {
-   "n": "Uganda",
-   "p": [
-    "Uganda"
-   ],
-   "pt": []
-  },
   "zc589e0e2": {
    "n": "Riga",
    "p": [
@@ -5061,6 +7539,510 @@ window.EDIZIONI["2026-10-19-sera"] = {
     "Ghana"
    ],
    "pt": []
+  },
+  "z8b01cc01": {
+   "n": "Graz",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z6d210b2f": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1f93936d": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zc1fb5034": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z97e52d0b": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zb1a2d2b0": {
+   "n": "Siviglia",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z94070c3f": {
+   "n": "Antananarivo",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z114923be": {
+   "n": "Torino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfddfe874": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z9e94b21a": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z14ff4356": {
+   "n": "Avaza",
+   "p": [
+    "Turkmenistan"
+   ],
+   "pt": []
+  },
+  "z638a8462": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z799b9ebc": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z8f7e3bcd": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zb4ac5b94": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zb9d516db": {
+   "n": "Siena",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc599e216": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfcc1e4c5": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "za086ad39": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zce49f414": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z8b8c4be2": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zecc95854": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z5d08aa4e": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z1ac5a554": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z0c4bff10": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z73a2f115": {
+   "n": "Cotonou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z0a5b18f1": {
+   "n": "Giacarta",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "zbe8d5916": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z32de1822": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z3cb4011a": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "za2b8eeba": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z170db2c0": {
+   "n": "Moscow",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z38c1f28f": {
+   "n": "Beijing",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z18a1527b": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "za8e9e1cf": {
+   "n": "Ulm",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z0dd357fb": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z7d5a2743": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "zb768dd7d": {
+   "n": "Houston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd3a8f67a": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc96a8ff2": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z91143bb9": {
+   "n": "São Paulo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z9b1b6733": {
+   "n": "Lisbon",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zf1a52de3": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zba044c2a": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zf7bd9802": {
+   "n": "Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z41f6d989": {
+   "n": "Monrovia",
+   "p": [
+    "Liberia"
+   ],
+   "pt": []
+  },
+  "za976295d": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "ze667accb": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z2b967aec": {
+   "n": "Bujumbura",
+   "p": [
+    "Burundi"
+   ],
+   "pt": []
+  },
+  "z00dc286c": {
+   "n": "Spain",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z048db049": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z326bc336": {
+   "n": "La Turbie",
+   "p": [
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "z98558c5e": {
+   "n": "Marsiglia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z2b88822c": {
+   "n": "Striscia di Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "za40d11b4": {
+   "n": "Mar Egeo",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z0c312792": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zbecbf284": {
+   "n": "Baia di Mnazi",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z550e38dc": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z0cdcdb5b": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z8bf8a833": {
+   "n": "Dushanbe",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "zb606e2d8": {
+   "n": "Paloch",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z4dd9620f": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z7628da0b": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z95fdb070": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zcdef2841": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4a0ec8af": {
+   "n": "Costa occidentale",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9c39f3cc": {
+   "n": "Mar Egeo",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zee96311d": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zecc64a56": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z127e3eaf": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z724bed0c": {
+   "n": "Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "zb59aa19d": {
+   "n": "Striscia di Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -5070,7 +8052,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "ze4dd5841": 2,
   "za5836191": 2,
   "z01c55616": 1,
-  "zb406c9a4": 1,
+  "zb406c9a4": 3,
   "zfef922e8": 1,
   "z4ed460ec": 2,
   "z4b21203b": 1,
@@ -5086,7 +8068,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z9b188586": 1,
   "z0d4f62e3": 1,
   "z427e8493": 1,
-  "zcd5f48ef": 1,
+  "zcd5f48ef": 2,
   "zd731ffdd": 3,
   "z86e7570c": 2,
   "z6fd0dc51": 1,
@@ -5166,7 +8148,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z3172facc": 1,
   "zdf13ced8": 1,
   "z81eed361": 1,
-  "za44aedaa": 1,
   "zc589e0e2": 1,
   "z4be06888": 1,
   "z11210a08": 1,
@@ -5208,7 +8189,84 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zc0a318a7": 1,
   "z9a01fb04": 2,
   "za4f61adb": 1,
-  "z14419c08": 1
+  "z14419c08": 1,
+  "z8b01cc01": 1,
+  "z6d210b2f": 1,
+  "z1f93936d": 1,
+  "zea9139f6": 1,
+  "zc1fb5034": 1,
+  "z97e52d0b": 2,
+  "zb1a2d2b0": 1,
+  "z712d9f7c": 1,
+  "z94070c3f": 1,
+  "z114923be": 1,
+  "zfddfe874": 1,
+  "z9e94b21a": 1,
+  "zf77ddd76": 1,
+  "z14ff4356": 2,
+  "z638a8462": 1,
+  "z799b9ebc": 1,
+  "z8f7e3bcd": 1,
+  "zb4ac5b94": 1,
+  "zb9d516db": 2,
+  "z7f766844": 1,
+  "z878dfa8e": 1,
+  "zc599e216": 1,
+  "zfcc1e4c5": 1,
+  "za086ad39": 1,
+  "zce49f414": 1,
+  "z8b8c4be2": 1,
+  "zecc95854": 1,
+  "z5d08aa4e": 1,
+  "z1ac5a554": 1,
+  "z0c4bff10": 1,
+  "z73a2f115": 1,
+  "z0a5b18f1": 1,
+  "zbe8d5916": 1,
+  "z32de1822": 1,
+  "z3cb4011a": 1,
+  "za2b8eeba": 1,
+  "z170db2c0": 1,
+  "z38c1f28f": 1,
+  "z18a1527b": 1,
+  "za8e9e1cf": 1,
+  "z0dd357fb": 1,
+  "z7d5a2743": 1,
+  "zb768dd7d": 1,
+  "zd3a8f67a": 1,
+  "zc96a8ff2": 1,
+  "z91143bb9": 1,
+  "z9b1b6733": 1,
+  "zf1a52de3": 1,
+  "zba044c2a": 1,
+  "zf7bd9802": 2,
+  "z41f6d989": 1,
+  "za976295d": 1,
+  "ze667accb": 1,
+  "z2b967aec": 1,
+  "z00dc286c": 1,
+  "z048db049": 1,
+  "z326bc336": 1,
+  "z98558c5e": 1,
+  "z2b88822c": 1,
+  "za40d11b4": 1,
+  "z0c312792": 1,
+  "zbecbf284": 1,
+  "z550e38dc": 1,
+  "z0cdcdb5b": 1,
+  "z8bf8a833": 1,
+  "zb606e2d8": 1,
+  "z4dd9620f": 1,
+  "z7628da0b": 1,
+  "z95fdb070": 2,
+  "zcdef2841": 1,
+  "z4a0ec8af": 1,
+  "z9c39f3cc": 1,
+  "zee96311d": 1,
+  "zecc64a56": 1,
+  "z127e3eaf": 1,
+  "z724bed0c": 1,
+  "zb59aa19d": 1
  },
  "video": {},
  "pillole": []
