@@ -3,6 +3,2017 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zc8a33a43",
+   "sez": "mondo",
+   "titolo": "Panico in Parlamento per i dipendenti \"fantasma\" durante i controlli",
+   "orig": "Panic At Parliament as 'Ghost' Staff Evade Screening Exercise",
+   "lead": "Il Parlamento ha avviato a Kampala, in Uganda, un'operazione di verifica di quattro giorni guidata dalla Commissione di servizio pubblico per esaminare qualifiche e idoneità dei dipendenti, scatenando il panico tra i cosiddetti lavoratori fantasma. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/379895/panic-at-parliament-as-ghost-staff-evade-screening-exercise",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-19T20:43+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z93f1f432",
+   "sez": "mondo",
+   "titolo": "Il PLU definisce \"falsa\" la lettera di sospensione di Frank Gashumba",
+   "orig": "PLU Dismisses Letter Suspending Frank Gashumba as 'Fake'",
+   "lead": "I vertici del PLU hanno smentito una lettera circolata a Kampala, in Uganda, che annunciava un'indagine disciplinare e misure amministrative nei confronti di Frank Gashumba, bollandola come un documento falso. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/dismis/379884/plu-dismisses-letter-suspending-frank-gashumba-as-fake",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-19T20:35+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8bdc2826",
+   "sez": "mondo",
+   "titolo": "Il vescovo di Mityana chiede una maggiore collaborazione tra governo e Chiesa nella sanità",
+   "orig": "Mityana Bishop Calls for Stronger Government-Church Partnership in Healthcare",
+   "lead": "Il vescovo James Bukomeko ha invocato a Kampala, in Uganda, una cooperazione più stretta tra le istituzioni statali e religiose per ampliare l'accesso alle cure mediche e promuovere programmi di salute comunitaria. Lo riferisce Nile Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/379881/mityana-bishop-calls-for-stronger-government-church-partnership-in-healthcare",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-19T20:21+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z83694274",
+   "sez": "mondo",
+   "titolo": "Il presidente del parlamento somalo accusa il Kenya di ospitare terroristi",
+   "orig": "Somalia parliament speaker accuses Kenya of harbouring terrorists",
+   "lead": "Il presidente del parlamento somalo Abdulkadir Mohamed Nur ha accusato domenica a Mogadiscio il Kenya di permettere la permanenza di terroristi responsabili di violenze in Somalia, in un clima di crescenti tensioni regionali. Lo riferisce Somali Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-accuses-kenya-harbouring-terrorists/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-19T17:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0720b60a",
+   "sez": "mondo",
+   "titolo": "La collezione inclusiva di borse in Braille firmata Koki Kamala",
+   "orig": "Koki Kamala’s Inclusive Touch",
+   "lead": "Il marchio Koki Kamala ha lanciato a Gaborone, in Botswana, una nuova collezione di borse in Braille, ridefinendo i canoni del design di lusso per includere le persone non vedenti. Lo riferisce The Botswana Gazette.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/lifestyle/koki-kamalas-inclusive-touch/",
+     "angolo": "",
+     "atlas": "Botswana",
+     "t": "2026-10-19T17:55+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze79f85d4",
+   "sez": "mondo",
+   "titolo": "Autotrasportatori denunciano abusi e corruzione ai confini",
+   "orig": "Truckers Allege Abuse Across Borders",
+   "lead": "I conducenti di camion del Botswana hanno denunciato a Gaborone molestie, intimidazioni e richieste di tangenti da parte delle autorità in Mozambico e nella Repubblica Democratica del Congo, chiedendo un intervento governativo. Lo riferisce The Botswana Gazette.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Botswana Gazette",
+     "p": "XX",
+     "c": "Gaborone",
+     "u": "https://www.thegazette.news/news/truckers-allege-abuse-across-borders/",
+     "angolo": "",
+     "atlas": "Botswana",
+     "t": "2026-10-19T17:12+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdc3f7c6e",
+   "sez": "mondo",
+   "titolo": "Donne imprenditrici laureate al programma Catalyze Her Potential",
+   "orig": "Women Entrepreneurs graduate from Catalyze Her Potential accelerator",
+   "lead": "Diverse donne imprenditrici hanno celebrato a Belmopan, in Belize, la conclusione del percorso di accelerazione d'impresa promosso da NIME Belize, esponendo i propri prodotti durante l'evento finale. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/19/women-entrepreneurs-graduate-from-catalyze-her-potential-accelerator/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-19T16:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc2bfe03f",
+   "sez": "mondo",
+   "titolo": "El Cayo e Benque Viejo del Carmen celebrano 122 anni dallo status di città",
+   "orig": "El Cayo and Benque Viejo del Carmen celebrate 122 years since being declared Towns",
+   "lead": "Le comunità occidentali del Belize di El Cayo e Benque Viejo del Carmen hanno celebrato a Belmopan il 122esimo anniversario dalla loro ufficiale dichiarazione a città, avvenuta il 19 ottobre 1904. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/19/el-cayo-and-benque-viejo-del-carmen-celebrate-122-years-since-being-declared-towns/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-19T16:38+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3340e08e",
+   "sez": "mondo",
+   "titolo": "Riapre la grotta ATM, restano chiuse Nohoch Che'en e Barton Creek",
+   "orig": "ATM Cave reopens, Nohoch Che’en and Barton Creek remain closed",
+   "lead": "L'istituto di archeologia del Belize ha annunciato a Belmopan la riapertura della riserva archeologica di Actun Tunichil Muknal, mentre i siti di Nohoch Che'en e Barton Creek rimangono chiusi a causa delle recenti forti piogge. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/19/atm-cave-reopens-nohoch-cheen-and-barton-creek-remain-closed/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-19T16:28+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf36815f8",
+   "sez": "mondo",
+   "titolo": "Perché gli antichi Maya abbandonarono le loro città e cosa significa per il Belize",
+   "orig": "Why the ancient Maya left their cities, and what it means for Belize",
+   "lead": "Un'analisi approfondita pubblicata a Belmopan, in Belize, esplora le ragioni storiche e ambientali che spinsero l'antica civiltà Maya ad abbandonare grandi centri urbani come Caracol e Lamanai. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/19/why-the-ancient-maya-left-their-cities-and-what-it-means-for-belize/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-19T16:21+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z47ef9d63",
+   "sez": "mondo",
+   "titolo": "Oltre un quarto della forza lavoro è privo di qualifiche formali",
+   "orig": "Over quarter of work force lacks formal qualifications",
+   "lead": "Più del venticinque percento della forza lavoro delle Bahamas risulta priva di qualifiche formali, evidenziando un divario di competenze che il governo intende colmare per favorire l'occupazione qualificata. Lo riferisce The Tribune (Bahamas).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Tribune (Bahamas)",
+     "p": "XX",
+     "c": "Nassau",
+     "u": "https://tribune242.com/news/2026/oct/19/over-quarter-of-work-force-lacks-formal-qualifications/",
+     "angolo": "",
+     "atlas": "Bahamas",
+     "t": "2026-10-19T12:00-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze9e55d8b",
+   "sez": "mondo",
+   "titolo": "Trauma, memoria e identità nazionale al centro della riflessione",
+   "orig": "Trauma, memory, and national identity",
+   "lead": "I sostenitori del Giorno degli Eroi Nazionali sottolineano a St. George's, a Grenada, l'importanza della commemorazione per preservare il sacrificio storico, educare le nuove generazioni e rafforzare l'unità nazionale. Lo riferisce NOW Grenada.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOW Grenada",
+     "p": "XX",
+     "c": "St. George's",
+     "u": "https://nowgrenada.com/2026/10/trauma-memory-and-national-identity/",
+     "angolo": "",
+     "atlas": "Grenada",
+     "t": "2026-10-19T16:50+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z33368147",
+   "sez": "mondo",
+   "titolo": "Il partito di Machado convoca una mobilitazione per chiedere elezioni presidenziali",
+   "orig": "El partido de Machado convoca una movilización para exigir elecciones presidenciales",
+   "lead": "Il partito dell'opposizione venezuelana guida da Madrid una mobilitazione per pretendere elezioni presidenziali trasparenti, il ritorno in sicurezza della leader e la liberazione di tutti i prigionieri politici. Lo riferisce 14ymedio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/internacional/partido-machado-convoca-movilizacion-exigir_1_1132153.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-19T17:37+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb178a838",
+   "sez": "mondo",
+   "titolo": "PPTE: vent'anni dopo la cancellazione del debito, perché il Camerun stagna?",
+   "orig": "PPTE : vingt ans après l’effacement d’une partie de sa dette, pourquoi le Cameroun peine-t-il toujours à décoller économiquement ?",
+   "lead": "A vent'anni dal raggiungimento del punto d'achèvement dell'iniziativa PPTE per i Paesi poveri fortemente indebitati, il Camerun continua a ricorrere ai prestiti e affronta persistenti tensioni di cassa che frenano lo sviluppo economico. Lo riferisce Mimi Mefo Info.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/ppte-vingt-ans-apres-leffacement-dune-partie-de-sa-dette-pourquoi-le-cameroun-peine-t-il-toujours-a-decoller-economiquement/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-19T15:46+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd825f062",
+   "sez": "mondo",
+   "titolo": "Urioste insedia i nove procuratori dipartimentali a Sucre",
+   "orig": "Urioste posesiona a los nueve fiscales departamentales en Sucre",
+   "lead": "Il nuovo responsabile ha presieduto a La Paz, in Bolivia, l'insediamento dei nove procuratori dipartimentali a Sucre, imponendo la consegna immediata di tutti i beni e della documentazione amministrativa. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/urioste-posesiona-a-los-nueve-fiscales-departamentales-en-sucre",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T11:48-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zedd5b5dd",
+   "sez": "mondo",
+   "titolo": "Legislatori chiedono di investigare sugli audio attribuiti a Cerimedo e al ministro Zamora",
+   "orig": "Legisladores piden investigar audios atribuidos a Cerimedo y ministro Zamora",
+   "lead": "Diversi parlamentari boliviani hanno chiesto a La Paz di verificare l'autenticità e chiarire il contenuto delle registrazioni audio filtrate che coinvolgerebbero figure istituzionali. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/legisladores-piden-investigar-audios-atribuidos-a-cerimedo-y-ministro-zamora",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T13:50-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9fa2ae37",
+   "sez": "mondo",
+   "titolo": "Proteste bloccano il Louvre mentre prosegue l'ondata di disordini in Francia",
+   "orig": "Protestas bloquean el Louvre mientras en Francia sigue la ola de disturbios",
+   "lead": "In seguito ai disordini del fine settimana in Francia, manifestanti hanno bloccato il museo del Louvre a Parigi, spingendo il presidente Emmanuel Macron a ordinare una revisione dei protocolli di sicurezza dopo l'ammissione di perdita di controllo della polizia. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/mundo/protestas-bloquean-el-louvre-mientras-en-francia-sigue-la-ola-de-disturbios",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T13:43-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze8e12616",
+   "sez": "mondo",
+   "titolo": "Urioste: \"Nessun trattamento privilegiato o copertura per nessuno\"",
+   "orig": "Urioste: “No puede existir encubrimiento ni trato privilegiado para nadie”",
+   "lead": "Durante i novanta giorni del suo mandato ad interim a La Paz, in Bolivia, il funzionario ha promesso di agire nel rispetto della legge e della trasparenza per risolvere i problemi dell'ente giudiziario. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/urioste-no-puede-existir-encubrimiento-ni-trato-privilegiado-para-nadie",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T13:28-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5084cc01",
+   "sez": "mondo",
+   "titolo": "I bagalleros revocano il blocco sul ponte internazionale con l'Argentina",
+   "orig": "Bagalleros levantan bloqueo en el puente internacional con Argentina",
+   "lead": "I lavoratori del settore hanno rimosso a La Paz il blocco stradale al confine con l'Argentina, riservandosi tuttavia la possibilità di riprendere le proteste qualora non arrivino risposte concrete. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/sociedad/bagalleros-levantan-bloqueo-en-el-puente-internacional-con-argentina",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T11:34-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd4bd3226",
+   "sez": "mondo",
+   "titolo": "Il mandato di Giorgia Meloni, dai margini italiani al cuore della politica europea",
+   "orig": "Le mandat de Giorgia Meloni, des marges italiennes au cœur de la politique européenne",
+   "lead": "Un'inchiesta pubblicata a Parigi analizza come la premier italiana Giorgia Meloni abbia consolidato il governo più lungo della storia repubblicana, ritagliandosi un ruolo centrale nelle dinamiche politiche dell'Unione Europea. Lo riferisce Le Monde.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/19/le-mandat-de-giorgia-meloni-des-marges-italiennes-au-c-ur-de-la-politique-europeenne_6797578_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T19:46+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7fdef05a",
+   "sez": "mondo",
+   "titolo": "Parcoursup: avviata una concertazione lampo al Ministero dell'Istruzione superiore",
+   "orig": "Parcoursup : une « concertation flash » est lancée au ministère de l’enseignement supérieur",
+   "lead": "Il ministero francese ha avviato a Parigi una consultazione d'urgenza con sindacati studenteschi e presidi per migliorare la piattaforma Parcoursup, dopo che decine di migliaia di candidati si sono rivolti ai rettori per trovare una sistemazione universitaria. Lo riferisce Le Monde.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/campus/article/2026/10/19/parcoursup-une-concertation-flash-est-lancee-au-ministere-de-l-enseignement-superieur_6797575_4401467.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T19:30+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z65233874",
+   "sez": "mondo",
+   "titolo": "Centinaia di bici in libero servizio distrutte nelle violenze di metà ottobre",
+   "orig": "Des centaines d’engins détruits ou endommagés : les opérateurs de vélos en libre-service face au lourd tribut des violences du 17 octobre",
+   "lead": "Le biciclette condivise sono state tra i principali bersagli dei vandali durante i disordini del fine settimana a Parigi, infliggendo danni economici per centinaia di migliaia di euro agli operatori del settore. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/societes/des-centaines-d-engins-detruits-ou-endommages-les-operateurs-de-velos-en-libre-service-face-au-lourd-tribut-des-violences-du-17-octobre-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T19:25+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z254a05fd",
+   "sez": "mondo",
+   "titolo": "Presidenziali 2027: dopo le sommosse, il RN punta a incarnare il partito dell'ordine",
+   "orig": "Présidentielle 2027 : au lendemain des émeutes, le RN veut incarner le « parti de l’ordre »",
+   "lead": "Marine Le Pen e Jordan Bardella hanno sfruttato a Parigi il clima di tensione e i saccheggi del fine settimana per rilanciare la propria immagine di forza politica garante della sicurezza e dell'ordine pubblico in vista delle elezioni del 2027. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-au-lendemain-des-emeutes-le-rn-veut-incarner-le-parti-de-l-ordre-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T19:54+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z69691a4c",
+   "sez": "mondo",
+   "titolo": "Florence Bergeaud-Blackler: \"Per alcuni rivoltosi saccheggiare fa parte delle loro norme\"",
+   "orig": "Florence Bergeaud-Blackler : « Pour certains émeutiers, piller des « mécréants » ou des « colons » s’inscrit dans leur système de normes »",
+   "lead": "L'antropologa ha dichiarato a Parigi che sottovalutare la matrice ideologica e le norme culturali promosse dagli ambienti islamisti nelle banlieue impedisce di comprendere le motivazioni politiche dietro ai saccheggi dei rivoltosi. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/vox/societe/florence-bergeaud-blackler-pour-certains-emeutiers-piller-des-mecreants-ou-des-colons-s-inscrit-dans-leur-systeme-de-normes-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T19:40+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze8b830ab",
+   "sez": "mondo",
+   "titolo": "La devastazione dei centri urbani rafforza la posizione del Rassemblement National",
+   "orig": "Chers casseurs, vous êtes les meilleurs agents électoraux de Marine Le Pen",
+   "lead": "Gli episodi di saccheggio e devastazione avvenuti nelle città francesi offrono al partito di Marine Le Pen un importante vantaggio politico, posizionandolo come il principale beneficiario della crisi legata all'ordine pubblico. Lo riferisce Libération.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/idees-et-debats/opinions/chers-casseurs-vous-etes-les-meilleurs-agents-electoraux-de-marine-le-pen-20261019_R3GNOIT6HRBHPCZ3SVGGQGYZ2Q/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T16:39+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3af5bc78",
+   "sez": "mondo",
+   "titolo": "Crisi Volkswagen: perché rompere con IG Metall sarebbe rischioso",
+   "orig": "VW-Krise: Warum ein Bruch mit der IG Metall riskant wäre",
+   "lead": "La proposta di Volkswagen di bloccare i salari fino al 2030 rischia di aprire uno scontro frontale con il sindacato IG Metall ad Amburgo, minacciando di destabilizzare i rapporti di forza con i lavoratori nel principale gruppo automobilistico europeo. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/wirtschaft/unternehmen/vw-krise-warum-ein-bruch-mit-der-ig-metall-riskant-waere-a-7d01239f-4651-465b-9de3-a0238ed7da1b#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T19:15+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "za4ce060c",
+   "sez": "mondo",
+   "titolo": "Dimissioni di Bärbel Bas: il deputato CDU von Stetten risponde alle critiche dell'SPD",
+   "orig": "Bärbel Bas' Rücktritt: CDU-Politiker Christian von Stetten verteidigt sich gegen SPD-Kritik",
+   "lead": "Il deputato della CDU Christian von Stetten ha replicato ad Amburgo agli attacchi provenienti dai socialdemocratici dopo aver chiesto a settembre le dimissioni del ministro del Lavoro Bärbel Bas. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/politik/deutschland/baerbel-bas-ruecktritt-cdu-politiker-christian-von-stetten-verteidigt-sich-gegen-spd-kritik-a-d2f4ece8-aaf9-4483-9ad2-ffdfa8913033#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T18:34+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z40d34d5c",
+   "sez": "mondo",
+   "titolo": "Doccia fredda per la principessa Amalia dei Paesi Bassi: ecco il motivo",
+   "orig": "Amalia der Niederlande bekommt eine kalte Dusche – das ist der Grund",
+   "lead": "La principessa ereditaria Amalia dei Paesi Bassi ha ricevuto una tradizionale e fredda doccia di benvenuto durante l'addestramento militare nella Marina, affrontando la prova con spirito sportivo. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/leute/amalia-der-niederlande-bekommt-eine-kalte-dusche-das-ist-der-grund-a-fdf0b319-a645-4697-94fd-695b0be7c3ac#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T17:45+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z98a5f6b6",
+   "sez": "mondo",
+   "titolo": "Junge Union a Bonn: uno striscione giudicato inaccettabile",
+   "orig": "Junge Union: Deutschlandtag in Bonn - Dieses Banner ist eine Entgleisung",
+   "lead": "Durante il congresso Deutschlandtag a Bonn, la Junge Union ha accusato di antisemitismo la sinistra a Berlino, ignorando però le polemiche suscitate da un discusso striscione apparso tra le proprie file. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/politik/deutschland/jungen-union-deutschlandtag-in-bonn-dieses-banner-ist-eine-entgleisung-a-3c507f74-7b95-4915-b1e0-8545d39c1649#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T17:43+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z875c2548",
+   "sez": "mondo",
+   "titolo": "Cold case di Ratisbona: svolta nel caso Langley con una confessione e tre sospettati",
+   "orig": "Cold Case aus Regensburg: Durchbruch im Fall Langley: Geständnis und drei Tatverdächtige",
+   "lead": "A seguito del ritrovamento di resti ossei, si avvicina la verità sulla scomparsa di una trentanovenne avvenuta nell'estate del 2007. Gli inquirenti dispongono ora di una confessione e di tre persone formalmente indagate. Lo riferisce Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/bayern/regensburg-kerstin-lee-langley-knochen-vermisst-polizei-cold-case-li.3565546",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T16:40+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z369ebe45",
+   "sez": "mondo",
+   "titolo": "Alleanza rosso-verde-rossa a Berlino nel mirino della base",
+   "orig": "Rot-Grün-Rot in Berlin: Angezählt von den eigenen Leuten",
+   "lead": "Cresce all'interno di SPD e Verdi a livello federale la contrarietà verso una possibile coalizione con la Linkspartei nella capitale tedesca. Nonostante le forti pressioni interne, i partiti locali proseguono senza apparenti tentennamenti. Lo riferisce Süddeutsche Zeitung.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/berlin-spd-linkspartei-krach-regierung-sondierungen-protest-li.3565442",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T16:40+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zddd7ff80",
+   "sez": "mondo",
+   "titolo": "Tensioni con Zelensky e future prospettive politiche per gli alleati europei",
+   "orig": "Streit mit Selenskyj: Wird Trumps Torheit wieder Normalmaß annehmen?",
+   "lead": "In vista delle elezioni di metà mandato, il presidente americano cerca capri espiatori per il caro carburante, alimentando frizioni con Kiev. Gli scenari politici restano complessi anche per ucraini ed europei. Lo riferisce FAZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ausland/trump-staerkt-putin-und-laesst-die-ukraine-im-stich-201602176.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T16:39+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z14b6777f",
+   "sez": "mondo",
+   "titolo": "Carlos Carvalhal lascia il Famalicão dopo l'eliminazione dalla Coppa del Portogallo",
+   "orig": "Carlos Carvalhal deixa Famalicão após eliminação da Taça de Portugal",
+   "lead": "L'allenatore portoghese ha rassegnato le dimissioni dall'incarico alla guida del club del Minho in seguito all'uscita di scena dalla competizione nazionale, chiudendo l'esperienza iniziata all'inizio della stagione. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/19/desporto/noticia/carlos-carvalhal-deixa-famalicao-apos-eliminacao-taca-portugal-2191894",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T17:23+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z405eada2",
+   "sez": "mondo",
+   "titolo": "Spagna, fallisce l'accordo a sinistra: Podemos escluso dalla coalizione Frente Ampla",
+   "orig": "Não há acordo entre a esquerda espanhola: Podemos fica de fora da coligação Frente Ampla",
+   "lead": "La mancata intesa tra le forze della sinistra spagnola rappresenta un duro colpo per il premier Pedro Sánchez, che rischia di non raggiungere i numeri necessari per la rielezione e la formazione di un nuovo governo. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/19/mundo/noticia/nao-ha-acordo-esquerda-espanhola-podemos-fica-coligacao-frente-2191862",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T16:30+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z53837654",
+   "sez": "mondo",
+   "titolo": "Portogallo, la polizia avverte: le tende abusive a Lisbona e Porto saranno rimosse",
+   "orig": "Tendas “não se podem manter a d aeternum ”, avisa PSP. “Terá de haver uma intervenção”",
+   "lead": "La Polizia di Pubblica Sicurezza ha annunciato interventi imminenti per sgomberare gli accampamenti abusivi installati nelle principali città, motivando la decisione con numerose irregolarità tra campeggio selvaggio e violazioni delle norme acustiche. Lo riferisce Público.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/19/sociedade/noticia/tendas-nao-podem-manter-ad-eternum-avisa-psp-tera-haver-intervencao-2191878",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T16:17+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd9f9ba63",
+   "sez": "mondo",
+   "titolo": "Francia, escalation di violenze e critiche alla gestione della crisi da parte di Macron",
+   "orig": "VIDEO - Wer steckt hinter den Randalen in Frankreich?",
+   "lead": "Le proteste studentesche iniziali sono degenerate in rivolte diffuse in tutto il Paese, dominate da gruppi radicali e giovani. Di fronte all'aumento delle violenze, le contromisure adottate dal governo guidato da Emmanuel Macron suscitano forti polemiche. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/shorts/wer-steckt-hinter-den-randalen-in-frankreich-ld.10038617",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T17:08+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3fd6f514",
+   "sez": "mondo",
+   "titolo": "Svizzera, alleanza liberal-di sinistra contro l'iniziativa fiscale del Centro",
+   "orig": "«Steuer-Wirrwarr», «Wundertüte», «Zwängerei»: Eine freisinnig-linke Allianz bekämpft die Steuerinitiative der Mitte",
+   "lead": "Partiti liberali e di sinistra contrastano la proposta referendaria del Centro sulla tassazione individuale, giudicandola non democratica e incoerente rispetto ai precedenti voti popolari sulla materia. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/steuer-wirrwar-wundertuete-zwaengerei-eine-freisinnig-linke-allianz-bekaempft-die-steuer-initiative-der-mitte-ld.10038050",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T16:50+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z60e28ccb",
+   "sez": "mondo",
+   "titolo": "Ondata di proteste giovanili in Europa: le ragioni delle rivolte in piazza",
+   "orig": "ERKLÄRT - Warum derzeit so viele Menschen in europäischen Ländern auf die Strasse gehen",
+   "lead": "In diverse nazioni europee, tra cui Francia, Italia, Albania e Belgio, migliaia di giovani stanno manifestando con tensioni e scontri. L'analisi approfondisce i fattori scatenanti e le specificità delle proteste nei singoli Paesi. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/proteste-in-europa-warum-so-viele-menschen-derzeit-auf-die-strasse-gehen-ld.10038128",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T16:30+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7f54cd35",
+   "sez": "mondo",
+   "titolo": "Svizzera, crescenti rinunce tra i nomi di spicco dell'SVP per la successione in Consiglio federale",
+   "orig": "Martullo-Blocher, Friedli, Rickli, Rüegsegger: Die Absagen bei der SVP häufen sich. Wer bleibt für Parmelins Nachfolge überhaupt noch übrig?",
+   "lead": "Nonostante la posizione di forza della sezione zurighese del partito conservatore, autorevoli esponenti come Natalie Rickli declinano la candidatura, aprendo interrogativi sui candidati rimasti per rimpiazzare il consigliere federale Parmelin. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/schweiz/martullo-blocher-friedli-rickli-rueegsegger-die-absagen-bei-der-svp-haeufen-sich-wer-bleibt-fuer-parmelins-nachfolge-ueberhaupt-noch-uebrig-ld.10038130",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T16:04+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z469cad75",
+   "sez": "mondo",
+   "titolo": "Berlino, la proposta della Linkspartei per allontanare la Bundeswehr dalle scuole",
+   "orig": "DER ANDERE BLICK - Berlins Linke will die Bundeswehr aus Schulen drängen – doch Krieg verschwindet dadurch nicht",
+   "lead": "Il partito della sinistra tedesca spinge per escludere i militari dagli istituti scolastici e impedire ai giovani di confrontarsi sulla politica di difesa, una linea che secondo i critici non riduce la realtà dei conflitti globali. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/der-andere-blick/berlins-linke-will-die-bundeswehr-aus-schulen-draengen-doch-krieg-verschwindet-dadurch-nicht-ld.10038048",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T16:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfa7f9d09",
+   "sez": "mondo",
+   "titolo": "Austria, ridimensionato il bonus fiscale per il nuovo deposito d'investimento",
+   "orig": "Steuerzuckerl für Zukunftsdepot fällt kleiner aus als gedacht",
+   "lead": "Il progetto economico sostenuto dall'ÖVP debutta in versione ridotta rispetto alle attese iniziali, prevedendo un incentivo di cinquecento euro per i neonati per favorire una platea ampia di beneficiari pur tra i dubbi di favorire i più abbienti. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344880/steuerzuckerl-fuer-zukunftsdepot-faellt-kleiner-aus-als-gedacht?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T16:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z413ae0d2",
+   "sez": "mondo",
+   "titolo": "L'ex cancelliere Sebastian Kurz avverte Vienna: temuti disordini simili a quelli di Parigi",
+   "orig": "Kurz warnt: Seid besorgt!",
+   "lead": "L'ex capo del governo austriaco ha espresso pubblicamente la propria preoccupazione riguardo alla possibilità che le recenti ondate di violenza urbana registrate nella capitale francese possano replicarsi anche nel territorio di Vienna. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344905/kurz-warnt-seid-besorgt?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T16:45+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf12adfbf",
+   "sez": "mondo",
+   "titolo": "Vienna, tariffe irregolari e abusivismo: il settore dei taxi nel caos",
+   "orig": "Schwindelige Preise und Fake-Anbieter: Was bei Wiener Taxis schiefläuft",
+   "lead": "Le associazioni di categoria denunciano la presenza di operatori scorretti e prezzi anomali nel servizio di trasporto pubblico non di linea della capitale austriaca. L'assessorato competente promette interventi di riforma ma non specifica i dettagli. Lo riferisce Der Standard.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344310/schwindelige-preise-und-fake-anbieter-was-bei-wiener-taxis-schieflaeuft?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T16:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb6132cbc",
+   "sez": "mondo",
+   "titolo": "Elezioni in Serbia: Aleksandar Vučić rischia la sconfitta contro il movimento studentesco",
+   "orig": "Efter 14 år vid makten – nu kan Vučić förlora mot studenterna",
+   "lead": "A pochi giorni dal voto in Serbia, il presidente in carica dal 2014 affronta la forte concorrenza dei collettivi studenteschi. Gli osservatori internazionali mettono intanto in guardia da possibili ingerenze esterne per convalidare il risultato. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/efter-14-ar-vid-makten-nu-kan-vucic-forlora-mot-studenterna/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-19T19:13+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdb6612f8",
+   "sez": "mondo",
+   "titolo": "Svezia, allarme del Centro per la cybersicurezza: calano le denunce ma crescono i rischi",
+   "orig": "Stora mörkertal hotar cybersäkerheten",
+   "lead": "Nonostante l'inasprirsi delle minacce digitali e l'entrata in vigore di nuove normative, le segnalazioni di incidenti informatici in Svezia sono diminuite nel corso del 2025. Le autorità avvertono sul rischio di un'ampia fetta di attacchi sommersi. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/ekonomi/stora-morkertal-hotar-cybersakerheten/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-19T18:58+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zabd8ad3d",
+   "sez": "mondo",
+   "titolo": "Svezia, il partito Centrista sotto pressione per definire la propria linea politica",
+   "orig": "Tomas Ramberg: Thand Ringqvist får själv gräva mittens grav",
+   "lead": "Il presidente del Parlamento spinge la leader del Centro Elisabeth Thand Ringqvist a chiarire le proprie posizioni, confermando l'assenza di reali alternative di coalizione al centro dello schieramento politico svedese. Lo riferisce Dagens Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-far-sjalv-grava-mittens-grav/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-19T18:56+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z46b25cc5",
+   "sez": "mondo",
+   "titolo": "Zelensky: ritardi critici nelle forniture militari concordate con gli Stati Uniti",
+   "orig": "Wołodymyr Zełenski: kluczowe dostawy z USA są opóźnione",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha denunciato il mancato rispetto di intese politiche e i ritardi accumulati nelle consegne di equipaggiamenti militari da parte di Washington, sollecitando ministri e alleati a rafforzare la difesa aerea del Paese. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/swiat/wolodymyr-zelenski-alarmuje-o-opoznieniach-dostaw-z-usa-wydal-pilne-polecenia-ministrom-st9295150?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-19T17:51+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf8d4daf0",
+   "sez": "tech",
+   "titolo": "Un hacker cinese viola i sistemi di oltre 100 aziende usando l'intelligenza artificiale con cinquemila dollari",
+   "orig": "Włamał się do ponad 100 firm. Wydał na to pięć tysięcy dolarów",
+   "lead": "Un hacker cinese è riuscito a violare i sistemi informatici di oltre cento aziende spendendo circa cinquemila dollari grazie all'utilizzo dell'intelligenza artificiale. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/biznes/tech/wlamal-sie-do-ponad-100-firm-wydal-na-to-piec-tysiecy-dolarow-st9295237?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-19T17:49+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbef48687",
+   "sez": "mondo",
+   "titolo": "Dure polemiche in Polonia sulle modalità di gestione e presunto blocco del Tribunale Costituzionale",
+   "orig": "Tak Prawo i Sprawiedliwość przejęło Trybunał Konstytucyjny",
+   "lead": "Il Tribunale Costituzionale polacco risulta paralizzato a causa dell'azione politica del PiS e della posizione del presidente Karol Nawrocki, che impediscono ai giudici legittimi di lavorare mentre i gabinetti vengono protetti. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/polska/tak-prawo-i-sprawiedliwosc-przejelo-trybunal-konstytucyjny-st9295071?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-19T17:16+00:00"
+    },
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/polska/bogdan-swieczkowski-przekazal-oswiadczenie-sedziow-tk-do-rzecznika-dyscyplinarnego-st9295218?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-19T17:46+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z805de5ca",
+   "sez": "mondo",
+   "titolo": "Nessun banchetto per l'insediamento del nuovo sindaco di Cracovia: la scelta di sobrietà di Łukasz Gibała",
+   "orig": "\"Trzeba oszczędzać, zaczynamy pierwszego dnia\". Symboliczna decyzja Gibały",
+   "lead": "Dopo il giuramento del nuovo sindaco di Cracovia Łukasz Gibała non si terrà alcun banchetto ufficiale, in segno di rigoroso risparmio economico sin dal primo giorno di mandato amministrativo. Lo riferisce TVN24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "TVN24",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://tvn24.pl/krakow/symboliczna-decyzja-lukasza-gibaly-nowy-prezydent-krakowa-rezygnuje-z-bankietu-st9295174?source=rss",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-10-19T17:12+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf0b6b592",
+   "sez": "economia",
+   "titolo": "Un fondo di investimento entra nella controversia milionaria tra Totvs e la ex partner Sogem",
+   "orig": "Disputa de R$ 500 milhões envolvendo a Totvs atrai fundo de investimento",
+   "lead": "Un fondo d'investimento della Algarve Capital, co-gestito da Itaú Asset, è entrato nell'antica disputa giudiziaria da mezzo miliardo di reais tra il colosso Totvs e la ex società in outsourcing Sogem. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/disputa-de-r-500-milhoes-envolvendo-a-totvs-atrai-fundo-de-investimento.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-19T14:53-03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6a75ad2f",
+   "sez": "economia",
+   "titolo": "Netflix e Globo siglano un accordo di licenza inedito per portare diciotto titoli sulla piattaforma streaming",
+   "orig": "Netflix e Globo fecham acordo de licenciamento com 18 títulos para o streaming",
+   "lead": "Netflix e Globo hanno annunciato un accordo di licensing che porterà diciotto opere brasiliane, tra cui quattordici film, tre telenovelas e una serie, sul servizio di streaming a partire da dicembre. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/netflix-e-globo-fecham-acordo-de-licenciamento-com-18-titulos-para-o-streaming.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-19T14:41-03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcac8a69a",
+   "sez": "mondo",
+   "titolo": "Analisi sul dibattito presidenziale in Brasile tra polarizzazione, aggressività e mancanza di proposte",
+   "orig": "O fetiche dos debates",
+   "lead": "Il recente dibattito presidenziale ha messo in luce una campagna segnata da forte polarizzazione emotiva, scandali di corruzione e una marcata assenza di idee, riflesso del clima politico attuale. Lo riferisce Folha de S.Paulo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/o-fetiche-dos-debates.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-19T14:20-03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9de64df7",
+   "sez": "mondo",
+   "titolo": "La Prefettura di Manaus presenta una proposta di bilancio municipale di 12,46 miliardi di reais per il 2027",
+   "orig": "Prefeitura de Manaus prevê orçamento de R$ 12,46 bilhões para 2027",
+   "lead": "La proposta di legge di bilancio annuale della Prefettura di Manaus prevede risorse stimate in 12,46 miliardi di reais per il 2027, registrando un lieve incremento rispetto all'anno precedente. Lo riferisce G1.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/am/amazonas/noticia/2026/10/19/prefeitura-de-manaus-preve-orcamento-de-r-1246-bilhoes-para-2027.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-19T17:39+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd17b863b",
+   "sez": "ambiente",
+   "titolo": "Sperimentazioni agronomiche in Argentina riducono del cinquanta percento l'uso di erbicidi tramite colture di copertura",
+   "orig": "Cómo controlar a las malezas usando un 50 por ciento menos de herbicidas",
+   "lead": "I test condotti dall'ente INTA a Marcos Juárez dimostrano che l'uso mirato di colture di copertura consente di sopprimere fortemente le erbe infestanti, dimezzando l'impiego di prodotti chimici nei campi. Lo riferisce Clarín.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/rural/controlar-malezas-usando-50-ciento-herbicidas_0_9UBP0iakpq.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-19T17:41+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf239efe9",
+   "sez": "economia",
+   "titolo": "Previsioni di export record per il sorgo argentino verso la Cina grazie al calo produttivo in altre potenze",
+   "orig": "Boom a China: anticipan la exportación de 1,7 millones de toneladas de un cultivo argentino que caerá muy fuerte en dos potencias",
+   "lead": "I cali produttivi registrati in Stati Uniti e Australia aprono nuove opportunità commerciali per il sorgo argentino, con stime di esportazione verso la Cina pari a 1,7 milioni di tonnellate. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/economia/campo/boom-a-china-anticipan-la-exportacion-de-17-millones-de-toneladas-de-un-cultivo-argentino-que-caera-nid19102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-19T17:51+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0366044d",
+   "sez": "mondo",
+   "titolo": "Piena del fiume Paraná: avviata l'evacuazione preventiva di quindicimila capi di bestiame a Santa Fe",
+   "orig": "Crecida del Paraná: preparan el retiro de 15.000 vacas para que no se las lleve el agua",
+   "lead": "Le autorità locali hanno predisposto il trasferimento urgente di circa quindicimila mucche presenti nelle zone insulari di fronte al dipartimento di San Javier, nella provincia di Santa Fe, per proteggerle dalla piena del fiume. Lo riferisce La Nación.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/economia/campo/crecida-del-parana-preparan-el-retiro-de-15000-vacas-para-que-no-se-las-lleve-el-agua-nid19102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-19T17:48+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z497d30e2",
+   "sez": "mondo",
+   "titolo": "Il presidente cileno approva i nuovi vertici del comando dei Carabineros per l'anno del centenario",
+   "orig": "Presidente Kast aprueba conformación del Alto Mando de Carabineros para el año de su centenario",
+   "lead": "Il presidente cileno ha approvato la composizione del nuovo Alto Mando della polizia uniformata in vista del suo centenario, disponendo il pensionamento di otto generali e la promozione di altrettanti colonnelli. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/nacional/noticia/presidente-kast-aprueba-conformacion-del-alto-mando-de-carabineros-para-el-ano-de-su-centenario/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-19T17:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfd09e228",
+   "sez": "economia",
+   "titolo": "La modernizzazione della catena logistica e dei trasporti al centro delle sfide economiche del Cile",
+   "orig": "Radar LT | Chile enfrenta el desafío de modernizar su cadena de suministro",
+   "lead": "L'aumento dei costi petroliferi e di trasporto mette a rischio la competitività cilena, rendendo urgenti investimenti in electromobilità e nuove tecnologie per ottimizzare la catena di approvvigionamento. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/videos/noticia/radar-lt-chile-enfrenta-el-desafio-de-modernizar-su-cadena-de-suministro/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-19T17:52+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z972205c2",
+   "sez": "mondo",
+   "titolo": "Tensioni nella destra cilena dopo la partecipazione di esponenti del Partito Nacional Libertario a un evento politico",
+   "orig": "El día en que emplazó a Kast flanqueado por republicanos: la puesta en escena de Kaiser que incomodó a Chile Vamos",
+   "lead": "La presenza di rappresentanti vicini a Johannes Kaiser a una manifestazione commemorativa ha generato malumori all'interno di Chile Vamos, a causa delle richieste di indulto per gli ex militari avanzate durante l'atto. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/el-dia-en-que-emplazo-a-kast-flanqueado-por-republicanos-la-puesta-en-escena-de-kaiser-que-incomodo-a-chile-vamos/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-19T16:30+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zddb72458",
+   "sez": "mondo",
+   "titolo": "Attriti istituzionali in Cile tra il governo e la Controllore generale per la promulgazione di una megariforma",
+   "orig": "La tensa promulgación de la megarreforma que dejó a La Moneda y a la Contraloría al borde de un choque institucional",
+   "lead": "La promulgazione di una vasta riforma legislativa ha generato un duro scontro istituzionale a causa delle presunte incongruenze riscontrate dalla Controllore generale rispetto al testo approvato dal Parlamento. Lo riferisce La Tercera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/politica/noticia/megarreforma-en-el-limbo-tension-entre-la-moneda-y-contraloria-por-decreto-promulgatorio/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-19T16:28+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z69a6da5b",
+   "sez": "mondo",
+   "titolo": "Il Senato peruviano discute la delega di poteri legislativi all'esecutivo su sicurezza e fenomeno El Niño",
+   "orig": "EN VIVO: Comisión de Constitución del Senado debate sobre facultades delegadas al gobierno",
+   "lead": "La Commissione Costituzione del Senato peruviano ha proseguito una sessione straordinaria per dibattere sulla concessione di facoltà legislative straordinarie al governo in materia di sicurezza pubblica e gestione delle emergenze climatiche. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/politica/facultades-delegadas-en-vivo-comision-de-constitucion-del-senado-predictamen-pedido-del-gobierno-para-legislat-detalles-debate-incidentes-apuesplan-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-19T16:53+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z43be8828",
+   "sez": "mondo",
+   "titolo": "Elezioni municipali in Perù: l'ONPE diffonde i dati ufficiali parziali con lo sprutilamento oltre il novantacinque percento",
+   "orig": "ONPE al 95.442%: consulta aquí los resultados oficiales y ganadores de elecciones municipales",
+   "lead": "L'Ufficio Nazionale dei Processi Elettorali del Perù ha aggiornato i risultati ufficiali delle recenti elezioni municipali a Lima e nel resto del Paese raggiungendo il novantacinque percento dei voti scrutinati. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/elecciones/resultados-onpe-de-elecciones-regional-y-municipales-2026-en-vivo-conteo-oficial-hoy-cuando-llegara-el-conteo-al-100-quien-gano-las-elecciones-en-lima-y-peru-lbpositng-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-19T16:52+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3fe32313",
+   "sez": "mondo",
+   "titolo": "Si insedia la Commissione di Vicinanza Peruviano-Ecuatoriana alla presenza dei rispettivi ministri degli Esteri",
+   "orig": "Se instala la Comisión de Vecindad Peruano- Ecuatoriana: ¿De qué se trata y cuáles son los objetivos?",
+   "lead": "I ministri degli Esteri di Perù ed Ecuador, Carlos Espá e Roberto Kury Pesantes, hanno presieduto l'insediamento ufficiale della Commissione di Vicinanza bilaterale per promuovere la cooperazione tra i due Stati. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/politica/se-instala-la-comision-de-vecindad-peruano-ecuatoriana-de-que-se-trata-y-cuales-son-los-objetivos-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-19T16:50+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5af753bb",
+   "sez": "mondo",
+   "titolo": "Operazione congiunta tra Uruguay e Argentina permette di ritrovare un'adolescente scomparsa tramite l'Alerta Amber",
+   "orig": "Alerta Amber: cómo fue la operación conjunta con Argentina para dar con el paradero de la adolescente de Paysandú en Campana, cerca de Buenos Aires",
+   "lead": "Un'operazione congiunta tra le autorità uruguaiane e argentine ha consentito di rintracciare a Campana, vicino a Buenos Aires, un'adolescente di Paysandú scomparsa, trovata in compagnia di un uomo di trentasette anni che sarà estradato. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/alerta-amber-como-fue-la-operacion-conjunta-argentina-dar-el-paradero-la-adolescente-paysandu-campana-cerca-buenos-aires-n6060965",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-19T14:56-03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9b3128d7",
+   "sez": "mondo",
+   "titolo": "Partito Nazionale uruguaiano chiede la destituzione dei vertici della Jutep per presunte irregolarità",
+   "orig": "Blancos reunirán a la Coalición para pedir la destitución de autoridades de la Jutep por \"irregularidades e ilegalidades\"",
+   "lead": "Il Partido Nacional ha convocato la Coalizione Repubblicana per richiedere la rimozione della presidente e del vicepresidente dell'organismo anticorruzione Jutep, accusati di aver agito fuori legge per fini politici. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/blancos-reuniran-la-coalicion-pedir-la-destitucion-autoridades-la-jutep-irregularidades-e-ilegalidades-n6060945",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-19T13:27-03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z28060024",
+   "sez": "mondo",
+   "titolo": "Proteste di lavoratori e pensionati della Pdvsa a Maracaibo per stipendi arretrati e piani sanitari",
+   "orig": "Trabajadores y jubilados de Pdvsa protestaron en Maracaibo por pagos pendientes y planes de salud",
+   "lead": "Lavoratori e pensionati della compagnia petrolifera statale Pdvsa hanno manifestato a Maracaibo per denunciare salari settimanali ridotti a pochi dollari e la cancellazione della copertura medica aziendale. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/trabajadores-y-jubilados-de-pdvsa-protestaron-en-maracaibo-por-pagos-pendientes-y-planes-de-salud/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-19T17:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf3c0c52d",
+   "sez": "mondo",
+   "titolo": "Venezuela: detenuto muore per mancanza di cure mediche a Zulia",
+   "orig": "OVP denuncia la muerte de un recluso por falta de atención médica en el antiguo retén de El Marite, Zulia",
+   "lead": "Il sessantottenne Jaime Alirio Vásquez Saldarriaga è deceduto nel carcere di El Marite, nello stato di Zulia, a causa della mancata assistenza medica per le sue gravi patologie. L'episodio è stato denunciato dall'Osservatorio Venezolano di Prisiones. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/ovp-denuncia-la-muerte-de-un-recluso-por-falta-de-atencion-medica-en-el-antiguo-reten-de-el-marite-zulia/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-19T17:13+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbb7fcb52",
+   "sez": "mondo",
+   "titolo": "Venezuela: nuovi blackout e sbalzi di tensione a Caracas e in diverse regioni",
+   "orig": "Nuevos bajones eléctricos afectan a Caracas y otras regiones del país",
+   "lead": "Nuovi cali di tensione e interruzioni della corrente elettrica hanno colpito Caracas e vari stati del Venezuela, tra cui Carabobo, Miranda, Monagas, Mérida e Trujillo. Gli utenti denunciano da settimane una situazione di costante emergenza energetica. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/nuevos-bajones-electricos-afectan-a-caracas-y-otras-regiones-del-pais/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-19T16:38+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6b2b3112",
+   "sez": "mondo",
+   "titolo": "Venezuela: Nicolás Maduro e Cilia Flores rischiano una condanna minima di 50 anni",
+   "orig": "Nicolás Maduro y Cilia Flores podrían enfrentar una condena mínima de 50 años de cárcel",
+   "lead": "Il presidente venezuelano Nicolás Maduro e Cilia Flores potrebbero affrontare una pena detentiva non inferiore a cinquant'anni, secondo gli elementi probatori presentati dai pubblici ministeri statunitensi. La strategia di immunità della difesa incontra forti limiti politici. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/nicolas-maduro-y-cilia-flores-podrian-enfrentar-una-condena-minima-de-50-anos-de-carcel/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-19T15:41+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zca759c54",
+   "sez": "mondo",
+   "titolo": "Bolivia: sequestrati 43 veicoli di lusso a Santa Cruz, il presidente interroga la sicurezza",
+   "orig": "Paz pregunta “¿en qué manos estábamos?” tras valorar el secuestro de 43 vehículos de alta gama en Santa Cruz",
+   "lead": "Il sequestro di 43 automobili di alta gamma a Santa Cruz, in Bolivia, ha spinto il presidente a denunciare intimidazioni mafiose contro i giudici. La polizia sta accertando la provenienza dei mezzi e i possibili legami con ex procuratori. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/paz-pregunta-manos-estabamos-valorar-secuestro-43-vehiculos-alta-gama-santa-cruz_1792428217",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T16:43+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf2acc3c3",
+   "sez": "mondo",
+   "titolo": "Bolivia: promulgata la legge di riforma della giustizia con fondi internazionali",
+   "orig": "Paz promulga ley y busca fondos para reformar la justicia",
+   "lead": "Il governo boliviano ha promulgato una nuova normativa per avviare la riforma del sistema giudiziario a partire da gennaio, attingendo anche a depositi giudiziari non reclamati e a risorse finanziate a Panama. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/paz-promulga-ley-busca-fondos-reformar-justicia_1792427880",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T16:38+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbffe09ae",
+   "sez": "mondo",
+   "titolo": "Bolivia: il governatore di Santa Cruz in missione all'estero per progetti strategici",
+   "orig": "JP Velasco buscará financiamiento en España, Italia y Georgia para proyectos estratégicos de Santa Cruz",
+   "lead": "Il governatore boliviano JP Velasco intraprenderà un viaggio di una settimana in Europa e Georgia per attrarre finanziamenti e tecnologie destinate al trasporto metropolitano, ai distretti tecnologici e alla sicurezza locale. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/jp-velasco-buscara-financiamiento-espana-italia-georgia-proyectos-estrategicos-santa-cruz_1792426566",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T16:16+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0679df95",
+   "sez": "mondo",
+   "titolo": "Bolivia: annunciato un volo esplorativo di Ecojet verso Potosí",
+   "orig": "Anuncian vuelo exploratorio de Ecojet a Potosí para el 10 de noviembre",
+   "lead": "La compagnia Ecojet effettuerà un volo di prova il prossimo 10 novembre per testare le condizioni operative sullo scalo di Potosí, in vista dell'apertura di rotte regolari e di un collegamento diretto con Viru Viru. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/economia/anuncian-vuelo-exploratorio-ecojet-potosi-10-noviembre_1792426032",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T16:07+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z08cada51",
+   "sez": "mondo",
+   "titolo": "Bolivia: Hugo Dellien guadagna dieci posizioni nel ranking ATP",
+   "orig": "Dellien escaló 10 posiciones en el ranking ATP y se acerca al top 100",
+   "lead": "Il tennista boliviano Hugo Dellien è salito al centodiciottesimo posto della classifica mondiale ATP, avvicinandosi alla top 100 grazie alla finale raggiunta nel torneo Bolivia Open disputato a Santa Cruz. Lo riferisce El Deber.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/deportes/dellien-escalo-10-posiciones-ranking-atp-acerca-top-100_1792425954",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T16:06+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zab083825",
+   "sez": "mondo",
+   "titolo": "Costa Rica: pazienti costretti ad attendere per giorni sulle sedie nell'ospedale di Liberia",
+   "orig": "Hospital de Liberia atribuye a infraestructura y crisis de especialistas que pacientes deban esperar en una silla por hasta una semana",
+   "lead": "Gravi carenze infrastrutturali e di personale specializzato costringono i pazienti dell'ospedale di Liberia, in Costa Rica, a trascorrere intere giornate seduti su sedie di metallo a causa della mancanza di barelle. Lo riferisce La Nación CR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-pais/hospital-de-liberia-atribuye-a-infraestructura-y/CDE27ALY6RCGNHTB34JOPXDXIM/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T17:43+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze3daece6",
+   "sez": "mondo",
+   "titolo": "Cile: un centinaio di arresti e feriti nelle proteste per l'anniversario dell'estallido social",
+   "orig": "Protestas en Chile dejan 110 detenidos en aniversario del estallido social",
+   "lead": "Le manifestazioni organizzate in Cile per commemorare l'anniversario del cosiddetto estallido social hanno provocato circa centodieci arresti e diciotto feriti tra le forze dell'ordine e i partecipanti, secondo i dati ufficiali. Lo riferisce La Nación CR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-mundo/protestas-en-chile-dejan-110-detenidos-en/K3H3TKXGVJFPZISR3I2HYRKC2Q/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T17:41+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z57378a3d",
+   "sez": "mondo",
+   "titolo": "Costa Rica: problemi di formazione per il Saprissa in vista della trasferta in Salvador",
+   "orig": "A Saprissa se le presenta un gran problema antes de viajar a El Salvador",
+   "lead": "La squadra costaricana del Saprissa affronta criticità logistiche e sportive prima della partenza per El Salvador, dove mercoledì affronterà il Luis Ángel Firpo per conquistare l'accesso alla Coppa dei Campioni Concacaf. Lo riferisce La Nación CR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/puro-deporte/a-saprissa-se-le-presenta-un-gran-problema-antes/W7LOSTANAVCXHLGXCIWC444VJE/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T17:33+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z590c99df",
+   "sez": "mondo",
+   "titolo": "Costa Rica: scontro nella Corte Suprema sulla possibile rieletta del fiscal general Carlo Díaz",
+   "orig": "Magistrado Jorge Araya en discusión previa a reelección de Carlo Díaz: Usted es un obstáculo para algunos malos costarricenses",
+   "lead": "Durante l'esame del rapporto annuale di lavoro del procuratore generale Carlo Díaz, la Corte Plena della Costa Rica ha aperto un dibattito sulla sua riconferma, segnato da forti divergenze tra i magistrati. Lo riferisce La Nación CR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/sucesos/corte-plena-discute-reeleccion-de-carlo-diaz-como/5NUJ2J3GNZG4LJGBN6EOXMEZHE/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T17:31+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8a702dfe",
+   "sez": "mondo",
+   "titolo": "Porto Rico ospiterà la 75ª edizione di Miss Universo nel 2026",
+   "orig": "¿Cuándo es el Miss Universo 2026?",
+   "lead": "L'isola di Porto Rico è stata scelta come sede ufficiale per la settantacinquesima edizione del concorso di bellezza Miss Universo 2026, mentre Mariale Acosta si prepara a rappresentare le aspirazioni della Costa Rica. Lo riferisce La Nación CR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/viva/cuando-es-el-miss-universo-2026/TMJ2CAMAPJGC7A6UOKUJ2FWMAA/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T17:25+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "za91d355b",
+   "sez": "mondo",
+   "titolo": "Ecuador: la Procura punta a dimostrare il traffico di influenze degli ex membri del Consiglio della Magistratura",
+   "orig": "Fiscalía asegura que probará que los exvocales de la Judicatura Maribel Barreno y Juan José Morillo intervinieron en un tráfico de influencias",
+   "lead": "La pubblica accusa ecuadoriana sostiene di avere le prove per dimostrare il coinvolgimento degli ex consiglieri Maribel Barreno e Juan José Morillo in un episodio di traffico di influenze volto a favorire l'ex presidente legislativa Guadalupe Llori. Lo riferisce El Universo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/expedientes/fiscalia-asegura-probara-exvocales-judicatura-maribel-barreno-juan-jose-morillo-intervinieron-trafico-influencias-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-19T17:16+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7f88f63a",
+   "sez": "mondo",
+   "titolo": "Paraguay: la pugilista Minerva Montiel compie un passo decisivo verso i Giochi di Lima 2027",
+   "orig": "Boxeo: Minerva Montiel da un paso clave hacia Lima 2027",
+   "lead": "L'atleta paraguayana Minerva Montiel ha ottenuto un risultato di rilievo nel suo percorso di qualificazione per la rassegna continentale di pugilato in vista dei Giochi Panamericani di Lima 2027. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/polideportivo/2026/10/19/boxeo-minerva-montiel-da-un-paso-clave-hacia-lima-2027/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-19T17:45+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze702b0c1",
+   "sez": "mondo",
+   "titolo": "Paraguay: oltre cento famiglie colpite dalle inondazioni nel dipartimento di Misiones",
+   "orig": "Más de 100 familias afectadas por las inundaciones en Panchito López",
+   "lead": "La piena del fiume Paraná ha provocato l'allagamento di abitazioni e disagi per oltre un centinaio di nuclei familiari nella località di Panchito López, situata nel distretto di Yabebyry, nel dipartimento di Misiones. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/clima/2026/10/19/mas-de-100-familias-afectadas-por-las-inundaciones-en-panchito-lopez/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-19T17:39+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z87cce5d6",
+   "sez": "mondo",
+   "titolo": "Andorra: una cinquantina di persone manifesta per chiedere un referendum",
+   "orig": "Mig centenar de persones es concentren per reclamar el referèndum",
+   "lead": "Circa cinquanta persone si sono radunate ad Andorra la Vella per sollecitare l'indizione di una consultazione referendaria, con la partecipazione di esponenti politici come Cerni Escalé, Carine Montaner e Joan Torra. Lo riferisce Diari d'Andorra.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261019/mig-centenar-persones-concentren-per-reclamar-referendum_206858.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-19T19:19+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7b62c7b0",
+   "sez": "mondo",
+   "titolo": "Andorra: i vigili del fuoco sospendono le proteste dopo l'intesa con il governo",
+   "orig": "Els bombers tornaran a fer hores extra després d'un acord amb el Govern",
+   "lead": "Il sindacato dei vigili del fuoco SIB A118 ha approvato a maggioranza la fine delle mobilitazioni in seguito a un accordo raggiunto con l'esecutivo andorrano, pur chiedendo un calendario certo per l'attuazione degli impegni. Lo riferisce Diari d'Andorra.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261019/els-bombers-aixequen-les-mesures-protesta-despres-d-arribar-acord-amb-govern_206855.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-19T17:42+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd7964c31",
+   "sez": "mondo",
+   "titolo": "Monaco: il Consiglio nazionale denuncia i continui guasti a scale mobili e ascensori pubblici",
+   "orig": "« On en a encore 52 à rénover, c’est trop » : à Monaco, l’urgence de la rénovation des escalators et ascenseurs vieillissants souvent victimes de pannes",
+   "lead": "Durante i dibattiti sul bilancio nel Principato di Monaco, i consiglieri nazionali hanno evidenziato la frequenza dei guasti agli impianti di mobilità verticale, che ostacolano gli spostamenti delle persone con disabilità. Il governo ha ammesso la necessità di accelerare i piani di rinnovamento. Lo riferisce Monaco Matin.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/societe/transports/on-en-a-encore-52-a-renover-c-est-trop-a-monaco-l-urgence-de-la-renovation-des-escalators-et-ascenseurs-vieillissants-souvent-victimes-de-pannes-10743340",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-19T18:15+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z71636d67",
+   "sez": "mondo",
+   "titolo": "Andorra e Repubblica Ceca celebrano a Praga trent'anni di relazioni diplomatiche",
+   "orig": "Tor i Bonell commemoren a Praga els 30 anys de relacions diplomàtiques entre Andorra i la República Txeca",
+   "lead": "I rappresentanti istituzionali di Andorra e della Repubblica Ceca si sono incontrati a Praga per celebrare il trentesimo anniversario dall'avvio dei rapporti diplomatici bilaterali, confermando la cooperazione tra i due Stati. Lo riferisce Bondia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/politica/tor-i-bonell-commemoren-a-praga-els-30-anys-de-relacions-diplomatiques-entre-andorra-i-la-republica-txeca",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-19T19:21+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9ce227a0",
+   "sez": "mondo",
+   "titolo": "Andorra: il sindacato dei pompieri revoca la mobilitazione dopo le aperture dell'esecutivo",
+   "orig": "Els bombers abandonen per majoria les accions de protesta",
+   "lead": "La maggioranza degli iscritti al sindacato SIB A118 di Andorra ha deciso di interrompere le proteste sindacali, valutando favorevolmente le garanzie e le promesse formali espresse dal governo del Principato. Lo riferisce Bondia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/els-bombers-abandonen-per-majoria-les-accions-de-protesta",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-19T19:12+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1a8eb8bf",
+   "sez": "mondo",
+   "titolo": "Andorra: un esperto lancia l'allarme sui rischi di depressione legati all'uso degli schermi",
+   "orig": "Un expert alerta de la relació entre pantalles i depressió",
+   "lead": "Nel corso di un seminario informativo promosso dalla Creand Fundació ad Andorra, un esperto del settore ha illustrato le correlazioni scientifiche esistenti tra l'eccessiva esposizione ai dispositivi digitali e l'insorgenza di disturbi depressivi. Lo riferisce Bondia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/un-expert-alerta-de-la-relacio-entre-pantalles-i-depressio",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-19T18:57+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9a628a47",
+   "sez": "mondo",
+   "titolo": "Andorra: la futura sottostazione elettrica di Adrall sarà operativa tra il 2009 e il 2030",
+   "orig": "La subestació elèctrica d’Adrall donarà servei a Andorra entre 2029 i 2030",
+   "lead": "I lavori per la realizzazione della nuova sottostazione elettrica di Adrall procedono con l'obiettivo di integrarsi nella rete di approvvigionamento energetico di Andorra a cavallo tra la fine del decennio e l'inizio del prossimo. Lo riferisce Bondia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/la-subestacio-electrica-d-adrall-donara-servei-a-andorra-entre-2029-i-2030",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-19T18:14+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z105e26a9",
+   "sez": "mondo",
+   "titolo": "Andorra: festeggiati a La Massana i venticinque anni degli orti sociali per anziani",
+   "orig": "Una cinquantena de pàdrins celebren els 25 anys dels horts socials a la Massana",
+   "lead": "Circa cinquanta anziani residenti nella parrocchia di La Massana hanno celebrato il venticinquesimo anniversario degli orti sociali locali partecipando a un evento commemorativo arricchito da un laboratorio di compostaggio. Lo riferisce Bondia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/una-cinquantena-de-padrins-celebren-els-25-anys-dels-horts-socials-a-la-massana",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-19T17:59+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
    "id": "zbb57bc3b",
    "sez": "mondo",
    "titolo": "Tribunale brasiliano ordina a Meta di garantire parità di trattamento a Lula e Bolsonaro",
@@ -4629,30 +6640,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zc7326b90",
-   "sez": "musica",
-   "titolo": "Da Ricky Martin a Milo J: la crescita della musica latina analizzata alla Latin Music Week 2026",
-   "orig": "From Ricky Martin to Milo J: Tommy Mottola & Alex Gallardo Explain How Latin Music Went From ‘Underdog’ to Global Powerhouse",
-   "lead": "Durante la Latin Music Week 2026, il presidente di Mottola Media Group e di Sony Music U.S. Latin, Alex Gallardo, insieme a Tommy Mottola, sono intervenuti per illustrare l'evoluzione della musica latina, passata da genere di nicchia a fenomeno di rilevanza globale. Lo riferisce Billboard.",
-   "more": [
-    "La musica latina ha registrato una crescita esponenziale nei mercati internazionali grazie anche alle piattaforme di streaming digitale e alle collaborazioni artistiche globali."
-   ],
-   "fonti": [
-    {
-     "n": "Billboard",
-     "p": "US",
-     "c": "Los Angeles",
-     "u": "https://www.billboard.com/music/latin/tommy-mottola-alex-gallardo-latin-music-global-rise-1236362780/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-19T16:58+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:09",
-   "uscita": "sera"
-  },
-  {
    "id": "zce0370e1",
    "sez": "salute",
    "titolo": "Divario di mortalità per tumore al seno tra pazienti rurali e urbani in crescita prevista per il 2035",
@@ -5253,6 +7240,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-10-19T16:59+00:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/el-deportivo/noticia/el-duro-castigo-que-podria-recibir-el-manchester-city-por-infringir-el-fair-play-financiero/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-19T16:04+00:00"
     }
    ],
    "data": "19 ott",
@@ -7853,6 +9849,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Russia",
      "t": "2026-10-19T18:57+03:00"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344832/orbital-stalking-russische-satelliten-stellen-westlichem-iceye-x36-nach?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T16:43+00:00"
     }
    ],
    "data": "19 ott",
@@ -12421,7 +14426,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zb9d2d4b2",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Proteste in Francia: il governo annuncia coprifuoco localizzati e cassa integrazione per i commercianti danneggiati",
    "orig": "\"Acte II\" le 24 octobre, mobilisation le 5 novembre ... À quoi s'attendre pour la suite du mouvement ?",
    "lead": "A seguito delle violenze e dei saccheggi che hanno colpito almeno tremila esercizi commerciali durante le manifestazioni del fine settimana del 17 ottobre 2026, il primo ministro francese Sébastien Lecornu ha annunciato di aver chiesto ai prefetti di introdurre coprifuoco parziali e localizzati a partire da lunedì sera per proteggere le attività. I commercianti danneggiati potranno inoltre beneficiare di misure di cassa integrazione parziale da martedì 20 ottobre. Nel frattempo, i gilet gialli hanno indetto un \"atto II\" per sabato 24 ottobre e nuove mobilitazioni per il 31 ottobre, mentre i sindacati confermano una grande protesta nazionale per il 5 novembre. Lo riferisce France 24.",
@@ -12500,6 +14505,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-19T12:20+00:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/proteste-in-frankreich-eskalieren-regierung-plant-ausgangssperren-ld.10038248",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T15:59+00:00"
     }
    ],
    "data": "19 ott",
@@ -13920,6 +15934,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-19T12:00+00:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-casta-la-alta-politica-los-empresaurios-y-los-periodistas-no-nid19102026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-19T17:50+00:00"
     }
    ],
    "data": "19 ott",
@@ -13953,6 +15976,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-19T17:14+00:00"
+    },
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/latin/tommy-mottola-alex-gallardo-latin-music-global-rise-1236362780/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T16:58+00:00"
     }
    ],
    "data": "19 ott",
@@ -17662,6 +19694,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-19T19:56+02:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/live/2026/10/19/en-direct-guerre-en-ukraine-un-sommet-russo-americano-chinois-ne-ferait-qu-alimenter-l-appetit-de-grandeur-de-vladimir-poutine-juge-le-ministre-des-affaires-etrangeres-ukrainien_6796922_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T19:49+02:00"
     }
    ],
    "data": "19 ott",
@@ -21925,6 +23966,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-19T14:42+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/medio-oriente/crisis-alimentaria-en-gaza-la-onu-recorta-ayudas-y-deja-a-500-000-personas-sin-asistencia-mensual-por-falta-de-fondos-3594600",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-19T10:31-05:00"
     }
    ],
    "data": "19 ott",
@@ -24841,7 +26891,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zef4c1c17": "La testata evidenzia l'ingresso dei nuovi membri nella prestigiosa istituzione della musica country.",
   "z012f8104": "La testata evidenzia l'importanza della vicinanza alle aree verdi per la pianificazione urbana e la salvaguardia della salute cerebrale.",
   "za6f23c10": "La testata evidenzia le difficoltà burocratiche e legislative che i commercianti affrontano per ottenere i risarcimenti dopo le violenze.",
-  "zc7326b90": "La testata evidenzia l'ascesa globale del genere latino attraverso le riflessioni dei massimi dirigenti discografici.",
   "zce0370e1": "La testata evidenzia il divario persistente e crescente nella mortalità oncologica legata al fattore geografico.",
   "z6861be01": "La testata evidenzia il mantenimento dell'imbattibilità e la prestazione vincente del club nella competizione regionale.",
   "zacd939c4": "La testata evidenzia la diffusione transnazionale delle proteste giovanili e le motivazioni socio-economiche alla base del malcontento.",
@@ -25095,7 +27144,98 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zed9ad4df": "La testata fornisce un resoconto dettagliato delle tensioni di piazza e delle contromisure adottate dalle autorità di polizia.",
   "zc6822aef": "Il portale d'informazione segue con regolarità gli aggiornamenti del comparto scolastico e amministrativo del Paese.",
   "zb25778bb": "Il sito web dà ampio spazio alla denuncia politica e alla tutela dei diritti dei minori nei contesti scolastici.",
-  "z0aaadefd": "La testata segue l'evoluzione giudiziaria e la reazione delle famiglie in merito allo scandalo che ha coinvolto la scuola."
+  "z0aaadefd": "La testata segue l'evoluzione giudiziaria e la reazione delle famiglie in merito allo scandalo che ha coinvolto la scuola.",
+  "zc8a33a43": "La testata evidenzia le tensioni istituzionali legate alla richiesta di maggiore trasparenza nella pubblica amministrazione.",
+  "z93f1f432": "Il giornale riporta la smentita ufficiale per fare chiarezza sulle dinamiche interne al movimento.",
+  "z8bdc2826": "La testata sottolinea il ruolo cruciale del partenariato confessionale nel miglioramento dei servizi sanitari.",
+  "z83694274": "La testata pone l'accento sulle frizioni diplomatiche tra Mogadiscio e i Paesi vicini in seguito alle recenti dinamiche militari.",
+  "z0720b60a": "La testata valorizza l'innovazione sociale nel settore della moda di lusso.",
+  "ze79f85d4": "Il giornale focalizza l'attenzione sulla sicurezza e sui diritti dei lavoratori nel trasporto transfrontaliero.",
+  "zdc3f7c6e": "La testata celebra l'imprenditoria femminile e le iniziative di sviluppo economico locale.",
+  "zc2bfe03f": "La testata ricorda la ricorrenza storica legata all'identità e allo sviluppo del Paese.",
+  "z3340e08e": "La testata informa i visitatori sullo stato dei siti turistici e naturali dopo il maltempo.",
+  "zf36815f8": "La testata offre una riflessione storico-culturale sul patrimonio archeologico nazionale.",
+  "z47ef9d63": "La testata analizza le criticità del mercato del lavoro e le strategie statali di formazione.",
+  "ze9e55d8b": "La testata esamina il valore socioculturale delle festività patriottiche per la coesione sociale.",
+  "z33368147": "La testata si concentra sulla lotta democratica dell'opposizione venezuelana dall'estero.",
+  "zb178a838": "La testata analizza i limiti strutturali e le difficoltà finanziarie dell'economia camerunese.",
+  "zd825f062": "La testata segue i cambiamenti istituzionali all'interno del sistema giudiziario boliviano.",
+  "zedd5b5dd": "La testata pone l'accento sulla richiesta di trasparenza politica di fronte a presunti scandali.",
+  "z9fa2ae37": "La testata monitora l'estensione delle proteste sociali e la risposta del governo francese.",
+  "ze8e12616": "La testata evidenzia l'impegno anticorruzione annunciato dalla nuova guida istituzionale.",
+  "z5084cc01": "La testata segue l'evoluzione delle tensioni commerciali e sindacali alle frontiere.",
+  "zd4bd3226": "La testata adotta una prospettiva analitica sull'evoluzione politica e diplomatica della leadership italiana.",
+  "z7fdef05a": "La testata si focalizza sulle riforme scolastiche e sulle criticità del sistema di orientamento universitario.",
+  "z65233874": "La testata analizza l'impatto materiale e finanziario delle violenze urbane sulle infrastrutture cittadine.",
+  "z254a05fd": "La testata decodifica la strategia elettorale della destra nazionalista in risposta ai disordini urbani.",
+  "z69691a4c": "La testata offre un dibattito sociologico e politico sulle radici culturali dei disordini nelle periferie.",
+  "ze8b830ab": "La testata commenta con toni critici l'effetto politico dei disordini sulla crescita dei consensi per la destra.",
+  "z3af5bc78": "La testata esamina i rischi economici e sociali di una rottura sindacale nella gestione della crisi aziendale.",
+  "za4ce060c": "La testata copre le tensioni e le polemiche incrociate tra i partiti della coalizione e dell'opposizione tedesca.",
+  "z40d34d5c": "La testata racconta un episodio di costume e di protocollo reale con un taglio leggero.",
+  "z98a5f6b6": "Il quotidiano evidenzia il doppio standard e le contraddizioni interne al movimento giovanile conservatore tedesco.",
+  "z875c2548": "Il giornale segue i progressi investigativi su un cold case che ha segnato l'opinione pubblica bavarese.",
+  "z369ebe45": "La testata analizza le tensioni tra i vertici locali e la base federale dei partiti di governo.",
+  "zddd7ff80": "Il quotidiano offre un'analisi geopolitica sulle dinamiche transatlantiche e le difficoltà future dell'Europa.",
+  "z14b6777f": "Il giornale sportivo registra il cambio in panchina conseguente al deludente risultato di coppa.",
+  "z405eada2": "La testata analizza le ripercussioni elettorali della spaccatura a sinistra sugli equilibri di governo.",
+  "z53837654": "Il quotidiano riporta l'avviso ufficiale delle autorità di polizia sulla gestione degli insediamenti urbani irregolari.",
+  "zd9f9ba63": "Il giornale svizzero analizza la degenerazione dell'ordine pubblico e la tenuta della leadership francese.",
+  "z3fd6f514": "Il quotidiano elvetico approfondisce le divisioni politiche in vista delle prossime scadenze referendarie.",
+  "z60e28ccb": "La testata offre una panoramica comparata sul malcontento giovanile e i disordini in Europa.",
+  "z7f54cd35": "Il quotidiano esamina le difficoltà interne all'SVP nella selezione dei propri rappresentanti istituzionali.",
+  "z469cad75": "Il commento della testata critica l'approccio ideologico della sinistra berlinese sui temi della sicurezza.",
+  "zfa7f9d09": "Il quotidiano analizza la portata e i limiti della misura finanziaria promossa dai popolari austriaci.",
+  "z413ae0d2": "La testata rilancia l'allarme lanciato dall'ex leader politico sulla sicurezza urbana.",
+  "zf12adfbf": "Il giornale evidenzia le criticità nei controlli e nella regolamentazione del servizio taxi viennese.",
+  "zb6132cbc": "Il quotidiano svedese segue la campagna elettorale e la mobilitazione giovanile nei Balcani.",
+  "zdb6612f8": "La testata analizza la discrepanza tra la percezione del rischio informatico e i dati ufficiali di notifica.",
+  "zabd8ad3d": "Il commento politico esamina i dilemmi strategici dei centristi svedesi nella formazione di alleanze.",
+  "z46b25cc5": "L'emittente polacca riferisce le dichiarazioni ufficiali del leader ucraino sulle criticità nella catena degli aiuti militari.",
+  "zf8d4daf0": "La testata polacca evidenzia l'impatto e la scarsa spesa economica necessaria per condurre attacchi informatici avanzati tramite l'IA.",
+  "zbef48687": "L'articolo analizza in chiave critica le tensioni politiche attorno agli organi costituzionali del Paese.",
+  "z805de5ca": "Il reportage sottolinea il gesto simbolico di austerità scelto dalla nuova amministrazione comunale.",
+  "zf0b6b592": "Il quotidiano finanziario brasiliano segue gli sviluppi societari e legali legati ai diritti economici in contesa.",
+  "z6a75ad2f": "La testata evidenzia la rilevanza culturale ed economica dell'intesa commerciale tra i due giganti dell'intrattenimento.",
+  "zcac8a69a": "Il commento analizza criticamente lo scadimento del confronto politico nei media nazionali.",
+  "z9de64df7": "Il portale d'informazione brasiliano monitora i dati finanziari e l'iter istituzionale dei conti pubblici comunali.",
+  "zd17b863b": "La testata argentina valorizza le innovazioni tecnologiche e agronomiche per un'agricoltura più sostenibile ed efficiente.",
+  "zf239efe9": "Il quotidiano economico argentino analizza le dinamiche dei mercati internazionali e le opportunità per la filiera agricola locale.",
+  "z0366044d": "La testata monitora l'emergenza ambientale e le misure di protezione per il settore zootecnico.",
+  "z497d30e2": "Il quotidiano cileno segue i cambiamenti strutturali e le nomine all'interno delle forze di sicurezza nazionali.",
+  "zfd09e228": "L'analisi economica approfondisce le criticità infrastrutturali e le soluzioni innovative per il settore dei trasporti.",
+  "z972205c2": "Il quotidiano esamina gli equilibri politici e le divisioni all'interno dell'opposizione conservatrice.",
+  "zddb72458": "La testata analizza la crisi procedurale e i rapporti tesi tra gli organi di controllo e l'esecutivo.",
+  "z69a6da5b": "La testata peruviana segue i lavori parlamentari e il confronto istituzionale sulle competenze governative.",
+  "z43be8828": "Il giornale offre aggiornamenti costanti sullo spoglio elettorale e sui vincitori delle consultazioni locali.",
+  "z3fe32313": "La copertura evidenzia i rapporti diplomatici e i progetti di integrazione regionale tra i Paesi andini.",
+  "z5af753bb": "Il quotidiano uruguaiano segue gli aspetti di cooperazione internazionale di polizia nella risoluzione del caso.",
+  "z9b3128d7": "La testata analizza la mossa politica dell'alleanza di governo e le tensioni attorno agli enti di controllo istituzionale.",
+  "z28060024": "Il giornale venezuelano documenta il disagio sociale e le proteste sindacali contro la crisi economica e previdenziale.",
+  "zf3c0c52d": "Riflettori puntati sulle gravi condizioni igienico-sanitarie e di abbandono medico nelle carceri venezuelane.",
+  "zbb7fcb52": "Denuncia dei disservizi infrastrutturali quotidiani che colpiscono la popolazione in tutto il Paese.",
+  "z6b2b3112": "Attenzione focalizzata sulle conseguenze giudiziarie internazionali per i vertici del regime venezuelano.",
+  "zca759c54": "Focus sulle infiltrazioni mafiose e sulla corruzione all'interno del sistema giudiziario e investigativo.",
+  "zf2acc3c3": "Riflettori sulle manovre istituzionali ed economiche per risanare il settore giudiziario nazionale.",
+  "zbffe09ae": "Attenzione sullo sviluppo regionale e sulla cooperazione diplomatica ed economica internazionale.",
+  "z0679df95": "Cronaca dei trasporti e dell'implementazione dei collegamenti aerei regionali.",
+  "z08cada51": "Notizia sportiva incentrata sui progressi internazionali degli atleti nazionali.",
+  "zab083825": "Denuncia giornalistica sulle carenze strutturali del sistema sanitario pubblico costaricano.",
+  "ze3daece6": "Monitoraggio delle tensioni sociali e dell'ordine pubblico durante le ricorrenze politiche.",
+  "z57378a3d": "Cronaca calcistica orientata agli impegni internazionali dei club della regione.",
+  "z590c99df": "Focus sulle dinamiche istituzionali e giudiziarie di vertice all'interno della magistratura.",
+  "z8a702dfe": "Notizia di costume e intrattenimento internazionale legata agli eventi globali.",
+  "za91d355b": "Aggiornamento giudiziario sui processi per corruzione politica e abusi d'ufficio nel Paese.",
+  "z7f88f63a": "Focus sulle performance degli sportivi emergenti in ambito internazionale.",
+  "ze702b0c1": "Cronaca degli eventi climatici avversi e dei danni provocati dalle esondazioni fluviali.",
+  "z87cce5d6": "Attenzione sulla vita politica locale e sulle rivendicazioni istituzionali nel Principato.",
+  "z7b62c7b0": "Monitoraggio delle vertenze sindacali e dei rapporti tra categorie professionali e istituzioni.",
+  "zd7964c31": "Attenzione focalizzata sull'efficienza delle infrastrutture pubbliche e sull'accessibilità urbana.",
+  "z71636d67": "Cronaca diplomatica incentrata sugli anniversari di cooperazione internazionale.",
+  "z9ce227a0": "Copertura delle relazioni industriali e della risoluzione dei conflitti di lavoro nel settore pubblico.",
+  "z1a8eb8bf": "Attenzione posta sui temi della salute mentale e dell'impatto delle nuove tecnologie sulla gioventù.",
+  "z9a628a47": "Notizie sullo sviluppo energetico e sulle infrastrutture transfrontaliere del Principato.",
+  "z105e26a9": "Cronaca di comunità focalizzata sulle iniziative di aggregazione sociale e sostenibilità locale."
  },
  "contesti": {
   "za5836191": "Dopo il cessate il fuoco e la tregua a Gaza, gli aiuti umanitari sono aumentati ma restano insufficienti rispetto ai bisogni della popolazione, segnata da mesi di conflitto, distruzioni e sfollamenti. Le agenzie Onu, incluso il Wfp, hanno più volte lanciato l'allarme sulla carenza di finanziamenti internazionali, costrette a razionare e ridurre progressivamente l'assistenza alimentare mentre la crisi umanitaria resta acuta.",
@@ -25632,6 +27772,32 @@ window.EDIZIONI["2026-10-19-sera"] = {
     }
    ],
    "divergono": "Le testate non divergono sui fatti di cronaca di base riportati, ma si differenziano per il livello di dettaglio e le fonti aggiuntive incluse. Il Sole 24 Ore e ANSA specificano ampiamente le dichiarazioni integrali e le reazioni dei legali dei familiari di David Rossi (che invitano alla cautela contro condanne sommarie), elementi assenti o non verificabili nelle versioni di la Repubblica e Rai News a causa del blocco dei testi integrali. Non emergono contraddizioni sulle responsabilità indicate dalla Commissione."
+  },
+  "zb9d2d4b2": {
+   "voci": [
+    {
+     "n": "Le Figaro",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "L'articolo è puramente informativo e cronachistico. Mette al centro le misure del premier Sébastien Lecornu dopo le violenze del 17 ottobre, citando cifre come «almeno 3000 commercianti» danneggiati. Indica come responsabili «l'ultragauche» e una nebulosa che punta a ostacolare la presidenza.",
+     "b": "a"
+    },
+    {
+     "n": "Le Matin Algérie",
+     "c": "Algeri",
+     "p": "XX",
+     "t": "Il pezzo riferisce in modo fattuale le proteste contro il carovita e le decisioni del governo francese. Cita le dichiarazioni del premier Lecornu sui «couvre-feux localisés» e la gestione dell'ordine pubblico, menzionando anche la richiesta di dimissioni del ministro dell'Interno Laurent Nuñez.",
+     "b": "a"
+    },
+    {
+     "n": "NZZ",
+     "c": "Zurigo",
+     "p": "XX",
+     "t": "Il testo analizza la genesi delle proteste iniziate a fine settembre 2026 come mobilitazioni scolastiche e trasformatosi in un movimento di massa. La testata adotta un tono descrittivo sui problemi storici di integrazione e sulla crisi finanziaria che costringe lo Stato a nuove misure.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le Figaro e Le Matin Algérie concordano nell'attribuire le decisioni al primo ministro Sébastien Lecornu e nel citare i coprifuoco localizzati e gli aiuti ai commercianti, pur differendo nei dettagli accessori: Le Matin Algérie menziona la gestione dei gilets jaunes e il rifiuto delle dimissioni del ministro dell'Interno Laurent Nuñez, mentre Le Figaro si concentra maggiormente sui danni subiti dai negozi e sulle accuse ai gruppi dell'ultrasinistra. La NZZ svizzera si distingue nettamente, offrendo un quadro strutturale di lungo periodo che retrodata l'inizio delle proteste alla fine di settembre 2026 e analizza le difficoltà economiche e scolastiche complessive della Francia, senza menzionare i coprifuoco annunciati il 19 ottobre."
   }
  },
  "luoghi": {
@@ -30390,13 +32556,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "zc7326b90": {
-   "n": "Miami",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zce0370e1": {
    "n": "Atlanta",
    "p": [
@@ -32203,6 +34362,649 @@ window.EDIZIONI["2026-10-19-sera"] = {
     "Ghana"
    ],
    "pt": []
+  },
+  "zc8a33a43": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z93f1f432": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z8bdc2826": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z83694274": {
+   "n": "Mogadiscio",
+   "p": [
+    "Somalia",
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z0720b60a": {
+   "n": "Gaborone",
+   "p": [
+    "Botswana"
+   ],
+   "pt": []
+  },
+  "ze79f85d4": {
+   "n": "Gaborone",
+   "p": [
+    "Botswana",
+    "Mozambique",
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zdc3f7c6e": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "zc2bfe03f": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "z3340e08e": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "zf36815f8": {
+   "n": "Belmopan",
+   "p": [
+    "Belize"
+   ],
+   "pt": []
+  },
+  "z47ef9d63": {
+   "n": "Nassau",
+   "p": [
+    "Bahamas"
+   ],
+   "pt": []
+  },
+  "ze9e55d8b": {
+   "n": "St. George's",
+   "p": [
+    "Grenada"
+   ],
+   "pt": []
+  },
+  "z33368147": {
+   "n": "Madrid",
+   "p": [
+    "Spain",
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zb178a838": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "zd825f062": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zedd5b5dd": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z9fa2ae37": {
+   "n": "La Paz",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze8e12616": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z5084cc01": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia",
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zd4bd3226": {
+   "n": "Parigi",
+   "p": [
+    "France",
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7fdef05a": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z65233874": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z254a05fd": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z69691a4c": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze8b830ab": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3af5bc78": {
+   "n": "Amburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "za4ce060c": {
+   "n": "Amburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z40d34d5c": {
+   "n": "Amburgo",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z98a5f6b6": {
+   "n": "Bonn",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z875c2548": {
+   "n": "Ratisbona",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z369ebe45": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zddd7ff80": {
+   "n": "Francoforte",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z14b6777f": {
+   "n": "Famalicão",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z405eada2": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z53837654": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zd9f9ba63": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3fd6f514": {
+   "n": "Berna",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z60e28ccb": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z7f54cd35": {
+   "n": "Berna",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z469cad75": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zfa7f9d09": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z413ae0d2": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zf12adfbf": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zb6132cbc": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zdb6612f8": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zabd8ad3d": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z46b25cc5": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zf8d4daf0": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zbef48687": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z805de5ca": {
+   "n": "Cracovia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zf0b6b592": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z6a75ad2f": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zcac8a69a": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z9de64df7": {
+   "n": "Manaus",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zd17b863b": {
+   "n": "Marcos Juárez",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zf239efe9": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z0366044d": {
+   "n": "Santa Fe",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z497d30e2": {
+   "n": "Santiago del Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zfd09e228": {
+   "n": "Santiago del Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z972205c2": {
+   "n": "Santiago del Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "zddb72458": {
+   "n": "Santiago del Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z69a6da5b": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z43be8828": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z3fe32313": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z5af753bb": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z9b3128d7": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z28060024": {
+   "n": "Maracaibo",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zf3c0c52d": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zbb7fcb52": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z6b2b3112": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zca759c54": {
+   "n": "Santa Cruz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zf2acc3c3": {
+   "n": "Santa Cruz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zbffe09ae": {
+   "n": "Santa Cruz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z0679df95": {
+   "n": "Santa Cruz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z08cada51": {
+   "n": "Santa Cruz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zab083825": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "ze3daece6": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z57378a3d": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z590c99df": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "z8a702dfe": {
+   "n": "San José",
+   "p": [
+    "Costa Rica"
+   ],
+   "pt": []
+  },
+  "za91d355b": {
+   "n": "Guayaquil",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z7f88f63a": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "ze702b0c1": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z87cce5d6": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z7b62c7b0": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zd7964c31": {
+   "n": "Monaco",
+   "p": [
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "z71636d67": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z9ce227a0": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z1a8eb8bf": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z9a628a47": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z105e26a9": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -32515,7 +35317,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zfe7fbb7f": 1,
   "zf5390b79": 1,
   "zb2b569d2": 1,
-  "z9817d663": 1,
+  "z9817d663": 2,
   "z123623dc": 1,
   "z3deb32bf": 1,
   "zc616f16b": 1,
@@ -32643,7 +35445,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z747a19c6": 1,
   "z2a9dbc17": 1,
   "z2931ec3d": 1,
-  "zb9d2d4b2": 1,
+  "zb9d2d4b2": 2,
   "zeedd5115": 1,
   "z047aadbc": 2,
   "zdea5eba5": 1,
@@ -32823,7 +35625,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zf411ede7": 1,
   "zf0918029": 1,
   "z45c0f5de": 1,
-  "zf7406cfe": 1,
+  "zf7406cfe": 2,
   "za3a197aa": 1,
   "zea1f5d38": 1,
   "z336ba82c": 1,
@@ -32881,7 +35683,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zef4c1c17": 1,
   "z012f8104": 1,
   "za6f23c10": 1,
-  "zc7326b90": 1,
   "zce0370e1": 1,
   "z6861be01": 1,
   "zacd939c4": 1,
@@ -32906,7 +35707,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zc79d70ce": 1,
   "zcdde5646": 1,
   "z518b2f9e": 1,
-  "z77bb7483": 1,
+  "z77bb7483": 2,
   "zfa21e731": 1,
   "z45a6c437": 1,
   "z42cb55c0": 1,
@@ -33135,7 +35936,98 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zed9ad4df": 1,
   "zc6822aef": 1,
   "zb25778bb": 1,
-  "z0aaadefd": 1
+  "z0aaadefd": 1,
+  "zc8a33a43": 1,
+  "z93f1f432": 1,
+  "z8bdc2826": 1,
+  "z83694274": 1,
+  "z0720b60a": 1,
+  "ze79f85d4": 1,
+  "zdc3f7c6e": 1,
+  "zc2bfe03f": 1,
+  "z3340e08e": 1,
+  "zf36815f8": 1,
+  "z47ef9d63": 1,
+  "ze9e55d8b": 1,
+  "z33368147": 1,
+  "zb178a838": 1,
+  "zd825f062": 1,
+  "zedd5b5dd": 1,
+  "z9fa2ae37": 1,
+  "ze8e12616": 1,
+  "z5084cc01": 1,
+  "zd4bd3226": 1,
+  "z7fdef05a": 1,
+  "z65233874": 1,
+  "z254a05fd": 1,
+  "z69691a4c": 1,
+  "ze8b830ab": 1,
+  "z3af5bc78": 1,
+  "za4ce060c": 1,
+  "z40d34d5c": 1,
+  "z98a5f6b6": 1,
+  "z875c2548": 1,
+  "z369ebe45": 1,
+  "zddd7ff80": 1,
+  "z14b6777f": 1,
+  "z405eada2": 1,
+  "z53837654": 1,
+  "zd9f9ba63": 1,
+  "z3fd6f514": 1,
+  "z60e28ccb": 1,
+  "z7f54cd35": 1,
+  "z469cad75": 1,
+  "zfa7f9d09": 1,
+  "z413ae0d2": 1,
+  "zf12adfbf": 1,
+  "zb6132cbc": 1,
+  "zdb6612f8": 1,
+  "zabd8ad3d": 1,
+  "z46b25cc5": 1,
+  "zf8d4daf0": 1,
+  "zbef48687": 1,
+  "z805de5ca": 1,
+  "zf0b6b592": 1,
+  "z6a75ad2f": 1,
+  "zcac8a69a": 1,
+  "z9de64df7": 1,
+  "zd17b863b": 1,
+  "zf239efe9": 1,
+  "z0366044d": 1,
+  "z497d30e2": 1,
+  "zfd09e228": 1,
+  "z972205c2": 1,
+  "zddb72458": 1,
+  "z69a6da5b": 1,
+  "z43be8828": 1,
+  "z3fe32313": 1,
+  "z5af753bb": 1,
+  "z9b3128d7": 1,
+  "z28060024": 1,
+  "zf3c0c52d": 1,
+  "zbb7fcb52": 1,
+  "z6b2b3112": 1,
+  "zca759c54": 1,
+  "zf2acc3c3": 1,
+  "zbffe09ae": 1,
+  "z0679df95": 1,
+  "z08cada51": 1,
+  "zab083825": 1,
+  "ze3daece6": 1,
+  "z57378a3d": 1,
+  "z590c99df": 1,
+  "z8a702dfe": 1,
+  "za91d355b": 1,
+  "z7f88f63a": 1,
+  "ze702b0c1": 1,
+  "z87cce5d6": 1,
+  "z7b62c7b0": 1,
+  "zd7964c31": 1,
+  "z71636d67": 1,
+  "z9ce227a0": 1,
+  "z1a8eb8bf": 1,
+  "z9a628a47": 1,
+  "z105e26a9": 1
  },
  "video": {},
  "pillole": []
