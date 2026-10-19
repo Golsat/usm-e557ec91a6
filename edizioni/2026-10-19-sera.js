@@ -69,28 +69,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z4f1ffa86",
-   "sez": "mondo",
-   "titolo": "Hadj 2027 in Guinea: svelati quote, tariffe e calendario delle visite mediche",
-   "orig": "Hadj 2027 : le SGAR dévoile le quota, les tarifs et le calendrier des consultations médicales",
-   "lead": "Il ministro segretario generale degli Affari religiosi della Guinea, Elhadj Karamo Diawara, ha presentato lunedì 19 ottobre 2026 a Conakry la griglia tariffaria, le quote e le rigide condizioni sanitarie per il pellegrinaggio islamico del 2027. Lo riferisce Mosaïque Guinée.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Mosaïque Guinée",
-     "p": "XX",
-     "c": "Conakry",
-     "u": "https://mosaiqueguinee.com/2026/10/hadj-2027-le-sgar-devoile-le-quota-les-tarifs-et-le-calendrier-des-consultations-medicales/",
-     "angolo": "",
-     "atlas": "Guinea",
-     "t": "2026-10-19T17:56+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:17",
-   "uscita": "sera"
-  },
-  {
    "id": "zc5fa1a31",
    "sez": "mondo",
    "titolo": "Guinea, pellegrinaggio 2027: costi fino a 68,6 milioni di GNF per i candidati",
@@ -106,6 +84,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Guinea",
      "t": "2026-10-19T15:51+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/hadj-2027-le-sgar-devoile-le-quota-les-tarifs-et-le-calendrier-des-consultations-medicales/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T17:56+00:00"
     }
    ],
    "data": "19 ott",
@@ -1272,28 +1259,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z254a05fd",
-   "sez": "mondo",
-   "titolo": "Presidenziali 2027: dopo le sommosse, il RN punta a incarnare il partito dell'ordine",
-   "orig": "Présidentielle 2027 : au lendemain des émeutes, le RN veut incarner le « parti de l’ordre »",
-   "lead": "Marine Le Pen e Jordan Bardella hanno sfruttato a Parigi il clima di tensione e i saccheggi del fine settimana per rilanciare la propria immagine di forza politica garante della sicurezza e dell'ordine pubblico in vista delle elezioni del 2027. Lo riferisce Le Figaro.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-au-lendemain-des-emeutes-le-rn-veut-incarner-le-parti-de-l-ordre-20261019",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T19:54+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
    "id": "z69691a4c",
    "sez": "mondo",
    "titolo": "Florence Bergeaud-Blackler: \"Per alcuni rivoltosi saccheggiare fa parte delle loro norme\"",
@@ -1309,28 +1274,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-19T19:40+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze8b830ab",
-   "sez": "mondo",
-   "titolo": "La devastazione dei centri urbani rafforza la posizione del Rassemblement National",
-   "orig": "Chers casseurs, vous êtes les meilleurs agents électoraux de Marine Le Pen",
-   "lead": "Gli episodi di saccheggio e devastazione avvenuti nelle città francesi offrono al partito di Marine Le Pen un importante vantaggio politico, posizionandolo come il principale beneficiario della crisi legata all'ordine pubblico. Lo riferisce Libération.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Libération",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.liberation.fr/idees-et-debats/opinions/chers-casseurs-vous-etes-les-meilleurs-agents-electoraux-de-marine-le-pen-20261019_R3GNOIT6HRBHPCZ3SVGGQGYZ2Q/",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T16:39+00:00"
     }
    ],
    "data": "19 ott",
@@ -1778,28 +1721,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zabd8ad3d",
-   "sez": "mondo",
-   "titolo": "Svezia, il partito Centrista sotto pressione per definire la propria linea politica",
-   "orig": "Tomas Ramberg: Thand Ringqvist får själv gräva mittens grav",
-   "lead": "Il presidente del Parlamento spinge la leader del Centro Elisabeth Thand Ringqvist a chiarire le proprie posizioni, confermando l'assenza di reali alternative di coalizione al centro dello schieramento politico svedese. Lo riferisce Dagens Nyheter.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Dagens Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-far-sjalv-grava-mittens-grav/",
-     "angolo": "",
-     "atlas": "Sweden",
-     "t": "2026-10-19T18:56+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
    "id": "z46b25cc5",
    "sez": "mondo",
    "titolo": "Zelensky: ritardi critici nelle forniture militari concordate con gli Stati Uniti",
@@ -1920,7 +1841,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z6a75ad2f",
-   "sez": "economia",
+   "sez": "cultura",
    "titolo": "Netflix e Globo siglano un accordo di licenza inedito per portare diciotto titoli sulla piattaforma streaming",
    "orig": "Netflix e Globo fecham acordo de licenciamento com 18 títulos para o streaming",
    "lead": "Netflix e Globo hanno annunciato un accordo di licensing che porterà diciotto opere brasiliane, tra cui quattordici film, tre telenovelas e una serie, sul servizio di streaming a partire da dicembre. Lo riferisce Folha de S.Paulo.",
@@ -2660,6 +2581,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Andorra",
      "t": "2026-10-19T17:42+02:00"
+    },
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/els-bombers-abandonen-per-majoria-les-accions-de-protesta",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-19T19:12+02:00"
     }
    ],
    "data": "19 ott",
@@ -2704,28 +2634,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Andorra",
      "t": "2026-10-19T19:21+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "z9ce227a0",
-   "sez": "mondo",
-   "titolo": "Andorra: il sindacato dei pompieri revoca la mobilitazione dopo le aperture dell'esecutivo",
-   "orig": "Els bombers abandonen per majoria les accions de protesta",
-   "lead": "La maggioranza degli iscritti al sindacato SIB A118 di Andorra ha deciso di interrompere le proteste sindacali, valutando favorevolmente le garanzie e le promesse formali espresse dal governo del Principato. Lo riferisce Bondia.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Bondia",
-     "p": "XX",
-     "c": "Andorra la Vella",
-     "u": "https://www.bondia.ad/societat/els-bombers-abandonen-per-majoria-les-accions-de-protesta",
-     "angolo": "",
-     "atlas": "Andorra",
-     "t": "2026-10-19T19:12+02:00"
     }
    ],
    "data": "19 ott",
@@ -3585,39 +3493,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z1e7804df",
-   "sez": "mondo",
-   "titolo": "Tunisia, previsioni meteo: piogge e temporali in arrivo in diverse regioni",
-   "orig": "Météo : Pluies orageuses attendues dans plusieurs régions en début de nuit",
-   "lead": "L'Istituto nazionale di meteorologia della Tunisia ha diramato un bollettino di allerta per l'inizio della notte, prevedendo precipitazioni a carattere temporalesco che interesseranno in particolare le regioni orientali del nord e del centro del Paese, oltre all'area di Sfax. Successivamente, le condizioni atmosferiche registreranno un cielo parzialmente nuvoloso sulla maggior parte del territorio nazionale. Lo riferisce La Presse de Tunisie.",
-   "more": [
-    "I fenomeni meteorologici instabili e le piogge concentrate in brevi intervalli temporali rappresentano un elemento ricorrente nella transizione stagionale in Nord Africa, richiedendo il monitoraggio costante dello stato dei corsi d'acqua e dei sistemi di drenaggio urbano."
-   ],
-   "fonti": [
-    {
-     "n": "La Presse de Tunisie",
-     "p": "XX",
-     "c": "Tunisi",
-     "u": "https://www.lapresse.tn/2026/10/19/meteo-pluies-orageuses-attendues-dans-plusieurs-regions-en-debut-de-nuit/",
-     "angolo": "",
-     "atlas": "Tunisia",
-     "t": "2026-10-19T17:18+00:00"
-    },
-    {
-     "n": "Kapitalis",
-     "p": "XX",
-     "c": "Tunisi",
-     "u": "https://kapitalis.com/tunisie/2026/10/19/meteo-les-previsions-pour-cette-nuit-en-tunisie-3/",
-     "angolo": "",
-     "atlas": "Tunisia",
-     "t": "2026-10-19T17:42+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:14",
-   "uscita": "sera"
-  },
-  {
    "id": "za338bff6",
    "sez": "mondo",
    "titolo": "Capo Verde, custodia cautelare per il conducente dell'investimento mortale a Mira Flores",
@@ -3986,28 +3861,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "South Africa",
      "t": "2026-10-19T16:32+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:14",
-   "uscita": "sera"
-  },
-  {
-   "id": "z9371fc38",
-   "sez": "mondo",
-   "titolo": "Scontri e arresti tra i manifestanti in Italia",
-   "orig": "Policija u Italiji privela 270 demonstranata osumnjičenih za...",
-   "lead": "La polizia in Italia ha fermato 270 manifestanti sospettati di violenze durante i disordini, impiegando gas lacrimogeni e idranti dopo che gruppi di dimostranti avevano dato alle fiamme cassonetti dei rifiuti e saccheggiato diversi negozi. Lo riferisce Vijesti.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/svijet/evropa/832285/policija-u-italiji-privela-270-demonstranata-osumnjicenih-za-pljackanje-radnji",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-19T19:57+02:00"
     }
    ],
    "data": "19 ott",
@@ -4523,28 +4376,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Israel",
      "t": "2026-10-19T18:28+03:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:12",
-   "uscita": "sera"
-  },
-  {
-   "id": "z27d334af",
-   "sez": "mondo",
-   "titolo": "Quattro morti a causa delle inondazioni che colpiscono la Spagna orientale",
-   "orig": "Four dead as floods sweep eastern Spain",
-   "lead": "Almeno quattro persone sono morte in seguito alle violente inondazioni che hanno investito la Spagna orientale, provocando gravi danni e mettendo in moto i soccorsi nelle zone colpite dal maltempo. Lo riferisce Gulf News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Gulf News",
-     "p": "XX",
-     "c": "Dubai",
-     "u": "https://gulfnews.com/world/europe/four-dead-as-floods-sweep-eastern-spain-1.500715775",
-     "angolo": "",
-     "atlas": "United Arab Emirates",
-     "t": "2026-10-19T21:56+04:00"
     }
    ],
    "data": "19 ott",
@@ -6852,28 +6683,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "za138e8f7",
-   "sez": "mondo",
-   "titolo": "Ruto firma la legge che sblocca finanziamenti extra per oltre 71 miliardi di scellini per le contee",
-   "orig": "Ruto signs law unlocking Sh71.09bn extra funding for counties",
-   "lead": "Il presidente keniota ha promulgato una nuova normativa che incrementa le allocazioni aggiuntive destinate alle contee di oltre 425 milioni di scellini rispetto all'esercizio finanziario precedente, portando i fondi extra a un totale di oltre 71 miliardi. Lo riferisce Daily Nation.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Daily Nation",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://nation.africa/kenya/news/ruto-signs-law-unlocking-sh71-09bn-extra-funding-for-counties--5638264",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-10-19T16:21+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:11",
-   "uscita": "sera"
-  },
-  {
    "id": "z9d5141d9",
    "sez": "mondo",
    "titolo": "I docenti degli istituti tecnici revocano lo sciopero dopo l'accordo con il ministero",
@@ -8162,7 +7971,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z06205b05",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Livingstone ospiterà il vertice energetico tra Zambia e Zimbabwe",
    "orig": "Livingstone to host Zimbabwe-Zambia energy summit",
    "lead": "La città di Livingstone si appresta ad accogliere la terza edizione dello Zimbabwe-Zambia Energy Projects Summit, in programma dal 3 al 5 novembre 2026 presso il Radisson Blu Mosi-Oa-Tunya Hotel. L'evento riunirà funzionari governativi, investitori e istituti di credito con l'obiettivo di attrarre capitali e accelerare la realizzazione di infrastrutture energetiche nei due Stati africani. Lo riferisce Lusaka Times.",
@@ -9413,30 +9222,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z8da69b81",
-   "sez": "mondo",
-   "titolo": "La giustizia spagnola stabilisce che l'ex presidente catalano Puigdemont può rientrare in Spagna",
-   "orig": "Catalonia's former rebel president can return to Spain, court rules",
-   "lead": "Un tribunale ha stabilito che l'ex presidente catalano Carles Puigdemont può fare ritorno in Spagna, confermando la decisione di revocare il mandato d'arresto emesso nei suoi confronti. Il provvedimento giudiziario è legato al tentativo di secessione e al referendum sull'indipendenza promossi nel 2017 sotto la sua guida. Lo riferisce BBC News.",
-   "more": [
-    "Carles Puigdemont era stato al centro di una lunga battaglia legale e di estradizione dopo aver lasciato la Spagna nel 2017 a seguito della dichiarazione unilaterale di indipendenza della Catalogna, giudicata incostituzionale dalla magistratura di Madrid."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-19T14:06+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:09",
-   "uscita": "sera"
-  },
-  {
    "id": "zea85b175",
    "sez": "mondo",
    "titolo": "Portogallo, squalifica di trenta giorni e multa per Cristiano Ronaldo dopo una discussione con Jesus",
@@ -9487,6 +9272,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-10-19T17:40+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/united-states/schumer-urges-us-regulator-to-reject-conservative-groups-bid-to-use-political-ai-generated-robocalls",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T22:50+08:00"
     }
    ],
    "data": "19 ott",
@@ -9690,6 +9484,87 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-19T17:49+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/france/20261019-acte-ii-le-24-octobre-mobilisation-le-5-novembre-%C3%A0-quoi-s-attendre-pour-la-suite-du-mouvement",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T14:34+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/societe/live/2026/10/19/en-direct-manifestations-du-17-octobre-couvre-feux-localises-aides-aux-commerces-touches-annonce-d-un-acte-ii-samedi-prochain-le-point-sur-la-situation_6795855_3224.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T15:36+02:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/politique/couvre-feux-localises-etat-d-urgence-ce-qu-il-faut-retenir-des-annonces-de-sebastien-lecornu-pour-repondre-aux-violences-du-17-octobre-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T14:33+02:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/les-gilets-jaunes-annoncent-un-acte-ii-le-24-octobre-et-un-acte-iii-le-31-octobre-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T14:34+02:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261019-17-octobre-le-premier-ministre-annonce-d%C3%A9clencher-le-ch%C3%B4mage-partiel-pour-les-commer%C3%A7ants-touch%C3%A9s",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T12:33+00:00"
+    },
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/france-le-premier-ministre-annonce-la-mise-en-place-de-couvre-feux-localises/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-19T11:27+00:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T16:35+02:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/frankreich-ausgangssperren-premier-proteste-krawalle-li.3565912",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T12:20+00:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/proteste-in-frankreich-eskalieren-regierung-plant-ausgangssperren-ld.10038248",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T15:59+00:00"
     }
    ],
    "data": "19 ott",
@@ -10652,6 +10527,14 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-19T16:43+00:00"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/mondo/satellite_russo_insegue_satellite_europeo_ucraino_guerra_spazio_cosa_succede-9834712.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "19 ott",
@@ -10933,7 +10816,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z036c54d2",
-   "sez": "cultura",
+   "sez": "ingegneria",
    "titolo": "I designer di Apple presentano il progetto 'Designers of Tomorrow' a Parigi",
    "orig": "Apple's Designers of Tomorrow invite us to slow down at Design Miami Paris",
    "lead": "In vista dell'apertura di Design Miami Paris, la società Apple ha offerto un'anteprima esclusiva della seconda edizione del progetto 'Designers of Tomorrow'. L'iniziativa invita il pubblico a rallentare i ritmi e a riflettere sul design attraverso installazioni dedicate. Lo riferisce Wallpaper*.",
@@ -10981,7 +10864,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z3f61895e",
-   "sez": "ambiente",
+   "sez": "economia",
    "titolo": "Il Ruanda cerca investitori per un impianto solare fotovoltaico galleggiante sul Lago Sake",
    "orig": "Rwanda Seeks Investors for 200MW Floating Solar Plant on Lake Sake",
    "lead": "Il governo del Ruanda ha avviato la ricerca di investitori privati per realizzare una centrale solare fotovoltaica galleggiante della potenza di 200 megawatt sul Lago Sake, situato nel distretto di Ngoma, nella Provincia Orientale. Il progetto prevede anche l'integrazione di un sistema di accumulo a batteria. Lo riferisce KT Press.",
@@ -11208,30 +11091,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
     }
    ],
    "data": "",
-   "ora": "20:09",
-   "uscita": "sera"
-  },
-  {
-   "id": "z704d2f6c",
-   "sez": "dibattito",
-   "titolo": "Proteste dei Tir in espansione nel Sud Italia con blocchi stradali e disagi",
-   "orig": "La protesta dei Tir al Sud si allarga, blocchi e scaffali vuoti",
-   "lead": "Nel Sud Italia si registrano blocchi stradali e scaffali vuoti a causa dell'ampliamento della protesta dei Tir, mentre cresce la rabbia tra i produttori di kiwi per la crisi del settore. Il ministro Matteo Salvini è intervenuto dichiarando l'intenzione di sbloccare fondi per risolvere la situazione. Lo riferisce ANSA.",
-   "more": [
-    "Le proteste nel settore dei trasporti e dell'agricoltura spesso derivano dall'aumento dei costi operativi, come quelli del carburante, e dalle difficoltà economiche dei produttori locali, che lamentano margini di guadagno insufficienti a coprire le spese di produzione e distribuzione."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/la-protesta-dei-tir-al-sud-si-allarga-blocchi-e-scaffali-vuoti_ff9394fe-3211-452a-ac1e-41aef9da3466.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-19T19:49+02:00"
-    }
-   ],
-   "data": "19 ott",
    "ora": "20:09",
    "uscita": "sera"
   },
@@ -12299,28 +12158,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Philippines",
      "t": "2026-10-19T22:15+08:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "17:27",
-   "uscita": "17"
-  },
-  {
-   "id": "z135ff103",
-   "sez": "tech",
-   "titolo": "Schumer esorta il regolatore statunitense a respingere la richiesta di un gruppo conservatore di usare robocall politiche generate dall'IA",
-   "orig": "Schumer urges US regulator to reject conservative group’s bid to use political AI-generated robocalls",
-   "lead": "Il leader politico statunitense Chuck Schumer ha chiesto formalmente a un'autorità di regolamentazione di bloccare l'uso di chiamate automatizzate basate sull'intelligenza artificiale per scopi elettorali, ammonendo sui rischi legati alla diffusione di messaggi falsi con le voci degli avversari. Lo riferisce The Straits Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/united-states/schumer-urges-us-regulator-to-reject-conservative-groups-bid-to-use-political-ai-generated-robocalls",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-19T22:50+08:00"
     }
    ],
    "data": "19 ott",
@@ -15219,102 +15056,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zb9d2d4b2",
-   "sez": "prima",
-   "titolo": "Proteste in Francia: il governo annuncia coprifuoco localizzati e cassa integrazione per i commercianti danneggiati",
-   "orig": "\"Acte II\" le 24 octobre, mobilisation le 5 novembre ... À quoi s'attendre pour la suite du mouvement ?",
-   "lead": "A seguito delle violenze e dei saccheggi che hanno colpito almeno tremila esercizi commerciali durante le manifestazioni del fine settimana del 17 ottobre 2026, il primo ministro francese Sébastien Lecornu ha annunciato di aver chiesto ai prefetti di introdurre coprifuoco parziali e localizzati a partire da lunedì sera per proteggere le attività. I commercianti danneggiati potranno inoltre beneficiare di misure di cassa integrazione parziale da martedì 20 ottobre. Nel frattempo, i gilet gialli hanno indetto un \"atto II\" per sabato 24 ottobre e nuove mobilitazioni per il 31 ottobre, mentre i sindacati confermano una grande protesta nazionale per il 5 novembre. Lo riferisce France 24.",
-   "more": [
-    "Le proteste sociali in Francia vedono spesso la convergenza di diverse sigle sindacali e movimenti di piazza, come i gilet gialli, attorno a rivendicazioni sul potere d'acquisto e sulle politiche economiche governative, generando talvolta tensioni e disordini urbani che spingono l'esecutivo a varare misure di sicurezza straordinarie."
-   ],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/france/20261019-acte-ii-le-24-octobre-mobilisation-le-5-novembre-%C3%A0-quoi-s-attendre-pour-la-suite-du-mouvement",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T14:34+00:00"
-    },
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/societe/live/2026/10/19/en-direct-manifestations-du-17-octobre-couvre-feux-localises-aides-aux-commerces-touches-annonce-d-un-acte-ii-samedi-prochain-le-point-sur-la-situation_6795855_3224.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T15:36+02:00"
-    },
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/politique/couvre-feux-localises-etat-d-urgence-ce-qu-il-faut-retenir-des-annonces-de-sebastien-lecornu-pour-repondre-aux-violences-du-17-octobre-20261019",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T14:33+02:00"
-    },
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/actualite-france/les-gilets-jaunes-annoncent-un-acte-ii-le-24-octobre-et-un-acte-iii-le-31-octobre-20261019",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T14:34+02:00"
-    },
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/vid%C3%A9o/20261019-17-octobre-le-premier-ministre-annonce-d%C3%A9clencher-le-ch%C3%B4mage-partiel-pour-les-commer%C3%A7ants-touch%C3%A9s",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T12:33+00:00"
-    },
-    {
-     "n": "Le Matin Algérie",
-     "p": "XX",
-     "c": "Algeri",
-     "u": "https://lematindalgerie.com/france-le-premier-ministre-annonce-la-mise-en-place-de-couvre-feux-localises/",
-     "angolo": "",
-     "atlas": "Algeria",
-     "t": "2026-10-19T11:27+00:00"
-    },
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-19T16:35+02:00"
-    },
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/politik/frankreich-ausgangssperren-premier-proteste-krawalle-li.3565912",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-19T12:20+00:00"
-    },
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/international/proteste-in-frankreich-eskalieren-regierung-plant-ausgangssperren-ld.10038248",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-19T15:59+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "17:25",
-   "uscita": "17"
-  },
-  {
    "id": "zeedd5115",
    "sez": "mondo",
    "titolo": "Processo a Lionel Bilgo rinviato al 16 novembre 2026 in attesa della Corte d'Appello",
@@ -15455,6 +15196,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-19T15:03+02:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/europe/four-dead-as-floods-sweep-eastern-spain-1.500715775",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-19T21:56+04:00"
     }
    ],
    "data": "19 ott",
@@ -15908,6 +15658,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Norway",
      "t": "2026-10-19T11:37+00:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-far-sjalv-grava-mittens-grav/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-19T18:56+02:00"
     }
    ],
    "data": "19 ott",
@@ -19298,6 +19057,24 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-19T09:13+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/idees-et-debats/opinions/chers-casseurs-vous-etes-les-meilleurs-agents-electoraux-de-marine-le-pen-20261019_R3GNOIT6HRBHPCZ3SVGGQGYZ2Q/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T16:39+00:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-au-lendemain-des-emeutes-le-rn-veut-incarner-le-parti-de-l-ordre-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T19:54+02:00"
     }
    ],
    "data": "19 ott",
@@ -19447,6 +19224,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Kenya",
      "t": "2026-10-19T09:34+00:00"
+    },
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/ruto-signs-law-unlocking-sh71-09bn-extra-funding-for-counties--5638264",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-19T16:21+00:00"
     }
    ],
    "data": "19 ott",
@@ -22761,6 +22547,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Spain",
      "t": "2026-10-19T12:15+02:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T14:06+00:00"
     }
    ],
    "data": "19 ott",
@@ -26063,29 +25858,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "sub": "scienza"
   },
   {
-   "id": "z855ebfe0",
-   "sez": "spazio",
-   "titolo": "Un satellite militare russo si avvicina a 26 metri da un asset che assiste l'Ucraina",
-   "orig": "Satellite militare russo Kosmos-2612 a 26 metri da un asset che aiuta l'Ucraina, l'inseguimento nello spazio: allarme per le manovre di Mosca",
-   "lead": "Mentre l'attenzione resta concentrata su missili, droni e negoziati legati alla guerra in Ucraina, il Messaggero segnala manovre insolite e pericolose in orbita: il satellite militare russo Kosmos-2612 si sarebbe avvicinato fino a 26 metri a un asset satellitare che fornisce assistenza all'Ucraina, probabilmente collegato alla rete Starlink. L'episodio viene descritto come un inseguimento nello spazio, che alimenta l'allarme per le manovre di Mosca in orbita, in un contesto già teso per il conflitto in corso. Lo riferisce il Messaggero.",
-   "more": [
-    "Le manovre di avvicinamento tra satelliti militari sono considerate una forma di guerra ibrida nello spazio: permettono di osservare, disturbare o potenzialmente danneggiare asset altrui senza un attacco diretto. Starlink, la rete satellitare di SpaceX, fornisce connettività internet all'Ucraina ed è considerata un elemento strategico nel conflitto con la Russia."
-   ],
-   "fonti": [
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/mondo/satellite_russo_insegue_satellite_europeo_ucraino_guerra_spazio_cosa_succede-9834712.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "z2b419708",
    "sez": "manga",
    "titolo": "Jun Maeda, autore di Kanon, Air e Clannad, in cure palliative per un cancro alla faringe",
@@ -26953,6 +26725,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "u": "https://www.ilmessaggero.it/economia/proteste_autotrasportatori_scaffali_vuoti_aiuti_carburanti-9833460.html",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/la-protesta-dei-tir-al-sud-si-allarga-blocchi-e-scaffali-vuoti_ff9394fe-3211-452a-ac1e-41aef9da3466.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T19:49+02:00"
     }
    ],
    "data": "",
@@ -27054,7 +26835,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zffd63336": "The Korea Herald riporta la rimozione dell'installazione artistica dopo le polemiche.",
   "z7783fcb0": "Gambero Rosso analizza le difficoltà economiche dell'industria delle proteine da insetti dopo anni di grandi investimenti.",
   "zc16e3c94": "La testata scientifica per adolescenti spiega la chimica dietro il colore insolito delle Blood Falls in Antartide.",
-  "z855ebfe0": "Il Messaggero segnala l'allarme per l'avvicinamento ravvicinato di un satellite militare russo a un asset satellitare utile all'Ucraina.",
   "z2b419708": "Anime News Network riporta le condizioni di salute dell'autore e il suo lavoro ancora in corso su Heaven Burns Red.",
   "zd2c9a41f": "LSM pubblica l'elenco ufficiale delle aziende lettoni che commerciano ancora con Russia e Bielorussia.",
   "zb06e431f": "Il Consiglio Ue presenta le proprie conclusioni sul legame tra uguaglianza e competitività economica.",
@@ -27447,7 +27227,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z747a19c6": "La testata evidenzia la gravità della crisi energetica cubana e i limiti strutturali che frenano la riforma del settore petrolifero e privato.",
   "z2a9dbc17": "La testata evidenzia i traguardi storici raggiunti dai mercati finanziari africani, sottolineando al contempo le disparità e i limiti strutturali che frenano gli investimenti esteri.",
   "z2931ec3d": "La testata evidenzia il prestigioso riconoscimento internazionale ottenuto dall'istituto bancario nell'ambito dei premi globali di settore.",
-  "zb9d2d4b2": "Le testate evidenziano la gravità dei disordini urbani, le risposte di sicurezza del governo e la pianificazione di nuove mobilitazioni da parte di manifestanti e sindacati.",
   "zeedd5115": "La testata evidenzia l'ennesimo slittamento di un procedimento giudiziario di rilievo politico ed economico legato ad accuse di malversazione contro ex amministratori pubblici.",
   "z047aadbc": "La testata evidenzia la drammaticità dell'evento meteorologico estremo, il bilancio delle vittime e l'imponenza dei soccorsi nelle regioni costiere spagnole.",
   "zdea5eba5": "La testata evidenzia il netto contrasto tra il lusso sfrenato riservato alla leadership nordcoreana e le condizioni di vita della popolazione generale nel Paese.",
@@ -27588,12 +27367,10 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zeed661b4": "Il giornale documenta l'intervento statale a sostegno delle categorie economiche danneggiate da emergenze biologiche.",
   "z8da64e11": "La testata mette in risalto le tensioni geopolitiche regionali e le denunce governative sulle interferenze estere.",
   "z781a58e9": "Il quotidiano si concentra sulla tutela dei cittadini all'estero coinvolti in episodi di violenza internazionale.",
-  "z135ff103": "La testata esamina il dibattito sulla regolamentazione dell'intelligenza artificiale nei contesti democratici ed elettorali.",
   "z791bfc8c": "la Repubblica evidenzia l'impegno diplomatico della Santa Sede e la richiesta di uno sforzo congiunto per gli aiuti umanitari.",
   "z1e55d537": "la Repubblica pone l'accento sulla presa di posizione del Capo dello Stato e sulla necessità di vigilare su nuove forme di contestazione.",
   "z50607435": "ANSA sottolinea lo svolgersi dell'incontro istituzionale e politico per definire i contenuti della legge di bilancio.",
   "z69b0882f": "BBC News evidenzia il presunto coinvolgimento di attori statali stranieri nella vicenda giudiziaria legata all'ex dipendente.",
-  "z8da69b81": "BBC News evidenzia la decisione della corte e la revoca del mandato d'arresto per l'ex leader indipendentista catalano.",
   "zea85b175": "Al Jazeera riporta i dettagli della sanzione decisa dalla Federcalcio portoghese nei confronti del noto calciatore.",
   "z83b20a7c": "Al Jazeera evidenzia l'appello del politico americano per regolamentare e bloccare l'uso politico delle chiamate automatizzate.",
   "z4f2416a6": "RTÉ News evidenzia l'estensione delle restrizioni notturne decisa dal governo per ristabilire la sicurezza nelle aree urbane colpite.",
@@ -27650,7 +27427,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z33470da1": "La testata evidenzia l'attività di risoluzione dei problemi tecnici da parte della startup spaziale.",
   "zd0834a84": "La testata evidenzia la conferma ufficiale del governo francese sullo svolgimento dell'incontro calcistico malgrado il clima di tensione.",
   "zc9817a90": "La testata sottolinea le sfide economiche e politiche che il Paese deve affrontare per risanare i propri conti pubblici.",
-  "z704d2f6c": "La testata evidenzia l'estensione delle proteste nel Mezzogiorno e la risposta istituzionale per sbloccare le risorse economiche.",
   "z425f9405": "La testata evidenzia l'annuncio delle date e il titolo del nuovo tour dell'artista.",
   "z8e680b5c": "La testata evidenzia i risultati di una ricerca sulla resilienza psicologica in seguito a eventi traumatici prolungati.",
   "z83c23f66": "La testata evidenzia i dettagli scientifici e storici legati alla formazione geologica e alla separazione della Sardegna.",
@@ -27809,7 +27585,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z5cf6c5ef": "La testata evidenzia l'impegno delle istituzioni e di figure di spicco locali per il recupero delle infrastrutture scolastiche storiche.",
   "z6d1a8203": "La testata sottolinea l'importanza delle politiche di formazione tecnologica e professionale dedicate alle giovani generazioni.",
   "zfec80087": "La testata analizza le manovre e le alleanze politiche in vista della campagna elettorale presidenziale.",
-  "za138e8f7": "La testata segue con attenzione le dinamiche di bilancio e il decentramento amministrativo nel Paese.",
   "z9d5141d9": "La testata adotta un punto di vista favorevole alla risoluzione pacifica dei conflitti sindacali nel settore educativo.",
   "z5436d2f8": "La testata sportiva locale analizza la prestazione della squadra di casa e il rammarico per i punti persi.",
   "zc6099465": "La testata segue da vicino le competizioni calcistiche regionali e le dichiarazioni dei tecnici alla vigilia dei match.",
@@ -27827,7 +27602,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z92590455": "La testata offre una cronaca visiva e puntuale del degrado e della tensione sociale durante le manifestazioni di piazza.",
   "zc745bc72": "La testata esamina le dinamiche dell'elettorato statunitense con un focus approfondito sulle tendenze sociopolitiche locali.",
   "z687ede93": "La testata israeliana enfatizza le tensioni diplomatiche e giudiziarie tra la Germania e l'Iran legate alla sicurezza della comunità ebraica.",
-  "z27d334af": "La testata di Dubai offre una sintesi rapida e drammatica del bilancio delle vittime causate dal maltempo in Europa.",
   "z506f62db": "Il giornale egiziano evidenzia la cooperazione economica e strategica tra Egitto e Russia nell'area mediorientale.",
   "z661790a6": "La testata si concentra sulle strategie di pianificazione economica e istituzionale del governo del Cairo.",
   "zf3291a14": "Il quotidiano riporta le parole forti del leader egiziano sulla sicurezza nazionale e il controllo delle informazioni online.",
@@ -27901,7 +27675,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z9c48c710": "La testata evidenzia le valutazioni del tecnico blaugrana sulle scelte difensive in vista dei prossimi impegni agonistici.",
   "zf54d2af8": "La testata evidenzia l'emergenza verificatasi a bordo dell'aereo prima della partenza nello scalo peruviano.",
   "z8ae46678": "La testata evidenzia i dati numerici relativi agli arresti e ai feriti, oltre agli ingenti danni materiali e alle nuove misure di sicurezza governative.",
-  "z1e7804df": "La testata evidenzia l'avviso meteorologico emesso per le aree orientali e centrali del Paese.",
   "za338bff6": "La testata evidenzia l'applicazione della misura restrittiva disposta dalle autorità nei confronti del responsabile dell'investimento.",
   "z6b95ceab": "La testata evidenzia il rifiuto definitivo da parte della massima istanza giudiziaria americana sul patteggiamento del detenuto.",
   "z73af2bde": "La testata evidenzia i motivi burocratici e operativi che hanno causato lo slittamento della relazione tecnica.",
@@ -27916,7 +27689,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zdc145755": "La testata nazionale montenegrina promuove la programmazione dell'emittente pubblica in vista del prossimo evento musicale internazionale.",
   "z77c0df97": "L'emittente pubblica pone l'accento sulla diaspora montenegrina e sui rapporti storici e culturali con il continente sudamericano.",
   "z657ae968": "Il settimanale sudafricano approfondisce le responsabilità istituzionali e politiche legate ai mancati procedimenti giudiziari dell'era dell'apartheid.",
-  "z9371fc38": "La testata montenegrina riporta con accenti di cronaca diretta gli scontri di piazza e gli interventi delle forze dell'ordine in territorio italiano.",
   "z5be20396": "L'emittente pubblica portoghese valorizza la digitalizzazione e l'accessibilità delle risorse culturali nazionali.",
   "ze503ec67": "La testata fiamminga evidenzia le iniziative locali volte a promuovere la cultura e la lettura pubblica.",
   "z9c5beca5": "La testata belga documenta le nuove strategie tecnologiche adottate dalle amministrazioni locali per la sicurezza urbana.",
@@ -27961,9 +27733,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zd4bd3226": "La testata adotta una prospettiva analitica sull'evoluzione politica e diplomatica della leadership italiana.",
   "z7fdef05a": "La testata si focalizza sulle riforme scolastiche e sulle criticità del sistema di orientamento universitario.",
   "z65233874": "La testata analizza l'impatto materiale e finanziario delle violenze urbane sulle infrastrutture cittadine.",
-  "z254a05fd": "La testata decodifica la strategia elettorale della destra nazionalista in risposta ai disordini urbani.",
   "z69691a4c": "La testata offre un dibattito sociologico e politico sulle radici culturali dei disordini nelle periferie.",
-  "ze8b830ab": "La testata commenta con toni critici l'effetto politico dei disordini sulla crescita dei consensi per la destra.",
   "z3af5bc78": "La testata esamina i rischi economici e sociali di una rottura sindacale nella gestione della crisi aziendale.",
   "za4ce060c": "La testata copre le tensioni e le polemiche incrociate tra i partiti della coalizione e dell'opposizione tedesca.",
   "z40d34d5c": "La testata racconta un episodio di costume e di protocollo reale con un taglio leggero.",
@@ -27984,7 +27754,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zf12adfbf": "Il giornale evidenzia le criticità nei controlli e nella regolamentazione del servizio taxi viennese.",
   "zb6132cbc": "Il quotidiano svedese segue la campagna elettorale e la mobilitazione giovanile nei Balcani.",
   "zdb6612f8": "La testata analizza la discrepanza tra la percezione del rischio informatico e i dati ufficiali di notifica.",
-  "zabd8ad3d": "Il commento politico esamina i dilemmi strategici dei centristi svedesi nella formazione di alleanze.",
   "z46b25cc5": "L'emittente polacca riferisce le dichiarazioni ufficiali del leader ucraino sulle criticità nella catena degli aiuti militari.",
   "zf8d4daf0": "La testata polacca evidenzia l'impatto e la scarsa spesa economica necessaria per condurre attacchi informatici avanzati tramite l'IA.",
   "zbef48687": "L'articolo analizza in chiave critica le tensioni politiche attorno agli organi costituzionali del Paese.",
@@ -28026,14 +27795,12 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z7b62c7b0": "Monitoraggio delle vertenze sindacali e dei rapporti tra categorie professionali e istituzioni.",
   "zd7964c31": "Attenzione focalizzata sull'efficienza delle infrastrutture pubbliche e sull'accessibilità urbana.",
   "z71636d67": "Cronaca diplomatica incentrata sugli anniversari di cooperazione internazionale.",
-  "z9ce227a0": "Copertura delle relazioni industriali e della risoluzione dei conflitti di lavoro nel settore pubblico.",
   "z1a8eb8bf": "Attenzione posta sui temi della salute mentale e dell'impatto delle nuove tecnologie sulla gioventù.",
   "z9a628a47": "Notizie sullo sviluppo energetico e sulle infrastrutture transfrontaliere del Principato.",
   "z105e26a9": "Cronaca di comunità focalizzata sulle iniziative di aggregazione sociale e sostenibilità locale.",
   "ze9eabfd9": "Cronaca giudiziaria e sicurezza locale",
   "z4364238a": "Focus istituzionale sulle regole elettorali e la parità di genere",
   "z9c796ecc": "Verifica di notizie false e cronaca locale",
-  "z4f1ffa86": "Informazione istituzionale e religiosa",
   "zc5fa1a31": "Cronaca economica e religiosa",
   "z9489ba6a": "Analisi economica e sviluppo agricolo",
   "z470da97f": "Investimenti infrastrutturali pubblici",
@@ -28072,7 +27839,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z4c8f6fef": "Il caso della morte di David Rossi, avvenuta nel 2013 durante la crisi di Monte dei Paschi di Siena, è stato riaperto più volte nel corso degli anni tra inchieste giudiziarie e parlamentari, senza una conclusione definitiva sulle cause del decesso, tra le ipotesi di suicidio e quelle di omicidio legate a pressioni sulla banca.",
   "zb406c9a4": "Nelle ultime settimane la Cisgiordania occupata ha registrato una marcata escalation di violenze da parte di coloni israeliani estremisti contro residenti palestinesi, osservatori internazionali e operatori dei media. Secondo le organizzazioni per i diritti umani, le aggressioni si sono moltiplicate dall'inizio dell'autunno, culminando nell'assalto a una delegazione diplomatica europea e a un fotoreporter statunitense, episodi che hanno innescato un'ondata di indignazione internazionale e costretto le forze di sicurezza israeliane a intervenire con arresti mirati.",
   "z95fdb070": "Negli ultimi mesi in Australia il clima politico ha registrato crescenti tensioni e episodi di polarizzazione sociale, alimentati da aspri dibattiti istituzionali e proteste pubbliche. In questo contesto di crescente conflittualità, le autorità di sicurezza avevano già intensificato il monitoraggio per prevenire potenziali atti di violenza contro esponenti politici e istituzionali, culminati nel grave episodio odierno che ha visto coinvolta una parlamentare federale.",
-  "zb9d2d4b2": "Nei giorni scorsi le manifestazioni di piazza in diverse città francesi sono degenerate in gravi episodi di disordine, saccheggi e scontri con le forze dell'ordine, spingendo il governo a valutare risposte istituzionali e misure restrittive per ristabilire l'ordine pubblico.",
   "zf0c51908": "Nei mesi precedenti le forze russe hanno ripetutamente preso di mira le reti di trasmissione elettrica e gli impianti di generazione energetica in Ucraina, provocando gravi interruzioni dei servizi essenziali e ripetuti blackout in tutto il territorio nazionale.",
   "zc9082658": "Nei giorni precedenti si erano registrate crescenti tensioni geopolitiche nella regione mediorientale, segnate da lanci di missili e droni da parte dei ribelli houti dello Yemen contro obiettivi strategici e infrastrutture petrolifere in territorio saudita.",
   "z4f2416a6": "Nei giorni scorsi, diverse aree della Francia e la regione parigina sono state teatro di gravi disordini e proteste di piazza. Le manifestazioni sono rapidamente degenerate in atti di violenza diffusa, scontri con le forze dell'ordine e saccheggi ai danni di esercizi commerciali. Di fronte a questa escalation, il governo francese e le autorità locali hanno deciso di intervenire drasticamente per ripristinare l'ordine pubblico, introducendo restrizioni alla circolazione notturna.",
@@ -28158,16 +27924,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    [
     "Oggi",
     "Il segretario di Stato Marco Rubio annuncia a Samarcanda la previsione di accordi miliardari in ambito commerciale e tecnologico"
-   ]
-  ],
-  "zb9d2d4b2": [
-   [
-    "17/10/2026",
-    "Manifestazioni e scontri in diverse città francesi con ingenti danni ai negozi."
-   ],
-   [
-    "19/10/2026",
-    "Il primo ministro annuncia coprifuoco localizzati e cassa integrazione per i commercianti, mentre i movimenti proclamano nuove date di protesta."
    ]
   ],
   "zf0c51908": [
@@ -28600,32 +28356,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
     }
    ],
    "divergono": "Le testate non divergono sui fatti di cronaca di base riportati, ma si differenziano per il livello di dettaglio e le fonti aggiuntive incluse. Il Sole 24 Ore e ANSA specificano ampiamente le dichiarazioni integrali e le reazioni dei legali dei familiari di David Rossi (che invitano alla cautela contro condanne sommarie), elementi assenti o non verificabili nelle versioni di la Repubblica e Rai News a causa del blocco dei testi integrali. Non emergono contraddizioni sulle responsabilità indicate dalla Commissione."
-  },
-  "zb9d2d4b2": {
-   "voci": [
-    {
-     "n": "Le Figaro",
-     "c": "Parigi",
-     "p": "XX",
-     "t": "L'articolo è puramente informativo e cronachistico. Mette al centro le misure del premier Sébastien Lecornu dopo le violenze del 17 ottobre, citando cifre come «almeno 3000 commercianti» danneggiati. Indica come responsabili «l'ultragauche» e una nebulosa che punta a ostacolare la presidenza.",
-     "b": "a"
-    },
-    {
-     "n": "Le Matin Algérie",
-     "c": "Algeri",
-     "p": "XX",
-     "t": "Il pezzo riferisce in modo fattuale le proteste contro il carovita e le decisioni del governo francese. Cita le dichiarazioni del premier Lecornu sui «couvre-feux localisés» e la gestione dell'ordine pubblico, menzionando anche la richiesta di dimissioni del ministro dell'Interno Laurent Nuñez.",
-     "b": "a"
-    },
-    {
-     "n": "NZZ",
-     "c": "Zurigo",
-     "p": "XX",
-     "t": "Il testo analizza la genesi delle proteste iniziate a fine settembre 2026 come mobilitazioni scolastiche e trasformatosi in un movimento di massa. La testata adotta un tono descrittivo sui problemi storici di integrazione e sulla crisi finanziaria che costringe lo Stato a nuove misure.",
-     "b": "a"
-    }
-   ],
-   "divergono": "Le Figaro e Le Matin Algérie concordano nell'attribuire le decisioni al primo ministro Sébastien Lecornu e nel citare i coprifuoco localizzati e gli aiuti ai commercianti, pur differendo nei dettagli accessori: Le Matin Algérie menziona la gestione dei gilets jaunes e il rifiuto delle dimissioni del ministro dell'Interno Laurent Nuñez, mentre Le Figaro si concentra maggiormente sui danni subiti dai negozi e sulle accuse ai gruppi dell'ultrasinistra. La NZZ svizzera si distingue nettamente, offrendo un quadro strutturale di lungo periodo che retrodata l'inizio delle proteste alla fine di settembre 2026 e analizza le difficoltà economiche e scolastiche complessive della Francia, senza menzionare i coprifuoco annunciati il 19 ottobre."
   }
  },
  "luoghi": {
@@ -28925,14 +28655,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zc16e3c94": {
    "n": "Antartide",
    "p": [],
-   "pt": []
-  },
-  "z855ebfe0": {
-   "n": "Orbita terrestre",
-   "p": [
-    "Russia",
-    "Ukraine"
-   ],
    "pt": []
   },
   "z2b419708": {
@@ -31672,13 +31394,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "zb9d2d4b2": {
-   "n": "Paris",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zeedd5115": {
    "n": "Bobo-Dioulasso",
    "p": [
@@ -32703,13 +32418,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z135ff103": {
-   "n": "Singapore",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z791bfc8c": {
    "n": "Oleshky",
    "p": [
@@ -32735,13 +32443,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "London",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "z8da69b81": {
-   "n": "Barcelona",
-   "p": [
-    "Spain"
    ],
    "pt": []
   },
@@ -33136,13 +32837,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "Città del Capo",
    "p": [
     "South Africa"
-   ],
-   "pt": []
-  },
-  "z704d2f6c": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -34263,13 +33957,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "za138e8f7": {
-   "n": "Nairobi",
-   "p": [
-    "Kenya"
-   ],
-   "pt": []
-  },
   "z9d5141d9": {
    "n": "Nairobi",
    "p": [
@@ -34387,13 +34074,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "p": [
     "Germany",
     "Iran"
-   ],
-   "pt": []
-  },
-  "z27d334af": {
-   "n": "Spagna orientale",
-   "p": [
-    "Spain"
    ],
    "pt": []
   },
@@ -34923,13 +34603,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z1e7804df": {
-   "n": "Tunisi",
-   "p": [
-    "Tunisia"
-   ],
-   "pt": []
-  },
   "za338bff6": {
    "n": "Praia",
    "p": [],
@@ -35027,13 +34700,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "Johannesburg",
    "p": [
     "South Africa"
-   ],
-   "pt": []
-  },
-  "z9371fc38": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -35351,21 +35017,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z254a05fd": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z69691a4c": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "ze8b830ab": {
    "n": "Parigi",
    "p": [
     "France"
@@ -35506,13 +35158,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "pt": []
   },
   "zdb6612f8": {
-   "n": "Stoccolma",
-   "p": [
-    "Sweden"
-   ],
-   "pt": []
-  },
-  "zabd8ad3d": {
    "n": "Stoccolma",
    "p": [
     "Sweden"
@@ -35806,13 +35451,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z9ce227a0": {
-   "n": "Andorra la Vella",
-   "p": [
-    "Andorra"
-   ],
-   "pt": []
-  },
   "z1a8eb8bf": {
    "n": "Andorra la Vella",
    "p": [
@@ -35852,13 +35490,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "N'Djamena",
    "p": [
     "Chad"
-   ],
-   "pt": []
-  },
-  "z4f1ffa86": {
-   "n": "Conakry",
-   "p": [
-    "Guinea"
    ],
    "pt": []
   },
@@ -36122,7 +35753,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zffd63336": 1,
   "z7783fcb0": 1,
   "zc16e3c94": 1,
-  "z855ebfe0": 1,
   "z2b419708": 1,
   "zd2c9a41f": 1,
   "zb06e431f": 1,
@@ -36515,7 +36145,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z747a19c6": 1,
   "z2a9dbc17": 1,
   "z2931ec3d": 1,
-  "zb9d2d4b2": 2,
   "zeedd5115": 1,
   "z047aadbc": 2,
   "zdea5eba5": 1,
@@ -36656,12 +36285,10 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zeed661b4": 1,
   "z8da64e11": 1,
   "z781a58e9": 1,
-  "z135ff103": 1,
   "z791bfc8c": 2,
   "z1e55d537": 2,
   "z50607435": 1,
   "z69b0882f": 2,
-  "z8da69b81": 1,
   "zea85b175": 2,
   "z83b20a7c": 1,
   "z4f2416a6": 3,
@@ -36718,7 +36345,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z33470da1": 1,
   "zd0834a84": 2,
   "zc9817a90": 1,
-  "z704d2f6c": 1,
   "z425f9405": 1,
   "z8e680b5c": 1,
   "z83c23f66": 1,
@@ -36877,7 +36503,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z5cf6c5ef": 1,
   "z6d1a8203": 1,
   "zfec80087": 1,
-  "za138e8f7": 1,
   "z9d5141d9": 1,
   "z5436d2f8": 1,
   "zc6099465": 1,
@@ -36895,7 +36520,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z92590455": 1,
   "zc745bc72": 1,
   "z687ede93": 1,
-  "z27d334af": 1,
   "z506f62db": 1,
   "z661790a6": 1,
   "zf3291a14": 1,
@@ -36969,7 +36593,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z9c48c710": 1,
   "zf54d2af8": 1,
   "z8ae46678": 1,
-  "z1e7804df": 1,
   "za338bff6": 1,
   "z6b95ceab": 2,
   "z73af2bde": 1,
@@ -36984,7 +36607,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zdc145755": 1,
   "z77c0df97": 1,
   "z657ae968": 1,
-  "z9371fc38": 1,
   "z5be20396": 1,
   "ze503ec67": 1,
   "z9c5beca5": 1,
@@ -37029,9 +36651,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zd4bd3226": 1,
   "z7fdef05a": 1,
   "z65233874": 1,
-  "z254a05fd": 1,
   "z69691a4c": 1,
-  "ze8b830ab": 1,
   "z3af5bc78": 1,
   "za4ce060c": 1,
   "z40d34d5c": 1,
@@ -37052,7 +36672,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zf12adfbf": 1,
   "zb6132cbc": 1,
   "zdb6612f8": 1,
-  "zabd8ad3d": 1,
   "z46b25cc5": 1,
   "zf8d4daf0": 1,
   "zbef48687": 1,
@@ -37094,14 +36713,12 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z7b62c7b0": 1,
   "zd7964c31": 1,
   "z71636d67": 1,
-  "z9ce227a0": 1,
   "z1a8eb8bf": 1,
   "z9a628a47": 1,
   "z105e26a9": 1,
   "ze9eabfd9": 1,
   "z4364238a": 1,
   "z9c796ecc": 1,
-  "z4f1ffa86": 1,
   "zc5fa1a31": 1,
   "z9489ba6a": 1,
   "z470da97f": 1,
