@@ -3,6 +3,2490 @@ window.EDIZIONI["2026-10-19"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z27968d75",
+   "sez": "viaggi",
+   "titolo": "Otto luoghi tranquilli da visitare in Giappone in autunno",
+   "orig": "Eight low-key great places to spend the day (or half a day) in Japan this fall",
+   "lead": "In autunno il Giappone offre giornate serene ma poco tempo libero per i visitatori. La testata SoraNews24 propone otto destinazioni facilmente raggiungibili in una giornata o mezza giornata, perfette per chi vuole vivere esperienze memorabili senza dedicare molti giorni al viaggio. La stagione autunnale è considerata tra le più piacevoli dell'anno in Giappone grazie al clima mite dopo l'estate calda. Lo riferisce SoraNews24.",
+   "more": [
+    "L'autunno giapponese è noto per il foliage, i colori accesi degli aceri e la temperatura mite, elementi che rendono la stagione una delle preferite da turisti e residenti per escursioni brevi e visite culturali in tutto il Paese."
+   ],
+   "fonti": [
+    {
+     "n": "SoraNews24",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://soranews24.com/2026/10/19/eight-low-key-great-places-to-spend-the-day-or-half-a-day-in-japan-this-fall/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-19T05:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z37666919",
+   "sez": "economia",
+   "titolo": "ECRL: tariffe da 60 ringgit per Gombak-Kuantan, 125 per Kota Bharu",
+   "orig": "ECRL fares start at RM60 for Gombak-Kuantan route, RM125 one-way to Kota Bharu",
+   "lead": "Le tariffe della East Coast Rail Link (ECRL), la nuova linea ferroviaria malese, partiranno da 60 ringgit per la tratta economica Gombak-Kuantan, mentre un biglietto di sola andata per Kota Bharu costerà 125 ringgit. L'annuncio è stato fatto a Gombak il 19 ottobre. La nuova infrastruttura collegherà diverse regioni della Malesia orientale, offrendo un'alternativa di trasporto pubblico su lunghe distanze. Lo riferisce Malay Mail.",
+   "more": [
+    "La East Coast Rail Link è un grande progetto infrastrutturale malese pensato per collegare la costa orientale a quella occidentale del Paese, con l'obiettivo di favorire lo sviluppo economico delle regioni meno collegate e ridurre i tempi di viaggio rispetto alla strada."
+   ],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/19/ecrl-fares-start-at-rm60-for-gombak-kuantan-route-rm125-one-way-to-kota-bharu/239684",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-19T12:27+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z03c04331",
+   "sez": "salute",
+   "titolo": "Alumni Australia Awards rafforzano la ricerca sanitaria in Papua Nuova Guinea",
+   "orig": "Australia Awards alumni strengthen health research in PNG",
+   "lead": "Sette ex borsisti del programma Australia Awards, oggi attivi al Papua New Guinea Institute of Medical Research, applicano le competenze acquisite negli studi per rafforzare la ricerca sanitaria nel Paese. Il loro lavoro contribuisce a orientare le politiche pubbliche e a migliorare gli esiti di salute della popolazione papuana. La notizia arriva in un contesto di cooperazione tra Australia e Papua Nuova Guinea nel settore della formazione scientifica. Lo riferisce Post-Courier.",
+   "more": [
+    "Gli Australia Awards sono borse di studio finanziate dal governo australiano per formare professionisti dei Paesi del Pacifico in vari settori, incluso quello sanitario, con l'obiettivo di rafforzare le capacità locali di ricerca e gestione delle politiche pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/australia-awards-alumni-strengthen-health-research-in-png/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-19T04:48+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z870c1d59",
+   "sez": "italia",
+   "titolo": "Nuovo Codice della strada: corsia virtuale e protezioni obbligatorie per i motociclisti",
+   "orig": "Nuovo Codice della strada, corsia virtuale e protezioni obbligatorie in autostrada: le novità per i motociclisti",
+   "lead": "Il decreto legislativo approvato dal Consiglio dei ministri il 13 ottobre introduce novità per i motociclisti nel nuovo Codice della strada italiano, tra cui la corsia virtuale e protezioni obbligatorie da utilizzare in autostrada. Le modifiche fanno parte di un più ampio riordino delle norme sulla circolazione stradale che riguarda diverse categorie di utenti. Il provvedimento introduce sia nuovi obblighi che facilitazioni specifiche per chi guida moto e scooter. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Il Codice della strada regola la circolazione sui percorsi italiani e viene periodicamente aggiornato dal governo per adeguarlo a nuove esigenze di sicurezza, tecnologia dei veicoli e comportamenti degli utenti, incluse le categorie più vulnerabili come motociclisti e ciclisti."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/nuovo-codice-strada-corsia-virtuale-e-protezioni-obbligatorie-autostrada-novita-i-motociclisti-AJCFbBnB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T05:28+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9897eadd",
+   "sez": "sport",
+   "titolo": "La stagione NBA 2026-27 inizia questa settimana",
+   "orig": "NBA 2026-27 season to begin this week",
+   "lead": "Il campionato NBA 2026-27 partirà il 20 ottobre negli Stati Uniti, dando il via a una stagione regolare di 82 partite per ciascuna squadra. Diverse franchigie hanno rinforzato il proprio roster durante l'offseason con giocatori capaci di incidere sulla lotta per il titolo, alimentando aspettative di maggiore equilibrio nella lega. Tra i protagonisti attesi anche LeBron James, nato nel 1984 e ancora in attività ad alto livello come giocatore più anziano della lega. Lo riferisce The Korea Herald.",
+   "more": [
+    "La NBA è il principale campionato professionistico di basket statunitense, seguito a livello globale. Ogni stagione regolare conta 82 partite per squadra prima dei playoff che determinano il campione."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10907266",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zed8738d6",
+   "sez": "cultura",
+   "titolo": "Festival delle minoranze a Havlíčkův Brod unisce culture attraverso l'umorismo",
+   "orig": "Festival of Minorities in Havlíčkův Brod finds common ground in humor",
+   "lead": "La città ceca di Havlíčkův Brod ospiterà il 1° novembre la seconda edizione del Festival of Minorities, un evento che metterà insieme le culture ucraina, vietnamita e mongola attraverso umorismo, musica e cibo. L'iniziativa punta a favorire il dialogo tra comunità diverse presenti sul territorio ceco, offrendo uno spazio di incontro informale e festoso. Lo riferisce Expats.cz.",
+   "more": [
+    "La Repubblica Ceca ospita diverse comunità straniere, tra cui ucraini, vietnamiti e mongoli, spesso coinvolte in iniziative locali di integrazione culturale organizzate da amministrazioni cittadine e associazioni civiche."
+   ],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/festival-of-minorities-in-havlickuv-brod-finds-common-ground-in-humor",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-19T07:11+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1e7d8a60",
+   "sez": "economia",
+   "titolo": "La Bank of England esamina Barclays",
+   "orig": "FirstFT: Bank of England scrutinises Barclays",
+   "lead": "La newsletter FirstFT del Financial Times riporta che la Bank of England sta effettuando un controllo su Barclays, una delle principali banche britanniche. La stessa edizione segnala anche disordini in Francia e le restrizioni europee su Starlink, il servizio satellitare di Elon Musk. Si tratta di una rassegna delle notizie economiche e finanziarie del giorno proposta dal quotidiano britannico. Lo riferisce Financial Times.",
+   "more": [
+    "La Bank of England è la banca centrale del Regno Unito e svolge anche funzioni di supervisione sulle principali banche del Paese, incluse verifiche periodiche sulla solidità finanziaria e sulla gestione dei rischi degli istituti di credito come Barclays."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/76117a3b-2cd6-481b-b485-4b743627589d?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T04:32+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4de8d39f",
+   "sez": "sport",
+   "titolo": "McLaren mette in vendita cinque storiche monoposto di F1 guidate da campioni e da Brad Pitt",
+   "orig": "McLaren put five iconic F1 cars driven by champions and Brad Pitt up for sale",
+   "lead": "La scuderia McLaren ha messo in vendita cinque vetture di Formula 1 completamente funzionanti, guidate in passato da campioni come Lewis Hamilton e il brasiliano Ayrton Senna, oltre a una testata anche dall'attore hollywoodiano Brad Pitt. Le auto saranno vendute attraverso il concessionario di alta gamma Tom Hartley Jnr, che punta a ricavarne decine di milioni di dollari. Lo stesso dealer ha già venduto la collezione dell'ex patron della F1 Bernie Ecclestone. Lo riferisce South China Morning Post.",
+   "more": [
+    "McLaren è una delle scuderie storiche della Formula 1, attualmente campione del mondo costruttori. La vendita di monoposto storiche guidate da piloti celebri è un mercato in crescita tra i collezionisti appassionati di motorsport."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/formula-one-f1/article/3371352/mclaren-put-five-iconic-f1-cars-driven-champions-and-brad-pitt-sale?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T05:21+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9072eaa9",
+   "sez": "economia",
+   "titolo": "Banca Mondiale: il governo nigeriano versa 658,9 miliardi di naira a 10,46 milioni di famiglie povere",
+   "orig": "W’Bank: FG pays N658.9bn to 10.46m poor households",
+   "lead": "La Banca Mondiale ha confermato che il governo federale nigeriano ha erogato 658,9 miliardi di naira in trasferimenti monetari a 10,46 milioni di famiglie povere nel Paese. L'organizzazione ha allo stesso tempo chiesto un'estensione della copertura del programma per raggiungere un numero maggiore di nuclei familiari in difficoltà. L'iniziativa fa parte delle politiche di sostegno sociale sostenute da organismi internazionali in Nigeria. Lo riferisce The Punch.",
+   "more": [
+    "I programmi di trasferimento monetario diretto sono strumenti di protezione sociale usati in diversi Paesi in via di sviluppo, spesso con il supporto della Banca Mondiale, per ridurre la povertà estrema fornendo sussidi economici direttamente alle famiglie più vulnerabili."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/wbank-fg-pays-n658-9bn-to-10-46m-poor-households/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-19T05:07+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze152a169",
+   "sez": "economia",
+   "titolo": "SERAP cita in giudizio l'INEC per 126 miliardi di naira di fondi elettorali",
+   "orig": "SERAP sues INEC over N126bn electoral funds",
+   "lead": "L'organizzazione nigeriana Socio-Economic Rights and Accountability Project (SERAP) ha avviato un'azione legale contro la commissione elettorale INEC presso l'Alta Corte Federale di Abuja. L'accusa riguarda la presunta mancata rendicontazione di 126,46 miliardi di naira di fondi elettorali. La causa punta a ottenere trasparenza sull'utilizzo del denaro pubblico destinato alle elezioni in Nigeria. Lo riferisce The Punch.",
+   "more": [
+    "L'INEC è la commissione elettorale indipendente della Nigeria, responsabile dell'organizzazione delle elezioni nel Paese. Le organizzazioni della società civile come SERAP svolgono spesso un ruolo di controllo sulla trasparenza nella gestione dei fondi pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/serap-sues-inec-over-n126bn-electoral-funds/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-19T05:04+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbd2ac38f",
+   "sez": "sport",
+   "titolo": "Bencic e Fernandez entrano nel tabellone, Zheng si ritira dal Prudential Hong Kong Open",
+   "orig": "Bencic, Fernandez in as Zheng pulls out of Prudential Hong Kong Open",
+   "lead": "La tennista cinese Zheng Qinwen ha annunciato il ritiro dal Prudential Hong Kong Open, torneo WTA in programma il mese prossimo, meno di una settimana dopo essere stata inserita nel tabellone. La campionessa olimpica, vincitrice del China Open, aveva già saltato il Wuhan Open per infortunio e stanchezza, dichiarando ora di voler chiudere anticipatamente la stagione. Al suo posto entrano Bencic e Fernandez. Lo riferisce South China Morning Post.",
+   "more": [
+    "Il Prudential Hong Kong Open è un torneo del circuito WTA femminile. I ritiri per infortunio o stanchezza a fine stagione sono frequenti nel tennis professionistico, dato il calendario intenso di tornei consecutivi durante l'anno."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/tennis/article/3371333/bencic-fernandez-zheng-pulls-out-prudential-hong-kong-open?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T01:32+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdd3fc6b2",
+   "sez": "cultura",
+   "titolo": "Franca Lehfeldt contesta gli stereotipi sulla maternità nel suo nuovo libro",
+   "orig": "Mütter: Franca Lehfeldt rechnet mit Mutterklischees ab",
+   "lead": "La giornalista tedesca Franca Lehfeldt ha pubblicato un nuovo libro in cui contesta gli stereotipi legati alla maternità in Germania. Secondo l'autrice, l'ideale tedesco di madre perfetta non è realizzabile per nessuna donna. Il libro affronta le pressioni sociali e culturali che gravano sulle madri tedesche, proponendo una riflessione critica sui modelli diffusi nella società. Lo riferisce Der Spiegel.",
+   "more": [
+    "Il dibattito sui modelli di maternità e sulle pressioni sociali verso le madri è ricorrente in diversi Paesi europei, spesso legato a temi come conciliazione lavoro-famiglia, aspettative culturali e ruoli di genere tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/kultur/muetter-franca-lehfeldt-rechnet-mit-mutterklischees-ab-a-d762bd91-fa95-46d0-9175-e699efae65c9#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T06:09+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z93733589",
+   "sez": "economia",
+   "titolo": "Madrid ospiterà il Forum Libico-Europeo su petrolio e gas il 2-3 dicembre",
+   "orig": "Libyan European Forum for Oil and Gas – Madrid – 2-3 December",
+   "lead": "L'Unione Generale delle Camere di Commercio Libiche ha annunciato che Madrid ospiterà, il 2 e 3 dicembre, la terza edizione del Forum Libico-Europeo su petrolio, energia e gas. L'evento riunirà operatori del settore energetico libico e europeo per discutere opportunità di collaborazione. L'iniziativa si inserisce nei rapporti commerciali tra la Libia e i partner europei nel settore energetico. Lo riferisce Libya Herald.",
+   "more": [
+    "La Libia è uno dei principali produttori di petrolio e gas del Nord Africa e intrattiene da anni rapporti commerciali ed energetici con diversi Paesi europei, nonostante l'instabilità politica interna che ha segnato il Paese dopo il 2011."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/10/libyan-european-forum-for-oil-and-gas-madrid-2-3-december/",
+     "angolo": "",
+     "atlas": "Libya",
+     "t": "2026-10-18T21:31+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za6cfb0a0",
+   "sez": "mondo",
+   "titolo": "Il Kai Tak Sports Park dovrebbe puntare su NFL e monster truck, dice il progettista dello stadio",
+   "orig": "Kai Tak chiefs should target NFL, monster trucks, says stadium designer",
+   "lead": "Uno dei progettisti del Kai Tak Sports Park di Hong Kong, complesso sportivo da 30 miliardi di dollari di Hong Kong, suggerisce di puntare su eventi come partite NFL e monster truck per valorizzare la struttura. L'NFL ha in programma dieci partite internazionali nella prossima stagione, in crescita rispetto alle nove attuali, e il commissioner Roger Goodell ha ipotizzato il Giappone come possibile futura sede. Lo riferisce South China Morning Post.",
+   "more": [
+    "La NFL organizza da oltre vent'anni partite di regular season fuori dagli Stati Uniti, iniziando dal Messico, per espandere la popolarità del football americano a livello globale, con tappe recenti anche in Europa e piani di espansione in Asia."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/hong-kong/article/3371305/kai-tak-chiefs-should-target-nfl-monster-trucks-says-stadium-designer?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T00:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z39decd54",
+   "sez": "economia",
+   "titolo": "Premio Melhores Franquias 2026 premia le migliori catene in franchising del Brasile",
+   "orig": "O que faz uma franquia ser a melhor do Brasil? Conheça quem são as premiadas",
+   "lead": "Il Prêmio Melhores Franquias do Brasil 2026 ha riconosciuto le catene in franchising più performanti del Paese, in un mercato che negli ultimi 12 mesi ha fatturato 308 miliardi di reais ed è in continua espansione. Il riconoscimento premia non solo la crescita del numero di unità, ma anche performance finanziaria, qualità operativa e soddisfazione dei franchisee. Lo riferisce G1.",
+   "more": [
+    "Il franchising è un modello di business diffuso in Brasile in settori come alimentazione, moda e servizi, che permette a imprenditori di aprire punti vendita utilizzando il marchio e il modello operativo di un'azienda già consolidata."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/10/19/o-que-faz-uma-franquia-ser-a-melhor-do-brasil-conheca-quem-sao-as-premiadas.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-19T05:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zca2d56c8",
+   "sez": "economia",
+   "titolo": "GECOL lavora per fornire energia alla stazione dell'aeroporto di Tripoli, nuovi segnali di riapertura",
+   "orig": "GECOL working on supply power to the Tripoli Airport station – further indications of the airport’s imminent opening",
+   "lead": "La compagnia elettrica statale libica GECOL ha riferito che i suoi team tecnici del dipartimento reti a media tensione di Tripoli stanno lavorando per fornire energia elettrica alla stazione dell'aeroporto internazionale della città. L'intervento viene interpretato come un ulteriore segnale della possibile riapertura imminente dello scalo, chiuso da tempo a causa dei conflitti che hanno colpito la Libia. Lo riferisce Libya Herald.",
+   "more": [
+    "L'aeroporto internazionale di Tripoli è stato danneggiato e chiuso in diverse occasioni a causa dei conflitti armati che hanno attraversato la Libia dopo la caduta di Gheddafi nel 2011, e la sua riapertura è considerata un simbolo di normalizzazione per il Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/10/gecol-working-on-supply-power-to-the-tripoli-airport-station-further-indications-of-the-airports-imminent-opening/",
+     "angolo": "",
+     "atlas": "Libya",
+     "t": "2026-10-18T20:10+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc1007c94",
+   "sez": "cultura",
+   "titolo": "L'Unione Internazionale dei Magistrati premia Fernando Cruz per la difesa dell'indipendenza giudiziaria",
+   "orig": "Unión Internacional de Magistrados premia a Fernando Cruz por su defensa de la independencia judicial",
+   "lead": "Il magistrato costaricano Fernando Cruz Castro, della Sala Costituzionale, ha ricevuto un premio dall'Unione Internazionale dei Magistrati (UIM) durante l'assemblea annuale dell'organizzazione svoltasi domenica a Lisbona, in Portogallo. Il riconoscimento è stato conferito per il suo impegno nella difesa dell'indipendenza del potere giudiziario. L'evento ha riunito magistrati provenienti da diversi Paesi. Lo riferisce La Nación.",
+   "more": [
+    "L'Unione Internazionale dei Magistrati è un'organizzazione che riunisce associazioni giudiziarie di numerosi Paesi, con l'obiettivo di promuovere l'indipendenza della magistratura e lo stato di diritto a livello internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/politica/union-internacional-de-magistrados-premia-a/TNTUDBBUHVADFAC2MX5EDY3NTI/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-19T03:26+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4c4bd7b6",
+   "sez": "economia",
+   "titolo": "Il Giappone punta a rassicurare gli investitori stranieri con comunicazione in inglese",
+   "orig": "Japan aims to soothe world traders’ fiscal anxiety with outreach in English",
+   "lead": "Il governo giapponese sta intensificando gli sforzi di comunicazione in lingua inglese verso gli investitori internazionali per attenuare le preoccupazioni fiscali legate al debito pubblico. Gli investitori stranieri detenevano il 13% dei titoli di Stato giapponesi (JGB) alla fine di giugno, in aumento rispetto a circa l'8% registrato nel 2012. L'iniziativa mira a mantenere la fiducia dei mercati nei confronti della finanza pubblica giapponese. Lo riferisce The Japan Times.",
+   "more": [
+    "I titoli di Stato giapponesi (JGB) finanziano il debito pubblico del Paese, tra i più alti al mondo in rapporto al PIL. La crescente quota detenuta da investitori stranieri rende il Giappone più sensibile alle percezioni internazionali sulla sostenibilità dei propri conti pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/10/19/markets/takaichi-foreign-investors-english/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-19T12:06+09:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbc181fb3",
+   "sez": "economia",
+   "titolo": "Le azioni Kioxia sotto pressione per un uso eccessivo della leva finanziaria",
+   "orig": "Kioxia shares face headwinds from margin-buying gone wrong",
+   "lead": "Le azioni della società giapponese Kioxia, produttrice di memorie, affrontano turbolenze legate a un ampio utilizzo di posizioni a margine (margin-buying) che non hanno dato i risultati attesi. Al 15 ottobre, le posizioni lunghe a leva sul titolo risultavano le più elevate tra tutte le società quotate alla Borsa di Tokyo. La situazione ha attirato l'attenzione degli analisti di mercato. Lo riferisce The Japan Times.",
+   "more": [
+    "Il margin trading consiste nell'acquistare azioni usando capitale preso in prestito per amplificare i potenziali guadagni, ma comporta anche il rischio di perdite più ampie in caso di calo dei prezzi, con conseguenze destabilizzanti sul titolo coinvolto."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/10/19/companies/kioxia-downward-pressure/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-19T12:05+09:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z478207b9",
+   "sez": "sport",
+   "titolo": "Oliver Provstgaard, il difensore danese della Lazio decisivo contro la Juventus",
+   "orig": "Oliver Provstgaard, chi è l'«Iron Man» della Lazio: età, stipendio, i 75mila dollari vinti a FIFA, la fidanzata, l'infortunio al crociato e il numero dedicato alla madre",
+   "lead": "Il difensore danese Oliver Provstgaard ha segnato di testa il gol dell'1-0 della Lazio contro la Juventus al 37' minuto, su calcio d'angolo battuto da Zaccagni. Il giocatore, soprannominato 'Iron Man' per la sua resistenza fisica, ha una storia personale segnata da un infortunio al crociato superato e porta un numero di maglia dedicato alla madre. Il Messaggero ne ricostruisce il percorso, incluso un premio di 75mila dollari vinto in un torneo di FIFA. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/oliver_provstgaard_chi_e_eta_carriera_stipendio_fifa_soldi_vinti_fidanzata_figlio_crociato_lazio_juventus-9833470.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z034ec034",
+   "sez": "sport",
+   "titolo": "Basket: Maxima Roma vince a Tortona 75-89 e risale in classifica",
+   "orig": "Maxima Roma corsara a Tortona, vince 75-89 e risale in classifica. La Virtus Bologna ancora imbattuta",
+   "lead": "La Maxima Roma ha ottenuto la prima vittoria in trasferta della stagione, imponendosi 75-89 a Tortona nel campionato italiano di basket. Il successo arriva dopo una settimana in cui l'allenatore Cotelli era stato messo in discussione per la sconfitta subita a Tenerife. La squadra romana risale così in classifica, mentre la Virtus Bologna resta ancora imbattuta nel torneo. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/basket/maxima_roma_tortona_classifica_virtus_bologna_imbattuta-9833451.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze11410c6",
+   "sez": "economia",
+   "titolo": "India blocca l'etanolo da zucchero, titoli zuccherieri in calo",
+   "orig": "Sugar stocks tumble: Bajaj Hindusthan, Renuka Sugars plunge up to 5%; here's why",
+   "lead": "Il governo indiano ha deciso di sospendere, per la stagione 2026-27, le forniture di etanolo prodotto dallo zucchero, vietando l'uso di succo di canna e melassa ricca di zucchero (B-heavy) per la produzione. La notizia ha fatto crollare in Borsa i titoli di aziende come Bajaj Hindusthan Sugar, scese di oltre il 5% nelle contrattazioni del mattino, insieme a Renuka Sugars. Il governo punta invece sull'etanolo da cereali per garantire scorte di zucchero stabili in un contesto di produzione incerta. Lo riferisce Times of India.",
+   "more": [
+    "L'etanolo prodotto dalla canna da zucchero viene usato in India per miscelarlo con la benzina, politica che il governo sostiene per ridurre le importazioni di petrolio. Deviare lo zucchero verso l'etanolo però riduce le scorte disponibili per il consumo alimentare, da qui la scelta di privilegiare i cereali come materia prima."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/business/india-business/sugar-stocks-tumble-today-bajaj-hindusthan-renuka-sugars-plunge-up-to-5-heres-why/articleshow/135039673.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T10:34+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbf9efec0",
+   "sez": "sport",
+   "titolo": "Gattuso: alla Lazio creata una famiglia, saremo scomodi per tutti",
+   "orig": "Gattuso: «Alla Lazio si è creata una famiglia. Non siamo abituati né pronti a questa classifica, ma saremo scomodi per tutti»",
+   "lead": "L'allenatore della Lazio Rino Gattuso ha commentato l'ottimo avvio di stagione della sua squadra, che ha riconquistato la vetta della classifica di Serie A dopo aver battuto la Juventus con tre gol. La Lazio ha vinto quattro trasferte su quattro e sei partite su sette disputate finora. Gattuso ha superato, per risultati nelle prime giornate, anche gli ex allenatori biancocelesti Maestrelli e Petkovic. L'allenatore ha sottolineato il clima di squadra creato nello spogliatoio, definendolo come una famiglia, pur ammettendo che non erano abituati a una posizione così alta in classifica. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/ss_lazio/gattuso_lazio_famiglia_classifica_cosa_ha_detto-9833531.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/calcio/spalletti_esonero_cosa_sappiamo-9833508.html",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/19/news/spalletti_contro_bremer_juventus_lazio-425657256/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T23:28+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/2026/10/18/serie-a-la-juve-crolla-la-lazio-vola-ed-e-in-testa-con-linter_fbbef75c-2606-4c53-a729-a23a275d3dd6.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T23:10+02:00"
+    }
+   ],
+   "data": "",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6c9f40fa",
+   "sez": "economia",
+   "titolo": "Pakistan, operatori chiedono prezzi giornalieri per il gpl in rincaro",
+   "orig": "LPG stakeholders seek daily pricing amid soaring rates",
+   "lead": "A Islamabad gli operatori del mercato del gas liquido (gpl) hanno chiesto domenica al governo pakistano di passare da un aggiornamento mensile dei prezzi a uno settimanale o giornaliero, come già avviene per i prodotti petroliferi, e di non legare più le tariffe al prezzo di riferimento di Saudi Aramco. La richiesta arriva dopo l'aumento dei prezzi seguito alla chiusura del valico di frontiera di Rahimdad-250 e in vista dell'inverno, quando i consumi di gpl crescono tradizionalmente, aumentando il rischio di accaparramento e speculazione, soprattutto nelle aree remote e montane. Lo riferisce Dawn.",
+   "more": [
+    "Il gpl è una fonte energetica molto usata in Pakistan per riscaldamento e cucina, specialmente dove non arriva la rete del gas naturale. I prezzi legati al mercato internazionale rendono il costo sensibile a variazioni esterne, come chiusure di valichi commerciali o oscillazioni dei listini petroliferi regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038194/lpg-stakeholders-seek-daily-pricing-amid-soaring-rates",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T08:36+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1a6e3a20",
+   "sez": "economia",
+   "titolo": "Pakistan, il governo federale respinge nuove esenzioni fiscali per il Malakand",
+   "orig": "Malakand Division tax relief hopes fade",
+   "lead": "Il governo federale del Pakistan ha respinto la richiesta di ulteriori esenzioni fiscali per la Divisione di Malakand, nonostante la crescente opposizione locale alla decisione. La notizia fa svanire le speranze di sgravi fiscali attesi dalla popolazione e dalle autorità della regione, situata nella provincia di Khyber Pakhtunkhwa. Lo riferisce The Express Tribune.",
+   "more": [
+    "Malakand è una divisione amministrativa del Pakistan nord-occidentale che ha storicamente beneficiato di regimi fiscali speciali, legati anche a motivi di stabilità politica e sicurezza nell'area, al confine con zone tribali e montane del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2635660/malakand-division-tax-relief-hopes-fade",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T03:33+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5a34b8bd",
+   "sez": "economia",
+   "titolo": "La fintech filippina Salmon Bank ottiene 140 milioni di dollari per espandersi",
+   "orig": "Salmon Bank bags $140M funding for expansion, new products",
+   "lead": "Salmon Bank, istituto di credito digitale con sede a Manila, ha annunciato di aver ottenuto 140 milioni di dollari di nuovi finanziamenti per lanciare nuovi prodotti di prestito a livello nazionale e ampliare il proprio business esistente. Secondo la società, i fondi serviranno a potenziare la linea di credito Salmon e i prestiti in negozio, oltre a lanciare finanziamenti per motocicli e per piccole e medie imprese. L'operazione segue una precedente raccolta di 88 milioni di dollari da parte della fintech. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://business.inquirer.net/616606/salmon-bank-bags-140m-funding-for-expansion-new-products",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T13:24+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zabda081e",
+   "sez": "mondo",
+   "titolo": "Il ministro degli Esteri iraniano minaccia Israele in caso di attacco ai siti energetici",
+   "orig": "Iran threatens to turn Israel into 'scorched earth' if energy sites are hit",
+   "lead": "Il ministro degli Esteri iraniano ha avvertito Israele che il Paese risponderebbe trasformandolo in \"terra bruciata\" se venissero colpiti i suoi siti energetici in un'eventuale nuova guerra. Secondo quanto riferito dal ministro, l'Iran è uscito più forte dal precedente tentativo israeliano di \"finire il lavoro\". Il ministro ha inoltre accusato il primo ministro israeliano Benjamin Netanyahu di voler coinvolgere gli Stati Uniti in un conflitto per evitare un processo giudiziario a suo carico, indipendentemente dalle conseguenze. Lo riferisce Haaretz.",
+   "more": [
+    "Le tensioni tra Israele e Iran si sono intensificate negli ultimi anni, con scontri diretti nel 2025. Netanyahu affronta procedimenti giudiziari interni per accuse di corruzione, elemento spesso citato dai critici come possibile motivazione politica dietro le sue scelte in politica estera e di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/middle-east-news/iran/2026-10-19/ty-article/iran-threatens-to-turn-israel-into-scorched-earth-if-energy-sites-are-hit/000001a1-5100-da52-a3f1-5f5e8a870000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-19T01:04+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4ab928a8",
+   "sez": "sport",
+   "titolo": "Il Bahrein ospiterà i Mondiali di biliardo con un premio di un milione di dollari",
+   "orig": "Bahrain to Host World Pool Championship",
+   "lead": "Il Regno del Bahrein accoglierà un torneo mondiale di biliardo (pool) a cui parteciperanno 128 tra i migliori giocatori al mondo. La competizione si svolgerà in sei giorni e presenterà un montepremi complessivo di un milione di dollari. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/bahrain-to-host-world-pool-championship",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-19T05:03+00:00"
+    },
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/bahrain-duo-set-for-qatar-pool-world-cup",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-19T05:03+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z22d34f03",
+   "sez": "mondo",
+   "titolo": "Netanyahu agli americani: l'accesso nucleare dell'Iran peggiore dei prezzi della benzina",
+   "orig": "Netanyahu tells Americans: Iran's access to nuclear arms worse than rising gas prices",
+   "lead": "Il primo ministro israeliano Benjamin Netanyahu ha diffuso un video messaggio indirizzato ai cittadini statunitensi, affermando che l'eventuale accesso dell'Iran alle armi nucleari sarebbe un problema più grave dell'aumento dei prezzi della benzina. Netanyahu ha dichiarato che i prezzi del carburante scenderanno quando \"il regime di Teheran scomparirà\", e ha affermato che lui e il presidente americano Donald Trump non permetteranno mai all'Iran di ottenere armi nucleari. Lo riferisce Middle East Eye.",
+   "more": [
+    "Il programma nucleare iraniano è da anni al centro di tensioni internazionali, con Israele e Stati Uniti che sostengono che Teheran stia cercando di sviluppare armi atomiche, accusa che l'Iran nega sostenendo finalità civili. Nel 2025 ci sono stati scontri militari diretti tra Israele e Iran legati a questo dossier."
+   ],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-americans-irans-access-nuclear-arms-worse-rising-gas",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T01:55+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z64f30e87",
+   "sez": "dibattito",
+   "titolo": "Salari contro prezzi: le tensioni economiche dietro le proteste in Europa",
+   "orig": "Wages vs prices: The economic pressures behind Europe's protests",
+   "lead": "In diversi paesi europei si moltiplicano manifestazioni legate al disagio economico dei cittadini. Secondo quanto riporta Euronews, i manifestanti protestano contro l'aumento dei prezzi alimentari, il costo crescente degli affitti e delle case, i salari che non crescono allo stesso ritmo del costo della vita, e il deterioramento dei servizi pubblici. Le proteste riflettono una frustrazione diffusa per il peggioramento, secondo chi scende in piazza, delle condizioni di vita in diverse zone del continente. Lo riferisce Euronews.",
+   "more": [
+    "Il potere d'acquisto dei salari in molti paesi europei è rimasto stagnante o è diminuito negli ultimi anni a causa dell'inflazione elevata registrata soprattutto dopo il 2021-2022, legata ai rincari dell'energia e delle materie prime. Allo stesso tempo il costo delle abitazioni è salito in molte città, aumentando le difficoltà per famiglie e giovani lavoratori."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/19/wages-vs-prices-the-economic-pressures-behind-europes-protests",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T06:20+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc6741e80",
+   "sez": "economia",
+   "titolo": "In Cina gli investitori si rifugiano nei titoli ad alto dividendo",
+   "orig": "China’s investors flock to dividend stocks as returns double those of state bonds",
+   "lead": "Gli investitori cinesi stanno spostando capitali verso azioni che offrono dividendi elevati, cercando riparo dalla volatilità dei mercati causata dalle vendite nel settore tecnologico e da una crescita economica disomogenea nel paese. Due indici che misurano le società quotate in Cina continentale con i più alti rendimenti da dividendo hanno superato l'indice di riferimento in avvicinamento a ottobre, mese in cui i timori di una stretta finanziaria negli Stati Uniti e in Cina, uniti alla debolezza della domanda interna cinese, hanno pesato sull'appetito per il rischio. Lo riferisce South China Morning Post.",
+   "more": [
+    "I titoli ad alto dividendo sono considerati tradizionalmente un rifugio in periodi di incertezza perché offrono un ritorno regolare indipendente dalle oscillazioni del prezzo delle azioni. La crescita economica \"a forma di K\" descrive una situazione in cui alcuni settori o fasce della popolazione prosperano mentre altri restano indietro."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-business/article/3371315/chinas-investors-flock-dividend-stocks-returns-double-those-state-bonds?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T01:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z24e1c993",
+   "sez": "economia",
+   "titolo": "Bitcoin in ripresa, ma permane il rischio di nuovi bruschi ribassi",
+   "orig": "Bitcoin is making a comeback, but the risk of more ‘sharp pullbacks’ is real",
+   "lead": "Il Bitcoin potrebbe continuare il suo recupero ma secondo gli analisti difficilmente supererà i 100mila dollari entro la fine dell'anno, frenato dall'aumento dei tassi di interesse e dal conflitto con l'Iran. Alice Liu, responsabile della ricerca della piattaforma dati sulle criptovalute CoinMarketCap, ha dichiarato che l'intera classe di asset crypto probabilmente chiuderà l'anno più in alto rispetto a oggi, ma sotto il picco raggiunto lo scorso ottobre, con una ripresa definita disomogenea. Lo riferisce South China Morning Post.",
+   "more": [
+    "Il Bitcoin ha vissuto negli ultimi anni forti oscillazioni di prezzo, influenzate da fattori come le decisioni delle banche centrali sui tassi di interesse, le tensioni geopolitiche internazionali e i flussi di capitale verso o lontano dagli asset più rischiosi come le criptovalute."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/cryptocurrency/article/3371238/bitcoin-making-comeback-risk-more-sharp-pullbacks-real?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T23:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfccde697",
+   "sez": "dibattito",
+   "titolo": "Francia, l'allarme della Corte dei Conti sul peso di pensioni e debito pubblico",
+   "orig": "Pensioni e interessi sul debito i buchi che affondano il Paese",
+   "lead": "La presidente della Corte dei Conti francese, Amelie de Montchalin, ha avvertito in un'intervista che la Francia rischia di soffocare sotto il peso del debito pubblico, segnalando in particolare le spese per le pensioni e gli interessi sul debito come fattori critici per i conti del paese. Secondo quanto riportato da Il Messaggero, questa ammissione arriva in un momento di difficoltà delle finanze pubbliche francesi. Lo riferisce Il Messaggero.",
+   "more": [
+    "Il debito pubblico francese è salito negli ultimi anni superando il 110% del Pil, tra i più alti dell'eurozona. Le spese previdenziali rappresentano una voce di bilancio rilevante in Francia, e diversi governi negli ultimi anni hanno tentato riforme delle pensioni incontrando forte opposizione sociale e politica."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/pensioni_interessi_debito_buchi_affondano_paese-9833472.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1d2917c7",
+   "sez": "dibattito",
+   "titolo": "Violenze in Francia, la stampa estera parla di un paese fratturato",
+   "orig": "«Un pays plus fracturé que jamais» : la presse étrangère sidérée par les violences en France",
+   "lead": "Le immagini delle violenze che hanno scosso la Francia nei giorni scorsi hanno fatto il giro del mondo, suscitando reazioni della stampa internazionale. Secondo quanto riporta Le Figaro, i media estranieri descrivono gli episodi come il segnale di un potere politico esaurito e di un paese profondamente diviso, a sei mesi da un'elezione presidenziale che secondo le stesse analisi potrebbe favorire i partiti estremi. Lo riferisce Le Figaro.",
+   "more": [
+    "La Francia si avvicina alle elezioni presidenziali previste nel 2027, in un clima politico segnato da tensioni sociali, crisi di governo e crescita dei partiti agli estremi dello schieramento politico, sia a destra che a sinistra, secondo quanto emerso nei recenti sondaggi e nelle cronache politiche francesi."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/international/un-pays-plus-fracture-que-jamais-la-presse-etrangere-sideree-par-les-violences-en-france-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T00:06+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zce331b9a",
+   "sez": "economia",
+   "titolo": "Biglietti aerei, nuovi rincari anche sulle rotte a tariffa agevolata",
+   "orig": "Voli, scattano nuovi rincari anche sulle rotte agevolate",
+   "lead": "Il prezzo dei biglietti aerei torna a salire, incluse le rotte finora a tariffa agevolata, a causa della crisi in Medio Oriente e del caro carburante. Secondo Il Messaggero, il prezzo del jet fuel è raddoppiato nell'arco di un anno, costringendo le compagnie aeree a fare i conti con costi operativi in aumento, che si riflettono sui prezzi finali pagati dai passeggeri. Lo riferisce Il Messaggero.",
+   "more": [
+    "Il prezzo del carburante per aerei è legato all'andamento del petrolio, a sua volta influenzato da tensioni geopolitiche come quelle in corso in Medio Oriente. Gli aumenti dei costi operativi delle compagnie aeree si trasferiscono tipicamente sui prezzi dei biglietti, colpendo soprattutto le tratte più economiche."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/voli_nuovi_aumenti_quanto_carburante_rotte_quali_cosa_cambia_prezzi-9833464.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zca0d27c6",
+   "sez": "economia",
+   "titolo": "Truffe online, la Corte di giustizia Ue riconosce il diritto al rimborso immediato",
+   "orig": "Truffe online, quando scatta il rimborso immediato dalla banca: cosa dice la sentenza Ue",
+   "lead": "Secondo la sentenza, riportata da la Repubblica, sarà l'istituto bancario a dover dimostrare la \"colpa grave\" del cliente per poter negare il rimborso, e non il contrario. Polimeni ha commentato che questo principio dovrebbe valere anche in Italia. Lo riferisce la Repubblica.",
+   "more": [
+    "Le truffe informatiche ai danni di correntisti sono aumentate negli ultimi anni con la diffusione dei pagamenti digitali. Le normative europee sui servizi di pagamento stabiliscono già criteri su quando le banche devono rimborsare i clienti truffati, ma l'onere della prova sulla responsabilità del cliente è un punto spesso controverso."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/19/news/truffe_online_rimborso_banca_sentenza_corte_giustizia_ue-425656792/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T05:00+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0e7bd2ee",
+   "sez": "mondo",
+   "titolo": "Algeria, il Consiglio dei ministri discute import, prezzi e desalinizzazione",
+   "orig": "Conseil des ministres : importation, plafonnement de prix, contrôles, stations de dessalement…",
+   "lead": "Il Consiglio dei ministri algerino, presieduto dal presidente Abdelmadjid Tebboune, si è riunito domenica 18 ottobre per discutere diversi temi economici, tra cui le importazioni, il tetto ai prezzi, i controlli di mercato e le stazioni di desalinizzazione dell'acqua. Lo riferisce Le Matin Algérie, che riproduce il comunicato ufficiale diffuso al termine della riunione.",
+   "more": [
+    "L'Algeria, come altri paesi nordafricani, affronta sfide legate alla scarsità d'acqua e punta sugli impianti di desalinizzazione per garantire approvvigionamento idrico. Le politiche di controllo dei prezzi e delle importazioni sono strumenti frequentemente usati dal governo algerino per contenere l'inflazione sui beni di consumo."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/conseil-des-ministres-importation-plafonnement-de-prix-controles-stations-de-dessalement/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-18T21:25+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z212a4c45",
+   "sez": "economia",
+   "titolo": "Al via il collocamento del doppio Btp Valore a 5 anni",
+   "orig": "Via al collocamento del doppio Btp Valore a 5 anni. La differenza è nella distribuzione delle cedole",
+   "lead": "Da oggi e fino a venerdì sarà possibile sottoscrivere il nuovo Btp Valore a 5 anni emesso dal Ministero dell'Economia e delle Finanze, proposto in due versioni che si differenziano per le modalità di distribuzione delle cedole. Secondo la Repubblica, lo strumento classico paga interessi ogni trimestre, mentre il titolo denominato \"Insieme\" versa tutto il rendimento in un'unica soluzione alla scadenza. Lo riferisce la Repubblica.",
+   "more": [
+    "I Btp Valore sono titoli di Stato italiani pensati soprattutto per i piccoli risparmiatori, con cedole prestabilite e premi fedeltà per chi li detiene fino a scadenza. Rappresentano uno degli strumenti con cui il Tesoro italiano finanzia il debito pubblico rivolgendosi direttamente al pubblico retail."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/19/news/btp_valore_insieme_5_anni_collocamento_quanto_rende-425656782/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T05:00+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5c0aacd9",
+   "sez": "sport",
+   "titolo": "Champions League Caf, l'Horoya AC batte Al Merrikh ma l'allenatore non è satisfatto",
+   "orig": "LDC CAF/ Horoya AC : Nouhoum Diané satisfait de la victoire, mais critique le contenu du match",
+   "lead": "L'Horoya AC, squadra guineana, ha battuto 1-0 in casa il club sudanese Al Merrikh nella gara di andata del secondo turno preliminare della Champions League della Confederazione Africana di Calcio (Caf). Nonostante la vittoria, l'allenatore dell'Horoya, Nouhoum Diané, ha criticato la prestazione della sua squadra, esprimendo insatisfazione per il contenuto della partita. Lo riferisce Guinée News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/18/ldc-caf-horoya-ac-nouhoum-diane-satisfait-de-la-victoire-mais-critique-le-contenu-du-match/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T19:37+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z63b91a4e",
+   "sez": "economia",
+   "titolo": "Anwar: la razionalizzazione dei sussidi è la scelta più difficile ma necessaria",
+   "orig": "PM Anwar says subsidy rationalisation toughest act, but vital to curb wastage",
+   "lead": "Il primo ministro malese Anwar Ibrahim ha dichiarato a Putrajaya che la razionalizzazione dei sussidi è uno degli atti economici più difficili adottati dal governo, ma resta necessaria per ridurre gli sprechi di risorse pubbliche. La misura rientra nel più ampio programma di riforma economica della Malaysia. Lo riferisce Malay Mail.",
+   "more": [
+    "La Malaysia ha a lungo sussidiato carburanti e beni di prima necessità; eliminare gradualmente questi sussidi mira a liberare fondi statali per altri usi, ma rischia di aumentare il costo della vita per i cittadini, rendendo la misura politicamente delicata."
+   ],
+   "fonti": [
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/10/19/pm-anwar-says-subsidy-rationalisation-toughest-act-but-vital-to-curb-wastage/239701",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-10-19T13:14+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd036e8a0",
+   "sez": "economia",
+   "titolo": "L'aumento dei prezzi della memoria spinge in alto il costo dei computer mentre la domanda si affievolisce",
+   "orig": "Rising memory costs push computer prices higher as demand weakens",
+   "lead": "Le spedizioni mondiali di desktop, laptop e workstation sono scese del 21,2% su base annua a 58,1 milioni di unità nel terzo trimestre del 2026, secondo la società di ricerca Omdia. L'aumento dei costi dei componenti ha spinto in alto i prezzi dei dispositivi, indebolendo la domanda. Le spedizioni di desktop sono calate del 23,5% a 11,7 milioni di unità. Lo riferisce Cyprus Mail.",
+   "more": [
+    "L'aumento dei prezzi dei chip di memoria è legato alla forte domanda generata dai data center per l'intelligenza artificiale, che assorbono gran parte della produzione mondiale, lasciando meno disponibilità e prezzi più alti per i produttori di PC e dispositivi di consumo."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/19/rising-memory-costs-push-computer-prices-higher-as-demand-weakens",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-19T07:30+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfc5578a7",
+   "sez": "economia",
+   "titolo": "La BCE sviluppa nuovi indicatori per monitorare le vulnerabilità delle banche dell'area euro",
+   "orig": "ECB develops new indicators to monitor euro area bank vulnerabilities",
+   "lead": "La Banca Centrale Europea ha messo a punto due nuovi indicatori per monitorare le vulnerabilità delle banche dell'area euro tra un test di stress e l'altro, utili alle autorità per valutare se gli istituti possono resistere a perdite future e mantenere la profittabilità durante le recessioni. Gli indicatori, presentati in un working paper della BCE, forniscono aggiornamenti trimestrali sui rischi del settore bancario basati su dati europei. Lo riferisce Cyprus Mail.",
+   "more": [
+    "Gli stress test bancari valutano periodicamente la capacità delle banche di assorbire shock economici; indicatori intermedi come quelli annunciati permettono alla BCE di seguire l'evoluzione dei rischi tra una verifica e l'altra, rendendo la supervisione più continua."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/19/ecb-develops-new-indicators-to-monitor-euro-area-bank-vulnerabilities",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-19T07:00+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfff0e7bc",
+   "sez": "economia",
+   "titolo": "PayChangu ottiene la licenza della Reserve Bank of Malawi per i pagamenti digitali",
+   "orig": "PayChangu lands Reserve Bank of Malawi licence to expand digital payments",
+   "lead": "La Reserve Bank of Malawi ha concesso a PayChangu una licenza come fornitore di servizi di pagamento, permettendo alla fintech locale di offrire servizi di aggregazione dei pagamenti in tutto il paese. La licenza, rilasciata ai sensi del Payment Systems Act del 2016, è in vigore dal 30 settembre 2026 e rappresenta un passo nella digitalizzazione dell'economia malawiana. Lo riferisce Nyasa Times.",
+   "more": [
+    "Le licenze come payment service provider permettono alle fintech di gestire transazioni digitali tra consumatori, commercianti e banche, favorendo l'inclusione finanziaria in paesi dove l'accesso ai servizi bancari tradizionali resta limitato."
+   ],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/paychangu-lands-reserve-bank-of-malawi-licence-to-expand-digital-payments/?utm_source=rss&utm_medium=rss&utm_campaign=paychangu-lands-reserve-bank-of-malawi-licence-to-expand-digital-payments",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-18T22:16+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z86270d08",
+   "sez": "economia",
+   "titolo": "Il Senato della Liberia chiede 792.552 dollari per aumenti salariali nel bilancio 2027",
+   "orig": "Pro Temp Karnga-Lawrence Must Put the Brakes on Pay Raise Plan for Senators",
+   "lead": "Una commissione del Senato liberiano ha chiesto l'inserimento di 792.552 dollari nel bilancio dell'anno fiscale 2027 per aumenti salariali, con il 70% destinato agli uffici personali dei senatori. FrontPage Africa sottolinea che metà della popolazione liberiana vive in condizioni di povertà e invita la presidente pro tempore Karnga-Lawrence a bloccare il piano. Lo riferisce FrontPage Africa.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/pro-temp-karnga-lawrence-must-put-the-brakes-on-pay-raise-plan-for-senators/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-10-19T05:29+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z96512932",
+   "sez": "economia",
+   "titolo": "Liberia si prepara a un grande forum internazionale su miniere ed energia",
+   "orig": "Liberia: All Set for Big International Mining and Energy Confab with Vision to Promote Economic Growth and Job Creation",
+   "lead": "Monrovia ospiterà una conferenza internazionale dedicata al settore minerario ed energetico, pensata per riposizionare questi comparti come motori di crescita economica, investimenti, creazione di posti di lavoro e sviluppo nazionale sostenibile in Liberia. Lo riferisce FrontPage Africa.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/liberia-all-set-for-big-international-mining-and-energy-confab-with-vision-to-promote-economic-growth-and-job-creation/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-10-19T05:07+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb597b9a0",
+   "sez": "economia",
+   "titolo": "Lao Development Bank e TCR Group avanzano un progetto hotel da 12 milioni di dollari a Luang Prabang",
+   "orig": "Lao Development Bank, TCR Group Advance USD 12 Million Hotel Project in Luang Prabang",
+   "lead": "La Lao Development Bank, in collaborazione con il gruppo TangChareon (TCR), ha fatto progredire un nuovo progetto per portare un marchio hotel internazionale a Luang Prabang, in Laos. La collaborazione non riguarda solo il finanziamento, ma riflette una visione condivisa tra le due parti per lo sviluppo della città. Lo riferisce The Laotian Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Laotian Times",
+     "p": "XX",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/19/lao-development-bank-tcr-group-advance-usd-12-million-hotel-project-in-luang-prabang/",
+     "angolo": "",
+     "atlas": "Laos",
+     "t": "2026-10-19T03:05+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf9b3b69c",
+   "sez": "economia",
+   "titolo": "L'assicuratore australiano Budget Direct apre una sede ad Adelaide",
+   "orig": "Budget Direct Sets up in Adelaide, Boosting Local Employment and Customer Service",
+   "lead": "Budget Direct, assicuratore australiano sottoscritto dal gruppo Auto & General, ha iniziato a servire i clienti da una nuova sede nel centro di Adelaide, segnando un investimento nell'Australia Meridionale. La struttura, operativa dal 19 ottobre 2026, ospiterà inizialmente un team dedicato al servizio clienti. Lo riferisce The Laotian Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Laotian Times",
+     "p": "XX",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/19/budget-direct-sets-up-in-adelaide-boosting-local-employment-and-customer-service/",
+     "angolo": "",
+     "atlas": "Laos",
+     "t": "2026-10-18T19:30+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z64ad6d35",
+   "sez": "economia",
+   "titolo": "Il ministro delle Finanze del Ghana: «la ripresa non basta», serve una nuova economia",
+   "orig": "Recovery is not enough: Finance Minister Ato Forson outlines vision for Ghana’s New Economy",
+   "lead": "Il ministro delle Finanze del Ghana, Cassiel Ato Forson, ha detto agli studenti dell'Università del Ghana ad Accra che la stabilizzazione economica è solo l'inizio, promettendo una «nuova economia» incentrata su occupazione e redditi più alti. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/economy/recovery-is-not-enough-finance-minister-ato-forson-outlines-vision-for-ghanas-new-economy",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-19T02:38+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z69aab3e0",
+   "sez": "economia",
+   "titolo": "L'FMI: il 30% dei minerali critici mondiali in Africa è vitale per IA ed energia",
+   "orig": "Africa’s 30% critical minerals vital for AI, energy boom – IMF",
+   "lead": "Secondo il Fondo Monetario Internazionale, la quota del 30% delle riserve mondiali di minerali critici detenuta dall'Africa posiziona il continente per beneficiare della crescente domanda legata alle infrastrutture per l'intelligenza artificiale e alle tecnologie per l'energia pulita. Lo riferisce MyJoyOnline.",
+   "more": [
+    "Minerali come cobalto, litio e terre rare sono essenziali per batterie, semiconduttori e impianti rinnovabili. L'Africa, ricca di questi giacimenti soprattutto nella Repubblica Democratica del Congo, è vista come attore chiave nella transizione energetica globale, pur affrontando sfide su infrastrutture e governance."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/africas-30-critical-minerals-vital-for-ai-energy-boom-imf/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-19T05:06+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z73fa26dd",
+   "sez": "economia",
+   "titolo": "Antigua e Barbuda rivelerà il bilancio completo del CHOGM prima dell'apertura",
+   "orig": "Government to disclose full CHOGM budget before meeting opens",
+   "lead": "Il ministro degli Affari Esteri di Antigua e Barbuda, E.P. Chet Greene, ha annunciato che il governo renderà pubblico il bilancio completo per il Commonwealth Heads of Government Meeting, inclusi i contributi dei partner stranieri, prima dell'apertura dell'evento. Il paese ospiterà l'incontro dall'1 al 4 novembre a Saint John's, con oltre 5.000 delegati attesi. Lo riferisce Antigua Observer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/government-to-disclose-full-chogm-budget-before-meeting-opens/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-10-19T01:29+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z70ddf471",
+   "sez": "economia",
+   "titolo": "Cuba produce oggi meno elettricità di 20 anni fa",
+   "orig": "Cuba produce menos electricidad hoy que hace 20 años",
+   "lead": "La produzione e il consumo di elettricità a Cuba sono calati del 33% nell'ultimo quinquennio, contribuendo alla paralisi dell'economia nazionale mentre il paese convive con continui blackout. Lo riferisce 14ymedio.",
+   "more": [
+    "Cuba soffre da anni una crisi energetica legata all'obsolescenza delle centrali termoelettriche, alla scarsità di combustibile e alla mancanza di investimenti, con frequenti interruzioni di corrente che colpiscono famiglie e imprese e aggravano le difficoltà economiche del paese."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/cuba-produce-electricidad-hoy-20_1_1132118.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-18T18:56+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd7a38cd8",
+   "sez": "economia",
+   "titolo": "In Bolivia la bassa domanda frena l'applicazione delle nuove tariffe dei bus interdipartimentali",
+   "orig": "La baja demanda frena la aplicación de las nuevas tarifas de buses interdepartamentales en las ciudades del eje",
+   "lead": "Le imprese di trasporto in Bolivia mantengono i prezzi precedenti nonostante siano state notificate della nuova scala tariffaria per i bus interdipartimentali, a causa della scarsa richiesta di passeggeri nelle città dell'asse centrale. A Santa Cruz alcune compagnie hanno sospeso le partenze per mancanza di passeggeri. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/economia/la-baja-demanda-frena-la-aplicacion-de-las-nuevas-tarifas-de-buses-interdepartamentales-en-las-ciudades-del-eje",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T20:23-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z50b49a42",
+   "sez": "economia",
+   "titolo": "Gli imprenditori tedeschi mostrano maggiore fiducia nell'economia",
+   "orig": "Wirtschaft in Deutschland: Firmenchefs schöpfen wieder mehr Zuversicht",
+   "lead": "L'economia tedesca mostra segnali di maggiore dinamismo, e questo si riflette in una crescente fiducia tra i dirigenti d'azienda. Secondo Der Spiegel, una tecnologia in particolare alimenta le speranze di ripresa economica in Germania. Lo riferisce Der Spiegel.",
+   "more": [
+    "La Germania, la maggiore economia europea, ha attraversato anni di stagnazione legata a crisi energetica, debolezza industriale e calo degli ordini. Un miglioramento della fiducia delle imprese è spesso considerato un indicatore anticipatore di investimenti e crescita futura."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-firmenchefs-schoepfen-wieder-mehr-zuversicht-a-cf010394-11e4-4540-b549-dcffc1829561#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T06:58+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z932d55ce",
+   "sez": "dibattito",
+   "titolo": "In Albania le proteste studentesche vanno oltre le tasse universitarie",
+   "orig": "Bei den gewaltsamen Studentenprotesten in Albanien geht es um mehr als nur Studiengebühren",
+   "lead": "In Albania sono in corso proteste studentesche con episodi di violenza, nate ufficialmente contro le tasse universitarie ma che, secondo NZZ, riflettono un malessere più ampio: nonostante la crescita economica del paese, molti giovani non vedono un futuro in Albania e beneficiano poco del boom turistico. Il primo ministro Edi Rama ha parlato di ingerenze straniere dietro le proteste. Lo riferisce NZZ.",
+   "more": [
+    "L'Albania ha registrato negli ultimi anni una crescita economica sostenuta soprattutto dal turismo, ma permangono alta disoccupazione giovanile ed emigrazione verso l'estero. Le tensioni tra giovani e governo riflettono spesso un malcontento diffuso su opportunità di lavoro e salari, temi comuni in diversi paesi dei Balcani."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/bei-den-gewaltsamen-studenten-protesten-in-albanien-geht-es-um-mehr-als-studiengebuehren-ld.10037388",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T03:30+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcf620a23",
+   "sez": "economia",
+   "titolo": "La Repubblica Dominicana affronta crescenti pressioni fiscali ed esterne",
+   "orig": "Factores que presionan la economía dominicana",
+   "lead": "L'economia dominicana sta affrontando un contesto di crescenti pressioni fiscali ed esterne, segnato dal rincaro del petrolio, da tassi di interesse elevati, dall'incertezza internazionale e da un debito pubblico in aumento. A ciò si aggiunge il persistente deficit fiscale, che costringe il governo a contrarre nuovi prestiti per finanziare parte della spesa e onorare impegni precedenti. Lo riferisce Diario Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/economia/macroeconomia/2026/10/19/factores-que-presionan-la-economia-dominicana/3692985",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-19T00:01+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2a1599ec",
+   "sez": "economia",
+   "titolo": "Il commercio dominicano alle prese con la concorrenza dei negozi cinesi",
+   "orig": "Los chinos y el comercio dominicano",
+   "lead": "Il settore del commercio al dettaglio nella Repubblica Dominicana vive una fase di contrazione economica da marzo, con un calo dello 0,75% fino a luglio. Tra le principali sfide del settore figurano l'informalità, le imprese di shipping, gli acquisti online e la concorrenza sleale dei negozi cinesi, che ha avuto un impatto negativo significativo. Lo riferisce Diario Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/actualidad/dialogo-libre/2026/10/19/los-chinos-y-el-comercio-dominicano/3692876",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-19T00:01+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbfd3b6e7",
+   "sez": "economia",
+   "titolo": "Il Pil cinese cresce più delle attese nel terzo trimestre",
+   "orig": "Chinas Wirtschaft wächst stärker als erwartet",
+   "lead": "Il Prodotto interno lordo della Cina è aumentato più del previsto nel terzo trimestre del 2026, con le esportazioni a fare da principale traino. Lo riferiscono ORF e Il Post.",
+   "more": [
+    "La Cina punta sulle esportazioni per compensare la domanda interna debole, frenata da crisi immobiliare e consumi contenuti. I dati trimestrali sul PIL sono seguiti con attenzione a livello globale perché influenzano le previsioni su commercio mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445491/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T06:48+02:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/19/economia-cinese-crescita-terzo-trimestre/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T05:24+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z524f24e9",
+   "sez": "economia",
+   "titolo": "Gli Emirati Arabi Uniti ospiteranno le riunioni annuali di FMI e Banca Mondiale nel 2029",
+   "orig": "UAE to host IMF, World Bank annual meetings in 2029",
+   "lead": "Gli Emirati Arabi Uniti ospiteranno le riunioni annuali del Fondo Monetario Internazionale e della Banca Mondiale nel 2029. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/world/4236346.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-19T09:25+04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z630d9acd",
+   "sez": "economia",
+   "titolo": "L'FMI prevede un rallentamento della crescita del Pil del Kirghizistan fino al 2027",
+   "orig": "IMF forecasts slowdown in Kyrgyzstan's GDP growth through 2027",
+   "lead": "Il Fondo Monetario Internazionale prevede un rallentamento della crescita del Prodotto Interno Lordo del Kirghizistan nei prossimi anni, fino al 2027. Lo riferisce AKIpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:925659",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-19T11:13+06:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zec82ce43",
+   "sez": "mondo",
+   "titolo": "Proteste del 17 ottobre in Francia: Macron rimanda ai corpi intermedi la ricerca di una soluzione",
+   "orig": "Mobilisation du 17 octobre : dépassé par les violences et vilipendé dans les cortèges, Emmanuel Macron s’en remet aux corps intermédiaires pour trouver une issue à la crise",
+   "lead": "Dopo le manifestazioni del 17 ottobre, che hanno unito il movimento liceale e la protesta contro il caro vita, degenerate in scontri e saccheggi in diverse città francesi, il presidente Emmanuel Macron si è detto arrabbiato e in uno stato di vergogna per la violenza, affidandosi ai corpi intermedi per trovare una via d'uscita dalla crisi. Le opposizioni, da sinistra a destra, hanno criticato il suo intervento giudicandolo inadeguato. A Limoges un incendio ha danneggiato il municipio storico della città. Lo riferiscono Le Monde, Le Figaro e Libération.",
+   "more": [
+    "Le proteste in Francia nascono dall'incontro tra il malcontento studentesco e la rabbia sociale per il costo della vita, in un contesto politico instabile segnato da tensioni tra governo e opposizioni. Le manifestazioni di piazza sono spesso accompagnate da episodi di violenza attribuiti a gruppi minoritari, i cosiddetti «casseurs»."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/politique/article/2026/10/19/mobilisation-du-17-octobre-emmanuel-macron-tente-de-reaffirmer-son-autorite-ebranlee-par-les-violences-et-les-mouvements-sociaux_6797402_823448.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T05:25+02:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/societe/article/2026/10/19/mobilisation-du-17-octobre-pour-des-jeunes-manifestants-l-etat-est-violent-et-la-casse-est-la-reponse-populaire-a-cette-violence_6797405_3224.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T05:30+02:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/politique/totalement-depasse-artisan-du-chaos-de-lfi-au-rn-la-classe-politique-etrille-l-allocution-d-emmanuel-macron-jugee-pas-a-la-hauteur-de-la-crise-20261018",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T23:41+02:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/mobilisations-du-17-octobre-en-reponse-aux-casseurs-macron-evoque-des-interdictions-de-manifester-20261018_NJ3T6UWGVRDVNEEA5PL55FU2VM/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T19:28+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/ce-17-octobre-cest-la-premiere-fois-que-je-me-sentais-aussi-investie-les-manifestants-heureux-existent-libe-les-a-rencontres-20261018_I3U463SLU5DEHF6QGIOAGBLYSI/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-18T18:08+00:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/tivaouane-une-mobilisation-populaire-pour-nettoyer-le-cimetiere-khalkhouss/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T22:58+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zea28e0b7",
+   "sez": "mondo",
+   "titolo": "Australia conquista l'argento ai Mondiali di ciclismo su pista",
+   "orig": "Australia claims second silver at track cycling world championships",
+   "lead": "Il ciclista australiano Leigh Hoffman non ha battuto il leggendario olandese Harrie Lavreysen nella finale dello sprint individuale ai Mondiali di ciclismo su pista. Hoffman si è dovuto accontentare della medaglia d'argento nella prestigiosa competizione mondiale. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-18/leigh-hoffman-silver-medal-sprint-world-championships/107280954",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-18T11:11+00:00"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147569-moroccos-doaa-choukri-claims-u21-bronze-at-world-karate-championships.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-18T17:21+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/karate-deux-medailles-de-bronze-pour-le-senegal-aux-mondiaux/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T20:17+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze8c0c5c2",
+   "sez": "mondo",
+   "titolo": "Padre Patricio Sánchez muore schiacciato da una croce durante la messa in Ecuador",
+   "orig": "Así fue la misa de despedida del padre Patricio Sánchez, quien murió tras caerle una cruz encima durante una celebración religiosa en Ecuador",
+   "lead": "La comunità religiosa e i fedeli si riuniscono in preghiera per ricordare il religioso che viveva dedicandosi al bene. Lo riferisce El Tiempo.",
+   "more": [
+    "La cerimonia funebre si è svolta nella chiesa dove il prete prestava servizio, mentre lunedì avrà inizio una novena in memoria del sacerdote."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/asi-fue-la-misa-de-despedida-del-padre-patricio-sanchez-quien-murio-tras-caerle-una-cruz-encima-durante-una-celebracion-religiosa-en-ecuador-3594453",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-18T18:14-05:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/miss-barinas-2014-stefany-merlin-murio-por-cancer-de-pancreas-tras-meses-de-lucha/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-19T00:50+00:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/comunidad/guayaquil/patricio-vivio-haciendo-el-bien-y-murio-entregando-todo-feligreses-y-religiosos-participan-en-eucaristia-en-memoria-del-sacerdote-patricio-sanchez-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-19T03:20+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf5948446",
+   "sez": "mondo",
+   "titolo": "Terremoto in Messico il 19 ottobre 2026",
+   "orig": "Temblor en México EN VIVO hoy, 19 de octubre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo vía SSN",
+   "lead": "Una scossa sismica ha colpito il Messico il 19 ottobre 2026, registrata dal Servizio Sismologico Nazionale. Sono disponibili aggiornamenti continui su magnitudine, epicentro e localizzazione precisa della scossa. Lo riferisce El Comercio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mag/respuestas/mx/temblor-en-mexico-en-vivo-hoy-19-y-20-de-octubre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-ssn-microsismo-cdmx-nnda-nnrt-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-19T05:10+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mag/usa/en-vivo-us/temblor-en-estados-unidos-en-vivo-hoy-19-y-20-de-octubre-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-usgs-california-nnda-nnrt-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-19T05:04+00:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/larevista/moda/en-vivo-victorias-secret-fashion-show-2026-modelos-artistas-y-donde-ver-el-desfile-desde-ecuador-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-18T23:20+00:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/revista/moda/2026/10/19/paso-de-andreina-martinez-por-el-victorias-secret-fashion-show-2026/3693064",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-10-19T00:10+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zbaa30409",
+   "sez": "mondo",
+   "titolo": "Mali eliminato dal torneo UFOA-A U20 da paese ospitante",
+   "orig": "Tournoi UFOA-A U20 : Le Mali, pays hôte, déjà éliminé !",
+   "lead": "Il Mali, paese ospitante del torneo UFOA-A U20, è stato eliminato prematuramente e non accederà né alle semifinali né alla Coppa d'Africa U20 2027 in programma l'anno prossimo. La Guinea ha battuto il Liberia avanzando verso le semifinali. Lo riferisce Seneweb.",
+   "more": [
+    "Il torneo UFOA-A è qualificante per la Coppa d'Africa Under 20, il principale torneo per le selezioni giovanili africane."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/tournoi-ufoa-a-u20-le-mali-pays-hote-deja-elimine_n_999001074.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T22:05+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/tournoi-ufoa-a-le-syli-u-20-signe-une-deuxieme-victoire-face-au-liberia/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T19:42+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/18/228717/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T19:27+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/tournoi-ufoa-a-u20-la-guinee-enchaine-face-au-liberia-et-se-qualifie-pour-les-demi-finales/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T18:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zeaed674c",
+   "sez": "mondo",
+   "titolo": "Trump sostiene Netanyahu mentre Iran avverte e Arabia Saudita scontra con Houthi",
+   "orig": "Middle East conflicts: Trump backs Netanyahu as Iran issues warning, Saudi-Houthi strikes escalate",
+   "lead": "Il presidente Trump sostiene apertamente Benjamin Netanyahu nella regione mediorientale mentre l'Iran emette avvertimenti. Nel frattempo, gli scontri tra Arabia Saudita e gli Houthi si intensificano. La situazione geopolitica del Medio Oriente rimane altamente instabile. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/mena/middle-east-live-trump-backs-netanyahu-as-iran-issues-warning-saudi-houthi-strikes-escalate-1.500715444",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-19T07:02+04:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-uae-urges-citizens-exercise-heightened-vigilance-middle-east",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T04:27+01:00"
+    },
+    {
+     "n": "The Baltic Times",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "http://www.baltictimes.com/mihkelson_meets_with_eu_special_representative_for_middle_east_peace_process/",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z42ad278c",
+   "sez": "mondo",
+   "titolo": "Dellien non conquista il bis al Bolivia Open, battuto da Seyboth Wild",
+   "orig": "Dellien pierde y se le escapa el bicampeonato del Bolivia Open",
+   "lead": "Il tennista boliviano Hugo Dellien ha perso la finale del Bolivia Open contro il brasiliano Seyboth Wild con un netto 6-4, 6-3, mancando il bis sul cemento sudamericano. Il campione nazionale non è riuscito a replicare il successo dello scorso anno. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/deportes/dellien-pierde-y-se-le-escapa-el-bicampeonato-del-bolivia-open",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T23:30-04:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/el-deportivo/noticia/colo-colo-cae-en-la-agonia-ante-santa-fe-y-queda-al-borde-de-la-eliminacion-en-la-copa-libertadores-femenina/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-18T21:55+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/deportes/ciudad-nueva-santa-cruz-academia-queda-eliminado-copa-simon-bolivar-manos-mineros_1792370823",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T00:47+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/deportes/dellien-queda-subcampeonato-bolivia-open-caer-seyboth-wild_1792361958",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-18T22:19+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf7f4180e",
+   "sez": "mondo",
+   "titolo": "Centroafrica: procedimenti contro cinque leader della società civile",
+   "orig": "Centrafrique : le parquet annonce des poursuites contre cinq leaders arrêtés après l’appel à une « ville morte »",
+   "lead": "Gli avvocati denunciano violazioni dei diritti di difesa durante il procedimento. Lo riferisce Radio Ndeke Luka.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107237-centrafrique-le-parquet-annonce-des-poursuites-contre-cinq-leaders-arretes-apres-lappel-a-une-ville-morte",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-10-18T06:35+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/revocation-et-poursuites-penales-contre-algassimou-diallo-le-parquet-fait-le-point-sur-la-procedure/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T21:48+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/proces-de-lex-magistrat-algassimou-diallo-incidents-de-procedure-retrait-de-la-defensele-parquet-general-apporte-des-precisions/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T21:21+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z97d52dc0",
+   "sez": "mondo",
+   "titolo": "Alberta verso referendum su indipendenza dal Canada con pronostici sfavorevoli",
+   "orig": "Alberta independence referendum: Will separatists survive a loss?",
+   "lead": "L'Alberta, provincia canadese, si prepara a un referendum sulla propria indipendenza dal Canada, con i sondaggi che indicano una probabile sconfitta dei separatisti. Tuttavia la storia suggerisce che perdere una votazione non arresta i movimenti indipendentisti nordamericani. Lo riferisce Al Jazeera.",
+   "more": [
+    "I movimenti per l'indipendenza regionale in Canada hanno dimostrato una notevole capacità di perseveranza nel tempo, indipendentemente dai risultati elettorali sfavorevoli."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T21:53+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T05:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z220f95a7",
+   "sez": "mondo",
+   "titolo": "Opposizione venezuelana riconferma Maria Corina Machado come leader",
+   "orig": "Venezuela opposition renews support for Maria Corina Machado as leader",
+   "lead": "L'alleanza dell'opposizione venezuelana ha rinnovato pubblicamente il sostegno a Maria Corina Machado come leader del movimento democratico. La premio Nobel in esilio ha chiesto al governo nuove elezioni e il permesso di rientrare nel paese sudamericano. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-18T22:41+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/venezuela-opposition-alliance-reaffirmsobel-laureate-machado-as-leader-n392289",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-19T04:04+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3662ce9c",
+   "sez": "mondo",
+   "titolo": "Esperti non riescono a spiegare le recenti decisioni di Trump su Russia e Ucraina",
+   "orig": "Expert: Trump's recent decisions have nothing to do with midterms",
+   "lead": "Uno specialista di politica americana ammette di non riuscire a interpretare le recenti scelte del presidente Trump che favoriscono la Russia e danneggiano l'Ucraina. Le decisioni non sembrerebbero motivate dai prossimi comizi elettorali americani. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610169568/expert-trump-s-recent-decisions-have-nothing-to-do-with-midterms",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-18T09:20+03:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-polytics/4175738-trump-my-stance-on-russia-is-very-simple-as-he-explains-recent-actions.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-19T07:35+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z66dee83f",
+   "sez": "mondo",
+   "titolo": "Vanuatu: premier Napat rischia mozione di sfiducia a novembre",
+   "orig": "Vanuatu PM Napat could face fresh no-confidence motion in November, local media reports",
+   "lead": "Secondo i media locali, il primo ministro del Vanuatu Napat potrebbe affrontare una nuova mozione di sfiducia nel prossimo mese. Nessuna mozione formale è stata ancora depositata ma manovre politiche sono in corso dietro le quinte. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2016901/vanuatu-pm-napat-could-face-fresh-no-confidence-motion-in-november-local-media-reports",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-19T11:47+13:00"
+    },
+    {
+     "n": "The Standard (Kenya)",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.standardmedia.co.ke/article/2001560139/motorists-households-face-fresh-fuel-price-hikes",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-14T18:50+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze35876e8",
+   "sez": "mondo",
+   "titolo": "Tifone Champi si indebolisce ma potrebbe diventare supertifone prima di colpire le Filippine",
+   "orig": "Champi weakens outside PAR but likely to re-intensify into super typhoon",
+   "lead": "Il tifone Champi si è indebolito al di fuori dell'area di responsabilità filippina ma l'agenzia meteorologica PAGASA prevede che si intensifichi nuovamente in supertifone prima di entrare nelle Filippine nei prossimi giorni. Le autorità rimangono in allerta. Lo riferisce Rappler.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/weather/typhoon-champi-itcz-easterlies-update-pagasa-forecast-october-19-2026-11am/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T12:00+08:00"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866206",
+     "angolo": "",
+     "atlas": "Taiwan",
+     "t": "2026-10-19T08:00+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8ea50c20",
+   "sez": "mondo",
+   "titolo": "Kylie Jenner sfoggia il celebre Fantasy Bra da 50 milioni di dollari al Victoria's Secret Show",
+   "orig": "FOTO Kylie Jenner a defilat pe podiumul Victoria’s Secret Show cu un sutien de 50.000.000 de dolari",
+   "lead": "Kylie Jenner ha indossato il leggendario \"Fantasy Bra\" di Victoria's Secret al fashion show della maison domenica a Los Angeles: un reggiseno da 50 milioni di dollari tempestato di diamanti, ritornato in passerella dopo otto anni di assenza dalla sfilata. Lo riferisce HotNews.",
+   "more": [
+    "Il celebre accessorio, creato da Jacob & Co., rappresenta uno dei pezzi più iconici della moda internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/foto-kylie-jenner-a-defilat-pe-podiumul-victorias-secret-show-cu-un-sutien-de-50-000-000-de-dolari-2379451",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-19T04:57+00:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/larevista/moda/kylie-jenner-sorprende-en-el-victorias-secret-fashion-show-con-el-iconico-fantasy-bra-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-19T00:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z62296e4b",
+   "sez": "salute",
+   "titolo": "Giornata mondiale osteoporosi: il 40% delle donne in menopausa è colpito",
+   "orig": "Journée mondiale de l’ostéoporose : 40% des femmes ménopausées concernées",
+   "lead": "L'Istituto Mohamed-Kassab di Tunisi ha organizzato una giornata di sensibilizzazione sulla salute ossea in occasione della Giornata mondiale dell'osteoporosi del 20 ottobre. Secondo le informazioni diffuse il 40% delle donne in menopausa è affetto dalla malattia. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "L'osteoporosi è una patologia che colpisce milioni di donne dopo la menopausa, caratterizzata dall'indebolimento delle ossa."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/18/journee-mondiale-de-losteoporose-40-des-femmes-menopausees-concernees/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-18T18:45+00:00"
+    },
+    {
+     "n": "La Nation (Gibuti)",
+     "p": "XX",
+     "c": "Gibuti",
+     "u": "https://www.lanation.dj/journee-mondiale-de-lalimentation-la-souverainete-alimentaire-se-construit-par-linnovation-et-linvestissement-radwan-abdillahi-ba/",
+     "angolo": "",
+     "atlas": "Djibouti",
+     "t": "2026-10-18T07:51+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf55461fc",
+   "sez": "mondo",
+   "titolo": "CEDEAO e AES avviano consultazioni per accordo di cooperazione",
+   "orig": "CEDEAO-AES : vers un accord de coopération",
+   "lead": "La CEDEAO e l'AES hanno concordato di istituire gruppi di lavoro tematici congiunti per raggiungere un accordo-quadro di cooperazione tra le due organizzazioni africane. La decisione è stata presa a Dakar il 17 ottobre, oltre due anni dopo la loro separazione politica. Lo riferisce Le Soleil.",
+   "more": [
+    "La riunione rappresenta un primo passo verso la normalizzazione delle relazioni tra le organizzazioni regionali dell'Africa occidentale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/international/infos-afrique/cedeao-aes-vers-un-accord-de-cooperation/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T18:37+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/cooperation-post-divorce-ce-que-la-cedeao-et-laes-ont-decide-a-dakar/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-18T13:34+00:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z565c6eaa",
+   "sez": "mondo",
+   "titolo": "Robert McClelland nominato nuovo capo della Commissione nazionale anticorruzione australiana",
+   "orig": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
+   "lead": "Robert McClelland, ex procuratore generale nel governo Rudd e attuale giudice federale, è stato nominato nuovo presidente della Commissione nazionale anticorruzione australiana. McClelland guidò il dicastero della giustizia dal 2007 al 2011, prima di lasciare il parlamento nel 2013. Lo riferisce The Guardian.",
+   "more": [
+    "La Commissione anticorruzione era stata istituita dal governo Labor ma successivamente scossa da controversie interne."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T03:56+00:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/politics/federal/judge-and-former-labor-mp-to-be-new-national-integrity-commissioner-20261019-p616rg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-19T16:06+11:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1070b470",
+   "sez": "cultura",
+   "titolo": "Il ristorante di sushi a Tokyo dove i clienti viaggiano tre ore per mangiare",
+   "orig": "The sushi restaurant Tokyoites travel three hours to for lunch",
+   "lead": "Isao Ogawa, chef esperto e pescaiolo di terza generazione con accesso privilegiato ai frutti del mare della baia di Toyama, attrae clienti disposti a viaggiare tre ore per cenare nel suo locale. I migliori chef giapponesi mangiano al suo banco per consigli. Lo riferisce Financial Times.",
+   "more": [
+    "La combinazione di expertise culinaria e accesso diretto alle materie prime migliori rende il ristorante una meta ambita dagli appassionati di sushi autentico."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/e09b009c-7ba1-4bf6-a329-937d38110ab4",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T04:00+00:00"
+    },
+    {
+     "n": "Prague Morning",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://praguemorning.cz/sticks-n-sushi-prague-opening/",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-16T07:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfe6586ae",
+   "sez": "tech",
+   "titolo": "Show televisivo coreano: tre celebrità in appuntamenti con avatar di intelligenza artificiale",
+   "orig": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+   "lead": "Tre celebità partecipano a un reality show televisivo coreano nel quale hanno appuntamenti romantici con avatar di intelligenza artificiale. Lo show riflette la crescente popolarità massiccia della tecnologia IA nella Corea del Sud contemporanea. Lo riferisce The New York Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T02:50+00:00"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/karnataka/shaan-gets-dasara-crowd-singing-and-dancing/article71599082.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T10:20+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zfdf33a4d",
+   "sez": "mondo",
+   "titolo": "Corte keniota respinge ricorso sulle nomine dei direttori Ketraco",
+   "orig": "Court dismisses petition challenging Ketraco directors’ appointment",
+   "lead": "La corte keniota ha respinto il ricorso che contestava le nomine dei direttori della Ketraco. I ricorrenti sostenevano che gli incarichi erano stati assegnati in violazione delle procedure prima della chiusura del processo di reclutamento. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/business/court-dismisses-petition-ketraco-directors-appointment-5637062",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-19T04:00+00:00"
+    },
+    {
+     "n": "The Point",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://thepoint.gm/africa/gambia/headlines/justice-cham-dismisses-sanna-manjangs-motion-challenging-courts-jurisdiction",
+     "angolo": "",
+     "atlas": "Gambia",
+     "t": "2026-10-16T11:32+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf77e0c64",
+   "sez": "ambiente",
+   "titolo": "Record El Niño? Dipende da chi conta le misurazioni",
+   "orig": "Record El Nino? Depends who's counting",
+   "lead": "Si discute sulla possibilità che l'attuale fenomeno di El Niño costituisca un record, poiché la misurazione dipende dalla metodologia adottata e dalle fonti scientifiche utilizzate. El Niños si verificano mediamente ogni due-sette anni e durano nove-dodici mesi. Lo riferisce Citizen Digital.",
+   "more": [
+    "Le differenze nelle metodologie di misurazione tra i diversi centri di ricerca meteorologica globale spiegano le discrepanze sui dati."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/record-elino-depends-whos-counting-n392299",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-19T04:49+00:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/record-el-nino-depends-whos-counting-1.500715417",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-19T08:35+04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z961da52a",
+   "sez": "mondo",
+   "titolo": "Secondo ministro visita il santuario Yasukuni durante il festival autunnale",
+   "orig": "Second minister visits Yasukuni Shrine during its autumn festival",
+   "lead": "Hiroshi Kajiyama, presidente del Consiglio generale del Partito liberaldemocratico, ha visitato il santuario Yasukuni durante il festival autunnale e ha effettuato un'offerta rituale per conto del premier Sanae Takaichi. La visita rinnova le tensioni diplomatiche regionali. Lo riferisce The Japan Times.",
+   "more": [
+    "Il santuario di Yasukuni ospita i memoriali di 14 criminali di guerra di classe A dalla Seconda guerra mondiale, alimentando polemiche diplomatiche periodiche."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/19/japan/politics/yasukuni-visit-lawmakers/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-19T13:44+09:00"
+    },
+    {
+     "n": "CGTN",
+     "p": "XX",
+     "c": "Pechino",
+     "u": "https://news.cgtn.com/news/2026-10-18/The-14-Class-A-war-criminals-enshrined-at-Yasukuni-Shrine-1RkOlkqFElO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-18T03:34+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc2b535b1",
+   "sez": "mondo",
+   "titolo": "Caos al porto di Huanggang a Hong Kong con code fino a due ore",
+   "orig": "Lawmakers blame Huanggang Port queues on confusion, traffic surge and system issues",
+   "lead": "Il porto rivampato di Huanggang a Hong Kong ha gestito oltre 152.000 attraversamenti domenica, con alcuni viaggiatori in attesa fino a due ore. I parlamentari hanno imputato la congestione a confusione sulle nuove procedure di sdoganamento e al massiccio flusso di passeggeri. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371353/lawmakers-blame-huanggang-port-queues-confusion-traffic-surge-and-system-issues?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T05:23+00:00"
+    },
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/small-scale-miners-blame-govt-for-galamsey-surge-over-three-year-permit-freeze",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-18T21:09+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z76c999ee",
+   "sez": "mondo",
+   "titolo": "Malesia punta a 250.000 studenti internazionali entro il 2030",
+   "orig": "SEA country with most universities in QS ranking targets 250,000 international students by 2030",
+   "lead": "La Malesia, paese del Sud-est asiatico con il maggior numero di università nella classifica QS, mira ad attrarre 250.000 studenti internazionali entro il 2030 diversificandone i paesi di origine. L'obiettivo rientra nella strategia di consolidare la posizione come meta educativa. Lo riferisce VnExpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VnExpress",
+     "p": "XX",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/news/news/education/sea-country-with-most-universities-in-qs-ranking-targets-250-000-international-students-by-2030-5133509.html",
+     "angolo": "",
+     "atlas": "Vietnam",
+     "t": "2026-10-19T07:45+07:00"
+    },
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/16/uzbekistan-targets-45-gw-of-energy-storage-capacity-by-2030",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-16T16:48+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8f21bd22",
+   "sez": "mondo",
+   "titolo": "Violenze in Francia: saccheggi a Parigi, Macron tenta di riprendere il controllo",
+   "orig": "EN DIRECT - Violences du 17 octobre : de nouveaux heurts et des magasins pillés à Paris, Emmanuel Macron tente de reprendre la main après le chaos",
+   "lead": "Domenica hanno ripreso gli scontri a Parigi dove nuovi negozi sono stati saccheggiati, mentre si registrano tentativi di irruzione a Lione, Marsiglia e nei pressi di Nantes. Gli incidenti proseguono il giorno dopo le violenze massicce del 17 ottobre. Lo riferisce Le Figaro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/en-direct-violences-manifestations-pillages-degats-paris-allocution-macron-17-octobre-emutes-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T06:50+02:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/International/a-paris-encore-des-heurts-et-des-magasins-pilles_n_999001076.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T23:21+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8ee523f6",
+   "sez": "mondo",
+   "titolo": "Macron accusa l'estrema sinistra di aver infiammato le proteste in Francia",
+   "orig": "Macron acusa a la “extrema izquierda” de inflamar la calle",
+   "lead": "Il presidente francese Emmanuel Macron ha accusato l'estrema sinistra di aver incendiato le strade durante le proteste, distaccando responsabilità dagli studenti ma avvertendo che chi ha tentato di rovesciare la Repubblica risponderà legalmente. Lo riferisce El País.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/internacional/2026-10-18/macron-acusa-a-la-extrema-izquierda-de-inflamar-la-calle.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-18T18:53+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/europa/presidente-de-francia-emmanuel-macron-culpa-a-la-extrema-izquierda-de-violencia-saqueos-y-vandalismo-durante-protestas-3594440",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-18T16:55-05:00"
+    }
+   ],
+   "data": "18 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd8422f48",
+   "sez": "cultura",
+   "titolo": "La canzone di protesta messicana dal 1965 con il movimento armato di Chihuahua",
+   "orig": "Fernando Morán*: Cuando el cantar hito suena",
+   "lead": "A partire dal settembre 1965 con l'Assalto al Quartiere Madera a Chihuahua, è sorto un movimento armato contemporaneo in Messico. La canzone di protesta messicana ha incorporato questo nuovo elemento nei suoi repertori musicali e narrativi. Lo riferisce La Jornada.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Jornada",
+     "p": "XX",
+     "c": "Città del Messico",
+     "u": "https://www.jornada.com.mx/2026/10/18/politica/010a2pol?partner=rss",
+     "angolo": "",
+     "atlas": "Mexico",
+     "t": "2026-10-18T08:45+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/carta-cuyos-hijos-adultos-llamen-menudo-quisieran-criaste-vidas-plenas-vida-plena-ruidosa-silencio-parte-suena-funciona_0_L5NSKreANS.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-19T04:18+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z23cd525c",
+   "sez": "salute",
+   "titolo": "Coniugato anticorpale anti-EGFR in fase 1 per il glioma ricorrente",
+   "orig": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
+   "lead": "Uno studio clinico ha sottoposto a sperimentazione di fase 1 un coniugato anticorpale mirato anti-EGFR nel trattamento del glioma ricorrente. La ricerca punta a identificare nuove strategie terapeutiche per i tumori cerebrali resistenti ai trattamenti convenzionali. Lo riferisce Nature Medicine.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nature Medicine",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nature.com/articles/s41591-026-04715-w",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T00:00+00:00"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/436365/t-maximums-b7-h3-targeted-allogeneic-car-t-mt027-receives-fda-clearance-for-phase-2-study",
+     "angolo": "",
+     "atlas": "Indonesia",
+     "t": "2026-10-19T10:56+07:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1ffe162e",
+   "sez": "mondo",
+   "titolo": "Macron rifiuta le dimissioni del ministro Nuñez dopo le violenze del 17 ottobre",
+   "orig": "🔴 En direct : Emmanuel Macron a refusé la démission de Laurent Nuñez après les violences lors des manifestations",
+   "lead": "Emmanuel Macron ha rifiutato le dimissioni del ministro dell'Interno Laurent Nuñez presentate domenica dopo gli scontri del 17 ottobre. Il presidente lo ha mantenuto nel nome della continuità del comando delle forze dell'ordine ma gli ha ordinato di fare chiarezza sulle carenze. Lo riferisce France 24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T05:19+00:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/politique/violences-du-17-octobre-laurent-nunez-a-presente-dimanche-sa-demission-a-emmanuel-macron-qui-l-a-refusee-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T07:02+02:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/marseille/la-police-s-est-fait-massacrer-nunez-attendu-au-tournant-apres-les-violences-du-17-octobre-a-marseille-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T06:55+02:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/en-direct-violences-du-17-octobre-sebastien-lecornu-convoque-une-reunion-crise-20261019_4DH7XPWBNZHJFHVAQ2YZQPS52Q/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T05:06+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "07:51",
+   "uscita": "mattino"
+  },
+  {
    "id": "zb093fd93",
    "sez": "mondo",
    "titolo": "Il New South Wales userà una legge speciale per far aumentare la produzione di una miniera di carbone",
@@ -50,7 +2534,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z3779b443",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Limoges, i residenti sotto shock dopo l'incendio del municipio durante le proteste",
    "orig": "‘It broke my heart’: Limoges residents reel after town hall fire",
    "lead": "Gli abitanti di Limoges, in Francia, hanno espresso shock e rabbia dopo che il municipio della città, un edificio storico di 140 anni, è stato dato alle fiamme durante le proteste. Le fonti non specificano le ragioni della mobilitazione, ma descrivono lo sconcerto della popolazione locale davanti ai danni subiti dall'edificio. Lo riferisce Al Jazeera.",
@@ -73,6 +2557,24 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-18T20:48+02:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T22:22+00:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T16:29+00:00"
     }
    ],
    "data": "19 ott",
@@ -124,50 +2626,6 @@ window.EDIZIONI["2026-10-19"] = {
     }
    ],
    "data": "19 ott",
-   "ora": "07:47",
-   "uscita": "mattino"
-  },
-  {
-   "id": "ze386c5be",
-   "sez": "sport",
-   "titolo": "Spalletti dopo il ko con la Lazio: \"Bremer parli di se stesso, nessuno ha salvato la faccia\"",
-   "orig": "L’accusa di Spalletti: “Abbiamo giovani che alla prima spallata vanno in terra. Bremer parli di se stesso, nessuno ha salvato la faccia”",
-   "lead": "Dopo la pesante sconfitta della Juventus contro la Lazio, l'allenatore Luciano Spalletti ha criticato duramente la squadra, parlando di una fragilità che \"arriva dalla testa e non dalle gambe\" e di giovani che \"alla prima spallata vanno in terra\". Il tecnico ha risposto anche al capitano Bremer, che a fine partita aveva accusato alcuni compagni di nascondersi nei momenti difficili, invitandolo a parlare di se stesso. Lo riferisce la Repubblica.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/19/news/spalletti_contro_bremer_juventus_lazio-425657256/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T23:28+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "07:47",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z3364ad33",
-   "sez": "sport",
-   "titolo": "Serie A: la Juventus crolla, la Lazio vola in testa con l'Inter",
-   "orig": "Serie A: la Juve crolla, la Lazio vola ed è in testa con l'Inter",
-   "lead": "Nel nono turno di Serie A la Juventus è crollata tra i fischi dello Stadium, mentre la Lazio ha vinto balzando in testa alla classifica insieme all'Inter. Successi anche per Como e Milan, mentre il Lecce ha battuto l'Udinese. Lo riferisce ANSA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/sport/2026/10/18/serie-a-la-juve-crolla-la-lazio-vola-ed-e-in-testa-con-linter_fbbef75c-2606-4c53-a729-a23a275d3dd6.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T23:10+02:00"
-    }
-   ],
-   "data": "18 ott",
    "ora": "07:47",
    "uscita": "mattino"
   },
@@ -410,6 +2868,33 @@ window.EDIZIONI["2026-10-19"] = {
      "u": "https://www.koreaherald.com/article/10907247",
      "angolo": "",
      "atlas": "South Korea"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-18T17:39+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/arteta-hails-arsenal-finishers-after-madueke-fells-forest-n392293",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-19T04:00+00:00"
+    },
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/arsenal-snatch-late-win-to-keep-pressure-on-man-city-as-man-utd-held/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-18T21:43+00:00"
     }
    ],
    "data": "19 ott",
@@ -1294,37 +3779,15 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-19T00:07-04:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "07:47",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z39b9c107",
-   "sez": "sport",
-   "titolo": "Madueke sblocca il match, l'Arsenal batte il Nottingham Forest",
-   "orig": "Madueke breaks Nottingham Forest’s resistance as dogged Arsenal edge to victory",
-   "lead": "L'Arsenal ha battuto 1-0 il Nottingham Forest al City Ground grazie a un gol di Noni Madueke, subentrato dalla panchina. Prima della partita il tema era l'assenza di gol: il Forest, guidato dal nuovo allenatore Oliver Glasner, non aveva ancora segnato in casa in questa stagione, mentre l'Arsenal aveva pareggiato 0-0 nelle due precedenti visite a questo stadio, con solo una vittoria nelle ultime cinque trasferte lì. Il tecnico dei Gunners Mikel Arteta ha elogiato i suoi subentrati, sottolineando la profondità della rosa a disposizione. Per il Forest continuano le difficoltà sotto la nuova gestione tecnica.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-18T17:39+00:00"
     },
     {
-     "n": "Citizen Digital",
+     "n": "Daily Tribune (Bahrein)",
      "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/arteta-hails-arsenal-finishers-after-madueke-fells-forest-n392293",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/vidyut-jammwal-makes-hollywood-debut-in-street-fighter-film-opens-with-51-million-worldwide",
      "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-10-19T04:00+00:00"
+     "atlas": "Bahrain",
+     "t": "2026-10-19T05:03+00:00"
     }
    ],
    "data": "19 ott",
@@ -2372,6 +4835,24 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-19T11:50+08:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/19/mundo/noticia/propostas-acusacoes-debate-lula-flavio-2191803",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T01:45+00:00"
+    },
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/mundo/noticia/corrupcion-narcotrafico-y-ataques-familiares-lula-y-flavio-bolsonaro-se-enfrentan-en-su-primer-debate-a-una-semana-del-balotaje-en-brasil/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-19T01:48+00:00"
     }
    ],
    "data": "19 ott",
@@ -2495,6 +4976,51 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-18T21:10+02:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1668634.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T05:36+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-will-russland-am-verhandlungstisch-halten-faz-110683325.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T03:00+00:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/trump-stoppt-russland-sanktionen-und-kritisiert-stattdessen-selenski-ld.10037538",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T05:15+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445479/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-18T23:39+02:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/business/energy/trump-lashes-out-at-zelensky-as-ukraine-keeps-hitting-russian-oil-1.500715511",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-19T09:13+04:00"
     }
    ],
    "data": "19 ott",
@@ -2691,8 +5217,6 @@ window.EDIZIONI["2026-10-19"] = {
   "z3779b443": "Al Jazeera dà voce alle reazioni emotive dei residenti colpiti dal danneggiamento di un edificio storico della città.",
   "z94ccc3f7": "Al Jazeera inquadra l'attacco nel contesto delle tensioni crescenti tra Kiev e Washington.",
   "zd4c2386b": "Al Jazeera segue l'evoluzione dei contagi legati al primo caso identificato nel paese.",
-  "ze386c5be": "La Repubblica riporta le parole dure di Spalletti e la replica indiretta al capitano Bremer dopo la sconfitta.",
-  "z3364ad33": "ANSA riassume i risultati della giornata con l'attenzione sul crollo della Juventus e il sorpasso in vetta della Lazio.",
   "zf38b3239": "ANSA descrive il ritorno televisivo di Fiorello e i contenuti dello speciale andato in onda su Rai1.",
   "zcbbafbb7": "ANSA riporta la reazione del presidente francese ai danni causati dalle proteste e le ricadute politiche interne.",
   "z27447b40": "Deutsche Welle riporta la dinamica dell'emergenza e l'intervento del caccia militare a scorta dell'aereo.",
@@ -2725,7 +5249,6 @@ window.EDIZIONI["2026-10-19"] = {
   "zdfeccbe4": "La testata riporta la controversia politica senza prendere posizione su chi abbia ragione tra le parti coinvolte.",
   "z35914989": "La testata sottolinea lo squilibrio geografico degli arrivi turistici indiani nel Regno Unito.",
   "z5976abf0": "La testata evidenzia il risultato commerciale del debutto negli Stati Uniti e all'estero.",
-  "z39b9c107": "Le fonti evidenziano la capacità dell'Arsenal di sbloccare le partite grazie ai cambi dalla panchina.",
   "z5783ebaf": "Il Messaggero si concentra sulla difficoltà di reperire le risorse necessarie alla manovra.",
   "z0c22ee1e": "Asia-Plus evidenzia il valore storico del ritrovamento dopo quasi un secolo di oblio.",
   "z0dd0f00d": "France 24 sottolinea la fragilità politica dell'esecutivo dopo le proteste.",
@@ -2765,7 +5288,95 @@ window.EDIZIONI["2026-10-19"] = {
   "z71b17aca": "Il Fatto Quotidiano racconta in prima persona l'impatto psicologico dell'attesa diagnostica su un malato di cancro.",
   "z8f2bef76": "Post-Courier evidenzia la tensione tra trasparenza sull'accordo e necessità di sicurezza operativa.",
   "zab677fdf": "la Repubblica denuncia la pressione sui produttori italiani causata dalla concorrenza di olio straniero a basso prezzo.",
-  "zaaae6722": "The EastAfrican presenta l'accordo come una svolta simbolica per le ambizioni infrastrutturali africane."
+  "zaaae6722": "The EastAfrican presenta l'accordo come una svolta simbolica per le ambizioni infrastrutturali africane.",
+  "z27968d75": "La testata evidenzia mete rapide ma suggestive per l'autunno giapponese.",
+  "z37666919": "La testata riporta i dettagli tariffari ufficiali della nuova linea ferroviaria.",
+  "z03c04331": "La testata evidenzia il contributo degli ex borsisti alla ricerca sanitaria nazionale.",
+  "z870c1d59": "La testata descrive le novità del decreto per i motociclisti.",
+  "z9897eadd": "La testata sottolinea le aspettative di maggiore equilibrio dopo i movimenti dell'offseason.",
+  "zed8738d6": "La testata presenta il festival come occasione di dialogo interculturale tramite l'umorismo.",
+  "z1e7d8a60": "La testata segnala il controllo come principale notizia economica della giornata.",
+  "z4de8d39f": "La testata evidenzia il valore collezionistico delle vetture e il coinvolgimento di Brad Pitt.",
+  "z9072eaa9": "La testata riporta la conferma della Banca Mondiale e la richiesta di ampliare il programma.",
+  "ze152a169": "La testata riporta l'azione legale intentata da SERAP e l'importo contestato.",
+  "zbd2ac38f": "La testata riporta il ritiro improvviso della tennista cinese e le sue motivazioni.",
+  "zdd3fc6b2": "La testata presenta il libro come una critica diretta agli stereotipi materni tedeschi.",
+  "z93733589": "La testata annuncia la data e la sede del forum energetico.",
+  "za6cfb0a0": "La testata riporta la proposta del progettista per lo stadio di Hong Kong.",
+  "z39decd54": "La testata evidenzia i criteri usati per selezionare le migliori franchigie brasiliane.",
+  "zca2d56c8": "La testata presenta il lavoro di GECOL come indizio di una riapertura prossima.",
+  "zc1007c94": "La testata riporta il riconoscimento ricevuto dal magistrato costaricano a Lisbona.",
+  "z4c4bd7b6": "La testata descrive la strategia comunicativa giapponese verso i mercati internazionali.",
+  "zbc181fb3": "La testata segnala il rischio legato all'elevato utilizzo di leva finanziaria sul titolo.",
+  "z478207b9": "La testata ricostruisce la carriera e la vita personale del difensore protagonista del gol.",
+  "z034ec034": "La testata sottolinea il valore della vittoria dopo le critiche della settimana precedente.",
+  "ze11410c6": "La testata segnala l'impatto immediato in Borsa della decisione governativa sulle aziende zuccheriere.",
+  "zbf9efec0": "La testata evidenzia il sorprendente primato in classifica della Lazio e le dichiarazioni di Gattuso sul gruppo squadra.",
+  "z6c9f40fa": "La testata riporta la richiesta degli operatori di mercato al governo in vista dell'aumento dei consumi invernali.",
+  "z1a6e3a20": "La testata evidenzia il rifiuto del governo centrale e la reazione di opposizione locale alla decisione.",
+  "z5a34b8bd": "La testata riporta i dettagli del nuovo finanziamento ottenuto dalla fintech filippina per la sua espansione.",
+  "zabda081e": "La testata riporta le dichiarazioni del ministro iraniano come avvertimento diretto contro un'escalation militare con Israele.",
+  "z4ab928a8": "La testata presenta l'evento come appuntamento di rilievo internazionale per lo sport del biliardo nel Golfo.",
+  "z22d34f03": "La testata riporta il messaggio di Netanyahu rivolto direttamente all'opinione pubblica statunitense sul tema nucleare iraniano.",
+  "z64f30e87": "La testata descrive un quadro di proteste diffuse in Europa legate a motivi economici, senza entrare in singoli episodi specifici.",
+  "zc6741e80": "La testata descrive lo spostamento di capitali degli investitori cinesi verso titoli più sicuri in un contesto di incertezza di mercato.",
+  "z24e1c993": "La testata riporta le previsioni degli analisti sull'andamento del Bitcoin nei prossimi mesi.",
+  "zfccde697": "La testata riporta l'allarme lanciato dalla massima autorità di controllo dei conti pubblici francesi.",
+  "z1d2917c7": "La testata riporta come la stampa internazionale interpreta le tensioni sociali e politiche in corso in Francia.",
+  "zce331b9a": "La testata collega l'aumento dei prezzi dei voli alla crisi mediorientale e al rincaro del carburante.",
+  "zca0d27c6": "La testata riporta la decisione della Corte Ue come un rafforzamento della tutela dei consumatori truffati.",
+  "z0e7bd2ee": "La testata riporta in modo diretto i temi discussi dal governo algerino nella riunione ministeriale.",
+  "z212a4c45": "La testata descrive le caratteristiche tecniche del nuovo titolo di Stato in collocamento.",
+  "z5c0aacd9": "La testata riporta il commento critico dell'allenatore nonostante il risultato positivo ottenuto dalla squadra.",
+  "z63b91a4e": "Malay Mail riporta le dichiarazioni del primo ministro sulla difficoltà politica della riforma dei sussidi.",
+  "zd036e8a0": "Cyprus Mail segnala il calo delle vendite globali di computer legato al rincaro dei componenti.",
+  "zfc5578a7": "Cyprus Mail riporta la pubblicazione di un working paper della BCE sui nuovi strumenti di monitoraggio.",
+  "zfff0e7bc": "Nyasa Times evidenzia il passo avanti del Malawi verso la digitalizzazione dei pagamenti.",
+  "z86270d08": "FrontPage Africa critica la richiesta di aumenti salariali dei senatori nel contesto della povertà diffusa nel paese.",
+  "z96512932": "FrontPage Africa presenta l'evento come occasione per attrarre investimenti nei settori minerario ed energetico.",
+  "zb597b9a0": "The Laotian Times presenta il progetto come tappa importante per lo sviluppo turistico di Luang Prabang.",
+  "zf9b3b69c": "La fonte presenta l'apertura come investimento occupazionale per la regione.",
+  "z64ad6d35": "3News riporta l'intervento del ministro davanti agli studenti universitari.",
+  "z69aab3e0": "MyJoyOnline riporta la valutazione dell'FMI sul potenziale minerario africano.",
+  "z73fa26dd": "Antigua Observer riporta l'impegno del governo alla trasparenza sui costi dell'evento.",
+  "z70ddf471": "14ymedio documenta il declino della produzione elettrica cubana negli ultimi venti anni.",
+  "zd7a38cd8": "Brújula Digital documenta la resistenza delle compagnie di trasporto all'applicazione delle nuove tariffe.",
+  "z50b49a42": "Der Spiegel segnala segnali di ottimismo tra i dirigenti d'impresa tedeschi.",
+  "z932d55ce": "NZZ interpreta le proteste come segnale di un disagio giovanile più profondo che va oltre le tasse universitarie.",
+  "zcf620a23": "Diario Libre elenca i principali fattori di pressione sull'economia dominicana.",
+  "z2a1599ec": "Diario Libre identifica la concorrenza cinese come una delle principali minacce al commercio locale.",
+  "zbfd3b6e7": "ORF conferma la crescita cinese superiore alle previsioni degli analisti.",
+  "z524f24e9": "Trend riporta l'annuncio relativo all'organizzazione delle riunioni finanziarie internazionali.",
+  "z630d9acd": "AKIpress riporta le previsioni dell'FMI sull'economia kirghisa.",
+  "zec82ce43": "Le Monde, Le Figaro e Libération documentano le reazioni politiche contrastanti all'intervento di Macron.",
+  "zea28e0b7": "La testata sottolinea la crescente notorietà di Hoffman nel ciclismo su pista internazionale nonostante il ko con il veterano olandese.",
+  "ze8c0c5c2": "La testata sottolinea il carattere devoto e generoso del sacerdote attraverso le testimonianze della comunità religiosa.",
+  "zf5948446": "La testata fornisce copertura in diretta dell'evento sismico con dati tecnici dal servizio nazionale competente.",
+  "zbaa30409": "La testata punta l'attenzione sulla delusione della squadra ospitante nel principale torneo calcistico giovanile regionale.",
+  "zeaed674c": "La testata di Dubai inquadra gli sviluppi geopolitici nel Medio Oriente evidenziando il posizionamento dei principali attori regionali.",
+  "z42ad278c": "La testata enfatizza la battuta d'arresto del numero uno del tennis boliviano nella ricerca del bicampionato nazionale.",
+  "zf7f4180e": "La testata evidenzia il conflitto tra le autorità e la società civile sulle libertà di espressione e protesta democratica.",
+  "z97d52dc0": "La testata analizza il prossimo voto come banco di prova per il futuro del movimento separatista albertano.",
+  "z220f95a7": "La testata documenta la compattezza dell'opposizione attorno a Machado come figura simbolica della lotta democratica.",
+  "z3662ce9c": "La testata esamina criticamente le mosse diplomatiche trumpiane mettendone in dubbio la logica politica.",
+  "z66dee83f": "La testata riporta gli sviluppi dell'instabilità politica interna delle isole del Pacifico.",
+  "ze35876e8": "La testata sottolinea il ciclo di intensificazione e indebolimento dei cicloni tropicali nel Pacifico occidentale.",
+  "z8ea50c20": "La testata evidenzia il ritorno di un simbolo lussuoso della moda mondiale sulla passerella più prestigiosa della maison.",
+  "z62296e4b": "La testata enfatizza l'importanza della prevenzione e della consapevolezza sulla salute ossea.",
+  "zf55461fc": "La testata inquadra l'incontro come un tentativo di ricostruire i ponti dopo il conflitto diplomatico tra i due blocchi regionali.",
+  "z565c6eaa": "La testata sottolinea la sfida affidatagli nel ripristinare la fiducia pubblica nell'organo anticorruzione nazionale.",
+  "z1070b470": "La testata esalta l'eccellenza artigianale e la dedizione di un maestro della gastronomia giapponese.",
+  "zfe6586ae": "La testata evidenzia il fenomeno dell'integrazione dell'IA nella cultura dell'intrattenimento sudcoreano.",
+  "zfdf33a4d": "La testata riporta una sentenza che conferma le nomine contestate secondo le regole della società nazionale.",
+  "zf77e0c64": "La testata pone l'accento sulle incertezze metodologiche nell'attribuzione di record climatici.",
+  "z961da52a": "La testata riporta il gesto simbolico che rievoca controversie storiche e diplomatiche ricorrenti nel Pacifico.",
+  "zc2b535b1": "La testata documenta i problemi di adattamento alle nuove operazioni del porto appena ristrutturato.",
+  "z76c999ee": "La testata evidenzia la competizione tra paesi asiatici per attrarre capitale umano internazionale nel settore educativo.",
+  "z8f21bd22": "La testata documenta l'evoluzione dell'instabilità civile in più città francesi con scontri e vandalismi ricorrenti.",
+  "z8ee523f6": "La testata riporta la strategia narrativa di Macron nel distribuire le responsabilità delle violenze tra attori politici.",
+  "zd8422f48": "La testata ripercorre l'evoluzione della musica di protesta messicana in relazione ai movimenti sociali armati.",
+  "z23cd525c": "La testata specializzata documenta i progressi della ricerca oncologica in ambito neurochirurgico.",
+  "z1ffe162e": "La testata sottolinea il gesto di sostegno del capo dello stato al suo ministro della sicurezza pur chiedendogli responsabilità."
  },
  "contesti": {
   "z9e6b8a28": "La campagna per il ballottaggio si è intensificata nelle ultime settimane con sondaggi che indicano una gara serrata tra i due candidati. Il dibattito di domenica rappresentava il primo confronto diretto tra Lula e Flávio Bolsonaro prima del voto decisivo fissato per il 25 ottobre.",
@@ -2780,7 +5391,9 @@ window.EDIZIONI["2026-10-19"] = {
   "zacc7b607": "Dal 2022, dopo l'accordo della Cop15 di Montreal, i governi lavorano all'attuazione degli obiettivi di protezione della biodiversità, ma i rapporti recenti segnalano ritardi nei finanziamenti e nell'attuazione delle misure nazionali.",
   "z321d78c2": "Le manifestazioni sono iniziate alcuni giorni prima, inizialmente pacifiche, per poi intensificarsi fino a trasformarsi in scontri diretti con le forze dell'ordine e in incendi di edifici pubblici a Tirana.",
   "z57108922": "Negli ultimi mesi nel Pd si è discusso del percorso verso la scelta del candidato premier per le prossime elezioni, con tensioni tra la segreteria guidata da Schlein e la componente riformista del partito sul ricorso alle primarie.",
-  "zc20b25d3": "La questione degli aumenti agli stipendi dei magistrati era già emersa nelle settimane precedenti durante la discussione della manovra, con il governo che ha più volte segnalato difficoltà a reperire le risorse necessarie per onorare gli adeguamenti previsti dalle norme vigenti."
+  "zc20b25d3": "La questione degli aumenti agli stipendi dei magistrati era già emersa nelle settimane precedenti durante la discussione della manovra, con il governo che ha più volte segnalato difficoltà a reperire le risorse necessarie per onorare gli adeguamenti previsti dalle norme vigenti.",
+  "zec82ce43": "Nei giorni precedenti al 17 ottobre si erano già registrate mobilitazioni liceali e sociali in Francia legate al caro vita e a rivendicazioni sul potere d'acquisto, in un clima di crescente tensione politica attorno al governo di Macron.",
+  "z3779b443": "Nelle settimane scorse la Francia è stata attraversata da una nuova ondata di tensioni sociali legate a politiche economiche e di bilancio contestate dai manifestanti. A Limoges, come in altre città francesi, i cortei di protesta si sono intensificati, culminando in disordini che hanno coinvolto edifici pubblici. Il municipio cittadino, simbolo storico della comunità locale, è stato incendiato durante gli scontri, lasciando i residenti attoniti davanti ai danni subiti dalla struttura."
  },
  "cronologie": {
   "z9e6b8a28": [
@@ -2895,6 +5508,38 @@ window.EDIZIONI["2026-10-19"] = {
    [
     "2026-10-19",
     "Meloni annuncia di non voler firmare il decreto sugli aumenti ai magistrati"
+   ]
+  ],
+  "zec82ce43": [
+   [
+    "17 ottobre 2026",
+    "Le manifestazioni nazionali contro il caro vita si uniscono alle proteste liceali, degenerando in violenze e saccheggi in diverse città"
+   ],
+   [
+    "18 ottobre 2026",
+    "Macron interviene in diretta tv esprimendo rabbia e vergogna per le violenze, rimandando ai corpi intermedi la ricerca di una soluzione"
+   ],
+   [
+    "19 ottobre 2026",
+    "Le opposizioni politiche criticano l'intervento del presidente, giudicato inadeguato alla crisi"
+   ]
+  ],
+  "z3779b443": [
+   [
+    "Giorni scorsi",
+    "Intensificazione delle proteste in diverse città francesi"
+   ],
+   [
+    "Durante le manifestazioni",
+    "Scontri tra manifestanti e forze dell'ordine a Limoges"
+   ],
+   [
+    "Notte degli scontri",
+    "Il municipio storico di Limoges viene dato alle fiamme"
+   ],
+   [
+    "Giorno dopo",
+    "Residenti e autorità locali esprimono shock per i danni all'edificio"
    ]
   ]
  },
@@ -3100,6 +5745,39 @@ window.EDIZIONI["2026-10-19"] = {
     }
    ],
    "divergono": "Le cifre di crescita coincidono (4,5%), ma le previsioni citate come riferimento differiscono leggermente: Euronews e The Japan Times citano una mediana Bloomberg del 4,4%, mentre Hong Kong Free Press cita un sondaggio AFP che indica lo stesso 4,4%. Euronews enfatizza il surplus commerciale e le tensioni con l'UE sui veicoli hybrid, aspetto assente in BBC News e The Japan Times. Hong Kong Free Press collega la crescita anche al rincaro energetico legato alla guerra in Iran, elemento non menzionato dalle altre testate disponibili."
+  },
+  "z3779b443": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Il giudizio è parziale: testo non leggibile, disponibili solo titolo e occhiello, che citano residenti 'sotto shock' per l'incendio del municipio di 140 anni durante le proteste.",
+     "b": "t"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Il giudizio è parziale: l'articolo non è leggibile per paywall, disponibile solo il titolo che parla genericamente di 'devastazioni' dopo 'proteste violente' in Francia.",
+     "b": "a"
+    },
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Racconta un apparente attacco incendiario al municipio storico di Limoges dopo le proteste nazionali di sabato, con crollo della guglia della torre dell'orologio. Cita i vigili del fuoco impegnati tutta la notte e un residente che definisce il gesto 'egoista'. Tono informativo con testimonianza diretta tramite corrispondente sul posto.",
+     "b": "a"
+    },
+    {
+     "n": "The New York Times",
+     "c": "New York",
+     "p": "US",
+     "t": "Il giudizio è parziale: testo non leggibile, disponibili solo titolo e occhiello, che descrivono Limoges come città non nota per disordini e indicano i 'rivoltosi' come autori dell'incendio al municipio durante le proteste diffuse in Francia.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le differenze reali emergono solo dal confronto tra titoli/occhielli e il testo completo della BBC News, unica fonte leggibile integralmente. BBC parla di 'apparente attacco incendiario' senza attribuire responsabilità definitive, mentre The New York Times nel suo occhiello usa il termine più diretto 'rivoltosi' come autori. ANSA, nel solo titolo disponibile, resta generica parlando di 'devastazioni' e 'proteste violente' senza specificare l'incendio del municipio. Al Jazeera si concentra, nel solo occhiello, sullo shock dei residenti e sull'età dell'edificio (140 anni)."
   }
  },
  "luoghi": {
@@ -3170,20 +5848,6 @@ window.EDIZIONI["2026-10-19"] = {
    "n": "Kenya",
    "p": [
     "Kenya"
-   ],
-   "pt": []
-  },
-  "ze386c5be": {
-   "n": "Torino",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z3364ad33": {
-   "n": "Italia",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -3406,13 +6070,6 @@ window.EDIZIONI["2026-10-19"] = {
    "n": "Houston",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z39b9c107": {
-   "n": "Nottingham",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -3687,6 +6344,603 @@ window.EDIZIONI["2026-10-19"] = {
     "Rwanda"
    ],
    "pt": []
+  },
+  "z27968d75": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z37666919": {
+   "n": "Gombak",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z03c04331": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z870c1d59": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9897eadd": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zed8738d6": {
+   "n": "Havlíčkův Brod",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z1e7d8a60": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z4de8d39f": {
+   "n": "Woking",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z9072eaa9": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "ze152a169": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zbd2ac38f": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "zdd3fc6b2": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z93733589": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "za6cfb0a0": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z39decd54": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zca2d56c8": {
+   "n": "Tripoli",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "zc1007c94": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z4c4bd7b6": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zbc181fb3": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z478207b9": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z034ec034": {
+   "n": "Tortona",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze11410c6": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zbf9efec0": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z6c9f40fa": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z1a6e3a20": {
+   "n": "Malakand",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z5a34b8bd": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zabda081e": {
+   "n": "Teheran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z4ab928a8": {
+   "n": "Manama",
+   "p": [
+    "Bahrain"
+   ],
+   "pt": []
+  },
+  "z22d34f03": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z64f30e87": {
+   "n": "Europa",
+   "p": [
+    "France",
+    "Germany",
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc6741e80": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z24e1c993": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zfccde697": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1d2917c7": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zce331b9a": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zca0d27c6": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "z0e7bd2ee": {
+   "n": "Algeri",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "z212a4c45": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5c0aacd9": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z63b91a4e": {
+   "n": "Putrajaya",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "zfc5578a7": {
+   "n": "Francoforte",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zfff0e7bc": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z86270d08": {
+   "n": "Monrovia",
+   "p": [
+    "Liberia"
+   ],
+   "pt": []
+  },
+  "z96512932": {
+   "n": "Monrovia",
+   "p": [
+    "Liberia"
+   ],
+   "pt": []
+  },
+  "zb597b9a0": {
+   "n": "Luang Prabang",
+   "p": [
+    "Laos"
+   ],
+   "pt": []
+  },
+  "zf9b3b69c": {
+   "n": "Adelaide",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z64ad6d35": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z73fa26dd": {
+   "n": "Saint John's",
+   "p": [
+    "Antigua and Barb."
+   ],
+   "pt": []
+  },
+  "z70ddf471": {
+   "n": "L'Avana",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "zd7a38cd8": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z932d55ce": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "zcf620a23": {
+   "n": "Santo Domingo",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "z2a1599ec": {
+   "n": "Santo Domingo",
+   "p": [
+    "Dominican Rep."
+   ],
+   "pt": []
+  },
+  "zbfd3b6e7": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z524f24e9": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z630d9acd": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "zec82ce43": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zea28e0b7": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "ze8c0c5c2": {
+   "n": "Guayaquil",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "zf5948446": {
+   "n": "Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "zbaa30409": {
+   "n": "Bamako",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "zeaed674c": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z42ad278c": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zf7f4180e": {
+   "n": "Bangui",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z97d52dc0": {
+   "n": "Alberta",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z220f95a7": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z3662ce9c": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z66dee83f": {
+   "n": "Port Vila",
+   "p": [
+    "Vanuatu"
+   ],
+   "pt": []
+  },
+  "ze35876e8": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z8ea50c20": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z62296e4b": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zf55461fc": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z565c6eaa": {
+   "n": "Canberra",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z1070b470": {
+   "n": "Toyama",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zfe6586ae": {
+   "n": "Seoul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zfdf33a4d": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zf77e0c64": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z961da52a": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zc2b535b1": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z76c999ee": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z8f21bd22": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z8ee523f6": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zd8422f48": {
+   "n": "Città del Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "z23cd525c": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1ffe162e": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3698,17 +6952,15 @@ window.EDIZIONI["2026-10-19"] = {
   "z4a661600": 2,
   "zb093fd93": 1,
   "z31a4c0a8": 1,
-  "z3779b443": 2,
+  "z3779b443": 3,
   "z94ccc3f7": 1,
   "zd4c2386b": 1,
-  "ze386c5be": 1,
-  "z3364ad33": 1,
   "zf38b3239": 1,
   "zcbbafbb7": 1,
   "z27447b40": 1,
   "zd8350245": 1,
   "z0ae6debf": 1,
-  "zc0641b77": 1,
+  "zc0641b77": 2,
   "zacc7b607": 2,
   "z321d78c2": 3,
   "z57108922": 2,
@@ -3734,8 +6986,7 @@ window.EDIZIONI["2026-10-19"] = {
   "z424ce7db": 2,
   "zdfeccbe4": 1,
   "z35914989": 1,
-  "z5976abf0": 1,
-  "z39b9c107": 1,
+  "z5976abf0": 2,
   "z5783ebaf": 2,
   "z0c22ee1e": 1,
   "z0dd0f00d": 2,
@@ -3775,7 +7026,95 @@ window.EDIZIONI["2026-10-19"] = {
   "z71b17aca": 1,
   "z8f2bef76": 1,
   "zab677fdf": 1,
-  "zaaae6722": 1
+  "zaaae6722": 1,
+  "z27968d75": 1,
+  "z37666919": 1,
+  "z03c04331": 1,
+  "z870c1d59": 1,
+  "z9897eadd": 1,
+  "zed8738d6": 1,
+  "z1e7d8a60": 1,
+  "z4de8d39f": 1,
+  "z9072eaa9": 1,
+  "ze152a169": 1,
+  "zbd2ac38f": 1,
+  "zdd3fc6b2": 1,
+  "z93733589": 1,
+  "za6cfb0a0": 1,
+  "z39decd54": 1,
+  "zca2d56c8": 1,
+  "zc1007c94": 1,
+  "z4c4bd7b6": 1,
+  "zbc181fb3": 1,
+  "z478207b9": 1,
+  "z034ec034": 1,
+  "ze11410c6": 1,
+  "zbf9efec0": 2,
+  "z6c9f40fa": 1,
+  "z1a6e3a20": 1,
+  "z5a34b8bd": 1,
+  "zabda081e": 1,
+  "z4ab928a8": 1,
+  "z22d34f03": 1,
+  "z64f30e87": 1,
+  "zc6741e80": 1,
+  "z24e1c993": 1,
+  "zfccde697": 1,
+  "z1d2917c7": 1,
+  "zce331b9a": 1,
+  "zca0d27c6": 1,
+  "z0e7bd2ee": 1,
+  "z212a4c45": 1,
+  "z5c0aacd9": 1,
+  "z63b91a4e": 1,
+  "zd036e8a0": 1,
+  "zfc5578a7": 1,
+  "zfff0e7bc": 1,
+  "z86270d08": 1,
+  "z96512932": 1,
+  "zb597b9a0": 1,
+  "zf9b3b69c": 1,
+  "z64ad6d35": 1,
+  "z69aab3e0": 1,
+  "z73fa26dd": 1,
+  "z70ddf471": 1,
+  "zd7a38cd8": 1,
+  "z50b49a42": 1,
+  "z932d55ce": 1,
+  "zcf620a23": 1,
+  "z2a1599ec": 1,
+  "zbfd3b6e7": 2,
+  "z524f24e9": 1,
+  "z630d9acd": 1,
+  "zec82ce43": 1,
+  "zea28e0b7": 1,
+  "ze8c0c5c2": 1,
+  "zf5948446": 1,
+  "zbaa30409": 1,
+  "zeaed674c": 1,
+  "z42ad278c": 1,
+  "zf7f4180e": 1,
+  "z97d52dc0": 1,
+  "z220f95a7": 1,
+  "z3662ce9c": 1,
+  "z66dee83f": 1,
+  "ze35876e8": 1,
+  "z8ea50c20": 1,
+  "z62296e4b": 1,
+  "zf55461fc": 1,
+  "z565c6eaa": 1,
+  "z1070b470": 1,
+  "zfe6586ae": 1,
+  "zfdf33a4d": 1,
+  "zf77e0c64": 1,
+  "z961da52a": 1,
+  "zc2b535b1": 1,
+  "z76c999ee": 1,
+  "z8f21bd22": 1,
+  "z8ee523f6": 1,
+  "zd8422f48": 1,
+  "z23cd525c": 1,
+  "z1ffe162e": 1
  },
  "video": {},
  "pillole": []
