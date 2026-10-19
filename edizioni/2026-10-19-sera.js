@@ -966,7 +966,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zd9444516",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "Lettonia, concerto a Preiļi per i 120 anni dalla nascita del compositore Jānis Ivanovs",
    "orig": "LISTEN AGAIN: Jānis Ivanovs 120 – a symphonic tribute to Latgale",
    "lead": "L'orchestra da camera da camera Sinfonietta Rīga diretta da Jānis Stafeckis ha tenuto un concerto commemorativo alla casa della cultura di Preiļi, in Lettonia, per celebrare i 120 anni dalla nascita del noto compositore lettone Jānis Ivanovs, originario della regione della Latgallia. Lo riferisce LSM.",
@@ -1362,7 +1362,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zb0762cf6",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Karate, Alexandr Capmoale conquista uno storico titolo mondiale under 21 per la Moldavia",
    "orig": "Alexandr Capmoale, the first U-21 karate world champion in the history of the Republic of Moldova",
    "lead": "L'atleta Alexandr Capmoale ha scritto una pagina storica per la Moldavia vincendo la medaglia d'oro ai campionati mondiali di karate under 21 a Bielsko-Biała, in Polonia. Si tratta del primo titolo iridato giovanile conquistato da un rappresentante del Paese esteuropeo in questa disciplina sportiva. Lo riferisce IPN (inglese).",
@@ -2836,7 +2836,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "za2b8eeba",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Sarina Wiegman rinnova contratto con Inghilterra fino a 2029",
    "orig": "England women's coach Wiegman extends contract to 2029",
    "lead": "La commissaria tecnica Sarina Wiegman ha rinnovato il contratto come allenatore della nazionale femminile di calcio dell'Inghilterra fino al 2029. L'intesa le consente di guidare le Lionesses verso tre possibili vittorie consecutive ai campionati europei.",
@@ -2950,48 +2950,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-10-16T06:42+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:43",
-   "uscita": "13"
-  },
-  {
-   "id": "z18a1527b",
-   "sez": "mondo",
-   "titolo": "Rubio nega pausa nella condivisione di intelligence americana con Ucraina",
-   "orig": "Rubio says there was no US pause in intelligence sharing with Ukraine",
-   "lead": "Il segretario di Stato americano Marco Rubio ha negato che gli Stati Uniti abbiano sospeso la condivisione di informazioni militari con l'Ucraina riguardanti i lanci di missili russi. Il presidente Zelensky ha confermato che lo scambio di intelligence è stato ripristinato e funziona correttamente.",
-   "more": [
-    "L'Ucraina si affida pesantemente all'intelligence americana trasmessa tramite il sistema Starshield per rilevare tempestivamente i missili balistici ad alta velocità lanciati dalla Russia contro le città."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-10-19T08:58+00:00"
-    },
-    {
-     "n": "The Kyiv Independent",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://kyivindependent.com/us-resumes-intel-sharing-on-russian-missile-launches-with-ukraine-zelensky-says/",
-     "angolo": "",
-     "atlas": "Ukraine",
-     "t": "2026-10-18T15:10+00:00"
-    },
-    {
-     "n": "Iran International",
-     "p": "XX",
-     "c": "Londra (in esilio)",
-     "u": "https://www.iranintl.com/202610195724",
-     "angolo": "",
-     "atlas": "Iran",
-     "t": "2026-10-19T10:20+00:00"
     }
    ],
    "data": "19 ott",
@@ -3130,7 +3088,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zd3a8f67a",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Ottobre rosa, campagna di sensibilizzazione al cancro del seno",
    "orig": "Octobre rose : campagne de sensibilisation au cancer du sein dans les outre-mer",
    "lead": "Prosegue il mese di Ottobre rosa con campagne di sensibilizzazione contro il cancro della mammella su tutto il territorio francese e negli oltremare. In Francia ogni anno diecimila donne muoiono per questa malattia, rappresentando la prima causa di mortalità femminile nel Paese.",
@@ -3153,37 +3111,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Chad",
      "t": "2026-10-18T19:30+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:43",
-   "uscita": "13"
-  },
-  {
-   "id": "zc96a8ff2",
-   "sez": "mondo",
-   "titolo": "Aereo Tel Aviv-Vienna costretto atterrare per minaccia bomba",
-   "orig": "Flugzeug von Tel Aviv nach Wien muss wegen Bombendrohung notlanden",
-   "lead": "Un aereo in volo da Tel Aviv verso Vienna è stato costretto a effettuare un atterraggio di emergenza a causa di una minaccia di bomba segnalata a bordo. L'episodio rappresenta un nuovo allarme per la sicurezza aerea nella regione medio-orientale.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/video/video-1668672.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-19T07:48+02:00"
-    },
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/zuerich/kantonspolizei-zuerich-nimmt-zwei-maenner-fest-und-stellt-60-kilogramm-drogen-sicher-ld.10026004",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-19T08:21+00:00"
     }
    ],
    "data": "19 ott",
@@ -4004,6 +3931,33 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-19T12:12+02:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T09:15+00:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635573",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-19T11:36+02:00"
+    },
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/utrikes/australiensisk-parlamentsledamot-skadad-i-attack-med-bil",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-19T11:06+02:00"
     }
    ],
    "data": "19 ott",
@@ -5566,28 +5520,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zee0f4f75",
-   "sez": "sport",
-   "titolo": "Hürzeler guida il Brighton a una vittoria sul rivale storico in Premier League",
-   "orig": "Premier League: Hürzeler bläst mit Brighton kräftig aus dem Süden",
-   "lead": "Il Brighton, guidato dal tecnico tedesco Fabian Hürzeler, ha battuto il suo storico rivale in Premier League grazie anche a un gol segnato da oltre 50 metri, salendo al terzo posto in classifica. Si tratta della prima vittoria del club contro quell'avversario dopo tempo. L'articolo sottolinea che le sfide più impegnative per Hürzeler sono ancora da affrontare. Lo riferisce Süddeutsche Zeitung.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/sport/huerzeler-brighton-premier-league-li.3565443",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-19T09:41+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:39",
-   "uscita": "13"
-  },
-  {
    "id": "zd0397b8d",
    "sez": "dibattito",
    "titolo": "Cittadinanza agli stranieri: proposta della Lega verso il voto alla Camera",
@@ -5649,30 +5581,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-19T06:14+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:39",
-   "uscita": "13"
-  },
-  {
-   "id": "z9a01fb04",
-   "sez": "dibattito",
-   "titolo": "Saccheggi a Milano: il governo valuta nuove misure di sicurezza dopo i raid di minorenni",
-   "orig": "Saccheggi a Milano, i raid dei minorenni e i messaggi su TikTok: il governo studia una nuova stretta sicurezza",
-   "lead": "Dopo i saccheggi avvenuti a Milano, quasi l'80% delle 220 persone portate in Questura risulta minorenne. Le prime valutazioni degli apparati di sicurezza indicano come responsabile una frangia violenta composta soprattutto da italiani di seconda generazione, che avrebbe organizzato gli assalti ai negozi tramite messaggi sui social network, in particolare TikTok. Il governo sta valutando una nuova stretta sulla sicurezza per contrastare questo tipo di episodi. Lo riferisce Il Sole 24 Ore.",
-   "more": [
-    "I saccheggi si sono verificati a margine delle proteste contro il caro vita a Milano, degenerate in scontri tra giovani e polizia per più giorni consecutivi. Il coinvolgimento di minorenni organizzati tramite social network pone al governo la questione di come prevenire simili episodi, bilanciando sicurezza pubblica e politiche di integrazione sociale."
-   ],
-   "fonti": [
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/saccheggi-milano-raid-minorenni-e-messaggi-tiktok-governo-studia-nuova-stretta-sicurezza-AJeYavnB",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-19T06:26+00:00"
     }
    ],
    "data": "19 ott",
@@ -5772,46 +5680,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-19T10:07+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
-   "id": "zead05f92",
-   "sez": "mondo",
-   "titolo": "La deputata indipendente Helen Haines in condizioni critiche dopo un'aggressione fuori dal suo ufficio",
-   "orig": "Independent MP Helen Haines in critical condition after ‘attack’ outside Wangaratta office, PM says",
-   "lead": "La parlamentare indipendente australiana Helen Haines è in condizioni critiche dopo un'aggressione avvenuta lunedì con un veicolo fuori dal suo ufficio elettorale a Wangaratta, nello stato di Victoria. Il primo ministro Anthony Albanese ha confermato che un uomo è stato arrestato sulla scena dell'episodio. Albanese ha espresso il proprio pensiero per la deputata, che rappresenta il collegio di Indi. Non sono ancora stati chiariti i motivi dell'attacco. Lo riferisce The Guardian.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-19T09:15+00:00"
-    },
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635573",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-19T11:36+02:00"
-    },
-    {
-     "n": "SVT Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.svt.se/nyheter/utrikes/australiensisk-parlamentsledamot-skadad-i-attack-med-bil",
-     "angolo": "",
-     "atlas": "Sweden",
-     "t": "2026-10-19T11:06+02:00"
     }
    ],
    "data": "19 ott",
@@ -6547,7 +6415,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z427e8493",
-   "sez": "cucina",
+   "sez": "ingegneria",
    "titolo": "Come erano fatti i primi seggioloni per bambini",
    "orig": "Come erano fatti i primi seggioloni? Sedie alte e strettissime, senza vassoi né poggiapiedi",
    "lead": "Gambero Rosso ricostruisce la storia dei seggioloni per bambini, nati nel Seicento come sedie di legno alte e strette, spesso senza vassoio né poggiapiedi. L'articolo ripercorre l'evoluzione di questo oggetto fino ai modelli moderni come la Tripp Trapp disegnata da Peter Opsvik e il modello ANTILOP di IKEA, mostrando come i seggioloni abbiano accompagnato il cambiamento del ruolo dei bambini a tavola nel corso dei secoli. Lo riferisce Gambero Rosso.",
@@ -6822,7 +6690,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z1e2f8b77",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Hybe porta il Weverse Con Festival in India",
    "orig": "Hybe bets on King, TXT and festival format to win over Indian music fans",
    "lead": "L'etichetta sudcoreana Hybe porterà per la prima volta all'estero il suo festival Weverse Con, puntando su un formato multi-artista che unisce star K-pop come il rapper King e il gruppo Tomorrow X Together a talenti indiani, per conquistare il pubblico musicale indiano. Il Weverse Con Festival India si terrà il 27 e 28 marzo 2027 a Nuova Delhi, organizzato da Weverse Company, sussidiaria di Hybe che gestisce la piattaforma globale per i fan. Lo riferisce The Korea Herald.",
@@ -7178,7 +7046,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z7783fcb0",
-   "sez": "cucina",
+   "sez": "economia",
    "titolo": "Le farine di insetti dovevano rivoluzionare l'alimentazione. Perché le aziende sono in crisi?",
    "orig": "Le farine di insetti dovevano rivoluzionare l’alimentazione. Perché le aziende sono in crisi?",
    "lead": "L'industria delle proteine da insetti, dopo anni di investimenti miliardari destinati a farne il futuro dell'alimentazione sostenibile, attraversa oggi una fase di difficoltà, con fallimenti aziendali, licenziamenti e procedure di risanamento. Il settore puntava sulle farine ricavate da larve come alternativa proteica a basso impatto ambientale rispetto alla carne e ad altre fonti tradizionali. Il principale ostacolo resta il prezzo: le farine di insetti costano ancora molto più delle alternative convenzionali, rendendo difficile la loro diffusione su larga scala nonostante le promesse iniziali del comparto. Lo riferisce Gambero Rosso.",
@@ -8148,7 +8016,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "sguardi": {
   "zbc4f278c": "la Repubblica evidenzia l'estensione della protesta a più regioni del Sud Italia.",
   "z0ace5a3e": "The Guardian mette a confronto l'intensa attività ciclonica del Pacifico con la quiete della stagione atlantica.",
-  "zead05f92": "The Guardian riporta le parole del primo ministro Albanese sulla deputata ferita.",
   "ze4dd5841": "The Guardian collega le proteste al malcontento diffuso sulle condizioni di vita quotidiane.",
   "za5836191": "la BBC quantifica la riduzione dei beneficiari dell'assistenza alimentare.",
   "z01c55616": "VnExpress sottolinea il risultato pieno della squadra vietnamita, con una medaglia per ciascun partecipante.",
@@ -8283,11 +8150,9 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "za4196cf7": "La testata locale riporta il risultato dell'incontro inaugurale del torneo calcistico tra ministeri sierraleonesi.",
   "z899f0b6d": "Il quotidiano economico valuta l'impatto energetico ed economico del passaggio all'ora solare per famiglie e imprese italiane.",
   "z5c44135f": "Il quotidiano economico fornisce previsioni meteorologiche per la settimana in arrivo in Italia.",
-  "zee0f4f75": "Il quotidiano tedesco valorizza il successo dell'allenatore connazionale Hürzeler, sottolineando le difficoltà future della squadra.",
   "zd0397b8d": "Il quotidiano economico riporta i contenuti della proposta della Lega in discussione alla Camera senza indicare le posizioni di altre forze politiche.",
   "z4ef24aa7": "La testata di design presenta l'apertura dell'archivio come un'occasione per esplorare l'intreccio tra arte, design e industria nel Novecento milanese.",
   "zc0a318a7": "Il quotidiano tedesco descrive un clima di forte preoccupazione all'interno del club dopo l'ultima sconfitta.",
-  "z9a01fb04": "Il quotidiano economico riporta i dati sull'età dei fermati e sul possibile ruolo dei social network nell'organizzazione dei raid, citando le valutazioni della sicurezza.",
   "za4f61adb": "La testata di design e stile presenta la collaborazione come un incontro tra moda e arte tessile contemporanea.",
   "z14419c08": "La testata ghanese riporta le dichiarazioni della giocatrice sulle difficoltà del prossimo playoff dopo il percorso complicato nella Coppa d'Africa.",
   "z8b01cc01": "Der Standard racconta l'infortunio come il momento che ha deciso l'esito del derby",
@@ -8328,13 +8193,11 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "za2b8eeba": "Conferma della continuità tecnica della nazionale calcistica femminile britannica",
   "z170db2c0": "Reshuffle del governo russo con promozioni di quattro funzionari a vicepremiér",
   "z38c1f28f": "Interpretazione politica contemporanea di un evento storico da parte della propaganda ufficiale cinese",
-  "z18a1527b": "Smentita americana su presunte interruzioni nel supporto informativo a Kiev",
   "za8e9e1cf": "Episodio di controllo dell'ordine pubblico durante una protesta contro azienda di armamenti",
   "z0dd357fb": "Escalation della violenza nelle proteste francesi con scontri fra manifestanti e forze dell'ordine",
   "z7d5a2743": "Accusa di responsabilità indonesiana per la crisi dello smog regionale da parte di Singapore",
   "zb768dd7d": "Interrogativo sul futuro agonistico di una campionessa olimpica pluridecorata",
   "zd3a8f67a": "Iniziativa di sanità pubblica per la prevenzione e il dépistage di una malattia oncologica femminile",
-  "zc96a8ff2": "Incidente di sicurezza aerea conseguente a minaccia di attentato su rotta internazionale",
   "z91143bb9": "Morte di un'importante personalità della musica brasiliana riconosciuto a livello internazionale",
   "z9b1b6733": "Analisi dell'inflazione nel settore agroalimentare portoghese legata a fattori geopolitici",
   "zf1a52de3": "Dimensione internazionale e organizzazione del movimento di protesta francese con regia sinistra",
@@ -8656,13 +8519,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "Jalisco",
    "p": [
     "Mexico"
-   ],
-   "pt": []
-  },
-  "zead05f92": {
-   "n": "Wangaratta",
-   "p": [
-    "Australia"
    ],
    "pt": []
   },
@@ -9585,13 +9441,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "zee0f4f75": {
-   "n": "Brighton",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "zd0397b8d": {
    "n": "Roma",
    "p": [
@@ -9610,13 +9459,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "Mönchengladbach",
    "p": [
     "Germany"
-   ],
-   "pt": []
-  },
-  "z9a01fb04": {
-   "n": "Milano",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -9865,13 +9707,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z18a1527b": {
-   "n": "Kyiv",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "za8e9e1cf": {
    "n": "Ulm",
    "p": [
@@ -9904,13 +9739,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "Paris",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "zc96a8ff2": {
-   "n": "Vienna",
-   "p": [
-    "Austria"
    ],
    "pt": []
   },
@@ -10768,7 +10596,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "rilievo": {
   "zbc4f278c": 2,
   "z0ace5a3e": 1,
-  "zead05f92": 2,
   "ze4dd5841": 2,
   "za5836191": 2,
   "z01c55616": 1,
@@ -10903,11 +10730,9 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "za4196cf7": 1,
   "z899f0b6d": 1,
   "z5c44135f": 1,
-  "zee0f4f75": 1,
   "zd0397b8d": 1,
   "z4ef24aa7": 1,
   "zc0a318a7": 1,
-  "z9a01fb04": 2,
   "za4f61adb": 1,
   "z14419c08": 1,
   "z8b01cc01": 1,
@@ -10948,13 +10773,11 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "za2b8eeba": 1,
   "z170db2c0": 1,
   "z38c1f28f": 1,
-  "z18a1527b": 2,
   "za8e9e1cf": 1,
   "z0dd357fb": 1,
   "z7d5a2743": 1,
   "zb768dd7d": 1,
   "zd3a8f67a": 1,
-  "zc96a8ff2": 1,
   "z91143bb9": 1,
   "z9b1b6733": 1,
   "zf1a52de3": 1,
