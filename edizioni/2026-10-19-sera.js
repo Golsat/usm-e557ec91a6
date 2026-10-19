@@ -3,6 +3,1349 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z2edc2048",
+   "sez": "mondo",
+   "titolo": "Libano, gli aiuti iraniani a Hezbollah aumentano le pressioni degli Usa sul governo",
+   "orig": "Hezbollah funding plan indicates a new challenge to Lebanon’s government",
+   "lead": "Un piano di finanziamenti dell'Iran destinato a Hezbollah, stimato in circa 200 milioni di dollari di aiuti, rappresenta una nuova sfida per il governo del Libano, sottoposto a una crescente pressione diplomatica da parte degli Stati Uniti per arginare l'influenza di Teheran. Lo riferisce Al Jazeera.",
+   "more": [
+    "I trasferimenti finanziari da Teheran a Hezbollah avvengono in una fase di forte instabilità politica ed economica per Beirut, costretta a bilanciare la presenza dominante del movimento sciita sul territorio con le relazioni e le richieste strategiche avanzate da Washington."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-19T08:34+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z67e6f901",
+   "sez": "mondo",
+   "titolo": "La Repubblica Ceca mette in guardia i viaggiatori per i disordini in Francia",
+   "orig": "Czech Foreign Ministry warns travellers about unrest in France",
+   "lead": "Il ministero degli Esteri della Repubblica Ceca ha diramato un'allerta formale per mettere in guardia i propri cittadini in viaggio verso la Francia a causa dei disordini in corso sul territorio transalpino, invitando alla massima prudenza durante gli spostamenti. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/czech-foreign-ministry-warns-travellers-about-unrest-france-8900355",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-19T11:11+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z45062f22",
+   "sez": "mondo",
+   "titolo": "Repubblica Ceca, il Senato contesta la legge sui dipendenti pubblici davanti alla Corte costituzionale",
+   "orig": "Senate to challenge parts of civil service law at Constitutional Court",
+   "lead": "Il Senato della Repubblica Ceca ha deciso di impugnare alcune parti della legge sul pubblico impiego davanti alla Corte costituzionale, aprendo un contenzioso formale sulla legittimità della normativa che regola l'amministrazione statale del Paese mitteleuropeo. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/senate-challenge-parts-civil-service-law-constitutional-court-8900352",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-19T10:52+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z17398ebe",
+   "sez": "mondo",
+   "titolo": "Un caccia Spitfire della Seconda guerra mondiale viene svelato a Praga",
+   "orig": "Historic Spitfire from Second World War to be unveiled in Prague",
+   "lead": "Uno storico velivolo Spitfire risalente alla Seconda guerra mondiale viene presentato ufficialmente a Praga, offrendo al pubblico ceco un importante pezzo di memoria storica legato all'aviazione militare del Novecento e al conflitto contro le potenze dell'Asse. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/historic-spitfire-second-world-war-be-unveiled-prague-8900329",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-19T08:08+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z92e46beb",
+   "sez": "mondo",
+   "titolo": "Repubblica Ceca, governo e sindacati riaprono il tavolo sugli aumenti nel pubblico impiego",
+   "orig": "Czech government and unions to resume talks on public sector pay rises",
+   "lead": "Il governo della Repubblica Ceca e le organizzazioni sindacali si preparano a riprendere le trattative per concordare gli aumenti salariali destinati ai dipendenti del settore pubblico, nel tentativo di colmare le distanze economiche ed evitare tensioni sociali nel Paese. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/czech-government-and-unions-resume-talks-public-sector-pay-rises-8900328",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-19T08:07+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zc7c55c51",
+   "sez": "mondo",
+   "titolo": "Lituania, i funzionari di polizia chiedono stipendi più alti e minacciano proteste",
+   "orig": "Pareigūnai ragina valdžią labiau didinti pareigūnų algas, perspėja dėl protesto",
+   "lead": "L'Associazione nazionale dei sindacati delle forze dell'ordine lituane ha criticato l'aumento salariale per il personale in divisa previsto nel bilancio statale 2027, avvertendo che, senza interventi correttivi, organizzerà una manifestazione di protesta davanti alla sede del governo a Vilnius. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3087181/pareigunai-ragina-valdzia-labiau-didinti-pareigunu-algas-perspeja-del-protesto",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-19T12:34+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z31811397",
+   "sez": "mondo",
+   "titolo": "Lituania, il nuovo codice del lavoro estende a sei mesi il periodo di prova",
+   "orig": "Eglė Tamavičiūtė. Pusmetis išbandymui: daugiau laiko darbuotojui ir pareigų darbdaviui",
+   "lead": "A partire dal primo novembre il codice del lavoro della Lituania consentirà di concordare un periodo di prova fino a sei mesi, garantendo più tempo per valutare l'idoneità del dipendente ma aumentando al contempo i doveri dei datori di lavoro nelle motivazioni dei licenziamenti. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslo-pozicija/692/3087153/egle-tamaviciute-pusmetis-isbandymui-daugiau-laiko-darbuotojui-ir-pareigu-darbdaviui",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-19T12:32+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zc1c9a54e",
+   "sez": "mondo",
+   "titolo": "Lituania, fondi ridotti per i restauri culturali: il ministero cerca canali alternativi",
+   "orig": "Alsys sako, kad kitąmet dalis kultūros įstaigų gali likti nerenovuotos: ieškos alternatyvų",
+   "lead": "Il ministro della Cultura lituano Lukas Alsys ha presentato il progetto di bilancio avvertendo che nel 2025 parte delle strutture, dei musei e delle dimore storiche potrebbe rimanere senza ristrutturazioni, poiché le risorse prioritariamente disponibili saranno destinate ai salari del settore e al soft power. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/kultura/12/3087110/alsys-sako-kad-kitamet-dalis-kulturos-istaigu-gali-likti-nerenovuotos-ieskos-alternatyvu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-19T12:26+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z51f5537c",
+   "sez": "economia",
+   "titolo": "Vilnius, la Nordic Investment Bank concede un prestito di 10 milioni per l'illuminazione pubblica",
+   "orig": "Šiaurės investicijų bankas skolina 10 mln. eurų sostinės gatvių apšvietimui atnaujinti",
+   "lead": "La Nordic Investment Bank ha concesso un prestito fino a 10 milioni di euro con scadenza a dodici anni al gruppo energetico Miesto gijos, con l'obiettivo di modernizzare l'intera rete di illuminazione stradale e migliorarne l'efficienza nella capitale lituana Vilnius. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3087168/siaures-investiciju-bankas-skolina-10-mln-euru-sostines-gatviu-apsvietimui-atnaujinti",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-19T12:16+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z9c99f8a8",
+   "sez": "mondo",
+   "titolo": "Coppa del Mondo di scherma, la spada femminile estone vince il bronzo a Casablanca",
+   "orig": "Women's épée team takes home World Cup bronze",
+   "lead": "La nazionale femminile estone di spada ha conquistato la medaglia di bronzo nella tappa di Coppa del Mondo disputata a Casablanca, in Marocco, dopo aver ottenuto una serie di successi ed essere stata sconfitta in semifinale dalla rappresentativa della Russia. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610170234/women-s-p-e-team-takes-home-world-cup-bronze",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-19T13:24+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z43717a31",
+   "sez": "mondo",
+   "titolo": "Estonia, le orchestre di fiati rafforzano il proprio ruolo per il Song Celebration 2028",
+   "orig": "Wind bands to play a bigger role in 2028 Song Celebration",
+   "lead": "I direttori d'orchestra di fiati provenienti da tutta l'Estonia si sono riuniti a Türi per provare il repertorio destinato all'edizione 2028 del Song Celebration, manifestazione tradizionale in cui queste formazioni musicali avranno un ruolo centrale e più ampio. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610170105/wind-bands-to-play-a-bigger-role-in-2028-song-celebration",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-19T11:56+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z042f2ca1",
+   "sez": "mondo",
+   "titolo": "Studio estone: la didattica deve insegnare il metodo scientifico contro la disinformazione",
+   "orig": "Study: Modern classrooms must teach reasoning and background behind facts",
+   "lead": "Un'analisi condotta da ricercatori estoni sostiene che l'insegnamento scientifico moderno debba superare la semplice trasmissione di nozioni, spiegando il ragionamento e il contesto dietro i fatti scientifici per consentire agli studenti di difendersi dalla crescente disinformazione e dalle narrazioni alternative. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610170093/study-modern-classrooms-must-teach-reasoning-and-background-behind-facts",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-19T10:56+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "ze4c533ed",
+   "sez": "mondo",
+   "titolo": "Estonia, cresce la pressione migratoria: un comune valuta il ricorso ai tribunali",
+   "orig": "Estonian municipality hosting refugee center mulls court action as migration pressure mounts",
+   "lead": "I controlli rafforzati lungo le frontiere in Polonia e Lituania hanno deviato i flussi migratori verso l'Estonia, dove la polizia prevede una pressione in ulteriore crescita, spingendo il comune che ospita il centro per rifugiati a valutare un'azione legale. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610170048/estonian-municipality-hosting-refugee-center-mulls-court-action-as-migration-pressure-mounts",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-19T09:39+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zd9444516",
+   "sez": "mondo",
+   "titolo": "Lettonia, concerto a Preiļi per i 120 anni dalla nascita del compositore Jānis Ivanovs",
+   "orig": "LISTEN AGAIN: Jānis Ivanovs 120 – a symphonic tribute to Latgale",
+   "lead": "L'orchestra da camera da camera Sinfonietta Rīga diretta da Jānis Stafeckis ha tenuto un concerto commemorativo alla casa della cultura di Preiļi, in Lettonia, per celebrare i 120 anni dalla nascita del noto compositore lettone Jānis Ivanovs, originario della regione della Latgallia. Lo riferisce LSM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/culture/music/19.10.2026-listen-again-janis-ivanovs-120-a-symphonic-tribute-to-latgale.a668140/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-10-19T07:45+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z9b6170b9",
+   "sez": "mondo",
+   "titolo": "Sabotaggio all'aeroporto di Lipsia, la pista tedesca punta su un cittadino lettone",
+   "orig": "Latvian citizen, Russian businessman, German sabotage suspect: who is Oleg Levushkin?",
+   "lead": "Un cittadino lettone e uomo d'affari russo, Oleg Levushkin, figura tra i sospettati dell'attentato di sabotaggio compiuto ad agosto all'aeroporto di Lipsia, in Germania, operazione che secondo le autorità governative di Berlino è stata orchestrata dalla Russia. Lo riferisce LSM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/society/crime/19.10.2026-latvian-citizen-russian-businessman-german-sabotage-suspect-who-is-oleg-levushkin.a668125/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-10-19T07:30+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z75875919",
+   "sez": "mondo",
+   "titolo": "Corea del Nord, Kim Yo-jong definisce «molto instabile» la situazione al confine meridionale",
+   "orig": "(LEAD) N.K. leader's sister calls situation at southern border 'very unstable'",
+   "lead": "Kim Yo-jong, influente sorella del leader nordcoreano Kim Jong-un, ha definito «molto instabile» la situazione lungo la frontiera meridionale della Corea del Nord, accusando Seoul di esacerbare i rischi securitari e minacciando una ripresa delle trasmissioni tramite altoparlanti. Lo riferisce l'agenzia sudcoreana Yonhap.",
+   "more": [
+    "La penisola coreana sta attraversando una fase di forte tensione militare, alimentata dal lancio di palloni con materiale propagandistico, dalla sospensione dei patti di distensione del 2018 e dalle continue dimostrazioni di forza balistica e retorica tra i due governi."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261019010951315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-19T19:18+09:00"
+    },
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/kim-yo-jong-threatens-restart-of-north-korean-loudspeakers-amid-border-tensions/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-10-19T10:24+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z7b214f80",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, l'esercito istituisce nuove brigate di sicurezza per il pattugliamento in prima linea",
+   "orig": "Army to create new security brigades tasked with front-line guard duty",
+   "lead": "L'esercito della Corea del Sud ha avviato un piano per creare nuove brigate di sicurezza destinate al servizio di guardia lungo la prima linea del fronte, rafforzando la sorveglianza e la prontezza operativa lungo la frontiera con il Nord. Lo riferisce l'agenzia sudcoreana Yonhap.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261019008700315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-19T18:57+09:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z9f581741",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, Lee sollecita il passaggio del controllo operativo in caso di guerra",
+   "orig": "(2nd LD) Lee says wartime operational control must be retaken at early date",
+   "lead": "Il presidente sudcoreano Lee Jae-myung ha ribadito lunedì che il Paese deve riassumere al più presto dagli Stati Uniti il controllo operativo delle proprie forze armate in tempo di guerra, accelerando un passaggio strategico cruciale per la sovranità difensiva nazionale. Lo riferisce l'agenzia sudcoreana Yonhap.",
+   "more": [
+    "Il controllo operativo (OPCON) in caso di conflitto nella penisola coreana è attualmente affidato al comando combinato a guida statunitense, una convenzione risalente alla guerra di Corea che Seoul punta a rinegoziare per assumere la guida diretta della difesa."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261019010552315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-19T18:32+09:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z71243ed5",
+   "sez": "mondo",
+   "titolo": "Singapore, condannato per riciclaggio il fratello di un trafficante da tre miliardi",
+   "orig": "Brother of convict in S$3 billion money laundering case jailed over receiving S$17.6 million",
+   "lead": "Un tribunale di Singapore ha condannato a una pena detentiva Zhang Ruisheng per aver ricevuto proventi illeciti pari a 17,6 milioni di dollari di Singapore, utilizzati in parte per comprare una lussuosa proprietà immobiliare a Sentosa Cove nell'ambito del maxi caso di riciclaggio da 3 miliardi. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/singapore/brother-convict-3-billion-money-laundering-jailed-million-6471501",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T18:04+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z962f59aa",
+   "sez": "mondo",
+   "titolo": "Singapore, tremila tirocini annuali per gli studenti universitari con l'avanzata dell'IA",
+   "orig": "3,000 year-long internships to be offered to tertiary students as AI reshapes entry-level jobs",
+   "lead": "Singapore metterà a disposizione oltre tremila tirocini annuali nei prossimi tre anni per gli studenti di tecnologie informatiche e digitali di politecnici e università, con l'obiettivo di tutelare e trasformare i ruoli professionali di ingresso dinanzi all'avanzata dell'intelligenza artificiale. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/singapore/tech-ai-internships-jobs-ite-polytechnic-university-students-6471296",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T17:59+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z612ae7ac",
+   "sez": "ambiente",
+   "titolo": "Singapore, fitta coltre di fumo penalizza ristoranti all'aperto e artisti di strada",
+   "orig": "Haze takes toll on alfresco dining, buskers as foot traffic and earnings fall",
+   "lead": "Una coltre di fumo inquinante ha provocato una drastica contrazione degli incassi fino al 70 per cento per i ristoranti all'aperto e ridotto drasticamente le mance degli artisti di strada a Singapore, dove i residenti evitano di uscire per proteggersi dalla cattiva qualità dell'aria. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/singapore/haze-alfresco-outdoor-dining-busking-drop-6471381",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T17:36+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z06fe3169",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda, protesta a Strathmore contro la vendita di 36 alloggi popolari vuoti",
+   "orig": "Residents stage sleep-out at empty Kāinga Ora block to be sold",
+   "lead": "Un gruppo di residenti ha trascorso la notte all'addiaccio a Wellington per protestare contro la vendita imminente di trentasei case di edilizia popolare dell'ente pubblico Kāinga Ora rimaste a lungo vuote nel sobborgo di Strathmore, la cui scadenza d'asta è fissata per mercoledì. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/regions_wellington/2026772/residents-stage-sleep-out-at-empty-kainga-ora-block-to-be-sold",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T22:10+13:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zdae43f2c",
+   "sez": "mondo",
+   "titolo": "Hong Kong, Housing Authority astenuta su appalti di ascensori privi di protezioni antincendio",
+   "orig": "Housing body abstained in two Taizoom lift projects",
+   "lead": "L'Autorità per l'edilizia pubblica di Hong Kong ha confermato di essersi astenuta dal voto sulla sostituzione di ascensori in due complessi residenziali, dove sono state riscontrate gravi anomalie. Le ispezioni hanno evidenziato l'assenza di componenti tagliafuoco e para-fumo in quarantotto impianti installati dall'azienda Taizoom. Lo riferisce RTHK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874469-20261019.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T15:38+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z967d4954",
+   "sez": "mondo",
+   "titolo": "Hong Kong, allerta trasporti al valico di Huanggang per i rientri dalle festività",
+   "orig": "Operators urged to monitor Huanggang transport flows",
+   "lead": "La responsabile dei trasporti di Hong Kong Winnie Tse ha sollecitato gli operatori a monitorare costantemente i flussi di passeggeri e veicoli al varco di frontiera con Huanggang. L'invito a gestire le risorse con flessibilità risponde all'intenso traffico previsto per il rientro dal fine settimana del festival di Chung Yeung. Lo riferisce RTHK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874472-20261019.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T15:23+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z379b9a2d",
+   "sez": "mondo",
+   "titolo": "Grecia, Mitsotakis inaugura il supercomputer Daedalus e respinge i populismi",
+   "orig": "Μητσοτάκης: Η Ελλάδα δεν θα ξαναγυρίσει στις εποχές των λαϊκιστών",
+   "lead": "Il primo ministro greco Kyriakos Mitsotakis ha dichiarato da Lavrio che la Grecia non tornerà all'era dei populismi, definendo il Paese un pilastro di stabilità in Europa. L'intervento del premier è avvenuto a margine della cerimonia di inaugurazione del nuovo supercomputer nazionale battezzato Daedalus. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/ellada/politiki/mitsotakis-i-ellada-den-tha-ksanagyrisei-stis-epoxes-ton-laikiston/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-19T10:28+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z9dfcd792",
+   "sez": "mondo",
+   "titolo": "Francia, il governo accusa Mélenchon di promuovere la ribellione contro la Repubblica",
+   "orig": "Портпаролката на француската влада ја обвини „Непокорна Франција“ за насилството во земјата",
+   "lead": "La portavoce del governo francese ha attaccato duramente Jean-Luc Mélenchon, leader del partito di sinistra radicale La France Insoumise, accusandolo di fomentare le recenti violenze nel Paese. Secondo l'esponente dell'esecutivo, la formazione politica promuoverebbe una pericolosa forma di ribellione diretta contro le istituzioni della Repubblica. Lo riferisce MIA (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BF%D0%BE%D1%80%D1%82%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%BA%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D1%98%D0%B0-%D0%BE%D0%B1%D0%B2%D0%B8%D0%BD%D0%B8-%D0%BD%D0%B5%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%BD%D0%B0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%98%D0%B0-%D0%B7%D0%B0-%D0%BD%D0%B0%D1%81%D0%B8%D0%BB%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE-%D0%B2%D0%BE-%D0%B7%D0%B5%D0%BC%D1%98%D0%B0%D1%82%D0%B0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-19T12:27+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z37ed6d49",
+   "sez": "mondo",
+   "titolo": "Moldavia, estradati due ricercati Interpol verso Romania e Kirghizistan",
+   "orig": "Two men wanted by INTERPOL, extradited from Moldova to Romania and Kyrgyzstan",
+   "lead": "La polizia di frontiera della Moldavia ha estradato due uomini ricercati a livello internazionale tramite l'Interpol, consegnandoli rispettivamente alle autorità di Romania e Kirghizistan. I soggetti erano perseguiti per reati transfrontalieri legati al contrabbando di sigarette e a truffe finanziarie di vasta portata. Lo riferisce IPN (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/two-men-sought-by-interpol-extradited-from-moldova-to-romania-and-kyrgyzstan/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-19T10:10+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z950afd8d",
+   "sez": "mondo",
+   "titolo": "Moldavia, governo e delegati del triangolo di Weimar discutono i diritti in Transnistria",
+   "orig": "Human rights in the Transnistrian region, discussed at the Government with representatives of the Weimar format",
+   "lead": "Il vice primo ministro moldavo per la Reintegrazione Valeriu Chiveri ha incontrato a Chișinău i rappresentanti permanenti presso l'OSCE di Francia, Germania e Polonia. Al centro dei colloqui istituzionali c'è stata la situazione della tutela dei diritti umani nella regione separatista filorussa della Transnistria. Lo riferisce IPN (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/human-rights-in-the-transnistrian-region-discussed-at-the-government-with-representatives-of-the-weimar-format/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-19T10:03+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zdf235cde",
+   "sez": "italia",
+   "titolo": "Milano, oltre duecento arresti dopo scontri, saccheggi e danneggiamenti",
+   "orig": "Over 200 arrests in Milan, Italy, following violent protests resulting in destruction and looting",
+   "lead": "Oltre duecento persone sono state arrestate a Milano negli ultimi giorni a seguito di violente manifestazioni degenerate in devastazioni e saccheggi di negozi. Proteste e cortei di forte tensione hanno interessato contemporaneamente anche altre città dell'Italia settentrionale, tra cui Bologna, Torino e Brescia. Lo riferisce IPN (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/over-200-arrests-in-milan-italy-following-violent-protests-resulting-in-destruction-and-looting/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-19T09:50+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zaa7e39dd",
+   "sez": "mondo",
+   "titolo": "Terremoto magnitudo 4.8 in Romania, scossa avvertita anche in Moldavia",
+   "orig": "Earthquake with a magnitude of 4.8 in the Vrancea area, also felt in the Republic of Moldova",
+   "lead": "Una scossa sismica di magnitudo 4.8 registrata nell'area sismica di Vrancea, in Romania, è stata nettamente avvertita lunedì su parte del territorio della Moldavia. Il fenomeno geologico è stato monitorato e confermato dalle autorità competenti dell'Istituto di geologia di Chișinău, senza segnalazioni immediate di danni. Lo riferisce IPN (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/earthquake-with-a-magnitude-of-4-8-in-the-vrancea-area-also-felt-in-the-republic-of-moldova/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-19T09:16+00:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/19/aardbeving-genk-as-seismoloog-ondiep-mijnverleden-geluid-2-1.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-19T10:03+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zb0762cf6",
+   "sez": "mondo",
+   "titolo": "Karate, Alexandr Capmoale conquista uno storico titolo mondiale under 21 per la Moldavia",
+   "orig": "Alexandr Capmoale, the first U-21 karate world champion in the history of the Republic of Moldova",
+   "lead": "L'atleta Alexandr Capmoale ha scritto una pagina storica per la Moldavia vincendo la medaglia d'oro ai campionati mondiali di karate under 21 a Bielsko-Biała, in Polonia. Si tratta del primo titolo iridato giovanile conquistato da un rappresentante del Paese esteuropeo in questa disciplina sportiva. Lo riferisce IPN (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/alexandr-capmoale-the-first-u-21-karate-world-champion-in-the-history-of-the-republic-of-moldova/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-19T09:09+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zffd4a0f5",
+   "sez": "mondo",
+   "titolo": "Tagikistan, oppositore estradato dalla Germania condannato a diciassette anni di carcere",
+   "orig": "Գերմանիայից արտաքսված տաջիկստանցի ընդդիմադիրը 17 տարվա ազատազրկման է դատապարտվել",
+   "lead": "Un tribunale del Tagikistan ha inflitto diciassette anni di reclusione all'attivista di opposizione cinquantaquattrenne Asadulo Boboev. L'uomo era stato estradato dalle autorità della Germania lo scorso giugno, suscitando la dura reazione delle organizzazioni internazionali per la difesa dei diritti civili e dei dissidenti politici. Lo riferisce Azatutyun (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/germaniayits-artaksvats-tajikstan-boboev-17-tari-azatazrkum/33879349.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-19T14:10+04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z6a0c3425",
+   "sez": "ambiente",
+   "titolo": "Erevan, Hambardzum Matevosyan eletto alla presidenza della Cop17 sulla biodiversità",
+   "orig": "Համբարձում Մաթևոսյանը 2 տարի ժամկետով ընտրվել է COP17-ի նախագահ",
+   "lead": "A Erevan si sono aperti ufficialmente i lavori della diciassettesima conferenza delle parti della Convenzione ONU sulla diversità biologica. In occasione della sessione inaugurale, il delegato Hambardzum Matevosyan è stato designato alla presidenza della Cop17 per un mandato biennale dedicato alla tutela degli ecosistemi planetari. Lo riferisce Azatutyun (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/hambardzoum-matevosyany-yntrvel-e-cop17-i-nakhagah/33879334.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-19T13:47+04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z7426d0e4",
+   "sez": "mondo",
+   "titolo": "Gaza, allarme Unicef: ottocentomila bambini sfollati e sessantamila orfani di un genitore",
+   "orig": "Gaza, Unicef: infanzia spezzata. 800.000 bambini sfollati e 60.000 senza un genitore",
+   "lead": "L'Unicef ha denunciato il drammatico costo umano del conflitto nella Striscia di Gaza, segnalando ottocentomila bambini costretti a sfollare e circa sessantamila minori rimasti senza almeno un genitore. L'agenzia dell'Onu avverte che quasi tutti i piccoli necessitano urgentemente di supporto psicologico specializzato. Lo riferisce Vatican News (italiano).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/mondo/news/2026-10/gaza-unicef-infanzia-spezzata-800-000-bambinisfollati.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-19T11:28+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zadc8c1e9",
+   "sez": "tech",
+   "titolo": "Bhutan, la transizione ai servizi pubblici digitali incontra le difficoltà degli anziani",
+   "orig": "Digital services pose challenges for Bhutan’s elderly population",
+   "lead": "La rapida digitalizzazione dei servizi pubblici e bancari in Bhutan sta creando rilevanti ostacoli alla popolazione anziana. Le barriere linguistiche, le scarse competenze tecnologiche e la scarsa familiarità con gli smartphone rendono difficoltoso l'accesso alle piattaforme online per le pratiche quotidiane dei cittadini meno giovani. Lo riferisce Bhutan Broadcasting Service.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bhutan Broadcasting Service",
+     "p": "XX",
+     "c": "Thimphu",
+     "u": "https://www.bbs.bt/247649/",
+     "angolo": "",
+     "atlas": "Bhutan",
+     "t": "2026-10-19T10:18+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z1b4f3fbf",
+   "sez": "economia",
+   "titolo": "Tanzania, inaugurato a Bagamoyo un impianto per la filiera industriale mineraria",
+   "orig": "Tanzania moves to strengthen domestic participation in mining value chain",
+   "lead": "Il ministro dei Minerali della Tanzania Anthony Mavunde ha inaugurato a Bagamoyo una nuova fabbrica della Geofields Tanzania Limited per la produzione di reti metalliche. L'iniziativa punta a rafforzare la produzione manifatturiera locale e a incrementare la quota di forniture interne destinate al settore estrattivo nazionale. Lo riferisce Daily News (Tanzania).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzania-moves-to-strengthen-domestic-participation-in-mining-value-chain/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-19T10:26+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z0dc75be4",
+   "sez": "economia",
+   "titolo": "Tanzania e Ifc siglano vertice a Bangkok per sostenere l'agritech e il lavoro giovanile",
+   "orig": "Tanzanian, IFC explore strategies to accelerate private sector’s investment in agritech",
+   "lead": "Una delegazione guidata dal ministro delle Finanze della Tanzania Khamis Mussa Omar ha incontrato a Bangkok i vertici dell'International Finance Corporation. Il confronto con il vicepresidente Ethiopis Tafara ha esplorato investimenti del settore privato nell'agritech per stimolare l'occupazione giovanile e attuare il piano di sviluppo DIRA 2050. Lo riferisce Daily News (Tanzania).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzanian-ifc-explore-strategies-to-accelerate-private-sectors-investment-in-agritech/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-19T09:51+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "za9165788",
+   "sez": "economia",
+   "titolo": "Usa: la Casa Bianca propone all'Ue di riprendere gli acquisti di gas russo",
+   "orig": "White House proposed that EU buy more Russian gas and Ukraine resume transit, NYT reports",
+   "lead": "Gli inviati speciali del presidente statunitense Donald Trump, Steve Witkoff e Jared Kushner, hanno proposto ai funzionari dell'Unione Europea di aumentare l'acquisto di gas naturale dalla Russia e di ripristinare il transito attraverso l'Ucraina, riducendo le restrizioni imposte dopo l'invasione russa. Lo riferisce Meduza citando il New York Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/19/white-house-proposed-that-eu-buy-more-russian-gas-and-ukraine-resume-transit-nytreports",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-19T11:37+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zb73c2fc3",
+   "sez": "mondo",
+   "titolo": "Rubio spinge per negoziati di pace e conferma contatti su un vertice con Russia e Cina",
+   "orig": "Russia and Ukraine Should Focus on Peace Talks, Rubio Says",
+   "lead": "Il segretario di Stato Usa Marco Rubio ha sollecitato Russia e Ucraina a concentrarsi sui colloqui di pace per porre termine al conflitto armato. Rubio è inoltre apparso confermare l'esistenza di discussioni per un vertice trilaterale tra i leader di Stati Uniti, Russia e Cina. Lo riferisce Moscow Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/10/19/russia-and-ukraine-should-focus-on-peace-talks-rubio-says-a94016",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-19T11:16+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z6cea7ac0",
+   "sez": "mondo",
+   "titolo": "Kyiv boccia il vertice Usa-Russia-Cina: «Incoraggerebbe solo Putin»",
+   "orig": "US-Russia-China summit would only 'encourage Putin to continue this war,' Ukraine says",
+   "lead": "Il ministro degli Esteri ucraino Andrii Sybiha ha respinto l'ipotesi di un vertice trilaterale tra Stati Uniti, Russia e Cina, affermando che un simile formato incoraggerebbe Vladimir Putin a proseguire la guerra, mentre solo un incontro diretto tra i leader di Ucraina, Stati Uniti e Russia favorirebbe la pace. Lo riferisce The Kyiv Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/us-russia-china-summit-would-only-encourage-putin-to-continue-this-war-ukraine-says/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-19T09:49+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z0f1ecea0",
+   "sez": "mondo",
+   "titolo": "Stato Maggiore ucraino: oltre 1,5 milioni le perdite russe dall'inizio del conflitto",
+   "orig": "General Staff: Russia has lost 1,567,160 troops in Ukraine since Feb. 24, 2022",
+   "lead": "Lo Stato Maggiore delle Forze Armate ucraine ha comunicato che le perdite complessive dell'esercito russo hanno raggiunto quota 1.567.160 soldati dal 24 febbraio 2022. Lo riferisce The Kyiv Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/general-staff-russia-has-lost-1-567-160-troops-in-ukraine-since-feb-24-2022/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-19T06:20+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z0d2f7d54",
+   "sez": "mondo",
+   "titolo": "Siria: i curdi protestano per difendere la propria lingua nelle scuole del nord-est",
+   "orig": "Syria’s Kurds fight to keep their language alive in the classroom",
+   "lead": "I residenti curdi nel nord-est della Siria sono scesi in piazza per protestare contro l'introduzione dell'insegnamento in arabo nelle scuole. I manifestanti temono una regressione educativa e la perdita dell'identità curda, in un contesto di crescenti tensioni e diffidenza tra le comunità locali e Damasco. Lo riferisce Syria Direct.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Syria Direct",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://syriadirect.org/syrias-kurds-fight-to-keep-their-language-alive-in-the-classroom/",
+     "angolo": "",
+     "atlas": "Syria",
+     "t": "2026-10-19T08:56+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "ze6ce737b",
+   "sez": "mondo",
+   "titolo": "Francia: polemiche e accuse politiche dopo le violenze durante le proteste del fine settimana",
+   "orig": "Cine a fost de vină pentru sâmbăta violentă din Franța. Șoc și acuzații după protestele care au zguduit orașele franceze",
+   "lead": "Le violenze scoppiate durante le recenti manifestazioni nelle città francesi hanno innescato duri scontri politici a sei mesi dalle elezioni presidenziali. Mentre esponenti conservatori, centristi ed estrema destra indicano precisi responsabili, i sindaci di Parigi e Marsiglia respingono le ricostruzioni, alimentando un acceso dibattito pubblico. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/cine-a-fost-de-vina-pentru-sambata-violenta-din-franta-soc-si-acuzatii-dupa-protestele-care-au-zguduit-orasele-franceze-2379666",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-19T10:27+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z0d94f44c",
+   "sez": "economia",
+   "titolo": "Metinvest contro l'Ue: «Ingiusto colpire l'acciaio ucraino con le misure anti-Cina»",
+   "orig": "Șeful Metinvest spune că o măsură UE împotriva Chinei lovește în Ucraina: „Este nedrept”",
+   "lead": "Il direttore generale del gigante siderurgico ucraino Metinvest, Yuriy Ryzhenkov, ha chiesto all'Unione Europea di revocare le restrizioni alle importazioni sui prodotti ucraini. Ryzhenkov definisce ingiusto l'inserimento dell'Ucraina nel pacchetto di misure commerciali varato da Bruxelles per frenare le importazioni a basso costo da Paesi come la Cina. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/seful-metinvest-spune-ca-o-masura-ue-impotriva-chinei-loveste-in-ucraina-este-nedrept-2379842",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-19T09:57+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z8050c4a7",
+   "sez": "mondo",
+   "titolo": "Montenegro, due terzi delle donne non hanno fiducia nella protezione delle istituzioni",
+   "orig": "Ne znaju gdje da traže pomoć: Istraživanje NVO \"SOS telefon...",
+   "lead": "Due terzi delle donne intervistate in Montenegro ritengono che le istituzioni pubbliche non offrirebbero loro adeguata protezione o assistenza in situazioni di pericolo o bisogno. L'indagine, condotta dall'organizzazione non governativa SOS telefon, evidenzia una diffusa disinformazione su dove reperire supporto concreto. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/drustvo/832182/ne-znaju-gdje-da-traze-pomoc-istrazivanje-nvo-sos-telefon-ulcinj-o-nasilju-nad-zenama-u-porodici",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-19T11:51+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z6cf4ad44",
+   "sez": "mondo",
+   "titolo": "Il presidente iraniano Pezeshkian auspica maggiore cooperazione con la Georgia",
+   "orig": "Iran President calls for more cooperation with Georgia after meeting with Kobakhidze",
+   "lead": "Il presidente iraniano Masoud Pezeshkian ha sollecitato un rafforzamento della cooperazione bilaterale con la Georgia dopo l'incontro a Yerevan con il primo ministro georgiano Irakli Kobakhidze. I colloqui, svoltisi a margine del vertice COP17 sulla biodiversità, hanno riguardato le relazioni diplomatiche, il turismo e la stabilità regionale. Lo riferisce OC Media.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/iran-president-calls-for-more-cooperation-with-georgia-after-meeting-with-kobakhidze/",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-19T09:16+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z90b32e41",
+   "sez": "economia",
+   "titolo": "Tagikistan, Banca Asiatica di Sviluppo prepara 500 milioni per la centrale di Roghun",
+   "orig": "ADB plans $500 million in financing for Tajikistan’s Roghun hydropower plant",
+   "lead": "La Banca Asiatica di Sviluppo progetta un finanziamento da 500 milioni di dollari destinato al completamento dell'impianto idroelettrico di Roghun in Tagikistan. Il pacchetto comprenderà 200 milioni di dollari a fondo perduto e 300 milioni come prestito agevolato, destinati a potenziare l'infrastruttura energetica nazionale strategica. Lo riferisce Asia-Plus.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/19/tajikistan-and-adb-discuss-500-million-loan-for-rogun-hpp-construction/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-10-19T09:12+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z32a41978",
+   "sez": "mondo",
+   "titolo": "Nuova mina nordcoreana rinvenuta sulla spiaggia di un'isola della Corea del Sud",
+   "orig": "Another North Korean mine found on South Korean island, fourth in last month",
+   "lead": "Una presunta mina antiuomo nordcoreana trascinata dalla corrente è stata scoperta lunedì mattina sull'isola di Boreum, nella contea di Ganghwa, vicino al confine marittimo intercoreano. Si tratta del quarto ordigno simile individuato nell'ultimo mese dai marine sudcoreani durante le consuete operazioni di perlustrazione costiera. Lo riferisce NK News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/another-north-korean-mine-found-on-south-korean-island-fourth-in-last-month/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-10-19T09:17+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zf4cf449a",
+   "sez": "mondo",
+   "titolo": "Polemiche a Seul per le parole del comandante Usa sui confini sudcoreani",
+   "orig": "US commander’s remarks on extent of South Korean territory draw fire in Seoul",
+   "lead": "Il Comando ONU e il ministero della Difesa sudcoreano tentano di contenere le frizioni politiche scatenate dal generale Xavier Brunson. Il comandante delle forze statunitensi in Corea avrebbe suggerito che il territorio di Seul inizi soltanto al margine meridionale della frontiera, suscitando dure proteste sudcoreane. Lo riferisce NK News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/us-commanders-remarks-on-extent-of-south-korean-territory-draw-fire-in-seoul/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-10-19T08:21+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z968adf2a",
+   "sez": "mondo",
+   "titolo": "La Corea del Sud avvia le manovre militari Hoguk contro le minacce del Nord",
+   "orig": "ROK kicks off exercise on countering North Korea, postponed drills with US",
+   "lead": "Le forze armate sudcoreane hanno dato inizio all'esercitazione annuale su larga scala Hoguk, concepita per rafforzare le capacità operative congiunte contro le minacce nordcoreane. Le manovre, che dureranno fino al 30 ottobre, integrano anche simulazioni con gli Stati Uniti precedentemente ridotte nelle fasi estive. Lo riferisce NK News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/rok-kicks-off-exercise-on-countering-north-korea-postponed-drills-with-us/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-10-19T07:37+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zb0dbfb46",
+   "sez": "mondo",
+   "titolo": "A Kiev crescono le critiche alla gestione del sindaco Klitschko prima dell'inverno",
+   "orig": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
+   "lead": "In vista del prossimo inverno di guerra, a Kiev aumentano le proteste dei cittadini contro il sindaco Vitali Klitschko. Molti residenti denunciano una cattiva gestione dei fondi municipali, accusando l'amministrazione di spendere risorse nella manutenzione stradale invece di garantire le forniture indispensabili di elettricità e acqua potabile. Lo riferisce Tagesschau.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T11:04+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zbc53b334",
+   "sez": "mondo",
+   "titolo": "Kiev sotto attacco russo con missili e droni, frizioni tra Zelensky e Rubio sugli allarmi",
+   "orig": "Russland greift Kiew offenbar erneut mit Raketen an",
+   "lead": "La Russia ha lanciato una nuova serie di attacchi con missili e droni contro l'Ucraina. Il presidente Volodymyr Zelensky ha lamentato l'assenza di un preavviso tempestivo da parte dei partner occidentali prima dei raid, ma il segretario di Stato americano Marco Rubio ha smentito questa ricostruzione. Lo riferisce Tagesschau.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T12:25+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z16b480fe",
+   "sez": "ambiente",
+   "titolo": "Allerta meteo massima a Maiorca, avvisi di emergenza inviati sui telefoni",
+   "orig": "\"Sonderwarnung auf alle Handys dort\" – Höchste Sturmwarnstufe auf Mallorca",
+   "lead": "Le autorità spagnole hanno proclamato il massimo livello di allerta per tempesta sull'isola di Maiorca, disponendo l'invio di messaggi straordinari di emergenza direttamente sui telefoni cellulari di residenti e turisti. La misura straordinaria punta a limitare gli spostamenti e prevenire incidenti causati dalle violente perturbazioni. Lo riferisce Tagesschau.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1668708.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T09:42+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z5e9c2c83",
+   "sez": "mondo",
+   "titolo": "Germania, tensioni interne tra i socialdemocratici per il governo di Berlino",
+   "orig": "\"Unruhen auch innerhalb Sozialdemokratie\", Christoph Mestmacher, ARD Berlin, zur Regierungsbildung in Berlin",
+   "lead": "Le trattative per la formazione del nuovo esecutivo regionale a Berlino stanno provocando forti inquietudini all'interno della dirigenza socialdemocratica tedesca. Le divergenze politiche sulla futura alleanza di governo e sulle cariche alimentano tensioni sotterranee tra le diverse correnti della SPD nella capitale. Lo riferisce Tagesschau.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1668782.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T11:51+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z54d0d29c",
+   "sez": "mondo",
+   "titolo": "Ucraina, Zelensky preoccupato per i segnali di avvicinamento tra Washington e Mosca",
+   "orig": "Ukrainischer Präsident Selenskyj zeigt sich besorgt über amerikanisch-russische Annährung",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha espresso forte apprensione riguardo ai recenti segnali di dialogo e avvicinamento diplomatico tra gli Stati Uniti e la Russia. Kiev teme che eventuali intese bilaterali possano compromettere la sovranità nazionale e indebolire il supporto internazionale alla difesa ucraina. Lo riferisce Tagesschau.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1668722.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T10:04+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "zb6cacf84",
+   "sez": "economia",
+   "titolo": "Portogallo, pubblicata la legge che proroga lo sconto sui carburanti a fine anno",
+   "orig": "Publicada em DR lei que prolonga desconto no ISP até final do ano",
+   "lead": "È stata pubblicata nella gazzetta ufficiale portoghese la legge che estende fino al termine dell'anno lo sconto sull'imposta per i prodotti petroliferi ed energetici. Il provvedimento entra formalmente in vigore dieci giorni dopo essere stato approvato all'unanimità dal parlamento di Lisbona per contenere l'inflazione energetica. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/publicada-em-dr-lei-que-prolonga-desconto-no-isp-ate-final-do-ano_n1772644",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z7282a1e7",
+   "sez": "mondo",
+   "titolo": "Portogallo, proseguono a Porto e Lisbona i presidi per il diritto all'abitare",
+   "orig": "Manifestantes no Porto convidam Pedro Duarte a juntar-se à assembleia popular",
+   "lead": "I manifestanti a Porto per il diritto alla casa hanno invitato il ministro Pedro Duarte a partecipare alla loro assemblea popolare. La mobilitazione nella città settentrionale è giunta al decimo giorno ed è stata formalmente prorogata fino a fine anno, mentre analoghi presidi sono in corso a Lisbona. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/manifestantes-no-porto-convidam-pedro-duarte-a-juntar-se-a-assembleia-popular_e1772593",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T11:35+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z10301ad6",
+   "sez": "mondo",
+   "titolo": "Teheran replica alle minacce di Trump e mette in guardia Washington",
+   "orig": "Irão responde a ameaças dos EUA: \"Querem tentar a sorte de novo?\"",
+   "lead": "Il governo di Teheran ha risposto con fermezza agli avvertimenti di Donald Trump, che aveva minacciato di concludere rapidamente l'azione contro l'Iran in assenza di un cambio di rotta. Il ministro degli Esteri iraniano ha replicato sfidando gli Stati Uniti sui rischi di una ripresa degli attacchi militari. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-responde-a-ameacas-dos-eua-querem-tentar-a-sorte-de-novo_n1772636",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-19T11:11+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z3d78d684",
+   "sez": "mondo",
+   "titolo": "Paesi Bassi, nuovo sciopero del trasporto regionale indetto per giovedì",
+   "orig": "Donderdag opnieuw minder openbaar vervoer door staking streekvervoer",
+   "lead": "I lavoratori del trasporto pubblico regionale nei Paesi Bassi incroceranno nuovamente le braccia giovedì 22 ottobre, causando diffuse cancellazioni di autobus e treni locali. Il sindacato FNV contesta la chiusura delle aziende nelle trattative sul rinnovo contrattuale, chiedendo aumenti salariali e turni di servizio comunicati con maggiore anticipo. Lo riferisce NOS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635576",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-19T12:26+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
+   "id": "z9dff02f0",
+   "sez": "mondo",
+   "titolo": "Striscia di Gaza, il Pam costretto a privare mezzo milione di persone dei viveri",
+   "orig": "500.000 Palestijnen in Gaza voortaan zonder noodhulp van Wereldvoedselprogramma",
+   "lead": "A causa di gravi deficit di bilancio, il Programma alimentare mondiale dell'ONU ridurrà l'assistenza alimentare a Gaza, lasciando 500 mila palestinesi privi di razioni mensili. L'agenzia esprime forte allarme per l'avvicinarsi dell'inverno in un contesto dove quasi l'intera popolazione versa già in condizioni di acuta insicurezza alimentare. Lo riferisce NOS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635561",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-19T09:52+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "12:44",
+   "uscita": "13"
+  },
+  {
    "id": "z8b01cc01",
    "sez": "sport",
    "titolo": "Grave infortunio al portiere dello Sturm Graz sconvolge il derby cittadino",
@@ -1032,6 +2375,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-10-18T15:10+00:00"
+    },
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202610195724",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-10-19T10:20+00:00"
     }
    ],
    "data": "19 ott",
@@ -1666,39 +3018,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-19T09:52+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:43",
-   "uscita": "13"
-  },
-  {
-   "id": "z2b88822c",
-   "sez": "mondo",
-   "titolo": "Programma alimentare mondiale riduce gli aiuti a Gaza di un terzo",
-   "orig": "Welternährungsprogramm reduziert Gaza-Hilfe deutlich",
-   "lead": "Il Programma alimentare mondiale ridurrà significativamente gli aiuti umanitari nella Striscia di Gaza mentre il conflitto tra Israele e Hamas continua. La situazione umanitaria rimane critica nella regione.",
-   "more": [
-    "La riduzione degli aiuti avviene in un contesto di tregua instabile e della mancata implementazione completa del piano di pace americano."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445521/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-19T11:14+02:00"
-    },
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/international/waffenruhe-im-gazastreifen-guterres-warnt-vor-100-millionen-us-dollar-grosser-finanzierungsluecke-bei-palaestinenserhilfswerk-unrwa-ld.1920307",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-19T09:20+00:00"
     }
    ],
    "data": "19 ott",
@@ -3867,6 +5186,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-19T09:15+00:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635573",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-19T11:36+02:00"
     }
    ],
    "data": "19 ott",
@@ -3969,6 +5297,33 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-19T15:55+08:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/moyen-orient/20261019-le-programme-alimentaire-mondial-r%C3%A9duit-ses-op%C3%A9rations-%C3%A0-gaza-500-000-palestiniens-priv%C3%A9s-d-aide",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T08:58+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445521/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T11:14+02:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/waffenruhe-im-gazastreifen-guterres-warnt-vor-100-millionen-us-dollar-grosser-finanzierungsluecke-bei-palaestinenserhilfswerk-unrwa-ld.1920307",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T09:20+00:00"
     }
    ],
    "data": "19 ott",
@@ -4114,6 +5469,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-19T07:16+00:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B8%D0%B7%D1%80%D0%B0%D0%B5%D0%BB-%D1%83%D0%B0%D0%BF%D1%81%D0%B8-10-%D0%BB%D0%B8%D1%86%D0%B0-%D0%BF%D0%BE%D1%80%D0%B0%D0%B4%D0%B8-%D0%BD%D0%B0%D0%BF%D0%B0%D0%B4%D0%B8-%D0%B2%D1%80%D0%B7-%D0%BF%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%86%D0%B8-%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B8%D0%BE%D1%82-%D0%B1%D1%80%D0%B5%D0%B3",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-19T12:24+02:00"
     }
    ],
    "data": "19 ott",
@@ -4243,6 +5607,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Bosnia and Herz.",
      "t": "2026-10-19T07:30+00:00"
+    },
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874501-20261019.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T17:45+08:00"
     }
    ],
    "data": "19 ott",
@@ -6340,7 +7713,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z048db049": "Il focus della testata è sulla strategia difensiva e sui vuoti investigativi nel fascicolo.",
   "z326bc336": "La testata celebra iniziative locali promosse come contraltare a forme di intrattenimento per i giovani.",
   "z98558c5e": "ORF riporta l'azione amministrativa come risposta diretta ai disordini del fine settimana.",
-  "z2b88822c": "ORF riporta la decisione nel contesto della crisi umanitaria acutizzatasi.",
   "za40d11b4": "Rai News riporta i due episodi separati di tragedia migrante nelle acque greche.",
   "z0c312792": "Kun.uz sottolinea l'adesione come tappa nel rafforzamento dei legami con gli USA.",
   "zbecbf284": "Daily News enfatizza l'importanza del progetto di estrazione per lo sviluppo economico.",
@@ -6358,7 +7730,67 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zecc64a56": "Deutsche Welle riporta l'iniziativa del governo tedesco per attirare capitali esteri.",
   "z127e3eaf": "Deutsche Welle riporta le accuse di ritardo nel processo del CJP.",
   "z724bed0c": "Al Jazeera riporta l'azione di protesta contro la crisi idrica nazionale.",
-  "zb59aa19d": "Al Jazeera riporta i gesti del giocatore come forma di solidarietà ai civili della Striscia di Gaza."
+  "zb59aa19d": "Al Jazeera riporta i gesti del giocatore come forma di solidarietà ai civili della Striscia di Gaza.",
+  "z2edc2048": "L'emittente qatariota evidenzia le ripercussioni diplomatiche e le crescenti pressioni statunitensi sulle istituzioni di Beirut.",
+  "z67e6f901": "L'emittente pubblica ceca si concentra sull'avviso ufficiale di sicurezza diramato dalla propria diplomazia per i viaggiatori all'estero.",
+  "z45062f22": "La testata ceca evidenzia lo scontro istituzionale tra il ramo parlamentare e l'impianto legislativo della funzione pubblica.",
+  "z17398ebe": "L'emittente mette in risalto il valore storico e celebrativo dell'esposizione del leggendario aereo britannico nella capitale.",
+  "z92e46beb": "La radio ceca sottolinea la ripresa del confronto tra esecutivo e parti sociali sul tema delle retribuzioni statali.",
+  "zc7c55c51": "Il servizio pubblico lituano mette in luce le rivendicazioni retributive del comparto sicurezza e la minaccia di mobilitazione.",
+  "z31811397": "La testata evidenzia l'analisi legale sui rischi e sulle nuove responsabilità per imprese e lavoratori introdotte dalla riforma.",
+  "zc1c9a54e": "Il media di Stato lituano segnala il dilemma tra l'adeguamento delle retribuzioni culturali e il blocco dei restauri edilizi.",
+  "z51f5537c": "L'emittente lituana si concentra sull'accordo finanziario a lungo termine per rinnovare le infrastrutture urbane della capitale.",
+  "z9c99f8a8": "Il canale pubblico estone valorizza il risultato sportivo internazionale ottenuto dalle spadiste del Paese baltico.",
+  "z43717a31": "L'emittente estone segue i preparativi culturali e musicali della grande rassegna canora nazionale prevista tra quattro anni.",
+  "z042f2ca1": "Il media pubblico estone approfondisce le sfide pedagogiche di fronte alla diffusione di notizie false e teorie antiscientifiche.",
+  "ze4c533ed": "La testata pubblica estone sottolinea le tensioni a livello municipale e l'impatto dei controlli di frontiera degli altri Paesi UE.",
+  "zd9444516": "Il servizio radiotelevisivo lettone racconta l'omaggio sinfonico regionale alla figura storica del maestro musicale baltico.",
+  "z9b6170b9": "Il portale pubblico lettone indaga sul profilo del connazionale collegato all'inchiesta tedesca sulle trame di Mosca in Europa.",
+  "z75875919": "L'agenzia di stampa sudcoreana riprende tempestivamente le dichiarazioni minacciose rilasciate dai vertici di Pyongyang.",
+  "z7b214f80": "La fonte sudcoreana pone l'accento sulla riorganizzazione strutturale delle forze armate per blindare le linee di confine.",
+  "z9f581741": "La testata di Seul evidenzia la determinazione della presidenza a completare la transizione del comando bellico nazionale.",
+  "z71243ed5": "L'emittente asiatica riporta gli sviluppi giudiziari del più grande scandalo di riciclaggio di capitali emerso nella città-stato.",
+  "z962f59aa": "Il canale di Singapore descrive le misure statali per preparare i giovani laureandi ai cambiamenti imposti dal settore tecnologico.",
+  "z612ae7ac": "La testata analizza i disagi economici e di salute causati dall'inquinamento atmosferico transfrontaliero nella città-stato.",
+  "z06fe3169": "L'emittente pubblica neozelandese accende i riflettori sulla contestazione civile per l'emergenza abitativa e la dismissione degli immobili.",
+  "zdae43f2c": "L'emittente evidenzia i problemi di sicurezza e la gestione degli appalti pubblici da parte dell'ente locale.",
+  "z967d4954": "Il media di Hong Kong focalizza l'attenzione sulla logistica e sui disagi ai confini con la Cina continentale.",
+  "z379b9a2d": "L'emittente pubblica greca enfatizza il binomio tra progresso tecnologico e stabilità politica promosso dal governo.",
+  "z9dfcd792": "L'agenzia macedone evidenzia l'inasprimento della dialettica politica e dello scontro istituzionale a Parigi.",
+  "z37ed6d49": "L'agenzia moldava pone l'accento sulla cooperazione delle forze di sicurezza nazionali con la rete giudiziaria globale.",
+  "z950afd8d": "La testata evidenzia il coinvolgimento dei partner europei chiave nella complessa gestione del dossier separatista.",
+  "zdf235cde": "La stampa esteuropea osserva con allarme le tensioni sociali e l'ordine pubblico nelle metropoli italiane.",
+  "zaa7e39dd": "La fonte riporta la propagazione del sisma rumeno verso il territorio confinante moldavo.",
+  "zb0762cf6": "La testata celebra con toni entusiastici il primato sportivo internazionale conseguito dal giovane atleta nazionale.",
+  "zffd4a0f5": "Il media armeno denuncia la pesante repressione giudiziaria verso i dissidenti rientrati in patria dall'Europa.",
+  "z6a0c3425": "L'emittente sottolinea il ruolo diplomatico di primo piano assunto dall'Armenia nei vertici ambientali delle Nazioni Unite.",
+  "z7426d0e4": "L'organo vaticano evidenzia il trauma umanitario e l'urgenza di proteggere l'infanzia duramente colpita dalle ostilità.",
+  "zadc8c1e9": "La tv pubblica bhutanese mette in luce il divario digitale che rischia di escludere le fasce anziane.",
+  "z1b4f3fbf": "Il quotidiano governativo celebra le politiche industriali mirate al rafforzamento della catena del valore mineraria.",
+  "z0dc75be4": "Il quotidiano tanzaniano pone l'accento sulla cooperazione con la finanza multilaterale a sostegno della strategia economica nazionale.",
+  "za9165788": "Meduza riprende le indiscrezioni del quotidiano statunitense sulle trattative energetiche tra Washington e Bruxelles.",
+  "zb73c2fc3": "La testata indipendente russa mette in evidenza la disponibilità americana a un tavolo diplomatico allargato a Pechino.",
+  "z6cea7ac0": "La testata ucraina evidenzia la contrarietà di Kyiv a iniziative diplomatiche che escludano la leadership ucraina.",
+  "z0f1ecea0": "Il quotidiano di Kyiv pubblica il bollettino quotidiano sulle perdite stimate tra le forze armate della Federazione Russa.",
+  "z0d2f7d54": "La testata indipendente siriana racconta la difesa delle prerogative culturali e linguistiche curde rispetto al potere centrale.",
+  "ze6ce737b": "Il sito romeno riferisce la polarizzazione politica scaturita dagli scontri di piazza nei principali centri francesi.",
+  "z0d94f44c": "La testata evidenzia l'impatto economico negativo delle barriere tariffarie europee sull'industria pesante di un Paese alleato in guerra.",
+  "z8050c4a7": "L'emittente montenegrina dà spazio ai risultati dell'indagine focalizzandosi sul senso di abbandono delle donne e sull'inadeguatezza delle risposte statali.",
+  "z6cf4ad44": "La testata caucasica monitora l'interazione diplomatica regionale concentrandosi sul dialogo politico tra Teheran e Tbilisi.",
+  "z90b32e41": "L'agenzia tagika sottolinea l'entità del supporto finanziario multilaterale per l'infrastruttura idroelettrica chiave del Paese.",
+  "z32a41978": "Il media di Seul registra con attenzione gli indizi materiali di tensione e i rischi fisici persistenti lungo il confine.",
+  "zf4cf449a": "L'analisi sottolinea l'estrema sensibilità diplomatica e di sovranità che circonda le dichiarazioni dei vertici militari americani a Seul.",
+  "z968adf2a": "Il notiziario si sofferma sull'assetto di prontezza difensiva sudcoreano e sui ritocchi al calendario delle esercitazioni con Washington.",
+  "zb0dbfb46": "Il notiziario tedesco racconta il malcontento civile nella capitale ucraina, pressata dall'imminente emergenza energetica invernale.",
+  "zbc53b334": "La testata pubblica tedesca dà risalto al contrasto diplomatico e informativo tra la presidenza ucraina e Washington.",
+  "z16b480fe": "Il servizio tedesco segnala la serietà dell'emergenza climatica e l'attivazione del sistema di allerta digitale per la popolazione.",
+  "z5e9c2c83": "Il corrispondente della televisione tedesca osserva le divisioni intestine nella sinistra durante i delicati negoziati di coalizione.",
+  "z54d0d29c": "La testata evidenzia l'ansia strategica della presidenza ucraina di fronte a possibili mutamenti di rotta della diplomazia americana.",
+  "zb6cacf84": "L'emittente pubblica portoghese registra il passaggio burocratico definitivo di una misura approvata all'unanimità dalle forze politiche.",
+  "z7282a1e7": "Il servizio portoghese descrive la determinazione dei movimenti sociali contro l'emergenza abitativa e il caro affitti nel Paese.",
+  "z10301ad6": "La televisione portoghese pone l'accento sull'escalation verbale e sui rischi di uno scontro militare diretto tra Washington e l'Iran.",
+  "z3d78d684": "Il servizio olandese analizza l'impatto della vertenza sindacale sui pendolari e le richieste dei lavoratori del trasporto pubblico.",
+  "z9dff02f0": "Il servizio pubblico olandese evidenzia la drammatica concomitanza tra i tagli finanziari e l'imminente peggioramento delle condizioni climatiche."
  },
  "contesti": {
   "za5836191": "Dopo il cessate il fuoco e la tregua a Gaza, gli aiuti umanitari sono aumentati ma restano insufficienti rispetto ai bisogni della popolazione, segnata da mesi di conflitto, distruzioni e sfollamenti. Le agenzie Onu, incluso il Wfp, hanno più volte lanciato l'allarme sulla carenza di finanziamenti internazionali, costrette a razionare e ridurre progressivamente l'assistenza alimentare mentre la crisi umanitaria resta acuta.",
@@ -7911,13 +9343,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z2b88822c": {
-   "n": "Striscia di Gaza",
-   "p": [
-    "Palestine"
-   ],
-   "pt": []
-  },
   "za40d11b4": {
    "n": "Mar Egeo",
    "p": [
@@ -8043,19 +9468,465 @@ window.EDIZIONI["2026-10-19-sera"] = {
     "Palestine"
    ],
    "pt": []
+  },
+  "z2edc2048": {
+   "n": "Beirut",
+   "p": [
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z67e6f901": {
+   "n": "Praga",
+   "p": [
+    "Czechia",
+    "France"
+   ],
+   "pt": []
+  },
+  "z45062f22": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z17398ebe": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z92e46beb": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zc7c55c51": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z31811397": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zc1c9a54e": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z51f5537c": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z9c99f8a8": {
+   "n": "Casablanca",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z43717a31": {
+   "n": "Türi",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z042f2ca1": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "ze4c533ed": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zd9444516": {
+   "n": "Preiļi",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "z9b6170b9": {
+   "n": "Lipsia",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z75875919": {
+   "n": "Pyongyang",
+   "p": [
+    "North Korea",
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z7b214f80": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z9f581741": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z71243ed5": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z962f59aa": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z612ae7ac": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z06fe3169": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zdae43f2c": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z967d4954": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong",
+    "China"
+   ],
+   "pt": []
+  },
+  "z379b9a2d": {
+   "n": "Lavrio",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z9dfcd792": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z37ed6d49": {
+   "n": "Chișinău",
+   "p": [
+    "Moldova",
+    "Romania",
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z950afd8d": {
+   "n": "Chișinău",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "zdf235cde": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zaa7e39dd": {
+   "n": "Vrancea",
+   "p": [
+    "Romania",
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "zb0762cf6": {
+   "n": "Bielsko-Biała",
+   "p": [
+    "Poland",
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "zffd4a0f5": {
+   "n": "Dušanbe",
+   "p": [
+    "Tajikistan",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z6a0c3425": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z7426d0e4": {
+   "n": "Gaza",
+   "p": [
+    "Palestine",
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zadc8c1e9": {
+   "n": "Thimphu",
+   "p": [
+    "Bhutan"
+   ],
+   "pt": []
+  },
+  "z1b4f3fbf": {
+   "n": "Bagamoyo",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z0dc75be4": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand",
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "za9165788": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "United States of America",
+    "Russia",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zb73c2fc3": {
+   "n": "Washington",
+   "p": [
+    "United States of America",
+    "Russia",
+    "China",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z6cea7ac0": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine",
+    "United States of America",
+    "Russia",
+    "China"
+   ],
+   "pt": []
+  },
+  "z0f1ecea0": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z0d2f7d54": {
+   "n": "Nord-est della Siria",
+   "p": [
+    "Syria"
+   ],
+   "pt": []
+  },
+  "ze6ce737b": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z0d94f44c": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z8050c4a7": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z6cf4ad44": {
+   "n": "Yerevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z90b32e41": {
+   "n": "Dushanbe",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z32a41978": {
+   "n": "Isola di Boreum",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zf4cf449a": {
+   "n": "Seul",
+   "p": [
+    "South Korea",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z968adf2a": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zb0dbfb46": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zbc53b334": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z16b480fe": {
+   "n": "Maiorca",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z5e9c2c83": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z54d0d29c": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine",
+    "United States of America",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zb6cacf84": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z7282a1e7": {
+   "n": "Porto",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z10301ad6": {
+   "n": "Teheran",
+   "p": [
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3d78d684": {
+   "n": "Hilversum",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z9dff02f0": {
+   "n": "Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
   "zbc4f278c": 2,
   "z0ace5a3e": 1,
-  "zead05f92": 1,
+  "zead05f92": 2,
   "ze4dd5841": 2,
   "za5836191": 2,
   "z01c55616": 1,
   "zb406c9a4": 3,
   "zfef922e8": 1,
   "z4ed460ec": 2,
-  "z4b21203b": 1,
+  "z4b21203b": 2,
   "za5853934": 1,
   "z2d6bcf3f": 1,
   "z65000f46": 1,
@@ -8228,7 +10099,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "za2b8eeba": 1,
   "z170db2c0": 1,
   "z38c1f28f": 1,
-  "z18a1527b": 1,
+  "z18a1527b": 2,
   "za8e9e1cf": 1,
   "z0dd357fb": 1,
   "z7d5a2743": 1,
@@ -8248,7 +10119,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z048db049": 1,
   "z326bc336": 1,
   "z98558c5e": 1,
-  "z2b88822c": 1,
   "za40d11b4": 1,
   "z0c312792": 1,
   "zbecbf284": 1,
@@ -8266,7 +10136,67 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zecc64a56": 1,
   "z127e3eaf": 1,
   "z724bed0c": 1,
-  "zb59aa19d": 1
+  "zb59aa19d": 1,
+  "z2edc2048": 1,
+  "z67e6f901": 1,
+  "z45062f22": 1,
+  "z17398ebe": 1,
+  "z92e46beb": 1,
+  "zc7c55c51": 1,
+  "z31811397": 1,
+  "zc1c9a54e": 1,
+  "z51f5537c": 1,
+  "z9c99f8a8": 1,
+  "z43717a31": 1,
+  "z042f2ca1": 1,
+  "ze4c533ed": 1,
+  "zd9444516": 1,
+  "z9b6170b9": 1,
+  "z75875919": 2,
+  "z7b214f80": 1,
+  "z9f581741": 1,
+  "z71243ed5": 1,
+  "z962f59aa": 1,
+  "z612ae7ac": 1,
+  "z06fe3169": 1,
+  "zdae43f2c": 1,
+  "z967d4954": 1,
+  "z379b9a2d": 1,
+  "z9dfcd792": 1,
+  "z37ed6d49": 1,
+  "z950afd8d": 1,
+  "zdf235cde": 1,
+  "zaa7e39dd": 2,
+  "zb0762cf6": 1,
+  "zffd4a0f5": 1,
+  "z6a0c3425": 1,
+  "z7426d0e4": 1,
+  "zadc8c1e9": 1,
+  "z1b4f3fbf": 1,
+  "z0dc75be4": 1,
+  "za9165788": 1,
+  "zb73c2fc3": 1,
+  "z6cea7ac0": 1,
+  "z0f1ecea0": 1,
+  "z0d2f7d54": 1,
+  "ze6ce737b": 1,
+  "z0d94f44c": 1,
+  "z8050c4a7": 1,
+  "z6cf4ad44": 1,
+  "z90b32e41": 1,
+  "z32a41978": 1,
+  "zf4cf449a": 1,
+  "z968adf2a": 1,
+  "zb0dbfb46": 1,
+  "zbc53b334": 1,
+  "z16b480fe": 1,
+  "z5e9c2c83": 1,
+  "z54d0d29c": 1,
+  "zb6cacf84": 1,
+  "z7282a1e7": 1,
+  "z10301ad6": 1,
+  "z3d78d684": 1,
+  "z9dff02f0": 1
  },
  "video": {},
  "pillole": []
