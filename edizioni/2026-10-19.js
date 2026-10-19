@@ -180,7 +180,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "zc54dc83e",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Ogni storia è unica nei cancri femminili, appello per azione accelerata in Africa",
    "orig": "Africa: Every Story Is Unique, Every Journey Matters for Women's Cancers",
    "lead": "Leader dell'Organizzazione delle prime signore africane per lo sviluppo, dell'Unione africana e dell'Organizzazione mondiale della sanità lanciano un appello per accelerare l'azione sui cancri femminili in Africa. L'iniziativa viene promossa durante il mese di consapevolezza sul tumore al seno, sottolineando l'urgenza di interventi coordinati. Lo riferisce allAfrica.",
@@ -693,7 +693,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "zaaec903f",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Meta: strumento Claude AI ha causato sospensione account No Kings",
    "orig": "Meta says Claude AI tool triggered No Kings Instagram suspension",
    "lead": "Meta ha dichiarato che uno strumento di intelligenza artificiale Claude ha provocato la sospensione dell'account Instagram della coalizione No Kings, che stava spingendo per il voto anticipato prima delle elezioni statunitensi del 3 novembre. Lo riferisce The Straits Times.",
@@ -941,7 +941,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z283032ae",
-   "sez": "mondo",
+   "sez": "viaggi",
    "titolo": "2027 sarà l'anno del birdwatching: una nuova generazione scopre l'ornitologia",
    "orig": "Why 2027 is set to be the year for birdwatching holidays – and where to go birding in Europe",
    "lead": "Secondo Euronews, il 2027 si prospetta come l'anno del turismo ornitologico, con una nuova generazione che scopre i binocoli e intraprende viaggi per vacanze dedicate al birdwatching in varie destinazioni europee. Lo riferisce Euronews.",
@@ -1360,30 +1360,6 @@ window.EDIZIONI["2026-10-19"] = {
    "uscita": "mattino"
   },
   {
-   "id": "ze778217d",
-   "sez": "mondo",
-   "titolo": "Violenze e disordini a Milano, oltre 200 arrestati negli scontri tra giovani e polizia",
-   "orig": "Dhunë dhe trazira në Milano, mbi 200 të arrestuar pas përleshjeve mes të rinjve dhe policisë",
-   "lead": "Scontri tra giovani manifestanti e polizia si sono prolungati per il secondo giorno consecutivo a Milano lunedì. Gruppi di giovani, per lo più vestiti di nero con i volti coperti, hanno lanciato bottiglie e oggetti contro le forze dell'ordine, saccheggiato negozi e danneggiato proprietà nella zona di Piazza Duomo. Lo riferisce Euronews Albania.",
-   "more": [
-    "Gli scontri riflettono tensioni sociali più ampie e conflitti tra giovani radicali e l'ordine pubblico nel contesto italiano."
-   ],
-   "fonti": [
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/dhune-dhe-trazira-ne-milano-mbi-200-te-arrestuar-pas-perleshjeve-mes-te-rinjve-dhe-policise/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-19T05:14+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "08:00",
-   "uscita": "mattino"
-  },
-  {
    "id": "zb5bbb59a",
    "sez": "mondo",
    "titolo": "Opposizione albanese accusa il governo di aver inviato polizia contro la sede del partito",
@@ -1401,30 +1377,6 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Albania",
      "t": "2026-10-18T20:57+00:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "08:00",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zabf71fbf",
-   "sez": "mondo",
-   "titolo": "Proteste a Tirana durano dieci ore con violenza grave, pietre rimosse dal boulevard",
-   "orig": "10 orë ‘luftë’ protestues-polici, ekskavatorët heqin gurët nga bulevardi ‘Dëshmorët e Kombit’",
-   "lead": "Una protesta a Tirana domenica ha duranto circa dieci ore con atti di violenza grave inclusa la combustione del commissariato numero 3 dove dieci agenti sono rimasti feriti. Nel pomeriggio gli escavatori hanno rimosso le pietre dal boulevard dei Martiri della Nazione utilizzate dai manifestanti. Lo riferisce Euronews Albania.",
-   "more": [
-    "Gli scontri a Tirana rappresentano una delle proteste più prolungate e violente della capitale albanese nel periodo recente."
-   ],
-   "fonti": [
-    {
-     "n": "Euronews Albania",
-     "p": "XX",
-     "c": "Tirana",
-     "u": "https://euronews.al/10-ore-lufte-protestues-polici-ekskavatoret-heqin-guret-nga-bulevardi-deshmoret-e-kombit/",
-     "angolo": "",
-     "atlas": "Albania",
-     "t": "2026-10-18T20:26+00:00"
     }
    ],
    "data": "18 ott",
@@ -1457,7 +1409,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z880f1b98",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "I prezzi del petrolio crollano dopo la decisione di Trump sulla Russia",
    "orig": "Cijene nafte naglo pale nakon Trumpove odluke o Rusiji: Ukida sankcije i carine, Iran ponudio otvaranje Hormuškog moreuza",
    "lead": "I prezzi del petrolio sui mercati mondiali sono crollati lunedì dopo che il presidente americano Donald Trump ha firmato un ordine esecutivo per sospendere le sanzioni e i dazi verso la Russia. Contemporaneamente l'Iran ha offerto di aprire lo stretto di Hormuz. Lo riferisce N1 Bosnia.",
@@ -1575,7 +1527,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "zb181e888",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Atleti bahreiniti pronti per Campionati Asiatici di canottaggio",
    "orig": "Bahrain Paddlers Ready for Asian Championships",
    "lead": "Una squadra di quattro atleti di canottaggio del Bahrein si prepara per i Campionati Asiatici. La delegazione arriva in Uzbekistan dopo il successo ai Giochi dell'Asia occidentale, dove ha conquistato la medaglia d'oro. Lo riferisce Daily Tribune.",
@@ -1663,7 +1615,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z44ab5c67",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Shomurodov segna e assist nel successo del Basaksehir",
    "orig": "Shomurodov Scores and Assists in Basaksehir Victory",
    "lead": "Il capitano uzbeko Eldor Shomurodov ha segnato una rete e fornito un assist decisivo nella vittoria per 2-1 del Basaksehir sul Gaziantep nel match dell'ottava giornata del campionato turco di calcio. Lo riferisce UzDaily.",
@@ -1830,7 +1782,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z52b195c3",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Senegal sospende nuovamente le importazioni di zucchero da novembre",
    "orig": "SUCRE : L’État suspend à nouveau les importations à partir de novembre",
    "lead": "Il ministero dell'Industria e del Commercio senegalese annuncia il blocco delle importazioni di zucchero da novembre 2026 per una durata prevista di otto-nove mesi, al fine di favorire la produzione nazionale e garantire stabilità dei prezzi. Lo riferisce Le Soleil.",
@@ -2467,7 +2419,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z36394a2f",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Emily Chancellor annuncia il ritiro dal rugby femminile australiano",
    "orig": "Chancellor announces Wallaroos retirement ahead of Scotland Test",
    "lead": "Emily Chancellor, ex capitano della nazionale australiana di rugby femminile Wallaroos, annuncia il ritiro dopo oltre un decennio di carriera internazionale. L'atleta disputerà potenzialmente la sua ultima partita contro la Scozia nella 42esima gara ufficiale. Lo riferisce ABC News Australia.",
@@ -3175,29 +3127,6 @@ window.EDIZIONI["2026-10-19"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zc01354e2",
-   "sez": "mondo",
-   "titolo": "Iran - Guardia della Rivoluzione annuncia nave cisterna colpita da mina",
-   "orig": "Irão diz que petroleiro atingiu mina e incendiou-se em Ormuz",
-   "lead": "La Guardia della Rivoluzione Islamica iraniana ha annunciato l'incendio di una nave cisterna nello Stretto di Hormuz seguito a una collisione con una mina. L'episodio si aggiunge alle crescenti tensioni marittime nella regione. Lo riferisce RTP.",
-   "more": [
-    "Lo Stretto di Hormuz rimane un punto nevralgico per il commercio energetico globale e teatro di scontri tra Iran e potenze occidentali."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/mundo/irao-diz-que-petroleiro-atingiu-mina-e-incendiou-se-em-ormuz_n1772570",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
-   "ora": "07:55",
-   "uscita": "mattino"
-  },
-  {
    "id": "zf17c8ec9",
    "sez": "mondo",
    "titolo": "Venezuela - ONG denuncia irregolarità in carcere di Yare",
@@ -3238,28 +3167,6 @@ window.EDIZIONI["2026-10-19"] = {
     }
    ],
    "data": "",
-   "ora": "07:55",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z28045beb",
-   "sez": "mondo",
-   "titolo": "Volo Tel Aviv-Vienna dirottato in Bulgaria per minaccia bomba",
-   "orig": "Vlucht uit Tel Aviv naar Wenen maakt voorzorgslanding in Bulgarije na bommelding",
-   "lead": "Un volo della compagnia aerea austriaca Austrian Airlines in partenza da Tel Aviv verso Vienna è stato deviato verso l'aeroporto di Sofia in Bulgaria a causa di una minaccia bomba. Squadre specializzate conducono le ricerche. Lo riferisce NOS.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635547",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-19T03:44+02:00"
-    }
-   ],
-   "data": "19 ott",
    "ora": "07:55",
    "uscita": "mattino"
   },
@@ -3351,30 +3258,6 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Belgium",
      "t": "2026-10-19T05:00+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "07:55",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z5edfa02f",
-   "sez": "mondo",
-   "titolo": "Armenia: inizia conferenza mondiale sulla biodiversità a Yerevan",
-   "orig": "Gordische Knoten in Eriwan",
-   "lead": "Lunedì inizia a Yerevan la 17ª Conferenza mondiale sulla biodiversità (COP17). Mentre i precedenti vertici hanno raggiunto importanti traguardi storici per la protezione della natura, questa si concentra sulla loro concreta implementazione pratica. Lo riferisce ORF.at.",
-   "more": [
-    "La conferenza affronta questioni critiche e complesse per la protezione della biodiversità globale e l'implementazione di norme condivise."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445062/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-19T06:05+02:00"
     }
    ],
    "data": "19 ott",
@@ -3531,6 +3414,14 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-19T04:19+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/irao-diz-que-petroleiro-atingiu-mina-e-incendiou-se-em-ormuz_n1772570",
+     "angolo": "",
+     "atlas": "Portugal"
     }
    ],
    "data": "19 ott",
@@ -4726,7 +4617,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z0e7bd2ee",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Algeria, il Consiglio dei ministri discute import, prezzi e desalinizzazione",
    "orig": "Conseil des ministres : importation, plafonnement de prix, contrôles, stations de dessalement…",
    "lead": "Il Consiglio dei ministri algerino, presieduto dal presidente Abdelmadjid Tebboune, si è riunito domenica 18 ottobre per discutere diversi temi economici, tra cui le importazioni, il tetto ai prezzi, i controlli di mercato e le stazioni di desalinizzazione dell'acqua. Lo riferisce Le Matin Algérie, che riproduce il comunicato ufficiale diffuso al termine della riunione.",
@@ -5117,30 +5008,6 @@ window.EDIZIONI["2026-10-19"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z932d55ce",
-   "sez": "dibattito",
-   "titolo": "In Albania le proteste studentesche vanno oltre le tasse universitarie",
-   "orig": "Bei den gewaltsamen Studentenprotesten in Albanien geht es um mehr als nur Studiengebühren",
-   "lead": "In Albania sono in corso proteste studentesche con episodi di violenza, nate ufficialmente contro le tasse universitarie ma che, secondo NZZ, riflettono un malessere più ampio: nonostante la crescita economica del paese, molti giovani non vedono un futuro in Albania e beneficiano poco del boom turistico. Il primo ministro Edi Rama ha parlato di ingerenze straniere dietro le proteste. Lo riferisce NZZ.",
-   "more": [
-    "L'Albania ha registrato negli ultimi anni una crescita economica sostenuta soprattutto dal turismo, ma permangono alta disoccupazione giovanile ed emigrazione verso l'estero. Le tensioni tra giovani e governo riflettono spesso un malcontento diffuso su opportunità di lavoro e salari, temi comuni in diversi paesi dei Balcani."
-   ],
-   "fonti": [
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/international/bei-den-gewaltsamen-studenten-protesten-in-albanien-geht-es-um-mehr-als-studiengebuehren-ld.10037388",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-19T03:30+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "07:51",
-   "uscita": "mattino"
-  },
-  {
    "id": "zcf620a23",
    "sez": "economia",
    "titolo": "La Repubblica Dominicana affronta crescenti pressioni fiscali ed esterne",
@@ -5178,39 +5045,6 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Dominican Rep.",
      "t": "2026-10-19T00:01+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "07:51",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zbfd3b6e7",
-   "sez": "economia",
-   "titolo": "Il Pil cinese cresce più delle attese nel terzo trimestre",
-   "orig": "Chinas Wirtschaft wächst stärker als erwartet",
-   "lead": "Il Prodotto interno lordo della Cina è aumentato più del previsto nel terzo trimestre del 2026, con le esportazioni a fare da principale traino. Lo riferiscono ORF e Il Post.",
-   "more": [
-    "La Cina punta sulle esportazioni per compensare la domanda interna debole, frenata da crisi immobiliare e consumi contenuti. I dati trimestrali sul PIL sono seguiti con attenzione a livello globale perché influenzano le previsioni su commercio mondiale."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445491/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-19T06:48+02:00"
-    },
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/19/economia-cinese-crescita-terzo-trimestre/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-19T05:24+00:00"
     }
    ],
    "data": "19 ott",
@@ -5324,6 +5158,42 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-10-18T22:58+00:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/en-direct-violences-manifestations-pillages-degats-paris-allocution-macron-17-octobre-emutes-20261019",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T06:50+02:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/International/a-paris-encore-des-heurts-et-des-magasins-pilles_n_999001076.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-18T23:21+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_2aeef560-dded-49f0-b82b-97ffd9004684.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-18T21:36+02:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/france/20261019-apr%C3%A8s-des-manifestations-qui-ont-vir%C3%A9-au-chaos-l-ex%C3%A9cutif-somm%C3%A9-de-rendre-des-comptes",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-19T03:21+00:00"
     }
    ],
    "data": "19 ott",
@@ -5332,7 +5202,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "zea28e0b7",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Australia conquista l'argento ai Mondiali di ciclismo su pista",
    "orig": "Australia claims second silver at track cycling world championships",
    "lead": "Il ciclista australiano Leigh Hoffman non ha battuto il leggendario olandese Harrie Lavreysen nella finale dello sprint individuale ai Mondiali di ciclismo su pista. Hoffman si è dovuto accontentare della medaglia d'argento nella prestigiosa competizione mondiale. Lo riferisce ABC News Australia.",
@@ -5967,7 +5837,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z1070b470",
-   "sez": "cultura",
+   "sez": "cucina",
    "titolo": "Il ristorante di sushi a Tokyo dove i clienti viaggiano tre ore per mangiare",
    "orig": "The sushi restaurant Tokyoites travel three hours to for lunch",
    "lead": "Isao Ogawa, chef esperto e pescaiolo di terza generazione con accesso privilegiato ai frutti del mare della baia di Toyama, attrae clienti disposti a viaggiare tre ore per cenare nel suo locale. I migliori chef giapponesi mangiano al suo banco per consigli. Lo riferisce Financial Times.",
@@ -6189,37 +6059,6 @@ window.EDIZIONI["2026-10-19"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z8f21bd22",
-   "sez": "mondo",
-   "titolo": "Violenze in Francia: saccheggi a Parigi, Macron tenta di riprendere il controllo",
-   "orig": "EN DIRECT - Violences du 17 octobre : de nouveaux heurts et des magasins pillés à Paris, Emmanuel Macron tente de reprendre la main après le chaos",
-   "lead": "Domenica hanno ripreso gli scontri a Parigi dove nuovi negozi sono stati saccheggiati, mentre si registrano tentativi di irruzione a Lione, Marsiglia e nei pressi di Nantes. Gli incidenti proseguono il giorno dopo le violenze massicce del 17 ottobre. Lo riferisce Le Figaro.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/actualite-france/en-direct-violences-manifestations-pillages-degats-paris-allocution-macron-17-octobre-emutes-20261019",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T06:50+02:00"
-    },
-    {
-     "n": "Seneweb",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://www.seneweb.com/fr/news/International/a-paris-encore-des-heurts-et-des-magasins-pilles_n_999001076.html",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-10-18T23:21+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "07:51",
-   "uscita": "mattino"
-  },
-  {
    "id": "z8ee523f6",
    "sez": "mondo",
    "titolo": "Macron accusa l'estrema sinistra di aver infiammato le proteste in Francia",
@@ -6252,7 +6091,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "zd8422f48",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "La canzone di protesta messicana dal 1965 con il movimento armato di Chihuahua",
    "orig": "Fernando Morán*: Cuando el cantar hito suena",
    "lead": "A partire dal settembre 1965 con l'Assalto al Quartiere Madera a Chihuahua, è sorto un movimento armato contemporaneo in Messico. La canzone di protesta messicana ha incorporato questo nuovo elemento nei suoi repertori musicali e narrativi. Lo riferisce La Jornada.",
@@ -6545,28 +6384,6 @@ window.EDIZIONI["2026-10-19"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zcbbafbb7",
-   "sez": "mondo",
-   "titolo": "Macron: \"Rabbia e vergogna, chi ha distrutto deve pagare\"",
-   "orig": "Macron: 'Rabbia e vergogna, chi ha distrutto deve pagare'",
-   "lead": "Il presidente francese Emmanuel Macron ha espresso \"rabbia e vergogna\" dopo i nuovi scontri avvenuti a Parigi e Lione, affermando che chi ha causato le distruzioni dovrà risponderne. Il presidente ha ipotizzato la possibilità di vietare alcuni raduni, mentre la vicenda ha scatenato polemiche politiche nel paese. Lo riferisce ANSA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_2aeef560-dded-49f0-b82b-97ffd9004684.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-18T21:36+02:00"
-    }
-   ],
-   "data": "18 ott",
-   "ora": "07:47",
-   "uscita": "mattino"
-  },
-  {
    "id": "z27447b40",
    "sez": "mondo",
    "titolo": "Volo Austrian Airlines da Tel Aviv atterra d'emergenza dopo un allarme bomba",
@@ -6582,6 +6399,15 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-19T03:22+00:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635547",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-19T03:44+02:00"
     }
    ],
    "data": "19 ott",
@@ -6857,6 +6683,15 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-16T00:00+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445062/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T06:05+02:00"
     }
    ],
    "data": "19 ott",
@@ -6962,6 +6797,24 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Macedonia",
      "t": "2026-10-19T07:26+02:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/bei-den-gewaltsamen-studenten-protesten-in-albanien-geht-es-um-mehr-als-studiengebuehren-ld.10037388",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-19T03:30+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/10-ore-lufte-protestues-polici-ekskavatoret-heqin-guret-nga-bulevardi-deshmoret-e-kombit/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-18T20:26+00:00"
     }
    ],
    "data": "18 ott",
@@ -7166,7 +7019,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z450e2e88",
-   "sez": "cucina",
+   "sez": "ambiente",
    "titolo": "Come il cambiamento climatico sta rendendo il pesce un prodotto di lusso",
    "orig": "How Climate Change Is Causing ‘the Gentrification of Seafood’",
    "lead": "Il cambiamento climatico, aumentando i costi della pesca e della raccolta, sta facendo salire i prezzi di pesci una volta considerati comuni ed economici, rendendoli sempre più un prodotto di lusso accessibile a pochi. Lo riferisce il New York Times.",
@@ -7749,30 +7602,6 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Tajikistan",
      "t": "2026-10-19T05:00+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "07:47",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z0dd0f00d",
-   "sez": "dibattito",
-   "titolo": "Francia, il governo sotto pressione dopo le manifestazioni degenerate in violenze",
-   "orig": "Après des manifestations qui ont viré au chaos, l'exécutif sommé de rendre des comptes",
-   "lead": "In Francia l'esecutivo è chiamato a rispondere dopo una serie di manifestazioni che il 17 ottobre sono sfociate in disordini su tutto il territorio nazionale. Secondo France 24 il governo, già indebolito e criticato da più parti, deve ora affrontare la rabbia e le preoccupazioni suscitate dalla gestione della mobilitazione, che ha provocato violenze sul terreno e si è trasformata in una crisi politica. Le fonti non specificano le richieste originarie dei manifestanti né le misure annunciate dal governo in risposta. Lo riferisce France 24.",
-   "more": [
-    "In Francia le manifestazioni di piazza sono uno strumento frequente di pressione politica su temi sociali ed economici. Quando le proteste degenerano in violenze, come scontri con le forze dell'ordine o danni a beni pubblici, il governo è spesso chiamato a giustificare le proprie scelte di gestione dell'ordine pubblico, mentre l'opposizione ne approfitta per criticarne l'operato."
-   ],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/france/20261019-apr%C3%A8s-des-manifestations-qui-ont-vir%C3%A9-au-chaos-l-ex%C3%A9cutif-somm%C3%A9-de-rendre-des-comptes",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-19T03:21+00:00"
     }
    ],
    "data": "19 ott",
@@ -8550,7 +8379,7 @@ window.EDIZIONI["2026-10-19"] = {
   },
   {
    "id": "z03e5443f",
-   "sez": "cultura",
+   "sez": "salute",
    "titolo": "Che cosa insegna la cura della demenza nel mondo su dignità e comunità",
    "orig": "What dementia care around the world teaches us about dignity, community, avoiding burnout",
    "lead": "Una rubrica di South China Morning Post, arrivata alla sua centesima puntata, raccoglie riflessioni su ricerca, cura e testimonianze legate alla demenza nel mondo. L'autrice, che ha accompagnato la madre malata di demenza, racconta come l'esperienza personale di assistenza abbia offerto una riflessione più ampia sulla natura stessa della cura, sulla dignità dei malati, sul ruolo della comunità e sui rischi di esaurimento emotivo per chi si prende cura di loro. Lo riferisce South China Morning Post.",
@@ -9012,6 +8841,24 @@ window.EDIZIONI["2026-10-19"] = {
      "u": "https://asia.nikkei.com/economy/china-s-q3-gdp-narrowly-beats-forecasts-as-strong-exports-buoy-growth",
      "angolo": "",
      "atlas": "Japan"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445491/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T06:48+02:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/19/economia-cinese-crescita-terzo-trimestre/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-19T05:24+00:00"
     }
    ],
    "data": "19 ott",
@@ -9054,6 +8901,15 @@ window.EDIZIONI["2026-10-19"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-18T15:56+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/dhune-dhe-trazira-ne-milano-mbi-200-te-arrestuar-pas-perleshjeve-mes-te-rinjve-dhe-policise/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-19T05:14+00:00"
     }
    ],
    "data": "19 ott",
@@ -9141,7 +8997,6 @@ window.EDIZIONI["2026-10-19"] = {
   "z94ccc3f7": "Al Jazeera inquadra l'attacco nel contesto delle tensioni crescenti tra Kiev e Washington.",
   "zd4c2386b": "Al Jazeera segue l'evoluzione dei contagi legati al primo caso identificato nel paese.",
   "zf38b3239": "ANSA descrive il ritorno televisivo di Fiorello e i contenuti dello speciale andato in onda su Rai1.",
-  "zcbbafbb7": "ANSA riporta la reazione del presidente francese ai danni causati dalle proteste e le ricadute politiche interne.",
   "z27447b40": "Deutsche Welle riporta la dinamica dell'emergenza e l'intervento del caccia militare a scorta dell'aereo.",
   "zd8350245": "The Guardian celebra il gol di Gomez come possibile candidato a gol della stagione.",
   "z0ae6debf": "Le testate internazionali sottolineano la doppietta di Mbappé e l'avvicinamento del Real al Barcellona in classifica.",
@@ -9173,7 +9028,6 @@ window.EDIZIONI["2026-10-19"] = {
   "z5976abf0": "La testata evidenzia il risultato commerciale del debutto negli Stati Uniti e all'estero.",
   "z5783ebaf": "Il Messaggero si concentra sulla difficoltà di reperire le risorse necessarie alla manovra.",
   "z0c22ee1e": "Asia-Plus evidenzia il valore storico del ritrovamento dopo quasi un secolo di oblio.",
-  "z0dd0f00d": "France 24 sottolinea la fragilità politica dell'esecutivo dopo le proteste.",
   "z22188efb": "Daily Nation collega l'episodio alle tensioni regionali tra Iran e Arabia Saudita.",
   "z7e89d7fc": "La testata mette in luce il beneficio psicologico della tecnologia per pazienti e familiari.",
   "z4e6758dc": "Euronews sottolinea il ritardo nel raggiungere gli obiettivi di protezione marina.",
@@ -9264,10 +9118,8 @@ window.EDIZIONI["2026-10-19"] = {
   "z70ddf471": "14ymedio documenta il declino della produzione elettrica cubana negli ultimi venti anni.",
   "zd7a38cd8": "Brújula Digital documenta la resistenza delle compagnie di trasporto all'applicazione delle nuove tariffe.",
   "z50b49a42": "Der Spiegel segnala segnali di ottimismo tra i dirigenti d'impresa tedeschi.",
-  "z932d55ce": "NZZ interpreta le proteste come segnale di un disagio giovanile più profondo che va oltre le tasse universitarie.",
   "zcf620a23": "Diario Libre elenca i principali fattori di pressione sull'economia dominicana.",
   "z2a1599ec": "Diario Libre identifica la concorrenza cinese come una delle principali minacce al commercio locale.",
-  "zbfd3b6e7": "ORF conferma la crescita cinese superiore alle previsioni degli analisti.",
   "z524f24e9": "Trend riporta l'annuncio relativo all'organizzazione delle riunioni finanziarie internazionali.",
   "z630d9acd": "AKIpress riporta le previsioni dell'FMI sull'economia kirghisa.",
   "zec82ce43": "Le Monde, Le Figaro e Libération documentano le reazioni politiche contrastanti all'intervento di Macron.",
@@ -9294,7 +9146,6 @@ window.EDIZIONI["2026-10-19"] = {
   "z961da52a": "La testata riporta il gesto simbolico che rievoca controversie storiche e diplomatiche ricorrenti nel Pacifico.",
   "zc2b535b1": "La testata documenta i problemi di adattamento alle nuove operazioni del porto appena ristrutturato.",
   "z76c999ee": "La testata evidenzia la competizione tra paesi asiatici per attrarre capitale umano internazionale nel settore educativo.",
-  "z8f21bd22": "La testata documenta l'evoluzione dell'instabilità civile in più città francesi con scontri e vandalismi ricorrenti.",
   "z8ee523f6": "La testata riporta la strategia narrativa di Macron nel distribuire le responsabilità delle violenze tra attori politici.",
   "zd8422f48": "La testata ripercorre l'evoluzione della musica di protesta messicana in relazione ai movimenti sociali armati.",
   "z23cd525c": "La testata specializzata documenta i progressi della ricerca oncologica in ambito neurochirurgico.",
@@ -9359,15 +9210,12 @@ window.EDIZIONI["2026-10-19"] = {
   "zdae79b72": "Diplomazia regionale centroasiatica per discussioni su sviluppo e cooperazione.",
   "z5a6bd52c": "Questioni legali e costituzionali relative ai negoziati di pace in Sudan.",
   "z59beec8a": "Inchiesta sulle irregolarità nel processo di reclutamento militare ucraino.",
-  "zc01354e2": "Incidente marittimo che riflette le tensioni geopolitiche nel Golfo Persico.",
   "zf17c8ec9": "Denuncia sulla situazione carceraria e sui diritti umani in Venezuela.",
   "z4bbac26d": "Nuovo capitolo processuale per il leader politico portoghese in una vicenda giudiziaria di rilievo nazionale.",
-  "z28045beb": "Procedura di sicurezza aerea in risposta a minaccia di esplosivo su aeromobile internazionale.",
   "zb37712df": "Grave incidente su installazione militare canadese con bilancio pesante di vittime e feriti.",
   "z363e18c6": "Tensione commerciale transatlantica su regolamentazione di società tecnologiche spaziali.",
   "z7414f90c": "Notizia di decisione giudiziaria da televisione Paesi Bassi.",
   "z6c2120b0": "Iniziativa benefica filantropica da televisione belga.",
-  "z5edfa02f": "Evento internazionale rilevante da emittente austriaca.",
   "z0818394c": "Analisi comparativa di politiche di sicurezza fra paesi nordici.",
   "z6097ecef": "Notizia su ricerca culturale e benessere psicologico da televisione svedese.",
   "z680d1144": "Inchiesta su vulnerabilità alimentare e dipendenza commerciale.",
@@ -9448,9 +9296,7 @@ window.EDIZIONI["2026-10-19"] = {
   "zd9d2556a": "Quotidiano neozelandese che copre l'incidente con focus sulle operazioni di emergenza e i rischi dell'alpinismo.",
   "z7a868469": "Quotidiano neozelandese che presenta un'indagine sul polso dell'opinione pubblica e sulla fiducia nei leader.",
   "zca6767c5": "Quotidiano neozelandese che pubblica un appello pubblico delle forze dell'ordine per la ricerca di un ricercato.",
-  "ze778217d": "Emittente albanese che copre gli incidenti di piazza a Milano con enfasi sulla violenza e sul controllo dell'ordine.",
   "zb5bbb59a": "Emittente albanese che riporta le accuse dell'opposizione con attenzione alla prospettiva politica locale.",
-  "zabf71fbf": "Emittente albanese che racconta il susseguirsi degli eventi delle proteste di strada con focus sulla violenza.",
   "z7ce1fdcd": "Testata specializzata che analizza le tendenze nel mercato dei trasporti ceco con focus sul deficit di manodopera.",
   "z880f1b98": "Emittente bosniaca che copre l'impatto della politica americana sui mercati energetici globali.",
   "z3eba2d35": "Emittente bosniaca che riporta il conflitto tra autorità locali e una personalità dello sport.",
@@ -10009,13 +9855,6 @@ window.EDIZIONI["2026-10-19"] = {
    ],
    "pt": []
   },
-  "zcbbafbb7": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z27447b40": {
    "n": "Bulgaria",
    "p": [
@@ -10228,13 +10067,6 @@ window.EDIZIONI["2026-10-19"] = {
    "n": "Pamir",
    "p": [
     "Tajikistan"
-   ],
-   "pt": []
-  },
-  "z0dd0f00d": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -10841,13 +10673,6 @@ window.EDIZIONI["2026-10-19"] = {
    ],
    "pt": []
   },
-  "z932d55ce": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
   "zcf620a23": {
    "n": "Santo Domingo",
    "p": [
@@ -10859,13 +10684,6 @@ window.EDIZIONI["2026-10-19"] = {
    "n": "Santo Domingo",
    "p": [
     "Dominican Rep."
-   ],
-   "pt": []
-  },
-  "zbfd3b6e7": {
-   "n": "Pechino",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -11048,13 +10866,6 @@ window.EDIZIONI["2026-10-19"] = {
    "n": "Kuala Lumpur",
    "p": [
     "Malaysia"
-   ],
-   "pt": []
-  },
-  "z8f21bd22": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -11511,13 +11322,6 @@ window.EDIZIONI["2026-10-19"] = {
    ],
    "pt": []
   },
-  "zc01354e2": {
-   "n": "Iran",
-   "p": [
-    "Iran"
-   ],
-   "pt": []
-  },
   "zf17c8ec9": {
    "n": "Venezuela",
    "p": [
@@ -11529,13 +11333,6 @@ window.EDIZIONI["2026-10-19"] = {
    "n": "Portogallo",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "z28045beb": {
-   "n": "Bulgaria",
-   "p": [
-    "Bulgaria"
    ],
    "pt": []
   },
@@ -11564,13 +11361,6 @@ window.EDIZIONI["2026-10-19"] = {
    "n": "Bierbeek",
    "p": [
     "Belgium"
-   ],
-   "pt": []
-  },
-  "z5edfa02f": {
-   "n": "Yerevan",
-   "p": [
-    "Armenia"
    ],
    "pt": []
   },
@@ -12133,21 +11923,7 @@ window.EDIZIONI["2026-10-19"] = {
    ],
    "pt": []
   },
-  "ze778217d": {
-   "n": "Milano",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zb5bbb59a": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
-  "zabf71fbf": {
    "n": "Tirana",
    "p": [
     "Albania"
@@ -12247,7 +12023,6 @@ window.EDIZIONI["2026-10-19"] = {
   "z94ccc3f7": 1,
   "zd4c2386b": 1,
   "zf38b3239": 1,
-  "zcbbafbb7": 1,
   "z27447b40": 1,
   "zd8350245": 1,
   "z0ae6debf": 1,
@@ -12279,7 +12054,6 @@ window.EDIZIONI["2026-10-19"] = {
   "z5976abf0": 2,
   "z5783ebaf": 2,
   "z0c22ee1e": 1,
-  "z0dd0f00d": 2,
   "z22188efb": 1,
   "z7e89d7fc": 1,
   "z4e6758dc": 1,
@@ -12370,10 +12144,8 @@ window.EDIZIONI["2026-10-19"] = {
   "z70ddf471": 1,
   "zd7a38cd8": 1,
   "z50b49a42": 1,
-  "z932d55ce": 1,
   "zcf620a23": 1,
   "z2a1599ec": 1,
-  "zbfd3b6e7": 2,
   "z524f24e9": 1,
   "z630d9acd": 1,
   "zec82ce43": 1,
@@ -12400,7 +12172,6 @@ window.EDIZIONI["2026-10-19"] = {
   "z961da52a": 1,
   "zc2b535b1": 1,
   "z76c999ee": 1,
-  "z8f21bd22": 1,
   "z8ee523f6": 1,
   "zd8422f48": 1,
   "z23cd525c": 1,
@@ -12465,15 +12236,12 @@ window.EDIZIONI["2026-10-19"] = {
   "zdae79b72": 1,
   "z5a6bd52c": 1,
   "z59beec8a": 1,
-  "zc01354e2": 1,
   "zf17c8ec9": 1,
   "z4bbac26d": 1,
-  "z28045beb": 1,
   "zb37712df": 2,
   "z363e18c6": 1,
   "z7414f90c": 1,
   "z6c2120b0": 1,
-  "z5edfa02f": 1,
   "z0818394c": 1,
   "z6097ecef": 1,
   "z680d1144": 1,
@@ -12554,9 +12322,7 @@ window.EDIZIONI["2026-10-19"] = {
   "zd9d2556a": 1,
   "z7a868469": 1,
   "zca6767c5": 1,
-  "ze778217d": 1,
   "zb5bbb59a": 1,
-  "zabf71fbf": 1,
   "z7ce1fdcd": 1,
   "z880f1b98": 1,
   "z3eba2d35": 1,
