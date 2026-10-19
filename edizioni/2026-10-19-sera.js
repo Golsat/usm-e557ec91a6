@@ -3,6 +3,486 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z5103e335",
+   "sez": "mondo",
+   "titolo": "Tanzania: timori sull'anestesia ritardano gli interventi chirurgici a Bugando",
+   "orig": "Tanzania: Anaesthesia Fears Delay Surgeries At Bugando",
+   "lead": "La paura dell'anestesia, alimentata da idee errate sulla sua sicurezza, spinge molti pazienti dell'ospedale Bugando Zonal Referral in Tanzania a posticipare o rifiutare le operazioni chirurgiche fino all'aggravamento delle condizioni. Lo riferisce allAfrica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610190295.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T11:33+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "zf4eab073",
+   "sez": "mondo",
+   "titolo": "Ghana: Mahama spiega la mossa verso i BRICS",
+   "orig": "Ghana: Mahama Explains Ghana's BRICS Move",
+   "lead": "Il presidente del Ghana, John Dramani Mahama, ha dichiarato che la decisione di cercare una partnership con i paesi BRICS rientra negli sforzi per ampliare le collaborazioni di sviluppo e rafforzare la cooperazione Sud-Sud. Lo riferisce allAfrica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610190281.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T11:29+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z4f8d2068",
+   "sez": "mondo",
+   "titolo": "Stati Uniti e Cina dovrebbero imparare dal controllo degli armamenti della Guerra Fredda per gestire i rischi dell'IA",
+   "orig": "US, China should learn from Cold War-era arms control to tackle AI risks: ex-US official",
+   "lead": "Washington e Pechino dovrebbero accantonare la reciproca diffidenza per affrontare i rischi legati all'intelligenza artificiale, imitando la cooperazione sul controllo nucleare tra Stati Uniti e Unione Sovietica durante la Guerra Fredda, secondo un ex segretario al Tesoro statunitense. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/economy/global-economy/article/3371382/us-china-should-learn-cold-war-era-arms-control-tackle-ai-risks-ex-us-official?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-19T13:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z3d3cf9df",
+   "sez": "mondo",
+   "titolo": "Suneung a un solo mese di distanza",
+   "orig": "Suneung just a month away",
+   "lead": "Manca esattamente un mese al test di ammissione scolastica universitaria, noto come Suneung, e gli studenti dell'ultimo anno si preparano per l'ultima fase di studio, con una simulazione d'esame nazionale che coinvolge centinaia di migliaia di studenti. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10907793",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z952c528f",
+   "sez": "mondo",
+   "titolo": "Lee cerca un maggiore contatto pubblico, temendo di essere diventato 'troppo distante'",
+   "orig": "Lee seeks closer public contact, wondering if he&apos;s grown &apos;too distant&apos;",
+   "lead": "Il presidente sudcoreano Lee Jae Myung ha difeso l'uso crescente dei social media come ancora di salvezza politica, annunciando l'intenzione di ampliare la comunicazione diretta e i rapporti faccia a faccia per colmare la distanza percepita dai cittadini. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10907781",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z792ceaaa",
+   "sez": "mondo",
+   "titolo": "Lee chiede un rapido recupero, e non un semplice trasferimento, del comando di guerra dagli Stati Uniti",
+   "orig": "Lee calls for swift ‘restoration,’ not ‘transfer,’ of wartime command from US",
+   "lead": "Il presidente Lee Jae Myung ha ribadito la necessità che la Corea del Sud riacquisti il controllo operativo in tempo di guerra dagli Stati Uniti al più presto, sottolineando che il processo debba essere definito come un recupero e non un trasferimento. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10907766",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "za8ef6887",
+   "sez": "mondo",
+   "titolo": "La capacità agrivoltaica dell'India supererà i 5 gigawatt nei prossimi 3-4 anni",
+   "orig": "India’s agrivoltaic capacity is expected to be more than 5-gigawatts in next 3-4 years: 5 gigawatts",
+   "lead": "La capacità agrivoltaica dell'India è destinata a superare i cinque gigawatt nei prossimi tre o quattro anni, secondo quanto dichiarato dal segretario del Ministero delle Nuove e Rinnovabili Energie Santosh Sarangi in vista della conferenza mondiale di settore a New Delhi. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/business/Industry/indias-agrivoltaic-capacity-is-expected-to-be-more-than-5-gigawatts-in-next-3-4-years-5-gigawatts/article71602893.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T20:27+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "zdd853a18",
+   "sez": "mondo",
+   "titolo": "Shivraj Singh Chouhan lancia un portale aggiornato per il welfare agricolo",
+   "orig": "Shivraj Singh Chouhan launches upgraded agri welfare portal",
+   "lead": "Il governo indiano ha introdotto una piattaforma digitale aggiornata che fungerà da portale unico per le principali iniziative pubbliche dedicate agli agricoltori, tra cui i programmi PM-KISAN, AgriStack e la polizza per le coltivazioni Pradhan Mantri Fasal Bima Yojana. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/shivraj-singh-chouhan-launches-upgraded-agri-welfare-portal/article71602876.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T20:05+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "zbbc3e5dd",
+   "sez": "mondo",
+   "titolo": "Il Karnataka porta tutti i servizi per i cittadini online grazie al sistema Sakala",
+   "orig": "Karnataka to bring all citizen services online, under Sakala",
+   "lead": "Le nuove direttive nel Karnataka stabiliscono che tutti i servizi amministrativi per i cittadini vengano digitalizzati tramite il portale Sakala, imponendo l'uso di moduli in lingua kannada, pagamenti elettronici e aggiornamenti di stato tramite SMS e WhatsApp. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/karnataka/karnataka-to-bring-all-citizen-services-online-under-sakala/article71599351.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T19:56+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z6cac046a",
+   "sez": "mondo",
+   "titolo": "'Capitano, mio capitano': il Congresso dovrebbe fare nuovamente spazio ad Amarinder Singh?",
+   "orig": "'O Captain, My Captain': Should Congress make room for Amarinder Singh again?",
+   "lead": "In vista delle elezioni dell'assemblea del Punjab previste per il 2027, il Partito del Congresso sta ricalibrando la propria strategia di leadership, mentre emergono interrogativi sul futuro politico di Amarinder Singh sullo sfondo delle recenti critiche alla politica federale. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/o-captain-my-captain-should-punjab-congress-make-room-for-amarinder-singh-again/articleshow/135046368.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T16:34+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z2a9f29eb",
+   "sez": "mondo",
+   "titolo": "Coppia calma e un podista imperturbabile sfidano il caos nelle strade della Francia",
+   "orig": "Watch: Calm couple, unfazed jogger defy chaos on streets of France",
+   "lead": "Mentre la Francia affronta diffuse proteste causate dall'aumento del costo della vita e dal peggioramento dei servizi pubblici, con disordini urbani e migliaia di arresti che spingono il governo a valutare coprifuoco locali, alcune scene di normale quotidianità immortalano cittadini impassibili. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/europe/watch-calm-couple-unfazed-jogger-defy-chaos-on-streets-of-france/articleshow/135049194.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T18:36+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "zc59dd6b9",
+   "sez": "mondo",
+   "titolo": "Odisha contro Andhra per Kotia: Naveen Patnaik alza la pressione sul governo di Mohan Majhi",
+   "orig": "Odisha vs Andhra over Kotia: Naveen Patnaik turns up heat on Mohan Majhi govt",
+   "lead": "Il leader del BJD Naveen Patnaik ha scritto al ministro capo dell'Odisha, Mohan Charan Majhi, criticando il silenzio dell'esecutivo statale dopo l'annuncio dell'Andhra Pradesh di elezioni di panchayat estese ai villaggi contesi di Kotia. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/city/bhubaneswar/andhra-polls-put-kotia-back-in-spotlight-naveen-patnaik-asks-if-bjp-tdp-alliance-holding-odisha-back/articleshow/135050115.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T19:23+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z83c69bdf",
+   "sez": "mondo",
+   "titolo": "Steve Ballmer dona 10 milioni di dollari per ristrutturare i campi di Los Angeles: 350 progetti completati",
+   "orig": "Steve Ballmer gave $10mn to restore LA courts; 350 projects completed 4 years later",
+   "lead": "Grazie a una donazione di dieci milioni di dollari effettuata da Steve Ballmer e da sua moglie Connie, sono stati completati i lavori di ristrutturazione di 350 campi da pallacanestro sparsi per la città di Los Angeles per renderli più accessibili alla comunità. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/technology/tech-news/in-2018-steve-and-connie-ballmer-and-the-clippers-gave-10-million-to-restore-los-angeles-basketball-courts-four-years-later-the-project-finished-renovations-on-350-public-courts-across-the-city/articleshow/135047859.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-19T17:07+05:30"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z9d2988d4",
+   "sez": "mondo",
+   "titolo": "Il governo del Punjab vieta gli oggetti spia dotati di telecamere nascoste e dispositivi di registrazione",
+   "orig": "Punjab govt to ban 'spying objects' equipped with hidden cameras, recording devices",
+   "lead": "Il governo provinciale del Punjab ha deciso di vietare penne, occhiali, orologi e qualsiasi altro oggetto dotato di telecamere nascoste o dispositivi di registrazione, classificandoli come strumenti di spionaggio per tutelare la privacy dei cittadini. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038297/punjab-govt-to-ban-spying-objects-equipped-with-hidden-cameras-recording-devices",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T19:37+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z468ab508",
+   "sez": "mondo",
+   "titolo": "Il PPP era l'ultimo partito favorevole al governo del governatore nel KP, dice Sharjeel",
+   "orig": "PPP was the 'last party' in favour of governor's rule in KP, says Sharjeel",
+   "lead": "Il ministro senior del Sindh, Sharjeel Inam Memon, ha dichiarato che il Partito Popolare Pakistano era contrario all'imposizione del governo del dittatore o del commissario e dello stato di emergenza nel Khyber Pakhtunkhwa, privilegiando il dialogo istituzionale. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038286/ppp-was-the-last-party-in-favour-of-governors-rule-in-kp-says-sharjeel",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T18:51+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "zaf0167cd",
+   "sez": "mondo",
+   "titolo": "Karachi registra il primo caso di poliomielite in oltre un anno e mezzo, portando il totale nazionale a sette",
+   "orig": "Karachi reports its first polio case in over 1.5 years, bringing this year's countrywide tally to 7",
+   "lead": "Le autorità sanitarie pakistane hanno confermato il settimo caso di polio dell'anno, riguardante un neonato di sei mesi residente nel distretto orientale di Karachi, individuato attraverso la rete di sorveglianza epidemiologica nazionale. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038299/karachi-reports-its-first-polio-case-in-over-15-years-bringing-this-years-countrywide-tally-to-7",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T19:46+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z36f48104",
+   "sez": "mondo",
+   "titolo": "L'India proroga la detenzione dei principali leader del movimento giovanile Cockroach Janta Party",
+   "orig": "India extends detention of top Cockroach Janta Party leaders",
+   "lead": "Un magistrato di Nuova Delhi ha prorogato di due giorni la custodia cautelare per due esponenti del movimento giovanile di opposizione Cockroach Janta Party, attivi nelle proteste contro la presunta manipolazione delle liste elettorali da parte della commissione federale. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038314/india-extends-detention-of-top-cockroach-janta-party-leaders",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-19T19:41+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "za5bb8029",
+   "sez": "mondo",
+   "titolo": "I rientri per il Dashain portano una nuova ondata di visitatori a Ramaroshan",
+   "orig": "Dashain homecomings bring a new wave of visitors to Ramaroshan",
+   "lead": "I cittadini nepalesi rientrati dalle città e dall'estero per le festività del Dashain stanno includendo escursioni verso i laghi e i prati alpini di Achham nei loro piani di viaggio, sebbene la scarsa qualità delle strade e le strutture limitate creino ostacoli. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/sudurpaschim-province/2026/10/19/dashain-homecomings-bring-a-new-wave-of-visitors-to-ramaroshan",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "zeed661b4",
+   "sez": "mondo",
+   "titolo": "Il DSWD eroga aiuti a oltre 53.000 coltivatori e lavoratori della canna da zucchero a Negros",
+   "orig": "DSWD releases aid to over 53,000 sugar farmers, workers in Negros",
+   "lead": "Il Dipartimento del Benessere Sociale e dello Sviluppo delle Filippine ha distribuito milioni di pesos in sussidi finanziari a oltre 53.000 tra agricoltori e braccianti della canna da zucchero colpiti dall'infestazione di insetti sull'isola di Negros. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2326670/dswd-releases-aid-to-over-53000-sugar-farmers-workers-in-negros",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T22:38+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z8da64e11",
+   "sez": "mondo",
+   "titolo": "Teodoro: la Cina usa la propaganda per seminare divisione tra i filippini",
+   "orig": "Teodoro: China uses propaganda to sow division among Filipinos",
+   "lead": "Il segretario alla Difesa delle Filippine Gilberto Teodoro ha dichiarato che l'esercito cinese impiega attività di propaganda e influenza strategica per condizionare l'opinione pubblica e creare divisioni interne in merito alla sovranità territoriale del Paese. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.inquirer.net/493434/teodoro-china-uses-propaganda-to-sow-division-among-filipinos/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T22:21+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z781a58e9",
+   "sez": "mondo",
+   "titolo": "Sette lavoratori filippini feriti negli attacchi in Arabia Saudita, tre sono in condizioni critiche",
+   "orig": "7 Filipino workers wounded in Saudi attacks, 3 critical",
+   "lead": "Sette lavoratori filippini sono rimasti feriti in seguito ad attacchi avvenuti in diverse zone dell'Arabia Saudita, e tre di loro versano attualmente in condizioni critiche mentre le autorità diplomatiche collaborano con Riyadh per garantire le cure mediche. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/776870/7-filipino-workers-wounded-in-saudi-attacks-3-critical",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-19T22:15+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
+   "id": "z135ff103",
+   "sez": "mondo",
+   "titolo": "Schumer esorta il regolatore statunitense a respingere la richiesta di un gruppo conservatore di usare robocall politiche generate dall'IA",
+   "orig": "Schumer urges US regulator to reject conservative group’s bid to use political AI-generated robocalls",
+   "lead": "Il leader politico statunitense Chuck Schumer ha chiesto formalmente a un'autorità di regolamentazione di bloccare l'uso di chiamate automatizzate basate sull'intelligenza artificiale per scopi elettorali, ammonendo sui rischi legati alla diffusione di messaggi falsi con le voci degli avversari. Lo riferisce The Straits Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/united-states/schumer-urges-us-regulator-to-reject-conservative-groups-bid-to-use-political-ai-generated-robocalls",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-19T22:50+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "17:27",
+   "uscita": "17"
+  },
+  {
    "id": "z9b888380",
    "sez": "mondo",
    "titolo": "Guardie di frontiera polacche in aiuto alla Lettonia",
@@ -15234,7 +15714,29 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z9c876578": "L'articolo adotta un punto di vista strettamente politico e di cronaca elettorale, documentando gli spostamenti e gli eventi dei principali candidati.",
   "zfbb1313a": "Il pezzo adotta una prospettiva di utilità pubblica e servizio locale, avvisando i cittadini dei disservizi infrastrutturali imminenti.",
   "z916dca06": "Il reportage adotta un tono prettamente sportivo e di cronaca calcistica internazionale, analizzando la prestazione della squadra nelle coppe africane.",
-  "z99a1b352": "L'articolo adotta un punto di vista incentrato sulla conservazione della natura e sulla mobilitazione della cittadinanza attiva nella Repubblica Democratica del Congo."
+  "z99a1b352": "L'articolo adotta un punto di vista incentrato sulla conservazione della natura e sulla mobilitazione della cittadinanza attiva nella Repubblica Democratica del Congo.",
+  "z5103e335": "La testata evidenzia le sfide sanitarie locali legate alla disinformazione medica.",
+  "zf4eab073": "Il report sottolinea le scelte strategiche ed economiche della diplomazia ghanese.",
+  "z4f8d2068": "La testata analizza la prospettiva geopolitica sulla governance tecnologica globale.",
+  "z3d3cf9df": "La testata segue l'attesa sociale per uno degli esami più cruciali del sistema educativo sudcoreano.",
+  "z952c528f": "Il giornale esamina la strategia di comunicazione politica e mediatica della presidenza.",
+  "z792ceaaa": "La testata focalizza l'attenzione sulla sovranità militare e sui rapporti bilaterali con Washington.",
+  "za8ef6887": "Il quotidiano riporta gli sviluppi sulle politiche energetiche e sulle infrastrutture rinnovabili del Paese.",
+  "zdd853a18": "La notizia evidenzia la digitalizzazione dei servizi istituzionali a favore del settore agricolo.",
+  "zbbc3e5dd": "Il giornale mette in luce l'evoluzione tecnologica della pubblica amministrazione locale.",
+  "z6cac046a": "La testata analizza le dinamiche interne e le manovre di coalizione in vista delle elezioni locali.",
+  "z2a9f29eb": "Il servizio adotta un tono di contrasto visivo e sociale tra le tensioni di piazza e la vita di tutti i giorni.",
+  "zc59dd6b9": "Il quotidiano copre le controversie territoriali e istituzionali tra governi statali indiani.",
+  "z83c69bdf": "La testata diffonde una notizia di filantropia e riqualificazione urbana internazionale.",
+  "z9d2988d4": "Il giornale segue i provvedimenti normativi locali sulla tutela della privacy e sulla sicurezza.",
+  "z468ab508": "La testata analizza la contrapposizione politica nazionale tra le forze di governo e di opposizione.",
+  "zaf0167cd": "La testata evidenzia l'allarme sanitario legato alla ricomparsa del virus della poliomielite nel Paese.",
+  "z36f48104": "Il quotidiano riporta le tensioni politiche e giudiziarie legate alle proteste antigovernative.",
+  "za5bb8029": "La testata racconta il fenomeno turistico locale legato alle tradizioni delle festività nazionali.",
+  "zeed661b4": "Il giornale documenta l'intervento statale a sostegno delle categorie economiche danneggiate da emergenze biologiche.",
+  "z8da64e11": "La testata mette in risalto le tensioni geopolitiche regionali e le denunce governative sulle interferenze estere.",
+  "z781a58e9": "Il quotidiano si concentra sulla tutela dei cittadini all'estero coinvolti in episodi di violenza internazionale.",
+  "z135ff103": "La testata esamina il dibattito sulla regolamentazione dell'intelligenza artificiale nei contesti democratici ed elettorali."
  },
  "contesti": {
   "za5836191": "Dopo il cessate il fuoco e la tregua a Gaza, gli aiuti umanitari sono aumentati ma restano insufficienti rispetto ai bisogni della popolazione, segnata da mesi di conflitto, distruzioni e sfollamenti. Le agenzie Onu, incluso il Wfp, hanno più volte lanciato l'allarme sulla carenza di finanziamenti internazionali, costrette a razionare e ridurre progressivamente l'assistenza alimentare mentre la crisi umanitaria resta acuta.",
@@ -19452,6 +19954,168 @@ window.EDIZIONI["2026-10-19-sera"] = {
     "Dem. Rep. Congo"
    ],
    "pt": []
+  },
+  "z5103e335": {
+   "n": "Mwanza",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "zf4eab073": {
+   "n": "Washington",
+   "p": [
+    "United States of America",
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z4f8d2068": {
+   "n": "Hong Kong",
+   "p": [
+    "China",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3d3cf9df": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z952c528f": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z792ceaaa": {
+   "n": "Seul",
+   "p": [
+    "South Korea",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za8ef6887": {
+   "n": "Chennai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zdd853a18": {
+   "n": "Chennai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zbbc3e5dd": {
+   "n": "Chennai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z6cac046a": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z2a9f29eb": {
+   "n": "Mumbai",
+   "p": [
+    "India",
+    "France"
+   ],
+   "pt": []
+  },
+  "zc59dd6b9": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z83c69bdf": {
+   "n": "Mumbai",
+   "p": [
+    "India",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9d2988d4": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z468ab508": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zaf0167cd": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z36f48104": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan",
+    "India"
+   ],
+   "pt": []
+  },
+  "za5bb8029": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "zeed661b4": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z8da64e11": {
+   "n": "Manila",
+   "p": [
+    "Philippines",
+    "China"
+   ],
+   "pt": []
+  },
+  "z781a58e9": {
+   "n": "Manila",
+   "p": [
+    "Philippines",
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z135ff103": {
+   "n": "Singapore",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -20020,7 +20684,29 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z9c876578": 1,
   "zfbb1313a": 1,
   "z916dca06": 1,
-  "z99a1b352": 1
+  "z99a1b352": 1,
+  "z5103e335": 1,
+  "zf4eab073": 1,
+  "z4f8d2068": 1,
+  "z3d3cf9df": 1,
+  "z952c528f": 1,
+  "z792ceaaa": 1,
+  "za8ef6887": 1,
+  "zdd853a18": 1,
+  "zbbc3e5dd": 1,
+  "z6cac046a": 1,
+  "z2a9f29eb": 1,
+  "zc59dd6b9": 1,
+  "z83c69bdf": 1,
+  "z9d2988d4": 1,
+  "z468ab508": 1,
+  "zaf0167cd": 1,
+  "z36f48104": 1,
+  "za5bb8029": 1,
+  "zeed661b4": 1,
+  "z8da64e11": 1,
+  "z781a58e9": 1,
+  "z135ff103": 1
  },
  "video": {},
  "pillole": []
