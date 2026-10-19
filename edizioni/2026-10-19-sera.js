@@ -3,6 +3,791 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "ze9eabfd9",
+   "sez": "mondo",
+   "titolo": "Saly: sequestro di 39 kg di canapa indiana sulla spiaggia",
+   "orig": "Saly : Saisie spectaculaire de 39 kg de chanvre indien sur la plage par la police",
+   "lead": "La polizia di Saly, in Senegal, ha sequestrato 39 chilogrammi di canapa indiana sulla spiaggia durante un'operazione condotta dalla brigata di ricerca del commissariato urbano, guidata dal commissario Oumar Mbaye. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Societe/saly-saisie-spectaculaire-de-39-kg-de-chanvre-indien-sur-la-plage-par-la-police_n_999001145.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-19T17:46+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4364238a",
+   "sez": "mondo",
+   "titolo": "Senegal, il Direttore delle elezioni Biram Sène: «Il rispetto della parità non è negoziabile»",
+   "orig": "Biram Sène, Directeur des élections : « Le respect de la parité n’est pas négociable »",
+   "lead": "In vista delle prossime scadenze elettorali locali e legislative, l'amministrazione elettorale del Senegal ha alzato il tono riguardo alla composizione delle liste di candidatura, ribadendo per voce del direttore Biram Sène che il rispetto della parità non è negoziabile. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Societe/biram-sene-directeur-des-elections-le-respect-de-la-parite-nest-pas-negociable_n_999001144.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-19T17:16+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9c796ecc",
+   "sez": "mondo",
+   "titolo": "Cimitero di Toukra: nessuna profanazione di tombe",
+   "orig": "Cimetière de Toukra : il n’y a pas eu de profanation de tombe",
+   "lead": "Le autorità e la redazione del giornale hanno smentito le voci circolate sui social network ciadiani riguardo a una presunta profanazione di tomba avvenuta lunedì 19 ottobre 2026 nel cimitero di Toukra per pratiche mystiche. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/19/cimetiere-de-toukra-il-ny-a-pas-eu-de-profanation-de-tombe/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-19T16:45+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4f1ffa86",
+   "sez": "mondo",
+   "titolo": "Hadj 2027 in Guinea: svelati quote, tariffe e calendario delle visite mediche",
+   "orig": "Hadj 2027 : le SGAR dévoile le quota, les tarifs et le calendrier des consultations médicales",
+   "lead": "Il ministro segretario generale degli Affari religiosi della Guinea, Elhadj Karamo Diawara, ha presentato lunedì 19 ottobre 2026 a Conakry la griglia tariffaria, le quote e le rigide condizioni sanitarie per il pellegrinaggio islamico del 2027. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/hadj-2027-le-sgar-devoile-le-quota-les-tarifs-et-le-calendrier-des-consultations-medicales/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T17:56+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc5fa1a31",
+   "sez": "mondo",
+   "titolo": "Guinea, pellegrinaggio 2027: costi fino a 68,6 milioni di GNF per i candidati",
+   "orig": "Guinée : les candidats au pèlerinage devront débourser cette année jusqu’à 68,6 millions GNF",
+   "lead": "Il Segretariato generale degli Affari religiosi della Guinea ha ufficializzato lunedì 19 ottobre 2026 le tariffe per il pellegrinaggio ai luoghi santi dell'Islam del 2027, con costi che possono raggiungere i 68,6 milioni di GNF a seconda del canale scelto. Lo riferisce Guinée News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/19/guinee-les-candidats-au-pelerinage-devront-debourser-cette-annee-jusqua-686-millions-gnf/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T15:51+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9489ba6a",
+   "sez": "mondo",
+   "titolo": "Camerun: il programma «Cacao Bio 1000» punta sulla qualità e sulla remunerazione dei produttori",
+   "orig": "Cameroun : le programme « Cacao Bio 1000 » mise sur la qualité et la rémunération des producteurs",
+   "lead": "Il governo del Camerun sostiene ufficialmente il programma «Cacao Bio 1000», un'iniziativa volta a promuovere la produzione di cacao biologico e tracciabile, garantendo al contempo una migliore valorizzazione economica e remunerazione per i coltivatori locali. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/19/cameroun-le-programme-cacao-bio-1000-mise-sur-la-qualite-et-la-remuneration-des-producteurs/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z470da97f",
+   "sez": "mondo",
+   "titolo": "Camerun, Regione del Nord: annunciato un ponte metallico da 1,7 miliardi di FCFA sul Mayo Lidi",
+   "orig": "Région du Nord : un pont métallique de 1,7 milliard FCFA annoncé sur le Mayo Lidi",
+   "lead": "Il governo del Camerun ha assegnato all'impresa ETS Souaibou la costruzione di un ponte metallico lungo 103 metri sul fiume Mayo Lidi, nel dipartimento del Mayo-Rey, per un investimento complessivo stimato a 1,7 miliardi di franchi CFA. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/19/region-du-nord-un-pont-metallique-de-17-milliard-fcfa-annonce-sur-le-mayo-lidi/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-19T16:51+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1275e1d9",
+   "sez": "mondo",
+   "titolo": "Camerun, Shanda Tonme scrive a Paul Biya per l'adozione urgente della doppia cittadinanza",
+   "orig": "Cameroun : Shanda Tonme saisit Paul Biya pour l’adoption urgente de la double nationalité",
+   "lead": "Il Mediatore Universale Shanda Tonme ha inviato una corrispondenza ufficiale al presidente del Camerun Paul Biya lunedì 19 octobre 2026, definendo la legislazione attuale sulla cittadinanza come un sistema retrogrado e sollecitando l'approvazione urgente della doppia nazionalità. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/19/cameroun-shanda-tonme-saisit-paul-biya-pour-ladoption-urgente-de-la-double-nationalite/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-19T16:23+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9e137f46",
+   "sez": "mondo",
+   "titolo": "Brasile: vende tutto e viaggia per 2.000 chilometri per incontrare una compagna creata dall'IA",
+   "orig": "Un Brésilien vend tout pour rejoindre sa compagne, une femme générée par l'IA",
+   "lead": "Un muratore brasiliano di 49 anni ha percorso oltre duemila chilometri in autobus fino a Belo Horizonte per incontrare una donna che credeva reale, scoprendo soltanto all'arrivo dell'11 ottobre 2026 che si trattava di una figura generata dall'intelligenza artificiale. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/un-bresilien-vend-tout-pour-rejoindre-sa-compagne-une-femme-generee-par-lia/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-19T16:47+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc71591b2",
+   "sez": "mondo",
+   "titolo": "Bénin: Gbadamassi vuole esportare l'esperienza di Cotonou nelle altre municipalità",
+   "orig": "Bénin : Gbadamassi veut exporter l’expérience de Cotonou vers les communes",
+   "lead": "Durante una visita ufficiale al municipio di Cotonou lunedì 19 ottobre 2026, il ministro consigliere alla Difesa Rachidi Gbadamassi ha lodato la visione amministrativa del sindaco Luc Gnacadja, esprimendo pieno sostegno al progetto per il mandato 2026-2033. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-gbadamassi-veut-exporter-lexperience-de-cotonou-vers-les-communes/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-19T16:39+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc33e9754",
+   "sez": "mondo",
+   "titolo": "Cotonou ospita la finale delle Audit Genius Olympiades per gli esperti contabili dell'UEMOA",
+   "orig": "Experts-comptables de l’UEMOA : Cotonou accueille la finale des Audit Genius Olympiades",
+   "lead": "In concomitanza con l'ottavo congresso degli esperti contabili dell'Unione economica e monetaia dell'Africa occidentale (UEMOA), la capitale economica del Benin Cotonou accoglierà mercoledì 21 ottobre la finale della categoria «Auditeur financier» delle Audit Genius Olympiades. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/experts-comptables-de-luemoa-cotonou-accueille-la-finale-des-audit-genius-olympiades/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-19T16:05+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z659f983d",
+   "sez": "mondo",
+   "titolo": "Tribunale di Abomey-Calavi: Souhaïlatou Touré Idrissou assume la guida della procura",
+   "orig": "Tribunal d’Abomey-Calavi : Souhaïlatou Touré Idrissou prend les commandes du parquet",
+   "lead": "La magistrata Souhaïlatou Touré Idrissou è stata ufficialmente insediata venerdì 16 ottobre 2026 come procuratrice della Repubblica presso il Tribunale di prima istanza di Abomey-Calavi, ponendo tra le sue priorità il rigoroso rispetto della legge. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/tribunal-dabomey-calavi-souhailatou-toure-idrissou-prend-les-commandes-du-parquet/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-19T15:57+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z31f440ad",
+   "sez": "mondo",
+   "titolo": "Mercato di Matoto: negozi chiusi e sigillati, i commercianti interpellano le autorità della Guinea",
+   "orig": "Marché de Matoto : face à la fermeture de leurs boutiques, des commerçants interpellent les autorités",
+   "lead": "Numerosi commercianti del mercato di Matoto, a Conakry, hanno trovato i loro negozi chiusi e contrassegnati senza spiegazioni ufficiali, spingendoli a chiedere pubblicamente chiarimenti alle autorità competenti lunedì 19 ottobre 2026. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/marche-de-matoto-face-a-la-fermeture-de-leurs-boutiques-des-commercants-interpellent-les-autorites/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T17:54+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3daef549",
+   "sez": "mondo",
+   "titolo": "Madagascar: due gruppi elettrogeni da 20,2 MW complessivi in arrivo a Toamasina",
+   "orig": "ÉNERGIE – Deux groupes électrogènes d’une puissance cumulée de 20,2 MW attendus à Toamasina, selon les autorités",
+   "lead": "Le autorità del Madagascar hanno annunciato l'imminente arrivo via nave a Toamasina di due gruppi elettrogeni con una potenza cumulata di 20,2 MW, destinati a potenziare la produzione di elettricità nella città portuale a partire da questa settimana. Lo riferisce 2424.mg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/energie-deux-groupes-electrogenes-dune-puissance-cumulee-de-202-mw-attendus-a-toamasina-selon-les-autorites",
+     "angolo": "",
+     "atlas": "Madagascar"
+    }
+   ],
+   "data": "",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z13ec5818",
+   "sez": "mondo",
+   "titolo": "Sudafrica: il presidente Cyril Ramaphosa prepara il Paese a una possibile esclusione dall'Agoa",
+   "orig": "COMMERCE – Cyril Ramaphosa prépare l’Afrique du Sud à une éventuelle exclusion de l’Agoa",
+   "lead": "Il presidente sudafricano Cyril Ramaphosa ha dichiarato lunedì 19 ottobre 2026 che il governo si sta preparando all'eventualità di un'esclusione dall'African Growth and Opportunity Act (Agoa), l'accordo commerciale preferenziale con gli Stati Uniti, nel contesto di crescenti tensioni diplomatiche con Washington. Lo riferisce 2424.mg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/commerce-cyril-ramaphosa-prepare-lafrique-du-sud-a-une-eventuelle-exclusion-de-lagoa",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-19T17:51+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z990b654c",
+   "sez": "mondo",
+   "titolo": "Capo Verde, l'INSP lancia l'allerta sui rischi di balneazione e rafforza la sorveglianza della schistosomiasi a Santiago",
+   "orig": "INSP alerta para riscos de banhos em tanques e ribeiras e reforça vigilância da esquistossomose em Santiago",
+   "lead": "L'Istituto Nazionale di Salute Pubblica (INSP) di Capo Verde, per voce della presidente Sandra Brito, ha avvertito dei rischi legati ai bagni in cisterne e corsi d'acqua, annunciando l'estensione della sorveglianza della schistosomiasi a tutti i comuni dell'isola di Santiago. Lo riferisce Expresso das Ilhas.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/19/insp-alerta-para-riscos-de-banhos-em-tanques-e-ribeiras-e-reforca-vigilancia-da-esquistossomose-em-santiago/105158",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-19T15:29+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3413a223",
+   "sez": "mondo",
+   "titolo": "Cooperazione franco-tunisina: nuovo accordo tra l'Institut Paoli-Calmettes e l'Istituto Salah Azaiez",
+   "orig": "Une nouvelle étape dans la coopération franco-tunisienne en cancérologie",
+   "lead": "Il 15 ottobre 2026, presso il Ministero della Salute tunisino a Tunisi, il direttore generale dell'Institut Paoli-Calmettes Norbert Vey ha firmato un memorandum d'intesa con l'Istituto Salah Azaiez per consolidare la cooperazione bilaterale nella lotta e nella ricerca oncologica. Lo riferisce Kapitalis.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/10/19/une-nouvelle-etape-dans-la-cooperation-franco-tunisienne-en-cancerologie/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-19T17:54+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcd8a47aa",
+   "sez": "mondo",
+   "titolo": "Angola, programma Kwenda: Cacula passa alla fase di inclusione produttiva",
+   "orig": "FAS: Cacula transita da fase das transferências monetárias para inclusão produtiva",
+   "lead": "Il comune di Cacula, tra i pionieri del programma di sviluppo Kwenda in Angola, ha avviato lunedì 19 ottobre 2026 la fase di inclusione produttiva nella provincia di Huíla con la consegna di attrezzature agricole e motorizzate alle cooperative locali. Lo riferisce Novo Jornal.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/sociedade/detalhe/fas-cacula-transita-da-fase-das-transferencias-monetarias-para-inclusao-produtiva-75467.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-19T16:14+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf2d17697",
+   "sez": "mondo",
+   "titolo": "Angola, l'opposizione dell'UNITA accusa João Lourenço di non aver sostenuto il pluralismo democratico",
+   "orig": "UNITA diz que João Lourenço não abraçou a pluralismo democrático durante o seu mandato",
+   "lead": "Durante l'apertura di un seminario di formazione politica a Luanda lunedì 19 ottobre 2026, il leader dell'UNITA Adalberto Costa Júnior ha criticato duramente il presidente angolano João Lourenço, accusando il regime di non aver favorito il pluralismo democratico nel Paese. Lo riferisce Novo Jornal.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/politica/detalhe/unita-diz-que-joao-lourenco-nao-abracou-a-pluralismo-democratico-durante-o-seu-mandato-75466.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-19T15:58+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb9b503c1",
+   "sez": "mondo",
+   "titolo": "Tunisi, accelerare il completamento del progetto di espansione dell'ingresso sud della capitale",
+   "orig": "الزواري يشدد على ضرورة التسريع في استكمال توسعة المدخل الجنوبي للعاصمة",
+   "lead": "Le autorità tunisine hanno sollecitato un'accelerazione nei lavori per ultimare il progetto di ampliamento dell'ingresso sud della capitale Tunisi, al fine di migliorare la viabilità urbana e la circolazione stradale. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1533976/%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A-%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B3%D8%B1%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D9%88%D8%B3%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-19T18:40+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbf0d532e",
+   "sez": "economia",
+   "titolo": "Bilancio economico 2027 in Tunisia: nuovi investimenti per rilanciare e diversificare il turismo",
+   "orig": "مشروع الميزان الاقتصادي 2027: استثمارات جديدة لتنويع السياحة التونسية",
+   "lead": "Il piano del bilancio economico per il 2027 in Tunisia punta a riposizionare il settore turistico nazionale e a rafforzarne il contributo all'economia attraverso la diversificazione dei prodotti offerti. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%A7%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AA%D9%88%D9%86%D8%B3/1533970/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-2027-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D9%86%D9%88%D9%8A%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-19T18:00+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9cf38280",
+   "sez": "mondo",
+   "titolo": "Lubero, negozi e case distrutti dallo straripamento del fiume Mutokoleya a Mangurujipa",
+   "orig": "Lubero : des boutiques et des maisons détruites par une crue de la rivière Mutokoleya à Mangurujipa",
+   "lead": "Forti piogge cadute venerdì pomeriggio a Mangurujipa, nel territorio di Lubero nel Nord-Kivu, hanno provocato la piena del fiume Mutokoleya, distruggendo numerose abitazioni e negozi locali. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/19/lubero-des-boutiques-et-des-maisons-detruites-par-une-crue-de-la-riviere-mutokoleya",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-19T17:13+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z378b0d78",
+   "sez": "economia",
+   "titolo": "Sottoscrizione record per l'aumento di capitale di BGFI Holding Corporation tramite offerta pubblica",
+   "orig": "BGFI Holding corporation enregistre une sursouscription de son opération d'ouverture du capital par appel public à l'épargne",
+   "lead": "BGFI Holding Corporation ha registrato un'operazione di sovrasottoscrizione nell'ambito della sua apertura di capitale al pubblico, confermando l'interesse degli investitori per la holding finanziaria. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/19/bgfi-holding-corporation-enregistre-une-sursouscription-de-son-operation-douverture-du",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-19T15:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5e0a893d",
+   "sez": "mondo",
+   "titolo": "Sale a 84 il numero delle scuole totalmente distrutte dal sisma a Panama",
+   "orig": "Aumenta a 84 la cifra de escuelas totalmente destruidas por el sismo",
+   "lead": "Il bilancio dei danni provocati dal recente movimento tellurico a Panama sale a 84 istituti scolastici completamente distrutti, concentrati prevalentemente in cinque regioni educative tra le più colpite. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/aumenta-84-la-cifra-de-escuelas-totalmente-destruidas-por-el-sismo-1267654",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z447b315f",
+   "sez": "mondo",
+   "titolo": "Nuovi standard di progettazione sismica a Panama per resistere a forti accelerazioni",
+   "orig": "Se está diseñando para 6 o 7 veces la aceleración que se sintió en Ciudad de Panamá en reciente terremoto",
+   "lead": "I tecnici stanno progettando strutture in grado di resistere a un'accelerazione sismica da sei a sette volte superiore a quella avvertita durante il recente terremoto a Città di Panama, considerando la propagazione delle onde attraverso il basamento roccioso. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/se-esta-disenando-para-6-o-7-veces-la-aceleracion-que-se-sintio-en-ciudad-de-panama-en",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0f43d06b",
+   "sez": "mondo",
+   "titolo": "Edifici residenziali a Panama, esperti insistono sul rigoroso rispetto delle norme di costruzione",
+   "orig": "Viviendas unifamiliares: Expertos insisten en cumplir las normas de construcción",
+   "lead": "Esperti del settore edile a Panama avvertono che la presenza di un codice di costruzione avanzato non garantisce la sicurezza delle abitazioni unifamiliari se le relative disposizioni non vengono rigorosamente applicate sul campo. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/viviendas-unifamiliares-expertos-insisten-en-cumplir-las-normas-de-construccion-1267638",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5ebd0e2a",
+   "sez": "mondo",
+   "titolo": "Panama, l'Ifarhu avvia il secondo pagamento del PASE-U con priorità nelle zone terremotate",
+   "orig": "Ifarhu inicia esta semana segundo pago del PASE-U, con prioridad en áreas afectadas por el sismo",
+   "lead": "L'istituto Ifarhu avvia questa settimana la seconda erogazione del programma PASE-U, destinando oltre 15 milioni di dollari a favore di più di 136.000 studenti con precedenza nelle aree colpite dal recente sisma. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/ifarhu-inicia-esta-semana-segundo-pago-del-pase-u-con-prioridad-en-areas-afectadas-por-el",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z660f6101",
+   "sez": "mondo",
+   "titolo": "Taiwan offre il proprio sostegno a Panama in seguito al terremoto",
+   "orig": "Taiwán ofrece su apoyo tras sismo",
+   "lead": "Taiwan ha manifestato solidarietà e offerto assistenza umanitaria a Panama dopo il violento sisma, sottolineando la necessità di accantonare le divergenze politiche per garantire un aiuto adeguato alle popolazioni. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/taiwan-ofrece-su-apoyo-tras-sismo-1267636",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdf78e832",
+   "sez": "mondo",
+   "titolo": "Faglia sismica di Azuero in fase di assestamento dopo oltre 900 repliche",
+   "orig": "Falla sísmica de Azuero entra en fase de reajuste tras registrar más de 900 réplicas",
+   "lead": "La faglia sismica di Azuero è entrata in una fase di continuo riassestamento geologico dopo aver registrato più di 900 repliche, monitorate costantemente dai sistemi di rilevamento automatico. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/falla-sismica-de-azuero-entra-en-fase-de-reajuste-tras-registrar-mas-de-900-replicas",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2bd31578",
+   "sez": "mondo",
+   "titolo": "A rischio il raccolto di 12.000 ettari di riso nella regione di Azuero a causa del sisma",
+   "orig": "The Harvest of 12,000 Hectares of Rice Production Could be Lost in the Azuero.",
+   "lead": "Le conseguenze del terremoto del 9 ottobre a Panama minacciano il settore agricolo locale, con il rischio concreto di perdere il raccolto di dodici mila ettari di riso nella penisola di Azuero. Lo riferisce Newsroom Panama.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/19/the-harvest-of-12000-hectares-of-rice-production-could-be-lost-in-the-azuero/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-10-19T17:41+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "za58d9134",
+   "sez": "mondo",
+   "titolo": "Diplomi falsi e vendita di cattedre, blitz e perquisizioni nel Ministero dell'Educazione panamense",
+   "orig": "Forged Diplomas and Selling Teacher Positions at Panama’s Ministry of Education.",
+   "lead": "Le autorità di Panama hanno eseguito diverse perquisizioni in varie province per sgominare un presunto sistema di corruzione legato alla falsificazione di diplomi e alla compravendita di incarichi di insegnamento presso il Ministero dell'Educazione. Lo riferisce Newsroom Panama.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/19/forged-diplomas-and-selling-teacher-positions-at-panamas-ministry-of-education/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-10-19T17:25+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6b870518",
+   "sez": "mondo",
+   "titolo": "Francia sotto pressione, interrogativi aperti e crisi sociale dopo il fine settimana di proteste",
+   "orig": "\"Francia contiene la respiración\": preguntas que siguen abiertas tras \"fin de semana de furia\"",
+   "lead": "La Francia affronta forti tensioni politiche e sociali dopo un fine settimana di forti proteste, con i sindacati che criticano l'esecutivo per la mancata risposta alla crisi del costo della vita e al degrado dei servizi pubblici. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/mundo/francia-contiene-respiracion-preguntas-que-siguen-abiertas-fin-semana-furia/20261019123829997832.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-19T12:38-04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5eee401a",
+   "sez": "economia",
+   "titolo": "Il Nasdaq apre in rialzo dopo il calo registrato la scorsa settimana",
+   "orig": "Nasdaq opens higher after last week's pullback",
+   "lead": "I mercati finanziari statunitensi registrano un avvio di contrattazioni positivo per il listino tecnologico Nasdaq, che recupera terreno dopo la flessione accusata nei giorni scorsi. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/nasdaq-opens-higher-after-last-weeks-pullback-6472851",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-20T01:41+08:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
+   "id": "z65ce4fec",
+   "sez": "mondo",
+   "titolo": "Emesso un mandato d'arresto contro Raúl Castro nello Stato americano della Florida",
+   "orig": "Haftbefehl gegen Raul Castro im US-Bundesstaat Florida",
+   "lead": "Le autorità giudiziarie della Florida hanno emesso un mandato d'arresto nei confronti di Raúl Castro, aggravando le accuse contro l'ex leader cubano in relazione all'abbattimento di velivoli civili avvenuto nel 1996. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445571/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-19T19:24+02:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/justiz/bulgarien-angriff-auf-starlink-antennen-haftbefehl-gegen-deutsche-erlassen-a-a87afb25-0598-44ed-9e6b-6bf567bc3ad3#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T19:08+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-haftbefehl-gegen-zwei-deutsche-wegen-starlink-sabotage-faz-110683325.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T17:28+00:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T15:48+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/florida-presenta-mas-cargos-contra-raul-castro-por-derribo-de-avionetas-de-hermanos-al-rescate_0_EQq45o3zCU.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-19T17:40+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/douglas-macarthur-general-condecorado-historia-estados-unidos-soldado-nadie-reza-paz-debe-sufrir-soportar-heridas-cicatrices-profundas-guerra_0_aSRem4DAdZ.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-19T17:38+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:17",
+   "uscita": "sera"
+  },
+  {
    "id": "zc8a33a43",
    "sez": "mondo",
    "titolo": "Panico in Parlamento per i dipendenti \"fantasma\" durante i controlli",
@@ -9363,6 +10148,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-19T16:17+00:00"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/south-africa-close-97-5-australian-paceman-boland-strikes-in-second-test-6472891",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-20T01:00+08:00"
     }
    ],
    "data": "19 ott",
@@ -27235,7 +28029,41 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z9ce227a0": "Copertura delle relazioni industriali e della risoluzione dei conflitti di lavoro nel settore pubblico.",
   "z1a8eb8bf": "Attenzione posta sui temi della salute mentale e dell'impatto delle nuove tecnologie sulla gioventù.",
   "z9a628a47": "Notizie sullo sviluppo energetico e sulle infrastrutture transfrontaliere del Principato.",
-  "z105e26a9": "Cronaca di comunità focalizzata sulle iniziative di aggregazione sociale e sostenibilità locale."
+  "z105e26a9": "Cronaca di comunità focalizzata sulle iniziative di aggregazione sociale e sostenibilità locale.",
+  "ze9eabfd9": "Cronaca giudiziaria e sicurezza locale",
+  "z4364238a": "Focus istituzionale sulle regole elettorali e la parità di genere",
+  "z9c796ecc": "Verifica di notizie false e cronaca locale",
+  "z4f1ffa86": "Informazione istituzionale e religiosa",
+  "zc5fa1a31": "Cronaca economica e religiosa",
+  "z9489ba6a": "Analisi economica e sviluppo agricolo",
+  "z470da97f": "Investimenti infrastrutturali pubblici",
+  "z1275e1d9": "Dibattito politico e diritti istituzionali",
+  "z9e137f46": "Cronaca insolita e impatto delle nuove tecnologie",
+  "zc71591b2": "Politica interna e amministrazione locale",
+  "zc33e9754": "Eventi professionali e formazione economica regionale",
+  "z659f983d": "Nomine giudiziarie e giustizia locale",
+  "z31f440ad": "Proteste commerciali e tensioni urbane",
+  "z3daef549": "Infrastrutture energetiche e servizi pubblici",
+  "z13ec5818": "Geopolitica e relazioni commerciali internazionali",
+  "z990b654c": "Salute pubblica e prevenzione sanitaria",
+  "z3413a223": "Sanità internazionale e accordi scientifici",
+  "zcd8a47aa": "Politiche sociali ed economiche locali",
+  "zf2d17697": "Politica nazionale e critica istituzionale",
+  "zb9b503c1": "Attenzione istituzionale e amministrativa sulle infrastrutture urbane della capitale.",
+  "zbf0d532e": "Prospettiva economica orientata alla pianificazione strategica e alla diversificazione dell'offerta turistica.",
+  "z9cf38280": "Cronaca locale e maltempo in un'area vulnerabile della Repubblica Democratica del Congo.",
+  "z378b0d78": "Focus economico e finanziario sulle operazioni di mercato e raccolta di capitale.",
+  "z5e0a893d": "Aggiornamento sulla conta dei danni materiali e infrastrutturali causati dal terremoto.",
+  "z447b315f": "Approfondimento tecnico e ingegneristico sulla prevenzione e l'adeguamento antisismico urbano.",
+  "z0f43d06b": "Richiamo alla responsabilità normativa e alla sicurezza strutturale delle abitazioni.",
+  "z5ebd0e2a": "Informazione di servizio e supporto economico statale alle famiglie e agli studenti.",
+  "z660f6101": "Cooperazione internazionale e aiuti umanitari in risposta a una calamità naturale.",
+  "zdf78e832": "Monitoraggio scientifico e geologico dell'attività sismica regionale.",
+  "z2bd31578": "Impatto economico e agricolo collaterale legato al disastro naturale.",
+  "za58d9134": "Inchiesta giudiziaria sulla corruzione amministrativa e scolastica.",
+  "z6b870518": "Analisi internazionale sulla stabilità politica e sociale della Francia.",
+  "z5eee401a": "Aggiornamento finanziario e borsistico sui mercati azionari.",
+  "z65ce4fec": "Primo piano giudiziario e diplomatico di rilevanza internazionale."
  },
  "contesti": {
   "za5836191": "Dopo il cessate il fuoco e la tregua a Gaza, gli aiuti umanitari sono aumentati ma restano insufficienti rispetto ai bisogni della popolazione, segnata da mesi di conflitto, distruzioni e sfollamenti. Le agenzie Onu, incluso il Wfp, hanno più volte lanciato l'allarme sulla carenza di finanziamenti internazionali, costrette a razionare e ridurre progressivamente l'assistenza alimentare mentre la crisi umanitaria resta acuta.",
@@ -35005,6 +35833,248 @@ window.EDIZIONI["2026-10-19-sera"] = {
     "Andorra"
    ],
    "pt": []
+  },
+  "ze9eabfd9": {
+   "n": "Saly",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z4364238a": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z9c796ecc": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z4f1ffa86": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zc5fa1a31": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z9489ba6a": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z470da97f": {
+   "n": "Mayo-Rey",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z1275e1d9": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z9e137f46": {
+   "n": "Belo Horizonte",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zc71591b2": {
+   "n": "Cotonou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "zc33e9754": {
+   "n": "Cotonou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z659f983d": {
+   "n": "Abomey-Calavi",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z31f440ad": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z3daef549": {
+   "n": "Toamasina",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "z13ec5818": {
+   "n": "Pretoria",
+   "p": [
+    "South Africa",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z990b654c": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
+  },
+  "z3413a223": {
+   "n": "Tunis",
+   "p": [
+    "Tunisia",
+    "France"
+   ],
+   "pt": []
+  },
+  "zcd8a47aa": {
+   "n": "Cacula",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "zf2d17697": {
+   "n": "Luanda",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "zb9b503c1": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zbf0d532e": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z9cf38280": {
+   "n": "Mangurujipa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z378b0d78": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z5e0a893d": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z447b315f": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z0f43d06b": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z5ebd0e2a": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z660f6101": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "zdf78e832": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z2bd31578": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "za58d9134": {
+   "n": "Città di Panama",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z6b870518": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia",
+    "France"
+   ],
+   "pt": []
+  },
+  "z5eee401a": {
+   "n": "Singapore",
+   "p": [
+    "Singapore",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z65ce4fec": {
+   "n": "Vienna",
+   "p": [
+    "Austria",
+    "United States of America",
+    "Cuba"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -35607,7 +36677,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z909d29fb": 1,
   "zd497cf88": 1,
   "zbfd49963": 1,
-  "zdb4f66f6": 1,
+  "zdb4f66f6": 2,
   "zc8de050b": 1,
   "z0d46e354": 1,
   "zcb97d7f4": 1,
@@ -36027,7 +37097,41 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z9ce227a0": 1,
   "z1a8eb8bf": 1,
   "z9a628a47": 1,
-  "z105e26a9": 1
+  "z105e26a9": 1,
+  "ze9eabfd9": 1,
+  "z4364238a": 1,
+  "z9c796ecc": 1,
+  "z4f1ffa86": 1,
+  "zc5fa1a31": 1,
+  "z9489ba6a": 1,
+  "z470da97f": 1,
+  "z1275e1d9": 1,
+  "z9e137f46": 1,
+  "zc71591b2": 1,
+  "zc33e9754": 1,
+  "z659f983d": 1,
+  "z31f440ad": 1,
+  "z3daef549": 1,
+  "z13ec5818": 1,
+  "z990b654c": 1,
+  "z3413a223": 1,
+  "zcd8a47aa": 1,
+  "zf2d17697": 1,
+  "zb9b503c1": 1,
+  "zbf0d532e": 1,
+  "z9cf38280": 1,
+  "z378b0d78": 1,
+  "z5e0a893d": 1,
+  "z447b315f": 1,
+  "z0f43d06b": 1,
+  "z5ebd0e2a": 1,
+  "z660f6101": 1,
+  "zdf78e832": 1,
+  "z2bd31578": 1,
+  "za58d9134": 1,
+  "z6b870518": 1,
+  "z5eee401a": 1,
+  "z65ce4fec": 1
  },
  "video": {},
  "pillole": []
