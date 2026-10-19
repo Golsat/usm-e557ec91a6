@@ -3,6 +3,1076 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z687ede93",
+   "sez": "mondo",
+   "titolo": "La Germania convoca l'inviato iraniano per un complotto volto a uccidere leader ebraici",
+   "orig": "Germany summons Iranian envoy over plot to kill leaders of local Jewish organizations",
+   "lead": "Il Ministero degli Esteri tedesco ha convocato il principale diplomatico di Teheran a Berlino, a pochi giorni dalla condanna a quasi dieci anni di reclusione per due sospettati coinvolti in un piano per assassinare i leader delle organizzazioni ebraiche locali. Lo riferisce Haaretz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/world-news/europe/2026-10-19/ty-article/.premium/germany-summons-iranian-envoy-over-plot-to-kill-leaders-of-jewish-organizations/000001a1-5401-d5aa-a9e5-dda743780000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-19T18:28+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z27d334af",
+   "sez": "mondo",
+   "titolo": "Quattro morti a causa delle inondazioni che colpiscono la Spagna orientale",
+   "orig": "Four dead as floods sweep eastern Spain",
+   "lead": "Almeno quattro persone sono morte in seguito alle violente inondazioni che hanno investito la Spagna orientale, provocando gravi danni e mettendo in moto i soccorsi nelle zone colpite dal maltempo. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/europe/four-dead-as-floods-sweep-eastern-spain-1.500715775",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-19T21:56+04:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z506f62db",
+   "sez": "mondo",
+   "titolo": "L'inviato russo per i BRICS promuove la zona industriale del Canale di Suez nei colloqui con il presidente egiziano",
+   "orig": "Russia’s BRICS envoy advances Suez Canal industrial zone in talks with Egyptian President",
+   "lead": "Il presidente egiziano Abdel Fattah Al-Sisi e il ministro degli Esteri Badr Abdelatty hanno incontrato al Il Cairo Maxim Oreshkin, inviato speciale russo per i BRICS, per fare il punto sui progetti bilaterali e accelerare l'attivazione della Zona Industriale Russa. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/19/russias-brics-envoy-advances-suez-canal-industrial-zone-in-talks-with-egyptian-president/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-19T17:26+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z661790a6",
+   "sez": "mondo",
+   "titolo": "Madbouly: l'Egypt Forum 2026 definirà le priorità nazionali attraverso il dialogo",
+   "orig": "Madbouly: Egypt Forum 2026 to set national priorities through dialogue",
+   "lead": "Il primo ministro egiziano Mostafa Madbouly ha dichiarato che l'Egypt Forum 2026 mira a stabilire priorità condivise e soluzioni concrete con responsabilità definite, mentre il governo pianifica l'agenda nazionale in vista del 2030. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/19/madbouly-egypt-forum-2026-to-set-national-priorities-through-dialogue/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-19T17:18+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf3291a14",
+   "sez": "mondo",
+   "titolo": "Al-Sisi definisce la preservazione dello Stato una 'linea rossa' e avverte sui social media",
+   "orig": "Al-Sisi declares state preservation a ‘red line’, warns of social media manipulation at Egypt Forum",
+   "lead": "Il presidente egiziano Abdel Fattah al-Sisi ha messo in guardia contro i tentativi di manipolare i cittadini tramite i social media, ribadendo durante l'Egypt Forum 2026 che la conservazione dello Stato rappresenta una linea invalicabile. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/19/al-sisi-declares-state-preservation-a-red-line-warns-of-social-media-manipulation-at-egypt-forum/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-19T17:12+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf76cec07",
+   "sez": "mondo",
+   "titolo": "Le esportazioni chimiche dell'Egitto verso l'India impennano del 325% in otto mesi",
+   "orig": "Egypt’s chemical exports to India surge about 325% to $627m in 8 months",
+   "lead": "Le esportazioni egiziane di prodotti chimici e fertilizzanti verso l'India sono salite a 627 milioni di dollari nei primi otto mesi del 2026, registrando una crescita del 325% rispetto allo stesso periodo dell'anno precedente, secondo il Consiglio per l'Esportazione. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/19/egypts-chemical-exports-to-india-surge-about-325-to-627m-in-8-months/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-19T16:59+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z73ee8192",
+   "sez": "mondo",
+   "titolo": "Il Ministero della Solidarietà Sociale approva 1.828 sovvenzioni estere per 13 miliardi di sterline",
+   "orig": "Social Solidarity Ministry approves 1,828 foreign grants worth EGP 13bn in FY2025/2026",
+   "lead": "Il Ministero della Solidarietà Sociale egiziano ha approvato 1.828 sovvenzioni estere per un valore di 13 miliardi di sterline nel corso dell'anno fiscale 2025-2026, destinate a sostenere centinaia di organizzazioni non governative e fondazioni. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/19/social-solidarity-ministry-approves-1828-foreign-grants-worth-egp-13bn-in-fy2025-2026/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-19T16:35+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcbb78617",
+   "sez": "mondo",
+   "titolo": "L'Iran convoca l'ambasciatore tedesco per 'accuse infondate', riferisce Tasnim",
+   "orig": "Iran summons German ambassador over 'baseless accusations,' Tasnim reports",
+   "lead": "Il ministero degli Esteri iraniano ha convocato l'ambasciatore della Germania a Teheran per protestare contro quelle che ha definito accuse infondate, secondo quanto riportato dall'agenzia di stampa semiofficiale Tasnim. Lo riferisce Middle East Eye.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-summons-german-ambassador-over-baseless-accusations-tasnim-reports",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T18:33+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "za390c8a0",
+   "sez": "mondo",
+   "titolo": "Netanyahu a Trump: 'Abbiamo un lavoro da finire'",
+   "orig": "Netanyahu to Trump: 'We have a job to finish'",
+   "lead": "Il primo ministro israeliano Benjamin Netanyahu ha dichiarato al presidente degli Stati Uniti Donald Trump, durante una telefonata, che porteranno a termine insieme il lavoro iniziato, in seguito all'endorsement pubblico ricevuto in vista delle elezioni. Lo riferisce Middle East Eye.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-trump-we-have-job-finish",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T18:16+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zeff4cb12",
+   "sez": "mondo",
+   "titolo": "Israele colpisce il Libano meridionale, lo riferiscono fonti locali",
+   "orig": "Israel strikes southern Lebanon, local sources report",
+   "lead": "Le forze israeliane hanno effettuato un attacco aereo nella serata di lunedì prendendo di mira la città di Wadi al-Hujair, nel Libano meridionale. Lo riferisce Middle East Eye.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-southern-lebanon-local-sources-report",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T17:19+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z51ebfbe9",
+   "sez": "mondo",
+   "titolo": "La legge libanese sul boicottaggio di Israele affronta nuove pressioni mentre i colloqui militari si spostano a Tampa",
+   "orig": "Lebanon’s Israel boycott law faces renewed pressure as military talks move to Tampa",
+   "lead": "Un esposto presentato contro l'ambasciatore libanese ha riacceso il dibattito politico sulla rigorosa legge del Paese che vieta qualsiasi contatto con Israele, mentre i colloqui militari regionali si spostano a Tampa. Lo riferisce Middle East Eye.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/news/lebanon-israel-boycott-law-renewed-pressure-military-talks-move-tampa",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T16:42+01:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zba5018e0",
+   "sez": "mondo",
+   "titolo": "Macron sempre più isolato tra i disordini in tutta la Francia",
+   "orig": "Macron increasingly isolated amid unrest across France",
+   "lead": "I violenti scontri e i saccheggi che hanno scosso la Francia nel fine settimana hanno aggravato la posizione politica del presidente Emmanuel Macron, sollevando seri interrogativi sulla tenuta della sua autorità. Lo riferisce Euronews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/19/macron-increasingly-isolated-amid-unrest-across-france",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-19T18:38+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze795a197",
+   "sez": "mondo",
+   "titolo": "Mansouri promette una stretta sulla collusione di mercato e riforme del sostegno sociale",
+   "orig": "Mansouri pledges crackdown on market collusion, social support reforms",
+   "lead": "Il capo del governo marocchino Fatima Zahra Mansouri ha promesso in parlamento di contrastare i monopoli e gli intermediari speculativi, rafforzando la supervisione sugli appalti pubblici e ampliando le misure di protezione sociale. Lo riferisce Hespress English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147629-mansouri-pledges-crackdown-on-market-collusion-social-support-reforms.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-19T16:16+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9dfb4a72",
+   "sez": "mondo",
+   "titolo": "I parlamentari discutono i modi per contrastare l'odio online",
+   "orig": "MPs discuss ways of tackling online hate speech",
+   "lead": "La commissione parlamentare per i diritti umani ha esaminato la necessità di un quadro giuridico completo per monitorare e contrastare l'odio online, tutelando al contempo la libertà di espressione. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/19/mps-discuss-ways-of-tackling-online-hate-speech",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-19T20:48+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z654727ef",
+   "sez": "mondo",
+   "titolo": "Christodoulides avverte sulle minacce dell'intelligenza artificiale e della disinformazione al giornalismo e alla democrazia",
+   "orig": "Christodoulides warns of AI and disinformation threats to journalism and democracy",
+   "lead": "Il presidente cipriota Nikos Christodoulides ha avvertito che l'intelligenza artificiale e la diffusione della disinformazione mettono a rischio il giornalismo e la democrazia, sottolineando la necessità di proteggere una stampa indipendente. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/19/christodoulides-warns-of-ai-and-disinformation-threats-to-journalism-and-democracy",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-19T20:12+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z13480e04",
+   "sez": "mondo",
+   "titolo": "Christodoulides fiducioso su sviluppi positivi nell'incontro con il leader turco-cipriota",
+   "orig": "Christodoulides hopeful of positive developments at meeting with Turkish Cypriot leader",
+   "lead": "Il presidente cipriota Nikos Christodoulides ha dichiarato che l'Onu ha proposto le date per una riunione congiunta tra i leader delle due comunità e l'inviata speciale Maria Angela Holguin, confermando la risposta positiva della parte greco-cipriota. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/19/christodoulides-hopeful-of-positive-developments-at-meeting-with-turkish-cypriot-leader",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-19T19:27+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3175d11b",
+   "sez": "mondo",
+   "titolo": "Elezioni in Papua Nuova Guinea: tre donne da seguire nel 2027",
+   "orig": "Papua New Guinea elections: three women to watch in 2027",
+   "lead": "Dall'indipendenza del 1975, la Papua Nuova Guinea ha eletto in Parlamento appena dieci donne, di cui sole tre hanno servito per più di un mandato, ponendo l'attenzione sui profili da seguire in vista delle elezioni del 2027. Lo riferisce Post-Courier.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/papua-new-guinea-elections-three-women-to-watch-in-2027/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-19T17:43+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6cf116aa",
+   "sez": "mondo",
+   "titolo": "La Namibia blocca le auto importate da Hong Kong per documenti falsi",
+   "orig": "RA blocks Hong Kong cars amid fake papers",
+   "lead": "La Roads Authority della Namibia ha deciso di bloccare le richieste di immatricolazione per i veicoli importati da Hong Kong, a seguito di un aumento di casi legati a documenti di proprietà e immatricolazione fraudolenti o non verificabili. Lo riferisce The Namibian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/ra-blocks-hong-kong-cars-amid-fake-papers/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-19T17:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf6498c43",
+   "sez": "mondo",
+   "titolo": "Il presidente della Namibia finanzia personalmente due case prefabbricate",
+   "orig": "President funds two houses worth N$400 000",
+   "lead": "La presidente Netumbo Nandi-Ndaitwah ha finanziato personalmente due case prefabbricate dal valore complessivo di 400.000 dollari namibiani, consegnate a due donne residenti negli insediamenti di Windhoek. Lo riferisce The Namibian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/president-funds-two-houses-worth-n400-000/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-19T17:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z84978acc",
+   "sez": "mondo",
+   "titolo": "Ponti pedonali da 70 milioni di dollari in costruzione a Windhoek a novembre",
+   "orig": "N$70m pedestrian bridges to be built in November",
+   "lead": "Il ministro dei Lavori e dei Trasporti Veikko Nekundi ha annunciato che la costruzione di due ponti pedonali lungo la Western Bypass a Windhoek inizierà a novembre, per un costo complessivo di 70 milioni di dollari namibiani. Lo riferisce The Namibian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/n70m-pedestrian-bridges-to-be-built-in-november/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-19T17:00+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z898df648",
+   "sez": "mondo",
+   "titolo": "Zambia, autorità esortate a proteggere le comunità dai focolai di malattie",
+   "orig": "Stakeholders urged to protect communities from disease outbreak",
+   "lead": "Durante l'incontro sulla preparazione alle epidemie a Ikelenge, il commissario distrettuale f.f. Vincent Kwalombota ha esortato gli attori locali a proteggere la popolazione dai focolai di malattie, rafforzando la risposta alle emergenze sanitarie tra colera ed ebola. Lo riferisce Lusaka Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/19/stakeholders-urged-to-protect-communities-from-disease-outbreak/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-10-19T16:18+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0fc4dfb1",
+   "sez": "mondo",
+   "titolo": "Kalumbila organizza la sua prima maratona per promuovere la salute",
+   "orig": "Kalumbila holds first ever Marathon",
+   "lead": "La commissaria distrettuale di Kalumbila, Brenda Sankisa, ha elogiato il consiglio comunale e i partner per l'organizzazione della prima maratona locale, volta a promuovere l'attività fisica, la vita sana e l'unità comunitaria. Lo riferisce Lusaka Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/19/kalumbila-holds-first-ever-marathon/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-10-19T16:17+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9c83327a",
+   "sez": "mondo",
+   "titolo": "Lo Zambia chiede un aumento della produzione locale per ridurre le esportazioni di materie prime",
+   "orig": "ZAM president calls for increased local manufacturing",
+   "lead": "Il presidente dell'Associazione dei produttori dello Zambia, Mohammed Umar, ha chiesto di potenziare la manifattura locale per trasformare le materie prime in prodotti finiti, creando posti di lavoro e trattenendo valore economico nel Paese. Lo riferisce Lusaka Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/19/zam-president-calls-for-increased-local-manufacturing/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-10-19T15:54+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb0abe5bc",
+   "sez": "mondo",
+   "titolo": "Filharmonie Luxembourg scopre transazioni fraudolente per 160.000 euro",
+   "orig": "Philharmonie Luxembourg uncovers €160,000 worth of fraudulent transactions",
+   "lead": "La sala concerti Philharmonie Luxembourg ha scoperto transazioni fraudolente per un valore di 160.000 euro a seguito di indagini interne, annunciando che è attualmente in corso un audit esterno per fare chiarezza sulla vicenda. Lo riferisce Luxembourg Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/philharmonie-luxembourg-uncovers-160000-worth-of-fraudulent-transactions/163301546.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-19T15:40+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z467b9109",
+   "sez": "mondo",
+   "titolo": "Il sonnolento villaggio britannico scosso da 25 terremoti",
+   "orig": "The sleepy UK village rocked by 25 earthquakes",
+   "lead": "I residenti del piccolo villaggio di Silverdale, nel Regno Unito, sono rimasti sorpresi dopo essere diventati la capitale dei terremoti della nazione a causa di 25 scosse, costringendo la popolazione a un nuovo e precario stile di vita. Lo riferisce Stuff NZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361048407/sleepy-lancashire-village-rocked-25-earthquakes",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T17:11+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb77baff0",
+   "sez": "mondo",
+   "titolo": "Nuovo sondaggio mostra che una minima variazione potrebbe decidere il governo",
+   "orig": "New poll shows a small shift could decide who governs",
+   "lead": "Un nuovo sondaggio politico indica un parlamento in bilico sul filo del rasoio, evidenziando che una frazione di punto percentuale potrebbe risultare decisiva per determinare chi guiderà il prossimo governo. Lo riferisce Stuff NZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/politics/361048409/new-poll-shows-parliament-knife-edge",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T17:06+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z98679c17",
+   "sez": "mondo",
+   "titolo": "Gli Stati Uniti prorogano la protezione temporanea per ucraini e sudanesi",
+   "orig": "SHBA lë në fuqi mbrojtjen e përkohshme për ukrainasit dhe sudanezët",
+   "lead": "Il Dipartimento per la Sicurezza Interna degli Stati Uniti ha prorogato lo status di protezione temporanea per gli immigrati provenienti da Ucraina e Sudan, evitando la scadenza prevista e garantendo continuità all'assistenza. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/shba-le-ne-fuqi-mbrojtjen-e-perkohshme-per-ukrainasit-dhe-sudanezet/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-19T17:58+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z96a4a65f",
+   "sez": "mondo",
+   "titolo": "Albania, Vengu: docenti, militari, medici e vigili del fuoco al vertice della piramide salariale",
+   "orig": "Shpërblimi për policët, Vengu: Edhe arsimtarët, ushtarakët, mjekët e zjarrfikësit në krye të piramidës së pagave",
+   "lead": "Il deputato socialista Pirro Vengu ha commentato la decisione del governo di premiare gli agenti di polizia impegnati nelle proteste, sottolineando l'importanza di valorizzare anche insegnanti, militari, medici e vigili del fuoco nelle retribuzioni. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/shperblimi-per-policet-vengu-edhe-arsimtaret-ushtaraket-mjeket-e-zjarrfikesit-ne-krye-te-piramides-se-pagave/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-19T17:50+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z32144f95",
+   "sez": "mondo",
+   "titolo": "Tirana, blackout all'Ospedale dei Traumi: struttura al buio per due minuti",
+   "orig": "Ndërpritet energjia elektrike në Spitalin e Traumës, e gjithë struktura në errësirë për dy minuta",
+   "lead": "Un guasto tecnico ha causato l'interruzione della corrente elettrica nel tardo pomeriggio all'Ospedale dei Traumi di Tirana, lasciando l'intera struttura al buio per circa due minuti prima del ripristino. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/nderpritet-energjia-elektrike-ne-spitalin-e-traumes-e-gjithe-struktura-ne-erresire-per-dy-minuta/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-19T17:39+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zed9ad4df",
+   "sez": "mondo",
+   "titolo": "Tirana, polizia lancia lacrimogeni per disperdere i manifestanti vicino al Ministero dell'Interno",
+   "orig": "Policia hedh gazlotsjellës ndaj protestuesve, shpërndahen përkohësisht",
+   "lead": "La polizia albanese ha impiegato gas lacrimogeni per disperdere temporaneamente i gruppi di manifestanti radunati nei pressi del Ministero dell'Interno, che hanno risposto con il lancio di fuochi d'artificio senza che si registrassero scontri diretti. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/policia-hedh-gazlotsjelles-ndaj-protestuesve-shperndahen-perkohesisht/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-19T17:27+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/dy-automjete-te-policise-ndjekin-protestuesit-ne-sheshin-skenderbej/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-19T17:54+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/policia-ndalon-disa-protestues-brenda-oborrit-te-kishes-orthodhokse-ne-tirane/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-19T17:32+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd6a7c519",
+   "sez": "mondo",
+   "titolo": "Vareš al centro di un caso minerario: si prepara un nuovo impianto a Tribija?",
+   "orig": "Vareš ponovo u centru rudarske afere: Pod plaštom testiranja stanovništva priprema se novi rudnik?",
+   "lead": "A Vareš si pianifica l'apertura di un ulteriore sito estrattivo nella località di Tribija e Duboštica, nonostante la recente richiesta della Corte Costituzionale della Bosnia ed Erzegovina di riesaminare le procedure di tutela. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/vares-ponovo-u-centru-rudarske-afere-ekolozi-tvrde-da-se-pod-plastom-testiranja-priprema-novi-rudnik/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-19T19:53+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z86167681",
+   "sez": "mondo",
+   "titolo": "Bosnia, allarme per un inverno difficile: possibili rincari dell'elettricità fino al 30%",
+   "orig": "Miljević upozorava na tešku zimu: Struja bi mogla poskupjeti do 30 posto, a prijeti još jedan problem",
+   "lead": "I cittadini della Bosnia ed Erzegovina rischiano di affrontare un inverno particolarmente duro a causa delle criticità nel settore energetico, legate alla scarsità d'acqua nelle centrali idroelettriche e al possibile aumento dei prezzi dell'energia elettrica fino al trenta per cento. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/ekonomija/miljevic-upozorava-na-tesku-zimu-struja-bi-mogla-poskupjeti-do-30-posto-a-prijeti-jos-jedan-problem/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-19T18:55+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaac1249a",
+   "sez": "mondo",
+   "titolo": "Previsioni meteo invernali: sei modelli concordano, i Balcani tra le aree più colpite",
+   "orig": "Stigla nova prognoza za zimu: Šest modela pokazalo isti trend, Balkan među najpogođenijima",
+   "lead": "Gli ultimi modelli meteorologici a lungo termine per l'inverno indicano che gran parte dell'Europa registrerà quantitativi di neve inferiori alla media pluriennale, ponendo l'area balcanica tra le zone maggiormente interessate dal trend climatico. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vrijeme/stigla-nova-prognoza-za-zimu-sest-modela-pokazalo-isti-trend-balkan-medju-najpogodjenijima/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-19T18:49+02:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z02f0ab9e",
+   "sez": "mondo",
+   "titolo": "Iraq, scoperto sito archeologico risalente a 1.200 anni fa nella provincia di Babilonia",
+   "orig": "1,200-year-old archaeological site discovered Iraq’s Babil",
+   "lead": "La provincia centrale irachena di Babilonia ha annunciato la scoperta di un importante sito archeologico risalente a 1.200 anni fa, individuato nel distretto di al-Qasim, nella parte meridionale del territorio regionale. Lo riferisce Iraqi News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/1200-year-old-archaeological-site-discovered-iraqs-babil/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-19T17:22+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z10c1a31a",
+   "sez": "mondo",
+   "titolo": "Giordania, le province del nord alzano l'allerta per la stagione invernale",
+   "orig": "محافظات شمال الأردن ترفع جاهزيتها لموسم الشتاء.. خطط لمعالجة البؤر الساخنة وتعزيز تصريف مياه الأمطار",
+   "lead": "In vista dell'avvicinarsi della stagione fredda, le autorità delle province settentrionali della Giordania hanno intensificato i preparativi ufficiali, varando piani mirati a gestire le criticità idriche e a potenziare i sistemi di drenaggio delle acque piovane. Lo riferisce Roya News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/398043",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-19T19:34+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4da71496",
+   "sez": "mondo",
+   "titolo": "Yemen, l'esercito annuncia progressi a Taiz e 1.164 operazioni in un giorno",
+   "orig": "الجيش اليمني يعلن تقدماً ميدانياً في تعز وتنفيذ 1164 عملية استهداف خلال يوم",
+   "lead": "Il portavoce delle forze armate yemenite Majed Al-Nuzeili ha dichiarato che l'esercito ha compiuto progressi sul campo a Taiz, eseguendo 1.164 operazioni di attacco in 24 ore contro postazioni e rifornimenti degli Houthi tramite raid, droni e artiglieria. Lo riferisce Yemen Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185294?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a7%25d9%2584%25d8%25ac%25d9%258a%25d8%25b4-%25d8%25a7%25d9%2584%25d9%258a%25d9%2585%25d9%2586%25d9%258a-%25d9%258a%25d8%25b9%25d9%2584%25d9%2586-%25d8%25aa%25d9%2582%25d8%25af%25d9%2585%25d8%25a7%25d9%258b-%25d9%2585%25d9%258a%25d8%25af%25d8%25a7%25d9%2586%25d9%258a%25d8%25a7%25d9%258b-%25d9%2581%25d9%258a-%25d8%25aa",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-19T15:31+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z40088863",
+   "sez": "mondo",
+   "titolo": "Emirati Arabi Uniti e Arabia Saudita discutono di sicurezza regionale",
+   "orig": "UAE, Saudi Foreign Ministers Discuss Regional Security and Stability",
+   "lead": "Il vice primo ministro e ministro degli Affari Esteri degli Emirati Arabi Uniti, sceicco Abdullah bin Zayed Al Nahyan, ha tenuto una conversazione telefonica con il ministro degli Esteri saudita, principe Faisal bin Farhan bin Abdullah, per esaminare gli sviluppi regionali e gli sforzi congiunti volti a rafforzare la sicurezza e la stabilità. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/uae-saudi-foreign-ministers-discuss-regional-security-and-stability",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-19T16:13+00:00"
+    },
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/uae-president-welcomes-french-president-macron-to-abu-dhabi",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-19T16:13+00:00"
+    },
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/uae-calls-for-investigation-into-incident-involving-european-delegation-in-west-bank",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-19T16:13+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdfe66e6f",
+   "sez": "mondo",
+   "titolo": "Un pallone causa interruzioni di corrente a Tashkent e nella regione",
+   "orig": "Balloon Causes Power Disruptions in Tashkent City and Region",
+   "lead": "Il 19 ottobre un pallone ha colpito le apparecchiature elettriche della centrale di Aksa Toshkent, attivando il sistema di protezione e provocando un'interruzione dell'energia elettrica nella città di Tashkent e nell'area circostante. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/balloon-causes-power-disruptions-in-tashkent-region/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T21:57+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5adae6ba",
+   "sez": "mondo",
+   "titolo": "L'Uzbekistan propone l'elaborazione automatizzata delle dichiarazioni doganali",
+   "orig": "Uzbekistan Proposes Automated Customs Declaration Processing",
+   "lead": "L'Uzbekistan prevede di introdurre il trattamento automatizzato delle dichiarazioni doganali dei passeggeri per i casi a basso rischio, subordinatamente a una consultazione pubblica e alla relativa approvazione istituzionale. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-proposes-automated-customs-declaration-processing/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-19T20:30+05:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3b83faf3",
+   "sez": "mondo",
+   "titolo": "Il co-presidente del partito DEM afferma che il processo di pace in Turchia deve superare le rivalità politiche",
+   "orig": "DEM Party Co-Chair Says Türkiye’s Peace Process Must Rise Above Political Rivalry",
+   "lead": "Durante una conferenza stampa a Baghdad, il co-presidente del partito DEM Bakirhan ha dichiarato che il processo di pace è strettamente legato al futuro della democrazia in Turchia e necessita della partecipazione attiva di tutte le forze politiche, oltre le divisioni di partito. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947204/dem-party-co-chair-says-t%C3%BCrkiyes-peace-process-must-rise-above-political-rivalry",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-19T20:56+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z657156b1",
+   "sez": "mondo",
+   "titolo": "Portavoce dei pasdaran: l'Iran ha sconfitto la più grande superpotenza mondiale",
+   "orig": "IRGC Spokesman: Iran Has Defeated The World's Biggest Superpower",
+   "lead": "Intervenendo a Tehran, il portavoce delle Guardie della Rivoluzione Islamica Mohebbi ha sostenuto che la resistenza iraniana ha costretto gli Stati Uniti ad abbandonare i piani di cambio di regime e spartizione, riducendo le riserve petrolifere americane e sminuendo le minacce di Washington. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947186/irgc-spokesman-iran-has-defeated-the-worlds-biggest-superpower",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-19T18:59+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb55665ee",
+   "sez": "mondo",
+   "titolo": "L'Iraq avverte contro l'incitamento mediatico alla violenza e minaccia azioni legali",
+   "orig": "Iraq Warns Against Media Incitement to Violence, Vows Legal Action Over Calls for Arms Outside State Control",
+   "lead": "L'ufficio stampa del Primo Ministro iracheno ha annunciato che le autorità perseguiranno denunce penali nei confronti di chiunque fomenti conflitti interni e sostenga gruppi armati operanti al di fuori del controllo statale. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947181/iraq-warns-against-media-incitement-to-violence-vows-legal-action-over-calls-for-arms-outside-state-control",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-19T18:48+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z429c1ca2",
+   "sez": "mondo",
+   "titolo": "L'Alleanza Cristiana chiede che il Ministero della Migrazione venga affidato al blocco Soyana",
+   "orig": "Christian Alliance Says Migration Ministry Should Go to Soyana Bloc",
+   "lead": "Il rappresentante Jawhar ha dichiarato che il portafoglio ministeriale costituisce un diritto legittimo dei cristiani basato sui voti espressi dai cittadini, sottolineando che i partiti politici devono rispettare la volontà elettorale della comunità cristiana anziché imporla. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947177/christian-alliance-says-migration-ministry-should-go-to-soyana-bloc",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-19T18:30+03:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb9ed5a29",
+   "sez": "mondo",
+   "titolo": "FAO: nell'agroalimentare troppe opportunità inattese a causa degli elevati rischi",
+   "orig": "Agribusiness: Too many opportunities are untapped because of high risks - FAO",
+   "lead": "La FAO evidenzia che la costruzione della resilienza richiede investimenti costanti nei sistemi agroalimentari, ma molte opportunità rimangono non sfruttate a causa dei rischi elevati presenti nel settore. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/agribusiness-too-many-opportunities-are-untapped-because-of-high-risks-fao",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-19T15:42+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z68ad5e64",
+   "sez": "mondo",
+   "titolo": "La FAO sollecita una gestione idrica più intelligente per salvaguardare la sicurezza alimentare",
+   "orig": "FAO calls for smarter water governance to safeguard food security",
+   "lead": "Sottolineando che la sicurezza idrica coincide con la sicurezza alimentare, la FAO rimarca la necessità di modificare le modalità con cui l'agricoltura utilizza e gestisce la risorsa idrica per poter raggiungere traguardi di sostenibilità globale. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/fao-calls-for-smarter-water-governance-to-safeguard-food-security",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-19T15:36+00:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "z134c3a06",
+   "sez": "mondo",
+   "titolo": "Per la prima volta l'intelligenza artificiale progetta una pistola da combattimento stampabile in 3D",
+   "orig": "Опасная забава. Впервые боевой пистолет для печати на 3D-принтере разработал ИИ",
+   "lead": "L'intelligenza artificiale ha sviluppato per la prima volta il progetto di un'arma da fuoco portatile e stampabile in 3D, secondo quanto reso noto dalla testata specializzata The Verge e riportato dai media locali. Lo riferisce 24.kg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "24.kg",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://24.kg/article/opasnaya-zabava-vpervye-boevoj-pistolet-dlya-pechati-na-3d-printere-razrabotal-ii",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-19T23:39+06:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbbc634a9",
+   "sez": "mondo",
+   "titolo": "Oltre 7 mila anziani e disabili ricevono assistenza domiciliare in Kirghizistan",
+   "orig": "Более 7 тысяч пожилых и лиц с инвалидностью получают уход на дому в Кыргызстане",
+   "lead": "Il Ministero del Lavoro e della Protezione Sociale del Kirghizistan ha reso noto che 773 operatori sociali assistono a domicilio un totale di 7.027 cittadini anziani e persone con disabilità su tutto il territorio nazionale. Lo riferisce 24.kg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "24.kg",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://24.kg/article/bolee-7-tysyach-pozhilyh-i-lic-s-invalidnostyu-poluchayut-uhod-na-domu-v-kyrgyzstane",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-19T21:43+06:00"
+    }
+   ],
+   "data": "19 ott",
+   "ora": "20:12",
+   "uscita": "sera"
+  },
+  {
    "id": "z33152a09",
    "sez": "mondo",
    "titolo": "Ratifica dell'accordo TRIPP all'ordine del giorno del Parlamento armeno",
@@ -2854,30 +3924,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z6cd4448f",
-   "sez": "economia",
-   "titolo": "Gli Emirati Arabi Uniti condannano l'attacco contro una delegazione europea in Cisgiordania e chiedono un'inchiesta",
-   "orig": "UAE Calls for Investigation Into Incident Involving European Delegation in West Bank",
-   "lead": "Gli Emirati Arabi Uniti hanno espresso ferma condanna per l'aggressione compiuta da coloni israeliani nei confronti di una delegazione diplomatica europea in visita nel villaggio di Taybeh, nella Cisgiordania occupata. Il governo emiratino ha richiesto un'indagine indipendente e l'accertamento delle responsabilità dei soggetti coinvolti nell'episodio. Lo riferisce Daily Tribune (Bahrein).",
-   "more": [
-    "La protezione delle missioni diplomatiche e delle delegazioni internazionali nei territori occupati è disciplinata dal diritto internazionale e dagli accordi bilaterali, la cui violazione solleva frequentemente condor e richieste di inchiesta da parte della comunità globale."
-   ],
-   "fonti": [
-    {
-     "n": "Daily Tribune (Bahrein)",
-     "p": "XX",
-     "c": "Manama",
-     "u": "https://www.newsofbahrain.com/en/article/uae-calls-for-investigation-into-incident-involving-european-delegation-in-west-bank",
-     "angolo": "",
-     "atlas": "Bahrain",
-     "t": "2026-10-19T16:13+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "20:09",
-   "uscita": "sera"
-  },
-  {
    "id": "zae7bb368",
    "sez": "economia",
    "titolo": "Uzbekistan e Zeppelin Group discutono nuove forniture di attrezzature industriali",
@@ -4479,6 +5525,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Norway",
      "t": "2026-10-19T16:51+00:00"
+    },
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/france-imposes-curfews-to-contain-riot/4XAU5WHBLZHFFLCC44CIDMLNSA/",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-19T17:31+00:00"
     }
    ],
    "data": "19 ott",
@@ -6816,7 +7871,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "za7e8d7dc": "Il giornale evidenzia i timori espressi dagli esperti riguardo alla sostenibilità economica degli accordi di estrazione del gas per le casse dello Stato cipriota.",
   "z06205b05": "La testata evidenzia l'importanza del summit internazionale volto a stimolare gli investimenti energetici congiunti tra Zambia e Zimbabwe.",
   "z8664ef7f": "La testata evidenzia la direttiva ministeriale volta a modernizzare e digitalizzare i servizi di autorizzazione ambientale nel Paese entro la fine del 2026.",
-  "z6cd4448f": "La testata evidenzia la presa di posizione degli Emirati Arabi Uniti a seguito dell'attacco ai diplomatici europei e la richiesta di accertare le responsabilità.",
   "zae7bb368": "La testata sottolinea i colloqui bilaterali orientati a rafforzare la cooperazione industriale e la fornitura di tecnologie tedesche sul mercato uzbeko.",
   "z9977590f": "La testata evidenzia l'iniziativa della società editoriale statale ghanese volta a semplificare la diffusione e la consultazione digitale delle leggi nazionali.",
   "za082b7ca": "La testata evidenzia il provvedimento di revoca del governatore regionale intervenuto a breve distanza dalle polemiche sulla riscossione delle imposte locali.",
@@ -6933,7 +7987,54 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z21c51cac": "La testata segue con piglio giudiziario un'inchiesta internazionale legata alla sicurezza delle infrastrutture tecnologiche critiche.",
   "z92590455": "La testata offre una cronaca visiva e puntuale del degrado e della tensione sociale durante le manifestazioni di piazza.",
   "z49e5bb9b": "La testata analizza la situazione di sicurezza nazionale con un'attenzione particolare alle valutazioni strategiche dell'intelligence militare.",
-  "zc745bc72": "La testata esamina le dinamiche dell'elettorato statunitense con un focus approfondito sulle tendenze sociopolitiche locali."
+  "zc745bc72": "La testata esamina le dinamiche dell'elettorato statunitense con un focus approfondito sulle tendenze sociopolitiche locali.",
+  "z687ede93": "La testata israeliana enfatizza le tensioni diplomatiche e giudiziarie tra la Germania e l'Iran legate alla sicurezza della comunità ebraica.",
+  "z27d334af": "La testata di Dubai offre una sintesi rapida e drammatica del bilancio delle vittime causate dal maltempo in Europa.",
+  "z506f62db": "Il giornale egiziano evidenzia la cooperazione economica e strategica tra Egitto e Russia nell'area mediorientale.",
+  "z661790a6": "La testata si concentra sulle strategie di pianificazione economica e istituzionale del governo del Cairo.",
+  "zf3291a14": "Il quotidiano riporta le parole forti del leader egiziano sulla sicurezza nazionale e il controllo delle informazioni online.",
+  "zf76cec07": "La testata analizza l'andamento dell'interscambio commerciale tra Egitto e India nel settore chimico.",
+  "z73ee8192": "Il quotidiano fornisce dettagli sulla gestione dei fondi di cooperazione e sviluppo internazionale nel Paese.",
+  "zcbb78617": "La testata londinese segue l'escalation diplomatica bilaterale innescata dalle decisioni giudiziarie tedesche.",
+  "za390c8a0": "Il sito focalizza l'attenzione sui legami politici tra la leadership israeliana e quella statunitense.",
+  "zeff4cb12": "La testata traccia gli aggiornamenti quotidiani sul fronte militare al confine tra Israele e Libano.",
+  "z51ebfbe9": "Il report approfondisce le ripercussioni legali e diplomatiche delle normative libanesi nei confronti di Israele.",
+  "zba5018e0": "L'emittente europea analizza l'impatto politico delle rivolte sulla leadership del governo di Parigi.",
+  "ze795a197": "Il portale marocchino descrive le priorità programmatiche dell'esecutivo presentate dal capo del governo.",
+  "z9dfb4a72": "Il quotidiano cipriota segue il dibattito istituzionale sulla regolamentazione dei contenuti digitali.",
+  "z654727ef": "La testata evidenzia l'appello del capo dello Stato a difesa della qualità dell'informazione e delle istituzioni democratiche.",
+  "z13480e04": "Il giornale monitora gli sviluppi diplomatici e negoziali relativi alla questione di Cipro.",
+  "z3175d11b": "Analisi politica incentrata sulla scarsa rappresentanza femminile in vista delle prossime scadenze elettorali.",
+  "z6cf116aa": "Attenzione puntata sulla sicurezza amministrativa e sulla prevenzione delle frodi documentali nei trasporti.",
+  "zf6498c43": "Cronaca istituzionale focalizzata su un'iniziativa benefica e di sostegno abitativo promossa dalla presidenza.",
+  "z84978acc": "Informazione locale focalizzata sullo sviluppo delle infrastrutture viarie e sulla spesa pubblica.",
+  "z898df648": "Riflettori puntati sulla prevenzione sanitaria pubblica e sulla gestione delle emergenze epidemiche.",
+  "z0fc4dfb1": "Notizia di carattere sociale e sportivo incentrata sul benessere e sulla coesione della comunità locale.",
+  "z9c83327a": "Prospettiva economica focalizzata sulle strategie industriali e sulla valorizzazione della produzione interna.",
+  "zb0abe5bc": "Cronaca finanziaria e giudiziaria incentrata su irregolarità contabili in un'importante istituzione culturale.",
+  "z467b9109": "Reportage curioso e insolito su un fenomeno sismico inaspettato in un'area tradizionalmente tranquilla.",
+  "zb77baff0": "Analisi elettorale incentrata sulla massima incertezza dei rapporti di forza politici.",
+  "z98679c17": "Copertura di politica estera e immigrazione sulle decisioni dell'amministrazione statunitense.",
+  "z96a4a65f": "Dibattito politico sulle politiche salariali statali e sui compensi dei settori chiave del pubblico impiego.",
+  "z32144f95": "Cronaca locale incentrata sui disservizi critici nelle infrastrutture sanitarie cittadine.",
+  "zed9ad4df": "Cronaca di piazza focalizzata sulle tattiche di dispersione delle forze dell'ordine e sulla tensione dei dimostranti.",
+  "zd6a7c519": "Inchiesta ambientale ed economica sull'impatto dei nuovi progetti minerari nel territorio bosniaco.",
+  "z86167681": "Approfondimento socio-economico sulle prospettive della crisi energetica e sui disagi per la popolazione.",
+  "zaac1249a": "Informazione meteorologica e scientifica basata sui trend climatici continentali.",
+  "z02f0ab9e": "Notizia culturale e archeologica incentrata sulla valorizzazione del patrimonio storico iracheno.",
+  "z10c1a31a": "Notizia di servizio e protezione civile focalizzata sulla prevenzione dei disagi legati al maltempo.",
+  "z4da71496": "Bollettino militare ufficiale incentrato sulle operazioni belliche e sugli avanzamenti territoriali.",
+  "z40088863": "La testata evidenzia i canali di dialogo diplomatico e cooperazione geopolitica tra i Paesi del Golfo.",
+  "zdfe66e6f": "La testata locale riporta tempestivamente gli incidenti infrastrutturali che incidono sui servizi pubblici.",
+  "z5adae6ba": "L'articolo informa sulle riforme amministrative e la digitalizzazione dei processi doganali nel Paese.",
+  "z3b83faf3": "L'emittente cura con attenzione le dinamiche politiche che coinvolgono la questione curda e la stabilità regionale.",
+  "z657156b1": "L'organo d'informazione riporta le dichiarazioni ufficiali di esponenti militari iraniani relative ai rapporti di forza con Washington.",
+  "zb55665ee": "La testata mette in risalto le misure governative per il mantenimento dell'ordine pubblico e il monopolio statale della forza.",
+  "z429c1ca2": "La testata segue le trattative e le rivendicazioni delle minoranze religiose ed etniche nella composizione del governo.",
+  "zb9ed5a29": "La testata valorizza i report internazionali focalizzati sulle criticità e sulle prospettive di sviluppo economico agricolo.",
+  "z68ad5e64": "L'articolo riprende gli appelli delle Nazioni Unite sulle politiche ambientali e di tutela delle risorse primarie.",
+  "z134c3a06": "Il portale d'informazione segue le novità tecnologiche globali con particolare attenzione agli sviluppi legati all'intelligenza artificiale.",
+  "zbbc634a9": "La testata dà risalto alle politiche di welfare e al supporto statale per le fasce vulnerabili della popolazione."
  },
  "contesti": {
   "zf0c51908": "Nei mesi precedenti le forze russe hanno ripetutamente preso di mira le reti di trasmissione elettrica e gli impianti di generazione energetica in Ucraina, provocando gravi interruzioni dei servizi essenziali e ripetuti blackout in tutto il territorio nazionale.",
@@ -8137,13 +9238,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z6cd4448f": {
-   "n": "Taybeh",
-   "p": [
-    "Palestine"
-   ],
-   "pt": []
-  },
   "zae7bb368": {
    "n": "Tashkent",
    "p": [
@@ -8975,6 +10069,350 @@ window.EDIZIONI["2026-10-19-sera"] = {
     "United States of America"
    ],
    "pt": []
+  },
+  "z687ede93": {
+   "n": "Berlino",
+   "p": [
+    "Germany",
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z27d334af": {
+   "n": "Spagna orientale",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z506f62db": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z661790a6": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zf3291a14": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zf76cec07": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt",
+    "India"
+   ],
+   "pt": []
+  },
+  "z73ee8192": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zcbb78617": {
+   "n": "Teheran",
+   "p": [
+    "Iran",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "za390c8a0": {
+   "n": "Tel Aviv",
+   "p": [
+    "Israel",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zeff4cb12": {
+   "n": "Wadi al-Hujair",
+   "p": [
+    "Israel",
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z51ebfbe9": {
+   "n": "Beirut",
+   "p": [
+    "Lebanon",
+    "Israel",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zba5018e0": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze795a197": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z9dfb4a72": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z654727ef": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z13480e04": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z3175d11b": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z6cf116aa": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "zf6498c43": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z84978acc": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z898df648": {
+   "n": "Lusaka",
+   "p": [
+    "Zambia"
+   ],
+   "pt": []
+  },
+  "z0fc4dfb1": {
+   "n": "Lusaka",
+   "p": [
+    "Zambia"
+   ],
+   "pt": []
+  },
+  "z9c83327a": {
+   "n": "Lusaka",
+   "p": [
+    "Zambia"
+   ],
+   "pt": []
+  },
+  "zb0abe5bc": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "z467b9109": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand",
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb77baff0": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z98679c17": {
+   "n": "Tirana",
+   "p": [
+    "Albania",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z96a4a65f": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z32144f95": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "zed9ad4df": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "zd6a7c519": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z86167681": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "zaac1249a": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z02f0ab9e": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z10c1a31a": {
+   "n": "Amman",
+   "p": [
+    "Jordan"
+   ],
+   "pt": []
+  },
+  "z4da71496": {
+   "n": "Aden",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z40088863": {
+   "n": "Manama",
+   "p": [
+    "Bahrain",
+    "United Arab Emirates",
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zdfe66e6f": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z5adae6ba": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z3b83faf3": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq",
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z657156b1": {
+   "n": "Tehran",
+   "p": [
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb55665ee": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z429c1ca2": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zb9ed5a29": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z68ad5e64": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z134c3a06": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbbc634a9": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -9113,7 +10551,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "za7e8d7dc": 1,
   "z06205b05": 1,
   "z8664ef7f": 1,
-  "z6cd4448f": 1,
   "zae7bb368": 1,
   "z9977590f": 1,
   "za082b7ca": 1,
@@ -9230,7 +10667,54 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z21c51cac": 2,
   "z92590455": 1,
   "z49e5bb9b": 1,
-  "zc745bc72": 1
+  "zc745bc72": 1,
+  "z687ede93": 1,
+  "z27d334af": 1,
+  "z506f62db": 1,
+  "z661790a6": 1,
+  "zf3291a14": 1,
+  "zf76cec07": 1,
+  "z73ee8192": 1,
+  "zcbb78617": 1,
+  "za390c8a0": 1,
+  "zeff4cb12": 1,
+  "z51ebfbe9": 1,
+  "zba5018e0": 1,
+  "ze795a197": 1,
+  "z9dfb4a72": 1,
+  "z654727ef": 1,
+  "z13480e04": 1,
+  "z3175d11b": 1,
+  "z6cf116aa": 1,
+  "zf6498c43": 1,
+  "z84978acc": 1,
+  "z898df648": 1,
+  "z0fc4dfb1": 1,
+  "z9c83327a": 1,
+  "zb0abe5bc": 1,
+  "z467b9109": 1,
+  "zb77baff0": 1,
+  "z98679c17": 1,
+  "z96a4a65f": 1,
+  "z32144f95": 1,
+  "zed9ad4df": 1,
+  "zd6a7c519": 1,
+  "z86167681": 1,
+  "zaac1249a": 1,
+  "z02f0ab9e": 1,
+  "z10c1a31a": 1,
+  "z4da71496": 1,
+  "z40088863": 1,
+  "zdfe66e6f": 1,
+  "z5adae6ba": 1,
+  "z3b83faf3": 1,
+  "z657156b1": 1,
+  "zb55665ee": 1,
+  "z429c1ca2": 1,
+  "zb9ed5a29": 1,
+  "z68ad5e64": 1,
+  "z134c3a06": 1,
+  "zbbc634a9": 1
  },
  "video": {},
  "pillole": []
