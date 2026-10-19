@@ -4,7 +4,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
  "news": [
   {
    "id": "z5103e335",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Tanzania: timori sull'anestesia ritardano gli interventi chirurgici a Bugando",
    "orig": "Tanzania: Anaesthesia Fears Delay Surgeries At Bugando",
    "lead": "La paura dell'anestesia, alimentata da idee errate sulla sua sicurezza, spinge molti pazienti dell'ospedale Bugando Zonal Referral in Tanzania a posticipare o rifiutare le operazioni chirurgiche fino all'aggravamento delle condizioni. Lo riferisce allAfrica.",
@@ -48,7 +48,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z4f8d2068",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Stati Uniti e Cina dovrebbero imparare dal controllo degli armamenti della Guerra Fredda per gestire i rischi dell'IA",
    "orig": "US, China should learn from Cold War-era arms control to tackle AI risks: ex-US official",
    "lead": "Washington e Pechino dovrebbero accantonare la reciproca diffidenza per affrontare i rischi legati all'intelligenza artificiale, imitando la cooperazione sul controllo nucleare tra Stati Uniti e Unione Sovietica durante la Guerra Fredda, secondo un ex segretario al Tesoro statunitense. Lo riferisce South China Morning Post.",
@@ -102,27 +102,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "p": "XX",
      "c": "Seul",
      "u": "https://www.koreaherald.com/article/10907781",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "17:27",
-   "uscita": "17"
-  },
-  {
-   "id": "z792ceaaa",
-   "sez": "mondo",
-   "titolo": "Lee chiede un rapido recupero, e non un semplice trasferimento, del comando di guerra dagli Stati Uniti",
-   "orig": "Lee calls for swift ‘restoration,’ not ‘transfer,’ of wartime command from US",
-   "lead": "Il presidente Lee Jae Myung ha ribadito la necessità che la Corea del Sud riacquisti il controllo operativo in tempo di guerra dagli Stati Uniti al più presto, sottolineando che il processo debba essere definito come un recupero e non un trasferimento. Lo riferisce The Korea Herald.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Korea Herald",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.koreaherald.com/article/10907766",
      "angolo": "",
      "atlas": "South Korea"
     }
@@ -462,7 +441,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z135ff103",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Schumer esorta il regolatore statunitense a respingere la richiesta di un gruppo conservatore di usare robocall politiche generate dall'IA",
    "orig": "Schumer urges US regulator to reject conservative group’s bid to use political AI-generated robocalls",
    "lead": "Il leader politico statunitense Chuck Schumer ha chiesto formalmente a un'autorità di regolamentazione di bloccare l'uso di chiamate automatizzate basate sull'intelligenza artificiale per scopi elettorali, ammonendo sui rischi legati alla diffusione di messaggi falsi con le voci degli avversari. Lo riferisce The Straits Times.",
@@ -1042,28 +1021,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z5ebf9513",
-   "sez": "mondo",
-   "titolo": "Ucraina, timori sui ritardi Usa per le forniture di difesa aerea",
-   "orig": "'It's significant': Ukraine fears US is withholding allied-funded air defense supplies to pressure Kyiv",
-   "lead": "Funzionari ucraini temono che Washington stia trattenendo deliberatamente le forniture di missili intercettori Patriot finanziate dagli alleati per fare pressione su Kiev. Il segretario alla Difesa statunitense Pete Hegseth non ha ancora approvato il trasferimento del significativo lotto di armamenti. Lo riferisce The Kyiv Independent.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Kyiv Independent",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://kyivindependent.com/its-significant-ukraine-fears-us-is-withholding-allied-funded-air-defense-supplies-to-pressure-kyiv/",
-     "angolo": "",
-     "atlas": "Ukraine",
-     "t": "2026-10-19T14:12+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "z2d4da443",
    "sez": "mondo",
    "titolo": "Stati Uniti verso l'estensione dello status di protezione per gli ucraini",
@@ -1338,7 +1295,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zedcda22f",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Il Brighton di Fabian Hürzeler supera i record di gol di Inter e Bayern Monaco",
    "orig": "Il Brighton fa più gol dell’Inter e del Bayern Monaco",
    "lead": "La squadra inglese del Brighton, guidata dal trentatreenne ex venditore di quadri Fabian Hürzeler, sta impressionando per la vena realizzativa e l'aggressività tattica in campo, superando in termini di gol segnati formazioni blasonate come Inter e Bayern Monaco grazie a un calcio estremamente intenso. Lo riferisce Il Post.",
@@ -1969,7 +1926,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z4c6a21a8",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "Il musicista Salvador presenta il suo nuovo album 'A Flor do Recomeço'",
    "orig": "Salvador apresenta 'A Flor do Recomeço'",
    "lead": "Il cantante Salvador presenta al pubblico il suo nuovo progetto discografico intitolato 'A Flor do Recomeço', un album caratterizzato da brani inediti scritti interamente da autori brasiliani. Lo riferisce RTP.",
@@ -1991,7 +1948,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zf09a5ff2",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Juventus, infortunio alla spalla per Francisco Conceição: stop a tempo indeterminato",
    "orig": "Lesão trava Francisco Conceição",
    "lead": "L'attaccante della Juventus Francisco Conceição ha rimediato un infortunio alla spalla sinistra durante la partita di Serie A giocata domenica contro la Lazio. Il club bianconero ha annunciato che il giocatore resterà indisponibile per un periodo non specificato. Lo riferisce RTP.",
@@ -2122,28 +2079,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z7fe1d8f9",
-   "sez": "mondo",
-   "titolo": "Francia, governo in riunione di crisi dopo il weekend di proteste sfociate in gravi violenze",
-   "orig": "Cocktail van relschoppers, ultralinks en criminelen: hoe kon het zo misgaan in Frankrijk?",
-   "lead": "Il governo francese convoca una riunione di crisi e adotta nuove misure di sicurezza dopo un fine settimana caratterizzato da imponenti manifestazioni contro le politiche statali, l'istruzione e il carovita, degenerate in gravi scontri di piazza tra forze dell'ordine e gruppi violenti. Lo riferisce NOS.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635651",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-19T15:31+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
    "id": "zc11044ce",
    "sez": "mondo",
    "titolo": "Il crematorio di Hasselt offre urne per bambini artigianali e uniche per portare conforto",
@@ -2247,28 +2182,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Sweden",
      "t": "2026-10-19T14:25+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "17:26",
-   "uscita": "17"
-  },
-  {
-   "id": "zcad06547",
-   "sez": "mondo",
-   "titolo": "Norvegia: il miliardario Knut Ugland acquista il famoso tamburo dei Mondiali",
-   "orig": "Milliardær gjorde «spontankjøp» – VM-tromma ble solgt for rekordsum",
-   "lead": "Il finanziere norvegese Knut Ugland ha acquistato per oltre un milione di corone il celebre tamburo dei campionati mondiali di calcio durante un'asta a Oslo, stabilendo una cifra record. L'acquirente ha tuttavia dichiarato di non sapere ancora dove custodire l'iconico strumento. Lo riferisce NRK.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NRK",
-     "p": "XX",
-     "c": "Oslo",
-     "u": "https://www.nrk.no/sport/knut-ugland-kjopte-vm-tromma-for-rekordsum-under-tv-aksjonen-1.18058523",
-     "angolo": "",
-     "atlas": "Norway",
-     "t": "2026-10-19T13:27+00:00"
     }
    ],
    "data": "19 ott",
@@ -2387,7 +2300,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zcf227cc4",
-   "sez": "mondo",
+   "sez": "ambiente",
    "titolo": "Brasile: incendi boschivi nel Pará provocano livelli di aria malsana",
    "orig": "Incêndios avançam sobre o oeste do Pará e deixam ar insalubre",
    "lead": "Con centinaia di roghi attivi, lo Stato del Pará registra il primato nazionale di incendi forestali in Brasile, causando gravi problemi di inquinamento atmosferico nella regione amazzonica. Situazioni critiche simili si registrano anche nello Stato vicino dell'Amazonas, dove la qualità dell'aria a Manaus rimane insalubre. Lo riferisce Agência Brasil.",
@@ -2497,7 +2410,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z916dca06",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Tunisia: il Club Africain pareggia a Lubumbashi contro il TP Mazembe",
    "orig": "Les Clubistes accrochent les Corbeaux à Lubumbashi : Quand le CA ne rentre pas bredouille !",
    "lead": "La formazione calcistica tunisina del Club Africain ha ottenuto un prezioso pareggio per 1-1 in trasferta a Lubumbashi contro il TP Mazembe. Nonostante il risultato positivo, l'allenatore Maher Kanzari ha invitato la squadra alla massima prudenza in vista della gara di ritorno a Radès. Lo riferisce La Presse de Tunisie.",
@@ -2670,7 +2583,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z8a0aa7b0",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Il ministro namibiano Amutse sollecita l'avvio della diga di Baynes",
    "orig": "Amutse pushes for Baynes Dam construction",
    "lead": "Il ministro delle Industrie, delle Miniere e dell'Energia della Namibia, Modestus Amutse, ha chiesto ad Angola e Namibia di accelerare il passaggio dagli studi di fattibilità alla fase di costruzione del Progetto Idroelettrico Binazionale di Baynes. L'opera, situata lungo il fiume Cunene, punta a rafforzare la sicurezza energetica della regione. Lo riferisce The Namibian.",
@@ -3295,6 +3208,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Angola",
      "t": "2026-10-19T11:45+00:00"
+    },
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/19/caf-c2-va-repartir-au-travail-pour-preparer-le-match-retour-esperant-renverser-la",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-19T08:46+00:00"
     }
    ],
    "data": "19 ott",
@@ -3484,6 +3406,24 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Algeria",
      "t": "2026-10-19T11:27+00:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T16:35+02:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/frankreich-ausgangssperren-premier-proteste-krawalle-li.3565912",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-19T12:20+00:00"
     }
    ],
    "data": "19 ott",
@@ -4042,37 +3982,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z252aa247",
-   "sez": "mondo",
-   "titolo": "La Francia annuncia coprifuoco locali dopo le recenti proteste",
-   "orig": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
-   "lead": "A seguito dei recenti disordini e delle violente proteste che hanno interessato diverse zone della Francia, il governo ha annunciato l'introduzione di coprifuoco limitati a livello locale. Nel frattempo cresce l'allerta in vista di nuovi possibili appelli alla mobilitazione per il fine settimana.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-19T16:35+02:00"
-    },
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/politik/frankreich-ausgangssperren-premier-proteste-krawalle-li.3565912",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-19T12:20+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "17:25",
-   "uscita": "17"
-  },
-  {
    "id": "z25d3674a",
    "sez": "mondo",
    "titolo": "In Svezia Elisabeth Thand Ringqvist incaricata di esplorare la formazione di un governo",
@@ -4498,7 +4407,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z50aed974",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Lituania, in previsione aumenti per stipendi e pensioni nel prossimo anno",
    "orig": "Kitais metais didės atlyginimai ir pensijos",
    "lead": "Il governo della Lituania ha confermato che nel corso del prossimo anno entreranno in vigore misure economiche volte ad incrementare i salari dei lavoratori e l'importo delle pensioni per i cittadini.",
@@ -4586,7 +4495,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zc56be01f",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "La rock band Toto in concerto a Tallinn a luglio 2027",
    "orig": "Toto to perform in Tallinn in July 2027",
    "lead": "La storica band rock statunitense Toto ha annunciato una data del proprio tour europeo che si terrà sul palco della Unibet Arena di Tallinn il 29 luglio del prossimo anno.",
@@ -5038,7 +4947,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z84722174",
-   "sez": "tech",
+   "sez": "italia",
    "titolo": "Differenze tra borgo, comune, paese e città: criteri storici e amministrativi",
    "orig": "Qual è la differenza tra borgo, comune, paese e città: il nome dipende dalla storia o dalla burocrazia",
    "lead": "I termini borgo, comune, paese, frazione e città vengono spesso impiegati come sinonimi nel linguaggio comune, ma possiedono definizioni amministrative precise legate alla storia, alle funzioni e alla dimensione demografica ed economica del centro abitato. Lo riferisce Geopop.",
@@ -5054,30 +4963,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-19T14:30+00:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "17:18",
-   "uscita": "17"
-  },
-  {
-   "id": "z4f0019b8",
-   "sez": "manga",
-   "titolo": "Il mangaka yoruhashi lancia una nuova serie intitolata The Kingdoms of Ruin",
-   "orig": "The Kingdoms of Ruin's yoruhashi Launches New Manga on Thursday",
-   "lead": "L'autore yoruhashi, noto per l'opera The Kingdoms of Ruin, ha inaugurato la pubblicazione di un nuovo manga incentrato sulle vicende del giovane protagonista Raran, impegnato in un percorso di vendetta contro una serie di maledizioni. Lo riferisce Anime News Network.",
-   "more": [
-    "Nel mercato dei manga giapponesi, l'esordio di nuove serie da parte di autori affermati suscita sempre grande interesse tra gli appassionati di fumetti seriali e narrativa fantastica."
-   ],
-   "fonti": [
-    {
-     "n": "Anime News Network",
-     "p": "US",
-     "c": "Houston",
-     "u": "https://www.animenewsnetwork.com/news/2026-10-19/the-kingdoms-of-ruin-yoruhashi-launches-new-manga-on-thursday/.242961",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-19T07:13-04:00"
     }
    ],
    "data": "19 ott",
@@ -5639,6 +5524,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-19T05:37-07:00"
+    },
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-19/the-kingdoms-of-ruin-yoruhashi-launches-new-manga-on-thursday/.242961",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-19T07:13-04:00"
     }
    ],
    "data": "19 ott",
@@ -5791,7 +5685,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "zda4727a3",
-   "sez": "musica",
+   "sez": "cultura",
    "titolo": "La serie prequel 'Crystal Lake' esplora le origini della madre di Jason",
    "orig": "‘Crystal Lake’ review: ‘Friday The 13th’ prequel gives Jason’s mum a twisted origin story",
    "lead": "La nuova serie televisiva prequel intitolata 'Crystal Lake' si sviluppa in otto episodi per raccontare le vicende e la complessa storia di Pamela Voorhees, la madre del celebre killer cinematografico della saga horror 'Venerdì 13'. Lo riferisce NME.",
@@ -5839,7 +5733,7 @@ window.EDIZIONI["2026-10-19-sera"] = {
   },
   {
    "id": "z7fb3b0ef",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Il festival jazz di Stoccolma mostra che il centro città non è privo di vita musicale",
    "orig": "Po Tidholm: Jazzfestivalen visar att innerstaden sover bort sin rikedom",
    "lead": "Il festival jazz di Stoccolma ha smentito l'idea che la capitale svedese sia priva di spazi per i concerti. Le esibizioni tenute in teatri, musei e centri civici durante la manifestazione dimostrano che la città offre ampie opportunità per un panorama musicale vivo e attivo, secondo quanto sottolineato da Po Tidholm. Lo riferisce Dagens Nyheter.",
@@ -8224,6 +8118,14 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "South Korea",
      "t": "2026-10-19T18:32+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10907766",
+     "angolo": "",
+     "atlas": "South Korea"
     }
    ],
    "data": "19 ott",
@@ -9276,28 +9178,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-19T11:00+02:00"
-    }
-   ],
-   "data": "19 ott",
-   "ora": "12:43",
-   "uscita": "13"
-  },
-  {
-   "id": "zfddfe874",
-   "sez": "sport",
-   "titolo": "Il Daring Club Virunga perde l'andata contro il Primeiro de Agosto in Coppa CAF",
-   "orig": "CAF-C2 : « on va repartir au travail pour préparer le match retour espérant renverser la situation » (Hamid Brimil)",
-   "lead": "Il Daring Club Virunga, squadra congolese, è stato sconfitto 2-1 dal Primeiro de Agosto d'Angola nella gara d'andata del secondo turno della Coppa della Confederazione CAF. Il tecnico Hamid Brimil ha dichiarato che la squadra tornerà ad allenarsi per preparare il match di ritorno, con l'obiettivo di ribaltare il risultato negativo dell'andata. La qualificazione al turno successivo resta ancora aperta in vista della partita decisiva. Lo riferisce Actualite.cd.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Actualite.cd",
-     "p": "XX",
-     "c": "Kinshasa",
-     "u": "https://actualite.cd/2026/10/19/caf-c2-va-repartir-au-travail-pour-preparer-le-match-retour-esperant-renverser-la",
-     "angolo": "",
-     "atlas": "Dem. Rep. Congo",
-     "t": "2026-10-19T08:46+00:00"
     }
    ],
    "data": "19 ott",
@@ -12830,6 +12710,15 @@ window.EDIZIONI["2026-10-19-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-19T07:32+00:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635651",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-19T15:31+02:00"
     }
    ],
    "data": "19 ott",
@@ -15300,7 +15189,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z712d9f7c": "The EastAfrican riporta l'invito dell'ONU a rafforzare il commercio regionale africano",
   "z94070c3f": "2424.mg descrive l'ampliamento del collegio elettorale come un passo verso una maggiore rappresentatività",
   "z114923be": "Domus racconta la trasformazione di un'area industriale storica torinese in polo culturale multifunzionale",
-  "zfddfe874": "Actualite.cd riporta le dichiarazioni dell'allenatore dopo la sconfitta nella gara d'andata",
   "z9e94b21a": "Times of India quantifica le perdite di capitalizzazione causate dal calo degli indici",
   "zf77ddd76": "Nile Post riporta la qualificazione dell'Uganda alla Coppa d'Africa di beach soccer",
   "z14ff4356": "The Astana Times evidenzia le opportunità economiche aperte dal vertice regionale di Avaza",
@@ -15466,7 +15354,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zc616f16b": "I dati finali e il bilancio positivo della kermesse cinematografica sudcoreana.",
   "z8c57e27a": "La grande partecipazione popolare e l'atmosfera festosa della corsa per le vie storiche della capitale.",
   "z84722174": "La spiegazione geostorica e burocratica che distingue le diverse tipologie di insediamento umano.",
-  "z4f0019b8": "L'annuncio della nuova pubblicazione fumettistica e la presentazione del protagonista della storia.",
   "zbca4a811": "La scelta del nuovo acquirente da parte dei creditori per il salvataggio della testata editoriale.",
   "za52ca12c": "I risultati agonistici della competizione nazionale di judo e i riconoscimenti economici assegnati.",
   "z10dd9e69": "Le critiche internazionali e le proteste locali contro la costruzione del resort turistico in Albania.",
@@ -15603,7 +15490,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z2678131c": "Cronaca giudiziaria incentrata sulle procedure di cauzione e sulle contestazioni della pubblica accusa.",
   "zb261fb55": "Analisi geopolitica focalizzata sulle giustificazioni ufficiali del regime militare del Myanmar in merito alle operazioni aeree.",
   "z704be237": "Notizia di cronaca giudiziaria basata sulle dichiarazioni istituzionali e sulle risultanze delle agenzie di stampa locali.",
-  "z252aa247": "Cronaca estera incentrata sulle misure di sicurezza e sulla gestione dell'ordine pubblico da parte dell'esecutivo francese.",
   "z25d3674a": "Copertura politica incentrata sulle trattative istituzionali per la composizione del nuovo esecutivo in Svezia.",
   "z0497c178": "Notizia di costume e politica incentrata sulla sfera personale di un leader europeo e sulle implicazioni mediatiche globali.",
   "z8c8c0ca7": "Report diplomatico-militare basato sui comunicati ufficiali delle forze armate pakistane.",
@@ -15648,7 +15534,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z2bae8f17": "La testata indipendente in esilio documenta la repressione e le accuse giudiziarie contro i cittadini in Russia.",
   "zcd2fa446": "La testata indipendente in esilio analizza le novità istituzionali legate agli effetti della guerra sulla società russa.",
   "z5f3c7e0b": "La testata documenta la situazione umanitaria e il rimpatrio dei minori coinvolti nel conflitto.",
-  "z5ebf9513": "La testata adotta una prospettiva incentrata sulla sicurezza nazionale ucraina e sui rapporti diplomatico-militari con Washington.",
   "z2d4da443": "Il giornale evidenzia l'impatto diretto delle politiche migratorie statunitensi sulla comunità ucraina rifugiata.",
   "z58467bde": "La testata adotta un punto di vista educativo e sociale focalizzato sul miglioramento delle istituzioni accademiche africane.",
   "zef50e421": "La testata privilegia la cronaca amministrativa e la tutela della salute pubblica e del decoro urbano in Nigeria.",
@@ -15696,13 +15581,11 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zb8bfcb05": "La testata nazionale riferisce il dibattito politico tra il governo centrale e l'amministrazione locale sulla gestione delle proteste.",
   "z3bd327f4": "Il media olandese riporta i risultati degli accertamenti sull'incidente avvenuto all'interno dello stabilimento brassicolo.",
   "z91dcf4bb": "L'emittente segue l'epilogo giudiziario di un caso di cronaca nera che ha profondamente segnato l'opinione pubblica.",
-  "z7fe1d8f9": "La testata estera analizza le ripercussioni dell'ondata di proteste e disordini che ha interessato la Francia.",
   "zc11044ce": "Il portale belga racconta le iniziative locali di solidarietà e sostegno psicologico alle famiglie colpite da gravi perdite.",
   "zc5bad020": "L'emittente pubblica fiamminga dà notizia delle condanne inflitte per i furti seriali di materiale ferroviario.",
   "z65938139": "L'articolo adotta una prospettiva locale e sociale, evidenziando l'intervento economico pubblico per risolvere un'emergenza assistenziale del territorio.",
   "za0275974": "Il reportage adotta un tono divulgativo e ottimista, focalizzandosi sull'entusiasmo dei giovani partecipanti verso la scienza e la tecnologia.",
   "z664ae22e": "Il pezzo adotta un punto di vista politico e istituzionale, riportando la notizia direttamente dall'annuncio social del protagonista.",
-  "zcad06547": "L'articolo adotta un tono curioso e di costume, evidenziando l'acquisto fuori dal comune da parte di un noto miliardario.",
   "z026329d5": "Il servizio adotta una prospettiva economica e politica, evidenziando il contrasto tra i profitti aziendali e i timori fiscali del settore turistico.",
   "z0512f10b": "Il servizio adotta un tono d'allarme ecologico, sottolineando i rischi ambientali per il fiordo e la necessità di una mobilitazione civile.",
   "z8094f151": "Il pezzo adotta una prospettiva istituzionale e parlamentare, riportando i chiarimenti ufficiali del governo sulla controversa uscita del dirigente.",
@@ -15720,7 +15603,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z4f8d2068": "La testata analizza la prospettiva geopolitica sulla governance tecnologica globale.",
   "z3d3cf9df": "La testata segue l'attesa sociale per uno degli esami più cruciali del sistema educativo sudcoreano.",
   "z952c528f": "Il giornale esamina la strategia di comunicazione politica e mediatica della presidenza.",
-  "z792ceaaa": "La testata focalizza l'attenzione sulla sovranità militare e sui rapporti bilaterali con Washington.",
   "za8ef6887": "Il quotidiano riporta gli sviluppi sulle politiche energetiche e sulle infrastrutture rinnovabili del Paese.",
   "zdd853a18": "La notizia evidenzia la digitalizzazione dei servizi istituzionali a favore del settore agricolo.",
   "zbbc3e5dd": "Il giornale mette in luce l'evoluzione tecnologica della pubblica amministrazione locale.",
@@ -16993,13 +16875,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "zfddfe874": {
-   "n": "Kinshasa",
-   "p": [
-    "Dem. Rep. Congo"
-   ],
-   "pt": []
-  },
   "z9e94b21a": {
    "n": "Mumbai",
    "p": [
@@ -18157,13 +18032,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z4f0019b8": {
-   "n": "Houston",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zbca4a811": {
    "n": "Seul",
    "p": [
@@ -19139,13 +19007,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z252aa247": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z25d3674a": {
    "n": "Stoccolma",
    "p": [
@@ -19465,14 +19326,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "p": [
     "Ukraine",
     "Russia"
-   ],
-   "pt": []
-  },
-  "z5ebf9513": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine",
-    "United States of America"
    ],
    "pt": []
   },
@@ -19820,14 +19673,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    ],
    "pt": []
   },
-  "z7fe1d8f9": {
-   "n": "Hilversum",
-   "p": [
-    "Netherlands",
-    "France"
-   ],
-   "pt": []
-  },
   "zc11044ce": {
    "n": "Bruxelles",
    "p": [
@@ -19860,13 +19705,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "Stoccolma",
    "p": [
     "Sweden"
-   ],
-   "pt": []
-  },
-  "zcad06547": {
-   "n": "Oslo",
-   "p": [
-    "Norway"
    ],
    "pt": []
   },
@@ -19989,14 +19827,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
    "n": "Seul",
    "p": [
     "South Korea"
-   ],
-   "pt": []
-  },
-  "z792ceaaa": {
-   "n": "Seul",
-   "p": [
-    "South Korea",
-    "United States of America"
    ],
    "pt": []
   },
@@ -20270,7 +20100,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z712d9f7c": 1,
   "z94070c3f": 1,
   "z114923be": 1,
-  "zfddfe874": 1,
   "z9e94b21a": 1,
   "zf77ddd76": 1,
   "z14ff4356": 2,
@@ -20436,7 +20265,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zc616f16b": 1,
   "z8c57e27a": 1,
   "z84722174": 1,
-  "z4f0019b8": 1,
   "zbca4a811": 1,
   "za52ca12c": 1,
   "z10dd9e69": 1,
@@ -20573,7 +20401,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z2678131c": 1,
   "zb261fb55": 1,
   "z704be237": 2,
-  "z252aa247": 1,
   "z25d3674a": 2,
   "z0497c178": 2,
   "z8c8c0ca7": 1,
@@ -20618,7 +20445,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z2bae8f17": 1,
   "zcd2fa446": 1,
   "z5f3c7e0b": 1,
-  "z5ebf9513": 1,
   "z2d4da443": 1,
   "z58467bde": 1,
   "zef50e421": 1,
@@ -20666,13 +20492,11 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "zb8bfcb05": 1,
   "z3bd327f4": 1,
   "z91dcf4bb": 1,
-  "z7fe1d8f9": 1,
   "zc11044ce": 1,
   "zc5bad020": 1,
   "z65938139": 1,
   "za0275974": 1,
   "z664ae22e": 1,
-  "zcad06547": 1,
   "z026329d5": 1,
   "z0512f10b": 1,
   "z8094f151": 1,
@@ -20690,7 +20514,6 @@ window.EDIZIONI["2026-10-19-sera"] = {
   "z4f8d2068": 1,
   "z3d3cf9df": 1,
   "z952c528f": 1,
-  "z792ceaaa": 1,
   "za8ef6887": 1,
   "zdd853a18": 1,
   "zbbc3e5dd": 1,
