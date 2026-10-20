@@ -135,30 +135,8 @@ window.EDIZIONI["2026-10-20"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z3f8635e8",
-   "sez": "mondo",
-   "titolo": "Elezioni Midterm Usa 2026, la sfida che deciderà gli ultimi due anni di Trump",
-   "orig": "Midterm Usa 2026, l’elezione che deciderà gli ultimi due anni di Trump",
-   "lead": "Le elezioni di metà mandato negli Stati Uniti ridefiniranno gli equilibri politici a Washington, condizionando direttamente il margine d'azione e il potere del presidente Donald Trump durante l'ultima parte del suo mandato nello Studio Ovale. Lo riferisce la Repubblica – Esteri.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/10/20/news/midterm_usa_2026_repubblica_diretta_video_rubriche_newsletter-425652711/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T00:00+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
    "id": "zc8d85a78",
-   "sez": "mondo",
+   "sez": "viaggi",
    "titolo": "Le mete di viaggio più sottovalutate e da scoprire nel 2027",
    "orig": "Viaggi, quali sono le mete più sottovalutate da scoprire nel 2027: la classifica",
    "lead": "Time Out ha pubblicato una speciale classifica che individua quarantuno destinazioni turistiche lontane dai circuiti di massa, consigliando le mete più originali e nascoste per chi desidera viaggiare evitando le folle nel corso del 2027. Lo riferisce Sky TG24.",
@@ -213,6 +191,15 @@ window.EDIZIONI["2026-10-20"] = {
      "u": "https://tg24.sky.it/mondo/2026/10/20/elezioni-midterm-usa-2026",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/10/20/news/midterm_usa_2026_repubblica_diretta_video_rubriche_newsletter-425652711/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T00:00+02:00"
     }
    ],
    "data": "",
@@ -387,28 +374,6 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Romania",
      "t": "2026-10-20T05:14+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z37cfc515",
-   "sez": "mondo",
-   "titolo": "Le autorità francesi intervengono dopo le rivolte e impongono restrizioni notturne",
-   "orig": "Autoritățile au intervenit după revoltele din toată Franța – starea la zi și reacții",
-   "lead": "Dopo un fine settimana segnato da saccheggi e disordini in tutta la Francia, le autorità hanno imposto restrizioni di circolazione notturna a Parigi e in altre città, riportando un clima di relativa calma nelle strade della capitale. Lo riferisce HotNews.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/restrictii-de-circulatie-in-zone-din-centrul-parisului-si-in-alte-orase-dupa-revoltele-din-toata-franta-2380703",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-20T04:32+00:00"
     }
    ],
    "data": "20 ott",
@@ -612,49 +577,6 @@ window.EDIZIONI["2026-10-20"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zeec3407d",
-   "sez": "mondo",
-   "titolo": "Il movimento 'Acampada de Lisboa' rifiuta di sgomberare nonostante l'avviso della polizia",
-   "orig": "Acampada de Lisboa decide ficar apesar de avisos da PSP",
-   "lead": "Gli attivisti dell'accampamento di protesta di Lisbona hanno deciso di proseguire la mobilitazione contro il carovita e la crisi abitativa, malgrado le forze di polizia avessero sollecitato l'allontanamento per prevenire uno sgombero forzato. Lo riferisce RTP.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/pais/acampada-de-lisboa-decide-ficar-apesar-de-avisos-da-psp_n1772802",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z71f435c4",
-   "sez": "mondo",
-   "titolo": "Coprifuoco e strade deserte nelle città francesi dopo le recenti proteste",
-   "orig": "Lege straten in Franse steden vanwege avondklok",
-   "lead": "Le città francesi sono rimaste tranquille e con le strade deserte durante la notte a causa del coprifuoco imposto in diverse aree urbane, tra cui Parigi, Lione e Lilla, in risposta alle violenze e ai disordini scoppiati nel fine settimana contro le politiche governative. Lo riferisce NOS.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2635897",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-20T06:52+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
    "id": "zf8817309",
    "sez": "mondo",
    "titolo": "Accordo preliminare a Berlino per un governo di sinistra, resistenze da parte della CDU",
@@ -854,7 +776,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "zc0c49932",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Mondiali di Ginnastica: Rebeca Andrade, Flavinha e Lorrane volano in finale a Rotterdam",
    "orig": "Rebeca, Flavinha e Lorrane avançam às finais do Mundial de Ginástica",
    "lead": "La delegazione brasiliana si è qualificata per cinque finali femminili ai Campionati Mondiali di Ginnastica Artistica a Rotterdam. La campionessa olimpica Rebeca Andrade ha ottenuto il punteggio più alto nel volteggio, trascinando anche la squadra all'ottava e ultima piazza utile per la finale a squadre. Lo riferisce Agência Brasil.",
@@ -1461,6 +1383,15 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-10-20T05:03+00:00"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/international/from-france-to-albania-social-unrest-is-setting-europes-streets-ablaze/article71603162.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T08:27+05:30"
     }
    ],
    "data": "20 ott",
@@ -1619,28 +1550,6 @@ window.EDIZIONI["2026-10-20"] = {
    "uscita": "mattino"
   },
   {
-   "id": "za069bd4b",
-   "sez": "mondo",
-   "titolo": "Dalla Francia all'Albania, i disordini sociali infiammano le strade d'Europa",
-   "orig": "From France to Albania, social unrest is setting Europe’s streets ablaze",
-   "lead": "Folle di manifestanti protestano da settimane nelle principali città europee, provocando arresti, saccheggi, feriti e scontri violenti in Paesi come Francia, Italia e Albania. Lo riferisce The Hindu.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Hindu",
-     "p": "XX",
-     "c": "Chennai",
-     "u": "https://www.thehindu.com/news/international/from-france-to-albania-social-unrest-is-setting-europes-streets-ablaze/article71603162.ece",
-     "angolo": "",
-     "atlas": "India",
-     "t": "2026-10-20T08:27+05:30"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
    "id": "zde5d6184",
    "sez": "mondo",
    "titolo": "Proteste a Delhi: prorogata di due giorni la custodia cautelare per i leader del CJP",
@@ -1686,7 +1595,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "z5928010f",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Prima azienda privata ottiene la licenza per la distribuzione di energia a Gurgaon e Nuh",
    "orig": "First private player gets licence to distribute power in Gurgaon, Nuh",
    "lead": "La società Eleven Power ha ottenuto la prima licenza per la distribuzione privata di energia a Gurgaon e Nuh, pianificando un investimento di 4.717 crore di rupie per la realizzazione di una rete elettrica parallela. Lo riferisce Times of India.",
@@ -1816,7 +1725,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "z939a92ca",
-   "sez": "mondo",
+   "sez": "viaggi",
    "titolo": "Gli arrivi turistici a Mustang registrano un crollo del 41,5 percento",
    "orig": "Tourist arrivals in Mustang plunge 41.5 percent",
    "lead": "Il distretto himalayano di Mustang ha subito una forte contrazione del turismo autunnale a causa di alluvioni, forti piogge e della prolungata interruzione della strada Beni-Jomsom. Lo riferisce The Kathmandu Post.",
@@ -1851,28 +1760,6 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Philippines",
      "t": "2026-10-20T13:04+08:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zfd5e139b",
-   "sez": "mondo",
-   "titolo": "Diffuse foto rare di Aung San Suu Kyi mentre riceve lettere dal re britannico",
-   "orig": "Rare photos of Suu Kyi getting letters from British king released",
-   "lead": "Il governo militare del Myanmar ha diffuso rare immagini della leader democratica detenuta Aung San Suu Kyi mentre riceve libri e lettere da re Carlo d'Inghilterra, in un probabile tentativo di accreditarsi internazionalmente. Lo riferisce Philippine Daily Inquirer.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Philippine Daily Inquirer",
-     "p": "XX",
-     "c": "Manila",
-     "u": "https://globalnation.inquirer.net/342868/rare-photos-of-suu-kyi-getting-letters-from-british-king-released",
-     "angolo": "",
-     "atlas": "Philippines",
-     "t": "2026-10-20T12:55+08:00"
     }
    ],
    "data": "20 ott",
@@ -2057,7 +1944,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "z759cb39a",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Aziende edili egiziane ispezionano siti a Gaza per il progetto 'Green Rafah', dicono le fonti",
    "orig": "Egyptian construction firms surveyed sites in Gaza for 'Green Rafah' project, sources say",
    "lead": "Fonti locali riferiscono che ingegneri e compagnie di costruzione egiziane hanno ispezionato le aree distrutte nel sud della Striscia di Gaza per il progetto residenziale 'Green Rafah', operando sotto la sorveglianza dell'esercito israeliano. Lo riferisce Middle East Eye.",
@@ -2708,7 +2595,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "zab7221fd",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "I timori legati ai debiti nell'intelligenza artificiale fanno impennare le transazioni assicurative contro il rischio di default",
    "orig": "FirstFT: AI debt fears spark default insurance trading surge",
    "lead": "A Londra, l'aumento delle preoccupazioni finanziarie connesse agli investimenti nel settore dell'intelligenza artificiale ha provocato un incremento significativo nelle negoziazioni di polizze assicurative contro il rischio di insolvenza e default aziendale. Lo riferisce Financial Times.",
@@ -3516,6 +3403,15 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Luxembourg",
      "t": "2026-10-20T04:38+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/teheran-stretta-collaborazione-con-mosca-940ddb9e-282b-4dd0-b520-a7633a35a0d6.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T05:00+00:00"
     }
    ],
    "data": "20 ott",
@@ -3679,7 +3575,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "za733f72c",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Un'intelligenza artificiale individua sul viso i segni per calcolare il rischio di morte nei malati di cancro",
    "orig": "Una IA encuentra en la cara signos para calcular el riesgo de muerte en pacientes de cáncer",
    "lead": "Un modello di IA addestrato su oltre 40 milioni di fotografie ha dimostrato l'esistenza di un legame clinico tra l'apparire più anziani della propria età anagrafica e una prognosi peggiore nei pazienti oncologici. Lo riferisce El País.",
@@ -3702,6 +3598,15 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Venezuela",
      "t": "2026-10-20T05:00+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/un-nou-instrument-de-ai-poate-prezice-sansele-de-supravietuire-ale-unui-pacient-cu-cancer-pe-baza-unei-singure-fotografii-sustine-un-studiu-2380726",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-20T05:05+00:00"
     }
    ],
    "data": "20 ott",
@@ -3742,6 +3647,14 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-20T06:00+02:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/acampada-de-lisboa-decide-ficar-apesar-de-avisos-da-psp_n1772802",
+     "angolo": "",
+     "atlas": "Portugal"
     }
    ],
    "data": "20 ott",
@@ -3924,6 +3837,15 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-10-20T05:23+00:00"
+    },
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874584-20261020.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T12:12+08:00"
     }
    ],
    "data": "20 ott",
@@ -4247,28 +4169,6 @@ window.EDIZIONI["2026-10-20"] = {
     }
    ],
    "data": "19 ott",
-   "ora": "07:45",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z162e55b3",
-   "sez": "mondo",
-   "titolo": "Iran: stretta collaborazione con Mosca, mai così forte secondo Araghchi dopo i colloqui con Lavrov",
-   "orig": "Teheran: stretta collaborazione con Mosca",
-   "lead": "Il ministro iraniano Araghchi ha dichiarato che la stretta collaborazione diplomatica e strategica tra Teheran e Mosca ha raggiunto livelli senza precedenti, al termine dei colloqui ufficiali avuti a Roma con il ministro degli Esteri russo Sergej Lavrov. Lo riferisce Rai News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/teheran-stretta-collaborazione-con-mosca-940ddb9e-282b-4dd0-b520-a7633a35a0d6.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T05:00+00:00"
-    }
-   ],
-   "data": "20 ott",
    "ora": "07:45",
    "uscita": "mattino"
   },
@@ -5075,7 +4975,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "z2dc0e223",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Filippine: le strategie finanziarie dietro l'operazione di Metro Pacific su Meralco",
    "orig": "[Vantage Point] The price of control: Behind Metro Pacific’s P12.4-B Meralco bet",
    "lead": "Un'analisi approfondita delle strategie economiche e societarie che guidano i grandi investimenti infrastrutturali e di controllo azionario nel settore energetico e dei servizi di Manila. Lo riferisce Rappler.",
@@ -5508,30 +5408,6 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-20T04:10+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:42",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zd22a72ab",
-   "sez": "spazio",
-   "titolo": "Il Giappone lancia con successo la missione spaziale per l'esplorazione delle lune marziane",
-   "orig": "Japan Launches the Martian Moons Exploration Mission",
-   "lead": "Un razzo vettore H3-24L a due stadi è decollato con successo dal Centro Spaziale di Tanegashima, nel sud del Giappone, dando il via alla missione marziana MMX (Martian Moons Exploration). Il lancio si è svolto nelle prime ore di martedì 20 ottobre locali, segnando un importante traguardo per il programma di esplorazione spaziale nipponico. Lo riferisce Sky & Telescope.",
-   "more": [
-    "Le missioni dedicate all'esplorazione delle lune di Marte, Phobos e Deimos, offrono agli scienziati indizi cruciali sull'origine del pianeta rosso e sulla formazione del sistema solare primordiale, permettendo di analizzare campioni e dati geologici difficilmente accessibili dalla superficie marziana."
-   ],
-   "fonti": [
-    {
-     "n": "Sky & Telescope",
-     "p": "US",
-     "c": "Milwaukee",
-     "u": "https://skyandtelescope.org/astronomy-news/japan-launches-the-martian-moons-exploration-mission/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-20T02:01+00:00"
     }
    ],
    "data": "20 ott",
@@ -6182,7 +6058,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "zd6b786a2",
-   "sez": "cultura",
+   "sez": "tech",
    "titolo": "Una fotocamera digitale tascabile senza schermo ricrea l'attesa dello sviluppo analogico",
    "orig": "Tiny no-screen digital camera gives us near-instant nostalgia by making us wait to see our pics",
    "lead": "La casa produttrice Kenko Tokina ha lanciato una piccola fotocamera digitale priva di schermo, un dispositivo pensato per spingere i fotografi a concentrarsi sullo scatto e a riscoprire l'emozione dell'attesa prima di poter visualizzare le immagini realizzate. Lo riferisce SoraNews24.",
@@ -6574,30 +6450,6 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Grenada",
      "t": "2026-10-20T00:35+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:42",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zf1b0b5d6",
-   "sez": "economia",
-   "titolo": "Riunione Apec a Hong Kong, risalto al ruolo di superconnettore",
-   "orig": "Apec meeting 'highlights HK's super connector role'",
-   "lead": "L'ospitare la riunione dei ministri delle Finanze della Cooperazione Economica Asia-Pacifico rafforza la funzione di Hong Kong come ponte finanziario e accresce la fiducia internazionale nella città, secondo quanto dichiarato da Billy Mak dell'Università Battista. L'evento si svolge per la prima volta nel territorio. Lo riferisce RTHK.",
-   "more": [
-    "I vertici finanziari internazionali offrono alle economie regionali l'opportunità di consolidare i propri scambi commerciali e di attrarre investimenti esteri strategici."
-   ],
-   "fonti": [
-    {
-     "n": "RTHK",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://news.rthk.hk/rthk/en/component/k2/1874584-20261020.htm",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-20T12:12+08:00"
     }
    ],
    "data": "20 ott",
@@ -7612,7 +7464,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "z1929397a",
-   "sez": "economia",
+   "sez": "ambiente",
    "titolo": "Studio rivela che i microplastiche nell'acqua possono generare sostanze nocive per le cellule",
    "orig": "Microplásticos na água podem gerar substâncias capazes de causar danos biológicos, aponta estudo",
    "lead": "I microplastiche presenti nell'acqua potrebbero essere chimicamente più attivi del previsto. Uno studio pubblicato sulla rivista scientifica Nature ha evidenziato che queste particelle sono in grado di produrre in autonomia specie reattive dell'ossigeno, molecole capaci di danneggiare cellule e tessuti se prodotte in eccesso. Lo riferisce G1.",
@@ -7762,30 +7614,6 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Colombia",
      "t": "2026-10-19T23:05-05:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:40",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z5ac6a0bb",
-   "sez": "italia",
-   "titolo": "A Milano chiudono i negozi di lusso e l'Italia prepara l'invio dell'esercito",
-   "orig": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
-   "lead": "A Milano i negozi del centro e della moda hanno chiuso i battenti in vista del dispiegamento di cinquecento soldati dell'esercito italiano. La decisione del governo giunge dopo due giorni di intense manifestazioni di protesta contro il carovita e il degrado dei servizi pubblici, sfociate in scontri con la polizia, saccheggi di attività commerciali e atti di vandalismo. Il vicepresidente del Consiglio Matteo Salvini ha annunciato che l'invio dei militari servirà a difendere la città, con provvedimenti inseriti in un apposito pacchetto di sicurezza nazionale. Lo riferisce The Guardian.",
-   "more": [
-    "Le proteste legate all'aumento del costo della vita e alla gestione dei servizi essenziali stanno interessando diverse città europee. L'impiego di forze armate per presidiare le aree urbane richiede solitamente provvedimenti normativi specifici per attribuire ai militari funzioni di pubblica sicurezza a supporto della polizia."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-20T00:08+00:00"
     }
    ],
    "data": "20 ott",
@@ -8554,6 +8382,15 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Myanmar",
      "t": "2026-10-20T05:19+00:00"
+    },
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://globalnation.inquirer.net/342868/rare-photos-of-suu-kyi-getting-letters-from-british-king-released",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-20T12:55+08:00"
     }
    ],
    "data": "20 ott",
@@ -8667,6 +8504,15 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Iran",
      "t": "2026-10-20T02:34+00:00"
+    },
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/japan-launches-the-martian-moons-exploration-mission/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T02:01+00:00"
     }
    ],
    "data": "20 ott",
@@ -9006,30 +8852,6 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-20T05:00+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "07:40",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z127ae1df",
-   "sez": "salute",
-   "titolo": "Un sistema di intelligenza artificiale stima la sopravvivenza nel cancro da una foto",
-   "orig": "Un nou instrument de AI poate prezice șansele de supraviețuire ale unui pacient cu cancer pe baza unei singure fotografii, susține un studiu",
-   "lead": "Ricercatori del sistema medico statunitense Mass General Brigham hanno sviluppato un modello basato sull'intelligenza artificiale capace di stimare le probabilità di sopravvivenza di un malato di cancro partendo da una singola fotografia del volto del paziente. Lo strumento diagnostico sperimentale è al centro dell'attenzione della comunità scientifica internazionale. Lo riferisce HotNews.",
-   "more": [
-    "L'impiego dell'intelligenza artificiale in oncologia apre nuove prospettive per l'analisi predittiva e la pianificazione dei trattamenti personalizzati, sebbene richieda rigorose validazioni cliniche ed etiche prima dell'uso clinico."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/un-nou-instrument-de-ai-poate-prezice-sansele-de-supravietuire-ale-unui-pacient-cu-cancer-pe-baza-unei-singure-fotografii-sustine-un-studiu-2380726",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-20T05:05+00:00"
     }
    ],
    "data": "20 ott",
@@ -9446,7 +9268,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "z44bd5d0d",
-   "sez": "tech",
+   "sez": "italia",
    "titolo": "Arrestata a Ostia la latitante argentina nota come 'Reyna del Sud', tradita da una diretta su TikTok",
    "orig": "Reyna del Sud, a Ostia la ladra inafferrabile tradita da TikTok: aveva svuotato casseforti per mezzo milione",
    "lead": "Una rapinatrice argentina accusata di aver svuotato casseforti per un valore complessivo di mezzo milione di euro, nota come la 'Reyna del Sud', è stata rintracciata e arrestata a Ostia dopo essersi nascosta nella capitale per almeno due settimane. A tradire la fuggitiva, che risultava inafferrabile per le forze dell'ordine, è stata una diretta video trasmessa sulla piattaforma social TikTok. Lo riferisce Il Messaggero – Roma.",
@@ -9658,7 +9480,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "z434a738f",
-   "sez": "ingegneria",
+   "sez": "economia",
    "titolo": "RK Industries cresce e diventa una holding industriale diversificata",
    "orig": "RK Industries Evolves Into Diversified Powerhouse",
    "lead": "Nata nel 1963 come piccola impresa meccanica nel Nebraska, la società RK Industries ha ampliato le proprie attività fino a posizionarsi al quinto posto nella classifica 2026 dei principali appaltatori specializzati nella regione degli Stati Uniti occidentali e sud-occidentali stilata dalla rivista ENR, registrando un fatturato regionale di 465,59 milioni di dollari nel 2025. Lo riferisce Engineering News-Record.",
@@ -9963,7 +9785,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "z05c945af",
-   "sez": "cucina",
+   "sez": "mondo",
    "titolo": "L'importanza di leggere l'etichetta degli spray detergenti secondo Bon Appétit",
    "orig": "Why You Should Always Read the Label on Your Cleaning Spray",
    "lead": "Un'analisi pubblicata a New York evidenzia l'importanza di leggere attentamente le etichette dei prodotti detergenti spray prima dell'uso, sottolineando che non è sufficiente spruzzare la superficie e pulire immediatamente. Lo riferisce Bon Appétit.",
@@ -10447,7 +10269,7 @@ window.EDIZIONI["2026-10-20"] = {
   },
   {
    "id": "zcd5e0705",
-   "sez": "mondo",
+   "sez": "spazio",
    "titolo": "Il presidente sudcoreano Lee Jae Myung chiede un aumento degli investimenti nei lanciatori di razzi",
    "orig": "Lee urge ‘significant’ rocket launch investment boost for national security",
    "lead": "Il presidente sudcoreano Lee Jae Myung ha sollecitato un'espansione significativa degli investimenti nei vettori di lancio spaziali e nei satelliti, sottolineandone la rilevanza strategica per la sicurezza nazionale a Seul. Lee ha evidenziato il legame tra difesa e spazio, richiamando le tensioni internazionali relative all'accesso ai servizi di comunicazione satellitare in tempo di conflitto. Lo riferisce The Korea Herald.",
@@ -10737,6 +10559,15 @@ window.EDIZIONI["2026-10-20"] = {
      "u": "https://www.ilmessaggero.it/italia/guerriglia_milano_negozi_chiusi_arresti_scontri_cosa_succede_ultime_notizie-9835512.html",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T00:08+00:00"
     }
    ],
    "data": "20 ott",
@@ -11045,6 +10876,24 @@ window.EDIZIONI["2026-10-20"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-10-19T17:33-04:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635897",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-20T06:52+02:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/restrictii-de-circulatie-in-zone-din-centrul-parisului-si-in-alte-orase-dupa-revoltele-din-toata-franta-2380703",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-20T04:32+00:00"
     }
    ],
    "data": "20 ott",
@@ -11063,7 +10912,6 @@ window.EDIZIONI["2026-10-20"] = {
   "zfab24d4a": "I media internazionali pongono in risalto la reinterpretazione in chiave elettorale statunitense delle proteste francesi, mentre le emittenti conservatrici americane collegano i disordini al dibattito sulle politiche migratorie in Europa.",
   "z1ee682b0": "I media europei evidenziano la difficile gestione dell'ordine pubblico da parte dell'esecutivo e la scelta di evitare restrizioni integrali privilegiando interventi mirati nei punti caldi.",
   "z8123ede2": "La testata evidenzia le critiche dirette del presidente ucraino contro l'amministrazione statunitense per i ritardi nelle forniture militari.",
-  "z5ac6a0bb": "Il quotidiano britannico sottolinea l'impatto economico e sociale dei disordini a Milano e l'imminente risposta militare dell'esecutivo.",
   "z1c01f067": "L'emittente mette in risalto la vertenza legale promossa dalle famiglie contro le regole d'ingresso scolastiche.",
   "z22ba432d": "Il quotidiano pone l'accento sulla longevità e sul prestigio internazionale della tradizione artigianale partenopea.",
   "zeb1ff31f": "L'agenzia sottolinea le trattative interne e comunitarie ancora aperte sulla manovra economica italiana.",
@@ -11104,7 +10952,6 @@ window.EDIZIONI["2026-10-20"] = {
   "zfecb8683": "The Hindu evidenzia l'annuncio del piano di sostegno economico per gli agricoltori e la compensazione dei costi del diesel.",
   "z87ba8f40": "La NASA evidenzia l'avvio del nuovo anno su Marte e il monitoraggio meteorologico condotto dal rover Curiosity.",
   "ze0d632e4": "Fumettologica evidenzia la capacità dei fumetti di Tillie Walden di raccontare la vulnerabilità e i sentimenti.",
-  "z127ae1df": "HotNews evidenzia lo sviluppo del nuovo strumento informatico predittivo basato sull'analisi fotografica.",
   "z8ff6dcaa": "Euronews evidenzia l'utilità ecologica dei giardini pluviali nella prevenzione degli allagamenti domestici.",
   "z36c0fe75": "Designboom evidenzia la praticità e il design della nuova tasca magnetica per smartphone.",
   "ze925bfe0": "La Cucina Italiana evidenzia la collaborazione tra gli chef e l'abbinamento tra cucina gourmet e solidarietà.",
@@ -11177,7 +11024,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z56c535bd": "Dawn evidenzia la riduzione dei prezzi dei carburanti stabilita dalle autorità pakistane.",
   "z1784a11a": "La Presse de Tunisie evidenzia il prestigioso riconoscimento internazionale conferito al tenore tunisino nella capitale italiana.",
   "zc75b2e01": "Il Giornale dell'Architettura evidenzia la necessità di preservare l'autenticità dei territori di fronte alla moltiplicazione delle settimane del design.",
-  "zd22a72ab": "Sky & Telescope evidenzia il lancio della missione giapponese verso le lune di Marte e i dettagli tecnici del razzo vettore.",
   "zf11e357d": "Medical Xpress evidenzia i risultati della ricerca longitudinale sul legame temporale tra propensione al rischio e consumo di alcol.",
   "zaceb10f6": "Il Fatto Quotidiano evidenzia la testimonianza di Rubén Giacobetti sull'esordio storico di Diego Armando Maradona.",
   "z29ae649d": "Crunchyroll News evidenzia l'arrivo dei nuovi video musicali di anime sulla propria piattaforma di streaming.",
@@ -11219,7 +11065,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z0cef9fa7": "La testata evidenzia la prestazione di rilievo dell'atleta della Papua Nuova Guinea nella competizione iridata.",
   "z9c67723b": "La testata evidenzia le dichiarazioni ufficiali della federazione calcistica sulla doppia responsabilità tecnica.",
   "zb4775720": "La testata evidenzia l'uscita dell'opera cinematografica incentrata sull'esperienza della popolazione grenadina.",
-  "zf1b0b5d6": "La testata evidenzia l'importanza economica e geopolitica dell'evento per il territorio di Hong Kong.",
   "z701c5171": "La testata evidenzia il successo della competizione golfistica nonostante le difficili condizioni meteorologiche.",
   "zeb2d6e99": "La testata evidenzia la composizione internazionale della giuria per la sezione scolastica del festival.",
   "zba2922df": "La testata evidenzia l'iniziativa sociale adottata dall'amministrazione statunitense a favore degli animali dei meno abbienti.",
@@ -11316,7 +11161,6 @@ window.EDIZIONI["2026-10-20"] = {
   "zcc26ea9c": "L'articolo adotta una prospettiva istituzionale e informativa, focalizzandosi sugli annunci e sulle dichiarazioni ufficiali del governo guineano.",
   "zcffb248c": "La notizia è presentata con un taglio tecnico e ufficiale, focalizzandosi sugli standard internazionali di sicurezza nucleare.",
   "zd8df97c4": "Il reportage adotta un approccio analitico e critico sulle nuove tecnologie applicate all'ambito scolastico ed educativo.",
-  "z162e55b3": "La testata adotta un punto di vista diplomatico e internazionale, evidenziando il rafforzamento dell'asse tra Iran e Russia.",
   "z433bbb1e": "Il servizio adotta un taglio economico-sindacale, incentrato sulle dinamiche delle trattative lavorative nazionali.",
   "zf51684fe": "La testata offre una prospettiva politica e parlamentare europea, sottolineando la polarizzazione ideologica sui disordini urbani.",
   "za49339f2": "La notizia adotta un tono critico e sindacale nei confronti delle politiche governative sulla difesa nazionale.",
@@ -11363,7 +11207,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z00519b6f": "Valorizzazione economica e culturale del patrimonio storico dell'Asia centrale.",
   "z0f49f594": "Denuncia sociale sulle condizioni critiche delle strutture di accoglienza e sul peso economico-familiare.",
   "z81b82442": "Attenzione all'innovazione tecnologica sostenibile e ai fondi europei per la transizione ecologica.",
-  "z37cfc515": "Cronaca focalizzata sulle misure di sicurezza adottate dal governo francese per arginare i disordini sociali.",
   "za917da35": "Critica politica ed economica sull'affidabilità finanziaria dello Stato nei mercati internazionali.",
   "zcbc1bc91": "Approccio culturale e artistico incentrato sull'identità nazionale e sulla promozione paesaggistica.",
   "z7dd41578": "Resoconto politico sulle tensioni istituzionali legate alle riforme costituzionali in Montenegro.",
@@ -11373,8 +11216,6 @@ window.EDIZIONI["2026-10-20"] = {
   "za5570047": "Analisi strategica e geopolitica sulle nuove dinamiche di sicurezza e cambiamento climatico nell'area artica.",
   "zd9625e0c": "Aggiornamento amministrativo su una consultazione elettorale controversa in Canada.",
   "zc65ef79f": "Attattivismo politico e tecnologico sulle controversie legate alla moderazione delle piattaforme nelle elezioni.",
-  "zeec3407d": "Cronaca locale incentrata sulle proteste sociali per il diritto alla casa e le tensioni con le forze dell'ordine.",
-  "z71f435c4": "Reportage internazionale sulle misure restrittive adottate in Francia per ristabilire l'ordine pubblico.",
   "zf8817309": "Analisi della politica tedesca sulle dinamiche di coalizione e i cambiamenti di leadership nella capitale.",
   "z636c5d7c": "Cronaca locale belga focalizzata sul passaggio di consegne istituzionale.",
   "zbc94e34c": "Attenzione puntata sul benessere organizzativo e sulla risoluzione dei conflitti amministrativi locali.",
@@ -11419,7 +11260,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z3308dadb": "La testata economica sudcoreana analizza l'avanzata dei marchi automobilistici elettrici cinesi nel mercato locale.",
   "zeb34e5bb": "Il giornale sudcoreano segue la promozione internazionale dell'industria agroalimentare nazionale nel mercato europeo.",
   "za0b2243a": "La testata sportiva evidenzia la partecipazione dei migliori atleti asiatici agli eventi motoristici e golfistici internazionali di rilievo.",
-  "za069bd4b": "Il quotidiano indiano offre una panoramica internazionale sulle tensioni di piazza che scuotono il continente europeo.",
   "zde5d6184": "Il giornale indiano riporta i dettagli giudiziari relativi alle recenti manifestazioni e ai provvedimenti restrittivi contro gli oppositori.",
   "z94af79ab": "Il quotidiano indiano segue le polemiche politiche regionali in vista degli impegni istituzionali dei leader nazionali.",
   "z5928010f": "La testata evidenzia l'apertura del mercato elettrico locale a operatori privati e i relativi investimenti infrastrutturali.",
@@ -11430,7 +11270,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z9268e40f": "Il giornale evidenzia le difficoltà sociali e i ritardi amministrativi nel post-emergenza durante le festività.",
   "z939a92ca": "La testata analizza l'impatto economico e climatico negativo sulla stagione turistica regionale.",
   "z16d169d9": "La testata enfatizza la risposta istituzionale alle preoccupazioni sanitarie della comunità locale legate allo smog.",
-  "zfd5e139b": "La testata osserva la mossa politica della giunta militare per attenuare l'isolamento diplomatico post-golpe.",
   "zed4e24f6": "La testata sottolinea i rapporti diplomatici bilaterali di alto livello tra Vietnam e Danimarca.",
   "z9672ccc4": "Il giornale evidenzia la prospettiva di rafforzamento dei legami strategici ed educativi bilaterali.",
   "ze46bb473": "La testata si concentra sulle politiche ambientali e di sostenibilità urbana della metropoli vietnamita.",
@@ -11455,7 +11294,6 @@ window.EDIZIONI["2026-10-20"] = {
   "zf85f6976": "Il quotidiano italiano rilegge gli snodi cruciali della politica estera e dei rapporti tra Italia e Libia nel passato recente.",
   "za95ab2df": "Il quotidiano esamina le contraddizioni economiche e valoriali della società contemporanea attraverso i recenti episodi di microcriminalità giovanile.",
   "z01b23e5b": "Il quotidiano italiano segue le dinamiche politiche interne e le prospettive di transizione istituzionale nel nord Africa.",
-  "z3f8635e8": "La testata offre una prospettiva di analisi politica sugli imminenti equilibri di potere nel Congresso americano.",
   "zc8d85a78": "L'emittente televisiva propone una guida alle tendenze globali del turismo alternativo e sostenibile.",
   "z459f30e7": "L'emittente accende i riflettori su un comparto economico e sportivo italiano finora privo di statistiche strutturate.",
   "zd289374c": "La testata fornisce una guida informativa di servizio in vista delle scadenze elettorali americane.",
@@ -12025,13 +11863,6 @@ window.EDIZIONI["2026-10-20"] = {
    ],
    "pt": []
   },
-  "z5ac6a0bb": {
-   "n": "Milano",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z1c01f067": {
    "n": "Washington",
    "p": [
@@ -12309,13 +12140,6 @@ window.EDIZIONI["2026-10-20"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z127ae1df": {
-   "n": "Boston",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -12828,13 +12652,6 @@ window.EDIZIONI["2026-10-20"] = {
    ],
    "pt": []
   },
-  "zd22a72ab": {
-   "n": "Tanegashima",
-   "p": [
-    "Japan"
-   ],
-   "pt": []
-  },
   "zf11e357d": {
    "n": "Bruxelles",
    "p": [
@@ -13119,13 +12936,6 @@ window.EDIZIONI["2026-10-20"] = {
    "n": "St. George's",
    "p": [
     "Grenada"
-   ],
-   "pt": []
-  },
-  "zf1b0b5d6": {
-   "n": "Hong Kong",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -13815,15 +13625,6 @@ window.EDIZIONI["2026-10-20"] = {
    ],
    "pt": []
   },
-  "z162e55b3": {
-   "n": "Roma",
-   "p": [
-    "Italy",
-    "Iran",
-    "Russia"
-   ],
-   "pt": []
-  },
   "z433bbb1e": {
    "n": "Dublino",
    "p": [
@@ -14168,14 +13969,6 @@ window.EDIZIONI["2026-10-20"] = {
    ],
    "pt": []
   },
-  "z37cfc515": {
-   "n": "Bucarest",
-   "p": [
-    "Romania",
-    "France"
-   ],
-   "pt": []
-  },
   "za917da35": {
    "n": "Podgorica",
    "p": [
@@ -14240,21 +14033,6 @@ window.EDIZIONI["2026-10-20"] = {
     "Portugal",
     "Brazil",
     "United States of America"
-   ],
-   "pt": []
-  },
-  "zeec3407d": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal"
-   ],
-   "pt": []
-  },
-  "z71f435c4": {
-   "n": "Hilversum",
-   "p": [
-    "Netherlands",
-    "France"
    ],
    "pt": []
   },
@@ -14593,15 +14371,6 @@ window.EDIZIONI["2026-10-20"] = {
    ],
    "pt": []
   },
-  "za069bd4b": {
-   "n": "Chennai",
-   "p": [
-    "France",
-    "Albania",
-    "Italy"
-   ],
-   "pt": []
-  },
   "zde5d6184": {
    "n": "Nuova Delhi",
    "p": [
@@ -14670,14 +14439,6 @@ window.EDIZIONI["2026-10-20"] = {
    "n": "Manila",
    "p": [
     "Philippines"
-   ],
-   "pt": []
-  },
-  "zfd5e139b": {
-   "n": "Manila",
-   "p": [
-    "Myanmar",
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -14857,14 +14618,6 @@ window.EDIZIONI["2026-10-20"] = {
    ],
    "pt": []
   },
-  "z3f8635e8": {
-   "n": "Roma",
-   "p": [
-    "Italy",
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zc8d85a78": {
    "n": "Roma",
    "p": [
@@ -14913,7 +14666,6 @@ window.EDIZIONI["2026-10-20"] = {
   "zfab24d4a": 3,
   "z1ee682b0": 3,
   "z8123ede2": 3,
-  "z5ac6a0bb": 2,
   "z1c01f067": 1,
   "z22ba432d": 1,
   "zeb1ff31f": 1,
@@ -14954,7 +14706,6 @@ window.EDIZIONI["2026-10-20"] = {
   "zfecb8683": 2,
   "z87ba8f40": 1,
   "ze0d632e4": 1,
-  "z127ae1df": 1,
   "z8ff6dcaa": 1,
   "z36c0fe75": 1,
   "ze925bfe0": 1,
@@ -15027,7 +14778,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z56c535bd": 1,
   "z1784a11a": 1,
   "zc75b2e01": 1,
-  "zd22a72ab": 1,
   "zf11e357d": 1,
   "zaceb10f6": 1,
   "z29ae649d": 1,
@@ -15069,7 +14819,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z0cef9fa7": 1,
   "z9c67723b": 1,
   "zb4775720": 1,
-  "zf1b0b5d6": 1,
   "z701c5171": 1,
   "zeb2d6e99": 1,
   "zba2922df": 1,
@@ -15166,7 +14915,6 @@ window.EDIZIONI["2026-10-20"] = {
   "zcc26ea9c": 1,
   "zcffb248c": 1,
   "zd8df97c4": 1,
-  "z162e55b3": 1,
   "z433bbb1e": 1,
   "zf51684fe": 1,
   "za49339f2": 1,
@@ -15213,7 +14961,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z00519b6f": 1,
   "z0f49f594": 1,
   "z81b82442": 1,
-  "z37cfc515": 1,
   "za917da35": 1,
   "zcbc1bc91": 1,
   "z7dd41578": 1,
@@ -15223,8 +14970,6 @@ window.EDIZIONI["2026-10-20"] = {
   "za5570047": 1,
   "zd9625e0c": 1,
   "zc65ef79f": 1,
-  "zeec3407d": 1,
-  "z71f435c4": 1,
   "zf8817309": 1,
   "z636c5d7c": 1,
   "zbc94e34c": 1,
@@ -15269,7 +15014,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z3308dadb": 1,
   "zeb34e5bb": 1,
   "za0b2243a": 1,
-  "za069bd4b": 1,
   "zde5d6184": 1,
   "z94af79ab": 1,
   "z5928010f": 1,
@@ -15280,7 +15024,6 @@ window.EDIZIONI["2026-10-20"] = {
   "z9268e40f": 1,
   "z939a92ca": 1,
   "z16d169d9": 1,
-  "zfd5e139b": 1,
   "zed4e24f6": 1,
   "z9672ccc4": 1,
   "ze46bb473": 1,
@@ -15305,7 +15048,6 @@ window.EDIZIONI["2026-10-20"] = {
   "zf85f6976": 1,
   "za95ab2df": 1,
   "z01b23e5b": 1,
-  "z3f8635e8": 1,
   "zc8d85a78": 1,
   "z459f30e7": 1,
   "zd289374c": 1,
