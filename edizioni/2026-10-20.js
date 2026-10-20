@@ -3,6 +3,265 @@ window.EDIZIONI["2026-10-20"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z81a6063a",
+   "sez": "mondo",
+   "titolo": "Editore di Cell indaga su accuse di tangenti dalla Cina",
+   "orig": "Cell publisher investigates editor accused of soliciting bribes from China",
+   "lead": "Cell Press ha avviato un'indagine dopo che il biologo cinese Rao Yi ha accusato il caporedattore di una rivista medica di aver sollecitato tangenti ad autori della Cina continentale, portando alla luce presunte irregolarità nelle riviste accademiche internazionali. Lo riferisce South China Morning Post – Cina.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/science/article/3371384/cell-publisher-investigates-editor-accused-soliciting-bribes-china?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T01:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc8241ec4",
+   "sez": "mondo",
+   "titolo": "L'evoluzione della dottrina di difesa attiva della Cina",
+   "orig": "The evolution of China’s active defence doctrine",
+   "lead": "La dottrina militare cinese si confronta con la storia delle grandi ritirate strategiche, ponendo a confronto la celebre evacuazione di Dunkirk della Seconda guerra mondiale con la Lunga Marcia dell'Armata Rossa cinese, studiata regolarmente nelle accademie militari di tutto il mondo. Lo riferisce South China Morning Post – Cina.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/opinion/china-opinion/article/3371344/evolution-chinas-active-defence-doctrine?utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T01:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf46393c7",
+   "sez": "mondo",
+   "titolo": "Anziani giapponesi scelgono i corsi di inglese per mantenere la mente attiva",
+   "orig": "Japanese Seniors Turn to English Classes to Stay Sharp and Social",
+   "lead": "In Giappone sempre più anziani frequentano lezioni di lingua inglese per stimolare le capacità cognitive e favorire la socializzazione, in linea con gli studi scientifici che collegano il bilinguismo a un ritardo nell'insorgenza della demenza senile. Lo riferisce Japan Forward.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Japan Forward",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://japan-forward.com/seniors-english-classes-brain-stimulation-dementi/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-19T23:31+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf85f6976",
+   "sez": "mondo",
+   "titolo": "Il fallimento del tentativo di Berlusconi di salvare Gheddafi",
+   "orig": "Neanche l’amico Berlusconi poté salvare Gheddafi. Così finiva il Colonnello sempre pronto al ricatto",
+   "lead": "A quindici anni dal linciaggio del leader libico Muammar Gheddafi nelle strade di Sirte, si rievoca il tramonto del dittatore e l'impossibilità persino per l'alleato italiano Silvio Berlusconi di evitarne la violenta uscita di scena. Lo riferisce Il Fatto Quotidiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/20/morte-gheddafi-berlusconi-libia-notizie/8543132/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T04:38+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za95ab2df",
+   "sez": "mondo",
+   "titolo": "Riflessioni sul consumismo e sul disagio giovanile dopo il furto di un quattordicenne",
+   "orig": "Vali per quello che consumi. C’è da meravigliarsi se un 14enne si sente protagonista rubando da una vetrina?",
+   "lead": "Un'analisi critica si interroga sul disagio sociale e sulla spinta al protagonismo consumistico che porta un quattordicenne a compiere un furto in vetrina, in un contesto segnato da stipendi medi ridotti e tensioni sociali diffuse. Lo riferisce Il Fatto Quotidiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/20/saccheggi-adolescenti-disagio-giovanile-consumismo-notizie/8543541/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T04:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z01b23e5b",
+   "sez": "mondo",
+   "titolo": "Egitto, Al-Sisi annuncia l'addio per il 2030 e prepara la successione",
+   "orig": "Egitto, al Sisi prepara la successione: “Via nel 2030, non mi ricandido”",
+   "lead": "Il presidente egiziano Abdel Fattah al-Sisi ha dichiarato che lascerà l'incarico nel 2030 senza modificare la Costituzione, avviando le riflessioni sul passaggio di consegne e sul ruolo della nuova élite militare per il futuro del Paese. Lo riferisce la Repubblica – Esteri.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/20/news/egitto_al_sisi_via_nel_2030_non_mi_ricandido-425659167/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T01:00+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3f8635e8",
+   "sez": "mondo",
+   "titolo": "Elezioni Midterm Usa 2026, la sfida che deciderà gli ultimi due anni di Trump",
+   "orig": "Midterm Usa 2026, l’elezione che deciderà gli ultimi due anni di Trump",
+   "lead": "Le elezioni di metà mandato negli Stati Uniti ridefiniranno gli equilibri politici a Washington, condizionando direttamente il margine d'azione e il potere del presidente Donald Trump durante l'ultima parte del suo mandato nello Studio Ovale. Lo riferisce la Repubblica – Esteri.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/10/20/news/midterm_usa_2026_repubblica_diretta_video_rubriche_newsletter-425652711/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T00:00+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc8d85a78",
+   "sez": "mondo",
+   "titolo": "Le mete di viaggio più sottovalutate e da scoprire nel 2027",
+   "orig": "Viaggi, quali sono le mete più sottovalutate da scoprire nel 2027: la classifica",
+   "lead": "Time Out ha pubblicato una speciale classifica che individua quarantuno destinazioni turistiche lontane dai circuiti di massa, consigliando le mete più originali e nascoste per chi desidera viaggiare evitando le folle nel corso del 2027. Lo riferisce Sky TG24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/lifestyle/2026/10/20/viaggi-2027-mete-sottovalutate-classifica",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z459f30e7",
+   "sez": "mondo",
+   "titolo": "Nasce in Italia l'Osservatorio nazionale per analizzare il mondo della subacquea",
+   "orig": "Quanti sono e quanto spendono i subacquei italiani? Nasce l'Osservatorio nazionale",
+   "lead": "È stato istituito l'Osservatorio nazionale per tracciare un quadro preciso dei subacquei italiani, quantificando presenze, spese per attrezzature, viaggi e immersioni al fine di colmare le lacune di dati su questo settore economico. Lo riferisce Sky TG24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/economia/2026/10/20/subacquei-italia-osservatorio-nazionale",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd289374c",
+   "sez": "mondo",
+   "titolo": "Elezioni Midterm Usa 2026: date, guida e impatto sulla presidenza Trump",
+   "orig": "Elezioni midterm Usa 2026, quando si vota e cosa dicono i sondaggi per Trump. La guida",
+   "lead": "A due settimane dall'appuntamento elettorale fissato per martedì 3 novembre, gli elettori statunitensi si preparano a rinnovare l'intera Camera dei Rappresentanti e un terzo del Senato, un voto cruciale che peserà sul secondo biennio della presidenza di Donald Trump. Lo riferisce Sky TG24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/2026/10/20/elezioni-midterm-usa-2026",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zeab8a180",
+   "sez": "mondo",
+   "titolo": "Il commissario Ue Kubilius in Lituania per discutere di sicurezza e università",
+   "orig": "EU Commissioner Kubilius to address role of universities in strengthening European security - The Baltic Times",
+   "lead": "Il commissario europeo per la Difesa e lo Spazio Andrius Kubilius ha avviato una visita ufficiale di quattro giorni in Lituania, focalizzando i suoi interventi sul contributo cruciale offerto dagli atenei nel rafforzamento della sicurezza europea. Lo riferisce The Baltic Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Baltic Times",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "http://www.baltictimes.com/eu_commissioner_kubilius_to_address_role_of_universities_in_strengthening_european_security/",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5bae053d",
+   "sez": "mondo",
+   "titolo": "La Lituania prolunga l'assistenza militare al confine con Kaliningrad",
+   "orig": "Lithuania extends military assistance on Kaliningrad border until mid-Nov - The Baltic Times",
+   "lead": "Il ministro della Difesa lituano Robertas Kaunas ha disposto la proroga del supporto militare lungo il confine con la regione russa di Kaliningrad, estendendo la misura di sicurezza straordinaria fino alla metà del mese di novembre. Lo riferisce The Baltic Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Baltic Times",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "http://www.baltictimes.com/lithuania_extends_military_assistance_on_kaliningrad_border_until_mid-nov/",
+     "angolo": "",
+     "atlas": "Lithuania"
+    }
+   ],
+   "data": "",
+   "ora": "07:46",
+   "uscita": "mattino"
+  },
+  {
    "id": "zb392e4c5",
    "sez": "mondo",
    "titolo": "La voce artistica dell'artista dislessica Lerato Motau",
@@ -11189,7 +11448,19 @@ window.EDIZIONI["2026-10-20"] = {
   "z9bf19a89": "La testata riesamina un caso di cronaca storica attraverso nuove rivelazioni documentali.",
   "z5590a661": "La testata focalizza l'attenzione sulla scoperta archeologica fortuita e sulla valorizzazione del patrimonio storico egiziano.",
   "z9a4526de": "La testata adotta una prospettiva di promozione turistica e lifestyle per viaggiatori.",
-  "z336db5a0": "La testata fornisce una panoramica informativa generale e istituzionale delle principali notizie del giorno."
+  "z336db5a0": "La testata fornisce una panoramica informativa generale e istituzionale delle principali notizie del giorno.",
+  "z81a6063a": "La testata di Hong Kong riporta le accuse mosse dal mondo accademico cinese contro le pratiche editoriali internazionali.",
+  "zc8241ec4": "Il quotidiano analizza la storia militare comparando episodi occidentali e tappe fondamentali della tradizione strategica cinese.",
+  "zf46393c7": "La testata giapponese focalizza l'attenzione sui benefici del bilinguismo e dell'apprendimento per il benessere della terza età.",
+  "zf85f6976": "Il quotidiano italiano rilegge gli snodi cruciali della politica estera e dei rapporti tra Italia e Libia nel passato recente.",
+  "za95ab2df": "Il quotidiano esamina le contraddizioni economiche e valoriali della società contemporanea attraverso i recenti episodi di microcriminalità giovanile.",
+  "z01b23e5b": "Il quotidiano italiano segue le dinamiche politiche interne e le prospettive di transizione istituzionale nel nord Africa.",
+  "z3f8635e8": "La testata offre una prospettiva di analisi politica sugli imminenti equilibri di potere nel Congresso americano.",
+  "zc8d85a78": "L'emittente televisiva propone una guida alle tendenze globali del turismo alternativo e sostenibile.",
+  "z459f30e7": "L'emittente accende i riflettori su un comparto economico e sportivo italiano finora privo di statistiche strutturate.",
+  "zd289374c": "La testata fornisce una guida informativa di servizio in vista delle scadenze elettorali americane.",
+  "zeab8a180": "Il giornale baltico documenta l'agenda istituzionale europea legata alle politiche di difesa nella regione.",
+  "z5bae053d": "Il quotidiano regionale segue l'evoluzione delle misure di sorveglianza e difesa lungo i confini baltici con la Russia."
  },
  "contesti": {
   "z2493abe1": "Nelle ultime settimane la Terra ha iniziato ad attraversare la densa fascia di detriti cometari, provocando un graduale incremento delle meteore visibili. Gli osservatori astronomici internazionali hanno monitorato la progressione del fenomeno, segnalando la finestra temporale migliore per avvistare il picco di attività nel corso della seconda metà di ottobre.",
@@ -14542,6 +14813,94 @@ window.EDIZIONI["2026-10-20"] = {
    "n": "Lione",
    "p": [],
    "pt": []
+  },
+  "z81a6063a": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zc8241ec4": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zf46393c7": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zf85f6976": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za95ab2df": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z01b23e5b": {
+   "n": "Roma",
+   "p": [
+    "Italy",
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z3f8635e8": {
+   "n": "Roma",
+   "p": [
+    "Italy",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc8d85a78": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z459f30e7": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd289374c": {
+   "n": "Roma",
+   "p": [
+    "Italy",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zeab8a180": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z5bae053d": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania",
+    "Russia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -14939,7 +15298,19 @@ window.EDIZIONI["2026-10-20"] = {
   "z9bf19a89": 1,
   "z5590a661": 1,
   "z9a4526de": 1,
-  "z336db5a0": 1
+  "z336db5a0": 1,
+  "z81a6063a": 1,
+  "zc8241ec4": 1,
+  "zf46393c7": 1,
+  "zf85f6976": 1,
+  "za95ab2df": 1,
+  "z01b23e5b": 1,
+  "z3f8635e8": 1,
+  "zc8d85a78": 1,
+  "z459f30e7": 1,
+  "zd289374c": 1,
+  "zeab8a180": 1,
+  "z5bae053d": 1
  },
  "video": {},
  "pillole": []
