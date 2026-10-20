@@ -3,6 +3,931 @@ window.EDIZIONI["2026-10-20-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z4795e0c6",
+   "sez": "mondo",
+   "titolo": "Paraguay: il TSJE annuncia sanzioni per chi non vota alle elezioni del 2027",
+   "orig": "PGN 2027: TSJE anuncia cobro de multas por no votar y legisladores cuestionan el padrón",
+   "lead": "Il presidente del Tribunale superiore di giustizia elettorale di Asunción, Jorge Bogarín, ha annunciato l'introduzione di una procedura per riscuotere le multe nei confronti dei cittadini che non si recheranno alle urne senza giustificazione in vista del PGN 2027. La decisione ha tuttavia sollevato interrogativi e critiche da parte dei legislatori riguardo all'affidabilità del padrone elettorale. Lo riferisce ABC Color.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/politica/2026/10/20/pgn-2027-tsje-anuncia-cobro-de-multas-por-no-votar-y-legisladores-cuestionan-el-padron/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-20T17:49+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "za77fa283",
+   "sez": "mondo",
+   "titolo": "Burkina Faso: magistrati e avvocati a Ouagadougou per un seminario sul diritto dell'UEMOA",
+   "orig": "Burkina/Justice : 50 avocats et magistrats sensibilisés au droit communautaire de l'UEMOA",
+   "lead": "La Corte di giustizia dell'Unione economica e monetaria ouest-africana ha inaugurato a Ouagadougou un seminario di quattro giorni per formare circa 50 tra avvocati e magistrati. L'evento, iniziato il 20 ottobre 2026, mira a rafforzare le competenze giuridiche e l'applicazione dei testi comunitari nei tribunali della regione. Lo riferisce Lefaso.net.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150081",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-20T17:38+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf12e0046",
+   "sez": "mondo",
+   "titolo": "Burkina Faso: si apre a Ouagadougou la quinta edizione di Translog Africa 2026",
+   "orig": "Burkina/Transport et logistique : La résilience logistique au centre des débats à la 5ᵉ édition de Translog Africa 2026",
+   "lead": "Si è aperta a Ouagadougou la quinta edizione del simposio internazionale Translog Africa 2026, incentrato sul tema della resilienza logistica. L'evento, organizzato dal Consiglio burkinabè dei caricatori dal 20 al 22 ottobre, è stato inaugurato dal presidente dell'Assemblea legislativa Ousmane Bougouma in rappresentanza del capo dello Stato Ibrahim Traoré. Lo riferisce Lefaso.net.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150077",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-20T17:38+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150082",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-20T17:37+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8592f2a5",
+   "sez": "mondo",
+   "titolo": "Burkina Faso: lanciato a Ouagadougou il progetto RESYPE per la protezione dell'infanzia",
+   "orig": "Burkina/Protection de l'enfance : Le projet RESYPE officiellement lancé",
+   "lead": "Il ministero della Famiglia del Burkina Faso, in collaborazione con il Centro italiano d'aide à l'enfance, ha lanciato ufficialmente a Ouagadougou il progetto RESYPE. L'iniziativa, della durata di 18 mesi, punta a migliorare la tutela dei minori vulnerabili, prevenire l'abbandono e garantire il diritto dei bambini a crescere in un contesto familiare sicuro. Lo riferisce Lefaso.net.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150078",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-20T17:37+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z13e6247d",
+   "sez": "mondo",
+   "titolo": "Burkina Faso: finanza digitale e sovranità al centro della fiera Le Faso Digital 2026",
+   "orig": "Le Faso Digital 2026 : La finance numérique, un levier d'inclusion à concilier avec la souveraineté, selon Dr Corinne Nikiéma",
+   "lead": "La seconda edizione della fiera virtuale Le Faso Digital ha ospitato una conferenza incentrata sul bilanciamento tra inclusione finanziaria e sovranità degli Stati. Durante l'evento online, organizzato il 20 ottobre 2026, l'esperta Corinne Nikiéma ha discusso le sfide e le opportunità dell'innovazione tecnologica applicata ai servizi finanziari per tutti i cittadini. Lo riferisce Lefaso.net.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150076",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-20T17:36+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z01ee2e12",
+   "sez": "mondo",
+   "titolo": "Andorra: completata la perforazione del tunnel di Rocafort con la connessione dei due imbocchi",
+   "orig": "Rocafort veu la llum",
+   "lead": "Ad Andorra la Vella è stata completata la perforazione del tunnel laurediano di Rocafort grazie all'avvenuta connessione dei due imbocchi opposti. L'importante infrastruttura viaria vede così concretizzarsi una tappa fondamentale per il completamento dell'opera di collegamento nel territorio. Lo riferisce Bondia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/rocafort-veu-la-llum",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-20T18:52+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "za5fc50a2",
+   "sez": "mondo",
+   "titolo": "Andorra: la proposta sostenibile di FEDA per la fiera di Andorra la Vella",
+   "orig": "Una ciutat sostenible que es construirà amb les aportacions dels visitants, proposta de FEDA per la Fira d'Andorra la Vella",
+   "lead": "In occasione della Fiera di Andorra la Vella, la società FEDA ha presentato il progetto per la costruzione di una città sostenibile finanziata anche attraverso i contributi dei visitatori. Al centro dello spazio espositivo vi sarà inoltre la nuova applicazione mobile della compagnia energetica. Lo riferisce Bondia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/una-ciutat-sostenible-que-es-construira-amb-les-aportacions-dels-visitants-proposta-de-feda-per-la-fira-d-andorra-la-vella",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-20T18:36+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z264ab731",
+   "sez": "mondo",
+   "titolo": "Andorra: il raonador del ciudadano incontra il difensore civico spagnolo Ángel Gabilondo",
+   "orig": "Cañada comparteix experiències en la defensa dels drets i les llibertats de la ciutadania amb el seu homòleg espanyol",
+   "lead": "Il difensore dei diritti e delle libertà dei cittadini di Andorra, Cañada, ha condiviso le proprie esperienze istituzionali con l'omologo spagnolo Ángel Gabilondo. L'incontro ha permesso di rafforzare la cooperazione e i rapporti bilaterali tra le due autorità di garanzia. Lo riferisce Bondia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/canada-comparteix-experiencies-en-la-defensa-dels-drets-i-les-llibertats-de-la-ciutadania-amb-el-seu-homoleg-espanyol",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-20T17:25+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd75db748",
+   "sez": "mondo",
+   "titolo": "Senegal: il presidente Bassirou Diomaye Faye si rivolge alla nazione",
+   "orig": "Actualité : Le Président Diomaye prend la parole",
+   "lead": "Il presidente della Repubblica del Senegal, Bassirou Diomaye Faye, ha tenuto un discorso pubblico da Dakar per affrontare le principali questioni di attualità politica e istituzionale del Paese. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/actualite-le-president-diomaye-prend-la-parole_n_999001259.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T17:26+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z568e8916",
+   "sez": "mondo",
+   "titolo": "Senegal: il richiamo religioso di Oustaz Makhtar Sarr sul valore della preghiera",
+   "orig": "Dahira bi Oustaz Makhtar Sarr: Tontu Ngóor sii ne julli farata, ku mu faat doo ko fay !",
+   "lead": "Nel corso del programma Dahira bi condotto da Oustaz Makhtar Sarr a Dakar, sono state ribadite le prescrizioni religiose fondamentali legate all'importanza inderogabile della preghiera islamica e ai doveri dei fedeli. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/EN%20DIRECT/dahira-bi-oustaz-makhtar-sarr-tontu-ngoor-sii-ne-julli-farata-ku-mu-faat-doo-ko-fay_n_999001256.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T16:51+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z31c70102",
+   "sez": "mondo",
+   "titolo": "Senegal: Doudou Wade replica a Ousmane Sonko sulle regole costituzionali della LFR 2026",
+   "orig": "Débat budgétaire sur la LFR 2026 : Doudou Wade rappelle les règles constitutionnelles à Ousmane Sonko",
+   "lead": "L'ex parlamentare senegalese Doudou Wade è intervenuto nel dibattito sulla legge di bilancio rettificativa (LFR) 2026, richiamando Ousmane Sonko alle regole costituzionali dopo che il partito PASTEF aveva annunciato la propria intenzione di non votare il testo nella sua forma attuale. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/debat-budgetaire-sur-la-lfr-2026-doudou-wade-rappelle-les-regles-constitutionnelles-a-ousmane-sonko_n_999001255.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T16:40+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3b5d9a34",
+   "sez": "mondo",
+   "titolo": "Niger: contenuta la fuoriuscita accidentale di petrolio greggio, annunciato un pozzo di soccorso",
+   "orig": "Éruption accidentelle de pétrole brut au Niger : Le déversement déjà contenu, un puits de secours bientôt réalisé",
+   "lead": "Le autorità del Niger hanno confermato che il recente sversamento accidentale di petrolio greggio nel Paese è stato interamente circoscritto. Il ministro del Petrolio Hamadou Tini e il collega dell'Ambiente Maizama Abdoulaye hanno inoltre annunciato la rapida realizzazione di un pozzo di soccorso durante una conferenza stampa. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Afrique/eruption-accidentelle-de-petrole-brut-au-niger-le-deversement-deja-contenu-un-puits-de-secours-bientot-realise_n_999001254.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T16:28+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3e52063a",
+   "sez": "mondo",
+   "titolo": "Ciad: il ministero dell'Istruzione adotta misure di prevenzione contro l'epidemia di dengue",
+   "orig": "Épidémie de dengue : le ministère de l’Enseignement supérieur prend des mesures de prévention",
+   "lead": "A seguito della preoccupante diffusione della dengue, il ministro dell'Enseignement supérieur del Ciad, Sitack Yombatina, ha diramato una circolare con nuove disposizioni sanitarie. Le misure di prevenzione e contrasto all'epidemia sono state estese a tutte le strutture e agli istituti di istruzione dipendenti dal dicastero. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/20/epidemie-de-dengue-le-ministere-de-lenseignement-superieur-prend-des-mesures-de-prevention/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-20T17:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6602a50b",
+   "sez": "mondo",
+   "titolo": "Ciad: sventato un potenziale conflitto intercommunautaire nel Logone oriental dopo un furto di bestiame",
+   "orig": "Logone oriental : une altercation liée au vol de bœufs a failli dégénérer en conflit intercommunautaire à Bekibi",
+   "lead": "Nel villaggio di Bekibi, situato nel dipartimento della Nya Pendé in Ciad, una violenta lite innescata dal furto di diciassette bovini ha rischiato di degenerare in uno scontro intercommunautaire il 17 ottobre 2026. La pronta mobilitazione delle autorità ha permesso di ristabilire la calma nella zona. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/20/logone-oriental-une-altercation-liee-au-vol-de-boeufs-a-failli-degenerer-en-conflit-intercommunautaire-a-bekibi/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-20T16:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4739fb8e",
+   "sez": "mondo",
+   "titolo": "Ciad: al via l'atelier regionale per la resilienza alimentare e l'occupazione giovanile nel Sahel",
+   "orig": "Une réponse régionale face aux défis du Sahel",
+   "lead": "Il ministro dell'Ambiente del Ciad, Hassan Bakhit Djamous, ha inaugurato a N'Djamena l'atelier strategico regionale per la preparazione del programma PIRSA/EJ Sahel. L'iniziativa mira a fronteggiare le crisi alimentari e occupazionali che colpiscono milioni di persone nell'area saheliana. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/20/une-reponse-regionale-face-aux-defis-du-sahel/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-20T16:10+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z402ba629",
+   "sez": "mondo",
+   "titolo": "Guinea: il ministero richiama i dirigenti dell'OGP a una rigorosa trasparenza amministrativa",
+   "orig": "Souleymane Thianguel aux DG et DGA de l’OGP : « le département sera particulièrement attentif à la régularité de la gestion »",
+   "lead": "A seguito delle difficoltà istituzionali e delle crisi interne che hanno segnato l'Office Guinéen de Publicité negli ultimi anni, il ministero della Comunicazione guineano ha ribadito la necessità di una gestione trasparente e regolare. Il funzionario Souleymane Thianguel ha sottolineato la massima attenzione della tutela ministeriale durante l'insediamento dei nuovi vertici a Conakry. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/souleymane-thianguel-aux-dg-et-dga-de-logp-le-departement-sera-particulierement-attentif-a-la-regularite-de-la-gestion/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T17:56+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf1061840",
+   "sez": "mondo",
+   "titolo": "Guinea: l'ex funzionario Almamy Condé giustifica i propri beni con investimenti agricoli davanti alla CRIEF",
+   "orig": "CRIEF : Almamy Condé justifie l’origine de ses biens par des investissements agricoles",
+   "lead": "Almamy Condé, ex capo ad interim della sezione operazioni in valuta del Tesoro pubblico della Guinea, è comparso davanti alla camera degli appelli della Corte di repressione delle infrazioni economiche e finanziarie a Conakry. Durante l'udienza del 20 ottobre 2026, l'imputato ha respinto le accuse giustificando l'origine del proprio patrimonio con attività e investimenti agricoli. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/crief-almamy-conde-justifie-lorigine-de-ses-biens-par-des-investissements-agricoles/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T17:42+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z00f6eefc",
+   "sez": "mondo",
+   "titolo": "Guinea: insediati i nuovi vertici dell'OGP a Conakry tra rivendicazioni sindacali e promesse di rilancio",
+   "orig": "Prise de fonction à l’OGP : le syndicat dépose son cahier de doléances, le DGA assure de sa disponibilité",
+   "lead": "Il nuovo direttore generale dell'Office Guinéen de Publicité, Mohamed Bangoura, e il suo vice si sono insediati ufficialmente a Conakry raccogliendo il cahier de doléances presentato dal sindacato dei lavoratori. La nuova dirigenza si è impegnata a rispondere alle priorità dei dipendenti per superare la fase di crisi e turbolenze interne che ha segnato l'ente negli ultimi anni. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/prise-de-fonction-a-logp-le-syndicat-depose-son-cahier-de-doleances-le-dga-assure-de-sa-disponibilite/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T16:25+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6972fa64",
+   "sez": "mondo",
+   "titolo": "Guinea: Conakry ospita la quinta edizione del WCAF per rilanciare la cooperazione economico-finanziaria",
+   "orig": "Coopération britanno-africaine : Conakry accueille la 5ème édition du WCAF",
+   "lead": "Sotto la leadership del presidente Mamadi Doumbouya, la Repubblica di Guinea ha inaugurato a Conakry la quinta edizione del UK-Francophone West & Central Africa Trade & Investment Forum. L'evento internazionale, organizzato da DMA, punta a rafforzare la cooperazione economica tra il Regno Unito e i Paesi dell'Africa occidentale e centrale. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/cooperation-britanno-africaine-conakry-accueille-la-5eme-edition-du-wcaf/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T15:49+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4f755787",
+   "sez": "mondo",
+   "titolo": "Camerun: sequestrate a Maroua 13.000 compresse di tramadol provenienti dal Nigeria",
+   "orig": "Maroua : saisie de 13 000 comprimés de tramadol en provenance du Nigeria",
+   "lead": "Gli agenti della Zona III dell'operazione HALCOMI IV hanno intercettato e sequestrato 13.000 compresse di tramadol il 19 ottobre 2026 a Maroua, in Camerun. Il farmaco, oggetto di traffico illecito, proveniva dal vicino Nigeria. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/20/maroua-saisie-de-13-000-comprimes-de-tramadol-en-provenance-du-nigeria/",
+     "angolo": "",
+     "atlas": "Cameroon"
+    }
+   ],
+   "data": "",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z77558358",
+   "sez": "mondo",
+   "titolo": "Camerun: il MRC denuncia attacchi diffamatori contro Maurice Kamto e si rivolge al CNC",
+   "orig": "Le MRC dénonce des propos diffamatoires contre Maurice Kamto et interpelle le CNC",
+   "lead": "Il Mouvement pour la Renaissance du Cameroun ha condannato fermamente le dichiarazioni ritenute diffamatorie trasmesse da Times TV nei confronti del leader Maurice Kamto, contestando inoltre l'invito rivolto a un ex membro del partito. La formazione politica ha presentato un esposto ufficiale al Consiglio nazionale della comunicazione (CNC). Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/20/le-mrc-denonce-des-propos-diffamatoires-contre-maurice-kamto-et-interpelle-le-cnc/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-20T15:20+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/20/le-mrc-denonce-les-medias-mille-collines-au-cameroun-un-appel-urgent-a-la-responsabilite-de-letat/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-20T15:27+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2b75e940",
+   "sez": "mondo",
+   "titolo": "Guinea: Conakry ospiterà l'Assemblea generale elettiva della Federazione mondiale di Minifootball nel 2027",
+   "orig": "Minifootball : la Fédération mondiale convoque son Assemblée générale élective à Conakry en janvier 2027",
+   "lead": "La Guinea si prepara a diventare il centro del minifootball internazionale accogliendo a Conakry, il 20 gennaio 2027, l'Assemblea generale ordinaria ed elettiva della World Minifootball Federation. La convocazione ufficiale inviata alle federazioni membri conferma che all'ordine del giorno vi sarà il rinnovo dei vertici dell'organizzazione mondiale. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/minifootball-la-federation-mondiale-convoque-son-assemblee-generale-elective-a-conakry-en-janvier-2027/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T17:35+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zeba5a16f",
+   "sez": "mondo",
+   "titolo": "Guinea: il ministro delle Infrastrutture annuncia l'avvio imminente dei lavori sull'asse Hamdallaye-Sonfonia",
+   "orig": "Route Hamdallaye-Sonfonia T7 : « les travaux seront bientôt lancés », annonce le ministre des Infrastructures",
+   "lead": "Il governo della Guinea ha annunciato l'imminente avvio dei cantieri per la riqualificazione e l'ammodernamento dell'asse stradale che collega Hamdallaye al rond-point di Kipé, Lambanyi e Sonfonia T7 a Conakry. Il ministro delle Infrastrutture Facinet Sylla ha confermato la trasformazione viaria nel corso di una dichiarazione ufficiale rilasciata il 20 ottobre 2026. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/route-hamdallaye-sonfonia-t7-les-travaux-seront-bientot-lances-annonce-le-ministre-des-infrastructures/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T15:31+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z43077305",
+   "sez": "mondo",
+   "titolo": "Riunione presidenziale in Mauritania per valutare l'attivazione di 28 centri sanitari a Nouakchott",
+   "orig": "اجتماع بالرئاسة لتقييم تحضيرات تشغيل 28 مركزا صحيا بنواكشوط",
+   "lead": "Il presidente mauritano Mohamed Ould Ghazouani ha presieduto un incontro mirato a valutare i preparativi per l'entrata in funzione di ventotto centri sanitari nella capitale Nouakchott, al fine di potenziare i servizi assistenziali per la popolazione locale. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad7a7687162110001e51900/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-20T17:40+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6e1c8769",
+   "sez": "mondo",
+   "titolo": "Finanziamento europeo per migliorare le condizioni di vita nei quartieri periferici di Nouakchott",
+   "orig": "تمويل أوروبي لتحسين ظروف معيشة سكان الأحياء الطرفية بنواكشوط",
+   "lead": "La regione di Nouakchott e l'Unione Europea hanno sottoscritto un accordo di finanziamento volto a migliorare le condizioni di vita dei residenti nelle zone periferiche della capitale della Mauritania, intervenendo sullo sviluppo urbano e sociale. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad799317162110001e518e4/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-20T16:39+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze6d956e1",
+   "sez": "mondo",
+   "titolo": "Capo Verde, i certificati di casellario giudiziale e denunce di Santiago Norte saranno emessi ad Assomada",
+   "orig": "Pedidos de Cadastro Policial e Declaração de Queixa, de Santiago Norte, vão passar a ser emitidos em Assomada",
+   "lead": "La Polizia Giudiziaria di Capo Verde ha annunciato che i residenti della regione di Santiago Norte potranno richiedere i certificati di casellario giudiziale e le denunce direttamente ad Assomada. Il servizio sarà attivo presso il Dipartimento di Investigazione Criminale. Lo riferisce Expresso das Ilhas.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/20/pedidos-de-cadastro-policial-e-declaracao-de-queixa-de-santiago-norte-vao-passar-a-ser-emitidos-em-assomada/105172",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-20T15:34+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zef5f1c6b",
+   "sez": "mondo",
+   "titolo": "Inaugurato un nuovo reparto di anestesia e rianimazione all'ospedale Sahloul con un costo di oltre 13 milioni di dinari",
+   "orig": "بكلفة تتجاوز 13 مليون دينار.. قسم جديد للتبنيج والإنعاش بمستشفى سهلول",
+   "lead": "È stato inaugurato un nuovo reparto di anestesia e rianimazione presso l'ospedale Sahloul, in Tunisia, realizzato con un investimento superiore ai 13 milioni di dinari per potenziare le strutture sanitarie locali e l'efficienza dei servizi d'emergenza. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1534099/%D8%A8%D9%83%D9%84%D9%81%D8%A9-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-13-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%82%D8%B3%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AA%D8%A8%D9%86%D9%8A%D8%AC-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D8%B9%D8%A7%D8%B4-%D8%A8%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%B3%D9%87%D9%84%D9%88%D9%84",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-20T17:22+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z77b3af4c",
+   "sez": "mondo",
+   "titolo": "Ligue 1 RDC: il CS Don Bosco fermato sull'1-1 dal Malole nella giornata inaugurale",
+   "orig": "Ligue 1: Des regrets pour le CS Don Bosco devant Malole",
+   "lead": "Il Cercle Sportif Don Bosco ha pareggiato per uno a uno contro la formazione del Malole nella partita d'esordio del campionato nazionale di calcio della Repubblica Democratica del Congo, valida per la prima giornata della Ligue 1. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/20/ligue-1-des-regrets-pour-le-cs-don-bosco-devant-malole",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T17:38+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5053553f",
+   "sez": "mondo",
+   "titolo": "Ligue 1 RDC: l'Étoile du Congo sorprende il FC Les Aigles du Congo all'esordio",
+   "orig": "Ligue 1 : Étoile du Congo surprend le FC Les Aigles du Congo en ouverture",
+   "lead": "L'AS Étoile du Congo di Kisangani ha debuttato con una vittoria di misura per uno a zero contro il FC Les Aigles du Congo, allo stadio Tata Raphaël di Kinshasa, in un incontro valido per la prima giornata del campionato di Ligue 1 della Repubblica Democratica del Congo. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/20/ligue-1-etoile-du-congo-surprend-le-fc-les-aigles-du-congo-en-ouverture",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T17:07+00:00"
+    },
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/20/ligue-1-timide-entree-pour-le-fc-celeste-accroche-par-le-fc-mk-au-stade-tata-raphael",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T17:03+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf7b6d567",
+   "sez": "mondo",
+   "titolo": "Campagna di richiamo airbag Takata: Toyota invita i conducenti in RDC a fare controllare i veicoli",
+   "orig": "Campagne de rappel Airbag Takata : Yoyota appelle les conducteurs en RDC à faire vérifier leurs véhicules gratuitement",
+   "lead": "A seguito della campagna di richiamo globale legata agli airbag difettosi della Takata, la Toyota ha esortato tutti i conducenti della Repubblica Democratica del Congo a sottoporre i propri veicoli a un controllo di sicurezza gratuito. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/20/campagne-de-rappel-airbag-takata-yoyota-appelle-les-conducteurs-en-rdc-faire-verifier",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T17:04+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3db1f6cc",
+   "sez": "mondo",
+   "titolo": "Ligue 1 RDC: l'AC Rangers conquista un punto in trasferta contro il Dauphin Noir",
+   "orig": "Ligue 1: L’Ac Rangers accroche un premier point en déplacement devant Dauphin Noir",
+   "lead": "L'AC Rangers ha pareggiato a reti inviolate sul campo dell'AS Dauphin Noir, conquistando il suo primo punto in trasferta in occasione della giornata inaugurale del campionato di calcio di Ligue 1 della Repubblica Democratica del Congo. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/20/ligue-1-lac-rangers-accroche-un-premier-point-en-deplacement-devant-dauphin-noir",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T16:52+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "za62b7df7",
+   "sez": "mondo",
+   "titolo": "Panama, le piogge di ottobre non compensano il deficit idrico accumulato",
+   "orig": "Lluvias de octubre no compensan el déficit acumulado en Panamá",
+   "lead": "Le intense precipitazioni registrate a Panama in brevi periodi continuano a causare disagi significativi, generando forti deflussi superficiali, inondazioni e straripamenti fluviali, pur non riuscendo a colmare del tutto il deficit idrico accumulato nel Paese centroamericano. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/lluvias-de-octubre-no-compensan-el-deficit-acumulado-en-panama-1267705",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4f04fd0b",
+   "sez": "mondo",
+   "titolo": "Panama, le associazioni imprenditoriali chiedono l'urgente riattivazione delle attività commerciali",
+   "orig": "Empresarios urgen a reactivar los negocios",
+   "lead": "Le associazioni imprenditoriali APEDE e CCIAP a Panama hanno lanciato un appello urgente per la riattivazione delle attività economiche, mettendo in guardia sui pesanti danni subiti da commerci, hotel, ristoranti, produttori e lavoratori autonomi. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/economia/empresarios-urgen-reactivar-los-negocios-1267688",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4fe8d1be",
+   "sez": "mondo",
+   "titolo": "Panama, scontro di opinioni e sospensione temporanea del dibattito sulle riforme all'Assemblea Nazionale",
+   "orig": "Choque de opiniones suspende discusión de reformas en la AN",
+   "lead": "A causa di forti divergenze di vedute all'interno dell'Assemblea Nazionale di Panama, i lavori di analisi sul progetto di riforma del Codice Elettorale sono stati temporaneamente sospesi in attesa della ripresa del dibattito in plenaria. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/politica/choque-de-opiniones-suspende-discusion-de-reformas-en-la-1267681",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7ce98997",
+   "sez": "mondo",
+   "titolo": "Haiti, una panoramica delle principali notizie di attualità nazionale",
+   "orig": "Haïti - Actualité : Zapping",
+   "lead": "Il notiziario di Haiti riassume i recenti avvenimenti nel Paese caraibico, tra cui la contestata tassa sulla casa a Carrefour, gli attacchi registrati ad Artibonite nella zona di Petite Rivière, la nomina della prima donna Ati nel Vudù e l'accelerazione dell'inflazione mensile. Lo riferisce Haïti Libre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48707-haiti-actualite-zapping.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-10-20T11:25-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7cd8154f",
+   "sez": "mondo",
+   "titolo": "Bolivia, la municipalità di Sacaba lancia una campagna di vaccinazione antirabbica per il fine settimana",
+   "orig": "Sacaba lanza campaña de vacunación antirrábica para este fin de semana",
+   "lead": "La città boliviana di Sacaba ha annunciato una campagna di vaccinazione antirabbica programmata per il fine settimana, con l'obiettivo di proteggere oltre centoventiseimila animali da compagnia, tra cani e gatti, su tutto il territorio comunale. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cochabamba/sacaba-lanza-campana-vacunacion-antirrabica-fin-semana/20261020132859997909.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-20T13:28-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6f093eab",
+   "sez": "mondo",
+   "titolo": "L'opera 'El Huaso Chileno' del pittore boliviano Antonio Sotomayor nella Cattedrale Anglicana di San Francisco",
+   "orig": "El Huaso Chileno de la Catedral Anglicana de San Francisco, California: Obra Maestra del Pintor Boliviano Antonio Sotomayor",
+   "lead": "La Cattedrale Episcopale di Grace Cathedral a San Francisco, in California, ospita una celebre opera d'arte realizzata dal pittore boliviano Antonio Sotomayor, intitolata 'El Huaso Chileno', situata all'interno di uno dei quartieri più prestigiosi della città. Lo riferisce Opinión (Bolivia).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cultura/huaso-chileno-catedral-anglicana-san-francisco-california-obra-maestra-pintor-boliviano-antonio-sotomayor/20261020115751997878.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-20T11:57-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9a69a0c3",
+   "sez": "mondo",
+   "titolo": "L'Unione Europea si attrezza per affrontare le crescenti sfide geopolitiche e i conflitti nell'Artico",
+   "orig": "EU wappnet sich für Konflikte in der Arktis",
+   "lead": "L'Unione Europea ha avviato una strategia di rafforzamento e preparazione geopolitica per fronteggiare la crescente competizione e i potenziali conflitti nell'area dell'Artico, un quadrante strategico di fondamentale importanza per gli equilibri globali. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445682/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-20T19:28+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd3fe8814",
+   "sez": "mondo",
+   "titolo": "Guerra in Ucraina, l'analisi dell'esperto Gerhard Mangott sui recenti attacchi",
+   "orig": "Ukraine-Experte Mangott zu jüngsten Angriffen",
+   "lead": "L'esperto di questioni ucraine Gerhard Mangott ha offerto un'analisi approfondita in merito ai recenti attacchi militari registrati sul fronte, esaminando le tattiche adottate e le possibili evoluzioni strategiche del conflitto in corso. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445680/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-20T18:47+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze9577a09",
+   "sez": "mondo",
+   "titolo": "Bulgaria, un aereo militare degli Stati Uniti effettua pattugliamenti di sorveglianza sul Mar Nero",
+   "orig": "Bulgarien: US-Flugzeug patrouilliert über Schwarzem Meer",
+   "lead": "Un velivolo militare delle forze armate statunitensi è stato impiegato per compiere missioni di pattugliamento e sorveglianza nei cieli sovrastanti il Mar Nero, partendo dai territori della Bulgaria nel contesto delle attività di monitoraggio della regione. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445678/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-20T18:29+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
+   "id": "z63347e23",
+   "sez": "mondo",
+   "titolo": "Corte dei conti austriaca: dispersi cinquanta miliardi di euro di fondi legati al Covid-19 nella gestione amministrativa",
+   "orig": "ERH: 50 Mrd. CoV-Gelder für Verwaltung versickert",
+   "lead": "Secondo una verifica condotta dalla Corte dei conti austriaca (ERH), circa cinquanta miliardi di euro di fondi stanziati per la gestione della pandemia di Covid-19 sarebbero andati dispersi o assorbiti dalle pieghe della macchina amministrativa statale. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445674/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-20T17:58+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "20:30",
+   "uscita": "sera"
+  },
+  {
    "id": "z76210d8c",
    "sez": "mondo",
    "titolo": "Parigi impone un nuovo coprifuoco notturno e il premier accusa l'estrema sinistra",
@@ -32373,7 +33298,48 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z0bdca746": "Analisi economica sugli investimenti esteri diretti e sul mercato immobiliare aziendale.",
   "z06ee739d": "Informazione incentrata sul business, sull'imprenditoria e sui forum di sviluppo economico.",
   "z7c0d9eb9": "Cronaca dell'emergenza maltempo e degli interventi di supporto statale in Ecuador.",
-  "z7f533754": "Articolo di viaggio e promozione turistica di destinazioni internazionali."
+  "z7f533754": "Articolo di viaggio e promozione turistica di destinazioni internazionali.",
+  "z4795e0c6": "L'articolo adotta un punto di vista istituzionale e politico, evidenziando il braccio di ferro tra le autorità elettorali e il Parlamento sulla gestione delle sanzioni e delle liste.",
+  "za77fa283": "La testata adotta un approccio informativo e istituzionale, focalizzandosi sull'integrazione giuridica regionale e sulla cooperazione professionale in Africa occidentale.",
+  "zf12e0046": "La testata privilegia una copertura istituzionale ed economica, sottolineando l'importanza strategica dei trasporti e della logistica per lo sviluppo regionale del Sahel.",
+  "z8592f2a5": "La testata adotta un punto di vista sociale e umanitario, ponendo l'accento sulla cooperazione internazionale e sui diritti dell'infanzia.",
+  "z13e6247d": "La testata adotta una prospettiva tecnologica ed economica, analizzando l'impatto della digitalizzazione sullo sviluppo e sull'indipendenza economica nazionale.",
+  "z01ee2e12": "La testata offre una notizia di cronaca locale e infrastrutturale, concentrandosi sull'avanzamento dei lavori pubblici di rilevanza nazionale.",
+  "za5fc50a2": "La testata adotta una prospettiva locale e promozionale, evidenziando le novità tecnologiche e di sostenibilità presentate dalle aziende territoriali.",
+  "z264ab731": "La testata adotta un punto di vista istituzionale e diplomatico, sottolineando la collaborazione transfrontaliera nella tutela dei diritti umani.",
+  "zd75db748": "La testata adotta un taglio istituzionale e informativo, focalizzandosi sugli annunci e sulle prese di posizione ufficiali della presidenza.",
+  "z568e8916": "La testata adotta un punto di vista culturale e religioso, focalizzandosi sulla divulgazione dei precetti islamici per la comunità.",
+  "z31c70102": "La testata adotta una prospettiva di analisi politica interna, mettendo in luce il confronto istituzionale e le divergenze tra esponenti politici sulla gestione della spesa pubblica.",
+  "z3b5d9a34": "La testata adotta un tono istituzionale e informativo, ponendo l'attenzione sulla gestione delle emergenze ambientali ed energetiche nazionali.",
+  "z3e52063a": "La testata adotta una prospettiva di servizio pubblico e sanitaria, evidenziando le azioni preventive messe in campo dalle autorità accademiche.",
+  "z6602a50b": "La testata adotta una cronaca di sicurezza locale, ponendo l'accento sulle tensioni rurali e sulla fragilità della convivenza intercomunitaria.",
+  "z4739fb8e": "La testata adotta una prospettiva geopolitica e di sviluppo regionale, focalizzandosi sulle strategie congiunte per la sicurezza alimentare nel Sahel.",
+  "z402ba629": "La testata adotta un punto di vista istituzionale e di controllo politico, concentrandosi sulla governance degli enti pubblici e sulla lotta alla cattiva gestione.",
+  "zf1061840": "La testata adotta una prospettiva di cronaca giudiziaria e anticorruzione, seguendo da vicino i processi contro alti funzionari statali.",
+  "z00f6eefc": "La testata adotta un punto di vista sindacale e di cronaca amministrativa, focalizzandosi sulle relazioni di lavoro e sulla stabilità degli enti strategici statali.",
+  "z6972fa64": "La testata adotta un approccio economico e diplomatico, evidenziando l'apertura internazionale e l'attrattività della Guinea per gli investimenti esteri.",
+  "z4f755787": "La testata adotta una prospettiva di cronaca e sicurezza doganale, evidenziando il contrasto al contrabbando di medicinali lungo i confini.",
+  "z77558358": "La testata adotta un punto di vista politico focalizzato sulla tutela dell'immagine dei leader dell'opposzione e sul controllo deontologico dei mass media.",
+  "z2b75e940": "La testata adotta una prospettiva di cronaca sportiva e di proiezione internazionale del Paese attraverso i grandi eventi globali.",
+  "zeba5a16f": "La testata adotta una prospettiva di cronaca amministrativa e urbanistica, focalizzandosi sui progetti di sviluppo e viabilità promossi dall'esecutivo.",
+  "z43077305": "L'articolo adotta una prospettiva istituzionale focalizzata sulle politiche sanitarie nazionali.",
+  "z6e1c8769": "Il reportage sottolinea la cooperazione internazionale e lo sviluppo locale urbano.",
+  "ze6d956e1": "Il notiziario si concentra sui servizi amministrativi e sulla decentralizzazione delle funzioni di polizia.",
+  "zef5f1c6b": "La testata adotta un punto di vista focalizzato sugli investimenti nelle infrastrutture sanitarie pubbliche.",
+  "z77b3af4c": "La notizia segue l'attualità calcistica nazionale con un taglio cronachistico e sportivo.",
+  "z5053553f": "L'articolo adotta una prospettiva puramente sportiva incentrata sui risultati del massimo campionato calcistico.",
+  "zf7b6d567": "Il reportage evidenzia un tema di sicurezza stradale e tutela dei consumatori automobilistici.",
+  "z3db1f6cc": "La testata copre la giornata inaugurale del campionato di calcio con un resoconto focalizzato sui risultati sul campo.",
+  "za62b7df7": "L'articolo analizza con piglio meteorologico e ambientale l'impatto climatico sul territorio.",
+  "z4f04fd0b": "Il punto di vista economico e d'imprenditoria evidenzia la crisi delle attività commerciali locali.",
+  "z4fe8d1be": "La testata segue l'evoluzione della cronaca politica parlamentare e istituzionale.",
+  "z7ce98997": "La panoramica unisce temi economici, sociali e di cronaca generale con un formato di sintesi.",
+  "z7cd8154f": "L'articolo offre un'informazione di servizio pubblico e tutela della salute animale.",
+  "z6f093eab": "L'articolo adotta una prospettiva culturale e artistica incentrata sul patrimonio storico e la diaspora creativa.",
+  "z9a69a0c3": "L'analisi geopolitica adotta una visione strategica incentrata sulle dinamiche di sicurezza europea e internazionale.",
+  "zd3fe8814": "L'articolo adotta un approccio analitico e specialistico sulla situazione bellica in Europa orientale.",
+  "ze9577a09": "Il reportage segue da vicino la cronaca militare e la presenza strategica della NATO sul fianco orientale.",
+  "z63347e23": "L'articolo adotta un taglio economico e investigativo sulla spesa pubblica e la trasparenza istituzionale."
  },
  "contesti": {
   "zeef60cd2": "Nelle ore precedenti la deputata indipendente Helen Haines si trovava nei pressi della propria sede elettorale a Wangaratta quando un fuoristrada ha invertito la marcia per investirla. Il conducente è stato bloccato sul posto dalla polizia locale, mentre i medici hanno lottato per ore in ospedale per salvarle la vita.",
@@ -41634,6 +42600,293 @@ window.EDIZIONI["2026-10-20-sera"] = {
     "Saint Lucia"
    ],
    "pt": []
+  },
+  "z4795e0c6": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "za77fa283": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "zf12e0046": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z8592f2a5": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z13e6247d": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z01ee2e12": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "za5fc50a2": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z264ab731": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra",
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zd75db748": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z568e8916": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z31c70102": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z3b5d9a34": {
+   "n": "Niamey",
+   "p": [
+    "Niger"
+   ],
+   "pt": []
+  },
+  "z3e52063a": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z6602a50b": {
+   "n": "Bekibi",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z4739fb8e": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z402ba629": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zf1061840": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z00f6eefc": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z6972fa64": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z4f755787": {
+   "n": "Maroua",
+   "p": [
+    "Cameroon",
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z77558358": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "z2b75e940": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zeba5a16f": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z43077305": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "z6e1c8769": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "ze6d956e1": {
+   "n": "Assomada",
+   "p": [],
+   "pt": []
+  },
+  "zef5f1c6b": {
+   "n": "Sousse",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z77b3af4c": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z5053553f": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zf7b6d567": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z3db1f6cc": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "za62b7df7": {
+   "n": "Panama City",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z4f04fd0b": {
+   "n": "Panama City",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z4fe8d1be": {
+   "n": "Panama City",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z7ce98997": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z7cd8154f": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z6f093eab": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z9a69a0c3": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zd3fe8814": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "ze9577a09": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z63347e23": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -42845,7 +44098,48 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z0bdca746": 1,
   "z06ee739d": 1,
   "z7c0d9eb9": 1,
-  "z7f533754": 1
+  "z7f533754": 1,
+  "z4795e0c6": 1,
+  "za77fa283": 1,
+  "zf12e0046": 1,
+  "z8592f2a5": 1,
+  "z13e6247d": 1,
+  "z01ee2e12": 1,
+  "za5fc50a2": 1,
+  "z264ab731": 1,
+  "zd75db748": 1,
+  "z568e8916": 1,
+  "z31c70102": 1,
+  "z3b5d9a34": 1,
+  "z3e52063a": 1,
+  "z6602a50b": 1,
+  "z4739fb8e": 1,
+  "z402ba629": 1,
+  "zf1061840": 1,
+  "z00f6eefc": 1,
+  "z6972fa64": 1,
+  "z4f755787": 1,
+  "z77558358": 1,
+  "z2b75e940": 1,
+  "zeba5a16f": 1,
+  "z43077305": 1,
+  "z6e1c8769": 1,
+  "ze6d956e1": 1,
+  "zef5f1c6b": 1,
+  "z77b3af4c": 1,
+  "z5053553f": 1,
+  "zf7b6d567": 1,
+  "z3db1f6cc": 1,
+  "za62b7df7": 1,
+  "z4f04fd0b": 1,
+  "z4fe8d1be": 1,
+  "z7ce98997": 1,
+  "z7cd8154f": 1,
+  "z6f093eab": 1,
+  "z9a69a0c3": 1,
+  "zd3fe8814": 1,
+  "ze9577a09": 1,
+  "z63347e23": 1
  },
  "video": {},
  "pillole": []
