@@ -3,6 +3,2502 @@ window.EDIZIONI["2026-10-20-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z5d622d93",
+   "sez": "ingegneria",
+   "titolo": "La storica Yashica Y16 torna sul mercato trasformata in fotocamera digitale",
+   "orig": "Yashica Y16: torna la fotocamera del 1959, ora in versione digitale",
+   "lead": "Il celebre modello analogico Yashica Y16, introdotto originariamente sul mercato nel 1959, fa il suo ritorno per gli appassionati di fotografia in una versione completamente rinnovata sotto il profilo tecnologico. Lo storico marchio ha infatti deciso di convertire la fotocamera ultracompatta degli anni Cinquanta adottando un sensore digitale moderno, mantenendo al contempo l'estetica e gli elementi distintivi del design dell'epoca. L'operazione punta a fondere il fascino dell'oggetto vintage con la praticità e i supporti di memorizzazione elettronici contemporanei. Lo riferisce Domus.",
+   "more": [
+    "Negli ultimi anni il settore fotografico ha riscoperto il fascino dei dispositivi compatti d'epoca. Molti produttori scelgono di riproporre vecchi apparecchi iconici aggiornando l'hardware interno con sensori digitali, interfacce per schede di memoria e porte USB, per attrarre appassionati del design rétro senza costringerli a reperire pellicole fuori formato."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/gallery/2026/10/19/yashica-y16-fotocamera-digitale-vintage-1959.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T08:00+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z4cb82e33",
+   "sez": "tech",
+   "titolo": "Software di intelligenza artificiale cinese impiegato in attacchi informatici contro imprese giapponesi",
+   "orig": "Chinese AI tool used in cyberattacks on Japanese companies, investigation finds",
+   "lead": "Un'indagine ha svelato l'impiego di uno strumento di intelligenza artificiale sviluppato in Cina all'interno di una serie di attacchi informatici sferrati contro diverse aziende in Giappone. La scoperta giunge in una fase in cui la minaccia telematica per il sistema produttivo giapponese si fa sempre più pressante, testimoniata dal continuo aumento delle società che sono costrette a comunicare formalmente violazioni e sottrazioni dei propri archivi digitali. L'uso di tecnologie avanzate evidenzia un salto di qualità nell'automazione e nell'efficacia delle intrusioni ai danni del tessuto economico nipponico. Lo riferisce The Japan Times.",
+   "more": [
+    "L'integrazione di sistemi di intelligenza artificiale nelle campagne di pirateria informatica permette di automatizzare la scansione delle vulnerabilità, ottimizzare i messaggi di phishing e aggirare con maggiore velocità le difese aziendali tradizionali. Questa evoluzione spinge le autorità di sicurezza cibernetica a rafforzare costantemente le linee guida e i protocolli protettivi delle reti industriali."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/20/japan/china-ai-cyberattacks/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-20T16:09+09:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z9e02597f",
+   "sez": "cultura",
+   "titolo": "Dall'automa servitore al compagno: un saggio esplora la nuova convivenza tra uomini e robot",
+   "orig": "Del robot sirviente al robot amigo: un libro analiza la nueva relación entre humanos y máquinas",
+   "lead": "La diffusione sempre più capillare della robotica autonoma impone una riflessione profonda sul concetto stesso di essere vivente e sulle dinamiche della nostra esistenza quotidiana. In una recente opera, il filosofo Dominique Lestel analizza l'emergere di macchine capaci di condividere in modo attivo gli spazi con gli esseri umani, superando la classica visione dell'automa concepito esclusivamente come servitore meccanico. All'interno di questa trasformazione, sentimenti come l'amicizia, il legame affettivo e persino il desiderio cominciano a delinearsi come dimensioni concrete e possibili nel rapporto quotidiano tra le persone e gli automi. Lo riferisce Clarín.",
+   "more": [
+    "Il dibattito filosofico ed etico sull'interazione tra umani e robot si è intensificato con lo sviluppo di macchine dotate di capacità espressive e modelli linguistici complessi. Numerosi studiosi indagano come la simulazione di empatia e reciprocità stia ridefinendo i confini psicologici, sociali e relazionali della nostra vita comune."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/cultura/robot-sirviente-robot-amigo-libro-analiza-nueva-relacion-humanos-maquinas_0_eO8Ye1c2K3.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-20T09:10+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z1d1a676e",
+   "sez": "tech",
+   "titolo": "Il software uruguaiano jPOS scelto dalla Nigeria per la rete nazionale dei pagamenti istantanei",
+   "orig": "La tecnología uruguaya que está detrás de unicornios, trabaja con los sellos más importantes del mundo y ahora fue elegida por Nigeria para ser el nexo de sus pagos instantáneos",
+   "lead": "Il governo della Nigeria ha selezionato jPOS, una soluzione software libera sviluppata in Uruguay dalla società Transactility, per gestire l'infrastruttura di connessione dei propri sistemi di pagamento istantaneo. Il programma, concepito originariamente sul finire degli anni Novanta, costituisce una tecnologia ampiamente adottata dai grandi marchi mondiali e da diverse aziende innovative per creare servizi transazionali complessi. L'adozione da parte dell'amministrazione nigeriana conferma come questo strumento aperto sia ormai divenuto un punto di riferimento strategico non soltanto per il settore privato, ma anche per lo sviluppo dei servizi pubblici digitali. Lo riferisce El Observador.",
+   "more": [
+    "Nel comparto finanziario, i software liberi e gli standard aperti rappresentano spesso la spina dorsale per la messaggistica tra banche ed esercenti. L'affidabilità di protocolli consolidati consente alle economie emergenti di modernizzare rapidamente le proprie piattaforme di pagamento digitale senza dipendere da costose soluzioni proprietarie."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/cafe-y-negocios/la-tecnologia-uruguaya-que-esta-detras-unicornios-trabaja-los-sellos-mas-importantes-del-mundo-y-ahora-fue-elegida-nigeria-ser-el-nexo-sus-pagos-instantaneos-n6060970",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-20T05:00-03:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zb9ebad31",
+   "sez": "sport",
+   "titolo": "A Hong Kong la sfida del torneo di hockey subacqueo all'insegna dell'estrema resistenza",
+   "orig": "'Physical hell': Hong Kong hosts gruelling underwater hockey tournament",
+   "lead": "La città di Hong Kong ha ospitato un faticoso e impegnativo torneo di hockey subacqueo, una disciplina sportiva agonistica che impone prove atletiche estreme a tutti i partecipanti. Gli atleti si affrontano sul fondo di una piscina, spingendo un dischetto verso la porta avversaria in apnea e coordinando manovre rapide prima di risalire in superficie per riprendere ossigeno. La competizione ha messo a dura prova la tenuta fisica e la capacità polmonare delle formazioni in gara, attirando l'attenzione per l'intensità agonistica richiesta da questo sport di squadra poco convenzionale. Lo riferisce Gulf News.",
+   "more": [
+    "L'hockey subacqueo è nato negli anni Cinquanta come metodo di allenamento per i subacquei durante i mesi invernali. Si gioca sul fondo di piscine profonde due o tre metri con piccole stecche e un dischetto pesante, richiedendo grande sincronia, forza muscolare e frequenti immersioni in apnea controllata."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/sport/physical-hell-hong-kong-hosts-gruelling-underwater-hockey-tournament-2-1.500717029",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-20T13:59+04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z19930109",
+   "sez": "mondo",
+   "titolo": "Rincari dell'energia in Kerala: l'ex ministro Krishnankutty accusa la cattiva gestione dell'UDF",
+   "orig": "Ex-Minister K. Krishnankutty blames UDF ‘mismanagement’ for power tariff hike in Keralam",
+   "lead": "Nello stato indiano del Kerala l'ex ministro dell'Energia K. Krishnankutty ha criticato apertamente la gestione della coalizione dello United Democratic Front, ritenendola responsabile del recente incremento delle tariffe elettriche a carico dei cittadini. L'esponente politico ha sollevato forti perplessità sui conteggi finanziari adottati, chiedendo che vengano chiariti pubblicamente i criteri utilizzati per calcolare le perdite economiche del settore energetico. Secondo Krishnankutty, le inefficienze amministrative passate hanno generato uno squilibrio che ora viene scaricato sugli utenti senza un'adeguata trasparenza contabile. Lo riferisce The Hindu.",
+   "more": [
+    "La gestione delle tariffe energetiche negli stati indiani è spesso al centro di accese contese politiche tra le coalizioni di governo e l'opposizione. I deficit delle società elettriche pubbliche impongono frequenti revisioni dei prezzi, che finiscono per incidere sul bilancio delle famiglie e sull'industria locale."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/kerala/ex-minister-k-krishnankutty-blames-udf-mismanagement-for-power-tariff-hike-in-keralam/article71603456.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T15:28+05:30"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z1e4f8fc5",
+   "sez": "mondo",
+   "titolo": "Disoccupazione giovanile in Cina: il fenomeno di chi finge di andare in ufficio ogni giorno",
+   "orig": "No job, but still 9-to-5: Why China's unemployed are pretending to go to work every day",
+   "lead": "In Cina un numero crescente di giovani rimasti senza lavoro sceglie di simulare una normale giornata lavorativa dalle nove alle cinque, trascorrendo il tempo in luoghi pubblici affollati per nascondere la disoccupazione ai familiari. Preoccupati per il giudizio sociale e per le pressioni della famiglia in una fase economica complessa, molti di loro si confrontano sulle piattaforme online condividendo ansie e strategie quotidiane. Questa tendenza testimonia la fatica di conciliare le alte aspettative domestiche con la mancanza di opportunità professionali stabili, portando le persone a mantenere una facciata di normalità. Lo riferisce Times of India.",
+   "more": [
+    "Il mercato del lavoro in Cina registra da tempo una forte competizione per i neolaureati, aggravata dal rallentamento della crescita economica post-pandemia. La pressione culturale sul successo professionale spinge spesso i giovani a mascherare i periodi di inattività per evitare lo stigma sociale o il dispiacere dei parenti."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/business/international-business/no-job-but-still-a-9-to-5-routine-why-chinas-unemployed-are-pretending-to-go-to-work-every-day/articleshow/135065208.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T15:44+05:30"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z28735428",
+   "sez": "dibattito",
+   "titolo": "Prezzi del carburante ed elezioni in Europa: la destra radicale sfrutta le proteste sui costi energetici",
+   "orig": "As France erupts, Europe’s far right gains from fuel-price anger ahead of elections",
+   "lead": "In Europa si accende il confronto sull'impatto economico dell'inflazione energetica, mentre in Francia e in altri Paesi crescono le proteste contro il carovita e l'aumento dei carburanti. Le formazioni di destra radicale traggono consenso dal malcontento popolare in vista dei prossimi appuntamenti elettorali, chiedendo un taglio netto delle tasse sui combustibili e la ripresa delle forniture di gas e petrolio dalla Russia per contenere le bollette. I sostenitori di queste richieste sottolineano l'insostenibilità delle spese per le famiglie, mentre i governi e le istituzioni europee difendono le politiche di transizione ecologica e le sanzioni contro Mosca. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il rincaro dei prodotti energetici e del carburante rappresenta un tema cruciale per i Paesi europei a causa dei costi di trasporto e riscaldamento. Le strategie per contrastare la spesa energetica mettono a confronto l'urgenza di aiuti immediati con gli impegni internazionali sulla sostenibilità e sulla sicurezza delle forniture geopolitiche."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/world/2026/10/20/as-france-erupts-europe-s-far-right-gains-from-fuel-price-anger-ahead-of-elections",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "ze48f65ee",
+   "sez": "economia",
+   "titolo": "KMG International aumenta i profitti: margine operativo lordo a 469 milioni di dollari",
+   "orig": "KMG International Posts Higher Profits as EBITDA Climbs to $469 Million",
+   "lead": "La società KMG International, controllata del gruppo energetico statale kazako KazMunayGas, ha comunicato un forte incremento dei propri risultati finanziari nei primi nove mesi dell'anno. Il margine operativo lordo consolidato prima di interessi, imposte e ammortamenti ha raggiunto i 469 milioni di dollari, segnando una crescita del 73 per cento rispetto allo stesso intervallo dell'anno precedente. Parallelamente, l'utile netto aziendale si è attestato a 269 milioni di dollari, evidenziando una salita del 219 per cento nel confronto tendenziale e confermando il solido andamento delle attività del gruppo. Lo riferisce The Astana Times.",
+   "more": [
+    "KMG International gestisce importanti asset di raffinazione, distribuzione e commercializzazione di prodotti petroliferi principalmente nell'Europa orientale e nell'area del Mar Nero. La redditività delle imprese energetiche integrate beneficia dell'andamento favorevole dei margini di raffinazione e delle strategie di ottimizzazione dei canali commerciali logistici."
+   ],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/kmg-international-posts-higher-profits-as-ebitda-climbs-to-469-million/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-20T06:04+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z8db1c03d",
+   "sez": "dibattito",
+   "titolo": "Bilancio europeo per la cooperazione: cinque commissari respingono l'ipotesi di tagli del 17%",
+   "orig": "Five European Commissioners push back against cuts to the EU’s global cooperation budget",
+   "lead": "Nell'Unione europea si apre un acceso scontro sulle risorse destinate all'azione internazionale in vista del vertice del 26 novembre. Cinque commissari europei, tra cui la responsabile della politica estera Kaja Kallas, si oppongono con fermezza alla proposta dell'Irlanda di ridurre del 17 per cento il programma Europa Globale. I commissari sostengono che un taglio di tale portata indebolirebbe l'influenza strategica e la sicurezza dell'Unione nello scacchiere mondiale. Nel frattempo, il presidente del Consiglio europeo António Costa lavora alla stesura di un testo di compromesso per trovare un punto d'intesa tra gli Stati membri. Lo riferisce Euronews.",
+   "more": [
+    "Il programma Europa Globale costituisce lo strumento finanziario principale con cui l'Unione europea sostiene partenariati di cooperazione, sviluppo sostenibile, interventi umanitari e diplomazia preventiva nel mondo. La definizione delle sue risorse accende regolarmente il confronto tra i Paesi favorevoli al rigore di bilancio e le istituzioni dell'Unione."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/20/five-european-commissioners-push-back-against-cuts-to-the-eus-global-cooperation-budget",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T11:04+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zef80b28f",
+   "sez": "economia",
+   "titolo": "In Germania i tassi sui mutui toccano i massimi dal 2009 per i timori di inflazione legati alla guerra in Iran",
+   "orig": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
+   "lead": "I tassi di interesse sui prestiti immobiliari in Germania hanno raggiunto il livello più elevato dal 2009, spinti dalle tensioni internazionali scatenate dal conflitto con l'Iran. Secondo i dati diffusi dalla società di intermediazione Interhyp, il tasso medio sui finanziamenti decennali si sta avvicinando alla soglia del 4,5 per cento. L'incremento del costo del denaro riflette i crescenti timori per una nuova fiammata inflazionistica che potrebbe derivare dall'instabilità geopolitica mediorientale, rendendo l'accesso al credito per l'acquisto della casa sensibilmente più oneroso per le famiglie tedesche. Lo riferisce Euronews.",
+   "more": [
+    "Le tensioni belliche in Medio Oriente si ripercuotono spesso sui mercati obbligazionari mondiali. Quando aumentano i rischi legati alle forniture di idrocarburi e all'inflazione, i rendimenti dei titoli di Stato salgono, trascinando al rialzo gli indici di riferimento come l'Euribor e i tassi applicati ai contratti di mutuo residenziale."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/20/german-mortgage-rates-climb-to-highest-since-2009-as-iran-war-stokes-inflation-fears",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T11:04+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "ze0760b15",
+   "sez": "economia",
+   "titolo": "Hong Kong Monetary Authority riorganizza i vertici per pianificare la successione interna",
+   "orig": "HKMA to swap jobs of 2 deputy heads as part of succession planning: sources",
+   "lead": "L'Autorità monetaria di Hong Kong procederà il mese prossimo a una riorganizzazione degli incarichi per due dei suoi vice direttori generali, nell'ambito di una strategia programmata di successione interna. Secondo fonti vicine al dossier, a partire dal 9 novembre Darryl Chan Wai-man assumerà la guida dell'Exchange Fund Investment Office dell'istituto centrale di fatto. Nel suo nuovo ruolo, il dirigente gestirà il fondo di riserva valutaria da 4.460 miliardi di dollari di Hong Kong, pari a circa 568 miliardi di dollari statunitensi, impiegato per preservare la stabilità della moneta locale. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "L'Autorità monetaria di Hong Kong funge da banca centrale per il territorio e ha tra i propri compiti principali la difesa del regime di cambio fisso con il dollaro statunitense. La gestione dell'Exchange Fund rappresenta uno strumento fondamentale per garantire la liquidità e la fiducia nei mercati finanziari della regione."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/banking-finance/article/3371524/hkma-swap-jobs-2-deputy-heads-part-succession-planning-sources",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T10:25+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z9fd422e8",
+   "sez": "economia",
+   "titolo": "La quotazione di Suzhou Dongshan a Hong Kong frena per i timori sui dazi commerciali degli Stati Uniti",
+   "orig": "Suzhou Dongshan’s US$1.8b Hong Kong IPO trails expectations amid US trade risk concerns",
+   "lead": "Il debutto in borsa a Hong Kong della società Suzhou Dongshan Precision Manufacturing ha raccolto meno capitali rispetto a quanto inizialmente preventivato dagli osservatori finanziari. Gli investitori hanno mostrato prudenza a causa dei possibili rischi commerciali e delle restrizioni che gli Stati Uniti potrebbero imporre sul segmento dei moduli ottici dell'azienda, oltre che per il clima di cautela generale della piazza finanziaria verso le grandi quotazioni. L'offerta comprendeva 113,7 milioni di azioni a un prezzo massimo fissato a 93,80 dollari di Hong Kong ciascuna, sostenuta da un gruppo di venti investitori di riferimento. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "Le tensioni commerciali tra Stati Uniti e Cina continuano a influenzare le valutazioni delle aziende tecnologiche asiatiche sui mercati azionari. Le incertezze normative e il timore di nuovi controlli sulle esportazioni spingono i grandi fondi a una valutazione più severa dei rischi associati alla catena di fornitura globale."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/companies/article/3371493/suzhou-dongshans-us18b-hong-kong-ipo-trails-expectations-amid-us-trade-risk-concerns",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T08:37+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "ze7af6cce",
+   "sez": "economia",
+   "titolo": "I costruttori d'auto cinesi accelerano sulla produzione in Europa per aggirare dazi e quote d'importazione",
+   "orig": "Chinese carmakers gear up European production to sidestep tariffs, import quota",
+   "lead": "I produttori automobilistici cinesi stanno accelerando i piani di insediamento industriale in Europa per far fronte alle quote di importazione e alle tariffe doganali dell'Unione europea sui veicoli ibridi ed elettrici. Per sostenere le vendite in uno dei mercati più rilevanti al mondo, i marchi di Pechino intendono investire miliardi di yuan nella realizzazione di stabilimenti proprietari o rilevare impianti produttivi inutilizzati di gruppi internazionali. Questa svolta strategica segna il passaggio dall'esportazione diretta delle vetture alla fabbricazione locale, consentendo di consolidare la presenza commerciale aggirando le barriere commerciali poste dalle istituzioni comunitarie. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "L'Unione europea ha introdotto misure di difesa commerciale per tutelare l'industria automobilistica continentale dalla concorrenza a basso costo favorita dai sussidi statali cinesi. Localizzare gli impianti produttivi all'interno dell'area comunitaria consente ai marchi stranieri di evitare i dazi all'entrata e creare posti di lavoro sul territorio."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-evs/article/3371460/chinese-carmakers-gear-european-production-sidestep-tariffs-import-quota",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T08:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zd9549c3d",
+   "sez": "economia",
+   "titolo": "Il fisco cinese sollecita i cittadini facoltosi a dichiarare i guadagni dei trust esteri",
+   "orig": "China’s tax authority issues final call for wealthy citizens to declare offshore trust gains",
+   "lead": "L'amministrazione tributaria statale della Cina ha rivolto un ultimo invito ai contribuenti ad alto patrimonio affinché regolarizzino e dichiarino i guadagni generati attraverso i trust offshore. L'autorità ha ricordato di verificare con urgenza i propri schemi fiduciari all'estero prima della scadenza del periodo di tolleranza di novanta giorni, fissata per il 22 ottobre, al fine di evitare more e sanzioni pecuniarie. La misura ha destato forte preoccupazione tra gli operatori a Hong Kong e nei principali paradisi fiscali utilizzati dai grandi patrimoni cinesi per proteggere la propria ricchezza. Lo riferisce South China Morning Post – Economia.",
+   "more": [
+    "Negli ultimi anni Pechino ha inasprito i controlli fiscali sui patrimoni detenuti all'estero, avvalendosi di convenzioni sullo scambio automatico di informazioni finanziarie. I trust offshore sono stati tradizionalmente impiegati dagli imprenditori e dalle famiglie benestanti per ottimizzare la tassazione e pianificare la successione ereditaria al di fuori dei confini nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/china-business/article/3371463/chinas-tax-authority-issues-final-call-wealthy-citizens-declare-offshore-trust-gains",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T06:12+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z27515b9e",
+   "sez": "economia",
+   "titolo": "Attacchi russi in Ucraina e allarme grano: rischi di rincari per pane e pasta in Europa",
+   "orig": "Grano, prezzi record per gli attacchi russi in Ucraina. Quanto possono aumentare pane e pasta. L'allarme di Kallas: «Tempesta perfetta»",
+   "lead": "Gli attacchi condotti dalla Russia in Ucraina hanno provocato una nuova fiammata record nelle quotazioni internazionali del grano, riaccendendo il timore di forti aumenti sui prezzi al consumo di generi alimentari di prima necessità come pane e pasta. A richiamare l'attenzione sui rischi per il carrello della spesa è intervenuta Kaja Kallas, alta rappresentante dell'Unione europea per la politica estera, che ha definito la congiuntura attuale come una possibile tempesta perfetta. I raid contro le infrastrutture agricole e logistiche ucraine mettono nuovamente sotto pressione la sicurezza degli approvvigionamenti alimentari. Lo riferisce Il Messaggero.",
+   "more": [
+    "L'Ucraina è tra i principali esportatori mondiali di cereali e semi oleosi. Quando i bombardamenti colpiscono porti, depositi e vie di trasporto marittime o ferroviarie, la riduzione dell'offerta globale si trasmette immediatamente ai mercati delle materie prime, influenzando i costi sostenuti dall'industria molitoria e dai panificatori europei."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/pasta_pane_grando_aumento_prezzi_guerra_ucraina_perche_cosa_succede-9836826.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zbf92fd59",
+   "sez": "economia",
+   "titolo": "Pensioni di novembre: trattenute e conguagli possono ridurre l'importo dell'assegno Inps",
+   "orig": "Pensioni, cedolino novembre: trattenute e conguagli, perché l'assegno può essere più basso",
+   "lead": "Il pagamento delle pensioni per il mese di novembre è programmato per lunedì 2, ma diversi beneficiari potrebbero riscontrare una cifra netta accreditata inferiore rispetto a quella incassata nei mesi precedenti. La variazione negativa è dovuta all'applicazione di trattenute fiscali e conguagli all'interno del cedolino elaborato dall'Inps. Le verifiche contabili e il recupero di addizionali o imposte pregresse possono infatti comportare tagli temporanei sull'importo finale, creando differenze rilevanti tra i singoli assegni previdenziali a seconda della situazione reddituale e delle imposte dovute da ciascun pensionato. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "Verso la fine dell'anno l'Inps effettua regolarmente le operazioni di conguaglio fiscale relative all'Irpef e alle addizionali regionali e comunali. Se dalle dichiarazioni o dai ricalcoli emergono debiti tributari non ancora saldati, l'ente previdenziale provvede a recuperarli direttamente mediante trattenute sulle rate mensili della pensione."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/schede/pensioni_cedolino_novembre_2026_importi_conguagli_trattenute-9836874.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z31438008",
+   "sez": "economia",
+   "titolo": "Stipendi pubblici: imposta al 15% sul trattamento accessorio per il 2026",
+   "orig": "Stipendi statali, tasse al 15% sul trattamento accessorio: sconto fino a 800 euro, chi ne ha diritto e chi rischia di perderlo",
+   "lead": "Per il 2026 viene introdotto un regime fiscale agevolato che prevede una tassazione sostitutiva al 15 per cento su una porzione della busta paga dei dipendenti statali, in alternativa alle ordinarie aliquote Irpef. La misura riguarda specificamente il trattamento economico accessorio e consentirà un beneficio finanziario che potrà raggiungere uno sconto fiscale fino a 800 euro per i lavoratori coinvolti. Il provvedimento stabilisce precisi requisiti per individuare chi avrà diritto allo sgravio e chi invece rischierà di rimanerne escluso in base ai parametri reddituali stabiliti dalle norme. Lo riferisce Il Messaggero – Economia.",
+   "more": [
+    "Il trattamento accessorio comprende le indennità di funzione, i premi di produttività, i compensi per straordinari o particolari condizioni di lavoro che si aggiungono allo stipendio tabellare base. Applicare un'aliquota agevolata mira a incentivare il merito ed erogare un incremento netto del reddito disponibile nel pubblico impiego."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/stipendi_statali_sconto_tasse_irpef_come_funziona-9836732.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z00dba439",
+   "sez": "economia",
+   "titolo": "Welfare italiano sbilanciato sulle pensioni: la spesa potrebbe superare i mille miliardi nel 2037",
+   "orig": "Welfare, la metà della spesa va tutta in pensioni. Nel 2037 potrebbe superare i 1000 miliardi",
+   "lead": "La metà dell'intera spesa per il welfare in Italia è assorbita dal comparto previdenziale, con proiezioni che indicano un esborso complessivo destinato a superare i mille miliardi di euro nel 2037. La fotografia emerge dalle analisi presentate al Forum promosso da Unipol in collaborazione con Teha Group, nel corso del quale sono stati evidenziati marcati divari territoriali tra il Nord e il Mezzogiorno del Paese. L'incontro ha avanzato una serie di proposte per riequilibrare gli interventi e sostenere le due fasce demografiche più vulnerabili della società, ovvero la popolazione anziana e le giovani generazioni. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "L'invecchiamento demografico e il basso tasso di natalità sottopongono il sistema di protezione sociale italiano a crescenti tensioni di bilancio. Con un numero crescente di pensionati e una base lavorativa ristretta, la spesa previdenziale rischia di ridurre le risorse a disposizione di sanità, istruzione e politiche per l'occupazione giovanile."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/20/news/welfare_la_meta_della_spesa_va_tutta_in_pensioni_nel_2037_potrebbe_superare_i_1000_miliardi-425659968/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T11:29+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z35ccd86e",
+   "sez": "economia",
+   "titolo": "Intelligenza artificiale e maxi-debiti: gli investitori acquistano derivati per tutelarsi dal rischio bolla",
+   "orig": "IA, preoccupa il maxi-debito: gli investitori ora si “assicurano” dal rischio bolla",
+   "lead": "Sui mercati finanziari cresce la preoccupazione per il massiccio indebitamento legato ai colossi tecnologici che investono nello sviluppo dell'intelligenza artificiale, spingendo gli operatori a cercare coperture contro il pericolo di un'improvvisa bolla speculativa. In vista della pubblicazione delle prossime trimestrali societarie, numerosi investitori hanno iniziato ad acquistare strumenti derivati sui principali titoli tech per salvaguardare i propri portafogli da eventuali crolli delle quotazioni. L'accumulo di debiti per finanziare infrastrutture e centri dati alimenta i timori che le valutazioni correnti non siano sostenibili nel medio periodo. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "I derivati finanziari, come le opzioni put, consentono agli operatori di fissare un prezzo minimo di vendita o incassare un rendimento qualora i titoli sottostanti subiscano una flessione. Questo tipo di copertura aumenta nei momenti in cui il mercato teme che le aspettative di profitto generate da una nuova tecnologia siano eccessive."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/20/news/ai_preoccupa_debito_bolla_investitori_si_assicurano-425659888/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T10:57+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z6a3782b4",
+   "sez": "economia",
+   "titolo": "ExxonMobil cede la rete di distributori Mobil a Port Moresby a una controllata di MRDC",
+   "orig": "ExxonMobil Hands Over the Keys: MRDC Subsidiary Acquires Port Moresby Mobil Stations",
+   "lead": "Si apre un nuovo assetto per il settore dei carburanti in Papua Nuova Guinea: la società Mobil Oil New Guinea, controllata di ExxonMobil, ha formalizzato la cessione della propria rete di stazioni di servizio a Port Moresby. L'acquirente è la società Star Mountain Service Station Limited, controllata al cento per cento da Mineral Resource Development Company. L'operazione segna il passaggio di consegne nella gestione al dettaglio dei distributori cittadini a un gruppo nazionale, ridisegnando la presenza del colosso energetico sul territorio della capitale. Lo riferisce Post-Courier.",
+   "more": [
+    "Mineral Resource Development Company è una società pubblica incaricata di gestire le quote di partecipazione della Papua Nuova Guinea nei principali progetti minerari ed energetici per conto dei proprietari terrieri locali e dei governi provinciali, investendo i ricavi in attività produttive e infrastrutture."
+   ],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/exxonmobil-hands-over-the-keys-mrdc-subsidiary-acquires-port-moresby-mobil-stations/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-20T07:26+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zb107d6e0",
+   "sez": "mondo",
+   "titolo": "A Port Moresby il trentaduesimo vertice ministeriale tra Papua Nuova Guinea e Australia",
+   "orig": "Minister Maru welcomes Australian Delegates",
+   "lead": "Il ministro per il Commercio internazionale e gli Investimenti Richard Maru ha accolto a Port Moresby una delegazione di governo australiana per l'apertura del trentaduesimo Forum ministeriale bilaterale tra Australia e Papua Nuova Guinea. L'incontro, ospitato presso la sede dell'APEC Haus, punta a consolidare le relazioni economiche, diplomatiche e commerciali tra i due Paesi dell'area oceanica. I colloqui tra i delegati vertono sulle opportunità di investimento reciproco, sul rafforzamento delle intese bilaterali e sulle strategie condivise per la stabilità regionale. Lo riferisce Post-Courier.",
+   "more": [
+    "L'Australia rappresenta il principale partner commerciale e donatore di aiuti per la Papua Nuova Guinea, con cui mantiene stretti legami storici e di sicurezza. I periodici vertici ministeriali servono a coordinare le politiche di cooperazione economica, le infrastrutture e i programmi di sviluppo transfrontalieri."
+   ],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/minister-maru-welcomes-australian-delegates/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-20T06:05+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z83a46d02",
+   "sez": "economia",
+   "titolo": "La Namibia chiede di facilitare il commercio transfrontaliero con l'Angola",
+   "orig": "Nandi-Ndaitwah wants easier cross-border trade",
+   "lead": "La presidente della Namibia Netumbo Nandi-Ndaitwah ha sollecitato una netta semplificazione degli scambi commerciali con l'Angola, chiedendo di intervenire per abbattere le lungaggini burocratiche, i problemi di trasporto e i vari ostacoli operativi che fanno lievitare i costi aziendali. Durante la sessione inaugurale della commissione binazionale Angola-Namibia, tenutasi a Luanda, la leader namibiana ha rimarcato che il confine comune tra i due Paesi deve rappresentare un volano per nuove opportunità economiche e non un freno allo sviluppo del commercio transfrontaliero. Lo riferisce The Namibian.",
+   "more": [
+    "I collegamenti commerciali tra Paesi limitrofi nell'Africa australe dipendono spesso da corridoi stradali e dogane con procedure documentali complesse. La riduzione delle barriere non tariffarie e l'armonizzazione dei controlli di frontiera sono considerate essenziali per favorire l'integrazione regionale promossa dall'Unione Africana e dall'accordo di libero scambio continentale africano, riducendo i tempi di transito per le merci."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/nandi-ndaitwah-wants-easier-cross-border-trade/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-20T08:23+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z21da5713",
+   "sez": "economia",
+   "titolo": "Cabo Delgado, il governatore critica i contratti occasionali nei megaprogetti",
+   "orig": "Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies",
+   "lead": "Il governatore della provincia mozambicana di Cabo Delgado si è espresso contro la prassi delle assunzioni e delle commesse occasionali affidate alle imprese locali nell'ambito dei grandi progetti industriali ed estrattivi. Secondo il rappresentante istituzionale, è fondamentale superare questo modello precario a favore di partnership durature nel tempo, in grado di offrire alle aziende del territorio l'opportunità di maturare competenze ed esperienza tecnica sul campo. Il governatore ha sottolineato la necessità di una revisione strategica dei rapporti contrattuali con i grandi gruppi operativi nella regione. Lo riferisce Club of Mozambique.",
+   "more": [
+    "La provincia di Cabo Delgado, situata nel nord del Mozambico, ospita alcuni dei maggiori giacimenti di gas naturale liquefatto dell'Africa, gestiti da consorzi multinazionali. Il coinvolgimento dell'economia locale, noto come contenuto locale, è un tema centrale nelle politiche industriali dei Paesi emergenti per garantire che gli investimenti esteri creino sviluppo durevole e posti di lavoro stabili sul territorio."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/cabo-delgado-governor-not-in-favour-of-megaprojects-occasional-contracting-of-mozambican-companies/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-20T06:53+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z4deba290",
+   "sez": "economia",
+   "titolo": "Mozambico, le imprese chiedono parchi industriali legati ai megaprogetti",
+   "orig": "Mozambique: CTA calls for mineral resource industrialisation and local production of components for megaprojects",
+   "lead": "Il vicepresidente della Confederazione delle associazioni economiche del Mozambico, Onório Manuel, ha sollecitato un deciso potenziamento della base industriale nazionale mediante la realizzazione di parchi dedicati, l'attrazione di investimenti esteri e la manifattura locale di componenti per i megaprogetti attivi nel Paese. L'intervento è avvenuto nel corso di un dibattito incentrato sugli incentivi agli investimenti e sulla valorizzazione interna delle risorse minerarie mozambicane. Manuel ha ribadito che la trasformazione sul posto dei minerali estratti rappresenta un passaggio fondamentale per accrescere il valore aggiunto dell'economia. Lo riferisce Club of Mozambique.",
+   "more": [
+    "La valorizzazione industriale delle risorse naturali mira a evitare l'esportazione di sole materie prime grezze, processo che spesso lascia poco valore economico ai Paesi estrattori. Creare poli produttivi locali per fornire ricambi e componenti alle industrie estrattive richiede infrastrutture affidabili, accesso all'energia e manodopera qualificata, elementi cardine per la crescita sostenibile nei Paesi ricchi di risorse minerarie."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-cta-calls-for-mineral-resource-industrialisation-and-local-production-of-components-for-megaprojects/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-20T05:58+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zcfef69e7",
+   "sez": "economia",
+   "titolo": "Liberia, Yeib-Manco invita i neolaureati a puntare sull'imprenditorialità",
+   "orig": "Beyond The Diploma: YEIB-MANCO CEO Urges Graduates to Embrace Entrepreneurship, Integrity and Service",
+   "lead": "L'amministratore delegato della società di gestione della Banca per gli investimenti e l'imprenditoria giovanile della Liberia, Joseph Fatorma Sando, ha rivolto un appello ai neolaureati del Paese affinché trasformino i titoli accademici conseguiti in reali progetti imprenditoriali. Nel corso del suo intervento, Sando ha esortato i giovani professionisti a mettere a frutto le competenze teoriche acquisite puntando su iniziativa autonoma, integrità professionale e spirito di servizio verso la comunità nazionale, evidenziando come l'autoimprenditorialità sia essenziale per superare le difficoltà occupazionali del mercato del lavoro liberiano. Lo riferisce FrontPage Africa.",
+   "more": [
+    "Nei Paesi in via di sviluppo con un'alta percentuale di popolazione giovanile, l'assorbimento dei diplomati e laureati nel settore pubblico o nelle grandi imprese private risulta spesso insufficiente. Per questo motivo, governi e istituzioni finanziarie promuovono fondi di garanzia e programmi di credito agevolato dedicati alle startup giovanili, considerandoli strumenti indispensabili per ridurre la disoccupazione e stimolare l'innovazione."
+   ],
+   "fonti": [
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/beyond-the-diploma-yeib-manco-ceo-urges-graduates-to-embrace-entrepreneurship-integrity-and-service/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-10-20T06:07+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zfd543b8a",
+   "sez": "economia",
+   "titolo": "Lussemburgo, disoccupazione ferma al 6,5% con oltre 20 mila residenti registrati",
+   "orig": "Luxembourg unemployment stuck at 6.5% as resident jobseekers top 20,000",
+   "lead": "Il tasso di disoccupazione in Lussemburgo è rimasto stabile al 6,5 per cento, confermando lo stesso livello registrato nel mese di agosto, mentre il numero complessivo delle persone in cerca di occupazione ha superato la soglia dei ventimila residenti. I dati evidenziano che gli iscritti alle liste dell'agenzia statale per l'impiego Adem sono aumentati per il dodicesimo mese consecutivo, delineando una fase di persistente difficoltà nell'assorbimento della forza lavoro nel Granducato nonostante la tenuta generale degli indici percentuali. Lo riferisce Luxembourg Times.",
+   "more": [
+    "L'economia del Lussemburgo è caratterizzata da un mercato del lavoro fortemente internazionalizzato, con una significativa quota di lavoratori frontalieri provenienti da Francia, Germania e Belgio. Le variazioni nel numero dei disoccupati residenti riflettono l'andamento del terziario avanzato e dei servizi finanziari, settori chiave che risentono dei tassi d'interesse europei e dell'incertezza economica nell'area dell'euro."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/luxembourg-unemployment-stuck-at-6.5-as-resident-jobseekers-top-20000/163323722.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zc0975865",
+   "sez": "economia",
+   "titolo": "Repubblica Ceca, la Corte costituzionale conferma la tassazione sulla prostituzione",
+   "orig": "Sex (legally) sells: Czech court confirms income from prostitution is taxable",
+   "lead": "La Corte costituzionale della Repubblica Ceca ha confermato la piena legittimità dell'imposizione fiscale sui proventi derivanti dall'esercizio della prostituzione, respingendo due ricorsi presentati contro richieste di versamento di arretrati tributari. I giudici supremi hanno motivato la decisione chiarendo che il prelievo fiscale si applica in ragione dell'esistenza di un'entrata economica effettiva e non implica alcuna forma di approvazione morale o etica dell'attività svolta da parte dello Stato. La sentenza ribadisce dunque il principio secondo cui ogni reddito percepito è soggetto agli obblighi contributivi generali. Lo riferisce Expats.cz.",
+   "more": [
+    "In molti ordinamenti europei la tassazione dei redditi prescinde dalla liceità o dal riconoscimento giuridico specifico della professione. Il principio fiscale generale prevede che qualsiasi flusso monetario che incrementi il patrimonio di una persona fisica sia imponibile, distinguendo nettamente la funzione tributaria statale dalla valutazione etica, amministrativa o penale delle diverse attività svolte dai cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/sex-sells-czech-court-confirms-income-from-prostitution-work-is-taxable",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-20T11:28+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z5b70fd7f",
+   "sez": "economia",
+   "titolo": "Repubblica Ceca, allarme della banca centrale su false offerte di investimento",
+   "orig": "Czech central bank warns of fake investment scheme using its name",
+   "lead": "La Banca nazionale ceca ha diffuso un avviso urgente per mettere in guardia i risparmiatori contro un piano di investimenti fraudolento che sfrutta indebitamente il nome e l'immagine dell'istituto centrale. Attraverso l'invio massiccio di messaggi di posta elettronica ingannevoli, i truffatori promettono di raddoppiare rapidamente il capitale investito facendo riferimento a un presunto programma finanziario garantito dallo Stato. L'allerta giunge in un periodo caratterizzato da una forte crescita delle perdite causate da truffe finanziarie digitali in tutta la Repubblica Ceca. Lo riferisce Expats.cz.",
+   "more": [
+    "Le truffe finanziarie online utilizzano spesso tecniche di ingegneria sociale e marchi istituzionali per carpire la fiducia degli utenti, approfittando della ricerca di rendimenti elevati in periodi di inflazione. Le autorità di vigilanza bancaria ricordano costantemente che nessun ente regolatore garantisce o promuove direttamente investimenti commerciali al dettaglio e raccomandano di verificare sempre gli operatori autorizzati."
+   ],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/czech-central-bank-warns-of-fake-investment-scheme-promising-to-double-money",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-20T08:14+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z6f1b9bd5",
+   "sez": "economia",
+   "titolo": "Uzbekistan e Banca Mondiale avviano il piano strategico decennale per la crescita",
+   "orig": "Uzbekistan and World Bank discuss economic growth strategy for next ten years.",
+   "lead": "I rappresentanti del governo dell'Uzbekistan e i vertici della Banca Mondiale hanno discusso a Bangkok una nuova strategia economica decennale per il Paese, individuando nella creazione di posti di lavoro una priorità fondamentale. Il confronto si è svolto tra il vice primo ministro e ministro dell'Economia e delle Finanze uzbeko, Jamshid Kuchkarov, e la direttrice generale delle operazioni della Banca Mondiale, Anna Bjerde. L'intesa mira a sostenere le riforme strutturali uzbeke per favorire uno sviluppo economico duraturo e ampliare le opportunità per l'occupazione. Lo riferisce Kun.uz.",
+   "more": [
+    "L'Uzbekistan, la nazione più popolosa dell'Asia centrale, ha avviato negli ultimi anni un ampio programma di riforme economiche per liberalizzare il mercato dei cambi, attrarre investimenti internazionali e privatizzare le imprese statali. La collaborazione con gli organismi multilaterali sostiene il passaggio verso un'economia di mercato aperta e la modernizzazione delle infrastrutture pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/20/uzbekistan-and-world-bank-discuss-economic-growth-strategy-for-next-ten-years",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-20T14:27+05:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z61475bbc",
+   "sez": "economia",
+   "titolo": "Uzbekistan, a settembre pagamenti elettronici alle stazioni di servizio per oltre 314 milioni di dollari",
+   "orig": "All payments at gas stations made via cashless methods — Central Bank of Uzbekistan",
+   "lead": "Nel mese di settembre le stazioni di rifornimento carburante dell'Uzbekistan hanno registrato entrate complessive pari a 3.780 miliardi di sum, corrispondenti a oltre 314 milioni di dollari, attraverso quasi 18,5 milioni di transazioni. Secondo quanto comunicato dalla Banca Centrale uzbeka, le normali carte bancarie hanno rappresentato il 91,9 per cento del totale dei pagamenti effettuati, consolidando l'applicazione delle disposizioni entrate in vigore ad aprile che hanno reso obbligatorie le modalità elettroniche senza contanti presso gli impianti di distribuzione di carburante su scala nazionale. Lo riferisce Daryo.",
+   "more": [
+    "L'obbligo dei pagamenti digitali nei distributori fa parte della politica di modernizzazione finanziaria e contrasto all'economia sommersa promossa dal governo uzbeko. La tracciabilità elettronica delle vendite di carburante consente una gestione più trasparente dei flussi monetari, riduce l'evasione dell'imposta sul valore aggiunto e favorisce la rapida diffusione degli strumenti di pagamento bancari tra i cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/20/all-payments-at-gas-stations-made-via-cashless-methods-central-bank-of-uzbekistan/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-20T09:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "ze82e4f87",
+   "sez": "economia",
+   "titolo": "Uzbekistan, operatore cinese pianifica l'ingresso nel mercato taxi con cinquemila veicoli",
+   "orig": "Chinese company plans to enter Uzbekistan’s taxi market",
+   "lead": "Una società cinese ha annunciato l'intenzione di entrare nel mercato dei trasporti urbani e dei taxi in Uzbekistan attraverso una flotta di cinquemila autovetture e il lancio di una propria applicazione digitale di prenotazione. L'iniziativa potrebbe incrementare significativamente la concorrenza nel settore, arrivando in una fase segnata da frequenti disservizi tecnici sulla piattaforma Yandex Go e da forti rincari delle tariffe delle corse registrati in diverse città del Paese. L'arrivo del nuovo attore promette di ridefinire gli equilibri della mobilità locale. Lo riferisce Daryo.",
+   "more": [
+    "Il mercato del trasporto su richiesta nelle aree metropolitane dell'Asia centrale è stato storicamente dominato da operatori russi come Yandex. L'ingresso di aziende tecnologiche cinesi riflette l'espansione economica di Pechino nella regione, con investimenti che combinano la fornitura di flotte automobilistiche moderne e piattaforme digitali per intercettare la forte domanda di mobilità urbana a costi accessibili."
+   ],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/20/chinese-company-plans-to-enter-uzbekistans-taxi-market/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-20T08:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zcbb44d97",
+   "sez": "economia",
+   "titolo": "Ghana, firmata la seconda fase del progetto Petroleum Hub",
+   "orig": "We&#39;re building a credible, competitive and investor-friendly energy sector - Jinapor",
+   "lead": "In occasione della African Energy Week, il ministro dell'Energia del Ghana John Jinapor ha ribadito l'impegno governativo per la costruzione di un comparto energetico affidabile, competitivo e accogliente per gli investitori internazionali. Durante la manifestazione, il ministro ha presenziato alla firma formale dell'accordo per l'avvio della seconda fase del Petroleum Hub Project, un'infrastruttura considerata strategica per il consolidamento industriale della filiera petrolifera nazionale e per l'attrazione di capitali esteri a supporto della crescita a lungo termine dell'economia ghanese. Lo riferisce 3News.",
+   "more": [
+    "Il Ghana ha iniziato a estrarre petrolio offshore nel 2010 e da allora punta a sviluppare la raffinazione e la trasformazione interna degli idrocarburi per ridurre la dipendenza dai carburanti importati. I progetti di hub petrolifero mirano a integrare raffinerie, depositi e impianti petrolchimici per servire non solo il mercato locale ma l'intera regione dell'Africa occidentale."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/energy/were-building-a-credible-competitive-and-investor-friendly-energy-sector-jinapor",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-20T08:12+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z8a93afec",
+   "sez": "economia",
+   "titolo": "Ghana, il ministro delle Finanze chiede una svolta rispetto ai modelli del passato",
+   "orig": "New Economy: Ato Forson calls for ‘clear break’ with old patterns",
+   "lead": "Intervenendo davanti agli studenti e al corpo docente dell'Università del Ghana, il ministro delle Finanze Ato Forson ha sostenuto che il Paese deve capitalizzare i risultati raggiunti sul fronte della stabilizzazione economica per realizzare una rottura definitiva con i vecchi modelli del passato. Forson ha delineato la prospettiva di una nuova economia nazionale fondata su presupposti più solidi e su una gestione rigorosa, esortando il mondo accademico e la società civile ad accompagnare le trasformazioni necessarie per evitare il ritorno a fragilità finanziarie. Lo riferisce 3News.",
+   "more": [
+    "Negli ultimi anni il Ghana ha affrontato gravi squilibri macroeconomici, culminati in una crisi del debito sovrano che ha richiesto un programma di aiuti da parte del Fondo Monetario Internazionale. Il ripristino della stabilità finanziaria comporta riforme fiscali, contenimento della spesa pubblica e diversificazione delle esportazioni agricole e minerarie per prevenire crisi cicliche di liquidità estera."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/economy/new-economy-ato-forson-calls-for-clear-break-with-old-patterns",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-20T06:40+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z082bd36d",
+   "sez": "economia",
+   "titolo": "Ghana, gli investimenti esteri raggiungono 2,62 miliardi di dollari nel 2025",
+   "orig": "Mahama links rising foreign investment to improving economic stability",
+   "lead": "Il presidente del Ghana John Dramani Mahama ha collegato l'aumento dei flussi di capitale estero ai progressi compiuti sul fronte della stabilità macroeconomica del Paese, affermando che il recupero economico sta rafforzando la fiducia della comunità finanziaria globale. Secondo i dati presentati dal capo di Stato, gli afflussi di investimenti diretti esteri sono cresciuti sensibilmente, raggiungendo i 2,62 miliardi di dollari nel 2025 rispetto ai 624 milioni di dollari registrati nel corso del 2024, evidenziando una robusta ripresa dei canali di finanziamento internazionali. Lo riferisce MyJoyOnline.",
+   "more": [
+    "Gli investimenti diretti esteri rappresentano un indicatore cruciale per la sostenibilità economica delle nazioni africane, in quanto forniscono valuta pregiata, creano occupazione e finanziano progetti infrastrutturali di lungo termine. La stabilità del tasso di cambio e la riduzione dell'inflazione sono parametri determinanti per incentivare i gruppi internazionali a investire capitali diretti nell'economia reale."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/mahama-links-rising-foreign-investment-to-improving-economic-stability/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-20T10:11+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z0a4142b3",
+   "sez": "economia",
+   "titolo": "Ghana, il ministero dell'Energia promuove un tavolo per sbloccare il polo petrolifero",
+   "orig": "Energy Minister pledges inter-ministerial push to unblock Petroleum Hub project",
+   "lead": "Il ministro dell'Energia e della Transizione Ecologica del Ghana, John Abdulai Jinapor, si è impegnato ad avviare un coordinamento interministeriale per sbloccare le problematiche che stanno rallentando lo sviluppo del Petroleum Hub. Il titolare del dicastero ha spiegato che i confronti istituzionali affronteranno i nodi ancora aperti relativi all'acquisizione dei terreni destinati alle opere, al versamento dei relativi risarcimenti ai proprietari locali e alle strutture di finanziamento del progetto, passaggi giudicati indispensabili per consentire l'effettiva prosecuzione dei cantieri dell'infrastruttura. Lo riferisce MyJoyOnline.",
+   "more": [
+    "I grandi complessi industriali ed energetici richiedono vaste porzioni di territorio, rendendo le procedure di esproprio e compensazione sociale un passaggio particolarmente delicato. Risolvere tempestivamente le dispute fondiarie e assicurare un equo indennizzo alle comunità locali è essenziale per prevenire contenziosi giudiziari e ritardi nella realizzazione delle opere infrastrutturali strategiche."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/energy-minister-pledges-inter-ministerial-push-to-unblock-petroleum-hub-project/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-20T10:07+00:00"
+    },
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/energy-ministry-woos-investors-as-phdc-signs-global-sphere-deal-for-petroleum-hub-phase-two/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-20T10:18+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zf41f4640",
+   "sez": "economia",
+   "titolo": "Uganda, la banca centrale seleziona sette operatori principali per i titoli di Stato",
+   "orig": "Why only seven primary dealers?",
+   "lead": "La Bank of Uganda ha deliberato la selezione di sette intermediari finanziari su un totale di otto candidati per la nuova tornata di Primary Dealer, il gruppo di operatori incaricati della gestione e collocamento dei titoli di debito sovrano. Il provvedimento definisce il canale istituzionale attraverso cui l'istituto centrale gestisce la vendita primaria e la liquidità secondaria delle emissioni pubbliche, restringendo l'accesso ai soli soggetti bancari che hanno soddisfatto tutti i requisiti patrimoniali e tecnici stabiliti dalle autorità di vigilanza. Lo riferisce Daily Monitor.",
+   "more": [
+    "Nel sistema finanziario, i primary dealer sono banche o intermediari scelti dall'autorità monetaria per partecipare direttamente alle aste dei titoli governativi con l'obbligo di garantire liquidità al mercato secondario. Questa funzione è determinante per assicurare al ministero delle Finanze il collocamento regolare del debito pubblico e per facilitare la trasmissione della politica monetaria."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Monitor",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://www.monitor.co.ug/uganda/business/prosper/why-only-seven-primary-dealers--5637644",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-10-20T06:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z03ba7c9b",
+   "sez": "economia",
+   "titolo": "Sud Sudan, gli stipendi dei dipendenti pubblici saranno pagati tramite banche commerciali",
+   "orig": "BoSS announces salary payments for civil servants through commercial banks",
+   "lead": "La Banca del Sud Sudan ha stabilito che l'erogazione degli stipendi per i dipendenti statali avverrà d'ora in avanti attraverso specifiche banche commerciali designate. Con una circolare ufficiale del 19 ottobre, l'istituto centrale ha comunicato ai lavoratori del settore pubblico di recarsi direttamente presso le rispettive filiali bancarie per ritirare i compensi in contanti, secondo le procedure operative adottate da ciascun istituto finanziario. L'intervento punta a razionalizzare i canali di pagamento dei salari e a garantire una gestione più ordinata dei flussi monetari dell'amministrazione. Lo riferisce Eye Radio.",
+   "more": [
+    "La transizione verso pagamenti intermediati dal settore bancario è uno strumento utilizzato per contrastare la dispersione di fondi pubblici e verificare l'effettiva identità dei percettori di stipendio statale. In contesti post-bellici o a bassa bancarizzazione, l'accesso a filiali fisiche per il ritiro del contante rappresenta una fase propedeutica per la modernizzazione della pubblica amministrazione."
+   ],
+   "fonti": [
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/boss-announces-salary-payments-for-civil-servants-through-commercial-banks/?utm_source=rss&utm_medium=rss&utm_campaign=boss-announces-salary-payments-for-civil-servants-through-commercial-banks",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-20T06:45+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zf5727f03",
+   "sez": "mondo",
+   "titolo": "Organizzazioni internazionali chiedono all'Onu di votare contro il blocco a Cuba",
+   "orig": "Organizaciones del mundo piden a la ONU votar contra el bloqueo económico de EU a Cuba",
+   "lead": "Diverse formazioni sociali, politiche, culturali e accademiche di numerosi Paesi, tra cui spiccano realtà del Messico, hanno rivolto un appello congiunto agli Stati membri dell'Assemblea Generale delle Nazioni Unite. L'iniziativa esorta i governi a non cedere alle pressioni esercitate dagli Stati Uniti e a esprimere il proprio voto a favore della risoluzione per la fine del blocco economico, commerciale e finanziario imposto a Cuba. La votazione, in programma la prossima settimana presso il palazzo di Vetro, riproporrà il tradizionale esame della misura sanzionatoria statunitense. Lo riferisce La Jornada.",
+   "more": [
+    "L'embargo economico degli Stati Uniti contro Cuba, formalizzato nei primi anni Sessanta del secolo scorso, è oggetto annualmente di una votazione all'Assemblea Generale delle Nazioni Unite. La maggioranza degli Stati membri approva regolarmente una risoluzione di condanna che chiede la rimozione delle restrizioni commerciali e finanziarie, definendole contrarie al diritto internazionale e alla libertà di commercio."
+   ],
+   "fonti": [
+    {
+     "n": "La Jornada",
+     "p": "XX",
+     "c": "Città del Messico",
+     "u": "https://www.jornada.com.mx/2026/10/20/politica/008n1pol?partner=rss",
+     "angolo": "",
+     "atlas": "Mexico",
+     "t": "2026-10-20T08:45+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zab73940f",
+   "sez": "economia",
+   "titolo": "Giappone, la casa automobilistica cinese Chery valuta il debutto di modelli ibridi",
+   "orig": "China's Chery eyes hybrid vehicle launch in Japan amid trade barriers",
+   "lead": "Il costruttore automobilistico cinese Chery sta valutando il lancio di veicoli con motorizzazione ibrida sul mercato del Giappone, in un contesto internazionale contrassegnato da crescenti barriere commerciali e dazi sui modelli esclusivamente elettrici. La decisione strategica riflette la volontà del gruppo di aggirare le restrizioni protezionistiche e rispondere alle preferenze consolidate della clientela giapponese, tradizionalmente incline alle tecnologie ibride, aprendo un nuovo fronte di penetrazione commerciale in un mercato storicamente controllato dai grandi marchi automobilistici nazionali. Lo riferisce Nikkei Asia.",
+   "more": [
+    "I costruttori automobilistici cinesi hanno ampliato la loro presenza globale grazie alla leadership nelle batterie per auto elettriche. Tuttavia, di fronte ai dazi introdotti o minacciati da vari mercati internazionali, diverse case stanno diversificando l'offerta puntando su ibridi plug-in, segmento che garantisce margini stabili e incontra minori resistenze normative e infrastrutturali in molti Paesi asiatici."
+   ],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/automobiles/china-s-chery-eyes-hybrid-vehicle-launch-in-japan-amid-trade-barriers",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z692e1413",
+   "sez": "economia",
+   "titolo": "Azerbaigian, il 92,6% delle imposte viene dichiarato su base volontaria",
+   "orig": "Azerbaijan tax official says 92.6% of taxes declared voluntarily",
+   "lead": "Un funzionario dell'amministrazione fiscale dell'Azerbaigian ha reso noto che il 92,6 per cento dei tributi dovuti nel Paese viene ormai presentato attraverso la dichiarazione spontanea e volontaria da parte dei contribuenti. Il risultato mette in luce un progressivo consolidamento della cultura contributiva nazionale e l'efficacia dei meccanismi di semplificazione amministrativa introdotti negli ultimi anni dalle autorità finanziarie, favorendo una maggiore trasparenza e riducendo il ricorso a procedure coattive di verifica per il versamento delle imposte ordinarie dovute all'erario statale. Lo riferisce Trend.",
+   "more": [
+    "La percentuale di adempimento fiscale volontario è un indicatore dell'efficienza dei sistemi tributari moderni. L'adozione di portali telematici per la trasmissione dei redditi, l'incrocio automatizzato delle banche dati bancarie e le agevolazioni per le dichiarazioni corrette riducono i costi di riscossione per lo Stato e migliorano i rapporti con imprese e cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4236946.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-20T14:25+04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "za26b50eb",
+   "sez": "economia",
+   "titolo": "Azerbaigian, deputato critica le commissioni Pos superiori alle tasse per le microimprese",
+   "orig": "Azerbaijan MP says high POS fees exceed microbusiness tax rate",
+   "lead": "Un deputato del parlamento dell'Azerbaigian ha denunciato pubblicamente il livello eccessivo delle commissioni bancarie richieste per l'utilizzo dei terminali di pagamento elettronico Pos, evidenziando che i costi di transazione superano spesso l'aliquota fiscale complessiva applicata alle microimprese. Secondo il parlamentare, l'onere imposto dal circuito finanziario finisce per gravare pesantemente sulla gestione quotidiana dei piccoli commercianti indipendenti, rischiando di vanificare gli incentivi fiscali concepiti dalle istituzioni per sostenere l'imprenditoria di base e scoraggiando l'accettazione dei pagamenti digitali. Lo riferisce Trend.",
+   "more": [
+    "Le commissioni di interbancaria e i costi di gestione dei terminali di pagamento rappresentano un tema dibattuto nelle politiche commerciali globali. Quando le commissioni percentuali superano i margini di profitto o le imposte forfettarie, i piccoli esercenti possono preferire il contante, ostacolando i piani statali volti a digitalizzare i pagamenti per combattere l'economia sommersa."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4236961.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-20T14:17+04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z529bd5d6",
+   "sez": "economia",
+   "titolo": "Mar Caspio, la piattaforma East Azeri supera i 645 milioni di barili di greggio estratti",
+   "orig": "East Azeri platform in Caspian produces over 645M barrels of oil to date",
+   "lead": "La piattaforma petrolifera offshore East Azeri, operativa nelle acque territoriali del Mar Caspio, ha superato la soglia produttiva cumulativa di oltre 645 milioni di barili di greggio dall'avvio delle sue attività di estrazione. Il traguardo consolida il ruolo dell'infrastruttura nell'ambito del complesso di giacimenti marini azeri, confermando l'importanza strategica dell'impianto per il sostentamento delle esportazioni energetiche del Paese verso i mercati internazionali e per i ricavi pubblici derivanti dallo sfruttamento degli idrocarburi fossili. Lo riferisce Trend.",
+   "more": [
+    "Il complesso offshore Azeri-Chirag-Gunashli nel Mar Caspio costituisce la spina dorsale della produzione petrolifera dell'Azerbaigian. Il greggio estratto viene trasportato principalmente attraverso l'oleodotto Baku-Tbilisi-Ceyhan verso il Mediterraneo, rappresentando una delle principali fonti di approvvigionamento energetico per i Paesi europei e l'asse centrale dell'economia azera."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4237028.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-20T14:10+04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z3eb1a4d8",
+   "sez": "economia",
+   "titolo": "RD Congo: l'Assemblea approva leggi per oltre 600 milioni di dollari",
+   "orig": "L’Assemblée nationale adopte quatre projets de loi portant sur plus de 600 millions de dollars pour financer des projets de développement",
+   "lead": "L’Assemblea nazionale della Repubblica Democratica del Congo ha approvato quattro progetti di legge dal valore complessivo di oltre 600 milioni di dollari. I fondi saranno destinati al finanziamento di progetti di sviluppo socio-economico in diverse regioni del Paese africano per rilanciare le infrastrutture locali. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/20/actualite/politique/lassemblee-nationale-adopte-quatre-projets-de-loi-portant-sur-plus-de",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T11:01+01:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/faits-divers/escroquerie-presumee-un-credit-bail-de-10-vehicules-au-coeur-dune-affaire-de-2319-millions-de-fcfa/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T10:10+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/economie/la-der-fj-octroie-17-millions-a-5-gies-du-departement-de-louga/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T10:00+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/affaire-des-huissiers-a-la-crief-le-delibere-attendu-le-28-octobre/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T23:10+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/affaire-ecobank-a-la-crief-7-ans-de-prison-requis-contre-me-halime-saad-chaloub-et-les-deux-huissiers/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T19:03+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/19/crief-7-ans-de-prison-requis-contre-deux-huissiers-ecobank-reclame-5-millions-de-dollars/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-19T22:15+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z186c8865",
+   "sez": "mondo",
+   "titolo": "Crisi a Hormuz: 6.000 marittimi bloccati tra attacchi a navi e droni",
+   "orig": "Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says",
+   "lead": "Circa seimila marittimi sono rimasti bloccati vicino allo Stretto di Hormuz mentre si intensificano gli attacchi contro ventiquattro navi mercantili nella regione. La Marina delle Guardie della Rivoluzione iraniana ha dichiarato che due petroliere hanno preso fuoco dopo essere colpite da mine, rivendicando anche l'abbattimento di un drone statunitense.",
+   "more": [
+    "Lo Stretto di Hormuz è un punto strategico fondamentale per il commercio mondiale di petrolio, situato tra il Golfo Persico e il Golfo di Oman, dove passa circa un quinto del greggio globale."
+   ],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-18T22:23-04:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-two-tankers-hit-mines-set-ablaze-south-hormuz",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T10:31+01:00"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147639-reports-iran-threatens-seven-undersea-internet-cables-in-strait-of-hormuz.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-19T20:01+00:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947346/irgc-claims-it-downed-us-mq-9-drone-over-strait-of-hormuz",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-20T12:56+03:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z60e52142",
+   "sez": "prima",
+   "titolo": "Mistero Amelia Earhart: l'oggetto individuato nel Pacifico era soltanto un gruppo di alberi",
+   "orig": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+   "lead": "Un'spedizione scientifica statunitense inviata su un'isola remota del Pacifico ha stabilito che la sagoma individuata dalle immagini satellitari non è il relitto dell'aereo di Amelia Earhart, bensì un gruppo di alberi. La scoperta lascia tuttora insoluto il celebre mistero della scomparsa dell'aviatrice avvenuta nel 1937.",
+   "more": [
+    "Amelia Earhart scomparve nel Pacifico centrale nel luglio 1937 durante il tentativo di compiere la sorvolata del globo lungo la rotta equatoriale, scatenando decenni di ricerche e ipotesi storiografiche."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T09:11+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T04:43+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-16T10:09+00:00"
+    },
+    {
+     "n": "Sky News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://news.sky.com/story/object-thought-to-be-amelia-earharts-missing-plane-likely-a-collection-of-large-trees-researchers-find-13601021",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-19T15:45+01:00"
+    },
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/articles/cm70p13r58pjo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T05:51+00:00"
+    },
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/entertainment/amelia-earhart-expedition-heads-to-pacific-atoll/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-10-20T06:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z5dcecda4",
+   "sez": "economia",
+   "titolo": "OMC: via ai colloqui per l'adesione del Timor Est all'accordo sugli appalti pubblici",
+   "orig": "Talks kick off for Timor-Leste's accession to government procurement pact",
+   "lead": "Il Comitato sugli appalti pubblici dell'Organizzazione mondiale del commercio ha avviato ufficialmente i negoziati per l'adesione del Timor Est all'accordo plurilaterale sugli appalti governativi. L'iniziativa punta a integrare il Paese asiatico nei mercati internazionali degli appalti pubblici, favorendo trasparenza e riforme economiche interne.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Organizzazione mondiale del commercio (Omc)",
+     "p": "XX",
+     "c": "Ginevra",
+     "u": "https://www.wto.org/english/news_e/news26_e/gpro_14oct26_515_e.htm",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-14T00:00+00:00"
+    },
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/internasional/tp-68574/timor-leste-sai-defensor-pas-mundial/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-20T00:32+00:00"
+    },
+    {
+     "n": "Island Times",
+     "p": "XX",
+     "c": "Ngerulmud",
+     "u": "https://islandtimes.org/ngaraard-states-second-batch-of-sea-cucumber-release-effectively-improves-resource-levels/",
+     "angolo": "",
+     "atlas": "Palau",
+     "t": "2026-10-20T10:15+00:00"
+    },
+    {
+     "n": "Tatoli (inglese)",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://en.tatoli.tl/2026/10/20/timor-leste-haze-air-quality-improves-as-pollution-levels-fall/16/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-20T07:10+00:00"
+    },
+    {
+     "n": "Tatoli (inglese)",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://en.tatoli.tl/2026/10/20/timor-leste-to-submit-report-on-haze-pollution-to-asean/15/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-20T06:20+00:00"
+    },
+    {
+     "n": "Tatoli (inglese)",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://en.tatoli.tl/2026/10/20/aid-cuts-forcing-fossil-fuel-dependence-in-timor-leste/10/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-10-20T01:46+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z5c6241f4",
+   "sez": "tech",
+   "titolo": "Russia: i distributori chiedono norme d'emergenza dopo gli attacchi ai centri dati",
+   "orig": "Russian retailers seek emergency operating rules for outages following data center attacks, plus permission to store data in ‘friendly’ countries",
+   "lead": "L'Associazione delle aziende di commercio elettronico russa ha chiesto al primo ministro Michail Mišustin un regime legale speciale d'emergenza per gestire le frequenti interruzioni dei sistemi informativi statali. La richiesta giunge dopo una serie di attacchi contro i centri dati nazionali che hanno causato gravi blocchi operativi alle vendite.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/20/russian-retailers-seek-emergency-operating-rules-for-outages-following-data-center-attacks-plus-permission-to-store-data-in-friendly-countries",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-20T10:05+03:00"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/power-outages-in-12-regions-after-russian-assault-on-ukraines-power-plants/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-20T09:37+00:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-economy/4176213-power-outages-reported-in-12-regions-following-russian-attacks.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-20T11:44+03:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zbaa98e11",
+   "sez": "mondo",
+   "titolo": "Spagna: Mónica García rinuncia alla lista del Frente Amplio",
+   "orig": "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
+   "lead": "La ministra della Salute spagnola Mónica García ha annunciato la decisione di rinunciare alla propria candidatura nella lista del Frente Amplio, lasciando il secondo posto alla deputata Tesh Sidi. García ha dichiarato di voler mettere il bene comune davanti agli interessi personali pur rimanendo alla guida del movimento Más Madrid.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-10-20/monica-garcia-renuncia-a-la-lista-del-frente-amplio-siempre-he-antepuesto-el-bien-comun-al-personal.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-20T08:37+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad66504e85ecec4478b459e.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-19T22:53+02:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad719defdddff597d8b458e.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-20T10:14+02:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/congreso-del-frente-amplio-desactivo-tensiones-el-impuesto-los-ricos-y-blindo-al-gobierno-orsi-n6061005",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-20T05:00-03:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zc954c498",
+   "sez": "mondo",
+   "titolo": "RD Congo: l'ex presidente Kabila assume la guida del movimento politico-militare FRN",
+   "orig": "Le Potentiel : « En prenant la tête du FRN, Kabila brouille les cartes du dialogue national “inclusif” »",
+   "lead": "L'ex presidente della Repubblica Democratica del Congo Joseph Kabila ha assunto la guida del Fronte per la rifondazione della nazione, un nuovo movimento politico-militare annunciato a Goma. La mossa complica il quadro del dialogo nazionale inclusivo promossa dalle autorità di Kinshasa per stabilizzare la regione orientale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/20/actualite/revue-de-presse/le-potentiel-en-prenant-la-tete-du-frn-kabila-brouille-les",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T06:16+01:00"
+    },
+    {
+     "n": "SOS Médias Burundi",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.sosmediasburundi.org/2026/10/20/photo-de-la-semaine-rdc-joseph-kabila-prend-la-tete-dun-front-politico-militaire-pour-renverser-tshisekedi/",
+     "angolo": "",
+     "atlas": "Burundi",
+     "t": "2026-10-20T08:12+00:00"
+    },
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/20/rdc-christian-bosembe-ferme-la-porte-des-medias-joseph-kabila-et-au-frn",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T06:20+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zcd836efb",
+   "sez": "economia",
+   "titolo": "Nuova Caledonia: l'Unione Europea verso un accordo strategico sul nichel",
+   "orig": "EU poised to sign deal with New Caledonia on crucial nickel resources",
+   "lead": "L'Unione Europea si appresta a firmare un accordo strategico con la Nuova Caledonia per la fornitura e la gestione delle risorse di nichel. L'intesa mira a garantire alle industrie europee l'accesso a materie prime critiche fondamentali per la transizione ecologica e tecnologica continentale. Lo riferisce RNZ Pacific.",
+   "more": [
+    "La Nuova Caledonia possiede circa il dieci percento delle riserve mondiali note di nichel, un metallo fondamentale per la produzione di batterie per veicoli elettrici."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2032537/eu-poised-to-sign-deal-with-new-caledonia-on-crucial-nickel-resources",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-20T17:14+13:00"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/436769/indonesia-portugal-sign-deal-to-recognize-fishing-crew-certificates",
+     "angolo": "",
+     "atlas": "Indonesia",
+     "t": "2026-10-20T16:22+07:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z62f4b71a",
+   "sez": "salute",
+   "titolo": "Guam: avviate le operazioni di ripristino dopo il passaggio del super tifone Champi",
+   "orig": "Guam begins recovery from Champi as CNMI declares all clear",
+   "lead": "L'isola di Guam ha avviato le operazioni di ripristino dopo il passaggio del super tifone Champi, con la riapertura graduale degli uffici governativi e dei servizi portuali. Le strutture sanitarie locali hanno garantito la continuità operativa durante la tempesta, registrando anche la nascita di sedici bambini nell'ospedale principale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2031677/guam-begins-recovery-from-champi-as-cnmi-declares-all-clear",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-20T07:13+13:00"
+    },
+    {
+     "n": "Island Times",
+     "p": "XX",
+     "c": "Ngerulmud",
+     "u": "https://islandtimes.org/typhoon-babies-16-born-at-guam-hospital-during-champi/",
+     "angolo": "",
+     "atlas": "Palau",
+     "t": "2026-10-20T08:05+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zff1ee2a1",
+   "sez": "mondo",
+   "titolo": "Romania: il premier designato Niculescu chiede la fiducia al Parlamento",
+   "orig": "The designated Prime Minister of Romania, Luca Niculescu, and the proposed ministers will request the vote of investiture in Parliament",
+   "lead": "Il primo ministro designato della Romania, Luca Niculescu, si presenta martedì davanti alle Camere riunite del Parlamento per chiedere il voto di fiducia alla sua squadra di governo e al programma politico. La compagine governativa vede una forte presenza del Partito Socialdemocratico, titolare di dodici dicasteri chiave.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/the-designated-prime-minister-of-romania-luca-niculescu-and-the-proposed-ministers-will-request-the-vote-of-investiture-in-parliament/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-20T09:22+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/guvern-luca-niculescu-vot-parlament-2381078",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z501adf3e",
+   "sez": "tech",
+   "titolo": "Serbia: esponenti dell'opposizione e un procuratore presi di mira da software spia",
+   "orig": "2 Serbian opposition figures targeted with spyware, research group says",
+   "lead": "Diversi esponenti dell'opposizione e un procuratore inquirente in Serbia sono stati presi di mira da attacchi informatici con software spia nei loro telefoni cellulari. La denuncia giunge alla vigilia delle elezioni parlamentari previste per la fine di ottobre, sollevando forti preoccupazioni sulla sorveglianza illegale nel Paese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/technology/serbia-opposition-figures-targeted-spyware-citizen-lab/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-20T17:42+08:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T09:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z09e77fdd",
+   "sez": "mondo",
+   "titolo": "Paesi Bassi: l'annuncio del premier Jetten riapre il dibattito sulla maternità surrogata",
+   "orig": "Na aankondiging van premier Jetten in Nederland: waarom is er nog geen wetgeving over draagmoederschap?",
+   "lead": "L'annuncio del primo ministro olandese Rob Jetten di attendere un figlio tramite maternità surrogata ha riaperto la discussione sulla mancanza di una legislazione specifica nel Paese. Attualmente la normativa nei Paesi Bassi lascia irrisolti molti aspetti etici e giuridici per i genitori intenzionali. Lo riferisce VRT NWS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/20/draagmoederschap-nog-niet-wettelijk-geregeld-in-belgie-en-nede.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-20T10:06+00:00"
+    },
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/beschouwing-waarom-suriname-nog-steeds-geen-dubai-is/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-20T03:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z74777059",
+   "sez": "mondo",
+   "titolo": "Europa: mobilitazioni e proteste giovanili contro il carovita in vari Paesi",
+   "orig": "Spánn, Belgía, Ítalía, Portúgal og Albanía – ungt fólk mótmælir í Evrópu",
+   "lead": "Una vasta ondata di proteste giovanili e studentesche sta interessando diversi Paesi europei tra cui Italia, Francia, Albania, Spagna e Portogallo. Le manifestazioni denunciano il forte rincaro del costo della vita, il prezzo degli alloggi e le politiche dell'istruzione, portando a tensioni e scontri con le forze dell'ordine.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-20-spann-belgia-italia-portugal-og-albania-ungt-folk-motmaelir-i-evropu-490405/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-20T07:24+00:00"
+    },
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/internacional/detalhe/europa-treme-sob-gigantescos-protestos-populares-contra-perda-de-qualidade-de-vida-albania-franca-e-portugal-lideram-abalo-civico-no-velho-continente-75478.html",
+     "angolo": "",
+     "atlas": "Angola"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z63fbac82",
+   "sez": "economia",
+   "titolo": "Malawi: impennata dei costi di trasporto a causa della scarsità di carburante",
+   "orig": "Transport costs surge in Malawi as fuel scarcity bites",
+   "lead": "La carenza di carburante registrata in Malawi alla fine di settembre ha provocato un incremento del 14,3 percento nelle spese mensili per i trasporti. Secondo un'analisi economica, la spesa media delle famiglie per gli spostamenti è aumentata considerevolmente aggravando l'inflazione e il costo della vita locale. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/transport-costs-surge-in-malawi-as-fuel-scarcity-bites/?utm_source=rss&utm_medium=rss&utm_campaign=transport-costs-surge-in-malawi-as-fuel-scarcity-bites",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-20T09:10+00:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/svijet/fuel-prices-in-federation-of-bih-surge-since-early-september/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-20T11:54+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z5125b7a9",
+   "sez": "mondo",
+   "titolo": "USA: Trump rivendica il voto ispanico in vista delle elezioni di metà mandato",
+   "orig": "Trump cree que mantiene el apoyo hispano a dos semanas de las elecciones de medio mandato",
+   "lead": "A due settimane dalle elezioni di metà mandato negli Stati Uniti, Donald Trump sostiene di mantenere un solido sostegno tra gli elettori ispanici. Tuttavia, recenti sondaggi indicano un netto calo dei consensi per l'ex presidente e per il Partito Repubblicano all'interno della comunità latinoamericana negli ultimi anni.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/internacional/trump-cree-mantiene-apoyo-hispano_1_1132171.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-10-20T09:44+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/se-encamina-el-partido-republicano-a-una-derrota-historica-las-cifras-que-encienden-alarmas-a-dos-semanas-de-las-elecciones-legislativas-en-ee-uu-3594659",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-19T23:05-05:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/20/malgre-les-allegations-mensongeres-de-fraude-entretenues-par-donald-trump-le-vote-anticipe-dessine-une-forte-participation-aux-midterms_6797818_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-20T05:00+02:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/amerique/midterms-au-colorado-linsaisissable-vote-latino-20261020_DEVPTJAN3ZFCDNSXR44563NQZE/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-20T08:05+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zb28094b6",
+   "sez": "mondo",
+   "titolo": "Nicaragua: il leader della Juventud Sandinista conferma fedeltà a Ortega e Murillo",
+   "orig": "Óscar Pérez, el “mimado” de Rosario Murillo a cargo de la Juventud Sandinista",
+   "lead": "Il coordinatore nazionale della Juventud Sandinista, Óscar Pérez, ha confermato la sua totale fedeltà ai vertici del regime di Daniel Ortega e Rosario Murillo durante un'assemblea. Figura molto vicina al potere, Pérez guida l'organizzazione giovanile utilizzata dal governo per consolidare il consenso e il controllo sociale. Lo riferisce Confidencial.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/analisis/oscar-perez-el-mimado-de-rosario-murillo-a-cargo-de-la-juventud-sandinista/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-10-20T06:28+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/venezuela/la-ley-contra-el-odio-causo-un-dano-enorme-en-venezuela-no-debe-reformarse-debe-ser-derogada-oscar-murillo-coordinador-de-provea-3594090",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-19T22:27-05:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "za0130b55",
+   "sez": "tech",
+   "titolo": "USA: ban governativo per l'IA cinese DeepSeek, Pechino contesta la decisione",
+   "orig": "Governo Trump veta uso da IA chinesa DeepSeek em agências governamentais; China critica medida",
+   "lead": "Il governo degli Stati Uniti ha vietato l'uso delle applicazioni di intelligenza artificiale sviluppate dalla startup cinese DeepSeek all'interno delle agenzie federali civili per motivi di sicurezza nazionale. La Cina ha criticato la decisione accusando Washington di politicizzare la tecnologia e di ostacolare la concorrenza.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/governo-trump-veta-uso-da-ia-chinesa-deepseek-em-agencias-governamentais-china-critica-medida.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-20T07:17-03:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/china-defiende-a-deepseek-tras-el-veto-de-eeuu-a-su-ia-en-sistemas-gubernamentales_0_VGZH1Y3BJC.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z709f661f",
+   "sez": "mondo",
+   "titolo": "Italia: scioperi nei trasporti e carovita, il governo prepara nuove misure",
+   "orig": "Italia enfrenta ola de protestas de transportistas y por el encarecimiento del costo de vida: Giorgia Meloni prepara imponer medidas",
+   "lead": "L'Italia è interessata da un'ondata di scioperi nel settore dei trasporti e da proteste contro l'aumento del costo della vita. La prima ministra Giorgia Meloni intende convocare il Consiglio dei Ministri per definire un pacchetto di misure urgenti volto ad alleviare la pressione economica sulle famiglie. Lo riferisce El Tiempo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/europa/italia-enfrenta-ola-de-protestas-de-transportistas-y-por-el-encarecimiento-del-costo-de-vida-giorgia-meloni-prepara-imponer-medidas-3594748",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-20T00:01-05:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/economia/mayor-costo-vida-presiona-ingresos-frena-consumo_1792492033",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-20T10:27+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zd7284f45",
+   "sez": "mondo",
+   "titolo": "JD Vance evita il sostegno ufficiale alla rielezione di Netanyahu",
+   "orig": "Il vicepresidente degli Stati Uniti JD Vance ha scelto di non sostenere ufficialmente Benjamin Netanyahu alle elezioni israeliane",
+   "lead": "Il vicepresidente degli Stati Uniti JD Vance ha evitato di sostenere ufficialmente la rielezione del primo ministro israeliano Benjamin Netanyahu. La scelta evidenzia una divergenza rispetto al presidente Donald Trump, mentre Vance ha ribadito di voler sostenere esclusivamente candidati politici statunitensi nelle competizioni elettorali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/20/jd-vance-non-sostiene-benjamin-netanyahu-elezioni-israele/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T08:24+00:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/vance-declines-to-endorse-netanyahus-reelection-bid-breaking-with-trump/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-20T07:59+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zc8b84b9a",
+   "sez": "mondo",
+   "titolo": "Attacco informatico contro il partito tedesco AfD",
+   "orig": "Tausende Mails? AfD bestätigt Angriff auf E-Mail-Konten",
+   "lead": "Il partito di estrema destra tedesco Alternative für Deutschland ha confermato di aver subito un attacco hacker ai propri server di posta elettronica. Gli autori del raid rivendicano la diffusione di 420.000 e-mail interne, anche se l'autenticità del materiale diffuso non è ancora stata accertata.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445623/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-20T11:19+02:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/bundesregierung-news-afd-hackerangriff-mails-li.3529564",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T06:39+00:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/20/hackers-steal-421000-emails-belonging-to-members-of-germanys-far-right-afd-party",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T11:41+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z86d958aa",
+   "sez": "mondo",
+   "titolo": "L'Iran riferisce di esplosioni a bordo di petroliere nel Golfo",
+   "orig": "Iranische Revolutionsgarde meldet Explosionen an Öltankern",
+   "lead": "I Guardiani della Rivoluzione dell'Iran hanno segnalato esplosioni su alcune petroliere, mentre cresce la tensione con gli Stati Uniti. Il contesto bellico tra Washington e Teheran si è inasprito dopo la decisione del presidente Donald Trump di dichiarare terminata la tregua concordata tra le due nazioni.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445633/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-20T12:04+02:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/iran-krieg-erneut-tanker-in-strasse-von-hormuz-angegriffen-eu-behoerde-warnt-fluggesellschaften-ld.10021246",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-20T10:17+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z8cae668b",
+   "sez": "mondo",
+   "titolo": "Macron garantisce alla Francia nuove forniture di diesel dal Golfo",
+   "orig": "Diesel : Macron sécurise 200 000 tonnes supplémentaires par mois auprès des Émirats et de Bahreïn",
+   "lead": "Durante la sua visita diplomatica nei paesi del Golfo, il presidente francese Emmanuel Macron ha stipulato un accordo per ricevere 200.000 tonnellate supplementari di diesel al mese da Emirati Arabi Uniti e Bahrein, garantendo maggior stabilità agli approvvigionamenti energetici nazionali francesi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/moyen-orient/20261020-diesel-macron-s%C3%A9curise-200-000-tonnes-suppl%C3%A9mentaires-par-mois-aupr%C3%A8s-des-%C3%A9mirats-et-de-bahre%C3%AFn",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-20T09:53+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/20/emmanuel-macron-annonce-avoir-securise-des-livraisons-supplementaires-de-200-000-tonnes-de-gazole-par-mois-de-la-part-des-emirats-arabes-unis-et-de-bahrein_6797884_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-20T09:57+02:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261020-emmanuel-macron-maintient-sa-tourn%C3%A9e-dans-les-pays-du-golfe-malgr%C3%A9-la-crise-en-france",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-20T09:52+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/il-sest-pris-la-foudre-en-pleine-gueule-emmanuel-macron-aussi-central-quimpuissant-face-a-la-colere-du-17-octobre-20261020_4TDPDJ4ZLNEV3PY3VJRHC64B34/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-20T04:01+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z7b6aeca8",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, attacchi informatici alle banche passano all'agenzia speciale",
+   "orig": "Police to report hacking cases at financial institutions to SCIA",
+   "lead": "La polizia della Corea del Sud ha deciso di trasferire le indagini su una serie di attacchi hacker ai danni di banche e istituzioni finanziarie alla nuova agenzia per i reati gravi, a causa della rilevanza delle violazioni di sicurezza riscontrate nel sistema bancario.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261020009800315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-20T18:58+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10909099",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zc2250b50",
+   "sez": "mondo",
+   "titolo": "Cricket, il Sudafrica reagisce nel Test match contro l'Australia",
+   "orig": "Live: South African counter-attack stalls Aussie bowlers on day three",
+   "lead": "Nella terza giornata del secondo Test match di cricket a Gqeberha, la nazionale del Sudafrica ha avviato un contrattacco in battuta per recuperare terreno contro l'Australia, mentre il lanciatore australiano Mitchell Starc ha conquistato il quattrocentocinquantesimo Elimination wicket della sua carriera di Test match.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-20/test-cricket-live-updates-south-africa-vs-australia/107287648",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-20T07:07+00:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/sport/cricket/australia-vs-south-africa-live-hazlewood-back-for-day-three-but-unable-to-bowl-in-first-session-as-proteas-bat-on-20261020-p61782.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-20T19:21+11:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zd0f94f62",
+   "sez": "mondo",
+   "titolo": "Montenegro, i partiti delle minoranze rivendicano il ruolo nelle riforme costituzionali",
+   "orig": "Manjinske partije: Bez glasova manjinskih partija ne bi bilo podrške ustavnim promjenama",
+   "lead": "I leader dei partiti delle minoranze del Montenegro hanno sottolineato che il loro voto congiunto è stato determinante per approvare la proposta di riforma costituzionale. Esponenti bosniaci, albanesi e croati chiedono ora che il loro sostegno al percorso europeo del Paese sia riconosciuto con impegni concreti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTCG",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://rtcg.me/vijesti/politika/894636/manjinske-partije-bez-glasova-manjinskih-partija-ne-bi-bilo-podrske-ustavnim-promjenama.html",
+     "angolo": "",
+     "atlas": "Montenegro"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/politika/832365/manjinske-partije-bez-naseg-jedinstva-ne-bi-bilo-pobjednickih-poruka-o-evropskom-putu",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-20T12:26+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z90248213",
+   "sez": "mondo",
+   "titolo": "La Turchia valuta la ratifica del patto di difesa con la Mecca",
+   "orig": "Turkey navigates regional tensions as Yemen conflict tests Mecca defense pact",
+   "lead": "Il parlamento della Turchia si appresta a ratificare l'accordo di difesa congiunta siglato con Arabia Saudita e Pakistan. La decisione richiede ad Ankara un difficile bilanciamento diplomatico per contrastare l'influenza iraniana in Yemen, evitando tuttavia di rimanere coinvolta in operazioni militari dirette.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Bianet English",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://bianet.org/haber/turkey-navigates-regional-tensions-as-yemen-conflict-tests-mecca-defense-pact-324593",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-10-19T15:55+03:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-parliament-set-ratify-mecca-joint-defence-agreement",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T11:12+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z1a2da8c7",
+   "sez": "mondo",
+   "titolo": "Ucraina, Kramatorsk e Sloviansk snodi cruciali per la guerra",
+   "orig": "Le due città dove si decide la guerra in Ucraina",
+   "lead": "Le truppe russe si trovano a circa dieci chilometri da Kramatorsk e Sloviansk, le due città dell'Ucraina orientale trasformatesi nei principali ostacoli all'avanzata dell'invasione. Nel frattempo, inviati statunitensi sono attesi a Oslo per colloqui sul conflitto direttamente con il presidente Volodymyr Zelensky.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/20/kramatorsk-sloviansk-ucraina/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T10:02+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/2026/10/20/guerra-ucraina-russia-ultime-notizie-diretta",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zabc05fb3",
+   "sez": "mondo",
+   "titolo": "Sud Sudan, polemiche sulle restrizioni di viaggio ai funzionari",
+   "orig": "Explainer: South Sudan’s travel restrictions in 7 questions",
+   "lead": "Il presidente del Sud Sudan Salva Kiir ha imposto nuove restrizioni di viaggio per i funzionari di governo in carica ed ex dirigenti pubblici. La misura è stata duramente condannata dalla fazione d'opposizione SPLM-IO, che ha tuttavia confermato la propria intentione di partecipare alle prossime elezioni politiche.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/explainer-south-sudans-travel-restrictions-in-7-questions",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-20T09:34+00:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/pars-splm-io-faction-affirms-election-participation-condemns-travel-restrictions-on-former-officials/?utm_source=rss&utm_medium=rss&utm_campaign=pars-splm-io-faction-affirms-election-participation-condemns-travel-restrictions-on-former-officials",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-20T06:08+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z83435b61",
+   "sez": "mondo",
+   "titolo": "Sud Sudan, la società civile elogia la stretta contro la tratta di minori",
+   "orig": "Civil society lauds army crackdown on child trafficking",
+   "lead": "Organizzazioni della società civile del Sud Sudan hanno espresso apprezzamento per l'operazione dell'esercito nazionale contro la tratta di minori, culminata con l'arresto di otto sospetti. L'attivismo civico sollecita interventi continui per sradicare un fenomeno favorito da anni di debolezza istituzionale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/civil-society-lauds-army-crackdown-on-child-trafficking",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-20T08:52+00:00"
+    },
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/civil-society-urges-sustained-action-against-child-trafficking/?utm_source=rss&utm_medium=rss&utm_campaign=civil-society-urges-sustained-action-against-child-trafficking",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-19T15:19+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z7b9542b8",
+   "sez": "mondo",
+   "titolo": "La Germania finanzia aiuti nutrizionali di emergenza in Sud Sudan",
+   "orig": "Germany embassy funds emergency nutrition response in Guit County",
+   "lead": "L'ambasciata tedesca a Juba ha destinato fondi a un programma nutrizionale d'emergenza nella contea di Guit, nello Stato sudsudanese di Unity. L'intervento finanziario sosterrà l'organizzazione Coalition for Humanity per portare soccorso alle comunità locali colpite da una prolungata e gravissima crisi alimentare.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/germany-embassy-funds-emergency-nutrition-response-in-guit-county",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-20T07:15+00:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/germany-funds-emergency-nutrition-response-for-vulnerable-communities-in-unity-state/?utm_source=rss&utm_medium=rss&utm_campaign=germany-funds-emergency-nutrition-response-for-vulnerable-communities-in-unity-state",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-20T09:34+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z4628823c",
+   "sez": "economia",
+   "titolo": "Olanda, via libera all'acquisizione di Viaplay da parte di Videoland",
+   "orig": "Formule 1 en darts mogen definitief van Viaplay naar Videoland",
+   "lead": "L'Autorità olandese per i consumatori e il mercato ha approvato il passaggio di diritti sportivi e abbonati da Viaplay Nederland a Videoland. La decisione consentirà alla piattaforma controllata da DPG Media di trasmettere competizioni come la Formula 1, il calcio inglese, le freccette e l'hockey su prato.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635917",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-20T10:01+02:00"
+    },
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/20/ecoblog-acm-keurt-overname-van-viaplay-door-videoland-goed-a4939355",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-20T10:55+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z64f84126",
+   "sez": "economia",
+   "titolo": "PostNL chiede 80 milioni di euro di sussidi al governo olandese",
+   "orig": "PostNL vraagt opnieuw om extra geld voor postbezorging",
+   "lead": "La società postale olandese PostNL ha richiesto al governo un contributo straordinario di 80 milioni di euro per coprire i costi del servizio di recapito delle lettere. L'azienda precisa che il calo dei volumi inviati rende insostenibile il rispetto degli obblighi di legge senza un sostegno pubblico.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2635911",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-20T08:36+02:00"
+    },
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/20/postnl-vraagt-kabinet-opnieuw-om-subsidie-80-miljoen-voor-bezorging-brieven-a4939341",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-20T09:59+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "za48fb8ed",
+   "sez": "mondo",
+   "titolo": "Il presidente delle Maldive in visita ufficiale in Pakistan",
+   "orig": "Maldives president arrives in Pakistan for three-day visit",
+   "lead": "Il presidente delle Maldive Mohamed Muizzu è giunto a Islamabad per una visita di tre giorni in Pakistan su invito del primo ministro Shehbaz Sharif. La missione diplomatica coincide con il sessantesimo anniversario delle relazioni bilaterali e rappresenta la prima visita di uno stato maldiviano da undici anni.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038493/maldives-president-arrives-in-pakistan-for-three-day-visit",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-20T12:27+05:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-army-chief-arrives-tehran-meet-senior-officials",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T10:45+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zb1b9c3ac",
+   "sez": "mondo",
+   "titolo": "L'aeroporto di Mostar prevede di superare i 70.000 passeggeri annui",
+   "orig": "Mostar Airport expects more than 70,000 Passengers",
+   "lead": "L'aeroporto internazionale di Mostar stima di superare la quota di settantamila passeggeri entro la fine dell'anno, confermando la crescita dei flussi stagionali. Il direttore della struttura Marko Đuzel si è detto soddisfatto dei risultati operativi raggiunti durante i mesi di maggiore afflusso di viaggiatori nello scalo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/mostar-airport-expects-more-than-70000-passengers/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-20T07:30+00:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/english/news/mostar-airport-expects-passenger-numbers-to-exceed-70000-again-this-year/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-20T11:56+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zb6751cdf",
+   "sez": "mondo",
+   "titolo": "Madrid, Ayuso valuta lo spostamento del proprio ufficio per ragioni di sicurezza",
+   "orig": "Ayuso trasladará su despacho por la acampada en Sol: “No reúne las condiciones de seguridad”",
+   "lead": "La presidente della Comunità di Madrid Isabel Díaz Ayuso sta valutando il trasferimento temporaneo della sua sede istituzionale a causa delle proteste e dell'accampamento dinanzi a Puerta del Sol. Secondo l'amministrazione regionale, l'attuale edificio non garantisce più le necessarie condizioni di sicurezza per il lavoro.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/madrid/2026-10-20/ayuso-trasladara-su-despacho-por-seguridad-debido-a-la-acampada-en-sol-pero-todavia-no-sabe-donde.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-20T08:38+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/madrid/2026/10/20/6ad7294fe4d4d868708b45a5.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-20T10:47+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z6d4fdbaa",
+   "sez": "mondo",
+   "titolo": "Sgombero dell'accampamento a Lisbona, 55 arresti e due feriti",
+   "orig": "11h Lisboa: 55 pessoas detidas e dois feridos ao desmobilizar acampada",
+   "lead": "Le forze di polizia di Lisbona sono intervenute per sgomberare un'accampamento di protesta per il diritto all'abitazione, arrestando cinquantacinque persone per disobbedienza. Nel corso delle operazioni di smantellamento delle tende sono rimaste ferite due persone, una delle quali è stata trasportata in ospedale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/11h-lisboa-55-pessoas-detidas-e-dois-feridos-ao-desmobilizar-acampada_a1_1772911",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/20/sociedade/noticia/dois-feridos-55-detidos-desmantelamento-acampada-lisboa-2191940",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-20T09:17+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/psp-deteve-55-pessoas-por-desobediencia-na-manifestacao-em-lisboa-ha-dois-feridos_e1772823",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z450f631f",
+   "sez": "mondo",
+   "titolo": "Kenya, il governo rivendica i progressi compiuti sotto la presidenza Ruto",
+   "orig": "Kenya has made significant progress under Ruto's leadership - Kindiki",
+   "lead": "Il vice presidente keniota Kithure Kindiki ha sostenuto che il Kenya ha registrato un notevole sviluppo sotto la guida del presidente William Ruto. Le affermazioni giungono mentre nel dibattito politico locale si discute della tenuta delle alleanze elettorali in vista delle presidenziali del 2027.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/kenya-has-made-significant-progress-under-rutos-leadership-kindiki-n392389",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T10:23+00:00"
+    },
+    {
+     "n": "The Standard (Kenya)",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.standardmedia.co.ke/article/2001560492/anne-waiguru-ruto-will-win-2027-election-without-mt-kenya-s-support",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T11:00+03:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z8009b3a5",
+   "sez": "economia",
+   "titolo": "Madagascar, le consultazioni sugli investimenti pubblici puntano a rilanciare l'economia",
+   "orig": "FINANCES PUBLIQUES - Les investissements publics stimulent l’économie",
+   "lead": "Il governo del Madagascar ha avviato un ciclo di consultazioni della durata di nove settimane per definire la nuova Politica nazionale degli investimenti pubblici. Il primo ministro Mamitiana Rajaonarison ha sottolineato la necessità di verificare che le risorse statali favoriscano concretamente la popolazione e l'imprenditoria.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/4520858475539928913/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-20T05:50+03:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/gouvernance-neuf-semaines-de-consultations-pour-elaborer-la-politique-nationale-des-investissements-publics",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-20T09:11+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "ze5e5bd44",
+   "sez": "economia",
+   "titolo": "Gli investitori americani aumentano le acquisizioni nel Mittelstand tedesco",
+   "orig": "Why US investors are snapping up Germany's famed Mittelstand",
+   "lead": "Un flusso crescente di capitali statunitensi sta interessando il settore manifatturiero e le imprese familiari tradizionali in Germania. Di fronte alle difficoltà di molte aziende tedesche nel trovare successori alla guida aziendale, un numero sempre maggiore di società storiche diventa bersaglio di acquisizioni internazionali. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T09:06+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z889ff556",
+   "sez": "tech",
+   "titolo": "Siemens avverte sul rischio dell'IA per i posti di lavoro giovanili",
+   "orig": "Germany news: Siemens warns on AI eliminating entry-level jobs",
+   "lead": "Il gruppo industriale Siemens ha lanciato un allarme sui rischi legati all'impiego dell'intelligenza artificiale, spiegando che l'automazione dei compiti di base potrebbe privare i giovani lavoratori di competenze fondamentali. Nel frattempo la Germania rafforza l'intesa con il gigante tecnologico americano Nvidia per lo sviluppo dell'IA. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-news-siemens-warns-on-ai-eliminating-entry-level-jobs/live-79709090",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T08:21+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z79403b48",
+   "sez": "mondo",
+   "titolo": "Francia, le proteste mettono alla prova i centristi di Macron",
+   "orig": "French protests: Is it game over for Macron’s centrists before elections?",
+   "lead": "Le crescenti manifestazioni di piazza in Francia stanno mettendo a dura prova la tenuta politica del blocco centrista guidato dal presidente Emmanuel Macron. Le mobilitazioni stanno polarizzando il dibattito pubblico e trasformando i giovani in un bacino elettorale sempre più critico verso le istituzioni. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/20/french-protests-is-it-game-over-for-macrons-centrists-before-elections",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-20T08:46+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
    "id": "z2ea11eba",
    "sez": "cultura",
    "titolo": "Trainspotting torna nelle sale per tre giorni a trent'anni dall'uscita",
@@ -1093,30 +3589,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
     }
    ],
    "data": "",
-   "ora": "12:45",
-   "uscita": "13"
-  },
-  {
-   "id": "z33f31c82",
-   "sez": "mondo",
-   "titolo": "Germania, hacker sottraggono oltre 400 mila email del partito AfD",
-   "orig": "Hackers steal 421,000 emails belonging to members of Germany's far-right AfD party",
-   "lead": "In Germania un gruppo di pirati informatici ha sottratto circa 421.000 messaggi di posta elettronica appartenenti a membri del partito di estrema destra Alternative für Deutschland (AfD). Al momento non è stata resa nota l'identità dei responsabili dell'attacco cibernetico, né è stato chiarito se siano stati compromessi ulteriori dati riservati oltre ai messaggi di corrispondenza sottratti dai server interni della formazione politica. Le autorità mantengono il riserbo sull'ampiezza complessiva della violazione informatica. Lo riferisce Euronews.",
-   "more": [
-    "Gli attacchi informatici ai danni di organizzazioni e partiti politici costituiscono un fenomeno in forte crescita a livello internazionale. Tali intrusioni possono mirare all'esfiltrazione di informazioni riservate, al ricatto o al condizionamento del dibattito pubblico attraverso fughe di notizie strategiche."
-   ],
-   "fonti": [
-    {
-     "n": "Euronews",
-     "p": "XX",
-     "c": "Lione",
-     "u": "https://www.euronews.com/2026/10/20/hackers-steal-421000-emails-belonging-to-members-of-germanys-far-right-afd-party",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-20T11:41+02:00"
-    }
-   ],
-   "data": "20 ott",
    "ora": "12:45",
    "uscita": "13"
   },
@@ -2456,30 +4928,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z3858e68f",
-   "sez": "mondo",
-   "titolo": "Francia, torna la calma dopo l'imposizione dei coprifuoco notturni nelle aree di protesta",
-   "orig": "Francia, torna la calma dopo l'ordine di coprifuoco nelle zone della protesta",
-   "lead": "Nelle zone francesi colpite dalle manifestazioni violente si è registrato un ritorno generale alla tranquillità in seguito all'entrata in vigore del coprifuoco imposto dalle autorità. A Parigi la situazione è rimasta sotto controllo nell'area di place de la République, mentre a Lione un gruppo di residenti ha organizzato un corteo per protestare contro i vandalismi e i danneggiamenti verificatisi nei giorni scorsi. Il dispositivo di sicurezza e i divieti di spostamento notturno hanno limitato il ripetersi di incidenti, rassicurando temporaneamente le amministrazioni locali e le attività commerciali colpite dalle proteste. Lo riferisce ANSA.",
-   "more": [
-    "Le manifestazioni di protesta nelle città francesi sfociano talvolta in scontri diretti con le forze di sicurezza e danni all'arredo urbano. Le risposte delle autorità combinano il pattugliamento intensivo con limitazioni orarie alla mobilità, suscitando reazioni contrastanti tra la cittadinanza, divisa tra la richiesta di sicurezza e la tutela dei diritti civili."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/videogallery/mondo/2026/10/20/francia-torna-la-calma-dopo-lordine-di-coprifuoco-nelle-zone-della-protesta_f589d393-ac4c-4126-9f74-f58dded0d1e3.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T10:39+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:34",
-   "uscita": "13"
-  },
-  {
    "id": "z2763682d",
    "sez": "tech",
    "titolo": "TikTok, allarmi interni sulla sicurezza dei minori ignorati dai vertici aziendali",
@@ -2773,6 +5221,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-20T17:36+08:00"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/jaishankar-holds-talks-with-uaes-foreign-minister-in-mumbai-west-asia-situation/article71604059.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T15:32+05:30"
     }
    ],
    "data": "20 ott",
@@ -3227,6 +5684,24 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Bahrain",
      "t": "2026-10-20T10:05+00:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/wirtschaft/unternehmen/amazon-plant-investitionen-von-16-milliarden-euro-in-deutschland-a-f863e4b5-e58e-438e-9168-5fe4b3451b9d#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T12:10+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-will-2027-16-milliarden-euro-in-deutschland-investieren-accg-201603852.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T09:15+00:00"
     }
    ],
    "data": "20 ott",
@@ -4895,7 +7370,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
  "sguardi": {
   "zd40bc17c": "la Repubblica mette in luce la presa di posizione congiunta di noti esponenti della scena rap milanese e nazionale.",
   "zdbda3532": "Al Jazeera focalizza l'attenzione sullo scontro diplomatico legato alla divulgazione dei dettagli sui prigionieri di guerra.",
-  "z3858e68f": "ANSA dà rilievo alle manifestazioni contro il vandalismo a Lione e alla distensione a Parigi dopo i coprifuoco.",
   "z2763682d": "NPR mette in evidenza i messaggi riservati tra i dirigenti emersi dai verbali dei procedimenti giudiziari.",
   "zeef60cd2": "Le testate internazionali evidenziano la premeditazione dell'investimento e le gravissime conseguenze fisiche per la parlamentare.",
   "z435c72b7": "I quotidiani internazionali pongono in primo piano l'ondata di aggressioni dei coloni e la reazione diplomatica europea.",
@@ -5021,7 +7495,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zd4514e14": "L'emittente insulare mette in luce l'urgenza di una deliberazione governativa centrale per affrontare l'emergenza idrica in atto.",
   "z6daf7ca1": "La testata segue l'appello dell'esponente di Hong Kong per intensificare le intese commerciali e la finanza verde tra i partner regionali.",
   "zafd6cd08": "Il giornale di Seul risalta il primato economico del gruppo nelle vendite di biglietti per concerti su scala asiatica.",
-  "z33f31c82": "La redazione rimarca l'incertezza circa l'origine dell'intrusione telematica e il timore per la fuga di ulteriori documenti.",
   "z82e7c50a": "La rivista di design valorizza la scelta di esaltare la manualità artistica in contrasto con la pervasività delle tecnologie digitali.",
   "z9d8dfb37": "Il settimanale britannico riferisce l'entusiasmo dei fan scaturito dai segnali social pubblicati dal cantautore sulle date dei concerti.",
   "zfb39d901": "La pubblicazione medica segnala come la prevenzione programmata sia vantaggiosa anche al di sotto delle consuete soglie cliniche.",
@@ -5074,11 +7547,96 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z01603370": "La rivista specializzata mette in evidenza l'originalità compositiva che rende l'opera differente dai consueti palazzi di giustizia.",
   "zf12a2a22": "Il quotidiano nipponico sottolinea la sfida politica per la premier Takaichi rispetto alle proposte avanzate dalle minoranze.",
   "zeae36aff": "Il giornale svizzero mette a fuoco il ruolo determinante dei fornitori nazionali nell'ecosistema globale dei data center.",
-  "z5462186d": "La testata algerina dà risalto alla modifica ufficiale dell'orario e della data deliberata dalla lega calcistica professionistica."
+  "z5462186d": "La testata algerina dà risalto alla modifica ufficiale dell'orario e della data deliberata dalla lega calcistica professionistica.",
+  "z5d622d93": "La rivista di design valorizza la riedizione contemporanea e digitale di un apparecchio fotografico storico del 1959.",
+  "z4cb82e33": "Il quotidiano mette in luce l'allarme per l'utilizzo dell'intelligenza artificiale straniera nelle violazioni dei dati aziendali.",
+  "z9e02597f": "La testata argentina evidenzia le implicazioni filosofiche e relazionali legate alla convivenza con le nuove generazioni di robot.",
+  "z1d1a676e": "Il quotidiano uruguaiano sottolinea il successo internazionale della piattaforma open source nazionale ora adottata da un governo africano.",
+  "zb9ebad31": "La testata pone l'accento sulla straordinaria fatica fisica e sulla durezza agonistica della competizione subacquea a Hong Kong.",
+  "z19930109": "Il giornale evidenzia le accuse dell'ex ministro contro l'opposizione in merito alla trasparenza sui conti dell'elettricità.",
+  "z1e4f8fc5": "La testata mette a fuoco il disagio sociale ed emotivo dei giovani cinesi costretti a fingere un impiego quotidiano.",
+  "z28735428": "Il quotidiano analizza i riflessi elettorali delle proteste popolari contro il rincaro dei prezzi del carburante in Europa.",
+  "ze48f65ee": "La testata kazaka pone in evidenza l'eccezionale balzo di utili e redditività registrato dalla filiale internazionale del colosso statale.",
+  "z8db1c03d": "L'emittente europea pone in rilievo la resistenza dei commissari contro i tagli ai fondi per l'influenza globale del blocco.",
+  "zef80b28f": "La testata sottolinea il balzo storico dei tassi ipotecari tedeschi causato dalle ripercussioni geopolitiche sulle aspettative di inflazione.",
+  "ze0760b15": "Il quotidiano di Hong Kong spiega i cambi di poltrona nei vertici dell'autorità a tutela della valuta locale.",
+  "z9fd422e8": "Il giornale evidenzia come le incertezze geopolitiche con Washington abbiano frenato la raccolta della grande offerta pubblica iniziale.",
+  "ze7af6cce": "La testata mette in luce la mossa strategica dei costruttori cinesi pronti a investire in fabbriche europee contro i dazi.",
+  "zd9549c3d": "Il giornale sottolinea l'imminente scadenza fissata da Pechino che mette sotto pressione i patrimoni gestiti nei paradisi fiscali.",
+  "z27515b9e": "Il quotidiano romano mette in primo piano le ripercussioni dei raid russi sui prezzi dei prodotti alimentari e l'allarme dell'Ue.",
+  "zbf92fd59": "La testata approfondisce i motivi tecnici e fiscali che causano un cedolino previdenziale più leggero nel mese di novembre.",
+  "z31438008": "Il giornale analizza le novità sulla tassazione agevolata degli statali, illustrando chi ne trarrà effettivo vantaggio.",
+  "z00dba439": "La testata mette in luce l'insostenibilità futura dei costi previdenziali e la necessità di tutelare giovani e anziani.",
+  "z35ccd86e": "Il quotidiano economico segnala la prudenza degli investitori che scelgono polizze derivate contro un possibile crollo dei titoli tech.",
+  "z6a3782b4": "Il giornale locale pone l'accento sul passaggio di proprietà storico dei distributori della capitale al fondo nazionale.",
+  "zb107d6e0": "Il quotidiano della capitale segue l'avvio dei colloqui bilaterali strategici con la rappresentanza governativa australiana.",
+  "z83a46d02": "The Namibian mette in evidenza l'intervento della presidente per ridurre i costi d'impresa lungo il confine.",
+  "z21da5713": "Club of Mozambique segnala la richiesta di contratti stabili per favorire la crescita delle imprese locali.",
+  "z4deba290": "Club of Mozambique riporta l'appello dell'associazione imprenditoriale per sviluppare filiere industriali interne.",
+  "zcfef69e7": "FrontPage Africa pone l'accento sulla necessità per i giovani liberiani di investire sulle proprie competenze d'impresa.",
+  "zfd543b8a": "Luxembourg Times evidenzia il dodicesimo mese consecutivo di incremento degli iscritti all'agenzia del lavoro.",
+  "zc0975865": "Expats.cz mette in risalto il principio stabilito dai giudici sulla distinzione tra fisco e giudizio morale.",
+  "z5b70fd7f": "Expats.cz evidenzia l'aumento delle frodi finanziarie che sfruttano l'autorevolezza dell'istituto centrale.",
+  "z6f1b9bd5": "Kun.uz pone l'accento sulla creazione di occupazione come pilastro del nuovo piano decennale concordato.",
+  "z61475bbc": "Daryo sottolinea il largo predominio delle carte bancarie nell'ambito dell'obbligo dei pagamenti digitali.",
+  "ze82e4f87": "Daryo evidenzia il potenziale incremento della concorrenza dopo i recenti aumenti dei prezzi nel settore.",
+  "zcbb44d97": "3News riporta la firma dell'intesa e le dichiarazioni del ministro per attrarre capitali esteri.",
+  "z8a93afec": "3News rimarca l'esortazione del ministro a costruire un nuovo paradigma economico dopo la stabilizzazione.",
+  "z082bd36d": "MyJoyOnline mette in risalto il netto incremento degli investimenti diretti esteri certificato dai dati presidenziali.",
+  "z0a4142b3": "MyJoyOnline riferisce dell'iniziativa per risolvere le questioni legate a terreni, indennizzi e fondi.",
+  "zf41f4640": "Daily Monitor esamina i criteri che hanno portato alla scelta di sette intermediari su otto candidati.",
+  "z03ba7c9b": "Eye Radio rimarca la direttiva dell'istituto centrale sul ritiro dei salari presso gli sportelli bancari.",
+  "zf5727f03": "La Jornada riporta l'appello collettivo a resistere alle pressioni statunitensi nel voto all'Onu.",
+  "zab73940f": "Nikkei Asia pone l'attenzione sulla strategia di Chery per entrare nel mercato nipponico eludendo le barriere.",
+  "z692e1413": "Trend sottolinea l'elevata quota di gettito tributario proveniente dalle dichiarazioni spontanee.",
+  "za26b50eb": "Trend riferisce della presa di posizione parlamentare contro l'onere delle commissioni sui pagamenti digitali.",
+  "z529bd5d6": "Trend mette in risalto il traguardo produttivo storico raggiunto dalla struttura estrattiva nel Caspio.",
+  "z3eb1a4d8": "L'emittente congolese mette in risalto il valore economico e l'impatto dello sviluppo per la nazione.",
+  "z186c8865": "La testata statunitense pone l'accento sulla crisi umanitaria dei marinai e sulla tensione militare con l'Iran.",
+  "z60e52142": "L'emittente britannica sottolinea l'esito negativo della missione archeologica nel Pacifico.",
+  "z5dcecda4": "L'organizzazione internazionale sottolinea il valore dell'integrazione commerciale e delle riforme istituzionali timoresi.",
+  "z5c6241f4": "Il quotidiano indipendente russo mette in luce la vulnerabilità delle infrastrutture digitali e l'impatto sul commercio.",
+  "zbaa98e11": "Il giornale spagnolo sottolinea le motivazioni personali ed etiche alla base del passo indietro della ministra.",
+  "zc954c498": "L'emittente della missione ONU analizza le conseguenze politiche della scelta di Kabila sul dialogo di pace.",
+  "zcd836efb": "La testata pacifica pone l'attenzione sulla rilevanza strategica delle risorse minerarie dell'isola per l'Europa.",
+  "z62f4b71a": "L'emittente regionale mette in evidenza la resilienza delle infrastrutture e la ripresa delle attività post-emergenza.",
+  "zff1ee2a1": "La testata d'informazione evidenzia la composizione politica della nuova maggioranza di governo a Bucarest.",
+  "z501adf3e": "La testata d'inchiesta pone il focus sull'uso indebito delle tecnologie di sorveglianza contro i dissidenti politici.",
+  "z09e77fdd": "Il network belga esamina i vuoti legislativi europei sul tema della gestazione per altri stimolati dal caso olandese.",
+  "z74777059": "La radiotelevisione islandese mette in evidenza la dimensione transnazionale del malcontento economico delle giovani generazioni.",
+  "z63fbac82": "Il quotidiano malawiano mette in rilievo l'impatto diretto delle strozzature energetiche sulle finanze quotidiane dei cittadini.",
+  "z5125b7a9": "Il quotidiano indipendente cubano analizza le dinamiche elettorali e le preferenze dell'elettorato ispanico negli Stati Uniti.",
+  "zb28094b6": "Il giornale nicaraguense in esilio evidenzia le dinamiche interne di potere e il ruolo della militanza giovanile nel regime.",
+  "za0130b55": "Il quotidiano brasiliano mette in luce il crescente scontro tecnologico e normativo tra Washington e Pechino nel settore dell'IA.",
+  "z709f661f": "Il quotidiano colombiano analizza le tensioni sociali e la risposta dell'esecutivo italiano di fronte all'inflazione.",
+  "zd7284f45": "Il Post mette in evidenza il distacco tra la posizione di Vance e il sostegno espresso da Trump.",
+  "zc8b84b9a": "ORF sottolinea la conferma dell'attacco informatico da parte dei vertici del partito della destra tedesca.",
+  "z86d958aa": "ORF focalizza l'attenzione sui report dei Pasdaran nel quadro del riaccendersi delle ostilità con gli Stati Uniti.",
+  "z8cae668b": "France 24 mette in risalto l'intesa energetica strategica raggiunta dall'Eliseo con le monarchie del Golfo.",
+  "z7b6aeca8": "Yonhap enfatizza l'evoluzione dell'inchiesta giudiziaria verso gli organi investigativi speciali dello Stato.",
+  "zc2250b50": "ABC News Australia segue in diretta gli sviluppi della partita evidenziando le prestazioni individuali chiave.",
+  "zd0f94f62": "RTCG evidenzia la posizione unitaria dei partiti di minoranza nel determinare la svolta costituzionale montenegrina.",
+  "z90248213": "Bianet English analizza la strategia diplomatica turca di fronte agli equilibri mediorientali e al patto militare.",
+  "z1a2da8c7": "Il Post focalizza il reportage sulle due città strategiche del Donbass minacciate dalle forze d'invasione russe.",
+  "zabc05fb3": "Radio Tamazuj esamina le implicazioni legali e politiche dei limiti agli spostamenti disposti dalla presidenza.",
+  "z83435b61": "Radio Tamazuj dà voce all'apprezzamento degli attivisti per l'azione militare contro la tratta di bambini.",
+  "z7b9542b8": "Radio Tamazuj risalta l'intervento finanziario umanitario garantito dal governo tedesco in favore delle popolazioni colpite.",
+  "z4628823c": "NOS pone l'accento sul via libera del garante della concorrenza all'operazione nel settore dei media sportivi.",
+  "z64f84126": "NOS illustra le difficoltà finanziarie dell'operatore postale legate ai costi fissi del servizio universale obbligatorio.",
+  "za48fb8ed": "Dawn sottolinea l'importanza diplomatica della prima visita di un presidente maldiviano in oltre un decennio.",
+  "zb1b9c3ac": "Sarajevo Times riporta con enfasi il bilancio positivo e le proiezioni di crescita dello scalo della Bosnia Erzegovina.",
+  "zb6751cdf": "El País mette a fuoco la decisione logistica e politica della presidenza madrilena di fronte al prolungarsi dei sit-in.",
+  "z6d4fdbaa": "RTP riporta dettagliatamente le cifre degli arresti e gli scontri registrati durante le operazioni di sgombero.",
+  "z450f631f": "Citizen Digital riprende le dichiarazioni governative sulla crescita del paese durante l'attuale mandato presidenziale.",
+  "z8009b3a5": "L'Express de Madagascar si concentra sull'impatto economico della revisione strategica della spesa pubblica.",
+  "ze5e5bd44": "Deutsche Welle esamina la dinamica economica che vede i fondi USA acquisire le storiche PMI della Germania.",
+  "z889ff556": "Deutsche Welle rilancia le considerazioni dei vertici industriali tedeschi sugli impatti dell'IA nell'occupazione.",
+  "z79403b48": "Al Jazeera analizza l'impatto sociale delle manifestazioni e il malcontento della gioventù francese."
  },
  "contesti": {
   "zeef60cd2": "Nelle ore precedenti la deputata indipendente Helen Haines si trovava nei pressi della propria sede elettorale a Wangaratta quando un fuoristrada ha invertito la marcia per investirla. Il conducente è stato bloccato sul posto dalla polizia locale, mentre i medici hanno lottato per ore in ospedale per salvarle la vita.",
-  "z435c72b7": "Durante il fine settimana una delegazione composta da diplomatici europei, inclusi funzionari polacchi, e un cronista straniero è stata attaccata da un gruppo di coloni mentre visitava comunità palestinesi impegnate nella raccolta delle olive, provocando formali proteste internazionali."
+  "z435c72b7": "Durante il fine settimana una delegazione composta da diplomatici europei, inclusi funzionari polacchi, e un cronista straniero è stata attaccata da un gruppo di coloni mentre visitava comunità palestinesi impegnate nella raccolta delle olive, provocando formali proteste internazionali.",
+  "z60e52142": "Nel corso delle ultime settimane, l'ipotesi di aver individuato l'aereo di Amelia Earhart ha riacceso l'interesse internazionale. Immagini satellitari ad alta risoluzione scattate su un'isola remota dell'Oceano Pacifico avevano mostrato una sagoma compatibile con il velivolo scomparso nel 1937. Per verificare l'anomalia, una spedizione scientifica statunitense si è recata sul posto con apparecchiature avanzate, fino a smentire l'ipotesi dopo i sopralluoghi sul terreno."
  },
  "cronologie": {
   "zeef60cd2": [
@@ -5099,6 +7657,24 @@ window.EDIZIONI["2026-10-20-sera"] = {
    [
     "Lunedì",
     "La polizia israeliana esegue dieci arresti dopo la condanna dei Paesi europei"
+   ]
+  ],
+  "z60e52142": [
+   [
+    "Luglio 1937",
+    "Scomparsa di Amelia Earhart e del navigatore Fred Noonan nel Pacifico"
+   ],
+   [
+    "Mesi scorsi",
+    "L'analisi di immagini satellitari evidenzia una sagoma sospetta su un'isola remota"
+   ],
+   [
+    "Nei giorni scorsi",
+    "Una spedizione scientifica statunitense raggiunge il sito per effettuare verifiche"
+   ],
+   [
+    "Oggi",
+    "L'ispezione sul campo stabilisce che l'oggetto individuato era soltanto un gruppo di alberi"
    ]
   ]
  },
@@ -5163,6 +7739,53 @@ window.EDIZIONI["2026-10-20-sera"] = {
     }
    ],
    "divergono": "Sull'attacco alla deputata emergono differenze rilevanti di contenuto: The Guardian è la sola testata a rivelare il nome dell'arrestato, Brendan Nugent, e i tre precisi capi d'accusa, mentre Al Jazeera, The Globe and Mail e Deutsche Welle parlano genericamente di un uomo di 43 anni. Al Jazeera e Deutsche Welle descrivono in dettaglio l'intervento del barbiere che ha neutralizzato il sospetto armato di coltello, elemento assente in The Guardian. The Globe and Mail è invece l'unica a contestualizzare l'accaduto richiamando omicidi di parlamentari britannici. Per Sky News il resoconto è limitato ai soli titoli, mentre Cyprus Mail, Breaking Belize News e Barbados Today trattano vicende del tutto slegate."
+  },
+  "z60e52142": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "La voce del Regno Unito fornisce un resoconto informativo e neutro. Mette al centro le conclusioni della Purdue University: l'oggetto a Nikumaroro era un \"gruppo di alberi\". Cita il responsabile Rick Pettigrew nel rimarcare che il \"mistero\" della scomparsa di Amelia Earhart continua.",
+     "b": "a"
+    },
+    {
+     "n": "FBC News",
+     "c": "Suva",
+     "p": "XX",
+     "t": "La voce delle Figi offre un articolo informativo incentrato sulla partenza della missione da 900.000 dollari organizzata da Purdue University. Cita gli esperti Steve Schultz e Ric Gillespie, il quale aveva già ipotizzato fosse soltanto un \"albero di pandano\" anziché un relitto.",
+     "b": "a"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "La testata presenta un resoconto neutro sull'esito infruttuoso della spedizione a Nikumaroro. Riporta che l'effetto metallico era un'illusione causata da depositi calcarei sugli alberi e cita le dichiarazioni dell'università Purdue sull'esito \"deludente\", ricordando la presenza dei \"granchi del cocco\" sull'isola.",
+     "b": "a"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "L'articolo, puramente informativo, si focalizza sul rilascio di 47 foto aeree del 1938 da parte di un museo neozelandese. Riferisce la fase di attesa dei risultati scientifici a Nikumaroro e cita l'investigatore Ric Gillespie, che definisce gli scatti una \"miniera d'oro\".",
+     "b": "a"
+    },
+    {
+     "n": "Sky News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Essendo l'articolo non leggibile, il giudizio è parziale. Titolo e occhiello riportano in modo neutro che l'oggetto scorto via satellite era probabilmente costituito da alberi e che la spedizione a caccia dell'aereo si è conclusa senza alcun recupero.",
+     "b": "t"
+    },
+    {
+     "n": "BBC Newsround",
+     "c": "Londra",
+     "p": "UK",
+     "t": "La voce del Regno Unito propone un testo informativo rivolto a ragazzi. Spiega che il team di 17 studiosi a Nikumaroro ha accertato che l'oggetto era formato da \"vecchi alberi\". Riporta le dichiarazioni del direttore della missione Rick Pettigrew.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate si differenziano per la tempistica e i dettagli riportati. FBC News e il secondo articolo di The Guardian descrivono la spedizione prima dei risultati finali, menzionando i costi (900.000 dollari) e la pubblicazione di foto d'epoca del 1938. Al contrario, BBC News, il primo articolo di The Guardian e BBC Newsround riportano la conclusione dell'indagine, spiegando che l'anomalia visiva era un ammasso di alberi ricoperti di sostanze calcaree. Sky News offre unicamente una sintesi iniziale poiché il testo non è accessibile. Infine, The Guardian è l'unica testata a menzionare l'ostacolo dei granchi del cocco."
   }
  },
  "luoghi": {
@@ -5177,13 +7800,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "Kiev",
    "p": [
     "Ukraine"
-   ],
-   "pt": []
-  },
-  "z3858e68f": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -6066,13 +8682,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z33f31c82": {
-   "n": "Germania",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
   "z82e7c50a": {
    "n": "Parigi",
    "p": [
@@ -6446,12 +9055,624 @@ window.EDIZIONI["2026-10-20-sera"] = {
     "Algeria"
    ],
    "pt": []
+  },
+  "z5d622d93": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z4cb82e33": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z9e02597f": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z1d1a676e": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zb9ebad31": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z19930109": {
+   "n": "Kerala",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z1e4f8fc5": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z28735428": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze48f65ee": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z8db1c03d": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zef80b28f": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "ze0760b15": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z9fd422e8": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "ze7af6cce": {
+   "n": "Unione Europea",
+   "p": [
+    "Germany",
+    "France"
+   ],
+   "pt": []
+  },
+  "zd9549c3d": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z27515b9e": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zbf92fd59": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z31438008": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z00dba439": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z35ccd86e": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z6a3782b4": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "zb107d6e0": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z83a46d02": {
+   "n": "Luanda",
+   "p": [
+    "Angola",
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z21da5713": {
+   "n": "Cabo Delgado",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "z4deba290": {
+   "n": "Maputo",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "zcfef69e7": {
+   "n": "Monrovia",
+   "p": [
+    "Liberia"
+   ],
+   "pt": []
+  },
+  "zfd543b8a": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "zc0975865": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z5b70fd7f": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z6f1b9bd5": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand",
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z61475bbc": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "ze82e4f87": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zcbb44d97": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z8a93afec": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z082bd36d": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z0a4142b3": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zf41f4640": {
+   "n": "Kampala",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z03ba7c9b": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "zf5727f03": {
+   "n": "Città del Messico",
+   "p": [
+    "Mexico",
+    "Cuba",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zab73940f": {
+   "n": "Tokyo",
+   "p": [
+    "Japan",
+    "China"
+   ],
+   "pt": []
+  },
+  "z692e1413": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "za26b50eb": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z529bd5d6": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z3eb1a4d8": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z186c8865": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Iran",
+    "Oman",
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z60e52142": {
+   "n": "Isola di Nikumaroro",
+   "p": [
+    "Kiribati"
+   ],
+   "pt": []
+  },
+  "z5dcecda4": {
+   "n": "Ginevra",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z5c6241f4": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zbaa98e11": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zc954c498": {
+   "n": "Goma",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zcd836efb": {
+   "n": "Nouméa",
+   "p": [
+    "New Caledonia",
+    "France"
+   ],
+   "pt": []
+  },
+  "z62f4b71a": {
+   "n": "Hagåtña",
+   "p": [
+    "Guam",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zff1ee2a1": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z501adf3e": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z09e77fdd": {
+   "n": "L'Aia",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z74777059": {
+   "n": "Europa",
+   "p": [
+    "Italy",
+    "France",
+    "Albania",
+    "Spain",
+    "Portugal",
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z63fbac82": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z5125b7a9": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb28094b6": {
+   "n": "Managua",
+   "p": [
+    "Nicaragua"
+   ],
+   "pt": []
+  },
+  "za0130b55": {
+   "n": "Washington",
+   "p": [
+    "United States of America",
+    "China"
+   ],
+   "pt": []
+  },
+  "z709f661f": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd7284f45": {
+   "n": "Washington",
+   "p": [
+    "United States of America",
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zc8b84b9a": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z86d958aa": {
+   "n": "Teheran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z8cae668b": {
+   "n": "Parigi",
+   "p": [
+    "France",
+    "United Arab Emirates",
+    "Bahrain"
+   ],
+   "pt": []
+  },
+  "z7b6aeca8": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zc2250b50": {
+   "n": "Gqeberha",
+   "p": [
+    "South Africa",
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zd0f94f62": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z90248213": {
+   "n": "Ankara",
+   "p": [
+    "Turkey",
+    "Saudi Arabia",
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z1a2da8c7": {
+   "n": "Kramatorsk",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zabc05fb3": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z83435b61": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z7b9542b8": {
+   "n": "Guit",
+   "p": [
+    "S. Sudan",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z4628823c": {
+   "n": "Hilversum",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z64f84126": {
+   "n": "L'Aia",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "za48fb8ed": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan",
+    "Maldives"
+   ],
+   "pt": []
+  },
+  "zb1b9c3ac": {
+   "n": "Mostar",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "zb6751cdf": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z6d4fdbaa": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z450f631f": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z8009b3a5": {
+   "n": "Antananarivo",
+   "p": [
+    "Madagascar"
+   ],
+   "pt": []
+  },
+  "ze5e5bd44": {
+   "n": "Bonn",
+   "p": [
+    "Germany",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z889ff556": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z79403b48": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
   "zd40bc17c": 2,
   "zdbda3532": 1,
-  "z3858e68f": 1,
   "z2763682d": 1,
   "zeef60cd2": 3,
   "z435c72b7": 1,
@@ -6577,7 +9798,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zd4514e14": 1,
   "z6daf7ca1": 1,
   "zafd6cd08": 1,
-  "z33f31c82": 1,
   "z82e7c50a": 1,
   "z9d8dfb37": 1,
   "zfb39d901": 1,
@@ -6630,7 +9850,91 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z01603370": 1,
   "zf12a2a22": 1,
   "zeae36aff": 1,
-  "z5462186d": 1
+  "z5462186d": 1,
+  "z5d622d93": 1,
+  "z4cb82e33": 1,
+  "z9e02597f": 1,
+  "z1d1a676e": 1,
+  "zb9ebad31": 1,
+  "z19930109": 1,
+  "z1e4f8fc5": 1,
+  "z28735428": 1,
+  "ze48f65ee": 1,
+  "z8db1c03d": 1,
+  "zef80b28f": 1,
+  "ze0760b15": 1,
+  "z9fd422e8": 1,
+  "ze7af6cce": 1,
+  "zd9549c3d": 1,
+  "z27515b9e": 1,
+  "zbf92fd59": 1,
+  "z31438008": 1,
+  "z00dba439": 1,
+  "z35ccd86e": 1,
+  "z6a3782b4": 1,
+  "zb107d6e0": 1,
+  "z83a46d02": 1,
+  "z21da5713": 1,
+  "z4deba290": 1,
+  "zcfef69e7": 1,
+  "zfd543b8a": 1,
+  "zc0975865": 1,
+  "z5b70fd7f": 1,
+  "z6f1b9bd5": 1,
+  "z61475bbc": 1,
+  "ze82e4f87": 1,
+  "zcbb44d97": 1,
+  "z8a93afec": 1,
+  "z082bd36d": 1,
+  "z0a4142b3": 1,
+  "zf41f4640": 1,
+  "z03ba7c9b": 1,
+  "zf5727f03": 1,
+  "zab73940f": 1,
+  "z692e1413": 1,
+  "za26b50eb": 1,
+  "z529bd5d6": 1,
+  "z3eb1a4d8": 1,
+  "z186c8865": 1,
+  "z60e52142": 2,
+  "z5dcecda4": 1,
+  "z5c6241f4": 1,
+  "zbaa98e11": 1,
+  "zc954c498": 1,
+  "zcd836efb": 1,
+  "z62f4b71a": 1,
+  "zff1ee2a1": 1,
+  "z501adf3e": 1,
+  "z09e77fdd": 1,
+  "z74777059": 1,
+  "z63fbac82": 1,
+  "z5125b7a9": 2,
+  "zb28094b6": 1,
+  "za0130b55": 1,
+  "z709f661f": 1,
+  "zd7284f45": 1,
+  "zc8b84b9a": 2,
+  "z86d958aa": 1,
+  "z8cae668b": 1,
+  "z7b6aeca8": 2,
+  "zc2250b50": 1,
+  "zd0f94f62": 2,
+  "z90248213": 1,
+  "z1a2da8c7": 1,
+  "zabc05fb3": 2,
+  "z83435b61": 2,
+  "z7b9542b8": 2,
+  "z4628823c": 2,
+  "z64f84126": 2,
+  "za48fb8ed": 2,
+  "zb1b9c3ac": 2,
+  "zb6751cdf": 1,
+  "z6d4fdbaa": 1,
+  "z450f631f": 2,
+  "z8009b3a5": 2,
+  "ze5e5bd44": 1,
+  "z889ff556": 1,
+  "z79403b48": 1
  },
  "video": {},
  "pillole": []
