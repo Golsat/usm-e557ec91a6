@@ -36,30 +36,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z97f3da75",
-   "sez": "mondo",
-   "titolo": "Diplomazia a Oslo: Zelensky incontra gli inviati di Donald Trump",
-   "orig": "Reyna að lappa upp á samband Trumps og Zelenskys",
-   "lead": "Il presidente ucraino Volodymyr Zelensky ha incontrato a Oslo Steve Witkoff, inviato speciale di Donald Trump, alla presenza dei leader di Norvegia e Finlandia. Il vertice, richiesto da Kiev, mira a stabilizzare le relazioni diplomatiche con la futura amministrazione statunitense e include la partecipazione virtuale di Jared Kushner. Lo riferisce RÚV.",
-   "more": [
-    "L'incontro si inserisce nel quadro degli sforzi ucraini per garantire il sostegno degli Stati Uniti prima dell'insediamento di Donald Trump. La presenza di mediatori nordici evidenzia il ruolo di ponte svolto da Oslo e Helsinki nelle dinamiche di sicurezza europea."
-   ],
-   "fonti": [
-    {
-     "n": "RÚV",
-     "p": "XX",
-     "c": "Reykjavík",
-     "u": "https://www.ruv.is/frettir/erlent/2026-10-20-reyna-ad-lappa-upp-a-samband-trumps-og-zelenskys-490407/",
-     "angolo": "",
-     "atlas": "Iceland",
-     "t": "2026-10-20T08:30+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "13:00",
-   "uscita": "13"
-  },
-  {
    "id": "z64cbb0b6",
    "sez": "tech",
    "titolo": "Robotica: la Tunisia vince quattro medaglie al FIRST Global Challenge 2026",
@@ -957,7 +933,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "zc194504f",
-   "sez": "mondo",
+   "sez": "organizzazioni",
    "titolo": "Ue, Kallas accusa la Russia: usa il cibo come un'arma",
    "orig": "Ue, Kallas: \"Mosca usa cibo come arma\"",
    "lead": "L'Alto rappresentante dell'Unione Europea Kaja Kallas ha accusato la Russia di utilizzare le risorse alimentari come un'arma di pressione politica. Kallas ha inoltre evidenziato come l'escalation militare stia causando perdite economiche stimabili in circa sessanta milioni di euro al giorno. Lo riferisce Rai News.",
@@ -1198,74 +1174,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zd911c5f9",
-   "sez": "mondo",
-   "titolo": "Francia: merce saccheggiata messa in vendita su piattaforme online",
-   "orig": "Γαλλία: Κλεμμένα προϊόντα από τις λεηλασίες πωλούνται στο διαδίκτυο",
-   "lead": "La Francia ha chiesto ai siti di vendita online come eBay e Vinted di rafforzare i controlli dopo la comparsa di annunci sospetti. Gli oggetti in vendita sarebbero frutto dei saccheggi avvenuti nel Paese tra il 17 e il 18 ottobre. Il governo parigino monitora la situazione. Lo riferisce ERT News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ERT News",
-     "p": "XX",
-     "c": "Atene",
-     "u": "https://www.ertnews.gr/eidiseis/gallia-klemmena-proionta-apo-tis-leilasies-polountai-sto-diadiktyo/",
-     "angolo": "",
-     "atlas": "Greece",
-     "t": "2026-10-20T10:29+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:59",
-   "uscita": "13"
-  },
-  {
-   "id": "zca805e36",
-   "sez": "mondo",
-   "titolo": "Albania: gli studenti rifiutano il dialogo e continuano le proteste",
-   "orig": "Νέο βροντερό «όχι» των φοιτητών στο κάλεσμα Ράμα για διάλογο: Νέες αντικυβερνητικές διαδηλώσεις – Τι μεταδίδει η απεσταλμένη του ΕΡΤnews στα Τίρανα",
-   "lead": "A Tirana, studenti e cittadini hanno respinto la proposta di dialogo del governo albanese, continuando le manifestazioni contro la corruzione e il carovita. Nonostante l’offerta simbolica del primo ministro Edi Rama, i manifestanti hanno mantenuto alta la tensione con proteste davanti agli uffici governativi. Lo riferisce ERT News.",
-   "more": [
-    "L'Albania attraversa una fase di instabilità interna alimentata da proteste popolari che denunciano un sistema politico corrotto e il peggioramento dei servizi pubblici essenziali."
-   ],
-   "fonti": [
-    {
-     "n": "ERT News",
-     "p": "XX",
-     "c": "Atene",
-     "u": "https://www.ertnews.gr/eidiseis/neo-vrontero-oxi-ton-foititon-sto-kalesma-rama-gia-dialogo-nees-antikyvernitikes-diadiloseis-ti-metadidei-i-apestalmeni-tou-ertnews-sta-tirana/",
-     "angolo": "",
-     "atlas": "Greece",
-     "t": "2026-10-20T10:25+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:59",
-   "uscita": "13"
-  },
-  {
-   "id": "z31101652",
-   "sez": "mondo",
-   "titolo": "Corea del Sud: richiamati diplomatici da Kyiv per disputa sui prigionieri",
-   "orig": "Սեուլը դեսպանից հետո Կիևից հետ է կանչում իր դիվանագետների մի մասին",
-   "lead": "Il ministero degli Esteri della Corea del Sud ha annunciato il richiamo di parte del personale diplomatico dall'ambasciata di Kyiv. La decisione scaturisce da una disputa diplomatica riguardante la consegna, da parte dell'Ucraina, di due prigionieri di guerra nordcoreani a Seul, notizia resa pubblica dalle autorità ucraine. Lo riferisce Azatutyun.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Azatutyun (inglese)",
-     "p": "XX",
-     "c": "Erevan",
-     "u": "https://www.azatutyun.am/a/seouly-despanits-heto-kievits-het-e-kanchoum-ir-divanagetneri-mi-masin/33880093.html",
-     "angolo": "",
-     "atlas": "Armenia",
-     "t": "2026-10-20T13:48+04:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:59",
-   "uscita": "13"
-  },
-  {
    "id": "z4fc734b9",
    "sez": "mondo",
    "titolo": "Armenia: proteste a Erevan per il ritorno dei profughi dell'Artsakh",
@@ -1334,28 +1242,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-20T11:52+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:59",
-   "uscita": "13"
-  },
-  {
-   "id": "zf86eacde",
-   "sez": "mondo",
-   "titolo": "Stati Uniti: Trump apre a un vertice con Xi Jinping e Putin",
-   "orig": "Trump says he is open to joining trilateral meeting",
-   "lead": "Il Presidente degli Stati Uniti Donald Trump ha dichiarato la sua disponibilità a partecipare a un vertice trilaterale con il leader cinese Xi Jinping e il russo Vladimir Putin. L'incontro dovrebbe concentrarsi sulla denuclearizzazione e sulla gestione degli armamenti atomici a livello globale, secondo quanto riferito ai giornalisti. Lo riferisce FBC News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "FBC News",
-     "p": "XX",
-     "c": "Suva",
-     "u": "https://www.fbcnews.com.fj/world/trump-says-he-is-open-to-joining-trilateral-meeting/",
-     "angolo": "",
-     "atlas": "Fiji",
-     "t": "2026-10-20T06:00+00:00"
     }
    ],
    "data": "20 ott",
@@ -1843,28 +1729,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Montenegro",
      "t": "2026-10-20T12:28+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:59",
-   "uscita": "13"
-  },
-  {
-   "id": "zf1225415",
-   "sez": "mondo",
-   "titolo": "Montenegro, via libera alla riforma costituzionale sui controlli d'integrità",
-   "orig": "Gorčević: Građanima jasna razlika između deklarativne podrške i...",
-   "lead": "Il Parlamento del Montenegro ha approvato la proposta governativa di modifica della Costituzione. Il provvedimento introduce l'obbligo di un controllo preventivo dell'integrità per i candidati alla carica di primo ministro e per i membri dell'esecutivo, puntando a rafforzare la trasparenza e la solidità delle istituzioni. Lo riferisce Vijesti.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/vijesti/politika/832362/gorcevic-gradjanima-jasna-razlika-izmedju-deklarativne-podrske-i-konkretne-odgovornosti",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-20T12:17+02:00"
     }
    ],
    "data": "20 ott",
@@ -3565,7 +3429,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "zcd836efb",
-   "sez": "economia",
+   "sez": "organizzazioni",
    "titolo": "Nuova Caledonia: l'Unione Europea verso un accordo strategico sul nichel",
    "orig": "EU poised to sign deal with New Caledonia on crucial nickel resources",
    "lead": "L'Unione Europea si appresta a firmare un accordo strategico con la Nuova Caledonia per la fornitura e la gestione delle risorse di nichel. L'intesa mira a garantire alle industrie europee l'accesso a materie prime critiche fondamentali per la transizione ecologica e tecnologica continentale. Lo riferisce RNZ Pacific.",
@@ -3714,36 +3578,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Suriname",
      "t": "2026-10-20T03:00+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:51",
-   "uscita": "13"
-  },
-  {
-   "id": "z74777059",
-   "sez": "mondo",
-   "titolo": "Europa: mobilitazioni e proteste giovanili contro il carovita in vari Paesi",
-   "orig": "Spánn, Belgía, Ítalía, Portúgal og Albanía – ungt fólk mótmælir í Evrópu",
-   "lead": "Una vasta ondata di proteste giovanili e studentesche sta interessando diversi Paesi europei tra cui Italia, Francia, Albania, Spagna e Portogallo. Le manifestazioni denunciano il forte rincaro del costo della vita, il prezzo degli alloggi e le politiche dell'istruzione, portando a tensioni e scontri con le forze dell'ordine.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RÚV",
-     "p": "XX",
-     "c": "Reykjavík",
-     "u": "https://www.ruv.is/frettir/erlent/2026-10-20-spann-belgia-italia-portugal-og-albania-ungt-folk-motmaelir-i-evropu-490405/",
-     "angolo": "",
-     "atlas": "Iceland",
-     "t": "2026-10-20T07:24+00:00"
-    },
-    {
-     "n": "Novo Jornal",
-     "p": "XX",
-     "c": "Luanda",
-     "u": "http://novojornal.co.ao/internacional/detalhe/europa-treme-sob-gigantescos-protestos-populares-contra-perda-de-qualidade-de-vida-albania-franca-e-portugal-lideram-abalo-civico-no-velho-continente-75478.html",
-     "angolo": "",
-     "atlas": "Angola"
     }
    ],
    "data": "20 ott",
@@ -4159,6 +3993,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Montenegro",
      "t": "2026-10-20T12:26+02:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/politika/832362/gorcevic-gradjanima-jasna-razlika-izmedju-deklarativne-podrske-i-konkretne-odgovornosti",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-20T12:17+02:00"
     }
    ],
    "data": "20 ott",
@@ -4665,30 +4508,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z1033d362",
-   "sez": "tech",
-   "titolo": "Problemi a Google Cloud provocano il blocco dei servizi di Revolut a Londra",
-   "orig": "Care este motivul căderii serviciilor Revolut",
-   "lead": "I servizi della banca digitale britannica Revolut hanno subito una pesante interruzione operativa causata da un contemporaneo disservizio dell'infrastruttura di Google Cloud. Diversi servizi della piattaforma cloud del colosso statunitense hanno infatti segnalato guasti nella regione londinese. Secondo quanto riferito a Reuters da una persona informata sui fatti, il blocco temporaneo che ha colpito le attività e le transazioni dei clienti di Revolut è direttamente collegato alle difficoltà tecniche registrate sui server di Google. Lo riferisce HotNews.",
-   "more": [
-    "Molte aziende fintech e banche digitali si affidano a infrastrutture cloud esterne per gestire enormi volumi di transazioni in tempo reale. Quando i data center centrali affrontano problemi di connettività o di alimentazione, i servizi collegati possono diventare inaccessibili fino al completo ripristino dei server."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/care-este-motivul-caderii-serviciilor-revolut-2381082",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-20T09:56+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:45",
-   "uscita": "13"
-  },
-  {
    "id": "ze05899dc",
    "sez": "sport",
    "titolo": "La UEFA designa gli arbitri per le gare europee di Benfica e Torreense",
@@ -4913,7 +4732,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z0e3b0982",
-   "sez": "cucina",
+   "sez": "adolescenti",
    "titolo": "Nelle mense scolastiche americane arrivano le polpette ibride a ridotto contenuto di carne",
    "orig": "These startups hope “blended” food will cut our appetite for red meat",
    "lead": "Alcune startup del settore alimentare stanno sperimentando nuovi prodotti ibridi nelle mense scolastiche americane per diminuire il consumo di carne rossa tra gli adolescenti. Nell'autunno del 2025, Jeff Dodge ha allestito un bancone nella mensa della Cane Bay High School a Summerville, nella Carolina del Sud, per sottoporre le preparazioni al giudizio di 150 studenti. L'esperimento culinario ha proposto polpette fumanti con salsa marinara realizzate combinando carne bovina e ingredienti vegetali, nel tentativo di offrire alternative sostenibili gradite ai giovani consumatori. Lo riferisce MIT Technology Review.",
@@ -4933,7 +4752,8 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "data": "20 ott",
    "ora": "12:45",
-   "uscita": "13"
+   "uscita": "13",
+   "sub": "tech"
   },
   {
    "id": "z921cfbc3",
@@ -5713,7 +5533,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "zafd6cd08",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "I Seventeen primi nella classifica asiatica dei tour con 97 milioni di dollari",
    "orig": "Seventeen tops Pollstar Asia touring chart with $97m in revenue",
    "lead": "Il gruppo musicale sudcoreano Seventeen ha conquistato la vetta della classifica Pollstar relativa alle tournée in Asia, generando entrate per 97,4 milioni di dollari attraverso la vendita di 661.088 biglietti. I dati pubblicati dall'organo di settore statunitense fanno riferimento all'Asia Focus Charts per il periodo compreso tra il primo agosto 2025 e il 31 luglio 2026. La band ha migliorato la prestazione dell'annata precedente, quando si era posizionata al secondo posto dietro la formazione britannica dei Coldplay. Lo riferisce The Korea Herald.",
@@ -5848,30 +5668,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Albania",
      "t": "2026-10-20T09:56+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:45",
-   "uscita": "13"
-  },
-  {
-   "id": "z4aa1cdf0",
-   "sez": "ambiente",
-   "titolo": "Il Kirghizistan sostiene alla COP17 la tutela degli ecosistemi montani",
-   "orig": "Kyrgyzstan advocates for biodiversity conservation in high-mountain ecosystems at COP17",
-   "lead": "Il Kirghizistan ha formalizzato il proprio impegno per promuovere la conservazione della biodiversità negli ecosistemi montani ad alta quota in occasione della conferenza COP17. Le autorità del Paese centroasiatico intendono richiamare l'attenzione dei delegati globali sulla fragilità degli habitat d'altitudine, particolarmente vulnerabili alle mutazioni climatiche e alle pressioni ambientali, sollecitando strategie di salvaguardia multilaterali a tutela delle specie vegetali e animali caratteristiche delle aree montane. Lo riferisce AKIpress.",
-   "more": [
-    "Gli ecosistemi montani ospitano una parte rilevante della biodiversità terrestre e fungono da riserve idriche essenziali. A causa del riscaldamento globale, lo scioglimento dei ghiacciai e la perdita di habitat alpini minacciano gli equilibri naturali di intere regioni contigue."
-   ],
-   "fonti": [
+    },
     {
-     "n": "AKIpress",
+     "n": "ERT News",
      "p": "XX",
-     "c": "Bishkek",
-     "u": "https://akipress.com/news:926099",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/neo-vrontero-oxi-ton-foititon-sto-kalesma-rama-gia-dialogo-nees-antikyvernitikes-diadiloseis-ti-metadidei-i-apestalmeni-tou-ertnews-sta-tirana/",
      "angolo": "",
-     "atlas": "Kyrgyzstan",
-     "t": "2026-10-20T16:23+06:00"
+     "atlas": "Greece",
+     "t": "2026-10-20T10:25+00:00"
     }
    ],
    "data": "20 ott",
@@ -5928,7 +5733,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z2a9b9811",
-   "sez": "tech",
+   "sez": "ingegneria",
    "titolo": "Case pieghevoli e prefabbricate: i dubbi sulla reale soluzione al caro affitti",
    "orig": "Si comprano online e si aprono in poche ore: le case pieghevoli o capsule house sono davvero la risposta al caro affitti?",
    "lead": "Le case pieghevoli e le capsule house prefabbricate vengono proposte sempre più spesso come un'alternativa economica per fronteggiare la crisi abitativa e l'aumento degli affitti. Queste strutture modulari possono essere acquistate tramite internet, trasportate a bordo di un camion e montate in poche ore nel corso di un pomeriggio, a un prezzo nettamente inferiore rispetto a quello degli immobili tradizionali. Tuttavia, la loro reale praticità e sostenibilità dipendono da vincoli normativi, costi accessori e permessi edilizi necessari per l'installazione definitiva. Lo riferisce Focus.",
@@ -6574,6 +6379,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-20T11:57+02:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/gallia-klemmena-proionta-apo-tis-leilasies-polountai-sto-diadiktyo/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-20T10:29+00:00"
     }
    ],
    "data": "20 ott",
@@ -7063,6 +6877,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-10-20T09:26+00:00"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/seouly-despanits-heto-kievits-het-e-kanchoum-ir-divanagetneri-mi-masin/33880093.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-20T13:48+04:00"
     }
    ],
    "data": "20 ott",
@@ -7713,7 +7536,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z6dec27ff",
-   "sez": "cucina",
+   "sez": "tech",
    "titolo": "L'intelligenza artificiale supera l'olfatto umano nella descrizione del Sauvignon",
    "orig": "Dodici degustatori “falliscono” la descrizione di un Sauvignon, le macchine no. Come usare l’AI con intelligenza",
    "lead": "Durante una prova di degustazione dedicata al vino Sauvignon, dodici esperti assaggiatori non sono riusciti a descrivere con esattezza le caratteristiche organolettiche del prodotto, mentre i sistemi basati su intelligenza artificiale hanno fornito analisi accurate. L'esperto Carlo Ferretti ha evidenziato come l'approccio scientifico e gli strumenti computazionali possano integrarsi con le competenze umane per migliorare la valutazione enologica. Secondo Ferretti, mentre le persone possono guidare l'algoritmo indicando i parametri rilevanti da esaminare, i modelli digitali sono capaci di rilevare dettagli e sfumature che sfuggono ai sensi tradizionali. Lo riferisce Gambero Rosso.",
@@ -7961,30 +7784,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-20T07:50+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:34",
-   "uscita": "13"
-  },
-  {
-   "id": "z380f89e7",
-   "sez": "italia",
-   "titolo": "Sicurezza urbana a Milano: il governo prevede l'invio di altri cinquecento militari",
-   "orig": "Tajani: 500 militari in più a Milano",
-   "lead": "Il ministro degli Affari esteri Antonio Tajani ha annunciato l'intenzione del governo di assegnare cinquecento militari aggiuntivi alla città di Milano per potenziare i controlli del territorio e rafforzare la sicurezza pubblica. Il provvedimento è stato programmato per l'esame durante la riunione del Consiglio dei ministri, nell'ambito di un pacchetto di interventi mirati a incrementare il presidio nelle principali aree urbane e nei nodi nevralgici dei trasporti. L'impiego delle unità supplementari dell'esercito mira ad affiancare le forze di polizia nelle attività di vigilanza quotidiana. Lo riferisce Rai News.",
-   "more": [
-    "L'operazione 'Strade Sicure', introdotta in Italia nel 2008, autorizza l'impiego del personale delle forze armate a supporto delle forze dell'ordine per compiti di perlustrazione e vigilanza di siti sensibili. I contingenti operano con la qualifica di agenti di pubblica sicurezza, coordinati dai prefetti provinciali."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/tajani-500-militari-in-piu-a-milano-3149d34f-c4de-421b-abca-886cf8f9bfe1.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T08:27+00:00"
     }
    ],
    "data": "20 ott",
@@ -8621,6 +8420,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-20T08:46+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/care-este-motivul-caderii-serviciilor-revolut-2381082",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-20T09:56+00:00"
     }
    ],
    "data": "20 ott",
@@ -8944,57 +8752,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-20T02:18-04:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:34",
-   "uscita": "13"
-  },
-  {
-   "id": "z61eda674",
-   "sez": "spazio",
-   "titolo": "Marte, decolla la missione giapponese MMX diretta alla luna Phobos",
-   "orig": "Marte: il lancio della sonda MMX è riuscito",
-   "lead": "La missione spaziale giapponese MMX è partita con successo verso Marte prima dell'alba dalla base dell'isola di Tanegashima. Il vettore porta nello spazio una sonda destinata a raggiungere Phobos, una delle due lune marziane, per compiere un'impresa scientifica mai realizzata in precedenza: prelevare campioni di suolo e riportarli sulla Terra. L'obiettivo è raccogliere circa dieci grammi di polvere superficiale che potrebbero risultare decisivi per chiarire le origini ancora dibattute dei satelliti del pianeta rosso e far luce sull'evoluzione primordiale del sistema solare e dell'acqua.",
-   "more": [
-    "La missione Martian Moons eXploration (MMX) è guidata dall'agenzia spaziale giapponese Jaxa con il supporto di Nasa ed Esa. La comunità scientifica è divisa tra l'ipotesi che Phobos e Deimos siano asteroidi catturati dalla gravità marziana e quella che siano i resti di un gigantesco impatto cosmico contro Marte."
-   ],
-   "fonti": [
-    {
-     "n": "Focus",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.focus.it/scienza/spazio/missione-phobos-stasera-il-lancio-della-sonda-mmx-verso-la-luna-di-marte",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-19T12:00+02:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/20/news/spazio_sonda_giappone_verso_le_lune_di_marte_missione_mmx-425660036/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T12:01+02:00"
-    },
-    {
-     "n": "Prothom Alo (inglese)",
-     "p": "XX",
-     "c": "Dacca",
-     "u": "https://en.prothomalo.com/international/rxsz5mhhjh",
-     "angolo": "",
-     "atlas": "Bangladesh",
-     "t": "2026-10-20T07:35+00:00"
-    },
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/vid%C3%A9o/20261020-japon-une-fus%C3%A9e-d%C3%A9colle-vers-les-lunes-de-mars-deux-engins-fran%C3%A7ais-%C3%A0-bord",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-20T10:04+00:00"
     }
    ],
    "data": "20 ott",
@@ -9578,7 +9335,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z2448b5cd": "I resoconti pongono l'accento sulla protesta di Kiev per la mancata condivisione di intelligence da parte degli alleati.",
   "z323caa8b": "La ricerca focalizza l'attenzione sulla riduzione dell'infiammazione immunitaria per trattare l'insonnia senza rimuovere le placche.",
   "z608fe913": "L'organo informativo evidenzia il rigido controllo statale sulle frequenze radio per reprimere le notizie estere.",
-  "z380f89e7": "La testata mette in luce la decisione governativa di aumentare le forze dell'ordine nel capoluogo lombardo.",
   "z90eade8e": "L'emittente ceca segnala l'apertura della manifestazione internazionale e la premiazione delle migliori opere audio.",
   "z0f6e75a4": "L'attenzione è rivolta alla grande scultura mobile e al suo scopo pedagogico sul territorio inglese.",
   "zdf09a445": "L'agenzia evidenzia l'entità del danno economico e il tentativo di nascondere il taglio clandestino.",
@@ -9613,7 +9369,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zae336b92": "Il quotidiano romano mette in allerta i cittadini sui rischi idrogeologici e sul repentino calo termico previsto nella capitale.",
   "zb898467e": "La rivista di viaggi offre raccomandazioni pratiche sulle usanze locali e sui mesi meno favorevoli dal punto di vista meteo.",
   "z907084c2": "La testata specializzata evidenzia i problemi burocratici con i visti che hanno costretto la produzione ad annullare le date.",
-  "z61eda674": "I giornali celebrano il lancio senza problemi del razzo e la portata scientifica della raccolta campioni su Phobos.",
   "zbc556cc5": "L'emittente tedesca illustra la duplicità storica tra violenza militare e innovazione politica analizzata nell'esposizione.",
   "z268b3a64": "L'agenzia tagika evidenzia il trionfo dell'opera storica dedicata ai due massimi poeti della tradizione classica regionale.",
   "z0318cd24": "La radio regionale sottolinea l'importanza vitale delle operazioni gratuite per restituire la vista ai profughi sudanesi.",
@@ -9638,7 +9393,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z4296d0c2": "Orizzonte Scuola riepiloga le procedure pratiche e gli obblighi dei docenti nei viaggi d'istruzione in caso di infortunio.",
   "z198eb6c1": "Rolling Stone Italia celebra la reinterpretazione del brano e l'approccio artistico di Dylan alla continua riscrittura dei testi.",
   "z2ea11eba": "L'emittente sammarinese segnala la riprogrammazione speciale del film cult restaurato a trent'anni dall'esordio.",
-  "z1033d362": "La testata romena evidenzia la dipendenza tecnica della banca digitale dai server cloud di Google.",
   "ze05899dc": "L'emittente lusitana riassume le decisioni della UEFA riguardanti i direttori di gara per i club portoghesi.",
   "z2815d7dc": "Il quotidiano pachistano sottolinea la rapida successione di funzionari al vertice del ministero sanitario.",
   "z9db46566": "La rivista specializzata pone l'accento sull'approvazione del cantiere per ampliare l'offerta abitativa.",
@@ -9687,7 +9441,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zfb39d901": "La pubblicazione medica segnala come la prevenzione programmata sia vantaggiosa anche al di sotto delle consuete soglie cliniche.",
   "z7c023452": "La rubrica analizza l'evoluzione culturale e il valore simbolico del celebre cartone per alimenti diffuso nella ristorazione americana.",
   "z66e34f2e": "La testata evidenzia l'azione dimostrativa degli studenti contro gli abusi di polizia e il rifiuto di avviare il confronto formale.",
-  "z4aa1cdf0": "L'agenzia evidenzia l'iniziativa diplomatica dello Stato kirghiso a tutela dei delicati ambienti d'alta quota al vertice ecologico.",
   "z67b7f597": "L'agenzia locale riporta le statistiche sull'età avanzata del personale scolastico e le richieste di adeguamenti salariali nella capitale.",
   "z4692ae9b": "L'attenzione della testata si focalizza sul ruolo del tatto fisico come strumento artistico per superare la distanza tra corporeità e pensiero.",
   "z2a9b9811": "La testata evidenzia il contrasto tra la rapidità di montaggio promessa online e gli ostacoli pratici legati a permessi e normative.",
@@ -9790,7 +9543,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zff1ee2a1": "La testata d'informazione evidenzia la composizione politica della nuova maggioranza di governo a Bucarest.",
   "z501adf3e": "La testata d'inchiesta pone il focus sull'uso indebito delle tecnologie di sorveglianza contro i dissidenti politici.",
   "z09e77fdd": "Il network belga esamina i vuoti legislativi europei sul tema della gestazione per altri stimolati dal caso olandese.",
-  "z74777059": "La radiotelevisione islandese mette in evidenza la dimensione transnazionale del malcontento economico delle giovani generazioni.",
   "z63fbac82": "Il quotidiano malawiano mette in rilievo l'impatto diretto delle strozzature energetiche sulle finanze quotidiane dei cittadini.",
   "z5125b7a9": "Il quotidiano indipendente cubano analizza le dinamiche elettorali e le preferenze dell'elettorato ispanico negli Stati Uniti.",
   "zb28094b6": "Il giornale nicaraguense in esilio evidenzia le dinamiche interne di potere e il ruolo della militanza giovanile nel regime.",
@@ -9832,13 +9584,9 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zb9f4706c": "L'emittente pubblica neozelandese riporta le posizioni ufficiali sulle controversie educative e la tutela dei minori.",
   "z8a9fc9a4": "La testata approfondisce l'applicazione di tecnologie avanzate nella salvaguardia della biodiversità locale.",
   "z5d9352fd": "L'emittente greca offre un'analisi intellettuale sul malcontento sociale e sulle ripercussioni politiche nell'Unione Europea.",
-  "zd911c5f9": "L'emittente greca analizza le ripercussioni delle violenze urbane in Francia sul mercato digitale europeo.",
-  "zca805e36": "L'inviata a Tirana sottolinea la fermezza della piazza nel rifiutare compromessi con l'esecutivo di Edi Rama.",
-  "z31101652": "La testata armena evidenzia le tensioni diplomatiche tra Seul e Kyiv legate alla gestione dei prigionieri nordcoreani.",
   "z4fc734b9": "L'emittente mette in risalto le istanze umanitarie armene in coincidenza con grandi eventi internazionali di rilievo diplomatico.",
   "z9b9214bd": "La testata vaticana privilegia il ruolo mediatore e spirituale della Chiesa nelle dinamiche di stabilità sociale e unità nazionale.",
   "z00b0a83a": "Focus sulla difesa delle comunità locali e sulla denuncia delle violazioni dei diritti nel contesto del conflitto in Terra Santa.",
-  "zf86eacde": "L'emittente riporta l'apertura diplomatica della Casa Bianca verso le altre grandi potenze mondiali sul tema della sicurezza nucleare.",
   "z77e9c184": "La testata monitora il rispetto delle normative bancarie centrali e la tutela dei consumatori nel mercato tanzaniano.",
   "zf87e18a7": "La testata segue la diplomazia regionale africana e le iniziative per l'integrazione e la sicurezza continentale.",
   "zf5a10efc": "Riflette la strategia di cooperazione mineraria dell'Africa orientale e il suo impatto sullo sviluppo industriale.",
@@ -9861,7 +9609,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "za9d6c2da": "Il giornale rumeno riprende le tensioni politiche francesi legate alla gestione dell'ordine pubblico e all'intelligence.",
   "z03e98564": "La testata riporta il punto di vista di un'autorevole giurista internazionale sulle criticità del sistema democratico rumeno.",
   "z5aec10ce": "L'emittente evidenzia i rischi per l'indipendenza dell'informazione e il pluralismo mediatico nel Paese.",
-  "zf1225415": "La testata pone l'accento sull'impegno istituzionale a favore della trasparenza e delle riforme costituzionali.",
   "z1503622e": "L'articolo sottolinea l'attenzione del governo montenegrino verso la crescita economica e la cooperazione internazionale.",
   "z300639c9": "La testata mette in luce la crescente tensione diplomatica tra Tbilisi e le istituzioni europee.",
   "zceedd328": "Il giornale evidenzia le rigide ripercussioni politiche causate dagli incidenti diplomatici del governo armeno.",
@@ -9875,7 +9622,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z2647884f": "Il servizio pubblico olandese informa i lettori sull'impatto economico dei rincari del trasporto ferroviario.",
   "z1600cd2b": "L'emittente di Stato austriaca richiama l'attenzione dello stato di salute delle istituzioni democratiche del Paese.",
   "z90aa9040": "La testata si concentra sui dettagli tecnici e strategici della cooperazione militare tra Ucraina e Stati Uniti.",
-  "z97f3da75": "Il media islandese pone l'accento sulla mediazione dei paesi nordici nel facilitare il dialogo tra Ucraina e staff di Trump.",
   "z64cbb0b6": "La testata tunisina celebra con toni entusiastici il successo dei giovani talenti nazionali in un contesto tecnologico globale.",
   "z79df0201": "La radio congolese focalizza l'attenzione sull'importanza dell'educazione sanitaria per abbattere le barriere culturali nelle aree rurali.",
   "z9dab3b76": "L'emittente monitora l'operato delle istituzioni nazionali nel campo dei diritti civili e dell'inclusione sociale.",
@@ -10233,13 +9979,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z380f89e7": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z90eade8e": {
    "n": "Praga",
    "p": [
@@ -10480,13 +10219,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z61eda674": {
-   "n": "Tanegashima",
-   "p": [
-    "Japan"
-   ],
-   "pt": []
-  },
   "zbc556cc5": {
    "n": "Berlino",
    "p": [
@@ -10650,13 +10382,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "San Marino",
    "p": [
     "San Marino"
-   ],
-   "pt": []
-  },
-  "z1033d362": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -10995,13 +10720,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "Tirana",
    "p": [
     "Albania"
-   ],
-   "pt": []
-  },
-  "z4aa1cdf0": {
-   "n": "Bishkek",
-   "p": [
-    "Kyrgyzstan"
    ],
    "pt": []
   },
@@ -11732,18 +11450,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z74777059": {
-   "n": "Europa",
-   "p": [
-    "Italy",
-    "France",
-    "Albania",
-    "Spain",
-    "Portugal",
-    "Belgium"
-   ],
-   "pt": []
-  },
   "z63fbac82": {
    "n": "Lilongwe",
    "p": [
@@ -12041,27 +11747,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "zd911c5f9": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "zca805e36": {
-   "n": "Tirana",
-   "p": [
-    "Albania"
-   ],
-   "pt": []
-  },
-  "z31101652": {
-   "n": "Kyiv",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z4fc734b9": {
    "n": "Erevan",
    "p": [
@@ -12080,13 +11765,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "Taybeh",
    "p": [
     "Palestine"
-   ],
-   "pt": []
-  },
-  "zf86eacde": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -12244,13 +11922,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "zf1225415": {
-   "n": "Podgorica",
-   "p": [
-    "Montenegro"
-   ],
-   "pt": []
-  },
   "z1503622e": {
    "n": "Podgorica",
    "p": [
@@ -12336,13 +12007,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "pt": []
   },
   "z90aa9040": {
-   "n": "Oslo",
-   "p": [
-    "Norway"
-   ],
-   "pt": []
-  },
-  "z97f3da75": {
    "n": "Oslo",
    "p": [
     "Norway"
@@ -12633,7 +12297,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z2448b5cd": 2,
   "z323caa8b": 1,
   "z608fe913": 1,
-  "z380f89e7": 1,
   "z90eade8e": 1,
   "z0f6e75a4": 1,
   "zdf09a445": 1,
@@ -12668,7 +12331,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zae336b92": 1,
   "zb898467e": 1,
   "z907084c2": 1,
-  "z61eda674": 2,
   "zbc556cc5": 1,
   "z268b3a64": 1,
   "z0318cd24": 1,
@@ -12693,7 +12355,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z4296d0c2": 1,
   "z198eb6c1": 1,
   "z2ea11eba": 1,
-  "z1033d362": 1,
   "ze05899dc": 1,
   "z2815d7dc": 1,
   "z9db46566": 1,
@@ -12742,7 +12403,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zfb39d901": 1,
   "z7c023452": 1,
   "z66e34f2e": 1,
-  "z4aa1cdf0": 1,
   "z67b7f597": 1,
   "z4692ae9b": 1,
   "z2a9b9811": 1,
@@ -12845,7 +12505,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zff1ee2a1": 1,
   "z501adf3e": 1,
   "z09e77fdd": 1,
-  "z74777059": 1,
   "z63fbac82": 1,
   "z5125b7a9": 2,
   "zb28094b6": 1,
@@ -12887,13 +12546,9 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zb9f4706c": 1,
   "z8a9fc9a4": 1,
   "z5d9352fd": 1,
-  "zd911c5f9": 1,
-  "zca805e36": 1,
-  "z31101652": 1,
   "z4fc734b9": 1,
   "z9b9214bd": 2,
   "z00b0a83a": 1,
-  "zf86eacde": 1,
   "z77e9c184": 1,
   "zf87e18a7": 1,
   "zf5a10efc": 1,
@@ -12916,7 +12571,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "za9d6c2da": 1,
   "z03e98564": 1,
   "z5aec10ce": 1,
-  "zf1225415": 1,
   "z1503622e": 1,
   "z300639c9": 2,
   "zceedd328": 1,
@@ -12930,7 +12584,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z2647884f": 1,
   "z1600cd2b": 1,
   "z90aa9040": 2,
-  "z97f3da75": 1,
   "z64cbb0b6": 1,
   "z79df0201": 1,
   "z9dab3b76": 1,
